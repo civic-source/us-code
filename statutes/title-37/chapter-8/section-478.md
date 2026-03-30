@@ -3,9 +3,9 @@ title: "Section 478 - Travel and transportation allowances: travel within limits
 usc_title: 37
 usc_section: "478"
 chapter: 8
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "37 U.S.C. § 478"
-generated_at: "2026-03-30T06:56:31.899Z"
+generated_at: "2026-03-30T07:00:15.239Z"
 status: "active"
 ---
 

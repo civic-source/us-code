@@ -3,9 +3,9 @@ title: "Section 5147 - Repealed. Pub. L. 89–718 , § 35(5), Nov. 2, 1966 , 80 
 usc_title: 10
 usc_section: "5147"
 chapter: 513
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 5147"
-generated_at: "2026-03-30T06:55:28.021Z"
+generated_at: "2026-03-30T06:57:50.066Z"
 status: "repealed"
 ---
 

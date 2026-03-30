@@ -3,9 +3,9 @@ title: "Section 5009 - Repealed. Pub. L. 96–39, title VIII , § 807(a)(7), Jul
 usc_title: 26
 usc_section: "5009"
 chapter: 51
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 5009"
-generated_at: "2026-03-30T06:56:23.096Z"
+generated_at: "2026-03-30T06:59:48.959Z"
 status: "repealed"
 ---
 

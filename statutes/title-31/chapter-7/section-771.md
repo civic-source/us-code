@@ -3,9 +3,9 @@ title: "Section 771 - Definitions"
 usc_title: 31
 usc_section: "771"
 chapter: 7
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "31 U.S.C. § 771"
-generated_at: "2026-03-30T06:56:28.437Z"
+generated_at: "2026-03-30T06:59:57.355Z"
 status: "active"
 ---
 

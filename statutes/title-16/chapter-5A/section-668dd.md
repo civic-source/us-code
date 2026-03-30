@@ -3,9 +3,9 @@ title: "Section 668dd - National Wildlife Refuge System"
 usc_title: 16
 usc_section: "668dd"
 chapter: 5
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 668dd"
-generated_at: "2026-03-30T06:55:59.203Z"
+generated_at: "2026-03-30T06:59:20.400Z"
 status: "active"
 ---
 

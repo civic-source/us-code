@@ -3,9 +3,9 @@ title: "Section 2357g - Reporting and consultation"
 usc_title: 50
 usc_section: "2357g"
 chapter: 40
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "50 U.S.C. § 2357g"
-generated_at: "2026-03-30T06:56:56.567Z"
+generated_at: "2026-03-30T07:00:55.588Z"
 status: "active"
 ---
 

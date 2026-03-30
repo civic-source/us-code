@@ -3,9 +3,9 @@ title: "Section 1567a - Mandatory notification of issuance of military protectiv
 usc_title: 10
 usc_section: "1567a"
 chapter: 80
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 1567a"
-generated_at: "2026-03-30T06:55:27.963Z"
+generated_at: "2026-03-30T06:57:50.009Z"
 status: "active"
 ---
 

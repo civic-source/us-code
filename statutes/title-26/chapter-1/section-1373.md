@@ -3,9 +3,9 @@ title: "Section 1373 - Foreign income"
 usc_title: 26
 usc_section: "1373"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 1373"
-generated_at: "2026-03-30T06:56:23.054Z"
+generated_at: "2026-03-30T06:59:48.916Z"
 status: "active"
 ---
 

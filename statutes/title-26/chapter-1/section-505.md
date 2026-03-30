@@ -3,9 +3,9 @@ title: "Section 505 - Additional requirements for organizations described in par
 usc_title: 26
 usc_section: "505"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 505"
-generated_at: "2026-03-30T06:56:23.002Z"
+generated_at: "2026-03-30T06:59:48.864Z"
 status: "active"
 ---
 

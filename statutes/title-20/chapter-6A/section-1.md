@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 93–516, title II , § 205, Dec. 7, 1974 
 usc_title: 20
 usc_section: "1"
 chapter: 6
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T06:56:03.382Z"
+generated_at: "2026-03-30T06:58:55.964Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2227 - Electronic submission and processing of claims for contra
 usc_title: 10
 usc_section: "2227"
 chapter: 131
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 2227"
-generated_at: "2026-03-30T06:55:27.975Z"
+generated_at: "2026-03-30T06:57:50.021Z"
 status: "active"
 ---
 

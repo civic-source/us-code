@@ -3,9 +3,9 @@ title: "Section 6933 - Hazardous waste site inventory"
 usc_title: 42
 usc_section: "6933"
 chapter: 82
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 6933"
-generated_at: "2026-03-30T06:56:51.270Z"
+generated_at: "2026-03-30T07:00:49.570Z"
 status: "active"
 ---
 

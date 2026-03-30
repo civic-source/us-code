@@ -3,9 +3,9 @@ title: "Section 2252 - Notice"
 usc_title: 28
 usc_section: "2252"
 chapter: 153
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "28 U.S.C. § 2252"
-generated_at: "2026-03-30T06:56:17.934Z"
+generated_at: "2026-03-30T06:59:54.704Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Long-term care ombudsman program grants and training"
 usc_title: 42
 usc_section: "2"
 chapter: 7
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T06:56:51.106Z"
+generated_at: "2026-03-30T07:00:49.371Z"
 status: "active"
 ---
 

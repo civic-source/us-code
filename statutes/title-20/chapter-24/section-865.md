@@ -3,9 +3,9 @@ title: "Section 865 - Omitted"
 usc_title: 20
 usc_section: "865"
 chapter: 24
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 865"
-generated_at: "2026-03-30T06:56:03.384Z"
+generated_at: "2026-03-30T06:58:55.966Z"
 status: "omitted"
 ---
 

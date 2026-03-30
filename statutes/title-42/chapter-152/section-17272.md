@@ -3,9 +3,9 @@ title: "Section 17272 - Assessment of carbon sequestration and methane and nitro
 usc_title: 42
 usc_section: "17272"
 chapter: 152
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 17272"
-generated_at: "2026-03-30T06:56:51.450Z"
+generated_at: "2026-03-30T07:00:49.802Z"
 status: "active"
 ---
 

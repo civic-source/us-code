@@ -3,9 +3,9 @@ title: "Section 40723 - Sexual assault forensic exam program grants"
 usc_title: 34
 usc_section: "40723"
 chapter: 407
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 40723"
-generated_at: "2026-03-30T06:56:27.110Z"
+generated_at: "2026-03-30T07:00:13.361Z"
 status: "active"
 ---
 

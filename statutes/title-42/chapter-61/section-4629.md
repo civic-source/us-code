@@ -3,9 +3,9 @@ title: "Section 4629 - Public works programs and projects of District of Columbi
 usc_title: 42
 usc_section: "4629"
 chapter: 61
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 4629"
-generated_at: "2026-03-30T06:56:51.218Z"
+generated_at: "2026-03-30T07:00:49.503Z"
 status: "active"
 ---
 

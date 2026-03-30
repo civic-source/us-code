@@ -3,9 +3,9 @@ title: "Section 142 - Repealed. Pub. L. 105–113 , § 3(a), Nov. 21, 1997 , 111
 usc_title: 13
 usc_section: "142"
 chapter: 5
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "13 U.S.C. § 142"
-generated_at: "2026-03-30T06:55:36.042Z"
+generated_at: "2026-03-30T06:58:17.346Z"
 status: "repealed"
 ---
 

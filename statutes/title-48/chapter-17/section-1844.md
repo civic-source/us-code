@@ -3,9 +3,9 @@ title: "Section 1844 - Political union between Territory of Guam and Commonwealt
 usc_title: 48
 usc_section: "1844"
 chapter: 17
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "48 U.S.C. § 1844"
-generated_at: "2026-03-30T06:57:13.321Z"
+generated_at: "2026-03-30T07:00:53.311Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4411 - Findings; statement of purposes"
 usc_title: 22
 usc_section: "4411"
 chapter: 54
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 4411"
-generated_at: "2026-03-30T06:56:09.959Z"
+generated_at: "2026-03-30T06:59:35.049Z"
 status: "active"
 ---
 

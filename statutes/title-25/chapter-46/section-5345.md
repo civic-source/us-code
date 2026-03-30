@@ -3,9 +3,9 @@ title: "Section 5345 - Contracts for education in public schools; submission of 
 usc_title: 25
 usc_section: "5345"
 chapter: 46
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "25 U.S.C. § 5345"
-generated_at: "2026-03-30T06:56:07.486Z"
+generated_at: "2026-03-30T06:59:23.392Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1089 - Master calendar"
 usc_title: 20
 usc_section: "1089"
 chapter: 28
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 1089"
-generated_at: "2026-03-30T06:56:03.428Z"
+generated_at: "2026-03-30T06:58:56.005Z"
 status: "active"
 ---
 

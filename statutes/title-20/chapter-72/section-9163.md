@@ -3,9 +3,9 @@ title: "Section 9163 - State and local initiatives"
 usc_title: 20
 usc_section: "9163"
 chapter: 72
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 9163"
-generated_at: "2026-03-30T06:56:03.555Z"
+generated_at: "2026-03-30T06:58:56.086Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 171 - Forfeitures and seizures of guns, traps, teams, etc."
 usc_title: 16
 usc_section: "171"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 171"
-generated_at: "2026-03-30T06:55:59.103Z"
+generated_at: "2026-03-30T06:59:20.305Z"
 status: "active"
 ---
 

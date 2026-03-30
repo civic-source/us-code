@@ -3,9 +3,9 @@ title: "Section 6103 - Penalty"
 usc_title: 46
 usc_section: "6103"
 chapter: 61
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "46 U.S.C. § 6103"
-generated_at: "2026-03-30T06:56:54.696Z"
+generated_at: "2026-03-30T07:00:54.098Z"
 status: "active"
 ---
 

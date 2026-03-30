@@ -3,9 +3,9 @@ title: "Section 238b - Disposition of money collected for care of patients"
 usc_title: 42
 usc_section: "238b"
 chapter: 6
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 238b"
-generated_at: "2026-03-30T06:56:50.822Z"
+generated_at: "2026-03-30T07:00:49.024Z"
 status: "active"
 ---
 

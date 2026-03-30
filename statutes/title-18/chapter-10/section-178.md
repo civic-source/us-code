@@ -3,9 +3,9 @@ title: "Section 178 - Definitions"
 usc_title: 18
 usc_section: "178"
 chapter: 10
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "18 U.S.C. § 178"
-generated_at: "2026-03-30T06:56:04.403Z"
+generated_at: "2026-03-30T06:58:40.101Z"
 status: "active"
 ---
 

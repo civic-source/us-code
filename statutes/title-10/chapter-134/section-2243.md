@@ -3,9 +3,9 @@ title: "Section 2243 - Authority to use appropriated funds to support student me
 usc_title: 10
 usc_section: "2243"
 chapter: 134
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 2243"
-generated_at: "2026-03-30T06:55:27.976Z"
+generated_at: "2026-03-30T06:57:50.022Z"
 status: "active"
 ---
 

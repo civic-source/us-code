@@ -3,9 +3,9 @@ title: "Section 6039E - Information concerning resident status"
 usc_title: 26
 usc_section: "6039E"
 chapter: 61
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 6039E"
-generated_at: "2026-03-30T06:56:23.108Z"
+generated_at: "2026-03-30T06:59:48.971Z"
 status: "active"
 ---
 

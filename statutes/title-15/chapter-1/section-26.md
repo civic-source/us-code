@@ -3,9 +3,9 @@ title: "Section 26 - Injunctive relief for private parties; exception; costs"
 usc_title: 15
 usc_section: "26"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 26"
-generated_at: "2026-03-30T06:55:50.131Z"
+generated_at: "2026-03-30T06:58:17.120Z"
 status: "active"
 ---
 

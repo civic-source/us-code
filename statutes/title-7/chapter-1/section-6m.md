@@ -3,9 +3,9 @@ title: "Section 6m - Use of mails or other means or instrumentalities of interst
 usc_title: 7
 usc_section: "6m"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 6m"
-generated_at: "2026-03-30T06:55:33.934Z"
+generated_at: "2026-03-30T06:57:44.233Z"
 status: "active"
 ---
 

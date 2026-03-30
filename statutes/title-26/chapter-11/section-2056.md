@@ -3,9 +3,9 @@ title: "Section 2056 - Bequests, etc., to surviving spouse"
 usc_title: 26
 usc_section: "2056"
 chapter: 11
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 2056"
-generated_at: "2026-03-30T06:56:23.066Z"
+generated_at: "2026-03-30T06:59:48.929Z"
 status: "active"
 ---
 

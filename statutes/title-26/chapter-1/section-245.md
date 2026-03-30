@@ -3,9 +3,9 @@ title: "Section 245 - Dividends received from certain foreign corporations"
 usc_title: 26
 usc_section: "245"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 245"
-generated_at: "2026-03-30T06:56:22.960Z"
+generated_at: "2026-03-30T06:59:48.823Z"
 status: "active"
 ---
 

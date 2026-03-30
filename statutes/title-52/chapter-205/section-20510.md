@@ -3,9 +3,9 @@ title: "Section 20510 - Civil enforcement and private right of action"
 usc_title: 52
 usc_section: "20510"
 chapter: 205
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "52 U.S.C. § 20510"
-generated_at: "2026-03-30T06:57:15.986Z"
+generated_at: "2026-03-30T07:01:03.286Z"
 status: "active"
 ---
 

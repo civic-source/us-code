@@ -3,9 +3,9 @@ title: "Section 20914 - Information required in registration"
 usc_title: 34
 usc_section: "20914"
 chapter: 209
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 20914"
-generated_at: "2026-03-30T06:56:27.101Z"
+generated_at: "2026-03-30T07:00:13.347Z"
 status: "active"
 ---
 

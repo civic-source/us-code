@@ -3,9 +3,9 @@ title: "Section 58 - Technical assistance and provision of supplies and services
 usc_title: 42
 usc_section: "58"
 chapter: 6
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 58"
-generated_at: "2026-03-30T06:56:50.920Z"
+generated_at: "2026-03-30T07:00:49.141Z"
 status: "active"
 ---
 

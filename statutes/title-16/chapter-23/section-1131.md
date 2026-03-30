@@ -3,9 +3,9 @@ title: "Section 1131 - National Wilderness Preservation System"
 usc_title: 16
 usc_section: "1131"
 chapter: 23
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 1131"
-generated_at: "2026-03-30T06:55:59.238Z"
+generated_at: "2026-03-30T06:59:20.433Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 124 - Expenditures from tribal funds of Five Civilized Tribes wi
 usc_title: 25
 usc_section: "124"
 chapter: 4
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "25 U.S.C. § 124"
-generated_at: "2026-03-30T06:56:07.428Z"
+generated_at: "2026-03-30T06:59:23.337Z"
 status: "active"
 ---
 

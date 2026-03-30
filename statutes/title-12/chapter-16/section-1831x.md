@@ -3,9 +3,9 @@ title: "Section 1831x - Insurance customer protections"
 usc_title: 12
 usc_section: "1831x"
 chapter: 16
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "12 U.S.C. § 1831x"
-generated_at: "2026-03-30T06:55:43.069Z"
+generated_at: "2026-03-30T06:58:36.754Z"
 status: "active"
 ---
 

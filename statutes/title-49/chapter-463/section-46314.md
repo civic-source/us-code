@@ -3,9 +3,9 @@ title: "Section 46314 - Entering aircraft or airport area in violation of securi
 usc_title: 49
 usc_section: "46314"
 chapter: 463
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "49 U.S.C. § 46314"
-generated_at: "2026-03-30T06:56:58.476Z"
+generated_at: "2026-03-30T07:00:58.201Z"
 status: "active"
 ---
 

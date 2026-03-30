@@ -3,9 +3,9 @@ title: "Section 7103 - Repealed. Pub. L. 114–95, title IV , § 4002, Dec. 10, 
 usc_title: 20
 usc_section: "7103"
 chapter: 70
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 7103"
-generated_at: "2026-03-30T06:56:03.537Z"
+generated_at: "2026-03-30T06:58:56.069Z"
 status: "repealed"
 ---
 

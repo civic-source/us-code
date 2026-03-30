@@ -3,9 +3,9 @@ title: "Section 223 - Number of Federal reserve cities in district"
 usc_title: 12
 usc_section: "223"
 chapter: 3
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "12 U.S.C. § 223"
-generated_at: "2026-03-30T06:55:42.992Z"
+generated_at: "2026-03-30T06:58:36.677Z"
 status: "active"
 ---
 

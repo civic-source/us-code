@@ -3,9 +3,9 @@ title: "Section 1525 - Cooperation and direct communication between the court an
 usc_title: 11
 usc_section: "1525"
 chapter: 15
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "11 U.S.C. § 1525"
-generated_at: "2026-03-30T06:55:36.512Z"
+generated_at: "2026-03-30T06:58:13.577Z"
 status: "active"
 ---
 

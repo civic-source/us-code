@@ -3,9 +3,9 @@ title: "Section 2219 - Salaries; how paid"
 usc_title: 7
 usc_section: "2219"
 chapter: 55
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 2219"
-generated_at: "2026-03-30T06:55:34.035Z"
+generated_at: "2026-03-30T06:57:44.335Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2305 - Responsibility of the Government Accountability Office"
 usc_title: 5
 usc_section: "2305"
 chapter: 23
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "5 U.S.C. § 2305"
-generated_at: "2026-03-30T06:55:12.148Z"
+generated_at: "2026-03-30T06:57:38.987Z"
 status: "active"
 ---
 

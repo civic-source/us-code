@@ -3,9 +3,9 @@ title: "Section 1628a - Exchange of information related to trade enforcement"
 usc_title: 19
 usc_section: "1628a"
 chapter: 4
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "19 U.S.C. § 1628a"
-generated_at: "2026-03-30T06:55:54.814Z"
+generated_at: "2026-03-30T06:59:03.818Z"
 status: "active"
 ---
 

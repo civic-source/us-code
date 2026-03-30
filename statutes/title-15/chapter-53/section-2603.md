@@ -3,9 +3,9 @@ title: "Section 2603 - Testing of chemical substances and mixtures"
 usc_title: 15
 usc_section: "2603"
 chapter: 53
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 2603"
-generated_at: "2026-03-30T06:55:50.266Z"
+generated_at: "2026-03-30T06:58:17.253Z"
 status: "active"
 ---
 

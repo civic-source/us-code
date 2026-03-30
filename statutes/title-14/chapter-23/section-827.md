@@ -3,9 +3,9 @@ title: "Section 827 - Vessel deemed public vessel"
 usc_title: 14
 usc_section: "827"
 chapter: 23
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "14 U.S.C. § 827"
-generated_at: "2026-03-30T06:55:37.241Z"
+generated_at: "2026-03-30T06:58:13.210Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5343 - Staff expenses for House Members attending organizational
 usc_title: 2
 usc_section: "5343"
 chapter: 53
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "2 U.S.C. § 5343"
-generated_at: "2026-03-30T06:55:19.830Z"
+generated_at: "2026-03-30T06:57:32.811Z"
 status: "active"
 ---
 

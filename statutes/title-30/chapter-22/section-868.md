@@ -3,9 +3,9 @@ title: "Section 868 - Underground high-voltage distribution"
 usc_title: 30
 usc_section: "868"
 chapter: 22
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "30 U.S.C. § 868"
-generated_at: "2026-03-30T06:56:15.971Z"
+generated_at: "2026-03-30T06:59:38.142Z"
 status: "active"
 ---
 

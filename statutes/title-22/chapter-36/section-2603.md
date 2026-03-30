@@ -3,9 +3,9 @@ title: "Section 2603 - Delegation of powers"
 usc_title: 22
 usc_section: "2603"
 chapter: 36
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 2603"
-generated_at: "2026-03-30T06:56:09.921Z"
+generated_at: "2026-03-30T06:59:35.019Z"
 status: "active"
 ---
 

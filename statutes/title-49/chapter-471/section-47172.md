@@ -3,9 +3,9 @@ title: "Section 47172 - Air traffic procedures for airport capacity enhancement 
 usc_title: 49
 usc_section: "47172"
 chapter: 471
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "49 U.S.C. § 47172"
-generated_at: "2026-03-30T06:56:58.483Z"
+generated_at: "2026-03-30T07:00:58.209Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4292 - Repealed. Pub. L. 94–455, title XIX , § 1904(a)(9), Oc
 usc_title: 26
 usc_section: "4292"
 chapter: 33
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 4292"
-generated_at: "2026-03-30T06:56:23.083Z"
+generated_at: "2026-03-30T06:59:48.945Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1236 - Dealers in securities"
 usc_title: 26
 usc_section: "1236"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 1236"
-generated_at: "2026-03-30T06:56:23.045Z"
+generated_at: "2026-03-30T06:59:48.908Z"
 status: "active"
 ---
 

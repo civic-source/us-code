@@ -3,9 +3,9 @@ title: "Section 1400O - Education tax benefits"
 usc_title: 26
 usc_section: "1400O"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 1400O"
-generated_at: "2026-03-30T06:56:23.059Z"
+generated_at: "2026-03-30T06:59:48.922Z"
 status: "active"
 ---
 

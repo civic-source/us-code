@@ -3,9 +3,9 @@ title: "Section 1441 - Lease of contiguous public lands for public airports; aut
 usc_title: 43
 usc_section: "1441"
 chapter: 30
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "43 U.S.C. § 1441"
-generated_at: "2026-03-30T06:56:41.131Z"
+generated_at: "2026-03-30T07:00:33.080Z"
 status: "active"
 ---
 

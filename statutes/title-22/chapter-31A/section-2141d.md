@@ -3,9 +3,9 @@ title: "Section 2141d - Repealed. Pub. L. 104–288 , § 7(a), Oct. 11, 1996 , 1
 usc_title: 22
 usc_section: "2141d"
 chapter: 31
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 2141d"
-generated_at: "2026-03-30T06:56:09.888Z"
+generated_at: "2026-03-30T06:59:34.993Z"
 status: "repealed"
 ---
 

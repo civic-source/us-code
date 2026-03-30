@@ -3,9 +3,9 @@ title: "Section 1719a - Repealed. Pub. L. 104–66, title I , § 1071(c), Dec. 2
 usc_title: 15
 usc_section: "1719a"
 chapter: 42
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 1719a"
-generated_at: "2026-03-30T06:55:50.251Z"
+generated_at: "2026-03-30T06:58:17.240Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10618 - Report"
 usc_title: 34
 usc_section: "10618"
 chapter: 101
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 10618"
-generated_at: "2026-03-30T06:56:27.079Z"
+generated_at: "2026-03-30T07:00:13.325Z"
 status: "active"
 ---
 

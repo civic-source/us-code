@@ -3,9 +3,9 @@ title: "Section 2295 - Compilation of laws; annual reports"
 usc_title: 33
 usc_section: "2295"
 chapter: 36
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "33 U.S.C. § 2295"
-generated_at: "2026-03-30T06:56:26.170Z"
+generated_at: "2026-03-30T07:00:10.866Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5102 - Legal description and jurisdiction of United States Capit
 usc_title: 40
 usc_section: "5102"
 chapter: 51
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "40 U.S.C. § 5102"
-generated_at: "2026-03-30T06:56:30.518Z"
+generated_at: "2026-03-30T07:00:20.794Z"
 status: "active"
 ---
 

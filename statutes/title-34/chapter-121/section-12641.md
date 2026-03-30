@@ -3,9 +3,9 @@ title: "Section 12641 - Task force relating to introduction of nonindigenous spe
 usc_title: 34
 usc_section: "12641"
 chapter: 121
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 12641"
-generated_at: "2026-03-30T06:56:27.095Z"
+generated_at: "2026-03-30T07:00:13.341Z"
 status: "active"
 ---
 

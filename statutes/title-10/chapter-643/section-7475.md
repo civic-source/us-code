@@ -3,9 +3,9 @@ title: "Section 7475 - Repealed. Pub. L. 86–148 , § 1(1), Aug. 7, 1959 , 73 S
 usc_title: 10
 usc_section: "7475"
 chapter: 643
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 7475"
-generated_at: "2026-03-30T06:55:28.028Z"
+generated_at: "2026-03-30T06:57:50.075Z"
 status: "repealed"
 ---
 

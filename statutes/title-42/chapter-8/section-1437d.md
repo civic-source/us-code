@@ -3,9 +3,9 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-30T06:56:51.113Z"
+generated_at: "2026-03-30T07:00:49.380Z"
 status: "active"
 ---
 

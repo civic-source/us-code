@@ -3,9 +3,9 @@ title: "Section 8006 - Education program"
 usc_title: 15
 usc_section: "8006"
 chapter: 106
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 8006"
-generated_at: "2026-03-30T06:55:50.352Z"
+generated_at: "2026-03-30T06:58:17.299Z"
 status: "active"
 ---
 

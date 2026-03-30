@@ -3,9 +3,9 @@ title: "Section 720j - Sense of Congress concerning participation by small busin
 usc_title: 15
 usc_section: "720j"
 chapter: 15
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 720j"
-generated_at: "2026-03-30T06:55:50.217Z"
+generated_at: "2026-03-30T06:58:17.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 214d - Prohibition on conversion"
 usc_title: 12
 usc_section: "214d"
 chapter: 2
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "12 U.S.C. § 214d"
-generated_at: "2026-03-30T06:55:42.991Z"
+generated_at: "2026-03-30T06:58:36.676Z"
 status: "active"
 ---
 

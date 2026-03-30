@@ -3,9 +3,9 @@ title: "Section 337 - Nonrecognition for property distributed to parent in compl
 usc_title: 26
 usc_section: "337"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 337"
-generated_at: "2026-03-30T06:56:22.967Z"
+generated_at: "2026-03-30T06:59:48.829Z"
 status: "active"
 ---
 

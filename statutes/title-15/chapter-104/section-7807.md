@@ -3,9 +3,9 @@ title: "Section 7807 - Sense of Congress"
 usc_title: 15
 usc_section: "7807"
 chapter: 104
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 7807"
-generated_at: "2026-03-30T06:55:50.351Z"
+generated_at: "2026-03-30T06:58:17.298Z"
 status: "active"
 ---
 

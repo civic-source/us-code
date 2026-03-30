@@ -3,9 +3,9 @@ title: "Section 9402 - Definitions"
 usc_title: 20
 usc_section: "9402"
 chapter: 75
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 9402"
-generated_at: "2026-03-30T06:56:03.555Z"
+generated_at: "2026-03-30T06:58:56.086Z"
 status: "active"
 ---
 

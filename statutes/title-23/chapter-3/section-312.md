@@ -3,9 +3,9 @@ title: "Section 312 - Detail of Army, Navy, and Air Force officers"
 usc_title: 23
 usc_section: "312"
 chapter: 3
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "23 U.S.C. § 312"
-generated_at: "2026-03-30T06:56:13.462Z"
+generated_at: "2026-03-30T06:59:23.730Z"
 status: "active"
 ---
 

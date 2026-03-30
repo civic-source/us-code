@@ -3,9 +3,9 @@ title: "Section 2171 - Education loan repayment program: enlisted members on act
 usc_title: 10
 usc_section: "2171"
 chapter: 109
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 2171"
-generated_at: "2026-03-30T06:55:27.973Z"
+generated_at: "2026-03-30T06:57:50.018Z"
 status: "active"
 ---
 

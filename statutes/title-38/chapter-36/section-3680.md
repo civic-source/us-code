@@ -3,9 +3,9 @@ title: "Section 3680 - Payment of educational assistance or subsistence allowanc
 usc_title: 38
 usc_section: "3680"
 chapter: 36
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "38 U.S.C. § 3680"
-generated_at: "2026-03-30T06:56:33.681Z"
+generated_at: "2026-03-30T07:00:28.602Z"
 status: "active"
 ---
 
@@ -20,9 +20,7 @@ status: "active"
 - **(b)** No educational assistance allowance shall be paid to an eligible veteran or spouse or surviving spouse enrolled in and pursuing a program of education exclusively by correspondence until the Secretary shall have received—
   - **(1)** from the eligible veteran or spouse or surviving spouse a certificate as to the number of lessons actually completed by the veteran or spouse or surviving spouse and serviced by the educational institution; and
   - **(2)** from the training establishment a certification or an endorsement on the veteran’s or spouse’s or surviving spouse’s certificate, as to the number of lessons completed by the veteran or spouse or surviving spouse and serviced by the institution.
-- **(c)** No training assistance allowance shall be paid to an eligible veteran or eligible person enrolled in and pursuing a program of apprenticeship or other on-job training until the Secretary shall have received—
-  - **(1)** from such veteran or person a certification as to such veteran’s or person’s actual attendance during such period; and
-  - **(2)** from the training establishment a certification, or an endorsement on the veteran’s or person’s certificate, that such veteran or person was enrolled in and pursuing a program of apprenticeship or other on-job training during such period.
+- **(c)** No training assistance allowance shall be paid to an eligible veteran or eligible person enrolled in and pursuing a program of apprenticeship or other on-job training until the Secretary receives from the training establishment a certification that such veteran or person was enrolled in and pursuing a program of apprenticeship or other on-job training during such period.
 - **(d)**
   - **(1)** The educational assistance or subsistence allowance advance payment provided for in this subsection is based upon a finding by the Congress that eligible veterans and eligible persons may need additional funds at the beginning of a school term to meet the expenses of books, travel, deposits, and payment for living quarters, the initial installment of tuition, and the other special expenses which are concentrated at the beginning of a school term.
   - **(2)** Subject to the provisions of this subsection, and under regulations which the Secretary shall prescribe, an eligible veteran or eligible person shall be paid an educational assistance allowance or subsistence allowance, as appropriate, advance payment. Such advance payment shall be made in an amount equivalent to the allowance for the month or fraction thereof in which pursuit of the program will commence, plus the allowance for the succeeding month. In the case of a person on active duty, who is pursuing a program of education, the advance payment shall be in a lump sum based upon the amount payable for the entire quarter, semester, or term, as applicable. In no event shall an advance payment be made under this subsection to a veteran or person intending to pursue a program of education on less than a half-time basis. An advance payment may not be made under this subsection to any veteran or person unless the veteran or person requests such payment and the Secretary finds that the educational institution at which such veteran or person is accepted or enrolled has agreed to, and can satisfactorily, carry out the provisions of paragraphs (4)(B) and (C) and (5) of this subsection. The application for advance payment, to be made on a form prescribed by the Secretary, shall—

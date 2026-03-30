@@ -3,9 +3,9 @@ title: "Section 5449 - Repealed. Pub. L. 96–513, title III , § 313(d)(2)–(4
 usc_title: 10
 usc_section: "5449"
 chapter: 533
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 5449"
-generated_at: "2026-03-30T06:55:28.021Z"
+generated_at: "2026-03-30T06:57:50.067Z"
 status: "repealed"
 ---
 

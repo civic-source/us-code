@@ -3,9 +3,9 @@ title: "Section 723 - Basis of property contributed to partnership"
 usc_title: 26
 usc_section: "723"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 723"
-generated_at: "2026-03-30T06:56:23.014Z"
+generated_at: "2026-03-30T06:59:48.875Z"
 status: "active"
 ---
 

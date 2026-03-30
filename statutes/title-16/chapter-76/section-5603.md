@@ -3,9 +3,9 @@ title: "Section 5603 - Authorities of Secretary of State with respect to Convent
 usc_title: 16
 usc_section: "5603"
 chapter: 76
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 5603"
-generated_at: "2026-03-30T06:55:59.307Z"
+generated_at: "2026-03-30T06:59:20.502Z"
 status: "active"
 ---
 

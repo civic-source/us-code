@@ -3,9 +3,9 @@ title: "Section 5364 - Prohibition against management interlocks between certain
 usc_title: 12
 usc_section: "5364"
 chapter: 53
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "12 U.S.C. § 5364"
-generated_at: "2026-03-30T06:55:43.128Z"
+generated_at: "2026-03-30T06:58:36.809Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Recovery zone facility bonds"
 usc_title: 26
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 3"
-generated_at: "2026-03-30T06:56:23.060Z"
+generated_at: "2026-03-30T06:59:48.923Z"
 status: "active"
 ---
 

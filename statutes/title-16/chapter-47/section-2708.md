@@ -3,9 +3,9 @@ title: "Section 2708 - Definitions"
 usc_title: 16
 usc_section: "2708"
 chapter: 47
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 2708"
-generated_at: "2026-03-30T06:55:59.280Z"
+generated_at: "2026-03-30T06:59:20.474Z"
 status: "active"
 ---
 

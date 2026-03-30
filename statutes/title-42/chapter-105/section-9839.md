@@ -3,9 +3,9 @@ title: "Section 9839 - Administrative requirements and standards"
 usc_title: 42
 usc_section: "9839"
 chapter: 105
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 9839"
-generated_at: "2026-03-30T06:56:51.351Z"
+generated_at: "2026-03-30T07:00:49.670Z"
 status: "active"
 ---
 

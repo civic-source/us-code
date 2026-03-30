@@ -3,9 +3,9 @@ title: "Section 1710 - Theft of newspapers"
 usc_title: 18
 usc_section: "1710"
 chapter: 83
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "18 U.S.C. § 1710"
-generated_at: "2026-03-30T06:56:04.426Z"
+generated_at: "2026-03-30T06:58:40.124Z"
 status: "active"
 ---
 

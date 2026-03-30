@@ -3,9 +3,9 @@ title: "Section 9034 - Entitlement of eligible candidates to payments"
 usc_title: 26
 usc_section: "9034"
 chapter: 96
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 9034"
-generated_at: "2026-03-30T06:56:23.154Z"
+generated_at: "2026-03-30T06:59:49.017Z"
 status: "active"
 ---
 

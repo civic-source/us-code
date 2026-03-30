@@ -3,9 +3,9 @@ title: "Section 88 - Definitions"
 usc_title: 42
 usc_section: "88"
 chapter: 6
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 88"
-generated_at: "2026-03-30T06:56:50.932Z"
+generated_at: "2026-03-30T07:00:49.159Z"
 status: "active"
 ---
 

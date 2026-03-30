@@ -3,9 +3,9 @@ title: "Section 579d - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "579d"
 chapter: 12
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "33 U.S.C. § 579d"
-generated_at: "2026-03-30T06:56:26.127Z"
+generated_at: "2026-03-30T07:00:10.825Z"
 status: "active"
 ---
 

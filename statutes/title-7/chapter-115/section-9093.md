@@ -3,9 +3,9 @@ title: "Section 9093 - Prevention of deceased individuals receiving payments und
 usc_title: 7
 usc_section: "9093"
 chapter: 115
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 9093"
-generated_at: "2026-03-30T06:55:34.110Z"
+generated_at: "2026-03-30T06:57:44.409Z"
 status: "active"
 ---
 

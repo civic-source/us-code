@@ -3,9 +3,9 @@ title: "Section 6113 - Loans: Supply Corps officers"
 usc_title: 10
 usc_section: "6113"
 chapter: 559
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 6113"
-generated_at: "2026-03-30T06:55:28.022Z"
+generated_at: "2026-03-30T06:57:50.069Z"
 status: "active"
 ---
 

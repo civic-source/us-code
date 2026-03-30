@@ -3,9 +3,9 @@ title: "Section 3508 - Definitions"
 usc_title: 7
 usc_section: "3508"
 chapter: 66
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 3508"
-generated_at: "2026-03-30T06:55:34.051Z"
+generated_at: "2026-03-30T06:57:44.351Z"
 status: "active"
 ---
 

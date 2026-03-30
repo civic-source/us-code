@@ -3,9 +3,9 @@ title: "Section 10554 - Definitions"
 usc_title: 34
 usc_section: "10554"
 chapter: 101
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 10554"
-generated_at: "2026-03-30T06:56:27.078Z"
+generated_at: "2026-03-30T07:00:13.324Z"
 status: "active"
 ---
 

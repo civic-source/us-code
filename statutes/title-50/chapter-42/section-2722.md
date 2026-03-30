@@ -3,9 +3,9 @@ title: "Section 2722 - Stockpile stewardship recruitment and training program"
 usc_title: 50
 usc_section: "2722"
 chapter: 42
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "50 U.S.C. § 2722"
-generated_at: "2026-03-30T06:56:56.574Z"
+generated_at: "2026-03-30T07:00:55.597Z"
 status: "active"
 ---
 

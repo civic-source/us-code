@@ -3,9 +3,9 @@ title: "Section 809 - Temporary use by Government of project works for national 
 usc_title: 16
 usc_section: "809"
 chapter: 12
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 809"
-generated_at: "2026-03-30T06:55:59.218Z"
+generated_at: "2026-03-30T06:59:20.414Z"
 status: "active"
 ---
 

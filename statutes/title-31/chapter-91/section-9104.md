@@ -3,9 +3,9 @@ title: "Section 9104 - Congressional action on budgets of wholly owned Governmen
 usc_title: 31
 usc_section: "9104"
 chapter: 91
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "31 U.S.C. § 9104"
-generated_at: "2026-03-30T06:56:28.462Z"
+generated_at: "2026-03-30T06:59:57.379Z"
 status: "active"
 ---
 

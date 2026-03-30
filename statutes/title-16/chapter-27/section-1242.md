@@ -3,9 +3,9 @@ title: "Section 1242 - National trails system"
 usc_title: 16
 usc_section: "1242"
 chapter: 27
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 1242"
-generated_at: "2026-03-30T06:55:59.240Z"
+generated_at: "2026-03-30T06:59:20.436Z"
 status: "active"
 ---
 

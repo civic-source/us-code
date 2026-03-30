@@ -3,9 +3,9 @@ title: "Section 17305 - Replacing lost, destroyed, or damaged stamps, securities
 usc_title: 40
 usc_section: "17305"
 chapter: 173
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "40 U.S.C. § 17305"
-generated_at: "2026-03-30T06:56:30.527Z"
+generated_at: "2026-03-30T07:00:20.802Z"
 status: "active"
 ---
 

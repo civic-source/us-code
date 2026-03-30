@@ -3,9 +3,9 @@ title: "Section 11319 - Resources, planning, and portfolio management"
 usc_title: 40
 usc_section: "11319"
 chapter: 113
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "40 U.S.C. § 11319"
-generated_at: "2026-03-30T06:56:30.524Z"
+generated_at: "2026-03-30T07:00:20.799Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(1)** under the National Intelligence Program, defined by section 3(6) of the National Security Act of 1947 ( 50 U.S.C. 3003(6) );
   - **(2)** under the Military Intelligence Program or any successor program or programs; or
   - **(3)** jointly under the National Intelligence Program and the Military Intelligence Program (or any successor program or programs).
-- **(c)**
+- **(d)**
   - **(1)** The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall implement a process to assist covered agencies in reviewing their portfolio of information technology investments—
     - **(A)** to identify or develop ways to increase the efficiency and effectiveness of the information technology investments of the covered agency;
     - **(B)** to identify or develop opportunities to consolidate the acquisition and management of information technology services, and increase the use of shared-service delivery models;
@@ -54,4 +54,3 @@ status: "active"
       - **(ii)** the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives; and
       - **(iii)** upon a request by any committee of Congress, to that committee.
     - **(B)** The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
-  - **(6)** This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.

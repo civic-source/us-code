@@ -3,9 +3,9 @@ title: "Section 2272 - Space science and technology strategy: coordination"
 usc_title: 10
 usc_section: "2272"
 chapter: 135
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 2272"
-generated_at: "2026-03-30T06:55:27.977Z"
+generated_at: "2026-03-30T06:57:50.022Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40105 - Governing body"
 usc_title: 36
 usc_section: "40105"
 chapter: 401
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "36 U.S.C. § 40105"
-generated_at: "2026-03-30T06:56:31.317Z"
+generated_at: "2026-03-30T07:00:15.811Z"
 status: "active"
 ---
 

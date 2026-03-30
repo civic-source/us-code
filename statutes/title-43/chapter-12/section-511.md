@@ -3,9 +3,9 @@ title: "Section 511 - Authority to contract with irrigation district"
 usc_title: 43
 usc_section: "511"
 chapter: 12
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "43 U.S.C. § 511"
-generated_at: "2026-03-30T06:56:41.115Z"
+generated_at: "2026-03-30T07:00:33.065Z"
 status: "active"
 ---
 

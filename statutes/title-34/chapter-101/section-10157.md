@@ -3,9 +3,9 @@ title: "Section 10157 - Reserved funds"
 usc_title: 34
 usc_section: "10157"
 chapter: 101
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 10157"
-generated_at: "2026-03-30T06:56:27.070Z"
+generated_at: "2026-03-30T07:00:13.318Z"
 status: "reserved"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 701n - Emergency response to natural disasters"
 usc_title: 33
 usc_section: "701n"
 chapter: 15
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "33 U.S.C. § 701n"
-generated_at: "2026-03-30T06:56:26.132Z"
+generated_at: "2026-03-30T07:00:10.830Z"
 status: "active"
 ---
 

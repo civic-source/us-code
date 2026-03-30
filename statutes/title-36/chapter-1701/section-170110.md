@@ -3,9 +3,9 @@ title: "Section 170110 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "170110"
 chapter: 1701
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "36 U.S.C. § 170110"
-generated_at: "2026-03-30T06:56:31.327Z"
+generated_at: "2026-03-30T07:00:15.820Z"
 status: "active"
 ---
 

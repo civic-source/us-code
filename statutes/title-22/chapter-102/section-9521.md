@@ -3,9 +3,9 @@ title: "Section 9521 - Definitions"
 usc_title: 22
 usc_section: "9521"
 chapter: 102
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 9521"
-generated_at: "2026-03-30T06:56:10.016Z"
+generated_at: "2026-03-30T06:59:35.096Z"
 status: "active"
 ---
 

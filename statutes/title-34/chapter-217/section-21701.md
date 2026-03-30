@@ -3,9 +3,9 @@ title: "Section 21701 - Definitions"
 usc_title: 34
 usc_section: "21701"
 chapter: 217
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "34 U.S.C. § 21701"
-generated_at: "2026-03-30T06:56:27.105Z"
+generated_at: "2026-03-30T07:00:13.352Z"
 status: "active"
 ---
 

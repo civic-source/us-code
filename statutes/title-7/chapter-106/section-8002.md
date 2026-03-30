@@ -3,9 +3,9 @@ title: "Section 8002 - Implementation funding and information management"
 usc_title: 7
 usc_section: "8002"
 chapter: 106
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 8002"
-generated_at: "2026-03-30T06:55:34.098Z"
+generated_at: "2026-03-30T06:57:44.396Z"
 status: "active"
 ---
 

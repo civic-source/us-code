@@ -3,9 +3,9 @@ title: "Section 1423f - Qualifications of members"
 usc_title: 48
 usc_section: "1423f"
 chapter: 8
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "48 U.S.C. § 1423f"
-generated_at: "2026-03-30T06:57:13.315Z"
+generated_at: "2026-03-30T07:00:53.303Z"
 status: "active"
 ---
 

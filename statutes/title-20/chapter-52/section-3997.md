@@ -3,9 +3,9 @@ title: "Section 3997 - Approval of applications"
 usc_title: 20
 usc_section: "3997"
 chapter: 52
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 3997"
-generated_at: "2026-03-30T06:56:03.515Z"
+generated_at: "2026-03-30T06:58:56.048Z"
 status: "active"
 ---
 

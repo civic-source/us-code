@@ -3,9 +3,9 @@ title: "Section 747a - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58
 usc_title: 33
 usc_section: "747a"
 chapter: 16
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "33 U.S.C. § 747a"
-generated_at: "2026-03-30T06:56:26.134Z"
+generated_at: "2026-03-30T07:00:10.832Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 815 - Distributions to shareholders from pre-1984 policyholders 
 usc_title: 26
 usc_section: "815"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 815"
-generated_at: "2026-03-30T06:56:23.017Z"
+generated_at: "2026-03-30T06:59:48.879Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7274g - Environmental restoration and waste management five-year
 usc_title: 42
 usc_section: "7274g"
 chapter: 84
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 7274g"
-generated_at: "2026-03-30T06:56:51.281Z"
+generated_at: "2026-03-30T07:00:49.583Z"
 status: "active"
 ---
 

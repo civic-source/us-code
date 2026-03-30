@@ -3,9 +3,9 @@ title: "Section 7103 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "7103"
 chapter: 99
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 7103"
-generated_at: "2026-03-30T06:55:34.078Z"
+generated_at: "2026-03-30T06:57:44.377Z"
 status: "active"
 ---
 

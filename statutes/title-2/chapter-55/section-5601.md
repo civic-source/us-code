@@ -3,9 +3,9 @@ title: "Section 5601 - Sergeant at Arms of House; additional compensation"
 usc_title: 2
 usc_section: "5601"
 chapter: 55
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "2 U.S.C. § 5601"
-generated_at: "2026-03-30T06:55:19.831Z"
+generated_at: "2026-03-30T06:57:32.813Z"
 status: "active"
 ---
 

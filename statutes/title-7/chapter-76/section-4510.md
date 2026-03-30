@@ -3,9 +3,9 @@ title: "Section 4510 - Enforcement"
 usc_title: 7
 usc_section: "4510"
 chapter: 76
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 4510"
-generated_at: "2026-03-30T06:55:34.054Z"
+generated_at: "2026-03-30T06:57:44.353Z"
 status: "active"
 ---
 

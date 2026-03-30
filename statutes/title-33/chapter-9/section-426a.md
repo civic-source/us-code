@@ -3,9 +3,9 @@ title: "Section 426a - Additional investigations concerning erosion of shores of
 usc_title: 33
 usc_section: "426a"
 chapter: 9
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "33 U.S.C. § 426a"
-generated_at: "2026-03-30T06:56:26.121Z"
+generated_at: "2026-03-30T07:00:10.820Z"
 status: "active"
 ---
 

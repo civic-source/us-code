@@ -3,9 +3,9 @@ title: "Section 590p - Repealed. Pub. L. 104–127, title III , § 336(b)(1), Ap
 usc_title: 16
 usc_section: "590p"
 chapter: 3
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 590p"
-generated_at: "2026-03-30T06:55:59.199Z"
+generated_at: "2026-03-30T06:59:20.395Z"
 status: "repealed"
 ---
 

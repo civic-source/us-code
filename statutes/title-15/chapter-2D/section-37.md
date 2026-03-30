@@ -3,9 +3,9 @@ title: "Section 37 - Rules, regulations, and orders"
 usc_title: 15
 usc_section: "37"
 chapter: 2
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 37"
-generated_at: "2026-03-30T06:55:50.174Z"
+generated_at: "2026-03-30T06:58:17.163Z"
 status: "active"
 ---
 

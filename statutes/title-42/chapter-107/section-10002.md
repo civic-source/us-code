@@ -3,9 +3,9 @@ title: "Section 10002 - Statement of purpose"
 usc_title: 42
 usc_section: "10002"
 chapter: 107
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 10002"
-generated_at: "2026-03-30T06:56:51.359Z"
+generated_at: "2026-03-30T07:00:49.681Z"
 status: "active"
 ---
 

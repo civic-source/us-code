@@ -3,9 +3,9 @@ title: "Section 952 - Diplomatic codes and correspondence"
 usc_title: 18
 usc_section: "952"
 chapter: 45
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "18 U.S.C. § 952"
-generated_at: "2026-03-30T06:56:04.416Z"
+generated_at: "2026-03-30T06:58:40.114Z"
 status: "active"
 ---
 

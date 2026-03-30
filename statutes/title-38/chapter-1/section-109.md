@@ -3,9 +3,9 @@ title: "Section 109 - Benefits for discharged members of allied forces"
 usc_title: 38
 usc_section: "109"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "38 U.S.C. § 109"
-generated_at: "2026-03-30T06:56:33.650Z"
+generated_at: "2026-03-30T07:00:28.574Z"
 status: "active"
 ---
 

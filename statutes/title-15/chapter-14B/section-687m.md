@@ -3,9 +3,9 @@ title: "Section 687m - Periodic issuance of guarantees and trust certificates"
 usc_title: 15
 usc_section: "687m"
 chapter: 14
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 687m"
-generated_at: "2026-03-30T06:55:50.207Z"
+generated_at: "2026-03-30T06:58:17.197Z"
 status: "active"
 ---
 

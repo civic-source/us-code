@@ -3,9 +3,9 @@ title: "Section 1649 - Forestry Student Grant Program"
 usc_title: 16
 usc_section: "1649"
 chapter: 36
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 1649"
-generated_at: "2026-03-30T06:55:59.263Z"
+generated_at: "2026-03-30T06:59:20.457Z"
 status: "active"
 ---
 

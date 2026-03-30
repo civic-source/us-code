@@ -3,9 +3,9 @@ title: "Section 956a - National Capital arts and cultural affairs; grant program
 usc_title: 20
 usc_section: "956a"
 chapter: 26
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 956a"
-generated_at: "2026-03-30T06:56:03.386Z"
+generated_at: "2026-03-30T06:58:55.969Z"
 status: "active"
 ---
 

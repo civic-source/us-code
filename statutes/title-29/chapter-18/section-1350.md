@@ -3,9 +3,9 @@ title: "Section 1350 - Missing participants"
 usc_title: 29
 usc_section: "1350"
 chapter: 18
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "29 U.S.C. § 1350"
-generated_at: "2026-03-30T06:56:17.076Z"
+generated_at: "2026-03-30T06:59:39.994Z"
 status: "active"
 ---
 

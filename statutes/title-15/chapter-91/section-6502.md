@@ -3,9 +3,9 @@ title: "Section 6502 - Regulation of unfair and deceptive acts and practices in 
 usc_title: 15
 usc_section: "6502"
 chapter: 91
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 6502"
-generated_at: "2026-03-30T06:55:50.337Z"
+generated_at: "2026-03-30T06:58:17.284Z"
 status: "active"
 ---
 

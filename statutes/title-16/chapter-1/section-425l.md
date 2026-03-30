@@ -3,9 +3,9 @@ title: "Section 425l - Acquisitions and conveyances"
 usc_title: 16
 usc_section: "425l"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 425l"
-generated_at: "2026-03-30T06:55:59.138Z"
+generated_at: "2026-03-30T06:59:20.339Z"
 status: "active"
 ---
 

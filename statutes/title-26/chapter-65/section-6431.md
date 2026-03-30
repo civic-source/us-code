@@ -3,9 +3,9 @@ title: "Section 6431 - Credit for qualified bonds allowed to issuer"
 usc_title: 26
 usc_section: "6431"
 chapter: 65
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 6431"
-generated_at: "2026-03-30T06:56:23.128Z"
+generated_at: "2026-03-30T06:59:48.991Z"
 status: "active"
 ---
 

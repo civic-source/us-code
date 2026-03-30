@@ -3,9 +3,9 @@ title: "Section 5406 - Repealed. Pub. L. 106–34 , § 4(a), June 8, 1999 , 113 
 usc_title: 15
 usc_section: "5406"
 chapter: 80
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 5406"
-generated_at: "2026-03-30T06:55:50.333Z"
+generated_at: "2026-03-30T06:58:17.279Z"
 status: "repealed"
 ---
 

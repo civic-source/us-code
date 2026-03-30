@@ -3,9 +3,9 @@ title: "Section 284s - Ninth replenishment"
 usc_title: 22
 usc_section: "284s"
 chapter: 7
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 284s"
-generated_at: "2026-03-30T06:56:09.860Z"
+generated_at: "2026-03-30T06:59:34.970Z"
 status: "active"
 ---
 

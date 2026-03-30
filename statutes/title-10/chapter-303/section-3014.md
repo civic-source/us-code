@@ -3,9 +3,9 @@ title: "Section 3014 - Office of the Secretary of the Army"
 usc_title: 10
 usc_section: "3014"
 chapter: 303
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 3014"
-generated_at: "2026-03-30T06:55:28.011Z"
+generated_at: "2026-03-30T06:57:50.057Z"
 status: "active"
 ---
 

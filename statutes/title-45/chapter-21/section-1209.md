@@ -3,9 +3,9 @@ title: "Section 1209 - Repealed. Pub. L. 108–7, div. I, title III , § 345(5),
 usc_title: 45
 usc_section: "1209"
 chapter: 21
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "45 U.S.C. § 1209"
-generated_at: "2026-03-30T06:56:43.255Z"
+generated_at: "2026-03-30T07:00:30.851Z"
 status: "repealed"
 ---
 

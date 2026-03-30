@@ -3,9 +3,9 @@ title: "Section 40102 - Governmental interest in aeronautics research and develo
 usc_title: 51
 usc_section: "40102"
 chapter: 401
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "51 U.S.C. § 40102"
-generated_at: "2026-03-30T06:57:16.451Z"
+generated_at: "2026-03-30T07:01:00.605Z"
 status: "active"
 ---
 

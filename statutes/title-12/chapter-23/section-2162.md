@@ -3,9 +3,9 @@ title: "Section 2162 - Protection of borrower stock"
 usc_title: 12
 usc_section: "2162"
 chapter: 23
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "12 U.S.C. § 2162"
-generated_at: "2026-03-30T06:55:43.079Z"
+generated_at: "2026-03-30T06:58:36.764Z"
 status: "active"
 ---
 

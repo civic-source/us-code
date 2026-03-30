@@ -3,9 +3,9 @@ title: "Section 673 - Wyoming Elk Reserve"
 usc_title: 16
 usc_section: "673"
 chapter: 6
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 673"
-generated_at: "2026-03-30T06:55:59.206Z"
+generated_at: "2026-03-30T06:59:20.402Z"
 status: "active"
 ---
 

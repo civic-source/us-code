@@ -3,9 +3,9 @@ title: "Section 4562 - Single-family housing goals"
 usc_title: 12
 usc_section: "4562"
 chapter: 46
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "12 U.S.C. § 4562"
-generated_at: "2026-03-30T06:55:43.109Z"
+generated_at: "2026-03-30T06:58:36.792Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9101 - Access to criminal history records for national security 
 usc_title: 5
 usc_section: "9101"
 chapter: 91
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "5 U.S.C. § 9101"
-generated_at: "2026-03-30T06:55:12.196Z"
+generated_at: "2026-03-30T06:57:39.033Z"
 status: "active"
 ---
 

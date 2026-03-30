@@ -3,9 +3,9 @@ title: "Section 191a - Late payment charges under Federal mineral leases"
 usc_title: 30
 usc_section: "191a"
 chapter: 3
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "30 U.S.C. § 191a"
-generated_at: "2026-03-30T06:56:15.962Z"
+generated_at: "2026-03-30T06:59:38.132Z"
 status: "active"
 ---
 

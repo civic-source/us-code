@@ -3,9 +3,9 @@ title: "Section 286m - Amount of loan; public-debt transaction; disposition of i
 usc_title: 22
 usc_section: "286m"
 chapter: 7
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 286m"
-generated_at: "2026-03-30T06:56:09.862Z"
+generated_at: "2026-03-30T06:59:34.972Z"
 status: "active"
 ---
 

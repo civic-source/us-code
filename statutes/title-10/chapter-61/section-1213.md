@@ -3,9 +3,9 @@ title: "Section 1213 - Effect of separation on benefits and claims"
 usc_title: 10
 usc_section: "1213"
 chapter: 61
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 1213"
-generated_at: "2026-03-30T06:55:27.953Z"
+generated_at: "2026-03-30T06:57:49.999Z"
 status: "active"
 ---
 

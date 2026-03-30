@@ -3,9 +3,9 @@ title: "Section 1384 - Repealed. Aug. 7, 1946, ch. 770 , § 1(3), 60 Stat. 866"
 usc_title: 7
 usc_section: "1384"
 chapter: 35
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 1384"
-generated_at: "2026-03-30T06:55:33.984Z"
+generated_at: "2026-03-30T06:57:44.284Z"
 status: "repealed"
 ---
 

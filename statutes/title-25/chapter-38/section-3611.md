@@ -3,9 +3,9 @@ title: "Section 3611 - Office of Tribal Justice Support"
 usc_title: 25
 usc_section: "3611"
 chapter: 38
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "25 U.S.C. § 3611"
-generated_at: "2026-03-30T06:56:07.474Z"
+generated_at: "2026-03-30T06:59:23.381Z"
 status: "active"
 ---
 

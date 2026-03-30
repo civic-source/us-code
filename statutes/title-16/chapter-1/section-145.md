@@ -3,9 +3,9 @@ title: "Section 145 - Exchange of lands"
 usc_title: 16
 usc_section: "145"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 145"
-generated_at: "2026-03-30T06:55:59.102Z"
+generated_at: "2026-03-30T06:59:20.303Z"
 status: "active"
 ---
 

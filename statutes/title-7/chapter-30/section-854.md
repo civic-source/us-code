@@ -3,9 +3,9 @@ title: "Section 854 - Order regulating handlers; issuance and terms"
 usc_title: 7
 usc_section: "854"
 chapter: 30
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 854"
-generated_at: "2026-03-30T06:55:33.971Z"
+generated_at: "2026-03-30T06:57:44.272Z"
 status: "active"
 ---
 

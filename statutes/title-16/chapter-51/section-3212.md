@@ -3,9 +3,9 @@ title: "Section 3212 - Terror Lake Hydroelectric Project in Kodiak National Wild
 usc_title: 16
 usc_section: "3212"
 chapter: 51
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 3212"
-generated_at: "2026-03-30T06:55:59.285Z"
+generated_at: "2026-03-30T06:59:20.479Z"
 status: "active"
 ---
 

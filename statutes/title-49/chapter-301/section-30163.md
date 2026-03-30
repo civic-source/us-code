@@ -3,9 +3,9 @@ title: "Section 30163 - Actions by the Attorney General"
 usc_title: 49
 usc_section: "30163"
 chapter: 301
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "49 U.S.C. § 30163"
-generated_at: "2026-03-30T06:56:58.440Z"
+generated_at: "2026-03-30T07:00:58.159Z"
 status: "active"
 ---
 

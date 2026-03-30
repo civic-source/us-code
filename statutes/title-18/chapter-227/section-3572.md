@@ -3,9 +3,9 @@ title: "Section 3572 - Imposition of a sentence of fine and related matters"
 usc_title: 18
 usc_section: "3572"
 chapter: 227
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "18 U.S.C. § 3572"
-generated_at: "2026-03-30T06:56:04.450Z"
+generated_at: "2026-03-30T06:58:40.146Z"
 status: "active"
 ---
 

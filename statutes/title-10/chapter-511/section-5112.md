@@ -3,9 +3,9 @@ title: "Section 5112 - Repealed. Pub. L. 89–718 , § 34(a), Nov. 2, 1966 , 80 
 usc_title: 10
 usc_section: "5112"
 chapter: 511
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 5112"
-generated_at: "2026-03-30T06:55:28.020Z"
+generated_at: "2026-03-30T06:57:50.066Z"
 status: "repealed"
 ---
 

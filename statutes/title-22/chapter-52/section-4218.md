@@ -3,9 +3,9 @@ title: "Section 4218 - False certificate as to ownership of property"
 usc_title: 22
 usc_section: "4218"
 chapter: 52
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 4218"
-generated_at: "2026-03-30T06:56:09.956Z"
+generated_at: "2026-03-30T06:59:35.048Z"
 status: "active"
 ---
 

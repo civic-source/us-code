@@ -3,9 +3,9 @@ title: "Section 301 - Authorization of appropriations"
 usc_title: 42
 usc_section: "301"
 chapter: 7
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 301"
-generated_at: "2026-03-30T06:56:50.946Z"
+generated_at: "2026-03-30T07:00:49.176Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7615 - Status of participants"
 usc_title: 38
 usc_section: "7615"
 chapter: 76
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "38 U.S.C. § 7615"
-generated_at: "2026-03-30T06:56:33.704Z"
+generated_at: "2026-03-30T07:00:28.624Z"
 status: "active"
 ---
 

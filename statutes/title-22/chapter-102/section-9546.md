@@ -3,9 +3,9 @@ title: "Section 9546 - Ukranian energy security"
 usc_title: 22
 usc_section: "9546"
 chapter: 102
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 9546"
-generated_at: "2026-03-30T06:56:10.017Z"
+generated_at: "2026-03-30T06:59:35.097Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6744 - Confidentiality of information"
 usc_title: 22
 usc_section: "6744"
 chapter: 75
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 6744"
-generated_at: "2026-03-30T06:56:09.981Z"
+generated_at: "2026-03-30T06:59:35.068Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2461 - Findings and purpose"
 usc_title: 16
 usc_section: "2461"
 chapter: 44
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 2461"
-generated_at: "2026-03-30T06:55:59.278Z"
+generated_at: "2026-03-30T06:59:20.472Z"
 status: "active"
 ---
 

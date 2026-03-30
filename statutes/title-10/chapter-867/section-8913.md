@@ -3,9 +3,9 @@ title: "Section 8913 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "8913"
 chapter: 867
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 8913"
-generated_at: "2026-03-30T06:55:28.033Z"
+generated_at: "2026-03-30T06:57:50.080Z"
 status: "repealed"
 ---
 

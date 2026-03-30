@@ -3,9 +3,9 @@ title: "Section 12575 - Repealed. Pub. L. 111–13, title I , § 1304, Apr. 21, 
 usc_title: 42
 usc_section: "12575"
 chapter: 129
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 12575"
-generated_at: "2026-03-30T06:56:51.390Z"
+generated_at: "2026-03-30T07:00:49.722Z"
 status: "repealed"
 ---
 

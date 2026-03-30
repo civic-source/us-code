@@ -3,9 +3,9 @@ title: "Section 1607 - Rules of construction"
 usc_title: 2
 usc_section: "1607"
 chapter: 26
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "2 U.S.C. § 1607"
-generated_at: "2026-03-30T06:55:19.814Z"
+generated_at: "2026-03-30T06:57:32.796Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 343 - Presumptions"
 usc_title: 18
 usc_section: "343"
 chapter: 17
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "18 U.S.C. § 343"
-generated_at: "2026-03-30T06:56:04.406Z"
+generated_at: "2026-03-30T06:58:40.105Z"
 status: "active"
 ---
 

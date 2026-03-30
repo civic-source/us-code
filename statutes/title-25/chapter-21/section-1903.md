@@ -3,9 +3,9 @@ title: "Section 1903 - Definitions"
 usc_title: 25
 usc_section: "1903"
 chapter: 21
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "25 U.S.C. § 1903"
-generated_at: "2026-03-30T06:56:07.456Z"
+generated_at: "2026-03-30T06:59:23.364Z"
 status: "active"
 ---
 

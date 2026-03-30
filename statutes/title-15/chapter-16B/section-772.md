@@ -3,9 +3,9 @@ title: "Section 772 - Administrator’s information-gathering power"
 usc_title: 15
 usc_section: "772"
 chapter: 16
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 772"
-generated_at: "2026-03-30T06:55:50.217Z"
+generated_at: "2026-03-30T06:58:17.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 143 - Treasury Department"
 usc_title: 14
 usc_section: "143"
 chapter: 7
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "14 U.S.C. § 143"
-generated_at: "2026-03-30T06:55:37.236Z"
+generated_at: "2026-03-30T06:58:13.204Z"
 status: "active"
 ---
 

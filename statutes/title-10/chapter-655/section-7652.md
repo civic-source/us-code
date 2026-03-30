@@ -3,9 +3,9 @@ title: "Section 7652 - Jurisdiction"
 usc_title: 10
 usc_section: "7652"
 chapter: 655
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 7652"
-generated_at: "2026-03-30T06:55:28.029Z"
+generated_at: "2026-03-30T06:57:50.076Z"
 status: "active"
 ---
 

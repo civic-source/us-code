@@ -3,9 +3,9 @@ title: "Section 522 - Monopolies or restraints of trade; service of complaint by
 usc_title: 15
 usc_section: "522"
 chapter: 13
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "15 U.S.C. § 522"
-generated_at: "2026-03-30T06:55:50.187Z"
+generated_at: "2026-03-30T06:58:17.176Z"
 status: "active"
 ---
 

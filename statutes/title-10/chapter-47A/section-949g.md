@@ -3,9 +3,9 @@ title: "Section 949g - Oaths"
 usc_title: 10
 usc_section: "949g"
 chapter: 47
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 949g"
-generated_at: "2026-03-30T06:55:27.936Z"
+generated_at: "2026-03-30T06:57:49.982Z"
 status: "active"
 ---
 

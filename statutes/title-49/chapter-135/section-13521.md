@@ -3,9 +3,9 @@ title: "Section 13521 - General jurisdiction"
 usc_title: 49
 usc_section: "13521"
 chapter: 135
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "49 U.S.C. § 13521"
-generated_at: "2026-03-30T06:56:58.422Z"
+generated_at: "2026-03-30T07:00:58.135Z"
 status: "active"
 ---
 

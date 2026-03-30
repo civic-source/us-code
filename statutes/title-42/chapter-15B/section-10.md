@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. Pub. L. 95–95, title I , § 112(b)(1), Aug. 7, 
 usc_title: 42
 usc_section: "10"
 chapter: 15
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T06:56:51.148Z"
+generated_at: "2026-03-30T07:00:49.420Z"
 status: "repealed"
 ---
 

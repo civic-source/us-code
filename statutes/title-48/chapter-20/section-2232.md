@@ -3,9 +3,9 @@ title: "Section 2232 - Applicable law"
 usc_title: 48
 usc_section: "2232"
 chapter: 20
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "48 U.S.C. § 2232"
-generated_at: "2026-03-30T06:57:13.330Z"
+generated_at: "2026-03-30T07:00:53.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5755 - Supervisory differentials"
 usc_title: 5
 usc_section: "5755"
 chapter: 57
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "5 U.S.C. § 5755"
-generated_at: "2026-03-30T06:55:12.167Z"
+generated_at: "2026-03-30T06:57:39.004Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6034 - United States opposition to Cuban membership in internati
 usc_title: 22
 usc_section: "6034"
 chapter: 69
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 6034"
-generated_at: "2026-03-30T06:56:09.971Z"
+generated_at: "2026-03-30T06:59:35.060Z"
 status: "active"
 ---
 

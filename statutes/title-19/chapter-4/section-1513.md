@@ -3,9 +3,9 @@ title: "Section 1513 - Customs officer’s immunity"
 usc_title: 19
 usc_section: "1513"
 chapter: 4
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "19 U.S.C. § 1513"
-generated_at: "2026-03-30T06:55:54.808Z"
+generated_at: "2026-03-30T06:59:03.812Z"
 status: "active"
 ---
 

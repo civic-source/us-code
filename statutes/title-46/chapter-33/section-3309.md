@@ -3,9 +3,9 @@ title: "Section 3309 - Certificate of inspection"
 usc_title: 46
 usc_section: "3309"
 chapter: 33
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "46 U.S.C. § 3309"
-generated_at: "2026-03-30T06:56:54.691Z"
+generated_at: "2026-03-30T07:00:54.093Z"
 status: "active"
 ---
 

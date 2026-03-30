@@ -3,9 +3,9 @@ title: "Section 300102 - Purposes"
 usc_title: 36
 usc_section: "300102"
 chapter: 3001
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "36 U.S.C. § 300102"
-generated_at: "2026-03-30T06:56:31.331Z"
+generated_at: "2026-03-30T07:00:15.823Z"
 status: "active"
 ---
 

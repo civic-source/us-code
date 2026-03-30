@@ -3,9 +3,9 @@ title: "Section 541c - Lands where coal deposits have been reserved to the Unite
 usc_title: 30
 usc_section: "541c"
 chapter: 12
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "30 U.S.C. § 541c"
-generated_at: "2026-03-30T06:56:15.967Z"
+generated_at: "2026-03-30T06:59:38.137Z"
 status: "active"
 ---
 

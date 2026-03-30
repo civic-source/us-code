@@ -3,9 +3,9 @@ title: "Section 162 - National scenic byways program"
 usc_title: 23
 usc_section: "162"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "23 U.S.C. § 162"
-generated_at: "2026-03-30T06:56:13.457Z"
+generated_at: "2026-03-30T06:59:23.726Z"
 status: "active"
 ---
 

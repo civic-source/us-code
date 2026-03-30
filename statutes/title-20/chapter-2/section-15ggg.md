@@ -3,9 +3,9 @@ title: "Section 15ggg - Repealed. Pub. L. 90–576, title I , § 103, Oct. 16, 1
 usc_title: 20
 usc_section: "15ggg"
 chapter: 2
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 15ggg"
-generated_at: "2026-03-30T06:56:03.376Z"
+generated_at: "2026-03-30T06:58:55.958Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1953 - Assignments"
 usc_title: 38
 usc_section: "1953"
 chapter: 19
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "38 U.S.C. § 1953"
-generated_at: "2026-03-30T06:56:33.666Z"
+generated_at: "2026-03-30T07:00:28.588Z"
 status: "active"
 ---
 

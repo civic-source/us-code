@@ -3,9 +3,9 @@ title: "Section 666 - Accumulation distribution allocated to preceding years"
 usc_title: 26
 usc_section: "666"
 chapter: 1
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "26 U.S.C. § 666"
-generated_at: "2026-03-30T06:56:23.012Z"
+generated_at: "2026-03-30T06:59:48.873Z"
 status: "active"
 ---
 

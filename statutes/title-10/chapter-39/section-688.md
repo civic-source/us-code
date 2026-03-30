@@ -3,9 +3,9 @@ title: "Section 688 - Retired members: authority to order to active duty; duties
 usc_title: 10
 usc_section: "688"
 chapter: 39
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 688"
-generated_at: "2026-03-30T06:55:27.927Z"
+generated_at: "2026-03-30T06:57:49.973Z"
 status: "active"
 ---
 

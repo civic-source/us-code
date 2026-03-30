@@ -3,9 +3,9 @@ title: "Section 3403 - Powers and duties of the Administrator"
 usc_title: 33
 usc_section: "3403"
 chapter: 47
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "33 U.S.C. § 3403"
-generated_at: "2026-03-30T06:56:26.183Z"
+generated_at: "2026-03-30T07:00:10.879Z"
 status: "active"
 ---
 

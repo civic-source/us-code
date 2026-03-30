@@ -3,9 +3,9 @@ title: "Section 1852 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1852"
 chapter: 24
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 1852"
-generated_at: "2026-03-30T06:56:09.883Z"
+generated_at: "2026-03-30T06:59:34.989Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7111 - Secure payments for States containing Federal land"
 usc_title: 16
 usc_section: "7111"
 chapter: 90
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 7111"
-generated_at: "2026-03-30T06:55:59.316Z"
+generated_at: "2026-03-30T06:59:20.511Z"
 status: "active"
 ---
 

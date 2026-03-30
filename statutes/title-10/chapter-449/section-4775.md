@@ -3,9 +3,9 @@ title: "Section 4775 - Repealed. Pub. L. 92–145, title V , § 509(a), Oct. 27,
 usc_title: 10
 usc_section: "4775"
 chapter: 449
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 4775"
-generated_at: "2026-03-30T06:55:28.019Z"
+generated_at: "2026-03-30T06:57:50.064Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1260 - Permit approval or denial"
 usc_title: 30
 usc_section: "1260"
 chapter: 25
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "30 U.S.C. § 1260"
-generated_at: "2026-03-30T06:56:15.981Z"
+generated_at: "2026-03-30T06:59:38.152Z"
 status: "active"
 ---
 

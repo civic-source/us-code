@@ -3,9 +3,9 @@ title: "Section 1952 - Interstate and foreign travel or transportation in aid of
 usc_title: 18
 usc_section: "1952"
 chapter: 95
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "18 U.S.C. § 1952"
-generated_at: "2026-03-30T06:56:04.429Z"
+generated_at: "2026-03-30T06:58:40.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 354a - Technical requirements of equipment on radiotelephone equ
 usc_title: 47
 usc_section: "354a"
 chapter: 5
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "47 U.S.C. § 354a"
-generated_at: "2026-03-30T06:56:55.061Z"
+generated_at: "2026-03-30T07:00:52.888Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1066 - Permission of Secretary to sue"
 usc_title: 43
 usc_section: "1066"
 chapter: 25
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "43 U.S.C. § 1066"
-generated_at: "2026-03-30T06:56:41.126Z"
+generated_at: "2026-03-30T07:00:33.075Z"
 status: "active"
 ---
 

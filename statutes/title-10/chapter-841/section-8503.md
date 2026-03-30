@@ -3,9 +3,9 @@ title: "Section 8503 - Retired commissioned officers: status"
 usc_title: 10
 usc_section: "8503"
 chapter: 841
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 8503"
-generated_at: "2026-03-30T06:55:28.032Z"
+generated_at: "2026-03-30T06:57:50.079Z"
 status: "active"
 ---
 

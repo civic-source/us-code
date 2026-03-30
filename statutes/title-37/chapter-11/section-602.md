@@ -3,9 +3,9 @@ title: "Section 602 - Payments: designation of person to receive amounts due"
 usc_title: 37
 usc_section: "602"
 chapter: 11
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "37 U.S.C. § 602"
-generated_at: "2026-03-30T06:56:31.902Z"
+generated_at: "2026-03-30T07:00:15.242Z"
 status: "active"
 ---
 

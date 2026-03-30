@@ -3,9 +3,9 @@ title: "Section 896 - Art. 96. Releasing prisoner without proper authority"
 usc_title: 10
 usc_section: "896"
 chapter: 47
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 896"
-generated_at: "2026-03-30T06:55:27.933Z"
+generated_at: "2026-03-30T06:57:49.980Z"
 status: "active"
 ---
 

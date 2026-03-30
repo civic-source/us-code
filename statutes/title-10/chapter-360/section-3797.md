@@ -3,9 +3,9 @@ title: "Section 3797 - Repealed. Pub. L. 96–513, title II , § 213, Dec. 12, 1
 usc_title: 10
 usc_section: "3797"
 chapter: 360
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 3797"
-generated_at: "2026-03-30T06:55:28.014Z"
+generated_at: "2026-03-30T06:57:50.060Z"
 status: "repealed"
 ---
 

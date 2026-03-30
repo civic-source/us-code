@@ -3,9 +3,9 @@ title: "Section 4608 - Independence and limitations"
 usc_title: 22
 usc_section: "4608"
 chapter: 56
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 4608"
-generated_at: "2026-03-30T06:56:09.960Z"
+generated_at: "2026-03-30T06:59:35.051Z"
 status: "active"
 ---
 

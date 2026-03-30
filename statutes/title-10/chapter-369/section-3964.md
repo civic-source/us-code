@@ -3,9 +3,9 @@ title: "Section 3964 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "3964"
 chapter: 369
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 3964"
-generated_at: "2026-03-30T06:55:28.014Z"
+generated_at: "2026-03-30T06:57:50.061Z"
 status: "active"
 ---
 

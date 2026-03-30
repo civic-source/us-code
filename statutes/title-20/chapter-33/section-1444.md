@@ -3,9 +3,9 @@ title: "Section 1444 - Authorization of appropriations"
 usc_title: 20
 usc_section: "1444"
 chapter: 33
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 1444"
-generated_at: "2026-03-30T06:56:03.501Z"
+generated_at: "2026-03-30T06:58:56.035Z"
 status: "active"
 ---
 

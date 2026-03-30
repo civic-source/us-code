@@ -3,9 +3,9 @@ title: "Section 8414 - Early retirement"
 usc_title: 5
 usc_section: "8414"
 chapter: 84
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "5 U.S.C. § 8414"
-generated_at: "2026-03-30T06:55:12.185Z"
+generated_at: "2026-03-30T06:57:39.022Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2421a - Capital projects office within Agency for International 
 usc_title: 22
 usc_section: "2421a"
 chapter: 32
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "22 U.S.C. § 2421a"
-generated_at: "2026-03-30T06:56:09.913Z"
+generated_at: "2026-03-30T06:59:35.013Z"
 status: "active"
 ---
 

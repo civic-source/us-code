@@ -3,9 +3,9 @@ title: "Section 186 - Civilian teaching staff"
 usc_title: 14
 usc_section: "186"
 chapter: 9
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "14 U.S.C. § 186"
-generated_at: "2026-03-30T06:55:37.237Z"
+generated_at: "2026-03-30T06:58:13.205Z"
 status: "active"
 ---
 

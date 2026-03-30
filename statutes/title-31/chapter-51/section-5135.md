@@ -3,9 +3,9 @@ title: "Section 5135 - Citizens Coinage Advisory Committee"
 usc_title: 31
 usc_section: "5135"
 chapter: 51
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "31 U.S.C. § 5135"
-generated_at: "2026-03-30T06:56:28.454Z"
+generated_at: "2026-03-30T06:59:57.371Z"
 status: "active"
 ---
 

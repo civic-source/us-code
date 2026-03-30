@@ -3,9 +3,9 @@ title: "Section 777 - Federal-State relationships"
 usc_title: 16
 usc_section: "777"
 chapter: 10
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "16 U.S.C. § 777"
-generated_at: "2026-03-30T06:55:59.215Z"
+generated_at: "2026-03-30T06:59:20.412Z"
 status: "active"
 ---
 

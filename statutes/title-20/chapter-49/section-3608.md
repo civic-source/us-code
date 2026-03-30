@@ -3,9 +3,9 @@ title: "Section 3608 - Employee protection"
 usc_title: 20
 usc_section: "3608"
 chapter: 49
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "20 U.S.C. § 3608"
-generated_at: "2026-03-30T06:56:03.514Z"
+generated_at: "2026-03-30T06:58:56.046Z"
 status: "active"
 ---
 

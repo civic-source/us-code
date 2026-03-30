@@ -3,9 +3,9 @@ title: "Section 946 - Capitalization"
 usc_title: 7
 usc_section: "946"
 chapter: 31
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "7 U.S.C. § 946"
-generated_at: "2026-03-30T06:55:33.975Z"
+generated_at: "2026-03-30T06:57:44.275Z"
 status: "active"
 ---
 

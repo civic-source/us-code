@@ -3,9 +3,9 @@ title: "Section 763d - Encouraging market access and privatization"
 usc_title: 47
 usc_section: "763d"
 chapter: 6
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "47 U.S.C. § 763d"
-generated_at: "2026-03-30T06:56:55.071Z"
+generated_at: "2026-03-30T07:00:52.901Z"
 status: "active"
 ---
 

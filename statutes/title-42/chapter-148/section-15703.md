@@ -3,9 +3,9 @@ title: "Section 15703 - National Windstorm Impact Reduction Program"
 usc_title: 42
 usc_section: "15703"
 chapter: 148
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "42 U.S.C. § 15703"
-generated_at: "2026-03-30T06:56:51.426Z"
+generated_at: "2026-03-30T07:00:49.768Z"
 status: "active"
 ---
 

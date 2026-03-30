@@ -3,9 +3,9 @@ title: "Section 421 - Funds for foreign cryptologic support"
 usc_title: 10
 usc_section: "421"
 chapter: 21
-current_through: "PL 115-84"
+current_through: "PL 115-89"
 classification: "10 U.S.C. § 421"
-generated_at: "2026-03-30T06:55:27.918Z"
+generated_at: "2026-03-30T06:57:49.965Z"
 status: "active"
 ---
 
