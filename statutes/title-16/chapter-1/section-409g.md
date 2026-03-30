@@ -3,9 +3,9 @@ title: "Section 409g - Additional lands"
 usc_title: 16
 usc_section: "409g"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 409g"
-generated_at: "2026-03-30T04:41:59.126Z"
+generated_at: "2026-03-30T04:45:04.716Z"
 status: "active"
 ---
 

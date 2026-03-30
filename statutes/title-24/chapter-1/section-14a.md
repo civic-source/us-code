@@ -3,9 +3,9 @@ title: "Section 14a - Annual appropriations for maintenance, operation, and impr
 usc_title: 24
 usc_section: "14a"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "24 U.S.C. § 14a"
-generated_at: "2026-03-30T04:42:05.522Z"
+generated_at: "2026-03-30T04:45:11.007Z"
 status: "active"
 ---
 

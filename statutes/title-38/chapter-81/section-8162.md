@@ -3,9 +3,9 @@ title: "Section 8162 - Enhanced-use leases"
 usc_title: 38
 usc_section: "8162"
 chapter: 81
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 8162"
-generated_at: "2026-03-30T04:42:32.541Z"
+generated_at: "2026-03-30T04:45:43.268Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an “enhanced-use lease”. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with section 8164 of this title . The Secretary may exercise the authority provided by this subchapter notwithstanding section 8122 of this title , subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 ( Public Law 100–322 ; 102 Stat. 553 ) is covered by subsection (c).
-  - **(2)** The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and the 1 1 So in original. Probably should be preceded by “only if”. lease is not inconsistent with and will not adversely affect the mission of the Department.
+  - **(2)** The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.
   - **(3)** The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
   - **(4)** A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11411 ).
 - **(b)**

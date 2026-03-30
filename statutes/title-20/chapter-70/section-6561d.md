@@ -3,9 +3,9 @@ title: "Section 6561d - Strategies and capacity building"
 usc_title: 20
 usc_section: "6561d"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 6561d"
-generated_at: "2026-03-30T04:42:01.053Z"
+generated_at: "2026-03-30T04:44:44.778Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 516 - Conduct of litigation reserved to Department of Justice"
 usc_title: 28
 usc_section: "516"
 chapter: 31
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "28 U.S.C. § 516"
-generated_at: "2026-03-30T04:42:16.114Z"
+generated_at: "2026-03-30T04:45:25.791Z"
 status: "active"
 ---
 

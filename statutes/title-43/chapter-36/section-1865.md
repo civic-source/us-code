@@ -3,9 +3,9 @@ title: "Section 1865 - Investigation of reserves of oil and gas in Outer Contine
 usc_title: 43
 usc_section: "1865"
 chapter: 36
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "43 U.S.C. § 1865"
-generated_at: "2026-03-30T04:42:35.702Z"
+generated_at: "2026-03-30T04:45:49.950Z"
 status: "active"
 ---
 

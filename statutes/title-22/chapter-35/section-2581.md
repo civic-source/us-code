@@ -3,9 +3,9 @@ title: "Section 2581 - General authority of Secretary of State"
 usc_title: 22
 usc_section: "2581"
 chapter: 35
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 2581"
-generated_at: "2026-03-30T04:42:13.308Z"
+generated_at: "2026-03-30T04:45:14.012Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 In addition to any authorities otherwise available, the Secretary of State in the performance of functions under this chapter is authorized to—
 
-- **(a)** utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41;
+- **(a)** utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41;
 - **(b)** appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Secretary of State ensures that—
   - **(1)** any employee who is appointed under this subsection is not paid at a rate—
     - **(A)** in excess of the rate payable for positions of equivalent difficulty or responsibility, or

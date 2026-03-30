@@ -3,9 +3,9 @@ title: "Section 139b - Deputy Assistant Secretary of Defense for Developmental T
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-30T04:41:26.872Z"
+generated_at: "2026-03-30T04:43:57.145Z"
 status: "active"
 ---
 

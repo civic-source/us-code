@@ -3,9 +3,9 @@ title: "Section 695l - Dedication of lands within boundaries of refuges to wildl
 usc_title: 16
 usc_section: "695l"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 695l"
-generated_at: "2026-03-30T04:41:59.220Z"
+generated_at: "2026-03-30T04:45:04.807Z"
 status: "active"
 ---
 

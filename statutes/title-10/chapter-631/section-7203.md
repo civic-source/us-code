@@ -3,9 +3,9 @@ title: "Section 7203 - Repealed. Pub. L. 103–355, title III, § 3025(a) , Oct.
 usc_title: 10
 usc_section: "7203"
 chapter: 631
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 7203"
-generated_at: "2026-03-30T04:41:26.984Z"
+generated_at: "2026-03-30T04:43:57.255Z"
 status: "repealed"
 ---
 

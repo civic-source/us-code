@@ -3,9 +3,9 @@ title: "Section 151to153 - Repealed. Pub. L. 103–325, title VI, § 602(e)(22) 
 usc_title: 12
 usc_section: "151to153"
 chapter: 2
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 151to153"
-generated_at: "2026-03-30T04:41:37.935Z"
+generated_at: "2026-03-30T04:44:20.313Z"
 status: "repealed"
 ---
 

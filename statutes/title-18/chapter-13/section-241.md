@@ -3,9 +3,9 @@ title: "Section 241 - Conspiracy against rights"
 usc_title: 18
 usc_section: "241"
 chapter: 13
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "18 U.S.C. § 241"
-generated_at: "2026-03-30T04:41:43.192Z"
+generated_at: "2026-03-30T04:44:42.292Z"
 status: "active"
 ---
 

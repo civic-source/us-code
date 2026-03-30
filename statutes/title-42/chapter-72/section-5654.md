@@ -3,9 +3,9 @@ title: "Section 5654 - Grants for local projects"
 usc_title: 42
 usc_section: "5654"
 chapter: 72
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 5654"
-generated_at: "2026-03-30T04:42:53.600Z"
+generated_at: "2026-03-30T04:46:28.444Z"
 status: "active"
 ---
 

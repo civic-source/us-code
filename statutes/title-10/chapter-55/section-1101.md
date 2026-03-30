@@ -3,9 +3,9 @@ title: "Section 1101 - Resource allocation methods: capitation or diagnosis-rela
 usc_title: 10
 usc_section: "1101"
 chapter: 55
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 1101"
-generated_at: "2026-03-30T04:41:26.906Z"
+generated_at: "2026-03-30T04:43:57.178Z"
 status: "active"
 ---
 

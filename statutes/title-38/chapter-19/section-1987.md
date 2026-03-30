@@ -3,9 +3,9 @@ title: "Section 1987 - Penalties"
 usc_title: 38
 usc_section: "1987"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 1987"
-generated_at: "2026-03-30T04:42:32.500Z"
+generated_at: "2026-03-30T04:45:43.220Z"
 status: "active"
 ---
 

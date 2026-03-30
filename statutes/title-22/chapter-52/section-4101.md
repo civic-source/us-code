@@ -3,9 +3,9 @@ title: "Section 4101 - Congressional findings and policy"
 usc_title: 22
 usc_section: "4101"
 chapter: 52
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 4101"
-generated_at: "2026-03-30T04:42:13.334Z"
+generated_at: "2026-03-30T04:45:14.036Z"
 status: "active"
 ---
 

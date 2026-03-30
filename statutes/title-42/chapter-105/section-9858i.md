@@ -3,9 +3,9 @@ title: "Section 9858i - Reports and audits"
 usc_title: 42
 usc_section: "9858i"
 chapter: 105
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 9858i"
-generated_at: "2026-03-30T04:42:53.719Z"
+generated_at: "2026-03-30T04:46:28.559Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** A State that receives funds to carry out this subchapter shall collect the information described in subparagraph (B) on a monthly basis.
-    - **(B)** The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter 1 1 So in original. Probably should be followed by a a comma. information concerning—
+    - **(B)** The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter 1 1 So in original. Probably should be followed by a comma. information concerning—
       - **(i)** family income;
       - **(ii)** county of residence;
       - **(iii)** the gender, race, and age of children receiving such assistance;
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** the number of payments made by the State through vouchers, contracts, cash, and disregards under public benefit programs, listed by the type of child care services provided;
     - **(D)** the manner in which consumer education information was provided to parents and the number of parents to whom such information was provided; and
     - **(E)** the total number (without duplication) of children and families served under this subchapter; and
-    - **(F)** the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in section 9858n(6)(B) of this title ) are licensed or license-exempt. 3 3 So in original. The period should probably be a semicolon.
+    - **(F)** the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in section 9858n(6)(B) of this title ) are licensed or license-exempt. 3 3 So in original. The period probably should be a semicolon.
 - **(b)**
   - **(1)** A State shall, after the close of each program period covered by an application approved under section 9858c(d) of this title audit its expenditures during such program period from amounts received under this subchapter.
   - **(2)** Audits under this subsection shall be conducted by an entity that is independent of the State that receives assistance under this subchapter and be in accordance with generally accepted auditing principles.

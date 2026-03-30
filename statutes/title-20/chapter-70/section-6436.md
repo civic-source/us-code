@@ -3,9 +3,9 @@ title: "Section 6436 - Institution-wide projects"
 usc_title: 20
 usc_section: "6436"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 6436"
-generated_at: "2026-03-30T04:42:01.051Z"
+generated_at: "2026-03-30T04:44:44.777Z"
 status: "active"
 ---
 

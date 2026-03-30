@@ -3,9 +3,9 @@ title: "Section 461to466 - Transferred"
 usc_title: 48
 usc_section: "461to466"
 chapter: 2
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "48 U.S.C. § 461to466"
-generated_at: "2026-03-30T04:42:56.384Z"
+generated_at: "2026-03-30T04:46:41.664Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7217 - Maintenance of effort"
 usc_title: 20
 usc_section: "7217"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 7217"
-generated_at: "2026-03-30T04:42:01.064Z"
+generated_at: "2026-03-30T04:44:44.790Z"
 status: "active"
 ---
 

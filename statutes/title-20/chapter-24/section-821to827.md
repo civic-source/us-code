@@ -3,9 +3,9 @@ title: "Section 821to827 - Omitted"
 usc_title: 20
 usc_section: "821to827"
 chapter: 24
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 821to827"
-generated_at: "2026-03-30T04:42:00.951Z"
+generated_at: "2026-03-30T04:44:44.676Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1a - Presumptive eligibility for children"
 usc_title: 42
 usc_section: "1a"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T04:42:53.438Z"
+generated_at: "2026-03-30T04:46:28.279Z"
 status: "active"
 ---
 

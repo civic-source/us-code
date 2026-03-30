@@ -3,9 +3,9 @@ title: "Section 8440b - Bankruptcy judges and magistrate judges"
 usc_title: 5
 usc_section: "8440b"
 chapter: 84
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 8440b"
-generated_at: "2026-03-30T04:41:16.378Z"
+generated_at: "2026-03-30T04:43:47.054Z"
 status: "active"
 ---
 

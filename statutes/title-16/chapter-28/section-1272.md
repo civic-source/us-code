@@ -3,9 +3,9 @@ title: "Section 1272 - Congressional declaration of purpose"
 usc_title: 16
 usc_section: "1272"
 chapter: 28
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 1272"
-generated_at: "2026-03-30T04:41:59.257Z"
+generated_at: "2026-03-30T04:45:04.843Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3310 - Warrant officers: original appointment; qualifications"
 usc_title: 10
 usc_section: "3310"
 chapter: 335
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 3310"
-generated_at: "2026-03-30T04:41:26.970Z"
+generated_at: "2026-03-30T04:43:57.241Z"
 status: "active"
 ---
 

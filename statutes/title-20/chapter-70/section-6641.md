@@ -3,9 +3,9 @@ title: "Section 6641 - Technical assistance and accountability"
 usc_title: 20
 usc_section: "6641"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 6641"
-generated_at: "2026-03-30T04:42:01.055Z"
+generated_at: "2026-03-30T04:44:44.780Z"
 status: "active"
 ---
 

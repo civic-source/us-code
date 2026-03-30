@@ -3,9 +3,9 @@ title: "Section 3011 - Creation and charter; principal office; venue; purposes"
 usc_title: 12
 usc_section: "3011"
 chapter: 31
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 3011"
-generated_at: "2026-03-30T04:41:38.037Z"
+generated_at: "2026-03-30T04:44:20.414Z"
 status: "active"
 ---
 

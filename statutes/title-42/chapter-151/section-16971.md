@@ -3,9 +3,9 @@ title: "Section 16971 - Jimmy Ryce State civil commitment programs for sexually 
 usc_title: 42
 usc_section: "16971"
 chapter: 151
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 16971"
-generated_at: "2026-03-30T04:42:53.833Z"
+generated_at: "2026-03-30T04:46:28.669Z"
 status: "active"
 ---
 

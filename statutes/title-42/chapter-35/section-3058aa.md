@@ -3,9 +3,9 @@ title: "Section 3058aa - Native American program"
 usc_title: 42
 usc_section: "3058aa"
 chapter: 35
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 3058aa"
-generated_at: "2026-03-30T04:42:53.543Z"
+generated_at: "2026-03-30T04:46:28.386Z"
 status: "active"
 ---
 

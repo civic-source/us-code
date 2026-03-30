@@ -3,9 +3,9 @@ title: "Section 1781 - Medical care for survivors and dependents of certain vete
 usc_title: 38
 usc_section: "1781"
 chapter: 17
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 1781"
-generated_at: "2026-03-30T04:42:32.495Z"
+generated_at: "2026-03-30T04:45:43.216Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** the spouse or child of a veteran who has a total disability, permanent in nature, resulting from a service-connected disability,
   - **(2)** the surviving spouse or child of a veteran who (A) died as a result of a service-connected disability, or (B) at the time of death had a total disability permanent in nature, resulting from a service-connected disability,
   - **(3)** the surviving spouse or child of a person who died in the active military, naval, or air service in the line of duty and not due to such person’s own misconduct, and
-  - **(4)** an individual designated as a primary provider of personal care services under section 1720G(a)(7)(A) of this title who is not entitled to care or services under a health-plan contract (as defined in section 1725(f) of this title ); 1 1 So in original. The semicolon probably should be a comma.
+  - **(4)** an individual designated as a primary provider of personal care services under section 1720G(a)(7)(A) of this title who is not entitled to care or services under a health-plan contract (as defined in section 1725(f) of this title ),
 - **(b)** In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
   - **(1)** entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
   - **(2)** contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.

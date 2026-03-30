@@ -3,9 +3,9 @@ title: "Section 2101 - Acquisition and adaptation of housing: eligible veterans"
 usc_title: 38
 usc_section: "2101"
 chapter: 21
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 2101"
-generated_at: "2026-03-30T04:42:32.501Z"
+generated_at: "2026-03-30T04:45:43.224Z"
 status: "active"
 ---
 
@@ -20,7 +20,8 @@ status: "active"
     - **(B)** The criteria described in this subparagraph are as follows:
       - **(i)** The disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
       - **(ii)** The disability is due to—
-        - **(I)** blindness in both eyes, having only light perception, plus (ii) 1 1 So in original. Probably should be a separate subcl. and be designated “(II)”. loss or loss of use of one lower extremity.
+        - **(I)** blindness in both eyes, having only light perception, plus
+        - **(II)** loss or loss of use of one lower extremity.
       - **(iii)** The disability is due to the loss or loss of use of one lower extremity together with—
         - **(I)** residuals of organic disease or injury; or
         - **(II)** the loss or loss of use of one upper extremity,
@@ -34,8 +35,8 @@ status: "active"
     - **(B)** the proposed housing unit bears a proper relation to the veteran’s present and anticipated income and expenses; and
     - **(C)** the nature and condition of the proposed housing unit are such as to be suitable to the veteran’s needs for dwelling purposes.
   - **(4)**
-    - **(A)** Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2015 .
-    - **(B)** In each of fiscal years 2014 and 2015, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+    - **(A)** Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2016 .
+    - **(B)** In each of fiscal years 2014 through 2016, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 - **(b)**
   - **(1)** Subject to paragraph (3), the Secretary shall assist any disabled veteran described in paragraph (2) (other than a veteran who is eligible for assistance under subsection (a))—
     - **(A)** in acquiring such adaptations to such veteran’s residence as are determined by the Secretary to be reasonably necessary because of such disability; or

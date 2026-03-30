@@ -3,9 +3,9 @@ title: "Section 8471 - Definitions"
 usc_title: 5
 usc_section: "8471"
 chapter: 84
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 8471"
-generated_at: "2026-03-30T04:41:16.380Z"
+generated_at: "2026-03-30T04:43:47.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4623 - Replacement housing for homeowner; mortgage insurance"
 usc_title: 42
 usc_section: "4623"
 chapter: 61
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 4623"
-generated_at: "2026-03-30T04:42:53.574Z"
+generated_at: "2026-03-30T04:46:28.417Z"
 status: "active"
 ---
 

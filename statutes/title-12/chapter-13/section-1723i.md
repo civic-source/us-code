@@ -3,9 +3,9 @@ title: "Section 1723i - Civil money penalties against issuers"
 usc_title: 12
 usc_section: "1723i"
 chapter: 13
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 1723i"
-generated_at: "2026-03-30T04:41:37.982Z"
+generated_at: "2026-03-30T04:44:20.361Z"
 status: "active"
 ---
 

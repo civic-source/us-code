@@ -3,9 +3,9 @@ title: "Section 1103 - Powers of Commission"
 usc_title: 16
 usc_section: "1103"
 chapter: 22
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 1103"
-generated_at: "2026-03-30T04:41:59.252Z"
+generated_at: "2026-03-30T04:45:04.838Z"
 status: "active"
 ---
 

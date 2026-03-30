@@ -3,9 +3,9 @@ title: "Section 349 - Rediscount for intermediate credit banks of obligations gi
 usc_title: 12
 usc_section: "349"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 349"
-generated_at: "2026-03-30T04:41:37.941Z"
+generated_at: "2026-03-30T04:44:20.320Z"
 status: "active"
 ---
 

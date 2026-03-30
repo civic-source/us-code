@@ -3,9 +3,9 @@ title: "Section 5104 - Basis for grading positions"
 usc_title: 5
 usc_section: "5104"
 chapter: 51
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 5104"
-generated_at: "2026-03-30T04:41:16.346Z"
+generated_at: "2026-03-30T04:43:47.024Z"
 status: "active"
 ---
 

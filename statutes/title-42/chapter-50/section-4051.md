@@ -3,9 +3,9 @@ title: "Section 4051 - Industry flood insurance pool; requirements for participa
 usc_title: 42
 usc_section: "4051"
 chapter: 50
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 4051"
-generated_at: "2026-03-30T04:42:53.568Z"
+generated_at: "2026-03-30T04:46:28.411Z"
 status: "active"
 ---
 

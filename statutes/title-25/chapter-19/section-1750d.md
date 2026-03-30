@@ -3,9 +3,9 @@ title: "Section 1750d - Miccosukee Indian Reservation lands"
 usc_title: 25
 usc_section: "1750d"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 1750d"
-generated_at: "2026-03-30T04:42:07.698Z"
+generated_at: "2026-03-30T04:45:21.275Z"
 status: "active"
 ---
 

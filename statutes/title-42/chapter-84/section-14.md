@@ -3,9 +3,9 @@ title: "Section 14 - Payment of compensation and benefits from compensation fund
 usc_title: 42
 usc_section: "14"
 chapter: 84
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T04:42:53.650Z"
+generated_at: "2026-03-30T04:46:28.494Z"
 status: "active"
 ---
 

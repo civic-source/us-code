@@ -3,9 +3,9 @@ title: "Section 9445 - Funds appropriated for the Civil Air Patrol"
 usc_title: 10
 usc_section: "9445"
 chapter: 909
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 9445"
-generated_at: "2026-03-30T04:41:26.995Z"
+generated_at: "2026-03-30T04:43:57.265Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41762 - Definitions"
 usc_title: 49
 usc_section: "41762"
 chapter: 417
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 41762"
-generated_at: "2026-03-30T04:43:05.050Z"
+generated_at: "2026-03-30T04:46:38.524Z"
 status: "active"
 ---
 

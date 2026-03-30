@@ -3,9 +3,9 @@ title: "Section 2215 - Chief clerk"
 usc_title: 7
 usc_section: "2215"
 chapter: 55
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "7 U.S.C. § 2215"
-generated_at: "2026-03-30T04:41:32.605Z"
+generated_at: "2026-03-30T04:43:59.289Z"
 status: "active"
 ---
 

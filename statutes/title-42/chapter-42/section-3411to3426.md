@@ -3,9 +3,9 @@ title: "Section 3411to3426 - Repealed. Pub. L. 106–310, div. B, title XXXIV, �
 usc_title: 42
 usc_section: "3411to3426"
 chapter: 42
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 3411to3426"
-generated_at: "2026-03-30T04:42:53.547Z"
+generated_at: "2026-03-30T04:46:28.389Z"
 status: "repealed"
 ---
 

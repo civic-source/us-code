@@ -3,9 +3,9 @@ title: "Section 1745 - Special provisions for Miccosukee Tribe"
 usc_title: 25
 usc_section: "1745"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 1745"
-generated_at: "2026-03-30T04:42:07.698Z"
+generated_at: "2026-03-30T04:45:21.275Z"
 status: "active"
 ---
 

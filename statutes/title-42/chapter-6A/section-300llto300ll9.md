@@ -3,9 +3,9 @@ title: "Section 300llto300ll9 - Repealed. Pub. L. 112–240, title VI, § 642(a)
 usc_title: 42
 usc_section: "300llto300ll9"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 300llto300ll9"
-generated_at: "2026-03-30T04:42:53.292Z"
+generated_at: "2026-03-30T04:46:28.126Z"
 status: "repealed"
 ---
 

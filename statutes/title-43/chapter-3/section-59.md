@@ -3,9 +3,9 @@ title: "Section 59 - Official papers in office of surveyor general in California
 usc_title: 43
 usc_section: "59"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "43 U.S.C. § 59"
-generated_at: "2026-03-30T04:42:35.652Z"
+generated_at: "2026-03-30T04:45:49.885Z"
 status: "active"
 ---
 

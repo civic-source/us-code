@@ -3,9 +3,9 @@ title: "Section 1468a - Advertising"
 usc_title: 12
 usc_section: "1468a"
 chapter: 12
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 1468a"
-generated_at: "2026-03-30T04:41:37.961Z"
+generated_at: "2026-03-30T04:44:20.339Z"
 status: "active"
 ---
 

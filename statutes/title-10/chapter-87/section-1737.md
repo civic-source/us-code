@@ -3,9 +3,9 @@ title: "Section 1737 - Definitions and general provisions"
 usc_title: 10
 usc_section: "1737"
 chapter: 87
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 1737"
-generated_at: "2026-03-30T04:41:26.925Z"
+generated_at: "2026-03-30T04:43:57.196Z"
 status: "active"
 ---
 

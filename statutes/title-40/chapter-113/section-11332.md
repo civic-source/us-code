@@ -3,9 +3,9 @@ title: "Section 11332 - Repealed. Pub. L. 107–296, title X, § 1005(a)(1) , No
 usc_title: 40
 usc_section: "11332"
 chapter: 113
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "40 U.S.C. § 11332"
-generated_at: "2026-03-30T04:42:33.244Z"
+generated_at: "2026-03-30T04:45:46.069Z"
 status: "repealed"
 ---
 

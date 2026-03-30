@@ -3,9 +3,9 @@ title: "Section 408 - Establishment; acquisition of land"
 usc_title: 16
 usc_section: "408"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 408"
-generated_at: "2026-03-30T04:41:59.125Z"
+generated_at: "2026-03-30T04:45:04.716Z"
 status: "active"
 ---
 

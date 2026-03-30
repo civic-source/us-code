@@ -3,9 +3,9 @@ title: "Section 6235to6238 - Repealed. Pub. L. 106–469, title I, § 103(8) –
 usc_title: 42
 usc_section: "6235to6238"
 chapter: 77
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 6235to6238"
-generated_at: "2026-03-30T04:42:53.608Z"
+generated_at: "2026-03-30T04:46:28.452Z"
 status: "repealed"
 ---
 

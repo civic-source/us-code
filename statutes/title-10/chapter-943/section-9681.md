@@ -3,9 +3,9 @@ title: "Section 9681 - Surplus war material: sale to States and foreign governme
 usc_title: 10
 usc_section: "9681"
 chapter: 943
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 9681"
-generated_at: "2026-03-30T04:41:26.996Z"
+generated_at: "2026-03-30T04:43:57.266Z"
 status: "active"
 ---
 

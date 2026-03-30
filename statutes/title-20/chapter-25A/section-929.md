@@ -3,9 +3,9 @@ title: "Section 929 - Advisory Council on Dependents’ Education"
 usc_title: 20
 usc_section: "929"
 chapter: 25
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 929"
-generated_at: "2026-03-30T04:42:00.952Z"
+generated_at: "2026-03-30T04:44:44.677Z"
 status: "active"
 ---
 

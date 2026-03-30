@@ -3,9 +3,9 @@ title: "Section 1113 - Miami Indians of Indiana; membership roll; preparation; e
 usc_title: 25
 usc_section: "1113"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 1113"
-generated_at: "2026-03-30T04:42:07.678Z"
+generated_at: "2026-03-30T04:45:21.255Z"
 status: "active"
 ---
 

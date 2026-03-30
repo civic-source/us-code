@@ -3,9 +3,9 @@ title: "Section 3462 - Time limitations for completing a program of education"
 usc_title: 38
 usc_section: "3462"
 chapter: 34
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 3462"
-generated_at: "2026-03-30T04:42:32.510Z"
+generated_at: "2026-03-30T04:45:43.233Z"
 status: "active"
 ---
 

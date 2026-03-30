@@ -3,9 +3,9 @@ title: "Section 8848 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1629(c
 usc_title: 10
 usc_section: "8848"
 chapter: 863
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 8848"
-generated_at: "2026-03-30T04:41:26.992Z"
+generated_at: "2026-03-30T04:43:57.262Z"
 status: "repealed"
 ---
 

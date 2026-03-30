@@ -3,9 +3,9 @@ title: "Section 585586 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 8
 usc_title: 16
 usc_section: "585586"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 585586"
-generated_at: "2026-03-30T04:41:59.211Z"
+generated_at: "2026-03-30T04:45:04.797Z"
 status: "repealed"
 ---
 

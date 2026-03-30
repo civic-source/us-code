@@ -3,9 +3,9 @@ title: "Section 7086 - Physical disability retirement"
 usc_title: 10
 usc_section: "7086"
 chapter: 607
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 7086"
-generated_at: "2026-03-30T04:41:26.984Z"
+generated_at: "2026-03-30T04:43:57.255Z"
 status: "active"
 ---
 

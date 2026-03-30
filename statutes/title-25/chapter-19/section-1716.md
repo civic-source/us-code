@@ -3,9 +3,9 @@ title: "Section 1716 - Deferral of capital gains"
 usc_title: 25
 usc_section: "1716"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 1716"
-generated_at: "2026-03-30T04:42:07.697Z"
+generated_at: "2026-03-30T04:45:21.274Z"
 status: "active"
 ---
 

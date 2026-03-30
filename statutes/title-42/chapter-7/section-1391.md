@@ -3,9 +3,9 @@ title: "Section 1391 - Authorization of appropriations"
 usc_title: 42
 usc_section: "1391"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 1391"
-generated_at: "2026-03-30T04:42:53.353Z"
+generated_at: "2026-03-30T04:46:28.191Z"
 status: "active"
 ---
 

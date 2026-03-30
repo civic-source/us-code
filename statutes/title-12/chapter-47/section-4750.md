@@ -3,9 +3,9 @@ title: "Section 4750 - Authorization of appropriations"
 usc_title: 12
 usc_section: "4750"
 chapter: 47
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 4750"
-generated_at: "2026-03-30T04:41:38.062Z"
+generated_at: "2026-03-30T04:44:20.439Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3506 - General authorities"
 usc_title: 50
 usc_section: "3506"
 chapter: 46
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "50 U.S.C. § 3506"
-generated_at: "2026-03-30T04:43:16.953Z"
+generated_at: "2026-03-30T04:46:33.167Z"
 status: "active"
 ---
 

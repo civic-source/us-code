@@ -3,9 +3,9 @@ title: "Section 1181a - Conservation management by Department of the Interior; p
 usc_title: 43
 usc_section: "1181a"
 chapter: 28
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "43 U.S.C. § 1181a"
-generated_at: "2026-03-30T04:42:35.678Z"
+generated_at: "2026-03-30T04:45:49.921Z"
 status: "active"
 ---
 

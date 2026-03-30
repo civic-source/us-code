@@ -3,9 +3,9 @@ title: "Section 7308 - Office of Rural Health"
 usc_title: 38
 usc_section: "7308"
 chapter: 73
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 7308"
-generated_at: "2026-03-30T04:42:32.529Z"
+generated_at: "2026-03-30T04:45:43.255Z"
 status: "active"
 ---
 

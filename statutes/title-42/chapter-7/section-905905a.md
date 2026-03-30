@@ -3,9 +3,9 @@ title: "Section 905905a - Transferred"
 usc_title: 42
 usc_section: "905905a"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 905905a"
-generated_at: "2026-03-30T04:42:53.330Z"
+generated_at: "2026-03-30T04:46:28.166Z"
 status: "transferred"
 ---
 

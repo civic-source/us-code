@@ -3,9 +3,9 @@ title: "Section 4910 - Construction"
 usc_title: 12
 usc_section: "4910"
 chapter: 49
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 4910"
-generated_at: "2026-03-30T04:41:38.063Z"
+generated_at: "2026-03-30T04:44:20.440Z"
 status: "active"
 ---
 

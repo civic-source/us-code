@@ -3,9 +3,9 @@ title: "Section 3715a - Consolidation of financial management systems of Office 
 usc_title: 42
 usc_section: "3715a"
 chapter: 46
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 3715a"
-generated_at: "2026-03-30T04:42:53.553Z"
+generated_at: "2026-03-30T04:46:28.395Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3335 - Timely disbursement of Federal funds"
 usc_title: 31
 usc_section: "3335"
 chapter: 33
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "31 U.S.C. § 3335"
-generated_at: "2026-03-30T04:42:27.811Z"
+generated_at: "2026-03-30T04:45:36.103Z"
 status: "active"
 ---
 

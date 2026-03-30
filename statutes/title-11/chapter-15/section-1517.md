@@ -3,9 +3,9 @@ title: "Section 1517 - Order granting recognition"
 usc_title: 11
 usc_section: "1517"
 chapter: 15
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "11 U.S.C. § 1517"
-generated_at: "2026-03-30T04:41:35.450Z"
+generated_at: "2026-03-30T04:44:37.779Z"
 status: "active"
 ---
 

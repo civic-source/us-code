@@ -3,9 +3,9 @@ title: "Section 100 - Nitrate plants"
 usc_title: 50
 usc_section: "100"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "50 U.S.C. § 100"
-generated_at: "2026-03-30T04:43:16.910Z"
+generated_at: "2026-03-30T04:46:33.123Z"
 status: "active"
 ---
 

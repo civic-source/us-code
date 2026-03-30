@@ -3,9 +3,9 @@ title: "Section 590y - Authorization and purpose of investigation, construction,
 usc_title: 16
 usc_section: "590y"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 590y"
-generated_at: "2026-03-30T04:41:59.212Z"
+generated_at: "2026-03-30T04:45:04.798Z"
 status: "active"
 ---
 

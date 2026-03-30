@@ -3,9 +3,9 @@ title: "Section 1371to1371b - Repealed. July 21, 1949, ch. 356, § 1(b) , 63 Sta
 usc_title: 48
 usc_section: "1371to1371b"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "48 U.S.C. § 1371to1371b"
-generated_at: "2026-03-30T04:42:56.386Z"
+generated_at: "2026-03-30T04:46:41.666Z"
 status: "repealed"
 ---
 

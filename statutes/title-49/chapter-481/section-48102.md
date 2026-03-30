@@ -3,9 +3,9 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-03-30T04:43:05.068Z"
+generated_at: "2026-03-30T04:46:38.544Z"
 status: "active"
 ---
 
@@ -67,8 +67,9 @@ status: "active"
     - **(L)** $8,000,000 for Airports Technology-Efficiency;
   - **(5)** $171,000,000 for fiscal year 2009;
   - **(6)** $190,500,000 for fiscal year 2010;
-  - **(7)** $170,000,000 for fiscal year 2011; and
-  - **(8)** $168,000,000 for each of fiscal years 2012 through 2015.
+  - **(7)** $170,000,000 for fiscal year 2011;
+  - **(8)** $168,000,000 for each of fiscal years 2012 through 2015; and
+  - **(9)** $78,375,000 for the period beginning on October 1, 2015 , and ending on March 31, 2016 .
 - **(b)**
   - **(1)** The Administrator shall consider the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
   - **(2)** At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.

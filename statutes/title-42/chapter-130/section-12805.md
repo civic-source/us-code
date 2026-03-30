@@ -3,9 +3,9 @@ title: "Section 12805 - Sweat equity model program"
 usc_title: 42
 usc_section: "12805"
 chapter: 130
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 12805"
-generated_at: "2026-03-30T04:42:53.771Z"
+generated_at: "2026-03-30T04:46:28.609Z"
 status: "active"
 ---
 

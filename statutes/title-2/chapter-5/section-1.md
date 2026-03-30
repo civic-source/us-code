@@ -3,9 +3,9 @@ title: "Section 1 - Library of musical scores, instructional texts, and other sp
 usc_title: 2
 usc_section: "1"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T04:40:57.475Z"
+generated_at: "2026-03-30T04:43:48.529Z"
 status: "active"
 ---
 

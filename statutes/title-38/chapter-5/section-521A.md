@@ -3,9 +3,9 @@ title: "Section 521A - Adaptive sports programs for disabled veterans and member
 usc_title: 38
 usc_section: "521A"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 521A"
-generated_at: "2026-03-30T04:42:32.485Z"
+generated_at: "2026-03-30T04:45:43.206Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
 - **(e)** As a condition of receiving a grant under this section, an eligible entity shall agree to conduct a joint outreach campaign with the Secretary of Veterans Affairs to inform all eligible veterans and separating members of the Armed Forces with physical disabilities about the existence of the adapted sports opportunities funded by the grant, as appropriate, and shall provide for, facilitate, and encourage participation of such veterans and separating members of the Armed Forces in programs under this section to the extent possible.
 - **(f)** The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in adapted sports opportunities funded under this section to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
 - **(g)**
-  - **(1)** There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2015.
+  - **(1)** There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2016.
   - **(2)** Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 - **(h)** The Department shall have a separate line item in budget proposals of the Department for funds to be appropriated to carry out this section. Funds appropriated to carry out this section shall not be commingled with any other funds appropriated to the Department.
 - **(i)** Except as provided in paragraphs (4) and (5) of subsection (d), funds appropriated to carry out this section may not be used to support or provide services to individuals who are not disabled veterans or disabled members of the Armed Forces.

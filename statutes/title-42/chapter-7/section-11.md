@@ -3,9 +3,9 @@ title: "Section 11 - Exemptions for religious nonmedical health care institution
 usc_title: 42
 usc_section: "11"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T04:42:53.346Z"
+generated_at: "2026-03-30T04:46:28.183Z"
 status: "active"
 ---
 

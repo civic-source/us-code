@@ -3,9 +3,9 @@ title: "Section 6502 - Designation of National Petroleum Reserve in Alaska; rese
 usc_title: 42
 usc_section: "6502"
 chapter: 78
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 6502"
-generated_at: "2026-03-30T04:42:53.624Z"
+generated_at: "2026-03-30T04:46:28.468Z"
 status: "active"
 ---
 

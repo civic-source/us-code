@@ -3,9 +3,9 @@ title: "Section 403h5to403h9 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat
 usc_title: 16
 usc_section: "403h5to403h9"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 403h5to403h9"
-generated_at: "2026-03-30T04:41:59.121Z"
+generated_at: "2026-03-30T04:45:04.714Z"
 status: "repealed"
 ---
 

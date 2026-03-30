@@ -3,9 +3,9 @@ title: "Section 18 - Study of depletion of natural resources of regions of Color
 usc_title: 42
 usc_section: "18"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-03-30T04:42:53.502Z"
+generated_at: "2026-03-30T04:46:28.344Z"
 status: "active"
 ---
 

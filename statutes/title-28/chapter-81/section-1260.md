@@ -3,9 +3,9 @@ title: "Section 1260 - Supreme Court of the Virgin Islands; certiorari"
 usc_title: 28
 usc_section: "1260"
 chapter: 81
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "28 U.S.C. § 1260"
-generated_at: "2026-03-30T04:42:16.120Z"
+generated_at: "2026-03-30T04:45:25.798Z"
 status: "active"
 ---
 

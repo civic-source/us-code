@@ -3,9 +3,9 @@ title: "Section 544 - Advisory Committee on Minority Veterans"
 usc_title: 38
 usc_section: "544"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 544"
-generated_at: "2026-03-30T04:42:32.486Z"
+generated_at: "2026-03-30T04:45:43.207Z"
 status: "active"
 ---
 
@@ -45,4 +45,4 @@ status: "active"
   - **(3)** Hispanic;
   - **(4)** Native American (including American Indian, Alaskan Native, and Native Hawaiian); or
   - **(5)** Pacific-Islander American.
-- **(e)** The Committee shall cease to exist December 31, 2015 .
+- **(e)** The Committee shall cease to exist December 31, 2016 .

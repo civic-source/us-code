@@ -3,9 +3,9 @@ title: "Section 1496a - Clearance restrictions of individuals returning from abr
 usc_title: 19
 usc_section: "1496a"
 chapter: 4
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "19 U.S.C. § 1496a"
-generated_at: "2026-03-30T04:41:44.193Z"
+generated_at: "2026-03-30T04:45:08.614Z"
 status: "active"
 ---
 

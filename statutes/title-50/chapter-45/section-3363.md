@@ -3,9 +3,9 @@ title: "Section 3363 - Terrorist Identification Classification System"
 usc_title: 50
 usc_section: "3363"
 chapter: 45
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "50 U.S.C. § 3363"
-generated_at: "2026-03-30T04:43:16.952Z"
+generated_at: "2026-03-30T04:46:33.166Z"
 status: "active"
 ---
 
@@ -22,8 +22,8 @@ status: "active"
   - **(3)** The Director shall ensure that the list is maintained in accordance with existing law and regulations governing the collection, storage, and dissemination of intelligence concerning United States persons.
 - **(c)** Subject to section 3024(i) of this title , relating to the protection of intelligence sources and methods, the Director shall provide for the sharing of the list, and information on the list, with such departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations as the Director considers appropriate.
 - **(d)**
-  - **(1)** Not later then March 1, 2003 , the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) of this section are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
-  - **(2)** The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section would be inappropriate due to the concerns addressed by section 403–3(c)(7) 1 1 See References in Text note below. of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
+  - **(1)** Not later then 1 1 So in original. Probably should be “than”. March 1, 2003 , the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) of this section are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
+  - **(2)** The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section would be inappropriate due to the concerns addressed by section 403–3(c)(7) 2 2 See References in Text note below. of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
 - **(e)**
   - **(1)** The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section.
   - **(2)** The Director shall ensure that the System utilizes technologies that are effective in aiding the identification of individuals in the field.

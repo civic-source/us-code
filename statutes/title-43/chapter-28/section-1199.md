@@ -3,9 +3,9 @@ title: "Section 1199 - Provisions to be included in contracts for condemnation o
 usc_title: 43
 usc_section: "1199"
 chapter: 28
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "43 U.S.C. § 1199"
-generated_at: "2026-03-30T04:42:35.679Z"
+generated_at: "2026-03-30T04:45:49.921Z"
 status: "active"
 ---
 

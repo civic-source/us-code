@@ -3,9 +3,9 @@ title: "Section 1701 - Congressional statement of findings and purposes"
 usc_title: 30
 usc_section: "1701"
 chapter: 29
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "30 U.S.C. § 1701"
-generated_at: "2026-03-30T04:42:16.683Z"
+generated_at: "2026-03-30T04:45:25.201Z"
 status: "active"
 ---
 

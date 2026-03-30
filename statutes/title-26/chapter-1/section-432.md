@@ -3,9 +3,9 @@ title: "Section 432 - Additional funding rules for multiemployer plans in endang
 usc_title: 26
 usc_section: "432"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "26 U.S.C. § 432"
-generated_at: "2026-03-30T04:42:24.059Z"
+generated_at: "2026-03-30T04:45:33.143Z"
 status: "active"
 ---
 
@@ -302,7 +302,7 @@ status: "active"
       - **(i)** An action by the plan sponsor challenging the denial of an application for suspension of benefits by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, may only be brought following such denial.
       - **(ii)**
         - **(I)** An action challenging a suspension of benefits under this paragraph may only be brought following a final authorization to suspend by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (H)(vi).
-        - **(II)** Standards of review
+        - **(II)**
       - **(iii)** A participant or beneficiary affected by a benefit suspension under this paragraph shall not have a cause of action under this title.
       - **(iv)** No action challenging a suspension of benefits following the final authorization to suspend or the denial of an application for suspension of benefits pursuant to this paragraph may be brought after one year after the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action.
     - **(J)** A plan certified to be in critical and declining status pursuant to projections made under subsection (b)(3) for which a suspension of benefits has been made by the plan sponsor pursuant to this paragraph shall not emerge from critical status under paragraph (4)(B), until such time as—

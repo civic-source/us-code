@@ -3,9 +3,9 @@ title: "Section 9221to9225 - Repealed. Pub. L. 113–128, title V, § 511(a) , J
 usc_title: 20
 usc_section: "9221to9225"
 chapter: 73
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 9221to9225"
-generated_at: "2026-03-30T04:42:01.082Z"
+generated_at: "2026-03-30T04:44:44.808Z"
 status: "repealed"
 ---
 

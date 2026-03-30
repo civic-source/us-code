@@ -3,9 +3,9 @@ title: "Section 2220a - General provisions"
 usc_title: 22
 usc_section: "2220a"
 chapter: 32
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 2220a"
-generated_at: "2026-03-30T04:42:13.290Z"
+generated_at: "2026-03-30T04:45:13.997Z"
 status: "active"
 ---
 

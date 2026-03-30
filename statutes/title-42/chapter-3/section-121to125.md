@@ -3,9 +3,9 @@ title: "Section 121to125 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313
 usc_title: 42
 usc_section: "121to125"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 121to125"
-generated_at: "2026-03-30T04:42:53.170Z"
+generated_at: "2026-03-30T04:46:27.998Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 287c31to287c34 - Transferred"
 usc_title: 42
 usc_section: "287c31to287c34"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 287c31to287c34"
-generated_at: "2026-03-30T04:42:53.223Z"
+generated_at: "2026-03-30T04:46:28.055Z"
 status: "transferred"
 ---
 

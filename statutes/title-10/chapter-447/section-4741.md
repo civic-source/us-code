@@ -3,9 +3,9 @@ title: "Section 4741 - Repealed. Pub. L. 108–375, div. A, title X, § 1072(c) 
 usc_title: 10
 usc_section: "4741"
 chapter: 447
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 4741"
-generated_at: "2026-03-30T04:41:26.975Z"
+generated_at: "2026-03-30T04:43:57.247Z"
 status: "repealed"
 ---
 

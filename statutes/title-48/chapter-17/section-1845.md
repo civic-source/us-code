@@ -3,9 +3,9 @@ title: "Section 1845 - Plans for development, utilization, and conservation of w
 usc_title: 48
 usc_section: "1845"
 chapter: 17
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "48 U.S.C. § 1845"
-generated_at: "2026-03-30T04:42:56.395Z"
+generated_at: "2026-03-30T04:46:41.676Z"
 status: "active"
 ---
 

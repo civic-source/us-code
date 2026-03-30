@@ -3,9 +3,9 @@ title: "Section 4311 - Credit unions"
 usc_title: 12
 usc_section: "4311"
 chapter: 44
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 4311"
-generated_at: "2026-03-30T04:41:38.050Z"
+generated_at: "2026-03-30T04:44:20.427Z"
 status: "active"
 ---
 

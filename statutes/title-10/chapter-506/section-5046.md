@@ -3,9 +3,9 @@ title: "Section 5046 - Staff Judge Advocate to the Commandant of the Marine Corp
 usc_title: 10
 usc_section: "5046"
 chapter: 506
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 5046"
-generated_at: "2026-03-30T04:41:26.977Z"
+generated_at: "2026-03-30T04:43:57.248Z"
 status: "active"
 ---
 

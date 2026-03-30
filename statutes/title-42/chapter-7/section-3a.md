@@ -3,9 +3,9 @@ title: "Section 3a - Use of average sales price payment methodology"
 usc_title: 42
 usc_section: "3a"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T04:42:53.372Z"
+generated_at: "2026-03-30T04:46:28.211Z"
 status: "active"
 ---
 

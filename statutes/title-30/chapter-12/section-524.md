@@ -3,9 +3,9 @@ title: "Section 524 - Reservation of minerals to United States"
 usc_title: 30
 usc_section: "524"
 chapter: 12
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "30 U.S.C. § 524"
-generated_at: "2026-03-30T04:42:16.661Z"
+generated_at: "2026-03-30T04:45:25.178Z"
 status: "active"
 ---
 

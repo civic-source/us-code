@@ -3,9 +3,9 @@ title: "Section 7401 - Appointments in Veterans Health Administration"
 usc_title: 38
 usc_section: "7401"
 chapter: 74
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 7401"
-generated_at: "2026-03-30T04:42:32.532Z"
+generated_at: "2026-03-30T04:45:43.258Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
   - **(3)** Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
     - **(A)** Such other classes of health care occupations—
       - **(i)** are not occupations relating to administrative, clerical, or physical plant maintenance and protective services;
-      - **(ii)** that 1 1 So in original. The word “that” probably should not appear. would otherwise receive basic pay in accordance with the General Schedule under section 5332 of title 5 ;
+      - **(ii)** would otherwise receive basic pay in accordance with the General Schedule under section 5332 of title 5 ;
       - **(iii)** provide, as determined by the Secretary, direct patient care services or services incident to direct patient services; and
       - **(iv)** would not otherwise be available to provide medical care or treatment for veterans.
     - **(B)** Not later than 45 days before the Secretary appoints any personnel for a class of health care occupations that is not specifically listed in this paragraph, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate, the Committee on Veterans’ Affairs of the House of Representatives, and the Office of Management and Budget notice of such appointment.

@@ -3,9 +3,9 @@ title: "Section 3309 - Design-build selection procedures"
 usc_title: 41
 usc_section: "3309"
 chapter: 33
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "41 U.S.C. § 3309"
-generated_at: "2026-03-30T04:42:34.993Z"
+generated_at: "2026-03-30T04:45:48.861Z"
 status: "active"
 ---
 

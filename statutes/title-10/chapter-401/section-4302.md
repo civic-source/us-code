@@ -3,9 +3,9 @@ title: "Section 4302 - Enlisted members of Army: schools"
 usc_title: 10
 usc_section: "4302"
 chapter: 401
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 4302"
-generated_at: "2026-03-30T04:41:26.972Z"
+generated_at: "2026-03-30T04:43:57.243Z"
 status: "active"
 ---
 

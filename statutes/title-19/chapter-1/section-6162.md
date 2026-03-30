@@ -3,9 +3,9 @@ title: "Section 6162 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(22) , (23), 70 S
 usc_title: 19
 usc_section: "6162"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "19 U.S.C. § 6162"
-generated_at: "2026-03-30T04:41:44.185Z"
+generated_at: "2026-03-30T04:45:08.605Z"
 status: "repealed"
 ---
 

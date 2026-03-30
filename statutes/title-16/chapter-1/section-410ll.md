@@ -3,9 +3,9 @@ title: "Section 410ll - Establishment"
 usc_title: 16
 usc_section: "410ll"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 410ll"
-generated_at: "2026-03-30T04:41:59.134Z"
+generated_at: "2026-03-30T04:45:04.723Z"
 status: "active"
 ---
 

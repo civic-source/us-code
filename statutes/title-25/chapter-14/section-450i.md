@@ -3,9 +3,9 @@ title: "Section 450i - Retention of Federal employee coverage, rights and benefi
 usc_title: 25
 usc_section: "450i"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 450i"
-generated_at: "2026-03-30T04:42:07.653Z"
+generated_at: "2026-03-30T04:45:21.232Z"
 status: "active"
 ---
 

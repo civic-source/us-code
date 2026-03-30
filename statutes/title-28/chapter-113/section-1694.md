@@ -3,9 +3,9 @@ title: "Section 1694 - Patent infringement action"
 usc_title: 28
 usc_section: "1694"
 chapter: 113
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "28 U.S.C. § 1694"
-generated_at: "2026-03-30T04:42:16.124Z"
+generated_at: "2026-03-30T04:45:25.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5614 - Concentration of Federal efforts"
 usc_title: 42
 usc_section: "5614"
 chapter: 72
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 5614"
-generated_at: "2026-03-30T04:42:53.599Z"
+generated_at: "2026-03-30T04:46:28.442Z"
 status: "active"
 ---
 

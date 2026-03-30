@@ -3,9 +3,9 @@ title: "Section 6502 - Collection after assessment"
 usc_title: 26
 usc_section: "6502"
 chapter: 66
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "26 U.S.C. § 6502"
-generated_at: "2026-03-30T04:42:24.195Z"
+generated_at: "2026-03-30T04:45:33.285Z"
 status: "active"
 ---
 

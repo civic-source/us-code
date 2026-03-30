@@ -3,9 +3,9 @@ title: "Section 1464 - Voice of America/Europe"
 usc_title: 22
 usc_section: "1464"
 chapter: 18
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 1464"
-generated_at: "2026-03-30T04:42:13.273Z"
+generated_at: "2026-03-30T04:45:13.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6561f - Community based organizations"
 usc_title: 20
 usc_section: "6561f"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 6561f"
-generated_at: "2026-03-30T04:42:01.053Z"
+generated_at: "2026-03-30T04:44:44.779Z"
 status: "active"
 ---
 

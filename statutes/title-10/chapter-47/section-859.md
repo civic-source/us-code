@@ -3,9 +3,9 @@ title: "Section 859 - Art. 59. Error of law; lesser included offense"
 usc_title: 10
 usc_section: "859"
 chapter: 47
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 859"
-generated_at: "2026-03-30T04:41:26.891Z"
+generated_at: "2026-03-30T04:43:57.164Z"
 status: "active"
 ---
 

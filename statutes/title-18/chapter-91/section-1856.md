@@ -3,9 +3,9 @@ title: "Section 1856 - Fires left unattended and unextinguished"
 usc_title: 18
 usc_section: "1856"
 chapter: 91
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "18 U.S.C. § 1856"
-generated_at: "2026-03-30T04:41:43.217Z"
+generated_at: "2026-03-30T04:44:42.314Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 566e - Criminal and civil jurisdiction"
 usc_title: 25
 usc_section: "566e"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 566e"
-generated_at: "2026-03-30T04:42:07.661Z"
+generated_at: "2026-03-30T04:45:21.240Z"
 status: "active"
 ---
 

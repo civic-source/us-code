@@ -3,9 +3,9 @@ title: "Section 2411 - Prohibition against interment or memorialization in the N
 usc_title: 38
 usc_section: "2411"
 chapter: 24
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 2411"
-generated_at: "2026-03-30T04:42:32.503Z"
+generated_at: "2026-03-30T04:45:43.225Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
     - **(A)** Disinter the remains of the person from the cemetery in the National Cemetery Administration or in Arlington National Cemetery and provide for the reburial or other appropriate disposition of the disinterred remains in a place other than a cemetery in the National Cemetery Administration or in Arlington National Cemetery.
     - **(B)** Remove from a memorial area in a cemetery in the National Cemetery Administration or in Arlington National Cemetery any memorial headstone or marker placed to honor the memory of the person.
 - **(e)**
-  - **(1)** A case described in this subsection is a case in which the appropriate federal 1 1 So in original. Probably should be capitalized. official receives—
+  - **(1)** A case described in this subsection is a case in which the appropriate Federal official receives—
     - **(A)** written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
     - **(B)** information that a person described in paragraph (2) may have committed a Federal capital crime or a State capital crime but was not convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
   - **(2)** A person described in this paragraph is a person—

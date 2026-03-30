@@ -3,9 +3,9 @@ title: "Section 17285 - Sense of Congress relating to the use of renewable resou
 usc_title: 42
 usc_section: "17285"
 chapter: 152
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 17285"
-generated_at: "2026-03-30T04:42:53.842Z"
+generated_at: "2026-03-30T04:46:28.677Z"
 status: "active"
 ---
 

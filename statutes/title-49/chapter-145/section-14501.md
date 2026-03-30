@@ -3,9 +3,9 @@ title: "Section 14501 - Federal authority over intrastate transportation"
 usc_title: 49
 usc_section: "14501"
 chapter: 145
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 14501"
-generated_at: "2026-03-30T04:43:05.017Z"
+generated_at: "2026-03-30T04:46:38.491Z"
 status: "active"
 ---
 

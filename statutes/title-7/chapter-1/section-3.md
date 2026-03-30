@@ -3,9 +3,9 @@ title: "Section 3 - Swap execution facilities"
 usc_title: 7
 usc_section: "3"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T04:41:32.502Z"
+generated_at: "2026-03-30T04:43:59.187Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4714 - Feasibility study of training programs in sizable Hispani
 usc_title: 22
 usc_section: "4714"
 chapter: 57
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 4714"
-generated_at: "2026-03-30T04:42:13.341Z"
+generated_at: "2026-03-30T04:45:14.043Z"
 status: "active"
 ---
 

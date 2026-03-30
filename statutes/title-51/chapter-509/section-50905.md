@@ -3,9 +3,9 @@ title: "Section 50905 - License applications and requirements"
 usc_title: 51
 usc_section: "50905"
 chapter: 509
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "51 U.S.C. § 50905"
-generated_at: "2026-03-30T04:43:32.919Z"
+generated_at: "2026-03-30T04:46:43.398Z"
 status: "active"
 ---
 
@@ -44,6 +44,6 @@ status: "active"
       - **(i)** have resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004 ) to crew or space flight participants during a licensed or permitted commercial human space flight; or
       - **(ii)** contributed to an unplanned event or series of events during a licensed or permitted commercial human space flight that posed a high risk of causing a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004 ) to crew or space flight participants; and
     - **(D)** be issued with a description of the instance or instances when the design feature or operating practice being restricted or prohibited contributed to a result or event described in subparagraph (C).
-  - **(3)** Beginning on October 1, 2015 , the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
+  - **(3)** Beginning on April 1, 2016 , the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
   - **(4)** Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 - **(d)** The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.

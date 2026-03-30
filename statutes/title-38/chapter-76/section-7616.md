@@ -3,9 +3,9 @@ title: "Section 7616 - Obligated service"
 usc_title: 38
 usc_section: "7616"
 chapter: 76
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 7616"
-generated_at: "2026-03-30T04:42:32.535Z"
+generated_at: "2026-03-30T04:45:43.263Z"
 status: "active"
 ---
 

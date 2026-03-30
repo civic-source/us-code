@@ -3,9 +3,9 @@ title: "Section 182c - Revolving fund for FEDLINK program and Federal Research p
 usc_title: 2
 usc_section: "182c"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "2 U.S.C. § 182c"
-generated_at: "2026-03-30T04:40:57.479Z"
+generated_at: "2026-03-30T04:43:48.532Z"
 status: "active"
 ---
 

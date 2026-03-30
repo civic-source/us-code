@@ -3,9 +3,9 @@ title: "Section 941e - Base membership roll"
 usc_title: 25
 usc_section: "941e"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 941e"
-generated_at: "2026-03-30T04:42:07.674Z"
+generated_at: "2026-03-30T04:45:21.252Z"
 status: "active"
 ---
 

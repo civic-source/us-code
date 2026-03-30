@@ -3,9 +3,9 @@ title: "Section 8213to8215 - Repealed. Pub. L. 96–513, title II, § 202 , Dec.
 usc_title: 10
 usc_section: "8213to8215"
 chapter: 831
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 8213to8215"
-generated_at: "2026-03-30T04:41:26.990Z"
+generated_at: "2026-03-30T04:43:57.261Z"
 status: "repealed"
 ---
 

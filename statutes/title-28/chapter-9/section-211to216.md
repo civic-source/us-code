@@ -3,9 +3,9 @@ title: "Section 211to216 - Repealed. Pub. L. 97–164, title I, § 106 , Apr. 2,
 usc_title: 28
 usc_section: "211to216"
 chapter: 9
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "28 U.S.C. § 211to216"
-generated_at: "2026-03-30T04:42:16.110Z"
+generated_at: "2026-03-30T04:45:25.787Z"
 status: "repealed"
 ---
 

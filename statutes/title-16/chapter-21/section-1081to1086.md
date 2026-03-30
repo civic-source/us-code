@@ -3,9 +3,9 @@ title: "Section 1081to1086 - Repealed. Pub. L. 94–265, title IV, § 402(b) , A
 usc_title: 16
 usc_section: "1081to1086"
 chapter: 21
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 1081to1086"
-generated_at: "2026-03-30T04:41:59.252Z"
+generated_at: "2026-03-30T04:45:04.838Z"
 status: "repealed"
 ---
 

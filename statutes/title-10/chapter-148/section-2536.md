@@ -3,9 +3,9 @@ title: "Section 2536 - Award of certain contracts to entities controlled by a fo
 usc_title: 10
 usc_section: "2536"
 chapter: 148
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 2536"
-generated_at: "2026-03-30T04:41:26.953Z"
+generated_at: "2026-03-30T04:43:57.225Z"
 status: "active"
 ---
 

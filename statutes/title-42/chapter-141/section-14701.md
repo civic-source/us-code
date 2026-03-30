@@ -3,9 +3,9 @@ title: "Section 14701 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "14701"
 chapter: 141
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 14701"
-generated_at: "2026-03-30T04:42:53.804Z"
+generated_at: "2026-03-30T04:46:28.642Z"
 status: "repealed"
 ---
 

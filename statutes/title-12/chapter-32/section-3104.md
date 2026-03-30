@@ -3,9 +3,9 @@ title: "Section 3104 - Insurance of deposits"
 usc_title: 12
 usc_section: "3104"
 chapter: 32
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 3104"
-generated_at: "2026-03-30T04:41:38.038Z"
+generated_at: "2026-03-30T04:44:20.415Z"
 status: "active"
 ---
 

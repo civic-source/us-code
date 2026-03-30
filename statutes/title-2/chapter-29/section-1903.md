@@ -3,9 +3,9 @@ title: "Section 1903 - Chief Administrative Officer"
 usc_title: 2
 usc_section: "1903"
 chapter: 29
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "2 U.S.C. § 1903"
-generated_at: "2026-03-30T04:40:57.500Z"
+generated_at: "2026-03-30T04:43:48.554Z"
 status: "active"
 ---
 

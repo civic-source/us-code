@@ -3,9 +3,9 @@ title: "Section 9071 - Dairy product donation program"
 usc_title: 7
 usc_section: "9071"
 chapter: 115
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "7 U.S.C. § 9071"
-generated_at: "2026-03-30T04:41:32.678Z"
+generated_at: "2026-03-30T04:43:59.363Z"
 status: "active"
 ---
 

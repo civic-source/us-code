@@ -3,9 +3,9 @@ title: "Section 141 - Appeal to Court of Appeals for the Federal Circuit"
 usc_title: 35
 usc_section: "141"
 chapter: 13
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "35 U.S.C. § 141"
-generated_at: "2026-03-30T04:42:26.974Z"
+generated_at: "2026-03-30T04:45:35.155Z"
 status: "active"
 ---
 

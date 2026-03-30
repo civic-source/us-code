@@ -3,9 +3,9 @@ title: "Section 87j - Advisory committee"
 usc_title: 7
 usc_section: "87j"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "7 U.S.C. § 87j"
-generated_at: "2026-03-30T04:41:32.510Z"
+generated_at: "2026-03-30T04:43:59.195Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** The advisory committee shall be governed by the provisions of the Federal Advisory Committee Act [5 U.S.C. App.].
 - **(c)** The Secretary shall provide the advisory committee with necessary clerical assistance and staff personnel.
 - **(d)** Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5 .
-- **(e)** The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2015 .
+- **(e)** The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020 .

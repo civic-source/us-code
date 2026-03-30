@@ -3,9 +3,9 @@ title: "Section 287d - Expenditures"
 usc_title: 2
 usc_section: "287d"
 chapter: 9
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "2 U.S.C. § 287d"
-generated_at: "2026-03-30T04:40:57.480Z"
+generated_at: "2026-03-30T04:43:48.534Z"
 status: "active"
 ---
 

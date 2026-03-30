@@ -3,9 +3,9 @@ title: "Section 2233 - Rescue of seized property"
 usc_title: 18
 usc_section: "2233"
 chapter: 109
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "18 U.S.C. § 2233"
-generated_at: "2026-03-30T04:41:43.221Z"
+generated_at: "2026-03-30T04:44:42.318Z"
 status: "active"
 ---
 

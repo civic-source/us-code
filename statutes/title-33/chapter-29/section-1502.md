@@ -3,9 +3,9 @@ title: "Section 1502 - Definitions"
 usc_title: 33
 usc_section: "1502"
 chapter: 29
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "33 U.S.C. § 1502"
-generated_at: "2026-03-30T04:42:28.698Z"
+generated_at: "2026-03-30T04:45:39.119Z"
 status: "active"
 ---
 

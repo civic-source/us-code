@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-30T04:42:32.509Z"
+generated_at: "2026-03-30T04:45:43.233Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** Subject to the provisions of this section, the Secretary concerned may permit an individual described in subsection (b) who is entitled to educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual’s entitlement to such assistance, subject to the limitation under subsection (d).
   - **(2)** The purpose of the authority in paragraph (1) is to promote recruitment and retention in the uniformed services. The Secretary concerned may exercise the authority for that purpose when authorized by the Secretary of Defense in the national security interests of the United States.
 - **(b)** An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual’s request to transfer entitlement to educational assistance under this section, has completed at least—
-  - **(1)** six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
+  - **(1)** six years of service in the Armed Forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
   - **(2)** the years of service as determined in regulations pursuant to subsection (j).
 - **(c)** An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement as follows:
   - **(1)** To the individual’s spouse.
@@ -27,18 +27,18 @@ status: "active"
   - **(2)** designate the number of months of such entitlement to be transferred to each such dependent; and
   - **(3)** specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
 - **(f)**
-  - **(1)** Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the armed forces when the transfer is executed.
+  - **(1)** Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
   - **(2)**
     - **(A)** An individual transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred.
     - **(B)** The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
   - **(3)** Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 - **(g)** A dependent to whom entitlement to educational assistance is transferred under this section may not commence the use of the transferred entitlement until—
   - **(1)** in the case of entitlement transferred to a spouse, the completion by the individual making the transfer of at least—
-    - **(A)** six years of service in the armed forces; or
+    - **(A)** six years of service in the Armed Forces; or
     - **(B)** the years of service as determined in regulations pursuant to subsection (j); or
   - **(2)** in the case of entitlement transferred to a child, both—
     - **(A)** the completion by the individual making the transfer of at least—
-      - **(i)** ten years of service in the armed forces; or
+      - **(i)** ten years of service in the Armed Forces; or
       - **(ii)** the years of service as determined in regulations pursuant to subsection (j); and
     - **(B)** either—
       - **(i)** the completion by the child of the requirements of a secondary school diploma (or equivalency certificate); or

@@ -3,9 +3,9 @@ title: "Section 3501to3509 - Omitted"
 usc_title: 12
 usc_section: "3501to3509"
 chapter: 36
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "12 U.S.C. § 3501to3509"
-generated_at: "2026-03-30T04:41:38.043Z"
+generated_at: "2026-03-30T04:44:20.420Z"
 status: "omitted"
 ---
 

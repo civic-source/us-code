@@ -3,9 +3,9 @@ title: "Section 2078 - International Center for Middle Eastern-Western Dialogue 
 usc_title: 22
 usc_section: "2078"
 chapter: 29
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 2078"
-generated_at: "2026-03-30T04:42:13.281Z"
+generated_at: "2026-03-30T04:45:13.988Z"
 status: "active"
 ---
 

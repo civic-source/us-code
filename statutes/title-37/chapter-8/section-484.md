@@ -3,9 +3,9 @@ title: "Section 484 - Travel and transportation; dependents; household and perso
 usc_title: 37
 usc_section: "484"
 chapter: 8
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "37 U.S.C. § 484"
-generated_at: "2026-03-30T04:42:30.791Z"
+generated_at: "2026-03-30T04:45:41.684Z"
 status: "active"
 ---
 

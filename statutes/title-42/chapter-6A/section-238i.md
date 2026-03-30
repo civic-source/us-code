@@ -3,9 +3,9 @@ title: "Section 238i - Memorials and other acknowledgments for contributions to 
 usc_title: 42
 usc_section: "238i"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 238i"
-generated_at: "2026-03-30T04:42:53.174Z"
+generated_at: "2026-03-30T04:46:28.004Z"
 status: "active"
 ---
 

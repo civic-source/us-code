@@ -3,9 +3,9 @@ title: "Section 8714 - Employees’ Life Insurance Fund"
 usc_title: 5
 usc_section: "8714"
 chapter: 87
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 8714"
-generated_at: "2026-03-30T04:41:16.382Z"
+generated_at: "2026-03-30T04:43:47.058Z"
 status: "active"
 ---
 

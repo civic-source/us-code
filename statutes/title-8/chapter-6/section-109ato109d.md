@@ -3,9 +3,9 @@ title: "Section 109ato109d - Transferred"
 usc_title: 8
 usc_section: "109ato109d"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "8 U.S.C. § 109ato109d"
-generated_at: "2026-03-30T04:41:29.093Z"
+generated_at: "2026-03-30T04:44:14.141Z"
 status: "transferred"
 ---
 

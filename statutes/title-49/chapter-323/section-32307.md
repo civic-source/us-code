@@ -3,9 +3,9 @@ title: "Section 32307 - Investigative powers"
 usc_title: 49
 usc_section: "32307"
 chapter: 323
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 32307"
-generated_at: "2026-03-30T04:43:05.038Z"
+generated_at: "2026-03-30T04:46:38.513Z"
 status: "active"
 ---
 

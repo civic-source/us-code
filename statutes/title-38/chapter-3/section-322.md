@@ -3,9 +3,9 @@ title: "Section 322 - Office of National Veterans Sports Programs and Special Ev
 usc_title: 38
 usc_section: "322"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 322"
-generated_at: "2026-03-30T04:42:32.485Z"
+generated_at: "2026-03-30T04:45:43.206Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(1)** Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
   - **(2)** The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
   - **(3)** In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
-  - **(4)** There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2015.
+  - **(4)** There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2016.
 - **(e)** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
   - **(1)** American Samoa.
   - **(2)** Guam.

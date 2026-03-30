@@ -3,9 +3,9 @@ title: "Section 8022 - Financial management"
 usc_title: 10
 usc_section: "8022"
 chapter: 803
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 8022"
-generated_at: "2026-03-30T04:41:26.990Z"
+generated_at: "2026-03-30T04:43:57.260Z"
 status: "active"
 ---
 

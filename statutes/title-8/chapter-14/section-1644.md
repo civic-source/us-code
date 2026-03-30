@@ -3,9 +3,9 @@ title: "Section 1644 - Communication between State and local government agencies
 usc_title: 8
 usc_section: "1644"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "8 U.S.C. § 1644"
-generated_at: "2026-03-30T04:41:29.129Z"
+generated_at: "2026-03-30T04:44:14.177Z"
 status: "active"
 ---
 

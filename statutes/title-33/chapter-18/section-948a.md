@@ -3,9 +3,9 @@ title: "Section 948a - Discrimination against employees who bring proceedings; p
 usc_title: 33
 usc_section: "948a"
 chapter: 18
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "33 U.S.C. § 948a"
-generated_at: "2026-03-30T04:42:28.677Z"
+generated_at: "2026-03-30T04:45:39.095Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4511to4524 - Repealed. Pub. L. 98–181, title I [title IV, § 4
 usc_title: 42
 usc_section: "4511to4524"
 chapter: 59
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 4511to4524"
-generated_at: "2026-03-30T04:42:53.573Z"
+generated_at: "2026-03-30T04:46:28.416Z"
 status: "repealed"
 ---
 

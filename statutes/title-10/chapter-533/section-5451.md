@@ -3,9 +3,9 @@ title: "Section 5451 - Suspension: preceding sections"
 usc_title: 10
 usc_section: "5451"
 chapter: 533
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 5451"
-generated_at: "2026-03-30T04:41:26.978Z"
+generated_at: "2026-03-30T04:43:57.249Z"
 status: "active"
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: "Section 16 - Advisory Board on toxic substances and worker health"
+title: "Section 16 - Advisory Board on Toxic Substances and Worker Health"
 usc_title: 42
 usc_section: "16"
 chapter: 84
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T04:42:53.650Z"
+generated_at: "2026-03-30T04:46:28.494Z"
 status: "active"
 ---
 
-# § 7385s–16. Advisory Board on toxic substances and worker health
+# § 7385s–16. Advisory Board on Toxic Substances and Worker Health
 
 - **(a)**
   - **(1)** Not later than 120 days after December 19, 2014 , the President shall establish and appoint an Advisory Board on Toxic Substances and Worker Health (in this section referred to as the “Board”).

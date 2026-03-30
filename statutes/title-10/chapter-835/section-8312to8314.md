@@ -3,9 +3,9 @@ title: "Section 8312to8314 - Repealed. Pub. L. 96–513, title II, § 204 , Dec.
 usc_title: 10
 usc_section: "8312to8314"
 chapter: 835
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 8312to8314"
-generated_at: "2026-03-30T04:41:26.991Z"
+generated_at: "2026-03-30T04:43:57.261Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 602 - Eligible States; State plan"
 usc_title: 42
 usc_section: "602"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 602"
-generated_at: "2026-03-30T04:42:53.309Z"
+generated_at: "2026-03-30T04:46:28.144Z"
 status: "active"
 ---
 

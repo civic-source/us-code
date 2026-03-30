@@ -3,9 +3,9 @@ title: "Section 715b - Economic development"
 usc_title: 25
 usc_section: "715b"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 715b"
-generated_at: "2026-03-30T04:42:07.670Z"
+generated_at: "2026-03-30T04:45:21.248Z"
 status: "active"
 ---
 

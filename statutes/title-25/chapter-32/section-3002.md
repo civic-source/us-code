@@ -3,9 +3,9 @@ title: "Section 3002 - Ownership"
 usc_title: 25
 usc_section: "3002"
 chapter: 32
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 3002"
-generated_at: "2026-03-30T04:42:07.719Z"
+generated_at: "2026-03-30T04:45:21.296Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T04:42:32.509Z"
+generated_at: "2026-03-30T04:45:43.230Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** An amount equal to the following:
       - **(i)** In the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
-        - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a )) 1 1 So in original. Probably should be “( 20 U.S.C. 1070a(b) ))”. that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
+        - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a(b) )) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
       - **(ii)** In the case of a program of education pursued at a non-public or foreign institution of higher learning, the lesser of—
         - **(I)** the actual net cost for tuition and fees assessed by the institution for the program of education after the application of—
         - **(II)** the amount equal to—
@@ -49,11 +49,11 @@ status: "active"
     - **(A)** Subject to subparagraph (C), an amount equal to the lesser of—
       - **(i)** in the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
-        - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a )) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees;
+        - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a(b) )) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees;
       - **(ii)** in the case of a program of education pursued at a non-public or foreign institution of higher learning, the lesser of—
         - **(I)** the actual net cost for tuition and fees assessed by the institution for the program of education after the application of—
         - **(II)** the amount equal to—
-      - **(iii)** the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1).. 2 2 So in original.
+      - **(iii)** the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1).
     - **(B)** Subject to subparagraph (C), for the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
       - **(i)** $1,000, multiplied by
       - **(ii)** the fraction of a complete academic year under the program of education that such quarter, semester, or term constitutes.
@@ -66,7 +66,7 @@ status: "active"
     - **(A)** The amount equal to the lesser of—
       - **(i)** the actual net cost for in-State tuition and fees assessed by the institution of higher learning for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
-        - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a )) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+        - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a(b) )) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
       - **(ii)** the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (7) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
     - **(B)** A stipend in an amount equal to the amount of the appropriately reduced amount of the lump sum amount for books, supplies, equipment, and other educational costs otherwise payable to the individual under subsection (c).
   - **(3)** Payment of the amounts payable to an individual under paragraph (2) for pursuit of a program of education on half-time basis or less shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
@@ -84,7 +84,7 @@ status: "active"
       - **(ii)** Except in the case of an individual pursuing a program of education on a half-time or less basis and subject to clause (iv), a monthly housing stipend equal to the product—
         - **(I)** of—
         - **(II)** the lesser of—
-      - **(iii)** Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books 3 3 So in original. Probably should be followed by a comma. supplies, equipment, and other educational costs.
+      - **(iii)** Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
       - **(iv)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
     - **(B)** In the case of an individual pursuing a full-time program of apprenticeship or other on-job training, amounts as follows:
       - **(i)** Subject to clauses (iii) and (iv), for each month the individual pursues the program of education, a monthly housing stipend equal to—
@@ -93,7 +93,7 @@ status: "active"
         - **(III)** during the third six-month period of the program, 60 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I);
         - **(IV)** during the fourth six-month period of such program, 40 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I); and
         - **(V)** during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
-      - **(ii)** Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 3 supplies, equipment, and other educational costs.
+      - **(ii)** Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 1 1 So in original. Probably should be followed by a comma. supplies, equipment, and other educational costs.
       - **(iii)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
       - **(iv)** In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
     - **(C)** In the case of an individual enrolled in a program of education consisting of flight training (regardless of the institution providing such program of education), an amount equal to—

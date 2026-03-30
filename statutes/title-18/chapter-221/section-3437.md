@@ -3,9 +3,9 @@ title: "Section 3437 - Severance—(Rule)"
 usc_title: 18
 usc_section: "3437"
 chapter: 221
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "18 U.S.C. § 3437"
-generated_at: "2026-03-30T04:41:43.236Z"
+generated_at: "2026-03-30T04:44:42.332Z"
 status: "active"
 ---
 

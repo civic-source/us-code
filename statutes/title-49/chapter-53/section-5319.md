@@ -3,9 +3,9 @@ title: "Section 5319 - Bicycle facilities"
 usc_title: 49
 usc_section: "5319"
 chapter: 53
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 5319"
-generated_at: "2026-03-30T04:43:05.005Z"
+generated_at: "2026-03-30T04:46:38.479Z"
 status: "active"
 ---
 

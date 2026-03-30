@@ -3,9 +3,9 @@ title: "Section 690a - Purposes"
 usc_title: 15
 usc_section: "690a"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "15 U.S.C. § 690a"
-generated_at: "2026-03-30T04:41:39.912Z"
+generated_at: "2026-03-30T04:44:22.396Z"
 status: "active"
 ---
 

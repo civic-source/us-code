@@ -3,9 +3,9 @@ title: "Section 2196 - Manufacturing engineering education: grant program"
 usc_title: 10
 usc_section: "2196"
 chapter: 111
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 2196"
-generated_at: "2026-03-30T04:41:26.932Z"
+generated_at: "2026-03-30T04:43:57.203Z"
 status: "active"
 ---
 

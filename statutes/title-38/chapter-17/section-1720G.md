@@ -3,9 +3,9 @@ title: "Section 1720G - Assistance and support services for caregivers"
 usc_title: 38
 usc_section: "1720G"
 chapter: 17
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 1720G"
-generated_at: "2026-03-30T04:42:32.493Z"
+generated_at: "2026-03-30T04:45:43.214Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
     - **(B)** A primary provider of personal care services designated for an eligible veteran under subparagraph (A) shall be selected from among family members of the eligible veteran who—
       - **(i)** are approved under paragraph (6) as a provider of personal care services for the eligible veteran;
       - **(ii)** elect to provide the personal care services to the eligible veteran that the Secretary determines the eligible veteran requires under paragraph (5)(A)(i);
-      - **(iii)** has 1 1 So in original. Probably should be “have”. the consent of the eligible veteran to be the primary provider of personal care services for the eligible veteran; and
+      - **(iii)** have the consent of the eligible veteran to be the primary provider of personal care services for the eligible veteran; and
       - **(iv)** are considered by the Secretary as competent to be the primary provider of personal care services for the eligible veteran.
     - **(C)** An eligible veteran receiving personal care services from a family member designated as the primary provider of personal care services for the eligible veteran under subparagraph (A) may, in accordance with procedures the Secretary shall establish for such purposes, revoke consent with respect to such family member under subparagraph (B)(iii).
     - **(D)** If a family member designated as the primary provider of personal care services for an eligible veteran under subparagraph (A) subsequently fails to meet any requirement set forth in subparagraph (B), the Secretary—
@@ -113,5 +113,6 @@ status: "active"
     - **(A)** Assistance with one or more independent activities of daily living.
     - **(B)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title ).
 - **(e)** There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
-  - **(1)** $60,000,000 for fiscal year 2010; and
-  - **(2)** $1,542,000,000 for the period of fiscal years 2011 through 2015.
+  - **(1)** $60,000,000 for fiscal year 2010;
+  - **(2)** $1,542,000,000 for the period of fiscal years 2011 through 2015; and
+  - **(3)** $625,000,000 for fiscal year 2016.

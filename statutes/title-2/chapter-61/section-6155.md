@@ -3,9 +3,9 @@ title: "Section 6155 - Payment of expenses of Conference of Majority and Confere
 usc_title: 2
 usc_section: "6155"
 chapter: 61
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "2 U.S.C. § 6155"
-generated_at: "2026-03-30T04:40:57.515Z"
+generated_at: "2026-03-30T04:43:48.569Z"
 status: "active"
 ---
 

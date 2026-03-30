@@ -3,9 +3,9 @@ title: "Section 1647a - Nondiscrimination under Federal health care programs in 
 usc_title: 25
 usc_section: "1647a"
 chapter: 18
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 1647a"
-generated_at: "2026-03-30T04:42:07.692Z"
+generated_at: "2026-03-30T04:45:21.269Z"
 status: "active"
 ---
 

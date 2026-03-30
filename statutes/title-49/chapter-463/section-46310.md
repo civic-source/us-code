@@ -3,9 +3,9 @@ title: "Section 46310 - Reporting and recordkeeping violations"
 usc_title: 49
 usc_section: "46310"
 chapter: 463
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 46310"
-generated_at: "2026-03-30T04:43:05.061Z"
+generated_at: "2026-03-30T04:46:38.536Z"
 status: "active"
 ---
 

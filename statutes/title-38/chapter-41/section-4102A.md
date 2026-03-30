@@ -3,9 +3,9 @@ title: "Section 4102A - Assistant Secretary of Labor for Veterans’ Employment 
 usc_title: 38
 usc_section: "4102A"
 chapter: 41
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 4102A"
-generated_at: "2026-03-30T04:42:32.518Z"
+generated_at: "2026-03-30T04:45:43.243Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
       - **(ii)** to disclose to the Secretary in writing the following:
         - **(I)** Criteria applicants must satisfy to receive a certification or license described in subparagraph (B) by the State.
         - **(II)** A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
-        - **(III)** Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” 2 2 So in original. The quotation marks probably should not appear.
+        - **(III)** Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).
     - **(B)** A certification or license described in this subparagraph is any of the following:
       - **(i)** A license to be a nonemergency medical professional.
       - **(ii)** A license to be an emergency medical professional.

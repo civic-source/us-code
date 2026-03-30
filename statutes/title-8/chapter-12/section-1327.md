@@ -3,9 +3,9 @@ title: "Section 1327 - Aiding or assisting certain aliens to enter"
 usc_title: 8
 usc_section: "1327"
 chapter: 12
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "8 U.S.C. § 1327"
-generated_at: "2026-03-30T04:41:29.117Z"
+generated_at: "2026-03-30T04:44:14.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50304 - Powers"
 usc_title: 36
 usc_section: "50304"
 chapter: 503
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "36 U.S.C. § 50304"
-generated_at: "2026-03-30T04:42:31.360Z"
+generated_at: "2026-03-30T04:45:41.335Z"
 status: "active"
 ---
 

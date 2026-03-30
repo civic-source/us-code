@@ -3,9 +3,9 @@ title: "Section 7279a - Uses of funds"
 usc_title: 20
 usc_section: "7279a"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 7279a"
-generated_at: "2026-03-30T04:42:01.070Z"
+generated_at: "2026-03-30T04:44:44.796Z"
 status: "active"
 ---
 

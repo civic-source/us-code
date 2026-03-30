@@ -3,9 +3,9 @@ title: "Section 466 - Sense of Congress reaffirming the continued importance and
 usc_title: 6
 usc_section: "466"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "6 U.S.C. § 466"
-generated_at: "2026-03-30T04:41:19.362Z"
+generated_at: "2026-03-30T04:43:50.730Z"
 status: "active"
 ---
 

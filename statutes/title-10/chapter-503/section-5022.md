@@ -3,9 +3,9 @@ title: "Section 5022 - Office of Naval Research: duties"
 usc_title: 10
 usc_section: "5022"
 chapter: 503
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 5022"
-generated_at: "2026-03-30T04:41:26.976Z"
+generated_at: "2026-03-30T04:43:57.248Z"
 status: "active"
 ---
 

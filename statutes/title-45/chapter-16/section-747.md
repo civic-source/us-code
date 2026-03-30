@@ -3,9 +3,9 @@ title: "Section 747 - Protection of Federal funds"
 usc_title: 45
 usc_section: "747"
 chapter: 16
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "45 U.S.C. § 747"
-generated_at: "2026-03-30T04:42:36.287Z"
+generated_at: "2026-03-30T04:45:53.747Z"
 status: "active"
 ---
 

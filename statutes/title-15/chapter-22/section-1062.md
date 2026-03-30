@@ -3,9 +3,9 @@ title: "Section 1062 - Publication"
 usc_title: 15
 usc_section: "1062"
 chapter: 22
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "15 U.S.C. § 1062"
-generated_at: "2026-03-30T04:41:39.925Z"
+generated_at: "2026-03-30T04:44:22.408Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8103 - Authority to construct and alter, and to acquire sites fo
 usc_title: 38
 usc_section: "8103"
 chapter: 81
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "38 U.S.C. § 8103"
-generated_at: "2026-03-30T04:42:32.537Z"
+generated_at: "2026-03-30T04:45:43.265Z"
 status: "active"
 ---
 
@@ -38,3 +38,7 @@ status: "active"
   - **(6)** The authority to enter into an agreement under this subsection—
     - **(A)** shall not take effect until the Secretary has entered into agreements under section 316 of this title to carry out at least three collocations; and
     - **(B)** shall expire on October 1, 1993 .
+- **(e)**
+  - **(1)** In the case of any super construction project, the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes.
+  - **(2)** An agreement entered into under paragraph (1) with a Federal entity shall provide that the Secretary shall reimburse the Federal entity for all costs associated with the provision of project management services under the agreement.
+  - **(3)** In this subsection, the term “super construction project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.

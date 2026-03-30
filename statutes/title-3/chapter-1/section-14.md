@@ -3,9 +3,9 @@ title: "Section 14 - Forfeiture for messenger’s neglect of duty"
 usc_title: 3
 usc_section: "14"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "3 U.S.C. § 14"
-generated_at: "2026-03-30T04:41:02.196Z"
+generated_at: "2026-03-30T04:43:48.658Z"
 status: "active"
 ---
 

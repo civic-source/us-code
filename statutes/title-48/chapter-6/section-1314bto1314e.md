@@ -3,9 +3,9 @@ title: "Section 1314bto1314e - Repealed. Aug. 10, 1949, ch. 415, § 9(d) , 63 St
 usc_title: 48
 usc_section: "1314bto1314e"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "48 U.S.C. § 1314bto1314e"
-generated_at: "2026-03-30T04:42:56.386Z"
+generated_at: "2026-03-30T04:46:41.666Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1446fto1446h - Repealed. Pub. L. 104–127, title I, § 171(b)(2
 usc_title: 7
 usc_section: "1446fto1446h"
 chapter: 35
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "7 U.S.C. § 1446fto1446h"
-generated_at: "2026-03-30T04:41:32.558Z"
+generated_at: "2026-03-30T04:43:59.243Z"
 status: "repealed"
 ---
 

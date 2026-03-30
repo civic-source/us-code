@@ -3,19 +3,19 @@ title: "Section 2323 - Transfer of defense articles or services"
 usc_title: 22
 usc_section: "2323"
 chapter: 32
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 2323"
-generated_at: "2026-03-30T04:42:13.296Z"
+generated_at: "2026-03-30T04:45:14.001Z"
 status: "active"
 ---
 
 # § 2323. Transfer of defense articles or services
 
-- **(a)**
-- **(b)**
-- **(c)**
+- **(a)** Notwithstanding any other provision of law, none of the funds available to the Department of Defense for the current fiscal year and hereafter may be obligated or expended to transfer to another nation or an international organization any defense articles or services (other than intelligence services) for use in the activities described in subsection (b) unless the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate are notified 15 days in advance of such transfer.
+- **(b)** This section applies to—
   - **(1)** any international peacekeeping or peace-enforcement operation under the authority of chapter VI or chapter VII of the United Nations Charter under the authority of a United Nations Security Council resolution; and
   - **(2)** any other international peacekeeping, peace-enforcement, or humanitarian assistance operation.
+- **(c)** A notice under subsection (a) shall include the following:
   - **(1)** A description of the equipment, supplies, or services to be transferred.
   - **(2)** A statement of the value of the equipment, supplies, or services to be transferred.
   - **(3)** In the case of a proposed transfer of equipment or supplies—

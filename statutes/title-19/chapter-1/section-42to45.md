@@ -3,9 +3,9 @@ title: "Section 42to45 - Repealed. Aug. 8, 1953, ch. 397, § 2(a) , 67 Stat. 507
 usc_title: 19
 usc_section: "42to45"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "19 U.S.C. § 42to45"
-generated_at: "2026-03-30T04:41:44.183Z"
+generated_at: "2026-03-30T04:45:08.604Z"
 status: "repealed"
 ---
 

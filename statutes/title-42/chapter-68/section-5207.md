@@ -3,9 +3,9 @@ title: "Section 5207 - Firearms policies"
 usc_title: 42
 usc_section: "5207"
 chapter: 68
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 5207"
-generated_at: "2026-03-30T04:42:53.591Z"
+generated_at: "2026-03-30T04:46:28.434Z"
 status: "active"
 ---
 

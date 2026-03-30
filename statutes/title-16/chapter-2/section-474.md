@@ -3,9 +3,9 @@ title: "Section 474 - Surveys; plats and field notes; maps; effect under Act Jun
 usc_title: 16
 usc_section: "474"
 chapter: 2
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 474"
-generated_at: "2026-03-30T04:41:59.194Z"
+generated_at: "2026-03-30T04:45:04.781Z"
 status: "active"
 ---
 

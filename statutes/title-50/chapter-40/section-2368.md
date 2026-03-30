@@ -3,9 +3,9 @@ title: "Section 2368 - Annual reports on the proliferation of missiles and essen
 usc_title: 50
 usc_section: "2368"
 chapter: 40
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "50 U.S.C. § 2368"
-generated_at: "2026-03-30T04:43:16.932Z"
+generated_at: "2026-03-30T04:46:33.145Z"
 status: "active"
 ---
 

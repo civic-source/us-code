@@ -3,9 +3,9 @@ title: "Section 701to724a - Repealed. June 27, 1952, ch. 477 , title IV, § 403(
 usc_title: 8
 usc_section: "701to724a"
 chapter: 11
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "8 U.S.C. § 701to724a"
-generated_at: "2026-03-30T04:41:29.094Z"
+generated_at: "2026-03-30T04:44:14.141Z"
 status: "repealed"
 ---
 

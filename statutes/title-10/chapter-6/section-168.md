@@ -3,9 +3,9 @@ title: "Section 168 - Military-to-military contacts and comparable activities"
 usc_title: 10
 usc_section: "168"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 168"
-generated_at: "2026-03-30T04:41:26.874Z"
+generated_at: "2026-03-30T04:43:57.147Z"
 status: "active"
 ---
 

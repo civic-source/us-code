@@ -3,9 +3,9 @@ title: "Section 2 - Corporate powers and obligations"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T04:41:59.211Z"
+generated_at: "2026-03-30T04:45:04.797Z"
 status: "active"
 ---
 
@@ -15,8 +15,8 @@ status: "active"
   - **(1)** shall have perpetual succession;
   - **(2)** may conduct business throughout the several States, territories, and possessions of the United States and in foreign countries;
   - **(3)** shall have its principal offices in the Washington, D.C. metropolitan area; and
-  - **(4)** shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
-- **(b)** The serving of notice to, or service of process upon, the agent required under this paragraph, 1 1 So in original. Probably should be “this section,”. or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+  - **(4)** shall at all times maintain a designated agent in the District of Columbia authorized to accept notice or service of process for the Foundation.
+- **(b)** The serving of notice to, or service of process upon, the agent required by subsection (a)(4) or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 - **(c)** The Foundation shall have an official seal selected by the Board which shall be judicially noticed.
 - **(d)** To carry out its purposes, the Foundation shall have, in addition to powers otherwise authorized under this subchapter, the usual powers of a corporation in the District of Columbia, including the power to—
   - **(1)** accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, or real or personal property or any income therefrom or other interest therein;

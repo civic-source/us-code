@@ -3,9 +3,9 @@ title: "Section 472 - Definitions and other incorporated provisions of chapter 7
 usc_title: 37
 usc_section: "472"
 chapter: 8
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "37 U.S.C. § 472"
-generated_at: "2026-03-30T04:42:30.788Z"
+generated_at: "2026-03-30T04:45:41.682Z"
 status: "active"
 ---
 

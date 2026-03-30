@@ -3,9 +3,9 @@ title: "Section 17k - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17k"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "16 U.S.C. § 17k"
-generated_at: "2026-03-30T04:41:59.097Z"
+generated_at: "2026-03-30T04:45:04.688Z"
 status: "repealed"
 ---
 

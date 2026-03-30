@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T04:42:53.380Z"
+generated_at: "2026-03-30T04:46:28.218Z"
 status: "active"
 ---
 

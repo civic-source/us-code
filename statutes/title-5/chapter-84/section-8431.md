@@ -3,9 +3,9 @@ title: "Section 8431 - Certain transfers to be treated as a separation"
 usc_title: 5
 usc_section: "8431"
 chapter: 84
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 8431"
-generated_at: "2026-03-30T04:41:16.377Z"
+generated_at: "2026-03-30T04:43:47.053Z"
 status: "active"
 ---
 

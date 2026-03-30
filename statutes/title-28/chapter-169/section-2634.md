@@ -3,9 +3,9 @@ title: "Section 2634 - Notice"
 usc_title: 28
 usc_section: "2634"
 chapter: 169
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "28 U.S.C. § 2634"
-generated_at: "2026-03-30T04:42:16.130Z"
+generated_at: "2026-03-30T04:45:25.809Z"
 status: "active"
 ---
 

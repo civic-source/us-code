@@ -3,9 +3,9 @@ title: "Section 1006 - Technical requirements and standards; extension of compli
 usc_title: 47
 usc_section: "1006"
 chapter: 9
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "47 U.S.C. § 1006"
-generated_at: "2026-03-30T04:42:59.434Z"
+generated_at: "2026-03-30T04:46:32.433Z"
 status: "active"
 ---
 

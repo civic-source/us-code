@@ -3,9 +3,9 @@ title: "Section 467kto467m - Repealed. Pub. L. 104–303, title II, § 215(c)(2)
 usc_title: 33
 usc_section: "467kto467m"
 chapter: 9
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "33 U.S.C. § 467kto467m"
-generated_at: "2026-03-30T04:42:28.659Z"
+generated_at: "2026-03-30T04:45:39.076Z"
 status: "repealed"
 ---
 

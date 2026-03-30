@@ -3,9 +3,9 @@ title: "Section 31110 - Subpoenas to officers or members of crew"
 usc_title: 46
 usc_section: "31110"
 chapter: 311
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "46 U.S.C. § 31110"
-generated_at: "2026-03-30T04:43:12.954Z"
+generated_at: "2026-03-30T04:46:39.856Z"
 status: "active"
 ---
 

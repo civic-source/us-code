@@ -3,9 +3,9 @@ title: "Section 1306 - Property of the estate"
 usc_title: 11
 usc_section: "1306"
 chapter: 13
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "11 U.S.C. § 1306"
-generated_at: "2026-03-30T04:41:35.449Z"
+generated_at: "2026-03-30T04:44:37.778Z"
 status: "active"
 ---
 

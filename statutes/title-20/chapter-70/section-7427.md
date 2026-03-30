@@ -3,9 +3,9 @@ title: "Section 7427 - Student eligibility forms"
 usc_title: 20
 usc_section: "7427"
 chapter: 70
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 7427"
-generated_at: "2026-03-30T04:42:01.073Z"
+generated_at: "2026-03-30T04:44:44.799Z"
 status: "active"
 ---
 

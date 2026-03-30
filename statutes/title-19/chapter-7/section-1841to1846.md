@@ -3,9 +3,9 @@ title: "Section 1841to1846 - Repealed. Pub. L. 93–618, title VI, § 602(d) , J
 usc_title: 19
 usc_section: "1841to1846"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "19 U.S.C. § 1841to1846"
-generated_at: "2026-03-30T04:41:44.210Z"
+generated_at: "2026-03-30T04:45:08.632Z"
 status: "repealed"
 ---
 

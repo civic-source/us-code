@@ -3,9 +3,9 @@ title: "Section 615 - Support for universal emergency telephone number"
 usc_title: 47
 usc_section: "615"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "47 U.S.C. § 615"
-generated_at: "2026-03-30T04:42:59.429Z"
+generated_at: "2026-03-30T04:46:32.427Z"
 status: "active"
 ---
 

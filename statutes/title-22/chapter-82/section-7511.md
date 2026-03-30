@@ -3,9 +3,9 @@ title: "Section 7511 - Declaration of policy"
 usc_title: 22
 usc_section: "7511"
 chapter: 82
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 7511"
-generated_at: "2026-03-30T04:42:13.364Z"
+generated_at: "2026-03-30T04:45:14.064Z"
 status: "active"
 ---
 

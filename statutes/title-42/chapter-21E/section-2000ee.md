@@ -3,9 +3,9 @@ title: "Section 2000ee - Privacy and Civil Liberties Oversight Board"
 usc_title: 42
 usc_section: "2000ee"
 chapter: 21
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 2000ee"
-generated_at: "2026-03-30T04:42:53.508Z"
+generated_at: "2026-03-30T04:46:28.350Z"
 status: "active"
 ---
 

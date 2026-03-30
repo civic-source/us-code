@@ -3,9 +3,9 @@ title: "Section 59bb - Declaration of nonnavigability for portions of Lake Erie"
 usc_title: 33
 usc_section: "59bb"
 chapter: 1
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "33 U.S.C. § 59bb"
-generated_at: "2026-03-30T04:42:28.653Z"
+generated_at: "2026-03-30T04:45:39.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 251to256 - Repealed. Pub. L. 90–628, § 1(a) , Oct. 22, 1968 ,
 usc_title: 15
 usc_section: "251to256"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "15 U.S.C. § 251to256"
-generated_at: "2026-03-30T04:41:39.885Z"
+generated_at: "2026-03-30T04:44:22.367Z"
 status: "repealed"
 ---
 

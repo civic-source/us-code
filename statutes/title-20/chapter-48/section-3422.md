@@ -3,9 +3,9 @@ title: "Section 3422 - Office of Inspector General"
 usc_title: 20
 usc_section: "3422"
 chapter: 48
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "20 U.S.C. § 3422"
-generated_at: "2026-03-30T04:42:01.029Z"
+generated_at: "2026-03-30T04:44:44.754Z"
 status: "active"
 ---
 

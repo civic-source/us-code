@@ -3,9 +3,9 @@ title: "Section 249to251 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 86
 usc_title: 2
 usc_section: "249to251"
 chapter: 8
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "2 U.S.C. § 249to251"
-generated_at: "2026-03-30T04:40:57.480Z"
+generated_at: "2026-03-30T04:43:48.533Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14165a - Blue Alert communications network"
 usc_title: 42
 usc_section: "14165a"
 chapter: 136
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 14165a"
-generated_at: "2026-03-30T04:42:53.800Z"
+generated_at: "2026-03-30T04:46:28.638Z"
 status: "active"
 ---
 

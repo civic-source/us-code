@@ -3,9 +3,9 @@ title: "Section 508 - Effect of distribution other than under this title"
 usc_title: 11
 usc_section: "508"
 chapter: 5
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "11 U.S.C. § 508"
-generated_at: "2026-03-30T04:41:35.439Z"
+generated_at: "2026-03-30T04:44:37.768Z"
 status: "active"
 ---
 

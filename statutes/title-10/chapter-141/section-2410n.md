@@ -3,9 +3,9 @@ title: "Section 2410n - Products of Federal Prison Industries: procedural requir
 usc_title: 10
 usc_section: "2410n"
 chapter: 141
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 2410n"
-generated_at: "2026-03-30T04:41:26.947Z"
+generated_at: "2026-03-30T04:43:57.219Z"
 status: "active"
 ---
 

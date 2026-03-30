@@ -3,9 +3,9 @@ title: "Section 6838to6840 - Repealed. Pub. L. 102–486, title I, § 101(a)(2) 
 usc_title: 42
 usc_section: "6838to6840"
 chapter: 81
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 6838to6840"
-generated_at: "2026-03-30T04:42:53.628Z"
+generated_at: "2026-03-30T04:46:28.472Z"
 status: "repealed"
 ---
 

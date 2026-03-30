@@ -3,9 +3,9 @@ title: "Section 941h - Administrative provisions relating to jurisdiction, taxat
 usc_title: 25
 usc_section: "941h"
 chapter: 14
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 941h"
-generated_at: "2026-03-30T04:42:07.675Z"
+generated_at: "2026-03-30T04:45:21.252Z"
 status: "active"
 ---
 

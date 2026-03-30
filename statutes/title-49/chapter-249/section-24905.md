@@ -3,9 +3,9 @@ title: "Section 24905 - Northeast Corridor Infrastructure and Operations Advisor
 usc_title: 49
 usc_section: "24905"
 chapter: 249
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "49 U.S.C. § 24905"
-generated_at: "2026-03-30T04:43:05.027Z"
+generated_at: "2026-03-30T04:46:38.501Z"
 status: "active"
 ---
 

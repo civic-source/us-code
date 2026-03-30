@@ -3,9 +3,9 @@ title: "Section 3357to3390 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "3357to3390"
 chapter: 337
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 3357to3390"
-generated_at: "2026-03-30T04:41:26.970Z"
+generated_at: "2026-03-30T04:43:57.241Z"
 status: "repealed"
 ---
 

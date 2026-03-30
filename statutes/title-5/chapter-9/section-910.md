@@ -3,9 +3,9 @@ title: "Section 910 - Introduction and reference of resolution"
 usc_title: 5
 usc_section: "910"
 chapter: 9
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 910"
-generated_at: "2026-03-30T04:41:16.333Z"
+generated_at: "2026-03-30T04:43:47.014Z"
 status: "active"
 ---
 

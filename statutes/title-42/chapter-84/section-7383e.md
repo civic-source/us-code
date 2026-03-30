@@ -3,9 +3,9 @@ title: "Section 7383e - Annual report by the President on espionage by the Peopl
 usc_title: 42
 usc_section: "7383e"
 chapter: 84
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 7383e"
-generated_at: "2026-03-30T04:42:53.648Z"
+generated_at: "2026-03-30T04:46:28.492Z"
 status: "active"
 ---
 

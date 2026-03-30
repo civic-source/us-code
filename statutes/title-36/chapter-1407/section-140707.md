@@ -3,9 +3,9 @@ title: "Section 140707 - Restrictions"
 usc_title: 36
 usc_section: "140707"
 chapter: 1407
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "36 U.S.C. § 140707"
-generated_at: "2026-03-30T04:42:31.364Z"
+generated_at: "2026-03-30T04:45:41.339Z"
 status: "active"
 ---
 

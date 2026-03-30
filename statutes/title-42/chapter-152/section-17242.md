@@ -3,9 +3,9 @@ title: "Section 17242 - Commercial insulation demonstration program"
 usc_title: 42
 usc_section: "17242"
 chapter: 152
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 17242"
-generated_at: "2026-03-30T04:42:53.840Z"
+generated_at: "2026-03-30T04:46:28.676Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5231 - Entry for deposit"
 usc_title: 26
 usc_section: "5231"
 chapter: 51
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "26 U.S.C. § 5231"
-generated_at: "2026-03-30T04:42:24.167Z"
+generated_at: "2026-03-30T04:45:33.255Z"
 status: "active"
 ---
 

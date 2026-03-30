@@ -3,9 +3,9 @@ title: "Section 9858c - Application and plan"
 usc_title: 42
 usc_section: "9858c"
 chapter: 105
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 9858c"
-generated_at: "2026-03-30T04:42:53.717Z"
+generated_at: "2026-03-30T04:46:28.557Z"
 status: "active"
 ---
 
@@ -106,7 +106,7 @@ status: "active"
     - **(T)**
       - **(i)** The plan shall include an assurance that the State will maintain or implement early learning and developmental guidelines (or develop such guidelines if the State does not have such guidelines as of November 19, 2014 ) that are appropriate for children from birth to kindergarten entry, describing what such children should know and be able to do, and covering the essential domains of early childhood development for use statewide by child care providers. Such guidelines shall—
         - **(I)** be research-based, developmentally appropriate, and aligned with entry to kindergarten;
-        - **(II)** be implemented in consultation with the state educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i) 5 5 So in original. Probably should be “642B(b)(1)(A)(i)”. of the Head Start Act ( 42 U.S.C. 9837b(b)(1)(A)(i) ); and
+        - **(II)** be implemented in consultation with the state 5 5 So in original. Probably should be capitalized. educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i) 6 6 So in original. Probably should be “642B(b)(1)(A)(i)”. of the Head Start Act ( 42 U.S.C. 9837b(b)(1)(A)(i) ); 7 7 So in original. Another closing parenthesis probably should precede the semicolon. and
         - **(III)** be updated as determined by the State.
       - **(ii)** The plan shall include an assurance that funds received by the State to carry out this subchapter will not be used to develop or implement an assessment for children that—
         - **(I)** will be the sole basis for a child care provider being determined to be ineligible to participate in the program carried out under this subchapter;
@@ -143,7 +143,7 @@ status: "active"
         - **(I)** A State may use amounts described in clause (i) to establish or support a system of local or regional child care resource and referral organizations that is coordinated, to the extent determined appropriate by the State, by a statewide public or private nonprofit, community-based or regionally based, lead child care resource and referral organization.
         - **(II)** The local or regional child care resource and referral organizations supported as described in subclause (I) shall—
     - **(C)** Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
-    - **(D)** A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act [ 42 U.S.C. 618(b)(2) ] with respect to each of the fiscal years 2015 through 2020 6 6 So in original. A closing parenthesis probably should appear. to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
+    - **(D)** A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act [ 42 U.S.C. 618(b)(2) ] with respect to each of the fiscal years 2015 through 2020 8 8 So in original. A closing parenthesis probably should appear. to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
     - **(E)** From amounts provided to a State for a fiscal year to carry out this subchapter, the State shall—
       - **(i)** reserve the minimum amount required to be reserved under section 9858e of this title , and the funds for costs described in subparagraph (C); and
       - **(ii)** from the remainder, use not less than 70 percent to fund direct services (provided by the State) in accordance with paragraph (2)(A).
@@ -155,7 +155,7 @@ status: "active"
       - **(iii)** describe how the State will set payment rates for child care services, for which assistance is provided in accordance with this subchapter—
         - **(I)** in accordance with the results of the market rates survey or alternative methodology conducted pursuant to clause (i);
         - **(II)** taking into consideration the cost of providing higher quality child care services than were provided under this subchapter before November 19, 2014 ; and
-        - **(III)** without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on Novebmer 19, 2014; and
+        - **(III)** without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on November 19, 2014 ; and
       - **(iv)** describe how the State will provide for timely payment for child care services provided under this subchapter.
     - **(C)**
       - **(i)** Nothing in this paragraph shall be construed to create a private right of action if the State acted in accordance with this paragraph.

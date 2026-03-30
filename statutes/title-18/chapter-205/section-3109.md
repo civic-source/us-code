@@ -3,9 +3,9 @@ title: "Section 3109 - Breaking doors or windows for entry or exit"
 usc_title: 18
 usc_section: "3109"
 chapter: 205
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "18 U.S.C. § 3109"
-generated_at: "2026-03-30T04:41:43.232Z"
+generated_at: "2026-03-30T04:44:42.328Z"
 status: "active"
 ---
 

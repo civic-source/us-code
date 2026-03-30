@@ -3,9 +3,9 @@ title: "Section 13741 - Ounce of Prevention Council"
 usc_title: 42
 usc_section: "13741"
 chapter: 136
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 13741"
-generated_at: "2026-03-30T04:42:53.788Z"
+generated_at: "2026-03-30T04:46:28.626Z"
 status: "active"
 ---
 

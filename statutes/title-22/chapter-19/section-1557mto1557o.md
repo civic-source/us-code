@@ -3,9 +3,9 @@ title: "Section 1557mto1557o - Repealed. Aug. 26, 1954, ch. 937 , title V, § 54
 usc_title: 22
 usc_section: "1557mto1557o"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "22 U.S.C. § 1557mto1557o"
-generated_at: "2026-03-30T04:42:13.275Z"
+generated_at: "2026-03-30T04:45:13.982Z"
 status: "repealed"
 ---
 

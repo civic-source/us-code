@@ -3,9 +3,9 @@ title: "Section 60502 - Transitioning experimental research into operational ser
 usc_title: 51
 usc_section: "60502"
 chapter: 605
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "51 U.S.C. § 60502"
-generated_at: "2026-03-30T04:43:32.921Z"
+generated_at: "2026-03-30T04:46:43.400Z"
 status: "active"
 ---
 

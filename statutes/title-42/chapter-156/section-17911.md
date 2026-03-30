@@ -3,9 +3,9 @@ title: "Section 17911 - National Institute for Standards and Technology testing"
 usc_title: 42
 usc_section: "17911"
 chapter: 156
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 17911"
-generated_at: "2026-03-30T04:42:53.847Z"
+generated_at: "2026-03-30T04:46:28.681Z"
 status: "active"
 ---
 

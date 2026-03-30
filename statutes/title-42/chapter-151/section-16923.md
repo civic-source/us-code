@@ -3,9 +3,9 @@ title: "Section 16923 - Development and availability of registry management and 
 usc_title: 42
 usc_section: "16923"
 chapter: 151
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 16923"
-generated_at: "2026-03-30T04:42:53.833Z"
+generated_at: "2026-03-30T04:46:28.668Z"
 status: "active"
 ---
 

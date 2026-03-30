@@ -3,9 +3,9 @@ title: "Section 2347a - Determination of project completion"
 usc_title: 33
 usc_section: "2347a"
 chapter: 36
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "33 U.S.C. § 2347a"
-generated_at: "2026-03-30T04:42:28.712Z"
+generated_at: "2026-03-30T04:45:39.133Z"
 status: "active"
 ---
 

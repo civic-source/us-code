@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T04:42:53.364Z"
+generated_at: "2026-03-30T04:46:28.203Z"
 status: "active"
 ---
 
@@ -616,7 +616,7 @@ status: "active"
     - **(A)** for 2016, 5 percent; and
     - **(B)** for 2017 and subsequent years, 15 percent.
   - **(6)**
-    - **(A)** The Secretary shall require that information be provided and attested to by a supplier and a hospital outpatient department that indicates whether an applicable computed tomography service was furnished that was not consistent with the CT equipment standard (described in paragraph (4)). Such information may be included on a claim and may be a modifier. Such information shall be verified, as appropriate, as part of the periodic accreditation of suppliers under section 1395m(e) of this title and hospitals under section 1395bb(a) of this title .
+    - **(A)** The Secretary shall require that information be provided and attested to by a supplier and a hospital outpatient department that indicates whether an applicable computed tomography service was furnished that was not consistent with the CT equipment standard (described in paragraph (4)). Such information may be included on a claim and may be a modifier. Such information shall be verified, as appropriate, as part of the periodic accreditation of suppliers under subsection (e) and hospitals under section 1395bb(a) of this title .
     - **(B)** Chapter 35 of title 44 shall not apply to information described in subparagraph (A).
 - **(q)**
   - **(1)**

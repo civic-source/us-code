@@ -3,9 +3,9 @@ title: "Section 136 - Commutation of rations and other supplies; payment per cap
 usc_title: 25
 usc_section: "136"
 chapter: 4
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 136"
-generated_at: "2026-03-30T04:42:07.643Z"
+generated_at: "2026-03-30T04:45:21.222Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1498 - Patent and copyright cases"
 usc_title: 28
 usc_section: "1498"
 chapter: 91
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "28 U.S.C. § 1498"
-generated_at: "2026-03-30T04:42:16.122Z"
+generated_at: "2026-03-30T04:45:25.801Z"
 status: "active"
 ---
 

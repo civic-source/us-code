@@ -3,9 +3,9 @@ title: "Section 7724 - Stay of proceedings for taking evidence before suit is fi
 usc_title: 10
 usc_section: "7724"
 chapter: 657
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "10 U.S.C. § 7724"
-generated_at: "2026-03-30T04:41:26.989Z"
+generated_at: "2026-03-30T04:43:57.259Z"
 status: "active"
 ---
 

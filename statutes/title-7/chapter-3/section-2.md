@@ -3,9 +3,9 @@ title: "Section 2 - Reporting requirements"
 usc_title: 7
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T04:41:32.510Z"
+generated_at: "2026-03-30T04:43:59.194Z"
 status: "active"
 ---
 

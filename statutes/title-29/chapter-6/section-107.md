@@ -3,9 +3,9 @@ title: "Section 107 - Issuance of injunctions in labor disputes; hearing; findin
 usc_title: 29
 usc_section: "107"
 chapter: 6
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "29 U.S.C. § 107"
-generated_at: "2026-03-30T04:42:25.128Z"
+generated_at: "2026-03-30T04:45:24.818Z"
 status: "active"
 ---
 

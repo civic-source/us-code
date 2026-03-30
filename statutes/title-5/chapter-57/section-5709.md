@@ -3,9 +3,9 @@ title: "Section 5709 - Air evacuation patients: furnished subsistence"
 usc_title: 5
 usc_section: "5709"
 chapter: 57
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "5 U.S.C. § 5709"
-generated_at: "2026-03-30T04:41:16.356Z"
+generated_at: "2026-03-30T04:43:47.033Z"
 status: "active"
 ---
 

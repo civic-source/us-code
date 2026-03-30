@@ -3,9 +3,9 @@ title: "Section 1747 - Transfer of lands to United States"
 usc_title: 25
 usc_section: "1747"
 chapter: 19
-current_through: "PL 114-51"
+current_through: "PL 114-58"
 classification: "25 U.S.C. § 1747"
-generated_at: "2026-03-30T04:42:07.698Z"
+generated_at: "2026-03-30T04:45:21.275Z"
 status: "active"
 ---
 
