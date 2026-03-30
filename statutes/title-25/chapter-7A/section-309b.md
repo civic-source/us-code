@@ -3,9 +3,9 @@ title: "Section 309b - Vocational education funds"
 usc_title: 25
 usc_section: "309b"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 309b"
-generated_at: "2026-03-30T01:25:06.202Z"
+generated_at: "2026-03-30T01:27:56.254Z"
 ---
 
 # § 309b. Vocational education funds

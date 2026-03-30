@@ -3,9 +3,9 @@ title: "Section 5057 - Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 
 usc_title: 20
 usc_section: "5057"
 chapter: 62
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 5057"
-generated_at: "2026-03-30T01:24:53.914Z"
+generated_at: "2026-03-30T01:27:52.150Z"
 ---
 
 # §§ 5051 to 5057. Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 20, 1994 , 108 Stat. 4023

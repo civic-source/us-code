@@ -3,9 +3,9 @@ title: "Section 3852 - Civil enforcement"
 usc_title: 33
 usc_section: "3852"
 chapter: 51
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 3852"
-generated_at: "2026-03-30T01:25:29.861Z"
+generated_at: "2026-03-30T01:29:02.790Z"
 ---
 
 # § 3852. Civil enforcement

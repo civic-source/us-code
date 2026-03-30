@@ -3,9 +3,9 @@ title: "Section 2272 - Volunteers for Department of Agriculture programs"
 usc_title: 7
 usc_section: "2272"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 2272"
-generated_at: "2026-03-30T01:24:33.343Z"
+generated_at: "2026-03-30T01:27:22.647Z"
 ---
 
 # § 2272. Volunteers for Department of Agriculture programs

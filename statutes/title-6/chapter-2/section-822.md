@@ -3,9 +3,9 @@ title: "Section 822 - Assessment of global catastrophic risk"
 usc_title: 6
 usc_section: "822"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 822"
-generated_at: "2026-03-30T01:24:29.018Z"
+generated_at: "2026-03-30T01:26:58.029Z"
 ---
 
 # § 822. Assessment of global catastrophic risk

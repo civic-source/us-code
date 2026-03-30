@@ -3,9 +3,9 @@ title: "Section 612 - Syndicated exclusivity"
 usc_title: 47
 usc_section: "612"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "47 U.S.C. § 612"
-generated_at: "2026-03-30T01:26:00.547Z"
+generated_at: "2026-03-30T01:30:39.093Z"
 ---
 
 # § 612. Syndicated exclusivity

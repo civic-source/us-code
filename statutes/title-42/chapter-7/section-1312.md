@@ -3,9 +3,9 @@ title: "Section 1312 - Medical care guides and reports for public assistance and
 usc_title: 42
 usc_section: "1312"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 1312"
-generated_at: "2026-03-30T01:25:56.028Z"
+generated_at: "2026-03-30T01:30:23.099Z"
 ---
 
 # § 1312. Medical care guides and reports for public assistance and medical assistance

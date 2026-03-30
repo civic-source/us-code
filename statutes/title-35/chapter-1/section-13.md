@@ -3,9 +3,9 @@ title: "Section 13 - Annual report to Congress"
 usc_title: 35
 usc_section: "13"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "35 U.S.C. § 13"
-generated_at: "2026-03-30T01:25:27.132Z"
+generated_at: "2026-03-30T01:29:06.290Z"
 ---
 
 # § 13. Annual report to Congress

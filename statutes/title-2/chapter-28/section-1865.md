@@ -3,9 +3,9 @@ title: "Section 1865 - Capitol Police Buildings and Grounds Account"
 usc_title: 2
 usc_section: "1865"
 chapter: 28
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 1865"
-generated_at: "2026-03-30T01:24:23.808Z"
+generated_at: "2026-03-30T01:26:39.652Z"
 ---
 
 # § 1865. Capitol Police Buildings and Grounds Account

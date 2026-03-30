@@ -3,9 +3,9 @@ title: "Section 2102 - Ensuring the safety of pet food"
 usc_title: 21
 usc_section: "2102"
 chapter: 26
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "21 U.S.C. § 2102"
-generated_at: "2026-03-30T01:25:07.486Z"
+generated_at: "2026-03-30T01:27:58.419Z"
 ---
 
 # § 2102. Ensuring the safety of pet food

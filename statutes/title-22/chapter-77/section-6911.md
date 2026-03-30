@@ -3,9 +3,9 @@ title: "Section 6911 - Establishment of Congressional-Executive Commission on th
 usc_title: 22
 usc_section: "6911"
 chapter: 77
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 6911"
-generated_at: "2026-03-30T01:25:10.667Z"
+generated_at: "2026-03-30T01:28:10.423Z"
 ---
 
 # § 6911. Establishment of Congressional-Executive Commission on the People’s Republic of China

@@ -3,9 +3,9 @@ title: "Section 2463 - Sharing of technology with Department of Defense"
 usc_title: 50
 usc_section: "2463"
 chapter: 41
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 2463"
-generated_at: "2026-03-30T01:26:05.035Z"
+generated_at: "2026-03-30T01:30:28.127Z"
 ---
 
 # § 2463. Sharing of technology with Department of Defense

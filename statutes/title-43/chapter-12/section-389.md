@@ -3,9 +3,9 @@ title: "Section 389 - Relocation of highways, railroads, transmission lines, etc
 usc_title: 43
 usc_section: "389"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 389"
-generated_at: "2026-03-30T01:25:47.024Z"
+generated_at: "2026-03-30T01:29:57.344Z"
 ---
 
 # § 389. Relocation of highways, railroads, transmission lines, etc., exchange of water, water rights or electric energy

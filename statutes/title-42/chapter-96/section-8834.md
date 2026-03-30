@@ -3,9 +3,9 @@ title: "Section 8834 - Price support loans and price guarantees"
 usc_title: 42
 usc_section: "8834"
 chapter: 96
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 8834"
-generated_at: "2026-03-30T01:25:56.436Z"
+generated_at: "2026-03-30T01:30:23.493Z"
 ---
 
 # § 8834. Price support loans and price guarantees

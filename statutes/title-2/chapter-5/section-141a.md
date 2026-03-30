@@ -3,9 +3,9 @@ title: "Section 141a - Design, installation, and maintenance of security systems
 usc_title: 2
 usc_section: "141a"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 141a"
-generated_at: "2026-03-30T01:24:23.782Z"
+generated_at: "2026-03-30T01:26:39.622Z"
 ---
 
 # § 141a. Design, installation, and maintenance of security systems; transfer of responsibility

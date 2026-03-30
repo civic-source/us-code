@@ -3,9 +3,9 @@ title: "Section 20163 - Program authorized"
 usc_title: 51
 usc_section: "20163"
 chapter: 201
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "51 U.S.C. § 20163"
-generated_at: "2026-03-30T01:26:18.175Z"
+generated_at: "2026-03-30T01:30:48.662Z"
 ---
 
 # § 20163. Program authorized

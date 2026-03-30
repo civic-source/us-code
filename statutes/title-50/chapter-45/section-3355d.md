@@ -3,9 +3,9 @@ title: "Section 3355d - Standards and procedures"
 usc_title: 50
 usc_section: "3355d"
 chapter: 45
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 3355d"
-generated_at: "2026-03-30T01:26:05.081Z"
+generated_at: "2026-03-30T01:30:28.154Z"
 ---
 
 # § 3355d. Standards and procedures

@@ -3,9 +3,9 @@ title: "Section 1292 - New uses and markets for commodities"
 usc_title: 7
 usc_section: "1292"
 chapter: 35
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 1292"
-generated_at: "2026-03-30T01:24:33.278Z"
+generated_at: "2026-03-30T01:27:22.575Z"
 ---
 
 # § 1292. New uses and markets for commodities

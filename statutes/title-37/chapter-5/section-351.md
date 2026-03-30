@@ -3,9 +3,9 @@ title: "Section 351 - Hazardous duty pay"
 usc_title: 37
 usc_section: "351"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "37 U.S.C. § 351"
-generated_at: "2026-03-30T01:25:36.159Z"
+generated_at: "2026-03-30T01:29:32.017Z"
 ---
 
 # § 351. Hazardous duty pay

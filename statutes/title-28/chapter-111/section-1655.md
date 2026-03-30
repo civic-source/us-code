@@ -3,9 +3,9 @@ title: "Section 1655 - Lien enforcement; absent defendants"
 usc_title: 28
 usc_section: "1655"
 chapter: 111
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "28 U.S.C. § 1655"
-generated_at: "2026-03-30T01:25:13.471Z"
+generated_at: "2026-03-30T01:28:18.411Z"
 ---
 
 # § 1655. Lien enforcement; absent defendants

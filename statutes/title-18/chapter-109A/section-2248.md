@@ -3,9 +3,9 @@ title: "Section 2248 - Mandatory restitution"
 usc_title: 18
 usc_section: "2248"
 chapter: 109
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 2248"
-generated_at: "2026-03-30T01:24:51.180Z"
+generated_at: "2026-03-30T01:27:46.446Z"
 ---
 
 # § 2248. Mandatory restitution

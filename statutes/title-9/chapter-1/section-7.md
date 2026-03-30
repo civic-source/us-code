@@ -3,9 +3,9 @@ title: "Section 7 - Witnesses before arbitrators; fees; compelling attendance"
 usc_title: 9
 usc_section: "7"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "9 U.S.C. § 7"
-generated_at: "2026-03-30T01:24:26.900Z"
+generated_at: "2026-03-30T01:26:52.939Z"
 ---
 
 # § 7. Witnesses before arbitrators; fees; compelling attendance

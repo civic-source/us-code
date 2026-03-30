@@ -3,9 +3,9 @@ title: "Section 1242 - Introduction, manufacture for introduction, transportatio
 usc_title: 15
 usc_section: "1242"
 chapter: 29
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 1242"
-generated_at: "2026-03-30T01:24:47.083Z"
+generated_at: "2026-03-30T01:27:29.249Z"
 ---
 
 # § 1242. Introduction, manufacture for introduction, transportation or distribution in interstate commerce; penalty

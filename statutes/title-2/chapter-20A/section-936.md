@@ -3,9 +3,9 @@ title: "Section 936 - Adjustment for current policies"
 usc_title: 2
 usc_section: "936"
 chapter: 20
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 936"
-generated_at: "2026-03-30T01:24:23.799Z"
+generated_at: "2026-03-30T01:26:39.641Z"
 ---
 
 # § 936. Adjustment for current policies

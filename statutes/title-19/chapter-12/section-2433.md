@@ -3,9 +3,9 @@ title: "Section 2433 - United States personnel missing in action in Southeast As
 usc_title: 19
 usc_section: "2433"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "19 U.S.C. § 2433"
-generated_at: "2026-03-30T01:25:02.344Z"
+generated_at: "2026-03-30T01:27:44.947Z"
 ---
 
 # § 2433. United States personnel missing in action in Southeast Asia

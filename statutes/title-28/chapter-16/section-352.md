@@ -3,9 +3,9 @@ title: "Section 352 - Review of complaint by chief judge"
 usc_title: 28
 usc_section: "352"
 chapter: 16
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "28 U.S.C. § 352"
-generated_at: "2026-03-30T01:25:13.456Z"
+generated_at: "2026-03-30T01:28:18.396Z"
 ---
 
 # § 352. Review of complaint by chief judge

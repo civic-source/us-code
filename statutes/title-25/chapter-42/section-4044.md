@@ -3,9 +3,9 @@ title: "Section 4044 - Reconciliation report"
 usc_title: 25
 usc_section: "4044"
 chapter: 42
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 4044"
-generated_at: "2026-03-30T01:25:06.252Z"
+generated_at: "2026-03-30T01:27:56.315Z"
 ---
 
 # § 4044. Reconciliation report

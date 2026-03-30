@@ -3,9 +3,9 @@ title: "Section 153 - National Railroad Adjustment Board"
 usc_title: 45
 usc_section: "153"
 chapter: 8
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "45 U.S.C. § 153"
-generated_at: "2026-03-30T01:25:37.905Z"
+generated_at: "2026-03-30T01:30:01.034Z"
 ---
 
 # § 153. National Railroad Adjustment Board

@@ -3,9 +3,9 @@ title: "Section 6a - Disposition of amounts deducted from pensions"
 usc_title: 24
 usc_section: "6a"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "24 U.S.C. § 6a"
-generated_at: "2026-03-30T01:25:04.247Z"
+generated_at: "2026-03-30T01:28:02.075Z"
 ---
 
 # § 6a. Disposition of amounts deducted from pensions

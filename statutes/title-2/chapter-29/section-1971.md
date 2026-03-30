@@ -3,9 +3,9 @@ title: "Section 1971 - Contributions of meals and refreshments during emergency 
 usc_title: 2
 usc_section: "1971"
 chapter: 29
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 1971"
-generated_at: "2026-03-30T01:24:23.811Z"
+generated_at: "2026-03-30T01:26:39.655Z"
 ---
 
 # § 1971. Contributions of meals and refreshments during emergency duty

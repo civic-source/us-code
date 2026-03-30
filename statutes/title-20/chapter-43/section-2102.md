@@ -3,9 +3,9 @@ title: "Section 2102 - Definitions"
 usc_title: 20
 usc_section: "2102"
 chapter: 43
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 2102"
-generated_at: "2026-03-30T01:24:53.900Z"
+generated_at: "2026-03-30T01:27:52.131Z"
 ---
 
 # § 2102. Definitions

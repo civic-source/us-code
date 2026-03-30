@@ -3,9 +3,9 @@ title: "Section 9026 - Temporary financing of short-time compensation payments i
 usc_title: 15
 usc_section: "9026"
 chapter: 116
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 9026"
-generated_at: "2026-03-30T01:24:47.189Z"
+generated_at: "2026-03-30T01:27:29.375Z"
 ---
 
 # § 9026. Temporary financing of short-time compensation payments in States with programs in law

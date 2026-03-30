@@ -3,9 +3,9 @@ title: "Section 1905 - Pollution reception facilities"
 usc_title: 33
 usc_section: "1905"
 chapter: 33
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 1905"
-generated_at: "2026-03-30T01:25:29.832Z"
+generated_at: "2026-03-30T01:29:02.758Z"
 ---
 
 # § 1905. Pollution reception facilities

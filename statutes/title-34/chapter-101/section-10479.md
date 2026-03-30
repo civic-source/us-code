@@ -3,9 +3,9 @@ title: "Section 10479 - Mental health responses in the judicial system"
 usc_title: 34
 usc_section: "10479"
 chapter: 101
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "34 U.S.C. § 10479"
-generated_at: "2026-03-30T01:25:28.788Z"
+generated_at: "2026-03-30T01:29:17.438Z"
 ---
 
 # § 10479. Mental health responses in the judicial system

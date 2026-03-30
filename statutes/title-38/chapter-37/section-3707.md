@@ -3,9 +3,9 @@ title: "Section 3707 - Adjustable rate mortgages"
 usc_title: 38
 usc_section: "3707"
 chapter: 37
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 3707"
-generated_at: "2026-03-30T01:25:34.340Z"
+generated_at: "2026-03-30T01:29:50.761Z"
 ---
 
 # § 3707. Adjustable rate mortgages

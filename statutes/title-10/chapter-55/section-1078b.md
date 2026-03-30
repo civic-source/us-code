@@ -3,9 +3,9 @@ title: "Section 1078b - Provision of food to certain members and dependents not 
 usc_title: 10
 usc_section: "1078b"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 1078b"
-generated_at: "2026-03-30T01:24:38.934Z"
+generated_at: "2026-03-30T01:27:06.439Z"
 ---
 
 # § 1078b. Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities

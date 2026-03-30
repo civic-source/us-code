@@ -3,9 +3,9 @@ title: "Section 2216 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2216"
 chapter: 49
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 2216"
-generated_at: "2026-03-30T01:24:47.120Z"
+generated_at: "2026-03-30T01:27:29.293Z"
 ---
 
 # § 2216. Authorization of appropriations
@@ -44,8 +44,9 @@ generated_at: "2026-03-30T01:24:47.120Z"
     - **(I)** $76,490,890 for fiscal year 2013, of which $2,753,672 shall be used to carry out section 2207(f) of this title ;
     - **(J)** $76,490,890 for fiscal year 2014, of which $2,753,672 shall be used to carry out section 2207(f) of this title ;
     - **(K)** $76,490,890 for fiscal year 2015, of which $2,753,672 shall be used to carry out section 2207(f) of this title ;
-    - **(L)** $76,490,890 for fiscal year 2016, of which $2,753,672 shall be used to carry out section 2207(f) of this title ; and
-    - **(M)** $76,490,890 for for 2 2 So in original. each of fiscal years 2017 through 2023, of which $2,753,672 for each such fiscal year shall be used to carry out section 2207(f) of this title .
+    - **(L)** $76,490,890 for fiscal year 2016, of which $2,753,672 shall be used to carry out section 2207(f) of this title ;
+    - **(M)** $76,490,890 for each of fiscal years 2017 through 2023, of which $2,753,672 for each such fiscal year shall be used to carry out section 2207(f) of this title ; and
+    - **(N)** $95,000,000 for each of fiscal years 2024 through 2028, of which $3,420,000 for each such fiscal year shall be used to carry out section 2207(f) of this title .
   - **(2)** Of the amounts referred to in paragraph (1), not more than $4,150,000 is authorized to be appropriated for each fiscal year for National Emergency Training Center site administration.
 - **(h)** In addition to any other amounts that are authorized to be appropriated to carry out this chapter, there are authorized to be appropriated to carry out this chapter—
   - **(1)** $500,000 for fiscal year 1995 for basic research on the development of an advanced course on arson prevention;

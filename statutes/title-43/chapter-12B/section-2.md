@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of nonexcess irrigable acreage for participati
 usc_title: 43
 usc_section: "2"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T01:25:47.039Z"
+generated_at: "2026-03-30T01:29:57.358Z"
 ---
 
 # § 620a–2. Establishment of nonexcess irrigable acreage for participating projects

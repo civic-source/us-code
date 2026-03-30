@@ -3,9 +3,9 @@ title: "Section 192c - Rules and regulations governing issuance of certain lease
 usc_title: 30
 usc_section: "192c"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 192c"
-generated_at: "2026-03-30T01:25:13.889Z"
+generated_at: "2026-03-30T01:28:13.099Z"
 ---
 
 # § 192c. Rules and regulations governing issuance of certain leases; disposition of receipts

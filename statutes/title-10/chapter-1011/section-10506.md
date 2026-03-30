@@ -3,9 +3,9 @@ title: "Section 10506 - Other senior National Guard Bureau officers"
 usc_title: 10
 usc_section: "10506"
 chapter: 1011
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 10506"
-generated_at: "2026-03-30T01:24:39.045Z"
+generated_at: "2026-03-30T01:27:06.552Z"
 ---
 
 # § 10506. Other senior National Guard Bureau officers

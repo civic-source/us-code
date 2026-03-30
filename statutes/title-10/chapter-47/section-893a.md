@@ -3,9 +3,9 @@ title: "Section 893a - Art. 93a. Prohibited activities with military recruit or 
 usc_title: 10
 usc_section: "893a"
 chapter: 47
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 893a"
-generated_at: "2026-03-30T01:24:38.920Z"
+generated_at: "2026-03-30T01:27:06.424Z"
 ---
 
 # § 893a. Art. 93a. Prohibited activities with military recruit or trainee by person in position of special trust

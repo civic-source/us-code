@@ -3,9 +3,9 @@ title: "Section 253 - Open data publication by the Board of Governors"
 usc_title: 12
 usc_section: "253"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 253"
-generated_at: "2026-03-30T01:24:44.534Z"
+generated_at: "2026-03-30T01:27:40.302Z"
 ---
 
 # § 253. Open data publication by the Board of Governors

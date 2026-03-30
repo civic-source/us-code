@@ -3,9 +3,9 @@ title: "Section 398c - Taxes"
 usc_title: 25
 usc_section: "398c"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 398c"
-generated_at: "2026-03-30T01:25:06.205Z"
+generated_at: "2026-03-30T01:27:56.259Z"
 ---
 
 # § 398c. Taxes

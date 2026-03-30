@@ -3,9 +3,9 @@ title: "Section 3533 - Dispute settlement panels and procedures"
 usc_title: 19
 usc_section: "3533"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "19 U.S.C. § 3533"
-generated_at: "2026-03-30T01:25:02.359Z"
+generated_at: "2026-03-30T01:27:44.963Z"
 ---
 
 # § 3533. Dispute settlement panels and procedures

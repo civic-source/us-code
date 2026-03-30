@@ -3,9 +3,9 @@ title: "Section 18081 - Procedures for determining eligibility for Exchange part
 usc_title: 42
 usc_section: "18081"
 chapter: 157
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 18081"
-generated_at: "2026-03-30T01:25:56.596Z"
+generated_at: "2026-03-30T01:30:23.647Z"
 ---
 
 # § 18081. Procedures for determining eligibility for Exchange participation, premium tax credits and reduced cost-sharing, and individual responsibility exemptions

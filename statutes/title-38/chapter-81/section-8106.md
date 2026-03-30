@@ -3,9 +3,9 @@ title: "Section 8106 - Construction contracts"
 usc_title: 38
 usc_section: "8106"
 chapter: 81
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 8106"
-generated_at: "2026-03-30T01:25:34.365Z"
+generated_at: "2026-03-30T01:29:50.786Z"
 ---
 
 # § 8106. Construction contracts

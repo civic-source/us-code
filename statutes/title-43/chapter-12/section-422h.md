@@ -3,9 +3,9 @@ title: "Section 422h - Planning and construction; transfer of funds"
 usc_title: 43
 usc_section: "422h"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 422h"
-generated_at: "2026-03-30T01:25:47.030Z"
+generated_at: "2026-03-30T01:29:57.350Z"
 ---
 
 # § 422h. Planning and construction; transfer of funds

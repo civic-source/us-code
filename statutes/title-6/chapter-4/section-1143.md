@@ -3,9 +3,9 @@ title: "Section 1143 - Security background checks of covered individuals for pub
 usc_title: 6
 usc_section: "1143"
 chapter: 4
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 1143"
-generated_at: "2026-03-30T01:24:29.023Z"
+generated_at: "2026-03-30T01:26:58.034Z"
 ---
 
 # § 1143. Security background checks of covered individuals for public transportation

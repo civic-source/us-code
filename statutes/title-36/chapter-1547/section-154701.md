@@ -3,9 +3,9 @@ title: "Section 154701 - Definition"
 usc_title: 36
 usc_section: "154701"
 chapter: 1547
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "36 U.S.C. § 154701"
-generated_at: "2026-03-30T01:25:32.813Z"
+generated_at: "2026-03-30T01:29:20.224Z"
 ---
 
 # § 154701. Definition

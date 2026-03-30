@@ -3,9 +3,9 @@ title: "Section 77vvv - Judicial review"
 usc_title: 15
 usc_section: "77vvv"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 77vvv"
-generated_at: "2026-03-30T01:24:46.992Z"
+generated_at: "2026-03-30T01:27:29.146Z"
 ---
 
 # § 77vvv. Judicial review

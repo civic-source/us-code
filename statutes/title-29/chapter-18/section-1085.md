@@ -3,9 +3,9 @@ title: "Section 1085 - Additional funding rules for multiemployer plans in endan
 usc_title: 29
 usc_section: "1085"
 chapter: 18
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "29 U.S.C. § 1085"
-generated_at: "2026-03-30T01:25:19.596Z"
+generated_at: "2026-03-30T01:28:37.314Z"
 ---
 
 # § 1085. Additional funding rules for multiemployer plans in endangered status or critical status

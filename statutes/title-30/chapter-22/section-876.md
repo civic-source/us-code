@@ -3,9 +3,9 @@ title: "Section 876 - Communication facilities; locations and emergency response
 usc_title: 30
 usc_section: "876"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 876"
-generated_at: "2026-03-30T01:25:13.900Z"
+generated_at: "2026-03-30T01:28:13.110Z"
 ---
 
 # § 876. Communication facilities; locations and emergency response plans

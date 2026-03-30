@@ -3,9 +3,9 @@ title: "Section 1521 - Retaliating against a Federal judge or Federal law enforc
 usc_title: 18
 usc_section: "1521"
 chapter: 73
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1521"
-generated_at: "2026-03-30T01:24:51.171Z"
+generated_at: "2026-03-30T01:27:46.438Z"
 ---
 
 # § 1521. Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title

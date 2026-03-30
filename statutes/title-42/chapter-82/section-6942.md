@@ -3,9 +3,9 @@ title: "Section 6942 - Federal guidelines for plans"
 usc_title: 42
 usc_section: "6942"
 chapter: 82
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 6942"
-generated_at: "2026-03-30T01:25:56.365Z"
+generated_at: "2026-03-30T01:30:23.425Z"
 ---
 
 # § 6942. Federal guidelines for plans

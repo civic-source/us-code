@@ -3,9 +3,9 @@ title: "Section 940 - Applicability of amendments to part B of this subchapter t
 usc_title: 30
 usc_section: "940"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 940"
-generated_at: "2026-03-30T01:25:13.903Z"
+generated_at: "2026-03-30T01:28:13.112Z"
 ---
 
 # § 940. Applicability of amendments to part B of this subchapter to this part

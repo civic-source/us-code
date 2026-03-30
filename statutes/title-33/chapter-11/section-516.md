@@ -3,9 +3,9 @@ title: "Section 516 - Apportionment of cost"
 usc_title: 33
 usc_section: "516"
 chapter: 11
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 516"
-generated_at: "2026-03-30T01:25:29.785Z"
+generated_at: "2026-03-30T01:29:02.706Z"
 ---
 
 # § 516. Apportionment of cost

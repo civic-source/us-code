@@ -3,9 +3,9 @@ title: "Section 12531 - Juvenile anti-drug and anti-gang grants in federally ass
 usc_title: 34
 usc_section: "12531"
 chapter: 121
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "34 U.S.C. § 12531"
-generated_at: "2026-03-30T01:25:28.808Z"
+generated_at: "2026-03-30T01:29:17.459Z"
 ---
 
 # § 12531. Juvenile anti-drug and anti-gang grants in federally assisted low-income housing

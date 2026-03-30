@@ -3,9 +3,9 @@ title: "Section 7305a - Purpose"
 usc_title: 20
 usc_section: "7305a"
 chapter: 70
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 7305a"
-generated_at: "2026-03-30T01:24:53.936Z"
+generated_at: "2026-03-30T01:27:52.174Z"
 ---
 
 # § 7305a. Purpose

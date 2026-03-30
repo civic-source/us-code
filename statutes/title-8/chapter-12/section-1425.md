@@ -3,9 +3,9 @@ title: "Section 1425 - Ineligibility to naturalization of deserters from the Arm
 usc_title: 8
 usc_section: "1425"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "8 U.S.C. § 1425"
-generated_at: "2026-03-30T01:24:28.173Z"
+generated_at: "2026-03-30T01:26:59.281Z"
 ---
 
 # § 1425. Ineligibility to naturalization of deserters from the Armed Forces

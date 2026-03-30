@@ -3,9 +3,9 @@ title: "Section 251f - Consultation by Secretary with Governor, local officials,
 usc_title: 16
 usc_section: "251f"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 251f"
-generated_at: "2026-03-30T01:24:57.241Z"
+generated_at: "2026-03-30T01:27:49.766Z"
 ---
 
 # § 251f. Consultation by Secretary with Governor, local officials, and affected landowners; notice to Congressional committees; publication in Federal Register

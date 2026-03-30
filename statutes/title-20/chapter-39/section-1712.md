@@ -3,9 +3,9 @@ title: "Section 1712 - Formulating remedies; applicability"
 usc_title: 20
 usc_section: "1712"
 chapter: 39
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 1712"
-generated_at: "2026-03-30T01:24:53.899Z"
+generated_at: "2026-03-30T01:27:52.130Z"
 ---
 
 # § 1712. Formulating remedies; applicability

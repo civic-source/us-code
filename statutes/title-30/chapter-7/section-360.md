@@ -3,9 +3,9 @@ title: "Section 360 - Authority to manage certain mineral leases"
 usc_title: 30
 usc_section: "360"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 360"
-generated_at: "2026-03-30T01:25:13.893Z"
+generated_at: "2026-03-30T01:28:13.102Z"
 ---
 
 # § 360. Authority to manage certain mineral leases

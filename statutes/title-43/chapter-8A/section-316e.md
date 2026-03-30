@@ -3,9 +3,9 @@ title: "Section 316e - Preferences"
 usc_title: 43
 usc_section: "316e"
 chapter: 8
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 316e"
-generated_at: "2026-03-30T01:25:47.021Z"
+generated_at: "2026-03-30T01:29:57.342Z"
 ---
 
 # § 316e. Preferences

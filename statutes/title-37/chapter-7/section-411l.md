@@ -3,9 +3,9 @@ title: "Section 411l - Renumbered § 481l]"
 usc_title: 37
 usc_section: "411l"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "37 U.S.C. § 411l"
-generated_at: "2026-03-30T01:25:36.162Z"
+generated_at: "2026-03-30T01:29:32.019Z"
 ---
 
 # [§ 411l. Renumbered § 481l]

@@ -3,9 +3,9 @@ title: "Section 1203 - Hostage taking"
 usc_title: 18
 usc_section: "1203"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1203"
-generated_at: "2026-03-30T01:24:51.168Z"
+generated_at: "2026-03-30T01:27:46.434Z"
 ---
 
 # § 1203. Hostage taking

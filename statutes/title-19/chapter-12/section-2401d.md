@@ -3,9 +3,9 @@ title: "Section 2401d - Benefit information to agricultural commodity producers"
 usc_title: 19
 usc_section: "2401d"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "19 U.S.C. § 2401d"
-generated_at: "2026-03-30T01:25:02.342Z"
+generated_at: "2026-03-30T01:27:44.945Z"
 ---
 
 # § 2401d. Benefit information to agricultural commodity producers

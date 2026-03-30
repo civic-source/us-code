@@ -3,9 +3,9 @@ title: "Section 752b - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 118
 usc_title: 33
 usc_section: "752b"
 chapter: 16
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 752b"
-generated_at: "2026-03-30T01:25:29.796Z"
+generated_at: "2026-03-30T01:29:02.719Z"
 ---
 
 # § 752b. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(12) , Dec. 23, 2022 , 136 Stat. 4165

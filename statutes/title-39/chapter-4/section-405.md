@@ -3,9 +3,9 @@ title: "Section 405 - Printing of illustrations of United States postage stamps"
 usc_title: 39
 usc_section: "405"
 chapter: 4
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "39 U.S.C. § 405"
-generated_at: "2026-03-30T01:25:31.482Z"
+generated_at: "2026-03-30T01:29:27.565Z"
 ---
 
 # § 405. Printing of illustrations of United States postage stamps

@@ -3,9 +3,9 @@ title: "Section 77 - Official inspection and weighing requirements; waiver; supe
 usc_title: 7
 usc_section: "77"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 77"
-generated_at: "2026-03-30T01:24:33.239Z"
+generated_at: "2026-03-30T01:27:22.530Z"
 ---
 
 # § 77. Official inspection and weighing requirements; waiver; supervision by representatives of Secretary

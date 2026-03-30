@@ -3,9 +3,9 @@ title: "Section 7001 - Definitions"
 usc_title: 10
 usc_section: "7001"
 chapter: 701
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 7001"
-generated_at: "2026-03-30T01:24:39.016Z"
+generated_at: "2026-03-30T01:27:06.524Z"
 ---
 
 # § 7001. Definitions

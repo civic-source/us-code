@@ -3,9 +3,9 @@ title: "Section 12513 - Demonstration program on trauma-informed, victim-centere
 usc_title: 34
 usc_section: "12513"
 chapter: 121
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "34 U.S.C. § 12513"
-generated_at: "2026-03-30T01:25:28.807Z"
+generated_at: "2026-03-30T01:29:17.459Z"
 ---
 
 # § 12513. Demonstration program on trauma-informed, victim-centered training for law enforcement

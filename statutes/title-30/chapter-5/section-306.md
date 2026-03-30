@@ -3,9 +3,9 @@ title: "Section 306 - Rules and regulations"
 usc_title: 30
 usc_section: "306"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 306"
-generated_at: "2026-03-30T01:25:13.892Z"
+generated_at: "2026-03-30T01:28:13.102Z"
 ---
 
 # § 306. Rules and regulations

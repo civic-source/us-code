@@ -3,9 +3,9 @@ title: "Section 1810 - Civil liability"
 usc_title: 50
 usc_section: "1810"
 chapter: 36
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 1810"
-generated_at: "2026-03-30T01:26:05.012Z"
+generated_at: "2026-03-30T01:30:28.112Z"
 ---
 
 # § 1810. Civil liability

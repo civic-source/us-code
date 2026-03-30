@@ -3,9 +3,9 @@ title: "Section 8801 - Definitions"
 usc_title: 15
 usc_section: "8801"
 chapter: 114
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 8801"
-generated_at: "2026-03-30T01:24:47.183Z"
+generated_at: "2026-03-30T01:27:29.367Z"
 ---
 
 # § 8801. Definitions

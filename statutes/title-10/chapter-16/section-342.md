@@ -3,9 +3,9 @@ title: "Section 342 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "342"
 chapter: 16
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 342"
-generated_at: "2026-03-30T01:24:38.899Z"
+generated_at: "2026-03-30T01:27:06.398Z"
 ---
 
 # § 342. Regional Centers for Security Studies

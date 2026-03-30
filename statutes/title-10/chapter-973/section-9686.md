@@ -3,9 +3,9 @@ title: "Section 9686 - Obsolete ordnance: gift to State homes for soldiers and s
 usc_title: 10
 usc_section: "9686"
 chapter: 973
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 9686"
-generated_at: "2026-03-30T01:24:39.042Z"
+generated_at: "2026-03-30T01:27:06.549Z"
 ---
 
 # § 9686. Obsolete ordnance: gift to State homes for soldiers and sailors

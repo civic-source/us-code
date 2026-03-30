@@ -3,9 +3,9 @@ title: "Section 44806 - Public unmanned aircraft systems and public safety use o
 usc_title: 49
 usc_section: "44806"
 chapter: 448
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "49 U.S.C. § 44806"
-generated_at: "2026-03-30T01:26:15.860Z"
+generated_at: "2026-03-30T01:30:46.275Z"
 ---
 
 # § 44806. Public unmanned aircraft systems and public safety use of tethered unmanned aircraft systems

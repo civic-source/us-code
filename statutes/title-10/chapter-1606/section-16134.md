@@ -3,9 +3,9 @@ title: "Section 16134 - Termination of assistance"
 usc_title: 10
 usc_section: "16134"
 chapter: 1606
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 16134"
-generated_at: "2026-03-30T01:24:39.055Z"
+generated_at: "2026-03-30T01:27:06.562Z"
 ---
 
 # § 16134. Termination of assistance

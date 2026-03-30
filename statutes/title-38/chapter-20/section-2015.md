@@ -3,9 +3,9 @@ title: "Section 2015 - Training and technical assistance for entities regarding 
 usc_title: 38
 usc_section: "2015"
 chapter: 20
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 2015"
-generated_at: "2026-03-30T01:25:34.322Z"
+generated_at: "2026-03-30T01:29:50.741Z"
 ---
 
 # § 2015. Training and technical assistance for entities regarding services provided to veterans at risk of, experiencing, or transitioning out of homelessness

@@ -3,9 +3,9 @@ title: "Section 5378 - Police forces of the Bureau of Engraving and Printing and
 usc_title: 5
 usc_section: "5378"
 chapter: 53
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "5 U.S.C. § 5378"
-generated_at: "2026-03-30T01:24:25.476Z"
+generated_at: "2026-03-30T01:26:48.510Z"
 ---
 
 # § 5378. Police forces of the Bureau of Engraving and Printing and the United States Mint

@@ -3,9 +3,9 @@ title: "Section 10824 - Reports by Secretary"
 usc_title: 42
 usc_section: "10824"
 chapter: 114
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 10824"
-generated_at: "2026-03-30T01:25:56.478Z"
+generated_at: "2026-03-30T01:30:23.534Z"
 ---
 
 # § 10824. Reports by Secretary

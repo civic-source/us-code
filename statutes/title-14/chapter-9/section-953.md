@@ -3,9 +3,9 @@ title: "Section 953 - Support for Coast Guard Academy"
 usc_title: 14
 usc_section: "953"
 chapter: 9
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "14 U.S.C. § 953"
-generated_at: "2026-03-30T01:24:41.509Z"
+generated_at: "2026-03-30T01:27:25.071Z"
 ---
 
 # § 953. Support for Coast Guard Academy

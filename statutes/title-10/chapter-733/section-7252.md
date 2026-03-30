@@ -3,9 +3,9 @@ title: "Section 7252 - Service credit: regular enlisted members; service as an o
 usc_title: 10
 usc_section: "7252"
 chapter: 733
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 7252"
-generated_at: "2026-03-30T01:24:39.018Z"
+generated_at: "2026-03-30T01:27:06.525Z"
 ---
 
 # § 7252. Service credit: regular enlisted members; service as an officer to be counted as enlisted service

@@ -3,9 +3,9 @@ title: "Section 1171 - Drug abuse prevention function appropriations"
 usc_title: 21
 usc_section: "1171"
 chapter: 16
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "21 U.S.C. § 1171"
-generated_at: "2026-03-30T01:25:07.480Z"
+generated_at: "2026-03-30T01:27:58.410Z"
 ---
 
 # § 1171. Drug abuse prevention function appropriations

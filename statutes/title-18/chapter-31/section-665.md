@@ -3,9 +3,9 @@ title: "Section 665 - Theft or embezzlement from employment and training funds; 
 usc_title: 18
 usc_section: "665"
 chapter: 31
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 665"
-generated_at: "2026-03-30T01:24:51.155Z"
+generated_at: "2026-03-30T01:27:46.420Z"
 ---
 
 # § 665. Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations

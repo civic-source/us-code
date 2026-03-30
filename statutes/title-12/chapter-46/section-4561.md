@@ -3,9 +3,9 @@ title: "Section 4561 - Establishment of housing goals"
 usc_title: 12
 usc_section: "4561"
 chapter: 46
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 4561"
-generated_at: "2026-03-30T01:24:44.664Z"
+generated_at: "2026-03-30T01:27:40.433Z"
 ---
 
 # § 4561. Establishment of housing goals

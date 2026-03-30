@@ -3,9 +3,9 @@ title: "Section 3664 - Procedure for issuance and enforcement of order of restit
 usc_title: 18
 usc_section: "3664"
 chapter: 232
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 3664"
-generated_at: "2026-03-30T01:24:51.206Z"
+generated_at: "2026-03-30T01:27:46.473Z"
 ---
 
 # § 3664. Procedure for issuance and enforcement of order of restitution

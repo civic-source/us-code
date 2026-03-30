@@ -3,9 +3,9 @@ title: "Section 5 - Abolition of tolls on Government canals, canalized rivers, e
 usc_title: 33
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 5"
-generated_at: "2026-03-30T01:25:29.775Z"
+generated_at: "2026-03-30T01:29:02.695Z"
 ---
 
 # § 5. Abolition of tolls on Government canals, canalized rivers, etc.; expense of operation, repairs to and reconstruction of canals, etc.; Panama Canal excepted; levies by non-Federal interest

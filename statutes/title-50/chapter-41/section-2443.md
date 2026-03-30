@@ -3,9 +3,9 @@ title: "Section 2443 - Notification of employee practices affecting national sec
 usc_title: 50
 usc_section: "2443"
 chapter: 41
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 2443"
-generated_at: "2026-03-30T01:26:05.035Z"
+generated_at: "2026-03-30T01:30:28.127Z"
 ---
 
 # § 2443. Notification of employee practices affecting national security

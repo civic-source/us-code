@@ -3,9 +3,9 @@ title: "Section 3372 - Undefinitized contractual actions: requirements and limit
 usc_title: 10
 usc_section: "3372"
 chapter: 244
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 3372"
-generated_at: "2026-03-30T01:24:38.998Z"
+generated_at: "2026-03-30T01:27:06.505Z"
 ---
 
 # § 3372. Undefinitized contractual actions: requirements and limitations relating to definitization of contractual terms, specifications, and price

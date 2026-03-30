@@ -3,9 +3,9 @@ title: "Section 1428 - Definitions"
 usc_title: 7
 usc_section: "1428"
 chapter: 35
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 1428"
-generated_at: "2026-03-30T01:24:33.286Z"
+generated_at: "2026-03-30T01:27:22.584Z"
 ---
 
 # § 1428. Definitions

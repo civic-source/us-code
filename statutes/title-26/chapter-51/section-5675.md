@@ -3,9 +3,9 @@ title: "Section 5675 - Penalty for intentional removal or defacement of brewer�
 usc_title: 26
 usc_section: "5675"
 chapter: 51
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 5675"
-generated_at: "2026-03-30T01:25:25.190Z"
+generated_at: "2026-03-30T01:28:57.548Z"
 ---
 
 # § 5675. Penalty for intentional removal or defacement of brewer’s marks and brands

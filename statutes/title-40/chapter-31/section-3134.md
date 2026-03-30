@@ -3,9 +3,9 @@ title: "Section 3134 - Waivers for certain contracts"
 usc_title: 40
 usc_section: "3134"
 chapter: 31
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "40 U.S.C. § 3134"
-generated_at: "2026-03-30T01:25:34.776Z"
+generated_at: "2026-03-30T01:29:20.658Z"
 ---
 
 # § 3134. Waivers for certain contracts

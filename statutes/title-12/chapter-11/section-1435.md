@@ -3,9 +3,9 @@ title: "Section 1435 - Obligations as lawful investments; liability of United St
 usc_title: 12
 usc_section: "1435"
 chapter: 11
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 1435"
-generated_at: "2026-03-30T01:24:44.549Z"
+generated_at: "2026-03-30T01:27:40.317Z"
 ---
 
 # § 1435. Obligations as lawful investments; liability of United States for debentures, etc., issued by banks

@@ -3,9 +3,9 @@ title: "Section 8018 - Capacity building in foreign fisheries"
 usc_title: 16
 usc_section: "8018"
 chapter: 99
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 8018"
-generated_at: "2026-03-30T01:24:57.485Z"
+generated_at: "2026-03-30T01:27:50.006Z"
 ---
 
 # § 8018. Capacity building in foreign fisheries

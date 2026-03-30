@@ -3,9 +3,9 @@ title: "Section 303 - Determination of issue by Director"
 usc_title: 35
 usc_section: "303"
 chapter: 30
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "35 U.S.C. § 303"
-generated_at: "2026-03-30T01:25:27.138Z"
+generated_at: "2026-03-30T01:29:06.298Z"
 ---
 
 # § 303. Determination of issue by Director

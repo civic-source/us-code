@@ -3,9 +3,9 @@ title: "Section 4111 - Acceptance of contributions, awards, and other payments"
 usc_title: 5
 usc_section: "4111"
 chapter: 41
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "5 U.S.C. § 4111"
-generated_at: "2026-03-30T01:24:25.471Z"
+generated_at: "2026-03-30T01:26:48.504Z"
 ---
 
 # § 4111. Acceptance of contributions, awards, and other payments

@@ -3,9 +3,9 @@ title: "Section 3727 - Expenditures to correct or compensate for structural defe
 usc_title: 38
 usc_section: "3727"
 chapter: 37
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 3727"
-generated_at: "2026-03-30T01:25:34.342Z"
+generated_at: "2026-03-30T01:29:50.762Z"
 ---
 
 # § 3727. Expenditures to correct or compensate for structural defects in mortgaged homes

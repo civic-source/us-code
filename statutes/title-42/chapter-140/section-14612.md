@@ -3,9 +3,9 @@ title: "Section 14612 - Transferred"
 usc_title: 42
 usc_section: "14612"
 chapter: 140
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 14612"
-generated_at: "2026-03-30T01:25:56.534Z"
+generated_at: "2026-03-30T01:30:23.590Z"
 ---
 
 # § 14612. Transferred

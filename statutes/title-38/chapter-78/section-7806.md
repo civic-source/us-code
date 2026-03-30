@@ -3,9 +3,9 @@ title: "Section 7806 - Budget of Service"
 usc_title: 38
 usc_section: "7806"
 chapter: 78
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 7806"
-generated_at: "2026-03-30T01:25:34.364Z"
+generated_at: "2026-03-30T01:29:50.785Z"
 ---
 
 # § 7806. Budget of Service

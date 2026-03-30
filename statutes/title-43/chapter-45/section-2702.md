@@ -3,9 +3,9 @@ title: "Section 2702 - Reimbursement of States for expenses"
 usc_title: 43
 usc_section: "2702"
 chapter: 45
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 2702"
-generated_at: "2026-03-30T01:25:47.078Z"
+generated_at: "2026-03-30T01:29:57.392Z"
 ---
 
 # § 2702. Reimbursement of States for expenses

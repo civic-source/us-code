@@ -3,9 +3,9 @@ title: "Section 409 - Renumbered § 407]"
 usc_title: 23
 usc_section: "409"
 chapter: 4
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "23 U.S.C. § 409"
-generated_at: "2026-03-30T01:25:05.283Z"
+generated_at: "2026-03-30T01:27:56.965Z"
 ---
 
 # [§ 409. Renumbered § 407]

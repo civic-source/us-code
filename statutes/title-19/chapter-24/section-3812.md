@@ -3,9 +3,9 @@ title: "Section 3812 - Interests of small business"
 usc_title: 19
 usc_section: "3812"
 chapter: 24
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "19 U.S.C. § 3812"
-generated_at: "2026-03-30T01:25:02.365Z"
+generated_at: "2026-03-30T01:27:44.969Z"
 ---
 
 # § 3812. Interests of small business

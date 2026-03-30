@@ -3,9 +3,9 @@ title: "Section 1157 - North Pacific Fur Seal Commission; appointment of United 
 usc_title: 16
 usc_section: "1157"
 chapter: 24
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 1157"
-generated_at: "2026-03-30T01:24:57.388Z"
+generated_at: "2026-03-30T01:27:49.910Z"
 ---
 
 # § 1157. North Pacific Fur Seal Commission; appointment of United States Commissioner, Deputy Commissioner, and Advisors; duties, compensation, and travel expenses

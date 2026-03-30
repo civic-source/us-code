@@ -3,9 +3,9 @@ title: "Section 213 - Exemptions"
 usc_title: 29
 usc_section: "213"
 chapter: 8
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "29 U.S.C. § 213"
-generated_at: "2026-03-30T01:25:19.567Z"
+generated_at: "2026-03-30T01:28:37.277Z"
 ---
 
 # § 213. Exemptions

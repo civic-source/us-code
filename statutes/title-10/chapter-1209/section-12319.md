@@ -3,9 +3,9 @@ title: "Section 12319 - Ready Reserve: muster duty"
 usc_title: 10
 usc_section: "12319"
 chapter: 1209
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 12319"
-generated_at: "2026-03-30T01:24:39.048Z"
+generated_at: "2026-03-30T01:27:06.555Z"
 ---
 
 # § 12319. Ready Reserve: muster duty

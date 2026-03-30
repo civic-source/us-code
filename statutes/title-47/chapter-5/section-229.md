@@ -3,9 +3,9 @@ title: "Section 229 - Communications Assistance for Law Enforcement Act complian
 usc_title: 47
 usc_section: "229"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "47 U.S.C. § 229"
-generated_at: "2026-03-30T01:26:00.522Z"
+generated_at: "2026-03-30T01:30:39.070Z"
 ---
 
 # § 229. Communications Assistance for Law Enforcement Act compliance

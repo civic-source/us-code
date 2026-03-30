@@ -3,9 +3,9 @@ title: "Section 824t - Electricity market transparency rules"
 usc_title: 16
 usc_section: "824t"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 824t"
-generated_at: "2026-03-30T01:24:57.371Z"
+generated_at: "2026-03-30T01:27:49.892Z"
 ---
 
 # § 824t. Electricity market transparency rules

@@ -3,9 +3,9 @@ title: "Section 8241 - Definitions"
 usc_title: 42
 usc_section: "8241"
 chapter: 91
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 8241"
-generated_at: "2026-03-30T01:25:56.425Z"
+generated_at: "2026-03-30T01:30:23.482Z"
 ---
 
 # § 8241. Definitions

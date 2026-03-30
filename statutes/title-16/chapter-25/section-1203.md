@@ -3,9 +3,9 @@ title: "Section 1203 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1203"
 chapter: 25
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 1203"
-generated_at: "2026-03-30T01:24:57.388Z"
+generated_at: "2026-03-30T01:27:49.911Z"
 ---
 
 # § 1203. Authorization of appropriations

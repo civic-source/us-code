@@ -3,9 +3,9 @@ title: "Section 1571 - Prohibitions relating to interstate commerce in certain s
 usc_title: 7
 usc_section: "1571"
 chapter: 37
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 1571"
-generated_at: "2026-03-30T01:24:33.297Z"
+generated_at: "2026-03-30T01:27:22.597Z"
 ---
 
 # § 1571. Prohibitions relating to interstate commerce in certain seeds

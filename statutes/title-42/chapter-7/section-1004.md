@@ -3,9 +3,9 @@ title: "Section 1004 - Disqualifications"
 usc_title: 42
 usc_section: "1004"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 1004"
-generated_at: "2026-03-30T01:25:56.024Z"
+generated_at: "2026-03-30T01:30:23.095Z"
 ---
 
 # § 1004. Disqualifications

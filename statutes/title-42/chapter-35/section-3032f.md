@@ -3,9 +3,9 @@ title: "Section 3032f - Demonstration, support, and research projects for multig
 usc_title: 42
 usc_section: "3032f"
 chapter: 35
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 3032f"
-generated_at: "2026-03-30T01:25:56.272Z"
+generated_at: "2026-03-30T01:30:23.335Z"
 ---
 
 # § 3032f. Demonstration, support, and research projects for multigenerational and civic engagement activities

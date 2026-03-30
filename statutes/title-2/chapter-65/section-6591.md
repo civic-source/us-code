@@ -3,9 +3,9 @@ title: "Section 6591 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3
 usc_title: 2
 usc_section: "6591"
 chapter: 65
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 6591"
-generated_at: "2026-03-30T01:24:23.826Z"
+generated_at: "2026-03-30T01:26:39.672Z"
 ---
 
 # § 6591. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(H) , Dec. 20, 2019 , 133 Stat. 2776

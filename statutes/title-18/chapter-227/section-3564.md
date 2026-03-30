@@ -3,9 +3,9 @@ title: "Section 3564 - Running of a term of probation"
 usc_title: 18
 usc_section: "3564"
 chapter: 227
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 3564"
-generated_at: "2026-03-30T01:24:51.200Z"
+generated_at: "2026-03-30T01:27:46.469Z"
 ---
 
 # § 3564. Running of a term of probation

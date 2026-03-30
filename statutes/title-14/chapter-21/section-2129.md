@@ -3,9 +3,9 @@ title: "Section 2129 - Aviation cadets; appointment as Reserve officers"
 usc_title: 14
 usc_section: "2129"
 chapter: 21
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "14 U.S.C. § 2129"
-generated_at: "2026-03-30T01:24:41.513Z"
+generated_at: "2026-03-30T01:27:25.075Z"
 ---
 
 # § 2129. Aviation cadets; appointment as Reserve officers

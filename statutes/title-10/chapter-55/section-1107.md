@@ -3,9 +3,9 @@ title: "Section 1107 - Notice of use of an investigational new drug or a drug un
 usc_title: 10
 usc_section: "1107"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 1107"
-generated_at: "2026-03-30T01:24:38.938Z"
+generated_at: "2026-03-30T01:27:06.442Z"
 ---
 
 # § 1107. Notice of use of an investigational new drug or a drug unapproved for its applied use

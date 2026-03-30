@@ -3,9 +3,9 @@ title: "Section 402b - Basic needs allowance for members on active service in th
 usc_title: 37
 usc_section: "402b"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "37 U.S.C. § 402b"
-generated_at: "2026-03-30T01:25:36.161Z"
+generated_at: "2026-03-30T01:29:32.018Z"
 ---
 
 # § 402b. Basic needs allowance for members on active service in the Armed Forces

@@ -3,9 +3,9 @@ title: "Section 6210 - Preservation of American jobs"
 usc_title: 22
 usc_section: "6210"
 chapter: 71
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 6210"
-generated_at: "2026-03-30T01:25:10.660Z"
+generated_at: "2026-03-30T01:28:10.416Z"
 ---
 
 # § 6210. Preservation of American jobs

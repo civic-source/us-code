@@ -3,9 +3,9 @@ title: "Section 728a - Training and services for employers"
 usc_title: 29
 usc_section: "728a"
 chapter: 16
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "29 U.S.C. § 728a"
-generated_at: "2026-03-30T01:25:19.579Z"
+generated_at: "2026-03-30T01:28:37.294Z"
 ---
 
 # § 728a. Training and services for employers

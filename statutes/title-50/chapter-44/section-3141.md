@@ -3,9 +3,9 @@ title: "Section 3141 - Operational files of the Central Intelligence Agency"
 usc_title: 50
 usc_section: "3141"
 chapter: 44
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 3141"
-generated_at: "2026-03-30T01:26:05.065Z"
+generated_at: "2026-03-30T01:30:28.144Z"
 ---
 
 # § 3141. Operational files of the Central Intelligence Agency

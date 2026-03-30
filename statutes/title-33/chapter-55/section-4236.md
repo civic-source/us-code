@@ -3,9 +3,9 @@ title: "Section 4236 - Authorization of appropriations"
 usc_title: 33
 usc_section: "4236"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 4236"
-generated_at: "2026-03-30T01:25:29.865Z"
+generated_at: "2026-03-30T01:29:02.793Z"
 ---
 
 # § 4236. Authorization of appropriations

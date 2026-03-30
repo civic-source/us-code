@@ -3,9 +3,9 @@ title: "Section 4534 - Obsolete references in existing law to basic pay rates"
 usc_title: 2
 usc_section: "4534"
 chapter: 45
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 4534"
-generated_at: "2026-03-30T01:24:23.818Z"
+generated_at: "2026-03-30T01:26:39.663Z"
 ---
 
 # § 4534. Obsolete references in existing law to basic pay rates

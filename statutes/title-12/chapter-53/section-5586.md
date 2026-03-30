@@ -3,9 +3,9 @@ title: "Section 5586 - Interim authority of the Secretary"
 usc_title: 12
 usc_section: "5586"
 chapter: 53
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 5586"
-generated_at: "2026-03-30T01:24:44.704Z"
+generated_at: "2026-03-30T01:27:40.471Z"
 ---
 
 # § 5586. Interim authority of the Secretary

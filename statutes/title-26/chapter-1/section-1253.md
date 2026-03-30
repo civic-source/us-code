@@ -3,9 +3,9 @@ title: "Section 1253 - Transfers of franchises, trademarks, and trade names"
 usc_title: 26
 usc_section: "1253"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 1253"
-generated_at: "2026-03-30T01:25:25.136Z"
+generated_at: "2026-03-30T01:28:57.478Z"
 ---
 
 # § 1253. Transfers of franchises, trademarks, and trade names

@@ -3,9 +3,9 @@ title: "Section 3321 - Time limitation for use of and eligibility for entitlemen
 usc_title: 38
 usc_section: "3321"
 chapter: 33
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 3321"
-generated_at: "2026-03-30T01:25:34.333Z"
+generated_at: "2026-03-30T01:29:50.753Z"
 ---
 
 # § 3321. Time limitation for use of and eligibility for entitlement

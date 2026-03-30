@@ -3,9 +3,9 @@ title: "Section 658d - Legislation subject to point of order"
 usc_title: 2
 usc_section: "658d"
 chapter: 17
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 658d"
-generated_at: "2026-03-30T01:24:23.793Z"
+generated_at: "2026-03-30T01:26:39.635Z"
 ---
 
 # § 658d. Legislation subject to point of order

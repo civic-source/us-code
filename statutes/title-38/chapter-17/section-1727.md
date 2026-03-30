@@ -3,9 +3,9 @@ title: "Section 1727 - Persons eligible under prior law"
 usc_title: 38
 usc_section: "1727"
 chapter: 17
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 1727"
-generated_at: "2026-03-30T01:25:34.315Z"
+generated_at: "2026-03-30T01:29:50.734Z"
 ---
 
 # § 1727. Persons eligible under prior law

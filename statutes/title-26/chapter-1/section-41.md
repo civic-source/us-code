@@ -3,9 +3,9 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-30T01:25:24.997Z"
+generated_at: "2026-03-30T01:28:57.304Z"
 ---
 
 # § 41. Credit for increasing research activities

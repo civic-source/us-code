@@ -3,9 +3,9 @@ title: "Section 2455 - Repealed or Transferred"
 usc_title: 42
 usc_section: "2455"
 chapter: 26
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 2455"
-generated_at: "2026-03-30T01:25:56.261Z"
+generated_at: "2026-03-30T01:30:23.324Z"
 ---
 
 # § 2455. Repealed or Transferred

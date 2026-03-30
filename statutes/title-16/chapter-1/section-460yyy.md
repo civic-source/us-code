@@ -3,9 +3,9 @@ title: "Section 460yyy - Definitions"
 usc_title: 16
 usc_section: "460yyy"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 460yyy"
-generated_at: "2026-03-30T01:24:57.318Z"
+generated_at: "2026-03-30T01:27:49.840Z"
 ---
 
 # § 460yyy. Definitions

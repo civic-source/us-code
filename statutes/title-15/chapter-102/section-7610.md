@@ -3,9 +3,9 @@ title: "Section 7610 - Definitions"
 usc_title: 15
 usc_section: "7610"
 chapter: 102
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 7610"
-generated_at: "2026-03-30T01:24:47.174Z"
+generated_at: "2026-03-30T01:27:29.357Z"
 ---
 
 # § 7610. Definitions

@@ -3,9 +3,9 @@ title: "Section 1904 - Plans of insurance"
 usc_title: 38
 usc_section: "1904"
 chapter: 19
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 1904"
-generated_at: "2026-03-30T01:25:34.318Z"
+generated_at: "2026-03-30T01:29:50.737Z"
 ---
 
 # § 1904. Plans of insurance

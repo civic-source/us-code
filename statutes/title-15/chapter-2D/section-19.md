@@ -3,9 +3,9 @@ title: "Section 19 - Separability"
 usc_title: 15
 usc_section: "19"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 19"
-generated_at: "2026-03-30T01:24:47.026Z"
+generated_at: "2026-03-30T01:27:29.187Z"
 ---
 
 # § 80b–19. Separability

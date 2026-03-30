@@ -3,9 +3,9 @@ title: "Section 1501 - Purpose and scope of application"
 usc_title: 11
 usc_section: "1501"
 chapter: 15
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "11 U.S.C. § 1501"
-generated_at: "2026-03-30T01:24:41.847Z"
+generated_at: "2026-03-30T01:27:30.943Z"
 ---
 
 # § 1501. Purpose and scope of application

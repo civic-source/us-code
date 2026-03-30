@@ -3,9 +3,9 @@ title: "Section 1592g - Payment of annual sums to local authorities in lieu of t
 usc_title: 42
 usc_section: "1592g"
 chapter: 9
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 1592g"
-generated_at: "2026-03-30T01:25:56.203Z"
+generated_at: "2026-03-30T01:30:23.269Z"
 ---
 
 # § 1592g. Payment of annual sums to local authorities in lieu of taxes

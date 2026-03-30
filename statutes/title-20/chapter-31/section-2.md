@@ -3,9 +3,9 @@ title: "Section 2 - Review of applications"
 usc_title: 20
 usc_section: "2"
 chapter: 31
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T01:24:53.886Z"
+generated_at: "2026-03-30T01:27:52.116Z"
 ---
 
 # § 1231b–2. Review of applications

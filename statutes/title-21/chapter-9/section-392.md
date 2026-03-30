@@ -3,9 +3,9 @@ title: "Section 392 - Exemption of meats and meat food products"
 usc_title: 21
 usc_section: "392"
 chapter: 9
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "21 U.S.C. § 392"
-generated_at: "2026-03-30T01:25:07.462Z"
+generated_at: "2026-03-30T01:27:58.390Z"
 ---
 
 # § 392. Exemption of meats and meat food products

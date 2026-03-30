@@ -3,9 +3,9 @@ title: "Section 891h - Authorization of appropriations"
 usc_title: 33
 usc_section: "891h"
 chapter: 17
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 891h"
-generated_at: "2026-03-30T01:25:29.799Z"
+generated_at: "2026-03-30T01:29:02.720Z"
 ---
 
 # § 891h. Authorization of appropriations

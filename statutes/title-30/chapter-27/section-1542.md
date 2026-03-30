@@ -3,9 +3,9 @@ title: "Section 1542 - Regulations"
 usc_title: 30
 usc_section: "1542"
 chapter: 27
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 1542"
-generated_at: "2026-03-30T01:25:13.916Z"
+generated_at: "2026-03-30T01:28:13.126Z"
 ---
 
 # § 1542. Regulations

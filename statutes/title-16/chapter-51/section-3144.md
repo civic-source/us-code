@@ -3,9 +3,9 @@ title: "Section 3144 - Wilderness portion of study"
 usc_title: 16
 usc_section: "3144"
 chapter: 51
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 3144"
-generated_at: "2026-03-30T01:24:57.438Z"
+generated_at: "2026-03-30T01:27:49.959Z"
 ---
 
 # § 3144. Wilderness portion of study

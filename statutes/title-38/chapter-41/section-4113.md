@@ -3,9 +3,9 @@ title: "Section 4113 - Transition Assistance Program personnel"
 usc_title: 38
 usc_section: "4113"
 chapter: 41
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 4113"
-generated_at: "2026-03-30T01:25:34.345Z"
+generated_at: "2026-03-30T01:29:50.765Z"
 ---
 
 # § 4113. Transition Assistance Program personnel

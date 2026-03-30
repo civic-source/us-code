@@ -3,9 +3,9 @@ title: "Section 2702 - Research, development, and demonstration program"
 usc_title: 10
 usc_section: "2702"
 chapter: 160
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 2702"
-generated_at: "2026-03-30T01:24:38.984Z"
+generated_at: "2026-03-30T01:27:06.491Z"
 ---
 
 # § 2702. Research, development, and demonstration program

@@ -3,9 +3,9 @@ title: "Section 1836 - Care and coordination teams"
 usc_title: 38
 usc_section: "1836"
 chapter: 18
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 1836"
-generated_at: "2026-03-30T01:25:34.318Z"
+generated_at: "2026-03-30T01:29:50.737Z"
 ---
 
 # § 1836. Care and coordination teams

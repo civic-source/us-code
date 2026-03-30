@@ -3,9 +3,9 @@ title: "Section 12521 - Increased penalties for drug-dealing in “drug-free” 
 usc_title: 34
 usc_section: "12521"
 chapter: 121
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "34 U.S.C. § 12521"
-generated_at: "2026-03-30T01:25:28.808Z"
+generated_at: "2026-03-30T01:29:17.459Z"
 ---
 
 # § 12521. Increased penalties for drug-dealing in “drug-free” zones

@@ -3,9 +3,9 @@ title: "Section 100731 - Findings and declaration"
 usc_title: 54
 usc_section: "100731"
 chapter: 1007
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "54 U.S.C. § 100731"
-generated_at: "2026-03-30T01:26:17.903Z"
+generated_at: "2026-03-30T01:30:48.335Z"
 ---
 
 # § 100731. Findings and declaration

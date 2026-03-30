@@ -3,9 +3,9 @@ title: "Section 17931 - Application of security provisions and penalties to busi
 usc_title: 42
 usc_section: "17931"
 chapter: 156
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 17931"
-generated_at: "2026-03-30T01:25:56.590Z"
+generated_at: "2026-03-30T01:30:23.640Z"
 ---
 
 # § 17931. Application of security provisions and penalties to business associates of covered entities; annual guidance on security provisions

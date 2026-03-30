@@ -3,9 +3,9 @@ title: "Section 1081 - Contracts for medical care for spouses and children: revi
 usc_title: 10
 usc_section: "1081"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 1081"
-generated_at: "2026-03-30T01:24:38.935Z"
+generated_at: "2026-03-30T01:27:06.440Z"
 ---
 
 # § 1081. Contracts for medical care for spouses and children: review and adjustment of payments

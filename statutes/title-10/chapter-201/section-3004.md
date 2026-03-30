@@ -3,9 +3,9 @@ title: "Section 3004 - Head of an agency"
 usc_title: 10
 usc_section: "3004"
 chapter: 201
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 3004"
-generated_at: "2026-03-30T01:24:38.995Z"
+generated_at: "2026-03-30T01:27:06.501Z"
 ---
 
 # § 3004. Head of an agency

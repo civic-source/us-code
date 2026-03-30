@@ -3,9 +3,9 @@ title: "Section 1098ee - Definitions"
 usc_title: 20
 usc_section: "1098ee"
 chapter: 28
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 1098ee"
-generated_at: "2026-03-30T01:24:53.872Z"
+generated_at: "2026-03-30T01:27:52.100Z"
 ---
 
 # § 1098ee. Definitions

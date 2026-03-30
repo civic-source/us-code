@@ -3,9 +3,9 @@ title: "Section 118c - National Defense Science and Technology Strategy"
 usc_title: 10
 usc_section: "118c"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 118c"
-generated_at: "2026-03-30T01:24:38.885Z"
+generated_at: "2026-03-30T01:27:06.384Z"
 ---
 
 # § 118c. National Defense Science and Technology Strategy

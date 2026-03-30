@@ -3,9 +3,9 @@ title: "Section 204c - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "204c"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 204c"
-generated_at: "2026-03-30T01:24:57.238Z"
+generated_at: "2026-03-30T01:27:49.764Z"
 ---
 
 # § 204c. Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties

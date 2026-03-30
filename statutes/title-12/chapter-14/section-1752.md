@@ -3,9 +3,9 @@ title: "Section 1752 - Definitions"
 usc_title: 12
 usc_section: "1752"
 chapter: 14
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 1752"
-generated_at: "2026-03-30T01:24:44.591Z"
+generated_at: "2026-03-30T01:27:40.358Z"
 ---
 
 # § 1752. Definitions

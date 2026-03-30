@@ -3,9 +3,9 @@ title: "Section 5906 - Availability of legal assistance at Department facilities
 usc_title: 38
 usc_section: "5906"
 chapter: 59
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 5906"
-generated_at: "2026-03-30T01:25:34.352Z"
+generated_at: "2026-03-30T01:29:50.772Z"
 ---
 
 # § 5906. Availability of legal assistance at Department facilities

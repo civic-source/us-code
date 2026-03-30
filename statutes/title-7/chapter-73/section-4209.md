@@ -3,9 +3,9 @@ title: "Section 4209 - Prohibition on maintenance of actions"
 usc_title: 7
 usc_section: "4209"
 chapter: 73
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 4209"
-generated_at: "2026-03-30T01:24:33.448Z"
+generated_at: "2026-03-30T01:27:22.666Z"
 ---
 
 # § 4209. Prohibition on maintenance of actions

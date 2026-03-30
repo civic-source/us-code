@@ -3,9 +3,9 @@ title: "Section 618 - Timber contract payment modification"
 usc_title: 16
 usc_section: "618"
 chapter: 4
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 618"
-generated_at: "2026-03-30T01:24:57.345Z"
+generated_at: "2026-03-30T01:27:49.866Z"
 ---
 
 # § 618. Timber contract payment modification

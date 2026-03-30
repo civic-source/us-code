@@ -3,9 +3,9 @@ title: "Section 226 - Cooperative public and private sector program for providin
 usc_title: 20
 usc_section: "226"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 226"
-generated_at: "2026-03-30T01:24:53.824Z"
+generated_at: "2026-03-30T01:27:52.046Z"
 ---
 
 # § 226. Cooperative public and private sector program for providing scholarships to students from the Caribbean and Central America

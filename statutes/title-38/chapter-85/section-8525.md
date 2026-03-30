@@ -3,9 +3,9 @@ title: "Section 8525 - Court actions"
 usc_title: 38
 usc_section: "8525"
 chapter: 85
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 8525"
-generated_at: "2026-03-30T01:25:34.369Z"
+generated_at: "2026-03-30T01:29:50.790Z"
 ---
 
 # § 8525. Court actions

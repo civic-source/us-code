@@ -3,9 +3,9 @@ title: "Section 3304 - Post-award debriefings"
 usc_title: 10
 usc_section: "3304"
 chapter: 241
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 3304"
-generated_at: "2026-03-30T01:24:38.998Z"
+generated_at: "2026-03-30T01:27:06.505Z"
 ---
 
 # § 3304. Post-award debriefings

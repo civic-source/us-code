@@ -3,9 +3,9 @@ title: "Section 2242 - Farm Credit Administration Board"
 usc_title: 12
 usc_section: "2242"
 chapter: 23
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 2242"
-generated_at: "2026-03-30T01:24:44.633Z"
+generated_at: "2026-03-30T01:27:40.399Z"
 ---
 
 # § 2242. Farm Credit Administration Board

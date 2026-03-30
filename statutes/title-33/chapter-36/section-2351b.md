@@ -3,9 +3,9 @@ title: "Section 2351b - Federal breakwaters and jetties"
 usc_title: 33
 usc_section: "2351b"
 chapter: 36
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 2351b"
-generated_at: "2026-03-30T01:25:29.847Z"
+generated_at: "2026-03-30T01:29:02.774Z"
 ---
 
 # § 2351b. Federal breakwaters and jetties

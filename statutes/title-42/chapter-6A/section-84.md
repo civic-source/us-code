@@ -3,9 +3,9 @@ title: "Section 84 - Prohibition on promotion of certain activities"
 usc_title: 42
 usc_section: "84"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 84"
-generated_at: "2026-03-30T01:25:55.958Z"
+generated_at: "2026-03-30T01:30:23.032Z"
 ---
 
 # § 300ff–84. Prohibition on promotion of certain activities

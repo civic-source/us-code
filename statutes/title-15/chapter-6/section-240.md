@@ -3,9 +3,9 @@ title: "Section 240 - Rules and regulations"
 usc_title: 15
 usc_section: "240"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 240"
-generated_at: "2026-03-30T01:24:47.030Z"
+generated_at: "2026-03-30T01:27:29.190Z"
 ---
 
 # § 240. Rules and regulations

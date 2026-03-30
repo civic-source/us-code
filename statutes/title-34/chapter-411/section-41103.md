@@ -3,9 +3,9 @@ title: "Section 41103 - Processing of name checks and background records for non
 usc_title: 34
 usc_section: "41103"
 chapter: 411
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "34 U.S.C. § 41103"
-generated_at: "2026-03-30T01:25:28.831Z"
+generated_at: "2026-03-30T01:29:17.484Z"
 ---
 
 # § 41103. Processing of name checks and background records for noncriminal employment, licensing, and humanitarian purposes by INTERPOL

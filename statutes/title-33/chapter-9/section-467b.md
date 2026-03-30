@@ -3,9 +3,9 @@ title: "Section 467b - Investigation reports to Governors"
 usc_title: 33
 usc_section: "467b"
 chapter: 9
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 467b"
-generated_at: "2026-03-30T01:25:29.783Z"
+generated_at: "2026-03-30T01:29:02.704Z"
 ---
 
 # § 467b. Investigation reports to Governors

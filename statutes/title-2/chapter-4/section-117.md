@@ -3,9 +3,9 @@ title: "Section 117 - Transferred"
 usc_title: 2
 usc_section: "117"
 chapter: 4
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 117"
-generated_at: "2026-03-30T01:24:23.780Z"
+generated_at: "2026-03-30T01:26:39.621Z"
 ---
 
 # § 117. Transferred

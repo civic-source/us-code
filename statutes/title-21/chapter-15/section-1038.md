@@ -3,9 +3,9 @@ title: "Section 1038 - Cooperation with appropriate State and other governmental
 usc_title: 21
 usc_section: "1038"
 chapter: 15
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "21 U.S.C. § 1038"
-generated_at: "2026-03-30T01:25:07.479Z"
+generated_at: "2026-03-30T01:27:58.409Z"
 ---
 
 # § 1038. Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement

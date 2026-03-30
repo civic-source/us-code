@@ -3,9 +3,9 @@ title: "Section 3610 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3610"
 chapter: 49
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 3610"
-generated_at: "2026-03-30T01:25:29.859Z"
+generated_at: "2026-03-30T01:29:02.788Z"
 ---
 
 # § 3610. Authorization of appropriations

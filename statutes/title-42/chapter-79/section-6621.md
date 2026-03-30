@@ -3,9 +3,9 @@ title: "Section 6621 - Coordination of Federal STEM education"
 usc_title: 42
 usc_section: "6621"
 chapter: 79
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 6621"
-generated_at: "2026-03-30T01:25:56.352Z"
+generated_at: "2026-03-30T01:30:23.415Z"
 ---
 
 # § 6621. Coordination of Federal STEM education

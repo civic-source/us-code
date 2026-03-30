@@ -3,9 +3,9 @@ title: "Section 910 - Congressional Record: subscriptions; sale of current, indi
 usc_title: 44
 usc_section: "910"
 chapter: 9
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "44 U.S.C. § 910"
-generated_at: "2026-03-30T01:25:38.434Z"
+generated_at: "2026-03-30T01:30:00.551Z"
 ---
 
 # § 910. Congressional Record: subscriptions; sale of current, individual numbers, and bound sets; postage rate

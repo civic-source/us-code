@@ -3,9 +3,9 @@ title: "Section 5322a - Allowance for compensation of interns in member offices"
 usc_title: 2
 usc_section: "5322a"
 chapter: 53
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 5322a"
-generated_at: "2026-03-30T01:24:23.822Z"
+generated_at: "2026-03-30T01:26:39.667Z"
 ---
 
 # § 5322a. Allowance for compensation of interns in member offices

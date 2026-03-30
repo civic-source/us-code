@@ -3,9 +3,9 @@ title: "Section 10251 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10251"
 chapter: 108
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 10251"
-generated_at: "2026-03-30T01:25:56.472Z"
+generated_at: "2026-03-30T01:30:23.528Z"
 ---
 
 # § 10251. Authorization of appropriations

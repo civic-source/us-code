@@ -3,9 +3,9 @@ title: "Section 506 - Mass mailing sent by House Members"
 usc_title: 2
 usc_section: "506"
 chapter: 16
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 506"
-generated_at: "2026-03-30T01:24:23.790Z"
+generated_at: "2026-03-30T01:26:39.631Z"
 ---
 
 # § 506. Mass mailing sent by House Members

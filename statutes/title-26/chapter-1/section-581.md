@@ -3,9 +3,9 @@ title: "Section 581 - Definition of bank"
 usc_title: 26
 usc_section: "581"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 581"
-generated_at: "2026-03-30T01:25:25.099Z"
+generated_at: "2026-03-30T01:28:57.434Z"
 ---
 
 # § 581. Definition of bank

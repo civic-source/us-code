@@ -3,9 +3,9 @@ title: "Section 3244 - Annual report on reporting requirements"
 usc_title: 50
 usc_section: "3244"
 chapter: 44
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 3244"
-generated_at: "2026-03-30T01:26:05.070Z"
+generated_at: "2026-03-30T01:30:28.149Z"
 ---
 
 # § 3244. Annual report on reporting requirements

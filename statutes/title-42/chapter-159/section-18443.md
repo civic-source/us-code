@@ -3,9 +3,9 @@ title: "Section 18443 - Eligibility for service of individual currently serving 
 usc_title: 42
 usc_section: "18443"
 chapter: 159
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 18443"
-generated_at: "2026-03-30T01:25:56.601Z"
+generated_at: "2026-03-30T01:30:23.650Z"
 ---
 
 # § 18443. Eligibility for service of individual currently serving as Administrator of NASA

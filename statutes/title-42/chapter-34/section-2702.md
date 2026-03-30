@@ -3,9 +3,9 @@ title: "Section 2702 - Omitted"
 usc_title: 42
 usc_section: "2702"
 chapter: 34
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 2702"
-generated_at: "2026-03-30T01:25:56.262Z"
+generated_at: "2026-03-30T01:30:23.325Z"
 ---
 
 # § 2702. Omitted

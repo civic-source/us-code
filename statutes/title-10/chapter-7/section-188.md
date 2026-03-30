@@ -3,9 +3,9 @@ title: "Section 188 - Interagency Council on the Strategic Capability of the Nat
 usc_title: 10
 usc_section: "188"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 188"
-generated_at: "2026-03-30T01:24:38.894Z"
+generated_at: "2026-03-30T01:27:06.392Z"
 ---
 
 # § 188. Interagency Council on the Strategic Capability of the National Laboratories

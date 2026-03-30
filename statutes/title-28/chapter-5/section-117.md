@@ -3,9 +3,9 @@ title: "Section 117 - Oregon"
 usc_title: 28
 usc_section: "117"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "28 U.S.C. § 117"
-generated_at: "2026-03-30T01:25:13.452Z"
+generated_at: "2026-03-30T01:28:18.393Z"
 ---
 
 # § 117. Oregon

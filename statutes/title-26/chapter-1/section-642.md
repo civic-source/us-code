@@ -3,9 +3,9 @@ title: "Section 642 - Special rules for credits and deductions"
 usc_title: 26
 usc_section: "642"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 642"
-generated_at: "2026-03-30T01:25:25.102Z"
+generated_at: "2026-03-30T01:28:57.437Z"
 ---
 
 # § 642. Special rules for credits and deductions

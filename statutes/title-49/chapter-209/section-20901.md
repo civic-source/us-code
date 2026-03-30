@@ -3,9 +3,9 @@ title: "Section 20901 - Reports"
 usc_title: 49
 usc_section: "20901"
 chapter: 209
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "49 U.S.C. § 20901"
-generated_at: "2026-03-30T01:26:15.811Z"
+generated_at: "2026-03-30T01:30:46.226Z"
 ---
 
 # § 20901. Reports

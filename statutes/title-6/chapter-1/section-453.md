@@ -3,9 +3,9 @@ title: "Section 453 - Use of appropriated funds"
 usc_title: 6
 usc_section: "453"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 453"
-generated_at: "2026-03-30T01:24:28.999Z"
+generated_at: "2026-03-30T01:26:58.008Z"
 ---
 
 # § 453. Use of appropriated funds

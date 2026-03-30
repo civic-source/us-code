@@ -3,9 +3,9 @@ title: "Section 36 - Subdivisions of 10-acre tracts; maximum of placer locations
 usc_title: 30
 usc_section: "36"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 36"
-generated_at: "2026-03-30T01:25:13.886Z"
+generated_at: "2026-03-30T01:28:13.095Z"
 ---
 
 # § 36. Subdivisions of 10-acre tracts; maximum of placer locations; homestead claims of agricultural lands; sale of improvements

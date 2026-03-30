@@ -3,9 +3,9 @@ title: "Section 3 - Priority trail maintenance program"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T01:24:57.342Z"
+generated_at: "2026-03-30T01:27:49.864Z"
 ---
 
 # § 583k–3. Priority trail maintenance program

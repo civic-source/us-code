@@ -3,9 +3,9 @@ title: "Section 1114 - Remedies; infringement; innocent infringement by printers
 usc_title: 15
 usc_section: "1114"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 1114"
-generated_at: "2026-03-30T01:24:47.079Z"
+generated_at: "2026-03-30T01:27:29.245Z"
 ---
 
 # § 1114. Remedies; infringement; innocent infringement by printers and publishers

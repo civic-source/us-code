@@ -3,9 +3,9 @@ title: "Section 6038D - Information with respect to foreign financial assets"
 usc_title: 26
 usc_section: "6038D"
 chapter: 61
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 6038D"
-generated_at: "2026-03-30T01:25:25.196Z"
+generated_at: "2026-03-30T01:28:57.555Z"
 ---
 
 # § 6038D. Information with respect to foreign financial assets

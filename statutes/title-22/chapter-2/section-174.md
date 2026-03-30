@@ -3,9 +3,9 @@ title: "Section 174 - Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774"
 usc_title: 22
 usc_section: "174"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 174"
-generated_at: "2026-03-30T01:25:10.545Z"
+generated_at: "2026-03-30T01:28:10.300Z"
 ---
 
 # §§ 145 to 174. Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774

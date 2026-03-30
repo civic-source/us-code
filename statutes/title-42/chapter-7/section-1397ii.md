@@ -3,9 +3,9 @@ title: "Section 1397ii - Miscellaneous provisions"
 usc_title: 42
 usc_section: "1397ii"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 1397ii"
-generated_at: "2026-03-30T01:25:56.178Z"
+generated_at: "2026-03-30T01:30:23.244Z"
 ---
 
 # § 1397ii. Miscellaneous provisions

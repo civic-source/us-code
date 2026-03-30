@@ -3,9 +3,9 @@ title: "Section 5016 - Statistical reporting of costs and revenues for transport
 usc_title: 12
 usc_section: "5016"
 chapter: 50
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 5016"
-generated_at: "2026-03-30T01:24:44.678Z"
+generated_at: "2026-03-30T01:27:40.446Z"
 ---
 
 # § 5016. Statistical reporting of costs and revenues for transporting checks between reserve banks

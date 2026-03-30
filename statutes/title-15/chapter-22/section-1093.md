@@ -3,9 +3,9 @@ title: "Section 1093 - Registration certificates for marks on principal and supp
 usc_title: 15
 usc_section: "1093"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 1093"
-generated_at: "2026-03-30T01:24:47.078Z"
+generated_at: "2026-03-30T01:27:29.245Z"
 ---
 
 # § 1093. Registration certificates for marks on principal and supplemental registers to be different

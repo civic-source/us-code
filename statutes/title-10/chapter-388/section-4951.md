@@ -3,9 +3,9 @@ title: "Section 4951 - Definitions"
 usc_title: 10
 usc_section: "4951"
 chapter: 388
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 4951"
-generated_at: "2026-03-30T01:24:39.015Z"
+generated_at: "2026-03-30T01:27:06.523Z"
 ---
 
 # § 4951. Definitions

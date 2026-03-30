@@ -3,9 +3,9 @@ title: "Section 12773 - Housing education and organizational support"
 usc_title: 42
 usc_section: "12773"
 chapter: 130
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 12773"
-generated_at: "2026-03-30T01:25:56.515Z"
+generated_at: "2026-03-30T01:30:23.571Z"
 ---
 
 # § 12773. Housing education and organizational support

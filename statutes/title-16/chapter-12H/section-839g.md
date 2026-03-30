@@ -3,9 +3,9 @@ title: "Section 839g - Savings provisions"
 usc_title: 16
 usc_section: "839g"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 839g"
-generated_at: "2026-03-30T01:24:57.381Z"
+generated_at: "2026-03-30T01:27:49.903Z"
 ---
 
 # § 839g. Savings provisions

@@ -3,9 +3,9 @@ title: "Section 29a - Repealed. Oct. 31, 1951, ch. 654, § 1(45) , 65 Stat. 703"
 usc_title: 24
 usc_section: "29a"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "24 U.S.C. § 29a"
-generated_at: "2026-03-30T01:25:04.247Z"
+generated_at: "2026-03-30T01:28:02.075Z"
 ---
 
 # §§ 29, 29a. Repealed. Oct. 31, 1951, ch. 654, § 1(45) , 65 Stat. 703

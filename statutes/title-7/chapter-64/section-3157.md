@@ -3,9 +3,9 @@ title: "Section 3157 - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "3157"
 chapter: 64
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 3157"
-generated_at: "2026-03-30T01:24:33.439Z"
+generated_at: "2026-03-30T01:27:22.657Z"
 ---
 
 # § 3157. Competitive, special, and facilities research grants

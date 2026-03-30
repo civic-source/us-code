@@ -3,9 +3,9 @@ title: "Section 1614 - Timber sale contracts; modification; timber from continge
 usc_title: 43
 usc_section: "1614"
 chapter: 33
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 1614"
-generated_at: "2026-03-30T01:25:47.060Z"
+generated_at: "2026-03-30T01:29:57.376Z"
 ---
 
 # § 1614. Timber sale contracts; modification; timber from contingency area

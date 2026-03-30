@@ -3,9 +3,9 @@ title: "Section 189 - Utilization of Department of Energy national laboratories 
 usc_title: 6
 usc_section: "189"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 189"
-generated_at: "2026-03-30T01:24:28.985Z"
+generated_at: "2026-03-30T01:26:57.993Z"
 ---
 
 # § 189. Utilization of Department of Energy national laboratories and sites in support of homeland security activities

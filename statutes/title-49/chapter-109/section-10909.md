@@ -3,9 +3,9 @@ title: "Section 10909 - Solid waste rail transfer facility land-use exemption"
 usc_title: 49
 usc_section: "10909"
 chapter: 109
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "49 U.S.C. § 10909"
-generated_at: "2026-03-30T01:26:15.796Z"
+generated_at: "2026-03-30T01:30:46.214Z"
 ---
 
 # § 10909. Solid waste rail transfer facility land-use exemption

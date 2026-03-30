@@ -3,9 +3,9 @@ title: "Section 4512 - President and Executive Secretary of Foundation"
 usc_title: 20
 usc_section: "4512"
 chapter: 57
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 4512"
-generated_at: "2026-03-30T01:24:53.913Z"
+generated_at: "2026-03-30T01:27:52.148Z"
 ---
 
 # § 4512. President and Executive Secretary of Foundation

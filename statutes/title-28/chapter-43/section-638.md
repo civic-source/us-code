@@ -3,9 +3,9 @@ title: "Section 638 - Dockets and forms; United States Code; seals"
 usc_title: 28
 usc_section: "638"
 chapter: 43
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "28 U.S.C. § 638"
-generated_at: "2026-03-30T01:25:13.465Z"
+generated_at: "2026-03-30T01:28:18.405Z"
 ---
 
 # § 638. Dockets and forms; United States Code; seals

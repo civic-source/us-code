@@ -3,9 +3,9 @@ title: "Section 698b - Right of use and occupancy of improved property on Big Th
 usc_title: 16
 usc_section: "698b"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 698b"
-generated_at: "2026-03-30T01:24:57.354Z"
+generated_at: "2026-03-30T01:27:49.875Z"
 ---
 
 # § 698b. Right of use and occupancy of improved property on Big Thicket Preserve

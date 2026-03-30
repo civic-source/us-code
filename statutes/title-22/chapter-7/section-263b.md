@@ -3,9 +3,9 @@ title: "Section 263b - Transnational repression accountability and prevention"
 usc_title: 22
 usc_section: "263b"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 263b"
-generated_at: "2026-03-30T01:25:10.552Z"
+generated_at: "2026-03-30T01:28:10.305Z"
 ---
 
 # § 263b. Transnational repression accountability and prevention

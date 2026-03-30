@@ -3,9 +3,9 @@ title: "Section 1062 - Publication"
 usc_title: 15
 usc_section: "1062"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 1062"
-generated_at: "2026-03-30T01:24:47.077Z"
+generated_at: "2026-03-30T01:27:29.244Z"
 ---
 
 # § 1062. Publication

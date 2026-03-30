@@ -3,9 +3,9 @@ title: "Section 3891 - Omitted"
 usc_title: 42
 usc_section: "3891"
 chapter: 47
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 3891"
-generated_at: "2026-03-30T01:25:56.288Z"
+generated_at: "2026-03-30T01:30:23.350Z"
 ---
 
 # §§ 3890, 3891. Omitted

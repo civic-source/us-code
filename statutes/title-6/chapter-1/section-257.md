@@ -3,9 +3,9 @@ title: "Section 257 - Report"
 usc_title: 6
 usc_section: "257"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 257"
-generated_at: "2026-03-30T01:24:28.990Z"
+generated_at: "2026-03-30T01:26:57.998Z"
 ---
 
 # § 257. Report

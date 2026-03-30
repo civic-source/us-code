@@ -3,9 +3,9 @@ title: "Section 4303 - Preparation and contents of statement of appropriations"
 usc_title: 2
 usc_section: "4303"
 chapter: 43
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 4303"
-generated_at: "2026-03-30T01:24:23.817Z"
+generated_at: "2026-03-30T01:26:39.662Z"
 ---
 
 # § 4303. Preparation and contents of statement of appropriations

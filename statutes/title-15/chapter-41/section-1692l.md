@@ -3,9 +3,9 @@ title: "Section 1692l - Administrative enforcement"
 usc_title: 15
 usc_section: "1692l"
 chapter: 41
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 1692l"
-generated_at: "2026-03-30T01:24:47.107Z"
+generated_at: "2026-03-30T01:27:29.278Z"
 ---
 
 # § 1692l. Administrative enforcement

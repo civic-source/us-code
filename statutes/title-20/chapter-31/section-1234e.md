@@ -3,9 +3,9 @@ title: "Section 1234e - Cease and desist orders"
 usc_title: 20
 usc_section: "1234e"
 chapter: 31
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 1234e"
-generated_at: "2026-03-30T01:24:53.888Z"
+generated_at: "2026-03-30T01:27:52.117Z"
 ---
 
 # § 1234e. Cease and desist orders

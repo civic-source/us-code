@@ -3,9 +3,9 @@ title: "Section 6050Q - Certain long-term care benefits"
 usc_title: 26
 usc_section: "6050Q"
 chapter: 61
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 6050Q"
-generated_at: "2026-03-30T01:25:25.199Z"
+generated_at: "2026-03-30T01:28:57.559Z"
 ---
 
 # § 6050Q. Certain long-term care benefits

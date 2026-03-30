@@ -3,9 +3,9 @@ title: "Section 1997g - Priorities for use of funds"
 usc_title: 42
 usc_section: "1997g"
 chapter: 21
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 1997g"
-generated_at: "2026-03-30T01:25:56.234Z"
+generated_at: "2026-03-30T01:30:23.298Z"
 ---
 
 # § 1997g. Priorities for use of funds

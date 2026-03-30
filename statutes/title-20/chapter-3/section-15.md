@@ -3,9 +3,9 @@ title: "Section 15 - Authorization of appropriations"
 usc_title: 20
 usc_section: "15"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-03-30T01:24:53.819Z"
+generated_at: "2026-03-30T01:27:52.043Z"
 ---
 
 # § 80q–15. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 13367 - Coal exports"
 usc_title: 42
 usc_section: "13367"
 chapter: 134
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 13367"
-generated_at: "2026-03-30T01:25:56.525Z"
+generated_at: "2026-03-30T01:30:23.581Z"
 ---
 
 # § 13367. Coal exports

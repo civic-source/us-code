@@ -3,9 +3,9 @@ title: "Section 41718 - Special rules for Ronald Reagan Washington National Airp
 usc_title: 49
 usc_section: "41718"
 chapter: 417
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "49 U.S.C. § 41718"
-generated_at: "2026-03-30T01:26:15.848Z"
+generated_at: "2026-03-30T01:30:46.260Z"
 ---
 
 # § 41718. Special rules for Ronald Reagan Washington National Airport

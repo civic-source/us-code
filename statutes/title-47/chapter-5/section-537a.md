@@ -3,9 +3,9 @@ title: "Section 537a - Carriage of certain programming"
 usc_title: 47
 usc_section: "537a"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "47 U.S.C. § 537a"
-generated_at: "2026-03-30T01:26:00.542Z"
+generated_at: "2026-03-30T01:30:39.090Z"
 ---
 
 # § 537a. Carriage of certain programming

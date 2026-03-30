@@ -3,9 +3,9 @@ title: "Section 4556 - Jurisdiction of courts; injunctions; venue; process; effe
 usc_title: 50
 usc_section: "4556"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 4556"
-generated_at: "2026-03-30T01:26:05.121Z"
+generated_at: "2026-03-30T01:30:28.177Z"
 ---
 
 # § 4556. Jurisdiction of courts; injunctions; venue; process; effect of termination of provisions

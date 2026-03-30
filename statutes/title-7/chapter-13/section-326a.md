@@ -3,9 +3,9 @@ title: "Section 326a - Annual appropriations for Puerto Rico, Virgin Islands, Am
 usc_title: 7
 usc_section: "326a"
 chapter: 13
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 326a"
-generated_at: "2026-03-30T01:24:33.262Z"
+generated_at: "2026-03-30T01:27:22.556Z"
 ---
 
 # § 326a. Annual appropriations for Puerto Rico, Virgin Islands, American Samoa, Guam, Northern Mariana Islands, Federated States of Micronesia, Republic of the Marshall Islands, and Republic of Palau

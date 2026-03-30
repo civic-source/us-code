@@ -3,9 +3,9 @@ title: "Section 3991 - Purpose"
 usc_title: 20
 usc_section: "3991"
 chapter: 52
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 3991"
-generated_at: "2026-03-30T01:24:53.910Z"
+generated_at: "2026-03-30T01:27:52.144Z"
 ---
 
 # § 3991. Purpose

@@ -3,9 +3,9 @@ title: "Section 407 - Reclamation Water Settlements Fund"
 usc_title: 43
 usc_section: "407"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 407"
-generated_at: "2026-03-30T01:25:47.029Z"
+generated_at: "2026-03-30T01:29:57.349Z"
 ---
 
 # § 407. Reclamation Water Settlements Fund

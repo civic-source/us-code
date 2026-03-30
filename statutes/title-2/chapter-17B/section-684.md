@@ -3,9 +3,9 @@ title: "Section 684 - Proposed deferrals of budget authority"
 usc_title: 2
 usc_section: "684"
 chapter: 17
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 684"
-generated_at: "2026-03-30T01:24:23.793Z"
+generated_at: "2026-03-30T01:26:39.635Z"
 ---
 
 # § 684. Proposed deferrals of budget authority

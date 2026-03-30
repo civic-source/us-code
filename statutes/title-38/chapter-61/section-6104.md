@@ -3,9 +3,9 @@ title: "Section 6104 - Forfeiture for treason"
 usc_title: 38
 usc_section: "6104"
 chapter: 61
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 6104"
-generated_at: "2026-03-30T01:25:34.352Z"
+generated_at: "2026-03-30T01:29:50.772Z"
 ---
 
 # § 6104. Forfeiture for treason

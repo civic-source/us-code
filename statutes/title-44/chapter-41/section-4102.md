@@ -3,9 +3,9 @@ title: "Section 4102 - Fees"
 usc_title: 44
 usc_section: "4102"
 chapter: 41
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "44 U.S.C. § 4102"
-generated_at: "2026-03-30T01:25:38.446Z"
+generated_at: "2026-03-30T01:30:00.561Z"
 ---
 
 # § 4102. Fees

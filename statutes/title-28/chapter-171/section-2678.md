@@ -3,9 +3,9 @@ title: "Section 2678 - Attorney fees; penalty"
 usc_title: 28
 usc_section: "2678"
 chapter: 171
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "28 U.S.C. § 2678"
-generated_at: "2026-03-30T01:25:13.481Z"
+generated_at: "2026-03-30T01:28:18.419Z"
 ---
 
 # § 2678. Attorney fees; penalty

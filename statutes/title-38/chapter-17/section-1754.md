@@ -3,9 +3,9 @@ title: "Section 1754 - Reports"
 usc_title: 38
 usc_section: "1754"
 chapter: 17
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 1754"
-generated_at: "2026-03-30T01:25:34.317Z"
+generated_at: "2026-03-30T01:29:50.736Z"
 ---
 
 # § 1754. Reports

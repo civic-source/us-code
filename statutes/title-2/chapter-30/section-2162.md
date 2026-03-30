@@ -3,9 +3,9 @@ title: "Section 2162 - Capitol Power Plant"
 usc_title: 2
 usc_section: "2162"
 chapter: 30
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 2162"
-generated_at: "2026-03-30T01:24:23.814Z"
+generated_at: "2026-03-30T01:26:39.659Z"
 ---
 
 # § 2162. Capitol Power Plant

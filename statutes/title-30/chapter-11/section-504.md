@@ -3,9 +3,9 @@ title: "Section 504 - Power to make arrangements respecting atomic energy materi
 usc_title: 30
 usc_section: "504"
 chapter: 11
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 504"
-generated_at: "2026-03-30T01:25:13.894Z"
+generated_at: "2026-03-30T01:28:13.102Z"
 ---
 
 # § 504. Power to make arrangements respecting atomic energy materials as unaffected

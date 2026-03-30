@@ -3,9 +3,9 @@ title: "Section 263 - Prohibition of trade by President"
 usc_title: 25
 usc_section: "263"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 263"
-generated_at: "2026-03-30T01:25:06.201Z"
+generated_at: "2026-03-30T01:27:56.252Z"
 ---
 
 # § 263. Prohibition of trade by President

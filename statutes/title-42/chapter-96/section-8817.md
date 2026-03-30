@@ -3,9 +3,9 @@ title: "Section 8817 - General requirements regarding financial assistance"
 usc_title: 42
 usc_section: "8817"
 chapter: 96
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 8817"
-generated_at: "2026-03-30T01:25:56.436Z"
+generated_at: "2026-03-30T01:30:23.493Z"
 ---
 
 # § 8817. General requirements regarding financial assistance

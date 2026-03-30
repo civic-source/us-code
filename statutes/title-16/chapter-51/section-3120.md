@@ -3,9 +3,9 @@ title: "Section 3120 - Subsistence and land use decisions"
 usc_title: 16
 usc_section: "3120"
 chapter: 51
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 3120"
-generated_at: "2026-03-30T01:24:57.437Z"
+generated_at: "2026-03-30T01:27:49.959Z"
 ---
 
 # § 3120. Subsistence and land use decisions

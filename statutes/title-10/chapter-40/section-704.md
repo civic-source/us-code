@@ -3,9 +3,9 @@ title: "Section 704 - Use of leave; regulations"
 usc_title: 10
 usc_section: "704"
 chapter: 40
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 704"
-generated_at: "2026-03-30T01:24:38.914Z"
+generated_at: "2026-03-30T01:27:06.417Z"
 ---
 
 # § 704. Use of leave; regulations

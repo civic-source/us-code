@@ -3,9 +3,9 @@ title: "Section 2465 - John Lewis Civil Rights Fellowship Program"
 usc_title: 22
 usc_section: "2465"
 chapter: 33
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 2465"
-generated_at: "2026-03-30T01:25:10.605Z"
+generated_at: "2026-03-30T01:28:10.361Z"
 ---
 
 # § 2465. John Lewis Civil Rights Fellowship Program

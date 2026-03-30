@@ -3,9 +3,9 @@ title: "Section 209 - Extension of public-land laws to certain lands in Oklahoma
 usc_title: 43
 usc_section: "209"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 209"
-generated_at: "2026-03-30T01:25:47.020Z"
+generated_at: "2026-03-30T01:29:57.341Z"
 ---
 
 # § 209. Extension of public-land laws to certain lands in Oklahoma

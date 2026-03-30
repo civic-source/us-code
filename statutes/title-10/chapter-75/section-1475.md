@@ -3,9 +3,9 @@ title: "Section 1475 - Death gratuity: death of members on active duty or inacti
 usc_title: 10
 usc_section: "1475"
 chapter: 75
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 1475"
-generated_at: "2026-03-30T01:24:38.950Z"
+generated_at: "2026-03-30T01:27:06.454Z"
 ---
 
 # § 1475. Death gratuity: death of members on active duty or inactive duty training and of certain other persons

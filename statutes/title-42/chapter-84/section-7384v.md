@@ -3,9 +3,9 @@ title: "Section 7384v - Assistance for claimants and potential claimants"
 usc_title: 42
 usc_section: "7384v"
 chapter: 84
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 7384v"
-generated_at: "2026-03-30T01:25:56.382Z"
+generated_at: "2026-03-30T01:30:23.441Z"
 ---
 
 # § 7384v. Assistance for claimants and potential claimants

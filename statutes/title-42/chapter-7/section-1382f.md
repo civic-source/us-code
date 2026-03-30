@@ -3,9 +3,9 @@ title: "Section 1382f - Cost-of-living adjustments in benefits"
 usc_title: 42
 usc_section: "1382f"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 1382f"
-generated_at: "2026-03-30T01:25:56.050Z"
+generated_at: "2026-03-30T01:30:23.120Z"
 ---
 
 # § 1382f. Cost-of-living adjustments in benefits

@@ -3,9 +3,9 @@ title: "Section 1383a - Written consent for reconcentration of cotton"
 usc_title: 7
 usc_section: "1383a"
 chapter: 35
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 1383a"
-generated_at: "2026-03-30T01:24:33.285Z"
+generated_at: "2026-03-30T01:27:22.582Z"
 ---
 
 # § 1383a. Written consent for reconcentration of cotton

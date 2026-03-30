@@ -3,9 +3,9 @@ title: "Section 1915 - Compromise of customs liabilities"
 usc_title: 18
 usc_section: "1915"
 chapter: 93
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1915"
-generated_at: "2026-03-30T01:24:51.176Z"
+generated_at: "2026-03-30T01:27:46.443Z"
 ---
 
 # § 1915. Compromise of customs liabilities

@@ -3,9 +3,9 @@ title: "Section 844 - Determination by jury of membership in Communist Party, pa
 usc_title: 50
 usc_section: "844"
 chapter: 23
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 844"
-generated_at: "2026-03-30T01:26:05.001Z"
+generated_at: "2026-03-30T01:30:28.108Z"
 ---
 
 # § 844. Determination by jury of membership in Communist Party, participation, or knowledge of purpose

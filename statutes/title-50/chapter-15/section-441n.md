@@ -3,9 +3,9 @@ title: "Section 441n - Transferred"
 usc_title: 50
 usc_section: "441n"
 chapter: 15
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 441n"
-generated_at: "2026-03-30T01:26:05.000Z"
+generated_at: "2026-03-30T01:30:28.105Z"
 ---
 
 # § 441n. Transferred

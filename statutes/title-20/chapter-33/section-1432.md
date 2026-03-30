@@ -3,9 +3,9 @@ title: "Section 1432 - Definitions"
 usc_title: 20
 usc_section: "1432"
 chapter: 33
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 1432"
-generated_at: "2026-03-30T01:24:53.894Z"
+generated_at: "2026-03-30T01:27:52.125Z"
 ---
 
 # § 1432. Definitions

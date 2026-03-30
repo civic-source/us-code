@@ -3,9 +3,9 @@ title: "Section 5352 - General education contract and grant provisions and requi
 usc_title: 25
 usc_section: "5352"
 chapter: 46
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 5352"
-generated_at: "2026-03-30T01:25:06.261Z"
+generated_at: "2026-03-30T01:27:56.328Z"
 ---
 
 # § 5352. General education contract and grant provisions and requirements; school district quality and standards of excellence

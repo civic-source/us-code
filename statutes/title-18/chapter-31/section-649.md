@@ -3,9 +3,9 @@ title: "Section 649 - Custodians failing to deposit moneys; persons affected"
 usc_title: 18
 usc_section: "649"
 chapter: 31
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 649"
-generated_at: "2026-03-30T01:24:51.155Z"
+generated_at: "2026-03-30T01:27:46.419Z"
 ---
 
 # § 649. Custodians failing to deposit moneys; persons affected

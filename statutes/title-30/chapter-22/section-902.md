@@ -3,9 +3,9 @@ title: "Section 902 - Definitions"
 usc_title: 30
 usc_section: "902"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 902"
-generated_at: "2026-03-30T01:25:13.901Z"
+generated_at: "2026-03-30T01:28:13.110Z"
 ---
 
 # § 902. Definitions

@@ -3,9 +3,9 @@ title: "Section 1952 - Interstate and foreign travel or transportation in aid of
 usc_title: 18
 usc_section: "1952"
 chapter: 95
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1952"
-generated_at: "2026-03-30T01:24:51.176Z"
+generated_at: "2026-03-30T01:27:46.443Z"
 ---
 
 # § 1952. Interstate and foreign travel or transportation in aid of racketeering enterprises

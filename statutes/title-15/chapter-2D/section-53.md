@@ -3,9 +3,9 @@ title: "Section 53 - Election to be regulated as business development company"
 usc_title: 15
 usc_section: "53"
 chapter: 2
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 53"
-generated_at: "2026-03-30T01:24:47.024Z"
+generated_at: "2026-03-30T01:27:29.182Z"
 ---
 
 # § 80a–53. Election to be regulated as business development company

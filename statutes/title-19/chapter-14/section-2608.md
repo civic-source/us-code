@@ -3,9 +3,9 @@ title: "Section 2608 - Temporary disposition of materials and articles subject t
 usc_title: 19
 usc_section: "2608"
 chapter: 14
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "19 U.S.C. § 2608"
-generated_at: "2026-03-30T01:25:02.351Z"
+generated_at: "2026-03-30T01:27:44.953Z"
 ---
 
 # § 2608. Temporary disposition of materials and articles subject to this chapter

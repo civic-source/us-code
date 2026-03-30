@@ -3,9 +3,9 @@ title: "Section 5112 - Indian corporations; appropriation for organizing"
 usc_title: 25
 usc_section: "5112"
 chapter: 45
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 5112"
-generated_at: "2026-03-30T01:25:06.257Z"
+generated_at: "2026-03-30T01:27:56.322Z"
 ---
 
 # § 5112. Indian corporations; appropriation for organizing

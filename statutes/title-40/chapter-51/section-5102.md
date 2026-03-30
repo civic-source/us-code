@@ -3,9 +3,9 @@ title: "Section 5102 - Legal description and jurisdiction of United States Capit
 usc_title: 40
 usc_section: "5102"
 chapter: 51
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "40 U.S.C. § 5102"
-generated_at: "2026-03-30T01:25:34.778Z"
+generated_at: "2026-03-30T01:29:20.660Z"
 ---
 
 # § 5102. Legal description and jurisdiction of United States Capitol Grounds

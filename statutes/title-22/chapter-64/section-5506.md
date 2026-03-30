@@ -3,9 +3,9 @@ title: "Section 5506 - Department of State responsibilities and procedures at in
 usc_title: 22
 usc_section: "5506"
 chapter: 64
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 5506"
-generated_at: "2026-03-30T01:25:10.653Z"
+generated_at: "2026-03-30T01:28:10.409Z"
 ---
 
 # § 5506. Department of State responsibilities and procedures at international disaster site

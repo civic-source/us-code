@@ -3,9 +3,9 @@ title: "Section 1732 - Cooperative agreements"
 usc_title: 30
 usc_section: "1732"
 chapter: 29
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 1732"
-generated_at: "2026-03-30T01:25:13.919Z"
+generated_at: "2026-03-30T01:28:13.129Z"
 ---
 
 # § 1732. Cooperative agreements

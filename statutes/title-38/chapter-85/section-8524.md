@@ -3,9 +3,9 @@ title: "Section 8524 - Disposal of remaining assets"
 usc_title: 38
 usc_section: "8524"
 chapter: 85
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 8524"
-generated_at: "2026-03-30T01:25:34.369Z"
+generated_at: "2026-03-30T01:29:50.790Z"
 ---
 
 # § 8524. Disposal of remaining assets

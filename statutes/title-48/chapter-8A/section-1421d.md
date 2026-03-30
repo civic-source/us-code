@@ -3,9 +3,9 @@ title: "Section 1421d - Salaries and allowances of officers and employees"
 usc_title: 48
 usc_section: "1421d"
 chapter: 8
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "48 U.S.C. § 1421d"
-generated_at: "2026-03-30T01:25:59.635Z"
+generated_at: "2026-03-30T01:30:34.769Z"
 ---
 
 # § 1421d. Salaries and allowances of officers and employees

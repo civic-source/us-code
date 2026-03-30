@@ -3,9 +3,9 @@ title: "Section 8305 - Savings provision"
 usc_title: 38
 usc_section: "8305"
 chapter: 83
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 8305"
-generated_at: "2026-03-30T01:25:34.369Z"
+generated_at: "2026-03-30T01:29:50.789Z"
 ---
 
 # § 8305. Savings provision

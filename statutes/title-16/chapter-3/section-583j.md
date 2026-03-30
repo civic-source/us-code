@@ -3,9 +3,9 @@ title: "Section 583j - Establishment and purposes of Foundation"
 usc_title: 16
 usc_section: "583j"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 583j"
-generated_at: "2026-03-30T01:24:57.341Z"
+generated_at: "2026-03-30T01:27:49.863Z"
 ---
 
 # § 583j. Establishment and purposes of Foundation

@@ -3,9 +3,9 @@ title: "Section 5178 - Premises of distilled spirits plants"
 usc_title: 26
 usc_section: "5178"
 chapter: 51
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 5178"
-generated_at: "2026-03-30T01:25:25.186Z"
+generated_at: "2026-03-30T01:28:57.543Z"
 ---
 
 # § 5178. Premises of distilled spirits plants

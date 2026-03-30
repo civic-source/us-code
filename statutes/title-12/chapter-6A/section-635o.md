@@ -3,9 +3,9 @@ title: "Section 635o - Congressional statement of purpose"
 usc_title: 12
 usc_section: "635o"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 635o"
-generated_at: "2026-03-30T01:24:44.546Z"
+generated_at: "2026-03-30T01:27:40.314Z"
 ---
 
 # § 635o. Congressional statement of purpose

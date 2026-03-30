@@ -3,9 +3,9 @@ title: "Section 4376 - Self-insured health plans"
 usc_title: 26
 usc_section: "4376"
 chapter: 34
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 4376"
-generated_at: "2026-03-30T01:25:25.171Z"
+generated_at: "2026-03-30T01:28:57.523Z"
 ---
 
 # § 4376. Self-insured health plans

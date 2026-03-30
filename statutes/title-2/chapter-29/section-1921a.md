@@ -3,9 +3,9 @@ title: "Section 1921a - Sole and exclusive authority of Board and Chief to deter
 usc_title: 2
 usc_section: "1921a"
 chapter: 29
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 1921a"
-generated_at: "2026-03-30T01:24:23.810Z"
+generated_at: "2026-03-30T01:26:39.653Z"
 ---
 
 # § 1921a. Sole and exclusive authority of Board and Chief to determine rates of pay

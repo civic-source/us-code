@@ -3,9 +3,9 @@ title: "Section 931f - Art. 131f. Noncompliance with procedural rules"
 usc_title: 10
 usc_section: "931f"
 chapter: 47
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 931f"
-generated_at: "2026-03-30T01:24:38.922Z"
+generated_at: "2026-03-30T01:27:06.426Z"
 ---
 
 # § 931f. Art. 131f. Noncompliance with procedural rules

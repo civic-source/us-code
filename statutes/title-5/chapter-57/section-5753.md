@@ -3,9 +3,9 @@ title: "Section 5753 - Recruitment and relocation bonuses"
 usc_title: 5
 usc_section: "5753"
 chapter: 57
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "5 U.S.C. § 5753"
-generated_at: "2026-03-30T01:24:25.483Z"
+generated_at: "2026-03-30T01:26:48.517Z"
 ---
 
 # § 5753. Recruitment and relocation bonuses

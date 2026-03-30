@@ -3,9 +3,9 @@ title: "Section 916 - Art. 116. Riot or breach of peace"
 usc_title: 10
 usc_section: "916"
 chapter: 47
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 916"
-generated_at: "2026-03-30T01:24:38.921Z"
+generated_at: "2026-03-30T01:27:06.425Z"
 ---
 
 # § 916. Art. 116. Riot or breach of peace

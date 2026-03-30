@@ -3,9 +3,9 @@ title: "Section 4509 - Longevity compensation not applicable to individuals paid
 usc_title: 2
 usc_section: "4509"
 chapter: 45
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 4509"
-generated_at: "2026-03-30T01:24:23.818Z"
+generated_at: "2026-03-30T01:26:39.663Z"
 ---
 
 # § 4509. Longevity compensation not applicable to individuals paid by Secretary of Senate; savings provision

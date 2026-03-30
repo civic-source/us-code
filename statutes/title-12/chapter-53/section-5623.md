@@ -3,9 +3,9 @@ title: "Section 5623 - Expanded access to mainstream financial institutions"
 usc_title: 12
 usc_section: "5623"
 chapter: 53
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 5623"
-generated_at: "2026-03-30T01:24:44.705Z"
+generated_at: "2026-03-30T01:27:40.472Z"
 ---
 
 # § 5623. Expanded access to mainstream financial institutions

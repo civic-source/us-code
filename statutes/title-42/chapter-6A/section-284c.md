@@ -3,9 +3,9 @@ title: "Section 284c - Certain uses of funds"
 usc_title: 42
 usc_section: "284c"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 284c"
-generated_at: "2026-03-30T01:25:55.877Z"
+generated_at: "2026-03-30T01:30:22.952Z"
 ---
 
 # § 284c. Certain uses of funds

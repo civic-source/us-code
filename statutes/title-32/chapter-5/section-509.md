@@ -3,9 +3,9 @@ title: "Section 509 - National Guard Youth Challenge Program of opportunities fo
 usc_title: 32
 usc_section: "509"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "32 U.S.C. § 509"
-generated_at: "2026-03-30T01:25:26.992Z"
+generated_at: "2026-03-30T01:28:59.452Z"
 ---
 
 # § 509. National Guard Youth Challenge Program of opportunities for civilian youth

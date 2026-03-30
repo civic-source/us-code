@@ -3,9 +3,9 @@ title: "Section 3241 - Design-build selection procedures"
 usc_title: 10
 usc_section: "3241"
 chapter: 223
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 3241"
-generated_at: "2026-03-30T01:24:38.997Z"
+generated_at: "2026-03-30T01:27:06.504Z"
 ---
 
 # § 3241. Design-build selection procedures

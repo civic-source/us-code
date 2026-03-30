@@ -3,9 +3,9 @@ title: "Section 1631 - Declaration of national emergency by Executive order; aut
 usc_title: 50
 usc_section: "1631"
 chapter: 34
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "50 U.S.C. § 1631"
-generated_at: "2026-03-30T01:26:05.008Z"
+generated_at: "2026-03-30T01:30:28.110Z"
 ---
 
 # § 1631. Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress

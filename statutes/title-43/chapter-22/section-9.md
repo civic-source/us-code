@@ -3,9 +3,9 @@ title: "Section 9 - Map location of road"
 usc_title: 43
 usc_section: "9"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 9"
-generated_at: "2026-03-30T01:25:47.045Z"
+generated_at: "2026-03-30T01:29:57.363Z"
 ---
 
 # § 942–9. Map location of road

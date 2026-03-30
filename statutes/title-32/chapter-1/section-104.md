@@ -3,9 +3,9 @@ title: "Section 104 - Units: location; organization; command"
 usc_title: 32
 usc_section: "104"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "32 U.S.C. § 104"
-generated_at: "2026-03-30T01:25:26.989Z"
+generated_at: "2026-03-30T01:28:59.451Z"
 ---
 
 # § 104. Units: location; organization; command

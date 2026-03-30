@@ -3,9 +3,9 @@ title: "Section 1063e - President’s Board of Advisors on HBCUs"
 usc_title: 20
 usc_section: "1063e"
 chapter: 28
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "20 U.S.C. § 1063e"
-generated_at: "2026-03-30T01:24:53.838Z"
+generated_at: "2026-03-30T01:27:52.062Z"
 ---
 
 # § 1063e. President’s Board of Advisors on HBCUs

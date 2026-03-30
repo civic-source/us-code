@@ -3,9 +3,9 @@ title: "Section 10361 - Findings"
 usc_title: 42
 usc_section: "10361"
 chapter: 109
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 10361"
-generated_at: "2026-03-30T01:25:56.473Z"
+generated_at: "2026-03-30T01:30:23.529Z"
 ---
 
 # § 10361. Findings

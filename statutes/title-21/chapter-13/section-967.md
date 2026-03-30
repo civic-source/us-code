@@ -3,9 +3,9 @@ title: "Section 967 - Smuggling of controlled substances; investigations; oaths;
 usc_title: 21
 usc_section: "967"
 chapter: 13
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "21 U.S.C. § 967"
-generated_at: "2026-03-30T01:25:07.478Z"
+generated_at: "2026-03-30T01:27:58.408Z"
 ---
 
 # § 967. Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees and mileage of witnesses

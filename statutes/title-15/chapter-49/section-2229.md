@@ -3,9 +3,9 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-30T01:24:47.121Z"
+generated_at: "2026-03-30T01:27:29.294Z"
 ---
 
 # § 2229. Firefighter assistance
@@ -215,11 +215,7 @@ generated_at: "2026-03-30T01:24:47.121Z"
       - **(ii)** using the performance metrics developed under such paragraph, an evaluation of the effectiveness of the grants awarded under this section.
     - **(B)** The report due under subparagraph (A) on September 30, 2016 , shall also include recommendations for legislative changes to improve grants under this section.
 - **(q)**
-  - **(1)** There is authorized to be appropriated to carry out this section—
-    - **(A)** $750,000,000 for fiscal year 2013; and
-    - **(B)** for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
-      - **(i)** the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
-      - **(ii)** the Consumer Price Index for the fiscal year preceding the fiscal year described in clause (i).
+  - **(1)** There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2024 through 2028.
   - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts for salaries and expenses and other administrative costs incurred by the Administrator of FEMA in the course of awarding grants and providing assistance under this section.
   - **(3)** Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
-- **(r)** The authority to award assistance and grants under this section shall expire on September 30, 2024 .
+- **(r)** The authority to award assistance and grants under this section shall expire on September 30, 2030 .

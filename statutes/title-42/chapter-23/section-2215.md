@@ -3,9 +3,9 @@ title: "Section 2215 - Nuclear Regulatory Commission user fees and annual charge
 usc_title: 42
 usc_section: "2215"
 chapter: 23
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 2215"
-generated_at: "2026-03-30T01:25:56.253Z"
+generated_at: "2026-03-30T01:30:23.317Z"
 ---
 
 # § 2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter
@@ -15,8 +15,7 @@ generated_at: "2026-03-30T01:25:56.253Z"
   - **(2)** Budget authority granted to the Commission for purposes of the requested activities of the Commission shall be used, to the maximum extent practicable, solely for conducting requested activities of the Commission.
   - **(3)** With respect to the annual budget justification submitted to Congress, corporate support costs, to the maximum extent practicable, shall not exceed the following percentages of the total budget authority of the Commission requested in the annual budget justification:
     - **(A)** 30 percent for each of fiscal years 2021 and 2022.
-    - **(B)** 29 percent for each of fiscal years 2023 and 2024.
-    - **(C)** 28 percent for fiscal year 2025 and each fiscal year thereafter.
+    - **(B)** 30 percent for fiscal year 2025 and each fiscal year thereafter.
 - **(b)**
   - **(1)**
     - **(A)** Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
@@ -55,7 +54,10 @@ generated_at: "2026-03-30T01:25:56.253Z"
     - **(A)** performance metrics; and
     - **(B)** milestone schedules.
   - **(2)** The Executive Director for Operations of the Commission shall inform the Commission of a delay in issuance of the final safety evaluation for a requested activity of the Commission by the completion date required by the performance metrics or milestone schedule under paragraph (1) by not later than 30 days after the completion date.
-  - **(3)** If the final safety evaluation for the requested activity of the Commission described in paragraph (2) is not completed by the date that is 180 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the appropriate congressional committees a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.
+  - **(3)** If the final safety evaluation for the requested activity of the Commission described in paragraph (2) is not completed by the date that is 90 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the appropriate congressional committees a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.
+  - **(4)**
+    - **(A)** Not less frequently than once every 3 years, the Commission shall review and assess, based on the licensing and regulatory activities of the Commission, the performance metrics and milestone schedules established under paragraph (1).
+    - **(B)** After each review and assessment under subparagraph (A), the Commission shall revise and improve, as appropriate, the performance metrics and milestone schedules described in that subparagraph to provide the most efficient metrics and schedules reasonably achievable.
 - **(d)** With respect to invoices for fees described in subsection (b)(2), the Commission shall—
   - **(1)** ensure appropriate review and approval prior to the issuance of invoices;
   - **(2)** develop and implement processes to audit invoices to ensure accuracy, transparency, and fairness; and

@@ -3,9 +3,9 @@ title: "Section 617 - Liability of officers"
 usc_title: 22
 usc_section: "617"
 chapter: 11
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 617"
-generated_at: "2026-03-30T01:25:10.569Z"
+generated_at: "2026-03-30T01:28:10.323Z"
 ---
 
 # § 617. Liability of officers

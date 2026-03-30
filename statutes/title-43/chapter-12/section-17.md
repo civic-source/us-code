@@ -3,9 +3,9 @@ title: "Section 17 - Lakehaven, Washington, Water Reclamation and Reuse Project"
 usc_title: 43
 usc_section: "17"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 17"
-generated_at: "2026-03-30T01:25:47.026Z"
+generated_at: "2026-03-30T01:29:57.346Z"
 ---
 
 # § 390h–17. Lakehaven, Washington, Water Reclamation and Reuse Project

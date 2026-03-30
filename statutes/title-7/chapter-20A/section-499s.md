@@ -3,9 +3,9 @@ title: "Section 499s - Depositing appropriations in fund"
 usc_title: 7
 usc_section: "499s"
 chapter: 20
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 499s"
-generated_at: "2026-03-30T01:24:33.266Z"
+generated_at: "2026-03-30T01:27:22.562Z"
 ---
 
 # § 499s. Depositing appropriations in fund

@@ -3,9 +3,9 @@ title: "Section 2773 - Restraint in arms sales to Sub-Saharan Africa"
 usc_title: 22
 usc_section: "2773"
 chapter: 39
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 2773"
-generated_at: "2026-03-30T01:25:10.619Z"
+generated_at: "2026-03-30T01:28:10.376Z"
 ---
 
 # § 2773. Restraint in arms sales to Sub-Saharan Africa

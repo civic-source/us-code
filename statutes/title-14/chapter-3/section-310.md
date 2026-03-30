@@ -3,9 +3,9 @@ title: "Section 310 - Chief of Staff to President: appointment"
 usc_title: 14
 usc_section: "310"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "14 U.S.C. § 310"
-generated_at: "2026-03-30T01:24:41.505Z"
+generated_at: "2026-03-30T01:27:25.065Z"
 ---
 
 # § 310. Chief of Staff to President: appointment

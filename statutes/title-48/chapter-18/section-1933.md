@@ -3,9 +3,9 @@ title: "Section 1933 - Supplemental provisions"
 usc_title: 48
 usc_section: "1933"
 chapter: 18
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "48 U.S.C. § 1933"
-generated_at: "2026-03-30T01:25:59.651Z"
+generated_at: "2026-03-30T01:30:34.782Z"
 ---
 
 # § 1933. Supplemental provisions

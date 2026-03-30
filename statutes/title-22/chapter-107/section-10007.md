@@ -3,9 +3,9 @@ title: "Section 10007 - Suspension of assistance"
 usc_title: 22
 usc_section: "10007"
 chapter: 107
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 10007"
-generated_at: "2026-03-30T01:25:10.705Z"
+generated_at: "2026-03-30T01:28:10.461Z"
 ---
 
 # § 10007. Suspension of assistance

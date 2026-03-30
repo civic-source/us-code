@@ -3,9 +3,9 @@ title: "Section 11 - Morganza Floodway; Eudora Floodway"
 usc_title: 33
 usc_section: "11"
 chapter: 15
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 11"
-generated_at: "2026-03-30T01:25:29.794Z"
+generated_at: "2026-03-30T01:29:02.717Z"
 ---
 
 # § 702a–11. Morganza Floodway; Eudora Floodway

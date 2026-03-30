@@ -3,9 +3,9 @@ title: "Section 26101 - High-speed rail corridor planning"
 usc_title: 49
 usc_section: "26101"
 chapter: 261
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "49 U.S.C. § 26101"
-generated_at: "2026-03-30T01:26:15.821Z"
+generated_at: "2026-03-30T01:30:46.237Z"
 ---
 
 # § 26101. High-speed rail corridor planning

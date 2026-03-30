@@ -3,9 +3,9 @@ title: "Section 657r - Mentor-protege programs"
 usc_title: 15
 usc_section: "657r"
 chapter: 14
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 657r"
-generated_at: "2026-03-30T01:24:47.060Z"
+generated_at: "2026-03-30T01:27:29.225Z"
 ---
 
 # § 657r. Mentor-protege programs

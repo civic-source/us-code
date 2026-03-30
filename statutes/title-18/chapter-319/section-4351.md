@@ -3,9 +3,9 @@ title: "Section 4351 - Establishment; Advisory Board; appointment of members; co
 usc_title: 18
 usc_section: "4351"
 chapter: 319
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 4351"
-generated_at: "2026-03-30T01:24:51.212Z"
+generated_at: "2026-03-30T01:27:46.478Z"
 ---
 
 # § 4351. Establishment; Advisory Board; appointment of members; compensation; officers; committees; delegation of powers; Director, appointment and powers 1 1 Section catchline editorially supplied.

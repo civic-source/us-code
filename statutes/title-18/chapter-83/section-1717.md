@@ -3,9 +3,9 @@ title: "Section 1717 - Letters and writings as nonmailable"
 usc_title: 18
 usc_section: "1717"
 chapter: 83
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1717"
-generated_at: "2026-03-30T01:24:51.174Z"
+generated_at: "2026-03-30T01:27:46.440Z"
 ---
 
 # § 1717. Letters and writings as nonmailable

@@ -3,9 +3,9 @@ title: "Section 6683 - Repealed. Pub. L. 109–135, title IV, § 403(n)(3)(A) , 
 usc_title: 26
 usc_section: "6683"
 chapter: 68
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 6683"
-generated_at: "2026-03-30T01:25:25.224Z"
+generated_at: "2026-03-30T01:28:57.591Z"
 ---
 
 # [§ 6683. Repealed. Pub. L. 109–135, title IV, § 403(n)(3)(A) , Dec. 21, 2005 , 119 Stat. 2626 ]

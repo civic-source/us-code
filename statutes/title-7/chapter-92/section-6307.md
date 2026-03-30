@@ -3,9 +3,9 @@ title: "Section 6307 - Enforcement"
 usc_title: 7
 usc_section: "6307"
 chapter: 92
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 6307"
-generated_at: "2026-03-30T01:24:33.467Z"
+generated_at: "2026-03-30T01:27:22.684Z"
 ---
 
 # § 6307. Enforcement

@@ -3,9 +3,9 @@ title: "Section 4953 - Tax on excess contributions to black lung benefit trusts"
 usc_title: 26
 usc_section: "4953"
 chapter: 42
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 4953"
-generated_at: "2026-03-30T01:25:25.177Z"
+generated_at: "2026-03-30T01:28:57.528Z"
 ---
 
 # § 4953. Tax on excess contributions to black lung benefit trusts

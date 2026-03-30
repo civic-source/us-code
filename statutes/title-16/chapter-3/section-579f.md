@@ -3,9 +3,9 @@ title: "Section 579f - Forest Service Nonrecurring Expenses Fund"
 usc_title: 16
 usc_section: "579f"
 chapter: 3
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 579f"
-generated_at: "2026-03-30T01:24:57.340Z"
+generated_at: "2026-03-30T01:27:49.861Z"
 ---
 
 # § 579f. Forest Service Nonrecurring Expenses Fund

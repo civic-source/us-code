@@ -3,9 +3,9 @@ title: "Section 706 - Operative effect dependent upon Presidential finding"
 usc_title: 22
 usc_section: "706"
 chapter: 13
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 706"
-generated_at: "2026-03-30T01:25:10.569Z"
+generated_at: "2026-03-30T01:28:10.324Z"
 ---
 
 # § 706. Operative effect dependent upon Presidential finding

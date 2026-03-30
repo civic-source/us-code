@@ -3,9 +3,9 @@ title: "Section 4161 - Imposition of tax"
 usc_title: 26
 usc_section: "4161"
 chapter: 32
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "26 U.S.C. § 4161"
-generated_at: "2026-03-30T01:25:25.169Z"
+generated_at: "2026-03-30T01:28:57.519Z"
 ---
 
 # § 4161. Imposition of tax

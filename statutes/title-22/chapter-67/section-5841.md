@@ -3,9 +3,9 @@ title: "Section 5841 - Authorization for establishment of Democracy Corps"
 usc_title: 22
 usc_section: "5841"
 chapter: 67
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 5841"
-generated_at: "2026-03-30T01:25:10.654Z"
+generated_at: "2026-03-30T01:28:10.410Z"
 ---
 
 # § 5841. Authorization for establishment of Democracy Corps

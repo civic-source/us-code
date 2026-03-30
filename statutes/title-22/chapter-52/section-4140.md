@@ -3,9 +3,9 @@ title: "Section 4140 - Judicial review"
 usc_title: 22
 usc_section: "4140"
 chapter: 52
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "22 U.S.C. § 4140"
-generated_at: "2026-03-30T01:25:10.643Z"
+generated_at: "2026-03-30T01:28:10.399Z"
 ---
 
 # § 4140. Judicial review

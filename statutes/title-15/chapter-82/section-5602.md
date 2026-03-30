@@ -3,9 +3,9 @@ title: "Section 5602 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5602"
 chapter: 82
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "15 U.S.C. § 5602"
-generated_at: "2026-03-30T01:24:47.158Z"
+generated_at: "2026-03-30T01:27:29.337Z"
 ---
 
 # § 5602. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

@@ -3,9 +3,9 @@ title: "Section 8129 - Preference for offerors employing veterans"
 usc_title: 38
 usc_section: "8129"
 chapter: 81
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "38 U.S.C. § 8129"
-generated_at: "2026-03-30T01:25:34.367Z"
+generated_at: "2026-03-30T01:29:50.788Z"
 ---
 
 # § 8129. Preference for offerors employing veterans

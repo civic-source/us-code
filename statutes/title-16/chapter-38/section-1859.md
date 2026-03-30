@@ -3,9 +3,9 @@ title: "Section 1859 - Criminal offenses"
 usc_title: 16
 usc_section: "1859"
 chapter: 38
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 1859"
-generated_at: "2026-03-30T01:24:57.424Z"
+generated_at: "2026-03-30T01:27:49.946Z"
 ---
 
 # § 1859. Criminal offenses

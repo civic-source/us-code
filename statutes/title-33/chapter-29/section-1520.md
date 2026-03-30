@@ -3,9 +3,9 @@ title: "Section 1520 - Pipeline safety and operation"
 usc_title: 33
 usc_section: "1520"
 chapter: 29
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "33 U.S.C. § 1520"
-generated_at: "2026-03-30T01:25:29.830Z"
+generated_at: "2026-03-30T01:29:02.757Z"
 ---
 
 # § 1520. Pipeline safety and operation

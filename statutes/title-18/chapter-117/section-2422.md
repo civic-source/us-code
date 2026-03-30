@@ -3,9 +3,9 @@ title: "Section 2422 - Coercion and enticement"
 usc_title: 18
 usc_section: "2422"
 chapter: 117
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 2422"
-generated_at: "2026-03-30T01:24:51.188Z"
+generated_at: "2026-03-30T01:27:46.455Z"
 ---
 
 # § 2422. Coercion and enticement

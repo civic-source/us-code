@@ -3,9 +3,9 @@ title: "Section 2012 - Authorization for appropriation"
 usc_title: 43
 usc_section: "2012"
 chapter: 38
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "43 U.S.C. § 2012"
-generated_at: "2026-03-30T01:25:47.074Z"
+generated_at: "2026-03-30T01:29:57.389Z"
 ---
 
 # § 2012. Authorization for appropriation

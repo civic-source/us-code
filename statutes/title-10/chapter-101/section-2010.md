@@ -3,9 +3,9 @@ title: "Section 2010 - Renumbered § 321]"
 usc_title: 10
 usc_section: "2010"
 chapter: 101
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 2010"
-generated_at: "2026-03-30T01:24:38.961Z"
+generated_at: "2026-03-30T01:27:06.466Z"
 ---
 
 # [§ 2010. Renumbered § 321]

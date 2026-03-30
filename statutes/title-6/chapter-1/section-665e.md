@@ -3,9 +3,9 @@ title: "Section 665e - Cybersecurity Advisory Committee"
 usc_title: 6
 usc_section: "665e"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 665e"
-generated_at: "2026-03-30T01:24:29.013Z"
+generated_at: "2026-03-30T01:26:58.022Z"
 ---
 
 # § 665e. Cybersecurity Advisory Committee

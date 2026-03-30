@@ -3,9 +3,9 @@ title: "Section 2220 - Owner-managed interests"
 usc_title: 25
 usc_section: "2220"
 chapter: 24
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 2220"
-generated_at: "2026-03-30T01:25:06.236Z"
+generated_at: "2026-03-30T01:27:56.294Z"
 ---
 
 # § 2220. Owner-managed interests

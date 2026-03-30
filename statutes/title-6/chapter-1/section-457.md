@@ -3,9 +3,9 @@ title: "Section 457 - Regulatory authority and preemption"
 usc_title: 6
 usc_section: "457"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 457"
-generated_at: "2026-03-30T01:24:29.000Z"
+generated_at: "2026-03-30T01:26:58.009Z"
 ---
 
 # § 457. Regulatory authority and preemption

@@ -3,9 +3,9 @@ title: "Section 2160 - Boards of review"
 usc_title: 14
 usc_section: "2160"
 chapter: 21
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "14 U.S.C. § 2160"
-generated_at: "2026-03-30T01:24:41.513Z"
+generated_at: "2026-03-30T01:27:25.076Z"
 ---
 
 # § 2160. Boards of review

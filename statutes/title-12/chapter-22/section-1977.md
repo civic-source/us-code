@@ -3,9 +3,9 @@ title: "Section 1977 - Limitation of actions; suspension of limitations"
 usc_title: 12
 usc_section: "1977"
 chapter: 22
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "12 U.S.C. § 1977"
-generated_at: "2026-03-30T01:24:44.628Z"
+generated_at: "2026-03-30T01:27:40.395Z"
 ---
 
 # § 1977. Limitation of actions; suspension of limitations

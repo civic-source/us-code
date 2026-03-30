@@ -3,9 +3,9 @@ title: "Section 1503 - Authorizations for preventing, detecting, analyzing, and 
 usc_title: 6
 usc_section: "1503"
 chapter: 6
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "6 U.S.C. § 1503"
-generated_at: "2026-03-30T01:24:29.027Z"
+generated_at: "2026-03-30T01:26:58.038Z"
 ---
 
 # § 1503. Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats

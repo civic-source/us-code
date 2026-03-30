@@ -3,9 +3,9 @@ title: "Section 5140 - Mortgaged property governed by State law"
 usc_title: 25
 usc_section: "5140"
 chapter: 45
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "25 U.S.C. § 5140"
-generated_at: "2026-03-30T01:25:06.258Z"
+generated_at: "2026-03-30T01:27:56.323Z"
 ---
 
 # § 5140. Mortgaged property governed by State law

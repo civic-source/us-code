@@ -3,9 +3,9 @@ title: "Section 1186a - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186a"
 chapter: 12
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "8 U.S.C. § 1186a"
-generated_at: "2026-03-30T01:24:28.155Z"
+generated_at: "2026-03-30T01:26:59.263Z"
 ---
 
 # § 1186a. Conditional permanent resident status for certain alien spouses and sons and daughters

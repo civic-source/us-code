@@ -3,9 +3,9 @@ title: "Section 185 - Suits by and against labor organizations"
 usc_title: 29
 usc_section: "185"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "29 U.S.C. § 185"
-generated_at: "2026-03-30T01:25:19.564Z"
+generated_at: "2026-03-30T01:28:37.273Z"
 ---
 
 # § 185. Suits by and against labor organizations

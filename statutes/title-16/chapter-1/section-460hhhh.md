@@ -3,9 +3,9 @@ title: "Section 460hhhh - Numunaa Nobe National Conservation Area"
 usc_title: 16
 usc_section: "460hhhh"
 chapter: 1
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "16 U.S.C. § 460hhhh"
-generated_at: "2026-03-30T01:24:57.320Z"
+generated_at: "2026-03-30T01:27:49.843Z"
 ---
 
 # § 460hhhh. Numunaa Nobe National Conservation Area

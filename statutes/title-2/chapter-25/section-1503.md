@@ -3,9 +3,9 @@ title: "Section 1503 - Exclusions"
 usc_title: 2
 usc_section: "1503"
 chapter: 25
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "2 U.S.C. § 1503"
-generated_at: "2026-03-30T01:24:23.804Z"
+generated_at: "2026-03-30T01:26:39.648Z"
 ---
 
 # § 1503. Exclusions

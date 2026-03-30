@@ -3,9 +3,9 @@ title: "Section 1095b - TRICARE program: contractor payment of certain claims"
 usc_title: 10
 usc_section: "1095b"
 chapter: 55
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "10 U.S.C. § 1095b"
-generated_at: "2026-03-30T01:24:38.937Z"
+generated_at: "2026-03-30T01:27:06.441Z"
 ---
 
 # § 1095b. TRICARE program: contractor payment of certain claims

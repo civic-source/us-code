@@ -3,9 +3,9 @@ title: "Section 12837 - Interstate agreements"
 usc_title: 42
 usc_section: "12837"
 chapter: 130
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "42 U.S.C. § 12837"
-generated_at: "2026-03-30T01:25:56.516Z"
+generated_at: "2026-03-30T01:30:23.572Z"
 ---
 
 # § 12837. Interstate agreements

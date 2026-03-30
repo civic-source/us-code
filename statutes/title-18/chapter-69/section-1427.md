@@ -3,9 +3,9 @@ title: "Section 1427 - Sale of naturalization or citizenship papers"
 usc_title: 18
 usc_section: "1427"
 chapter: 69
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1427"
-generated_at: "2026-03-30T01:24:51.170Z"
+generated_at: "2026-03-30T01:27:46.436Z"
 ---
 
 # § 1427. Sale of naturalization or citizenship papers

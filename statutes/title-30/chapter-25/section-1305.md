@@ -3,9 +3,9 @@ title: "Section 1305 - Federal lessee protection"
 usc_title: 30
 usc_section: "1305"
 chapter: 25
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "30 U.S.C. § 1305"
-generated_at: "2026-03-30T01:25:13.913Z"
+generated_at: "2026-03-30T01:28:13.123Z"
 ---
 
 # § 1305. Federal lessee protection

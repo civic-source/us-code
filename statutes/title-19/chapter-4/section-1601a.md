@@ -3,9 +3,9 @@ title: "Section 1601a - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 ,
 usc_title: 19
 usc_section: "1601a"
 chapter: 4
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "19 U.S.C. § 1601a"
-generated_at: "2026-03-30T01:25:02.320Z"
+generated_at: "2026-03-30T01:27:44.921Z"
 ---
 
 # §§ 1601, 1601a. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

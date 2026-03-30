@@ -3,9 +3,9 @@ title: "Section 1719 - Franking privilege"
 usc_title: 18
 usc_section: "1719"
 chapter: 83
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "18 U.S.C. § 1719"
-generated_at: "2026-03-30T01:24:51.174Z"
+generated_at: "2026-03-30T01:27:46.441Z"
 ---
 
 # § 1719. Franking privilege

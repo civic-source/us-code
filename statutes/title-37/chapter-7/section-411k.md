@@ -3,9 +3,9 @@ title: "Section 411k - Renumbered § 481k]"
 usc_title: 37
 usc_section: "411k"
 chapter: 7
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "37 U.S.C. § 411k"
-generated_at: "2026-03-30T01:25:36.162Z"
+generated_at: "2026-03-30T01:29:32.019Z"
 ---
 
 # [§ 411k. Renumbered § 481k]

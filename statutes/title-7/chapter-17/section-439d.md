@@ -3,9 +3,9 @@ title: "Section 439d - Omitted"
 usc_title: 7
 usc_section: "439d"
 chapter: 17
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "7 U.S.C. § 439d"
-generated_at: "2026-03-30T01:24:33.264Z"
+generated_at: "2026-03-30T01:27:22.559Z"
 ---
 
 # § 439d. Omitted

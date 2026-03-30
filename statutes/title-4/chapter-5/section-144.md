@@ -3,9 +3,9 @@ title: "Section 144 - Cooperation of departments and agencies"
 usc_title: 4
 usc_section: "144"
 chapter: 5
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "4 U.S.C. § 144"
-generated_at: "2026-03-30T01:24:22.429Z"
+generated_at: "2026-03-30T01:26:38.043Z"
 ---
 
 # § 144. Cooperation of departments and agencies

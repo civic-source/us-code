@@ -3,9 +3,9 @@ title: "Section 44520 - Center of Excellence for Alternative Jet Fuels and Envir
 usc_title: 49
 usc_section: "44520"
 chapter: 445
-current_through: "PL 118-66"
+current_through: "PL 118-70"
 classification: "49 U.S.C. § 44520"
-generated_at: "2026-03-30T01:26:15.853Z"
+generated_at: "2026-03-30T01:30:46.267Z"
 ---
 
 # § 44520. Center of Excellence for Alternative Jet Fuels and Environment
