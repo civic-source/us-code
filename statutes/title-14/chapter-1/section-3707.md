@@ -3,9 +3,9 @@ title: "Section 3707 - Temporary members of the Reserve; disability or death ben
 usc_title: 14
 usc_section: "3707"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "14 U.S.C. § 3707"
-generated_at: "2026-03-30T08:14:35.368Z"
+generated_at: "2026-03-30T08:17:37.920Z"
 status: "active"
 ---
 

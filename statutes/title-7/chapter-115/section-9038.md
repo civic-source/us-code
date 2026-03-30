@@ -3,9 +3,9 @@ title: "Section 9038 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "9038"
 chapter: 115
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 9038"
-generated_at: "2026-03-30T08:14:25.070Z"
+generated_at: "2026-03-30T08:17:09.959Z"
 status: "active"
 ---
 

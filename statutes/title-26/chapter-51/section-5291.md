@@ -3,9 +3,9 @@ title: "Section 5291 - General"
 usc_title: 26
 usc_section: "5291"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 5291"
-generated_at: "2026-03-30T08:15:44.936Z"
+generated_at: "2026-03-30T08:18:35.055Z"
 status: "active"
 ---
 

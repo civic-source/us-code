@@ -3,9 +3,9 @@ title: "Section 5381 - Natural wine"
 usc_title: 26
 usc_section: "5381"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 5381"
-generated_at: "2026-03-30T08:15:44.936Z"
+generated_at: "2026-03-30T08:18:35.056Z"
 status: "active"
 ---
 

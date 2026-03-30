@@ -3,9 +3,9 @@ title: "Section 18 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(1) –(7), 70 Stat
 usc_title: 19
 usc_section: "18"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "19 U.S.C. § 18"
-generated_at: "2026-03-30T08:14:53.421Z"
+generated_at: "2026-03-30T08:18:10.300Z"
 status: "repealed"
 ---
 

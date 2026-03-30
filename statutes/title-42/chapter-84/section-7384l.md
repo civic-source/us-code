@@ -3,9 +3,9 @@ title: "Section 7384l - Definitions for program administration"
 usc_title: 42
 usc_section: "7384l"
 chapter: 84
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 7384l"
-generated_at: "2026-03-30T08:16:21.188Z"
+generated_at: "2026-03-30T08:19:32.413Z"
 status: "active"
 ---
 

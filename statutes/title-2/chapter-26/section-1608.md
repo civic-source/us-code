@@ -3,9 +3,9 @@ title: "Section 1608 - Severability"
 usc_title: 2
 usc_section: "1608"
 chapter: 26
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "2 U.S.C. § 1608"
-generated_at: "2026-03-30T08:14:13.689Z"
+generated_at: "2026-03-30T08:17:02.977Z"
 status: "active"
 ---
 

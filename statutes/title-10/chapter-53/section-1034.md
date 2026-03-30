@@ -3,9 +3,9 @@ title: "Section 1034 - Protected communications; prohibition of retaliatory pers
 usc_title: 10
 usc_section: "1034"
 chapter: 53
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 1034"
-generated_at: "2026-03-30T08:14:28.582Z"
+generated_at: "2026-03-30T08:17:25.819Z"
 status: "active"
 ---
 

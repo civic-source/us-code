@@ -3,9 +3,9 @@ title: "Section 1a - Assistance for troubled multifamily housing projects"
 usc_title: 12
 usc_section: "1a"
 chapter: 13
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 1a"
-generated_at: "2026-03-30T08:14:50.015Z"
+generated_at: "2026-03-30T08:17:41.441Z"
 status: "active"
 ---
 

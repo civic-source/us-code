@@ -3,9 +3,9 @@ title: "Section 5108 - Classification of positions above GS–15"
 usc_title: 5
 usc_section: "5108"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "5 U.S.C. § 5108"
-generated_at: "2026-03-30T08:14:15.272Z"
+generated_at: "2026-03-30T08:16:59.595Z"
 status: "active"
 ---
 

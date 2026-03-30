@@ -3,9 +3,9 @@ title: "Section 902 - Establishment; assigned functions"
 usc_title: 47
 usc_section: "902"
 chapter: 8
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "47 U.S.C. § 902"
-generated_at: "2026-03-30T08:16:24.677Z"
+generated_at: "2026-03-30T08:19:46.274Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18111 - Definitions"
 usc_title: 42
 usc_section: "18111"
 chapter: 157
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 18111"
-generated_at: "2026-03-30T08:16:21.408Z"
+generated_at: "2026-03-30T08:19:32.594Z"
 status: "active"
 ---
 

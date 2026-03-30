@@ -3,9 +3,9 @@ title: "Section 4407 - Omitted"
 usc_title: 15
 usc_section: "4407"
 chapter: 70
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 4407"
-generated_at: "2026-03-30T08:14:39.149Z"
+generated_at: "2026-03-30T08:17:50.129Z"
 status: "omitted"
 ---
 

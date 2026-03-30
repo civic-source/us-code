@@ -3,9 +3,9 @@ title: "Section 2591 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "2591"
 chapter: 35
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 2591"
-generated_at: "2026-03-30T08:15:20.746Z"
+generated_at: "2026-03-30T08:18:17.777Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10491 - Duties"
 usc_title: 34
 usc_section: "10491"
 chapter: 101
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 10491"
-generated_at: "2026-03-30T08:15:47.992Z"
+generated_at: "2026-03-30T08:18:50.052Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 The Attorney General shall—
 
   - **(1)** establish guidelines and oversee the implementation of family-friendly policies within law enforcement-related offices and divisions in the Department of Justice;
-  - **(2)** study the effects of stress on law enforcement personnel and family well-being and disseminate the findings of such studies to Federal, State, and local law enforcement agencies, related organizations, and other interested parties;
+  - **(2)** study the effects of stress on law enforcement personnel and family well-being and disseminate the findings of such studies to Federal, State, and local law enforcement agencies, related organizations, and other interested parties, including any research and reports developed under the Law Enforcement Mental Health and Wellness Act of 2017 ( Public Law 115–113 ; 131 Stat. 2276 );
   - **(3)** identify and evaluate model programs that provide support services to law enforcement personnel and families;
-  - **(4)** provide technical assistance and training programs to develop stress reduction and family support to State and local law enforcement agencies;
+  - **(4)** provide technical assistance and training programs to develop stress reduction, psychological services, suicide prevention, and family support to State and local law enforcement agencies;
   - **(5)** collect and disseminate information regarding family support, stress reduction, and psychological services to Federal, State, and local law enforcement agencies, law enforcement-related organizations, and other interested entities; and
   - **(6)** determine issues to be researched by the Department of Justice and by grant recipients.

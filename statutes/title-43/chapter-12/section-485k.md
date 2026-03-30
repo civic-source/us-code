@@ -3,9 +3,9 @@ title: "Section 485k - Short title"
 usc_title: 43
 usc_section: "485k"
 chapter: 12
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "43 U.S.C. § 485k"
-generated_at: "2026-03-30T08:16:01.986Z"
+generated_at: "2026-03-30T08:19:06.776Z"
 status: "active"
 ---
 

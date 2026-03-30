@@ -3,9 +3,9 @@ title: "Section 4903 - Disclosure requirements"
 usc_title: 12
 usc_section: "4903"
 chapter: 49
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 4903"
-generated_at: "2026-03-30T08:14:50.106Z"
+generated_at: "2026-03-30T08:17:41.532Z"
 status: "active"
 ---
 

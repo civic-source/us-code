@@ -3,9 +3,9 @@ title: "Section 20703 - Accident reports and investigations"
 usc_title: 49
 usc_section: "20703"
 chapter: 207
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "49 U.S.C. § 20703"
-generated_at: "2026-03-30T08:16:42.036Z"
+generated_at: "2026-03-30T08:19:57.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4131 - Definitions"
 usc_title: 50
 usc_section: "4131"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 4131"
-generated_at: "2026-03-30T08:16:25.864Z"
+generated_at: "2026-03-30T08:19:49.551Z"
 status: "active"
 ---
 

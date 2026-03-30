@@ -3,9 +3,9 @@ title: "Section 10283 - National programs for families of public safety officers
 usc_title: 34
 usc_section: "10283"
 chapter: 101
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 10283"
-generated_at: "2026-03-30T08:15:47.985Z"
+generated_at: "2026-03-30T08:18:50.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3549 - Repealed. Pub. L. 113–283, § 2(a) , Dec. 18, 2014 , 12
 usc_title: 44
 usc_section: "3549"
 chapter: 35
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "44 U.S.C. § 3549"
-generated_at: "2026-03-30T08:15:59.941Z"
+generated_at: "2026-03-30T08:19:14.535Z"
 status: "repealed"
 ---
 

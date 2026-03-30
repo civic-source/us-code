@@ -3,9 +3,9 @@ title: "Section 136h - Protection of trade secrets and other information"
 usc_title: 7
 usc_section: "136h"
 chapter: 6
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 136h"
-generated_at: "2026-03-30T08:14:24.901Z"
+generated_at: "2026-03-30T08:17:09.782Z"
 status: "active"
 ---
 

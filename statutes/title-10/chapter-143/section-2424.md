@@ -3,9 +3,9 @@ title: "Section 2424 - Procurement of supplies and services from exchange stores
 usc_title: 10
 usc_section: "2424"
 chapter: 143
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 2424"
-generated_at: "2026-03-30T08:14:28.633Z"
+generated_at: "2026-03-30T08:17:25.872Z"
 status: "active"
 ---
 

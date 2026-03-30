@@ -3,9 +3,9 @@ title: "Section 2286 - Pilot program for sub-Saharan Africa"
 usc_title: 22
 usc_section: "2286"
 chapter: 32
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 2286"
-generated_at: "2026-03-30T08:15:20.729Z"
+generated_at: "2026-03-30T08:18:17.761Z"
 status: "active"
 ---
 

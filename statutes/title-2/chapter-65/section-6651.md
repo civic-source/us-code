@@ -3,9 +3,9 @@ title: "Section 6651 - Compensation of Chaplain of Senate"
 usc_title: 2
 usc_section: "6651"
 chapter: 65
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "2 U.S.C. § 6651"
-generated_at: "2026-03-30T08:14:13.711Z"
+generated_at: "2026-03-30T08:17:02.998Z"
 status: "active"
 ---
 

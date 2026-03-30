@@ -3,9 +3,9 @@ title: "Section 53505 - Ceiling on deposits"
 usc_title: 46
 usc_section: "53505"
 chapter: 535
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "46 U.S.C. § 53505"
-generated_at: "2026-03-30T08:16:33.249Z"
+generated_at: "2026-03-30T08:19:48.507Z"
 status: "active"
 ---
 

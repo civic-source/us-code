@@ -3,9 +3,9 @@ title: "Section 26 - Unit investment trusts"
 usc_title: 15
 usc_section: "26"
 chapter: 2
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 26"
-generated_at: "2026-03-30T08:14:39.026Z"
+generated_at: "2026-03-30T08:17:50.014Z"
 status: "active"
 ---
 

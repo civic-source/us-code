@@ -3,9 +3,9 @@ title: "Section 5115a - Repealed. Pub. L. 104–188, title I, § 1808(d) , Aug. 
 usc_title: 42
 usc_section: "5115a"
 chapter: 67
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 5115a"
-generated_at: "2026-03-30T08:16:21.111Z"
+generated_at: "2026-03-30T08:19:32.352Z"
 status: "repealed"
 ---
 

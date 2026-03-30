@@ -3,9 +3,9 @@ title: "Section 77aaa - Short title"
 usc_title: 15
 usc_section: "77aaa"
 chapter: 2
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 77aaa"
-generated_at: "2026-03-30T08:14:38.995Z"
+generated_at: "2026-03-30T08:17:49.984Z"
 status: "active"
 ---
 

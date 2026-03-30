@@ -3,9 +3,9 @@ title: "Section 1851 - Prohibitions on proprietary trading and certain relations
 usc_title: 12
 usc_section: "1851"
 chapter: 17
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 1851"
-generated_at: "2026-03-30T08:14:50.061Z"
+generated_at: "2026-03-30T08:17:41.486Z"
 status: "active"
 ---
 
@@ -65,8 +65,8 @@ status: "active"
       - **(iv)** the banking entity complies with the restrictions under paragraphs (1) and (2) of subparagraph (f);
       - **(v)** the banking entity does not, directly or indirectly, guarantee, assume, or otherwise insure the obligations or performance of the hedge fund or private equity fund or of any hedge fund or private equity fund in which such hedge fund or private equity fund invests;
       - **(vi)** the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
-        - **(I)** such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 3106 of this title ;
-        - **(II)** such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of section 3106 of this title ; and
+        - **(I)** such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 ( 12 U.S.C. 3106 );
+        - **(II)** such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 ( 12 U.S.C. 3106 ); and
         - **(III)** such name does not contain the word “bank”;
       - **(vii)** no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
       - **(viii)** the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designed to ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.

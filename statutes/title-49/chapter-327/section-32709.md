@@ -3,9 +3,9 @@ title: "Section 32709 - Penalties and enforcement"
 usc_title: 49
 usc_section: "32709"
 chapter: 327
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "49 U.S.C. § 32709"
-generated_at: "2026-03-30T08:16:42.054Z"
+generated_at: "2026-03-30T08:19:57.534Z"
 status: "active"
 ---
 

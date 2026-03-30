@@ -3,9 +3,9 @@ title: "Section 634a - Office of Advocacy within Small Business Administration; 
 usc_title: 15
 usc_section: "634a"
 chapter: 14
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 634a"
-generated_at: "2026-03-30T08:14:39.043Z"
+generated_at: "2026-03-30T08:17:50.030Z"
 status: "active"
 ---
 

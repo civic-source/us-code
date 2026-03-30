@@ -3,9 +3,9 @@ title: "Section 3701 - Advertisements for contracts in District of Columbia"
 usc_title: 44
 usc_section: "3701"
 chapter: 37
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "44 U.S.C. § 3701"
-generated_at: "2026-03-30T08:15:59.944Z"
+generated_at: "2026-03-30T08:19:14.537Z"
 status: "active"
 ---
 

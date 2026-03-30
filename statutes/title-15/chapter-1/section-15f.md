@@ -3,9 +3,9 @@ title: "Section 15f - Actions by Attorney General"
 usc_title: 15
 usc_section: "15f"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 15f"
-generated_at: "2026-03-30T08:14:38.982Z"
+generated_at: "2026-03-30T08:17:49.972Z"
 status: "active"
 ---
 

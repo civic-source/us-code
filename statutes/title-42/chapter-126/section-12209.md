@@ -3,9 +3,9 @@ title: "Section 12209 - Instrumentalities of Congress"
 usc_title: 42
 usc_section: "12209"
 chapter: 126
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 12209"
-generated_at: "2026-03-30T08:16:21.311Z"
+generated_at: "2026-03-30T08:19:32.517Z"
 status: "active"
 ---
 

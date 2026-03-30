@@ -3,9 +3,9 @@ title: "Section 610 - Prohibited acts"
 usc_title: 21
 usc_section: "610"
 chapter: 12
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "21 U.S.C. § 610"
-generated_at: "2026-03-30T08:15:18.280Z"
+generated_at: "2026-03-30T08:18:15.622Z"
 status: "active"
 ---
 

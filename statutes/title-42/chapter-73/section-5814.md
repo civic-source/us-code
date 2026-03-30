@@ -3,9 +3,9 @@ title: "Section 5814 - Abolition and transfers"
 usc_title: 42
 usc_section: "5814"
 chapter: 73
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 5814"
-generated_at: "2026-03-30T08:16:21.131Z"
+generated_at: "2026-03-30T08:19:32.368Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 421 - Allowances: no increase while dependent is entitled to bas
 usc_title: 37
 usc_section: "421"
 chapter: 7
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "37 U.S.C. § 421"
-generated_at: "2026-03-30T08:15:53.084Z"
+generated_at: "2026-03-30T08:18:59.016Z"
 status: "active"
 ---
 

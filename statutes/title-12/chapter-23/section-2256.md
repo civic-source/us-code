@@ -3,9 +3,9 @@ title: "Section 2256 - Consent to the availability of reports and to examination
 usc_title: 12
 usc_section: "2256"
 chapter: 23
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 2256"
-generated_at: "2026-03-30T08:14:50.068Z"
+generated_at: "2026-03-30T08:17:41.493Z"
 status: "active"
 ---
 

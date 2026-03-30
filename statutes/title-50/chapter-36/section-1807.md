@@ -3,9 +3,9 @@ title: "Section 1807 - Report of electronic surveillance"
 usc_title: 50
 usc_section: "1807"
 chapter: 36
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 1807"
-generated_at: "2026-03-30T08:16:25.817Z"
+generated_at: "2026-03-30T08:19:49.505Z"
 status: "active"
 ---
 

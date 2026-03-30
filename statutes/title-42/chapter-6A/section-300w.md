@@ -3,9 +3,9 @@ title: "Section 300w - Authorization of appropriations"
 usc_title: 42
 usc_section: "300w"
 chapter: 6
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 300w"
-generated_at: "2026-03-30T08:16:20.706Z"
+generated_at: "2026-03-30T08:19:32.022Z"
 status: "active"
 ---
 

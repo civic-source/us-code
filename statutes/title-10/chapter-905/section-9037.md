@@ -3,9 +3,9 @@ title: "Section 9037 - Judge Advocate General, Deputy Judge Advocate General: ap
 usc_title: 10
 usc_section: "9037"
 chapter: 905
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 9037"
-generated_at: "2026-03-30T08:14:28.672Z"
+generated_at: "2026-03-30T08:17:25.909Z"
 status: "active"
 ---
 

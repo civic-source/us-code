@@ -3,9 +3,9 @@ title: "Section 2303a - Post serious marine casualty alcohol testing"
 usc_title: 46
 usc_section: "2303a"
 chapter: 23
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "46 U.S.C. § 2303a"
-generated_at: "2026-03-30T08:16:33.224Z"
+generated_at: "2026-03-30T08:19:48.482Z"
 status: "active"
 ---
 

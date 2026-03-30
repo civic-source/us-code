@@ -3,9 +3,9 @@ title: "Section 124k - Interagency Threat Assessment and Coordination Group"
 usc_title: 6
 usc_section: "124k"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "6 U.S.C. § 124k"
-generated_at: "2026-03-30T08:14:20.203Z"
+generated_at: "2026-03-30T08:17:05.009Z"
 status: "active"
 ---
 

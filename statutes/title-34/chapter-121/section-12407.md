@@ -3,9 +3,9 @@ title: "Section 12407 - Recommendations on intrastate communication"
 usc_title: 34
 usc_section: "12407"
 chapter: 121
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 12407"
-generated_at: "2026-03-30T08:15:48.010Z"
+generated_at: "2026-03-30T08:18:50.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 313 - Application of antitrust laws to manufacture, sale, and tr
 usc_title: 47
 usc_section: "313"
 chapter: 5
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "47 U.S.C. § 313"
-generated_at: "2026-03-30T08:16:24.660Z"
+generated_at: "2026-03-30T08:19:46.257Z"
 status: "active"
 ---
 

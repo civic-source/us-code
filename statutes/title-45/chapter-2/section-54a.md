@@ -3,9 +3,9 @@ title: "Section 54a - Certain Federal and State regulations deemed statutory aut
 usc_title: 45
 usc_section: "54a"
 chapter: 2
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "45 U.S.C. § 54a"
-generated_at: "2026-03-30T08:16:00.616Z"
+generated_at: "2026-03-30T08:19:06.037Z"
 status: "active"
 ---
 

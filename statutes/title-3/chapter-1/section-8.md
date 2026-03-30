@@ -3,9 +3,9 @@ title: "Section 8 - Manner of voting"
 usc_title: 3
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "3 U.S.C. § 8"
-generated_at: "2026-03-30T08:14:15.380Z"
+generated_at: "2026-03-30T08:16:57.470Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30914 - Release of privately owned vessel after arrest or attach
 usc_title: 46
 usc_section: "30914"
 chapter: 309
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "46 U.S.C. § 30914"
-generated_at: "2026-03-30T08:16:33.240Z"
+generated_at: "2026-03-30T08:19:48.498Z"
 status: "active"
 ---
 

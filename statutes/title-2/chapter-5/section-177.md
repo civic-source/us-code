@@ -3,9 +3,9 @@ title: "Section 177 - Poet Laureate Consultant in Poetry"
 usc_title: 2
 usc_section: "177"
 chapter: 5
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "2 U.S.C. § 177"
-generated_at: "2026-03-30T08:14:13.666Z"
+generated_at: "2026-03-30T08:17:02.956Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 227 - Restrictions on use of telephone equipment"
 usc_title: 47
 usc_section: "227"
 chapter: 5
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-30T08:16:24.652Z"
+generated_at: "2026-03-30T08:19:46.250Z"
 status: "active"
 ---
 

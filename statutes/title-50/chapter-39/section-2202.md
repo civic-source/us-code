@@ -3,9 +3,9 @@ title: "Section 2202 - Prohibition on transfers to countries which support terro
 usc_title: 50
 usc_section: "2202"
 chapter: 39
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 2202"
-generated_at: "2026-03-30T08:16:25.829Z"
+generated_at: "2026-03-30T08:19:49.515Z"
 status: "active"
 ---
 

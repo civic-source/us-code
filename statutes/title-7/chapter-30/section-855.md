@@ -3,9 +3,9 @@ title: "Section 855 - Applicability of other laws"
 usc_title: 7
 usc_section: "855"
 chapter: 30
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 855"
-generated_at: "2026-03-30T08:14:24.926Z"
+generated_at: "2026-03-30T08:17:09.808Z"
 status: "active"
 ---
 

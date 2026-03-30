@@ -3,9 +3,9 @@ title: "Section 9277 - Medal of honor; Air Force cross; distinguished-service cr
 usc_title: 10
 usc_section: "9277"
 chapter: 937
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 9277"
-generated_at: "2026-03-30T08:14:28.673Z"
+generated_at: "2026-03-30T08:17:25.910Z"
 status: "active"
 ---
 

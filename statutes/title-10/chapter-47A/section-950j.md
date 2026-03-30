@@ -3,9 +3,9 @@ title: "Section 950j - Finality of proceedings, findings, and sentences"
 usc_title: 10
 usc_section: "950j"
 chapter: 47
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 950j"
-generated_at: "2026-03-30T08:14:28.580Z"
+generated_at: "2026-03-30T08:17:25.816Z"
 status: "active"
 ---
 

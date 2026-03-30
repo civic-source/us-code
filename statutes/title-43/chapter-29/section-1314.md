@@ -3,9 +3,9 @@ title: "Section 1314 - Rights and powers retained by United States; purchase of 
 usc_title: 43
 usc_section: "1314"
 chapter: 29
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "43 U.S.C. § 1314"
-generated_at: "2026-03-30T08:16:02.025Z"
+generated_at: "2026-03-30T08:19:06.790Z"
 status: "active"
 ---
 

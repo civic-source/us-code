@@ -3,9 +3,9 @@ title: "Section 6573 - Senate revolving fund for stationery allowances; availabi
 usc_title: 2
 usc_section: "6573"
 chapter: 65
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "2 U.S.C. § 6573"
-generated_at: "2026-03-30T08:14:13.709Z"
+generated_at: "2026-03-30T08:17:02.997Z"
 status: "active"
 ---
 

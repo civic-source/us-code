@@ -3,9 +3,9 @@ title: "Section 1759 - Fees and charges"
 usc_title: 30
 usc_section: "1759"
 chapter: 29
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "30 U.S.C. § 1759"
-generated_at: "2026-03-30T08:15:34.136Z"
+generated_at: "2026-03-30T08:18:20.335Z"
 status: "active"
 ---
 

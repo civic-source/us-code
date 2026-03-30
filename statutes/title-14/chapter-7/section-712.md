@@ -3,9 +3,9 @@ title: "Section 712 - Contracts with Government-owned establishments for work an
 usc_title: 14
 usc_section: "712"
 chapter: 7
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "14 U.S.C. § 712"
-generated_at: "2026-03-30T08:14:35.360Z"
+generated_at: "2026-03-30T08:17:37.913Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1594c - Services of architects and engineers; use of appropriati
 usc_title: 42
 usc_section: "1594c"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 1594c"
-generated_at: "2026-03-30T08:16:20.989Z"
+generated_at: "2026-03-30T08:19:32.255Z"
 status: "active"
 ---
 

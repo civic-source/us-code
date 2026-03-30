@@ -3,9 +3,9 @@ title: "Section 10 - Disclosure of information by Commission"
 usc_title: 15
 usc_section: "10"
 chapter: 2
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-30T08:14:39.031Z"
+generated_at: "2026-03-30T08:17:50.018Z"
 status: "active"
 ---
 

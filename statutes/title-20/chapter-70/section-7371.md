@@ -3,9 +3,9 @@ title: "Section 7371 - Prohibition against Federal mandates, direction, or contr
 usc_title: 20
 usc_section: "7371"
 chapter: 70
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 7371"
-generated_at: "2026-03-30T08:14:56.322Z"
+generated_at: "2026-03-30T08:18:07.805Z"
 status: "active"
 ---
 

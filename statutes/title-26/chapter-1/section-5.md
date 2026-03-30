@@ -3,9 +3,9 @@ title: "Section 5 - Cross references relating to tax on individuals"
 usc_title: 26
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 5"
-generated_at: "2026-03-30T08:15:44.713Z"
+generated_at: "2026-03-30T08:18:34.870Z"
 status: "active"
 ---
 

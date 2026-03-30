@@ -3,9 +3,9 @@ title: "Section 207 - Restrictions on former officers, employees, and elected of
 usc_title: 18
 usc_section: "207"
 chapter: 11
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "18 U.S.C. § 207"
-generated_at: "2026-03-30T08:14:54.365Z"
+generated_at: "2026-03-30T08:17:54.900Z"
 status: "active"
 ---
 
@@ -106,7 +106,7 @@ status: "active"
 - **(j)**
   - **(1)**
     - **(A)** The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
-    - **(B)** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450i(j) ). 1
+    - **(B)** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450i(j) ). 1 1 See References in Text note below.
   - **(2)** The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
     - **(A)** an agency or instrumentality of a State or local government if the appearance, communication, or representation is on behalf of such government, or
     - **(B)** an accredited, degree-granting institution of higher education, as defined in section 101 of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.
@@ -120,7 +120,7 @@ status: "active"
     - **(A)** Except as provided in subparagraph (B), the restrictions contained in subsections (c), (d), and (e) shall not apply to a communication or appearance made solely on behalf of a candidate in his or her capacity as a candidate, an authorized committee, a national committee, a national Federal campaign committee, a State committee, or a political party.
     - **(B)** Subparagraph (A) shall not apply to—
       - **(i)** any communication to, or appearance before, the Federal Election Commission by a former officer or employee of the Federal Election Commission; or
-      - **(ii)** a communication or appearance made by a person who is subject to the restrictions contained in subsections 1 1 So in original. Probably should be “subsection”. (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
+      - **(ii)** a communication or appearance made by a person who is subject to the restrictions contained in subsections 2 2 So in original. Probably should be “subsection”. (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
         - **(I)** a candidate, an authorized committee, a national committee, a national Federal campaign committee, a State committee, or a political party; or
         - **(II)** a person or entity who represents, aids, or advises only persons or entities described in subclause (I).
     - **(C)** For purposes of this paragraph—

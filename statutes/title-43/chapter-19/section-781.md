@@ -3,9 +3,9 @@ title: "Section 781 - Repealed. June 29, 1936, ch. 867 , title III, § 303, 49 S
 usc_title: 43
 usc_section: "781"
 chapter: 19
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "43 U.S.C. § 781"
-generated_at: "2026-03-30T08:16:01.996Z"
+generated_at: "2026-03-30T08:19:06.784Z"
 status: "repealed"
 ---
 

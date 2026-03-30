@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T08:14:24.977Z"
+generated_at: "2026-03-30T08:17:09.861Z"
 status: "active"
 ---
 

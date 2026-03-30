@@ -3,9 +3,9 @@ title: "Section 758a - Conduct of explorations and related work in Pacific Ocean
 usc_title: 16
 usc_section: "758a"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "16 U.S.C. § 758a"
-generated_at: "2026-03-30T08:15:12.537Z"
+generated_at: "2026-03-30T08:17:57.250Z"
 status: "active"
 ---
 

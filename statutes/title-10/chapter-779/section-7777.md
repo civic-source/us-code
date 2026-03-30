@@ -3,9 +3,9 @@ title: "Section 7777 - Permits: military reservations; landing ferries, erecting
 usc_title: 10
 usc_section: "7777"
 chapter: 779
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 7777"
-generated_at: "2026-03-30T08:14:28.660Z"
+generated_at: "2026-03-30T08:17:25.897Z"
 status: "active"
 ---
 

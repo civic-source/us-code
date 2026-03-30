@@ -3,9 +3,9 @@ title: "Section 1227 - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct
 usc_title: 20
 usc_section: "1227"
 chapter: 31
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 1227"
-generated_at: "2026-03-30T08:14:56.272Z"
+generated_at: "2026-03-30T08:18:07.755Z"
 status: "repealed"
 ---
 

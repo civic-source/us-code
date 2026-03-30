@@ -3,9 +3,9 @@ title: "Section 1102 - Improvements in Coast Guard acquisition management"
 usc_title: 14
 usc_section: "1102"
 chapter: 11
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "14 U.S.C. § 1102"
-generated_at: "2026-03-30T08:14:35.362Z"
+generated_at: "2026-03-30T08:17:37.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2244 - Security investigations"
 usc_title: 10
 usc_section: "2244"
 chapter: 134
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 2244"
-generated_at: "2026-03-30T08:14:28.619Z"
+generated_at: "2026-03-30T08:17:25.857Z"
 status: "active"
 ---
 

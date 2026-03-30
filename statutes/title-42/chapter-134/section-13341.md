@@ -3,9 +3,9 @@ title: "Section 13341 - Magnetohydrodynamics"
 usc_title: 42
 usc_section: "13341"
 chapter: 134
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 13341"
-generated_at: "2026-03-30T08:16:21.345Z"
+generated_at: "2026-03-30T08:19:32.544Z"
 status: "active"
 ---
 

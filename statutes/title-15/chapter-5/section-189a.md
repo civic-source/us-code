@@ -3,9 +3,9 @@ title: "Section 189a - Repealed. Pub. L. 91–412, § 3(b) , (c), Sept. 25, 1970
 usc_title: 15
 usc_section: "189a"
 chapter: 5
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 189a"
-generated_at: "2026-03-30T08:14:39.032Z"
+generated_at: "2026-03-30T08:17:50.020Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1406 - Appeal to Board"
 usc_title: 2
 usc_section: "1406"
 chapter: 24
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "2 U.S.C. § 1406"
-generated_at: "2026-03-30T08:14:13.687Z"
+generated_at: "2026-03-30T08:17:02.975Z"
 status: "active"
 ---
 

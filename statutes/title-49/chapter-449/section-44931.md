@@ -3,9 +3,9 @@ title: "Section 44931 - Authority to exempt"
 usc_title: 49
 usc_section: "44931"
 chapter: 449
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "49 U.S.C. § 44931"
-generated_at: "2026-03-30T08:16:42.073Z"
+generated_at: "2026-03-30T08:19:57.553Z"
 status: "active"
 ---
 

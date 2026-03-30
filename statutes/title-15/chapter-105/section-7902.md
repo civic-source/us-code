@@ -3,9 +3,9 @@ title: "Section 7902 - Prohibition on bringing of qualified civil liability acti
 usc_title: 15
 usc_section: "7902"
 chapter: 105
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 7902"
-generated_at: "2026-03-30T08:14:39.175Z"
+generated_at: "2026-03-30T08:17:50.152Z"
 status: "active"
 ---
 

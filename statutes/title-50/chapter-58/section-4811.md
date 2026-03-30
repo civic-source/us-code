@@ -3,9 +3,9 @@ title: "Section 4811 - Statement of policy"
 usc_title: 50
 usc_section: "4811"
 chapter: 58
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 4811"
-generated_at: "2026-03-30T08:16:25.876Z"
+generated_at: "2026-03-30T08:19:49.561Z"
 status: "active"
 ---
 

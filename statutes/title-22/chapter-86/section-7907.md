@@ -3,9 +3,9 @@ title: "Section 7907 - Fellowship and exchange programs"
 usc_title: 22
 usc_section: "7907"
 chapter: 86
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 7907"
-generated_at: "2026-03-30T08:15:20.810Z"
+generated_at: "2026-03-30T08:18:17.843Z"
 status: "active"
 ---
 

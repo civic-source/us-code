@@ -3,9 +3,9 @@ title: "Section 193 - Claims and rights under land laws not affected; rights-of-
 usc_title: 16
 usc_section: "193"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "16 U.S.C. § 193"
-generated_at: "2026-03-30T08:15:12.421Z"
+generated_at: "2026-03-30T08:17:57.140Z"
 status: "active"
 ---
 

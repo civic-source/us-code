@@ -3,9 +3,9 @@ title: "Section 3034 - Chief Financial Officer of the Intelligence Community"
 usc_title: 50
 usc_section: "3034"
 chapter: 44
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 3034"
-generated_at: "2026-03-30T08:16:25.843Z"
+generated_at: "2026-03-30T08:19:49.530Z"
 status: "active"
 ---
 

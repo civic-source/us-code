@@ -3,9 +3,9 @@ title: "Section 1460 - Savings provisions"
 usc_title: 15
 usc_section: "1460"
 chapter: 39
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 1460"
-generated_at: "2026-03-30T08:14:39.087Z"
+generated_at: "2026-03-30T08:17:50.071Z"
 status: "active"
 ---
 

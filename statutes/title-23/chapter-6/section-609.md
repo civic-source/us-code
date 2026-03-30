@@ -3,9 +3,9 @@ title: "Section 609 - Reports to Congress"
 usc_title: 23
 usc_section: "609"
 chapter: 6
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "23 U.S.C. § 609"
-generated_at: "2026-03-30T08:15:28.326Z"
+generated_at: "2026-03-30T08:18:14.853Z"
 status: "active"
 ---
 

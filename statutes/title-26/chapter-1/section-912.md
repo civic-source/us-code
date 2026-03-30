@@ -3,9 +3,9 @@ title: "Section 912 - Exemption for certain allowances"
 usc_title: 26
 usc_section: "912"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 912"
-generated_at: "2026-03-30T08:15:44.863Z"
+generated_at: "2026-03-30T08:18:34.991Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 150703 - Membership"
 usc_title: 36
 usc_section: "150703"
 chapter: 1507
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "36 U.S.C. § 150703"
-generated_at: "2026-03-30T08:15:52.485Z"
+generated_at: "2026-03-30T08:19:04.072Z"
 status: "active"
 ---
 

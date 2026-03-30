@@ -3,9 +3,9 @@ title: "Section 7835 - Repealed. Pub. L. 98–242, title I, § 110(a) , Mar. 22,
 usc_title: 42
 usc_section: "7835"
 chapter: 87
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 7835"
-generated_at: "2026-03-30T08:16:21.228Z"
+generated_at: "2026-03-30T08:19:32.448Z"
 status: "repealed"
 ---
 

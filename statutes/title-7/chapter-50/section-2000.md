@@ -3,9 +3,9 @@ title: "Section 2000 - Homestead protection"
 usc_title: 7
 usc_section: "2000"
 chapter: 50
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 2000"
-generated_at: "2026-03-30T08:14:24.971Z"
+generated_at: "2026-03-30T08:17:09.855Z"
 status: "active"
 ---
 

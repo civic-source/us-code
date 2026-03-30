@@ -3,9 +3,9 @@ title: "Section 1856p - Repealed. Pub. L. 101–11, § 2 , Apr. 7, 1989 , 103 St
 usc_title: 42
 usc_section: "1856p"
 chapter: 15
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 1856p"
-generated_at: "2026-03-30T08:16:21.007Z"
+generated_at: "2026-03-30T08:19:32.269Z"
 status: "repealed"
 ---
 

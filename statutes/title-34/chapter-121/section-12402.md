@@ -3,9 +3,9 @@ title: "Section 12402 - Authorization of appropriations"
 usc_title: 34
 usc_section: "12402"
 chapter: 121
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 12402"
-generated_at: "2026-03-30T08:15:48.010Z"
+generated_at: "2026-03-30T08:18:50.067Z"
 status: "active"
 ---
 

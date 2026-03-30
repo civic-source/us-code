@@ -3,9 +3,9 @@ title: "Section 1749ll - Repealed. Pub. L. 101–235, title I, § 133(a) , Dec. 
 usc_title: 12
 usc_section: "1749ll"
 chapter: 13
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 1749ll"
-generated_at: "2026-03-30T08:14:50.028Z"
+generated_at: "2026-03-30T08:17:41.453Z"
 status: "repealed"
 ---
 

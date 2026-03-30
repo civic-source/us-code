@@ -3,9 +3,9 @@ title: "Section 5106 - Annual performance report"
 usc_title: 14
 usc_section: "5106"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "14 U.S.C. § 5106"
-generated_at: "2026-03-30T08:14:35.370Z"
+generated_at: "2026-03-30T08:17:37.922Z"
 status: "active"
 ---
 

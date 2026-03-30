@@ -3,9 +3,9 @@ title: "Section 12572 - Allotment"
 usc_title: 34
 usc_section: "12572"
 chapter: 121
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 12572"
-generated_at: "2026-03-30T08:15:48.014Z"
+generated_at: "2026-03-30T08:18:50.071Z"
 status: "active"
 ---
 

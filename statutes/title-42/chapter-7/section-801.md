@@ -3,9 +3,9 @@ title: "Section 801 - Repealed"
 usc_title: 42
 usc_section: "801"
 chapter: 7
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 801"
-generated_at: "2026-03-30T08:16:20.791Z"
+generated_at: "2026-03-30T08:19:32.091Z"
 status: "repealed"
 ---
 

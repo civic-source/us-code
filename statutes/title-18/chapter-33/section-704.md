@@ -3,9 +3,9 @@ title: "Section 704 - Military medals or decorations"
 usc_title: 18
 usc_section: "704"
 chapter: 33
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "18 U.S.C. § 704"
-generated_at: "2026-03-30T08:14:54.372Z"
+generated_at: "2026-03-30T08:17:54.906Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)**
   - **(1)** If a decoration or medal involved in an offense under subsection (a) is a Congressional Medal of Honor, in lieu of the punishment provided in that subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
   - **(2)** In this subsection, the term “Congressional Medal of Honor” means—
-    - **(A)** a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+    - **(A)** a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14;
     - **(B)** a duplicate medal of honor issued under section 7284, 8306, or 9284 of title 10 or section 504 1 of title 14; or
     - **(C)** a replacement of a medal of honor provided under section 7277, 8303, or 9277 of title 10 or section 501 1 of title 14.
 - **(d)**

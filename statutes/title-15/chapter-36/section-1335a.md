@@ -3,9 +3,9 @@ title: "Section 1335a - List of cigarette ingredients; annual submission to Secr
 usc_title: 15
 usc_section: "1335a"
 chapter: 36
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 1335a"
-generated_at: "2026-03-30T08:14:39.086Z"
+generated_at: "2026-03-30T08:17:50.070Z"
 status: "active"
 ---
 

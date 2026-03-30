@@ -3,9 +3,9 @@ title: "Section 9521 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9521"
 chapter: 102
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 9521"
-generated_at: "2026-03-30T08:16:21.251Z"
+generated_at: "2026-03-30T08:19:32.466Z"
 status: "repealed"
 ---
 

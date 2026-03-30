@@ -3,9 +3,9 @@ title: "Section 1475 - Repealed. Pub. L. 97–35, title XII, § 1205(c) , Aug. 1
 usc_title: 15
 usc_section: "1475"
 chapter: 39
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 1475"
-generated_at: "2026-03-30T08:14:39.088Z"
+generated_at: "2026-03-30T08:17:50.072Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3558 - Effect on existing law"
 usc_title: 44
 usc_section: "3558"
 chapter: 35
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "44 U.S.C. § 3558"
-generated_at: "2026-03-30T08:15:59.942Z"
+generated_at: "2026-03-30T08:19:14.536Z"
 status: "active"
 ---
 

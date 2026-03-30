@@ -3,9 +3,9 @@ title: "Section 276 - Disbursement of appropriations"
 usc_title: 2
 usc_section: "276"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "2 U.S.C. § 276"
-generated_at: "2026-03-30T08:14:13.668Z"
+generated_at: "2026-03-30T08:17:02.958Z"
 status: "active"
 ---
 

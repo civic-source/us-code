@@ -3,9 +3,9 @@ title: "Section 1208 - Computation of service"
 usc_title: 10
 usc_section: "1208"
 chapter: 61
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 1208"
-generated_at: "2026-03-30T08:14:28.595Z"
+generated_at: "2026-03-30T08:17:25.833Z"
 status: "active"
 ---
 

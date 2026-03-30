@@ -3,9 +3,9 @@ title: "Section 9123 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9123"
 chapter: 72
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 9123"
-generated_at: "2026-03-30T08:14:56.334Z"
+generated_at: "2026-03-30T08:18:07.816Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7351b - Applications"
 usc_title: 20
 usc_section: "7351b"
 chapter: 70
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 7351b"
-generated_at: "2026-03-30T08:14:56.322Z"
+generated_at: "2026-03-30T08:18:07.805Z"
 status: "active"
 ---
 

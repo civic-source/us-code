@@ -3,9 +3,9 @@ title: "Section 2619 - Citizens’ civil actions"
 usc_title: 15
 usc_section: "2619"
 chapter: 53
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 2619"
-generated_at: "2026-03-30T08:14:39.128Z"
+generated_at: "2026-03-30T08:17:50.111Z"
 status: "active"
 ---
 

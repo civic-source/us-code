@@ -3,9 +3,9 @@ title: "Section 618c - Charges as retroactive; adjustment of accounts"
 usc_title: 43
 usc_section: "618c"
 chapter: 12
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "43 U.S.C. § 618c"
-generated_at: "2026-03-30T08:16:01.991Z"
+generated_at: "2026-03-30T08:19:06.781Z"
 status: "active"
 ---
 

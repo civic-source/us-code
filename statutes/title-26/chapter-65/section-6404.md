@@ -3,9 +3,9 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-30T08:15:44.965Z"
+generated_at: "2026-03-30T08:18:35.081Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** is excessive in amount, or
   - **(2)** is assessed after the expiration of the period of limitation properly applicable thereto, or
   - **(3)** is erroneously or illegally assessed.
-- **(b)** No claim for abatement shall be filed by a taxpayer in respect of any assessment of any tax imposed under subtitle A or B.
+- **(b)** No claim for abatement shall be filed by a taxpayer in respect of an assessment of any tax imposed under subtitle A or B.
 - **(c)** The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or any liability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
 - **(d)** In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 - **(e)**

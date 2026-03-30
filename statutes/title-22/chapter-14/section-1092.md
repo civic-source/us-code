@@ -3,9 +3,9 @@ title: "Section 1092 - Repealed. Pub. L. 94–350, title V, § 516 , July 12, 19
 usc_title: 22
 usc_section: "1092"
 chapter: 14
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 1092"
-generated_at: "2026-03-30T08:15:20.708Z"
+generated_at: "2026-03-30T08:18:17.740Z"
 status: "repealed"
 ---
 

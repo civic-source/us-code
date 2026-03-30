@@ -3,9 +3,9 @@ title: "Section 153 - Repealed. May 25, 1948, ch. 335, § 3(a) , (b), 62 Stat. 2
 usc_title: 50
 usc_section: "153"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 153"
-generated_at: "2026-03-30T08:16:25.808Z"
+generated_at: "2026-03-30T08:19:49.496Z"
 status: "repealed"
 ---
 

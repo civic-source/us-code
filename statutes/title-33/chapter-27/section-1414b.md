@@ -3,9 +3,9 @@ title: "Section 1414b - Ocean dumping of sewage sludge and industrial waste"
 usc_title: 33
 usc_section: "1414b"
 chapter: 27
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "33 U.S.C. § 1414b"
-generated_at: "2026-03-30T08:15:49.836Z"
+generated_at: "2026-03-30T08:18:38.351Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1278a - Children’s products containing lead; lead paint rule"
 usc_title: 15
 usc_section: "1278a"
 chapter: 30
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 1278a"
-generated_at: "2026-03-30T08:14:39.084Z"
+generated_at: "2026-03-30T08:17:50.069Z"
 status: "active"
 ---
 

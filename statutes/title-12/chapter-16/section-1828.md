@@ -3,9 +3,9 @@ title: "Section 1828 - Regulations governing insured depository institutions"
 usc_title: 12
 usc_section: "1828"
 chapter: 16
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 1828"
-generated_at: "2026-03-30T08:14:50.048Z"
+generated_at: "2026-03-30T08:17:41.473Z"
 status: "active"
 ---
 

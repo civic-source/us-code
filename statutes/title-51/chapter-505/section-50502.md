@@ -3,9 +3,9 @@ title: "Section 50502 - Launch voucher demonstration program"
 usc_title: 51
 usc_section: "50502"
 chapter: 505
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "51 U.S.C. § 50502"
-generated_at: "2026-03-30T08:16:47.086Z"
+generated_at: "2026-03-30T08:20:05.291Z"
 status: "active"
 ---
 

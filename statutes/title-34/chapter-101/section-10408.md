@@ -3,9 +3,9 @@ title: "Section 10408 - Administrative provisions"
 usc_title: 34
 usc_section: "10408"
 chapter: 101
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 10408"
-generated_at: "2026-03-30T08:15:47.989Z"
+generated_at: "2026-03-30T08:18:50.050Z"
 status: "active"
 ---
 

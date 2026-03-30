@@ -3,9 +3,9 @@ title: "Section 2291 - Destruction of vessel or maritime facility"
 usc_title: 18
 usc_section: "2291"
 chapter: 111
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "18 U.S.C. § 2291"
-generated_at: "2026-03-30T08:14:54.399Z"
+generated_at: "2026-03-30T08:17:54.931Z"
 status: "active"
 ---
 

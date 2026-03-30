@@ -3,9 +3,9 @@ title: "Section 880a - Repealed. Pub. L. 91–230, title VI, § 662(3) , Apr. 13
 usc_title: 20
 usc_section: "880a"
 chapter: 24
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 880a"
-generated_at: "2026-03-30T08:14:56.211Z"
+generated_at: "2026-03-30T08:18:07.698Z"
 status: "repealed"
 ---
 

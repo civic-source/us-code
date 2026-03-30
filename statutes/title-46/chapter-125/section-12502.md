@@ -3,9 +3,9 @@ title: "Section 12502 - Identification numbers, signal letters, and markings"
 usc_title: 46
 usc_section: "12502"
 chapter: 125
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "46 U.S.C. § 12502"
-generated_at: "2026-03-30T08:16:33.237Z"
+generated_at: "2026-03-30T08:19:48.496Z"
 status: "active"
 ---
 

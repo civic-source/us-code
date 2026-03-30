@@ -3,9 +3,9 @@ title: "Section 2185 - Trade credit insurance program for Poland"
 usc_title: 22
 usc_section: "2185"
 chapter: 32
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 2185"
-generated_at: "2026-03-30T08:15:20.725Z"
+generated_at: "2026-03-30T08:18:17.757Z"
 status: "active"
 ---
 

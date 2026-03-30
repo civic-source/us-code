@@ -3,9 +3,9 @@ title: "Section 9a - Credit of receipts"
 usc_title: 29
 usc_section: "9a"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "29 U.S.C. § 9a"
-generated_at: "2026-03-30T08:15:31.657Z"
+generated_at: "2026-03-30T08:18:21.722Z"
 status: "active"
 ---
 

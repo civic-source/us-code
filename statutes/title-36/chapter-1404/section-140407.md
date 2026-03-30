@@ -3,9 +3,9 @@ title: "Section 140407 - Tax-exempt status required as condition of charter"
 usc_title: 36
 usc_section: "140407"
 chapter: 1404
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "36 U.S.C. § 140407"
-generated_at: "2026-03-30T08:15:52.483Z"
+generated_at: "2026-03-30T08:19:04.071Z"
 status: "active"
 ---
 

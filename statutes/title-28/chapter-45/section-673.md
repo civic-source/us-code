@@ -3,9 +3,9 @@ title: "Section 673 - Reporter"
 usc_title: 28
 usc_section: "673"
 chapter: 45
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "28 U.S.C. § 673"
-generated_at: "2026-03-30T08:15:34.755Z"
+generated_at: "2026-03-30T08:18:20.907Z"
 status: "active"
 ---
 

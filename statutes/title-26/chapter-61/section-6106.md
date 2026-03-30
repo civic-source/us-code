@@ -3,9 +3,9 @@ title: "Section 6106 - Repealed. Pub. L. 94–455, title XII, § 1202(h)(1) , Oc
 usc_title: 26
 usc_section: "6106"
 chapter: 61
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 6106"
-generated_at: "2026-03-30T08:15:44.955Z"
+generated_at: "2026-03-30T08:18:35.072Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8025 - Financial management"
 usc_title: 10
 usc_section: "8025"
 chapter: 803
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 8025"
-generated_at: "2026-03-30T08:14:28.661Z"
+generated_at: "2026-03-30T08:17:25.899Z"
 status: "active"
 ---
 

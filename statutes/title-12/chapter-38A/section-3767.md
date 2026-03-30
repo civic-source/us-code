@@ -3,9 +3,9 @@ title: "Section 3767 - Severability"
 usc_title: 12
 usc_section: "3767"
 chapter: 38
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 3767"
-generated_at: "2026-03-30T08:14:50.087Z"
+generated_at: "2026-03-30T08:17:41.513Z"
 status: "active"
 ---
 

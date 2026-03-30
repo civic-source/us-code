@@ -3,9 +3,9 @@ title: "Section 1242 - Enrollment by Board; standards and qualifications; suspen
 usc_title: 29
 usc_section: "1242"
 chapter: 18
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "29 U.S.C. § 1242"
-generated_at: "2026-03-30T08:15:31.714Z"
+generated_at: "2026-03-30T08:18:21.765Z"
 status: "active"
 ---
 

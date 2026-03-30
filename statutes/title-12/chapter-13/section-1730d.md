@@ -3,9 +3,9 @@ title: "Section 1730d - Repealed. Pub. L. 101–73, title IV, § 407 , Aug. 9, 1
 usc_title: 12
 usc_section: "1730d"
 chapter: 13
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 1730d"
-generated_at: "2026-03-30T08:14:50.023Z"
+generated_at: "2026-03-30T08:17:41.448Z"
 status: "repealed"
 ---
 

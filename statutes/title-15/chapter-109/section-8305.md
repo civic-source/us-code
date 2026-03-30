@@ -3,9 +3,9 @@ title: "Section 8305 - Prohibition against Federal Government bailouts of swaps 
 usc_title: 15
 usc_section: "8305"
 chapter: 109
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 8305"
-generated_at: "2026-03-30T08:14:39.177Z"
+generated_at: "2026-03-30T08:17:50.154Z"
 status: "active"
 ---
 

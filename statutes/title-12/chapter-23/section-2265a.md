@@ -3,9 +3,9 @@ title: "Section 2265a - Removal and prohibition authority; industry-wide prohibi
 usc_title: 12
 usc_section: "2265a"
 chapter: 23
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 2265a"
-generated_at: "2026-03-30T08:14:50.068Z"
+generated_at: "2026-03-30T08:17:41.493Z"
 status: "active"
 ---
 
@@ -35,4 +35,4 @@ status: "active"
     - **(A)** report the action to the Farm Credit Administration; and
     - **(B)** publicly disclose the action.
   - **(3)** The agencies described in clauses (i) and (ii) of paragraph (1)(B) shall consult with each other before providing any written consent under that paragraph.
-- **(d)** A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation of that order.
+- **(d)** A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation 2 2 So in original. Probably should be preceded by “a”. of that order.

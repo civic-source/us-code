@@ -3,9 +3,9 @@ title: "Section 7 - Position and manner of display"
 usc_title: 4
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "4 U.S.C. § 7"
-generated_at: "2026-03-30T08:14:11.839Z"
+generated_at: "2026-03-30T08:16:57.493Z"
 status: "active"
 ---
 
@@ -29,6 +29,6 @@ The flag, when carried in a procession with another flag or flags, should be eit
   - **(1)** the term “half-staff” means the position of the flag when it is one-half the distance between the top and bottom of the staff;
   - **(2)** the term “executive or military department” means any agency listed under sections 101 and 102 of title 5;
   - **(3)** the term “Member of Congress” means a Senator, a Representative, a Delegate, or the Resident Commissioner from Puerto Rico; and
-  - **(4)** the term “first responder” means a “public safety officer” as defined in section 10284 of title 34 .
+  - **(4)** the term “first responder” means a “public safety officer” as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 34 U.S.C. 10284 ).
 - **(n)** When the flag is used to cover a casket, it should be so placed that the union is at the head and over the left shoulder. The flag should not be lowered into the grave or allowed to touch the ground.
 - **(o)** When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer’s left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances in more than two directions, the union should be to the east.

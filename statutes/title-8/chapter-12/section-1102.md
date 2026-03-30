@@ -3,9 +3,9 @@ title: "Section 1102 - Diplomatic and semidiplomatic immunities"
 usc_title: 8
 usc_section: "1102"
 chapter: 12
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "8 U.S.C. § 1102"
-generated_at: "2026-03-30T08:14:32.730Z"
+generated_at: "2026-03-30T08:17:06.083Z"
 status: "active"
 ---
 

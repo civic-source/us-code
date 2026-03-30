@@ -3,9 +3,9 @@ title: "Section 981 - Limitation on number of enlisted aides"
 usc_title: 10
 usc_section: "981"
 chapter: 49
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 981"
-generated_at: "2026-03-30T08:14:28.581Z"
+generated_at: "2026-03-30T08:17:25.818Z"
 status: "active"
 ---
 

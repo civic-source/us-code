@@ -3,9 +3,9 @@ title: "Section 1929 - Cadets; appointment as ensign"
 usc_title: 14
 usc_section: "1929"
 chapter: 19
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "14 U.S.C. § 1929"
-generated_at: "2026-03-30T08:14:35.364Z"
+generated_at: "2026-03-30T08:17:37.916Z"
 status: "active"
 ---
 

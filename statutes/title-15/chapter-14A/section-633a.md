@@ -3,9 +3,9 @@ title: "Section 633a - Detailed justification for proposed changes in budget req
 usc_title: 15
 usc_section: "633a"
 chapter: 14
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 633a"
-generated_at: "2026-03-30T08:14:39.042Z"
+generated_at: "2026-03-30T08:17:50.030Z"
 status: "active"
 ---
 

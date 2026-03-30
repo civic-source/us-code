@@ -3,17 +3,22 @@ title: "Section 175b - Possession by restricted persons"
 usc_title: 18
 usc_section: "175b"
 chapter: 10
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "18 U.S.C. § 175b"
-generated_at: "2026-03-30T08:14:54.364Z"
+generated_at: "2026-03-30T08:17:54.899Z"
 status: "active"
 ---
 
 # § 175b. Possession by restricted persons
 
 - **(a)**
-  - **(1)** No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations.
-  - **(2)** Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
+  - **(1)** It shall be unlawful for a restricted person to—
+    - **(A)** ship, transport, or possess in or affecting interstate or foreign commerce any biological agent or toxin described in paragraph (2); or
+    - **(B)** receive any biological agent or toxin described in paragraph (2) that has been shipped or transported in interstate or foreign commerce.
+  - **(2)** A biological agent or toxin described in this paragraph is a biological agent or toxin that—
+    - **(A)** is listed as a non-overlap or overlap select biological agent or toxin under part 73 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act ( 42 U.S.C. 262a ); and
+    - **(B)** is not excluded or exempted under part 73 of title 42, Code of Federal Regulations.
+  - **(3)** Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 - **(b)**
   - **(1)** Whoever transfers a select agent to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 351A of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
   - **(2)** Whoever transfers a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 212 of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.

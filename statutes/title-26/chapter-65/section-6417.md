@@ -3,9 +3,9 @@ title: "Section 6417 - Repealed. Pub. L. 94–455, title XIX, § 1906(a)(25) , O
 usc_title: 26
 usc_section: "6417"
 chapter: 65
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 6417"
-generated_at: "2026-03-30T08:15:44.966Z"
+generated_at: "2026-03-30T08:18:35.082Z"
 status: "repealed"
 ---
 

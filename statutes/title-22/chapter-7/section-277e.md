@@ -3,9 +3,9 @@ title: "Section 277e - Disposal of lands; issuance of licenses for use of lands;
 usc_title: 22
 usc_section: "277e"
 chapter: 7
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 277e"
-generated_at: "2026-03-30T08:15:20.694Z"
+generated_at: "2026-03-30T08:18:17.726Z"
 status: "active"
 ---
 

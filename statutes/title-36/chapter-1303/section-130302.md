@@ -3,9 +3,9 @@ title: "Section 130302 - Principles and purposes"
 usc_title: 36
 usc_section: "130302"
 chapter: 1303
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "36 U.S.C. § 130302"
-generated_at: "2026-03-30T08:15:52.482Z"
+generated_at: "2026-03-30T08:19:04.070Z"
 status: "active"
 ---
 

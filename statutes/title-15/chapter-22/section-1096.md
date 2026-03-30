@@ -3,9 +3,9 @@ title: "Section 1096 - Registration on supplemental register not used to stop im
 usc_title: 15
 usc_section: "1096"
 chapter: 22
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 1096"
-generated_at: "2026-03-30T08:14:39.078Z"
+generated_at: "2026-03-30T08:17:50.063Z"
 status: "active"
 ---
 

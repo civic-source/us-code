@@ -3,9 +3,9 @@ title: "Section 30A - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(1
 usc_title: 26
 usc_section: "30A"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 30A"
-generated_at: "2026-03-30T08:15:44.716Z"
+generated_at: "2026-03-30T08:18:34.873Z"
 status: "repealed"
 ---
 

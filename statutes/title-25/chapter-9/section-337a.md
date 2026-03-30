@@ -3,9 +3,9 @@ title: "Section 337a - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 
 usc_title: 25
 usc_section: "337a"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "25 U.S.C. § 337a"
-generated_at: "2026-03-30T08:15:16.287Z"
+generated_at: "2026-03-30T08:18:14.268Z"
 status: "repealed"
 ---
 

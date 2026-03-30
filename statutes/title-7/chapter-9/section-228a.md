@@ -3,9 +3,9 @@ title: "Section 228a - Authority of Secretary to request temporary injunction or
 usc_title: 7
 usc_section: "228a"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 228a"
-generated_at: "2026-03-30T08:14:24.914Z"
+generated_at: "2026-03-30T08:17:09.796Z"
 status: "active"
 ---
 

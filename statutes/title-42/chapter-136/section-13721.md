@@ -3,9 +3,9 @@ title: "Section 13721 - Transferred"
 usc_title: 42
 usc_section: "13721"
 chapter: 136
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 13721"
-generated_at: "2026-03-30T08:16:21.351Z"
+generated_at: "2026-03-30T08:19:32.549Z"
 status: "transferred"
 ---
 

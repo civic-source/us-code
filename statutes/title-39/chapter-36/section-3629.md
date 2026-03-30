@@ -3,9 +3,9 @@ title: "Section 3629 - Reduced rates for voter registration purposes"
 usc_title: 39
 usc_section: "3629"
 chapter: 36
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "39 U.S.C. § 3629"
-generated_at: "2026-03-30T08:15:51.576Z"
+generated_at: "2026-03-30T08:18:57.069Z"
 status: "active"
 ---
 

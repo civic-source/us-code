@@ -3,9 +3,9 @@ title: "Section 6966a - Increased use of recovered mineral component in federall
 usc_title: 42
 usc_section: "6966a"
 chapter: 82
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 6966a"
-generated_at: "2026-03-30T08:16:21.173Z"
+generated_at: "2026-03-30T08:19:32.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1146 - Outreach to promote retirement income savings"
 usc_title: 29
 usc_section: "1146"
 chapter: 18
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "29 U.S.C. § 1146"
-generated_at: "2026-03-30T08:15:31.709Z"
+generated_at: "2026-03-30T08:18:21.761Z"
 status: "active"
 ---
 

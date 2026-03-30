@@ -3,9 +3,9 @@ title: "Section 8202 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8202"
 chapter: 70
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 8202"
-generated_at: "2026-03-30T08:14:56.332Z"
+generated_at: "2026-03-30T08:18:07.815Z"
 status: "repealed"
 ---
 

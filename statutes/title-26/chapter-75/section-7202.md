@@ -3,9 +3,9 @@ title: "Section 7202 - Willful failure to collect or pay over tax"
 usc_title: 26
 usc_section: "7202"
 chapter: 75
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 7202"
-generated_at: "2026-03-30T08:15:44.979Z"
+generated_at: "2026-03-30T08:18:35.093Z"
 status: "active"
 ---
 

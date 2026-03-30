@@ -3,9 +3,9 @@ title: "Section 5680 - Repealed. Pub. L. 115–334, title III, § 3201(b)(4) , D
 usc_title: 7
 usc_section: "5680"
 chapter: 87
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 5680"
-generated_at: "2026-03-30T08:14:25.019Z"
+generated_at: "2026-03-30T08:17:09.905Z"
 status: "repealed"
 ---
 

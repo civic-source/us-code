@@ -3,9 +3,9 @@ title: "Section 228b - Prompt payment for purchase of livestock"
 usc_title: 7
 usc_section: "228b"
 chapter: 9
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 228b"
-generated_at: "2026-03-30T08:14:24.914Z"
+generated_at: "2026-03-30T08:17:09.796Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1261 - Scholarships"
 usc_title: 33
 usc_section: "1261"
 chapter: 26
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "33 U.S.C. § 1261"
-generated_at: "2026-03-30T08:15:49.814Z"
+generated_at: "2026-03-30T08:18:38.333Z"
 status: "active"
 ---
 

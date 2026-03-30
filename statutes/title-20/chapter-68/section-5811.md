@@ -3,9 +3,9 @@ title: "Section 5811 - Purpose"
 usc_title: 20
 usc_section: "5811"
 chapter: 68
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 5811"
-generated_at: "2026-03-30T08:14:56.302Z"
+generated_at: "2026-03-30T08:18:07.785Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 426g - Occupation of lands by former owners"
 usc_title: 16
 usc_section: "426g"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "16 U.S.C. § 426g"
-generated_at: "2026-03-30T08:15:12.459Z"
+generated_at: "2026-03-30T08:17:57.173Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8374 - Treatment of fractions of years of service in computing r
 usc_title: 10
 usc_section: "8374"
 chapter: 843
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "10 U.S.C. § 8374"
-generated_at: "2026-03-30T08:14:28.664Z"
+generated_at: "2026-03-30T08:17:25.902Z"
 status: "active"
 ---
 

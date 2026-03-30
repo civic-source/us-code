@@ -3,9 +3,9 @@ title: "Section 3632 - Development of risk and needs assessment system"
 usc_title: 18
 usc_section: "3632"
 chapter: 229
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "18 U.S.C. § 3632"
-generated_at: "2026-03-30T08:14:54.418Z"
+generated_at: "2026-03-30T08:17:54.949Z"
 status: "active"
 ---
 
@@ -110,7 +110,7 @@ status: "active"
       - **(lix)** Section 276(a) of the Immigration and Nationality Act ( 8 U.S.C. 1326 ), relating to the reentry of a removed alien, but only if the alien is described in paragraph (1) or (2) of subsection (b) of that section.
       - **(lx)** Section 277 of the Immigration and Nationality Act ( 8 U.S.C. 1327 ), relating to aiding or assisting certain aliens to enter the United States.
       - **(lxi)** Section 278 of the Immigration and Nationality Act ( 8 U.S.C. 1328 ), relating to the importation of an alien into the United States for an immoral purpose.
-      - **(lxii)** Any section of the Export Administration Act of 1979 ( 50 U.S.C. 4611 et seq.)
+      - **(lxii)** Any section of the Export Administration Act of 1979 ( 50 U.S.C. 4611 et seq.) 2 2 So in original. Probably should be followed by a period.
       - **(lxiii)** Section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ).
       - **(lxiv)** Section 601 of the National Security Act of 1947 ( 50 U.S.C. 3121 ), relating to the protection of identities of certain United States undercover intelligence officers, agents, informants, and sources.
       - **(lxv)** Subparagraph (A)(i) or (B)(i) of section 401(b)(1) of the Controlled Substances Act ( 21 U.S.C. 841(b)(1) ) or paragraph (1)(A) or (2)(A) of section 1010(b) of the Controlled Substances Import and Export Act ( 21 U.S.C. 960(b) ), relating to manufacturing, distributing, dispensing, or possessing with intent to manufacture, distribute, dispense, or knowingly importing or exporting, a mixture or substance containing a detectable amount of heroin if the sentencing court finds that the offender was an organizer, leader, manager, or supervisor of others in the offense, as determined under the guidelines promulgated by the United States Sentencing Commission.

@@ -3,9 +3,9 @@ title: "Section 3149 - Surrender of an offender by a surety"
 usc_title: 18
 usc_section: "3149"
 chapter: 207
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "18 U.S.C. § 3149"
-generated_at: "2026-03-30T08:14:54.409Z"
+generated_at: "2026-03-30T08:17:54.940Z"
 status: "active"
 ---
 

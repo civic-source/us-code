@@ -3,9 +3,9 @@ title: "Section 5550a - Compensatory time off for religious observances"
 usc_title: 5
 usc_section: "5550a"
 chapter: 55
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "5 U.S.C. § 5550a"
-generated_at: "2026-03-30T08:14:15.278Z"
+generated_at: "2026-03-30T08:16:59.601Z"
 status: "active"
 ---
 

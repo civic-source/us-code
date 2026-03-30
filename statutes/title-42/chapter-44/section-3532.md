@@ -3,9 +3,9 @@ title: "Section 3532 - Establishment of Department"
 usc_title: 42
 usc_section: "3532"
 chapter: 44
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 3532"
-generated_at: "2026-03-30T08:16:21.076Z"
+generated_at: "2026-03-30T08:19:32.325Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 557b - Office of disability employment policy"
 usc_title: 29
 usc_section: "557b"
 chapter: 12
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "29 U.S.C. § 557b"
-generated_at: "2026-03-30T08:15:31.669Z"
+generated_at: "2026-03-30T08:18:21.731Z"
 status: "active"
 ---
 

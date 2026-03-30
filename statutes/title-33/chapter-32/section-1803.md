@@ -3,9 +3,9 @@ title: "Section 1803 - Study with respect to inland waterway user taxes and char
 usc_title: 33
 usc_section: "1803"
 chapter: 32
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "33 U.S.C. § 1803"
-generated_at: "2026-03-30T08:15:49.839Z"
+generated_at: "2026-03-30T08:18:38.354Z"
 status: "active"
 ---
 

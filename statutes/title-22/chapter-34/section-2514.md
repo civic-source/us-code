@@ -3,9 +3,9 @@ title: "Section 2514 - Use of funds"
 usc_title: 22
 usc_section: "2514"
 chapter: 34
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "22 U.S.C. § 2514"
-generated_at: "2026-03-30T08:15:20.745Z"
+generated_at: "2026-03-30T08:18:17.776Z"
 status: "active"
 ---
 

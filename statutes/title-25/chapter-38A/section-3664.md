@@ -3,9 +3,9 @@ title: "Section 3664 - No offset"
 usc_title: 25
 usc_section: "3664"
 chapter: 38
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "25 U.S.C. § 3664"
-generated_at: "2026-03-30T08:15:16.332Z"
+generated_at: "2026-03-30T08:18:14.309Z"
 status: "active"
 ---
 

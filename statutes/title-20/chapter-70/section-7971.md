@@ -3,9 +3,9 @@ title: "Section 7971 - Short title"
 usc_title: 20
 usc_section: "7971"
 chapter: 70
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 7971"
-generated_at: "2026-03-30T08:14:56.332Z"
+generated_at: "2026-03-30T08:18:07.815Z"
 status: "active"
 ---
 

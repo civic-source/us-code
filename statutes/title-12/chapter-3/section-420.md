@@ -3,9 +3,9 @@ title: "Section 420 - Control and direction of plates and dies; expense of issue
 usc_title: 12
 usc_section: "420"
 chapter: 3
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 420"
-generated_at: "2026-03-30T08:14:49.979Z"
+generated_at: "2026-03-30T08:17:41.404Z"
 status: "active"
 ---
 

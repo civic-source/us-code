@@ -3,9 +3,9 @@ title: "Section 1086 - Repealed. Pub. L. 109–280, title I, § 101(a) , Aug. 17
 usc_title: 29
 usc_section: "1086"
 chapter: 18
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "29 U.S.C. § 1086"
-generated_at: "2026-03-30T08:15:31.706Z"
+generated_at: "2026-03-30T08:18:21.758Z"
 status: "repealed"
 ---
 

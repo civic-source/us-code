@@ -3,9 +3,9 @@ title: "Section 5914 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5914"
 chapter: 79
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "16 U.S.C. § 5914"
-generated_at: "2026-03-30T08:15:12.636Z"
+generated_at: "2026-03-30T08:17:57.347Z"
 status: "repealed"
 ---
 

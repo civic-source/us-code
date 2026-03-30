@@ -3,9 +3,9 @@ title: "Section 77ppp - Directions and waivers by bondholders; prohibition of im
 usc_title: 15
 usc_section: "77ppp"
 chapter: 2
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 77ppp"
-generated_at: "2026-03-30T08:14:38.996Z"
+generated_at: "2026-03-30T08:17:49.986Z"
 status: "active"
 ---
 

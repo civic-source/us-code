@@ -3,9 +3,9 @@ title: "Section 10261 - Authorization of appropriations"
 usc_title: 34
 usc_section: "10261"
 chapter: 101
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 10261"
-generated_at: "2026-03-30T08:15:47.985Z"
+generated_at: "2026-03-30T08:18:50.047Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
   - **(18)** There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2014 through 2018.
   - **(19)** There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2014 through 2018. Funds appropriated under this paragraph shall remain available until expended.
   - **(20)** There are authorized to be appropriated to carry out part V, 1 $10,000,000 for each of fiscal years 2001 through 2004.
-  - **(21)** There are authorized to be appropriated to carry out subchapter XXII—
+  - **(21)** There are authorized to be appropriated to carry out subchapter XXII, $7,500,000 for each of fiscal years 2020 through 2024.
   - **(22)** There are authorized to be appropriated to carry out subchapter XXIII—
   - **(23)** There is authorized to be appropriated to carry out subchapter XXIV, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.
   - **(24)** There are authorized to be appropriated to carry out subchapter XXVII, to remain available until expended—

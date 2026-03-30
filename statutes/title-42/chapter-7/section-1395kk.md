@@ -3,9 +3,9 @@ title: "Section 1395kk - Administration of insurance programs"
 usc_title: 42
 usc_section: "1395kk"
 chapter: 7
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 1395kk"
-generated_at: "2026-03-30T08:16:20.891Z"
+generated_at: "2026-03-30T08:19:32.172Z"
 status: "active"
 ---
 

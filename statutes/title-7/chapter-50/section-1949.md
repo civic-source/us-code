@@ -3,9 +3,9 @@ title: "Section 1949 - Graduation of borrowers with operating loans or guarantee
 usc_title: 7
 usc_section: "1949"
 chapter: 50
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "7 U.S.C. § 1949"
-generated_at: "2026-03-30T08:14:24.967Z"
+generated_at: "2026-03-30T08:17:09.851Z"
 status: "active"
 ---
 

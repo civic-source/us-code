@@ -3,9 +3,9 @@ title: "Section 7f - Collaboration and Coordination"
 usc_title: 42
 usc_section: "7f"
 chapter: 6
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T08:16:20.601Z"
+generated_at: "2026-03-30T08:19:31.936Z"
 status: "active"
 ---
 

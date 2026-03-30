@@ -3,9 +3,9 @@ title: "Section 6065 - Verification of returns"
 usc_title: 26
 usc_section: "6065"
 chapter: 61
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 6065"
-generated_at: "2026-03-30T08:15:44.951Z"
+generated_at: "2026-03-30T08:18:35.068Z"
 status: "active"
 ---
 

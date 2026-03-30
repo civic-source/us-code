@@ -3,9 +3,9 @@ title: "Section 3231 - Applicability to United States intelligence activities of
 usc_title: 50
 usc_section: "3231"
 chapter: 44
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "50 U.S.C. § 3231"
-generated_at: "2026-03-30T08:16:25.849Z"
+generated_at: "2026-03-30T08:19:49.537Z"
 status: "active"
 ---
 

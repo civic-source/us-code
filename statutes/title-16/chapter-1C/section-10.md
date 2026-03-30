@@ -3,9 +3,9 @@ title: "Section 10 - Savings provisions"
 usc_title: 16
 usc_section: "10"
 chapter: 1
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T08:15:12.503Z"
+generated_at: "2026-03-30T08:17:57.216Z"
 status: "active"
 ---
 

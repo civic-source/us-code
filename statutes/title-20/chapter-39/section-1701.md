@@ -3,9 +3,9 @@ title: "Section 1701 - Congressional declaration of policy"
 usc_title: 20
 usc_section: "1701"
 chapter: 39
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "20 U.S.C. § 1701"
-generated_at: "2026-03-30T08:14:56.285Z"
+generated_at: "2026-03-30T08:18:07.767Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4103 - Biennial report"
 usc_title: 44
 usc_section: "4103"
 chapter: 41
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "44 U.S.C. § 4103"
-generated_at: "2026-03-30T08:15:59.944Z"
+generated_at: "2026-03-30T08:19:14.537Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 25f - Prevention and education programs"
 usc_title: 42
 usc_section: "25f"
 chapter: 6
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "42 U.S.C. § 25f"
-generated_at: "2026-03-30T08:16:20.656Z"
+generated_at: "2026-03-30T08:19:31.982Z"
 status: "active"
 ---
 

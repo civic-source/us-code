@@ -3,9 +3,9 @@ title: "Section 3721 - Federal loan guarantees for innovative technologies in ma
 usc_title: 15
 usc_section: "3721"
 chapter: 63
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "15 U.S.C. § 3721"
-generated_at: "2026-03-30T08:14:39.144Z"
+generated_at: "2026-03-30T08:17:50.125Z"
 status: "active"
 ---
 

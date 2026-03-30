@@ -3,9 +3,9 @@ title: "Section 3112 - Unified State plan"
 usc_title: 29
 usc_section: "3112"
 chapter: 32
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "29 U.S.C. § 3112"
-generated_at: "2026-03-30T08:15:31.733Z"
+generated_at: "2026-03-30T08:18:21.781Z"
 status: "active"
 ---
 

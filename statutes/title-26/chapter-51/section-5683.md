@@ -3,9 +3,9 @@ title: "Section 5683 - Penalty and forfeiture for removal of liquors under impro
 usc_title: 26
 usc_section: "5683"
 chapter: 51
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "26 U.S.C. § 5683"
-generated_at: "2026-03-30T08:15:44.939Z"
+generated_at: "2026-03-30T08:18:35.058Z"
 status: "active"
 ---
 

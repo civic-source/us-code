@@ -3,9 +3,9 @@ title: "Section 299 - Joinder of parties"
 usc_title: 35
 usc_section: "299"
 chapter: 29
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "35 U.S.C. § 299"
-generated_at: "2026-03-30T08:15:47.027Z"
+generated_at: "2026-03-30T08:18:36.861Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10c - Corporation as conservator or receiver; certain other powe
 usc_title: 12
 usc_section: "10c"
 chapter: 23
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "12 U.S.C. § 10c"
-generated_at: "2026-03-30T08:14:50.070Z"
+generated_at: "2026-03-30T08:17:41.495Z"
 status: "active"
 ---
 
@@ -429,7 +429,7 @@ status: "active"
       - **(ii)** was executed by such System bank in default and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by such System bank in default;
       - **(iii)** was approved by the board of directors of such System bank in default or its loan committee, which approval shall be reflected in the minutes of said board or committee; and
       - **(iv)** has been, continuously from the time of its execution, an official record of such System bank in default;
-    - **(I)** notwithstanding sub section 2277a–10(d)(2) of this title , any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
+    - **(I)** notwithstanding subsection 2 2 So in original. Probably should be “section”. 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
     - **(J)** except with the prior approval of the Corporation and the concurrence of the Farm Credit Administration, a bridge System bank may not, in any transaction or series of transactions, issue capital stock or be a party to any merger, consolidation, disposition of substantially all of the assets or liabilities of the bridge System bank, sale or exchange of capital stock, or similar transaction, or change its charter.
   - **(5)**
     - **(A)** The Corporation shall not be required to—

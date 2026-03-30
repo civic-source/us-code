@@ -3,9 +3,9 @@ title: "Section 12451 - Creating hope through outreach, options, services, and e
 usc_title: 34
 usc_section: "12451"
 chapter: 121
-current_through: "PL 116-29"
+current_through: "PL 116-33"
 classification: "34 U.S.C. § 12451"
-generated_at: "2026-03-30T08:15:48.011Z"
+generated_at: "2026-03-30T08:18:50.068Z"
 status: "active"
 ---
 
