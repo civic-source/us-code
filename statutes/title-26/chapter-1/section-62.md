@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-30T04:17:14.440Z"
+generated_at: "2026-03-30T04:19:03.151Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** The deductions allowed by part VI (section 161 and following) which consist of expenses paid or incurred by the taxpayer, in connection with the performance by him of services as an employee, under a reimbursement or other expense allowance arrangement with his employer. The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.
     - **(B)** The deductions allowed by section 162 which consist of expenses paid or incurred by a qualified performing artist in connection with the performances by him of services in the performing arts as an employee.
     - **(C)** The deductions allowed by section 162 which consist of expenses paid or incurred with respect to services performed by an official as an employee of a State or a political subdivision thereof in a position compensated in whole or in part on a fee basis.
-    - **(D)** In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, or 2013, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+    - **(D)** In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, or 2014, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
     - **(E)** The deductions allowed by section 162 which consist of expenses, determined at a rate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
   - **(3)** The deductions allowed by part VI (sec. 161 and following) as losses from the sale or exchange of property.
   - **(4)** The deductions allowed by part VI (sec. 161 and following), by section 212 (relating to expenses for production of income), and by section 611 (relating to depletion) which are attributable to property held for the production of rents or royalties.
@@ -30,7 +30,7 @@ status: "active"
   - **(11)** The deduction allowed by section 194.
   - **(12)** The deduction allowed by section 165 for the repayment to a trust described in paragraph (9) or (17) of section 501(c) of supplemental unemployment compensation benefits received from such trust if such repayment is required because of the receipt of trade readjustment allowances under section 231 or 232 of the Trade Act of 1974 ( 19 U.S.C. 2291 and 2292).
   - **(13)** Any deduction allowable under this chapter by reason of an individual remitting any portion of any jury pay to such individual’s employer in exchange for payment by the employer of compensation for the period such individual was performing jury duty. For purposes of the preceding sentence, the term “jury pay” means any payment received by the individual for the discharge of jury duty.
-  - **(14)** The deduction allowed by section 179A.
+  - **[(14)**
   - **(15)** The deduction allowed by section 217.
   - **(16)** The deduction allowed by section 220.
   - **(17)** The deduction allowed by section 221.

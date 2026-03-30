@@ -3,9 +3,9 @@ title: "Section 397c - Acquisition of lands by Governor of the Territory of Hawa
 usc_title: 16
 usc_section: "397c"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 397c"
-generated_at: "2026-03-30T04:16:25.116Z"
+generated_at: "2026-03-30T04:18:37.476Z"
 status: "active"
 ---
 

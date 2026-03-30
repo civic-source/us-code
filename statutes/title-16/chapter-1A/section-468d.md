@@ -1,15 +1,13 @@
 ---
-title: "Section 468d - Consultation with Advisory Board on National Parks, Historic Sites, Buildings, and Monuments"
+title: "Section 468d - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "468d"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 468d"
-generated_at: "2026-03-30T04:16:25.232Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.556Z"
+status: "repealed"
 ---
 
-# § 468d. Consultation with Advisory Board on National Parks, Historic Sites, Buildings, and Monuments
-
-In carrying out its functions under sections 468 to 468d of this title, the National Trust is authorized to consult with the Advisory Board on National Parks, Historic Sites, Buildings, and Monuments, on matters relating to the selection of sites, buildings, and objects to be preserved and protected pursuant hereto.
+# § 468d. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

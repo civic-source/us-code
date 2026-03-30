@@ -3,9 +3,9 @@ title: "Section 535d - Repealed. Pub. L. 100–17, title I, § 135(g) , Apr. 2, 
 usc_title: 33
 usc_section: "535d"
 chapter: 11
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 535d"
-generated_at: "2026-03-30T04:17:18.913Z"
+generated_at: "2026-03-30T04:19:23.080Z"
 status: "repealed"
 ---
 

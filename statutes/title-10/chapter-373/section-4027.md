@@ -3,9 +3,9 @@ title: "Section 4027 - Civilian special agents of the Criminal Investigation Com
 usc_title: 10
 usc_section: "4027"
 chapter: 373
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 4027"
-generated_at: "2026-03-30T04:15:29.949Z"
+generated_at: "2026-03-30T04:18:16.937Z"
 status: "active"
 ---
 

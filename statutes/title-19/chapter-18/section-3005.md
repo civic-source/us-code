@@ -3,9 +3,9 @@ title: "Section 3005 - Commission review of, and recommendations regarding, Harm
 usc_title: 19
 usc_section: "3005"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "19 U.S.C. § 3005"
-generated_at: "2026-03-30T04:16:40.586Z"
+generated_at: "2026-03-30T04:18:38.979Z"
 status: "active"
 ---
 

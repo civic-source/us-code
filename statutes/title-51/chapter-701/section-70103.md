@@ -3,9 +3,9 @@ title: "Section 70103 - Commercial payloads on space shuttle"
 usc_title: 51
 usc_section: "70103"
 chapter: 701
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "51 U.S.C. § 70103"
-generated_at: "2026-03-30T04:17:52.296Z"
+generated_at: "2026-03-30T04:20:27.895Z"
 status: "active"
 ---
 

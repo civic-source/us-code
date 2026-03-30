@@ -3,9 +3,9 @@ title: "Section 5709 - Authorization of appropriations"
 usc_title: 20
 usc_section: "5709"
 chapter: 67
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 5709"
-generated_at: "2026-03-30T04:16:29.623Z"
+generated_at: "2026-03-30T04:18:34.474Z"
 status: "active"
 ---
 

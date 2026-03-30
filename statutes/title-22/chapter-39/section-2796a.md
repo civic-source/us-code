@@ -3,15 +3,15 @@ title: "Section 2796a - Reports to Congress"
 usc_title: 22
 usc_section: "2796a"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2796a"
-generated_at: "2026-03-30T04:17:01.849Z"
+generated_at: "2026-03-30T04:18:49.496Z"
 status: "active"
 ---
 
 # § 2796a. Reports to Congress
 
-- **(a)** Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2311 et seq.], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
+- **(a)** Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2311 et seq.], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
   - **(1)** the country or international organization to which the defense article is to be leased or loaned;
   - **(2)** the type, quantity, and value (in terms of replacement cost) of the defense article to be leased or loaned;
   - **(3)** the terms and duration of the lease or loan; and

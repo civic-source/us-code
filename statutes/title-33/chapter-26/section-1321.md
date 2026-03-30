@@ -3,9 +3,9 @@ title: "Section 1321 - Oil and hazardous substance liability"
 usc_title: 33
 usc_section: "1321"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 1321"
-generated_at: "2026-03-30T04:17:18.949Z"
+generated_at: "2026-03-30T04:19:23.123Z"
 status: "active"
 ---
 
@@ -204,20 +204,23 @@ status: "active"
       - **(iii)** may provide technical assistance in the preparation of Area Contingency Plans required under paragraph (4); and
       - **(iv)** shall review each of those plans that affect its area of geographic responsibility.
   - **(4)**
-    - **(A)** There is established for each area designated by the President an Area Committee comprised of members appointed by the President from qualified personnel of Federal, State, and local agencies.
+    - **(A)** There is established for each area designated by the President an Area Committee comprised of members appointed by the President from qualified—
+      - **(i)** personnel of Federal, State, and local agencies; and
+      - **(ii)** members of federally recognized Indian tribes, where applicable.
     - **(B)** Each Area Committee, under the direction of the Federal On-Scene Coordinator for its area, shall—
       - **(i)** prepare for its area the Area Contingency Plan required under subparagraph (C);
-      - **(ii)** work with State and local officials to enhance the contingency planning of those officials and to assure preplanning of joint response efforts, including appropriate procedures for mechanical recovery, dispersal, shoreline cleanup, protection of sensitive environmental areas, and protection, rescue, and rehabilitation of fisheries and wildlife; and
-      - **(iii)** work with State and local officials to expedite decisions for the use of dispersants and other mitigating substances and devices.
+      - **(ii)** work with State, local, and tribal officials to enhance the contingency planning of those officials and to assure preplanning of joint response efforts, including appropriate procedures for mechanical recovery, dispersal, shoreline cleanup, protection of sensitive environmental areas, and protection, rescue, and rehabilitation of fisheries and wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge; and
+      - **(iii)** work with State, local, and tribal officials to expedite decisions for the use of dispersants and other mitigating substances and devices.
     - **(C)** Each Area Committee shall prepare and submit to the President for approval an Area Contingency Plan for its area. The Area Contingency Plan shall—
       - **(i)** when implemented in conjunction with the National Contingency Plan, be adequate to remove a worst case discharge, and to mitigate or prevent a substantial threat of such a discharge, from a vessel, offshore facility, or onshore facility operating in or near the area;
       - **(ii)** describe the area covered by the plan, including the areas of special economic or environmental importance that might be damaged by a discharge;
       - **(iii)** describe in detail the responsibilities of an owner or operator and of Federal, State, and local agencies in removing a discharge, and in mitigating or preventing a substantial threat of a discharge;
-      - **(iv)** list the equipment (including firefighting equipment), dispersants or other mitigating substances and devices, and personnel available to an owner or operator and Federal, State, and local agencies, to ensure an effective and immediate removal of a discharge, and to ensure mitigation or prevention of a substantial threat of a discharge;
+      - **(iv)** list the equipment (including firefighting equipment), dispersants or other mitigating substances and devices, and personnel available to an owner or operator, Federal, State, and local agencies, and tribal governments, to ensure an effective and immediate removal of a discharge, and to ensure mitigation or prevention of a substantial threat of a discharge;
       - **(v)** compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and describe the procedures to be followed for obtaining an expedited decision regarding the use of dispersants;
       - **(vi)** describe in detail how the plan is integrated into other Area Contingency Plans and vessel, offshore facility, and onshore facility response plans approved under this subsection, and into operating procedures of the National Response Unit;
-      - **(vii)** include any other information the President requires; and
-      - **(viii)** be updated periodically by the Area Committee.
+      - **(vii)** include a framework for advance planning and decisionmaking with respect to the closing and reopening of fishing areas following a discharge, including protocols and standards for the closing and reopening of fishing areas;
+      - **(viii)** include any other information the President requires; and
+      - **(ix)** be updated periodically by the Area Committee.
     - **(D)** The President shall—
       - **(i)** review and approve Area Contingency Plans under this paragraph; and
       - **(ii)** periodically review Area Contingency Plans so approved.

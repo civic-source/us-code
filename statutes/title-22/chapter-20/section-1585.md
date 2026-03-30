@@ -3,9 +3,9 @@ title: "Section 1585 - Omitted"
 usc_title: 22
 usc_section: "1585"
 chapter: 20
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 1585"
-generated_at: "2026-03-30T04:17:01.784Z"
+generated_at: "2026-03-30T04:18:49.437Z"
 status: "omitted"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 2306 - Authorization of appropriations; availability of amounts"
+title: "Section 2306 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "2306"
 chapter: 43
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 2306"
-generated_at: "2026-03-30T04:16:25.408Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.680Z"
+status: "repealed"
 ---
 
-# § 2306. Authorization of appropriations; availability of amounts
-
-In carrying out the purposes of this chapter, there is hereby authorized to be appropriated $1,000,000 for fiscal year 1979; $2,000,000 for fiscal year 1980; and $3,000,000 for fiscal year 1981, which shall remain available until expended. In a fiscal year when the amounts actually appropriated are less than the amounts listed above, the authorized but unappropriated amount shall continue to be available for appropriation in succeeding fiscal years.
+# § 2306. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

@@ -3,9 +3,9 @@ title: "Section 300ff35300ff36 - Repealed. Pub. L. 106–345, title II, § 211(2
 usc_title: 42
 usc_section: "300ff35300ff36"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 300ff35300ff36"
-generated_at: "2026-03-30T04:17:41.490Z"
+generated_at: "2026-03-30T04:19:55.758Z"
 status: "repealed"
 ---
 

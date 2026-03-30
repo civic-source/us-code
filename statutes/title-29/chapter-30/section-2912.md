@@ -3,9 +3,9 @@ title: "Section 2912 - Migrant and seasonal farmworker programs"
 usc_title: 29
 usc_section: "2912"
 chapter: 30
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 2912"
-generated_at: "2026-03-30T04:17:06.265Z"
+generated_at: "2026-03-30T04:18:56.602Z"
 status: "active"
 ---
 

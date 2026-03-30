@@ -3,9 +3,9 @@ title: "Section 1003 - Leasing procedures"
 usc_title: 30
 usc_section: "1003"
 chapter: 23
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1003"
-generated_at: "2026-03-30T04:17:04.607Z"
+generated_at: "2026-03-30T04:18:52.670Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** The Secretary shall accept nominations of land to be leased at any time from qualified companies and individuals under this chapter.
 - **(b)**
-  - **(1)** Except as otherwise specifically provided by this chapter, all land to be leased that is not subject to leasing under subsection (c) of this section shall be leased as provided in this subsection to the highest responsible qualified bidder, as determined by the Secretary.
-  - **(2)** The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) of this section if the land is otherwise available for leasing.
+  - **(1)** Except as otherwise specifically provided by this chapter, all land to be leased that is not subject to leasing under subsection (c) shall be leased as provided in this subsection to the highest responsible qualified bidder, as determined by the Secretary.
+  - **(2)** The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) if the land is otherwise available for leasing.
   - **(3)** Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency may be available for noncompetitive leasing under this section to the mining claim holder.
 - **(c)** The Secretary shall make available for a period of 2 years for noncompetitive leasing any tract for which a competitive lease sale is held, but for which the Secretary does not receive any bids in a competitive lease sale.
 - **(d)**
@@ -23,7 +23,7 @@ status: "active"
     - **(A)** except as provided in subparagraph (B), shall be subject to this section as in effect on the day before August 8, 2005 ; or
     - **(B)** at the election of the applicant, shall be subject to this section as in effect on August 8, 2005 .
 - **(e)** If information is available to the Secretary indicating a geothermal resource that could be produced as 1 unit can reasonably be expected to underlie more than 1 parcel to be offered in a competitive lease sale, the parcels for such a resource may be offered for bidding as a block in the competitive lease sale.
-- **(f)** Notwithstanding subsection (b) of this section, the Secretary may identify areas in which the land to be leased under this chapter exclusively for direct use of geothermal resources, without sale for purposes other than commercial generation of electricity, may be leased to any qualified applicant that first applies for such a lease under regulations issued by the Secretary, if the Secretary—
+- **(f)** Notwithstanding subsection (b), the Secretary may identify areas in which the land to be leased under this chapter exclusively for direct use of geothermal resources, without sale for purposes other than commercial generation of electricity, may be leased to any qualified applicant that first applies for such a lease under regulations issued by the Secretary, if the Secretary—
   - **(1)** publishes a notice of the land proposed for leasing not later than 90 days before the date of the issuance of the lease;
   - **(2)** does not receive during the 90-day period beginning on the date of the publication any nomination to include the land concerned in the next competitive lease sale; and
   - **(3)** determines there is no competitive interest in the geothermal resources in the land to be leased.

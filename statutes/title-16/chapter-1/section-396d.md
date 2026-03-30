@@ -3,9 +3,9 @@ title: "Section 396d - Establishment"
 usc_title: 16
 usc_section: "396d"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 396d"
-generated_at: "2026-03-30T04:16:25.116Z"
+generated_at: "2026-03-30T04:18:37.475Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The boundaries of the park are modified to include lands and interests therein comprised of Parcels 1 and 2 totaling 2.14 acres, identified as “Tract A” on the map entitled “Kaloko-Honoko̅hau National Historical Park Proposed Boundary Adjustment”, numbered PWR (PISO) 466/82,043 and dated April 2002.
   - **(3)** The maps referred to in this subsection shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(b)** Except for any lands owned by the State of Hawaii or its subdivisions, which may be acquired only by donation, the Secretary is authorized to acquire the lands described above by donation, exchange, or purchase through the use of donated or appropriated funds, notwithstanding any prior restriction of law.
-- **(c)** The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, and 461 to 467 of this title, and generally in accordance with the guidelines provided in the study report entitled “Kaloko-Honoko̅hau” prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
+- **(c)** The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, 1 1 See References in Text note below. and 461 to 467 1 of this title, and generally in accordance with the guidelines provided in the study report entitled “Kaloko-Honoko̅hau” prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
 - **(d)**
   - **(1)** In administering the park the Secretary may provide traditional native Hawaiian accommodations.
   - **(2)** The Secretary shall consult with and may enter into a cooperative management agreement with the State of Hawaii for the management of the submerged lands within the authorized park boundary, following the marine management policies of the State of Hawaii.

@@ -3,9 +3,9 @@ title: "Section 951 - Declaration of findings and purposes"
 usc_title: 20
 usc_section: "951"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 951"
-generated_at: "2026-03-30T04:16:29.487Z"
+generated_at: "2026-03-30T04:18:34.364Z"
 status: "active"
 ---
 

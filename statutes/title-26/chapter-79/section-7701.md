@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T04:17:14.768Z"
+generated_at: "2026-03-30T04:19:03.424Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
       - **(ix)** loans made for the payment of expenses of college or university education or vocational training, in accordance with such regulations as may be prescribed by the Secretary,
       - **(x)** property used by the association in the conduct of the business described in subparagraph (B), and
       - **(xi)** any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.
-  - **(20)** For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951 , who would be considered an employee if his services were performed during 1951.
+  - **(20)** For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21.
   - **(21)** The term “levy” includes the power of distraint and seizure by any means.
   - **(22)** The term “Attorney General” means the Attorney General of the United States.
   - **(23)** The term “taxable year” means the calendar year, or the fiscal year ending during such calendar year, upon the basis of which the taxable income is computed under subtitle A. “Taxable year” means, in the case of a return made for a fractional part of a year under the provisions of subtitle A or under regulations prescribed by the Secretary, the period for which such return is made.

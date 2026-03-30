@@ -3,9 +3,9 @@ title: "Section 1537 - Services between the United States Government and the Dis
 usc_title: 31
 usc_section: "1537"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 1537"
-generated_at: "2026-03-30T04:17:17.903Z"
+generated_at: "2026-03-30T04:19:06.438Z"
 status: "active"
 ---
 

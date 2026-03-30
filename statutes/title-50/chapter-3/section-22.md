@@ -3,9 +3,9 @@ title: "Section 22 - Time allowed to settle affairs and depart"
 usc_title: 50
 usc_section: "22"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 22"
-generated_at: "2026-03-30T04:17:50.301Z"
+generated_at: "2026-03-30T04:20:17.677Z"
 status: "active"
 ---
 

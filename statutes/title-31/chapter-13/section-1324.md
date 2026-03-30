@@ -3,9 +3,9 @@ title: "Section 1324 - Refund of internal revenue collections"
 usc_title: 31
 usc_section: "1324"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 1324"
-generated_at: "2026-03-30T04:17:17.901Z"
+generated_at: "2026-03-30T04:19:06.436Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
     - **(E)** “Refunds and payments of processing and related taxes”.
 - **(b)** Disbursements may be made from the appropriation made by this section only for—
   - **(1)** refunds to the limit of liability of an individual tax account; and
-  - **(2)** refunds due from credit provisions of the Internal Revenue Code of 1986 ( 26 U.S.C. 1 et seq.) enacted before January 1, 1978 , or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), 6428, or 6431, 1 1 So in original. The comma probably should not appear. of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+  - **(2)** refunds due from credit provisions of the Internal Revenue Code of 1986 ( 26 U.S.C. 1 et seq.) enacted before January 1, 1978 , or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), or 6431 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.

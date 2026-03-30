@@ -1,15 +1,13 @@
 ---
-title: "Section 14a - Appropriations; availability for printing information and signs"
+title: "Section 14a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "14a"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 14a"
-generated_at: "2026-03-30T04:16:25.079Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 14a. Appropriations; availability for printing information and signs
-
-Appropriations made for the National Park Service shall be available for the printing of information and directional signs made of cloth and required in the administration of areas under its jurisdiction.
+# § 14a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

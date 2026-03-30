@@ -3,9 +3,9 @@ title: "Section 831h - Annual financial statement; purchases and contracts; audi
 usc_title: 16
 usc_section: "831h"
 chapter: 12
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 831h"
-generated_at: "2026-03-30T04:16:25.321Z"
+generated_at: "2026-03-30T04:18:37.615Z"
 status: "active"
 ---
 

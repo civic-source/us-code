@@ -3,9 +3,9 @@ title: "Section 2765 - Annual estimate and justification for sales program"
 usc_title: 22
 usc_section: "2765"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2765"
-generated_at: "2026-03-30T04:17:01.845Z"
+generated_at: "2026-03-30T04:18:49.492Z"
 status: "active"
 ---
 
@@ -37,4 +37,4 @@ status: "active"
 - **(c)** The President shall make every effort to submit all of the information required by subsection (a) or (b) wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
 - **(d)** For the purposes of subsection (a)(5)(B) of this section, the term “cash flow financing” means the dollar amount of the difference between the total estimated price of a Letter of Offer and Acceptance or other purchase agreement that has been approved for financing under this chapter or under section 503(a)(3) of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2311(a)(3) ] and the amount of the financing that has been approved therefor; 3 3 So in original. The semicolon probably should be a period.
 - **(d)** The information required by subsection (a)(4) of this section shall be transmitted to the Congress no later than April 1 of each year.
-- **(e)** As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+- **(e)** As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.

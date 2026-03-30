@@ -3,9 +3,9 @@ title: "Section 677i - Division of assets; basis; prior alienation or encumbranc
 usc_title: 25
 usc_section: "677i"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 677i"
-generated_at: "2026-03-30T04:16:44.946Z"
+generated_at: "2026-03-30T04:18:44.146Z"
 status: "active"
 ---
 

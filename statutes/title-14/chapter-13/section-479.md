@@ -3,9 +3,9 @@ title: "Section 479 - Sales of ration supplies to messes"
 usc_title: 14
 usc_section: "479"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 479"
-generated_at: "2026-03-30T04:15:52.715Z"
+generated_at: "2026-03-30T04:18:19.003Z"
 status: "active"
 ---
 

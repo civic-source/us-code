@@ -3,9 +3,9 @@ title: "Section 807 - Rules for certain reserves"
 usc_title: 26
 usc_section: "807"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 807"
-generated_at: "2026-03-30T04:17:14.567Z"
+generated_at: "2026-03-30T04:19:03.257Z"
 status: "active"
 ---
 
@@ -114,10 +114,7 @@ status: "active"
     - **(A)** The amount taken into account for purposes of subsections (a) and (b) as—
       - **(i)** the opening balance of the items referred to in subparagraph (C), and
       - **(ii)** the closing balance of such items,
-    - **(B)**
-      - **(i)** In the case of any taxable year beginning on or after September 30, 1990 , and before September 30, 1996 , there shall be included in the gross income of any life insurance company an amount equal to 3⅓ percent of such company’s closing balance of the items referred to in subparagraph (C) for its most recent taxable year beginning before September 30, 1990 .
-      - **(ii)** Except as provided in section 381(c)(22), if, for any taxable year beginning on or before September 30, 1996 , the taxpayer ceases to be a life insurance company, the aggregate inclusions which would have been made under clause (i) for such taxable year and subsequent taxable years but for such cessation shall be taken into account for the taxable year preceding such cessation year.
-    - **(C)** For purposes of this paragraph, the items referred to in this subparagraph are the items described in subsection (c) which consist of unearned premiums and premiums received in advance under insurance contracts not described in section 816(b)(1)(B).
+    - **(B)** For purposes of this paragraph, the items referred to in this subparagraph are the items described in subsection (c) which consist of unearned premiums and premiums received in advance under insurance contracts not described in section 816(b)(1)(B).
 - **(f)**
   - **(1)**
     - **(A)** For purposes of this part, if the basis for determining any item referred to in subsection (c) as of the close of any taxable year differs from the basis for such determination as of the close of the preceding taxable year, then so much of the difference between—

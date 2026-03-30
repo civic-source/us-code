@@ -3,9 +3,9 @@ title: "Section 1022f - Advisory board or boards"
 usc_title: 15
 usc_section: "1022f"
 chapter: 21
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 1022f"
-generated_at: "2026-03-30T04:16:10.676Z"
+generated_at: "2026-03-30T04:18:26.815Z"
 status: "active"
 ---
 

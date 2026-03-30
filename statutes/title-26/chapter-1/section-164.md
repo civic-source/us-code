@@ -3,9 +3,9 @@ title: "Section 164 - Taxes"
 usc_title: 26
 usc_section: "164"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 164"
-generated_at: "2026-03-30T04:17:14.465Z"
+generated_at: "2026-03-30T04:19:03.172Z"
 status: "active"
 ---
 
@@ -16,8 +16,6 @@ status: "active"
   - **(2)** State and local personal property taxes.
   - **(3)** State and local, and foreign, income, war profits, and excess profits taxes.
   - **(4)** The GST tax imposed on income distributions.
-  - **(5)** The environmental tax imposed by section 59A.
-  - **(6)** Qualified motor vehicle taxes.
 - **(b)** For purposes of this section—
   - **(1)** The term “personal property tax” means an ad valorem tax which is imposed on an annual basis in respect of personal property.
   - **(2)** A State or local tax includes only a tax imposed by a State, a possession of the United States, or a political subdivision of any of the foregoing, or by the District of Columbia.
@@ -25,7 +23,7 @@ status: "active"
   - **(4)**
     - **(A)** The GST tax imposed on income distributions is—
       - **(i)** the tax imposed by section 2601, and
-      - **(ii)** any State tax described in section 2604,
+      - **(ii)** any State tax described in section 2604 (as in effect before its repeal),
     - **(B)** Any tax referred to in subparagraph (A) imposed with respect to a transfer occurring during the taxable year of the distributee (or, in the case of a taxable termination, the trust) which is paid not later than the time prescribed by law (including extensions) for filing the return with respect to such transfer shall be treated as having been paid on the last day of the taxable year in which the transfer was made.
   - **(5)** For purposes of subsection (a)—
     - **(A)** At the election of the taxpayer for the taxable year, subsection (a) shall be applied—
@@ -49,24 +47,7 @@ status: "active"
         - **(I)** shall reflect the provisions of this paragraph,
         - **(II)** shall be based on the average consumption by taxpayers on a State-by-State basis (as determined by the Secretary) of items to which clause (i)(I) does not apply, taking into account filing status, number of dependents, adjusted gross income, and rates of State and local general sales taxation, and
         - **(III)** need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b)).
-    - **(I)** This paragraph shall apply to taxable years beginning after December 31, 2003 , and before January 1, 2014 .
-  - **(6)**
-    - **(A)** For purposes of this section, the term “qualified motor vehicle taxes” means any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle.
-    - **(B)** The amount of any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle taken into account under subparagraph (A) shall not exceed the portion of such tax attributable to so much of the purchase price as does not exceed $49,500.
-    - **(C)** The amount otherwise taken into account under subparagraph (A) (after the application of subparagraph (B)) for any taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so treated as—
-      - **(i)** the excess (if any) of—
-        - **(I)** the taxpayer’s modified adjusted gross income for such taxable year, over
-        - **(II)** $125,000 ($250,000 in the case of a joint return), bears to
-      - **(ii)** $10,000.
-    - **(D)** For purposes of this paragraph—
-      - **(i)** The term “qualified motor vehicle” means—
-        - **(I)** a passenger automobile or light truck which is treated as a motor vehicle for purposes of title II of the Clean Air Act, the gross vehicle weight rating of which is not more than 8,500 pounds, and the original use of which commences with the taxpayer,
-        - **(II)** a motorcycle the gross vehicle weight rating of which is not more than 8,500 pounds and the original use of which commences with the taxpayer, and
-        - **(III)** a motor home the original use of which commences with the taxpayer.
-      - **(ii)** The terms “motorcycle” and “motor home” have the meanings given such terms under section 571.3 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph).
-    - **(E)** The last sentence of subsection (a) shall not apply to any qualified motor vehicle taxes.
-    - **(F)** This paragraph shall not apply in the case of a taxpayer who makes an election under paragraph (5) for the taxable year.
-    - **(G)** This paragraph shall not apply to purchases after December 31, 2009 .
+    - **(I)** This paragraph shall apply to taxable years beginning after December 31, 2003 , and before January 1, 2015 .
 - **(c)** No deduction shall be allowed for the following taxes:
   - **(1)** Taxes assessed against local benefits of a kind tending to increase the value of the property assessed; but this paragraph shall not prevent the deduction of so much of such taxes as is properly allocable to maintenance or interest charges.
   - **(2)** Taxes on real property, to the extent that subsection (d) requires such taxes to be treated as imposed on another taxpayer.

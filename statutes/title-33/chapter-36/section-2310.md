@@ -3,9 +3,9 @@ title: "Section 2310 - Cost sharing for Territories"
 usc_title: 33
 usc_section: "2310"
 chapter: 36
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 2310"
-generated_at: "2026-03-30T04:17:18.978Z"
+generated_at: "2026-03-30T04:19:23.150Z"
 status: "active"
 ---
 

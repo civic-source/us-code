@@ -3,9 +3,9 @@ title: "Section 1524 - Agreements to provide support to vaccination programs of 
 usc_title: 50
 usc_section: "1524"
 chapter: 32
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 1524"
-generated_at: "2026-03-30T04:17:50.312Z"
+generated_at: "2026-03-30T04:20:17.688Z"
 status: "active"
 ---
 

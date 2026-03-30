@@ -3,9 +3,9 @@ title: "Section 13824 - Availability of lines of credit and use"
 usc_title: 42
 usc_section: "13824"
 chapter: 136
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 13824"
-generated_at: "2026-03-30T04:17:42.151Z"
+generated_at: "2026-03-30T04:19:56.503Z"
 status: "active"
 ---
 

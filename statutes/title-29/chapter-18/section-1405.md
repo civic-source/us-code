@@ -3,9 +3,9 @@ title: "Section 1405 - Limitation on withdrawal liability"
 usc_title: 29
 usc_section: "1405"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1405"
-generated_at: "2026-03-30T04:17:06.245Z"
+generated_at: "2026-03-30T04:18:56.586Z"
 status: "active"
 ---
 

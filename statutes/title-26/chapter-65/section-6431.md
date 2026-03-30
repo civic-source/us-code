@@ -3,9 +3,9 @@ title: "Section 6431 - Credit for qualified bonds allowed to issuer"
 usc_title: 26
 usc_section: "6431"
 chapter: 65
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6431"
-generated_at: "2026-03-30T04:17:14.740Z"
+generated_at: "2026-03-30T04:19:03.399Z"
 status: "active"
 ---
 
@@ -32,6 +32,6 @@ status: "active"
     - **(A)** such bond is—
       - **(i)** a new clean renewable energy bond (as defined in section 54C),
       - **(ii)** a qualified energy conservation bond (as defined in section 54D),
-      - **(iii)** a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation, or
+      - **(iii)** a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for years after 2010 or any carryforward of any such allocation, or
       - **(iv)** a qualified school construction bond (as defined in section 54F), and
     - **(B)** the issuer of such bond makes an irrevocable election to have this subsection apply.

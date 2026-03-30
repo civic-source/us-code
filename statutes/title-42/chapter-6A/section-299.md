@@ -3,9 +3,9 @@ title: "Section 299 - Mission and duties"
 usc_title: 42
 usc_section: "299"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 299"
-generated_at: "2026-03-30T04:17:41.445Z"
+generated_at: "2026-03-30T04:19:55.708Z"
 status: "active"
 ---
 

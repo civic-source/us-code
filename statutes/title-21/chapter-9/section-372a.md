@@ -3,9 +3,9 @@ title: "Section 372a - Transferred"
 usc_title: 21
 usc_section: "372a"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 372a"
-generated_at: "2026-03-30T04:16:47.525Z"
+generated_at: "2026-03-30T04:18:45.685Z"
 status: "transferred"
 ---
 

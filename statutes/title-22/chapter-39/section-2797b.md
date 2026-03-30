@@ -3,9 +3,9 @@ title: "Section 2797b - Transfers of missile equipment or technology by foreign 
 usc_title: 22
 usc_section: "2797b"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2797b"
-generated_at: "2026-03-30T04:17:01.850Z"
+generated_at: "2026-03-30T04:18:49.496Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
 - **(d)** The Secretary of State, in consultation with the Secretary of Defense and the Secretary of Commerce, may, upon the request of any person, issue an advisory opinion to that person as to whether a proposed activity by that person would subject that person to sanctions under this section. Any person who relies in good faith on such an advisory opinion which states that the proposed activity would not subject a person to such sanctions, and any person who thereafter engages in such activity, may not be made subject to such sanctions on account of such activity.
 - **(e)**
   - **(1)** In any case other than one in which an advisory opinion has been issued under subsection (d) stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) to a foreign person if the President determines that such waiver is essential to the national security of the United States.
-  - **(2)** In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
+  - **(2)** In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 - **(f)** In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) 2 2 So in original. Probably should be preceded by “section”. of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
 - **(g)** The President may waive the imposition of sanctions under paragraph (1) on a person with respect to a product or service if the President certifies to the Congress that—
   - **(1)** the product or service is essential to the national security of the United States; and

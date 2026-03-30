@@ -3,9 +3,9 @@ title: "Section 596 - Authorization of appropriations"
 usc_title: 5
 usc_section: "596"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 596"
-generated_at: "2026-03-30T04:15:08.200Z"
+generated_at: "2026-03-30T04:18:07.982Z"
 status: "active"
 ---
 

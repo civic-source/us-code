@@ -3,13 +3,13 @@ title: "Section 1422 - Safety of life and property at sea"
 usc_title: 30
 usc_section: "1422"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1422"
-generated_at: "2026-03-30T04:17:04.628Z"
+generated_at: "2026-03-30T04:18:52.684Z"
 status: "active"
 ---
 
 # § 1422. Safety of life and property at sea
 
 - **(a)** The Secretary of the department in which the Coast Guard is operating, in consultation with the Administrator, shall require in any license or permit issued under this subchapter, in conformity with principles of international law, that vessels documented under the laws of the United States and used in activities authorized under the license or permit comply with conditions regarding the design, construction, alteration, repair, equipment, operation, manning, and maintenance relating to vessel and crew safety and the promotion of safety of life and property at sea.
-- **(b)** Notwithstanding any other provision of law, any vessel described in subsection (a) of this section shall be subject to the provisions of chapter 51 of title 46, and to the provisions of titles 52 and 53 of the Revised Statutes and all Acts amendatory thereof or supplementary thereto.
+- **(b)** Notwithstanding any other provision of law, any vessel described in subsection (a) shall be subject to the provisions of chapter 51 of title 46, and to the provisions of titles 52 and 53 of the Revised Statutes and all Acts amendatory thereof or supplementary thereto.

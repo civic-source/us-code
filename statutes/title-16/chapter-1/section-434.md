@@ -3,13 +3,13 @@ title: "Section 434 - National monument in Riverside County, California"
 usc_title: 16
 usc_section: "434"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 434"
-generated_at: "2026-03-30T04:16:25.162Z"
+generated_at: "2026-03-30T04:18:37.510Z"
 status: "active"
 ---
 
 # § 434. National monument in Riverside County, California
 
-The Secretary of the Interior is authorized to set apart the following-described lands located in the county of Riverside, in the State of California, as a national monument, which shall be under the exclusive control of the Secretary of the Interior, who shall administer and protect the same under the provisions of sections 431, 432 and 433 of this title, and under such regulations as he may prescribe: The west half of the southwest quarter of section 2, the southeast quarter of section 3, all of section 10, the west half of the northwest quarter of section 11, all of section 14, all in township 5 south, range 4 east, San Bernardino base and meridian, containing one thousand six hundred acres: Provided , That before such reservation and dedication as herein authorized shall become effective the consent and relinquishment of the Agua Caliente Band of Indians shall first be obtained, covering its right, title, and interest in and to the lands herein described, and payment therefor to the members of said band on a per capita basis, at a price to be agreed upon, when there shall be donated for such purposes to the Secretary of the Interior a fund in an amount to be fixed and determined by him as sufficient to compensate the Indians therefor.
+The Secretary of the Interior is authorized to set apart the following-described lands located in the county of Riverside, in the State of California, as a national monument, which shall be under the exclusive control of the Secretary of the Interior, who shall administer and protect the same under the provisions of sections 431, 432 and 433 of this title, 1 1 See References in Text note below. and under such regulations as he may prescribe: The west half of the southwest quarter of section 2, the southeast quarter of section 3, all of section 10, the west half of the northwest quarter of section 11, all of section 14, all in township 5 south, range 4 east, San Bernardino base and meridian, containing one thousand six hundred acres: Provided , That before such reservation and dedication as herein authorized shall become effective the consent and relinquishment of the Agua Caliente Band of Indians shall first be obtained, covering its right, title, and interest in and to the lands herein described, and payment therefor to the members of said band on a per capita basis, at a price to be agreed upon, when there shall be donated for such purposes to the Secretary of the Interior a fund in an amount to be fixed and determined by him as sufficient to compensate the Indians therefor.
 

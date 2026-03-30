@@ -3,9 +3,9 @@ title: "Section 2041 - Housing assistance for homeless veterans"
 usc_title: 38
 usc_section: "2041"
 chapter: 20
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 2041"
-generated_at: "2026-03-30T04:17:24.200Z"
+generated_at: "2026-03-30T04:19:32.579Z"
 status: "active"
 ---
 
@@ -35,4 +35,4 @@ status: "active"
     - **(A)** shall establish credit standards to be used for this purpose;
     - **(B)** may, pursuant to section 3733(a)(6) of this title , provide that the loan will bear interest at a rate below the rate that prevails for similar loans in the market in which the loan is made; and
     - **(C)** may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
-- **(c)** The Secretary may not enter into agreements under subsection (a) after December 31, 2014 .
+- **(c)** The Secretary may not enter into agreements under subsection (a) after September 30, 2015 .

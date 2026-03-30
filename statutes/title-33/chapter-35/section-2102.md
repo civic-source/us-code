@@ -3,9 +3,9 @@ title: "Section 2102 - Establishment of standards"
 usc_title: 33
 usc_section: "2102"
 chapter: 35
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 2102"
-generated_at: "2026-03-30T04:17:18.969Z"
+generated_at: "2026-03-30T04:19:23.142Z"
 status: "active"
 ---
 

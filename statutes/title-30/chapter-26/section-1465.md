@@ -3,13 +3,13 @@ title: "Section 1465 - Liability of vessels"
 usc_title: 30
 usc_section: "1465"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1465"
-generated_at: "2026-03-30T04:17:04.629Z"
+generated_at: "2026-03-30T04:18:52.684Z"
 status: "active"
 ---
 
 # § 1465. Liability of vessels
 
-Any vessel documented or numbered under the laws of the United States (except a public vessel engaged in noncommercial activities) which is used in any violation of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of any license or permit issued under subchapter I of this chapter shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof.
+Any vessel documented or numbered under the laws of the United States (except a public vessel engaged in noncommercial activities) which is used in any violation of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of any license or permit issued under subchapter I shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof.
 

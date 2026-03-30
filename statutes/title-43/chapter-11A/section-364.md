@@ -3,9 +3,9 @@ title: "Section 364 - Uniformity in geographic nomenclature and orthography; exe
 usc_title: 43
 usc_section: "364"
 chapter: 11
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "43 U.S.C. § 364"
-generated_at: "2026-03-30T04:17:28.098Z"
+generated_at: "2026-03-30T04:19:38.252Z"
 status: "active"
 ---
 

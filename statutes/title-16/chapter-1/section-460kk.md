@@ -3,9 +3,9 @@ title: "Section 460kk - Establishment"
 usc_title: 16
 usc_section: "460kk"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 460kk"
-generated_at: "2026-03-30T04:16:25.201Z"
+generated_at: "2026-03-30T04:18:37.537Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(2)** property developed for agricultural uses, together with any structures accessory thereto as were used for agricultural purposes on or before January 1, 1978 .
 - **(g)** The owner of an improved property, as defined in this section, on the date of its acquisition, as a condition of such acquisition, may retain for herself or himself, her or his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential or agriculture purposes, as the case may be, for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of her or his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this section, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
 - **(h)** In exercising the authority to acquire property under this section, the Secretary shall give prompt and careful consideration to any offer made by an individual owning property within the recreation area to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
-- **(i)** The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
+- **(i)** The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
 - **(j)** The Secretary may enter into cooperative agreements with the State of California, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement services and cooperative assistance by nearby law enforcement and fire preventive agencies.
 - **(k)** Notwithstanding any other provision of law, the Secretary is authorized to accept donations of funds, property, or services from individuals, foundations, corporations, or public entities for the purpose of land acquisition and providing services and facilities which the Secretary deems consistent with the purposes of this section.
 - **(l)** By January 1, 1981 , the Santa Monica Mountains National Recreation Area Advisory Commission, established by this section, shall submit a report to the Secretary which shall—

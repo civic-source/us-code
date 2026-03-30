@@ -3,9 +3,9 @@ title: "Section 5402 - Definition"
 usc_title: 12
 usc_section: "5402"
 chapter: 53
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 5402"
-generated_at: "2026-03-30T04:16:05.796Z"
+generated_at: "2026-03-30T04:18:22.876Z"
 status: "active"
 ---
 

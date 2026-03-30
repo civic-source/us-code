@@ -3,9 +3,9 @@ title: "Section 2723 - Notice to congressional committees of certain security an
 usc_title: 10
 usc_section: "2723"
 chapter: 161
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2723"
-generated_at: "2026-03-30T04:15:29.936Z"
+generated_at: "2026-03-30T04:18:16.924Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
 - **(c)** The Secretary of Defense and the Committees on Armed Services of the Senate and House of Representatives shall each establish such procedures as may be necessary to protect from unauthorized disclosure classified information, information relating to intelligence sources and methods, and sensitive law enforcement information that is submitted to those committees pursuant to this section and that are otherwise necessary to carry out the provisions of this section.
 - **(d)**
   - **(1)** Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
-  - **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 ( 50 U.S.C. 413 ). 1 1 See References in Text note below.
+  - **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 ( 50 U.S.C. 3091 ).

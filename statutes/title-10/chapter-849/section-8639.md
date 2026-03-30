@@ -3,9 +3,9 @@ title: "Section 8639 - Enlisted members: officers not to use as servants"
 usc_title: 10
 usc_section: "8639"
 chapter: 849
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 8639"
-generated_at: "2026-03-30T04:15:29.974Z"
+generated_at: "2026-03-30T04:18:16.960Z"
 status: "active"
 ---
 

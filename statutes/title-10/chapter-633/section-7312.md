@@ -3,9 +3,9 @@ title: "Section 7312 - Service craft stricken from Naval Vessel Register; obsole
 usc_title: 10
 usc_section: "7312"
 chapter: 633
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 7312"
-generated_at: "2026-03-30T04:15:29.967Z"
+generated_at: "2026-03-30T04:18:16.954Z"
 status: "active"
 ---
 
@@ -25,5 +25,5 @@ status: "active"
   - **(5)** Environmental surveys to determine the presence of regulated materials containing polychlorinated biphenyl (PCB) and, if such materials are found, the removal and disposal of such materials.
   - **(6)** Other costs related to such preparation.
 - **(e)** For purposes of this section, an obsolete service craft is a service craft that has been stricken from the Naval Vessel Register.
-- **(f)** Section 3709 1 1 See References in Text note below. of the Revised Statutes ( 41 U.S.C. 5 ) does not apply to sales of service craft and boats described in subsection (a).
+- **(f)** Section 6101 of title 41 does not apply to sales of service craft and boats described in subsection (a).
 - **(g)** The Secretary of the Navy shall prescribe regulations for the purposes of this section.

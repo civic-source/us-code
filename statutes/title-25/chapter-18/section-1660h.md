@@ -3,9 +3,9 @@ title: "Section 1660h - Health information technology"
 usc_title: 25
 usc_section: "1660h"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 1660h"
-generated_at: "2026-03-30T04:16:44.984Z"
+generated_at: "2026-03-30T04:18:44.177Z"
 status: "active"
 ---
 

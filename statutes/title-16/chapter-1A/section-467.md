@@ -1,15 +1,13 @@
 ---
-title: "Section 467 - Conflict of laws"
+title: "Section 467 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "467"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 467"
-generated_at: "2026-03-30T04:16:25.232Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.556Z"
+status: "repealed"
 ---
 
-# § 467. Conflict of laws
-
-The provisions of sections 461 to 467 of this title shall control if any of them are in conflict with any other Act or Acts relating to the same subject matter.
+# § 467. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

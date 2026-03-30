@@ -3,13 +3,13 @@ title: "Section 708 - Bills and resolutions: binding sets for Congress"
 usc_title: 44
 usc_section: "708"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 708"
-generated_at: "2026-03-30T04:17:26.009Z"
+generated_at: "2026-03-30T04:19:38.079Z"
 status: "active"
 ---
 
 # § 708. Bills and resolutions: binding sets for Congress
 
-The Public Printer shall bind four sets of Senate and House of Representatives bills, joint and concurrent resolutions of each Congress, two for the Senate and two for the House, to be furnished him from the files of the Senate and House document room, the volumes when bound to be kept there for reference.
+The Director of the Government Publishing Office shall bind four sets of Senate and House of Representatives bills, joint and concurrent resolutions of each Congress, two for the Senate and two for the House, to be furnished him from the files of the Senate and House document room, the volumes when bound to be kept there for reference.
 

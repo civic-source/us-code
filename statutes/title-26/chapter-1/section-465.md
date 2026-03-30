@@ -3,9 +3,9 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T04:17:14.539Z"
+generated_at: "2026-03-30T04:19:03.234Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
         - **(II)** are placed in service in any taxable year of the partnership or S corporation,
       - **(ii)** Rules similar to the rules of subparagraphs (B) and (C) of paragraph (3) shall apply for purposes of this paragraph.
   - **(3)**
-    - **(A)** In the case of taxable years beginning after December 31, 1978 , this section also applies to each activity—
+    - **(A)** This section also applies to each activity—
       - **(i)** engaged in by the taxpayer in carrying on a trade or business or for the production of income, and
       - **(ii)** which is not described in paragraph (1).
     - **(B)** Except as provided in subparagraph (C), for purposes of this section, activities described in subparagraph (A) which constitute a trade or business shall be treated as one activity if—

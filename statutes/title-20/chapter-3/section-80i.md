@@ -3,9 +3,9 @@ title: "Section 80i - Authorization of appropriations; limitations"
 usc_title: 20
 usc_section: "80i"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 80i"
-generated_at: "2026-03-30T04:16:29.478Z"
+generated_at: "2026-03-30T04:18:34.356Z"
 status: "active"
 ---
 

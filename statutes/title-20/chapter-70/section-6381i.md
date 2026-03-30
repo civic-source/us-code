@@ -3,9 +3,9 @@ title: "Section 6381i - Indicators of program quality"
 usc_title: 20
 usc_section: "6381i"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 6381i"
-generated_at: "2026-03-30T04:16:29.638Z"
+generated_at: "2026-03-30T04:18:34.487Z"
 status: "active"
 ---
 

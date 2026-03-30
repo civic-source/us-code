@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T04:17:14.441Z"
+generated_at: "2026-03-30T04:19:03.152Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(3)** For purposes of subsection (b), the expected return under the contract shall be determined as follows:
     - **(A)** If the expected return under the contract, for the period on and after the annuity starting date, depends in whole or in part on the life expectancy of one or more individuals, the expected return shall be computed with reference to actuarial tables prescribed by the Secretary.
     - **(B)** If subparagraph (A) does not apply, the expected return is the aggregate of the amounts receivable under the contract as an annuity.
-  - **(4)** For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract; except that if such date was before January 1, 1954 , then the annuity starting date is January 1, 1954 .
+  - **(4)** For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract.
 - **(d)**
   - **(1)**
     - **(A)** In the case of any amount received as an annuity under a qualified employer retirement plan—
@@ -134,7 +134,7 @@ status: "active"
 - **(g)** Where any contract (or any interest therein) is transferred (by assignment or otherwise) for a valuable consideration, to the extent that the contract (or interest therein) does not, in the hands of the transferee, have a basis which is determined by reference to the basis in the hands of the transferor, then—
   - **(1)** for purposes of this section, only the actual value of such consideration, plus the amount of the premiums and other consideration paid by the transferee after the transfer, shall be taken into account in computing the aggregate amount of the premiums or other consideration paid for the contract;
   - **(2)** for purposes of subsection (c)(1)(B), there shall be taken into account only the aggregate amount received under the contract by the transferee before the annuity starting date, to the extent that such amount was excludable from gross income under this subtitle or prior income tax laws; and
-  - **(3)** the annuity starting date is January 1, 1954 , or the first day of the first period for which the transferee received an amount under the contract as an annuity, whichever is the later.
+  - **(3)** the annuity starting date is the first day of the first period for which the transferee received an amount under the contract as an annuity.
 - **(h)** If—
   - **(1)** a contract provides for payment of a lump sum in full discharge of an obligation under the contract, subject to an option to receive an annuity in lieu of such lump sum;
   - **(2)** the option is exercised within 60 days after the day on which such lump sum first became payable; and

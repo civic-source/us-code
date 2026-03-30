@@ -3,9 +3,9 @@ title: "Section 1091 - Student eligibility"
 usc_title: 20
 usc_section: "1091"
 chapter: 28
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 1091"
-generated_at: "2026-03-30T04:16:29.547Z"
+generated_at: "2026-03-30T04:18:34.411Z"
 status: "active"
 ---
 
@@ -45,7 +45,23 @@ status: "active"
     - **(A)** the death of a relative of the student,
     - **(B)** the personal injury or illness of the student, or
     - **(C)** special circumstances as determined by the institution.
-- **(d)** In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
+- **(d)**
+  - **(1)** In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall meet the requirements of one of the following subparagraphs:
+    - **(A)** The student is enrolled in an eligible career pathway program and meets one of the following standards:
+      - **(i)** The student shall take an independently administered examination and shall achieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.
+      - **(ii)** The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take into account the effectiveness of such process in enabling students without secondary school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.
+      - **(iii)** The student shall be determined by the institution of higher education as having the ability to benefit from the education or training offered by the institution of higher education upon satisfactory completion of 6 credit hours or the equivalent coursework that are applicable toward a degree or certificate offered by the institution of higher education.
+    - **(B)** The student has completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
+  - **(2)** In this subsection, the term “eligible career pathway program” means a program that—
+    - **(A)** concurrently enrolls participants in connected adult education and eligible postsecondary programs;
+    - **(B)** provides counseling and supportive services to identify and attain academic and career goals;
+    - **(C)** provides structured course sequences that—
+      - **(i)** are articulated and contextualized; and
+      - **(ii)** allow students to advance to higher levels of education and employment;
+    - **(D)** provides opportunities for acceleration to attain recognized postsecondary credentials, including degrees, industry relevant certifications, and certificates of completion of apprenticeship programs;
+    - **(E)** is organized to meet the needs of adults;
+    - **(F)** is aligned with the education and skill needs of the regional economy; and
+    - **(G)** has been developed and implemented in collaboration with partners in business, workforce development, and economic development.
 - **(e)** Each eligible institution may certify student eligibility for a loan by an eligible lender under part B of this subchapter prior to completing the review for accuracy of the information submitted by the applicant required by regulations issued under this subchapter and part C of subchapter I of chapter 34 of title 42, if—
   - **(1)** checks for the loans are mailed to the eligible institution prior to disbursements;
   - **(2)** the disbursement is not made until the review is complete; and

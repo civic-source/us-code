@@ -3,9 +3,9 @@ title: "Section 3595 - Reduction in force in the Senior Executive Service"
 usc_title: 5
 usc_section: "3595"
 chapter: 35
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 3595"
-generated_at: "2026-03-30T04:15:08.212Z"
+generated_at: "2026-03-30T04:18:07.994Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70503 - Manufacture, distribution, or possession of controlled s
 usc_title: 46
 usc_section: "70503"
 chapter: 705
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 70503"
-generated_at: "2026-03-30T04:17:46.749Z"
+generated_at: "2026-03-30T04:20:00.785Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 513 - Retroactive payment of pay and allowances delayed by admin
 usc_title: 14
 usc_section: "513"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 513"
-generated_at: "2026-03-30T04:15:52.716Z"
+generated_at: "2026-03-30T04:18:19.004Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 167 - Unified combatant command for special operations forces"
 usc_title: 10
 usc_section: "167"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 167"
-generated_at: "2026-03-30T04:15:29.822Z"
+generated_at: "2026-03-30T04:18:16.812Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
 - **(f)** In addition to the activities of a combatant command for which funding may be requested under section 166(b) of this title , the budget proposal of the special operations command shall include requests for funding for—
   - **(1)** development and acquisition of special operations-peculiar equipment; and
   - **(2)** acquisition of other material, supplies, or services that are peculiar to special operations activities.
-- **(g)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ( 50 U.S.C. 413 et seq.). 1 1 See References in Text note below.
+- **(g)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.).
 - **(h)** The Secretary of Defense shall prescribe regulations for the activities of the special operations command. Such regulations shall include authorization for the commander of such command to provide for operational security of special operations forces and activities.
 - **(i)**
   - **(1)** Subject to paragraph (2), for the purposes of this section special operations forces are those forces of the armed forces that—

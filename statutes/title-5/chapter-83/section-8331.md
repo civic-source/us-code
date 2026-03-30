@@ -3,9 +3,9 @@ title: "Section 8331 - Definitions"
 usc_title: 5
 usc_section: "8331"
 chapter: 83
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 8331"
-generated_at: "2026-03-30T04:15:08.244Z"
+generated_at: "2026-03-30T04:18:08.025Z"
 status: "active"
 ---
 
@@ -50,8 +50,9 @@ For the purpose of this subchapter—
       - **(i)** received by a criminal investigator under section 5545a of this title ; or
       - **(ii)** received after September 11, 2001 , by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;
     - **(F)** pay as provided in section 5545b(b)(2) and (c)(2);
-    - **(G)** with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911 ), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved; and
-    - **(H)** any amount received under section 5948 (relating to physicians comparability allowances);
+    - **(G)** with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911 ), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
+    - **(H)** any amount received under section 5948 (relating to physicians comparability allowances); and
+    - **(I)** with respect to a border patrol agent, the amount of supplemental pay received through application of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay for scheduled overtime within the regular tour of duty of the border patrol agent as provided in section 5550;
   - **(4)** “average pay” means the largest annual rate resulting from averaging an employee’s or Member’s rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity under subsection (d) or (e)(1) of section 8341 of this title based on service of less than 3 years, over the total service, with each rate weighted by the time it was in effect;
   - **(5)** “Fund” means the Civil Service Retirement and Disability Fund;
   - **[(6)** Repealed. Pub. L. 96–499, title IV, § 403(b) , Dec. 5, 1980 , 94 Stat. 2606 ;]

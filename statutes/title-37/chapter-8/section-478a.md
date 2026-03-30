@@ -3,9 +3,9 @@ title: "Section 478a - Travel and transportation allowances: inactive duty train
 usc_title: 37
 usc_section: "478a"
 chapter: 8
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "37 U.S.C. § 478a"
-generated_at: "2026-03-30T04:17:22.076Z"
+generated_at: "2026-03-30T04:19:29.378Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(3)** assigned to a unit or position that is disestablished or relocated as a result of defense base closure or realignment or another force structure reallocation.
 - **(c)** The amount of reimbursement provided a member under subsection (a) for each round trip to a training location may not exceed $300.
 - **(d)** The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
-- **(e)** No reimbursement may be provided under this section for travel that occurs after December 31, 2014 .
+- **(e)** No reimbursement may be provided under this section for travel that occurs after December 31, 2015 .

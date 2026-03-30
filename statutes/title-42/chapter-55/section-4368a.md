@@ -3,9 +3,9 @@ title: "Section 4368a - Utilization of talents of older Americans in projects of
 usc_title: 42
 usc_section: "4368a"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 4368a"
-generated_at: "2026-03-30T04:17:41.868Z"
+generated_at: "2026-03-30T04:19:56.185Z"
 status: "active"
 ---
 

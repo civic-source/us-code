@@ -3,13 +3,13 @@ title: "Section 1710 - Index of documents: number and distribution"
 usc_title: 44
 usc_section: "1710"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 1710"
-generated_at: "2026-03-30T04:17:26.015Z"
+generated_at: "2026-03-30T04:19:38.082Z"
 status: "active"
 ---
 
 # § 1710. Index of documents: number and distribution
 
-The Superintendent of Documents, at the close of each regular session of Congress, shall prepare and publish a comprehensive index of public documents, upon a plan approved by the Joint Committee on Printing. The Public Printer shall, immediately upon its publication, deliver to him a copy of every document printed by the Government Printing Office. The head of each executive department, independent agency and establishment of the Government shall deliver to him a copy of every document issued or published by the department, bureau, or office not confidential in character. He shall also prepare and print in one volume a consolidated index of Congressional documents, and shall index single volumes of documents as the Joint Committee on Printing directs. Two thousand copies each of the comprehensive index and of the consolidated index shall be printed and bound in addition to the usual number, two hundred for the Senate, eight hundred for the House of Representatives and one thousand for distribution by the Superintendent of Documents.
+The Superintendent of Documents, at the close of each regular session of Congress, shall prepare and publish a comprehensive index of public documents, upon a plan approved by the Joint Committee on Printing. The Director of the Government Publishing Office shall, immediately upon its publication, deliver to him a copy of every document printed by the Government Publishing Office. The head of each executive department, independent agency and establishment of the Government shall deliver to him a copy of every document issued or published by the department, bureau, or office not confidential in character. He shall also prepare and print in one volume a consolidated index of Congressional documents, and shall index single volumes of documents as the Joint Committee on Printing directs. Two thousand copies each of the comprehensive index and of the consolidated index shall be printed and bound in addition to the usual number, two hundred for the Senate, eight hundred for the House of Representatives and one thousand for distribution by the Superintendent of Documents.
 

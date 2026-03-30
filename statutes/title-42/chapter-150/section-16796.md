@@ -3,9 +3,9 @@ title: "Section 16796 - Transferred"
 usc_title: 42
 usc_section: "16796"
 chapter: 150
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 16796"
-generated_at: "2026-03-30T04:17:42.205Z"
+generated_at: "2026-03-30T04:19:56.563Z"
 status: "transferred"
 ---
 

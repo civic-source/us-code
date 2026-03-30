@@ -3,9 +3,9 @@ title: "Section 3515 - Security personnel at Agency installations"
 usc_title: 50
 usc_section: "3515"
 chapter: 46
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 3515"
-generated_at: "2026-03-30T04:17:50.358Z"
+generated_at: "2026-03-30T04:20:17.736Z"
 status: "active"
 ---
 

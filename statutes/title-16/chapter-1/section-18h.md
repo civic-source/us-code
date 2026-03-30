@@ -1,15 +1,13 @@
 ---
-title: "Section 18h - Incidental expenses"
+title: "Section 18h - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "18h"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 18h"
-generated_at: "2026-03-30T04:16:25.081Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 18h. Incidental expenses
-
-The Secretary is authorized to provide for incidental expenses, such as transportation, uniforms, lodging, and subsistence.
+# § 18h. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

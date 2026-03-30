@@ -3,9 +3,9 @@ title: "Section 31107 - Border enforcement grants"
 usc_title: 49
 usc_section: "31107"
 chapter: 311
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "49 U.S.C. § 31107"
-generated_at: "2026-03-30T04:17:49.035Z"
+generated_at: "2026-03-30T04:20:24.638Z"
 status: "active"
 ---
 

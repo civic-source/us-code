@@ -3,17 +3,15 @@ title: "Section 431 - Minimum funding standards for multiemployer plans"
 usc_title: 26
 usc_section: "431"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 431"
-generated_at: "2026-03-30T04:17:14.529Z"
+generated_at: "2026-03-30T04:19:03.224Z"
 status: "active"
 ---
 
 # § 431. Minimum funding standards for multiemployer plans
 
-- **(a)** For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is—
-  - **(1)** except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
-  - **(2)** if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under section 4243 of the Employee Retirement Income Security Act of 1974.
+- **(a)** For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
 - **(b)**
   - **(1)** Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
   - **(2)** For a plan year, the funding standard account shall be charged with the sum of—
@@ -143,7 +141,6 @@ status: "active"
       - **(ii)** the plan sponsor has adopted a plan to improve the plan’s funding status,
       - **(iii)** the plan is projected to have sufficient assets to timely pay expected benefits and anticipated expenditures over the amortization period as extended, and
       - **(iv)** the notice required under paragraph (3)(A) has been provided.
-    - **(C)** The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014 .
   - **(2)**
     - **(A)** If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
     - **(B)** The Secretary may grant an extension under subparagraph (A) if the Secretary determines that—

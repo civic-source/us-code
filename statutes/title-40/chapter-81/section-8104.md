@@ -3,9 +3,9 @@ title: "Section 8104 - Regulation of private and semipublic buildings adjacent t
 usc_title: 40
 usc_section: "8104"
 chapter: 81
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "40 U.S.C. § 8104"
-generated_at: "2026-03-30T04:17:22.706Z"
+generated_at: "2026-03-30T04:19:36.315Z"
 status: "active"
 ---
 

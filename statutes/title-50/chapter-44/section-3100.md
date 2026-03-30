@@ -3,9 +3,9 @@ title: "Section 3100 - Intelligence community business system transformation"
 usc_title: 50
 usc_section: "3100"
 chapter: 44
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 3100"
-generated_at: "2026-03-30T04:17:50.348Z"
+generated_at: "2026-03-30T04:20:17.726Z"
 status: "active"
 ---
 
@@ -75,5 +75,5 @@ status: "active"
   - **(4)** The term “intelligence community business system transformation” means—
     - **(A)** the acquisition or development of a new intelligence community business system; or
     - **(B)** any significant modification or enhancement of an existing intelligence community business system (other than necessary to maintain current services).
-  - **(5)** The term “national security system” has the meaning given that term in section 3542 of title 44 .
+  - **(5)** The term “national security system” has the meaning given that term in section 3542 1 1 See References in Text note below. of title 44.
   - **(6)** The term “Office of Business Transformation of the Office of the Director of National Intelligence” includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010 .

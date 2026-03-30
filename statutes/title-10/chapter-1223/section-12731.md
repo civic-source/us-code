@@ -3,9 +3,9 @@ title: "Section 12731 - Age and service requirements"
 usc_title: 10
 usc_section: "12731"
 chapter: 1223
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 12731"
-generated_at: "2026-03-30T04:15:29.990Z"
+generated_at: "2026-03-30T04:18:16.976Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
 - **(f)**
   - **(1)** Subject to paragraph (2), the eligibility age for purposes of subsection (a)(1) is 60 years of age.
   - **(2)**
-    - **(A)** In the case of a person who as a member of the Ready Reserve serves on active duty or performs active service described in subparagraph (B) after January 28, 2008 , the eligibility age for purposes of subsection (a)(1) shall be reduced below 60 years of age by three months for each aggregate of 90 days on which such person so performs in any fiscal year after such date, subject to subparagraph (C). A day of duty may be included in only one aggregate of 90 days for purposes of this subparagraph.
+    - **(A)** In the case of a person who as a member of the Ready Reserve serves on active duty or performs active service described in subparagraph (B) after January 28, 2008 , the eligibility age for purposes of subsection (a)(1) shall be reduced, subject to subparagraph (C), below 60 years of age by three months for each aggregate of 90 days on which such person serves on such active duty or performs such active service in any fiscal year after January 28, 2008 , or in any two consecutive fiscal years after September 30, 2014 . A day of duty may be included in only one aggregate of 90 days for purposes of this subparagraph.
     - **(B)**
       - **(i)** Service on active duty described in this subparagraph is service on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) or under section 12301(d) of this title . Such service does not include service on active duty pursuant to a call or order to active duty under section 12310 of this title .
       - **(ii)** Active service described in this subparagraph is also service under a call to active service authorized by the President or the Secretary of Defense under section 502(f) of title 32 for purposes of responding to a national emergency declared by the President or supported by Federal funds.

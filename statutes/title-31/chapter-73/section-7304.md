@@ -3,9 +3,9 @@ title: "Section 7304 - Availability of records"
 usc_title: 31
 usc_section: "7304"
 chapter: 73
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 7304"
-generated_at: "2026-03-30T04:17:17.929Z"
+generated_at: "2026-03-30T04:19:06.461Z"
 status: "active"
 ---
 

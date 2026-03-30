@@ -3,9 +3,9 @@ title: "Section 302k - Special pay: accession bonus for medical officers in crit
 usc_title: 37
 usc_section: "302k"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "37 U.S.C. § 302k"
-generated_at: "2026-03-30T04:17:22.063Z"
+generated_at: "2026-03-30T04:19:29.369Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(2)** the Secretary concerned determines that the person is not qualified to become and remain certified as a doctor or osteopath in a specialty designated by regulations as a critically short wartime specialty.
 - **(d)** The agreement referred to in subsection (a) shall provide that, consistent with the needs of the armed force concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Medical Corps of the Army or the Navy or as an officer of the Air Force designated as a medical officer in a specialty designated by regulations as a critically short wartime specialty.
 - **(e)** A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
-- **(f)** No agreement under this section may be entered into after December 31, 2014 .
+- **(f)** No agreement under this section may be entered into after December 31, 2015 .

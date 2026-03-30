@@ -3,9 +3,9 @@ title: "Section 30to34 - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 
 usc_title: 20
 usc_section: "30to34"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 30to34"
-generated_at: "2026-03-30T04:16:29.472Z"
+generated_at: "2026-03-30T04:18:34.352Z"
 status: "repealed"
 ---
 

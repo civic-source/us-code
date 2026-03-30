@@ -3,9 +3,9 @@ title: "Section 7247 - Partnerships in character education program"
 usc_title: 20
 usc_section: "7247"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 7247"
-generated_at: "2026-03-30T04:16:29.664Z"
+generated_at: "2026-03-30T04:18:34.508Z"
 status: "active"
 ---
 

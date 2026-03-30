@@ -3,9 +3,9 @@ title: "Section 17to21 - Repealed. Pub. L. 97–468, title VII, § 705 , Jan. 14
 usc_title: 45
 usc_section: "17to21"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "45 U.S.C. § 17to21"
-generated_at: "2026-03-30T04:17:27.291Z"
+generated_at: "2026-03-30T04:19:39.616Z"
 status: "repealed"
 ---
 

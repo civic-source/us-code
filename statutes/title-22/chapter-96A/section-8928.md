@@ -1,0 +1,23 @@
+---
+title: "Section 8928 - Support for Russian democracy and civil society organizations"
+usc_title: 22
+usc_section: "8928"
+chapter: 96
+current_through: "PL 113-296"
+classification: "22 U.S.C. § 8928"
+generated_at: "2026-03-30T04:18:49.579Z"
+status: "active"
+---
+
+# § 8928. Support for Russian democracy and civil society organizations
+
+- **(a)** The Secretary of State shall, directly or through nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, and related organizations—
+  - **(1)** improve democratic governance, transparency, accountability, rule of law, and anti-corruption efforts in the Russian Federation;
+  - **(2)** strengthen democratic institutions and political and civil society organizations in the Russian Federation;
+  - **(3)** expand uncensored Internet access in the Russian Federation; and
+  - **(4)** expand free and unfettered access to independent media of all kinds in the Russian Federation, including through increasing United States Government-supported broadcasting activities, and assist with the protection of journalists and civil society activists who have been targeted for free speech activities.
+- **(b)** There are authorized to be appropriated to the Secretary of State $20,000,000 for each of fiscal years 2016 through 2018 to carry out the activities set forth in subsection (a).
+- **(c)** Not later than 60 days after December 18, 2014 , the President shall submit a strategy to carry out the activities set forth in subsection (a) to—
+  - **(1)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+  - **(2)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+- **(d)** Any assistance provided pursuant to this section shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this section. The President shall provide a briefing on the activities funded by this section at the request of the committees specified in subsection (c).

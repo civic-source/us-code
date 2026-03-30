@@ -1,15 +1,13 @@
 ---
-title: "Section 1908 - Damage to natural and historical landmarks; procedures for determination and enforcement of abatement of damaging activities"
+title: "Section 1908 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "1908"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1908"
-generated_at: "2026-03-30T04:16:25.402Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.676Z"
+status: "repealed"
 ---
 
-# § 1908. Damage to natural and historical landmarks; procedures for determination and enforcement of abatement of damaging activities
+# § 1908. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** Whenever the Secretary of the Interior finds on his own motion or upon being notified in writing by an appropriate scientific, historical, or archeological authority, that a district, site, building, structure, or object which has been found to be nationally significant in illustrating natural history or the history of the United States and which has been designated as a natural or historical landmark may be irreparably lost or destroyed in whole or in part by any surface mining activity, including exploration for or removal or production of minerals or materials, he shall notify the person conducting such activity and submit a report thereon, including the basis for his finding that such activity may cause irreparable loss or destruction of a national landmark, to the Advisory Council on Historic Preservation, with a request for advice of the Council as to alternative measures that may be taken by the United States to mitigate or abate such activity.
-- **(b)** Omitted

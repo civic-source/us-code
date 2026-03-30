@@ -3,9 +3,9 @@ title: "Section 203 - Definitions"
 usc_title: 29
 usc_section: "203"
 chapter: 8
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 203"
-generated_at: "2026-03-30T04:17:06.177Z"
+generated_at: "2026-03-30T04:18:56.530Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ As used in this chapter—
       - **(iii)** in any unit of the judicial branch of the Government which has positions in the competitive service,
       - **(iv)** in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces,
       - **(v)** in the Library of Congress, or
-      - **(vi)** the 1 1 So in original. Probably should be preceded by “in”. Government Printing Office;
+      - **(vi)** the 1 1 So in original. Probably should be preceded by “in”. Government Publishing Office;
     - **(B)** any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
     - **(C)** any individual employed by a State, political subdivision of a State, or an interstate governmental agency, other than such an individual—
       - **(i)** who is not subject to the civil service laws of the State, political subdivision, or agency which employs him; and

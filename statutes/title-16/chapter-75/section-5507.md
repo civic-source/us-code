@@ -3,9 +3,9 @@ title: "Section 5507 - Civil penalties and permit sanctions"
 usc_title: 16
 usc_section: "5507"
 chapter: 75
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5507"
-generated_at: "2026-03-30T04:16:25.465Z"
+generated_at: "2026-03-30T04:18:37.720Z"
 status: "active"
 ---
 

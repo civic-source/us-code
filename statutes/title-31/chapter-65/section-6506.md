@@ -3,9 +3,9 @@ title: "Section 6506 - Development assistance"
 usc_title: 31
 usc_section: "6506"
 chapter: 65
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 6506"
-generated_at: "2026-03-30T04:17:17.926Z"
+generated_at: "2026-03-30T04:19:06.458Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T04:17:14.587Z"
+generated_at: "2026-03-30T04:19:03.274Z"
 status: "active"
 ---
 
@@ -81,7 +81,7 @@ status: "active"
       - **(i)** The term “qualified investment entity” means—
         - **(I)** any real estate investment trust, and
         - **(II)** any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company.
-      - **(ii)** Clause (i)(II) shall not apply after December 31, 2013 . Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
+      - **(ii)** Clause (i)(II) shall not apply after December 31, 2014 . Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
     - **(B)** The term “domestically controlled qualified investment entity” means any qualified investment entity in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.
     - **(C)** The term “foreign ownership percentage” means that percentage of the stock of the qualified investment entity which was held (directly or indirectly) by foreign persons at the time during the testing period during which the direct and indirect ownership of stock by foreign persons was greatest.
     - **(D)** The term “testing period” means whichever of the following periods is the shortest:

@@ -3,9 +3,9 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-03-30T04:15:29.932Z"
+generated_at: "2026-03-30T04:18:16.919Z"
 status: "active"
 ---
 
@@ -63,10 +63,10 @@ status: "active"
       - **(v)** Real property maintenance services.
       - **(vi)** Administrative expenses incurred by the Secretary concerned under this section and for easements under section 2668 of this title .
     - **(D)** At least 50 percent of the proceeds deposited in the special account established for the Secretary concerned shall be available for activities described in subparagraph (C) only at the military installation or Defense Agency location where the proceeds were derived.
-    - **(E)** If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) of this title , the proceeds shall be available for activities described in subparagraph (C) only at that museum.
+    - **(E)** If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) 1 1 See References in Text note below. of this title, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
   - **(2)** Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
   - **(3)** Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
-  - **(4)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005 , shall be deposited into the account established under section 2906(a) 1 1 See References in Text note below. of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
+  - **(4)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005 , shall be deposited into the account established under section 2906(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
   - **(5)** Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005 , shall be deposited into the account established under section 2906A(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note).
 - **(f)** The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 - **(g)**
@@ -90,6 +90,11 @@ status: "active"
     - **(A)** Use of the ship is restricted to federally supported research programs and to non-Federal uses under specific conditions with approval by the Secretary of the Navy.
     - **(B)** Because of the anticipated value to the Navy of the oceanographic research and training that will result from the ship’s operation, no monetary lease payments are required from the lessee under the initial lease or under any renewal or extension.
     - **(C)** The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
+  - **(4)**
+    - **(A)** Paragraph (1) does not apply to a renewal, extension, or succeeding lease by the Secretary concerned with a financial institution selected in accordance with the Department of Defense Financial Management Regulation providing for the selection of financial institutions to operate on military installations if each of the following applies:
+      - **(i)** The on-base financial institution was selected before the date of the enactment of this paragraph or competitive procedures are used for the selection of any new financial institutions.
+      - **(ii)** A current and binding operating agreement is in place between the installation commander and the selected on-base financial institution.
+    - **(B)** The renewal, extension, or succeeding lease shall terminate upon the termination of the operating agreement described in subparagraph (A)(ii) associated with that lease.
 - **(i)** In this section:
   - **(1)** The term “administrative expenses” means only those expenses related to assessing, negotiating, executing, and managing lease and easement transactions. The term does not include any Government personnel costs.
   - **(2)** The term “community support facility” includes an ancillary supporting facility (as that term is defined in section 2871(1) of this title ).

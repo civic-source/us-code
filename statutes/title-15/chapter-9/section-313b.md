@@ -3,9 +3,9 @@ title: "Section 313b - Institute for Aviation Weather Prediction"
 usc_title: 15
 usc_section: "313b"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 313b"
-generated_at: "2026-03-30T04:16:10.607Z"
+generated_at: "2026-03-30T04:18:26.768Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 103 - National Highway System"
 usc_title: 23
 usc_section: "103"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "23 U.S.C. § 103"
-generated_at: "2026-03-30T04:16:48.048Z"
+generated_at: "2026-03-30T04:18:42.331Z"
 status: "active"
 ---
 
@@ -63,6 +63,6 @@ status: "active"
   - **(5)**
     - **(A)** Except as provided in subparagraph (B), the Interstate System shall not be considered to be a historic site under section 303 of title 49 or section 138 of this title , regardless of whether the Interstate System or portions or elements of the Interstate System are listed on, or eligible for listing on, the National Register of Historic Places.
     - **(B)** Subject to subparagraph (C)—
-      - **(i)** the Secretary shall determine, through the administrative process established for exempting the Interstate System from section 106 of the National Historic Preservation Act ( 16 U.S.C. 470f ), those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
+      - **(i)** the Secretary shall determine, through the administrative process established for exempting the Interstate System from section 306108 of title 54 , those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
       - **(ii)** those elements shall be considered to be historic sites under section 303 of title 49 or section 138 of this title , as applicable.
-    - **(C)** Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with section 303 of title 49 or section 138 of this title , as applicable, and section 106 of the National Historic Preservation Act ( 16 U.S.C. 470f ).
+    - **(C)** Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with section 303 of title 49 or section 138 of this title , as applicable, and section 306108 of title 54 .

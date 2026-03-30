@@ -3,9 +3,9 @@ title: "Section 2525 - Annual assessments and reports to the President and Congr
 usc_title: 50
 usc_section: "2525"
 chapter: 42
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 2525"
-generated_at: "2026-03-30T04:17:50.333Z"
+generated_at: "2026-03-30T04:20:17.710Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** For each nuclear weapon type in the stockpile of the United States, each official specified in subsection (b) on an annual basis shall, to the extent such official is directly responsible for the safety, reliability, performance, or military effectiveness of that nuclear weapon type, complete an assessment of the safety, reliability, performance, or military effectiveness (as the case may be) of that nuclear weapon type.
 - **(b)** The officials referred to in subsection (a) are the following:
   - **(1)** The head of each national security laboratory.
-  - **(2)** The commander of the United States Strategic Command.
+  - **(2)** The Commander of the United States Strategic Command.
 - **(c)** In support of the assessments required by subsection (a), the Administrator may establish teams, known as “dual validation teams”, to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
   - **(1)** be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
   - **(2)** have access to all surveillance and underground test data for all stockpile systems for use in the independent evaluations;

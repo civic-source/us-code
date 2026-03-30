@@ -3,9 +3,9 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-30T04:17:14.505Z"
+generated_at: "2026-03-30T04:19:03.204Z"
 status: "active"
 ---
 
@@ -116,7 +116,7 @@ status: "active"
 - **(g)**
   - **(1)**
     - **(A)** Notwithstanding subsections (e)(3) and (h)(1)(B), the elective deferrals of any individual for any taxable year shall be included in such individual’s gross income to the extent the amount of such deferrals for the taxable year exceeds the applicable dollar amount. The preceding sentence shall not apply to the portion of such excess as does not exceed the designated Roth contributions of the individual for the taxable year.
-    - **(B)** For purposes of subparagraph (A), the applicable dollar amount shall be the amount determined in accordance with the following table: For taxable years beginning in calendar year: The applicable dollar amount: 2002 $11,000 2003 $12,000 2004 $13,000 2005 $14,000 2006 or thereafter $15,000.
+    - **(B)** For purposes of subparagraph (A), the applicable dollar amount is $15,000.
     - **(C)** In addition to subparagraph (A), in the case of an eligible participant (as defined in section 414(v)), gross income shall not include elective deferrals in excess of the applicable dollar amount under subparagraph (B) to the extent that the amount of such elective deferrals does not exceed the applicable dollar amount under section 414(v)(2)(B)(i) for the taxable year (without regard to the treatment of the elective deferrals by an applicable employer plan under section 414(v)).
   - **(2)**
     - **(A)** If any amount (hereinafter in this paragraph referred to as “excess deferrals”) is included in the gross income of an individual under paragraph (1) (or would be included but for the last sentence thereof) for any taxable year—

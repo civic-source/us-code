@@ -3,9 +3,9 @@ title: "Section 27b - Chicago River, West arm of South Fork of South Branch"
 usc_title: 33
 usc_section: "27b"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 27b"
-generated_at: "2026-03-30T04:17:18.900Z"
+generated_at: "2026-03-30T04:19:23.058Z"
 status: "active"
 ---
 

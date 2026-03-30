@@ -3,9 +3,9 @@ title: "Section 1055 - Requirement of joint and survivor annuity and preretireme
 usc_title: 29
 usc_section: "1055"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1055"
-generated_at: "2026-03-30T04:17:06.213Z"
+generated_at: "2026-03-30T04:18:56.559Z"
 status: "active"
 ---
 
@@ -112,10 +112,7 @@ status: "active"
     - **(B)** For purposes of subparagraph (A)—
       - **(i)** The term “applicable mortality table” means a mortality table, modified as appropriate by the Secretary of the Treasury, based on the mortality table specified for the plan year under subparagraph (A) of section 1083(h)(3) of this title (without regard to subparagraph (C) or (D) of such section).
       - **(ii)** The term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) for the month before the date of the distribution or such other time as the Secretary of the Treasury may by regulations prescribe.
-      - **(iii)** For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) if—
-        - **(I)** section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
-        - **(II)** section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “ section 1055(g)(3)(A)(ii)(II) of this title ” for “ section 1082(b)(5)(B)(ii)(II) of this title ”, and
-        - **(III)** the applicable percentage under section 1083(h)(2)(G) of this title were determined in accordance with the following table: In the case of plan years beginning in: The applicable percentage is: 2008 20 percent 2009 40 percent 2010 60 percent 2011 80 percent.
+      - **(iii)** For purposes of clause (ii), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 1083(h)(2)(C) of this title (determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section.
 - **(h)** For purposes of this section—
   - **(1)** The term “vested participant” means any participant who has a nonforfeitable right (within the meaning of section 1002(19) of this title ) to any portion of such participant’s accrued benefit.
   - **(2)**

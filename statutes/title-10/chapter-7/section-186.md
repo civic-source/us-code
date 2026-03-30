@@ -1,31 +1,13 @@
 ---
-title: "Section 186 - Defense Business System Management Committee"
+title: "Section 186 - Repealed. Pub. L. 113–291, div. A, title IX, § 901(c) , Dec. 19, 2014 , 128 Stat. 3463 ]"
 usc_title: 10
 usc_section: "186"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 186"
-generated_at: "2026-03-30T04:15:29.823Z"
-status: "active"
+generated_at: "2026-03-30T04:18:16.814Z"
+status: "repealed"
 ---
 
-# § 186. Defense Business System Management Committee
+# [§ 186. Repealed. Pub. L. 113–291, div. A, title IX, § 901(c) , Dec. 19, 2014 , 128 Stat. 3463 ]
 
-- **(a)** The Secretary of Defense shall establish a Defense Business Systems Management Committee, to be composed of the following persons:
-  - **(1)** The Deputy Secretary of Defense.
-  - **(2)** The Deputy Chief Management Officer of the Department of Defense.
-  - **(3)** The Under Secretary of Defense for Acquisition, Logistics, and Technology.
-  - **(4)** The Under Secretary of Defense for Personnel and Readiness.
-  - **(5)** The Under Secretary of Defense (Comptroller).
-  - **(6)** The Assistant Secretary of Defense for Networks and Information Integration.
-  - **(7)** The Chief Management Officers of the military departments and the heads of such Defense Agencies as may be designated by the Secretary of Defense.
-  - **(8)** Such additional personnel of the Department of Defense (including personnel assigned to the Joint Chiefs of Staff and combatant commands) as are designated by the Secretary of Defense.
-- **(b)** The Deputy Secretary of Defense shall serve as the chairman of the Committee. The Deputy Chief Management Officer of the Department of Defense shall serve as the vice chairman of the Committee, and shall act as chairman in the absence of the Deputy Secretary of Defense.
-- **(c)**
-  - **(1)** In addition to any other matters assigned to the Committee by the Secretary of Defense, the Committee shall—
-    - **(A)** recommend to the Secretary of Defense policies and procedures necessary to effectively integrate the requirements of section 2222 of this title into all business activities and any transformation, reform, reorganization, or process improvement initiatives undertaken within the Department of Defense;
-    - **(B)** review and approve any major update of the defense business enterprise architecture developed under subsection (b) 1 1 See References in Text note below. of section 2222 of this title , including evolving the architecture, and of defense business systems modernization plans; and
-    - **(C)** manage cross-domain integration consistent with such enterprise architecture.
-  - **(2)** The Committee shall be responsible for coordinating defense business system modernization initiatives to maximize benefits and minimize costs for the Department of Defense and periodically report to the Secretary on the status of defense business system modernization efforts.
-  - **(3)** The Committee shall ensure that funds are obligated for defense business system modernization in a manner consistent with section 2222 of this title .
-- **(d)** In this section, the terms “defense business system” and “defense business system modernization” have the meanings given such terms in section 2222 1 of this title.

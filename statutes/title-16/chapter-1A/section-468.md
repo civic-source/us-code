@@ -1,15 +1,13 @@
 ---
-title: "Section 468 - National Trust for Historic Preservation in the United States; creation; purpose"
+title: "Section 468 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "468"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 468"
-generated_at: "2026-03-30T04:16:25.232Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.556Z"
+status: "repealed"
 ---
 
-# § 468. National Trust for Historic Preservation in the United States; creation; purpose
-
-In order to further the policy enunciated in sections 461 to 467 of this title, and to facilitate public participation in the preservation of sites, buildings, and objects of national significance or interest, there is created a charitable, educational, and nonprofit corporation, to be known as the National Trust for Historic Preservation in the United States, hereafter referred to as the “National Trust”. The purposes of the National Trust shall be to receive donations of sites, buildings, and objects significant in American history and culture, to preserve and administer them for public benefit, to accept, hold, and administer gifts of money, securities, or other property of whatsoever character for the purpose of carrying out the preservation program, and to execute such other functions as are vested in it by sections 468 to 468d of this title.
+# § 468. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

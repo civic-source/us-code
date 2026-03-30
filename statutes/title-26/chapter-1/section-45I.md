@@ -3,9 +3,9 @@ title: "Section 45I - Credit for producing oil and gas from marginal wells"
 usc_title: 26
 usc_section: "45I"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45I"
-generated_at: "2026-03-30T04:17:14.428Z"
+generated_at: "2026-03-30T04:19:03.142Z"
 status: "active"
 ---
 

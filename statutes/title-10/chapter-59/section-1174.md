@@ -3,9 +3,9 @@ title: "Section 1174 - Separation pay upon involuntary discharge or release from
 usc_title: 10
 usc_section: "1174"
 chapter: 59
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1174"
-generated_at: "2026-03-30T04:15:29.869Z"
+generated_at: "2026-03-30T04:18:16.857Z"
 status: "active"
 ---
 

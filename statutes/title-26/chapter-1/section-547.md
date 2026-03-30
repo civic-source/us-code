@@ -3,9 +3,9 @@ title: "Section 547 - Deduction for deficiency dividends"
 usc_title: 26
 usc_section: "547"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 547"
-generated_at: "2026-03-30T04:17:14.554Z"
+generated_at: "2026-03-30T04:19:03.246Z"
 status: "active"
 ---
 

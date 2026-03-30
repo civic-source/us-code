@@ -3,9 +3,9 @@ title: "Section 45G - Railroad track maintenance credit"
 usc_title: 26
 usc_section: "45G"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45G"
-generated_at: "2026-03-30T04:17:14.428Z"
+generated_at: "2026-03-30T04:19:03.141Z"
 status: "active"
 ---
 
@@ -30,4 +30,4 @@ status: "active"
   - **(1)** For purposes of this section, the terms “Class II railroad” and “Class III railroad” have the respective meanings given such terms by the Surface Transportation Board.
   - **(2)** Rules similar to the rules of paragraph (1) of section 41(f) shall apply for purposes of this section.
   - **(3)** For purposes of this subtitle, if a credit is allowed under this section with respect to any railroad track, the basis of such track shall be reduced by the amount of the credit so allowed.
-- **(f)** This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004 , and before January 1, 2014 .
+- **(f)** This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004 , and before January 1, 2015 .

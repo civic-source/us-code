@@ -3,9 +3,9 @@ title: "Section 2335 - Prohibition on collection of political information"
 usc_title: 10
 usc_section: "2335"
 chapter: 137
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2335"
-generated_at: "2026-03-30T04:15:29.910Z"
+generated_at: "2026-03-30T04:18:16.899Z"
 status: "active"
 ---
 
@@ -20,4 +20,5 @@ status: "active"
   - **(2)** precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to section 2324 of this title .
 - **(d)** In this section:
   - **(1)** The term “contractor” includes contractors, bidders, and offerors, and individuals and legal entities who would reasonably be expected to submit offers or bids for Federal Government contracts.
-  - **(2)** The term “political information” means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history. Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given the term in the Federal Campaign 2 2 So in original. Probably should be preceded by “Election”. Act of 1971 ( 2 U.S.C. 431 et seq.). 1
+  - **(2)** The term “political information” means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history.
+  - **(3)** Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given that term in the Federal Election Campaign Act of 1971 ( 2 U.S.C. 431 et seq.). 1

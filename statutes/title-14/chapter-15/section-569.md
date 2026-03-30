@@ -1,20 +1,21 @@
 ---
-title: "Section 569 - Report on former Coast Guard officials employed by contractors to the agency"
+title: "Section 569 - Mission need statement"
 usc_title: 14
 usc_section: "569"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 569"
-generated_at: "2026-03-30T04:15:52.717Z"
+generated_at: "2026-03-30T04:18:19.005Z"
 status: "active"
 ---
 
-# § 569. Report on former Coast Guard officials employed by contractors to the agency
+# § 569. Mission need statement
 
-- **(a)** Not later than December 31, 2011 , the Comptroller General of the United States shall submit a report to the appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period. The report shall assess the extent to which former Coast Guard officials were provided compensation by Coast Guard contractors in the preceding calendar year.
-- **(b)** At a minimum, the report required by this section shall assess the extent to which former Coast Guard officials who receive compensation from Coast Guard contractors have been assigned by those contractors to work on contracts or programs between the contractor and the Coast Guard, including contracts or programs for which the former official personally had oversight responsibility or decisionmaking authority when they served in or worked for the Coast Guard.
-- **(c)** The report required by this subsection shall not include the names of the former Coast Guard officials who receive compensation from Coast Guard contractors.
-- **(d)** A Coast Guard contractor shall provide the Comptroller General access to information requested by the Comptroller General for the purpose of conducting the study required by this section.
-- **(e)** In this section:
-  - **(1)** The term “Coast Guard contractor” includes any person that received at least $10,000,000 in contractor awards from the Coast Guard in the calendar year covered by the annual report.
-  - **(2)** The term “Coast Guard official” includes former officers of the Coast Guard who were compensated at a rate of pay for grade O–7 or above during the calendar year prior to the date on which they separated from the Coast Guard, and former civilian employees of the Coast Guard who served at any Level of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, during the calendar year prior to the date on which they separated from the Coast Guard.
+- **(a)** On the date on which the President submits to Congress a budget for fiscal year 2016 under section 1105 of title 31 , on the date on which the President submits to Congress a budget for fiscal year 2019 under such section, and every 4 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an integrated major acquisition mission need statement.
+- **(b)** In this section, the following definitions apply:
+  - **(1)** The term “integrated major acquisition mission need statement” means a document that—
+    - **(A)** identifies current and projected gaps in Coast Guard mission capabilities using mission hour targets;
+    - **(B)** explains how each major acquisition program addresses gaps identified under subparagraph (A) if funded at the levels provided for such program in the most recently submitted capital investment plan; and
+    - **(C)** describes the missions the Coast Guard will not be able to achieve, by fiscal year, for each gap identified under subparagraph (A).
+  - **(2)** The term “major acquisition program” has the meaning given that term in section 569a(e).
+  - **(3)** The term “capital investment plan” means the plan required under section 663(a)(1).

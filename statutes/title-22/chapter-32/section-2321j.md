@@ -3,9 +3,9 @@ title: "Section 2321j - Authority to transfer excess defense articles"
 usc_title: 22
 usc_section: "2321j"
 chapter: 32
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2321j"
-generated_at: "2026-03-30T04:17:01.815Z"
+generated_at: "2026-03-30T04:18:49.465Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(C)** an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
     - **(D)** a statement describing the current value of such article and the value of such article at acquisition.
 - **(g)**
-  - **(1)** The aggregate value of excess defense articles transferred to countries under this section in any fiscal year may not exceed $425,000,000.
+  - **(1)** The aggregate value of excess defense articles transferred to countries under this section in any fiscal year may not exceed $500,000,000.
   - **(2)** The limitation contained in paragraph (1) shall apply only with respect to fiscal years beginning after fiscal year 1996.
 - **(h)** Documents described in subsection (a) justifying the transfer of excess defense articles shall include an explanation of the general purposes of providing excess defense articles as well as a table which provides an aggregate annual total of transfers of excess defense articles in the preceding year by country in terms of offers and actual deliveries and in terms of acquisition cost and current value. Such table shall indicate whether such excess defense articles were provided on a grant or sale basis.
 - **(i)** For purposes of this section, the term “excess defense articles” shall be deemed to include excess property of the Coast Guard, and the term “Department of Defense” shall be deemed, with respect to such excess property, to include the Coast Guard.

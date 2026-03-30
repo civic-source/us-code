@@ -3,15 +3,15 @@ title: "Section 424a - Reduction of disability benefits"
 usc_title: 42
 usc_section: "424a"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 424a"
-generated_at: "2026-03-30T04:17:41.524Z"
+generated_at: "2026-03-30T04:19:55.798Z"
 status: "active"
 ---
 
 # § 424a. Reduction of disability benefits
 
-- **(a)** If for any month prior to the month in which an individual attains the age of 65—
+- **(a)** If for any month prior to the month in which an individual attains retirement age (as defined in section 416( l )(1) of this title)—
   - **(1)** such individual is entitled to benefits under section 423 of this title , and
   - **(2)** such individual is entitled for such month to—
     - **(A)** periodic benefits on account of his or her total or partial disability (whether or not permanent) under a workmen’s compensation law or plan of the United States or a State, or

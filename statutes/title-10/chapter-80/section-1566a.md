@@ -3,15 +3,15 @@ title: "Section 1566a - Voting assistance: voter assistance offices"
 usc_title: 10
 usc_section: "1566a"
 chapter: 80
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1566a"
-generated_at: "2026-03-30T04:15:29.884Z"
+generated_at: "2026-03-30T04:18:16.872Z"
 status: "active"
 ---
 
 # § 1566a. Voting assistance: voter assistance offices
 
-- **(a)** Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
+- **(a)** Under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location, to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
   - **(1)** Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff )). 1 1 See References in Text note below.
   - **(2)** Information and assistance, if requested, including access to the Internet where practicable, to register to vote in an election for Federal office.
   - **(3)** Information and assistance, if requested, including access to the Internet where practicable, to update the individual’s voter registration information, including instructions for absent uniformed services voters to change their address by submitting the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act to the appropriate State election official.
@@ -30,7 +30,9 @@ status: "active"
   - **(1)** the availability of information and voter registration assistance at offices designated under subsection (a); and
   - **(2)** the time, location, and manner in which an absent uniformed services voter may utilize such assistance.
 - **(e)** The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 ( 42 U.S.C. 1973gg–5(a)(2) ) 1 for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
-- **(f)** The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+- **(f)**
+  - **(1)** The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
+  - **(2)** The Secretary of a military department shall provide the Committees on Armed Services of the Senate and the House of Representatives with notice of any decision by the Secretary to close a voter assistance office that was designated on an installation before the date of the enactment of this paragraph. The notice shall include the rational for the closure, the timing of the closure, the number of covered individuals supported by the office, and the plan for providing the assistance available under subsection (a) to covered individuals after the closure of the office.
 - **(g)** In this section:
   - **(1)** The term “absent uniformed services voter” has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff–6(1) ). 1
   - **(2)** The term “Federal office” has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act ( 42 U.S.C. 1973ff–6(3) ). 1

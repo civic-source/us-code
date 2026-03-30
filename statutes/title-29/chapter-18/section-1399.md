@@ -3,9 +3,9 @@ title: "Section 1399 - Notice, collection, etc., of withdrawal liability"
 usc_title: 29
 usc_section: "1399"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1399"
-generated_at: "2026-03-30T04:17:06.244Z"
+generated_at: "2026-03-30T04:18:56.586Z"
 status: "active"
 ---
 
@@ -61,4 +61,4 @@ status: "active"
     - **(A)** are consistent with this chapter, and
     - **(B)** are not inconsistent with regulations of the corporation.
   - **(8)** In the case of a terminated multiemployer plan, an employer’s obligation to make payments under this section ceases at the end of the plan year in which the assets of the plan (exclusive of withdrawal liability claims) are sufficient to meet all obligations of the plan, as determined by the corporation.
-- **(d)** The prohibitions provided in section 1106(a) of this title do not apply to any action required or permitted under this part.
+- **(d)** The prohibitions provided in section 1106(a) of this title do not apply to any action required or permitted under this part or to any arrangement relating to withdrawal liability involving the plan.

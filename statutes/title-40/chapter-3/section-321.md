@@ -3,9 +3,9 @@ title: "Section 321 - Acquisition Services Fund"
 usc_title: 40
 usc_section: "321"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "40 U.S.C. § 321"
-generated_at: "2026-03-30T04:17:22.694Z"
+generated_at: "2026-03-30T04:19:36.305Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
 - **(c)**
   - **(1)** The Fund is available for use by or under the direction and control of the Administrator for—
     - **(A)** procuring, for the use of federal agencies in the proper discharge of their responsibilities—
-      - **(i)** personal property (including the purchase from or through the Public Printer, for warehouse issue, of standard forms, blankbook work, standard specifications, and other printed material in common use by federal agencies and not available through the Superintendent of Documents);
+      - **(i)** personal property (including the purchase from or through the Director of the Government Publishing Office, for warehouse issue, of standard forms, blankbook work, standard specifications, and other printed material in common use by federal agencies and not available through the Superintendent of Documents);
       - **(ii)** nonpersonal services; and
       - **(iii)** personal services related to the provision of information technology (as defined in section 11101(6) of this title );
     - **(B)** paying the purchase price, cost of transportation of personal property and services, and cost of personal services employed directly in the repair, rehabilitation, and conversion of personal property; and

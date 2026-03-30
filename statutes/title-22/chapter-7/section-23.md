@@ -1,17 +1,16 @@
 ---
-title: "Section 23 - Taxation; exclusion from gross income"
+title: "Section 23 - Multilateral debt relief"
 usc_title: 22
 usc_section: "23"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 23"
-generated_at: "2026-03-30T04:17:01.756Z"
+generated_at: "2026-03-30T04:18:49.426Z"
 status: "active"
 ---
 
-# § 277d–23. Taxation; exclusion from gross income
+# § 290g–23. Multilateral debt relief
 
-  - **(1)** and
-  - **(3)** of section 277d–19 of this title shall be included in gross income for purposes of chapter 1 of title 26. However, amounts received under subsection b.
-  - **(1)** shall be included in gross income to the extent that such amounts are not used within one year of the receipt thereof to purchase replacement housing or facilities.
-
+- **(a)** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $54,620,000 to the African Development Fund for the purpose of funding debt relief costs under the Multilateral Debt Relief Initiative incurred in the period governed by the thirteenth replenishment of resources of the African Development Fund, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on December 16, 2014 .
+- **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $54,620,000 for payment by the Secretary of the Treasury.
+- **(c)** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communique entitled “Conclusions on Development,” done at London, June 11, 2005 , and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005 .

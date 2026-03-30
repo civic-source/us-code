@@ -3,9 +3,9 @@ title: "Section 37a - Definitions"
 usc_title: 15
 usc_section: "37a"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 37a"
-generated_at: "2026-03-30T04:16:10.494Z"
+generated_at: "2026-03-30T04:18:26.699Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 2509 - Conversion of recreation property"
+title: "Section 2509 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "2509"
 chapter: 45
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 2509"
-generated_at: "2026-03-30T04:16:25.411Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.683Z"
+status: "repealed"
 ---
 
-# § 2509. Conversion of recreation property
-
-No property improved or developed with assistance under this chapter shall, without the approval of the Secretary, be converted to other than public recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the current local park and recreation recovery action program and only upon such conditions as he deems necessary to assure the provision of adequate recreation properties and opportunities of reasonably equivalent location and usefulness.
+# § 2509. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

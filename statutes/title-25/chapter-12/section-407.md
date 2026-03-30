@@ -3,9 +3,9 @@ title: "Section 407 - Sale of timber on unallotted lands"
 usc_title: 25
 usc_section: "407"
 chapter: 12
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 407"
-generated_at: "2026-03-30T04:16:44.920Z"
+generated_at: "2026-03-30T04:18:44.125Z"
 status: "active"
 ---
 

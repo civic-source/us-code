@@ -3,9 +3,9 @@ title: "Section 12204 - Regulations by Architectural and Transportation Barriers
 usc_title: 42
 usc_section: "12204"
 chapter: 126
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 12204"
-generated_at: "2026-03-30T04:17:42.101Z"
+generated_at: "2026-03-30T04:19:56.448Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ status: "active"
 - **(b)** The supplemental guidelines issued under subsection (a) of this section shall establish additional requirements, consistent with this chapter, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible, in terms of architecture and design, transportation, and communication, to individuals with disabilities.
 - **(c)**
   - **(1)** The supplemental guidelines issued under subsection (a) of this section shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
-  - **(2)** With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act ( 16 U.S.C. 470 et seq.), the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
+  - **(2)** With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under division A of subtitle III of title 54, the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
   - **(3)** With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.

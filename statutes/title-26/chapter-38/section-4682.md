@@ -3,9 +3,9 @@ title: "Section 4682 - Definitions and special rules"
 usc_title: 26
 usc_section: "4682"
 chapter: 38
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 4682"
-generated_at: "2026-03-30T04:17:14.674Z"
+generated_at: "2026-03-30T04:19:03.347Z"
 status: "active"
 ---
 
@@ -61,12 +61,11 @@ status: "active"
       - **(ii)** for resale by the purchaser to a 2d purchaser for such use by the 2d purchaser.
   - **(2)** If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
 - **(h)**
-  - **(1)** On any ozone-depleting chemical which on January 1, 1990 , is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.
-  - **(2)**
+  - **(1)**
     - **(A)** If, on any tax-increase date, any ozone-depleting chemical is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax.
     - **(B)** The amount of the tax imposed by subparagraph (A) shall be the excess (if any) of—
       - **(i)** the tax which would be imposed under section 4681 on such substance if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred on the tax-increase date, over
       - **(ii)** the prior tax (if any) imposed by this subchapter on such substance.
-    - **(C)** For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year after 1991.
-  - **(3)** The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
-  - **(4)** All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
+    - **(C)** For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year.
+  - **(2)** The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
+  - **(3)** All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.

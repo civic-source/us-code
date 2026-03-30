@@ -1,15 +1,13 @@
 ---
-title: "Section 18j - Authorization of appropriations"
+title: "Section 18j - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "18j"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 18j"
-generated_at: "2026-03-30T04:16:25.081Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 18j. Authorization of appropriations
-
-There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter, but not more than $3,500,000 shall be appropriated in any one year.
+# § 18j. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

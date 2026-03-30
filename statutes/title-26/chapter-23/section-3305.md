@@ -3,9 +3,9 @@ title: "Section 3305 - Applicability of State law"
 usc_title: 26
 usc_section: "3305"
 chapter: 23
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 3305"
-generated_at: "2026-03-30T04:17:14.658Z"
+generated_at: "2026-03-30T04:19:03.334Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 17d - Omitted"
+title: "Section 17d - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "17d"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 17d"
-generated_at: "2026-03-30T04:16:25.079Z"
-status: "omitted"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 17d. Omitted
+# § 17d. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

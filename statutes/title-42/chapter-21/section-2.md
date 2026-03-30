@@ -3,9 +3,9 @@ title: "Section 2 - Intervention by Attorney General; denial of equal protection
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T04:17:41.782Z"
+generated_at: "2026-03-30T04:19:56.094Z"
 status: "active"
 ---
 

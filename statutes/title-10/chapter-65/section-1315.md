@@ -3,9 +3,9 @@ title: "Section 1315 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "1315"
 chapter: 65
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1315"
-generated_at: "2026-03-30T04:15:29.872Z"
+generated_at: "2026-03-30T04:18:16.860Z"
 status: "active"
 ---
 

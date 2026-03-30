@@ -3,9 +3,9 @@ title: "Section 1730fto1730i - Repealed. Pub. L. 101–73, title IV, § 407 , Au
 usc_title: 12
 usc_section: "1730fto1730i"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 1730fto1730i"
-generated_at: "2026-03-30T04:16:05.648Z"
+generated_at: "2026-03-30T04:18:22.746Z"
 status: "repealed"
 ---
 

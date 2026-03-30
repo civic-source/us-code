@@ -3,9 +3,9 @@ title: "Section 30D - New qualified plug-in electric drive motor vehicles"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T04:17:14.413Z"
+generated_at: "2026-03-30T04:19:03.130Z"
 status: "active"
 ---
 
@@ -41,9 +41,9 @@ status: "active"
     - **(C)** 0 percent for each calendar quarter thereafter.
   - **(4)** Rules similar to the rules of section 30B(f)(4) shall apply for purposes of this subsection.
 - **(f)**
-  - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
-  - **(2)** The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle.
-  - **(3)** In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)).
+  - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
+  - **(2)** The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
+  - **(3)** In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
   - **(4)** No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1).
   - **(5)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit.
   - **(6)** No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.

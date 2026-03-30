@@ -1,15 +1,13 @@
 ---
-title: "Section 5933 - Cooperative agreements"
+title: "Section 5933 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5933"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5933"
-generated_at: "2026-03-30T04:16:25.468Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.722Z"
+status: "repealed"
 ---
 
-# § 5933. Cooperative agreements
+# § 5933. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** The Secretary is authorized and directed to enter into cooperative agreements with colleges and universities, including but not limited to land grant schools, in partnership with other Federal and State agencies, to establish cooperative study units to conduct multi-disciplinary research and develop integrated information products on the resources of the National Park System, or the larger region of which parks are a part.
-- **(b)** Within one year of November 13, 1998 , the Secretary shall report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the House of Representatives on progress in the establishment of a comprehensive network of such college and university based cooperative study units as will provide full geographic and topical coverage for research on the resources contained in units of the National Park System and their larger regions.

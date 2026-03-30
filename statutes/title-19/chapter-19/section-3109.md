@@ -3,9 +3,9 @@ title: "Section 3109 - Submission of data; action to ensure compliance"
 usc_title: 19
 usc_section: "3109"
 chapter: 19
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "19 U.S.C. § 3109"
-generated_at: "2026-03-30T04:16:40.587Z"
+generated_at: "2026-03-30T04:18:38.980Z"
 status: "active"
 ---
 

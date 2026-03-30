@@ -3,9 +3,9 @@ title: "Section 670a - Cooperative plan for conservation and rehabilitation"
 usc_title: 16
 usc_section: "670a"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 670a"
-generated_at: "2026-03-30T04:16:25.284Z"
+generated_at: "2026-03-30T04:18:37.589Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 263 - Capital expenditures"
 usc_title: 26
 usc_section: "263"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 263"
-generated_at: "2026-03-30T04:17:14.487Z"
+generated_at: "2026-03-30T04:19:03.188Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(E)** expenditures for removal of architectural and transportation barriers to the handicapped and elderly which the taxpayer elects to deduct under section 190,
     - **(F)** expenditures for tertiary injectants with respect to which a deduction is allowed under section 193; 1 1 So in original. The semicolon probably should be a comma.
     - **(G)** expenditures for which a deduction is allowed under section 179; 1
-    - **(H)** expenditures for which a deduction is allowed under section 179A,
+    - **[(H)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(34)(D) , Dec. 19, 2014 , 128 Stat. 4042 ]
     - **(I)** expenditures for which a deduction is allowed under section 179B,
     - **(J)** expenditures for which a deduction is allowed under section 179C,
     - **(K)** expenditures for which a deduction is allowed under section 179D, or
@@ -40,7 +40,7 @@ status: "active"
     - **(B)** the sum of—
       - **(i)** the amount of interest (including original issue discount) includible in gross income for the taxable year with respect to the property described in subparagraph (A),
       - **(ii)** any amount treated as ordinary income under section 1271(a)(3)(A), 1276, or 1281(a) with respect to such property for the taxable year,
-      - **(iii)** the excess of any dividends includible in gross income with respect to such property for the taxable year over the amount of any deduction allowable with respect to such dividends under section 243, 244, or 245, and
+      - **(iii)** the excess of any dividends includible in gross income with respect to such property for the taxable year over the amount of any deduction allowable with respect to such dividends under section 243 or 245, and
       - **(iv)** any amount which is a payment with respect to a security loan (within the meaning of section 512(a)(5)) includible in gross income with respect to such property for the taxable year.
   - **(3)** This subsection shall not apply in the case of any hedging transaction (as defined in section 1256(e)).
   - **(4)**

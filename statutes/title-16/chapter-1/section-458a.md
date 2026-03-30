@@ -1,15 +1,13 @@
 ---
-title: "Section 458a - Mats for reproduction in magazines and newspapers of photographs of scenery"
+title: "Section 458a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "458a"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 458a"
-generated_at: "2026-03-30T04:16:25.170Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.516Z"
+status: "repealed"
 ---
 
-# § 458a. Mats for reproduction in magazines and newspapers of photographs of scenery
-
-The Secretary of the Interior is authorized and directed to have prepared mats which may be used for the reproduction in magazines and newspapers of photographs of such of the scenery in the national parks as, in the opinion of the Secretary, would be of interest to the people of the United States and foreign nations. Any such mats may be furnished, without charge and under such regulations as the Secretary may prescribe, to the publishers of magazines, newspapers, and any other publications which may carry photographic reproductions.
+# § 458a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

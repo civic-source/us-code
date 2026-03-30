@@ -3,9 +3,9 @@ title: "Section 1779 - Regulations"
 usc_title: 42
 usc_section: "1779"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 1779"
-generated_at: "2026-03-30T04:17:41.760Z"
+generated_at: "2026-03-30T04:19:56.070Z"
 status: "active"
 ---
 

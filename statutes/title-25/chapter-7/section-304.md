@@ -3,9 +3,9 @@ title: "Section 304 - South Dakota Indians; State course of study"
 usc_title: 25
 usc_section: "304"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 304"
-generated_at: "2026-03-30T04:16:44.913Z"
+generated_at: "2026-03-30T04:18:44.119Z"
 status: "active"
 ---
 

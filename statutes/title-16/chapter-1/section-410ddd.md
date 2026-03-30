@@ -3,9 +3,9 @@ title: "Section 410ddd - New Bedford Whaling National Historical Park"
 usc_title: 16
 usc_section: "410ddd"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 410ddd"
-generated_at: "2026-03-30T04:16:25.144Z"
+generated_at: "2026-03-30T04:18:37.496Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(1)** financial and other assistance to establish links between the New Bedford Whaling National Historical Park and the North Slope Borough Cultural Center, located in Barrow, Alaska; and
   - **(2)** appropriate assistance and funding for the North Slope Borough Cultural Center.
 - **(e)**
-  - **(1)** The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+  - **(1)** The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1 , 2, 3, and 4) 2 2 See References in Text note below. and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461–467 ). 2
   - **(2)**
     - **(A)** The Secretary may consult and enter into cooperative agreements with interested entities and individuals to provide for the preservation, development, interpretation, and use of the park.
     - **(B)** Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
@@ -54,7 +54,7 @@ status: "active"
     - **(B)** For the purposes of this paragraph, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this section, any money so contributed. With the approval of the Secretary, any donation of property, services, or goods from a non-Federal source may be considered as a contribution of funds from a non-Federal source for the purposes of this paragraph.
   - **(4)** For the purposes of the park, the Secretary may acquire only by donation such lands, interests in lands, and improvements thereon within the park as are needed for essential visitor contact and interpretive facilities.
   - **(5)** The Secretary may accept donated funds, property, and services to carry out this section.
-- **(f)** Not later than the end of the second fiscal year beginning after November 12, 1996 , the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 1a–7(b) of this title and other applicable law.
+- **(f)** Not later than the end of the second fiscal year beginning after November 12, 1996 , the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 100502 of title 54 and other applicable law.
 - **(g)**
   - **(1)** Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
   - **(2)** In carrying out this section—

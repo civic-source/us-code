@@ -3,9 +3,9 @@ title: "Section 2084 - Information reporting"
 usc_title: 15
 usc_section: "2084"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 2084"
-generated_at: "2026-03-30T04:16:10.756Z"
+generated_at: "2026-03-30T04:18:26.866Z"
 status: "active"
 ---
 

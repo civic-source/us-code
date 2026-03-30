@@ -1,15 +1,13 @@
 ---
-title: "Section 5901 - “Secretary” defined"
+title: "Section 5901 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5901"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5901"
-generated_at: "2026-03-30T04:16:25.468Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.722Z"
+status: "repealed"
 ---
 
-# § 5901. “Secretary” defined
-
-As used in this chapter, the term “Secretary” means the Secretary of the Interior, except as otherwise specifically provided.
+# § 5901. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

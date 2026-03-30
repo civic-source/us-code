@@ -3,9 +3,9 @@ title: "Section 14301 - Security interests in certain motor vehicles"
 usc_title: 49
 usc_section: "14301"
 chapter: 143
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "49 U.S.C. § 14301"
-generated_at: "2026-03-30T04:17:49.013Z"
+generated_at: "2026-03-30T04:20:24.613Z"
 status: "active"
 ---
 

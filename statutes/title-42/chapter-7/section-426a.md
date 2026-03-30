@@ -3,9 +3,9 @@ title: "Section 426a - Transitional provision on eligibility of uninsured indivi
 usc_title: 42
 usc_section: "426a"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 426a"
-generated_at: "2026-03-30T04:17:41.525Z"
+generated_at: "2026-03-30T04:19:55.799Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** is a resident of the United States (as defined in section 410(i) of this title ), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as so defined) continuously during the 5 years immediately preceding the month in which he files application under this section, and
   - **(5)** has filed an application under this section in such manner and in accordance with such other requirements as may be prescribed in regulations of the Secretary,
 - **(b)** The provisions of subsection (a) of this section shall not apply to any individual who—
-  - **(1)** is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) of this title ,
+  - **(1)** is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) 1 1 See References in Text note below. of this title,
   - **(2)** has, prior to the beginning of such first month, been convicted of any offense listed in section 402(u) of this title , or
   - **(3)**
     - **(A)** at the beginning of such first month is covered by an enrollment in a health benefits plan under chapter 89 of title 5,

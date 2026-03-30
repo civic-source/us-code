@@ -3,9 +3,9 @@ title: "Section 656 - Women’s business center program"
 usc_title: 15
 usc_section: "656"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 656"
-generated_at: "2026-03-30T04:16:10.641Z"
+generated_at: "2026-03-30T04:18:26.791Z"
 status: "active"
 ---
 
@@ -131,4 +131,4 @@ status: "active"
   - **(3)** The Administrator shall issue regulations to establish standards for requiring disclosures during a financial audit under paragraph (1)(B).
 - **(o)**
   - **(1)** The Administrator shall periodically conduct a study to identify industries, as defined under the North American Industry Classification System, underrepresented by small business concerns owned and controlled by women.
-  - **(2)** Not later than 5 years after January 2, 2013 , and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
+  - **(2)** Not later than 3 years after January 2, 2013 , and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.

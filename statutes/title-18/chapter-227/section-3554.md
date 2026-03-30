@@ -3,9 +3,9 @@ title: "Section 3554 - Order of criminal forfeiture"
 usc_title: 18
 usc_section: "3554"
 chapter: 227
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 3554"
-generated_at: "2026-03-30T04:16:18.722Z"
+generated_at: "2026-03-30T04:18:30.762Z"
 status: "active"
 ---
 

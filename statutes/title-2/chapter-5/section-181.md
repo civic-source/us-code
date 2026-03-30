@@ -3,9 +3,9 @@ title: "Section 181 - Program for exchange of information among legislative bran
 usc_title: 2
 usc_section: "181"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 181"
-generated_at: "2026-03-30T04:15:17.484Z"
+generated_at: "2026-03-30T04:18:06.031Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** On September 16, 1996 , there shall be established a program for providing the widest possible exchange of information among legislative branch agencies with the long-range goal of improving information technology planning and evaluation. The Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate are requested to determine the structure and operation of this program and to provide appropriate oversight. All of the appropriate offices and agencies of the legislative branch as defined below shall participate in this program for information exchange, and shall report annually on the extent and nature of their participation in their budget submissions to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
 - **(b)** As used in this section—
-  - **(1)** the term “offices and agencies of the legislative branch” means, the office of the Clerk of the House, the office of the Secretary of the Senate, the office of the Architect of the Capitol, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Congressional Research Service, the Congressional Budget Office, the Chief Administrative Officer of the House of Representatives, and the Sergeant at Arms of the Senate; and
+  - **(1)** the term “offices and agencies of the legislative branch” means, the office of the Clerk of the House, the office of the Secretary of the Senate, the office of the Architect of the Capitol, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Congressional Research Service, the Congressional Budget Office, the Chief Administrative Officer of the House of Representatives, and the Sergeant at Arms of the Senate; and
   - **(2)** the term “technology” refers to any form of computer hardware and software; computer-based systems, services, and support for the creation, processing, exchange, and delivery of information; and telecommunications systems, and the associated hardware and software, that provide for voice, data, or image communication.

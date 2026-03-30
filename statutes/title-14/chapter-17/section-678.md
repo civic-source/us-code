@@ -3,9 +3,9 @@ title: "Section 678 - Aircraft accident investigations"
 usc_title: 14
 usc_section: "678"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 678"
-generated_at: "2026-03-30T04:15:52.720Z"
+generated_at: "2026-03-30T04:18:19.007Z"
 status: "active"
 ---
 

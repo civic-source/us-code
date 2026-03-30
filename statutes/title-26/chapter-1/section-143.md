@@ -3,9 +3,9 @@ title: "Section 143 - Mortgage revenue bonds: qualified mortgage bond and qualif
 usc_title: 26
 usc_section: "143"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 143"
-generated_at: "2026-03-30T04:17:14.455Z"
+generated_at: "2026-03-30T04:19:03.164Z"
 status: "active"
 ---
 
@@ -226,7 +226,7 @@ status: "active"
       - **(iii)** subsection (e) (relating to purchase price requirement) shall be applied by using the market value of the residence at the time of refinancing in lieu of the acquisition cost.
     - **(C)** The term “qualified subprime loan” means an adjustable rate single-family residential mortgage loan made after December 31, 2001 , and before January 1, 2008 , that the bond issuer determines would be reasonably likely to cause financial hardship to the borrower if not refinanced.
     - **(D)** This paragraph shall not apply to any bonds issued after December 31, 2010 .
-  - **(12)**
+  - **(13)**
     - **(A)** At the election of the taxpayer, if the principal residence (within the meaning of section 121) of such taxpayer is—
       - **(i)** rendered unsafe for use as a residence by reason of a federally declared disaster occurring before January 1, 2010 , or
       - **(ii)** demolished or relocated by reason of an order of the government of a State or political subdivision thereof on account of a federally declared disaster occurring before such date,
@@ -235,7 +235,7 @@ status: "active"
       - **(ii)** The aggregate owner-financing to which clause (i) applies shall not exceed the lesser of—
         - **(I)** the cost of such repair or reconstruction, or
         - **(II)** $150,000.
-    - **(C)** For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i).
+    - **(C)** For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i). 1 1 See References in Text note below.
     - **(D)**
       - **(i)** An election under this paragraph may not be revoked except with the consent of the Secretary.
       - **(ii)** If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.

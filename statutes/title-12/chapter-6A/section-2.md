@@ -3,9 +3,9 @@ title: "Section 2 - Implementation of regulations and procedures to lessen adver
 usc_title: 12
 usc_section: "2"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T04:16:05.592Z"
+generated_at: "2026-03-30T04:18:22.696Z"
 status: "active"
 ---
 

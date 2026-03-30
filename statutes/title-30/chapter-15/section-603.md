@@ -3,9 +3,9 @@ title: "Section 603 - Disposition of moneys from disposal of materials"
 usc_title: 30
 usc_section: "603"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 603"
-generated_at: "2026-03-30T04:17:04.595Z"
+generated_at: "2026-03-30T04:18:52.660Z"
 status: "active"
 ---
 

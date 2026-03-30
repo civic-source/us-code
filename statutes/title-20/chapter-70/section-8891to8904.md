@@ -3,9 +3,9 @@ title: "Section 8891to8904 - Repealed. Pub. L. 107–110, title X, § 1011(5)(C)
 usc_title: 20
 usc_section: "8891to8904"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 8891to8904"
-generated_at: "2026-03-30T04:16:29.686Z"
+generated_at: "2026-03-30T04:18:34.525Z"
 status: "repealed"
 ---
 

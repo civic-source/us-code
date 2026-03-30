@@ -3,15 +3,15 @@ title: "Section 9345a - Foreign and cultural exchange activities"
 usc_title: 10
 usc_section: "9345a"
 chapter: 903
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 9345a"
-generated_at: "2026-03-30T04:15:29.978Z"
+generated_at: "2026-03-30T04:18:16.964Z"
 status: "active"
 ---
 
 # § 9345a. Foreign and cultural exchange activities
 
-- **(a)** The Secretary of the Air Force may authorize the Air Force Academy to permit students, officers, and other representatives of a foreign country to attend the Air Force Academy for periods of not more than two weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
+- **(a)** The Secretary of the Air Force may authorize the Air Force Academy to permit students, officers, and other representatives of a foreign country to attend the Air Force Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
 - **(b)** The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Air Force Academy under subsection (a).
 - **(c)** Persons attending the Air Force Academy under subsection (a) are not considered to be students enrolled at the Air Force Academy and are in addition to persons receiving instruction at the Air Force Academy under section 9344 or 9345 of this title.
 - **(d)**

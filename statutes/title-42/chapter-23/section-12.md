@@ -3,9 +3,9 @@ title: "Section 12 - AVLIS"
 usc_title: 42
 usc_section: "12"
 chapter: 23
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T04:17:41.808Z"
+generated_at: "2026-03-30T04:19:56.120Z"
 status: "active"
 ---
 

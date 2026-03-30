@@ -3,9 +3,9 @@ title: "Section 5370 - Losses"
 usc_title: 26
 usc_section: "5370"
 chapter: 51
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 5370"
-generated_at: "2026-03-30T04:17:14.698Z"
+generated_at: "2026-03-30T04:19:03.365Z"
 status: "active"
 ---
 

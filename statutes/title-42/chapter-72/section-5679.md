@@ -3,9 +3,9 @@ title: "Section 5679 - Leasing surplus Federal property"
 usc_title: 42
 usc_section: "5679"
 chapter: 72
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 5679"
-generated_at: "2026-03-30T04:17:41.906Z"
+generated_at: "2026-03-30T04:19:56.229Z"
 status: "active"
 ---
 

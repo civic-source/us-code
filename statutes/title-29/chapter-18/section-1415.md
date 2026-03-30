@@ -3,9 +3,9 @@ title: "Section 1415 - Transfers pursuant to change in bargaining representative
 usc_title: 29
 usc_section: "1415"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1415"
-generated_at: "2026-03-30T04:17:06.245Z"
+generated_at: "2026-03-30T04:18:56.587Z"
 status: "active"
 ---
 
@@ -35,8 +35,8 @@ status: "active"
     - **(B)** the last day of the 180-day period beginning on the date on which the new plan files its appeal,
 - **(e)**
   - **(1)** Notwithstanding subsection (b) of this section, the plan sponsor shall not transfer any assets to the new plan if—
-    - **(A)** the old plan is in reorganization (within the meaning of section 1421(a) of this title ), or
-    - **(B)** the transfer of assets would cause the old plan to go into reorganization (within the meaning of section 1421(a) of this title ).
+    - **(A)** the old plan is in reorganization (within the meaning of section 1421(a) 1 1 See References in Text note below. of this title), or
+    - **(B)** the transfer of assets would cause the old plan to go into reorganization (within the meaning of section 1421(a) 1 of this title).
   - **(2)** In any case in which a transfer of assets from the old plan to the new plan is prohibited by paragraph (1), the plan sponsor of the old plan shall transfer—
     - **(A)** all nonforfeitable benefits described in subsection (b)(2) of this section, if the value of such benefits does not exceed the withdrawal liability of the employer with respect to such withdrawal, or
     - **(B)** such nonforfeitable benefits having a value equal to the withdrawal liability of the employer, if the value of such benefits exceeds the withdrawal liability of the employer.

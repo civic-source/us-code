@@ -3,9 +3,9 @@ title: "Section 838 - Art. 38. Duties of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "838"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 838"
-generated_at: "2026-03-30T04:15:29.843Z"
+generated_at: "2026-03-30T04:18:16.832Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The trial counsel of a general or special court-martial shall prosecute in the name of the United States, and shall, under the direction of the court, prepare the record of the proceedings.
 - **(b)**
-  - **(1)** The accused has the right to be represented in his defense before a general or special court-martial or at an investigation under section 832 of this title (article 32) as provided in this subsection.
+  - **(1)** The accused has the right to be represented in his defense before a general or special court-martial or at a preliminary hearing under section 832 of this title (article 32) as provided in this subsection.
   - **(2)** The accused may be represented by civilian counsel if provided by him.
   - **(3)** The accused may be represented—
     - **(A)** by military counsel detailed under section 827 of this title (article 27); or

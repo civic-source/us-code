@@ -3,9 +3,9 @@ title: "Section 55305 - Cargoes procured, furnished, or financed by the United S
 usc_title: 46
 usc_section: "55305"
 chapter: 553
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 55305"
-generated_at: "2026-03-30T04:17:46.740Z"
+generated_at: "2026-03-30T04:20:00.777Z"
 status: "active"
 ---
 
@@ -24,6 +24,7 @@ status: "active"
     - **(C)** may impose on any person that violates this section, or a regulation prescribed under this section, a civil penalty of not more than $25,000 for each violation willfully and knowingly committed, with each day of a continuing violation following the date of shipment to be a separate violation; and
     - **(D)** may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) 1 1 See References in Text note below. of the Office of Federal Procurement Policy Act ( 41 U.S.C. 421(c)(1) 2 2 So in original. Probably should be followed by a second closing parenthesis. or contract with respect to each violation.
 - **(e)**
-  - **(1)** In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to provide armed personnel aboard vessels of the United States carrying such equipment, materials, or commodities if the vessels are transiting high-risk waters.
-  - **(2)** The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
-  - **(3)** In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
+  - **(1)** In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to reimburse, subject to the availability of appropriations, the owners or operators of vessels of the United States carrying such equipment, materials, or commodities for the cost of providing armed personnel aboard such vessels if the vessels are transiting high-risk waters.
+  - **(2)** In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the maritime security directive issued by the Commandant and in effect on the date on which an applicable voyage begins, if the Secretary of Transportation—
+    - **(A)** determines that an act of piracy occurred in the 12-month period preceding the date the voyage begins; or
+    - **(B)** in such period, issued an advisory warning that an act of piracy is possible in such waters.

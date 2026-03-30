@@ -3,9 +3,9 @@ title: "Section 47120 - Grant priority"
 usc_title: 49
 usc_section: "47120"
 chapter: 471
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "49 U.S.C. § 47120"
-generated_at: "2026-03-30T04:17:49.078Z"
+generated_at: "2026-03-30T04:20:24.686Z"
 status: "active"
 ---
 

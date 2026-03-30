@@ -3,9 +3,9 @@ title: "Section 22 - Printing of papers filed"
 usc_title: 35
 usc_section: "22"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "35 U.S.C. § 22"
-generated_at: "2026-03-30T04:17:16.863Z"
+generated_at: "2026-03-30T04:19:05.247Z"
 status: "active"
 ---
 

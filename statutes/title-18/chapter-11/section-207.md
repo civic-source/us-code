@@ -3,9 +3,9 @@ title: "Section 207 - Restrictions on former officers, employees, and elected of
 usc_title: 18
 usc_section: "207"
 chapter: 11
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 207"
-generated_at: "2026-03-30T04:16:18.641Z"
+generated_at: "2026-03-30T04:18:30.702Z"
 status: "active"
 ---
 
@@ -83,7 +83,7 @@ status: "active"
     - **(D)** the term “employee of the Senate” means an employee of a Senator, an employee of a committee of the Senate, an employee of a joint committee of the Congress whose pay is disbursed by the Secretary of the Senate, and an employee on the leadership staff of the Senate;
     - **(E)** a person is an employee of a Member of the House of Representatives if that person is an employee of a Member of the House of Representatives under the clerk hire allowance;
     - **(F)** a person is an employee of a Senator if that person is an employee in a position in the office of a Senator;
-    - **(G)** the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
+    - **(G)** the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
     - **(H)** the term “employee on the leadership staff of the House of Representatives” means an employee of the office of a Member of the leadership of the House of Representatives described in subparagraph (L), and any elected minority employee of the House of Representatives;
     - **(I)** the term “employee on the leadership staff of the Senate” means an employee of the office of a Member of the leadership of the Senate described in subparagraph (M);
     - **(J)** the term “Member of Congress” means a Senator or a Member of the House of Representatives;

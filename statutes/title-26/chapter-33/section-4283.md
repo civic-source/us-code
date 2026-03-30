@@ -3,9 +3,9 @@ title: "Section 4283 - Repealed. Pub. L. 101–508, title XI, § 11213(e)(1) , N
 usc_title: 26
 usc_section: "4283"
 chapter: 33
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 4283"
-generated_at: "2026-03-30T04:17:14.671Z"
+generated_at: "2026-03-30T04:19:03.344Z"
 status: "repealed"
 ---
 

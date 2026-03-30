@@ -3,9 +3,9 @@ title: "Section 4 - Information Security and Privacy Advisory Board"
 usc_title: 15
 usc_section: "4"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T04:16:10.602Z"
+generated_at: "2026-03-30T04:18:26.765Z"
 status: "active"
 ---
 
@@ -17,8 +17,8 @@ status: "active"
   - **(3)** four members from the Federal Government who have information system management experience, including experience in information security and privacy, at least one of whom shall be from the National Security Agency.
 - **(b)** The duties of the Board shall be—
   - **(1)** to identify emerging managerial, technical, administrative, and physical safeguard issues relative to information security and privacy;
-  - **(2)** to advise the Institute and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title ; and
-  - **(3)** to report annually its findings to the Secretary of Commerce, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
+  - **(2)** to advise the Institute, the Secretary of Homeland Security, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title ; and
+  - **(3)** to report annually its findings to the Secretary of Commerce, the Secretary of Homeland Security, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
 - **(c)** The term of office of each member of the Board shall be four years, except that—
   - **(1)** of the initial members, three shall be appointed for terms of one year, three shall be appointed for terms of two years, three shall be appointed for terms of three years, and three shall be appointed for terms of four years; and
   - **(2)** any member appointed to fill a vacancy in the Board shall serve for the remainder of the term for which his predecessor was appointed.

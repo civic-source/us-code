@@ -3,9 +3,9 @@ title: "Section 1121 - Formation of Project"
 usc_title: 30
 usc_section: "1121"
 chapter: 24
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1121"
-generated_at: "2026-03-30T04:17:04.610Z"
+generated_at: "2026-03-30T04:18:52.671Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(1)** the determination and evaluation of the resource base;
   - **(2)** research and development with respect to exploration, extraction, and utilization technologies;
   - **(3)** the demonstration of appropriate technologies; and
-  - **(4)** the loan guaranty program under subchapter II of this chapter.
+  - **(4)** the loan guaranty program under subchapter II.
 - **(d)**
   - **(1)** The Project shall carry out its responsibilities under this section acting through the following Federal agencies:
     - **(A)** the Department of the Interior, the responsibilities of which shall include evaluation and assessment of the resource base, including development of exploration technologies;

@@ -3,9 +3,9 @@ title: "Section 231s - Separability"
 usc_title: 45
 usc_section: "231s"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "45 U.S.C. § 231s"
-generated_at: "2026-03-30T04:17:27.300Z"
+generated_at: "2026-03-30T04:19:39.625Z"
 status: "active"
 ---
 

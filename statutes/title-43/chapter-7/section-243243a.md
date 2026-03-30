@@ -3,9 +3,9 @@ title: "Section 243243a - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 2
 usc_title: 43
 usc_section: "243243a"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "43 U.S.C. § 243243a"
-generated_at: "2026-03-30T04:17:28.094Z"
+generated_at: "2026-03-30T04:19:38.249Z"
 status: "repealed"
 ---
 

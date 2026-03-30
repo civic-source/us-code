@@ -3,24 +3,24 @@ title: "Section 362 - Basis to corporations"
 usc_title: 26
 usc_section: "362"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 362"
-generated_at: "2026-03-30T04:17:14.499Z"
+generated_at: "2026-03-30T04:19:03.199Z"
 status: "active"
 ---
 
 # § 362. Basis to corporations
 
-- **(a)** If property was acquired on or after June 22, 1954 , by a corporation—
+- **(a)** If property was acquired, 1 1 So in original. The comma probably should not appear. by a corporation—
   - **(1)** in connection with a transaction to which section 351 (relating to transfer of property to corporation controlled by transferor) applies, or
   - **(2)** as paid-in surplus or as a contribution to capital,
 - **(b)** If property was acquired by a corporation in connection with a reorganization to which this part applies, then the basis shall be the same as it would be in the hands of the transferor, increased in the amount of gain recognized to the transferor on such transfer. This subsection shall not apply if the property acquired consists of stock or securities in a corporation a party to the reorganization, unless acquired by the exchange of stock or securities of the transferee (or of a corporation which is in control of the transferee) as the consideration in whole or in part for the transfer.
 - **(c)**
   - **(1)** Notwithstanding subsection (a)(2), if property other than money—
-    - **(A)** is acquired by a corporation, on or after June 22, 1954 , as a contribution to capital, and
+    - **(A)** is acquired by a corporation as a contribution to capital, and
     - **(B)** is not contributed by a shareholder as such,
   - **(2)** Notwithstanding subsection (a)(2), if money—
-    - **(A)** is received by a corporation, on or after June 22, 1954 , as a contribution to capital, and
+    - **(A)** is received by a corporation as a contribution to capital, and
     - **(B)** is not contributed by a shareholder as such,
 - **(d)**
   - **(1)** In no event shall the basis of any property be increased under subsection (a) or (b) above the fair market value of such property (determined without regard to section 7701(g)) by reason of any gain recognized to the transferor as a result of the assumption of a liability.

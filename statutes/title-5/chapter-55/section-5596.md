@@ -3,9 +3,9 @@ title: "Section 5596 - Back pay due to unjustified personnel action"
 usc_title: 5
 usc_section: "5596"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 5596"
-generated_at: "2026-03-30T04:15:08.225Z"
+generated_at: "2026-03-30T04:18:08.008Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** an Executive agency;
   - **(2)** the Administrative Office of the United States Courts, the Federal Judicial Center, and the courts named by section 610 of title 28 ;
   - **(3)** the Library of Congress;
-  - **(4)** the Government Printing Office;
+  - **(4)** the Government Publishing Office;
   - **(5)** the government of the District of Columbia;
   - **(6)** the Architect of the Capitol, including employees of the United States Senate Restaurants; and
   - **(7)** the United States Botanic Garden.

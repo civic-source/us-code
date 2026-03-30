@@ -3,9 +3,9 @@ title: "Section 1308 - Repealed. Pub. L. 105–362, title XIII, § 1302(b)(1) , 
 usc_title: 5
 usc_section: "1308"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 1308"
-generated_at: "2026-03-30T04:15:08.204Z"
+generated_at: "2026-03-30T04:18:07.987Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2780 - Transactions with countries supporting acts of internatio
 usc_title: 22
 usc_section: "2780"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2780"
-generated_at: "2026-03-30T04:17:01.848Z"
+generated_at: "2026-03-30T04:18:49.494Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
 - **(d)** The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
 - **(e)** Each determination of the Secretary of State under subsection (d) shall be published in the Federal Register.
 - **(f)**
-  - **(1)** A determination made by the Secretary of State under subsection (d) may not be rescinded unless the President submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate—
+  - **(1)** A determination made by the Secretary of State under subsection (d) may not be rescinded unless the President submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate—
     - **(A)** before the proposed rescission would take effect, a report certifying that—
       - **(i)** there has been a fundamental change in the leadership and policies of the government of the country concerned;
       - **(ii)** that government is not supporting acts of international terrorism; and
@@ -51,7 +51,7 @@ status: "active"
   - **(1)** the President determines that the transaction is essential to the national security interests of the United States; and
   - **(2)** not less than 15 days prior to the proposed transaction, the President—
     - **(A)** consults with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate; and
-    - **(B)** submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report containing—
+    - **(B)** submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate a report containing—
       - **(i)** the name of any country involved in the proposed transaction, the identity of any recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
       - **(ii)** a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
       - **(iii)** the reasons why the proposed transaction is essential to the national security interests of the United States and the justification for such proposed transaction;

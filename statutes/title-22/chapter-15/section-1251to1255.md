@@ -3,9 +3,9 @@ title: "Section 1251to1255 - Omitted"
 usc_title: 22
 usc_section: "1251to1255"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 1251to1255"
-generated_at: "2026-03-30T04:17:01.780Z"
+generated_at: "2026-03-30T04:18:49.433Z"
 status: "omitted"
 ---
 

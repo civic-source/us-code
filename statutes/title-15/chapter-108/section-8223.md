@@ -3,9 +3,9 @@ title: "Section 8223 - Definitions"
 usc_title: 15
 usc_section: "8223"
 chapter: 108
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 8223"
-generated_at: "2026-03-30T04:16:10.865Z"
+generated_at: "2026-03-30T04:18:26.934Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 38
 usc_section: "3002"
 chapter: 30
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 3002"
-generated_at: "2026-03-30T04:17:24.207Z"
+generated_at: "2026-03-30T04:19:32.582Z"
 status: "active"
 ---
 

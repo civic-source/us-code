@@ -3,9 +3,9 @@ title: "Section 3132 - Definitions and exclusions"
 usc_title: 5
 usc_section: "3132"
 chapter: 31
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 3132"
-generated_at: "2026-03-30T04:15:08.206Z"
+generated_at: "2026-03-30T04:18:07.989Z"
 status: "active"
 ---
 
@@ -25,8 +25,9 @@ status: "active"
     - **(C)** monitors progress toward organizational goals and periodically evaluates and makes appropriate adjustments to such goals;
     - **(D)** supervises the work of employees other than personal assistants; or
     - **(E)** otherwise exercises important policy-making, policy-determining, or other executive functions;
-      - **(i)** any position in the Foreign Service of the United States; or
-      - **(ii)** an administrative law judge position under section 3105 of this title ;
+      - **(i)** any position in the Foreign Service of the United States;
+      - **(ii)** an administrative law judge position under section 3105 of this title ; or
+      - **(iii)** any position established as a qualified position in the excepted service by the Secretary of Homeland Security under section 226 2 2 So in original. See References in Text note below. of the Homeland Security Act of 2002;
   - **(3)** “senior executive” means a member of the Senior Executive Service;
   - **(4)** “career appointee” means an individual in a Senior Executive Service position whose appointment to the position or previous appointment to another Senior Executive Service position was based on approval by the Office of Personnel Management of the executive qualifications of such individual;
   - **(5)** “limited term appointee” means an individual appointed under a nonrenewable appointment for a term of 3 years or less to a Senior Executive Service position the duties of which will expire at the end of such term;

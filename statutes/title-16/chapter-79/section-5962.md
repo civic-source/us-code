@@ -1,15 +1,13 @@
 ---
-title: "Section 5962 - Use of nonmonetary consideration in concessions contracts"
+title: "Section 5962 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5962"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5962"
-generated_at: "2026-03-30T04:16:25.470Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.722Z"
+status: "repealed"
 ---
 
-# § 5962. Use of nonmonetary consideration in concessions contracts
-
-Section 1302 of title 40 , relating to the leasing of buildings and properties of the United States, shall not apply to contracts awarded by the Secretary pursuant to this subchapter.
+# § 5962. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

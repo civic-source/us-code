@@ -3,9 +3,9 @@ title: "Section 860 - Art. 60. Action by the convening authority"
 usc_title: 10
 usc_section: "860"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 860"
-generated_at: "2026-03-30T04:15:29.845Z"
+generated_at: "2026-03-30T04:18:16.833Z"
 status: "active"
 ---
 
@@ -25,11 +25,11 @@ status: "active"
     - **(B)** Except as provided in paragraph (4), the convening authority or another person authorized to act under this section may approve, disapprove, commute, or suspend the sentence of the court-martial in whole or in part.
     - **(C)** If the convening authority or another person authorized to act under this section acts to disapprove, commute, or suspend, in whole or in part, the sentence of the court-martial for an offense (other than a qualifying offense), the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
   - **(3)**
-    - **(A)** Action on the findings of a court-martial by the convening authority or by another person authorized to act under this section is not required.
+    - **(A)** Action on the findings of a court-martial by the convening authority or by another person authorized to act under this section is not required and may be taken only with respect to a qualifying offense.
     - **(B)** If the convening authority or another person authorized to act under this section acts on the findings of a court-martial, the convening authority or other person—
-      - **(i)** may not dismiss any charge or specification, other than a charge or specification for a qualifying offense, by setting aside a finding of guilty thereto; or
-      - **(ii)** may not change a finding of guilty to a charge or specification, other than a charge or specification for a qualifying offense, to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification.
-    - **(C)** If the convening authority or another person authorized to act under this section acts on the findings to dismiss or change any charge or specification for an offense (other than a qualifying offense), the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
+      - **(i)** may not dismiss any charge or specification by setting aside a finding of guilty thereto, but may take such action with respect to a qualifying offense; or
+      - **(ii)** may not change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification, but may take such action with respect to a qualifying offense.
+    - **(C)** If the convening authority or another person authorized to act under this section acts on the findings to dismiss or change any charge or specification for an offense, the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
     - **(D)**
       - **(i)** In this subsection, the term “qualifying offense” means, except in the case of an offense excluded pursuant to clause (ii), an offense under this chapter for which—
         - **(I)** the maximum sentence of confinement that may be adjudged does not exceed two years; and
@@ -43,17 +43,17 @@ status: "active"
     - **(B)** Upon the recommendation of the trial counsel, in recognition of the substantial assistance by the accused in the investigation or prosecution of another person who has committed an offense, the convening authority or another person authorized to act under this section shall have the authority to disapprove, commute, or suspend the adjudged sentence in whole or in part, even with respect to an offense for which a mandatory minimum sentence exists.
     - **(C)** If a pre-trial agreement has been entered into by the convening authority and the accused, as authorized by Rule for Courts–Martial 705, the convening authority or another person authorized to act under this section shall have the authority to approve, disapprove, commute, or suspend a sentence in whole or in part pursuant to the terms of the pre-trial agreement, subject to the following limitations for convictions of offenses that involve a mandatory minimum sentence:
       - **(i)** If a mandatory minimum sentence of a dishonorable discharge applies to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may commute the dishonorable discharge to a bad conduct discharge pursuant to the terms of the pre-trial agreement.
-      - **(ii)** Except as provided in clause (i), if a mandatory minimum sentence applies to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may not disapprove, otherwise commute, or suspend the mandatory minimum sentence in whole or in part, unless authorized to do so under subparagraph (B).
+      - **(ii)** Except as provided in clause (i), if a mandatory minimum sentence applies pursuant to section 856(b) of this title (article 56(b)) to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may not disapprove, otherwise commute, or suspend the mandatory minimum sentence in whole or in part, unless authorized to do so under subparagraph (B).
 - **(d)**
   - **(1)** In any case in which findings and sentence have been adjudged for an offense that involved a victim, the victim shall be provided an opportunity to submit matters for consideration by the convening authority or by another person authorized to act under this section before the convening authority or such other person takes action under this section.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the submission of matters under paragraph (1) shall be made within 10 days after the later of—
-      - **(i)** the date on which the victim has been given an authenticated record of trial in accordance with section 854(e) of this title (article 54(e)); and
-      - **(ii)** if applicable, the date on which the victim has been given the recommendation of the staff judge advocate or legal officer under subsection (e).
+      - **(i)** the date on which the victim has been given an authenticated record of trial in accordance with section 854(e) of this title (article 54(e)), if applicable; and
+      - **(ii)** the date on which the victim has been given the recommendation of the staff judge advocate or legal officer under subsection (e).
     - **(B)** In the case of a summary court-martial, the submission of matters under paragraph (1) shall be made within seven days after the date on which the sentence is announced.
   - **(3)** If a victim shows that additional time is required for submission of matters under paragraph (1), the convening authority or other person taking action under this section, for good cause, may extend the submission period under paragraph (2) for not more than an additional 20 days.
   - **(4)** A victim may waive the right under this subsection to make a submission to the convening authority or other person taking action under this section. Such a waiver shall be made in writing and may not be revoked. For the purposes of subsection (c)(2), the time within which a victim may make a submission under this subsection shall be deemed to have expired upon the submission of such waiver to the convening authority or such other person.
-  - **(5)** In this section, the term “victim” means a person who has suffered a direct physical, emotional, or pecuniary loss as a result of a commission of an offense under this chapter (the Uniform Code of Military Justice) and on which the convening authority or other person authorized to take action under this section is taking action under this section.
+  - **(5)** In this section, the term “victim” means a person who has suffered a direct physical, emotional, or pecuniary harm as a result of a commission of an offense under this chapter (the Uniform Code of Military Justice) and on which the convening authority or other person authorized to take action under this section is taking action under this section.
 - **(e)** Before acting under this section on any general court-martial case or any special court-martial case that includes a bad-conduct discharge, the convening authority or another person authorized to act under this section shall obtain and consider the written recommendation of his staff judge advocate or legal officer. The convening authority or other person taking action under this section shall refer the record of trial to his staff judge advocate or legal officer, and the staff judge advocate or legal officer shall use such record in the preparation of his recommendation. The recommendation of the staff judge advocate or legal officer shall include such matters as the President may prescribe by regulation and shall be served on the accused, who may submit any matter in response under subsection (b). Failure to object in the response to the recommendation or to any matter attached to the recommendation waives the right to object thereto.
 - **(f)**
   - **(1)** The convening authority or another person authorized to act under this section may order a proceeding in revision or a rehearing.

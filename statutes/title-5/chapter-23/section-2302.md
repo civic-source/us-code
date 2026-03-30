@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-30T04:15:08.205Z"
+generated_at: "2026-03-30T04:18:07.988Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** “covered position” means, with respect to any personnel action, any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include any position which is, prior to the personnel action—
       - **(i)** excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
       - **(ii)** excluded from the coverage of this section by the President based on a determination by the President that it is necessary and warranted by conditions of good administration;
-    - **(C)** “agency” means an Executive agency and the Government Printing Office, but does not include—
+    - **(C)** “agency” means an Executive agency and the Government Publishing Office, but does not include—
       - **(i)** a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
       - **(ii)**
         - **(I)** the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and

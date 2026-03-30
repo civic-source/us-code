@@ -3,9 +3,9 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-30T04:17:14.624Z"
+generated_at: "2026-03-30T04:19:03.303Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(B)** No tax shall be imposed on the net recognized built-in gain of an S corporation—
       - **(i)** in the case of any taxable year beginning in 2009 or 2010, if the 7th taxable year in the recognition period preceded such taxable year, or
       - **(ii)** in the case of any taxable year beginning in 2011, if the 5th year in the recognition period preceded such taxable year.
-    - **(C)** For purposes of determining the net recognized built-in gain for taxable years beginning in 2012 or 2013, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
+    - **(C)** For purposes of determining the net recognized built-in gain for taxable years beginning in 2012, 2013, or 2014, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
     - **(D)** For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e)—
       - **(i)** subparagraph (A) shall be applied without regard to the phrase “10-year”, and
       - **(ii)** subparagraph (B) shall not apply.

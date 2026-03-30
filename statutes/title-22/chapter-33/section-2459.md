@@ -3,9 +3,9 @@ title: "Section 2459 - Immunity from seizure under judicial process of cultural 
 usc_title: 22
 usc_section: "2459"
 chapter: 33
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2459"
-generated_at: "2026-03-30T04:17:01.830Z"
+generated_at: "2026-03-30T04:18:49.478Z"
 status: "active"
 ---
 

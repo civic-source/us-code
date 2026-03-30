@@ -3,9 +3,9 @@ title: "Section 344 - Discount or purchase of bills to finance agricultural ship
 usc_title: 12
 usc_section: "344"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 344"
-generated_at: "2026-03-30T04:16:05.582Z"
+generated_at: "2026-03-30T04:18:22.686Z"
 status: "active"
 ---
 

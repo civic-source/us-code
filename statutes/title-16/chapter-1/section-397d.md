@@ -3,13 +3,13 @@ title: "Section 397d - Administration"
 usc_title: 16
 usc_section: "397d"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 397d"
-generated_at: "2026-03-30T04:16:25.116Z"
+generated_at: "2026-03-30T04:18:37.476Z"
 status: "active"
 ---
 
 # § 397d. Administration
 
-The Puʻuhonua o Ho̅naunau National Historical Park shall be administered by the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and such additional authority compatible therewith as is contained in sections 461 to 467 of this title, with regard to preservation of historic sites and objects of national significance.
+The Puʻuhonua o Ho̅naunau National Historical Park shall be administered by the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title, as amended and supplemented, and such additional authority compatible therewith as is contained in sections 461 to 467 1 of this title, with regard to preservation of historic sites and objects of national significance.
 

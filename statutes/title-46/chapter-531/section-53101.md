@@ -3,9 +3,9 @@ title: "Section 53101 - Definitions"
 usc_title: 46
 usc_section: "53101"
 chapter: 531
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 53101"
-generated_at: "2026-03-30T04:17:46.731Z"
+generated_at: "2026-03-30T04:20:00.771Z"
 status: "active"
 ---
 
@@ -19,22 +19,21 @@ In this chapter:
   - **(4)** The term “foreign commerce” means—
     - **(A)** commerce or trade between the United States, its territories or possessions, or the District of Columbia, and a foreign country; and
     - **(B)** commerce or trade between foreign countries.
-  - **(5)** The term “LASH vessel” means a lighter aboard ship vessel.
-  - **(6)** The term “participating fleet vessel” means any vessel that—
-    - **(A)** on October 1, 2005 —
+  - **(5)** The term “participating fleet vessel” means any vessel that—
+    - **(A)** on October 1, 2015 —
       - **(i)** meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
-      - **(ii)** is less than 25 years of age, or less than 30 years of age in the case of a LASH vessel; and
-    - **(B)** on December 31, 2004 , is covered by an operating agreement under subtitle B of title VI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1187 et seq.). 1 1 See References in Text note below.
-  - **(7)** The term “person” includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
-  - **(8)** The term “product tank vessel” means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
-  - **(9)** The term “Secretary” means the Secretary of Transportation.
-  - **(10)** The term “tank vessel” has the meaning that term has under section 2101 of this title .
-  - **(11)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
-  - **(12)**
+      - **(ii)** is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
+    - **(B)** on December 31, 2014 , is covered by an operating agreement under this chapter.
+  - **(6)** The term “person” includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
+  - **(7)** The term “product tank vessel” means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
+  - **(8)** The term “Secretary” means the Secretary of Transportation.
+  - **(9)** The term “tank vessel” has the meaning that term has under section 2101 of this title .
+  - **(10)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
+  - **(11)**
     - **(A)** Subject to subparagraph (C), the term “United States citizen trust” means a trust that is qualified under this paragraph.
     - **(B)** A trust is qualified under this paragraph with respect to a vessel only if—
       - **(i)** each of the trustees is a citizen of the United States; and
       - **(ii)** the application for documentation of the vessel under chapter 121 of this title includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
     - **(C)** If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
     - **(D)** This paragraph shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
-  - **(13)** The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.
+  - **(12)** The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.

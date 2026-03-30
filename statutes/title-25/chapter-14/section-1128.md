@@ -3,9 +3,9 @@ title: "Section 1128 - Distribution of shares"
 usc_title: 25
 usc_section: "1128"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 1128"
-generated_at: "2026-03-30T04:16:44.961Z"
+generated_at: "2026-03-30T04:18:44.159Z"
 status: "active"
 ---
 

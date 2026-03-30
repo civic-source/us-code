@@ -3,9 +3,9 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T04:17:14.514Z"
+generated_at: "2026-03-30T04:19:03.211Z"
 status: "active"
 ---
 
@@ -36,11 +36,11 @@ status: "active"
       - **(v)** For nonforfeitability where the employee has a nonforfeitable right to at least 50 percent of his accrued benefit, see section 401(a)(19).
     - **(E)** A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multi­employer plan.
     - **(F)** A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
-      - **(i)** the plan is amended to reduce benefits under section 418D or under section 4281 of the Employee Retirement Income Security Act of 1974, or
+      - **(i)** the plan is amended to reduce benefits under section 418D 1 1 See References in Text note below. or under section 4281 of the Employee Retirement Income Security Act of 1974, or
       - **(ii)** benefit payments under the plan may be suspended under section 418E or under section 4281 of the Employee Retirement Income Security Act of 1974.
     - **(G)** A matching contribution (within the meaning of section 401(m)) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B), an excess deferral under section 402(g)(2)(A), a permissible withdrawal under section 414(w), or an excess aggregate contribution under section 401(m)(6)(B).
   - **(4)** In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
-    - **(A)** years of service before age 18, 1 1 So in original. The comma probably should be a semicolon.
+    - **(A)** years of service before age 18, 2 2 So in original. The comma probably should be a semicolon.
     - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions;
     - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary;
     - **(D)** service not required to be taken into account under paragraph (6);
@@ -178,7 +178,7 @@ status: "active"
       - **(iii)** Subject to clause (iv), the requirements of this clause are met with respect to any participant if the accrued benefit of the participant under the terms of the plan as in effect after the amendment is not less than the sum of—
         - **(I)** the participant’s accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
         - **(II)** the participant’s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
-      - **(iv)** For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount 2 2 So in original. Probably should be “similar account”. with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+      - **(iv)** For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount 3 3 So in original. Probably should be “similar account”. with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
       - **(v)** For purposes of this subparagraph—
         - **(I)** The term “applicable plan amendment” means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
         - **(II)** If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
@@ -246,3 +246,13 @@ status: "active"
     - **(C)** a plan which has not, at any time after September 2, 1974 , provided for employer contributions, and
     - **(D)** a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9), if no part of the contributions to or under such plan are made by employers of participants in such plan.
   - **(2)** A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the vesting requirements resulting from the application of sections 401(a)(4) and 401(a)(7) as in effect on September 1, 1974 .
+- **(f)**
+  - **(1)** Notwithstanding subsection (a)(8), an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “applicable plan” means a defined benefit plan the terms of which, on or before December 8, 2014 , provided for a normal retirement age which is the earlier of—
+      - **(i)** an age otherwise permitted under subsection (a)(8), or
+      - **(ii)** the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
+    - **(B)** Subject to subparagraph (C), if, after December 8, 2014 , an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+    - **(C)** A defined benefit plan shall be an applicable plan only with respect to an individual who—
+      - **(i)** is a participant in the plan on or before January 1, 2017 , or
+      - **(ii)** is an employee at any time on or before January 1, 2017 , of any employer maintaining the plan, and who becomes a participant in such plan after such date.

@@ -3,9 +3,9 @@ title: "Section 2501 - Definitions"
 usc_title: 50
 usc_section: "2501"
 chapter: 42
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 2501"
-generated_at: "2026-03-30T04:17:50.332Z"
+generated_at: "2026-03-30T04:20:17.709Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ Except as otherwise provided, in this chapter:
 
   - **(1)** The term “Administration” means the National Nuclear Security Administration.
   - **(2)** The term “Administrator” means the Administrator for Nuclear Security.
-  - **(3)** The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([former] 50 U.S.C. 401 note) [now 50 U.S.C. 3001 note], Executive Order No. 12958 of April 17, 1995 ([former] 50 U.S.C. 435 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
+  - **(3)** The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ( 50 U.S.C. 3001 note), Executive Order No. 12958 of April 17, 1995 ( 50 U.S.C. 3161 note), Executive Order No. 13526 of December 29, 2009 ( 50 U.S.C. 3161 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
   - **(4)** The term “congressional defense committees” means—
     - **(A)** the Committee on Armed Services and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.

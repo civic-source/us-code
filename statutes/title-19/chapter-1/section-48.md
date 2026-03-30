@@ -3,9 +3,9 @@ title: "Section 48 - Repealed. Aug. 2, 1946, ch. 744, § 2 , 60 Stat. 807 , eff.
 usc_title: 19
 usc_section: "48"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "19 U.S.C. § 48"
-generated_at: "2026-03-30T04:16:40.512Z"
+generated_at: "2026-03-30T04:18:38.916Z"
 status: "repealed"
 ---
 

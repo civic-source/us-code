@@ -1,21 +1,13 @@
 ---
-title: "Section 4 - Preservation grants"
+title: "Section 4 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T04:16:25.240Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.557Z"
+status: "repealed"
 ---
 
-# § 470x–4. Preservation grants
+# § 470x–4. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** The Secretary, in consultation with the Board, shall provide preservation technology and training grants to eligible applicants with a demonstrated institutional capability and commitment to the purposes of the Center, in order to ensure an effective and efficient system of research, information distribution and skills training in all the related historic preservation fields.
-- **(b)**
-  - **(1)** Grants provided under this section shall be allocated in such a fashion to reflect the diversity of the historic preservation fields and shall be geographically distributed.
-  - **(2)** No grant recipient may receive more than 10 percent of the grants allocated under this section within any year.
-  - **(3)** The total administrative costs, direct and indirect, charged for carrying out grants under this section may not exceed 25 percent of the aggregate costs.
-- **(c)** Eligible applicants may include Federal and non-Federal laboratories, accredited museums, universities, nonprofit organizations; offices, units, and Cooperative Park Study Units of the National Park System, State Historic Preservation Offices, tribal preservation offices, and Native Hawaiian organizations.
-- **(d)** All such grants shall be awarded in accordance with accepted professional standards and methods, including peer review of projects.
-- **(e)** There is authorized to be appropriated to carry out this section such sums as may be necessary.

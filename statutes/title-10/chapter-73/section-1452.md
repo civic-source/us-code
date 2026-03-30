@@ -3,9 +3,9 @@ title: "Section 1452 - Reduction in retired pay"
 usc_title: 10
 usc_section: "1452"
 chapter: 73
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1452"
-generated_at: "2026-03-30T04:15:29.878Z"
+generated_at: "2026-03-30T04:18:16.867Z"
 status: "active"
 ---
 
@@ -39,11 +39,11 @@ status: "active"
     - **(A)** does not have an eligible spouse or former spouse; or
     - **(B)** has a spouse or former spouse but has elected to provide an annuity for dependent children only.
 - **(c)**
-  - **(1)** The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title shall be reduced as follows:
+  - **(1)** The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) 1 1 See References in Text note below. of this title shall be reduced as follows:
     - **(A)** In the case of a person providing a standard annuity, the reduction shall be by 10 percent plus 5 percent for each full five years the individual designated is younger than that person.
     - **(B)** In the case of a person providing a reserve-component annuity, the reduction shall be by an amount prescribed under regulations of the Secretary of Defense.
   - **(2)** The total reduction under paragraph (1) may not exceed 40 percent.
-  - **(3)** The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired pay changes his election under section 1450(f) of this title .
+  - **(3)** The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) 1 of this title or until the person receiving retired pay changes his election under section 1450(f) of this title .
   - **(4)** Computation of a member’s retired pay for purposes of this subsection shall be made without regard to any reduction under section 1409(b)(2) of this title .
   - **(5)** The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
     - **(A)** The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.

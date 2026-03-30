@@ -3,9 +3,9 @@ title: "Section 966 - Authority of Secretary of the Treasury"
 usc_title: 21
 usc_section: "966"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 966"
-generated_at: "2026-03-30T04:16:47.565Z"
+generated_at: "2026-03-30T04:18:45.724Z"
 status: "active"
 ---
 

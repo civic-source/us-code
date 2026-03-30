@@ -3,9 +3,9 @@ title: "Section 6771 - National activities"
 usc_title: 20
 usc_section: "6771"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 6771"
-generated_at: "2026-03-30T04:16:29.649Z"
+generated_at: "2026-03-30T04:18:34.496Z"
 status: "active"
 ---
 

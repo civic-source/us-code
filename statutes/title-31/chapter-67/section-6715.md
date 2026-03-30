@@ -3,9 +3,9 @@ title: "Section 6715 - Enforcement by the Attorney General of prohibitions on di
 usc_title: 31
 usc_section: "6715"
 chapter: 67
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 6715"
-generated_at: "2026-03-30T04:17:17.928Z"
+generated_at: "2026-03-30T04:19:06.460Z"
 status: "active"
 ---
 

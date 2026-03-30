@@ -3,9 +3,9 @@ title: "Section 181 - Treatment of certain qualified film and television product
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-30T04:17:14.478Z"
+generated_at: "2026-03-30T04:19:03.182Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
     - **(A)** The term “qualified compensation” means compensation for services performed in the United States by actors, production personnel, directors, and producers.
     - **(B)** The term “compensation” does not include participations and residuals (as defined in section 167(g)(7)(B)).
 - **(e)** For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
-- **(f)** This section shall not apply to qualified film and television productions commencing after December 31, 2013 .
+- **(f)** This section shall not apply to qualified film and television productions commencing after December 31, 2014 .

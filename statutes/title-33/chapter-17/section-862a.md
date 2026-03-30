@@ -3,9 +3,9 @@ title: "Section 862a - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 33
 usc_section: "862a"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 862a"
-generated_at: "2026-03-30T04:17:18.927Z"
+generated_at: "2026-03-30T04:19:23.094Z"
 status: "repealed"
 ---
 

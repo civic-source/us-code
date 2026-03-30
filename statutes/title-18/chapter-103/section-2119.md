@@ -3,9 +3,9 @@ title: "Section 2119 - Motor vehicles"
 usc_title: 18
 usc_section: "2119"
 chapter: 103
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 2119"
-generated_at: "2026-03-30T04:16:18.691Z"
+generated_at: "2026-03-30T04:18:30.739Z"
 status: "active"
 ---
 

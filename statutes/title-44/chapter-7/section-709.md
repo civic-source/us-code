@@ -3,13 +3,13 @@ title: "Section 709 - Public and private laws, postal conventions, and treaties"
 usc_title: 44
 usc_section: "709"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 709"
-generated_at: "2026-03-30T04:17:26.009Z"
+generated_at: "2026-03-30T04:19:38.079Z"
 status: "active"
 ---
 
 # § 709. Public and private laws, postal conventions, and treaties
 
-The Public Printer shall print in slip form copies of public and private laws, postal conventions, and treaties, to be charged to the congressional allotment for printing and binding. The Joint Committee on Printing shall control the number and distribution of copies.
+The Director of the Government Publishing Office shall print in slip form copies of public and private laws, postal conventions, and treaties, to be charged to the congressional allotment for printing and binding. The Joint Committee on Printing shall control the number and distribution of copies.
 

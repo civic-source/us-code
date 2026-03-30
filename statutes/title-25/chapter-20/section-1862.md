@@ -3,9 +3,9 @@ title: "Section 1862 - Tribally controlled postsecondary career and technical in
 usc_title: 25
 usc_section: "1862"
 chapter: 20
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 1862"
-generated_at: "2026-03-30T04:16:45.002Z"
+generated_at: "2026-03-30T04:18:44.193Z"
 status: "active"
 ---
 

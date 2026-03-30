@@ -3,9 +3,9 @@ title: "Section 4001 - Purposes"
 usc_title: 19
 usc_section: "4001"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "19 U.S.C. § 4001"
-generated_at: "2026-03-30T04:16:40.604Z"
+generated_at: "2026-03-30T04:18:38.996Z"
 status: "active"
 ---
 

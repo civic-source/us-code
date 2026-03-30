@@ -3,9 +3,9 @@ title: "Section 248 - Organizational expenditures"
 usc_title: 26
 usc_section: "248"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 248"
-generated_at: "2026-03-30T04:17:14.486Z"
+generated_at: "2026-03-30T04:19:03.188Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
   - **(1)** is incident to the creation of the corporation;
   - **(2)** is chargeable to capital account; and
   - **(3)** is of a character which, if expended incident to the creation of a corporation having a limited life, would be amortizable over such life.
-- **(c)** The election provided by subsection (a) may be made for any taxable year beginning after December 31, 1953 , but only if made not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof). The period so elected shall be adhered to in computing the taxable income of the corporation for the taxable year for which the election is made and all subsequent taxable years. The election shall apply only with respect to expenditures paid or incurred on or after August 16, 1954 .
+- **(c)** The election provided by subsection (a) may be made for any taxable year but only if made not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof). The period so elected shall be adhered to in computing the taxable income of the corporation for the taxable year for which the election is made and all subsequent taxable years.

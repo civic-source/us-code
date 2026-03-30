@@ -3,9 +3,9 @@ title: "Section 1413 - 470–512 MHz public safety spectrum"
 usc_title: 47
 usc_section: "1413"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "47 U.S.C. § 1413"
-generated_at: "2026-03-30T04:17:45.836Z"
+generated_at: "2026-03-30T04:20:10.350Z"
 status: "active"
 ---
 

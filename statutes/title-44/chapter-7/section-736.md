@@ -3,13 +3,13 @@ title: "Section 736 - Binding at expense of Members of Congress"
 usc_title: 44
 usc_section: "736"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 736"
-generated_at: "2026-03-30T04:17:26.010Z"
+generated_at: "2026-03-30T04:19:38.079Z"
 status: "active"
 ---
 
 # § 736. Binding at expense of Members of Congress
 
-The Public Printer may bind at the Government Printing Office books, maps, charts, or documents published by authority of Congress, upon application of a Member of Congress, and payment of the actual cost of binding.
+The Director of the Government Publishing Office may bind at the Government Publishing Office books, maps, charts, or documents published by authority of Congress, upon application of a Member of Congress, and payment of the actual cost of binding.
 

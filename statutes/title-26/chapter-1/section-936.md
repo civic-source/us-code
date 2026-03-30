@@ -3,9 +3,9 @@ title: "Section 936 - Puerto Rico and possession tax credit"
 usc_title: 26
 usc_section: "936"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 936"
-generated_at: "2026-03-30T04:17:14.592Z"
+generated_at: "2026-03-30T04:19:03.278Z"
 status: "active"
 ---
 
@@ -21,10 +21,9 @@ status: "active"
     - **(A)** If 80 percent or more of the gross income of such domestic corporation for the 3-year period immediately preceding the close of the taxable year (or for such part of such period immediately preceding the close of such taxable year as may be applicable) was derived from sources within a possession of the United States (determined without regard to subsections (f) and (g) of section 904); and
     - **(B)** If 75 percent or more of the gross income of such domestic corporation for such period or such part thereof was derived from the active conduct of a trade or business within a possession of the United States.
   - **(3)** The credit provided by paragraph (1) shall not be allowed against the tax imposed by—
-    - **(A)** section 59A (relating to environmental tax),
-    - **(B)** section 531 (relating to the tax on accumulated earnings),
-    - **(C)** section 541 (relating to personal holding company tax), or
-    - **(D)** section 1351 (relating to recoveries of foreign expropriation losses).
+    - **(A)** section 531 (relating to the tax on accumulated earnings),
+    - **(B)** section 541 (relating to personal holding company tax), or
+    - **(C)** section 1351 (relating to recoveries of foreign expropriation losses).
   - **(4)**
     - **(A)** The amount of the credit determined under paragraph (1) for any taxable year with respect to income referred to in subparagraph (A) thereof shall not exceed the sum of the following amounts:
       - **(i)** 60 percent of the sum of—

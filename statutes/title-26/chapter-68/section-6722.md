@@ -3,9 +3,9 @@ title: "Section 6722 - Failure to furnish correct payee statements"
 usc_title: 26
 usc_section: "6722"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6722"
-generated_at: "2026-03-30T04:17:14.750Z"
+generated_at: "2026-03-30T04:19:03.408Z"
 status: "active"
 ---
 
@@ -17,20 +17,20 @@ status: "active"
     - **(A)** any failure to furnish a payee statement on or before the date prescribed therefor to the person to whom such statement is required to be furnished, and
     - **(B)** any failure to include all of the information required to be shown on a payee statement or the inclusion of incorrect information.
 - **(b)**
-  - **(1)** If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the required filing date—
+  - **(1)** If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the date prescribed for furnishing such statement—
     - **(A)** the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
     - **(B)** the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
-  - **(2)** If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
+  - **(2)** If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs—
     - **(A)** the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
     - **(B)** the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
 - **(c)**
   - **(1)** If—
     - **(A)** a payee statement is furnished to the person to whom such statement is required to be furnished,
     - **(B)** there is a failure described in subsection (a)(2)(B) (determined after the application of section 6724(a)) with respect to such statement, and
-    - **(C)** such failure is corrected on or before August 1 of the calendar year in which the required filing date occurs,
+    - **(C)** such failure is corrected on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs,
   - **(2)** The number of payee statements to which paragraph (1) applies for any calendar year shall not exceed the greater of—
     - **(A)** 10, or
-    - **(B)** one-half of 1 percent of the total number of payee statements required to be filed by the person during the calendar year.
+    - **(B)** one-half of 1 percent of the total number of payee statements required to be furnished by the person during the calendar year.
 - **(d)**
   - **(1)** If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
     - **(A)** subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
@@ -46,7 +46,7 @@ status: "active"
     - **(A)** the $1,500,000 limitation under subsection (a) shall not apply, and
     - **(B)** such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (2).
 - **(f)**
-  - **(1)** For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(1)** In the case of any failure relating to a statement required to be furnished in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
   - **(2)** If any amount adjusted under paragraph (1)—
     - **(A)** is not less than $75,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
     - **(B)** is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.

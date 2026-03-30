@@ -3,9 +3,9 @@ title: "Section 1 - Training, technical assistance, and food service management 
 usc_title: 42
 usc_section: "1"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T04:17:41.757Z"
+generated_at: "2026-03-30T04:19:56.066Z"
 status: "active"
 ---
 

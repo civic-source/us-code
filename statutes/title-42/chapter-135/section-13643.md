@@ -3,9 +3,9 @@ title: "Section 13643 - Regulations"
 usc_title: 42
 usc_section: "13643"
 chapter: 135
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 13643"
-generated_at: "2026-03-30T04:17:42.148Z"
+generated_at: "2026-03-30T04:19:56.498Z"
 status: "active"
 ---
 

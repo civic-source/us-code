@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T04:17:41.599Z"
+generated_at: "2026-03-30T04:19:55.884Z"
 status: "active"
 ---
 
@@ -33,6 +33,7 @@ status: "active"
     - **(H)**
       - **(i)** On or after the date described in clause (ii), the payment amount under this part for diabetic supplies, including testing strips, that are non-mail order items (as defined by the Secretary) shall be equal to the single payment amounts established under the national mail order competition for diabetic supplies under section 1395w–3 of this title .
       - **(ii)** The date described in this clause is the date of the implementation of the single payment amounts under the national mail order competition for diabetic supplies under section 1395w–3 of this title .
+    - **(I)** Effective for items and services furnished on and after July 1, 2015 , vacuum erection systems described as prosthetic devices described in section 1395x(s)(8) of this title shall be treated in the same manner as erectile dysfunction drugs are treated for purposes of section 1395w–102(e)(2)(A) of this title .
   - **(2)**
     - **(A)** Payment for an item of durable medical equipment (as defined in paragraph (13))—
       - **(i)** the purchase price of which does not exceed $150,

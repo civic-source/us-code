@@ -3,9 +3,9 @@ title: "Section 795795a - Repealed. Pub. L. 113–128, title IV, § 461(1) , Jul
 usc_title: 29
 usc_section: "795795a"
 chapter: 16
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 795795a"
-generated_at: "2026-03-30T04:17:06.202Z"
+generated_at: "2026-03-30T04:18:56.550Z"
 status: "repealed"
 ---
 

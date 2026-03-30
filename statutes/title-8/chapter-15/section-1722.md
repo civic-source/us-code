@@ -3,9 +3,9 @@ title: "Section 1722 - Interoperable law enforcement and intelligence data syste
 usc_title: 8
 usc_section: "1722"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "8 U.S.C. § 1722"
-generated_at: "2026-03-30T04:15:21.494Z"
+generated_at: "2026-03-30T04:18:10.600Z"
 status: "active"
 ---
 

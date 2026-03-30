@@ -3,9 +3,9 @@ title: "Section 1808 - Inspector General of the Architect of the Capitol"
 usc_title: 2
 usc_section: "1808"
 chapter: 28
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 1808"
-generated_at: "2026-03-30T04:15:17.511Z"
+generated_at: "2026-03-30T04:18:06.062Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** provide a means of keeping the Architect of the Capitol and the Congress fully and currently informed about problems and deficiencies relating to the administration of programs and operations of the Architect of the Capitol.
 - **(c)**
   - **(1)**
-    - **(A)** There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Printing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
+    - **(A)** There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
     - **(B)** The Architect of the Capitol shall have no authority to prevent or prohibit the Inspector General from—
       - **(i)** initiating, carrying out, or completing any audit or investigation;
       - **(ii)** issuing any subpoena during the course of any audit or investigation;

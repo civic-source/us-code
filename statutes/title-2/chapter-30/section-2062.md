@@ -3,9 +3,9 @@ title: "Section 2062 - House of Representatives Child Care Center"
 usc_title: 2
 usc_section: "2062"
 chapter: 30
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 2062"
-generated_at: "2026-03-30T04:15:17.518Z"
+generated_at: "2026-03-30T04:18:06.070Z"
 status: "active"
 ---
 
@@ -39,5 +39,5 @@ status: "active"
 - **(e)** The Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(f)** As used in this section—
   - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
-  - **(2)** the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+  - **(2)** the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
   - **(3)** the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.

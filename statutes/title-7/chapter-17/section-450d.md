@@ -3,9 +3,9 @@ title: "Section 450d - Delegation of regulatory functions to designated employee
 usc_title: 7
 usc_section: "450d"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "7 U.S.C. § 450d"
-generated_at: "2026-03-30T04:15:49.998Z"
+generated_at: "2026-03-30T04:18:12.738Z"
 status: "active"
 ---
 

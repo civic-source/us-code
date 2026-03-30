@@ -3,9 +3,9 @@ title: "Section 315p - Repealed. Pub. L. 94–579, title VII, § 705(a) , Oct. 2
 usc_title: 43
 usc_section: "315p"
 chapter: 8
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "43 U.S.C. § 315p"
-generated_at: "2026-03-30T04:17:28.096Z"
+generated_at: "2026-03-30T04:19:38.251Z"
 status: "repealed"
 ---
 

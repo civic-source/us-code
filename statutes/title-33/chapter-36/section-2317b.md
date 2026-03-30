@@ -3,9 +3,9 @@ title: "Section 2317b - Wetlands mitigation"
 usc_title: 33
 usc_section: "2317b"
 chapter: 36
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 2317b"
-generated_at: "2026-03-30T04:17:18.979Z"
+generated_at: "2026-03-30T04:19:23.150Z"
 status: "active"
 ---
 

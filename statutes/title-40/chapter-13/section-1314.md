@@ -3,9 +3,9 @@ title: "Section 1314 - Easements"
 usc_title: 40
 usc_section: "1314"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "40 U.S.C. § 1314"
-generated_at: "2026-03-30T04:17:22.699Z"
+generated_at: "2026-03-30T04:19:36.310Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The term “real property of the Government” excludes—
     - **(A)** public land (including minerals, vegetative, and other resources) in the United States, including—
       - **(i)** land reserved or dedicated for national forest purposes;
-      - **(ii)** land the Secretary of the Interior administers or supervises in accordance with the Act of August 25, 1916 ( 16 U.S.C. 1 , 2, 3, 4) (known as the National Park Service Organic Act);
+      - **(ii)** land the Secretary of the Interior administers or supervises in accordance with section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54;
       - **(iii)** Indian-owned trust and restricted land; and
       - **(iv)** land the Government acquires primarily for fish and wildlife conservation purposes and the Secretary administers;
     - **(B)** land withdrawn from the public domain primarily under the jurisdiction of the Secretary; and

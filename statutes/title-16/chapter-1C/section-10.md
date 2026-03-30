@@ -3,9 +3,9 @@ title: "Section 10 - Savings provisions"
 usc_title: 16
 usc_section: "10"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T04:16:25.242Z"
+generated_at: "2026-03-30T04:18:37.558Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 Nothing in this chapter shall be construed to—
 
-  - **(1)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act ( 43 U.S.C. 1701–178 4), 1 1 See References in Text note below. Public Law 94–429 (commonly known as the “Mining in the Parks Act”) ( 16 U.S.C. 1901 et seq.), the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1201–135 8) [ 30 U.S.C. 1201 et seq.], and the Organic Administration Act ( 16 U.S.C. 478 , 482, 551);
+  - **(1)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act ( 43 U.S.C. 1701–178 4), 1 1 See References in Text note below. subchapter 3 of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1201–135 8) [ 30 U.S.C. 1201 et seq.], and the Organic Administration Act ( 16 U.S.C. 478 , 482, 551);
   - **(2)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under existing laws and authorities relating to reclamation and multiple uses of Federal land;
   - **(3)** apply to, or require a permit for, casual collecting of a rock, mineral, or invertebrate or plant fossil that is not protected under this chapter;
   - **(4)** affect any land other than Federal land or affect the lawful recovery, collection, or sale of paleontological resources from land other than Federal land;

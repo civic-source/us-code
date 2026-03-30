@@ -3,9 +3,9 @@ title: "Section 45K - Credit for producing fuel from a nonconventional source"
 usc_title: 26
 usc_section: "45K"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45K"
-generated_at: "2026-03-30T04:17:14.428Z"
+generated_at: "2026-03-30T04:19:03.142Z"
 status: "active"
 ---
 
@@ -85,4 +85,4 @@ status: "active"
     - **(B)** For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting “2004” for “1979”.
     - **(C)** This subsection shall not apply to any facility producing qualified fuels for which a credit was allowed under this section for the taxable year or any preceding taxable year by reason of subsection (f).
     - **(D)** Subsection (b)(1) shall not apply.
-    - **(E)** No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45.
+    - **(E)** No credit shall be allowed with respect to any coke or coke gas which is produced using steel industry fuel (as defined in section 45(c)(7)) as feedstock if a credit is allowed to any taxpayer under section 45 with respect to the production of such steel industry fuel.

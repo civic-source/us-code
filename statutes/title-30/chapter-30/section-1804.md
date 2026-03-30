@@ -3,9 +3,9 @@ title: "Section 1804 - Program and policy for advanced materials research and te
 usc_title: 30
 usc_section: "1804"
 chapter: 30
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1804"
-generated_at: "2026-03-30T04:17:04.635Z"
+generated_at: "2026-03-30T04:18:52.688Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
     - **(A)** establish a national Federal program plan for advanced materials research and development, recommend the designation of the key responsibilities for carrying out such research, and to provide 1 1 So in original. Probably should be “and provide”. for coordination of this plan with the Office of Science and Technology Policy, the Office of Management and Budget, and such other Federal offices and agencies as may be deemed appropriate, and (B) annually review such plan and report thereon to the Congress;
   - **(2)** review annually the materials research, development, and technology authorization requests and budgets of all Federal agencies and departments; and in this activity the Council shall make recommendations, in cooperation with the Office of Science and Technology Policy, the Office of Management and Budget, and all other Federal offices and agencies deemed appropriate, to ensure close coordination of the goals and directions of such programs with the policies determined by the Council; and
   - **(3)** assist the Office of Science and Technology Policy in the preparation of such long-range materials assessments and reports as may be required by the National Materials and Minerals Policy, Research and Development Act of 1980, and assist other Federal entities in the preparation of analyses and reporting relating to critical and advanced materials.
-- **(b)** The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a) of this section.
+- **(b)** The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a).

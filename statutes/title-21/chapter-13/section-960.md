@@ -3,16 +3,16 @@ title: "Section 960 - Prohibited acts A"
 usc_title: 21
 usc_section: "960"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 960"
-generated_at: "2026-03-30T04:16:47.565Z"
+generated_at: "2026-03-30T04:18:45.723Z"
 status: "active"
 ---
 
 # § 960. Prohibited acts A
 
 - **(a)** Any person who—
-  - **(1)** contrary to section 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
+  - **(1)** contrary to section 825, 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
   - **(2)** contrary to section 955 of this title , knowingly or intentionally brings or possesses on board a vessel, aircraft, or vehicle a controlled substance, or
   - **(3)** contrary to section 959 of this title , manufactures, possesses with intent to distribute, or distributes a controlled substance,
 - **(b)**

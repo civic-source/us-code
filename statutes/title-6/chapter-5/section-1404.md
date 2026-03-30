@@ -3,9 +3,9 @@ title: "Section 1404 - Port of entry technology demonstration program"
 usc_title: 6
 usc_section: "1404"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "6 U.S.C. § 1404"
-generated_at: "2026-03-30T04:15:20.855Z"
+generated_at: "2026-03-30T04:18:11.099Z"
 status: "active"
 ---
 

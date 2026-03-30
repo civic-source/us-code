@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T04:17:14.502Z"
+generated_at: "2026-03-30T04:19:03.201Z"
 status: "active"
 ---
 
@@ -66,14 +66,6 @@ status: "active"
     - **(E)** For purposes of this paragraph, the term “designated beneficiary” means any individual designated as a beneficiary by the employee.
     - **(F)** Under regulations prescribed by the Secretary, for purposes of this paragraph, any amount paid to a child shall be treated as if it had been paid to the surviving spouse if such amount will become payable to the surviving spouse upon such child reaching majority (or other designated event permitted under regulations).
     - **(G)** For purposes of this title, any distribution required under the incidental death benefit requirements of this subsection shall be treated as a distribution required under this paragraph.
-    - **(H)**
-      - **(i)** The requirements of this paragraph shall not apply for calendar year 2009 to—
-        - **(I)** a defined contribution plan which is described in this subsection or in section 403(a) or 403(b),
-        - **(II)** a defined contribution plan which is an eligible deferred compensation plan described in section 457(b) but only if such plan is maintained by an employer described in section 457(e)(1)(A), or
-        - **(III)** an individual retirement plan.
-      - **(ii)** For purposes of this paragraph—
-        - **(I)** the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2009, and
-        - **(II)** if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2009.
   - **(10)**
     - **(A)** In the case of any plan which provides contributions or benefits for employees some or all of whom are owner-employees (as defined in subsection (c)(3)), a trust forming part of such plan shall constitute a qualified trust under this section only if the requirements of subsection (d) are also met.
     - **(B)**

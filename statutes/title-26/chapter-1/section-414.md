@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T04:17:14.516Z"
+generated_at: "2026-03-30T04:19:03.214Z"
 status: "active"
 ---
 
@@ -152,7 +152,7 @@ status: "active"
   - **(3)** For purposes of this subsection, the requirements listed in this paragraph are—
     - **(A)** paragraphs (3), (4), (7), (16), (17), and (26) of section 401(a),
     - **(B)** sections 408(k), 408(p), 410, 411, 415, and 416, and
-    - **(C)** sections 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
+    - **(C)** sections 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
   - **(4)**
     - **(A)** In the case of any leased employee, paragraph (1) shall apply only for purposes of determining whether the requirements listed in paragraph (3) are met for periods after the close of the period referred to in paragraph (2)(B).
     - **(B)** In the case of a person who is an employee of the recipient (whether by reason of this subsection or otherwise), for purposes of the requirements listed in paragraph (3), years of service for the recipient shall be determined by taking into account any period for which such employee would have been a leased employee but for the requirements of paragraph (2)(B).
@@ -277,7 +277,7 @@ status: "active"
   - **(4)** For purposes of this subsection, the term “applicable provision” means any provision which specifically refers to this subsection.
 - **(t)**
   - **(1)** All employees who are treated as employed by a single employer under subsection (b), (c), or (m) shall be treated as employed by a single employer for purposes of an applicable section. The provisions of subsection ( o ) shall apply with respect to the requirements of an applicable section.
-  - **(2)** For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
+  - **(2)** For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
 - **(u)**
   - **(1)** If any contribution is made by an employer or an employee under an individual account plan with respect to an employee, or by an employee to a defined benefit plan that provides for employee contributions, and such contribution is required by reason of such employee’s rights under chapter 43 of title 38, United States Code, resulting from qualified military service, then—
     - **(A)** such contribution shall not be subject to any otherwise applicable limitation contained in section 402(g), 402(h), 403(b), 404(a), 404(h), 408, 415, or 457, and shall not be taken into account in applying such limitations to other contributions or benefits under such plan or any other plan, with respect to the year in which the contribution is made,
@@ -332,8 +332,8 @@ status: "active"
         - **(I)** the participant’s compensation (as defined in section 415(c)(3)) for the year, over
         - **(II)** any other elective deferrals of the participant for such year which are made without regard to this subsection.
     - **(B)** For purposes of this paragraph—
-      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years beginning in: The applicable dollar amount is: 2002 $1,000 2003 $2,000 2004 $3,000 2005 $4,000 2006 and thereafter $5,000.
-      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years beginning in: The applicable dollar amount is: 2002 $500 2003 $1,000 2004 $1,500 2005 $2,000 2006 and thereafter $2,500.
+      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
+      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $2,500.
     - **(C)** In the case of a year beginning after December 31, 2006 , the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
     - **(D)** For purposes of this paragraph, plans described in clauses (i), (ii), and (iv) of paragraph (6)(A) that are maintained by the same employer (as determined under subsection (b), (c), (m) or ( o )) shall be treated as a single plan, and plans described in clause (iii) of paragraph (6)(A) that are maintained by the same employer shall be treated as a single plan.
   - **(3)** In the case of any contribution to a plan under paragraph (1)—
@@ -442,9 +442,14 @@ status: "active"
     - **(A)** to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
       - **(i)** section 104(a)(2) of such Act;
       - **(ii)** the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
-      - **(iii)** paragraph (3)(B); or
-    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3).
-  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under paragraph (1)(B).
+      - **(iii)** paragraph (3)(B);
+    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3); or
+    - **(C)** that, as of June 25, 2010 , was maintained by an employer—
+      - **(i)** described in section 501(c)(3) of such Code, 5 5 So in original. Probably means section 501(c)(3) of this title .
+      - **(ii)** chartered under part B of subtitle II of title 36, United States Code,
+      - **(iii)** with employees in at least 40 States, and
+      - **(iv)** whose primary exempt purpose is to provide services with respect to children.
+  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph (B) and (C) of paragraph (1).
   - **(3)**
     - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary.
     - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.

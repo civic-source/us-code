@@ -3,9 +3,9 @@ title: "Section 2337 - Life-cycle management and product support"
 usc_title: 10
 usc_section: "2337"
 chapter: 137
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2337"
-generated_at: "2026-03-30T04:15:29.910Z"
+generated_at: "2026-03-30T04:18:16.899Z"
 status: "active"
 ---
 

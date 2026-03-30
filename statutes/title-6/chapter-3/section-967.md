@@ -3,9 +3,9 @@ title: "Section 967 - Consequences for lack of compliance"
 usc_title: 6
 usc_section: "967"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "6 U.S.C. § 967"
-generated_at: "2026-03-30T04:15:20.847Z"
+generated_at: "2026-03-30T04:18:11.091Z"
 status: "active"
 ---
 

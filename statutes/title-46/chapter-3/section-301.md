@@ -3,9 +3,9 @@ title: "Section 301 - General organization"
 usc_title: 46
 usc_section: "301"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 301"
-generated_at: "2026-03-30T04:17:46.698Z"
+generated_at: "2026-03-30T04:20:00.741Z"
 status: "active"
 ---
 
@@ -14,8 +14,12 @@ status: "active"
 - **(a)** The Federal Maritime Commission is an independent establishment of the United States Government.
 - **(b)**
   - **(1)** The Commission is composed of 5 Commissioners, appointed by the President by and with the advice and consent of the Senate. Not more than 3 Commissioners may be appointed from the same political party.
-  - **(2)** The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.
-  - **(3)** The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
+  - **(2)** The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. Except as provided in paragraph (3), no individual may serve more than 2 terms.
+  - **(3)** A vacancy shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. An individual appointed to fill a vacancy may serve 2 terms in addition to the remainder of the term for which the predecessor of that individual was appointed.
+  - **(4)**
+    - **(A)** A Commissioner may not have a pecuniary interest in, hold an official relation to, or own stocks or bonds of any entity the Commission regulates under chapter 401 of this title.
+    - **(B)** A Commissioner may not engage in another business, vocation, or employment.
+  - **(5)** The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
 - **(c)**
   - **(1)** The President shall designate one of the Commissioners as Chairman.
   - **(2)** The Chairman is the chief executive and administrative officer of the Commission. In carrying out the duties and powers of the Commission (other than under paragraph (3)), the Chairman is subject to the policies, regulatory decisions, findings, and determinations of the Commission.

@@ -3,9 +3,9 @@ title: "Section 49b - Mining laws relating to placer claims extended to Alaska"
 usc_title: 30
 usc_section: "49b"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 49b"
-generated_at: "2026-03-30T04:17:04.581Z"
+generated_at: "2026-03-30T04:18:52.650Z"
 status: "active"
 ---
 

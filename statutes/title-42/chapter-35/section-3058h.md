@@ -3,9 +3,9 @@ title: "Section 3058h - Regulations"
 usc_title: 42
 usc_section: "3058h"
 chapter: 35
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 3058h"
-generated_at: "2026-03-30T04:17:41.831Z"
+generated_at: "2026-03-30T04:19:56.144Z"
 status: "active"
 ---
 

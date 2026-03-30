@@ -3,9 +3,9 @@ title: "Section 41502 - Establishing joint prices for through routes with other 
 usc_title: 49
 usc_section: "41502"
 chapter: 415
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "49 U.S.C. § 41502"
-generated_at: "2026-03-30T04:17:49.054Z"
+generated_at: "2026-03-30T04:20:24.659Z"
 status: "active"
 ---
 

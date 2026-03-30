@@ -3,9 +3,9 @@ title: "Section 1752a - Model ports-of-entry"
 usc_title: 8
 usc_section: "1752a"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "8 U.S.C. § 1752a"
-generated_at: "2026-03-30T04:15:21.495Z"
+generated_at: "2026-03-30T04:18:10.601Z"
 status: "active"
 ---
 

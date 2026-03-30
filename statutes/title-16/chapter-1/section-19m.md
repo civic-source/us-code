@@ -1,15 +1,13 @@
 ---
-title: "Section 19m - Liability of United States"
+title: "Section 19m - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "19m"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 19m"
-generated_at: "2026-03-30T04:16:25.081Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 19m. Liability of United States
-
-The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation.
+# § 19m. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

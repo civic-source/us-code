@@ -3,13 +3,13 @@ title: "Section 271d - Administration, protection, and development"
 usc_title: 16
 usc_section: "271d"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 271d"
-generated_at: "2026-03-30T04:16:25.108Z"
+generated_at: "2026-03-30T04:18:37.470Z"
 status: "active"
 ---
 
 # § 271d. Administration, protection, and development
 
-Subject to the provisions of this subchapter, the administration, protection, and development of the Canyonlands National Park, as established pursuant to this subchapter, shall be exercised by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+Subject to the provisions of this subchapter, the administration, protection, and development of the Canyonlands National Park, as established pursuant to this subchapter, shall be exercised by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title, as amended and supplemented.
 

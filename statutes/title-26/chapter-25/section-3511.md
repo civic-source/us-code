@@ -1,0 +1,45 @@
+---
+title: "Section 3511 - Certified professional employer organizations"
+usc_title: 26
+usc_section: "3511"
+chapter: 25
+current_through: "PL 113-296"
+classification: "26 U.S.C. § 3511"
+generated_at: "2026-03-30T04:19:03.338Z"
+status: "active"
+---
+
+# § 3511. Certified professional employer organizations
+
+- **(a)** For purposes of the taxes, and other obligations, imposed by this subtitle—
+  - **(1)** a certified professional employer organization shall be treated as the employer (and no other person shall be treated as the employer) of any work site employee performing services for any customer of such organization, but only with respect to remuneration remitted by such organization to such work site employee, and
+  - **(2)** the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.
+- **(b)** For purposes of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—
+  - **(1)** a certified professional employer organization entering into a service contract with a customer with respect to a work site employee shall be treated as a successor employer and the customer shall be treated as a predecessor employer during the term of such service contract, and
+  - **(2)** a customer whose service contract with a certified professional employer organization is terminated with respect to a work site employee shall be treated as a successor employer and the certified professional employer organization shall be treated as a predecessor employer.
+- **(c)** Solely for purposes of its liability for the taxes and other obligations imposed by this subtitle—
+  - **(1)** a certified professional employer organization shall be treated as the employer of any individual (other than a work site employee or a person described in subsection (f)) who is performing services covered by a contract meeting the requirements of section 7705(e)(2), but only with respect to remuneration remitted by such organization to such individual, and
+  - **(2)** the exemptions, exclusions, definitions, and other rules which are based on type of employer and which would (but for paragraph (1)) apply shall apply with respect to such taxes imposed on such remuneration.
+- **(d)**
+  - **(1)** For purposes of any credit specified in paragraph (2)—
+    - **(A)** such credit with respect to a work site employee performing services for the customer applies to the customer, not the certified professional employer organization,
+    - **(B)** the customer, and not the certified professional employer organization, shall take into account wages and employment taxes—
+      - **(i)** paid by the certified professional employer organization with respect to the work site employee, and
+      - **(ii)** for which the certified professional employer organization receives payment from the customer, and
+    - **(C)** the certified professional employer organization shall furnish the customer and the Secretary with any information necessary for the customer to claim such credit.
+  - **(2)** A credit is specified in this paragraph if such credit is allowed under—
+    - **(A)** section 41 (credit for increasing research activity),
+    - **(B)** section 45A (Indian employment credit),
+    - **(C)** section 45B (credit for portion of employer social security taxes paid with respect to employee cash tips),
+    - **(D)** section 45C (clinical testing expenses for certain drugs for rare diseases or conditions),
+    - **(E)** section 45R (employee health insurance expenses of small employers),
+    - **(F)** section 51 (work opportunity credit),
+    - **(G)** section 1396 (empowerment zone employment credit), and
+    - **(H)** any other section as provided by the Secretary.
+- **(e)** This section shall not apply in the case of a customer which bears a relationship to a certified professional employer organization described in section 267(b) or 707(b). For purposes of the preceding sentence, such sections shall be applied by substituting “10 percent” for “50 percent”.
+- **(f)** For purposes of the taxes imposed under this subtitle, an individual with net earnings from self-employment derived from the customer’s trade or business (including a partner in a partnership that is a customer) is not a work site employee with respect to remuneration paid by a certified professional employer organization.
+- **(g)** The Secretary shall develop such reporting and recordkeeping rules, regulations, and procedures as the Secretary determines necessary or appropriate to ensure compliance with this title by certified professional employer organizations or persons that have been so certified. Such rules shall include—
+  - **(1)** notification of the Secretary in such manner as the Secretary shall prescribe in the case of the commencement or termination of a service contract described in section 7705(e)(2) between such a person and a customer, and the employer identification number of such customer,
+  - **(2)** such information as the Secretary determines necessary for the customer to claim the credits identified in subsection (d) and the manner in which such information is to be provided, as prescribed by the Secretary, and
+  - **(3)** such other information as the Secretary determines is essential to promote compliance with respect to the credits identified in subsection (d) and section 3302, and
+- **(h)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.

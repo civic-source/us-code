@@ -3,9 +3,9 @@ title: "Section 172 - Net operating loss deduction"
 usc_title: 26
 usc_section: "172"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 172"
-generated_at: "2026-03-30T04:17:14.475Z"
+generated_at: "2026-03-30T04:19:03.180Z"
 status: "active"
 ---
 
@@ -22,55 +22,25 @@ status: "active"
       - **(ii)** In the case of any net operating loss for a taxable year which is not a REIT year, such loss shall not be carried back to any taxable year which is a REIT year.
       - **(iii)** For purposes of this subparagraph, the term “REIT year” means any taxable year for which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
     - **(C)** In the case of a taxpayer which has a specified liability loss (as defined in subsection (f)) for a taxable year, such specified liability loss shall be a net operating loss carryback to each of the 10 taxable years preceding the taxable year of such loss.
-    - **(D)** In the case of any bank (as defined in section 585(a)(2)), the portion of the net operating loss for any taxable year beginning after December 31, 1986 , and before January 1, 1994 , which is attributable to the deduction allowed under section 166(a) shall be a net operating loss carryback to each of the 10 taxable years preceding the taxable year of the loss and a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss.
-    - **(E)**
+    - **(D)**
       - **(i)** If—
         - **(I)** there is a corporate equity reduction transaction, and
-        - **(II)** an applicable corporation has a corporate equity reduction interest loss for any loss limitation year ending after August 2, 1989 ,
-      - **(ii)** For purposes of clause (i) and subsection (h), the term “loss limitation year” means, with respect to any corporate equity reduction transaction, the taxable year in which such transaction occurs and each of the 2 succeeding taxable years.
+        - **(II)** an applicable corporation has a corporate equity reduction interest loss for any loss limitation year,
+      - **(ii)** For purposes of clause (i) and subsection (g), the term “loss limitation year” means, with respect to any corporate equity reduction transaction, the taxable year in which such transaction occurs and each of the 2 succeeding taxable years.
       - **(iii)** For purposes of clause (i), the term “applicable corporation” means—
         - **(I)** a C corporation which acquires stock, or the stock of which is acquired in a major stock acquisition,
         - **(II)** a C corporation making distributions with respect to, or redeeming, its stock in connection with an excess distribution, or
         - **(III)** a C corporation which is a successor of a corporation described in subclause (I) or (II).
       - **(iv)**
-    - **(F)**
+    - **(E)**
       - **(i)** Subparagraph (A)(i) shall be applied by substituting “3 taxable years” for “2 taxable years” with respect to the portion of the net operating loss for the taxable year which is an eligible loss with respect to the taxpayer.
       - **(ii)** For purposes of clause (i), the term “eligible loss” means—
         - **(I)** in the case of an individual, losses of property arising from fire, storm, shipwreck, or other casualty, or from theft,
-        - **(II)** in the case of a taxpayer which is a small business, net operating losses attributable to federally declared disasters (as defined by subsection (h)(3)(C)(i)), 1 1 So in original. Probably means subsection (h)(3)(C)(i) of section 165 of this title . and
+        - **(II)** in the case of a taxpayer which is a small business, net operating losses attributable to federally declared disasters (as defined by section 165(i)(5)), and
         - **(III)** in the case of a taxpayer engaged in the trade or business of farming (as defined in section 263A(e)(4)), net operating losses attributable to such federally declared disasters.
       - **(iii)** For purposes of this subparagraph, the term “small business” means a corporation or partnership which meets the gross receipts test of section 448(c) for the taxable year in which the loss arose (or, in the case of a sole proprietorship, which would meet such test if such proprietorship were a corporation).
       - **(iv)** For purposes of applying paragraph (2), an eligible loss for any taxable year shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-    - **(G)** In the case of a taxpayer which has a farming loss (as defined in subsection (i)) for a taxable year, such farming loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss.
-    - **(H)**
-      - **(i)** In the case of an applicable net operating loss with respect to which the taxpayer has elected the application of this subparagraph—
-        - **(I)** subparagraph (A)(i) shall be applied by substituting any whole number elected by the taxpayer which is more than 2 and less than 6 for “2”,
-        - **(II)** subparagraph (E)(ii) shall be applied by substituting the whole number which is one less than the whole number substituted under subclause (I) for “2”, and
-        - **(III)** subparagraph (F) shall not apply.
-      - **(ii)** For purposes of this subparagraph, the term “applicable net operating loss” means the taxpayer’s net operating loss for a taxable year ending after December 31, 2007 , and beginning before January 1, 2010 .
-      - **(iii)**
-        - **(I)** Any election under this subparagraph may be made only with respect to 1 taxable year.
-        - **(II)** Any election under this subparagraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extension of time) for filing the return for the taxpayer’s last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
-      - **(iv)**
-        - **(I)** The amount of any net operating loss which may be carried back to the 5th taxable year preceding the taxable year of such loss under clause (i) shall not exceed 50 percent of the taxpayer’s taxable income (computed without regard to the net operating loss for the loss year or any taxable year thereafter) for such preceding taxable year.
-        - **(II)** Appropriate adjustments in the application of the second sentence of paragraph (2) shall be made to take into account the limitation of subclause (I).
-        - **(III)** Subclause (I) shall not apply to any loss of an eligible small business with respect to any election made under this subparagraph as in effect on the day before the date of the enactment of the Worker, Homeownership, and Business Assistance Act of 2009.
-      - **(v)**
-        - **(I)** In the case of an eligible small business which made or makes an election under this subparagraph as in effect on the day before the date of the enactment of the Worker, Homeownership, and Business Assistance Act of 2009, clause (iii)(I) shall be applied by substituting “2 taxable years” for “1 taxable year”.
-        - **(II)** For purposes of this subparagraph, the term “eligible small business” has the meaning given such term by subparagraph (F)(iii), except that in applying such subparagraph, section 448(c) shall be applied by substituting “$15,000,000” for “$5,000,000” each place it appears.
-    - **(I)**
-      - **(i)** At the election of the taxpayer for any taxable year ending after December 31, 2005 , and before January 1, 2009 , in the case of a net operating loss for a taxable year ending after December 31, 2002 , and before January 1, 2006 , there shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss to the extent that such loss does not exceed 20 percent of the sum of the electric transmission property capital expenditures and the pollution control facility capital expenditures of the taxpayer for the taxable year preceding the taxable year for which such election is made.
-      - **(ii)** For purposes of this subsection—
-        - **(I)** not more than one election may be made under clause (i) with respect to any net operating loss for a taxable year, and
-        - **(II)** an election may not be made under clause (i) for more than 1 taxable year beginning in any calendar year.
-      - **(iii)** For purposes of applying subsection (b)(2), the portion of any loss which is carried back 5 years by reason of clause (i) shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-      - **(iv)** In the case of the portion of the loss which is carried back 5 years by reason of clause (i)—
-        - **(I)** an application under section 6411(a) with respect to such portion shall not fail to be treated as timely filed if filed within 24 months after the due date specified under such section, and
-        - **(II)** references in sections 6501(h), 6511(d)(2)(A), and 6611(f)(1) to the taxable year in which such net operating loss arises or results in a net operating loss carryback shall be treated as references to the taxable year for which such election is made.
-      - **(v)** For purposes of this subparagraph—
-        - **(I)** The term “electric transmission property capital expenditures” means any expenditure, chargeable to capital account, made by the taxpayer which is attributable to electric transmission property used by the taxpayer in the transmission at 69 or more kilovolts of electricity for sale. Such term shall not include any expenditure which may be refunded or the purpose of which may be modified at the option of the taxpayer so as to cease to be treated as an expenditure within the meaning of such term.
-        - **(II)** The term “pollution control facility capital expenditures” means any expenditure, chargeable to capital account, made by an electric utility company (as defined in section 2(3) of the Public Utility Holding Company Act 2 2 So in original. Probably should be followed by “of 1935”. ( 15 U.S.C. 79b(3) ), as in effect on the day before the date of the enactment of the Energy Tax Incentives Act of 2005) which is attributable to a facility which will qualify as a certified pollution control facility as determined under section 169(d)(1) by striking “before January 1, 1976 ,” and by substituting “an identifiable” for “a new identifiable”. Such term shall not include any expenditure which may be refunded or the purpose of which may be modified at the option of the taxpayer so as to cease to be treated as an expenditure within the meaning of such term.
-    - **(J)** In the case of a taxpayer who has a qualified disaster loss (as defined in subsection (j)), such loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss.
+    - **(F)** In the case of a taxpayer which has a farming loss (as defined in subsection (h)) for a taxable year, such farming loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss.
   - **(2)** The entire amount of the net operating loss for any taxable year (hereinafter in this section referred to as the “loss year”) shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the taxable income for any such prior taxable year shall be computed—
     - **(A)** with the modifications specified in subsection (d) other than paragraphs (1), (4), and (5) thereof, and
     - **(B)** by determining the amount of the net operating loss deduction without regard to the net operating loss for the loss year or for any taxable year thereafter,
@@ -89,7 +59,7 @@ status: "active"
     - **(B)** the modifications specified in paragraphs (1), (2)(B), and (3) shall be taken into account;
     - **(C)** any deduction for casualty or theft losses allowable under paragraph (2) or (3) of section 165(c) shall be treated as attributable to the trade or business; and
     - **(D)** any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
-  - **(5)** The deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitation on aggregate amount of deductions); and the deduction allowed by section 247 (relating to dividends paid on certain preferred stock of public utilities) shall be computed without regard to subsection (a)(1)(B) of such section.
+  - **(5)** The deductions allowed by section 1 1 So in original. Probably should be “sections”. 243 (relating to dividends received by corporations) and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitation on aggregate amount of deductions).
   - **(6)** In the case of any taxable year for which part II of subchapter M (relating to real estate investment trusts) applies to the taxpayer—
     - **(A)** the net operating loss for such taxable year shall be computed by taking into account the adjustments described in section 857(b)(2) (other than the deduction for dividends paid described in section 857(b)(2)(B)); and
     - **(B)** where such taxable year is a “prior taxable year” referred to in paragraph (2) of subsection (b), the term “taxable income” in such paragraph shall mean “real estate investment trust taxable income” (as defined in section 857(b)(2)).
@@ -120,11 +90,6 @@ status: "active"
   - **(5)** For purposes of applying subsection (b)(2), a specified liability loss for any taxable year shall be treated as a separate net operating loss for such taxable year to be taken into account after the remaining portion of the net operating loss for such taxable year.
   - **(6)** Any taxpayer entitled to a 10-year carryback under subsection (b)(1)(C) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(C). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for that taxable year.
 - **(g)** For purposes of this section—
-  - **(1)** The portion of the net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be the excess of—
-      - **(i)** the net operating loss for such taxable year, over
-      - **(ii)** the net operating loss for such taxable year determined without regard to the amount allowed as a deduction under section 166(a) for such taxable year.
-  - **(2)** For purposes of subsection (b)(2), the portion of a net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-- **(h)** For purposes of this section—
   - **(1)** The term “corporate equity reduction interest loss” means, with respect to any loss limitation year, the excess (if any) of—
     - **(A)** the net operating loss for such taxable year, over
     - **(B)** the net operating loss for such taxable year determined without regard to any allocable interest deductions otherwise taken into account in computing such loss.
@@ -138,7 +103,6 @@ status: "active"
     - **(E)** If an unforeseeable extraordinary adverse event occurs during a loss limitation year but after the corporate equity reduction transaction—
       - **(i)** indebtedness shall be allocated in the manner described in subparagraph (B) to unreimbursed costs paid or incurred in connection with such event before being allocated to the corporate equity reduction transaction, and
       - **(ii)** the amount determined under subparagraph (C)(i) shall be reduced by the amount of interest on indebtedness described in clause (i).
-    - **(F)** If any of the 3 taxable years described in subparagraph (C)(ii) end on or before August 2, 1989 , the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer’s taxable year which includes August 3, 1989 , on indebtedness of the taxpayer outstanding on August 2, 1989 .
   - **(3)**
     - **(A)** The term “corporate equity reduction transaction” means—
       - **(i)** a major stock acquisition, or
@@ -161,29 +125,18 @@ status: "active"
     - **(A)** For purposes of paragraph (1), in determining the allocable interest deductions taken into account in computing the net operating loss for any taxable year, taxable income for such taxable year shall be treated as having been computed by taking allocable interest deductions into account after all other deductions.
     - **(B)** For purposes of subsection (b)(2)—
       - **(i)** a corporate equity reduction interest loss shall be treated in a manner similar to the manner in which a specified liability loss is treated, and
-      - **(ii)** in determining the net operating loss deduction for any prior taxable year referred to in the 3rd sentence of subsection (b)(2), the portion of any net operating loss which may not be carried to such taxable year under subsection (b)(1)(E) shall not be taken into account.
-    - **(C)** Except as provided by regulations, all members of an affiliated group filing a consolidated return under section 1501 shall be treated as 1 taxpayer for purposes of this subsection and subsection (b)(1)(E).
+      - **(ii)** in determining the net operating loss deduction for any prior taxable year referred to in the 3rd sentence of subsection (b)(2), the portion of any net operating loss which may not be carried to such taxable year under subsection (b)(1)(D) shall not be taken into account.
+    - **(C)** Except as provided by regulations, all members of an affiliated group filing a consolidated return under section 1501 shall be treated as 1 taxpayer for purposes of this subsection and subsection (b)(1)(D).
   - **(5)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
     - **(A)** for applying this subsection to successor corporations and in cases where a taxpayer becomes, or ceases to be, a member of an affiliated group filing a consolidated return under section 1501,
     - **(B)** to prevent the avoidance of this subsection through related parties, pass-through entities, and intermediaries, and
     - **(C)** for applying this subsection where more than 1 corporation is involved in a corporate equity reduction transaction.
-- **(i)** For purposes of this section—
+- **(h)** For purposes of this section—
   - **(1)** The term “farming loss” means the lesser of—
     - **(A)** the amount which would be the net operating loss for the taxable year if only income and deductions attributable to farming businesses (as defined in section 263A(e)(4)) are taken into account, or
     - **(B)** the amount of the net operating loss for such taxable year.
   - **(2)** For purposes of applying subsection (b)(2), a farming loss for any taxable year shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-  - **(3)** Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(G) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(G). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
-- **(j)** For purposes of this section—
-  - **(1)** The term “qualified disaster loss” means the lesser of—
-    - **(A)** the sum of—
-      - **(i)** the losses allowable under section 165 for the taxable year—
-        - **(I)** attributable to a federally declared disaster (as defined in section 165(h)(3)(C)(i)) occurring before January 1, 2010 , and
-        - **(II)** occurring in a disaster area (as defined in section 165(h)(3)(C)(ii)), and
-      - **(ii)** the deduction for the taxable year for qualified disaster expenses which is allowable under section 198A(a) or which would be so allowable if not otherwise treated as an expense, or
-    - **(B)** the net operating loss for such taxable year.
-  - **(2)** For purposes of applying subsection (b)(2), a qualified disaster loss for any taxable year shall be treated in a manner similar to the manner in which a specified liability loss is treated.
-  - **(3)** Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(J) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(J). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
-  - **(4)** The term “qualified disaster loss” shall not include any loss with respect to any property described in section 1400N(p)(3).
-- **(k)**
+  - **(3)** Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(F) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(F). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
+- **(i)**
   - **(1)** For treatment of net operating loss carryovers in certain corporate acquisitions, see section 381.
   - **(2)** For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.

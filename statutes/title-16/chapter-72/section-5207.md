@@ -3,9 +3,9 @@ title: "Section 5207 - Definitions"
 usc_title: 16
 usc_section: "5207"
 chapter: 72
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5207"
-generated_at: "2026-03-30T04:16:25.462Z"
+generated_at: "2026-03-30T04:18:37.719Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ As used in this chapter:
     - **(A)** is lawful under the laws applicable in the place it occurs; and
     - **(B)** does not infringe upon a right of an owner of private property.
   - **(3)** The term “national forest” means lands included in the National Forest System (as defined in section 1609(a) of this title ).
-  - **(4)** The term “national park” means lands and waters included in the National Park System (as defined in section 1c(a) of this title ).
+  - **(4)** The term “national park” means lands and waters included in the National Park System (as defined in section 100501 of title 54 ).
   - **(5)** The term “public lands” has the same meaning as is provided in section 1702(e) of title 43 .
   - **(6)** The term “Secretary” means—
     - **(A)** the Secretary of Agriculture with respect to national forests; and

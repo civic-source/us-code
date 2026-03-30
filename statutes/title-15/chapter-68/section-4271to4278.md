@@ -3,9 +3,9 @@ title: "Section 4271to4278 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 ,
 usc_title: 15
 usc_section: "4271to4278"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 4271to4278"
-generated_at: "2026-03-30T04:16:10.808Z"
+generated_at: "2026-03-30T04:18:26.899Z"
 status: "repealed"
 ---
 

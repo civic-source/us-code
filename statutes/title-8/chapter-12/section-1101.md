@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions"
 usc_title: 8
 usc_section: "1101"
 chapter: 12
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "8 U.S.C. § 1101"
-generated_at: "2026-03-30T04:15:21.442Z"
+generated_at: "2026-03-30T04:18:10.555Z"
 status: "active"
 ---
 

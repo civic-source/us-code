@@ -3,9 +3,9 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-30T04:17:41.920Z"
+generated_at: "2026-03-30T04:19:56.245Z"
 status: "active"
 ---
 
@@ -507,6 +507,22 @@ status: "active"
         - **(I)** require, with appropriate safeguard for the protection of confidential business information, the submission of unit shipment data on an annual basis; and
         - **(II)** restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
   - **(4)** An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
+  - **(5)**
+    - **(A)**
+      - **(i)** An external power supply shall not be subject to the final rule entitled “Energy Conservation Program: Energy Conservation Standards for External Power Supplies”, published at 79 Fed. Reg. 7845 ( February 10, 2014 ), if the external power supply—
+        - **(I)** is manufactured during the period beginning on February 10, 2016 , and ending on February 10, 2020 ;
+        - **(II)** is marked in accordance with the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016 ;
+        - **(III)** meets, where applicable, the standards under paragraph (3)(A), and has been certified to the Secretary as meeting International Efficiency Level IV or higher of the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016 ; and
+        - **(IV)** is made available by the manufacturer as a service part or a spare part for an end-use product that—
+      - **(ii)** The Secretary may require manufacturers of products exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that fall below International Efficiency Level VI.
+      - **(iii)** The Secretary may issue a rule, after providing public notice and opportunity for public comment, to limit the applicability of the exemption established under clause (i) if the Secretary determines that the exemption is resulting in a significant reduction of the energy savings that would otherwise result from the final rule described in such clause.
+    - **(B)**
+      - **(i)** The Secretary may exempt an external power supply from any amended standard under this subsection if the external power supply—
+        - **(I)** is manufactured within four years of the compliance date of the amended standard;
+        - **(II)** complies with applicable marking requirements adopted by the Secretary prior to the amendment;
+        - **(III)** meets the standards that were in effect prior to the amendment; and
+        - **(IV)** is made available by the manufacturer as a service part or a spare part for an end-use product that—
+      - **(ii)** The Secretary may require manufacturers of a product exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that do not meet the amended standard.
         - **(I)** meets the criteria and procedures of subsections ( o ), (p), (q), (r), (s), and (t) of this section; and
         - **(II)** would result in significant overall annual energy savings, considering standby mode and other operating modes.
 - **(v)**

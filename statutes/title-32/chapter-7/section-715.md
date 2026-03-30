@@ -3,9 +3,9 @@ title: "Section 715 - Property loss; personal injury or death: activities under 
 usc_title: 32
 usc_section: "715"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "32 U.S.C. § 715"
-generated_at: "2026-03-30T04:17:16.524Z"
+generated_at: "2026-03-30T04:19:05.454Z"
 status: "active"
 ---
 

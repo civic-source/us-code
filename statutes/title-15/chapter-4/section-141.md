@@ -3,9 +3,9 @@ title: "Section 141 - Short title"
 usc_title: 15
 usc_section: "141"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 141"
-generated_at: "2026-03-30T04:16:10.595Z"
+generated_at: "2026-03-30T04:18:26.760Z"
 status: "active"
 ---
 

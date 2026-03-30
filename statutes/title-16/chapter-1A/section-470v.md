@@ -1,15 +1,13 @@
 ---
-title: "Section 470v - Exemption for Federal programs or undertakings; regulations"
+title: "Section 470v - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "470v"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 470v"
-generated_at: "2026-03-30T04:16:25.239Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.557Z"
+status: "repealed"
 ---
 
-# § 470v. Exemption for Federal programs or undertakings; regulations
-
-The Council, with the concurrence of the Secretary, shall promulgate regulations or guidelines, as appropriate, under which Federal programs or undertakings may be exempted from any or all of the requirements of this subchapter when such exemption is determined to be consistent with the purposes of this subchapter, taking into consideration the magnitude of the exempted undertaking or program and the likelihood of impairment of historic properties.
+# § 470v. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

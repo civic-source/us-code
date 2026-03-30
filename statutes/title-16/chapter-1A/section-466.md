@@ -1,18 +1,13 @@
 ---
-title: "Section 466 - Requirement for specific authorization"
+title: "Section 466 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "466"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 466"
-generated_at: "2026-03-30T04:16:25.232Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.556Z"
+status: "repealed"
 ---
 
-# § 466. Requirement for specific authorization
+# § 466. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** Except as provided in subsection (b) of this section, notwithstanding any other provision of law, no funds appropriated or otherwise made available to the Secretary of the Interior to carry out section 462(e) or 462(f) of this title may be obligated or expended after October 30, 1992 —
-  - **(1)** unless the appropriation of such funds has been specifically authorized by law enacted on or after October 30, 1992 ; or
-  - **(2)** in excess of the amount prescribed by law enacted on or after October 30, 1992 .
-- **(b)** Nothing in this section shall prohibit or limit the expenditure or obligation of any funds appropriated prior to January 1, 1993 .
-- **(c)** Except as provided by subsection (a) of this section, there is authorized to be appropriated for carrying out the purposes of sections 461 to 467 of this title such sums as the Congress may from time to time determine.

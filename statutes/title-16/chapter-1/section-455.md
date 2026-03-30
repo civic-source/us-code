@@ -1,15 +1,13 @@
 ---
-title: "Section 455 - Study of battlefields for commemorative purposes"
+title: "Section 455 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "455"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 455"
-generated_at: "2026-03-30T04:16:25.170Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.516Z"
+status: "repealed"
 ---
 
-# § 455. Study of battlefields for commemorative purposes
-
-The Secretary of the Army is authorized to have made studies and investigations and, where necessary, surveys of all battlefields within the continental limits of the United States whereon troops of the United States or of the original thirteen colonies have been engaged against a common enemy, with a view to preparing a general plan and such detailed projects as may be required for properly commemorating such battlefields or other adjacent points of historic and military interest.
+# § 455. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

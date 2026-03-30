@@ -3,9 +3,9 @@ title: "Section 2383 - Date of transfer"
 usc_title: 42
 usc_section: "2383"
 chapter: 24
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 2383"
-generated_at: "2026-03-30T04:17:41.810Z"
+generated_at: "2026-03-30T04:19:56.123Z"
 status: "active"
 ---
 

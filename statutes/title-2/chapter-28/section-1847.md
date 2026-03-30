@@ -3,9 +3,9 @@ title: "Section 1847 - Authorization to fix basic rate of compensation for certa
 usc_title: 2
 usc_section: "1847"
 chapter: 28
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 1847"
-generated_at: "2026-03-30T04:15:17.512Z"
+generated_at: "2026-03-30T04:18:06.063Z"
 status: "active"
 ---
 

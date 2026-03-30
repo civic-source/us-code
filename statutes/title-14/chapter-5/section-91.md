@@ -3,9 +3,9 @@ title: "Section 91 - Safety of naval vessels"
 usc_title: 14
 usc_section: "91"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 91"
-generated_at: "2026-03-30T04:15:52.713Z"
+generated_at: "2026-03-30T04:18:19.000Z"
 status: "active"
 ---
 

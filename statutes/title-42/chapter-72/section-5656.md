@@ -3,9 +3,9 @@ title: "Section 5656 - Grants to Indian tribes"
 usc_title: 42
 usc_section: "5656"
 chapter: 72
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 5656"
-generated_at: "2026-03-30T04:17:41.905Z"
+generated_at: "2026-03-30T04:19:56.228Z"
 status: "active"
 ---
 

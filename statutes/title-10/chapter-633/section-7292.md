@@ -3,9 +3,9 @@ title: "Section 7292 - Naming"
 usc_title: 10
 usc_section: "7292"
 chapter: 633
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 7292"
-generated_at: "2026-03-30T04:15:29.966Z"
+generated_at: "2026-03-30T04:18:16.953Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
 - **(c)** The Secretary of the Navy may change the name of any vessel bought for the Navy.
 - **(d)**
   - **(1)** The Secretary of the Navy may not announce or implement any proposal to name a vessel of the Navy until 30 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such proposal.
-  - **(2)** Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1024(a) of the National Defense Authorization Act for Fiscal Year 2013.
+  - **(2)** Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1018(a) of the National Defense Authorization Act for Fiscal Year 2013.

@@ -3,9 +3,9 @@ title: "Section 13109 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13109"
 chapter: 133
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 13109"
-generated_at: "2026-03-30T04:17:42.133Z"
+generated_at: "2026-03-30T04:19:56.484Z"
 status: "active"
 ---
 

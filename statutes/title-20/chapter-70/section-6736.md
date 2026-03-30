@@ -3,9 +3,9 @@ title: "Section 6736 - Limitation on liability for teachers"
 usc_title: 20
 usc_section: "6736"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 6736"
-generated_at: "2026-03-30T04:16:29.648Z"
+generated_at: "2026-03-30T04:18:34.495Z"
 status: "active"
 ---
 

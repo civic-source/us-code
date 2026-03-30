@@ -3,9 +3,9 @@ title: "Section 473 - Content of civil justice expense and delay reduction plans
 usc_title: 28
 usc_section: "473"
 chapter: 23
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "28 U.S.C. § 473"
-generated_at: "2026-03-30T04:17:07.243Z"
+generated_at: "2026-03-30T04:18:53.884Z"
 status: "active"
 ---
 

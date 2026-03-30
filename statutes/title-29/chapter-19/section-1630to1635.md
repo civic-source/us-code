@@ -3,9 +3,9 @@ title: "Section 1630to1635 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) 
 usc_title: 29
 usc_section: "1630to1635"
 chapter: 19
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1630to1635"
-generated_at: "2026-03-30T04:17:06.249Z"
+generated_at: "2026-03-30T04:18:56.588Z"
 status: "repealed"
 ---
 

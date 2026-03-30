@@ -3,9 +3,9 @@ title: "Section 1322a - Multiemployer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322a"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1322a"
-generated_at: "2026-03-30T04:17:06.238Z"
+generated_at: "2026-03-30T04:18:56.580Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(b)**
   - **(1)**
     - **(A)** For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation’s guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of section 1341a(a)(2) of this title ) shall not be taken into account.
-    - **(B)** For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2) of this title in determining the minimum contribution requirement for the plan year under section 1423(b) of this title is not eligible for the corporation’s guarantee.
+    - **(B)** For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2) 1 1 See References in Text note below. of this title in determining the minimum contribution requirement for the plan year under section 1423(b) 1 of this title is not eligible for the corporation’s guarantee.
   - **(2)** For purposes of this section—
     - **(A)** the date on which a benefit or a benefit increase under a plan is first in effect is the later of—
       - **(i)** the date on which the documents establishing or increasing the benefit were executed, or
@@ -41,6 +41,7 @@ status: "active"
       - **(ii)** any period of service before participation which is credited for purposes of benefit accrual as the equivalent of a full year of participation;
     - **(B)** any year for which the participant is credited for purposes of benefit accrual with a fraction of the equivalent of a full year of participation shall be counted as such a fraction of a year of credited service; and
     - **(C)** years of credited service shall be determined by including service which may otherwise be disregarded by the plan under section 411(a)(3)(E) of title 26 .
+  - **(4)** For purposes of subsection (a), in the case of a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title ) payable to the surviving spouse of a participant under a multiemployer plan which becomes insolvent under section 1426(b) of this title or 1441(d)(2) of this title or is terminated, such annuity shall not be treated as forfeitable solely because the participant has not died as of the date on which the plan became so insolvent or the termination date.
 - **(d)** In the case of a benefit which has been reduced under section 411(a)(3)(E) of title 26 , the corporation shall guarantee the lesser of—
   - **(1)** the reduced benefit, or
   - **(2)** the amount determined under subsection (c) of this section.

@@ -3,9 +3,9 @@ title: "Section 40 - Alcohol, etc., used as fuel"
 usc_title: 26
 usc_section: "40"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 40"
-generated_at: "2026-03-30T04:17:14.418Z"
+generated_at: "2026-03-30T04:19:03.133Z"
 status: "active"
 ---
 
@@ -76,7 +76,7 @@ status: "active"
     - **(H)** Rules similar to the rules under subsection (g)(6) shall apply for purposes of this paragraph.
     - **(I)** No credit shall be determined under this paragraph with respect to any taxpayer unless such taxpayer is registered with the Secretary as a producer of second generation biofuel under section 4101.
     - **(J)**
-      - **(i)** This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008 , and before January 1, 2014 .
+      - **(i)** This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008 , and before January 1, 2015 .
       - **(ii)** If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.
 - **(c)** The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section 4041(b)(2), section 6426, or section 6427(e).
 - **(d)** For purposes of this section—

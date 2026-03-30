@@ -3,9 +3,9 @@ title: "Section 182b - Revolving fund for gift shop, decimal classification, pho
 usc_title: 2
 usc_section: "182b"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 182b"
-generated_at: "2026-03-30T04:15:17.484Z"
+generated_at: "2026-03-30T04:18:06.031Z"
 status: "active"
 ---
 

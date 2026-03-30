@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T04:17:14.537Z"
+generated_at: "2026-03-30T04:19:03.231Z"
 status: "active"
 ---
 
@@ -88,7 +88,7 @@ status: "active"
   - **(13)** The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
   - **(14)** Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
   - **(15)**
-    - **(A)** The applicable dollar amount shall be the amount determined in accordance with the following table: For taxable years beginning in calendar year: The applicable dollar amount: 2002 $11,000 2003 $12,000 2004 $13,000 2005 $14,000 2006 or thereafter $15,000.
+    - **(A)** The applicable dollar amount is $15,000.
     - **(B)** In the case of taxable years beginning after December 31, 2006 , the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005 , and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
   - **(16)**
     - **(A)** In the case of an eligible deferred compensation plan established and maintained by an employer described in subsection (e)(1)(A), if—

@@ -1,15 +1,13 @@
 ---
-title: "Section 470l - Compensation of members of Council"
+title: "Section 470l - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "470l"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 470l"
-generated_at: "2026-03-30T04:16:25.238Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.557Z"
+status: "repealed"
 ---
 
-# § 470l. Compensation of members of Council
-
-The members of the Council specified in paragraphs (2), (3), and (4) of section 470i(a) of this title shall serve without additional compensation. The other members of the Council shall receive $100 per diem when engaged in the performance of the duties of the Council. All members of the Council shall receive reimbursement for necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Council.
+# § 470l. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

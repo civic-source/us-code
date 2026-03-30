@@ -3,9 +3,9 @@ title: "Section 2164 - Department of Defense domestic dependent elementary and s
 usc_title: 10
 usc_section: "2164"
 chapter: 108
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2164"
-generated_at: "2026-03-30T04:15:29.895Z"
+generated_at: "2026-03-30T04:18:16.883Z"
 status: "active"
 ---
 

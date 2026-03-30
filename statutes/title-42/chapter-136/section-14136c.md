@@ -3,9 +3,9 @@ title: "Section 14136c - National Forensic Science Commission"
 usc_title: 42
 usc_section: "14136c"
 chapter: 136
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 14136c"
-generated_at: "2026-03-30T04:17:42.164Z"
+generated_at: "2026-03-30T04:19:56.516Z"
 status: "active"
 ---
 

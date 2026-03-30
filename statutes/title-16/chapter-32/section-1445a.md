@@ -3,9 +3,9 @@ title: "Section 1445a - Advisory Councils"
 usc_title: 16
 usc_section: "1445a"
 chapter: 32
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1445a"
-generated_at: "2026-03-30T04:16:25.372Z"
+generated_at: "2026-03-30T04:18:37.654Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2359b - Defense Acquisition Challenge Program"
 usc_title: 10
 usc_section: "2359b"
 chapter: 139
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2359b"
-generated_at: "2026-03-30T04:15:29.912Z"
+generated_at: "2026-03-30T04:18:16.901Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
     - **(B)** is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
   - **(3)** The Under Secretary shall adopt modifications as may be needed to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
   - **(4)** In this subsection:
-    - **(A)** The term “nondevelopmental item” has the meaning given that term in section 4 1 1 See References in Text note below. of the Office of Federal Procurement Policy Act ( 41 U.S.C. 403 ).
+    - **(A)** The term “nondevelopmental item” has the meaning given that term in section 110 of title 41 .
     - **(B)** The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act ( 15 U.S.C. 631 et seq.).
     - **(C)** The term “level of performance”, with respect to a nondevelopmental item, means the extent to which the item demonstrates required item functional characteristics.
   - **(5)** The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016 .

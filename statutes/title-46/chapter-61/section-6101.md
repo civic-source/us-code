@@ -3,9 +3,9 @@ title: "Section 6101 - Marine casualties and reporting"
 usc_title: 46
 usc_section: "6101"
 chapter: 61
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 6101"
-generated_at: "2026-03-30T04:17:46.706Z"
+generated_at: "2026-03-30T04:20:00.750Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** material damage affecting the seaworthiness or efficiency of the vessel.
   - **(5)** significant harm to the environment.
 - **(b)** A marine casualty shall be reported within 5 days as provided in this part and regulations prescribed under this part. Each report filed under this section shall include information as to whether the use of alcohol contributed to the casualty.
-- **[(c)** Repealed. Pub. L. 98–498, title II, § 212(b)(1)(B) , Oct. 19, 1984 , 98 Stat. 2306 .]
+- **(c)** Not later than 24 hours after receiving a notice of a major marine casualty under this section, the Secretary shall notify each State or federally recognized Indian tribe that is, or may reasonably be expected to be, affected by such marine casualty.
 - **(d)**
   - **(1)** This part applies to a foreign vessel when involved in a marine casualty on the navigable waters of the United States.
   - **(2)** This part applies, to the extent consistent with generally recognized principles of international law, to a foreign vessel constructed or adapted to carry, or that carries, oil in bulk as cargo or cargo residue involved in a marine casualty described under subsection (a)(4) or (5) in waters subject to the jurisdiction of the United States, including the Exclusive Economic Zone.
@@ -34,11 +34,10 @@ status: "active"
     - **(A)** seek a multinational investigation of the casualty under auspices of the International Maritime Organization; or
     - **(B)** conduct an investigation of the casualty under chapter 63 of this title.
 - **(g)** To the extent consistent with generally recognized practices and procedures of international law, this part applies to a foreign vessel involved in a marine casualty or incident, as defined in the International Maritime Organization Code for the Investigation of Marine Casualties and Incidents, where the United States is a Substantially Interested State and is, or has the consent of, the Lead Investigating State under the Code.
-- **(h)**
-  - **(1)** The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
-  - **(2)** For purposes of this paragraph, the term “major marine casualty” means a casualty involving a vessel, other than a public vessel, that results in—
-    - **(A)** the loss of 6 or more lives;
-    - **(B)** the loss of a mechanically propelled vessel of 100 or more gross tons;
-    - **(C)** property damage initially estimated at $500,000 or more; or
-    - **(D)** serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
-- **(i)** The Secretary shall, as soon as possible, and no later than January 1, 2005 , publish all marine casualty reports prepared in accordance with this section in an electronic form.
+- **(h)** The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
+- **(i)** For purposes of this section, the term “major marine casualty” means a casualty involving a vessel, other than a public vessel, that results in—
+  - **(1)** the loss of 6 or more lives;
+  - **(2)** the loss of a mechanically propelled vessel of 100 or more gross tons;
+  - **(3)** property damage initially estimated at $500,000 or more; or
+  - **(4)** serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
+- **(j)** The Secretary shall, as soon as possible, and no later than January 1, 2005 , publish all marine casualty reports prepared in accordance with this section in an electronic form.

@@ -3,9 +3,9 @@ title: "Section 252 - Relief from certain existing claims under the Fair Labor S
 usc_title: 29
 usc_section: "252"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 252"
-generated_at: "2026-03-30T04:17:06.181Z"
+generated_at: "2026-03-30T04:18:56.534Z"
 status: "active"
 ---
 

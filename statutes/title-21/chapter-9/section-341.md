@@ -3,9 +3,9 @@ title: "Section 341 - Definitions and standards for food"
 usc_title: 21
 usc_section: "341"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 341"
-generated_at: "2026-03-30T04:16:47.485Z"
+generated_at: "2026-03-30T04:18:45.647Z"
 status: "active"
 ---
 

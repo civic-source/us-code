@@ -1,18 +1,13 @@
 ---
-title: "Section 2505 - Rehabilitation and innovation grants"
+title: "Section 2505 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "2505"
 chapter: 45
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 2505"
-generated_at: "2026-03-30T04:16:25.411Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.682Z"
+status: "repealed"
 ---
 
-# § 2505. Rehabilitation and innovation grants
+# § 2505. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 
-- **(a)** The Secretary is authorized to provide 70 per centum matching rehabilitation and innovative grants directly to eligible general purpose local governments upon his approval of applications therefor by the chief executives of such governments.
-  - **(1)** At the discretion of such applicants, and if consistent with an approved application, rehabilitation and innovation grants may be transferred in whole or in part to independent special purpose local governments, private nonprofit agencies or county or regional park authorities: Provided , That assisted recreation areas and facilities owned or managed by them offer recreation opportunities to the general population within the jurisdictional boundaries of an eligible applicant.
-  - **(2)** Payments may be made only for those rehabilitation or innovative projects which have been approved by the Secretary. Such payments may be made from time to time in keeping with the rate of progress toward the satisfactory completion of a project, except that the Secretary may, when appropriate, make advance payments on approved rehabilitation and innovative projects in an amount not to exceed 20 per centum of the total project cost.
-  - **(3)** The Secretary may authorize modification of an approved project only when a grantee has adequately demonstrated that such modification is necessary because of circumstances not foreseeable at the time a project was proposed.
-- **(b)** Innovation grants should be closely tied to goals, priorities, and implementation strategies expressed in local park and recreation recovery action programs, with particular regard to the special considerations listed in section 2506(b)(2) of this title .

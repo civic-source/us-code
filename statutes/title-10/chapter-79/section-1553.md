@@ -3,9 +3,9 @@ title: "Section 1553 - Review of discharge or dismissal"
 usc_title: 10
 usc_section: "1553"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1553"
-generated_at: "2026-03-30T04:15:29.882Z"
+generated_at: "2026-03-30T04:18:16.871Z"
 status: "active"
 ---
 
@@ -15,5 +15,6 @@ status: "active"
 - **(b)** A board established under this section may, subject to review by the Secretary concerned, change a discharge or dismissal, or issue a new discharge, to reflect its findings.
 - **(c)** A review by a board established under this section shall be based on the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 - **(d)**
-  - **(1)** In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a physician, clinical psychologist, or psychiatrist.
+  - **(1)** In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable).
   - **(2)** In the case of a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale or as justification for priority consideration, the Secretary concerned shall expedite a final decision and shall accord such cases sufficient priority to achieve an expedited resolution. In determining the priority of cases, the Secretary concerned shall weigh the medical and humanitarian circumstances of all cases and accord higher priority to cases not involving post-traumatic stress disorder or traumatic brain injury only when the individual cases are considered more compelling.
+- **(e)** In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed while serving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.

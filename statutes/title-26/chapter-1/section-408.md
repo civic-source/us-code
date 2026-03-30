@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T04:17:14.509Z"
+generated_at: "2026-03-30T04:19:03.208Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
     - **(C)** For purposes of this paragraph, a distribution to an organization described in subparagraph (B)(i) shall be treated as a qualified charitable distribution only if a deduction for the entire distribution would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph).
     - **(D)** Notwithstanding section 72, in determining the extent to which a distribution is a qualified charitable distribution, the entire amount of the distribution shall be treated as includible in gross income without regard to subparagraph (A) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
     - **(E)** Qualified charitable distributions which are not includible in gross income pursuant to subparagraph (A) shall not be taken into account in determining the deduction under section 170.
-    - **(F)** This paragraph shall not apply to distributions made in taxable years beginning after December 31, 2013 .
+    - **(F)** This paragraph shall not apply to distributions made in taxable years beginning after December 31, 2014 .
   - **(9)**
     - **(A)** In the case of an individual who is an eligible individual (as defined in section 223(c)) and who elects the application of this paragraph for a taxable year, gross income of the individual for the taxable year does not include a qualified HSA funding distribution to the extent such distribution is otherwise includible in gross income.
     - **(B)** For purposes of this paragraph, the term “qualified HSA funding distribution” means a distribution from an individual retirement plan (other than a plan described in subsection (k) or (p)) of the employee to the extent that such distribution is contributed to the health savings account of the individual in a direct trustee-to-trustee transfer.
@@ -261,7 +261,7 @@ status: "active"
       - **(i)** An arrangement shall not be treated as a qualified salary reduction arrangement for any year if the employer (or any predecessor employer) maintained a qualified plan with respect to which contributions were made, or benefits were accrued, for service in any year in the period beginning with the year such arrangement became effective and ending with the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees so described are eligible to participate.
       - **(ii)** For purposes of this subparagraph, the term “qualified plan” means a plan, contract, pension, or trust described in subparagraph (A) or (B) of section 219(g)(5).
     - **(E)**
-      - **(i)** For purposes of subparagraph (A)(ii), the applicable dollar amount shall be the amount determined in accordance with the following table: For years beginning in calendar year: The applicable dollar amount: 2002 $7,000 2003 $8,000 2004 $9,000 2005 or thereafter $10,000.
+      - **(i)** For purposes of subparagraph (A)(ii), the applicable amount is $10,000.
       - **(ii)** In the case of a year beginning after December 31, 2005 , the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
   - **(3)** The requirements of this paragraph are met with respect to a simple retirement account if the employee’s rights to any contribution to the simple retirement account are nonforfeitable. For purposes of this paragraph, rules similar to the rules of subsection (k)(4) shall apply.
   - **(4)**

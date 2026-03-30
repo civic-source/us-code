@@ -3,13 +3,13 @@ title: "Section 1705 - Printing additional copies for sale to public; regulation
 usc_title: 44
 usc_section: "1705"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 1705"
-generated_at: "2026-03-30T04:17:26.015Z"
+generated_at: "2026-03-30T04:19:38.082Z"
 status: "active"
 ---
 
 # § 1705. Printing additional copies for sale to public; regulations
 
-The Public Printer shall print additional copies of a Government publication, not confidential in character, required for sale to the public by the Superintendent of Documents, subject to regulation by the Joint Committee on Printing and without interference with the prompt execution of printing for the Government.
+The Director of the Government Publishing Office shall print additional copies of a Government publication, not confidential in character, required for sale to the public by the Superintendent of Documents, subject to regulation by the Joint Committee on Printing and without interference with the prompt execution of printing for the Government.
 

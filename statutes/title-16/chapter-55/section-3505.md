@@ -3,9 +3,9 @@ title: "Section 3505 - Exceptions to limitations on expenditures"
 usc_title: 16
 usc_section: "3505"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 3505"
-generated_at: "2026-03-30T04:16:25.431Z"
+generated_at: "2026-03-30T04:18:37.695Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(6)** Any of the following actions or projects, if a particular expenditure or the making available of particular assistance for the action or project is consistent with the purposes of this chapter:
     - **(A)** Projects for the study, management, protection, and enhancement of fish and wildlife resources and habitats, including acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
     - **(B)** Establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
-    - **(C)** Projects under the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 through 11) and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
+    - **(C)** Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
     - **(D)** Scientific research, including aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
     - **(E)** Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 1 1 See References in Text note below. of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4103 ) and are limited to actions that are necessary to alleviate the emergency.
     - **(F)** Maintenance, replacement, reconstruction, or repair, but not the expansion (except with respect to United States route 1 in the Florida Keys), of publicly owned or publicly operated roads, structures, and facilities.

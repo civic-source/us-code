@@ -3,9 +3,9 @@ title: "Section 1708a - Annual report requirement"
 usc_title: 21
 usc_section: "1708a"
 chapter: 22
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 1708a"
-generated_at: "2026-03-30T04:16:47.574Z"
+generated_at: "2026-03-30T04:18:45.732Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2622 - Obligations to consider and determine"
 usc_title: 16
 usc_section: "2622"
 chapter: 46
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 2622"
-generated_at: "2026-03-30T04:16:25.414Z"
+generated_at: "2026-03-30T04:18:37.683Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1406 - Retired pay base for members who first became members bef
 usc_title: 10
 usc_section: "1406"
 chapter: 71
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1406"
-generated_at: "2026-03-30T04:15:29.873Z"
+generated_at: "2026-03-30T04:18:16.862Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
   - **(1)** If the officer is retired under section 210(g) of such Act, the retired pay base is the basic pay of the permanent grade held by the officer at the time of retirement.
   - **(2)** If the officer is retired under section 211(a) of such Act, the retired pay base is the basic pay of the highest grade held by the officer and in which, in the case of a temporary promotion to such grade, the officer has performed active duty for not less than six months.
 - **(i)**
-  - **(1)** For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as a commander of a unified or specified combatant command (as defined in section 161(c) of this title ), or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
+  - **(1)** For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as Chief of the National Guard Bureau, as a commander of a unified or specified combatant command (as defined in section 161(c) of this title ), or as the senior enlisted member of an armed force or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
   - **(2)** Paragraph (1) does not apply in the case of a member who, while or after serving in a position specified in that paragraph and by reason of conduct occurring after October 16, 1998 —
     - **(A)** in the case of an enlisted member, is reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or other administrative process; or
     - **(B)** in the case an officer, is not certified by the Secretary of Defense under section 1370(c) of this title as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
@@ -47,4 +47,3 @@ status: "active"
       - **(iii)** Chief Master Sergeant of the Air Force.
       - **(iv)** Sergeant Major of the Marine Corps.
       - **(v)** Master Chief Petty Officer of the Coast Guard.
-      - **(vi)** Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.

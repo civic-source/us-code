@@ -3,9 +3,9 @@ title: "Section 5595 - Severance pay"
 usc_title: 5
 usc_section: "5595"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 5595"
-generated_at: "2026-03-30T04:15:08.225Z"
+generated_at: "2026-03-30T04:18:08.008Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** “agency” means—
     - **(A)** an Executive agency;
     - **(B)** the Library of Congress;
-    - **(C)** the Government Printing Office;
+    - **(C)** the Government Publishing Office;
     - **(D)** the government of the District of Columbia;
     - **(E)** the Administrative Office of the United States Courts, the Federal Judicial Center, and the courts named by section 610 of title 28 ; and
     - **(F)** the Office of the Architect of the Capitol; and
@@ -30,7 +30,7 @@ status: "active"
       - **(vi)** an employee who, at the time of separation from the service, is entitled to receive benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any other severance pay from the Government;
       - **(vii)** an employee of the Tennessee Valley Authority;
       - **(viii)** an employee of the Office of the Architect of the Capitol, who is employed on a temporary when actually employed basis;
-      - **(ix)** an employee of the Government Printing Office, who is employed on a temporary when actually employed basis; or
+      - **(ix)** an employee of the Government Publishing Office, who is employed on a temporary when actually employed basis; or
       - **(x)** such other employee as may be excluded by regulations of the President or such other officer or agency as he may designate.
 - **(b)** Under regulations prescribed by the President or such officer or agency as he may designate, an employee who—
   - **(1)** has been employed currently for a continuous period of at least 12 months; and

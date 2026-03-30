@@ -3,9 +3,9 @@ title: "Section 4807 - Time limit on agency consideration of completed applicati
 usc_title: 12
 usc_section: "4807"
 chapter: 48
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 4807"
-generated_at: "2026-03-30T04:16:05.773Z"
+generated_at: "2026-03-30T04:18:22.855Z"
 status: "active"
 ---
 

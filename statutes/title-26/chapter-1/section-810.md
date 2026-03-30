@@ -3,9 +3,9 @@ title: "Section 810 - Operations loss deduction"
 usc_title: 26
 usc_section: "810"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 810"
-generated_at: "2026-03-30T04:17:14.568Z"
+generated_at: "2026-03-30T04:19:03.258Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(1)** The term “loss from operations” means the excess of the life insurance deductions for any taxable year over the life insurance gross income for such taxable year.
   - **(2)** For purposes of paragraph (1)—
     - **(A)** the operations loss deduction shall not be allowed, and
-    - **(B)** the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+    - **(B)** the deductions allowed by sections 243 (relating to dividends received by corporations), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
 - **(d)**
   - **(1)** For purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) 1 1 See References in Text note below. or such year to zero.
   - **(2)** For purposes of paragraph (1), the operations loss deduction for any taxable year shall be computed without regard to the loss from operations for the loss year or for any taxable year thereafter.

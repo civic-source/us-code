@@ -3,9 +3,9 @@ title: "Section 1574c - Priority for payment of principal and interest of revenu
 usc_title: 48
 usc_section: "1574c"
 chapter: 12
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "48 U.S.C. § 1574c"
-generated_at: "2026-03-30T04:17:44.979Z"
+generated_at: "2026-03-30T04:20:18.626Z"
 status: "active"
 ---
 

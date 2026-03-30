@@ -1,15 +1,13 @@
 ---
-title: "Section 455b - Inclusion of estimate of cost of projected surveys in appropriation estimates"
+title: "Section 455b - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "455b"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 455b"
-generated_at: "2026-03-30T04:16:25.170Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.516Z"
+status: "repealed"
 ---
 
-# § 455b. Inclusion of estimate of cost of projected surveys in appropriation estimates
-
-The Secretary of the Army shall include annually in his Department of the Army appropriation estimates a list of the battlefields for which surveys or other field investigations are planned for the fiscal year in question, together with the estimated cost of making each survey or other field investigation.
+# § 455b. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

@@ -1,29 +1,13 @@
 ---
-title: "Section 5902 - Authority for programs to facilitate demilitarization"
+title: "Section 5902 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2) , Dec. 19, 2014 , 128 Stat. 3606"
 usc_title: 22
 usc_section: "5902"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 5902"
-generated_at: "2026-03-30T04:17:01.898Z"
-status: "active"
+generated_at: "2026-03-30T04:18:49.535Z"
+status: "repealed"
 ---
 
-# § 5902. Authority for programs to facilitate demilitarization
+# § 5902. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2) , Dec. 19, 2014 , 128 Stat. 3606
 
-- **(a)** Notwithstanding any other provision of law, the President is authorized, in accordance with this chapter, to establish and conduct programs described in subsection (b) to assist the demilitarization of the independent states of the former Soviet Union.
-- **(b)** The programs referred to in subsection (a) are limited to—
-  - **(1)** transporting, storing, safeguarding, and destroying nuclear, chemical, and other weapons of the independent states of the former Soviet Union, as described in section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228 );
-  - **(2)** establishing verifiable safeguards against the proliferation of such weapons and their components;
-  - **(3)** preventing diversion of weapons-related scientific expertise of the former Soviet Union to terrorist groups or third countries;
-  - **(4)** facilitating the demilitarization of the defense industries of the former Soviet Union and the conversion of military technologies and capabilities into civilian activities;
-  - **(5)** establishing science and technology centers in the independent states of the former Soviet Union for the purpose of engaging weapons scientists, engineers, and other experts previously involved with nuclear, chemical, and other weapons in productive, nonmilitary undertakings; and
-  - **(6)** expanding military-to-military contacts between the United States and the independent states of the former Soviet Union.
-- **(c)** The programs described in subsection (b) should, to the extent feasible, draw upon United States technology and expertise, especially from the United States private sector.
-- **(d)** United States assistance authorized by subsection (a) may not be provided unless the President certifies to the Congress, on an annual basis, that the proposed recipient country is committed to—
-  - **(1)** making a substantial investment of its resources for dismantling or destroying such weapons of mass destruction, if such recipient has an obligation under a treaty or other agreement to destroy or dismantle any such weapons;
-  - **(2)** forgoing any military modernization program that exceeds legitimate defense requirements and forgoing the replacement of destroyed weapons of mass destruction;
-  - **(3)** forgoing any use in new nuclear weapons of fissionable or other components of destroyed nuclear weapons;
-  - **(4)** facilitating United States verification of any weapons destruction carried out under this chapter or section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228 );
-  - **(5)** complying with all relevant arms control agreements; and
-  - **(6)** observing internationally recognized human rights, including the protection of minorities.

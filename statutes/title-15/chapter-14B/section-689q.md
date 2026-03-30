@@ -3,9 +3,9 @@ title: "Section 689q - Authorization of appropriations"
 usc_title: 15
 usc_section: "689q"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 689q"
-generated_at: "2026-03-30T04:16:10.652Z"
+generated_at: "2026-03-30T04:18:26.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19 - Acreages"
 usc_title: 16
 usc_section: "19"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 19"
-generated_at: "2026-03-30T04:16:25.207Z"
+generated_at: "2026-03-30T04:18:37.541Z"
 status: "active"
 ---
 

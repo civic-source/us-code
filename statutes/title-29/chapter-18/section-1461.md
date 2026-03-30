@@ -3,9 +3,9 @@ title: "Section 1461 - Effective date; special rules"
 usc_title: 29
 usc_section: "1461"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1461"
-generated_at: "2026-03-30T04:17:06.248Z"
+generated_at: "2026-03-30T04:18:56.588Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(2)**
     - **(A)** Except as provided in this paragraph, part 1 of subtitle E of this subchapter, relating to withdrawal liability, takes effect on September 26, 1980 .
     - **(B)** For purposes of determining withdrawal liability under part 1 of subtitle E of this subchapter, an employer who has withdrawn from a plan shall be considered to have withdrawn from a multiemployer plan if, at the time of the withdrawal, the plan was a multiemployer plan as defined in section 1301(a)(3) of this title as in effect at the time of the withdrawal.
-  - **(3)** Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+  - **(3)** Sections 1421 through 1426 1 1 See References in Text note below. of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
     - **(A)** the date on which the last collective bargaining agreement providing for employer contributions under the plan, which was in effect on September 26, 1980 , expires, without regard to extensions agreed to on or after September 26, 1980 , or
     - **(B)** 3 years after September 26, 1980 .
   - **(4)** Section 1415 of this title shall take effect on September 26, 1980 .

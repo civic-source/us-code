@@ -3,9 +3,9 @@ title: "Section 138 - Preservation of parklands"
 usc_title: 23
 usc_section: "138"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "23 U.S.C. § 138"
-generated_at: "2026-03-30T04:16:48.055Z"
+generated_at: "2026-03-30T04:18:42.337Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** The requirements of subsection (a)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (a)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
     - **(C)** In making any determination under this subsection, the Secretary shall consider to be part of a transportation program or project any avoidance, minimization, mitigation, or enhancement measures that are required to be implemented as a condition of approval of the transportation program or project.
   - **(2)** With respect to historic sites, the Secretary may make a finding of de minimis impact only if—
-    - **(A)** the Secretary has determined, in accordance with the consultation process required under section 106 of the National Historic Preservation Act ( 16 U.S.C. 470f ), that—
+    - **(A)** the Secretary has determined, in accordance with the consultation process required under section 306108 of title 54 , that—
       - **(i)** the transportation program or project will have no adverse effect on the historic site; or
       - **(ii)** there will be no historic properties affected by the transportation program or project;
     - **(B)** the finding of the Secretary has received written concurrence from the applicable State historic preservation officer or tribal historic preservation officer (and from the Advisory Council on Historic Preservation if the Council is participating in the consultation process); and

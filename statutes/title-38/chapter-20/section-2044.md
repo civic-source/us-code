@@ -3,9 +3,9 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-30T04:17:24.201Z"
+generated_at: "2026-03-30T04:19:32.579Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
     - **(B)** $20,000,000 for fiscal year 2010.
     - **(C)** $25,000,000 for fiscal year 2011.
     - **(D)** $100,000,000 for fiscal year 2012.
-    - **(E)** $300,000,000 for each of fiscal years 2013 and 2014.
+    - **(E)** $300,000,000 for each of fiscal years 2013 through 2015.
   - **(2)** Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
   - **(3)** There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
 - **(f)** In this section:

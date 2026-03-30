@@ -3,9 +3,9 @@ title: "Section 6751 - State flexibility in multistate licensing reforms"
 usc_title: 15
 usc_section: "6751"
 chapter: 93
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 6751"
-generated_at: "2026-03-30T04:16:10.836Z"
+generated_at: "2026-03-30T04:18:26.917Z"
 status: "active"
 ---
 

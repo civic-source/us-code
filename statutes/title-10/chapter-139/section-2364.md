@@ -3,9 +3,9 @@ title: "Section 2364 - Coordination and communication of defense research activi
 usc_title: 10
 usc_section: "2364"
 chapter: 139
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2364"
-generated_at: "2026-03-30T04:15:29.913Z"
+generated_at: "2026-03-30T04:18:16.902Z"
 status: "active"
 ---
 
@@ -18,10 +18,8 @@ status: "active"
   - **(1)** that Defense research facilities are assigned broad mission requirements rather than specific hardware needs;
   - **(2)** that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;
   - **(3)** that the managers of such facilities have broad latitude to choose research and development projects;
-  - **(4)** that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
-  - **(5)** that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
-- **(c)** In this section:
-  - **(1)** The term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
-    - **(A)** basic research; or
-    - **(B)** applied research known as exploratory development.
-  - **(2)** The term “acquisition program decision” has the meaning prescribed by the Secretary of Defense in regulations.”
+  - **(4)** that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts; and
+  - **(5)** that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions.
+- **(c)** In this section, the term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
+  - **(1)** basic research; or
+  - **(2)** applied research known as exploratory development.

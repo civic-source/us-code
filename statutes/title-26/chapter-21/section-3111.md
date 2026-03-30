@@ -3,22 +3,16 @@ title: "Section 3111 - Rate of tax"
 usc_title: 26
 usc_section: "3111"
 chapter: 21
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 3111"
-generated_at: "2026-03-30T04:17:14.652Z"
+generated_at: "2026-03-30T04:19:03.329Z"
 status: "active"
 ---
 
 # § 3111. Rate of tax
 
-- **(a)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))— In cases of wages paid during: The rate shall be: 1984, 1985, 1986, or 1987 5.7 percent 1988 or 1989 6.06 percent 1990 or thereafter 6.2 percent.
-- **(b)** In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
-  - **(1)** with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
-  - **(2)** with respect to wages paid during the calendar year 1978, the rate shall be 1.00 percent;
-  - **(3)** with respect to wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
-  - **(4)** with respect to wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
-  - **(5)** with respect to wages paid during the calendar year 1985, the rate shall be 1.35 percent; and
-  - **(6)** with respect to wages paid after December 31, 1985 , the rate shall be 1.45 percent.
+- **(a)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
+- **(b)** In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 - **(c)** During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 - **(d)**
   - **(1)** Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010 , of any qualified individual for services performed—

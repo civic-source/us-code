@@ -3,9 +3,9 @@ title: "Section 1772 - Findings and policy"
 usc_title: 25
 usc_section: "1772"
 chapter: 19
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 1772"
-generated_at: "2026-03-30T04:16:44.993Z"
+generated_at: "2026-03-30T04:18:44.186Z"
 status: "active"
 ---
 

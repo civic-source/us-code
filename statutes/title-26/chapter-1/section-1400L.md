@@ -3,9 +3,9 @@ title: "Section 1400L - Tax benefits for New York Liberty Zone"
 usc_title: 26
 usc_section: "1400L"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 1400L"
-generated_at: "2026-03-30T04:17:14.630Z"
+generated_at: "2026-03-30T04:19:03.308Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
       - **(ii)** The term “qualified New York Liberty Zone property” shall not include any property described in section 168(k)(2)(D)(i).
       - **(iii)** Such term shall not include any qualified New York Liberty Zone leasehold improvement property.
       - **(iv)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
-    - **(D)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2014 ”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+    - **(D)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2015 ”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
     - **(E)** For purposes of this subsection, rules similar to the rules of section 168(k)(2)(G) shall apply.
 - **(c)**
   - **(1)** For purposes of section 168, the term “5-year property” includes any qualified New York Liberty Zone leasehold improvement property.

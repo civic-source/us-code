@@ -1,15 +1,13 @@
 ---
-title: "Section 416 - Refusal to surrender leased land; recovery"
+title: "Section 416 - Omitted"
 usc_title: 16
 usc_section: "416"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 416"
-generated_at: "2026-03-30T04:16:25.151Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.503Z"
+status: "omitted"
 ---
 
-# § 416. Refusal to surrender leased land; recovery
-
-Any person to whom land lying within any national military parks may have been leased, who refuses to give up possession of the same to the United States after the termination of said lease, and after possession has been demanded for the United States by any park commissioner or the park superintendent, or any person retaining possession of land lying within the boundary of said park which he or she may have sold to the United States for park purposes and have received payment therefor, after possession of the same has been demanded for the United States by any park commissioner or the park superintendent, shall be deemed guilty of trespass, and the United States may maintain an action for the recovery of the possession of the premises so withheld in the courts of the United States, according to the statutes or code of practice of the State in which the park may be situated.
+# § 416. Omitted
 

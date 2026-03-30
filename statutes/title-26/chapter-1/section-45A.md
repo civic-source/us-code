@@ -3,9 +3,9 @@ title: "Section 45A - Indian employment credit"
 usc_title: 26
 usc_section: "45A"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45A"
-generated_at: "2026-03-30T04:17:14.425Z"
+generated_at: "2026-03-30T04:19:03.140Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
 - **(b)** For purposes of this section—
   - **(1)**
     - **(A)** The term “qualified wages” means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified employee.
-    - **(B)** The term “qualified wages” shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
+    - **(B)** The term “qualified wages” shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51. If any portion of wages are taken into account under subsection (e)(1)(A) of section 51, the preceding sentence shall be applied by substituting “2-year period” for “1-year period”.
   - **(2)**
     - **(A)** The term “qualified employee health insurance costs” means any amount paid or incurred by an employer for health insurance to the extent such amount is attributable to coverage provided to any employee while such employee is a qualified employee.
     - **(B)** No amount paid or incurred for health insurance pursuant to a salary reduction arrangement shall be taken into account under subparagraph (A).
@@ -62,4 +62,4 @@ status: "active"
   - **(3)** Rules similar to the rules of section 51(k) and subsections (c), (d), and (e) of section 52 shall apply.
   - **(4)** Any reference in this section to a provision not contained in this title shall be treated for purposes of this section as a reference to such provision as in effect on the date of the enactment of this paragraph.
   - **(5)** For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
-- **(f)** This section shall not apply to taxable years beginning after December 31, 2013 .
+- **(f)** This section shall not apply to taxable years beginning after December 31, 2014 .

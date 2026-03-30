@@ -3,9 +3,9 @@ title: "Section 3704b - National Technical Information Service"
 usc_title: 15
 usc_section: "3704b"
 chapter: 63
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 3704b"
-generated_at: "2026-03-30T04:16:10.797Z"
+generated_at: "2026-03-30T04:18:26.893Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
 - **(e)** The Secretary of Commerce, acting through the Service, shall—
   - **(1)** establish and maintain a permanent repository of nonclassified scientific, technical, and engineering information;
   - **(2)** cooperate and coordinate its operations with other Government scientific, technical, and engineering information programs;
-  - **(3)** make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Printing Office;
+  - **(3)** make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Publishing Office;
   - **(4)** in conjunction with the private sector as appropriate, collect, translate into English, and disseminate unclassified foreign scientific, technical, and engineering information;
   - **(5)** implement new methods or media for the dissemination of scientific, technical, and engineering information, including producing and disseminating information products in electronic format; and
   - **(6)** carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [ 15 U.S.C. 1151 et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988 , under this chapter.

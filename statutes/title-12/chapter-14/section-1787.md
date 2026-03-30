@@ -3,9 +3,9 @@ title: "Section 1787 - Payment of insurance"
 usc_title: 12
 usc_section: "1787"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 1787"
-generated_at: "2026-03-30T04:16:05.663Z"
+generated_at: "2026-03-30T04:18:22.760Z"
 status: "active"
 ---
 
@@ -361,11 +361,11 @@ status: "active"
 - **(j)** Whenever any insured State-chartered credit union shall have been closed by action of its board of directors or by the commission, board, or authority having supervision of such credit union, as the case may be, or by a court of competent jurisdiction, on account of bankruptcy or insolvency, the Board shall accept appointment as liquidating agent therefor, if such appointment is tendered by the commission, board, or authority having supervision of such credit union, or by a court of competent jurisdiction, and is authorized or permitted by State law. With respect to any such State-chartered credit union, the Board as such liquidating agent shall possess all the rights, powers, and privileges granted by State law to a liquidating agent of a State-chartered credit union. For the purposes of this subsection, the term “liquidating agent” includes a liquidating agent, receiver, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a credit union.
 - **(k)**
   - **(1)**
-    - **(A)** Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph and paragraphs (5) and (6), and consistently with actions taken by the Federal Deposit Insurance Corporation under section 1821(a) of this title .
+    - **(A)** Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member, or to any person with funds lawfully held in a member account, at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph, and consistently with actions taken by the Federal Deposit Insurance Corporation under section 1821(a) of this title .
     - **(B)** Determination of the net amount of share insurance under subparagraph (A), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member’s own benefit, either in the member’s own name or in the names of others.
     - **(C)** The Board may define, with such classifications and exceptions as it may prescribe, the extent of the share insurance coverage provided for member accounts, including member accounts in the name of a minor, in trust, or in joint tenancy.
   - **(2)**
-    - **(A)** Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount (as determined under paragraph (5)), subject to subparagraph (C).
+    - **(A)** Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount, subject to subparagraph (C).
     - **(B)** In this paragraph, the term “government depositor” means a depositor that is—
       - **(i)** an officer, employee, or agent of the United States having official custody of public funds and lawfully investing the same in a credit union insured in accordance with this subchapter;
       - **(ii)** an officer, employee, or agent of any State of the United States, or of any county, municipality, or political subdivision thereof having official custody of public funds and lawfully investing the same in a credit union insured in accordance with this subchapter in such State;
@@ -385,7 +385,16 @@ status: "active"
         - **(III)** includes any eligible deferred compensation plan described in section 457 of title 26 .
       - **(iii)** The term “pass-through share insurance” means, with respect to an employee benefit plan, insurance coverage based on the interest of each participant, in accordance with regulations issued by the Administration.
     - **(D)** No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
-  - **(5)** For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title .
+  - **(5)**
+    - **(A)** The Administration shall provide pass-through share insurance for the deposits or shares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
+    - **(B)**
+      - **(i)** For share insurance purposes, IOLTAs are treated as escrow accounts.
+      - **(ii)** IOLTAs and other similar escrow accounts are considered member accounts for purposes of paragraph (1), if the attorney administering the IOLTA or the escrow agent administering the escrow account is a member of the insured credit union in which the funds are held.
+    - **(C)** For purposes of this paragraph:
+      - **(i)** The terms “interest on lawyers trust account” and “IOLTA” mean a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends then used to fund programs such as legal service organizations who provide services to clients in need.
+      - **(ii)** The term “pass-through share insurance” means, with respect to IOLTAs and other similar escrow accounts, insurance coverage based on the interest of each person on whose behalf funds are held in such accounts by the attorney administering the IOLTA or the escrow agent administering a similar escrow account, in accordance with regulations issued by the Administration.
+    - **(D)** No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an IOLTA or similar escrow account in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
+  - **(6)** For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title .
 - **(l)** Payment of an insured account to any person by the Board shall discharge the Board to the same extent that payment to such person by the closed insured credit union would have discharged it from liability for the insured account.
 - **(m)** Except as otherwise prescribed by the Board, the Board shall not be required to recognize as the owner of any portion of an account appearing on the records of the closed credit union under a name other than that of the claimant any person whose name or interest as such owner is not disclosed on the records of such closed credit union as part owner of such account, if such recognition would increase the aggregate amount of the insured accounts in such closed credit union.
 - **(n)** The Board may withhold payment of such portion of the insured account of any member of a closed credit union as may be required to provide for the payment of any direct or indirect liability of such member to the closed credit union or its liquidating agent, which is not offset against a claim due from such credit union, pending the determination and payment of such liability by such member or any other person liable therefor.

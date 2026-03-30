@@ -3,9 +3,9 @@ title: "Section 450n - Sovereign immunity and trusteeship rights unaffected"
 usc_title: 25
 usc_section: "450n"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 450n"
-generated_at: "2026-03-30T04:16:44.925Z"
+generated_at: "2026-03-30T04:18:44.129Z"
 status: "active"
 ---
 

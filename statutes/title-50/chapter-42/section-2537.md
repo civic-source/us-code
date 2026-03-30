@@ -1,24 +1,26 @@
 ---
-title: "Section 2537 - Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities"
+title: "Section 2537 - Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities"
 usc_title: 50
 usc_section: "2537"
 chapter: 42
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 2537"
-generated_at: "2026-03-30T04:17:50.334Z"
+generated_at: "2026-03-30T04:20:17.711Z"
 status: "active"
 ---
 
-# § 2537. Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities
+# § 2537. Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities
 
 - **(a)**
   - **(1)** At the end of each fiscal-year quarter, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension. The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
   - **(2)** The information contained in the Selected Acquisition Report for a fiscal-year quarter for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for such fiscal-year quarter for a major defense acquisition program under section 2432 of title 10 , expressed in terms of the nuclear weapon system.
 - **(b)**
-  - **(1)** The Secretary, acting through the Administrator, shall submit to the congressional defense committees and the Nuclear Weapons Council an independent cost estimate of the following:
-    - **(A)** Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
-    - **(B)** Each nuclear weapon system undergoing life extension before initiation of phase 6.5, relating to first production.
-    - **(C)** Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 2 in the acquisition process.
-  - **(2)** A cost estimate submitted under this subsection before October 1, 2015 , may not be prepared by the Department of Energy or the Administration.
-  - **(3)** Each cost estimate submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
+  - **(1)** The Secretary, acting through the Administrator, shall submit to the congressional defense committees and the Nuclear Weapons Council the following:
+    - **(A)** An independent cost estimate of the following:
+      - **(i)** Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
+      - **(ii)** Each nuclear weapon system undergoing life extension before initiation of phase 6.5, relating to first production.
+      - **(iii)** Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
+    - **(B)** An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2, relating to study of feasibility and down-select.
+  - **(2)** A cost estimate or review submitted under this subsection before October 1, 2015 , may not be prepared by the Department of Energy or the Administration.
+  - **(3)** Each cost estimate or review submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
 - **(c)** Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.

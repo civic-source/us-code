@@ -3,9 +3,9 @@ title: "Section 2 - Bonds; limitation of issuance under sections 831n and 831nâ€
 usc_title: 16
 usc_section: "2"
 chapter: 12
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. Â§ 2"
-generated_at: "2026-03-30T04:16:25.322Z"
+generated_at: "2026-03-30T04:18:37.616Z"
 status: "active"
 ---
 

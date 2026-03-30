@@ -3,9 +3,9 @@ title: "Section 21105 - Limitations on duty hours of dispatching service employe
 usc_title: 49
 usc_section: "21105"
 chapter: 211
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "49 U.S.C. § 21105"
-generated_at: "2026-03-30T04:17:49.023Z"
+generated_at: "2026-03-30T04:20:24.624Z"
 status: "active"
 ---
 

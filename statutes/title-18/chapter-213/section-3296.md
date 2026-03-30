@@ -3,9 +3,9 @@ title: "Section 3296 - Counts dismissed pursuant to a plea agreement"
 usc_title: 18
 usc_section: "3296"
 chapter: 213
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 3296"
-generated_at: "2026-03-30T04:16:18.717Z"
+generated_at: "2026-03-30T04:18:30.759Z"
 status: "active"
 ---
 

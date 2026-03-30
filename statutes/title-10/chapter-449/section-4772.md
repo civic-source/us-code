@@ -3,9 +3,9 @@ title: "Section 4772 - Heritage Center for the National Museum of the United Sta
 usc_title: 10
 usc_section: "4772"
 chapter: 449
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 4772"
-generated_at: "2026-03-30T04:15:29.954Z"
+generated_at: "2026-03-30T04:18:16.941Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)**
   - **(1)** The design of the Center shall be subject to the approval of the Secretary of the Army.
   - **(2)** For each phase of the development of the Center, the Secretary may—
-    - **(A)** accept funds from the Army Historical Foundation for the design and construction of such phase of the Center; or
+    - **(A)** accept funds and in-kind gifts, including services, construction materials, and equipment used in construction, from the Army Historical Foundation and other persons for the design and construction of such phase of the Center; or
     - **(B)** permit the Army Historical Foundation to contract for the design and construction of such phase of the Center.
 - **(d)** Upon the satisfactory completion, as determined by the Secretary of the Army, of any phase of the Center, and upon the satisfaction of any financial obligations incident to such phase of the Center by the Army Historical Foundation, the Secretary shall accept such phase of the Center from the Army Historical Foundation, and all right, title, and interest in and to such phase of the Center shall vest in the United States. Upon becoming the property of the United States, the Secretary shall assume administrative jurisdiction over the Center.
 - **(e)**

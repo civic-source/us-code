@@ -3,9 +3,9 @@ title: "Section 5605 - Authority of Foundation"
 usc_title: 20
 usc_section: "5605"
 chapter: 66
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 5605"
-generated_at: "2026-03-30T04:16:29.621Z"
+generated_at: "2026-03-30T04:18:34.473Z"
 status: "active"
 ---
 

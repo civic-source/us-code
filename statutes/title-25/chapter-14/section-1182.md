@@ -3,9 +3,9 @@ title: "Section 1182 - Division between Cherokee Delawares and the Delaware Trib
 usc_title: 25
 usc_section: "1182"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 1182"
-generated_at: "2026-03-30T04:16:44.962Z"
+generated_at: "2026-03-30T04:18:44.160Z"
 status: "active"
 ---
 

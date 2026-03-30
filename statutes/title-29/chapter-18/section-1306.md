@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T04:17:06.236Z"
+generated_at: "2026-03-30T04:18:56.578Z"
 status: "active"
 ---
 
@@ -35,8 +35,9 @@ status: "active"
         - **(II)** $1.80 for each participant, for the fifth and sixth plan years,
         - **(III)** $2.20 for each participant, for the seventh and eighth plan years, and
         - **(IV)** $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
-      - **(iv)** in the case of a multiemployer plan, for plan years beginning after December 31, 2005 , and before January 1, 2013 , $8.00 for each individual who is a participant in such plan during the applicable plan year, or
-      - **(v)** in the case of a multiemployer plan, for plan years beginning after December 31, 2012 , $12.00 for each individual who is a participant in such plan during the applicable plan year.
+      - **(iv)** in the case of a multiemployer plan, for plan years beginning after December 31, 2005 , and before January 1, 2013 , $8.00 for each individual who is a participant in such plan during the applicable plan year,
+      - **(v)** in the case of a multiemployer plan, for plan years beginning after December 31, 2012 , and before January 1, 2015 , $12.00 for each individual who is a participant in such plan during the applicable plan year, or
+      - **(vi)** in the case of a multiemployer plan, for plan years beginning after December 31, 2014 , $26 for each individual who is a participant in such plan during the applicable plan year.
     - **(B)** The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
     - **(C)**
       - **(i)** If the sum of—
@@ -90,6 +91,11 @@ status: "active"
       - **(i)** the product derived by multiplying such dollar amount by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2014; and
+      - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
+    - **(M)** For each plan year beginning in a calendar year after 2015, there shall be substituted for the dollar amount specified in clause (vi) of subparagraph (A) an amount equal to the greater of—
+      - **(i)** the product derived by multiplying such dollar amount by the ratio of—
+        - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+        - **(II)** the national average wage index (as so defined) for 2013; and
       - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
   - **(4)** The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title , alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
   - **(5)**

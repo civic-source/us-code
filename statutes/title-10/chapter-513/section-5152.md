@@ -3,9 +3,9 @@ title: "Section 5152 - Renumbered § 5023]"
 usc_title: 10
 usc_section: "5152"
 chapter: 513
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 5152"
-generated_at: "2026-03-30T04:15:29.957Z"
+generated_at: "2026-03-30T04:18:16.944Z"
 status: "renumbered"
 ---
 

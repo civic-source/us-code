@@ -3,9 +3,9 @@ title: "Section 5606 - Prohibited acts and penalties"
 usc_title: 16
 usc_section: "5606"
 chapter: 76
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5606"
-generated_at: "2026-03-30T04:16:25.466Z"
+generated_at: "2026-03-30T04:18:37.720Z"
 status: "active"
 ---
 

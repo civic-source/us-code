@@ -3,9 +3,10 @@ title: "Section 200306 - Allocation of Fund amounts for Federal purposes"
 usc_title: 54
 usc_section: "200306"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 113-296"
 classification: "54 U.S.C. § 200306"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-03-30T04:20:32.952Z"
+status: "active"
 ---
 
 # § 200306. Allocation of Fund amounts for Federal purposes
@@ -21,6 +22,7 @@ generated_at: "2026-03-30T02:56:28.421Z"
         - **(I)** wilderness areas of the National Forest System; and
         - **(II)** other areas of national forests as the boundaries of those forests existed on January 1, 1965 , or purchase units approved by the National Forest Reservation Commission subsequent to January 1, 1965 , all of which other areas are primarily of value for outdoor recreation purposes.
       - **(ii)** Land outside but adjacent to an existing national forest boundary, not to exceed 3,000 acres in the case of any one forest, that would comprise an integral part of a forest recreational management area may also be acquired with amounts appropriated from the Fund.
+      - **(iii)** Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian.
     - **(C)** Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—
       - **(i)** endangered species and threatened species authorized under section 5(a) of the Endangered Species Act of 1973 ( 16 U.S.C. 1534(a) );
       - **(ii)** areas authorized by section 2 of the Refuge Recreation Act ( 16 U.S.C. 460k–1 );
@@ -29,16 +31,3 @@ generated_at: "2026-03-30T02:56:28.421Z"
   - **(3)** Amounts shall be allotted for payment into miscellaneous receipts of the Treasury as a partial offset for capital costs, if any, of Federal water development projects authorized to be constructed by or pursuant to an Act of Congress that are allocated to public recreation and the enhancement of fish and wildlife values and financed through appropriations to water resource agencies.
   - **(4)** Appropriations allotted for the acquisition of land, water, or an interest in land or water as set forth under subparagraphs (A) and (B) of paragraph (2) shall be available for those acquisitions notwithstanding any statutory ceiling on the appropriations contained in any other provision of law enacted prior to January 4, 1977 , or, in the case of national recreation areas, prior to January 15, 1979 , except that for any such area expenditures shall not exceed a statutory ceiling during any one fiscal year by 10 percent of the ceiling or $1,000,000, whichever is greater.
 - **(b)** Appropriations from the Fund pursuant to this section shall not be used for acquisition unless the acquisition is otherwise authorized by law. Appropriations from the Fund may be used for preacquisition work where authorization is imminent and where substantial monetary savings could be realized.
-- **(c)**
-  - **(1)** Of the amounts made available for expenditure in any fiscal year under section 200303, there shall be made available for recreational public access projects identified on the priority list developed under paragraph (2) not less than the greater of—
-    - **(A)** an amount equal to 3 percent of those amounts; or
-    - **(B)** $15,000,000.
-  - **(2)** The Secretary and the Secretary of Agriculture, in consultation with the head of each affected Federal agency, shall annually develop a priority list for projects that, through acquisition of land (or an interest in land), secure recreational public access to Federal land under the jurisdiction of the applicable Secretary for hunting, fishing, recreational shooting, or other outdoor recreational purposes.
-- **(d)** In determining whether to acquire land (or an interest in land) under this section, the Secretary and the Secretary of Agriculture shall take into account—
-  - **(1)** the significance of the acquisition;
-  - **(2)** the urgency of the acquisition;
-  - **(3)** management efficiencies;
-  - **(4)** management cost savings;
-  - **(5)** geographic distribution;
-  - **(6)** threats to the integrity of the land; and
-  - **(7)** the recreational value of the land.

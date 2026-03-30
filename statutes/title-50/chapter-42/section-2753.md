@@ -3,9 +3,9 @@ title: "Section 2753 - Notification of cost overruns for certain Department of E
 usc_title: 50
 usc_section: "2753"
 chapter: 42
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 2753"
-generated_at: "2026-03-30T04:17:50.338Z"
+generated_at: "2026-03-30T04:20:17.716Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** The Administrator shall establish a cost and schedule baseline for each nuclear stockpile life extension project of the Administration.
+    - **(A)** The Administrator shall establish a cost and schedule baseline for each nuclear stockpile life extension project of the Administration. In addition to the requirement under subparagraph (B), the cost and schedule baseline of a nuclear stockpile life extension project established under this subparagraph shall be the cost and schedule as described in the first Selected Acquisition Report submitted under section 2537(a) of this title for the project.
     - **(B)** The cost baseline developed under subparagraph (A) shall include, with respect to each life extension project, an estimated cost for each warhead in the project.
     - **(C)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
   - **(2)**
@@ -28,7 +28,7 @@ status: "active"
     - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
 - **(b)** The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—
   - **(1)** the total cost for a project referred to in paragraph (1), (2), or (3) of subsection (a) will exceed an amount that is equal to 125 percent of the cost baseline established under subsection (a) for that project; and
-  - **(2)** in the case of a stockpile life extension project referred to in subsection (a)(1), the cost for any warhead in the project will exceed an amount that is equal to 200 percent of the cost baseline established under subsection (a)(1)(B) for each warhead in that project.
+  - **(2)** in the case of a stockpile life extension project referred to in subsection (a)(1), the cost for any warhead in the project will exceed an amount that is equal to 150 percent of the cost baseline established under subsection (a)(1)(B) for each warhead in that project.
 - **(c)** Not later than 90 days after submitting a notification under subsection (b) with respect to a project, the Administrator or the Secretary, as applicable, shall—
   - **(1)** notify the congressional defense committees with respect to whether the project will be terminated or continued; and
   - **(2)** if the project will be continued, certify to the congressional defense committees that—

@@ -3,9 +3,9 @@ title: "Section 1132 - Civil enforcement"
 usc_title: 29
 usc_section: "1132"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1132"
-generated_at: "2026-03-30T04:17:06.227Z"
+generated_at: "2026-03-30T04:18:56.571Z"
 status: "active"
 ---
 
@@ -22,10 +22,11 @@ status: "active"
   - **(6)** by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), (8), or (9) of subsection (c) of this section or under subsection (i) or ( l ) of this section;
   - **(7)** by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title );
   - **(8)** by the Secretary, or by an employer or other person referred to in section 1021(f)(1) of this title , (A) to enjoin any act or practice which violates subsection (f) of section 1021 of this title , or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection;
-  - **(9)** in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual’s status as a participant covered under a pension plan with respect to all or any portion of the participant’s pension benefit under such plan constitutes a violation of part 4 of this title 1 1 So in original. Probably should be “subtitle”. or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts; or
+  - **(9)** in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual’s status as a participant covered under a pension plan with respect to all or any portion of the participant’s pension benefit under such plan constitutes a violation of part 4 of this title 1 1 So in original. Probably should be “subtitle”. or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts;
   - **(10)** in the case of a multiemployer plan that has been certified by the actuary to be in endangered or critical status under section 1085 of this title , if the plan sponsor—
     - **(A)** has not adopted a funding improvement or rehabilitation plan under that section by the deadline established in such section, or
     - **(B)** fails to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section,
+  - **(11)** in the case of a multiemployer plan, by an employee representative, or any employer that has an obligation to contribute to the plan, (A) to enjoin any act or practice which violates subsection (k) of section 1021 of this title (or, in the case of an employer, subsection ( l ) of such section), or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection.
 - **(b)**
   - **(1)** In the case of a plan which is qualified under section 401(a), 403(a), or 405(a) 2 2 See References in Text note below. of title 26 (or with respect to which an application to so qualify has been filed and has not been finally determined) the Secretary may exercise his authority under subsection (a)(5) of this section with respect to a violation of, or the enforcement of, parts 2 and 3 of this subtitle (relating to participation, vesting, and funding), only if—
     - **(A)** requested by the Secretary of the Treasury, or

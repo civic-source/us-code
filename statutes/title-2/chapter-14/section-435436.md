@@ -3,9 +3,9 @@ title: "Section 435436 - Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8
 usc_title: 2
 usc_section: "435436"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 435436"
-generated_at: "2026-03-30T04:15:17.489Z"
+generated_at: "2026-03-30T04:18:06.036Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 601 - Disposition of moneys collected for depredations"
 usc_title: 16
 usc_section: "601"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 601"
-generated_at: "2026-03-30T04:16:25.276Z"
+generated_at: "2026-03-30T04:18:37.583Z"
 status: "active"
 ---
 

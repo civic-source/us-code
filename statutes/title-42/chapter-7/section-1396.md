@@ -3,9 +3,9 @@ title: "Section 1396 - Medicaid and CHIP Payment and Access Commission"
 usc_title: 42
 usc_section: "1396"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 1396"
-generated_at: "2026-03-30T04:17:41.674Z"
+generated_at: "2026-03-30T04:19:55.970Z"
 status: "active"
 ---
 

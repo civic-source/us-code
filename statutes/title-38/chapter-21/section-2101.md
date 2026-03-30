@@ -3,9 +3,9 @@ title: "Section 2101 - Acquisition and adaptation of housing: eligible veterans"
 usc_title: 38
 usc_section: "2101"
 chapter: 21
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 2101"
-generated_at: "2026-03-30T04:17:24.202Z"
+generated_at: "2026-03-30T04:19:32.580Z"
 status: "active"
 ---
 
@@ -34,8 +34,8 @@ status: "active"
     - **(B)** the proposed housing unit bears a proper relation to the veteran’s present and anticipated income and expenses; and
     - **(C)** the nature and condition of the proposed housing unit are such as to be suitable to the veteran’s needs for dwelling purposes.
   - **(4)**
-    - **(A)** Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2014 .
-    - **(B)** In fiscal year 2014, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+    - **(A)** Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2015 .
+    - **(B)** In each of fiscal years 2014 and 2015, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 - **(b)**
   - **(1)** Subject to paragraph (3), the Secretary shall assist any disabled veteran described in paragraph (2) (other than a veteran who is eligible for assistance under subsection (a))—
     - **(A)** in acquiring such adaptations to such veteran’s residence as are determined by the Secretary to be reasonably necessary because of such disability; or

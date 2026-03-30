@@ -3,9 +3,9 @@ title: "Section 642 - Special rules for credits and deductions"
 usc_title: 26
 usc_section: "642"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 642"
-generated_at: "2026-03-30T04:17:14.559Z"
+generated_at: "2026-03-30T04:19:03.250Z"
 status: "active"
 ---
 
@@ -19,14 +19,14 @@ status: "active"
     - **(B)** A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300.
     - **(C)**
       - **(i)** A qualified disability trust shall be allowed a deduction equal to the exemption amount under section 151(d), determined—
-        - **(I)** by treating such trust as an individual described in section 151(d)(3)(C)(iii), 1 1 See References in Text note below. and
+        - **(I)** by treating such trust as an individual described in section 68(b)(1)(C), and
         - **(II)** by applying section 67(e) (without the reference to section 642(b)) for purposes of determining the adjusted gross income of the trust.
       - **(ii)** For purposes of clause (i), the term “qualified disability trust” means any trust if—
         - **(I)** such trust is a disability trust described in subsection (c)(2)(B)(iv) of section 1917 of the Social Security Act ( 42 U.S.C. 1396p ), and
         - **(II)** all of the beneficiaries of the trust as of the close of the taxable year are determined by the Commissioner of Social Security to have been disabled (within the meaning of section 1614(a)(3) of the Social Security Act, 42 U.S.C. 1382c(a)(3) ) for some portion of such year.
   - **(3)** The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).
 - **(c)**
-  - **(1)** In the case of an estate or trust (other then 2 2 So in original. Probably should be “than”. a trust meeting the specifications of subpart B), there shall be allowed as a deduction in computing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxable year and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.
+  - **(1)** In the case of an estate or trust (other then 1 1 So in original. Probably should be “than”. a trust meeting the specifications of subpart B), there shall be allowed as a deduction in computing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxable year and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.
   - **(2)** In the case of an estate, and in the case of a trust (other than a trust meeting the specifications of subpart B) required by the terms of its governing instrument to set aside amounts which was—
     - **(A)** created on or before October 9, 1969 , if—
       - **(i)** an irrevocable remainder interest is transferred to or for the use of an organization described in section 170(c), or

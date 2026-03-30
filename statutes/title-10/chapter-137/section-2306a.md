@@ -3,9 +3,9 @@ title: "Section 2306a - Cost or pricing data: truth in negotiations"
 usc_title: 10
 usc_section: "2306a"
 chapter: 137
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2306a"
-generated_at: "2026-03-30T04:15:29.905Z"
+generated_at: "2026-03-30T04:18:16.893Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
     - **(B)** the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
   - **(3)**
     - **(A)** The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
-    - **(B)** In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) 1 1 See References in Text note below. of the Office of Federal Procurement Policy Act ( 41 U.S.C. 403(12)(C)(i) ).
+    - **(B)** In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 103(3)(A) of title 41 .
     - **(C)** Nothing in subparagraph (A) shall be construed—
       - **(i)** to limit the applicability of the exception in subparagraph (A) or (C) of paragraph (1) to cost or pricing data on a noncommercial modification of a commercial item; or
       - **(ii)** to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the cost and pricing of noncommercial modifications of such item.

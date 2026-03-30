@@ -1,15 +1,13 @@
 ---
-title: "Section 1909 - Severability"
+title: "Section 1909 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "1909"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1909"
-generated_at: "2026-03-30T04:16:25.402Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.676Z"
+status: "repealed"
 ---
 
-# § 1909. Severability
-
-If any provision of this chapter is declared to be invalid, such declaration shall not affect the validity of any other provision herein.
+# § 1909. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

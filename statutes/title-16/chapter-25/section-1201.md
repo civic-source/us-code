@@ -3,9 +3,9 @@ title: "Section 1201 - Declaration of purposes; Secretary’s cooperation with a
 usc_title: 16
 usc_section: "1201"
 chapter: 25
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1201"
-generated_at: "2026-03-30T04:16:25.345Z"
+generated_at: "2026-03-30T04:18:37.634Z"
 status: "active"
 ---
 

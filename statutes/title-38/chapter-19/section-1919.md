@@ -3,9 +3,9 @@ title: "Section 1919 - National Service Life Insurance appropriation"
 usc_title: 38
 usc_section: "1919"
 chapter: 19
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 1919"
-generated_at: "2026-03-30T04:17:24.193Z"
+generated_at: "2026-03-30T04:19:32.573Z"
 status: "active"
 ---
 

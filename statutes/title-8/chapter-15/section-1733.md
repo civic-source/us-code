@@ -3,9 +3,9 @@ title: "Section 1733 - Terrorist lookout committees"
 usc_title: 8
 usc_section: "1733"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "8 U.S.C. § 1733"
-generated_at: "2026-03-30T04:15:21.495Z"
+generated_at: "2026-03-30T04:18:10.601Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
 - **(c)** The Secretary shall establish rules governing the composition of such committees.
 - **(d)** Each committee established under subsection (a) of this section shall meet at least monthly to share information pertaining to the committee’s purpose as described in subsection (b)(2) of this section.
 - **(e)** Each committee established under subsection (a) of this section shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
-- **(f)** The Secretary of State shall submit a report on a quarterly basis to the appropriate committees of Congress on the status of the committees established under subsection (a) of this section.
+- **(f)**
 - **(g)** There are authorized to be appropriated such sums as may be necessary to implement this section.

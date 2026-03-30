@@ -3,9 +3,9 @@ title: "Section 213 - Exemptions"
 usc_title: 29
 usc_section: "213"
 chapter: 8
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 213"
-generated_at: "2026-03-30T04:17:06.179Z"
+generated_at: "2026-03-30T04:18:56.531Z"
 status: "active"
 ---
 
@@ -26,12 +26,13 @@ status: "active"
   - **(12)** any employee employed as a seaman on a vessel other than an American vessel; or
   - **(13)** , (14) Repealed. Pub. L. 93–259 , §§ 9(b)(1), 23(b)(1), Apr. 8, 1974 , 88 Stat. 63 , 69.
   - **(15)** any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
-  - **(16)** a criminal investigator who is paid availability pay under section 5545a of title 5 ; or
+  - **(16)** a criminal investigator who is paid availability pay under section 5545a of title 5 ;
   - **(17)** any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
     - **(A)** the application of systems analysis techniques and procedures, including consulting with users, to determine hardware, software, or system functional specifications;
     - **(B)** the design, development, documentation, analysis, creation, testing, or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
     - **(C)** the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
     - **(D)** a combination of duties described in subparagraphs (A), (B), and (C) the performance of which requires the same level of skills, and
+  - **(18)** any employee who is a border patrol agent, as defined in section 5550(a) of title 5 .
 - **(b)** The provisions of section 207 of this title shall not apply with respect to—
   - **(1)** any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49 ; or
   - **(2)** any employee of an employer engaged in the operation of a rail carrier subject to part A of subtitle IV of title 49; or

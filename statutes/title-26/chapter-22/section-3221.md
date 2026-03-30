@@ -3,21 +3,16 @@ title: "Section 3221 - Rate of tax"
 usc_title: 26
 usc_section: "3221"
 chapter: 22
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 3221"
-generated_at: "2026-03-30T04:17:14.655Z"
+generated_at: "2026-03-30T04:19:03.333Z"
 status: "active"
 ---
 
 # § 3221. Rate of tax
 
 - **(a)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the applicable percentage of compensation paid during any calendar year by such employer for services rendered to such employer. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3111 for the calendar year.
-- **(b)**
-  - **(1)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the applicable percentage of the compensation paid during any calendar year by such employer for services rendered to such employer.
-  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means—
-    - **(A)** 15.6 percent in the case of compensation paid during 2002,
-    - **(B)** 14.2 percent in the case of compensation paid during 2003, and
-    - **(C)** in the case of compensation paid during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+- **(b)** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the percentage determined under section 3241 for any calendar year of the compensation paid during such calendar year by such employer for services rendered to such employer.
 - **(c)**
   - **(1)** In the case of compensation paid by a qualified employer during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010 , with respect to having a qualified individual in the employer’s employ for services rendered to such qualified employer, the applicable percentage under subsection (a) shall be equal to the rate of tax in effect under section 3111(b) for the calendar year.
   - **(2)** The term “qualified employer” means any employer other than the United States, any State, or any political subdivision thereof, or any instrumentality of the foregoing.

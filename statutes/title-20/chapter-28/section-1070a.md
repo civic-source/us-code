@@ -3,9 +3,9 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T04:16:29.508Z"
+generated_at: "2026-03-30T04:18:34.380Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)**
     - **(A)** The amount of the Federal Pell Grant for a student eligible under this part shall be—
       - **(i)** the maximum Federal Pell Grant, as specified in the last enacted appropriation Act applicable to that award year, plus
-      - **(ii)** the amount of the increase calculated under paragraph (7)(B) for that year, less
+      - **(ii)** the amount of the increase calculated under paragraph (7)(B) for that year 1 1 So in original. Probably should be followed by a comma. except that a student eligible only under 1091(d)(1)(A) 2 2 So in original. Probably should be preceded by “section”. of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B), less
       - **(iii)** an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
     - **(B)** In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title .
   - **(3)** No Federal Pell Grant under this subpart shall exceed the difference between the expected family contribution for a student and the cost of attendance (as defined in section 1087 ll of this title) at the institution at which that student is in attendance. If, with respect to any student, it is determined that the amount of a Federal Pell Grant plus the amount of the expected family contribution for that student exceeds the cost of attendance for that year, the amount of the Federal Pell Grant shall be reduced until the combination of expected family contribution and the amount of the Federal Pell Grant does not exceed the cost of attendance at such institution.

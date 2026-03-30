@@ -3,9 +3,9 @@ title: "Section 324 - Consent of certain tribes; consent of individual Indians"
 usc_title: 25
 usc_section: "324"
 chapter: 8
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 324"
-generated_at: "2026-03-30T04:16:44.914Z"
+generated_at: "2026-03-30T04:18:44.120Z"
 status: "active"
 ---
 

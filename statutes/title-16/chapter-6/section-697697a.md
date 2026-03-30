@@ -3,9 +3,9 @@ title: "Section 697697a - Omitted"
 usc_title: 16
 usc_section: "697697a"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 697697a"
-generated_at: "2026-03-30T04:16:25.289Z"
+generated_at: "2026-03-30T04:18:37.593Z"
 status: "omitted"
 ---
 

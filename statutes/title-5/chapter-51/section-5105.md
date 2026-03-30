@@ -3,9 +3,9 @@ title: "Section 5105 - Standards for classification of positions"
 usc_title: 5
 usc_section: "5105"
 chapter: 51
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 5105"
-generated_at: "2026-03-30T04:15:08.216Z"
+generated_at: "2026-03-30T04:18:07.998Z"
 status: "active"
 ---
 

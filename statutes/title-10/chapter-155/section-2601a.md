@@ -3,16 +3,16 @@ title: "Section 2601a - Direct acceptance of gifts by members of the armed force
 usc_title: 10
 usc_section: "2601a"
 chapter: 155
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2601a"
-generated_at: "2026-03-30T04:15:29.929Z"
+generated_at: "2026-03-30T04:18:16.917Z"
 status: "active"
 ---
 
 # § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families
 
 - **(a)**
-  - **(1)** The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall issue regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
+  - **(1)** The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall prescribe regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
     - **(A)** A member of the armed forces described in subsection (b).
     - **(B)** A civilian employee of the Department of Defense or Coast Guard described in subsection (c).
     - **(C)** The family members of such a member or employee.
@@ -25,5 +25,5 @@ status: "active"
   - **(2)** in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a); or
   - **(3)** under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
 - **(c)** This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001 , incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
-- **(d)** The regulations issued under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
-- **(e)** To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 for injuries or illnesses incurred on or after September 11, 2001 .
+- **(d)** The regulations prescribed under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
+- **(e)** To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011 , for injuries or illnesses incurred on or after September 11, 2001 .

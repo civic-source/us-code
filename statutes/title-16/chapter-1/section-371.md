@@ -3,9 +3,9 @@ title: "Section 371 - Use of free bathhouses limited"
 usc_title: 16
 usc_section: "371"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 371"
-generated_at: "2026-03-30T04:16:25.113Z"
+generated_at: "2026-03-30T04:18:37.474Z"
 status: "active"
 ---
 

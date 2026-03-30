@@ -3,9 +3,9 @@ title: "Section 1440ato1440d - Omitted"
 usc_title: 8
 usc_section: "1440ato1440d"
 chapter: 12
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "8 U.S.C. § 1440ato1440d"
-generated_at: "2026-03-30T04:15:21.487Z"
+generated_at: "2026-03-30T04:18:10.593Z"
 status: "omitted"
 ---
 

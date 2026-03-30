@@ -3,9 +3,9 @@ title: "Section 7512 - Findings"
 usc_title: 20
 usc_section: "7512"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 7512"
-generated_at: "2026-03-30T04:16:29.675Z"
+generated_at: "2026-03-30T04:18:34.518Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ Congress finds the following:
     - **(B)** the American Indian Religious Freedom Act ( 42 U.S.C. 1996 [, 1996a]);
     - **(C)** the National Museum of the American Indian Act ( 20 U.S.C. 80q et seq.);
     - **(D)** the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3001 et seq.);
-    - **(E)** the National Historic Preservation Act ( 16 U.S.C. 470 et seq.);
+    - **(E)** division A of subtitle III of title 54;
     - **(F)** the Native American Languages Act ( 25 U.S.C. 2901 et seq.);
     - **(G)** the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act ( 20 U.S.C. 4401 et seq.);
     - **(H)** the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.); and

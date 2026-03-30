@@ -3,9 +3,9 @@ title: "Section 764 - Specific functions and purposes"
 usc_title: 15
 usc_section: "764"
 chapter: 16
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 764"
-generated_at: "2026-03-30T04:16:10.669Z"
+generated_at: "2026-03-30T04:18:26.811Z"
 status: "active"
 ---
 

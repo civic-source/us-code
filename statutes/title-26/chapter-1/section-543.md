@@ -3,9 +3,9 @@ title: "Section 543 - Personal holding company income"
 usc_title: 26
 usc_section: "543"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 543"
-generated_at: "2026-03-30T04:17:14.554Z"
+generated_at: "2026-03-30T04:19:03.246Z"
 status: "active"
 ---
 
@@ -15,8 +15,9 @@ status: "active"
   - **(1)** Dividends, interest, royalties (other than mineral, oil, or gas royalties or copyright royalties), and annuities. This paragraph shall not apply to—
     - **(A)** interest constituting rent (as defined in subsection (b)(3)),
     - **(B)** interest on amounts set aside in a reserve fund under chapter 533 or 535 of title 46, United States Code,
-    - **(C)** active business computer software royalties (within the meaning of subsection (d)), and
-    - **(D)** interest received by a broker or dealer (within the meaning of section 3(a)(4) or (5) of the Securities and Exchange Act of 1934) in connection with—
+    - **(C)** dividends received by a United States shareholder (as defined in section 951(b)) from a controlled foreign corporation (as defined in section 957(a)),
+    - **(D)** active business computer software royalties (within the meaning of subsection (d)), and
+    - **(E)** interest received by a broker or dealer (within the meaning of section 3(a)(4) or (5) of the Securities and Exchange Act of 1934) in connection with—
       - **(i)** any securities or money market instruments held as property described in section 1221(a)(1),
       - **(ii)** margin accounts, or
       - **(iii)** any financing for a customer secured by securities or money market instruments.

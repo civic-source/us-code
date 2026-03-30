@@ -1,28 +1,13 @@
 ---
-title: "Section 19jj - Definitions"
+title: "Section 19jj - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "19jj"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 19jj"
-generated_at: "2026-03-30T04:16:25.082Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.452Z"
+status: "repealed"
 ---
 
-# § 19jj. Definitions
+# § 19jj. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 
-As used in this subchapter the term:
-
-- **(a)** “Attorney General” means the Attorney General of the United States.
-- **(b)** “Damages” includes the following:
-  - **(1)** Compensation for—
-    - **(A)**
-      - **(i)** the cost of replacing, restoring, or acquiring the equivalent of a park system resource; and
-      - **(ii)** the value of any significant loss of use of a park system resource pending its restoration or replacement or the acquisition of an equivalent resource; or
-    - **(B)** the value of the park system resource in the event the resource cannot be replaced or restored.
-  - **(2)** The cost of damage assessments under section 19jj–2(b) of this title .
-- **(c)** “Response costs” means the costs of actions taken by the Secretary of the Interior to prevent or minimize destruction or loss of or injury to park system resources; or to abate or minimize the imminent risk of such destruction, loss, or injury; or to monitor ongoing effects of incidents causing such destruction, loss, or injury.
-- **(d)** “Park system resource” means any living or non-living resource that is located within the boundaries of a unit of the National Park System, except for resources owned by a non-Federal entity.
-- **(e)** “Regimen” means a water column and submerged lands, up to the high-tide or high-water line.
-- **(f)** “Secretary” means the Secretary of the Interior.
-- **(g)** “Marine or aquatic park system resource” means any living or non-living part of a marine or aquatic regimen within or is a living part of a marine or aquatic regimen within the boundaries of a unit of the National Park System, except for resources owned by a non-Federal entity.

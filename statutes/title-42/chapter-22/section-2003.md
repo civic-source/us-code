@@ -3,9 +3,9 @@ title: "Section 2003 - Regulations"
 usc_title: 42
 usc_section: "2003"
 chapter: 22
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 2003"
-generated_at: "2026-03-30T04:17:41.787Z"
+generated_at: "2026-03-30T04:19:56.099Z"
 status: "active"
 ---
 

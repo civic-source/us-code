@@ -3,9 +3,9 @@ title: "Section 183 - Written history of the House of Representatives"
 usc_title: 2
 usc_section: "183"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 183"
-generated_at: "2026-03-30T04:15:17.484Z"
+generated_at: "2026-03-30T04:18:06.031Z"
 status: "active"
 ---
 
@@ -19,10 +19,10 @@ status: "active"
 - **(c)**
   - **(1)** The Librarian of Congress shall arrange for the printing of the history.
   - **(2)** The printing may be performed—
-    - **(A)** by the Public Printer pursuant to the provisions of chapter 5 of title 44;
+    - **(A)** by the Director of the Government Publishing Office pursuant to the provisions of chapter 5 of title 44;
     - **(B)** under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e), and a publisher in the private sector; or
     - **(C)** under subparagraphs (A) and (B).
   - **(3)** Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
-  - **(4)** To the extent that the history is printed by the Public Printer, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Printing Office’s congressional allotment for printing and binding.
+  - **(4)** To the extent that the history is printed by the Director of the Government Publishing Office, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Publishing Office’s congressional allotment for printing and binding.
 - **(d)** The Librarian of Congress shall make the history available for sale to the public, and shall make available, free of charge, 5 copies to each Member of the House of Representatives and 250 copies to the Senate.
 - **(e)** The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.

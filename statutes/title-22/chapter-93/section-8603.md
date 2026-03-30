@@ -3,9 +3,9 @@ title: "Section 8603 - United States actions to assist in the defense of Israel 
 usc_title: 22
 usc_section: "8603"
 chapter: 93
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 8603"
-generated_at: "2026-03-30T04:17:01.942Z"
+generated_at: "2026-03-30T04:18:49.573Z"
 status: "active"
 ---
 

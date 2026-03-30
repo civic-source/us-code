@@ -3,9 +3,9 @@ title: "Section 1705 - Tidelands, submerged lands, or filled lands"
 usc_title: 48
 usc_section: "1705"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "48 U.S.C. § 1705"
-generated_at: "2026-03-30T04:17:44.981Z"
+generated_at: "2026-03-30T04:20:18.628Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
       - **(iii)** all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after the date of enactment of this Act, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 ( 84 Stat. 1204 ), as amended by section 201 of the Military Construction Act, 1973 ( 86 Stat. 1135 );
       - **(iv)** all submerged lands filled in, built up, or otherwise reclaimed by the United States, before the date of enactment of this Act, for its own use;
       - **(v)** all tracts or parcels of submerged land containing on any part thereof any structures or improvements constructed by the United States;
-      - **(vi)** all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of sections 1, 2, 3, and 4 of title 16;
+      - **(vi)** all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 16 U.S.C. 1 et seq.); 1 1 See References in Text note below.
       - **(vii)** all submerged lands designated by the President within one hundred and twenty days after the date of enactment of this Act;
       - **(viii)** all submerged lands that are within the administrative responsibility of any agency or department of the United States other than the Department of the Interior;
       - **(ix)** all submerged lands lawfully acquired by persons other than the United States through purchase, gift, exchange, or otherwise;

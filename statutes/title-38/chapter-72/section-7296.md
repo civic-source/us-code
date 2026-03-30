@@ -3,9 +3,9 @@ title: "Section 7296 - Retirement of judges"
 usc_title: 38
 usc_section: "7296"
 chapter: 72
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 7296"
-generated_at: "2026-03-30T04:17:24.238Z"
+generated_at: "2026-03-30T04:19:32.611Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The term “Court” means the United States Court of Appeals for Veterans Claims.
   - **(2)** The term “judge” means a judge of the Court.
 - **(b)**
-  - **(1)** A judge who meets the age and service requirements set forth in the following table may retire: And the years of service The judge has as a judge attained age: are at least 65 15 66 14 67 13 68 12 69 11 70 10
+  - **(1)** A judge who meets the age and service requirements set forth in the following table may retire: The judge has attained age: And the years of service as a judge are at least 65 15 66 14 67 13 68 12 69 11 70 10
   - **(2)** A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
   - **(3)** A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 - **(c)**

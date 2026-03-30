@@ -3,9 +3,9 @@ title: "Section 224 - Status of reserve cities under former statutes"
 usc_title: 12
 usc_section: "224"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 224"
-generated_at: "2026-03-30T04:16:05.577Z"
+generated_at: "2026-03-30T04:18:22.682Z"
 status: "active"
 ---
 

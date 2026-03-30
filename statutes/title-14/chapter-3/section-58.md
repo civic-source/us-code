@@ -3,19 +3,22 @@ title: "Section 58 - Centers of expertise for Coast Guard prevention and respons
 usc_title: 14
 usc_section: "58"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 58"
-generated_at: "2026-03-30T04:15:52.713Z"
+generated_at: "2026-03-30T04:18:19.000Z"
 status: "active"
 ---
 
 # § 58. Centers of expertise for Coast Guard prevention and response
 
 - **(a)** The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
-- **(b)** Each center shall—
-  - **(1)** promote and facilitate education, training, and research;
-  - **(2)** develop a repository of information on its missions and specialties; and
-  - **(3)** perform any other missions as the Commandant may specify.
+- **(b)** Any center established under subsection (a) shall—
+  - **(1)** promote, facilitate, and conduct—
+    - **(A)** education;
+    - **(B)** training; and
+    - **(C)** activities authorized under section 93(a)(4);
+  - **(2)** be a repository of information on operations, practices, and resources related to the mission for which the center was established; and
+  - **(3)** perform and support the mission for which the center was established.
 - **(c)** The Commandant may enter into an agreement with an appropriate official of an institution of higher education to—
   - **(1)** provide for joint operation of a center; and
   - **(2)** provide necessary administrative services for a center, including administration and allocation of funds.

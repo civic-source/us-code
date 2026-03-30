@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T04:17:14.552Z"
+generated_at: "2026-03-30T04:19:03.244Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** which meets the other requirements of this subsection.
   - **(2)** A program shall not be treated as a qualified tuition program unless it provides that purchases or contributions may only be made in cash.
   - **(3)** A program shall not be treated as a qualified tuition program unless it provides separate accounting for each designated beneficiary.
-  - **(4)** A program shall not be treated as a qualified tuition program unless it provides that any contributor to, or designated beneficiary under, such program may not directly or indirectly direct the investment of any contributions to the program (or any earnings thereon).
+  - **(4)** A program shall not be treated as a qualified tuition program unless it provides that any contributor to, or designated beneficiary under, such program may, directly or indirectly, direct the investment of any contributions to the program (or any earnings thereon) no more than 2 times in any calendar year.
   - **(5)** A program shall not be treated as a qualified tuition program if it allows any interest in the program or any portion thereof to be used as security for a loan.
   - **(6)** A program shall not be treated as a qualified tuition program unless it provides adequate safeguards to prevent contributions on behalf of a designated beneficiary in excess of those necessary to provide for the qualified higher education expenses of the beneficiary.
 - **(c)**
@@ -82,7 +82,7 @@ status: "active"
     - **(A)** The term “qualified higher education expenses” means—
       - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
       - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance 2 2 So in original. Probably should be followed by “; and”.
-      - **(iii)** expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
+      - **(iii)** expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i) 3 3 See References in Text note. ) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
     - **(B)**
       - **(i)** In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
       - **(ii)** The amount treated as qualified higher education expenses by reason of clause (i) shall not exceed—

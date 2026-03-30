@@ -3,9 +3,9 @@ title: "Section 2932 - Prompt allocation of funds"
 usc_title: 29
 usc_section: "2932"
 chapter: 30
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 2932"
-generated_at: "2026-03-30T04:17:06.269Z"
+generated_at: "2026-03-30T04:18:56.606Z"
 status: "active"
 ---
 

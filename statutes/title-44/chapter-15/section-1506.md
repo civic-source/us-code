@@ -3,15 +3,15 @@ title: "Section 1506 - Administrative Committee of the Federal Register; establi
 usc_title: 44
 usc_section: "1506"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 1506"
-generated_at: "2026-03-30T04:17:26.014Z"
+generated_at: "2026-03-30T04:19:38.082Z"
 status: "active"
 ---
 
 # § 1506. Administrative Committee of the Federal Register; establishment and composition; powers and duties
 
-The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Public Printer or Acting Public Printer. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
+The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Director of the Government Publishing Office or Acting Director of the Government Publishing Office. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
 
   - **(1)** the manner of certification of copies required to be certified under section 1503 of this title , which certification may be permitted to be based upon confirmed communications from outside the District of Columbia;
   - **(2)** the documents which shall be authorized under section 1505(b) of this title to be published in the Federal Register;

@@ -3,9 +3,9 @@ title: "Section 1303 - Operation of corporation"
 usc_title: 29
 usc_section: "1303"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1303"
-generated_at: "2026-03-30T04:17:06.236Z"
+generated_at: "2026-03-30T04:18:56.577Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
       - **(ii)** If the corporation brings the action as a trustee, the applicable date specified in this subparagraph is the date on which the corporation became a trustee with respect to the plan if such date is later than the date described in clause (i).
     - **(C)** In the case of fraud or concealment, the period described in subparagraph (A)(ii) shall be extended to 6 years after the applicable date specified in subparagraph (B).
 - **(f)**
-  - **(1)** Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a fiduciary, employer, contributing sponsor, member of a contributing sponsor’s controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
+  - **(1)** Except with respect to withdrawal liability disputes under part 1 of subtitle E of this subchapter, any person who is a plan sponsor, fiduciary, employer, contributing sponsor, member of a contributing sponsor’s controlled group, participant, or beneficiary, and is adversely affected by any action of the corporation with respect to a plan in which such person has an interest, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action against the corporation for appropriate equitable relief in the appropriate court.
   - **(2)** For purposes of this subsection, the term “appropriate court” means—
     - **(A)** the United States district court before which proceedings under section 1341 or 1342 of this title are being conducted,
     - **(B)** if no such proceedings are being conducted, the United States district court for the judicial district in which the plan has its principal office, or

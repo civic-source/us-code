@@ -3,9 +3,9 @@ title: "Section 8301 - Findings; statement of purposes"
 usc_title: 42
 usc_section: "8301"
 chapter: 92
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 8301"
-generated_at: "2026-03-30T04:17:42.018Z"
+generated_at: "2026-03-30T04:19:56.354Z"
 status: "active"
 ---
 

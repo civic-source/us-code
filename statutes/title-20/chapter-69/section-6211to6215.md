@@ -3,9 +3,9 @@ title: "Section 6211to6215 - Omitted"
 usc_title: 20
 usc_section: "6211to6215"
 chapter: 69
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 6211to6215"
-generated_at: "2026-03-30T04:16:29.626Z"
+generated_at: "2026-03-30T04:18:34.476Z"
 status: "omitted"
 ---
 

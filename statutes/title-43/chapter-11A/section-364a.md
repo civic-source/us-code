@@ -3,13 +3,13 @@ title: "Section 364a - Board on Geographic Names; establishment and membership; 
 usc_title: 43
 usc_section: "364a"
 chapter: 11
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "43 U.S.C. § 364a"
-generated_at: "2026-03-30T04:17:28.098Z"
+generated_at: "2026-03-30T04:19:38.252Z"
 status: "active"
 ---
 
 # § 364a. Board on Geographic Names; establishment and membership; appointment and term of office
 
-There is established a Board on Geographic Names, hereinafter called the Board. The membership of the Board shall include one representative from each of the Departments of State, Defense, Interior, Agriculture, and Commerce, and from the Government Printing Office, the United States Postal Service, and the Library of Congress. The Board may also include representatives from such Federal agencies as the Secretary, upon recommendation of the Board, shall from time to time find desirable, even though these agencies are in the departments otherwise represented on the Board. The members of the Board shall be appointed by the respective heads of the departments or independent agencies that they represent. Each member shall be appointed for a two-year term but may be reappointed to successive terms. The members of the Board shall serve without additional compensation. The Board shall nominate a Chairman to be appointed by the Secretary, and shall establish such working committees as are found desirable.
+There is established a Board on Geographic Names, hereinafter called the Board. The membership of the Board shall include one representative from each of the Departments of State, Defense, Interior, Agriculture, and Commerce, and from the Government Publishing Office, the United States Postal Service, and the Library of Congress. The Board may also include representatives from such Federal agencies as the Secretary, upon recommendation of the Board, shall from time to time find desirable, even though these agencies are in the departments otherwise represented on the Board. The members of the Board shall be appointed by the respective heads of the departments or independent agencies that they represent. Each member shall be appointed for a two-year term but may be reappointed to successive terms. The members of the Board shall serve without additional compensation. The Board shall nominate a Chairman to be appointed by the Secretary, and shall establish such working committees as are found desirable.
 

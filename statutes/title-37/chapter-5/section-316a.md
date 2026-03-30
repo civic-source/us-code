@@ -3,9 +3,9 @@ title: "Section 316a - Special pay: incentive pay for members of precommissionin
 usc_title: 37
 usc_section: "316a"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "37 U.S.C. § 316a"
-generated_at: "2026-03-30T04:17:22.066Z"
+generated_at: "2026-03-30T04:19:29.371Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
   - **(3)** The aggregate amount recouped under section 303a(e) of this title in connection with receipt of incentive pay under this section.
   - **(4)** The languages for which incentive pay was paid under this section, including the total amount paid for each such language.
   - **(5)** The effectiveness of incentive pay under this section in assisting the Department of Defense in securing proficiency in foreign languages of strategic interest to the Department of Defense, including a description of how recipients of pay under this section are assigned and utilized following completion of the program of study.
-- **(g)** No incentive pay may be paid under this section after December 31, 2014 .
+- **(g)** No incentive pay may be paid under this section after December 31, 2015 .

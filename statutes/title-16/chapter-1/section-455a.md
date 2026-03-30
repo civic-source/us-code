@@ -1,15 +1,13 @@
 ---
-title: "Section 455a - Report to Congress"
+title: "Section 455a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "455a"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 455a"
-generated_at: "2026-03-30T04:16:25.170Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.516Z"
+status: "repealed"
 ---
 
-# § 455a. Report to Congress
-
-Annually after December 1, 1926 , the Secretary of the Army shall submit through the President to Congress a detailed report of progress made under sections 455 to 455c of this title, together with his recommendations for further operations.
+# § 455a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

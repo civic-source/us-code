@@ -3,9 +3,9 @@ title: "Section 421 - Funds for foreign cryptologic support"
 usc_title: 10
 usc_section: "421"
 chapter: 21
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 421"
-generated_at: "2026-03-30T04:15:29.828Z"
+generated_at: "2026-03-30T04:18:16.818Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(1)** no such funds may be expended, in whole or in part, by or for the benefit of the Department of Defense for a purpose for which Congress had previously denied funds; and
   - **(2)** proceeds from the sale of cryptologic items may be used only to purchase replacement items similar to the items that are sold; and
   - **(3)** the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
-- **(c)** Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ( 50 U.S.C. 413 et seq.). 1 1 See References in Text note below. Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
+- **(c)** Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.

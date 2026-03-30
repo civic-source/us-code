@@ -3,9 +3,9 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-30T04:17:14.437Z"
+generated_at: "2026-03-30T04:19:03.150Z"
 status: "active"
 ---
 
@@ -69,9 +69,9 @@ status: "active"
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
     - **(B)** The amounts described in this subparagraph are—
       - **(i)** each of the dollar amounts contained in subsection (b)(1)(A)(i),
-      - **(ii)** each of the dollar amounts contained in paragraph (1), and
+      - **(ii)** each of the dollar amounts contained in subparagraphs (A), (B), and (D) of paragraph (1), and
       - **(iii)** each of the dollar amounts in subparagraphs (A) and (B) of paragraph (3).
-    - **(C)** Any increase determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
+    - **(C)** Any increased amount determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
 - **(e)**
   - **(1)**
     - **(A)** The tentative minimum tax of a corporation shall be zero for any taxable year if the corporation’s average annual gross receipts for all 3-taxable-year periods ending before such taxable year does not exceed $7,500,000. For purposes of the preceding sentence, only taxable years beginning after December 31, 1993 , shall be taken into account.

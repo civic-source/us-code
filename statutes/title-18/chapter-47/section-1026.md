@@ -3,9 +3,9 @@ title: "Section 1026 - Compromise, adjustment, or cancellation of farm indebtedn
 usc_title: 18
 usc_section: "1026"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 1026"
-generated_at: "2026-03-30T04:16:18.669Z"
+generated_at: "2026-03-30T04:18:30.722Z"
 status: "active"
 ---
 

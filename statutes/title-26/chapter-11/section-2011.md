@@ -1,32 +1,13 @@
 ---
-title: "Section 2011 - Credit for State death taxes"
+title: "Section 2011 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(i) , Dec. 19, 2014 , 128 Stat. 4051 ]"
 usc_title: 26
 usc_section: "2011"
 chapter: 11
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 2011"
-generated_at: "2026-03-30T04:17:14.639Z"
-status: "active"
+generated_at: "2026-03-30T04:19:03.316Z"
+status: "repealed"
 ---
 
-# § 2011. Credit for State death taxes
+# [§ 2011. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(i) , Dec. 19, 2014 , 128 Stat. 4051 ]
 
-- **(a)** The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any State or the District of Columbia, in respect of any property included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent).
-- **(b)**
-  - **(1)** Except as provided in paragraph (2), the credit allowed by this section shall not exceed the appropriate amount stated in the following table: If the adjusted taxable estate is: The maximum tax credit shall be: Not over $90,000 8 ⁄ 10 ths of 1% of the amount by which the adjusted taxable estate exceeds $40,000. Over $90,000 but not over $140,000 $400 plus 1.6% of the excess over $90,000. Over $140,000 but not over $240,000 $1,200 plus 2.4% of the excess over $140,000. Over $240,000 but not over $440,000 $3,600 plus 3.2% of the excess over $240,000. Over $440,000 but not over $640,000 $10,000 plus 4% of the excess over $440,000. Over $640,000 but not over $840,000 $18,000 plus 4.8% of the excess over $640,000. Over $840,000 but not over $1,040,000 $27,600 plus 5.6% of the excess over $840,000. Over $1,040,000 but not over $1,540,000 $38,800 plus 6.4% of the excess over $1,040,000. Over $1,540,000 but not over $2,040,000 $70,800 plus 7.2% of the excess over $1,540,000. Over $2,040,000 but not over $2,540,000 $106,800 plus 8% of the excess over $2,040,000. Over $2,540,000 but not over $3,040,000 $146,800 plus 8.8% of the excess over $2,540,000 Over $3,040,000 but not over $3,540,000 $190,800 plus 9.6% of the excess over $3,040,000. Over $3,540,000 but not over $4,040,000 $238,800 plus 10.4% of the excess over $3,540,000. Over $4,040,000 but not over $5,040,000 $290,800 plus 11.2% of the excess over $4,040,000. Over $5,040,000 but not over $6,040,000 $402,800 plus 12% of the excess over $5,040,000. Over $6,040,000 but not over $7,040,000 $522,800 plus 12.8% of the excess over $6,040,000. Over $7,040,000 but not over $8,040,000 $650,800 plus 13.6% of the excess over $7,040,000. Over $8,040,000 but not over $9,040,000 $786,800 plus 14.4% of the excess over $8,040,000. Over $9,040,000 but not over $10,040,000 $930,800 plus 15.2% of the excess over $9,040,000. Over $10,040,000 $1,082,800 plus 16% of the excess over $10,040,000.
-  - **(2)**
-    - **(A)** In the case of estates of decedents dying after December 31, 2001 , the credit allowed by this section shall not exceed the applicable percentage of the credit otherwise determined under paragraph (1).
-    - **(B)** In the case of estates of decedents dying during: The applicable percentage is: 2002 75 percent 2003 50 percent 2004 25 percent.
-  - **(3)** For purposes of this section, the term “adjusted taxable estate” means the taxable estate reduced by $60,000.
-- **(c)** The credit allowed by this section shall include only such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
-  - **(1)** If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
-  - **(2)** If, under section 6161 or 6166, an extension of time has been granted for payment of the tax shown on the return, or of a deficiency, then within such 4-year period or before the date of the expiration of the period of the extension.
-  - **(3)** If a claim for refund or credit of an overpayment of tax imposed by this chapter has been filed within the time prescribed in section 6511, then within such 4-year period or before the expiration of 60 days from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of any part of such claim, or before the expiration of 60 days after a decision by any court of competent jurisdiction becomes final with respect to a timely suit instituted upon such claim, whichever is later.
-- **(d)** In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by a State or the District of Columbia upon a transfer for public, charitable, or religious uses described in section 2055 or 2106(a)(2), the allowance of the credit under this section shall be subject to the following conditions and limitations:
-  - **(1)** The taxes described in subsection (a) shall not include any estate, succession, legacy, or inheritance tax for which such deduction is allowed under section 2053(d).
-  - **(2)** The credit shall not exceed the lesser of—
-    - **(A)** the amount stated in subsection (b) on an adjusted taxable estate determined by allowing such deduction authorized by section 2053(d), or
-    - **(B)** that proportion of the amount stated in subsection (b) on an adjusted taxable estate determined without regard to such deduction authorized by section 2053(d) as (i) the amount of the taxes described in subsection (a), as limited by the provisions of paragraph (1) of this subsection, bears to (ii) the amount of the taxes described in subsection (a) before applying the limitation contained in paragraph (1) of this subsection.
-  - **(3)** If the amount determined under subparagraph (B) of paragraph (2) is less than the amount determined under subparagraph (A) of that paragraph, then for purposes of subsection (d) such lesser amount shall be the maximum credit provided by subsection (b).
-- **(e)** The credit provided by this section shall not exceed the amount of the tax imposed by section 2001, reduced by the amount of the unified credit provided by section 2010.
-- **(f)** This section shall not apply to the estates of decedents dying after December 31, 2004 .

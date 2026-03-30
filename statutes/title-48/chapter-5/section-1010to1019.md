@@ -3,9 +3,9 @@ title: "Section 1010to1019 - Omitted"
 usc_title: 48
 usc_section: "1010to1019"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "48 U.S.C. § 1010to1019"
-generated_at: "2026-03-30T04:17:44.970Z"
+generated_at: "2026-03-30T04:20:18.617Z"
 status: "omitted"
 ---
 

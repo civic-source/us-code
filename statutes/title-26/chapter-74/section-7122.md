@@ -3,9 +3,9 @@ title: "Section 7122 - Compromises"
 usc_title: 26
 usc_section: "7122"
 chapter: 74
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 7122"
-generated_at: "2026-03-30T04:17:14.753Z"
+generated_at: "2026-03-30T04:19:03.411Z"
 status: "active"
 ---
 
@@ -43,4 +43,4 @@ status: "active"
   - **(1)** for an independent administrative review of any rejection of a proposed offer-in-compromise or installment agreement made by a taxpayer under this section or section 6159 before such rejection is communicated to the taxpayer; and
   - **(2)** which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Office of Appeals.
 - **(f)** Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
-- **(f)** Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
+- **(g)** Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.

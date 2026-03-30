@@ -3,9 +3,9 @@ title: "Section 16274 - University nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-30T04:17:42.196Z"
+generated_at: "2026-03-30T04:19:56.552Z"
 status: "active"
 ---
 

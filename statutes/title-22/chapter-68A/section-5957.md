@@ -1,18 +1,13 @@
 ---
-title: "Section 5957 - “Appropriate congressional committees” defined"
+title: "Section 5957 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607"
 usc_title: 22
 usc_section: "5957"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 5957"
-generated_at: "2026-03-30T04:17:01.899Z"
-status: "active"
+generated_at: "2026-03-30T04:18:49.535Z"
+status: "repealed"
 ---
 
-# § 5957. “Appropriate congressional committees” defined
+# § 5957. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607
 
-In this chapter, the term “appropriate congressional committees” means—
-
-  - **(1)** the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account, budget activity, or program is funded from appropriations made under the international affairs budget function (150);
-  - **(2)** the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
-  - **(3)** the committee to which the specified activities of section 5952 of this title , if the subject of separate legislation, would be referred under the rules of the respective House of Congress.

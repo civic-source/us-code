@@ -3,9 +3,9 @@ title: "Section 1734 - State suits under Federal law"
 usc_title: 30
 usc_section: "1734"
 chapter: 29
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1734"
-generated_at: "2026-03-30T04:17:04.634Z"
+generated_at: "2026-03-30T04:18:52.688Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
   - **(4)** A court in issuing any final order in any action brought under paragraph (1) may award costs of litigation including reasonable attorney and expert witness fees, to any party in such action if the court determines such an award is appropriate.
 - **(b)** An action brought under subsection (a) of this section may be brought only in a United States district court for the judicial district in which the lease site or the leasing activity complained of is located. Such district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to require compliance or order payment in any such action.
 - **(c)**
-  - **(1)** Notwithstanding any other provision of law, any civil penalty recovered by a State under subsection (a) of this section shall be retained by the State and may be expended in such manner and for such purposes as the State deems appropriate.
-  - **(2)** Any rent, royalty, or interest recovered by a State under subsection (a) of this section shall be deposited in the Treasury of the United States in the same manner, and subject to the same requirements, as are applicable in the case of any rent, royalty, or interest collected by an officer or employee of the United States, except that such amounts shall be deposited in the Treasury not later than 10 days after receipt by the State.
+  - **(1)** Notwithstanding any other provision of law, any civil penalty recovered by a State under subsection (a) shall be retained by the State and may be expended in such manner and for such purposes as the State deems appropriate.
+  - **(2)** Any rent, royalty, or interest recovered by a State under subsection (a) shall be deposited in the Treasury of the United States in the same manner, and subject to the same requirements, as are applicable in the case of any rent, royalty, or interest collected by an officer or employee of the United States, except that such amounts shall be deposited in the Treasury not later than 10 days after receipt by the State.

@@ -3,9 +3,9 @@ title: "Section 6073 - Repealed. Pub. L. 98–369, div. A, title IV, § 412(a)(2
 usc_title: 26
 usc_section: "6073"
 chapter: 61
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6073"
-generated_at: "2026-03-30T04:17:14.716Z"
+generated_at: "2026-03-30T04:19:03.380Z"
 status: "repealed"
 ---
 

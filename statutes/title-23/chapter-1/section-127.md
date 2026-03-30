@@ -3,9 +3,9 @@ title: "Section 127 - Vehicle weight limitations—Interstate System"
 usc_title: 23
 usc_section: "127"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "23 U.S.C. § 127"
-generated_at: "2026-03-30T04:16:48.051Z"
+generated_at: "2026-03-30T04:18:42.334Z"
 status: "active"
 ---
 
@@ -64,3 +64,10 @@ status: "active"
     - **(B)** the permits are issued in accordance with State law; and
     - **(C)** the permits are issued exclusively to vehicles and loads that are delivering relief supplies.
   - **(2)** A permit issued under paragraph (1) shall expire not later than 120 days after the date of the declaration of emergency under subparagraph (A) of that paragraph.
+- **(j)** If any segment of the United States Route 41 corridor, as described in section 1105(c)(57) of the Intermodal Surface Transportation Efficiency Act of 1991, is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+- **(k)** If any segment of United States Route 78 in Mississippi from mile marker 0 to mile marker 113 is designated as part of the Interstate System, no limit established under this section may apply to that segment with respect to the operation of any vehicle that could have legally operated on that segment before such designation.
+- **(l)**
+  - **(1)** If any segment of highway described in paragraph (2) is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+  - **(2)** The highway segments referred to in paragraph (1) are as follows:
+    - **(A)** Interstate Route 69 in Kentucky (formerly the Wendell H. Ford (Western Kentucky) Parkway) from the Interstate Route 24 Interchange, near Eddyville, to the Edward T. Breathitt (Pennyrile) Parkway Interchange.
+    - **(B)** The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.

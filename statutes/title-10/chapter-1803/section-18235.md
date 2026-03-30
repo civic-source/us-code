@@ -3,9 +3,9 @@ title: "Section 18235 - Administration; other use permitted by Secretary"
 usc_title: 10
 usc_section: "18235"
 chapter: 1803
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 18235"
-generated_at: "2026-03-30T04:15:29.997Z"
+generated_at: "2026-03-30T04:18:16.983Z"
 status: "active"
 ---
 

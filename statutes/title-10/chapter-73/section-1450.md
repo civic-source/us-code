@@ -3,9 +3,9 @@ title: "Section 1450 - Payment of annuity: beneficiaries"
 usc_title: 10
 usc_section: "1450"
 chapter: 73
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1450"
-generated_at: "2026-03-30T04:15:29.877Z"
+generated_at: "2026-03-30T04:18:16.866Z"
 status: "active"
 ---
 
@@ -15,7 +15,8 @@ status: "active"
   - **(1)** The eligible surviving spouse or the eligible former spouse.
   - **(2)** The surviving dependent children in equal shares, if the eligible surviving spouse or the eligible former spouse is dead, dies, or otherwise becomes ineligible under this section.
   - **(3)** The dependent children in equal shares if the person to whom section 1448 of this title applies (with the concurrence of the person’s spouse, if required under section 1448(a)(3) of this title ) elected to provide an annuity for dependent children but not for the spouse or former spouse.
-  - **(4)** The natural person designated under section 1448(b)(1) of this title , unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
+  - **(4)** Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ( 42 U.S.C. 1396p(d)(4) ) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ( 42 U.S.C. 1382c(a)(3) ) who is incapable of self-support because of mental or physical incapacity.
+  - **(5)** The natural person designated under section 1448(b)(1) of this title , unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
 - **(b)**
   - **(1)** An annuity payable to the beneficiary terminates effective as of the first day of the month in which eligibility is lost.
   - **(2)** An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or former spouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
@@ -62,7 +63,7 @@ status: "active"
     - **(A)** a revocation of an election under section 1449(b) of this title ; or
     - **(B)** a change in an election under subsection (f).
 - **(h)** Except as provided in section 1451 of this title , an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
-- **(i)** Except as provided in subsection ( l )(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+- **(i)** Except as provided in subsection (a)(4) or ( l )(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 - **(j)**
   - **(1)** A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.
   - **(2)** An annuity payable under section 1448(f) of this title shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.

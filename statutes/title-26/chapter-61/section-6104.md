@@ -3,9 +3,9 @@ title: "Section 6104 - Publicity of information required from certain exempt org
 usc_title: 26
 usc_section: "6104"
 chapter: 61
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6104"
-generated_at: "2026-03-30T04:17:14.721Z"
+generated_at: "2026-03-30T04:19:03.384Z"
 status: "active"
 ---
 
@@ -69,6 +69,6 @@ status: "active"
     - **(B)** Paragraph (1) shall not require the disclosure of any information if the Secretary withheld such information from public inspection under subsection (a)(1)(D).
   - **(4)** Paragraph (1)(B) shall not apply to any request if, in accordance with regulations promulgated by the Secretary, the organization has made the requested documents widely available, or the Secretary determines, upon application by an organization, that such request is part of a harassment campaign and that compliance with such request is not in the public interest.
   - **(5)** For purposes of paragraph (1), the term “exempt status application materials” means the application for recognition of exemption under section 501 and any papers submitted in support of such application and any letter or other document issued by the Internal Revenue Service with respect to such application.
-  - **(6)** The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
   - **(6)** For purposes of paragraph (1), the term “notice materials” means the notice of status filed under section 527(i) and any papers submitted in support of such notice and any letter or other document issued by the Internal Revenue Service with respect to such notice.
-  - **(6)** Any report filed by an organization under section 527(j) (relating to required disclosure of expenditures and contributions) shall be made available to the public at such times and in such places as the Secretary may prescribe.
+  - **(7)** Any report filed by an organization under section 527(j) (relating to required disclosure of expenditures and contributions) shall be made available to the public at such times and in such places as the Secretary may prescribe.
+  - **(8)** The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).

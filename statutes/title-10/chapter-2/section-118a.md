@@ -3,9 +3,9 @@ title: "Section 118a - Quadrennial quality of life review"
 usc_title: 10
 usc_section: "118a"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 118a"
-generated_at: "2026-03-30T04:15:29.816Z"
+generated_at: "2026-03-30T04:18:16.807Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the “quadrennial quality of life review”). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.
   - **(2)** The quadrennial quality of life review shall be designed to result in determinations, and to foster policies and actions, that reflect the priority given the quality of life of members of the armed forces as a primary concern of the Department of Defense leadership.
 - **(b)** Each quadrennial quality of life review shall be conducted so as—
-  - **(1)** to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ); 1 1 See References in Text note below.
+  - **(1)** to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 );
   - **(2)** to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
   - **(3)** to identify other actions that have the potential for improving the quality of life of the members of the armed forces.
 - **(c)** The Secretary shall consider addressing the following matters as part of the quadrennial quality of life review:

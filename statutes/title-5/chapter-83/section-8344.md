@@ -3,9 +3,9 @@ title: "Section 8344 - Annuities and pay on reemployment"
 usc_title: 5
 usc_section: "8344"
 chapter: 83
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 8344"
-generated_at: "2026-03-30T04:15:08.249Z"
+generated_at: "2026-03-30T04:18:08.030Z"
 status: "active"
 ---
 
@@ -89,7 +89,7 @@ status: "active"
   - **(6)**
     - **(A)** Any hours of training or mentoring of employees by any limited time appointee employed under this subsection shall not be included in the hours of service performed for purposes of paragraph (3), but those hours of training or mentoring may not exceed 520 hours.
     - **(B)** If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
-  - **(7)** The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate 5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010.
+  - **(7)** The authority of the head of an agency under this subsection to waive the application of subsection (a) or (b) shall terminate on December 31, 2019 .
 - **(m)**
   - **(1)** For the purpose of subsections (i) through ( l ), “Executive agency” shall not include the Government Accountability Office.
   - **(2)** An employee as to whom a waiver under subsection (i), (j), (k), or ( l ) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.

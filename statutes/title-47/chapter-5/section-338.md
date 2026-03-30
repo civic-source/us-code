@@ -3,9 +3,9 @@ title: "Section 338 - Carriage of local television signals by satellite carriers
 usc_title: 47
 usc_section: "338"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "47 U.S.C. § 338"
-generated_at: "2026-03-30T04:17:45.812Z"
+generated_at: "2026-03-30T04:20:10.325Z"
 status: "active"
 ---
 

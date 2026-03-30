@@ -3,9 +3,9 @@ title: "Section 544l - Implementation measures"
 usc_title: 16
 usc_section: "544l"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 544l"
-generated_at: "2026-03-30T04:16:25.261Z"
+generated_at: "2026-03-30T04:18:37.572Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(D)** Any of the following actions or projects, but only if the making available of expenditures or assistance therefor is consistent with the standards in section 544d(b) of this title and the purposes of sections 544 to 544p of this title:
       - **(i)** Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including, but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
       - **(ii)** The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
-      - **(iii)** Projects under the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 through 11) and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
+      - **(iii)** Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.).
       - **(iv)** Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
       - **(v)** Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 ( 42 U.S.C. 5145 and 5146) 2 2 See References in Text note below. and section 1362 of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4103 ) 2 and are limited to actions that are necessary to alleviate the emergency.
       - **(vi)** The maintenance, replacement, reconstruction, or repair, but not the expansion, of publicly owned or publicly operated roads, structures, or facilities. This clause shall not apply to roads, structures, or facilities referred to in paragraph (3)(B).

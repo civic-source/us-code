@@ -3,9 +3,9 @@ title: "Section 616 - Administration"
 usc_title: 42
 usc_section: "616"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 616"
-generated_at: "2026-03-30T04:17:41.534Z"
+generated_at: "2026-03-30T04:19:55.809Z"
 status: "active"
 ---
 

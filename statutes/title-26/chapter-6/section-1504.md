@@ -3,9 +3,9 @@ title: "Section 1504 - Definitions"
 usc_title: 26
 usc_section: "1504"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 1504"
-generated_at: "2026-03-30T04:17:14.638Z"
+generated_at: "2026-03-30T04:19:03.314Z"
 status: "active"
 ---
 
@@ -22,8 +22,8 @@ status: "active"
     - **(B)** has a value equal to at least 80 percent of the total value of the stock of such corporation.
   - **(3)**
     - **(A)** If—
-      - **(i)** a corporation is included (or required to be included) in a consolidated return filed by an affiliated group for a taxable year which includes any period after December 31, 1984 , and
-      - **(ii)** such corporation ceases to be a member of such group in a taxable year beginning after December 31, 1984 ,
+      - **(i)** a corporation is included (or required to be included) in a consolidated return filed by an affiliated group, and
+      - **(ii)** such corporation ceases to be a member of such group,
     - **(B)** The Secretary may waive the application of subparagraph (A) to any corporation for any period subject to such conditions as the Secretary may prescribe.
   - **(4)** For purposes of this subsection, the term “stock” does not include any stock which—
     - **(A)** is not entitled to vote,

@@ -3,9 +3,9 @@ title: "Section 5991to5995 - Repealed. Pub. L. 108–447, div. J, title VIII, §
 usc_title: 16
 usc_section: "5991to5995"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5991to5995"
-generated_at: "2026-03-30T04:16:25.470Z"
+generated_at: "2026-03-30T04:18:37.722Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2411 - Definitions"
 usc_title: 10
 usc_section: "2411"
 chapter: 142
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2411"
-generated_at: "2026-03-30T04:15:29.918Z"
+generated_at: "2026-03-30T04:18:16.906Z"
 status: "active"
 ---
 

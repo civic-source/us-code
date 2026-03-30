@@ -3,9 +3,9 @@ title: "Section 75bto75e - Omitted"
 usc_title: 2
 usc_section: "75bto75e"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 75bto75e"
-generated_at: "2026-03-30T04:15:17.478Z"
+generated_at: "2026-03-30T04:18:06.024Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 535 - Accumulated taxable income"
 usc_title: 26
 usc_section: "535"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 535"
-generated_at: "2026-03-30T04:17:14.553Z"
+generated_at: "2026-03-30T04:19:03.245Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** For purposes of this subtitle, the term “accumulated taxable income” means the taxable income, adjusted in the manner provided in subsection (b), minus the sum of the dividends paid deduction (as defined in section 561) and the accumulated earnings credit (as defined in subsection (c)).
 - **(b)** For purposes of subsection (a), taxable income shall be adjusted as follows:
-  - **(1)** There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
+  - **(1)** There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
   - **(2)** The deduction for charitable contributions provided under section 170 shall be allowed without regard to section 170(b)(2).
   - **(3)** The special deductions for corporations provided in part VIII (except section 248) of subchapter B (section 241 and following, relating to the deduction for dividends received by corporations, etc.) shall not be allowed.
   - **(4)** The net operating loss deduction provided in section 172 shall not be allowed.

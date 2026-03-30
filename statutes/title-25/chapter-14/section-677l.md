@@ -3,9 +3,9 @@ title: "Section 677l - Distribution to individual members of mixed-blood group; 
 usc_title: 25
 usc_section: "677l"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 677l"
-generated_at: "2026-03-30T04:16:44.947Z"
+generated_at: "2026-03-30T04:18:44.146Z"
 status: "active"
 ---
 

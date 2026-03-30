@@ -3,9 +3,9 @@ title: "Section 13 - Laws of States adopted for areas within Federal jurisdictio
 usc_title: 18
 usc_section: "13"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 13"
-generated_at: "2026-03-30T04:16:18.636Z"
+generated_at: "2026-03-30T04:18:30.699Z"
 status: "active"
 ---
 

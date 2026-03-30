@@ -3,9 +3,9 @@ title: "Section 2703 - Loans for project costs"
 usc_title: 16
 usc_section: "2703"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 2703"
-generated_at: "2026-03-30T04:16:25.415Z"
+generated_at: "2026-03-30T04:18:37.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9334 - Command and supervision"
 usc_title: 10
 usc_section: "9334"
 chapter: 903
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 9334"
-generated_at: "2026-03-30T04:15:29.976Z"
+generated_at: "2026-03-30T04:18:16.963Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6331 - Levy and distraint"
 usc_title: 26
 usc_section: "6331"
 chapter: 64
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6331"
-generated_at: "2026-03-30T04:17:14.733Z"
+generated_at: "2026-03-30T04:19:03.394Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
     - **(A)** any Federal payment other than a payment for which eligibility is based on the income or assets (or both) of a payee,
     - **(B)** any payment described in paragraph (4), (7), (9), or (11) of section 6334(a), and
     - **(C)** any annuity or pension payment under the Railroad Retirement Act or benefit under the Railroad Unemployment Insurance Act.
-  - **(3)** Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government.
+  - **(3)** Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “30 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
 - **(i)**
   - **(1)** No levy may be made under subsection (a) on the property or rights to property of any person with respect to any unpaid divisible tax during the pendency of any proceeding brought by such person in a proper Federal trial court for the recovery of any portion of such divisible tax which was paid by such person if—
     - **(A)** the decision in such proceeding would be res judicata with respect to such unpaid tax; or

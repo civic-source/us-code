@@ -3,9 +3,9 @@ title: "Section 1729 - Recovery by the United States of the cost of certain care
 usc_title: 38
 usc_section: "1729"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 1729"
-generated_at: "2026-03-30T04:17:24.188Z"
+generated_at: "2026-03-30T04:19:32.571Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(D)** that is incurred by a veteran—
       - **(i)** who does not have a service-connected disability; and
       - **(ii)** who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
-    - **(E)** for which care and services are furnished before October 1, 2014 , under this chapter to a veteran who—
+    - **(E)** for which care and services are furnished before October 1, 2015 , under this chapter to a veteran who—
       - **(i)** has a service-connected disability; and
       - **(ii)** is entitled to care (or payment of the expenses of care) under a health-plan contract.
   - **(3)** In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the veteran—

@@ -3,9 +3,9 @@ title: "Section 262r - Annual report by Chairman of National Advisory Council on
 usc_title: 22
 usc_section: "262r"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 262r"
-generated_at: "2026-03-30T04:17:01.752Z"
+generated_at: "2026-03-30T04:18:49.408Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(6)** the report required by section 2018(c) of the International Narcotics Act of 1986 (title II of Public Law 99–570 ), discussing the actions taken and progress made in encouraging the multilateral development banks to finance drug eradication and crop substitution programs;
   - **(7)** a description of the progress made by the United States Executive Director of the International Monetary Fund with respect to the goals of section 286kk of this title ;
   - **(8)** a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
-  - **(9)** in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title ), including the information required to be reported pursuant to section 262d(c) of this title , and, for the fiscal year 1990, the report described in section 262p–4h of this title ;
+  - **(9)** in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title ), including the information required to be reported pursuant to section 262d(c) 1 1 See References in Text note below. of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title ;
   - **(10)** in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
   - **(11)** a report on—
     - **(A)** the progress made in transforming government-owned enterprises into privately owned enterprises as described in section 262p–4g(b) of this title ;
@@ -31,7 +31,7 @@ status: "active"
     - **(C)** the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
 - **(c)** As used in this title, title XVIII, and title XIX:
   - **(1)** The term “Chairman” means the Chairman of the National Advisory Council on International Monetary and Financial Policies.
-  - **(2)** The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank 1 1 So in original. Probably should be followed by a comma. Bank for Economic Cooperation and Development in the Middle East and North Africa,, 2 2 So in original. and Inter-American Investment Corporation.
+  - **(2)** The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank 2 2 So in original. Probably should be followed by a comma. Bank for Economic Cooperation and Development in the Middle East and North Africa,, 3 3 So in original. and Inter-American Investment Corporation.
   - **(3)** The term “multilateral development institutions” means the international financial institutions other than the International Monetary Fund.
   - **(4)** The term “multilateral development banks” means the multilateral development institutions other than the Multilateral Investment Guarantee Agency.
 - **(d)** Upon request of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Chairman shall testify before the Committee to support and explain each annual report required by subsection (a) of this section. If the President has delegated to a person or persons other than the Chairman the authority to manage United States participation in the international financial institutions which was vested in the President by section 1(b) of the Reorganization Plan No. 4 of 1965, such person or persons shall, upon request of the Committee, accompany the Chairman and testify before the Committee with regard to such report. The Chairman and such other person or persons shall assess, in their testimony, the effectiveness of the international financial institutions, the major issues affecting United States participation, the major developments in the past year, the prospects for the coming year, United States policy goals with respect to the international financial institutions, and any specific issues addressed to them by any member of the Committee.

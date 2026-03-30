@@ -3,9 +3,9 @@ title: "Section 2275 - Reports on integration of acquisition and capability deli
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-03-30T04:15:29.902Z"
+generated_at: "2026-03-30T04:18:16.891Z"
 status: "active"
 ---
 
@@ -25,8 +25,8 @@ status: "active"
     - **(C)** the risks and challenges that impede the ability of the Department of Defense to fully integrate those schedules.
 - **(c)** The Milestone Decision Authority shall include the report required by subsection (a) with respect to a major satellite acquisition program as part of the documentation used to approve the acquisition of the program.
 - **(d)**
-  - **(1)** In the case of a major satellite acquisition program initiated before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.
-  - **(2)** In the case of a major satellite acquisition program initiated on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
+  - **(1)** In the case of a major satellite acquisition program initiated before January 2, 2013 , the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment. 1 1 See References in Text note below.
+  - **(2)** In the case of a major satellite acquisition program initiated on or after January 2, 2013 , the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
 - **(e)** If, after submitting the report required by subsection (a) with respect to a major satellite acquisition program, the Under Secretary determines that the program is a non-integrated program, the Under Secretary shall, not later than 30 days after making that determination, submit to the congressional defense committees a report—
   - **(1)** notifying the committees of that determination; and
   - **(2)** identifying—

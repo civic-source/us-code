@@ -3,9 +3,9 @@ title: "Section 473 - Application generally"
 usc_title: 25
 usc_section: "473"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 473"
-generated_at: "2026-03-30T04:16:44.932Z"
+generated_at: "2026-03-30T04:18:44.134Z"
 status: "active"
 ---
 

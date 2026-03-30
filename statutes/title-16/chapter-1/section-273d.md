@@ -3,14 +3,14 @@ title: "Section 273d - Administration, protection, and development"
 usc_title: 16
 usc_section: "273d"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 273d"
-generated_at: "2026-03-30T04:16:25.109Z"
+generated_at: "2026-03-30T04:18:37.471Z"
 status: "active"
 ---
 
 # § 273d. Administration, protection, and development
 
-- **(a)** The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+- **(a)** The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title, as amended and supplemented.
 - **(b)** The Secretary shall grant easements and rights-of-way on a nondiscriminatory basis upon, over, under, across, or along any component of the park area unless he finds that the route of such easements and rights-of-way would have significant adverse effects on the administration of the park.
 - **(c)** Within three years from December 18, 1971 , the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act [ 16 U.S.C. 1132 (c) and (d)], his recommendations as to the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act [ 16 U.S.C. 1131 et seq.].

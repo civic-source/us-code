@@ -3,9 +3,9 @@ title: "Section 28 - Parliamentary precedents of House of Representatives"
 usc_title: 2
 usc_section: "28"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 28"
-generated_at: "2026-03-30T04:15:17.475Z"
+generated_at: "2026-03-30T04:18:06.022Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** As so compiled and prepared, such precedents and other materials and index digest shall be printed on pages of such size, and in such type and format, as the Parliamentarian may determine and shall be printed in such numbers and for such distribution as may be provided by law enacted prior to printing.
 - **(c)** For the purpose of carrying out each such compilation and preparation, the Parliamentarian may—
   - **(1)** subject to the approval of the Speaker, appoint (as employees of the House of Representatives) clerical and other personnel and fix their respective rates of pay; and
-  - **(2)** utilize the services of personnel of the Library of Congress and the Government Printing Office.
+  - **(2)** utilize the services of personnel of the Library of Congress and the Government Publishing Office.

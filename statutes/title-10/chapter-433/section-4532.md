@@ -1,15 +1,15 @@
 ---
-title: "Section 4532 - Factories and arsenals: manufacture at; abolition of"
+title: "Section 4532 - Factories and arsenals: manufacture at"
 usc_title: 10
 usc_section: "4532"
 chapter: 433
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 4532"
-generated_at: "2026-03-30T04:15:29.952Z"
+generated_at: "2026-03-30T04:18:16.939Z"
 status: "active"
 ---
 
-# § 4532. Factories and arsenals: manufacture at; abolition of
+# § 4532. Factories and arsenals: manufacture at
 
-- **(a)** The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
-- **(b)** The Secretary may abolish any United States arsenal that he considers unnecessary.
+The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
+

@@ -3,9 +3,9 @@ title: "Section 5511 - National High-Performance Computing Program"
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-03-30T04:16:10.821Z"
+generated_at: "2026-03-30T04:18:26.907Z"
 status: "active"
 ---
 

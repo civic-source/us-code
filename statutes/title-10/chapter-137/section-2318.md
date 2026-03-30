@@ -3,9 +3,9 @@ title: "Section 2318 - Advocates for competition"
 usc_title: 10
 usc_section: "2318"
 chapter: 137
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2318"
-generated_at: "2026-03-30T04:15:29.906Z"
+generated_at: "2026-03-30T04:18:16.896Z"
 status: "active"
 ---
 

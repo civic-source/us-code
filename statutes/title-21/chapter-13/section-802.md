@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T04:16:47.554Z"
+generated_at: "2026-03-30T04:18:45.713Z"
 status: "active"
 ---
 
@@ -191,10 +191,45 @@ As used in this subchapter:
       - **(xlvi)** testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone);
       - **(xlvii)** testosterone (17β-hydroxyandrost-4-en-3-one);
       - **(xlviii)** tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
-      - **(xlix)** trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and (xlx) 1 1 So in original. Probably should be “(l)”. any salt, ester, or ether of a drug or substance described in this paragraph.
+      - **(xlix)** trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
+      - **(l)** 5α-Androstan-3,6,17-trione;
+      - **(li)** 6-bromo-androstan-3,17-dione;
+      - **(lii)** 6-bromo-androsta-1,4-diene-3,17-dione;
+      - **(liii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+      - **(liv)** 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
+      - **(lv)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
+      - **(lvi)** 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
+      - **(lvii)** 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+      - **(lviii)** 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
+      - **(lix)** 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
+      - **(lx)** 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
+      - **(lxi)** [3,2-c]-furazan-5α-androstan-17β-ol;
+      - **(lxii)** 3β-hydroxy-estra-4,9,11-trien-17-one;
+      - **(lxiii)** 17α-methyl-androst-2-ene-3,17β-diol;
+      - **(lxiv)** 17α-methyl-androsta-1,4-diene-3,17β-diol;
+      - **(lxv)** Estra-4,9,11-triene-3,17-dione;
+      - **(lxvi)** 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+      - **(lxvii)** 6α-Methyl-androst-4-ene-3,17-dione;
+      - **(lxviii)** 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
+      - **(lxix)** 17α-Methyl-5α-androstan-17β-ol;
+      - **(lxx)** 17β-Hydroxy-androstano[2,3-d]isoxazole;
+      - **(lxxi)** 17β-Hydroxy-androstano[3,2-c]isoxazole;
+      - **(lxxii)** 4-Hydroxy-androst-4-ene-3,17-dione[3,2-c]pyrazole-5α-androstan-17β-ol;
+      - **(lxxiii)** [3,2-c]pyrazole-androst-4-en-17β-ol;
+      - **(lxxiv)** [3,2-c]pyrazole-5α-androstan-17β-ol; and
+      - **(lxxv)** any salt, ester, or ether of a drug or substance described in this paragraph.
     - **(B)**
       - **(i)** Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
       - **(ii)** If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
+    - **(C)**
+      - **(i)** Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+        - **(I)** the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
+        - **(II)** the drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
+      - **(ii)** A substance shall not be considered to be a drug or hormonal substance for purposes of this subparagraph if it—
+        - **(I)** is—
+        - **(II)** is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.); and
+        - **(III)** is not anabolic or androgenic.
+      - **(iii)** In accordance with section 885(a) of this title , any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
   - **(42)** The term “international transaction” means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
   - **(43)** The terms “broker” and “trader” mean a person that assists in arranging an international transaction in a listed chemical by—
     - **(A)** negotiating contracts;

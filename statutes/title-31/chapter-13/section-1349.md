@@ -3,9 +3,9 @@ title: "Section 1349 - Adverse personnel actions"
 usc_title: 31
 usc_section: "1349"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 1349"
-generated_at: "2026-03-30T04:17:17.902Z"
+generated_at: "2026-03-30T04:19:06.437Z"
 status: "active"
 ---
 

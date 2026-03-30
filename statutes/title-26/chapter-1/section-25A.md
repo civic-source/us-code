@@ -3,9 +3,9 @@ title: "Section 25A - Hope and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T04:17:14.410Z"
+generated_at: "2026-03-30T04:19:03.127Z"
 status: "active"
 ---
 
@@ -81,7 +81,7 @@ status: "active"
     - **(A)** 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
     - **(B)** 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.
   - **(2)** Subparagraphs (A) and (C) of subsection (b)(2) shall be applied by substituting “4” for “2”.
-  - **(3)** Subsection (f)(1)(A) shall be applied by substituting “tuition, fees, and course materials” for “tuition and fees”.
+  - **(3)** For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied by substituting “tuition, fees, and course materials” for “tuition and fees”.
   - **(4)** In lieu of applying subsection (d) with respect to the Hope Scholarship Credit, such credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
     - **(A)** the excess of—
       - **(i)** the taxpayer’s modified adjusted gross income (as defined in subsection (d)(3)) for such taxable year, over

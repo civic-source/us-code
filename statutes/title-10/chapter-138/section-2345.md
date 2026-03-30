@@ -3,9 +3,9 @@ title: "Section 2345 - Liquidation of accrued credits and liabilities"
 usc_title: 10
 usc_section: "2345"
 chapter: 138
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2345"
-generated_at: "2026-03-30T04:15:29.911Z"
+generated_at: "2026-03-30T04:18:16.899Z"
 status: "active"
 ---
 

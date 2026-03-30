@@ -3,9 +3,9 @@ title: "Section 5472 - Report on confidence building measures by Poland and Hung
 usc_title: 22
 usc_section: "5472"
 chapter: 63
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 5472"
-generated_at: "2026-03-30T04:17:01.894Z"
+generated_at: "2026-03-30T04:18:49.531Z"
 status: "active"
 ---
 

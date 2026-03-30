@@ -3,9 +3,9 @@ title: "Section 1244 - National scenic and national historic trails"
 usc_title: 16
 usc_section: "1244"
 chapter: 27
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1244"
-generated_at: "2026-03-30T04:16:25.347Z"
+generated_at: "2026-03-30T04:18:37.635Z"
 status: "active"
 ---
 
@@ -81,7 +81,7 @@ status: "active"
     - **(B)** The map referred to in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
     - **(C)** The trail shall be administered by the Secretary of the Interior—
       - **(i)** in coordination with—
-        - **(I)** the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ( 16 U.S.C. 461 note; 112 Stat. 2961 ); and
+        - **(I)** the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ( 112 Stat. 2961 ); and
         - **(II)** the Chesapeake Bay Program authorized under section 1267 of title 33 ; and
       - **(ii)** in consultation with—
         - **(I)** other Federal, State, tribal, regional, and local agencies; and
@@ -117,7 +117,7 @@ status: "active"
 - **(b)** The Secretary of the Interior, through the agency most likely to administer such trail, and the Secretary of Agriculture where lands administered by him are involved, shall make such additional studies as are herein or may hereafter be authorized by the Congress for the purpose of determining the feasibility and desirability of designating other trails as national scenic or national historic trails. Such studies shall be made in consultation with the heads of other Federal agencies administering lands through which such additional proposed trails would pass and in cooperation with interested interstate, State, and local governmental agencies, public and private organizations, and landowners and land users concerned. The feasibility of designating a trail shall be determined on the basis of an evaluation of whether or not it is physically possible to develop a trail along a route being studied, and whether the development of a trail would be financially feasible. The studies listed in subsection (c) of this section shall be completed and submitted to the Congress, with recommendations as to the suitability of trail designation, not later than three complete fiscal years from the date of enactment of their addition to this subsection, or from November 10, 1978 , whichever is later. Such studies, when submitted, shall be printed as a House or Senate document, and shall include, but not be limited to:
   - **(1)** the proposed route of such trail (including maps and illustrations);
   - **(2)** the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
-  - **(3)** the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 ( 49 Stat. 666 ; 16 U.S.C. 461 );
+  - **(3)** the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 ( 49 Stat. 666 );
   - **(4)** the current status of land ownership and current and potential use along the designated route;
   - **(5)** the estimated cost of acquisition of lands or interests in lands, if any;
   - **(6)** the plans for developing and maintaining the trail and the cost thereof;
@@ -197,14 +197,14 @@ status: "active"
   - **(40)**
     - **(A)** The Star-Spangled Banner National Historic Trail, tracing the War of 1812 route from the arrival of the British fleet in the Patuxent River in Calvert County and St. Mary’s County, Maryland, the landing of the British forces at Benedict, the sinking of the Chesapeake Flotilla at Pig Point, the American defeat at the Battle of Bladensburg, the siege of the Nation’s Capital, Washington, District of Columbia (including the burning of the United States Capitol and the White House), the British naval diversions in the upper Chesapeake Bay leading to the Battle of Caulk’s Field in Kent County, Maryland, the route of the American troops from Washington through Georgetown, the Maryland Counties of Montgomery, Howard, and Baltimore, and the City of Baltimore, Maryland, to the Battle of North Point, and the ultimate victory of the Americans at Fort McHenry on September 14, 1814 .
     - **(B)** The trail crosses eight counties within the boundaries of the State of Maryland, the City of Baltimore, Maryland, and Washington, District of Columbia.
-    - **(C)** The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 ( 16 U.S.C. 1a–5 note; 110 Stat. 4172 ) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ( 16 U.S.C. 461 note; 112 Stat. 2961 ). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
+    - **(C)** The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 ( 110 Stat. 4172 ) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ( 112 Stat. 2961 ). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
     - **(D)** Not later than 2 years after funds are made available for the study under this paragraph, the study shall be completed and transmitted with final recommendations to the Committee on Resources in the House of Representatives and the Committee on Energy and Natural Resources in the Senate.
   - **(41)** The Metacomet-Monadnock-Mattabesett Trail, a system of trails and potential trails extending southward approximately 180 miles through western Massachusetts on the Metacomet-Monadnock Trail, across central Connecticut on the Metacomet Trail and the Mattabesett Trail, and ending at Long Island Sound.
   - **(42)** The Long Walk Trail, a series of routes which the Navajo and Mescalero Apache Indian tribes were forced to walk beginning in the fall of 1863 as a result of their removal by the United States Government from their ancestral lands, generally located within a corridor extending through portions of Canyon de Chelley, Arizona, and Albuquerque, Canyon Blanco, Anton Chico, Canyon Piedra Pintado, and Fort Sumner, New Mexico.
   - **(43)**
     - **(A)** The Captain John Smith Chesapeake National Historic Watertrail, a series of routes extending approximately 3,000 miles along the Chesapeake Bay and the tributaries of the Chesapeake Bay in the States of Virginia, Maryland, Pennsylvania, and Delaware and the District of Columbia that traces Captain John Smith’s voyages charting the land and waterways of the Chesapeake Bay and the tributaries of the Chesapeake Bay.
     - **(B)** The study shall be conducted in consultation with Federal, State, regional, and local agencies and representatives of the private sector, including the entities responsible for administering—
-      - **(i)** the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ( 16 U.S.C. 461 note; title V of Public Law 105–312 ); and
+      - **(i)** the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (title V of Public Law 105–312 ); and
       - **(ii)** the Chesapeake Bay Program authorized under section 1267 of title 33 .
     - **(C)** The study shall include an extensive analysis of the potential impacts the designation of the trail as a national historic watertrail is likely to have on land and water, including docks and piers, along the proposed route or bordering the study route that is privately owned at the time the study is conducted.
   - **(44)**

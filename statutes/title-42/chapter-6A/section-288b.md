@@ -3,9 +3,9 @@ title: "Section 288b - Studies respecting biomedical and behavioral research per
 usc_title: 42
 usc_section: "288b"
 chapter: 6
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 288b"
-generated_at: "2026-03-30T04:17:41.415Z"
+generated_at: "2026-03-30T04:19:55.679Z"
 status: "active"
 ---
 

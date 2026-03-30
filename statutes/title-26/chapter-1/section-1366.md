@@ -3,9 +3,9 @@ title: "Section 1366 - Pass-thru of items to shareholders"
 usc_title: 26
 usc_section: "1366"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 1366"
-generated_at: "2026-03-30T04:17:14.623Z"
+generated_at: "2026-03-30T04:19:03.303Z"
 status: "active"
 ---
 

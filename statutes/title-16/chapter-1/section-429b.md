@@ -3,15 +3,15 @@ title: "Section 429b - Manassas National Battlefield Park"
 usc_title: 16
 usc_section: "429b"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 429b"
-generated_at: "2026-03-30T04:16:25.156Z"
+generated_at: "2026-03-30T04:18:37.506Z"
 status: "active"
 ---
 
 # § 429b. Manassas National Battlefield Park
 
-- **(a)** There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled “Boundary Map, Manassas National Battlefield Park”, dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 460 l –9(c) of this title, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
+- **(a)** There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled “Boundary Map, Manassas National Battlefield Park”, dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 100506(c) of title 54 , the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
 - **(b)**
   - **(1)** In addition to subsection (a) of this section, the boundaries of the park shall include the area, comprising approximately 600 acres, which is south of U.S. Route 29, north of Interstate Route 66, east of Route 705, and west of Route 622. Such area shall hereafter in sections 429b to 429b–5 of this title be referred to as the “Addition”.
   - **(2)**

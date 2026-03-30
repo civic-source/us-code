@@ -3,9 +3,9 @@ title: "Section 2767 - Authority of President to enter into cooperative projects
 usc_title: 22
 usc_section: "2767"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2767"
-generated_at: "2026-03-30T04:17:01.845Z"
+generated_at: "2026-03-30T04:18:49.492Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
 - **(e)**
   - **(1)** For those cooperative projects entered into on or after the effective date 1 1 See References in Text note below. of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
   - **(2)** Notwithstanding provisions of section 2761(e)(1)(A) and section 2792(b) of this title , administrative surcharges shall not be increased on other sales made under this chapter in order to compensate for reductions or waivers of such surcharges under this section. Funds received pursuant to such other sales shall not be available to reimburse the costs incurred by the United States Government for which reduction or waiver is approved by the President under this section.
-- **(f)** Not less than 30 days before a cooperative project agreement is signed on behalf of the United States, the President shall transmit to the Speaker of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate, a numbered certification with respect to such proposed agreement, setting forth—
+- **(f)** Not less than 30 days before a cooperative project agreement is signed on behalf of the United States, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate, a numbered certification with respect to such proposed agreement, setting forth—
   - **(1)** a detailed description of the cooperative project with respect to which the certification is made;
   - **(2)** an estimate of the quantity of the defense articles expected to be produced in furtherance of such cooperative project;
   - **(3)** an estimate of the full cost of the cooperative project, with an estimate of the part of the full cost to be incurred by the United States Government, including an estimate of the costs as a result of waivers of section 2 2 So in original. Probably should be “sections”. 2761(e)(1)(A) and 2792(b) of this title, for its participation in such cooperative project and an estimate of that part of the full costs to be incurred by the other participants;

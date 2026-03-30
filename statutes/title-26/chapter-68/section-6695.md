@@ -3,9 +3,9 @@ title: "Section 6695 - Other assessable penalties with respect to the preparatio
 usc_title: 26
 usc_section: "6695"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6695"
-generated_at: "2026-03-30T04:17:14.748Z"
+generated_at: "2026-03-30T04:19:03.406Z"
 status: "active"
 ---
 
@@ -20,3 +20,8 @@ status: "active"
   - **(2)** each failure to set forth an item in the return as required under section,
 - **(f)** Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer’s account in such bank for the benefit of the taxpayer.
 - **(g)** Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 32 shall pay a penalty of $500 for each such failure.
+- **(h)**
+  - **(1)** In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** If any amount adjusted under subparagraph (A)— 1 1 So in original. Probably should be “paragraph (1)—”.
+    - **(A)** is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
+    - **(B)** is not described in clause (i) 2 2 So in original. Probably should be “subparagraph (A)”. and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.

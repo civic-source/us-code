@@ -3,9 +3,9 @@ title: "Section 2732 - Terminal and tanker oversight and monitoring"
 usc_title: 33
 usc_section: "2732"
 chapter: 40
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 2732"
-generated_at: "2026-03-30T04:17:18.989Z"
+generated_at: "2026-03-30T04:19:23.159Z"
 status: "active"
 ---
 
@@ -117,7 +117,7 @@ status: "active"
     - **(A)** shall provide for the establishment and operation on the environmental oversight and monitoring program in Prince William Sound;
     - **(B)** shall be adjusted annually by the Anchorage Consumer Price Index; and
     - **(C)** may be adjusted periodically upon the mutual consent of the owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound and the Prince William Sound terminal facilities Council.
-  - **(3)** The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not more than $1,000,000, as determined by the Secretary. Such amount—
+  - **(3)** The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not less than $1,400,000, as determined by the Secretary. Such amount—
     - **(A)** shall provide for the establishment and operation of the environmental oversight and monitoring program in Cook Inlet;
     - **(B)** shall be adjusted annually by the Anchorage Consumer Price Index; and
     - **(C)** may be adjusted periodically upon the mutual consent of the owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet and the Cook Inlet Council.

@@ -3,9 +3,9 @@ title: "Section 2430i - Annual reports to Congress"
 usc_title: 22
 usc_section: "2430i"
 chapter: 32
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2430i"
-generated_at: "2026-03-30T04:17:01.827Z"
+generated_at: "2026-03-30T04:18:49.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T04:17:41.718Z"
+generated_at: "2026-03-30T04:19:56.022Z"
 status: "active"
 ---
 
@@ -21,9 +21,9 @@ status: "active"
       - **(i)** A family residing in a public housing dwelling shall pay as monthly rent for the unit the amount determined under clause (i) or (ii) of subparagraph (B), subject to the requirement under paragraph (3) (relating to minimum rents). Each public housing agency shall provide for each family residing in a public housing dwelling unit owned, assisted, or operated by the agency to elect annually whether the rent paid by such family shall be determined under clause (i) or (ii) of subparagraph (B). A public housing agency may not at any time fail to provide both such rent options for any public housing dwelling unit owned, assisted, or operated by the agency.
       - **(ii)** Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one of the rent options referred to in subparagraph (A).
     - **(B)**
-      - **(i)** Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall not be lower than 80 percent of the applicable fair market rental established under section 1437f(c) of this title and which shall—
-        - **(I)** be based on the rental value of the unit, as determined by the public housing agency; and
-        - **(II)** be designed in accordance with subparagraph (D) so that the rent structures do not create a disincentive for continued residency in public housing by families who are attempting to become economically self-sufficient through employment or who have attained a level of self-sufficiency through their own efforts.
+      - **(i)** Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which—
+        - **(I)** shall not be lower than 80 percent of—
+        - **(II)** shall be designed in accordance with subparagraph (D) so that the rent structures do not create a disincentive for continued residency in public housing by families who are attempting to become economically self-sufficient through employment or who have attained a level of self-sufficiency through their own efforts.
       - **(ii)**
         - **(I)** The monthly rental amount determined under this clause for a family shall be an amount, determined by the public housing agency, that does not exceed the greatest of the amounts (rounded to the nearest dollar) determined under subparagraphs (A), (B), and (C) of paragraph (1). This clause may not be construed to require a public housing agency to charge a monthly rent in the maximum amount permitted under this clause.
         - **(II)** Subject to the limitation on monthly rental amount under subclause (I), a public housing agency may, in its discretion, implement a rent structure under this clause requiring that a portion of the rent be deposited to an escrow or savings account, imposing ceiling rents, or adopting income exclusions (such as those set forth in subsection (b)(5)(B) of this section), or may establish another reasonable rent structure or amount.

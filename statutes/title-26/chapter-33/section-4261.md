@@ -3,9 +3,9 @@ title: "Section 4261 - Imposition of tax"
 usc_title: 26
 usc_section: "4261"
 chapter: 33
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 4261"
-generated_at: "2026-03-30T04:17:14.670Z"
+generated_at: "2026-03-30T04:19:03.344Z"
 status: "active"
 ---
 
@@ -30,11 +30,9 @@ status: "active"
       - **(i)** there were fewer than 100,000 commercial passengers departing by air (in the case of any airport described in clause (ii)(III), on flight segments of at least 100 miles) during the second preceding calendar year from such airport, and
       - **(ii)** such airport—
         - **(I)** is not located within 75 miles of another airport which is not described in clause (i),
-        - **(II)** is receiving essential air service subsidies as of the date of the enactment of this paragraph, or
+        - **(II)** is receiving essential air service subsidies as of the date of Bthe enactment of this paragraph, or
         - **(III)** is not connected by paved roads to another airport.
-    - **(C)** In the case of transportation beginning before October 1, 1999 —
-      - **(i)** Paragraph (5) shall not apply to any domestic segment beginning or ending at an airport which is a rural airport for the calendar year in which such segment begins or ends (as the case may be).
-      - **(ii)** In the case of transportation involving more than 1 domestic segment at least 1 of which does not begin or end at a rural airport, the 7.5 percent rate applicable by reason of clause (i) shall be applied by taking into account only an amount which bears the same ratio to the amount paid for such transportation as the number of specified miles in domestic segments which begin or end at a rural airport bears to the total number of specified miles in such transportation.
+    - **[(C)**
   - **(2)** In the case of amounts paid outside the United States for taxable transportation, the taxes imposed by subsections (a) and (b) shall apply only if such transportation begins and ends in the United States.
   - **(3)**
     - **(A)** Any amount paid (and the value of any other benefit provided) to an air carrier (or any related person) for the right to provide mileage awards for (or other reductions in the cost of) any transportation of persons by air shall be treated for purposes of subsection (a) as an amount paid for taxable transportation, and such amount shall be taxable under subsection (a) without regard to any other provision of this subchapter.
@@ -49,9 +47,7 @@ status: "active"
       - **(ii)** 1998 in the case of the dollar amounts contained in subsection (c).
     - **(C)** For purposes of subparagraph (A), in the case of the tax imposed by subsection (b), the beginning of the domestic segment shall be treated as the taxable event.
     - **(D)** If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
-  - **(5)** Subsection (a) shall be applied by substituting for “7.5 percent”—
-    - **(A)** “9 percent” in the case of transportation beginning after September 30, 1997 , and before October 1, 1998 , and
-    - **(B)** “8 percent” in the case of transportation beginning after September 30, 1998 , and before October 1, 1999 .
+  - **[(5)**
 - **(f)** No tax shall be imposed under subsection (a) or (b) on air transportation—
   - **(1)** by helicopter for the purpose of transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
   - **(2)** by helicopter or by fixed-wing aircraft for the purpose of the planting, cultivation, cutting, or transportation of, or caring for, trees (including logging operations),

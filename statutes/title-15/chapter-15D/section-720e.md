@@ -3,9 +3,9 @@ title: "Section 720e - Judicial review"
 usc_title: 15
 usc_section: "720e"
 chapter: 15
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 720e"
-generated_at: "2026-03-30T04:16:10.668Z"
+generated_at: "2026-03-30T04:18:26.810Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”);
     - **(B)** the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.);
     - **(C)** the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
-    - **(D)** the National Historic Preservation Act ( 16 U.S.C. 470 et seq.); and
+    - **(D)** chapter 2003 of title 54; 1 1 So in original. Probably should be “division A of subtitle III of title 54;”. and
     - **(E)** the Alaska National Interest Lands Conservation Act ( 16 U.S.C. 3101 et seq.).
 - **(b)** A claim arising under this chapter may be brought not later than 60 days after the date of the decision or action giving rise to the claim.
 - **(c)** The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.

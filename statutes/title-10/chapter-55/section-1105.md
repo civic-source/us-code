@@ -3,9 +3,9 @@ title: "Section 1105 - Specialized treatment facility program"
 usc_title: 10
 usc_section: "1105"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1105"
-generated_at: "2026-03-30T04:15:29.864Z"
+generated_at: "2026-03-30T04:18:16.853Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Secretary of Defense may conduct a specialized treatment facility program pursuant to regulations prescribed by the Secretary of Defense. The Secretary shall consult with the other administering Secretaries in prescribing regulations for the program and in conducting the program.
 - **(b)** Under the specialized treatment facility program, the Secretary may designate health care facilities of the uniformed services and civilian health care facilities as specialized treatment facilities.
-- **(c)** Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in section 1079(a)(7) of this title if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
+- **(c)** Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in section 1079(a)(6) of this title if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
 - **(d)** For purposes of the specialized treatment facility program, the service area of a civilian health care facility designated pursuant to subsection (b) shall be comparable in size to the service areas of facilities of the uniformed services.
 - **(e)** A covered beneficiary who resides within the service area of a specialized treatment facility designated under the specialized treatment facility program may be required to obtain a nonavailability of health care statement in the case of a specialized service offered by the facility in order for the covered beneficiary to receive the service outside of the program.
 - **(f)**

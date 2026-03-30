@@ -3,9 +3,9 @@ title: "Section 1441 - Benefits under certain terminated plans"
 usc_title: 29
 usc_section: "1441"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1441"
-generated_at: "2026-03-30T04:17:06.248Z"
+generated_at: "2026-03-30T04:18:56.588Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)** Any plan amendment required by this subsection shall, in accordance with regulations prescribed by the Secretary of the Treasury—
     - **(A)** reduce benefits only to the extent necessary to comply with paragraph (1);
     - **(B)** reduce accrued benefits only to the extent that those benefits are not eligible for the corporation’s guarantee under section 1322a(b) of this title ;
-    - **(C)** comply with the rules for and limitations on benefit reductions under a plan in reorganization, as prescribed in section 1425 of this title , except to the extent that the corporation prescribes other rules and limitations in regulations under this section; and
+    - **(C)** comply with the rules for and limitations on benefit reductions under a plan in reorganization, as prescribed in section 1425 1 1 See References in Text note below. of this title, except to the extent that the corporation prescribes other rules and limitations in regulations under this section; and
     - **(D)** take effect no later than 6 months after the end of the plan year for which it is determined that the value of nonforfeitable benefits exceeds the value of the plan’s assets.
 - **(d)**
   - **(1)** In any case in which benefit payments under a plan which is insolvent under paragraph (2)(A) exceed the resource benefit level, any such payments which are not basic benefits shall be suspended, in accordance with this subsection, to the extent necessary to reduce the sum of such payments and such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation in connection with a supplemental guarantee program established under section 1322a(g)(2) of this title .

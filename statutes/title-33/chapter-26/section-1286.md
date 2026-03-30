@@ -3,9 +3,9 @@ title: "Section 1286 - Reimbursement and advanced construction"
 usc_title: 33
 usc_section: "1286"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 1286"
-generated_at: "2026-03-30T04:17:18.944Z"
+generated_at: "2026-03-30T04:19:23.116Z"
 status: "active"
 ---
 

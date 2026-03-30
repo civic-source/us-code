@@ -3,9 +3,9 @@ title: "Section 2 - Facilitating access to Department of State"
 usc_title: 22
 usc_section: "2"
 chapter: 38
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T04:17:01.839Z"
+generated_at: "2026-03-30T04:18:49.486Z"
 status: "active"
 ---
 

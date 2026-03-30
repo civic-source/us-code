@@ -3,9 +3,9 @@ title: "Section 158to159 - Transferred"
 usc_title: 50
 usc_section: "158to159"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 158to159"
-generated_at: "2026-03-30T04:17:50.303Z"
+generated_at: "2026-03-30T04:20:17.679Z"
 status: "transferred"
 ---
 

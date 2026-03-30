@@ -3,9 +3,9 @@ title: "Section 673 - Designation, powers, and accountability of deputy disbursi
 usc_title: 14
 usc_section: "673"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 673"
-generated_at: "2026-03-30T04:15:52.720Z"
+generated_at: "2026-03-30T04:18:19.007Z"
 status: "active"
 ---
 

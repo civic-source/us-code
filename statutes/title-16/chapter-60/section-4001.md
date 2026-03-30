@@ -3,9 +3,9 @@ title: "Section 4001 - Congressional findings"
 usc_title: 16
 usc_section: "4001"
 chapter: 60
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 4001"
-generated_at: "2026-03-30T04:16:25.449Z"
+generated_at: "2026-03-30T04:18:37.709Z"
 status: "active"
 ---
 

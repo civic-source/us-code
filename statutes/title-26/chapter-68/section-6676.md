@@ -3,9 +3,9 @@ title: "Section 6676 - Erroneous claim for refund or credit"
 usc_title: 26
 usc_section: "6676"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6676"
-generated_at: "2026-03-30T04:17:14.747Z"
+generated_at: "2026-03-30T04:19:03.406Z"
 status: "active"
 ---
 

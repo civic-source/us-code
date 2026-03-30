@@ -3,9 +3,9 @@ title: "Section 28 - Authorization of appropriations"
 usc_title: 20
 usc_section: "28"
 chapter: 28
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 28"
-generated_at: "2026-03-30T04:16:29.512Z"
+generated_at: "2026-03-30T04:18:34.384Z"
 status: "active"
 ---
 

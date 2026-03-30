@@ -3,9 +3,9 @@ title: "Section 5513 - Next Generation Internet"
 usc_title: 15
 usc_section: "5513"
 chapter: 81
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 5513"
-generated_at: "2026-03-30T04:16:10.821Z"
+generated_at: "2026-03-30T04:18:26.908Z"
 status: "active"
 ---
 

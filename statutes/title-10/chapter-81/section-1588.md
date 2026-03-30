@@ -3,9 +3,9 @@ title: "Section 1588 - Authority to accept certain voluntary services"
 usc_title: 10
 usc_section: "1588"
 chapter: 81
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1588"
-generated_at: "2026-03-30T04:15:29.884Z"
+generated_at: "2026-03-30T04:18:16.873Z"
 status: "active"
 ---
 
@@ -28,6 +28,7 @@ status: "active"
   - **(7)** Voluntary translation or interpretation services offered with respect to a foreign language by a person (A) who is registered for such foreign language on the National Foreign Language Skills Registry under section 1596b of this title , or (B) who otherwise is approved to provide voluntary translation or interpretation services for national security purposes, as determined by the Secretary of Defense.
   - **(8)** Voluntary services to support programs of a committee of the Employer Support of the Guard and Reserve as authorized by the Secretary of Defense.
   - **(9)** Voluntary services to facilitate accounting for missing persons.
+  - **(10)** Voluntary legal support services provided by law students through internship and externship programs approved by the Secretary concerned.
 - **(b)**
   - **(1)** The Secretary concerned shall notify the person of the scope of the services accepted.
   - **(2)** With respect to a person providing voluntary services accepted under subsection (a), the Secretary concerned shall—

@@ -3,9 +3,9 @@ title: "Section 3713 - State grant program for training and prosecution of compu
 usc_title: 42
 usc_section: "3713"
 chapter: 46
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 3713"
-generated_at: "2026-03-30T04:17:41.843Z"
+generated_at: "2026-03-30T04:19:56.157Z"
 status: "active"
 ---
 

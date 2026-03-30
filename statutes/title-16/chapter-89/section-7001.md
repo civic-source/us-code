@@ -3,9 +3,9 @@ title: "Section 7001 - Definitions"
 usc_title: 16
 usc_section: "7001"
 chapter: 89
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 7001"
-generated_at: "2026-03-30T04:16:25.483Z"
+generated_at: "2026-03-30T04:18:37.731Z"
 status: "active"
 ---
 

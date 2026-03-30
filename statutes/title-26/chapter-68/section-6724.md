@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-30T04:17:14.751Z"
+generated_at: "2026-03-30T04:19:03.408Z"
 status: "active"
 ---
 
@@ -87,7 +87,7 @@ status: "active"
     - **(CC)** section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
     - **(DD)** section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) 6 6 So in original. A comma probably should appear.
     - **(EE)** section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements),
-    - **(FF)** section 6050W(c) (relating to returns relating to payments made in settlement of payment card transactions),
+    - **(FF)** section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
     - **(GG)** section 6055(c) (relating to statements relating to information regarding health insurance coverage), or
     - **(HH)** section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).
   - **(3)** The term “specified information reporting requirement” means—

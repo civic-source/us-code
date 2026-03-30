@@ -3,9 +3,9 @@ title: "Section 4957 - Participation of younger and older persons"
 usc_title: 42
 usc_section: "4957"
 chapter: 66
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 4957"
-generated_at: "2026-03-30T04:17:41.878Z"
+generated_at: "2026-03-30T04:19:56.196Z"
 status: "active"
 ---
 

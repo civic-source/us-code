@@ -3,9 +3,9 @@ title: "Section 9503 - Highway Trust Fund"
 usc_title: 26
 usc_section: "9503"
 chapter: 98
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 9503"
-generated_at: "2026-03-30T04:17:14.779Z"
+generated_at: "2026-03-30T04:19:03.433Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(2)** The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2017 , under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
   - **(3)**
     - **(A)**
-      - **(i)** The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in title I of the Land and Water Conservation Fund Act of 1965 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005 , and before October 1, 2016 .
+      - **(i)** The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005 , and before October 1, 2016 .
       - **(ii)** The aggregate amount transferred under this subparagraph during any fiscal year shall not exceed $1,000,000.
     - **(B)** Any amounts in the Highway Trust Fund—
       - **(i)** which are attributable to motorboat fuel taxes, and

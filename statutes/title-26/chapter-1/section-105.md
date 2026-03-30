@@ -3,9 +3,9 @@ title: "Section 105 - Amounts received under accident and health plans"
 usc_title: 26
 usc_section: "105"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 105"
-generated_at: "2026-03-30T04:17:14.445Z"
+generated_at: "2026-03-30T04:19:03.157Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
 - **(e)** For purposes of this section and section 104—
   - **(1)** amounts received under an accident or health plan for employees, and
   - **(2)** amounts received from a sickness and disability fund for employees maintained under the law of a State or the District of Columbia,
-- **(f)** For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) or (d) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
+- **(f)** For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
 - **(g)** For purposes of this section, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
 - **(h)**
   - **(1)** In the case of amounts paid to a highly compensated individual under a self-insured medical reimbursement plan which does not satisfy the requirements of paragraph (2) for a plan year, subsection (b) shall not apply to such amounts to the extent they constitute an excess reimbursement of such highly compensated individual.

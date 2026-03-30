@@ -3,9 +3,9 @@ title: "Section 1751 - Short title"
 usc_title: 12
 usc_section: "1751"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 1751"
-generated_at: "2026-03-30T04:16:05.656Z"
+generated_at: "2026-03-30T04:18:22.753Z"
 status: "active"
 ---
 

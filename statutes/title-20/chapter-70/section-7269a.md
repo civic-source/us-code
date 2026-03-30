@@ -3,9 +3,9 @@ title: "Section 7269a - Promotion of school readiness through early childhood em
 usc_title: 20
 usc_section: "7269a"
 chapter: 70
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 7269a"
-generated_at: "2026-03-30T04:16:29.668Z"
+generated_at: "2026-03-30T04:18:34.511Z"
 status: "active"
 ---
 

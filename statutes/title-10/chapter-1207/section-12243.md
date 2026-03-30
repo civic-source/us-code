@@ -3,9 +3,9 @@ title: "Section 12243 - Warrant officers: suspension of laws for promotion or ma
 usc_title: 10
 usc_section: "12243"
 chapter: 1207
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 12243"
-generated_at: "2026-03-30T04:15:29.987Z"
+generated_at: "2026-03-30T04:18:16.973Z"
 status: "active"
 ---
 

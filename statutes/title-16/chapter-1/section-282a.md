@@ -3,13 +3,13 @@ title: "Section 282a - Designation; administration, protection, and development"
 usc_title: 16
 usc_section: "282a"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 282a"
-generated_at: "2026-03-30T04:16:25.110Z"
+generated_at: "2026-03-30T04:18:37.471Z"
 status: "active"
 ---
 
 # § 282a. Designation; administration, protection, and development
 
-The property acquired under the provisions of section 282 of this title shall be known as the San Juan Island National Historical Park and shall commemorate the final settlement by arbitration of the Oregon boundary dispute and the peaceful relationship which has existed between the United States and Canada for generations. The Secretary of the Interior shall administer, protect, and develop such park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and sections 461 to 467 of this title.
+The property acquired under the provisions of section 282 of this title shall be known as the San Juan Island National Historical Park and shall commemorate the final settlement by arbitration of the Oregon boundary dispute and the peaceful relationship which has existed between the United States and Canada for generations. The Secretary of the Interior shall administer, protect, and develop such park in accordance with the provisions of sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title, as amended and supplemented, and sections 461 to 467 1 of this title.
 

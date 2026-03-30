@@ -3,9 +3,9 @@ title: "Section 1362to1365 - Repealed. Pub. L. 87–794, title II, § 257(e)(1) 
 usc_title: 19
 usc_section: "1362to1365"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "19 U.S.C. § 1362to1365"
-generated_at: "2026-03-30T04:16:40.520Z"
+generated_at: "2026-03-30T04:18:38.925Z"
 status: "repealed"
 ---
 

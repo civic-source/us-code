@@ -3,9 +3,9 @@ title: "Section 2433 - Unit cost reports"
 usc_title: 10
 usc_section: "2433"
 chapter: 144
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2433"
-generated_at: "2026-03-30T04:15:29.919Z"
+generated_at: "2026-03-30T04:18:16.907Z"
 status: "active"
 ---
 

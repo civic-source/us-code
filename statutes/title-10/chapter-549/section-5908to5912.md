@@ -3,9 +3,9 @@ title: "Section 5908to5912 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "5908to5912"
 chapter: 549
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 5908to5912"
-generated_at: "2026-03-30T04:15:29.959Z"
+generated_at: "2026-03-30T04:18:16.946Z"
 status: "repealed"
 ---
 

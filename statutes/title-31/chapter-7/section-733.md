@@ -3,9 +3,9 @@ title: "Section 733 - Senior Executive Service"
 usc_title: 31
 usc_section: "733"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "31 U.S.C. § 733"
-generated_at: "2026-03-30T04:17:17.897Z"
+generated_at: "2026-03-30T04:19:06.432Z"
 status: "active"
 ---
 

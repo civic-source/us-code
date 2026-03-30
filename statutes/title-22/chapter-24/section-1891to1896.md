@@ -3,9 +3,9 @@ title: "Section 1891to1896 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2),
 usc_title: 22
 usc_section: "1891to1896"
 chapter: 24
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 1891to1896"
-generated_at: "2026-03-30T04:17:01.791Z"
+generated_at: "2026-03-30T04:18:49.443Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15042 - Allotments and payments"
 usc_title: 42
 usc_section: "15042"
 chapter: 144
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 15042"
-generated_at: "2026-03-30T04:17:42.175Z"
+generated_at: "2026-03-30T04:19:56.528Z"
 status: "active"
 ---
 

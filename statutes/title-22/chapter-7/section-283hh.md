@@ -3,9 +3,9 @@ title: "Section 283hh - Effectiveness of agreement"
 usc_title: 22
 usc_section: "283hh"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 283hh"
-generated_at: "2026-03-30T04:17:01.761Z"
+generated_at: "2026-03-30T04:18:49.417Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4369a - Reports on environmental research and development activi
 usc_title: 42
 usc_section: "4369a"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 4369a"
-generated_at: "2026-03-30T04:17:41.869Z"
+generated_at: "2026-03-30T04:19:56.185Z"
 status: "active"
 ---
 

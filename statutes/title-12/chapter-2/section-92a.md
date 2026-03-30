@@ -3,9 +3,9 @@ title: "Section 92a - Trust powers"
 usc_title: 12
 usc_section: "92a"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 92a"
-generated_at: "2026-03-30T04:16:05.573Z"
+generated_at: "2026-03-30T04:18:22.679Z"
 status: "active"
 ---
 

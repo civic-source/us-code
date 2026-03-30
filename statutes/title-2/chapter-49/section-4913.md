@@ -3,9 +3,9 @@ title: "Section 4913 - Regulations of Page Board"
 usc_title: 2
 usc_section: "4913"
 chapter: 49
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 4913"
-generated_at: "2026-03-30T04:15:17.528Z"
+generated_at: "2026-03-30T04:18:06.080Z"
 status: "active"
 ---
 

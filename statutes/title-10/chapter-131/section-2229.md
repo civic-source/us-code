@@ -3,16 +3,16 @@ title: "Section 2229 - Strategic policy on prepositioning of materiel and equipm
 usc_title: 10
 usc_section: "2229"
 chapter: 131
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2229"
-generated_at: "2026-03-30T04:15:29.900Z"
+generated_at: "2026-03-30T04:18:16.889Z"
 status: "active"
 ---
 
 # § 2229. Strategic policy on prepositioning of materiel and equipment
 
 - **(a)**
-  - **(1)** The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for prepositioned materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands, and shall address how the Department’s prepositioning programs, both ground and afloat, align with national defense strategies and departmental priorities.
+  - **(1)** The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for prepositioned materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, support for crisis response elements, and the requirements of the combatant commands, and shall address how the Department’s prepositioning programs, both ground and afloat, align with national defense strategies and departmental priorities.
   - **(2)** The strategic policy required under paragraph (1) shall include the following elements:
     - **(A)** Overarching strategic guidance concerning planning and resource priorities that link the Department of Defense’s current and future needs for prepositioned stocks, such as desired responsiveness, to evolving national defense objectives.
     - **(B)** A description of the Department’s vision for prepositioning programs and the desired end state.

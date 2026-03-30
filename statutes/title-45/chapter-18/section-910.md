@@ -3,9 +3,9 @@ title: "Section 910 - Repealed. Pub. L. 97–35, title XI, § 1144(b) , Aug. 13,
 usc_title: 45
 usc_section: "910"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "45 U.S.C. § 910"
-generated_at: "2026-03-30T04:17:27.315Z"
+generated_at: "2026-03-30T04:19:39.637Z"
 status: "repealed"
 ---
 

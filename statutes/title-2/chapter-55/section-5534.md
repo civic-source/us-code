@@ -3,9 +3,9 @@ title: "Section 5534 - House revolving fund for stationery allowances; dispositi
 usc_title: 2
 usc_section: "5534"
 chapter: 55
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 5534"
-generated_at: "2026-03-30T04:15:17.530Z"
+generated_at: "2026-03-30T04:18:06.083Z"
 status: "active"
 ---
 

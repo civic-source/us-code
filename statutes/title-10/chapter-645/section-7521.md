@@ -3,9 +3,9 @@ title: "Section 7521 - Repealed. Pub. L. 103–355, title II, § 2001(j)(1) , Oc
 usc_title: 10
 usc_section: "7521"
 chapter: 645
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 7521"
-generated_at: "2026-03-30T04:15:29.969Z"
+generated_at: "2026-03-30T04:18:16.955Z"
 status: "repealed"
 ---
 

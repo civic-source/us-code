@@ -3,9 +3,9 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-30T04:17:06.211Z"
+generated_at: "2026-03-30T04:18:56.557Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(E)**
       - **(i)** A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
       - **(ii)** A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
-        - **(I)** the plan is amended to reduce benefits under section 1425 or 1441 of this title, or
+        - **(I)** the plan is amended to reduce benefits under section 1425 1 1 See References in Text note below. or 1441 of this title, or
         - **(II)** benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
     - **(F)** A matching contribution (within the meaning of section 401(m) of title 26 ) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26 , an excess deferral under section 402(g)(2)(A) of title 26 , an erroneous automatic contribution under section 414(w) of title 26 , or an excess aggregate contribution under section 401(m)(6)(B) of title 26 .
 - **(b)**

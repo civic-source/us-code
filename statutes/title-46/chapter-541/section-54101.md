@@ -3,9 +3,9 @@ title: "Section 54101 - Assistance for small shipyards and maritime communities"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-30T04:17:46.738Z"
+generated_at: "2026-03-30T04:20:00.776Z"
 status: "active"
 ---
 
@@ -48,6 +48,6 @@ status: "active"
     - **(C)** the recipient has authority to carry out the proposed project.
 - **(g)** All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
 - **(h)** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
-- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2009 through 2013 to carry out this section—
+- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2015 through 2017 to carry out this section—
   - **(1)** $5,000,000 for training grants; and
   - **(2)** $25,000,000 for capital and related improvements.

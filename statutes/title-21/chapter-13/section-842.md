@@ -3,9 +3,9 @@ title: "Section 842 - Prohibited acts B"
 usc_title: 21
 usc_section: "842"
 chapter: 13
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "21 U.S.C. § 842"
-generated_at: "2026-03-30T04:16:47.560Z"
+generated_at: "2026-03-30T04:18:45.718Z"
 status: "active"
 ---
 
@@ -27,15 +27,18 @@ status: "active"
     - **(A)** to sell at retail a scheduled listed chemical product in violation of paragraph (1) of subsection (d) of such section, knowing at the time of the transaction involved (independent of consulting the logbook under subsection (e)(1)(A)(iii) of such section) that the transaction is a violation; or
     - **(B)** to knowingly or recklessly sell at retail such a product in violation of paragraph (2) of such subsection (d);
   - **(13)** who is a regulated seller to knowingly or recklessly sell at retail a scheduled listed chemical product in violation of subsection (e) of such section;
-  - **(14)** who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of section 830(e)(1) of this title , information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities; or
-  - **(15)** to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in section 830(b)(3)(B) of this title , unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under section 830(e)(1)(B)(v) of this title .
+  - **(14)** who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of section 830(e)(1) of this title , information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities;
+  - **(15)** to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in section 830(b)(3)(B) of this title , unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under section 830(e)(1)(B)(v) of this title ; or
+  - **(16)** to violate subsection (e) of section 825 of this title . 2 2 See References in Text note below.
 - **(b)** It shall be unlawful for any person who is a registrant to manufacture a controlled substance in schedule I or II, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical, which is—
   - **(1)** not expressly authorized by his registration and by a quota assigned to him pursuant to section 826 of this title ; or
   - **(2)** in excess of a quota assigned to him pursuant to section 826 of this title .
 - **(c)**
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
+    - **(A)** Except as provided in subparagraph (B), (C), or (D) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
     - **(B)** In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
+    - **(C)** In the case of a violation of paragraph (16) of subsection (a) of this section by an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (D)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, distribution, or possession with intent to manufacture or distribute, in violation of paragraph (16) of subsection (a).
+    - **(D)** In the case of a distribution, dispensing, or possession with intent to distribute or dispense in violation of paragraph (16) of subsection (a) of this section at the retail level, up to $1000 per violation. For purposes of this paragraph, the term “at the retail level” refers to products sold, or held for sale, directly to the consumer for personal use. Each package, container or other separate unit containing an anabolic steroid that is distributed, dispensed, or possessed with intent to distribute or dispense at the retail level in violation of such paragraph (16) of subsection (a) shall be considered a separate violation.
   - **(2)**
     - **(A)** If a violation of this section is prosecuted by an information or indictment which alleges that the violation was committed knowingly and the trier of fact specifically finds that the violation was so committed, such person shall, except as otherwise provided in subparagraph (B) of this paragraph, be sentenced to imprisonment of not more than one year or a fine under title 18, or both.
     - **(B)** If a violation referred to in subparagraph (A) was committed after one or more prior convictions of the offender for an offense punishable under this paragraph (2), or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 2 years, a fine under title 18, or both.

@@ -3,9 +3,9 @@ title: "Section 2853 - Authorized cost and scope of work variations"
 usc_title: 10
 usc_section: "2853"
 chapter: 169
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2853"
-generated_at: "2026-03-30T04:15:29.941Z"
+generated_at: "2026-03-30T04:18:16.928Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** In this subsection, the term “scope of work” refers to the function, size, or quantity of a facility or item of complete and useable infrastructure contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 - **(c)** The limitation on cost variations in subsection (a) or the limitation on scope reduction in subsection (b)(1) does not apply if the variation in cost or reduction in the scope of work is approved by the Secretary concerned and—
   - **(1)** in the case of a cost increase or a reduction in the scope of work—
-    - **(A)** the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can be 1 1 So in original. The word “be” probably should not appear. still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
+    - **(A)** the Secretary concerned notifies the appropriate committees of Congress in writing of the cost increase or reduction in scope, the reasons therefor, a certification that the mission requirement identified in the justification data provided to Congress can still be met with the reduced scope, and a description of the funds proposed to be used to finance any increased costs; and
     - **(B)** a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title ; or
   - **(2)** in the case of a cost decrease, the Secretary concerned notifies the appropriate committees of Congress in writing not later than 14 days after the date funds are obligated in connection with the military construction project or military family housing project.
 - **(d)** The limitation on cost variations in subsection (a) does not apply to the following:

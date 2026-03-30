@@ -3,9 +3,9 @@ title: "Section 9 - Voting for Representatives"
 usc_title: 2
 usc_section: "9"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 9"
-generated_at: "2026-03-30T04:15:17.475Z"
+generated_at: "2026-03-30T04:18:06.021Z"
 status: "active"
 ---
 

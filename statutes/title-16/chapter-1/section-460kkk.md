@@ -3,9 +3,9 @@ title: "Section 460kkk - Boston Harbor Islands National Recreation Area"
 usc_title: 16
 usc_section: "460kkk"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 460kkk"
-generated_at: "2026-03-30T04:16:25.216Z"
+generated_at: "2026-03-30T04:18:37.547Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(ii)** Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt’s Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
   - **(3)** Notwithstanding subsection (h) of this section, the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
 - **(d)**
-  - **(1)** The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+  - **(1)** The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title and sections 461 to 467 1 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
   - **(2)** Nothing in this section shall be construed to diminish, enlarge, or modify any right of the Commonwealth of Massachusetts or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State laws, rules, and regulations within the recreation area, including those relating to fish and wildlife, or to tax persons, corporations, franchises, or private property on the lands and waters included in the recreation area.
   - **(3)**
     - **(A)** In this paragraph, the term “eligible entity” means—
@@ -49,7 +49,7 @@ status: "active"
   - **(1)** There is hereby established the Boston Harbor Islands Partnership whose purpose shall be to coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
   - **(2)** The Partnership shall be composed of 13 members, as follows:
     - **(A)** One individual, appointed by the Secretary, to represent the National Park Service.
-    - **(B)** One individual, appointed by the Commandant of the Coast Guard.. 1 1 So in original.
+    - **(B)** One individual, appointed by the Commandant of the Coast Guard.. 2 2 So in original.
     - **(C)** Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
     - **(D)** One individual, appointed by the Secretary, after consideration of recommendations by the Chair, to represent the Massachusetts Port Authority.
     - **(E)** One individual, appointed by the Secretary, after consideration of recommendations by the Chair, to represent the Massachusetts Water Resources Authority.

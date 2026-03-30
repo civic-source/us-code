@@ -3,9 +3,9 @@ title: "Section 2703 - Environmental restoration accounts"
 usc_title: 10
 usc_section: "2703"
 chapter: 160
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2703"
-generated_at: "2026-03-30T04:15:29.935Z"
+generated_at: "2026-03-30T04:18:16.923Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
 - **(e)** The following amounts shall be credited to the appropriate environmental restoration account:
   - **(1)** Amounts recovered under CERCLA for response actions.
   - **(2)** Any other amounts recovered from a contractor, insurer, surety, or other person to reimburse the Department of Defense or a military department for any expenditure for environmental response activities.
-- **(f)** None of the funds appropriated to the Environmental Restoration Account, Defense, for fiscal years 1995 through 2010, or to any environmental restoration account of a military department for fiscal years 1997 through 2010, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
+- **(f)** None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 - **(g)**
   - **(1)** Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
   - **(2)** In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA ( 42 U.S.C. 9601 ).

@@ -3,9 +3,9 @@ title: "Section 812 - Art. 12. Confinement with enemy prisoners prohibited"
 usc_title: 10
 usc_section: "812"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 812"
-generated_at: "2026-03-30T04:15:29.842Z"
+generated_at: "2026-03-30T04:18:16.831Z"
 status: "active"
 ---
 

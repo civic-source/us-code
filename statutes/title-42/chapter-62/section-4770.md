@@ -3,9 +3,9 @@ title: "Section 4770 - Limitations on availability of funds for cost sharing"
 usc_title: 42
 usc_section: "4770"
 chapter: 62
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 4770"
-generated_at: "2026-03-30T04:17:41.874Z"
+generated_at: "2026-03-30T04:19:56.191Z"
 status: "active"
 ---
 

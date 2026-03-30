@@ -3,9 +3,9 @@ title: "Section 30503 - Declaration of nature and value of goods"
 usc_title: 46
 usc_section: "30503"
 chapter: 305
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 30503"
-generated_at: "2026-03-30T04:17:46.720Z"
+generated_at: "2026-03-30T04:20:00.762Z"
 status: "active"
 ---
 

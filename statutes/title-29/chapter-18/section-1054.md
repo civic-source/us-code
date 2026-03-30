@@ -3,9 +3,9 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-30T04:17:06.212Z"
+generated_at: "2026-03-30T04:18:56.558Z"
 status: "active"
 ---
 
@@ -209,4 +209,14 @@ status: "active"
       - **(i)** In the case of the portion of an account to which paragraph (3) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , paragraph (3) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
       - **(ii)** Clause (i) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
     - **(B)** For purposes of subparagraph (A), the applicable percentage shall be determined as follows: Plan year to which paragraph (3) applies: The applicable percentage is: 1st 33 2d 66 3d 100.
-- **(k)** For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title .
+- **(k)**
+  - **(1)** Notwithstanding section 1002(24) of this title , an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “applicable plan” means a defined benefit plan the terms of which, on or before December 8, 2014 , provided for a normal retirement age which is the earlier of—
+      - **(i)** an age otherwise permitted under section 1002(24) of this title , or
+      - **(ii)** the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
+    - **(B)** Subject to subparagraph (C), if, after December 8, 2014 , an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+    - **(C)** A defined benefit plan shall be an applicable plan only with respect to an individual who—
+      - **(i)** is a participant in the plan on or before January 1, 2017 , or
+      - **(ii)** is an employee at any time on or before January 1, 2017 , of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+- **(l)** For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title .

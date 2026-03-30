@@ -3,9 +3,9 @@ title: "Section 225g - Financing provisions"
 usc_title: 24
 usc_section: "225g"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "24 U.S.C. § 225g"
-generated_at: "2026-03-30T04:16:43.562Z"
+generated_at: "2026-03-30T04:18:42.434Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(C)** Any individual referred to the system as a result of a criminal proceeding in a Federal court (including an individual admitted for treatment, observation, and diagnosis and an individual found incompetent to stand trial or found not guilty by reason of insanity). The preceding provisions of this paragraph apply to any individual referred to the system (or to Saint Elizabeths Hospital) before or after November 8, 1984 .
   - **(2)** The responsibility of the United States for the cost of services for individuals described in paragraph (1) shall not affect the treatment responsibilities to the District of Columbia under the Interstate Compact on Mental Health.
 - **(c)**
-  - **(1)** During the service coordination and the financial transition periods, the District of Columbia shall gradually assume a greater share of the financial responsibility for the provision of mental health services provided by the system to individuals not described in subsection (b) of this section.
+  - **(1)** During the service coordination and the financial transition periods, the District of Columbia shall gradually assume a greater share of the financial responsibility for the provision of mental health services provided by the system to individuals not described in subsection (b).
   - **(2)** Omitted
 - **(d)** Subject to section 225b(f)(2) of this title , capital improvements to facilities at Saint Elizabeths Hospital authorized during the service coordination period shall be the shared responsibility of the District and the Federal Government in accordance with Public Law 83–472 .
 - **(e)** Pursuant to the financial audit under section 225b(f) of this title , any unassigned liabilities of the Hospital shall be assumed by and shall be the sole responsibility of the Federal Government.

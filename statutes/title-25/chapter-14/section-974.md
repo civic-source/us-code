@@ -3,9 +3,9 @@ title: "Section 974 - Sale of trust lands"
 usc_title: 25
 usc_section: "974"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 974"
-generated_at: "2026-03-30T04:16:44.959Z"
+generated_at: "2026-03-30T04:18:44.156Z"
 status: "active"
 ---
 

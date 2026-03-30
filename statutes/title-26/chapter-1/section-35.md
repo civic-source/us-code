@@ -3,9 +3,9 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-30T04:17:14.415Z"
+generated_at: "2026-03-30T04:19:03.131Z"
 status: "active"
 ---
 
@@ -102,11 +102,11 @@ status: "active"
   - **(8)** For purposes of this section—
     - **(A)** Payments made by the Secretary on behalf of any individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
     - **(B)** Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
-  - **(9)**
+  - **(9)** In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+  - **(10)**
     - **(A)** In the case of any month which would be an eligible coverage month with respect to an eligible individual but for subsection (f)(2)(A), such month shall be treated as an eligible coverage month with respect to such eligible individual solely for purposes of determining the amount of the credit under this section with respect to any qualifying family members of such individual (and any advance payment of such credit under section 7527). This subparagraph shall only apply with respect to the first 24 months after such eligible individual is first entitled to the benefits described in subsection (f)(2)(A).
     - **(B)** In the case of the finalization of a divorce between an eligible individual and such individual’s spouse, such spouse shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such finalization, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such finalization.
     - **(C)** In the case of the death of an eligible individual—
       - **(i)** any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
       - **(ii)** any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
-  - **(9)** In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
-  - **(10)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
+  - **(11)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.

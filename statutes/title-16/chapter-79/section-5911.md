@@ -1,15 +1,13 @@
 ---
-title: "Section 5911 - Protection, interpretation, and research in National Park System"
+title: "Section 5911 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "5911"
 chapter: 79
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5911"
-generated_at: "2026-03-30T04:16:25.468Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.722Z"
+status: "repealed"
 ---
 
-# § 5911. Protection, interpretation, and research in National Park System
-
-Recognizing the ever increasing societal pressures being placed upon America’s unique natural and cultural resources contained in the National Park System, the Secretary shall continually improve the ability of the National Park Service to provide state-of-the-art management, protection, and interpretation of and research on the resources of the National Park System.
+# § 5911. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

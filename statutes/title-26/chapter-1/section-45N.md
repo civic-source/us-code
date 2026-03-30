@@ -3,9 +3,9 @@ title: "Section 45N - Mine rescue team training credit"
 usc_title: 26
 usc_section: "45N"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45N"
-generated_at: "2026-03-30T04:17:14.429Z"
+generated_at: "2026-03-30T04:19:03.143Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(2)** a miner eligible for more than 6 months of such taxable year to serve as a mine rescue team member by virtue of receiving at least 40 hours of refresher training in such instruction.
 - **(c)** For purposes of this section, the term “eligible employer” means any taxpayer which employs individuals as miners in underground mines in the United States.
 - **(d)** For purposes of this section, the term “wages” has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section).
-- **(e)** This section shall not apply to taxable years beginning after December 31, 2013 .
+- **(e)** This section shall not apply to taxable years beginning after December 31, 2014 .

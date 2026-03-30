@@ -3,9 +3,9 @@ title: "Section 855 - Violations; penalties; deportation"
 usc_title: 50
 usc_section: "855"
 chapter: 23
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 855"
-generated_at: "2026-03-30T04:17:50.310Z"
+generated_at: "2026-03-30T04:20:17.686Z"
 status: "active"
 ---
 

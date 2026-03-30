@@ -3,9 +3,9 @@ title: "Section 1032to1035 - Repealed. Pub. L. 102–567, title VIII, § 814 , O
 usc_title: 16
 usc_section: "1032to1035"
 chapter: 19
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1032to1035"
-generated_at: "2026-03-30T04:16:25.342Z"
+generated_at: "2026-03-30T04:18:37.631Z"
 status: "repealed"
 ---
 

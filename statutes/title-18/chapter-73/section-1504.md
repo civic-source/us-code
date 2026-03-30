@@ -3,9 +3,9 @@ title: "Section 1504 - Influencing juror by writing"
 usc_title: 18
 usc_section: "1504"
 chapter: 73
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "18 U.S.C. § 1504"
-generated_at: "2026-03-30T04:16:18.678Z"
+generated_at: "2026-03-30T04:18:30.730Z"
 status: "active"
 ---
 

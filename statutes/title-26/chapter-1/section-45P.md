@@ -3,9 +3,9 @@ title: "Section 45P - Employer wage credit for employees who are active duty mem
 usc_title: 26
 usc_section: "45P"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45P"
-generated_at: "2026-03-30T04:17:14.429Z"
+generated_at: "2026-03-30T04:19:03.143Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
   - **(1)** any taxable year, beginning after the date of the enactment of this section, in which the taxpayer is under a final order, judgment, or other process issued or required by a district court of the United States under section 4323 of title 38 of the United States Code with respect to a violation of chapter 43 of such title, and
   - **(2)** the 2 succeeding taxable years.
 - **(e)** For purposes of this section, rules similar to the rules of subsections (c), (d), and (e) of section 52 shall apply.
-- **(f)** This section shall not apply to any payments made after December 31, 2013 .
+- **(f)** This section shall not apply to any payments made after December 31, 2014 .

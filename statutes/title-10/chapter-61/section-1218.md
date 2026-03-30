@@ -3,9 +3,9 @@ title: "Section 1218 - Discharge or release from active duty: claims for compens
 usc_title: 10
 usc_section: "1218"
 chapter: 61
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 1218"
-generated_at: "2026-03-30T04:15:29.871Z"
+generated_at: "2026-03-30T04:18:16.860Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
     - **(A)** A member described in paragraph (1) may request termination of active duty under such paragraph at any time during the demobilization or disability evaluation process of such member.
     - **(B)** Upon a request under subparagraph (A), a member described in paragraph (1) shall only be released from active duty after the member receives counseling about the consequences of termination of active duty.
     - **(C)** Each release from active duty under subparagraph (B) shall be thoroughly documented.
-  - **(3)** The requirements in paragraph (1) shall expire on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010.
+  - **(3)** The requirements in paragraph (1) shall expire on October 28, 2014 .

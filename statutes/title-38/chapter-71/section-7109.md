@@ -3,9 +3,9 @@ title: "Section 7109 - Independent medical opinions"
 usc_title: 38
 usc_section: "7109"
 chapter: 71
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "38 U.S.C. § 7109"
-generated_at: "2026-03-30T04:17:24.237Z"
+generated_at: "2026-03-30T04:19:32.610Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 14c - Availability for expense of recording donated lands"
+title: "Section 14c - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "14c"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 14c"
-generated_at: "2026-03-30T04:16:25.079Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 14c. Availability for expense of recording donated lands
-
-Appropriations made for the National Park Service shall be available for any expenses incident to the preparation and recording of title evidence covering lands to be donated to the United States for administration by the National Park Service.
+# § 14c. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

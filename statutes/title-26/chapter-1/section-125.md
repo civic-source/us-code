@@ -3,9 +3,9 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-30T04:17:14.450Z"
+generated_at: "2026-03-30T04:19:03.159Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** In the case of a highly compensated participant, subsection (a) shall not apply to any benefit attributable to a plan year for which the plan discriminates in favor of—
     - **(A)** highly compensated individuals as to eligibility to participate, or
     - **(B)** highly compensated participants as to contributions and benefits.
-  - **(2)** In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the statutory nontaxable benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, statutory nontaxable benefits shall be determined without regard to the second sentence of subsection (f).
+  - **(2)** In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the qualified benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, qualified benefits shall be determined without regard to the second sentence of subsection (f).
   - **(3)** For purposes of determining the taxable year of inclusion, any benefit described in paragraph (1) or (2) shall be treated as received or accrued in the taxable year of the participant or key employee in which the plan year ends.
 - **(c)** For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan does not discriminate where qualified benefits and total benefits (or employer contributions allocable to qualified benefits and employer contributions for total benefits) do not discriminate in favor of highly compensated participants.
 - **(d)** For purposes of this section—
@@ -57,8 +57,8 @@ status: "active"
       - **(ii)** Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate in the plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
   - **(4)** All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.
 - **(h)**
-  - **(1)** For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement merely because such arrangement provides for qualified reservist distributions.
-  - **(2)** For purposes of this subsection, the term “qualified reservist distribution” means, 2 2 So in original. The comma probably should not appear. any distribution to an individual of all or a portion of the balance in the employee’s account under such arrangement if—
+  - **(1)** For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement (and shall not fail to be treated as an accident or health plan) merely because such arrangement provides for qualified reservist distributions.
+  - **(2)** For purposes of this subsection, the term “qualified reservist distribution” means any distribution to an individual of all or a portion of the balance in the employee’s account under such arrangement if—
     - **(A)** such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37 , United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
     - **(B)** such distribution is made during the period beginning on the date of such order or call and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
 - **(i)**

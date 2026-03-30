@@ -3,9 +3,9 @@ title: "Section 4304 - Provision of benefits"
 usc_title: 22
 usc_section: "4304"
 chapter: 53
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 4304"
-generated_at: "2026-03-30T04:17:01.881Z"
+generated_at: "2026-03-30T04:18:49.522Z"
 status: "active"
 ---
 

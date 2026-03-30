@@ -3,9 +3,9 @@ title: "Section 347c - Advances to individuals, partnerships, and corporations; 
 usc_title: 12
 usc_section: "347c"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 347c"
-generated_at: "2026-03-30T04:16:05.582Z"
+generated_at: "2026-03-30T04:18:22.686Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-30T04:17:50.355Z"
+generated_at: "2026-03-30T04:20:17.733Z"
 status: "active"
 ---
 
@@ -45,9 +45,9 @@ status: "active"
   - **(4)** ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
   - **(5)** ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
   - **(6)** reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
-  - **(7)** not later than 180 days after July 7, 2014 —
-    - **(A)** developing policies and procedures that permit, to the extent practicable, individuals to appeal a determination to suspend or revoke a security clearance or access to classified information and to retain their government employment status while such challenge is pending; and
-    - **(B)** developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
+  - **(7)** not later than 180 days after July 7, 2014 , and consistent with subsection (j)—
+    - **(A)** developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information and to retain their government employment status while such challenge is pending; and
+    - **(B)** developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 - **(c)**
   - **(1)** Notwithstanding any other provision of law, not later than 180 days after December 17, 2004 , the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
   - **(2)** The agency selected under paragraph (1) shall—

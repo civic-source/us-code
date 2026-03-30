@@ -3,9 +3,9 @@ title: "Section 2755 - Discrimination prohibited if based on race, religion, nat
 usc_title: 22
 usc_section: "2755"
 chapter: 39
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2755"
-generated_at: "2026-03-30T04:17:01.844Z"
+generated_at: "2026-03-30T04:18:49.491Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** No agency performing functions under this chapter shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
   - **(2)** Each contract entered into by any such agency for the performance of any function under this chapter shall contain a provision to the effect that no person, partnership, corporation, or other entity performing functions pursuant to such contract, shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
-- **(c)** The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26 ) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in section 2778(j)(1)(C)(i) of this title . Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
+- **(c)** The President shall promptly transmit reports to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26 ) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in section 2778(j)(1)(C)(i) of this title . Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
 - **(d)**
   - **(1)** Upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Secretary of State, with respect to the country designated in such request, setting forth—
     - **(A)** all the available information about the exclusionary policies or practices of the government of such country when such policies or practices are based upon race, religion, national origin or sex and prevent any such person from participating in the performance of any sale or licensed transaction under this chapter;

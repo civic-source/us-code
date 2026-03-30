@@ -3,15 +3,15 @@ title: "Section 4221 - Certain tax-free sales"
 usc_title: 26
 usc_section: "4221"
 chapter: 32
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 4221"
-generated_at: "2026-03-30T04:17:14.669Z"
+generated_at: "2026-03-30T04:19:03.343Z"
 status: "active"
 ---
 
 # § 4221. Certain tax-free sales
 
-- **(a)** Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter A or C of chapter 31 on the first retail sale) of an article—
+- **(a)** Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter C of chapter 31 on the first retail sale) of an article—
   - **(1)** for use by the purchaser for further manufacture, or for resale by the purchaser to a second purchaser for use by such second purchaser in further manufacture,
   - **(2)** for export, or for resale by the purchaser to a second purchaser for export,
   - **(3)** for use by the purchaser as supplies for vessels or aircraft,
@@ -21,9 +21,9 @@ status: "active"
 - **(b)** Where an article has been sold free of tax under subsection (a)—
   - **(1)** for resale by the purchaser to a second purchaser for use by such second purchaser in further manufacture, or
   - **(2)** for export, or for resale by the purchaser to a second purchaser for export,
-- **(c)** In the case of any article sold free of tax under this section (other than a sale to which subsection (b) applies), and in the case of any article sold free of tax under section 4001(c), 4001(d), or 4053(6), if the manufacturer in good faith accepts a certification by the purchaser that the article will be used in accordance with the applicable provisions of law, no tax shall thereafter be imposed under this chapter in respect of such sale by such manufacturer.
+- **(c)** In the case of any article sold free of tax under this section (other than a sale to which subsection (b) applies), and in the case of any article sold free of tax under section 4053(6), if the manufacturer in good faith accepts a certification by the purchaser that the article will be used in accordance with the applicable provisions of law, no tax shall thereafter be imposed under this chapter in respect of such sale by such manufacturer.
 - **(d)** For purposes of this section—
-  - **(1)** The term “manufacturer” includes a producer or importer of an article, and, in the case of taxes imposed by subchapter A or C of chapter 31, includes the retailer with respect to the first retail sale.
+  - **(1)** The term “manufacturer” includes a producer or importer of an article, and, in the case of taxes imposed by subchapter C of chapter 31, includes the retailer with respect to the first retail sale.
   - **(2)** The term “export” includes shipment to a possession of the United States; and the term “exported” includes shipped to a possession of the United States.
   - **(3)** The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United States or of any foreign nation” includes aircraft owned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
   - **(4)** The term “State or local government” means any State, any political subdivision thereof, or the District of Columbia.

@@ -3,9 +3,9 @@ title: "Section 1394 - Tax-exempt enterprise zone facility bonds"
 usc_title: 26
 usc_section: "1394"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 1394"
-generated_at: "2026-03-30T04:17:14.626Z"
+generated_at: "2026-03-30T04:19:03.305Z"
 status: "active"
 ---
 
@@ -47,11 +47,11 @@ status: "active"
   - **(3)** Paragraphs (1) and (2) shall not apply solely by reason of the termination or revocation of a designation as an empowerment zone or an enterprise community.
   - **(4)** Paragraphs (1) and (2) shall not apply to any cessation resulting from bankruptcy.
 - **(f)**
-  - **(1)** In the case of a new empowerment zone facility bond—
+  - **(1)** In the case of an empowerment zone facility bond—
     - **(A)** such bond shall not be treated as a private activity bond for purposes of section 146, and
     - **(B)** subsection (c) of this section shall not apply.
   - **(2)**
-    - **(A)** Paragraph (1) shall apply to a new empowerment zone facility bond only if such bond is designated for purposes of this subsection by the local government which nominated the area to which such bond relates.
+    - **(A)** Paragraph (1) shall apply to an empowerment zone facility bond only if such bond is designated for purposes of this subsection by the local government which nominated the area to which such bond relates.
     - **(B)** The aggregate face amount of bonds which may be designated under subparagraph (A) with respect to any empowerment zone shall not exceed—
       - **(i)** $60,000,000 if such zone is in a rural area,
       - **(ii)** $130,000,000 if such zone is in an urban area and the zone has a population of less than 100,000, and

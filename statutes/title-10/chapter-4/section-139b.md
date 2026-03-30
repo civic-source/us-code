@@ -3,9 +3,9 @@ title: "Section 139b - Deputy Assistant Secretary of Defense for Developmental T
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-30T04:15:29.820Z"
+generated_at: "2026-03-30T04:18:16.810Z"
 status: "active"
 ---
 
@@ -64,12 +64,14 @@ status: "active"
     - **(C)** assisting the chief developmental tester in providing oversight of contractors under the program and in reaching technically informed, objective judgments about contractor developmental test and evaluation results under the program.
   - **(4)** The chief developmental tester and the lead developmental test and evaluation organization for a major defense acquisition program shall promptly transmit to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation any records or data relating to the program that are requested by the Deputy Assistant Secretary, as provided in subsection (a)(6).
 - **(d)**
-  - **(1)** Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
+  - **(1)** Not later than March 31 of each year, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (a) during the preceding year.
+  - **(2)** Not later than March 31 of every other year, the Deputy Assistant Secretary of Defense for Systems Engineering shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (b) during the preceding two-year period.
+  - **(3)** Each report submitted under paragraph (1) or (2) shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
     - **(A)** A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
     - **(B)** A discussion of the waivers of and deviations from requirements in test and evaluation master plans, systems engineering master plans, and other testing requirements that occurred during the preceding year with respect to such programs, any concerns raised by such waivers or deviations, and the actions that have been taken or are planned to be taken to address such concerns.
     - **(C)** An assessment of the organization and capabilities of the Department of Defense for systems engineering, development planning, and developmental test and evaluation with respect to such programs.
     - **(D)** Any comments on such report that the Secretary of Defense considers appropriate.
-  - **(2)** With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
+  - **(4)** With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
     - **(A)** a separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title ) during the preceding year; and
     - **(B)** a separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
 - **(e)** The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly, in coordination with the official designated by the Secretary of Defense under section 103 of the Weapon Systems Acquisition Reform Act of 2009, issue guidance on the following:

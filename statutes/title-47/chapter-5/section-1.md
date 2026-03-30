@@ -3,9 +3,9 @@ title: "Section 1 - Duty to provide 9–1–1 and enhanced 9–1–1 service"
 usc_title: 47
 usc_section: "1"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "47 U.S.C. § 1"
-generated_at: "2026-03-30T04:17:45.826Z"
+generated_at: "2026-03-30T04:20:10.340Z"
 status: "active"
 ---
 

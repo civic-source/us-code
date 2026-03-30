@@ -3,9 +3,9 @@ title: "Section 1381 - Establishment of Office of Compliance"
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-30T04:15:17.506Z"
+generated_at: "2026-03-30T04:18:06.056Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(2)** Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 - **(h)** The Office shall—
   - **(1)** carry out a program of education for Members of Congress and other employing authorities of the legislative branch of the Federal Government respecting the laws made applicable to them and a program to inform individuals of their rights under laws applicable to the legislative branch of the Federal Government;
-  - **(2)** in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to the residences of covered employees, and conduct seminars and other activities designed to educate employing offices and covered employees; and
+  - **(2)** in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
   - **(3)** compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
 - **(i)** The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs 2 of the Senate and the Committee on House Oversight 2 of the House of Representatives.
 - **(j)** The Office shall be open for business, including receipt of requests for counseling under section 1402 of this title , not later than 1 year after January 23, 1995 .

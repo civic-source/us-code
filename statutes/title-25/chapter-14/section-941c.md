@@ -3,9 +3,9 @@ title: "Section 941c - Settlement funds"
 usc_title: 25
 usc_section: "941c"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 941c"
-generated_at: "2026-03-30T04:16:44.956Z"
+generated_at: "2026-03-30T04:18:44.154Z"
 status: "active"
 ---
 

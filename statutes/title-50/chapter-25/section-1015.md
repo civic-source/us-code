@@ -3,9 +3,9 @@ title: "Section 1015 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1015"
 chapter: 25
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 1015"
-generated_at: "2026-03-30T04:17:50.310Z"
+generated_at: "2026-03-30T04:20:17.686Z"
 status: "repealed"
 ---
 

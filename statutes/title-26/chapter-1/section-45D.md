@@ -3,9 +3,9 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-30T04:17:14.425Z"
+generated_at: "2026-03-30T04:19:03.141Z"
 status: "active"
 ---
 
@@ -79,11 +79,11 @@ status: "active"
     - **(D)** $3,500,000,000 for 2006 and 2007,
     - **(E)** $5,000,000,000 for 2008,
     - **(F)** $5,000,000,000 for 2009 1 1 So in original. Probably should be followed by “, and”.
-    - **(G)** $3,500,000,000 for 2010, 2011, 2012, and 2013.
+    - **(G)** $3,500,000,000 for 2010, 2011, 2012, 2013, and 2014.
   - **(2)** The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
     - **(A)** with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or
     - **(B)** which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.
-  - **(3)** If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2018.
+  - **(3)** If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2019.
 - **(g)**
   - **(1)** If, at any time during the 7-year period beginning on the date of the original issue of a qualified equity investment in a qualified community development entity, there is a recapture event with respect to such investment, then the tax imposed by this chapter for the taxable year in which such event occurs shall be increased by the credit recapture amount.
   - **(2)** For purposes of paragraph (1), the credit recapture amount is an amount equal to the sum of—

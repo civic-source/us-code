@@ -3,9 +3,9 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-30T04:17:14.736Z"
+generated_at: "2026-03-30T04:19:03.396Z"
 status: "active"
 ---
 
@@ -30,7 +30,6 @@ status: "active"
   - **(2)** Paragraph (1) shall apply only if—
     - **(A)** the written advice was reasonably relied upon by the taxpayer and was in response to a specific written request of the taxpayer, and
     - **(B)** the portion of the penalty or addition to tax did not result from a failure by the taxpayer to provide adequate or accurate information.
-  - **(3)** Within 180 days after the date of the enactment of this subsection, the Secretary shall prescribe such initial regulations as may be necessary to carry out this subsection.
 - **(g)**
   - **(1)**
     - **(A)** In the case of an individual who files a return of tax imposed by subtitle A for a taxable year on or before the due date for the return (including extensions), if the Secretary does not provide a notice to the taxpayer specifically stating the taxpayer’s liability and the basis for the liability before the close of the 36-month period beginning on the later of—

@@ -3,9 +3,9 @@ title: "Section 1469 - Omitted"
 usc_title: 30
 usc_section: "1469"
 chapter: 26
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1469"
-generated_at: "2026-03-30T04:17:04.630Z"
+generated_at: "2026-03-30T04:18:52.685Z"
 status: "omitted"
 ---
 

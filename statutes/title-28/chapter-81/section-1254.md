@@ -3,9 +3,9 @@ title: "Section 1254 - Courts of appeals; certiorari; certified questions"
 usc_title: 28
 usc_section: "1254"
 chapter: 81
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "28 U.S.C. § 1254"
-generated_at: "2026-03-30T04:17:07.253Z"
+generated_at: "2026-03-30T04:18:53.893Z"
 status: "active"
 ---
 

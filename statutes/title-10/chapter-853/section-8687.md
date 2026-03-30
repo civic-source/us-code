@@ -3,9 +3,9 @@ title: "Section 8687 - Repealed. Pub. L. 99–661, div. A, title VI, § 604(f)(1
 usc_title: 10
 usc_section: "8687"
 chapter: 853
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 8687"
-generated_at: "2026-03-30T04:15:29.974Z"
+generated_at: "2026-03-30T04:18:16.961Z"
 status: "repealed"
 ---
 

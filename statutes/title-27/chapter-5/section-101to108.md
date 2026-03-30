@@ -3,9 +3,9 @@ title: "Section 101to108 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 
 usc_title: 27
 usc_section: "101to108"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "27 U.S.C. § 101to108"
-generated_at: "2026-03-30T04:17:03.810Z"
+generated_at: "2026-03-30T04:18:51.493Z"
 status: "repealed"
 ---
 

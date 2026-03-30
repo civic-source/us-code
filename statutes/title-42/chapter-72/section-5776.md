@@ -3,9 +3,9 @@ title: "Section 5776 - Criteria for grants"
 usc_title: 42
 usc_section: "5776"
 chapter: 72
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 5776"
-generated_at: "2026-03-30T04:17:41.908Z"
+generated_at: "2026-03-30T04:19:56.231Z"
 status: "active"
 ---
 

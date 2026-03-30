@@ -3,9 +3,9 @@ title: "Section 4703 - Establishment of national Fund for community development 
 usc_title: 12
 usc_section: "4703"
 chapter: 47
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "12 U.S.C. § 4703"
-generated_at: "2026-03-30T04:16:05.768Z"
+generated_at: "2026-03-30T04:18:22.851Z"
 status: "active"
 ---
 

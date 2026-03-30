@@ -3,9 +3,9 @@ title: "Section 47306 - Criminal penalty"
 usc_title: 49
 usc_section: "47306"
 chapter: 473
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "49 U.S.C. § 47306"
-generated_at: "2026-03-30T04:17:49.081Z"
+generated_at: "2026-03-30T04:20:24.689Z"
 status: "active"
 ---
 

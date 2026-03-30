@@ -3,9 +3,9 @@ title: "Section 17501 - Purposes; findings"
 usc_title: 42
 usc_section: "17501"
 chapter: 153
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 17501"
-generated_at: "2026-03-30T04:17:42.220Z"
+generated_at: "2026-03-30T04:19:56.579Z"
 status: "active"
 ---
 

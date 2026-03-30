@@ -3,9 +3,9 @@ title: "Section 5701 - Purposes"
 usc_title: 16
 usc_section: "5701"
 chapter: 77
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 5701"
-generated_at: "2026-03-30T04:16:25.467Z"
+generated_at: "2026-03-30T04:18:37.721Z"
 status: "active"
 ---
 

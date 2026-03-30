@@ -3,9 +3,9 @@ title: "Section 9 - Establishment of fish hatchery in Pennsylvania"
 usc_title: 16
 usc_section: "9"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T04:16:25.302Z"
+generated_at: "2026-03-30T04:18:37.601Z"
 status: "active"
 ---
 

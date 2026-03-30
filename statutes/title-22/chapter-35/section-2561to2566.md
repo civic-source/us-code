@@ -3,9 +3,9 @@ title: "Section 2561to2566 - Repealed. Pub. L. 105–277, div. G , subdiv. A, ti
 usc_title: 22
 usc_section: "2561to2566"
 chapter: 35
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 2561to2566"
-generated_at: "2026-03-30T04:17:01.833Z"
+generated_at: "2026-03-30T04:18:49.481Z"
 status: "repealed"
 ---
 

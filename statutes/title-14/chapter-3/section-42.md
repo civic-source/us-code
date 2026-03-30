@@ -3,15 +3,15 @@ title: "Section 42 - Number and distribution of commissioned officers on active 
 usc_title: 14
 usc_section: "42"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "14 U.S.C. § 42"
-generated_at: "2026-03-30T04:15:52.712Z"
+generated_at: "2026-03-30T04:18:18.999Z"
 status: "active"
 ---
 
 # § 42. Number and distribution of commissioned officers on active duty promotion list
 
-- **(a)** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 7,200; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
+- **(a)** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
 - **(b)**
   - **(1)** The total number of commissioned officers authorized by this section shall be distributed in grade in the following percentages: 0.375 percent for rear admiral; 0.375 percent for rear admiral (lower half); 6.0 percent for captain; 15.0 percent for commander; and 22.0 percent for lieutenant commander.
   - **(2)** The Secretary shall prescribe the percentages applicable to the grades of lieutenant, lieutenant (junior grade), and ensign.

@@ -3,9 +3,9 @@ title: "Section 1220a - Transfer of title; terms and conditions"
 usc_title: 16
 usc_section: "1220a"
 chapter: 25
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1220a"
-generated_at: "2026-03-30T04:16:25.346Z"
+generated_at: "2026-03-30T04:18:37.634Z"
 status: "active"
 ---
 

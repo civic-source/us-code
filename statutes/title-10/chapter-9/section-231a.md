@@ -3,9 +3,9 @@ title: "Section 231a - Budgeting for life-cycle cost of aircraft for the Navy, A
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-30T04:15:29.825Z"
+generated_at: "2026-03-30T04:18:16.816Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(10)** Operational support and executive lift aircraft.
   - **(11)** Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
 - **(c)**
-  - **(1)** The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ), 1 1 See References in Text note below. except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
+  - **(1)** The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 ), except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
   - **(2)** Each annual aircraft procurement plan shall include the following:
     - **(A)** A detailed program for the procurement of the aircraft specified in subsection (b) for each of the Department of the Navy, the Department of the Army, and the Department of the Air Force over the next 30 fiscal years.
     - **(B)** A description of the necessary aviation force structure to meet the requirements of the national military strategy of the United States or the most recent Quadrennial Defense Review, whichever is applicable under paragraph (1).

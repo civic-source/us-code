@@ -3,9 +3,9 @@ title: "Section 2430 - Major defense acquisition program defined"
 usc_title: 10
 usc_section: "2430"
 chapter: 144
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2430"
-generated_at: "2026-03-30T04:15:29.918Z"
+generated_at: "2026-03-30T04:18:16.907Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
 - **(b)** The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 - **(c)** For purposes of subsection (a)(2), the Secretary shall consider, as applicable, the following:
   - **(1)** The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title .
-  - **(2)** The cost estimate referred to in section 2366a(a)(4) 1 1 See References in Text note below. of this title.
+  - **(2)** The cost estimate referred to in section 2366a(a)(6) of this title .
   - **(3)** The cost estimate referred to in section 2366b(a)(1)(C) of this title .
   - **(4)** The cost estimate within a baseline description as required by section 2435 of this title .

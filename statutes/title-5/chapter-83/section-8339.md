@@ -3,9 +3,9 @@ title: "Section 8339 - Computation of annuity"
 usc_title: 5
 usc_section: "8339"
 chapter: 83
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 8339"
-generated_at: "2026-03-30T04:15:08.248Z"
+generated_at: "2026-03-30T04:18:08.029Z"
 status: "active"
 ---
 

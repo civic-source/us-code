@@ -3,9 +3,9 @@ title: "Section 1650 - Transferred"
 usc_title: 19
 usc_section: "1650"
 chapter: 4
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "19 U.S.C. § 1650"
-generated_at: "2026-03-30T04:16:40.538Z"
+generated_at: "2026-03-30T04:18:38.939Z"
 status: "transferred"
 ---
 

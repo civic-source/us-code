@@ -3,9 +3,9 @@ title: "Section 48C - Qualifying advanced energy project credit"
 usc_title: 26
 usc_section: "48C"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 48C"
-generated_at: "2026-03-30T04:17:14.432Z"
+generated_at: "2026-03-30T04:19:03.145Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** For purposes of subsection (a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying advanced energy project.
   - **(2)** Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.
-  - **(3)** The amount which is treated for all taxable years with respect to any qualifying advanced energy project shall not exceed the amount designated by the Secretary as eligible for the credit under this section.
+  - **(3)** The amount which is treated as the qualified investment for all taxable years with respect to any qualifying advanced energy project shall not exceed the amount designated by the Secretary as eligible for the credit under this section.
 - **(c)**
   - **(1)**
     - **(A)** The term “qualifying advanced energy project” means a project—
@@ -25,7 +25,7 @@ status: "active"
         - **(III)** electric grids to support the transmission of intermittent sources of renewable energy, including storage of such energy,
         - **(IV)** property designed to capture and sequester carbon dioxide emissions,
         - **(V)** property designed to refine or blend renewable fuels or to produce energy conservation technologies (including energy-conserving lighting technologies and smart grid technologies),
-        - **(VI)** new qualified plug-in electric drive motor vehicles (as defined by section 30D), qualified plug-in electric vehicles (as defined by section 30(d)), or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or
+        - **(VI)** new qualified plug-in electric drive motor vehicles (as defined by section 30D) or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or
         - **(VII)** other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary, and
       - **(ii)** any portion of the qualified investment of which is certified by the Secretary under subsection (d) as eligible for a credit under this section.
     - **(B)** Such term shall not include any portion of a project for the production of any property which is used in the refining or blending of any transportation fuel (other than renewable fuels).

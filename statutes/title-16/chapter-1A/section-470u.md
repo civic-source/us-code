@@ -1,15 +1,13 @@
 ---
-title: "Section 470u - Report by Secretary to Council"
+title: "Section 470u - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "470u"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 470u"
-generated_at: "2026-03-30T04:16:25.239Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.557Z"
+status: "repealed"
 ---
 
-# § 470u. Report by Secretary to Council
-
-To assist the Council in discharging its responsibilities under this subchapter, the Secretary at the request of the Chairman, shall provide a report to the Council detailing the significance of any historic property, describing the effects of any proposed undertaking on the affected property, and recommending measures to avoid, minimize, or mitigate adverse effects.
+# § 470u. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

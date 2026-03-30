@@ -3,9 +3,9 @@ title: "Section 6968 - Board of Visitors"
 usc_title: 10
 usc_section: "6968"
 chapter: 603
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 6968"
-generated_at: "2026-03-30T04:15:29.963Z"
+generated_at: "2026-03-30T04:18:16.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2103a - Forest Stewardship Program"
 usc_title: 16
 usc_section: "2103a"
 chapter: 41
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 2103a"
-generated_at: "2026-03-30T04:16:25.404Z"
+generated_at: "2026-03-30T04:18:37.677Z"
 status: "active"
 ---
 

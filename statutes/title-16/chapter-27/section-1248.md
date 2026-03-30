@@ -3,9 +3,9 @@ title: "Section 1248 - Easements and rights-of-way"
 usc_title: 16
 usc_section: "1248"
 chapter: 27
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1248"
-generated_at: "2026-03-30T04:16:25.350Z"
+generated_at: "2026-03-30T04:18:37.637Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(2)** The Secretary is authorized to sell any portion of a right-of-way retained by the United States pursuant to subsection (c) of this section located outside the boundaries of a conservation system unit or National Forest if any such portion is—
     - **(A)** not adjacent to or contiguous with any portion of the public lands; or
     - **(B)** determined by the Secretary, pursuant to the disposal criteria established by section 203 of the Federal Land Policy and Management Act of 1976 [ 43 U.S.C. 1713 ], to be suitable for sale.
-  - **(3)** All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 460 l –5 of this title.
+  - **(3)** All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 200302 of title 54 .
   - **(4)** The Secretary of the Interior shall annually report to the Congress the total proceeds from sales under paragraph (2) during the preceding fiscal year. Such report shall be included in the President’s annual budget submitted to the Congress.
 - **(f)** As used in this section—
   - **(1)** The term “conservation system unit” has the same meaning given such term in the Alaska National Interest Lands Conservation Act ( Public Law 96–487 ; 94 Stat. 2371 et seq.), except that such term shall also include units outside Alaska.

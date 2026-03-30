@@ -3,9 +3,9 @@ title: "Section 971 - Definitions"
 usc_title: 16
 usc_section: "971"
 chapter: 16
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 971"
-generated_at: "2026-03-30T04:16:25.337Z"
+generated_at: "2026-03-30T04:18:37.627Z"
 status: "active"
 ---
 

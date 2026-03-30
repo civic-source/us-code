@@ -3,9 +3,9 @@ title: "Section 2523 - Nuclear weapons stockpile stewardship, management, and in
 usc_title: 50
 usc_section: "2523"
 chapter: 42
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "50 U.S.C. § 2523"
-generated_at: "2026-03-30T04:17:50.333Z"
+generated_at: "2026-03-30T04:20:17.710Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
       - **(ii)** a description of any shortage of such individuals that exists at the time of the assessment compared with any shortage expected to exist during the period covered by the future-years nuclear security program.
   - **(4)** With respect to the nuclear security infrastructure—
     - **(A)** a description of the modernization and refurbishment measures the Administrator determines necessary to meet the requirements prescribed in—
-      - **(i)** the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 404a of this title if such strategy has been submitted as of the date of the plan;
+      - **(i)** the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 3043 of this title if such strategy has been submitted as of the date of the plan;
       - **(ii)** the most recent quadrennial defense review if such strategy has not been submitted as of the date of the plan; and
       - **(iii)** the most recent Nuclear Posture Review as of the date of the plan;
     - **(B)** a schedule for implementing the measures described under subparagraph (A) during the 10-year period following the date of the plan; and

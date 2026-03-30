@@ -3,9 +3,9 @@ title: "Section 3631 - Repealed. Pub. L. 90–235, § 7(b)(1) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3631"
 chapter: 349
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 3631"
-generated_at: "2026-03-30T04:15:29.948Z"
+generated_at: "2026-03-30T04:18:16.935Z"
 status: "repealed"
 ---
 

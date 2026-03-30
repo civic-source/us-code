@@ -3,9 +3,9 @@ title: "Section 6 - Prohibited transactions by investment advisers"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-30T04:16:10.593Z"
+generated_at: "2026-03-30T04:18:26.758Z"
 status: "active"
 ---
 

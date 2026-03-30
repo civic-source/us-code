@@ -3,15 +3,15 @@ title: "Section 6039D - Returns and records with respect to certain fringe benef
 usc_title: 26
 usc_section: "6039D"
 chapter: 61
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 6039D"
-generated_at: "2026-03-30T04:17:14.710Z"
+generated_at: "2026-03-30T04:19:03.375Z"
 status: "active"
 ---
 
 # § 6039D. Returns and records with respect to certain fringe benefit plans
 
-- **(a)** Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984 , for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
+- **(a)** Every employer maintaining a specified fringe benefit plan during any year for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
   - **(1)** the number of employees of the employer,
   - **(2)** the number of employees of the employer eligible to participate under the plan,
   - **(3)** the number of employees participating under the plan,
@@ -23,6 +23,6 @@ status: "active"
   - **(1)** who maintains a specified fringe benefit plan during any year for which a return is required under subsection (a), and
   - **(2)** who is required by the Secretary to file an additional return for such year,
 - **(d)** For purposes of this section—
-  - **(1)** The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 120, 125, 127, 129, or 137.
+  - **(1)** The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 125, 127, 129, or 137.
   - **(2)** The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
   - **(3)** In the case of a multiemployer plan, the plan shall be required to provide any information required by this section which the Secretary determines, on the basis of the agreement between the plan and employer, is held by the plan (and not the employer).

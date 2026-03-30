@@ -3,22 +3,78 @@ title: "Section 51312 - Board of Visitors"
 usc_title: 46
 usc_section: "51312"
 chapter: 513
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "46 U.S.C. § 51312"
-generated_at: "2026-03-30T04:17:46.730Z"
+generated_at: "2026-03-30T04:20:00.770Z"
 status: "active"
 ---
 
 # § 51312. Board of Visitors
 
-- **(a)** A Board of Visitors to the United States Merchant Marine Academy shall be established, for a term of 2 years commencing at the beginning of each Congress, to visit the Academy annually on a date determined by the Secretary of Transportation and to make recommendations on the operation of the Academy.
+- **(a)** There shall be a Board of Visitors to the United States Merchant Marine Academy (referred to in this section as the “Board” and the “Academy”, respectively) to provide independent advice and recommendations on matters relating to the United States Merchant Marine Academy.
 - **(b)**
   - **(1)** The Board shall be composed of—
-    - **(A)** 2 Senators appointed by the chairman of the Committee on Commerce, Science, and Transportation of the Senate;
-    - **(B)** 3 Members of the House of Representatives appointed by the chairman of the Committee on Armed Services of the House of Representatives;
-    - **(C)** 1 Senator appointed by the Vice President;
-    - **(D)** 2 Members of the House of Representatives appointed by the Speaker of the House of Representatives; and
-    - **(E)** the chairmen of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives, as ex officio members.
-  - **(2)** If an appointed member of the Board is unable to visit the Academy as provided in subsection (a), another individual may be appointed as a substitute in the manner provided in paragraph (1).
-- **(c)** The chairmen of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives may designate staff members of their committees to serve without reimbursement as staff for the Board.
-- **(d)** When serving away from home or regular place of business, a member of the Board or a staff member designated under subsection (c) shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 .
+    - **(A)** 2 Senators appointed by the Chairman of the Committee on Commerce, Science, and Transportation of the Senate in consultation with the ranking member of such Committee;
+    - **(B)** 3 Members of the House of Representatives appointed by the Chairman of the Committee on Armed Services of the House of Representatives in consultation with the ranking member of such Committee;
+    - **(C)** 1 Senator appointed by the Vice President, who shall be a member of the Committee on Appropriations of the Senate;
+    - **(D)** 2 Members of the House of Representatives appointed by the Speaker of the House of Representatives, in consultation with the Minority Leader, at least 1 of whom shall be a member of the Committee on Appropriations of the House of Representatives;
+    - **(E)** 5 individuals appointed by the President; and
+    - **(F)** as ex officio members—
+      - **(i)** the Commander of the Military Sealift Command;
+      - **(ii)** the Deputy Commandant for Operations of the Coast Guard;
+      - **(iii)** the chairman of the Committee on Commerce, Science, and Transportation of the Senate;
+      - **(iv)** the chairman of the Committee on Armed Services of the House of Representatives;
+      - **(v)** the chairman of the Advisory Board to the Academy established under section 51313; and
+      - **(vi)** the Member of the House of Representatives for the congressional district in which the Academy is located, as a nonvoting member, unless such Member of the House of Representatives is appointed as a voting member of the Board under subparagraph (B) or (D).
+  - **(2)** Of the individuals appointed by the President under paragraph (1)(E)—
+    - **(A)** at least 2 shall be graduates of the Academy;
+    - **(B)** at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies; and
+    - **(C)** 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (B), each member of the Board, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
+    - **(B)** Any member described in subparagraph (A) whose term on the Board has expired, other than a member appointed under any of subparagraphs (A) through (D) of paragraph (1) who is no longer a Member of Congress, shall continue to serve until a successor is appointed.
+  - **(4)** If a member of the Board is no longer able to serve on the Board or resigns, the Designated Federal Officer selected under subsection (g)(2) shall immediately notify the person who appointed such member. Not later than 60 days after that notification, such person shall designate a replacement to serve the remainder of such member’s term.
+  - **(5)**
+    - **(A)** A member of the Board under clause (i) or (ii) of paragraph (1)(F) or appointed under subparagraph (B) or (C) of paragraph (2) may, if unable to attend or participate in an activity described in subsection (d), (e), or (f), designate another individual to serve as a substitute member of the Board, on a temporary basis, to attend or participate in such activity.
+    - **(B)** A substitute member of the Board designated under subparagraph (A) shall be—
+      - **(i)** an individual serving in a position for which the individual was appointed by the President and confirmed by the Senate;
+      - **(ii)** a member of the Senior Executive Service; or
+      - **(iii)** an officer of flag-rank who is employed by—
+        - **(I)** the Coast Guard; or
+        - **(II)** the Military Sealift Command.
+    - **(C)** A substitute member of the Board designated under subparagraph (A)—
+      - **(i)** shall be permitted by the Board to fully participate in the proceedings and activities of the Board;
+      - **(ii)** shall report to the member that designated the substitute member on the Board’s activities not later than 15 days following the substitute member’s participation in such activities; and
+      - **(iii)** shall be permitted by the Board to participate in the preparation of reports described in paragraph 1 1 So in original. Probably should be “subsection”. (j) related to any proceedings or activities of the Board in which such substitute member participates.
+- **(c)**
+  - **(1)** On a biennial basis and subject to paragraph (2), the Board shall select from among its members a Member of the House of Representatives or a Senator to serve as the Chairperson.
+  - **(2)** A Member of the House of Representatives and a Member of the Senate shall alternately be selected as the Chairperson of the Board.
+  - **(3)** An individual may not serve as Chairperson for consecutive terms.
+- **(d)**
+  - **(1)** The Board shall meet as provided for in the Charter adopted under paragraph (2)(B), including at least 1 meeting held at the Academy.
+  - **(2)** The Designated Federal Officer selected under subsection (g)(2) shall organize a meeting of the Board for the purposes of—
+    - **(A)** selecting a Chairperson under subsection (c); and
+    - **(B)** adopting an official Charter for the Board, which shall establish the schedule of meetings of the Board.
+- **(e)**
+  - **(1)** The Board shall visit the Academy annually on a date selected by the Board, in consultation with the Secretary of Transportation and the Superintendent of the Academy.
+  - **(2)** In cooperation with the Superintendent, the Board or its members may make other visits to the Academy in connection with the duties of the Board.
+  - **(3)** While visiting the Academy under this subsection, members of the Board shall have reasonable access to the grounds, facilities, midshipmen, faculty, staff, and other personnel of the Academy for the purpose of carrying out the duties of the Board.
+- **(f)** The Board shall inquire into the state of morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, and academic methods of the Academy, and other matters relating to the Academy that the Board decides to consider.
+- **(g)** The Secretary of Transportation shall—
+  - **(1)** provide support as deemed necessary by the Board for the performance of the Board’s functions;
+  - **(2)** select a Designated Federal Officer to support the performance of the Board’s functions; and
+  - **(3)** in cooperation with the Maritime Administrator and the Superintendent of the Academy, advise the Board of any institutional issues, consistent with applicable laws concerning the disclosure of information.
+- **(h)** Each of the chairman of the Committee on Commerce, Science, and Transportation of the Senate and the chairman of the Committee on Armed Services of the House of Representatives may designate staff members of such Committee to serve, without additional reimbursement (except as provided in subsection (i)), as staff for the Board.
+- **(i)** While serving away from his or her home or regular place of business, a member of the Board or a staff member designated under subsection (h) shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5 , United States Code.
+- **(j)**
+  - **(1)** Not later than 60 days after each annual visit required under subsection (e)(1), the Board shall submit to the President a written report of its actions, views, and recommendations pertaining to the Academy.
+  - **(2)** If the members of the Board visit the Academy under subsection (e)(2), the Board may—
+    - **(A)** prepare a report on such visit; and
+    - **(B)** if approved by a majority of the members of the Board, submit such report to the President not later than 60 days after the date of the approval.
+  - **(3)** The Board may call in advisers—
+    - **(A)** for consultation regarding the execution of the Board’s responsibility under subsection (f); or
+    - **(B)** to assist in the preparation of a report described in paragraph (1) or (2).
+  - **(4)** A report submitted to the President under paragraph (1) or (2) shall be concurrently submitted to—
+    - **(A)** the Secretary of Transportation;
+    - **(B)** the Committee on Commerce, Science, and Transportation of the Senate; and
+    - **(C)** the Committee on Armed Services of the House of Representatives.

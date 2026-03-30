@@ -3,9 +3,9 @@ title: "Section 1235 - Sale or exchange of patents"
 usc_title: 26
 usc_section: "1235"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 1235"
-generated_at: "2026-03-30T04:17:14.611Z"
+generated_at: "2026-03-30T04:19:03.293Z"
 status: "active"
 ---
 
@@ -18,9 +18,8 @@ status: "active"
   - **(1)** any individual whose efforts created such property, or
   - **(2)** any other individual who has acquired his interest in such property in exchange for consideration in money or money’s worth paid to such creator prior to actual reduction to practice of the invention covered by the patent, if such individual is neither—
     - **(A)** the employer of such creator, nor
-    - **(B)** related to such creator (within the meaning of subsection (d)).
-- **(c)** This section shall be applicable with regard to any amounts received, or payments made, pursuant to a transfer described in subsection (a) in any taxable year to which this subtitle applies, regardless of the taxable year in which such transfer occurred.
-- **(d)** Subsection (a) shall not apply to any transfer, directly or indirectly, between persons specified within any one of the paragraphs of section 267(b) or persons described in section 707(b); except that, in applying section 267(b) and (c) and section 707(b) for purposes of this section—
+    - **(B)** related to such creator (within the meaning of subsection (c)).
+- **(c)** Subsection (a) shall not apply to any transfer, directly or indirectly, between persons specified within any one of the paragraphs of section 267(b) or persons described in section 707(b); except that, in applying section 267(b) and (c) and section 707(b) for purposes of this section—
   - **(1)** the phrase “25 percent or more” shall be substituted for the phrase “more than 50 percent” each place it appears in section 267(b) or 707(b), and
   - **(2)** paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants.
-- **(e)** For special rule relating to nonresident aliens, see section 871(a).
+- **(d)** For special rule relating to nonresident aliens, see section 871(a).

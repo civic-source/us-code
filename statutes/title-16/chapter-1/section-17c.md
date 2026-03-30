@@ -1,15 +1,13 @@
 ---
-title: "Section 17c - Procurement of supplies, materials, and special services to aid permittees and licensees in emergencies; authority of Secretary of the Interior"
+title: "Section 17c - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
 usc_title: 16
 usc_section: "17c"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 17c"
-generated_at: "2026-03-30T04:16:25.079Z"
-status: "active"
+generated_at: "2026-03-30T04:18:37.451Z"
+status: "repealed"
 ---
 
-# § 17c. Procurement of supplies, materials, and special services to aid permittees and licensees in emergencies; authority of Secretary of the Interior
-
-The Secretary of the Interior is authorized in emergencies, when no other source is available for the immediate procurement of supplies, materials, or special services, to aid and assist grantees, permittees, or licensees conducting operations for the benefit of the public in the national parks and national monuments by the sale at cost, including transportation and handling of such supplies, materials, or special services as may be necessary to relieve the emergency and insure uninterrupted service to the public: Provided , That the receipts from such sales shall be deposited as a refund to the appropriation or appropriations current at the date of covering in of such deposit, and shall be available for expenditure for national-park and national-monument purposes.
+# § 17c. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
 

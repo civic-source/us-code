@@ -3,9 +3,9 @@ title: "Section 658f - Requests to Congressional Budget Office from Senators"
 usc_title: 2
 usc_section: "658f"
 chapter: 17
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "2 U.S.C. § 658f"
-generated_at: "2026-03-30T04:15:17.495Z"
+generated_at: "2026-03-30T04:18:06.044Z"
 status: "active"
 ---
 

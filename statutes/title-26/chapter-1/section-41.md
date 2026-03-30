@@ -3,9 +3,9 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-30T04:17:14.419Z"
+generated_at: "2026-03-30T04:19:03.134Z"
 status: "active"
 ---
 
@@ -260,9 +260,7 @@ status: "active"
   - **(3)** is a beneficiary of an estate or trust, or
   - **(4)** is a shareholder in an S corporation,
 - **(h)**
-  - **(1)** This section shall not apply to any amount paid or incurred—
-    - **(A)** after June 30, 1995 , and before July 1, 1996 , or
-    - **(B)** after December 31, 2013 .
+  - **(1)** This section shall not apply to any amount paid or incurred after December 31, 2014 .
   - **(2)** No election under subsection (c)(4) shall apply to taxable years beginning after December 31, 2008 .
   - **(2)** In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year—
     - **(A)** the amount determined under subsection (c)(1)(B) with respect to such taxable year shall be the amount which bears the same ratio to such amount (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year, and

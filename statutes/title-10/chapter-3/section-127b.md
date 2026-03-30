@@ -3,9 +3,9 @@ title: "Section 127b - Assistance in combating terrorism: rewards"
 usc_title: 10
 usc_section: "127b"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 127b"
-generated_at: "2026-03-30T04:15:29.817Z"
+generated_at: "2026-03-30T04:18:16.807Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(3)**
     - **(A)** Subject to subparagraphs (B) and (C), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
     - **(B)** The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
-    - **(C)** Rewards may not be made in the manner described in subparagraph (A) after September 30, 2014 .
+    - **(C)** Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015 .
     - **(D)** Not later than April 1, 2008 , the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
       - **(i)** identify the type, amount, and recipient of the reward;
       - **(ii)** explain the reason for making the reward; and

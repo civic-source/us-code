@@ -3,9 +3,9 @@ title: "Section 48to50 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(
 usc_title: 24
 usc_section: "48to50"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "24 U.S.C. § 48to50"
-generated_at: "2026-03-30T04:16:43.561Z"
+generated_at: "2026-03-30T04:18:42.431Z"
 status: "repealed"
 ---
 

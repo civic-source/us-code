@@ -3,9 +3,9 @@ title: "Section 1621 - Indian Health Care Improvement Fund"
 usc_title: 25
 usc_section: "1621"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 1621"
-generated_at: "2026-03-30T04:16:44.976Z"
+generated_at: "2026-03-30T04:18:44.172Z"
 status: "active"
 ---
 

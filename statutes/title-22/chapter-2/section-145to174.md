@@ -3,9 +3,9 @@ title: "Section 145to174 - Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774"
 usc_title: 22
 usc_section: "145to174"
 chapter: 2
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "22 U.S.C. § 145to174"
-generated_at: "2026-03-30T04:17:01.744Z"
+generated_at: "2026-03-30T04:18:49.403Z"
 status: "repealed"
 ---
 

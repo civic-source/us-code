@@ -3,9 +3,9 @@ title: "Section 2929to2929c - Repealed. Pub. L. 97–35, title VI, § 683(a) , A
 usc_title: 42
 usc_section: "2929to2929c"
 chapter: 34
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 2929to2929c"
-generated_at: "2026-03-30T04:17:41.814Z"
+generated_at: "2026-03-30T04:19:56.126Z"
 status: "repealed"
 ---
 

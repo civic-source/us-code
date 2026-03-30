@@ -3,9 +3,9 @@ title: "Section 701to723 - Repealed. Feb. 10, 1936, ch. 42 , 49 Stat. 1106"
 usc_title: 7
 usc_section: "701to723"
 chapter: 27
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "7 U.S.C. § 701to723"
-generated_at: "2026-03-30T04:15:50.012Z"
+generated_at: "2026-03-30T04:18:12.749Z"
 status: "repealed"
 ---
 

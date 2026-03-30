@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 29
 usc_section: "1301"
 chapter: 18
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "29 U.S.C. § 1301"
-generated_at: "2026-03-30T04:17:06.235Z"
+generated_at: "2026-03-30T04:18:56.577Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
   - **(6)** “basic benefits” means benefits guaranteed under section 1322 of this title (other than under section 1322(c) 1 1 See References in Text note below. of this title), or under section 1322a of this title (other than under section 1322a(g) of this title );
   - **(7)** “non-basic benefits” means benefits guaranteed under section 1322(c) 1 of this title or 1322a(g) of this title;
   - **(8)** “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant’s accumulated mandatory employee contributions upon the participant’s death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
-  - **(9)** “reorganization index” means the amount determined under section 1421(b) of this title ;
+  - **(9)** Repealed. Pub. L. 113–235, div. O, title I, § 108(a)(3)(A) , Dec. 16, 2014 , 128 Stat. 2787 .
   - **(10)** “plan sponsor” means, with respect to a multiemployer plan—
     - **(A)** the plan’s joint board of trustees, or
     - **(B)** if the plan has no joint board of trustees, the plan administrator;

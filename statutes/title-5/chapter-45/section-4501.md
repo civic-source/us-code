@@ -3,9 +3,9 @@ title: "Section 4501 - Definitions"
 usc_title: 5
 usc_section: "4501"
 chapter: 45
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "5 U.S.C. § 4501"
-generated_at: "2026-03-30T04:15:08.214Z"
+generated_at: "2026-03-30T04:18:07.996Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ For the purpose of this subchapter—
     - **(B)** the Library of Congress;
     - **(C)** the Office of the Architect of the Capitol;
     - **(D)** the Botanic Garden;
-    - **(E)** the Government Printing Office;
+    - **(E)** the Government Publishing Office;
     - **(F)** the government of the District of Columbia; and
     - **(G)** the United States Sentencing Commission;
       - **(i)** the Tennessee Valley Authority; or

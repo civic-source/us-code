@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations"
 usc_title: 20
 usc_section: "3"
 chapter: 3
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T04:16:29.481Z"
+generated_at: "2026-03-30T04:18:34.358Z"
 status: "active"
 ---
 

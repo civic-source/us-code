@@ -3,9 +3,9 @@ title: "Section 613 - Research, evaluations, and national studies"
 usc_title: 42
 usc_section: "613"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 613"
-generated_at: "2026-03-30T04:17:41.533Z"
+generated_at: "2026-03-30T04:19:55.808Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
     - **(G)** The average income of the families of the members of each group.
     - **(H)** Such other matters as the Secretary deems appropriate.
 - **(h)**
-  - **(1)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2012 for the purpose of paying—
+  - **(1)** Funds made available to carry out this section for a fiscal year shall be used for the purpose of paying—
     - **(A)** the cost of conducting the research described in subsection (a) of this section;
     - **(B)** the cost of developing and evaluating innovative approaches for reducing welfare dependency and increasing the well-being of minor children under subsection (b) of this section;
     - **(C)** the Federal share of any State-initiated study approved under subsection (f) of this section; and

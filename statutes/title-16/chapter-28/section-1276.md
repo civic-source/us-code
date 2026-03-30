@@ -3,9 +3,9 @@ title: "Section 1276 - Rivers constituting potential additions to national wild 
 usc_title: 16
 usc_section: "1276"
 chapter: 28
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "16 U.S.C. § 1276"
-generated_at: "2026-03-30T04:16:25.356Z"
+generated_at: "2026-03-30T04:18:37.642Z"
 status: "active"
 ---
 
@@ -176,6 +176,26 @@ status: "active"
   - **(138)** The segment from its headwaters downstream to its confluence with the Connecticut River.
   - **(139)** The segment of the Farmington River downstream from the segment designated as a recreational river by section 1274(a)(156) of this title to its confluence with the Connecticut River, and the segment of the Salmon Brook including its mainstream and east and west branches.
   - **(140)** The approximately 25-mile segment of the upper Missisquoi from its headwaters in Lowell to the Canadian border in North Troy, the approximately 25-mile segment from the Canadian border in East Richford to Enosburg Falls, and the approximately 20-mile segment of the Trout River from its headwaters to its confluence with the Missisquoi River.
+  - **(141)**
+    - **(A)** The 2.6-mile segment of Cave Creek from the headwaters at the River Styx to the boundary of the Rogue River Siskiyou National Forest.
+    - **(B)** The 3.6-mile segment of Lake Creek from the headwaters at Bigelow Lakes to the confluence with Cave Creek.
+    - **(C)** The 0.6-mile segment of No Name Creek from the headwaters to the confluence with Cave Creek.
+    - **(D)** The 0.8-mile segment of Panther Creek from the headwaters to the confluence with Lake Creek.
+    - **(E)** The segment of Upper Cave Creek from the headwaters to the confluence with River Styx.
+  - **(142)** The following segments:
+    - **(A)** The approximately 10-mile segment of the Beaver River from the headwaters in Exeter, Rhode Island, to the confluence with the Pawcatuck River.
+    - **(B)** The approximately 5-mile segment of the Chipuxet River from Hundred Acre Pond to the outlet into Worden Pond.
+    - **(C)** The approximately 10-mile segment of the upper Queen River from the headwaters to the Usquepaugh Dam in South Kingstown, Rhode Island, including all tributaries of the upper Queen River.
+    - **(D)** The approximately 5-mile segment of the lower Queen (Usquepaugh) River from the Usquepaugh Dam to the confluence with the Pawcatuck River.
+    - **(E)** The approximately 11-mile segment of the upper Wood River from the headwaters to Skunk Hill Road in Richmond and Hopkinton, Rhode Island, including all tributaries of the upper Wood River.
+    - **(F)** The approximately 10-mile segment of the lower Wood River from Skunk Hill Road to the confluence with the Pawcatuck River.
+    - **(G)** The approximately 28-mile segment of the Pawcatuck River from Worden Pond to Nooseneck Hill Road (Rhode Island Rte 3) in Hopkinton and Westerly, Rhode Island.
+    - **(H)** The approximately 7-mile segment of the lower Pawcatuck River from Nooseneck Hill Road to Pawcatuck Rock, Stonington, Connecticut, and Westerly, Rhode Island.
+  - **(143)** The following segments:
+    - **(A)** The approximately 19-mile segment of the mainstem of the Nashua River from the confluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
+    - **(B)** The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
+    - **(C)** The 3.5-mile segment of the Nissitissit River from the Massachusetts-New Hampshire State line downstream to the confluence with the Nashua River in Pepperell, Massachusetts.
+  - **(144)** The segment of the York River that flows 11.25 miles from the headwaters of the York River at York Pond to the mouth of the river at York Harbor, and any associated tributaries.
 - **(b)**
   - **(1)** The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979 : Provided , That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975 , whichever is earlier. Studies of the river 2 2 So in original. Probably should be “rivers”. named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987 .
   - **(2)** The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976 .
@@ -208,6 +228,22 @@ status: "active"
   - **(19)** Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
     - **(A)** complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(140); and
     - **(B)** submit a report describing the results of that study to the appropriate committees of Congress.
+  - **(20)** Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary shall—
+    - **(A)** complete the study of the Oregon Caves National Monument and Preserve segments described in subsection (a)(141); and
+    - **(B)** submit to Congress a report containing the results of the study.
+  - **(21)**
+    - **(A)** Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+      - **(i)** complete each of the studies 8 8 So in original. Probably should refer to the river segments described in those paragraphs. described in paragraphs (142), (143), and (144) of subsection (a); and
+      - **(ii)** submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the results of each of the studies.
+    - **(B)** In assessing the potential additions to the wild and scenic river system, the report submitted under subparagraph (A)(ii) shall—
+      - **(i)** determine the effect of the designation on—
+        - **(I)** existing commercial and recreational activities, such as hunting, fishing, trapping, recreational shooting, motor boat use, and bridge construction;
+        - **(II)** the authorization, construction, operation, maintenance, or improvement of energy production, transmission, or other infrastructure; and
+        - **(III)** the authority of State and local governments to manage the activities described in subclauses (I) and (II);
+      - **(ii)** identify any authorities that, in a case in which an area studied under paragraph (142), (143), or (144) of subsection (a) is designated under this chapter—
+        - **(I)** would authorize or require the Secretary of the Interior—
+        - **(II)** the Secretary of the Interior may use to condemn property; and
+      - **(iii)** identify any private property located in an area studied under paragraph (142), (143), or (144) of subsection (a).
 - **(c)** The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
 - **(d)**
   - **(1)** In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.

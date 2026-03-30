@@ -3,9 +3,9 @@ title: "Section 812 - Definition of company’s share and policyholders’ share
 usc_title: 26
 usc_section: "812"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 812"
-generated_at: "2026-03-30T04:17:14.569Z"
+generated_at: "2026-03-30T04:19:03.258Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
 - **(e)**
   - **(1)** For purposes of this section, the term “gross investment income” shall not include any dividend received by the life insurance company which is a 100 percent dividend.
   - **(2)**
-    - **(A)** Except as provided in subparagraphs (B) and (C), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+    - **(A)** Except as provided in subparagraphs (B) and (C), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
     - **(B)** The term “100 percent dividend” does not include any distribution by a corporation to the extent such distribution is out of tax-exempt interest or out of dividends which are not 100 percent dividends (determined with the application of this subparagraph).
     - **(C)** The term “100 percent dividends” does not include any dividend described in section 805(a)(4)(E) (relating to certain dividends in the case of foreign corporations).
 - **(f)** Under regulations, proper adjustments shall be made in the application of this section to prevent an item from being counted more than once.

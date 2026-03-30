@@ -3,9 +3,9 @@ title: "Section 112 - Certain combat zone compensation of members of the Armed F
 usc_title: 26
 usc_section: "112"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 112"
-generated_at: "2026-03-30T04:17:14.447Z"
+generated_at: "2026-03-30T04:19:03.158Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
   - **(2)** was hospitalized as a result of wounds, disease, or injury incurred while serving in a combat zone; but this paragraph shall not apply for any month beginning more than 2 years after the date of the termination of combatant activities in such zone.
 - **(c)** For purposes of this section—
   - **(1)** The term “commissioned officer” does not include a commissioned warrant officer.
-  - **(2)** The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have (after June 24, 1950 ) engaged in combat.
-  - **(3)** Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone; except that June 25, 1950 , shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
+  - **(2)** The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have engaged in combat.
+  - **(3)** Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone.
   - **(4)** The term “compensation” does not include pensions and retirement pay.
   - **(5)** The term “maximum enlisted amount” means, for any month, the sum of—
     - **(A)** the highest rate of basic pay payable for such month to any enlisted member of the Armed Forces of the United States at the highest pay grade applicable to enlisted members, and

@@ -3,9 +3,9 @@ title: "Section 10193 - Identification of sites"
 usc_title: 42
 usc_section: "10193"
 chapter: 108
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 10193"
-generated_at: "2026-03-30T04:17:42.068Z"
+generated_at: "2026-03-30T04:19:56.411Z"
 status: "active"
 ---
 

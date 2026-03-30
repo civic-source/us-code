@@ -3,9 +3,9 @@ title: "Section 132 - Controlling law; effect on other agencies"
 usc_title: 13
 usc_section: "132"
 chapter: 5
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "13 U.S.C. § 132"
-generated_at: "2026-03-30T04:15:52.503Z"
+generated_at: "2026-03-30T04:18:18.721Z"
 status: "active"
 ---
 

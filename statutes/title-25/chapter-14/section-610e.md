@@ -3,9 +3,9 @@ title: "Section 610e - Assignment of income"
 usc_title: 25
 usc_section: "610e"
 chapter: 14
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "25 U.S.C. § 610e"
-generated_at: "2026-03-30T04:16:44.938Z"
+generated_at: "2026-03-30T04:18:44.140Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3306 - Accommodating federal agencies"
 usc_title: 40
 usc_section: "3306"
 chapter: 33
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "40 U.S.C. § 3306"
-generated_at: "2026-03-30T04:17:22.702Z"
+generated_at: "2026-03-30T04:19:36.312Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The term “commercial activities” includes the operations of restaurants, food stores, craft stores, dry goods stores, financial institutions, and display facilities.
   - **(2)** The term “cultural activities” includes film, dramatic, dance, and musical presentations, and fine art exhibits, whether or not those activities are intended to make a profit.
   - **(3)** The terms “educational activities” includes the operations of libraries, schools, day care centers, laboratories, and lecture and demonstration facilities.
-  - **(4)** The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under section 101 of the National Historic Preservation Act ( 16 U.S.C. 470a ).
+  - **(4)** The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under chapter 3021 of title 54.
   - **(5)** The term “recreational activities” includes the operations of gymnasiums and related facilities.
   - **(6)** The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
 - **(b)** To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—

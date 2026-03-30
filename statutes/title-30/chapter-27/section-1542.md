@@ -3,9 +3,9 @@ title: "Section 1542 - Regulations"
 usc_title: 30
 usc_section: "1542"
 chapter: 27
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "30 U.S.C. § 1542"
-generated_at: "2026-03-30T04:17:04.631Z"
+generated_at: "2026-03-30T04:18:52.685Z"
 status: "active"
 ---
 

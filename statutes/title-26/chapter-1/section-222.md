@@ -3,9 +3,9 @@ title: "Section 222 - Qualified tuition and related expenses"
 usc_title: 26
 usc_section: "222"
 chapter: 1
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "26 U.S.C. § 222"
-generated_at: "2026-03-30T04:17:14.484Z"
+generated_at: "2026-03-30T04:19:03.187Z"
 status: "active"
 ---
 
@@ -40,4 +40,4 @@ status: "active"
   - **(4)** If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
   - **(5)** If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
   - **(6)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
-- **(e)** This section shall not apply to taxable years beginning after December 31, 2013 .
+- **(e)** This section shall not apply to taxable years beginning after December 31, 2014 .

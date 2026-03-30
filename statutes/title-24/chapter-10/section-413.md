@@ -3,18 +3,18 @@ title: "Section 413 - Services provided to residents"
 usc_title: 24
 usc_section: "413"
 chapter: 10
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "24 U.S.C. § 413"
-generated_at: "2026-03-30T04:16:43.564Z"
+generated_at: "2026-03-30T04:18:42.435Z"
 status: "active"
 ---
 
 # § 413. Services provided to residents
 
-- **(a)** Except as provided in subsections (b), (c), and (d) of this section, a resident of the Retirement Home shall receive the services authorized by the Chief Operating Officer.
-- **(b)** The Retirement Home shall provide for the overall health care needs of residents in a high quality and cost-effective manner, including on site primary care, medical care, and a continuum of long-term care services. The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents. Secondary and tertiary hospital care for residents that is not available at a facility of the Retirement Home shall, to the extent available, be obtained by agreement with the Secretary of Veterans Affairs or the Secretary of Defense in a facility administered by such Secretary. Except as provided in subsection (d) of this section, the Retirement Home shall not be responsible for the costs incurred for such care by a resident of the Retirement Home who uses a private medical facility for such care. The Retirement Home may not construct an acute care facility.
+- **(a)** Except as provided in subsections (b), (c), and (d), a resident of the Retirement Home shall receive the services authorized by the Chief Operating Officer.
+- **(b)** The Retirement Home shall provide for the overall health care needs of residents in a high quality and cost-effective manner, including on site primary care, medical care, and a continuum of long-term care services. The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents. Secondary and tertiary hospital care for residents that is not available at a facility of the Retirement Home shall, to the extent available, be obtained by agreement with the Secretary of Veterans Affairs or the Secretary of Defense in a facility administered by such Secretary. Except as provided in subsection (d), the Retirement Home shall not be responsible for the costs incurred for such care by a resident of the Retirement Home who uses a private medical facility for such care. The Retirement Home may not construct an acute care facility.
 - **(c)**
-  - **(1)** In providing for the health care needs of residents at a facility of the Retirement Home under subsection (b) of this section, the Retirement Home shall have a physician and a dentist—
+  - **(1)** In providing for the health care needs of residents at a facility of the Retirement Home under subsection (b), the Retirement Home shall have a physician and a dentist—
     - **(A)** available at the facility during the daily business hours of the facility; and
     - **(B)** available on an on-call basis at other times.
   - **(2)** The physicians and dentists required by this subsection shall have the skills and experience suited to residents of the facility served by the physicians and dentists.

@@ -3,9 +3,9 @@ title: "Section 4853 - Worker protection"
 usc_title: 42
 usc_section: "4853"
 chapter: 63
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "42 U.S.C. § 4853"
-generated_at: "2026-03-30T04:17:41.876Z"
+generated_at: "2026-03-30T04:19:56.193Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2324 - Allowable costs under defense contracts"
 usc_title: 10
 usc_section: "2324"
 chapter: 137
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 2324"
-generated_at: "2026-03-30T04:15:29.908Z"
+generated_at: "2026-03-30T04:18:16.897Z"
 status: "active"
 ---
 
@@ -47,6 +47,7 @@ status: "active"
     - **(O)** Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
     - **(P)** 1 1 So in original. Two subpars. (P) have been enacted. Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.
     - **(P)** 1 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+    - **(Q)** Costs incurred by a contractor in connection with a congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in subsection (k)(2).
   - **(2)**
     - **(A)** The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor’s control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
     - **(B)** In subparagraph (A):

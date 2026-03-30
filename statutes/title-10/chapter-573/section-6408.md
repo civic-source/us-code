@@ -3,9 +3,9 @@ title: "Section 6408 - Navy and Marine Corps; warrant officers, W–1: limitatio
 usc_title: 10
 usc_section: "6408"
 chapter: 573
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "10 U.S.C. § 6408"
-generated_at: "2026-03-30T04:15:29.962Z"
+generated_at: "2026-03-30T04:18:16.949Z"
 status: "active"
 ---
 

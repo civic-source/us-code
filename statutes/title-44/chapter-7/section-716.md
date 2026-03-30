@@ -3,13 +3,13 @@ title: "Section 716 - Printing of documents not provided for by law"
 usc_title: 44
 usc_section: "716"
 chapter: 7
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "44 U.S.C. § 716"
-generated_at: "2026-03-30T04:17:26.010Z"
+generated_at: "2026-03-30T04:19:38.079Z"
 status: "active"
 ---
 
 # § 716. Printing of documents not provided for by law
 
-Either House may order the printing of a document not already provided for by law, when accompanied by an estimate from the Public Printer as to the probable cost. An executive department, bureau, board, or independent office of the Government submitting reports or documents in response to inquiries from Congress shall include an estimate of the probable cost of printing to the usual number. This section does not apply to reports or documents not exceeding fifty pages.
+Either House may order the printing of a document not already provided for by law, when accompanied by an estimate from the Director of the Government Publishing Office as to the probable cost. An executive department, bureau, board, or independent office of the Government submitting reports or documents in response to inquiries from Congress shall include an estimate of the probable cost of printing to the usual number. This section does not apply to reports or documents not exceeding fifty pages.
 

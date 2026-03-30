@@ -3,9 +3,9 @@ title: "Section 1230 - International agreements"
 usc_title: 33
 usc_section: "1230"
 chapter: 25
-current_through: "PL 113-234"
+current_through: "PL 113-296"
 classification: "33 U.S.C. § 1230"
-generated_at: "2026-03-30T04:17:18.937Z"
+generated_at: "2026-03-30T04:19:23.105Z"
 status: "active"
 ---
 
