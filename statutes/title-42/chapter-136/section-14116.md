@@ -3,9 +3,9 @@ title: "Section 14116 - Transferred"
 usc_title: 42
 usc_section: "14116"
 chapter: 136
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 14116"
-generated_at: "2026-03-30T07:10:20.040Z"
+generated_at: "2026-03-30T07:13:46.157Z"
 status: "transferred"
 ---
 

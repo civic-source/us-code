@@ -3,9 +3,9 @@ title: "Section 78 - Cooperation of Smithsonian Institution with State instituti
 usc_title: 20
 usc_section: "78"
 chapter: 3
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 78"
-generated_at: "2026-03-30T07:09:38.120Z"
+generated_at: "2026-03-30T07:11:44.973Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8520 - Vesting of property left by decedents"
 usc_title: 38
 usc_section: "8520"
 chapter: 85
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "38 U.S.C. § 8520"
-generated_at: "2026-03-30T07:10:04.410Z"
+generated_at: "2026-03-30T07:12:54.456Z"
 status: "active"
 ---
 

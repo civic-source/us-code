@@ -3,9 +3,9 @@ title: "Section 283 - Acceptance of membership by United States in Inter-America
 usc_title: 22
 usc_section: "283"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 283"
-generated_at: "2026-03-30T07:09:46.901Z"
+generated_at: "2026-03-30T07:12:12.201Z"
 status: "active"
 ---
 

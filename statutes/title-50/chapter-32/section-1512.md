@@ -3,9 +3,9 @@ title: "Section 1512 - Transportation, open air testing, and disposal; President
 usc_title: 50
 usc_section: "1512"
 chapter: 32
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 1512"
-generated_at: "2026-03-30T07:10:36.645Z"
+generated_at: "2026-03-30T07:13:58.417Z"
 status: "active"
 ---
 

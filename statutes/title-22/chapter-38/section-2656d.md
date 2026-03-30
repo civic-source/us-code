@@ -3,9 +3,9 @@ title: "Section 2656d - Responsibilities of Secretary of State"
 usc_title: 22
 usc_section: "2656d"
 chapter: 38
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 2656d"
-generated_at: "2026-03-30T07:09:46.955Z"
+generated_at: "2026-03-30T07:12:12.254Z"
 status: "active"
 ---
 

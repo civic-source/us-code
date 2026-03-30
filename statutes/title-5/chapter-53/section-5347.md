@@ -3,9 +3,9 @@ title: "Section 5347 - Federal Prevailing Rate Advisory Committee"
 usc_title: 5
 usc_section: "5347"
 chapter: 53
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "5 U.S.C. § 5347"
-generated_at: "2026-03-30T07:09:04.781Z"
+generated_at: "2026-03-30T07:10:54.491Z"
 status: "active"
 ---
 

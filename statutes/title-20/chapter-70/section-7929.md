@@ -3,9 +3,9 @@ title: "Section 7929 - Analysis and periodic review of departmental guidance"
 usc_title: 20
 usc_section: "7929"
 chapter: 70
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 7929"
-generated_at: "2026-03-30T07:09:38.243Z"
+generated_at: "2026-03-30T07:11:45.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7802 - Internal Revenue Service Oversight Board"
 usc_title: 26
 usc_section: "7802"
 chapter: 80
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 7802"
-generated_at: "2026-03-30T07:09:56.588Z"
+generated_at: "2026-03-30T07:12:23.132Z"
 status: "active"
 ---
 

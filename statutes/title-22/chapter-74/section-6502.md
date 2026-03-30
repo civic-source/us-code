@@ -3,9 +3,9 @@ title: "Section 6502 - Definitions"
 usc_title: 22
 usc_section: "6502"
 chapter: 74
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 6502"
-generated_at: "2026-03-30T07:09:47.002Z"
+generated_at: "2026-03-30T07:12:12.301Z"
 status: "active"
 ---
 

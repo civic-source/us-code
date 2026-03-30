@@ -3,9 +3,9 @@ title: "Section 507 - Repealed. Pub. L. 100–17, title I , § 135(d), Apr. 2, 1
 usc_title: 33
 usc_section: "507"
 chapter: 11
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "33 U.S.C. § 507"
-generated_at: "2026-03-30T07:10:00.601Z"
+generated_at: "2026-03-30T07:12:38.302Z"
 status: "repealed"
 ---
 

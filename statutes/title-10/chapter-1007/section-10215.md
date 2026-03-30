@@ -3,9 +3,9 @@ title: "Section 10215 - Officers of Army National Guard of the United States and
 usc_title: 10
 usc_section: "10215"
 chapter: 1007
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 10215"
-generated_at: "2026-03-30T07:09:14.439Z"
+generated_at: "2026-03-30T07:11:06.671Z"
 status: "active"
 ---
 

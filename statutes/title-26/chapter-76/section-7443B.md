@@ -3,9 +3,9 @@ title: "Section 7443B - Repealed. Pub. L. 110–458, title I , § 108(l), Dec. 2
 usc_title: 26
 usc_section: "7443B"
 chapter: 76
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 7443B"
-generated_at: "2026-03-30T07:09:56.579Z"
+generated_at: "2026-03-30T07:12:23.123Z"
 status: "repealed"
 ---
 

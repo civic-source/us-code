@@ -3,9 +3,9 @@ title: "Section 6 - Procedure for cases involving classified information"
 usc_title: 10
 usc_section: "6"
 chapter: 47
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 6"
-generated_at: "2026-03-30T07:09:14.322Z"
+generated_at: "2026-03-30T07:11:06.565Z"
 status: "active"
 ---
 

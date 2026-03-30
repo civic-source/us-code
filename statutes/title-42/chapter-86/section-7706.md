@@ -3,9 +3,9 @@ title: "Section 7706 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7706"
 chapter: 86
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 7706"
-generated_at: "2026-03-30T07:10:19.935Z"
+generated_at: "2026-03-30T07:13:46.054Z"
 status: "active"
 ---
 

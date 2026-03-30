@@ -3,9 +3,9 @@ title: "Section 10a - Cooperative associations and corporations, exclusion from 
 usc_title: 7
 usc_section: "10a"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 10a"
-generated_at: "2026-03-30T07:09:10.885Z"
+generated_at: "2026-03-30T07:11:01.842Z"
 status: "active"
 ---
 

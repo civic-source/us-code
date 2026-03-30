@@ -3,9 +3,9 @@ title: "Section 983 - Institutions of higher education that prevent ROTC access 
 usc_title: 10
 usc_section: "983"
 chapter: 49
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 983"
-generated_at: "2026-03-30T07:09:14.324Z"
+generated_at: "2026-03-30T07:11:06.568Z"
 status: "active"
 ---
 

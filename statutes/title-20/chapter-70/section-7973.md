@@ -3,9 +3,9 @@ title: "Section 7973 - Nonsmoking policy for children’s services"
 usc_title: 20
 usc_section: "7973"
 chapter: 70
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 7973"
-generated_at: "2026-03-30T07:09:38.244Z"
+generated_at: "2026-03-30T07:11:45.099Z"
 status: "active"
 ---
 

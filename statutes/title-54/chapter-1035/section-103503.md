@@ -3,9 +3,9 @@ title: "Section 103503 - Summary to Congress"
 usc_title: 54
 usc_section: "103503"
 chapter: 1035
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "54 U.S.C. § 103503"
-generated_at: "2026-03-30T07:10:38.776Z"
+generated_at: "2026-03-30T07:14:04.306Z"
 status: "active"
 ---
 

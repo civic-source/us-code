@@ -3,9 +3,9 @@ title: "Section 1227 - Center for cataloging"
 usc_title: 30
 usc_section: "1227"
 chapter: 25
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "30 U.S.C. § 1227"
-generated_at: "2026-03-30T07:09:51.186Z"
+generated_at: "2026-03-30T07:12:16.447Z"
 status: "active"
 ---
 

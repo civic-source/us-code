@@ -3,9 +3,9 @@ title: "Section 1357 - Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1357"
 chapter: 27
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 1357"
-generated_at: "2026-03-30T07:10:36.644Z"
+generated_at: "2026-03-30T07:13:58.416Z"
 status: "repealed"
 ---
 

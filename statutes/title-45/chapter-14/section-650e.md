@@ -3,9 +3,9 @@ title: "Section 650e - Repealed. Pub. L. 103–429 , § 8(6), Oct. 31, 1994 , 10
 usc_title: 45
 usc_section: "650e"
 chapter: 14
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "45 U.S.C. § 650e"
-generated_at: "2026-03-30T07:10:09.751Z"
+generated_at: "2026-03-30T07:13:04.727Z"
 status: "repealed"
 ---
 

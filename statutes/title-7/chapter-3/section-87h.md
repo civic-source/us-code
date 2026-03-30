@@ -3,9 +3,9 @@ title: "Section 87h - Appropriations"
 usc_title: 7
 usc_section: "87h"
 chapter: 3
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 87h"
-generated_at: "2026-03-30T07:09:10.892Z"
+generated_at: "2026-03-30T07:11:01.863Z"
 status: "active"
 ---
 

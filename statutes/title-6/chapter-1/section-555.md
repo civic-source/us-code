@@ -3,9 +3,9 @@ title: "Section 555 - Continuity of Inspector General oversight"
 usc_title: 6
 usc_section: "555"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "6 U.S.C. § 555"
-generated_at: "2026-03-30T07:09:07.471Z"
+generated_at: "2026-03-30T07:11:13.404Z"
 status: "active"
 ---
 

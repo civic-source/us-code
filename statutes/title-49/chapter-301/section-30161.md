@@ -3,9 +3,9 @@ title: "Section 30161 - Judicial review of standards"
 usc_title: 49
 usc_section: "30161"
 chapter: 301
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "49 U.S.C. § 30161"
-generated_at: "2026-03-30T07:10:27.690Z"
+generated_at: "2026-03-30T07:14:01.740Z"
 status: "active"
 ---
 

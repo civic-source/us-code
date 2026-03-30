@@ -3,9 +3,9 @@ title: "Section 8513a - Imposition of sanctions with respect to the financial se
 usc_title: 22
 usc_section: "8513a"
 chapter: 92
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 8513a"
-generated_at: "2026-03-30T07:09:47.023Z"
+generated_at: "2026-03-30T07:12:12.321Z"
 status: "active"
 ---
 

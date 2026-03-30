@@ -3,9 +3,9 @@ title: "Section 7409 - Relationship to other laws"
 usc_title: 16
 usc_section: "7409"
 chapter: 93
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 7409"
-generated_at: "2026-03-30T07:09:40.508Z"
+generated_at: "2026-03-30T07:11:43.332Z"
 status: "active"
 ---
 

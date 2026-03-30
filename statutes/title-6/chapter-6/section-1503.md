@@ -3,9 +3,9 @@ title: "Section 1503 - Authorizations for preventing, detecting, analyzing, and 
 usc_title: 6
 usc_section: "1503"
 chapter: 6
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "6 U.S.C. § 1503"
-generated_at: "2026-03-30T07:09:07.485Z"
+generated_at: "2026-03-30T07:11:13.418Z"
 status: "active"
 ---
 

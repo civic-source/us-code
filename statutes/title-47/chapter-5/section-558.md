@@ -3,9 +3,9 @@ title: "Section 558 - Criminal and civil liability"
 usc_title: 47
 usc_section: "558"
 chapter: 5
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "47 U.S.C. § 558"
-generated_at: "2026-03-30T07:10:24.365Z"
+generated_at: "2026-03-30T07:14:02.171Z"
 status: "active"
 ---
 

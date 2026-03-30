@@ -3,9 +3,9 @@ title: "Section 7706 - Prohibited acts"
 usc_title: 16
 usc_section: "7706"
 chapter: 96
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 7706"
-generated_at: "2026-03-30T07:09:40.510Z"
+generated_at: "2026-03-30T07:11:43.333Z"
 status: "active"
 ---
 

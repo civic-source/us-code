@@ -3,9 +3,9 @@ title: "Section 903 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "903"
 chapter: 11
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "8 U.S.C. § 903"
-generated_at: "2026-03-30T07:09:16.089Z"
+generated_at: "2026-03-30T07:10:58.097Z"
 status: "repealed"
 ---
 

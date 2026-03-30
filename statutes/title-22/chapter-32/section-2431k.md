@@ -3,9 +3,9 @@ title: "Section 2431k - Annual reports to Congress"
 usc_title: 22
 usc_section: "2431k"
 chapter: 32
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 2431k"
-generated_at: "2026-03-30T07:09:46.949Z"
+generated_at: "2026-03-30T07:12:12.248Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2091 - Organizations; articles; charters; powers of the Farm Cre
 usc_title: 12
 usc_section: "2091"
 chapter: 23
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 2091"
-generated_at: "2026-03-30T07:09:21.257Z"
+generated_at: "2026-03-30T07:11:36.687Z"
 status: "active"
 ---
 

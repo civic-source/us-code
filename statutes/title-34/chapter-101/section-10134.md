@@ -3,9 +3,9 @@ title: "Section 10134 - Use of data"
 usc_title: 34
 usc_section: "10134"
 chapter: 101
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "34 U.S.C. § 10134"
-generated_at: "2026-03-30T07:09:59.129Z"
+generated_at: "2026-03-30T07:12:25.776Z"
 status: "active"
 ---
 

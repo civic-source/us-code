@@ -3,9 +3,9 @@ title: "Section 1459 - Definitions"
 usc_title: 15
 usc_section: "1459"
 chapter: 39
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 1459"
-generated_at: "2026-03-30T07:09:31.526Z"
+generated_at: "2026-03-30T07:11:26.973Z"
 status: "active"
 ---
 

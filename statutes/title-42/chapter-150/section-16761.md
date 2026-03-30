@@ -3,9 +3,9 @@ title: "Section 16761 - Repealed or Omitted"
 usc_title: 42
 usc_section: "16761"
 chapter: 150
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 16761"
-generated_at: "2026-03-30T07:10:20.066Z"
+generated_at: "2026-03-30T07:13:46.182Z"
 status: "repealed"
 ---
 

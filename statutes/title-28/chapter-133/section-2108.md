@@ -3,9 +3,9 @@ title: "Section 2108 - Proof of amount in controversy"
 usc_title: 28
 usc_section: "2108"
 chapter: 133
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "28 U.S.C. § 2108"
-generated_at: "2026-03-30T07:09:51.792Z"
+generated_at: "2026-03-30T07:12:15.252Z"
 status: "active"
 ---
 

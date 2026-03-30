@@ -3,9 +3,9 @@ title: "Section 416 - Leases of trust or restricted lands on San Xavier and Salt
 usc_title: 25
 usc_section: "416"
 chapter: 12
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "25 U.S.C. § 416"
-generated_at: "2026-03-30T07:09:44.737Z"
+generated_at: "2026-03-30T07:11:58.154Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3148 - Repealed. Pub. L. 108–373, title II , § 206(a), Oct. 2
 usc_title: 42
 usc_section: "3148"
 chapter: 38
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 3148"
-generated_at: "2026-03-30T07:10:19.811Z"
+generated_at: "2026-03-30T07:13:45.935Z"
 status: "repealed"
 ---
 

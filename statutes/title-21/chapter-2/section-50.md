@@ -3,9 +3,9 @@ title: "Section 50 - Repealed. Pub. L. 104–128 , § 2, Apr. 9, 1996 , 110 Stat
 usc_title: 21
 usc_section: "50"
 chapter: 2
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "21 U.S.C. § 50"
-generated_at: "2026-03-30T07:09:43.433Z"
+generated_at: "2026-03-30T07:12:03.073Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1945 - Renewal"
 usc_title: 38
 usc_section: "1945"
 chapter: 19
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "38 U.S.C. § 1945"
-generated_at: "2026-03-30T07:10:04.366Z"
+generated_at: "2026-03-30T07:12:54.415Z"
 status: "active"
 ---
 

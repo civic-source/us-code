@@ -3,9 +3,9 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-30T07:10:20.062Z"
+generated_at: "2026-03-30T07:13:46.177Z"
 status: "active"
 ---
 

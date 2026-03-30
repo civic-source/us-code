@@ -3,9 +3,9 @@ title: "Section 2235a - Deposit and retention of credit card refunds or rebates"
 usc_title: 7
 usc_section: "2235a"
 chapter: 55
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 2235a"
-generated_at: "2026-03-30T07:09:10.983Z"
+generated_at: "2026-03-30T07:11:01.955Z"
 status: "active"
 ---
 

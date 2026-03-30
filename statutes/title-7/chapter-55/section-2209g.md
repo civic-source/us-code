@@ -3,9 +3,9 @@ title: "Section 2209g - Availability of funds for uniforms or allowances"
 usc_title: 7
 usc_section: "2209g"
 chapter: 55
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 2209g"
-generated_at: "2026-03-30T07:09:10.983Z"
+generated_at: "2026-03-30T07:11:01.954Z"
 status: "active"
 ---
 

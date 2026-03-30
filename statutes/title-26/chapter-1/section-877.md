@@ -3,9 +3,9 @@ title: "Section 877 - Expatriation to avoid tax"
 usc_title: 26
 usc_section: "877"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 877"
-generated_at: "2026-03-30T07:09:56.465Z"
+generated_at: "2026-03-30T07:12:23.014Z"
 status: "active"
 ---
 

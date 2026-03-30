@@ -3,9 +3,9 @@ title: "Section 3192 - Protection of accused"
 usc_title: 18
 usc_section: "3192"
 chapter: 209
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 3192"
-generated_at: "2026-03-30T07:09:35.171Z"
+generated_at: "2026-03-30T07:11:47.938Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 569d - Safety award and promotional materials"
 usc_title: 33
 usc_section: "569d"
 chapter: 12
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "33 U.S.C. § 569d"
-generated_at: "2026-03-30T07:10:00.604Z"
+generated_at: "2026-03-30T07:12:38.305Z"
 status: "active"
 ---
 

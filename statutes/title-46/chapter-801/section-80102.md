@@ -3,9 +3,9 @@ title: "Section 80102 - Repealed. Pub. L. 110–375 , § 1(1), Oct. 8, 2008 , 12
 usc_title: 46
 usc_section: "80102"
 chapter: 801
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "46 U.S.C. § 80102"
-generated_at: "2026-03-30T07:10:23.445Z"
+generated_at: "2026-03-30T07:13:55.210Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1131 - Criminal penalties"
 usc_title: 29
 usc_section: "1131"
 chapter: 18
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "29 U.S.C. § 1131"
-generated_at: "2026-03-30T07:09:50.811Z"
+generated_at: "2026-03-30T07:12:16.121Z"
 status: "active"
 ---
 

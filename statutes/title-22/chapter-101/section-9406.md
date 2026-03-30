@@ -3,9 +3,9 @@ title: "Section 9406 - Enforcement of arms embargos"
 usc_title: 22
 usc_section: "9406"
 chapter: 101
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 9406"
-generated_at: "2026-03-30T07:09:47.033Z"
+generated_at: "2026-03-30T07:12:12.332Z"
 status: "active"
 ---
 

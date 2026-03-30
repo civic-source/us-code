@@ -3,9 +3,9 @@ title: "Section 1667 - Findings and purpose"
 usc_title: 25
 usc_section: "1667"
 chapter: 18
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "25 U.S.C. § 1667"
-generated_at: "2026-03-30T07:09:44.756Z"
+generated_at: "2026-03-30T07:11:58.169Z"
 status: "active"
 ---
 

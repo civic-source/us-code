@@ -3,9 +3,9 @@ title: "Section 1k - Capital stock increase"
 usc_title: 22
 usc_section: "1k"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 1k"
-generated_at: "2026-03-30T07:09:46.904Z"
+generated_at: "2026-03-30T07:12:12.204Z"
 status: "active"
 ---
 

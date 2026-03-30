@@ -3,9 +3,9 @@ title: "Section 50915 - Paying claims exceeding liability insurance and financia
 usc_title: 51
 usc_section: "50915"
 chapter: 509
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "51 U.S.C. § 50915"
-generated_at: "2026-03-30T07:10:38.510Z"
+generated_at: "2026-03-30T07:14:03.931Z"
 status: "active"
 ---
 

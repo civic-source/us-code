@@ -3,9 +3,9 @@ title: "Section 123 - National Forest Products Week"
 usc_title: 36
 usc_section: "123"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 123"
-generated_at: "2026-03-30T07:10:03.208Z"
+generated_at: "2026-03-30T07:12:40.629Z"
 status: "active"
 ---
 

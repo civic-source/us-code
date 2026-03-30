@@ -3,9 +3,9 @@ title: "Section 8514b - Imposition of sanctions with respect to persons who enga
 usc_title: 22
 usc_section: "8514b"
 chapter: 92
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 8514b"
-generated_at: "2026-03-30T07:09:47.023Z"
+generated_at: "2026-03-30T07:12:12.321Z"
 status: "active"
 ---
 

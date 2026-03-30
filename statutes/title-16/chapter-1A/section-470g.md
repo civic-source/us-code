@@ -3,9 +3,9 @@ title: "Section 470g - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470g"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 470g"
-generated_at: "2026-03-30T07:09:40.371Z"
+generated_at: "2026-03-30T07:11:43.193Z"
 status: "repealed"
 ---
 

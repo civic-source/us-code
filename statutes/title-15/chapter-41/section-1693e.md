@@ -3,9 +3,9 @@ title: "Section 1693e - Preauthorized transfers"
 usc_title: 15
 usc_section: "1693e"
 chapter: 41
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 1693e"
-generated_at: "2026-03-30T07:09:31.545Z"
+generated_at: "2026-03-30T07:11:26.991Z"
 status: "active"
 ---
 

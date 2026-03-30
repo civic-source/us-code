@@ -3,9 +3,9 @@ title: "Section 1222 - Physical evaluation boards"
 usc_title: 10
 usc_section: "1222"
 chapter: 61
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 1222"
-generated_at: "2026-03-30T07:09:14.340Z"
+generated_at: "2026-03-30T07:11:06.583Z"
 status: "active"
 ---
 

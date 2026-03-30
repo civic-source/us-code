@@ -3,9 +3,9 @@ title: "Section 1053a - Repealed. Pub. L. 113–66, div. A, title VI , § 621(c)
 usc_title: 10
 usc_section: "1053a"
 chapter: 53
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 1053a"
-generated_at: "2026-03-30T07:09:14.327Z"
+generated_at: "2026-03-30T07:11:06.570Z"
 status: "repealed"
 ---
 

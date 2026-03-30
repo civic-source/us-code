@@ -3,9 +3,9 @@ title: "Section 4552 - Definitions"
 usc_title: 50
 usc_section: "4552"
 chapter: 55
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 4552"
-generated_at: "2026-03-30T07:10:36.702Z"
+generated_at: "2026-03-30T07:13:58.478Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 150 - Withdrawals of land for Indian reservations prohibited"
 usc_title: 43
 usc_section: "150"
 chapter: 6
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "43 U.S.C. § 150"
-generated_at: "2026-03-30T07:10:07.384Z"
+generated_at: "2026-03-30T07:12:59.786Z"
 status: "active"
 ---
 

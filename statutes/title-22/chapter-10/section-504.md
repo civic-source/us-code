@@ -3,9 +3,9 @@ title: "Section 504 - Transfer of hemisphere territory from one non-American pow
 usc_title: 22
 usc_section: "504"
 chapter: 10
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 504"
-generated_at: "2026-03-30T07:09:46.913Z"
+generated_at: "2026-03-30T07:12:12.213Z"
 status: "active"
 ---
 

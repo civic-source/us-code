@@ -3,9 +3,9 @@ title: "Section 130102 - Purposes"
 usc_title: 36
 usc_section: "130102"
 chapter: 1301
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 130102"
-generated_at: "2026-03-30T07:10:03.218Z"
+generated_at: "2026-03-30T07:12:40.639Z"
 status: "active"
 ---
 

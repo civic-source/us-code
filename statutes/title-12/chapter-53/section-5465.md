@@ -3,9 +3,9 @@ title: "Section 5465 - Operations of designated financial market utilities"
 usc_title: 12
 usc_section: "5465"
 chapter: 53
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 5465"
-generated_at: "2026-03-30T07:09:21.315Z"
+generated_at: "2026-03-30T07:11:36.745Z"
 status: "active"
 ---
 

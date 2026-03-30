@@ -3,9 +3,9 @@ title: "Section 5150 - Staff corps of the Navy"
 usc_title: 10
 usc_section: "5150"
 chapter: 513
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 5150"
-generated_at: "2026-03-30T07:09:14.418Z"
+generated_at: "2026-03-30T07:11:06.652Z"
 status: "active"
 ---
 

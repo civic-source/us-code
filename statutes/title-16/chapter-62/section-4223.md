@@ -3,9 +3,9 @@ title: "Section 4223 - Prohibited acts"
 usc_title: 16
 usc_section: "4223"
 chapter: 62
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 4223"
-generated_at: "2026-03-30T07:09:40.490Z"
+generated_at: "2026-03-30T07:11:43.314Z"
 status: "active"
 ---
 

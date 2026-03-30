@@ -3,9 +3,9 @@ title: "Section 1087ii - Definitions"
 usc_title: 20
 usc_section: "1087ii"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 1087ii"
-generated_at: "2026-03-30T07:09:38.161Z"
+generated_at: "2026-03-30T07:11:45.016Z"
 status: "active"
 ---
 

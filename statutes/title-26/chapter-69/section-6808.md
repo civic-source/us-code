@@ -3,9 +3,9 @@ title: "Section 6808 - Special provisions relating to stamps"
 usc_title: 26
 usc_section: "6808"
 chapter: 69
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 6808"
-generated_at: "2026-03-30T07:09:56.574Z"
+generated_at: "2026-03-30T07:12:23.119Z"
 status: "active"
 ---
 

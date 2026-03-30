@@ -3,9 +3,9 @@ title: "Section 2291k - Repealed. Pub. L. 104–66, title I , § 1112(b), Dec. 2
 usc_title: 22
 usc_section: "2291k"
 chapter: 32
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 2291k"
-generated_at: "2026-03-30T07:09:46.937Z"
+generated_at: "2026-03-30T07:12:12.237Z"
 status: "repealed"
 ---
 

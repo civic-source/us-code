@@ -3,9 +3,9 @@ title: "Section 1099c - Eligibility and certification procedures"
 usc_title: 20
 usc_section: "1099c"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 1099c"
-generated_at: "2026-03-30T07:09:38.171Z"
+generated_at: "2026-03-30T07:11:45.027Z"
 status: "active"
 ---
 

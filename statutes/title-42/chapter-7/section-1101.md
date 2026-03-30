@@ -3,9 +3,9 @@ title: "Section 1101 - Employment security administration account"
 usc_title: 42
 usc_section: "1101"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 1101"
-generated_at: "2026-03-30T07:10:19.586Z"
+generated_at: "2026-03-30T07:13:45.713Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4574 - Limit on rate of compensation of Senate officers and empl
 usc_title: 2
 usc_section: "4574"
 chapter: 45
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "2 U.S.C. § 4574"
-generated_at: "2026-03-30T07:09:03.152Z"
+generated_at: "2026-03-30T07:10:50.407Z"
 status: "active"
 ---
 

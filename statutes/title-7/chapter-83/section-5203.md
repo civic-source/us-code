@@ -3,9 +3,9 @@ title: "Section 5203 - Purpose"
 usc_title: 7
 usc_section: "5203"
 chapter: 83
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 5203"
-generated_at: "2026-03-30T07:09:11.004Z"
+generated_at: "2026-03-30T07:11:01.977Z"
 status: "active"
 ---
 

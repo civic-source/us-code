@@ -3,9 +3,9 @@ title: "Section 202 - Board of Governors"
 usc_title: 39
 usc_section: "202"
 chapter: 2
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "39 U.S.C. § 202"
-generated_at: "2026-03-30T07:10:02.144Z"
+generated_at: "2026-03-30T07:12:43.440Z"
 status: "active"
 ---
 

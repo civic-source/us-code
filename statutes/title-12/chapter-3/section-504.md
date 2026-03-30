@@ -3,9 +3,9 @@ title: "Section 504 - Civil money penalty"
 usc_title: 12
 usc_section: "504"
 chapter: 3
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 504"
-generated_at: "2026-03-30T07:09:21.177Z"
+generated_at: "2026-03-30T07:11:36.609Z"
 status: "active"
 ---
 

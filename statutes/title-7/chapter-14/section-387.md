@@ -3,9 +3,9 @@ title: "Section 387 - Station for semi-arid or dry-land regions; establishment"
 usc_title: 7
 usc_section: "387"
 chapter: 14
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 387"
-generated_at: "2026-03-30T07:09:10.911Z"
+generated_at: "2026-03-30T07:11:01.882Z"
 status: "active"
 ---
 

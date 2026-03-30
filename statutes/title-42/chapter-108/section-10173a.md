@@ -3,9 +3,9 @@ title: "Section 10173a - Content of agreements"
 usc_title: 42
 usc_section: "10173a"
 chapter: 108
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 10173a"
-generated_at: "2026-03-30T07:10:19.982Z"
+generated_at: "2026-03-30T07:13:46.099Z"
 status: "active"
 ---
 

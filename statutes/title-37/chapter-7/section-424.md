@@ -3,9 +3,9 @@ title: "Section 424 - Band leaders"
 usc_title: 37
 usc_section: "424"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "37 U.S.C. § 424"
-generated_at: "2026-03-30T07:10:02.641Z"
+generated_at: "2026-03-30T07:12:42.919Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2221 - Identification of opportunities for water supply conserva
 usc_title: 43
 usc_section: "2221"
 chapter: 40
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "43 U.S.C. § 2221"
-generated_at: "2026-03-30T07:10:07.434Z"
+generated_at: "2026-03-30T07:12:59.834Z"
 status: "active"
 ---
 

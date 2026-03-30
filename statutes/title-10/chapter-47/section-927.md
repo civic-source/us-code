@@ -3,9 +3,9 @@ title: "Section 927 - Art. 127. Extortion"
 usc_title: 10
 usc_section: "927"
 chapter: 47
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 927"
-generated_at: "2026-03-30T07:09:14.320Z"
+generated_at: "2026-03-30T07:11:06.564Z"
 status: "active"
 ---
 

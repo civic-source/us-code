@@ -3,9 +3,9 @@ title: "Section 6613 - Appointment of special masters or magistrate judges for Y
 usc_title: 15
 usc_section: "6613"
 chapter: 92
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 6613"
-generated_at: "2026-03-30T07:09:31.592Z"
+generated_at: "2026-03-30T07:11:27.037Z"
 status: "active"
 ---
 

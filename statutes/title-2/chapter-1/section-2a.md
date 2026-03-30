@@ -3,9 +3,9 @@ title: "Section 2a - Reapportionment of Representatives; time and manner; existi
 usc_title: 2
 usc_section: "2a"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "2 U.S.C. § 2a"
-generated_at: "2026-03-30T07:09:03.110Z"
+generated_at: "2026-03-30T07:10:50.369Z"
 status: "active"
 ---
 

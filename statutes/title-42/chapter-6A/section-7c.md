@@ -3,9 +3,9 @@ title: "Section 7c - Tuberculosis"
 usc_title: 42
 usc_section: "7c"
 chapter: 6
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-30T07:10:19.465Z"
+generated_at: "2026-03-30T07:13:45.588Z"
 status: "active"
 ---
 

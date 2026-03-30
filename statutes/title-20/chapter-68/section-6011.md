@@ -3,9 +3,9 @@ title: "Section 6011 - Repealed. Pub. L. 107–279, title IV , § 403(2), Nov. 5
 usc_title: 20
 usc_section: "6011"
 chapter: 68
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 6011"
-generated_at: "2026-03-30T07:09:38.215Z"
+generated_at: "2026-03-30T07:11:45.071Z"
 status: "repealed"
 ---
 

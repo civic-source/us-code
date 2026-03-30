@@ -3,9 +3,9 @@ title: "Section 1813 - Construction of new facilities"
 usc_title: 25
 usc_section: "1813"
 chapter: 20
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "25 U.S.C. § 1813"
-generated_at: "2026-03-30T07:09:44.762Z"
+generated_at: "2026-03-30T07:11:58.173Z"
 status: "active"
 ---
 

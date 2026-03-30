@@ -3,9 +3,9 @@ title: "Section 402 - Existing claims, locations, or entries not affected; excha
 usc_title: 16
 usc_section: "402"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 402"
-generated_at: "2026-03-30T07:09:40.309Z"
+generated_at: "2026-03-30T07:11:43.124Z"
 status: "active"
 ---
 

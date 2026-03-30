@@ -3,9 +3,9 @@ title: "Section 459 - Office of International Affairs"
 usc_title: 6
 usc_section: "459"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "6 U.S.C. § 459"
-generated_at: "2026-03-30T07:09:07.468Z"
+generated_at: "2026-03-30T07:11:13.400Z"
 status: "active"
 ---
 

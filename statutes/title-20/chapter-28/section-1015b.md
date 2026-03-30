@@ -3,9 +3,9 @@ title: "Section 1015b - Textbook information"
 usc_title: 20
 usc_section: "1015b"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 1015b"
-generated_at: "2026-03-30T07:09:38.131Z"
+generated_at: "2026-03-30T07:11:44.986Z"
 status: "active"
 ---
 

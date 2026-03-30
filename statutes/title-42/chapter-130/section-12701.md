@@ -3,9 +3,9 @@ title: "Section 12701 - National housing goal"
 usc_title: 42
 usc_section: "12701"
 chapter: 130
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 12701"
-generated_at: "2026-03-30T07:10:20.022Z"
+generated_at: "2026-03-30T07:13:46.138Z"
 status: "active"
 ---
 

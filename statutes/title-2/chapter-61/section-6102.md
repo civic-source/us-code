@@ -3,9 +3,9 @@ title: "Section 6102 - Expense allowance of Majority and Minority Leaders of Sen
 usc_title: 2
 usc_section: "6102"
 chapter: 61
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "2 U.S.C. § 6102"
-generated_at: "2026-03-30T07:09:03.156Z"
+generated_at: "2026-03-30T07:10:50.412Z"
 status: "active"
 ---
 

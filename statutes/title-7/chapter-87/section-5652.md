@@ -3,9 +3,9 @@ title: "Section 5652 - Relief from unfair trade practices"
 usc_title: 7
 usc_section: "5652"
 chapter: 87
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 5652"
-generated_at: "2026-03-30T07:09:11.006Z"
+generated_at: "2026-03-30T07:11:01.980Z"
 status: "active"
 ---
 

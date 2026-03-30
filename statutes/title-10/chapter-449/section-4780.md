@@ -3,9 +3,9 @@ title: "Section 4780 - Acquisition of buildings in District of Columbia"
 usc_title: 10
 usc_section: "4780"
 chapter: 449
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 4780"
-generated_at: "2026-03-30T07:09:14.415Z"
+generated_at: "2026-03-30T07:11:06.650Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7296 - Repealed. Pub. L. 112–81, div. A, title X , § 1061(27)
 usc_title: 10
 usc_section: "7296"
 chapter: 633
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 7296"
-generated_at: "2026-03-30T07:09:14.425Z"
+generated_at: "2026-03-30T07:11:06.659Z"
 status: "repealed"
 ---
 

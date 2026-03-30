@@ -3,9 +3,9 @@ title: "Section 2518 - Definitions"
 usc_title: 19
 usc_section: "2518"
 chapter: 13
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "19 U.S.C. § 2518"
-generated_at: "2026-03-30T07:09:36.263Z"
+generated_at: "2026-03-30T07:11:54.981Z"
 status: "active"
 ---
 

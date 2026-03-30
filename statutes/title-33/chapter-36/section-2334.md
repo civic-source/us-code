@@ -3,9 +3,9 @@ title: "Section 2334 - Innovative technologies for watershed restoration"
 usc_title: 33
 usc_section: "2334"
 chapter: 36
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "33 U.S.C. § 2334"
-generated_at: "2026-03-30T07:10:00.652Z"
+generated_at: "2026-03-30T07:12:38.351Z"
 status: "active"
 ---
 

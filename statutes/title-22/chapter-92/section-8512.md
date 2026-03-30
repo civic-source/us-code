@@ -3,9 +3,9 @@ title: "Section 8512 - Economic sanctions relating to Iran"
 usc_title: 22
 usc_section: "8512"
 chapter: 92
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 8512"
-generated_at: "2026-03-30T07:09:47.022Z"
+generated_at: "2026-03-30T07:12:12.320Z"
 status: "active"
 ---
 

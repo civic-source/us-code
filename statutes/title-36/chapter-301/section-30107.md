@@ -3,9 +3,9 @@ title: "Section 30107 - Restrictions"
 usc_title: 36
 usc_section: "30107"
 chapter: 301
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 30107"
-generated_at: "2026-03-30T07:10:03.213Z"
+generated_at: "2026-03-30T07:12:40.633Z"
 status: "active"
 ---
 

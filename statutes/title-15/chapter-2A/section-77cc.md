@@ -3,9 +3,9 @@ title: "Section 77cc - Directors of Corporation; appointment, term of office, an
 usc_title: 15
 usc_section: "77cc"
 chapter: 2
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 77cc"
-generated_at: "2026-03-30T07:09:31.439Z"
+generated_at: "2026-03-30T07:11:26.891Z"
 status: "active"
 ---
 

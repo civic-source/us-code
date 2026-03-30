@@ -3,9 +3,9 @@ title: "Section 299c - Advisory Council for Healthcare Research and Quality"
 usc_title: 42
 usc_section: "299c"
 chapter: 6
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 299c"
-generated_at: "2026-03-30T07:10:19.498Z"
+generated_at: "2026-03-30T07:13:45.621Z"
 status: "active"
 ---
 

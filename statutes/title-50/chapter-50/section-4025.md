@@ -3,9 +3,9 @@ title: "Section 4025 - Guarantee of residency for military personnel and spouses
 usc_title: 50
 usc_section: "4025"
 chapter: 50
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 4025"
-generated_at: "2026-03-30T07:10:36.695Z"
+generated_at: "2026-03-30T07:13:58.468Z"
 status: "active"
 ---
 

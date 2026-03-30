@@ -3,9 +3,9 @@ title: "Section 3265 - Initial proceedings"
 usc_title: 18
 usc_section: "3265"
 chapter: 212
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 3265"
-generated_at: "2026-03-30T07:09:35.171Z"
+generated_at: "2026-03-30T07:11:47.938Z"
 status: "active"
 ---
 

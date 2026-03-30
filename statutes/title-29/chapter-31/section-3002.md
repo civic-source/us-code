@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 29
 usc_section: "3002"
 chapter: 31
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "29 U.S.C. § 3002"
-generated_at: "2026-03-30T07:09:50.828Z"
+generated_at: "2026-03-30T07:12:16.139Z"
 status: "active"
 ---
 

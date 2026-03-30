@@ -3,9 +3,9 @@ title: "Section 80c - Motor-vehicle licenses for Sequoia National Park as applic
 usc_title: 16
 usc_section: "80c"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 80c"
-generated_at: "2026-03-30T07:09:40.293Z"
+generated_at: "2026-03-30T07:11:43.108Z"
 status: "active"
 ---
 

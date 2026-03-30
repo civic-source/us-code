@@ -3,9 +3,9 @@ title: "Section 8020 - Inspector General"
 usc_title: 10
 usc_section: "8020"
 chapter: 803
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 8020"
-generated_at: "2026-03-30T07:09:14.430Z"
+generated_at: "2026-03-30T07:11:06.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3112 - Repealed. Pub. L. 97–79 , § 9(b)(3), Nov. 16, 1981 , 9
 usc_title: 18
 usc_section: "3112"
 chapter: 205
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 3112"
-generated_at: "2026-03-30T07:09:35.169Z"
+generated_at: "2026-03-30T07:11:47.935Z"
 status: "repealed"
 ---
 

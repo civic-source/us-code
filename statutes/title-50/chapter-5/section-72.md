@@ -3,9 +3,9 @@ title: "Section 72 - Repealed. May 1, 1937, ch. 146 , § 5(i), 50 Stat. 126"
 usc_title: 50
 usc_section: "72"
 chapter: 5
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 72"
-generated_at: "2026-03-30T07:10:36.638Z"
+generated_at: "2026-03-30T07:13:58.411Z"
 status: "repealed"
 ---
 

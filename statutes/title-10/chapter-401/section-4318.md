@@ -3,9 +3,9 @@ title: "Section 4318 - Drill sergeant trainees: human relations training"
 usc_title: 10
 usc_section: "4318"
 chapter: 401
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 4318"
-generated_at: "2026-03-30T07:09:14.411Z"
+generated_at: "2026-03-30T07:11:06.646Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Federal Reserve Banks as depositories"
 usc_title: 22
 usc_section: "3"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T07:09:46.911Z"
+generated_at: "2026-03-30T07:12:12.211Z"
 status: "active"
 ---
 

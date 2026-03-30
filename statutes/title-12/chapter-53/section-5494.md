@@ -3,9 +3,9 @@ title: "Section 5494 - Consumer Advisory Board"
 usc_title: 12
 usc_section: "5494"
 chapter: 53
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 5494"
-generated_at: "2026-03-30T07:09:21.317Z"
+generated_at: "2026-03-30T07:11:36.747Z"
 status: "active"
 ---
 

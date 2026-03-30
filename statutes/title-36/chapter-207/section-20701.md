@@ -3,9 +3,9 @@ title: "Section 20701 - Definition"
 usc_title: 36
 usc_section: "20701"
 chapter: 207
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 20701"
-generated_at: "2026-03-30T07:10:03.211Z"
+generated_at: "2026-03-30T07:12:40.631Z"
 status: "active"
 ---
 

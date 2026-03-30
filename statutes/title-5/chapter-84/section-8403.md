@@ -3,9 +3,9 @@ title: "Section 8403 - Relationship to the Social Security Act"
 usc_title: 5
 usc_section: "8403"
 chapter: 84
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "5 U.S.C. § 8403"
-generated_at: "2026-03-30T07:09:04.809Z"
+generated_at: "2026-03-30T07:10:54.516Z"
 status: "active"
 ---
 

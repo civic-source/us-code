@@ -3,9 +3,9 @@ title: "Section 14911 - Punishment of corporation for violations committed by ce
 usc_title: 49
 usc_section: "14911"
 chapter: 149
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "49 U.S.C. § 14911"
-generated_at: "2026-03-30T07:10:27.677Z"
+generated_at: "2026-03-30T07:14:01.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4301 - Designation of chapter"
 usc_title: 50
 usc_section: "4301"
 chapter: 53
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 4301"
-generated_at: "2026-03-30T07:10:36.697Z"
+generated_at: "2026-03-30T07:13:58.472Z"
 status: "active"
 ---
 

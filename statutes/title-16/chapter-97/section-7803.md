@@ -3,9 +3,9 @@ title: "Section 7803 - Authority and responsibility of the Secretary of State"
 usc_title: 16
 usc_section: "7803"
 chapter: 97
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 7803"
-generated_at: "2026-03-30T07:09:40.510Z"
+generated_at: "2026-03-30T07:11:43.334Z"
 status: "active"
 ---
 

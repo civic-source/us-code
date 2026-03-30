@@ -3,9 +3,9 @@ title: "Section 3532 - Repealed. Pub. L. 96–513, title II , §§ 233(a), 234, 
 usc_title: 10
 usc_section: "3532"
 chapter: 343
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 3532"
-generated_at: "2026-03-30T07:09:14.409Z"
+generated_at: "2026-03-30T07:11:06.645Z"
 status: "repealed"
 ---
 

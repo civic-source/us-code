@@ -3,9 +3,9 @@ title: "Section 1035 - Sanitary operating practices in official plants"
 usc_title: 21
 usc_section: "1035"
 chapter: 15
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "21 U.S.C. § 1035"
-generated_at: "2026-03-30T07:09:43.498Z"
+generated_at: "2026-03-30T07:12:03.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 74 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108 S
 usc_title: 45
 usc_section: "74"
 chapter: 4
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "45 U.S.C. § 74"
-generated_at: "2026-03-30T07:10:09.741Z"
+generated_at: "2026-03-30T07:13:04.717Z"
 status: "repealed"
 ---
 

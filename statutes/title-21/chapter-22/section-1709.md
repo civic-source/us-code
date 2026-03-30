@@ -3,9 +3,9 @@ title: "Section 1709 - Repealed. Pub. L. 109–469, title XI , § 1101(a), Dec. 
 usc_title: 21
 usc_section: "1709"
 chapter: 22
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "21 U.S.C. § 1709"
-generated_at: "2026-03-30T07:09:43.504Z"
+generated_at: "2026-03-30T07:12:03.143Z"
 status: "repealed"
 ---
 

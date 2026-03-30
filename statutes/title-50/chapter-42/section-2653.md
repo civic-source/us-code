@@ -3,9 +3,9 @@ title: "Section 2653 - Background investigations of certain personnel at Departm
 usc_title: 50
 usc_section: "2653"
 chapter: 42
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 2653"
-generated_at: "2026-03-30T07:10:36.670Z"
+generated_at: "2026-03-30T07:13:58.440Z"
 status: "active"
 ---
 

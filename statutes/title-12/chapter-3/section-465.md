@@ -3,9 +3,9 @@ title: "Section 465 - Basis for ascertaining deposits against which required bal
 usc_title: 12
 usc_section: "465"
 chapter: 3
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 465"
-generated_at: "2026-03-30T07:09:21.177Z"
+generated_at: "2026-03-30T07:11:36.608Z"
 status: "active"
 ---
 

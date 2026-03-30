@@ -3,9 +3,9 @@ title: "Section 800 - Issuance of preliminary permits or licenses"
 usc_title: 16
 usc_section: "800"
 chapter: 12
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 800"
-generated_at: "2026-03-30T07:09:40.408Z"
+generated_at: "2026-03-30T07:11:43.231Z"
 status: "active"
 ---
 

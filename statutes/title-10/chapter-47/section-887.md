@@ -3,9 +3,9 @@ title: "Section 887 - Art. 87. Missing movement"
 usc_title: 10
 usc_section: "887"
 chapter: 47
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 887"
-generated_at: "2026-03-30T07:09:14.319Z"
+generated_at: "2026-03-30T07:11:06.562Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6614 - Y2K actions as class actions"
 usc_title: 15
 usc_section: "6614"
 chapter: 92
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 6614"
-generated_at: "2026-03-30T07:09:31.592Z"
+generated_at: "2026-03-30T07:11:27.037Z"
 status: "active"
 ---
 

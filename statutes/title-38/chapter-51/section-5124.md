@@ -3,9 +3,9 @@ title: "Section 5124 - Acceptance of claimant’s statement as proof of relation
 usc_title: 38
 usc_section: "5124"
 chapter: 51
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "38 U.S.C. § 5124"
-generated_at: "2026-03-30T07:10:04.391Z"
+generated_at: "2026-03-30T07:12:54.437Z"
 status: "active"
 ---
 

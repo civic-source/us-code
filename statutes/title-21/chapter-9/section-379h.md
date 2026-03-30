@@ -3,9 +3,9 @@ title: "Section 379h - Authority to assess and use drug fees"
 usc_title: 21
 usc_section: "379h"
 chapter: 9
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "21 U.S.C. § 379h"
-generated_at: "2026-03-30T07:09:43.470Z"
+generated_at: "2026-03-30T07:12:03.110Z"
 status: "active"
 ---
 

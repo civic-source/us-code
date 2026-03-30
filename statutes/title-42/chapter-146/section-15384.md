@@ -3,9 +3,9 @@ title: "Section 15384 - Transferred"
 usc_title: 42
 usc_section: "15384"
 chapter: 146
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 15384"
-generated_at: "2026-03-30T07:10:20.048Z"
+generated_at: "2026-03-30T07:13:46.164Z"
 status: "transferred"
 ---
 

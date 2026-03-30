@@ -3,9 +3,9 @@ title: "Section 3916 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "3916"
 chapter: 367
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 3916"
-generated_at: "2026-03-30T07:09:14.410Z"
+generated_at: "2026-03-30T07:11:06.646Z"
 status: "repealed"
 ---
 

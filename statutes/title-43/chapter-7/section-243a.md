@@ -3,9 +3,9 @@ title: "Section 243a - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 
 usc_title: 43
 usc_section: "243a"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "43 U.S.C. § 243a"
-generated_at: "2026-03-30T07:10:07.385Z"
+generated_at: "2026-03-30T07:12:59.787Z"
 status: "repealed"
 ---
 

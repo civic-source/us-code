@@ -3,9 +3,9 @@ title: "Section 2024 - Assignment of space in Senate Office Building"
 usc_title: 2
 usc_section: "2024"
 chapter: 30
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "2 U.S.C. § 2024"
-generated_at: "2026-03-30T07:09:03.145Z"
+generated_at: "2026-03-30T07:10:50.401Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1375 - Repealed. Pub. L. 109–162, title VIII , § 833(g), Jan.
 usc_title: 8
 usc_section: "1375"
 chapter: 12
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "8 U.S.C. § 1375"
-generated_at: "2026-03-30T07:09:16.114Z"
+generated_at: "2026-03-30T07:10:58.122Z"
 status: "repealed"
 ---
 

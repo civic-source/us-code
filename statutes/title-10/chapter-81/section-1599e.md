@@ -3,9 +3,9 @@ title: "Section 1599e - Probationary period for employees"
 usc_title: 10
 usc_section: "1599e"
 chapter: 81
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 1599e"
-generated_at: "2026-03-30T07:09:14.353Z"
+generated_at: "2026-03-30T07:11:06.595Z"
 status: "active"
 ---
 

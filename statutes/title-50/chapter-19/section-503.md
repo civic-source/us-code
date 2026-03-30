@@ -3,9 +3,9 @@ title: "Section 503 - Authorization of appropriations"
 usc_title: 50
 usc_section: "503"
 chapter: 19
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 503"
-generated_at: "2026-03-30T07:10:36.643Z"
+generated_at: "2026-03-30T07:13:58.415Z"
 status: "active"
 ---
 

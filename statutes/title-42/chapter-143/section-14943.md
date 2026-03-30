@@ -3,9 +3,9 @@ title: "Section 14943 - Authorization of appropriations; collection of fees"
 usc_title: 42
 usc_section: "14943"
 chapter: 143
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 14943"
-generated_at: "2026-03-30T07:10:20.043Z"
+generated_at: "2026-03-30T07:13:46.159Z"
 status: "active"
 ---
 

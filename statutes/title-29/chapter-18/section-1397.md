@@ -3,9 +3,9 @@ title: "Section 1397 - Application of part in case of certain pre-1980 withdrawa
 usc_title: 29
 usc_section: "1397"
 chapter: 18
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "29 U.S.C. § 1397"
-generated_at: "2026-03-30T07:09:50.822Z"
+generated_at: "2026-03-30T07:12:16.132Z"
 status: "active"
 ---
 

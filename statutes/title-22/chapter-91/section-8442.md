@@ -3,9 +3,9 @@ title: "Section 8442 - Monitoring reports"
 usc_title: 22
 usc_section: "8442"
 chapter: 91
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 8442"
-generated_at: "2026-03-30T07:09:47.021Z"
+generated_at: "2026-03-30T07:12:12.320Z"
 status: "active"
 ---
 

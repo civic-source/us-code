@@ -3,9 +3,9 @@ title: "Section 2751 - Transfer of weapons activities funds"
 usc_title: 50
 usc_section: "2751"
 chapter: 42
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 2751"
-generated_at: "2026-03-30T07:10:36.672Z"
+generated_at: "2026-03-30T07:13:58.442Z"
 status: "active"
 ---
 

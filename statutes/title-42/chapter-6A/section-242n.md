@@ -3,9 +3,9 @@ title: "Section 242n - Repealed. Pub. L. 101–239, title VI , § 6103(d)(1)(B),
 usc_title: 42
 usc_section: "242n"
 chapter: 6
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 242n"
-generated_at: "2026-03-30T07:10:19.424Z"
+generated_at: "2026-03-30T07:13:45.544Z"
 status: "repealed"
 ---
 

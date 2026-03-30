@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions"
 usc_title: 31
 usc_section: "1101"
 chapter: 11
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "31 U.S.C. § 1101"
-generated_at: "2026-03-30T07:09:59.787Z"
+generated_at: "2026-03-30T07:12:26.404Z"
 status: "active"
 ---
 

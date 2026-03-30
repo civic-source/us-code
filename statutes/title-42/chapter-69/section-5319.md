@@ -3,9 +3,9 @@ title: "Section 5319 - Community participation in programs"
 usc_title: 42
 usc_section: "5319"
 chapter: 69
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 5319"
-generated_at: "2026-03-30T07:10:19.852Z"
+generated_at: "2026-03-30T07:13:45.974Z"
 status: "active"
 ---
 

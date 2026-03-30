@@ -3,9 +3,9 @@ title: "Section 22301 - Organization"
 usc_title: 36
 usc_section: "22301"
 chapter: 223
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 22301"
-generated_at: "2026-03-30T07:10:03.212Z"
+generated_at: "2026-03-30T07:12:40.632Z"
 status: "active"
 ---
 

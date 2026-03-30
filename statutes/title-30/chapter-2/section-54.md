@@ -3,9 +3,9 @@ title: "Section 54 - Liability for damages to stock raising and homestead entrie
 usc_title: 30
 usc_section: "54"
 chapter: 2
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "30 U.S.C. § 54"
-generated_at: "2026-03-30T07:09:51.165Z"
+generated_at: "2026-03-30T07:12:16.427Z"
 status: "active"
 ---
 

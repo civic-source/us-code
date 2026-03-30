@@ -3,9 +3,9 @@ title: "Section 665e - Repealed. Pub. L. 105–33, title X , § 10118(a), Aug. 5
 usc_title: 2
 usc_section: "665e"
 chapter: 17
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "2 U.S.C. § 665e"
-generated_at: "2026-03-30T07:09:03.127Z"
+generated_at: "2026-03-30T07:10:50.385Z"
 status: "repealed"
 ---
 

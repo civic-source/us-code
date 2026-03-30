@@ -3,9 +3,9 @@ title: "Section 2034 - Educational institutions not maintaining units of Junior 
 usc_title: 10
 usc_section: "2034"
 chapter: 102
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 2034"
-generated_at: "2026-03-30T07:09:14.359Z"
+generated_at: "2026-03-30T07:11:06.600Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4712 - Enhancement of contractor protection from reprisal for di
 usc_title: 41
 usc_section: "4712"
 chapter: 47
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "41 U.S.C. § 4712"
-generated_at: "2026-03-30T07:10:06.427Z"
+generated_at: "2026-03-30T07:13:06.779Z"
 status: "active"
 ---
 

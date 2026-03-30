@@ -3,9 +3,9 @@ title: "Section 8281 - Commissioned officer grades"
 usc_title: 10
 usc_section: "8281"
 chapter: 835
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 8281"
-generated_at: "2026-03-30T07:09:14.431Z"
+generated_at: "2026-03-30T07:11:06.664Z"
 status: "active"
 ---
 

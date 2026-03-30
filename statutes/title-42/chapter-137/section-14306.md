@@ -3,9 +3,9 @@ title: "Section 14306 - State authority"
 usc_title: 42
 usc_section: "14306"
 chapter: 137
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 14306"
-generated_at: "2026-03-30T07:10:20.041Z"
+generated_at: "2026-03-30T07:13:46.157Z"
 status: "active"
 ---
 

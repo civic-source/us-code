@@ -3,9 +3,9 @@ title: "Section 6002 - Immunity generally"
 usc_title: 18
 usc_section: "6002"
 chapter: 601
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 6002"
-generated_at: "2026-03-30T07:09:35.184Z"
+generated_at: "2026-03-30T07:11:47.949Z"
 status: "active"
 ---
 

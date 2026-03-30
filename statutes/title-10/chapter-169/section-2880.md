@@ -3,9 +3,9 @@ title: "Section 2880 - Unit size and type"
 usc_title: 10
 usc_section: "2880"
 chapter: 169
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 2880"
-generated_at: "2026-03-30T07:09:14.405Z"
+generated_at: "2026-03-30T07:11:06.641Z"
 status: "active"
 ---
 

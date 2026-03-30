@@ -3,9 +3,9 @@ title: "Section 894d - Applicability of policies to crews of vessels secured by 
 usc_title: 33
 usc_section: "894d"
 chapter: 17
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "33 U.S.C. § 894d"
-generated_at: "2026-03-30T07:10:00.615Z"
+generated_at: "2026-03-30T07:12:38.315Z"
 status: "active"
 ---
 

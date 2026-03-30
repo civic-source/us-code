@@ -3,9 +3,9 @@ title: "Section 9858b - Lead agency"
 usc_title: 42
 usc_section: "9858b"
 chapter: 105
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 9858b"
-generated_at: "2026-03-30T07:10:19.973Z"
+generated_at: "2026-03-30T07:13:46.090Z"
 status: "active"
 ---
 

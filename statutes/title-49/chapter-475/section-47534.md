@@ -3,9 +3,9 @@ title: "Section 47534 - Prohibition on operating certain aircraft weighing 75,00
 usc_title: 49
 usc_section: "47534"
 chapter: 475
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "49 U.S.C. § 47534"
-generated_at: "2026-03-30T07:10:27.730Z"
+generated_at: "2026-03-30T07:14:01.781Z"
 status: "active"
 ---
 

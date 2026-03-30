@@ -3,9 +3,9 @@ title: "Section 51705 - Training for use of force against piracy"
 usc_title: 46
 usc_section: "51705"
 chapter: 517
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "46 U.S.C. § 51705"
-generated_at: "2026-03-30T07:10:23.435Z"
+generated_at: "2026-03-30T07:13:55.197Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 383 - Repealed. Pub. L. 97–293, title II , § 224(f), Oct. 12,
 usc_title: 25
 usc_section: "383"
 chapter: 11
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "25 U.S.C. § 383"
-generated_at: "2026-03-30T07:09:44.735Z"
+generated_at: "2026-03-30T07:11:58.152Z"
 status: "repealed"
 ---
 

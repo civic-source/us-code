@@ -3,9 +3,9 @@ title: "Section 1861 - Short title and definitions"
 usc_title: 12
 usc_section: "1861"
 chapter: 18
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 1861"
-generated_at: "2026-03-30T07:09:21.254Z"
+generated_at: "2026-03-30T07:11:36.685Z"
 status: "active"
 ---
 

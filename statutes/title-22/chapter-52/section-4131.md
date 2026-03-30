@@ -3,9 +3,9 @@ title: "Section 4131 - Definitions and applicability"
 usc_title: 22
 usc_section: "4131"
 chapter: 52
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 4131"
-generated_at: "2026-03-30T07:09:46.982Z"
+generated_at: "2026-03-30T07:12:12.280Z"
 status: "active"
 ---
 

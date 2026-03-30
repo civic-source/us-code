@@ -3,9 +3,9 @@ title: "Section 3005 - Counsel and witnesses in capital cases"
 usc_title: 18
 usc_section: "3005"
 chapter: 201
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 3005"
-generated_at: "2026-03-30T07:09:35.167Z"
+generated_at: "2026-03-30T07:11:47.933Z"
 status: "active"
 ---
 

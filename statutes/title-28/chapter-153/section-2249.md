@@ -3,9 +3,9 @@ title: "Section 2249 - Certified copies of indictment, plea and judgment; duty o
 usc_title: 28
 usc_section: "2249"
 chapter: 153
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "28 U.S.C. § 2249"
-generated_at: "2026-03-30T07:09:51.792Z"
+generated_at: "2026-03-30T07:12:15.253Z"
 status: "active"
 ---
 

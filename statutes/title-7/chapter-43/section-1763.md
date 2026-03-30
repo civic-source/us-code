@@ -3,9 +3,9 @@ title: "Section 1763 - Transferred"
 usc_title: 7
 usc_section: "1763"
 chapter: 43
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 1763"
-generated_at: "2026-03-30T07:09:10.958Z"
+generated_at: "2026-03-30T07:11:01.927Z"
 status: "transferred"
 ---
 

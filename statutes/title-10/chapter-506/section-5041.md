@@ -3,9 +3,9 @@ title: "Section 5041 - Headquarters, Marine Corps: function; composition"
 usc_title: 10
 usc_section: "5041"
 chapter: 506
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 5041"
-generated_at: "2026-03-30T07:09:14.417Z"
+generated_at: "2026-03-30T07:11:06.651Z"
 status: "active"
 ---
 

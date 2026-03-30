@@ -3,9 +3,9 @@ title: "Section 1679d - Credit repair organizations contracts"
 usc_title: 15
 usc_section: "1679d"
 chapter: 41
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 1679d"
-generated_at: "2026-03-30T07:09:31.537Z"
+generated_at: "2026-03-30T07:11:26.983Z"
 status: "active"
 ---
 

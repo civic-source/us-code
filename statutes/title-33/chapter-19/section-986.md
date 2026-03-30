@@ -3,9 +3,9 @@ title: "Section 986 - Payments to States and local governments in lieu of taxes;
 usc_title: 33
 usc_section: "986"
 chapter: 19
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "33 U.S.C. § 986"
-generated_at: "2026-03-30T07:10:00.618Z"
+generated_at: "2026-03-30T07:12:38.318Z"
 status: "active"
 ---
 

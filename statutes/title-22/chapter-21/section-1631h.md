@@ -3,9 +3,9 @@ title: "Section 1631h - Hearings on claims; rules and regulations; delegation of
 usc_title: 22
 usc_section: "1631h"
 chapter: 21
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 1631h"
-generated_at: "2026-03-30T07:09:46.920Z"
+generated_at: "2026-03-30T07:12:12.219Z"
 status: "active"
 ---
 

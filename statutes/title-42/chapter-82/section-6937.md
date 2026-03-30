@@ -3,9 +3,9 @@ title: "Section 6937 - Inventory of Federal agency hazardous waste facilities"
 usc_title: 42
 usc_section: "6937"
 chapter: 82
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 6937"
-generated_at: "2026-03-30T07:10:19.888Z"
+generated_at: "2026-03-30T07:13:46.007Z"
 status: "active"
 ---
 

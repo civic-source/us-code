@@ -3,9 +3,9 @@ title: "Section 12655j - Use of volunteers"
 usc_title: 42
 usc_section: "12655j"
 chapter: 129
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 12655j"
-generated_at: "2026-03-30T07:10:20.021Z"
+generated_at: "2026-03-30T07:13:46.137Z"
 status: "active"
 ---
 

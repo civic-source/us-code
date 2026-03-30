@@ -3,9 +3,9 @@ title: "Section 155a - Repealed. Pub. L. 114–328, div. A, title V , § 502(a)(
 usc_title: 10
 usc_section: "155a"
 chapter: 5
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 155a"
-generated_at: "2026-03-30T07:09:14.293Z"
+generated_at: "2026-03-30T07:11:06.541Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 350i - Protection against intentional adulteration"
 usc_title: 21
 usc_section: "350i"
 chapter: 9
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "21 U.S.C. § 350i"
-generated_at: "2026-03-30T07:09:43.442Z"
+generated_at: "2026-03-30T07:12:03.083Z"
 status: "active"
 ---
 

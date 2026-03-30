@@ -3,9 +3,9 @@ title: "Section 1098d - Procedures for cancellations and deferments for eligible
 usc_title: 20
 usc_section: "1098d"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 1098d"
-generated_at: "2026-03-30T07:09:38.170Z"
+generated_at: "2026-03-30T07:11:45.026Z"
 status: "active"
 ---
 

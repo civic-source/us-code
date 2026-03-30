@@ -3,9 +3,9 @@ title: "Section 1153 - Sealing permitted by Aleuts, Eskimos, and Indians"
 usc_title: 16
 usc_section: "1153"
 chapter: 24
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 1153"
-generated_at: "2026-03-30T07:09:40.429Z"
+generated_at: "2026-03-30T07:11:43.253Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101121 - Second Century Endowment for the National Park Service"
 usc_title: 54
 usc_section: "101121"
 chapter: 1011
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "54 U.S.C. § 101121"
-generated_at: "2026-03-30T07:10:38.773Z"
+generated_at: "2026-03-30T07:14:04.303Z"
 status: "active"
 ---
 

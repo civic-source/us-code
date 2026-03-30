@@ -3,9 +3,9 @@ title: "Section 7307 - Able seamen—unlimited"
 usc_title: 46
 usc_section: "7307"
 chapter: 73
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "46 U.S.C. § 7307"
-generated_at: "2026-03-30T07:10:23.420Z"
+generated_at: "2026-03-30T07:13:55.182Z"
 status: "active"
 ---
 

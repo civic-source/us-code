@@ -3,9 +3,9 @@ title: "Section 1599a - Financial assistance to certain employees in acquisition
 usc_title: 10
 usc_section: "1599a"
 chapter: 81
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 1599a"
-generated_at: "2026-03-30T07:09:14.353Z"
+generated_at: "2026-03-30T07:11:06.594Z"
 status: "active"
 ---
 

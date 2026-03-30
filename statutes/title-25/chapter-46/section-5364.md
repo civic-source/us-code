@@ -3,9 +3,9 @@ title: "Section 5364 - Budget request"
 usc_title: 25
 usc_section: "5364"
 chapter: 46
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "25 U.S.C. § 5364"
-generated_at: "2026-03-30T07:09:44.792Z"
+generated_at: "2026-03-30T07:11:58.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430d - Repair of roads; historical markers"
 usc_title: 16
 usc_section: "430d"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 430d"
-generated_at: "2026-03-30T07:09:40.332Z"
+generated_at: "2026-03-30T07:11:43.150Z"
 status: "active"
 ---
 

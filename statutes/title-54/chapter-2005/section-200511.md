@@ -3,9 +3,9 @@ title: "Section 200511 - Funding limitations"
 usc_title: 54
 usc_section: "200511"
 chapter: 2005
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "54 U.S.C. § 200511"
-generated_at: "2026-03-30T07:10:38.777Z"
+generated_at: "2026-03-30T07:14:04.307Z"
 status: "active"
 ---
 

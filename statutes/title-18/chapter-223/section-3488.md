@@ -3,9 +3,9 @@ title: "Section 3488 - Intoxicating liquor in Indian country as evidence of unla
 usc_title: 18
 usc_section: "3488"
 chapter: 223
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 3488"
-generated_at: "2026-03-30T07:09:35.173Z"
+generated_at: "2026-03-30T07:11:47.939Z"
 status: "active"
 ---
 

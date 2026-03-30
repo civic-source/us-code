@@ -3,9 +3,9 @@ title: "Section 3124 - Exemption from taxation"
 usc_title: 31
 usc_section: "3124"
 chapter: 31
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "31 U.S.C. § 3124"
-generated_at: "2026-03-30T07:09:59.792Z"
+generated_at: "2026-03-30T07:12:26.410Z"
 status: "active"
 ---
 

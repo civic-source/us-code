@@ -3,9 +3,9 @@ title: "Section 312 - Employees"
 usc_title: 15
 usc_section: "312"
 chapter: 9
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 312"
-generated_at: "2026-03-30T07:09:31.481Z"
+generated_at: "2026-03-30T07:11:26.930Z"
 status: "active"
 ---
 

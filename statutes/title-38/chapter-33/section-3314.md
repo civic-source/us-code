@@ -3,9 +3,9 @@ title: "Section 3314 - Tutorial assistance"
 usc_title: 38
 usc_section: "3314"
 chapter: 33
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "38 U.S.C. § 3314"
-generated_at: "2026-03-30T07:10:04.377Z"
+generated_at: "2026-03-30T07:12:54.425Z"
 status: "active"
 ---
 

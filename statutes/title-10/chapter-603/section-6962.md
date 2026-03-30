@@ -3,9 +3,9 @@ title: "Section 6962 - Midshipmen: discharge for unsatisfactory conduct or inapt
 usc_title: 10
 usc_section: "6962"
 chapter: 603
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 6962"
-generated_at: "2026-03-30T07:09:14.422Z"
+generated_at: "2026-03-30T07:11:06.656Z"
 status: "active"
 ---
 

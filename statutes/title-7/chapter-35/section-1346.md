@@ -3,9 +3,9 @@ title: "Section 1346 - Penalties"
 usc_title: 7
 usc_section: "1346"
 chapter: 35
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 1346"
-generated_at: "2026-03-30T07:09:10.931Z"
+generated_at: "2026-03-30T07:11:01.901Z"
 status: "active"
 ---
 

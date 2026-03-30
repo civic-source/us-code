@@ -3,9 +3,9 @@ title: "Section 13 - Grants by Secretary of the Interior to assist Indian organi
 usc_title: 20
 usc_section: "13"
 chapter: 3
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-30T07:09:38.122Z"
+generated_at: "2026-03-30T07:11:44.976Z"
 status: "active"
 ---
 

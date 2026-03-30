@@ -3,9 +3,9 @@ title: "Section 1132 - Definitions"
 usc_title: 20
 usc_section: "1132"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 1132"
-generated_at: "2026-03-30T07:09:38.174Z"
+generated_at: "2026-03-30T07:11:45.030Z"
 status: "active"
 ---
 

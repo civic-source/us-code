@@ -3,9 +3,9 @@ title: "Section 283ff - Subscription of stock"
 usc_title: 22
 usc_section: "283ff"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 283ff"
-generated_at: "2026-03-30T07:09:46.902Z"
+generated_at: "2026-03-30T07:12:12.202Z"
 status: "active"
 ---
 

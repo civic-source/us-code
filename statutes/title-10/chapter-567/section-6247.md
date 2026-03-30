@@ -3,9 +3,9 @@ title: "Section 6247 - Additional awards"
 usc_title: 10
 usc_section: "6247"
 chapter: 567
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 6247"
-generated_at: "2026-03-30T07:09:14.420Z"
+generated_at: "2026-03-30T07:11:06.654Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4577 - Grants and contracts for demonstration of new and more ef
 usc_title: 42
 usc_section: "4577"
 chapter: 60
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 4577"
-generated_at: "2026-03-30T07:10:19.832Z"
+generated_at: "2026-03-30T07:13:45.954Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 136y - Authorization of appropriations"
 usc_title: 7
 usc_section: "136y"
 chapter: 6
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 136y"
-generated_at: "2026-03-30T07:09:10.905Z"
+generated_at: "2026-03-30T07:11:01.877Z"
 status: "active"
 ---
 

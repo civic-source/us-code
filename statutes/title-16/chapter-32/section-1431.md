@@ -3,9 +3,9 @@ title: "Section 1431 - Findings, purposes, and policies; establishment of system
 usc_title: 16
 usc_section: "1431"
 chapter: 32
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 1431"
-generated_at: "2026-03-30T07:09:40.444Z"
+generated_at: "2026-03-30T07:11:43.268Z"
 status: "active"
 ---
 

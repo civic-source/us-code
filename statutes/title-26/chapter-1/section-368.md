@@ -3,9 +3,9 @@ title: "Section 368 - Definitions relating to corporate reorganizations"
 usc_title: 26
 usc_section: "368"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 368"
-generated_at: "2026-03-30T07:09:56.407Z"
+generated_at: "2026-03-30T07:12:22.959Z"
 status: "active"
 ---
 

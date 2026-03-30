@@ -3,9 +3,9 @@ title: "Section 1400R - Employment relief"
 usc_title: 26
 usc_section: "1400R"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 1400R"
-generated_at: "2026-03-30T07:09:56.498Z"
+generated_at: "2026-03-30T07:12:23.046Z"
 status: "active"
 ---
 

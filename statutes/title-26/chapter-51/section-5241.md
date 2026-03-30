@@ -3,9 +3,9 @@ title: "Section 5241 - Authority to denature"
 usc_title: 26
 usc_section: "5241"
 chapter: 51
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "26 U.S.C. § 5241"
-generated_at: "2026-03-30T07:09:56.538Z"
+generated_at: "2026-03-30T07:12:23.084Z"
 status: "active"
 ---
 

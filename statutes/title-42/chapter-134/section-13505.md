@@ -3,9 +3,9 @@ title: "Section 13505 - Integration of research and development"
 usc_title: 42
 usc_section: "13505"
 chapter: 134
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 13505"
-generated_at: "2026-03-30T07:10:20.038Z"
+generated_at: "2026-03-30T07:13:46.153Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029"
 usc_title: 50
 usc_section: "15"
 chapter: 2
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 15"
-generated_at: "2026-03-30T07:10:36.637Z"
+generated_at: "2026-03-30T07:13:58.411Z"
 status: "repealed"
 ---
 

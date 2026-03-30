@@ -3,9 +3,9 @@ title: "Section 5156 - Authorization of appropriations; cooperative agreements"
 usc_title: 16
 usc_section: "5156"
 chapter: 71
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 5156"
-generated_at: "2026-03-30T07:09:40.496Z"
+generated_at: "2026-03-30T07:11:43.320Z"
 status: "active"
 ---
 

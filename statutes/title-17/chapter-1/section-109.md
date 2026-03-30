@@ -3,9 +3,9 @@ title: "Section 109 - Limitations on exclusive rights: Effect of transfer of par
 usc_title: 17
 usc_section: "109"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "17 U.S.C. § 109"
-generated_at: "2026-03-30T07:09:36.564Z"
+generated_at: "2026-03-30T07:11:39.627Z"
 status: "active"
 ---
 

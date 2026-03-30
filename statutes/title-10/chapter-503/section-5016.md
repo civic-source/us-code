@@ -3,9 +3,9 @@ title: "Section 5016 - Assistant Secretaries of the Navy"
 usc_title: 10
 usc_section: "5016"
 chapter: 503
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 5016"
-generated_at: "2026-03-30T07:09:14.416Z"
+generated_at: "2026-03-30T07:11:06.651Z"
 status: "active"
 ---
 

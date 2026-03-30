@@ -3,9 +3,9 @@ title: "Section 2346 - Authority"
 usc_title: 22
 usc_section: "2346"
 chapter: 32
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 2346"
-generated_at: "2026-03-30T07:09:46.940Z"
+generated_at: "2026-03-30T07:12:12.240Z"
 status: "active"
 ---
 

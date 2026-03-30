@@ -3,9 +3,9 @@ title: "Section 3044 - Complaint—(Rule)"
 usc_title: 18
 usc_section: "3044"
 chapter: 203
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "18 U.S.C. § 3044"
-generated_at: "2026-03-30T07:09:35.168Z"
+generated_at: "2026-03-30T07:11:47.934Z"
 status: "active"
 ---
 

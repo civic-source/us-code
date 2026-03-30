@@ -3,9 +3,9 @@ title: "Section 47c - Acquisition of certain lands for preservation and consolid
 usc_title: 16
 usc_section: "47c"
 chapter: 1
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "16 U.S.C. § 47c"
-generated_at: "2026-03-30T07:09:40.291Z"
+generated_at: "2026-03-30T07:11:43.106Z"
 status: "active"
 ---
 

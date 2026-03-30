@@ -3,9 +3,9 @@ title: "Section 6522 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6522"
 chapter: 94
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "7 U.S.C. § 6522"
-generated_at: "2026-03-30T07:09:11.017Z"
+generated_at: "2026-03-30T07:11:01.991Z"
 status: "active"
 ---
 

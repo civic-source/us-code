@@ -3,9 +3,9 @@ title: "Section 1645 - Remittance of duties, taxes, and fees to be collected in 
 usc_title: 48
 usc_section: "1645"
 chapter: 12
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "48 U.S.C. § 1645"
-generated_at: "2026-03-30T07:10:22.632Z"
+generated_at: "2026-03-30T07:13:54.551Z"
 status: "active"
 ---
 

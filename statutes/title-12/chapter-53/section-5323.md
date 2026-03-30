@@ -3,9 +3,9 @@ title: "Section 5323 - Authority to require supervision and regulation of certai
 usc_title: 12
 usc_section: "5323"
 chapter: 53
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 5323"
-generated_at: "2026-03-30T07:09:21.305Z"
+generated_at: "2026-03-30T07:11:36.736Z"
 status: "active"
 ---
 

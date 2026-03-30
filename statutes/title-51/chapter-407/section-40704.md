@@ -3,9 +3,9 @@ title: "Section 40704 - Research program on perceived impact of sonic booms"
 usc_title: 51
 usc_section: "40704"
 chapter: 407
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "51 U.S.C. § 40704"
-generated_at: "2026-03-30T07:10:38.509Z"
+generated_at: "2026-03-30T07:14:03.929Z"
 status: "active"
 ---
 

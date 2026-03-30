@@ -3,9 +3,9 @@ title: "Section 151106 - Tax exemption"
 usc_title: 36
 usc_section: "151106"
 chapter: 1511
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 151106"
-generated_at: "2026-03-30T07:10:03.221Z"
+generated_at: "2026-03-30T07:12:40.641Z"
 status: "active"
 ---
 

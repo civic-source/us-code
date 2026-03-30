@@ -3,9 +3,9 @@ title: "Section 378 - Advertising of foods"
 usc_title: 21
 usc_section: "378"
 chapter: 9
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "21 U.S.C. § 378"
-generated_at: "2026-03-30T07:09:43.469Z"
+generated_at: "2026-03-30T07:12:03.109Z"
 status: "active"
 ---
 

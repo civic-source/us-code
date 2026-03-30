@@ -3,9 +3,9 @@ title: "Section 3920 - More than thirty years: permanent professors and the Dire
 usc_title: 10
 usc_section: "3920"
 chapter: 367
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 3920"
-generated_at: "2026-03-30T07:09:14.410Z"
+generated_at: "2026-03-30T07:11:06.646Z"
 status: "active"
 ---
 

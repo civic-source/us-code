@@ -3,9 +3,9 @@ title: "Section 1723e - Repealed. Pub. L. 98–181, title I [title IV, § 483(a)
 usc_title: 12
 usc_section: "1723e"
 chapter: 13
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 1723e"
-generated_at: "2026-03-30T07:09:21.217Z"
+generated_at: "2026-03-30T07:11:36.648Z"
 status: "repealed"
 ---
 

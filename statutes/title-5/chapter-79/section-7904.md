@@ -3,9 +3,9 @@ title: "Section 7904 - Employee assistance programs relating to drug abuse and a
 usc_title: 5
 usc_section: "7904"
 chapter: 79
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "5 U.S.C. § 7904"
-generated_at: "2026-03-30T07:09:04.799Z"
+generated_at: "2026-03-30T07:10:54.507Z"
 status: "active"
 ---
 

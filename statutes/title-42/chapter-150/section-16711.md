@@ -3,9 +3,9 @@ title: "Section 16711 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16711"
 chapter: 150
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 16711"
-generated_at: "2026-03-30T07:10:20.066Z"
+generated_at: "2026-03-30T07:13:46.182Z"
 status: "repealed"
 ---
 

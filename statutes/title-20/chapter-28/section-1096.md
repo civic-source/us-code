@@ -3,9 +3,9 @@ title: "Section 1096 - Administrative expenses"
 usc_title: 20
 usc_section: "1096"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 1096"
-generated_at: "2026-03-30T07:09:38.170Z"
+generated_at: "2026-03-30T07:11:45.025Z"
 status: "active"
 ---
 

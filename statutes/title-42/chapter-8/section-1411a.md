@@ -3,9 +3,9 @@ title: "Section 1411a - Omitted"
 usc_title: 42
 usc_section: "1411a"
 chapter: 8
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 1411a"
-generated_at: "2026-03-30T07:10:19.720Z"
+generated_at: "2026-03-30T07:13:45.847Z"
 status: "omitted"
 ---
 

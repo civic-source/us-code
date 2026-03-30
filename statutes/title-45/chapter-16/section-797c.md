@@ -3,9 +3,9 @@ title: "Section 797c - Central register of railroad employment"
 usc_title: 45
 usc_section: "797c"
 chapter: 16
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "45 U.S.C. § 797c"
-generated_at: "2026-03-30T07:10:09.755Z"
+generated_at: "2026-03-30T07:13:04.731Z"
 status: "active"
 ---
 

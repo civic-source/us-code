@@ -3,9 +3,9 @@ title: "Section 2785 - Publication of contractor performance evaluations leading
 usc_title: 50
 usc_section: "2785"
 chapter: 42
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 2785"
-generated_at: "2026-03-30T07:10:36.672Z"
+generated_at: "2026-03-30T07:13:58.442Z"
 status: "active"
 ---
 

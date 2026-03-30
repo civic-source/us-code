@@ -3,9 +3,9 @@ title: "Section 949i - Pleas of the accused"
 usc_title: 10
 usc_section: "949i"
 chapter: 47
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 949i"
-generated_at: "2026-03-30T07:09:14.322Z"
+generated_at: "2026-03-30T07:11:06.565Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 616mmm - Omitted"
 usc_title: 43
 usc_section: "616mmm"
 chapter: 12
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "43 U.S.C. § 616mmm"
-generated_at: "2026-03-30T07:10:07.399Z"
+generated_at: "2026-03-30T07:12:59.801Z"
 status: "omitted"
 ---
 

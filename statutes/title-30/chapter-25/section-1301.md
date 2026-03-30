@@ -3,9 +3,9 @@ title: "Section 1301 - Environmental practices"
 usc_title: 30
 usc_section: "1301"
 chapter: 25
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "30 U.S.C. § 1301"
-generated_at: "2026-03-30T07:09:51.192Z"
+generated_at: "2026-03-30T07:12:16.453Z"
 status: "active"
 ---
 

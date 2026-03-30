@@ -3,9 +3,9 @@ title: "Section 8923 - Repealed. Pub. L. 107–110, title X , § 1011(5)(C), Jan
 usc_title: 20
 usc_section: "8923"
 chapter: 70
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 8923"
-generated_at: "2026-03-30T07:09:38.244Z"
+generated_at: "2026-03-30T07:11:45.100Z"
 status: "repealed"
 ---
 

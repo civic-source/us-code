@@ -3,9 +3,9 @@ title: "Section 27 - Evaluation and report"
 usc_title: 20
 usc_section: "27"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 27"
-generated_at: "2026-03-30T07:09:38.142Z"
+generated_at: "2026-03-30T07:11:44.997Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7462 - Major adverse actions involving professional conduct or c
 usc_title: 38
 usc_section: "7462"
 chapter: 74
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "38 U.S.C. § 7462"
-generated_at: "2026-03-30T07:10:04.403Z"
+generated_at: "2026-03-30T07:12:54.449Z"
 status: "active"
 ---
 

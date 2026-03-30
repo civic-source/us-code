@@ -3,9 +3,9 @@ title: "Section 2709 - Reports to Congress by Secretary of Energy"
 usc_title: 15
 usc_section: "2709"
 chapter: 54
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "15 U.S.C. § 2709"
-generated_at: "2026-03-30T07:09:31.569Z"
+generated_at: "2026-03-30T07:11:27.014Z"
 status: "active"
 ---
 

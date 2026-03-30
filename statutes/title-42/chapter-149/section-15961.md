@@ -3,9 +3,9 @@ title: "Section 15961 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15961"
 chapter: 149
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "42 U.S.C. § 15961"
-generated_at: "2026-03-30T07:10:20.053Z"
+generated_at: "2026-03-30T07:13:46.168Z"
 status: "active"
 ---
 

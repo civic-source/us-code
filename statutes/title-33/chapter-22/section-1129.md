@@ -3,9 +3,9 @@ title: "Section 1129 - Interagency cooperation"
 usc_title: 33
 usc_section: "1129"
 chapter: 22
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "33 U.S.C. § 1129"
-generated_at: "2026-03-30T07:10:00.619Z"
+generated_at: "2026-03-30T07:12:38.319Z"
 status: "active"
 ---
 

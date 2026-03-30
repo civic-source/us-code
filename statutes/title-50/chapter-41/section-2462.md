@@ -3,9 +3,9 @@ title: "Section 2462 - Compliance with Federal Acquisition Regulation"
 usc_title: 50
 usc_section: "2462"
 chapter: 41
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "50 U.S.C. § 2462"
-generated_at: "2026-03-30T07:10:36.664Z"
+generated_at: "2026-03-30T07:13:58.436Z"
 status: "active"
 ---
 

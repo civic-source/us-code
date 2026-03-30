@@ -3,9 +3,9 @@ title: "Section 50103 - Purposes"
 usc_title: 36
 usc_section: "50103"
 chapter: 501
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "36 U.S.C. § 50103"
-generated_at: "2026-03-30T07:10:03.215Z"
+generated_at: "2026-03-30T07:12:40.636Z"
 status: "active"
 ---
 

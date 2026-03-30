@@ -3,9 +3,9 @@ title: "Section 2246 - Renumbered § 2491a]"
 usc_title: 10
 usc_section: "2246"
 chapter: 134
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 2246"
-generated_at: "2026-03-30T07:09:14.367Z"
+generated_at: "2026-03-30T07:11:06.607Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12 - Loan repayment for civil legal assistance attorneys"
 usc_title: 20
 usc_section: "12"
 chapter: 28
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T07:09:38.151Z"
+generated_at: "2026-03-30T07:11:45.006Z"
 status: "active"
 ---
 

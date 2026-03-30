@@ -3,9 +3,9 @@ title: "Section 269c - International Statistical Bureau at The Hague; authorizat
 usc_title: 22
 usc_section: "269c"
 chapter: 7
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "22 U.S.C. § 269c"
-generated_at: "2026-03-30T07:09:46.897Z"
+generated_at: "2026-03-30T07:12:12.197Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6396 - Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 
 usc_title: 10
 usc_section: "6396"
 chapter: 573
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "10 U.S.C. § 6396"
-generated_at: "2026-03-30T07:09:14.421Z"
+generated_at: "2026-03-30T07:11:06.655Z"
 status: "repealed"
 ---
 

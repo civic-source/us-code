@@ -3,9 +3,9 @@ title: "Section 15 - Civil money penalties against multifamily mortgagors"
 usc_title: 12
 usc_section: "15"
 chapter: 13
-current_through: "PL 115-132"
+current_through: "PL 115-137"
 classification: "12 U.S.C. § 15"
-generated_at: "2026-03-30T07:09:21.219Z"
+generated_at: "2026-03-30T07:11:36.650Z"
 status: "active"
 ---
 
