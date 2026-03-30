@@ -3,9 +3,9 @@ title: "Section 32503 - Judicial review of bumper standards"
 usc_title: 49
 usc_section: "32503"
 chapter: 325
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "49 U.S.C. § 32503"
-generated_at: "2026-03-30T04:11:57.136Z"
+generated_at: "2026-03-30T04:14:45.071Z"
 status: "active"
 ---
 

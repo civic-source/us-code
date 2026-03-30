@@ -3,9 +3,9 @@ title: "Section 462 - Office of National Capital Region Coordination"
 usc_title: 6
 usc_section: "462"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 462"
-generated_at: "2026-03-30T04:10:09.290Z"
+generated_at: "2026-03-30T04:12:34.485Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There is established within the Office of the Secretary the Office of National Capital Region Coordination, to oversee and coordinate Federal programs for and relationships with State, local, and regional authorities in the National Capital Region, as defined under section 2674(f)(2) of title 10 .
   - **(2)** The Office established under paragraph (1) shall be headed by a Director, who shall be appointed by the Secretary.
   - **(3)** The Secretary shall cooperate with the Mayor of the District of Columbia, the Governors of Maryland and Virginia, and other State, local, and regional officers in the National Capital Region to integrate the District of Columbia, Maryland, and Virginia into the planning, coordination, and execution of the activities of the Federal Government for the enhancement of domestic preparedness against the consequences of terrorist attacks.
-- **(b)** The Office established under subsection (a)(1) of this section shall—
+- **(b)** The Office established under subsection (a)(1) shall—
   - **(1)** coordinate the activities of the Department relating to the National Capital Region, including cooperation with the Office for State and Local Government Coordination;
   - **(2)** assess, and advocate for, the resources needed by State, local, and regional authorities in the National Capital Region to implement efforts to secure the homeland;
   - **(3)** provide State, local, and regional authorities in the National Capital Region with regular information, research, and technical support to assist the efforts of State, local, and regional authorities in the National Capital Region in securing the homeland;
@@ -23,7 +23,7 @@ status: "active"
   - **(5)** coordinate with Federal agencies in the National Capital Region on terrorism preparedness, to ensure adequate planning, information sharing, training, and execution of the Federal role in domestic preparedness activities;
   - **(6)** coordinate with Federal, State, local, and regional agencies, and the private sector in the National Capital Region on terrorism preparedness to ensure adequate planning, information sharing, training, and execution of domestic preparedness activities among these agencies and entities; and
   - **(7)** serve as a liaison between the Federal Government and State, local, and regional authorities, and private sector entities in the National Capital Region to facilitate access to Federal grants and other programs.
-- **(c)** The Office established under subsection (a) of this section shall submit an annual report to Congress that includes—
+- **(c)** The Office established under subsection (a) shall submit an annual report to Congress that includes—
   - **(1)** the identification of the resources required to fully implement homeland security efforts in the National Capital Region;
   - **(2)** an assessment of the progress made by the National Capital Region in implementing homeland security efforts; and
   - **(3)** recommendations to Congress regarding the additional resources needed to fully implement homeland security efforts in the National Capital Region.

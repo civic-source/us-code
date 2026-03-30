@@ -3,9 +3,9 @@ title: "Section 6231 - Definitions and special rules"
 usc_title: 26
 usc_section: "6231"
 chapter: 63
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 6231"
-generated_at: "2026-03-30T04:11:13.870Z"
+generated_at: "2026-03-30T04:13:48.346Z"
 status: "active"
 ---
 

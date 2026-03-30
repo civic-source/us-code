@@ -3,9 +3,9 @@ title: "Section 2a - Medical treatment of narcotics addiction; report to Congres
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T04:11:46.358Z"
+generated_at: "2026-03-30T04:14:15.574Z"
 status: "active"
 ---
 

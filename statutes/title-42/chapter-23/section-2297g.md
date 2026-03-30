@@ -3,9 +3,9 @@ title: "Section 2297g - Uranium Enrichment Decontamination and Decommissioning F
 usc_title: 42
 usc_section: "2297g"
 chapter: 23
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 2297g"
-generated_at: "2026-03-30T04:11:46.760Z"
+generated_at: "2026-03-30T04:14:15.974Z"
 status: "active"
 ---
 

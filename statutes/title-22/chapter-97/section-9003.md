@@ -3,9 +3,9 @@ title: "Section 9003 - Judicial remedies"
 usc_title: 22
 usc_section: "9003"
 chapter: 97
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 9003"
-generated_at: "2026-03-30T04:11:00.465Z"
+generated_at: "2026-03-30T04:13:32.207Z"
 status: "active"
 ---
 
@@ -13,10 +13,10 @@ status: "active"
 
 - **(a)** The courts of the States and the United States district courts shall have concurrent original jurisdiction of actions arising under the Convention.
 - **(b)** Any person seeking to initiate judicial proceedings under the Convention for the return of a child or for arrangements for organizing or securing the effective exercise of rights of access to a child may do so by commencing a civil action by filing a petition for the relief sought in any court which has jurisdiction of such action and which is authorized to exercise its jurisdiction in the place where the child is located at the time the petition is filed.
-- **(c)** Notice of an action brought under subsection (b) of this section shall be given in accordance with the applicable law governing notice in interstate child custody proceedings.
-- **(d)** The court in which an action is brought under subsection (b) of this section shall decide the case in accordance with the Convention.
+- **(c)** Notice of an action brought under subsection (b) shall be given in accordance with the applicable law governing notice in interstate child custody proceedings.
+- **(d)** The court in which an action is brought under subsection (b) shall decide the case in accordance with the Convention.
 - **(e)**
-  - **(1)** A petitioner in an action brought under subsection (b) of this section shall establish by a preponderance of the evidence—
+  - **(1)** A petitioner in an action brought under subsection (b) shall establish by a preponderance of the evidence—
     - **(A)** in the case of an action for the return of a child, that the child has been wrongfully removed or retained within the meaning of the Convention; and
     - **(B)** in the case of an action for arrangements for organizing or securing the effective exercise of rights of access, that the petitioner has such rights.
   - **(2)** In the case of an action for the return of a child, a respondent who opposes the return of the child has the burden of establishing—

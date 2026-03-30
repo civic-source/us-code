@@ -3,9 +3,9 @@ title: "Section 9308 - Civil penalty"
 usc_title: 31
 usc_section: "9308"
 chapter: 93
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "31 U.S.C. § 9308"
-generated_at: "2026-03-30T04:11:18.692Z"
+generated_at: "2026-03-30T04:13:51.357Z"
 status: "active"
 ---
 

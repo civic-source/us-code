@@ -3,9 +3,9 @@ title: "Section 262d - Human rights and United States assistance policies with i
 usc_title: 22
 usc_section: "262d"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 262d"
-generated_at: "2026-03-30T04:11:00.281Z"
+generated_at: "2026-03-30T04:13:32.023Z"
 status: "active"
 ---
 
@@ -22,30 +22,10 @@ status: "active"
     - **(B)** is not a State Party to the Treaty on the Non-Proliferation of Nuclear Weapons; or
     - **(C)** has detonated a nuclear explosive device; and
   - **(4)** in relation to assistance for the Socialist Republic of Vietnam, the People’s Democratic Republic of Laos, Russia and the other independent states of the former Soviet Union (as defined in section 5801 of this title ), and Democratic Kampuchea (Cambodia), the responsiveness of the governments of such countries in providing a more substantial accounting of Americans missing in action.
-- **(c)**
-  - **(1)** The Secretary of the Treasury shall report annually on all loans considered by the Boards of Executive Directors of the institutions listed in subsection (a) of this section to the Chairman and ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, or the designees of such Chairman and ranking minority member, and the Chairman and ranking minority member of the Committee on Foreign Relations of the Senate.
-  - **(2)** Each report required by paragraph (1) shall—
-    - **(A)** include a list of all loans considered by the Board 1 1 So in original. Probably should be “Boards”. of Executive Directors of the institutions listed in subsection (a) of this section and shall specify with respect to each such loan—
-      - **(i)** the institution involved;
-      - **(ii)** the date of final action;
-      - **(iii)** the borrower;
-      - **(iv)** the amount;
-      - **(v)** the project or program;
-      - **(vi)** the vote of the United States Government;
-      - **(vii)** the reason for United States Government opposition, if any;
-      - **(viii)** the final disposition of the loan; and
-      - **(ix)** if the United States Government opposed the loan, whether the loan meets basic human needs;
-    - **(B)** indicate whether the United States has opposed any loan, financial assistance, or technical assistance to a country on human rights grounds;
-    - **(C)** indicate whether the United States has voted in favor of a loan, financial assistance, or technical assistance to a country with respect to which the United States had, in the preceding 2 years, opposed a loan, financial assistance, or technical assistance on human rights grounds; and
-    - **(D)** in cases where the United States changed its voting position from opposition to support or from support to opposition, on human rights grounds—
-      - **(i)** indicate the policy considerations that were taken into account in the development of the United States voting position;
-      - **(ii)** describe human rights conditions in the country involved;
-      - **(iii)** indicate how the United States voted on all other loans, financial assistance, and technical assistance to such country during the preceding 2 years; and
-      - **(iv)** contain information as to how the United States voting position relates to the overall United States Government policy on human rights in such country.
-- **(d)** The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
-- **(e)** In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a) of this section, the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
-- **(f)** The United States Executive Directors of the institutions listed in subsection (a) of this section are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
-- **(g)** The Secretary of the Treasury or his delegate shall consult frequently and in a timely manner with the chairmen and ranking minority members of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate to inform them regarding any prospective changes in policy direction toward countries which have or recently have had poor human rights records.
+- **(c)** The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
+- **(d)** In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a) of this section, the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
+- **(e)** The United States Executive Directors of the institutions listed in subsection (a) of this section are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
+- **(f)** The Secretary of the Treasury or his delegate shall consult frequently and in a timely manner with the chairmen and ranking minority members of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate to inform them regarding any prospective changes in policy direction toward countries which have or recently have had poor human rights records.
 - **(g)** In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a) of this section, the President shall give particular consideration to whether a foreign government—
   - **(1)** has engaged in or tolerated particularly severe violations of religious freedom, as defined in section 6402 of this title ; or
   - **(2)** has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.

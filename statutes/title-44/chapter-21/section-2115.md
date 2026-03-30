@@ -3,13 +3,13 @@ title: "Section 2115 - Reports; correction of violations"
 usc_title: 44
 usc_section: "2115"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "44 U.S.C. § 2115"
-generated_at: "2026-03-30T04:11:25.528Z"
+generated_at: "2026-03-30T04:14:01.270Z"
 status: "active"
 ---
 
 # § 2115. Reports; correction of violations
 
-- **(a)** In carrying out their respective duties and responsibilities under chapters 21, 25, 29, 31, and 33 of this title, the Archivist and the Administrator may each obtain reports from any Federal agency on such agency’s activities under such chapters.
-- **(b)** When either the Archivist or the Administrator finds that a provision of any such chapter has been or is being violated, the Archivist or the Administrator shall (1) inform in writing the head of the agency concerned of the violation and make recommendations for its correction; and (2) unless satisfactory corrective measures are inaugurated within a reasonable time, submit a written report of the matter to the President and the Congress.
+- **(a)** In carrying out the duties and responsibilities under chapters 21, 25, 29, 31, and 33 of this title, the Archivist may obtain reports from any Federal agency on such agency’s activities under such chapters.
+- **(b)** When the Archivist finds that a provision of any such chapter has been or is being violated, the Archivist shall (1) inform in writing the head of the agency concerned of the violation and make recommendations for its correction; and (2) unless satisfactory corrective measures are demonstrably commenced within a reasonable time, submit a written report of the matter to the President and the Congress.

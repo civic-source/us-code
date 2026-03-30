@@ -3,9 +3,9 @@ title: "Section 1702 - Administrative provisions"
 usc_title: 12
 usc_section: "1702"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 1702"
-generated_at: "2026-03-30T04:10:40.652Z"
+generated_at: "2026-03-30T04:12:55.252Z"
 status: "active"
 ---
 

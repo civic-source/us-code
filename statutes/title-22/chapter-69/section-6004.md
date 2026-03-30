@@ -3,9 +3,9 @@ title: "Section 6004 - Support for Cuban people"
 usc_title: 22
 usc_section: "6004"
 chapter: 69
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6004"
-generated_at: "2026-03-30T04:11:00.421Z"
+generated_at: "2026-03-30T04:13:32.163Z"
 status: "active"
 ---
 
@@ -20,9 +20,9 @@ status: "active"
   - **(4)** except in a case in which the item to be exported could be used in the production of any biotechnological product.
 - **(d)**
   - **(1)**
-    - **(A)** Subject to subparagraph (B), an export may be made under subsection (c) of this section only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
+    - **(A)** Subject to subparagraph (B), an export may be made under subsection (c) only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
     - **(B)** Subparagraph (A) does not apply to donations to nongovernmental organizations in Cuba of medicines for humanitarian purposes.
-  - **(2)** Exports permitted under subsection (c) of this section shall be made pursuant to specific licenses issued by the United States Government.
+  - **(2)** Exports permitted under subsection (c) shall be made pursuant to specific licenses issued by the United States Government.
 - **(e)**
   - **(1)** Telecommunications services between the United States and Cuba shall be permitted.
   - **(2)** Telecommunications facilities are authorized in such quantity and of such quality as may be necessary to provide efficient and adequate telecommunications services between the United States and Cuba.

@@ -3,9 +3,9 @@ title: "Section 4115 - Unfair labor practices"
 usc_title: 22
 usc_section: "4115"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4115"
-generated_at: "2026-03-30T04:11:00.402Z"
+generated_at: "2026-03-30T04:13:32.144Z"
 status: "active"
 ---
 
@@ -40,4 +40,4 @@ status: "active"
   - **(3)** informs employees of the Government’s policy relating to labor-management relations and representation,
     - **(A)** constitute an unfair labor practice under this subchapter, or
     - **(B)** constitute grounds for the setting aside of any election conducted under this subchapter.
-- **(d)** Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title , an employee has an option of using the grievance procedure under subchapter XI of this chapter or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI of this chapter may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI of this chapter.
+- **(d)** Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title , an employee has an option of using the grievance procedure under subchapter XI or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI.

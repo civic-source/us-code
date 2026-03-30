@@ -3,9 +3,9 @@ title: "Section 12310 - Reserves: for organizing, administering, etc., reserve c
 usc_title: 10
 usc_section: "12310"
 chapter: 1209
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 12310"
-generated_at: "2026-03-30T04:10:14.866Z"
+generated_at: "2026-03-30T04:12:47.153Z"
 status: "active"
 ---
 

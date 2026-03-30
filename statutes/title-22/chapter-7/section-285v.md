@@ -3,9 +3,9 @@ title: "Section 285v - Sense of Congress respecting membership of Taiwan in Bank
 usc_title: 22
 usc_section: "285v"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 285v"
-generated_at: "2026-03-30T04:11:00.296Z"
+generated_at: "2026-03-30T04:13:32.039Z"
 status: "active"
 ---
 

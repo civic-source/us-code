@@ -3,9 +3,9 @@ title: "Section 3 - Regulations"
 usc_title: 12
 usc_section: "3"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T04:10:40.680Z"
+generated_at: "2026-03-30T04:12:55.288Z"
 status: "active"
 ---
 

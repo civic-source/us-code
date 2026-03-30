@@ -3,9 +3,9 @@ title: "Section 2221 - Food emergency response network"
 usc_title: 21
 usc_section: "2221"
 chapter: 27
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "21 U.S.C. § 2221"
-generated_at: "2026-03-30T04:10:57.074Z"
+generated_at: "2026-03-30T04:13:36.115Z"
 status: "active"
 ---
 

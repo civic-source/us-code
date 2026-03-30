@@ -3,9 +3,9 @@ title: "Section 306 - Prohibited discrimination"
 usc_title: 49
 usc_section: "306"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "49 U.S.C. § 306"
-generated_at: "2026-03-30T04:11:57.072Z"
+generated_at: "2026-03-30T04:14:45.011Z"
 status: "active"
 ---
 

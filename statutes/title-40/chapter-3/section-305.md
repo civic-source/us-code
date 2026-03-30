@@ -3,9 +3,9 @@ title: "Section 305 - Electronic Government and information technologies"
 usc_title: 40
 usc_section: "305"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "40 U.S.C. § 305"
-generated_at: "2026-03-30T04:11:23.627Z"
+generated_at: "2026-03-30T04:13:57.613Z"
 status: "active"
 ---
 

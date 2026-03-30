@@ -3,9 +3,9 @@ title: "Section 4044 - Definitions"
 usc_title: 22
 usc_section: "4044"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4044"
-generated_at: "2026-03-30T04:11:00.394Z"
+generated_at: "2026-03-30T04:13:32.137Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ As used in this part, unless otherwise specified, the term—
     - **(A)** in the Armed Forces of the United States,
     - **(B)** in the Regular or Reserve Corps of the Public Health Service after June 30, 1960 , or
     - **(C)** as a commissioned officer of the National Oceanic and Atmospheric Administration, or a predecessor organization, after June 30, 1961 ,
-  - **(10)** “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II of this subchapter);
+  - **(10)** “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
   - **(11)** “spousal agreement” means any written agreement between—
     - **(A)** a participant or former participant; and
     - **(B)** his or her spouse or former spouse;

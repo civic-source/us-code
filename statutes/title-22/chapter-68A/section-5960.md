@@ -3,21 +3,21 @@ title: "Section 5960 - Limitation on use of funds until certain permits obtained
 usc_title: 22
 usc_section: "5960"
 chapter: 68
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5960"
-generated_at: "2026-03-30T04:11:00.420Z"
+generated_at: "2026-03-30T04:13:32.162Z"
 status: "active"
 ---
 
 # § 5960. Limitation on use of funds until certain permits obtained
 
 - **(a)** The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under Cooperative Threat Reduction programs before obligating significant amounts of funding for that phase of the project.
-- **(b)** Except as provided in subsection (e) of this section, with respect to a new construction project to be carried out by the Department of Defense under Cooperative Threat Reduction programs, not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary of Defense—
+- **(b)** Except as provided in subsection (e), with respect to a new construction project to be carried out by the Department of Defense under Cooperative Threat Reduction programs, not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary of Defense—
   - **(1)** determines the number and type of permits that may be required for the lifetime of the project in the proposed location or locations of the project; and
   - **(2)** obtains from the State in which the project is to be located any permits that may be required to begin construction.
 - **(c)** With respect to an incomplete construction project carried out by the Department of Defense under Cooperative Threat Reduction programs, the Secretary shall identify all the permits that are required for the lifetime of the project not later than 120 days after November 24, 2003 .
-- **(d)** Except as provided in subsection (e) of this section, with respect to an incomplete construction project carried out by the Department of Defense under Cooperative Threat Reduction programs for which construction has not yet commenced as of November 24, 2003 , not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary obtains from the State in which the project is located the permits required to commence construction on the project.
-- **(e)** The limitation in subsection (b) or (d) of this section on the obligation of funds for a construction project otherwise covered by such subsection shall not apply with respect to the obligation of funds for a particular project if the Secretary—
+- **(d)** Except as provided in subsection (e), with respect to an incomplete construction project carried out by the Department of Defense under Cooperative Threat Reduction programs for which construction has not yet commenced as of November 24, 2003 , not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary obtains from the State in which the project is located the permits required to commence construction on the project.
+- **(e)** The limitation in subsection (b) or (d) on the obligation of funds for a construction project otherwise covered by such subsection shall not apply with respect to the obligation of funds for a particular project if the Secretary—
   - **(1)** determines that it is necessary in the national interest to obligate funds for such project; and
   - **(2)** submits to the congressional defense committees a notification of the intent to obligate funds for such project, together with a complete discussion of the justification for doing so.
 - **(f)** In this section, with respect to a project under Cooperative Threat Reduction programs:

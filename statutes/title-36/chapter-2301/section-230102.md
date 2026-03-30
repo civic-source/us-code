@@ -3,9 +3,9 @@ title: "Section 230102 - Purposes"
 usc_title: 36
 usc_section: "230102"
 chapter: 2301
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "36 U.S.C. § 230102"
-generated_at: "2026-03-30T04:11:21.170Z"
+generated_at: "2026-03-30T04:13:56.998Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ The purposes of the corporation are fraternal, patriotic, historical, charitable
 
   - **(1)** to preserve and strengthen comradeship among its members;
   - **(2)** to assist worthy comrades;
-  - **(3)** to perpetuate the memory and history of our dead, and to assist their widows and orphans;
+  - **(3)** to perpetuate the memory and history of our dead, and to assist their surviving spouses and orphans;
   - **(4)** to maintain true allegiance to the Government of the United States, and fidelity to its Constitution and laws;
   - **(5)** to foster true patriotism;
   - **(6)** to maintain and extend the institutions of American freedom; and

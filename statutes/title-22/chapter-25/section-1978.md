@@ -3,9 +3,9 @@ title: "Section 1978 - Restriction on importation of fishery or wildlife product
 usc_title: 22
 usc_section: "1978"
 chapter: 25
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 1978"
-generated_at: "2026-03-30T04:11:00.325Z"
+generated_at: "2026-03-30T04:13:32.066Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(4)** Upon receipt of any certification made under paragraph (1) or (2), the President may direct the Secretary of the Treasury to prohibit the bringing or the importation into the United States of any products from the offending country for any duration as the President determines appropriate and to the extent that such prohibition is sanctioned by the World Trade Organization (as defined in section 3501(8) of title 19 ) or the multilateral trade agreements (as defined in section 3501(4) of title 19 ).
 - **(b)** Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
 - **(c)** It shall be unlawful for any person subject to the jurisdiction of the United States knowingly to bring or import into, or cause to be imported into, the United States any products prohibited by the Secretary of the Treasury pursuant to this section.
-- **(d)** After making a certification to the President under subsection (a) of this section, the Secretary of Commerce or the Secretary of the Interior, as the case may be, shall periodically review the activities of the nationals of the offending country to determine if the reasons for which the certification was made no longer prevail. Upon determining that such reasons no longer prevail, the Secretary concerned shall terminate the certification and publish notice thereof, together with a statement of the facts on which such determination is based, in the Federal Register.
+- **(d)** After making a certification to the President under subsection (a), the Secretary of Commerce or the Secretary of the Interior, as the case may be, shall periodically review the activities of the nationals of the offending country to determine if the reasons for which the certification was made no longer prevail. Upon determining that such reasons no longer prevail, the Secretary concerned shall terminate the certification and publish notice thereof, together with a statement of the facts on which such determination is based, in the Federal Register.
 - **(e)**
   - **(1)** Any person violating the provisions of this section shall be fined not more than $10,000 for the first violation, and not more than $25,000 for each subsequent violation.
   - **(2)** All products brought or imported into the United States in violation of this section, or the monetary value thereof, may be forfeited.

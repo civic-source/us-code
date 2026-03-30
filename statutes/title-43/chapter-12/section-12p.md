@@ -3,9 +3,9 @@ title: "Section 12p - Tooele Wastewater Treatment and Reuse Project"
 usc_title: 43
 usc_section: "12p"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 12p"
-generated_at: "2026-03-30T04:11:26.642Z"
+generated_at: "2026-03-30T04:14:01.955Z"
 status: "active"
 ---
 

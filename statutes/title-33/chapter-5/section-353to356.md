@@ -3,9 +3,9 @@ title: "Section 353to356 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "353to356"
 chapter: 5
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 353to356"
-generated_at: "2026-03-30T04:11:17.321Z"
+generated_at: "2026-03-30T04:13:52.276Z"
 status: "repealed"
 ---
 

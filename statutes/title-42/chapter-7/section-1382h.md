@@ -3,9 +3,9 @@ title: "Section 1382h - Benefits for individuals who perform substantial gainful
 usc_title: 42
 usc_section: "1382h"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 1382h"
-generated_at: "2026-03-30T04:11:46.529Z"
+generated_at: "2026-03-30T04:14:15.743Z"
 status: "active"
 ---
 

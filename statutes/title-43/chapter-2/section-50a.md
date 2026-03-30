@@ -3,9 +3,9 @@ title: "Section 50a - Working capital fund for United States Geological Survey"
 usc_title: 43
 usc_section: "50a"
 chapter: 2
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 50a"
-generated_at: "2026-03-30T04:11:26.630Z"
+generated_at: "2026-03-30T04:14:01.944Z"
 status: "active"
 ---
 

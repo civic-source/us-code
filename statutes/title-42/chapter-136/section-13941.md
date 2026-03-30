@@ -3,9 +3,9 @@ title: "Section 13941 - Training programs"
 usc_title: 42
 usc_section: "13941"
 chapter: 136
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 13941"
-generated_at: "2026-03-30T04:11:47.116Z"
+generated_at: "2026-03-30T04:14:16.326Z"
 status: "active"
 ---
 

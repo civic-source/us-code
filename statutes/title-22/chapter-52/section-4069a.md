@@ -3,15 +3,15 @@ title: "Section 4069a - Retirement benefits for certain former spouses"
 usc_title: 22
 usc_section: "4069a"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4069a"
-generated_at: "2026-03-30T04:11:00.398Z"
+generated_at: "2026-03-30T04:13:32.141Z"
 status: "active"
 ---
 
 # § 4069a. Retirement benefits for certain former spouses
 
-- **(a)** Any individual who was a former spouse of a participant or former participant on February 14, 1981 , shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to benefits—
+- **(a)** Any individual who was a former spouse of a participant or former participant on February 14, 1981 , shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
   - **(1)** if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
   - **(2)** if not married to the participant throughout such creditable service, equal to that former spouse’s pro rata share of 50 percent of such benefits.
 - **(b)** A former spouse shall not be entitled to benefits under this section if—
@@ -34,7 +34,7 @@ status: "active"
     - **(B)** Upon approval of an application provided under subparagraph (A), the appropriate benefits shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such benefits under this section, but in no event shall benefits be payable under this section with respect to any period before December 22, 1987 .
 - **(d)** For the purposes of this section, the term “benefits” means—
   - **(1)** with respect to a participant or former participant subject to this part, the annuity of the participant or former participant; and
-  - **(2)** with respect to a participant or former participant subject to part II of this subchapter, the benefits of the participant or former participant under that part.
+  - **(2)** with respect to a participant or former participant subject to part II, the benefits of the participant or former participant under that part.
 - **(e)** Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 - **(f)** Any individual who on February 14, 1981 , was an otherwise qualified former spouse pursuant to this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
   - **(1)** the former employee retired from the Civil Service Retirement and Disability System on a date before his employing agency could legally participate in the Foreign Service Retirement and Disability System; and

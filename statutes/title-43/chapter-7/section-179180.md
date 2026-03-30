@@ -3,9 +3,9 @@ title: "Section 179180 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21
 usc_title: 43
 usc_section: "179180"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 179180"
-generated_at: "2026-03-30T04:11:26.635Z"
+generated_at: "2026-03-30T04:14:01.946Z"
 status: "repealed"
 ---
 

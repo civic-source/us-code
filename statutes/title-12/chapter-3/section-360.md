@@ -3,9 +3,9 @@ title: "Section 360 - Receiving checks and drafts on deposit at par; charges for
 usc_title: 12
 usc_section: "360"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 360"
-generated_at: "2026-03-30T04:10:40.614Z"
+generated_at: "2026-03-30T04:12:55.209Z"
 status: "active"
 ---
 

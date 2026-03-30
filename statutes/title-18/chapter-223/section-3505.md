@@ -3,9 +3,9 @@ title: "Section 3505 - Foreign records of regularly conducted ac­tivity"
 usc_title: 18
 usc_section: "3505"
 chapter: 223
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "18 U.S.C. § 3505"
-generated_at: "2026-03-30T04:10:47.816Z"
+generated_at: "2026-03-30T04:13:11.157Z"
 status: "active"
 ---
 

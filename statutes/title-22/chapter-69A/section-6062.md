@@ -3,9 +3,9 @@ title: "Section 6062 - Assistance for Cuban people"
 usc_title: 22
 usc_section: "6062"
 chapter: 69
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6062"
-generated_at: "2026-03-30T04:11:00.423Z"
+generated_at: "2026-03-30T04:13:32.165Z"
 status: "active"
 ---
 
@@ -34,8 +34,8 @@ status: "active"
       - **(vi)** Peace Corps programs; and
       - **(vii)** other appropriate assistance to carry out the policy of section 6061 of this title .
     - **(C)** Assistance to a transition government in Cuba and to a democratically elected government in Cuba shall also include assistance in preparing the Cuban military forces to adjust to an appropriate role in a democracy.
-- **(c)** The plan developed under subsection (b) of this section shall include a strategy for distributing assistance under the plan.
-- **(d)** Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
+- **(c)** The plan developed under subsection (b) shall include a strategy for distributing assistance under the plan.
+- **(d)** Assistance under the plan developed under subsection (b) shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
 - **(e)** The President shall take the necessary steps—
   - **(1)** to seek to obtain the agreement of other countries and of international financial institutions and multilateral organizations to provide to a transition government in Cuba, and to a democratically elected government in Cuba, assistance comparable to that provided by the United States under this chapter; and
   - **(2)** to work with such countries, institutions, and organizations to coordinate all such assistance programs.

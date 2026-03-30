@@ -3,9 +3,9 @@ title: "Section 223 - Repealed. Pub. L. 87–849, § 1(c) , Oct. 23, 1962 , 76 S
 usc_title: 18
 usc_section: "223"
 chapter: 11
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "18 U.S.C. § 223"
-generated_at: "2026-03-30T04:10:47.744Z"
+generated_at: "2026-03-30T04:13:11.096Z"
 status: "repealed"
 ---
 

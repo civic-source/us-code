@@ -3,9 +3,9 @@ title: "Section 3583 - Inclusion of a term of supervised release after imprisonm
 usc_title: 18
 usc_section: "3583"
 chapter: 227
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "18 U.S.C. § 3583"
-generated_at: "2026-03-30T04:10:47.821Z"
+generated_at: "2026-03-30T04:13:11.161Z"
 status: "active"
 ---
 

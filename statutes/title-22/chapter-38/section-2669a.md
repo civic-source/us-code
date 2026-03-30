@@ -3,9 +3,9 @@ title: "Section 2669a - Diplomatic Telecommunications Service"
 usc_title: 22
 usc_section: "2669a"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2669a"
-generated_at: "2026-03-30T04:11:00.366Z"
+generated_at: "2026-03-30T04:13:32.109Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(E)** all foreign affairs agency systems requiring international communications capability shall obtain such capability solely through the DTS.
   - **(3)** Not later than January 15, 1996 , the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations of the House and Senate a report describing the actions taken under the program required by this subsection. The report shall include a cost-benefit analysis for each embassy participating in the program.
 - **(d)** Not later than January 15, 1995 , the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations a DTS planning report. The report shall include—
-  - **(1)** a detailed plan for carrying out the pilot program required by subsection (c) of this section, including an estimate of the funds required for such purpose; and
+  - **(1)** a detailed plan for carrying out the pilot program required by subsection (c), including an estimate of the funds required for such purpose; and
   - **(2)** a comprehensive DTS strategy plan that contains detailed plans and schedules for—
     - **(A)** an overall DTS network configuration and security strategy;
     - **(B)** transition of the existing dedicated circuits and classified transmission systems to the unclassified packet switch communications system;

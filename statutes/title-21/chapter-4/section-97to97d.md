@@ -3,9 +3,9 @@ title: "Section 97to97d - Omitted"
 usc_title: 21
 usc_section: "97to97d"
 chapter: 4
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "21 U.S.C. § 97to97d"
-generated_at: "2026-03-30T04:10:56.976Z"
+generated_at: "2026-03-30T04:13:36.017Z"
 status: "omitted"
 ---
 

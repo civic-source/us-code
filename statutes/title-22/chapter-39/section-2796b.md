@@ -3,9 +3,9 @@ title: "Section 2796b - Legislative review procedures"
 usc_title: 22
 usc_section: "2796b"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2796b"
-generated_at: "2026-03-30T04:11:00.377Z"
+generated_at: "2026-03-30T04:13:32.120Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
   - **(2)** In the case of an agreement described in paragraph (1) that is entered into with a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, the Republic of Korea, Israel, or New Zealand, the limitations in paragraph (1) shall apply only if the agreement involves a lease or loan of—
     - **(A)** major defense equipment valued (in terms of its replacement cost less any depreciation in its value) at $25,000,000 or more; or
     - **(B)** defense articles valued (in terms of their replacement cost less any depreciation in their value) at $100,000,000 or more.
-- **(b)** Any joint resolution under subsection (a) of this section shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
-- **(c)** For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a) of this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+- **(b)** Any joint resolution under subsection (a) shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+- **(c)** For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.

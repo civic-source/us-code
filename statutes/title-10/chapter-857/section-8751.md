@@ -3,9 +3,9 @@ title: "Section 8751 - Service medals: issue; replacement; availability of appro
 usc_title: 10
 usc_section: "8751"
 chapter: 857
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 8751"
-generated_at: "2026-03-30T04:10:14.853Z"
+generated_at: "2026-03-30T04:12:47.139Z"
 status: "active"
 ---
 

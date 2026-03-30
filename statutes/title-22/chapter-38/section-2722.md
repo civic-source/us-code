@@ -3,13 +3,13 @@ title: "Section 2722 - International meetings"
 usc_title: 22
 usc_section: "2722"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2722"
-generated_at: "2026-03-30T04:11:00.371Z"
+generated_at: "2026-03-30T04:13:32.113Z"
 status: "active"
 ---
 
 # § 2722. International meetings
 
 - **(a)** If the United States Government hosts an international meeting or conference in the United States, the Secretary of State is authorized to pay all reasonable expenses of such meeting or conference. Such expenses may include rental of quarters (by contract or otherwise) and personal services.
-- **(b)** To the extent provided in an appropriation Act, transfers of funds or other reimbursements for payments under subsection (a) of this section are authorized to be retained and credited to the appropriate appropriation account of the Department of State which is available.
+- **(b)** To the extent provided in an appropriation Act, transfers of funds or other reimbursements for payments under subsection (a) are authorized to be retained and credited to the appropriate appropriation account of the Department of State which is available.

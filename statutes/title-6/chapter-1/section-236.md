@@ -3,9 +3,9 @@ title: "Section 236 - Visa issuance"
 usc_title: 6
 usc_section: "236"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 236"
-generated_at: "2026-03-30T04:10:09.281Z"
+generated_at: "2026-03-30T04:12:34.475Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** shall be vested exclusively with all authorities to issue regulations with respect to, administer, and enforce the provisions of such Act [ 8 U.S.C. 1101 et seq.], and of all other immigration and nationality laws, relating to the functions of consular officers of the United States in connection with the granting or refusal of visas, and shall have the authority to refuse visas in accordance with law and to develop programs of homeland security training for consular officers (in addition to consular training provided by the Secretary of State), which authorities shall be exercised through the Secretary of State, except that the Secretary shall not have authority to alter or reverse the decision of a consular officer to refuse a visa to an alien; and
   - **(2)** shall have authority to confer or impose upon any officer or employee of the United States, with the consent of the head of the executive agency under whose jurisdiction such officer or employee is serving, any of the functions specified in paragraph (1).
 - **(c)**
-  - **(1)** Notwithstanding subsection (b) of this section, the Secretary of State may direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.
+  - **(1)** Notwithstanding subsection (b), the Secretary of State may direct a consular officer to refuse a visa to an alien if the Secretary of State deems such refusal necessary or advisable in the foreign policy or security interests of the United States.
   - **(2)** Nothing in this section, consistent with the Secretary of Homeland Security’s authority to refuse visas in accordance with law, shall be construed as affecting the authorities of the Secretary of State under the following provisions of law:
     - **(A)** Section 101(a)(15)(A) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(A) ).
     - **(B)** Section 204(d)(2) of the Immigration and Nationality Act ( 8 U.S.C. 1154 ) (as it will take effect upon the entry into force of the Convention on Protection of Children and Cooperation in Respect to Inter-Country adoption).

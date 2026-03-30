@@ -3,9 +3,9 @@ title: "Section 1753 - Extinguishment of aboriginal titles and Indian claims"
 usc_title: 25
 usc_section: "1753"
 chapter: 19
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 1753"
-generated_at: "2026-03-30T04:11:02.075Z"
+generated_at: "2026-03-30T04:13:28.950Z"
 status: "active"
 ---
 

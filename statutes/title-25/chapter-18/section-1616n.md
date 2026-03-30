@@ -3,9 +3,9 @@ title: "Section 1616n - Tribal health program administration"
 usc_title: 25
 usc_section: "1616n"
 chapter: 18
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 1616n"
-generated_at: "2026-03-30T04:11:02.061Z"
+generated_at: "2026-03-30T04:13:28.935Z"
 status: "active"
 ---
 

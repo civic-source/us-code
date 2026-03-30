@@ -3,9 +3,9 @@ title: "Section 61 - Collection and publication"
 usc_title: 13
 usc_section: "61"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "13 U.S.C. § 61"
-generated_at: "2026-03-30T04:10:21.572Z"
+generated_at: "2026-03-30T04:12:49.104Z"
 status: "active"
 ---
 

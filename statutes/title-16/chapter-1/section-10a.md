@@ -3,9 +3,9 @@ title: "Section 10a - Contracts for acquisition of lands and waters"
 usc_title: 16
 usc_section: "10a"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 10a"
-generated_at: "2026-03-30T04:10:52.794Z"
+generated_at: "2026-03-30T04:13:15.936Z"
 status: "active"
 ---
 

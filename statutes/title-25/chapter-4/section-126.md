@@ -3,9 +3,9 @@ title: "Section 126 - Omitted"
 usc_title: 25
 usc_section: "126"
 chapter: 4
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 126"
-generated_at: "2026-03-30T04:11:01.998Z"
+generated_at: "2026-03-30T04:13:28.874Z"
 status: "omitted"
 ---
 

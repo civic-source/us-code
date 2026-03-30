@@ -3,9 +3,9 @@ title: "Section 24904 - General authority"
 usc_title: 49
 usc_section: "24904"
 chapter: 249
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "49 U.S.C. § 24904"
-generated_at: "2026-03-30T04:11:57.119Z"
+generated_at: "2026-03-30T04:14:45.056Z"
 status: "active"
 ---
 

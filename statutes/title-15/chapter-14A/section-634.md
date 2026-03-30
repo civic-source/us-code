@@ -3,9 +3,9 @@ title: "Section 634 - General powers"
 usc_title: 15
 usc_section: "634"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 634"
-generated_at: "2026-03-30T04:10:29.906Z"
+generated_at: "2026-03-30T04:13:07.317Z"
 status: "active"
 ---
 

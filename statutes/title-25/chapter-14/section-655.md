@@ -3,9 +3,9 @@ title: "Section 655 - Reimbursement of State of California for necessary costs a
 usc_title: 25
 usc_section: "655"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 655"
-generated_at: "2026-03-30T04:11:02.030Z"
+generated_at: "2026-03-30T04:13:28.906Z"
 status: "active"
 ---
 

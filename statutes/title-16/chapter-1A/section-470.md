@@ -3,9 +3,9 @@ title: "Section 470 - Short title; Congressional finding and declaration of poli
 usc_title: 16
 usc_section: "470"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 470"
-generated_at: "2026-03-30T04:10:52.833Z"
+generated_at: "2026-03-30T04:13:15.975Z"
 status: "active"
 ---
 

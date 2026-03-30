@@ -3,9 +3,9 @@ title: "Section 16163a - Authority to transfer unused education benefits to fami
 usc_title: 10
 usc_section: "16163a"
 chapter: 1607
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 16163a"
-generated_at: "2026-03-30T04:10:14.874Z"
+generated_at: "2026-03-30T04:12:47.163Z"
 status: "active"
 ---
 

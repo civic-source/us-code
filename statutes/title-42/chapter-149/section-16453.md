@@ -3,9 +3,9 @@ title: "Section 16453 - State access to books and records"
 usc_title: 42
 usc_section: "16453"
 chapter: 149
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 16453"
-generated_at: "2026-03-30T04:11:47.165Z"
+generated_at: "2026-03-30T04:14:16.372Z"
 status: "active"
 ---
 

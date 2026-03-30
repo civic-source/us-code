@@ -3,9 +3,9 @@ title: "Section 1647 - Eligible Indian veteran services"
 usc_title: 25
 usc_section: "1647"
 chapter: 18
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 1647"
-generated_at: "2026-03-30T04:11:02.066Z"
+generated_at: "2026-03-30T04:13:28.941Z"
 status: "active"
 ---
 

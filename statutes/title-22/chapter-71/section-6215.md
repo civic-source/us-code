@@ -3,9 +3,9 @@ title: "Section 6215 - Establishment of Radio Free Afghanistan"
 usc_title: 22
 usc_section: "6215"
 chapter: 71
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6215"
-generated_at: "2026-03-30T04:11:00.426Z"
+generated_at: "2026-03-30T04:13:32.169Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Not later than 15 days after March 11, 2002 , RFE/RL, Incorporated, shall submit to the Broadcasting Board of Governors a report setting forth a detailed plan for the provision by RFE/RL, Incorporated, of surrogate broadcasting services in the Dari and Pashto languages to Afghanistan. Such broadcasting services shall be known as “Radio Free Afghanistan”.
 - **(b)**
-  - **(1)** Effective 15 days after March 11, 2002 , or the date on which the report required by subsection (a) of this section is submitted, whichever is later, the Broadcasting Board of Governors is authorized to make grants to support Radio Free Afghanistan.
+  - **(1)** Effective 15 days after March 11, 2002 , or the date on which the report required by subsection (a) is submitted, whichever is later, the Broadcasting Board of Governors is authorized to make grants to support Radio Free Afghanistan.
   - **(2)** Grants made to RFE/RL, Incorporated, during the fiscal year 2002 for support of Radio Free Afghanistan may be made without regard to section 308(c) of the United States International Broadcasting Act of 1994 ( 22 U.S.C. 6207(c) ).
-- **(c)** In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 [ 22 U.S.C. 1431 et seq.], the United States International Broadcasting Act of 1994 [ 22 U.S.C. 6201 et seq.], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b) of this section.
+- **(c)** In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 [ 22 U.S.C. 1431 et seq.], the United States International Broadcasting Act of 1994 [ 22 U.S.C. 6201 et seq.], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b).
 - **(d)** Radio Free Afghanistan shall adhere to the same standards of professionalism and accountability, and shall be subject to the same oversight mechanisms, as other services of RFE/RL, Incorporated.

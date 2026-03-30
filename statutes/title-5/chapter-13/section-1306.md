@@ -3,9 +3,9 @@ title: "Section 1306 - Oaths to witnesses"
 usc_title: 5
 usc_section: "1306"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "5 U.S.C. § 1306"
-generated_at: "2026-03-30T04:10:07.217Z"
+generated_at: "2026-03-30T04:12:20.412Z"
 status: "active"
 ---
 

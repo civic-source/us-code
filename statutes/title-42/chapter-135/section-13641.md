@@ -3,9 +3,9 @@ title: "Section 13641 - Definitions"
 usc_title: 42
 usc_section: "13641"
 chapter: 135
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 13641"
-generated_at: "2026-03-30T04:11:47.111Z"
+generated_at: "2026-03-30T04:14:16.320Z"
 status: "active"
 ---
 

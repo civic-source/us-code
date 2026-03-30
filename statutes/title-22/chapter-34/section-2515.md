@@ -3,9 +3,9 @@ title: "Section 2515 - Foreign Currency Fluctuations Account"
 usc_title: 22
 usc_section: "2515"
 chapter: 34
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2515"
-generated_at: "2026-03-30T04:11:00.362Z"
+generated_at: "2026-03-30T04:13:32.105Z"
 status: "active"
 ---
 
@@ -14,12 +14,12 @@ status: "active"
 - **(a)**
   - **(1)** There is established in the Treasury of the United States an account to be known as the “Foreign Currency Fluctuations, Peace Corps, Account”. The account shall be used for the purpose of providing funds to pay expenses for operations of the Peace Corps outside the United States which, as a result of fluctuations in currency exchange rates, exceed the amount appropriated for such expenses.
   - **(2)** Funds in the account may be transferred, upon the certification of the Director of the Peace Corps (or the Director’s designee) that the transfer is necessary for the purpose specified in paragraph (1), to the account containing funds appropriated for the expenses of the Peace Corps.
-- **(b)** Funds transferred under subsection (a) of this section shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+- **(b)** Funds transferred under subsection (a) shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
 - **(c)** An obligation of the Peace Corps payable in the currency of a foreign country may be recorded as an obligation based upon exchange rates used in preparing a budget submission. A change reflecting fluctuations in exchange rates may be recorded as a disbursement is made.
 - **(d)** Funds transferred from the Foreign Currency Fluctuations, Peace Corps, Account may be transferred back to that account—
   - **(1)** if the funds are not needed to pay obligations incurred because of fluctuations in currency exchange rates of foreign countries in the appropriation to which the funds were originally transferred; or
   - **(2)** because of subsequent favorable fluctuations in the rates or because other funds are, or become, available to pay such obligations.
-- **(e)** A transfer of funds back to the account under subsection (d) of this section may not be made after the end of the fiscal year or other period for which the appropriation, to which the funds were originally transferred, is available for obligation.
+- **(e)** A transfer of funds back to the account under subsection (d) may not be made after the end of the fiscal year or other period for which the appropriation, to which the funds were originally transferred, is available for obligation.
 - **(f)**
   - **(1)** At the end of the fiscal year or other period for which appropriations for the expenses of the Peace Corps are made available, unobligated balances of such appropriation may be transferred into the Foreign Currency Fluctuations, Peace Corps, Account, to be merged with, and to be available for the same period and purposes as, that account.
   - **(2)** The authority of this subsection shall be exercised only to the extent that specific amounts are provided in advance in an appropriation Act.

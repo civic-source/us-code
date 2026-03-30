@@ -3,9 +3,9 @@ title: "Section 651 - National small business tree planting program"
 usc_title: 15
 usc_section: "651"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 651"
-generated_at: "2026-03-30T04:10:29.926Z"
+generated_at: "2026-03-30T04:13:07.334Z"
 status: "active"
 ---
 

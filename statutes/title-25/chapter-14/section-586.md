@@ -3,9 +3,9 @@ title: "Section 586 - Northwestern Band of Shoshone Indians; payment to enrollee
 usc_title: 25
 usc_section: "586"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 586"
-generated_at: "2026-03-30T04:11:02.025Z"
+generated_at: "2026-03-30T04:13:28.900Z"
 status: "active"
 ---
 

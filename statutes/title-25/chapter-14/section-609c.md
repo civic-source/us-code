@@ -3,9 +3,9 @@ title: "Section 609c - Disbursement of minor’s share of judgment funds"
 usc_title: 25
 usc_section: "609c"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 609c"
-generated_at: "2026-03-30T04:11:02.026Z"
+generated_at: "2026-03-30T04:13:28.901Z"
 status: "active"
 ---
 

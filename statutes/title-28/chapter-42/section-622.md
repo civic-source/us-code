@@ -3,9 +3,9 @@ title: "Section 622 - Meetings; conduct of business"
 usc_title: 28
 usc_section: "622"
 chapter: 42
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "28 U.S.C. § 622"
-generated_at: "2026-03-30T04:11:05.664Z"
+generated_at: "2026-03-30T04:13:39.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 192 - Unlawful practices enumerated"
 usc_title: 7
 usc_section: "192"
 chapter: 9
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 192"
-generated_at: "2026-03-30T04:10:18.413Z"
+generated_at: "2026-03-30T04:12:33.468Z"
 status: "active"
 ---
 

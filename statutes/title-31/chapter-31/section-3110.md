@@ -3,9 +3,9 @@ title: "Section 3110 - Sale of obligations of governments of foreign countries"
 usc_title: 31
 usc_section: "3110"
 chapter: 31
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "31 U.S.C. § 3110"
-generated_at: "2026-03-30T04:11:18.667Z"
+generated_at: "2026-03-30T04:13:51.331Z"
 status: "active"
 ---
 

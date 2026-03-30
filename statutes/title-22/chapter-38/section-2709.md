@@ -3,9 +3,9 @@ title: "Section 2709 - Special agents"
 usc_title: 22
 usc_section: "2709"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2709"
-generated_at: "2026-03-30T04:11:00.370Z"
+generated_at: "2026-03-30T04:13:32.112Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(4)** if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carry firearms for the purpose of performing the duties authorized by this section; and
   - **(5)** make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 - **(b)**
-  - **(1)** The authority conferred by paragraphs (1) and (4) of subsection (a) of this section shall be exercised subject to an agreement between the Secretary and the Attorney General.
-  - **(2)** The authority conferred by paragraphs (2) and (5) of subsection (a) of this section shall be exercised subject to an agreement among the Secretary, the Attorney General, and the Secretary of the Treasury.
+  - **(1)** The authority conferred by paragraphs (1) and (4) of subsection (a) shall be exercised subject to an agreement between the Secretary and the Attorney General.
+  - **(2)** The authority conferred by paragraphs (2) and (5) of subsection (a) shall be exercised subject to an agreement among the Secretary, the Attorney General, and the Secretary of the Treasury.
   - **(3)** The Secretary of State shall prescribe regulations, which shall be approved by the Attorney General, with respect to the carrying and use of firearms by special agents under this section.
-- **(c)** Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
+- **(c)** Nothing in subsection (a)(3) shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.

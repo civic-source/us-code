@@ -3,9 +3,9 @@ title: "Section 1412 - Administrative provisions"
 usc_title: 10
 usc_section: "1412"
 chapter: 71
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 1412"
-generated_at: "2026-03-30T04:10:14.747Z"
+generated_at: "2026-03-30T04:12:47.025Z"
 status: "active"
 ---
 

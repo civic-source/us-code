@@ -3,9 +3,9 @@ title: "Section 453 - Oaths of justices and judges"
 usc_title: 28
 usc_section: "453"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "28 U.S.C. § 453"
-generated_at: "2026-03-30T04:11:05.656Z"
+generated_at: "2026-03-30T04:13:39.603Z"
 status: "active"
 ---
 

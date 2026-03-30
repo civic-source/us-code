@@ -3,9 +3,9 @@ title: "Section 6104 - Mansfield Fellows on detail from Government service"
 usc_title: 22
 usc_section: "6104"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6104"
-generated_at: "2026-03-30T04:11:00.425Z"
+generated_at: "2026-03-30T04:13:32.167Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
     - **(A)** continue in the service of the fellow’s agency at the end of the fellowship for a period of at least 2 years unless the fellow is involuntarily separated from the service of such agency; and
     - **(B)** pay to the United States Information Agency any additional expenses incurred by the Federal Government in connection with the fellowship if the fellow is voluntarily separated from service with the fellow’s agency before the end of the period for which the fellow has agreed to continue in the service of such agency.
   - **(3)** The payment agreed to under paragraph (2)(B) may not be required of a fellow who leaves the service of such agency to enter into the service of another agency in any branch of the United States Government unless the head of the agency that authorized the fellowship notifies the employee before the effective date of entry into the service of the other agency that payment will be required under this section.
-- **(b)** A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore 1 1 So in original. Probably should be “therefor”. is deemed to comply with section 5536 of title 5 .
-- **(c)** Fellows may be detailed under subsection (a) of this section without reimbursement to the United States by the Center.
-- **(d)** A fellow detailed under subsection (a) of this section may be paid by the Center for allowances and benefits listed in section 6102(4)(B) of this title .
+- **(b)** A fellow detailed under subsection (a) is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore 1 1 So in original. Probably should be “therefor”. is deemed to comply with section 5536 of title 5 .
+- **(c)** Fellows may be detailed under subsection (a) without reimbursement to the United States by the Center.
+- **(d)** A fellow detailed under subsection (a) may be paid by the Center for allowances and benefits listed in section 6102(4)(B) of this title .

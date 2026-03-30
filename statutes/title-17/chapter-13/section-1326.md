@@ -3,9 +3,9 @@ title: "Section 1326 - Penalty for false marking"
 usc_title: 17
 usc_section: "1326"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "17 U.S.C. § 1326"
-generated_at: "2026-03-30T04:10:53.241Z"
+generated_at: "2026-03-30T04:13:09.490Z"
 status: "active"
 ---
 

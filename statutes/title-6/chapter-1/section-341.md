@@ -3,9 +3,9 @@ title: "Section 341 - Under Secretary for Management"
 usc_title: 6
 usc_section: "341"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 341"
-generated_at: "2026-03-30T04:10:09.286Z"
+generated_at: "2026-03-30T04:12:34.482Z"
 status: "active"
 ---
 
@@ -26,10 +26,10 @@ status: "active"
   - **(10)** The conduct of internal audits and management analyses of the programs and activities of the Department.
   - **(11)** Any other management duties that the Secretary may designate.
 - **(b)**
-  - **(1)** In addition to the responsibilities described in subsection (a) of this section, the Under Secretary for Management shall be responsible for the following:
+  - **(1)** In addition to the responsibilities described in subsection (a), the Under Secretary for Management shall be responsible for the following:
     - **(A)** Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled “Statistical Yearbook of the Immigration and Naturalization Service” prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer of functions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
     - **(B)** Establishment of standards of reliability and validity for immigration statistics collected by such bureaus.
-  - **(2)** In accordance with subchapter XII of this chapter, there shall be transferred to the Under Secretary for Management all functions performed immediately before such transfer occurs by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the following programs:
+  - **(2)** In accordance with subchapter XII, there shall be transferred to the Under Secretary for Management all functions performed immediately before such transfer occurs by the Statistics Branch of the Office of Policy and Planning of the Immigration and Naturalization Service with respect to the following programs:
     - **(A)** The Border Patrol program.
     - **(B)** The detention and removal program.
     - **(C)** The intelligence program.

@@ -3,9 +3,9 @@ title: "Section 639 - Reporting requirements and agency cooperation"
 usc_title: 15
 usc_section: "639"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 639"
-generated_at: "2026-03-30T04:10:29.920Z"
+generated_at: "2026-03-30T04:13:07.329Z"
 status: "active"
 ---
 

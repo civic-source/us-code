@@ -3,9 +3,9 @@ title: "Section 412 - Camps for military instruction; regulations for militia"
 usc_title: 16
 usc_section: "412"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 412"
-generated_at: "2026-03-30T04:10:52.769Z"
+generated_at: "2026-03-30T04:13:15.911Z"
 status: "active"
 ---
 

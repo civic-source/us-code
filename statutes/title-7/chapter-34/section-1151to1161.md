@@ -3,9 +3,9 @@ title: "Section 1151to1161 - Omitted"
 usc_title: 7
 usc_section: "1151to1161"
 chapter: 34
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 1151to1161"
-generated_at: "2026-03-30T04:10:18.444Z"
+generated_at: "2026-03-30T04:12:33.501Z"
 status: "omitted"
 ---
 

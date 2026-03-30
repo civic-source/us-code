@@ -3,9 +3,9 @@ title: "Section 5231to5234 - Repealed. Pub. L. 96–513, title III, § 331 , Dec
 usc_title: 10
 usc_section: "5231to5234"
 chapter: 517
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 5231to5234"
-generated_at: "2026-03-30T04:10:14.835Z"
+generated_at: "2026-03-30T04:12:47.119Z"
 status: "repealed"
 ---
 

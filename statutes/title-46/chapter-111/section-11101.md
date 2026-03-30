@@ -3,9 +3,9 @@ title: "Section 11101 - Accommodations for seamen"
 usc_title: 46
 usc_section: "11101"
 chapter: 111
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "46 U.S.C. § 11101"
-generated_at: "2026-03-30T04:11:51.232Z"
+generated_at: "2026-03-30T04:14:20.547Z"
 status: "active"
 ---
 

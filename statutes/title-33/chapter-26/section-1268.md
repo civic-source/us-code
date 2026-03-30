@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T04:11:17.356Z"
+generated_at: "2026-03-30T04:13:52.311Z"
 status: "active"
 ---
 
@@ -72,14 +72,7 @@ status: "active"
     - **(B)** the time periods for carrying out such duties and responsibilities; and
     - **(C)** the resources to be committed to such duties and responsibilities.
   - **(9)** The Administrator shall, in the Agency’s annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
-  - **(10)** Within 90 days after the end of each fiscal year, the Administrator shall submit to Congress a comprehensive report which—
-    - **(A)** describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
-    - **(B)** describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
-    - **(C)** describes the long-term prospects for improving the condition of the Great Lakes; and
-    - **(D)** provides a comprehensive assessment of the planned efforts to be pursued in the succeeding fiscal year for implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,, 1 which assessment shall—
-      - **(i)** show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
-      - **(ii)** include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
-  - **(11)**
+  - **(10)**
     - **(A)** The Administrator, in consultation with the Assistant Secretary of the Army for Civil Works, shall develop and implement, within one year of November 16, 1990 , management plans for every Great Lakes confined disposal facility.
     - **(B)** The plan shall provide for monitoring of such facilities, including—
       - **(i)** water quality at the site and in the area of the site;
@@ -88,7 +81,7 @@ status: "active"
       - **(iv)** such other conditions as the Administrator deems appropriate.
     - **(C)** The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
     - **(D)** The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
-  - **(12)**
+  - **(11)**
     - **(A)** In accordance with this paragraph, the Administrator, acting through the Program Office, may carry out projects that meet the requirements of subparagraph (B).
     - **(B)** A project meets the requirements of this subparagraph if the project is to be carried out in an area of concern located wholly or partially in the United States and the project—
       - **(i)** monitors or evaluates contaminated sediment;
@@ -127,7 +120,7 @@ status: "active"
       - **(i)** In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2010.
       - **(ii)** Funds made available under clause (i) shall remain available until expended.
       - **(iii)** Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
-  - **(13)**
+  - **(12)**
     - **(A)** The Administrator, acting through the Program Office and in coordination with States, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
     - **(B)** There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2010.
 - **(d)**

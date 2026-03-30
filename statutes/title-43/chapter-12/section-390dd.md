@@ -3,9 +3,9 @@ title: "Section 390dd - Limitation on ownership"
 usc_title: 43
 usc_section: "390dd"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 390dd"
-generated_at: "2026-03-30T04:11:26.643Z"
+generated_at: "2026-03-30T04:14:01.956Z"
 status: "active"
 ---
 

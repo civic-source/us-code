@@ -3,9 +3,9 @@ title: "Section 1321 - Hydrographic Surveys; foreign surveys"
 usc_title: 44
 usc_section: "1321"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "44 U.S.C. § 1321"
-generated_at: "2026-03-30T04:11:25.525Z"
+generated_at: "2026-03-30T04:14:01.267Z"
 status: "active"
 ---
 

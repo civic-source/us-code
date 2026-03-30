@@ -3,9 +3,9 @@ title: "Section 63ato63d - Transferred"
 usc_title: 27
 usc_section: "63ato63d"
 chapter: 2
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "27 U.S.C. § 63ato63d"
-generated_at: "2026-03-30T04:11:04.012Z"
+generated_at: "2026-03-30T04:13:37.903Z"
 status: "transferred"
 ---
 

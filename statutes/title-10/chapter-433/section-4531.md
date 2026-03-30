@@ -3,9 +3,9 @@ title: "Section 4531 - Repealed. Pub. L. 103–160, div. A, title VIII, § 823(2
 usc_title: 10
 usc_section: "4531"
 chapter: 433
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 4531"
-generated_at: "2026-03-30T04:10:14.829Z"
+generated_at: "2026-03-30T04:12:47.111Z"
 status: "repealed"
 ---
 

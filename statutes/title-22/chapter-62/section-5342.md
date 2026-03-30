@@ -3,9 +3,9 @@ title: "Section 5342 - Requirement of national treatment in underwriting governm
 usc_title: 22
 usc_section: "5342"
 chapter: 62
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5342"
-generated_at: "2026-03-30T04:11:00.413Z"
+generated_at: "2026-03-30T04:13:32.155Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** before July 31, 1987 —
       - **(i)** control of such company was acquired from a person (other than a person of a foreign country) by a person of a foreign country; or
       - **(ii)** in conjunction with a person of a foreign country, such company informed the Federal Reserve Bank of New York of the intention of such person to acquire control of such company.
-- **(c)** Subsection (b) of this section shall not apply to any person of a foreign country if—
+- **(c)** Subsection (b) shall not apply to any person of a foreign country if—
   - **(1)** that country, as of January 1, 1987 , was negotiating a bilateral agreement with the United States under the authority of section 2112(b)(4)(A) of title 19 ; or
   - **(2)** that country has a bilateral free trade area agreement with the United States which entered into force before January 1, 1987 .
 - **(d)** For purposes of this section, a person is a “person of a foreign country” if that person, or any other person which directly or indirectly owns or controls that person, is a resident of that country, is organized under the laws of that country, or has its principal place of business in that country.

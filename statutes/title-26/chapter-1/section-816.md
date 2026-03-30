@@ -3,9 +3,9 @@ title: "Section 816 - Life insurance company defined"
 usc_title: 26
 usc_section: "816"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 816"
-generated_at: "2026-03-30T04:11:13.729Z"
+generated_at: "2026-03-30T04:13:48.206Z"
 status: "active"
 ---
 

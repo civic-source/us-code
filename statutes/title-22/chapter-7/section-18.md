@@ -3,9 +3,9 @@ title: "Section 18 - Eleventh replenishment"
 usc_title: 22
 usc_section: "18"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 18"
-generated_at: "2026-03-30T04:11:00.305Z"
+generated_at: "2026-03-30T04:13:32.047Z"
 status: "active"
 ---
 

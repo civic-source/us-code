@@ -3,9 +3,9 @@ title: "Section 564v - Rules and regulations; tribal referenda"
 usc_title: 25
 usc_section: "564v"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 564v"
-generated_at: "2026-03-30T04:11:02.023Z"
+generated_at: "2026-03-30T04:13:28.899Z"
 status: "active"
 ---
 

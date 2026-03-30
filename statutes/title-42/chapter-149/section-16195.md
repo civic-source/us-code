@@ -3,9 +3,9 @@ title: "Section 16195 - Secondary electric vehicle battery use program"
 usc_title: 42
 usc_section: "16195"
 chapter: 149
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 16195"
-generated_at: "2026-03-30T04:11:47.157Z"
+generated_at: "2026-03-30T04:14:16.365Z"
 status: "active"
 ---
 

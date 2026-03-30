@@ -3,9 +3,9 @@ title: "Section 10161 - Monitored retrievable storage"
 usc_title: 42
 usc_section: "10161"
 chapter: 108
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 10161"
-generated_at: "2026-03-30T04:11:47.028Z"
+generated_at: "2026-03-30T04:14:16.240Z"
 status: "active"
 ---
 

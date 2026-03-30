@@ -3,9 +3,9 @@ title: "Section 1681i - Procedure in case of disputed accuracy"
 usc_title: 15
 usc_section: "1681i"
 chapter: 41
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 1681i"
-generated_at: "2026-03-30T04:10:29.992Z"
+generated_at: "2026-03-30T04:13:07.391Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2376 - Definitions"
 usc_title: 10
 usc_section: "2376"
 chapter: 140
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 2376"
-generated_at: "2026-03-30T04:10:14.788Z"
+generated_at: "2026-03-30T04:12:47.070Z"
 status: "active"
 ---
 

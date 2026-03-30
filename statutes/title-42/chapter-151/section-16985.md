@@ -3,9 +3,9 @@ title: "Section 16985 - Grants for Rape, Abuse & Incest National Network"
 usc_title: 42
 usc_section: "16985"
 chapter: 151
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 16985"
-generated_at: "2026-03-30T04:11:47.171Z"
+generated_at: "2026-03-30T04:14:16.379Z"
 status: "active"
 ---
 

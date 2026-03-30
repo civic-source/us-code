@@ -3,9 +3,9 @@ title: "Section 80k - Donation and transfer of lands and improvements, works of 
 usc_title: 20
 usc_section: "80k"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 80k"
-generated_at: "2026-03-30T04:10:46.501Z"
+generated_at: "2026-03-30T04:13:18.537Z"
 status: "active"
 ---
 

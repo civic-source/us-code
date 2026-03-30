@@ -3,9 +3,9 @@ title: "Section 156 - Approval by Congress necessary for withdrawal, reservation
 usc_title: 43
 usc_section: "156"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 156"
-generated_at: "2026-03-30T04:11:26.635Z"
+generated_at: "2026-03-30T04:14:01.946Z"
 status: "active"
 ---
 

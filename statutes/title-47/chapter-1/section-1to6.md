@@ -3,9 +3,9 @@ title: "Section 1to6 - Repealed. July 16, 1947, ch. 256, § 1 , 61 Stat. 327"
 usc_title: 47
 usc_section: "1to6"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "47 U.S.C. § 1to6"
-generated_at: "2026-03-30T04:11:51.744Z"
+generated_at: "2026-03-30T04:14:19.573Z"
 status: "repealed"
 ---
 

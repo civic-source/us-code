@@ -3,9 +3,9 @@ title: "Section 5594 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5594"
 chapter: 71
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 5594"
-generated_at: "2026-03-30T04:11:46.858Z"
+generated_at: "2026-03-30T04:14:16.072Z"
 status: "active"
 ---
 

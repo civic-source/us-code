@@ -3,9 +3,9 @@ title: "Section 1030 - Bonus to encourage Department of Defense personnel to ref
 usc_title: 10
 usc_section: "1030"
 chapter: 53
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 1030"
-generated_at: "2026-03-30T04:10:14.720Z"
+generated_at: "2026-03-30T04:12:47.001Z"
 status: "active"
 ---
 

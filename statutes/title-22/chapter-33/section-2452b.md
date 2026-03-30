@@ -3,15 +3,15 @@ title: "Section 2452b - International expositions"
 usc_title: 22
 usc_section: "2452b"
 chapter: 33
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2452b"
-generated_at: "2026-03-30T04:11:00.358Z"
+generated_at: "2026-03-30T04:13:32.100Z"
 status: "active"
 ---
 
 # § 2452b. International expositions
 
-- **(a)** Except as provided in subsection (b) of this section and notwithstanding any other provision of law, the Department of State may not obligate or expend any funds appropriated to the Department of State for a United States pavilion or other major exhibit at any international exposition or world’s fair registered by the Bureau of International Expositions in excess of amounts expressly authorized and appropriated for such purpose.
+- **(a)** Except as provided in subsection (b) and notwithstanding any other provision of law, the Department of State may not obligate or expend any funds appropriated to the Department of State for a United States pavilion or other major exhibit at any international exposition or world’s fair registered by the Bureau of International Expositions in excess of amounts expressly authorized and appropriated for such purpose.
 - **(b)**
   - **(1)** The Department of State is authorized to utilize its personnel and resources to carry out the responsibilities of the Department for the following:
     - **(A)** Administrative services, including legal and other advice and contract administration, under section 2452(a)(3) of this title related to United States participation in international fairs and expositions abroad. Such administrative services may not include capital expenses, operating expenses, or travel or related expenses (other than such expenses as are associated with the provision of administrative services by employees of the Department of State).

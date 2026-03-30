@@ -3,9 +3,9 @@ title: "Section 960a - Foreign terrorist organizations, terrorist persons and gr
 usc_title: 21
 usc_section: "960a"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "21 U.S.C. § 960a"
-generated_at: "2026-03-30T04:10:57.062Z"
+generated_at: "2026-03-30T04:13:36.103Z"
 status: "active"
 ---
 

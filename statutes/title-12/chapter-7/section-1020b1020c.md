@@ -3,9 +3,9 @@ title: "Section 1020b1020c - Repealed. Pub. L. 87–353, § 3(a) , Oct. 4, 1961 
 usc_title: 12
 usc_section: "1020b1020c"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 1020b1020c"
-generated_at: "2026-03-30T04:10:40.625Z"
+generated_at: "2026-03-30T04:12:55.223Z"
 status: "repealed"
 ---
 

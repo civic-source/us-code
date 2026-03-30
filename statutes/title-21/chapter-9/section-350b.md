@@ -3,9 +3,9 @@ title: "Section 350b - New dietary ingredients"
 usc_title: 21
 usc_section: "350b"
 chapter: 9
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "21 U.S.C. § 350b"
-generated_at: "2026-03-30T04:10:56.988Z"
+generated_at: "2026-03-30T04:13:36.030Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 79c - Acquisition of land"
 usc_title: 16
 usc_section: "79c"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 79c"
-generated_at: "2026-03-30T04:10:52.721Z"
+generated_at: "2026-03-30T04:13:15.861Z"
 status: "active"
 ---
 

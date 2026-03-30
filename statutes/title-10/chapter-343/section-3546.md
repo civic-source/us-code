@@ -3,9 +3,9 @@ title: "Section 3546 - Repealed. Pub. L. 85–861, § 36B(7) , Sept. 2, 1958 , 7
 usc_title: 10
 usc_section: "3546"
 chapter: 343
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 3546"
-generated_at: "2026-03-30T04:10:14.822Z"
+generated_at: "2026-03-30T04:12:47.107Z"
 status: "repealed"
 ---
 

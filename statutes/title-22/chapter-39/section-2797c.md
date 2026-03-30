@@ -3,9 +3,9 @@ title: "Section 2797c - Definitions"
 usc_title: 22
 usc_section: "2797c"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2797c"
-generated_at: "2026-03-30T04:11:00.379Z"
+generated_at: "2026-03-30T04:13:32.121Z"
 status: "active"
 ---
 
@@ -25,6 +25,6 @@ status: "active"
       - **(i)** all activities of that government relating to the development or production of any missile equipment or technology; and
       - **(ii)** all activities of that government affecting the development or production of electronics, space systems or equipment, and military aircraft; and
   - **(9)** the term “otherwise engaged in the trade of” means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
-- **(b)** For purposes of subsection (a)(3) of this section, as it relates to any international understanding concluded with the United States after January 1, 2000 , the term “international understanding” means—
+- **(b)** For purposes of subsection (a)(3), as it relates to any international understanding concluded with the United States after January 1, 2000 , the term “international understanding” means—
   - **(1)** any specific agreement by a country not to export, transfer, or otherwise engage in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter; or
   - **(2)** any specific understanding by a country that, notwithstanding section 2797b(b) of this title , the United States retains the right to take the actions under section 2797b(a)(2) of this title in the case of any export or transfer of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter.

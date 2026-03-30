@@ -3,9 +3,9 @@ title: "Section 2415 - Federal facilities, property, and equipment; leasing of t
 usc_title: 25
 usc_section: "2415"
 chapter: 26
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 2415"
-generated_at: "2026-03-30T04:11:02.097Z"
+generated_at: "2026-03-30T04:13:28.971Z"
 status: "active"
 ---
 

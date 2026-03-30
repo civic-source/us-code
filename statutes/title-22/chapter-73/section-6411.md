@@ -3,15 +3,15 @@ title: "Section 6411 - Office on International Religious Freedom; Ambassador at 
 usc_title: 22
 usc_section: "6411"
 chapter: 73
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6411"
-generated_at: "2026-03-30T04:11:00.427Z"
+generated_at: "2026-03-30T04:13:32.170Z"
 status: "active"
 ---
 
 # § 6411. Office on International Religious Freedom; Ambassador at Large for International Religious Freedom
 
-- **(a)** There is established within the Department of State an Office on International Religious Freedom that shall be headed by the Ambassador at Large for International Religious Freedom appointed under subsection (b) of this section.
+- **(a)** There is established within the Department of State an Office on International Religious Freedom that shall be headed by the Ambassador at Large for International Religious Freedom appointed under subsection (b).
 - **(b)** The Ambassador at Large shall be appointed by the President, by and with the advice and consent of the Senate.
 - **(c)** The Ambassador at Large shall have the following responsibilities:
   - **(1)** The primary responsibility of the Ambassador at Large shall be to advance the right to freedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated.

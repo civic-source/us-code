@@ -3,9 +3,9 @@ title: "Section 181 - Treatment of certain qualified film and television product
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-30T04:11:13.642Z"
+generated_at: "2026-03-30T04:13:48.121Z"
 status: "active"
 ---
 

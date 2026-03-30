@@ -3,9 +3,9 @@ title: "Section 2284 - Eligible countries"
 usc_title: 22
 usc_section: "2284"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2284"
-generated_at: "2026-03-30T04:11:00.340Z"
+generated_at: "2026-03-30T04:13:32.083Z"
 status: "active"
 ---
 

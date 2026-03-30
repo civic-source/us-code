@@ -3,9 +3,9 @@ title: "Section 1473d - Insurance costs covering vehicles, aircraft, and boats o
 usc_title: 43
 usc_section: "1473d"
 chapter: 31
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 1473d"
-generated_at: "2026-03-30T04:11:26.680Z"
+generated_at: "2026-03-30T04:14:01.988Z"
 status: "active"
 ---
 

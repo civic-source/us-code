@@ -3,9 +3,9 @@ title: "Section 1437j - Labor standards and community service requirement"
 usc_title: 42
 usc_section: "1437j"
 chapter: 8
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 1437j"
-generated_at: "2026-03-30T04:11:46.678Z"
+generated_at: "2026-03-30T04:14:15.891Z"
 status: "active"
 ---
 

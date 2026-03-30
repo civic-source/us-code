@@ -3,9 +3,9 @@ title: "Section 1412 - Notice of discovery of guano and proofs"
 usc_title: 48
 usc_section: "1412"
 chapter: 8
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "48 U.S.C. § 1412"
-generated_at: "2026-03-30T04:11:50.298Z"
+generated_at: "2026-03-30T04:14:23.062Z"
 status: "active"
 ---
 

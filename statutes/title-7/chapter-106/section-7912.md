@@ -3,9 +3,9 @@ title: "Section 7912 - Establishment of payment yield"
 usc_title: 7
 usc_section: "7912"
 chapter: 106
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 7912"
-generated_at: "2026-03-30T04:10:18.617Z"
+generated_at: "2026-03-30T04:12:33.688Z"
 status: "active"
 ---
 

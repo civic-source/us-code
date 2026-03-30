@@ -1,15 +1,13 @@
 ---
-title: "Section 3205 - Impact study by Secretary of Labor"
+title: "Section 3205 - Repealed. Pub. L. 113–188, title XII, § 1201 , Nov. 26, 2014 , 128 Stat. 2023"
 usc_title: 19
 usc_section: "3205"
 chapter: 20
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "19 U.S.C. § 3205"
-generated_at: "2026-03-30T04:10:49.838Z"
-status: "active"
+generated_at: "2026-03-30T04:13:24.361Z"
+status: "repealed"
 ---
 
-# § 3205. Impact study by Secretary of Labor
-
-The Secretary of Labor, in consultation with other appropriate Federal agencies, shall undertake a continuing review and analysis of the impact that the implementation of the provisions of this chapter has with respect to United States labor; and shall make an annual written report to Congress on the results of such review and analysis.
+# § 3205. Repealed. Pub. L. 113–188, title XII, § 1201 , Nov. 26, 2014 , 128 Stat. 2023
 

@@ -3,9 +3,9 @@ title: "Section 602 - Declaration of policy; establishment of price basing perio
 usc_title: 7
 usc_section: "602"
 chapter: 26
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 602"
-generated_at: "2026-03-30T04:10:18.430Z"
+generated_at: "2026-03-30T04:12:33.486Z"
 status: "active"
 ---
 

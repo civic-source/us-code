@@ -3,9 +3,9 @@ title: "Section 59B - Repealed. Pub. L. 101–234, title I, § 102(a) , Dec. 13,
 usc_title: 26
 usc_section: "59B"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 59B"
-generated_at: "2026-03-30T04:11:13.606Z"
+generated_at: "2026-03-30T04:13:48.085Z"
 status: "repealed"
 ---
 

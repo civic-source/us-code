@@ -3,9 +3,9 @@ title: "Section 189 - Utilization of Department of Energy national laboratories 
 usc_title: 6
 usc_section: "189"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 189"
-generated_at: "2026-03-30T04:10:09.277Z"
+generated_at: "2026-03-30T04:12:34.472Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)**
   - **(1)** In carrying out the missions of the Department, the Secretary may utilize the Department of Energy national laboratories and sites through any 1 or more of the following methods, as the Secretary considers appropriate:
-    - **(A)** A joint sponsorship arrangement referred to in subsection (b) of this section.
-    - **(B)** A direct contract between the Department and the applicable Department of Energy laboratory or site, subject to subsection (c) of this section.
+    - **(A)** A joint sponsorship arrangement referred to in subsection (b).
+    - **(B)** A direct contract between the Department and the applicable Department of Energy laboratory or site, subject to subsection (c).
     - **(C)** Any “work for others” basis made available by that laboratory or site.
     - **(D)** Any other method provided by law.
   - **(2)** Notwithstanding any other law governing the administration, mission, use, or operations of any of the Department of Energy national laboratories and sites, such laboratories and sites are authorized to accept and perform work for the Secretary, consistent with resources provided, and perform such work on an equal basis to other missions at the laboratory and not on a noninterference basis with other missions of such laboratory or site.

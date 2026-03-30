@@ -3,9 +3,9 @@ title: "Section 421c - Conditions of loan for distribution and drainage systems;
 usc_title: 43
 usc_section: "421c"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 421c"
-generated_at: "2026-03-30T04:11:26.648Z"
+generated_at: "2026-03-30T04:14:01.958Z"
 status: "active"
 ---
 

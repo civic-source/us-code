@@ -3,9 +3,9 @@ title: "Section 2246 - Evidence; depositions; affidavits"
 usc_title: 28
 usc_section: "2246"
 chapter: 153
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "28 U.S.C. § 2246"
-generated_at: "2026-03-30T04:11:05.680Z"
+generated_at: "2026-03-30T04:13:39.627Z"
 status: "active"
 ---
 

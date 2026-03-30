@@ -3,9 +3,9 @@ title: "Section 615pppto615www - Omitted"
 usc_title: 43
 usc_section: "615pppto615www"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 615pppto615www"
-generated_at: "2026-03-30T04:11:26.656Z"
+generated_at: "2026-03-30T04:14:01.967Z"
 status: "omitted"
 ---
 

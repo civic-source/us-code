@@ -3,9 +3,9 @@ title: "Section 5964 - Applications and plans"
 usc_title: 20
 usc_section: "5964"
 chapter: 68
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 5964"
-generated_at: "2026-03-30T04:10:46.629Z"
+generated_at: "2026-03-30T04:13:18.668Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2428b - Special security assistance for modernization of Armed F
 usc_title: 22
 usc_section: "2428b"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2428b"
-generated_at: "2026-03-30T04:11:00.357Z"
+generated_at: "2026-03-30T04:13:32.098Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** to transfer, without reimbursement, to the Republic of Korea, only in conjunction with the withdrawal of the 2d Infantry Division and support forces from Korea, such United States Government-owned defense articles as he may determine which are located in Korea in the custody of units of the United States Army scheduled to depart from Korea; and
     - **(B)** to furnish to the Republic of Korea, without reimbursement, defense services (including technical and operational training) in Korea directly related to the United States Government-owned defense articles transferred to the Republic of Korea under this subsection.
   - **(2)** Any transfer under the authority of this section shall be made in accordance with all the terms and conditions of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] applicable to the furnishing of defense articles and defense services under chapter 2 of part II of that Act [ 22 U.S.C. 2311 et seq.], except that no funds heretofore or hereafter appropriated under that Act shall be available to reimburse any agency of the United States Government for any such transfer or related services.
-- **(b)** In order that transfers of defense articles under subsection (a) of this section will not cause significant adverse impact on the readiness of the Armed Forces of the United States, the President is authorized, in lieu of such transfers, to transfer additional defense articles from the stocks of the Department of Defense, wherever located, to the Republic of Korea to compensate for the military capability of defense articles withdrawn from Korea in any case where he determines that—
+- **(b)** In order that transfers of defense articles under subsection (a) will not cause significant adverse impact on the readiness of the Armed Forces of the United States, the President is authorized, in lieu of such transfers, to transfer additional defense articles from the stocks of the Department of Defense, wherever located, to the Republic of Korea to compensate for the military capability of defense articles withdrawn from Korea in any case where he determines that—
   - **(1)** the transfer of specific defense articles located in Korea would have a significant adverse impact on the readiness of the United States Armed Forces;
   - **(2)** the defense capability provided by those defense articles is needed by the Armed Forces of the Republic of Korea in order to maintain the military balance on the Korean peninsula; and
   - **(3)** a comparable defense capability could be provided by less advanced defense articles in the stocks of the Department of Defense which could be transferred without significant adverse impact on the readiness of the United States Armed Forces.

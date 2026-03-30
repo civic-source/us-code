@@ -3,9 +3,9 @@ title: "Section 12602 - Individuals eligible to receive an educational award fro
 usc_title: 42
 usc_section: "12602"
 chapter: 129
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 12602"
-generated_at: "2026-03-30T04:11:47.073Z"
+generated_at: "2026-03-30T04:14:16.284Z"
 status: "active"
 ---
 

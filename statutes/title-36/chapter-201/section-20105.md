@@ -3,9 +3,9 @@ title: "Section 20105 - Powers"
 usc_title: 36
 usc_section: "20105"
 chapter: 201
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "36 U.S.C. § 20105"
-generated_at: "2026-03-30T04:11:21.146Z"
+generated_at: "2026-03-30T04:13:56.975Z"
 status: "active"
 ---
 

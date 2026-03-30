@@ -3,9 +3,9 @@ title: "Section 944 - Special fund"
 usc_title: 33
 usc_section: "944"
 chapter: 18
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 944"
-generated_at: "2026-03-30T04:11:17.350Z"
+generated_at: "2026-03-30T04:13:52.304Z"
 status: "active"
 ---
 

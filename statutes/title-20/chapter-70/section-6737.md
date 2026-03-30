@@ -3,9 +3,9 @@ title: "Section 6737 - Allocation of responsibility for noneconomic loss"
 usc_title: 20
 usc_section: "6737"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6737"
-generated_at: "2026-03-30T04:10:46.651Z"
+generated_at: "2026-03-30T04:13:18.690Z"
 status: "active"
 ---
 

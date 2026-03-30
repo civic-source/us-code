@@ -3,9 +3,9 @@ title: "Section 4302 - Definitions"
 usc_title: 22
 usc_section: "4302"
 chapter: 53
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4302"
-generated_at: "2026-03-30T04:11:00.405Z"
+generated_at: "2026-03-30T04:13:32.148Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
   - **(5)** “Secretary” means the Secretary of State;
   - **(6)** “sending State” means the foreign government, territory, or political entity represented by a foreign mission; and
   - **(7)** “United States” means, when used in a geographic sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
-- **(b)** Determinations with respect to the meaning and applicability of the terms used in subsection (a) of this section shall be committed to the discretion of the Secretary.
+- **(b)** Determinations with respect to the meaning and applicability of the terms used in subsection (a) shall be committed to the discretion of the Secretary.

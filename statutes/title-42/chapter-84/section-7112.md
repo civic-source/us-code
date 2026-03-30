@@ -3,9 +3,9 @@ title: "Section 7112 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "7112"
 chapter: 84
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 7112"
-generated_at: "2026-03-30T04:11:46.914Z"
+generated_at: "2026-03-30T04:14:16.127Z"
 status: "active"
 ---
 

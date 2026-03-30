@@ -3,9 +3,9 @@ title: "Section 3106 - Dates for submittal of various annual and semiannual repo
 usc_title: 50
 usc_section: "3106"
 chapter: 44
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "50 U.S.C. § 3106"
-generated_at: "2026-03-30T04:11:54.494Z"
+generated_at: "2026-03-30T04:14:35.515Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300 - Dispositions of property; damage payments; acceptance of g
 usc_title: 22
 usc_section: "300"
 chapter: 8
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 300"
-generated_at: "2026-03-30T04:11:00.308Z"
+generated_at: "2026-03-30T04:13:32.050Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ status: "active"
   - **(1)** to sell, exchange, lease, or license any property or property interest acquired under this chapter, or under other authority, for use of diplomatic and consular establishments in foreign countries or in the United States pursuant to section 4304(b)(5) of this title ,
   - **(2)** to receive payment in whatever form, or in kind, he determines to be in the interest of the United States for damage to or destruction of property acquired for use of diplomatic and consular establishments abroad, and the contents of such buildings, and
   - **(3)** to accept on behalf of the United States gifts of property or services of any kind made by will or otherwise for the purposes of this chapter.
-- **(b)** Proceeds derived from dispositions, payments, or gifts under subsection (a) of this section shall, notwithstanding the provisions of any other law, be applied toward acquisition, construction, or other purposes authorized by this chapter or held in the Foreign Service Buildings Fund, as in the judgment of the Secretary may best serve the Government’s interest: Provided , That the Secretary shall report all such transactions annually to the Congress with the budget estimates of the Department of State.
-- **(c)** Notwithstanding subsection (b) of this section, proceeds from the disposition of furniture, furnishings, and equipment from diplomatic and consular establishments in foreign countries shall be deposited into the Foreign Service Building Fund to be available for obligation or expenditure as directed by the Secretary.
+- **(b)** Proceeds derived from dispositions, payments, or gifts under subsection (a) shall, notwithstanding the provisions of any other law, be applied toward acquisition, construction, or other purposes authorized by this chapter or held in the Foreign Service Buildings Fund, as in the judgment of the Secretary may best serve the Government’s interest: Provided , That the Secretary shall report all such transactions annually to the Congress with the budget estimates of the Department of State.
+- **(c)** Notwithstanding subsection (b), proceeds from the disposition of furniture, furnishings, and equipment from diplomatic and consular establishments in foreign countries shall be deposited into the Foreign Service Building Fund to be available for obligation or expenditure as directed by the Secretary.

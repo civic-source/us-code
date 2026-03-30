@@ -3,9 +3,9 @@ title: "Section 7405 - Temporary full-time appointments, part-time appointments,
 usc_title: 38
 usc_section: "7405"
 chapter: 74
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "38 U.S.C. § 7405"
-generated_at: "2026-03-30T04:11:23.161Z"
+generated_at: "2026-03-30T04:13:59.035Z"
 status: "active"
 ---
 

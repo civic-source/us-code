@@ -3,9 +3,9 @@ title: "Section 9852 - Advance funding"
 usc_title: 42
 usc_section: "9852"
 chapter: 105
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 9852"
-generated_at: "2026-03-30T04:11:47.017Z"
+generated_at: "2026-03-30T04:14:16.229Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3392 - General appointment provisions"
 usc_title: 5
 usc_section: "3392"
 chapter: 33
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "5 U.S.C. § 3392"
-generated_at: "2026-03-30T04:10:07.225Z"
+generated_at: "2026-03-30T04:12:20.420Z"
 status: "active"
 ---
 

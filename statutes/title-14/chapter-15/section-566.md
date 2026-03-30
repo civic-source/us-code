@@ -3,9 +3,9 @@ title: "Section 566 - Department of Defense consultation"
 usc_title: 14
 usc_section: "566"
 chapter: 15
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "14 U.S.C. § 566"
-generated_at: "2026-03-30T04:10:25.747Z"
+generated_at: "2026-03-30T04:12:56.883Z"
 status: "active"
 ---
 

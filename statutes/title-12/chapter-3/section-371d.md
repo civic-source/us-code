@@ -3,9 +3,9 @@ title: "Section 371d - Investment in bank premises or stock of corporation holdi
 usc_title: 12
 usc_section: "371d"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 371d"
-generated_at: "2026-03-30T04:10:40.615Z"
+generated_at: "2026-03-30T04:12:55.210Z"
 status: "active"
 ---
 

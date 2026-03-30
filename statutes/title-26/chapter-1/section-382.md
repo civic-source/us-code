@@ -3,9 +3,9 @@ title: "Section 382 - Limitation on net operating loss carryforwards and certain
 usc_title: 26
 usc_section: "382"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-30T04:11:13.663Z"
+generated_at: "2026-03-30T04:13:48.142Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5107 - Bureau of Consumer Financial Protection backup authority 
 usc_title: 12
 usc_section: "5107"
 chapter: 51
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 5107"
-generated_at: "2026-03-30T04:10:40.791Z"
+generated_at: "2026-03-30T04:12:55.417Z"
 status: "active"
 ---
 

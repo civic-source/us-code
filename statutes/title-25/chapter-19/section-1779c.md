@@ -3,9 +3,9 @@ title: "Section 1779c - Settlement and claims; appropriations; allocation of fun
 usc_title: 25
 usc_section: "1779c"
 chapter: 19
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 1779c"
-generated_at: "2026-03-30T04:11:02.082Z"
+generated_at: "2026-03-30T04:13:28.956Z"
 status: "active"
 ---
 

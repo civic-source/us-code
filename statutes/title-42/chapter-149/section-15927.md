@@ -3,9 +3,9 @@ title: "Section 15927 - Oil shale, tar sands, and other strategic unconventional
 usc_title: 42
 usc_section: "15927"
 chapter: 149
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 15927"
-generated_at: "2026-03-30T04:11:47.149Z"
+generated_at: "2026-03-30T04:14:16.357Z"
 status: "active"
 ---
 
@@ -48,7 +48,6 @@ status: "active"
     - **(D)** identify, assess, and recommend appropriate actions of the Federal Government required to assist in the development and manufacturing of strategic fuels; and
     - **(E)** coordinate and facilitate appropriate relationships between private industry and the Federal Government to promote sufficient and timely private investment to commercialize strategic fuels for domestic and military use.
   - **(2)** The Office of Petroleum Reserves shall work closely with the Task Force and coordinate its staff support.
-  - **(3)** Not later than 180 days after August 8, 2005 , and annually thereafter, the Secretary shall submit to Congress a report that describes the activities of the Office of Petroleum Reserves carried out under this subsection.
 - **(j)**
 - **(k)**
   - **(1)** Upon written request of a prospective applicant for Federal authorization to develop a proposed oil shale or tar sands project, the Department of the Interior shall act as the lead Federal agency for the purposes of coordinating all applicable Federal authorizations and environmental reviews. To the maximum extent practicable under applicable Federal law, the Secretary shall coordinate this Federal authorization and review process with any Indian tribes and State and local agencies responsible for conducting any separate permitting and environmental reviews.

@@ -3,9 +3,9 @@ title: "Section 3515 - Administrative powers"
 usc_title: 44
 usc_section: "3515"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "44 U.S.C. § 3515"
-generated_at: "2026-03-30T04:11:25.531Z"
+generated_at: "2026-03-30T04:14:01.273Z"
 status: "active"
 ---
 

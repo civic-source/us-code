@@ -3,9 +3,9 @@ title: "Section 7707 - Construction"
 usc_title: 20
 usc_section: "7707"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 7707"
-generated_at: "2026-03-30T04:10:46.679Z"
+generated_at: "2026-03-30T04:13:18.718Z"
 status: "active"
 ---
 
@@ -104,8 +104,3 @@ status: "active"
     - **(D)** A description of the project for which a grant under this subsection will be used, including a cost estimate for the project.
     - **(E)** A description of the interest in, or authority over, the school facility involved, such as an ownership interest or a lease arrangement.
     - **(F)** Such other information and assurances as the Secretary may reasonably require.
-  - **(7)**
-    - **(A)** Not later than January 1 of each year, the Secretary shall prepare and submit to the appropriate congressional committees a report that contains a justification for each grant awarded under this subsection for the prior fiscal year.
-    - **(B)** In this paragraph, the term “appropriate congressional committees” means—
-      - **(i)** the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives; and
-      - **(ii)** the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate.

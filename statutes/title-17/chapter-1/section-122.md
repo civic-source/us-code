@@ -3,9 +3,9 @@ title: "Section 122 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "122"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "17 U.S.C. § 122"
-generated_at: "2026-03-30T04:10:53.232Z"
+generated_at: "2026-03-30T04:13:09.482Z"
 status: "active"
 ---
 
@@ -71,6 +71,7 @@ status: "active"
     - **(B)** In addition to the area described in subparagraph (A), a station’s local market includes the county in which the station’s community of license is located.
     - **(C)** For purposes of subparagraph (A), the term “designated market area” means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
     - **(D)** Any census area, borough, or other area in the State of Alaska that is outside of a designated market area, as determined by Nielsen Media Research, shall be deemed to be part of one of the local markets in the State of Alaska. A satellite carrier may determine which local market in the State of Alaska will be deemed to be the relevant local market in connection with each subscriber in such census area, borough, or other area.
+    - **(E)** The local market of a commercial television broadcast station may be modified by the Federal Communications Commission in accordance with section 338( l ) of the Communications Act of 1934 ( 47 U.S.C. 338 ).
   - **(3)** The term “low power television station” means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004 . For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
   - **(4)** The terms “network station”, “non-network station”, “satellite carrier”, and “secondary transmission” have the meanings given such terms under section 119(d).
   - **(5)** The term “noncommercial educational broadcast station” means a television broadcast station that is a noncommercial educational broadcast station as defined in section 397 of the Communications Act of 1934, as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010.

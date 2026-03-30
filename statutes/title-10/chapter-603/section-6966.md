@@ -3,9 +3,9 @@ title: "Section 6966 - Course of study"
 usc_title: 10
 usc_section: "6966"
 chapter: 603
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 6966"
-generated_at: "2026-03-30T04:10:14.841Z"
+generated_at: "2026-03-30T04:12:47.124Z"
 status: "active"
 ---
 

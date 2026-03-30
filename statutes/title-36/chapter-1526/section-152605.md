@@ -3,9 +3,9 @@ title: "Section 152605 - Powers"
 usc_title: 36
 usc_section: "152605"
 chapter: 1526
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "36 U.S.C. § 152605"
-generated_at: "2026-03-30T04:11:21.164Z"
+generated_at: "2026-03-30T04:13:56.992Z"
 status: "active"
 ---
 

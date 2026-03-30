@@ -3,9 +3,9 @@ title: "Section 3058e - Demonstration projects"
 usc_title: 42
 usc_section: "3058e"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 3058e"
-generated_at: "2026-03-30T04:11:46.784Z"
+generated_at: "2026-03-30T04:14:15.997Z"
 status: "active"
 ---
 

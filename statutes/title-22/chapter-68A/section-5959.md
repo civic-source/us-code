@@ -3,17 +3,17 @@ title: "Section 5959 - Reports on activities and assistance under cooperative th
 usc_title: 22
 usc_section: "5959"
 chapter: 68
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5959"
-generated_at: "2026-03-30T04:11:00.420Z"
+generated_at: "2026-03-30T04:13:32.162Z"
 status: "active"
 ---
 
 # § 5959. Reports on activities and assistance under cooperative threat reduction programs
 
-- **(a)** In any year in which the budget of the President under section 1105 of title 31 for the fiscal year beginning in such year requests funds for the Department of Defense for assistance or activities under Cooperative Threat Reduction programs with the states of the former Soviet Union, the Secretary of Defense shall submit to Congress a report on activities and assistance during the preceding fiscal year under Cooperative Threat Reduction programs setting forth the matters in subsection (c) of this section.
-- **(b)** The report under subsection (a) of this section shall be submitted not later than the first Monday in February of a year.
-- **(c)** The report under subsection (a) of this section in a year shall set forth the following:
+- **(a)** In any year in which the budget of the President under section 1105 of title 31 for the fiscal year beginning in such year requests funds for the Department of Defense for assistance or activities under Cooperative Threat Reduction programs with the states of the former Soviet Union, the Secretary of Defense shall submit to Congress a report on activities and assistance during the preceding fiscal year under Cooperative Threat Reduction programs setting forth the matters in subsection (c).
+- **(b)** The report under subsection (a) shall be submitted not later than the first Monday in February of a year.
+- **(c)** The report under subsection (a) in a year shall set forth the following:
   - **(1)** An estimate of the total amount that will be required to be expended by the United States in order to achieve the objectives of the Cooperative Threat Reduction programs.
   - **(2)** A five-year plan setting forth the amount of funds and other resources proposed to be provided by the United States for Cooperative Threat Reduction programs over the term of the plan, including the purpose for which such funds and resources will be used, and to provide guidance for the preparation of annual budget submissions with respect to Cooperative Threat Reduction programs.
   - **(3)** A description of the Cooperative Threat Reduction activities carried out during the fiscal year ending in the year preceding the year of the report, including—
@@ -40,9 +40,9 @@ status: "active"
     - **(D)** the success of each activity, including the goals and objectives achieved for each;
     - **(E)** a description of participation by private sector entities in the United States in carrying out such activities, and the participation of any other Federal department or agency in such activities; and
     - **(F)** any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under Cooperative Threat Reduction programs.
-- **(d)** The Director of Central Intelligence shall submit to the Secretary of Defense the views of the Director on any matters covered by subsection (c)(5) of this section in a report under subsection (a) of this section. Such views shall be included in such report as a classified annex to such report.
+- **(d)** The Director of Central Intelligence shall submit to the Secretary of Defense the views of the Director on any matters covered by subsection (c)(5) in a report under subsection (a). Such views shall be included in such report as a classified annex to such report.
 - **(e)**
-- **(f)** The first report submitted under subsection (a) of this section shall be submitted in 2001.
+- **(f)** The first report submitted under subsection (a) shall be submitted in 2001.
 - **(g)**
 - **(h)** Not more than 10 percent of fiscal year 2001 Cooperative Threat Reduction funds may be obligated or expended until the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 required to be submitted under section 1205 of the National Defense Authorization Act for Fiscal Year 1995 ( Public Law 103–337 ; 22 U.S.C. 5952 note).
 - **(i)** Not later than 30 days after October 30, 2000 , the Secretary of Defense shall submit to Congress a report on the following regarding Russia’s arsenal of tactical nuclear warheads:

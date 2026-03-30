@@ -3,9 +3,9 @@ title: "Section 2 - Pay and allowances; date of acceptance of promotion"
 usc_title: 33
 usc_section: "2"
 chapter: 17
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T04:11:17.343Z"
+generated_at: "2026-03-30T04:13:52.298Z"
 status: "active"
 ---
 

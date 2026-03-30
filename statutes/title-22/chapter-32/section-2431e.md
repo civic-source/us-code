@@ -3,9 +3,9 @@ title: "Section 2431e - Reduction of debt owed to United States as result of cre
 usc_title: 22
 usc_section: "2431e"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2431e"
-generated_at: "2026-03-30T04:11:00.358Z"
+generated_at: "2026-03-30T04:13:32.099Z"
 status: "active"
 ---
 
@@ -20,12 +20,12 @@ status: "active"
       - **(iii)** $50,000,000 for fiscal year 2001.
     - **(B)** The authority provided by this section shall be available only to the extent that appropriations for the cost (as defined in section 661a(5) of title 2 ) of the modification of any debt pursuant to this section are made in advance.
 - **(b)**
-  - **(1)** Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
+  - **(1)** Any debt reduction pursuant to subsection (a) shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) outstanding as of the date specified in subsection (a)(1).
   - **(2)**
     - **(A)** The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligible country to exchange a new obligation for outstanding obligations.
     - **(B)** At the direction of the Facility, the old obligations that are the subject of the agreement shall be canceled and a new debt obligation shall be established for the country relating to the agreement, and the Commodity Credit Corporation shall make an adjustment in its accounts to reflect the debt reduction.
 - **(c)**
-  - **(1)** The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Food for Peace Act [ 7 U.S.C. 1738c(a)(1) ]:
+  - **(1)** The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Food for Peace Act [ 7 U.S.C. 1738c(a)(1) ]:
     - **(A)** The provisions relating to repayment of principal under section 605 of such Act [ 7 U.S.C. 1738d ].
     - **(B)** The provisions relating to interest on new obligations under section 606 of such Act [ 7 U.S.C. 1738e ].
-  - **(2)** In addition to the application of the provisions relating to repayment of principal under section 605 of the Food for Peace Act [ 7 U.S.C. 1738d ] to the reduction of debt under subsection (a)(1) of this section (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) of this section may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 606 of such Act [ 7 U.S.C. 1738e ].
+  - **(2)** In addition to the application of the provisions relating to repayment of principal under section 605 of the Food for Peace Act [ 7 U.S.C. 1738d ] to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 606 of such Act [ 7 U.S.C. 1738e ].

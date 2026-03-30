@@ -3,9 +3,9 @@ title: "Section 179n - National Film Preservation Board"
 usc_title: 2
 usc_section: "179n"
 chapter: 5
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "2 U.S.C. § 179n"
-generated_at: "2026-03-30T04:10:05.213Z"
+generated_at: "2026-03-30T04:12:26.449Z"
 status: "active"
 ---
 

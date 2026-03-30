@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5"
 chapter: 2
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T04:10:52.854Z"
+generated_at: "2026-03-30T04:13:15.997Z"
 status: "active"
 ---
 

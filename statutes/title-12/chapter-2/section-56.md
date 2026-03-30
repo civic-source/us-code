@@ -3,9 +3,9 @@ title: "Section 56 - Prohibition on withdrawal of capital; unearned dividends"
 usc_title: 12
 usc_section: "56"
 chapter: 2
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 56"
-generated_at: "2026-03-30T04:10:40.603Z"
+generated_at: "2026-03-30T04:12:55.195Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1358 - Consent of Congress for interstate compacts; reservation 
 usc_title: 15
 usc_section: "1358"
 chapter: 37
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 1358"
-generated_at: "2026-03-30T04:10:29.969Z"
+generated_at: "2026-03-30T04:13:07.372Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1701 - Unusual and extraordinary threat; declaration of national
 usc_title: 50
 usc_section: "1701"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "50 U.S.C. § 1701"
-generated_at: "2026-03-30T04:11:54.455Z"
+generated_at: "2026-03-30T04:14:35.478Z"
 status: "active"
 ---
 

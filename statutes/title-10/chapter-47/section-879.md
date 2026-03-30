@@ -3,9 +3,9 @@ title: "Section 879 - Art. 79. Conviction of lesser included offense"
 usc_title: 10
 usc_section: "879"
 chapter: 47
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 879"
-generated_at: "2026-03-30T04:10:14.712Z"
+generated_at: "2026-03-30T04:12:46.987Z"
 status: "active"
 ---
 

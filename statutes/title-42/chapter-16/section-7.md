@@ -3,9 +3,9 @@ title: "Section 7 - STEM industry internship programs"
 usc_title: 42
 usc_section: "7"
 chapter: 16
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T04:11:46.724Z"
+generated_at: "2026-03-30T04:14:15.937Z"
 status: "active"
 ---
 

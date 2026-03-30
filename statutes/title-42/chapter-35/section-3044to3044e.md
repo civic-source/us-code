@@ -3,9 +3,9 @@ title: "Section 3044to3044e - Repealed. Pub. L. 93–113, title VI, § 604(a) , 
 usc_title: 42
 usc_section: "3044to3044e"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 3044to3044e"
-generated_at: "2026-03-30T04:11:46.779Z"
+generated_at: "2026-03-30T04:14:15.993Z"
 status: "repealed"
 ---
 

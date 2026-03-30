@@ -3,9 +3,9 @@ title: "Section 16901 - Declaration of purpose"
 usc_title: 42
 usc_section: "16901"
 chapter: 151
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 16901"
-generated_at: "2026-03-30T04:11:47.169Z"
+generated_at: "2026-03-30T04:14:16.376Z"
 status: "active"
 ---
 

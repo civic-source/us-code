@@ -3,9 +3,9 @@ title: "Section 4341 - Faculty and other officers: leaves of absence"
 usc_title: 10
 usc_section: "4341"
 chapter: 403
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 4341"
-generated_at: "2026-03-30T04:10:14.827Z"
+generated_at: "2026-03-30T04:12:47.110Z"
 status: "active"
 ---
 

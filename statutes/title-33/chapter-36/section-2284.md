@@ -3,9 +3,9 @@ title: "Section 2284 - Benefits and costs attributable to environmental measures
 usc_title: 33
 usc_section: "2284"
 chapter: 36
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 2284"
-generated_at: "2026-03-30T04:11:17.393Z"
+generated_at: "2026-03-30T04:13:52.346Z"
 status: "active"
 ---
 

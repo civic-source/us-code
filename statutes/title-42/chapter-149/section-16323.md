@@ -3,9 +3,9 @@ title: "Section 16323 - Science and engineering education pilot program"
 usc_title: 42
 usc_section: "16323"
 chapter: 149
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 16323"
-generated_at: "2026-03-30T04:11:47.161Z"
+generated_at: "2026-03-30T04:14:16.369Z"
 status: "active"
 ---
 
@@ -20,4 +20,3 @@ status: "active"
   - **(5)** designing and implementing a strategy for measuring and assessing progress under the program; and
   - **(6)** developing models for transferring knowledge gained under the pilot program to other institutions and areas of the United States.
 - **(c)** A grant under this section shall be considered an authorized activity under section 7381b of this title .
-- **(d)** No later than 2 years after the award of the grant, the Secretary shall transmit to Congress a report outlining lessons learned and, if determined appropriate by the Secretary, containing a plan for expanding the program throughout the United States.

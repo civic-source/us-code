@@ -3,9 +3,9 @@ title: "Section 1911 - Indian tribe jurisdiction over Indian child custody proce
 usc_title: 25
 usc_section: "1911"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 1911"
-generated_at: "2026-03-30T04:11:02.085Z"
+generated_at: "2026-03-30T04:13:28.959Z"
 status: "active"
 ---
 

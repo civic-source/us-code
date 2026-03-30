@@ -3,9 +3,9 @@ title: "Section 2577 - Verification of compliance"
 usc_title: 22
 usc_section: "2577"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2577"
-generated_at: "2026-03-30T04:11:00.363Z"
+generated_at: "2026-03-30T04:13:32.106Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
   - **(3)** the amount and percentage of research funds expended by the Department of State for the purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
   - **(4)** the number of professional personnel assigned to arms control verification on a full-time basis by each Government agency.
 - **(b)** Upon the request of the chairman or ranking minority member of the Committee on Foreign Relations of the Senate or the Committee on International Relations of the House of Representatives, in case of an arms control, nonproliferation, or disarmament proposal presented to a foreign country by the United States or presented to the United States by a foreign country, the Secretary of State shall submit a report to the Committee on the degree to which elements of the proposal are capable of being verified.
-- **(c)** In making determinations under paragraphs (1) and (2) of subsection (a) of this section, the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
+- **(c)** In making determinations under paragraphs (1) and (2) of subsection (a), the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
 - **(d)** Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliance with arms control, nonproliferation, and disarmament agreements.

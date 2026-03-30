@@ -3,9 +3,9 @@ title: "Section 5222 - Production, receipt, removal, and use of distilling mater
 usc_title: 26
 usc_section: "5222"
 chapter: 51
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 5222"
-generated_at: "2026-03-30T04:11:13.841Z"
+generated_at: "2026-03-30T04:13:48.317Z"
 status: "active"
 ---
 

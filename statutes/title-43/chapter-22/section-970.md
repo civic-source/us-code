@@ -3,9 +3,9 @@ title: "Section 970 - Forfeiture of Arkansas pipeline right of way for violation
 usc_title: 43
 usc_section: "970"
 chapter: 22
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 970"
-generated_at: "2026-03-30T04:11:26.669Z"
+generated_at: "2026-03-30T04:14:01.978Z"
 status: "active"
 ---
 

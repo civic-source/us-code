@@ -3,9 +3,9 @@ title: "Section 4110 - Foreign Service Impasse Disputes Panel"
 usc_title: 22
 usc_section: "4110"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4110"
-generated_at: "2026-03-30T04:11:00.401Z"
+generated_at: "2026-03-30T04:13:32.143Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** one individual employed by the Department of Labor;
   - **(3)** one member of the Federal Service Impasses Panel; and
   - **(4)** one public member who does not hold any other office or position in the Government.
-- **(b)** Panel members referred to in subsection (a)(3) and (4) of this section shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under section 5332 of title 5 , except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4) 1 1 See References in Text note below. of title 5. Members of the Panel shall be entitled to travel expenses as provided under section 5703 of title 5 .
+- **(b)** Panel members referred to in subsection (a)(3) and (4) shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under section 5332 of title 5 , except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4) 1 1 See References in Text note below. of title 5. Members of the Panel shall be entitled to travel expenses as provided under section 5703 of title 5 .
 - **(c)**
   - **(1)** The Panel or its designee shall promptly investigate any impasse presented to it by a party. The Panel shall consider the impasse and shall either—
     - **(A)** recommend to the parties to the negotiation procedures for the resolution of the impasse; or

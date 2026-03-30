@@ -3,9 +3,9 @@ title: "Section 5426 - United States policy of private financial support for Pol
 usc_title: 22
 usc_section: "5426"
 chapter: 63
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5426"
-generated_at: "2026-03-30T04:11:00.415Z"
+generated_at: "2026-03-30T04:13:32.156Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** United States citizens, financial institutions (other than federally insured depository institutions), and other persons may make contributions and loans to, make capital deposits in, and provide other forms of financial and technical assistance to credit unions in Poland and Hungary; and
   - **(2)** federally insured depository institutions may provide technical assistance to credit unions in Poland and Hungary, to the extent that the provision of such assistance is prudent and not inconsistent with safe and sound banking practice.
 - **(b)**
-- **(c)** For purposes of subsection (a) of this section—
+- **(c)** For purposes of subsection (a)—
   - **(1)** the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
     - **(A)** which is formed to permit individuals in the field of membership specified in such institution’s charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
     - **(B)** whose members are united by a common bond and democratically operate the institution; and

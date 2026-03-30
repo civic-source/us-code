@@ -3,9 +3,9 @@ title: "Section 60130 - Pipeline safety information grants to communities"
 usc_title: 49
 usc_section: "60130"
 chapter: 601
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "49 U.S.C. § 60130"
-generated_at: "2026-03-30T04:11:57.182Z"
+generated_at: "2026-03-30T04:14:45.117Z"
 status: "active"
 ---
 
@@ -19,10 +19,4 @@ status: "active"
     - **(B)** open communication between the grant recipients, local operators, local communities, and other interested parties is encouraged.
   - **(4)** In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
 - **(b)** Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
-- **(c)**
-  - **(1)** Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
-  - **(2)** The report shall include—
-    - **(A)** a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
-    - **(B)** a description of the purpose for which each grant was made; and
-    - **(C)** a description of how each grant was used by the recipient.
-- **(d)** There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
+- **(c)** There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.

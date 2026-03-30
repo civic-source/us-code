@@ -3,9 +3,9 @@ title: "Section 9202 - Definitions"
 usc_title: 20
 usc_section: "9202"
 chapter: 73
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 9202"
-generated_at: "2026-03-30T04:10:46.687Z"
+generated_at: "2026-03-30T04:13:18.726Z"
 status: "active"
 ---
 

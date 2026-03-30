@@ -3,9 +3,9 @@ title: "Section 7005 - Under Secretary of Agriculture for Marketing and Regulato
 usc_title: 7
 usc_section: "7005"
 chapter: 98
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 7005"
-generated_at: "2026-03-30T04:10:18.593Z"
+generated_at: "2026-03-30T04:12:33.661Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1304 - Reservation of right to amend or repeal"
 usc_title: 42
 usc_section: "1304"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 1304"
-generated_at: "2026-03-30T04:11:46.503Z"
+generated_at: "2026-03-30T04:14:15.719Z"
 status: "active"
 ---
 

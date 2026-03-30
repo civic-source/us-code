@@ -3,9 +3,9 @@ title: "Section 2430b - Eligibility for benefits"
 usc_title: 22
 usc_section: "2430b"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2430b"
-generated_at: "2026-03-30T04:11:00.357Z"
+generated_at: "2026-03-30T04:13:32.098Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
     - **(B)** as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development or the International Development Association, unless the President determines (after consultation with the Enterprise for the Americas Board) that the resulting adjustment requirements could reasonably be expected to have significant adverse social or environmental effects;
   - **(6)** has put in place major investment reforms in conjunction with an Inter-American Development Bank loan or otherwise is implementing, or is making significant progress toward, an open investment regime; and
   - **(7)** if appropriate, has agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction.
-- **(b)** Consistent with subsection (a) of this section, the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
+- **(b)** Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.

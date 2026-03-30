@@ -3,9 +3,9 @@ title: "Section 1639b - Residential mortgage loan origination"
 usc_title: 15
 usc_section: "1639b"
 chapter: 41
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 1639b"
-generated_at: "2026-03-30T04:10:29.981Z"
+generated_at: "2026-03-30T04:13:07.381Z"
 status: "active"
 ---
 

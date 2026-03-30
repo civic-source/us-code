@@ -3,9 +3,9 @@ title: "Section 2796a - Reports to Congress"
 usc_title: 22
 usc_section: "2796a"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2796a"
-generated_at: "2026-03-30T04:11:00.377Z"
+generated_at: "2026-03-30T04:13:32.120Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
   - **(3)** the terms and duration of the lease or loan; and
   - **(4)** a justification for the lease or loan, including an explanation of why the defense article is being leased or loaned rather than sold under this chapter.
 - **(b)** The President may waive the requirements of this section (and in the case of an agreement described in section 2796b of this title , may waive the provisions of that section) if he states in his certification, that an emergency exists which requires that the lease or loan be entered into immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.
-- **(c)** The certification required by subsection (a) of this section shall be transmitted—
+- **(c)** The certification required by subsection (a) shall be transmitted—
   - **(1)** not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, Israel, or New Zealand; and
   - **(2)** not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.

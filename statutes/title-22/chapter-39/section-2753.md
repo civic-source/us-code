@@ -3,9 +3,9 @@ title: "Section 2753 - Eligibility for defense services or defense articles"
 usc_title: 22
 usc_section: "2753"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2753"
-generated_at: "2026-03-30T04:11:00.372Z"
+generated_at: "2026-03-30T04:13:32.115Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** the country or international organization shall have agreed not to transfer title to, or possession of, any defense article or related training or other defense service so furnished to it, or produced in a cooperative project (as defined in section 2767 of this title ), to anyone not an officer, employee, or agent of that country or international organization (or the North Atlantic Treaty Organization or the specified member countries (other than the United States) in the case of a cooperative project) and not to use or permit the use of such article or related training or other defense service for purposes other than those for which furnished unless the consent of the President has first been obtained:
   - **(3)** the country or international organization shall have agreed that it will maintain the security of such article or service and will provide substantially the same degree of security protection afforded to such article or service by the United States Government; and
   - **(4)** the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
-- **(b)** The consent of the President under paragraph (2) of subsection (a) of this section or under paragraph (1) of section 2314(a) of this title (as it relates to subparagraph (B) of such paragraph) shall not be required for the transfer by a foreign country or international organization of defense articles sold by the United States under this chapter if a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if—
+- **(b)** The consent of the President under paragraph (2) of subsection (a) or under paragraph (1) of section 2314(a) of this title (as it relates to subparagraph (B) of such paragraph) shall not be required for the transfer by a foreign country or international organization of defense articles sold by the United States under this chapter if a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if—
   - **(1)** such articles constitute components incorporated into foreign defense articles;
   - **(2)** the recipient is the government of a member country of the North Atlantic Treaty Organization, the Government of Australia, the Government of Japan, the Government of the Republic of Korea, the Government of Israel, or the Government of New Zealand;
   - **(3)** the recipient is not a country designated under section 2371 of this title ;
@@ -37,7 +37,7 @@ status: "active"
     - **(A)** the President determines that the violation has ceased; and
     - **(B)** the country concerned has given assurances satisfactory to the President that such violation will not recur.
 - **(d)**
-  - **(1)** Subject to paragraph (5), the President may not give his consent under paragraph (2) of subsection (a) of this section or under the third sentence of such subsection, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, unless the President submits to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a written certification with respect to such proposed transfer containing—
+  - **(1)** Subject to paragraph (5), the President may not give his consent under paragraph (2) of subsection (a) or under the third sentence of such subsection, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, unless the President submits to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a written certification with respect to such proposed transfer containing—
     - **(A)** the name of the country or international organization proposing to make such transfer,
     - **(B)** a description of the article or service proposed to be transferred, including its acquisition cost,
     - **(C)** the name of the proposed recipient of such article or service,

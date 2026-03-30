@@ -3,9 +3,9 @@ title: "Section 7105 - Protection and assistance for victims of trafficking"
 usc_title: 22
 usc_section: "7105"
 chapter: 78
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 7105"
-generated_at: "2026-03-30T04:11:00.438Z"
+generated_at: "2026-03-30T04:13:32.181Z"
 status: "active"
 ---
 
@@ -78,10 +78,10 @@ status: "active"
       - **(i)** develop materials to assist State and local law enforcement officials in working with Federal law enforcement to obtain continued presence for victims of a severe form of trafficking in cases investigated or prosecuted at the State or local level; and
       - **(ii)** distribute the materials developed under clause (i) to State and local law enforcement officials.
   - **(4)** Appropriate personnel of the Department of State, the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
-- **(d)** Nothing in subsection (c) of this section shall be construed as creating any private cause of action against the United States or its officers or employees.
+- **(d)** Nothing in subsection (c) shall be construed as creating any private cause of action against the United States or its officers or employees.
 - **(e)**
   - **(1)**
-  - **(5)** Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8 , as added by subsection (e) of this section, for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8 .
+  - **(5)** Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8 , as added by subsection (e), for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8 .
 - **(f)**
   - **(1)** The Secretary of Health and Human Services and the Attorney General, in consultation with the Secretary of Labor, shall establish a program to assist United States citizens and aliens lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8 ) who are victims of severe forms of trafficking. In determining the assistance that would be most beneficial for such victims, the Secretary and the Attorney General shall consult with nongovernmental organizations that provide services to victims of severe forms of trafficking in the United States.
   - **(2)** In addition to specialized services required for victims described in paragraph (1), the program established pursuant to paragraph (1) shall—
@@ -92,4 +92,4 @@ status: "active"
     - **(A)** The Secretary of Health and Human Services and the Attorney General may award grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victim service organizations to develop, expand, and strengthen victim service programs authorized under this subsection.
     - **(B)** The Federal share of a grant awarded under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted by the grantee.
 - **(f)**
-- **(g)** On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8 , as added by subsection (e) of this section, or who were unable to adjust their status under section 1255( l ) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184( o )(2) or 1255( l )(4)(A) of title 8.
+- **(g)** On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8 , as added by subsection (e), or who were unable to adjust their status under section 1255( l ) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184( o )(2) or 1255( l )(4)(A) of title 8.

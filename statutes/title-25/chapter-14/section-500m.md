@@ -3,9 +3,9 @@ title: "Section 500m - Use of public lands; violation"
 usc_title: 25
 usc_section: "500m"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 500m"
-generated_at: "2026-03-30T04:11:02.021Z"
+generated_at: "2026-03-30T04:13:28.897Z"
 status: "active"
 ---
 

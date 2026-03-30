@@ -3,15 +3,15 @@ title: "Section 6445 - Description of Presidential actions"
 usc_title: 22
 usc_section: "6445"
 chapter: 73
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6445"
-generated_at: "2026-03-30T04:11:00.429Z"
+generated_at: "2026-03-30T04:13:32.172Z"
 status: "active"
 ---
 
 # § 6445. Description of Presidential actions
 
-- **(a)** Except as provided in subsection (d) of this section, the Presidential actions referred to in this subsection are the following:
+- **(a)** Except as provided in subsection (d), the Presidential actions referred to in this subsection are the following:
   - **(1)** A private demarche.
   - **(2)** An official public demarche.
   - **(3)** A public condemnation.
@@ -31,6 +31,6 @@ status: "active"
     - **(D)** any other statute that requires the prior review and approval of the United States Government as a condition for the export or reexport of goods or services.
   - **(14)** Prohibiting any United States financial institution from making loans or providing credits totaling more than $10,000,000 in any 12-month period to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
   - **(15)** Prohibiting the United States Government from procuring, or entering into any contract for the procurement of, any goods or services from the foreign government, entities, or officials found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
-- **(b)** Except as provided in subsection (d) of this section, the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) of this section if such action is commensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title . The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
+- **(b)** Except as provided in subsection (d), the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) if such action is commensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title . The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
 - **(c)** The President may negotiate and enter into a binding agreement with a foreign government that obligates such government to cease, or take substantial steps to address and phase out, the act, policy, or practice constituting the violation of religious freedom. The entry into force of a binding agreement for the cessation of the violations shall be a primary objective for the President in responding to a foreign government that has engaged in or tolerated particularly severe violations of religious freedom.
-- **(d)** Any action taken pursuant to subsection (a) or (b) of this section may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
+- **(d)** Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.

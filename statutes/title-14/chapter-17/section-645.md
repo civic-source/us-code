@@ -3,9 +3,9 @@ title: "Section 645 - Confidentiality of medical quality assurance records; qual
 usc_title: 14
 usc_section: "645"
 chapter: 17
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "14 U.S.C. § 645"
-generated_at: "2026-03-30T04:10:25.749Z"
+generated_at: "2026-03-30T04:12:56.888Z"
 status: "active"
 ---
 

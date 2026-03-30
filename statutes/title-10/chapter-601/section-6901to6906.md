@@ -3,9 +3,9 @@ title: "Section 6901to6906 - Repealed. Pub. L. 88–647, title III, § 301(17) ,
 usc_title: 10
 usc_section: "6901to6906"
 chapter: 601
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 6901to6906"
-generated_at: "2026-03-30T04:10:14.840Z"
+generated_at: "2026-03-30T04:12:47.123Z"
 status: "repealed"
 ---
 

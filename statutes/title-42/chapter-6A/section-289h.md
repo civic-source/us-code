@@ -3,9 +3,9 @@ title: "Section 289h - Repealed. Pub. L. 103–43, title I, § 121(b)(2) , June 
 usc_title: 42
 usc_section: "289h"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 289h"
-generated_at: "2026-03-30T04:11:46.355Z"
+generated_at: "2026-03-30T04:14:15.572Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 992 - Requirements of a domestic international sales corporation
 usc_title: 26
 usc_section: "992"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 992"
-generated_at: "2026-03-30T04:11:13.757Z"
+generated_at: "2026-03-30T04:13:48.233Z"
 status: "active"
 ---
 

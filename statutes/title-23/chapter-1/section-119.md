@@ -3,9 +3,9 @@ title: "Section 119 - National highway performance program"
 usc_title: 23
 usc_section: "119"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "23 U.S.C. § 119"
-generated_at: "2026-03-30T04:10:57.496Z"
+generated_at: "2026-03-30T04:13:27.593Z"
 status: "active"
 ---
 

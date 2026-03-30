@@ -3,9 +3,9 @@ title: "Section 501 - Acquisition of agricultural and grazing lands for Indians;
 usc_title: 25
 usc_section: "501"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 501"
-generated_at: "2026-03-30T04:11:02.022Z"
+generated_at: "2026-03-30T04:13:28.897Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2357c - Purposes and authority"
 usc_title: 50
 usc_section: "2357c"
 chapter: 40
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "50 U.S.C. § 2357c"
-generated_at: "2026-03-30T04:11:54.472Z"
+generated_at: "2026-03-30T04:14:35.494Z"
 status: "active"
 ---
 

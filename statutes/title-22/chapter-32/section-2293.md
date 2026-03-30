@@ -3,9 +3,9 @@ title: "Section 2293 - Long-term development assistance for sub-Saharan Africa"
 usc_title: 22
 usc_section: "2293"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2293"
-generated_at: "2026-03-30T04:11:00.342Z"
+generated_at: "2026-03-30T04:13:32.085Z"
 status: "active"
 ---
 
@@ -23,20 +23,20 @@ status: "active"
   - **(1)** any reference in any law to part I of this subchapter (including references to sections 2151a through 2151d of this title) shall be deemed to include a reference to this section; and
   - **(2)** assistance under this section shall be provided consistent with the policies contained in section 2151–1 of this title .
 - **(e)**
-  - **(1)** The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during the planning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c) of this section.
+  - **(1)** The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during the planning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c).
   - **(2)** For purposes of this section, the term “private and voluntary organization” includes (in addition to entities traditionally considered to be private and voluntary organizations) cooperatives, credit unions, trade unions, women’s groups, nonprofit development research institutions, and indigenous local organizations, which are private and nonprofit.
 - **(f)** Local people, including women, shall be closely consulted and involved in the implementation of every project under this section which as 1 1 So in original. Probably should be “has”. a local focus.
-- **(g)** The Agency for International Development shall ensure that development activities assisted under this section incorporate a significant expansion of the participation (including decisionmaking) and integration of African women in each of the critical sectors described in subsection (i) of this section.
+- **(g)** The Agency for International Development shall ensure that development activities assisted under this section incorporate a significant expansion of the participation (including decisionmaking) and integration of African women in each of the critical sectors described in subsection (i).
 - **(h)**
-  - **(1)** Assistance under this section shall emphasize primarily projects and programs to address critical sectoral priorities for long-term development described in subsection (i) of this section.
+  - **(1)** Assistance under this section shall emphasize primarily projects and programs to address critical sectoral priorities for long-term development described in subsection (i).
   - **(2)**
-    - **(A)** Assistance under this section may also include program assistance to promote reform of sectoral economic policies affecting long-term development in sub-Saharan Africa as described in subsection (c) of this section, with primary emphasis on reform of economic policies to support the critical sectoral priorities described in subsection (i) of this section.
+    - **(A)** Assistance under this section may also include program assistance to promote reform of sectoral economic policies affecting long-term development in sub-Saharan Africa as described in subsection (c), with primary emphasis on reform of economic policies to support the critical sectoral priorities described in subsection (i).
     - **(B)** Assisted policy reforms shall also include provisions to protect vulnerable groups (especially poor, isolated, and female farmers, the urban poor, and children including displaced children) and long-term environmental interests from possible negative consequences of the reforms.
   - **(3)** Assistance under this section may also include program assistance—
     - **(A)** to promote democratization, good governance, and strong civil societies in sub-Saharan Africa; and
     - **(B)** to strengthen conflict resolution capabilities of governmental, intergovernmental, and nongovernmental entities in sub-Saharan Africa.
-  - **(4)** Funds made available to carry out this section shall be used almost exclusively for assistance in accordance with paragraphs (1), (2), and (3). Assistance consistent with the purpose of subsection (c) of this section may also be furnished under this section to carry out the provisions of sections 2151a through 2151d of this title.
-- **(i)** The critical sectoral priorities for long-term development, as described in subsection (c) of this section, are the following:
+  - **(4)** Funds made available to carry out this section shall be used almost exclusively for assistance in accordance with paragraphs (1), (2), and (3). Assistance consistent with the purpose of subsection (c) may also be furnished under this section to carry out the provisions of sections 2151a through 2151d of this title.
+- **(i)** The critical sectoral priorities for long-term development, as described in subsection (c), are the following:
   - **(1)**
     - **(A)** Increasing agricultural production in ways which protect and restore the natural resource base, especially food production, through agricultural policy changes, agricultural research (including participatory research directly involving small farmers) and extension, development and promotion of agriculture marketing activities, credit facilities, and appropriate production packages, and the construction and improvement of needed production-related infrastructure such as farm-to-market roads, small-scale irrigation, and rural electrification. Within this process, emphasis shall be given to promoting increased equity in rural income distribution, recognizing the role of small farmers.
     - **(B)** Maintaining and restoring the renewable natural resource base primarily in ways which increase agricultural production, through the following:
@@ -49,10 +49,10 @@ status: "active"
   - **(4)** Improving the relevance, equity, and efficiency of education, with special emphasis on improving primary education.
   - **(5)** Developing income-generating opportunities for the unemployed and underemployed in urban and rural areas through, among other things, support for off-farm employment opportunities in micro- and small-scale labor-intensive enterprises.
 - **(j)** The Agency for International Development should target the equivalent of 10 percent of the amount authorized to be appropriated for each fiscal year to carry out this part for each of the following:
-  - **(1)** The activities described in subsection (i)(1)(B) of this section, including identifiable components of agricultural production projects.
-  - **(2)** The activities described in subsection (i)(2) of this section.
-  - **(3)** The activities described in subsection (i)(3) of this section.
-- **(k)** Assistance provided under this section shall be concentrated in countries which will make the most effective use of such assistance in order to fulfill the purpose specified in subsection (c) of this section, especially those countries (including those of the Sahel region) having the greatest need for outside assistance.
+  - **(1)** The activities described in subsection (i)(1)(B), including identifiable components of agricultural production projects.
+  - **(2)** The activities described in subsection (i)(2).
+  - **(3)** The activities described in subsection (i)(3).
+- **(k)** Assistance provided under this section shall be concentrated in countries which will make the most effective use of such assistance in order to fulfill the purpose specified in subsection (c), especially those countries (including those of the Sahel region) having the greatest need for outside assistance.
 - **(l)** Assistance under this section shall, to the extent consistent with this section, include assistance to promote the regional and sub­regional integration of African production structures, markets, and infrastructure.
 - **(m)** Funds made available to carry out this section may be used to assist the governments of countries in sub-Saharan Africa to increase their capacity to participate effectively in donor coordination mechanisms at the country, regional, and sector levels.
 - **(n)**

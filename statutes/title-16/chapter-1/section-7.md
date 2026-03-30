@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T04:10:52.830Z"
+generated_at: "2026-03-30T04:13:15.973Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 376 - Support not to affect adversely military preparedness"
 usc_title: 10
 usc_section: "376"
 chapter: 18
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 376"
-generated_at: "2026-03-30T04:10:14.693Z"
+generated_at: "2026-03-30T04:12:46.962Z"
 status: "active"
 ---
 

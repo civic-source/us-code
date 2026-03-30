@@ -3,9 +3,9 @@ title: "Section 18a - Cooperation with travel agencies; publication of informati
 usc_title: 16
 usc_section: "18a"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 18a"
-generated_at: "2026-03-30T04:10:52.713Z"
+generated_at: "2026-03-30T04:13:15.855Z"
 status: "active"
 ---
 

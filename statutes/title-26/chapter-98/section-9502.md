@@ -3,9 +3,9 @@ title: "Section 9502 - Airport and Airway Trust Fund"
 usc_title: 26
 usc_section: "9502"
 chapter: 98
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 9502"
-generated_at: "2026-03-30T04:11:13.915Z"
+generated_at: "2026-03-30T04:13:48.392Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** section 4043 (relating to surtax on fuel used in aircraft part of a fractional ownership program),
     - **(C)** sections 4261 and 4271 (relating to transportation by air), and
     - **(D)** section 4081 with respect to aviation gasoline and kerosene to the extent attributable to the rate specified in section 4081(a)(2)(C), and
-  - **(2)** the amounts determined by the Secretary of the Treasury to be equivalent to the amounts of civil penalties collected under section 47107(n) of title 49 , United States Code.
+  - **(2)** the amounts determined by the Secretary of the Treasury to be equivalent to the amounts of civil penalties collected under section 47107(m) of title 49 , United States Code.
 - **(c)** There are hereby authorized to be appropriated to the Airport and Airway Trust Fund such additional sums as may be required to make the expenditures referred to in subsection (d) of this section.
 - **(d)**
   - **(1)** Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2015 , to meet those obligations of the United States—
@@ -33,7 +33,7 @@ status: "active"
   - **(3)** The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the credits allowed under section 34 (other than payments made by reason of paragraph (4) of section 6427( l )) with respect to fuel used after August 31, 1982 . Such amounts shall be transferred on the basis of estimates by the Secretary of the Treasury, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the credits allowed.
   - **(4)** The amounts payable from the Airport and Airway Trust Fund under paragraph (2) or (3) shall not exceed the amounts required to be appropriated to such Trust Fund with respect to fuel so used.
   - **(5)** The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after December 31, 1995 , under section 6402 (relating to authority to make credits or refunds) or section 6415 (relating to credits or refunds to persons who collected certain taxes) in respect of taxes under sections 4261 and 4271.
-  - **(6)** The Secretary of the Treasury may transfer from the Airport and Airway Trust Fund to the Secretary of Transportation or the Administrator of the Federal Aviation Administration an amount to make a payment to an airport affected by a diversion that is the subject of an administrative action under paragraph (3) or a civil action under paragraph (4) of section 47107(n) of title 49 , United States Code.
+  - **(6)** The Secretary of the Treasury may transfer from the Airport and Airway Trust Fund to the Secretary of Transportation or the Administrator of the Federal Aviation Administration an amount to make a payment to an airport affected by a diversion that is the subject of an administrative action under paragraph (3) or a civil action under paragraph (4) of section 47107(m) of title 49 , United States Code.
 - **(e)**
   - **(1)** Except as provided in paragraph (2), no amount may be appropriated or credited to the Airport and Airway Trust Fund on and after the date of any expenditure from the Airport and Airway Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
     - **(A)** any provision of law which is not contained or referenced in this title or in a revenue Act; and

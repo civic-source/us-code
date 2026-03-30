@@ -3,9 +3,9 @@ title: "Section 2939 - Administrative provisions"
 usc_title: 29
 usc_section: "2939"
 chapter: 30
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "29 U.S.C. § 2939"
-generated_at: "2026-03-30T04:11:07.421Z"
+generated_at: "2026-03-30T04:13:40.922Z"
 status: "active"
 ---
 

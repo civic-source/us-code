@@ -3,9 +3,9 @@ title: "Section 3505 - Effect on other laws"
 usc_title: 33
 usc_section: "3505"
 chapter: 48
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 3505"
-generated_at: "2026-03-30T04:11:17.414Z"
+generated_at: "2026-03-30T04:13:52.365Z"
 status: "active"
 ---
 

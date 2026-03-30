@@ -3,9 +3,9 @@ title: "Section 907 - Railroad hiring"
 usc_title: 45
 usc_section: "907"
 chapter: 18
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "45 U.S.C. § 907"
-generated_at: "2026-03-30T04:11:27.044Z"
+generated_at: "2026-03-30T04:14:02.626Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12753 - Penalties for misuse of funds"
 usc_title: 42
 usc_section: "12753"
 chapter: 130
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 12753"
-generated_at: "2026-03-30T04:11:47.089Z"
+generated_at: "2026-03-30T04:14:16.299Z"
 status: "active"
 ---
 

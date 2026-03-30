@@ -3,9 +3,9 @@ title: "Section 5401to5409 - Repealed. Pub. L. 96–513, title III, § 311(a) , 
 usc_title: 10
 usc_section: "5401to5409"
 chapter: 531
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 5401to5409"
-generated_at: "2026-03-30T04:10:14.835Z"
+generated_at: "2026-03-30T04:12:47.119Z"
 status: "repealed"
 ---
 

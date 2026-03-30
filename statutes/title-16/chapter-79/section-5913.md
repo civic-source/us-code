@@ -3,9 +3,9 @@ title: "Section 5913 - Management development and training"
 usc_title: 16
 usc_section: "5913"
 chapter: 79
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 5913"
-generated_at: "2026-03-30T04:10:53.018Z"
+generated_at: "2026-03-30T04:13:16.160Z"
 status: "active"
 ---
 

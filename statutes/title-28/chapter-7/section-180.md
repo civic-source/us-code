@@ -3,9 +3,9 @@ title: "Section 180 - Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 
 usc_title: 28
 usc_section: "180"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "28 U.S.C. § 180"
-generated_at: "2026-03-30T04:11:05.651Z"
+generated_at: "2026-03-30T04:13:39.599Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2412 - Limitation on foreign assistance appropriations"
 usc_title: 22
 usc_section: "2412"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2412"
-generated_at: "2026-03-30T04:11:00.354Z"
+generated_at: "2026-03-30T04:13:32.097Z"
 status: "active"
 ---
 
@@ -14,5 +14,5 @@ status: "active"
 - **(a)** Notwithstanding any provision of law enacted before January 12, 1971 , no money appropriated for foreign assistance (including foreign military sales) shall be available for obligation or expenditure—
   - **(1)** unless the appropriation thereof has been previously authorized by law; or
   - **(2)** in excess of an amount previously prescribed by law.
-- **(b)** To the extent that legislation enacted after the making of an appropriation for foreign assistance (including foreign military sales) authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) of this section shall have no effect.
+- **(b)** To the extent that legislation enacted after the making of an appropriation for foreign assistance (including foreign military sales) authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) shall have no effect.
 - **(c)** The provisions of this section shall not be superseded except by a provision of law enacted after January 12, 1971 , which specifically repeals or modifies the provisions of this section.

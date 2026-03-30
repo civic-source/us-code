@@ -3,15 +3,15 @@ title: "Section 3425 - Reports to Congress"
 usc_title: 22
 usc_section: "3425"
 chapter: 49
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 3425"
-generated_at: "2026-03-30T04:11:00.384Z"
+generated_at: "2026-03-30T04:13:32.127Z"
 status: "active"
 ---
 
 # § 3425. Reports to Congress
 
-- **(a)** Not later than April 30, 1982 , the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b) of this section.
+- **(a)** Not later than April 30, 1982 , the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b).
 - **(b)** Not later than January 15 of each year (beginning in 1983), the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
   - **(1)** the activities performed by the Multinational Force and Observers during the preceding year;
   - **(2)** the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
@@ -24,5 +24,5 @@ status: "active"
   - **(7)** the results of any discussions with Egypt and Israel regarding the future of the Multinational Force and Observers and its possible reduction or elimination.
 - **(c)**
   - **(1)** The reports required by this section shall be as detailed as possible.
-  - **(2)** The information pursuant to subsection (b)(3) of this section shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
+  - **(2)** The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
   - **(3)** The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.

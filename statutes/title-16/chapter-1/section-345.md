@@ -3,9 +3,9 @@ title: "Section 345 - Administration, protection, and promotion"
 usc_title: 16
 usc_section: "345"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 345"
-generated_at: "2026-03-30T04:10:52.739Z"
+generated_at: "2026-03-30T04:13:15.880Z"
 status: "active"
 ---
 

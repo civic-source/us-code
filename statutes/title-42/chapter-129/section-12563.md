@@ -3,9 +3,9 @@ title: "Section 12563 - Innovative and community-based service-learning programs
 usc_title: 42
 usc_section: "12563"
 chapter: 129
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 12563"
-generated_at: "2026-03-30T04:11:47.069Z"
+generated_at: "2026-03-30T04:14:16.280Z"
 status: "active"
 ---
 

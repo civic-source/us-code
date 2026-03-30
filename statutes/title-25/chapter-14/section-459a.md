@@ -3,9 +3,9 @@ title: "Section 459a - Designation of tribes"
 usc_title: 25
 usc_section: "459a"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 459a"
-generated_at: "2026-03-30T04:11:02.019Z"
+generated_at: "2026-03-30T04:13:28.894Z"
 status: "active"
 ---
 

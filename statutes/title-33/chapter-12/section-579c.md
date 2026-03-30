@@ -3,9 +3,9 @@ title: "Section 579c - Backlog prevention"
 usc_title: 33
 usc_section: "579c"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "33 U.S.C. § 579c"
-generated_at: "2026-03-30T04:11:17.333Z"
+generated_at: "2026-03-30T04:13:52.288Z"
 status: "active"
 ---
 

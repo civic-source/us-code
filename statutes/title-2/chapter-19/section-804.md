@@ -3,9 +3,9 @@ title: "Section 804 - Administration"
 usc_title: 2
 usc_section: "804"
 chapter: 19
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "2 U.S.C. § 804"
-generated_at: "2026-03-30T04:10:05.227Z"
+generated_at: "2026-03-30T04:12:26.460Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** establish such divisions within the Congressional Award Program as may be appropriate; and
   - **(3)** employ and provide for the compensation of such personnel as may be necessary to carry out the Congressional Award Program, subject to such policies as the Board shall prescribe under its bylaws.
 - **(c)**
-  - **(1)** The Director shall, in consultation with the Board, ensure that appropriate procedures for fiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
+  - **(1)** The Director shall, in consultation with the Board, ensure that appropriate policies and procedures for fiscal control and accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
   - **(2)**
-    - **(A)** The Comptroller General of the United States shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the reports submitted under section 807(b) of this title .
+    - **(A)** The independent public accountant conducting the annual audit of the financial records of the Board pursuant to section 807(a) of this title shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the independent public accountant under the preceding sentence shall be included in the reports submitted under section 807(b) of this title .
     - **(B)** If the Director fails to substantially comply with paragraph (1), the Board shall instruct the Director to take such actions as may be necessary to correct such deficiencies, and shall remove and replace the Director if such deficiencies are not promptly corrected.

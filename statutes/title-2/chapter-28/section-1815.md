@@ -3,9 +3,9 @@ title: "Section 1815 - Repealed. Pub. L. 109–58, title I, § 101(c) , Aug. 8, 
 usc_title: 2
 usc_section: "1815"
 chapter: 28
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "2 U.S.C. § 1815"
-generated_at: "2026-03-30T04:10:05.242Z"
+generated_at: "2026-03-30T04:12:26.472Z"
 status: "repealed"
 ---
 

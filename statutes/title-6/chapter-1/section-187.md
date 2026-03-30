@@ -3,18 +3,18 @@ title: "Section 187 - Homeland Security Advanced Research Projects Agency"
 usc_title: 6
 usc_section: "187"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 187"
-generated_at: "2026-03-30T04:10:09.277Z"
+generated_at: "2026-03-30T04:12:34.472Z"
 status: "active"
 ---
 
 # § 187. Homeland Security Advanced Research Projects Agency
 
 - **(a)** In this section:
-  - **(1)** The term “Fund” means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c) of this section.
+  - **(1)** The term “Fund” means the Acceleration Fund for Research and Development of Homeland Security Technologies established in subsection (c).
   - **(2)** The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to, attribution of, and recovery from homeland security threats, particularly acts of terrorism.
-  - **(3)** The term “HSARPA” means the Homeland Security Advanced Research Projects Agency established in subsection (b) of this section.
+  - **(3)** The term “HSARPA” means the Homeland Security Advanced Research Projects Agency established in subsection (b).
   - **(4)** The term “Under Secretary” means the Under Secretary for Science and Technology.
 - **(b)**
   - **(1)** There is established the Homeland Security Advanced Research Projects Agency.

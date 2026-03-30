@@ -3,9 +3,9 @@ title: "Section 500e - Revolving fund; moneys not to be covered into Treasury"
 usc_title: 25
 usc_section: "500e"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 500e"
-generated_at: "2026-03-30T04:11:02.021Z"
+generated_at: "2026-03-30T04:13:28.897Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2182 - Authorization for worldwide shelter guarantees"
 usc_title: 22
 usc_section: "2182"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2182"
-generated_at: "2026-03-30T04:11:00.334Z"
+generated_at: "2026-03-30T04:13:32.076Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(4)** shelter projects for low-income people designed for demonstration or institution building purposes; and
   - **(5)** community facilities and services in support of projects authorized under this section to improve the shelter occupied by the poor.
 - **(c)** In issuing guaranties under this section with respect to projects in a country which require the use or conservation of energy, the President shall give consideration to the use of solar energy technologies, where such technologies are economically and technically feasible. Technologies which may be used include solar hot water systems, solar heating and cooling, passive solar heating, biomass conversion, photovoltaic and wind applications, and community-scale solar thermal applications.
-- **(k)** The total principal amount of guaranties issued under this section for each of the fiscal years 1986 and 1987 shall be comparable to the total principal amount of such guaranties issued for fiscal year 1984, subject to the dollar limitations on the issuance of guaranties under this section which are contained in subsection (a) of this section and in appropriation Acts.
+- **(k)** The total principal amount of guaranties issued under this section for each of the fiscal years 1986 and 1987 shall be comparable to the total principal amount of such guaranties issued for fiscal year 1984, subject to the dollar limitations on the issuance of guaranties under this section which are contained in subsection (a) and in appropriation Acts.

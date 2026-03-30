@@ -3,9 +3,9 @@ title: "Section 300jj - Definitions"
 usc_title: 42
 usc_section: "300jj"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 300jj"
-generated_at: "2026-03-30T04:11:46.445Z"
+generated_at: "2026-03-30T04:14:15.661Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1666f - Inducements to cardholders by sellers of cash discounts 
 usc_title: 15
 usc_section: "1666f"
 chapter: 41
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 1666f"
-generated_at: "2026-03-30T04:10:29.985Z"
+generated_at: "2026-03-30T04:13:07.386Z"
 status: "active"
 ---
 

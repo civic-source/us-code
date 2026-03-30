@@ -3,9 +3,9 @@ title: "Section 40125 - Qualifications for public aircraft status"
 usc_title: 49
 usc_section: "40125"
 chapter: 401
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "49 U.S.C. § 40125"
-generated_at: "2026-03-30T04:11:57.145Z"
+generated_at: "2026-03-30T04:14:45.079Z"
 status: "active"
 ---
 

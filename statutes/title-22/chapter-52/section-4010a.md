@@ -3,9 +3,9 @@ title: "Section 4010a - Reductions in force"
 usc_title: 22
 usc_section: "4010a"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4010a"
-generated_at: "2026-03-30T04:11:00.393Z"
+generated_at: "2026-03-30T04:13:32.137Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(4)** Documented employee performance.
   - **(5)** Military preference, subject to section 3501(a)(3) of title 5 .
 - **(b)** The provisions of section 4009 of this title shall be applicable to any member of the Service holding a career or career candidate appointment under subchapter III of this chapter, who is separated under the provisions of this section.
-- **(c)** An employee against whom action is taken under this section may elect either to file a grievance under subchapter XI of this chapter or to appeal to the Merit Systems Protection Board under procedures prescribed by the Board. Grievances under subchapter XI of this chapter shall be limited to cases of reprisal, interference in the conduct of an employee’s official duties, or similarly inappropriate use of the authority of this section.
+- **(c)** An employee against whom action is taken under this section may elect either to file a grievance under subchapter XI or to appeal to the Merit Systems Protection Board under procedures prescribed by the Board. Grievances under subchapter XI shall be limited to cases of reprisal, interference in the conduct of an employee’s official duties, or similarly inappropriate use of the authority of this section.

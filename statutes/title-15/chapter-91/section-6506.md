@@ -3,9 +3,9 @@ title: "Section 6506 - Review"
 usc_title: 15
 usc_section: "6506"
 chapter: 91
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 6506"
-generated_at: "2026-03-30T04:10:30.069Z"
+generated_at: "2026-03-30T04:13:07.458Z"
 status: "active"
 ---
 

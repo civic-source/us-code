@@ -3,9 +3,9 @@ title: "Section 2430c - Reduction of certain debt"
 usc_title: 22
 usc_section: "2430c"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2430c"
-generated_at: "2026-03-30T04:11:00.357Z"
+generated_at: "2026-03-30T04:13:32.099Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
     - **(A)** A reduction of debt pursuant to this section shall not be considered assistance for purposes of any provision of law limiting assistance to a country.
     - **(B)** The authority of this section may be exercised notwithstanding section 2370(r) of this title or section 321 of the International Development and Food Assistance Act of 1975.
 - **(b)**
-  - **(1)** Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations outstanding as of the date specified in subsection (a)(1) of this section.
+  - **(1)** Any debt reduction pursuant to subsection (a) shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations outstanding as of the date specified in subsection (a)(1).
   - **(2)** The Facility shall notify the agency primarily responsible for administering subchapter I of this chapter of the agreement with an eligible country to exchange a new obligation for outstanding obligations pursuant to this subsection. At the direction of the Facility, the old obligations shall be canceled and a new debt obligation for the country shall be established, and the agency primarily responsible for administering subchapter I of this chapter shall make an adjustment in its accounts to reflect the debt reduction.

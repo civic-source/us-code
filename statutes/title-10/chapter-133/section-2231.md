@@ -3,9 +3,9 @@ title: "Section 2231 - Reference to chapter 1803"
 usc_title: 10
 usc_section: "2231"
 chapter: 133
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 2231"
-generated_at: "2026-03-30T04:10:14.774Z"
+generated_at: "2026-03-30T04:12:47.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3051to3055 - Repealed. Pub. L. 93–29, title II, § 202 , May 3
 usc_title: 42
 usc_section: "3051to3055"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 3051to3055"
-generated_at: "2026-03-30T04:11:46.779Z"
+generated_at: "2026-03-30T04:14:15.993Z"
 status: "repealed"
 ---
 

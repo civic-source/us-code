@@ -3,9 +3,9 @@ title: "Section 3013 - Secretary of the Army"
 usc_title: 10
 usc_section: "3013"
 chapter: 303
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 3013"
-generated_at: "2026-03-30T04:10:14.818Z"
+generated_at: "2026-03-30T04:12:47.104Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31to40 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(2)
 usc_title: 22
 usc_section: "31to40"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 31to40"
-generated_at: "2026-03-30T04:11:00.279Z"
+generated_at: "2026-03-30T04:13:32.019Z"
 status: "repealed"
 ---
 

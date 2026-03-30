@@ -3,9 +3,9 @@ title: "Section 7322 - Breast cancer mammography policy"
 usc_title: 38
 usc_section: "7322"
 chapter: 73
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "38 U.S.C. § 7322"
-generated_at: "2026-03-30T04:11:23.158Z"
+generated_at: "2026-03-30T04:13:59.033Z"
 status: "active"
 ---
 

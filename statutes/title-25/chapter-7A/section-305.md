@@ -3,9 +3,9 @@ title: "Section 305 - Indian Arts and Crafts Board; creation and composition; pe
 usc_title: 25
 usc_section: "305"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 305"
-generated_at: "2026-03-30T04:11:02.003Z"
+generated_at: "2026-03-30T04:13:28.877Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5115 - Repealed. Pub. L. 101–595, title VI, § 603(5)(A) , Nov
 usc_title: 46
 usc_section: "5115"
 chapter: 51
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "46 U.S.C. § 5115"
-generated_at: "2026-03-30T04:11:51.226Z"
+generated_at: "2026-03-30T04:14:20.542Z"
 status: "repealed"
 ---
 

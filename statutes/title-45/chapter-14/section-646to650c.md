@@ -3,9 +3,9 @@ title: "Section 646to650c - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 
 usc_title: 45
 usc_section: "646to650c"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "45 U.S.C. § 646to650c"
-generated_at: "2026-03-30T04:11:27.035Z"
+generated_at: "2026-03-30T04:14:02.617Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 315 - Branches of Government Printing Office; limitations"
 usc_title: 44
 usc_section: "315"
 chapter: 3
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "44 U.S.C. § 315"
-generated_at: "2026-03-30T04:11:25.522Z"
+generated_at: "2026-03-30T04:14:01.263Z"
 status: "active"
 ---
 

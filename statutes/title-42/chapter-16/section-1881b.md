@@ -3,9 +3,9 @@ title: "Section 1881b - Presidential awards for teaching excellence"
 usc_title: 42
 usc_section: "1881b"
 chapter: 16
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 1881b"
-generated_at: "2026-03-30T04:11:46.726Z"
+generated_at: "2026-03-30T04:14:15.940Z"
 status: "active"
 ---
 

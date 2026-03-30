@@ -3,9 +3,9 @@ title: "Section 7621 - Repealed. Pub. L. 110–234, title VII, § 7406(b)(1) , M
 usc_title: 7
 usc_section: "7621"
 chapter: 103
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 7621"
-generated_at: "2026-03-30T04:10:18.610Z"
+generated_at: "2026-03-30T04:12:33.681Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8076to8080 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "8076to8080"
 chapter: 807
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 8076to8080"
-generated_at: "2026-03-30T04:10:14.851Z"
+generated_at: "2026-03-30T04:12:47.135Z"
 status: "repealed"
 ---
 

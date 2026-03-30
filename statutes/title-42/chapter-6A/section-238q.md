@@ -3,9 +3,9 @@ title: "Section 238q - Liability regarding emergency use of automated external d
 usc_title: 42
 usc_section: "238q"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 238q"
-generated_at: "2026-03-30T04:11:46.288Z"
+generated_at: "2026-03-30T04:14:15.505Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Enforcement of nonproliferation treaties"
 usc_title: 22
 usc_section: "2"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T04:11:00.357Z"
+generated_at: "2026-03-30T04:13:32.098Z"
 status: "active"
 ---
 
@@ -13,6 +13,6 @@ status: "active"
 
 - **(a)** It is the sense of the Congress that the President should instruct the United States Permanent Representative to the United Nations to enhance the role of that institution in the enforcement of nonproliferation treaties through the passage of a United Nations Security Council resolution which would state that, any non-nuclear weapon state that is found by the United Nations Security Council, in consultation with the International Atomic Energy Agency (IAEA), to have terminated, abrogated, or materially violated an IAEA full-scope safeguards agreement would be subjected to international economic sanctions, the scope of which to be determined by the United Nations Security Council.
 - **(b)** Notwithstanding any other provision of law, no United States assistance under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] shall be provided to any non-nuclear weapon state that is found by the President to have terminated, abrogated, or materially violated an IAEA full-scope safeguard agreement or materially violated a bilateral United States nuclear cooperation agreement entered into after March 10, 1978 .
-- **(c)** The President may waive the application of subsection (b) of this section if—
+- **(c)** The President may waive the application of subsection (b) if—
   - **(1)** the President determines that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security; and
   - **(2)** the President reports such determination to the Congress at least 15 days in advance of any resumption of assistance to that state.

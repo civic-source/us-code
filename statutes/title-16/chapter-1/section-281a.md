@@ -3,9 +3,9 @@ title: "Section 281a - Designation"
 usc_title: 16
 usc_section: "281a"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 281a"
-generated_at: "2026-03-30T04:10:52.738Z"
+generated_at: "2026-03-30T04:13:15.878Z"
 status: "active"
 ---
 

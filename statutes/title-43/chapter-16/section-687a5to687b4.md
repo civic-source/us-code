@@ -3,9 +3,9 @@ title: "Section 687a5to687b4 - Repealed. Pub. L. 94–579, title VII, § 703(a) 
 usc_title: 43
 usc_section: "687a5to687b4"
 chapter: 16
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 687a5to687b4"
-generated_at: "2026-03-30T04:11:26.663Z"
+generated_at: "2026-03-30T04:14:01.972Z"
 status: "repealed"
 ---
 

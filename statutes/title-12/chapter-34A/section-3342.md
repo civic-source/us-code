@@ -3,9 +3,9 @@ title: "Section 3342 - Transactions requiring services of State certified apprai
 usc_title: 12
 usc_section: "3342"
 chapter: 34
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 3342"
-generated_at: "2026-03-30T04:10:40.756Z"
+generated_at: "2026-03-30T04:12:55.377Z"
 status: "active"
 ---
 

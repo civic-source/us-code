@@ -3,9 +3,9 @@ title: "Section 160ato160f - Repealed. Pub. L. 85–707, § 21(b)(5) , July 7, 1
 usc_title: 50
 usc_section: "160ato160f"
 chapter: 9
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "50 U.S.C. § 160ato160f"
-generated_at: "2026-03-30T04:11:54.448Z"
+generated_at: "2026-03-30T04:14:35.468Z"
 status: "repealed"
 ---
 

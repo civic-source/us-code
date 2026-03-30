@@ -3,9 +3,9 @@ title: "Section 967a - Per capita payments to enrolled tribal members; use of ba
 usc_title: 25
 usc_section: "967a"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 967a"
-generated_at: "2026-03-30T04:11:02.044Z"
+generated_at: "2026-03-30T04:13:28.919Z"
 status: "active"
 ---
 

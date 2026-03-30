@@ -3,9 +3,9 @@ title: "Section 2593a - Annual report to Congress"
 usc_title: 22
 usc_section: "2593a"
 chapter: 35
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2593a"
-generated_at: "2026-03-30T04:11:00.363Z"
+generated_at: "2026-03-30T04:13:32.106Z"
 status: "active"
 ---
 
@@ -24,9 +24,9 @@ status: "active"
     - **(B)** a statement of the compliance policy of the United States with respect to violations of those commitments; and
     - **(C)** what actions, if any, the President has taken or proposes to take to bring any nation committing such a violation into compliance with those commitments; and
   - **(6)** a specific identification, to the maximum extent practicable in unclassified form, of each and every question that exists with respect to compliance by other countries with arms control, nonproliferation, and disarmament agreements with the United States.
-- **(b)** The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
+- **(b)** The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
 - **(c)** If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
-- **(d)** Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995 , until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
+- **(d)** Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) that was contained in a previous report issued under this section during 1995, or after December 31, 1995 , until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 - **(e)** Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.
 - **(f)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and

@@ -3,9 +3,9 @@ title: "Section 2606 - Audits of U.S. funds received by the United Nations High 
 usc_title: 22
 usc_section: "2606"
 chapter: 36
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2606"
-generated_at: "2026-03-30T04:11:00.364Z"
+generated_at: "2026-03-30T04:13:32.107Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 - **(a)** Funds may not be available to the United Nations High Commissioner for Refugees (UNHCR) under this chapter or any other Act unless provision is made for—
   - **(1)** annual program audits to determine the use of UNHCR funds, including the use of such funds by implementing partners; and
   - **(2)** such audits are made available through the Department of State for inspection by the Comptroller General of the United States.
-- **(b)** The first program audit pursuant to subsection (a)(1) of this section shall begin not later than June 1, 1986 .
+- **(b)** The first program audit pursuant to subsection (a)(1) shall begin not later than June 1, 1986 .

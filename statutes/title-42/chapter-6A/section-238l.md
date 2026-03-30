@@ -3,9 +3,9 @@ title: "Section 238l - Recovery"
 usc_title: 42
 usc_section: "238l"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 238l"
-generated_at: "2026-03-30T04:11:46.287Z"
+generated_at: "2026-03-30T04:14:15.504Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 345 - Establishment of Officer for Civil Rights and Civil Libert
 usc_title: 6
 usc_section: "345"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 345"
-generated_at: "2026-03-30T04:10:09.286Z"
+generated_at: "2026-03-30T04:12:34.482Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
     - **(A)** programs, policies, and procedures involving civil rights, civil liberties, and privacy considerations are addressed in an integrated and comprehensive manner; and
     - **(B)** Congress receives appropriate reports regarding such programs, policies, and procedures; and
   - **(6)** investigate complaints and information indicating possible abuses of civil rights or civil liberties, unless the Inspector General of the Department determines that any such complaint or information should be investigated by the Inspector General.
-- **(b)** The Secretary shall submit to the President of the Senate, the Speaker of the House of Representatives, and the appropriate committees and subcommittees of Congress on an annual basis a report on the implementation of this section, including the use of funds appropriated to carry out this section, and detailing any allegations of abuses described under subsection (a)(1) of this section and any actions taken by the Department in response to such allegations.
+- **(b)** The Secretary shall submit to the President of the Senate, the Speaker of the House of Representatives, and the appropriate committees and subcommittees of Congress on an annual basis a report on the implementation of this section, including the use of funds appropriated to carry out this section, and detailing any allegations of abuses described under subsection (a)(1) and any actions taken by the Department in response to such allegations.

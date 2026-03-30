@@ -3,9 +3,9 @@ title: "Section 2220a - General provisions"
 usc_title: 22
 usc_section: "2220a"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2220a"
-generated_at: "2026-03-30T04:11:00.339Z"
+generated_at: "2026-03-30T04:13:32.081Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(5)** expanding learning opportunities about global agriculture for students, teachers, community leaders, entrepreneurs, and the general public through international internships and exchanges, graduate assistantships, faculty positions, and other means of education and extension through long-term recurring Federal funds matched by State funds; and
   - **(6)** competitive grants through universities to United States agriculturalists and public and private partners of universities from other countries for research, institution and policy development, extension, training, and other programs for global agricultural development, trade, and responsible management of natural resources.
 - **(c)** The United States should—
-  - **(1)** effectively involve the United States land-grant and other eligible universities more extensively in each of the program components described in paragraphs (1) through (6) of subsection (b) of this section;
+  - **(1)** effectively involve the United States land-grant and other eligible universities more extensively in each of the program components described in paragraphs (1) through (6) of subsection (b);
   - **(2)** provide mechanisms for the universities and public and private partners of universities to participate and advise in the planning, development, implementation, and administration of each component;
   - **(3)** assist such universities and public and private partners of universities in cooperative joint efforts with—
     - **(A)** agricultural institutions in developing nations;

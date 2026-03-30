@@ -3,9 +3,9 @@ title: "Section 7253d - Program priorities"
 usc_title: 20
 usc_section: "7253d"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 7253d"
-generated_at: "2026-03-30T04:10:46.666Z"
+generated_at: "2026-03-30T04:13:18.705Z"
 status: "active"
 ---
 

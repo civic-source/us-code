@@ -3,9 +3,9 @@ title: "Section 14137a - Grants to States to implement DNA arrestee collection p
 usc_title: 42
 usc_section: "14137a"
 chapter: 136
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 14137a"
-generated_at: "2026-03-30T04:11:47.127Z"
+generated_at: "2026-03-30T04:14:16.336Z"
 status: "active"
 ---
 

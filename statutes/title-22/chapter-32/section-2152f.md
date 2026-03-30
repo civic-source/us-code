@@ -3,9 +3,9 @@ title: "Section 2152f - Assistance for orphans and other vulnerable children"
 usc_title: 22
 usc_section: "2152f"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2152f"
-generated_at: "2026-03-30T04:11:00.333Z"
+generated_at: "2026-03-30T04:13:32.075Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
     - **(D)** Coordinate all United States assistance to orphans and other vulnerable children among United States departments and agencies, including the provision of assistance relating to HIV/AIDS authorized under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 ( Public Law 108–25 ) [ 22 U.S.C. 7601 et seq.], and the amendments made by such Act (including section 102 of such Act, and the amendments made by such section, relating to the coordination of HIV/AIDS programs).
     - **(E)** Establish priorities that promote the delivery of assistance to the most vulnerable populations of orphans and children, particularly in those countries with a high rate of HIV infection among women.
     - **(F)** Disseminate a collection of best practices to field missions of the United States Agency for International Development to guide the development and implementation of programs to assist orphans and vulnerable children.
-    - **(G)** Administer the monitoring and evaluation system established in subsection (d) of this section.
+    - **(G)** Administer the monitoring and evaluation system established in subsection (d).
     - **(H)** Prepare the annual report required by section 2152g of this title .
 - **(f)**
   - **(1)** There is authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2006 and 2007.

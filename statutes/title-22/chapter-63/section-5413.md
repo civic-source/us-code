@@ -3,9 +3,9 @@ title: "Section 5413 - Agricultural assistance"
 usc_title: 22
 usc_section: "5413"
 chapter: 63
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5413"
-generated_at: "2026-03-30T04:11:00.414Z"
+generated_at: "2026-03-30T04:13:32.156Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
 - **(c)** In carrying out subsection (b) of this section, the level of assistance for Poland for fiscal year 1990 under section 1431(b) of title 7 , the Food for Peace Act ( 7 U.S.C. 1691 and following), and section 1736 o of title 7 should not be less than $125,000,000. Such assistance—
   - **(1)** to the maximum extent practicable, shall be provided through nongovernmental organizations; and
   - **(2)** shall emphasize feed grains.
-- **(d)** Subsection (c) of this section should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
+- **(d)** Subsection (c) should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).

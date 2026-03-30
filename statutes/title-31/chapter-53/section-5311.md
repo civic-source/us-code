@@ -3,9 +3,9 @@ title: "Section 5311 - Declaration of purpose"
 usc_title: 31
 usc_section: "5311"
 chapter: 53
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "31 U.S.C. § 5311"
-generated_at: "2026-03-30T04:11:18.682Z"
+generated_at: "2026-03-30T04:13:51.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Training programs for maximum vocational potential for blind
 usc_title: 20
 usc_section: "4"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T04:10:46.505Z"
+generated_at: "2026-03-30T04:13:18.542Z"
 status: "active"
 ---
 

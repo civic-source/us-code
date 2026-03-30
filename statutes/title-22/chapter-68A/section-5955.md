@@ -3,9 +3,9 @@ title: "Section 5955 - Prior notice to Congress of obligation of funds"
 usc_title: 22
 usc_section: "5955"
 chapter: 68
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5955"
-generated_at: "2026-03-30T04:11:00.419Z"
+generated_at: "2026-03-30T04:13:32.162Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** the activities and forms of assistance for which the President plans to obligate such funds;
   - **(2)** the amount of the proposed obligation; and
   - **(3)** the projected involvement of the departments and agencies of the United States Government and the private sector of the United States.
-- **(b)** Any report under subsection (a) of this section that covers proposed demilitarization or conversion projects under paragraph (5) or (6) of section 5952(b) of this title shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
+- **(b)** Any report under subsection (a) that covers proposed demilitarization or conversion projects under paragraph (5) or (6) of section 5952(b) of this title shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
   - **(1)** the facilities to be demilitarized;
   - **(2)** the types of activities conducted at those facilities and of the types of nonmilitary activities planned for those facilities;
   - **(3)** the forms of assistance to be provided by the United States Government and by the private sector of the United States;

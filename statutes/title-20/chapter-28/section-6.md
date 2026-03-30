@@ -3,9 +3,9 @@ title: "Section 6 - Evaluations"
 usc_title: 20
 usc_section: "6"
 chapter: 28
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-03-30T04:10:46.581Z"
+generated_at: "2026-03-30T04:13:18.620Z"
 status: "active"
 ---
 

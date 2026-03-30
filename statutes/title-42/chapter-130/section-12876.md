@@ -3,9 +3,9 @@ title: "Section 12876 - Definitions"
 usc_title: 42
 usc_section: "12876"
 chapter: 130
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 12876"
-generated_at: "2026-03-30T04:11:47.092Z"
+generated_at: "2026-03-30T04:14:16.302Z"
 status: "active"
 ---
 

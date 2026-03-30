@@ -3,9 +3,9 @@ title: "Section 4907 - Federal agencies or instrumentalities"
 usc_title: 26
 usc_section: "4907"
 chapter: 40
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 4907"
-generated_at: "2026-03-30T04:11:13.824Z"
+generated_at: "2026-03-30T04:13:48.300Z"
 status: "active"
 ---
 

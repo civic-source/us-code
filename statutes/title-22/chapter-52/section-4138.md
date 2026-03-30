@@ -3,9 +3,9 @@ title: "Section 4138 - Access to records"
 usc_title: 22
 usc_section: "4138"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4138"
-generated_at: "2026-03-30T04:11:00.403Z"
+generated_at: "2026-03-30T04:13:32.145Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
     - **(A)** The Board shall request access to any agency record which the grievant requests to substantiate the grievance if the Board determines that such record may be relevant and material to the grievance.
     - **(B)** The Board may request access to any other agency record which the Board determines may be relevant and material to the grievance.
   - **(2)** Any agency shall make available to the Board any agency record requested under paragraph (1) unless the head or deputy head of such agency personally certifies in writing to the Board that disclosure of the record to the Board and the grievant would adversely affect the foreign policy or national security of the United States or that such disclosure is prohibited by law. If such a certification is made with respect to any record, the agency shall supply to the Board a summary or extract of such record unless the reasons specified in the preceding sentence preclude such a summary or extract.
-- **(c)** If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) of this section is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
+- **(c)** If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
 - **(d)** In considering a grievance, the Board may take into account the fact that the grievant or the Board was denied access to an agency record which the Board determines is or may be relevant and material to the grievance.
 - **(e)** The grievant in any case decided by the Board shall have access to the record of the proceedings and the decision of the Board.

@@ -3,9 +3,9 @@ title: "Section 5b - Acceptance of amendments to Articles of Agreement of the Fu
 usc_title: 22
 usc_section: "5b"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5b"
-generated_at: "2026-03-30T04:11:00.298Z"
+generated_at: "2026-03-30T04:13:32.040Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6028 - Repealed. Pub. L. 96–513, title III, § 352(b) , Dec. 1
 usc_title: 10
 usc_section: "6028"
 chapter: 555
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 6028"
-generated_at: "2026-03-30T04:10:14.837Z"
+generated_at: "2026-03-30T04:12:47.120Z"
 status: "repealed"
 ---
 

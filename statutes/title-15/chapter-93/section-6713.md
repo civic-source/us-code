@@ -3,9 +3,9 @@ title: "Section 6713 - Title insurance activities of national banks and their af
 usc_title: 15
 usc_section: "6713"
 chapter: 93
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 6713"
-generated_at: "2026-03-30T04:10:30.072Z"
+generated_at: "2026-03-30T04:13:07.461Z"
 status: "active"
 ---
 

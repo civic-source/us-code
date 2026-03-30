@@ -3,9 +3,9 @@ title: "Section 1241 - Control of noxious plants on Government lands; State prog
 usc_title: 43
 usc_section: "1241"
 chapter: 28
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 1241"
-generated_at: "2026-03-30T04:11:26.672Z"
+generated_at: "2026-03-30T04:14:01.981Z"
 status: "active"
 ---
 

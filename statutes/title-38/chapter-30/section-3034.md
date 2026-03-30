@@ -3,9 +3,9 @@ title: "Section 3034 - Program administration"
 usc_title: 38
 usc_section: "3034"
 chapter: 30
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "38 U.S.C. § 3034"
-generated_at: "2026-03-30T04:11:23.124Z"
+generated_at: "2026-03-30T04:13:59.002Z"
 status: "active"
 ---
 

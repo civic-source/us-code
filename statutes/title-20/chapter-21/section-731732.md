@@ -3,9 +3,9 @@ title: "Section 731732 - Repealed. Pub. L. 92–318, title I, § 161(b)(2) , Jun
 usc_title: 20
 usc_section: "731732"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 731732"
-generated_at: "2026-03-30T04:10:46.507Z"
+generated_at: "2026-03-30T04:13:18.544Z"
 status: "repealed"
 ---
 

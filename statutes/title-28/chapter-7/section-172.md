@@ -3,9 +3,9 @@ title: "Section 172 - Tenure and salaries of judges"
 usc_title: 28
 usc_section: "172"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "28 U.S.C. § 172"
-generated_at: "2026-03-30T04:11:05.651Z"
+generated_at: "2026-03-30T04:13:39.599Z"
 status: "active"
 ---
 

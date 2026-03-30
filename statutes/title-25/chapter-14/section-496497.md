@@ -3,9 +3,9 @@ title: "Section 496497 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct.
 usc_title: 25
 usc_section: "496497"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 496497"
-generated_at: "2026-03-30T04:11:02.021Z"
+generated_at: "2026-03-30T04:13:28.896Z"
 status: "repealed"
 ---
 

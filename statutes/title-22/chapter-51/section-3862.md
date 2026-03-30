@@ -3,9 +3,9 @@ title: "Section 3862 - Panama Canal Board of Contract Appeals"
 usc_title: 22
 usc_section: "3862"
 chapter: 51
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 3862"
-generated_at: "2026-03-30T04:11:00.390Z"
+generated_at: "2026-03-30T04:13:32.132Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(3)** the report required by paragraph (1) of section 3554(e) of such title shall be submitted to the Comptroller General as well as the committees listed in such paragraph;
   - **(4)** the report required by paragraph (2) of such section shall be submitted to the Comptroller General as well as Congress; and
   - **(5)** section 3556 of such title shall not apply to the Board, but nothing in this subsection shall affect the right of an interested party to file a protest with the appropriate contracting officer.
-- **(d)** The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c) of this section.
-- **(e)** The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d) of this section.
-- **(f)** The Board shall have jurisdiction under subsections (b) and (c) of this section over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
+- **(d)** The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c).
+- **(e)** The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d).
+- **(f)** The Board shall have jurisdiction under subsections (b) and (c) over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
 - **(g)** The Board may perform functions similar to those described in this section for such other matters or activities of the Commission as the Commission may determine and in accordance with regulations prescribed by the Commission.

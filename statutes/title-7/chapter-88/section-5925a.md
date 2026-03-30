@@ -3,9 +3,9 @@ title: "Section 5925a - Repealed. Pub. L. 113–79, title VII, § 7210 , Feb. 7,
 usc_title: 7
 usc_section: "5925a"
 chapter: 88
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 5925a"
-generated_at: "2026-03-30T04:10:18.573Z"
+generated_at: "2026-03-30T04:12:33.637Z"
 status: "repealed"
 ---
 

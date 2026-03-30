@@ -3,9 +3,9 @@ title: "Section 675 - Small boat station closures"
 usc_title: 14
 usc_section: "675"
 chapter: 17
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "14 U.S.C. § 675"
-generated_at: "2026-03-30T04:10:25.750Z"
+generated_at: "2026-03-30T04:12:56.889Z"
 status: "active"
 ---
 

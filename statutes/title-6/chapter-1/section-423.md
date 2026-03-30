@@ -3,9 +3,9 @@ title: "Section 423 - Increased simplified acquisition threshold for procurement
 usc_title: 6
 usc_section: "423"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 423"
-generated_at: "2026-03-30T04:10:09.287Z"
+generated_at: "2026-03-30T04:12:34.484Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(1)** Section 134 of title 41 .
   - **(2)** Section 153 of title 41 .
   - **(3)** Section 2302(7) of title 10 .
-- **(c)** For a procurement carried out pursuant to subsection (a) of this section, section 644(j) of title 15 shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a) of this section.
+- **(c)** For a procurement carried out pursuant to subsection (a), section 644(j) of title 15 shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a).

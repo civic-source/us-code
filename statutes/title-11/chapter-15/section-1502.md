@@ -3,9 +3,9 @@ title: "Section 1502 - Definitions"
 usc_title: 11
 usc_section: "1502"
 chapter: 15
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "11 U.S.C. § 1502"
-generated_at: "2026-03-30T04:10:21.304Z"
+generated_at: "2026-03-30T04:12:56.318Z"
 status: "active"
 ---
 

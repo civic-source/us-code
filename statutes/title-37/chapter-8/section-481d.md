@@ -3,9 +3,9 @@ title: "Section 481d - Travel and transportation allowances: transportation inci
 usc_title: 37
 usc_section: "481d"
 chapter: 8
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "37 U.S.C. § 481d"
-generated_at: "2026-03-30T04:11:21.620Z"
+generated_at: "2026-03-30T04:13:59.466Z"
 status: "active"
 ---
 

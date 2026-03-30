@@ -3,9 +3,9 @@ title: "Section 82 - Repealed. Pub. L. 112–213, title II, § 216(b) , Dec. 20,
 usc_title: 14
 usc_section: "82"
 chapter: 5
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "14 U.S.C. § 82"
-generated_at: "2026-03-30T04:10:25.744Z"
+generated_at: "2026-03-30T04:12:56.879Z"
 status: "repealed"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 2211b - Monitoring system"
 usc_title: 22
 usc_section: "2211b"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2211b"
-generated_at: "2026-03-30T04:11:00.338Z"
+generated_at: "2026-03-30T04:13:32.079Z"
 status: "active"
 ---
 
 # § 2211b. Monitoring system
 
-- **(a)** In order to maximize the sustainable development impact of assistance authorized under section 2211a(a) of this title , the Administrator of the Agency, acting through the Director of the office, shall strengthen its monitoring system to meet the requirements of subsection (b) of this section.
-- **(b)** The requirements referred to in subsection (a) of this section are the following:
+- **(a)** In order to maximize the sustainable development impact of assistance authorized under section 2211a(a) of this title , the Administrator of the Agency, acting through the Director of the office, shall strengthen its monitoring system to meet the requirements of subsection (b).
+- **(b)** The requirements referred to in subsection (a) are the following:
   - **(1)** The monitoring system shall include performance goals for the assistance and expresses such goals in an objective and quantifiable form, to the extent feasible.
   - **(2)** The monitoring system shall include performance indicators to be used in measuring or assessing the achievement of the performance goals described in paragraph (1) and the objectives of the assistance authorized under section 2211a of this title .
   - **(3)** The monitoring system provides a basis for recommendations for adjustments to the assistance to enhance the sustainability and the impact of the assistance, particularly the impact of such assistance on the very poor, particularly poor women.

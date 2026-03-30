@@ -3,9 +3,9 @@ title: "Section 1955 - Civil penalties"
 usc_title: 12
 usc_section: "1955"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 1955"
-generated_at: "2026-03-30T04:10:40.727Z"
+generated_at: "2026-03-30T04:12:55.342Z"
 status: "active"
 ---
 

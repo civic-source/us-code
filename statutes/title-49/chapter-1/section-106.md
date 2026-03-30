@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-30T04:11:57.069Z"
+generated_at: "2026-03-30T04:14:45.006Z"
 status: "active"
 ---
 
@@ -185,12 +185,7 @@ status: "active"
         - **(IV)** developing rules for the conduct of business.
       - **(ii)** The Committee shall meet at least quarterly and at such other times as the chairperson determines appropriate.
       - **(iii)** Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
-    - **(H)**
-      - **(i)** The Committee shall each year report with respect to the conduct of its responsibilities under this title to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-      - **(ii)** If a determination by the Committee under subparagraph (D)(i) that the organization and operation of the air traffic control system are not allowing the Administration to carry out its mission, the Committee shall report such determination to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-      - **(iii)** Not later than 60 days after the date of a report of the Committee under this subparagraph, the Administrator shall take action with respect to such report. If the Administrator overturns a recommendation of the Committee, the Administrator shall report such action to the President, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-      - **(iv)** Not later than April 30, 2003 , the Comptroller General of the United States shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the success of the Committee in improving the performance of the air traffic control system.
-    - **(I)** There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
+    - **(H)** There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
   - **(8)** In this section, the term “air traffic control system” has the meaning such term has under section 40102(a).
 - **(q)**
   - **(1)** There shall be in the Administration an Aircraft Noise Ombudsman.

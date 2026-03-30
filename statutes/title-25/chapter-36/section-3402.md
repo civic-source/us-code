@@ -3,9 +3,9 @@ title: "Section 3402 - Definitions"
 usc_title: 25
 usc_section: "3402"
 chapter: 36
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 3402"
-generated_at: "2026-03-30T04:11:02.108Z"
+generated_at: "2026-03-30T04:13:28.983Z"
 status: "active"
 ---
 

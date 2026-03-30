@@ -3,20 +3,20 @@ title: "Section 2712 - Authority to control certain terrorism-related services"
 usc_title: 22
 usc_section: "2712"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2712"
-generated_at: "2026-03-30T04:11:00.370Z"
+generated_at: "2026-03-30T04:13:32.112Z"
 status: "active"
 ---
 
 # § 2712. Authority to control certain terrorism-related services
 
-- **(a)** The Secretary of State may, by regulation, impose controls on the provision of the services described in subsection (b) of this section if the Secretary determines that provision of such services would aid and abet international terrorism.
-- **(b)** The services subject to control under subsection (a) of this section are the following:
+- **(a)** The Secretary of State may, by regulation, impose controls on the provision of the services described in subsection (b) if the Secretary determines that provision of such services would aid and abet international terrorism.
+- **(b)** The services subject to control under subsection (a) are the following:
   - **(1)** Serving in or with the security forces of a designated foreign government.
   - **(2)** Providing training or other technical services having a direct military, law enforcement, or intelligence application, to or for the security forces of a designated foreign government.
-- **(c)** These services may be controlled under subsection (a) of this section when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
-- **(d)** In carrying out subsection (a) of this section, the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
+- **(c)** These services may be controlled under subsection (a) when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
+- **(d)** In carrying out subsection (a), the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
 - **(e)**
   - **(1)** As used in this section, the term “designated foreign government” means a foreign government that the Secretary of State has determined, for purposes of section 2405(j)(1) of title 50 , Appendix, has repeatedly provided support for acts of international terrorism.
   - **(2)** As used in this section, the term “security forces” means any military or paramilitary forces, any police or other law enforcement agency (including any police or other law enforcement agency at the regional or local level), and any intelligence agency of a foreign government.

@@ -3,9 +3,9 @@ title: "Section 3 - Regional Rural Investment Boards"
 usc_title: 7
 usc_section: "3"
 chapter: 50
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T04:10:18.513Z"
+generated_at: "2026-03-30T04:12:33.571Z"
 status: "active"
 ---
 
@@ -42,9 +42,8 @@ status: "active"
     - **(B)** develop, and submit to the Secretary for approval, a regional investment strategy that meets the requirements of section 2009dd–4 of this title , with benchmarks—
       - **(i)** to promote investment in rural areas through the use of grants made available under this subchapter; and
       - **(ii)** to provide financial and technical assistance to promote a broad-based regional development program aimed at increasing and diversifying economic growth, improved community facilities, and improved quality of life;
-    - **(C)** implement the approved regional investment strategy;
-    - **(D)** provide annual reports to the Secretary and the National Board on progress made in achieving the benchmarks of the regional investment strategy, including an annual financial statement; and
-    - **(E)** select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
+    - **(C)** implement the approved regional investment strategy; and
+    - **(D)** select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
 - **(b)** A resident of an urban area may serve as an ex-officio member of a Regional Board.
 - **(c)** A Regional Board shall—
   - **(1)** create a collaborative planning process for public-private investment within a region;

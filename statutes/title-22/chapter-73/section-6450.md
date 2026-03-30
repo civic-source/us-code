@@ -3,9 +3,9 @@ title: "Section 6450 - Preclusion of judicial review"
 usc_title: 22
 usc_section: "6450"
 chapter: 73
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6450"
-generated_at: "2026-03-30T04:11:00.429Z"
+generated_at: "2026-03-30T04:13:32.172Z"
 status: "active"
 ---
 

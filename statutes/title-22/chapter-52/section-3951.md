@@ -3,16 +3,16 @@ title: "Section 3951 - United States citizens hired abroad"
 usc_title: 22
 usc_section: "3951"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 3951"
-generated_at: "2026-03-30T04:11:00.392Z"
+generated_at: "2026-03-30T04:13:32.134Z"
 status: "active"
 ---
 
 # § 3951. United States citizens hired abroad
 
 - **(a)** The Secretary, under section 3943 of this title , may appoint United States citizens, who are family members of government employees assigned abroad or are hired for service at their post of residence, for employment in positions customarily filled by Foreign Service officers, Foreign Service personnel, and foreign national employees.
-- **(b)** The fact that an applicant for employment in a position referred to in subsection (a) of this section is a family member of a Government employee assigned abroad shall be considered an affirmative factor in employing such person.
+- **(b)** The fact that an applicant for employment in a position referred to in subsection (a) is a family member of a Government employee assigned abroad shall be considered an affirmative factor in employing such person.
 - **(c)**
   - **(1)** Non-family members employed under this section for service at their post of residence shall be paid in accordance with local compensation plans established under section 3968 of this title .
   - **(2)** Family members employed under this section shall be paid in accordance with the Foreign Service Schedule or the salary rates established under section 3967 of this title .

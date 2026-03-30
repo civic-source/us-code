@@ -3,9 +3,9 @@ title: "Section 3929 - Inspector General"
 usc_title: 22
 usc_section: "3929"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 3929"
-generated_at: "2026-03-30T04:11:00.391Z"
+generated_at: "2026-03-30T04:13:32.133Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** an identification of each significant recommendation described in previous annual reports on which corrective action has not been completed;
     - **(D)** a summary of matters referred to prosecutive authorities and the prosecutions and convictions which have resulted;
     - **(E)** a listing of each audit report completed by the Inspector General during the reporting period; and
-    - **(F)** a notification, which may be included, if necessary, in the classified portion of the report, of any instance in a case that was closed during the period covered by the report when the Inspector General decided not to afford an individual the opportunity described in subsection (c)(5)(B)(i) of this section to refute any allegation and the rationale for denying such individual that opportunity.
+    - **(F)** a notification, which may be included, if necessary, in the classified portion of the report, of any instance in a case that was closed during the period covered by the report when the Inspector General decided not to afford an individual the opportunity described in subsection (c)(5)(B)(i) to refute any allegation and the rationale for denying such individual that opportunity.
   - **(3)** The Inspector General shall report immediately to the Secretary of State whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of activities and operations of Foreign Service posts or bureaus or other operating units of the Department of State. The Secretary of State shall transmit any such report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees within 7 days after receiving it, together with a report by the Secretary of State containing any comments the Secretary of State deems appropriate.
   - **(4)** Nothing in this subsection shall be construed to authorize the public disclosure by any individual of any information which is—
     - **(A)** specifically prohibited from disclosure by any other provision of law; or

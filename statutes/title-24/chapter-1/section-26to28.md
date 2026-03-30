@@ -3,9 +3,9 @@ title: "Section 26to28 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 
 usc_title: 24
 usc_section: "26to28"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "24 U.S.C. § 26to28"
-generated_at: "2026-03-30T04:10:55.990Z"
+generated_at: "2026-03-30T04:13:27.706Z"
 status: "repealed"
 ---
 

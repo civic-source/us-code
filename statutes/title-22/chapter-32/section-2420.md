@@ -3,9 +3,9 @@ title: "Section 2420 - Police training prohibition"
 usc_title: 22
 usc_section: "2420"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2420"
-generated_at: "2026-03-30T04:11:00.355Z"
+generated_at: "2026-03-30T04:13:32.097Z"
 status: "active"
 ---
 
@@ -20,5 +20,5 @@ status: "active"
   - **(5)** with respect to assistance, including training, relating to sanctions monitoring and enforcement;
   - **(6)** with respect to assistance provided to reconstitute civilian police authority and capability in the post-conflict restoration of host nation infrastructure for the purposes of supporting a nation emerging from instability, and the provision of professional public safety training, to include training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy;
   - **(7)** with respect to assistance provided to customs authorities and personnel, including training, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
-- **(c)** Subsection (a) of this section shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern of gross violations of internationally recognized human rights.
-- **(d)** Notwithstanding the prohibition contained in subsection (a) of this section assistance may be provided to Honduras or El Salvador for fiscal years 1986 and 1987 if, at least 30 days before providing assistance, the President notifies the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title , that he has determined that the government of the recipient country has made significant progress, during the preceding six months, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the nonviolent expression of their political views, or prolonged detention without trial. Any such notification shall include a full description of the assistance which is proposed to be provided and of the purposes to which it is to be directed.
+- **(c)** Subsection (a) shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern of gross violations of internationally recognized human rights.
+- **(d)** Notwithstanding the prohibition contained in subsection (a) assistance may be provided to Honduras or El Salvador for fiscal years 1986 and 1987 if, at least 30 days before providing assistance, the President notifies the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title , that he has determined that the government of the recipient country has made significant progress, during the preceding six months, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the nonviolent expression of their political views, or prolonged detention without trial. Any such notification shall include a full description of the assistance which is proposed to be provided and of the purposes to which it is to be directed.

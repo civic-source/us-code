@@ -3,9 +3,9 @@ title: "Section 502 - Award of other medals"
 usc_title: 14
 usc_section: "502"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "14 U.S.C. § 502"
-generated_at: "2026-03-30T04:10:25.747Z"
+generated_at: "2026-03-30T04:12:56.882Z"
 status: "active"
 ---
 

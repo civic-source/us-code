@@ -3,9 +3,9 @@ title: "Section 5153 - Counterfeit currency"
 usc_title: 31
 usc_section: "5153"
 chapter: 51
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "31 U.S.C. § 5153"
-generated_at: "2026-03-30T04:11:18.681Z"
+generated_at: "2026-03-30T04:13:51.346Z"
 status: "active"
 ---
 

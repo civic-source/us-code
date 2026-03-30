@@ -3,9 +3,9 @@ title: "Section 3028 - General Counsel"
 usc_title: 50
 usc_section: "3028"
 chapter: 44
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "50 U.S.C. § 3028"
-generated_at: "2026-03-30T04:11:54.487Z"
+generated_at: "2026-03-30T04:14:35.508Z"
 status: "active"
 ---
 

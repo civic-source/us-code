@@ -3,9 +3,9 @@ title: "Section 21141 - State defined"
 usc_title: 52
 usc_section: "21141"
 chapter: 209
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "52 U.S.C. § 21141"
-generated_at: "2026-03-30T04:12:01.150Z"
+generated_at: "2026-03-30T04:14:49.683Z"
 status: "active"
 ---
 

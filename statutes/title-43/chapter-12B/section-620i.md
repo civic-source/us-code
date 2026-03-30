@@ -3,9 +3,9 @@ title: "Section 620i - Expenditures; units excepted from soil survey and land cl
 usc_title: 43
 usc_section: "620i"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 620i"
-generated_at: "2026-03-30T04:11:26.661Z"
+generated_at: "2026-03-30T04:14:01.970Z"
 status: "active"
 ---
 

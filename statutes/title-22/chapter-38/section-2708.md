@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T04:11:00.369Z"
+generated_at: "2026-03-30T04:13:32.111Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There is established a program for the payment of rewards to carry out the purposes of this section.
   - **(2)** The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, transnational organized crime, and other related criminal acts.
   - **(3)** The rewards program shall be administered by the Secretary of State, in consultation, as appropriate, with the Attorney General.
-- **(b)** In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
+- **(b)** In the sole discretion of the Secretary (except as provided in subsection (c)(2)) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
   - **(1)** the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
   - **(2)** the arrest or conviction in any country of any individual conspiring or attempting to commit an act of international terrorism against a United States person or United States property;
   - **(3)** the arrest or conviction in any country of any individual for committing, primarily outside the territorial jurisdiction of the United States, any narcotics-related offense if that offense involves or is a significant part of conduct that involves—
@@ -51,7 +51,7 @@ status: "active"
   - **(4)** The authority to approve rewards of more than $100,000 set forth in paragraph (2) may not be delegated.
   - **(5)** If the Secretary determines that the identity of the recipient of a reward or of the members of the recipient’s immediate family must be protected, the Secretary may take such measures in connection with the payment of the reward as he considers necessary to effect such protection.
   - **(6)** The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof.
-- **(f)** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) of this section shall not be eligible for a reward under this section.
+- **(f)** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
 - **(g)**
   - **(1)** Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
   - **(2)** Not later than 60 days after the end of each fiscal year, the Secretary shall submit a report to the appropriate congressional committees with respect to the operation of the rewards program. The report shall provide information on the total amounts expended during the fiscal year ending in that year to carry out this section, including amounts expended to publicize the availability of rewards.
@@ -70,7 +70,7 @@ status: "active"
     - **(A)** a spouse, parent, brother, sister, or child of the individual;
     - **(B)** a person with respect to whom the individual stands in loco parentis; and
     - **(C)** any person not covered by subparagraph (A) or (B) who is living in the individual’s household and is related to the individual by blood or marriage.
-  - **(4)** The term “rewards program” means the program established in subsection (a)(1) of this section.
+  - **(4)** The term “rewards program” means the program established in subsection (a)(1).
   - **(5)** The term “transnational organized crime” means—
     - **(A)** racketeering activity (as such term is defined in section 1961 of title 18 ) that involves at least one jurisdiction outside the United States; or
     - **(B)** any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit.

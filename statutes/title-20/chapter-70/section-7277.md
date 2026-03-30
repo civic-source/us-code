@@ -3,9 +3,9 @@ title: "Section 7277 - Grant program authorized"
 usc_title: 20
 usc_section: "7277"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 7277"
-generated_at: "2026-03-30T04:10:46.669Z"
+generated_at: "2026-03-30T04:13:18.708Z"
 status: "active"
 ---
 

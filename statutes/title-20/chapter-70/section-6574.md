@@ -1,17 +1,13 @@
 ---
-title: "Section 6574 - Local educational agency spending audits"
+title: "Section 6574 - Repealed. Pub. L. 113–188, title IX, § 901(a) , Nov. 26, 2014 , 128 Stat. 2020"
 usc_title: 20
 usc_section: "6574"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6574"
-generated_at: "2026-03-30T04:10:46.647Z"
-status: "active"
+generated_at: "2026-03-30T04:13:18.686Z"
+status: "repealed"
 ---
 
-# § 6574. Local educational agency spending audits
+# § 6574. Repealed. Pub. L. 113–188, title IX, § 901(a) , Nov. 26, 2014 , 128 Stat. 2020
 
-- **(a)** The Comptroller General of the United States shall conduct audits of not less than 6 local educational agencies that receive funds under part A of this subchapter in each fiscal year to determine more clearly and specifically how local educational agencies are expending such funds. Such audits—
-  - **(1)** shall be conducted in 6 local educational agencies that represent the size, ethnic, economic, and geographic diversity of local educational agencies; and
-  - **(2)** shall examine the extent to which funds have been expended for academic instruction in the core curriculum and activities unrelated to academic instruction in the core curriculum, such as the payment of janitorial, utility, and other maintenance services, the purchase and lease of vehicles, and the payment for travel and attendance costs at conferences.
-- **(b)** Not later than 3 months after the completion of the audits under subsection (a) of this section each year, the Comptroller General of the United States shall submit a report on each audit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate.

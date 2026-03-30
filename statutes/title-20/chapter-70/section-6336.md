@@ -3,9 +3,9 @@ title: "Section 6336 - Adequacy of funding of targeted grants to local education
 usc_title: 20
 usc_section: "6336"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6336"
-generated_at: "2026-03-30T04:10:46.638Z"
+generated_at: "2026-03-30T04:13:18.677Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7002 - United States-China Economic and Security Review Commissi
 usc_title: 22
 usc_section: "7002"
 chapter: 77
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 7002"
-generated_at: "2026-03-30T04:11:00.436Z"
+generated_at: "2026-03-30T04:13:32.178Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(iv)** make appointments not later than 30 days after the date on which each new Congress convenes;
     - **(G)** members of the Commission may be reappointed for additional terms of service as members of the Commission; and
     - **(H)** members of the Trade Deficit Review Commission as of October 30, 2000 , shall serve as members of the Commission until such time as members are first appointed to the Commission under this paragraph.
-  - **(4)** The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) of this section or to carry out such activities after the commencement of such activities.
+  - **(4)** The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) or to carry out such activities after the commencement of such activities.
   - **(5)** The members of the Commission shall select a Chairman and Vice Chairman of the Commission from among the members of the Commission.
   - **(6)**
     - **(A)** The Commission shall meet at the call of the Chairman of the Commission.

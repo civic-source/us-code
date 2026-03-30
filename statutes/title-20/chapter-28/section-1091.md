@@ -3,9 +3,9 @@ title: "Section 1091 - Student eligibility"
 usc_title: 20
 usc_section: "1091"
 chapter: 28
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 1091"
-generated_at: "2026-03-30T04:10:46.561Z"
+generated_at: "2026-03-30T04:13:18.598Z"
 status: "active"
 ---
 

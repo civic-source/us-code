@@ -3,9 +3,9 @@ title: "Section 1531 - Buying Power Maintenance accounts for International Trade
 usc_title: 15
 usc_section: "1531"
 chapter: 40
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 1531"
-generated_at: "2026-03-30T04:10:29.972Z"
+generated_at: "2026-03-30T04:13:07.375Z"
 status: "active"
 ---
 

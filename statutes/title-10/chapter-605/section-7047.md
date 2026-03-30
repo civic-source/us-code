@@ -3,9 +3,9 @@ title: "Section 7047 - Students at institutions of higher education: admission"
 usc_title: 10
 usc_section: "7047"
 chapter: 605
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 7047"
-generated_at: "2026-03-30T04:10:14.842Z"
+generated_at: "2026-03-30T04:12:47.127Z"
 status: "active"
 ---
 

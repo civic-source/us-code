@@ -3,9 +3,9 @@ title: "Section 6851 - Termination assessments of income tax"
 usc_title: 26
 usc_section: "6851"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 6851"
-generated_at: "2026-03-30T04:11:13.891Z"
+generated_at: "2026-03-30T04:13:48.367Z"
 status: "active"
 ---
 

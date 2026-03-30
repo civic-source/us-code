@@ -3,9 +3,9 @@ title: "Section 2785 - End-use monitoring of defense articles and defense servic
 usc_title: 22
 usc_section: "2785"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2785"
-generated_at: "2026-03-30T04:11:00.377Z"
+generated_at: "2026-03-30T04:13:32.119Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** shall be designed to provide reasonable assurance that—
       - **(i)** the recipient is complying with the requirements imposed by the United States Government with respect to use, transfers, and security of defense articles and defense services; and
       - **(ii)** such articles and services are being used for the purposes for which they are provided.
-- **(b)** In carrying out the program established under subsection (a) of this section, the President shall ensure that the program—
+- **(b)** In carrying out the program established under subsection (a), the President shall ensure that the program—
   - **(1)** provides for the end-use verification of defense articles and defense services that incorporate sensitive technology, defense articles and defense services that are particularly vulnerable to diversion or other misuse, or defense articles or defense services whose diversion or other misuse could have significant consequences; and
   - **(2)** prevents the diversion (through reverse engineering or other means) of technology incorporated in defense articles.
 - **(c)** Not later than 6 months after July 21, 1996 , and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2394 ], the President shall transmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.

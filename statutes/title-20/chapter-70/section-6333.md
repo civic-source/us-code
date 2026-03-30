@@ -3,9 +3,9 @@ title: "Section 6333 - Basic grants to local educational agencies"
 usc_title: 20
 usc_section: "6333"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6333"
-generated_at: "2026-03-30T04:10:46.637Z"
+generated_at: "2026-03-30T04:13:18.676Z"
 status: "active"
 ---
 

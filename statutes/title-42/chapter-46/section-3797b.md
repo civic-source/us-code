@@ -3,9 +3,9 @@ title: "Section 3797b - Applications"
 usc_title: 42
 usc_section: "3797b"
 chapter: 46
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 3797b"
-generated_at: "2026-03-30T04:11:46.809Z"
+generated_at: "2026-03-30T04:14:16.023Z"
 status: "active"
 ---
 

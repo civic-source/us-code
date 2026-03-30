@@ -3,9 +3,9 @@ title: "Section 958 - Organization and transfer of title to legal entity"
 usc_title: 25
 usc_section: "958"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 958"
-generated_at: "2026-03-30T04:11:02.044Z"
+generated_at: "2026-03-30T04:13:28.919Z"
 status: "active"
 ---
 

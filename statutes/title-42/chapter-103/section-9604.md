@@ -3,9 +3,9 @@ title: "Section 9604 - Response authorities"
 usc_title: 42
 usc_section: "9604"
 chapter: 103
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 9604"
-generated_at: "2026-03-30T04:11:46.995Z"
+generated_at: "2026-03-30T04:14:16.207Z"
 status: "active"
 ---
 

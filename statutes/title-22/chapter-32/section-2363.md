@@ -3,9 +3,9 @@ title: "Section 2363 - Accounting, valuation, reporting, and administration of f
 usc_title: 22
 usc_section: "2363"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2363"
-generated_at: "2026-03-30T04:11:00.349Z"
+generated_at: "2026-03-30T04:13:32.091Z"
 status: "active"
 ---
 

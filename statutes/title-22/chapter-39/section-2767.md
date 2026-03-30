@@ -3,9 +3,9 @@ title: "Section 2767 - Authority of President to enter into cooperative projects
 usc_title: 22
 usc_section: "2767"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2767"
-generated_at: "2026-03-30T04:11:00.374Z"
+generated_at: "2026-03-30T04:13:32.117Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
     - **(B)** for concurrent production in the United States and in another member country of a defense article jointly developed in accordance with subparagraph (A); or
     - **(C)** for procurement by the United States of a defense article or defense service from another member country or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization;
-  - **(2)** the term “cooperative project”, in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
+  - **(2)** the term “cooperative project”, in the case of an agreement entered into under subsection (j), means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
     - **(A)** for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
     - **(B)** for concurrent production in the United States and in the country of another participant of a defense article jointly developed in accordance with subparagraph (A); or
     - **(C)** for procurement by the United States of a defense article or defense service from another participant to the agreement; and

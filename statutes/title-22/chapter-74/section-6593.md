@@ -3,9 +3,9 @@ title: "Section 6593 - Assistance programs coordination and oversight"
 usc_title: 22
 usc_section: "6593"
 chapter: 74
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6593"
-generated_at: "2026-03-30T04:11:00.431Z"
+generated_at: "2026-03-30T04:13:32.173Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** Coordination of activities relating to promotion of exports of United States goods and services shall continue to be primarily the responsibility of the Secretary of Commerce.
   - **(3)** Coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury.
   - **(4)** The powers and authorities of the Secretary provided in this part are in addition to the powers and authorities provided to the Secretary under any other Act, including section 101(b) and section 622(c) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151(b) , 2382(c)).
-- **(b)** Coordination activities of the Secretary of State under subsection (a) of this section shall include—
+- **(b)** Coordination activities of the Secretary of State under subsection (a) shall include—
   - **(1)** approving an overall assistance and economic cooperation strategy;
   - **(2)** ensuring program and policy coordination among agencies of the United States Government in carrying out the policies set forth in the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], and other relevant assistance Acts;
   - **(3)** pursuing coordination with other countries and international organizations; and

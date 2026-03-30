@@ -3,9 +3,9 @@ title: "Section 4103 - Certain additional persons liable for tax where willful f
 usc_title: 26
 usc_section: "4103"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 4103"
-generated_at: "2026-03-30T04:11:13.816Z"
+generated_at: "2026-03-30T04:13:48.293Z"
 status: "active"
 ---
 

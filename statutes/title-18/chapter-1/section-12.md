@@ -3,9 +3,9 @@ title: "Section 12 - United States Postal Service defined"
 usc_title: 18
 usc_section: "12"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "18 U.S.C. § 12"
-generated_at: "2026-03-30T04:10:47.737Z"
+generated_at: "2026-03-30T04:13:11.091Z"
 status: "active"
 ---
 

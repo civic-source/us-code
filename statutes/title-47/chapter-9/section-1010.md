@@ -3,9 +3,9 @@ title: "Section 1010 - Reports"
 usc_title: 47
 usc_section: "1010"
 chapter: 9
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "47 U.S.C. § 1010"
-generated_at: "2026-03-30T04:11:51.791Z"
+generated_at: "2026-03-30T04:14:19.617Z"
 status: "active"
 ---
 

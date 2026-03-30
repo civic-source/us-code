@@ -3,13 +3,13 @@ title: "Section 2421b - Capital projects for poverty alleviation and environment
 usc_title: 22
 usc_section: "2421b"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2421b"
-generated_at: "2026-03-30T04:11:00.355Z"
+generated_at: "2026-03-30T04:13:32.098Z"
 status: "active"
 ---
 
 # § 2421b. Capital projects for poverty alleviation and environmental safety and sustainability
 
-- **(a)** The Administrator of AID shall develop a program, in accordance with subsection (b) of this section, that focuses on developmentally sound capital projects for basic infrastructure that will measurably alleviate the worst manifestations of poverty or directly promote environmental safety and sustainability at the community level, taking into consideration development needs of the host country and export opportunities for services and goods from the United States.
-- **(b)** In order to carry out subsection (a) of this section, the Administrator of AID shall, working with AID technical support staff, regional bureau staff, and country missions, identify and provide funding for capital projects to alleviate the worst manifestations of poverty or to promote environmental safety and sustainability at the community level in countries receiving assistance under part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.]. Such projects may include basic sanitation systems, basic water supply and treatment, pollution control, and rural infrastructure benefiting poor communities or establishing environmentally sustainable patterns of rural development. Such projects should have measurable positive effects on indicators of human and environmental health.
+- **(a)** The Administrator of AID shall develop a program, in accordance with subsection (b), that focuses on developmentally sound capital projects for basic infrastructure that will measurably alleviate the worst manifestations of poverty or directly promote environmental safety and sustainability at the community level, taking into consideration development needs of the host country and export opportunities for services and goods from the United States.
+- **(b)** In order to carry out subsection (a), the Administrator of AID shall, working with AID technical support staff, regional bureau staff, and country missions, identify and provide funding for capital projects to alleviate the worst manifestations of poverty or to promote environmental safety and sustainability at the community level in countries receiving assistance under part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.]. Such projects may include basic sanitation systems, basic water supply and treatment, pollution control, and rural infrastructure benefiting poor communities or establishing environmentally sustainable patterns of rural development. Such projects should have measurable positive effects on indicators of human and environmental health.

@@ -3,9 +3,9 @@ title: "Section 4 - Establishment clause unaffected"
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T04:11:46.738Z"
+generated_at: "2026-03-30T04:14:15.952Z"
 status: "active"
 ---
 

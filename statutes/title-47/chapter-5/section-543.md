@@ -3,9 +3,9 @@ title: "Section 543 - Regulation of rates"
 usc_title: 47
 usc_section: "543"
 chapter: 5
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "47 U.S.C. § 543"
-generated_at: "2026-03-30T04:11:51.778Z"
+generated_at: "2026-03-30T04:14:19.605Z"
 status: "active"
 ---
 
@@ -87,9 +87,11 @@ status: "active"
 - **(h)** Within 180 days after October 5, 1992 , the Commission shall, by regulation, establish standards, guidelines, and procedures to prevent evasions, including evasions that result from retiering, of the requirements of this section and shall, thereafter, periodically review and revise such standards, guidelines, and procedures.
 - **(i)** In developing and prescribing regulations pursuant to this section, the Commission shall design such regulations to reduce the administrative burdens and cost of compliance for cable systems that have 1,000 or fewer subscribers.
 - **(j)** During the term of an agreement made before July 1, 1990 , by a franchising authority and a cable operator providing for the regulation of basic cable service rates, where there was not effective competition under Commission rules in effect on that date, nothing in this section (or the regulations thereunder) shall abridge the ability of such franchising authority to regulate rates in accordance with such an agreement.
-- **(k)** The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
-  - **(1)** cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
-  - **(2)** cable systems that the Commission has found are not subject to such effective competition.
+- **(k)**
+  - **(1)** The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
+  - **(2)**
+    - **(A)** The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under section 325 of this title .
+    - **(B)** The Commission shall publish information under this paragraph in a manner substantially similar to the way other comparable information is published in such report.
 - **(l)** As used in this section—
   - **(1)** The term “effective competition” means that—
     - **(A)** fewer than 30 percent of the households in the franchise area subscribe to the cable service of a cable system;
@@ -105,3 +107,7 @@ status: "active"
     - **(B)** a basic service tier that was the only service tier subject to regulation as of December 31, 1994 ,
   - **(2)** For purposes of this subsection, the term “small cable operator” means a cable operator that, directly or through an affiliate, serves in the aggregate fewer than 1 percent of all subscribers in the United States and is not affiliated with any entity or entities whose gross annual revenues in the aggregate exceed $250,000,000.
 - **(n)** Notwithstanding any other provision of this section or of section 532 of this title , losses associated with a cable system (including losses associated with the grant or award of a franchise) that were incurred prior to September 4, 1992 , with respect to a cable system that is owned and operated by the original franchisee of such system shall not be disallowed, in whole or in part, in the determination of whether the rates for any tier of service or any type of equipment that is subject to regulation under this section are lawful.
+- **(o)**
+  - **(1)** Not later than 180 days after December 4, 2014 , the Commission shall complete a rulemaking to establish a streamlined process for filing of an effective competition petition pursuant to this section for small cable operators, particularly those who serve primarily rural areas.
+  - **(2)** Nothing in this subsection shall be construed to have any effect on the duty of a small cable operator to prove the existence of effective competition under this section.
+  - **(3)** In this subsection, the term “small cable operator” has the meaning given the term in subsection (m)(2).

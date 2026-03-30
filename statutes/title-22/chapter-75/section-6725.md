@@ -3,15 +3,15 @@ title: "Section 6725 - Warrants"
 usc_title: 22
 usc_section: "6725"
 chapter: 75
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6725"
-generated_at: "2026-03-30T04:11:00.433Z"
+generated_at: "2026-03-30T04:13:32.175Z"
 status: "active"
 ---
 
 # § 6725. Warrants
 
-- **(a)** The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title . If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
+- **(a)** The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title . If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b), the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
 - **(b)**
   - **(1)** For any routine inspection conducted on the territory of the United States pursuant to Article VI of the Convention, where consent has been withheld, the United States Government shall first obtain an administrative search warrant from a judge of the United States. The United States Government shall provide to the judge of the United States all appropriate information supplied by the Technical Secretariat to the United States National Authority regarding the basis for the selection of the plant site, plant, or other facility or location for the type of inspection sought. The United States Government shall also provide any other appropriate information available to it relating to the reasonableness of the selection of the plant, plant site, or other facility or location for the inspection.
   - **(2)** The judge of the United States shall promptly issue a warrant authorizing the requested inspection upon an affidavit submitted by the United States Government showing that—

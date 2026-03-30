@@ -3,9 +3,9 @@ title: "Section 292l - Determination of eligible students"
 usc_title: 42
 usc_section: "292l"
 chapter: 6
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 292l"
-generated_at: "2026-03-30T04:11:46.370Z"
+generated_at: "2026-03-30T04:14:15.588Z"
 status: "active"
 ---
 

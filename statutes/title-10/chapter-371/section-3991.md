@@ -3,9 +3,9 @@ title: "Section 3991 - Computation of retired pay"
 usc_title: 10
 usc_section: "3991"
 chapter: 371
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 3991"
-generated_at: "2026-03-30T04:10:14.825Z"
+generated_at: "2026-03-30T04:12:47.109Z"
 status: "active"
 ---
 

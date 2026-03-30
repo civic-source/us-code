@@ -3,9 +3,9 @@ title: "Section 1148a - Repealed. Pub. L. 92–181, title V, § 5 .26(a), Dec. 1
 usc_title: 12
 usc_section: "1148a"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "12 U.S.C. § 1148a"
-generated_at: "2026-03-30T04:10:40.626Z"
+generated_at: "2026-03-30T04:12:55.224Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2761 - Sales from stocks"
 usc_title: 22
 usc_section: "2761"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2761"
-generated_at: "2026-03-30T04:11:00.373Z"
+generated_at: "2026-03-30T04:13:32.116Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
   - **(3)**
     - **(A)** The foreign government or international organization receiving a new or repaired defense article in exchange for a repairable defense article pursuant to paragraph (1) shall, upon the acceptance by the United States Government of the repairable defense article being returned, be charged the total cost associated with the repair and replacement transaction.
     - **(B)** The total cost charged pursuant to subparagraph (A) shall be the same as that charged the United States Armed Forces for a similar repair and replacement transaction, plus an administrative surcharge in accordance with subsection (e)(1)(A) of this section.
-  - **(4)** The authority of the President to accept the return of a repairable defense article as provided in subsection (a) of this section shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+  - **(4)** The authority of the President to accept the return of a repairable defense article as provided in subsection (a) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 - **(m)**
   - **(1)** The President may accept the return of a defense article from a foreign country or international organization if such defense article—
     - **(A)** previously was transferred to such country or organization under this chapter;

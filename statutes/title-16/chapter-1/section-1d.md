@@ -3,9 +3,9 @@ title: "Section 1d - Appropriations"
 usc_title: 16
 usc_section: "1d"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "16 U.S.C. § 1d"
-generated_at: "2026-03-30T04:10:52.711Z"
+generated_at: "2026-03-30T04:13:15.853Z"
 status: "active"
 ---
 

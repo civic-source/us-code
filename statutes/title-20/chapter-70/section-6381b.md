@@ -3,9 +3,9 @@ title: "Section 6381b - State educational agency programs"
 usc_title: 20
 usc_section: "6381b"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6381b"
-generated_at: "2026-03-30T04:10:46.641Z"
+generated_at: "2026-03-30T04:13:18.680Z"
 status: "active"
 ---
 

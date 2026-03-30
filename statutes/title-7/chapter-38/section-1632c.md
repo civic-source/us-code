@@ -3,9 +3,9 @@ title: "Section 1632c - Acer access and development program"
 usc_title: 7
 usc_section: "1632c"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 1632c"
-generated_at: "2026-03-30T04:10:18.476Z"
+generated_at: "2026-03-30T04:12:33.537Z"
 status: "active"
 ---
 

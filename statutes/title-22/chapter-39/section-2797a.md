@@ -3,9 +3,9 @@ title: "Section 2797a - Denial of transfer of missile equipment or technology by
 usc_title: 22
 usc_section: "2797a"
 chapter: 39
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2797a"
-generated_at: "2026-03-30T04:11:00.377Z"
+generated_at: "2026-03-30T04:13:32.120Z"
 status: "active"
 ---
 
@@ -23,8 +23,8 @@ status: "active"
     - **(B)** If the item on the MTCR Annex involved in the export, transfer, or trade is missile equipment or technology within category I of the MTCR, then the President shall deny to such United States person for a period of not less than 2 years—
       - **(i)** all United States Government contracts, and
       - **(ii)** all export licenses and agreements for items on the United States Munitions List.
-- **(b)** In the case of any determination made pursuant to subsection (a) of this section, the President may pursue any penalty provided in section 2778(c) of this title .
-- **(c)** In determining whether to apply sanctions under subsection (a) of this section to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) 1 1 So in original. Probably should be preceded by “section”. of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
-- **(d)** The President may waive the imposition of sanctions under subsection (a) of this section with respect to a product or service if the President certifies to the Congress that—
+- **(b)** In the case of any determination made pursuant to subsection (a), the President may pursue any penalty provided in section 2778(c) of this title .
+- **(c)** In determining whether to apply sanctions under subsection (a) to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) 1 1 So in original. Probably should be preceded by “section”. of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+- **(d)** The President may waive the imposition of sanctions under subsection (a) with respect to a product or service if the President certifies to the Congress that—
   - **(1)** the product or service is essential to the national security of the United States; and
   - **(2)** such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.

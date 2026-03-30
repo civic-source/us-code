@@ -3,9 +3,9 @@ title: "Section 4601to4603 - Repealed. Pub. L. 87–456, title III, § 302(d) , 
 usc_title: 26
 usc_section: "4601to4603"
 chapter: 38
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 4601to4603"
-generated_at: "2026-03-30T04:11:13.821Z"
+generated_at: "2026-03-30T04:13:48.298Z"
 status: "repealed"
 ---
 

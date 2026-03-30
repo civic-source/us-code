@@ -3,9 +3,9 @@ title: "Section 2152h - Assistance to provide safe water and sanitation"
 usc_title: 22
 usc_section: "2152h"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2152h"
-generated_at: "2026-03-30T04:11:00.333Z"
+generated_at: "2026-03-30T04:13:32.076Z"
 status: "active"
 ---
 
@@ -20,8 +20,8 @@ status: "active"
   - **(6)** to promote long-term sustainability in the affordable and equitable provision of access to safe water and sanitation through the creation of innovative financing mechanisms such as national revolving funds, and by strengthening the capacity of recipient governments and communities to formulate and implement policies that expand access to safe water and sanitation in a sustainable fashion, including integrated planning;
   - **(7)** to secure the greatest amount of resources possible, encourage private investment in water and sanitation infrastructure and services, particularly in lower middle-income countries, without creating unsustainable debt for low-income countries or unaffordable water and sanitation costs for the very poor; and
   - **(8)** to promote the capacity of recipient governments to provide affordable, equitable, and sustainable access to safe water and sanitation.
-- **(b)** To carry out the purposes of subsection (a) of this section, the President is authorized to furnish assistance for programs in developing countries to provide affordable and equitable access to safe water and sanitation.
-- **(c)** Assistance provided under subsection (b) of this section shall, to the maximum extent practicable, be used to—
+- **(b)** To carry out the purposes of subsection (a), the President is authorized to furnish assistance for programs in developing countries to provide affordable and equitable access to safe water and sanitation.
+- **(c)** Assistance provided under subsection (b) shall, to the maximum extent practicable, be used to—
   - **(1)** expand affordable and equitable access to safe water and sanitation for underserved populations;
   - **(2)** support the design, construction, maintenance, upkeep, repair, and operation of water delivery and sanitation systems;
   - **(3)** improve the safety and reliability of water supplies, including environmental management; and

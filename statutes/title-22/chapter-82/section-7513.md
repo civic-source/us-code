@@ -3,9 +3,9 @@ title: "Section 7513 - Authorization of assistance"
 usc_title: 22
 usc_section: "7513"
 chapter: 82
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 7513"
-generated_at: "2026-03-30T04:11:00.442Z"
+generated_at: "2026-03-30T04:13:32.185Z"
 status: "active"
 ---
 
@@ -97,7 +97,7 @@ status: "active"
       - **(ii)** $5,000,000 is authorized to be appropriated to the President to be made available to the National Human Rights Commission of Afghanistan.
     - **(C)** Amounts made available under subparagraph (B) are in addition to amounts otherwise available for such purposes.
 - **(b)**
-  - **(1)** Amounts made available to carry out this subchapter (except amounts made available for assistance under paragraphs (1) through (3) and subparagraphs (F) through (I) of paragraph (4) of subsection (a) of this section) may be provided only if the President first determines and certifies to Congress with respect to the fiscal year involved that progress is being made toward adopting a constitution and establishing a democratically elected government for Afghanistan that respects human rights.
+  - **(1)** Amounts made available to carry out this subchapter (except amounts made available for assistance under paragraphs (1) through (3) and subparagraphs (F) through (I) of paragraph (4) of subsection (a)) may be provided only if the President first determines and certifies to Congress with respect to the fiscal year involved that progress is being made toward adopting a constitution and establishing a democratically elected government for Afghanistan that respects human rights.
   - **(2)**
     - **(A)** The President may waive the application of paragraph (1) if the President first determines and certifies to Congress that it is important to the national interest of the United States to do so.
     - **(B)** A certification transmitted to Congress under subparagraph (A) shall include a written explanation of the basis for the determination of the President to waive the application of paragraph (1).

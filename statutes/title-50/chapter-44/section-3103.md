@@ -3,9 +3,9 @@ title: "Section 3103 - Future budget projections"
 usc_title: 50
 usc_section: "3103"
 chapter: 44
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "50 U.S.C. § 3103"
-generated_at: "2026-03-30T04:11:54.493Z"
+generated_at: "2026-03-30T04:14:35.514Z"
 status: "active"
 ---
 

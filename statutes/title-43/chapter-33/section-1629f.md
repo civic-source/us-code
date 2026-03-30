@@ -3,9 +3,9 @@ title: "Section 1629f - Claims arising from contamination of transferred lands"
 usc_title: 43
 usc_section: "1629f"
 chapter: 33
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "43 U.S.C. § 1629f"
-generated_at: "2026-03-30T04:11:26.692Z"
+generated_at: "2026-03-30T04:14:01.999Z"
 status: "active"
 ---
 

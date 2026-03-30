@@ -3,9 +3,9 @@ title: "Section 25 - Periodic estimate of incidence and prevalence of youth home
 usc_title: 42
 usc_section: "25"
 chapter: 72
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-30T04:11:46.863Z"
+generated_at: "2026-03-30T04:14:16.076Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 612 - Notification"
 usc_title: 21
 usc_section: "612"
 chapter: 12
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "21 U.S.C. § 612"
-generated_at: "2026-03-30T04:10:57.048Z"
+generated_at: "2026-03-30T04:13:36.089Z"
 status: "active"
 ---
 

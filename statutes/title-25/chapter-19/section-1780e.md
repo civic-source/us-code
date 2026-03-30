@@ -3,9 +3,9 @@ title: "Section 1780e - Land ownership adjustments"
 usc_title: 25
 usc_section: "1780e"
 chapter: 19
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 1780e"
-generated_at: "2026-03-30T04:11:02.083Z"
+generated_at: "2026-03-30T04:13:28.956Z"
 status: "active"
 ---
 

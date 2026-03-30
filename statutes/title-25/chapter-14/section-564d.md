@@ -3,9 +3,9 @@ title: "Section 564d - Management specialists"
 usc_title: 25
 usc_section: "564d"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 564d"
-generated_at: "2026-03-30T04:11:02.023Z"
+generated_at: "2026-03-30T04:13:28.898Z"
 status: "active"
 ---
 

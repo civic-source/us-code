@@ -3,9 +3,9 @@ title: "Section 2399d - Shipping differential"
 usc_title: 22
 usc_section: "2399d"
 chapter: 32
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 2399d"
-generated_at: "2026-03-30T04:11:00.354Z"
+generated_at: "2026-03-30T04:13:32.097Z"
 status: "active"
 ---
 

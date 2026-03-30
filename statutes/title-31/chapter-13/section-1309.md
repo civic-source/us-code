@@ -3,9 +3,9 @@ title: "Section 1309 - Social security tax"
 usc_title: 31
 usc_section: "1309"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "31 U.S.C. § 1309"
-generated_at: "2026-03-30T04:11:18.663Z"
+generated_at: "2026-03-30T04:13:51.328Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12317 - Reserves: theological students; limitations"
 usc_title: 10
 usc_section: "12317"
 chapter: 1209
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 12317"
-generated_at: "2026-03-30T04:10:14.867Z"
+generated_at: "2026-03-30T04:12:47.153Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9201 - Purpose"
 usc_title: 20
 usc_section: "9201"
 chapter: 73
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 9201"
-generated_at: "2026-03-30T04:10:46.687Z"
+generated_at: "2026-03-30T04:13:18.726Z"
 status: "active"
 ---
 

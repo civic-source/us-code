@@ -3,9 +3,9 @@ title: "Section 497 - Honorable subsequent service as condition to award"
 usc_title: 14
 usc_section: "497"
 chapter: 13
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "14 U.S.C. § 497"
-generated_at: "2026-03-30T04:10:25.746Z"
+generated_at: "2026-03-30T04:12:56.882Z"
 status: "active"
 ---
 

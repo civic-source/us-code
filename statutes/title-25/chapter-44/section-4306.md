@@ -3,9 +3,9 @@ title: "Section 4306 - Report to Congress"
 usc_title: 25
 usc_section: "4306"
 chapter: 44
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 4306"
-generated_at: "2026-03-30T04:11:02.121Z"
+generated_at: "2026-03-30T04:13:28.994Z"
 status: "active"
 ---
 

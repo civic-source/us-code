@@ -3,9 +3,9 @@ title: "Section 10222 - Nuclear Waste Fund"
 usc_title: 42
 usc_section: "10222"
 chapter: 108
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 10222"
-generated_at: "2026-03-30T04:11:47.031Z"
+generated_at: "2026-03-30T04:14:16.244Z"
 status: "active"
 ---
 

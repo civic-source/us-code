@@ -3,9 +3,9 @@ title: "Section 9a - Child health quality measures"
 usc_title: 42
 usc_section: "9a"
 chapter: 7
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-30T04:11:46.516Z"
+generated_at: "2026-03-30T04:14:15.731Z"
 status: "active"
 ---
 

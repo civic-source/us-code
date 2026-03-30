@@ -3,9 +3,9 @@ title: "Section 2201 - Definitions"
 usc_title: 44
 usc_section: "2201"
 chapter: 22
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "44 U.S.C. § 2201"
-generated_at: "2026-03-30T04:11:25.528Z"
+generated_at: "2026-03-30T04:14:01.270Z"
 status: "active"
 ---
 
@@ -13,9 +13,9 @@ status: "active"
 
 As used in this chapter—
 
-  - **(1)** The term “documentary material” means all books, correspondence, memorandums, documents, papers, pamphlets, works of art, models, pictures, photographs, plats, maps, films, and motion pictures, including, but not limited to, audio, audiovisual, or other electronic or mechanical recordations.
-  - **(2)** The term “Presidential records” means documentary materials, or any reasonably seg­regable portion thereof, created or received by the President, his immediate staff, or a unit or individual of the Executive Office of the President whose function is to advise and assist the President, in the course of conducting activities which relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term—
-    - **(A)** includes any documentary materials relating to the political activities of the President or members of his staff, but only if such activities relate to or have a direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; but
+  - **(1)** The term “documentary material” means all books, correspondence, memoranda, documents, papers, pamphlets, works of art, models, pictures, photographs, plats, maps, films, and motion pictures, including, but not limited to, audio and visual records, or other electronic or mechanical recordations, whether in analog, digital, or any other form.
+  - **(2)** The term “Presidential records” means documentary materials, or any reasonably seg­regable portion thereof, created or received by the President, the President’s immediate staff, or a unit or individual of the Executive Office of the President whose function is to advise or assist the President, in the course of conducting activities which relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term—
+    - **(A)** includes any documentary materials relating to the political activities of the President or members of the President’s staff, but only if such activities relate to or have a direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; but
     - **(B)** does not include any documentary materials that are (i) official records of an agency (as defined in section 552(e) 1 1 See References in Text note below. of title 5, United States Code); (ii) personal records; (iii) stocks of publications and stationery; or (iv) extra copies of documents produced only for convenience of reference, when such copies are clearly so identified.
   - **(3)** The term “personal records” means all documentary materials, or any reasonably segregable portion therof, 2 2 So in original. Probably should be “thereof,”. of a purely private or nonpublic character which do not relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term includes—
     - **(A)** diaries, journals, or other personal notes serving as the functional equivalent of a diary or journal which are not prepared or utilized for, or circulated or communicated in the course of, transacting Government business;

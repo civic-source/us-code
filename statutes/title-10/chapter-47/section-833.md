@@ -3,9 +3,9 @@ title: "Section 833 - Art. 33. Forwarding of charges"
 usc_title: 10
 usc_section: "833"
 chapter: 47
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 833"
-generated_at: "2026-03-30T04:10:14.709Z"
+generated_at: "2026-03-30T04:12:46.982Z"
 status: "active"
 ---
 

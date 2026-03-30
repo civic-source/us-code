@@ -3,9 +3,9 @@ title: "Section 6681 - Repealed. Pub. L. 94–455, title XIX, § 1904(b)(10)(D)(
 usc_title: 26
 usc_section: "6681"
 chapter: 68
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "26 U.S.C. § 6681"
-generated_at: "2026-03-30T04:11:13.887Z"
+generated_at: "2026-03-30T04:13:48.363Z"
 status: "repealed"
 ---
 

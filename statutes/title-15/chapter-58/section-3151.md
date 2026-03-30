@@ -3,9 +3,9 @@ title: "Section 3151 - Nondiscrimination"
 usc_title: 15
 usc_section: "3151"
 chapter: 58
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "15 U.S.C. § 3151"
-generated_at: "2026-03-30T04:10:30.039Z"
+generated_at: "2026-03-30T04:13:07.432Z"
 status: "active"
 ---
 

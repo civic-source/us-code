@@ -3,9 +3,9 @@ title: "Section 3781 - Repealed. Pub. L. 98–473, title II, § 609B(a) , Oct. 1
 usc_title: 42
 usc_section: "3781"
 chapter: 46
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 3781"
-generated_at: "2026-03-30T04:11:46.800Z"
+generated_at: "2026-03-30T04:14:16.013Z"
 status: "repealed"
 ---
 

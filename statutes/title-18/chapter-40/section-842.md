@@ -3,9 +3,9 @@ title: "Section 842 - Unlawful acts"
 usc_title: 18
 usc_section: "842"
 chapter: 40
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "18 U.S.C. § 842"
-generated_at: "2026-03-30T04:10:47.757Z"
+generated_at: "2026-03-30T04:13:11.106Z"
 status: "active"
 ---
 

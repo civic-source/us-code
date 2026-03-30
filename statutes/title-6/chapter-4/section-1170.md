@@ -3,9 +3,9 @@ title: "Section 1170 - Security background checks of covered individuals"
 usc_title: 6
 usc_section: "1170"
 chapter: 4
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "6 U.S.C. § 1170"
-generated_at: "2026-03-30T04:10:09.307Z"
+generated_at: "2026-03-30T04:12:34.507Z"
 status: "active"
 ---
 

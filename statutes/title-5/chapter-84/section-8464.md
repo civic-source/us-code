@@ -3,9 +3,9 @@ title: "Section 8464 - Commencement and termination of annuities of employees an
 usc_title: 5
 usc_section: "8464"
 chapter: 84
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "5 U.S.C. § 8464"
-generated_at: "2026-03-30T04:10:07.275Z"
+generated_at: "2026-03-30T04:12:20.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1642i - Certification of awards"
 usc_title: 22
 usc_section: "1642i"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 1642i"
-generated_at: "2026-03-30T04:11:00.320Z"
+generated_at: "2026-03-30T04:13:32.063Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1831to1834 - Repealed. Pub. L. 85–141, § 3 , Aug. 14, 1957 , 
 usc_title: 22
 usc_section: "1831to1834"
 chapter: 24
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 1831to1834"
-generated_at: "2026-03-30T04:11:00.323Z"
+generated_at: "2026-03-30T04:13:32.065Z"
 status: "repealed"
 ---
 

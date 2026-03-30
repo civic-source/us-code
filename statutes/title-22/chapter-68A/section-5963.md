@@ -3,9 +3,9 @@ title: "Section 5963 - Authority to use Cooperative Threat Reduction funds outsi
 usc_title: 22
 usc_section: "5963"
 chapter: 68
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 5963"
-generated_at: "2026-03-30T04:11:00.420Z"
+generated_at: "2026-03-30T04:13:32.163Z"
 status: "active"
 ---
 
@@ -18,13 +18,13 @@ status: "active"
       - **(ii)** permit the United States to take advantage of opportunities to achieve long-standing nonproliferation goals; and
     - **(B)** be completed in a short period of time.
   - **(2)** That the Department of Defense is the entity of the Federal Government that is most capable of carrying out such project or activity.
-- **(b)** The authority in subsection (a) of this section to obligate and expend funds for a project or activity includes authority to provide equipment, goods, and services for such project or activity utilizing such funds, but does not include authority to provide cash directly to such project or activity.
+- **(b)** The authority in subsection (a) to obligate and expend funds for a project or activity includes authority to provide equipment, goods, and services for such project or activity utilizing such funds, but does not include authority to provide cash directly to such project or activity.
 - **(c)**
   - **(1)** The Secretary of Defense may not obligate funds for a project or activity under the authority in subsection (a) of this section until the Secretary of Defense, with the concurrence of the Secretary of State, makes each determination specified in that subsection with respect to such project or activity.
   - **(2)** Not later than 10 days after obligating funds under the authority in subsection (a) of this section for a project or activity, the Secretary of Defense and the Secretary of State shall notify Congress in writing of the determinations made under paragraph (1) with respect to such project or activity, together with—
     - **(A)** a justification for such determinations; and
     - **(B)** a description of the scope and duration of such project or activity.
-- **(d)** Except as otherwise provided in subsections (a) and (b) of this section, the exercise of the authority in subsection (a) of this section shall be subject to any requirement or limitation under another provision of law as follows:
+- **(d)** Except as otherwise provided in subsections (a) and (b), the exercise of the authority in subsection (a) shall be subject to any requirement or limitation under another provision of law as follows:
   - **(1)** Any requirement for prior notice or other reports to Congress on the use of Cooperative Threat Reduction funds or on Cooperative Threat Reduction projects or activities.
   - **(2)** Any limitation on the obligation or expenditure of Cooperative Threat Reduction funds.
   - **(3)** Any limitation on Cooperative Threat Reduction projects or activities.

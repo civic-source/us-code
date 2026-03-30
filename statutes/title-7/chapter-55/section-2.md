@@ -3,9 +3,9 @@ title: "Section 2 - Report of civil rights complaints, resolutions, and actions"
 usc_title: 7
 usc_section: "2"
 chapter: 55
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T04:10:18.537Z"
+generated_at: "2026-03-30T04:12:33.595Z"
 status: "active"
 ---
 

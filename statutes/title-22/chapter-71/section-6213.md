@@ -3,9 +3,9 @@ title: "Section 6213 - Definitions"
 usc_title: 22
 usc_section: "6213"
 chapter: 71
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 6213"
-generated_at: "2026-03-30T04:11:00.426Z"
+generated_at: "2026-03-30T04:13:32.169Z"
 status: "active"
 ---
 

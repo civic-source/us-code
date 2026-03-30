@@ -3,9 +3,9 @@ title: "Section 7730 - Evidence admissible when witness is not available"
 usc_title: 10
 usc_section: "7730"
 chapter: 657
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 7730"
-generated_at: "2026-03-30T04:10:14.849Z"
+generated_at: "2026-03-30T04:12:47.133Z"
 status: "active"
 ---
 

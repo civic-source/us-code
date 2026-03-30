@@ -3,9 +3,9 @@ title: "Section 1972 - Transferred"
 usc_title: 42
 usc_section: "1972"
 chapter: 20
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 1972"
-generated_at: "2026-03-30T04:11:46.731Z"
+generated_at: "2026-03-30T04:14:15.945Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1516 - Funding"
 usc_title: 7
 usc_section: "1516"
 chapter: 36
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 1516"
-generated_at: "2026-03-30T04:10:18.468Z"
+generated_at: "2026-03-30T04:12:33.529Z"
 status: "active"
 ---
 

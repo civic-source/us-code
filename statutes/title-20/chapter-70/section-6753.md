@@ -3,9 +3,9 @@ title: "Section 6753 - Definitions"
 usc_title: 20
 usc_section: "6753"
 chapter: 70
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 6753"
-generated_at: "2026-03-30T04:10:46.651Z"
+generated_at: "2026-03-30T04:13:18.690Z"
 status: "active"
 ---
 

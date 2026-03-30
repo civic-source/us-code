@@ -3,9 +3,9 @@ title: "Section 104 - Independent establishment"
 usc_title: 5
 usc_section: "104"
 chapter: 1
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "5 U.S.C. § 104"
-generated_at: "2026-03-30T04:10:07.207Z"
+generated_at: "2026-03-30T04:12:20.399Z"
 status: "active"
 ---
 

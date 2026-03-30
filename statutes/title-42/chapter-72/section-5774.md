@@ -3,9 +3,9 @@ title: "Section 5774 - Repealed. Pub. L. 100–690, title VII, § 7286 , Nov. 18
 usc_title: 42
 usc_section: "5774"
 chapter: 72
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 5774"
-generated_at: "2026-03-30T04:11:46.864Z"
+generated_at: "2026-03-30T04:14:16.077Z"
 status: "repealed"
 ---
 

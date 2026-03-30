@@ -3,9 +3,9 @@ title: "Section 3982 - Definitions"
 usc_title: 20
 usc_section: "3982"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "20 U.S.C. § 3982"
-generated_at: "2026-03-30T04:10:46.618Z"
+generated_at: "2026-03-30T04:13:18.656Z"
 status: "active"
 ---
 

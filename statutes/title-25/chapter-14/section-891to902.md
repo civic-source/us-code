@@ -3,9 +3,9 @@ title: "Section 891to902 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 ,
 usc_title: 25
 usc_section: "891to902"
 chapter: 14
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "25 U.S.C. § 891to902"
-generated_at: "2026-03-30T04:11:02.041Z"
+generated_at: "2026-03-30T04:13:28.915Z"
 status: "repealed"
 ---
 

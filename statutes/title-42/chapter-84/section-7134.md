@@ -3,9 +3,9 @@ title: "Section 7134 - Federal Energy Regulatory Commission; compensation of Cha
 usc_title: 42
 usc_section: "7134"
 chapter: 84
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "42 U.S.C. § 7134"
-generated_at: "2026-03-30T04:11:46.914Z"
+generated_at: "2026-03-30T04:14:16.127Z"
 status: "active"
 ---
 

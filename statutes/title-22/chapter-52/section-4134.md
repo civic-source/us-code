@@ -3,9 +3,9 @@ title: "Section 4134 - Time limitations"
 usc_title: 22
 usc_section: "4134"
 chapter: 52
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "22 U.S.C. § 4134"
-generated_at: "2026-03-30T04:11:00.402Z"
+generated_at: "2026-03-30T04:13:32.144Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** A grievance is forever barred under this subchapter unless it is filed with the Department not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant’s rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
 - **(b)** If a grievance is not resolved under Department procedures (which have been negotiated with the exclusive representative, if any) within ninety days after it is filed with the Department, the grievant or the exclusive representative (on behalf of a grievant who is a member of the bargaining unit) shall be entitled to file a grievance with the Foreign Service Grievance Board for its consideration and resolution.
 - **(c)**
-  - **(1)** In applying subsection (a) of this section with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title , the reference to “2 years” shall be deemed to read “180 days”, subject to paragraph (2).
+  - **(1)** In applying subsection (a) with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title , the reference to “2 years” shall be deemed to read “180 days”, subject to paragraph (2).
   - **(2)** If the occurrence or occurrences giving rise to the grievance are alleged to have occurred while the grievant was assigned to a post abroad, the 180-day period provided for under paragraph (1) shall not commence until the earlier of—
     - **(A)** the date as of which the grievant is no longer assigned to such post; or
     - **(B)** the expiration of the 18-month period beginning on the date of the occurrence giving rise to the grievance or the last such occurrence, as the case may be.

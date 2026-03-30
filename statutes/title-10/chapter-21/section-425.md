@@ -3,9 +3,9 @@ title: "Section 425 - Prohibition of unauthorized use of name, initials, or seal
 usc_title: 10
 usc_section: "425"
 chapter: 21
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "10 U.S.C. § 425"
-generated_at: "2026-03-30T04:10:14.694Z"
+generated_at: "2026-03-30T04:12:46.964Z"
 status: "active"
 ---
 

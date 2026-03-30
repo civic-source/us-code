@@ -3,9 +3,9 @@ title: "Section 1932 - Assistance for rural entities"
 usc_title: 7
 usc_section: "1932"
 chapter: 50
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "7 U.S.C. § 1932"
-generated_at: "2026-03-30T04:10:18.493Z"
+generated_at: "2026-03-30T04:12:33.554Z"
 status: "active"
 ---
 
@@ -153,10 +153,7 @@ status: "active"
       - **(i)** The Secretary shall make or guarantee loans to individuals, cooperatives, cooperative organizations, businesses, and other entities to establish and facilitate enterprises that process, distribute, aggregate, store, and market locally or regionally produced agricultural food products to support community development and farm and ranch income.
       - **(ii)** The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipient sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
       - **(iii)** In making or guaranteeing a loan under clause (i), the Secretary shall give priority to projects that have components benefitting underserved communities.
-      - **(iv)** Not later than 2 years after the date of enactment of this paragraph and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes projects carried out using loans or loan guarantees made under clause (i), including—
-        - **(I)** the characteristics of the communities served; and
-        - **(II)** resulting benefits.
-      - **(v)**
+      - **(iv)**
         - **(I)** For each of fiscal years 2008 through 2018, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
         - **(II)** Funds reserved under subclause (I) for a fiscal year shall be reserved until April 1 of the fiscal year.
 - **(h)** The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title .

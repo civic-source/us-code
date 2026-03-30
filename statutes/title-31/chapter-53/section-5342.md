@@ -3,9 +3,9 @@ title: "Section 5342 - High-risk money laundering and related financial crime ar
 usc_title: 31
 usc_section: "5342"
 chapter: 53
-current_through: "PL 113-186"
+current_through: "PL 113-201"
 classification: "31 U.S.C. § 5342"
-generated_at: "2026-03-30T04:11:18.685Z"
+generated_at: "2026-03-30T04:13:51.349Z"
 status: "active"
 ---
 
