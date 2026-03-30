@@ -3,9 +3,9 @@ title: "Section 16131 - Definitions"
 usc_title: 42
 usc_section: "16131"
 chapter: 149
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 16131"
-generated_at: "2026-03-30T07:00:49.778Z"
+generated_at: "2026-03-30T07:03:05.123Z"
 status: "active"
 ---
 

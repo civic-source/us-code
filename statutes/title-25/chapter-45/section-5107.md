@@ -3,9 +3,9 @@ title: "Section 5107 - Transfer and exchange of restricted Indian lands and shar
 usc_title: 25
 usc_section: "5107"
 chapter: 45
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 5107"
-generated_at: "2026-03-30T06:59:23.389Z"
+generated_at: "2026-03-30T07:02:25.180Z"
 status: "active"
 ---
 

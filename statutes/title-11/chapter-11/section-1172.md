@@ -3,9 +3,9 @@ title: "Section 1172 - Contents of plan"
 usc_title: 11
 usc_section: "1172"
 chapter: 11
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "11 U.S.C. § 1172"
-generated_at: "2026-03-30T06:58:13.574Z"
+generated_at: "2026-03-30T07:01:36.446Z"
 status: "active"
 ---
 

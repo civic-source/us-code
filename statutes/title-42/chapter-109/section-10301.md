@@ -3,9 +3,9 @@ title: "Section 10301 - Congressional findings and declarations"
 usc_title: 42
 usc_section: "10301"
 chapter: 109
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 10301"
-generated_at: "2026-03-30T07:00:49.686Z"
+generated_at: "2026-03-30T07:03:05.050Z"
 status: "active"
 ---
 

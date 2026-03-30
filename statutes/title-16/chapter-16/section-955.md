@@ -3,9 +3,9 @@ title: "Section 955 - Rulemaking"
 usc_title: 16
 usc_section: "955"
 chapter: 16
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 955"
-generated_at: "2026-03-30T06:59:20.430Z"
+generated_at: "2026-03-30T07:02:21.205Z"
 status: "active"
 ---
 

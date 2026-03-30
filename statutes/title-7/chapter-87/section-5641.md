@@ -3,9 +3,9 @@ title: "Section 5641 - Funding levels"
 usc_title: 7
 usc_section: "5641"
 chapter: 87
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 5641"
-generated_at: "2026-03-30T06:57:44.360Z"
+generated_at: "2026-03-30T07:01:33.422Z"
 status: "active"
 ---
 

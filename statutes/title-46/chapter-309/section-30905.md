@@ -3,9 +3,9 @@ title: "Section 30905 - Period for bringing action"
 usc_title: 46
 usc_section: "30905"
 chapter: 309
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "46 U.S.C. § 30905"
-generated_at: "2026-03-30T07:00:54.116Z"
+generated_at: "2026-03-30T07:03:08.184Z"
 status: "active"
 ---
 

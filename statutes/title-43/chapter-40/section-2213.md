@@ -3,9 +3,9 @@ title: "Section 2213 - Loans"
 usc_title: 43
 usc_section: "2213"
 chapter: 40
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "43 U.S.C. § 2213"
-generated_at: "2026-03-30T07:00:33.098Z"
+generated_at: "2026-03-30T07:02:55.571Z"
 status: "active"
 ---
 

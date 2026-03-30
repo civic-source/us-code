@@ -3,9 +3,9 @@ title: "Section 5154a - Prohibited flood disaster assistance"
 usc_title: 42
 usc_section: "5154a"
 chapter: 68
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 5154a"
-generated_at: "2026-03-30T07:00:49.516Z"
+generated_at: "2026-03-30T07:03:04.908Z"
 status: "active"
 ---
 

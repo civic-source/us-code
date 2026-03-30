@@ -3,9 +3,9 @@ title: "Section 313 - Appointments and enlistments: age limitations"
 usc_title: 32
 usc_section: "313"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "32 U.S.C. § 313"
-generated_at: "2026-03-30T06:59:56.337Z"
+generated_at: "2026-03-30T07:02:44.319Z"
 status: "active"
 ---
 

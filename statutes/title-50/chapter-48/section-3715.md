@@ -3,9 +3,9 @@ title: "Section 3715 - Use of contributions to Department of Defense Cooperative
 usc_title: 50
 usc_section: "3715"
 chapter: 48
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "50 U.S.C. § 3715"
-generated_at: "2026-03-30T07:00:55.622Z"
+generated_at: "2026-03-30T07:03:10.286Z"
 status: "active"
 ---
 

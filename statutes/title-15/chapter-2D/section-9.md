@@ -3,9 +3,9 @@ title: "Section 9 - Enforcement of subchapter"
 usc_title: 15
 usc_section: "9"
 chapter: 2
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-03-30T06:58:17.167Z"
+generated_at: "2026-03-30T07:01:50.851Z"
 status: "active"
 ---
 

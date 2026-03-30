@@ -3,9 +3,9 @@ title: "Section 231a - Budgeting for life-cycle cost of aircraft for the Navy, A
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-30T06:57:49.960Z"
+generated_at: "2026-03-30T07:01:27.894Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8684 - Service credit: regular enlisted members; service as an o
 usc_title: 10
 usc_section: "8684"
 chapter: 853
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 8684"
-generated_at: "2026-03-30T06:57:50.080Z"
+generated_at: "2026-03-30T07:01:28.036Z"
 status: "active"
 ---
 

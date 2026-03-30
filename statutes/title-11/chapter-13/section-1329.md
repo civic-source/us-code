@@ -3,9 +3,9 @@ title: "Section 1329 - Modification of plan after confirmation"
 usc_title: 11
 usc_section: "1329"
 chapter: 13
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "11 U.S.C. § 1329"
-generated_at: "2026-03-30T06:58:13.576Z"
+generated_at: "2026-03-30T07:01:36.447Z"
 status: "active"
 ---
 

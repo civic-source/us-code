@@ -3,9 +3,9 @@ title: "Section 1 - Training and technical assistance"
 usc_title: 29
 usc_section: "1"
 chapter: 16
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-30T06:59:39.970Z"
+generated_at: "2026-03-30T07:02:36.536Z"
 status: "active"
 ---
 

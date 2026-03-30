@@ -3,9 +3,9 @@ title: "Section 4102 - Arctic Research Commission"
 usc_title: 15
 usc_section: "4102"
 chapter: 67
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 4102"
-generated_at: "2026-03-30T06:58:17.274Z"
+generated_at: "2026-03-30T07:01:50.959Z"
 status: "active"
 ---
 

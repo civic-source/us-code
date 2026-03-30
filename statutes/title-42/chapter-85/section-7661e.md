@@ -3,9 +3,9 @@ title: "Section 7661e - Other authorities"
 usc_title: 42
 usc_section: "7661e"
 chapter: 85
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 7661e"
-generated_at: "2026-03-30T07:00:49.626Z"
+generated_at: "2026-03-30T07:03:04.998Z"
 status: "active"
 ---
 

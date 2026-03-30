@@ -3,9 +3,9 @@ title: "Section 15811 - Voluntary commitments to reduce industrial energy intens
 usc_title: 42
 usc_section: "15811"
 chapter: 149
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 15811"
-generated_at: "2026-03-30T07:00:49.768Z"
+generated_at: "2026-03-30T07:03:05.115Z"
 status: "active"
 ---
 

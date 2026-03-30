@@ -3,9 +3,9 @@ title: "Section 2264 - Reimbursement for assistance provided to nongovernmental 
 usc_title: 10
 usc_section: "2264"
 chapter: 134
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 2264"
-generated_at: "2026-03-30T06:57:50.022Z"
+generated_at: "2026-03-30T07:01:27.969Z"
 status: "active"
 ---
 

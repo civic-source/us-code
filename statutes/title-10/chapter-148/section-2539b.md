@@ -3,9 +3,9 @@ title: "Section 2539b - Availability of samples, drawings, information, equipmen
 usc_title: 10
 usc_section: "2539b"
 chapter: 148
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 2539b"
-generated_at: "2026-03-30T06:57:50.043Z"
+generated_at: "2026-03-30T07:01:27.992Z"
 status: "active"
 ---
 

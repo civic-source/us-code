@@ -3,9 +3,9 @@ title: "Section 21 - Restraint, regulation, and removal"
 usc_title: 50
 usc_section: "21"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "50 U.S.C. § 21"
-generated_at: "2026-03-30T07:00:55.559Z"
+generated_at: "2026-03-30T07:03:10.236Z"
 status: "active"
 ---
 

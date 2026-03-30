@@ -3,9 +3,9 @@ title: "Section 116 - Inventors"
 usc_title: 35
 usc_section: "116"
 chapter: 11
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "35 U.S.C. § 116"
-generated_at: "2026-03-30T07:00:03.953Z"
+generated_at: "2026-03-30T07:02:44.101Z"
 status: "active"
 ---
 

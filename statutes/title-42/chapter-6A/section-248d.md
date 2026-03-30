@@ -3,9 +3,9 @@ title: "Section 248d - Repealed. Pub. L. 104–201, div. A, title VII , § 727(a
 usc_title: 42
 usc_section: "248d"
 chapter: 6
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 248d"
-generated_at: "2026-03-30T07:00:49.039Z"
+generated_at: "2026-03-30T07:03:04.494Z"
 status: "repealed"
 ---
 

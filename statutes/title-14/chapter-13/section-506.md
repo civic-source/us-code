@@ -3,9 +3,9 @@ title: "Section 506 - Repealed. July 15, 1954, ch. 507 , § 14(c)(5), 68 Stat. 4
 usc_title: 14
 usc_section: "506"
 chapter: 13
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "14 U.S.C. § 506"
-generated_at: "2026-03-30T06:58:13.206Z"
+generated_at: "2026-03-30T07:01:35.775Z"
 status: "repealed"
 ---
 

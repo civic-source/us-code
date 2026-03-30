@@ -3,9 +3,9 @@ title: "Section 4867 - Security management training for officials assigned to a 
 usc_title: 22
 usc_section: "4867"
 chapter: 58
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 4867"
-generated_at: "2026-03-30T06:59:35.053Z"
+generated_at: "2026-03-30T07:02:32.951Z"
 status: "active"
 ---
 

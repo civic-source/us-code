@@ -3,9 +3,9 @@ title: "Section 9847 - Repealed. Pub. L. 103–252, title I , § 119, May 18, 19
 usc_title: 42
 usc_section: "9847"
 chapter: 105
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 9847"
-generated_at: "2026-03-30T07:00:49.673Z"
+generated_at: "2026-03-30T07:03:05.038Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 334 - Basis of property received in liquidations"
 usc_title: 26
 usc_section: "334"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 334"
-generated_at: "2026-03-30T06:59:48.829Z"
+generated_at: "2026-03-30T07:02:42.258Z"
 status: "active"
 ---
 

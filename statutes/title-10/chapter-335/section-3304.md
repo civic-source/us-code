@@ -3,9 +3,9 @@ title: "Section 3304 - Repealed. Pub. L. 90–130 , § 1(10)(C), Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "3304"
 chapter: 335
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 3304"
-generated_at: "2026-03-30T06:57:50.059Z"
+generated_at: "2026-03-30T07:01:28.011Z"
 status: "repealed"
 ---
 

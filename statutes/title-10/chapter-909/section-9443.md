@@ -3,9 +3,9 @@ title: "Section 9443 - Activities performed as federally chartered nonprofit cor
 usc_title: 10
 usc_section: "9443"
 chapter: 909
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 9443"
-generated_at: "2026-03-30T06:57:50.083Z"
+generated_at: "2026-03-30T07:01:28.040Z"
 status: "active"
 ---
 

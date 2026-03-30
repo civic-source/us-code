@@ -3,9 +3,9 @@ title: "Section 30102 - Working capital fund"
 usc_title: 51
 usc_section: "30102"
 chapter: 301
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "51 U.S.C. § 30102"
-generated_at: "2026-03-30T07:01:00.603Z"
+generated_at: "2026-03-30T07:03:14.412Z"
 status: "active"
 ---
 

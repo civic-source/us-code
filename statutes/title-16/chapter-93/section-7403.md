@@ -3,9 +3,9 @@ title: "Section 7403 - Duties and authorities of the Secretary"
 usc_title: 16
 usc_section: "7403"
 chapter: 93
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 7403"
-generated_at: "2026-03-30T06:59:20.513Z"
+generated_at: "2026-03-30T07:02:21.344Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1829b - Retention of records by insured depository institutions"
 usc_title: 12
 usc_section: "1829b"
 chapter: 16
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "12 U.S.C. § 1829b"
-generated_at: "2026-03-30T06:58:36.749Z"
+generated_at: "2026-03-30T07:01:44.357Z"
 status: "active"
 ---
 

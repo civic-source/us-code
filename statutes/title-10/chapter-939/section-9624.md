@@ -3,9 +3,9 @@ title: "Section 9624 - Medical supplies: civilian employees of the Air Force; Am
 usc_title: 10
 usc_section: "9624"
 chapter: 939
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 9624"
-generated_at: "2026-03-30T06:57:50.084Z"
+generated_at: "2026-03-30T07:01:28.042Z"
 status: "active"
 ---
 

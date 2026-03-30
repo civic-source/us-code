@@ -3,9 +3,9 @@ title: "Section 225 - Acquisition accountability reports on the ballistic missil
 usc_title: 10
 usc_section: "225"
 chapter: 9
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 225"
-generated_at: "2026-03-30T06:57:49.960Z"
+generated_at: "2026-03-30T07:01:27.894Z"
 status: "active"
 ---
 

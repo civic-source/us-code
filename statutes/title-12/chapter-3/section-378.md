@@ -3,9 +3,9 @@ title: "Section 378 - Dealers in securities engaging in banking business; indivi
 usc_title: 12
 usc_section: "378"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "12 U.S.C. § 378"
-generated_at: "2026-03-30T06:58:36.684Z"
+generated_at: "2026-03-30T07:01:44.289Z"
 status: "active"
 ---
 

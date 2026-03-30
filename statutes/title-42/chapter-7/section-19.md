@@ -3,9 +3,9 @@ title: "Section 19 - Omitted"
 usc_title: 42
 usc_section: "19"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T07:00:49.239Z"
+generated_at: "2026-03-30T07:03:04.664Z"
 status: "omitted"
 ---
 

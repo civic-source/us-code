@@ -3,9 +3,9 @@ title: "Section 163 - Definition of law enforcement technology"
 usc_title: 6
 usc_section: "163"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "6 U.S.C. § 163"
-generated_at: "2026-03-30T06:57:57.560Z"
+generated_at: "2026-03-30T07:01:23.864Z"
 status: "active"
 ---
 

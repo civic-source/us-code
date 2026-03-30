@@ -3,9 +3,9 @@ title: "Section 1397d - Limitation on use of grants; waiver"
 usc_title: 42
 usc_section: "1397d"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 1397d"
-generated_at: "2026-03-30T07:00:49.369Z"
+generated_at: "2026-03-30T07:03:04.777Z"
 status: "active"
 ---
 

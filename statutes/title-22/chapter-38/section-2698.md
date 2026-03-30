@@ -3,9 +3,9 @@ title: "Section 2698 - Procurement of legal services"
 usc_title: 22
 usc_section: "2698"
 chapter: 38
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 2698"
-generated_at: "2026-03-30T06:59:35.022Z"
+generated_at: "2026-03-30T07:02:32.920Z"
 status: "active"
 ---
 

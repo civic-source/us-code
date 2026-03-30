@@ -3,9 +3,9 @@ title: "Section 411 - Definitions relating to self-employment"
 usc_title: 42
 usc_section: "411"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 411"
-generated_at: "2026-03-30T07:00:49.185Z"
+generated_at: "2026-03-30T07:03:04.618Z"
 status: "active"
 ---
 

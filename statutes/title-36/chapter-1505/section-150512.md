@@ -3,9 +3,9 @@ title: "Section 150512 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "150512"
 chapter: 1505
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "36 U.S.C. § 150512"
-generated_at: "2026-03-30T07:00:15.815Z"
+generated_at: "2026-03-30T07:02:49.130Z"
 status: "active"
 ---
 

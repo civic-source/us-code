@@ -3,9 +3,9 @@ title: "Section 1293 - Transferred"
 usc_title: 7
 usc_section: "1293"
 chapter: 35
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 1293"
-generated_at: "2026-03-30T06:57:44.278Z"
+generated_at: "2026-03-30T07:01:33.334Z"
 status: "transferred"
 ---
 

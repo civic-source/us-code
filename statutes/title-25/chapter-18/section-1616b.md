@@ -3,9 +3,9 @@ title: "Section 1616b - Recruitment activities"
 usc_title: 25
 usc_section: "1616b"
 chapter: 18
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 1616b"
-generated_at: "2026-03-30T06:59:23.352Z"
+generated_at: "2026-03-30T07:02:25.139Z"
 status: "active"
 ---
 

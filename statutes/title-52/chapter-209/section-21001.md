@@ -3,9 +3,9 @@ title: "Section 21001 - Requirements payments"
 usc_title: 52
 usc_section: "21001"
 chapter: 209
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "52 U.S.C. § 21001"
-generated_at: "2026-03-30T07:01:03.288Z"
+generated_at: "2026-03-30T07:03:14.574Z"
 status: "active"
 ---
 

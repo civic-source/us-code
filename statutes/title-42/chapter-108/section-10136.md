@@ -3,9 +3,9 @@ title: "Section 10136 - Participation of States"
 usc_title: 42
 usc_section: "10136"
 chapter: 108
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 10136"
-generated_at: "2026-03-30T07:00:49.682Z"
+generated_at: "2026-03-30T07:03:05.046Z"
 status: "active"
 ---
 

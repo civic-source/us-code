@@ -3,9 +3,9 @@ title: "Section 1595 - Civilian faculty members at certain Department of Defense
 usc_title: 10
 usc_section: "1595"
 chapter: 81
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 1595"
-generated_at: "2026-03-30T06:57:50.010Z"
+generated_at: "2026-03-30T07:01:27.954Z"
 status: "active"
 ---
 

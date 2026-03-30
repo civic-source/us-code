@@ -3,9 +3,9 @@ title: "Section 5537 - Fees for jury and witness service"
 usc_title: 5
 usc_section: "5537"
 chapter: 55
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "5 U.S.C. § 5537"
-generated_at: "2026-03-30T06:57:39.000Z"
+generated_at: "2026-03-30T07:01:18.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 52 - Surveying duties"
 usc_title: 43
 usc_section: "52"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "43 U.S.C. § 52"
-generated_at: "2026-03-30T07:00:33.050Z"
+generated_at: "2026-03-30T07:02:55.519Z"
 status: "active"
 ---
 

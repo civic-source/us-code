@@ -3,9 +3,9 @@ title: "Section 417 - Definitions and special rules for purposes of minimum surv
 usc_title: 26
 usc_section: "417"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 417"
-generated_at: "2026-03-30T06:59:48.847Z"
+generated_at: "2026-03-30T07:02:42.276Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8075 - Regular Air Force: composition"
 usc_title: 10
 usc_section: "8075"
 chapter: 807
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 8075"
-generated_at: "2026-03-30T06:57:50.079Z"
+generated_at: "2026-03-30T07:01:28.035Z"
 status: "active"
 ---
 

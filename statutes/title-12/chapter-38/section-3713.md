@@ -3,9 +3,9 @@ title: "Section 3713 - Transfer of title and possession"
 usc_title: 12
 usc_section: "3713"
 chapter: 38
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "12 U.S.C. § 3713"
-generated_at: "2026-03-30T06:58:36.782Z"
+generated_at: "2026-03-30T07:01:44.392Z"
 status: "active"
 ---
 

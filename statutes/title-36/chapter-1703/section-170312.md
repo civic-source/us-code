@@ -3,9 +3,9 @@ title: "Section 170312 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "170312"
 chapter: 1703
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "36 U.S.C. § 170312"
-generated_at: "2026-03-30T07:00:15.820Z"
+generated_at: "2026-03-30T07:02:49.135Z"
 status: "active"
 ---
 

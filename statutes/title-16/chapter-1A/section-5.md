@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T06:59:20.377Z"
+generated_at: "2026-03-30T07:02:21.150Z"
 status: "repealed"
 ---
 

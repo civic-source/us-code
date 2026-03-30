@@ -3,9 +3,9 @@ title: "Section 204 - Administration"
 usc_title: 29
 usc_section: "204"
 chapter: 8
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "29 U.S.C. § 204"
-generated_at: "2026-03-30T06:59:39.950Z"
+generated_at: "2026-03-30T07:02:36.517Z"
 status: "active"
 ---
 

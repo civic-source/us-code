@@ -3,9 +3,9 @@ title: "Section 1575 - Legislative procedure"
 usc_title: 48
 usc_section: "1575"
 chapter: 12
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "48 U.S.C. § 1575"
-generated_at: "2026-03-30T07:00:53.306Z"
+generated_at: "2026-03-30T07:03:09.075Z"
 status: "active"
 ---
 

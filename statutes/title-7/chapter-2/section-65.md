@@ -3,9 +3,9 @@ title: "Section 65 - Separability"
 usc_title: 7
 usc_section: "65"
 chapter: 2
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 65"
-generated_at: "2026-03-30T06:57:44.241Z"
+generated_at: "2026-03-30T07:01:33.295Z"
 status: "active"
 ---
 

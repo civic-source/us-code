@@ -3,9 +3,9 @@ title: "Section 152 - General duties"
 usc_title: 45
 usc_section: "152"
 chapter: 8
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "45 U.S.C. § 152"
-generated_at: "2026-03-30T07:00:30.832Z"
+generated_at: "2026-03-30T07:02:55.021Z"
 status: "active"
 ---
 

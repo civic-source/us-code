@@ -3,9 +3,9 @@ title: "Section 3421 - Congressional declaration of policy"
 usc_title: 22
 usc_section: "3421"
 chapter: 49
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 3421"
-generated_at: "2026-03-30T06:59:35.033Z"
+generated_at: "2026-03-30T07:02:32.931Z"
 status: "active"
 ---
 

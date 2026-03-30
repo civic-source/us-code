@@ -3,9 +3,9 @@ title: "Section 5528 - Repealed. Pub. L. 114–329, title I , § 105(q), Jan. 6,
 usc_title: 15
 usc_section: "5528"
 chapter: 81
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 5528"
-generated_at: "2026-03-30T06:58:17.281Z"
+generated_at: "2026-03-30T07:01:50.966Z"
 status: "repealed"
 ---
 

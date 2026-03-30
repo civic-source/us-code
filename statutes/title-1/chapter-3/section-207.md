@@ -3,9 +3,9 @@ title: "Section 207 - Copies of acts and resolutions in slip form; additional nu
 usc_title: 1
 usc_section: "207"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "1 U.S.C. § 207"
-generated_at: "2026-03-30T06:57:27.379Z"
+generated_at: "2026-03-30T07:01:15.104Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24902 - Goals and requirements"
 usc_title: 49
 usc_section: "24902"
 chapter: 249
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "49 U.S.C. § 24902"
-generated_at: "2026-03-30T07:00:58.153Z"
+generated_at: "2026-03-30T07:03:12.354Z"
 status: "active"
 ---
 

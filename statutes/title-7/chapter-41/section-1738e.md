@@ -3,9 +3,9 @@ title: "Section 1738e - Interest of new obligations"
 usc_title: 7
 usc_section: "1738e"
 chapter: 41
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 1738e"
-generated_at: "2026-03-30T06:57:44.306Z"
+generated_at: "2026-03-30T07:01:33.364Z"
 status: "active"
 ---
 

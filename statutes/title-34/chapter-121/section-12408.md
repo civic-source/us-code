@@ -3,9 +3,9 @@ title: "Section 12408 - Inclusion in National Incident-Based Reporting System"
 usc_title: 34
 usc_section: "12408"
 chapter: 121
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "34 U.S.C. § 12408"
-generated_at: "2026-03-30T07:00:13.337Z"
+generated_at: "2026-03-30T07:02:45.018Z"
 status: "active"
 ---
 

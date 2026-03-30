@@ -3,9 +3,9 @@ title: "Section 2009m - Electronic transfer"
 usc_title: 7
 usc_section: "2009m"
 chapter: 50
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 2009m"
-generated_at: "2026-03-30T06:57:44.318Z"
+generated_at: "2026-03-30T07:01:33.377Z"
 status: "active"
 ---
 

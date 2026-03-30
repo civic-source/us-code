@@ -3,9 +3,9 @@ title: "Section 991 - Management of deployments of members and measurement and d
 usc_title: 10
 usc_section: "991"
 chapter: 50
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 991"
-generated_at: "2026-03-30T06:57:49.985Z"
+generated_at: "2026-03-30T07:01:27.923Z"
 status: "active"
 ---
 

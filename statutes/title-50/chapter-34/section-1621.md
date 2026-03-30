@@ -3,9 +3,9 @@ title: "Section 1621 - Declaration of national emergency by President; publicati
 usc_title: 50
 usc_section: "1621"
 chapter: 34
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "50 U.S.C. § 1621"
-generated_at: "2026-03-30T07:00:55.569Z"
+generated_at: "2026-03-30T07:03:10.245Z"
 status: "active"
 ---
 

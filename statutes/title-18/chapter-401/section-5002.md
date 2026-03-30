@@ -3,9 +3,9 @@ title: "Section 5002 - Repealed. Pub. L. 104–134, title I , § 101[(a)] [title
 usc_title: 18
 usc_section: "5002"
 chapter: 401
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "18 U.S.C. § 5002"
-generated_at: "2026-03-30T06:58:40.153Z"
+generated_at: "2026-03-30T07:01:54.165Z"
 status: "repealed"
 ---
 

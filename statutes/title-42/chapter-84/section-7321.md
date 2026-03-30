@@ -3,9 +3,9 @@ title: "Section 7321 - National Energy Policy Plan"
 usc_title: 42
 usc_section: "7321"
 chapter: 84
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 7321"
-generated_at: "2026-03-30T07:00:49.584Z"
+generated_at: "2026-03-30T07:03:04.965Z"
 status: "active"
 ---
 

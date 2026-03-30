@@ -3,9 +3,9 @@ title: "Section 1397dd - Allotments"
 usc_title: 42
 usc_section: "1397dd"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 1397dd"
-generated_at: "2026-03-30T07:00:49.372Z"
+generated_at: "2026-03-30T07:03:04.779Z"
 status: "active"
 ---
 
@@ -110,8 +110,14 @@ status: "active"
       - **(i)** the amount of the State’s allotments for any preceding fiscal years that remains available for expenditure and that will not be expended by the end of the immediately preceding fiscal year;
       - **(ii)** the amount (if any) of the child enrollment contingency fund 2 2 So in original. Probably should be “Child Enrollment Contingency Fund”. payment under subsection (n); and
       - **(iii)** the amount of the State’s allotment for the fiscal year.
-    - **(B)** If the amounts available for redistribution under paragraph (1) for a fiscal year are less than the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally.
+    - **(B)**
+      - **(i)** Subject to clause (ii), if the amounts available for redistribution under paragraph (1) for a fiscal year are less than the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally.
+      - **(ii)**
+        - **(I)** For the period beginning on October 1, 2017 , and ending December 31, 2017 , with respect to any amounts available for redistribution under paragraph (1) for fiscal year 2018, the Secretary shall redistribute under such paragraph such amounts to each emergency shortfall State (as defined in subclause (II)) in such amount as is equal to the amount of the shortfall described in subclause (II) for such State and period (as may be adjusted under subparagraph (C)) before the Secretary may redistribute such amounts to any shortfall State that is not an emergency shortfall State. In the case of any amounts redistributed under this subclause to a State that is not an emergency shortfall State, such amounts shall be determined in accordance with clause (i).
+        - **(II)** For purposes of this clause, the term “emergency shortfall State” means, with respect to the period beginning October 1, 2017 , and ending December 31, 2017 , a shortfall State for which the Secretary estimates, in accordance with subparagraph (A) (unless otherwise specified in this subclause), that the projected expenditures under the State child health plan and under section 1397ee(g) of this title (calculated as if the reference under section 1397ee(g)(4)(A) of this title to “2017” were a reference to “2018” and insofar as the allotments are available to the State under this subsection or subsection (e) or (m)) for such period will exceed the sum of the amounts described in clauses (i) through (iii) of subparagraph (A) for such period, including after application of any amount redistributed under paragraph (1) before such date of enactment 3 3 So in original. to such State. A shortfall State may be an emergency shortfall State under the previous sentence without regard to whether any amounts were redistributed before such date of enactment 3 to such State under paragraph (1) for fiscal year 2018.
+        - **(III)** During the period described in subclause (I), section 1397ee(g)(4) of this title shall apply to a qualifying State (as defined in section 1397ee(g)(2) of this title ) as if under section 1397ee(g)(4) of this title —
     - **(C)** The Secretary may adjust the estimates and determinations made under paragraph (1) and this paragraph with respect to a fiscal year as necessary on the basis of the amounts reported by States not later than November 30 of the succeeding fiscal year, as approved by the Secretary.
+    - **(D)** Nothing in this paragraph may be construed as preventing a commonwealth or territory described in subsection (c)(3) from being treated as a shortfall State or an emergency shortfall State.
 - **(g)**
   - **(1)**
     - **(A)** In the case of a State that expends all of its allotment under subsection (b) or (c) for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
@@ -144,7 +150,7 @@ status: "active"
       - **(i)** the amount by which (I) the total amount available for redistribution under subsection (f) from the allotments for that fiscal year, exceeds (II) the total amounts redistributed under paragraph (1) for that fiscal year; multiplied by
       - **(ii)** the ratio of the amount of such State’s unexpended allotment for that fiscal year to the total amount described in clause (i)(I) for that fiscal year.
     - **(C)** Notwithstanding section 1397ee(c)(2)(A) of this title , with respect to any State described in subparagraph (A)(i), the State may use up to 10 percent of the amount specified in subparagraph (B) for fiscal year 1998 for expenditures for outreach activities approved by the Secretary.
-  - **(3)** For purposes of calculating the amounts described in paragraphs (1) and (2) relating to the allotment for fiscal year 1998, fiscal year 1999, fiscal year 2000, or fiscal year 2001, the Secretary shall use the amounts reported by the States not later than December 15, 2000 , November 30, 2001 , November 30, 2002 , or November 30, 2003 , respectively, on HCFA Form 64 or HCFA Form 21 or CMS Form 64 or CMS Form 21, as the case may be,, 3 3 So in original. as approved by the Secretary.
+  - **(3)** For purposes of calculating the amounts described in paragraphs (1) and (2) relating to the allotment for fiscal year 1998, fiscal year 1999, fiscal year 2000, or fiscal year 2001, the Secretary shall use the amounts reported by the States not later than December 15, 2000 , November 30, 2001 , November 30, 2002 , or November 30, 2003 , respectively, on HCFA Form 64 or HCFA Form 21 or CMS Form 64 or CMS Form 21, as the case may be,, 3 as approved by the Secretary.
 - **(h)**
   - **(1)**
     - **(A)** Notwithstanding subsection (f) and subject to subparagraphs (C) and (D), with respect to months beginning during fiscal year 2007, the Secretary shall provide for a redistribution under such subsection from the allotments for fiscal year 2004 under subsection (b) that are not expended by the end of fiscal year 2006, to a shortfall State described in subparagraph (B), such amount as the Secretary determines will eliminate the estimated shortfall described in such subparagraph for such State for the month.

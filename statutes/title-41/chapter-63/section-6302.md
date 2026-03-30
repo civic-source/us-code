@@ -3,9 +3,9 @@ title: "Section 6302 - Contracts for fuel made by Secretary of the Army"
 usc_title: 41
 usc_section: "6302"
 chapter: 63
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "41 U.S.C. § 6302"
-generated_at: "2026-03-30T07:00:30.616Z"
+generated_at: "2026-03-30T07:02:54.629Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1810 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1810"
 chapter: 20
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 1810"
-generated_at: "2026-03-30T06:59:23.363Z"
+generated_at: "2026-03-30T07:02:25.151Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2548 - Omitted"
 usc_title: 42
 usc_section: "2548"
 chapter: 29
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 2548"
-generated_at: "2026-03-30T07:00:49.462Z"
+generated_at: "2026-03-30T07:03:04.860Z"
 status: "omitted"
 ---
 

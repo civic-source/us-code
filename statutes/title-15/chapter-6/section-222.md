@@ -3,9 +3,9 @@ title: "Section 222 - Repealed. July 21, 1950, ch. 484 , § 13, 64 Stat. 370"
 usc_title: 15
 usc_section: "222"
 chapter: 6
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 222"
-generated_at: "2026-03-30T06:58:17.170Z"
+generated_at: "2026-03-30T07:01:50.854Z"
 status: "repealed"
 ---
 

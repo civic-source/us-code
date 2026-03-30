@@ -3,9 +3,9 @@ title: "Section 2169 - Multilateral, regional, and bilateral programs"
 usc_title: 22
 usc_section: "2169"
 chapter: 32
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 2169"
-generated_at: "2026-03-30T06:59:34.998Z"
+generated_at: "2026-03-30T07:02:32.895Z"
 status: "active"
 ---
 

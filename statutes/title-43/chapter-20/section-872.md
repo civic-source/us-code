@@ -3,9 +3,9 @@ title: "Section 872 - Conveyances to United States in connection with applicatio
 usc_title: 43
 usc_section: "872"
 chapter: 20
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "43 U.S.C. § 872"
-generated_at: "2026-03-30T07:00:33.072Z"
+generated_at: "2026-03-30T07:02:55.542Z"
 status: "active"
 ---
 

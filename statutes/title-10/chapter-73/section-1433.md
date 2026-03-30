@@ -3,9 +3,9 @@ title: "Section 1433 - Mental incompetency of member"
 usc_title: 10
 usc_section: "1433"
 chapter: 73
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 1433"
-generated_at: "2026-03-30T06:57:50.003Z"
+generated_at: "2026-03-30T07:01:27.945Z"
 status: "active"
 ---
 

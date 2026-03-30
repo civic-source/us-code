@@ -3,9 +3,9 @@ title: "Section 6705 - Limitations on use of grants"
 usc_title: 42
 usc_section: "6705"
 chapter: 80
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 6705"
-generated_at: "2026-03-30T07:00:49.562Z"
+generated_at: "2026-03-30T07:03:04.945Z"
 status: "active"
 ---
 

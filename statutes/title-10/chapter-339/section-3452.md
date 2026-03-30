@@ -3,9 +3,9 @@ title: "Section 3452 - Repealed. Pub. L. 96–513, title II , § 207, Dec. 12, 1
 usc_title: 10
 usc_section: "3452"
 chapter: 339
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 3452"
-generated_at: "2026-03-30T06:57:50.059Z"
+generated_at: "2026-03-30T07:01:28.012Z"
 status: "repealed"
 ---
 

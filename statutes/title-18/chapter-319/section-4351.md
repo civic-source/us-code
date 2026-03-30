@@ -3,9 +3,9 @@ title: "Section 4351 - Establishment; Advisory Board; appointment of members; co
 usc_title: 18
 usc_section: "4351"
 chapter: 319
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "18 U.S.C. § 4351"
-generated_at: "2026-03-30T06:58:40.153Z"
+generated_at: "2026-03-30T07:01:54.165Z"
 status: "active"
 ---
 

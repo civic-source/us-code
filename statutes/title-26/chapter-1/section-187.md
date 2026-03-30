@@ -3,9 +3,9 @@ title: "Section 187 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(31), Oc
 usc_title: 26
 usc_section: "187"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 187"
-generated_at: "2026-03-30T06:59:48.818Z"
+generated_at: "2026-03-30T07:02:42.247Z"
 status: "repealed"
 ---
 

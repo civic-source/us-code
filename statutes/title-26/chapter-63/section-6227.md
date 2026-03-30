@@ -3,9 +3,9 @@ title: "Section 6227 - Administrative adjustment requests"
 usc_title: 26
 usc_section: "6227"
 chapter: 63
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 6227"
-generated_at: "2026-03-30T06:59:48.982Z"
+generated_at: "2026-03-30T07:02:42.408Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6196 - Omitted"
 usc_title: 20
 usc_section: "6196"
 chapter: 69
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "20 U.S.C. § 6196"
-generated_at: "2026-03-30T06:58:56.056Z"
+generated_at: "2026-03-30T07:01:56.737Z"
 status: "omitted"
 ---
 

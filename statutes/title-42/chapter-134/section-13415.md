@@ -3,9 +3,9 @@ title: "Section 13415 - Midcontinent Energy Research Center"
 usc_title: 42
 usc_section: "13415"
 chapter: 134
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 13415"
-generated_at: "2026-03-30T07:00:49.752Z"
+generated_at: "2026-03-30T07:03:05.102Z"
 status: "active"
 ---
 

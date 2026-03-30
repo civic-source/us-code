@@ -3,9 +3,9 @@ title: "Section 1364 - Triennial comprehensive report on immigration"
 usc_title: 8
 usc_section: "1364"
 chapter: 12
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "8 U.S.C. § 1364"
-generated_at: "2026-03-30T06:58:11.164Z"
+generated_at: "2026-03-30T07:01:24.563Z"
 status: "active"
 ---
 

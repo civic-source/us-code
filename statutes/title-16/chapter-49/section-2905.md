@@ -3,9 +3,9 @@ title: "Section 2905 - Reimbursement of State costs for developing, revising, an
 usc_title: 16
 usc_section: "2905"
 chapter: 49
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 2905"
-generated_at: "2026-03-30T06:59:20.475Z"
+generated_at: "2026-03-30T07:02:21.305Z"
 status: "active"
 ---
 

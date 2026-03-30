@@ -3,9 +3,9 @@ title: "Section 656 - Women’s business center program"
 usc_title: 15
 usc_section: "656"
 chapter: 14
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 656"
-generated_at: "2026-03-30T06:58:17.192Z"
+generated_at: "2026-03-30T07:01:50.877Z"
 status: "active"
 ---
 

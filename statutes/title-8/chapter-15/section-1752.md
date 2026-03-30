@@ -3,9 +3,9 @@ title: "Section 1752 - Staffing levels at ports of entry"
 usc_title: 8
 usc_section: "1752"
 chapter: 15
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "8 U.S.C. § 1752"
-generated_at: "2026-03-30T06:58:11.176Z"
+generated_at: "2026-03-30T07:01:24.573Z"
 status: "active"
 ---
 

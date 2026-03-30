@@ -3,9 +3,9 @@ title: "Section 11331 - Emergency Food and Shelter Program National Board"
 usc_title: 42
 usc_section: "11331"
 chapter: 119
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 11331"
-generated_at: "2026-03-30T07:00:49.700Z"
+generated_at: "2026-03-30T07:03:05.061Z"
 status: "active"
 ---
 

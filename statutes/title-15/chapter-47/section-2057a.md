@@ -3,9 +3,9 @@ title: "Section 2057a - Banning of butyl nitrite"
 usc_title: 15
 usc_section: "2057a"
 chapter: 47
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 2057a"
-generated_at: "2026-03-30T06:58:17.243Z"
+generated_at: "2026-03-30T07:01:50.928Z"
 status: "active"
 ---
 

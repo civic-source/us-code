@@ -3,9 +3,9 @@ title: "Section 2242 - Temporary operating license"
 usc_title: 42
 usc_section: "2242"
 chapter: 23
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 2242"
-generated_at: "2026-03-30T07:00:49.455Z"
+generated_at: "2026-03-30T07:03:04.854Z"
 status: "active"
 ---
 

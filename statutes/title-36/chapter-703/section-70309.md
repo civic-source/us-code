@@ -3,9 +3,9 @@ title: "Section 70309 - Records and inspection"
 usc_title: 36
 usc_section: "70309"
 chapter: 703
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "36 U.S.C. § 70309"
-generated_at: "2026-03-30T07:00:15.812Z"
+generated_at: "2026-03-30T07:02:49.127Z"
 status: "active"
 ---
 

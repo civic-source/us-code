@@ -3,9 +3,9 @@ title: "Section 2224 - Repealed. Pub. L. 95–424, title VI , § 604, Oct. 6, 19
 usc_title: 22
 usc_section: "2224"
 chapter: 32
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 2224"
-generated_at: "2026-03-30T06:59:35.002Z"
+generated_at: "2026-03-30T07:02:32.900Z"
 status: "repealed"
 ---
 

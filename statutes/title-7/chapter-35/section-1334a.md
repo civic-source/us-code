@@ -3,9 +3,9 @@ title: "Section 1334a - Omitted"
 usc_title: 7
 usc_section: "1334a"
 chapter: 35
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 1334a"
-generated_at: "2026-03-30T06:57:44.280Z"
+generated_at: "2026-03-30T07:01:33.337Z"
 status: "omitted"
 ---
 

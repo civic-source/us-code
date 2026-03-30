@@ -3,9 +3,9 @@ title: "Section 15506 - Supplements to Federal grant programs"
 usc_title: 40
 usc_section: "15506"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "40 U.S.C. § 15506"
-generated_at: "2026-03-30T07:00:20.801Z"
+generated_at: "2026-03-30T07:02:52.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11825 - Review of applications"
 usc_title: 42
 usc_section: "11825"
 chapter: 123
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 11825"
-generated_at: "2026-03-30T07:00:49.710Z"
+generated_at: "2026-03-30T07:03:05.068Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8109 - Rural Energy Self-Sufficiency Initiative"
 usc_title: 7
 usc_section: "8109"
 chapter: 107
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 8109"
-generated_at: "2026-03-30T06:57:44.398Z"
+generated_at: "2026-03-30T07:01:33.463Z"
 status: "active"
 ---
 

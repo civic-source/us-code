@@ -3,9 +3,9 @@ title: "Section 3605 - Notice of conversion and opportunity to purchase; respons
 usc_title: 15
 usc_section: "3605"
 chapter: 62
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 3605"
-generated_at: "2026-03-30T06:58:17.268Z"
+generated_at: "2026-03-30T07:01:50.953Z"
 status: "active"
 ---
 

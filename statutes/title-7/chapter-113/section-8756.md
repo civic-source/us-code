@@ -3,9 +3,9 @@ title: "Section 8756 - Planting flexibility"
 usc_title: 7
 usc_section: "8756"
 chapter: 113
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 8756"
-generated_at: "2026-03-30T06:57:44.404Z"
+generated_at: "2026-03-30T07:01:33.471Z"
 status: "active"
 ---
 

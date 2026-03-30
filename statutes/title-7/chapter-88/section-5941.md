@@ -3,9 +3,9 @@ title: "Section 5941 - Purchase of cultures for soil and fertilizer investigatio
 usc_title: 7
 usc_section: "5941"
 chapter: 88
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 5941"
-generated_at: "2026-03-30T06:57:44.364Z"
+generated_at: "2026-03-30T07:01:33.426Z"
 status: "active"
 ---
 

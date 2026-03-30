@@ -3,9 +3,9 @@ title: "Section 607 - Removal of drift from New York Harbor"
 usc_title: 33
 usc_section: "607"
 chapter: 12
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "33 U.S.C. § 607"
-generated_at: "2026-03-30T07:00:10.826Z"
+generated_at: "2026-03-30T07:02:45.972Z"
 status: "active"
 ---
 

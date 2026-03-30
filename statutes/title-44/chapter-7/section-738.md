@@ -3,9 +3,9 @@ title: "Section 738 - Binding of publications for distribution to libraries"
 usc_title: 44
 usc_section: "738"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "44 U.S.C. § 738"
-generated_at: "2026-03-30T07:00:30.338Z"
+generated_at: "2026-03-30T07:02:54.802Z"
 status: "active"
 ---
 

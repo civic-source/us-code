@@ -3,9 +3,9 @@ title: "Section 14043g - Transferred"
 usc_title: 42
 usc_section: "14043g"
 chapter: 136
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 14043g"
-generated_at: "2026-03-30T07:00:49.758Z"
+generated_at: "2026-03-30T07:03:05.106Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1081 - Insurance fund"
 usc_title: 20
 usc_section: "1081"
 chapter: 28
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "20 U.S.C. § 1081"
-generated_at: "2026-03-30T06:58:55.992Z"
+generated_at: "2026-03-30T07:01:56.674Z"
 status: "active"
 ---
 

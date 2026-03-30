@@ -3,9 +3,9 @@ title: "Section 202 - Repealed. Pub. L. 98–621 , § 10(u), Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "202"
 chapter: 4
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "24 U.S.C. § 202"
-generated_at: "2026-03-30T06:59:22.389Z"
+generated_at: "2026-03-30T07:02:26.413Z"
 status: "repealed"
 ---
 

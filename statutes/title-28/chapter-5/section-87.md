@@ -3,9 +3,9 @@ title: "Section 87 - Delaware"
 usc_title: 28
 usc_section: "87"
 chapter: 5
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "28 U.S.C. § 87"
-generated_at: "2026-03-30T06:59:54.682Z"
+generated_at: "2026-03-30T07:02:35.697Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11361b - Technical assistance"
 usc_title: 42
 usc_section: "11361b"
 chapter: 119
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 11361b"
-generated_at: "2026-03-30T07:00:49.701Z"
+generated_at: "2026-03-30T07:03:05.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 661 - Management policies for joint qualified officers"
 usc_title: 10
 usc_section: "661"
 chapter: 38
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 661"
-generated_at: "2026-03-30T06:57:49.973Z"
+generated_at: "2026-03-30T07:01:27.909Z"
 status: "active"
 ---
 

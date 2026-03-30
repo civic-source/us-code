@@ -3,9 +3,9 @@ title: "Section 4634 - Agency coordination"
 usc_title: 42
 usc_section: "4634"
 chapter: 61
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 4634"
-generated_at: "2026-03-30T07:00:49.503Z"
+generated_at: "2026-03-30T07:03:04.897Z"
 status: "active"
 ---
 

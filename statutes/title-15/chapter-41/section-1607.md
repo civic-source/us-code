@@ -3,9 +3,9 @@ title: "Section 1607 - Administrative enforcement"
 usc_title: 15
 usc_section: "1607"
 chapter: 41
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 1607"
-generated_at: "2026-03-30T06:58:17.222Z"
+generated_at: "2026-03-30T07:01:50.907Z"
 status: "active"
 ---
 

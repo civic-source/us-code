@@ -3,9 +3,9 @@ title: "Section 591a - Boise project, Idaho; Arrowrock Dam; installment payments
 usc_title: 43
 usc_section: "591a"
 chapter: 12
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "43 U.S.C. § 591a"
-generated_at: "2026-03-30T07:00:33.066Z"
+generated_at: "2026-03-30T07:02:55.535Z"
 status: "active"
 ---
 

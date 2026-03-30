@@ -3,9 +3,9 @@ title: "Section 6243 - Distinguished-service medal"
 usc_title: 10
 usc_section: "6243"
 chapter: 567
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 6243"
-generated_at: "2026-03-30T06:57:50.069Z"
+generated_at: "2026-03-30T07:01:28.024Z"
 status: "active"
 ---
 

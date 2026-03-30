@@ -3,9 +3,9 @@ title: "Section 7317 - Status of Government rights in the designs of vessels, bo
 usc_title: 10
 usc_section: "7317"
 chapter: 633
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 7317"
-generated_at: "2026-03-30T06:57:50.074Z"
+generated_at: "2026-03-30T07:01:28.030Z"
 status: "active"
 ---
 

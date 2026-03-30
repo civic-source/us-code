@@ -3,9 +3,9 @@ title: "Section 6521 - Repealed. Pub. L. 85–861 , § 36B(21), Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "6521"
 chapter: 577
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 6521"
-generated_at: "2026-03-30T06:57:50.070Z"
+generated_at: "2026-03-30T07:01:28.026Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1920 - False statement or fraud to obtain Federal employees’ c
 usc_title: 18
 usc_section: "1920"
 chapter: 93
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "18 U.S.C. § 1920"
-generated_at: "2026-03-30T06:58:40.127Z"
+generated_at: "2026-03-30T07:01:54.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1472 - Loans for housing and buildings on adequate farms"
 usc_title: 42
 usc_section: "1472"
 chapter: 8
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 1472"
-generated_at: "2026-03-30T07:00:49.393Z"
+generated_at: "2026-03-30T07:03:04.798Z"
 status: "active"
 ---
 

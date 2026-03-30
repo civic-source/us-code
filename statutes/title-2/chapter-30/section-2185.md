@@ -3,9 +3,9 @@ title: "Section 2185 - Estimates for improvements in grounds"
 usc_title: 2
 usc_section: "2185"
 chapter: 30
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "2 U.S.C. § 2185"
-generated_at: "2026-03-30T06:57:32.805Z"
+generated_at: "2026-03-30T07:01:19.871Z"
 status: "active"
 ---
 

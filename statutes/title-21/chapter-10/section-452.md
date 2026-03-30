@@ -3,9 +3,9 @@ title: "Section 452 - Congressional declaration of policy"
 usc_title: 21
 usc_section: "452"
 chapter: 10
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "21 U.S.C. § 452"
-generated_at: "2026-03-30T06:59:29.736Z"
+generated_at: "2026-03-30T07:02:30.372Z"
 status: "active"
 ---
 

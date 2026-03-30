@@ -3,9 +3,9 @@ title: "Section 883b - Omitted"
 usc_title: 25
 usc_section: "883b"
 chapter: 14
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 883b"
-generated_at: "2026-03-30T06:59:23.348Z"
+generated_at: "2026-03-30T07:02:25.135Z"
 status: "omitted"
 ---
 

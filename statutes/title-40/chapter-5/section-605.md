@@ -3,9 +3,9 @@ title: "Section 605 - Payment of costs"
 usc_title: 40
 usc_section: "605"
 chapter: 5
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "40 U.S.C. § 605"
-generated_at: "2026-03-30T07:00:20.790Z"
+generated_at: "2026-03-30T07:02:52.820Z"
 status: "active"
 ---
 

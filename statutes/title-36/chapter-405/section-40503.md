@@ -3,9 +3,9 @@ title: "Section 40503 - Membership"
 usc_title: 36
 usc_section: "40503"
 chapter: 405
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "36 U.S.C. § 40503"
-generated_at: "2026-03-30T07:00:15.811Z"
+generated_at: "2026-03-30T07:02:49.124Z"
 status: "active"
 ---
 

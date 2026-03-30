@@ -3,9 +3,9 @@ title: "Section 1317 - Restriction on payments under this chapter"
 usc_title: 38
 usc_section: "1317"
 chapter: 13
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "38 U.S.C. § 1317"
-generated_at: "2026-03-30T07:00:28.580Z"
+generated_at: "2026-03-30T07:02:51.357Z"
 status: "active"
 ---
 

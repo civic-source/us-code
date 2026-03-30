@@ -3,9 +3,9 @@ title: "Section 8275 - Administration"
 usc_title: 42
 usc_section: "8275"
 chapter: 91
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 8275"
-generated_at: "2026-03-30T07:00:49.637Z"
+generated_at: "2026-03-30T07:03:05.008Z"
 status: "active"
 ---
 

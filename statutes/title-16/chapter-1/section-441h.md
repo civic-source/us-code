@@ -3,9 +3,9 @@ title: "Section 441h - Jurisdiction of mining and mineral rights; patents"
 usc_title: 16
 usc_section: "441h"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 441h"
-generated_at: "2026-03-30T06:59:20.344Z"
+generated_at: "2026-03-30T07:02:21.114Z"
 status: "active"
 ---
 

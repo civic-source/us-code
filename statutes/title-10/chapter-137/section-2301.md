@@ -3,9 +3,9 @@ title: "Section 2301 - Repealed. Pub. L. 103–355, title I , § 1501(a), Oct. 1
 usc_title: 10
 usc_section: "2301"
 chapter: 137
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 2301"
-generated_at: "2026-03-30T06:57:50.024Z"
+generated_at: "2026-03-30T07:01:27.970Z"
 status: "repealed"
 ---
 

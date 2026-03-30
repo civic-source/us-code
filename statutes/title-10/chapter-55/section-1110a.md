@@ -3,9 +3,9 @@ title: "Section 1110a - Notification of certain individuals regarding options fo
 usc_title: 10
 usc_section: "1110a"
 chapter: 55
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 1110a"
-generated_at: "2026-03-30T06:57:49.995Z"
+generated_at: "2026-03-30T07:01:27.935Z"
 status: "active"
 ---
 

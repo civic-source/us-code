@@ -3,9 +3,9 @@ title: "Section 2673 - International Civil Aviation Organization; availability o
 usc_title: 22
 usc_section: "2673"
 chapter: 38
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 2673"
-generated_at: "2026-03-30T06:59:35.021Z"
+generated_at: "2026-03-30T07:02:32.919Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 88c - Repealed. Pub. L. 91–510, title IV , § 491(e), Oct. 26,
 usc_title: 2
 usc_section: "88c"
 chapter: 4
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "2 U.S.C. § 88c"
-generated_at: "2026-03-30T06:57:32.773Z"
+generated_at: "2026-03-30T07:01:19.833Z"
 status: "repealed"
 ---
 

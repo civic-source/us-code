@@ -3,9 +3,9 @@ title: "Section 32509 - Information and assistance from other departments, agenc
 usc_title: 49
 usc_section: "32509"
 chapter: 325
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "49 U.S.C. § 32509"
-generated_at: "2026-03-30T07:00:58.171Z"
+generated_at: "2026-03-30T07:03:12.368Z"
 status: "active"
 ---
 

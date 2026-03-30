@@ -3,9 +3,9 @@ title: "Section 605 - Examination of carcasses brought into slaughtering or pack
 usc_title: 21
 usc_section: "605"
 chapter: 12
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "21 U.S.C. § 605"
-generated_at: "2026-03-30T06:59:29.738Z"
+generated_at: "2026-03-30T07:02:30.374Z"
 status: "active"
 ---
 

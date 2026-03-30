@@ -3,9 +3,9 @@ title: "Section 26 - Repealed. Pub. L. 99–410, title II , § 203, Aug. 28, 198
 usc_title: 42
 usc_section: "26"
 chapter: 20
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-30T07:00:49.431Z"
+generated_at: "2026-03-30T07:03:04.833Z"
 status: "repealed"
 ---
 

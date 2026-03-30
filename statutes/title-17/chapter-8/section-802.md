@@ -3,9 +3,9 @@ title: "Section 802 - Copyright Royalty Judgeships; staff"
 usc_title: 17
 usc_section: "802"
 chapter: 8
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "17 U.S.C. § 802"
-generated_at: "2026-03-30T06:58:46.343Z"
+generated_at: "2026-03-30T07:01:53.038Z"
 status: "active"
 ---
 

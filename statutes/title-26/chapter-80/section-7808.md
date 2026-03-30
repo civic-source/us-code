@@ -3,9 +3,9 @@ title: "Section 7808 - Depositaries for collections"
 usc_title: 26
 usc_section: "7808"
 chapter: 80
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 7808"
-generated_at: "2026-03-30T06:59:49.014Z"
+generated_at: "2026-03-30T07:02:42.439Z"
 status: "active"
 ---
 

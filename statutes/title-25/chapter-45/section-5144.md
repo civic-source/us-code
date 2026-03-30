@@ -3,9 +3,9 @@ title: "Section 5144 - Certification of rental proceeds"
 usc_title: 25
 usc_section: "5144"
 chapter: 45
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 5144"
-generated_at: "2026-03-30T06:59:23.390Z"
+generated_at: "2026-03-30T07:02:25.181Z"
 status: "active"
 ---
 

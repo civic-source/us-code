@@ -3,9 +3,9 @@ title: "Section 2196 - Income and revenues"
 usc_title: 22
 usc_section: "2196"
 chapter: 32
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 2196"
-generated_at: "2026-03-30T06:59:35.000Z"
+generated_at: "2026-03-30T07:02:32.897Z"
 status: "active"
 ---
 

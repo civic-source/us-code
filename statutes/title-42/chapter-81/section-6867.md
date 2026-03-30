@@ -3,9 +3,9 @@ title: "Section 6867 - Administration of projects receiving financial assistance
 usc_title: 42
 usc_section: "6867"
 chapter: 81
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 6867"
-generated_at: "2026-03-30T07:00:49.564Z"
+generated_at: "2026-03-30T07:03:04.948Z"
 status: "active"
 ---
 

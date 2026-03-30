@@ -3,9 +3,9 @@ title: "Section 22103 - Governing body"
 usc_title: 36
 usc_section: "22103"
 chapter: 221
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "36 U.S.C. § 22103"
-generated_at: "2026-03-30T07:00:15.808Z"
+generated_at: "2026-03-30T07:02:49.122Z"
 status: "active"
 ---
 

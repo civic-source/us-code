@@ -3,9 +3,9 @@ title: "Section 2279f - Subpoena authority"
 usc_title: 7
 usc_section: "2279f"
 chapter: 55
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 2279f"
-generated_at: "2026-03-30T06:57:44.337Z"
+generated_at: "2026-03-30T07:01:33.398Z"
 status: "active"
 ---
 

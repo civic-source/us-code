@@ -3,9 +3,9 @@ title: "Section 4226 - Fees and official monies from diplomatic missions, consul
 usc_title: 22
 usc_section: "4226"
 chapter: 52
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 4226"
-generated_at: "2026-03-30T06:59:35.048Z"
+generated_at: "2026-03-30T07:02:32.947Z"
 status: "active"
 ---
 

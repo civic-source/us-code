@@ -3,9 +3,9 @@ title: "Section 283l - Increase in resources of the Fund for Special Operations"
 usc_title: 22
 usc_section: "283l"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 283l"
-generated_at: "2026-03-30T06:59:34.969Z"
+generated_at: "2026-03-30T07:02:32.866Z"
 status: "active"
 ---
 

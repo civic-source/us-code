@@ -3,9 +3,9 @@ title: "Section 1783 - Bereavement counseling"
 usc_title: 38
 usc_section: "1783"
 chapter: 17
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "38 U.S.C. § 1783"
-generated_at: "2026-03-30T07:00:28.586Z"
+generated_at: "2026-03-30T07:02:51.362Z"
 status: "active"
 ---
 

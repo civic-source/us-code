@@ -3,9 +3,9 @@ title: "Section 2363 - Repealed. Pub. L. 102–484, div. D, title XLII , §§ 42
 usc_title: 10
 usc_section: "2363"
 chapter: 139
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 2363"
-generated_at: "2026-03-30T06:57:50.032Z"
+generated_at: "2026-03-30T07:01:27.980Z"
 status: "repealed"
 ---
 

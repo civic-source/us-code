@@ -3,9 +3,9 @@ title: "Section 1101 - Congressional declaration of policy and objectives"
 usc_title: 33
 usc_section: "1101"
 chapter: 22
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "33 U.S.C. § 1101"
-generated_at: "2026-03-30T07:00:10.838Z"
+generated_at: "2026-03-30T07:02:45.985Z"
 status: "active"
 ---
 

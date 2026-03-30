@@ -3,9 +3,9 @@ title: "Section 13 - Repealed. Pub. L. 103–432, title I , § 156(a)(1), Oct. 3
 usc_title: 42
 usc_section: "13"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T07:00:49.239Z"
+generated_at: "2026-03-30T07:03:04.664Z"
 status: "repealed"
 ---
 

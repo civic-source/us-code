@@ -3,9 +3,9 @@ title: "Section 6410 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "6410"
 chapter: 573
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 6410"
-generated_at: "2026-03-30T06:57:50.070Z"
+generated_at: "2026-03-30T07:01:28.025Z"
 status: "repealed"
 ---
 

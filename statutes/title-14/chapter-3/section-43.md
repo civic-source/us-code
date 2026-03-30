@@ -3,9 +3,9 @@ title: "Section 43 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641 ]"
 usc_title: 14
 usc_section: "43"
 chapter: 3
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "14 U.S.C. § 43"
-generated_at: "2026-03-30T06:58:13.203Z"
+generated_at: "2026-03-30T07:01:35.772Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5206 - Loans to individuals and groups; appropriation"
 usc_title: 25
 usc_section: "5206"
 chapter: 45
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 5206"
-generated_at: "2026-03-30T06:59:23.390Z"
+generated_at: "2026-03-30T07:02:25.181Z"
 status: "active"
 ---
 

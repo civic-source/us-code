@@ -3,9 +3,9 @@ title: "Section 1314 - Public advisory groups"
 usc_title: 42
 usc_section: "1314"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 1314"
-generated_at: "2026-03-30T07:00:49.223Z"
+generated_at: "2026-03-30T07:03:04.651Z"
 status: "active"
 ---
 

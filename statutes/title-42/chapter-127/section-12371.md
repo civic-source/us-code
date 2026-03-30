@@ -3,9 +3,9 @@ title: "Section 12371 - Findings"
 usc_title: 42
 usc_section: "12371"
 chapter: 127
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 12371"
-generated_at: "2026-03-30T07:00:49.717Z"
+generated_at: "2026-03-30T07:03:05.074Z"
 status: "active"
 ---
 

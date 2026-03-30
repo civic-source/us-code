@@ -3,9 +3,9 @@ title: "Section 1 - Interstate consolidations and mergers"
 usc_title: 12
 usc_section: "1"
 chapter: 2
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T06:58:36.677Z"
+generated_at: "2026-03-30T07:01:44.283Z"
 status: "active"
 ---
 

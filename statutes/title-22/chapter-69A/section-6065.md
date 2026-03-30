@@ -3,9 +3,9 @@ title: "Section 6065 - Requirements and factors for determining transition gover
 usc_title: 22
 usc_section: "6065"
 chapter: 69
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 6065"
-generated_at: "2026-03-30T06:59:35.060Z"
+generated_at: "2026-03-30T07:02:32.959Z"
 status: "active"
 ---
 

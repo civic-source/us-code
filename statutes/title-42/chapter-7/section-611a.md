@@ -3,9 +3,9 @@ title: "Section 611a - State required to provide certain information"
 usc_title: 42
 usc_section: "611a"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 611a"
-generated_at: "2026-03-30T07:00:49.200Z"
+generated_at: "2026-03-30T07:03:04.630Z"
 status: "active"
 ---
 

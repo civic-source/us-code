@@ -3,9 +3,9 @@ title: "Section 181b - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 16
 usc_section: "181b"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 181b"
-generated_at: "2026-03-30T06:59:20.305Z"
+generated_at: "2026-03-30T07:02:21.076Z"
 status: "repealed"
 ---
 

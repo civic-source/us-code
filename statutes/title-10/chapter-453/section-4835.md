@@ -3,9 +3,9 @@ title: "Section 4835 - Repealed. Pub. L. 107–314, div. A, title X , § 1006(c)
 usc_title: 10
 usc_section: "4835"
 chapter: 453
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 4835"
-generated_at: "2026-03-30T06:57:50.065Z"
+generated_at: "2026-03-30T07:01:28.019Z"
 status: "repealed"
 ---
 

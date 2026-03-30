@@ -3,9 +3,9 @@ title: "Section 714 - Creation and purpose of Corporation"
 usc_title: 15
 usc_section: "714"
 chapter: 15
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "15 U.S.C. § 714"
-generated_at: "2026-03-30T06:58:17.201Z"
+generated_at: "2026-03-30T07:01:50.886Z"
 status: "active"
 ---
 

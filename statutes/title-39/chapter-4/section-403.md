@@ -3,9 +3,9 @@ title: "Section 403 - General duties"
 usc_title: 39
 usc_section: "403"
 chapter: 4
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "39 U.S.C. § 403"
-generated_at: "2026-03-30T07:00:16.500Z"
+generated_at: "2026-03-30T07:02:49.610Z"
 status: "active"
 ---
 

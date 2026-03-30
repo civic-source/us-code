@@ -3,9 +3,9 @@ title: "Section 730 - Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561"
 usc_title: 33
 usc_section: "730"
 chapter: 16
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "33 U.S.C. § 730"
-generated_at: "2026-03-30T07:00:10.832Z"
+generated_at: "2026-03-30T07:02:45.978Z"
 status: "repealed"
 ---
 

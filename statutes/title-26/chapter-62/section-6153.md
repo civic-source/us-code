@@ -3,9 +3,9 @@ title: "Section 6153 - Repealed. Pub. L. 98–369, div. A, title IV , § 412(a)(
 usc_title: 26
 usc_section: "6153"
 chapter: 62
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 6153"
-generated_at: "2026-03-30T06:59:48.980Z"
+generated_at: "2026-03-30T07:02:42.406Z"
 status: "repealed"
 ---
 

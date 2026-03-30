@@ -3,9 +3,9 @@ title: "Section 160h - Programs for development of area for recreational sports 
 usc_title: 16
 usc_section: "160h"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "16 U.S.C. § 160h"
-generated_at: "2026-03-30T06:59:20.304Z"
+generated_at: "2026-03-30T07:02:21.075Z"
 status: "active"
 ---
 

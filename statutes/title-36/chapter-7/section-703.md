@@ -3,9 +3,9 @@ title: "Section 703 - Duties of Federal land management agency"
 usc_title: 36
 usc_section: "703"
 chapter: 7
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "36 U.S.C. § 703"
-generated_at: "2026-03-30T07:00:15.805Z"
+generated_at: "2026-03-30T07:02:49.119Z"
 status: "active"
 ---
 

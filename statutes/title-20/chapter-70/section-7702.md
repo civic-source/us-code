@@ -3,9 +3,9 @@ title: "Section 7702 - Payments relating to Federal acquisition of real property
 usc_title: 20
 usc_section: "7702"
 chapter: 70
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "20 U.S.C. § 7702"
-generated_at: "2026-03-30T06:58:56.077Z"
+generated_at: "2026-03-30T07:01:56.757Z"
 status: "active"
 ---
 

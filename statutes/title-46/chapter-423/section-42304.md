@@ -3,9 +3,9 @@ title: "Section 42304 - Action against foreign carriers"
 usc_title: 46
 usc_section: "42304"
 chapter: 423
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "46 U.S.C. § 42304"
-generated_at: "2026-03-30T07:00:54.120Z"
+generated_at: "2026-03-30T07:03:08.188Z"
 status: "active"
 ---
 

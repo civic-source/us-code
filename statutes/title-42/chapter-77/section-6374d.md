@@ -3,9 +3,9 @@ title: "Section 6374d - Studies and reports"
 usc_title: 42
 usc_section: "6374d"
 chapter: 77
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 6374d"
-generated_at: "2026-03-30T07:00:49.556Z"
+generated_at: "2026-03-30T07:03:04.941Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 959 - Trustees and receivers suable; management; State laws"
 usc_title: 28
 usc_section: "959"
 chapter: 57
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "28 U.S.C. § 959"
-generated_at: "2026-03-30T06:59:54.695Z"
+generated_at: "2026-03-30T07:02:35.710Z"
 status: "active"
 ---
 

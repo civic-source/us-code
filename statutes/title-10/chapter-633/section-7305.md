@@ -3,9 +3,9 @@ title: "Section 7305 - Vessels stricken from Naval Vessel Register: sale"
 usc_title: 10
 usc_section: "7305"
 chapter: 633
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 7305"
-generated_at: "2026-03-30T06:57:50.073Z"
+generated_at: "2026-03-30T07:01:28.029Z"
 status: "active"
 ---
 

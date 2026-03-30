@@ -3,9 +3,9 @@ title: "Section 16521 - Report on energy integration with Latin America"
 usc_title: 42
 usc_section: "16521"
 chapter: 149
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 16521"
-generated_at: "2026-03-30T07:00:49.790Z"
+generated_at: "2026-03-30T07:03:05.132Z"
 status: "active"
 ---
 

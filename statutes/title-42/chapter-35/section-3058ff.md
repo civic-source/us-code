@@ -3,9 +3,9 @@ title: "Section 3058ff - Rule of construction"
 usc_title: 42
 usc_section: "3058ff"
 chapter: 35
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 3058ff"
-generated_at: "2026-03-30T07:00:49.478Z"
+generated_at: "2026-03-30T07:03:04.874Z"
 status: "active"
 ---
 

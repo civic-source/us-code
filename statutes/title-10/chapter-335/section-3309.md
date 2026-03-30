@@ -3,9 +3,9 @@ title: "Section 3309 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "3309"
 chapter: 335
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 3309"
-generated_at: "2026-03-30T06:57:50.059Z"
+generated_at: "2026-03-30T07:01:28.011Z"
 status: "repealed"
 ---
 

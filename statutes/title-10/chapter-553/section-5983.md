@@ -3,9 +3,9 @@ title: "Section 5983 - State Department: assignment of enlisted members as custo
 usc_title: 10
 usc_section: "5983"
 chapter: 553
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 5983"
-generated_at: "2026-03-30T06:57:50.068Z"
+generated_at: "2026-03-30T07:01:28.023Z"
 status: "active"
 ---
 

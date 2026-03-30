@@ -3,9 +3,9 @@ title: "Section 10218 - Army and Air Force Reserve technicians: conditions for r
 usc_title: 10
 usc_section: "10218"
 chapter: 1007
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 10218"
-generated_at: "2026-03-30T06:57:50.086Z"
+generated_at: "2026-03-30T07:01:28.044Z"
 status: "active"
 ---
 

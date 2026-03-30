@@ -3,9 +3,9 @@ title: "Section 7927 - Sense of Congress on restoration of State sovereignty ove
 usc_title: 20
 usc_section: "7927"
 chapter: 70
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "20 U.S.C. § 7927"
-generated_at: "2026-03-30T06:58:56.083Z"
+generated_at: "2026-03-30T07:01:56.763Z"
 status: "active"
 ---
 

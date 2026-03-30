@@ -3,9 +3,9 @@ title: "Section 15733 - Northern Border Regional Commission"
 usc_title: 40
 usc_section: "15733"
 chapter: 4
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "40 U.S.C. § 15733"
-generated_at: "2026-03-30T07:00:20.802Z"
+generated_at: "2026-03-30T07:02:52.831Z"
 status: "active"
 ---
 

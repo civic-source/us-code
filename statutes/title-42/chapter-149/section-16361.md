@@ -3,9 +3,9 @@ title: "Section 16361 - Arctic Engineering Research Center"
 usc_title: 42
 usc_section: "16361"
 chapter: 149
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 16361"
-generated_at: "2026-03-30T07:00:49.786Z"
+generated_at: "2026-03-30T07:03:05.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7235 - Establishment of the Southern Sea Otter Military Readines
 usc_title: 10
 usc_section: "7235"
 chapter: 631
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 7235"
-generated_at: "2026-03-30T06:57:50.073Z"
+generated_at: "2026-03-30T07:01:28.029Z"
 status: "active"
 ---
 

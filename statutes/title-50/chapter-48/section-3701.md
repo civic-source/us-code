@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 50
 usc_section: "3701"
 chapter: 48
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "50 U.S.C. § 3701"
-generated_at: "2026-03-30T07:00:55.621Z"
+generated_at: "2026-03-30T07:03:10.286Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8236b - Report"
 usc_title: 42
 usc_section: "8236b"
 chapter: 91
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 8236b"
-generated_at: "2026-03-30T07:00:49.635Z"
+generated_at: "2026-03-30T07:03:05.006Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1363 - Effect of election on corporation"
 usc_title: 26
 usc_section: "1363"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 1363"
-generated_at: "2026-03-30T06:59:48.916Z"
+generated_at: "2026-03-30T07:02:42.343Z"
 status: "active"
 ---
 

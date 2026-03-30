@@ -3,9 +3,9 @@ title: "Section 666 - Suits for adjudication of water rights"
 usc_title: 43
 usc_section: "666"
 chapter: 15
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "43 U.S.C. § 666"
-generated_at: "2026-03-30T07:00:33.070Z"
+generated_at: "2026-03-30T07:02:55.540Z"
 status: "active"
 ---
 

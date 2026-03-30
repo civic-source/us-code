@@ -3,9 +3,9 @@ title: "Section 5519 - Crediting amounts received for certain Reserve or Nationa
 usc_title: 5
 usc_section: "5519"
 chapter: 55
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "5 U.S.C. § 5519"
-generated_at: "2026-03-30T06:57:38.999Z"
+generated_at: "2026-03-30T07:01:18.822Z"
 status: "active"
 ---
 

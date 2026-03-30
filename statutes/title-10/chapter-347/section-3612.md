@@ -3,9 +3,9 @@ title: "Section 3612 - Repealed. Pub. L. 90–235 , § 8(2), Jan. 2, 1968 , 81 S
 usc_title: 10
 usc_section: "3612"
 chapter: 347
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 3612"
-generated_at: "2026-03-30T06:57:50.059Z"
+generated_at: "2026-03-30T07:01:28.012Z"
 status: "repealed"
 ---
 

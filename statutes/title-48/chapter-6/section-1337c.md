@@ -3,9 +3,9 @@ title: "Section 1337c - Omitted"
 usc_title: 48
 usc_section: "1337c"
 chapter: 6
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "48 U.S.C. § 1337c"
-generated_at: "2026-03-30T07:00:53.300Z"
+generated_at: "2026-03-30T07:03:09.069Z"
 status: "omitted"
 ---
 

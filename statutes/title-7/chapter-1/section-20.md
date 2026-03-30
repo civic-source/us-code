@@ -3,9 +3,9 @@ title: "Section 20 - Market reports"
 usc_title: 7
 usc_section: "20"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 20"
-generated_at: "2026-03-30T06:57:44.239Z"
+generated_at: "2026-03-30T07:01:33.292Z"
 status: "active"
 ---
 

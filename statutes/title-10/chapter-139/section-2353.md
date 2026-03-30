@@ -3,9 +3,9 @@ title: "Section 2353 - Contracts: acquisition, construction, or furnishing of te
 usc_title: 10
 usc_section: "2353"
 chapter: 139
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "10 U.S.C. § 2353"
-generated_at: "2026-03-30T06:57:50.031Z"
+generated_at: "2026-03-30T07:01:27.979Z"
 status: "active"
 ---
 

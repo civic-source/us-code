@@ -3,9 +3,9 @@ title: "Section 2367 - Reports on acquisition of technology relating to weapons 
 usc_title: 50
 usc_section: "2367"
 chapter: 40
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "50 U.S.C. § 2367"
-generated_at: "2026-03-30T07:00:55.588Z"
+generated_at: "2026-03-30T07:03:10.260Z"
 status: "active"
 ---
 

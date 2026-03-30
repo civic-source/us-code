@@ -3,9 +3,9 @@ title: "Section 60511 - Technology careers training demonstration grants"
 usc_title: 34
 usc_section: "60511"
 chapter: 605
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "34 U.S.C. § 60511"
-generated_at: "2026-03-30T07:00:13.369Z"
+generated_at: "2026-03-30T07:02:45.042Z"
 status: "active"
 ---
 

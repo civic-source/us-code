@@ -3,9 +3,9 @@ title: "Section 617 - Refund on goods exported; bond to suspend tax on commodity
 usc_title: 7
 usc_section: "617"
 chapter: 26
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 617"
-generated_at: "2026-03-30T06:57:44.271Z"
+generated_at: "2026-03-30T07:01:33.327Z"
 status: "active"
 ---
 

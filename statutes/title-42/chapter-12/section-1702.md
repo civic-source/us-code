@@ -3,9 +3,9 @@ title: "Section 1702 - Application of Longshore and Harbor Workers’ Compensati
 usc_title: 42
 usc_section: "1702"
 chapter: 12
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 1702"
-generated_at: "2026-03-30T07:00:49.406Z"
+generated_at: "2026-03-30T07:03:04.809Z"
 status: "active"
 ---
 

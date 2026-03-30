@@ -3,9 +3,9 @@ title: "Section 4145d - Review and report"
 usc_title: 25
 usc_section: "4145d"
 chapter: 43
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "25 U.S.C. § 4145d"
-generated_at: "2026-03-30T06:59:23.386Z"
+generated_at: "2026-03-30T07:02:25.177Z"
 status: "active"
 ---
 

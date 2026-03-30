@@ -3,9 +3,9 @@ title: "Section 44111 - Modifications in registration and recordation system for
 usc_title: 49
 usc_section: "44111"
 chapter: 441
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "49 U.S.C. § 44111"
-generated_at: "2026-03-30T07:00:58.188Z"
+generated_at: "2026-03-30T07:03:12.381Z"
 status: "active"
 ---
 

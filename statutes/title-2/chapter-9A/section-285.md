@@ -3,9 +3,9 @@ title: "Section 285 - Establishment"
 usc_title: 2
 usc_section: "285"
 chapter: 9
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "2 U.S.C. § 285"
-generated_at: "2026-03-30T06:57:32.778Z"
+generated_at: "2026-03-30T07:01:19.840Z"
 status: "active"
 ---
 

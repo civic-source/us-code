@@ -3,9 +3,9 @@ title: "Section 795i - Availability of services"
 usc_title: 29
 usc_section: "795i"
 chapter: 16
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "29 U.S.C. § 795i"
-generated_at: "2026-03-30T06:59:39.967Z"
+generated_at: "2026-03-30T07:02:36.534Z"
 status: "active"
 ---
 

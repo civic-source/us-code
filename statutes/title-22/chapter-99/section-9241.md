@@ -3,9 +3,9 @@ title: "Section 9241 - Strategy to promote North Korean human rights"
 usc_title: 22
 usc_section: "9241"
 chapter: 99
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "22 U.S.C. § 9241"
-generated_at: "2026-03-30T06:59:35.094Z"
+generated_at: "2026-03-30T07:02:32.994Z"
 status: "active"
 ---
 

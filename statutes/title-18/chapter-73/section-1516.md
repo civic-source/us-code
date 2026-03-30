@@ -3,9 +3,9 @@ title: "Section 1516 - Obstruction of Federal audit"
 usc_title: 18
 usc_section: "1516"
 chapter: 73
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "18 U.S.C. § 1516"
-generated_at: "2026-03-30T06:58:40.122Z"
+generated_at: "2026-03-30T07:01:54.134Z"
 status: "active"
 ---
 

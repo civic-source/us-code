@@ -3,9 +3,9 @@ title: "Section 16422 - Advanced transmission technologies"
 usc_title: 42
 usc_section: "16422"
 chapter: 149
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 16422"
-generated_at: "2026-03-30T07:00:49.788Z"
+generated_at: "2026-03-30T07:03:05.130Z"
 status: "active"
 ---
 

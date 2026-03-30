@@ -3,9 +3,9 @@ title: "Section 2205a - Repealed. Pub. L. 97–375, title I , § 115, Dec. 21, 1
 usc_title: 42
 usc_section: "2205a"
 chapter: 23
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 2205a"
-generated_at: "2026-03-30T07:00:49.451Z"
+generated_at: "2026-03-30T07:03:04.851Z"
 status: "repealed"
 ---
 

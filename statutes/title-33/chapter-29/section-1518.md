@@ -3,9 +3,9 @@ title: "Section 1518 - Relationship to other laws"
 usc_title: 33
 usc_section: "1518"
 chapter: 29
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "33 U.S.C. § 1518"
-generated_at: "2026-03-30T07:00:10.859Z"
+generated_at: "2026-03-30T07:02:46.007Z"
 status: "active"
 ---
 

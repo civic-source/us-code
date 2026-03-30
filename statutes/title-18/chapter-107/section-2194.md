@@ -3,9 +3,9 @@ title: "Section 2194 - Shanghaiing sailors"
 usc_title: 18
 usc_section: "2194"
 chapter: 107
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "18 U.S.C. § 2194"
-generated_at: "2026-03-30T06:58:40.129Z"
+generated_at: "2026-03-30T07:01:54.141Z"
 status: "active"
 ---
 

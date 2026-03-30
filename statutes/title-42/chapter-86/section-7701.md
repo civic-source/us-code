@@ -3,9 +3,9 @@ title: "Section 7701 - Congressional findings"
 usc_title: 42
 usc_section: "7701"
 chapter: 86
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "42 U.S.C. § 7701"
-generated_at: "2026-03-30T07:00:49.628Z"
+generated_at: "2026-03-30T07:03:05.000Z"
 status: "active"
 ---
 

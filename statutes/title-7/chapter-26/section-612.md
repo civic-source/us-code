@@ -3,9 +3,9 @@ title: "Section 612 - Appropriation; use of revenues; administrative expenses"
 usc_title: 7
 usc_section: "612"
 chapter: 26
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 612"
-generated_at: "2026-03-30T06:57:44.270Z"
+generated_at: "2026-03-30T07:01:33.326Z"
 status: "active"
 ---
 

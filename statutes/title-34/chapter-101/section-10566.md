@@ -3,9 +3,9 @@ title: "Section 10566 - Reports"
 usc_title: 34
 usc_section: "10566"
 chapter: 101
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "34 U.S.C. § 10566"
-generated_at: "2026-03-30T07:00:13.325Z"
+generated_at: "2026-03-30T07:02:45.006Z"
 status: "active"
 ---
 

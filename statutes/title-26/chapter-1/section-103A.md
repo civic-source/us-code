@@ -3,9 +3,9 @@ title: "Section 103A - Repealed. Pub. L. 99–514, title XIII , § 1301(j)(1), O
 usc_title: 26
 usc_section: "103A"
 chapter: 1
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "26 U.S.C. § 103A"
-generated_at: "2026-03-30T06:59:48.797Z"
+generated_at: "2026-03-30T07:02:42.226Z"
 status: "repealed"
 ---
 

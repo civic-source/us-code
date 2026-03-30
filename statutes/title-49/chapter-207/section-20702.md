@@ -3,9 +3,9 @@ title: "Section 20702 - Inspections, repairs, and inspection and repair reports"
 usc_title: 49
 usc_section: "20702"
 chapter: 207
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "49 U.S.C. § 20702"
-generated_at: "2026-03-30T07:00:58.146Z"
+generated_at: "2026-03-30T07:03:12.349Z"
 status: "active"
 ---
 

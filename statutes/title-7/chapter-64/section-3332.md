@@ -3,9 +3,9 @@ title: "Section 3332 - Program; development, purposes, scope, etc."
 usc_title: 7
 usc_section: "3332"
 chapter: 64
-current_through: "PL 115-89"
+current_through: "PL 115-90"
 classification: "7 U.S.C. § 3332"
-generated_at: "2026-03-30T06:57:44.349Z"
+generated_at: "2026-03-30T07:01:33.411Z"
 status: "active"
 ---
 
