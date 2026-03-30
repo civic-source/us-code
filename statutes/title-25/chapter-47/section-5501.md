@@ -3,9 +3,9 @@ title: "Section 5501 - Submarginal lands of United States held in trust for spec
 usc_title: 25
 usc_section: "5501"
 chapter: 47
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "25 U.S.C. § 5501"
-generated_at: "2026-03-30T06:23:26.881Z"
+generated_at: "2026-03-30T06:25:38.093Z"
 status: "active"
 ---
 

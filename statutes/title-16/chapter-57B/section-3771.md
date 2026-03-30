@@ -3,9 +3,9 @@ title: "Section 3771 - Findings and purpose"
 usc_title: 16
 usc_section: "3771"
 chapter: 57
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 3771"
-generated_at: "2026-03-30T06:23:20.599Z"
+generated_at: "2026-03-30T06:25:32.417Z"
 status: "active"
 ---
 

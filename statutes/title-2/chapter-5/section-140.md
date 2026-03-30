@@ -3,9 +3,9 @@ title: "Section 140 - Employees; fitness"
 usc_title: 2
 usc_section: "140"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 140"
-generated_at: "2026-03-30T06:22:09.216Z"
+generated_at: "2026-03-30T06:25:03.011Z"
 status: "active"
 ---
 

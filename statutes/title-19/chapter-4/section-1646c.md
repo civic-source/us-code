@@ -3,9 +3,9 @@ title: "Section 1646c - Export reporting requirement"
 usc_title: 19
 usc_section: "1646c"
 chapter: 4
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "19 U.S.C. § 1646c"
-generated_at: "2026-03-30T06:23:23.477Z"
+generated_at: "2026-03-30T06:25:26.223Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10101 - Rail transportation policy"
 usc_title: 49
 usc_section: "10101"
 chapter: 101
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 10101"
-generated_at: "2026-03-30T06:24:37.135Z"
+generated_at: "2026-03-30T06:26:35.022Z"
 status: "active"
 ---
 

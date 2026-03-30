@@ -3,9 +3,9 @@ title: "Section 135 - Income from United States savings bonds used to pay higher
 usc_title: 26
 usc_section: "135"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 135"
-generated_at: "2026-03-30T06:23:46.717Z"
+generated_at: "2026-03-30T06:25:52.299Z"
 status: "active"
 ---
 

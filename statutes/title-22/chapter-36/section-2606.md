@@ -3,9 +3,9 @@ title: "Section 2606 - Audits of U.S. funds received by the United Nations High 
 usc_title: 22
 usc_section: "2606"
 chapter: 36
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 2606"
-generated_at: "2026-03-30T06:23:30.338Z"
+generated_at: "2026-03-30T06:25:39.884Z"
 status: "active"
 ---
 

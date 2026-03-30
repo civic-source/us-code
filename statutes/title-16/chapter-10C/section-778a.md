@@ -3,9 +3,9 @@ title: "Section 778a - Acquisition of lands; construction of buildings; employme
 usc_title: 16
 usc_section: "778a"
 chapter: 10
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 778a"
-generated_at: "2026-03-30T06:23:20.527Z"
+generated_at: "2026-03-30T06:25:32.344Z"
 status: "active"
 ---
 

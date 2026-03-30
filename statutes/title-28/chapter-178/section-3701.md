@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 28
 usc_section: "3701"
 chapter: 178
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "28 U.S.C. § 3701"
-generated_at: "2026-03-30T06:23:39.401Z"
+generated_at: "2026-03-30T06:25:42.888Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1235 - Transfer of authority to regulate to head of other depart
 usc_title: 33
 usc_section: "1235"
 chapter: 25
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "33 U.S.C. § 1235"
-generated_at: "2026-03-30T06:23:53.614Z"
+generated_at: "2026-03-30T06:26:00.756Z"
 status: "active"
 ---
 

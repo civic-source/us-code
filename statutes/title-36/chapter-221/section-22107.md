@@ -3,9 +3,9 @@ title: "Section 22107 - Records and inspection"
 usc_title: 36
 usc_section: "22107"
 chapter: 221
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "36 U.S.C. § 22107"
-generated_at: "2026-03-30T06:23:56.289Z"
+generated_at: "2026-03-30T06:26:03.091Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 152 - Issue of patent to assignee"
 usc_title: 35
 usc_section: "152"
 chapter: 14
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "35 U.S.C. § 152"
-generated_at: "2026-03-30T06:23:48.773Z"
+generated_at: "2026-03-30T06:25:54.340Z"
 status: "active"
 ---
 

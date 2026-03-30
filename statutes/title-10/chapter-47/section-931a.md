@@ -3,9 +3,9 @@ title: "Section 931a - Art. 131a]"
 usc_title: 10
 usc_section: "931a"
 chapter: 47
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 931a"
-generated_at: "2026-03-30T06:22:46.410Z"
+generated_at: "2026-03-30T06:25:13.948Z"
 status: "active"
 ---
 

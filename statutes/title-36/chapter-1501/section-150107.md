@@ -3,9 +3,9 @@ title: "Section 150107 - Powers"
 usc_title: 36
 usc_section: "150107"
 chapter: 1501
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "36 U.S.C. § 150107"
-generated_at: "2026-03-30T06:23:56.297Z"
+generated_at: "2026-03-30T06:26:03.098Z"
 status: "active"
 ---
 

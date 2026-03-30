@@ -3,9 +3,9 @@ title: "Section 5273 - Sale, use, and recovery of denatured distilled spirits"
 usc_title: 26
 usc_section: "5273"
 chapter: 51
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 5273"
-generated_at: "2026-03-30T06:23:46.878Z"
+generated_at: "2026-03-30T06:25:52.460Z"
 status: "active"
 ---
 

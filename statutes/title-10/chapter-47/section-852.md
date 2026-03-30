@@ -3,9 +3,9 @@ title: "Section 852 - Art. 52. Number of votes required"
 usc_title: 10
 usc_section: "852"
 chapter: 47
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 852"
-generated_at: "2026-03-30T06:22:46.407Z"
+generated_at: "2026-03-30T06:25:13.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9836a - Standards; monitoring of Head Start agencies and program
 usc_title: 42
 usc_section: "9836a"
 chapter: 105
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 9836a"
-generated_at: "2026-03-30T06:24:31.266Z"
+generated_at: "2026-03-30T06:26:27.427Z"
 status: "active"
 ---
 

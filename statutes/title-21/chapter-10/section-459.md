@@ -3,9 +3,9 @@ title: "Section 459 - Compliance by all establishments"
 usc_title: 21
 usc_section: "459"
 chapter: 10
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "21 U.S.C. § 459"
-generated_at: "2026-03-30T06:23:28.399Z"
+generated_at: "2026-03-30T06:25:36.068Z"
 status: "active"
 ---
 

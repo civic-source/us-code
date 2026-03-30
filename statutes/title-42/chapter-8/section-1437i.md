@@ -3,9 +3,9 @@ title: "Section 1437i - Obligations of public housing agencies; contestability; 
 usc_title: 42
 usc_section: "1437i"
 chapter: 8
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 1437i"
-generated_at: "2026-03-30T06:24:31.024Z"
+generated_at: "2026-03-30T06:26:27.183Z"
 status: "active"
 ---
 

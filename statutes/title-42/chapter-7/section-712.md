@@ -3,9 +3,9 @@ title: "Section 712 - Services to individuals with a postpartum condition and th
 usc_title: 42
 usc_section: "712"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 712"
-generated_at: "2026-03-30T06:24:30.890Z"
+generated_at: "2026-03-30T06:26:27.048Z"
 status: "active"
 ---
 

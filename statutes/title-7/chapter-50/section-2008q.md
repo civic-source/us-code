@@ -3,9 +3,9 @@ title: "Section 2008q - Grants to train farm workers in new technologies and to 
 usc_title: 7
 usc_section: "2008q"
 chapter: 50
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 2008q"
-generated_at: "2026-03-30T06:22:43.056Z"
+generated_at: "2026-03-30T06:25:08.357Z"
 status: "active"
 ---
 

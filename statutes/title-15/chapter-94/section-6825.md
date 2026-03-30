@@ -3,9 +3,9 @@ title: "Section 6825 - Agency guidance"
 usc_title: 15
 usc_section: "6825"
 chapter: 94
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 6825"
-generated_at: "2026-03-30T06:23:02.056Z"
+generated_at: "2026-03-30T06:25:19.025Z"
 status: "active"
 ---
 

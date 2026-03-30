@@ -3,9 +3,9 @@ title: "Section 7801 - Definitions"
 usc_title: 15
 usc_section: "7801"
 chapter: 104
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 7801"
-generated_at: "2026-03-30T06:23:02.064Z"
+generated_at: "2026-03-30T06:25:19.034Z"
 status: "active"
 ---
 

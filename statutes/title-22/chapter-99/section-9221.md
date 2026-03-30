@@ -3,9 +3,9 @@ title: "Section 9221 - Determinations with respect to North Korea as a jurisdict
 usc_title: 22
 usc_section: "9221"
 chapter: 99
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 9221"
-generated_at: "2026-03-30T06:23:30.414Z"
+generated_at: "2026-03-30T06:25:39.957Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1317 - Prohibition of intimidation or reprisal"
 usc_title: 2
 usc_section: "1317"
 chapter: 24
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 1317"
-generated_at: "2026-03-30T06:22:09.237Z"
+generated_at: "2026-03-30T06:25:03.030Z"
 status: "active"
 ---
 

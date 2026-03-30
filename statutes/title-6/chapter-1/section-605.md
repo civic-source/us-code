@@ -3,9 +3,9 @@ title: "Section 605 - State Homeland Security Grant Program"
 usc_title: 6
 usc_section: "605"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "6 U.S.C. § 605"
-generated_at: "2026-03-30T06:22:40.172Z"
+generated_at: "2026-03-30T06:25:05.879Z"
 status: "active"
 ---
 

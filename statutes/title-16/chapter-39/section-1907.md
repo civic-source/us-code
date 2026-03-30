@@ -3,9 +3,9 @@ title: "Section 1907 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "1907"
 chapter: 39
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 1907"
-generated_at: "2026-03-30T06:23:20.582Z"
+generated_at: "2026-03-30T06:25:32.401Z"
 status: "repealed"
 ---
 

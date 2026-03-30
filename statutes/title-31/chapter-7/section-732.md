@@ -3,9 +3,9 @@ title: "Section 732 - Personnel management system"
 usc_title: 31
 usc_section: "732"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "31 U.S.C. § 732"
-generated_at: "2026-03-30T06:23:51.265Z"
+generated_at: "2026-03-30T06:25:58.008Z"
 status: "active"
 ---
 

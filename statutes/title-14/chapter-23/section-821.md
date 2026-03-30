@@ -3,9 +3,9 @@ title: "Section 821 - Administration of the Coast Guard Auxiliary"
 usc_title: 14
 usc_section: "821"
 chapter: 23
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "14 U.S.C. § 821"
-generated_at: "2026-03-30T06:22:56.535Z"
+generated_at: "2026-03-30T06:25:19.311Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1399 - Notice, collection, etc., of withdrawal liability"
 usc_title: 29
 usc_section: "1399"
 chapter: 18
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "29 U.S.C. § 1399"
-generated_at: "2026-03-30T06:23:34.061Z"
+generated_at: "2026-03-30T06:25:43.880Z"
 status: "active"
 ---
 

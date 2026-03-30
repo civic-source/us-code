@@ -3,9 +3,9 @@ title: "Section 3911 - Repealed. Pub. L. 98–181, title I [title IV, § 474(e)]
 usc_title: 42
 usc_section: "3911"
 chapter: 48
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 3911"
-generated_at: "2026-03-30T06:24:31.123Z"
+generated_at: "2026-03-30T06:26:27.283Z"
 status: "repealed"
 ---
 

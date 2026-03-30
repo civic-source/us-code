@@ -3,9 +3,9 @@ title: "Section 454 - Consent of Congress to obstruction of waters by New York C
 usc_title: 33
 usc_section: "454"
 chapter: 9
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "33 U.S.C. § 454"
-generated_at: "2026-03-30T06:23:53.593Z"
+generated_at: "2026-03-30T06:26:00.735Z"
 status: "active"
 ---
 

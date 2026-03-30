@@ -3,9 +3,9 @@ title: "Section 6301 - Collection authority"
 usc_title: 26
 usc_section: "6301"
 chapter: 64
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 6301"
-generated_at: "2026-03-30T06:23:46.900Z"
+generated_at: "2026-03-30T06:25:52.482Z"
 status: "active"
 ---
 

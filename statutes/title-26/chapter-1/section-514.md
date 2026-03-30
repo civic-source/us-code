@@ -3,9 +3,9 @@ title: "Section 514 - Unrelated debt-financed income"
 usc_title: 26
 usc_section: "514"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 514"
-generated_at: "2026-03-30T06:23:46.781Z"
+generated_at: "2026-03-30T06:25:52.364Z"
 status: "active"
 ---
 

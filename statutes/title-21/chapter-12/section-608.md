@@ -3,9 +3,9 @@ title: "Section 608 - Sanitary inspection and regulation of slaughtering and pac
 usc_title: 21
 usc_section: "608"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "21 U.S.C. § 608"
-generated_at: "2026-03-30T06:23:28.400Z"
+generated_at: "2026-03-30T06:25:36.069Z"
 status: "active"
 ---
 

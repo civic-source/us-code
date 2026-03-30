@@ -3,9 +3,9 @@ title: "Section 44735 - Limitation on disclosure of safety information"
 usc_title: 49
 usc_section: "44735"
 chapter: 447
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 44735"
-generated_at: "2026-03-30T06:24:37.184Z"
+generated_at: "2026-03-30T06:26:35.071Z"
 status: "active"
 ---
 

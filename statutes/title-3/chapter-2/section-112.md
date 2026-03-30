@@ -3,9 +3,9 @@ title: "Section 112 - Detail of employees of executive departments"
 usc_title: 3
 usc_section: "112"
 chapter: 2
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "3 U.S.C. § 112"
-generated_at: "2026-03-30T06:22:15.919Z"
+generated_at: "2026-03-30T06:24:59.982Z"
 status: "active"
 ---
 

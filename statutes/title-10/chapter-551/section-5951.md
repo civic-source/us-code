@@ -3,9 +3,9 @@ title: "Section 5951 - Continuation of authority after loss of vessel or aircraf
 usc_title: 10
 usc_section: "5951"
 chapter: 551
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 5951"
-generated_at: "2026-03-30T06:22:46.492Z"
+generated_at: "2026-03-30T06:25:14.035Z"
 status: "active"
 ---
 

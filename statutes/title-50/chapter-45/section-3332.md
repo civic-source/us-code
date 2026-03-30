@@ -3,9 +3,9 @@ title: "Section 3332 - Guidance and reporting requirement regarding the interact
 usc_title: 50
 usc_section: "3332"
 chapter: 45
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "50 U.S.C. § 3332"
-generated_at: "2026-03-30T06:24:45.862Z"
+generated_at: "2026-03-30T06:26:33.080Z"
 status: "active"
 ---
 

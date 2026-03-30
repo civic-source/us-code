@@ -3,9 +3,9 @@ title: "Section 6208 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6208"
 chapter: 91
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 6208"
-generated_at: "2026-03-30T06:22:43.106Z"
+generated_at: "2026-03-30T06:25:08.407Z"
 status: "active"
 ---
 

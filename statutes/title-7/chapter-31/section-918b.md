@@ -3,9 +3,9 @@ title: "Section 918b - Acquisition of existing systems in rural communities with
 usc_title: 7
 usc_section: "918b"
 chapter: 31
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 918b"
-generated_at: "2026-03-30T06:22:43.012Z"
+generated_at: "2026-03-30T06:25:08.311Z"
 status: "active"
 ---
 

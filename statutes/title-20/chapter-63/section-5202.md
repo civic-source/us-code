@@ -3,9 +3,9 @@ title: "Section 5202 - Eisenhower Exchange Fellowship Program Trust Fund"
 usc_title: 20
 usc_section: "5202"
 chapter: 63
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "20 U.S.C. § 5202"
-generated_at: "2026-03-30T06:23:07.054Z"
+generated_at: "2026-03-30T06:25:29.217Z"
 status: "active"
 ---
 

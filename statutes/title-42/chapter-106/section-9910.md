@@ -3,9 +3,9 @@ title: "Section 9910 - Tripartite boards"
 usc_title: 42
 usc_section: "9910"
 chapter: 106
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 9910"
-generated_at: "2026-03-30T06:24:31.274Z"
+generated_at: "2026-03-30T06:26:27.435Z"
 status: "active"
 ---
 

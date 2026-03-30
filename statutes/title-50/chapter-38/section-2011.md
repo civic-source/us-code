@@ -3,9 +3,9 @@ title: "Section 2011 - CIARDS system"
 usc_title: 50
 usc_section: "2011"
 chapter: 38
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "50 U.S.C. § 2011"
-generated_at: "2026-03-30T06:24:45.835Z"
+generated_at: "2026-03-30T06:26:33.052Z"
 status: "active"
 ---
 

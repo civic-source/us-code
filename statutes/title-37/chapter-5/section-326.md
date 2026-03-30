@@ -3,9 +3,9 @@ title: "Section 326 - Incentive bonus: conversion to military occupational speci
 usc_title: 37
 usc_section: "326"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "37 U.S.C. § 326"
-generated_at: "2026-03-30T06:23:55.716Z"
+generated_at: "2026-03-30T06:26:05.826Z"
 status: "active"
 ---
 

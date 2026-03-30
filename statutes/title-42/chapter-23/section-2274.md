@@ -3,9 +3,9 @@ title: "Section 2274 - Communication of Restricted Data"
 usc_title: 42
 usc_section: "2274"
 chapter: 23
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 2274"
-generated_at: "2026-03-30T06:24:31.082Z"
+generated_at: "2026-03-30T06:26:27.241Z"
 status: "active"
 ---
 

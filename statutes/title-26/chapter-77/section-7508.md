@@ -3,9 +3,9 @@ title: "Section 7508 - Time for performing certain acts postponed by reason of s
 usc_title: 26
 usc_section: "7508"
 chapter: 77
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 7508"
-generated_at: "2026-03-30T06:23:46.922Z"
+generated_at: "2026-03-30T06:25:52.505Z"
 status: "active"
 ---
 

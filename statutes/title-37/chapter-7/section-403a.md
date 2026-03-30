@@ -3,9 +3,9 @@ title: "Section 403a - Repealed. Pub. L. 105–85, div. A, title VI , § 603(c)(
 usc_title: 37
 usc_section: "403a"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "37 U.S.C. § 403a"
-generated_at: "2026-03-30T06:23:55.718Z"
+generated_at: "2026-03-30T06:26:05.829Z"
 status: "repealed"
 ---
 

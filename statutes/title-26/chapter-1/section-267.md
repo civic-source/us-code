@@ -3,9 +3,9 @@ title: "Section 267 - Losses, expenses, and interest with respect to transaction
 usc_title: 26
 usc_section: "267"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 267"
-generated_at: "2026-03-30T06:23:46.740Z"
+generated_at: "2026-03-30T06:25:52.322Z"
 status: "active"
 ---
 

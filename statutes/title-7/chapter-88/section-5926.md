@@ -3,9 +3,9 @@ title: "Section 5926 - Centers of excellence"
 usc_title: 7
 usc_section: "5926"
 chapter: 88
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 5926"
-generated_at: "2026-03-30T06:22:43.102Z"
+generated_at: "2026-03-30T06:25:08.403Z"
 status: "active"
 ---
 

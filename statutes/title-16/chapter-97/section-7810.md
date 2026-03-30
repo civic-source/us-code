@@ -3,9 +3,9 @@ title: "Section 7810 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7810"
 chapter: 97
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 7810"
-generated_at: "2026-03-30T06:23:20.629Z"
+generated_at: "2026-03-30T06:25:32.448Z"
 status: "active"
 ---
 

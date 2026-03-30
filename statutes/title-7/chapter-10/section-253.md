@@ -3,9 +3,9 @@ title: "Section 253 - Public information"
 usc_title: 7
 usc_section: "253"
 chapter: 10
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 253"
-generated_at: "2026-03-30T06:22:42.999Z"
+generated_at: "2026-03-30T06:25:08.300Z"
 status: "active"
 ---
 

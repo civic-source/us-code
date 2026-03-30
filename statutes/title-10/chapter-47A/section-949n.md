@@ -3,9 +3,9 @@ title: "Section 949n - Military commission to announce action"
 usc_title: 10
 usc_section: "949n"
 chapter: 47
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 949n"
-generated_at: "2026-03-30T06:22:46.412Z"
+generated_at: "2026-03-30T06:25:13.950Z"
 status: "active"
 ---
 

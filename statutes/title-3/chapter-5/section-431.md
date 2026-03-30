@@ -3,9 +3,9 @@ title: "Section 431 - Application of chapter 71 of title 5, relating to Federal 
 usc_title: 3
 usc_section: "431"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "3 U.S.C. § 431"
-generated_at: "2026-03-30T06:22:15.920Z"
+generated_at: "2026-03-30T06:24:59.983Z"
 status: "active"
 ---
 

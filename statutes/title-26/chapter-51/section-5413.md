@@ -3,9 +3,9 @@ title: "Section 5413 - Brewers procuring beer from other brewers"
 usc_title: 26
 usc_section: "5413"
 chapter: 51
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 5413"
-generated_at: "2026-03-30T06:23:46.879Z"
+generated_at: "2026-03-30T06:25:52.462Z"
 status: "active"
 ---
 

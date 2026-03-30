@@ -3,9 +3,9 @@ title: "Section 278b - Repealed. Pub. L. 95–426, title VII , § 701(b), Oct. 7
 usc_title: 22
 usc_section: "278b"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 278b"
-generated_at: "2026-03-30T06:23:30.286Z"
+generated_at: "2026-03-30T06:25:39.833Z"
 status: "repealed"
 ---
 

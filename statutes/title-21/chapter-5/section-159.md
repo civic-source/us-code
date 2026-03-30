@@ -3,9 +3,9 @@ title: "Section 159 - Enforcement; penalties applicable; Congressional findings"
 usc_title: 21
 usc_section: "159"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "21 U.S.C. § 159"
-generated_at: "2026-03-30T06:23:28.348Z"
+generated_at: "2026-03-30T06:25:36.018Z"
 status: "active"
 ---
 

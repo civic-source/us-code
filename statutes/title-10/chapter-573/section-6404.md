@@ -3,9 +3,9 @@ title: "Section 6404 - Treatment of fractions of years of service in computing r
 usc_title: 10
 usc_section: "6404"
 chapter: 573
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 6404"
-generated_at: "2026-03-30T06:22:46.495Z"
+generated_at: "2026-03-30T06:25:14.038Z"
 status: "active"
 ---
 

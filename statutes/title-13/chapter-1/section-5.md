@@ -3,9 +3,9 @@ title: "Section 5 - Questionnaires; number, form, and scope of inquiries"
 usc_title: 13
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "13 U.S.C. § 5"
-generated_at: "2026-03-30T06:23:02.113Z"
+generated_at: "2026-03-30T06:25:15.747Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5041 - Repealed. Pub. L. 98–473, title II , § 214(b), Oct. 12
 usc_title: 18
 usc_section: "5041"
 chapter: 403
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 5041"
-generated_at: "2026-03-30T06:23:14.927Z"
+generated_at: "2026-03-30T06:25:27.622Z"
 status: "repealed"
 ---
 

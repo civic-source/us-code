@@ -3,9 +3,9 @@ title: "Section 2791 - Repealed. Pub. L. 104–201, div. A, title XI , § 1121(b
 usc_title: 10
 usc_section: "2791"
 chapter: 167
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 2791"
-generated_at: "2026-03-30T06:22:46.477Z"
+generated_at: "2026-03-30T06:25:14.019Z"
 status: "repealed"
 ---
 

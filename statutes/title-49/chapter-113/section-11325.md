@@ -3,9 +3,9 @@ title: "Section 11325 - Consolidation, merger, and acquisition of control: proce
 usc_title: 49
 usc_section: "11325"
 chapter: 113
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 11325"
-generated_at: "2026-03-30T06:24:37.137Z"
+generated_at: "2026-03-30T06:26:35.025Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10707 - Repealed. Pub. L. 103–206, title IV , § 420(a), Dec. 
 usc_title: 46
 usc_section: "10707"
 chapter: 107
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "46 U.S.C. § 10707"
-generated_at: "2026-03-30T06:24:34.687Z"
+generated_at: "2026-03-30T06:26:30.732Z"
 status: "repealed"
 ---
 

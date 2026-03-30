@@ -3,9 +3,9 @@ title: "Section 3442 - Repealed. Pub. L. 99–145, title XII , § 1204(a)(1), No
 usc_title: 20
 usc_section: "3442"
 chapter: 48
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "20 U.S.C. § 3442"
-generated_at: "2026-03-30T06:23:07.046Z"
+generated_at: "2026-03-30T06:25:29.209Z"
 status: "repealed"
 ---
 

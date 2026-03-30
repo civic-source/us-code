@@ -3,9 +3,9 @@ title: "Section 40701 - Research and development initiative"
 usc_title: 51
 usc_section: "40701"
 chapter: 407
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "51 U.S.C. § 40701"
-generated_at: "2026-03-30T06:24:47.694Z"
+generated_at: "2026-03-30T06:26:37.665Z"
 status: "active"
 ---
 

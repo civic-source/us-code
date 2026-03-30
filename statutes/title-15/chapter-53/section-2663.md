@@ -3,9 +3,9 @@ title: "Section 2663 - EPA citizen’s guide"
 usc_title: 15
 usc_section: "2663"
 chapter: 53
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 2663"
-generated_at: "2026-03-30T06:23:02.027Z"
+generated_at: "2026-03-30T06:25:18.993Z"
 status: "active"
 ---
 

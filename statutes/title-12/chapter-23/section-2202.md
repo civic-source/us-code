@@ -3,9 +3,9 @@ title: "Section 2202 - Reconsideration of actions"
 usc_title: 12
 usc_section: "2202"
 chapter: 23
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "12 U.S.C. § 2202"
-generated_at: "2026-03-30T06:23:00.021Z"
+generated_at: "2026-03-30T06:25:22.168Z"
 status: "active"
 ---
 

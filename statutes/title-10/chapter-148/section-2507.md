@@ -3,9 +3,9 @@ title: "Section 2507 - Data collection authority of President"
 usc_title: 10
 usc_section: "2507"
 chapter: 148
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 2507"
-generated_at: "2026-03-30T06:22:46.467Z"
+generated_at: "2026-03-30T06:25:14.008Z"
 status: "active"
 ---
 

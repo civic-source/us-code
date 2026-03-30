@@ -3,9 +3,9 @@ title: "Section 8541 - Environmental Information Services Working Group"
 usc_title: 15
 usc_section: "8541"
 chapter: 111
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 8541"
-generated_at: "2026-03-30T06:23:02.069Z"
+generated_at: "2026-03-30T06:25:19.038Z"
 status: "active"
 ---
 

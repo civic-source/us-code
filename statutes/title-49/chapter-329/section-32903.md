@@ -3,9 +3,9 @@ title: "Section 32903 - Credits for exceeding average fuel economy standards"
 usc_title: 49
 usc_section: "32903"
 chapter: 329
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 32903"
-generated_at: "2026-03-30T06:24:37.168Z"
+generated_at: "2026-03-30T06:26:35.055Z"
 status: "active"
 ---
 

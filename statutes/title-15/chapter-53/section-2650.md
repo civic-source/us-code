@@ -3,9 +3,9 @@ title: "Section 2650 - Asbestos contractors and local educational agencies"
 usc_title: 15
 usc_section: "2650"
 chapter: 53
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 2650"
-generated_at: "2026-03-30T06:23:02.027Z"
+generated_at: "2026-03-30T06:25:18.993Z"
 status: "active"
 ---
 

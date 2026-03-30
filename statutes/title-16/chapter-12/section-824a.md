@@ -3,9 +3,9 @@ title: "Section 824a - Interconnection and coordination of facilities; emergenci
 usc_title: 16
 usc_section: "824a"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 824a"
-generated_at: "2026-03-30T06:23:20.531Z"
+generated_at: "2026-03-30T06:25:32.347Z"
 status: "active"
 ---
 

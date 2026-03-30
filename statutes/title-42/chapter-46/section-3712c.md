@@ -3,9 +3,9 @@ title: "Section 3712c - Inclusion of Indian tribes"
 usc_title: 42
 usc_section: "3712c"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 3712c"
-generated_at: "2026-03-30T06:24:31.109Z"
+generated_at: "2026-03-30T06:26:27.269Z"
 status: "active"
 ---
 

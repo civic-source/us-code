@@ -3,9 +3,9 @@ title: "Section 70706 - Public meetings, information, and hearings"
 usc_title: 51
 usc_section: "70706"
 chapter: 707
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "51 U.S.C. § 70706"
-generated_at: "2026-03-30T06:24:47.700Z"
+generated_at: "2026-03-30T06:26:37.671Z"
 status: "active"
 ---
 

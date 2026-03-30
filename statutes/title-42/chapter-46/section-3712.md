@@ -3,9 +3,9 @@ title: "Section 3712 - Duties and functions of Assistant Attorney General"
 usc_title: 42
 usc_section: "3712"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 3712"
-generated_at: "2026-03-30T06:24:31.109Z"
+generated_at: "2026-03-30T06:26:27.269Z"
 status: "active"
 ---
 

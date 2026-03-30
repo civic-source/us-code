@@ -3,9 +3,9 @@ title: "Section 2153b - Export policies relating to peaceful nuclear activities 
 usc_title: 42
 usc_section: "2153b"
 chapter: 23
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 2153b"
-generated_at: "2026-03-30T06:24:31.075Z"
+generated_at: "2026-03-30T06:26:27.235Z"
 status: "active"
 ---
 

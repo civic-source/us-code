@@ -3,9 +3,9 @@ title: "Section 5711 - Bond"
 usc_title: 26
 usc_section: "5711"
 chapter: 52
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 5711"
-generated_at: "2026-03-30T06:23:46.881Z"
+generated_at: "2026-03-30T06:25:52.464Z"
 status: "active"
 ---
 

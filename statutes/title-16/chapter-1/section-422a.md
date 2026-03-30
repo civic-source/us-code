@@ -3,9 +3,9 @@ title: "Section 422a - Acceptance of lands"
 usc_title: 16
 usc_section: "422a"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 422a"
-generated_at: "2026-03-30T06:23:20.447Z"
+generated_at: "2026-03-30T06:25:32.264Z"
 status: "active"
 ---
 

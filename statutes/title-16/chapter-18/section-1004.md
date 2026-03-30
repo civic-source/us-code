@@ -3,9 +3,9 @@ title: "Section 1004 - Conditions for Federal assistance"
 usc_title: 16
 usc_section: "1004"
 chapter: 18
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 1004"
-generated_at: "2026-03-30T06:23:20.547Z"
+generated_at: "2026-03-30T06:25:32.364Z"
 status: "active"
 ---
 

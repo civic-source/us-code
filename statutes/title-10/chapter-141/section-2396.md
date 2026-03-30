@@ -3,9 +3,9 @@ title: "Section 2396 - Advances for payments for compliance with foreign laws, r
 usc_title: 10
 usc_section: "2396"
 chapter: 141
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 2396"
-generated_at: "2026-03-30T06:22:46.460Z"
+generated_at: "2026-03-30T06:25:14.001Z"
 status: "active"
 ---
 

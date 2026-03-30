@@ -3,9 +3,9 @@ title: "Section 1922 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "1922"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 1922"
-generated_at: "2026-03-30T06:23:02.009Z"
+generated_at: "2026-03-30T06:25:18.974Z"
 status: "repealed"
 ---
 

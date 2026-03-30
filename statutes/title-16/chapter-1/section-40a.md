@@ -3,9 +3,9 @@ title: "Section 40a - Educational facilities for dependents of employees; paymen
 usc_title: 16
 usc_section: "40a"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 40a"
-generated_at: "2026-03-30T06:23:20.410Z"
+generated_at: "2026-03-30T06:25:32.225Z"
 status: "active"
 ---
 

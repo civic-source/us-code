@@ -3,9 +3,9 @@ title: "Section 2342 - Unlawful acts"
 usc_title: 18
 usc_section: "2342"
 chapter: 114
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 2342"
-generated_at: "2026-03-30T06:23:14.908Z"
+generated_at: "2026-03-30T06:25:27.603Z"
 status: "active"
 ---
 

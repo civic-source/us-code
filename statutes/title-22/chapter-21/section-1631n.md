@@ -3,9 +3,9 @@ title: "Section 1631n - Penalties"
 usc_title: 22
 usc_section: "1631n"
 chapter: 21
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 1631n"
-generated_at: "2026-03-30T06:23:30.305Z"
+generated_at: "2026-03-30T06:25:39.851Z"
 status: "active"
 ---
 

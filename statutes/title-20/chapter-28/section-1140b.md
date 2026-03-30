@@ -3,9 +3,9 @@ title: "Section 1140b - Grants, contracts, and cooperative agreements authorized
 usc_title: 20
 usc_section: "1140b"
 chapter: 28
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "20 U.S.C. § 1140b"
-generated_at: "2026-03-30T06:23:07.017Z"
+generated_at: "2026-03-30T06:25:29.181Z"
 status: "active"
 ---
 

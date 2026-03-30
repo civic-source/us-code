@@ -3,9 +3,9 @@ title: "Section 1405y - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80
 usc_title: 48
 usc_section: "1405y"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "48 U.S.C. § 1405y"
-generated_at: "2026-03-30T06:24:33.992Z"
+generated_at: "2026-03-30T06:26:31.076Z"
 status: "repealed"
 ---
 

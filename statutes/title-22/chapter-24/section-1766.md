@@ -3,9 +3,9 @@ title: "Section 1766 - Omitted"
 usc_title: 22
 usc_section: "1766"
 chapter: 24
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 1766"
-generated_at: "2026-03-30T06:23:30.307Z"
+generated_at: "2026-03-30T06:25:39.854Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6303 - Rights of parties in interest"
 usc_title: 46
 usc_section: "6303"
 chapter: 63
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "46 U.S.C. § 6303"
-generated_at: "2026-03-30T06:24:34.682Z"
+generated_at: "2026-03-30T06:26:30.727Z"
 status: "active"
 ---
 

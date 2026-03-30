@@ -3,9 +3,9 @@ title: "Section 2008 - Record of assignment of rooms"
 usc_title: 2
 usc_section: "2008"
 chapter: 30
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 2008"
-generated_at: "2026-03-30T06:22:09.246Z"
+generated_at: "2026-03-30T06:25:03.040Z"
 status: "active"
 ---
 

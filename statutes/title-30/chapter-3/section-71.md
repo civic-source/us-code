@@ -3,9 +3,9 @@ title: "Section 71 - Entry of unappropriated or unreserved Federal coal lands; e
 usc_title: 30
 usc_section: "71"
 chapter: 3
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "30 U.S.C. § 71"
-generated_at: "2026-03-30T06:23:32.882Z"
+generated_at: "2026-03-30T06:25:42.070Z"
 status: "active"
 ---
 

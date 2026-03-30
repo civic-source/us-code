@@ -3,9 +3,9 @@ title: "Section 690g - Fee contribution"
 usc_title: 15
 usc_section: "690g"
 chapter: 14
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 690g"
-generated_at: "2026-03-30T06:23:01.966Z"
+generated_at: "2026-03-30T06:25:18.930Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1203 - Recognition of labor organizations"
 usc_title: 39
 usc_section: "1203"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "39 U.S.C. § 1203"
-generated_at: "2026-03-30T06:23:55.372Z"
+generated_at: "2026-03-30T06:26:06.231Z"
 status: "active"
 ---
 

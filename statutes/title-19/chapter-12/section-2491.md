@@ -3,9 +3,9 @@ title: "Section 2491 - Short title"
 usc_title: 19
 usc_section: "2491"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "19 U.S.C. § 2491"
-generated_at: "2026-03-30T06:23:23.498Z"
+generated_at: "2026-03-30T06:25:26.248Z"
 status: "active"
 ---
 

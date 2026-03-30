@@ -3,9 +3,9 @@ title: "Section 139b - Special Operations Policy and Oversight Council"
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-30T06:22:46.387Z"
+generated_at: "2026-03-30T06:25:13.921Z"
 status: "active"
 ---
 

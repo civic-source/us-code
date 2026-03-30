@@ -3,9 +3,9 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-30T06:23:46.889Z"
+generated_at: "2026-03-30T06:25:52.472Z"
 status: "active"
 ---
 

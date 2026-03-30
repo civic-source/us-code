@@ -3,9 +3,9 @@ title: "Section 1274i - Transferred"
 usc_title: 48
 usc_section: "1274i"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "48 U.S.C. § 1274i"
-generated_at: "2026-03-30T06:24:33.991Z"
+generated_at: "2026-03-30T06:26:31.075Z"
 status: "transferred"
 ---
 

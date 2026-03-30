@@ -3,9 +3,9 @@ title: "Section 4804 - Elimination of duplicative filings"
 usc_title: 12
 usc_section: "4804"
 chapter: 48
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "12 U.S.C. § 4804"
-generated_at: "2026-03-30T06:23:00.060Z"
+generated_at: "2026-03-30T06:25:22.212Z"
 status: "active"
 ---
 

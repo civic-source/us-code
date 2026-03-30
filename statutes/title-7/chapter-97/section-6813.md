@@ -3,9 +3,9 @@ title: "Section 6813 - Regulations"
 usc_title: 7
 usc_section: "6813"
 chapter: 97
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 6813"
-generated_at: "2026-03-30T06:22:43.113Z"
+generated_at: "2026-03-30T06:25:08.414Z"
 status: "active"
 ---
 

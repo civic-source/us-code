@@ -3,9 +3,9 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T06:24:34.000Z"
+generated_at: "2026-03-30T06:26:31.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5006 - Determination of tax"
 usc_title: 26
 usc_section: "5006"
 chapter: 51
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 5006"
-generated_at: "2026-03-30T06:23:46.874Z"
+generated_at: "2026-03-30T06:25:52.457Z"
 status: "active"
 ---
 

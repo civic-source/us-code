@@ -3,9 +3,9 @@ title: "Section 303b - Waiver of board certification requirements"
 usc_title: 37
 usc_section: "303b"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "37 U.S.C. § 303b"
-generated_at: "2026-03-30T06:23:55.713Z"
+generated_at: "2026-03-30T06:26:05.825Z"
 status: "active"
 ---
 

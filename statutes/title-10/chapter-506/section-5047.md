@@ -3,9 +3,9 @@ title: "Section 5047 - Legislative Assistant to the Commandant"
 usc_title: 10
 usc_section: "5047"
 chapter: 506
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 5047"
-generated_at: "2026-03-30T06:22:46.491Z"
+generated_at: "2026-03-30T06:25:14.033Z"
 status: "active"
 ---
 

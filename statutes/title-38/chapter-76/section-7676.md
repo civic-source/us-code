@@ -3,9 +3,9 @@ title: "Section 7676 - Repealed. Pub. L. 107–135, title I , § 101(a)(1), Jan.
 usc_title: 38
 usc_section: "7676"
 chapter: 76
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "38 U.S.C. § 7676"
-generated_at: "2026-03-30T06:23:57.914Z"
+generated_at: "2026-03-30T06:26:08.064Z"
 status: "repealed"
 ---
 

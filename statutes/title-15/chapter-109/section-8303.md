@@ -3,9 +3,9 @@ title: "Section 8303 - Abusive swaps"
 usc_title: 15
 usc_section: "8303"
 chapter: 109
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 8303"
-generated_at: "2026-03-30T06:23:02.066Z"
+generated_at: "2026-03-30T06:25:19.036Z"
 status: "active"
 ---
 

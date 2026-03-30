@@ -3,9 +3,9 @@ title: "Section 5047 - Repealed. Pub. L. 103–82, title III , § 365, Sept. 21,
 usc_title: 42
 usc_section: "5047"
 chapter: 66
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 5047"
-generated_at: "2026-03-30T06:24:31.139Z"
+generated_at: "2026-03-30T06:26:27.300Z"
 status: "repealed"
 ---
 

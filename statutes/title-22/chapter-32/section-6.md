@@ -3,9 +3,9 @@ title: "Section 6 - Safeguarding and elimination of conventional arms"
 usc_title: 22
 usc_section: "6"
 chapter: 32
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 6"
-generated_at: "2026-03-30T06:23:30.326Z"
+generated_at: "2026-03-30T06:25:39.872Z"
 status: "active"
 ---
 

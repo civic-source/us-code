@@ -3,9 +3,9 @@ title: "Section 4003 - Office of Export Trade in Department of Commerce"
 usc_title: 15
 usc_section: "4003"
 chapter: 66
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 4003"
-generated_at: "2026-03-30T06:23:02.040Z"
+generated_at: "2026-03-30T06:25:19.007Z"
 status: "active"
 ---
 

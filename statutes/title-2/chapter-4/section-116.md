@@ -3,9 +3,9 @@ title: "Section 116 - Repealed. May 29, 1928, ch. 901 , § 1, 45 Stat. 995"
 usc_title: 2
 usc_section: "116"
 chapter: 4
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 116"
-generated_at: "2026-03-30T06:22:09.215Z"
+generated_at: "2026-03-30T06:25:03.011Z"
 status: "repealed"
 ---
 

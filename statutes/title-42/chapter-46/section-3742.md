@@ -3,9 +3,9 @@ title: "Section 3742 - Duties and functions of Director"
 usc_title: 42
 usc_section: "3742"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 3742"
-generated_at: "2026-03-30T06:24:31.110Z"
+generated_at: "2026-03-30T06:26:27.271Z"
 status: "active"
 ---
 

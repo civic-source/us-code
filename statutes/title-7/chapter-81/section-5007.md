@@ -3,9 +3,9 @@ title: "Section 5007 - Omitted"
 usc_title: 7
 usc_section: "5007"
 chapter: 81
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 5007"
-generated_at: "2026-03-30T06:22:43.097Z"
+generated_at: "2026-03-30T06:25:08.398Z"
 status: "omitted"
 ---
 

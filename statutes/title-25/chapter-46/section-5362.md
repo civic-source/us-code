@@ -3,9 +3,9 @@ title: "Section 5362 - Selection of participating Indian tribes"
 usc_title: 25
 usc_section: "5362"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "25 U.S.C. § 5362"
-generated_at: "2026-03-30T06:23:26.879Z"
+generated_at: "2026-03-30T06:25:38.087Z"
 status: "active"
 ---
 

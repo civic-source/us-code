@@ -3,9 +3,9 @@ title: "Section 410v - Appointment and composition of advisory commission"
 usc_title: 16
 usc_section: "410v"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 410v"
-generated_at: "2026-03-30T06:23:20.433Z"
+generated_at: "2026-03-30T06:25:32.249Z"
 status: "active"
 ---
 

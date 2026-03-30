@@ -3,9 +3,9 @@ title: "Section 1104 - Restrictions on use of illustrations"
 usc_title: 44
 usc_section: "1104"
 chapter: 11
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "44 U.S.C. § 1104"
-generated_at: "2026-03-30T06:23:59.834Z"
+generated_at: "2026-03-30T06:26:10.664Z"
 status: "active"
 ---
 

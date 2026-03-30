@@ -3,9 +3,9 @@ title: "Section 754 - Repealed. Pub. L. 103–322, title XXXIII , § 330004(5), 
 usc_title: 18
 usc_section: "754"
 chapter: 35
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 754"
-generated_at: "2026-03-30T06:23:14.879Z"
+generated_at: "2026-03-30T06:25:27.576Z"
 status: "repealed"
 ---
 

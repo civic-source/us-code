@@ -3,9 +3,9 @@ title: "Section 6488 - Repealed. Pub. L. 96–513, title III , § 362(b), (c), D
 usc_title: 10
 usc_section: "6488"
 chapter: 575
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 6488"
-generated_at: "2026-03-30T06:22:46.495Z"
+generated_at: "2026-03-30T06:25:14.038Z"
 status: "repealed"
 ---
 

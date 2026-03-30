@@ -3,9 +3,9 @@ title: "Section 2218a - National Sea-Based Deterrence Fund"
 usc_title: 10
 usc_section: "2218a"
 chapter: 131
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 2218a"
-generated_at: "2026-03-30T06:22:46.448Z"
+generated_at: "2026-03-30T06:25:13.987Z"
 status: "active"
 ---
 

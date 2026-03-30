@@ -3,9 +3,9 @@ title: "Section 288m - Contingent fund"
 usc_title: 2
 usc_section: "288m"
 chapter: 9
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 288m"
-generated_at: "2026-03-30T06:22:09.221Z"
+generated_at: "2026-03-30T06:25:03.017Z"
 status: "active"
 ---
 

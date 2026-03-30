@@ -3,9 +3,9 @@ title: "Section 35a - Transferred"
 usc_title: 2
 usc_section: "35a"
 chapter: 3
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 35a"
-generated_at: "2026-03-30T06:22:09.212Z"
+generated_at: "2026-03-30T06:25:03.009Z"
 status: "transferred"
 ---
 

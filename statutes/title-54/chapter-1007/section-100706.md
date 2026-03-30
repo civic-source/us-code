@@ -3,9 +3,9 @@ title: "Section 100706 - Integration of study results into management decisions"
 usc_title: 54
 usc_section: "100706"
 chapter: 1007
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "54 U.S.C. § 100706"
-generated_at: "2026-03-30T06:24:48.128Z"
+generated_at: "2026-03-30T06:26:37.397Z"
 status: "active"
 ---
 

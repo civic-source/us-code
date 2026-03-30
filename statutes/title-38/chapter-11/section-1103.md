@@ -3,9 +3,9 @@ title: "Section 1103 - Special provisions relating to claims based upon effects 
 usc_title: 38
 usc_section: "1103"
 chapter: 11
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "38 U.S.C. § 1103"
-generated_at: "2026-03-30T06:23:57.866Z"
+generated_at: "2026-03-30T06:26:08.016Z"
 status: "active"
 ---
 

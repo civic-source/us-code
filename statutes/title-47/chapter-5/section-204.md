@@ -3,9 +3,9 @@ title: "Section 204 - Hearings on new charges; suspension pending hearing; refun
 usc_title: 47
 usc_section: "204"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "47 U.S.C. § 204"
-generated_at: "2026-03-30T06:24:35.068Z"
+generated_at: "2026-03-30T06:26:35.459Z"
 status: "active"
 ---
 

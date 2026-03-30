@@ -3,9 +3,9 @@ title: "Section 3206a - Tsunami Science and Technology Advisory Panel"
 usc_title: 33
 usc_section: "3206a"
 chapter: 45
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "33 U.S.C. § 3206a"
-generated_at: "2026-03-30T06:23:53.657Z"
+generated_at: "2026-03-30T06:26:00.798Z"
 status: "active"
 ---
 

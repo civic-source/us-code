@@ -3,9 +3,9 @@ title: "Section 5362 - Grade retention following a change of positions or reclas
 usc_title: 5
 usc_section: "5362"
 chapter: 53
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "5 U.S.C. § 5362"
-generated_at: "2026-03-30T06:22:35.768Z"
+generated_at: "2026-03-30T06:25:01.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Air War College: acceptance of grants for faculty research f
 usc_title: 10
 usc_section: "1"
 chapter: 907
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T06:22:46.506Z"
+generated_at: "2026-03-30T06:25:14.050Z"
 status: "active"
 ---
 

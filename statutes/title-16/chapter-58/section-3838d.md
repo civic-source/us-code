@@ -3,9 +3,9 @@ title: "Section 3838d - Definitions"
 usc_title: 16
 usc_section: "3838d"
 chapter: 58
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 3838d"
-generated_at: "2026-03-30T06:23:20.602Z"
+generated_at: "2026-03-30T06:25:32.421Z"
 status: "active"
 ---
 

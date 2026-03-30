@@ -3,9 +3,9 @@ title: "Section 262n - Congressional findings and policies respecting agricultur
 usc_title: 22
 usc_section: "262n"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 262n"
-generated_at: "2026-03-30T06:23:30.279Z"
+generated_at: "2026-03-30T06:25:39.826Z"
 status: "active"
 ---
 

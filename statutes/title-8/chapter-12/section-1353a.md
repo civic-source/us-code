@@ -3,9 +3,9 @@ title: "Section 1353a - Officers and employees; overtime services; extra compens
 usc_title: 8
 usc_section: "1353a"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "8 U.S.C. § 1353a"
-generated_at: "2026-03-30T06:22:54.242Z"
+generated_at: "2026-03-30T06:25:05.448Z"
 status: "active"
 ---
 

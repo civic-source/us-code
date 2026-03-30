@@ -3,9 +3,9 @@ title: "Section 2411 - Actions by United States Trade Representative"
 usc_title: 19
 usc_section: "2411"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "19 U.S.C. § 2411"
-generated_at: "2026-03-30T06:23:23.495Z"
+generated_at: "2026-03-30T06:25:26.245Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1203 - Procedures in connection with prohibited transactions"
 usc_title: 29
 usc_section: "1203"
 chapter: 18
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "29 U.S.C. § 1203"
-generated_at: "2026-03-30T06:23:34.054Z"
+generated_at: "2026-03-30T06:25:43.873Z"
 status: "active"
 ---
 

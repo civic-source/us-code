@@ -3,9 +3,9 @@ title: "Section 1556 - Transferred"
 usc_title: 8
 usc_section: "1556"
 chapter: 13
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "8 U.S.C. § 1556"
-generated_at: "2026-03-30T06:22:54.251Z"
+generated_at: "2026-03-30T06:25:05.457Z"
 status: "transferred"
 ---
 

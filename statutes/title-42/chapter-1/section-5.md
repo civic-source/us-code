@@ -3,9 +3,9 @@ title: "Section 5 - Omitted"
 usc_title: 42
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T06:24:30.724Z"
+generated_at: "2026-03-30T06:26:26.892Z"
 status: "omitted"
 ---
 

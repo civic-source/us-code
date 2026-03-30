@@ -3,9 +3,9 @@ title: "Section 1691a - Food aid to developing countries"
 usc_title: 7
 usc_section: "1691a"
 chapter: 41
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 1691a"
-generated_at: "2026-03-30T06:22:43.041Z"
+generated_at: "2026-03-30T06:25:08.342Z"
 status: "active"
 ---
 

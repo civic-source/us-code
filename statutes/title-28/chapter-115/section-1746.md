@@ -3,9 +3,9 @@ title: "Section 1746 - Unsworn declarations under penalty of per­jury"
 usc_title: 28
 usc_section: "1746"
 chapter: 115
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "28 U.S.C. § 1746"
-generated_at: "2026-03-30T06:23:39.392Z"
+generated_at: "2026-03-30T06:25:42.880Z"
 status: "active"
 ---
 

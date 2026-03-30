@@ -3,9 +3,9 @@ title: "Section 1710 - Payment of insurance"
 usc_title: 12
 usc_section: "1710"
 chapter: 13
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "12 U.S.C. § 1710"
-generated_at: "2026-03-30T06:22:59.965Z"
+generated_at: "2026-03-30T06:25:22.106Z"
 status: "active"
 ---
 

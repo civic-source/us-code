@@ -3,9 +3,9 @@ title: "Section 2332c - Repealed. Pub. L. 105–277, div. I, title II , § 201(c
 usc_title: 18
 usc_section: "2332c"
 chapter: 113
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 2332c"
-generated_at: "2026-03-30T06:23:14.906Z"
+generated_at: "2026-03-30T06:25:27.602Z"
 status: "repealed"
 ---
 

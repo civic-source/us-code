@@ -3,9 +3,9 @@ title: "Section 1135 - Grants to academic departments and programs of institutio
 usc_title: 20
 usc_section: "1135"
 chapter: 28
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "20 U.S.C. § 1135"
-generated_at: "2026-03-30T06:23:07.016Z"
+generated_at: "2026-03-30T06:25:29.180Z"
 status: "active"
 ---
 

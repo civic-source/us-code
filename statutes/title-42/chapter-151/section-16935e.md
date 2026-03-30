@@ -3,9 +3,9 @@ title: "Section 16935e - Reciprocal notifications"
 usc_title: 42
 usc_section: "16935e"
 chapter: 151
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 16935e"
-generated_at: "2026-03-30T06:24:31.380Z"
+generated_at: "2026-03-30T06:26:27.541Z"
 status: "active"
 ---
 

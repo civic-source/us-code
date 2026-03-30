@@ -3,9 +3,9 @@ title: "Section 4244 - Contract provisions"
 usc_title: 12
 usc_section: "4244"
 chapter: 43
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "12 U.S.C. § 4244"
-generated_at: "2026-03-30T06:23:00.046Z"
+generated_at: "2026-03-30T06:25:22.197Z"
 status: "active"
 ---
 

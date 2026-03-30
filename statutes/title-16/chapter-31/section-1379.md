@@ -3,9 +3,9 @@ title: "Section 1379 - Transfer of management authority"
 usc_title: 16
 usc_section: "1379"
 chapter: 31
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 1379"
-generated_at: "2026-03-30T06:23:20.560Z"
+generated_at: "2026-03-30T06:25:32.378Z"
 status: "active"
 ---
 

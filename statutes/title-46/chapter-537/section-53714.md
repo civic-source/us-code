@@ -3,9 +3,9 @@ title: "Section 53714 - Guarantee fees"
 usc_title: 46
 usc_section: "53714"
 chapter: 537
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "46 U.S.C. § 53714"
-generated_at: "2026-03-30T06:24:34.701Z"
+generated_at: "2026-03-30T06:26:30.746Z"
 status: "active"
 ---
 

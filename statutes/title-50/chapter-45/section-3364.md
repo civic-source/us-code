@@ -3,9 +3,9 @@ title: "Section 3364 - Assignment of responsibilities relating to analytic integ
 usc_title: 50
 usc_section: "3364"
 chapter: 45
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "50 U.S.C. § 3364"
-generated_at: "2026-03-30T06:24:45.864Z"
+generated_at: "2026-03-30T06:26:33.081Z"
 status: "active"
 ---
 

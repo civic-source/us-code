@@ -3,9 +3,9 @@ title: "Section 13108 - Computing amounts allocated to States and State records 
 usc_title: 46
 usc_section: "13108"
 chapter: 131
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "46 U.S.C. § 13108"
-generated_at: "2026-03-30T06:24:34.690Z"
+generated_at: "2026-03-30T06:26:30.735Z"
 status: "active"
 ---
 

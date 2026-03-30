@@ -3,9 +3,9 @@ title: "Section 56 - Job location and development programs"
 usc_title: 20
 usc_section: "56"
 chapter: 28
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "20 U.S.C. § 56"
-generated_at: "2026-03-30T06:23:06.996Z"
+generated_at: "2026-03-30T06:25:29.162Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3111 - State workforce development boards"
 usc_title: 29
 usc_section: "3111"
 chapter: 32
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "29 U.S.C. § 3111"
-generated_at: "2026-03-30T06:23:34.071Z"
+generated_at: "2026-03-30T06:25:43.889Z"
 status: "active"
 ---
 

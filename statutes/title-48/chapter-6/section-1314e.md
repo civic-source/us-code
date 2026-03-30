@@ -3,9 +3,9 @@ title: "Section 1314e - Repealed. Aug. 10, 1949, ch. 415 , § 9(d), 63 Stat. 597
 usc_title: 48
 usc_section: "1314e"
 chapter: 6
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "48 U.S.C. § 1314e"
-generated_at: "2026-03-30T06:24:33.991Z"
+generated_at: "2026-03-30T06:26:31.075Z"
 status: "repealed"
 ---
 

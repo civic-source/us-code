@@ -3,9 +3,9 @@ title: "Section 820 - Proceedings for revocation of license or to prevent violat
 usc_title: 16
 usc_section: "820"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 820"
-generated_at: "2026-03-30T06:23:20.530Z"
+generated_at: "2026-03-30T06:25:32.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 775 - Electing large partnership defined"
 usc_title: 26
 usc_section: "775"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 775"
-generated_at: "2026-03-30T06:23:46.793Z"
+generated_at: "2026-03-30T06:25:52.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2053 - Expenses, indebtedness, and taxes"
 usc_title: 26
 usc_section: "2053"
 chapter: 11
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 2053"
-generated_at: "2026-03-30T06:23:46.844Z"
+generated_at: "2026-03-30T06:25:52.428Z"
 status: "active"
 ---
 

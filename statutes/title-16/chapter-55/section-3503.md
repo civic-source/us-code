@@ -3,9 +3,9 @@ title: "Section 3503 - Establishment of John H. Chafee Coastal Barrier Resources
 usc_title: 16
 usc_section: "3503"
 chapter: 55
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 3503"
-generated_at: "2026-03-30T06:23:20.597Z"
+generated_at: "2026-03-30T06:25:32.415Z"
 status: "active"
 ---
 

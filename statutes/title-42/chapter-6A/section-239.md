@@ -3,9 +3,9 @@ title: "Section 239 - General provisions"
 usc_title: 42
 usc_section: "239"
 chapter: 6
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 239"
-generated_at: "2026-03-30T06:24:30.732Z"
+generated_at: "2026-03-30T06:26:26.896Z"
 status: "active"
 ---
 

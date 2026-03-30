@@ -3,9 +3,9 @@ title: "Section 1436 - Reimbursement of appropriations available for classing or
 usc_title: 7
 usc_section: "1436"
 chapter: 35
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 1436"
-generated_at: "2026-03-30T06:22:43.026Z"
+generated_at: "2026-03-30T06:25:08.326Z"
 status: "active"
 ---
 

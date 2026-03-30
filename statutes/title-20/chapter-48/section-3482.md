@@ -3,9 +3,9 @@ title: "Section 3482 - Technical advice"
 usc_title: 20
 usc_section: "3482"
 chapter: 48
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "20 U.S.C. § 3482"
-generated_at: "2026-03-30T06:23:07.047Z"
+generated_at: "2026-03-30T06:25:29.210Z"
 status: "active"
 ---
 

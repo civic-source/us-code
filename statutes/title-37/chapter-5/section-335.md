@@ -3,9 +3,9 @@ title: "Section 335 - Special bonus and incentive pay authorities for officers i
 usc_title: 37
 usc_section: "335"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "37 U.S.C. § 335"
-generated_at: "2026-03-30T06:23:55.717Z"
+generated_at: "2026-03-30T06:26:05.827Z"
 status: "active"
 ---
 

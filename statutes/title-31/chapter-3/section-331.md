@@ -3,9 +3,9 @@ title: "Section 331 - Reports"
 usc_title: 31
 usc_section: "331"
 chapter: 3
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "31 U.S.C. § 331"
-generated_at: "2026-03-30T06:23:51.263Z"
+generated_at: "2026-03-30T06:25:58.006Z"
 status: "active"
 ---
 

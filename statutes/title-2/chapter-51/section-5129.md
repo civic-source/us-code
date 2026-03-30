@@ -3,9 +3,9 @@ title: "Section 5129 - Availability of entitlements of former Speaker for 5 year
 usc_title: 2
 usc_section: "5129"
 chapter: 51
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 5129"
-generated_at: "2026-03-30T06:22:09.255Z"
+generated_at: "2026-03-30T06:25:03.049Z"
 status: "active"
 ---
 

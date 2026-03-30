@@ -3,9 +3,9 @@ title: "Section 2510 - Omitted"
 usc_title: 22
 usc_section: "2510"
 chapter: 34
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 2510"
-generated_at: "2026-03-30T06:23:30.336Z"
+generated_at: "2026-03-30T06:25:39.881Z"
 status: "omitted"
 ---
 

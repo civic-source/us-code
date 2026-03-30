@@ -3,9 +3,9 @@ title: "Section 70116 - Secure systems of transportation"
 usc_title: 46
 usc_section: "70116"
 chapter: 701
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "46 U.S.C. § 70116"
-generated_at: "2026-03-30T06:24:34.708Z"
+generated_at: "2026-03-30T06:26:30.752Z"
 status: "active"
 ---
 

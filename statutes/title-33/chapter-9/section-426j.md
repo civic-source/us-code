@@ -3,9 +3,9 @@ title: "Section 426j - Repealed. Pub. L. 110–114, title II , § 2037(b)(1), No
 usc_title: 33
 usc_section: "426j"
 chapter: 9
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "33 U.S.C. § 426j"
-generated_at: "2026-03-30T06:23:53.592Z"
+generated_at: "2026-03-30T06:26:00.734Z"
 status: "repealed"
 ---
 

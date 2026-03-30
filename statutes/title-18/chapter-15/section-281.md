@@ -3,9 +3,9 @@ title: "Section 281 - Repealed. Pub. L. 104–106, div. D, title XLIII , § 4304
 usc_title: 18
 usc_section: "281"
 chapter: 15
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 281"
-generated_at: "2026-03-30T06:23:14.873Z"
+generated_at: "2026-03-30T06:25:27.570Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13865 - Award of grants"
 usc_title: 42
 usc_section: "13865"
 chapter: 136
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 13865"
-generated_at: "2026-03-30T06:24:31.339Z"
+generated_at: "2026-03-30T06:26:27.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3262 - Army: percentage of high-school graduates"
 usc_title: 10
 usc_section: "3262"
 chapter: 333
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 3262"
-generated_at: "2026-03-30T06:22:46.483Z"
+generated_at: "2026-03-30T06:25:14.026Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18401 - Aeronautics research goals"
 usc_title: 42
 usc_section: "18401"
 chapter: 159
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 18401"
-generated_at: "2026-03-30T06:24:31.403Z"
+generated_at: "2026-03-30T06:26:27.563Z"
 status: "active"
 ---
 

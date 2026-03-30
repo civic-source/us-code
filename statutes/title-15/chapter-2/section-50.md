@@ -3,9 +3,9 @@ title: "Section 50 - Offenses and penalties"
 usc_title: 15
 usc_section: "50"
 chapter: 2
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 50"
-generated_at: "2026-03-30T06:23:01.893Z"
+generated_at: "2026-03-30T06:25:18.852Z"
 status: "active"
 ---
 

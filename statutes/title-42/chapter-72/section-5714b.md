@@ -3,9 +3,9 @@ title: "Section 5714b - Lease of surplus Federal facilities for use as runaway a
 usc_title: 42
 usc_section: "5714b"
 chapter: 72
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 5714b"
-generated_at: "2026-03-30T06:24:31.160Z"
+generated_at: "2026-03-30T06:26:27.320Z"
 status: "active"
 ---
 

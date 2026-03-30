@@ -3,9 +3,9 @@ title: "Section 671 - National Bison Range"
 usc_title: 16
 usc_section: "671"
 chapter: 6
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 671"
-generated_at: "2026-03-30T06:23:20.517Z"
+generated_at: "2026-03-30T06:25:32.333Z"
 status: "active"
 ---
 

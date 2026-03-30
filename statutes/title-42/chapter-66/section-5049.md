@@ -3,9 +3,9 @@ title: "Section 5049 - Prohibition of Federal control of educational institution
 usc_title: 42
 usc_section: "5049"
 chapter: 66
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 5049"
-generated_at: "2026-03-30T06:24:31.139Z"
+generated_at: "2026-03-30T06:26:27.300Z"
 status: "active"
 ---
 

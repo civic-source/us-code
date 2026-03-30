@@ -3,9 +3,9 @@ title: "Section 1442 - Terms of lease; public lands for public airports"
 usc_title: 43
 usc_section: "1442"
 chapter: 30
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "43 U.S.C. § 1442"
-generated_at: "2026-03-30T06:24:05.093Z"
+generated_at: "2026-03-30T06:26:15.065Z"
 status: "active"
 ---
 

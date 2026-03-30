@@ -3,9 +3,9 @@ title: "Section 1131 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1131"
 chapter: 14
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 1131"
-generated_at: "2026-03-30T06:23:30.301Z"
+generated_at: "2026-03-30T06:25:39.847Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 99 - Enforcement authority"
 usc_title: 14
 usc_section: "99"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "14 U.S.C. § 99"
-generated_at: "2026-03-30T06:22:56.530Z"
+generated_at: "2026-03-30T06:25:19.305Z"
 status: "active"
 ---
 

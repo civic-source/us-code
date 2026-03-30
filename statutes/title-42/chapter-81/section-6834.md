@@ -3,9 +3,9 @@ title: "Section 6834 - Federal building energy efficiency standards"
 usc_title: 42
 usc_section: "6834"
 chapter: 81
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 6834"
-generated_at: "2026-03-30T06:24:31.184Z"
+generated_at: "2026-03-30T06:26:27.345Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6304 - Annual leave; accumulation"
 usc_title: 5
 usc_section: "6304"
 chapter: 63
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "5 U.S.C. § 6304"
-generated_at: "2026-03-30T06:22:35.778Z"
+generated_at: "2026-03-30T06:25:01.858Z"
 status: "active"
 ---
 

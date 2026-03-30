@@ -3,9 +3,9 @@ title: "Section 3795b - Conspiracy to commit offense against United States"
 usc_title: 42
 usc_section: "3795b"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 3795b"
-generated_at: "2026-03-30T06:24:31.113Z"
+generated_at: "2026-03-30T06:26:27.273Z"
 status: "active"
 ---
 

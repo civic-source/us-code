@@ -3,9 +3,9 @@ title: "Section 835 - Project authorized; laws applicable"
 usc_title: 16
 usc_section: "835"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 835"
-generated_at: "2026-03-30T06:23:20.539Z"
+generated_at: "2026-03-30T06:25:32.356Z"
 status: "active"
 ---
 

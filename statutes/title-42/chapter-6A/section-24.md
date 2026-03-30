@@ -3,9 +3,9 @@ title: "Section 24 - Grants for home- and community-based care"
 usc_title: 42
 usc_section: "24"
 chapter: 6
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T06:24:30.838Z"
+generated_at: "2026-03-30T06:26:26.997Z"
 status: "active"
 ---
 

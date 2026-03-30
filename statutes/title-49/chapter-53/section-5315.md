@@ -3,9 +3,9 @@ title: "Section 5315 - Private sector participation"
 usc_title: 49
 usc_section: "5315"
 chapter: 53
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 5315"
-generated_at: "2026-03-30T06:24:37.129Z"
+generated_at: "2026-03-30T06:26:35.017Z"
 status: "active"
 ---
 

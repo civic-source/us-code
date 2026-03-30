@@ -3,9 +3,9 @@ title: "Section 3021 - Army Reserve Forces Policy Committee"
 usc_title: 10
 usc_section: "3021"
 chapter: 303
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 3021"
-generated_at: "2026-03-30T06:22:46.482Z"
+generated_at: "2026-03-30T06:25:14.025Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3431 - References in part"
 usc_title: 19
 usc_section: "3431"
 chapter: 21
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "19 U.S.C. § 3431"
-generated_at: "2026-03-30T06:23:23.510Z"
+generated_at: "2026-03-30T06:25:26.263Z"
 status: "active"
 ---
 

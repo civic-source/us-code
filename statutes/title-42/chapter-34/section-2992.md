@@ -3,9 +3,9 @@ title: "Section 2992 - Evaluation of projects"
 usc_title: 42
 usc_section: "2992"
 chapter: 34
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 2992"
-generated_at: "2026-03-30T06:24:31.090Z"
+generated_at: "2026-03-30T06:26:27.249Z"
 status: "active"
 ---
 

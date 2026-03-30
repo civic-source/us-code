@@ -3,9 +3,9 @@ title: "Section 590g - Additional policies and purposes of chapter"
 usc_title: 16
 usc_section: "590g"
 chapter: 3
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 590g"
-generated_at: "2026-03-30T06:23:20.510Z"
+generated_at: "2026-03-30T06:25:32.326Z"
 status: "active"
 ---
 

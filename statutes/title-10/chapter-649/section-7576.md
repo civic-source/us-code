@@ -3,9 +3,9 @@ title: "Section 7576 - Quarters: extension telephones"
 usc_title: 10
 usc_section: "7576"
 chapter: 649
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 7576"
-generated_at: "2026-03-30T06:22:46.500Z"
+generated_at: "2026-03-30T06:25:14.043Z"
 status: "active"
 ---
 

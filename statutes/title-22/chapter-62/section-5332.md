@@ -3,9 +3,9 @@ title: "Section 5332 - Actions to facilitate creation of Authority"
 usc_title: 22
 usc_section: "5332"
 chapter: 62
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 5332"
-generated_at: "2026-03-30T06:23:30.374Z"
+generated_at: "2026-03-30T06:25:39.917Z"
 status: "active"
 ---
 

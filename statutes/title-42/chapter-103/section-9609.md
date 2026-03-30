@@ -3,9 +3,9 @@ title: "Section 9609 - Civil penalties and awards"
 usc_title: 42
 usc_section: "9609"
 chapter: 103
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 9609"
-generated_at: "2026-03-30T06:24:31.257Z"
+generated_at: "2026-03-30T06:26:27.418Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 284b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "284b"
 chapter: 7
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 284b"
-generated_at: "2026-03-30T06:23:30.288Z"
+generated_at: "2026-03-30T06:25:39.835Z"
 status: "active"
 ---
 

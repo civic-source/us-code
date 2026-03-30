@@ -3,9 +3,9 @@ title: "Section 11292 - Education of public, individuals with Alzheimer’s dise
 usc_title: 42
 usc_section: "11292"
 chapter: 118
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 11292"
-generated_at: "2026-03-30T06:24:31.292Z"
+generated_at: "2026-03-30T06:26:27.453Z"
 status: "active"
 ---
 

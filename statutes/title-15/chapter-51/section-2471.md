@@ -3,9 +3,9 @@ title: "Section 2471 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2471"
 chapter: 51
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 2471"
-generated_at: "2026-03-30T06:23:02.020Z"
+generated_at: "2026-03-30T06:25:18.985Z"
 status: "active"
 ---
 

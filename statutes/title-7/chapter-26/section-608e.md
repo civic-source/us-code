@@ -3,9 +3,9 @@ title: "Section 608e - Repealed. July 3, 1948, ch. 827 , title III, § 302(d), 6
 usc_title: 7
 usc_section: "608e"
 chapter: 26
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 608e"
-generated_at: "2026-03-30T06:22:43.008Z"
+generated_at: "2026-03-30T06:25:08.309Z"
 status: "repealed"
 ---
 

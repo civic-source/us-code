@@ -3,9 +3,9 @@ title: "Section 128 - Repealed. Pub. L. 107–171, title X , § 10418(a)(7), (8)
 usc_title: 21
 usc_section: "128"
 chapter: 4
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "21 U.S.C. § 128"
-generated_at: "2026-03-30T06:23:28.347Z"
+generated_at: "2026-03-30T06:25:36.017Z"
 status: "repealed"
 ---
 

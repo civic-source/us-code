@@ -3,9 +3,9 @@ title: "Section 14136f - Establishment of best practices for evidence retention"
 usc_title: 42
 usc_section: "14136f"
 chapter: 136
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 14136f"
-generated_at: "2026-03-30T06:24:31.349Z"
+generated_at: "2026-03-30T06:26:27.510Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1709 - Definitions"
 usc_title: 19
 usc_section: "1709"
 chapter: 5
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "19 U.S.C. § 1709"
-generated_at: "2026-03-30T06:23:23.486Z"
+generated_at: "2026-03-30T06:25:26.233Z"
 status: "active"
 ---
 

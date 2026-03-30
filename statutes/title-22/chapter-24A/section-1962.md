@@ -3,9 +3,9 @@ title: "Section 1962 - Military assistance; use of armed forces"
 usc_title: 22
 usc_section: "1962"
 chapter: 24
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 1962"
-generated_at: "2026-03-30T06:23:30.308Z"
+generated_at: "2026-03-30T06:25:39.855Z"
 status: "active"
 ---
 

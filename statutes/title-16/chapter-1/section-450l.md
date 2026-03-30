@@ -3,9 +3,9 @@ title: "Section 450l - Fort Stanwix National Monument; establishment"
 usc_title: 16
 usc_section: "450l"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 450l"
-generated_at: "2026-03-30T06:23:20.456Z"
+generated_at: "2026-03-30T06:25:32.272Z"
 status: "active"
 ---
 

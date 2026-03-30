@@ -3,9 +3,9 @@ title: "Section 578 - Definition"
 usc_title: 6
 usc_section: "578"
 chapter: 1
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "6 U.S.C. § 578"
-generated_at: "2026-03-30T06:22:40.171Z"
+generated_at: "2026-03-30T06:25:05.878Z"
 status: "active"
 ---
 

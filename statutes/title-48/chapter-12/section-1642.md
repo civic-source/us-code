@@ -3,9 +3,9 @@ title: "Section 1642 - Use of certain proceeds for expenditure; income tax oblig
 usc_title: 48
 usc_section: "1642"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "48 U.S.C. § 1642"
-generated_at: "2026-03-30T06:24:33.999Z"
+generated_at: "2026-03-30T06:26:31.082Z"
 status: "active"
 ---
 

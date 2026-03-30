@@ -3,9 +3,9 @@ title: "Section 6106 - Petition and review"
 usc_title: 7
 usc_section: "6106"
 chapter: 90
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 6106"
-generated_at: "2026-03-30T06:22:43.105Z"
+generated_at: "2026-03-30T06:25:08.406Z"
 status: "active"
 ---
 

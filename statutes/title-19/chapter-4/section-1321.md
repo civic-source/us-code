@@ -3,9 +3,9 @@ title: "Section 1321 - Administrative exemptions"
 usc_title: 19
 usc_section: "1321"
 chapter: 4
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "19 U.S.C. § 1321"
-generated_at: "2026-03-30T06:23:23.463Z"
+generated_at: "2026-03-30T06:25:26.207Z"
 status: "active"
 ---
 

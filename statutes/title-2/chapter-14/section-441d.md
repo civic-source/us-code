@@ -3,9 +3,9 @@ title: "Section 441d - Transferred"
 usc_title: 2
 usc_section: "441d"
 chapter: 14
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 441d"
-generated_at: "2026-03-30T06:22:09.223Z"
+generated_at: "2026-03-30T06:25:03.019Z"
 status: "transferred"
 ---
 

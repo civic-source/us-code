@@ -3,9 +3,9 @@ title: "Section 1521a - Destruction of existing stockpile of lethal chemical age
 usc_title: 50
 usc_section: "1521a"
 chapter: 32
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "50 U.S.C. § 1521a"
-generated_at: "2026-03-30T06:24:45.826Z"
+generated_at: "2026-03-30T06:26:33.043Z"
 status: "active"
 ---
 

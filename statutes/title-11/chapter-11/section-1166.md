@@ -3,9 +3,9 @@ title: "Section 1166 - Effect of subtitle IV of title 49 and of Federal, State, 
 usc_title: 11
 usc_section: "1166"
 chapter: 11
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "11 U.S.C. § 1166"
-generated_at: "2026-03-30T06:22:56.933Z"
+generated_at: "2026-03-30T06:25:16.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2313 - Database for Federal agency contract and grant officers a
 usc_title: 41
 usc_section: "2313"
 chapter: 23
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "41 U.S.C. § 2313"
-generated_at: "2026-03-30T06:23:59.592Z"
+generated_at: "2026-03-30T06:26:10.486Z"
 status: "active"
 ---
 

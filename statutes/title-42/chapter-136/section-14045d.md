@@ -3,9 +3,9 @@ title: "Section 14045d - Consultation"
 usc_title: 42
 usc_section: "14045d"
 chapter: 136
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 14045d"
-generated_at: "2026-03-30T06:24:31.346Z"
+generated_at: "2026-03-30T06:26:27.507Z"
 status: "active"
 ---
 

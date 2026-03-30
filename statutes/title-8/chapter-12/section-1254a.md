@@ -3,9 +3,9 @@ title: "Section 1254a - Temporary protected status"
 usc_title: 8
 usc_section: "1254a"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "8 U.S.C. § 1254a"
-generated_at: "2026-03-30T06:22:54.238Z"
+generated_at: "2026-03-30T06:25:05.443Z"
 status: "active"
 ---
 

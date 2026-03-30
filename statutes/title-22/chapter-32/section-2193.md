@@ -3,9 +3,9 @@ title: "Section 2193 - Organization and management"
 usc_title: 22
 usc_section: "2193"
 chapter: 32
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "22 U.S.C. § 2193"
-generated_at: "2026-03-30T06:23:30.317Z"
+generated_at: "2026-03-30T06:25:39.863Z"
 status: "active"
 ---
 

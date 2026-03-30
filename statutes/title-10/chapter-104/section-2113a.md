@@ -3,9 +3,9 @@ title: "Section 2113a - Board of Regents"
 usc_title: 10
 usc_section: "2113a"
 chapter: 104
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "10 U.S.C. § 2113a"
-generated_at: "2026-03-30T06:22:46.444Z"
+generated_at: "2026-03-30T06:25:13.983Z"
 status: "active"
 ---
 

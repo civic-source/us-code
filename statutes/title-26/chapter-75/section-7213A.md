@@ -3,9 +3,9 @@ title: "Section 7213A - Unauthorized inspection of returns or return information
 usc_title: 26
 usc_section: "7213A"
 chapter: 75
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 7213A"
-generated_at: "2026-03-30T06:23:46.916Z"
+generated_at: "2026-03-30T06:25:52.498Z"
 status: "active"
 ---
 

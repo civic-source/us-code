@@ -3,9 +3,9 @@ title: "Section 1433 - Children born and residing outside the United States; con
 usc_title: 8
 usc_section: "1433"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "8 U.S.C. § 1433"
-generated_at: "2026-03-30T06:22:54.248Z"
+generated_at: "2026-03-30T06:25:05.453Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18301 - Findings"
 usc_title: 42
 usc_section: "18301"
 chapter: 159
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 18301"
-generated_at: "2026-03-30T06:24:31.402Z"
+generated_at: "2026-03-30T06:26:27.561Z"
 status: "active"
 ---
 

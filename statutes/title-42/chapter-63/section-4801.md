@@ -3,9 +3,9 @@ title: "Section 4801 - Repealed. Pub. L. 95–626, title II , § 208(b), Nov. 10
 usc_title: 42
 usc_section: "4801"
 chapter: 63
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 4801"
-generated_at: "2026-03-30T06:24:31.136Z"
+generated_at: "2026-03-30T06:26:27.296Z"
 status: "repealed"
 ---
 

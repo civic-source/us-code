@@ -3,9 +3,9 @@ title: "Section 3532 - Setting aside verdict of guilty; judgment notwithstanding
 usc_title: 18
 usc_section: "3532"
 chapter: 225
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 3532"
-generated_at: "2026-03-30T06:23:14.918Z"
+generated_at: "2026-03-30T06:25:27.613Z"
 status: "active"
 ---
 

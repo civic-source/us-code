@@ -3,9 +3,9 @@ title: "Section 831u - Surveys; cooperation with States or other agencies"
 usc_title: 16
 usc_section: "831u"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "16 U.S.C. § 831u"
-generated_at: "2026-03-30T06:23:20.538Z"
+generated_at: "2026-03-30T06:25:32.354Z"
 status: "active"
 ---
 

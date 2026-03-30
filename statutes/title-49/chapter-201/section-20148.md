@@ -3,9 +3,9 @@ title: "Section 20148 - Railroad car visibility"
 usc_title: 49
 usc_section: "20148"
 chapter: 201
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 20148"
-generated_at: "2026-03-30T06:24:37.146Z"
+generated_at: "2026-03-30T06:26:35.034Z"
 status: "active"
 ---
 

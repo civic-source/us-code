@@ -3,9 +3,9 @@ title: "Section 1736k - Repealed. Pub. L. 101–624, title XV , § 1573, Nov. 28
 usc_title: 7
 usc_section: "1736k"
 chapter: 41
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "7 U.S.C. § 1736k"
-generated_at: "2026-03-30T06:22:43.044Z"
+generated_at: "2026-03-30T06:25:08.344Z"
 status: "repealed"
 ---
 

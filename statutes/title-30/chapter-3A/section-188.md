@@ -3,9 +3,9 @@ title: "Section 188 - Failure to comply with provisions of lease"
 usc_title: 30
 usc_section: "188"
 chapter: 3
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "30 U.S.C. § 188"
-generated_at: "2026-03-30T06:23:32.884Z"
+generated_at: "2026-03-30T06:25:42.073Z"
 status: "active"
 ---
 

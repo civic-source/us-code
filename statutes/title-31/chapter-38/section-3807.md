@@ -3,9 +3,9 @@ title: "Section 3807 - Right to administrative offset"
 usc_title: 31
 usc_section: "3807"
 chapter: 38
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "31 U.S.C. § 3807"
-generated_at: "2026-03-30T06:23:51.279Z"
+generated_at: "2026-03-30T06:25:58.022Z"
 status: "active"
 ---
 

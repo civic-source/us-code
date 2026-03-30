@@ -3,9 +3,9 @@ title: "Section 7518 - Tax incentives relating to merchant marine capital constr
 usc_title: 26
 usc_section: "7518"
 chapter: 77
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 7518"
-generated_at: "2026-03-30T06:23:46.922Z"
+generated_at: "2026-03-30T06:25:52.505Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3797w - Adult and juvenile offender State and local reentry demo
 usc_title: 42
 usc_section: "3797w"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "42 U.S.C. § 3797w"
-generated_at: "2026-03-30T06:24:31.120Z"
+generated_at: "2026-03-30T06:26:27.280Z"
 status: "active"
 ---
 

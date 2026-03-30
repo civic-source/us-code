@@ -3,9 +3,9 @@ title: "Section 28d - Performance of deferred work"
 usc_title: 30
 usc_section: "28d"
 chapter: 2
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "30 U.S.C. § 28d"
-generated_at: "2026-03-30T06:23:32.881Z"
+generated_at: "2026-03-30T06:25:42.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3029 - Civil Liberties Protection Officer"
 usc_title: 50
 usc_section: "3029"
 chapter: 44
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "50 U.S.C. § 3029"
-generated_at: "2026-03-30T06:24:45.853Z"
+generated_at: "2026-03-30T06:26:33.071Z"
 status: "active"
 ---
 

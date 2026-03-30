@@ -3,9 +3,9 @@ title: "Section 4945 - Taxes on taxable expenditures"
 usc_title: 26
 usc_section: "4945"
 chapter: 42
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "26 U.S.C. § 4945"
-generated_at: "2026-03-30T06:23:46.867Z"
+generated_at: "2026-03-30T06:25:52.449Z"
 status: "active"
 ---
 

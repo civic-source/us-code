@@ -3,9 +3,9 @@ title: "Section 5365 - Civil remedies"
 usc_title: 31
 usc_section: "5365"
 chapter: 53
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "31 U.S.C. § 5365"
-generated_at: "2026-03-30T06:23:51.285Z"
+generated_at: "2026-03-30T06:25:58.029Z"
 status: "active"
 ---
 

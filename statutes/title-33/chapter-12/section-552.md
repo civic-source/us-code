@@ -3,9 +3,9 @@ title: "Section 552 - Repealed. May 29, 1928, ch. 901 , § 1(28), 45 Stat. 988"
 usc_title: 33
 usc_section: "552"
 chapter: 12
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "33 U.S.C. § 552"
-generated_at: "2026-03-30T06:23:53.596Z"
+generated_at: "2026-03-30T06:26:00.739Z"
 status: "repealed"
 ---
 

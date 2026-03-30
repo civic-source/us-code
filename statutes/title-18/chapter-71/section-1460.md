@@ -3,9 +3,9 @@ title: "Section 1460 - Possession with intent to sell, and sale, of obscene matt
 usc_title: 18
 usc_section: "1460"
 chapter: 71
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "18 U.S.C. § 1460"
-generated_at: "2026-03-30T06:23:14.892Z"
+generated_at: "2026-03-30T06:25:27.588Z"
 status: "active"
 ---
 

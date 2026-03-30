@@ -3,9 +3,9 @@ title: "Section 1 - Use of funds for repairs for runway safety repairs"
 usc_title: 49
 usc_section: "1"
 chapter: 471
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "49 U.S.C. § 1"
-generated_at: "2026-03-30T06:24:37.195Z"
+generated_at: "2026-03-30T06:26:35.082Z"
 status: "active"
 ---
 

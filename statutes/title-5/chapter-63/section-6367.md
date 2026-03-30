@@ -3,9 +3,9 @@ title: "Section 6367 - Receipt and use of leave from a leave bank"
 usc_title: 5
 usc_section: "6367"
 chapter: 63
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "5 U.S.C. § 6367"
-generated_at: "2026-03-30T06:22:35.779Z"
+generated_at: "2026-03-30T06:25:01.860Z"
 status: "active"
 ---
 

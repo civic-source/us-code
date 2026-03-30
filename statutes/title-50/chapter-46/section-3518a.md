@@ -3,9 +3,9 @@ title: "Section 3518a - Portability of overseas service retirement benefit"
 usc_title: 50
 usc_section: "3518a"
 chapter: 46
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "50 U.S.C. § 3518a"
-generated_at: "2026-03-30T06:24:45.866Z"
+generated_at: "2026-03-30T06:26:33.083Z"
 status: "active"
 ---
 

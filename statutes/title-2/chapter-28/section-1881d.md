@@ -3,9 +3,9 @@ title: "Section 1881d - Effective date"
 usc_title: 2
 usc_section: "1881d"
 chapter: 28
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "2 U.S.C. § 1881d"
-generated_at: "2026-03-30T06:22:09.244Z"
+generated_at: "2026-03-30T06:25:03.037Z"
 status: "active"
 ---
 

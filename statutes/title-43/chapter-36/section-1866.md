@@ -3,9 +3,9 @@ title: "Section 1866 - Relationship to existing law"
 usc_title: 43
 usc_section: "1866"
 chapter: 36
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "43 U.S.C. § 1866"
-generated_at: "2026-03-30T06:24:05.111Z"
+generated_at: "2026-03-30T06:26:15.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1152 - Clearinghouse for technical information; removal of secur
 usc_title: 15
 usc_section: "1152"
 chapter: 23
-current_through: "PL 115-42"
+current_through: "PL 115-43"
 classification: "15 U.S.C. § 1152"
-generated_at: "2026-03-30T06:23:01.981Z"
+generated_at: "2026-03-30T06:25:18.946Z"
 status: "active"
 ---
 
