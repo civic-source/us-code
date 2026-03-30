@@ -3,9 +3,9 @@ title: "Section 3121 - Workforce development areas"
 usc_title: 29
 usc_section: "3121"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 3121"
-generated_at: "2026-03-30T04:24:27.393Z"
+generated_at: "2026-03-30T04:26:04.156Z"
 status: "active"
 ---
 
@@ -32,8 +32,9 @@ status: "active"
     - **(B)** sustained fiscal integrity; and
     - **(C)** in the case of a local area in a planning region, met the requirements described in subsection (c)(1).
   - **(4)** The Governor may approve a request from any unit of general local government (including a combination of such units) for designation of an area as a local area if the State board determines, based on the considerations described in paragraph (1)(B), and recommends to the Governor, that such area should be so designated.
-  - **(5)** A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary of Labor, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeals process described in the State plan, as specified in section 3112(b)(2)(D)(i)(III) of this title , or that the area meets the requirements of paragraph (2) or (3), may require that the area be designated as a local area under such paragraph.
-  - **(6)** On the request of all of the local areas in a planning region, the State shall provide funding from funds made available under sections 3163(a) and 3173(a)(1) of this title to assist the local areas in carrying out activities to facilitate the redesignation of the local areas to a single local area.
+  - **(5)** The Governor may approve, under paragraph (2) or (3), a request for designation as a local area from an area described in section 3122(c)(1)(C) of this title .
+  - **(6)** A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary of Labor, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeals process described in the State plan, as specified in section 3112(b)(2)(D)(i)(III) of this title , or that the area meets the requirements of paragraph (2) or (3), may require that the area be designated as a local area under such paragraph.
+  - **(7)** On the request of all of the local areas in a planning region, the State shall provide funding from funds made available under sections 3163(a) and 3173(a)(1) of this title to assist the local areas in carrying out activities to facilitate the redesignation of the local areas to a single local area.
 - **(c)**
   - **(1)** The local boards and chief elected officials in each planning region described in subparagraph (B) or (C) of subsection (a)(2) shall engage in a regional planning process that results in—
     - **(A)** the preparation of a regional plan, as described in paragraph (2);

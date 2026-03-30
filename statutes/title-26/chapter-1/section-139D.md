@@ -3,9 +3,9 @@ title: "Section 139D - Indian health care benefits"
 usc_title: 26
 usc_section: "139D"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 139D"
-generated_at: "2026-03-30T04:24:33.608Z"
+generated_at: "2026-03-30T04:26:11.365Z"
 status: "active"
 ---
 

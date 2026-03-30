@@ -3,9 +3,9 @@ title: "Section 532 - Director of the Federal Bureau of Investigation"
 usc_title: 28
 usc_section: "532"
 chapter: 33
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "28 U.S.C. § 532"
-generated_at: "2026-03-30T04:24:26.420Z"
+generated_at: "2026-03-30T04:26:07.230Z"
 status: "active"
 ---
 

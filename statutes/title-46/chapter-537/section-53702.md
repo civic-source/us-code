@@ -3,9 +3,9 @@ title: "Section 53702 - General authority"
 usc_title: 46
 usc_section: "53702"
 chapter: 537
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "46 U.S.C. § 53702"
-generated_at: "2026-03-30T04:24:59.948Z"
+generated_at: "2026-03-30T04:26:56.627Z"
 status: "active"
 ---
 

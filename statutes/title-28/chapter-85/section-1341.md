@@ -3,9 +3,9 @@ title: "Section 1341 - Taxes by States"
 usc_title: 28
 usc_section: "1341"
 chapter: 85
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "28 U.S.C. § 1341"
-generated_at: "2026-03-30T04:24:26.427Z"
+generated_at: "2026-03-30T04:26:07.237Z"
 status: "active"
 ---
 

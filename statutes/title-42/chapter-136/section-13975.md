@@ -3,9 +3,9 @@ title: "Section 13975 - Transitional housing assistance grants for victims of do
 usc_title: 42
 usc_section: "13975"
 chapter: 136
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 13975"
-generated_at: "2026-03-30T04:24:55.429Z"
+generated_at: "2026-03-30T04:26:52.042Z"
 status: "active"
 ---
 

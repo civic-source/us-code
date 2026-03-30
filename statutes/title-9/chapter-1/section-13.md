@@ -3,9 +3,9 @@ title: "Section 13 - Papers filed with order on motions; judgment; docketing; fo
 usc_title: 9
 usc_section: "13"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "9 U.S.C. § 13"
-generated_at: "2026-03-30T04:23:25.372Z"
+generated_at: "2026-03-30T04:25:25.071Z"
 status: "active"
 ---
 

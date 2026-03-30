@@ -3,9 +3,9 @@ title: "Section 4r - Use of authority of United States Executive Directors"
 usc_title: 22
 usc_section: "4r"
 chapter: 7
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 4r"
-generated_at: "2026-03-30T04:24:18.311Z"
+generated_at: "2026-03-30T04:26:00.043Z"
 status: "active"
 ---
 

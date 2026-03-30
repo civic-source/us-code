@@ -3,9 +3,9 @@ title: "Section 48 - Lands in Michigan, Wisconsin, and Minnesota; sale and dispo
 usc_title: 30
 usc_section: "48"
 chapter: 2
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "30 U.S.C. § 48"
-generated_at: "2026-03-30T04:24:25.407Z"
+generated_at: "2026-03-30T04:26:02.807Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1441b - Resolution Funding Corporation established"
 usc_title: 12
 usc_section: "1441b"
 chapter: 11
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "12 U.S.C. § 1441b"
-generated_at: "2026-03-30T04:23:46.698Z"
+generated_at: "2026-03-30T04:25:35.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1232 - Protection for employees under Federal procurement, const
 usc_title: 29
 usc_section: "1232"
 chapter: 18
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 1232"
-generated_at: "2026-03-30T04:24:27.365Z"
+generated_at: "2026-03-30T04:26:04.128Z"
 status: "active"
 ---
 

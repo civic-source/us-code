@@ -3,9 +3,9 @@ title: "Section 2469a - Repealed. Pub. L. 107–314, div. A, title III, § 333(a
 usc_title: 10
 usc_section: "2469a"
 chapter: 146
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 2469a"
-generated_at: "2026-03-30T04:23:33.049Z"
+generated_at: "2026-03-30T04:25:30.284Z"
 status: "repealed"
 ---
 

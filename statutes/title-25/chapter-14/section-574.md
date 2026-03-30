@@ -3,9 +3,9 @@ title: "Section 574 - Consolidation of lands"
 usc_title: 25
 usc_section: "574"
 chapter: 14
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "25 U.S.C. § 574"
-generated_at: "2026-03-30T04:24:20.388Z"
+generated_at: "2026-03-30T04:25:56.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4335 - Dean of Academic Board"
 usc_title: 10
 usc_section: "4335"
 chapter: 403
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 4335"
-generated_at: "2026-03-30T04:23:33.070Z"
+generated_at: "2026-03-30T04:25:30.306Z"
 status: "active"
 ---
 

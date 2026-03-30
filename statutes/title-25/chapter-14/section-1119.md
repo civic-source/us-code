@@ -3,9 +3,9 @@ title: "Section 1119 - Reserve funds for expenses"
 usc_title: 25
 usc_section: "1119"
 chapter: 14
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "25 U.S.C. § 1119"
-generated_at: "2026-03-30T04:24:20.404Z"
+generated_at: "2026-03-30T04:25:56.719Z"
 status: "active"
 ---
 

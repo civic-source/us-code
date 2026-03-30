@@ -3,9 +3,9 @@ title: "Section 108 - Extension of time"
 usc_title: 11
 usc_section: "108"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "11 U.S.C. § 108"
-generated_at: "2026-03-30T04:23:42.223Z"
+generated_at: "2026-03-30T04:25:36.167Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 222to224 - Repealed. Pub. L. 87–256, § 111(a)(4) , Sept. 21, 
 usc_title: 20
 usc_section: "222to224"
 chapter: 12
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 222to224"
-generated_at: "2026-03-30T04:24:12.900Z"
+generated_at: "2026-03-30T04:25:45.127Z"
 status: "repealed"
 ---
 

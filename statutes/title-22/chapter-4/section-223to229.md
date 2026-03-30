@@ -3,9 +3,9 @@ title: "Section 223to229 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 22
 usc_section: "223to229"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 223to229"
-generated_at: "2026-03-30T04:24:18.307Z"
+generated_at: "2026-03-30T04:26:00.038Z"
 status: "repealed"
 ---
 

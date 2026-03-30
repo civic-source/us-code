@@ -3,9 +3,9 @@ title: "Section 4517 - Examinations"
 usc_title: 12
 usc_section: "4517"
 chapter: 46
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "12 U.S.C. § 4517"
-generated_at: "2026-03-30T04:23:46.803Z"
+generated_at: "2026-03-30T04:25:35.826Z"
 status: "active"
 ---
 

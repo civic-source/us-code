@@ -3,9 +3,9 @@ title: "Section 3315 - Authorization of appropriations"
 usc_title: 22
 usc_section: "3315"
 chapter: 48
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 3315"
-generated_at: "2026-03-30T04:24:18.382Z"
+generated_at: "2026-03-30T04:26:00.114Z"
 status: "active"
 ---
 

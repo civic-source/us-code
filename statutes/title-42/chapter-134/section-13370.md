@@ -3,9 +3,9 @@ title: "Section 13370 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13370"
 chapter: 134
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 13370"
-generated_at: "2026-03-30T04:24:55.418Z"
+generated_at: "2026-03-30T04:26:52.031Z"
 status: "active"
 ---
 

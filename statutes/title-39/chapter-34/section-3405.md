@@ -3,9 +3,9 @@ title: "Section 3405 - Markings"
 usc_title: 39
 usc_section: "3405"
 chapter: 34
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "39 U.S.C. § 3405"
-generated_at: "2026-03-30T04:24:39.967Z"
+generated_at: "2026-03-30T04:26:26.414Z"
 status: "active"
 ---
 

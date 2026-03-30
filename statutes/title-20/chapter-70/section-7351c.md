@@ -3,9 +3,9 @@ title: "Section 7351c - Accountability"
 usc_title: 20
 usc_section: "7351c"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7351c"
-generated_at: "2026-03-30T04:24:13.100Z"
+generated_at: "2026-03-30T04:25:45.253Z"
 status: "active"
 ---
 

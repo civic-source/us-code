@@ -3,9 +3,9 @@ title: "Section 3511 - Establishment and operation of Government Information Loc
 usc_title: 44
 usc_section: "3511"
 chapter: 35
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "44 U.S.C. § 3511"
-generated_at: "2026-03-30T04:24:44.478Z"
+generated_at: "2026-03-30T04:26:33.671Z"
 status: "active"
 ---
 

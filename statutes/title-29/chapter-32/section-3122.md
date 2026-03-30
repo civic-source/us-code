@@ -3,9 +3,9 @@ title: "Section 3122 - Local workforce development boards"
 usc_title: 29
 usc_section: "3122"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 3122"
-generated_at: "2026-03-30T04:24:27.393Z"
+generated_at: "2026-03-30T04:26:04.156Z"
 status: "active"
 ---
 
@@ -152,7 +152,7 @@ status: "active"
 - **(i)**
   - **(1)** For purposes of complying with subsections (a), (b), and (c), a State may use any local entity (including a local council, regional workforce development board, or similar entity) that—
     - **(A)** is established to serve the local area (or the service delivery area that most closely corresponds to the local area);
-    - **(B)** was in existence on the day before July 22, 2014 , pursuant to State law; and
+    - **(B)** was in existence on the day before August 7, 1998 , pursuant to State law; and
     - **(C)** includes—
       - **(i)** representatives of business in the local area; and
       - **(ii)**

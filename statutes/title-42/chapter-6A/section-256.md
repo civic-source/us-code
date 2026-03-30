@@ -3,9 +3,9 @@ title: "Section 256 - Grants to strengthen the effectiveness, efficiency, and co
 usc_title: 42
 usc_section: "256"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 256"
-generated_at: "2026-03-30T04:24:54.830Z"
+generated_at: "2026-03-30T04:26:51.450Z"
 status: "active"
 ---
 

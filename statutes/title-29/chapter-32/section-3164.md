@@ -3,9 +3,9 @@ title: "Section 3164 - Use of funds for youth workforce investment activities"
 usc_title: 29
 usc_section: "3164"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 3164"
-generated_at: "2026-03-30T04:24:27.396Z"
+generated_at: "2026-03-30T04:26:04.160Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
   - **(1)** Funds reserved by a Governor as described in sections 3163(a) and 3173(a)(1) of this title shall be used, regardless of whether the funds were allotted to the State under section 3162(b)(1)(C) of this title or under paragraph (1)(B) or (2)(B) of section 3172(b) of this title for statewide activities, which shall include—
     - **(A)** conducting evaluations under section 3141(e) of this title of activities authorized under this subpart and subpart 3 in coordination with evaluations carried out by the Secretary under section 3224(a) of this title ;
     - **(B)** disseminating a list of eligible providers of youth workforce investment activities, as determined under section 3153 of this title ;
-    - **(C)** providing assistance to local areas as described in subsections (b)(6) and (c)(2) of section 3121 of this title , for local coordination of activities carried out under this subchapter;
+    - **(C)** providing assistance to local areas as described in subsections (b)(7) and (c)(2) of section 3121 of this title , for local coordination of activities carried out under this subchapter;
     - **(D)** operating a fiscal and management accountability information system under section 3141(i) of this title ;
     - **(E)** carrying out monitoring and oversight of activities carried out under this subpart and subpart 3, which may include a review comparing the services provided to male and female youth; and
     - **(F)** providing additional assistance to local areas that have high concentrations of eligible youth.

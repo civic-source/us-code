@@ -3,9 +3,9 @@ title: "Section 1411 - National Customs Automation Program"
 usc_title: 19
 usc_section: "1411"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "19 U.S.C. § 1411"
-generated_at: "2026-03-30T04:24:08.438Z"
+generated_at: "2026-03-30T04:25:42.861Z"
 status: "active"
 ---
 

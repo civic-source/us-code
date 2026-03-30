@@ -3,9 +3,9 @@ title: "Section 743 - Membership roll; preparation and initial publication; appe
 usc_title: 25
 usc_section: "743"
 chapter: 14
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "25 U.S.C. § 743"
-generated_at: "2026-03-30T04:24:20.397Z"
+generated_at: "2026-03-30T04:25:56.713Z"
 status: "active"
 ---
 

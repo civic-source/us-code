@@ -3,9 +3,9 @@ title: "Section 1131to1133 - Omitted"
 usc_title: 21
 usc_section: "1131to1133"
 chapter: 16
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "21 U.S.C. § 1131to1133"
-generated_at: "2026-03-30T04:24:19.497Z"
+generated_at: "2026-03-30T04:25:57.709Z"
 status: "omitted"
 ---
 

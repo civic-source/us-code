@@ -3,9 +3,9 @@ title: "Section 1692o - Exemption for State regulation"
 usc_title: 15
 usc_section: "1692o"
 chapter: 41
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "15 U.S.C. § 1692o"
-generated_at: "2026-03-30T04:23:45.067Z"
+generated_at: "2026-03-30T04:25:38.718Z"
 status: "active"
 ---
 

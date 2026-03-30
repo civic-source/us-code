@@ -3,9 +3,9 @@ title: "Section 440 - Reimbursement of appropriations available for classing or 
 usc_title: 7
 usc_section: "440"
 chapter: 17
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "7 U.S.C. § 440"
-generated_at: "2026-03-30T04:23:26.396Z"
+generated_at: "2026-03-30T04:25:25.049Z"
 status: "active"
 ---
 

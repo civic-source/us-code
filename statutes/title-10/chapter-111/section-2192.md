@@ -3,9 +3,9 @@ title: "Section 2192 - Improvement of education in technical fields: general aut
 usc_title: 10
 usc_section: "2192"
 chapter: 111
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 2192"
-generated_at: "2026-03-30T04:23:33.030Z"
+generated_at: "2026-03-30T04:25:30.266Z"
 status: "active"
 ---
 

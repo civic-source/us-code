@@ -3,9 +3,9 @@ title: "Section 300ff41to300ff50 - Repealed. Pub. L. 106–345, title III, § 30
 usc_title: 42
 usc_section: "300ff41to300ff50"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 300ff41to300ff50"
-generated_at: "2026-03-30T04:24:54.914Z"
+generated_at: "2026-03-30T04:26:51.537Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 597 - Relationship with Department of Justice"
 usc_title: 28
 usc_section: "597"
 chapter: 40
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "28 U.S.C. § 597"
-generated_at: "2026-03-30T04:24:26.422Z"
+generated_at: "2026-03-30T04:26:07.232Z"
 status: "active"
 ---
 

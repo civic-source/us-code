@@ -3,9 +3,9 @@ title: "Section 360mm - Imports"
 usc_title: 21
 usc_section: "360mm"
 chapter: 9
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "21 U.S.C. § 360mm"
-generated_at: "2026-03-30T04:24:19.458Z"
+generated_at: "2026-03-30T04:25:57.673Z"
 status: "active"
 ---
 

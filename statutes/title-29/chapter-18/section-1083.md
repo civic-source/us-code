@@ -3,9 +3,9 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-30T04:24:27.353Z"
+generated_at: "2026-03-30T04:26:04.116Z"
 status: "active"
 ---
 
@@ -209,7 +209,7 @@ status: "active"
       - **(iii)** The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
       - **(iv)**
         - **(I)** If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
-        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 2017 90% 110% 2018 85% 115% 2019 80% 120% 2020 75% 125% After 2020 70% 130%.
+        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 2017 90% 110% 2018 85% 115% 2019 80% 120% 2020 75% 125% After 2020 70% 130%
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary of the Treasury.

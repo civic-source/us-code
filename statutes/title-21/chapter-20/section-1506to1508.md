@@ -3,9 +3,9 @@ title: "Section 1506to1508 - Repealed. Pub. L. 100–690, title I, § 1009 , Nov
 usc_title: 21
 usc_section: "1506to1508"
 chapter: 20
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "21 U.S.C. § 1506to1508"
-generated_at: "2026-03-30T04:24:19.498Z"
+generated_at: "2026-03-30T04:25:57.710Z"
 status: "repealed"
 ---
 

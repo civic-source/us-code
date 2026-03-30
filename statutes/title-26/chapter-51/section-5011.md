@@ -3,9 +3,9 @@ title: "Section 5011 - Income tax credit for average cost of carrying excise tax
 usc_title: 26
 usc_section: "5011"
 chapter: 51
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 5011"
-generated_at: "2026-03-30T04:24:33.757Z"
+generated_at: "2026-03-30T04:26:11.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3608 - Language training and cryptologic linguist reserve progra
 usc_title: 50
 usc_section: "3608"
 chapter: 47
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "50 U.S.C. § 3608"
-generated_at: "2026-03-30T04:24:59.243Z"
+generated_at: "2026-03-30T04:26:55.966Z"
 status: "active"
 ---
 

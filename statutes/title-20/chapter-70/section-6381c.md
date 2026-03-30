@@ -3,9 +3,9 @@ title: "Section 6381c - Uses of funds"
 usc_title: 20
 usc_section: "6381c"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 6381c"
-generated_at: "2026-03-30T04:24:13.076Z"
+generated_at: "2026-03-30T04:25:45.230Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 932 - Art. 132. Frauds against the United States"
 usc_title: 10
 usc_section: "932"
 chapter: 47
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 932"
-generated_at: "2026-03-30T04:23:32.993Z"
+generated_at: "2026-03-30T04:25:30.229Z"
 status: "active"
 ---
 

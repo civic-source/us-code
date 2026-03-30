@@ -3,9 +3,9 @@ title: "Section 5a - Additional amendments to Articles of Agreement"
 usc_title: 22
 usc_section: "5a"
 chapter: 7
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 5a"
-generated_at: "2026-03-30T04:24:18.321Z"
+generated_at: "2026-03-30T04:26:00.052Z"
 status: "active"
 ---
 

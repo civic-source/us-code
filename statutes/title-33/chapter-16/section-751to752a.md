@@ -3,9 +3,9 @@ title: "Section 751to752a - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 56
 usc_title: 33
 usc_section: "751to752a"
 chapter: 16
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "33 U.S.C. § 751to752a"
-generated_at: "2026-03-30T04:24:37.290Z"
+generated_at: "2026-03-30T04:26:14.722Z"
 status: "repealed"
 ---
 

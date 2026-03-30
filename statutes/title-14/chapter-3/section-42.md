@@ -3,9 +3,9 @@ title: "Section 42 - Number and distribution of commissioned officers on active 
 usc_title: 14
 usc_section: "42"
 chapter: 3
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "14 U.S.C. § 42"
-generated_at: "2026-03-30T04:23:41.915Z"
+generated_at: "2026-03-30T04:25:32.567Z"
 status: "active"
 ---
 

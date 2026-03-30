@@ -3,9 +3,9 @@ title: "Section 12880 - Report"
 usc_title: 42
 usc_section: "12880"
 chapter: 130
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 12880"
-generated_at: "2026-03-30T04:24:55.410Z"
+generated_at: "2026-03-30T04:26:52.023Z"
 status: "active"
 ---
 

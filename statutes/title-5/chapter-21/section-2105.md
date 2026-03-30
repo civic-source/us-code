@@ -3,9 +3,9 @@ title: "Section 2105 - Employee"
 usc_title: 5
 usc_section: "2105"
 chapter: 21
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "5 U.S.C. § 2105"
-generated_at: "2026-03-30T04:23:23.854Z"
+generated_at: "2026-03-30T04:25:20.704Z"
 status: "active"
 ---
 

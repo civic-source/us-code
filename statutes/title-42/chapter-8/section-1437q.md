@@ -3,9 +3,9 @@ title: "Section 1437q - Financing limitations"
 usc_title: 42
 usc_section: "1437q"
 chapter: 8
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 1437q"
-generated_at: "2026-03-30T04:24:55.098Z"
+generated_at: "2026-03-30T04:26:51.725Z"
 status: "active"
 ---
 

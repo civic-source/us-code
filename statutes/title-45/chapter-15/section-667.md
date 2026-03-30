@@ -3,9 +3,9 @@ title: "Section 667 - Audit by Comptroller General; report to Congress"
 usc_title: 45
 usc_section: "667"
 chapter: 15
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "45 U.S.C. § 667"
-generated_at: "2026-03-30T04:24:44.689Z"
+generated_at: "2026-03-30T04:26:29.599Z"
 status: "active"
 ---
 

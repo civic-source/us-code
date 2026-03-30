@@ -3,9 +3,9 @@ title: "Section 79to79z6 - Repealed. Pub. L. 109–58, title XII, § 1263 , Aug.
 usc_title: 15
 usc_section: "79to79z6"
 chapter: 2
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "15 U.S.C. § 79to79z6"
-generated_at: "2026-03-30T04:23:44.987Z"
+generated_at: "2026-03-30T04:25:38.638Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2841 - Establishment of one-stop delivery systems"
 usc_title: 29
 usc_section: "2841"
 chapter: 30
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 2841"
-generated_at: "2026-03-30T04:24:27.380Z"
+generated_at: "2026-03-30T04:26:04.144Z"
 status: "active"
 ---
 

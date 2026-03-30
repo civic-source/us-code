@@ -3,9 +3,9 @@ title: "Section 4502 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "4502"
 chapter: 59
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 4502"
-generated_at: "2026-03-30T04:24:55.206Z"
+generated_at: "2026-03-30T04:26:51.831Z"
 status: "active"
 ---
 

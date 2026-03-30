@@ -3,9 +3,9 @@ title: "Section 1402 - Counseling"
 usc_title: 2
 usc_section: "1402"
 chapter: 24
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "2 U.S.C. § 1402"
-generated_at: "2026-03-30T04:23:21.976Z"
+generated_at: "2026-03-30T04:25:22.082Z"
 status: "active"
 ---
 

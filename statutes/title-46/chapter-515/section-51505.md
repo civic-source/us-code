@@ -3,9 +3,9 @@ title: "Section 51505 - Annual payments for maintenance and support"
 usc_title: 46
 usc_section: "51505"
 chapter: 515
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "46 U.S.C. § 51505"
-generated_at: "2026-03-30T04:24:59.945Z"
+generated_at: "2026-03-30T04:26:56.624Z"
 status: "active"
 ---
 

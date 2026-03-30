@@ -3,9 +3,9 @@ title: "Section 3811to3813 - Repealed. Pub. L. 90–235, § 3(a)(2) , (b)(1), Ja
 usc_title: 10
 usc_section: "3811to3813"
 chapter: 361
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 3811to3813"
-generated_at: "2026-03-30T04:23:33.069Z"
+generated_at: "2026-03-30T04:25:30.305Z"
 status: "repealed"
 ---
 

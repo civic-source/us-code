@@ -3,9 +3,9 @@ title: "Section 6702 - Contracts to which this chapter applies"
 usc_title: 41
 usc_section: "6702"
 chapter: 67
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "41 U.S.C. § 6702"
-generated_at: "2026-03-30T04:24:43.534Z"
+generated_at: "2026-03-30T04:26:28.458Z"
 status: "active"
 ---
 

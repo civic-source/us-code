@@ -3,9 +3,9 @@ title: "Section 7274 - Environmental impact statements relating to defense facil
 usc_title: 42
 usc_section: "7274"
 chapter: 84
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 7274"
-generated_at: "2026-03-30T04:24:55.279Z"
+generated_at: "2026-03-30T04:26:51.899Z"
 status: "active"
 ---
 

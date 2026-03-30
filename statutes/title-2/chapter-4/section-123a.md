@@ -3,9 +3,9 @@ title: "Section 123a - Omitted"
 usc_title: 2
 usc_section: "123a"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "2 U.S.C. § 123a"
-generated_at: "2026-03-30T04:23:21.953Z"
+generated_at: "2026-03-30T04:25:22.062Z"
 status: "omitted"
 ---
 

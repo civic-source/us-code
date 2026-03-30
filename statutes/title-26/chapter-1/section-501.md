@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T04:24:33.666Z"
+generated_at: "2026-03-30T04:26:11.427Z"
 status: "active"
 ---
 
@@ -124,7 +124,7 @@ status: "active"
     - **(A)** organized in the United States or any of its possessions,
     - **(B)** at least 75 percent of the members of which are past or present members of the Armed Forces of the United States and substantially all of the other members of which are individuals who are cadets or are spouses, widows,, 3 3 So in original. widowers, ancestors, or lineal descendants of past or present members of the Armed Forces of the United States or of cadets, and
     - **(C)** no part of the net earnings of which inures to the benefit of any private shareholder or individual.
-  - **[(20)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii) , Dec. 19, 2014 , 128 Stat. 4040 ]
+  - **[(20)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii) , Dec. 19, 2014 , 128 Stat. 4040 .]
   - **(21)**
     - **(A)** A trust or trusts established in writing, created or organized in the United States, and contributed to by any person (except an insurance company) if—
       - **(i)** the purpose of such trust or trusts is exclusively—

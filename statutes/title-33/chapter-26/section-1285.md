@@ -3,9 +3,9 @@ title: "Section 1285 - Allotment of grant funds"
 usc_title: 33
 usc_section: "1285"
 chapter: 26
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "33 U.S.C. § 1285"
-generated_at: "2026-03-30T04:24:37.303Z"
+generated_at: "2026-03-30T04:26:14.733Z"
 status: "active"
 ---
 

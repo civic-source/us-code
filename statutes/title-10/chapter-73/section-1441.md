@@ -3,9 +3,9 @@ title: "Section 1441 - Annuities in addition to other payments"
 usc_title: 10
 usc_section: "1441"
 chapter: 73
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 1441"
-generated_at: "2026-03-30T04:23:33.014Z"
+generated_at: "2026-03-30T04:25:30.250Z"
 status: "active"
 ---
 

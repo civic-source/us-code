@@ -3,9 +3,9 @@ title: "Section 1500 - Appraisement, classification, and liquidation procedure"
 usc_title: 19
 usc_section: "1500"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "19 U.S.C. § 1500"
-generated_at: "2026-03-30T04:24:08.442Z"
+generated_at: "2026-03-30T04:25:42.865Z"
 status: "active"
 ---
 

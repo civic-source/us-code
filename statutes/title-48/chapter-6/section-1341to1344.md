@@ -3,9 +3,9 @@ title: "Section 1341to1344 - Omitted"
 usc_title: 48
 usc_section: "1341to1344"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "48 U.S.C. § 1341to1344"
-generated_at: "2026-03-30T04:24:57.986Z"
+generated_at: "2026-03-30T04:26:54.623Z"
 status: "omitted"
 ---
 

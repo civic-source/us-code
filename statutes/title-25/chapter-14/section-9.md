@@ -3,9 +3,9 @@ title: "Section 9 - Economic development"
 usc_title: 25
 usc_section: "9"
 chapter: 14
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "25 U.S.C. § 9"
-generated_at: "2026-03-30T04:24:20.409Z"
+generated_at: "2026-03-30T04:25:56.724Z"
 status: "active"
 ---
 

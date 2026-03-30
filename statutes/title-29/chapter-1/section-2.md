@@ -3,9 +3,9 @@ title: "Section 2 - Collection, collation, and reports of labor statistics"
 usc_title: 29
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T04:24:27.323Z"
+generated_at: "2026-03-30T04:26:04.086Z"
 status: "active"
 ---
 

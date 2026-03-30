@@ -3,9 +3,9 @@ title: "Section 7253a - Purpose"
 usc_title: 20
 usc_section: "7253a"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7253a"
-generated_at: "2026-03-30T04:24:13.094Z"
+generated_at: "2026-03-30T04:25:45.248Z"
 status: "active"
 ---
 

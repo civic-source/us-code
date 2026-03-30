@@ -3,9 +3,9 @@ title: "Section 32306 - Personnel"
 usc_title: 49
 usc_section: "32306"
 chapter: 323
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "49 U.S.C. § 32306"
-generated_at: "2026-03-30T04:25:02.313Z"
+generated_at: "2026-03-30T04:26:58.306Z"
 status: "active"
 ---
 

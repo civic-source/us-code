@@ -3,9 +3,9 @@ title: "Section 4005 - Medical relief; expenses"
 usc_title: 18
 usc_section: "4005"
 chapter: 301
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "18 U.S.C. § 4005"
-generated_at: "2026-03-30T04:23:51.222Z"
+generated_at: "2026-03-30T04:25:53.411Z"
 status: "active"
 ---
 

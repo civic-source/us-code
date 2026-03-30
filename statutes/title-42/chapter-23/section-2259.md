@@ -3,9 +3,9 @@ title: "Section 2259 - Information and assistance to Congressional committees"
 usc_title: 42
 usc_section: "2259"
 chapter: 23
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 2259"
-generated_at: "2026-03-30T04:24:55.156Z"
+generated_at: "2026-03-30T04:26:51.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9721 - Civil enforcement"
 usc_title: 26
 usc_section: "9721"
 chapter: 99
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 9721"
-generated_at: "2026-03-30T04:24:33.816Z"
+generated_at: "2026-03-30T04:26:11.584Z"
 status: "active"
 ---
 

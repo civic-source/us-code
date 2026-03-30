@@ -3,9 +3,9 @@ title: "Section 418E - Insolvent plans"
 usc_title: 26
 usc_section: "418E"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 418E"
-generated_at: "2026-03-30T04:24:33.652Z"
+generated_at: "2026-03-30T04:26:11.412Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
   - **(4)** For purposes of this subsection, the value of plan assets shall be the value of the available plan assets determined under regulations prescribed by the Secretary of the Treasury.
 - **(e)**
   - **(1)** If the plan sponsor of a plan in critical status, as described in subsection 1 432(b)(2), determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
-    - **(A)** notify the Secretary, the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
+    - **(A)** notify the Secretary, 3 3 So in original. The comma probably should be “and”. the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
     - **(B)** inform the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
   - **(2)** No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in critical status, as described in subsection 1 432(b)(2), shall notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of the resource benefit level determined in writing for that insolvency year.
   - **(3)** In any case in which the plan sponsor anticipates that the resource benefit level for an insolvency year may not exceed the level of basic benefits, the plan sponsor shall notify the Pension Benefit Guaranty Corporation.

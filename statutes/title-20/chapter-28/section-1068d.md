@@ -3,9 +3,9 @@ title: "Section 1068d - Assistance to institutions under other programs"
 usc_title: 20
 usc_section: "1068d"
 chapter: 28
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 1068d"
-generated_at: "2026-03-30T04:24:12.916Z"
+generated_at: "2026-03-30T04:25:45.142Z"
 status: "active"
 ---
 

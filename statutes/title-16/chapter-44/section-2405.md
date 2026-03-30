@@ -3,9 +3,9 @@ title: "Section 2405 - Regulations"
 usc_title: 16
 usc_section: "2405"
 chapter: 44
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 2405"
-generated_at: "2026-03-30T04:23:54.138Z"
+generated_at: "2026-03-30T04:25:48.473Z"
 status: "active"
 ---
 

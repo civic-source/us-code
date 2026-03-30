@@ -3,9 +3,9 @@ title: "Section 799 - Violation of regulations of National Aeronautics and Space
 usc_title: 18
 usc_section: "799"
 chapter: 37
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "18 U.S.C. § 799"
-generated_at: "2026-03-30T04:23:51.181Z"
+generated_at: "2026-03-30T04:25:53.369Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1422 - Eligibility for naturalization"
 usc_title: 8
 usc_section: "1422"
 chapter: 12
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "8 U.S.C. § 1422"
-generated_at: "2026-03-30T04:23:39.967Z"
+generated_at: "2026-03-30T04:25:24.550Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 263 - Capital expenditures"
 usc_title: 26
 usc_section: "263"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 263"
-generated_at: "2026-03-30T04:24:33.629Z"
+generated_at: "2026-03-30T04:26:11.387Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(E)** expenditures for removal of architectural and transportation barriers to the handicapped and elderly which the taxpayer elects to deduct under section 190,
     - **(F)** expenditures for tertiary injectants with respect to which a deduction is allowed under section 193; 1 1 So in original. The semicolon probably should be a comma.
     - **(G)** expenditures for which a deduction is allowed under section 179; 1
-    - **[(H)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(34)(D) , Dec. 19, 2014 , 128 Stat. 4042 ]
+    - **[(H)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(34)(D) , Dec. 19, 2014 , 128 Stat. 4042 .]
     - **(I)** expenditures for which a deduction is allowed under section 179B,
     - **(J)** expenditures for which a deduction is allowed under section 179C,
     - **(K)** expenditures for which a deduction is allowed under section 179D, or

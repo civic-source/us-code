@@ -3,9 +3,9 @@ title: "Section 2151u - Private and voluntary organizations and cooperatives in 
 usc_title: 22
 usc_section: "2151u"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 2151u"
-generated_at: "2026-03-30T04:24:18.345Z"
+generated_at: "2026-03-30T04:26:00.076Z"
 status: "active"
 ---
 

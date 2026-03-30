@@ -3,9 +3,9 @@ title: "Section 156 - Rules and regulations"
 usc_title: 29
 usc_section: "156"
 chapter: 7
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 156"
-generated_at: "2026-03-30T04:24:27.325Z"
+generated_at: "2026-03-30T04:26:04.088Z"
 status: "active"
 ---
 

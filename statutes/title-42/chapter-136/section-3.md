@@ -3,9 +3,9 @@ title: "Section 3 - Collaborative grants to increase the long-term stability of 
 usc_title: 42
 usc_section: "3"
 chapter: 136
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T04:24:55.431Z"
+generated_at: "2026-03-30T04:26:52.044Z"
 status: "active"
 ---
 

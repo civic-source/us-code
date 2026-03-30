@@ -3,9 +3,9 @@ title: "Section 680 - Renumbered § 12312]"
 usc_title: 10
 usc_section: "680"
 chapter: 39
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 680"
-generated_at: "2026-03-30T04:23:32.987Z"
+generated_at: "2026-03-30T04:25:30.223Z"
 status: "renumbered"
 ---
 

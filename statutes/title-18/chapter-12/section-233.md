@@ -3,9 +3,9 @@ title: "Section 233 - Preemption"
 usc_title: 18
 usc_section: "233"
 chapter: 12
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "18 U.S.C. § 233"
-generated_at: "2026-03-30T04:23:51.175Z"
+generated_at: "2026-03-30T04:25:53.363Z"
 status: "active"
 ---
 

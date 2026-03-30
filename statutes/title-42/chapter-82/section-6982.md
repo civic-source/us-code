@@ -3,9 +3,9 @@ title: "Section 6982 - Special studies; plans for research, development, and dem
 usc_title: 42
 usc_section: "6982"
 chapter: 82
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 6982"
-generated_at: "2026-03-30T04:24:55.271Z"
+generated_at: "2026-03-30T04:26:51.893Z"
 status: "active"
 ---
 

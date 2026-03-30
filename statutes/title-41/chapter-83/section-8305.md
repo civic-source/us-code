@@ -3,9 +3,9 @@ title: "Section 8305 - Annual report"
 usc_title: 41
 usc_section: "8305"
 chapter: 83
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "41 U.S.C. § 8305"
-generated_at: "2026-03-30T04:24:43.535Z"
+generated_at: "2026-03-30T04:26:28.459Z"
 status: "active"
 ---
 

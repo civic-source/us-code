@@ -3,9 +3,9 @@ title: "Section 2916 - Sale of electricity from alternate energy and cogeneratio
 usc_title: 10
 usc_section: "2916"
 chapter: 173
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 2916"
-generated_at: "2026-03-30T04:23:33.066Z"
+generated_at: "2026-03-30T04:25:30.301Z"
 status: "active"
 ---
 

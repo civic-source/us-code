@@ -3,9 +3,9 @@ title: "Section 404 - National Highway Safety Advisory Committee"
 usc_title: 23
 usc_section: "404"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "23 U.S.C. § 404"
-generated_at: "2026-03-30T04:24:23.168Z"
+generated_at: "2026-03-30T04:26:00.519Z"
 status: "active"
 ---
 

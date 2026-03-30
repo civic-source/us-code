@@ -3,9 +3,9 @@ title: "Section 1505 - Payment of pension during confinement in penal institutio
 usc_title: 38
 usc_section: "1505"
 chapter: 15
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "38 U.S.C. § 1505"
-generated_at: "2026-03-30T04:24:41.450Z"
+generated_at: "2026-03-30T04:26:25.832Z"
 status: "active"
 ---
 

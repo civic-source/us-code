@@ -3,9 +3,9 @@ title: "Section 141 - Collection, preparation and publication"
 usc_title: 4
 usc_section: "141"
 chapter: 5
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "4 U.S.C. § 141"
-generated_at: "2026-03-30T04:23:20.938Z"
+generated_at: "2026-03-30T04:25:13.727Z"
 status: "active"
 ---
 

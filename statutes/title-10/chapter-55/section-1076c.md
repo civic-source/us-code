@@ -3,9 +3,9 @@ title: "Section 1076c - Dental insurance plan: certain retirees and their surviv
 usc_title: 10
 usc_section: "1076c"
 chapter: 55
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 1076c"
-generated_at: "2026-03-30T04:23:33.002Z"
+generated_at: "2026-03-30T04:25:30.239Z"
 status: "active"
 ---
 

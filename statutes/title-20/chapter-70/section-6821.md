@@ -3,9 +3,9 @@ title: "Section 6821 - Formula grants to States"
 usc_title: 20
 usc_section: "6821"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 6821"
-generated_at: "2026-03-30T04:24:13.084Z"
+generated_at: "2026-03-30T04:25:45.238Z"
 status: "active"
 ---
 

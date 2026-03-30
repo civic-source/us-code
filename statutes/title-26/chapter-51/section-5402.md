@@ -3,9 +3,9 @@ title: "Section 5402 - Definitions"
 usc_title: 26
 usc_section: "5402"
 chapter: 51
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 5402"
-generated_at: "2026-03-30T04:24:33.762Z"
+generated_at: "2026-03-30T04:26:11.527Z"
 status: "active"
 ---
 

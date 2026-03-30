@@ -3,9 +3,9 @@ title: "Section 1484 - Pensioners, indigent patients, and persons who die on mil
 usc_title: 10
 usc_section: "1484"
 chapter: 75
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 1484"
-generated_at: "2026-03-30T04:23:33.017Z"
+generated_at: "2026-03-30T04:25:30.254Z"
 status: "active"
 ---
 

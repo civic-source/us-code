@@ -3,9 +3,9 @@ title: "Section 705 - Authorization of appropriations"
 usc_title: 49
 usc_section: "705"
 chapter: 7
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "49 U.S.C. § 705"
-generated_at: "2026-03-30T04:25:02.270Z"
+generated_at: "2026-03-30T04:26:58.262Z"
 status: "active"
 ---
 

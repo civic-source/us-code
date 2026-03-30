@@ -3,9 +3,9 @@ title: "Section 612 - Permits to cut and remove timber to certain corporations"
 usc_title: 16
 usc_section: "612"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 612"
-generated_at: "2026-03-30T04:23:54.060Z"
+generated_at: "2026-03-30T04:25:48.398Z"
 status: "active"
 ---
 

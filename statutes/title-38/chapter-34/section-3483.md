@@ -3,9 +3,9 @@ title: "Section 3483 - Approval of courses"
 usc_title: 38
 usc_section: "3483"
 chapter: 34
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "38 U.S.C. § 3483"
-generated_at: "2026-03-30T04:24:41.468Z"
+generated_at: "2026-03-30T04:26:25.850Z"
 status: "active"
 ---
 

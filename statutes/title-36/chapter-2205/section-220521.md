@@ -3,9 +3,9 @@ title: "Section 220521 - Recognition of amateur sports organizations as national
 usc_title: 36
 usc_section: "220521"
 chapter: 2205
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "36 U.S.C. § 220521"
-generated_at: "2026-03-30T04:24:39.609Z"
+generated_at: "2026-03-30T04:26:24.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1070a2to1070a6 - Repealed. Pub. L. 102–325, title IV, § 401(i
 usc_title: 20
 usc_section: "1070a2to1070a6"
 chapter: 28
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 1070a2to1070a6"
-generated_at: "2026-03-30T04:24:12.917Z"
+generated_at: "2026-03-30T04:25:45.144Z"
 status: "repealed"
 ---
 

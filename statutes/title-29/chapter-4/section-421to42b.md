@@ -3,9 +3,9 @@ title: "Section 421to42b - Repealed. Pub. L. 93–112, title V, § 500(a) , Sept
 usc_title: 29
 usc_section: "421to42b"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 421to42b"
-generated_at: "2026-03-30T04:24:27.323Z"
+generated_at: "2026-03-30T04:26:04.086Z"
 status: "repealed"
 ---
 

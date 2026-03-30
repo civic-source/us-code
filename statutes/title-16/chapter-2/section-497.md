@@ -3,9 +3,9 @@ title: "Section 497 - Use and occupation of lands for hotels, resorts, summer ho
 usc_title: 16
 usc_section: "497"
 chapter: 2
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 497"
-generated_at: "2026-03-30T04:23:54.043Z"
+generated_at: "2026-03-30T04:25:48.381Z"
 status: "active"
 ---
 

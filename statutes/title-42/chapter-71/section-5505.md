@@ -3,9 +3,9 @@ title: "Section 5505 - Omitted"
 usc_title: 42
 usc_section: "5505"
 chapter: 71
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 5505"
-generated_at: "2026-03-30T04:24:55.230Z"
+generated_at: "2026-03-30T04:26:51.854Z"
 status: "omitted"
 ---
 

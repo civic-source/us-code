@@ -3,9 +3,9 @@ title: "Section 4656 - Aircraft and equipment: civilian aviation schools"
 usc_title: 10
 usc_section: "4656"
 chapter: 441
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 4656"
-generated_at: "2026-03-30T04:23:33.073Z"
+generated_at: "2026-03-30T04:25:30.308Z"
 status: "active"
 ---
 

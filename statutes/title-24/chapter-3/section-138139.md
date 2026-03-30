@@ -3,9 +3,9 @@ title: "Section 138139 - Repealed. Pub. L. 85–857, § 14(4) , (5), (26), Sept.
 usc_title: 24
 usc_section: "138139"
 chapter: 3
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "24 U.S.C. § 138139"
-generated_at: "2026-03-30T04:24:19.568Z"
+generated_at: "2026-03-30T04:25:55.336Z"
 status: "repealed"
 ---
 

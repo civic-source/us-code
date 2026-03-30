@@ -3,9 +3,9 @@ title: "Section 433j - Administration, protection, and development"
 usc_title: 16
 usc_section: "433j"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 433j"
-generated_at: "2026-03-30T04:23:54.003Z"
+generated_at: "2026-03-30T04:25:48.341Z"
 status: "active"
 ---
 

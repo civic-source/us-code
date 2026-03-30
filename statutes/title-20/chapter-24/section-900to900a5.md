@@ -3,9 +3,9 @@ title: "Section 900to900a5 - Omitted"
 usc_title: 20
 usc_section: "900to900a5"
 chapter: 24
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 900to900a5"
-generated_at: "2026-03-30T04:24:12.903Z"
+generated_at: "2026-03-30T04:25:45.129Z"
 status: "omitted"
 ---
 

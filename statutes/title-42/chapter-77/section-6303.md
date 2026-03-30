@@ -3,9 +3,9 @@ title: "Section 6303 - Enforcement"
 usc_title: 42
 usc_section: "6303"
 chapter: 77
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 6303"
-generated_at: "2026-03-30T04:24:55.250Z"
+generated_at: "2026-03-30T04:26:51.872Z"
 status: "active"
 ---
 

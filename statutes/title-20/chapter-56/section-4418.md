@@ -3,9 +3,9 @@ title: "Section 4418 - Indian preference"
 usc_title: 20
 usc_section: "4418"
 chapter: 56
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 4418"
-generated_at: "2026-03-30T04:24:13.061Z"
+generated_at: "2026-03-30T04:25:45.215Z"
 status: "active"
 ---
 

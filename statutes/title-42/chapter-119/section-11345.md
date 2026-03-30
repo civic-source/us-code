@@ -3,9 +3,9 @@ title: "Section 11345 - Disbursement of funds"
 usc_title: 42
 usc_section: "11345"
 chapter: 119
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 11345"
-generated_at: "2026-03-30T04:24:55.377Z"
+generated_at: "2026-03-30T04:26:51.992Z"
 status: "active"
 ---
 

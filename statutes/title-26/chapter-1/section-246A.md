@@ -3,9 +3,9 @@ title: "Section 246A - Dividends received deduction reduced where portfolio stoc
 usc_title: 26
 usc_section: "246A"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 246A"
-generated_at: "2026-03-30T04:24:33.628Z"
+generated_at: "2026-03-30T04:26:11.387Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** 70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
   - **(2)** 100 percent minus the average indebtedness percentage.
 - **(b)** Subsection (a) shall not apply to—
-  - **(1)** qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4) 1 1 See References in Text note below. ), and
+  - **(1)** qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)), 1 1 See References in Text note below. and
   - **(2)** dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 - **(c)** For purposes of this section—
   - **(1)** The term “debt financed portfolio stock” means any portfolio stock if at some time during the base period there is portfolio indebtedness with respect to such stock.

@@ -3,9 +3,9 @@ title: "Section 101117 - Authority of Board"
 usc_title: 54
 usc_section: "101117"
 chapter: 1011
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "54 U.S.C. § 101117"
-generated_at: "2026-03-30T04:25:04.077Z"
+generated_at: "2026-03-30T04:27:00.388Z"
 status: "active"
 ---
 

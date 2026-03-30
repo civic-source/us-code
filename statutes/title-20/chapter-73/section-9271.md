@@ -3,9 +3,9 @@ title: "Section 9271 - State unified plan"
 usc_title: 20
 usc_section: "9271"
 chapter: 73
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 9271"
-generated_at: "2026-03-30T04:24:13.112Z"
+generated_at: "2026-03-30T04:25:45.265Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9852a - Parental consent requirement for nonemergency intrusive 
 usc_title: 42
 usc_section: "9852a"
 chapter: 105
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 9852a"
-generated_at: "2026-03-30T04:24:55.353Z"
+generated_at: "2026-03-30T04:26:51.970Z"
 status: "active"
 ---
 

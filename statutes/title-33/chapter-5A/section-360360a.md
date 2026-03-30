@@ -3,9 +3,9 @@ title: "Section 360360a - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 
 usc_title: 33
 usc_section: "360360a"
 chapter: 5
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "33 U.S.C. § 360360a"
-generated_at: "2026-03-30T04:24:37.275Z"
+generated_at: "2026-03-30T04:26:14.707Z"
 status: "repealed"
 ---
 

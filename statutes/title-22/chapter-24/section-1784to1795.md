@@ -3,9 +3,9 @@ title: "Section 1784to1795 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2),
 usc_title: 22
 usc_section: "1784to1795"
 chapter: 24
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 1784to1795"
-generated_at: "2026-03-30T04:24:18.338Z"
+generated_at: "2026-03-30T04:26:00.070Z"
 status: "repealed"
 ---
 

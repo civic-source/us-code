@@ -3,9 +3,9 @@ title: "Section 3342 - Annual status reports on programs; monitoring"
 usc_title: 16
 usc_section: "3342"
 chapter: 52
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 3342"
-generated_at: "2026-03-30T04:23:54.148Z"
+generated_at: "2026-03-30T04:25:48.483Z"
 status: "active"
 ---
 

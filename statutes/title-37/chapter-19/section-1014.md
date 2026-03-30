@@ -3,9 +3,9 @@ title: "Section 1014 - Payment date for pay and allowances"
 usc_title: 37
 usc_section: "1014"
 chapter: 19
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "37 U.S.C. § 1014"
-generated_at: "2026-03-30T04:24:41.827Z"
+generated_at: "2026-03-30T04:26:26.770Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5021 - Promotion of National Senior Service Corps"
 usc_title: 42
 usc_section: "5021"
 chapter: 66
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 5021"
-generated_at: "2026-03-30T04:24:55.213Z"
+generated_at: "2026-03-30T04:26:51.837Z"
 status: "active"
 ---
 

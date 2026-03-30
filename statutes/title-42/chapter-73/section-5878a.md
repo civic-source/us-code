@@ -3,9 +3,9 @@ title: "Section 5878a - Funding and encouragement of small business; information
 usc_title: 42
 usc_section: "5878a"
 chapter: 73
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 5878a"
-generated_at: "2026-03-30T04:24:55.239Z"
+generated_at: "2026-03-30T04:26:51.862Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 291 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "291"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 291"
-generated_at: "2026-03-30T04:24:54.868Z"
+generated_at: "2026-03-30T04:26:51.489Z"
 status: "active"
 ---
 

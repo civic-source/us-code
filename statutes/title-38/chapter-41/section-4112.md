@@ -3,9 +3,9 @@ title: "Section 4112 - Performance incentive awards for quality employment, trai
 usc_title: 38
 usc_section: "4112"
 chapter: 41
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "38 U.S.C. § 4112"
-generated_at: "2026-03-30T04:24:41.476Z"
+generated_at: "2026-03-30T04:26:25.858Z"
 status: "active"
 ---
 

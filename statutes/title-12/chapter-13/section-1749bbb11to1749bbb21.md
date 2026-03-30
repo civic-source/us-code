@@ -3,9 +3,9 @@ title: "Section 1749bbb11to1749bbb21 - Omitted"
 usc_title: 12
 usc_section: "1749bbb11to1749bbb21"
 chapter: 13
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "12 U.S.C. § 1749bbb11to1749bbb21"
-generated_at: "2026-03-30T04:23:46.735Z"
+generated_at: "2026-03-30T04:25:35.757Z"
 status: "omitted"
 ---
 

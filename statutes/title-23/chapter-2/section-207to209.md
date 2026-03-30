@@ -3,9 +3,9 @@ title: "Section 207to209 - Repealed. Pub. L. 97–424, title I, § 126(d) , Jan.
 usc_title: 23
 usc_section: "207to209"
 chapter: 2
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "23 U.S.C. § 207to209"
-generated_at: "2026-03-30T04:24:23.166Z"
+generated_at: "2026-03-30T04:26:00.516Z"
 status: "repealed"
 ---
 

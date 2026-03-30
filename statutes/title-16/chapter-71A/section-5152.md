@@ -3,9 +3,9 @@ title: "Section 5152 - Definitions"
 usc_title: 16
 usc_section: "5152"
 chapter: 71
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 5152"
-generated_at: "2026-03-30T04:23:54.168Z"
+generated_at: "2026-03-30T04:25:48.502Z"
 status: "active"
 ---
 

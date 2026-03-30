@@ -3,9 +3,9 @@ title: "Section 7275 - Grants to combat the impact of experiencing or witnessing
 usc_title: 20
 usc_section: "7275"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7275"
-generated_at: "2026-03-30T04:24:13.097Z"
+generated_at: "2026-03-30T04:25:45.250Z"
 status: "active"
 ---
 

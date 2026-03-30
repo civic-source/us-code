@@ -3,9 +3,9 @@ title: "Section 620 - Members of Board of Governors of the Federal Reserve Syste
 usc_title: 12
 usc_section: "620"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "12 U.S.C. § 620"
-generated_at: "2026-03-30T04:23:46.689Z"
+generated_at: "2026-03-30T04:25:35.711Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1085a - Minimum funding standards"
 usc_title: 29
 usc_section: "1085a"
 chapter: 18
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 1085a"
-generated_at: "2026-03-30T04:24:27.357Z"
+generated_at: "2026-03-30T04:26:04.120Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(v)** separately, with respect to each plan year, the net loss (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 10 plan years,
     - **(C)** the amount necessary to amortize each waived funding deficiency (within the meaning of section 1082(c)(3) of this title ) for each prior plan year in equal annual installments (until fully amortized) over a period of 5 plan years,
     - **(D)** the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under paragraph (3)(D), and
-    - **(E)** the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of section 1082(c)(7)(A)(i)(I) of this title (as in effect on the day before the enactment of the Pension Protection Act of 2006).
+    - **(E)** the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of section 1082(c)(7)(A)(i)(I) of this title (as in effect on the day before August 17, 2006 ).
   - **(3)** For a plan year, the funding standard account shall be credited with the sum of—
     - **(A)** the amount considered contributed by the employer to or under the plan for the plan year,
     - **(B)** the amount necessary to amortize in equal annual installments (until fully amortized)—
@@ -46,7 +46,7 @@ status: "active"
   - **(1)** For purposes of this section, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
   - **(2)**
     - **(A)** For purposes of this section, the value of the plan’s assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary of the Treasury.
-    - **(B)** The Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of a plan shall be determined by using the interest rate under section 1082(b)(5) of this title (as in effect on the day before the enactment of the Pension Protection Act of 2006).
+    - **(B)** The Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of a plan shall be determined by using the interest rate under section 1082(b)(5) of this title (as in effect on the day before August 17, 2006 ).
   - **(3)** For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods—
     - **(A)** each of which is reasonable (taking into account the experience of the plan and reasonable expectations), and
     - **(B)** which, in combination, offer the actuary’s best estimate of anticipated experience under the plan.
@@ -54,7 +54,7 @@ status: "active"
     - **(A)** a change in benefits under the Social Security Act [ 42 U.S.C. 301 et seq.] or in other retirement benefits created under Federal or State law, or
     - **(B)** a change in the definition of the term “wages” under section 3121 of title 26 or a change in the amount of such wages taken into account under regulations prescribed for purposes of section 401(a)(5) of such title,
   - **(5)**
-    - **(A)** All funding methods available to CSEC plans under section 1082 of this title (as in effect on the day before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
+    - **(A)** All funding methods available to CSEC plans under section 1082 of this title (as in effect on the day before August 17, 2006 ) shall continue to be available under this section.
     - **(B)** If the funding method for a plan is changed, the new funding method shall become the funding method used to determine costs and liabilities under the plan only if the change is approved by the Secretary of the Treasury. If the plan year for a plan is changed, the new plan year shall become the plan year for the plan only if the change is approved by the Secretary of the Treasury.
     - **(C)**
       - **(i)** No actuarial assumption (other than the assumptions described in subsection (h)(3)) used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
@@ -118,7 +118,7 @@ status: "active"
       - **(ii)** 100 percent of the amount so required for the preceding plan year.
   - **(5)**
     - **(A)** A plan to which this paragraph applies shall be treated as failing to pay the full amount of any required installment to the extent that the value of the liquid assets paid in such installment is less than the liquidity shortfall (whether or not such liquidity shortfall exceeds the amount of such installment required to be paid but for this paragraph).
-    - **(B)** This paragraph shall apply to a CSEC plan other than a plan described in section 1082(d)(6)(A) of this title (as in effect on the day before the enactment of the Pension Protection Act of 2006) which—
+    - **(B)** This paragraph shall apply to a CSEC plan other than a plan described in section 1082(d)(6)(A) of this title (as in effect on the day before August 17, 2006 ) which—
       - **(i)** is required to pay installments under this subsection for a plan year, and
       - **(ii)** has a liquidity shortfall for any quarter during such plan year.
     - **(C)** For purposes of paragraph (1), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.

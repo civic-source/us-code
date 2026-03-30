@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T04:24:33.638Z"
+generated_at: "2026-03-30T04:26:11.397Z"
 status: "active"
 ---
 
@@ -355,7 +355,7 @@ status: "active"
       - **(iv)** any organization which—
         - **(I)** is a mutual irrigation or ditch company described in section 501(c)(12) (without regard to the 85 percent requirement thereof), or
         - **(II)** is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
-      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 5 5 So in original. (iii), or (iv).
+      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 3 (iii), or (iv).
     - **(C)** A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
   - **(8)**
     - **(A)** A cash or deferred arrangement shall not be treated as failing to meet the requirements of clause (ii) of paragraph (3)(A) for any plan year if, before the close of the following plan year—

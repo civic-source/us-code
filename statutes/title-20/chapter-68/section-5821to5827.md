@@ -3,9 +3,9 @@ title: "Section 5821to5827 - Repealed. Pub. L. 107–110, title X, § 1011(4)(A)
 usc_title: 20
 usc_section: "5821to5827"
 chapter: 68
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 5821to5827"
-generated_at: "2026-03-30T04:24:13.065Z"
+generated_at: "2026-03-30T04:25:45.219Z"
 status: "repealed"
 ---
 

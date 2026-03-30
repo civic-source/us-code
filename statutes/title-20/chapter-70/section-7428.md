@@ -3,9 +3,9 @@ title: "Section 7428 - Payments"
 usc_title: 20
 usc_section: "7428"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7428"
-generated_at: "2026-03-30T04:24:13.101Z"
+generated_at: "2026-03-30T04:25:45.254Z"
 status: "active"
 ---
 

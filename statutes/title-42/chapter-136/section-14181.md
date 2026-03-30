@@ -3,9 +3,9 @@ title: "Section 14181 - Missing Alzheimer’s Disease Patient Alert Program"
 usc_title: 42
 usc_section: "14181"
 chapter: 136
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 14181"
-generated_at: "2026-03-30T04:24:55.437Z"
+generated_at: "2026-03-30T04:26:52.050Z"
 status: "active"
 ---
 

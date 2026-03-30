@@ -3,9 +3,9 @@ title: "Section 2394 - Firms relocating in foreign countries"
 usc_title: 19
 usc_section: "2394"
 chapter: 12
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "19 U.S.C. § 2394"
-generated_at: "2026-03-30T04:24:08.479Z"
+generated_at: "2026-03-30T04:25:42.892Z"
 status: "active"
 ---
 

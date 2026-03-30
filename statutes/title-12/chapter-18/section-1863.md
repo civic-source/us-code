@@ -3,9 +3,9 @@ title: "Section 1863 - Permissible bank service company activities for depositor
 usc_title: 12
 usc_section: "1863"
 chapter: 18
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "12 U.S.C. § 1863"
-generated_at: "2026-03-30T04:23:46.769Z"
+generated_at: "2026-03-30T04:25:35.791Z"
 status: "active"
 ---
 

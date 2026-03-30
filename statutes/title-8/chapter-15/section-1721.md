@@ -3,9 +3,9 @@ title: "Section 1721 - Interim measures for access to and coordination of law en
 usc_title: 8
 usc_section: "1721"
 chapter: 15
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "8 U.S.C. § 1721"
-generated_at: "2026-03-30T04:23:39.974Z"
+generated_at: "2026-03-30T04:25:24.557Z"
 status: "active"
 ---
 

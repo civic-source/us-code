@@ -3,9 +3,9 @@ title: "Section 80a - Transferred"
 usc_title: 2
 usc_section: "80a"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "2 U.S.C. § 80a"
-generated_at: "2026-03-30T04:23:21.952Z"
+generated_at: "2026-03-30T04:25:22.061Z"
 status: "transferred"
 ---
 

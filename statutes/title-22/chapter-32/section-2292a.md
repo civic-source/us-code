@@ -3,9 +3,9 @@ title: "Section 2292a - Authorization of appropriations"
 usc_title: 22
 usc_section: "2292a"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 2292a"
-generated_at: "2026-03-30T04:24:18.353Z"
+generated_at: "2026-03-30T04:26:00.084Z"
 status: "active"
 ---
 

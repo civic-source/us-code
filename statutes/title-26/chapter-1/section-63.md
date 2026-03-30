@@ -3,9 +3,9 @@ title: "Section 63 - Taxable income defined"
 usc_title: 26
 usc_section: "63"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-30T04:24:33.600Z"
+generated_at: "2026-03-30T04:26:11.356Z"
 status: "active"
 ---
 

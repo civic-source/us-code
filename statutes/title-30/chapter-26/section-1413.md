@@ -3,9 +3,9 @@ title: "Section 1413 - License and permit applications, review, and certificatio
 usc_title: 30
 usc_section: "1413"
 chapter: 26
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "30 U.S.C. § 1413"
-generated_at: "2026-03-30T04:24:25.435Z"
+generated_at: "2026-03-30T04:26:02.835Z"
 status: "active"
 ---
 

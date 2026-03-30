@@ -3,9 +3,9 @@ title: "Section 406to408 - Repealed. Pub. L. 112–141, div. C, title I, § 3110
 usc_title: 23
 usc_section: "406to408"
 chapter: 4
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "23 U.S.C. § 406to408"
-generated_at: "2026-03-30T04:24:23.168Z"
+generated_at: "2026-03-30T04:26:00.519Z"
 status: "repealed"
 ---
 

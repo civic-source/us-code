@@ -3,9 +3,9 @@ title: "Section 470ll - Annual report to Congress"
 usc_title: 16
 usc_section: "470ll"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 470ll"
-generated_at: "2026-03-30T04:23:54.040Z"
+generated_at: "2026-03-30T04:25:48.378Z"
 status: "active"
 ---
 

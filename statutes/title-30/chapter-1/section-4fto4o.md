@@ -3,9 +3,9 @@ title: "Section 4fto4o - Transferred"
 usc_title: 30
 usc_section: "4fto4o"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "30 U.S.C. § 4fto4o"
-generated_at: "2026-03-30T04:24:25.406Z"
+generated_at: "2026-03-30T04:26:02.806Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 289 - Additional remedy for infringement of design patent"
 usc_title: 35
 usc_section: "289"
 chapter: 29
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "35 U.S.C. § 289"
-generated_at: "2026-03-30T04:24:35.681Z"
+generated_at: "2026-03-30T04:26:13.381Z"
 status: "active"
 ---
 

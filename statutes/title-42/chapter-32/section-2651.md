@@ -3,9 +3,9 @@ title: "Section 2651 - Recovery by United States"
 usc_title: 42
 usc_section: "2651"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 2651"
-generated_at: "2026-03-30T04:24:55.162Z"
+generated_at: "2026-03-30T04:26:51.788Z"
 status: "active"
 ---
 

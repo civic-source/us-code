@@ -3,9 +3,9 @@ title: "Section 11133 - Reporting of certain professional review actions taken b
 usc_title: 42
 usc_section: "11133"
 chapter: 117
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 11133"
-generated_at: "2026-03-30T04:24:55.375Z"
+generated_at: "2026-03-30T04:26:51.991Z"
 status: "active"
 ---
 

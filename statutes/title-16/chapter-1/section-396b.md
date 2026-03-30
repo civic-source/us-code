@@ -3,9 +3,9 @@ title: "Section 396b - Establishment; boundaries; administration"
 usc_title: 16
 usc_section: "396b"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 396b"
-generated_at: "2026-03-30T04:23:53.975Z"
+generated_at: "2026-03-30T04:25:48.313Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4345 - Exchange program with foreign military academies"
 usc_title: 10
 usc_section: "4345"
 chapter: 403
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 4345"
-generated_at: "2026-03-30T04:23:33.071Z"
+generated_at: "2026-03-30T04:25:30.306Z"
 status: "active"
 ---
 

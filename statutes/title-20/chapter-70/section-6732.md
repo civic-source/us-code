@@ -3,9 +3,9 @@ title: "Section 6732 - Purpose"
 usc_title: 20
 usc_section: "6732"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 6732"
-generated_at: "2026-03-30T04:24:13.083Z"
+generated_at: "2026-03-30T04:25:45.236Z"
 status: "active"
 ---
 

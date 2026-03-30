@@ -3,9 +3,9 @@ title: "Section 9506 - Inland Waterways Trust Fund"
 usc_title: 26
 usc_section: "9506"
 chapter: 98
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 9506"
-generated_at: "2026-03-30T04:24:33.813Z"
+generated_at: "2026-03-30T04:26:11.582Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2634to2637 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 
 usc_title: 50
 usc_section: "2634to2637"
 chapter: 42
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "50 U.S.C. § 2634to2637"
-generated_at: "2026-03-30T04:24:59.223Z"
+generated_at: "2026-03-30T04:26:55.947Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1941to1944 - Repealed. Pub. L. 95–561, title XV, § 1529 , Nov
 usc_title: 20
 usc_section: "1941to1944"
 chapter: 41
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 1941to1944"
-generated_at: "2026-03-30T04:24:13.047Z"
+generated_at: "2026-03-30T04:25:45.202Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8156 - Coordination with health services development activities 
 usc_title: 38
 usc_section: "8156"
 chapter: 81
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "38 U.S.C. § 8156"
-generated_at: "2026-03-30T04:24:41.497Z"
+generated_at: "2026-03-30T04:26:25.875Z"
 status: "active"
 ---
 

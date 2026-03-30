@@ -3,9 +3,9 @@ title: "Section 296 - Repealed. Mar. 2, 1929, ch. 576 , 45 Stat. 1534"
 usc_title: 25
 usc_section: "296"
 chapter: 7
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "25 U.S.C. § 296"
-generated_at: "2026-03-30T04:24:20.372Z"
+generated_at: "2026-03-30T04:25:56.688Z"
 status: "repealed"
 ---
 

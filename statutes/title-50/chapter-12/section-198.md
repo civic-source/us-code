@@ -3,9 +3,9 @@ title: "Section 198 - Requisitioned vessels"
 usc_title: 50
 usc_section: "198"
 chapter: 12
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "50 U.S.C. § 198"
-generated_at: "2026-03-30T04:24:59.200Z"
+generated_at: "2026-03-30T04:26:55.925Z"
 status: "active"
 ---
 

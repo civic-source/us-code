@@ -3,9 +3,9 @@ title: "Section 13031 - Child abuse reporting"
 usc_title: 42
 usc_section: "13031"
 chapter: 132
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 13031"
-generated_at: "2026-03-30T04:24:55.412Z"
+generated_at: "2026-03-30T04:26:52.026Z"
 status: "active"
 ---
 

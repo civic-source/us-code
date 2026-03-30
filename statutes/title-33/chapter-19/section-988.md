@@ -3,9 +3,9 @@ title: "Section 988 - Rates of charges or tolls"
 usc_title: 33
 usc_section: "988"
 chapter: 19
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "33 U.S.C. § 988"
-generated_at: "2026-03-30T04:24:37.296Z"
+generated_at: "2026-03-30T04:26:14.727Z"
 status: "active"
 ---
 

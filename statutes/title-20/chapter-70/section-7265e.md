@@ -3,9 +3,9 @@ title: "Section 7265e - Definitions"
 usc_title: 20
 usc_section: "7265e"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7265e"
-generated_at: "2026-03-30T04:24:13.096Z"
+generated_at: "2026-03-30T04:25:45.249Z"
 status: "active"
 ---
 

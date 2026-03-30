@@ -3,9 +3,9 @@ title: "Section 4721 - Establishment of Task Force"
 usc_title: 16
 usc_section: "4721"
 chapter: 67
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 4721"
-generated_at: "2026-03-30T04:23:54.165Z"
+generated_at: "2026-03-30T04:25:48.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17541 - Federal prisoner reentry initiative"
 usc_title: 42
 usc_section: "17541"
 chapter: 153
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 17541"
-generated_at: "2026-03-30T04:24:55.479Z"
+generated_at: "2026-03-30T04:26:52.086Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70909 - Availability of personnel, services, and facilities of D
 usc_title: 36
 usc_section: "70909"
 chapter: 709
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "36 U.S.C. § 70909"
-generated_at: "2026-03-30T04:24:39.598Z"
+generated_at: "2026-03-30T04:26:24.505Z"
 status: "active"
 ---
 

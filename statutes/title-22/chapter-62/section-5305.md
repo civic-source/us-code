@@ -3,9 +3,9 @@ title: "Section 5305 - Reporting requirements"
 usc_title: 22
 usc_section: "5305"
 chapter: 62
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 5305"
-generated_at: "2026-03-30T04:24:18.404Z"
+generated_at: "2026-03-30T04:26:00.136Z"
 status: "active"
 ---
 

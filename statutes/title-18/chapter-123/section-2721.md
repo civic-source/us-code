@@ -3,9 +3,9 @@ title: "Section 2721 - Prohibition on release and use of certain personal inform
 usc_title: 18
 usc_section: "2721"
 chapter: 123
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "18 U.S.C. § 2721"
-generated_at: "2026-03-30T04:23:51.209Z"
+generated_at: "2026-03-30T04:25:53.398Z"
 status: "active"
 ---
 

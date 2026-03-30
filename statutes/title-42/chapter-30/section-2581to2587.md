@@ -3,9 +3,9 @@ title: "Section 2581to2587 - Repealed. Pub. L. 93–203, title VII, § 714 , for
 usc_title: 42
 usc_section: "2581to2587"
 chapter: 30
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 2581to2587"
-generated_at: "2026-03-30T04:24:55.162Z"
+generated_at: "2026-03-30T04:26:51.788Z"
 status: "repealed"
 ---
 

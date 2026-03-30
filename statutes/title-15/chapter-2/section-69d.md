@@ -3,9 +3,9 @@ title: "Section 69d - Fur products imported into United States"
 usc_title: 15
 usc_section: "69d"
 chapter: 2
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "15 U.S.C. § 69d"
-generated_at: "2026-03-30T04:23:44.955Z"
+generated_at: "2026-03-30T04:25:38.605Z"
 status: "active"
 ---
 

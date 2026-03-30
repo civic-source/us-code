@@ -3,9 +3,9 @@ title: "Section 7182 - Definitions"
 usc_title: 20
 usc_section: "7182"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7182"
-generated_at: "2026-03-30T04:24:13.091Z"
+generated_at: "2026-03-30T04:25:45.244Z"
 status: "active"
 ---
 

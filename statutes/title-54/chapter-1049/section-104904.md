@@ -3,9 +3,9 @@ title: "Section 104904 - Hire of work animals, vehicles, and equipment with or w
 usc_title: 54
 usc_section: "104904"
 chapter: 1049
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "54 U.S.C. § 104904"
-generated_at: "2026-03-30T04:25:04.080Z"
+generated_at: "2026-03-30T04:27:00.391Z"
 status: "active"
 ---
 

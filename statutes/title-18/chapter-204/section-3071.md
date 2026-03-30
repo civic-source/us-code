@@ -3,9 +3,9 @@ title: "Section 3071 - Information for which rewards authorized"
 usc_title: 18
 usc_section: "3071"
 chapter: 204
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "18 U.S.C. § 3071"
-generated_at: "2026-03-30T04:23:51.211Z"
+generated_at: "2026-03-30T04:25:53.400Z"
 status: "active"
 ---
 

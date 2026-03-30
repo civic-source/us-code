@@ -3,9 +3,9 @@ title: "Section 16202 - Reserve service: required active duty for training"
 usc_title: 10
 usc_section: "16202"
 chapter: 1608
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 16202"
-generated_at: "2026-03-30T04:23:33.106Z"
+generated_at: "2026-03-30T04:25:30.340Z"
 status: "active"
 ---
 

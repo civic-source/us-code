@@ -3,9 +3,9 @@ title: "Section 41723 - Notice concerning aircraft assembly"
 usc_title: 49
 usc_section: "41723"
 chapter: 417
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "49 U.S.C. § 41723"
-generated_at: "2026-03-30T04:25:02.324Z"
+generated_at: "2026-03-30T04:26:58.316Z"
 status: "active"
 ---
 

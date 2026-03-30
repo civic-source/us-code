@@ -3,9 +3,9 @@ title: "Section 146 - Volume cap"
 usc_title: 26
 usc_section: "146"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 146"
-generated_at: "2026-03-30T04:24:33.611Z"
+generated_at: "2026-03-30T04:26:11.368Z"
 status: "active"
 ---
 

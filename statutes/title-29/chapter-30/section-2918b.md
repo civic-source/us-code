@@ -3,9 +3,9 @@ title: "Section 2918b - Re-enrollment in alternative school by high-school dropo
 usc_title: 29
 usc_section: "2918b"
 chapter: 30
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 2918b"
-generated_at: "2026-03-30T04:24:27.387Z"
+generated_at: "2026-03-30T04:26:04.151Z"
 status: "active"
 ---
 

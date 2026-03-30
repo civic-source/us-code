@@ -3,9 +3,9 @@ title: "Section 2347c - Exchange training; reciprocity agreement"
 usc_title: 22
 usc_section: "2347c"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 2347c"
-generated_at: "2026-03-30T04:24:18.356Z"
+generated_at: "2026-03-30T04:26:00.087Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2298 - Relocation allowances"
 usc_title: 19
 usc_section: "2298"
 chapter: 12
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "19 U.S.C. § 2298"
-generated_at: "2026-03-30T04:24:08.476Z"
+generated_at: "2026-03-30T04:25:42.890Z"
 status: "active"
 ---
 

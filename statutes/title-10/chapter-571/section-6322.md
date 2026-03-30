@@ -3,9 +3,9 @@ title: "Section 6322 - Officers: 30 years"
 usc_title: 10
 usc_section: "6322"
 chapter: 571
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 6322"
-generated_at: "2026-03-30T04:23:33.078Z"
+generated_at: "2026-03-30T04:25:30.314Z"
 status: "active"
 ---
 

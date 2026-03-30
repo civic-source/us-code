@@ -3,9 +3,9 @@ title: "Section 3172 - State allotments"
 usc_title: 29
 usc_section: "3172"
 chapter: 32
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 3172"
-generated_at: "2026-03-30T04:24:27.396Z"
+generated_at: "2026-03-30T04:26:04.160Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
         - **(I)** the number of adults in families with an income below the low-income level in such area; or
         - **(II)** the number of disadvantaged adults in such area.
       - **(iv)** In making allotments under this subparagraph, the Secretary shall ensure the following:
-        - **(I)** Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+        - **(I)** Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
         - **(II)** Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment under this subparagraph that is less than the total of—
         - **(III)** Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
         - **(IV)** In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology specified in section 132(b)(1)(B)(iv)(IV) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2862(b)(1)(B)(iv)(IV) ] (as in effect on the day before July 22, 2014 ).
@@ -54,7 +54,7 @@ status: "active"
         - **(II)** 33⅓ percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State, compared to the total excess number of unemployed individuals in all States; and
         - **(III)** 33⅓ percent shall be allotted on the basis of the relative number of individuals in each State who have been unemployed for 15 weeks or more, compared to the total number of individuals in all States who have been unemployed for 15 weeks or more.
       - **(iii)** In making allotments under this subparagraph, for fiscal year 2016 and each subsequent fiscal year, the Secretary shall ensure the following:
-        - **(I)** The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+        - **(I)** The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
         - **(II)** Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
       - **(iv)** For the purpose of the formula specified in this subparagraph:
         - **(I)** The term “allotment percentage”, used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the amount described in clause (i) that is received through an allotment made under this subparagraph for the fiscal year.

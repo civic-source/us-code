@@ -3,9 +3,9 @@ title: "Section 7223b - Applications"
 usc_title: 20
 usc_section: "7223b"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7223b"
-generated_at: "2026-03-30T04:24:13.093Z"
+generated_at: "2026-03-30T04:25:45.246Z"
 status: "active"
 ---
 

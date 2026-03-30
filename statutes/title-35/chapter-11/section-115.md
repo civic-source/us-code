@@ -3,9 +3,9 @@ title: "Section 115 - Inventor’s oath or declaration"
 usc_title: 35
 usc_section: "115"
 chapter: 11
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "35 U.S.C. § 115"
-generated_at: "2026-03-30T04:24:35.677Z"
+generated_at: "2026-03-30T04:26:13.377Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
 - **(e)** An individual who is under an obligation of assignment of an application for patent may include the required statements under subsections (b) and (c) in the assignment executed by the individual, in lieu of filing such statements separately.
 - **(f)** The applicant for patent shall provide each required oath or declaration under subsection (a), substitute statement under subsection (d), or recorded assignment meeting the requirements of subsection (e) no later than the date on which the issue fee for the patent is paid.
 - **(g)**
-  - **(1)** The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, or 365(c) of the filing of an earlier-filed application, if—
+  - **(1)** The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, 365(c), or 386(c) of the filing of an earlier-filed application, if—
     - **(A)** an oath or declaration meeting the requirements of subsection (a) was executed by the individual and was filed in connection with the earlier-filed application;
     - **(B)** a substitute statement meeting the requirements of subsection (d) was filed in connection with the earlier filed application with respect to the individual; or
     - **(C)** an assignment meeting the requirements of subsection (e) was executed with respect to the earlier-filed application by the individual and was recorded in connection with the earlier-filed application.

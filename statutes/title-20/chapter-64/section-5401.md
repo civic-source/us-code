@@ -3,9 +3,9 @@ title: "Section 5401 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5401"
 chapter: 64
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 5401"
-generated_at: "2026-03-30T04:24:13.063Z"
+generated_at: "2026-03-30T04:25:45.217Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 334 - Further extension of time for final proofs"
 usc_title: 43
 usc_section: "334"
 chapter: 9
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "43 U.S.C. § 334"
-generated_at: "2026-03-30T04:24:43.308Z"
+generated_at: "2026-03-30T04:26:28.879Z"
 status: "active"
 ---
 

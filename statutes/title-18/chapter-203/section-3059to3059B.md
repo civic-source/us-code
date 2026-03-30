@@ -3,9 +3,9 @@ title: "Section 3059to3059B - Repealed. Pub. L. 107–273, div. A, title III, §
 usc_title: 18
 usc_section: "3059to3059B"
 chapter: 203
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "18 U.S.C. § 3059to3059B"
-generated_at: "2026-03-30T04:23:51.211Z"
+generated_at: "2026-03-30T04:25:53.400Z"
 status: "repealed"
 ---
 

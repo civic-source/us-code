@@ -3,9 +3,9 @@ title: "Section 8221 - Strategies, priorities, and annual report"
 usc_title: 22
 usc_section: "8221"
 chapter: 89
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "22 U.S.C. § 8221"
-generated_at: "2026-03-30T04:24:18.434Z"
+generated_at: "2026-03-30T04:26:00.166Z"
 status: "active"
 ---
 

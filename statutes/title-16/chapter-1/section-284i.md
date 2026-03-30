@@ -3,9 +3,9 @@ title: "Section 284i - Authorization of additional appropriations"
 usc_title: 16
 usc_section: "284i"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 284i"
-generated_at: "2026-03-30T04:23:53.972Z"
+generated_at: "2026-03-30T04:25:48.309Z"
 status: "active"
 ---
 

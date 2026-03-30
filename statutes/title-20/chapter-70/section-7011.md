@@ -3,9 +3,9 @@ title: "Section 7011 - Definitions"
 usc_title: 20
 usc_section: "7011"
 chapter: 70
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 7011"
-generated_at: "2026-03-30T04:24:13.087Z"
+generated_at: "2026-03-30T04:25:45.241Z"
 status: "active"
 ---
 

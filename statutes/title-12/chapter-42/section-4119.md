@@ -3,9 +3,9 @@ title: "Section 4119 - Definitions"
 usc_title: 12
 usc_section: "4119"
 chapter: 42
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "12 U.S.C. § 4119"
-generated_at: "2026-03-30T04:23:46.799Z"
+generated_at: "2026-03-30T04:25:35.821Z"
 status: "active"
 ---
 

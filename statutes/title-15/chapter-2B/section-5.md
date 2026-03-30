@@ -3,9 +3,9 @@ title: "Section 5 - Application of safe harbor for forward-looking statements"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T04:23:44.982Z"
+generated_at: "2026-03-30T04:25:38.633Z"
 status: "active"
 ---
 

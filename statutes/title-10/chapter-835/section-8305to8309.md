@@ -3,9 +3,9 @@ title: "Section 8305to8309 - Repealed. Pub. L. 96–513, title II, § 204 , Dec.
 usc_title: 10
 usc_section: "8305to8309"
 chapter: 835
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 8305to8309"
-generated_at: "2026-03-30T04:23:33.088Z"
+generated_at: "2026-03-30T04:25:30.323Z"
 status: "repealed"
 ---
 

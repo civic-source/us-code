@@ -3,9 +3,9 @@ title: "Section 294p - Pediatric rheumatology"
 usc_title: 42
 usc_section: "294p"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 294p"
-generated_at: "2026-03-30T04:24:54.875Z"
+generated_at: "2026-03-30T04:26:51.497Z"
 status: "active"
 ---
 

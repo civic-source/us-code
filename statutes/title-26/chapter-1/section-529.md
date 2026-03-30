@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T04:24:33.671Z"
+generated_at: "2026-03-30T04:26:11.431Z"
 status: "active"
 ---
 
@@ -82,7 +82,7 @@ status: "active"
     - **(A)** The term “qualified higher education expenses” means—
       - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
       - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance 2 2 So in original. Probably should be followed by “; and”.
-      - **(iii)** expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i) 3 3 See References in Text note. ) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
+      - **(iii)** expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) 3 3 See References in Text note below. or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
     - **(B)**
       - **(i)** In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.
       - **(ii)** The amount treated as qualified higher education expenses by reason of clause (i) shall not exceed—

@@ -3,9 +3,9 @@ title: "Section 205i - Personnel"
 usc_title: 15
 usc_section: "205i"
 chapter: 6
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "15 U.S.C. § 205i"
-generated_at: "2026-03-30T04:23:44.998Z"
+generated_at: "2026-03-30T04:25:38.649Z"
 status: "active"
 ---
 

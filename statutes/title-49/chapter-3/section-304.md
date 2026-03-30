@@ -3,9 +3,9 @@ title: "Section 304 - Application of categorical exclusions for multimodal proje
 usc_title: 49
 usc_section: "304"
 chapter: 3
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "49 U.S.C. § 304"
-generated_at: "2026-03-30T04:25:02.267Z"
+generated_at: "2026-03-30T04:26:58.260Z"
 status: "active"
 ---
 

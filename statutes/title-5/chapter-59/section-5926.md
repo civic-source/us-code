@@ -3,9 +3,9 @@ title: "Section 5926 - Compensatory time off at certain posts in foreign areas"
 usc_title: 5
 usc_section: "5926"
 chapter: 59
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "5 U.S.C. § 5926"
-generated_at: "2026-03-30T04:23:23.875Z"
+generated_at: "2026-03-30T04:25:20.723Z"
 status: "active"
 ---
 

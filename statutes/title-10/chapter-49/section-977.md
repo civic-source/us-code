@@ -3,9 +3,9 @@ title: "Section 977 - Repealed. Pub. L. 108–375, div. A, title VI, § 651(e)(1
 usc_title: 10
 usc_section: "977"
 chapter: 49
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "10 U.S.C. § 977"
-generated_at: "2026-03-30T04:23:32.997Z"
+generated_at: "2026-03-30T04:25:30.233Z"
 status: "repealed"
 ---
 

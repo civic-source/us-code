@@ -3,9 +3,9 @@ title: "Section 1315 - Law enforcement authority of Secretary of Homeland Securi
 usc_title: 40
 usc_section: "1315"
 chapter: 13
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "40 U.S.C. § 1315"
-generated_at: "2026-03-30T04:24:40.394Z"
+generated_at: "2026-03-30T04:26:23.772Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1703 - Acquisition workforce"
 usc_title: 41
 usc_section: "1703"
 chapter: 17
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "41 U.S.C. § 1703"
-generated_at: "2026-03-30T04:24:43.527Z"
+generated_at: "2026-03-30T04:26:28.451Z"
 status: "active"
 ---
 

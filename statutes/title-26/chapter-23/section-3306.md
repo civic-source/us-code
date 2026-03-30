@@ -3,9 +3,9 @@ title: "Section 3306 - Definitions"
 usc_title: 26
 usc_section: "3306"
 chapter: 23
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "26 U.S.C. § 3306"
-generated_at: "2026-03-30T04:24:33.738Z"
+generated_at: "2026-03-30T04:26:11.501Z"
 status: "active"
 ---
 

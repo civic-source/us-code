@@ -3,9 +3,9 @@ title: "Section 9583 - Removal"
 usc_title: 20
 usc_section: "9583"
 chapter: 76
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "20 U.S.C. § 9583"
-generated_at: "2026-03-30T04:24:13.116Z"
+generated_at: "2026-03-30T04:25:45.269Z"
 status: "active"
 ---
 

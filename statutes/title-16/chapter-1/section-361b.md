@@ -3,9 +3,9 @@ title: "Section 361b - Additions to park"
 usc_title: 16
 usc_section: "361b"
 chapter: 1
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "16 U.S.C. § 361b"
-generated_at: "2026-03-30T04:23:53.973Z"
+generated_at: "2026-03-30T04:25:48.310Z"
 status: "active"
 ---
 

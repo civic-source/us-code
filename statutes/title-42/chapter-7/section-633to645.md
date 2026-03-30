@@ -3,9 +3,9 @@ title: "Section 633to645 - Repealed. Pub. L. 100–485, title II, § 202(a) , Oc
 usc_title: 42
 usc_section: "633to645"
 chapter: 7
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 633to645"
-generated_at: "2026-03-30T04:24:54.951Z"
+generated_at: "2026-03-30T04:26:51.575Z"
 status: "repealed"
 ---
 

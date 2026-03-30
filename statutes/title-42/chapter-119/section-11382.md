@@ -3,9 +3,9 @@ title: "Section 11382 - Continuum of care applications and grants"
 usc_title: 42
 usc_section: "11382"
 chapter: 119
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "42 U.S.C. § 11382"
-generated_at: "2026-03-30T04:24:55.379Z"
+generated_at: "2026-03-30T04:26:51.994Z"
 status: "active"
 ---
 

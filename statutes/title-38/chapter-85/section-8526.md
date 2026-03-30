@@ -3,9 +3,9 @@ title: "Section 8526 - Filing of claims for assets"
 usc_title: 38
 usc_section: "8526"
 chapter: 85
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "38 U.S.C. § 8526"
-generated_at: "2026-03-30T04:24:41.499Z"
+generated_at: "2026-03-30T04:26:25.877Z"
 status: "active"
 ---
 

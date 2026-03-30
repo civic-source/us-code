@@ -3,9 +3,9 @@ title: "Section 207 - Conditions of lease"
 usc_title: 30
 usc_section: "207"
 chapter: 3
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "30 U.S.C. § 207"
-generated_at: "2026-03-30T04:24:25.411Z"
+generated_at: "2026-03-30T04:26:02.811Z"
 status: "active"
 ---
 

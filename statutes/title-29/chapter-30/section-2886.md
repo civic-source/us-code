@@ -3,9 +3,9 @@ title: "Section 2886 - Enrollment"
 usc_title: 29
 usc_section: "2886"
 chapter: 30
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "29 U.S.C. § 2886"
-generated_at: "2026-03-30T04:24:27.384Z"
+generated_at: "2026-03-30T04:26:04.147Z"
 status: "active"
 ---
 

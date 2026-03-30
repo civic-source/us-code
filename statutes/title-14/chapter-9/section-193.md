@@ -3,9 +3,9 @@ title: "Section 193 - Repealed. Pub. L. 112–213, title II, § 216(e) , Dec. 20
 usc_title: 14
 usc_section: "193"
 chapter: 9
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "14 U.S.C. § 193"
-generated_at: "2026-03-30T04:23:41.917Z"
+generated_at: "2026-03-30T04:25:32.569Z"
 status: "repealed"
 ---
 

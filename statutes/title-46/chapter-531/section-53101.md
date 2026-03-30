@@ -3,9 +3,9 @@ title: "Section 53101 - Definitions"
 usc_title: 46
 usc_section: "53101"
 chapter: 531
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "46 U.S.C. § 53101"
-generated_at: "2026-03-30T04:24:59.946Z"
+generated_at: "2026-03-30T04:26:56.625Z"
 status: "active"
 ---
 

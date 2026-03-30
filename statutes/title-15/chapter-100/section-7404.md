@@ -3,9 +3,9 @@ title: "Section 7404 - National Science Foundation computer and network security
 usc_title: 15
 usc_section: "7404"
 chapter: 100
-current_through: "PL 114-11"
+current_through: "PL 114-19"
 classification: "15 U.S.C. § 7404"
-generated_at: "2026-03-30T04:23:45.122Z"
+generated_at: "2026-03-30T04:25:38.775Z"
 status: "active"
 ---
 
