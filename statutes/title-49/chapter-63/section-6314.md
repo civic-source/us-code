@@ -3,9 +3,9 @@ title: "Section 6314 - Port performance freight statistics program"
 usc_title: 49
 usc_section: "6314"
 chapter: 63
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "49 U.S.C. § 6314"
-generated_at: "2026-03-30T08:48:12.876Z"
+generated_at: "2026-03-30T08:51:29.625Z"
 status: "active"
 ---
 

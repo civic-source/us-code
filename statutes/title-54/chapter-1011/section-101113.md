@@ -3,9 +3,9 @@ title: "Section 101113 - Gifts, devises, or bequests"
 usc_title: 54
 usc_section: "101113"
 chapter: 1011
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "54 U.S.C. § 101113"
-generated_at: "2026-03-30T08:48:14.767Z"
+generated_at: "2026-03-30T08:51:31.936Z"
 status: "active"
 ---
 

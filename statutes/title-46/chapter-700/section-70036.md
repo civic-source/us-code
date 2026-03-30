@@ -3,9 +3,9 @@ title: "Section 70036 - Enforcement"
 usc_title: 46
 usc_section: "70036"
 chapter: 700
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 70036"
-generated_at: "2026-03-30T08:48:09.602Z"
+generated_at: "2026-03-30T08:51:14.920Z"
 status: "active"
 ---
 
@@ -18,9 +18,9 @@ status: "active"
 - **(b)**
   - **(1)** Any person who willfully and knowingly violates subchapters A through C 1 or this subchapter or any regulation issued thereunder commits a class D felony.
   - **(2)** Any person who, in the willful and knowing violation of subchapters A through C 1 or this subchapter or of any regulation issued thereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of such a subchapter or the regulations issued under such subchapter, commits a class C felony.
-- **(c)** Any vessel that is used in violation of subchapters A, B, or C 1 or this subchapter, or any regulations issued under such subchapter, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
-- **(d)** The United States district courts shall have jurisdiction to restrain violations of subchapter A, B, or C 1 or this subchapter or of regulations issued under such subchapter, for cause shown.
-- **(e)** Except as provided in section 70021, the Secretary may, subject to recognized principles of international law, deny entry by any vessel that is not in compliance with subchapter A, B, or C 1 or this subchapter or the regulations issued under such subchapter—
+- **(c)** Any vessel that is used in violation of subchapters A, B, or C 2 2 So in original. Probably should be “subchapter I, II, or III”. or this subchapter, or any regulations issued under such subchapter, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
+- **(d)** The United States district courts shall have jurisdiction to restrain violations of subchapter A, B, or C 2 or this subchapter or of regulations issued under such subchapter, for cause shown.
+- **(e)** Except as provided in section 70021, the Secretary may, subject to recognized principles of international law, deny entry by any vessel that is not in compliance with subchapter A, B, or C 2 or this subchapter or the regulations issued under such subchapter—
   - **(1)** into the navigable waters of the United States; or
   - **(2)** to any port or place under the jurisdiction of the United States.
 - **(f)**

@@ -3,9 +3,9 @@ title: "Section 7671e - Accelerated schedule"
 usc_title: 42
 usc_section: "7671e"
 chapter: 85
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 7671e"
-generated_at: "2026-03-30T08:48:05.475Z"
+generated_at: "2026-03-30T08:51:07.318Z"
 status: "active"
 ---
 

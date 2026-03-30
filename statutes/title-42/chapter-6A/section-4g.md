@@ -3,9 +3,9 @@ title: "Section 4g - Repealed. Pub. L. 113–55, title I, § 104(a) , Nov. 27, 2
 usc_title: 42
 usc_section: "4g"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 4g"
-generated_at: "2026-03-30T08:48:04.965Z"
+generated_at: "2026-03-30T08:51:06.799Z"
 status: "repealed"
 ---
 

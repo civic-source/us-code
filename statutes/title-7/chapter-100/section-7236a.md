@@ -3,9 +3,9 @@ title: "Section 7236a - Special competitive provisions for extra long staple cot
 usc_title: 7
 usc_section: "7236a"
 chapter: 100
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 7236a"
-generated_at: "2026-03-30T08:46:50.194Z"
+generated_at: "2026-03-30T08:48:40.420Z"
 status: "active"
 ---
 

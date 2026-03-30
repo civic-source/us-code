@@ -3,9 +3,9 @@ title: "Section 7308 - Able seamen—limited"
 usc_title: 46
 usc_section: "7308"
 chapter: 73
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 7308"
-generated_at: "2026-03-30T08:48:09.576Z"
+generated_at: "2026-03-30T08:51:14.897Z"
 status: "active"
 ---
 

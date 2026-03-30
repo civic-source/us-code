@@ -3,9 +3,9 @@ title: "Section 95 - Prohibition of acts deemed injurious to commerce in naval s
 usc_title: 7
 usc_section: "95"
 chapter: 4
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 95"
-generated_at: "2026-03-30T08:46:50.041Z"
+generated_at: "2026-03-30T08:48:40.257Z"
 status: "active"
 ---
 

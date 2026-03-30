@@ -3,9 +3,9 @@ title: "Section 18304 - Procedures for enforcement of awards"
 usc_title: 40
 usc_section: "18304"
 chapter: 183
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "40 U.S.C. § 18304"
-generated_at: "2026-03-30T08:47:48.782Z"
+generated_at: "2026-03-30T08:50:42.094Z"
 status: "active"
 ---
 

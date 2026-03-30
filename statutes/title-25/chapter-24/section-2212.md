@@ -3,9 +3,9 @@ title: "Section 2212 - Fractional interest acquisition program"
 usc_title: 25
 usc_section: "2212"
 chapter: 24
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "25 U.S.C. § 2212"
-generated_at: "2026-03-30T08:47:21.830Z"
+generated_at: "2026-03-30T08:50:04.728Z"
 status: "active"
 ---
 

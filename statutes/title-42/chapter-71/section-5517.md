@@ -3,9 +3,9 @@ title: "Section 5517 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5517"
 chapter: 71
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 5517"
-generated_at: "2026-03-30T08:48:05.398Z"
+generated_at: "2026-03-30T08:51:07.241Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13525 - Limits on participation by companies"
 usc_title: 42
 usc_section: "13525"
 chapter: 134
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 13525"
-generated_at: "2026-03-30T08:48:05.576Z"
+generated_at: "2026-03-30T08:51:07.418Z"
 status: "active"
 ---
 

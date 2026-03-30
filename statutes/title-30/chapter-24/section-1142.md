@@ -3,9 +3,9 @@ title: "Section 1142 - Payment of guaranteed obligation by Secretary of Energy"
 usc_title: 30
 usc_section: "1142"
 chapter: 24
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "30 U.S.C. § 1142"
-generated_at: "2026-03-30T08:47:27.656Z"
+generated_at: "2026-03-30T08:50:27.654Z"
 status: "active"
 ---
 

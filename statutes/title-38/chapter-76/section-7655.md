@@ -3,9 +3,9 @@ title: "Section 7655 - Breach of agreement; liability"
 usc_title: 38
 usc_section: "7655"
 chapter: 76
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "38 U.S.C. § 7655"
-generated_at: "2026-03-30T08:47:48.380Z"
+generated_at: "2026-03-30T08:50:45.183Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3294 - Theft of major artwork"
 usc_title: 18
 usc_section: "3294"
 chapter: 213
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 3294"
-generated_at: "2026-03-30T08:47:14.489Z"
+generated_at: "2026-03-30T08:49:28.987Z"
 status: "active"
 ---
 

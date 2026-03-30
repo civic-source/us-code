@@ -3,9 +3,9 @@ title: "Section 7911 - Definitions"
 usc_title: 16
 usc_section: "7911"
 chapter: 98
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 7911"
-generated_at: "2026-03-30T08:47:12.073Z"
+generated_at: "2026-03-30T08:49:27.191Z"
 status: "active"
 ---
 

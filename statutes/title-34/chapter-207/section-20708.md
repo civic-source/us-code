@@ -3,16 +3,16 @@ title: "Section 20708 - Grants for specialized human trafficking training and te
 usc_title: 34
 usc_section: "20708"
 chapter: 207
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 20708"
-generated_at: "2026-03-30T08:47:43.577Z"
+generated_at: "2026-03-30T08:50:39.199Z"
 status: "active"
 ---
 
 # § 20708. Grants for specialized human trafficking training and technical assistance for service providers
 
 - **(a)** In this section:
-  - **(1)** The term “act of trafficking” means an act or practice described in paragraph (9) of section 7102 of title 22 .
+  - **(1)** The term “act of trafficking” means an act or practice described in paragraph (9) 1 1 See References in Text note below. of section 7102 of title 22 .
   - **(2)** The term “eligible entity” means—
     - **(A)** a State or unit of local government;
     - **(B)** a federally recognized Indian tribal government, as determined by the Secretary of the Interior;

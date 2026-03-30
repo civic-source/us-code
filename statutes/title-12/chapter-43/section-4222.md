@@ -3,9 +3,9 @@ title: "Section 4222 - Contents of declarations"
 usc_title: 12
 usc_section: "4222"
 chapter: 43
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 4222"
-generated_at: "2026-03-30T08:47:02.994Z"
+generated_at: "2026-03-30T08:49:16.663Z"
 status: "active"
 ---
 

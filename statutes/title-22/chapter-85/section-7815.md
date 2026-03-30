@@ -3,9 +3,9 @@ title: "Section 7815 - United Nations Commission on Human Rights"
 usc_title: 22
 usc_section: "7815"
 chapter: 85
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 7815"
-generated_at: "2026-03-30T08:47:25.379Z"
+generated_at: "2026-03-30T08:50:25.212Z"
 status: "active"
 ---
 

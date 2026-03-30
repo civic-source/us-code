@@ -3,9 +3,9 @@ title: "Section 18341 - Commercial Cargo Development program"
 usc_title: 42
 usc_section: "18341"
 chapter: 159
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 18341"
-generated_at: "2026-03-30T08:48:05.624Z"
+generated_at: "2026-03-30T08:51:07.465Z"
 status: "active"
 ---
 

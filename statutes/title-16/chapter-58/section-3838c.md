@@ -3,9 +3,9 @@ title: "Section 3838c - Repealed. Pub. L. 115–334, title II, § 2301(c)(1) , D
 usc_title: 16
 usc_section: "3838c"
 chapter: 58
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 3838c"
-generated_at: "2026-03-30T08:47:12.043Z"
+generated_at: "2026-03-30T08:49:27.161Z"
 status: "repealed"
 ---
 

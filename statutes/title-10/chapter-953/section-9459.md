@@ -3,9 +3,9 @@ title: "Section 9459 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "9459"
 chapter: 953
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 9459"
-generated_at: "2026-03-30T08:46:53.714Z"
+generated_at: "2026-03-30T08:48:44.862Z"
 status: "active"
 ---
 

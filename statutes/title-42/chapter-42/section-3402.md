@@ -3,9 +3,9 @@ title: "Section 3402 - State facilities and personnel for care and treatment; en
 usc_title: 42
 usc_section: "3402"
 chapter: 42
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 3402"
-generated_at: "2026-03-30T08:48:05.357Z"
+generated_at: "2026-03-30T08:51:07.197Z"
 status: "active"
 ---
 

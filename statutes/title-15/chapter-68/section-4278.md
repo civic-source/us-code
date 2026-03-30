@@ -3,9 +3,9 @@ title: "Section 4278 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4278"
 chapter: 68
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 4278"
-generated_at: "2026-03-30T08:47:05.029Z"
+generated_at: "2026-03-30T08:49:19.280Z"
 status: "repealed"
 ---
 

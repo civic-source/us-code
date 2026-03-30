@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T08:48:05.239Z"
+generated_at: "2026-03-30T08:51:07.074Z"
 status: "active"
 ---
 
@@ -309,4 +309,4 @@ For purposes of this subchapter—
     - **(A)** means all drugs approved under section 355 of title 21 , including methadone, and all biological products licensed under section 262 of this title to treat opioid use disorders; and
     - **(B)** includes, with respect to the provision of such drugs and biological products, counseling services and behavioral therapy.
   - **(2)** The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title .
-- **(ff)** Notwithstanding subsection (b) or (z)(2), the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent for the period beginning October 1, 2019 , and ending November 21, 2019 .
+- **(ff)** Notwithstanding subsection (b) or (z)(2), the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent for the period beginning October 1, 2019 , and ending December 20, 2019 .

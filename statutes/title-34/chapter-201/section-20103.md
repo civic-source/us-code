@@ -3,9 +3,9 @@ title: "Section 20103 - Crime victim assistance"
 usc_title: 34
 usc_section: "20103"
 chapter: 201
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 20103"
-generated_at: "2026-03-30T08:47:43.572Z"
+generated_at: "2026-03-30T08:50:39.195Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(A)** be responsible for monitoring compliance with guidelines for fair treatment of crime victims and witnesses issued under section 6 of the Victim and Witness Protection Act of 1982 ( Public Law 97–291 ) [ 18 U.S.C. 1512 note];
     - **(B)** consult with the heads of Federal law enforcement agencies that have responsibilities affecting victims of Federal crimes;
     - **(C)** coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
-    - **(D)** perform such other functions related to the purposes of this title 2 2 See References in Text note below. as the Director deems appropriate; and
+    - **(D)** perform such other functions related to the purposes of this title 1 as the Director deems appropriate; and
     - **(E)** use funds made available to the Director under this subsection—
       - **(i)** for fellowships and clinical internships and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
       - **(ii)** to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.

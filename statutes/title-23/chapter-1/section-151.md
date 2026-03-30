@@ -3,9 +3,9 @@ title: "Section 151 - National electric vehicle charging and hydrogen, propane, 
 usc_title: 23
 usc_section: "151"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "23 U.S.C. § 151"
-generated_at: "2026-03-30T08:47:21.021Z"
+generated_at: "2026-03-30T08:49:55.652Z"
 status: "active"
 ---
 

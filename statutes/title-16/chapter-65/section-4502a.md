@@ -3,9 +3,9 @@ title: "Section 4502a - Tropical forestry research and assistance"
 usc_title: 16
 usc_section: "4502a"
 chapter: 65
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 4502a"
-generated_at: "2026-03-30T08:47:12.053Z"
+generated_at: "2026-03-30T08:49:27.172Z"
 status: "active"
 ---
 

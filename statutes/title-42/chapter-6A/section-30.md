@@ -3,9 +3,9 @@ title: "Section 30 - Emerging communities"
 usc_title: 42
 usc_section: "30"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 30"
-generated_at: "2026-03-30T08:48:05.075Z"
+generated_at: "2026-03-30T08:51:06.908Z"
 status: "active"
 ---
 

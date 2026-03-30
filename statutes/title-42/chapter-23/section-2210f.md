@@ -3,9 +3,9 @@ title: "Section 2210f - Recruitment tools"
 usc_title: 42
 usc_section: "2210f"
 chapter: 23
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 2210f"
-generated_at: "2026-03-30T08:48:05.332Z"
+generated_at: "2026-03-30T08:51:07.172Z"
 status: "active"
 ---
 

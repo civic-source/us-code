@@ -3,9 +3,9 @@ title: "Section 3742 - Repealed. Pub. L. 115–91, div. A, title X, § 1051(t)(7
 usc_title: 50
 usc_section: "3742"
 chapter: 48
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "50 U.S.C. § 3742"
-generated_at: "2026-03-30T08:48:10.860Z"
+generated_at: "2026-03-30T08:51:24.723Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5252 - Repealed. Pub. L. 96–39, title VIII, § 807(a)(38) , Ju
 usc_title: 26
 usc_section: "5252"
 chapter: 51
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "26 U.S.C. § 5252"
-generated_at: "2026-03-30T08:47:40.350Z"
+generated_at: "2026-03-30T08:50:34.778Z"
 status: "repealed"
 ---
 

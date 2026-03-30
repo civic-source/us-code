@@ -3,9 +3,9 @@ title: "Section 1905 - Deposit and use of reimbursements for law enforcement ass
 usc_title: 2
 usc_section: "1905"
 chapter: 29
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "2 U.S.C. § 1905"
-generated_at: "2026-03-30T08:46:42.285Z"
+generated_at: "2026-03-30T08:48:34.435Z"
 status: "active"
 ---
 

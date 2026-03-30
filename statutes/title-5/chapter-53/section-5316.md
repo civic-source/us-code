@@ -3,9 +3,9 @@ title: "Section 5316 - Positions at level V"
 usc_title: 5
 usc_section: "5316"
 chapter: 53
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "5 U.S.C. § 5316"
-generated_at: "2026-03-30T08:46:44.230Z"
+generated_at: "2026-03-30T08:48:32.818Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3333 - Integrated English literacy and civics education"
 usc_title: 29
 usc_section: "3333"
 chapter: 32
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "29 U.S.C. § 3333"
-generated_at: "2026-03-30T08:47:29.634Z"
+generated_at: "2026-03-30T08:50:29.506Z"
 status: "active"
 ---
 

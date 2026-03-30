@@ -3,9 +3,9 @@ title: "Section 300gg - Fair health insurance premiums"
 usc_title: 42
 usc_section: "300gg"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 300gg"
-generated_at: "2026-03-30T08:48:05.077Z"
+generated_at: "2026-03-30T08:51:06.911Z"
 status: "active"
 ---
 

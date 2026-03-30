@@ -3,9 +3,9 @@ title: "Section 57308 - Use of vessels at least 25 years old"
 usc_title: 46
 usc_section: "57308"
 chapter: 573
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 57308"
-generated_at: "2026-03-30T08:48:09.599Z"
+generated_at: "2026-03-30T08:51:14.919Z"
 status: "active"
 ---
 

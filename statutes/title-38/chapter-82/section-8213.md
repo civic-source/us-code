@@ -3,9 +3,9 @@ title: "Section 8213 - Pilot program assistance"
 usc_title: 38
 usc_section: "8213"
 chapter: 82
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "38 U.S.C. § 8213"
-generated_at: "2026-03-30T08:47:48.385Z"
+generated_at: "2026-03-30T08:50:45.189Z"
 status: "active"
 ---
 

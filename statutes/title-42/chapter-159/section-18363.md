@@ -3,9 +3,9 @@ title: "Section 18363 - Disposition of orbiter vehicles"
 usc_title: 42
 usc_section: "18363"
 chapter: 159
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 18363"
-generated_at: "2026-03-30T08:48:05.624Z"
+generated_at: "2026-03-30T08:51:07.466Z"
 status: "active"
 ---
 

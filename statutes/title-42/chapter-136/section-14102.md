@@ -3,9 +3,9 @@ title: "Section 14102 - Repealed. Pub. L. 112–189, § 2(b)(1) , Oct. 5, 2012 ,
 usc_title: 42
 usc_section: "14102"
 chapter: 136
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 14102"
-generated_at: "2026-03-30T08:48:05.578Z"
+generated_at: "2026-03-30T08:51:07.421Z"
 status: "repealed"
 ---
 

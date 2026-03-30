@@ -3,9 +3,9 @@ title: "Section 423n - Acceptance of lands and funds; acquisition of lands"
 usc_title: 16
 usc_section: "423n"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 423n"
-generated_at: "2026-03-30T08:47:11.887Z"
+generated_at: "2026-03-30T08:49:26.999Z"
 status: "active"
 ---
 

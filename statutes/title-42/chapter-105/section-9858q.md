@@ -3,9 +3,9 @@ title: "Section 9858q - Miscellaneous provisions"
 usc_title: 42
 usc_section: "9858q"
 chapter: 105
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 9858q"
-generated_at: "2026-03-30T08:48:05.515Z"
+generated_at: "2026-03-30T08:51:07.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1727a - Reporting and data collection"
 usc_title: 16
 usc_section: "1727a"
 chapter: 37
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 1727a"
-generated_at: "2026-03-30T08:47:12.014Z"
+generated_at: "2026-03-30T08:49:27.132Z"
 status: "active"
 ---
 

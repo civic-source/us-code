@@ -3,9 +3,9 @@ title: "Section 1881a - Procedures for targeting certain persons outside the Uni
 usc_title: 50
 usc_section: "1881a"
 chapter: 36
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "50 U.S.C. § 1881a"
-generated_at: "2026-03-30T08:48:10.823Z"
+generated_at: "2026-03-30T08:51:24.688Z"
 status: "active"
 ---
 
@@ -169,7 +169,7 @@ status: "active"
       - **(i)** the congressional intelligence committees; and
       - **(ii)** the Committees on the Judiciary of the House of Representatives and the Senate.
   - **(2)** The Inspector General of the Department of Justice and the Inspector General of each element of the intelligence community authorized to acquire foreign intelligence information under subsection (a), with respect to the department or element of such Inspector General—
-    - **(A)** are authorized to review compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with with subsection (g);
+    - **(A)** are authorized to review compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g);
     - **(B)** with respect to acquisitions authorized under subsection (a), shall review the number of disseminated intelligence reports containing a reference to a United States-person identity and the number of United States-person identities subsequently disseminated by the element concerned in response to requests for identities that were not referred to by name or title in the original reporting;
     - **(C)** with respect to acquisitions authorized under subsection (a), shall review the number of targets that were later determined to be located in the United States and, to the extent possible, whether communications of such targets were reviewed; and
     - **(D)** shall provide each such review to—

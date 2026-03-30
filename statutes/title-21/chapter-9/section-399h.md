@@ -3,9 +3,9 @@ title: "Section 399h - Grants for studying continuous drug manufacturing"
 usc_title: 21
 usc_section: "399h"
 chapter: 9
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "21 U.S.C. § 399h"
-generated_at: "2026-03-30T08:47:22.844Z"
+generated_at: "2026-03-30T08:50:13.140Z"
 status: "active"
 ---
 

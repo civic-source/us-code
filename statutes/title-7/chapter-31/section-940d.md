@@ -3,9 +3,9 @@ title: "Section 940d - Repealed. Pub. L. 115–334, title VI, § 6601(b) , Dec. 
 usc_title: 7
 usc_section: "940d"
 chapter: 31
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 940d"
-generated_at: "2026-03-30T08:46:50.075Z"
+generated_at: "2026-03-30T08:48:40.294Z"
 status: "repealed"
 ---
 

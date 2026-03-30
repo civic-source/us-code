@@ -3,9 +3,9 @@ title: "Section 612 - Articles of association; contents"
 usc_title: 12
 usc_section: "612"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 612"
-generated_at: "2026-03-30T08:47:02.885Z"
+generated_at: "2026-03-30T08:49:16.554Z"
 status: "active"
 ---
 

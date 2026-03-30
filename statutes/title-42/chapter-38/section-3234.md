@@ -3,9 +3,9 @@ title: "Section 3234 - Funding for grants for planning and grants for administra
 usc_title: 42
 usc_section: "3234"
 chapter: 38
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 3234"
-generated_at: "2026-03-30T08:48:05.356Z"
+generated_at: "2026-03-30T08:51:07.196Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22105 - Sharing project costs"
 usc_title: 49
 usc_section: "22105"
 chapter: 221
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "49 U.S.C. § 22105"
-generated_at: "2026-03-30T08:48:12.891Z"
+generated_at: "2026-03-30T08:51:29.640Z"
 status: "active"
 ---
 

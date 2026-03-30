@@ -3,9 +3,9 @@ title: "Section 2661 - National goal"
 usc_title: 15
 usc_section: "2661"
 chapter: 53
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 2661"
-generated_at: "2026-03-30T08:47:05.015Z"
+generated_at: "2026-03-30T08:49:19.266Z"
 status: "active"
 ---
 

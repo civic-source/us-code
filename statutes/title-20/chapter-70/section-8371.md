@@ -3,9 +3,9 @@ title: "Section 8371 - Repealed. Pub. L. 105–277, div. A, § 101(f) [title VII
 usc_title: 20
 usc_section: "8371"
 chapter: 70
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "20 U.S.C. § 8371"
-generated_at: "2026-03-30T08:47:18.185Z"
+generated_at: "2026-03-30T08:49:42.186Z"
 status: "repealed"
 ---
 

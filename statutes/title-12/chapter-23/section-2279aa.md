@@ -3,9 +3,9 @@ title: "Section 2279aa - Definitions"
 usc_title: 12
 usc_section: "2279aa"
 chapter: 23
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 2279aa"
-generated_at: "2026-03-30T08:47:02.974Z"
+generated_at: "2026-03-30T08:49:16.646Z"
 status: "active"
 ---
 

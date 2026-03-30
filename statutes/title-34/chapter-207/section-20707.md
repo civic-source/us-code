@@ -3,9 +3,9 @@ title: "Section 20707 - Definitions"
 usc_title: 34
 usc_section: "20707"
 chapter: 207
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 20707"
-generated_at: "2026-03-30T08:47:43.577Z"
+generated_at: "2026-03-30T08:50:39.199Z"
 status: "active"
 ---
 
@@ -13,6 +13,6 @@ status: "active"
 
 In this chapter:
 
-  - **(1)** The term “severe forms of trafficking in persons” has the meaning given the term in section 7102(9) of title 22 .
-  - **(2)** The term “sex trafficking” has the meaning given the term in section 7102(10) of title 22 .
+  - **(1)** The term “severe forms of trafficking in persons” has the meaning given the term in section 7102(9) 1 1 See References in Text note below. of title 22.
+  - **(2)** The term “sex trafficking” has the meaning given the term in section 7102(10) 1 of title 22.
   - **(3)** The term “commercial sex act” has the meaning given the term in section 7102(4) of title 22 .

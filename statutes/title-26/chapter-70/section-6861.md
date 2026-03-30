@@ -3,9 +3,9 @@ title: "Section 6861 - Jeopardy assessments of income, estate, gift, and certain
 usc_title: 26
 usc_section: "6861"
 chapter: 70
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "26 U.S.C. § 6861"
-generated_at: "2026-03-30T08:47:40.386Z"
+generated_at: "2026-03-30T08:50:34.812Z"
 status: "active"
 ---
 

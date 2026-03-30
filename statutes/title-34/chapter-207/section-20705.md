@@ -3,9 +3,9 @@ title: "Section 20705 - Enhancing State and local efforts to combat trafficking 
 usc_title: 34
 usc_section: "20705"
 chapter: 207
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 20705"
-generated_at: "2026-03-30T08:47:43.577Z"
+generated_at: "2026-03-30T08:50:39.199Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(C)** to investigate and prosecute persons who engage in the purchase of commercial sex acts and prioritize the investigations and prosecutions of those cases involving minor victims;
     - **(D)** to educate persons charged with, or convicted of, purchasing or attempting to purchase commercial sex acts;
     - **(E)** to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts; and
-    - **(F)** as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in section 7102(9) of title 22 . 1 1 So in original. The period probably should be preceded by a closing parenthesis.
+    - **(F)** as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in section 7102(9) 1 1 See References in Text note below. of title 22).
   - **(2)** In this subsection, the term “related offenses” includes violations of tax laws, transacting in illegally derived proceeds, money laundering, racketeering, and other violations of criminal laws committed in connection with an act of sex trafficking or a severe form of trafficking in persons.
 - **(b)** Grants under subsection (a) may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
 - **(c)** The Federal share of a grant made under this section may not exceed 75 percent of the total costs of the projects described in the application submitted.

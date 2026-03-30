@@ -3,9 +3,9 @@ title: "Section 5877 - Reports to President for submission to Congress"
 usc_title: 42
 usc_section: "5877"
 chapter: 73
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 5877"
-generated_at: "2026-03-30T08:48:05.403Z"
+generated_at: "2026-03-30T08:51:07.245Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 244a - Repealed. Pub. L. 93–353, title I, § 102(a) , July 23,
 usc_title: 42
 usc_section: "244a"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 244a"
-generated_at: "2026-03-30T08:48:04.964Z"
+generated_at: "2026-03-30T08:51:06.797Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4007 - Expenses of prisoners"
 usc_title: 18
 usc_section: "4007"
 chapter: 301
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 4007"
-generated_at: "2026-03-30T08:47:14.498Z"
+generated_at: "2026-03-30T08:49:28.996Z"
 status: "active"
 ---
 

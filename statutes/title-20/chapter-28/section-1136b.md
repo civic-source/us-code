@@ -3,9 +3,9 @@ title: "Section 1136b - Masters degree programs at predominantly Black instituti
 usc_title: 20
 usc_section: "1136b"
 chapter: 28
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "20 U.S.C. § 1136b"
-generated_at: "2026-03-30T08:47:18.118Z"
+generated_at: "2026-03-30T08:49:42.115Z"
 status: "active"
 ---
 

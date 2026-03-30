@@ -3,9 +3,9 @@ title: "Section 643 - Omitted"
 usc_title: 33
 usc_section: "643"
 chapter: 13
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "33 U.S.C. § 643"
-generated_at: "2026-03-30T08:47:44.332Z"
+generated_at: "2026-03-30T08:50:37.845Z"
 status: "omitted"
 ---
 

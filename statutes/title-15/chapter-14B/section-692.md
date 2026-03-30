@@ -3,9 +3,9 @@ title: "Section 692 - Authority of Administration to guarantee payment of rental
 usc_title: 15
 usc_section: "692"
 chapter: 14
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 692"
-generated_at: "2026-03-30T08:47:04.950Z"
+generated_at: "2026-03-30T08:49:19.205Z"
 status: "active"
 ---
 

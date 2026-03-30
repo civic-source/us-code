@@ -3,9 +3,9 @@ title: "Section 343d - Exclusion of lands; disposal as surplus property"
 usc_title: 16
 usc_section: "343d"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 343d"
-generated_at: "2026-03-30T08:47:11.862Z"
+generated_at: "2026-03-30T08:49:26.973Z"
 status: "active"
 ---
 

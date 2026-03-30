@@ -3,9 +3,9 @@ title: "Section 4100 - Scope and limitation of chapter"
 usc_title: 18
 usc_section: "4100"
 chapter: 306
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 4100"
-generated_at: "2026-03-30T08:47:14.499Z"
+generated_at: "2026-03-30T08:49:28.997Z"
 status: "active"
 ---
 

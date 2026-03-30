@@ -3,9 +3,9 @@ title: "Section 796a - Definitions"
 usc_title: 29
 usc_section: "796a"
 chapter: 16
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "29 U.S.C. § 796a"
-generated_at: "2026-03-30T08:47:29.584Z"
+generated_at: "2026-03-30T08:50:29.454Z"
 status: "active"
 ---
 

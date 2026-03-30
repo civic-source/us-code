@@ -3,9 +3,9 @@ title: "Section 8120 - Quarterly report on super construction projects"
 usc_title: 38
 usc_section: "8120"
 chapter: 81
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "38 U.S.C. § 8120"
-generated_at: "2026-03-30T08:47:48.383Z"
+generated_at: "2026-03-30T08:50:45.187Z"
 status: "active"
 ---
 

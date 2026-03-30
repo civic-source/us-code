@@ -3,9 +3,9 @@ title: "Section 241b - Exchange of lands"
 usc_title: 16
 usc_section: "241b"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 241b"
-generated_at: "2026-03-30T08:47:11.859Z"
+generated_at: "2026-03-30T08:49:26.969Z"
 status: "active"
 ---
 

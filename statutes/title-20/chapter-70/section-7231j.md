@@ -3,9 +3,9 @@ title: "Section 7231j - Authorization of appropriations; reservation"
 usc_title: 20
 usc_section: "7231j"
 chapter: 70
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "20 U.S.C. § 7231j"
-generated_at: "2026-03-30T08:47:18.174Z"
+generated_at: "2026-03-30T08:49:42.174Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4205 - Rights of declarants; participation in actions, awards"
 usc_title: 12
 usc_section: "4205"
 chapter: 43
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 4205"
-generated_at: "2026-03-30T08:47:02.993Z"
+generated_at: "2026-03-30T08:49:16.663Z"
 status: "active"
 ---
 

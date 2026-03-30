@@ -3,9 +3,9 @@ title: "Section 547 - Reports as to local benefits of improvement and recommenda
 usc_title: 33
 usc_section: "547"
 chapter: 12
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "33 U.S.C. § 547"
-generated_at: "2026-03-30T08:47:44.329Z"
+generated_at: "2026-03-30T08:50:37.841Z"
 status: "active"
 ---
 

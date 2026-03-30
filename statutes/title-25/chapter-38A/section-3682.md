@@ -3,9 +3,9 @@ title: "Section 3682 - Assistant probation officers"
 usc_title: 25
 usc_section: "3682"
 chapter: 38
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "25 U.S.C. § 3682"
-generated_at: "2026-03-30T08:47:21.843Z"
+generated_at: "2026-03-30T08:50:04.740Z"
 status: "active"
 ---
 

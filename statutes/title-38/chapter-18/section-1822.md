@@ -3,9 +3,9 @@ title: "Section 1822 - Benefits for children of certain Thailand service veteran
 usc_title: 38
 usc_section: "1822"
 chapter: 18
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "38 U.S.C. § 1822"
-generated_at: "2026-03-30T08:47:48.339Z"
+generated_at: "2026-03-30T08:50:45.141Z"
 status: "active"
 ---
 

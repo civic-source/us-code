@@ -3,9 +3,9 @@ title: "Section 1392 - Repealed. Pub. L. 112–63, § 203 , Dec. 7, 2011 , 125 S
 usc_title: 28
 usc_section: "1392"
 chapter: 87
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "28 U.S.C. § 1392"
-generated_at: "2026-03-30T08:47:28.695Z"
+generated_at: "2026-03-30T08:50:28.610Z"
 status: "repealed"
 ---
 

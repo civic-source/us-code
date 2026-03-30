@@ -3,9 +3,9 @@ title: "Section 4110 - Expenses of attendance at meetings"
 usc_title: 5
 usc_section: "4110"
 chapter: 41
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "5 U.S.C. § 4110"
-generated_at: "2026-03-30T08:46:44.226Z"
+generated_at: "2026-03-30T08:48:32.814Z"
 status: "active"
 ---
 

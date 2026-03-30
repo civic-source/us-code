@@ -3,9 +3,9 @@ title: "Section 2877 - Repealed. Pub. L. 103–236, title III, § 310(e) , Apr. 
 usc_title: 22
 usc_section: "2877"
 chapter: 43
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 2877"
-generated_at: "2026-03-30T08:47:25.327Z"
+generated_at: "2026-03-30T08:50:25.162Z"
 status: "repealed"
 ---
 

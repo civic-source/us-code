@@ -3,9 +3,9 @@ title: "Section 1911 - Free use of Government publications in depositories; disp
 usc_title: 44
 usc_section: "1911"
 chapter: 19
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "44 U.S.C. § 1911"
-generated_at: "2026-03-30T08:47:50.646Z"
+generated_at: "2026-03-30T08:50:47.011Z"
 status: "active"
 ---
 

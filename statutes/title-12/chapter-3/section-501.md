@@ -3,9 +3,9 @@ title: "Section 501 - Liability of Federal reserve or member bank for certifying
 usc_title: 12
 usc_section: "501"
 chapter: 3
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 501"
-generated_at: "2026-03-30T08:47:02.885Z"
+generated_at: "2026-03-30T08:49:16.553Z"
 status: "active"
 ---
 

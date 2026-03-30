@@ -3,9 +3,9 @@ title: "Section 6461 - Exports of certain items used in particularly severe viol
 usc_title: 22
 usc_section: "6461"
 chapter: 73
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 6461"
-generated_at: "2026-03-30T08:47:25.363Z"
+generated_at: "2026-03-30T08:50:25.196Z"
 status: "active"
 ---
 

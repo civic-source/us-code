@@ -3,9 +3,9 @@ title: "Section 2058 - Procedure for consumer product safety rules"
 usc_title: 15
 usc_section: "2058"
 chapter: 47
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 2058"
-generated_at: "2026-03-30T08:47:04.998Z"
+generated_at: "2026-03-30T08:49:19.250Z"
 status: "active"
 ---
 

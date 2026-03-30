@@ -3,9 +3,9 @@ title: "Section 58a - Fees for services of customs officers"
 usc_title: 19
 usc_section: "58a"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "19 U.S.C. § 58a"
-generated_at: "2026-03-30T08:47:08.748Z"
+generated_at: "2026-03-30T08:49:23.574Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 218 - Voiding transactions in violation of chapter; recovery by 
 usc_title: 18
 usc_section: "218"
 chapter: 11
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 218"
-generated_at: "2026-03-30T08:47:14.445Z"
+generated_at: "2026-03-30T08:49:28.945Z"
 status: "active"
 ---
 

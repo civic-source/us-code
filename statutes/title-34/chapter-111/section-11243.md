@@ -3,9 +3,9 @@ title: "Section 11243 - Authority to make grants for research, evaluation, demon
 usc_title: 34
 usc_section: "11243"
 chapter: 111
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 11243"
-generated_at: "2026-03-30T08:47:43.560Z"
+generated_at: "2026-03-30T08:50:39.182Z"
 status: "active"
 ---
 
@@ -18,9 +18,9 @@ status: "active"
   - **(3)** the special needs of runaway youth and homeless youth programs in rural areas;
   - **(4)** the special needs of programs that place runaway youth and homeless youth in host family homes;
   - **(5)** staff training in—
-    - **(A)** the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) of title 22 ), and sex trafficking (as defined in section 7102(10) of title 22 );
-    - **(B)** responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) of title 22 ), or sex trafficking (as defined in section 7102(10) of title 22 ); and
-    - **(C)** agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in section 7102(15) of title 22 );
+    - **(A)** the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) 1 1 See References in Text note below. of title 22), and sex trafficking (as defined in section 7102(10) 1 of title 22);
+    - **(B)** responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) 1 of title 22), or sex trafficking (as defined in section 7102(10) 1 of title 22); and
+    - **(C)** agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in section 7102(15) 1 of title 22);
   - **(6)** innovative methods of developing resources that enhance the establishment or operation of runaway and homeless youth centers;
   - **(7)** training for runaway youth and homeless youth, and staff training, related to preventing and obtaining treatment for infection by the human immunodeficiency virus (HIV);
   - **(8)** increasing access to quality health care (including behavioral health care) for runaway youth and homeless youth;

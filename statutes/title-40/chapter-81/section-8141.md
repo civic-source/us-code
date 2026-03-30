@@ -3,9 +3,9 @@ title: "Section 8141 - Contract to rent buildings in the District of Columbia no
 usc_title: 40
 usc_section: "8141"
 chapter: 81
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "40 U.S.C. § 8141"
-generated_at: "2026-03-30T08:47:48.775Z"
+generated_at: "2026-03-30T08:50:42.087Z"
 status: "active"
 ---
 

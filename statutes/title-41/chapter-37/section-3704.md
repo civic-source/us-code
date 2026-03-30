@@ -3,9 +3,9 @@ title: "Section 3704 - Post-award debriefings"
 usc_title: 41
 usc_section: "3704"
 chapter: 37
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "41 U.S.C. § 3704"
-generated_at: "2026-03-30T08:47:50.906Z"
+generated_at: "2026-03-30T08:50:49.037Z"
 status: "active"
 ---
 

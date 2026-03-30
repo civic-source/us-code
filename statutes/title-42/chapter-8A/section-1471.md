@@ -3,9 +3,9 @@ title: "Section 1471 - Financial assistance by Secretary of Agriculture"
 usc_title: 42
 usc_section: "1471"
 chapter: 8
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 1471"
-generated_at: "2026-03-30T08:48:05.282Z"
+generated_at: "2026-03-30T08:51:07.118Z"
 status: "active"
 ---
 

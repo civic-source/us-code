@@ -3,9 +3,9 @@ title: "Section 1545 - Livestock loans; cash settlements"
 usc_title: 25
 usc_section: "1545"
 chapter: 17
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "25 U.S.C. § 1545"
-generated_at: "2026-03-30T08:47:21.809Z"
+generated_at: "2026-03-30T08:50:04.709Z"
 status: "active"
 ---
 

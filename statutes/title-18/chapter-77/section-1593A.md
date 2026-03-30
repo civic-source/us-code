@@ -3,9 +3,9 @@ title: "Section 1593A - Benefitting financially from peonage, slavery, and traff
 usc_title: 18
 usc_section: "1593A"
 chapter: 77
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 1593A"
-generated_at: "2026-03-30T08:47:14.467Z"
+generated_at: "2026-03-30T08:49:28.965Z"
 status: "active"
 ---
 

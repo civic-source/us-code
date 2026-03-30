@@ -3,9 +3,9 @@ title: "Section 1904 - Certificates"
 usc_title: 33
 usc_section: "1904"
 chapter: 33
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "33 U.S.C. § 1904"
-generated_at: "2026-03-30T08:47:44.370Z"
+generated_at: "2026-03-30T08:50:37.880Z"
 status: "active"
 ---
 

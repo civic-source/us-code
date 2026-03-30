@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 104–66, title III, § 3001(e) , Dec. 21,
 usc_title: 15
 usc_section: "1"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T08:47:04.918Z"
+generated_at: "2026-03-30T08:49:19.174Z"
 status: "repealed"
 ---
 

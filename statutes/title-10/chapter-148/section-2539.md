@@ -3,9 +3,9 @@ title: "Section 2539 - Industrial mobilization: plants; lists"
 usc_title: 10
 usc_section: "2539"
 chapter: 148
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 2539"
-generated_at: "2026-03-30T08:46:53.677Z"
+generated_at: "2026-03-30T08:48:44.824Z"
 status: "active"
 ---
 

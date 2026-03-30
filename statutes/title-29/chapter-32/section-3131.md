@@ -3,9 +3,9 @@ title: "Section 3131 - Funding of State and local boards"
 usc_title: 29
 usc_section: "3131"
 chapter: 32
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "29 U.S.C. § 3131"
-generated_at: "2026-03-30T08:47:29.624Z"
+generated_at: "2026-03-30T08:50:29.495Z"
 status: "active"
 ---
 

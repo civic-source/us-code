@@ -3,9 +3,9 @@ title: "Section 2286b - Powers of Board"
 usc_title: 42
 usc_section: "2286b"
 chapter: 23
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 2286b"
-generated_at: "2026-03-30T08:48:05.335Z"
+generated_at: "2026-03-30T08:51:07.174Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15253 - Transferred"
 usc_title: 42
 usc_section: "15253"
 chapter: 145
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 15253"
-generated_at: "2026-03-30T08:48:05.585Z"
+generated_at: "2026-03-30T08:51:07.428Z"
 status: "transferred"
 ---
 

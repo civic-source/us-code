@@ -3,9 +3,9 @@ title: "Section 16392 - Technology Infrastructure Program"
 usc_title: 42
 usc_section: "16392"
 chapter: 149
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 16392"
-generated_at: "2026-03-30T08:48:05.600Z"
+generated_at: "2026-03-30T08:51:07.442Z"
 status: "active"
 ---
 

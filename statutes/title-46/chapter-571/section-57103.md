@@ -3,9 +3,9 @@ title: "Section 57103 - Donation of nonretention vessels in the National Defense
 usc_title: 46
 usc_section: "57103"
 chapter: 571
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 57103"
-generated_at: "2026-03-30T08:48:09.598Z"
+generated_at: "2026-03-30T08:51:14.918Z"
 status: "active"
 ---
 

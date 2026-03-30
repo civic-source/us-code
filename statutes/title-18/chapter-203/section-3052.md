@@ -3,9 +3,9 @@ title: "Section 3052 - Powers of Federal Bureau of Investigation"
 usc_title: 18
 usc_section: "3052"
 chapter: 203
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 3052"
-generated_at: "2026-03-30T08:47:14.485Z"
+generated_at: "2026-03-30T08:49:28.983Z"
 status: "active"
 ---
 

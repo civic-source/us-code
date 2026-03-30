@@ -3,9 +3,9 @@ title: "Section 7105 - Powers and duties of the Authority"
 usc_title: 5
 usc_section: "7105"
 chapter: 71
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "5 U.S.C. § 7105"
-generated_at: "2026-03-30T08:46:44.243Z"
+generated_at: "2026-03-30T08:48:32.833Z"
 status: "active"
 ---
 

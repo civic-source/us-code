@@ -3,9 +3,9 @@ title: "Section 159 - Bankruptcy statistics"
 usc_title: 28
 usc_section: "159"
 chapter: 6
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "28 U.S.C. § 159"
-generated_at: "2026-03-30T08:47:28.681Z"
+generated_at: "2026-03-30T08:50:28.597Z"
 status: "active"
 ---
 

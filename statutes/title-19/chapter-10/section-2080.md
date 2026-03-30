@@ -3,9 +3,9 @@ title: "Section 2080 - Advances from available appropriations; rules and regulat
 usc_title: 19
 usc_section: "2080"
 chapter: 10
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "19 U.S.C. § 2080"
-generated_at: "2026-03-30T08:47:08.777Z"
+generated_at: "2026-03-30T08:49:23.605Z"
 status: "active"
 ---
 

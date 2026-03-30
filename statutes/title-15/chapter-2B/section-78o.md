@@ -3,9 +3,9 @@ title: "Section 78o - Registration and regulation of brokers and dealers"
 usc_title: 15
 usc_section: "78o"
 chapter: 2
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 78o"
-generated_at: "2026-03-30T08:47:04.890Z"
+generated_at: "2026-03-30T08:49:19.150Z"
 status: "active"
 ---
 

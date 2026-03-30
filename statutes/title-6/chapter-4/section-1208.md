@@ -3,9 +3,9 @@ title: "Section 1208 - Pipeline security and incident recovery plan"
 usc_title: 6
 usc_section: "1208"
 chapter: 4
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "6 U.S.C. § 1208"
-generated_at: "2026-03-30T08:46:46.705Z"
+generated_at: "2026-03-30T08:48:36.564Z"
 status: "active"
 ---
 

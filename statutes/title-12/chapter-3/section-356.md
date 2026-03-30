@@ -3,9 +3,9 @@ title: "Section 356 - Purchase of commercial paper from member banks and sale of
 usc_title: 12
 usc_section: "356"
 chapter: 3
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 356"
-generated_at: "2026-03-30T08:47:02.881Z"
+generated_at: "2026-03-30T08:49:16.549Z"
 status: "active"
 ---
 

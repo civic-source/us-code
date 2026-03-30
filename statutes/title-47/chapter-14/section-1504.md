@@ -1,15 +1,15 @@
 ---
-title: "Section 1504 - Broadband infrastructure deployment."
+title: "Section 1504 - Broadband infrastructure deployment"
 usc_title: 47
 usc_section: "1504"
 chapter: 14
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "47 U.S.C. § 1504"
-generated_at: "2026-03-30T08:48:08.404Z"
+generated_at: "2026-03-30T08:51:10.204Z"
 status: "active"
 ---
 
-# § 1504. Broadband infrastructure deployment.
+# § 1504. Broadband infrastructure deployment
 
 - **(a)** In this section:
   - **(1)** The term “appropriate State agency” means a State governmental agency that is recognized by the executive branch of the State as having the experience necessary to evaluate and carry out projects relating to the proper and effective installation and operation of broadband infrastructure.

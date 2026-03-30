@@ -3,9 +3,9 @@ title: "Section 11 - Disposition of certificates"
 usc_title: 3
 usc_section: "11"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "3 U.S.C. § 11"
-generated_at: "2026-03-30T08:46:41.015Z"
+generated_at: "2026-03-30T08:48:30.365Z"
 status: "active"
 ---
 

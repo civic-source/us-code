@@ -3,9 +3,9 @@ title: "Section 12372 - Training provided by grants"
 usc_title: 34
 usc_section: "12372"
 chapter: 121
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 12372"
-generated_at: "2026-03-30T08:47:43.566Z"
+generated_at: "2026-03-30T08:50:39.189Z"
 status: "active"
 ---
 

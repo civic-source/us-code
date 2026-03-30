@@ -3,9 +3,9 @@ title: "Section 103 - Designation of reports"
 usc_title: 13
 usc_section: "103"
 chapter: 3
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "13 U.S.C. § 103"
-generated_at: "2026-03-30T08:46:59.987Z"
+generated_at: "2026-03-30T08:48:46.616Z"
 status: "active"
 ---
 

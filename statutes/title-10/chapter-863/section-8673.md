@@ -3,9 +3,9 @@ title: "Section 8673 - Model Basin; investigation of hull designs"
 usc_title: 10
 usc_section: "8673"
 chapter: 863
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 8673"
-generated_at: "2026-03-30T08:46:53.706Z"
+generated_at: "2026-03-30T08:48:44.854Z"
 status: "active"
 ---
 

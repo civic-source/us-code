@@ -3,9 +3,9 @@ title: "Section 410ccc - Findings and purposes"
 usc_title: 16
 usc_section: "410ccc"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 410ccc"
-generated_at: "2026-03-30T08:47:11.879Z"
+generated_at: "2026-03-30T08:49:26.991Z"
 status: "active"
 ---
 

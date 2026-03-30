@@ -3,9 +3,9 @@ title: "Section 4565 - Authority to review certain mergers, acquisitions, and ta
 usc_title: 50
 usc_section: "4565"
 chapter: 55
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "50 U.S.C. § 4565"
-generated_at: "2026-03-30T08:48:10.875Z"
+generated_at: "2026-03-30T08:51:24.738Z"
 status: "active"
 ---
 
@@ -200,9 +200,9 @@ status: "active"
   - **(3)** the control of domestic industries and commercial activity by foreign citizens as it affects the capability and capacity of the United States to meet the requirements of national security,
   - **(4)** the potential effects of the proposed or pending transaction on sales of military goods, equipment, or technology to any country—
     - **(A)** identified by the Secretary of State—
-      - **(i)** under section 4605(j) 4 of this title, as a country that supports terrorism;
+      - **(i)** under section 4605(j) 4 4 See References in Text note below. of this title, as a country that supports terrorism;
       - **(ii)** under section 4605( l ) 4 of this title, as a country of concern regarding missile proliferation; or
-      - **(iii)** under section 4605(m) 4 4 See References in Text note below. of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
+      - **(iii)** under section 4605(m) 4 of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
     - **(B)** identified by the Secretary of Defense as posing a potential regional military threat to the interests of the United States; or
     - **(C)** listed under section 2139a(c) of title 42 on the “Nuclear Non-Proliferation-Special Country List” (15 C.F.R. Part 778, Supplement No. 4) or any successor list;
   - **(5)** the potential effects of the proposed or pending transaction on United States international technological leadership in areas affecting United States national security;

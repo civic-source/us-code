@@ -3,9 +3,9 @@ title: "Section 701 - Definitions"
 usc_title: 22
 usc_section: "701"
 chapter: 13
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 701"
-generated_at: "2026-03-30T08:47:25.277Z"
+generated_at: "2026-03-30T08:50:25.114Z"
 status: "active"
 ---
 

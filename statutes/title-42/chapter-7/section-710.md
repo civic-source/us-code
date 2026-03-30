@@ -3,20 +3,20 @@ title: "Section 710 - Sexual risk avoidance education"
 usc_title: 42
 usc_section: "710"
 chapter: 7
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 710"
-generated_at: "2026-03-30T08:48:05.128Z"
+generated_at: "2026-03-30T08:51:06.962Z"
 status: "active"
 ---
 
 # § 710. Sexual risk avoidance education
 
 - **(a)**
-  - **(1)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019 , and ending November 21, 2019 , allot to each State which has transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title an amount equal to the product of—
+  - **(1)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019 , and ending December 20, 2019 , allot to each State which has transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title an amount equal to the product of—
     - **(A)** the amount appropriated pursuant to subsection (f)(1) for the fiscal year or period, minus the amount reserved under subsection (f)(2) for the fiscal year or period; and
     - **(B)** the proportion that the number of low-income children in the State bears to the total of such numbers of children for all the States.
   - **(2)**
-    - **(A)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019 , and ending November 21, 2019 , for any State which has not transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title , allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
+    - **(A)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019 and for the period beginning October 1, 2019 , and ending December 20, 2019 , for any State which has not transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title , allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
     - **(B)** The Secretary shall select the recipients of allotments under subparagraph (A) by means of a competitive grant process under which—
       - **(i)** not later than 30 days after the deadline for the State involved to submit an application for the fiscal year (or, with respect to such period, for fiscal year 2020) under section 705(a) of this title , the Secretary publishes a notice soliciting grant applications; and
       - **(ii)** not later than 120 days after such deadline, all such applications must be submitted.
@@ -65,5 +65,5 @@ status: "active"
     - **(B)** other evidence-based methodologies established by the Secretary for purposes of this section.
   - **(4)** The term “youth” refers to one or more individuals who have attained age 10 but not age 20.
 - **(f)**
-  - **(1)** To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 and 2019 and $10,684,931 for the period beginning October 1, 2019 , and ending November 21, 2019 .
+  - **(1)** To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 and 2019 and $16,643,836 for the period beginning October 1, 2019 , and ending December 20, 2019 .
   - **(2)** The Secretary shall reserve, for each of fiscal years 2018 and 2019 and for the period described in paragraph (1), not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.

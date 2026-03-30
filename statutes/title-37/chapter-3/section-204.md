@@ -3,9 +3,9 @@ title: "Section 204 - Entitlement"
 usc_title: 37
 usc_section: "204"
 chapter: 3
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "37 U.S.C. § 204"
-generated_at: "2026-03-30T08:47:47.185Z"
+generated_at: "2026-03-30T08:50:42.733Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 941k - Omitted"
 usc_title: 25
 usc_section: "941k"
 chapter: 14
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "25 U.S.C. § 941k"
-generated_at: "2026-03-30T08:47:21.806Z"
+generated_at: "2026-03-30T08:50:04.705Z"
 status: "omitted"
 ---
 

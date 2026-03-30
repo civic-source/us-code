@@ -3,9 +3,9 @@ title: "Section 6520 - Administrative appeal"
 usc_title: 7
 usc_section: "6520"
 chapter: 94
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 6520"
-generated_at: "2026-03-30T08:46:50.184Z"
+generated_at: "2026-03-30T08:48:40.410Z"
 status: "active"
 ---
 

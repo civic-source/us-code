@@ -3,9 +3,9 @@ title: "Section 543d - Ecological studies; reports to Congressional committees a
 usc_title: 16
 usc_section: "543d"
 chapter: 2
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "16 U.S.C. § 543d"
-generated_at: "2026-03-30T08:47:11.939Z"
+generated_at: "2026-03-30T08:49:27.055Z"
 status: "active"
 ---
 

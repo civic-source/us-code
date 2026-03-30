@@ -3,9 +3,9 @@ title: "Section 354 - Exchanges of stock and securities in certain reorganizatio
 usc_title: 26
 usc_section: "354"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "26 U.S.C. § 354"
-generated_at: "2026-03-30T08:47:40.225Z"
+generated_at: "2026-03-30T08:50:34.661Z"
 status: "active"
 ---
 

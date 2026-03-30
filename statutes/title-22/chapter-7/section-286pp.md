@@ -3,9 +3,9 @@ title: "Section 286pp - Acceptance of amendments to Articles of Agreement of Fun
 usc_title: 22
 usc_section: "286pp"
 chapter: 7
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 286pp"
-generated_at: "2026-03-30T08:47:25.269Z"
+generated_at: "2026-03-30T08:50:25.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3984 - Authorized activities"
 usc_title: 20
 usc_section: "3984"
 chapter: 52
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "20 U.S.C. § 3984"
-generated_at: "2026-03-30T08:47:18.149Z"
+generated_at: "2026-03-30T08:49:42.147Z"
 status: "active"
 ---
 

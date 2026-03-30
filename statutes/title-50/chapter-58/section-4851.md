@@ -3,9 +3,9 @@ title: "Section 4851 - Under Secretary of Commerce for Industry and Security"
 usc_title: 50
 usc_section: "4851"
 chapter: 58
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "50 U.S.C. § 4851"
-generated_at: "2026-03-30T08:48:10.880Z"
+generated_at: "2026-03-30T08:51:24.785Z"
 status: "active"
 ---
 

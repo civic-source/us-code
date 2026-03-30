@@ -3,9 +3,9 @@ title: "Section 1401f - Omitted"
 usc_title: 48
 usc_section: "1401f"
 chapter: 7
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "48 U.S.C. § 1401f"
-generated_at: "2026-03-30T08:48:08.833Z"
+generated_at: "2026-03-30T08:51:13.542Z"
 status: "omitted"
 ---
 

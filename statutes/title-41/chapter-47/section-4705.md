@@ -3,9 +3,9 @@ title: "Section 4705 - Protection of contractor employees from reprisal for disc
 usc_title: 41
 usc_section: "4705"
 chapter: 47
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "41 U.S.C. § 4705"
-generated_at: "2026-03-30T08:47:50.908Z"
+generated_at: "2026-03-30T08:50:49.038Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1324 - Amendment of State constitutions or statutes to remove le
 usc_title: 25
 usc_section: "1324"
 chapter: 15
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "25 U.S.C. § 1324"
-generated_at: "2026-03-30T08:47:21.808Z"
+generated_at: "2026-03-30T08:50:04.708Z"
 status: "active"
 ---
 

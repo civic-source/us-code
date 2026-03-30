@@ -3,9 +3,9 @@ title: "Section 1395z - Consultation with State agencies and other organizations
 usc_title: 42
 usc_section: "1395z"
 chapter: 7
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 1395z"
-generated_at: "2026-03-30T08:48:05.205Z"
+generated_at: "2026-03-30T08:51:07.039Z"
 status: "active"
 ---
 

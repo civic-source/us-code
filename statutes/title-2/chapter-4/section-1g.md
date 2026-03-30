@@ -3,9 +3,9 @@ title: "Section 1g - Transferred"
 usc_title: 2
 usc_section: "1g"
 chapter: 4
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "2 U.S.C. § 1g"
-generated_at: "2026-03-30T08:46:42.256Z"
+generated_at: "2026-03-30T08:48:34.404Z"
 status: "transferred"
 ---
 

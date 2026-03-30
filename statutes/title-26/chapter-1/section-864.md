@@ -3,9 +3,9 @@ title: "Section 864 - Definitions and special rules"
 usc_title: 26
 usc_section: "864"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-30T08:47:40.281Z"
+generated_at: "2026-03-30T08:50:34.713Z"
 status: "active"
 ---
 

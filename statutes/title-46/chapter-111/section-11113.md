@@ -3,9 +3,9 @@ title: "Section 11113 - Treatment of abandoned seafarers"
 usc_title: 46
 usc_section: "11113"
 chapter: 111
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 11113"
-generated_at: "2026-03-30T08:48:09.580Z"
+generated_at: "2026-03-30T08:51:14.902Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
     - **(B)** the vessel owner or operator abandons a seafarer in the United States, as determined by the Secretary based on substantial evidence.
   - **(2)** If a vessel owner or operator fails to reimburse the Fund under paragraph (1) within 60 days after receiving a written, itemized description of reimbursable expenses and a demand for payment, the Secretary may—
     - **(A)** proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
-    - **(B)** withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(a)(9)(A) of the Act to Prevent Pollution from Ships ( 33 U.S.C. 1901(a)(9)(A) ) as the vessel on which the seafarer served.
+    - **(B)** withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(a)(9)(A) 1 1 So in original. Probably should be “2(a)(9)(a)”. of the Act to Prevent Pollution from Ships ( 33 U.S.C. 1901(a)(9)(A) ) 2 2 So in original. Probably should be “ 33 U.S.C. 1901(a)(9)(a) ))”. as the vessel on which the seafarer served.
   - **(3)** A vessel may obtain clearance from the Secretary after it is withheld or revoked under paragraph (2)(B) if the vessel owner or operator—
     - **(A)** reimburses the Fund the amount required under paragraph (1); or
     - **(B)** provides a bond, or other evidence of financial responsibility, sufficient to meet the amount required to be reimbursed under paragraph (1).

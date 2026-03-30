@@ -3,9 +3,9 @@ title: "Section 68c - Stamp, tag, label, or other identification"
 usc_title: 15
 usc_section: "68c"
 chapter: 2
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 68c"
-generated_at: "2026-03-30T08:47:04.871Z"
+generated_at: "2026-03-30T08:49:19.133Z"
 status: "active"
 ---
 

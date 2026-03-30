@@ -3,9 +3,9 @@ title: "Section 46301 - Civil penalties"
 usc_title: 49
 usc_section: "46301"
 chapter: 463
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "49 U.S.C. § 46301"
-generated_at: "2026-03-30T08:48:12.934Z"
+generated_at: "2026-03-30T08:51:29.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 341 - Repealed. Aug. 9, 1955, ch. 656 , title III, § 307, 69 St
 usc_title: 50
 usc_section: "341"
 chapter: 14
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "50 U.S.C. § 341"
-generated_at: "2026-03-30T08:48:10.813Z"
+generated_at: "2026-03-30T08:51:24.676Z"
 status: "repealed"
 ---
 

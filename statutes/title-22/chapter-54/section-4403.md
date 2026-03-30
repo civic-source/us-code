@@ -3,9 +3,9 @@ title: "Section 4403 - Funding"
 usc_title: 22
 usc_section: "4403"
 chapter: 54
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 4403"
-generated_at: "2026-03-30T08:47:25.347Z"
+generated_at: "2026-03-30T08:50:25.181Z"
 status: "active"
 ---
 

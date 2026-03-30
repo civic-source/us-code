@@ -3,9 +3,9 @@ title: "Section 1008 - Temporary employees or carriers"
 usc_title: 39
 usc_section: "1008"
 chapter: 10
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "39 U.S.C. § 1008"
-generated_at: "2026-03-30T08:47:45.967Z"
+generated_at: "2026-03-30T08:50:40.806Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1103c - Cooperative arrangements"
 usc_title: 20
 usc_section: "1103c"
 chapter: 28
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "20 U.S.C. § 1103c"
-generated_at: "2026-03-30T08:47:18.115Z"
+generated_at: "2026-03-30T08:49:42.112Z"
 status: "active"
 ---
 

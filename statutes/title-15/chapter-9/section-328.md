@@ -3,9 +3,9 @@ title: "Section 328 - Transfer from other Government Departments of surplus equi
 usc_title: 15
 usc_section: "328"
 chapter: 9
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "15 U.S.C. § 328"
-generated_at: "2026-03-30T08:47:04.923Z"
+generated_at: "2026-03-30T08:49:19.180Z"
 status: "active"
 ---
 

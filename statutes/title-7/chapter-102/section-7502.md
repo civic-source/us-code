@@ -3,9 +3,9 @@ title: "Section 7502 - Availability of CCC commodities"
 usc_title: 7
 usc_section: "7502"
 chapter: 102
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 7502"
-generated_at: "2026-03-30T08:46:50.201Z"
+generated_at: "2026-03-30T08:48:40.428Z"
 status: "active"
 ---
 

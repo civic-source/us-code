@@ -3,9 +3,9 @@ title: "Section 2116 - Marine safety strategy, goals, and performance assessment
 usc_title: 46
 usc_section: "2116"
 chapter: 21
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 2116"
-generated_at: "2026-03-30T08:48:09.569Z"
+generated_at: "2026-03-30T08:51:14.891Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(A)** To increase the number of safety examinations on all high-risk vessels.
     - **(B)** To eliminate the backlog of marine safety-related rulemakings.
     - **(C)** To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
-    - **(D)** To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+    - **(D)** To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) 1 1 See References in Text note below. of title 14.
   - **(2)** The strategy and triennial plans shall include estimates of—
     - **(A)** the funds and staff resources needed to accomplish each activity included in the strategy and plans; and
     - **(B)** the staff skills and training needed for timely and effective accomplishment of each goal.

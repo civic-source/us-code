@@ -3,9 +3,9 @@ title: "Section 11 - Low-level waste"
 usc_title: 42
 usc_section: "11"
 chapter: 23
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T08:48:05.338Z"
+generated_at: "2026-03-30T08:51:07.178Z"
 status: "active"
 ---
 

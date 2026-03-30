@@ -3,9 +3,9 @@ title: "Section 874 - Kickbacks from public works employees"
 usc_title: 18
 usc_section: "874"
 chapter: 41
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 874"
-generated_at: "2026-03-30T08:47:14.454Z"
+generated_at: "2026-03-30T08:49:28.953Z"
 status: "active"
 ---
 

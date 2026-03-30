@@ -3,9 +3,9 @@ title: "Section 1 - Jurisdiction and powers of local courts"
 usc_title: 48
 usc_section: "1"
 chapter: 8
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T08:48:08.837Z"
+generated_at: "2026-03-30T08:51:13.544Z"
 status: "active"
 ---
 

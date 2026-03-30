@@ -3,9 +3,9 @@ title: "Section 3115 - Irrevocable commitment of Federal Government to pay ultim
 usc_title: 40
 usc_section: "3115"
 chapter: 31
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "40 U.S.C. § 3115"
-generated_at: "2026-03-30T08:47:48.771Z"
+generated_at: "2026-03-30T08:50:42.082Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2509 - Technical assistance program authorization"
 usc_title: 29
 usc_section: "2509"
 chapter: 27
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "29 U.S.C. § 2509"
-generated_at: "2026-03-30T08:47:29.618Z"
+generated_at: "2026-03-30T08:50:29.488Z"
 status: "active"
 ---
 

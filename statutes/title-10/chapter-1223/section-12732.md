@@ -3,9 +3,9 @@ title: "Section 12732 - Entitlement to retired pay: computation of years of serv
 usc_title: 10
 usc_section: "12732"
 chapter: 1223
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 12732"
-generated_at: "2026-03-30T08:46:53.724Z"
+generated_at: "2026-03-30T08:48:44.872Z"
 status: "active"
 ---
 

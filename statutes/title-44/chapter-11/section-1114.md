@@ -3,9 +3,9 @@ title: "Section 1114 - Annual reports: number of copies for Congress"
 usc_title: 44
 usc_section: "1114"
 chapter: 11
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "44 U.S.C. § 1114"
-generated_at: "2026-03-30T08:47:50.645Z"
+generated_at: "2026-03-30T08:50:47.009Z"
 status: "active"
 ---
 

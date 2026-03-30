@@ -3,9 +3,9 @@ title: "Section 1502 - Certificate of nationality issued by Secretary of State f
 usc_title: 8
 usc_section: "1502"
 chapter: 12
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "8 U.S.C. § 1502"
-generated_at: "2026-03-30T08:46:58.361Z"
+generated_at: "2026-03-30T08:48:37.299Z"
 status: "active"
 ---
 

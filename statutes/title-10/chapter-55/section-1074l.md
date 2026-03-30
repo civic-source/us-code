@@ -3,9 +3,9 @@ title: "Section 1074l - Notification to Congress of hospitalization of combat wo
 usc_title: 10
 usc_section: "1074l"
 chapter: 55
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 1074l"
-generated_at: "2026-03-30T08:46:53.620Z"
+generated_at: "2026-03-30T08:48:44.766Z"
 status: "active"
 ---
 

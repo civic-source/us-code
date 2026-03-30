@@ -3,9 +3,9 @@ title: "Section 2101 - General definitions"
 usc_title: 46
 usc_section: "2101"
 chapter: 21
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "46 U.S.C. § 2101"
-generated_at: "2026-03-30T08:48:09.569Z"
+generated_at: "2026-03-30T08:51:14.890Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ In this subtitle—
       - **(i)** a system, accessory, component, or appurtenance of a recreational vessel; or
       - **(ii)** a marine safety article intended for use on board a recreational vessel; but
     - **(B)** with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
-  - **(2)** “Coast Guard” means the organization established and continued under section 1 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+  - **(2)** “Coast Guard” means the organization established and continued under section 1 1 1 See References in Text note below. of title 14.
   - **(3)** “Commandant” means the Commandant of the Coast Guard.
   - **(4)** “commercial service” includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel.
   - **(5)** “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.

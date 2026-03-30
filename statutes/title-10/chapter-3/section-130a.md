@@ -3,9 +3,9 @@ title: "Section 130a - Repealed. Pub. L. 110–181, div. A, title IX, § 901(a)(
 usc_title: 10
 usc_section: "130a"
 chapter: 3
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 130a"
-generated_at: "2026-03-30T08:46:53.581Z"
+generated_at: "2026-03-30T08:48:44.724Z"
 status: "repealed"
 ---
 

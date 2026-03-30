@@ -3,9 +3,9 @@ title: "Section 20304 - Local children’s advocacy centers"
 usc_title: 34
 usc_section: "20304"
 chapter: 203
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "34 U.S.C. § 20304"
-generated_at: "2026-03-30T08:47:43.575Z"
+generated_at: "2026-03-30T08:50:39.197Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Administrator, in coordination with the Director of the Office of Victims of Crime, shall make grants to—
   - **(1)** develop and enhance multidisciplinary child abuse investigations, intervention, and prosecution; and
   - **(2)** promote the effective delivery of the evidence-informed Children’s Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
-- **(b)** The Administrator, in coordination with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in section 7102(9)(A) of title 22 ) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
+- **(b)** The Administrator, in coordination with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in section 7102(9)(A) 1 1 See References in Text note below. of title 22) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
 - **(c)**
   - **(1)** The Administrator shall establish the criteria to be used in evaluating applications for grants under subsections (a) and (b) consistent with sections 11183 and 11186 of this title.
   - **(2)** In general, the grant criteria established pursuant to paragraph (1) may require that a program include any of the following elements:

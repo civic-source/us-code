@@ -3,9 +3,9 @@ title: "Section 16 - Funding of Office"
 usc_title: 12
 usc_section: "16"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 16"
-generated_at: "2026-03-30T08:47:02.871Z"
+generated_at: "2026-03-30T08:49:16.536Z"
 status: "active"
 ---
 

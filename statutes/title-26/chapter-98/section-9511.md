@@ -3,9 +3,9 @@ title: "Section 9511 - Patient-Centered Outcomes Research Trust Fund"
 usc_title: 26
 usc_section: "9511"
 chapter: 98
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "26 U.S.C. § 9511"
-generated_at: "2026-03-30T08:47:40.406Z"
+generated_at: "2026-03-30T08:50:34.833Z"
 status: "active"
 ---
 
@@ -39,4 +39,4 @@ status: "active"
 - **(e)** For purposes of this section, the term “net revenues” means the amount estimated by the Secretary of the Treasury based on the excess of—
   - **(1)** the fees received in the Treasury under subchapter B of chapter 34, over
   - **(2)** the decrease in the tax imposed by chapter 1 resulting from the fees imposed by such subchapter.
-- **(f)** No amounts shall be available for expenditure from the PCORTF after November 21, 2019 , and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
+- **(f)** No amounts shall be available for expenditure from the PCORTF after December 20, 2019 , and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.

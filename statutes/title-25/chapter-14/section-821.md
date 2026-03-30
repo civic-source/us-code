@@ -3,9 +3,9 @@ title: "Section 821 - Repealed. Pub. L. 95–281, § 1(b)(2) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "821"
 chapter: 14
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "25 U.S.C. § 821"
-generated_at: "2026-03-30T08:47:21.806Z"
+generated_at: "2026-03-30T08:50:04.705Z"
 status: "repealed"
 ---
 

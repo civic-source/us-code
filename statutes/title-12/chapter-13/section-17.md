@@ -3,9 +3,9 @@ title: "Section 17 - Examinations and sanctions for certain violations"
 usc_title: 12
 usc_section: "17"
 chapter: 13
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 17"
-generated_at: "2026-03-30T08:47:02.927Z"
+generated_at: "2026-03-30T08:49:16.601Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2151j - Repealed. Pub. L. 93–559, § 30(b) , Dec. 30, 1974 , 8
 usc_title: 22
 usc_section: "2151j"
 chapter: 32
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 2151j"
-generated_at: "2026-03-30T08:47:25.291Z"
+generated_at: "2026-03-30T08:50:25.127Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6371f - Authorization of appropriations"
 usc_title: 42
 usc_section: "6371f"
 chapter: 77
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 6371f"
-generated_at: "2026-03-30T08:48:05.419Z"
+generated_at: "2026-03-30T08:51:07.261Z"
 status: "active"
 ---
 

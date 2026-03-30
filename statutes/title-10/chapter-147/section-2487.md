@@ -3,9 +3,9 @@ title: "Section 2487 - Relationship between defense commissary system and exchan
 usc_title: 10
 usc_section: "2487"
 chapter: 147
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "10 U.S.C. § 2487"
-generated_at: "2026-03-30T08:46:53.675Z"
+generated_at: "2026-03-30T08:48:44.821Z"
 status: "active"
 ---
 

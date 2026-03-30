@@ -3,9 +3,9 @@ title: "Section 3030f - Program authorized"
 usc_title: 42
 usc_section: "3030f"
 chapter: 35
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 3030f"
-generated_at: "2026-03-30T08:48:05.348Z"
+generated_at: "2026-03-30T08:51:07.188Z"
 status: "active"
 ---
 

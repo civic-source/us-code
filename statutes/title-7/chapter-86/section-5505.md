@@ -3,9 +3,9 @@ title: "Section 5505 - Repealed. Pub. L. 105–185, title III, § 302(c) , June 
 usc_title: 7
 usc_section: "5505"
 chapter: 86
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 5505"
-generated_at: "2026-03-30T08:46:50.169Z"
+generated_at: "2026-03-30T08:48:40.395Z"
 status: "repealed"
 ---
 

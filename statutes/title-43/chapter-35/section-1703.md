@@ -3,9 +3,9 @@ title: "Section 1703 - Cooperative action and sharing of resources by Secretarie
 usc_title: 43
 usc_section: "1703"
 chapter: 35
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "43 U.S.C. § 1703"
-generated_at: "2026-03-30T08:47:51.474Z"
+generated_at: "2026-03-30T08:50:47.602Z"
 status: "active"
 ---
 

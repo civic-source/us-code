@@ -3,9 +3,9 @@ title: "Section 194 - Enhancement of public safety communications interoperabili
 usc_title: 6
 usc_section: "194"
 chapter: 1
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "6 U.S.C. § 194"
-generated_at: "2026-03-30T08:46:46.667Z"
+generated_at: "2026-03-30T08:48:36.530Z"
 status: "active"
 ---
 

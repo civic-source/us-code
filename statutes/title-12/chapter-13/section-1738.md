@@ -3,9 +3,9 @@ title: "Section 1738 - Insurance of mortgages"
 usc_title: 12
 usc_section: "1738"
 chapter: 13
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 1738"
-generated_at: "2026-03-30T08:47:02.928Z"
+generated_at: "2026-03-30T08:49:16.601Z"
 status: "active"
 ---
 

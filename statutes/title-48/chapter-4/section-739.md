@@ -3,9 +3,9 @@ title: "Section 739 - Duties on foreign imports; books and pamphlets in English 
 usc_title: 48
 usc_section: "739"
 chapter: 4
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "48 U.S.C. § 739"
-generated_at: "2026-03-30T08:48:08.832Z"
+generated_at: "2026-03-30T08:51:13.540Z"
 status: "active"
 ---
 

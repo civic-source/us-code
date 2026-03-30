@@ -3,9 +3,9 @@ title: "Section 1635 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1635"
 chapter: 19
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "29 U.S.C. § 1635"
-generated_at: "2026-03-30T08:47:29.615Z"
+generated_at: "2026-03-30T08:50:29.485Z"
 status: "repealed"
 ---
 

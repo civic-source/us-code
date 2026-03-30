@@ -3,9 +3,9 @@ title: "Section 4003 - Study of potential for expansion of United States agricul
 usc_title: 7
 usc_section: "4003"
 chapter: 71
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "7 U.S.C. § 4003"
-generated_at: "2026-03-30T08:46:50.162Z"
+generated_at: "2026-03-30T08:48:40.387Z"
 status: "active"
 ---
 

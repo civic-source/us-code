@@ -3,9 +3,9 @@ title: "Section 379i - Definitions"
 usc_title: 21
 usc_section: "379i"
 chapter: 9
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "21 U.S.C. § 379i"
-generated_at: "2026-03-30T08:47:22.830Z"
+generated_at: "2026-03-30T08:50:13.126Z"
 status: "active"
 ---
 

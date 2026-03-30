@@ -3,9 +3,9 @@ title: "Section 8165 - Use of proceeds"
 usc_title: 38
 usc_section: "8165"
 chapter: 81
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "38 U.S.C. § 8165"
-generated_at: "2026-03-30T08:47:48.385Z"
+generated_at: "2026-03-30T08:50:45.188Z"
 status: "active"
 ---
 

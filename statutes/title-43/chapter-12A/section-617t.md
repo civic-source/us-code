@@ -3,9 +3,9 @@ title: "Section 617t - Short title"
 usc_title: 43
 usc_section: "617t"
 chapter: 12
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "43 U.S.C. § 617t"
-generated_at: "2026-03-30T08:47:51.448Z"
+generated_at: "2026-03-30T08:50:47.577Z"
 status: "active"
 ---
 

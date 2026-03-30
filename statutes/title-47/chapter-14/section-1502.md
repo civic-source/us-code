@@ -1,15 +1,15 @@
 ---
-title: "Section 1502 - Identifying 255 megahertz."
+title: "Section 1502 - Identifying 255 megahertz"
 usc_title: 47
 usc_section: "1502"
 chapter: 14
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "47 U.S.C. § 1502"
-generated_at: "2026-03-30T08:48:08.404Z"
+generated_at: "2026-03-30T08:51:10.204Z"
 status: "active"
 ---
 
-# § 1502. Identifying 255 megahertz.
+# § 1502. Identifying 255 megahertz
 
 - **(a)**
   - **(1)** Not later than December 31, 2022 , the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.

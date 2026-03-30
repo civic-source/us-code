@@ -3,9 +3,9 @@ title: "Section 41113 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "41113"
 chapter: 411
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "49 U.S.C. § 41113"
-generated_at: "2026-03-30T08:48:12.917Z"
+generated_at: "2026-03-30T08:51:29.663Z"
 status: "active"
 ---
 

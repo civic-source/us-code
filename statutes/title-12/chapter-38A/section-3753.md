@@ -3,9 +3,9 @@ title: "Section 3753 - Applicability"
 usc_title: 12
 usc_section: "3753"
 chapter: 38
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "12 U.S.C. § 3753"
-generated_at: "2026-03-30T08:47:02.987Z"
+generated_at: "2026-03-30T08:49:16.658Z"
 status: "active"
 ---
 

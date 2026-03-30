@@ -3,9 +3,9 @@ title: "Section 2201 - Definitions"
 usc_title: 43
 usc_section: "2201"
 chapter: 40
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "43 U.S.C. § 2201"
-generated_at: "2026-03-30T08:47:51.482Z"
+generated_at: "2026-03-30T08:50:47.610Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17781 - Repealed or Omitted"
 usc_title: 42
 usc_section: "17781"
 chapter: 155
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 17781"
-generated_at: "2026-03-30T08:48:05.615Z"
+generated_at: "2026-03-30T08:51:07.457Z"
 status: "repealed"
 ---
 

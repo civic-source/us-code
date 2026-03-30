@@ -3,9 +3,9 @@ title: "Section 7651m - Enforcement"
 usc_title: 42
 usc_section: "7651m"
 chapter: 85
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "42 U.S.C. § 7651m"
-generated_at: "2026-03-30T08:48:05.473Z"
+generated_at: "2026-03-30T08:51:07.315Z"
 status: "active"
 ---
 

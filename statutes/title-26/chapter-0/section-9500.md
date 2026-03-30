@@ -3,9 +3,9 @@ title: "Section 9500 - Short title"
 usc_title: 26
 usc_section: "9500"
 chapter: 0
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "26 U.S.C. § 9500"
-generated_at: "2026-03-30T08:47:40.405Z"
+generated_at: "2026-03-30T08:50:34.831Z"
 status: "active"
 ---
 

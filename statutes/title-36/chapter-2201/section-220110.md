@@ -3,9 +3,9 @@ title: "Section 220110 - Principal office"
 usc_title: 36
 usc_section: "220110"
 chapter: 2201
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "36 U.S.C. § 220110"
-generated_at: "2026-03-30T08:47:46.662Z"
+generated_at: "2026-03-30T08:50:43.889Z"
 status: "active"
 ---
 

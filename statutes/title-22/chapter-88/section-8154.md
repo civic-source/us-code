@@ -3,9 +3,9 @@ title: "Section 8154 - Rule of construction"
 usc_title: 22
 usc_section: "8154"
 chapter: 88
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "22 U.S.C. § 8154"
-generated_at: "2026-03-30T08:47:25.381Z"
+generated_at: "2026-03-30T08:50:25.214Z"
 status: "active"
 ---
 

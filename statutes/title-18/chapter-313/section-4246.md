@@ -3,9 +3,9 @@ title: "Section 4246 - Hospitalization of a person due for release but suffering
 usc_title: 18
 usc_section: "4246"
 chapter: 313
-current_through: "PL 116-68"
+current_through: "PL 116-72"
 classification: "18 U.S.C. § 4246"
-generated_at: "2026-03-30T08:47:14.501Z"
+generated_at: "2026-03-30T08:49:28.998Z"
 status: "active"
 ---
 
