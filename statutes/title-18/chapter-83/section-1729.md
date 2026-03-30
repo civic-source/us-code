@@ -3,9 +3,9 @@ title: "Section 1729 - Post office conducted without authority"
 usc_title: 18
 usc_section: "1729"
 chapter: 83
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 1729"
-generated_at: "2026-03-30T08:52:26.121Z"
+generated_at: "2026-03-30T08:56:15.023Z"
 status: "active"
 ---
 

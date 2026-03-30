@@ -3,9 +3,9 @@ title: "Section 1510 - International agreements"
 usc_title: 33
 usc_section: "1510"
 chapter: 29
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 1510"
-generated_at: "2026-03-30T08:53:27.619Z"
+generated_at: "2026-03-30T08:56:54.039Z"
 status: "active"
 ---
 

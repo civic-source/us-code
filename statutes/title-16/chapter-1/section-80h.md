@@ -3,9 +3,9 @@ title: "Section 80h - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 16
 usc_section: "80h"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 80h"
-generated_at: "2026-03-30T08:52:57.482Z"
+generated_at: "2026-03-30T08:56:05.344Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8262d - Energy audit teams"
 usc_title: 42
 usc_section: "8262d"
 chapter: 91
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 8262d"
-generated_at: "2026-03-30T08:54:04.053Z"
+generated_at: "2026-03-30T08:57:32.566Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3273 - Offenses committed by certain United States personnel sta
 usc_title: 18
 usc_section: "3273"
 chapter: 212
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 3273"
-generated_at: "2026-03-30T08:52:26.140Z"
+generated_at: "2026-03-30T08:56:15.043Z"
 status: "active"
 ---
 

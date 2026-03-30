@@ -3,9 +3,9 @@ title: "Section 217a - Change in name of Abraham Lincoln National Historical Par
 usc_title: 16
 usc_section: "217a"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 217a"
-generated_at: "2026-03-30T08:52:57.491Z"
+generated_at: "2026-03-30T08:56:05.352Z"
 status: "active"
 ---
 

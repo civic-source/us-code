@@ -3,9 +3,9 @@ title: "Section 6614 - Funds advanced by Secretary of Senate to Sergeant at Arms
 usc_title: 2
 usc_section: "6614"
 chapter: 65
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 6614"
-generated_at: "2026-03-30T08:51:45.553Z"
+generated_at: "2026-03-30T08:54:57.540Z"
 status: "active"
 ---
 

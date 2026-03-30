@@ -3,9 +3,9 @@ title: "Section 918a - Energy generation, transmission, and distribution facilit
 usc_title: 7
 usc_section: "918a"
 chapter: 31
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 918a"
-generated_at: "2026-03-30T08:52:14.917Z"
+generated_at: "2026-03-30T08:55:28.472Z"
 status: "active"
 ---
 

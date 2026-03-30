@@ -3,9 +3,9 @@ title: "Section 81d - Addition of lands"
 usc_title: 16
 usc_section: "81d"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 81d"
-generated_at: "2026-03-30T08:52:57.483Z"
+generated_at: "2026-03-30T08:56:05.344Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10445 - Staff of Violence Against Women Office"
 usc_title: 34
 usc_section: "10445"
 chapter: 101
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "34 U.S.C. § 10445"
-generated_at: "2026-03-30T08:53:26.114Z"
+generated_at: "2026-03-30T08:56:51.146Z"
 status: "active"
 ---
 

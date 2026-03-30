@@ -3,9 +3,9 @@ title: "Section 3190 - Evidence on hearing"
 usc_title: 18
 usc_section: "3190"
 chapter: 209
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 3190"
-generated_at: "2026-03-30T08:52:26.139Z"
+generated_at: "2026-03-30T08:56:15.042Z"
 status: "active"
 ---
 

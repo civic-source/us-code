@@ -3,9 +3,9 @@ title: "Section 344 - Ascertainment of entitlement of State to funds; time and m
 usc_title: 7
 usc_section: "344"
 chapter: 13
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 344"
-generated_at: "2026-03-30T08:52:14.907Z"
+generated_at: "2026-03-30T08:55:28.462Z"
 status: "active"
 ---
 

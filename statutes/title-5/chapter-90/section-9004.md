@@ -3,9 +3,9 @@ title: "Section 9004 - Financing"
 usc_title: 5
 usc_section: "9004"
 chapter: 90
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "5 U.S.C. § 9004"
-generated_at: "2026-03-30T08:51:47.458Z"
+generated_at: "2026-03-30T08:54:55.131Z"
 status: "active"
 ---
 

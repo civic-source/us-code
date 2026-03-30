@@ -3,9 +3,9 @@ title: "Section 2705 - Identification and dissemination of best practices"
 usc_title: 29
 usc_section: "2705"
 chapter: 29
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "29 U.S.C. § 2705"
-generated_at: "2026-03-30T08:53:11.414Z"
+generated_at: "2026-03-30T08:56:28.275Z"
 status: "active"
 ---
 

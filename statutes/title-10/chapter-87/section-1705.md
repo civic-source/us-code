@@ -3,9 +3,9 @@ title: "Section 1705 - Department of Defense Acquisition Workforce Development F
 usc_title: 10
 usc_section: "1705"
 chapter: 87
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 1705"
-generated_at: "2026-03-30T08:51:58.159Z"
+generated_at: "2026-03-30T08:55:17.686Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2009 - Effect on other law and agreements"
 usc_title: 29
 usc_section: "2009"
 chapter: 22
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "29 U.S.C. § 2009"
-generated_at: "2026-03-30T08:53:11.412Z"
+generated_at: "2026-03-30T08:56:28.273Z"
 status: "active"
 ---
 

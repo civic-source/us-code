@@ -3,9 +3,9 @@ title: "Section 2253 - Action by President after determination of import injury"
 usc_title: 19
 usc_section: "2253"
 chapter: 12
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 2253"
-generated_at: "2026-03-30T08:52:27.259Z"
+generated_at: "2026-03-30T08:56:12.249Z"
 status: "active"
 ---
 

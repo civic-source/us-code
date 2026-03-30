@@ -3,9 +3,9 @@ title: "Section 3797d - Transferred"
 usc_title: 42
 usc_section: "3797d"
 chapter: 46
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 3797d"
-generated_at: "2026-03-30T08:54:03.928Z"
+generated_at: "2026-03-30T08:57:32.440Z"
 status: "transferred"
 ---
 

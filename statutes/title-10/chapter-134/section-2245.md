@@ -3,9 +3,9 @@ title: "Section 2245 - Use of aircraft for proficiency flying: limitation"
 usc_title: 10
 usc_section: "2245"
 chapter: 134
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 2245"
-generated_at: "2026-03-30T08:51:58.170Z"
+generated_at: "2026-03-30T08:55:17.696Z"
 status: "active"
 ---
 

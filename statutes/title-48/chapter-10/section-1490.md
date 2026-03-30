@@ -3,9 +3,9 @@ title: "Section 1490 - Repealed. Mar. 3, 1933, ch. 202, § 1 , 47 Stat. 1428"
 usc_title: 48
 usc_section: "1490"
 chapter: 10
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "48 U.S.C. § 1490"
-generated_at: "2026-03-30T08:54:07.336Z"
+generated_at: "2026-03-30T08:57:35.586Z"
 status: "repealed"
 ---
 

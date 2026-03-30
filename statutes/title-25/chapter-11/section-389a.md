@@ -3,9 +3,9 @@ title: "Section 389a - Declaring lands to be temporarily nonirrigable"
 usc_title: 25
 usc_section: "389a"
 chapter: 11
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "25 U.S.C. § 389a"
-generated_at: "2026-03-30T08:53:07.492Z"
+generated_at: "2026-03-30T08:56:18.356Z"
 status: "active"
 ---
 

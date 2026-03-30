@@ -3,9 +3,9 @@ title: "Section 3214 - Mailing privilege of former President; surviving spouse o
 usc_title: 39
 usc_section: "3214"
 chapter: 32
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "39 U.S.C. § 3214"
-generated_at: "2026-03-30T08:53:29.249Z"
+generated_at: "2026-03-30T08:56:55.746Z"
 status: "active"
 ---
 

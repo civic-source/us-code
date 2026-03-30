@@ -3,9 +3,9 @@ title: "Section 6202 - Investigations to assist foreign antitrust authority in o
 usc_title: 15
 usc_section: "6202"
 chapter: 88
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 6202"
-generated_at: "2026-03-30T08:52:20.708Z"
+generated_at: "2026-03-30T08:55:58.074Z"
 status: "active"
 ---
 

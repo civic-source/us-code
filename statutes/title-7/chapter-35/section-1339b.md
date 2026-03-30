@@ -3,9 +3,9 @@ title: "Section 1339b - Wheat diversion programs; credits in establishment of St
 usc_title: 7
 usc_section: "1339b"
 chapter: 35
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 1339b"
-generated_at: "2026-03-30T08:52:14.924Z"
+generated_at: "2026-03-30T08:55:28.479Z"
 status: "active"
 ---
 

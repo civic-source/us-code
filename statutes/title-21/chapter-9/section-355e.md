@@ -3,9 +3,9 @@ title: "Section 355e - Pharmaceutical security"
 usc_title: 21
 usc_section: "355e"
 chapter: 9
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "21 U.S.C. § 355e"
-generated_at: "2026-03-30T08:53:02.291Z"
+generated_at: "2026-03-30T08:56:24.213Z"
 status: "active"
 ---
 

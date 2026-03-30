@@ -3,9 +3,9 @@ title: "Section 477 - Model civil justice expense and delay reduction plan"
 usc_title: 28
 usc_section: "477"
 chapter: 23
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "28 U.S.C. § 477"
-generated_at: "2026-03-30T08:53:10.619Z"
+generated_at: "2026-03-30T08:56:33.729Z"
 status: "active"
 ---
 

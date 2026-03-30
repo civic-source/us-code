@@ -3,9 +3,9 @@ title: "Section 2 - Use of loan proceeds to refinance loans for deployment of br
 usc_title: 7
 usc_section: "2"
 chapter: 31
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T08:52:14.920Z"
+generated_at: "2026-03-30T08:55:28.475Z"
 status: "active"
 ---
 

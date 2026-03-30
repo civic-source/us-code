@@ -3,9 +3,9 @@ title: "Section 7103 - Cross references—Other provisions for bonds"
 usc_title: 26
 usc_section: "7103"
 chapter: 73
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 7103"
-generated_at: "2026-03-30T08:53:23.309Z"
+generated_at: "2026-03-30T08:56:41.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7541 - Army arsenals: treatment of unutilized or underutilized p
 usc_title: 10
 usc_section: "7541"
 chapter: 763
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 7541"
-generated_at: "2026-03-30T08:51:58.211Z"
+generated_at: "2026-03-30T08:55:17.736Z"
 status: "active"
 ---
 

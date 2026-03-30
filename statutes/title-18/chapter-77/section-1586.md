@@ -3,9 +3,9 @@ title: "Section 1586 - Service on vessels in slave trade"
 usc_title: 18
 usc_section: "1586"
 chapter: 77
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 1586"
-generated_at: "2026-03-30T08:52:26.119Z"
+generated_at: "2026-03-30T08:56:15.021Z"
 status: "active"
 ---
 

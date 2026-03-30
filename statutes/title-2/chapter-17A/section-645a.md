@@ -3,9 +3,9 @@ title: "Section 645a - Effect of adoption of special order of business in House 
 usc_title: 2
 usc_section: "645a"
 chapter: 17
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 645a"
-generated_at: "2026-03-30T08:51:45.520Z"
+generated_at: "2026-03-30T08:54:57.508Z"
 status: "active"
 ---
 

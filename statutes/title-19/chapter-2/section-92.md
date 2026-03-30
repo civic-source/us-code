@@ -3,9 +3,9 @@ title: "Section 92 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 19
 usc_section: "92"
 chapter: 2
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 92"
-generated_at: "2026-03-30T08:52:27.224Z"
+generated_at: "2026-03-30T08:56:12.214Z"
 status: "repealed"
 ---
 

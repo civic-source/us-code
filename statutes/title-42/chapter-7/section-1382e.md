@@ -3,9 +3,9 @@ title: "Section 1382e - Supplementary assistance by State or sub­division to ne
 usc_title: 42
 usc_section: "1382e"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 1382e"
-generated_at: "2026-03-30T08:54:03.708Z"
+generated_at: "2026-03-30T08:57:32.241Z"
 status: "active"
 ---
 

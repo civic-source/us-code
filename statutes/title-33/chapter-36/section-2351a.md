@@ -3,9 +3,9 @@ title: "Section 2351a - Operation and maintenance of existing infrastructure"
 usc_title: 33
 usc_section: "2351a"
 chapter: 36
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 2351a"
-generated_at: "2026-03-30T08:53:27.634Z"
+generated_at: "2026-03-30T08:56:54.053Z"
 status: "active"
 ---
 

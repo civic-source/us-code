@@ -3,9 +3,9 @@ title: "Section 6448 - Publication in Federal Register"
 usc_title: 22
 usc_section: "6448"
 chapter: 73
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 6448"
-generated_at: "2026-03-30T08:53:05.124Z"
+generated_at: "2026-03-30T08:56:22.278Z"
 status: "active"
 ---
 

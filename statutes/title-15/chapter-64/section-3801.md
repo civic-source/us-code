@@ -3,9 +3,9 @@ title: "Section 3801 - Congressional statement of findings and declaration of po
 usc_title: 15
 usc_section: "3801"
 chapter: 64
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 3801"
-generated_at: "2026-03-30T08:52:20.698Z"
+generated_at: "2026-03-30T08:55:58.063Z"
 status: "active"
 ---
 

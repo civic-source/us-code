@@ -3,9 +3,9 @@ title: "Section 7 - Library"
 usc_title: 35
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "35 U.S.C. § 7"
-generated_at: "2026-03-30T08:53:25.097Z"
+generated_at: "2026-03-30T08:56:43.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7833 - Assistance provided outside of North Korea"
 usc_title: 22
 usc_section: "7833"
 chapter: 85
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 7833"
-generated_at: "2026-03-30T08:53:05.140Z"
+generated_at: "2026-03-30T08:56:22.295Z"
 status: "active"
 ---
 

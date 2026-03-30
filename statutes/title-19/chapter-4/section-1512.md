@@ -3,9 +3,9 @@ title: "Section 1512 - Deposit of duty receipts"
 usc_title: 19
 usc_section: "1512"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 1512"
-generated_at: "2026-03-30T08:52:27.236Z"
+generated_at: "2026-03-30T08:56:12.226Z"
 status: "active"
 ---
 

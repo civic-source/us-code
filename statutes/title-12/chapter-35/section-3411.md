@@ -3,9 +3,9 @@ title: "Section 3411 - Duty of financial institutions"
 usc_title: 12
 usc_section: "3411"
 chapter: 35
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "12 U.S.C. § 3411"
-generated_at: "2026-03-30T08:52:22.761Z"
+generated_at: "2026-03-30T08:55:36.817Z"
 status: "active"
 ---
 

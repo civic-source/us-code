@@ -3,9 +3,9 @@ title: "Section 1649 - Change in designation of customs attachés"
 usc_title: 19
 usc_section: "1649"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 1649"
-generated_at: "2026-03-30T08:52:27.243Z"
+generated_at: "2026-03-30T08:56:12.233Z"
 status: "active"
 ---
 

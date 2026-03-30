@@ -3,9 +3,9 @@ title: "Section 2534 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "2534"
 chapter: 148
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 2534"
-generated_at: "2026-03-30T08:51:58.191Z"
+generated_at: "2026-03-30T08:55:17.717Z"
 status: "active"
 ---
 

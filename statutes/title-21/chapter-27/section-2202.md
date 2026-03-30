@@ -3,9 +3,9 @@ title: "Section 2202 - National Agriculture and Food Defense Strategy"
 usc_title: 21
 usc_section: "2202"
 chapter: 27
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "21 U.S.C. § 2202"
-generated_at: "2026-03-30T08:53:02.347Z"
+generated_at: "2026-03-30T08:56:24.269Z"
 status: "active"
 ---
 

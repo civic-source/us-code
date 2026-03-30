@@ -3,9 +3,9 @@ title: "Section 12163 - Conformance of accessibility standards"
 usc_title: 42
 usc_section: "12163"
 chapter: 126
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 12163"
-generated_at: "2026-03-30T08:54:04.116Z"
+generated_at: "2026-03-30T08:57:32.629Z"
 status: "active"
 ---
 

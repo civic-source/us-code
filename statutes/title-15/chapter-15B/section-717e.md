@@ -3,9 +3,9 @@ title: "Section 717e - Ascertainment of cost of property"
 usc_title: 15
 usc_section: "717e"
 chapter: 15
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 717e"
-generated_at: "2026-03-30T08:52:20.627Z"
+generated_at: "2026-03-30T08:55:57.995Z"
 status: "active"
 ---
 

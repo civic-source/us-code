@@ -3,9 +3,9 @@ title: "Section 5122 - Cancellation of checks mailed to deceased payees"
 usc_title: 38
 usc_section: "5122"
 chapter: 51
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "38 U.S.C. § 5122"
-generated_at: "2026-03-30T08:53:31.733Z"
+generated_at: "2026-03-30T08:57:14.277Z"
 status: "active"
 ---
 

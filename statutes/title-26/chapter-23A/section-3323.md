@@ -3,9 +3,9 @@ title: "Section 3323 - Omitted]"
 usc_title: 26
 usc_section: "3323"
 chapter: 23
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 3323"
-generated_at: "2026-03-30T08:53:23.247Z"
+generated_at: "2026-03-30T08:56:41.449Z"
 status: "omitted"
 ---
 

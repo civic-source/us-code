@@ -3,9 +3,9 @@ title: "Section 7518 - Micro-grants for food security"
 usc_title: 7
 usc_section: "7518"
 chapter: 102
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 7518"
-generated_at: "2026-03-30T08:52:15.034Z"
+generated_at: "2026-03-30T08:55:28.594Z"
 status: "active"
 ---
 

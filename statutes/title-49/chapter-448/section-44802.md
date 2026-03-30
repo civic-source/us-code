@@ -3,9 +3,9 @@ title: "Section 44802 - Integration of civil unmanned aircraft systems into nati
 usc_title: 49
 usc_section: "44802"
 chapter: 448
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "49 U.S.C. § 44802"
-generated_at: "2026-03-30T08:54:30.072Z"
+generated_at: "2026-03-30T08:57:40.871Z"
 status: "active"
 ---
 

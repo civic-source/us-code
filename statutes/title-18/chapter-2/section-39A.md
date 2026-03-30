@@ -3,9 +3,9 @@ title: "Section 39A - Aiming a laser pointer at an aircraft"
 usc_title: 18
 usc_section: "39A"
 chapter: 2
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 39A"
-generated_at: "2026-03-30T08:52:26.096Z"
+generated_at: "2026-03-30T08:56:14.996Z"
 status: "active"
 ---
 

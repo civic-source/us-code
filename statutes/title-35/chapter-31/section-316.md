@@ -3,9 +3,9 @@ title: "Section 316 - Conduct of inter partes review"
 usc_title: 35
 usc_section: "316"
 chapter: 31
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "35 U.S.C. § 316"
-generated_at: "2026-03-30T08:53:25.102Z"
+generated_at: "2026-03-30T08:56:43.859Z"
 status: "active"
 ---
 

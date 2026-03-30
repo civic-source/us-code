@@ -3,9 +3,9 @@ title: "Section 608 - Permits to cut and remove timber; citizens of Malheur Coun
 usc_title: 16
 usc_section: "608"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 608"
-generated_at: "2026-03-30T08:52:57.584Z"
+generated_at: "2026-03-30T08:56:05.445Z"
 status: "active"
 ---
 

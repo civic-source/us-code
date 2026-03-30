@@ -3,9 +3,9 @@ title: "Section 530 - Cooperation for purposes of development and administration
 usc_title: 16
 usc_section: "530"
 chapter: 2
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 530"
-generated_at: "2026-03-30T08:52:57.569Z"
+generated_at: "2026-03-30T08:56:05.430Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1088 - Definitions"
 usc_title: 20
 usc_section: "1088"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1088"
-generated_at: "2026-03-30T08:52:29.511Z"
+generated_at: "2026-03-30T08:56:07.145Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2103b - Repealed. Pub. L. 113–79, title VIII, § 8002 , Feb. 7
 usc_title: 16
 usc_section: "2103b"
 chapter: 41
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 2103b"
-generated_at: "2026-03-30T08:52:57.656Z"
+generated_at: "2026-03-30T08:56:05.522Z"
 status: "repealed"
 ---
 

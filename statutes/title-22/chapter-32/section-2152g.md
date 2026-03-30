@@ -3,9 +3,9 @@ title: "Section 2152g - Annual report"
 usc_title: 22
 usc_section: "2152g"
 chapter: 32
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2152g"
-generated_at: "2026-03-30T08:53:05.054Z"
+generated_at: "2026-03-30T08:56:22.206Z"
 status: "active"
 ---
 

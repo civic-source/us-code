@@ -3,9 +3,9 @@ title: "Section 5401 - Omitted"
 usc_title: 16
 usc_section: "5401"
 chapter: 74
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 5401"
-generated_at: "2026-03-30T08:52:57.691Z"
+generated_at: "2026-03-30T08:56:05.558Z"
 status: "omitted"
 ---
 

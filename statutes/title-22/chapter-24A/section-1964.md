@@ -3,9 +3,9 @@ title: "Section 1964 - Report to Congress"
 usc_title: 22
 usc_section: "1964"
 chapter: 24
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 1964"
-generated_at: "2026-03-30T08:53:05.047Z"
+generated_at: "2026-03-30T08:56:22.199Z"
 status: "active"
 ---
 

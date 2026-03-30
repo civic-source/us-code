@@ -3,9 +3,9 @@ title: "Section 715g - Omitted"
 usc_title: 25
 usc_section: "715g"
 chapter: 14
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "25 U.S.C. § 715g"
-generated_at: "2026-03-30T08:53:07.496Z"
+generated_at: "2026-03-30T08:56:18.361Z"
 status: "omitted"
 ---
 

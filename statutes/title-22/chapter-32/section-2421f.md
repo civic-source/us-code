@@ -3,9 +3,9 @@ title: "Section 2421f - Sustainability requirements for certain capital projects
 usc_title: 22
 usc_section: "2421f"
 chapter: 32
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2421f"
-generated_at: "2026-03-30T08:53:05.070Z"
+generated_at: "2026-03-30T08:56:22.223Z"
 status: "active"
 ---
 

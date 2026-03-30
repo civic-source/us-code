@@ -3,9 +3,9 @@ title: "Section 2071 - Organization and charters"
 usc_title: 12
 usc_section: "2071"
 chapter: 23
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "12 U.S.C. § 2071"
-generated_at: "2026-03-30T08:52:22.740Z"
+generated_at: "2026-03-30T08:55:36.798Z"
 status: "active"
 ---
 

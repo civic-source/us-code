@@ -3,9 +3,9 @@ title: "Section 1717 - Documents and reports for foreign legations"
 usc_title: 44
 usc_section: "1717"
 chapter: 17
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "44 U.S.C. § 1717"
-generated_at: "2026-03-30T08:53:34.430Z"
+generated_at: "2026-03-30T08:57:17.464Z"
 status: "active"
 ---
 

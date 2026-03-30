@@ -3,9 +3,9 @@ title: "Section 1472 - Department of State and other Government agencies"
 usc_title: 22
 usc_section: "1472"
 chapter: 18
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 1472"
-generated_at: "2026-03-30T08:53:05.041Z"
+generated_at: "2026-03-30T08:56:22.194Z"
 status: "active"
 ---
 

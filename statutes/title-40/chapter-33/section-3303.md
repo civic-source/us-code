@@ -3,9 +3,9 @@ title: "Section 3303 - Continuing investigation and survey of public buildings"
 usc_title: 40
 usc_section: "3303"
 chapter: 33
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "40 U.S.C. § 3303"
-generated_at: "2026-03-30T08:53:30.627Z"
+generated_at: "2026-03-30T08:56:56.458Z"
 status: "active"
 ---
 

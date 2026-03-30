@@ -3,9 +3,9 @@ title: "Section 1751 - Delegate to House of Representatives from Commonwealth of
 usc_title: 48
 usc_section: "1751"
 chapter: 16
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "48 U.S.C. § 1751"
-generated_at: "2026-03-30T08:54:07.340Z"
+generated_at: "2026-03-30T08:57:35.589Z"
 status: "active"
 ---
 

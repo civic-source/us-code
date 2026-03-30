@@ -3,9 +3,9 @@ title: "Section 879 - Art. 79. Conviction of offense charged, lesser included of
 usc_title: 10
 usc_section: "879"
 chapter: 47
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 879"
-generated_at: "2026-03-30T08:51:58.125Z"
+generated_at: "2026-03-30T08:55:17.651Z"
 status: "active"
 ---
 

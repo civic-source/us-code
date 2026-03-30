@@ -3,9 +3,9 @@ title: "Section 7625a - Statutory construction"
 usc_title: 42
 usc_section: "7625a"
 chapter: 85
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 7625a"
-generated_at: "2026-03-30T08:54:04.038Z"
+generated_at: "2026-03-30T08:57:32.550Z"
 status: "active"
 ---
 

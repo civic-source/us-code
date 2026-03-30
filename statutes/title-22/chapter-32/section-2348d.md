@@ -3,9 +3,9 @@ title: "Section 2348d - Data on costs incurred in support of United Nations peac
 usc_title: 22
 usc_section: "2348d"
 chapter: 32
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2348d"
-generated_at: "2026-03-30T08:53:05.064Z"
+generated_at: "2026-03-30T08:56:22.217Z"
 status: "active"
 ---
 

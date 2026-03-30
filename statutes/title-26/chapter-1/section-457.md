@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T08:53:23.169Z"
+generated_at: "2026-03-30T08:56:41.378Z"
 status: "active"
 ---
 

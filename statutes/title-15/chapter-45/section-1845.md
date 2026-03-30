@@ -3,9 +3,9 @@ title: "Section 1845 - Requirements applicable to loan guarantees"
 usc_title: 15
 usc_section: "1845"
 chapter: 45
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 1845"
-generated_at: "2026-03-30T08:52:20.666Z"
+generated_at: "2026-03-30T08:55:58.033Z"
 status: "active"
 ---
 

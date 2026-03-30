@@ -3,9 +3,9 @@ title: "Section 47 - Eagle Lake, Louisiana-Mississippi"
 usc_title: 33
 usc_section: "47"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 47"
-generated_at: "2026-03-30T08:53:27.568Z"
+generated_at: "2026-03-30T08:56:53.991Z"
 status: "active"
 ---
 

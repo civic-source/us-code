@@ -3,9 +3,9 @@ title: "Section 622 - Collocation among United States Postal Service properties"
 usc_title: 40
 usc_section: "622"
 chapter: 5
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "40 U.S.C. § 622"
-generated_at: "2026-03-30T08:53:30.625Z"
+generated_at: "2026-03-30T08:56:56.456Z"
 status: "active"
 ---
 

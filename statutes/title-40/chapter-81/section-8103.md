@@ -3,9 +3,9 @@ title: "Section 8103 - Application of District of Columbia laws to public buildi
 usc_title: 40
 usc_section: "8103"
 chapter: 81
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "40 U.S.C. § 8103"
-generated_at: "2026-03-30T08:53:30.631Z"
+generated_at: "2026-03-30T08:56:56.462Z"
 status: "active"
 ---
 

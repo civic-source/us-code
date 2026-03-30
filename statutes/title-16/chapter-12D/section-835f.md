@@ -3,9 +3,9 @@ title: "Section 835f - Use of funds deposited to allottees; land and improvement
 usc_title: 16
 usc_section: "835f"
 chapter: 12
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 835f"
-generated_at: "2026-03-30T08:52:57.612Z"
+generated_at: "2026-03-30T08:56:05.475Z"
 status: "active"
 ---
 

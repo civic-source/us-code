@@ -3,9 +3,9 @@ title: "Section 5104 - Regulations"
 usc_title: 7
 usc_section: "5104"
 chapter: 82
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 5104"
-generated_at: "2026-03-30T08:52:15.003Z"
+generated_at: "2026-03-30T08:55:28.562Z"
 status: "active"
 ---
 

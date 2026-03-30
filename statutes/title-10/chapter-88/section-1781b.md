@@ -3,9 +3,9 @@ title: "Section 1781b - Department of Defense policy and plans for military fami
 usc_title: 10
 usc_section: "1781b"
 chapter: 88
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 1781b"
-generated_at: "2026-03-30T08:51:58.161Z"
+generated_at: "2026-03-30T08:55:17.688Z"
 status: "active"
 ---
 

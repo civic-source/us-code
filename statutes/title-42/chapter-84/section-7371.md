@@ -3,9 +3,9 @@ title: "Section 7371 - Statement of purpose"
 usc_title: 42
 usc_section: "7371"
 chapter: 84
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 7371"
-generated_at: "2026-03-30T08:54:04.011Z"
+generated_at: "2026-03-30T08:57:32.522Z"
 status: "active"
 ---
 

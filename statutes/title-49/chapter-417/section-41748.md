@@ -3,9 +3,9 @@ title: "Section 41748 - Marketing program"
 usc_title: 49
 usc_section: "41748"
 chapter: 417
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "49 U.S.C. § 41748"
-generated_at: "2026-03-30T08:54:30.065Z"
+generated_at: "2026-03-30T08:57:40.863Z"
 status: "active"
 ---
 

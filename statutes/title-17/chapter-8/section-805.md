@@ -3,9 +3,9 @@ title: "Section 805 - General rule for voluntarily negotiated agreements"
 usc_title: 17
 usc_section: "805"
 chapter: 8
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "17 U.S.C. § 805"
-generated_at: "2026-03-30T08:52:34.078Z"
+generated_at: "2026-03-30T08:56:12.469Z"
 status: "active"
 ---
 

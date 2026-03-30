@@ -3,9 +3,9 @@ title: "Section 711 - Coast Guard officers as attachés to missions"
 usc_title: 14
 usc_section: "711"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "14 U.S.C. § 711"
-generated_at: "2026-03-30T08:52:17.232Z"
+generated_at: "2026-03-30T08:55:30.667Z"
 status: "active"
 ---
 

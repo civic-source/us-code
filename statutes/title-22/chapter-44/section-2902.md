@@ -3,9 +3,9 @@ title: "Section 2902 - Japan-United States Friendship Trust Fund"
 usc_title: 22
 usc_section: "2902"
 chapter: 44
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2902"
-generated_at: "2026-03-30T08:53:05.088Z"
+generated_at: "2026-03-30T08:56:22.242Z"
 status: "active"
 ---
 

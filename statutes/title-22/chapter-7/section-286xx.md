@@ -3,9 +3,9 @@ title: "Section 286xx - Quota increase"
 usc_title: 22
 usc_section: "286xx"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 286xx"
-generated_at: "2026-03-30T08:53:05.030Z"
+generated_at: "2026-03-30T08:56:22.182Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 765b - Elimination of procurement preferences"
 usc_title: 47
 usc_section: "765b"
 chapter: 6
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "47 U.S.C. § 765b"
-generated_at: "2026-03-30T08:54:13.548Z"
+generated_at: "2026-03-30T08:57:36.219Z"
 status: "active"
 ---
 

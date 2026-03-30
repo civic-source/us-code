@@ -3,9 +3,9 @@ title: "Section 13a - Carryover funding"
 usc_title: 25
 usc_section: "13a"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "25 U.S.C. § 13a"
-generated_at: "2026-03-30T08:53:07.484Z"
+generated_at: "2026-03-30T08:56:18.348Z"
 status: "active"
 ---
 

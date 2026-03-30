@@ -3,9 +3,9 @@ title: "Section 1458 - Cooperation with State authorities; transmittal of regula
 usc_title: 15
 usc_section: "1458"
 chapter: 39
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 1458"
-generated_at: "2026-03-30T08:52:20.644Z"
+generated_at: "2026-03-30T08:55:58.011Z"
 status: "active"
 ---
 

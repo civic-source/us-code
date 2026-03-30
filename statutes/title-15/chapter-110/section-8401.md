@@ -3,9 +3,9 @@ title: "Section 8401 - Findings; declaration of policy"
 usc_title: 15
 usc_section: "8401"
 chapter: 110
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 8401"
-generated_at: "2026-03-30T08:52:20.727Z"
+generated_at: "2026-03-30T08:55:58.093Z"
 status: "active"
 ---
 

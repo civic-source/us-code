@@ -3,9 +3,9 @@ title: "Section 51101 - Definitions"
 usc_title: 51
 usc_section: "51101"
 chapter: 511
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "51 U.S.C. § 51101"
-generated_at: "2026-03-30T08:54:42.218Z"
+generated_at: "2026-03-30T08:57:56.454Z"
 status: "active"
 ---
 

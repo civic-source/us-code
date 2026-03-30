@@ -3,9 +3,9 @@ title: "Section 1141k - Duration, affidavits and fees"
 usc_title: 15
 usc_section: "1141k"
 chapter: 22
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 1141k"
-generated_at: "2026-03-30T08:52:20.637Z"
+generated_at: "2026-03-30T08:55:58.005Z"
 status: "active"
 ---
 

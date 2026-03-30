@@ -3,9 +3,9 @@ title: "Section 2569 - Acceleration of removal or security of fissile materials,
 usc_title: 50
 usc_section: "2569"
 chapter: 42
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "50 U.S.C. § 2569"
-generated_at: "2026-03-30T08:54:37.715Z"
+generated_at: "2026-03-30T08:57:54.489Z"
 status: "active"
 ---
 

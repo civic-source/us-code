@@ -3,9 +3,9 @@ title: "Section 571 - Warrant officers: grades"
 usc_title: 10
 usc_section: "571"
 chapter: 33
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 571"
-generated_at: "2026-03-30T08:51:58.113Z"
+generated_at: "2026-03-30T08:55:17.640Z"
 status: "active"
 ---
 

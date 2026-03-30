@@ -3,9 +3,9 @@ title: "Section 101122 - Authorization of appropriations; use of funds"
 usc_title: 54
 usc_section: "101122"
 chapter: 1011
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "54 U.S.C. § 101122"
-generated_at: "2026-03-30T08:54:39.802Z"
+generated_at: "2026-03-30T08:57:56.696Z"
 status: "active"
 ---
 

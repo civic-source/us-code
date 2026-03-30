@@ -3,9 +3,9 @@ title: "Section 844a - Omitted"
 usc_title: 20
 usc_section: "844a"
 chapter: 24
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 844a"
-generated_at: "2026-03-30T08:52:29.473Z"
+generated_at: "2026-03-30T08:56:07.108Z"
 status: "omitted"
 ---
 

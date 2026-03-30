@@ -3,9 +3,9 @@ title: "Section 5601 - Transferred"
 usc_title: 15
 usc_section: "5601"
 chapter: 82
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 5601"
-generated_at: "2026-03-30T08:52:20.707Z"
+generated_at: "2026-03-30T08:55:58.072Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9241b - Sanctions on foreign persons employing North Korean labo
 usc_title: 22
 usc_section: "9241b"
 chapter: 99
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 9241b"
-generated_at: "2026-03-30T08:53:05.154Z"
+generated_at: "2026-03-30T08:56:22.310Z"
 status: "active"
 ---
 

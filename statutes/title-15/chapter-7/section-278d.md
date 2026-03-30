@@ -3,9 +3,9 @@ title: "Section 278d - Construction and improvement of buildings and facilities"
 usc_title: 15
 usc_section: "278d"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 278d"
-generated_at: "2026-03-30T08:52:20.594Z"
+generated_at: "2026-03-30T08:55:57.964Z"
 status: "active"
 ---
 

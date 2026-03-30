@@ -3,9 +3,9 @@ title: "Section 661 - Occupational Safety and Health Review Commission"
 usc_title: 29
 usc_section: "661"
 chapter: 15
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "29 U.S.C. § 661"
-generated_at: "2026-03-30T08:53:11.371Z"
+generated_at: "2026-03-30T08:56:28.231Z"
 status: "active"
 ---
 

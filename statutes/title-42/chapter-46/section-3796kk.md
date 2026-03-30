@@ -3,9 +3,9 @@ title: "Section 3796kk - Transferred"
 usc_title: 42
 usc_section: "3796kk"
 chapter: 46
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 3796kk"
-generated_at: "2026-03-30T08:54:03.928Z"
+generated_at: "2026-03-30T08:57:32.440Z"
 status: "transferred"
 ---
 

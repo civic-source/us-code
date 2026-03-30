@@ -3,9 +3,9 @@ title: "Section 2252 - Project delivery process reforms"
 usc_title: 33
 usc_section: "2252"
 chapter: 36
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 2252"
-generated_at: "2026-03-30T08:53:27.625Z"
+generated_at: "2026-03-30T08:56:54.045Z"
 status: "active"
 ---
 

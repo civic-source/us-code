@@ -3,9 +3,9 @@ title: "Section 6157 - Services of consultants to Majority and Minority Conferen
 usc_title: 2
 usc_section: "6157"
 chapter: 61
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 6157"
-generated_at: "2026-03-30T08:51:45.551Z"
+generated_at: "2026-03-30T08:54:57.538Z"
 status: "active"
 ---
 

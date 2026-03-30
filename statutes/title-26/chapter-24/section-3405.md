@@ -3,9 +3,9 @@ title: "Section 3405 - Special rules for pensions, annuities, and certain other 
 usc_title: 26
 usc_section: "3405"
 chapter: 24
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 3405"
-generated_at: "2026-03-30T08:53:23.249Z"
+generated_at: "2026-03-30T08:56:41.450Z"
 status: "active"
 ---
 

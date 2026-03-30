@@ -3,9 +3,9 @@ title: "Section 121 - Annual report of president and directors"
 usc_title: 20
 usc_section: "121"
 chapter: 8
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 121"
-generated_at: "2026-03-30T08:52:29.472Z"
+generated_at: "2026-03-30T08:56:07.106Z"
 status: "active"
 ---
 

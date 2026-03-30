@@ -3,9 +3,9 @@ title: "Section 5422 - Labor market transition in Poland and Hungary"
 usc_title: 22
 usc_section: "5422"
 chapter: 63
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 5422"
-generated_at: "2026-03-30T08:53:05.113Z"
+generated_at: "2026-03-30T08:56:22.267Z"
 status: "active"
 ---
 

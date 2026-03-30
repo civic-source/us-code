@@ -3,9 +3,9 @@ title: "Section 101340 - Use of funds"
 usc_title: 54
 usc_section: "101340"
 chapter: 1013
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "54 U.S.C. § 101340"
-generated_at: "2026-03-30T08:54:39.803Z"
+generated_at: "2026-03-30T08:57:56.696Z"
 status: "active"
 ---
 

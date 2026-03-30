@@ -3,9 +3,9 @@ title: "Section 3611 - Authorization of appropriations"
 usc_title: 20
 usc_section: "3611"
 chapter: 49
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 3611"
-generated_at: "2026-03-30T08:52:29.552Z"
+generated_at: "2026-03-30T08:56:07.186Z"
 status: "active"
 ---
 

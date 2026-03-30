@@ -3,9 +3,9 @@ title: "Section 451 - Advisory committees"
 usc_title: 6
 usc_section: "451"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "6 U.S.C. § 451"
-generated_at: "2026-03-30T08:52:04.873Z"
+generated_at: "2026-03-30T08:55:03.538Z"
 status: "active"
 ---
 

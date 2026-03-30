@@ -3,9 +3,9 @@ title: "Section 159 - Revocation or suspension of drivers’ licenses of individ
 usc_title: 23
 usc_section: "159"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "23 U.S.C. § 159"
-generated_at: "2026-03-30T08:53:06.780Z"
+generated_at: "2026-03-30T08:56:18.795Z"
 status: "active"
 ---
 

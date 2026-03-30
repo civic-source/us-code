@@ -3,9 +3,9 @@ title: "Section 281 - Honeybee importation"
 usc_title: 7
 usc_section: "281"
 chapter: 11
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 281"
-generated_at: "2026-03-30T08:52:14.906Z"
+generated_at: "2026-03-30T08:55:28.460Z"
 status: "active"
 ---
 

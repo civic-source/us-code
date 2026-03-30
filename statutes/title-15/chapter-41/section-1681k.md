@@ -3,9 +3,9 @@ title: "Section 1681k - Public record information for employment purposes"
 usc_title: 15
 usc_section: "1681k"
 chapter: 41
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 1681k"
-generated_at: "2026-03-30T08:52:20.658Z"
+generated_at: "2026-03-30T08:55:58.025Z"
 status: "active"
 ---
 

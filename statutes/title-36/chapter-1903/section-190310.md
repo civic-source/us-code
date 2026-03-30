@@ -3,9 +3,9 @@ title: "Section 190310 - Records and inspection"
 usc_title: 36
 usc_section: "190310"
 chapter: 1903
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "36 U.S.C. § 190310"
-generated_at: "2026-03-30T08:53:29.857Z"
+generated_at: "2026-03-30T08:56:58.052Z"
 status: "active"
 ---
 

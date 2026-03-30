@@ -3,9 +3,9 @@ title: "Section 3204 - Workforce councils"
 usc_title: 29
 usc_section: "3204"
 chapter: 32
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "29 U.S.C. § 3204"
-generated_at: "2026-03-30T08:53:11.425Z"
+generated_at: "2026-03-30T08:56:28.285Z"
 status: "active"
 ---
 

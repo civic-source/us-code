@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(25), 60
 usc_title: 22
 usc_section: "9"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 9"
-generated_at: "2026-03-30T08:53:05.014Z"
+generated_at: "2026-03-30T08:56:22.166Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 609 - Use of military authority to influence vote of member of A
 usc_title: 18
 usc_section: "609"
 chapter: 29
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 609"
-generated_at: "2026-03-30T08:52:26.102Z"
+generated_at: "2026-03-30T08:56:15.005Z"
 status: "active"
 ---
 

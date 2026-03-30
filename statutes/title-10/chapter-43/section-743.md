@@ -3,9 +3,9 @@ title: "Section 743 - Rank: Chief of Staff of the Army; Chief of Naval Operation
 usc_title: 10
 usc_section: "743"
 chapter: 43
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 743"
-generated_at: "2026-03-30T08:51:58.120Z"
+generated_at: "2026-03-30T08:55:17.646Z"
 status: "active"
 ---
 

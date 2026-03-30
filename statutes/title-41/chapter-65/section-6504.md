@@ -3,9 +3,9 @@ title: "Section 6504 - Three-year prohibition on new contracts in case of breach
 usc_title: 41
 usc_section: "6504"
 chapter: 65
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "41 U.S.C. § 6504"
-generated_at: "2026-03-30T08:53:33.499Z"
+generated_at: "2026-03-30T08:57:22.257Z"
 status: "active"
 ---
 

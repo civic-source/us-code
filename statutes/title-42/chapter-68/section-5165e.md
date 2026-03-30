@@ -3,9 +3,9 @@ title: "Section 5165e - Integrated plan for administrative cost reduction"
 usc_title: 42
 usc_section: "5165e"
 chapter: 68
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 5165e"
-generated_at: "2026-03-30T08:54:03.953Z"
+generated_at: "2026-03-30T08:57:32.464Z"
 status: "active"
 ---
 

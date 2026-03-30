@@ -3,9 +3,9 @@ title: "Section 2503 - Technical assistance"
 usc_title: 29
 usc_section: "2503"
 chapter: 27
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "29 U.S.C. § 2503"
-generated_at: "2026-03-30T08:53:11.413Z"
+generated_at: "2026-03-30T08:56:28.273Z"
 status: "active"
 ---
 

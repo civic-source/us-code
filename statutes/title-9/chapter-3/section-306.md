@@ -3,9 +3,9 @@ title: "Section 306 - Applicable rules of Inter-American Commercial Arbitration 
 usc_title: 9
 usc_section: "306"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "9 U.S.C. § 306"
-generated_at: "2026-03-30T08:51:52.178Z"
+generated_at: "2026-03-30T08:55:05.651Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2772 - Quarterly reports on financial balances for atomic energy
 usc_title: 50
 usc_section: "2772"
 chapter: 42
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "50 U.S.C. § 2772"
-generated_at: "2026-03-30T08:54:37.719Z"
+generated_at: "2026-03-30T08:57:54.492Z"
 status: "active"
 ---
 

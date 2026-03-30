@@ -3,9 +3,9 @@ title: "Section 41501 - Establishing reasonable prices, classifications, rules, 
 usc_title: 49
 usc_section: "41501"
 chapter: 415
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "49 U.S.C. § 41501"
-generated_at: "2026-03-30T08:54:30.062Z"
+generated_at: "2026-03-30T08:57:40.861Z"
 status: "active"
 ---
 

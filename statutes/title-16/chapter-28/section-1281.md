@@ -3,9 +3,9 @@ title: "Section 1281 - Administration"
 usc_title: 16
 usc_section: "1281"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 1281"
-generated_at: "2026-03-30T08:52:57.630Z"
+generated_at: "2026-03-30T08:56:05.494Z"
 status: "active"
 ---
 

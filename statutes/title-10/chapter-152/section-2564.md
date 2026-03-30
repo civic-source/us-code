@@ -3,9 +3,9 @@ title: "Section 2564 - Provision of support for certain sporting events"
 usc_title: 10
 usc_section: "2564"
 chapter: 152
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 2564"
-generated_at: "2026-03-30T08:51:58.193Z"
+generated_at: "2026-03-30T08:55:17.718Z"
 status: "active"
 ---
 

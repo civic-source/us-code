@@ -3,9 +3,9 @@ title: "Section 103 - Joint Committee on Printing: remedial powers"
 usc_title: 44
 usc_section: "103"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "44 U.S.C. § 103"
-generated_at: "2026-03-30T08:53:34.426Z"
+generated_at: "2026-03-30T08:57:17.460Z"
 status: "active"
 ---
 

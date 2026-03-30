@@ -3,9 +3,9 @@ title: "Section 127 - Repealed. Pub. L. 92–51 , July 9, 1971 , 85 Stat. 129"
 usc_title: 2
 usc_section: "127"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 127"
-generated_at: "2026-03-30T08:51:45.507Z"
+generated_at: "2026-03-30T08:54:57.498Z"
 status: "repealed"
 ---
 

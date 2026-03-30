@@ -3,9 +3,9 @@ title: "Section 6703 - Grants supplementing Federal contributions under other Fe
 usc_title: 42
 usc_section: "6703"
 chapter: 80
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 6703"
-generated_at: "2026-03-30T08:54:03.991Z"
+generated_at: "2026-03-30T08:57:32.502Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8330 - Enlisted members: transfer to Fleet Reserve and Fleet Mar
 usc_title: 10
 usc_section: "8330"
 chapter: 841
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 8330"
-generated_at: "2026-03-30T08:51:58.217Z"
+generated_at: "2026-03-30T08:55:17.741Z"
 status: "active"
 ---
 

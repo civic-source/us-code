@@ -3,9 +3,9 @@ title: "Section 6105 - Judicial review"
 usc_title: 42
 usc_section: "6105"
 chapter: 76
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 6105"
-generated_at: "2026-03-30T08:54:03.970Z"
+generated_at: "2026-03-30T08:57:32.481Z"
 status: "active"
 ---
 

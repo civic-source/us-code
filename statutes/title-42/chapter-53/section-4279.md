@@ -3,9 +3,9 @@ title: "Section 4279 - Receipt of funds; consideration by Congress"
 usc_title: 42
 usc_section: "4279"
 chapter: 53
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 4279"
-generated_at: "2026-03-30T08:54:03.935Z"
+generated_at: "2026-03-30T08:57:32.447Z"
 status: "active"
 ---
 

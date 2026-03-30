@@ -3,9 +3,9 @@ title: "Section 2294 - Office of Environmental Policy"
 usc_title: 33
 usc_section: "2294"
 chapter: 36
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 2294"
-generated_at: "2026-03-30T08:53:27.628Z"
+generated_at: "2026-03-30T08:56:54.048Z"
 status: "active"
 ---
 

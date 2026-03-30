@@ -3,9 +3,9 @@ title: "Section 351 - Obligations of cooperative marketing association as issued
 usc_title: 12
 usc_section: "351"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "12 U.S.C. § 351"
-generated_at: "2026-03-30T08:52:22.657Z"
+generated_at: "2026-03-30T08:55:36.713Z"
 status: "active"
 ---
 

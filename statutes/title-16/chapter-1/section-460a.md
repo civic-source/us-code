@@ -3,9 +3,9 @@ title: "Section 460a - Licenses or permits for right-of-way over parkway lands"
 usc_title: 16
 usc_section: "460a"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 460a"
-generated_at: "2026-03-30T08:52:57.536Z"
+generated_at: "2026-03-30T08:56:05.397Z"
 status: "active"
 ---
 

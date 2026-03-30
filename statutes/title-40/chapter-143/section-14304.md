@@ -3,9 +3,9 @@ title: "Section 14304 - Recommendations"
 usc_title: 40
 usc_section: "14304"
 chapter: 143
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "40 U.S.C. § 14304"
-generated_at: "2026-03-30T08:53:30.634Z"
+generated_at: "2026-03-30T08:56:56.465Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16b - Discriminatory practices prohibited"
 usc_title: 42
 usc_section: "16b"
 chapter: 21
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 16b"
-generated_at: "2026-03-30T08:54:03.881Z"
+generated_at: "2026-03-30T08:57:32.394Z"
 status: "active"
 ---
 

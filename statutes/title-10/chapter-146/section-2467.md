@@ -3,9 +3,9 @@ title: "Section 2467 - Repealed. Pub. L. 110–181, div. A, title III, § 322(b)
 usc_title: 10
 usc_section: "2467"
 chapter: 146
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 2467"
-generated_at: "2026-03-30T08:51:58.188Z"
+generated_at: "2026-03-30T08:55:17.713Z"
 status: "repealed"
 ---
 

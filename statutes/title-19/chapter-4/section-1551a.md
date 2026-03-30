@@ -3,9 +3,9 @@ title: "Section 1551a - Bonded cartmen or lightermen"
 usc_title: 19
 usc_section: "1551a"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 1551a"
-generated_at: "2026-03-30T08:52:27.238Z"
+generated_at: "2026-03-30T08:56:12.228Z"
 status: "active"
 ---
 

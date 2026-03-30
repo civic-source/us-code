@@ -3,9 +3,9 @@ title: "Section 2512 - Experts and consultants"
 usc_title: 22
 usc_section: "2512"
 chapter: 34
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2512"
-generated_at: "2026-03-30T08:53:05.075Z"
+generated_at: "2026-03-30T08:56:22.228Z"
 status: "active"
 ---
 

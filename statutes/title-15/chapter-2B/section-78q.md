@@ -3,9 +3,9 @@ title: "Section 78q - Records and reports"
 usc_title: 15
 usc_section: "78q"
 chapter: 2
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 78q"
-generated_at: "2026-03-30T08:52:20.572Z"
+generated_at: "2026-03-30T08:55:57.943Z"
 status: "active"
 ---
 

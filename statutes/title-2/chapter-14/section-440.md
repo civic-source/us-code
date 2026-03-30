@@ -3,9 +3,9 @@ title: "Section 440 - Repealed. Pub. L. 93–443, title I, § 101(f)(4) , Oct. 1
 usc_title: 2
 usc_section: "440"
 chapter: 14
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 440"
-generated_at: "2026-03-30T08:51:45.516Z"
+generated_at: "2026-03-30T08:54:57.505Z"
 status: "repealed"
 ---
 

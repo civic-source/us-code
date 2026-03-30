@@ -3,9 +3,9 @@ title: "Section 1067q - Investment in historically Black colleges and universiti
 usc_title: 20
 usc_section: "1067q"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1067q"
-generated_at: "2026-03-30T08:52:29.487Z"
+generated_at: "2026-03-30T08:56:07.121Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(7)** a Native American-serving nontribal institution (as defined in subsection (c)).
 - **(b)**
   - **(1)**
-    - **(A)** There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.
+    - **(A)** There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
     - **(B)** Funds made available under subparagraph (A) for a fiscal year shall remain available for the next succeeding fiscal year.
   - **(2)**
     - **(A)** Of the amounts made available under paragraph (1) for each fiscal year—

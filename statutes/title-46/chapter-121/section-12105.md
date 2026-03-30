@@ -3,9 +3,9 @@ title: "Section 12105 - Issuance of documentation"
 usc_title: 46
 usc_section: "12105"
 chapter: 121
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "46 U.S.C. § 12105"
-generated_at: "2026-03-30T08:54:23.412Z"
+generated_at: "2026-03-30T08:57:51.915Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1473 - Consultations and determinations respecting creation of h
 usc_title: 33
 usc_section: "1473"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 1473"
-generated_at: "2026-03-30T08:53:27.618Z"
+generated_at: "2026-03-30T08:56:54.038Z"
 status: "active"
 ---
 

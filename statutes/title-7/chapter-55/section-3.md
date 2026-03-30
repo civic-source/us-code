@@ -3,9 +3,9 @@ title: "Section 3 - Council on Rural Community Innovation and Economic Developme
 usc_title: 7
 usc_section: "3"
 chapter: 55
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T08:52:14.978Z"
+generated_at: "2026-03-30T08:55:28.536Z"
 status: "active"
 ---
 

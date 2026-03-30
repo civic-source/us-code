@@ -3,9 +3,9 @@ title: "Section 1973 - Reimbursement of owner for any direct charges paid to sec
 usc_title: 22
 usc_section: "1973"
 chapter: 25
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 1973"
-generated_at: "2026-03-30T08:53:05.047Z"
+generated_at: "2026-03-30T08:56:22.199Z"
 status: "active"
 ---
 

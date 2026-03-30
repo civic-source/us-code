@@ -3,9 +3,9 @@ title: "Section 5553 - Solar Energy Coordination and Management Project"
 usc_title: 42
 usc_section: "5553"
 chapter: 71
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 5553"
-generated_at: "2026-03-30T08:54:03.965Z"
+generated_at: "2026-03-30T08:57:32.476Z"
 status: "active"
 ---
 

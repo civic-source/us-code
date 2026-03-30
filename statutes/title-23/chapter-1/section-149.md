@@ -3,9 +3,9 @@ title: "Section 149 - Congestion mitigation and air quality improvement program"
 usc_title: 23
 usc_section: "149"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "23 U.S.C. § 149"
-generated_at: "2026-03-30T08:53:06.779Z"
+generated_at: "2026-03-30T08:56:18.794Z"
 status: "active"
 ---
 

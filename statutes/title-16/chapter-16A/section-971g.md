@@ -3,9 +3,9 @@ title: "Section 971g - Cooperation in carrying out Convention"
 usc_title: 16
 usc_section: "971g"
 chapter: 16
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 971g"
-generated_at: "2026-03-30T08:52:57.618Z"
+generated_at: "2026-03-30T08:56:05.482Z"
 status: "active"
 ---
 

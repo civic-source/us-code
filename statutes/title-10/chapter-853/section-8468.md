@@ -3,9 +3,9 @@ title: "Section 8468 - Board of Visitors"
 usc_title: 10
 usc_section: "8468"
 chapter: 853
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 8468"
-generated_at: "2026-03-30T08:51:58.218Z"
+generated_at: "2026-03-30T08:55:17.743Z"
 status: "active"
 ---
 

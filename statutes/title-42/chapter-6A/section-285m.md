@@ -3,9 +3,9 @@ title: "Section 285m - Purpose of Institute"
 usc_title: 42
 usc_section: "285m"
 chapter: 6
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 285m"
-generated_at: "2026-03-30T08:54:03.561Z"
+generated_at: "2026-03-30T08:57:32.099Z"
 status: "active"
 ---
 

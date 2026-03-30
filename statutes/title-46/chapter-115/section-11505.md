@@ -3,9 +3,9 @@ title: "Section 11505 - Disposal of forfeitures"
 usc_title: 46
 usc_section: "11505"
 chapter: 115
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "46 U.S.C. § 11505"
-generated_at: "2026-03-30T08:54:23.412Z"
+generated_at: "2026-03-30T08:57:51.915Z"
 status: "active"
 ---
 

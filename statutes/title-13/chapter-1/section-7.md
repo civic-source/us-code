@@ -3,9 +3,9 @@ title: "Section 7 - Printing; requisitions upon Director of the Government Publi
 usc_title: 13
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "13 U.S.C. § 7"
-generated_at: "2026-03-30T08:52:20.782Z"
+generated_at: "2026-03-30T08:55:30.399Z"
 status: "active"
 ---
 

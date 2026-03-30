@@ -3,9 +3,9 @@ title: "Section 794 - Gathering or delivering defense information to aid foreign
 usc_title: 18
 usc_section: "794"
 chapter: 37
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 794"
-generated_at: "2026-03-30T08:52:26.105Z"
+generated_at: "2026-03-30T08:56:15.007Z"
 status: "active"
 ---
 

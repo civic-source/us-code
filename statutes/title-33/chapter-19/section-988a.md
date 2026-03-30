@@ -3,9 +3,9 @@ title: "Section 988a - Waiver of collection of charges or tolls"
 usc_title: 33
 usc_section: "988a"
 chapter: 19
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 988a"
-generated_at: "2026-03-30T08:53:27.595Z"
+generated_at: "2026-03-30T08:56:54.016Z"
 status: "active"
 ---
 

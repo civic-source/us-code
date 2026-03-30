@@ -3,9 +3,9 @@ title: "Section 10476 - Geographic distribution"
 usc_title: 34
 usc_section: "10476"
 chapter: 101
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "34 U.S.C. § 10476"
-generated_at: "2026-03-30T08:53:26.115Z"
+generated_at: "2026-03-30T08:56:51.148Z"
 status: "active"
 ---
 

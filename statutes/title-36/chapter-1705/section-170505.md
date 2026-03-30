@@ -3,9 +3,9 @@ title: "Section 170505 - Governing body"
 usc_title: 36
 usc_section: "170505"
 chapter: 1705
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "36 U.S.C. § 170505"
-generated_at: "2026-03-30T08:53:29.856Z"
+generated_at: "2026-03-30T08:56:58.052Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6554 - Online Safety and Technology working group"
 usc_title: 15
 usc_section: "6554"
 chapter: 91
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 6554"
-generated_at: "2026-03-30T08:52:20.711Z"
+generated_at: "2026-03-30T08:55:58.076Z"
 status: "active"
 ---
 

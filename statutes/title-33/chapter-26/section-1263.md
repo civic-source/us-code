@@ -3,9 +3,9 @@ title: "Section 1263 - Alaska village demonstration projects"
 usc_title: 33
 usc_section: "1263"
 chapter: 26
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 1263"
-generated_at: "2026-03-30T08:53:27.597Z"
+generated_at: "2026-03-30T08:56:54.019Z"
 status: "active"
 ---
 

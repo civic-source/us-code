@@ -3,9 +3,9 @@ title: "Section 1448 - Assistance to certain institutions abroad founded or spon
 usc_title: 22
 usc_section: "1448"
 chapter: 18
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 1448"
-generated_at: "2026-03-30T08:53:05.040Z"
+generated_at: "2026-03-30T08:56:22.193Z"
 status: "active"
 ---
 

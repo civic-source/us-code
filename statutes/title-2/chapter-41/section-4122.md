@@ -3,9 +3,9 @@ title: "Section 4122 - Deposit of fees for services by Office of Attending Physi
 usc_title: 2
 usc_section: "4122"
 chapter: 41
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 4122"
-generated_at: "2026-03-30T08:51:45.543Z"
+generated_at: "2026-03-30T08:54:57.531Z"
 status: "active"
 ---
 

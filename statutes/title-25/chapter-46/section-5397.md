@@ -3,9 +3,9 @@ title: "Section 5397 - Regulations"
 usc_title: 25
 usc_section: "5397"
 chapter: 46
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "25 U.S.C. § 5397"
-generated_at: "2026-03-30T08:53:07.549Z"
+generated_at: "2026-03-30T08:56:18.411Z"
 status: "active"
 ---
 

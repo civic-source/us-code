@@ -3,9 +3,9 @@ title: "Section 1733 - Mailing periodical publications without prepayment of pos
 usc_title: 18
 usc_section: "1733"
 chapter: 83
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 1733"
-generated_at: "2026-03-30T08:52:26.121Z"
+generated_at: "2026-03-30T08:56:15.023Z"
 status: "active"
 ---
 

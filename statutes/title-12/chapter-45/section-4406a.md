@@ -3,9 +3,9 @@ title: "Section 4406a - Treatment of contracts with uninsured national banks, un
 usc_title: 12
 usc_section: "4406a"
 chapter: 45
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "12 U.S.C. § 4406a"
-generated_at: "2026-03-30T08:52:22.770Z"
+generated_at: "2026-03-30T08:55:36.827Z"
 status: "active"
 ---
 

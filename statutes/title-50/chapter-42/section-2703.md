@@ -3,9 +3,9 @@ title: "Section 2703 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(g
 usc_title: 50
 usc_section: "2703"
 chapter: 42
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "50 U.S.C. § 2703"
-generated_at: "2026-03-30T08:54:37.718Z"
+generated_at: "2026-03-30T08:57:54.491Z"
 status: "repealed"
 ---
 

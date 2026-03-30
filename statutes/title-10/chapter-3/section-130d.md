@@ -3,9 +3,9 @@ title: "Section 130d - Treatment under Freedom of Information Act of certain con
 usc_title: 10
 usc_section: "130d"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 130d"
-generated_at: "2026-03-30T08:51:58.097Z"
+generated_at: "2026-03-30T08:55:17.620Z"
 status: "active"
 ---
 

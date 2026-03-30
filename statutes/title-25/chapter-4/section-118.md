@@ -3,9 +3,9 @@ title: "Section 118 - Payments in satisfaction of judgments"
 usc_title: 25
 usc_section: "118"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "25 U.S.C. § 118"
-generated_at: "2026-03-30T08:53:07.485Z"
+generated_at: "2026-03-30T08:56:18.350Z"
 status: "active"
 ---
 

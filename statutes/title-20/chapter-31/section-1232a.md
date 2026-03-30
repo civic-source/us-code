@@ -3,9 +3,9 @@ title: "Section 1232a - Prohibition against Federal control of education"
 usc_title: 20
 usc_section: "1232a"
 chapter: 31
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1232a"
-generated_at: "2026-03-30T08:52:29.531Z"
+generated_at: "2026-03-30T08:56:07.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1091 - Student eligibility"
 usc_title: 20
 usc_section: "1091"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1091"
-generated_at: "2026-03-30T08:52:29.512Z"
+generated_at: "2026-03-30T08:56:07.146Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In order to receive any grant, loan, or work assistance under this subchapter, a student must—
   - **(1)** be enrolled or accepted for enrollment in a degree, certificate, or other program (including a program of study abroad approved for credit by the eligible institution at which such student is enrolled) leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title , except as provided in subsections (b)(3) and (b)(4), and not be enrolled in an elementary or secondary school;
-  - **(2)** if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);
+  - **(2)** if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);(q)
   - **(3)** not owe a refund on grants previously received at any institution under this subchapter, or be in default on any loan from a student loan fund at any institution provided for in part E, or a loan made, insured, or guaranteed by the Secretary under this subchapter for attendance at any institution;
   - **(4)** file with the Secretary, as part of the original financial aid application process, a certification, which need not be notarized, but which shall include—
     - **(A)** a statement of educational purpose stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and
@@ -107,10 +107,6 @@ status: "active"
     - **(A)** any institution of higher education with respect to any error in a social security number, unless such error was a result of fraud on the part of the institution; or
     - **(B)** any student with respect to any error in a social security number, unless such error was a result of fraud on the part of the student.
 - **(q)**
-  - **(1)** The Secretary, in cooperation with the Secretary of the Treasury, is authorized to obtain from the Internal Revenue Service such information reported on Federal income tax returns by applicants, or by any other person whose financial information is required to be provided on the Federal student financial aid application, as the Secretary determines is necessary for the purpose of—
-    - **(A)** prepopulating the Federal student financial aid application described in section 1090 of this title ; or
-    - **(B)** verifying the information reported on such student financial aid applications.
-  - **(2)** The Secretary may require that applicants for financial assistance under this subchapter provide a consent to the disclosure of the data described in paragraph (1) as a condition of the student receiving assistance under this subchapter. The parents of an applicant, in the case of a dependent student, or the spouse of an applicant, in the case of an applicant who is married but files separately, may also be required to provide consent as a condition of the student receiving assistance under this subchapter.
 - **(r)**
   - **(1)** A student who is convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance for conduct that occurred during a period of enrollment for which the student was receiving any grant, loan, or work assistance under this subchapter shall not be eligible to receive any grant, loan, or work assistance under this subchapter from the date of that conviction for the period of time specified in the following table: If convicted of an offense involving: The possession of a controlled substance: Ineligibility period is: First offense 1 year Second offense 2 years Third offense Indefinite. The sale of a controlled substance: Ineligibility period is: First offense 2 years Second offense Indefinite.
   - **(2)** A student whose eligibility has been suspended under paragraph (1) may resume eligibility before the end of the ineligibility period determined under such paragraph if—

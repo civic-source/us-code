@@ -3,9 +3,9 @@ title: "Section 356a - Omitted"
 usc_title: 2
 usc_section: "356a"
 chapter: 11
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 356a"
-generated_at: "2026-03-30T08:51:45.514Z"
+generated_at: "2026-03-30T08:54:57.504Z"
 status: "omitted"
 ---
 

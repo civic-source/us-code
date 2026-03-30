@@ -3,9 +3,9 @@ title: "Section 4363 - Financial and program audit by Secretary"
 usc_title: 20
 usc_section: "4363"
 chapter: 55
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 4363"
-generated_at: "2026-03-30T08:52:29.555Z"
+generated_at: "2026-03-30T08:56:07.190Z"
 status: "active"
 ---
 

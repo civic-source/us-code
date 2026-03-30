@@ -3,9 +3,9 @@ title: "Section 2010 - Restrictions on agreements"
 usc_title: 39
 usc_section: "2010"
 chapter: 20
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "39 U.S.C. § 2010"
-generated_at: "2026-03-30T08:53:29.245Z"
+generated_at: "2026-03-30T08:56:55.744Z"
 status: "active"
 ---
 

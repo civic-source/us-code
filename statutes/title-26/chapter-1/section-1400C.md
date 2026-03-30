@@ -3,9 +3,9 @@ title: "Section 1400C - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)
 usc_title: 26
 usc_section: "1400C"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 1400C"
-generated_at: "2026-03-30T08:53:23.230Z"
+generated_at: "2026-03-30T08:56:41.434Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1218a - Discharge or release from active duty: transition assist
 usc_title: 10
 usc_section: "1218a"
 chapter: 61
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 1218a"
-generated_at: "2026-03-30T08:51:58.146Z"
+generated_at: "2026-03-30T08:55:17.673Z"
 status: "active"
 ---
 

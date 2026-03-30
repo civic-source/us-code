@@ -3,9 +3,9 @@ title: "Section 10331 - Function of Director"
 usc_title: 34
 usc_section: "10331"
 chapter: 101
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "34 U.S.C. § 10331"
-generated_at: "2026-03-30T08:53:26.112Z"
+generated_at: "2026-03-30T08:56:51.144Z"
 status: "active"
 ---
 

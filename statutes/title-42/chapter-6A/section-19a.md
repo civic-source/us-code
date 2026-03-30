@@ -3,9 +3,9 @@ title: "Section 19a - Electronic health record reporting program"
 usc_title: 42
 usc_section: "19a"
 chapter: 6
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-30T08:54:03.641Z"
+generated_at: "2026-03-30T08:57:32.179Z"
 status: "active"
 ---
 

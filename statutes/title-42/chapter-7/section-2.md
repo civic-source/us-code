@@ -3,9 +3,9 @@ title: "Section 2 - Awarding social impact partnership agreements"
 usc_title: 42
 usc_section: "2"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T08:54:03.821Z"
+generated_at: "2026-03-30T08:57:32.341Z"
 status: "active"
 ---
 

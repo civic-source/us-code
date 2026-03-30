@@ -3,9 +3,9 @@ title: "Section 2195 - Abandonment of sailors"
 usc_title: 18
 usc_section: "2195"
 chapter: 107
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 2195"
-generated_at: "2026-03-30T08:52:26.125Z"
+generated_at: "2026-03-30T08:56:15.027Z"
 status: "active"
 ---
 

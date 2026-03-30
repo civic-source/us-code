@@ -3,9 +3,9 @@ title: "Section 9 - Federal funds"
 usc_title: 16
 usc_section: "9"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T08:52:57.582Z"
+generated_at: "2026-03-30T08:56:05.443Z"
 status: "active"
 ---
 

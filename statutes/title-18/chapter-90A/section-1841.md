@@ -3,9 +3,9 @@ title: "Section 1841 - Protection of unborn children"
 usc_title: 18
 usc_section: "1841"
 chapter: 90
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 1841"
-generated_at: "2026-03-30T08:52:26.121Z"
+generated_at: "2026-03-30T08:56:15.024Z"
 status: "active"
 ---
 

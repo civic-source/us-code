@@ -3,9 +3,9 @@ title: "Section 1715 - Statistical and economic surveys"
 usc_title: 12
 usc_section: "1715"
 chapter: 13
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "12 U.S.C. § 1715"
-generated_at: "2026-03-30T08:52:22.688Z"
+generated_at: "2026-03-30T08:55:36.744Z"
 status: "active"
 ---
 

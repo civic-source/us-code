@@ -3,9 +3,9 @@ title: "Section 283 - Injunction"
 usc_title: 35
 usc_section: "283"
 chapter: 29
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "35 U.S.C. § 283"
-generated_at: "2026-03-30T08:53:25.101Z"
+generated_at: "2026-03-30T08:56:43.858Z"
 status: "active"
 ---
 

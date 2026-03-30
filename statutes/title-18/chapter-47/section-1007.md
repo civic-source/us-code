@@ -3,9 +3,9 @@ title: "Section 1007 - Federal Deposit Insurance Corporation transactions"
 usc_title: 18
 usc_section: "1007"
 chapter: 47
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 1007"
-generated_at: "2026-03-30T08:52:26.112Z"
+generated_at: "2026-03-30T08:56:15.014Z"
 status: "active"
 ---
 

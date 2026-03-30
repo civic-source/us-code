@@ -3,9 +3,9 @@ title: "Section 666f - Wildlife conservation and agricultural, industrial, recre
 usc_title: 16
 usc_section: "666f"
 chapter: 5
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 666f"
-generated_at: "2026-03-30T08:52:57.587Z"
+generated_at: "2026-03-30T08:56:05.448Z"
 status: "active"
 ---
 

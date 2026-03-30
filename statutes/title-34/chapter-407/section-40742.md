@@ -3,9 +3,9 @@ title: "Section 40742 - Grants to States to implement DNA arrestee collection pr
 usc_title: 34
 usc_section: "40742"
 chapter: 407
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "34 U.S.C. § 40742"
-generated_at: "2026-03-30T08:53:26.153Z"
+generated_at: "2026-03-30T08:56:51.184Z"
 status: "active"
 ---
 

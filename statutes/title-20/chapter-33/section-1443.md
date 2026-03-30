@@ -3,9 +3,9 @@ title: "Section 1443 - Allocation of funds"
 usc_title: 20
 usc_section: "1443"
 chapter: 33
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1443"
-generated_at: "2026-03-30T08:52:29.539Z"
+generated_at: "2026-03-30T08:56:07.174Z"
 status: "active"
 ---
 

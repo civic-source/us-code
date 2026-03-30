@@ -3,9 +3,9 @@ title: "Section 6035 - Basis information to persons acquiring property from dece
 usc_title: 26
 usc_section: "6035"
 chapter: 61
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 6035"
-generated_at: "2026-03-30T08:53:23.279Z"
+generated_at: "2026-03-30T08:56:41.478Z"
 status: "active"
 ---
 

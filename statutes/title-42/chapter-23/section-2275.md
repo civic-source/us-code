@@ -3,9 +3,9 @@ title: "Section 2275 - Receipt of Restricted Data"
 usc_title: 42
 usc_section: "2275"
 chapter: 23
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 2275"
-generated_at: "2026-03-30T08:54:03.898Z"
+generated_at: "2026-03-30T08:57:32.410Z"
 status: "active"
 ---
 

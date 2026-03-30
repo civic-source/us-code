@@ -3,9 +3,9 @@ title: "Section 1128b - Authorization of appropriations"
 usc_title: 20
 usc_section: "1128b"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1128b"
-generated_at: "2026-03-30T08:52:29.520Z"
+generated_at: "2026-03-30T08:56:07.155Z"
 status: "active"
 ---
 

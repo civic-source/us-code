@@ -3,9 +3,9 @@ title: "Section 2452c - Program to provide grants to American-sponsored schools 
 usc_title: 22
 usc_section: "2452c"
 chapter: 33
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2452c"
-generated_at: "2026-03-30T08:53:05.072Z"
+generated_at: "2026-03-30T08:56:22.226Z"
 status: "active"
 ---
 

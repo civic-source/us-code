@@ -3,9 +3,9 @@ title: "Section 7352 - Contents of review"
 usc_title: 42
 usc_section: "7352"
 chapter: 84
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 7352"
-generated_at: "2026-03-30T08:54:04.011Z"
+generated_at: "2026-03-30T08:57:32.522Z"
 status: "active"
 ---
 

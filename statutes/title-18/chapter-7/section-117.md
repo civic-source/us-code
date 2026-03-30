@@ -3,9 +3,9 @@ title: "Section 117 - Domestic assault by an habitual offender"
 usc_title: 18
 usc_section: "117"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "18 U.S.C. § 117"
-generated_at: "2026-03-30T08:52:26.097Z"
+generated_at: "2026-03-30T08:56:14.997Z"
 status: "active"
 ---
 

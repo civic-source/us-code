@@ -3,9 +3,9 @@ title: "Section 2010 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "2010"
 chapter: 46
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 2010"
-generated_at: "2026-03-30T08:52:20.667Z"
+generated_at: "2026-03-30T08:55:58.033Z"
 status: "repealed"
 ---
 

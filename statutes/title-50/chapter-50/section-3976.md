@@ -3,9 +3,9 @@ title: "Section 3976 - Deduction of unpaid premiums"
 usc_title: 50
 usc_section: "3976"
 chapter: 50
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "50 U.S.C. § 3976"
-generated_at: "2026-03-30T08:54:37.739Z"
+generated_at: "2026-03-30T08:57:54.513Z"
 status: "active"
 ---
 

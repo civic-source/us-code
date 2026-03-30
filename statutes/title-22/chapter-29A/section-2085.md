@@ -3,9 +3,9 @@ title: "Section 2085 - Authorization of appropriations"
 usc_title: 22
 usc_section: "2085"
 chapter: 29
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2085"
-generated_at: "2026-03-30T08:53:05.048Z"
+generated_at: "2026-03-30T08:56:22.201Z"
 status: "active"
 ---
 

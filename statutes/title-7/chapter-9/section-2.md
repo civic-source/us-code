@@ -3,9 +3,9 @@ title: "Section 2 - Violations by live poultry dealers"
 usc_title: 7
 usc_section: "2"
 chapter: 9
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T08:52:14.904Z"
+generated_at: "2026-03-30T08:55:28.459Z"
 status: "active"
 ---
 

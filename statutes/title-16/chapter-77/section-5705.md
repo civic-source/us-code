@@ -3,9 +3,9 @@ title: "Section 5705 - Exemption"
 usc_title: 16
 usc_section: "5705"
 chapter: 77
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 5705"
-generated_at: "2026-03-30T08:52:57.693Z"
+generated_at: "2026-03-30T08:56:05.559Z"
 status: "active"
 ---
 

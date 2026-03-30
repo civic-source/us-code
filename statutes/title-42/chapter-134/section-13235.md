@@ -3,9 +3,9 @@ title: "Section 13235 - State and local incentives programs"
 usc_title: 42
 usc_section: "13235"
 chapter: 134
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 13235"
-generated_at: "2026-03-30T08:54:04.142Z"
+generated_at: "2026-03-30T08:57:32.654Z"
 status: "active"
 ---
 

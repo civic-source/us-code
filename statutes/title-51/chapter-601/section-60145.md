@@ -3,9 +3,9 @@ title: "Section 60145 - Acquisition of equipment"
 usc_title: 51
 usc_section: "60145"
 chapter: 601
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "51 U.S.C. § 60145"
-generated_at: "2026-03-30T08:54:42.219Z"
+generated_at: "2026-03-30T08:57:56.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 79b - Testing of equipment"
 usc_title: 7
 usc_section: "79b"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 79b"
-generated_at: "2026-03-30T08:52:14.886Z"
+generated_at: "2026-03-30T08:55:28.440Z"
 status: "active"
 ---
 

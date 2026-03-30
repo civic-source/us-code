@@ -3,9 +3,9 @@ title: "Section 4404 - Enforcement, regulations, and construction"
 usc_title: 15
 usc_section: "4404"
 chapter: 70
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 4404"
-generated_at: "2026-03-30T08:52:20.701Z"
+generated_at: "2026-03-30T08:55:58.066Z"
 status: "active"
 ---
 

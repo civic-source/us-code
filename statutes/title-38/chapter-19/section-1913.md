@@ -3,9 +3,9 @@ title: "Section 1913 - Death before six months’ total disability"
 usc_title: 38
 usc_section: "1913"
 chapter: 19
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "38 U.S.C. § 1913"
-generated_at: "2026-03-30T08:53:31.708Z"
+generated_at: "2026-03-30T08:57:14.250Z"
 status: "active"
 ---
 

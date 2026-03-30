@@ -3,9 +3,9 @@ title: "Section 1034 - Teach to reach grants"
 usc_title: 20
 usc_section: "1034"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1034"
-generated_at: "2026-03-30T08:52:29.483Z"
+generated_at: "2026-03-30T08:56:07.118Z"
 status: "active"
 ---
 

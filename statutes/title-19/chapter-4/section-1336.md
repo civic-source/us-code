@@ -3,9 +3,9 @@ title: "Section 1336 - Equalization of costs of production"
 usc_title: 19
 usc_section: "1336"
 chapter: 4
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 1336"
-generated_at: "2026-03-30T08:52:27.228Z"
+generated_at: "2026-03-30T08:56:12.219Z"
 status: "active"
 ---
 

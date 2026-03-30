@@ -3,9 +3,9 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T08:52:29.487Z"
+generated_at: "2026-03-30T08:56:07.122Z"
 status: "active"
 ---
 
@@ -42,8 +42,8 @@ status: "active"
         - **(VII)** $1,320,000,000 for fiscal year 2017;
         - **(VIII)** $1,334,000,000 for fiscal year 2018;
         - **(IX)** $1,370,000,000 for fiscal year 2019;
-        - **(X)** $1,430,000,000 for fiscal year 2020; and
-        - **(XI)** $1,145,000,000 for fiscal year 2021 and each succeeding fiscal year.
+        - **(X)** $1,455,000,000 for fiscal year 2020; and
+        - **(XI)** $1,170,000,000 for fiscal year 2021 and each succeeding fiscal year.
     - **(B)** The amounts made available pursuant to clauses (i) through (iii) of subparagraph (A) of this paragraph shall be used to increase the amount of the maximum Federal Pell Grant for which a student shall be eligible during an award year, as specified in the last enacted appropriation Act applicable to that award year, by—
       - **(i)** $490 for each of the award years 2008–2009 and 2009–2010;
       - **(ii)** $690 for each of the award years 2010–2011, 2011–2012, and 2012–2013; and

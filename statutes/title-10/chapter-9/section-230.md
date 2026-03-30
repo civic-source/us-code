@@ -3,9 +3,9 @@ title: "Section 230 - Repealed. Pub. L. 107–314, div. A, title X, § 1041(a)(2
 usc_title: 10
 usc_section: "230"
 chapter: 9
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 230"
-generated_at: "2026-03-30T08:51:58.104Z"
+generated_at: "2026-03-30T08:55:17.628Z"
 status: "repealed"
 ---
 

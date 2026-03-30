@@ -3,9 +3,9 @@ title: "Section 2918b - Transferred"
 usc_title: 29
 usc_section: "2918b"
 chapter: 30
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "29 U.S.C. § 2918b"
-generated_at: "2026-03-30T08:53:11.415Z"
+generated_at: "2026-03-30T08:56:28.276Z"
 status: "transferred"
 ---
 

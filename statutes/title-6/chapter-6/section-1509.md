@@ -3,9 +3,9 @@ title: "Section 1509 - Exception to limitation on authority of Secretary of Defe
 usc_title: 6
 usc_section: "1509"
 chapter: 6
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "6 U.S.C. § 1509"
-generated_at: "2026-03-30T08:52:04.895Z"
+generated_at: "2026-03-30T08:55:03.560Z"
 status: "active"
 ---
 

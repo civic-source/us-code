@@ -3,9 +3,9 @@ title: "Section 7231 - Officers and employees"
 usc_title: 42
 usc_section: "7231"
 chapter: 84
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "42 U.S.C. § 7231"
-generated_at: "2026-03-30T08:54:04.008Z"
+generated_at: "2026-03-30T08:57:32.519Z"
 status: "active"
 ---
 

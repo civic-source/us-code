@@ -3,9 +3,9 @@ title: "Section 409A - Inclusion in gross income of deferred compensation under 
 usc_title: 26
 usc_section: "409A"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "26 U.S.C. § 409A"
-generated_at: "2026-03-30T08:53:23.152Z"
+generated_at: "2026-03-30T08:56:41.362Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 833 - Completion and maintenance of project; generation of elect
 usc_title: 16
 usc_section: "833"
 chapter: 12
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "16 U.S.C. § 833"
-generated_at: "2026-03-30T08:52:57.611Z"
+generated_at: "2026-03-30T08:56:05.474Z"
 status: "active"
 ---
 

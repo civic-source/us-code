@@ -3,9 +3,9 @@ title: "Section 38 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1), 
 usc_title: 19
 usc_section: "38"
 chapter: 1
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "19 U.S.C. § 38"
-generated_at: "2026-03-30T08:52:27.222Z"
+generated_at: "2026-03-30T08:56:12.213Z"
 status: "repealed"
 ---
 

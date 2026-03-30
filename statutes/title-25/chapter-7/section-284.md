@@ -3,9 +3,9 @@ title: "Section 284 - Omitted"
 usc_title: 25
 usc_section: "284"
 chapter: 7
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "25 U.S.C. § 284"
-generated_at: "2026-03-30T08:53:07.488Z"
+generated_at: "2026-03-30T08:56:18.352Z"
 status: "omitted"
 ---
 

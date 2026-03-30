@@ -3,9 +3,9 @@ title: "Section 501 - Secretary; general powers"
 usc_title: 14
 usc_section: "501"
 chapter: 5
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "14 U.S.C. § 501"
-generated_at: "2026-03-30T08:52:17.231Z"
+generated_at: "2026-03-30T08:55:30.666Z"
 status: "active"
 ---
 

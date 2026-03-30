@@ -3,9 +3,9 @@ title: "Section 15105 - National Boating Safety Advisory Committee"
 usc_title: 46
 usc_section: "15105"
 chapter: 151
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "46 U.S.C. § 15105"
-generated_at: "2026-03-30T08:54:23.416Z"
+generated_at: "2026-03-30T08:57:51.919Z"
 status: "active"
 ---
 

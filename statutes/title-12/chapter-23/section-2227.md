@@ -3,9 +3,9 @@ title: "Section 2227 - Repealed. Pub. L. 100–399, title IV, § 409(d) , Aug. 1
 usc_title: 12
 usc_section: "2227"
 chapter: 23
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "12 U.S.C. § 2227"
-generated_at: "2026-03-30T08:52:22.744Z"
+generated_at: "2026-03-30T08:55:36.801Z"
 status: "repealed"
 ---
 

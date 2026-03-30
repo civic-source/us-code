@@ -3,9 +3,9 @@ title: "Section 2124 - Members of the program: numbers appointed"
 usc_title: 10
 usc_section: "2124"
 chapter: 105
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 2124"
-generated_at: "2026-03-30T08:51:58.165Z"
+generated_at: "2026-03-30T08:55:17.691Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1413 - Privileges and immunities"
 usc_title: 2
 usc_section: "1413"
 chapter: 24
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 1413"
-generated_at: "2026-03-30T08:51:45.531Z"
+generated_at: "2026-03-30T08:54:57.519Z"
 status: "active"
 ---
 

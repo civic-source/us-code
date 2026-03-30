@@ -3,9 +3,9 @@ title: "Section 2215 - Feasibility studies; planning, engineering, and design"
 usc_title: 33
 usc_section: "2215"
 chapter: 36
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 2215"
-generated_at: "2026-03-30T08:53:27.623Z"
+generated_at: "2026-03-30T08:56:54.043Z"
 status: "active"
 ---
 

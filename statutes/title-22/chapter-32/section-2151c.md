@@ -3,9 +3,9 @@ title: "Section 2151c - Education and human resources development"
 usc_title: 22
 usc_section: "2151c"
 chapter: 32
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "22 U.S.C. § 2151c"
-generated_at: "2026-03-30T08:53:05.051Z"
+generated_at: "2026-03-30T08:56:22.204Z"
 status: "active"
 ---
 

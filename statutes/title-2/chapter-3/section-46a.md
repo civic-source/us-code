@@ -3,9 +3,9 @@ title: "Section 46a - Transferred"
 usc_title: 2
 usc_section: "46a"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "2 U.S.C. § 46a"
-generated_at: "2026-03-30T08:51:45.504Z"
+generated_at: "2026-03-30T08:54:57.495Z"
 status: "transferred"
 ---
 

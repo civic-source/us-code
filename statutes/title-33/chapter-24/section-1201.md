@@ -3,9 +3,9 @@ title: "Section 1201 - Statement of purpose"
 usc_title: 33
 usc_section: "1201"
 chapter: 24
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "33 U.S.C. § 1201"
-generated_at: "2026-03-30T08:53:27.596Z"
+generated_at: "2026-03-30T08:56:54.017Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21904 - Minimum standards for issuance and dissemination of aler
 usc_title: 34
 usc_section: "21904"
 chapter: 219
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "34 U.S.C. § 21904"
-generated_at: "2026-03-30T08:53:26.147Z"
+generated_at: "2026-03-30T08:56:51.179Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1431e - Distribution of surplus commodities to special nutrition
 usc_title: 7
 usc_section: "1431e"
 chapter: 35
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "7 U.S.C. § 1431e"
-generated_at: "2026-03-30T08:52:14.930Z"
+generated_at: "2026-03-30T08:55:28.484Z"
 status: "active"
 ---
 

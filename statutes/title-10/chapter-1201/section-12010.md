@@ -3,9 +3,9 @@ title: "Section 12010 - Computations for Navy Reserve and Marine Corps Reserve: 
 usc_title: 10
 usc_section: "12010"
 chapter: 1201
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "10 U.S.C. § 12010"
-generated_at: "2026-03-30T08:51:58.233Z"
+generated_at: "2026-03-30T08:55:17.758Z"
 status: "active"
 ---
 

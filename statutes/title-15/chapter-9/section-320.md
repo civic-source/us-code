@@ -3,9 +3,9 @@ title: "Section 320 - Repealed. Oct. 31, 1951, ch. 654, § 1(34) , 65 Stat. 702"
 usc_title: 15
 usc_section: "320"
 chapter: 9
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "15 U.S.C. § 320"
-generated_at: "2026-03-30T08:52:20.598Z"
+generated_at: "2026-03-30T08:55:57.967Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31145 - Coordination of Governmental activities and paperwork"
 usc_title: 49
 usc_section: "31145"
 chapter: 311
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "49 U.S.C. § 31145"
-generated_at: "2026-03-30T08:54:30.051Z"
+generated_at: "2026-03-30T08:57:40.848Z"
 status: "active"
 ---
 

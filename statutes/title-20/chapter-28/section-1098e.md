@@ -3,9 +3,9 @@ title: "Section 1098e - Income-based repayment"
 usc_title: 20
 usc_section: "1098e"
 chapter: 28
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "20 U.S.C. § 1098e"
-generated_at: "2026-03-30T08:52:29.517Z"
+generated_at: "2026-03-30T08:56:07.152Z"
 status: "active"
 ---
 
@@ -46,7 +46,11 @@ status: "active"
       - **(v)** has been in deferment due to an economic hardship described in section 1085( o ) of this title;
   - **(8)** a borrower who is repaying a loan made under part B or D pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan; and
   - **(9)** the special allowance payment to a lender calculated under section 1087–1(b)(2)(I) of this title , when calculated for a loan in repayment under this section, shall be calculated on the principal balance of the loan and on any accrued interest unpaid by the borrower in accordance with this section.
-- **(c)** The Secretary shall establish procedures for annually determining the borrower’s eligibility for income-based repayment, including verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
+- **(c)**
+  - **(1)** The Secretary shall establish procedures for annually determining the borrower’s eligibility for income-based repayment, including verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section.
+  - **(2)** The Secretary shall—
+    - **(A)** consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title; and
+    - **(B)** carry out, with respect to borrowers of any loan made under part D (other than an excepted PLUS loan or excepted consolidation loan), procedures for income-based repayment plans that are equivalent to the procedures carried out under section 1087e(e)(8) of this title with respect to income-contingent repayment plans.
 - **(d)** In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower’s income-based repayment under this section solely on the basis of the borrower’s student loan debt and adjusted gross income.
 - **(e)** With respect to any loan made to a new borrower on or after July 1, 2014 —
   - **(1)** subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and

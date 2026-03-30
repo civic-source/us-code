@@ -3,9 +3,9 @@ title: "Section 2505 - Limitations on retirement and retired pay"
 usc_title: 14
 usc_section: "2505"
 chapter: 25
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "14 U.S.C. § 2505"
-generated_at: "2026-03-30T08:52:17.238Z"
+generated_at: "2026-03-30T08:55:30.672Z"
 status: "active"
 ---
 

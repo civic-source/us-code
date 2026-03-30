@@ -3,9 +3,9 @@ title: "Section 241 - Leases of lands"
 usc_title: 30
 usc_section: "241"
 chapter: 3
-current_through: "PL 116-78"
+current_through: "PL 116-91"
 classification: "30 U.S.C. § 241"
-generated_at: "2026-03-30T08:53:09.974Z"
+generated_at: "2026-03-30T08:56:26.813Z"
 status: "active"
 ---
 
