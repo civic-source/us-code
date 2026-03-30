@@ -3,9 +3,9 @@ title: "Section 188 - Authorization of appropriations"
 usc_title: 45
 usc_section: "188"
 chapter: 8
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "45 U.S.C. § 188"
-generated_at: "2026-03-30T08:36:29.896Z"
+generated_at: "2026-03-30T08:39:27.531Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 28e - Recordation of deferment"
 usc_title: 30
 usc_section: "28e"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "30 U.S.C. § 28e"
-generated_at: "2026-03-30T08:35:33.501Z"
+generated_at: "2026-03-30T08:38:30.679Z"
 status: "active"
 ---
 

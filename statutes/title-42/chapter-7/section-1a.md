@@ -3,9 +3,9 @@ title: "Section 1a - Presumptive eligibility for children"
 usc_title: 42
 usc_section: "1a"
 chapter: 7
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T08:36:42.121Z"
+generated_at: "2026-03-30T08:40:13.938Z"
 status: "active"
 ---
 

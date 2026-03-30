@@ -3,9 +3,9 @@ title: "Section 1822 - Wages, supplies, and other working arrangements"
 usc_title: 29
 usc_section: "1822"
 chapter: 20
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "29 U.S.C. § 1822"
-generated_at: "2026-03-30T08:36:05.297Z"
+generated_at: "2026-03-30T08:38:19.504Z"
 status: "active"
 ---
 

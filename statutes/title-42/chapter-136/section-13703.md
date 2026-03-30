@@ -3,9 +3,9 @@ title: "Section 13703 - Transferred"
 usc_title: 42
 usc_section: "13703"
 chapter: 136
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 13703"
-generated_at: "2026-03-30T08:36:42.460Z"
+generated_at: "2026-03-30T08:40:14.272Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 170301 - Definition"
 usc_title: 36
 usc_section: "170301"
 chapter: 1703
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "36 U.S.C. § 170301"
-generated_at: "2026-03-30T08:36:26.002Z"
+generated_at: "2026-03-30T08:39:16.442Z"
 status: "active"
 ---
 

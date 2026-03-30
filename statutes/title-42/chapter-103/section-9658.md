@@ -3,9 +3,9 @@ title: "Section 9658 - Actions under State law for damages from exposure to haza
 usc_title: 42
 usc_section: "9658"
 chapter: 103
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 9658"
-generated_at: "2026-03-30T08:36:42.386Z"
+generated_at: "2026-03-30T08:40:14.199Z"
 status: "active"
 ---
 

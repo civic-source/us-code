@@ -3,9 +3,9 @@ title: "Section 6578 - Repealed. Pub. L. 114–95, title I, § 1501(a)(3) , Dec.
 usc_title: 20
 usc_section: "6578"
 chapter: 70
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "20 U.S.C. § 6578"
-generated_at: "2026-03-30T08:35:19.571Z"
+generated_at: "2026-03-30T08:37:39.498Z"
 status: "repealed"
 ---
 

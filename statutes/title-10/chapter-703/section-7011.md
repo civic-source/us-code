@@ -3,9 +3,9 @@ title: "Section 7011 - Organization"
 usc_title: 10
 usc_section: "7011"
 chapter: 703
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 7011"
-generated_at: "2026-03-30T08:34:50.736Z"
+generated_at: "2026-03-30T08:37:22.169Z"
 status: "active"
 ---
 

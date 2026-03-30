@@ -3,9 +3,9 @@ title: "Section 189 - Utilization of Department of Energy national laboratories 
 usc_title: 6
 usc_section: "189"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "6 U.S.C. § 189"
-generated_at: "2026-03-30T08:34:46.176Z"
+generated_at: "2026-03-30T08:37:22.569Z"
 status: "active"
 ---
 

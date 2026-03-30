@@ -3,9 +3,9 @@ title: "Section 543 - Mono Basin National Forest Scenic Area; establishment"
 usc_title: 16
 usc_section: "543"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 543"
-generated_at: "2026-03-30T08:35:17.666Z"
+generated_at: "2026-03-30T08:37:53.355Z"
 status: "active"
 ---
 

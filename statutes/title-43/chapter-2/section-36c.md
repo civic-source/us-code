@@ -3,9 +3,9 @@ title: "Section 36c - Acceptance of contributions from public and private source
 usc_title: 43
 usc_section: "36c"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "43 U.S.C. § 36c"
-generated_at: "2026-03-30T08:36:30.447Z"
+generated_at: "2026-03-30T08:39:29.229Z"
 status: "active"
 ---
 

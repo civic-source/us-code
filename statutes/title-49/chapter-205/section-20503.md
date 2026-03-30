@@ -3,9 +3,9 @@ title: "Section 20503 - Amending regulations and changing requirements"
 usc_title: 49
 usc_section: "20503"
 chapter: 205
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "49 U.S.C. § 20503"
-generated_at: "2026-03-30T08:36:53.281Z"
+generated_at: "2026-03-30T08:40:50.152Z"
 status: "active"
 ---
 

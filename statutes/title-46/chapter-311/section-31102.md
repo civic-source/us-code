@@ -3,9 +3,9 @@ title: "Section 31102 - Waiver of immunity"
 usc_title: 46
 usc_section: "31102"
 chapter: 311
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "46 U.S.C. § 31102"
-generated_at: "2026-03-30T08:36:54.065Z"
+generated_at: "2026-03-30T08:40:22.650Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2207 - Vice-Presidential records"
 usc_title: 44
 usc_section: "2207"
 chapter: 22
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "44 U.S.C. § 2207"
-generated_at: "2026-03-30T08:36:29.379Z"
+generated_at: "2026-03-30T08:39:27.313Z"
 status: "active"
 ---
 

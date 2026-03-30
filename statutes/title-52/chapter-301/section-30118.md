@@ -3,9 +3,9 @@ title: "Section 30118 - Contributions or expenditures by national banks, corpora
 usc_title: 52
 usc_section: "30118"
 chapter: 301
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "52 U.S.C. § 30118"
-generated_at: "2026-03-30T08:36:56.398Z"
+generated_at: "2026-03-30T08:40:54.510Z"
 status: "active"
 ---
 

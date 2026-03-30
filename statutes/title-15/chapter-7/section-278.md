@@ -3,9 +3,9 @@ title: "Section 278 - Visiting Committee on Advanced Technology"
 usc_title: 15
 usc_section: "278"
 chapter: 7
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 278"
-generated_at: "2026-03-30T08:35:09.752Z"
+generated_at: "2026-03-30T08:37:34.126Z"
 status: "active"
 ---
 

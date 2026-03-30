@@ -3,9 +3,9 @@ title: "Section 2207d - Reports on disbursement of funds for agricultural resear
 usc_title: 7
 usc_section: "2207d"
 chapter: 55
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 2207d"
-generated_at: "2026-03-30T08:34:52.837Z"
+generated_at: "2026-03-30T08:37:18.121Z"
 status: "active"
 ---
 

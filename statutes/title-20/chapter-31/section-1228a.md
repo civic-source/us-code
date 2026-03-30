@@ -3,9 +3,9 @@ title: "Section 1228a - Equity for students, teachers, and other program benefic
 usc_title: 20
 usc_section: "1228a"
 chapter: 31
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "20 U.S.C. § 1228a"
-generated_at: "2026-03-30T08:35:19.528Z"
+generated_at: "2026-03-30T08:37:39.455Z"
 status: "active"
 ---
 

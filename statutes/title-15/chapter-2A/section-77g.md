@@ -3,9 +3,9 @@ title: "Section 77g - Information required in registration statement"
 usc_title: 15
 usc_section: "77g"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 77g"
-generated_at: "2026-03-30T08:35:09.706Z"
+generated_at: "2026-03-30T08:37:34.082Z"
 status: "active"
 ---
 

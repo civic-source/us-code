@@ -3,9 +3,9 @@ title: "Section 5 - Applicability to certain uranium employees"
 usc_title: 42
 usc_section: "5"
 chapter: 84
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T08:36:42.326Z"
+generated_at: "2026-03-30T08:40:14.140Z"
 status: "active"
 ---
 

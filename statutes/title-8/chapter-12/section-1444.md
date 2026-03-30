@@ -3,9 +3,9 @@ title: "Section 1444 - Photographs; number"
 usc_title: 8
 usc_section: "1444"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "8 U.S.C. § 1444"
-generated_at: "2026-03-30T08:34:43.749Z"
+generated_at: "2026-03-30T08:37:14.584Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7845 - Annual reports"
 usc_title: 22
 usc_section: "7845"
 chapter: 85
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 7845"
-generated_at: "2026-03-30T08:35:26.641Z"
+generated_at: "2026-03-30T08:38:01.254Z"
 status: "active"
 ---
 

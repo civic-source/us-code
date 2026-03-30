@@ -3,9 +3,9 @@ title: "Section 10386 - Revocation or suspension of funding"
 usc_title: 34
 usc_section: "10386"
 chapter: 101
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "34 U.S.C. § 10386"
-generated_at: "2026-03-30T08:36:13.879Z"
+generated_at: "2026-03-30T08:38:59.112Z"
 status: "active"
 ---
 

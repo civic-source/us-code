@@ -3,9 +3,9 @@ title: "Section 12105 - Special rules"
 usc_title: 34
 usc_section: "12105"
 chapter: 121
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "34 U.S.C. § 12105"
-generated_at: "2026-03-30T08:36:13.891Z"
+generated_at: "2026-03-30T08:38:59.125Z"
 status: "active"
 ---
 

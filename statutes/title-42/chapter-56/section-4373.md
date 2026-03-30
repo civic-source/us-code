@@ -3,9 +3,9 @@ title: "Section 4373 - Referral of Environmental Quality Reports to standing com
 usc_title: 42
 usc_section: "4373"
 chapter: 56
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 4373"
-generated_at: "2026-03-30T08:36:42.251Z"
+generated_at: "2026-03-30T08:40:14.066Z"
 status: "active"
 ---
 

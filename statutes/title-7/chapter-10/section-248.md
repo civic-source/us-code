@@ -3,9 +3,9 @@ title: "Section 248 - Commingling of agricultural products"
 usc_title: 7
 usc_section: "248"
 chapter: 10
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 248"
-generated_at: "2026-03-30T08:34:52.759Z"
+generated_at: "2026-03-30T08:37:18.034Z"
 status: "active"
 ---
 

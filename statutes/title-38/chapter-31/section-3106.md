@@ -3,9 +3,9 @@ title: "Section 3106 - Initial and extended evaluations; determinations regardin
 usc_title: 38
 usc_section: "3106"
 chapter: 31
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "38 U.S.C. § 3106"
-generated_at: "2026-03-30T08:36:27.618Z"
+generated_at: "2026-03-30T08:39:25.582Z"
 status: "active"
 ---
 

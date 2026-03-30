@@ -3,9 +3,9 @@ title: "Section 5123 - References"
 usc_title: 42
 usc_section: "5123"
 chapter: 68
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 5123"
-generated_at: "2026-03-30T08:36:42.263Z"
+generated_at: "2026-03-30T08:40:14.079Z"
 status: "active"
 ---
 

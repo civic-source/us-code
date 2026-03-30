@@ -3,9 +3,9 @@ title: "Section 501 - Utilization of services of Government agencies to promote 
 usc_title: 22
 usc_section: "501"
 chapter: 10
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 501"
-generated_at: "2026-03-30T08:35:26.537Z"
+generated_at: "2026-03-30T08:38:01.145Z"
 status: "active"
 ---
 

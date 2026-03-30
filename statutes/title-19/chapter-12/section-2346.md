@@ -3,9 +3,9 @@ title: "Section 2346 - Repealed. Pub. L. 111–5, div. B, title I, § 1864(a)(1)
 usc_title: 19
 usc_section: "2346"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "19 U.S.C. § 2346"
-generated_at: "2026-03-30T08:35:14.611Z"
+generated_at: "2026-03-30T08:37:50.221Z"
 status: "repealed"
 ---
 

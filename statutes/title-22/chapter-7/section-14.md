@@ -3,9 +3,9 @@ title: "Section 14 - Additional authorization for payment of United States contr
 usc_title: 22
 usc_section: "14"
 chapter: 7
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 14"
-generated_at: "2026-03-30T08:35:26.534Z"
+generated_at: "2026-03-30T08:38:01.140Z"
 status: "active"
 ---
 

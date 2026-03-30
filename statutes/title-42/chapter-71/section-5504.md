@@ -3,9 +3,9 @@ title: "Section 5504 - Development and demonstration of combined solar heating a
 usc_title: 42
 usc_section: "5504"
 chapter: 71
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 5504"
-generated_at: "2026-03-30T08:36:42.276Z"
+generated_at: "2026-03-30T08:40:14.091Z"
 status: "active"
 ---
 

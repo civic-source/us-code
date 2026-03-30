@@ -3,9 +3,9 @@ title: "Section 3666 - Bribe moneys"
 usc_title: 18
 usc_section: "3666"
 chapter: 232
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "18 U.S.C. § 3666"
-generated_at: "2026-03-30T08:35:13.306Z"
+generated_at: "2026-03-30T08:37:37.672Z"
 status: "active"
 ---
 

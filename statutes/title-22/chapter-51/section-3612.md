@@ -3,9 +3,9 @@ title: "Section 3612 - Supervisory Board"
 usc_title: 22
 usc_section: "3612"
 chapter: 51
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 3612"
-generated_at: "2026-03-30T08:35:26.593Z"
+generated_at: "2026-03-30T08:38:01.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3303 - Application to Taiwan of laws and international agreement
 usc_title: 22
 usc_section: "3303"
 chapter: 48
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 3303"
-generated_at: "2026-03-30T08:35:26.592Z"
+generated_at: "2026-03-30T08:38:01.202Z"
 status: "active"
 ---
 

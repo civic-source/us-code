@@ -3,9 +3,9 @@ title: "Section 221 - Future-years defense program: submission to Congress; cons
 usc_title: 10
 usc_section: "221"
 chapter: 9
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 221"
-generated_at: "2026-03-30T08:34:50.635Z"
+generated_at: "2026-03-30T08:37:22.065Z"
 status: "active"
 ---
 

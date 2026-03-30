@@ -3,9 +3,9 @@ title: "Section 5108 - Acquisition of lands, water rights or surface rights; app
 usc_title: 25
 usc_section: "5108"
 chapter: 45
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 5108"
-generated_at: "2026-03-30T08:35:27.992Z"
+generated_at: "2026-03-30T08:37:57.398Z"
 status: "active"
 ---
 

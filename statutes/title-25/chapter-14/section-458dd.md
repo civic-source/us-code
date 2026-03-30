@@ -3,9 +3,9 @@ title: "Section 458dd - Transferred"
 usc_title: 25
 usc_section: "458dd"
 chapter: 14
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 458dd"
-generated_at: "2026-03-30T08:35:27.945Z"
+generated_at: "2026-03-30T08:37:57.350Z"
 status: "transferred"
 ---
 

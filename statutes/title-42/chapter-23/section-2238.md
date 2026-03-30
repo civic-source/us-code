@@ -3,9 +3,9 @@ title: "Section 2238 - Continued operation of facilities"
 usc_title: 42
 usc_section: "2238"
 chapter: 23
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 2238"
-generated_at: "2026-03-30T08:36:42.211Z"
+generated_at: "2026-03-30T08:40:14.026Z"
 status: "active"
 ---
 

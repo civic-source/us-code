@@ -3,9 +3,9 @@ title: "Section 152905 - Governing body"
 usc_title: 36
 usc_section: "152905"
 chapter: 1529
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "36 U.S.C. § 152905"
-generated_at: "2026-03-30T08:36:26.000Z"
+generated_at: "2026-03-30T08:39:16.440Z"
 status: "active"
 ---
 

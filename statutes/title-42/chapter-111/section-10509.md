@@ -3,9 +3,9 @@ title: "Section 10509 - Repealed. Pub. L. 105–362, title X, § 1001(a) , Nov. 
 usc_title: 42
 usc_section: "10509"
 chapter: 111
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 10509"
-generated_at: "2026-03-30T08:36:42.410Z"
+generated_at: "2026-03-30T08:40:14.222Z"
 status: "repealed"
 ---
 

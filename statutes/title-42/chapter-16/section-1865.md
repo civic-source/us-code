@@ -3,9 +3,9 @@ title: "Section 1865 - Executive Committee"
 usc_title: 42
 usc_section: "1865"
 chapter: 16
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 1865"
-generated_at: "2026-03-30T08:36:42.186Z"
+generated_at: "2026-03-30T08:40:14.002Z"
 status: "active"
 ---
 

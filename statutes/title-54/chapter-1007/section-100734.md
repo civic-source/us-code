@@ -3,9 +3,9 @@ title: "Section 100734 - Report on finding or notification of potential damage t
 usc_title: 54
 usc_section: "100734"
 chapter: 1007
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "54 U.S.C. § 100734"
-generated_at: "2026-03-30T08:36:55.905Z"
+generated_at: "2026-03-30T08:41:05.752Z"
 status: "active"
 ---
 

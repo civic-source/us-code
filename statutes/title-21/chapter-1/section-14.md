@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. June 25, 1938, ch. 675, § 1002(a) , formerly § 
 usc_title: 21
 usc_section: "14"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "21 U.S.C. § 14"
-generated_at: "2026-03-30T08:35:22.693Z"
+generated_at: "2026-03-30T08:38:14.355Z"
 status: "repealed"
 ---
 

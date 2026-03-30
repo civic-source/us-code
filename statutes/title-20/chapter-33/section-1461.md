@@ -3,9 +3,9 @@ title: "Section 1461 - Purpose; definition of eligible entity"
 usc_title: 20
 usc_section: "1461"
 chapter: 33
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "20 U.S.C. § 1461"
-generated_at: "2026-03-30T08:35:19.539Z"
+generated_at: "2026-03-30T08:37:39.466Z"
 status: "active"
 ---
 

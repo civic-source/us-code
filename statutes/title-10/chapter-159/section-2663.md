@@ -3,9 +3,9 @@ title: "Section 2663 - Land acquisition authorities"
 usc_title: 10
 usc_section: "2663"
 chapter: 159
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 2663"
-generated_at: "2026-03-30T08:34:50.726Z"
+generated_at: "2026-03-30T08:37:22.159Z"
 status: "active"
 ---
 

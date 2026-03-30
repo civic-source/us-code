@@ -3,9 +3,9 @@ title: "Section 2446b - Requirement to address modular open system approach in p
 usc_title: 10
 usc_section: "2446b"
 chapter: 144
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 2446b"
-generated_at: "2026-03-30T08:34:50.716Z"
+generated_at: "2026-03-30T08:37:22.150Z"
 status: "active"
 ---
 

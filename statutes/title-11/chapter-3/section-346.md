@@ -3,9 +3,9 @@ title: "Section 346 - Special provisions related to the treatment of State and l
 usc_title: 11
 usc_section: "346"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "11 U.S.C. § 346"
-generated_at: "2026-03-30T08:34:55.406Z"
+generated_at: "2026-03-30T08:37:29.539Z"
 status: "active"
 ---
 

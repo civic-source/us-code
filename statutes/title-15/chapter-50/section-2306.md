@@ -3,9 +3,9 @@ title: "Section 2306 - Service contracts; rules for full, clear and conspicuous 
 usc_title: 15
 usc_section: "2306"
 chapter: 50
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 2306"
-generated_at: "2026-03-30T08:35:09.844Z"
+generated_at: "2026-03-30T08:37:34.214Z"
 status: "active"
 ---
 

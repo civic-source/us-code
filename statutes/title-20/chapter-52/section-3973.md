@@ -3,9 +3,9 @@ title: "Section 3973 - Repealed. Pub. L. 100–297, title II, § 2303 , Apr. 28,
 usc_title: 20
 usc_section: "3973"
 chapter: 52
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "20 U.S.C. § 3973"
-generated_at: "2026-03-30T08:35:19.552Z"
+generated_at: "2026-03-30T08:37:39.479Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1826 - Large-scale driftnet fishing"
 usc_title: 16
 usc_section: "1826"
 chapter: 38
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 1826"
-generated_at: "2026-03-30T08:35:17.741Z"
+generated_at: "2026-03-30T08:37:53.430Z"
 status: "active"
 ---
 

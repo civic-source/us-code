@@ -3,15 +3,15 @@ title: "Section 3003 - Congressional declaration of additional objectives"
 usc_title: 42
 usc_section: "3003"
 chapter: 35
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 3003"
-generated_at: "2026-03-30T08:36:42.221Z"
+generated_at: "2026-03-30T08:40:14.037Z"
 status: "active"
 ---
 
 # § 3003. Congressional declaration of additional objectives
 
-The Congress finds that millions of older citizens in this Nation are suffering unnecessary harm from the lack of adequate services. It is therefore the purpose of this Act, in support of the objectives of this chapter, to—
+The Congress finds that millions of older citizens in this Nation are suffering unnecessary harm from the lack of adequate services. It is therefore the purpose of this Act, in support of the objectives of the Older Americans Act of 1965 [ 42 U.S.C. 3001 et seq.], to—
 
   - **(1)** make available comprehensive programs which include a full range of health, education, and supportive services to our older citizens who need them,
   - **(2)** give full and special consideration to older citizens with special needs in planning such programs, and, pending the availability of such programs for all older citizens, give priority to the elderly with the greatest economic and social need.

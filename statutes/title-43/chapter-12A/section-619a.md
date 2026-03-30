@@ -3,9 +3,9 @@ title: "Section 619a - Renewal contracts for power"
 usc_title: 43
 usc_section: "619a"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "43 U.S.C. § 619a"
-generated_at: "2026-03-30T08:36:30.463Z"
+generated_at: "2026-03-30T08:39:29.246Z"
 status: "active"
 ---
 

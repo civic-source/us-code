@@ -3,9 +3,9 @@ title: "Section 1638d - Applicability"
 usc_title: 7
 usc_section: "1638d"
 chapter: 38
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 1638d"
-generated_at: "2026-03-30T08:34:52.802Z"
+generated_at: "2026-03-30T08:37:18.083Z"
 status: "active"
 ---
 

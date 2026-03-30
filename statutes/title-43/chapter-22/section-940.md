@@ -3,9 +3,9 @@ title: "Section 940 - Forfeiture of rights where railroad not constructed in fiv
 usc_title: 43
 usc_section: "940"
 chapter: 22
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "43 U.S.C. § 940"
-generated_at: "2026-03-30T08:36:30.469Z"
+generated_at: "2026-03-30T08:39:29.251Z"
 status: "active"
 ---
 

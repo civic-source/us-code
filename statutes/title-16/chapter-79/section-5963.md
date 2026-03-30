@@ -3,9 +3,9 @@ title: "Section 5963 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5963"
 chapter: 79
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 5963"
-generated_at: "2026-03-30T08:35:17.784Z"
+generated_at: "2026-03-30T08:37:53.472Z"
 status: "repealed"
 ---
 

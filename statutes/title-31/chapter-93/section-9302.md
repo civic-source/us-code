@@ -3,9 +3,9 @@ title: "Section 9302 - Prohibition against surety bonds for United States Govern
 usc_title: 31
 usc_section: "9302"
 chapter: 93
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "31 U.S.C. § 9302"
-generated_at: "2026-03-30T08:36:21.698Z"
+generated_at: "2026-03-30T08:38:51.361Z"
 status: "active"
 ---
 

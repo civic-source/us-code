@@ -3,9 +3,9 @@ title: "Section 901a - Repealed. Aug. 28, 1950, ch. 809 , title IV, § 401(b), 6
 usc_title: 42
 usc_section: "901a"
 chapter: 7
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 901a"
-generated_at: "2026-03-30T08:36:42.002Z"
+generated_at: "2026-03-30T08:40:13.822Z"
 status: "repealed"
 ---
 

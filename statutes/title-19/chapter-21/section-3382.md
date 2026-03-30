@@ -3,9 +3,9 @@ title: "Section 3382 - Procedures concerning conduct of International Trade Comm
 usc_title: 19
 usc_section: "3382"
 chapter: 21
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "19 U.S.C. § 3382"
-generated_at: "2026-03-30T08:35:14.628Z"
+generated_at: "2026-03-30T08:37:50.239Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2462 - Repealed. Pub. L. 113–291, div. A, title X, § 1060(a)(
 usc_title: 10
 usc_section: "2462"
 chapter: 146
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 2462"
-generated_at: "2026-03-30T08:34:50.717Z"
+generated_at: "2026-03-30T08:37:22.150Z"
 status: "repealed"
 ---
 

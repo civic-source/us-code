@@ -3,9 +3,9 @@ title: "Section 1402 - Authority and functions of agency Chief Human Capital Off
 usc_title: 5
 usc_section: "1402"
 chapter: 14
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "5 U.S.C. § 1402"
-generated_at: "2026-03-30T08:34:40.832Z"
+generated_at: "2026-03-30T08:37:11.655Z"
 status: "active"
 ---
 

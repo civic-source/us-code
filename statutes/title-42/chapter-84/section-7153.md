@@ -3,9 +3,9 @@ title: "Section 7153 - Administration of leasing transfers"
 usc_title: 42
 usc_section: "7153"
 chapter: 84
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 7153"
-generated_at: "2026-03-30T08:36:42.318Z"
+generated_at: "2026-03-30T08:40:14.133Z"
 status: "active"
 ---
 

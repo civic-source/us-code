@@ -3,9 +3,9 @@ title: "Section 7341a - Purpose"
 usc_title: 20
 usc_section: "7341a"
 chapter: 70
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "20 U.S.C. § 7341a"
-generated_at: "2026-03-30T08:35:19.580Z"
+generated_at: "2026-03-30T08:37:39.507Z"
 status: "active"
 ---
 

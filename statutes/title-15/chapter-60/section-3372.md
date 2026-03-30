@@ -3,9 +3,9 @@ title: "Section 3372 - Assignment of contractual rights to receive surplus natur
 usc_title: 15
 usc_section: "3372"
 chapter: 60
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 3372"
-generated_at: "2026-03-30T08:35:09.861Z"
+generated_at: "2026-03-30T08:37:34.230Z"
 status: "active"
 ---
 

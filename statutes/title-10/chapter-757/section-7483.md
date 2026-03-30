@@ -3,9 +3,9 @@ title: "Section 7483 - Transportation and subsistence during travel"
 usc_title: 10
 usc_section: "7483"
 chapter: 757
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 7483"
-generated_at: "2026-03-30T08:34:50.740Z"
+generated_at: "2026-03-30T08:37:22.174Z"
 status: "active"
 ---
 

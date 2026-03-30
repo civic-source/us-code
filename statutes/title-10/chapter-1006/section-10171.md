@@ -3,9 +3,9 @@ title: "Section 10171 - United States Army Reserve Command"
 usc_title: 10
 usc_section: "10171"
 chapter: 1006
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 10171"
-generated_at: "2026-03-30T08:34:50.760Z"
+generated_at: "2026-03-30T08:37:22.194Z"
 status: "active"
 ---
 

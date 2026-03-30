@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 113–79, title II, § 2709(a) , Feb. 7, 2
 usc_title: 16
 usc_section: "4"
 chapter: 58
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T08:35:17.770Z"
+generated_at: "2026-03-30T08:37:53.458Z"
 status: "repealed"
 ---
 

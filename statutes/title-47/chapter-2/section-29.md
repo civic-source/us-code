@@ -3,9 +3,9 @@ title: "Section 29 - Master of offending vessel punishable"
 usc_title: 47
 usc_section: "29"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "47 U.S.C. § 29"
-generated_at: "2026-03-30T08:36:48.576Z"
+generated_at: "2026-03-30T08:40:20.944Z"
 status: "active"
 ---
 

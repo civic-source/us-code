@@ -3,9 +3,9 @@ title: "Section 416 - Use of protective equipment or measures by employees"
 usc_title: 6
 usc_section: "416"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "6 U.S.C. § 416"
-generated_at: "2026-03-30T08:34:46.187Z"
+generated_at: "2026-03-30T08:37:22.581Z"
 status: "active"
 ---
 

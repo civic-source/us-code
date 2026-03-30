@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 43
 usc_section: "4"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T08:36:30.462Z"
+generated_at: "2026-03-30T08:39:29.244Z"
 status: "omitted"
 ---
 

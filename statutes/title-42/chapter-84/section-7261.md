@@ -3,9 +3,9 @@ title: "Section 7261 - Acquisition of copyrights, patents, etc."
 usc_title: 42
 usc_section: "7261"
 chapter: 84
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 7261"
-generated_at: "2026-03-30T08:36:42.320Z"
+generated_at: "2026-03-30T08:40:14.135Z"
 status: "active"
 ---
 

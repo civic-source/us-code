@@ -3,9 +3,9 @@ title: "Section 4a - Supplemental grants for additional preventive health servic
 usc_title: 42
 usc_section: "4a"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T08:36:41.928Z"
+generated_at: "2026-03-30T08:40:13.746Z"
 status: "active"
 ---
 

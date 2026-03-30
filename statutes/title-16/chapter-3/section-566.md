@@ -3,9 +3,9 @@ title: "Section 566 - Repealed. Pub. L. 95–313, § 16(a)(1) , formerly § 13(a
 usc_title: 16
 usc_section: "566"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 566"
-generated_at: "2026-03-30T08:35:17.671Z"
+generated_at: "2026-03-30T08:37:53.360Z"
 status: "repealed"
 ---
 

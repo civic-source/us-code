@@ -3,9 +3,9 @@ title: "Section 1021 - Department of Justice Telecommunications Carrier Complian
 usc_title: 47
 usc_section: "1021"
 chapter: 9
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "47 U.S.C. § 1021"
-generated_at: "2026-03-30T08:36:48.607Z"
+generated_at: "2026-03-30T08:40:20.976Z"
 status: "active"
 ---
 

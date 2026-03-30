@@ -3,9 +3,9 @@ title: "Section 2326 - Undefinitized contractual actions: restrictions"
 usc_title: 10
 usc_section: "2326"
 chapter: 137
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 2326"
-generated_at: "2026-03-30T08:34:50.707Z"
+generated_at: "2026-03-30T08:37:22.139Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 254c - Rural health care services outreach, rural health network
 usc_title: 42
 usc_section: "254c"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 254c"
-generated_at: "2026-03-30T08:36:41.846Z"
+generated_at: "2026-03-30T08:40:13.664Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1376 - Data on nonimmigrant overstay rates"
 usc_title: 8
 usc_section: "1376"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "8 U.S.C. § 1376"
-generated_at: "2026-03-30T08:34:43.746Z"
+generated_at: "2026-03-30T08:37:14.582Z"
 status: "active"
 ---
 

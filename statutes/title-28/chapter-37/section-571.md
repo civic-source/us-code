@@ -3,9 +3,9 @@ title: "Section 571 - Repealed. Pub. L. 100–690, title VII, § 7608(a)(1) , No
 usc_title: 28
 usc_section: "571"
 chapter: 37
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "28 U.S.C. § 571"
-generated_at: "2026-03-30T08:35:30.899Z"
+generated_at: "2026-03-30T08:38:48.682Z"
 status: "repealed"
 ---
 

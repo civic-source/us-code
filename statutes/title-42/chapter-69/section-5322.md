@@ -3,9 +3,9 @@ title: "Section 5322 - Funds made available for administrative costs without reg
 usc_title: 42
 usc_section: "5322"
 chapter: 69
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 5322"
-generated_at: "2026-03-30T08:36:42.273Z"
+generated_at: "2026-03-30T08:40:14.089Z"
 status: "active"
 ---
 

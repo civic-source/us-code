@@ -3,9 +3,9 @@ title: "Section 831y - Net proceeds over expense payable into Treasury"
 usc_title: 16
 usc_section: "831y"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 831y"
-generated_at: "2026-03-30T08:35:17.703Z"
+generated_at: "2026-03-30T08:37:53.391Z"
 status: "active"
 ---
 

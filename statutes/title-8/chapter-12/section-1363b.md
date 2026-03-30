@@ -3,9 +3,9 @@ title: "Section 1363b - Repealed. Pub. L. 105–277, div. A, § 101(b) [title I,
 usc_title: 8
 usc_section: "1363b"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "8 U.S.C. § 1363b"
-generated_at: "2026-03-30T08:34:43.743Z"
+generated_at: "2026-03-30T08:37:14.580Z"
 status: "repealed"
 ---
 

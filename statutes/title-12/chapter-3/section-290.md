@@ -3,9 +3,9 @@ title: "Section 290 - Use of earnings transferred to the Treasury"
 usc_title: 12
 usc_section: "290"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "12 U.S.C. § 290"
-generated_at: "2026-03-30T08:34:58.609Z"
+generated_at: "2026-03-30T08:37:28.518Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16024 - Nuclear Regulatory Commission"
 usc_title: 42
 usc_section: "16024"
 chapter: 149
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 16024"
-generated_at: "2026-03-30T08:36:42.475Z"
+generated_at: "2026-03-30T08:40:14.287Z"
 status: "active"
 ---
 

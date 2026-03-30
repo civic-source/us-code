@@ -3,9 +3,9 @@ title: "Section 21 - Identification of WTC responders and provision of WTC-relat
 usc_title: 42
 usc_section: "21"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T08:36:41.962Z"
+generated_at: "2026-03-30T08:40:13.782Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
       - **(i)** In accordance with subparagraph (A)(i), the WTC Program Administrator shall enroll an individual described in paragraph (1)(A) in the WTC Program not later than July 1, 2011 .
       - **(ii)** In accordance with subparagraph (A)(ii) and consistent with paragraph (4), the WTC Program Administrator shall enroll any other individual who is determined to be a WTC responder in the WTC Program at the time of such determination.
   - **(4)**
-    - **(A)** The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 25,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
+    - **(A)** The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
     - **(B)** In implementing subparagraph (A), the WTC Program Administrator shall—
       - **(i)** limit the number of enrollments made under paragraph (3)—
         - **(I)** in accordance with such subparagraph; and

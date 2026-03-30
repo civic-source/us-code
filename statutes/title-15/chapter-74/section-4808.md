@@ -3,9 +3,9 @@ title: "Section 4808 - Authorization of appropriations"
 usc_title: 15
 usc_section: "4808"
 chapter: 74
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 4808"
-generated_at: "2026-03-30T08:35:09.874Z"
+generated_at: "2026-03-30T08:37:34.273Z"
 status: "active"
 ---
 

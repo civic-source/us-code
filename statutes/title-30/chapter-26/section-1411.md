@@ -3,9 +3,9 @@ title: "Section 1411 - Prohibited activities by United States citizens"
 usc_title: 30
 usc_section: "1411"
 chapter: 26
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "30 U.S.C. § 1411"
-generated_at: "2026-03-30T08:35:33.531Z"
+generated_at: "2026-03-30T08:38:30.713Z"
 status: "active"
 ---
 

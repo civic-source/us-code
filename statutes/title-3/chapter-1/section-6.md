@@ -3,9 +3,9 @@ title: "Section 6 - Credentials of electors; transmission to Archivist of the Un
 usc_title: 3
 usc_section: "6"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "3 U.S.C. § 6"
-generated_at: "2026-03-30T08:34:33.381Z"
+generated_at: "2026-03-30T08:37:06.807Z"
 status: "active"
 ---
 

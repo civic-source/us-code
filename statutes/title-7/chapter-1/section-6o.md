@@ -3,9 +3,9 @@ title: "Section 6o - Fraud and misrepresentation by commodity trading advisors, 
 usc_title: 7
 usc_section: "6o"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 6o"
-generated_at: "2026-03-30T08:34:52.731Z"
+generated_at: "2026-03-30T08:37:18.001Z"
 status: "active"
 ---
 

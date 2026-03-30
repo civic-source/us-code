@@ -3,9 +3,9 @@ title: "Section 909a - Art. 109a. Mail matter: wrongful taking, opening, etc."
 usc_title: 10
 usc_section: "909a"
 chapter: 47
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 909a"
-generated_at: "2026-03-30T08:34:50.657Z"
+generated_at: "2026-03-30T08:37:22.087Z"
 status: "active"
 ---
 

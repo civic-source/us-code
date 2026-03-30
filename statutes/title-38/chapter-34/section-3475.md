@@ -3,9 +3,9 @@ title: "Section 3475 - Vacant]"
 usc_title: 38
 usc_section: "3475"
 chapter: 34
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "38 U.S.C. § 3475"
-generated_at: "2026-03-30T08:36:27.622Z"
+generated_at: "2026-03-30T08:39:25.586Z"
 status: "active"
 ---
 

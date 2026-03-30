@@ -3,9 +3,9 @@ title: "Section 4507a - Awarding of ranks to other senior career employees"
 usc_title: 5
 usc_section: "4507a"
 chapter: 45
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "5 U.S.C. § 4507a"
-generated_at: "2026-03-30T08:34:40.840Z"
+generated_at: "2026-03-30T08:37:11.665Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1509 - Repealed. Pub. L. 95–313, § 16(a)(7) , formerly § 13(
 usc_title: 16
 usc_section: "1509"
 chapter: 34
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 1509"
-generated_at: "2026-03-30T08:35:17.734Z"
+generated_at: "2026-03-30T08:37:53.422Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 903d - Omitted"
 usc_title: 25
 usc_section: "903d"
 chapter: 14
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 903d"
-generated_at: "2026-03-30T08:35:27.948Z"
+generated_at: "2026-03-30T08:37:57.353Z"
 status: "omitted"
 ---
 

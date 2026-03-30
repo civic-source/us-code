@@ -3,9 +3,9 @@ title: "Section 2664a - Protection of Civil Service employees"
 usc_title: 22
 usc_section: "2664a"
 chapter: 38
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 2664a"
-generated_at: "2026-03-30T08:35:26.580Z"
+generated_at: "2026-03-30T08:38:01.189Z"
 status: "active"
 ---
 

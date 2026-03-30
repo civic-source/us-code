@@ -3,9 +3,9 @@ title: "Section 670n - Repealed. Pub. L. 112–81, div. A, title III, § 312(d) 
 usc_title: 16
 usc_section: "670n"
 chapter: 5
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 670n"
-generated_at: "2026-03-30T08:35:17.682Z"
+generated_at: "2026-03-30T08:37:53.371Z"
 status: "repealed"
 ---
 

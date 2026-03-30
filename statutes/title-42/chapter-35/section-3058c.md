@@ -3,9 +3,9 @@ title: "Section 3058c - Organization"
 usc_title: 42
 usc_section: "3058c"
 chapter: 35
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 3058c"
-generated_at: "2026-03-30T08:36:42.230Z"
+generated_at: "2026-03-30T08:40:14.046Z"
 status: "active"
 ---
 

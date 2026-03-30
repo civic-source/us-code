@@ -3,9 +3,9 @@ title: "Section 4302 - Establishment of performance appraisal systems"
 usc_title: 5
 usc_section: "4302"
 chapter: 43
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "5 U.S.C. § 4302"
-generated_at: "2026-03-30T08:34:40.840Z"
+generated_at: "2026-03-30T08:37:11.664Z"
 status: "active"
 ---
 

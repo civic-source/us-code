@@ -3,9 +3,9 @@ title: "Section 14517 - Entitlement of officers discharged under this chapter to
 usc_title: 10
 usc_section: "14517"
 chapter: 1407
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 14517"
-generated_at: "2026-03-30T08:34:50.768Z"
+generated_at: "2026-03-30T08:37:22.203Z"
 status: "active"
 ---
 

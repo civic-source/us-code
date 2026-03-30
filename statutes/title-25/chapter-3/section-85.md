@@ -3,9 +3,9 @@ title: "Section 85 - Contracts relating to tribal funds or property"
 usc_title: 25
 usc_section: "85"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 85"
-generated_at: "2026-03-30T08:35:27.935Z"
+generated_at: "2026-03-30T08:37:57.340Z"
 status: "active"
 ---
 

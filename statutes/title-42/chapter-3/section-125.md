@@ -3,9 +3,9 @@ title: "Section 125 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "125"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 125"
-generated_at: "2026-03-30T08:36:41.824Z"
+generated_at: "2026-03-30T08:40:13.640Z"
 status: "repealed"
 ---
 

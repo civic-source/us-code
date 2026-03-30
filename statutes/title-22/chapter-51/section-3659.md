@@ -3,9 +3,9 @@ title: "Section 3659 - Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a
 usc_title: 22
 usc_section: "3659"
 chapter: 51
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 3659"
-generated_at: "2026-03-30T08:35:26.594Z"
+generated_at: "2026-03-30T08:38:01.205Z"
 status: "repealed"
 ---
 

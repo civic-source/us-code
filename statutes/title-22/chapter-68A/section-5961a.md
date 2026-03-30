@@ -3,9 +3,9 @@ title: "Section 5961a - Requirement for on-site managers"
 usc_title: 22
 usc_section: "5961a"
 chapter: 68
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 5961a"
-generated_at: "2026-03-30T08:35:26.618Z"
+generated_at: "2026-03-30T08:38:01.230Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31 - Identification and initial health evaluation of screening-e
 usc_title: 42
 usc_section: "31"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-30T08:36:41.963Z"
+generated_at: "2026-03-30T08:40:13.783Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
         - **(I)** In the case of an individual who is described in paragraph (1)(A)(i), the WTC Program Administrator shall provide the certification under clause (i) not later than July 1, 2011 .
         - **(II)** In the case of another individual who is determined under clause (i) to be eligible for followup monitoring and treatment, the WTC Program Administrator shall provide the certification under such clause at the time of such determination.
   - **(3)**
-    - **(A)** The total number of individuals not described in paragraph (1)(A)(i) who may be certified as certified-eligible WTC survivors under paragraph (2)(B) shall not exceed 25,000 at any time.
+    - **(A)** The total number of individuals not described in paragraph (1)(A)(i) who may be certified as certified-eligible WTC survivors under paragraph (2)(B) shall not exceed 75,000 at any time.
     - **(B)** In implementing subparagraph (A), the WTC Program Administrator shall—
       - **(i)** limit the number of certifications provided under paragraph (2)(B)—
         - **(I)** in accordance with such subparagraph; and

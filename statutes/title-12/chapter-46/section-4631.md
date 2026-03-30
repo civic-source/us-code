@@ -3,9 +3,9 @@ title: "Section 4631 - Cease-and-desist proceedings"
 usc_title: 12
 usc_section: "4631"
 chapter: 46
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "12 U.S.C. § 4631"
-generated_at: "2026-03-30T08:34:58.741Z"
+generated_at: "2026-03-30T08:37:28.695Z"
 status: "active"
 ---
 

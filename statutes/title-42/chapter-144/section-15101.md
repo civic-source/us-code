@@ -3,9 +3,9 @@ title: "Section 15101 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15101"
 chapter: 144
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 15101"
-generated_at: "2026-03-30T08:36:42.468Z"
+generated_at: "2026-03-30T08:40:14.280Z"
 status: "active"
 ---
 

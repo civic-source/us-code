@@ -3,9 +3,9 @@ title: "Section 3126 - Losses and relief from liability related to redeeming sav
 usc_title: 31
 usc_section: "3126"
 chapter: 31
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "31 U.S.C. § 3126"
-generated_at: "2026-03-30T08:36:21.682Z"
+generated_at: "2026-03-30T08:38:51.343Z"
 status: "active"
 ---
 

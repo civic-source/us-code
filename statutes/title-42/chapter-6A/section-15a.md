@@ -3,9 +3,9 @@ title: "Section 15a - Provision of additional information"
 usc_title: 42
 usc_section: "15a"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 15a"
-generated_at: "2026-03-30T08:36:41.952Z"
+generated_at: "2026-03-30T08:40:13.769Z"
 status: "active"
 ---
 

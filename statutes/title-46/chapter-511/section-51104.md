@@ -3,9 +3,9 @@ title: "Section 51104 - General authority of Secretary of the Navy"
 usc_title: 46
 usc_section: "51104"
 chapter: 511
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "46 U.S.C. § 51104"
-generated_at: "2026-03-30T08:36:54.068Z"
+generated_at: "2026-03-30T08:40:22.654Z"
 status: "active"
 ---
 

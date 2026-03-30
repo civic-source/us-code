@@ -3,9 +3,9 @@ title: "Section 1313 - Water quality standards and implementation plans"
 usc_title: 33
 usc_section: "1313"
 chapter: 26
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "33 U.S.C. § 1313"
-generated_at: "2026-03-30T08:36:11.825Z"
+generated_at: "2026-03-30T08:39:11.627Z"
 status: "active"
 ---
 

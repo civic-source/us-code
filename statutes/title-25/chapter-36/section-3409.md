@@ -3,9 +3,9 @@ title: "Section 3409 - Employer training placements"
 usc_title: 25
 usc_section: "3409"
 chapter: 36
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 3409"
-generated_at: "2026-03-30T08:35:27.982Z"
+generated_at: "2026-03-30T08:37:57.387Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 482d - Perfection of claims within forest"
 usc_title: 16
 usc_section: "482d"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 482d"
-generated_at: "2026-03-30T08:35:17.658Z"
+generated_at: "2026-03-30T08:37:53.347Z"
 status: "active"
 ---
 

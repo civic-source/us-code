@@ -3,9 +3,9 @@ title: "Section 9523 - Modification of implementation of Executive Order No. 136
 usc_title: 22
 usc_section: "9523"
 chapter: 102
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 9523"
-generated_at: "2026-03-30T08:35:26.657Z"
+generated_at: "2026-03-30T08:38:01.271Z"
 status: "active"
 ---
 

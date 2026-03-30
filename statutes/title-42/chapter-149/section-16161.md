@@ -3,9 +3,9 @@ title: "Section 16161 - Solar and wind technologies"
 usc_title: 42
 usc_section: "16161"
 chapter: 149
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 16161"
-generated_at: "2026-03-30T08:36:42.479Z"
+generated_at: "2026-03-30T08:40:14.290Z"
 status: "active"
 ---
 

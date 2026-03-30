@@ -3,9 +3,9 @@ title: "Section 1745 - Nursing home care, adult day health care, and medications
 usc_title: 38
 usc_section: "1745"
 chapter: 17
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "38 U.S.C. § 1745"
-generated_at: "2026-03-30T08:36:27.607Z"
+generated_at: "2026-03-30T08:39:25.570Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 957 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 22
 usc_section: "957"
 chapter: 14
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 957"
-generated_at: "2026-03-30T08:35:26.539Z"
+generated_at: "2026-03-30T08:38:01.146Z"
 status: "repealed"
 ---
 

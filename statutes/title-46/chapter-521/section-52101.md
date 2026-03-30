@@ -3,9 +3,9 @@ title: "Section 52101 - Reemployment rights for certain merchant seamen"
 usc_title: 46
 usc_section: "52101"
 chapter: 521
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "46 U.S.C. § 52101"
-generated_at: "2026-03-30T08:36:54.072Z"
+generated_at: "2026-03-30T08:40:22.655Z"
 status: "active"
 ---
 

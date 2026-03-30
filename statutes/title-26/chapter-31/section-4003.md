@@ -3,9 +3,9 @@ title: "Section 4003 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(
 usc_title: 26
 usc_section: "4003"
 chapter: 31
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "26 U.S.C. § 4003"
-generated_at: "2026-03-30T08:35:38.506Z"
+generated_at: "2026-03-30T08:38:43.161Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1762 - Repealed. Pub. L. 105–219, title III, § 301(g)(3) , Au
 usc_title: 12
 usc_section: "1762"
 chapter: 14
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "12 U.S.C. § 1762"
-generated_at: "2026-03-30T08:34:58.665Z"
+generated_at: "2026-03-30T08:37:28.573Z"
 status: "repealed"
 ---
 

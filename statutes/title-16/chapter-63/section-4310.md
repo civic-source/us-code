@@ -3,9 +3,9 @@ title: "Section 4310 - Establishment of Cave Research Program"
 usc_title: 16
 usc_section: "4310"
 chapter: 63
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 4310"
-generated_at: "2026-03-30T08:35:17.777Z"
+generated_at: "2026-03-30T08:37:53.465Z"
 status: "active"
 ---
 

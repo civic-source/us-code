@@ -3,9 +3,9 @@ title: "Section 1166 - Financial assistance"
 usc_title: 16
 usc_section: "1166"
 chapter: 24
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 1166"
-generated_at: "2026-03-30T08:35:17.714Z"
+generated_at: "2026-03-30T08:37:53.403Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12655a - Limitation on purchase of capital equipment"
 usc_title: 42
 usc_section: "12655a"
 chapter: 129
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 12655a"
-generated_at: "2026-03-30T08:36:42.441Z"
+generated_at: "2026-03-30T08:40:14.254Z"
 status: "active"
 ---
 

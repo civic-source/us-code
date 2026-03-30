@@ -3,9 +3,9 @@ title: "Section 604 - Post mortem examination of carcasses and marking or labeli
 usc_title: 21
 usc_section: "604"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "21 U.S.C. § 604"
-generated_at: "2026-03-30T08:35:22.751Z"
+generated_at: "2026-03-30T08:38:14.411Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3175a - Nutrition and consumer education; Congressional findings
 usc_title: 7
 usc_section: "3175a"
 chapter: 64
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 3175a"
-generated_at: "2026-03-30T08:34:52.850Z"
+generated_at: "2026-03-30T08:37:18.137Z"
 status: "active"
 ---
 

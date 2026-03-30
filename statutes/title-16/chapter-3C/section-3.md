@@ -3,9 +3,9 @@ title: "Section 3 - Settlement of projects on agricultural basis"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T08:35:17.676Z"
+generated_at: "2026-03-30T08:37:53.365Z"
 status: "active"
 ---
 

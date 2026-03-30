@@ -3,9 +3,9 @@ title: "Section 7587 - Vehicle conversions"
 usc_title: 42
 usc_section: "7587"
 chapter: 85
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 7587"
-generated_at: "2026-03-30T08:36:42.346Z"
+generated_at: "2026-03-30T08:40:14.161Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3196 - Enrollment"
 usc_title: 29
 usc_section: "3196"
 chapter: 32
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "29 U.S.C. § 3196"
-generated_at: "2026-03-30T08:36:05.311Z"
+generated_at: "2026-03-30T08:38:19.517Z"
 status: "active"
 ---
 

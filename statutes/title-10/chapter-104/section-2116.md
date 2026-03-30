@@ -3,9 +3,9 @@ title: "Section 2116 - Military nursing research"
 usc_title: 10
 usc_section: "2116"
 chapter: 104
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 2116"
-generated_at: "2026-03-30T08:34:50.695Z"
+generated_at: "2026-03-30T08:37:22.127Z"
 status: "active"
 ---
 

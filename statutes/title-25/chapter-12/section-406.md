@@ -3,9 +3,9 @@ title: "Section 406 - Sale of timber on lands held under trust"
 usc_title: 25
 usc_section: "406"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 406"
-generated_at: "2026-03-30T08:35:27.943Z"
+generated_at: "2026-03-30T08:37:57.348Z"
 status: "active"
 ---
 

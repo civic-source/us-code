@@ -3,9 +3,9 @@ title: "Section 1153 - Offenses committed within Indian country"
 usc_title: 18
 usc_section: "1153"
 chapter: 53
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "18 U.S.C. § 1153"
-generated_at: "2026-03-30T08:35:13.270Z"
+generated_at: "2026-03-30T08:37:37.639Z"
 status: "active"
 ---
 

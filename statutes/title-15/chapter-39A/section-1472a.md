@@ -3,9 +3,9 @@ title: "Section 1472a - Special packaging for liquid nicotine containers"
 usc_title: 15
 usc_section: "1472a"
 chapter: 39
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 1472a"
-generated_at: "2026-03-30T08:35:09.806Z"
+generated_at: "2026-03-30T08:37:34.180Z"
 status: "active"
 ---
 

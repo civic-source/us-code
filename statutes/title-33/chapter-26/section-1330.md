@@ -3,9 +3,9 @@ title: "Section 1330 - National estuary program"
 usc_title: 33
 usc_section: "1330"
 chapter: 26
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "33 U.S.C. § 1330"
-generated_at: "2026-03-30T08:36:11.832Z"
+generated_at: "2026-03-30T08:39:11.634Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1764 - Repealed. Pub. L. 102–585, title V, § 514(a) , Nov. 4,
 usc_title: 38
 usc_section: "1764"
 chapter: 17
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "38 U.S.C. § 1764"
-generated_at: "2026-03-30T08:36:27.607Z"
+generated_at: "2026-03-30T08:39:25.571Z"
 status: "repealed"
 ---
 

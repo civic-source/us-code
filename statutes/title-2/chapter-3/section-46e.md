@@ -3,9 +3,9 @@ title: "Section 46e - Repealed. Pub. L. 92–607 , ch. V, § 506(k)(6), formerly
 usc_title: 2
 usc_section: "46e"
 chapter: 3
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "2 U.S.C. § 46e"
-generated_at: "2026-03-30T08:34:34.699Z"
+generated_at: "2026-03-30T08:37:08.257Z"
 status: "repealed"
 ---
 

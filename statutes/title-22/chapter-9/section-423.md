@@ -3,9 +3,9 @@ title: "Section 423 - Omitted"
 usc_title: 22
 usc_section: "423"
 chapter: 9
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 423"
-generated_at: "2026-03-30T08:35:26.536Z"
+generated_at: "2026-03-30T08:38:01.144Z"
 status: "omitted"
 ---
 

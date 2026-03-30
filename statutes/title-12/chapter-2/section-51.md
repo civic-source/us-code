@@ -3,9 +3,9 @@ title: "Section 51 - Repealed. Pub. L. 106–569, title XII, § 1233(c) , Dec. 2
 usc_title: 12
 usc_section: "51"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "12 U.S.C. § 51"
-generated_at: "2026-03-30T08:34:58.604Z"
+generated_at: "2026-03-30T08:37:28.512Z"
 status: "repealed"
 ---
 

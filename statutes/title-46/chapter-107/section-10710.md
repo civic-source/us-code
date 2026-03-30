@@ -3,9 +3,9 @@ title: "Section 10710 - Unclaimed money, property, and wages"
 usc_title: 46
 usc_section: "10710"
 chapter: 107
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "46 U.S.C. § 10710"
-generated_at: "2026-03-30T08:36:54.058Z"
+generated_at: "2026-03-30T08:40:22.645Z"
 status: "active"
 ---
 

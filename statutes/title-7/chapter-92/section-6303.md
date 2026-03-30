@@ -3,9 +3,9 @@ title: "Section 6303 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "6303"
 chapter: 92
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 6303"
-generated_at: "2026-03-30T08:34:52.873Z"
+generated_at: "2026-03-30T08:37:18.163Z"
 status: "active"
 ---
 

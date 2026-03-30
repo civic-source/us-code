@@ -3,9 +3,9 @@ title: "Section 8586 - Physical disability retirement"
 usc_title: 10
 usc_section: "8586"
 chapter: 857
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 8586"
-generated_at: "2026-03-30T08:34:50.748Z"
+generated_at: "2026-03-30T08:37:22.182Z"
 status: "active"
 ---
 

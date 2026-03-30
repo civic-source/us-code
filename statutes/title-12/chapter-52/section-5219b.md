@@ -3,9 +3,9 @@ title: "Section 5219b - Public availability of information of Making Home Afford
 usc_title: 12
 usc_section: "5219b"
 chapter: 52
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "12 U.S.C. § 5219b"
-generated_at: "2026-03-30T08:34:58.750Z"
+generated_at: "2026-03-30T08:37:28.704Z"
 status: "active"
 ---
 

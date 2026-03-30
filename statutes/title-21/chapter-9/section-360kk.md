@@ -3,9 +3,9 @@ title: "Section 360kk - Performance standards for electronic products"
 usc_title: 21
 usc_section: "360kk"
 chapter: 9
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "21 U.S.C. § 360kk"
-generated_at: "2026-03-30T08:35:22.723Z"
+generated_at: "2026-03-30T08:38:14.384Z"
 status: "active"
 ---
 

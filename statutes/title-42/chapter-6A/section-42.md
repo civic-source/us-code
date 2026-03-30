@@ -3,9 +3,9 @@ title: "Section 42 - Administrative arrangement authority"
 usc_title: 42
 usc_section: "42"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 42"
-generated_at: "2026-03-30T08:36:41.963Z"
+generated_at: "2026-03-30T08:40:13.784Z"
 status: "active"
 ---
 

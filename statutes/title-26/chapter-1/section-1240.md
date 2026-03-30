@@ -3,9 +3,9 @@ title: "Section 1240 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(139) , 
 usc_title: 26
 usc_section: "1240"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "26 U.S.C. § 1240"
-generated_at: "2026-03-30T08:35:38.476Z"
+generated_at: "2026-03-30T08:38:43.127Z"
 status: "repealed"
 ---
 

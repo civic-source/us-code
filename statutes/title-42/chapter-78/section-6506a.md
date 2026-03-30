@@ -3,9 +3,9 @@ title: "Section 6506a - Competitive leasing of oil and gas"
 usc_title: 42
 usc_section: "6506a"
 chapter: 78
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 6506a"
-generated_at: "2026-03-30T08:36:42.300Z"
+generated_at: "2026-03-30T08:40:14.115Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1503a - Under Secretary of Commerce for Economic Affairs"
 usc_title: 15
 usc_section: "1503a"
 chapter: 40
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 1503a"
-generated_at: "2026-03-30T08:35:09.807Z"
+generated_at: "2026-03-30T08:37:34.180Z"
 status: "active"
 ---
 

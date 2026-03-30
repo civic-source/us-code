@@ -3,9 +3,9 @@ title: "Section 4a - Double damages remedy for unauthorized use of multifamily h
 usc_title: 12
 usc_section: "4a"
 chapter: 13
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "12 U.S.C. § 4a"
-generated_at: "2026-03-30T08:34:58.651Z"
+generated_at: "2026-03-30T08:37:28.559Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Review of certain reprogramming notifications"
 usc_title: 22
 usc_section: "1"
 chapter: 35
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T08:35:26.579Z"
+generated_at: "2026-03-30T08:38:01.188Z"
 status: "active"
 ---
 

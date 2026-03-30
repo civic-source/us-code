@@ -3,9 +3,9 @@ title: "Section 1 - Approval of plans by Board as condition precedent to constru
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:35:17.703Z"
+generated_at: "2026-03-30T08:37:53.391Z"
 status: "active"
 ---
 

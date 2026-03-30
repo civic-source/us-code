@@ -3,9 +3,9 @@ title: "Section 742 - Basis of transferee partner’s interest"
 usc_title: 26
 usc_section: "742"
 chapter: 1
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "26 U.S.C. § 742"
-generated_at: "2026-03-30T08:35:38.447Z"
+generated_at: "2026-03-30T08:38:43.096Z"
 status: "active"
 ---
 

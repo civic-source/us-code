@@ -3,9 +3,9 @@ title: "Section 2 - Permitting process improvement"
 usc_title: 42
 usc_section: "2"
 chapter: 55
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T08:36:42.250Z"
+generated_at: "2026-03-30T08:40:14.065Z"
 status: "active"
 ---
 

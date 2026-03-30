@@ -3,9 +3,9 @@ title: "Section 1422b - Vacancy in office of Governor or Lieutenant Governor"
 usc_title: 48
 usc_section: "1422b"
 chapter: 8
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "48 U.S.C. § 1422b"
-generated_at: "2026-03-30T08:36:47.823Z"
+generated_at: "2026-03-30T08:40:21.863Z"
 status: "active"
 ---
 

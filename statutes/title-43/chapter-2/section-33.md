@@ -3,9 +3,9 @@ title: "Section 33 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 43
 usc_section: "33"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "43 U.S.C. § 33"
-generated_at: "2026-03-30T08:36:30.447Z"
+generated_at: "2026-03-30T08:39:29.228Z"
 status: "repealed"
 ---
 

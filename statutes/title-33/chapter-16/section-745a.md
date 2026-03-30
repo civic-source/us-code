@@ -3,9 +3,9 @@ title: "Section 745a - Traveling expenses of new appointees to isolated posts ou
 usc_title: 33
 usc_section: "745a"
 chapter: 16
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "33 U.S.C. § 745a"
-generated_at: "2026-03-30T08:36:11.811Z"
+generated_at: "2026-03-30T08:39:11.612Z"
 status: "active"
 ---
 

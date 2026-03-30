@@ -3,9 +3,9 @@ title: "Section 6050W - Returns relating to payments made in settlement of payme
 usc_title: 26
 usc_section: "6050W"
 chapter: 61
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "26 U.S.C. § 6050W"
-generated_at: "2026-03-30T08:35:38.540Z"
+generated_at: "2026-03-30T08:38:43.197Z"
 status: "active"
 ---
 

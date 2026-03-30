@@ -3,9 +3,9 @@ title: "Section 30509 - Principal office"
 usc_title: 36
 usc_section: "30509"
 chapter: 305
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "36 U.S.C. § 30509"
-generated_at: "2026-03-30T08:36:25.991Z"
+generated_at: "2026-03-30T08:39:16.432Z"
 status: "active"
 ---
 

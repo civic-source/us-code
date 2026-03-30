@@ -3,9 +3,9 @@ title: "Section 514 - Expansion of facilities at Carderock, Maryland"
 usc_title: 50
 usc_section: "514"
 chapter: 20
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "50 U.S.C. § 514"
-generated_at: "2026-03-30T08:36:46.698Z"
+generated_at: "2026-03-30T08:40:33.265Z"
 status: "active"
 ---
 

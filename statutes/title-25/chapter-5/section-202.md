@@ -3,9 +3,9 @@ title: "Section 202 - Inducing conveyances by Indians of trust interests in land
 usc_title: 25
 usc_section: "202"
 chapter: 5
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 202"
-generated_at: "2026-03-30T08:35:27.938Z"
+generated_at: "2026-03-30T08:37:57.342Z"
 status: "active"
 ---
 

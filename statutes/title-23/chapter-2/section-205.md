@@ -3,9 +3,9 @@ title: "Section 205 - Forest development roads and trails"
 usc_title: 23
 usc_section: "205"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "23 U.S.C. § 205"
-generated_at: "2026-03-30T08:35:23.543Z"
+generated_at: "2026-03-30T08:38:08.589Z"
 status: "active"
 ---
 

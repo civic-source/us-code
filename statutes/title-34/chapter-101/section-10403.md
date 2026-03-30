@@ -3,9 +3,9 @@ title: "Section 10403 - Grant eligibility"
 usc_title: 34
 usc_section: "10403"
 chapter: 101
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "34 U.S.C. § 10403"
-generated_at: "2026-03-30T08:36:13.879Z"
+generated_at: "2026-03-30T08:38:59.112Z"
 status: "active"
 ---
 

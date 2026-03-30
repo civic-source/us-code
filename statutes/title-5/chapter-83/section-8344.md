@@ -3,9 +3,9 @@ title: "Section 8344 - Annuities and pay on reemployment"
 usc_title: 5
 usc_section: "8344"
 chapter: 83
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "5 U.S.C. § 8344"
-generated_at: "2026-03-30T08:34:40.870Z"
+generated_at: "2026-03-30T08:37:11.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8522 - Assignment of Federal service and wages"
 usc_title: 5
 usc_section: "8522"
 chapter: 85
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "5 U.S.C. § 8522"
-generated_at: "2026-03-30T08:34:40.878Z"
+generated_at: "2026-03-30T08:37:11.706Z"
 status: "active"
 ---
 

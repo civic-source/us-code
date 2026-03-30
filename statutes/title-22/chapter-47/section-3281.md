@@ -3,9 +3,9 @@ title: "Section 3281 - Annual Presidential report to Congress on governmental ef
 usc_title: 22
 usc_section: "3281"
 chapter: 47
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 3281"
-generated_at: "2026-03-30T08:35:26.592Z"
+generated_at: "2026-03-30T08:38:01.202Z"
 status: "active"
 ---
 

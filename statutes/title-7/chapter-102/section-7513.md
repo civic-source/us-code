@@ -3,9 +3,9 @@ title: "Section 7513 - Finality of determinations"
 usc_title: 7
 usc_section: "7513"
 chapter: 102
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 7513"
-generated_at: "2026-03-30T08:34:52.895Z"
+generated_at: "2026-03-30T08:37:18.188Z"
 status: "active"
 ---
 

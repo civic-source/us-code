@@ -3,9 +3,9 @@ title: "Section 14702 - Retention on reserve active-status list of certain offic
 usc_title: 10
 usc_section: "14702"
 chapter: 1409
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 14702"
-generated_at: "2026-03-30T08:34:50.769Z"
+generated_at: "2026-03-30T08:37:22.203Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1604 - Liability of biomaterials suppliers"
 usc_title: 21
 usc_section: "1604"
 chapter: 21
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "21 U.S.C. § 1604"
-generated_at: "2026-03-30T08:35:22.767Z"
+generated_at: "2026-03-30T08:38:14.426Z"
 status: "active"
 ---
 

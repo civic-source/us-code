@@ -3,9 +3,9 @@ title: "Section 4062 - Commission action on petition"
 usc_title: 19
 usc_section: "4062"
 chapter: 26
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "19 U.S.C. § 4062"
-generated_at: "2026-03-30T08:35:14.638Z"
+generated_at: "2026-03-30T08:37:50.249Z"
 status: "active"
 ---
 

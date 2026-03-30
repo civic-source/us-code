@@ -3,9 +3,9 @@ title: "Section 202 - Ownership of copyright as distinct from ownership of mater
 usc_title: 17
 usc_section: "202"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "17 U.S.C. § 202"
-generated_at: "2026-03-30T08:35:15.098Z"
+generated_at: "2026-03-30T08:37:36.293Z"
 status: "active"
 ---
 

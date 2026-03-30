@@ -3,9 +3,9 @@ title: "Section 7403 - Research, investigation, training, and other activities"
 usc_title: 42
 usc_section: "7403"
 chapter: 85
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 7403"
-generated_at: "2026-03-30T08:36:42.326Z"
+generated_at: "2026-03-30T08:40:14.141Z"
 status: "active"
 ---
 

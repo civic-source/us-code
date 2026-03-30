@@ -3,9 +3,9 @@ title: "Section 2478 - Repealed. Pub. L. 102–573, title VII, § 702(b)(2) , Oc
 usc_title: 25
 usc_section: "2478"
 chapter: 26
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "25 U.S.C. § 2478"
-generated_at: "2026-03-30T08:35:27.973Z"
+generated_at: "2026-03-30T08:37:57.379Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7009 - Enforcement"
 usc_title: 16
 usc_section: "7009"
 chapter: 89
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 7009"
-generated_at: "2026-03-30T08:35:17.792Z"
+generated_at: "2026-03-30T08:37:53.480Z"
 status: "active"
 ---
 

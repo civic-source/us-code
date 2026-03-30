@@ -3,9 +3,9 @@ title: "Section 1 - Dam safety training"
 usc_title: 33
 usc_section: "1"
 chapter: 9
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T08:36:11.800Z"
+generated_at: "2026-03-30T08:39:11.600Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 394 - Scientific review groups"
 usc_title: 21
 usc_section: "394"
 chapter: 9
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "21 U.S.C. § 394"
-generated_at: "2026-03-30T08:35:22.748Z"
+generated_at: "2026-03-30T08:38:14.408Z"
 status: "active"
 ---
 

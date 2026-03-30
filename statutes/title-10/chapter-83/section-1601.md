@@ -3,9 +3,9 @@ title: "Section 1601 - Civilian intelligence personnel: general authority to est
 usc_title: 10
 usc_section: "1601"
 chapter: 83
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 1601"
-generated_at: "2026-03-30T08:34:50.689Z"
+generated_at: "2026-03-30T08:37:22.119Z"
 status: "active"
 ---
 

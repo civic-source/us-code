@@ -3,9 +3,9 @@ title: "Section 785 - Enforcement of law prohibiting taking of sponges of specif
 usc_title: 16
 usc_section: "785"
 chapter: 11
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "16 U.S.C. § 785"
-generated_at: "2026-03-30T08:35:17.693Z"
+generated_at: "2026-03-30T08:37:53.381Z"
 status: "active"
 ---
 

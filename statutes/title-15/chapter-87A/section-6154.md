@@ -3,9 +3,9 @@ title: "Section 6154 - Reporting requirements"
 usc_title: 15
 usc_section: "6154"
 chapter: 87
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "15 U.S.C. § 6154"
-generated_at: "2026-03-30T08:35:09.878Z"
+generated_at: "2026-03-30T08:37:34.279Z"
 status: "active"
 ---
 

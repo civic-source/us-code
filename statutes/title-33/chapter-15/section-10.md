@@ -3,9 +3,9 @@ title: "Section 10 - Flowage rights and rights-of-way; reimbursement of local au
 usc_title: 33
 usc_section: "10"
 chapter: 15
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "33 U.S.C. § 10"
-generated_at: "2026-03-30T08:36:11.809Z"
+generated_at: "2026-03-30T08:39:11.611Z"
 status: "active"
 ---
 

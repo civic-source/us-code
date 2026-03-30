@@ -3,9 +3,9 @@ title: "Section 2328 - Challenge cost-sharing program for management of recreati
 usc_title: 33
 usc_section: "2328"
 chapter: 36
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "33 U.S.C. § 2328"
-generated_at: "2026-03-30T08:36:11.850Z"
+generated_at: "2026-03-30T08:39:11.652Z"
 status: "active"
 ---
 

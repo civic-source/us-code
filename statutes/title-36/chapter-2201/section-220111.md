@@ -3,9 +3,9 @@ title: "Section 220111 - Records and inspection"
 usc_title: 36
 usc_section: "220111"
 chapter: 2201
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "36 U.S.C. § 220111"
-generated_at: "2026-03-30T08:36:26.003Z"
+generated_at: "2026-03-30T08:39:16.443Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2668 - Requisitions for advances to pay lawful obligations"
 usc_title: 22
 usc_section: "2668"
 chapter: 38
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "22 U.S.C. § 2668"
-generated_at: "2026-03-30T08:35:26.580Z"
+generated_at: "2026-03-30T08:38:01.190Z"
 status: "active"
 ---
 

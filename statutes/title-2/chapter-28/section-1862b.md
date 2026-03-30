@@ -3,9 +3,9 @@ title: "Section 1862b - Transfer of amounts appropriated for Architect of the Ca
 usc_title: 2
 usc_section: "1862b"
 chapter: 28
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "2 U.S.C. § 1862b"
-generated_at: "2026-03-30T08:34:34.729Z"
+generated_at: "2026-03-30T08:37:08.293Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 203 - Federal lands transportation program"
 usc_title: 23
 usc_section: "203"
 chapter: 2
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "23 U.S.C. § 203"
-generated_at: "2026-03-30T08:35:23.542Z"
+generated_at: "2026-03-30T08:38:08.589Z"
 status: "active"
 ---
 

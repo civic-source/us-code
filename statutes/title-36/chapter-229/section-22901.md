@@ -3,9 +3,9 @@ title: "Section 22901 - Definition"
 usc_title: 36
 usc_section: "22901"
 chapter: 229
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "36 U.S.C. § 22901"
-generated_at: "2026-03-30T08:36:25.990Z"
+generated_at: "2026-03-30T08:39:16.431Z"
 status: "active"
 ---
 

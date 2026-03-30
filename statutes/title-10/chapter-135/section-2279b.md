@@ -3,9 +3,9 @@ title: "Section 2279b - Council on Oversight of the Department of Defense Positi
 usc_title: 10
 usc_section: "2279b"
 chapter: 135
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 2279b"
-generated_at: "2026-03-30T08:34:50.701Z"
+generated_at: "2026-03-30T08:37:22.134Z"
 status: "active"
 ---
 

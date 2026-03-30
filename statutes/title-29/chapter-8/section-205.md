@@ -3,9 +3,9 @@ title: "Section 205 - Repealed. Pub. L. 110–28, title VIII, § 8103(c)(1)(A) ,
 usc_title: 29
 usc_section: "205"
 chapter: 8
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "29 U.S.C. § 205"
-generated_at: "2026-03-30T08:36:05.244Z"
+generated_at: "2026-03-30T08:38:19.460Z"
 status: "repealed"
 ---
 

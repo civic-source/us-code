@@ -3,9 +3,9 @@ title: "Section 185 - Repealed. Pub. L. 114–328, div. A, title IX, § 904(a) ,
 usc_title: 10
 usc_section: "185"
 chapter: 7
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "10 U.S.C. § 185"
-generated_at: "2026-03-30T08:34:50.634Z"
+generated_at: "2026-03-30T08:37:22.064Z"
 status: "repealed"
 ---
 

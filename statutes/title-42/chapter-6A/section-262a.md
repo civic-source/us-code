@@ -3,9 +3,9 @@ title: "Section 262a - Enhanced control of dangerous biological agents and toxin
 usc_title: 42
 usc_section: "262a"
 chapter: 6
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "42 U.S.C. § 262a"
-generated_at: "2026-03-30T08:36:41.855Z"
+generated_at: "2026-03-30T08:40:13.673Z"
 status: "active"
 ---
 

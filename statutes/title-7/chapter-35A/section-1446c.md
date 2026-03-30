@@ -3,9 +3,9 @@ title: "Section 1446c - Domestic disposal programs for dairy products"
 usc_title: 7
 usc_section: "1446c"
 chapter: 35
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 1446c"
-generated_at: "2026-03-30T08:34:52.788Z"
+generated_at: "2026-03-30T08:37:18.067Z"
 status: "active"
 ---
 

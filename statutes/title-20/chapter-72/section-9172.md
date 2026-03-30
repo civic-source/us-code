@@ -3,9 +3,9 @@ title: "Section 9172 - Definitions"
 usc_title: 20
 usc_section: "9172"
 chapter: 72
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "20 U.S.C. § 9172"
-generated_at: "2026-03-30T08:35:19.593Z"
+generated_at: "2026-03-30T08:37:39.520Z"
 status: "active"
 ---
 

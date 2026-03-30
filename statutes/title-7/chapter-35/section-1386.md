@@ -3,9 +3,9 @@ title: "Section 1386 - Exemption from laws prohibiting interest of Members of Co
 usc_title: 7
 usc_section: "1386"
 chapter: 35
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "7 U.S.C. § 1386"
-generated_at: "2026-03-30T08:34:52.783Z"
+generated_at: "2026-03-30T08:37:18.061Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 713 - Access to information"
 usc_title: 45
 usc_section: "713"
 chapter: 16
-current_through: "PL 116-57"
+current_through: "PL 116-59"
 classification: "45 U.S.C. § 713"
-generated_at: "2026-03-30T08:36:29.904Z"
+generated_at: "2026-03-30T08:39:27.539Z"
 status: "active"
 ---
 
