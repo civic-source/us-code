@@ -3,9 +3,9 @@ title: "Section 4132 - Eligible affordable housing activities"
 usc_title: 25
 usc_section: "4132"
 chapter: 43
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 4132"
-generated_at: "2026-03-30T05:35:40.144Z"
+generated_at: "2026-03-30T05:39:27.418Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
     - **(A)** Consistent with principles of Indian self-determination and the findings of this chapter, the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes, tribal organizations, or tribal consortia are authorized to expend amounts received pursuant to the Native American Housing Assistance and Self-Determination Reauthorization Act of 2002 in order to design, implement, and operate community development demonstration projects.
     - **(B)** Not later than 1 year after November 13, 2002 , the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
   - **(8)**
-    - **(A)** Consistent with the provisions of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
+    - **(A)** Consistent with the provisions of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
     - **(B)** Not later than 1 year after November 13, 2002 , the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
   - **(9)**
     - **(A)** Subject to subparagraph (B), the deposit of amounts, including grant amounts under section 4111 of this title , in a reserve account established for an Indian tribe only for the purpose of accumulating amounts for administration and planning relating to affordable housing activities under this section, in accordance with the Indian housing plan of the Indian tribe.

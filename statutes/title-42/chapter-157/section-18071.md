@@ -3,9 +3,9 @@ title: "Section 18071 - Reduced cost-sharing for individuals enrolling in qualif
 usc_title: 42
 usc_section: "18071"
 chapter: 157
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 18071"
-generated_at: "2026-03-30T05:37:41.705Z"
+generated_at: "2026-03-30T05:40:26.403Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(4)** If a qualified health plan under section 18022(b)(5) of this title offers benefits in addition to the essential health benefits required to be provided by the plan, or a State requires a qualified health plan under section 18031(d)(3)(B) of this title to cover benefits in addition to the essential health benefits required to be provided by the plan, the reductions in cost-sharing under this section shall not apply to such additional benefits.
   - **(5)** If an individual enrolls in both a qualified health plan and a plan described in section 18031(d)(2)(B)(ii)(I) 2 2 So in original. Probably should be “18031(d)(3)(B)(ii)(I)”. of this title for any plan year, subsection (a) shall not apply to that portion of any reduction in cost-sharing under subsection (c) that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 18022(b)(1)(J) of this title .
 - **(d)**
-  - **(1)** If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in section 450b(d) of title 25 ) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
+  - **(1)** If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in section 5304(d) of title 25 ) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
     - **(A)** such individual shall be treated as an eligible insured; and
     - **(B)** the issuer of the plan shall eliminate any cost-sharing under the plan.
   - **(2)** If an Indian (as so defined) enrolled in a qualified health plan is furnished an item or service directly by the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization or through referral under contract health services—

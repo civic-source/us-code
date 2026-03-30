@@ -1,15 +1,13 @@
 ---
-title: "Section 1300 - Distribution of funds; attorney fees and expenses"
+title: "Section 1300 - Omitted"
 usc_title: 25
 usc_section: "1300"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1300"
-generated_at: "2026-03-30T05:35:40.096Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1300. Distribution of funds; attorney fees and expenses
-
-The funds appropriated by the Act of July 22, 1969 ( 83 Stat. 49 , 62), to pay a judgment to the Yavapai Indians in Indian Claims Commission dockets numbered 22–E and 22–F, together with any interest thereon, after payment of attorney fees and litigation expenses and the costs of carrying out the provisions of this subchapter, shall be distributed as provided in such sections.
+# § 1300. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T05:35:47.371Z"
+generated_at: "2026-03-30T05:39:23.196Z"
 status: "active"
 ---
 
@@ -258,7 +258,7 @@ As used in this subchapter:
       - **(i)** manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
       - **(ii)** nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
       - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title ;
-      - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.];
+      - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
       - **(v)** any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
       - **(vi)** mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
       - **(vii)** a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
@@ -281,7 +281,7 @@ As used in this subchapter:
         - **(I)** is exempted from such registration in all States under section 822(d) of this title ; or
         - **(II)** is—
     - **(C)** is being conducted by a practitioner—
-      - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.];
+      - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.];
       - **(ii)** acting within the scope of the employment, contract, or compact described in clause (i); and
       - **(iii)** who is designated as an Internet Eligible Controlled Substances Provider by the Secretary under section 831(g)(2) of this title ;
     - **(D)**

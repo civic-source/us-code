@@ -3,9 +3,9 @@ title: "Section 6974 - United States Naval Academy Museum Fund: references to Fu
 usc_title: 10
 usc_section: "6974"
 chapter: 603
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 6974"
-generated_at: "2026-03-30T05:34:54.713Z"
+generated_at: "2026-03-30T05:38:26.162Z"
 status: "active"
 ---
 

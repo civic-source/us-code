@@ -3,9 +3,9 @@ title: "Section 1383 - Water pollution control revolving loan funds"
 usc_title: 33
 usc_section: "1383"
 chapter: 26
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1383"
-generated_at: "2026-03-30T05:36:42.543Z"
+generated_at: "2026-03-30T05:39:52.678Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
   - **(7)** for the reasonable costs of administering the fund and conducting activities under this subchapter, except that such amounts shall not exceed 4 percent of all grant awards to such fund under this subchapter, $400,000 per year, or ⅕ percent per year of the current valuation of the fund, whichever amount is greatest, plus the amount of any fees collected by the State for such purpose regardless of the source.
 - **(e)** If a State makes, from its water pollution revolving fund, a loan which will finance the cost of facility planning and the preparation of plans, specifications, and estimates for construction of publicly owned treatment works, the State shall ensure that if the recipient of such loan receives a grant under section 1281(g) of this title for construction of such treatment works and an allowance under section 1281( l )(1) of this title for non-Federal funds expended for such planning and preparation, such recipient will promptly repay such loan to the extent of such allowance.
 - **(f)** A State may provide financial assistance from its water pollution control revolving fund only with respect to a project which is consistent with plans, if any, developed under sections 1285(j), 1288, 1313(e), 1329, and 1330 of this title.
-- **(g)** The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) of this section if such project is on the State’s priority list under section 1296 of this title . Such assistance may be provided regardless of the rank of such project on such list.
+- **(g)** The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) if such project is on the State’s priority list under section 1296 of this title . Such assistance may be provided regardless of the rank of such project on such list.
 - **(h)** A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from the Administrator under any other authority only if such assistance is necessary to allow such project to proceed.
 - **(i)**
   - **(1)** In any case in which a State provides assistance to a municipality or intermunicipal, interstate, or State agency under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—

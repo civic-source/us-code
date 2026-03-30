@@ -3,9 +3,9 @@ title: "Section 1089 - Master calendar"
 usc_title: 20
 usc_section: "1089"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1089"
-generated_at: "2026-03-30T05:35:34.231Z"
+generated_at: "2026-03-30T05:39:05.733Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
   - **(2)**
     - **(A)** The Secretary may designate any regulatory provision that affects the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and is published in final form after November 1 as one that an entity subject to the provision may, in the entity’s discretion, choose to implement prior to the effective date described in paragraph (1). The Secretary may specify in the designation when, and under what conditions, an entity may implement the provision prior to that effective date. The Secretary shall publish any designation under this subparagraph in the Federal Register.
     - **(B)** If an entity chooses to implement a regulatory provision prior to the effective date described in paragraph (1), as permitted by subparagraph (A), the provision shall be effective with respect to that entity in accordance with the terms of the Secretary’s designation.
-- **(d)** The Secretary shall notify the authorizing committees when a deadline included in the calendar described in subsection (a) of this section is not met. Nothing in this section shall be interpreted to penalize institutions or deny them the specified times allotted to enable them to return information to the Secretary based on the failure of the Secretary to adhere to the dates specified in this section.
+- **(d)** The Secretary shall notify the authorizing committees when a deadline included in the calendar described in subsection (a) is not met. Nothing in this section shall be interpreted to penalize institutions or deny them the specified times allotted to enable them to return information to the Secretary based on the failure of the Secretary to adhere to the dates specified in this section.
 - **(e)** Prior to the beginning of each award year, the Secretary shall provide to institutions of higher education a list of all the reports and disclosures required under this chapter and part C of subchapter I of chapter 34 of title 42. The list shall include—
   - **(1)** the date each report or disclosure is required to be completed and to be submitted, made available, or disseminated;
   - **(2)** the required recipients of each report or disclosure;

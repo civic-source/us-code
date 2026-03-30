@@ -1,15 +1,13 @@
 ---
-title: "Section 1293 - Applications for enrollment; filing date and place; notice and appeal of rejections; review"
+title: "Section 1293 - Omitted"
 usc_title: 25
 usc_section: "1293"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1293"
-generated_at: "2026-03-30T05:35:40.096Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1293. Applications for enrollment; filing date and place; notice and appeal of rejections; review
-
-All applications for enrollment must be filed either with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, or with the Area Director of the Bureau of Indian Affairs, Anadarko, Oklahoma, on or before the last day of the fourth full month following October 3, 1972 , and no application shall be accepted thereafter. The Secretary of the Interior shall give a rejection notice within sixty days after receipt of an application if the applicant is ineligible for enrollment. An appeal from a rejected application must be filed with the Area Director not later than thirty days from receipt of the notice of rejection. The Secretary shall make a final determination on each appeal not later than sixty days from the date it is filed. Each application and each appeal filed with the Area Director shall be reviewed by a committee composed of representatives of the two Oklahoma Delaware groups prior to submission of the application or appeal to the Secretary, and the committee shall advise the Area Director in writing of its judgment regarding the eligibility of the applicant.
+# § 1293. Omitted
 

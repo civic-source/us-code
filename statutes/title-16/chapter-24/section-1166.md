@@ -3,9 +3,9 @@ title: "Section 1166 - Financial assistance"
 usc_title: 16
 usc_section: "1166"
 chapter: 24
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 1166"
-generated_at: "2026-03-30T05:35:31.780Z"
+generated_at: "2026-03-30T05:38:48.533Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** to settle any debt owed to the United States;
     - **(B)** for administrative or overhead expenses; or
     - **(C)** for contributions sought or required from any person for costs or fees to clean up any matter that was caused or contributed to by such person on or after March 15, 2000 .
-  - **(4)** In providing assistance under this subsection the Secretary shall transfer any funds appropriated to carry out this section to the Secretary of the Interior, who shall obligate such funds through instruments and procedures that are equivalent to the instruments and procedures required to be used by the Bureau of Indian Affairs pursuant to title IV of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 458aa et seq.].
+  - **(4)** In providing assistance under this subsection the Secretary shall transfer any funds appropriated to carry out this section to the Secretary of the Interior, who shall obligate such funds through instruments and procedures that are equivalent to the instruments and procedures required to be used by the Bureau of Indian Affairs pursuant to title IV of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5361 et seq.].
   - **(5)** In any fiscal year for which less than all of the funds authorized under subsection (c)(1) are appropriated, such funds shall be distributed under this subsection on a pro rata basis among the entities referred to in subsection (c)(1) in the same proportions in which amounts are authorized by that subsection for grants to those entities.
 - **(b)**
   - **(1)** Subject to the availability of appropriations, the Secretary shall provide assistance to the State of Alaska for designing, locating, constructing, redeveloping, permitting, or certifying solid waste management facilities on the Pribilof Islands to be operated under permits issued to the City of St. George and the City of St. Paul, Alaska, by the State of Alaska under section 46.03.100 of the Alaska Statutes.

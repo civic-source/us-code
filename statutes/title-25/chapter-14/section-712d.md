@@ -1,15 +1,13 @@
 ---
-title: "Section 712d - Rules"
+title: "Section 712d - Omitted"
 usc_title: 25
 usc_section: "712d"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 712d"
-generated_at: "2026-03-30T05:35:40.086Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 712d. Rules
-
-The Secretary of the Interior may make such rules as are necessary to carry out the provisions of this subchapter.
+# § 712d. Omitted
 

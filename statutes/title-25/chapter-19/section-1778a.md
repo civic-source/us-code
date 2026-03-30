@@ -1,21 +1,13 @@
 ---
-title: "Section 1778a - Definitions"
+title: "Section 1778a - Omitted"
 usc_title: 25
 usc_section: "1778a"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1778a"
-generated_at: "2026-03-30T05:35:40.118Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1778a. Definitions
+# § 1778a. Omitted
 
-For the purposes of this subchapter:
-
-  - **(1)** The term “Tribe” means the Torres-Martinez Desert Cahuilla Indians, a federally recognized Indian tribe with a reservation located in Riverside and Imperial Counties, California.
-  - **(2)** The term “allottees” means those individual Tribe members, their successors, heirs, and assigns, who have individual ownership of allotted Indian trust lands within the Torres-Martinez Indian Reservation.
-  - **(3)** The term “Salton Sea” means the inland body of water located in Riverside and Imperial Counties which serves as a drainage reservoir for water from precipitation, natural runoff, irrigation return flows, wastewater, floods, and other inflow from within its watershed area.
-  - **(4)** The term “Settlement Agreement” means the Agreement of Compromise and Settlement Concerning Claims to the Lands of the United States Within and on the Perimeter of the Salton Sea Drainage Reservoir Held in Trust for the Torres-Martinez Indians executed on June 18, 1996 , as modified by the first, second, third, and fourth modifications thereto.
-  - **(5)** The term “Secretary” means the Secretary of the Interior.
-  - **(6)** The term “permanent flowage easement” means the perpetual right by the water districts to use the described lands in the Salton Sink within and below the minus 220-foot contour as a drainage reservoir to receive and store water from their respective water and drainage systems, including flood water, return flows from irrigation, tail water, leach water, operational spills, and any other water which overflows and floods such lands, originating from lands within such water districts.

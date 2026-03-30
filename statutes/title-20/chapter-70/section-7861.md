@@ -3,9 +3,9 @@ title: "Section 7861 - Waivers of statutory and regulatory requirements"
 usc_title: 20
 usc_section: "7861"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7861"
-generated_at: "2026-03-30T05:35:34.308Z"
+generated_at: "2026-03-30T05:39:05.813Z"
 status: "active"
 ---
 
@@ -71,7 +71,7 @@ status: "active"
     - **(A)** in subpart 2 of part F;
     - **(B)** regarding use of funds for religious worship or instruction in section 7885 of this title ; and
     - **(C)** regarding activities in section 7906 of this title ; or
-  - **(10)** the selection of a school attendance area or school under subsections (a) and (b) of section 6313 of this title , except that the Secretary may grant a waiver to allow a school attendance area or school to participate in activities under part A of subchapter I of this chapter if the percentage of children from low-income families in the school attendance area or who attend the school is not more than 10 percentage points below the lowest percentage of those children for any school attendance area or school of the local educational agency that meets the requirements of subsections (a) and (b) of section 6313 of this title .
+  - **(10)** the selection of a school attendance area or school under subsections (a) and (b) of section 6313 of this title , except that the Secretary may grant a waiver to allow a school attendance area or school to participate in activities under part A of subchapter I if the percentage of children from low-income families in the school attendance area or who attend the school is not more than 10 percentage points below the lowest percentage of those children for any school attendance area or school of the local educational agency that meets the requirements of subsections (a) and (b) of section 6313 of this title .
 - **(d)**
   - **(1)** Except as provided in paragraph (2), a waiver approved by the Secretary under this section may be for a period not to exceed 4 years.
   - **(2)** The Secretary may extend the period described in paragraph (1) if the State demonstrates that—
@@ -91,4 +91,4 @@ status: "active"
 - **(f)** The Secretary shall terminate a waiver under this section if, after notice and an opportunity for a hearing, the Secretary—
     - **(A)** presents a rationale and supporting information that clearly demonstrates that the waiver is not contributing to the progress of schools described in subsection (e)(1); or
     - **(B)** determines that the waiver is no longer necessary to achieve its original purposes.
-- **(g)** A notice of the Secretary’s decision to grant each waiver under subsection (a) of this section shall be published in the Federal Register and the Secretary shall provide for the dissemination of the notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, and the public.
+- **(g)** A notice of the Secretary’s decision to grant each waiver under subsection (a) shall be published in the Federal Register and the Secretary shall provide for the dissemination of the notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, and the public.

@@ -1,15 +1,13 @@
 ---
-title: "Section 566b - Conservation and development of lands"
+title: "Section 566b - Omitted"
 usc_title: 25
 usc_section: "566b"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 566b"
-generated_at: "2026-03-30T05:35:40.077Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 566b. Conservation and development of lands
+# § 566b. Omitted
 
-- **(a)** Notwithstanding the tribe’s previous rejection of the Act of June 18, 1934 ( 25 U.S.C. 461 et seq.), upon written request of the General Council, the Secretary of the Interior shall conduct a special election pursuant to section 18 of such Act [ 25 U.S.C. 478 ] to determine if such Act should be applicable to the tribe.
-- **(b)** Upon written request of the General Council, the Secretary shall conduct an election pursuant to section 16 of the Act approved on June 18, 1934 ( 43 Stat. 987 ; 25 U.S.C. 476 ), for the purpose of adopting a new constitution for the tribe.

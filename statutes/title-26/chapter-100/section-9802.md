@@ -3,9 +3,9 @@ title: "Section 9802 - Prohibiting discrimination against individual participant
 usc_title: 26
 usc_section: "9802"
 chapter: 100
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 9802"
-generated_at: "2026-03-30T05:36:26.240Z"
+generated_at: "2026-03-30T05:39:49.314Z"
 status: "active"
 ---
 

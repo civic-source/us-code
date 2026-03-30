@@ -3,16 +3,16 @@ title: "Section 2008n - Rural telework"
 usc_title: 7
 usc_section: "2008n"
 chapter: 50
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 2008n"
-generated_at: "2026-03-30T05:35:07.545Z"
+generated_at: "2026-03-30T05:38:14.925Z"
 status: "active"
 ---
 
 # § 2008n. Rural telework
 
 - **(a)** In this section:
-  - **(1)** The term “eligible organization” means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 450b of title 25 ), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
+  - **(1)** The term “eligible organization” means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 5304 of title 25 ), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
   - **(2)** The term “institute” means a rural telework institute established using a grant under subsection (b).
   - **(3)** The term “telework” means the use of telecommunications to perform work functions at a rural work center located outside the place of business of an employer.
 - **(b)**

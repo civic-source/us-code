@@ -3,9 +3,9 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-30T05:36:42.552Z"
+generated_at: "2026-03-30T05:39:52.686Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
       - **(ii)** domestic trade;
       - **(iii)** international trade;
       - **(iv)** commercial fishing;
-      - **(v)** subsistence, including use by Indian tribes (as defined in section 450b of title 25 ) for subsistence and ceremonial purposes;
+      - **(v)** subsistence, including use by Indian tribes (as defined in section 5304 of title 25 ) for subsistence and ceremonial purposes;
       - **(vi)** use as a harbor of refuge;
       - **(vii)** transportation of persons;
       - **(viii)** purposes relating to domestic energy production, including the fabrication, servicing, or supply of domestic offshore energy production facilities;

@@ -3,9 +3,9 @@ title: "Section 5204 - Repealed. Pub. L. 99–433, title V , § 513(a), Oct. 1, 
 usc_title: 10
 usc_section: "5204"
 chapter: 515
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 5204"
-generated_at: "2026-03-30T05:34:54.708Z"
+generated_at: "2026-03-30T05:38:26.157Z"
 status: "repealed"
 ---
 

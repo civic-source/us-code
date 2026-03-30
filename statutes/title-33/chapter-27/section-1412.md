@@ -3,9 +3,9 @@ title: "Section 1412 - Dumping permit program"
 usc_title: 33
 usc_section: "1412"
 chapter: 27
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1412"
-generated_at: "2026-03-30T05:36:42.544Z"
+generated_at: "2026-03-30T05:39:52.679Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(I)** In designating recommended sites, the Administrator shall utilize wherever feasible locations beyond the edge of the Continental Shelf.
 - **(b)** The Administrator may establish and issue various categories of permits, including the general permits described in section 1414(c) of this title .
 - **(c)**
-  - **(1)** The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a) of this section, designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
+  - **(1)** The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
   - **(2)** In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibition shall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title .
   - **(3)** In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
     - **(A)** a baseline assessment of conditions at the site;

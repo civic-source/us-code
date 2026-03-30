@@ -3,9 +3,9 @@ title: "Section 619 - Definitions"
 usc_title: 42
 usc_section: "619"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 619"
-generated_at: "2026-03-30T05:37:41.188Z"
+generated_at: "2026-03-30T05:40:25.854Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ As used in this part:
     - **(B)** has not attained 19 years of age and is a full-time student in a secondary school (or in the equivalent level of vocational or technical training).
   - **(3)** The term “fiscal year” means any 12-month period ending on September 30 of a calendar year.
   - **(4)**
-    - **(A)** Except as provided in subparagraph (B), the terms “Indian”, “Indian tribe”, and “tribal organization” have the meaning given such terms by section 450b of title 25 .
+    - **(A)** Except as provided in subparagraph (B), the terms “Indian”, “Indian tribe”, and “tribal organization” have the meaning given such terms by section 5304 of title 25 .
     - **(B)** The term “Indian tribe” means, with respect to the State of Alaska, only the Metlakatla Indian Community of the Annette Islands Reserve and the following Alaska Native regional nonprofit corporations:
       - **(i)** Arctic Slope Native Association.
       - **(ii)** Kawerak, Inc.

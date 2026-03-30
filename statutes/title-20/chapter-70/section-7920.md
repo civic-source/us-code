@@ -3,9 +3,9 @@ title: "Section 7920 - Consultation with the Governor"
 usc_title: 20
 usc_section: "7920"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7920"
-generated_at: "2026-03-30T05:35:34.310Z"
+generated_at: "2026-03-30T05:39:05.815Z"
 status: "active"
 ---
 

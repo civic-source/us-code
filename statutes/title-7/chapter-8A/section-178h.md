@@ -3,9 +3,9 @@ title: "Section 178h - Powers of Secretary of Commerce"
 usc_title: 7
 usc_section: "178h"
 chapter: 8
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 178h"
-generated_at: "2026-03-30T05:35:07.485Z"
+generated_at: "2026-03-30T05:38:14.864Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 In carrying out the provisions of this subchapter, the Secretary of Commerce is authorized to—
 
-- **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 , 25 U.S.C. 450 ), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
+- **(a)** make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 , 25 U.S.C. 450 ), 1 1 See References in Text note below. and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 - **(b)** acquire the services of biologists, agronomists, foresters, geneticists, engineers, economists, and other personnel having expertise in native agricultural crops which could supply critical agricultural materials by contract or otherwise;
 - **(c)** utilize the facilities of Federal and State institutions and other scientific laboratories;
 - **(d)** establish and operate necessary facilities and pilot plants to carry out the continuous research, testing, development, and programing necessary to effectuate the purposes of this section;

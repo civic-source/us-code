@@ -3,9 +3,9 @@ title: "Section 3731 - Indian and Alaska Native agriculture management education
 usc_title: 25
 usc_section: "3731"
 chapter: 39
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3731"
-generated_at: "2026-03-30T05:35:40.141Z"
+generated_at: "2026-03-30T05:39:27.416Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(1)** The Secretary may grant scholarships to Indians enrolled in accredited agriculture related programs for postsecondary and graduate programs of study as full-time students.
   - **(2)** A recipient of a scholarship under paragraph (1) shall be required to enter into an obligated service agreement with the Secretary in which the recipient agrees to accept employment for one year for each year the recipient received a scholarship, following completion of the recipients course of study, with—
     - **(A)** the Bureau or other agency of the Federal Government providing agriculture or natural resource related services to Indians or Indian tribes;
-    - **(B)** an agriculture or related program conducted under a contract, grant, or cooperative agreement entered into under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.]; or
+    - **(B)** an agriculture or related program conducted under a contract, grant, or cooperative agreement entered into under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.]; or
     - **(C)** a tribal agriculture or related program.
   - **(3)** The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant’s scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary 1 1 So in original. Probably should be “postsecondary”. or graduate institution.
 - **(d)** The Secretary shall conduct, through the Bureau, and in consultation with other appropriate local, State and Federal agencies, and in consultation and coordination with Indian tribes, an agricultural resource education outreach program for Indian youth to explain and stimulate interest in all aspects of management and careers in Indian agriculture and natural resources.

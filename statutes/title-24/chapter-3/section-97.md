@@ -3,9 +3,9 @@ title: "Section 97 - Omitted"
 usc_title: 24
 usc_section: "97"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "24 U.S.C. § 97"
-generated_at: "2026-03-30T05:35:37.599Z"
+generated_at: "2026-03-30T05:39:09.818Z"
 status: "omitted"
 ---
 

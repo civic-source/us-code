@@ -1,20 +1,13 @@
 ---
-title: "Section 1771c - Conditions precedent to Federal purchase of settlement lands"
+title: "Section 1771c - Omitted"
 usc_title: 25
 usc_section: "1771c"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1771c"
-generated_at: "2026-03-30T05:35:40.115Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1771c. Conditions precedent to Federal purchase of settlement lands
+# § 1771c. Omitted
 
-- **(a)** No action shall be taken by the Secretary under section 1771d of this title before the Secretary publishes notice in the Federal Register of the determination by the Secretary that—
-  - **(1)** the Commonwealth of Massachusetts has enacted legislation which provides that—
-    - **(A)** the town of Gay Head, Massachusetts, is authorized to convey to the Secretary to be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. the public settlement lands and the Cook lands subject to the conditions and limitations set forth in the Settlement Agreement; and
-    - **(B)** the Wampanoag Tribal Council of Gay Head, Inc. shall have the authority, after consultation with appropriate State and local officials, to regulate any hunting by Indians on the settlement lands that is conducted by means other than firearms or crossbow to the extent provided in, and subject to the conditions and limitations set forth in, the Settlement Agreement;
-  - **(2)** the Wampanoag Tribal Council of Gay Head, Inc., has submitted to the Secretary an executed waiver or waivers of the claims covered by the Settlement Agreement all claims extinguished by this subchapter, and all claims arising because of the approval of transfers and extinguishment of titles and claims under this subchapter; and
-  - **(3)** the town of Gay Head, Massachusetts, has authorized the conveyance of the public settlement lands and the Cook Lands 1 1 So in original. Probably should not be capitalized. to the Secretary in trust for the Wampanoag Tribal Council of Gay Head, Inc.
-- **(b)** In making the findings required in subsection (a) of this section, the Secretary may rely upon the opinion of the Attorney General of the Commonwealth of Massachusetts.

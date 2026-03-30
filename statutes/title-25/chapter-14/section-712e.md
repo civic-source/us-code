@@ -1,15 +1,13 @@
 ---
-title: "Section 712e - Certain property taken into trust"
+title: "Section 712e - Omitted"
 usc_title: 25
 usc_section: "712e"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 712e"
-generated_at: "2026-03-30T05:35:40.086Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 712e. Certain property taken into trust
-
-The Secretary of the Interior shall accept title to 2000 acres of real property and may accept title to any additional number of acres of real property located in Umpqua River watershed upstream from Scottsburg, Oregon, or the northern slope of the Rogue River watershed upstream from Agness, Oregon, if such real property is conveyed or otherwise transferred to the United States by or on behalf of the Tribe. The Secretary shall take into trust for the benefit of the Tribe all real property conveyed or otherwise transferred to the United States pursuant to this section. Real property taken into trust pursuant to this section shall become part of the Tribe’s reservation, and shall be treated as on-reservation land for the purpose of processing acquisitions of real property into trust. Real property taken into trust pursuant to this section shall not be considered to have been taken into trust for gaming (as that term is used in the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.)).
+# § 712e. Omitted
 

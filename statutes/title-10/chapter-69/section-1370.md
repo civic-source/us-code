@@ -3,9 +3,9 @@ title: "Section 1370 - Commissioned officers: general rule; exceptions"
 usc_title: 10
 usc_section: "1370"
 chapter: 69
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 1370"
-generated_at: "2026-03-30T05:34:54.639Z"
+generated_at: "2026-03-30T05:38:26.093Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 1133 - Payments to enrollees, heirs, or legatees; protection of minors and persons under legal disability; escheats"
+title: "Section 1133 - Omitted"
 usc_title: 25
 usc_section: "1133"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1133"
-generated_at: "2026-03-30T05:35:40.094Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1133. Payments to enrollees, heirs, or legatees; protection of minors and persons under legal disability; escheats
-
-The Secretary shall distribute a share payable to a living enrollee directly to such enrollee or in such manner as is deemed by the Secretary to be in the enrollee’s best interest. The Secretary shall distribute the per capita share of a deceased enrollee to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary whose findings upon such proof shall be final and conclusive. Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid to the persons whom the Secretary determines will best protect their interests. Proportional shares of heirs or legatees amounting to $5 or less shall not be distributed, and shall escheat to the United States. In the event that the sum of money reserved by the Secretary to pay the costs of distributing the individual shares exceeds the amount actually necessary to accomplish this purpose, such funds shall also escheat to the United States.
+# § 1133. Omitted
 

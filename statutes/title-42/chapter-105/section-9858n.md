@@ -3,9 +3,9 @@ title: "Section 9858n - Definitions"
 usc_title: 42
 usc_section: "9858n"
 chapter: 105
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 9858n"
-generated_at: "2026-03-30T05:37:41.579Z"
+generated_at: "2026-03-30T05:40:26.271Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ As used in this subchapter:
       - **(ii)** satisfies the State and local requirements, including those referred to in section 9858c(c)(2)(I) of this title ;
     - **(B)** a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
   - **(7)** The term “family child care provider” means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
-  - **(8)** The term “Indian tribe” has the meaning given it in section 450b(e) of title 25 .
+  - **(8)** The term “Indian tribe” has the meaning given it in section 5304(e) of title 25 .
   - **(9)** The term “lead agency” means the agency designated or established under section 9858b(a) of this title .
   - **(10)** The term “parent” includes a legal guardian, foster parent, or other person standing in loco parentis.
   - **(11)** The term “scientifically valid research” includes applied research, basic research, and field-initiated research, for which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
@@ -41,5 +41,5 @@ As used in this subchapter:
   - **(13)** The term “sliding fee scale” means a system of cost sharing by a family based on income and size of the family.
   - **(14)** The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(15)**
-    - **(A)** The term “tribal organization” has the meaning given it in section 450b( l ) of title 25.
+    - **(A)** The term “tribal organization” has the meaning given it in section 5304( l ) of title 25.
     - **(B)** Such term includes a Native Hawaiian Organization, as defined in section 4909(4) 1 1 See References in Text note below. of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.

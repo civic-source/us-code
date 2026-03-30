@@ -1,15 +1,13 @@
 ---
-title: "Section 669 - Use of sale proceeds for purchase of real property only"
+title: "Section 669 - Omitted"
 usc_title: 25
 usc_section: "669"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 669"
-generated_at: "2026-03-30T05:35:40.082Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 669. Use of sale proceeds for purchase of real property only
-
-All funds derived from the sale of lands pursuant to this subchapter shall be used only for the purchase of real property within the boundaries of the Southern Ute Indian Reservation. Title to any lands purchased with such funds and title to any lands reacquired by the tribe by foreclosure of a mortgage or deed of trust shall be taken in the name of the United States in trust for the Southern Ute Indian Tribe.
+# § 669. Omitted
 

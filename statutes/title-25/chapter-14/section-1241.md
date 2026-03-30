@@ -1,15 +1,13 @@
 ---
-title: "Section 1241 - Distribution of funds; attorney fees and expenses"
+title: "Section 1241 - Omitted"
 usc_title: 25
 usc_section: "1241"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1241"
-generated_at: "2026-03-30T05:35:40.095Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1241. Distribution of funds; attorney fees and expenses
-
-The funds appropriated by the Act of June 9, 1964 ( 78 Stat. 204 , 213), to pay a judgment to the Pembina Band of Chippewa Indians in Indian Claims Commission dockets numbered 18–A, 113, and 191, together with the interest thereon, after payment of attorney fees and litigation expenses, and such expenses as may be necessary in carrying out the provisions of this subchapter, shall be distributed as provided herein.
+# § 1241. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 2445d - Construction with other reporting requirements"
 usc_title: 10
 usc_section: "2445d"
 chapter: 144
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2445d"
-generated_at: "2026-03-30T05:34:54.678Z"
+generated_at: "2026-03-30T05:38:26.130Z"
 status: "active"
 ---
 

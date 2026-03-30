@@ -1,15 +1,13 @@
 ---
-title: "Section 565 - Authorization to distribute funds"
+title: "Section 565 - Omitted"
 usc_title: 25
 usc_section: "565"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 565"
-generated_at: "2026-03-30T05:35:40.077Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 565. Authorization to distribute funds
-
-The Secretary of the Interior is authorized and directed to distribute in accordance with the provisions of this subchapter the funds appropriated in satisfaction of a judgment obtained by the Klamath and Modoc Tribes and Yahooskin Band of Snake Indians, hereinafter called the Klamath Tribe for the purposes of the administration of this subchapter, from the Indian Claims Commission against the United States in docket numbered 100, and all other funds heretofore or hereafter deposited in the United States Treasury to the credit of the Klamath Tribe or any of its constituent parts or groups, except the funds heretofore or hereafter set aside for the purpose of paying the usual and necessary expenses of prosecuting claims against the United States.
+# § 565. Omitted
 

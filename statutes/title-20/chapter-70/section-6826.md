@@ -3,16 +3,16 @@ title: "Section 6826 - Local plans"
 usc_title: 20
 usc_section: "6826"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6826"
-generated_at: "2026-03-30T05:35:34.294Z"
+generated_at: "2026-03-30T05:39:05.800Z"
 status: "active"
 ---
 
 # § 6826. Local plans
 
 - **(a)** Each eligible entity desiring a subgrant from the State educational agency under section 6824 of this title shall submit a plan to the State educational agency at such time, in such manner, and containing such information as the State educational agency may require.
-- **(b)** Each plan submitted under subsection (a) of this section shall—
+- **(b)** Each plan submitted under subsection (a) shall—
   - **(1)** describe the effective programs and activities, including language instruction educational programs, proposed to be developed, implemented, and administered under the subgrant that will help English learners increase their English language proficiency and meet the challenging State academic standards;
   - **(2)** describe how the eligible entity will ensure that elementary schools and secondary schools receiving funds under this subpart assist English learners in—
     - **(A)** achieving English proficiency based on the State’s English language proficiency assessment under section 6311(b)(2)(G) of this title , consistent with the State’s long-term goals, as described in section 6311(c)(4)(A)(ii) of this title ; and

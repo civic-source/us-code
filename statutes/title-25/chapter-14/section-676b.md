@@ -1,15 +1,13 @@
 ---
-title: "Section 676b - Distribution of judgment fund; deductions; availability for certain uses"
+title: "Section 676b - Omitted"
 usc_title: 25
 usc_section: "676b"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 676b"
-generated_at: "2026-03-30T05:35:40.082Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 676b. Distribution of judgment fund; deductions; availability for certain uses
-
-The unexpended balance of funds on deposit in the Treasury to the credit of the Confederated Bands of Ute Indians appropriated by the Act of May 13, 1966 ( 80 Stat. 141 ), pursuant to the final judgment entered in Court of Claims case numbered 47567; and the funds on deposit to the credit of the Ute Tribe of the Uintah and Ouray Reservation, for and on behalf of the Uncompahgre Band of Ute Indians, that were appropriated by the Act of April 30, 1965 ( 79 Stat. 81 ), to pay a judgment by the Indian Claims Commission in docket numbered 349; and the interest thereon, less attorney fees and litigation expenses, shall be available for use by the respective tribes in accordance with the Act of August 21, 1951 ( 65 Stat. 193 ; 25 U.S.C. 672 ), the Act of August 12, 1953 ( 67 Stat. 540 ; 25 U.S.C. 674 ), the Act of June 28, 1954 ( 68 Stat. 300 ; 25 U.S.C. 676 ), and the Act of August 27, 1954 ( 68 Stat. 868 ; 25 U.S.C. 677 ), as amended.
+# § 676b. Omitted
 

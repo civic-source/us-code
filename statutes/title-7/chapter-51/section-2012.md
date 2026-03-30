@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T05:35:07.550Z"
+generated_at: "2026-03-30T05:38:14.930Z"
 status: "active"
 ---
 
@@ -95,4 +95,4 @@ As used in this chapter, the term:
   - **(2)** make cost adjustments in the thrifty food plan for Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska;
   - **(3)** make cost adjustments in the separate thrifty food plans for Guam, and the Virgin Islands of the United States to reflect the cost of food in those States, but not to exceed the cost of food in the fifty States and the District of Columbia; and
   - **(4)** on October 1, 1996 , and each October 1 thereafter, adjust the cost of the diet to reflect the cost of the diet in the preceding June, and round the result to the nearest lower dollar increment for each household size, except that on October 1, 1996 , the Secretary may not reduce the cost of the diet in effect on September 30, 1996 , and except that on October 1, 2003 , in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002 .
-- **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in the Indian Self-Determination Act ( 25 U.S.C. 450b(b) ), as well as any Indian tribe, band, or community holding a treaty with a State government.
+- **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in the Indian Self-Determination Act ( 25 U.S.C. 450b(b) ), 1 1 See References in Text note below. as well as any Indian tribe, band, or community holding a treaty with a State government.

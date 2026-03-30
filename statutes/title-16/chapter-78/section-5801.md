@@ -3,9 +3,9 @@ title: "Section 5801 - Definitions"
 usc_title: 16
 usc_section: "5801"
 chapter: 78
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 5801"
-generated_at: "2026-03-30T05:35:31.852Z"
+generated_at: "2026-03-30T05:38:48.602Z"
 status: "active"
 ---
 

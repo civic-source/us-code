@@ -1,15 +1,13 @@
 ---
-title: "Section 771 - Enrollment of descendants; determination of eligibility"
+title: "Section 771 - Omitted"
 usc_title: 25
 usc_section: "771"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 771"
-generated_at: "2026-03-30T05:35:40.088Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 771. Enrollment of descendants; determination of eligibility
-
-The Secretary of the Interior, hereafter referred to as the “Secretary”, is authorized and directed to prepare separate rolls of the Indians of the blood of the Molel or Molallalas Tribe of Oregon and of the Confederated Bands of the Umpqua Tribe of Indians and the Calappoias residing in the Umpqua Valley, and of the Tillamook, Coquille, Tootootoney, and Chetco Tribes of Oregon, living on August 30, 1954 . Applications for enrollment shall be filed within one year of August 30, 1954 . The determination of the Secretary of the eligibility of an applicant for enrollment shall be final and conclusive. No person shall be entitled to be enrolled on more than one roll.
+# § 771. Omitted
 

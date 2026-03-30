@@ -3,9 +3,9 @@ title: "Section 3266 - Regulations"
 usc_title: 18
 usc_section: "3266"
 chapter: 212
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "18 U.S.C. § 3266"
-generated_at: "2026-03-30T05:35:35.780Z"
+generated_at: "2026-03-30T05:39:07.850Z"
 status: "active"
 ---
 

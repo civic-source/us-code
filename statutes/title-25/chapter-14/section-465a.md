@@ -1,15 +1,13 @@
 ---
-title: "Section 465a - Receipt and purchase in trust by United States of land for Klamath Tribe Indians"
+title: "Section 465a - Omitted"
 usc_title: 25
 usc_section: "465a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 465a"
-generated_at: "2026-03-30T05:35:40.073Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.380Z"
+status: "omitted"
 ---
 
-# § 465a. Receipt and purchase in trust by United States of land for Klamath Tribe Indians
-
-The Secretary of the Interior is authorized to receive on behalf of the United States from individual members of the Klamath Tribe of Indians voluntarily executed deeds to such lands as said Indians may own in fee simple free from all encumbrances, said lands to be held in trust by the United States for said Indians and their heirs; and, whenever restricted funds are used for the purchase of lands for individual members of the Klamath Tribe of Indians, the Secretary of the Interior is authorized, in his discretion, to take title to said lands in the United States, the same to be held in trust for said individual Indians: Provided, however , That while any of the foregoing lands are held in trust by the United States for said Indians, the same shall be subject to the same restrictions, immunities, and exemptions as homesteads purchased out of trust or restricted funds of individual Indians pursuant to section 412a of this title , except the restrictions, immunities, or exemptions of the second proviso of said section.
+# § 465a. Omitted
 

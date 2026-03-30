@@ -3,9 +3,9 @@ title: "Section 12651j - Assignment to State Commissions"
 usc_title: 42
 usc_section: "12651j"
 chapter: 129
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 12651j"
-generated_at: "2026-03-30T05:37:41.621Z"
+generated_at: "2026-03-30T05:40:26.315Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1103 - Eligibility; applications"
 usc_title: 20
 usc_section: "1103"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1103"
-generated_at: "2026-03-30T05:35:34.240Z"
+generated_at: "2026-03-30T05:39:05.743Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Each Hispanic-serving institution desiring to receive assistance under this subchapter shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is a Hispanic-serving institution as defined in section 1101a of this title , along with such other data and information as the Secretary may by regulation require.
 - **(b)**
   - **(1)** Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution’s need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
-    - **(A)** the application meets the requirements of subsection (c) of this section; and
+    - **(A)** the application meets the requirements of subsection (c); and
     - **(B)** the institution is eligible for assistance in accordance with the provisions of this subchapter under which the assistance is sought.
   - **(2)** In carrying out paragraph (1), the Secretary may develop a preliminary application for use by Hispanic-serving institutions applying under this subchapter prior to the submission of the principal application.
 - **(c)** A Hispanic-serving institution, in the institution’s application for a grant, shall—

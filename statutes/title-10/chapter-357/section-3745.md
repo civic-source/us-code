@@ -3,9 +3,9 @@ title: "Section 3745 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "3745"
 chapter: 357
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 3745"
-generated_at: "2026-03-30T05:34:54.700Z"
+generated_at: "2026-03-30T05:38:26.150Z"
 status: "active"
 ---
 

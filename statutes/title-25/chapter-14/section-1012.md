@@ -1,15 +1,13 @@
 ---
-title: "Section 1012 - Authorization to withdraw, prorate and distribute funds"
+title: "Section 1012 - Omitted"
 usc_title: 25
 usc_section: "1012"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1012"
-generated_at: "2026-03-30T05:35:40.093Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1012. Authorization to withdraw, prorate and distribute funds
-
-The Secretary is authorized and directed to withdraw the funds on deposit in the Treasury of the United States to the credit of the Snake or Paiute Tribe that were appropriated by the Act of April 13, 1960 ( 74 Stat. 42 ), in satisfaction of a judgment that was obtained by the tribe in the Indian Claims Commission against the United States in docket numbered 17 together with the interest accrued thereon, after payment of attorney fees and expenses, as well as all other expenses, and to prorate such funds among those persons whose names appear on the roll prepared pursuant to section 1011 of this title for distribution as hereinafter provided.
+# § 1012. Omitted
 

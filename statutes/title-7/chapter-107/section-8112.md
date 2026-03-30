@@ -3,9 +3,9 @@ title: "Section 8112 - Repealed. Pub. L. 113–79, title IX , § 9011, Feb. 7, 2
 usc_title: 7
 usc_section: "8112"
 chapter: 107
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 8112"
-generated_at: "2026-03-30T05:35:07.626Z"
+generated_at: "2026-03-30T05:38:15.006Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 81 - Contracts and agreements with Indian tribes"
 usc_title: 25
 usc_section: "81"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 81"
-generated_at: "2026-03-30T05:35:40.058Z"
+generated_at: "2026-03-30T05:39:27.371Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In this section:
   - **(1)** The term “Indian lands” means lands the title to which is held by the United States in trust for an Indian tribe or lands the title to which is held by an Indian tribe subject to a restriction by the United States against alienation.
-  - **(2)** The term “Indian tribe” has the meaning given that term in section 450b(e) of this title .
+  - **(2)** The term “Indian tribe” has the meaning given that term in section 5304(e) of this title .
   - **(3)** The term “Secretary” means the Secretary of the Interior.
 - **(b)** No agreement or contract with an Indian tribe that encumbers Indian lands for a period of 7 or more years shall be valid unless that agreement or contract bears the approval of the Secretary of the Interior or a designee of the Secretary.
 - **(c)** Subsection (b) shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.

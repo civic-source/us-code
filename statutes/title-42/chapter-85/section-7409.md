@@ -3,9 +3,9 @@ title: "Section 7409 - National primary and secondary ambient air quality standa
 usc_title: 42
 usc_section: "7409"
 chapter: 85
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 7409"
-generated_at: "2026-03-30T05:37:41.515Z"
+generated_at: "2026-03-30T05:40:26.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 612 - Direct funding and administration by Indian tribes"
 usc_title: 42
 usc_section: "612"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 612"
-generated_at: "2026-03-30T05:37:41.187Z"
+generated_at: "2026-03-30T05:40:25.852Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** identifies the population and service area or areas to be served by such plan;
     - **(D)** provides that a family receiving assistance under the plan may not receive duplicative assistance from other State or tribal programs funded under this part;
     - **(E)** identifies the employment opportunities in or near the service area or areas of the Indian tribe and the manner in which the Indian tribe will cooperate and participate in enhancing such opportunities for recipients of assistance under the plan consistent with any applicable State standards; and
-    - **(F)** applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450c(f)(1) ), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
+    - **(F)** applies the fiscal accountability provisions of section 5(f)(1) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450c(f)(1) ), 1 1 See References in Text note below. relating to the submission of a single-agency audit report required by chapter 75 of title 31.
   - **(2)** The Secretary shall approve each tribal family assistance plan submitted in accordance with paragraph (1).
   - **(3)** Nothing in this section shall preclude the development and submission of a single tribal family assistance plan by the participating Indian tribes of an intertribal consortium.
 - **(c)** The Secretary, with the participation of Indian tribes, shall establish for each Indian tribe receiving a grant under this section minimum work participation requirements, appropriate time limits for receipt of welfare-related services under the grant, and penalties against individuals—
@@ -52,7 +52,7 @@ status: "active"
 - **(d)** Nothing in this section shall preclude an Indian tribe from seeking emergency assistance from any Federal loan program or emergency fund.
 - **(e)** Nothing in this section shall be construed to limit the ability of the Secretary to maintain program funding accountability consistent with—
   - **(1)** generally accepted accounting principles; and
-  - **(2)** the requirements of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+  - **(2)** the requirements of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1
 - **(f)** Section 606 of this title shall apply to an Indian tribe with an approved tribal assistance plan in the same manner as such section applies to a State, except that section 606(c) of this title shall be applied by substituting “section 612(a)” for “section 603(a)”.
 - **(g)**
   - **(1)** Subsections (a)(1), (a)(6), (b), and (c) of section 609 of this title , shall apply to an Indian tribe with an approved tribal assistance plan in the same manner as such subsections apply to a State.

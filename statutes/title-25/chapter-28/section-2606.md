@@ -3,9 +3,9 @@ title: "Section 2606 - Repealed. Pub. L. 103–382, title III , § 367, Oct. 20,
 usc_title: 25
 usc_section: "2606"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2606"
-generated_at: "2026-03-30T05:35:40.132Z"
+generated_at: "2026-03-30T05:39:27.407Z"
 status: "repealed"
 ---
 

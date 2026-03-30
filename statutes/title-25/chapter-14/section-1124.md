@@ -1,18 +1,13 @@
 ---
-title: "Section 1124 - Revision of enrollment list"
+title: "Section 1124 - Omitted"
 usc_title: 25
 usc_section: "1124"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1124"
-generated_at: "2026-03-30T05:35:40.094Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1124. Revision of enrollment list
-
-- **(a)** adding the names of persons living on June 2, 1972 , who were eligible for enrollment under section 1114 of this title but were not enrolled,
-- **(b)** by adding the names of children born to enrollees on or prior to June 2, 1972 , and who are living on said date,
-- **(c)** by adding the names of children born to persons who were eligible for enrollment under section 1114 of this title but who were not enrolled, regardless of whether such persons are living or deceased on June 2, 1972 , provided said children of such persons are living on June 2, 1972 , and
-- **(d)** by deleting the names of persons who are deceased as of June 2, 1972 .
+# § 1124. Omitted
 

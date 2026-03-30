@@ -3,9 +3,9 @@ title: "Section 1621h - Mental health prevention and treatment services"
 usc_title: 25
 usc_section: "1621h"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1621h"
-generated_at: "2026-03-30T05:35:40.105Z"
+generated_at: "2026-03-30T05:39:27.388Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
     - **(B)** staff positions within the Service; and
     - **(C)** staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes and tribal organizations (without regard to the funding source).
   - **(3)**
-    - **(A)** The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
+    - **(A)** The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
     - **(B)** Position specific training criteria shall be culturally relevant to Indians and Indian tribes and shall ensure that appropriate information regarding traditional health care practices is provided.
   - **(4)** The Service shall develop and implement, on request of an Indian tribe, tribal organization, or urban Indian organization, or assist the Indian tribe, tribal organization, or urban Indian organization to develop and implement, a program of community education on mental illness. In carrying out this paragraph, the Service shall, upon request of an Indian tribe, tribal organization, or urban Indian organization, provide technical assistance to the Indian tribe, tribal organization, or urban Indian organization to obtain and develop community educational materials on the identification, prevention, referral, and treatment of mental illness and dysfunctional and self-destructive behavior.
   - **(5)** Not later than 90 days after March 23, 2010 , the Secretary shall develop a plan under which the Service will increase the health care staff providing behavioral health services by at least 500 positions within 5 years after March 23, 2010 , with at least 200 of such positions devoted to child, adolescent, and family services. The plan developed under this paragraph shall be implemented under section 13 of this title .
@@ -84,11 +84,11 @@ status: "active"
     - **(D)** The tribe or consortium has the administrative and financial capability to administer the project.
     - **(E)** The project will deliver services in a manner consistent with traditional Indian healing and treatment practices.
     - **(F)** The project is coordinated with, and avoids duplication of, existing services.
-  - **(3)** For purposes of this subsection, the Secretary shall, in evaluating applications for grants for projects to be operated under any contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.], use the same criteria that the Secretary uses in evaluating any other application for such a grant.
+  - **(3)** For purposes of this subsection, the Secretary shall, in evaluating applications for grants for projects to be operated under any contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.], use the same criteria that the Secretary uses in evaluating any other application for such a grant.
   - **(4)** The Secretary may only award one grant under this subsection with respect to a service area until the Secretary has awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria specified in paragraph (2).
   - **(5)** Not later than 180 days after the close of the term of the last grant awarded pursuant to this subsection, the Secretary shall submit to the Congress a report evaluating the effectiveness of the innovative community-based projects demonstrated pursuant to this subsection. Such report shall include findings and recommendations, if any, relating to the reorganization of the programs of the Service for delivery of mental health services to Indians.
   - **(6)** Grants made pursuant to this section may be expended over a period of three years and no grant may exceed $1,000,000 for the fiscal years involved.
-- **(l)** Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] shall—
+- **(l)** Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] shall—
   - **(1)** in the case of a person employed as a psychologist, be licensed as a clinical psychologist or working under the direct supervision of a licensed clinical psychologist;
   - **(2)** in the case of a person employed as a social worker, be licensed as a social worker or working under the direct supervision of a licensed social worker; or
   - **(3)** in the case of a person employed as a marriage and family therapist, be licensed as a marriage and family therapist or working under the direct supervision of a licensed marriage and family therapist.

@@ -3,9 +3,9 @@ title: "Section 2213 - Flood control and other purposes"
 usc_title: 33
 usc_section: "2213"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2213"
-generated_at: "2026-03-30T05:36:42.550Z"
+generated_at: "2026-03-30T05:39:52.685Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
   - **(6)** aquatic plant control: 50 percent of control operations; and
   - **(7)** environmental protection and restoration: 35 percent; except that nothing in this paragraph shall affect or limit the applicability of section 2283 of this title .
 - **(d)**
-  - **(1)** Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+  - **(1)** Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
   - **(2)**
     - **(A)** In the case of a project authorized for construction after December 31, 1999 , except for a project for which a District Engineer’s Report is completed by that date, the non-Federal cost of the periodic nourishment of the project, or any measure for shore protection or beach erosion control for the project, that is carried out—
       - **(i)** after January 1, 2001 , shall be 40 percent;
@@ -70,7 +70,7 @@ status: "active"
       - **(i)** per capita income data for the county or counties in which the project is to be located; and
       - **(ii)** the per capita non-Federal cost of construction of the project for the county or counties in which the project is to be located; and
     - **(B)** may consider additional criteria relating to the non-Federal interest’s financial ability to carry out its cost-sharing responsibilities, to the extent that the application of such criteria does not eliminate areas from eligibility for a reduction in the non-Federal share as determined under subparagraph (A).
-  - **(4)** Notwithstanding subsection (a) of this section, the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
+  - **(4)** Notwithstanding subsection (a), the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
 - **(n)**
   - **(1)** The Secretary may not—
     - **(A)** solicit contributions from non-Federal interests for costs of constructing authorized water resources projects or measures in excess of the non-Federal share assigned to the appropriate project purposes listed in subsections (a), (b), and (c); or

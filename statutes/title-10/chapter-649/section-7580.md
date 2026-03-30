@@ -3,9 +3,9 @@ title: "Section 7580 - Heat and light for Young Men’s Christian Association bu
 usc_title: 10
 usc_section: "7580"
 chapter: 649
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 7580"
-generated_at: "2026-03-30T05:34:54.717Z"
+generated_at: "2026-03-30T05:38:26.165Z"
 status: "active"
 ---
 

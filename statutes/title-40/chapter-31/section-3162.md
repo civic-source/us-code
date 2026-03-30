@@ -3,15 +3,15 @@ title: "Section 3162 - Waiver for individuals who perform volunteer services"
 usc_title: 40
 usc_section: "3162"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "40 U.S.C. § 3162"
-generated_at: "2026-03-30T05:36:44.632Z"
+generated_at: "2026-03-30T05:39:57.752Z"
 status: "active"
 ---
 
 # § 3162. Waiver for individuals who perform volunteer services
 
-- **(a)** The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), the Indian Health Care Improvement Act ( 25 U.S.C. 1601 et seq.), and the Housing and Community Development Act of 1974 ( 42 U.S.C. 5301 et seq.) does not apply to an individual—
+- **(a)** The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. the Indian Health Care Improvement Act ( 25 U.S.C. 1601 et seq.), and the Housing and Community Development Act of 1974 ( 42 U.S.C. 5301 et seq.) does not apply to an individual—
   - **(1)** who volunteers to perform a service directly to a state or local government, a public agency, or a public or private nonprofit recipient of federal assistance—
     - **(A)** for civic, charitable, or humanitarian reasons;
     - **(B)** only for the personal purpose or pleasure of the individual;

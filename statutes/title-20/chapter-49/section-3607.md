@@ -3,9 +3,9 @@ title: "Section 3607 - Recovery of costs by United States"
 usc_title: 20
 usc_section: "3607"
 chapter: 49
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 3607"
-generated_at: "2026-03-30T05:35:34.273Z"
+generated_at: "2026-03-30T05:39:05.777Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
     - **(B)** the amount outstanding on any loan made to the recipient under section 3605 of this title ; and
     - **(C)** an amount equal to the interest which would have been charged on such loan were the loan made by a commercial lender at prevailing interest rates (as determined by the Secretary).
 - **(b)** The Attorney General shall conduct an investigation to determine whether, by using all available means, the United States should or could recover, from any person determined by the Attorney General to be liable for such costs, the amounts expended by the United States to carry out this chapter. Within one year after June 14, 1980 , the Attorney General shall submit to the Congress a report containing the results of the study, together with any appropriate recommendations.
-- **(c)** If the Attorney General determines in the report under subsection (b) of this section that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b) of this section.
+- **(c)** If the Attorney General determines in the report under subsection (b) that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b).

@@ -3,16 +3,16 @@ title: "Section 2008s - Rural microentrepreneur assistance program"
 usc_title: 7
 usc_section: "2008s"
 chapter: 50
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 2008s"
-generated_at: "2026-03-30T05:35:07.546Z"
+generated_at: "2026-03-30T05:38:14.925Z"
 status: "active"
 ---
 
 # § 2008s. Rural microentrepreneur assistance program
 
 - **(a)** In this section:
-  - **(1)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(1)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(2)** The term “microentrepreneur” means an owner and operator, or prospective owner and operator, of a rural microenterprise who is unable to obtain sufficient training, technical assistance, or credit other than under this section, as determined by the Secretary.
   - **(3)** The term “microenterprise development organization” means an organization that—
     - **(A)** is—

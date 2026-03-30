@@ -3,9 +3,9 @@ title: "Section 5122 - Definitions"
 usc_title: 42
 usc_section: "5122"
 chapter: 68
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 5122"
-generated_at: "2026-03-30T05:37:41.453Z"
+generated_at: "2026-03-30T05:40:26.135Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ As used in this chapter—
   - **(3)** “United States” means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(4)** “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(5)** “Governor” means the chief executive of any State.
-  - **(6)** The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a et seq.).
+  - **(6)** The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a et seq.). 1 1 See References in Text note below.
   - **(7)** The term “individual with a disability” means an individual with a disability as defined in section 12102(2) of this title .
   - **(8)** The term “local government” means—
     - **(A)** a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;

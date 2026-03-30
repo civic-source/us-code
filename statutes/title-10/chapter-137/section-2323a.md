@@ -3,9 +3,9 @@ title: "Section 2323a - Credit for Indian contracting in meeting certain subcont
 usc_title: 10
 usc_section: "2323a"
 chapter: 137
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2323a"
-generated_at: "2026-03-30T05:34:54.669Z"
+generated_at: "2026-03-30T05:38:26.121Z"
 status: "active"
 ---
 
@@ -28,6 +28,6 @@ status: "active"
 - **(d)** The Secretary of Defense shall prescribe regulations for the implementation of this section.
 - **(e)** In this section:
   - **(1)** The term “Indian lands” has the meaning given that term by section 4(4) of the Indian Gaming Regulatory Act ( 102 Stat. 2468 ; 25 U.S.C. 2703(4) ).
-  - **(2)** The term “Indian” has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(d) ).
-  - **(3)** The term “Indian tribe” has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(e) ).
+  - **(2)** The term “Indian” has the meaning given that term by section 4(d) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(d) ). 1 1 See References in Text note below.
+  - **(3)** The term “Indian tribe” has the meaning given that term by section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(e) ). 1
   - **(4)** The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.

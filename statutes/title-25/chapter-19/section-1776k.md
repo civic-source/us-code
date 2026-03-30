@@ -1,15 +1,13 @@
 ---
-title: "Section 1776k - Authorization of appropriations"
+title: "Section 1776k - Omitted"
 usc_title: 25
 usc_section: "1776k"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1776k"
-generated_at: "2026-03-30T05:35:40.118Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1776k. Authorization of appropriations
-
-There are authorized to be appropriated to the Department of the Interior such sums as are necessary to carry out this subchapter.
+# § 1776k. Omitted
 

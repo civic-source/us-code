@@ -3,16 +3,16 @@ title: "Section 6823 - State and specially qualified agency plans"
 usc_title: 20
 usc_section: "6823"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6823"
-generated_at: "2026-03-30T05:35:34.294Z"
+generated_at: "2026-03-30T05:39:05.799Z"
 status: "active"
 ---
 
 # § 6823. State and specially qualified agency plans
 
 - **(a)** Each State educational agency and specially qualified agency desiring a grant under this subpart shall submit a plan to the Secretary at such time and in such manner as the Secretary may require.
-- **(b)** Each plan submitted under subsection (a) of this section shall—
+- **(b)** Each plan submitted under subsection (a) shall—
   - **(1)** describe the process that the agency will use in awarding subgrants to eligible entities under section 6824(d)(1) of this title ;
   - **(2)** describe how the agency will establish and implement, with timely and meaningful consultation with local educational agencies representing the geographic diversity of the State, standardized, statewide entrance and exit procedures, including an assurance that all students who may be English learners are assessed for such status within 30 days of enrollment in a school in the State;
   - **(3)** provide an assurance that—
@@ -34,13 +34,13 @@ status: "active"
   - **(8)** describe—
     - **(A)** how the agency will monitor the progress of each eligible entity receiving a subgrant under this subpart in helping English learners achieve English proficiency; and
     - **(B)** the steps the agency will take to further assist eligible entities if the strategies funded under this subpart are not effective, such as providing technical assistance and modifying such strategies.
-- **(c)** The Secretary, after using a peer review process, shall approve a plan submitted under subsection (a) of this section if the plan meets the requirements of this section.
+- **(c)** The Secretary, after using a peer review process, shall approve a plan submitted under subsection (a) if the plan meets the requirements of this section.
 - **(d)**
-  - **(1)** Each plan submitted by a State educational agency or specially qualified agency and approved under subsection (c) of this section shall—
+  - **(1)** Each plan submitted by a State educational agency or specially qualified agency and approved under subsection (c) shall—
     - **(A)** remain in effect for the duration of the agency’s participation under this subpart; and
     - **(B)** be periodically reviewed and revised by the agency, as necessary, to reflect changes to the agency’s strategies and programs carried out under this subpart.
   - **(2)**
     - **(A)** If the State educational agency or specially qualified agency amends the plan, the agency shall submit such amendment to the Secretary.
     - **(B)** The Secretary shall approve such amendment to an approved plan, unless the Secretary determines that the amendment will result in the agency not meeting the requirements, or fulfilling the purposes, of this subpart.
-- **(e)** A plan submitted under subsection (a) of this section may be submitted as part of a consolidated plan under section 7842 of this title .
+- **(e)** A plan submitted under subsection (a) may be submitted as part of a consolidated plan under section 7842 of this title .
 - **(f)** The Secretary shall provide technical assistance, if requested by the State, in the development of English proficiency standards and assessments.

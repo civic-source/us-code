@@ -3,9 +3,9 @@ title: "Section 1532 - Program authorization"
 usc_title: 21
 usc_section: "1532"
 chapter: 20
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 1532"
-generated_at: "2026-03-30T05:35:47.382Z"
+generated_at: "2026-03-30T05:39:23.208Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(xii)** Other organizations involved in reducing substance abuse.
     - **(B)** If feasible, in addition to representatives from the categories listed in subparagraph (A), the coalition shall have an elected official (or a representative of an elected official) from—
       - **(i)** the Federal Government; and
-      - **(ii)** the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 450b(e) of title 25 ).
+      - **(ii)** the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in section 5304(e) of title 25 ).
     - **(C)** An individual who is a member of the coalition may serve on the coalition as a representative of not more than 1 category listed under subparagraph (A).
   - **(3)** The coalition shall demonstrate, to the satisfaction of the Administrator—
     - **(A)** that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title , for a period of not less than 6 months, acting through entities such as task forces, subcommittees, or community boards; and

@@ -3,15 +3,15 @@ title: "Section 3104 - Management of Indian forest land"
 usc_title: 25
 usc_section: "3104"
 chapter: 33
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3104"
-generated_at: "2026-03-30T05:35:40.136Z"
+generated_at: "2026-03-30T05:39:27.411Z"
 status: "active"
 ---
 
 # § 3104. Management of Indian forest land
 
-- **(a)** The Secretary shall undertake forest land management activities on Indian forest land, either directly or through contracts, cooperative agreements, or grants under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.].
+- **(a)** The Secretary shall undertake forest land management activities on Indian forest land, either directly or through contracts, cooperative agreements, or grants under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].
 - **(b)** Indian forest land management activities undertaken by the Secretary shall be designed to achieve the following objectives—
   - **(1)** the development, maintenance, and enhancement of Indian forest land in a perpetually productive state in accordance with the principles of sustained yield and with the standards and objectives set forth in forest management plans by providing effective management and protection through the application of sound silvicultural and economic principles to—
     - **(A)** the harvesting of forest products,

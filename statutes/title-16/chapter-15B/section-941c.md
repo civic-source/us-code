@@ -3,9 +3,9 @@ title: "Section 941c - Identification, review, and implementation of proposals a
 usc_title: 16
 usc_section: "941c"
 chapter: 15
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 941c"
-generated_at: "2026-03-30T05:35:31.775Z"
+generated_at: "2026-03-30T05:38:48.527Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
   - **(1)** Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal selected under subsection (d) (excluding the cost of establishing sea lamprey barriers) shall be paid in cash or in-kind contributions by non-Federal sources.
   - **(2)** Regional projects selected under subsection (d) shall be exempt from cost sharing if the Director determines that the authorization for the project does not require a non-Federal cost-share.
   - **(3)** The Director may not consider the expenditure, directly or indirectly, of Federal funds received by any entity to be a contribution by a non-Federal source for purposes of this subsection.
-  - **(4)** Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+  - **(4)** Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.

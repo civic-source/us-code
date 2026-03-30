@@ -3,9 +3,9 @@ title: "Section 2012 - Indian education personnel"
 usc_title: 25
 usc_section: "2012"
 chapter: 22
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2012"
-generated_at: "2026-03-30T05:35:40.125Z"
+generated_at: "2026-03-30T05:39:27.400Z"
 status: "active"
 ---
 
@@ -96,8 +96,8 @@ status: "active"
     - **(B)** This paragraph shall not be construed to relieve the responsibility of the Bureau to issue timely and adequate announcements and advertisements concerning any such personnel action if such action is intended to fill a vacancy (no matter how such vacancy is created).
   - **(2)** In this subsection:
     - **(A)**
-      - **(i)** The term “Indian preference laws” means section 472 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
-      - **(ii)** The term “Indian preference laws” does not include section 450e(b) of this title .
+      - **(i)** The term “Indian preference laws” means section 5116 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
+      - **(ii)** The term “Indian preference laws” does not include section 5307(b) of this title .
     - **(B)** The term “tribal organization” means—
       - **(i)** the recognized governing body of any Indian tribe, band, nation, pueblo, or other organized community, including a Native village (as defined in section 1602(c) of title 43 ); or
       - **(ii)** in connection with any personnel action referred to in this subsection, any local school board to which the governing body has delegated the authority to grant a waiver under this subsection with respect to a personnel action.

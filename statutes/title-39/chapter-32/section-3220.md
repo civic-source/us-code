@@ -3,9 +3,9 @@ title: "Section 3220 - Use of official mail in the location and recovery of miss
 usc_title: 39
 usc_section: "3220"
 chapter: 32
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "39 U.S.C. § 3220"
-generated_at: "2026-03-30T05:36:44.195Z"
+generated_at: "2026-03-30T05:39:56.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6315 - Targeted assistance schools"
 usc_title: 20
 usc_section: "6315"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6315"
-generated_at: "2026-03-30T05:35:34.286Z"
+generated_at: "2026-03-30T05:39:05.791Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(2)**
     - **(A)** Children who are economically disadvantaged, children with disabilities, migrant children or English learners, are eligible for services under this part on the same basis as other children selected to receive services under this part.
     - **(B)** A child who, at any time in the 2 years preceding the year for which the determination is made, participated in a Head Start program, the literacy program under subpart 2 of part B of subchapter II, or in preschool services under this subchapter, is eligible for services under this part.
-    - **(C)** A child who, at any time in the 2 years preceding the year for which the determination is made, received services under part C of this subchapter is eligible for services under this part.
+    - **(C)** A child who, at any time in the 2 years preceding the year for which the determination is made, received services under part C is eligible for services under this part.
     - **(D)** A child in a local institution for neglected or delinquent children and youth or attending a community day program for such children is eligible for services under this part.
     - **(E)** A child who is homeless and attending any school served by the local educational agency is eligible for services under this part.
   - **(3)** Funds received under this part may not be used to provide services that are otherwise required by law to be made available to children described in paragraph (2) but may be used to coordinate or supplement such services.

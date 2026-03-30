@@ -3,16 +3,16 @@ title: "Section 1232e - Single local educational agency application"
 usc_title: 20
 usc_section: "1232e"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1232e"
-generated_at: "2026-03-30T05:35:34.252Z"
+generated_at: "2026-03-30T05:39:05.755Z"
 status: "active"
 ---
 
 # § 1232e. Single local educational agency application
 
-- **(a)** Each local educational agency which participates in an applicable program under which Federal funds are made available to such agency through a State agency or board shall submit to such agency or board a general application containing the assurances set forth in subsection (b) of this section. That application shall cover the participation by that local educational agency in all such programs.
-- **(b)** The general application submitted by a local educational agency under subsection (a) of this section shall set forth assurances—
+- **(a)** Each local educational agency which participates in an applicable program under which Federal funds are made available to such agency through a State agency or board shall submit to such agency or board a general application containing the assurances set forth in subsection (b). That application shall cover the participation by that local educational agency in all such programs.
+- **(b)** The general application submitted by a local educational agency under subsection (a) shall set forth assurances—
   - **(1)** that the local educational agency will administer each program covered by the application in accordance with all applicable statutes, regulations, program plans, and applications;
   - **(2)** that the control of funds provided to the local educational agency under each program, and title to property acquired with those funds, will be in a public agency and that a public agency will administer those funds and property;
   - **(3)** that the local educational agency will use fiscal control and fund accounting procedures that will ensure proper disbursement of, and accounting for, Federal funds paid to that agency under each program;

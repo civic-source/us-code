@@ -3,9 +3,9 @@ title: "Section 415 - Leases of restricted lands"
 usc_title: 25
 usc_section: "415"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 415"
-generated_at: "2026-03-30T05:35:40.067Z"
+generated_at: "2026-03-30T05:39:27.378Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(6)** the term “petition” means a written request submitted to the Secretary for the review of an action (or inaction) of an Indian tribe that is claimed to be in violation of the approved tribal leasing regulations;
   - **(7)** the term “Secretary” means the Secretary of the Interior;
   - **(8)** the term “tribal regulations” means regulations enacted in accordance with applicable tribal law and approved by the Secretary;
-  - **(9)** the term “Indian tribe” has the meaning given such term in section 479a of this title ; and
+  - **(9)** the term “Indian tribe” has the meaning given such term in section 5130 of this title ; and
   - **(10)** the term “individually owned allotted land” means a parcel of land that—
     - **(A)**
       - **(i)** is located within the jurisdiction of an Indian tribe; or
@@ -72,7 +72,7 @@ status: "active"
         - **(I)** the identification and evaluation of any significant effects of the proposed action on the environment; and
         - **(II)** a process for ensuring that—
     - **(C)** The Secretary may provide technical assistance, upon request of the Indian tribe, for development of a regulatory environmental review process under subparagraph (B)(ii).
-    - **(D)** The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act ( 25 U.S.C. 450 3 3 So in original. Probably should be “450f”. et seq.).
+    - **(D)** The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act ( 25 U.S.C. 450 et seq.). 3 3 See References in Text note below.
   - **(4)**
     - **(A)** Not later than 120 days after the date on which the tribal regulations described in paragraph (1) are submitted to the Secretary, the Secretary shall review and approve or disapprove the regulations.
     - **(B)** If the Secretary disapproves the tribal regulations described in paragraph (1), the Secretary shall include written documentation with the disapproval notification that describes the basis for the disapproval.

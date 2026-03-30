@@ -3,9 +3,9 @@ title: "Section 4436 - Repealed. Pub. L. 93–288, title VII , § 703, formerly 
 usc_title: 42
 usc_section: "4436"
 chapter: 58
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 4436"
-generated_at: "2026-03-30T05:37:41.441Z"
+generated_at: "2026-03-30T05:40:26.123Z"
 status: "repealed"
 ---
 

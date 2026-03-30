@@ -1,15 +1,13 @@
 ---
-title: "Section 566a - Tribe Constitution and Bylaws"
+title: "Section 566a - Omitted"
 usc_title: 25
 usc_section: "566a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 566a"
-generated_at: "2026-03-30T05:35:40.077Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 566a. Tribe Constitution and Bylaws
-
-The tribe’s Constitution and Bylaws shall remain in full force and effect and nothing in this subchapter shall affect the power of the General Council to take any action under the Constitution and Bylaws.
+# § 566a. Omitted
 

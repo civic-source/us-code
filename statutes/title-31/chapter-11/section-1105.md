@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-30T05:36:33.671Z"
+generated_at: "2026-03-30T05:39:51.826Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(B)** the missions and basic programs.
   - **(23)** separate appropriation accounts for appropriations under the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 651 et seq.) and the Federal Mine Safety and Health Act of 1977 ( 30 U.S.C. 801 et seq.).
   - **(24)** recommendations on the return of Government capital to the Treasury by a mixed-ownership corporation (as defined in section 9101(2) of this title ) that the President decides are desirable.
-  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) of the Inspector General Act of 1978.
+  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) 1 1 See References in Text note below. of the Inspector General Act of 1978.
   - **(26)** a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
   - **(27)** a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
   - **(28)** beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.

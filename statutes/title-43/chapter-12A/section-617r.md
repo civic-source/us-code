@@ -3,9 +3,9 @@ title: "Section 617r - Consent given States to negotiate supplemental compacts f
 usc_title: 43
 usc_section: "617r"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 617r"
-generated_at: "2026-03-30T05:37:11.816Z"
+generated_at: "2026-03-30T05:40:01.195Z"
 status: "active"
 ---
 

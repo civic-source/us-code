@@ -3,9 +3,9 @@ title: "Section 5109 - Reciprocity for foreign vessels"
 usc_title: 46
 usc_section: "5109"
 chapter: 51
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "46 U.S.C. § 5109"
-generated_at: "2026-03-30T05:37:44.899Z"
+generated_at: "2026-03-30T05:40:33.626Z"
 status: "active"
 ---
 

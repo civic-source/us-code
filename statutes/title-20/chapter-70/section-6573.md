@@ -3,9 +3,9 @@ title: "Section 6573 - State administration"
 usc_title: 20
 usc_section: "6573"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6573"
-generated_at: "2026-03-30T05:35:34.291Z"
+generated_at: "2026-03-30T05:39:05.797Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** Each State that receives funds under this subchapter shall—
-    - **(A)** ensure that any State rules, regulations, and policies relating to this subchapter conform to the purposes of this subchapter and provide any such proposed rules, regulations, and policies to the committee of practitioners created under subsection (b) of this section for review and comment;
+    - **(A)** ensure that any State rules, regulations, and policies relating to this subchapter conform to the purposes of this subchapter and provide any such proposed rules, regulations, and policies to the committee of practitioners created under subsection (b) for review and comment;
     - **(B)** minimize such rules, regulations, and policies to which the State’s local educational agencies and schools are subject;
     - **(C)** eliminate or modify State and local fiscal accounting requirements in order to facilitate the ability of schools to consolidate funds under schoolwide programs;
     - **(D)** identify any such rule, regulation, or policy as a State-imposed requirement; and

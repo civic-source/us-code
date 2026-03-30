@@ -1,15 +1,13 @@
 ---
-title: "Section 609 - Action to determine title to judgment fund; claim of Confederated Tribes of the Colville Reservation; jurisdiction of Court of Claims"
+title: "Section 609 - Omitted"
 usc_title: 25
 usc_section: "609"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 609"
-generated_at: "2026-03-30T05:35:40.078Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 609. Action to determine title to judgment fund; claim of Confederated Tribes of the Colville Reservation; jurisdiction of Court of Claims
-
-The Confederated Tribes of the Colville Reservation, acting through the chairman of its business council, and the Yakima Tribes of Indians of the Yakima Reservation, acting through the chairman of its tribal council, for and on behalf of said tribes and each and all their constituent tribal groups, are each hereby authorized to commence or defend in the United States Court of Claims an action against each other making claims to a share in the funds that are on deposit in the Treasury of the United States to pay a judgment of the Indian Claims Commission dated April 5, 1965 , in dockets numbered 161, 222, and 224, and the interest on said funds; and jurisdiction is hereby conferred upon said court to hear such claims and to render judgment and decree thereon making such division of such funds and the interest on such funds, as may be just and fair in law and equity, between the Confederated Tribes of the Colville Reservation and its constituent tribal groups on the one hand, and the Yakima Tribes of Indians of the Yakima Reservation and its constituent tribal groups on the other hand.
+# § 609. Omitted
 

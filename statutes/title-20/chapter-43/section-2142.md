@@ -3,9 +3,9 @@ title: "Section 2142 - Establishment of program at American Folklife Center to c
 usc_title: 20
 usc_section: "2142"
 chapter: 43
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 2142"
-generated_at: "2026-03-30T05:35:34.265Z"
+generated_at: "2026-03-30T05:39:05.769Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ status: "active"
   - **(1)** to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;
   - **(2)** to create a collection of the recordings obtained (including a catalog and index) which will be available for public use through the National Digital Library of the Library of Congress and such other methods as the Director considers appropriate to the extent feasible subject to available resources; and
   - **(3)** to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary 1 1 So in original. Probably should be complementary. to the efforts described in paragraphs (1) and (2).
-- **(b)** The Director may carry out the activities described in paragraphs (1) and (3) of subsection (a) of this section through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the program under this subchapter.
-- **(c)** As soon as practicable after October 27, 2000 , the Director shall begin collecting video and audio recordings under subsection (a)(1) of this section, and shall attempt to collect the first such recordings from the oldest veterans.
+- **(b)** The Director may carry out the activities described in paragraphs (1) and (3) of subsection (a) through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the program under this subchapter.
+- **(c)** As soon as practicable after October 27, 2000 , the Director shall begin collecting video and audio recordings under subsection (a)(1), and shall attempt to collect the first such recordings from the oldest veterans.

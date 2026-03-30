@@ -3,9 +3,9 @@ title: "Section 7011 - Definitions"
 usc_title: 20
 usc_section: "7011"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7011"
-generated_at: "2026-03-30T05:35:34.295Z"
+generated_at: "2026-03-30T05:39:05.800Z"
 status: "active"
 ---
 
@@ -36,11 +36,11 @@ Except as otherwise provided, in this subchapter:
     - **(B)** in the case of a child or youth, the language normally used by the parents of the child or youth.
   - **(11)** The term “paraprofessional” means an individual who is employed in a preschool, elementary school, or secondary school under the supervision of a certified or licensed teacher, including individuals employed in language instruction educational programs, special education, and migrant education.
   - **(12)** The term “specially qualified agency” means an eligible entity in a State whose State educational agency—
-    - **(A)** does not participate in a program under subpart 1 of part A of this subchapter for a fiscal year; or
+    - **(A)** does not participate in a program under subpart 1 of part A for a fiscal year; or
     - **(B)** submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
   - **(13)** The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
   - **(14)** The term “tribally sanctioned educational authority” means—
     - **(A)** any department or division of education operating within the administrative structure of the duly constituted governing body of an Indian tribe; and
     - **(B)** any nonprofit institution or organization that is—
       - **(i)** chartered by the governing body of an Indian tribe to operate a school described in section 6822(a) of this title or otherwise to oversee the delivery of educational services to members of the tribe; and
-      - **(ii)** approved by the Secretary for the purpose of carrying out programs under subpart 1 of part A of this subchapter for individuals served by a school described in section 6822(a) of this title .
+      - **(ii)** approved by the Secretary for the purpose of carrying out programs under subpart 1 of part A for individuals served by a school described in section 6822(a) of this title .

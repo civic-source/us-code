@@ -3,9 +3,9 @@ title: "Section 508 - Costs incurred in the modification of structures"
 usc_title: 43
 usc_section: "508"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 508"
-generated_at: "2026-03-30T05:37:11.812Z"
+generated_at: "2026-03-30T05:40:01.193Z"
 status: "active"
 ---
 

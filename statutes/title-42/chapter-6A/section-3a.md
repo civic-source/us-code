@@ -3,9 +3,9 @@ title: "Section 3a - Grants to public sector agencies"
 usc_title: 42
 usc_section: "3a"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T05:37:41.134Z"
+generated_at: "2026-03-30T05:40:25.797Z"
 status: "active"
 ---
 

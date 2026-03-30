@@ -1,15 +1,13 @@
 ---
-title: "Section 554 - Disposition of payment on death of Indian"
+title: "Section 554 - Omitted"
 usc_title: 25
 usc_section: "554"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 554"
-generated_at: "2026-03-30T05:35:40.076Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 554. Disposition of payment on death of Indian
-
-In the event of the death of any such Indian entitled to receive a payment in lieu of allotment after June 1, 1938 , any unexpended balance of said $1,500 still due the decedent shall first be applied to the repayment of any loans received by such Indian from the United States or from the Klamath Tribal funds, and the balance thereafter shall be distributed as personal property.
+# § 554. Omitted
 

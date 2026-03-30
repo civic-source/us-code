@@ -3,9 +3,9 @@ title: "Section 7194 - Requests for adjustments"
 usc_title: 42
 usc_section: "7194"
 chapter: 84
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 7194"
-generated_at: "2026-03-30T05:37:41.507Z"
+generated_at: "2026-03-30T05:40:26.193Z"
 status: "active"
 ---
 

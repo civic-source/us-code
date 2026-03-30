@@ -3,9 +3,9 @@ title: "Section 52 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , ef
 usc_title: 8
 usc_section: "52"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "8 U.S.C. § 52"
-generated_at: "2026-03-30T05:35:00.848Z"
+generated_at: "2026-03-30T05:38:09.207Z"
 status: "repealed"
 ---
 

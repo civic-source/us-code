@@ -3,9 +3,9 @@ title: "Section 6701 - Payments to local governments"
 usc_title: 31
 usc_section: "6701"
 chapter: 67
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "31 U.S.C. § 6701"
-generated_at: "2026-03-30T05:36:33.691Z"
+generated_at: "2026-03-30T05:39:51.848Z"
 status: "active"
 ---
 

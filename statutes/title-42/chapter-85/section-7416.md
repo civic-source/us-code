@@ -3,9 +3,9 @@ title: "Section 7416 - Retention of State authority"
 usc_title: 42
 usc_section: "7416"
 chapter: 85
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 7416"
-generated_at: "2026-03-30T05:37:41.520Z"
+generated_at: "2026-03-30T05:40:26.207Z"
 status: "active"
 ---
 

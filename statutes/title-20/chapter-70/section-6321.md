@@ -3,9 +3,9 @@ title: "Section 6321 - Fiscal requirements"
 usc_title: 20
 usc_section: "6321"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6321"
-generated_at: "2026-03-30T05:35:34.287Z"
+generated_at: "2026-03-30T05:39:05.792Z"
 status: "active"
 ---
 
@@ -41,4 +41,4 @@ status: "active"
   - **(5)** For the purpose of determining compliance with paragraph (1), a local educational agency may exclude State and local funds expended for—
     - **(A)** language instruction educational programs; and
     - **(B)** the excess costs of providing services to children with disabilities as determined by the local educational agency.
-- **(d)** For the purpose of complying with subsections (b) and (c) of this section, a State educational agency or local educational agency may exclude supplemental State or local funds expended in any school attendance area or school for programs that meet the intent and purposes of this part.
+- **(d)** For the purpose of complying with subsections (b) and (c), a State educational agency or local educational agency may exclude supplemental State or local funds expended in any school attendance area or school for programs that meet the intent and purposes of this part.

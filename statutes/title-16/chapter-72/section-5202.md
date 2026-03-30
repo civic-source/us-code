@@ -3,15 +3,15 @@ title: "Section 5202 - Civil penalties"
 usc_title: 16
 usc_section: "5202"
 chapter: 72
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 5202"
-generated_at: "2026-03-30T05:35:31.850Z"
+generated_at: "2026-03-30T05:38:48.599Z"
 status: "active"
 ---
 
 # § 5202. Civil penalties
 
-- **(a)** A person who violates section 5201 of this title shall be assessed a civil penalty in an amount computed under subsection (b) of this section.
+- **(a)** A person who violates section 5201 of this title shall be assessed a civil penalty in an amount computed under subsection (b).
 - **(b)** The penalty shall be—
   - **(1)** not more than $10,000, if the violation involved the use of force or violence, or the threatened use of force or violence, against the person or property of another person; and
   - **(2)** not more than $5,000 for any other violation.

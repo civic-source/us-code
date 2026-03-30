@@ -3,9 +3,9 @@ title: "Section 59jj - Designation of nonnavigability for portions of Gloucester
 usc_title: 33
 usc_section: "59jj"
 chapter: 1
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 59jj"
-generated_at: "2026-03-30T05:36:42.501Z"
+generated_at: "2026-03-30T05:39:52.637Z"
 status: "active"
 ---
 
@@ -69,9 +69,9 @@ status: "active"
         - **(III)** N. 77°53′00′′ E 189.58 feet to a point in the centerline of Church Street; thence
         - **(IV)** S. 11°28′50′′ W. 183.10 feet to the point of beginning.
 - **(b)**
-  - **(1)** The designation under subsection (a)(1) of this section shall apply to those parts of the areas described in subsection (a) of this section that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities.
+  - **(1)** The designation under subsection (a)(1) shall apply to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities.
   - **(2)** All activities described in paragraph (1) shall be subject to all applicable Federal law, including—
     - **(A)** the Act of March 3, 1899 ( 30 Stat. 1121 , chapter 425);
     - **(B)** section 1344 of this title ; and
     - **(C)** the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-- **(c)** If, on the date that is 20 years after November 12, 2001 , any area or portion of an area described in subsection (a)(3) 4 4 So in original. Probably should be “subsection (a)(2)”. of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
+- **(c)** If, on the date that is 20 years after November 12, 2001 , any area or portion of an area described in subsection (a)(3) 4 4 So in original. Probably should be “subsection (a)(2)”. is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b), or if work in connection with any activity authorized under subsection (b) is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) for that area or portion of an area shall terminate.

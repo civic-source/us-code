@@ -3,9 +3,9 @@ title: "Section 467g - Research"
 usc_title: 33
 usc_section: "467g"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 467g"
-generated_at: "2026-03-30T05:36:42.506Z"
+generated_at: "2026-03-30T05:39:52.642Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(2)** devices for the continued monitoring of the safety of dams;
   - **(3)** development and maintenance of information resources systems needed to support managing the safety of dams; and
   - **(4)** initiatives to guide the formulation of effective public policy and advance improvements in dam safety engineering, security, and management.
-- **(b)** The Administrator shall provide for State participation in research under subsection (a) of this section and periodically advise all States and Congress of the results of the research.
+- **(b)** The Administrator shall provide for State participation in research under subsection (a) and periodically advise all States and Congress of the results of the research.

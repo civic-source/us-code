@@ -3,9 +3,9 @@ title: "Section 2081 - United States participation in Inter-American Cultural an
 usc_title: 22
 usc_section: "2081"
 chapter: 29
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "22 U.S.C. § 2081"
-generated_at: "2026-03-30T05:35:53.467Z"
+generated_at: "2026-03-30T05:39:13.215Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3838c - Duties of the Secretary"
 usc_title: 16
 usc_section: "3838c"
 chapter: 58
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 3838c"
-generated_at: "2026-03-30T05:35:31.836Z"
+generated_at: "2026-03-30T05:38:48.587Z"
 status: "active"
 ---
 
@@ -51,10 +51,10 @@ status: "active"
   - **(3)** A payment to a producer under this subpart shall not be provided for—
     - **(A)** construction or maintenance of animal waste storage or treatment facilities or associated waste transport or transfer devices for animal feeding operations; or
     - **(B)** the purchase or maintenance of equipment or a non-land based structure that is not integral to a land-based practice, as determined by the Secretary.
-- **(c)** In determining a payment under subsection (b) of this section for a producer that receives a payment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III of this chapter (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
+- **(c)** In determining a payment under subsection (b) for a producer that receives a payment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
 - **(d)** The Secretary shall promulgate regulations that—
   - **(1)** provide for adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing payments, on a fair and equitable basis; and
-  - **(2)** prescribe such other rules as the Secretary determines to be necessary to ensure a fair and reasonable application of the limitations established under subsection (b) of this section.
+  - **(2)** prescribe such other rules as the Secretary determines to be necessary to ensure a fair and reasonable application of the limitations established under subsection (b).
 - **(e)**
   - **(1)** Except as provided in paragraph (2), the transfer, or change in the interest, of a producer in land subject to a conservation security contract shall result in the termination of the conservation security contract.
   - **(2)** Paragraph (1) shall not apply if, not later than 60 days after the date of the transfer or change in the interest in land, the transferee of the land provides written notice to the Secretary that all duties and rights under the conservation security contract have been transferred to, and assumed by, the transferee.

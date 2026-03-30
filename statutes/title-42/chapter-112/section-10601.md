@@ -3,9 +3,9 @@ title: "Section 10601 - Crime Victims Fund"
 usc_title: 42
 usc_section: "10601"
 chapter: 112
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 10601"
-generated_at: "2026-03-30T05:37:41.591Z"
+generated_at: "2026-03-30T05:40:26.283Z"
 status: "active"
 ---
 
@@ -59,4 +59,4 @@ status: "active"
     - **(A)** the handling of child abuse cases, particularly cases of child sexual abuse, in a manner which limits additional trauma to the child victim; and
     - **(B)** the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
   - **(2)** The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
-  - **(3)** As used in this subsection, the term “tribe” 2 2 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 1 of title 25.
+  - **(3)** As used in this subsection, the term “tribe” 2 2 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 5304(b) 1 of title 25.

@@ -3,9 +3,9 @@ title: "Section 1062 - Grants to institutions"
 usc_title: 20
 usc_section: "1062"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1062"
-generated_at: "2026-03-30T05:35:34.205Z"
+generated_at: "2026-03-30T05:39:05.706Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
 - **(b)**
   - **(1)** An institution may use not more than 20 percent of the grant funds provided under this part to establish or increase an endowment fund at the institution.
   - **(2)** In order to be eligible to use grant funds in accordance with paragraph (1), the eligible institution shall provide matching funds from non-Federal sources, in an amount equal to or greater than the Federal funds used in accordance with paragraph (1), for the establishment or increase of the endowment fund.
-  - **(3)** The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+  - **(3)** The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 - **(c)**
   - **(1)** No grant may be made under this chapter and part C of subchapter I of chapter 34 of title 42 for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term “school or department of divinity” means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
   - **(2)** Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.

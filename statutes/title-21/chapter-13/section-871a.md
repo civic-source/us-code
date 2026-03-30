@@ -3,9 +3,9 @@ title: "Section 871a - Semiannual reports to Congress"
 usc_title: 21
 usc_section: "871a"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 871a"
-generated_at: "2026-03-30T05:35:47.377Z"
+generated_at: "2026-03-30T05:39:23.202Z"
 status: "active"
 ---
 

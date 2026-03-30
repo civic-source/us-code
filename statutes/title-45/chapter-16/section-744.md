@@ -3,9 +3,9 @@ title: "Section 744 - Termination and continuation of rail services"
 usc_title: 45
 usc_section: "744"
 chapter: 16
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "45 U.S.C. § 744"
-generated_at: "2026-03-30T05:37:08.861Z"
+generated_at: "2026-03-30T05:40:03.220Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
   - **(2)** If a State (or a local or regional transportation authority) was providing financial assistance to support the operation of rail passenger service, pursuant to a lease or agreement which was in effect immediately prior to the date of conveyance (pursuant to such section 743(b)(1) of this title ), the Corporation (or a profitable railroad) shall be bound by the service provisions of such lease or agreement for the duration of the 180-day mandatory operation period specified in paragraph (1) of this subsection. If a State or such an authority was providing financial assistance for the continuation of rail passenger service on rail properties immediately prior to such date of conveyance, it shall provide the same level of financial assistance during such 180-day mandatory operation period. If no such financial assistance was being provided or if no such lease or agreement was in effect immediately prior to such date of conveyance, with respect to any such rail properties, the Corporation (or a profitable railroad) shall provide the same level of rail passenger service, for the duration of such 180-day mandatory operation period, that was provided prior to such date by the applicable railroad. If—
     - **(A)** such financial assistance is not provided;
     - **(B)** a State (or a local or regional transportation authority) has not, by the end of such 180-day mandatory operation period, offered a rail service continuation payment pursuant to subsection (c)(2)(A) of this section;
-    - **(C)** an applicable rail service continuation payment pursuant to such subsection (c)(2)(A) of this section is not paid when it is due; or
+    - **(C)** an applicable rail service continuation payment pursuant to such subsection (c)(2)(A) is not paid when it is due; or
     - **(D)** a payment required under a lease or agreement, pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section, is not paid when it is due,
   - **(3)** Nothing in this subsection shall be construed to affect the obligation of the Corporation (or a profitable railroad), or of the trustees of the railroads in reorganization in the region, to provide rail passenger service pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section.
   - **(4)** If a State (or a local or regional transportation authority)—

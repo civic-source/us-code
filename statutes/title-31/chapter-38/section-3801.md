@@ -3,9 +3,9 @@ title: "Section 3801 - Definitions"
 usc_title: 31
 usc_section: "3801"
 chapter: 38
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "31 U.S.C. § 3801"
-generated_at: "2026-03-30T05:36:33.683Z"
+generated_at: "2026-03-30T05:39:51.838Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** “authority” means—
     - **(A)** an executive department;
     - **(B)** a military department;
-    - **(C)** an establishment (as such term is defined in section 11(2) of the Inspector General Act of 1978) which is not an executive department;
+    - **(C)** an establishment (as such term is defined in section 11(2) 1 1 See References in Text note below. of the Inspector General Act of 1978) which is not an executive department;
     - **(D)** the United States Postal Service;
     - **(E)** the National Science Foundation; and
     - **(F)** a designated Federal entity (as such term is defined under section 8G(a)(2) of the Inspector General Act of 1978);

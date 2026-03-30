@@ -3,9 +3,9 @@ title: "Section 2804 - Assistance by other agencies"
 usc_title: 25
 usc_section: "2804"
 chapter: 30
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2804"
-generated_at: "2026-03-30T05:35:40.134Z"
+generated_at: "2026-03-30T05:39:27.409Z"
 status: "active"
 ---
 
@@ -35,4 +35,4 @@ status: "active"
   - **(2)** an eligible officer under subchapter III of chapter 81 of title 5.
 - **(g)** The Bureau may accept reimbursement, resources, assistance, or funding from—
   - **(1)** a Federal, tribal, State, or other government agency; or
-  - **(2)** the Indian Law Enforcement Foundation established under section 458ccc–1(a) 1 1 See References in Text note below. of this title.
+  - **(2)** the Indian Law Enforcement Foundation established under section 5412(a) 1 1 See References in Text note below. of this title.

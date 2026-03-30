@@ -1,15 +1,13 @@
 ---
-title: "Section 966 - Costs"
+title: "Section 966 - Omitted"
 usc_title: 25
 usc_section: "966"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 966"
-generated_at: "2026-03-30T05:35:40.091Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 966. Costs
-
-All costs incurred by the Secretary in the preparation of the roll and in the payment of the per capita shares in accordance with provisions of this subchapter shall be paid by appropriate withdrawals from the judgment fund.
+# § 966. Omitted
 

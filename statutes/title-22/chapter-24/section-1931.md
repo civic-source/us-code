@@ -3,9 +3,9 @@ title: "Section 1931 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1931"
 chapter: 24
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "22 U.S.C. § 1931"
-generated_at: "2026-03-30T05:35:53.465Z"
+generated_at: "2026-03-30T05:39:13.214Z"
 status: "repealed"
 ---
 

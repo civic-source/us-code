@@ -1,15 +1,13 @@
 ---
-title: "Section 963 - Per capita distributions to tribal members; attorneys’ fees and expenses; advances or expenditures from tribal funds; tax exemption"
+title: "Section 963 - Omitted"
 usc_title: 25
 usc_section: "963"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 963"
-generated_at: "2026-03-30T05:35:40.091Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 963. Per capita distributions to tribal members; attorneys’ fees and expenses; advances or expenditures from tribal funds; tax exemption
-
-Of the funds on deposit in the Treasury of the United States to the credit of the Omaha Tribe of Nebraska that were appropriated to pay a judgment by the Indian Claims Commission dated February 11, 1960 , and the interest thereon, after payment of attorneys’ fees and expenses, the Secretary of the Interior shall make a per capita distribution of a sum up to a maximum of $750, to the extent available, to each person whose name appears on the roll prepared pursuant to section 961 of this title ; and the balance of such funds after making payment of or provision for such per capita distribution and accrued and accruing interest, if any, may be advanced or expended for any purpose that is authorized by the tribal governing body and approved in writing by the Secretary. The funds so distributed shall not be subject to Federal or State income taxes.
+# § 963. Omitted
 

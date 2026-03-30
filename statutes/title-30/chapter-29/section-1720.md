@@ -3,9 +3,9 @@ title: "Section 1720 - Criminal penalties"
 usc_title: 30
 usc_section: "1720"
 chapter: 29
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "30 U.S.C. § 1720"
-generated_at: "2026-03-30T05:36:08.742Z"
+generated_at: "2026-03-30T05:39:39.680Z"
 status: "active"
 ---
 

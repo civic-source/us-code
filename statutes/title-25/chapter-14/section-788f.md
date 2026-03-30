@@ -1,15 +1,13 @@
 ---
-title: "Section 788f - Distribution of funds; tax exemption; equal shares"
+title: "Section 788f - Omitted"
 usc_title: 25
 usc_section: "788f"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 788f"
-generated_at: "2026-03-30T05:35:40.089Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 788f. Distribution of funds; tax exemption; equal shares
-
-All costs incident to carrying out the provisions of sections 788e to 788h of this title shall be paid by appropriate withdrawals from the judgment funds referred to in this section. After deducting attorney fees and all other costs, the remainder of the funds, including interest, to the credit of the Creek Nation appropriated by the Act of October 27, 1966 ( 80 Stat. 1057 ), shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with section 788e of this title . The funds so distributed shall not be subject to Federal or State income taxes.
+# § 788f. Omitted
 

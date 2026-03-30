@@ -3,9 +3,9 @@ title: "Section 11432 - Grants for State and local activities for the education 
 usc_title: 42
 usc_section: "11432"
 chapter: 119
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 11432"
-generated_at: "2026-03-30T05:37:41.602Z"
+generated_at: "2026-03-30T05:40:26.296Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(2)**
     - **(A)** The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
     - **(B)**
-      - **(i)** The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), that are consistent with the purposes of the programs described in this part.
+      - **(i)** The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. that are consistent with the purposes of the programs described in this part.
       - **(ii)** The Secretary and the Secretary of the Interior shall enter into an agreement, consistent with the requirements of this part, for the distribution and use of the funds described in clause (i) under terms that the Secretary determines best meet the purposes of the programs described in this part. Such agreement shall set forth the plans of the Secretary of the Interior for the use of the amounts transferred, including appropriate goals, objectives, and milestones.
   - **(3)** For purposes of this subsection, the term “State” does not include the United States Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 - **(d)** Grants under this section shall be used for the following:

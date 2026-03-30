@@ -3,9 +3,9 @@ title: "Section 1501 - Definitions"
 usc_title: 6
 usc_section: "1501"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "6 U.S.C. § 1501"
-generated_at: "2026-03-30T05:34:49.723Z"
+generated_at: "2026-03-30T05:38:06.709Z"
 status: "active"
 ---
 
@@ -62,4 +62,4 @@ In this subchapter:
     - **(C)** The term “private entity” does not include a foreign power as defined in section 1801 of title 50 .
   - **(16)** The term “security control” means the management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information.
   - **(17)** The term “security vulnerability” means any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of a security control.
-  - **(18)** The term “tribal” has the meaning given the term “Indian tribe” in section 450b of title 25 .
+  - **(18)** The term “tribal” has the meaning given the term “Indian tribe” in section 5304 of title 25 .

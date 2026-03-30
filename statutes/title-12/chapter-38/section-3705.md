@@ -3,9 +3,9 @@ title: "Section 3705 - Prerequisites to foreclosure"
 usc_title: 12
 usc_section: "3705"
 chapter: 38
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "12 U.S.C. § 3705"
-generated_at: "2026-03-30T05:35:12.332Z"
+generated_at: "2026-03-30T05:38:38.241Z"
 status: "active"
 ---
 

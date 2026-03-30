@@ -1,16 +1,13 @@
 ---
-title: "Section 1715 - Exemption from taxation"
+title: "Section 1715 - Omitted"
 usc_title: 25
 usc_section: "1715"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1715"
-generated_at: "2026-03-30T05:35:40.113Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.395Z"
+status: "omitted"
 ---
 
-# § 1715. Exemption from taxation
+# § 1715. Omitted
 
-- **(a)** Except as otherwise provided in subsections (b) and (c), the settlement lands received by the State Corporation shall not be subject to any form of Federal, State, or local taxation while held by the State Corporation.
-- **(b)** The exemption provided in subsection (a) shall not apply to any income-producing activities occurring on the settlement lands.
-- **(c)** Nothing in this subchapter shall prevent the making of payments in lieu of taxes by the State Corporation for services provided in connection with the settlement lands.

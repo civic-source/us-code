@@ -1,17 +1,13 @@
 ---
-title: "Section 762 - Federal restoration of supervision"
+title: "Section 762 - Omitted"
 usc_title: 25
 usc_section: "762"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 762"
-generated_at: "2026-03-30T05:35:40.088Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 762. Federal restoration of supervision
+# § 762. Omitted
 
-- **(a)** The Federal trust relationship is restored to the Shivwits, Kanosh, Koosharem, and Indian Peaks Bands of Paiute Indians of Utah and restored or confirmed with respect to the Cedar Band of Paiute Indians of Utah. The provisions of the Act of June 18, 1934 ( 48 Stat. 984 ), as amended [ 25 U.S.C. 461 et seq.], except as inconsistent with specific provisions of this subchapter, are made applicable to the tribe and the members of the tribe. The tribe and the members of the tribe shall be eligible for all Federal services and benefits furnished to federally recognized Indian tribes. Notwithstanding any provision to the contrary in any law establishing such services or benefits, eligibility of the tribe and its members for such Federal services and benefits shall become effective April 3, 1980 , without regard to the existence of a reservation for the tribe or the residence of members of the tribe on a reservation. For the purpose of providing for Federal services and benefits, the service area shall be Iron, Millard, Sevier, and Washington Counties, Utah, except that should lands in any other county be added to the reservation pursuant to section 766(c) of this title , the service area shall also include the area on or near the additions to the reservation.
-- **(b)** Except as provided in subsection (c), all rights and privileges of the tribe and of members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other authority, which were diminished or lost under the Act of September 1, 1954 ( 68 Stat. 1099 ) [ 25 U.S.C. 741 et seq.], are hereby restored, and such Act shall be inapplicable to the tribe and to members of the tribe after April 3, 1980 .
-- **(c)** This subchapter shall not grant or restore any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, to the tribe or any member of the tribe.
-- **(d)** Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligations, or any obligation for taxes already levied.

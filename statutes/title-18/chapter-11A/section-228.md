@@ -3,9 +3,9 @@ title: "Section 228 - Failure to pay legal child support obligations"
 usc_title: 18
 usc_section: "228"
 chapter: 11
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "18 U.S.C. § 228"
-generated_at: "2026-03-30T05:35:35.741Z"
+generated_at: "2026-03-30T05:39:07.808Z"
 status: "active"
 ---
 
@@ -25,6 +25,6 @@ status: "active"
   - **(2)** the district in which the obliger resided during a period described in paragraph (1); or
   - **(3)** any other district with jurisdiction otherwise provided for by law.
 - **(f)** As used in this section—
-  - **(1)** the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a );
+  - **(1)** the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a ); 1 1 See References in Text note below.
   - **(2)** the term “State” includes any State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
   - **(3)** the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.

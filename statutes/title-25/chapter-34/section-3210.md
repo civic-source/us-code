@@ -3,16 +3,16 @@ title: "Section 3210 - Indian Child Protection and Family Violence Prevention Pr
 usc_title: 25
 usc_section: "3210"
 chapter: 34
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3210"
-generated_at: "2026-03-30T05:35:40.138Z"
+generated_at: "2026-03-30T05:39:27.413Z"
 status: "active"
 ---
 
 # § 3210. Indian Child Protection and Family Violence Prevention Program
 
 - **(a)** The Secretary shall establish within the Bureau an Indian Child Protection and Family Violence Prevention Program to provide financial assistance to any Indian tribe, tribal organization, or inter-tribal consortium for the development of an Indian Child Protection and Family Violence Prevention program.
-- **(b)** The Secretary is authorized to enter into agreements with Indian tribes, tribal organizations, or inter-tribal consortia pursuant to the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] for the establishment of Indian Child Protection and Family Violence Prevention programs on Indian reservations.
+- **(b)** The Secretary is authorized to enter into agreements with Indian tribes, tribal organizations, or inter-tribal consortia pursuant to the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] for the establishment of Indian Child Protection and Family Violence Prevention programs on Indian reservations.
 - **(c)** An Indian tribe operating an Indian Child Protection and Family Violence Prevention program established under this section shall designate the agency or officials which shall be responsible—
   - **(1)** for the investigation of reported cases of child abuse and child neglect; and
   - **(2)** for the treatment and prevention of incidents of family violence; and

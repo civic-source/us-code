@@ -3,9 +3,9 @@ title: "Section 521g - Road rights-of-way subject to State or local law"
 usc_title: 16
 usc_section: "521g"
 chapter: 2
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 521g"
-generated_at: "2026-03-30T05:35:31.724Z"
+generated_at: "2026-03-30T05:38:48.478Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 220315 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "220315"
 chapter: 2203
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "36 U.S.C. § 220315"
-generated_at: "2026-03-30T05:37:07.014Z"
+generated_at: "2026-03-30T05:39:57.001Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30113 - Statements filed with State officers; “appropriate Sta
 usc_title: 52
 usc_section: "30113"
 chapter: 301
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "52 U.S.C. § 30113"
-generated_at: "2026-03-30T05:37:51.881Z"
+generated_at: "2026-03-30T05:40:38.532Z"
 status: "active"
 ---
 

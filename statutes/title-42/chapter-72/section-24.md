@@ -3,9 +3,9 @@ title: "Section 24 - Demonstration projects to provide services to youth in rura
 usc_title: 42
 usc_section: "24"
 chapter: 72
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T05:37:41.469Z"
+generated_at: "2026-03-30T05:40:26.152Z"
 status: "active"
 ---
 

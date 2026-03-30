@@ -3,9 +3,9 @@ title: "Section 3811 - Program ineligibility"
 usc_title: 16
 usc_section: "3811"
 chapter: 58
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 3811"
-generated_at: "2026-03-30T05:35:31.834Z"
+generated_at: "2026-03-30T05:38:48.583Z"
 status: "active"
 ---
 
@@ -22,8 +22,8 @@ status: "active"
       - **(ii)** not apply to the existing reinsurance year or any reinsurance year prior to the date of final determination;
   - **(2)** a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act ( 15 U.S.C. 714b or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
   - **(3)** during the crop year—
-    - **(A)** a payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV of this chapter;
-    - **(B)** a payment under any other provision of subchapter IV of this chapter;
+    - **(A)** a payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV;
+    - **(B)** a payment under any other provision of subchapter IV;
     - **(C)** a payment under section 2201 or 2202 of this title; or
     - **(D)** a payment, loan, or other assistance under section 1003 or 1006a of this title.
 - **(b)** The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.

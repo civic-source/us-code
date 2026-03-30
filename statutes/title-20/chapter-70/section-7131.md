@@ -3,9 +3,9 @@ title: "Section 7131 - Internet safety"
 usc_title: 20
 usc_section: "7131"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7131"
-generated_at: "2026-03-30T05:35:34.296Z"
+generated_at: "2026-03-30T05:39:05.801Z"
 status: "active"
 ---
 
@@ -24,16 +24,16 @@ status: "active"
       - **(ii)** child pornography; and
     - **(B)** is enforcing the operation of such technology protection measure during any use of such computers.
 - **(b)**
-  - **(1)** The local educational agency with responsibility for a school covered by subsection (a) of this section shall certify the compliance of such school with the requirements of subsection (a) of this section as part of the application process for the next program funding year under this chapter following December 21, 2000 , and for each subsequent program funding year thereafter.
+  - **(1)** The local educational agency with responsibility for a school covered by subsection (a) shall certify the compliance of such school with the requirements of subsection (a) as part of the application process for the next program funding year under this chapter following December 21, 2000 , and for each subsequent program funding year thereafter.
   - **(2)**
-    - **(A)** A local educational agency with responsibility for a school covered by subsection (a) of this section that has in place an Internet safety policy meeting the requirements of subsection (a) of this section shall certify its compliance with subsection (a) of this section during each annual program application cycle under this chapter.
+    - **(A)** A local educational agency with responsibility for a school covered by subsection (a) that has in place an Internet safety policy meeting the requirements of subsection (a) shall certify its compliance with subsection (a) during each annual program application cycle under this chapter.
     - **(B)**
-      - **(i)** A local educational agency with responsibility for a school covered by subsection (a) of this section that does not have in place an Internet safety policy meeting the requirements of subsection (a) of this section—
+      - **(i)** A local educational agency with responsibility for a school covered by subsection (a) that does not have in place an Internet safety policy meeting the requirements of subsection (a)—
         - **(I)** for the first program year after December 21, 2000 , in which the local educational agency is applying for funds for such school under this chapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
         - **(II)** for the second program year after December 21, 2000 , in which the local educational agency is applying for funds for such school under this chapter, shall certify that such school is in compliance with such requirements.
-      - **(ii)** Any school covered by subsection (a) of this section for which the local educational agency concerned is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this part for such second program year and all subsequent program years until such time as such school comes into compliance with such requirements.
-    - **(C)** Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000 , in which the school is applying for funds under this part.
-- **(c)** An administrator, supervisor, or person authorized by the responsible authority under subsection (a) of this section may disable the technology protection measure concerned to enable access for bona fide research or other lawful purposes.
+      - **(ii)** Any school covered by subsection (a) for which the local educational agency concerned is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this part for such second program year and all subsequent program years until such time as such school comes into compliance with such requirements.
+    - **(C)** Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) before the start of the third program year after December 21, 2000 , in which the school is applying for funds under this part.
+- **(c)** An administrator, supervisor, or person authorized by the responsible authority under subsection (a) may disable the technology protection measure concerned to enable access for bona fide research or other lawful purposes.
 - **(d)**
   - **(1)** Whenever the Secretary has reason to believe that any recipient of funds under this part is failing to comply substantially with the requirements of this section, the Secretary may—
     - **(A)** withhold further payments to the recipient under this part;

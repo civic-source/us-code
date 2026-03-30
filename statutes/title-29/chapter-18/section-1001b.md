@@ -3,9 +3,9 @@ title: "Section 1001b - Findings and declaration of policy"
 usc_title: 29
 usc_section: "1001b"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 1001b"
-generated_at: "2026-03-30T05:35:57.145Z"
+generated_at: "2026-03-30T05:39:32.203Z"
 status: "active"
 ---
 

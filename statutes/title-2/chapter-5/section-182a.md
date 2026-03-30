@@ -3,9 +3,9 @@ title: "Section 182a - Revolving fund for duplication services associated with a
 usc_title: 2
 usc_section: "182a"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "2 U.S.C. § 182a"
-generated_at: "2026-03-30T05:34:47.325Z"
+generated_at: "2026-03-30T05:38:03.100Z"
 status: "active"
 ---
 

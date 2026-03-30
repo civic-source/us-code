@@ -1,15 +1,13 @@
 ---
-title: "Section 1191 - Per capita distribution; trusts for minors and incompetents; payments to heirs or legatees"
+title: "Section 1191 - Omitted"
 usc_title: 25
 usc_section: "1191"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1191"
-generated_at: "2026-03-30T05:35:40.095Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1191. Per capita distribution; trusts for minors and incompetents; payments to heirs or legatees
-
-The entire unexpended balance of funds that were appropriated by the Act of May 13, 1966 ( 80 Stat. 141 ) to pay a judgment by the Indian Claims Commission entered in docket numbers 264, 264A, and 264B in favor of the Confederated Tribes of the Umatilla Indian Reservation, and the interest thereon, less litigation expenses, estimated costs of distribution, and $200,000 to be used as provided in section 1195 of this title , shall be distributed, per capita, in equal shares to all eligible members of the Confederated Tribes as defined in this subchapter under such terms and conditions as are authorized by the tribal governing body and approved by the Secretary of the Interior, including the establishment of trusts for minors and incompetents. Payments to heirs or legatees shall be made upon proof of death and inheritance satisfactory to the Secretary, whose findings shall be final and conclusive. Such per capita distribution shall be made in three installments of approximately equal amount, the first installment to be made as soon as possible after May 21, 1970 , and the next two installments to be made at six-month intervals.
+# § 1191. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 3791 - General provisions"
 usc_title: 42
 usc_section: "3791"
 chapter: 46
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 3791"
-generated_at: "2026-03-30T05:37:41.423Z"
+generated_at: "2026-03-30T05:40:26.102Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
   - **(25)** the term “residential substance abuse treatment program” means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
     - **(A)** directed at the substance abuse problems of the prisoner; and
     - **(B)** intended to develop the prisoner’s cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner’s substance abuse and related problems;
-  - **(26)** the term “Indian Tribe” has the meaning given the term “Indian tribe” in section 450b(e) of title 25 ;
+  - **(26)** the term “Indian Tribe” has the meaning given the term “Indian tribe” in section 5304(e) of title 25 ;
   - **(27)** the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof); and
   - **(28)** the term “hearing examiner” includes any medical or claims examiner.
 - **(b)** Where appropriate, the definitions in subsection (a) of this section shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) of this section in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.

@@ -1,15 +1,13 @@
 ---
-title: "Section 500k - Rules and regulations"
+title: "Section 500k - Omitted"
 usc_title: 25
 usc_section: "500k"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 500k"
-generated_at: "2026-03-30T05:35:40.075Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 500k. Rules and regulations
-
-The Secretary of the Interior is hereby authorized to promulgate such rules and regulations as, in his judgment, are necessary to carry into effect the provisions of this subchapter.
+# § 500k. Omitted
 

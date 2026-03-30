@@ -3,9 +3,9 @@ title: "Section 1397g - Demonstration projects to address health professions wor
 usc_title: 42
 usc_section: "1397g"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 1397g"
-generated_at: "2026-03-30T05:37:41.321Z"
+generated_at: "2026-03-30T05:40:25.992Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(B)**
       - **(i)** The term “eligible individual” means a 1 1 So in original. Probably should be “an”. individual receiving assistance under the State TANF program.
       - **(ii)** Such term may include other low-income individuals described by the eligible entity in its application for a grant under this section.
-    - **(C)** The terms “Indian tribe” and “tribal organization” have the meaning given such terms in section 450b of title 25 .
+    - **(C)** The terms “Indian tribe” and “tribal organization” have the meaning given such terms in section 5304 of title 25 .
     - **(D)** The term “institution of higher education” has the meaning given that term in section 1001 of title 20 .
     - **(E)** The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
     - **(F)** The term “State TANF program” means the temporary assistance for needy families program funded under part A of subchapter IV.

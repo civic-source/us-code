@@ -3,9 +3,9 @@ title: "Section 3841 - Commodity Credit Corporation"
 usc_title: 16
 usc_section: "3841"
 chapter: 58
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 3841"
-generated_at: "2026-03-30T05:35:31.838Z"
+generated_at: "2026-03-30T05:38:48.588Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
     - **(B)** the total number of requests completed in the previous fiscal year;
     - **(C)** the incomplete determinations on record; and
     - **(D)** the number of requests that are still outstanding more than 1 year since the date on which the requests were received from the producer.
-- **(d)** The use of Commodity Credit Corporation funds under subsection (c) of this section to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15 .
+- **(d)** The use of Commodity Credit Corporation funds under subsection (c) to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15 .
 - **(e)**
   - **(1)** When determining funding allocations each fiscal year, the Secretary shall, after considering available funding and program demand in each State, provide a distribution of funds for conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I), subchapter VII, and subchapter VIII to ensure equitable program participation proportional to historical funding allocations and usage by all States.
   - **(2)** In determining the specific funding allocations under paragraph (1), the Secretary shall—

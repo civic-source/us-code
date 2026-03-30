@@ -3,9 +3,9 @@ title: "Section 3221 - Native American programs"
 usc_title: 29
 usc_section: "3221"
 chapter: 32
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 3221"
-generated_at: "2026-03-30T05:35:57.188Z"
+generated_at: "2026-03-30T05:39:32.246Z"
 status: "active"
 ---
 
@@ -16,10 +16,10 @@ status: "active"
     - **(A)** to develop more fully the academic, occupational, and literacy skills of such individuals;
     - **(B)** to make such individuals more competitive in the workforce and to equip them with the entrepreneurial skills necessary for successful self-employment; and
     - **(C)** to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordance with the goals and values of such communities.
-  - **(2)** All programs assisted under this section shall be administered in a manner consistent with the principles of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) and the government-to-government relationship between the Federal Government and Indian tribal governments.
+  - **(2)** All programs assisted under this section shall be administered in a manner consistent with the principles of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. and the government-to-government relationship between the Federal Government and Indian tribal governments.
 - **(b)** As used in this section:
   - **(1)** The term “Alaska Native” includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 1602 of title 43 .
-  - **(2)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in subsections (d), (e), and ( l ), respectively, of section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ).
+  - **(2)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in subsections (d), (e), and ( l ), respectively, of section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ). 1
   - **(3)** The terms “Native Hawaiian” and “Native Hawaiian organization” have the meanings given such terms in section 7517 of title 20 .
 - **(c)** Every 4 years, the Secretary shall, on a competitive basis, make grants to, or enter into contracts or cooperative agreements with, Indian tribes, tribal organizations, Alaska Native entities, Indian-controlled organizations serving Indians, or Native Hawaiian organizations to carry out the authorized activities described in subsection (d).
 - **(d)**

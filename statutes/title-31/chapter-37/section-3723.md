@@ -3,9 +3,9 @@ title: "Section 3723 - Small claims for privately owned property damage or loss"
 usc_title: 31
 usc_section: "3723"
 chapter: 37
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "31 U.S.C. § 3723"
-generated_at: "2026-03-30T05:36:33.682Z"
+generated_at: "2026-03-30T05:39:51.837Z"
 status: "active"
 ---
 

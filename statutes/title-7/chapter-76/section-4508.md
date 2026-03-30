@@ -3,9 +3,9 @@ title: "Section 4508 - Cooperative association representation"
 usc_title: 7
 usc_section: "4508"
 chapter: 76
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 4508"
-generated_at: "2026-03-30T05:35:07.580Z"
+generated_at: "2026-03-30T05:38:14.961Z"
 status: "active"
 ---
 

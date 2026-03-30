@@ -1,15 +1,13 @@
 ---
-title: "Section 1053 - Taxes"
+title: "Section 1053 - Omitted"
 usc_title: 25
 usc_section: "1053"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1053"
-generated_at: "2026-03-30T05:35:40.093Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1053. Taxes
-
-The funds distributed in accordance with this subchapter shall not be subject to the Federal or State income tax.
+# § 1053. Omitted
 

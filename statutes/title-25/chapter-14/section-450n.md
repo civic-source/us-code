@@ -1,17 +1,13 @@
 ---
-title: "Section 450n - Sovereign immunity and trusteeship rights unaffected"
+title: "Section 450n - Transferred"
 usc_title: 25
 usc_section: "450n"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 450n"
-generated_at: "2026-03-30T05:35:40.070Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.380Z"
+status: "transferred"
 ---
 
-# § 450n. Sovereign immunity and trusteeship rights unaffected
+# § 450n. Transferred
 
-Nothing in this subchapter shall be construed as—
-
-  - **(1)** affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or
-  - **(2)** authorizing or requiring the termination of any existing trust responsibility of the United States with respect to the Indian people.

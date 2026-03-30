@@ -1,15 +1,13 @@
 ---
-title: "Section 649 - Rules and regulations"
+title: "Section 649 - Omitted"
 usc_title: 25
 usc_section: "649"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 649"
-generated_at: "2026-03-30T05:35:40.082Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 649. Rules and regulations
-
-The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
+# § 649. Omitted
 

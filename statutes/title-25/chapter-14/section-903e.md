@@ -1,15 +1,13 @@
 ---
-title: "Section 903e - Rules and regulations"
+title: "Section 903e - Omitted"
 usc_title: 25
 usc_section: "903e"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 903e"
-generated_at: "2026-03-30T05:35:40.090Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 903e. Rules and regulations
-
-The Secretary is hereby authorized to make such rules and regulations as are necessary to carry out the provisions of this subchapter.
+# § 903e. Omitted
 

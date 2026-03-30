@@ -3,9 +3,9 @@ title: "Section 4405 - Cross references"
 usc_title: 26
 usc_section: "4405"
 chapter: 35
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 4405"
-generated_at: "2026-03-30T05:36:26.170Z"
+generated_at: "2026-03-30T05:39:49.237Z"
 status: "active"
 ---
 

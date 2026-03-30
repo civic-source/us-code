@@ -3,9 +3,9 @@ title: "Section 882 - Injunctions"
 usc_title: 21
 usc_section: "882"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 882"
-generated_at: "2026-03-30T05:35:47.378Z"
+generated_at: "2026-03-30T05:39:23.203Z"
 status: "active"
 ---
 
@@ -28,5 +28,5 @@ status: "active"
   - **(5)** No private right of action is created under this subsection.
   - **(6)** No civil action may be brought under paragraph (1) against—
     - **(A)** the United States;
-    - **(B)** an Indian Tribe or tribal organization, to the extent such tribe or tribal organization is lawfully carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.]; or
+    - **(B)** an Indian Tribe or tribal organization, to the extent such tribe or tribal organization is lawfully carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.]; or
     - **(C)** any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.

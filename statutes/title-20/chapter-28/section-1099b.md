@@ -3,9 +3,9 @@ title: "Section 1099b - Recognition of accrediting agency or association"
 usc_title: 20
 usc_section: "1099b"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1099b"
-generated_at: "2026-03-30T05:35:34.238Z"
+generated_at: "2026-03-30T05:39:05.741Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(G)** that any determination by the agency or association made with respect to the new financial information described in subparagraph (E) shall not be separately appealable by the institution or program;
   - **(7)** such agency or association shall notify the Secretary and the appropriate State licensing or authorizing agency within 30 days of the accreditation of an institution or any final denial, withdrawal, suspension, or termination of accreditation or placement on probation of an institution, together with any other adverse action taken with respect to an institution; and
   - **(8)** such agency or association shall make available to the public, upon request, and to the Secretary, and the State licensing or authorizing agency a summary of any review resulting in a final accrediting decision involving denial, termination, or suspension of accreditation, together with the comments of the affected institution.
-- **(b)** For the purpose of subsection (a)(3) of this section, the term “separate and independent” means that—
+- **(b)** For the purpose of subsection (a)(3), the term “separate and independent” means that—
   - **(1)** the members of the postsecondary education governing body of the accrediting agency or association are not elected or selected by the board or chief executive officer of any related, associated, or affiliated trade association or membership organization;
   - **(2)** among the membership of the board of the accrediting agency or association there shall be one public member (who is not a member of any related trade or membership organization) for each six members of the board, with a minimum of one such public member, and guidelines are established for such members to avoid conflicts of interest;
   - **(3)** dues to the accrediting agency or association are paid separately from any dues paid to any related, associated, or affiliated trade association or membership organization; and
@@ -90,7 +90,7 @@ status: "active"
   - **(1)** is not currently accredited by any agency or association recognized by the Secretary;
   - **(2)** has had its accreditation withdrawn, revoked, or otherwise terminated for cause during the preceding 24 months, unless such withdrawal, revocation, or termination has been rescinded by the same accrediting agency; or
   - **(3)** has withdrawn from accreditation voluntarily under a show cause or suspension order during the preceding 24 months, unless such order has been rescinded by the same accrediting agency.
-- **(k)** Notwithstanding subsection (j) of this section, the Secretary shall allow an institution that has had its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher education under section 1002 of this title and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines that the reason for the withdrawal, revocation, or termination—
+- **(k)** Notwithstanding subsection (j), the Secretary shall allow an institution that has had its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher education under section 1002 of this title and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines that the reason for the withdrawal, revocation, or termination—
   - **(1)** is related to the religious mission or affiliation of the institution; and
   - **(2)** is not related to the accreditation criteria provided for in this section.
 - **(l)**

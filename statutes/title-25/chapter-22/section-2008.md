@@ -3,9 +3,9 @@ title: "Section 2008 - Administrative cost grants"
 usc_title: 25
 usc_section: "2008"
 chapter: 22
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2008"
-generated_at: "2026-03-30T05:35:40.124Z"
+generated_at: "2026-03-30T05:39:27.399Z"
 status: "active"
 ---
 
@@ -70,9 +70,9 @@ status: "active"
   - **(2)** Indirect cost funds for programs at the school which share common administrative services with tribal elementary or secondary educational programs may be included in the administrative cost account described in paragraph (1).
 - **(f)** Funds received as grants under this section with respect to tribal elementary or secondary education programs shall remain available to the contract or grant school without fiscal year limitation and without diminishing the amount of any grants otherwise payable to the school under this section for any fiscal year beginning after the fiscal year for which the grant is provided.
 - **(g)** Funds received as grants under this section for Bureau-funded programs operated by a tribe or tribal organization under a contract or agreement shall not be taken into consideration for purposes of indirect cost underrecovery and overrecovery determinations by any Federal agency for any other funds, from whatever source derived.
-- **(h)** In applying this section and section 106 of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450j–1 ] with respect to an Indian tribe or tribal organization that—
+- **(h)** In applying this section and section 106 of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5325 ] with respect to an Indian tribe or tribal organization that—
   - **(1)** receives funds under this section for administrative costs incurred in operating a contract or grant school or a school operated under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.]; and
-  - **(2)** operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.],
+  - **(2)** operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.],
 - **(i)**
   - **(1)** Not later than 120 days after January 8, 2002 , the Director of the Office of Indian Education Programs shall—
     - **(A)** conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c); and

@@ -3,9 +3,9 @@ title: "Section 653 - Federal Parent Locator Service"
 usc_title: 42
 usc_section: "653"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 653"
-generated_at: "2026-03-30T05:37:41.191Z"
+generated_at: "2026-03-30T05:40:25.857Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(ii)** if the court determines that disclosure of such information to any other person could be harmful, the court and its agents shall not make any such disclosure.
   - **(3)** Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title .
 - **(c)** As used in subsection (a) of this section, the term “authorized person” means—
-  - **(1)** any agent or attorney of any State or Indian tribe or tribal organization (as defined in subsections (e) and ( l ) of section 450b of title 25 ), having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
+  - **(1)** any agent or attorney of any State or Indian tribe or tribal organization (as defined in subsections (e) and ( l ) of section 5304 of title 25 ), having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
   - **(2)** the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
   - **(3)** the resident parent, legal guardian, attorney, or agent of a child (other than a child receiving assistance under a State program funded under part A of this subchapter) (as determined by regulations prescribed by the Secretary) without regard to the existence of a court order against a noncustodial parent who has a duty to support and maintain any such child;
   - **(4)** a State agency that is administering a program operated under a State plan under subpart 1 of part B of this subchapter, or a State plan approved under subpart 2 of part B of this subchapter or under part E of this subchapter; and

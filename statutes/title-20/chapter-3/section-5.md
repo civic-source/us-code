@@ -3,9 +3,9 @@ title: "Section 5 - Educational and liaison programs"
 usc_title: 20
 usc_section: "5"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-30T05:35:34.190Z"
+generated_at: "2026-03-30T05:39:05.687Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** carry out educational programs relating to African American life, art, history, and culture, including—
       - **(i)** programs using digital, electronic, and interactive technologies; and
       - **(ii)** programs carried out in collaboration with elementary schools, secondary schools, and postsecondary schools; and
-    - **(B)** consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b) of this section.
+    - **(B)** consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b).
 - **(b)**
   - **(1)** In consultation with the Council and the Director of the Museum, the Director of the Institute of Museum and Library Services shall establish—
     - **(A)** a grant program with the purpose of improving operations, care of collections, and development of professional management at African American museums;

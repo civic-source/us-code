@@ -3,9 +3,9 @@ title: "Section 379j - Authority to assess and use device fees"
 usc_title: 21
 usc_section: "379j"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 379j"
-generated_at: "2026-03-30T05:35:47.354Z"
+generated_at: "2026-03-30T05:39:23.179Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
       - **(vi)** The Secretary shall have sole discretion to refund a fee or portion of the fee under clause (iii) or (v). A determination by the Secretary concerning a refund under clause (iii) or (v) shall not be reviewable.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B) and subsection (f), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under section 360 of this title beginning with its registration for fiscal year 2008.
-    - **(B)** No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act 1 1 See References in Text note below. [ 25 U.S.C. 450 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
+    - **(B)** No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act 1 1 See References in Text note below. [ 25 U.S.C. 5301 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
     - **(C)** The fee required under subparagraph (A) shall be due once each fiscal year, upon the later of—
       - **(i)** the initial or annual registration (as applicable) of the establishment under section 360 of this title ; or
       - **(ii)** the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.

@@ -1,15 +1,13 @@
 ---
-title: "Section 1776j - Satisfaction of claims"
+title: "Section 1776j - Omitted"
 usc_title: 25
 usc_section: "1776j"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1776j"
-generated_at: "2026-03-30T05:35:40.118Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1776j. Satisfaction of claims
-
-The benefits available to the Crow Tribe under the terms and conditions of this subchapter and the Settlement Agreement shall constitute full and complete satisfaction of all claims by the Crow Tribe and the members of the Crow Tribe arising from or related to the erroneous survey of the 107th meridian described in section 1776(a)(3) of this title .
+# § 1776j. Omitted
 

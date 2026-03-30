@@ -3,9 +3,9 @@ title: "Section 13724 - Conversion of closed military installations into Federal
 usc_title: 42
 usc_section: "13724"
 chapter: 136
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 13724"
-generated_at: "2026-03-30T05:37:41.643Z"
+generated_at: "2026-03-30T05:40:26.339Z"
 status: "active"
 ---
 

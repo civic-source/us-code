@@ -3,9 +3,9 @@ title: "Section 3 - General exemptive authority"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T05:35:25.043Z"
+generated_at: "2026-03-30T05:38:36.332Z"
 status: "active"
 ---
 

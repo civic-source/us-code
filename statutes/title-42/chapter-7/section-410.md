@@ -3,9 +3,9 @@ title: "Section 410 - Definitions relating to employment"
 usc_title: 42
 usc_section: "410"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 410"
-generated_at: "2026-03-30T05:37:41.175Z"
+generated_at: "2026-03-30T05:40:25.840Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ For the purposes of this subchapter—
         - **(II)** if an individual performing service described in subparagraph (A) returns to the performance of such service after being detailed or transferred to an international organization as described under section 3343 of subchapter III of chapter 33 of title 5 or under section 3581 of chapter 35 of such title, then the service performed for that organization shall be considered service described in subparagraph (A),
         - **(III)** if an individual performing service described in subparagraph (A) is reemployed or reinstated after being separated from such service for the purpose of accepting employment with the American Institute of Taiwan as provided under section 3310 of title 22 , then the service performed for that Institute shall be considered service described in subparagraph (A),
         - **(IV)** if an individual performing service described in subparagraph (A) returns to the performance of such service after performing service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
-        - **(V)** if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 450i(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
+        - **(V)** if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 5323(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
       - **(ii)** is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services);
     - **(C)** service performed as the President or Vice President of the United States,
     - **(D)** service performed—

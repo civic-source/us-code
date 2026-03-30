@@ -3,9 +3,9 @@ title: "Section 3803 - Dam Safety Maintenance and Repair Program"
 usc_title: 25
 usc_section: "3803"
 chapter: 40
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3803"
-generated_at: "2026-03-30T05:35:40.142Z"
+generated_at: "2026-03-30T05:39:27.416Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(C)** No lives would be at risk and limited property damage would occur if the dam failed.
 - **(f)** Work authorized by this chapter shall be for the purpose of dam safety maintenance and structural repair. The Secretary may authorize, upon request of an Indian tribe, up to 20 percent of the cost of repairs to be used to provide additional conservation storage capacity or developing benefits beyond those provided by the original dams and reservoirs. This chapter is not intended to preclude development of increased storage or benefits under any other authority or to preclude measures to protect fish and wildlife.
 - **(g)** To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) shall be under the direction and control of the Bureau.
-- **(h)** In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
+- **(h)** In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
 - **(i)** The Secretary shall submit an annual report on the implementation of this chapter. The report shall include—
   - **(1)** the list of dams and their status on the maintenance action plan developed under this section; and
   - **(2)** the projected total cost and a schedule of the projected annual cost of rehabilitation or repair for each dam under this section.

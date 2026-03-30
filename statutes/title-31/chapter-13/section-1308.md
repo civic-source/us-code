@@ -3,9 +3,9 @@ title: "Section 1308 - Telephone and metered services"
 usc_title: 31
 usc_section: "1308"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "31 U.S.C. § 1308"
-generated_at: "2026-03-30T05:36:33.673Z"
+generated_at: "2026-03-30T05:39:51.828Z"
 status: "active"
 ---
 

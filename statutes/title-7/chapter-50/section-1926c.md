@@ -3,9 +3,9 @@ title: "Section 1926c - Water and waste facility loans and grants to alleviate h
 usc_title: 7
 usc_section: "1926c"
 chapter: 50
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 1926c"
-generated_at: "2026-03-30T05:35:07.538Z"
+generated_at: "2026-03-30T05:38:14.917Z"
 status: "active"
 ---
 
@@ -33,6 +33,6 @@ status: "active"
   - **(1)** Subject to paragraph (2), there are authorized to be appropriated—
     - **(A)** for grants under this section, $30,000,000 for each fiscal year;
     - **(B)** for loans under this section, $30,000,000 for each fiscal year; and
-    - **(C)** in addition to grants provided under subparagraph (A), for grants under this section to benefit Indian tribes (as defined in section 450b of title 25 ), $20,000,000 for each fiscal year.
+    - **(C)** in addition to grants provided under subparagraph (A), for grants under this section to benefit Indian tribes (as defined in section 5304 of title 25 ), $20,000,000 for each fiscal year.
   - **(2)** An entity eligible to receive funding through a grant made under section 1926d of this title shall not be eligible for a grant from funds made available under paragraph (1)(C).
 - **(f)** Not later than 30 days after October 28, 1992 , the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.

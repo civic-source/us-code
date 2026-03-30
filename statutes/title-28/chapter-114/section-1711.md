@@ -3,9 +3,9 @@ title: "Section 1711 - Definitions"
 usc_title: 28
 usc_section: "1711"
 chapter: 114
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "28 U.S.C. § 1711"
-generated_at: "2026-03-30T05:36:01.998Z"
+generated_at: "2026-03-30T05:39:37.959Z"
 status: "active"
 ---
 

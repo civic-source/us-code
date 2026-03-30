@@ -1,15 +1,13 @@
 ---
-title: "Section 29 - Restrictions on lobbying; exception"
+title: "Section 29 - Omitted"
 usc_title: 25
 usc_section: "29"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 29"
-generated_at: "2026-03-30T05:35:40.081Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 640d–29. Restrictions on lobbying; exception
+# § 640d–29. Omitted
 
-- **(a)** Except as provided in subsection (b), no person or entity who has entered into a contract with the Commissioner to provide services under this subchapter may engage in activities designed to influence Federal legislation on any issue relating to the relocation required under this subchapter.
-- **(b)** Subsection (a) shall not apply to the Navajo Tribe or the Hopi Tribe, except that such tribes shall not spend any funds received from the Office in any activities designed to influence Federal legislation.

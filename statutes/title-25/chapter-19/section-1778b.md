@@ -1,15 +1,13 @@
 ---
-title: "Section 1778b - Ratification of Settlement Agreement"
+title: "Section 1778b - Omitted"
 usc_title: 25
 usc_section: "1778b"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1778b"
-generated_at: "2026-03-30T05:35:40.118Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1778b. Ratification of Settlement Agreement
-
-The United States hereby approves, ratifies, and confirms the Settlement Agreement.
+# § 1778b. Omitted
 

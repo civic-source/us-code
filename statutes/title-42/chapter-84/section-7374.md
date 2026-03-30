@@ -3,9 +3,9 @@ title: "Section 7374 - Energy self-sufficiency initiatives"
 usc_title: 42
 usc_section: "7374"
 chapter: 84
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 7374"
-generated_at: "2026-03-30T05:37:41.510Z"
+generated_at: "2026-03-30T05:40:26.197Z"
 status: "active"
 ---
 

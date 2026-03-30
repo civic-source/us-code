@@ -1,15 +1,13 @@
 ---
-title: "Section 881a - Trusts and other procedures for protection of minors and persons under legal disability"
+title: "Section 881a - Omitted"
 usc_title: 25
 usc_section: "881a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 881a"
-generated_at: "2026-03-30T05:35:40.089Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 881a. Trusts and other procedures for protection of minors and persons under legal disability
-
-Sums payable to enrollees or their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary of the Interior determines appropriate to protect the best interests of such persons.
+# § 881a. Omitted
 

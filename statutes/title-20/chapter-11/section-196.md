@@ -3,9 +3,9 @@ title: "Section 196 - Concessions, fees, and voluntary services"
 usc_title: 20
 usc_section: "196"
 chapter: 11
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 196"
-generated_at: "2026-03-30T05:35:34.192Z"
+generated_at: "2026-03-30T05:39:05.689Z"
 status: "active"
 ---
 
@@ -21,6 +21,6 @@ status: "active"
   - **(5)** charge such fees as the Secretary of Agriculture considers reasonable for the use of the National Arboretum for commercial photography or cinematography;
   - **(6)** publish, in print and electronically and without regard to laws relating to printing by the Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
   - **(7)** license use of the National Arboretum name and logo for public service or commercial uses.
-- **(b)** Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) of this section shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
-- **(c)** The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
+- **(b)** Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
+- **(c)** The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1), and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 - **(d)** A nonprofit organization that entered into a concession or agreement under subsection (a)(1) may recognize donors if that recognition is approved in advance by the Secretary of Agriculture. In considering whether to approve such recognition, the Secretary shall broadly exercise the discretion of the Secretary to the fullest extent allowed under Federal law.

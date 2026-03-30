@@ -3,9 +3,9 @@ title: "Section 1232 - Enforcement provisions"
 usc_title: 33
 usc_section: "1232"
 chapter: 25
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1232"
-generated_at: "2026-03-30T05:36:42.526Z"
+generated_at: "2026-03-30T05:39:52.662Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(b)**
   - **(1)** Any person who willfully and knowingly violates this chapter or any regulation issued hereunder commits a class D felony.
   - **(2)** Any person who, in the willfull 1 1 So in original. Probably should be “willful”. and knowing violation of this chapter or of any regulation issued hereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of this chapter or the regulations issued hereunder, commits a class C felony.
-- **(c)** Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+- **(c)** Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 - **(d)** The United States district courts shall have jurisdiction to restrain violations of this chapter or of regulations issued hereunder, for cause shown.
 - **(e)** Except as provided in section 1228 of this title , the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
 - **(f)**

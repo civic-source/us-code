@@ -3,9 +3,9 @@ title: "Section 321a - “Butter” defined"
 usc_title: 21
 usc_section: "321a"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 321a"
-generated_at: "2026-03-30T05:35:47.322Z"
+generated_at: "2026-03-30T05:39:23.145Z"
 status: "active"
 ---
 

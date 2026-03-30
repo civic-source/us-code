@@ -3,9 +3,9 @@ title: "Section 1621a - Catastrophic Health Emergency Fund"
 usc_title: 25
 usc_section: "1621a"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1621a"
-generated_at: "2026-03-30T05:35:40.104Z"
+generated_at: "2026-03-30T05:39:27.388Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** the amounts deposited under subsection (f); and
   - **(2)** the amounts appropriated to CHEF under this section.
 - **(b)** CHEF shall be administered by the Secretary, acting through the headquarters of the Service, solely for the purpose of meeting the extraordinary medical costs associated with the treatment of victims of disasters or catastrophic illnesses who are within the responsibility of the Service.
-- **(c)** No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
+- **(c)** No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
 - **(d)** The Secretary shall promulgate regulations consistent with the provisions of this section to—
   - **(1)** establish a definition of disasters and catastrophic illnesses for which the cost of the treatment provided under contract would qualify for payment from CHEF;
   - **(2)** provide that a Service Unit shall not be eligible for reimbursement for the cost of treatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—

@@ -1,16 +1,13 @@
 ---
-title: "Section 1707 - Purchase and transfer of private settlement lands"
+title: "Section 1707 - Omitted"
 usc_title: 25
 usc_section: "1707"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1707"
-generated_at: "2026-03-30T05:35:40.113Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.395Z"
+status: "omitted"
 ---
 
-# § 1707. Purchase and transfer of private settlement lands
+# § 1707. Omitted
 
-- **(a)** When the Secretary determines that the State Corporation described in section 1706(a) of this title has been created and will accept the settlement lands, the Secretary shall exercise within sixty days the options entered into pursuant to section 1704 of this title and assign the private settlement lands thereby purchased to the State Corporation.
-- **(b)** Any moneys remaining in the fund established by section 1703 of this title after the purchase described in subsection (a) shall be returned to the general Treasury of the United States.
-- **(c)** Upon the discharge of the Secretary’s duties under sections 1704, 1705, 1706, and 1707 of this title, the United States shall have no further duties or liabilities under this subchapter with respect to the Indian Corporation or its successor, the State Corporation, or the settlement lands: Provided, however , That if the Secretary subsequently acknowledges the existence of the Narragansett Tribe of Indians, then the settlement lands may not be sold, granted, or otherwise conveyed or leased to anyone other than the Indian Corporation, and no such disposition of the settlement lands shall be of any validity in law or equity, unless the same is approved by the Secretary pursuant to regulations adopted by him for that purpose: Provided, however , That nothing in this subchapter shall affect or otherwise impair the ability of the State Corporation to grant or otherwise convey (including any involuntary conveyance by means of eminent domain or condemnation proceedings) any easement for public or private purposes pursuant to the laws of the State of Rhode Island.

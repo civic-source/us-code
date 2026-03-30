@@ -1,15 +1,13 @@
 ---
-title: "Section 459e - Tax exemption for conveyed lands and gross receipts; distribution of gross receipts to tribal members"
+title: "Section 459e - Transferred"
 usc_title: 25
 usc_section: "459e"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 459e"
-generated_at: "2026-03-30T05:35:40.073Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.380Z"
+status: "transferred"
 ---
 
-# § 459e. Tax exemption for conveyed lands and gross receipts; distribution of gross receipts to tribal members
-
-All property conveyed to tribes pursuant to this subchapter and all the receipts therefrom referred to in section 459d of this title , shall be exempt from Federal, State, and local taxation so long as such property is held in trust by the United States. Any distribution of such receipts to tribal members shall neither be considered as income or resources of such members for purposes of any such taxation nor as income, resources, or otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such member or his household would otherwise be entitled to under the Social Security Act [ 42 U.S.C. 301 et seq.] or any other Federal or federally assisted program.
+# § 459e. Transferred
 

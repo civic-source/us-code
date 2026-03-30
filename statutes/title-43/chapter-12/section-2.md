@@ -1,15 +1,13 @@
 ---
-title: "Section 2 - Amendments to existing contracts"
+title: "Section 2 - Omitted"
 usc_title: 43
 usc_section: "2"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T05:37:11.812Z"
-status: "active"
+generated_at: "2026-03-30T05:40:01.195Z"
+status: "omitted"
 ---
 
-# § 485h–2. Amendments to existing contracts
-
-The Secretary is authorized to negotiate amendments to existing contracts entered into pursuant to subsection (e) of section 485h of this title to conform said contracts to the provisions of sections 485h–1 to 485h–5 of this title.
+# §§ 616aaaa to 616ffff–2. Omitted
 

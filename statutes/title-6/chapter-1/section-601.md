@@ -3,9 +3,9 @@ title: "Section 601 - Definitions"
 usc_title: 6
 usc_section: "601"
 chapter: 1
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "6 U.S.C. § 601"
-generated_at: "2026-03-30T05:34:49.711Z"
+generated_at: "2026-03-30T05:38:06.697Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ In this subchapter, the following definitions shall apply:
     - **(B)** a consortium of Indian tribes, if each tribe satisfies the requirements of subparagraph (A).
   - **(5)** The term “eligible metropolitan area” means any of the 100 most populous metropolitan statistical areas in the United States.
   - **(6)** The term “high-risk urban area” means a high-risk urban area designated under section 604(b)(3)(A) of this title .
-  - **(7)** The term “Indian tribe” has the meaning given that term in section 450b(e) of title 25 .
+  - **(7)** The term “Indian tribe” has the meaning given that term in section 5304(e) of title 25 .
   - **(8)** The term “metropolitan statistical area” means a metropolitan statistical area, as defined by the Office of Management and Budget.
   - **(9)** The term “National Special Security Event” means a designated event that, by virtue of its political, economic, social, or religious significance, may be the target of terrorism or other criminal activity.
   - **(10)** The term “population” means population according to the most recent United States census population estimates available at the start of the relevant fiscal year.

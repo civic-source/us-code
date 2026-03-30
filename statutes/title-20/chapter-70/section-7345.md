@@ -3,9 +3,9 @@ title: "Section 7345 - Use of applicable funding"
 usc_title: 20
 usc_section: "7345"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7345"
-generated_at: "2026-03-30T05:35:34.300Z"
+generated_at: "2026-03-30T05:39:05.806Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(D)** Part A or B of subchapter IV.
   - **(2)** An eligible local educational agency shall notify the State educational agency of the local educational agency’s intention to use the applicable funding in accordance with paragraph (1), by a date that is established by the State educational agency for the notification.
 - **(b)**
-  - **(1)** A local educational agency shall be eligible to use the applicable funding in accordance with subsection (a) of this section if—
+  - **(1)** A local educational agency shall be eligible to use the applicable funding in accordance with subsection (a) if—
     - **(A)**
       - **(i)**
         - **(I)** the total number of students in average daily attendance at all of the schools served by the local educational agency is fewer than 600; or
@@ -32,4 +32,4 @@ status: "active"
   - **(1)** Part A of subchapter II.
   - **(2)** Part A of subchapter IV.
 - **(d)** Each State educational agency that receives applicable funding for a fiscal year shall disburse the applicable funding to local educational agencies for alternative uses under this section for the fiscal year at the same time as the State educational agency disburses the applicable funding to local educational agencies that do not intend to use the applicable funding for such alternative uses for the fiscal year.
-- **(e)** Applicable funding under this section shall be available to carry out local activities authorized under subsection (a) of this section.
+- **(e)** Applicable funding under this section shall be available to carry out local activities authorized under subsection (a).

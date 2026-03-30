@@ -3,9 +3,9 @@ title: "Section 2124c - Rural Tourism Development Foundation"
 usc_title: 22
 usc_section: "2124c"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "22 U.S.C. § 2124c"
-generated_at: "2026-03-30T05:35:53.468Z"
+generated_at: "2026-03-30T05:39:13.216Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
 - **(d)** No compensation shall be paid to the members of the Board for their services as members, but they may be reimbursed for actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties as such members out of Foundation funds available to the Board for such purposes.
 - **(e)**
   - **(1)** The Foundation is authorized to accept, receive, solicit, hold, administer, and use any gifts, devises, or bequests, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein for the benefit of or in connection with rural tourism, except that the Foundation may not accept any such gift, devise, or bequest which entails any expenditure other than from the resources of the Foundation. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of rural tourism.
-  - **(2)** A gift, devise, or bequest accepted by the Foundation for the benefit of or in connection with rural tourism on Indian reservations, pursuant to section 451 of title 25 , shall be maintained in a separate accounting for the benefit of Indian tribes in the development of tourism on Indian reservations.
+  - **(2)** A gift, devise, or bequest accepted by the Foundation for the benefit of or in connection with rural tourism on Indian reservations, pursuant to section 5341 of title 25 , shall be maintained in a separate accounting for the benefit of Indian tribes in the development of tourism on Indian reservations.
 - **(f)** Except as otherwise required by the instrument of transfer, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property or income thereof as the Board may from time to time determine. The Foundation shall not engage in any business, nor shall the Foundation make any investment that may not lawfully be made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer and may retain any property accepted by the Foundation.
 - **(g)** The Foundation shall have perpetual succession, with all the usual powers and obligations of a corporation acting as a trustee, including the power to sue and to be sued in its own name, but the members of the Board shall not be personally liable, except for malfeasance.
 - **(h)** The Foundation shall have the power to enter into contracts, to execute instruments, and generally to do any and all lawful acts necessary or appropriate to its purposes.
@@ -48,6 +48,6 @@ status: "active"
 - **(l)** The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives an annual report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments.
 - **(m)** As used in this section—
   - **(1)** the term “Indian reservation” has the meaning given the term “reservation” in section 1452(d) of title 25 ;
-  - **(2)** the term “Indian tribe” has the meaning given that term in section 450b(e) of title 25 ;
+  - **(2)** the term “Indian tribe” has the meaning given that term in section 5304(e) of title 25 ;
   - **(3)** the term “local government” has the meaning given that term in section 3371(2) of title 5 ; and
   - **(4)** the term “rural tourism” has the meaning given that term by the Secretary of Commerce and shall include activities related to travel and tourism that occur on Federal recreational sites, on Indian reservations, and in the territories, possessions, and commonwealths of the United States.

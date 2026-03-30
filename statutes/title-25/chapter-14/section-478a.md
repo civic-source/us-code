@@ -1,15 +1,13 @@
 ---
-title: "Section 478a - Procedure"
+title: "Section 478a - Transferred"
 usc_title: 25
 usc_section: "478a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 478a"
-generated_at: "2026-03-30T05:35:40.074Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.380Z"
+status: "transferred"
 ---
 
-# § 478a. Procedure
-
-In any election heretofore or hereafter held under the Act of June 18, 1934 ( 48 Stat. 984 ) [ 25 U.S.C. 461 et seq.], on the question of excluding a reservation from the application of the said Act or on the question of adopting a constitution and bylaws or amendments thereto or on the question of ratifying a charter, the vote of a majority of those actually voting shall be necessary and sufficient to effectuate such exclusion, adoption, or ratification, as the case may be: Provided, however , That in each instance the total vote cast shall not be less than 30 per centum of those entitled to vote.
+# § 478a. Transferred
 

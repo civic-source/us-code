@@ -3,9 +3,9 @@ title: "Section 2326 - Native American programs"
 usc_title: 20
 usc_section: "2326"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 2326"
-generated_at: "2026-03-30T05:35:34.267Z"
+generated_at: "2026-03-30T05:39:05.771Z"
 status: "active"
 ---
 
@@ -14,12 +14,12 @@ status: "active"
 - **(a)** In this section:
   - **(1)** The term “Alaska Native” means a Native as such term is defined in section 1602 of title 43 .
   - **(2)** The term “Bureau-funded school” has the meaning given the term in section 2021 of title 25 .
-  - **(3)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given the terms in section 450b of title 25 .
+  - **(3)** The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given the terms in section 5304 of title 25 .
   - **(4)** The term “Native Hawaiian” means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
   - **(5)** The term “Native Hawaiian organization” has the meaning given the term in section 7517 of this title .
 - **(b)**
   - **(1)** From funds reserved under section 2321(a)(1)(B)(i) of this title , the Secretary shall make grants to or enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (c), except that such grants or contracts shall not be awarded to secondary school programs in Bureau-funded schools.
-  - **(2)** The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+  - **(2)** The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 5321 of title 25 and shall be conducted in accordance with the provisions of sections 5345, 5346, and 5347 of title 25, which are relevant to the programs administered under this subsection.
   - **(3)** An Indian tribe, a tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered into under paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Affairs to enable such school to carry out career and technical education programs.
   - **(4)** If sufficient funding is available, the Bureau of Indian Affairs shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Affairs shall expend not less than the amount expended during the prior fiscal year on career and technical education programs, services, and technical activities administered directly by, or under contract with, the Bureau of Indian Affairs, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. The Secretary and the Assistant Secretary of the Interior for Indian Affairs shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Affairs.
   - **(5)** If the Secretary promulgates any regulations applicable to paragraph (2), the Secretary shall—

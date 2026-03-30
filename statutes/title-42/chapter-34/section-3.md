@@ -3,9 +3,9 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T05:37:41.400Z"
+generated_at: "2026-03-30T05:40:26.076Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
       - **(ii)** may include funds (including interest) distributed to a tribe—
         - **(I)** by the Federal Government pursuant to the satisfaction of a claim made under Federal law;
         - **(II)** from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
-        - **(III)** by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) or tribal budget priority system.
+        - **(III)** by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) 1 1 See References in Text note below. or tribal budget priority system.
   - **(2)** The Secretary may make grants made under subsection (a) of this section on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
 - **(f)**
   - **(1)** The Secretary shall carry out this section through the Administration for Native Americans.
@@ -72,7 +72,7 @@ status: "active"
       - **(iii)** the preservation of products required by subsection (c)(5) of this section.
     - **(B)** Such panel shall include, but not be limited to—
       - **(i)** a designee of the Institute of American Indian and Alaska Native Culture and Arts Development;
-      - **(ii)** a designee of the regional centers funded under section 3215 1 1 See References in Text note below. of title 20;
+      - **(ii)** a designee of the regional centers funded under section 3215 1 of title 20;
       - **(iii)** representatives of national, tribal, and regional organizations that focus on Native American language, or Native American cultural, 2 2 So in original. The comma probably should not appear. research, development, or training; and
       - **(iv)** other individuals who are recognized for their expertise in the area of Native American language.
     - **(C)** The duties of such panel include—

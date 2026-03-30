@@ -3,9 +3,9 @@ title: "Section 238m - Use of fiscal agents"
 usc_title: 42
 usc_section: "238m"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 238m"
-generated_at: "2026-03-30T05:37:41.046Z"
+generated_at: "2026-03-30T05:40:25.709Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
   - **(2)** No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
 - **(c)** A contract under subsection (a) of this section may provide for advances of funds to enable entities to make payments under the contract.
 - **(d)** Subsections (d) and (e) 1 1 See References in Text note below. of section 1395u of this title shall apply to contracts with entities under subsection (a) of this section in the same manner as they apply to contracts with carriers under that section.
-- **(e)** In this section, the term “fiscal agent” means a carrier described in section 1395u(f)(1) 1 of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act ( Public Law 93–638 ) [ 25 U.S.C. 450f et seq.].
+- **(e)** In this section, the term “fiscal agent” means a carrier described in section 1395u(f)(1) 1 of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act ( Public Law 93–638 ) [ 25 U.S.C. 5321 et seq.].

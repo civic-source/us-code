@@ -3,9 +3,9 @@ title: "Section 5603 - Penalty relating to records, returns and reports"
 usc_title: 26
 usc_section: "5603"
 chapter: 51
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 5603"
-generated_at: "2026-03-30T05:36:26.186Z"
+generated_at: "2026-03-30T05:39:49.255Z"
 status: "active"
 ---
 

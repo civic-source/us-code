@@ -3,9 +3,9 @@ title: "Section 2902 - Definitions"
 usc_title: 25
 usc_section: "2902"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2902"
-generated_at: "2026-03-30T05:35:40.135Z"
+generated_at: "2026-03-30T05:39:27.410Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ For purposes of this chapter—
   - **(2)** The term “Indian” has the meaning given to such term under section 7491(3) of title 20 .
   - **(3)** The term “Native Hawaiian” has the meaning given to such term by section 7517 of title 20 .
   - **(4)** The term “Native American Pacific Islander” means any descendent of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
-  - **(5)** The terms “Indian tribe” and “tribal organization” have the respective meaning given to each of such terms under section 450b of this title .
+  - **(5)** The terms “Indian tribe” and “tribal organization” have the respective meaning given to each of such terms under section 5304 of this title .
   - **(6)** The term “Native American language” means the historical, traditional languages spoken by Native Americans.
   - **(7)** The term “traditional leaders” includes Native Americans who have special expertise in Native American culture and Native American languages.
   - **(8)** The term “Indian reservation” has the same meaning given to the term “reservation” under section 1452 of this title .

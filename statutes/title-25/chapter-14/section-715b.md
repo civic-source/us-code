@@ -1,18 +1,13 @@
 ---
-title: "Section 715b - Economic development"
+title: "Section 715b - Omitted"
 usc_title: 25
 usc_section: "715b"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 715b"
-generated_at: "2026-03-30T05:35:40.087Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 715b. Economic development
+# § 715b. Omitted
 
-- **(a)** The Secretary shall—
-  - **(1)** enter into negotiations with the governing body of the Tribe with respect to establishing a plan for economic development for this Tribe;
-  - **(2)** in accordance with this section and not later than two years after the adoption of a tribal constitution as provided in section 715g of this title , develop such a plan; and
-  - **(3)** upon the approval of such plan by the governing body of the Tribe, submit such plan to the Congress.
-- **(b)** Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of section 715c of this title .

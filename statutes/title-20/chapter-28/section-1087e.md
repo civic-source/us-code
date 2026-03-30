@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-30T05:35:34.225Z"
+generated_at: "2026-03-30T05:39:05.727Z"
 status: "active"
 ---
 
@@ -169,7 +169,7 @@ status: "active"
   - **(1)**
     - **(A)** An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
     - **(B)** Except as otherwise required by regulations of the Secretary 1 an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
-  - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+  - **(2)** Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
   - **(3)** All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 - **(l)**
   - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.

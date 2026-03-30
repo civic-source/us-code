@@ -3,9 +3,9 @@ title: "Section 649c - Authorization of appropriations"
 usc_title: 15
 usc_section: "649c"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "15 U.S.C. § 649c"
-generated_at: "2026-03-30T05:35:25.106Z"
+generated_at: "2026-03-30T05:38:36.392Z"
 status: "active"
 ---
 

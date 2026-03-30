@@ -3,9 +3,9 @@ title: "Section 1011b - Territorial waiver authority"
 usc_title: 20
 usc_section: "1011b"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1011b"
-generated_at: "2026-03-30T05:35:34.198Z"
+generated_at: "2026-03-30T05:39:05.697Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2279 - Outreach and assistance for socially disadvantaged farmer
 usc_title: 7
 usc_section: "2279"
 chapter: 55
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 2279"
-generated_at: "2026-03-30T05:35:07.565Z"
+generated_at: "2026-03-30T05:38:14.944Z"
 status: "active"
 ---
 
@@ -88,7 +88,7 @@ status: "active"
     - **(C)** An Indian tribal community college or an Alaska Native cooperative college.
     - **(D)** An Hispanic-serving institution (as defined in section 3103 of this title ).
     - **(E)** Any other institution of higher education (as defined in section 1001 of title 20 ) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
-    - **(F)** An Indian tribe (as defined in section 450b of title 25 ) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+    - **(F)** An Indian tribe (as defined in section 5304 of title 25 ) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
     - **(G)** An organization or institution that received funding under subsection (a) before January 1, 1996 , but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
   - **(6)** The term “Secretary” means the Secretary of Agriculture.
   - **(7)** The term “veteran farmer or rancher” means a farmer or rancher who has served in the Armed Forces (as defined in section 101(10) of title 38 ) and who—

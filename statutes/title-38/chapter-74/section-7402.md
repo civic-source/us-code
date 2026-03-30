@@ -3,9 +3,9 @@ title: "Section 7402 - Qualifications of appointees"
 usc_title: 38
 usc_section: "7402"
 chapter: 74
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "38 U.S.C. § 7402"
-generated_at: "2026-03-30T05:36:57.103Z"
+generated_at: "2026-03-30T05:39:58.807Z"
 status: "active"
 ---
 

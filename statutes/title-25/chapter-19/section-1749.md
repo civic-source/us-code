@@ -1,18 +1,13 @@
 ---
-title: "Section 1749 - Revocation of settlement"
+title: "Section 1749 - Omitted"
 usc_title: 25
 usc_section: "1749"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1749"
-generated_at: "2026-03-30T05:35:40.114Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.395Z"
+status: "omitted"
 ---
 
-# § 1749. Revocation of settlement
+# § 1749. Omitted
 
-In the event the Settlement Agreement between the Miccosukee Tribe and the State of Florida is ever invalidated—
-
-  - **(1)** the transfers, waivers, releases, relinquishments, and other commitments made by the Miccosukee Tribe in paragraph 3 of the Settlement Agreement shall no longer be of any force or effect,
-  - **(2)** section 1744 of this title shall be inapplicable to the lands, interests in lands, or natural resources of the Miccosukee Tribe and its members as if never enacted, and
-  - **(3)** the approvals of prior transfers and the extinguishment of claims and aboriginal title of the Miccosukee Tribe otherwise effected by section 1744 of this title shall be void ab initio.

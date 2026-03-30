@@ -3,9 +3,9 @@ title: "Section 1099c - Eligibility and certification procedures"
 usc_title: 20
 usc_section: "1099c"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1099c"
-generated_at: "2026-03-30T05:35:34.238Z"
+generated_at: "2026-03-30T05:39:05.741Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** a description of the third party servicers of an institution of higher education; and
     - **(B)** the institution to maintain a copy of any contract with a financial aid service provider or loan servicer, and provide a copy of any such contract to the Secretary upon request;
   - **(4)** requires such other information as the Secretary determines will ensure compliance with the requirements of this subchapter and part C of subchapter I of chapter 34 of title 42 with respect to eligibility, accreditation, administrative capability and financial responsibility; and
-  - **(5)** provides, at the option of the institution, for participation in one or more of the programs under part B or C of this subchapter.
+  - **(5)** provides, at the option of the institution, for participation in one or more of the programs under part B or C.
 - **(c)**
   - **(1)** The Secretary shall determine whether an institution has the financial responsibility required by this subchapter and part C of subchapter I of chapter 34 of title 42 on the basis of whether the institution is able—
     - **(A)** to provide the services described in its official publications and statements;
@@ -65,24 +65,24 @@ status: "active"
   - **(4)** The Secretary shall not impose the requirements described in subparagraphs (A) and (B) of paragraph (1) on an institution that—
     - **(A)** has not been subjected to a limitation, suspension, or termination action by the Secretary or a guaranty agency within the preceding 5 years;
     - **(B)** has not had, during its 2 most recent audits of the institutions conduct of programs under this subchapter and part C of subchapter I of chapter 34 of title 42, an audit finding that resulted in the institution being required to repay an amount greater than 5 percent of the funds the institution received from programs under this subchapter and part C of subchapter I of chapter 34 of title 42 for any year;
-    - **(C)** meets and has met, for the preceding 5 years, the financial responsibility standards under subsection (c) of this section; and
+    - **(C)** meets and has met, for the preceding 5 years, the financial responsibility standards under subsection (c); and
     - **(D)** has not been cited during the preceding 5 years for failure to submit audits required under this subchapter and part C of subchapter I of chapter 34 of title 42 in a timely fashion.
   - **(5)** For purposes of section 1094(c)(1)(G) of this title , this section shall also apply to individuals or organizations that contract with an institution to administer any aspect of an institution’s student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42.
   - **(6)** Notwithstanding any other provision of law, any individual who—
     - **(A)** the Secretary determines, in accordance with paragraph (2), exercises substantial control over an institution participating in, or seeking to participate in, a program under this subchapter and part C of subchapter I of chapter 34 of title 42;
     - **(B)** is required to pay, on behalf of a student or borrower, a refund of unearned institutional charges to a lender, or to the Secretary; and
     - **(C)** willfully fails to pay such refund or willfully attempts in any manner to evade payment of such refund,
-- **(f)** The Secretary shall ensure that prompt action is taken by the Department on any application required under subsection (b) of this section. The personnel of the Department of Education may conduct a site visit at each institution before certifying or recertifying its eligibility for purposes of any program under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall establish priorities by which institutions are to receive site visits, and shall, to the extent practicable, coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.
+- **(f)** The Secretary shall ensure that prompt action is taken by the Department on any application required under subsection (b). The personnel of the Department of Education may conduct a site visit at each institution before certifying or recertifying its eligibility for purposes of any program under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall establish priorities by which institutions are to receive site visits, and shall, to the extent practicable, coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.
 - **(g)**
   - **(1)** After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998 ), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42 of each such institution for a period not to exceed 6 years.
   - **(2)** The Secretary shall notify each institution of higher education not later than 6 months prior to the date of the expiration of the institution’s certification.
-  - **(3)** The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds under part B of this subchapter for the most recent year for which data are available.
+  - **(3)** The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds under part B for the most recent year for which data are available.
 - **(h)**
-  - **(1)** Notwithstanding subsections (d) and (g) of this section, the Secretary may provisionally certify an institution’s eligibility to participate in programs under this subchapter and part C of subchapter I of chapter 34 of title 42—
+  - **(1)** Notwithstanding subsections (d) and (g), the Secretary may provisionally certify an institution’s eligibility to participate in programs under this subchapter and part C of subchapter I of chapter 34 of title 42—
     - **(A)** for not more than one complete award year in the case of an institution of higher education seeking an initial certification; and
     - **(B)** for not more than 3 complete award years if—
       - **(i)** the institution’s administrative capability and financial responsibility is being determined for the first time;
-      - **(ii)** there is a complete or partial change of ownership, as defined under subsection (i) of this section, of an eligible institution; or
+      - **(ii)** there is a complete or partial change of ownership, as defined under subsection (i), of an eligible institution; or
       - **(iii)** the Secretary determines that an institution that seeks to renew its certification is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its financial responsibilities under a program participation agreement.
   - **(2)** Whenever the Secretary withdraws the recognition of any accrediting agency, an institution of higher education which meets the requirements of accreditation, eligibility, and certification on the day prior to such withdrawal, the Secretary may, notwithstanding the withdrawal, continue the eligibility of the institution of higher education to participate in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 for a period not to exceed 18 months from the date of the withdrawal of recognition.
   - **(3)** If, prior to the end of a period of provisional certification under this subsection, the Secretary determines that the institution is unable to meet its responsibilities under its program participation agreement, the Secretary may terminate the institution’s participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.

@@ -3,9 +3,9 @@ title: "Section 3003 - Rules of construction"
 usc_title: 28
 usc_section: "3003"
 chapter: 176
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "28 U.S.C. § 3003"
-generated_at: "2026-03-30T05:36:02.006Z"
+generated_at: "2026-03-30T05:39:37.967Z"
 status: "active"
 ---
 

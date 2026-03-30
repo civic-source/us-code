@@ -3,9 +3,9 @@ title: "Section 2304d - Task and delivery order contracts: definitions"
 usc_title: 10
 usc_section: "2304d"
 chapter: 137
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2304d"
-generated_at: "2026-03-30T05:34:54.665Z"
+generated_at: "2026-03-30T05:38:26.118Z"
 status: "active"
 ---
 

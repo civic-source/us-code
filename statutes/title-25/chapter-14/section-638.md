@@ -1,15 +1,13 @@
 ---
-title: "Section 638 - Participation by Tribal Councils; recommendations"
+title: "Section 638 - Omitted"
 usc_title: 25
 usc_section: "638"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 638"
-generated_at: "2026-03-30T05:35:40.079Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 638. Participation by Tribal Councils; recommendations
-
-The Tribal Councils of the Navajo and Hopi Tribes and the Indian communities affected shall be kept informed and afforded opportunity to consider from their inception plans pertaining to the program authorized by this subchapter. In the administration of the program, the Secretary of the Interior shall consider the recommendations of the tribal councils and shall follow such recommendations whenever he deems them feasible and consistent with the objectives of this subchapter.
+# § 638. Omitted
 

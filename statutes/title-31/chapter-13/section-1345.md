@@ -3,9 +3,9 @@ title: "Section 1345 - Expenses of meetings"
 usc_title: 31
 usc_section: "1345"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "31 U.S.C. § 1345"
-generated_at: "2026-03-30T05:36:33.674Z"
+generated_at: "2026-03-30T05:39:51.829Z"
 status: "active"
 ---
 

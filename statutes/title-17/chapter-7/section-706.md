@@ -3,9 +3,9 @@ title: "Section 706 - Copies of Copyright Office records"
 usc_title: 17
 usc_section: "706"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "17 U.S.C. § 706"
-generated_at: "2026-03-30T05:35:29.468Z"
+generated_at: "2026-03-30T05:38:43.176Z"
 status: "active"
 ---
 

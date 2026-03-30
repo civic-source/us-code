@@ -3,9 +3,9 @@ title: "Section 316i - Assignment of leases"
 usc_title: 43
 usc_section: "316i"
 chapter: 8
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 316i"
-generated_at: "2026-03-30T05:37:11.802Z"
+generated_at: "2026-03-30T05:40:01.182Z"
 status: "active"
 ---
 

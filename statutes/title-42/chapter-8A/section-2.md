@@ -3,9 +3,9 @@ title: "Section 2 - Loan guarantees for multifamily rental housing in rural area
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T05:37:41.347Z"
+generated_at: "2026-03-30T05:40:26.019Z"
 status: "active"
 ---
 
@@ -71,9 +71,9 @@ status: "active"
   - **(2)** The term “eligible lender” means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1) of this section.
   - **(3)** The terms “housing” and “related facilities” have the meanings given such terms in section 1485(e) of this title .
   - **(4)** The term “Indian tribe” means—
-    - **(A)** any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 ( 25 U.S.C. 450 et seq.); or
+    - **(A)** any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 ( 25 U.S.C. 450 et seq.); 2 or
     - **(B)** any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
 - **(s)** There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2 ) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
 - **(t)** The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I 3 3 So in original. Probably should be chapter “1”. of title 26.
 - **(u)** Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a of title 2 ) of loan guarantees made under this section.
-- **(v)** In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ( 25 U.S.C. 461 et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+- **(v)** In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ( 25 U.S.C. 461 et seq.), 2 the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.

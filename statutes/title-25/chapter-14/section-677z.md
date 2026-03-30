@@ -1,15 +1,13 @@
 ---
-title: "Section 677z - Rules and regulations; tribal or group referenda"
+title: "Section 677z - Omitted"
 usc_title: 25
 usc_section: "677z"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 677z"
-generated_at: "2026-03-30T05:35:40.085Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 677z. Rules and regulations; tribal or group referenda
-
-The Secretary is authorized to issue rules and regulations necessary to effectuate the purposes of this subchapter, and may, in his discretion, provide for tribal or group referenda on matters pertaining to management or disposition of tribal or group assets.
+# § 677z. Omitted
 

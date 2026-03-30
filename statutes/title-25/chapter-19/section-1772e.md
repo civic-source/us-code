@@ -1,15 +1,13 @@
 ---
-title: "Section 1772e - Water rights compact"
+title: "Section 1772e - Omitted"
 usc_title: 25
 usc_section: "1772e"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1772e"
-generated_at: "2026-03-30T05:35:40.115Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1772e. Water rights compact
-
-The compact defining the scope of Seminole water rights and their utilization by the tribe shall have the force and effect of Federal law for the purposes of enforcement of the rights and obligations of the tribe.
+# § 1772e. Omitted
 

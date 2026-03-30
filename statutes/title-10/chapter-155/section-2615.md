@@ -3,9 +3,9 @@ title: "Section 2615 - Military museums and military education programs: coopera
 usc_title: 10
 usc_section: "2615"
 chapter: 155
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2615"
-generated_at: "2026-03-30T05:34:54.686Z"
+generated_at: "2026-03-30T05:38:26.136Z"
 status: "active"
 ---
 

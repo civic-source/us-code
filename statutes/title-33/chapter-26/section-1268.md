@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T05:36:42.528Z"
+generated_at: "2026-03-30T05:39:52.664Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(B)** “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, and Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border);
     - **(C)** “Great Lakes System” means all the streams, rivers, lakes, and other bodies of water within the drainage basin of the Great Lakes;
     - **(D)** “Program Office” means the Great Lakes National Program Office established by this section;
-    - **(E)** “Research Office” means the Great Lakes Research Office established by subsection (d) of this section;
+    - **(E)** “Research Office” means the Great Lakes Research Office established by subsection (d);
     - **(F)** “area of concern” means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
     - **(G)** “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
     - **(H)** “Great Lakes Water Quality Agreement” means the bilateral agreement, between the United States and Canada which was signed in 1978 and amended by the Protocol of 1987;

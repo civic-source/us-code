@@ -1,15 +1,13 @@
 ---
-title: "Section 722 - Termination of Federal trust; publication; termination of Federal services; admission to hospitals and schools"
+title: "Section 722 - Omitted"
 usc_title: 25
 usc_section: "722"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 722"
-generated_at: "2026-03-30T05:35:40.087Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 722. Termination of Federal trust; publication; termination of Federal services; admission to hospitals and schools
-
-Upon the conveyance to the State of Texas of the lands held in trust by the United States for the Alabama and Coushatta Tribes of Texas, the Secretary of the Interior shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to such tribe and its members has terminated. Thereafter such tribe and its members shall not be entitled to any of the services performed by the United States for Indians because of their status as Indians: Provided , That after August 21, 1954 such Indians shall be eligible for admission, on the same terms that apply to other Indians, to hospitals and schools maintained by the United States.
+# § 722. Omitted
 

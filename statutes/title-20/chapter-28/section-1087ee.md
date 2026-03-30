@@ -3,9 +3,9 @@ title: "Section 1087ee - Cancellation of loans for certain public service"
 usc_title: 20
 usc_section: "1087ee"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1087ee"
-generated_at: "2026-03-30T05:35:34.228Z"
+generated_at: "2026-03-30T05:39:05.729Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
   - **(7)** An individual with an outstanding loan obligation under this part who performs service of any type that is described in paragraph (2) as in effect on October 7, 1998 , shall be eligible for cancellation under this section for such service notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such service.
 - **(b)** The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title . None of the funds appropriated pursuant to section 1087aa(b) 1 1 See References in Text note below. of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
 - **(c)**
-  - **(1)** If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+  - **(1)** If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
   - **(2)** Any teacher who performs service in a school which—
-    - **(A)** meets the requirements of subsection (a)(2)(A) of this section in any year; and
+    - **(A)** meets the requirements of subsection (a)(2)(A) in any year; and
     - **(B)** in a subsequent year fails to meet the requirements of such subsection,

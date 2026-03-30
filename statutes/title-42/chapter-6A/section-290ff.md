@@ -3,9 +3,9 @@ title: "Section 290ff - Comprehensive community mental health services for child
 usc_title: 42
 usc_section: "290ff"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 290ff"
-generated_at: "2026-03-30T05:37:41.108Z"
+generated_at: "2026-03-30T05:40:25.769Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance.
-  - **(2)** For purposes of this part, the term “public entity” means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 450b(b) and section 450b(c) 1 1 See References in Text note below. of title 25).
+  - **(2)** For purposes of this part, the term “public entity” means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 5304(b) and section 5304(c) 1 1 See References in Text note below. of title 25).
 - **(b)**
   - **(1)** The Secretary may make a grant under subsection (a) of this section to a public entity only if—
     - **(A)** in the case of a public entity that is a State, the State is a grantee under section 300x of this title ;

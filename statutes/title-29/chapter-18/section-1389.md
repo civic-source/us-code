@@ -3,9 +3,9 @@ title: "Section 1389 - De minimis rule"
 usc_title: 29
 usc_section: "1389"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 1389"
-generated_at: "2026-03-30T05:35:57.169Z"
+generated_at: "2026-03-30T05:39:32.227Z"
 status: "active"
 ---
 

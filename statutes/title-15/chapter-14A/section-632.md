@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T05:35:25.091Z"
+generated_at: "2026-03-30T05:38:36.377Z"
 status: "active"
 ---
 
@@ -71,7 +71,7 @@ status: "active"
       - **(iii)** which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
       - **(iv)** which meets such other requirements (similar to requirements applicable to employee stock ownership plans as defined in section 4975(e)(7) of title 26 ) as the Administrator may prescribe, and
     - **(C)** in the case of a loan guarantee under section 636(a) of this title , such organization enters into an agreement with the Administration which is described in paragraph (2)(B).
-- **(d)** For purposes of section 636 of this title , the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25 , which owns and controls 100 per centum of a small business concern.
+- **(d)** For purposes of section 636 of this title , the term “qualified Indian tribe” means an Indian tribe as defined in section 5304(a) 1 1 So in original. Probably should be a reference to subsec. “(e)” of section 5304, which defines Indian tribe. of title 25, which owns and controls 100 per centum of a small business concern.
 - **(e)** For purposes of section 636 of this title , the term “public or private organization for the handicapped” means one—
   - **(1)** which is organized under the laws of the United States or of any State, operated in the interest of handicapped individuals, the net income of which does not inure in whole or in part to the benefit of any shareholder or other individuals;
   - **(2)** which complies with any applicable occupational health and safety standard prescribed by the Secretary of Labor; and
@@ -98,7 +98,7 @@ status: "active"
     - **(B)** below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns; and
     - **(C)** ice storms and blizzards.
 - **(l)** For purposes of this chapter—
-  - **(1)** 1 1 So in original. No par. (2) has been enacted. the term “computer crime” means—
+  - **(1)** 2 2 So in original. No par. (2) has been enacted. the term “computer crime” means—
     - **(A)** any crime committed against a small business concern by means of the use of a computer; and
     - **(B)** any crime involving the illegal use of, or tampering with, a computer owned or utilized by a small business concern.
 - **(m)** For purposes of this chapter, the term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41 .
@@ -147,11 +147,11 @@ status: "active"
         - **(I)** 10 years after the date that the Administrator implements this clause, or
         - **(II)** the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
     - **(B)** The term “qualified nonmetropolitan county” means any county—
-      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 2 2 See References in Text note below. of title 26; and
+      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 3 of title 26; and
       - **(ii)** in which—
         - **(I)** the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
         - **(II)** the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
-        - **(III)** there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) 2 of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
+        - **(III)** there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) 3 of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
     - **(C)** The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only until the later of—
       - **(i)** the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
       - **(ii)** 3 years after the date on which the census tract or nonmetropolitan county ceased to be so qualified.

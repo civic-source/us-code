@@ -1,15 +1,13 @@
 ---
-title: "Section 1193 - Status of funds pending distribution"
+title: "Section 1193 - Omitted"
 usc_title: 25
 usc_section: "1193"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1193"
-generated_at: "2026-03-30T05:35:40.095Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1193. Status of funds pending distribution
-
-Until distributed such funds shall remain tribal funds and the shares herein designated for the eligible members shall constitute inheritable property from and after December 17, 1965 .
+# § 1193. Omitted
 

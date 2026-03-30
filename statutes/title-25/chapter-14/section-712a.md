@@ -1,17 +1,13 @@
 ---
-title: "Section 712a - Extension of Federal recognition, rights, and privileges"
+title: "Section 712a - Omitted"
 usc_title: 25
 usc_section: "712a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 712a"
-generated_at: "2026-03-30T05:35:40.086Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 712a. Extension of Federal recognition, rights, and privileges
+# § 712a. Omitted
 
-- **(a)** Notwithstanding any provision of the Act approved August 13, 1954 ( 25 U.S.C. 691 et seq.), or any other law, Federal recognition is extended to the Cow Creek Band of Umpqua Tribe of Indians. Except as otherwise provided in this subchapter, all laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians which are not inconsistent with any specific provision of this subchapter shall be applicable to the tribe.
-- **(b)** All rights and privileges of the tribe and the members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other Federal authority, which may have been diminished or lost under the Act approved August 13, 1954 ( 25 U.S.C. 691 et seq.), are restored, and the provisions of such subchapter shall be inapplicable to the tribe and to members of the tribe after December 29, 1982 .
-- **(c)** Notwithstanding any other provision of law, the tribe and members of the tribe shall be eligible for all Federal services and benefits furnished to federally recognized Indian tribes upon December 29, 1982 , without regard to the existence of a reservation for the tribe or the residence of members of the tribe on a reservation.
-- **(d)** Except as otherwise specifically provided in this subchapter, no provision contained in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.

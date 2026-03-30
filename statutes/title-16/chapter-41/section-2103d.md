@@ -3,9 +3,9 @@ title: "Section 2103d - Community forest and open space conservation program"
 usc_title: 16
 usc_section: "2103d"
 chapter: 41
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 2103d"
-generated_at: "2026-03-30T05:35:31.817Z"
+generated_at: "2026-03-30T05:38:48.567Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In this section:
   - **(1)** The term “eligible entity” means a local governmental entity, Indian tribe, or nonprofit organization that owns or acquires a parcel under the program.
-  - **(2)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(2)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(3)** The term “local governmental entity” includes any municipal government, county government, or other local government body with jurisdiction over local land use decisions.
   - **(4)** The term “nonprofit organization” means any organization that—
     - **(A)** is described in section 170(h)(3) of title 26 ; and

@@ -3,9 +3,9 @@ title: "Section 584 - Authorization of appropriations"
 usc_title: 5
 usc_section: "584"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "5 U.S.C. § 584"
-generated_at: "2026-03-30T05:34:37.471Z"
+generated_at: "2026-03-30T05:38:04.602Z"
 status: "active"
 ---
 

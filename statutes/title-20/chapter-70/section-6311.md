@@ -3,9 +3,9 @@ title: "Section 6311 - State plans"
 usc_title: 20
 usc_section: "6311"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6311"
-generated_at: "2026-03-30T05:35:34.283Z"
+generated_at: "2026-03-30T05:39:05.788Z"
 status: "active"
 ---
 
@@ -399,7 +399,7 @@ status: "active"
       - **(xiii)** Where available, for each high school in the State, and beginning with the report card prepared under this paragraph for 2017, the cohort rate (in the aggregate, and disaggregated for each subgroup of students defined in subsection (c)(2)), at which students who graduate from the high school enroll, for the first academic year that begins after the students’ graduation—
         - **(I)** in programs of public postsecondary education in the State; and
         - **(II)** if data are available and to the extent practicable, in programs of private postsecondary education in the State or programs of postsecondary education outside the State.
-      - **(xiv)** Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State’s public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2323(b) ) and reported by States only in a manner consistent with section 113(c) of such Act ( 20 U.S.C. 2323(c) ).
+      - **(xiv)** Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State’s public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( 9 9 So in original. There is no corresponding closing parenthesis. as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2323(b) ) and reported by States only in a manner consistent with section 113(c) of such Act ( 20 U.S.C. 2323(c) ).
     - **(D)** Nothing in subparagraph (C)(viii) shall be construed as requiring—
       - **(i)** reporting of any data that are not collected in accordance with section 3413(c)(1) of this title ; or
       - **(ii)** disaggregation of any data other than as required under subsection (b)(2)(B)(xi).

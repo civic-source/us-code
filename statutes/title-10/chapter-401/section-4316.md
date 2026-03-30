@@ -3,9 +3,9 @@ title: "Section 4316 - Reporting requirements"
 usc_title: 10
 usc_section: "4316"
 chapter: 401
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 4316"
-generated_at: "2026-03-30T05:34:54.702Z"
+generated_at: "2026-03-30T05:38:26.151Z"
 status: "active"
 ---
 

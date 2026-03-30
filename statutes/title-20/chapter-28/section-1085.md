@@ -3,9 +3,9 @@ title: "Section 1085 - Definitions for student loan insurance program"
 usc_title: 20
 usc_section: "1085"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1085"
-generated_at: "2026-03-30T05:35:34.221Z"
+generated_at: "2026-03-30T05:39:05.723Z"
 status: "active"
 ---
 
@@ -28,8 +28,8 @@ As used in this part:
     - **(C)** Until July 1, 1999 , this paragraph shall not apply to any institution that is—
       - **(i)** a part B institution within the meaning of section 1061(2) of this title ;
       - **(ii)** a tribally controlled college or university, as defined in section 1801(a)(4) of title 25 ; or
-      - **(iii)** a Navajo Community College under the Navajo Community College Act [ 25 U.S.C. 640a et seq.].
-    - **(D)** Notwithstanding the first sentence of subparagraph (A), the Secretary shall restore the eligibility to participate in a program under subpart 1 of part A, part B, or part D of this subchapter of an institution that did not appeal its loss of eligibility within 30 days of receiving notification if the Secretary determines, on a case-by-case basis, that the institution’s failure to appeal was substantially justified under the circumstances, and that—
+      - **(iii)** a Navajo Community College under the Navajo Community College Act.
+    - **(D)** Notwithstanding the first sentence of subparagraph (A), the Secretary shall restore the eligibility to participate in a program under subpart 1 of part A, part B, or part D of an institution that did not appeal its loss of eligibility within 30 days of receiving notification if the Secretary determines, on a case-by-case basis, that the institution’s failure to appeal was substantially justified under the circumstances, and that—
       - **(i)** the institution made a timely request that the appropriate guaranty agency correct errors in the draft data used to calculate the institution’s cohort default rate;
       - **(ii)** the guaranty agency did not correct the erroneous data in a timely fashion; and
       - **(iii)** the institution would have been eligible if the erroneous data had been corrected by the guaranty agency.
@@ -57,7 +57,7 @@ As used in this part:
   - **(6)**
     - **(A)** After July 1, 1999 , any institution that has a cohort default rate that equals or exceeds 25 percent for each of the three most recent fiscal years for which data are available and that relies on the exception in subparagraph (B) to continue to be an eligible institution shall—
       - **(i)** submit to the Secretary a default management plan which the Secretary, in the Secretary’s discretion, after consideration of the institution’s history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that the institution will, by July 1, 2004 , have a cohort default rate that is less than 25 percent;
-      - **(ii)** engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III of this chapter) to provide technical assistance in implementing such default management plan; and
+      - **(ii)** engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III) to provide technical assistance in implementing such default management plan; and
       - **(iii)** provide to the Secretary, on an annual basis or at such other intervals as the Secretary may require, evidence of cohort default rate improvement and successful implementation of such default management plan.
     - **(B)** Notwithstanding the expiration of the exception in paragraph (2)(C), the Secretary may, in the Secretary’s discretion, continue to treat an institution described in subparagraph (A) of this paragraph as an eligible institution for each of the 1-year periods beginning on July 1 of 1999 through 2003, only if the institution submits by the beginning of such period evidence satisfactory to the Secretary that—
       - **(i)** such institution has complied and is continuing to comply with the requirements of subparagraph (A); and
@@ -73,7 +73,7 @@ As used in this part:
       - **(i)** An institution whose cohort default rate is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv) for two consecutive fiscal years, shall require the institution’s default prevention task force established under subparagraph (A) to review and revise the plan required under such subparagraph, and shall submit such revised plan to the Secretary.
       - **(ii)** The Secretary shall review each revised plan submitted in accordance with this subparagraph, and may direct that such plan be amended to include actions, with measurable objectives, that the Secretary determines, based on available data and analyses of student loan defaults, will promote student loan repayment.
   - **(8)**
-    - **(A)** An institution that demonstrates to the Secretary that the institution’s participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution’s cohort default rate for loans under this part or part C of this subchapter, or weighted average cohort default rate for loans under this part and part C of this subchapter, by the percentage of the institution’s regular students, enrolled on at least a half-time basis, who received a loan made under this part or part C of this subchapter for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution’s cohort default rate is determined.
+    - **(A)** An institution that demonstrates to the Secretary that the institution’s participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution’s cohort default rate for loans under this part or part C, or weighted average cohort default rate for loans under this part and part C, by the percentage of the institution’s regular students, enrolled on at least a half-time basis, who received a loan made under this part or part C for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution’s cohort default rate is determined.
     - **(B)** An institution shall provide the Secretary with sufficient data to determine the institution’s participation rate index within 30 days after receiving an initial notification of the institution’s draft cohort default rate.
     - **(C)** Prior to publication of a final cohort default rate for an institution that provides the data described in subparagraph (B), the Secretary shall notify the institution of the institution’s compliance or noncompliance with subparagraph (A).
 - **(b)**
@@ -144,11 +144,11 @@ As used in this part:
 - **(i)** The term “holder” means an eligible lender who owns a loan.
 - **(j)** The term “guaranty agency” means any State or nonprofit private institution or organization with which the Secretary has an agreement under section 1078(b) of this title .
 - **(k)** The term “insurance beneficiary” means the insured or its authorized representative assigned in accordance with section 1079(d) of this title .
-- **(l)** Except as provided in subsection (m) of this section, the term “default” includes only such defaults as have existed for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
+- **(l)** Except as provided in subsection (m), the term “default” includes only such defaults as have existed for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
 - **(m)**
   - **(1)**
     - **(A)** Except as provided in paragraph (2), the term “cohort default rate” means, for any fiscal year in which 30 or more current and former students at the institution enter repayment on loans under section 1078, 1078–1, 1 or 1078–8 of this title received for attendance at the institution, the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at that institution in that fiscal year who default before the end of the second fiscal year following the fiscal year in which the students entered repayment. The Secretary shall require that each guaranty agency that has insured loans for current or former students of the institution afford such institution a reasonable opportunity (as specified by the Secretary) to review and correct errors in the information required to be provided to the Secretary by the guaranty agency for the purposes of calculating a cohort default rate for such institution, prior to the calculation of such rate.
-    - **(B)** In determining the number of students who default before the end of such second fiscal year, the Secretary shall include only loans for which the Secretary or a guaranty agency has paid claims for insurance. In considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, the Secretary shall exclude, from the calculation of the number of students who entered repayment and from the calculation of the number of students who default, any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution’s timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.
+    - **(B)** In determining the number of students who default before the end of such second fiscal year, the Secretary shall include only loans for which the Secretary or a guaranty agency has paid claims for insurance. In considering appeals with respect to cohort default rates pursuant to subsection (a)(3), the Secretary shall exclude, from the calculation of the number of students who entered repayment and from the calculation of the number of students who default, any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution’s timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.
     - **(C)** For any fiscal year in which fewer than 30 of the institution’s current and former students enter repayment, the term “cohort default rate” means the percentage of such current and former students who entered repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) in any of the three most recent fiscal years, who default before the end of the second fiscal year following the year in which they entered repayment.
   - **(2)**
     - **(A)** In the case of a student who has attended and borrowed at more than one school, the student (and such student’s subsequent repayment or default) is attributed to each school for attendance at which the student received a loan that entered repayment in the fiscal year.
@@ -163,7 +163,7 @@ As used in this part:
     - **(D)** The Secretary shall publish the report described in subparagraph (C) by September 30 of each year.
 - **(n)**
 - **(o)**
-  - **(1)** For purposes of this part and part D of this subchapter, a borrower shall be considered to have an economic hardship if—
+  - **(1)** For purposes of this part and part D, a borrower shall be considered to have an economic hardship if—
     - **(A)** such borrower is working full-time and is earning an amount which does not exceed the greater of—
       - **(i)** the minimum wage rate described in section 206 of title 29 ; or
       - **(ii)** an amount equal to 150 percent of the poverty line applicable to the borrower’s family size as determined in accordance with section 9902(2) of title 42 ; or

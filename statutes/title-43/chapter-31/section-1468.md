@@ -3,9 +3,9 @@ title: "Section 1468 - Working capital fund; availability for uniforms or allowa
 usc_title: 43
 usc_section: "1468"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 1468"
-generated_at: "2026-03-30T05:37:11.830Z"
+generated_at: "2026-03-30T05:40:01.211Z"
 status: "active"
 ---
 

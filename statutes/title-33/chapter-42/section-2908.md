@@ -3,9 +3,9 @@ title: "Section 2908 - Funding"
 usc_title: 33
 usc_section: "2908"
 chapter: 42
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2908"
-generated_at: "2026-03-30T05:36:42.566Z"
+generated_at: "2026-03-30T05:39:52.701Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
     - **(D)** to the Administrator of the Environmental Protection Agency, $2,500,000 for each of fiscal years 2008 through 2012; and
     - **(E)** to the Secretary of Agriculture, $2,500,000 for each of fiscal years 2008 through 2012.
   - **(2)** There is authorized to be appropriated to the Under Secretary for Oceans and Atmosphere of the Department of Commerce for the acquisition, maintenance, and management of monitoring data on restoration projects carried out under this chapter and other information compiled under section 2906 of this title , $1,500,000 for each of fiscal years 2001 through 2012. Such sums shall remain available until expended.
-- **(b)** Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) of this section or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.
+- **(b)** Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.

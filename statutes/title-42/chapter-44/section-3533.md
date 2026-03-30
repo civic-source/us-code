@@ -3,9 +3,9 @@ title: "Section 3533 - Officers of Department"
 usc_title: 42
 usc_section: "3533"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 3533"
-generated_at: "2026-03-30T05:37:41.416Z"
+generated_at: "2026-03-30T05:40:26.093Z"
 status: "active"
 ---
 

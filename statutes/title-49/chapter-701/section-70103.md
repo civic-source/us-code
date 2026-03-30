@@ -3,9 +3,9 @@ title: "Section 70103 - National Multimodal Freight Network"
 usc_title: 49
 usc_section: "70103"
 chapter: 701
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "49 U.S.C. § 70103"
-generated_at: "2026-03-30T05:37:48.519Z"
+generated_at: "2026-03-30T05:40:36.623Z"
 status: "active"
 ---
 

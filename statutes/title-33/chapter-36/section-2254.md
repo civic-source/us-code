@@ -3,9 +3,9 @@ title: "Section 2254 - Assessment of operation and maintenance needs of the Atla
 usc_title: 33
 usc_section: "2254"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2254"
-generated_at: "2026-03-30T05:36:42.553Z"
+generated_at: "2026-03-30T05:39:52.688Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** In carrying out subsection (a), the Secretary shall assess the operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway as used for the following purposes:
   - **(1)** Commercial navigation.
   - **(2)** Commercial fishing.
-  - **(3)** Subsistence, including utilization by Indian tribes (as defined in section 450b of title 25 ) for subsistence and ceremonial purposes.
+  - **(3)** Subsistence, including utilization by Indian tribes (as defined in section 5304 of title 25 ) for subsistence and ceremonial purposes.
   - **(4)** Use as ingress and egress to harbors of refuge.
   - **(5)** Transportation of persons.
   - **(6)** Purposes relating to domestic energy production, including fabrication, servicing, and supply of domestic offshore energy production facilities.

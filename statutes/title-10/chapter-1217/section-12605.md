@@ -3,9 +3,9 @@ title: "Section 12605 - Presentation of United States flag: members transferred 
 usc_title: 10
 usc_section: "12605"
 chapter: 1217
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 12605"
-generated_at: "2026-03-30T05:34:54.733Z"
+generated_at: "2026-03-30T05:38:26.180Z"
 status: "active"
 ---
 

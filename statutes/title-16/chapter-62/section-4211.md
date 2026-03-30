@@ -3,9 +3,9 @@ title: "Section 4211 - Provision of assistance"
 usc_title: 16
 usc_section: "4211"
 chapter: 62
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 4211"
-generated_at: "2026-03-30T05:35:31.844Z"
+generated_at: "2026-03-30T05:38:48.593Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** an estimate of the funds and time required to complete the project;
   - **(5)** evidence of support of the project by governmental entities of countries within which the project will be conducted, if such support may be important for the success of the project; and
   - **(6)** any other information the Secretary considers to be necessary or appropriate for evaluating the eligibility of the project for funding under this chapter.
-- **(c)** The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
+- **(c)** The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
 - **(d)** The Secretary may approve a project under this section if the project will enhance programs for African elephant research, conservation, management, or protection by—
   - **(1)** developing in a usable form sound scientific information on African elephant habitat condition and carrying capacity, total elephant numbers and population trends, or annual reproduction and mortality; or
   - **(2)** assisting efforts—

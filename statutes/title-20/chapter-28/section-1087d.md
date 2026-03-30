@@ -3,9 +3,9 @@ title: "Section 1087d - Agreements with institutions"
 usc_title: 20
 usc_section: "1087d"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1087d"
-generated_at: "2026-03-30T05:35:34.225Z"
+generated_at: "2026-03-30T05:39:05.727Z"
 status: "active"
 ---
 
@@ -19,15 +19,15 @@ status: "active"
     - **(D)** set forth a schedule for disbursement of the proceeds of the loan in installments, consistent with the requirements of section 1078–7 of this title ; and
     - **(E)** provide timely and accurate information—
       - **(i)** concerning the status of student borrowers (and students on whose behalf parents borrow under this part) while such students are in attendance at the institution and concerning any new information of which the institution becomes aware for such students (or their parents) after such borrowers leave the institution, to the Secretary for the servicing and collecting of loans made under this part; and
-      - **(ii)** if the institution does not have an agreement with the Secretary under subsection (b) of this section, concerning student eligibility and need, as determined under subparagraphs (A) and (B), to the Secretary as needed for the alternative origination of loans to eligible students and parents in accordance with this part;
+      - **(ii)** if the institution does not have an agreement with the Secretary under subsection (b), concerning student eligibility and need, as determined under subparagraphs (A) and (B), to the Secretary as needed for the alternative origination of loans to eligible students and parents in accordance with this part;
   - **(2)** provide assurances that the institution will comply with requirements established by the Secretary relating to student loan information with respect to loans made under this part;
   - **(3)** provide that the institution accepts responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
   - **(4)** provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
   - **(5)** provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan; and
   - **(6)** include such other provisions as the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of this part.
 - **(b)** An agreement with any institution of higher education, or consortia thereof, for the origination of loans under this part shall—
-  - **(1)** supplement the agreement entered into in accordance with subsection (a) of this section;
-  - **(2)** include provisions established by the Secretary that are similar to the participation agreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a) of this section, as modified to relate to the origination of loans by the institution or consortium;
+  - **(1)** supplement the agreement entered into in accordance with subsection (a);
+  - **(2)** include provisions established by the Secretary that are similar to the participation agreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
   - **(3)** provide that the institution or consortium will originate loans to eligible students and parents in accordance with this part; and
   - **(4)** provide that the note or evidence of obligation on the loan shall be the property of the Secretary.
 - **(c)** The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.

@@ -3,9 +3,9 @@ title: "Section 5653 - Eligibility of States"
 usc_title: 42
 usc_section: "5653"
 chapter: 72
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 5653"
-generated_at: "2026-03-30T05:37:41.468Z"
+generated_at: "2026-03-30T05:40:26.150Z"
 status: "active"
 ---
 

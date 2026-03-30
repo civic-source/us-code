@@ -3,16 +3,16 @@ title: "Section 1068d - Assistance to institutions under other programs"
 usc_title: 20
 usc_section: "1068d"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1068d"
-generated_at: "2026-03-30T05:35:34.207Z"
+generated_at: "2026-03-30T05:39:05.708Z"
 status: "active"
 ---
 
 # § 1068d. Assistance to institutions under other programs
 
-- **(a)** Each institution which the Secretary determines to be an institution eligible under part A of this subchapter or an institution eligible under part B of this subchapter may be eligible for waivers in accordance with subsection (b) of this section.
+- **(a)** Each institution which the Secretary determines to be an institution eligible under part A or an institution eligible under part B may be eligible for waivers in accordance with subsection (b).
 - **(b)**
-  - **(1)** Subject to, and in accordance with, regulations promulgated for the purpose of this section, in the case of any application by an institution referred to in subsection (a) of this section for assistance under any programs specified in paragraph (2), the Secretary is authorized, if such application is otherwise approvable, to waive any requirement for a non-Federal share of the cost of the program or project, or, to the extent not inconsistent with other law, to give, or require to be given, priority consideration of the application in relation to applications from other institutions.
+  - **(1)** Subject to, and in accordance with, regulations promulgated for the purpose of this section, in the case of any application by an institution referred to in subsection (a) for assistance under any programs specified in paragraph (2), the Secretary is authorized, if such application is otherwise approvable, to waive any requirement for a non-Federal share of the cost of the program or project, or, to the extent not inconsistent with other law, to give, or require to be given, priority consideration of the application in relation to applications from other institutions.
   - **(2)** The provisions of this section shall apply to any program authorized by part D of this subchapter or subchapter IV of this chapter or part C of subchapter I of chapter 34 of title 42.
-- **(c)** The Secretary shall not waive, under subsection (b) of this section, the non-Federal share requirement for any program for applications which, if approved, would require the expenditure of more than 10 percent of the appropriations for the program for any fiscal year.
+- **(c)** The Secretary shall not waive, under subsection (b), the non-Federal share requirement for any program for applications which, if approved, would require the expenditure of more than 10 percent of the appropriations for the program for any fiscal year.

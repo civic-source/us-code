@@ -3,9 +3,9 @@ title: "Section 1357 - Trade agreements with the Philippines"
 usc_title: 22
 usc_section: "1357"
 chapter: 15
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "22 U.S.C. § 1357"
-generated_at: "2026-03-30T05:35:53.458Z"
+generated_at: "2026-03-30T05:39:13.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7442 - Professional development for teachers and education profe
 usc_title: 20
 usc_section: "7442"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7442"
-generated_at: "2026-03-30T05:35:34.302Z"
+generated_at: "2026-03-30T05:39:05.807Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(2)** a State educational agency or local educational agency, in consortium with an institution of higher education;
   - **(3)** an Indian tribe or organization, in consortium with an institution of higher education; and
   - **(4)** a Bureau-funded school (as defined in section 2026 1 1 See References in Text note below. of title 25) in a consortium with at least one Tribal College or University, as defined in section 1059c(b) of this title , where feasible.
-- **(c)** The Secretary is authorized to award grants to eligible entities having applications approved under this section to enable those entities to carry out the activities described in subsection (d) of this section.
+- **(c)** The Secretary is authorized to award grants to eligible entities having applications approved under this section to enable those entities to carry out the activities described in subsection (d).
 - **(d)**
   - **(1)** Grant funds under this section shall be used for activities to provide support and training for Indian individuals in a manner consistent with the purpose of this section. Such activities may include—
     - **(A)** continuing education programs, symposia, workshops, and conferences;

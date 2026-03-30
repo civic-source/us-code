@@ -3,9 +3,9 @@ title: "Section 254b - Health centers"
 usc_title: 42
 usc_section: "254b"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 254b"
-generated_at: "2026-03-30T05:37:41.063Z"
+generated_at: "2026-03-30T05:40:25.722Z"
 status: "active"
 ---
 
@@ -213,7 +213,7 @@ status: "active"
         - **(I)** will assure that no patient will be denied health care services due to an individual’s inability to pay for such services; and
         - **(II)** will assure that any fees or payments required by the center for such services will be reduced or waived to enable the center to fulfill the assurance described in subclause (I); and
       - **(iv)** has submitted to the Secretary such reports as the Secretary may require to determine compliance with this subparagraph;
-    - **(H)** the center has established a governing board which except in the case of an entity operated by an Indian tribe or tribal or Indian organization under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] or an urban Indian organization under the Indian Health Care Improvement Act ( 25 U.S.C. 1651 et seq.)—
+    - **(H)** the center has established a governing board which except in the case of an entity operated by an Indian tribe or tribal or Indian organization under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] or an urban Indian organization under the Indian Health Care Improvement Act ( 25 U.S.C. 1651 et seq.)—
       - **(i)** is composed of individuals, a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center;
       - **(ii)** meets at least once a month, selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center’s annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
       - **(iii)** in the case of an application for a second or subsequent grant for a public center, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;

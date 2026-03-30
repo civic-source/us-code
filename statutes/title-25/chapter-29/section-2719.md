@@ -3,9 +3,9 @@ title: "Section 2719 - Gaming on lands acquired after October 17, 1988"
 usc_title: 25
 usc_section: "2719"
 chapter: 29
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2719"
-generated_at: "2026-03-30T05:35:40.134Z"
+generated_at: "2026-03-30T05:39:27.409Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(2)** Subsection (a) shall not apply to—
     - **(A)** any lands involved in the trust petition of the St. Croix Chippewa Indians of Wisconsin that is the subject of the action filed in the United States District Court for the District of Columbia entitled St. Croix Chippewa Indians of Wisconsin v. United States, Civ. No. 86–2278, or
     - **(B)** the interests of the Miccosukee Tribe of Indians of Florida in approximately 25 contiguous acres of land, more or less, in Dade County, Florida, located within one mile of the intersection of State Road Numbered 27 (also known as Krome Avenue) and the Tamiami Trail.
-  - **(3)** Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe to the Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 465 and 467 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
+  - **(3)** Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe to the Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 5108 and 5110 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
 - **(c)** Nothing in this section shall affect or diminish the authority and responsibility of the Secretary to take land into trust.
 - **(d)**
   - **(1)** The provisions of title 26 (including sections 1441, 3402(q), 6041, and 6050I, and chapter 35 of such title) concerning the reporting and withholding of taxes with respect to the winnings from gaming or wagering operations shall apply to Indian gaming operations conducted pursuant to this chapter, or under a Tribal-State compact entered into under section 2710(d)(3) of this title that is in effect, in the same manner as such provisions apply to State gaming and wagering operations.

@@ -3,9 +3,9 @@ title: "Section 7441 - Improvement of educational opportunities for Indian child
 usc_title: 20
 usc_section: "7441"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7441"
-generated_at: "2026-03-30T05:35:34.302Z"
+generated_at: "2026-03-30T05:39:05.807Z"
 status: "active"
 ---
 
@@ -34,11 +34,11 @@ status: "active"
   - **(14)** other services that meet the purpose described in this section.
 - **(d)**
   - **(1)**
-    - **(A)** The Secretary may make multiyear grants under subsection (c) of this section for the planning, development, pilot operation, or demonstration of any activity described in subsection (c) of this section for a period not to exceed 5 years.
-    - **(B)** In making multiyear grants described in this paragraph, the Secretary shall give priority to entities submitting applications that present a plan for combining two or more of the activities described in subsection (c) of this section over a period of more than 1 year.
+    - **(A)** The Secretary may make multiyear grants under subsection (c) for the planning, development, pilot operation, or demonstration of any activity described in subsection (c) for a period not to exceed 5 years.
+    - **(B)** In making multiyear grants described in this paragraph, the Secretary shall give priority to entities submitting applications that present a plan for combining two or more of the activities described in subsection (c) over a period of more than 1 year.
     - **(C)** The Secretary shall award grants for an initial period of not more than 3 years and may renew such grants for not more than an additional 2 years if the Secretary determines that the eligible entity has made substantial progress in carrying out the activities assisted under the grant in accordance with the application submitted under paragraph (3) and any subsequent modifications to such application.
   - **(2)**
-    - **(A)** In addition to awarding the multiyear grants described in paragraph (1), the Secretary may award grants under subsection (c) of this section to eligible entities for the dissemination of exemplary materials or programs assisted under this section.
+    - **(A)** In addition to awarding the multiyear grants described in paragraph (1), the Secretary may award grants under subsection (c) to eligible entities for the dissemination of exemplary materials or programs assisted under this section.
     - **(B)** The Secretary may award a dissemination grant described in this paragraph if, prior to awarding the grant, the Secretary determines that the material or program to be disseminated—
       - **(i)** has been adequately reviewed;
       - **(ii)** has demonstrated educational merit; and

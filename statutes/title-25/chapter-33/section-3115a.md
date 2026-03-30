@@ -3,9 +3,9 @@ title: "Section 3115a - Tribal forest assets protection"
 usc_title: 25
 usc_section: "3115a"
 chapter: 33
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3115a"
-generated_at: "2026-03-30T05:35:40.137Z"
+generated_at: "2026-03-30T05:39:27.412Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
         - **(I)** is Indian forest land (as defined in section 3103 of this title ); or
         - **(II)** has a cover of grasses, brush, or any similar vegetation; or
       - **(ii)** formerly had a forest cover or vegetative cover that is capable of restoration.
-  - **(3)** The term “Indian tribe” has the meaning given the term in section 450b of this title .
+  - **(3)** The term “Indian tribe” has the meaning given the term in section 5304 of this title .
   - **(4)** The term “Secretary” means—
     - **(A)** the Secretary of Agriculture, with respect to land under the jurisdiction of the Forest Service; and
     - **(B)** the Secretary of the Interior, with respect to land under the jurisdiction of the Bureau of Land Management.

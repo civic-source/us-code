@@ -3,9 +3,9 @@ title: "Section 150710 - Records and inspection"
 usc_title: 36
 usc_section: "150710"
 chapter: 1507
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "36 U.S.C. § 150710"
-generated_at: "2026-03-30T05:37:07.008Z"
+generated_at: "2026-03-30T05:39:56.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 705 - Handling of proceeds from disposal"
 usc_title: 40
 usc_section: "705"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "40 U.S.C. § 705"
-generated_at: "2026-03-30T05:36:44.631Z"
+generated_at: "2026-03-30T05:39:57.750Z"
 status: "active"
 ---
 

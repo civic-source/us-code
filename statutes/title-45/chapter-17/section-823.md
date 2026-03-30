@@ -3,9 +3,9 @@ title: "Section 823 - Administration of direct loans and loan guarantees"
 usc_title: 45
 usc_section: "823"
 chapter: 17
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "45 U.S.C. § 823"
-generated_at: "2026-03-30T05:37:08.863Z"
+generated_at: "2026-03-30T05:40:03.222Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(4)** the Secretary shall not be required to make any payment under paragraphs (1) through (3) if the Secretary finds, before the expiration of the periods described in such paragraphs, that the default has been remedied; and
   - **(5)** the holder of the obligation shall not receive payment or be entitled to retain payment in a total amount which, together with all other recoveries (including any recovery based upon a security interest in equipment or facilities) exceeds the actual loss of such holder.
 - **(h)**
-  - **(1)** If the Secretary makes payment to a holder, or a holder’s agent, under subsection (g) of this section in connection with a loan guarantee made under section 822 of this title , the Secretary shall be subrogated to all of the rights of the holder with respect to the obligor under the loan.
+  - **(1)** If the Secretary makes payment to a holder, or a holder’s agent, under subsection (g) in connection with a loan guarantee made under section 822 of this title , the Secretary shall be subrogated to all of the rights of the holder with respect to the obligor under the loan.
   - **(2)** The Secretary may complete, recondition, reconstruct, renovate, repair, maintain, operate, charter, rent, sell, or otherwise dispose of any property or other interests obtained pursuant to this section. The Secretary shall not be subject to any Federal or State regulatory requirements when carrying out this paragraph.
 - **(i)** The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under section 822 of this title , or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under section 822 of this title . The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
   - **(1)** the amount paid to the holder of a guarantee under subsection (g) of this section; and

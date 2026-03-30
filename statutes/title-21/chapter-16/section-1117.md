@@ -3,9 +3,9 @@ title: "Section 1117 - Repealed. Pub. L. 98–24 , § 4(b), Apr. 26, 1983 , 97 S
 usc_title: 21
 usc_section: "1117"
 chapter: 16
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 1117"
-generated_at: "2026-03-30T05:35:47.381Z"
+generated_at: "2026-03-30T05:39:23.207Z"
 status: "repealed"
 ---
 

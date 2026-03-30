@@ -3,9 +3,9 @@ title: "Section 6320 - Participation of children enrolled in private schools"
 usc_title: 20
 usc_section: "6320"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6320"
-generated_at: "2026-03-30T05:35:34.287Z"
+generated_at: "2026-03-30T05:39:05.791Z"
 status: "active"
 ---
 
@@ -33,8 +33,8 @@ status: "active"
     - **(B)** what services will be offered;
     - **(C)** how, where, and by whom the services will be provided;
     - **(D)** how the services will be academically assessed and how the results of that assessment will be used to improve those services;
-    - **(E)** the size and scope of the equitable services to be provided to the eligible private school children, the proportion of funds that is allocated under subsection (a)(4)(A) of this section for such services, and how that proportion of funds is determined;
-    - **(F)** the method or sources of data that are used under subsection (c) of this section and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
+    - **(E)** the size and scope of the equitable services to be provided to the eligible private school children, the proportion of funds that is allocated under subsection (a)(4)(A) for such services, and how that proportion of funds is determined;
+    - **(F)** the method or sources of data that are used under subsection (c) and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
     - **(G)** how and when the agency will make decisions about the delivery of services to such children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
     - **(H)** how, if the agency disagrees with the views of the private school officials on the provision of services through a contract, the local educational agency will provide in writing to such private school officials an analysis of the reasons why the local educational agency has chosen not to use a contractor;
     - **(I)** whether the agency shall provide services directly or through a separate government agency, consortium, entity, or third-party contractor;

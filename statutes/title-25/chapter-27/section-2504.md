@@ -3,9 +3,9 @@ title: "Section 2504 - Eligibility for grants"
 usc_title: 25
 usc_section: "2504"
 chapter: 27
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2504"
-generated_at: "2026-03-30T05:35:40.131Z"
+generated_at: "2026-03-30T05:39:27.406Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** was a Bureau-operated school under title XI of the Education Amendments of 1978 [ 25 U.S.C. 2000 et seq.] and has met the requirements of subsection (b);
     - **(C)** is a school for which the Bureau has not provided funds, but which has met the requirements of subsection (c); or
     - **(D)** is a school with respect to which an election has been made under paragraph (2) and which has met the requirements of subsection (b).
-  - **(2)** Any application which has been submitted under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.] by an Indian tribe for a school which is not in operation on January 8, 2002 , shall be reviewed under the guidelines and regulations for applications submitted under the Indian Self-Determination and Education Assistance Act that were in effect at the time the application was submitted, unless the Indian tribe or tribal organization elects to have the application reviewed under the provisions of subsection (b).
+  - **(2)** Any application which has been submitted under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] by an Indian tribe for a school which is not in operation on January 8, 2002 , shall be reviewed under the guidelines and regulations for applications submitted under the Indian Self-Determination and Education Assistance Act that were in effect at the time the application was submitted, unless the Indian tribe or tribal organization elects to have the application reviewed under the provisions of subsection (b).
 - **(b)**
   - **(1)** A school that was a Bureau-funded school under title XI of the Education Amendments of 1978 [ 25 U.S.C. 2000 et seq.] on January 8, 2002 , and any school with respect to which an election is made under subsection (a)(2), meets the requirements of this subsection if—
     - **(A)** the Indian tribe or tribal organization that operates, or desires to operate, the school submits to the Secretary an application requesting that the Secretary—
@@ -65,7 +65,7 @@ status: "active"
   - **(1)** Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b), or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
     - **(A)** state the objections in writing to the tribe or tribal organization within the allotted time;
     - **(B)** provide assistance to the tribe or tribal organization to overcome all stated objections;
-    - **(C)** at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.]; and
+    - **(C)** at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.]; and
     - **(D)** provide an opportunity to appeal the objection raised.
   - **(2)** The Secretary shall reconsider any amended application submitted under this chapter within 60 days after the amended application is submitted to the Secretary.
 - **(g)** The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to Congress the budget under section 1105 of title 31 .

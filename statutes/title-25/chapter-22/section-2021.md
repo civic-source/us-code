@@ -3,9 +3,9 @@ title: "Section 2021 - Definitions"
 usc_title: 25
 usc_section: "2021"
 chapter: 22
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2021"
-generated_at: "2026-03-30T05:35:40.126Z"
+generated_at: "2026-03-30T05:39:27.401Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ For the purposes of this chapter, unless otherwise specified:
     - **(C)** a school for which assistance is provided under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
   - **(4)** The term “Bureau school” means a Bureau-operated elementary or secondary day or boarding school or a Bureau-operated dormitory for students attending a school other than a Bureau school.
   - **(5)** The term “complementary educational facilities” means educational program functional spaces such as libraries, gymnasiums, and cafeterias.
-  - **(6)** The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 450f, 450h(a), or 458d of this title, or under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
+  - **(6)** The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 5321, 5322(a), or 5352 of this title, or under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
   - **(7)** The term “Director” means the Director of the Office of Indian Education Programs.
   - **(8)** The term “education line officer” means a member of the education personnel under the supervision of the Director of the Office, whether located in a central, area, or agency office.
   - **(9)** The term “family literacy services” has the meaning given that term in section 7801 of title 20 .

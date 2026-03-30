@@ -3,9 +3,9 @@ title: "Section 3441 - Transfers from Department of Health, Education, and Welfa
 usc_title: 20
 usc_section: "3441"
 chapter: 48
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 3441"
-generated_at: "2026-03-30T05:35:34.271Z"
+generated_at: "2026-03-30T05:39:05.775Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(6)** all functions of the Federal Education Data Acquisition Council.
 - **(b)** There are transferred to the Department—
   - **(1)** all offices in the Office of the Assistant Secretary for Education or in the Education Division of the Department of Health, Education, and Welfare;
-  - **(2)** all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2) of this section;
+  - **(2)** all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2);
   - **(3)** all offices in the Department of Health, Education, and Welfare established under the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.];
   - **(4)** the Advisory Council on Education Statistics;
   - **(5)** the Federal Education Data Acquisition Council; and

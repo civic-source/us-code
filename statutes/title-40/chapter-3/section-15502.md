@@ -3,9 +3,9 @@ title: "Section 15502 - Comprehensive economic and infrastructure development pl
 usc_title: 40
 usc_section: "15502"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "40 U.S.C. § 15502"
-generated_at: "2026-03-30T05:36:44.641Z"
+generated_at: "2026-03-30T05:39:57.761Z"
 status: "active"
 ---
 

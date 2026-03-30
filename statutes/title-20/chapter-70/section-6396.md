@@ -3,9 +3,9 @@ title: "Section 6396 - Comprehensive needs assessment and service-delivery plan;
 usc_title: 20
 usc_section: "6396"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6396"
-generated_at: "2026-03-30T05:35:34.290Z"
+generated_at: "2026-03-30T05:39:05.795Z"
 status: "active"
 ---
 
@@ -21,13 +21,13 @@ status: "active"
     - **(C)** provides that migratory children will have an opportunity to meet the same challenging State academic standards that all children are expected to meet;
     - **(D)** specifies measurable program goals and outcomes;
     - **(E)** encompasses the full range of services that are available for migratory children from appropriate local, State, and Federal educational programs;
-    - **(F)** is the product of joint planning among such local, State, and Federal programs, including programs under part A of this subchapter, early childhood programs, and language instruction educational programs under part A of subchapter III of this chapter; and
+    - **(F)** is the product of joint planning among such local, State, and Federal programs, including programs under part A, early childhood programs, and language instruction educational programs under part A of subchapter III; and
     - **(G)** provides for the integration of services available under this part with services provided by such other programs.
   - **(2)** Each such comprehensive State plan shall—
     - **(A)** remain in effect for the duration of the State’s participation under this part; and
     - **(B)** be periodically reviewed and revised by the State, as necessary, to reflect changes in the State’s strategies and programs under this part.
 - **(b)**
-  - **(1)** In implementing the comprehensive plan described in subsection (a) of this section, each State educational agency, where applicable through its local educational agencies, retains the flexibility to determine the activities to be provided with funds made available under this part, except that such funds first shall be used to meet the identified needs of migratory children that result from their migratory lifestyle, and to permit these children to participate effectively in school.
-  - **(2)** Funds provided under this part shall be used to address the needs of migratory children that are not addressed by services available from other Federal or non-Federal programs, except that migratory children who are eligible to receive services under part A of this subchapter may receive those services through funds provided under that part, or through funds under this part that remain after the agency addresses the needs described in paragraph (1).
+  - **(1)** In implementing the comprehensive plan described in subsection (a), each State educational agency, where applicable through its local educational agencies, retains the flexibility to determine the activities to be provided with funds made available under this part, except that such funds first shall be used to meet the identified needs of migratory children that result from their migratory lifestyle, and to permit these children to participate effectively in school.
+  - **(2)** Funds provided under this part shall be used to address the needs of migratory children that are not addressed by services available from other Federal or non-Federal programs, except that migratory children who are eligible to receive services under part A may receive those services through funds provided under that part, or through funds under this part that remain after the agency addresses the needs described in paragraph (1).
   - **(3)** Nothing in this part shall be construed to prohibit a local educational agency from serving migratory children simultaneously with students with similar educational needs in the same educational settings, where appropriate.
   - **(4)** Notwithstanding section 6314 of this title , a school that receives funds under this part shall continue to address the identified needs described in paragraph (1), and shall meet the unique educational needs of migratory children before using funds under this part for schoolwide programs under section 6314 of this title .

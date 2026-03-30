@@ -1,15 +1,13 @@
 ---
-title: "Section 951 - Authority to equalize allotments"
+title: "Section 951 - Omitted"
 usc_title: 25
 usc_section: "951"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 951"
-generated_at: "2026-03-30T05:35:40.091Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 951. Authority to equalize allotments
-
-The Secretary of the Interior (hereinafter called the “Secretary”) is authorized and directed to do whatever is necessary and proper to equalize as nearly as possible the values of all allotments of land on the Agua Caliente (Palm Springs) Reservation in California in accordance with the provisions of this subchapter.
+# § 951. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 41740 - Joint proposals"
 usc_title: 49
 usc_section: "41740"
 chapter: 417
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "49 U.S.C. § 41740"
-generated_at: "2026-03-30T05:37:48.496Z"
+generated_at: "2026-03-30T05:40:36.595Z"
 status: "active"
 ---
 

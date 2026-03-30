@@ -3,9 +3,9 @@ title: "Section 4356 - Use of certain gifts"
 usc_title: 10
 usc_section: "4356"
 chapter: 403
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 4356"
-generated_at: "2026-03-30T05:34:54.703Z"
+generated_at: "2026-03-30T05:38:26.152Z"
 status: "active"
 ---
 

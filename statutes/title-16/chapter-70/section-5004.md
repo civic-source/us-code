@@ -3,9 +3,9 @@ title: "Section 5004 - Advisory Panel"
 usc_title: 16
 usc_section: "5004"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 5004"
-generated_at: "2026-03-30T05:35:31.849Z"
+generated_at: "2026-03-30T05:38:48.598Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The Director of the Washington Department of Fisheries.
   - **(3)** One representative of the Pacific States Marine Fisheries Commission, designated by the Executive Director of that commission.
   - **(4)** Eleven members (six of whom shall be residents of the State of Alaska and five of whom shall be residents of the State of Washington), appointed by the Secretary, in consultation with the Secretary of Commerce, from among a slate of 12 persons nominated by the Governor of Alaska and a slate of 10 persons nominated by the Governor of Washington.
-- **(b)** Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4) of this section, the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
-- **(c)** Any person appointed to the Advisory Panel pursuant to subsection (a)(4) of this section shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
+- **(b)** Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4), the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
+- **(c)** Any person appointed to the Advisory Panel pursuant to subsection (a)(4) shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
 - **(d)** The Advisory Panel shall be invited to all nonexecutive meetings of the United States Section and at such meetings shall be granted the opportunity to examine and to be heard on all proposed programs of study and investigation, reports, and recommendations of the United States Section.
 - **(e)** The members of the Advisory Panel shall receive no compensation or travel expenses for their services as such members.

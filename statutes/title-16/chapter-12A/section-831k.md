@@ -3,9 +3,9 @@ title: "Section 831k - Transmission lines; construction or lease; sale of power 
 usc_title: 16
 usc_section: "831k"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 831k"
-generated_at: "2026-03-30T05:35:31.767Z"
+generated_at: "2026-03-30T05:38:48.519Z"
 status: "active"
 ---
 

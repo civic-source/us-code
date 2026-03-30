@@ -3,9 +3,9 @@ title: "Section 207 - Restrictions on former officers, employees, and elected of
 usc_title: 18
 usc_section: "207"
 chapter: 11
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "18 U.S.C. § 207"
-generated_at: "2026-03-30T05:35:35.740Z"
+generated_at: "2026-03-30T05:39:07.807Z"
 status: "active"
 ---
 
@@ -109,7 +109,7 @@ status: "active"
 - **(j)**
   - **(1)**
     - **(A)** The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
-    - **(B)** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450i(j) ).
+    - **(B)** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450i(j) ). 1
   - **(2)** The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
     - **(A)** an agency or instrumentality of a State or local government if the appearance, communication, or representation is on behalf of such government, or
     - **(B)** an accredited, degree-granting institution of higher education, as defined in section 101 of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.

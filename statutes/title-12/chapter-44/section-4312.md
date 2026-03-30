@@ -3,9 +3,9 @@ title: "Section 4312 - Effect on State law"
 usc_title: 12
 usc_section: "4312"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "12 U.S.C. § 4312"
-generated_at: "2026-03-30T05:35:12.340Z"
+generated_at: "2026-03-30T05:38:38.249Z"
 status: "active"
 ---
 

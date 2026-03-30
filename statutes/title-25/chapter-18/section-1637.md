@@ -3,19 +3,19 @@ title: "Section 1637 - Indian health care delivery demonstration projects"
 usc_title: 25
 usc_section: "1637"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1637"
-generated_at: "2026-03-30T05:35:40.107Z"
+generated_at: "2026-03-30T05:39:27.390Z"
 status: "active"
 ---
 
 # § 1637. Indian health care delivery demonstration projects
 
 - **(a)**
-  - **(1)** The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination 1 1 So in original. Probably should be “Self-Determination”. and Education Assistance Act ( 25 U.S.C. 450 et seq.)—
+  - **(1)** The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination 1 1 So in original. Probably should be “Self-Determination”. and Education Assistance Act ( 25 U.S.C. 450 et seq.)— 2 2 See References in Text note below.
     - **(A)** to test alternative means of delivering health care and services to Indians through facilities; or
     - **(B)** to use alternative or innovative methods or models of delivering health care services to Indians (including primary care services, contract health services, or any other program or service authorized by this chapter) through convenient care services (as defined in subsection (c)), community health centers, or cooperative agreements or arrangements with other health care providers that share or coordinate the use of facilities, funding, or other resources, or otherwise coordinate or improve the coordination of activities of the Service, Indian tribes, or tribal organizations, with those of the other health care providers.
-  - **(2)** The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
+  - **(2)** The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 2 with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
     - **(A)** test alternative means of delivering health care and services to Indians through facilities; or
     - **(B)** otherwise carry out the purposes of this section.
 - **(b)** The Secretary, in approving projects pursuant to this section—
@@ -46,7 +46,7 @@ status: "active"
       - **(iv)** Schurz, Nevada.
       - **(v)** Ft. Yuma, California.
   - **(3)**
-    - **(A)** On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated 2 2 So in original. Probably should be “innovative”. methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care, health promotion, or disease prevention services and programs under this chapter.
+    - **(A)** On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated 3 3 So in original. Probably should be “innovative”. methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care, health promotion, or disease prevention services and programs under this chapter.
     - **(B)** In addition to projects described in paragraph (2), in any fiscal year, the Secretary is authorized under this paragraph to approve not more than 10 applications for health care delivery demonstration projects that meet the criteria described in subparagraph (C).
     - **(C)** The Secretary shall approve under subparagraph (B) demonstration projects that meet all of the following criteria:
       - **(i)** The criteria set forth in paragraph (2)(A).
@@ -56,5 +56,5 @@ status: "active"
         - **(II)** reduces—
 - **(d)** On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization, the Secretary shall provide such technical and other assistance as may be necessary to enable applicants to comply with this section, including information regarding the Service unit budget and available funding for carrying out the proposed demonstration project.
 - **(e)** Subject to section 1680c of this title , the authority to provide services to persons otherwise ineligible for the health care benefits of the Service, and the authority to extend hospital privileges in Service facilities to non-Service health practitioners as provided in section 1680c of this title , may be included, subject to the terms of that section, in any demonstration project approved pursuant to this section.
-- **(f)** For purposes of subsection (c), the Secretary, in evaluating facilities operated under any contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), shall use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
-- **(g)** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
+- **(f)** For purposes of subsection (c), the Secretary, in evaluating facilities operated under any contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 2 shall use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
+- **(g)** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 2 for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.

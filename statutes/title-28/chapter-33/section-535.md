@@ -3,9 +3,9 @@ title: "Section 535 - Investigation of crimes involving Government officers and 
 usc_title: 28
 usc_section: "535"
 chapter: 33
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "28 U.S.C. § 535"
-generated_at: "2026-03-30T05:36:01.988Z"
+generated_at: "2026-03-30T05:39:37.925Z"
 status: "active"
 ---
 

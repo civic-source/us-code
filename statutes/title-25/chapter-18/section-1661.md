@@ -3,9 +3,9 @@ title: "Section 1661 - Establishment of the Indian Health Service as an agency o
 usc_title: 25
 usc_section: "1661"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1661"
-generated_at: "2026-03-30T05:35:40.109Z"
+generated_at: "2026-03-30T05:39:27.392Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(B)** section 13 of this title ;
     - **(C)** the Act of August 5, 1954 ( 42 U.S.C. 2001 et seq.);
     - **(D)** the Act of August 16, 1957 ( 42 U.S.C. 2005 et seq.); and
-    - **(E)** the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.);
+    - **(E)** the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.); 1 1 See References in Text note below.
   - **(4)** administer all scholarship and loan functions carried out under subchapter I;
   - **(5)** directly advise the Secretary concerning the development of all policy- and budget-related matters affecting Indian health;
   - **(6)** collaborate with the Assistant Secretary for Health concerning appropriate matters of Indian health that affect the agencies of the Public Health Service;
@@ -40,4 +40,4 @@ status: "active"
     - **(A)** except to the extent provided for in paragraph (2), to appoint and compensate employees for the Service in accordance with title 5;
     - **(B)** to enter into contracts for the procurement of goods and services to carry out the functions of the Service; and
     - **(C)** to manage, expend, and obligate all funds appropriated for the Service.
-  - **(2)** Notwithstanding any other provision of law, the provisions of section 472 of this title , 1 1 So in original. The comma probably should not appear. shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
+  - **(2)** Notwithstanding any other provision of law, the provisions of section 5116 of this title , 2 2 So in original. The comma probably should not appear. shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).

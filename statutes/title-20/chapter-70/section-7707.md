@@ -3,9 +3,9 @@ title: "Section 7707 - Construction"
 usc_title: 20
 usc_section: "7707"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7707"
-generated_at: "2026-03-30T05:35:34.305Z"
+generated_at: "2026-03-30T05:39:05.811Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
         - **(I)** has no practical capacity to issue bonds;
         - **(II)** has minimal capacity to issue bonds and is at not less than 75 percent of the agency’s limit of bonded indebtedness; or
         - **(III)** does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
-      - **(ii)** the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
+      - **(ii)** the agency is eligible to receive assistance under subsection (a) for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
     - **(B)** A local educational agency is eligible to receive a modernization grant under paragraph (2)(C) if—
       - **(i)** the agency is eligible to receive assistance under this subchapter for the fiscal year;
       - **(ii)** the agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency’s fiscal agent) meets the requirements of subclause (I), (II), or (III) of subparagraph (A)(i); and
@@ -68,7 +68,7 @@ status: "active"
       - **(i)** the agency’s level of bonded indebtedness;
       - **(ii)** the assessed value of real property per student that may be taxed for school purposes compared to the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the agency is located;
       - **(iii)** the agency’s total tax rate for school purposes (or, if applicable, for capital expenditures) compared to the average total tax rate for school purposes (or the average capital expenditure tax rate, if applicable) in the State in which the agency is located; and
-      - **(iv)** funds that are available to the agency, from any other source, including subsection (a) of this section, that may be used for capital expenditures.
+      - **(iv)** funds that are available to the agency, from any other source, including subsection (a), that may be used for capital expenditures.
     - **(B)** The percentage of property in the agency that is nontaxable due to the presence of the Federal Government.
     - **(C)** The number and percentages of children described in subparagraphs (A), (B), (C), and (D) of section 7703(a)(1) of this title served in the school facility with the emergency or served in the school facility proposed for modernization, as the case may be.
     - **(D)** In the case of an emergency grant, the severity of the emergency, as measured by the threat that the condition of the school facility poses to the health, safety, and well-being of students.

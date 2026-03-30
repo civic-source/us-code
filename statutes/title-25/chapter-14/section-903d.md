@@ -1,18 +1,13 @@
 ---
-title: "Section 903d - Transfer of assets of Menominee Enterprises, Inc."
+title: "Section 903d - Omitted"
 usc_title: 25
 usc_section: "903d"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 903d"
-generated_at: "2026-03-30T05:35:40.090Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 903d. Transfer of assets of Menominee Enterprises, Inc.
+# § 903d. Omitted
 
-- **(a)** The Secretary shall negotiate with the elected members of the Menominee Common Stock and Voting Trust and the Board of Directors of Menominee Enterprises, Incorporated, or their authorized representatives, to develop a plan for the assumption of the assets of the corporation. The Secretary shall submit such plan to the Congress within one year from December 22, 1973 .
-- **(b)** If neither House of Congress shall have passed a resolution of disapproval of the plan within sixty days of the date the plan is submitted to Congress, the Secretary shall, subject to the terms and conditions of the plan negotiated pursuant to subsection (a) of this section, accept the assets (excluding any real property not located in or adjacent to the territory, constituting, on December 22, 1973 , the county of Menominee, Wisconsin) of Menominee Enterprises, Incorporated, but only if transferred to him by the Board of Directors of Menominee Enterprises, Incorporated, subject to the approval of the shareholders as required by the laws of Wisconsin. Such assets shall be subject to all valid existing rights, including, but not limited to, liens, outstanding taxes (local, State, and Federal), mortgages, outstanding corporate indebtedness of all types, and any other obligation. The land and other assets transferred to the Secretary pursuant to this subsection shall be subject to foreclosure or sale pursuant to the terms of any valid existing obligation in accordance with the laws of the State of Wisconsin. Subject to the conditions imposed by this section, the land transferred shall be taken in the name of the United States in trust for the tribe and shall be their reservation. The transfer of assets authorized by this section shall be exempt from all local, State, and Federal taxation. All assets transferred under this section shall, as of the date of transfer, be exempt from all local, State, and Federal taxation.
-- **(c)** The Secretary shall accept the real property (excluding any real property not located in or adjacent to the territory constituting, on December 22, 1973 , the county of Menominee, Wisconsin) of members of the Menominee Tribe, but only if transferred to him by the Menominee owner or owners. Such property shall be subject to all valid existing rights including, but not limited to, liens, outstanding taxes (local, State, and Federal), mortgages, and any other obligations. The land transferred to the Secretary pursuant to this subsection shall be subject to foreclosure or sale pursuant to the terms of any valid existing obligation in accordance with the laws of the State of Wisconsin. Subject to the conditions imposed by this subsection, the land transferred shall be taken in the name of the United States in trust for the Menominee Tribe of Wisconsin and shall be part of their reservation. The transfer of assets authorized by this section shall be exempt from all local, State, and Federal taxation. All assets transferred under this section shall, as of the date of transfer, be exempt from all local, State, and Federal taxation.
-- **(d)** The Secretary and the Menominee Restoration Committee shall consult with appropriate State and local government officials to assure that the provision of necessary governmental services is not impaired as a result of the transfer of assets provided for in this section.
-- **(e)** For the purpose of implementing subsection (d), the State of Wisconsin may establish such local government bodies, political subdivisions, and service arrangements as will best provide the State or local government services required by the people in the territory constituting, on December 22, 1973 , the county of Menominee.

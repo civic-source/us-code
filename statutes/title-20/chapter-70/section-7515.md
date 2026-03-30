@@ -3,9 +3,9 @@ title: "Section 7515 - Program authorized"
 usc_title: 20
 usc_section: "7515"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7515"
-generated_at: "2026-03-30T05:35:34.303Z"
+generated_at: "2026-03-30T05:39:05.808Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
     - **(J)** research and data collection activities to determine the educational status and needs of Native Hawaiian children and adults;
     - **(K)** other research and evaluation activities related to programs carried out under this part; and
     - **(L)** other activities, consistent with the purposes of this part, to meet the educational needs of Native Hawaiian children and adults.
-- **(b)** Not more than 5 percent of funds provided to a recipient of a grant or contract under subsection (a) of this section for any fiscal year may be used for administrative purposes.
+- **(b)** Not more than 5 percent of funds provided to a recipient of a grant or contract under subsection (a) for any fiscal year may be used for administrative purposes.
 - **(c)**
   - **(1)** There are authorized to be appropriated to carry out this section and section 7514 of this title $32,397,000 for each of fiscal years 2017 through 2020.
   - **(2)** Of the funds appropriated under this subsection, the Secretary shall reserve $500,000 for each of fiscal years 2017 through 2020 to make a direct grant to the Education Council to carry out section 7514 of this title .

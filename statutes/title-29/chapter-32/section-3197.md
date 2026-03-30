@@ -3,9 +3,9 @@ title: "Section 3197 - Job Corps centers"
 usc_title: 29
 usc_section: "3197"
 chapter: 32
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 3197"
-generated_at: "2026-03-30T05:35:57.187Z"
+generated_at: "2026-03-30T05:39:32.244Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
   - **(3)** The Secretary of Agriculture shall designate a Job Corps National Liaison to support the agreement under this section between the Departments of Labor and Agriculture.
 - **(e)**
   - **(1)** The Secretary may enter into agreements with Indian tribes to operate Job Corps centers for Indians.
-  - **(2)** In this subsection, the terms “Indian” and “Indian tribe” have the meanings given such terms in subsections (d) and (e), respectively, of section 450b of title 25 .
+  - **(2)** In this subsection, the terms “Indian” and “Indian tribe” have the meanings given such terms in subsections (d) and (e), respectively, of section 5304 of title 25 .
 - **(f)** The agreement described in subsection (a)(1)(A) shall be for not more than a 2-year period. The Secretary may exercise any contractual option to renew the agreement in 1-year increments for not more than 3 additional years, consistent with the requirements of subsection (g).
 - **(g)**
   - **(1)** Subject to paragraph (2), the Secretary shall not renew the terms of an agreement for any 1-year additional period described in subsection (f) for an entity to operate a particular Job Corps center if, for both of the 2 most recent preceding program years for which information is available at the time the determination is made, or if a second program year is not available, the preceding year for which information is available, such center—

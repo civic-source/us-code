@@ -3,16 +3,16 @@ title: "Section 1018 - Performance-Based Organization for delivery of Federal st
 usc_title: 20
 usc_section: "1018"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1018"
-generated_at: "2026-03-30T05:35:34.200Z"
+generated_at: "2026-03-30T05:39:05.700Z"
 status: "active"
 ---
 
 # § 1018. Performance-Based Organization for delivery of Federal student financial assistance
 
 - **(a)**
-  - **(1)** There is established in the Department a Performance-Based Organization (hereafter referred to as the “PBO”) which shall be a discrete management unit responsible for managing the administrative and oversight functions supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as specified in subsection (b) of this section.
+  - **(1)** There is established in the Department a Performance-Based Organization (hereafter referred to as the “PBO”) which shall be a discrete management unit responsible for managing the administrative and oversight functions supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, as specified in subsection (b).
   - **(2)** The purposes of the PBO are—
     - **(A)** to improve service to students and other participants in the student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents;
     - **(B)** to reduce the costs of administering those programs;
@@ -41,8 +41,8 @@ status: "active"
   - **(4)** Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
   - **(5)** The PBO shall be subject to the usual and customary Federal audit procedures and to review by the Inspector General of the Department.
   - **(6)**
-    - **(A)** The Secretary and the Chief Operating Officer shall consult concerning the effects of policy, market, or other changes on the ability of the PBO to achieve the goals and objectives established in the performance plan described in subsection (c) of this section.
-    - **(B)** The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) of this section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
+    - **(A)** The Secretary and the Chief Operating Officer shall consult concerning the effects of policy, market, or other changes on the ability of the PBO to achieve the goals and objectives established in the performance plan described in subsection (c).
+    - **(B)** The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
 - **(c)**
   - **(1)**
     - **(A)** Each year, the Secretary and Chief Operating Officer shall agree on, and make available to the public, a performance plan for the PBO for the succeeding 5 years that establishes measurable goals and objectives for the organization.
@@ -57,7 +57,7 @@ status: "active"
     - **(A)** An independent financial audit of the expenditures of both the PBO and the programs administered by the PBO.
     - **(B)** Financial and performance requirements applicable to the PBO under the Chief Financial Officers Act of 1990 and the Government Performance and Results Act of 1993.
     - **(C)** The results achieved by the PBO during the year relative to the goals established in the organization’s performance plan.
-    - **(D)** The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2) of this section, including the amounts of bonus compensation awarded to these individuals.
+    - **(D)** The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2), including the amounts of bonus compensation awarded to these individuals.
     - **(E)** Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
     - **(F)** Other such information as the Director of the Office of Management and Budget shall prescribe for performance based organizations.
   - **(3)** The Chief Operating Officer, in preparing the report described in paragraph (2), shall establish appropriate means to consult with students, borrowers, institutions, lenders, guaranty agencies, secondary markets, and others involved in the delivery system of student aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42—
@@ -94,7 +94,7 @@ status: "active"
   - **(3)** The Ombudsman shall—
     - **(A)** in accordance with regulations of the Secretary, receive, review, and attempt to resolve informally complaints from borrowers of loans described in paragraph (1), including, as appropriate, attempts to resolve such complaints within the Department of Education and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in the loan programs described in paragraph (1); and
     - **(B)** compile and analyze data on borrower complaints and make appropriate recommendations.
-  - **(4)** Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
+  - **(4)** Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2), that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
 - **(g)**
   - **(1)** The PBO shall not be subject to any ceiling relating to the number or grade of employees.
   - **(2)** The Chief Operating Officer shall work with the Office of Personnel Management to develop and implement personnel flexibilities in staffing, classification, and pay that meet the needs of the PBO, subject to compliance with title 5.

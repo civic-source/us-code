@@ -3,9 +3,9 @@ title: "Section 1725a - Direct hire authority"
 usc_title: 16
 usc_section: "1725a"
 chapter: 37
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 1725a"
-generated_at: "2026-03-30T05:35:31.806Z"
+generated_at: "2026-03-30T05:38:48.557Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 1708 - Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act"
+title: "Section 1708 - Omitted"
 usc_title: 25
 usc_section: "1708"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1708"
-generated_at: "2026-03-30T05:35:40.113Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.395Z"
+status: "omitted"
 ---
 
-# § 1708. Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act
+# § 1708. Omitted
 
-- **(a)** Except as otherwise provided in this subchapter, the settlement lands shall be subject to the civil and criminal laws and jurisdiction of the State of Rhode Island.
-- **(b)** For purposes of the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.), settlement lands shall not be treated as Indian lands.

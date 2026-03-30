@@ -1,15 +1,13 @@
 ---
-title: "Section 1041d - Organization of the Tribe; tribal constitution"
+title: "Section 1041d - Omitted"
 usc_title: 25
 usc_section: "1041d"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1041d"
-generated_at: "2026-03-30T05:35:40.093Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1041d. Organization of the Tribe; tribal constitution
+# § 1041d. Omitted
 
-- **(a)** The existing constitution and bylaws of the Cherokee Shawnee and the officers and members of the Shawnee Tribal Business Committee, as constituted on December 27, 2000 , are hereby recognized respectively as the governing documents and governing body of the Tribe.
-- **(b)** Notwithstanding subsection (a), the Tribe shall have a right to reorganize its tribal government pursuant to section 503 of this title .

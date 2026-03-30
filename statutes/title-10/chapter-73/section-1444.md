@@ -3,9 +3,9 @@ title: "Section 1444 - Regulations; determinations"
 usc_title: 10
 usc_section: "1444"
 chapter: 73
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 1444"
-generated_at: "2026-03-30T05:34:54.642Z"
+generated_at: "2026-03-30T05:38:26.097Z"
 status: "active"
 ---
 

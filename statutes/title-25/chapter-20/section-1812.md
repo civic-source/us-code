@@ -3,9 +3,9 @@ title: "Section 1812 - Report on facilities"
 usc_title: 25
 usc_section: "1812"
 chapter: 20
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1812"
-generated_at: "2026-03-30T05:35:40.121Z"
+generated_at: "2026-03-30T05:39:27.396Z"
 status: "active"
 ---
 
@@ -13,12 +13,12 @@ status: "active"
 
 - **(a)** The Secretary shall provide for the conduct of a study of facilities available for use by tribally controlled colleges or universities. Such study shall consider the condition of currently existing Bureau of Indian Affairs facilities which are vacant or underutilized and shall consider available alternatives for renovation, alteration, repair, and reconstruction of such facilities (including renovation, alteration, repair, and reconstruction necessary to bring such facilities into compliance with local building codes). Such study shall also identify the need for new construction. A report on the results of such study shall be submitted to the Congress not later than eighteen months after September 30, 1986 . Such report shall also include an identification of property—
   - **(1)** on which structurally sound buildings suitable for use as educational facilities are located, and
-  - **(2)** which is available for use by tribally controlled colleges or universities under section 523 of title 40 and section 443a of this title .
+  - **(2)** which is available for use by tribally controlled colleges or universities under section 523 of title 40 and under the Act of August 6, 1956 ( 70 Stat. 1057 ; 25 U.S.C. 443a ). 1 1 See References in Text note below.
 - **(b)** The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations, repairs, and reconstruction identified pursuant to subsection (a) of this section.
 - **(c)**
-  - **(1)** The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act [ 25 U.S.C. 640a et seq.].
+  - **(1)** The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act.
   - **(2)** An organization described in this section is any organization that—
-    - **(A)** is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.]; and
+    - **(A)** is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.]; and
     - **(B)** has demonstrated expertise in areas and issues dealing with tribally controlled colleges or universities.
   - **(3)** The Secretary shall include the priority list established pursuant to this subsection in the budget submitted annually to the Congress.
-- **(d)** For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) 1 1 See References in Text note below. of title 20.
+- **(d)** For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) 1 of title 20.

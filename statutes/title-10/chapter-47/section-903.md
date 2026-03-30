@@ -3,9 +3,9 @@ title: "Section 903 - Art. 103. Captured or abandoned property"
 usc_title: 10
 usc_section: "903"
 chapter: 47
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 903"
-generated_at: "2026-03-30T05:34:54.619Z"
+generated_at: "2026-03-30T05:38:26.073Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4226 - Environmental review"
 usc_title: 25
 usc_section: "4226"
 chapter: 43
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 4226"
-generated_at: "2026-03-30T05:35:40.146Z"
+generated_at: "2026-03-30T05:39:27.420Z"
 status: "active"
 ---
 

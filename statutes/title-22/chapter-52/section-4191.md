@@ -3,9 +3,9 @@ title: "Section 4191 - General application of provisions to consular officers"
 usc_title: 22
 usc_section: "4191"
 chapter: 52
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "22 U.S.C. § 4191"
-generated_at: "2026-03-30T05:35:53.522Z"
+generated_at: "2026-03-30T05:39:13.274Z"
 status: "active"
 ---
 

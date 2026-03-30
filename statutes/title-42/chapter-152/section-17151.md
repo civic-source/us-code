@@ -3,9 +3,9 @@ title: "Section 17151 - Definitions"
 usc_title: 42
 usc_section: "17151"
 chapter: 152
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 17151"
-generated_at: "2026-03-30T05:37:41.692Z"
+generated_at: "2026-03-30T05:40:26.389Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ In this part:
     - **(B)** The term “eligible unit of local government-alternative 2” means—
       - **(i)** a city with a population of at least 50,000; or
       - **(ii)** a county with a population of at least 200,000.
-  - **(4)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(4)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(5)** The term “program” means the Energy Efficiency and Conservation Block Grant Program established under section 17152(a) of this title .
   - **(6)** The term “State” means—
     - **(A)** a State;

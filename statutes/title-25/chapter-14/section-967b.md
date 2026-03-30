@@ -1,15 +1,13 @@
 ---
-title: "Section 967b - Payments to minors and persons under legal disability; shares under certain amount to revert to tribe"
+title: "Section 967b - Omitted"
 usc_title: 25
 usc_section: "967b"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 967b"
-generated_at: "2026-03-30T05:35:40.092Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 967b. Payments to minors and persons under legal disability; shares under certain amount to revert to tribe
-
-Sums payable to persons or to their heirs or legatees who are less than twenty-one years of age or who are under a legal disability shall be paid in accordance with such procedures as the Secretary, after consultation with the tribal governing body, determines will adequately protect their best interests. Proportional shares of heirs or legatees amounting to $5 or less shall not be distributed and such amounts shall escheat to the Omaha Tribe of Nebraska.
+# § 967b. Omitted
 

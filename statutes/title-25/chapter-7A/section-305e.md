@@ -3,9 +3,9 @@ title: "Section 305e - Cause of action for misrepresentation of Indian produced 
 usc_title: 25
 usc_section: "305e"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 305e"
-generated_at: "2026-03-30T05:35:40.061Z"
+generated_at: "2026-03-30T05:39:27.374Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** is certified as an Indian artisan by an Indian tribe.
   - **(2)** The term “Indian product” has the meaning given the term in any regulation promulgated by the Secretary.
   - **(3)**
-    - **(A)** The term “Indian tribe” has the meaning given the term in section 450b of this title .
+    - **(A)** The term “Indian tribe” has the meaning given the term in section 5304 of this title .
     - **(B)** The term “Indian tribe” includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
       - **(i)** a State legislature;
       - **(ii)** a State commission; or

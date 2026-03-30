@@ -3,9 +3,9 @@ title: "Section 1131 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1131"
 chapter: 22
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1131"
-generated_at: "2026-03-30T05:36:42.525Z"
+generated_at: "2026-03-30T05:39:52.661Z"
 status: "active"
 ---
 
@@ -28,8 +28,8 @@ status: "active"
   - **(1)** There may not be used for administration of programs under this subchapter in a fiscal year more than 5 percent of the lesser of—
     - **(A)** the amount authorized to be appropriated under this subchapter for the fiscal year; or
     - **(B)** the amount appropriated under this subchapter for the fiscal year.
-  - **(2)** Sums appropriated under the authority of subsection (a)(2) of this section shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
-- **(c)** In any fiscal year in which the appropriations made under subsection (a)(1) of this section exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
+  - **(2)** Sums appropriated under the authority of subsection (a)(2) shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
+- **(c)** In any fiscal year in which the appropriations made under subsection (a)(1) exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
   - **(1)** sea grant programs, according to their performance assessments;
   - **(2)** regional or national strategic investments authorized under section 1123(b)(4) of this title ;
   - **(3)** a college, university, institution, association, or alliance for activities that are necessary for it to be designated as a sea grant college or sea grant institute; and

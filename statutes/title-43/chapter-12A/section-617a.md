@@ -3,9 +3,9 @@ title: "Section 617a - “Colorado River Dam Fund”"
 usc_title: 43
 usc_section: "617a"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 617a"
-generated_at: "2026-03-30T05:37:11.815Z"
+generated_at: "2026-03-30T05:40:01.195Z"
 status: "active"
 ---
 

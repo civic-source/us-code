@@ -3,9 +3,9 @@ title: "Section 2198 - Management training program in Japanese language and cult
 usc_title: 10
 usc_section: "2198"
 chapter: 111
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2198"
-generated_at: "2026-03-30T05:34:54.659Z"
+generated_at: "2026-03-30T05:38:26.112Z"
 status: "active"
 ---
 

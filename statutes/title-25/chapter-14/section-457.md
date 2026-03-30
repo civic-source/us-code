@@ -1,15 +1,13 @@
 ---
-title: "Section 457 - Reimbursement to school districts for educating non-resident students"
+title: "Section 457 - Transferred"
 usc_title: 25
 usc_section: "457"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 457"
-generated_at: "2026-03-30T05:35:40.070Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.380Z"
+status: "transferred"
 ---
 
-# § 457. Reimbursement to school districts for educating non-resident students
-
-Any school district educating Indian students who are members of recognized Indian tribes, who do not normally reside in the State in which such school district is located, and who are residing in Federal boarding facilities for the purposes of attending public schools within such district may, in the discretion of the Secretary of the Interior, be reimbursed by him for the full per capita costs of educating such Indian students.
+# § 457. Transferred
 

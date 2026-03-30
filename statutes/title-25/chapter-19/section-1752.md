@@ -1,26 +1,13 @@
 ---
-title: "Section 1752 - Definitions"
+title: "Section 1752 - Omitted"
 usc_title: 25
 usc_section: "1752"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1752"
-generated_at: "2026-03-30T05:35:40.114Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1752. Definitions
+# § 1752. Omitted
 
-For the purposes of this subchapter—
-
-  - **(1)** The term “Tribe” means the Mashantucket Pequot Tribe (also known as the Western Pequot Tribe) as identified by chapter 832 of the Connecticut General Statutes and all its predecessors and successors in interest. The Mashantucket Pequot Tribe is represented, as of October 18, 1983 , by the Mashantucket Pequot Tribal Council.
-  - **(2)** The term “land or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including without limitation minerals and mineral rights, timber and timber rights, water and water rights, and hunting and fishing rights.
-  - **(3)** The term “private settlement lands” means—
-    - **(A)** the eight hundred acres, more or less, of privately held land which are identified by a red outline on a map filed with the secretary of the State of Connecticut in accordance with the agreement referred to in section 1751(d) of this title , and
-    - **(B)** the lands known as the Cedar Swamp which are adjacent to the Mashantucket Pequot Reservation as it exists on October 18, 1983 . Within thirty days of October 18, 1983 , the secretary of the State of Connecticut shall transmit to the Secretary a certified copy of said map.
-  - **(4)** The term “settlement lands” means—
-    - **(A)** the lands described in sections 2(a) and 3 of the Act To Implement the Settlement of the Mashantucket Pequot Indian Land Claims as enacted by the State of Connecticut and approved on June 9, 1982 , and
-    - **(B)** the private settlement lands.
-  - **(5)** The term “Secretary” means the Secretary of the Interior.
-  - **(6)** The term “transfer” means any transaction involving, or any transaction the purpose of which was to effect, a change in title to or control of any land or natural resources, and any act, event, or circumstance that resulted in a change in title to, possession of, dominion over, or control of land or natural resources, including any sale, grant, lease, allotment, partition, or conveyance, whether pursuant to a treaty, compact, or statute of a State or otherwise.
-  - **(7)** The term “reservation” means the existing reservation of the Tribe as defined by chapter 824 of the Connecticut General Statutes and any settlement lands taken in trust by the United States for the Tribe.

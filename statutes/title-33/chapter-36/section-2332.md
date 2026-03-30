@@ -3,9 +3,9 @@ title: "Section 2332 - Flood mitigation and riverine restoration program"
 usc_title: 33
 usc_section: "2332"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2332"
-generated_at: "2026-03-30T05:36:42.558Z"
+generated_at: "2026-03-30T05:39:52.693Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Secretary may undertake a program for the purpose of conducting projects to reduce flood hazards and restore the natural functions and values of rivers throughout the United States.
 - **(b)**
-  - **(1)** In carrying out the program, the Secretary may conduct studies to identify appropriate flood damage reduction, conservation, and restoration measures and may design and implement projects described in subsection (a) of this section.
+  - **(1)** In carrying out the program, the Secretary may conduct studies to identify appropriate flood damage reduction, conservation, and restoration measures and may design and implement projects described in subsection (a).
   - **(2)** The studies and projects carried out under this section shall be conducted, to the maximum extent practicable, in consultation and coordination with the Federal Emergency Management Agency and other appropriate Federal agencies, and in consultation and coordination with appropriate State and local agencies and tribes.
   - **(3)** The studies and projects shall emphasize, to the maximum extent practicable and appropriate, nonstructural approaches to preventing or reducing flood damages.
   - **(4)** The studies and projects shall be conducted, to the maximum extent practicable, in cooperation with State and local agencies and tribes to ensure the coordination of local flood damage reduction or riverine and wetland restoration studies with projects that conserve, restore, and manage hydrologic and hydraulic regimes and restore the natural functions and values of floodplains.
@@ -75,7 +75,7 @@ status: "active"
 - **(g)** Not more than $30,000,000 may be expended by the United States on any single project under this section.
 - **(h)**
   - **(1)** The Secretary shall not implement any project under this section until—
-    - **(A)** the Secretary submits to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification describing the project and the determinations made under subsection (d)(1) of this section; and
+    - **(A)** the Secretary submits to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification describing the project and the determinations made under subsection (d)(1); and
     - **(B)** 21 calendar days have elapsed after the date on which the notification was received by the committees.
   - **(2)**
     - **(A)** No appropriation shall be made to construct any project under this section the total Federal cost of construction of which exceeds $15,000,000 if the project has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.

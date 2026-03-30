@@ -3,9 +3,9 @@ title: "Section 4101 - Electronic directory; online access to publications; elec
 usc_title: 44
 usc_section: "4101"
 chapter: 41
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "44 U.S.C. § 4101"
-generated_at: "2026-03-30T05:37:09.809Z"
+generated_at: "2026-03-30T05:40:07.143Z"
 status: "active"
 ---
 

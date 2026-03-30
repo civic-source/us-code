@@ -3,9 +3,9 @@ title: "Section 1632 - Safe water and sanitary waste disposal facilities"
 usc_title: 25
 usc_section: "1632"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1632"
-generated_at: "2026-03-30T05:35:40.106Z"
+generated_at: "2026-03-30T05:39:27.389Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(1)** The Secretary is authorized to provide financial assistance to Indian tribes and communities in an amount equal to the Federal share of the costs of operating, managing, and maintaining the facilities provided under the plan described in subsection (c).
   - **(2)** For the purposes of paragraph (1), the term “Federal share” means 80 percent of the costs described in paragraph (1).
   - **(3)** With respect to Indian tribes with fewer than 1,000 enrolled members, the non-Federal portion of the costs of operating, managing, and maintaining such facilities may be provided, in part, through cash donations or in kind property, fairly evaluated.
-- **(f)** Programs administered by Indian tribes or tribal organizations under the authority of the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] shall be eligible for—
+- **(f)** Programs administered by Indian tribes or tribal organizations under the authority of the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] shall be eligible for—
   - **(1)** any funds appropriated pursuant to this section, and
   - **(2)** any funds appropriated for the purpose of providing water supply or sewage disposal services,
 - **(g)**
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** the level of sanitation deficiency for each sanitation facilities project of each Indian tribe or community;
     - **(D)** the amount of funds necessary to raise all Indian tribes and communities to a level I sanitation deficiency; and
     - **(E)** the amount of funds necessary to raise all Indian tribes and communities to zero sanitation deficiency.
-  - **(2)** In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]) to determine the sanitation needs of each tribe.
+  - **(2)** In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.]) to determine the sanitation needs of each tribe.
   - **(3)** The methodology used by the Secretary in determining sanitation deficiencies for purposes of paragraph (1) shall be applied uniformly to all Indian tribes and communities.
   - **(4)** For purposes of this subsection, the sanitation deficiency levels for an Indian tribe or community are as follows:
     - **(A)** level I is an Indian tribe or community with a sanitation system—

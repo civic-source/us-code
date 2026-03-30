@@ -3,9 +3,9 @@ title: "Section 4338 - Civilian faculty: number; compensation"
 usc_title: 10
 usc_section: "4338"
 chapter: 403
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 4338"
-generated_at: "2026-03-30T05:34:54.702Z"
+generated_at: "2026-03-30T05:38:26.151Z"
 status: "active"
 ---
 

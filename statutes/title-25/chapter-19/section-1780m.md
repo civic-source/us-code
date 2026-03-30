@@ -1,15 +1,13 @@
 ---
-title: "Section 1780m - Rule of construction and judicial review"
+title: "Section 1780m - Omitted"
 usc_title: 25
 usc_section: "1780m"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1780m"
-generated_at: "2026-03-30T05:35:40.120Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1780m. Rule of construction and judicial review
-
-Notwithstanding any provision of State law, the Settlement Agreement and the Los Alamos Agreement (including any real property conveyance under the agreements) shall be interpreted and implemented as matters of Federal law.
+# § 1780m. Omitted
 

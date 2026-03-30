@@ -3,9 +3,9 @@ title: "Section 6307f - Required disclosures for judges and referees"
 usc_title: 15
 usc_section: "6307f"
 chapter: 89
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "15 U.S.C. § 6307f"
-generated_at: "2026-03-30T05:35:25.202Z"
+generated_at: "2026-03-30T05:38:36.483Z"
 status: "active"
 ---
 

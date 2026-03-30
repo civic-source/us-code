@@ -1,15 +1,13 @@
 ---
-title: "Section 1195 - Disposition of funds withheld from per capita distribution"
+title: "Section 1195 - Omitted"
 usc_title: 25
 usc_section: "1195"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1195"
-generated_at: "2026-03-30T05:35:40.095Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1195. Disposition of funds withheld from per capita distribution
-
-The $200,000 withheld from per capita distribution pursuant to section 1191 of this title shall be invested or placed in trust with an institutional trustee by the Secretary of the Interior, under terms and conditions approved by the tribal governing body. The income from the investment or trust, together with such invasions of the principal or trust corpus as the Secretary deems desirable, shall be used for the education of members of the tribe until such time as the tribal governing body, with the approval of the Secretary, determines that the funds should be used in some other manner.
+# § 1195. Omitted
 

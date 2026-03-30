@@ -3,9 +3,9 @@ title: "Section 1103a - Waiver authority and reporting requirement"
 usc_title: 20
 usc_section: "1103a"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1103a"
-generated_at: "2026-03-30T05:35:34.240Z"
+generated_at: "2026-03-30T05:39:05.743Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** which is substantially increasing higher educational opportunities for individuals in rural or other isolated areas which are unserved by postsecondary institutions; or
   - **(5)** wherever located, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of Hispanic Americans.
 - **(b)**
-  - **(1)** The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(ii) of this title if the Secretary determines, based on persuasive evidence submitted by the institution, that the institution’s failure to meet the requirements is due to factors which, when used in the determination of compliance with the requirements, distort such determination, and that the institution’s designation as an eligible institution under part A of this subchapter is otherwise consistent with the purposes of this subchapter.
-  - **(2)** The Secretary shall submit to Congress every other year a report concerning the institutions that, although not satisfying the requirements of section 1101a(a)(2)(A)(ii) of this title , have been determined to be eligible institutions under part A of this subchapter. Such report shall—
+  - **(1)** The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(ii) of this title if the Secretary determines, based on persuasive evidence submitted by the institution, that the institution’s failure to meet the requirements is due to factors which, when used in the determination of compliance with the requirements, distort such determination, and that the institution’s designation as an eligible institution under part A is otherwise consistent with the purposes of this subchapter.
+  - **(2)** The Secretary shall submit to Congress every other year a report concerning the institutions that, although not satisfying the requirements of section 1101a(a)(2)(A)(ii) of this title , have been determined to be eligible institutions under part A. Such report shall—
     - **(A)** identify the factors referred to in paragraph (1) that were considered by the Secretary as factors that distorted the determination of compliance with clauses (i) and (ii) of section 1101a(a)(2)(A) of this title ; and
-    - **(B)** contain a list of each institution determined to be an eligible institution under part A of this subchapter including a statement of the reasons for each such determination.
+    - **(B)** contain a list of each institution determined to be an eligible institution under part A including a statement of the reasons for each such determination.

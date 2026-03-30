@@ -3,9 +3,9 @@ title: "Section 123 - Tennessee"
 usc_title: 28
 usc_section: "123"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "28 U.S.C. § 123"
-generated_at: "2026-03-30T05:36:01.980Z"
+generated_at: "2026-03-30T05:39:37.918Z"
 status: "active"
 ---
 

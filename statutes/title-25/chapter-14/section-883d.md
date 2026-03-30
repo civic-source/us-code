@@ -1,15 +1,13 @@
 ---
-title: "Section 883d - Rules and regulations"
+title: "Section 883d - Omitted"
 usc_title: 25
 usc_section: "883d"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 883d"
-generated_at: "2026-03-30T05:35:40.089Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 883d. Rules and regulations
-
-The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 883 to 883d of this title.
+# § 883d. Omitted
 

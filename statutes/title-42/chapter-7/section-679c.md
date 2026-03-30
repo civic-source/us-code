@@ -3,15 +3,15 @@ title: "Section 679c - Programs operated by Indian tribal organizations"
 usc_title: 42
 usc_section: "679c"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 679c"
-generated_at: "2026-03-30T05:37:41.200Z"
+generated_at: "2026-03-30T05:40:25.866Z"
 status: "active"
 ---
 
 # § 679c. Programs operated by Indian tribal organizations
 
-- **(a)** In this section, the terms “Indian tribe” and “tribal organization” have the meanings given those terms in section 450b of title 25 .
+- **(a)** In this section, the terms “Indian tribe” and “tribal organization” have the meanings given those terms in section 5304 of title 25 .
 - **(b)** Except as otherwise provided in this section, this part shall apply in the same manner as this part applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has a plan approved by the Secretary under section 671 of this title in accordance with this section.
 - **(c)**
   - **(1)** An Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part shall include with its plan submitted under section 671 of this title the following:

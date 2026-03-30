@@ -3,9 +3,9 @@ title: "Section 1613a - Indian health professions scholarships"
 usc_title: 25
 usc_section: "1613a"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1613a"
-generated_at: "2026-03-30T05:35:40.102Z"
+generated_at: "2026-03-30T05:39:27.386Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)**
     - **(A)** The active duty service obligation under a written contract with the Secretary under section 254 l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—
       - **(i)** in the Indian Health Service;
-      - **(ii)** in a program conducted under a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.];
+      - **(ii)** in a program conducted under a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.];
       - **(iii)** in a program assisted under subchapter IV of this chapter; 1 1 So in original. Probably should be followed by “or”.
       - **(iv)** in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or 2 2 So in original. The “; or” probably should be a period.
     - **(B)** At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine), dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:

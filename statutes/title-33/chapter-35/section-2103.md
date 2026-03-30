@@ -3,15 +3,15 @@ title: "Section 2103 - National artificial reef plan"
 usc_title: 33
 usc_section: "2103"
 chapter: 35
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2103"
-generated_at: "2026-03-30T05:36:42.550Z"
+generated_at: "2026-03-30T05:39:52.684Z"
 status: "active"
 ---
 
 # § 2103. National artificial reef plan
 
-Not later than one year after November 8, 1984 , the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 1 1 So in original. Probably should be “Management”. Councils, interested States, Interstate Fishery Commissions, and representatives of the private sector, shall develop and publish a long-term plan which will meet the purpose of this chapter and be consistent with the standards established under section 2102 of this chapter. The plan must include—
+Not later than one year after November 8, 1984 , the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 1 1 So in original. Probably should be “Management”. Councils, interested States, Interstate Fishery Commissions, and representatives of the private sector, shall develop and publish a long-term plan which will meet the purpose of this chapter and be consistent with the standards established under section 2102 of this title . The plan must include—
 
   - **(1)** geographic, hydrographic, geologic, biological, ecological, social, economic, and other criteria for siting artificial reefs;
   - **(2)** design, material, and other criteria for constructing artificial reefs;

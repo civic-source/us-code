@@ -1,15 +1,13 @@
 ---
-title: "Section 735 - Adoption of new constitution and bylaws"
+title: "Section 735 - Omitted"
 usc_title: 25
 usc_section: "735"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 735"
-generated_at: "2026-03-30T05:35:40.087Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 735. Adoption of new constitution and bylaws
-
-Upon written request of the tribal council, 1 1 So in original. Probably should be “Tribal Council,”. the Secretary shall hold an election for the members of the tribe for the purpose of adopting a new constitution and bylaws in accordance with section 476 of this title .
+# § 735. Omitted
 

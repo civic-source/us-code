@@ -3,9 +3,9 @@ title: "Section 4284 - Repealed. Pub. L. 98–473, title II , § 218(a)(7), Oct.
 usc_title: 18
 usc_section: "4284"
 chapter: 315
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "18 U.S.C. § 4284"
-generated_at: "2026-03-30T05:35:35.790Z"
+generated_at: "2026-03-30T05:39:07.861Z"
 status: "repealed"
 ---
 

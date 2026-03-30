@@ -3,9 +3,9 @@ title: "Section 6332 - Allocations to States"
 usc_title: 20
 usc_section: "6332"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6332"
-generated_at: "2026-03-30T05:35:34.287Z"
+generated_at: "2026-03-30T05:39:05.792Z"
 status: "active"
 ---
 
@@ -27,6 +27,6 @@ status: "active"
   - **(3)** Notwithstanding any other provision of law, the Secretary shall not take into consideration the hold-harmless provisions of this subsection for any fiscal year for purposes of calculating State or local allocations for the fiscal year under any program administered by the Secretary other than a program authorized under this part.
   - **(4)** For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs (1) and (2) to counties and, if the Secretary’s allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
 - **(d)**
-  - **(1)** If the sums made available under this subpart for any fiscal year are insufficient to pay the full amounts that local educational agencies in all States are eligible to receive under subsection (c) of this section for such year, the Secretary shall ratably reduce such amounts for such year.
-  - **(2)** If additional funds become available for making payments under subsection (c) of this section for such fiscal year, amounts that were reduced under paragraph (1) shall be increased on the same basis as such amounts were reduced.
+  - **(1)** If the sums made available under this subpart for any fiscal year are insufficient to pay the full amounts that local educational agencies in all States are eligible to receive under subsection (c) for such year, the Secretary shall ratably reduce such amounts for such year.
+  - **(2)** If additional funds become available for making payments under subsection (c) for such fiscal year, amounts that were reduced under paragraph (1) shall be increased on the same basis as such amounts were reduced.
 - **(e)** For the purpose of this section and sections 6333, 6334, 6335, and 6337 of this title, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.

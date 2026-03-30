@@ -3,9 +3,9 @@ title: "Section 353b - Outsourcing facilities"
 usc_title: 21
 usc_section: "353b"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 353b"
-generated_at: "2026-03-30T05:35:47.331Z"
+generated_at: "2026-03-30T05:39:23.155Z"
 status: "active"
 ---
 

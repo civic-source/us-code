@@ -3,9 +3,9 @@ title: "Section 4103 - Definitions"
 usc_title: 25
 usc_section: "4103"
 chapter: 43
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 4103"
-generated_at: "2026-03-30T05:35:40.143Z"
+generated_at: "2026-03-30T05:39:27.417Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ For purposes of this chapter, the following definitions shall apply:
   - **(12)** The term “Indian housing plan” means a plan under section 4112 of this title .
   - **(13)**
     - **(A)** The term “Indian tribe” means a tribe that is a federally recognized tribe or a State recognized tribe.
-    - **(B)** The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+    - **(B)** The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
     - **(C)**
       - **(i)** The term “State recognized tribe” means any tribe, band, nation, pueblo, village, or community—
         - **(I)** that has been recognized as an Indian tribe by any State; and

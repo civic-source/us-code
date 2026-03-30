@@ -3,9 +3,9 @@ title: "Section 11904 - Applications"
 usc_title: 42
 usc_section: "11904"
 chapter: 124
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 11904"
-generated_at: "2026-03-30T05:37:41.606Z"
+generated_at: "2026-03-30T05:40:26.299Z"
 status: "active"
 ---
 

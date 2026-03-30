@@ -3,9 +3,9 @@ title: "Section 2327 - Tribally controlled postsecondary career and technical in
 usc_title: 20
 usc_section: "2327"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 2327"
-generated_at: "2026-03-30T05:35:34.267Z"
+generated_at: "2026-03-30T05:39:05.771Z"
 status: "active"
 ---
 
@@ -13,13 +13,13 @@ status: "active"
 
 - **(a)** Subject to the availability of appropriations, the Secretary shall make grants under this section, to provide basic support for the education and training of Indian students, to tribally controlled postsecondary career and technical institutions that are not receiving Federal assistance as of the date on which the grant is provided under—
   - **(1)** title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1802 et seq.); or
-  - **(2)** the Navajo Community College Act ( 25 U.S.C. 640a et seq.).
+  - **(2)** the Navajo Community College Act ( 25 U.S.C. 640a et seq.). 1 1 See References in Text note below.
 - **(b)** Amounts made available under this section shall be used for career and technical education programs for Indian students and for the institutional support costs of the grant, including the expenses described in subsection (e).
 - **(c)**
   - **(1)** If the sums appropriated for any fiscal year for grants under this section are not sufficient to pay in full the total amount which approved applicants are eligible to receive under this section for such fiscal year, the Secretary shall first allocate to each such applicant who received funds under this part for the preceding fiscal year an amount equal to 100 percent of the product of the per capita payment for the preceding fiscal year and such applicant’s Indian student count for the current program year, plus an amount equal to the actual cost of any increase to the per capita figure resulting from inflationary increases to necessary costs beyond the institution’s control.
   - **(2)** For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary career and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
   - **(3)** Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
-- **(d)** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1802 et seq.) or the Navajo Community College Act ( 25 U.S.C. 640a et seq.) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+- **(d)** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1802 et seq.) or the Navajo Community College Act ( 25 U.S.C. 640a et seq.) 1 shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 - **(e)**
   - **(1)** The Secretary shall, subject to the availability of appropriations, provide for each program year to each tribally controlled postsecondary career and technical institution having an application approved by the Secretary, an amount necessary to pay expenses associated with—
     - **(A)** the maintenance and operation of the program, including development costs, costs of basic and special instruction (including special programs for individuals with disabilities and academic instruction), materials, student costs, administrative expenses, boarding costs, transportation, student services, daycare and family support programs for students and their families (including contributions to the costs of education for dependents), and student stipends;
@@ -30,7 +30,7 @@ status: "active"
 - **(f)**
   - **(1)** Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary career and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.], or under any other applicable program for the benefit of institutions of higher education or career and technical education.
   - **(2)** The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25 .
-  - **(3)** No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 , may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+  - **(3)** No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 , may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 - **(g)** The Secretary shall establish (after consultation with tribally controlled postsecondary career and technical institutions) a complaint resolution procedure for grant determinations and calculations under this section for tribally controlled postsecondary career and technical institutions.
 - **(h)** In this section:
   - **(1)** The terms “Indian” and “Indian tribe” have the meanings given the terms in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1801 ).

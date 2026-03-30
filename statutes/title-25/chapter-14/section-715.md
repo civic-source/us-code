@@ -1,22 +1,13 @@
 ---
-title: "Section 715 - Definitions"
+title: "Section 715 - Omitted"
 usc_title: 25
 usc_section: "715"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 715"
-generated_at: "2026-03-30T05:35:40.087Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 715. Definitions
+# § 715. Omitted
 
-For the purposes of this subchapter—
-
-  - **(1)** “Tribe” means the Coquille Indian Tribe consisting of the Upper Coquille and the Lower Coquille Tribes of Indians;
-  - **(2)** “Secretary” means the Secretary of the Interior or his designated representative;
-  - **(3)** “Interim Council” means the governing body of the Coquille Tribe which serves pursuant to section 715f of this title ;
-  - **(4)** “Member” means those persons eligible for enrollment under section 715e of this title and after the adoption of a tribal constitution, those persons added to the roll pursuant to such constitution;
-  - **(5)** “service area” means the area composed of Coos, Curry, Douglas, Jackson, and Lane Counties in the State of Oregon;
-  - **(6)** “State” means the State of Oregon; and
-  - **(7)** “Reservation” means those lands subsequently acquired and held in trust by the Secretary for the benefit of the Tribe.

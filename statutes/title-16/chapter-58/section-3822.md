@@ -3,16 +3,16 @@ title: "Section 3822 - Delineation of wetlands; exemptions"
 usc_title: 16
 usc_section: "3822"
 chapter: 58
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 3822"
-generated_at: "2026-03-30T05:35:31.834Z"
+generated_at: "2026-03-30T05:38:48.584Z"
 status: "active"
 ---
 
 # § 3822. Delineation of wetlands; exemptions
 
 - **(a)**
-  - **(1)** Subject to subsection (b) of this section and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
+  - **(1)** Subject to subsection (b) and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
   - **(2)** The Secretary shall delineate wetlands on wetland delineation maps. On the request of a person, the Secretary shall make a reasonable effort to make an on-site wetland determination prior to delineation.
   - **(3)** On providing notice to affected persons, the Secretary shall—
     - **(A)** certify whether a map is sufficient for the purpose of making a determination of ineligibility for program benefits under section 3821 of this title ; and
@@ -51,7 +51,7 @@ status: "active"
       - **(iii)** the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
       - **(iv)** the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
 - **(c)** No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land.
-- **(d)** For purposes of applying the minimal effect exemption under subsection (f)(1) of this section, the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title . The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
+- **(d)** For purposes of applying the minimal effect exemption under subsection (f)(1), the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title . The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
 - **(e)** The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
   - **(1)** Such lands have a predominance of hydric soils.
   - **(2)** Such lands are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.

@@ -3,9 +3,9 @@ title: "Section 49b - Duties of Secretary"
 usc_title: 29
 usc_section: "49b"
 chapter: 4
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 49b"
-generated_at: "2026-03-30T05:35:57.122Z"
+generated_at: "2026-03-30T05:39:32.179Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** assist in the development of continuous improvement models for such nationwide system that ensure private sector satisfaction with the system and meet the demands of jobseekers relating to the system, and identify and disseminate information on best practices for such system; and and 1 1 So in original.
   - **(3)** ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation. 2 2 So in original. The period probably should be “; and”.
   - **(4)** in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology.
-- **(d)**
-- **(e)**
+- **(d)** In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.
+- **(e)** The Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through—
   - **(1)** the one-stop delivery systems established as described in section 3151(e) of this title ; and
   - **(2)** such other delivery systems as the Secretary determines to be appropriate.

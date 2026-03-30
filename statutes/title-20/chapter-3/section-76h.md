@@ -3,9 +3,9 @@ title: "Section 76h - Board of Trustees"
 usc_title: 20
 usc_section: "76h"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 76h"
-generated_at: "2026-03-30T05:35:34.186Z"
+generated_at: "2026-03-30T05:39:05.681Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
       - **(i)** the Majority Leader and the Minority Leader of the Senate;
       - **(ii)** the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate; and
       - **(iii)** three additional Members of the Senate appointed by the President of the Senate; and
-    - **(L)** thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b) of this section.
+    - **(L)** thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b).
 - **(b)** The general trustees shall be appointed by the President of the United States. Each trustee shall hold office as a member of the Board for a term of 6 years, except that—
   - **(1)** any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of the member was appointed shall be appointed for the remainder of the term;
   - **(2)** a member shall continue to serve until the successor of the member has been appointed; and

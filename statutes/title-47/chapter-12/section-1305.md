@@ -3,9 +3,9 @@ title: "Section 1305 - Broadband Technology Opportunities Program"
 usc_title: 47
 usc_section: "1305"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "47 U.S.C. § 1305"
-generated_at: "2026-03-30T05:37:45.312Z"
+generated_at: "2026-03-30T05:40:29.061Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
   - **(4)** report on the status of the program to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, every 90 days.
 - **(e)** To be eligible for a grant under the program, an applicant shall—
   - **(1)**
-    - **(A)** be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in section 450b of title 25 ) or native Hawaiian organization;
+    - **(A)** be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in section 5304 of title 25 ) or native Hawaiian organization;
     - **(B)** a nonprofit—
       - **(i)** foundation,
       - **(ii)** corporation,

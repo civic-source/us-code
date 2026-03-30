@@ -3,9 +3,9 @@ title: "Section 6939g - Hazardous waste electronic manifest system"
 usc_title: 42
 usc_section: "6939g"
 chapter: 82
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 6939g"
-generated_at: "2026-03-30T05:37:41.499Z"
+generated_at: "2026-03-30T05:40:26.185Z"
 status: "active"
 ---
 

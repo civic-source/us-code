@@ -1,15 +1,13 @@
 ---
-title: "Section 967c - Tax exemption"
+title: "Section 967c - Omitted"
 usc_title: 25
 usc_section: "967c"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 967c"
-generated_at: "2026-03-30T05:35:40.092Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 967c. Tax exemption
-
-The funds distributed under the provisions of sections 967a to 967d of this title shall not be subject to Federal or State income taxes.
+# § 967c. Omitted
 

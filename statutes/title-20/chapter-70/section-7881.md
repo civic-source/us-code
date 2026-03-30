@@ -3,16 +3,16 @@ title: "Section 7881 - Participation by private school children and teachers"
 usc_title: 20
 usc_section: "7881"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7881"
-generated_at: "2026-03-30T05:35:34.308Z"
+generated_at: "2026-03-30T05:39:05.814Z"
 status: "active"
 ---
 
 # § 7881. Participation by private school children and teachers
 
 - **(a)**
-  - **(1)** Except as otherwise provided in this chapter, to the extent consistent with the number of eligible children in areas served by a State educational agency, local educational agency, educational service agency, consortium of those agencies, or another entity receiving financial assistance under a program specified in subsection (b) of this section, who are enrolled in private elementary schools and secondary schools in areas served by such agency, consortium, or entity, the agency, consortium, or entity shall, after timely and meaningful consultation with appropriate private school officials provide to those children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits that address their needs under the program.
+  - **(1)** Except as otherwise provided in this chapter, to the extent consistent with the number of eligible children in areas served by a State educational agency, local educational agency, educational service agency, consortium of those agencies, or another entity receiving financial assistance under a program specified in subsection (b), who are enrolled in private elementary schools and secondary schools in areas served by such agency, consortium, or entity, the agency, consortium, or entity shall, after timely and meaningful consultation with appropriate private school officials provide to those children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits that address their needs under the program.
   - **(2)** Educational services or other benefits, including materials and equipment, provided under this section, shall be secular, neutral, and nonideological.
   - **(3)**
     - **(A)** Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.

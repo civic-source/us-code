@@ -3,9 +3,9 @@ title: "Section 6438 - Transition services"
 usc_title: 20
 usc_section: "6438"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6438"
-generated_at: "2026-03-30T05:35:34.290Z"
+generated_at: "2026-03-30T05:39:05.796Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
       - **(iv)** counseling services; and
       - **(v)** job placement services.
 - **(b)** A project supported under this section may be conducted directly by the State agency, or through a contract or other arrangement with one or more local educational agencies, other public agencies, or private nonprofit organizations.
-- **(c)** Nothing in this section shall be construed to prohibit a school that receives funds under subsection (a) of this section from serving neglected and delinquent children and youth simultaneously with students with similar educational needs, in the same educational settings where appropriate.
+- **(c)** Nothing in this section shall be construed to prohibit a school that receives funds under subsection (a) from serving neglected and delinquent children and youth simultaneously with students with similar educational needs, in the same educational settings where appropriate.

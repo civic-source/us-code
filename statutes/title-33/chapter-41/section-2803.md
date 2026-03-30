@@ -3,9 +3,9 @@ title: "Section 2803 - Comprehensive Coastal Water Quality Monitoring Program"
 usc_title: 33
 usc_section: "2803"
 chapter: 41
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2803"
-generated_at: "2026-03-30T05:36:42.565Z"
+generated_at: "2026-03-30T05:39:52.700Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(3)** assessment of the impact of governmental programs and management strategies and measures designed to abate or prevent the environmental degradation of the Nation’s coastal ecosystems;
   - **(4)** assessment of the accumulation of floatables along coastal shorelines;
   - **(5)** analysis of expected short-term and long-term trends in the environmental quality of the Nation’s coastal ecosystems; and
-  - **(6)** the development and implementation of intensive coastal water quality monitoring programs in accordance with subsection (d) of this section.
+  - **(6)** the development and implementation of intensive coastal water quality monitoring programs in accordance with subsection (d).
 - **(c)**
   - **(1)** Not later than 18 months after October 29, 1992 , the Administrator and the Under Secretary shall jointly issue coastal water quality monitoring guidelines to assist in the development and implementation of coastal water quality monitoring programs. The guidelines shall—
     - **(A)** provide an appropriate degree of uniformity among the coastal water quality monitoring methods and data while preserving the flexibility of monitoring programs to address specific needs;
@@ -55,7 +55,7 @@ status: "active"
     - **(A)** identify water quality conditions and problems and provide information to assist in improving coastal water quality;
     - **(B)** clearly state the goals and objectives of the monitoring program and their relationship to the water quality objectives for coastal waters covered by the program;
     - **(C)** identify the water quality and biological parameters of the monitoring program and their relationship to these goals and objectives;
-    - **(D)** describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
+    - **(D)** describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c);
     - **(E)** survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in or on the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
     - **(F)** describe the data management and quality control components of the program;
     - **(G)** specify the implementation requirements for the program, including—

@@ -3,9 +3,9 @@ title: "Section 1704 - Reimbursement"
 usc_title: 42
 usc_section: "1704"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 1704"
-generated_at: "2026-03-30T05:37:41.351Z"
+generated_at: "2026-03-30T05:40:26.024Z"
 status: "active"
 ---
 

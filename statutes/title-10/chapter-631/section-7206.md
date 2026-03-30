@@ -3,9 +3,9 @@ title: "Section 7206 - Repealed. Pub. L. 85–861 , § 36B(22), Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "7206"
 chapter: 631
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 7206"
-generated_at: "2026-03-30T05:34:54.714Z"
+generated_at: "2026-03-30T05:38:26.163Z"
 status: "repealed"
 ---
 

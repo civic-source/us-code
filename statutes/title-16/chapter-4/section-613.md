@@ -3,9 +3,9 @@ title: "Section 613 - Limitations of use of timber taken not to apply to certain
 usc_title: 16
 usc_section: "613"
 chapter: 4
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 613"
-generated_at: "2026-03-30T05:35:31.740Z"
+generated_at: "2026-03-30T05:38:48.493Z"
 status: "active"
 ---
 

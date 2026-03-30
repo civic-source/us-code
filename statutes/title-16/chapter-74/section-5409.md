@@ -3,9 +3,9 @@ title: "Section 5409 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5409"
 chapter: 74
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 5409"
-generated_at: "2026-03-30T05:35:31.851Z"
+generated_at: "2026-03-30T05:38:48.600Z"
 status: "repealed"
 ---
 

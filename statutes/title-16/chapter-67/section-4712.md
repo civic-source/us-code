@@ -3,9 +3,9 @@ title: "Section 4712 - National ballast water management information"
 usc_title: 16
 usc_section: "4712"
 chapter: 67
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 4712"
-generated_at: "2026-03-30T05:35:31.847Z"
+generated_at: "2026-03-30T05:38:48.596Z"
 status: "active"
 ---
 
@@ -35,8 +35,8 @@ status: "active"
       - **(ii)** assess the effectiveness of voluntary guidelines issued, and regulations promulgated, under this subchapter in altering ballast water discharge practices to reduce the probability of accidental introductions of aquatic nuisance species.
   - **(3)** The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
 - **(c)**
-  - **(1)** Not later than 18 months after November 29, 1990 , and prior to the effective date of the regulations issued under section 4711(b) of this title , the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) of this section and makes recommendations with respect to such regulations.
-  - **(2)** Not later than 18 months after November 29, 1990 , the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a) of this section.
+  - **(1)** Not later than 18 months after November 29, 1990 , and prior to the effective date of the regulations issued under section 4711(b) of this title , the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
+  - **(2)** Not later than 18 months after November 29, 1990 , the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a).
 - **(d)** The Secretary, working through the International Maritime Organization, is encouraged to enter into negotiations with the governments of foreign countries concerning the planning and implementation of measures aimed at the prevention and control of unintentional introductions of aquatic nuisance species in coastal waters.
 - **(e)** Out of amounts appropriated to carry out this subsection for a fiscal year, the Under Secretary may—
   - **(1)** make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the Chesapeake Bay through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
@@ -48,7 +48,7 @@ status: "active"
   - **(1)** The Secretary shall develop and maintain, in consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), a clearinghouse of national data concerning—
     - **(A)** ballasting practices;
     - **(B)** compliance with the guidelines issued pursuant to section 4711(c) of this title ; and
-    - **(C)** any other information obtained by the Task Force under subsection (b) of this section.
+    - **(C)** any other information obtained by the Task Force under subsection (b).
   - **(2)** In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
     - **(A)** ballast water delivery and management; and
     - **(B)** invasions of aquatic nuisance species resulting from ballast water.

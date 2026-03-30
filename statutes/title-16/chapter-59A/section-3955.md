@@ -3,9 +3,9 @@ title: "Section 3955 - Distribution of appropriations"
 usc_title: 16
 usc_section: "3955"
 chapter: 59
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 3955"
-generated_at: "2026-03-30T05:35:31.842Z"
+generated_at: "2026-03-30T05:38:48.592Z"
 status: "active"
 ---
 
@@ -22,6 +22,6 @@ status: "active"
   - **(3)** to carry out wetlands restoration projects in accordance with the priorities set forth in the restoration plan prepared under this chapter;
   - **(4)** to make grants not to exceed $2,500,000 annually or $10,000,000 in total, to assist the agency designated by the State in development of the Coastal Wetlands Conservation Plan pursuant to this chapter.
 - **(b)** Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent shall be available, and shall remain available to the Director, for purposes of making grants—
-  - **(1)** to any coastal State, except States eligible to receive funding under subsection (a) of this section, to carry out coastal wetlands conservation projects in accordance with section 3954 of this title ; and
+  - **(1)** to any coastal State, except States eligible to receive funding under subsection (a), to carry out coastal wetlands conservation projects in accordance with section 3954 of this title ; and
   - **(2)** in the amount of $2,500,000 in total for an assessment of the status, condition, and trends of wetlands in the State of Texas.
 - **(c)** Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent shall be available to, and shall remain available until expended by, the Secretary of the Interior for allocation to carry out wetlands conservation projects in coastal wetlands ecosystems in any coastal State under section 4407 of this title .

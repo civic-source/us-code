@@ -3,9 +3,9 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-30T05:37:41.055Z"
+generated_at: "2026-03-30T05:40:25.717Z"
 status: "active"
 ---
 
@@ -59,6 +59,6 @@ status: "active"
     - **(D)** an analysis of the extent to which, if any, Federal programs from which personnel have been temporarily reassigned have been adversely affected by the reassignment; and
     - **(E)** recommendations on how medical surge capacity could be improved in responding to public health emergencies and the impact of the reassignment flexibility under this section on such surge capacity.
   - **(7)** In this subsection—
-    - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 450b of title 25 ; and
+    - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25 ; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title , the Freely Associated States.
   - **(8)** This subsection shall terminate on September 30, 2018 .

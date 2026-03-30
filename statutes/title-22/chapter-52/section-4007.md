@@ -3,9 +3,9 @@ title: "Section 4007 - Retirement for expiration of time in class"
 usc_title: 22
 usc_section: "4007"
 chapter: 52
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "22 U.S.C. § 4007"
-generated_at: "2026-03-30T05:35:53.515Z"
+generated_at: "2026-03-30T05:39:13.266Z"
 status: "active"
 ---
 

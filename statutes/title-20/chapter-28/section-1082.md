@@ -3,9 +3,9 @@ title: "Section 1082 - Legal powers and responsibilities"
 usc_title: 20
 usc_section: "1082"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1082"
-generated_at: "2026-03-30T05:35:34.220Z"
+generated_at: "2026-03-30T05:39:05.721Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(2)** The functions which may be delegated pursuant to this subsection are—
     - **(A)** reviewing applications for loan insurance under section 1079 of this title and issuing contracts for Federal loan insurance, certificates of insurance, and certificates of comprehensive insurance coverage to eligible lenders which are financial or credit institutions subject to examination and supervision by an agency of the United States or of any State;
     - **(B)** receiving claims for payments under section 1080(a) of this title , examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
-    - **(C)** certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
+    - **(C)** certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a)), and recommending litigation with respect to any such claim.
 - **(e)** Notwithstanding any other provision of law, the Secretary may provide to eligible lenders, and to any guaranty agency having a guaranty agreement under section 1078(c)(1) of this title , any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived.
 - **(f)**
   - **(1)** The Comptroller General and the Inspector General of the Department of Education shall each have the authority to conduct an audit of the financial transactions of—
@@ -92,8 +92,8 @@ status: "active"
   - **(1)** If the Secretary—
     - **(A)** receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
     - **(B)** determines that immediate action is necessary to prevent misuse of Federal funds; and
-    - **(C)** determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h) of this section;
-  - **(2)** An emergency action under this subsection may not exceed 30 days unless a limitation, suspension, or termination proceeding is initiated against the lender under subsection (h) of this section before the expiration of that period.
+    - **(C)** determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h);
+  - **(2)** An emergency action under this subsection may not exceed 30 days unless a limitation, suspension, or termination proceeding is initiated against the lender under subsection (h) before the expiration of that period.
   - **(3)** The Secretary shall provide the lender, if it so requests, an opportunity to show cause that the emergency action is unwarranted.
 - **(k)**
   - **(1)** The Secretary shall undertake a program to encourage corporations and other private and public employers, including the Federal Government, to assist borrowers in repaying loans received under this subchapter and part C of subchapter I of chapter 34 of title 42, including providing employers with options for payroll deduction of loan payments and offering loan repayment matching provisions as part of employee benefit packages.
@@ -127,7 +127,7 @@ status: "active"
       - **(ii)** be formatted to require the applicant to clearly indicate a choice of lender.
     - **(C)** For academic year 1999–2000 and succeeding academic years, the Secretary shall prescribe the form developed under section 1090 of this title as the application form under this part, other than for loans under sections 1078–2 and 1078–3 of this title.
     - **(D)**
-      - **(i)** The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000 . Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.
+      - **(i)** The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000 . Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.
       - **(ii)** In developing the master promissory note under this subsection, the Secretary shall consult with representatives of guaranty agencies, eligible lenders, institutions of higher education, students, and organizations involved in student financial assistance.
       - **(iii)** Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of any other loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
     - **(E)**

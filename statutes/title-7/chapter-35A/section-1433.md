@@ -3,9 +3,9 @@ title: "Section 1433 - Repealed. Pub. L. 100–387, title I , § 101(b)(3), Aug.
 usc_title: 7
 usc_section: "1433"
 chapter: 35
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 1433"
-generated_at: "2026-03-30T05:35:07.515Z"
+generated_at: "2026-03-30T05:38:14.894Z"
 status: "repealed"
 ---
 

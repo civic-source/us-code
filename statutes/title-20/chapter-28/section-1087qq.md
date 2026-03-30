@@ -3,9 +3,9 @@ title: "Section 1087qq - Family contribution for independent students with depen
 usc_title: 20
 usc_section: "1087qq"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1087qq"
-generated_at: "2026-03-30T05:35:34.229Z"
+generated_at: "2026-03-30T05:39:05.732Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)** For each independent student with dependents other than a spouse, the expected family contribution is equal to the amount determined by—
   - **(1)** computing adjusted available income by adding—
-    - **(A)** the family’s available income (determined in accordance with subsection (b) of this section); and
-    - **(B)** the family’s contribution from assets (determined in accordance with subsection (c) of this section);
-  - **(2)** assessing such adjusted available income in accordance with an assessment schedule set forth in subsection (d) of this section;
+    - **(A)** the family’s available income (determined in accordance with subsection (b)); and
+    - **(B)** the family’s contribution from assets (determined in accordance with subsection (c));
+  - **(2)** assessing such adjusted available income in accordance with an assessment schedule set forth in subsection (d);
   - **(3)** dividing the assessment resulting under paragraph (2) by the number of family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested; and
-  - **(4)** for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A of this subchapter—
+  - **(4)** for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A—
     - **(A)** dividing the quotient resulting under paragraph (3) by 9; and
     - **(B)** multiplying the result by the number of months in the period of enrollment;
 - **(b)**
@@ -49,5 +49,5 @@ status: "active"
     - **(C)** the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as “NW”), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title ), except as provided under section 1087vv(f) of this title : Adjusted Net Worth of a Business or Farm If the net worth of a business or farm is— Then the adjusted net worth is— Less than $1 $0 $1–$75,000 40 percent of NW $75,001–$225,000 $30,000 plus 50 percent of NW over $75,000 $225,001–$375,000 $105,000 plus 60 percent of NW over $225,000 $375,001 or more $195,000 plus 100 percent of NW over $375,000
   - **(3)** The asset protection allowance is calculated according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title ): Asset Protection Allowances for Families and Students If the age of the student is— And the student is married single then the allowance is— 25 or less $ 0 $0 26 2,200 1,600 27 4,300 3,200 28 6,500 4,700 29 8,600 6,300 30 10,800 7,900 31 13,000 9,500 32 15,100 11,100 33 17,300 12,600 34 19,400 14,200 35 21,600 15,800 36 23,800 17,400 37 25,900 19,000 38 28,100 20,500 39 30,200 22,100 40 32,400 23,700 41 33,300 24,100 42 34,100 24,700 43 35,000 25,200 44 35,700 25,800 45 36,600 26,300 46 37,600 26,900 47 38,800 27,600 48 39,800 28,200 49 40,800 28,800 50 41,800 29,500 51 43,200 30,200 52 44,300 31,100 53 45,700 31,800 54 47,100 32,600 55 48,300 33,400 56 49,800 34,400 57 51,300 35,200 58 52,900 36,200 59 54,800 37,200 60 56,500 38,100 61 58,500 39,200 62 60,300 40,300 63 62,400 41,500 64 64,600 42,800 65 or more 66,800 44,000
   - **(4)** The asset conversion rate is 7 percent.
-- **(d)** The adjusted available income (as determined under subsection (a)(1) of this section and hereafter referred to as “AAI”) is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title ): Assessment From Adjusted Available Income (AAI) If AAI is— Then the assessment is— Less than −$3,409 −$750 −$3,409 to $9,400 22% of AAI $9,401 to $11,800 $2,068 + 25% of AAI over $9,400 $11,801 to $14,200 $2,668 + 29% of AAI over $11,800 $14,201 to $16,600 $3,364 + 34% of AAI over $14,200 $16,601 to $19,000 $4,180 + 40% of AAI over $16,600 $19,001 or more $5,140 + 47% of AAI over $19,000
+- **(d)** The adjusted available income (as determined under subsection (a)(1) and hereafter referred to as “AAI”) is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title ): Assessment From Adjusted Available Income (AAI) If AAI is— Then the assessment is— Less than −$3,409 −$750 −$3,409 to $9,400 22% of AAI $9,401 to $11,800 $2,068 + 25% of AAI over $9,400 $11,801 to $14,200 $2,668 + 29% of AAI over $11,800 $14,201 to $16,600 $3,364 + 34% of AAI over $14,200 $16,601 to $19,000 $4,180 + 40% of AAI over $16,600 $19,001 or more $5,140 + 47% of AAI over $19,000
 - **(e)** In the case of a student who is divorced or separated, or whose spouse has died, the spouse’s income and assets shall not be considered in determining the family’s available income or assets.

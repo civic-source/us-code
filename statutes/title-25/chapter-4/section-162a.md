@@ -3,9 +3,9 @@ title: "Section 162a - Deposit of tribal funds in banks; bond or collateral secu
 usc_title: 25
 usc_section: "162a"
 chapter: 4
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 162a"
-generated_at: "2026-03-30T05:35:40.059Z"
+generated_at: "2026-03-30T05:39:27.372Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(C)** the mutual fund is registered by the Securities and Exchange Commission; and
     - **(D)** the Secretary is satisfied with respect to the security and protection provided by the mutual fund against loss of the principal of such trust funds.
   - **(2)** The Secretary, as a condition to complying with a request pursuant to paragraph (1) of this subsection, is authorized to require such tribe or individual Indian, as the case may be, to enter into an agreement with the Secretary for the purpose of relieving the United States of any liability in connection with the interest, or amount thereof, payable in connection with such trust funds so invested during the period of that investment.
-  - **(3)** Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title .
+  - **(3)** Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title . 2 2 See References in Text note below.
 - **(d)** The Secretary’s proper discharge of the trust responsibilities of the United States shall include (but are not limited to) the following:
   - **(1)** Providing adequate systems for accounting for and reporting trust fund balances.
   - **(2)** Providing adequate controls over receipts and disbursements.

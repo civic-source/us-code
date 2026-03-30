@@ -3,9 +3,9 @@ title: "Section 44733 - Inspection of repair stations located outside the United
 usc_title: 49
 usc_section: "44733"
 chapter: 447
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "49 U.S.C. § 44733"
-generated_at: "2026-03-30T05:37:48.502Z"
+generated_at: "2026-03-30T05:40:36.602Z"
 status: "active"
 ---
 

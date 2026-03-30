@@ -1,15 +1,13 @@
 ---
-title: "Section 677w - Presentation of development program for full-blood group to eventually terminate Federal supervision"
+title: "Section 677w - Omitted"
 usc_title: 25
 usc_section: "677w"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 677w"
-generated_at: "2026-03-30T05:35:40.085Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 677w. Presentation of development program for full-blood group to eventually terminate Federal supervision
-
-Within three months after August 27, 1954 , the business committee of the tribe representing the full-blood group thereof shall present to the Secretary a development program calculated to assist in making the tribe and the members thereof selfsupporting, without any special Government assistance, with a view of eventually terminating all Federal supervision of the tribe and its members.
+# § 677w. Omitted
 

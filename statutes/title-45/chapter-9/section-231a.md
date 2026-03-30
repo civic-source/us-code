@@ -3,9 +3,9 @@ title: "Section 231a - Annuity eligibility requirements"
 usc_title: 45
 usc_section: "231a"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "45 U.S.C. § 231a"
-generated_at: "2026-03-30T05:37:08.850Z"
+generated_at: "2026-03-30T05:40:03.210Z"
 status: "active"
 ---
 
@@ -68,7 +68,7 @@ status: "active"
   - **(1)** No annuity shall be paid to a survivor under subsection (d) with respect to any month in which such survivor renders service for compensation as an employee of an employer. Survivors receiving annuities under subsection (d) shall report to the Board immediately all such service for compensation.
   - **(2)** Deductions, in amounts and at such time or times as the Board shall determine, shall be made from any payments to which a survivor is entitled under subsection (d) until the total of such deductions equals such survivor’s annuity under that subsection for any month, if for such month such survivor would be charged with excess earnings under section 203(f) of the Social Security Act [ 42 U.S.C. 403(f) ] or, having engaged in any activity outside the United States, would be charged under such section 203(f) of the Social Security Act [ 42 U.S.C. 403(f) ] with any excess earnings derived from such activity if it had been an activity within the United States. For purposes of this subdivision the Board shall have the authority to take such actions and to make such determinations and such suspensions of payment of benefits in the manner and to the extent that the Secretary of Health and Human Services would be authorized to take or to make under section 203(h)(3) of the Social Security Act if the survivors were receiving the annuities to which this subdivision applies under section 202 of the Social Security Act [ 42 U.S.C. 402 ]: Provided, however , That in determining a survivor’s excess earnings for a year for the purposes of this subdivision there shall not be included his income from employment or self-employment during months beginning with the month with respect to which he ceases to be qualified for an annuity. Survivors receiving annuities under subsection (d) shall report to the Board the receipt of excess earnings described in this subdivision.
 - **(h)**
-  - **(1)** Repealed. Pub. L. 98–76, title IV, § 414(a) , Aug. 12, 1983 , 97 Stat. 436 .
+  - **(1)** Repealed. Pub. L. 98–76, title IV , § 414(a), Aug. 12, 1983 , 97 Stat. 436 .
   - **(2)** The supplemental annuity provided an individual by subsection (b) shall, with respect to any month, be reduced by the amount of the supplemental pension, attributable to the employer’s contribution, that such individual is entitled to receive for that month under any other supplemental pension plan: Provided, however , That the maximum of such reduction shall be equal to the amount of the supplemental annuity less any amount by which the supplemental pension is reduced by reason of the supplemental annuity.
   - **(3)** If a spouse or divorced wife entitled to an annuity under subsection (c) or a survivor entitled to an annuity under subsection (d) for any month is also entitled to annuity under subsection (a)(1) for such month, the annuity under subsection (c) or (d) shall be reduced, but not below zero, by an amount equal to the annuity under subsection (a)(1): Provided, however , That the provisions of this subdivision shall not apply if either the spouse or survivor or the individual upon whose earnings record the spouse’s or survivor’s annuity under subsection (c) or (d) is based rendered service as an employee to an employer, or as an employee representative, prior to January 1, 1975 .
   - **(4)** If an annuitant is entitled to more than one annuity under subsections (c) and (d) for a month, such annuitant shall be entitled to only the larger of such annuities for such month, except that, if such annuitant so elects, he shall instead be entitled to only the smaller of such annuities for such month.

@@ -3,9 +3,9 @@ title: "Section 4534 - Defense Production Act Fund"
 usc_title: 50
 usc_section: "4534"
 chapter: 55
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "50 U.S.C. § 4534"
-generated_at: "2026-03-30T05:37:46.654Z"
+generated_at: "2026-03-30T05:40:31.420Z"
 status: "active"
 ---
 

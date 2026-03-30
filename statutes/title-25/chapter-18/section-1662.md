@@ -3,9 +3,9 @@ title: "Section 1662 - Automated management information system"
 usc_title: 25
 usc_section: "1662"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1662"
-generated_at: "2026-03-30T05:35:40.109Z"
+generated_at: "2026-03-30T05:39:27.392Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(C)** a privacy component that protects the privacy of patient information held by, or on behalf of, the Service, and
     - **(D)** a services-based cost accounting component that provides estimates of the costs associated with the provision of specific medical treatments or services in each area office of the Service.
 - **(b)**
-  - **(1)** The Secretary shall provide each Indian tribe and tribal organization that provides health services under a contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] automated management information systems which—
+  - **(1)** The Secretary shall provide each Indian tribe and tribal organization that provides health services under a contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] automated management information systems which—
     - **(A)** meet the management information needs of such Indian tribe or tribal organization with respect to the treatment by the Indian tribe or tribal organization of patients of the Service, and
     - **(B)** meet the management information needs of the Service.
   - **(2)** The Secretary shall reimburse each Indian tribe or tribal organization for the part of the cost of the operation of a system provided under paragraph (1) which is attributable to the treatment by such Indian tribe or tribal organization of patients of the Service.

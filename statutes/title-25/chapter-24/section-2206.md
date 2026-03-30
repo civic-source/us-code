@@ -3,9 +3,9 @@ title: "Section 2206 - Descent and distribution"
 usc_title: 25
 usc_section: "2206"
 chapter: 24
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2206"
-generated_at: "2026-03-30T05:35:40.127Z"
+generated_at: "2026-03-30T05:39:27.402Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
       - **(i)** as a life estate to any person, with the remainder being devised only in accordance with subparagraph (B) or paragraph (1); or
       - **(ii)** except as provided in subparagraph (B), as a fee interest without Federal restrictions against alienation to any person who is not eligible to be a devisee under clause (iv) of paragraph (1)(A).
     - **(B)**
-      - **(i)** Subject to clauses (ii) and (iii), any interest”; 5 5 So in original. in trust or restricted land that is subject to section 464 of this title , may be devised only in accordance with—
+      - **(i)** Subject to clauses (ii) and (iii), any interest”; 5 5 So in original. in trust or restricted land that is subject to section 5107 of this title , may be devised only in accordance with—
         - **(I)** that section;
         - **(II)** subparagraph (A)(i); or
         - **(III)** paragraph (1)(A).
@@ -81,7 +81,7 @@ status: "active"
         - **(I)** Notwithstanding clause (i), in any case in which a resolution, law, or other duly adopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
         - **(II)** Subclause (I) shall apply with respect to a devise of a trust or restricted interest in land by any decedent who dies on or after the date on which the applicable Indian tribe adopts the resolution, law, or other enactment described in subclause (I), regardless of the date on which the devise is made.
         - **(III)** An Indian tribe shall provide to the Secretary a copy of any resolution, law, or other enactment of the Indian tribe that requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe.
-      - **(iii)** Except as provided in clause (ii), nothing; and 6 6 So in original. The semicolon and word “and” probably should not appear. in this section or in section 464 of this title , shall be construed to authorize the devise of any interest in trust or restricted land that is subject to section 464 of this title to any person as a fee interest under subparagraph (A)(ii).
+      - **(iii)** Except as provided in clause (ii), nothing; and 6 6 So in original. The semicolon and word “and” probably should not appear. in this section or in section 5107 of this title , shall be construed to authorize the devise of any interest in trust or restricted land that is subject to section 5107 of this title to any person as a fee interest under subparagraph (A)(ii).
   - **(3)**
     - **(A)** The term “trust personalty” as used in this section includes all funds and securities of any kind which are held in trust in an individual Indian money account or otherwise supervised by the Secretary.
     - **(B)** Subject to any applicable Federal law relating to the devise or descent of such trust personalty, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title , the owner of an interest in trust personalty may devise such an interest to any person or entity.

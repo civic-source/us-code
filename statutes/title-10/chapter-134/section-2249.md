@@ -3,9 +3,9 @@ title: "Section 2249 - Prohibition on use of funds for documenting economic or e
 usc_title: 10
 usc_section: "2249"
 chapter: 134
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2249"
-generated_at: "2026-03-30T05:34:54.663Z"
+generated_at: "2026-03-30T05:38:26.115Z"
 status: "active"
 ---
 

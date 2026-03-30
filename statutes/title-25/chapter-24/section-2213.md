@@ -3,9 +3,9 @@ title: "Section 2213 - Administration of acquired fractional interests; disposit
 usc_title: 25
 usc_section: "2213"
 chapter: 24
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 2213"
-generated_at: "2026-03-30T05:35:40.129Z"
+generated_at: "2026-03-30T05:39:27.404Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** Until the Secretary removes a lien from an interest in land under paragraph (1)—
       - **(i)** any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interest shall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary; and
       - **(ii)** any revenue derived from any interest acquired by the Secretary in accordance with section 2212 of this title shall be deposited in the fund created under section 2215 of this title .
-    - **(B)** Notwithstanding section 476 of this title , or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
+    - **(B)** Notwithstanding section 5123 of this title , or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
   - **(3)** The Secretary may remove a lien referred to in paragraph (1) if the Secretary makes a finding that—
     - **(A)** the costs of administering the interest from which revenue accrues under the lien will equal or exceed the projected revenues for the parcel of land involved;
     - **(B)** in the discretion of the Secretary, it will take an unreasonable period of time for the parcel of land to generate revenue that equals the purchase price paid for the interest; or

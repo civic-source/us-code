@@ -3,9 +3,9 @@ title: "Section 1 - Scientific Resolution Panel"
 usc_title: 42
 usc_section: "1"
 chapter: 50
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T05:37:41.437Z"
+generated_at: "2026-03-30T05:40:26.117Z"
 status: "active"
 ---
 

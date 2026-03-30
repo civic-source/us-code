@@ -3,9 +3,9 @@ title: "Section 7171 - Purpose; definitions"
 usc_title: 20
 usc_section: "7171"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7171"
-generated_at: "2026-03-30T05:35:34.296Z"
+generated_at: "2026-03-30T05:39:05.802Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(2)** The term “covered program” means a program for which—
     - **(A)** the Secretary made a grant under this part (as this part was in effect on the day before the effective date of this part under the Every Student Succeeds Act); and
     - **(B)** the grant period had not ended on that effective date.
-  - **(3)** The term “eligible entity” means a local educational agency, community-based organization, Indian tribe or tribal organization (as such terms are defined in section 450b of title 25 ), another public or private entity, or a consortium of 2 or more such agencies, organizations, or entities.
+  - **(3)** The term “eligible entity” means a local educational agency, community-based organization, Indian tribe or tribal organization (as such terms are defined in section 5304 of title 25 ), another public or private entity, or a consortium of 2 or more such agencies, organizations, or entities.
   - **(4)** The term “external organization” means—
     - **(A)** a nonprofit organization with a record of success in running or working with before and after school (or summer recess) programs and activities; or
     - **(B)** in the case of a community where there is no such organization, a nonprofit organization in the community that enters into a written agreement or partnership with an organization described in subparagraph (A) to receive mentoring and guidance in running or working with before and after school (or summer recess) programs and activities.

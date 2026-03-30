@@ -3,9 +3,9 @@ title: "Section 6314 - Test procedures"
 usc_title: 42
 usc_section: "6314"
 chapter: 77
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 6314"
-generated_at: "2026-03-30T05:37:41.484Z"
+generated_at: "2026-03-30T05:40:26.168Z"
 status: "active"
 ---
 

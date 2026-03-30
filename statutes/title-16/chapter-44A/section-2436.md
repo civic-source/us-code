@@ -3,9 +3,9 @@ title: "Section 2436 - Regulations"
 usc_title: 16
 usc_section: "2436"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 2436"
-generated_at: "2026-03-30T05:35:31.820Z"
+generated_at: "2026-03-30T05:38:48.571Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
   - **(1)** Notwithstanding subsections (b), (c), and (d) of section 553 of title 5 , the Secretary of Commerce may publish in the Federal Register a final regulation to implement any conservation measure for which the Secretary of State notifies the Commission under section 2434(a)(1) of this title —
     - **(A)** that has been in effect for 12 months or less;
     - **(B)** that is adopted by the Commission; and
-    - **(C)** with respect to which the Secretary of State, does not notify Commission in accordance with section 2434(a)(1) of this title within the time period allotted for objections under Article IX of the Convention.
+    - **(C)** with respect to which the Secretary of State, 1 1 So in original. The comma probably should not appear. does not notify Commission 2 2 So in original. Probably should be preceded by “the”. in accordance with section 2434(a)(1) of this title within the time period allotted for objections under Article IX of the Convention.
   - **(2)** Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.

@@ -3,9 +3,9 @@ title: "Section 1411 - Authorization; allotment; use of funds; authorization of 
 usc_title: 20
 usc_section: "1411"
 chapter: 33
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1411"
-generated_at: "2026-03-30T05:35:34.254Z"
+generated_at: "2026-03-30T05:39:05.758Z"
 status: "active"
 ---
 
@@ -164,7 +164,7 @@ status: "active"
     - **(F)** includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
   - **(3)** The Secretary shall withhold payments under this subsection with respect to the information described in paragraph (2) in the same manner as the Secretary withholds payments under section 1416(e)(6) of this title .
   - **(4)**
-    - **(A)** With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 450b of title 25 ) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
+    - **(A)** With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 5304 of title 25 ) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
     - **(B)** The Secretary of the Interior shall distribute the total amount of the payment under subparagraph (A) by allocating to each tribe, tribal organization, or consortium an amount based on the number of children with disabilities aged 3 through 5 residing on reservations as reported annually, divided by the total of those children served by all tribes or tribal organizations.
     - **(C)** To receive a payment under this paragraph, the tribe or tribal organization shall submit such figures to the Secretary of the Interior as required to determine the amounts to be allocated under subparagraph (B). This information shall be compiled and submitted to the Secretary of Education.
     - **(D)** The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The tribe or tribal organization shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.

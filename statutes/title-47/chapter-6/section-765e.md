@@ -3,9 +3,9 @@ title: "Section 765e - Reports to Congress"
 usc_title: 47
 usc_section: "765e"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "47 U.S.C. § 765e"
-generated_at: "2026-03-30T05:37:45.307Z"
+generated_at: "2026-03-30T05:40:29.058Z"
 status: "active"
 ---
 

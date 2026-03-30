@@ -3,9 +3,9 @@ title: "Section 4562 - Repealed. Pub. L. 87–456, title III , § 302(d), May 24
 usc_title: 26
 usc_section: "4562"
 chapter: 38
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 4562"
-generated_at: "2026-03-30T05:36:26.171Z"
+generated_at: "2026-03-30T05:39:49.238Z"
 status: "repealed"
 ---
 

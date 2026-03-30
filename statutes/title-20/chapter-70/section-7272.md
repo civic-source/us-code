@@ -3,9 +3,9 @@ title: "Section 7272 - Definitions"
 usc_title: 20
 usc_section: "7272"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7272"
-generated_at: "2026-03-30T05:35:34.299Z"
+generated_at: "2026-03-30T05:39:05.805Z"
 status: "active"
 ---
 
@@ -16,12 +16,12 @@ In this subpart:
   - **(1)** The term “eligible entity” means the following:
     - **(A)** With respect to a grant for activities described in section 7273(a)(1)(A) of this title —
       - **(i)** an institution of higher education, as defined in section 1002 of this title ;
-      - **(ii)** an Indian tribe or tribal organization, as defined in section 450b of title 25 ; or
+      - **(ii)** an Indian tribe or tribal organization, as defined in section 5304 of title 25 ; or
       - **(iii)** one or more nonprofit entities working in formal partnership with not less than 1 of the following entities:
         - **(I)** A high-need local educational agency.
         - **(II)** An institution of higher education, as defined in section 1002 of this title .
         - **(III)** The office of a chief elected official of a unit of local government.
-        - **(IV)** An Indian tribe or tribal organization, as defined under section 450b of title 25 .
+        - **(IV)** An Indian tribe or tribal organization, as defined under section 5304 of title 25 .
     - **(B)** With respect to a grant for activities described in section 7273(a)(1)(B) of this title , a consortium of—
       - **(i)**
         - **(I)** 1 or more local educational agencies; or

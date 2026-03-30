@@ -3,9 +3,9 @@ title: "Section 2155 - Joint professional military education Phase II program of
 usc_title: 10
 usc_section: "2155"
 chapter: 107
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2155"
-generated_at: "2026-03-30T05:34:54.657Z"
+generated_at: "2026-03-30T05:38:26.111Z"
 status: "active"
 ---
 

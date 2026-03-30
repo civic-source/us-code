@@ -1,25 +1,13 @@
 ---
-title: "Section 711b - Membership roll"
+title: "Section 711b - Omitted"
 usc_title: 25
 usc_section: "711b"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 711b"
-generated_at: "2026-03-30T05:35:40.085Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 711b. Membership roll
+# § 711b. Omitted
 
-- **(a)** The final membership roll is declared open. The Secretary, the Interim Council, and tribal officials under the tribal constitution and bylaws shall take such measures as will insure the continuing accuracy of the membership roll.
-- **(b)**
-  - **(1)** Until after the initial election of tribal officers under the tribal constitution and bylaws, a person shall be a member of the tribe and his name shall be placed on the membership roll if he is living and if—
-    - **(A)** his name is listed on the final membership roll;
-    - **(B)** he was entitled on August 13, 1954 , to be on the final membership roll but his name was not listed on that roll; or
-    - **(C)** he is a descendant of a person specified in subparagraph (A) or (B) and possesses at least one-fourth degree of blood of members of the tribe or their Siletz Indian ancestors.
-  - **(2)** After the initial election of tribal officials under the tribal constitution and bylaws, the provisions of the tribal constitution and bylaws shall govern membership in the tribe.
-- **(c)**
-  - **(1)** Before election of the Interim Council, verification of descendancy, age, and blood shall be made upon oath before the Secretary and his determination thereon shall be final.
-  - **(2)** After election of the Interim Council and before the initial election of the tribal officials, verification of descendancy, age, and blood shall be made upon oath before the Interim Council, or its authorized representative. A member of the tribe, with respect to the inclusion of any name, and any person, with respect to the exclusion of his name, may appeal to the Secretary, who shall make a final determination of each such appeal within ninety days after an appeal has been filed with him. The determination of the Secretary with respect to an appeal under this paragraph shall be final.
-  - **(3)** After the initial election of tribal officials, the provisions of the tribal constitution and bylaws shall govern the verification of any requirements for membership in the tribe, and the Secretary and the Interim Council shall deliver their records and files, and any other material relating to enrollment matters, to the tribal governing body.
-- **(d)** For purposes of sections 711c and 711d of this title, a member who is eighteen years of age or older is entitled and eligible to be given notice of, attend, participate in, and vote at, general council meetings and to nominate candidates for, to run for any office in, and to vote in, elections of members to the Interim Council and to other tribal councils.

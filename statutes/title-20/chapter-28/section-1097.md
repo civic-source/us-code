@@ -3,9 +3,9 @@ title: "Section 1097 - Criminal penalties"
 usc_title: 20
 usc_section: "1097"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1097"
-generated_at: "2026-03-30T05:35:34.237Z"
+generated_at: "2026-03-30T05:39:05.740Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** Any person who knowingly and willfully embezzles, misapplies, steals, obtains by fraud, false statement, or forgery, or fails to refund any funds, assets, or property provided or insured under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so embezzle, misapply, steal, obtain by fraud, false statement or forgery, or fail to refund any funds, assets, or property, shall be fined not more than $20,000 or imprisoned for not more than 5 years, or both, except if the amount so embezzled, misapplied, stolen, obtained by fraud, false statement, or forgery, or failed to be refunded does not exceed $200, then the fine shall not be more than $5,000 and imprisonment shall not exceed one year, or both.
 - **(b)** Any person who knowingly and willfully makes any false statement, furnishes any false information, or conceals any material information in connection with the assignment of a loan which is made or insured under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so make any false statement, furnish any false information, or conceal any material information in connection with such assignment shall, upon conviction thereof, be fined not more than $10,000 or imprisoned for not more than one year, or both.
-- **(c)** Any person who knowingly and willfully makes an unlawful payment to an eligible lender under part B of this subchapter or attempts to make such unlawful payment as an inducement to make, or to acquire by assignment, a loan insured under such part shall, upon conviction thereof, be fined not more than $10,000 or imprisoned for not more than one year, or both.
+- **(c)** Any person who knowingly and willfully makes an unlawful payment to an eligible lender under part B or attempts to make such unlawful payment as an inducement to make, or to acquire by assignment, a loan insured under such part shall, upon conviction thereof, be fined not more than $10,000 or imprisoned for not more than one year, or both.
 - **(d)** Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.

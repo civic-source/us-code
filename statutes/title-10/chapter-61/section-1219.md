@@ -3,9 +3,9 @@ title: "Section 1219 - Statement of origin of disease or injury: limitations"
 usc_title: 10
 usc_section: "1219"
 chapter: 61
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 1219"
-generated_at: "2026-03-30T05:34:54.639Z"
+generated_at: "2026-03-30T05:38:26.093Z"
 status: "active"
 ---
 

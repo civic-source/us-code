@@ -3,9 +3,9 @@ title: "Section 5458 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "5458"
 chapter: 533
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 5458"
-generated_at: "2026-03-30T05:34:54.708Z"
+generated_at: "2026-03-30T05:38:26.157Z"
 status: "repealed"
 ---
 

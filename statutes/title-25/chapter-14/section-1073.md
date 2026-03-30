@@ -1,15 +1,13 @@
 ---
-title: "Section 1073 - Tax exemption; payments to minors and persons under legal disabilities"
+title: "Section 1073 - Omitted"
 usc_title: 25
 usc_section: "1073"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1073"
-generated_at: "2026-03-30T05:35:40.093Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1073. Tax exemption; payments to minors and persons under legal disabilities
-
-None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income tax. Any per capita share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines will adequately protect the best interest of such persons.
+# § 1073. Omitted
 

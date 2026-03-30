@@ -1,15 +1,13 @@
 ---
-title: "Section 552 - Payments in lieu of allotments"
+title: "Section 552 - Omitted"
 usc_title: 25
 usc_section: "552"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 552"
-generated_at: "2026-03-30T05:35:40.076Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 552. Payments in lieu of allotments
-
-Each enrolled member of the Klamath Tribe living on June 1, 1938 , who has not received an allotment of land shall be paid the sum of $1,500 from unobligated Klamath tribal funds on deposit in the Treasury of the United States, under such rules and regulations as the Secretary of the Interior shall prescribe, in installments of not to exceed $300 per annum: Provided , That no member of the Klamath Tribe who shall not be enrolled within one year from June 1, 1938 , shall receive a payment in lieu of allotment. No member of the Klamath Tribe born after June 1, 1938 , shall be entitled to receive any allotment of land or money payment in lieu thereof.
+# § 552. Omitted
 

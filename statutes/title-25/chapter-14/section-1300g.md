@@ -1,25 +1,13 @@
 ---
-title: "Section 1300g - Definitions"
+title: "Section 1300g - Omitted"
 usc_title: 25
 usc_section: "1300g"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1300g"
-generated_at: "2026-03-30T05:35:40.097Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1300g. Definitions
+# § 1300g. Omitted
 
-For purposes of this subchapter—
-
-  - **(1)** the term “tribe” means the Ysleta del Sur Pueblo (as so designated by section 1300g–1 of this title );
-  - **(2)** the term “Secretary” means the Secretary of the Interior or his designated representative;
-  - **(3)** the term “reservation” means lands within El Paso and Hudspeth Counties, Texas—
-    - **(A)** held by the tribe on August 18, 1987 ;
-    - **(B)** held in trust by the State or by the Texas Indian Commission for the benefit of the tribe on August 18, 1987 ;
-    - **(C)** held in trust for the benefit of the tribe by the Secretary under section 1300g–4(g)(2) of this title ; and
-    - **(D)** subsequently acquired and held in trust by the Secretary for the benefit of the tribe. 1 1 So in original. The period probably should be a semicolon.
-  - **(4)** the term “State” means the State of Texas;
-  - **(5)** the term “Tribal Council” means the governing body of the tribe as recognized by the Texas Indian Commission on August 18, 1987 , and such tribal council’s successors; and
-  - **(6)** the term “Tiwa Indians Act” means the Act entitled “An Act relating to the Tiwa Indians of Texas.” and approved April 12, 1968 ( 82 Stat. 93 ).

@@ -1,15 +1,13 @@
 ---
-title: "Section 1243 - Enrollment applications; filing; finality of determination"
+title: "Section 1243 - Omitted"
 usc_title: 25
 usc_section: "1243"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1243"
-generated_at: "2026-03-30T05:35:40.095Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1243. Enrollment applications; filing; finality of determination
-
-Applications for enrollment shall be filed with the Area Director, Bureau of Indian Affairs, Aberdeen, South Dakota, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary of the Interior regarding the utilization of available rolls and records and the eligibility for enrollment of an applicant shall be final.
+# § 1243. Omitted
 

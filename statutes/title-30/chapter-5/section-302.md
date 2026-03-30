@@ -3,9 +3,9 @@ title: "Section 302 - Assignment of lease; subletting"
 usc_title: 30
 usc_section: "302"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "30 U.S.C. § 302"
-generated_at: "2026-03-30T05:36:08.718Z"
+generated_at: "2026-03-30T05:39:39.656Z"
 status: "active"
 ---
 

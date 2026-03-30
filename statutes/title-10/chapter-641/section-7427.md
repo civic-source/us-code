@@ -3,9 +3,9 @@ title: "Section 7427 - Cooperative or unit plans in the naval petro­leum reserv
 usc_title: 10
 usc_section: "7427"
 chapter: 641
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 7427"
-generated_at: "2026-03-30T05:34:54.716Z"
+generated_at: "2026-03-30T05:38:26.164Z"
 status: "active"
 ---
 

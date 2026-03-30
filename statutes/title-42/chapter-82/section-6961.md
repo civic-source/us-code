@@ -3,9 +3,9 @@ title: "Section 6961 - Application of Federal, State, and local law to Federal f
 usc_title: 42
 usc_section: "6961"
 chapter: 82
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 6961"
-generated_at: "2026-03-30T05:37:41.501Z"
+generated_at: "2026-03-30T05:40:26.187Z"
 status: "active"
 ---
 

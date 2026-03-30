@@ -3,15 +3,15 @@ title: "Section 6337 - Education finance incentive grant program"
 usc_title: 20
 usc_section: "6337"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 6337"
-generated_at: "2026-03-30T05:35:34.288Z"
+generated_at: "2026-03-30T05:39:05.793Z"
 status: "active"
 ---
 
 # § 6337. Education finance incentive grant program
 
-- **(a)** From funds made available under section 6332(a) of this title the Secretary is authorized to make grants to States, from allotments under subsection (b) of this section, to carry out the programs and activities of this part.
+- **(a)** From funds made available under section 6332(a) of this title the Secretary is authorized to make grants to States, from allotments under subsection (b), to carry out the programs and activities of this part.
 - **(b)**
   - **(1)**
     - **(A)** Except as provided in subparagraph (B), funds made available for any fiscal year to carry out this section shall be allotted to each State based upon the number of children counted under section 6333(c) of this title in such State multiplied by the product of—
@@ -39,7 +39,7 @@ status: "active"
   - **(1)** the number of children in the local educational agency counted under section 6333(c) of this title , before application of the weighted child count described in paragraph (3), 1 1 So in original. This subsec. does not contain a par. (3). is at least 10; and
   - **(2)** if the number of children counted for grants under section 6333(c) of this title , before application of the weighted child count described in paragraph (3), 1 is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
 - **(d)** Funds received by States under this section shall be allocated within States to eligible local educational agencies on the basis of weighted child counts calculated in accordance with paragraph (1), (2), or (3), as appropriate for each State.
-  - **(1)** In States with an equity factor less than .10, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
+  - **(1)** In States with an equity factor less than .10, the weighted child counts referred to in subsection (d) shall be calculated as follows:
     - **(A)**
       - **(i)** For each fiscal year for which the Secretary uses county population data to calculate grants, the weighted child count used to determine a county’s allocation under this section is the larger of the two amounts determined under clauses (ii) and (iii).
       - **(ii)** The amount referred to in clause (i) is determined by adding—
@@ -68,7 +68,7 @@ status: "active"
         - **(III)** the number of such children between 2,263 and 7,851, inclusive, in such population, multiplied by 2.0;
         - **(IV)** the number of such children between 7,852 and 35,514, inclusive, in such population, multiplied by 2.5; and
         - **(V)** the number of such children in excess of 35,514 in such population, multiplied by 3.0.
-  - **(2)** In States with an equity factor greater than or equal to .10 and less than .20, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
+  - **(2)** In States with an equity factor greater than or equal to .10 and less than .20, the weighted child counts referred to in subsection (d) shall be calculated as follows:
     - **(A)**
       - **(i)** For each fiscal year for which the Secretary uses county population data to calculate grants, the weighted child count used to determine a county’s allocation under this section is the larger of the two amounts determined under clauses (ii) and (iii).
       - **(ii)** The amount referred to in clause (i) is determined by adding—
@@ -97,7 +97,7 @@ status: "active"
         - **(III)** the number of such children between 2,263 and 7,851, inclusive, in such population, multiplied by 2.25;
         - **(IV)** the number of such children between 7,852 and 35,514, inclusive, in such population, multiplied by 3.375; and
         - **(V)** the number of such children in excess of 35,514 in such population, multiplied by 4.5.
-  - **(3)** In States with an equity factor greater than or equal to .20, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
+  - **(3)** In States with an equity factor greater than or equal to .20, the weighted child counts referred to in subsection (d) shall be calculated as follows:
     - **(A)**
       - **(i)** For each fiscal year for which the Secretary uses county population data to calculate grants, the weighted child count used to determine a county’s allocation under this section is the larger of the two amounts determined under clauses (ii) and (iii).
       - **(ii)** The amount referred to in clause (i) is determined by adding—

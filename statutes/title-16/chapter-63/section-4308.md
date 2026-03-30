@@ -3,9 +3,9 @@ title: "Section 4308 - Miscellaneous provisions"
 usc_title: 16
 usc_section: "4308"
 chapter: 63
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 4308"
-generated_at: "2026-03-30T05:35:31.845Z"
+generated_at: "2026-03-30T05:38:48.595Z"
 status: "active"
 ---
 

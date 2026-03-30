@@ -1,20 +1,13 @@
 ---
-title: "Section 564a - Definitions"
+title: "Section 564a - Omitted"
 usc_title: 25
 usc_section: "564a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 564a"
-generated_at: "2026-03-30T05:35:40.076Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 564a. Definitions
+# § 564a. Omitted
 
-For the purposes of this subchapter:
-
-- **(a)** “Tribe” means the Klamath Tribe of Indians consisting of the Klamath and Modoc Tribes and Yahooskin Band of Snake Indians.
-- **(b)** “Secretary” means the Secretary of the Interior.
-- **(c)** “Lands” means real property, interests therein, or improvements thereon, and include water rights.
-- **(d)** “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
-- **(e)** “Adult” means a person who is an adult according to the law of the place of his residence.

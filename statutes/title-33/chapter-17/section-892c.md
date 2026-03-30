@@ -3,9 +3,9 @@ title: "Section 892c - Hydrographic Services Review Panel"
 usc_title: 33
 usc_section: "892c"
 chapter: 17
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 892c"
-generated_at: "2026-03-30T05:36:42.520Z"
+generated_at: "2026-03-30T05:39:52.655Z"
 status: "active"
 ---
 
@@ -31,4 +31,4 @@ status: "active"
   - **(1)** receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5 when actually engaged in the performance of duties for such panel; and
   - **(2)** be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
 - **(e)** The panel shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Secretary.
-- **(f)** The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
+- **(f)** The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).

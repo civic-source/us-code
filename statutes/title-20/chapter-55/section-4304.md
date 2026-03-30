@@ -3,9 +3,9 @@ title: "Section 4304 - Laurent Clerc National Deaf Education Center"
 usc_title: 20
 usc_section: "4304"
 chapter: 55
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 4304"
-generated_at: "2026-03-30T05:35:34.275Z"
+generated_at: "2026-03-30T05:39:05.780Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
 - **(b)**
   - **(1)** The Clerc Center shall—
     - **(A)** provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
-    - **(B)** provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
+    - **(B)** provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
   - **(2)** To the extent possible, the Clerc Center shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act [ 20 U.S.C. 1418(a)(1) ]. Such educational environments shall include—
     - **(A)** regular classes;
     - **(B)** resource rooms;

@@ -1,13 +1,13 @@
 ---
-title: "Section 1456a - Repealed. Pub. L. 95–164, title III, § 306(b) , Nov. 9, 1977 , 91 Stat. 1322"
+title: "Section 1456a - Repealed. Pub. L. 95–164, title III , § 306(b), Nov. 9, 1977 , 91 Stat. 1322"
 usc_title: 43
 usc_section: "1456a"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 1456a"
-generated_at: "2026-03-30T05:37:11.829Z"
+generated_at: "2026-03-30T05:40:01.211Z"
 status: "repealed"
 ---
 
-# § 1456a. Repealed. Pub. L. 95–164, title III, § 306(b) , Nov. 9, 1977 , 91 Stat. 1322
+# § 1456a. Repealed. Pub. L. 95–164, title III , § 306(b), Nov. 9, 1977 , 91 Stat. 1322
 

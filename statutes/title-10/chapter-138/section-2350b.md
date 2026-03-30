@@ -3,9 +3,9 @@ title: "Section 2350b - Cooperative projects under Arms Export Control Act: acqu
 usc_title: 10
 usc_section: "2350b"
 chapter: 138
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2350b"
-generated_at: "2026-03-30T05:34:54.671Z"
+generated_at: "2026-03-30T05:38:26.123Z"
 status: "active"
 ---
 

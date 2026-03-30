@@ -3,9 +3,9 @@ title: "Section 225e - Conditions of employment for former employees of Hospital
 usc_title: 24
 usc_section: "225e"
 chapter: 4
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "24 U.S.C. § 225e"
-generated_at: "2026-03-30T05:35:37.600Z"
+generated_at: "2026-03-30T05:39:09.819Z"
 status: "active"
 ---
 

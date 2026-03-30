@@ -3,9 +3,9 @@ title: "Section 2695 - Acceptance of funds to cover administrative expenses rela
 usc_title: 10
 usc_section: "2695"
 chapter: 159
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2695"
-generated_at: "2026-03-30T05:34:54.690Z"
+generated_at: "2026-03-30T05:38:26.141Z"
 status: "active"
 ---
 

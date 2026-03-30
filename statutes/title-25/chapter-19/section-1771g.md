@@ -1,15 +1,13 @@
 ---
-title: "Section 1771g - Applicability of State law"
+title: "Section 1771g - Omitted"
 usc_title: 25
 usc_section: "1771g"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1771g"
-generated_at: "2026-03-30T05:35:40.115Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1771g. Applicability of State law
-
-Except as otherwise expressly provided in this subchapter or in the State Implementing Act, the settlement lands and any other land that may now or hereafter be owned by or held in trust for any Indian tribe or entity in the town of Gay Head, Massachusetts, shall be subject to the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts and the town of Gay Head, Massachusetts (including those laws and regulations which prohibit or regulate the conduct of bingo or any other game of chance).
+# § 1771g. Omitted
 

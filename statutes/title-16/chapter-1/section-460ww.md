@@ -3,9 +3,9 @@ title: "Section 460ww - Establishment"
 usc_title: 16
 usc_section: "460ww"
 chapter: 1
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 460ww"
-generated_at: "2026-03-30T05:35:31.704Z"
+generated_at: "2026-03-30T05:38:48.460Z"
 status: "active"
 ---
 

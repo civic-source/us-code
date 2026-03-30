@@ -1,15 +1,13 @@
 ---
-title: "Section 1780a - Ratification of agreements"
+title: "Section 1780a - Omitted"
 usc_title: 25
 usc_section: "1780a"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1780a"
-generated_at: "2026-03-30T05:35:40.120Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1780a. Ratification of agreements
+# § 1780a. Omitted
 
-- **(a)** The Settlement Agreement and Los Alamos Agreement are ratified under Federal law, and the parties to those agreements are authorized to carry out the provisions of the agreements.
-- **(b)** The respective parties to the Settlement Agreement and the Los Alamos Agreement are authorized, by mutual agreement, to correct errors in any legal description or maps, and to make minor modifications to those agreements.

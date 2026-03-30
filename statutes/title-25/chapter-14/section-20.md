@@ -1,15 +1,13 @@
 ---
-title: "Section 20 - Use and right of access to religious shrines on reservation of other tribe"
+title: "Section 20 - Omitted"
 usc_title: 25
 usc_section: "20"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 20"
-generated_at: "2026-03-30T05:35:40.080Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.381Z"
+status: "omitted"
 ---
 
-# § 640d–20. Use and right of access to religious shrines on reservation of other tribe
-
-Notwithstanding anything contained in this subchapter to the contrary, the Secretary shall make reasonable provision for the use of and right of access to identified religious shrines for the members of each tribe on the reservation of the other tribe where such use and access are for religious purposes.
+# § 640d–20. Omitted
 

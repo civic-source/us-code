@@ -3,9 +3,9 @@ title: "Section 2282 - Feasibility reports"
 usc_title: 33
 usc_section: "2282"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2282"
-generated_at: "2026-03-30T05:36:42.553Z"
+generated_at: "2026-03-30T05:39:52.688Z"
 status: "active"
 ---
 
@@ -25,9 +25,9 @@ status: "active"
 - **(d)** For purposes of studies undertaken pursuant to this section, the Secretary is authorized to consider benefits which may accrue to Indian tribes as a result of a project resulting from such a study.
 - **(e)** The Secretary shall undertake such measures as are necessary to ensure that standard and uniform procedures and practices are followed by each district office (and each division office for any area in which there is no district office) of the United States Army Corps of Engineers in the preparation of feasibility reports on water resources projects.
 - **(f)**
-  - **(1)** The Secretary shall establish procedures to enhance public participation in the development of each feasibility study under subsection (a) of this section, including, if appropriate, establishment of a stakeholder advisory group to assist the Secretary with the development of the study.
+  - **(1)** The Secretary shall establish procedures to enhance public participation in the development of each feasibility study under subsection (a), including, if appropriate, establishment of a stakeholder advisory group to assist the Secretary with the development of the study.
   - **(2)** If the Secretary provides for the establishment of a stakeholder advisory group under this subsection, the membership of the advisory group shall include balanced representation of social, economic, and environmental interest groups, and such members shall serve on a voluntary, uncompensated basis.
-  - **(3)** Procedures established under this subsection shall not delay development of any feasibility study under subsection (a) of this section.
+  - **(3)** Procedures established under this subsection shall not delay development of any feasibility study under subsection (a).
 - **(g)**
   - **(1)** Not later than 180 days after June 10, 2014 , the Secretary shall determine a set of milestones needed for the completion of a feasibility study under this subsection, including all major actions, report submissions and responses, reviews, and comment periods.
   - **(2)** Each District Engineer shall, to the maximum extent practicable, establish a detailed project schedule, based on full funding capability, that lists all deadlines for milestones relating to feasibility studies in the District developed by the Secretary under paragraph (1).

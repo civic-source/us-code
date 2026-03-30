@@ -3,9 +3,9 @@ title: "Section 1098 - Advisory Committee on Student Financial Assistance"
 usc_title: 20
 usc_section: "1098"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1098"
-generated_at: "2026-03-30T05:35:34.237Z"
+generated_at: "2026-03-30T05:39:05.740Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(ii)** to the extent practicable, of their eligibility for other forms of State and institutional need-based student assistance;
     - **(E)** to make recommendations that will expand and improve partnerships among the Federal Government, States, institutions of higher education, and private entities to increase the awareness and the total amount of need-based student assistance available to low- and moderate-income students; and
     - **(F)** to collect information on Federal regulations, and on the impact of Federal regulations on student financial assistance and on the cost of receiving a postsecondary education, and to make recommendations to help streamline the regulations for institutions of higher education from all sectors.
-- **(b)** In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee’s administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary’s authority to terminate advisory committees of the Department pursuant to section 1233g(b) 1 1 See References in Text note below. of this title ceased to be effective on June 23, 1983 .
+- **(b)** In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee’s administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f). The Secretary’s authority to terminate advisory committees of the Department pursuant to section 1233g(b) 1 1 See References in Text note below. of this title ceased to be effective on June 23, 1983 .
 - **(c)**
   - **(1)** The Advisory Committee shall consist of 11 members appointed as follows:
     - **(A)** Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of the Senate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.

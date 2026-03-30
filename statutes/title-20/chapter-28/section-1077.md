@@ -3,9 +3,9 @@ title: "Section 1077 - Eligibility of student borrowers and terms of federally i
 usc_title: 20
 usc_section: "1077"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1077"
-generated_at: "2026-03-30T05:35:34.214Z"
+generated_at: "2026-03-30T05:39:05.716Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** made to a student who (A) is an eligible student under section 1091 of this title , (B) has agreed to notify promptly the holder of the loan concerning any change of address, and (C) is carrying at least one-half the normal full-time academic workload for the course of study the student is pursuing (as determined by the institution); and
   - **(2)** evidenced by a note or other written agreement which—
     - **(A)** is made without security and without endorsement;
-    - **(B)** provides for repayment (except as provided in subsection (c) of this section) of the principal amount of the loan in installments over a period of not less than 5 years (unless sooner repaid or unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at an eligible institution at least one-half the normal full-time academic workload as determined by the institution, except—
+    - **(B)** provides for repayment (except as provided in subsection (c)) of the principal amount of the loan in installments over a period of not less than 5 years (unless sooner repaid or unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at an eligible institution at least one-half the normal full-time academic workload as determined by the institution, except—
       - **(i)** as provided in subparagraph (C);
       - **(ii)** that the note or other written instrument may contain such reasonable provisions relating to repayment in the event of default in the payment of interest or in the payment of the cost of insurance premiums, or other default by the borrower, as may be authorized by regulations of the Secretary in effect at the time the loan is made; and
       - **(iii)** that the lender and the student, after the student ceases to carry at an eligible institution at least one-half the normal full-time academic workload as determined by the institution, may agree to a repayment schedule which begins earlier, or is of shorter duration, than required by this subparagraph, but in the event a borrower has requested and obtained a repayment period of less than 5 years, the borrower may at any time prior to the total repayment of the loan, have the repayment period extended so that the total repayment period is not less than 5 years;
@@ -38,8 +38,8 @@ status: "active"
       - **(ii)** to prohibit the disbursement of loan proceeds by means other than by check; and
     - **(B)** in the case of any student who is studying outside the United States in a program of study abroad that is approved for credit by the home institution at which such student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney; and
   - **(4)** the funds borrowed by a student are disbursed in accordance with section 1078–7 of this title .
-- **(b)** For the purpose of subsection (a)(4) of this section—
+- **(b)** For the purpose of subsection (a)(4)—
   - **(1)** all loans issued for the same period of enrollment shall be considered as a single loan; and
   - **(2)** the requirements of such subsection shall not apply in the case of a loan made under section 1078–2 or 1078–3 of this title, or made to a student to cover the cost of attendance at an eligible institution outside the United States.
-- **(c)** Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
+- **(c)** Except as provided in subsection (a)(2)(H), the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
 - **(d)** The lender shall obtain the borrower’s driver’s license number, if any, at the time of application for the loan.

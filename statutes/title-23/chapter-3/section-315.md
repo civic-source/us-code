@@ -3,9 +3,9 @@ title: "Section 315 - Rules, regulations, and recommendations"
 usc_title: 23
 usc_section: "315"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "23 U.S.C. § 315"
-generated_at: "2026-03-30T05:35:38.805Z"
+generated_at: "2026-03-30T05:39:14.210Z"
 status: "active"
 ---
 

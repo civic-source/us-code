@@ -3,9 +3,9 @@ title: "Section 2411 - Definitions"
 usc_title: 10
 usc_section: "2411"
 chapter: 142
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2411"
-generated_at: "2026-03-30T05:34:54.677Z"
+generated_at: "2026-03-30T05:38:26.128Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ In this chapter:
     - **(A)** A State.
     - **(B)** A local government.
     - **(C)** A private, nonprofit organization.
-    - **(D)** A tribal organization, as defined in section 4( l ) of the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 ; 25 U.S.C. 450b ( l )), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 ( Public Law 93–262 ; 25 U.S.C. 1452(e) ), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+    - **(D)** A tribal organization, as defined in section 4( l ) of the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 ; 25 U.S.C. 450b ( l )), 1 1 See References in Text note below. or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 ( Public Law 93–262 ; 25 U.S.C. 1452(e) ), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
   - **(2)** The term “distressed area” means—
     - **(A)** the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government) that—
       - **(i)** has a per capita income of 80 percent or less of the State average; or

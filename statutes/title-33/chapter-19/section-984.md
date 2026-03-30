@@ -3,9 +3,9 @@ title: "Section 984 - General powers of Corporation"
 usc_title: 33
 usc_section: "984"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 984"
-generated_at: "2026-03-30T05:36:42.524Z"
+generated_at: "2026-03-30T05:39:52.660Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
   - **(12)** may participate with the Saint Lawrence Seaway Authority of Canada, or its designee, in the ownership and operation of a toll bridge company: Provided , That the United States’ portion of the revenue from the tolls charged to the users of any toll bridge operated under this section shall be applied solely to the cost of the bridge and approaches, including maintenance and operation, amortization of principal and interest, as established by the Secretary of the Treasury; and
   - **(13)** 2 2 So in original. There are two pars. designated (13). shall be credited with amounts received from any of the activities authorized by clauses (10) and (11) 3 3 Clauses (10), (11), and (12) redesignated (11), (12), and (13) by Pub. L. 97–369 . of this subsection.
   - **(13)** 2 shall accept such amounts as may be transferred to the Corporation under section 9505(c)(1) of title 26 , except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title .
-- **(b)** Amounts credited under subsection (a)(12) 3 of this section are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11) 3 of this section.
+- **(b)** Amounts credited under subsection (a)(12) 3 are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11). 3

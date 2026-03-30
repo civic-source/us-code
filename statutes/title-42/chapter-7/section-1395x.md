@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T05:37:41.265Z"
+generated_at: "2026-03-30T05:40:25.936Z"
 status: "active"
 ---
 
@@ -355,7 +355,7 @@ For purposes of this subchapter—
         - **(I)** is receiving funding from such a grant under a contract with the recipient of such a grant, and (II) meets the requirements to receive a grant under section 330 of such Act [ 42 U.S.C. 254b ];
     - **(B)** based on the recommendation of the Health Resources and Services Administration within the Public Health Service, is determined by the Secretary to meet the requirements for receiving such a grant;
     - **(C)** was treated by the Secretary, for purposes of part B of this subchapter, as a comprehensive Federally funded health center as of January 1, 1990 ; or
-    - **(D)** is an outpatient health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] or by an urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act [ 25 U.S.C. 1651 et seq.].
+    - **(D)** is an outpatient health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] or by an urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act [ 25 U.S.C. 1651 et seq.].
   - **(5)**
     - **(A)** The term “physician assistant” and the term “nurse practitioner” mean, for purposes of this subchapter, a physician assistant or nurse practitioner who performs such services as such individual is legally authorized to perform (in the State in which the individual performs such services) in accordance with State law (or the State regulatory mechanism provided by State law), and who meets such training, education, and experience requirements (or any combination thereof) as the Secretary may prescribe in regulations.
     - **(B)** The term “clinical nurse specialist” means, for purposes of this subchapter, an individual who—

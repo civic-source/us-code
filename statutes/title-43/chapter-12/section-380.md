@@ -1,13 +1,13 @@
 ---
-title: "Section 380 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
+title: "Section 380 - Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029"
 usc_title: 43
 usc_section: "380"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 380"
-generated_at: "2026-03-30T05:37:11.803Z"
+generated_at: "2026-03-30T05:40:01.184Z"
 status: "repealed"
 ---
 
-# § 380. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029
+# § 380. Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029
 

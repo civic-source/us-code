@@ -3,9 +3,9 @@ title: "Section 1063a - Applications"
 usc_title: 20
 usc_section: "1063a"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1063a"
-generated_at: "2026-03-30T05:35:34.205Z"
+generated_at: "2026-03-30T05:39:05.706Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
   - **(2)** provide for making an annual report to the Secretary and provide for—
     - **(A)** conducting, except as provided in subparagraph (B), a financial and compliance audit of an eligible institution, with regard to any funds obtained by it under this subchapter at least once every 2 years and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
     - **(B)** with regard to an eligible institution which is audited under chapter 75 of title 31 deeming such audit to satisfy the requirements of subparagraph (A) for the period covered by such audit.
-- **(b)** The Secretary shall approve any application which meets the requirements of subsection (a) of this section and shall not disapprove any application submitted under this part, or any modification thereof, without first affording such institution reasonable notice and opportunity for a hearing.
+- **(b)** The Secretary shall approve any application which meets the requirements of subsection (a) and shall not disapprove any application submitted under this part, or any modification thereof, without first affording such institution reasonable notice and opportunity for a hearing.
 - **(c)** Any application for a grant under this part shall describe measurable goals for the institution’s financial management and academic programs and include a plan of how the applicant intends to achieve those goals.

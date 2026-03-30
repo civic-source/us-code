@@ -3,15 +3,15 @@ title: "Section 5802 - National Natural Resources Conservation Foundation"
 usc_title: 16
 usc_section: "5802"
 chapter: 78
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 5802"
-generated_at: "2026-03-30T05:35:31.852Z"
+generated_at: "2026-03-30T05:38:48.602Z"
 status: "active"
 ---
 
 # § 5802. National Natural Resources Conservation Foundation
 
-- **(a)** A National Natural Resources Conservation Foundation is established as a charitable and nonprofit corporation for charitable, scientific, and educational purposes specified in subsection (b) of this section. The Foundation is not an agency or instrumentality of the United States.
+- **(a)** A National Natural Resources Conservation Foundation is established as a charitable and nonprofit corporation for charitable, scientific, and educational purposes specified in subsection (b). The Foundation is not an agency or instrumentality of the United States.
 - **(b)** The Foundation shall—
   - **(1)** promote innovative solutions to the problems associated with the conservation of natural resources on private lands, particularly with respect to agriculture and soil and water conservation;
   - **(2)** promote voluntary partnerships between government and private interests in the conservation of natural resources;

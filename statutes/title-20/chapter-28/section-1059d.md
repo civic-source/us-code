@@ -3,9 +3,9 @@ title: "Section 1059d - Alaska Native and Native Hawaiian-serving institutions"
 usc_title: 20
 usc_section: "1059d"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1059d"
-generated_at: "2026-03-30T05:35:34.205Z"
+generated_at: "2026-03-30T05:39:05.704Z"
 status: "active"
 ---
 
@@ -34,11 +34,11 @@ status: "active"
     - **(H)** academic tutoring and counseling programs and student support services; and
     - **(I)** education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ families.
 - **(d)**
-  - **(1)** Each Alaska Native-serving institution and Native Hawaiian-serving institution desiring to receive assistance under this section shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is an Alaska Native-serving institution or a Native Hawaiian-serving institution as defined in subsection (b) of this section, along with such other information and data as the Secretary may by regulation require.
+  - **(1)** Each Alaska Native-serving institution and Native Hawaiian-serving institution desiring to receive assistance under this section shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is an Alaska Native-serving institution or a Native Hawaiian-serving institution as defined in subsection (b), along with such other information and data as the Secretary may by regulation require.
   - **(2)** Any institution which is determined by the Secretary to be an Alaska Native-serving institution or a Native Hawaiian-serving institution may submit an application for assistance under this section to the Secretary. The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section. Such application shall include—
     - **(A)** a 5-year plan for improving the assistance provided by the Alaska Native-serving institution or the Native Hawaiian-serving institution to Alaska Native or Native Hawaiian students; and
     - **(B)** such other information and assurance as the Secretary may require.
   - **(3)**
-    - **(A)** No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under other provisions of this part or part B of this subchapter.
+    - **(A)** No Alaskan Native-serving institution or Native Hawaiian-serving institution that receives funds under this section shall concurrently receive funds under other provisions of this part or part B.
     - **(B)** Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
     - **(C)** In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.

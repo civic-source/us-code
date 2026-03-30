@@ -3,9 +3,9 @@ title: "Section 201 - Federal lands and tribal transportation programs"
 usc_title: 23
 usc_section: "201"
 chapter: 2
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "23 U.S.C. § 201"
-generated_at: "2026-03-30T05:35:38.803Z"
+generated_at: "2026-03-30T05:39:14.207Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(6)**
     - **(A)**
       - **(i)** The Secretaries of the appropriate Federal land management agencies shall collect and report data necessary to implement the Federal lands transportation program, the Federal lands access program, and the tribal transportation program.
-      - **(ii)** Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+      - **(ii)** Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
       - **(iii)** Data collected under this paragraph includes—
         - **(I)** inventory and condition information on Federal lands transportation facilities and tribal transportation facilities; and
         - **(II)** bridge inspection and inventory information on any Federal bridge open to the public.

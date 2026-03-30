@@ -3,9 +3,9 @@ title: "Section 1101a - Definitions; eligibility"
 usc_title: 20
 usc_section: "1101a"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1101a"
-generated_at: "2026-03-30T05:35:34.239Z"
+generated_at: "2026-03-30T05:39:05.742Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The term “educational and general expenditures” means the total amount expended by an institution for instruction, research, public service, academic support (including library expenditures), student services, institutional support, scholarships and fellowships, operation and maintenance expenditures for the physical plant, and any mandatory transfers that the institution is required to pay by law.
   - **(2)** The term “eligible institution” means—
     - **(A)** an institution of higher education—
-      - **(i)** that has an enrollment of needy students as required by subsection (b) of this section;
+      - **(i)** that has an enrollment of needy students as required by subsection (b);
       - **(ii)** except as provided in section 1103a(b) of this title , the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
       - **(iii)** that is—
         - **(I)** legally authorized to provide, and provides within the State, an educational program for which the institution awards a bachelor’s degree; or

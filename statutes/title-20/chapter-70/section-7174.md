@@ -3,9 +3,9 @@ title: "Section 7174 - Local competitive subgrant program"
 usc_title: 20
 usc_section: "7174"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7174"
-generated_at: "2026-03-30T05:35:34.296Z"
+generated_at: "2026-03-30T05:39:05.802Z"
 status: "active"
 ---
 
@@ -51,6 +51,7 @@ status: "active"
 - **(f)** To the extent practicable, a State educational agency shall distribute subgrant funds under this part equitably among geographic areas within the State, including urban and rural communities.
 - **(g)** A subgrant awarded under this part shall be awarded for a period of not less than 3 years and not more than 5 years.
 - **(h)** A subgrant awarded under this part may not be made in an amount that is less than $50,000.
+- **(i)**
   - **(1)** In awarding subgrants under this part, a State educational agency shall give priority to applications—
     - **(A)** proposing to target services to—
       - **(i)** students who primarily attend schools that—
@@ -65,5 +66,4 @@ status: "active"
       - **(ii)** would expand accessibility to high-quality services that may be available in the community.
   - **(2)** The State educational agency shall provide the same priority under paragraph (1) to an application submitted by a local educational agency if the local educational agency demonstrates that it is unable to partner with a community-based organization in reasonable geographic proximity and of sufficient quality to meet the requirements of this part.
   - **(3)** A State educational agency may not give a priority or a preference to eligible entities that seek to use funds made available under this part to extend the regular school day.
-      - **(i)** Priority
 - **(j)** A State educational agency may renew a subgrant provided under this part to an eligible entity, based on the eligible entity’s performance during the preceding subgrant period.

@@ -1,13 +1,13 @@
 ---
-title: "Section 84 - Repealed. Pub. L. 86–649, title II, § 202(b) , July 14, 1960 , 74 Stat. 507"
+title: "Section 84 - Repealed. Pub. L. 86–649, title II , § 202(b), July 14, 1960 , 74 Stat. 507"
 usc_title: 43
 usc_section: "84"
 chapter: 4
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "43 U.S.C. § 84"
-generated_at: "2026-03-30T05:37:11.799Z"
+generated_at: "2026-03-30T05:40:01.178Z"
 status: "repealed"
 ---
 
-# § 84. Repealed. Pub. L. 86–649, title II, § 202(b) , July 14, 1960 , 74 Stat. 507
+# § 84. Repealed. Pub. L. 86–649, title II , § 202(b), July 14, 1960 , 74 Stat. 507
 

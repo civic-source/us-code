@@ -3,9 +3,9 @@ title: "Section 1931 - Additional compensation for employees with specialty assi
 usc_title: 2
 usc_section: "1931"
 chapter: 29
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "2 U.S.C. § 1931"
-generated_at: "2026-03-30T05:34:47.350Z"
+generated_at: "2026-03-30T05:38:03.123Z"
 status: "active"
 ---
 

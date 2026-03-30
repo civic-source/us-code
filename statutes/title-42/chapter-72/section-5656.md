@@ -3,9 +3,9 @@ title: "Section 5656 - Grants to Indian tribes"
 usc_title: 42
 usc_section: "5656"
 chapter: 72
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 5656"
-generated_at: "2026-03-30T05:37:41.468Z"
+generated_at: "2026-03-30T05:40:26.150Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(A)** in the 2-year period for which a grant made under this section shall be expended, the recipient of such grant applies to receive a subsequent grant under this section; and
     - **(B)** the Administrator determines that such recipient performed during the year preceding the 2–year period for which such recipient applies to receive such subsequent grant satisfactorily and in accordance with the terms and conditions applicable to the grant received;
   - **(3)** The Administrator may modify by rule the operation of subsection (a) of this section with respect to the submission and contents of applications for subsequent grants described in paragraph (2).
-- **(d)** Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of section 450c(f)(1) of title 25 , relating to the submission of a single-agency audit report required by chapter 75 of title 31.
+- **(d)** Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of section 5305(f)(1) of title 25 , relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 - **(e)**
   - **(1)** Funds appropriated for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of any program or project with a matching requirement funded under this section.
   - **(2)** Paragraph (1) shall not apply with respect to funds appropriated before November 2, 2002 .

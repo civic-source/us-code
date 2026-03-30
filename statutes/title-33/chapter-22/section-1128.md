@@ -3,9 +3,9 @@ title: "Section 1128 - National Sea Grant Advisory Board"
 usc_title: 33
 usc_section: "1128"
 chapter: 22
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1128"
-generated_at: "2026-03-30T05:36:42.525Z"
+generated_at: "2026-03-30T05:39:52.661Z"
 status: "active"
 ---
 
@@ -27,5 +27,5 @@ status: "active"
     - **(A)** receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5 , when actually engaged in the performance of duties for such Board; and
     - **(B)** be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
   - **(6)** The Board shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Director.
-  - **(7)** The Board may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
+  - **(7)** The Board may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
   - **(8)** The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.

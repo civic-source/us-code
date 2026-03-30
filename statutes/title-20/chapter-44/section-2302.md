@@ -3,9 +3,9 @@ title: "Section 2302 - Definitions"
 usc_title: 20
 usc_section: "2302"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 2302"
-generated_at: "2026-03-30T05:35:34.265Z"
+generated_at: "2026-03-30T05:39:05.769Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ Unless otherwise specified, in this chapter:
     - **(A)** a public or nonprofit private institution of higher education that offers career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
     - **(B)** a local educational agency providing education at the postsecondary level;
     - **(C)** an area career and technical education school providing education at the postsecondary level;
-    - **(D)** a postsecondary educational institution controlled by the Bureau of Indian Affairs or operated by or on behalf of any Indian tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) or the Act of April 16, 1934 ( 25 U.S.C. 452 et seq.);
+    - **(D)** a postsecondary educational institution controlled by the Bureau of Indian Affairs or operated by or on behalf of any Indian tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. or the Act of April 16, 1934 ( 25 U.S.C. 452 et seq.); 1
     - **(E)** an educational service agency; or
     - **(F)** a consortium of 2 or more of the entities described in subparagraphs (A) through (E).
   - **(14)** The term “eligible recipient” means—

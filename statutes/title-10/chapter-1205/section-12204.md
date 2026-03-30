@@ -3,9 +3,9 @@ title: "Section 12204 - Commissioned officers: original appointment; limitation"
 usc_title: 10
 usc_section: "12204"
 chapter: 1205
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 12204"
-generated_at: "2026-03-30T05:34:54.730Z"
+generated_at: "2026-03-30T05:38:26.178Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7113 - Formula grants to States"
 usc_title: 20
 usc_section: "7113"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7113"
-generated_at: "2026-03-30T05:35:34.295Z"
+generated_at: "2026-03-30T05:39:05.800Z"
 status: "active"
 ---
 
@@ -18,8 +18,9 @@ status: "active"
 - **(b)**
   - **(1)**
     - **(A)** Subject to subparagraphs (B) and (C), from the amount appropriated to carry out this subpart that remains after the Secretary makes the reservations under subsection (a), the Secretary shall allot to each State having a plan approved under subsection (c), an amount that bears the same relationship to the remainder as the amount the State received under subpart 2 of part A of subchapter I for the preceding fiscal year bears to the amount all States received under that subpart for the preceding fiscal year.
-    - **(B)**
+    - **(B)** No State receiving an allotment under this paragraph shall receive less than one-half of 1 percent of the total amount allotted under this paragraph.
     - **(C)** The amount allotted under this paragraph to the Commonwealth of Puerto Rico for a fiscal year may not exceed one-half of 1 percent of the total amount allotted under this paragraph.
+  - **(2)** If a State does not receive an allotment under this subpart for a fiscal year, the Secretary shall reallot the amount of the State’s allotment to the remaining States in accordance with this subsection.
 - **(c)**
   - **(1)** In order to receive an allotment under this section for any fiscal year, a State shall submit a plan to the Secretary, at such time and in such manner as the Secretary may reasonably require.
   - **(2)** Each plan submitted by a State under this section shall include the following:

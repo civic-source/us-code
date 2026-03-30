@@ -3,16 +3,16 @@ title: "Section 3473 - Reorganization of Department"
 usc_title: 20
 usc_section: "3473"
 chapter: 48
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 3473"
-generated_at: "2026-03-30T05:35:34.272Z"
+generated_at: "2026-03-30T05:39:05.776Z"
 status: "active"
 ---
 
 # § 3473. Reorganization of Department
 
 - **(a)** The Secretary is authorized, subject to the requirements of section 3412(f) of this title , to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
-  - **(1)** any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b) of this section;
+  - **(1)** any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b);
   - **(2)** the abolition of organizational entities established by this chapter; or
   - **(3)** the alteration of the delegation of functions to any specific organizational entity required by this chapter.
 - **(b)**

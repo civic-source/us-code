@@ -3,9 +3,9 @@ title: "Section 433 - Relationship with other Federal laws"
 usc_title: 10
 usc_section: "433"
 chapter: 21
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 433"
-generated_at: "2026-03-30T05:34:54.606Z"
+generated_at: "2026-03-30T05:38:25.937Z"
 status: "active"
 ---
 

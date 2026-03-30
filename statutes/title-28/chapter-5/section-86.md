@@ -3,9 +3,9 @@ title: "Section 86 - Connecticut"
 usc_title: 28
 usc_section: "86"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "28 U.S.C. § 86"
-generated_at: "2026-03-30T05:36:01.979Z"
+generated_at: "2026-03-30T05:39:37.916Z"
 status: "active"
 ---
 

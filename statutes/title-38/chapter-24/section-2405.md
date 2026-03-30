@@ -3,9 +3,9 @@ title: "Section 2405 - Disposition of inactive cemeteries"
 usc_title: 38
 usc_section: "2405"
 chapter: 24
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "38 U.S.C. § 2405"
-generated_at: "2026-03-30T05:36:57.076Z"
+generated_at: "2026-03-30T05:39:58.780Z"
 status: "active"
 ---
 

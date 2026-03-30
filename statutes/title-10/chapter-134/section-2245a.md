@@ -3,9 +3,9 @@ title: "Section 2245a - Use of operation and maintenance funds for purchase of i
 usc_title: 10
 usc_section: "2245a"
 chapter: 134
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2245a"
-generated_at: "2026-03-30T05:34:54.663Z"
+generated_at: "2026-03-30T05:38:26.115Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 941 - Strategic plan to enhance the security of the internationa
 usc_title: 6
 usc_section: "941"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "6 U.S.C. § 941"
-generated_at: "2026-03-30T05:34:49.716Z"
+generated_at: "2026-03-30T05:38:06.703Z"
 status: "active"
 ---
 

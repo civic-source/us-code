@@ -3,9 +3,9 @@ title: "Section 1232h - Protection of pupil rights"
 usc_title: 20
 usc_section: "1232h"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1232h"
-generated_at: "2026-03-30T05:35:34.252Z"
+generated_at: "2026-03-30T05:39:05.756Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(7)** religious practices, affiliations, or beliefs of the student or student’s parent; or
   - **(8)** income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),
 - **(c)**
-  - **(1)** Except as provided in subsections (a) and (b) of this section, a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+  - **(1)** Except as provided in subsections (a) and (b), a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
     - **(A)**
       - **(i)** The right of a parent of a student to inspect, upon the request of the parent, a survey created by a third party before the survey is administered or distributed by a school to a student; and
       - **(ii)** any applicable procedures for granting a request by a parent for reasonable access to such survey within a reasonable period of time after the request is received.

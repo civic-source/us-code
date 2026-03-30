@@ -3,9 +3,9 @@ title: "Section 102702 - Crime prevention assistance"
 usc_title: 54
 usc_section: "102702"
 chapter: 1027
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "54 U.S.C. § 102702"
-generated_at: "2026-03-30T05:37:51.301Z"
+generated_at: "2026-03-30T05:40:39.210Z"
 status: "active"
 ---
 

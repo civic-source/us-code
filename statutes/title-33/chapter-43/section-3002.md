@@ -3,15 +3,15 @@ title: "Section 3002 - Definitions"
 usc_title: 33
 usc_section: "3002"
 chapter: 43
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 3002"
-generated_at: "2026-03-30T05:36:42.566Z"
+generated_at: "2026-03-30T05:39:52.701Z"
 status: "active"
 ---
 
 # § 3002. Definitions
 
-- **(a)** Except as provided in subsection (b) of this section, the definitions provided in section 101 of title 10 apply to the provisions of this chapter.
+- **(a)** Except as provided in subsection (b), the definitions provided in section 101 of title 10 apply to the provisions of this chapter.
 - **(b)** In this chapter:
   - **(1)** The term “active duty” means full-time duty in the active service of a uniformed service.
   - **(2)** The term “grade” means a step or degree, in a graduated scale of office or rank, that is established and designated as a grade by law or regulation.

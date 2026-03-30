@@ -3,9 +3,9 @@ title: "Section 1088 - Definitions"
 usc_title: 20
 usc_section: "1088"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1088"
-generated_at: "2026-03-30T05:35:34.231Z"
+generated_at: "2026-03-30T05:39:05.733Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
       - **(iii)** satisfies such further criteria as the Secretary may prescribe by regulation.
     - **(B)** In the case of a program being determined eligible for the first time under this paragraph, such determination shall be made by the Secretary before such program is considered to have satisfied the requirements of this paragraph.
   - **(3)** An otherwise eligible program that is offered in whole or in part through telecommunications is eligible for the purposes of this subchapter and part C of subchapter I of chapter 34 of title 42 if the program is offered by an institution, other than a foreign institution, that has been evaluated and determined (before or after February 8, 2006 ) to have the capability to effectively deliver distance education programs by an accrediting agency or association that—
-    - **(A)** is recognized by the Secretary under subpart 2 of part G of this subchapter; and
+    - **(A)** is recognized by the Secretary under subpart 2 of part G; and
     - **(B)** has evaluation of distance education programs within the scope of its recognition, as described in section 1099b(n)(3) of this title .
   - **(4)** For purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “eligible program” includes an instructional program that, in lieu of credit hours or clock hours as the measure of student learning, utilizes direct assessment of student learning, or recognizes the direct assessment of student learning by others, if such assessment is consistent with the accreditation of the institution or program utilizing the results of the assessment. In the case of a program being determined eligible for the first time under this paragraph, such determination shall be made by the Secretary before such program is considered to be an eligible program.
 - **(c)** For purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “third party servicer” means any individual, any State, or any private, for-profit or nonprofit organization, which enters into a contract with—

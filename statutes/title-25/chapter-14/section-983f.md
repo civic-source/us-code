@@ -1,16 +1,13 @@
 ---
-title: "Section 983f - Tribal constitution"
+title: "Section 983f - Omitted"
 usc_title: 25
 usc_section: "983f"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 983f"
-generated_at: "2026-03-30T05:35:40.093Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 983f. Tribal constitution
+# § 983f. Omitted
 
-- **(a)** Upon the completion of the tribal membership roll and upon the written request of the Interim Council, the Secretary shall conduct, by secret ballot, an election to adopt a constitution for the Tribe. Such constitution shall be submitted by the Interim Council to the Secretary no later than 1 year following October 31, 1990 . Absentee balloting shall be permitted regardless of voter residence. In every other regard, the election shall be held according to section 476 of this title .
-- **(b)** Not later than 120 days after the Tribe adopts a tribal constitution, the Secretary shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in the constitution. Said election shall be conducted according to the procedures stated in subsection (a) of this section except to the extent that said procedures conflict with the tribal constitution.
-- **(c)** Notwithstanding any other provision of law, the governing body of the Tribe established under the constitution of the Tribe that is adopted under subsection (a) shall be treated as an Indian tribal government for purposes of title 26.

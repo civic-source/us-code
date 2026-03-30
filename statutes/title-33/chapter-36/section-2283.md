@@ -3,9 +3,9 @@ title: "Section 2283 - Fish and wildlife mitigation"
 usc_title: 33
 usc_section: "2283"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2283"
-generated_at: "2026-03-30T05:36:42.555Z"
+generated_at: "2026-03-30T05:39:52.689Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
   - **(2)** such enhancement is designed to benefit species that have been listed as threatened or endangered by the Secretary of the Interior under the terms of the Endangered Species Act, as amended ( 16 U.S.C. 1531 , et seq.), or
   - **(3)** such activities are located on lands managed as a national wildlife refuge.
 - **(f)** Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88 , and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
-- **(g)** The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act [ 16 U.S.C. 661 et seq.], and nothing in this section is intended to affect that Act.
+- **(g)** The provisions of subsections (a), (b), and (d) shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act [ 16 U.S.C. 661 et seq.], and nothing in this section is intended to affect that Act.
 - **(h)**
   - **(1)** The Secretary may develop programmatic mitigation plans to address the potential impacts to ecological resources, fish, and wildlife associated with existing or future Federal water resources development projects.
   - **(2)** The Secretary shall, to the maximum extent practicable, use programmatic mitigation plans developed in accordance with this subsection to guide the development of a mitigation plan under subsection (d).

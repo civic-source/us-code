@@ -3,9 +3,9 @@ title: "Section 5702 - Christopher Columbus Fellowship Foundation"
 usc_title: 20
 usc_section: "5702"
 chapter: 67
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 5702"
-generated_at: "2026-03-30T05:35:34.281Z"
+generated_at: "2026-03-30T05:39:05.785Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** 2 members appointed by the President in consultation with the Minority Leader of the House of Representatives.
   - **(5)** 5 members appointed by the President.
 - **(c)** The President shall designate a Chairman and a Vice Chairman from among the members appointed by the President.
-- **(d)** Each member of the Board of Trustees appointed under subsection (b) of this section shall serve for a term of 6 years from the expiration of the term of such member’s predecessor, except that—
+- **(d)** Each member of the Board of Trustees appointed under subsection (b) shall serve for a term of 6 years from the expiration of the term of such member’s predecessor, except that—
   - **(1)** any member appointed to fill a vacancy occurring prior to the expiration of the term for which such member’s predecessor was appointed shall be appointed for the remainder of such term; and
   - **(2)** of the members first appointed—
     - **(A)** 4 shall be appointed for a term of 2 years;

@@ -3,16 +3,16 @@ title: "Section 7703 - Payments for eligible federally connected children"
 usc_title: 20
 usc_section: "7703"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7703"
-generated_at: "2026-03-30T05:35:34.304Z"
+generated_at: "2026-03-30T05:39:05.810Z"
 status: "active"
 ---
 
 # § 7703. Payments for eligible federally connected children
 
 - **(a)**
-  - **(1)** For the purpose of computing the amount that a local educational agency is eligible to receive under subsection (b) or (d) of this section for any fiscal year, the Secretary shall determine the number of children who were in average daily attendance in the schools of such agency, and for whom such agency provided free public education, during the preceding school year and who, while in attendance at such schools—
+  - **(1)** For the purpose of computing the amount that a local educational agency is eligible to receive under subsection (b) or (d) for any fiscal year, the Secretary shall determine the number of children who were in average daily attendance in the schools of such agency, and for whom such agency provided free public education, during the preceding school year and who, while in attendance at such schools—
     - **(A)**
       - **(i)** resided on Federal property with a parent employed on Federal property situated in whole or in part within the boundaries of the school district of such agency; or
       - **(ii)** resided on Federal property with a parent who is an official of, and accredited by, a foreign government and is a foreign military officer;
@@ -26,7 +26,7 @@ status: "active"
     - **(G)** resided with a parent employed on Federal property situated—
       - **(i)** in whole or in part in the county in which such agency is located, or in whole or in part in such agency if such agency is located in more than one county; or
       - **(ii)** if not in such county, in whole or in part in the same State as such agency.
-  - **(2)** For the purpose of computing the basic support payment under subsection (b) of this section, the Secretary shall calculate the total number of weighted student units for a local educational agency by adding together the results obtained by the following computations:
+  - **(2)** For the purpose of computing the basic support payment under subsection (b), the Secretary shall calculate the total number of weighted student units for a local educational agency by adding together the results obtained by the following computations:
     - **(A)** Multiply the number of children described in subparagraphs (A) and (B) of paragraph (1) by a factor of 1.0.
     - **(B)** Multiply the number of children described in paragraph (1)(C) by a factor of 1.25.
     - **(C)** Multiply the number of children described in subparagraphs (A) and (B) of paragraph (1) by a factor of .35 if the local educational agency has—
@@ -53,11 +53,11 @@ status: "active"
       - **(ii)** shall reduce the amount of the payment under this section by an amount equal to the amount of revenue from such taxation received in the second preceding fiscal year by such local educational agency, unless the amount of such revenue was taken into account by the State for such second preceding fiscal year and already resulted in a reduction in the amount of State aid paid to such local educational agency.
 - **(b)**
   - **(1)**
-    - **(A)** From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible local educational agencies with children described in subsection (a) of this section.
-    - **(B)** A local educational agency is eligible to receive a basic support payment under subparagraph (A) for a fiscal year with respect to a number of children determined under subsection (a)(1) of this section only if the number of children so determined with respect to such agency amounts to the lesser of—
+    - **(A)** From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible local educational agencies with children described in subsection (a).
+    - **(B)** A local educational agency is eligible to receive a basic support payment under subparagraph (A) for a fiscal year with respect to a number of children determined under subsection (a)(1) only if the number of children so determined with respect to such agency amounts to the lesser of—
       - **(i)** at least 400 such children; or
       - **(ii)** a number of such children which equals at least 3 percent of the total number of children who were in average daily attendance, during such year, at the schools of such agency and for whom such agency provided free public education.
-    - **(C)** The maximum amount that a local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) of this section, multiplied by the greater of—
+    - **(C)** The maximum amount that a local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2), multiplied by the greater of—
       - **(i)** one-half of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made;
       - **(ii)** one-half of the average per-pupil expenditure of all of the States for the third fiscal year preceding the fiscal year for which the determination is made;
       - **(iii)** the comparable local contribution rate certified by the State, as determined under regulations prescribed to carry out the Act of September 30, 1950 (Public Law 874, 81st Congress), as such regulations were in effect on January 1, 1994 ; or
@@ -67,7 +67,7 @@ status: "active"
     - **(F)** Beginning with fiscal year 2002, for the purpose of calculating a payment under this paragraph for a local educational agency whose local contribution rate was computed under subparagraph (C)(iii) for the previous year, the Secretary shall use a local contribution rate that is not less than 95 percent of the rate that the LEA received for the preceding year.
   - **(2)**
     - **(A)**
-      - **(i)** From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible heavily impacted local educational agencies with children described in subsection (a) of this section.
+      - **(i)** From the amount appropriated under section 7714(b) of this title for a fiscal year, the Secretary is authorized to make basic support payments to eligible heavily impacted local educational agencies with children described in subsection (a).
       - **(ii)** A local educational agency that receives a basic support payment under this paragraph for a fiscal year shall not be eligible to receive a basic support payment under paragraph (1) for that fiscal year.
     - **(B)**
       - **(i)** A heavily impacted local educational agency is eligible to receive a basic support payment under subparagraph (A) with respect to a number of children determined under subsection (a)(1) if the agency—
@@ -111,7 +111,7 @@ status: "active"
     - **(A)** For any fiscal year in which the sums appropriated under section 7714(b) of this title are insufficient to pay to each local educational agency the full amount computed under paragraphs (1) and (2), the Secretary shall make payments in accordance with this paragraph.
     - **(B)**
       - **(i)** For fiscal years described in subparagraph (A), the Secretary shall compute a learning opportunity threshold payment (hereafter in this subchapter referred to as the “threshold payment”) in lieu of basic support payments under paragraph (1) by multiplying the amount obtained under paragraph (1)(C) by the total percentage obtained by adding—
-        - **(I)** the percentage of federally connected children for each local educational agency determined by calculating the fraction, the numerator of which is the total number of children described under subsection (a)(1) of this section and the denominator of which is the total number of children in average daily attendance at the schools served by such agency; and
+        - **(I)** the percentage of federally connected children for each local educational agency determined by calculating the fraction, the numerator of which is the total number of children described under subsection (a)(1) and the denominator of which is the total number of children in average daily attendance at the schools served by such agency; and
         - **(II)** the percentage that funds under paragraph (1)(C) represent of the total budget of the local educational agency, determined by calculating the fraction, the numerator of which is the total amount of funds calculated for each local educational agency under this paragraph, and the denominator of which is the total current expenditures for such agency in the second preceding fiscal year for which the determination is made.
       - **(ii)** Such total percentage used to calculate threshold payments under paragraph (1) shall not exceed 100.
       - **(iii)** In the case of a local educational agency providing a free public education to students enrolled in kindergarten through grade 12, that enrolls students described in subparagraphs (A), (B), and (D) of subsection (a)(1) only in grades 9 through 12, and that received a final payment for fiscal year 2009 calculated under section 7703(b)(3) of this title (as such section was in effect on the day before December 10, 2015 ) for students in grades 9 through 12, the Secretary shall, in calculating the agency’s payment, consider only that portion of such agency’s total enrollment of students in grades 9 through 12 when calculating the percentage under clause (i)(I) and only that portion of the total current expenditures attributed to the operation of grades 9 through 12 in such agency when calculating the percentage under clause (i)(II).
@@ -128,7 +128,7 @@ status: "active"
       - **(i)** the tax rate of the local educational agency; and
       - **(ii)** the percentage such tax rate represents of the average tax rate for general fund purposes of comparable local educational agencies in the State as determined under subclauses (II)(cc), III(aa), or (V)(bb) of paragraph (2)(B)(i) (as the case may be).
   - **(4)**
-    - **(A)** In any of the 50 States of the United States in which there is only one local educational agency, the Secretary shall, for purposes of subparagraphs (B) and (C) of paragraph (1) or subparagraphs (B) and (C) of paragraph (2), as the case may be, paragraph (3) of this subsection, and subsection (e) of this section, consider each administrative school district in the State to be a separate local educational agency.
+    - **(A)** In any of the 50 States of the United States in which there is only one local educational agency, the Secretary shall, for purposes of subparagraphs (B) and (C) of paragraph (1) or subparagraphs (B) and (C) of paragraph (2), as the case may be, paragraph (3) of this subsection, and subsection (e), consider each administrative school district in the State to be a separate local educational agency.
     - **(B)** In computing the maximum payment amount under paragraph (1)(C) or subparagraph (C) or (D) of paragraph (2), as the case may be, and the learning opportunity threshold payment under subparagraph (B) or (C) of paragraph (3), as the case may be, for an administrative school district described in subparagraph (A)—
       - **(i)** the Secretary shall first determine the maximum payment amount and the total current expenditures for the State as a whole; and
       - **(ii)** the Secretary shall then—
@@ -138,7 +138,7 @@ status: "active"
     - **(A)** In computing the amount of a basic support payment under this subsection for a fiscal year for a local educational agency described in subparagraph (B), the Secretary shall meet the additional requirements described in subparagraph (C).
     - **(B)** A local educational agency described in this subparagraph is a local educational agency with respect to which Federal property (i) located within the boundaries of the agency, and (ii) on which one or more children reside who are receiving a free public education at a school of the agency, is transferred by the Federal Government to another entity in any fiscal year beginning on or after October 30, 2000 , so that the property is subject to taxation by the State or a political subdivision of the State.
     - **(C)** The additional requirements described in this subparagraph are the following:
-      - **(i)** For each fiscal year beginning after the date on which the Federal property is transferred, a child described in subparagraph (B) who continues to reside on such property and who continues to receive a free public education at a school of the agency shall be deemed to be a child who resides on Federal property for purposes of computing under the applicable subparagraph of subsection (a)(1) of this section the amount that the agency is eligible to receive under this subsection.
+      - **(i)** For each fiscal year beginning after the date on which the Federal property is transferred, a child described in subparagraph (B) who continues to reside on such property and who continues to receive a free public education at a school of the agency shall be deemed to be a child who resides on Federal property for purposes of computing under the applicable subparagraph of subsection (a)(1) the amount that the agency is eligible to receive under this subsection.
       - **(ii)**
         - **(I)** For the third fiscal year beginning after the date on which the Federal property is transferred, and for each fiscal year thereafter, the Secretary shall, after computing the amount that the agency is otherwise eligible to receive under this subsection for the fiscal year involved, deduct from such amount an amount equal to the revenue received by the agency for the immediately preceding fiscal year as a result of the taxable status of the former Federal property.
         - **(II)** For purposes of determining the amount of revenue to be deducted in accordance with subclause (I), the local educational agency—
@@ -156,8 +156,8 @@ status: "active"
       - **(ii)** that is the direct result of the closure of a local educational agency that received a payment under subsection (b)(1) or (b)(2) for the previous fiscal year.
 - **(d)**
   - **(1)** From the amount appropriated under section 7714(c) of this title for a fiscal year, the Secretary shall pay to each eligible local educational agency, on a pro rata basis, the amounts determined by—
-    - **(A)** multiplying the number of children described in subparagraphs (A)(ii), (B) and (C) of subsection (a)(1) of this section who are eligible to receive services under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.) by a factor of 1.0; and
-    - **(B)** multiplying the number of children described in subparagraph (D) of subsection (a)(1) of this section who are eligible to receive services under such Act by a factor of 0.5.
+    - **(A)** multiplying the number of children described in subparagraphs (A)(ii), (B) and (C) of subsection (a)(1) who are eligible to receive services under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.) by a factor of 1.0; and
+    - **(B)** multiplying the number of children described in subparagraph (D) of subsection (a)(1) who are eligible to receive services under such Act by a factor of 0.5.
   - **(2)** A local educational agency that receives funds under paragraph (1) shall use such funds to provide a free appropriate public education to children described in paragraph (1) in accordance with the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.).
 - **(e)**
   - **(1)** In the case of any local educational agency eligible to receive a payment under subsection (b) whose calculated payment amount for a fiscal year is reduced by 20 percent, as compared to the amount received for the previous fiscal year, the Secretary shall pay the local educational agency, for the year of the reduction and the following 2 years, the amount determined under paragraph (2).

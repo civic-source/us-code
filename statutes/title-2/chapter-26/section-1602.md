@@ -3,9 +3,9 @@ title: "Section 1602 - Definitions"
 usc_title: 2
 usc_section: "1602"
 chapter: 26
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "2 U.S.C. § 1602"
-generated_at: "2026-03-30T05:34:47.345Z"
+generated_at: "2026-03-30T05:38:03.118Z"
 status: "active"
 ---
 
@@ -86,7 +86,7 @@ As used in this chapter:
       - **(v)** an agency of any State functioning as a student loan secondary market pursuant to section 1085(d)(1)(F) of title 20 ;
     - **(B)** a Government corporation (as defined in section 9101 of title 31 );
     - **(C)** an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
-    - **(D)** an Indian tribe (as defined in section 450b(e) of title 25 ; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
+    - **(D)** an Indian tribe (as defined in section 5304(e) of title 25 ; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
     - **(E)** a national or State political party or any organizational unit thereof; or
     - **(F)** a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.
   - **(16)** The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.

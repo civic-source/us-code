@@ -3,9 +3,9 @@ title: "Section 503 - Participation in field exercises"
 usc_title: 32
 usc_section: "503"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "32 U.S.C. § 503"
-generated_at: "2026-03-30T05:36:32.251Z"
+generated_at: "2026-03-30T05:39:54.209Z"
 status: "active"
 ---
 

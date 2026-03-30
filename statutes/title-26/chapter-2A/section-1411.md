@@ -3,9 +3,9 @@ title: "Section 1411 - Imposition of tax"
 usc_title: 26
 usc_section: "1411"
 chapter: 2
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 1411"
-generated_at: "2026-03-30T05:36:26.149Z"
+generated_at: "2026-03-30T05:39:49.215Z"
 status: "active"
 ---
 

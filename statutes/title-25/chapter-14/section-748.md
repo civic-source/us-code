@@ -1,15 +1,13 @@
 ---
-title: "Section 748 - Transfer of federally owned property"
+title: "Section 748 - Omitted"
 usc_title: 25
 usc_section: "748"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 748"
-generated_at: "2026-03-30T05:35:40.088Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 748. Transfer of federally owned property
-
-The Secretary is authorized, in his discretion, to transfer to a tribe or any member or group of members thereof any federally owned property acquired, withdrawn, or used for the administration of the affairs of the tribe which he deems necessary for Indian use, or to transfer to a public or nonprofit body any such property which he deems necessary to public use and from which members of the tribes will derive benefit.
+# § 748. Omitted
 

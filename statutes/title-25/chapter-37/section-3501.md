@@ -3,9 +3,9 @@ title: "Section 3501 - Definitions"
 usc_title: 25
 usc_section: "3501"
 chapter: 37
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3501"
-generated_at: "2026-03-30T05:35:40.139Z"
+generated_at: "2026-03-30T05:39:27.414Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ In this chapter:
       - **(i)** on original or acquired territory of the community; or
       - **(ii)** within or outside the boundaries of any State or States.
   - **(4)**
-    - **(A)** The term “Indian tribe” has the meaning given the term in section 450b of this title .
+    - **(A)** The term “Indian tribe” has the meaning given the term in section 5304 of this title .
     - **(B)** For the purpose of paragraph (12) and sections 3503(b)(1)(C) and 3504 of this title, the term “Indian tribe” does not include any Native Corporation.
   - **(5)** The term “integration of energy resources” means any project or activity that promotes the location and operation of a facility (including any pipeline, gathering system, transportation system or facility, or electric transmission or distribution facility) on or near Indian land to process, refine, generate electricity from, or otherwise develop energy resources on, Indian land.
   - **(6)** The term “Native Corporation” has the meaning given the term in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602 ).

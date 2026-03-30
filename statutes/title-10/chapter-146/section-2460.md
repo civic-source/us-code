@@ -3,9 +3,9 @@ title: "Section 2460 - Definition of depot-level maintenance and repair"
 usc_title: 10
 usc_section: "2460"
 chapter: 146
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2460"
-generated_at: "2026-03-30T05:34:54.679Z"
+generated_at: "2026-03-30T05:38:26.130Z"
 status: "active"
 ---
 

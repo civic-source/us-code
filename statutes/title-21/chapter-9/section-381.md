@@ -3,9 +3,9 @@ title: "Section 381 - Imports and exports"
 usc_title: 21
 usc_section: "381"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "21 U.S.C. § 381"
-generated_at: "2026-03-30T05:35:47.360Z"
+generated_at: "2026-03-30T05:39:23.185Z"
 status: "active"
 ---
 
@@ -66,7 +66,7 @@ status: "active"
 - **(h)**
   - **(1)** The Secretary shall give high priority to increasing the number of inspections under this section for the purpose of enabling the Secretary to inspect food offered for import at ports of entry into the United States, with the greatest priority given to inspections to detect the intentional adulteration of food.
   - **(2)** The Secretary shall give high priority to making necessary improvements to the information management systems of the Food and Drug Administration that contain information related to foods imported or offered for import into the United States for purposes of improving the ability of the Secretary to allocate resources, detect the intentional adulteration of food, and facilitate the importation of food that is in compliance with this chapter.
-  - **(3)** The Secretary shall improve linkages with other regulatory agencies of the Federal Government that share responsibility for food safety, and shall with respect to such safety improve linkages with the States and Indian tribes (as defined in section 450b(e) of title 25 ).
+  - **(3)** The Secretary shall improve linkages with other regulatory agencies of the Federal Government that share responsibility for food safety, and shall with respect to such safety improve linkages with the States and Indian tribes (as defined in section 5304(e) of title 25 ).
 - **(i)**
   - **(1)** For use in inspections of food under this section, the Secretary shall provide for research on the development of tests and sampling methodologies—
     - **(A)** whose purpose is to test food in order to rapidly detect the adulteration of the food, with the greatest priority given to detect the intentional adulteration of food; and

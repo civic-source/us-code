@@ -3,9 +3,9 @@ title: "Section 1269 - Long Island Sound"
 usc_title: 33
 usc_section: "1269"
 chapter: 26
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1269"
-generated_at: "2026-03-30T05:36:42.529Z"
+generated_at: "2026-03-30T05:39:52.664Z"
 status: "active"
 ---
 
@@ -42,5 +42,5 @@ status: "active"
   - **(1)** For the purposes of this subsection, a distressed community is any community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
   - **(2)** In making assistance available under this section for the upgrading of wastewater treatment facilities, the Administrator may give priority to a distressed community.
 - **(f)**
-  - **(1)** There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 2001 through 2010.
-  - **(2)** There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
+  - **(1)** There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d), such sums as may be necessary for each of the fiscal years 2001 through 2010.
+  - **(2)** There is authorized to be appropriated to the Administrator for the implementation of subsection (d) not to exceed $40,000,000 for each of fiscal years 2001 through 2010.

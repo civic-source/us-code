@@ -3,9 +3,9 @@ title: "Section 3202 - Definitions"
 usc_title: 25
 usc_section: "3202"
 chapter: 34
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3202"
-generated_at: "2026-03-30T05:35:40.137Z"
+generated_at: "2026-03-30T05:39:27.412Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ For the purposes of this chapter, the term—
   - **(7)** “Indian child” has the meaning given to such term by section 1903(4) of this title ;
   - **(8)** “Indian country” has the meaning given to such term by section 1151 of title 18 ;
   - **(9)** “Indian reservation” means any Indian reservation, public domain Indian allotment, former Indian reservation in Oklahoma, or lands held by incorporated Native groups, regional corporations, or village corporations under the provisions of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.);
-  - **(10)** “Indian tribe” and “tribal organization” have the respective meanings given to each of such terms under section 450b of this title ;
+  - **(10)** “Indian tribe” and “tribal organization” have the respective meanings given to each of such terms under section 5304 of this title ;
   - **(11)** “inter-tribal consortium” means a partnership between—
     - **(A)** an Indian tribe or tribal organization of an Indian tribe, and
     - **(B)** one or more Indian tribes or tribal organizations of one or more other Indian tribes;

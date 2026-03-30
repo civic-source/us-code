@@ -3,19 +3,19 @@ title: "Section 1092b - National Student Loan Data System"
 usc_title: 20
 usc_section: "1092b"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1092b"
-generated_at: "2026-03-30T05:35:34.235Z"
+generated_at: "2026-03-30T05:39:05.737Z"
 status: "active"
 ---
 
 # § 1092b. National Student Loan Data System
 
-- **(a)** The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B of this subchapter and loans made under parts C and D of this subchapter, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower’s loan not later than one year after October 7, 1998 . The information in the data system shall include (but is not limited to)—
+- **(a)** The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B and loans made under parts C and D, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower’s loan not later than one year after October 7, 1998 . The information in the data system shall include (but is not limited to)—
   - **(1)** the amount and type of each such loan made;
   - **(2)** the names and social security numbers of the borrowers;
   - **(3)** the guaranty agency responsible for the guarantee of the loan;
-  - **(4)** the institution of higher education or organization responsible for loans made under parts C and D of this subchapter;
+  - **(4)** the institution of higher education or organization responsible for loans made under parts C and D;
   - **(5)** the exact amount of loans partially or totally canceled or in deferment for service under the Peace Corps Act ( 22 U.S.C. 2501 et seq.), for service under the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 4950 et seq.], and for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness;
   - **(6)** the eligible institution in which the student was enrolled or accepted for enrollment at the time the loan was made, and any additional institutions attended by the borrower;
   - **(7)** the total amount of loans made to any borrower and the remaining balance of the loans;
@@ -23,12 +23,12 @@ status: "active"
   - **(9)** information concerning the date of any default on the loan and the collection of the loan, including any information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuant to section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan;
   - **(10)** information regarding any deferments or forbearance granted on such loans; and
   - **(11)** the date of cancellation of the note upon completion of repayment by the borrower of the loan or payment by the Secretary pursuant to section 1087 of this title .
-- **(b)** For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
+- **(b)** For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B. Such data shall include—
   - **(1)** information concerning the income level of the borrower and his family and the extent of the borrower’s need for student financial assistance, including loans;
   - **(2)** information concerning the type of institution attended by the borrower and the year of the program of education for which the loan was obtained;
   - **(3)** information concerning other student financial assistance received by the borrower; and
-  - **(4)** information concerning Federal costs associated with the student loan program under part B of this subchapter, including the costs of interest subsidies, special allowance payments, and other subsidies.
-- **(c)** The Secretary may require lenders, guaranty agencies, or institutions of higher education to verify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D of this subchapter.
+  - **(4)** information concerning Federal costs associated with the student loan program under part B, including the costs of interest subsidies, special allowance payments, and other subsidies.
+- **(c)** The Secretary may require lenders, guaranty agencies, or institutions of higher education to verify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D.
 - **(d)** In managing the National Student Loan Data System, the Secretary shall take actions necessary to maintain confidence in the data system, including, at a minimum—
   - **(1)** ensuring that the primary purpose of access to the data system by guaranty agencies, eligible lenders, and eligible institutions of higher education is for legitimate program operations, such as the need to verify the eligibility of a student, potential student, or parent for loans under part B, C, or D;
   - **(2)** prohibiting nongovernmental researchers and policy analysts from accessing personally identifiable information;

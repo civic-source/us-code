@@ -3,9 +3,9 @@ title: "Section 7544 - Program authorized"
 usc_title: 20
 usc_section: "7544"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7544"
-generated_at: "2026-03-30T05:35:34.303Z"
+generated_at: "2026-03-30T05:39:05.809Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
       - **(ii)** an Alaska Native organization that operates a program that fulfills the purposes of this part;
     - **(C)** an entity located in Alaska, and predominately governed by Alaska Natives, that does not meet the definition of an Alaska Native organization under this part but—
       - **(i)** has experience operating programs that fulfill the purposes of this part; and
-      - **(ii)** is granted an official charter or sanction, as described in the definition of a tribal organization under section 450b of title 25 , from at least one Alaska Native tribe or Alaska Native organization to carry out programs that meet the purposes of this part.
+      - **(ii)** is granted an official charter or sanction, as described in the definition of a tribal organization under section 5304 of title 25 , from at least one Alaska Native tribe or Alaska Native organization to carry out programs that meet the purposes of this part.
   - **(2)** Activities provided through the programs carried out under this part shall include the following:
     - **(A)** The development and implementation of plans, methods, strategies, and activities to improve the educational outcomes of Alaska Natives.
     - **(B)** The collection of data to assist in the evaluation of the programs carried out under this part.

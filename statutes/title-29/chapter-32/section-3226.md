@@ -3,9 +3,9 @@ title: "Section 3226 - YouthBuild program"
 usc_title: 29
 usc_section: "3226"
 chapter: 32
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 3226"
-generated_at: "2026-03-30T05:35:57.189Z"
+generated_at: "2026-03-30T05:39:32.247Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(4)** The term “homeless individual” means a homeless individual (as defined in section 14043e–2(6) of title 42 ) or a homeless child or youth (as defined in section 11434a(2) of title 42 ).
   - **(5)** The term “housing development agency” means any agency of a State or local government, or any private nonprofit organization, that is engaged in providing housing for homeless individuals or low-income families.
   - **(6)** The term “income” has the meaning given the term in section 1437a(b) of title 42 .
-  - **(7)** The terms “Indian” and “Indian tribe” have the meanings given such terms in section 450b of title 25 .
+  - **(7)** The terms “Indian” and “Indian tribe” have the meanings given such terms in section 5304 of title 25 .
   - **(8)** The term “low-income family” means a family described in section 1437a(b)(2) of title 42 .
   - **(9)** The term “qualified national nonprofit agency” means a nonprofit agency that—
     - **(A)** has significant national experience providing services consisting of training, information, technical assistance, and data management to YouthBuild programs or similar projects; and

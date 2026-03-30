@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions"
 usc_title: 33
 usc_section: "3301"
 chapter: 46
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 3301"
-generated_at: "2026-03-30T05:36:42.568Z"
+generated_at: "2026-03-30T05:39:52.702Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ In this chapter, the following definitions apply:
     - **(B)** The term “canal structure” does not include a barrier across a watercourse.
   - **(3)** The term “committee” means the Committee on Levee Safety established by section 3302(a) of this title .
   - **(4)** The term “floodplain management” means the operation of a community program of corrective and preventative measures for reducing flood damage.
-  - **(5)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(5)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(6)** The term “inspection” means an actual inspection of a levee—
     - **(A)** to establish the global information system location of the levee;
     - **(B)** to determine the general condition of the levee; and

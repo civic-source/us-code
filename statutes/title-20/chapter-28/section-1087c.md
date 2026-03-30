@@ -3,9 +3,9 @@ title: "Section 1087c - Selection of institutions for participation and originat
 usc_title: 20
 usc_section: "1087c"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1087c"
-generated_at: "2026-03-30T05:35:34.224Z"
+generated_at: "2026-03-30T05:39:05.726Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
     - **(E)** provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary’s discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
     - **(F)** meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 - **(d)** The Secretary may not select an institution of higher education for participation under this section unless such institution is an eligible institution under section 1085(a) of this title .
-- **(e)** Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
+- **(e)** Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d)) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) with respect to loan origination.

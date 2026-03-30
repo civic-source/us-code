@@ -3,9 +3,9 @@ title: "Section 4024 - Expert accountant for Inspector General"
 usc_title: 10
 usc_section: "4024"
 chapter: 373
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 4024"
-generated_at: "2026-03-30T05:34:54.701Z"
+generated_at: "2026-03-30T05:38:26.151Z"
 status: "active"
 ---
 

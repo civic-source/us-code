@@ -1,18 +1,13 @@
 ---
-title: "Section 8 - Definitions"
+title: "Section 8 - Omitted"
 usc_title: 25
 usc_section: "8"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 8"
-generated_at: "2026-03-30T05:35:40.099Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1300j–8. Definitions
+# § 1300j–8. Omitted
 
-For purposes of this subchapter—
-
-  - **(1)** the term “Band” means the Pokagon Band of Potawatomi Indians;
-  - **(2)** the term “member” means those individuals eligible for enrollment in the Band pursuant to section 1300j–3 of this title ; and
-  - **(3)** the term “Secretary” means the Secretary of the Interior.

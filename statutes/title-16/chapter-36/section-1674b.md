@@ -3,9 +3,9 @@ title: "Section 1674b - Sustainable Forestry Outreach Initiative"
 usc_title: 16
 usc_section: "1674b"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 1674b"
-generated_at: "2026-03-30T05:35:31.805Z"
+generated_at: "2026-03-30T05:38:48.557Z"
 status: "active"
 ---
 

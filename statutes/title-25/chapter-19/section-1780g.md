@@ -1,22 +1,13 @@
 ---
-title: "Section 1780g - Trust status and National Forest boundaries"
+title: "Section 1780g - Omitted"
 usc_title: 25
 usc_section: "1780g"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1780g"
-generated_at: "2026-03-30T05:35:40.120Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1780g. Trust status and National Forest boundaries
+# § 1780g. Omitted
 
-- **(a)** Without any additional administrative action by the Secretary of Agriculture or the Secretary of the Interior—
-  - **(1)** on recording the quitclaim deed or deeds from the Pueblo to the United States in trust for the Pueblo under section 1780f(b) of this title in the Land Titles and Records Office, Southwest Region, Bureau of Indian Affairs—
-    - **(A)** the Settlement Area Land shall be held in trust by the United States for the benefit of the Pueblo; and
-    - **(B)** the boundaries of the Santa Fe National Forest shall be deemed to be modified to exclude from the National Forest System the Settlement Area Land; and
-  - **(2)** on recording the quitclaim deed or deeds from the Secretary of Agriculture to the County of the Water System Land in the county land records, the boundaries of the Santa Fe National Forest shall be deemed to be modified to exclude from the National Forest System the Water System Land.
-- **(b)** If fee title to the Water System Land vests in the Pueblo by conveyance or operation of law, the Water System Land shall be deemed to be held in trust by the United States for the benefit of the Pueblo, without further administrative procedures or environmental or other analyses.
-- **(c)** Any land conveyed to the Secretary of the Interior in trust for the Pueblo or any other tribe in accordance with this subchapter shall be—
-  - **(1)** subject to the Act of June 30, 1834 ( 25 U.S.C. 177 ); and
-  - **(2)** treated as reservation land.

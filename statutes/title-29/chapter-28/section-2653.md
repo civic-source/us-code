@@ -3,9 +3,9 @@ title: "Section 2653 - Encouragement of more generous leave policies"
 usc_title: 29
 usc_section: "2653"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "29 U.S.C. § 2653"
-generated_at: "2026-03-30T05:35:57.177Z"
+generated_at: "2026-03-30T05:39:32.235Z"
 status: "active"
 ---
 

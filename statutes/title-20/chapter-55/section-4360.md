@@ -3,9 +3,9 @@ title: "Section 4360 - National study on the education of the deaf"
 usc_title: 20
 usc_section: "4360"
 chapter: 55
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 4360"
-generated_at: "2026-03-30T05:35:34.276Z"
+generated_at: "2026-03-30T05:39:05.781Z"
 status: "active"
 ---
 
@@ -22,5 +22,5 @@ status: "active"
   - **(2)** The commission shall provide structured opportunities to receive and respond to the viewpoints of the individuals and organizations described in paragraph (1)(B).
 - **(c)** The commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008 , regarding the results of the study. The report shall contain—
   - **(1)** recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including recommendations for legislation, that the commission deems appropriate; and
-  - **(2)** a detailed summary of the input received under subsection (b) of this section and the ways in which the report addresses such input.
+  - **(2)** a detailed summary of the input received under subsection (b) and the ways in which the report addresses such input.
 - **(d)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.

@@ -3,9 +3,9 @@ title: "Section 584a - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 33
 usc_section: "584a"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 584a"
-generated_at: "2026-03-30T05:36:42.509Z"
+generated_at: "2026-03-30T05:39:52.646Z"
 status: "repealed"
 ---
 

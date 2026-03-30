@@ -3,9 +3,9 @@ title: "Section 1471 - Definitions"
 usc_title: 47
 usc_section: "1471"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "47 U.S.C. § 1471"
-generated_at: "2026-03-30T05:37:45.315Z"
+generated_at: "2026-03-30T05:40:29.064Z"
 status: "active"
 ---
 

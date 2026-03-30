@@ -3,9 +3,9 @@ title: "Section 8751 - Definitions"
 usc_title: 7
 usc_section: "8751"
 chapter: 113
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 8751"
-generated_at: "2026-03-30T05:35:07.630Z"
+generated_at: "2026-03-30T05:38:15.011Z"
 status: "active"
 ---
 

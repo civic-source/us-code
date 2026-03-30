@@ -3,9 +3,9 @@ title: "Section 1024 - Renumbered § 1023]"
 usc_title: 26
 usc_section: "1024"
 chapter: 1
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 1024"
-generated_at: "2026-03-30T05:36:26.129Z"
+generated_at: "2026-03-30T05:39:49.194Z"
 status: "renumbered"
 ---
 

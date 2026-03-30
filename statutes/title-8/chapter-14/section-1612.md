@@ -3,9 +3,9 @@ title: "Section 1612 - Limited eligibility of qualified aliens for certain Feder
 usc_title: 8
 usc_section: "1612"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "8 U.S.C. § 1612"
-generated_at: "2026-03-30T05:35:00.881Z"
+generated_at: "2026-03-30T05:38:09.239Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
       - **(ii)** in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(j) of the Food Stamp Act of 1977 1 ( 7 U.S.C. 2012(r) )). 2 2 So in original. Probably should be “2012(j))).”.
     - **(G)** With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), section 1611(a) of this title and paragraph (1) shall not apply to any individual—
       - **(i)** who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act ( 8 U.S.C. 1359 ) apply; or
-      - **(ii)** who is a member of an Indian tribe (as defined in section 450b(e) of title 25 ).
+      - **(ii)** who is a member of an Indian tribe (as defined in section 5304(e) of title 25 ).
     - **(H)** With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to any individual—
       - **(i)** who is receiving benefits under such program for months after July 1996 on the basis of an application filed before January 1, 1979 ; and
       - **(ii)** with respect to whom the Commissioner of Social Security lacks clear and convincing evidence that such individual is an alien ineligible for such benefits as a result of the application of this section.

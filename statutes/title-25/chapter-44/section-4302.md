@@ -3,9 +3,9 @@ title: "Section 4302 - Definitions"
 usc_title: 25
 usc_section: "4302"
 chapter: 44
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 4302"
-generated_at: "2026-03-30T05:35:40.147Z"
+generated_at: "2026-03-30T05:39:27.421Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 In this chapter:
 
   - **(1)** The term “eligible entity” means an Indian tribe or tribal organization, an Indian arts and crafts organization, as that term is defined in section 305a of this title , a tribal enterprise, a tribal marketing cooperative (as that term is defined by the Secretary, in consultation with the Secretary of the Interior), or any other Indian-owned business.
-  - **(2)** The term “Indian” has the meaning given that term in section 450b(d) of this title .
+  - **(2)** The term “Indian” has the meaning given that term in section 5304(d) of this title .
   - **(3)** The term “Indian goods and services” means—
     - **(A)** Indian goods, within the meaning of section 305a of this title ;
     - **(B)** goods produced or originated by an eligible entity; and
@@ -29,7 +29,7 @@ In this chapter:
       - **(i)** within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
       - **(ii)** recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on November 7, 2000 ).
   - **(5)** The term “Indian-owned business” means an entity organized for the conduct of trade or commerce with respect to which at least 50 percent of the property interests of the entity are owned by Indians or Indian tribes (or a combination thereof).
-  - **(6)** The term “Indian tribe” has the meaning given that term in section 450b(e) of this title .
+  - **(6)** The term “Indian tribe” has the meaning given that term in section 5304(e) of this title .
   - **(7)** The term “Secretary” means the Secretary of Commerce.
   - **(8)** The term “tribal enterprise” means a commercial activity or business managed or controlled by an Indian tribe.
-  - **(9)** The term “tribal organization” has the meaning given that term in section 450b( l ) of this title.
+  - **(9)** The term “tribal organization” has the meaning given that term in section 5304( l ) of this title.

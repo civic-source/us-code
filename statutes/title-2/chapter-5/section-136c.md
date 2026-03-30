@@ -3,9 +3,9 @@ title: "Section 136c - Authorized additional expenses and services for which Lib
 usc_title: 2
 usc_section: "136c"
 chapter: 5
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "2 U.S.C. § 136c"
-generated_at: "2026-03-30T05:34:47.321Z"
+generated_at: "2026-03-30T05:38:03.097Z"
 status: "active"
 ---
 

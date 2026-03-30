@@ -3,9 +3,9 @@ title: "Section 3032 - Limitations on educational assistance for certain individ
 usc_title: 38
 usc_section: "3032"
 chapter: 30
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "38 U.S.C. § 3032"
-generated_at: "2026-03-30T05:36:57.078Z"
+generated_at: "2026-03-30T05:39:58.782Z"
 status: "active"
 ---
 

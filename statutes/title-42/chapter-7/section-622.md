@@ -3,9 +3,9 @@ title: "Section 622 - State plans for child welfare services"
 usc_title: 42
 usc_section: "622"
 chapter: 7
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 622"
-generated_at: "2026-03-30T05:37:41.188Z"
+generated_at: "2026-03-30T05:40:25.854Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
         - **(II)** be placed for adoption, with a legal guardian, or, if adoption or legal guardianship is determined not to be appropriate for a child, in some other planned, permanent living arrangement, subject to the requirements of sections 675(5)(C) and 675a(a) of this title, which may include a residential educational program; and
       - **(iv)** a preplacement preventive services program designed to help children at risk of foster care placement remain safely with their families; and
     - **(B)** has in effect policies and administrative and judicial procedures for children abandoned at or shortly after birth (including policies and procedures providing for legal representation of the children) which enable permanent decisions to be made expeditiously with respect to the placement of the children;
-  - **(9)** contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25 ) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act [ 25 U.S.C. 1901 et seq.];
+  - **(9)** contain a description, developed after consultation with tribal organizations (as defined in section 5304 of title 25 ) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act [ 25 U.S.C. 1901 et seq.];
   - **(10)** contain assurances that the State shall make effective use of cross-jurisdictional resources (including through contracts for the purchase of services), and shall eliminate legal barriers, to facilitate timely adoptive or permanent placements for waiting children;
   - **(11)** contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services;
   - **(12)** provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution;

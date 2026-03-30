@@ -3,9 +3,9 @@ title: "Section 892b - Quality assurance program"
 usc_title: 33
 usc_section: "892b"
 chapter: 17
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 892b"
-generated_at: "2026-03-30T05:36:42.520Z"
+generated_at: "2026-03-30T05:39:52.655Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(d)**
   - **(1)** There is established in the Treasury a separate account, which shall be known as the “Hydrographic Services Account”.
   - **(2)** The account shall consist of—
-    - **(A)** amounts received by the United States as fees charged under subsection (b)(1)(C) of this section; and
+    - **(A)** amounts received by the United States as fees charged under subsection (b)(1)(C); and
     - **(B)** such other amounts as may be provided by law.
   - **(3)** Amounts in the account shall be available to the Administrator, without further appropriation, for hydrographic services.
 - **(e)** After November 13, 1998 , the Administrator may not—

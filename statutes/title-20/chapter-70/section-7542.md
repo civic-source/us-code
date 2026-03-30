@@ -3,9 +3,9 @@ title: "Section 7542 - Findings"
 usc_title: 20
 usc_section: "7542"
 chapter: 70
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 7542"
-generated_at: "2026-03-30T05:35:34.303Z"
+generated_at: "2026-03-30T05:39:05.809Z"
 status: "active"
 ---
 

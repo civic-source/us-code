@@ -3,9 +3,9 @@ title: "Section 7311A - Quality management officers"
 usc_title: 38
 usc_section: "7311A"
 chapter: 73
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "38 U.S.C. § 7311A"
-generated_at: "2026-03-30T05:36:57.101Z"
+generated_at: "2026-03-30T05:39:58.804Z"
 status: "active"
 ---
 

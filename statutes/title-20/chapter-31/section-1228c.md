@@ -3,9 +3,9 @@ title: "Section 1228c - Disclosure requirements"
 usc_title: 20
 usc_section: "1228c"
 chapter: 31
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1228c"
-generated_at: "2026-03-30T05:35:34.251Z"
+generated_at: "2026-03-30T05:39:05.755Z"
 status: "active"
 ---
 
@@ -59,7 +59,7 @@ status: "active"
       - **(i)** a local educational agency, State educational agency, a State department of education, or an elementary or secondary school (as defined by the terms “elementary school” and “secondary school” in section 7801 of this title );
       - **(ii)** an institution of higher education as defined by section 1001 of this title ; or
       - **(iii)** a local organization sponsored by an elementary or secondary school, a recreational organization, an entertainment organization, a local sports activity group, or a social club.
-    - **(C)** For the purpose of subsection (a) of this section only, such term does not include an organization or entity that provides an educational program if such organization or entity—
+    - **(C)** For the purpose of subsection (a) only, such term does not include an organization or entity that provides an educational program if such organization or entity—
       - **(i)** recruits, for participation in such program, solely through a local school official; and
       - **(ii)** does not offer a local school official, teacher, or other school personnel compensation (other than compensation for actual expenses incurred in performing chaperon activities or for participating in separate, professionally-staffed teacher training and technical assistance seminars and workshops related to such program) or any other benefit for such recruitment.
   - **(3)**

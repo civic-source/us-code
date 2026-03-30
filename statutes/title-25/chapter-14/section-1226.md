@@ -1,15 +1,13 @@
 ---
-title: "Section 1226 - Shares not distributed within two years; unexpended funds; reversion; bar of claims"
+title: "Section 1226 - Omitted"
 usc_title: 25
 usc_section: "1226"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1226"
-generated_at: "2026-03-30T05:35:40.095Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.383Z"
+status: "omitted"
 ---
 
-# § 1226. Shares not distributed within two years; unexpended funds; reversion; bar of claims
-
-Any per capita share, whether payable to a living enrollee or to the heirs or legatees of a deceased enrollee, which the Secretary of the Interior is unable to deliver within two years after the date the check is issued, and all unexpended tribal and judgment funds set aside for tribal roll preparation and distribution, shall revert to the Peoria Tribe, and all claims for such per capita shall thereafter be barred forever.
+# § 1226. Omitted
 

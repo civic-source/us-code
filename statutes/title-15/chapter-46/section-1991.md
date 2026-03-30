@@ -3,9 +3,9 @@ title: "Section 1991 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "1991"
 chapter: 46
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "15 U.S.C. § 1991"
-generated_at: "2026-03-30T05:35:25.159Z"
+generated_at: "2026-03-30T05:38:36.442Z"
 status: "repealed"
 ---
 

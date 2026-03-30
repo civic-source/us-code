@@ -3,9 +3,9 @@ title: "Section 2348 - Representation in proceeding; intervention"
 usc_title: 28
 usc_section: "2348"
 chapter: 158
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "28 U.S.C. § 2348"
-generated_at: "2026-03-30T05:36:02.004Z"
+generated_at: "2026-03-30T05:39:37.964Z"
 status: "active"
 ---
 

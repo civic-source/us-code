@@ -3,9 +3,9 @@ title: "Section 2540a - Transferability"
 usc_title: 10
 usc_section: "2540a"
 chapter: 148
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 2540a"
-generated_at: "2026-03-30T05:34:54.683Z"
+generated_at: "2026-03-30T05:38:26.134Z"
 status: "active"
 ---
 

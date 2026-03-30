@@ -3,9 +3,9 @@ title: "Section 4341 - Definition of intellectual property rights"
 usc_title: 19
 usc_section: "4341"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "19 U.S.C. § 4341"
-generated_at: "2026-03-30T05:35:28.859Z"
+generated_at: "2026-03-30T05:38:51.420Z"
 status: "active"
 ---
 

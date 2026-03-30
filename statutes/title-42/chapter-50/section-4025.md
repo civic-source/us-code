@@ -3,9 +3,9 @@ title: "Section 4025 - Flood insurance advisory committee"
 usc_title: 42
 usc_section: "4025"
 chapter: 50
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 4025"
-generated_at: "2026-03-30T05:37:41.434Z"
+generated_at: "2026-03-30T05:40:26.115Z"
 status: "active"
 ---
 

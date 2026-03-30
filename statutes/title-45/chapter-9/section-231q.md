@@ -3,9 +3,9 @@ title: "Section 231q - Crediting service under Social Security Act"
 usc_title: 45
 usc_section: "231q"
 chapter: 9
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "45 U.S.C. § 231q"
-generated_at: "2026-03-30T05:37:08.854Z"
+generated_at: "2026-03-30T05:40:03.213Z"
 status: "active"
 ---
 

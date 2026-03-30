@@ -3,9 +3,9 @@ title: "Section 5302 - General provisions"
 usc_title: 42
 usc_section: "5302"
 chapter: 69
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 5302"
-generated_at: "2026-03-30T05:37:41.458Z"
+generated_at: "2026-03-30T05:40:26.141Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
   - **(14)** The term “adjustment factor” means the ratio between the age of housing in the metropolitan city or urban county and the predicted age of housing in such city or county.
   - **(15)** The term “predicted age of housing” means the arithmetic product of the housing stock in the metropolitan city or urban county multiplied times the ratio between the age of housing in all metropolitan areas and the housing stock in all metropolitan areas.
   - **(16)** The term “adjusted age of housing” means the arithmetic product of the age of housing in the metropolitan city or urban county multiplied times the adjustment factor.
-  - **(17)** The term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 ) [ 25 U.S.C. 450 et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
+  - **(17)** The term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act ( Public Law 93–638 ) [ 25 U.S.C. 5301 et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
   - **(18)** The term “Federal grant-in-aid program” means a program of Federal financial assistance other than loans and other than the assistance provided by this chapter.
   - **(19)** The term “Secretary” means the Secretary of Housing and Urban Development.
   - **(20)**

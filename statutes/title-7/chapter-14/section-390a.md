@@ -3,9 +3,9 @@ title: "Section 390a - Review process"
 usc_title: 7
 usc_section: "390a"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "7 U.S.C. § 390a"
-generated_at: "2026-03-30T05:35:07.491Z"
+generated_at: "2026-03-30T05:38:14.869Z"
 status: "active"
 ---
 

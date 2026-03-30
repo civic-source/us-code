@@ -3,9 +3,9 @@ title: "Section 1449 - Certificate of naturalization; contents"
 usc_title: 8
 usc_section: "1449"
 chapter: 12
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "8 U.S.C. § 1449"
-generated_at: "2026-03-30T05:35:00.878Z"
+generated_at: "2026-03-30T05:38:09.236Z"
 status: "active"
 ---
 

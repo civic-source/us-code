@@ -3,9 +3,9 @@ title: "Section 929 - Advisory Council on Dependents’ Education"
 usc_title: 20
 usc_section: "929"
 chapter: 25
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 929"
-generated_at: "2026-03-30T05:35:34.194Z"
+generated_at: "2026-03-30T05:39:05.693Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** Individuals appointed to the Council from professional employee organizations shall be individuals designated by those organizations.
   - **(3)** The Secretary of Defense, or the Secretary’s designee, and the Secretary of Education, or the Secretary’s designee, shall serve as cochairmen of the Council.
   - **(4)** The Director shall be the Executive Secretary of the Council.
-- **(b)** The term of office of each member of the Council appointed under subsection (a)(2) of this section shall be three years, except that—
+- **(b)** The term of office of each member of the Council appointed under subsection (a)(2) shall be three years, except that—
   - **(1)** of the members first appointed under such paragraph, four shall serve for a term of one year, four shall serve for a term of two years, and four shall serve for a term of three years, as determined by the Secretary of Defense and the Secretary of Education at the time of their appointment, and
   - **(2)** any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 - **(c)** The Council shall meet at least two times each year. The functions of the Council shall be to—

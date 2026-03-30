@@ -3,9 +3,9 @@ title: "Section 7483 - Notice of appeal"
 usc_title: 26
 usc_section: "7483"
 chapter: 76
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "26 U.S.C. § 7483"
-generated_at: "2026-03-30T05:36:26.226Z"
+generated_at: "2026-03-30T05:39:49.298Z"
 status: "active"
 ---
 

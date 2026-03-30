@@ -3,9 +3,9 @@ title: "Section 1223 - Vessel operating requirements"
 usc_title: 33
 usc_section: "1223"
 chapter: 25
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1223"
-generated_at: "2026-03-30T05:36:42.526Z"
+generated_at: "2026-03-30T05:39:52.661Z"
 status: "active"
 ---
 
@@ -43,6 +43,6 @@ status: "active"
   - **(1)** innocent passage through the territorial sea of the United States, or
   - **(2)** transit through the navigable waters of the United States which form a part of an international strait.
 - **(e)**
-  - **(1)** The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1) of this section.
+  - **(1)** The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1).
   - **(2)** A nongovernmental entity may not under this subsection carry out an inherently governmental function.
   - **(3)** As used in this paragraph, the term “inherently governmental function” means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.

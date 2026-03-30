@@ -3,9 +3,9 @@ title: "Section 1087vv - Definitions"
 usc_title: 20
 usc_section: "1087vv"
 chapter: 28
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 1087vv"
-generated_at: "2026-03-30T05:35:34.231Z"
+generated_at: "2026-03-30T05:39:05.733Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ As used in this part:
 
 - **(a)**
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B) and paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
+    - **(A)** Except as provided in subparagraph (B) and paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e)).
     - **(B)** Notwithstanding section 1087rr(a) of this title , the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
   - **(2)** No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26 , and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
 - **(b)**
@@ -58,7 +58,7 @@ As used in this part:
     - **(A)** is 24 years of age or older by December 31 of the award year;
     - **(B)** is an orphan, in foster care, or a ward of the court, or was an orphan, in foster care, or a ward of the court at any time when the individual was 13 years of age or older;
     - **(C)** is, or was immediately prior to attaining the age of majority, an emancipated minor or in legal guardianship as determined by a court of competent jurisdiction in the individual’s State of legal residence;
-    - **(D)** is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1) of this section) or is currently serving on active duty in the Armed Forces for other than training purposes;
+    - **(D)** is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1)) or is currently serving on active duty in the Armed Forces for other than training purposes;
     - **(E)** is a graduate or professional student;
     - **(F)** is a married individual;
     - **(G)** has legal dependents other than a spouse;
@@ -93,7 +93,7 @@ As used in this part:
       - **(i)** a qualified tuition program (as defined in section 529(b)(1)(A) of title 26 ) or other prepaid tuition plan offered by a State; and
       - **(ii)** a Coverdell education savings account (as defined in section 530(b)(1) of title 26 ).
     - **(B)** The term “qualified higher education expenses” has the meaning given the term in section 529(e) of title 26 .
-- **(g)** The term “net assets” means the current market value at the time of application of the assets (as defined in subsection (f) of this section), minus the outstanding liabilities or indebtedness against the assets.
+- **(g)** The term “net assets” means the current market value at the time of application of the assets (as defined in subsection (f)), minus the outstanding liabilities or indebtedness against the assets.
 - **(h)**
   - **(1)** The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
   - **(2)** References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.

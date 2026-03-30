@@ -3,9 +3,9 @@ title: "Section 4711 - Aquatic nuisance species in waters of United States"
 usc_title: 16
 usc_section: "4711"
 chapter: 67
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 4711"
-generated_at: "2026-03-30T05:35:31.846Z"
+generated_at: "2026-03-30T05:38:48.596Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
     - **(E)** direct vessels to carry out management practices that the Secretary determines to be necessary to reduce the probability of unintentional nonindigenous species transfer resulting from—
       - **(i)** ship operations other than ballast water discharge; and
       - **(ii)** ballasting practices of vessels that enter waters of the United States with no ballast water on board;
-    - **(F)** provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i) of this section, in order to enable the Secretary to determine compliance with the guidelines, including—
+    - **(F)** provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i), in order to enable the Secretary to determine compliance with the guidelines, including—
       - **(i)** with respect to each ballast water exchange referred to in clause (ii), reporting on the precise location and thoroughness of the exchange; and
       - **(ii)** any other information that the Secretary considers necessary to assess the rate of effective compliance with the guidelines;
     - **(G)** provide for sampling procedures to monitor compliance with the guidelines;
@@ -67,38 +67,38 @@ status: "active"
     - **(K)** provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
     - **(L)** not apply to crude oil tankers engaged in the coastwise trade.
   - **(3)** Not later than 1 year after October 26, 1996 , the Secretary shall carry out education and technical assistance programs and other measures to encourage compliance with the guidelines issued under this subsection.
-- **(d)** Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
+- **(d)** Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e).
 - **(e)**
-  - **(1)** Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c) of this section, and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
-    - **(A)** assess the compliance by vessels with the voluntary guidelines issued under subsection (c) of this section and the regulations promulgated under this chapter;
+  - **(1)** Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c), and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
+    - **(A)** assess the compliance by vessels with the voluntary guidelines issued under subsection (c) and the regulations promulgated under this chapter;
     - **(B)** establish the rate of compliance that is based on the assessment under subparagraph (A);
     - **(C)** assess the effectiveness of the voluntary guidelines and regulations referred to in subparagraph (A) in reducing the introduction and spread of aquatic nuisance species by vessels; and
     - **(D)** as necessary, on the basis of the best scientific information available—
       - **(i)** revise the guidelines and regulations referred to in subparagraph (A);
-      - **(ii)** promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+      - **(ii)** promulgate additional regulations pursuant to subsection (f)(1); or
       - **(iii)** carry out each of clauses (i) and (ii).
   - **(2)** Not later than 90 days after the Task Force makes a request to the Secretary for a special review and revision for coastal and inland waterways designated by the Task Force, the Secretary shall—
     - **(A)** conduct a special review of guidelines and regulations applicable to those waterways in accordance with the review procedures under paragraph (1); and
     - **(B)** as necessary, in the same manner as provided under paragraph (1)(D)—
       - **(i)** revise those guidelines;
-      - **(ii)** promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+      - **(ii)** promulgate additional regulations pursuant to subsection (f)(1); or
       - **(iii)** carry out each of clauses (i) and (ii).
-  - **(3)** Not later than 18 months after October 26, 1996 , the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c) of this section.
+  - **(3)** Not later than 18 months after October 26, 1996 , the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c).
 - **(f)**
-  - **(1)** If, on the basis of a periodic review conducted under subsection (e)(1) of this section or a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
-    - **(A)** the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) of this section is inadequate; or
-    - **(B)** the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2) of this section,
+  - **(1)** If, on the basis of a periodic review conducted under subsection (e)(1) or a special review conducted under subsection (e)(2), the Secretary determines that—
+    - **(A)** the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) is inadequate; or
+    - **(B)** the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2),
   - **(2)** The regulations promulgated by the Secretary under paragraph (1)—
     - **(A)** shall—
-      - **(i)** not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d) of this section;
-      - **(ii)** make mandatory the requirements included in the voluntary guidelines issued under subsection (c) of this section; and
+      - **(i)** not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d);
+      - **(ii)** make mandatory the requirements included in the voluntary guidelines issued under subsection (c); and
       - **(iii)** provide for the enforcement of the regulations; and
     - **(B)** may be regional in scope.
   - **(3)** The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
 - **(g)**
-  - **(1)** Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
-  - **(2)** Any person who knowingly violates the regulations promulgated under subsection (b) or (f) of this section is guilty of a class C felony.
-  - **(3)** Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 60105 of title 46 , if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
+  - **(1)** Any person who violates a regulation promulgated under subsection (b) or (f) shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
+  - **(2)** Any person who knowingly violates the regulations promulgated under subsection (b) or (f) is guilty of a class C felony.
+  - **(3)** Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 60105 of title 46 , if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f).
   - **(4)** This subsection does not apply to a failure to exchange ballast water if—
     - **(A)** the master of a vessel, acting in good faith, decides that the exchange of ballast water will threaten the safety or stability of the vessel, its crew, or its passengers; and
     - **(B)** the recordkeeping and reporting requirements of this chapter are complied with.
@@ -109,7 +109,7 @@ status: "active"
   - **(1)** The master of a vessel is not required to conduct a ballast water exchange if the master decides that the exchange would threaten the safety or stability of the vessel, its crew, or its passengers because of adverse weather, vessel architectural design, equipment failure, or any other extraordinary conditions.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
-    - **(B)** Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b) of this section.
+    - **(B)** Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b).
   - **(3)**
     - **(A)** Within 60 days of October 26, 1996 , 1 1 See Codification note below. the Secretary of the department in which the Coast Guard is operating, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
     - **(B)** The study required under subparagraph (A) shall be submitted to the Congress by no later than October 1, 1997 .

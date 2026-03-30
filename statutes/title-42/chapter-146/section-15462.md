@@ -3,9 +3,9 @@ title: "Section 15462 - Transferred"
 usc_title: 42
 usc_section: "15462"
 chapter: 146
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 15462"
-generated_at: "2026-03-30T05:37:41.667Z"
+generated_at: "2026-03-30T05:40:26.362Z"
 status: "transferred"
 ---
 

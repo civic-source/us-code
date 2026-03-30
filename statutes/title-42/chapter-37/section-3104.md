@@ -3,9 +3,9 @@ title: "Section 3104 - Advance acquisition of land for public purposes"
 usc_title: 42
 usc_section: "3104"
 chapter: 37
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 3104"
-generated_at: "2026-03-30T05:37:41.411Z"
+generated_at: "2026-03-30T05:40:26.089Z"
 status: "active"
 ---
 

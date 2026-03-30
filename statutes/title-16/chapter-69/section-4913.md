@@ -3,15 +3,15 @@ title: "Section 4913 - Exotic bird conservation assistance"
 usc_title: 16
 usc_section: "4913"
 chapter: 69
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 4913"
-generated_at: "2026-03-30T05:35:31.849Z"
+generated_at: "2026-03-30T05:38:48.598Z"
 status: "active"
 ---
 
 # § 4913. Exotic bird conservation assistance
 
-- **(a)** The Secretary, subject to the availability of appropriations, shall use amounts in the Exotic Bird Conservation Fund established by subsection (b) of this section to provide financial and technical assistance for projects to conserve exotic birds in their native countries. In selecting projects for assistance, the Secretary shall give particular attention to species that are subject to an import moratorium or quota under this chapter, in order to assist those countries in the development and implementation of conservation management programs, or law enforcement, or both.
+- **(a)** The Secretary, subject to the availability of appropriations, shall use amounts in the Exotic Bird Conservation Fund established by subsection (b) to provide financial and technical assistance for projects to conserve exotic birds in their native countries. In selecting projects for assistance, the Secretary shall give particular attention to species that are subject to an import moratorium or quota under this chapter, in order to assist those countries in the development and implementation of conservation management programs, or law enforcement, or both.
 - **(b)**
   - **(1)** There is established in the Treasury a separate account, which shall be known as the “Exotic Bird Conservation Fund”.
   - **(2)** The Fund shall consist of—

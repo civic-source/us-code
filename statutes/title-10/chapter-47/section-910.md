@@ -3,9 +3,9 @@ title: "Section 910 - Art. 110. Improper hazarding of vessel"
 usc_title: 10
 usc_section: "910"
 chapter: 47
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "10 U.S.C. § 910"
-generated_at: "2026-03-30T05:34:54.619Z"
+generated_at: "2026-03-30T05:38:26.073Z"
 status: "active"
 ---
 

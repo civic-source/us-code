@@ -3,9 +3,9 @@ title: "Section 1330 - National estuary program"
 usc_title: 33
 usc_section: "1330"
 chapter: 26
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 1330"
-generated_at: "2026-03-30T05:36:42.540Z"
+generated_at: "2026-03-30T05:39:52.675Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ status: "active"
       - **(v)** jellyfish proliferation limiting community access to water during peak tourism seasons;
       - **(vi)** flooding that may be related to sea level rise or wetland degradation or loss; and
       - **(vii)** low dissolved oxygen conditions in estuarine waters and related nutrient management.
-- **(h)** Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+- **(h)** Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 - **(i)**
   - **(1)** There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021 for—
     - **(A)** expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and

@@ -1,15 +1,13 @@
 ---
-title: "Section 1703 - Rhode Island Indian Claims Settlement Fund; establishment"
+title: "Section 1703 - Omitted"
 usc_title: 25
 usc_section: "1703"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1703"
-generated_at: "2026-03-30T05:35:40.112Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.395Z"
+status: "omitted"
 ---
 
-# § 1703. Rhode Island Indian Claims Settlement Fund; establishment
-
-There is hereby established in the United States Treasury a fund to be known as the Rhode Island Indian Claims Settlement Fund into which $3,500,000 shall be deposited following the appropriation authorized by section 1710 of this title .
+# § 1703. Omitted
 

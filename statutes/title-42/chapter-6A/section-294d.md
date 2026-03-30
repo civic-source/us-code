@@ -3,9 +3,9 @@ title: "Section 294d - Quentin N. Burdick program for rural interdisciplinary tr
 usc_title: 42
 usc_section: "294d"
 chapter: 6
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "42 U.S.C. § 294d"
-generated_at: "2026-03-30T05:37:41.116Z"
+generated_at: "2026-03-30T05:40:25.776Z"
 status: "active"
 ---
 
@@ -30,5 +30,5 @@ status: "active"
     - **(C)** An institution that receives a grant under this section shall use amounts received under such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) of this section in the fiscal year preceding the year for which the grant is received.
 - **(c)** Applications submitted for assistance under this section shall—
   - **(1)** be jointly submitted by at least two eligible applicants with the express purpose of assisting individuals in academic institutions in establishing long-term collaborative relationships with health care providers in rural areas; and
-  - **(2)** designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.].
+  - **(2)** designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].
 - **(d)** For the purposes of this section, the term “rural” means geographic areas that are located outside of standard metropolitan statistical areas.

@@ -3,15 +3,15 @@ title: "Section 3614 - Tribal judicial conferences"
 usc_title: 25
 usc_section: "3614"
 chapter: 38
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 3614"
-generated_at: "2026-03-30T05:35:40.140Z"
+generated_at: "2026-03-30T05:39:27.415Z"
 status: "active"
 ---
 
 # § 3614. Tribal judicial conferences
 
-The Secretary is authorized to provide funds to tribal judicial conferences, under section 3611 of this title , pursuant to contracts entered into under the authority of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.] for the development, enhancement, and continuing operation of tribal justice systems of Indian tribes which are members of such conference. Funds provided under this section may be used for—
+The Secretary is authorized to provide funds to tribal judicial conferences, under section 3611 of this title , pursuant to contracts entered into under the authority of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] for the development, enhancement, and continuing operation of tribal justice systems of Indian tribes which are members of such conference. Funds provided under this section may be used for—
 
   - **(1)** the employment of judges, magistrates, court counselors, court clerks, court administrators, bailiffs, probation officers, officers of the court, or dispute resolution facilitators;
   - **(2)** the development, revision, and publication of tribal codes, rules of practice, rules of procedure, and standards of judicial performance and conduct;

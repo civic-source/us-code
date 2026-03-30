@@ -1,19 +1,13 @@
 ---
-title: "Section 1776g - Applicability"
+title: "Section 1776g - Omitted"
 usc_title: 25
 usc_section: "1776g"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1776g"
-generated_at: "2026-03-30T05:35:40.118Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1776g. Applicability
+# § 1776g. Omitted
 
-- **(a)** This subchapter shall take effect upon the occurrence of the following conditions:
-  - **(1)** The Settlement Agreement is approved and executed by the Secretary.
-  - **(2)** The Settlement Agreement is approved and executed by the Crow Tribe.
-  - **(3)** The Settlement Agreement and the releases and waivers required by section 1776c of this title are approved and duly executed by the Crow Tribe in accordance with the requirements and procedures set forth in the constitution of the Crow Tribe.
-  - **(4)** The Settlement Agreement becomes effective in accordance with the terms and conditions specified in the Settlement Agreement.
-- **(b)** The United States hereby approves and confirms the releases and waivers required by section 1776c of this title .

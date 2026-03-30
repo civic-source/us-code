@@ -1,15 +1,13 @@
 ---
-title: "Section 983d - Interim government"
+title: "Section 983d - Omitted"
 usc_title: 25
 usc_section: "983d"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 983d"
-generated_at: "2026-03-30T05:35:40.092Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 983d. Interim government
-
-Until such time as a constitution for the Tribe is adopted in accordance with section 983f(a) of this title and tribal officials are elected under section 983f(b) of this title , the Tribe shall be governed by the Interim Council.
+# § 983d. Omitted
 

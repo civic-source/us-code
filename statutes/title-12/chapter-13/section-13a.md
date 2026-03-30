@@ -3,9 +3,9 @@ title: "Section 13a - Loan guarantees for Indian housing"
 usc_title: 12
 usc_section: "13a"
 chapter: 13
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "12 U.S.C. § 13a"
-generated_at: "2026-03-30T05:35:12.265Z"
+generated_at: "2026-03-30T05:38:38.174Z"
 status: "active"
 ---
 
@@ -107,5 +107,5 @@ status: "active"
       - **(ii)** by operation of State law providing specifically for housing authorities for Indians, including regional housing authorities in the State of Alaska.
   - **(6)** The term “Secretary” means the Secretary of Housing and Urban Development.
   - **(7)** The term “standard housing” means a dwelling unit or housing that complies with the requirements established under subsection (j).
-  - **(8)** The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 [ 25 U.S.C. 450 et seq.].
+  - **(8)** The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 [ 25 U.S.C. 5301 et seq.].
   - **(9)** The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.

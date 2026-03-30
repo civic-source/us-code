@@ -3,9 +3,9 @@ title: "Section 14 - Definitions"
 usc_title: 20
 usc_section: "14"
 chapter: 3
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T05:35:34.190Z"
+generated_at: "2026-03-30T05:39:05.686Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ As used in this subchapter—
   - **(5)** the term “Heye Foundation assets” means the collections, endowment, and all other property of the Heye Foundation (other than the interest of the Heye Foundation in Audubon Terrace) described in the Memorandum of Understanding between the Smithsonian Institution and the Heye Foundation, dated May 8, 1989 , and the schedules attached to such memorandum;
   - **(6)** the term “Heye Museum” means the Museum of the American Indian, Heye Foundation;
   - **(7)** the term “Indian” means a member of an Indian tribe;
-  - **(8)** the term “Indian tribe” has the meaning given that term in section 450b of title 25 ;
+  - **(8)** the term “Indian tribe” has the meaning given that term in section 5304 of title 25 ;
   - **(9)** the term “National Museum” means the National Museum of the American Indian established by section 80q–1 of this title ;
   - **(10)** the term “Native American” means an individual of a tribe, people, or culture that is indigenous to the Americas and such term includes a Native Hawaiian; and
   - **(11)** the term “Native Hawaiian” means a member or descendant of the aboriginal people who, before 1778, occupied and exercised sovereignty in the area that now comprises the State of Hawaii.

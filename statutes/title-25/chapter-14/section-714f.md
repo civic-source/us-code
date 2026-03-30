@@ -1,15 +1,13 @@
 ---
-title: "Section 714f - Regulations"
+title: "Section 714f - Omitted"
 usc_title: 25
 usc_section: "714f"
 chapter: 14
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 714f"
-generated_at: "2026-03-30T05:35:40.087Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.382Z"
+status: "omitted"
 ---
 
-# § 714f. Regulations
-
-The Secretary may promulgate such regulations as may be necessary to carry out the provisions of this subchapter.
+# § 714f. Omitted
 

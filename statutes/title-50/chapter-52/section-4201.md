@@ -3,9 +3,9 @@ title: "Section 4201 - Purposes"
 usc_title: 50
 usc_section: "4201"
 chapter: 52
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "50 U.S.C. § 4201"
-generated_at: "2026-03-30T05:37:46.648Z"
+generated_at: "2026-03-30T05:40:31.415Z"
 status: "active"
 ---
 

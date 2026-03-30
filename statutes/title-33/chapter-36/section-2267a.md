@@ -3,9 +3,9 @@ title: "Section 2267a - Watershed and river basin assessments"
 usc_title: 33
 usc_section: "2267a"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2267a"
-generated_at: "2026-03-30T05:36:42.553Z"
+generated_at: "2026-03-30T05:39:52.688Z"
 status: "active"
 ---
 
@@ -18,13 +18,13 @@ status: "active"
   - **(4)** watershed protection;
   - **(5)** water supply; and
   - **(6)** drought preparedness.
-- **(b)** An assessment under subsection (a) of this section shall be carried out in cooperation and coordination with—
+- **(b)** An assessment under subsection (a) shall be carried out in cooperation and coordination with—
   - **(1)** the Secretary of the Interior;
   - **(2)** the Secretary of Agriculture;
   - **(3)** the Secretary of Commerce;
   - **(4)** the Administrator of the Environmental Protection Agency; and
   - **(5)** the heads of other appropriate agencies.
-- **(c)** In carrying out an assessment under subsection (a) of this section, the Secretary shall consult with Federal, tribal, State, interstate, and local governmental entities.
+- **(c)** In carrying out an assessment under subsection (a), the Secretary shall consult with Federal, tribal, State, interstate, and local governmental entities.
 - **(d)** In selecting river basins and watersheds for assessment under this section, the Secretary shall give priority to—
   - **(1)** the Delaware River basin;
   - **(2)** the Kentucky River basin;
@@ -36,7 +36,7 @@ status: "active"
   - **(8)** Niagara River Basin, New York;
   - **(9)** Genesee River Basin, New York; and
   - **(10)** White River Basin, Arkansas and Missouri.
-- **(e)** In carrying out an assessment under subsection (a) of this section, the Secretary may accept contributions, in cash or in kind, from Federal, tribal, State, interstate, and local governmental entities to the extent that the Secretary determines that the contributions will facilitate completion of the assessment.
+- **(e)** In carrying out an assessment under subsection (a), the Secretary may accept contributions, in cash or in kind, from Federal, tribal, State, interstate, and local governmental entities to the extent that the Secretary determines that the contributions will facilitate completion of the assessment.
 - **(f)**
   - **(1)** The non-Federal share of the costs of an assessment carried out under this section on or after December 11, 2000 , shall be 25 percent.
   - **(2)**

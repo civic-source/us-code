@@ -1,15 +1,13 @@
 ---
-title: "Section 1775h - Judicial review"
+title: "Section 1775h - Omitted"
 usc_title: 25
 usc_section: "1775h"
 chapter: 19
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1775h"
-generated_at: "2026-03-30T05:35:40.117Z"
-status: "active"
+generated_at: "2026-03-30T05:39:27.396Z"
+status: "omitted"
 ---
 
-# § 1775h. Judicial review
+# § 1775h. Omitted
 
-- **(a)** Notwithstanding any other provision of law, during the period beginning on October 19, 1994 , and ending on the date that is 180 days after October 19, 1994 , the United States District Court for the Southern District of Connecticut shall have exclusive jurisdiction over any action to contest the constitutionality of this subchapter or the validity of any agreement entered into under the authority of this subchapter or approved by this subchapter.
-- **(b)** Effective with the termination of the period specified in subsection (a), no court shall have jurisdiction over any action to contest the constitutionality of this subchapter or the validity of any agreement entered into under the authority of this subchapter or approved by this subchapter, unless such action was filed prior to the date of termination of the period specified in subsection (a).

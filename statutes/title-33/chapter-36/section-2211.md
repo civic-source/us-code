@@ -3,9 +3,9 @@ title: "Section 2211 - Harbors"
 usc_title: 33
 usc_section: "2211"
 chapter: 36
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "33 U.S.C. § 2211"
-generated_at: "2026-03-30T05:36:42.550Z"
+generated_at: "2026-03-30T05:39:52.685Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(5)** In this subsection, the term “general navigation features” includes constructed land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996 .
 - **(b)**
   - **(1)** The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986 , shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 50 feet.
-  - **(2)** The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996 , shall be determined in accordance with subsection (a) of this section. The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
+  - **(2)** The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996 , shall be determined in accordance with subsection (a). The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
 - **(c)** Costs of constructing projects or measures for the prevention or mitigation of erosion or shoaling damages attributable to Federal navigation works shall be shared in the same proportion as the cost sharing provisions applicable to the project causing such erosion or shoaling. The non-Federal interests for the project causing the erosion or shoaling shall agree to operate and maintain such measures.
 - **(d)** The amount of any non-Federal share of the cost of any navigation project for a harbor or inland harbor shall be paid to the Secretary. Amounts required to be paid during construction shall be paid on an annual basis during the period of construction, beginning not later than one year after construction is initiated.
 - **(e)** Before initiation of construction of a project to which this section applies, the Secretary and the non-Federal interests shall enter into a cooperative agreement according to the provisions of section 1962d–5b of title 42 . The non-Federal interests shall agree to—
@@ -31,6 +31,6 @@ status: "active"
   - **(3)** provide to the Federal Government the non-Federal share of all other costs of construction of such project; and
   - **(4)** in the case of a deep-draft harbor, be responsible for the non-Federal share of operation and maintenance required by subsection (b) of this section.
 - **(f)** The Secretary shall ensure, to the extent practicable, that—
-  - **(1)** funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b) of this section;
+  - **(1)** funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b);
   - **(2)** funds expended for such construction are apportioned equitably in accordance with regional needs; and
   - **(3)** use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.

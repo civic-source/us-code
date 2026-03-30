@@ -3,15 +3,15 @@ title: "Section 1680a - Contract health facilities"
 usc_title: 25
 usc_section: "1680a"
 chapter: 18
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "25 U.S.C. § 1680a"
-generated_at: "2026-03-30T05:35:40.112Z"
+generated_at: "2026-03-30T05:39:27.394Z"
 status: "active"
 ---
 
 # § 1680a. Contract health facilities
 
-The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]—
+The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.]—
 
   - **(1)** for the maintenance and repair of clinics owned or leased by such tribes or tribal organizations,
   - **(2)** for employee training,

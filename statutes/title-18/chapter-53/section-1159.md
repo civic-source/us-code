@@ -3,9 +3,9 @@ title: "Section 1159 - Misrepresentation of Indian produced goods and products"
 usc_title: 18
 usc_section: "1159"
 chapter: 53
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "18 U.S.C. § 1159"
-generated_at: "2026-03-30T05:35:35.757Z"
+generated_at: "2026-03-30T05:39:07.825Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(1)** the term “Indian” means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
   - **(2)** the terms “Indian product” and “product of a particular Indian tribe or Indian arts and crafts organization” has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
   - **(3)** the term “Indian tribe”—
-    - **(A)** has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ); and
+    - **(A)** has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ); 1 1 See References in Text note below. and
     - **(B)** includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
       - **(i)** a State legislature;
       - **(ii)** a State commission; or

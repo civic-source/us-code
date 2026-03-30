@@ -3,9 +3,9 @@ title: "Section 539p - Southeast Arizona land exchange and conservation"
 usc_title: 16
 usc_section: "539p"
 chapter: 2
-current_through: "PL 114-219"
+current_through: "PL 114-221"
 classification: "16 U.S.C. § 539p"
-generated_at: "2026-03-30T05:35:31.727Z"
+generated_at: "2026-03-30T05:38:48.481Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** In this section:
   - **(1)** The term “Apache Leap” means the approximately 807 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Apache Leap” and dated March 2011.
   - **(2)** The term “Federal land” means the approximately 2,422 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Oak Flat” and dated March 2011.
-  - **(3)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
+  - **(3)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
   - **(4)** The term “non-Federal land” means the parcels of land owned by Resolution Copper that are described in subsection (d)(1) and, if necessary to equalize the land exchange under subsection (c), subsection (c)(5)(B)(i)(I).
   - **(5)** The term “Oak Flat Campground” means the approximately 50 acres of land comprising approximately 16 developed campsites depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Campground” and dated March 2011.
   - **(6)** The term “Oak Flat Withdrawal Area” means the approximately 760 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Withdrawal Area” and dated March 2011.
