@@ -3,9 +3,9 @@ title: "Section 4611 - Risk-based capital levels for regulated entities"
 usc_title: 12
 usc_section: "4611"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 4611"
-generated_at: "2026-03-30T01:39:08.100Z"
+generated_at: "2026-03-30T01:41:56.323Z"
 ---
 
 # § 4611. Risk-based capital levels for regulated entities

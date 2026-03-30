@@ -3,9 +3,9 @@ title: "Section 4811 - National security strategy for national technology and in
 usc_title: 10
 usc_section: "4811"
 chapter: 382
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 4811"
-generated_at: "2026-03-30T01:38:58.797Z"
+generated_at: "2026-03-30T01:41:48.618Z"
 ---
 
 # § 4811. National security strategy for national technology and industrial base

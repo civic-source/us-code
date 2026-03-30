@@ -3,9 +3,9 @@ title: "Section 431 - Authority to engage in commercial activities as security f
 usc_title: 10
 usc_section: "431"
 chapter: 21
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 431"
-generated_at: "2026-03-30T01:38:58.671Z"
+generated_at: "2026-03-30T01:41:48.470Z"
 ---
 
 # § 431. Authority to engage in commercial activities as security for intelligence collection activities

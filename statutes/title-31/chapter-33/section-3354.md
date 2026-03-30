@@ -3,9 +3,9 @@ title: "Section 3354 - Do Not Pay Initiative"
 usc_title: 31
 usc_section: "3354"
 chapter: 33
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "31 U.S.C. § 3354"
-generated_at: "2026-03-30T01:40:14.376Z"
+generated_at: "2026-03-30T01:43:02.866Z"
 ---
 
 # § 3354. Do Not Pay Initiative

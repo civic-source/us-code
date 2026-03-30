@@ -3,9 +3,9 @@ title: "Section 8139 - Regular Navy and Regular Marine Corps: officers designate
 usc_title: 10
 usc_section: "8139"
 chapter: 815
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 8139"
-generated_at: "2026-03-30T01:38:58.812Z"
+generated_at: "2026-03-30T01:41:48.636Z"
 ---
 
 # § 8139. Regular Navy and Regular Marine Corps: officers designated for limited duty

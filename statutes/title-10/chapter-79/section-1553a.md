@@ -3,9 +3,9 @@ title: "Section 1553a - Review of a request for upgrade of discharge or dismissa
 usc_title: 10
 usc_section: "1553a"
 chapter: 79
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 1553a"
-generated_at: "2026-03-30T01:38:58.728Z"
+generated_at: "2026-03-30T01:41:48.535Z"
 ---
 
 # § 1553a. Review of a request for upgrade of discharge or dismissal

@@ -3,9 +3,9 @@ title: "Section 4952 - Authority to operate VISTA program"
 usc_title: 42
 usc_section: "4952"
 chapter: 66
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 4952"
-generated_at: "2026-03-30T01:40:53.646Z"
+generated_at: "2026-03-30T01:43:40.050Z"
 ---
 
 # § 4952. Authority to operate VISTA program

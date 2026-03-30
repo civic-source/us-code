@@ -3,9 +3,9 @@ title: "Section 3524 - Effect of subsequent employment with the Government"
 usc_title: 5
 usc_section: "3524"
 chapter: 35
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 3524"
-generated_at: "2026-03-30T01:38:29.840Z"
+generated_at: "2026-03-30T01:41:30.812Z"
 ---
 
 # § 3524. Effect of subsequent employment with the Government

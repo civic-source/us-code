@@ -3,9 +3,9 @@ title: "Section 47528 - Prohibition on operating certain aircraft not complying 
 usc_title: 49
 usc_section: "47528"
 chapter: 475
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 47528"
-generated_at: "2026-03-30T01:41:03.465Z"
+generated_at: "2026-03-30T01:44:06.326Z"
 ---
 
 # § 47528. Prohibition on operating certain aircraft not complying with stage 3 noise levels

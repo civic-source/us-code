@@ -3,9 +3,9 @@ title: "Section 955d - Transferred"
 usc_title: 21
 usc_section: "955d"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 955d"
-generated_at: "2026-03-30T01:39:43.369Z"
+generated_at: "2026-03-30T01:42:26.524Z"
 ---
 
 # §§ 955a to 955d. Transferred

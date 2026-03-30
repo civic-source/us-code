@@ -3,9 +3,9 @@ title: "Section 2652 - Asbestos Ombudsman"
 usc_title: 15
 usc_section: "2652"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 2652"
-generated_at: "2026-03-30T01:39:11.409Z"
+generated_at: "2026-03-30T01:42:01.285Z"
 ---
 
 # § 2652. Asbestos Ombudsman

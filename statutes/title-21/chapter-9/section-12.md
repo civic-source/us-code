@@ -3,9 +3,9 @@ title: "Section 12 - Authority to assess and use animal drug fees"
 usc_title: 21
 usc_section: "12"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 12"
-generated_at: "2026-03-30T01:39:43.339Z"
+generated_at: "2026-03-30T01:42:26.494Z"
 ---
 
 # § 379j–12. Authority to assess and use animal drug fees
@@ -75,7 +75,7 @@ generated_at: "2026-03-30T01:39:43.339Z"
   - **(4)**
     - **(A)** For fiscal year 2025 and each subsequent fiscal year, after the fee revenue amount established under subsection (b) is adjusted in accordance with paragraphs (2) and (3), the Secretary shall—
       - **(i)** increase the fee revenue amount for such fiscal year, if necessary to provide an operating reserve of not less than 12 weeks; or
-      - **(ii)** if the Secretary has an operating reserve in excess of the number of weeks specified in subparagraph (C) for that fiscal year, the Secretary shall decrease the fee revenue amount to provide not more than the number of weeks specified in subparagraph (C) for that fiscal year.
+      - **(ii)** if the Secretary has an operating reserve in excess of the number of weeks specified in subparagraph (C) for that fiscal year, the Secretary shall 1 1 So in original. The words “the Secretary shall” also appear at end of introductory provisions. decrease the fee revenue amount to provide not more than the number of weeks specified in subparagraph (C) for that fiscal year.
     - **(B)** For purposes of this paragraph, the operating reserve of carryover user fees for the process for the review of animal drug applications does not include carryover user fees that have not been appropriated.
     - **(C)** The number of weeks of operating reserves specified in this subparagraph is—
       - **(i)** 22 weeks for fiscal year 2025;

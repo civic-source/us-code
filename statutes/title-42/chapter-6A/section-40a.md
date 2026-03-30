@@ -3,9 +3,9 @@ title: "Section 40a - Microbicide research"
 usc_title: 42
 usc_section: "40a"
 chapter: 6
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 40a"
-generated_at: "2026-03-30T01:40:53.258Z"
+generated_at: "2026-03-30T01:43:39.673Z"
 ---
 
 # § 300cc–40a. Microbicide research

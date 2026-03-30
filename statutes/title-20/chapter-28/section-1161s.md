@@ -3,9 +3,9 @@ title: "Section 1161s - Program to promote training and job placement of realtim
 usc_title: 20
 usc_section: "1161s"
 chapter: 28
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 1161s"
-generated_at: "2026-03-30T01:39:19.086Z"
+generated_at: "2026-03-30T01:42:15.461Z"
 ---
 
 # § 1161s. Program to promote training and job placement of realtime writers

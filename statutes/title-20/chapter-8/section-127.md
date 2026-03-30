@@ -3,9 +3,9 @@ title: "Section 127 - Transfer of facilities by University or cessation of opera
 usc_title: 20
 usc_section: "127"
 chapter: 8
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 127"
-generated_at: "2026-03-30T01:39:18.950Z"
+generated_at: "2026-03-30T01:42:15.396Z"
 ---
 
 # § 127. Transfer of facilities by University or cessation of operation as teaching hospital facilities; recovery of value by United States

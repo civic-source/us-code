@@ -3,9 +3,9 @@ title: "Section 2612 - Coverage"
 usc_title: 16
 usc_section: "2612"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 2612"
-generated_at: "2026-03-30T01:39:30.915Z"
+generated_at: "2026-03-30T01:42:21.835Z"
 ---
 
 # § 2612. Coverage

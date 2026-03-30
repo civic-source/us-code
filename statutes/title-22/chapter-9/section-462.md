@@ -3,9 +3,9 @@ title: "Section 462 - Compelling foreign vessels to depart"
 usc_title: 22
 usc_section: "462"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 462"
-generated_at: "2026-03-30T01:39:56.128Z"
+generated_at: "2026-03-30T01:42:44.499Z"
 ---
 
 # § 462. Compelling foreign vessels to depart

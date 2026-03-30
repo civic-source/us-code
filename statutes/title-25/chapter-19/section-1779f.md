@@ -3,9 +3,9 @@ title: "Section 1779f - Omitted"
 usc_title: 25
 usc_section: "1779f"
 chapter: 19
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 1779f"
-generated_at: "2026-03-30T01:39:42.199Z"
+generated_at: "2026-03-30T01:42:28.604Z"
 ---
 
 # § 1779f. Omitted

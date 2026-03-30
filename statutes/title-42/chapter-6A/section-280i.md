@@ -3,9 +3,9 @@ title: "Section 280i - Developmental disabilities surveillance and research prog
 usc_title: 42
 usc_section: "280i"
 chapter: 6
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 280i"
-generated_at: "2026-03-30T01:40:53.176Z"
+generated_at: "2026-03-30T01:43:39.586Z"
 ---
 
 # § 280i. Developmental disabilities surveillance and research program
@@ -25,4 +25,4 @@ generated_at: "2026-03-30T01:40:53.176Z"
   - **(1)** The terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 1603 of title 25 .
   - **(2)** The term “other developmental disabilities” has the meaning given the term “developmental disability” in section 15002(8) of this title .
   - **(3)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
-- **(e)** This section shall not apply after September 30, 2024 .
+- **(e)** This section shall not apply after December 20, 2024 .

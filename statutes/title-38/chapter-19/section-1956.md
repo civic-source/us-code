@@ -3,9 +3,9 @@ title: "Section 1956 - Military and naval insurance appropriation"
 usc_title: 38
 usc_section: "1956"
 chapter: 19
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 1956"
-generated_at: "2026-03-30T01:40:33.377Z"
+generated_at: "2026-03-30T01:43:08.345Z"
 ---
 
 # § 1956. Military and naval insurance appropriation

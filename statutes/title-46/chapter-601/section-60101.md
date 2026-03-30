@@ -3,9 +3,9 @@ title: "Section 60101 - Boarding arriving vessels before inspection"
 usc_title: 46
 usc_section: "60101"
 chapter: 601
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 60101"
-generated_at: "2026-03-30T01:41:00.461Z"
+generated_at: "2026-03-30T01:43:54.121Z"
 ---
 
 # § 60101. Boarding arriving vessels before inspection

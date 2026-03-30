@@ -3,9 +3,9 @@ title: "Section 1336h - Omitted"
 usc_title: 48
 usc_section: "1336h"
 chapter: 6
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "48 U.S.C. § 1336h"
-generated_at: "2026-03-30T01:40:56.992Z"
+generated_at: "2026-03-30T01:43:49.163Z"
 ---
 
 # §§ 1330 to 1336h. Omitted

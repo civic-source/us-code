@@ -3,9 +3,9 @@ title: "Section 7805 - Enforcement"
 usc_title: 16
 usc_section: "7805"
 chapter: 97
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 7805"
-generated_at: "2026-03-30T01:39:30.971Z"
+generated_at: "2026-03-30T01:42:21.890Z"
 ---
 
 # § 7805. Enforcement

@@ -3,9 +3,9 @@ title: "Section 2279 - Foreign commercial satellite services and foreign launche
 usc_title: 10
 usc_section: "2279"
 chapter: 135
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 2279"
-generated_at: "2026-03-30T01:38:58.749Z"
+generated_at: "2026-03-30T01:41:48.560Z"
 ---
 
 # § 2279. Foreign commercial satellite services and foreign launches

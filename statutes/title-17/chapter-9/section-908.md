@@ -3,9 +3,9 @@ title: "Section 908 - Registration of claims of protection"
 usc_title: 17
 usc_section: "908"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "17 U.S.C. § 908"
-generated_at: "2026-03-30T01:39:31.188Z"
+generated_at: "2026-03-30T01:42:09.138Z"
 ---
 
 # § 908. Registration of claims of protection

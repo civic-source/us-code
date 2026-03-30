@@ -3,9 +3,9 @@ title: "Section 7464 - Identity management research and development"
 usc_title: 15
 usc_section: "7464"
 chapter: 100
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 7464"
-generated_at: "2026-03-30T01:39:11.458Z"
+generated_at: "2026-03-30T01:42:01.341Z"
 ---
 
 # § 7464. Identity management research and development

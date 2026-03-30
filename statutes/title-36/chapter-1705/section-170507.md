@@ -3,9 +3,9 @@ title: "Section 170507 - Restrictions"
 usc_title: 36
 usc_section: "170507"
 chapter: 1705
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 170507"
-generated_at: "2026-03-30T01:40:30.556Z"
+generated_at: "2026-03-30T01:43:06.786Z"
 ---
 
 # § 170507. Restrictions

@@ -3,9 +3,9 @@ title: "Section 110308 - Service of process"
 usc_title: 36
 usc_section: "110308"
 chapter: 1103
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 110308"
-generated_at: "2026-03-30T01:40:30.548Z"
+generated_at: "2026-03-30T01:43:06.779Z"
 ---
 
 # § 110308. Service of process

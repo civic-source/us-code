@@ -3,9 +3,9 @@ title: "Section 2443 - Authorization of appropriations"
 usc_title: 16
 usc_section: "2443"
 chapter: 44
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 2443"
-generated_at: "2026-03-30T01:39:30.914Z"
+generated_at: "2026-03-30T01:42:21.835Z"
 ---
 
 # § 2443. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1369 - Treatment of expenses subject to emergency medical servic
 usc_title: 8
 usc_section: "1369"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "8 U.S.C. § 1369"
-generated_at: "2026-03-30T01:38:53.663Z"
+generated_at: "2026-03-30T01:41:33.853Z"
 ---
 
 # § 1369. Treatment of expenses subject to emergency medical services exception

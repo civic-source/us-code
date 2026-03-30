@@ -3,9 +3,9 @@ title: "Section 2573 - International agreements on information on radioactive ma
 usc_title: 50
 usc_section: "2573"
 chapter: 42
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "50 U.S.C. § 2573"
-generated_at: "2026-03-30T01:40:59.390Z"
+generated_at: "2026-03-30T01:44:03.803Z"
 ---
 
 # § 2573. International agreements on information on radioactive materials

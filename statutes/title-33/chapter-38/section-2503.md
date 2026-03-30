@@ -3,9 +3,9 @@ title: "Section 2503 - Prohibition"
 usc_title: 33
 usc_section: "2503"
 chapter: 38
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 2503"
-generated_at: "2026-03-30T01:40:15.627Z"
+generated_at: "2026-03-30T01:43:03.963Z"
 ---
 
 # § 2503. Prohibition

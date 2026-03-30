@@ -3,9 +3,9 @@ title: "Section 1281 - Current inclusion in income of discount on certain short-
 usc_title: 26
 usc_section: "1281"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 1281"
-generated_at: "2026-03-30T01:40:11.225Z"
+generated_at: "2026-03-30T01:42:58.784Z"
 ---
 
 # § 1281. Current inclusion in income of discount on certain short-term obligations

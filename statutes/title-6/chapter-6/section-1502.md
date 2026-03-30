@@ -3,9 +3,9 @@ title: "Section 1502 - Sharing of information by the Federal Government"
 usc_title: 6
 usc_section: "1502"
 chapter: 6
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "6 U.S.C. § 1502"
-generated_at: "2026-03-30T01:38:39.295Z"
+generated_at: "2026-03-30T01:41:35.373Z"
 ---
 
 # § 1502. Sharing of information by the Federal Government

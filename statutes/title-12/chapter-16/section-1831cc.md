@@ -3,9 +3,9 @@ title: "Section 1831cc - Data standards"
 usc_title: 12
 usc_section: "1831cc"
 chapter: 16
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 1831cc"
-generated_at: "2026-03-30T01:39:08.053Z"
+generated_at: "2026-03-30T01:41:56.258Z"
 ---
 
 # § 1831cc. Data standards

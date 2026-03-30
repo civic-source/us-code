@@ -3,9 +3,9 @@ title: "Section 347 - Quadrennial homeland security review"
 usc_title: 6
 usc_section: "347"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "6 U.S.C. § 347"
-generated_at: "2026-03-30T01:38:39.261Z"
+generated_at: "2026-03-30T01:41:35.340Z"
 ---
 
 # § 347. Quadrennial homeland security review

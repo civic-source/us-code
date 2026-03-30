@@ -3,9 +3,9 @@ title: "Section 361g - Duties of Secretary; ascertainment of entitlement of Stat
 usc_title: 7
 usc_section: "361g"
 chapter: 14
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 361g"
-generated_at: "2026-03-30T01:39:01.314Z"
+generated_at: "2026-03-30T01:41:40.459Z"
 ---
 
 # § 361g. Duties of Secretary; ascertainment of entitlement of State to funds; plans of work

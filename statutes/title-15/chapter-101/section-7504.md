@@ -3,9 +3,9 @@ title: "Section 7504 - Quadrennial external review of the National Nanotechnolog
 usc_title: 15
 usc_section: "7504"
 chapter: 101
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 7504"
-generated_at: "2026-03-30T01:39:11.459Z"
+generated_at: "2026-03-30T01:42:01.342Z"
 ---
 
 # § 7504. Quadrennial external review of the National Nanotechnology Program

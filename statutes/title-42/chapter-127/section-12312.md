@@ -3,9 +3,9 @@ title: "Section 12312 - Functions of Commissioner"
 usc_title: 42
 usc_section: "12312"
 chapter: 127
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 12312"
-generated_at: "2026-03-30T01:40:53.854Z"
+generated_at: "2026-03-30T01:43:40.250Z"
 ---
 
 # § 12312. Functions of Commissioner

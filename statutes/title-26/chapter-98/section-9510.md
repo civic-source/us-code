@@ -3,9 +3,9 @@ title: "Section 9510 - Vaccine Injury Compensation Trust Fund"
 usc_title: 26
 usc_section: "9510"
 chapter: 98
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 9510"
-generated_at: "2026-03-30T01:40:11.343Z"
+generated_at: "2026-03-30T01:42:58.908Z"
 ---
 
 # § 9510. Vaccine Injury Compensation Trust Fund

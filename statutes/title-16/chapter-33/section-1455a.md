@@ -3,9 +3,9 @@ title: "Section 1455a - Coastal resource improvement program"
 usc_title: 16
 usc_section: "1455a"
 chapter: 33
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 1455a"
-generated_at: "2026-03-30T01:39:30.889Z"
+generated_at: "2026-03-30T01:42:21.807Z"
 ---
 
 # § 1455a. Coastal resource improvement program

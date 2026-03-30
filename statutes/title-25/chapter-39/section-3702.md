@@ -3,9 +3,9 @@ title: "Section 3702 - Purposes"
 usc_title: 25
 usc_section: "3702"
 chapter: 39
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 3702"
-generated_at: "2026-03-30T01:39:42.225Z"
+generated_at: "2026-03-30T01:42:28.630Z"
 ---
 
 # § 3702. Purposes

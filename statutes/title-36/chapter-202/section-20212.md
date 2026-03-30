@@ -3,9 +3,9 @@ title: "Section 20212 - Annual report"
 usc_title: 36
 usc_section: "20212"
 chapter: 202
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 20212"
-generated_at: "2026-03-30T01:40:30.539Z"
+generated_at: "2026-03-30T01:43:06.771Z"
 ---
 
 # § 20212. Annual report

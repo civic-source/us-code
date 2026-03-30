@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions"
 usc_title: 12
 usc_section: "5102"
 chapter: 51
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 5102"
-generated_at: "2026-03-30T01:39:08.112Z"
+generated_at: "2026-03-30T01:41:56.338Z"
 ---
 
 # § 5102. Definitions

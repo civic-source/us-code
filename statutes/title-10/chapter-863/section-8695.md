@@ -3,9 +3,9 @@ title: "Section 8695 - Navy battle force ship assessment and requirement reporti
 usc_title: 10
 usc_section: "8695"
 chapter: 863
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 8695"
-generated_at: "2026-03-30T01:38:58.820Z"
+generated_at: "2026-03-30T01:41:48.647Z"
 ---
 
 # § 8695. Navy battle force ship assessment and requirement reporting

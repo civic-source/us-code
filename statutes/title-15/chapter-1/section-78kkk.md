@@ -3,9 +3,9 @@ title: "Section 78kkk - Miscellaneous provisions"
 usc_title: 15
 usc_section: "78kkk"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 78kkk"
-generated_at: "2026-03-30T01:39:11.274Z"
+generated_at: "2026-03-30T01:42:01.129Z"
 ---
 
 # § 78kkk. Miscellaneous provisions

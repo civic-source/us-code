@@ -3,9 +3,9 @@ title: "Section 5323 - Retention of Federal employee coverage, rights and benefi
 usc_title: 25
 usc_section: "5323"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 5323"
-generated_at: "2026-03-30T01:39:42.237Z"
+generated_at: "2026-03-30T01:42:28.641Z"
 ---
 
 # § 5323. Retention of Federal employee coverage, rights and benefits by employees of tribal organizations

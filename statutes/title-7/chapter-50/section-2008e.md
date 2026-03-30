@@ -3,9 +3,9 @@ title: "Section 2008e - Prohibition under rural development programs"
 usc_title: 7
 usc_section: "2008e"
 chapter: 50
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 2008e"
-generated_at: "2026-03-30T01:39:01.376Z"
+generated_at: "2026-03-30T01:41:40.523Z"
 ---
 
 # § 2008e. Prohibition under rural development programs

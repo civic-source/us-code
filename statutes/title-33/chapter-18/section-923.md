@@ -3,9 +3,9 @@ title: "Section 923 - Procedure before deputy commissioner or Board"
 usc_title: 33
 usc_section: "923"
 chapter: 18
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 923"
-generated_at: "2026-03-30T01:40:15.576Z"
+generated_at: "2026-03-30T01:43:03.915Z"
 ---
 
 # § 923. Procedure before deputy commissioner or Board

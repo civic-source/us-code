@@ -3,9 +3,9 @@ title: "Section 396 - Notification requirements for cyber weapons"
 usc_title: 10
 usc_section: "396"
 chapter: 19
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 396"
-generated_at: "2026-03-30T01:38:58.669Z"
+generated_at: "2026-03-30T01:41:48.469Z"
 ---
 
 # § 396. Notification requirements for cyber weapons

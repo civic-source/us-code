@@ -3,9 +3,9 @@ title: "Section 51327 - Sexual Assault Advisory Council"
 usc_title: 46
 usc_section: "51327"
 chapter: 513
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 51327"
-generated_at: "2026-03-30T01:41:00.448Z"
+generated_at: "2026-03-30T01:43:54.110Z"
 ---
 
 # § 51327. Sexual Assault Advisory Council

@@ -3,9 +3,9 @@ title: "Section 8452 - Computation of disability annuity"
 usc_title: 5
 usc_section: "8452"
 chapter: 84
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 8452"
-generated_at: "2026-03-30T01:38:29.881Z"
+generated_at: "2026-03-30T01:41:30.852Z"
 ---
 
 # § 8452. Computation of disability annuity

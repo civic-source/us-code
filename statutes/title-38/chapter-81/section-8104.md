@@ -3,9 +3,9 @@ title: "Section 8104 - Congressional approval of certain medical facility acquis
 usc_title: 38
 usc_section: "8104"
 chapter: 81
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 8104"
-generated_at: "2026-03-30T01:40:33.426Z"
+generated_at: "2026-03-30T01:43:08.391Z"
 ---
 
 # § 8104. Congressional approval of certain medical facility acquisitions
@@ -46,7 +46,7 @@ generated_at: "2026-03-30T01:40:33.426Z"
       - **(i)** A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
       - **(ii)** A comparison of total costs to total benefits for each such alternative.
       - **(iii)** An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
-  - **(2)** Whenever the President or the Secretary submit to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+  - **(2)** Whenever the President or the Secretary submit 1 to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
     - **(A)** A description of the facility to be leased.
     - **(B)** An estimate of the cost to the Federal Government of the facility to be leased.
     - **(C)** An estimate of the energy performance of the proposed lease space, to include a description of anticipated utilization of renewable energy, energy efficient and climate resilient elements, and related matters.

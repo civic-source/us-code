@@ -3,9 +3,9 @@ title: "Section 50331 - Congressional Badge of Bravery Office"
 usc_title: 34
 usc_section: "50331"
 chapter: 503
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "34 U.S.C. § 50331"
-generated_at: "2026-03-30T01:40:27.240Z"
+generated_at: "2026-03-30T01:43:01.954Z"
 ---
 
 # § 50331. Congressional Badge of Bravery Office

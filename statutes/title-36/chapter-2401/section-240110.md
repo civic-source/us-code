@@ -3,9 +3,9 @@ title: "Section 240110 - Service of process"
 usc_title: 36
 usc_section: "240110"
 chapter: 2401
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 240110"
-generated_at: "2026-03-30T01:40:30.561Z"
+generated_at: "2026-03-30T01:43:06.790Z"
 ---
 
 # § 240110. Service of process

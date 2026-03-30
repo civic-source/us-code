@@ -3,9 +3,9 @@ title: "Section 2346 - Delegation of functions to Small Business Administration;
 usc_title: 19
 usc_section: "2346"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "19 U.S.C. § 2346"
-generated_at: "2026-03-30T01:39:35.595Z"
+generated_at: "2026-03-30T01:42:12.515Z"
 ---
 
 # § 2346. Delegation of functions to Small Business Administration; authorization of appropriations

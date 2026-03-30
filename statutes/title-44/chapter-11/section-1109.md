@@ -3,9 +3,9 @@ title: "Section 1109 - Printing documents in two or more editions; full number a
 usc_title: 44
 usc_section: "1109"
 chapter: 11
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "44 U.S.C. § 1109"
-generated_at: "2026-03-30T01:40:41.877Z"
+generated_at: "2026-03-30T01:43:19.820Z"
 ---
 
 # § 1109. Printing documents in two or more editions; full number and allotment of full quota

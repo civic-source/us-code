@@ -3,9 +3,9 @@ title: "Section 7780 - Acquisition of buildings in District of Columbia"
 usc_title: 10
 usc_section: "7780"
 chapter: 779
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 7780"
-generated_at: "2026-03-30T01:38:58.810Z"
+generated_at: "2026-03-30T01:41:48.632Z"
 ---
 
 # § 7780. Acquisition of buildings in District of Columbia

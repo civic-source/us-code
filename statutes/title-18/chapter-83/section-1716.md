@@ -3,9 +3,9 @@ title: "Section 1716 - Injurious articles as nonmailable"
 usc_title: 18
 usc_section: "1716"
 chapter: 83
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 1716"
-generated_at: "2026-03-30T01:39:37.854Z"
+generated_at: "2026-03-30T01:42:10.771Z"
 ---
 
 # § 1716. Injurious articles as nonmailable

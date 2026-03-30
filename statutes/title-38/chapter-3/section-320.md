@@ -3,9 +3,9 @@ title: "Section 320 - Department of Veterans Affairs-Department of Defense Joint
 usc_title: 38
 usc_section: "320"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 320"
-generated_at: "2026-03-30T01:40:33.356Z"
+generated_at: "2026-03-30T01:43:08.324Z"
 ---
 
 # § 320. Department of Veterans Affairs-Department of Defense Joint Executive Committee
@@ -31,6 +31,6 @@ generated_at: "2026-03-30T01:40:33.356Z"
   - **(4)** Review the plans of both Departments for the acquisition of additional resources, especially new facilities and major equipment and technology, in order to assess the potential effect of such plans on further opportunities for the coordination and sharing of resources.
   - **(5)** Review the implementation of activities designed to promote the coordination and sharing of resources between the Departments.
   - **(6)** Develop, implement, and oversee such other joint actions, initiatives, programs, and policies as the two Secretaries determine appropriate and consistent with the purpose of the Committee.
-- **(e)** The Transition Executive Committee described in subsection (b)(2) shall, in addition to such other activities as may assigned to the committee under subsection (d)(6)—
+- **(e)** The Transition Executive Committee described in subsection (b)(2) shall, in addition to such other activities as may assigned 1 1 So in original. Probably should be preceded by “be”. to the committee under subsection (d)(6)—
   - **(1)** review existing policies, procedures, and practices of the Departments (including the military departments) with respect to job training and post-service placement programs; and
   - **(2)** identify changes to such policies, procedures, and practices to improve job training, transition from life in the Armed Forces to civilian life, and post-service placement.

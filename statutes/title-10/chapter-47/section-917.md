@@ -3,9 +3,9 @@ title: "Section 917 - Art. 117. Provoking speeches or gestures"
 usc_title: 10
 usc_section: "917"
 chapter: 47
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 917"
-generated_at: "2026-03-30T01:38:58.695Z"
+generated_at: "2026-03-30T01:41:48.493Z"
 ---
 
 # § 917. Art. 117. Provoking speeches or gestures

@@ -3,9 +3,9 @@ title: "Section 416a - Lease provisions"
 usc_title: 25
 usc_section: "416a"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 416a"
-generated_at: "2026-03-30T01:39:42.176Z"
+generated_at: "2026-03-30T01:42:28.583Z"
 ---
 
 # § 416a. Lease provisions

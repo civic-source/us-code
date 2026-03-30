@@ -3,9 +3,9 @@ title: "Section 405 - Petition for reconsideration; procedure; disposition; time
 usc_title: 47
 usc_section: "405"
 chapter: 5
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "47 U.S.C. § 405"
-generated_at: "2026-03-30T01:40:57.766Z"
+generated_at: "2026-03-30T01:43:44.008Z"
 ---
 
 # § 405. Petition for reconsideration; procedure; disposition; time of filing; additional evidence; time for disposition of petition for reconsideration of order concluding hearing or investigation; appeal of order

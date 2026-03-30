@@ -3,9 +3,9 @@ title: "Section 7634 - Malaria response Coordinator"
 usc_title: 22
 usc_section: "7634"
 chapter: 83
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 7634"
-generated_at: "2026-03-30T01:39:56.258Z"
+generated_at: "2026-03-30T01:42:44.619Z"
 ---
 
 # § 7634. Malaria response Coordinator

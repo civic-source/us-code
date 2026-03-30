@@ -3,9 +3,9 @@ title: "Section 1261 - Revision of permits"
 usc_title: 30
 usc_section: "1261"
 chapter: 25
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "30 U.S.C. § 1261"
-generated_at: "2026-03-30T01:40:00.003Z"
+generated_at: "2026-03-30T01:42:47.707Z"
 ---
 
 # § 1261. Revision of permits

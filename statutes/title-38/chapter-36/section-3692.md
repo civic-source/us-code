@@ -3,9 +3,9 @@ title: "Section 3692 - Advisory committee"
 usc_title: 38
 usc_section: "3692"
 chapter: 36
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 3692"
-generated_at: "2026-03-30T01:40:33.398Z"
+generated_at: "2026-03-30T01:43:08.364Z"
 ---
 
 # § 3692. Advisory committee

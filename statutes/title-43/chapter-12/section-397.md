@@ -3,9 +3,9 @@ title: "Section 397 - Advances by Government for completion of projects initiate
 usc_title: 43
 usc_section: "397"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "43 U.S.C. § 397"
-generated_at: "2026-03-30T01:40:37.563Z"
+generated_at: "2026-03-30T01:43:22.580Z"
 ---
 
 # § 397. Advances by Government for completion of projects initiated prior to June 25, 1910

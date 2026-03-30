@@ -3,9 +3,9 @@ title: "Section 51305 - Prohibited basis for appointment"
 usc_title: 46
 usc_section: "51305"
 chapter: 513
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 51305"
-generated_at: "2026-03-30T01:41:00.446Z"
+generated_at: "2026-03-30T01:43:54.107Z"
 ---
 
 # § 51305. Prohibited basis for appointment

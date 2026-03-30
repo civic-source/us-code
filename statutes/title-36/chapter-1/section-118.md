@@ -3,9 +3,9 @@ title: "Section 118 - National Aviation Day"
 usc_title: 36
 usc_section: "118"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 118"
-generated_at: "2026-03-30T01:40:30.533Z"
+generated_at: "2026-03-30T01:43:06.769Z"
 ---
 
 # § 118. National Aviation Day

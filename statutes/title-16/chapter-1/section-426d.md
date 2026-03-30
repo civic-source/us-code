@@ -3,9 +3,9 @@ title: "Section 426d - Receipt of report of commission by Secretary of the Inter
 usc_title: 16
 usc_section: "426d"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 426d"
-generated_at: "2026-03-30T01:39:30.748Z"
+generated_at: "2026-03-30T01:42:21.659Z"
 ---
 
 # § 426d. Receipt of report of commission by Secretary of the Interior; acquisition of land for battlefield; other duties of Secretary

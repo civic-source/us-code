@@ -3,9 +3,9 @@ title: "Section 5542 - Department of Energy high-end computing research and deve
 usc_title: 15
 usc_section: "5542"
 chapter: 81
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 5542"
-generated_at: "2026-03-30T01:39:11.441Z"
+generated_at: "2026-03-30T01:42:01.320Z"
 ---
 
 # § 5542. Department of Energy high-end computing research and development program

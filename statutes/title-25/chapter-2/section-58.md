@@ -3,9 +3,9 @@ title: "Section 58 - Limitation on number and kind of employment"
 usc_title: 25
 usc_section: "58"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 58"
-generated_at: "2026-03-30T01:39:42.165Z"
+generated_at: "2026-03-30T01:42:28.572Z"
 ---
 
 # § 58. Limitation on number and kind of employment

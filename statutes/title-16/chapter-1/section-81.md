@@ -3,9 +3,9 @@ title: "Section 81 - Designation of mineral withdrawal area"
 usc_title: 16
 usc_section: "81"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 81"
-generated_at: "2026-03-30T01:39:30.790Z"
+generated_at: "2026-03-30T01:42:21.702Z"
 ---
 
 # § 460nnn–81. Designation of mineral withdrawal area

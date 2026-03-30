@@ -3,9 +3,9 @@ title: "Section 9701 - Establishment of human resources management system"
 usc_title: 5
 usc_section: "9701"
 chapter: 97
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 9701"
-generated_at: "2026-03-30T01:38:29.889Z"
+generated_at: "2026-03-30T01:41:30.861Z"
 ---
 
 # § 9701. Establishment of human resources management system

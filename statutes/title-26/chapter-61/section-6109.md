@@ -3,9 +3,9 @@ title: "Section 6109 - Identifying numbers"
 usc_title: 26
 usc_section: "6109"
 chapter: 61
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 6109"
-generated_at: "2026-03-30T01:40:11.297Z"
+generated_at: "2026-03-30T01:42:58.859Z"
 ---
 
 # § 6109. Identifying numbers

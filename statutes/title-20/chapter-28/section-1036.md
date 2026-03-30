@@ -3,9 +3,9 @@ title: "Section 1036 - Graduate fellowships to prepare faculty in high-need area
 usc_title: 20
 usc_section: "1036"
 chapter: 28
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 1036"
-generated_at: "2026-03-30T01:39:18.962Z"
+generated_at: "2026-03-30T01:42:15.410Z"
 ---
 
 # § 1036. Graduate fellowships to prepare faculty in high-need areas at colleges of education

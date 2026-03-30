@@ -3,9 +3,9 @@ title: "Section 184a - Authorization of States to include in agreements for cons
 usc_title: 30
 usc_section: "184a"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "30 U.S.C. § 184a"
-generated_at: "2026-03-30T01:39:59.980Z"
+generated_at: "2026-03-30T01:42:47.681Z"
 ---
 
 # § 184a. Authorization of States to include in agreements for conservation of oil and gas resources lands acquired from United States

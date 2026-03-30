@@ -3,9 +3,9 @@ title: "Section 40903 - Definitions"
 usc_title: 34
 usc_section: "40903"
 chapter: 409
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "34 U.S.C. § 40903"
-generated_at: "2026-03-30T01:40:27.237Z"
+generated_at: "2026-03-30T01:43:01.950Z"
 ---
 
 # § 40903. Definitions

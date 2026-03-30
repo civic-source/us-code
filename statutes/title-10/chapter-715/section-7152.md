@@ -3,9 +3,9 @@ title: "Section 7152 - General officers: title of office"
 usc_title: 10
 usc_section: "7152"
 chapter: 715
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 7152"
-generated_at: "2026-03-30T01:38:58.804Z"
+generated_at: "2026-03-30T01:41:48.626Z"
 ---
 
 # § 7152. General officers: title of office

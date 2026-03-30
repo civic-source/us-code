@@ -3,9 +3,9 @@ title: "Section 5390 - Federal procurement laws and regulations"
 usc_title: 25
 usc_section: "5390"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 5390"
-generated_at: "2026-03-30T01:39:42.243Z"
+generated_at: "2026-03-30T01:42:28.647Z"
 ---
 
 # § 5390. Federal procurement laws and regulations

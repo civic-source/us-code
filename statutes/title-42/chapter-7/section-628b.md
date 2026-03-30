@@ -3,9 +3,9 @@ title: "Section 628b - National random sample study of child welfare"
 usc_title: 42
 usc_section: "628b"
 chapter: 7
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 628b"
-generated_at: "2026-03-30T01:40:53.321Z"
+generated_at: "2026-03-30T01:43:39.727Z"
 ---
 
 # § 628b. National random sample study of child welfare

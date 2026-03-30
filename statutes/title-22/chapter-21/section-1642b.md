@@ -3,9 +3,9 @@ title: "Section 1642b - Claims against United States; jurisdiction; limitation; 
 usc_title: 22
 usc_section: "1642b"
 chapter: 21
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 1642b"
-generated_at: "2026-03-30T01:39:56.139Z"
+generated_at: "2026-03-30T01:42:44.507Z"
 ---
 
 # § 1642b. Claims against United States; jurisdiction; limitation; preference; reserve fund

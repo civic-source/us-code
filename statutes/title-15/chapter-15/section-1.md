@@ -3,9 +3,9 @@ title: "Section 1 - Critical shortages; recommendations by President; public hea
 usc_title: 15
 usc_section: "1"
 chapter: 15
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T01:39:11.335Z"
+generated_at: "2026-03-30T01:42:01.200Z"
 ---
 
 # § 713d–1. Critical shortages; recommendations by President; public hearings

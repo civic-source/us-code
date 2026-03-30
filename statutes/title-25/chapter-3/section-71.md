@@ -3,9 +3,9 @@ title: "Section 71 - Future treaties with Indian tribes"
 usc_title: 25
 usc_section: "71"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 71"
-generated_at: "2026-03-30T01:39:42.165Z"
+generated_at: "2026-03-30T01:42:28.573Z"
 ---
 
 # § 71. Future treaties with Indian tribes

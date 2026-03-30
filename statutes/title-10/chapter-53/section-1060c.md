@@ -3,9 +3,9 @@ title: "Section 1060c - Provision of veterinary services in emergencies"
 usc_title: 10
 usc_section: "1060c"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 1060c"
-generated_at: "2026-03-30T01:38:58.704Z"
+generated_at: "2026-03-30T01:41:48.506Z"
 ---
 
 # § 1060c. Provision of veterinary services in emergencies

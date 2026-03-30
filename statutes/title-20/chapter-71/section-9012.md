@@ -3,9 +3,9 @@ title: "Section 9012 - Repealed. Pub. L. 107–279, title IV, § 403(1) , Nov. 5
 usc_title: 20
 usc_section: "9012"
 chapter: 71
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 9012"
-generated_at: "2026-03-30T01:39:19.156Z"
+generated_at: "2026-03-30T01:42:15.530Z"
 ---
 
 # § 9012. Repealed. Pub. L. 107–279, title IV, § 403(1) , Nov. 5, 2002 , 116 Stat. 1985

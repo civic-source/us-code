@@ -3,9 +3,9 @@ title: "Section 60505 - Coordination with the National Oceanic and Atmospheric A
 usc_title: 51
 usc_section: "60505"
 chapter: 605
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "51 U.S.C. § 60505"
-generated_at: "2026-03-30T01:41:06.691Z"
+generated_at: "2026-03-30T01:44:13.877Z"
 ---
 
 # § 60505. Coordination with the National Oceanic and Atmospheric Administration

@@ -3,9 +3,9 @@ title: "Section 3 - Community Connect Grant Program"
 usc_title: 7
 usc_section: "3"
 chapter: 31
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T01:39:01.328Z"
+generated_at: "2026-03-30T01:41:40.472Z"
 ---
 
 # § 950bb–3. Community Connect Grant Program

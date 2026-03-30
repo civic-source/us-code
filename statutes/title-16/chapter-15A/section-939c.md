@@ -3,9 +3,9 @@ title: "Section 939c - Authorization of appropriations"
 usc_title: 16
 usc_section: "939c"
 chapter: 15
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 939c"
-generated_at: "2026-03-30T01:39:30.860Z"
+generated_at: "2026-03-30T01:42:21.778Z"
 ---
 
 # § 939c. Authorization of appropriations

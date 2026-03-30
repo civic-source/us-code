@@ -3,9 +3,9 @@ title: "Section 10449 - Rape exam payments"
 usc_title: 34
 usc_section: "10449"
 chapter: 101
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "34 U.S.C. § 10449"
-generated_at: "2026-03-30T01:40:27.185Z"
+generated_at: "2026-03-30T01:43:01.902Z"
 ---
 
 # § 10449. Rape exam payments

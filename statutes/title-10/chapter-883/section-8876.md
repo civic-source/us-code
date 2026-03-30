@@ -3,9 +3,9 @@ title: "Section 8876 - Compensation of prize commissioners and special prize com
 usc_title: 10
 usc_section: "8876"
 chapter: 883
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 8876"
-generated_at: "2026-03-30T01:38:58.823Z"
+generated_at: "2026-03-30T01:41:48.653Z"
 ---
 
 # § 8876. Compensation of prize commissioners and special prize commissioners

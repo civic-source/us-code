@@ -3,9 +3,9 @@ title: "Section 1558h - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(8)
 usc_title: 22
 usc_section: "1558h"
 chapter: 19
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 1558h"
-generated_at: "2026-03-30T01:39:56.136Z"
+generated_at: "2026-03-30T01:42:44.504Z"
 ---
 
 # §§ 1558 to 1558h. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(8), 68 Stat. 861

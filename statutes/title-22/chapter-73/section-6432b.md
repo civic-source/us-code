@@ -3,9 +3,9 @@ title: "Section 6432b - Commission personnel matters"
 usc_title: 22
 usc_section: "6432b"
 chapter: 73
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 6432b"
-generated_at: "2026-03-30T01:39:56.242Z"
+generated_at: "2026-03-30T01:42:44.603Z"
 ---
 
 # § 6432b. Commission personnel matters

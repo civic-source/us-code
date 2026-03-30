@@ -3,9 +3,9 @@ title: "Section 3351 - Modernizing Taiwan’s security capabilities to deter and
 usc_title: 22
 usc_section: "3351"
 chapter: 48
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 3351"
-generated_at: "2026-03-30T01:39:56.200Z"
+generated_at: "2026-03-30T01:42:44.564Z"
 ---
 
 # § 3351. Modernizing Taiwan’s security capabilities to deter and, if necessary, defeat aggression by the People’s Republic of China

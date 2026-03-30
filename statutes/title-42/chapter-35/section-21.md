@@ -3,9 +3,9 @@ title: "Section 21 - Program"
 usc_title: 42
 usc_section: "21"
 chapter: 35
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T01:40:53.615Z"
+generated_at: "2026-03-30T01:43:40.018Z"
 ---
 
 # § 3057k–21. Program

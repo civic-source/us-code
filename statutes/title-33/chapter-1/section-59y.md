@@ -3,9 +3,9 @@ title: "Section 59y - Declaration of nonnavigability for portions of Coney Islan
 usc_title: 33
 usc_section: "59y"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 59y"
-generated_at: "2026-03-30T01:40:15.549Z"
+generated_at: "2026-03-30T01:43:03.891Z"
 ---
 
 # § 59y. Declaration of nonnavigability for portions of Coney Island Creek and Gravesend Bay, New York

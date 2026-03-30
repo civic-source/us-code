@@ -3,9 +3,9 @@ title: "Section 3512 - Office to assist small manufacturers of medical devices; 
 usc_title: 42
 usc_section: "3512"
 chapter: 43
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 3512"
-generated_at: "2026-03-30T01:40:53.621Z"
+generated_at: "2026-03-30T01:43:40.025Z"
 ---
 
 # § 3512. Office to assist small manufacturers of medical devices; establishment

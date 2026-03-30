@@ -3,9 +3,9 @@ title: "Section 416 - Laws applicable to withdrawn lands; restoration to entry"
 usc_title: 43
 usc_section: "416"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "43 U.S.C. § 416"
-generated_at: "2026-03-30T01:40:37.565Z"
+generated_at: "2026-03-30T01:43:22.581Z"
 ---
 
 # § 416. Laws applicable to withdrawn lands; restoration to entry

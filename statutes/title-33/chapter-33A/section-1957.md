@@ -3,9 +3,9 @@ title: "Section 1957 - Relationship to Outer Continental Shelf Lands Act"
 usc_title: 33
 usc_section: "1957"
 chapter: 33
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 1957"
-generated_at: "2026-03-30T01:40:15.611Z"
+generated_at: "2026-03-30T01:43:03.947Z"
 ---
 
 # § 1957. Relationship to Outer Continental Shelf Lands Act

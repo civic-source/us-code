@@ -3,9 +3,9 @@ title: "Section 904 - Art. 104. Public records offenses"
 usc_title: 10
 usc_section: "904"
 chapter: 47
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 904"
-generated_at: "2026-03-30T01:38:58.694Z"
+generated_at: "2026-03-30T01:41:48.493Z"
 ---
 
 # § 904. Art. 104. Public records offenses

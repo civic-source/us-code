@@ -3,9 +3,9 @@ title: "Section 3715 - Lightering"
 usc_title: 46
 usc_section: "3715"
 chapter: 37
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 3715"
-generated_at: "2026-03-30T01:41:00.424Z"
+generated_at: "2026-03-30T01:43:54.083Z"
 ---
 
 # § 3715. Lightering

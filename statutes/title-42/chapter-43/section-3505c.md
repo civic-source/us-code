@@ -3,9 +3,9 @@ title: "Section 3505c - Repealed. Pub. L. 94–63, title II, § 203(b) , July 29
 usc_title: 42
 usc_section: "3505c"
 chapter: 43
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 3505c"
-generated_at: "2026-03-30T01:40:53.621Z"
+generated_at: "2026-03-30T01:43:40.025Z"
 ---
 
 # § 3505c. Repealed. Pub. L. 94–63, title II, § 203(b) , July 29, 1975 , 89 Stat. 307

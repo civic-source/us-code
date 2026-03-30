@@ -3,9 +3,9 @@ title: "Section 557a - Field season contracts; authority to make prior to approp
 usc_title: 16
 usc_section: "557a"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 557a"
-generated_at: "2026-03-30T01:39:30.814Z"
+generated_at: "2026-03-30T01:42:21.727Z"
 ---
 
 # § 557a. Field season contracts; authority to make prior to appropriation

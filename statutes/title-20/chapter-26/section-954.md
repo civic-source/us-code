@@ -3,9 +3,9 @@ title: "Section 954 - National Endowment for the Arts"
 usc_title: 20
 usc_section: "954"
 chapter: 26
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 954"
-generated_at: "2026-03-30T01:39:18.953Z"
+generated_at: "2026-03-30T01:42:15.399Z"
 ---
 
 # § 954. National Endowment for the Arts

@@ -3,9 +3,9 @@ title: "Section 1514 - Administrative division of apportionments"
 usc_title: 31
 usc_section: "1514"
 chapter: 15
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "31 U.S.C. § 1514"
-generated_at: "2026-03-30T01:40:14.372Z"
+generated_at: "2026-03-30T01:43:02.862Z"
 ---
 
 # § 1514. Administrative division of apportionments

@@ -3,9 +3,9 @@ title: "Section 16985 - Transferred"
 usc_title: 42
 usc_section: "16985"
 chapter: 151
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 16985"
-generated_at: "2026-03-30T01:40:53.932Z"
+generated_at: "2026-03-30T01:43:40.330Z"
 ---
 
 # § 16985. Transferred

@@ -3,9 +3,9 @@ title: "Section 1276 - Disposition gain representing accrued market discount tre
 usc_title: 26
 usc_section: "1276"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 1276"
-generated_at: "2026-03-30T01:40:11.224Z"
+generated_at: "2026-03-30T01:42:58.783Z"
 ---
 
 # § 1276. Disposition gain representing accrued market discount treated as ordinary income

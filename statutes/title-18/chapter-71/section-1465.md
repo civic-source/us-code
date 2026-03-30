@@ -3,9 +3,9 @@ title: "Section 1465 - Production and transportation of obscene matters for sale
 usc_title: 18
 usc_section: "1465"
 chapter: 71
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 1465"
-generated_at: "2026-03-30T01:39:37.851Z"
+generated_at: "2026-03-30T01:42:10.767Z"
 ---
 
 # § 1465. Production and transportation of obscene matters for sale or distribution

@@ -3,9 +3,9 @@ title: "Section 4537 - Termination of order, Institute, and Fund"
 usc_title: 7
 usc_section: "4537"
 chapter: 76
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 4537"
-generated_at: "2026-03-30T01:39:01.423Z"
+generated_at: "2026-03-30T01:41:40.569Z"
 ---
 
 # § 4537. Termination of order, Institute, and Fund

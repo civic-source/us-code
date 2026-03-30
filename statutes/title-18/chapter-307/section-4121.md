@@ -3,9 +3,9 @@ title: "Section 4121 - Federal Prison Industries; board of directors"
 usc_title: 18
 usc_section: "4121"
 chapter: 307
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 4121"
-generated_at: "2026-03-30T01:39:37.892Z"
+generated_at: "2026-03-30T01:42:10.805Z"
 ---
 
 # § 4121. Federal Prison Industries; board of directors

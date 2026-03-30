@@ -3,9 +3,9 @@ title: "Section 940 - Art. 140. Delegation by the President"
 usc_title: 10
 usc_section: "940"
 chapter: 47
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 940"
-generated_at: "2026-03-30T01:38:58.696Z"
+generated_at: "2026-03-30T01:41:48.496Z"
 ---
 
 # § 940. Art. 140. Delegation by the President

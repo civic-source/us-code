@@ -3,9 +3,9 @@ title: "Section 944 - Confidential investigative expenses"
 usc_title: 14
 usc_section: "944"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "14 U.S.C. § 944"
-generated_at: "2026-03-30T01:39:12.710Z"
+generated_at: "2026-03-30T01:41:51.492Z"
 ---
 
 # § 944. Confidential investigative expenses

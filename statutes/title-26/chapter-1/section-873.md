@@ -3,9 +3,9 @@ title: "Section 873 - Deductions"
 usc_title: 26
 usc_section: "873"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 873"
-generated_at: "2026-03-30T01:40:11.201Z"
+generated_at: "2026-03-30T01:42:58.759Z"
 ---
 
 # § 873. Deductions

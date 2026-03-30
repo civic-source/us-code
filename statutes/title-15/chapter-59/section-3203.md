@@ -3,9 +3,9 @@ title: "Section 3203 - Adoption of certain standards"
 usc_title: 15
 usc_section: "3203"
 chapter: 59
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 3203"
-generated_at: "2026-03-30T01:39:11.419Z"
+generated_at: "2026-03-30T01:42:01.296Z"
 ---
 
 # § 3203. Adoption of certain standards

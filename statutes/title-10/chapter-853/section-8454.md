@@ -3,9 +3,9 @@ title: "Section 8454 - Midshipmen: number"
 usc_title: 10
 usc_section: "8454"
 chapter: 853
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 8454"
-generated_at: "2026-03-30T01:38:58.815Z"
+generated_at: "2026-03-30T01:41:48.639Z"
 ---
 
 # § 8454. Midshipmen: number

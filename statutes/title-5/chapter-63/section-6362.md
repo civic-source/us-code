@@ -3,9 +3,9 @@ title: "Section 6362 - General authority"
 usc_title: 5
 usc_section: "6362"
 chapter: 63
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 6362"
-generated_at: "2026-03-30T01:38:29.859Z"
+generated_at: "2026-03-30T01:41:30.831Z"
 ---
 
 # § 6362. General authority

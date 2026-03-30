@@ -3,9 +3,9 @@ title: "Section 529 - Repealed. Pub. L. 100–17, title I, § 135(e) , Apr. 2, 1
 usc_title: 33
 usc_section: "529"
 chapter: 11
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 529"
-generated_at: "2026-03-30T01:40:15.559Z"
+generated_at: "2026-03-30T01:43:03.899Z"
 ---
 
 # § 529. Repealed. Pub. L. 100–17, title I, § 135(e) , Apr. 2, 1987 , 101 Stat. 174

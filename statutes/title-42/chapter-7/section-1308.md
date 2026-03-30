@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-30T01:40:53.349Z"
+generated_at: "2026-03-30T01:43:39.753Z"
 ---
 
 # § 1308. Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments
@@ -49,7 +49,7 @@ generated_at: "2026-03-30T01:40:53.349Z"
     - **(C)** For Guam, $750,000.
     - **(D)** For the Northern Mariana Islands, $500,000.
     - **(E)** For American Samoa, $500,000.
-  - **(2)** Notwithstanding subsection (f) and subject to section 18043(a)(2) of this title and paragraphs (3) and (5), with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX for payment to—
+  - **(2)** Notwithstanding subsection (f) and subject to section 18043(a)(2) of this title and paragraphs (3), (5), and (14), with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX for payment to—
     - **(A)** Puerto Rico shall not exceed—
       - **(i)** except as provided in clause (ii) or (iii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
       - **(ii)** for each of fiscal years 2020 through 2021, the amount specified in paragraph (6) for each such fiscal year; and
@@ -171,6 +171,11 @@ generated_at: "2026-03-30T01:40:53.349Z"
         - **(I)** paragraph (7)(A)(i) for such fiscal year; and
         - **(II)** paragraph (7)(A)(v) for such fiscal year.
     - **(B)** An increase under this paragraph for a fiscal year may not be taken into account in calculating the amount specified under paragraph (11) for the succeeding fiscal year.
+  - **(14)**
+    - **(A)** The Secretary shall increase the total amount otherwise determined under this subsection for the Northern Mariana Islands for the period beginning on October 1, 2022 , and ending on September 30, 2024 , by $27,100,000.
+    - **(B)** The increase described in subparagraph (A)—
+      - **(i)** shall apply to the total amount certified by the Secretary under subchapter XIX for payment to the Northern Mariana Islands for services attributable to fiscal year 2023 or 2024, notwithstanding that payments for any such services are made by the Northern Mariana Islands in fiscal year 2025; and
+      - **(ii)** shall be in addition to the amount calculated under paragraph (2) for the Northern Mariana Islands for fiscal years 2023 and 2024 and shall not be taken into account in calculating an amount under paragraph (2) for the Northern Mariana Islands for fiscal year 2025 or a subsequent fiscal year.
 - **(h)** Expenditures for medical assistance provided to an individual described in section 1641(b)(8) of title 8 shall not be taken into account for purposes of applying payment limits under subsections (f) and (g).
 - **(i)**
   - **(1)** Subject to paragraphs (2) and (3), the Secretary shall pay to each eligible territory an amount equal to 100 percent of the qualifying data system improvement expenditures incurred by such territory on or after October 1, 2023 .

@@ -3,9 +3,9 @@ title: "Section 6923 - Compensation and expenses"
 usc_title: 40
 usc_section: "6923"
 chapter: 69
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "40 U.S.C. § 6923"
-generated_at: "2026-03-30T01:40:29.809Z"
+generated_at: "2026-03-30T01:43:06.055Z"
 ---
 
 # § 6923. Compensation and expenses

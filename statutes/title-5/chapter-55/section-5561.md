@@ -3,9 +3,9 @@ title: "Section 5561 - Definitions"
 usc_title: 5
 usc_section: "5561"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 5561"
-generated_at: "2026-03-30T01:38:29.851Z"
+generated_at: "2026-03-30T01:41:30.824Z"
 ---
 
 # § 5561. Definitions

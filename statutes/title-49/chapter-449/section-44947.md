@@ -3,9 +3,9 @@ title: "Section 44947 - Air cargo security division"
 usc_title: 49
 usc_section: "44947"
 chapter: 449
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 44947"
-generated_at: "2026-03-30T01:41:03.450Z"
+generated_at: "2026-03-30T01:44:06.312Z"
 ---
 
 # § 44947. Air cargo security division

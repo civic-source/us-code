@@ -3,9 +3,9 @@ title: "Section 1440g - Provision of information on military naturalization"
 usc_title: 8
 usc_section: "1440g"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "8 U.S.C. § 1440g"
-generated_at: "2026-03-30T01:38:53.668Z"
+generated_at: "2026-03-30T01:41:33.857Z"
 ---
 
 # § 1440g. Provision of information on military naturalization

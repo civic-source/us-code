@@ -3,9 +3,9 @@ title: "Section 1375 - Reports to Congress; detailed estimates and comprehensive
 usc_title: 33
 usc_section: "1375"
 chapter: 26
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 1375"
-generated_at: "2026-03-30T01:40:15.603Z"
+generated_at: "2026-03-30T01:43:03.940Z"
 ---
 
 # § 1375. Reports to Congress; detailed estimates and comprehensive study on costs; State estimates

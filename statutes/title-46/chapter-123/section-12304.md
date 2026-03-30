@@ -3,9 +3,9 @@ title: "Section 12304 - Certificates of numbers"
 usc_title: 46
 usc_section: "12304"
 chapter: 123
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 12304"
-generated_at: "2026-03-30T01:41:00.436Z"
+generated_at: "2026-03-30T01:43:54.097Z"
 ---
 
 # § 12304. Certificates of numbers

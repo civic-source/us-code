@@ -3,9 +3,9 @@ title: "Section 6532 - Periods of limitation on suits"
 usc_title: 26
 usc_section: "6532"
 chapter: 66
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 6532"
-generated_at: "2026-03-30T01:40:11.312Z"
+generated_at: "2026-03-30T01:42:58.876Z"
 ---
 
 # § 6532. Periods of limitation on suits

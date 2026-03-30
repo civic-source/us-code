@@ -3,9 +3,9 @@ title: "Section 120106 - Restrictions"
 usc_title: 36
 usc_section: "120106"
 chapter: 1201
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 120106"
-generated_at: "2026-03-30T01:40:30.548Z"
+generated_at: "2026-03-30T01:43:06.779Z"
 ---
 
 # § 120106. Restrictions

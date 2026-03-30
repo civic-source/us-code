@@ -3,9 +3,9 @@ title: "Section 4911 - Tax on excess expenditures to influence legislation"
 usc_title: 26
 usc_section: "4911"
 chapter: 41
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 4911"
-generated_at: "2026-03-30T01:40:11.263Z"
+generated_at: "2026-03-30T01:42:58.823Z"
 ---
 
 # § 4911. Tax on excess expenditures to influence legislation

@@ -3,9 +3,9 @@ title: "Section 3406 - Regulations"
 usc_title: 5
 usc_section: "3406"
 chapter: 34
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 3406"
-generated_at: "2026-03-30T01:38:29.838Z"
+generated_at: "2026-03-30T01:41:30.811Z"
 ---
 
 # § 3406. Regulations

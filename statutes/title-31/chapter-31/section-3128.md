@@ -3,9 +3,9 @@ title: "Section 3128 - Proof of death to support payment"
 usc_title: 31
 usc_section: "3128"
 chapter: 31
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "31 U.S.C. § 3128"
-generated_at: "2026-03-30T01:40:14.374Z"
+generated_at: "2026-03-30T01:43:02.864Z"
 ---
 
 # § 3128. Proof of death to support payment

@@ -3,9 +3,9 @@ title: "Section 4353 - Repealed. Pub. L. 107–273, div. A, title III, § 301(a)
 usc_title: 18
 usc_section: "4353"
 chapter: 319
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 4353"
-generated_at: "2026-03-30T01:39:37.894Z"
+generated_at: "2026-03-30T01:42:10.807Z"
 ---
 
 # [§ 4353. Repealed. Pub. L. 107–273, div. A, title III, § 301(a) , Nov. 2, 2002 , 116 Stat. 1780 ]

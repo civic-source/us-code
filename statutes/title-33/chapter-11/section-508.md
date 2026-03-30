@@ -3,9 +3,9 @@ title: "Section 508 - Amount of tolls"
 usc_title: 33
 usc_section: "508"
 chapter: 11
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 508"
-generated_at: "2026-03-30T01:40:15.558Z"
+generated_at: "2026-03-30T01:43:03.899Z"
 ---
 
 # § 508. Amount of tolls

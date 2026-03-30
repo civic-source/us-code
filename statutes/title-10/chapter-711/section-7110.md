@@ -3,9 +3,9 @@ title: "Section 7110 - Regular Army: strength in grade; general officers"
 usc_title: 10
 usc_section: "7110"
 chapter: 711
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 7110"
-generated_at: "2026-03-30T01:38:58.804Z"
+generated_at: "2026-03-30T01:41:48.625Z"
 ---
 
 # § 7110. Regular Army: strength in grade; general officers

@@ -3,9 +3,9 @@ title: "Section 44748 - Aircraft dispatching"
 usc_title: 49
 usc_section: "44748"
 chapter: 447
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 44748"
-generated_at: "2026-03-30T01:41:03.444Z"
+generated_at: "2026-03-30T01:44:06.305Z"
 ---
 
 # § 44748. Aircraft dispatching

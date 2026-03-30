@@ -3,9 +3,9 @@ title: "Section 2279b - Council on Oversight of the Department of Defense Positi
 usc_title: 10
 usc_section: "2279b"
 chapter: 135
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 2279b"
-generated_at: "2026-03-30T01:38:58.749Z"
+generated_at: "2026-03-30T01:41:48.560Z"
 ---
 
 # § 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise

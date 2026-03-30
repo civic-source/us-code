@@ -3,9 +3,9 @@ title: "Section 4514 - Authority to require reports by regulated entities"
 usc_title: 12
 usc_section: "4514"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 4514"
-generated_at: "2026-03-30T01:39:08.096Z"
+generated_at: "2026-03-30T01:41:56.317Z"
 ---
 
 # § 4514. Authority to require reports by regulated entities

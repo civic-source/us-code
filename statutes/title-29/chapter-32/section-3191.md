@@ -3,9 +3,9 @@ title: "Section 3191 - Purposes"
 usc_title: 29
 usc_section: "3191"
 chapter: 32
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "29 U.S.C. § 3191"
-generated_at: "2026-03-30T01:40:02.393Z"
+generated_at: "2026-03-30T01:42:49.953Z"
 ---
 
 # § 3191. Purposes

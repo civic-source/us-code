@@ -3,9 +3,9 @@ title: "Section 718 - Lapse of authority to print"
 usc_title: 44
 usc_section: "718"
 chapter: 7
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "44 U.S.C. § 718"
-generated_at: "2026-03-30T01:40:41.876Z"
+generated_at: "2026-03-30T01:43:19.819Z"
 ---
 
 # § 718. Lapse of authority to print

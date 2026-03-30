@@ -3,9 +3,9 @@ title: "Section 1014 - Requirements relating to National Academy of Sciences and
 usc_title: 5
 usc_section: "1014"
 chapter: 10
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 1014"
-generated_at: "2026-03-30T01:38:29.828Z"
+generated_at: "2026-03-30T01:41:30.802Z"
 ---
 
 # § 1014. Requirements relating to National Academy of Sciences and National Academy of Public Administration

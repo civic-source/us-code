@@ -3,9 +3,9 @@ title: "Section 820 - Art. 20. Jurisdiction of summary courts-martial"
 usc_title: 10
 usc_section: "820"
 chapter: 47
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 820"
-generated_at: "2026-03-30T01:38:58.688Z"
+generated_at: "2026-03-30T01:41:48.487Z"
 ---
 
 # § 820. Art. 20. Jurisdiction of summary courts-martial

@@ -3,9 +3,9 @@ title: "Section 6304 - Safety standards"
 usc_title: 15
 usc_section: "6304"
 chapter: 89
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 6304"
-generated_at: "2026-03-30T01:39:11.444Z"
+generated_at: "2026-03-30T01:42:01.323Z"
 ---
 
 # § 6304. Safety standards

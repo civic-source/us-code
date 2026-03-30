@@ -3,9 +3,9 @@ title: "Section 667 - State jurisdiction and plans"
 usc_title: 29
 usc_section: "667"
 chapter: 15
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "29 U.S.C. § 667"
-generated_at: "2026-03-30T01:40:02.322Z"
+generated_at: "2026-03-30T01:42:49.890Z"
 ---
 
 # § 667. State jurisdiction and plans

@@ -3,9 +3,9 @@ title: "Section 472a - Repealed. Oct. 31, 1951, ch. 654, § 1(126) , 65 Stat. 70
 usc_title: 48
 usc_section: "472a"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "48 U.S.C. § 472a"
-generated_at: "2026-03-30T01:40:56.990Z"
+generated_at: "2026-03-30T01:43:49.161Z"
 ---
 
 # §§ 472, 472a. Repealed. Oct. 31, 1951, ch. 654, § 1(126) , 65 Stat. 706

@@ -3,9 +3,9 @@ title: "Section 13473 - Civilian nuclear waste"
 usc_title: 42
 usc_section: "13473"
 chapter: 134
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 13473"
-generated_at: "2026-03-30T01:40:53.888Z"
+generated_at: "2026-03-30T01:43:40.284Z"
 ---
 
 # § 13473. Civilian nuclear waste

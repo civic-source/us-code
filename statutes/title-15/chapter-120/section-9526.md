@@ -3,9 +3,9 @@ title: "Section 9526 - Publicity"
 usc_title: 15
 usc_section: "9526"
 chapter: 120
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 9526"
-generated_at: "2026-03-30T01:39:11.484Z"
+generated_at: "2026-03-30T01:42:01.372Z"
 ---
 
 # § 9526. Publicity

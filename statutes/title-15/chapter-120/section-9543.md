@@ -3,9 +3,9 @@ title: "Section 9543 - Educational development relating to management and entrep
 usc_title: 15
 usc_section: "9543"
 chapter: 120
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 9543"
-generated_at: "2026-03-30T01:39:11.484Z"
+generated_at: "2026-03-30T01:42:01.372Z"
 ---
 
 # § 9543. Educational development relating to management and entrepreneurship

@@ -3,9 +3,9 @@ title: "Section 18388 - Repealed. Pub. L. 116–181, § 2(c)(2) , Oct. 21, 2020 
 usc_title: 42
 usc_section: "18388"
 chapter: 159
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 18388"
-generated_at: "2026-03-30T01:40:53.960Z"
+generated_at: "2026-03-30T01:43:40.360Z"
 ---
 
 # § 18388. Repealed. Pub. L. 116–181, § 2(c)(2) , Oct. 21, 2020 , 134 Stat. 892

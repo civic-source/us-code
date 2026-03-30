@@ -3,9 +3,9 @@ title: "Section 7805 - Protection of educational institution"
 usc_title: 15
 usc_section: "7805"
 chapter: 104
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 7805"
-generated_at: "2026-03-30T01:39:11.461Z"
+generated_at: "2026-03-30T01:42:01.344Z"
 ---
 
 # § 7805. Protection of educational institution

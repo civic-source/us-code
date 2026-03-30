@@ -3,9 +3,9 @@ title: "Section 5546 - Support services for House during emergency; memorandum o
 usc_title: 2
 usc_section: "5546"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "2 U.S.C. § 5546"
-generated_at: "2026-03-30T01:38:34.921Z"
+generated_at: "2026-03-30T01:41:28.841Z"
 ---
 
 # § 5546. Support services for House during emergency; memorandum of understanding with an executive agency

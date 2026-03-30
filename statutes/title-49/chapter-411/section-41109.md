@@ -3,9 +3,9 @@ title: "Section 41109 - Terms of certificates"
 usc_title: 49
 usc_section: "41109"
 chapter: 411
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 41109"
-generated_at: "2026-03-30T01:41:03.428Z"
+generated_at: "2026-03-30T01:44:06.290Z"
 ---
 
 # § 41109. Terms of certificates

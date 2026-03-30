@@ -3,9 +3,9 @@ title: "Section 971b - Advisory committee"
 usc_title: 16
 usc_section: "971b"
 chapter: 16
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 971b"
-generated_at: "2026-03-30T01:39:30.862Z"
+generated_at: "2026-03-30T01:42:21.779Z"
 ---
 
 # § 971b. Advisory committee

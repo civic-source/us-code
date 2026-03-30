@@ -3,9 +3,9 @@ title: "Section 1304 - Encouraging State initiatives to improve broadband"
 usc_title: 47
 usc_section: "1304"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "47 U.S.C. § 1304"
-generated_at: "2026-03-30T01:40:57.786Z"
+generated_at: "2026-03-30T01:43:44.027Z"
 ---
 
 # § 1304. Encouraging State initiatives to improve broadband

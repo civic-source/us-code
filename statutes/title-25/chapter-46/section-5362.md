@@ -3,9 +3,9 @@ title: "Section 5362 - Tribal Self-Governance Program"
 usc_title: 25
 usc_section: "5362"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 5362"
-generated_at: "2026-03-30T01:39:42.239Z"
+generated_at: "2026-03-30T01:42:28.643Z"
 ---
 
 # § 5362. Tribal Self-Governance Program

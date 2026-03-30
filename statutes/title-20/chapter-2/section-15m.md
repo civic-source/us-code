@@ -3,9 +3,9 @@ title: "Section 15m - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 196
 usc_title: 20
 usc_section: "15m"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 15m"
-generated_at: "2026-03-30T01:39:18.941Z"
+generated_at: "2026-03-30T01:42:15.388Z"
 ---
 
 # §§ 15h to 15m. Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091

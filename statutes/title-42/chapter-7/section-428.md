@@ -3,9 +3,9 @@ title: "Section 428 - Benefits at age 72 for certain uninsured individuals"
 usc_title: 42
 usc_section: "428"
 chapter: 7
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 428"
-generated_at: "2026-03-30T01:40:53.312Z"
+generated_at: "2026-03-30T01:43:39.718Z"
 ---
 
 # § 428. Benefits at age 72 for certain uninsured individuals

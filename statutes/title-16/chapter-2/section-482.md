@@ -3,9 +3,9 @@ title: "Section 482 - Mineral lands; restoration to public domain; location and 
 usc_title: 16
 usc_section: "482"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 482"
-generated_at: "2026-03-30T01:39:30.800Z"
+generated_at: "2026-03-30T01:42:21.712Z"
 ---
 
 # § 482. Mineral lands; restoration to public domain; location and entry

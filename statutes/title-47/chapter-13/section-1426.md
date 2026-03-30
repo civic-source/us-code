@@ -3,9 +3,9 @@ title: "Section 1426 - Powers, duties, and responsibilities of the First Respond
 usc_title: 47
 usc_section: "1426"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "47 U.S.C. § 1426"
-generated_at: "2026-03-30T01:40:57.790Z"
+generated_at: "2026-03-30T01:43:44.029Z"
 ---
 
 # § 1426. Powers, duties, and responsibilities of the First Responder Network Authority

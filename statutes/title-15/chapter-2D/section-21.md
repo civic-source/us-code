@@ -3,9 +3,9 @@ title: "Section 21 - Effective date"
 usc_title: 15
 usc_section: "21"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 21"
-generated_at: "2026-03-30T01:39:11.285Z"
+generated_at: "2026-03-30T01:42:01.143Z"
 ---
 
 # § 80b–21. Effective date

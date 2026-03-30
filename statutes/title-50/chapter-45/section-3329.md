@@ -3,9 +3,9 @@ title: "Section 3329 - Intelligence community contracting"
 usc_title: 50
 usc_section: "3329"
 chapter: 45
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "50 U.S.C. § 3329"
-generated_at: "2026-03-30T01:40:59.415Z"
+generated_at: "2026-03-30T01:44:03.826Z"
 ---
 
 # § 3329. Intelligence community contracting

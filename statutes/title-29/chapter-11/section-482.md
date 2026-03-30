@@ -3,9 +3,9 @@ title: "Section 482 - Enforcement"
 usc_title: 29
 usc_section: "482"
 chapter: 11
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "29 U.S.C. § 482"
-generated_at: "2026-03-30T01:40:02.317Z"
+generated_at: "2026-03-30T01:42:49.887Z"
 ---
 
 # § 482. Enforcement

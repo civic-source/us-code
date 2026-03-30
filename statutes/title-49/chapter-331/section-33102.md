@@ -3,9 +3,9 @@ title: "Section 33102 - Theft prevention standard for high theft lines"
 usc_title: 49
 usc_section: "33102"
 chapter: 331
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 33102"
-generated_at: "2026-03-30T01:41:03.421Z"
+generated_at: "2026-03-30T01:44:06.283Z"
 ---
 
 # § 33102. Theft prevention standard for high theft lines

@@ -3,9 +3,9 @@ title: "Section 69c - False advertising and invoicing"
 usc_title: 15
 usc_section: "69c"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 69c"
-generated_at: "2026-03-30T01:39:11.237Z"
+generated_at: "2026-03-30T01:42:01.080Z"
 ---
 
 # § 69c. False advertising and invoicing

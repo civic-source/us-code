@@ -3,9 +3,9 @@ title: "Section 8502 - Sense of Congress regarding need for improved and better 
 usc_title: 7
 usc_section: "8502"
 chapter: 111
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 8502"
-generated_at: "2026-03-30T01:39:01.483Z"
+generated_at: "2026-03-30T01:41:40.630Z"
 ---
 
 # § 8502. Sense of Congress regarding need for improved and better coordinated Federal policy for brown tree snake introduction, control, and eradication

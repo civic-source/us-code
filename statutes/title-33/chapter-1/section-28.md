@@ -3,9 +3,9 @@ title: "Section 28 - Crum River; old channel at mouth, Delaware Bay"
 usc_title: 33
 usc_section: "28"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 28"
-generated_at: "2026-03-30T01:40:15.548Z"
+generated_at: "2026-03-30T01:43:03.889Z"
 ---
 
 # § 28. Crum River; old channel at mouth, Delaware Bay

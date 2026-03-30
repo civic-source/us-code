@@ -3,9 +3,9 @@ title: "Section 104 - Purchase of articles manufactured at schools"
 usc_title: 25
 usc_section: "104"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 104"
-generated_at: "2026-03-30T01:39:42.165Z"
+generated_at: "2026-03-30T01:42:28.573Z"
 ---
 
 # § 104. Purchase of articles manufactured at schools

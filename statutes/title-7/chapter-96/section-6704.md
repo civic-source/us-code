@@ -3,9 +3,9 @@ title: "Section 6704 - Office of International Forestry"
 usc_title: 7
 usc_section: "6704"
 chapter: 96
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 6704"
-generated_at: "2026-03-30T01:39:01.446Z"
+generated_at: "2026-03-30T01:41:40.592Z"
 ---
 
 # § 6704. Office of International Forestry

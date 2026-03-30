@@ -3,9 +3,9 @@ title: "Section 615 - Information furnished to selection boards"
 usc_title: 10
 usc_section: "615"
 chapter: 36
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 615"
-generated_at: "2026-03-30T01:38:58.679Z"
+generated_at: "2026-03-30T01:41:48.478Z"
 ---
 
 # § 615. Information furnished to selection boards

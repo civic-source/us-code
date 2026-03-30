@@ -3,9 +3,9 @@ title: "Section 675 - Administrative powers"
 usc_title: 26
 usc_section: "675"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 675"
-generated_at: "2026-03-30T01:40:11.185Z"
+generated_at: "2026-03-30T01:42:58.744Z"
 ---
 
 # § 675. Administrative powers

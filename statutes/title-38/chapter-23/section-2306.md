@@ -3,9 +3,9 @@ title: "Section 2306 - Headstones, markers, and burial receptacles"
 usc_title: 38
 usc_section: "2306"
 chapter: 23
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 2306"
-generated_at: "2026-03-30T01:40:33.383Z"
+generated_at: "2026-03-30T01:43:08.351Z"
 ---
 
 # § 2306. Headstones, markers, and burial receptacles
@@ -20,8 +20,8 @@ generated_at: "2026-03-30T01:40:33.383Z"
   - **(1)** The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under section 2403 of this title , a veterans’ cemetery owned by a State, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization, or, in the case of a veteran, in a State, local, or private cemetery.
   - **(2)** For purposes of paragraph (1), an eligible individual is any of the following:
     - **(A)** A veteran.
-    - **(B)** An individual who dies on or after November 11, 1998 , who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024 .
-    - **(C)** An individual who dies on or after November 11, 1998 , who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024 .
+    - **(B)** An individual who dies on or after November 11, 1998 , who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before September 30, 2025 .
+    - **(C)** An individual who dies on or after November 11, 1998 , who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before September 30, 2025 .
   - **(3)** For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual’s remains—
     - **(A)** have not been recovered or identified;
     - **(B)** were buried at sea, whether by the individual’s own choice or otherwise;

@@ -3,9 +3,9 @@ title: "Section 1690 - Loans from Trust Territory of the Pacific Islands Economi
 usc_title: 48
 usc_section: "1690"
 chapter: 14
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "48 U.S.C. § 1690"
-generated_at: "2026-03-30T01:40:57.001Z"
+generated_at: "2026-03-30T01:43:49.172Z"
 ---
 
 # § 1690. Loans from Trust Territory of the Pacific Islands Economic Loan Fund; restrictions; guarantees

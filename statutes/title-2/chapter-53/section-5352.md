@@ -3,9 +3,9 @@ title: "Section 5352 - Delivery of Congressional Pictorial Directory"
 usc_title: 2
 usc_section: "5352"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "2 U.S.C. § 5352"
-generated_at: "2026-03-30T01:38:34.920Z"
+generated_at: "2026-03-30T01:41:28.840Z"
 ---
 
 # § 5352. Delivery of Congressional Pictorial Directory

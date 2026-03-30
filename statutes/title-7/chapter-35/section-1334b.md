@@ -3,9 +3,9 @@ title: "Section 1334b - Designation of States outside commercial wheat-producing
 usc_title: 7
 usc_section: "1334b"
 chapter: 35
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 1334b"
-generated_at: "2026-03-30T01:39:01.332Z"
+generated_at: "2026-03-30T01:41:40.478Z"
 ---
 
 # § 1334b. Designation of States outside commercial wheat-producing areas

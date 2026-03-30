@@ -3,9 +3,9 @@ title: "Section 292 - Acquisition of sites and buildings for diplomatic and cons
 usc_title: 22
 usc_section: "292"
 chapter: 8
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 292"
-generated_at: "2026-03-30T01:39:56.127Z"
+generated_at: "2026-03-30T01:42:44.497Z"
 ---
 
 # § 292. Acquisition of sites and buildings for diplomatic and consular establishments; allotment of space; credit of payments without regard to limitations of amounts

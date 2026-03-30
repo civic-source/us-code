@@ -3,9 +3,9 @@ title: "Section 242a - Department of Homeland Security Center for Countering Hum
 usc_title: 6
 usc_section: "242a"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "6 U.S.C. § 242a"
-generated_at: "2026-03-30T01:38:39.254Z"
+generated_at: "2026-03-30T01:41:35.333Z"
 ---
 
 # § 242a. Department of Homeland Security Center for Countering Human Trafficking

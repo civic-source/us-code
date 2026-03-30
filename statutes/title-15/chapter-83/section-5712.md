@@ -3,9 +3,9 @@ title: "Section 5712 - Actions by States"
 usc_title: 15
 usc_section: "5712"
 chapter: 83
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 5712"
-generated_at: "2026-03-30T01:39:11.442Z"
+generated_at: "2026-03-30T01:42:01.321Z"
 ---
 
 # § 5712. Actions by States

@@ -3,9 +3,9 @@ title: "Section 4 - Disposition of moneys received from or on account of reveste
 usc_title: 43
 usc_section: "4"
 chapter: 20
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T01:40:37.579Z"
+generated_at: "2026-03-30T01:43:22.594Z"
 ---
 
 # § 869–4. Disposition of moneys received from or on account of revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands

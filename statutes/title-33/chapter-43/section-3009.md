@@ -3,9 +3,9 @@ title: "Section 3009 - Use of recruiting materials for public relations"
 usc_title: 33
 usc_section: "3009"
 chapter: 43
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 3009"
-generated_at: "2026-03-30T01:40:15.633Z"
+generated_at: "2026-03-30T01:43:03.969Z"
 ---
 
 # § 3009. Use of recruiting materials for public relations

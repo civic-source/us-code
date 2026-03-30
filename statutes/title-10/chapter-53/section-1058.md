@@ -3,9 +3,9 @@ title: "Section 1058 - Responsibilities of military law enforcement officials at
 usc_title: 10
 usc_section: "1058"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 1058"
-generated_at: "2026-03-30T01:38:58.703Z"
+generated_at: "2026-03-30T01:41:48.505Z"
 ---
 
 # § 1058. Responsibilities of military law enforcement officials at scenes of domestic violence

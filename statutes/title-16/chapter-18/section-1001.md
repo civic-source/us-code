@@ -3,9 +3,9 @@ title: "Section 1001 - Declaration of policy"
 usc_title: 16
 usc_section: "1001"
 chapter: 18
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 1001"
-generated_at: "2026-03-30T01:39:30.863Z"
+generated_at: "2026-03-30T01:42:21.781Z"
 ---
 
 # § 1001. Declaration of policy

@@ -3,9 +3,9 @@ title: "Section 6517 - National List"
 usc_title: 7
 usc_section: "6517"
 chapter: 94
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 6517"
-generated_at: "2026-03-30T01:39:01.444Z"
+generated_at: "2026-03-30T01:41:40.590Z"
 ---
 
 # § 6517. National List

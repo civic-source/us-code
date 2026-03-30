@@ -3,9 +3,9 @@ title: "Section 2811 - Repealed. Pub. L. 100–242, title V, § 565(b) , Feb. 5,
 usc_title: 12
 usc_section: "2811"
 chapter: 29
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 2811"
-generated_at: "2026-03-30T01:39:08.077Z"
+generated_at: "2026-03-30T01:41:56.293Z"
 ---
 
 # § 2811. Repealed. Pub. L. 100–242, title V, § 565(b) , Feb. 5, 1988 , 101 Stat. 1945

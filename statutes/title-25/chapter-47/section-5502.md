@@ -3,9 +3,9 @@ title: "Section 5502 - Designation of tribes"
 usc_title: 25
 usc_section: "5502"
 chapter: 47
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 5502"
-generated_at: "2026-03-30T01:39:42.244Z"
+generated_at: "2026-03-30T01:42:28.648Z"
 ---
 
 # § 5502. Designation of tribes

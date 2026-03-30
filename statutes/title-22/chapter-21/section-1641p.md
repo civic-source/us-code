@@ -3,9 +3,9 @@ title: "Section 1641p - Fees of agents, attorneys, or representatives"
 usc_title: 22
 usc_section: "1641p"
 chapter: 21
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 1641p"
-generated_at: "2026-03-30T01:39:56.139Z"
+generated_at: "2026-03-30T01:42:44.507Z"
 ---
 
 # § 1641p. Fees of agents, attorneys, or representatives

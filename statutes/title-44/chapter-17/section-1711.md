@@ -3,9 +3,9 @@ title: "Section 1711 - Catalog of Government publications"
 usc_title: 44
 usc_section: "1711"
 chapter: 17
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "44 U.S.C. § 1711"
-generated_at: "2026-03-30T01:40:41.879Z"
+generated_at: "2026-03-30T01:43:19.822Z"
 ---
 
 # § 1711. Catalog of Government publications

@@ -3,9 +3,9 @@ title: "Section 134 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1132, 60 S
 usc_title: 22
 usc_section: "134"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 134"
-generated_at: "2026-03-30T01:39:56.102Z"
+generated_at: "2026-03-30T01:42:44.472Z"
 ---
 
 # § 134. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1132, 60 Stat. 1040

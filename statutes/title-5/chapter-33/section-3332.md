@@ -3,9 +3,9 @@ title: "Section 3332 - Officer affidavit; no consideration paid for appointment"
 usc_title: 5
 usc_section: "3332"
 chapter: 33
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 3332"
-generated_at: "2026-03-30T01:38:29.837Z"
+generated_at: "2026-03-30T01:41:30.809Z"
 ---
 
 # § 3332. Officer affidavit; no consideration paid for appointment

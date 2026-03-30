@@ -3,9 +3,9 @@ title: "Section 2435 - Unlawful activities"
 usc_title: 16
 usc_section: "2435"
 chapter: 44
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 2435"
-generated_at: "2026-03-30T01:39:30.913Z"
+generated_at: "2026-03-30T01:42:21.834Z"
 ---
 
 # § 2435. Unlawful activities

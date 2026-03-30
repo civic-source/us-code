@@ -3,9 +3,9 @@ title: "Section 5342 - Contracts for education, medical attention, relief and so
 usc_title: 25
 usc_section: "5342"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 5342"
-generated_at: "2026-03-30T01:39:42.238Z"
+generated_at: "2026-03-30T01:42:28.642Z"
 ---
 
 # § 5342. Contracts for education, medical attention, relief and social welfare of Indians

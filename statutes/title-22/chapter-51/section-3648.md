@@ -3,9 +3,9 @@ title: "Section 3648 - Privileges and immunities of certain employees"
 usc_title: 22
 usc_section: "3648"
 chapter: 51
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 3648"
-generated_at: "2026-03-30T01:39:56.204Z"
+generated_at: "2026-03-30T01:42:44.569Z"
 ---
 
 # § 3648. Privileges and immunities of certain employees

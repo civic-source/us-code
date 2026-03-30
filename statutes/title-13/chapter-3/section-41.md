@@ -3,9 +3,9 @@ title: "Section 41 - Collection and publication"
 usc_title: 13
 usc_section: "41"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "13 U.S.C. § 41"
-generated_at: "2026-03-30T01:39:08.193Z"
+generated_at: "2026-03-30T01:41:50.959Z"
 ---
 
 # § 41. Collection and publication

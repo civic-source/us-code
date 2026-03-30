@@ -3,9 +3,9 @@ title: "Section 6611 - Transfer authority and Sergeant at Arms Business Continui
 usc_title: 2
 usc_section: "6611"
 chapter: 65
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "2 U.S.C. § 6611"
-generated_at: "2026-03-30T01:38:34.925Z"
+generated_at: "2026-03-30T01:41:28.844Z"
 ---
 
 # § 6611. Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund

@@ -3,9 +3,9 @@ title: "Section 32708 - Confidentiality of information"
 usc_title: 49
 usc_section: "32708"
 chapter: 327
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 32708"
-generated_at: "2026-03-30T01:41:03.419Z"
+generated_at: "2026-03-30T01:44:06.281Z"
 ---
 
 # § 32708. Confidentiality of information

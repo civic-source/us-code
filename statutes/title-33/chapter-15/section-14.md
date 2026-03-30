@@ -3,9 +3,9 @@ title: "Section 14 - Structural integrity evaluations"
 usc_title: 33
 usc_section: "14"
 chapter: 15
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 14"
-generated_at: "2026-03-30T01:40:15.566Z"
+generated_at: "2026-03-30T01:43:03.907Z"
 ---
 
 # § 701b–14. Structural integrity evaluations

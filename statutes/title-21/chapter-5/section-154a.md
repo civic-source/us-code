@@ -3,9 +3,9 @@ title: "Section 154a - Special licenses for special circumstances; expedited pro
 usc_title: 21
 usc_section: "154a"
 chapter: 5
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 154a"
-generated_at: "2026-03-30T01:39:43.286Z"
+generated_at: "2026-03-30T01:42:26.440Z"
 ---
 
 # § 154a. Special licenses for special circumstances; expedited procedure; conditions; exemptions; criteria

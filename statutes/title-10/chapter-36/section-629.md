@@ -3,9 +3,9 @@ title: "Section 629 - Removal from a list of officers recommended for promotion"
 usc_title: 10
 usc_section: "629"
 chapter: 36
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 629"
-generated_at: "2026-03-30T01:38:58.682Z"
+generated_at: "2026-03-30T01:41:48.480Z"
 ---
 
 # § 629. Removal from a list of officers recommended for promotion

@@ -3,9 +3,9 @@ title: "Section 60705 - Authorization of appropriations"
 usc_title: 34
 usc_section: "60705"
 chapter: 607
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "34 U.S.C. § 60705"
-generated_at: "2026-03-30T01:40:27.245Z"
+generated_at: "2026-03-30T01:43:01.957Z"
 ---
 
 # § 60705. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 3192 - Definitions"
 usc_title: 29
 usc_section: "3192"
 chapter: 32
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "29 U.S.C. § 3192"
-generated_at: "2026-03-30T01:40:02.394Z"
+generated_at: "2026-03-30T01:42:49.953Z"
 ---
 
 # § 3192. Definitions

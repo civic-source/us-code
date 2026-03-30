@@ -3,9 +3,9 @@ title: "Section 1789a - Credit unions as depositaries of public money; fiscal ag
 usc_title: 12
 usc_section: "1789a"
 chapter: 14
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 1789a"
-generated_at: "2026-03-30T01:39:08.030Z"
+generated_at: "2026-03-30T01:41:56.226Z"
 ---
 
 # § 1789a. Credit unions as depositaries of public money; fiscal agents; duties

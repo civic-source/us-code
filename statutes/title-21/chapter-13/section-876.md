@@ -3,9 +3,9 @@ title: "Section 876 - Subpenas"
 usc_title: 21
 usc_section: "876"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 876"
-generated_at: "2026-03-30T01:39:43.366Z"
+generated_at: "2026-03-30T01:42:26.523Z"
 ---
 
 # § 876. Subpenas

@@ -3,9 +3,9 @@ title: "Section 160 - Maintenance of agent for service"
 usc_title: 15
 usc_section: "160"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 160"
-generated_at: "2026-03-30T01:39:11.286Z"
+generated_at: "2026-03-30T01:42:01.144Z"
 ---
 
 # § 160. Maintenance of agent for service

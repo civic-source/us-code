@@ -3,9 +3,9 @@ title: "Section 121 - State statutes as operative on termination of transportati
 usc_title: 27
 usc_section: "121"
 chapter: 6
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "27 U.S.C. § 121"
-generated_at: "2026-03-30T01:39:58.347Z"
+generated_at: "2026-03-30T01:42:46.500Z"
 ---
 
 # § 121. State statutes as operative on termination of transportation; original packages

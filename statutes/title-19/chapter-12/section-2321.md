@@ -3,9 +3,9 @@ title: "Section 2321 - Subpena power"
 usc_title: 19
 usc_section: "2321"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "19 U.S.C. § 2321"
-generated_at: "2026-03-30T01:39:35.594Z"
+generated_at: "2026-03-30T01:42:12.515Z"
 ---
 
 # § 2321. Subpena power

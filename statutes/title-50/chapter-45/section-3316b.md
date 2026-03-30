@@ -3,9 +3,9 @@ title: "Section 3316b - Continuity of operations plans for certain elements of t
 usc_title: 50
 usc_section: "3316b"
 chapter: 45
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "50 U.S.C. § 3316b"
-generated_at: "2026-03-30T01:40:59.413Z"
+generated_at: "2026-03-30T01:44:03.826Z"
 ---
 
 # § 3316b. Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency

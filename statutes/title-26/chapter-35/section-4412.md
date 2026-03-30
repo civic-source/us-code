@@ -3,9 +3,9 @@ title: "Section 4412 - Registration"
 usc_title: 26
 usc_section: "4412"
 chapter: 35
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 4412"
-generated_at: "2026-03-30T01:40:11.260Z"
+generated_at: "2026-03-30T01:42:58.820Z"
 ---
 
 # § 4412. Registration

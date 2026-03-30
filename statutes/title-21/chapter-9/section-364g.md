@@ -3,9 +3,9 @@ title: "Section 364g - Mandatory recall authority"
 usc_title: 21
 usc_section: "364g"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 364g"
-generated_at: "2026-03-30T01:39:43.332Z"
+generated_at: "2026-03-30T01:42:26.488Z"
 ---
 
 # § 364g. Mandatory recall authority

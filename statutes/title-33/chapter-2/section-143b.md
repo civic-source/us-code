@@ -3,9 +3,9 @@ title: "Section 143b - Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 St
 usc_title: 33
 usc_section: "143b"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 143b"
-generated_at: "2026-03-30T01:40:15.551Z"
+generated_at: "2026-03-30T01:43:03.892Z"
 ---
 
 # §§ 143 to 143b. Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 Stat. 194

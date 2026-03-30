@@ -3,9 +3,9 @@ title: "Section 195i - Chemical Security Analysis Center"
 usc_title: 6
 usc_section: "195i"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "6 U.S.C. § 195i"
-generated_at: "2026-03-30T01:38:39.251Z"
+generated_at: "2026-03-30T01:41:35.329Z"
 ---
 
 # § 195i. Chemical Security Analysis Center

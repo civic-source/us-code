@@ -3,9 +3,9 @@ title: "Section 1 - Gifts to system and particular national fish hatcheries"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T01:39:30.838Z"
+generated_at: "2026-03-30T01:42:21.754Z"
 ---
 
 # § 760aa–1. Gifts to system and particular national fish hatcheries

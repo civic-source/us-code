@@ -3,9 +3,9 @@ title: "Section 42308 - DOT airline customer service dashboards"
 usc_title: 49
 usc_section: "42308"
 chapter: 423
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 42308"
-generated_at: "2026-03-30T01:41:03.435Z"
+generated_at: "2026-03-30T01:44:06.296Z"
 ---
 
 # § 42308. DOT airline customer service dashboards

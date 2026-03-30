@@ -3,9 +3,9 @@ title: "Section 30117 - Providing information to, and maintaining records on, pu
 usc_title: 49
 usc_section: "30117"
 chapter: 301
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 30117"
-generated_at: "2026-03-30T01:41:03.406Z"
+generated_at: "2026-03-30T01:44:06.268Z"
 ---
 
 # § 30117. Providing information to, and maintaining records on, purchasers

@@ -3,9 +3,9 @@ title: "Section 4547 - Enterprise guarantee fees"
 usc_title: 12
 usc_section: "4547"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 4547"
-generated_at: "2026-03-30T01:39:08.098Z"
+generated_at: "2026-03-30T01:41:56.319Z"
 ---
 
 # § 4547. Enterprise guarantee fees

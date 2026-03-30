@@ -3,9 +3,9 @@ title: "Section 1646 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1646"
 chapter: 36
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 1646"
-generated_at: "2026-03-30T01:39:30.896Z"
+generated_at: "2026-03-30T01:42:21.815Z"
 ---
 
 # § 1646. Authorization of appropriations

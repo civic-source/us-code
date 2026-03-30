@@ -3,9 +3,9 @@ title: "Section 1313 - Releasing property from attachment"
 usc_title: 40
 usc_section: "1313"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "40 U.S.C. § 1313"
-generated_at: "2026-03-30T01:40:29.804Z"
+generated_at: "2026-03-30T01:43:06.050Z"
 ---
 
 # § 1313. Releasing property from attachment

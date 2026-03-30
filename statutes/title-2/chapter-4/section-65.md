@@ -3,9 +3,9 @@ title: "Section 65 - Repealed. Pub. L. 92–310, title II, § 220(a) , (c), June
 usc_title: 2
 usc_section: "65"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "2 U.S.C. § 65"
-generated_at: "2026-03-30T01:38:34.877Z"
+generated_at: "2026-03-30T01:41:28.793Z"
 ---
 
 # § 65. Repealed. Pub. L. 92–310, title II, § 220(a) , (c), June 6, 1972 , 86 Stat. 204

@@ -3,9 +3,9 @@ title: "Section 2404 - Administration"
 usc_title: 38
 usc_section: "2404"
 chapter: 24
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 2404"
-generated_at: "2026-03-30T01:40:33.383Z"
+generated_at: "2026-03-30T01:43:08.351Z"
 ---
 
 # § 2404. Administration
@@ -18,8 +18,9 @@ generated_at: "2026-03-30T01:40:33.383Z"
     - **(A)** in the case of any cemetery scheduled to be closed by September 30, 1991 , as indicated in the documents submitted by the Administrator of Veterans’ Affairs to the Congress in justification for the amounts included for Veterans’ Administration programs in the President’s Budget for fiscal year 1987, the Secretary may provide for flat grave markers;
     - **(B)** in the case of any cemetery with a section which has flat markers on October 28, 1986 , the Secretary may continue to provide for flat grave markers in such section;
     - **(C)** in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers;
-    - **(D)** in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers; and
-    - **(E)** in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate.
+    - **(D)** in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers. 1 1 So in original. The period probably should be a semicolon.
+    - **(E)** in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate; and
+    - **(F)** in the case of Santa Fe National Cemetery, New Mexico, the Secretary may provide for flat grave markers in any section of such cemetery in which flat markers were in use on December 22, 2023 .
 - **(d)** There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 - **(e)** In carrying out the Secretary’s responsibilities under this chapter, the Secretary may contract with responsible persons, firms, or corporations for the care and maintenance of such cemeteries under the Secretary’s jurisdiction as the Secretary shall choose, under such terms and conditions as the Secretary may prescribe.
 - **(f)**

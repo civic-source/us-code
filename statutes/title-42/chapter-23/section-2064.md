@@ -3,9 +3,9 @@ title: "Section 2064 - Disposition of energy; regulation on sale"
 usc_title: 42
 usc_section: "2064"
 chapter: 23
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 2064"
-generated_at: "2026-03-30T01:40:53.581Z"
+generated_at: "2026-03-30T01:43:39.986Z"
 ---
 
 # § 2064. Disposition of energy; regulation on sale

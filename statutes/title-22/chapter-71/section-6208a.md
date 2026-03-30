@@ -3,9 +3,9 @@ title: "Section 6208a - Open Technology Fund"
 usc_title: 22
 usc_section: "6208a"
 chapter: 71
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 6208a"
-generated_at: "2026-03-30T01:39:56.240Z"
+generated_at: "2026-03-30T01:42:44.600Z"
 ---
 
 # § 6208a. Open Technology Fund

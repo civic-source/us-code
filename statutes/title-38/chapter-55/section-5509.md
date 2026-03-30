@@ -3,9 +3,9 @@ title: "Section 5509 - Authority to require fiduciary to receive payments at reg
 usc_title: 38
 usc_section: "5509"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 5509"
-generated_at: "2026-03-30T01:40:33.410Z"
+generated_at: "2026-03-30T01:43:08.376Z"
 ---
 
 # § 5509. Authority to require fiduciary to receive payments at regional offices of the Department when failing to provide required accounting

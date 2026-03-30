@@ -3,9 +3,9 @@ title: "Section 2 - Application of safe harbor for forward-looking statements"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T01:39:11.243Z"
+generated_at: "2026-03-30T01:42:01.087Z"
 ---
 
 # § 77z–2. Application of safe harbor for forward-looking statements

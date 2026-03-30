@@ -3,9 +3,9 @@ title: "Section 11304 - Additional logbook and entry requirements"
 usc_title: 46
 usc_section: "11304"
 chapter: 113
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 11304"
-generated_at: "2026-03-30T01:41:00.434Z"
+generated_at: "2026-03-30T01:43:54.095Z"
 ---
 
 # § 11304. Additional logbook and entry requirements

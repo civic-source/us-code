@@ -3,9 +3,9 @@ title: "Section 10102 - Strategic human capital plan"
 usc_title: 5
 usc_section: "10102"
 chapter: 101
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 10102"
-generated_at: "2026-03-30T01:38:29.891Z"
+generated_at: "2026-03-30T01:41:30.863Z"
 ---
 
 # § 10102. Strategic human capital plan

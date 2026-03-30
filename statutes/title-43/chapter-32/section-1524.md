@@ -3,9 +3,9 @@ title: "Section 1524 - Water furnished from Central Arizona Project"
 usc_title: 43
 usc_section: "1524"
 chapter: 32
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "43 U.S.C. § 1524"
-generated_at: "2026-03-30T01:40:37.591Z"
+generated_at: "2026-03-30T01:43:22.606Z"
 ---
 
 # § 1524. Water furnished from Central Arizona Project

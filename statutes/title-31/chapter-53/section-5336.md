@@ -3,9 +3,9 @@ title: "Section 5336 - Beneficial ownership information reporting requirements"
 usc_title: 31
 usc_section: "5336"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "31 U.S.C. § 5336"
-generated_at: "2026-03-30T01:40:14.391Z"
+generated_at: "2026-03-30T01:43:02.879Z"
 ---
 
 # § 5336. Beneficial ownership information reporting requirements

@@ -3,9 +3,9 @@ title: "Section 217a - Change in name of Abraham Lincoln National Historical Par
 usc_title: 16
 usc_section: "217a"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 217a"
-generated_at: "2026-03-30T01:39:30.706Z"
+generated_at: "2026-03-30T01:42:21.622Z"
 ---
 
 # § 217a. Change in name of Abraham Lincoln National Historical Park

@@ -3,9 +3,9 @@ title: "Section 2653 - Limitation or repeal of other provisions for recovery of 
 usc_title: 42
 usc_section: "2653"
 chapter: 32
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 2653"
-generated_at: "2026-03-30T01:40:53.600Z"
+generated_at: "2026-03-30T01:43:40.004Z"
 ---
 
 # § 2653. Limitation or repeal of other provisions for recovery of hospital and medical care costs

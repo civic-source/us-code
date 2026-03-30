@@ -3,9 +3,9 @@ title: "Section 309 - Land grants in the State of North Dakota"
 usc_title: 7
 usc_section: "309"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 309"
-generated_at: "2026-03-30T01:39:01.313Z"
+generated_at: "2026-03-30T01:41:40.457Z"
 ---
 
 # § 309. Land grants in the State of North Dakota

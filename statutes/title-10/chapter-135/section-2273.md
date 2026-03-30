@@ -3,9 +3,9 @@ title: "Section 2273 - Policy regarding assured access to space: national securi
 usc_title: 10
 usc_section: "2273"
 chapter: 135
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 2273"
-generated_at: "2026-03-30T01:38:58.749Z"
+generated_at: "2026-03-30T01:41:48.558Z"
 ---
 
 # § 2273. Policy regarding assured access to space: national security payloads

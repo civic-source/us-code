@@ -3,9 +3,9 @@ title: "Section 7g - Funds to reduce medicaid fraud and abuse"
 usc_title: 42
 usc_section: "7g"
 chapter: 7
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 7g"
-generated_at: "2026-03-30T01:40:53.356Z"
+generated_at: "2026-03-30T01:43:39.759Z"
 ---
 
 # § 1320a–7g. Funds to reduce medicaid fraud and abuse

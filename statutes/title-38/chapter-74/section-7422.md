@@ -3,9 +3,9 @@ title: "Section 7422 - Collective bargaining"
 usc_title: 38
 usc_section: "7422"
 chapter: 74
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 7422"
-generated_at: "2026-03-30T01:40:33.421Z"
+generated_at: "2026-03-30T01:43:08.386Z"
 ---
 
 # § 7422. Collective bargaining

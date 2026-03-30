@@ -3,9 +3,9 @@ title: "Section 551a - Cooperation by Secretary of Agriculture with States and p
 usc_title: 16
 usc_section: "551a"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 551a"
-generated_at: "2026-03-30T01:39:30.813Z"
+generated_at: "2026-03-30T01:42:21.726Z"
 ---
 
 # § 551a. Cooperation by Secretary of Agriculture with States and political subdivisions in law enforcement

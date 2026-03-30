@@ -3,9 +3,9 @@ title: "Section 8914 - Agriculture and food defense"
 usc_title: 7
 usc_section: "8914"
 chapter: 114
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 8914"
-generated_at: "2026-03-30T01:39:01.488Z"
+generated_at: "2026-03-30T01:41:40.634Z"
 ---
 
 # § 8914. Agriculture and food defense

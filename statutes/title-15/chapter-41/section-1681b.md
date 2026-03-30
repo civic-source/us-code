@@ -3,9 +3,9 @@ title: "Section 1681b - Permissible purposes of consumer reports"
 usc_title: 15
 usc_section: "1681b"
 chapter: 41
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 1681b"
-generated_at: "2026-03-30T01:39:11.371Z"
+generated_at: "2026-03-30T01:42:01.243Z"
 ---
 
 # § 1681b. Permissible purposes of consumer reports

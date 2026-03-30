@@ -3,9 +3,9 @@ title: "Section 5464 - Standards for systemically important financial market uti
 usc_title: 12
 usc_section: "5464"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 5464"
-generated_at: "2026-03-30T01:39:08.129Z"
+generated_at: "2026-03-30T01:41:56.361Z"
 ---
 
 # § 5464. Standards for systemically important financial market utilities and payment, clearing, or settlement activities

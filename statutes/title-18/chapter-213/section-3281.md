@@ -3,9 +3,9 @@ title: "Section 3281 - Capital offenses"
 usc_title: 18
 usc_section: "3281"
 chapter: 213
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 3281"
-generated_at: "2026-03-30T01:39:37.878Z"
+generated_at: "2026-03-30T01:42:10.793Z"
 ---
 
 # § 3281. Capital offenses

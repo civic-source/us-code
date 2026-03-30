@@ -3,9 +3,9 @@ title: "Section 908 - Repealed. Pub. L. 105–33, title X, § 10210 , Aug. 5, 19
 usc_title: 2
 usc_section: "908"
 chapter: 20
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "2 U.S.C. § 908"
-generated_at: "2026-03-30T01:38:34.895Z"
+generated_at: "2026-03-30T01:41:28.813Z"
 ---
 
 # § 908. Repealed. Pub. L. 105–33, title X, § 10210 , Aug. 5, 1997 , 111 Stat. 711

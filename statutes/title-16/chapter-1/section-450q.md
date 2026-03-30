@@ -3,9 +3,9 @@ title: "Section 450q - Administration, protection, and development"
 usc_title: 16
 usc_section: "450q"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 450q"
-generated_at: "2026-03-30T01:39:30.756Z"
+generated_at: "2026-03-30T01:42:21.667Z"
 ---
 
 # § 450q. Administration, protection, and development

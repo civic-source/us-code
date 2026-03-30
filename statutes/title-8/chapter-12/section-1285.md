@@ -3,9 +3,9 @@ title: "Section 1285 - Employment on passenger vessels of aliens afflicted with 
 usc_title: 8
 usc_section: "1285"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "8 U.S.C. § 1285"
-generated_at: "2026-03-30T01:38:53.642Z"
+generated_at: "2026-03-30T01:41:33.847Z"
 ---
 
 # § 1285. Employment on passenger vessels of aliens afflicted with certain disabilities

@@ -3,9 +3,9 @@ title: "Section 1008 - Presidential recommendations concerning adjustments and c
 usc_title: 37
 usc_section: "1008"
 chapter: 19
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "37 U.S.C. § 1008"
-generated_at: "2026-03-30T01:40:29.330Z"
+generated_at: "2026-03-30T01:43:08.705Z"
 ---
 
 # § 1008. Presidential recommendations concerning adjustments and changes in pay and allowances

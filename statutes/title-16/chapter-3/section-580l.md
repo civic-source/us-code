@@ -3,9 +3,9 @@ title: "Section 580l - Permits for grazing livestock on national forests"
 usc_title: 16
 usc_section: "580l"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 580l"
-generated_at: "2026-03-30T01:39:30.817Z"
+generated_at: "2026-03-30T01:42:21.731Z"
 ---
 
 # § 580l. Permits for grazing livestock on national forests

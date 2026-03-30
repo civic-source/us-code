@@ -3,9 +3,9 @@ title: "Section 80112 - Liability under negotiable bills issued in parts, sets, 
 usc_title: 49
 usc_section: "80112"
 chapter: 801
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 80112"
-generated_at: "2026-03-30T01:41:03.474Z"
+generated_at: "2026-03-30T01:44:06.337Z"
 ---
 
 # § 80112. Liability under negotiable bills issued in parts, sets, or duplicates

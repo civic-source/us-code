@@ -3,9 +3,9 @@ title: "Section 9903 - Consolidated report on unified investment climate stateme
 usc_title: 22
 usc_section: "9903"
 chapter: 106
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 9903"
-generated_at: "2026-03-30T01:39:56.288Z"
+generated_at: "2026-03-30T01:42:44.648Z"
 ---
 
 # § 9903. Consolidated report on unified investment climate statement and country commercial guide

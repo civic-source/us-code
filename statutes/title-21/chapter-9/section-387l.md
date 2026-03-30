@@ -3,9 +3,9 @@ title: "Section 387l - Judicial review"
 usc_title: 21
 usc_section: "387l"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 387l"
-generated_at: "2026-03-30T01:39:43.351Z"
+generated_at: "2026-03-30T01:42:26.507Z"
 ---
 
 # § 387l. Judicial review

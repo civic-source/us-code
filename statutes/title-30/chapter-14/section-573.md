@@ -3,9 +3,9 @@ title: "Section 573 - Statement by Commonwealth for Secretary"
 usc_title: 30
 usc_section: "573"
 chapter: 14
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "30 U.S.C. § 573"
-generated_at: "2026-03-30T01:39:59.988Z"
+generated_at: "2026-03-30T01:42:47.689Z"
 ---
 
 # § 573. Statement by Commonwealth for Secretary

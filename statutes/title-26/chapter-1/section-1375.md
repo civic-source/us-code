@@ -3,9 +3,9 @@ title: "Section 1375 - Tax imposed when passive investment income of corporation
 usc_title: 26
 usc_section: "1375"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 1375"
-generated_at: "2026-03-30T01:40:11.230Z"
+generated_at: "2026-03-30T01:42:58.789Z"
 ---
 
 # § 1375. Tax imposed when passive investment income of corporation having accumulated earnings and profits exceeds 25 percent of gross receipts

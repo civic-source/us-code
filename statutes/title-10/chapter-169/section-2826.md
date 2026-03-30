@@ -3,9 +3,9 @@ title: "Section 2826 - Military family housing: local comparability of room patt
 usc_title: 10
 usc_section: "2826"
 chapter: 169
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 2826"
-generated_at: "2026-03-30T01:38:58.771Z"
+generated_at: "2026-03-30T01:41:48.586Z"
 ---
 
 # § 2826. Military family housing: local comparability of room patterns and floor areas

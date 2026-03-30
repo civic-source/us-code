@@ -3,9 +3,9 @@ title: "Section 913 - Transitional provisions"
 usc_title: 17
 usc_section: "913"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "17 U.S.C. § 913"
-generated_at: "2026-03-30T01:39:31.189Z"
+generated_at: "2026-03-30T01:42:09.139Z"
 ---
 
 # § 913. Transitional provisions

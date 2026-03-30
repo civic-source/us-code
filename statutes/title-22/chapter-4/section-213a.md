@@ -3,9 +3,9 @@ title: "Section 213a - Authority to designate additional passport acceptance age
 usc_title: 22
 usc_section: "213a"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 213a"
-generated_at: "2026-03-30T01:39:56.102Z"
+generated_at: "2026-03-30T01:42:44.473Z"
 ---
 
 # § 213a. Authority to designate additional passport acceptance agents

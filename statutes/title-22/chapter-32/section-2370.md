@@ -3,9 +3,9 @@ title: "Section 2370 - Prohibitions against furnishing assistance"
 usc_title: 22
 usc_section: "2370"
 chapter: 32
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 2370"
-generated_at: "2026-03-30T01:39:56.165Z"
+generated_at: "2026-03-30T01:42:44.532Z"
 ---
 
 # § 2370. Prohibitions against furnishing assistance

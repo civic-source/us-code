@@ -3,9 +3,9 @@ title: "Section 2225c - Employment contracts for services abroad"
 usc_title: 7
 usc_section: "2225c"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 2225c"
-generated_at: "2026-03-30T01:39:01.398Z"
+generated_at: "2026-03-30T01:41:40.546Z"
 ---
 
 # § 2225c. Employment contracts for services abroad

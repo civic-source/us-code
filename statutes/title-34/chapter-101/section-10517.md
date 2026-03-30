@@ -3,9 +3,9 @@ title: "Section 10517 - Expenditure records"
 usc_title: 34
 usc_section: "10517"
 chapter: 101
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "34 U.S.C. § 10517"
-generated_at: "2026-03-30T01:40:27.187Z"
+generated_at: "2026-03-30T01:43:01.904Z"
 ---
 
 # § 10517. Expenditure records

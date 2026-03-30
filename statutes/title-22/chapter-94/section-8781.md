@@ -3,9 +3,9 @@ title: "Section 8781 - Implementation; penalties"
 usc_title: 22
 usc_section: "8781"
 chapter: 94
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 8781"
-generated_at: "2026-03-30T01:39:56.272Z"
+generated_at: "2026-03-30T01:42:44.633Z"
 ---
 
 # § 8781. Implementation; penalties

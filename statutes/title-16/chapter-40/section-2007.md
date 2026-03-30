@@ -3,9 +3,9 @@ title: "Section 2007 - Authorization of appropriations"
 usc_title: 16
 usc_section: "2007"
 chapter: 40
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 2007"
-generated_at: "2026-03-30T01:39:30.909Z"
+generated_at: "2026-03-30T01:42:21.829Z"
 ---
 
 # § 2007. Authorization of appropriations

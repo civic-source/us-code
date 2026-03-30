@@ -3,9 +3,9 @@ title: "Section 2807 - Prohibition on restriction of installation of renewable f
 usc_title: 15
 usc_section: "2807"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 2807"
-generated_at: "2026-03-30T01:39:11.414Z"
+generated_at: "2026-03-30T01:42:01.290Z"
 ---
 
 # § 2807. Prohibition on restriction of installation of renewable fuel pumps

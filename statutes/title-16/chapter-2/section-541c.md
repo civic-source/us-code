@@ -3,9 +3,9 @@ title: "Section 541c - Extension of boundaries of Siuslaw National Forest; trans
 usc_title: 16
 usc_section: "541c"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 541c"
-generated_at: "2026-03-30T01:39:30.809Z"
+generated_at: "2026-03-30T01:42:21.722Z"
 ---
 
 # § 541c. Extension of boundaries of Siuslaw National Forest; transfer of Federal property to Secretary

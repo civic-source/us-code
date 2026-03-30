@@ -3,9 +3,9 @@ title: "Section 161 - Deposit in Treasury of trust funds"
 usc_title: 25
 usc_section: "161"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 161"
-generated_at: "2026-03-30T01:39:42.166Z"
+generated_at: "2026-03-30T01:42:28.576Z"
 ---
 
 # § 161. Deposit in Treasury of trust funds

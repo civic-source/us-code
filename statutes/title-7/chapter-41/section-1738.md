@@ -3,9 +3,9 @@ title: "Section 1738 - Establishment of Facility"
 usc_title: 7
 usc_section: "1738"
 chapter: 41
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 1738"
-generated_at: "2026-03-30T01:39:01.365Z"
+generated_at: "2026-03-30T01:41:40.509Z"
 ---
 
 # § 1738. Establishment of Facility

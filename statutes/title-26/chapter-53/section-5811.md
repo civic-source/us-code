@@ -3,9 +3,9 @@ title: "Section 5811 - Transfer tax"
 usc_title: 26
 usc_section: "5811"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 5811"
-generated_at: "2026-03-30T01:40:11.283Z"
+generated_at: "2026-03-30T01:42:58.844Z"
 ---
 
 # § 5811. Transfer tax

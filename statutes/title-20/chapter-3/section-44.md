@@ -3,9 +3,9 @@ title: "Section 44 - Organization of board; expenses; gratuitous services"
 usc_title: 20
 usc_section: "44"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 44"
-generated_at: "2026-03-30T01:39:18.941Z"
+generated_at: "2026-03-30T01:42:15.388Z"
 ---
 
 # § 44. Organization of board; expenses; gratuitous services

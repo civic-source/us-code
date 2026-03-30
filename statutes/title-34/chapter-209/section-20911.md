@@ -3,9 +3,9 @@ title: "Section 20911 - Relevant definitions, including Amie Zyla expansion of s
 usc_title: 34
 usc_section: "20911"
 chapter: 209
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "34 U.S.C. § 20911"
-generated_at: "2026-03-30T01:40:27.221Z"
+generated_at: "2026-03-30T01:43:01.937Z"
 ---
 
 # § 20911. Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators

@@ -3,9 +3,9 @@ title: "Section 6519 - McCain-Mansfield and SFC Sean Cooley and SPC Christopher 
 usc_title: 2
 usc_section: "6519"
 chapter: 65
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "2 U.S.C. § 6519"
-generated_at: "2026-03-30T01:38:34.924Z"
+generated_at: "2026-03-30T01:41:28.843Z"
 ---
 
 # § 6519. McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs

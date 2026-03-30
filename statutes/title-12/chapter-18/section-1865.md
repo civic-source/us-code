@@ -3,9 +3,9 @@ title: "Section 1865 - Prior approval for investments in bank service companies"
 usc_title: 12
 usc_section: "1865"
 chapter: 18
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 1865"
-generated_at: "2026-03-30T01:39:08.059Z"
+generated_at: "2026-03-30T01:41:56.268Z"
 ---
 
 # § 1865. Prior approval for investments in bank service companies

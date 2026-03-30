@@ -3,9 +3,9 @@ title: "Section 206 - Suspension of commercial intercourse with part of State in
 usc_title: 50
 usc_section: "206"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "50 U.S.C. § 206"
-generated_at: "2026-03-30T01:40:59.358Z"
+generated_at: "2026-03-30T01:44:03.775Z"
 ---
 
 # § 206. Suspension of commercial intercourse with part of State in insurrection

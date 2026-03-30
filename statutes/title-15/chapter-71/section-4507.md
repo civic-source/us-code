@@ -3,9 +3,9 @@ title: "Section 4507 - Definitions"
 usc_title: 15
 usc_section: "4507"
 chapter: 71
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 4507"
-generated_at: "2026-03-30T01:39:11.433Z"
+generated_at: "2026-03-30T01:42:01.311Z"
 ---
 
 # § 4507. Definitions

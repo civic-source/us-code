@@ -3,9 +3,9 @@ title: "Section 331 - Friendly foreign countries: authority to provide support f
 usc_title: 10
 usc_section: "331"
 chapter: 16
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 331"
-generated_at: "2026-03-30T01:38:58.665Z"
+generated_at: "2026-03-30T01:41:48.463Z"
 ---
 
 # § 331. Friendly foreign countries: authority to provide support for conduct of operations

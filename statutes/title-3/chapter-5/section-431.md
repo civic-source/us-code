@@ -3,9 +3,9 @@ title: "Section 431 - Application of chapter 71 of title 5, relating to Federal 
 usc_title: 3
 usc_section: "431"
 chapter: 5
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "3 U.S.C. § 431"
-generated_at: "2026-03-30T01:38:23.995Z"
+generated_at: "2026-03-30T01:41:23.399Z"
 ---
 
 # § 431. Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations

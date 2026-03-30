@@ -3,9 +3,9 @@ title: "Section 30123 - Tires"
 usc_title: 49
 usc_section: "30123"
 chapter: 301
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 30123"
-generated_at: "2026-03-30T01:41:03.406Z"
+generated_at: "2026-03-30T01:44:06.269Z"
 ---
 
 # § 30123. Tires

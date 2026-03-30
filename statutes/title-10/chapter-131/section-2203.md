@@ -3,9 +3,9 @@ title: "Section 2203 - Budget estimates"
 usc_title: 10
 usc_section: "2203"
 chapter: 131
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 2203"
-generated_at: "2026-03-30T01:38:58.746Z"
+generated_at: "2026-03-30T01:41:48.554Z"
 ---
 
 # § 2203. Budget estimates

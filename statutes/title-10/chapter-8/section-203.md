@@ -3,9 +3,9 @@ title: "Section 203 - Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1)
 usc_title: 10
 usc_section: "203"
 chapter: 8
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 203"
-generated_at: "2026-03-30T01:38:58.660Z"
+generated_at: "2026-03-30T01:41:48.458Z"
 ---
 
 # [§ 203. Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1) , Dec. 23, 2016 , 130 Stat. 2102 ]

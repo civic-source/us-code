@@ -3,9 +3,9 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-30T01:40:33.355Z"
+generated_at: "2026-03-30T01:43:08.323Z"
 ---
 
 # § 312. Inspector General
@@ -50,5 +50,5 @@ generated_at: "2026-03-30T01:40:33.355Z"
       - **(iii)** A discussion of any challenges or concerns that the Inspector General has encountered exercising the authority provided by paragraph (1).
       - **(iv)** Such other matters as the Inspector General considers appropriate.
   - **(7)**
-    - **(A)** The authority provided by paragraph (1)(A) shall terminate on May 31, 2025 .
+    - **(A)** The authority provided by paragraph (1)(A) shall terminate on September 30, 2025 .
     - **(B)** The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.

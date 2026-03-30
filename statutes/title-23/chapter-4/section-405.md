@@ -3,9 +3,9 @@ title: "Section 405 - National priority safety programs"
 usc_title: 23
 usc_section: "405"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "23 U.S.C. § 405"
-generated_at: "2026-03-30T01:39:41.105Z"
+generated_at: "2026-03-30T01:42:25.092Z"
 ---
 
 # § 405. National priority safety programs

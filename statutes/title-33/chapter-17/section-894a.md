@@ -3,9 +3,9 @@ title: "Section 894a - Actions to address sexual assault at National Oceanic and
 usc_title: 33
 usc_section: "894a"
 chapter: 17
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 894a"
-generated_at: "2026-03-30T01:40:15.573Z"
+generated_at: "2026-03-30T01:43:03.913Z"
 ---
 
 # § 894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration

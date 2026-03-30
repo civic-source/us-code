@@ -3,9 +3,9 @@ title: "Section 403b - Lease of restricted lands in State of Washington"
 usc_title: 25
 usc_section: "403b"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 403b"
-generated_at: "2026-03-30T01:39:42.175Z"
+generated_at: "2026-03-30T01:42:28.583Z"
 ---
 
 # § 403b. Lease of restricted lands in State of Washington

@@ -3,9 +3,9 @@ title: "Section 1133 - National Strategy for Public Transportation Security"
 usc_title: 6
 usc_section: "1133"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "6 U.S.C. § 1133"
-generated_at: "2026-03-30T01:38:39.289Z"
+generated_at: "2026-03-30T01:41:35.367Z"
 ---
 
 # § 1133. National Strategy for Public Transportation Security

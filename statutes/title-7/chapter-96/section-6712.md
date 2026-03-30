@@ -3,9 +3,9 @@ title: "Section 6712 - Greenhouse Gas Technical Assistance Provider and Third-Pa
 usc_title: 7
 usc_section: "6712"
 chapter: 96
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 6712"
-generated_at: "2026-03-30T01:39:01.446Z"
+generated_at: "2026-03-30T01:41:40.592Z"
 ---
 
 # § 6712. Greenhouse Gas Technical Assistance Provider and Third-Party Verifier Program

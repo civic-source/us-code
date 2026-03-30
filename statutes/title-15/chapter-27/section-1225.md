@@ -3,9 +3,9 @@ title: "Section 1225 - State laws as affected"
 usc_title: 15
 usc_section: "1225"
 chapter: 27
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 1225"
-generated_at: "2026-03-30T01:39:11.351Z"
+generated_at: "2026-03-30T01:42:01.220Z"
 ---
 
 # § 1225. State laws as affected

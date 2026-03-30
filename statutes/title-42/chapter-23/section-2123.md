@@ -3,9 +3,9 @@ title: "Section 2123 - Transferred"
 usc_title: 42
 usc_section: "2123"
 chapter: 23
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 2123"
-generated_at: "2026-03-30T01:40:53.584Z"
+generated_at: "2026-03-30T01:43:39.988Z"
 ---
 
 # § 2123. Transferred

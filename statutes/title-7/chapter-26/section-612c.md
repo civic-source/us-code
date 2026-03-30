@@ -3,9 +3,9 @@ title: "Section 612c - Appropriation to encourage exportation and domestic consu
 usc_title: 7
 usc_section: "612c"
 chapter: 26
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 612c"
-generated_at: "2026-03-30T01:39:01.323Z"
+generated_at: "2026-03-30T01:41:40.467Z"
 ---
 
 # § 612c. Appropriation to encourage exportation and domestic consumption of agricultural products

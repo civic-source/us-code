@@ -3,9 +3,9 @@ title: "Section 3663 - Tribal criminal assistance grants"
 usc_title: 25
 usc_section: "3663"
 chapter: 38
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 3663"
-generated_at: "2026-03-30T01:39:42.225Z"
+generated_at: "2026-03-30T01:42:28.630Z"
 ---
 
 # § 3663. Tribal criminal assistance grants

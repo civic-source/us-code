@@ -3,9 +3,9 @@ title: "Section 617p - Claims of United States; priority"
 usc_title: 43
 usc_section: "617p"
 chapter: 12
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "43 U.S.C. § 617p"
-generated_at: "2026-03-30T01:40:37.573Z"
+generated_at: "2026-03-30T01:43:22.589Z"
 ---
 
 # § 617p. Claims of United States; priority

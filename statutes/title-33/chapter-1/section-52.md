@@ -3,9 +3,9 @@ title: "Section 52 - Park River, Connecticut"
 usc_title: 33
 usc_section: "52"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 52"
-generated_at: "2026-03-30T01:40:15.548Z"
+generated_at: "2026-03-30T01:43:03.890Z"
 ---
 
 # § 52. Park River, Connecticut

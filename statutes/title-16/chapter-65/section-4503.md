@@ -3,9 +3,9 @@ title: "Section 4503 - Institute of Tropical Forestry in Puerto Rico"
 usc_title: 16
 usc_section: "4503"
 chapter: 65
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 4503"
-generated_at: "2026-03-30T01:39:30.945Z"
+generated_at: "2026-03-30T01:42:21.865Z"
 ---
 
 # § 4503. Institute of Tropical Forestry in Puerto Rico

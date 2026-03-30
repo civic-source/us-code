@@ -3,9 +3,9 @@ title: "Section 649k - Regulations"
 usc_title: 10
 usc_section: "649k"
 chapter: 36
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 649k"
-generated_at: "2026-03-30T01:38:58.684Z"
+generated_at: "2026-03-30T01:41:48.481Z"
 ---
 
 # § 649k. Regulations

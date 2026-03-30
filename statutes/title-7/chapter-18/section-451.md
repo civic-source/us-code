@@ -3,9 +3,9 @@ title: "Section 451 - “Agricultural products” defined"
 usc_title: 7
 usc_section: "451"
 chapter: 18
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "7 U.S.C. § 451"
-generated_at: "2026-03-30T01:39:01.315Z"
+generated_at: "2026-03-30T01:41:40.460Z"
 ---
 
 # § 451. “Agricultural products” defined

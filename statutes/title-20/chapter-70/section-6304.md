@@ -3,9 +3,9 @@ title: "Section 6304 - State administration"
 usc_title: 20
 usc_section: "6304"
 chapter: 70
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "20 U.S.C. § 6304"
-generated_at: "2026-03-30T01:39:19.125Z"
+generated_at: "2026-03-30T01:42:15.498Z"
 ---
 
 # § 6304. State administration

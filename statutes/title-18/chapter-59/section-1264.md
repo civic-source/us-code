@@ -3,9 +3,9 @@ title: "Section 1264 - Delivery to consignee"
 usc_title: 18
 usc_section: "1264"
 chapter: 59
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 1264"
-generated_at: "2026-03-30T01:39:37.849Z"
+generated_at: "2026-03-30T01:42:10.765Z"
 ---
 
 # § 1264. Delivery to consignee

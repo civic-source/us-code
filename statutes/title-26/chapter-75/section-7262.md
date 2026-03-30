@@ -3,9 +3,9 @@ title: "Section 7262 - Violation of occupational tax laws relating to wagering�
 usc_title: 26
 usc_section: "7262"
 chapter: 75
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "26 U.S.C. § 7262"
-generated_at: "2026-03-30T01:40:11.322Z"
+generated_at: "2026-03-30T01:42:58.886Z"
 ---
 
 # § 7262. Violation of occupational tax laws relating to wagering—failure to pay special tax

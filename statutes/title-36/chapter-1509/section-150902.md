@@ -3,9 +3,9 @@ title: "Section 150902 - Purposes"
 usc_title: 36
 usc_section: "150902"
 chapter: 1509
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "36 U.S.C. § 150902"
-generated_at: "2026-03-30T01:40:30.550Z"
+generated_at: "2026-03-30T01:43:06.781Z"
 ---
 
 # § 150902. Purposes

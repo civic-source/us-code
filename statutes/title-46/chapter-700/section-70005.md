@@ -3,9 +3,9 @@ title: "Section 70005 - International agreements"
 usc_title: 46
 usc_section: "70005"
 chapter: 700
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 70005"
-generated_at: "2026-03-30T01:41:00.462Z"
+generated_at: "2026-03-30T01:43:54.122Z"
 ---
 
 # § 70005. International agreements

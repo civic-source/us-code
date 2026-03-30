@@ -3,9 +3,9 @@ title: "Section 1989 - Additional authorities"
 usc_title: 48
 usc_section: "1989"
 chapter: 18
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "48 U.S.C. § 1989"
-generated_at: "2026-03-30T01:40:57.012Z"
+generated_at: "2026-03-30T01:43:49.182Z"
 ---
 
 # § 1989. Additional authorities
@@ -16,8 +16,9 @@ generated_at: "2026-03-30T01:40:57.012Z"
     - **(A)** sections 131 and 132, paragraphs (1) and (3) through (6) of section 221(a), and section 221(b) of the 2023 Amended U.S.-FSM Compact;
     - **(B)** sections 131 and 132, paragraphs (1) and (3) through (6) of section 221(a), and section 221(b) of the 2023 Amended U.S.-RMI Compact;
     - **(C)** sections 131 and 132 and paragraphs (1), (3), and (4) of section 221(a) of the U.S.-Palau Compact;
-    - **(D)** Article 6 of the 2023 U.S.-Palau Compact Review Agreement; and
-    - **(E)** section 1988 of this title .
+    - **(D)** Article 6 of the 2023 U.S.-Palau Compact Review Agreement;
+    - **(E)** with respect to the Federal Deposit Insurance Corporation, any applicable Federal programs and services agreement between the United States and the Republic of Palau; and
+    - **(F)** section 1988 of this title .
   - **(3)** The heads of the Federal agencies, departments, and instrumentalities to which appropriations are made available under paragraph (1) as well as the Federal Deposit Insurance Corporation shall—
     - **(A)** have the authority to carry out any activities that are necessary to fulfill the obligations, services, and programs described in paragraph (2); and
     - **(B)** use available funds to carry out the activities under subparagraph (A).

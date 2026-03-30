@@ -3,9 +3,9 @@ title: "Section 112a - United States Treaties and Other International Agreements
 usc_title: 1
 usc_section: "112a"
 chapter: 2
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "1 U.S.C. § 112a"
-generated_at: "2026-03-30T01:38:21.180Z"
+generated_at: "2026-03-30T01:41:23.251Z"
 ---
 
 # § 112a. United States Treaties and Other International Agreements; contents; admissibility in evidence

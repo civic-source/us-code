@@ -3,9 +3,9 @@ title: "Section 7270c - Annual assessment and report on vulnerability of facilit
 usc_title: 42
 usc_section: "7270c"
 chapter: 84
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 7270c"
-generated_at: "2026-03-30T01:40:53.722Z"
+generated_at: "2026-03-30T01:43:40.119Z"
 ---
 
 # § 7270c. Annual assessment and report on vulnerability of facilities to terrorist attack

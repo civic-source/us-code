@@ -3,9 +3,9 @@ title: "Section 111 - Agreements relating to use of and access to rights-of-way�
 usc_title: 23
 usc_section: "111"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "23 U.S.C. § 111"
-generated_at: "2026-03-30T01:39:41.080Z"
+generated_at: "2026-03-30T01:42:25.069Z"
 ---
 
 # § 111. Agreements relating to use of and access to rights-of-way—Interstate System

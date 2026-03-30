@@ -3,9 +3,9 @@ title: "Section 1334 - Bankruptcy cases and proceedings"
 usc_title: 28
 usc_section: "1334"
 chapter: 85
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "28 U.S.C. § 1334"
-generated_at: "2026-03-30T01:40:04.780Z"
+generated_at: "2026-03-30T01:42:48.681Z"
 ---
 
 # § 1334. Bankruptcy cases and proceedings

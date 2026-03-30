@@ -3,9 +3,9 @@ title: "Section 957 - Clerks ineligible for certain offices"
 usc_title: 28
 usc_section: "957"
 chapter: 57
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "28 U.S.C. § 957"
-generated_at: "2026-03-30T01:40:04.779Z"
+generated_at: "2026-03-30T01:42:48.678Z"
 ---
 
 # § 957. Clerks ineligible for certain offices

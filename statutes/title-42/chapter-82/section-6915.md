@@ -3,9 +3,9 @@ title: "Section 6915 - Annual report"
 usc_title: 42
 usc_section: "6915"
 chapter: 82
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 6915"
-generated_at: "2026-03-30T01:40:53.705Z"
+generated_at: "2026-03-30T01:43:40.103Z"
 ---
 
 # § 6915. Annual report

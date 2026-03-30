@@ -3,9 +3,9 @@ title: "Section 4261 - Statement of policy on international cooperation to comba
 usc_title: 33
 usc_section: "4261"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "33 U.S.C. § 4261"
-generated_at: "2026-03-30T01:40:15.647Z"
+generated_at: "2026-03-30T01:43:03.982Z"
 ---
 
 # § 4261. Statement of policy on international cooperation to combat marine debris

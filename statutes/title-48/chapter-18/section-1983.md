@@ -3,9 +3,9 @@ title: "Section 1983 - Approval of 2023 Agreement to Amend the U.S.-FSM Compact,
 usc_title: 48
 usc_section: "1983"
 chapter: 18
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "48 U.S.C. § 1983"
-generated_at: "2026-03-30T01:40:57.011Z"
+generated_at: "2026-03-30T01:43:49.181Z"
 ---
 
 # § 1983. Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements
@@ -37,10 +37,12 @@ generated_at: "2026-03-30T01:40:57.011Z"
       - **(vii)** Articles III, IV, and X of the agreement described in section 462(b)(6) of the 2023 Amended U.S.-RMI Compact;
       - **(viii)** the agreement described in section 462(h) of the U.S.-Palau Compact; and
       - **(ix)** Articles VI, XV, and XVII of the agreement described in section 462(b)(7) of the 2023 Amended U.S.-FSM Compact and 2023 Amended U.S.-RMI Compact and section 462(i) of the U.S.-Palau Compact.
-- **(e)** An agreement between the United States and the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or the Government of the Republic of Palau that would amend, change, or terminate any subsidiary agreement or portion of a subsidiary agreement (other than an amendment to, change to, or termination of an agreement described in subsection (d)) shall not enter into force until the date that is 90 days after the date on which the President has transmitted to the President of the Senate and the Speaker of the House of Representatives—
-  - **(1)** the agreement to amend, change, or terminate the subsidiary agreement;
-  - **(2)** an explanation of the amendment, change, or termination;
-  - **(3)** a description of the reasons for the amendment, change, or termination; and
-  - **(4)** in the case of an agreement that would amend, change, or terminate any agreement described in section 462(b)(3) of the 2023 Amended U.S.-FSM Compact or the 2023 Amended U.S.-RMI Compact, a statement by the Secretary of Labor that describes—
-    - **(A)** the necessity of the amendment, change, or termination; and
-    - **(B)** any impacts of the amendment, change, or termination.
+- **(e)**
+  - **(1)** An agreement between the United States and the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or the Government of the Republic of Palau that would amend, change, or terminate any subsidiary agreement or portion of a subsidiary agreement (other than an amendment to, change to, or termination of an agreement described in subsection (d)) shall not enter into force until the date that is 90 days after the date on which the President has transmitted to the President of the Senate and the Speaker of the House of Representatives—
+    - **(A)** the agreement to amend, change, or terminate the subsidiary agreement;
+    - **(B)** an explanation of the amendment, change, or termination;
+    - **(C)** a description of the reasons for the amendment, change, or termination; and
+    - **(D)** in the case of an agreement that would amend, change, or terminate any agreement described in section 462(b)(3) of the 2023 Amended U.S.-FSM Compact or the 2023 Amended U.S.-RMI Compact, a statement by the Secretary of Labor that describes—
+      - **(i)** the necessity of the amendment, change, or termination; and
+      - **(ii)** any impacts of the amendment, change, or termination.
+  - **(2)** Subparagraphs (A) and (D)(iii) of section 1931(c)(2) of this title and subsection (d)(2)(A) shall not apply to an agreement that would amend, change, or terminate the agreement described in section 462(f) of the U.S.-Palau Compact.

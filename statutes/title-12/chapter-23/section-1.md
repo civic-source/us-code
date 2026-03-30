@@ -3,9 +3,9 @@ title: "Section 1 - Risk-based capital levels"
 usc_title: 12
 usc_section: "1"
 chapter: 23
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T01:39:08.073Z"
+generated_at: "2026-03-30T01:41:56.286Z"
 ---
 
 # § 2279bb–1. Risk-based capital levels

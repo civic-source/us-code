@@ -3,9 +3,9 @@ title: "Section 1415 - Mandatory advance electronic information for cargo and ot
 usc_title: 19
 usc_section: "1415"
 chapter: 4
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "19 U.S.C. § 1415"
-generated_at: "2026-03-30T01:39:35.559Z"
+generated_at: "2026-03-30T01:42:12.486Z"
 ---
 
 # § 1415. Mandatory advance electronic information for cargo and other improved customs reporting procedures

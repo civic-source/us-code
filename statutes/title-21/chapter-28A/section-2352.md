@@ -3,9 +3,9 @@ title: "Section 2352 - Use of national emergency authorities; reporting"
 usc_title: 21
 usc_section: "2352"
 chapter: 28
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 2352"
-generated_at: "2026-03-30T01:39:43.430Z"
+generated_at: "2026-03-30T01:42:26.537Z"
 ---
 
 # § 2352. Use of national emergency authorities; reporting

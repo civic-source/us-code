@@ -3,9 +3,9 @@ title: "Section 1076c - Dental insurance plan: certain retirees and their surviv
 usc_title: 10
 usc_section: "1076c"
 chapter: 55
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 1076c"
-generated_at: "2026-03-30T01:38:58.707Z"
+generated_at: "2026-03-30T01:41:48.511Z"
 ---
 
 # § 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents

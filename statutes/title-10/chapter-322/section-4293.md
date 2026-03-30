@@ -3,9 +3,9 @@ title: "Section 4293 - Major defense acquisition programs: incentive program for
 usc_title: 10
 usc_section: "4293"
 chapter: 322
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 4293"
-generated_at: "2026-03-30T01:38:58.792Z"
+generated_at: "2026-03-30T01:41:48.614Z"
 ---
 
 # § 4293. Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States

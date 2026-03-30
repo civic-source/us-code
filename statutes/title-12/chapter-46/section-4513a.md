@@ -3,9 +3,9 @@ title: "Section 4513a - Federal Housing Finance Oversight Board"
 usc_title: 12
 usc_section: "4513a"
 chapter: 46
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "12 U.S.C. § 4513a"
-generated_at: "2026-03-30T01:39:08.096Z"
+generated_at: "2026-03-30T01:41:56.317Z"
 ---
 
 # § 4513a. Federal Housing Finance Oversight Board

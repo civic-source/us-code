@@ -3,9 +3,9 @@ title: "Section 949b - Unlawfully influencing action of military commission and 
 usc_title: 10
 usc_section: "949b"
 chapter: 47
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 949b"
-generated_at: "2026-03-30T01:38:58.697Z"
+generated_at: "2026-03-30T01:41:48.498Z"
 ---
 
 # § 949b. Unlawfully influencing action of military commission and United States Court of Military Commission Review

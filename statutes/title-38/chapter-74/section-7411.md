@@ -3,9 +3,9 @@ title: "Section 7411 - Full-time board-certified physicians and dentists: reimbu
 usc_title: 38
 usc_section: "7411"
 chapter: 74
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "38 U.S.C. § 7411"
-generated_at: "2026-03-30T01:40:33.420Z"
+generated_at: "2026-03-30T01:43:08.385Z"
 ---
 
 # § 7411. Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses

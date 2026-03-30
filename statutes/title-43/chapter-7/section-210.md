@@ -3,9 +3,9 @@ title: "Section 210 - Recognition of equitable claims on certain lands in Oklaho
 usc_title: 43
 usc_section: "210"
 chapter: 7
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "43 U.S.C. § 210"
-generated_at: "2026-03-30T01:40:37.556Z"
+generated_at: "2026-03-30T01:43:22.572Z"
 ---
 
 # § 210. Recognition of equitable claims on certain lands in Oklahoma; validation of homestead entries

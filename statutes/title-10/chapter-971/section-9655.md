@@ -3,9 +3,9 @@ title: "Section 9655 - Arms and ammunition: agencies and departments of United S
 usc_title: 10
 usc_section: "9655"
 chapter: 971
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 9655"
-generated_at: "2026-03-30T01:38:58.831Z"
+generated_at: "2026-03-30T01:41:48.663Z"
 ---
 
 # § 9655. Arms and ammunition: agencies and departments of United States

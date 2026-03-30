@@ -3,9 +3,9 @@ title: "Section 564h - Omitted"
 usc_title: 25
 usc_section: "564h"
 chapter: 14
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "25 U.S.C. § 564h"
-generated_at: "2026-03-30T01:39:42.177Z"
+generated_at: "2026-03-30T01:42:28.584Z"
 ---
 
 # § 564h. Omitted

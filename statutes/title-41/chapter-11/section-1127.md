@@ -3,9 +3,9 @@ title: "Section 1127 - Determining benchmark compensation amount"
 usc_title: 41
 usc_section: "1127"
 chapter: 11
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "41 U.S.C. § 1127"
-generated_at: "2026-03-30T01:40:36.614Z"
+generated_at: "2026-03-30T01:43:18.005Z"
 ---
 
 # § 1127. Determining benchmark compensation amount

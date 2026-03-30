@@ -3,9 +3,9 @@ title: "Section 13907 - Household goods agents"
 usc_title: 49
 usc_section: "13907"
 chapter: 139
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "49 U.S.C. § 13907"
-generated_at: "2026-03-30T01:41:03.382Z"
+generated_at: "2026-03-30T01:44:06.244Z"
 ---
 
 # § 13907. Household goods agents

@@ -3,9 +3,9 @@ title: "Section 1652 - Citizens as pirates"
 usc_title: 18
 usc_section: "1652"
 chapter: 81
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "18 U.S.C. § 1652"
-generated_at: "2026-03-30T01:39:37.853Z"
+generated_at: "2026-03-30T01:42:10.769Z"
 ---
 
 # § 1652. Citizens as pirates

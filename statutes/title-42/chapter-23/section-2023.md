@@ -3,9 +3,9 @@ title: "Section 2023 - State authority to regulate radiation below level of regu
 usc_title: 42
 usc_section: "2023"
 chapter: 23
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 2023"
-generated_at: "2026-03-30T01:40:53.581Z"
+generated_at: "2026-03-30T01:43:39.986Z"
 ---
 
 # § 2023. State authority to regulate radiation below level of regulatory concern of Nuclear Regulatory Commission

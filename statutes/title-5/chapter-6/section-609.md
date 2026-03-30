@@ -3,9 +3,9 @@ title: "Section 609 - Procedures for gathering comments"
 usc_title: 5
 usc_section: "609"
 chapter: 6
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "5 U.S.C. § 609"
-generated_at: "2026-03-30T01:38:29.826Z"
+generated_at: "2026-03-30T01:41:30.800Z"
 ---
 
 # § 609. Procedures for gathering comments

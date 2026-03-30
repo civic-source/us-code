@@ -3,9 +3,9 @@ title: "Section 292 - District judges"
 usc_title: 28
 usc_section: "292"
 chapter: 13
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "28 U.S.C. § 292"
-generated_at: "2026-03-30T01:40:04.767Z"
+generated_at: "2026-03-30T01:42:48.668Z"
 ---
 
 # § 292. District judges

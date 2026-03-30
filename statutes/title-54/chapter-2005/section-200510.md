@@ -3,9 +3,9 @@ title: "Section 200510 - Inapplicability of matching provisions"
 usc_title: 54
 usc_section: "200510"
 chapter: 2005
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "54 U.S.C. § 200510"
-generated_at: "2026-03-30T01:41:05.567Z"
+generated_at: "2026-03-30T01:44:12.782Z"
 ---
 
 # § 200510. Inapplicability of matching provisions

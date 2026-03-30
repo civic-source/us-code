@@ -3,9 +3,9 @@ title: "Section 9304 - Partnerships in sustainable chemistry"
 usc_title: 15
 usc_section: "9304"
 chapter: 118
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "15 U.S.C. § 9304"
-generated_at: "2026-03-30T01:39:11.481Z"
+generated_at: "2026-03-30T01:42:01.369Z"
 ---
 
 # § 9304. Partnerships in sustainable chemistry

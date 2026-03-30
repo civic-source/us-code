@@ -3,9 +3,9 @@ title: "Section 2881 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2881"
 chapter: 34
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "42 U.S.C. § 2881"
-generated_at: "2026-03-30T01:40:53.602Z"
+generated_at: "2026-03-30T01:43:40.005Z"
 ---
 
 # § 2881. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

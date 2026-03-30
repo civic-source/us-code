@@ -3,9 +3,9 @@ title: "Section 3712 - Notification of noncompliance"
 usc_title: 46
 usc_section: "3712"
 chapter: 37
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "46 U.S.C. § 3712"
-generated_at: "2026-03-30T01:41:00.424Z"
+generated_at: "2026-03-30T01:43:54.083Z"
 ---
 
 # § 3712. Notification of noncompliance

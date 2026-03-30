@@ -3,9 +3,9 @@ title: "Section 742a - Declaration of policy"
 usc_title: 16
 usc_section: "742a"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "16 U.S.C. § 742a"
-generated_at: "2026-03-30T01:39:30.835Z"
+generated_at: "2026-03-30T01:42:21.751Z"
 ---
 
 # § 742a. Declaration of policy

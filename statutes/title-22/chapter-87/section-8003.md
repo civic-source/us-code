@@ -3,9 +3,9 @@ title: "Section 8003 - Waiver authority and congressional approval"
 usc_title: 22
 usc_section: "8003"
 chapter: 87
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "22 U.S.C. § 8003"
-generated_at: "2026-03-30T01:39:56.262Z"
+generated_at: "2026-03-30T01:42:44.622Z"
 ---
 
 # § 8003. Waiver authority and congressional approval

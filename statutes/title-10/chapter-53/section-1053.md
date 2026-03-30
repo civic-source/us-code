@@ -3,9 +3,9 @@ title: "Section 1053 - Financial institution charges incurred because of Governm
 usc_title: 10
 usc_section: "1053"
 chapter: 53
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "10 U.S.C. § 1053"
-generated_at: "2026-03-30T01:38:58.703Z"
+generated_at: "2026-03-30T01:41:48.505Z"
 ---
 
 # § 1053. Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement

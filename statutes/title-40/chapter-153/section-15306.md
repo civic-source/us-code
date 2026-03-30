@@ -3,9 +3,9 @@ title: "Section 15306 - Personal financial interests"
 usc_title: 40
 usc_section: "15306"
 chapter: 153
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "40 U.S.C. § 15306"
-generated_at: "2026-03-30T01:40:29.817Z"
+generated_at: "2026-03-30T01:43:06.063Z"
 ---
 
 # § 15306. Personal financial interests

@@ -3,9 +3,9 @@ title: "Section 5 - Guidance document regarding product promotion using the Inte
 usc_title: 21
 usc_section: "5"
 chapter: 9
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "21 U.S.C. § 5"
-generated_at: "2026-03-30T01:39:43.335Z"
+generated_at: "2026-03-30T01:42:26.490Z"
 ---
 
 # § 379d–5. Guidance document regarding product promotion using the Internet

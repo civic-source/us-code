@@ -3,9 +3,9 @@ title: "Section 391 - Research and development projects"
 usc_title: 6
 usc_section: "391"
 chapter: 1
-current_through: "PL 118-82"
+current_through: "PL 118-90"
 classification: "6 U.S.C. § 391"
-generated_at: "2026-03-30T01:38:39.262Z"
+generated_at: "2026-03-30T01:41:35.342Z"
 ---
 
 # § 391. Research and development projects
