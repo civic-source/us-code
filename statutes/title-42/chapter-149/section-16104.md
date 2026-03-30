@@ -3,9 +3,9 @@ title: "Section 16104 - Reduction of engine idling"
 usc_title: 42
 usc_section: "16104"
 chapter: 149
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 16104"
-generated_at: "2026-03-30T04:23:02.429Z"
+generated_at: "2026-03-30T04:24:55.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 191 - Secretary of Defense: authority to provide for common perf
 usc_title: 10
 usc_section: "191"
 chapter: 8
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 191"
-generated_at: "2026-03-30T04:21:51.847Z"
+generated_at: "2026-03-30T04:23:32.975Z"
 status: "active"
 ---
 

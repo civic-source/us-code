@@ -3,9 +3,9 @@ title: "Section 7661 - Interrogation of witnesses by prize commissioners"
 usc_title: 10
 usc_section: "7661"
 chapter: 655
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 7661"
-generated_at: "2026-03-30T04:21:51.960Z"
+generated_at: "2026-03-30T04:23:33.085Z"
 status: "active"
 ---
 

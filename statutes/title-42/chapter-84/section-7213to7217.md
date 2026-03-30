@@ -3,9 +3,9 @@ title: "Section 7213to7217 - Repealed. Pub. L. 103–160, div. C, title XXXI, §
 usc_title: 42
 usc_section: "7213to7217"
 chapter: 84
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 7213to7217"
-generated_at: "2026-03-30T04:23:02.246Z"
+generated_at: "2026-03-30T04:24:55.277Z"
 status: "repealed"
 ---
 

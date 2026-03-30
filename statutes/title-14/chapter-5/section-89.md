@@ -3,9 +3,9 @@ title: "Section 89 - Law enforcement"
 usc_title: 14
 usc_section: "89"
 chapter: 5
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "14 U.S.C. § 89"
-generated_at: "2026-03-30T04:22:05.178Z"
+generated_at: "2026-03-30T04:23:41.915Z"
 status: "active"
 ---
 

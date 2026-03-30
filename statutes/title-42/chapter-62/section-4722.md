@@ -3,9 +3,9 @@ title: "Section 4722 - State government and statewide programs and grants"
 usc_title: 42
 usc_section: "4722"
 chapter: 62
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 4722"
-generated_at: "2026-03-30T04:23:02.176Z"
+generated_at: "2026-03-30T04:24:55.209Z"
 status: "active"
 ---
 

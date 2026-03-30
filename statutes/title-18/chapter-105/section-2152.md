@@ -3,9 +3,9 @@ title: "Section 2152 - Fortifications, harbor defenses, or defensive sea areas"
 usc_title: 18
 usc_section: "2152"
 chapter: 105
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "18 U.S.C. § 2152"
-generated_at: "2026-03-30T04:22:14.341Z"
+generated_at: "2026-03-30T04:23:51.200Z"
 status: "active"
 ---
 

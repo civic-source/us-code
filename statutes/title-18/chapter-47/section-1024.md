@@ -3,9 +3,9 @@ title: "Section 1024 - Purchase or receipt of military, naval, or veteran’s fa
 usc_title: 18
 usc_section: "1024"
 chapter: 47
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "18 U.S.C. § 1024"
-generated_at: "2026-03-30T04:22:14.328Z"
+generated_at: "2026-03-30T04:23:51.188Z"
 status: "active"
 ---
 

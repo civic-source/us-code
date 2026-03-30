@@ -3,9 +3,9 @@ title: "Section 61to64 - Repealed. Oct. 31, 1951, ch. 654, § 1(37) –(40), 65 
 usc_title: 20
 usc_section: "61to64"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 61to64"
-generated_at: "2026-03-30T04:22:17.050Z"
+generated_at: "2026-03-30T04:24:12.894Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T04:23:01.994Z"
+generated_at: "2026-03-30T04:24:55.028Z"
 status: "active"
 ---
 
@@ -86,9 +86,8 @@ For purposes of this subchapter—
   - **(5)** has in effect an overall plan and budget that meets the requirements of subsection (z) of this section;
   - **(6)** meets the conditions of participation specified in section 1395bbb(a) of this title and such other conditions of participation as the Secretary may find necessary in the interest of the health and safety of individuals who are furnished services by such agency or organization;
   - **(7)** provides the Secretary with a surety bond—
-    - **(A)** effective for a period of 4 years (as specified by the Secretary) or in the case of a change in the ownership or control of the agency (as determined by the Secretary) during or after such 4-year period, an additional period of time that the Secretary determines appropriate, such additional period not to exceed 4 years from the date of such change in ownership or control;
-    - **(B)** in a form specified by the Secretary; and
-    - **(C)** for a year in the period described in subparagraph (A) in an amount that is equal to the lesser of $50,000 or 10 percent of the aggregate amount of payments to the agency under this subchapter and subchapter XIX of this chapter for that year, as estimated by the Secretary that the Secretary determines is commensurate with the volume of the billing of the home health agency; and
+    - **(A)** in a form specified by the Secretary and in an amount that is not less than the minimum of $50,000; and
+    - **(B)** that the Secretary determines is commensurate with the volume of payments to the home health agency; and
   - **(8)** meets such additional requirements (including conditions relating to bonding or establishing of escrow accounts as the Secretary finds necessary for the financial security of the program) as the Secretary finds necessary for the effective and efficient operation of the program;
 - **(p)** The term “outpatient physical therapy services” means physical therapy services furnished by a provider of services, a clinic, rehabilitation agency, or a public health agency, or by others under an arrangement with, and under the supervision of, such provider, clinic, rehabilitation agency, or public health agency to an individual as an outpatient—
   - **(1)** who is under the care of a physician (as defined in paragraph (1), (3), or (4) of subsection (r) of this section), and

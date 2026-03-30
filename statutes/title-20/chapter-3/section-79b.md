@@ -3,9 +3,9 @@ title: "Section 79b - Functions of Smithsonian Institution"
 usc_title: 20
 usc_section: "79b"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 79b"
-generated_at: "2026-03-30T04:22:17.052Z"
+generated_at: "2026-03-30T04:24:12.896Z"
 status: "active"
 ---
 

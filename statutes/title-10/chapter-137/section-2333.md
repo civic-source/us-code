@@ -3,9 +3,9 @@ title: "Section 2333 - Joint policies on requirements definition, contingency pr
 usc_title: 10
 usc_section: "2333"
 chapter: 137
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 2333"
-generated_at: "2026-03-30T04:21:51.913Z"
+generated_at: "2026-03-30T04:23:33.040Z"
 status: "active"
 ---
 

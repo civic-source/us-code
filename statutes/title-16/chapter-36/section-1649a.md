@@ -3,9 +3,9 @@ title: "Section 1649a - Repealed. Pub. L. 113–79, title VIII, § 8004 , Feb. 7
 usc_title: 16
 usc_section: "1649a"
 chapter: 36
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 1649a"
-generated_at: "2026-03-30T04:22:19.768Z"
+generated_at: "2026-03-30T04:23:54.124Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4351 - Cadets: deficiencies in conduct or studies; effect of fai
 usc_title: 10
 usc_section: "4351"
 chapter: 403
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 4351"
-generated_at: "2026-03-30T04:21:51.945Z"
+generated_at: "2026-03-30T04:23:33.071Z"
 status: "active"
 ---
 

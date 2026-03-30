@@ -3,9 +3,9 @@ title: "Section 2345 - Electronic submission of permit applications"
 usc_title: 33
 usc_section: "2345"
 chapter: 36
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "33 U.S.C. § 2345"
-generated_at: "2026-03-30T04:22:43.082Z"
+generated_at: "2026-03-30T04:24:37.332Z"
 status: "active"
 ---
 

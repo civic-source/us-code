@@ -3,9 +3,9 @@ title: "Section 37 - Proceedings for patent where boundaries contain vein or lod
 usc_title: 30
 usc_section: "37"
 chapter: 2
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "30 U.S.C. § 37"
-generated_at: "2026-03-30T04:22:34.335Z"
+generated_at: "2026-03-30T04:24:25.407Z"
 status: "active"
 ---
 

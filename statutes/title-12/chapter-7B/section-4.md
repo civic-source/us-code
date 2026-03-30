@@ -3,9 +3,9 @@ title: "Section 4 - Security for economic disaster and special livestock loans"
 usc_title: 12
 usc_section: "4"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T04:22:08.273Z"
+generated_at: "2026-03-30T04:23:46.695Z"
 status: "active"
 ---
 

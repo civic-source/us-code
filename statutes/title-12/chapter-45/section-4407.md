@@ -3,9 +3,9 @@ title: "Section 4407 - National emergencies"
 usc_title: 12
 usc_section: "4407"
 chapter: 45
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 4407"
-generated_at: "2026-03-30T04:22:08.373Z"
+generated_at: "2026-03-30T04:23:46.802Z"
 status: "active"
 ---
 

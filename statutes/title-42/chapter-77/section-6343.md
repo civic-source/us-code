@@ -3,9 +3,9 @@ title: "Section 6343 - Waste energy recovery incentive grant program"
 usc_title: 42
 usc_section: "6343"
 chapter: 77
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 6343"
-generated_at: "2026-03-30T04:23:02.221Z"
+generated_at: "2026-03-30T04:24:55.254Z"
 status: "active"
 ---
 

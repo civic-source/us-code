@@ -3,9 +3,9 @@ title: "Section 7361 - Authority to provide for necessary salvage facilities"
 usc_title: 10
 usc_section: "7361"
 chapter: 637
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 7361"
-generated_at: "2026-03-30T04:21:51.958Z"
+generated_at: "2026-03-30T04:23:33.083Z"
 status: "active"
 ---
 

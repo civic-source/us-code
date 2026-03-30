@@ -3,9 +3,9 @@ title: "Section 473 - Dealing in counterfeit obligations or securities"
 usc_title: 18
 usc_section: "473"
 chapter: 25
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "18 U.S.C. § 473"
-generated_at: "2026-03-30T04:22:14.316Z"
+generated_at: "2026-03-30T04:23:51.176Z"
 status: "active"
 ---
 

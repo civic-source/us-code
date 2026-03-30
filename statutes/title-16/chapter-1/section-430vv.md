@@ -3,9 +3,9 @@ title: "Section 430vv - River Raisin National Battlefield Park"
 usc_title: 16
 usc_section: "430vv"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 430vv"
-generated_at: "2026-03-30T04:22:19.642Z"
+generated_at: "2026-03-30T04:23:54.002Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** The Secretary shall prepare a legal description of the land and interests in land designated as the Park by paragraph (2).
     - **(B)** A map with the legal description shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(b)**
-  - **(1)** The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title and sections 461 to 467 of this title.
+  - **(1)** The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with the National Park Service Organic Act ( 16 U.S.C. 1 et seq.) 1 1 See References in Text note below. and the Act of August 21, 1935 ( 16 U.S.C. 461 et seq.). 1
   - **(2)**
     - **(A)** Not later than 3 years after the date on which funds are made available, the Secretary shall complete a general management plan for the Park that, among other things, defines the role and responsibility of the Secretary with regard to the interpretation and the preservation of the site.
     - **(B)** The Secretary shall consult with and solicit advice and recommendations from State, county, local, and civic organizations and leaders, and other interested parties in the preparation of the management plan.

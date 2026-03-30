@@ -3,9 +3,9 @@ title: "Section 20154 - Capital grants for rail line relocation projects"
 usc_title: 49
 usc_section: "20154"
 chapter: 201
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "49 U.S.C. § 20154"
-generated_at: "2026-03-30T04:23:08.989Z"
+generated_at: "2026-03-30T04:25:02.296Z"
 status: "active"
 ---
 

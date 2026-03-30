@@ -3,9 +3,9 @@ title: "Section 1314b - National Advisory Committee on the Sex Trafficking of Ch
 usc_title: 42
 usc_section: "1314b"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1314b"
-generated_at: "2026-03-30T04:23:01.937Z"
+generated_at: "2026-03-30T04:24:54.968Z"
 status: "active"
 ---
 

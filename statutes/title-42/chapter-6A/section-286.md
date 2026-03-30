@@ -3,9 +3,9 @@ title: "Section 286 - National Library of Medicine"
 usc_title: 42
 usc_section: "286"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 286"
-generated_at: "2026-03-30T04:23:01.825Z"
+generated_at: "2026-03-30T04:24:54.856Z"
 status: "active"
 ---
 

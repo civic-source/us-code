@@ -3,9 +3,9 @@ title: "Section 562 - Timing of damage measurement in connection with swap agree
 usc_title: 11
 usc_section: "562"
 chapter: 5
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "11 U.S.C. § 562"
-generated_at: "2026-03-30T04:22:10.986Z"
+generated_at: "2026-03-30T04:23:42.231Z"
 status: "active"
 ---
 

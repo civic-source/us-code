@@ -3,9 +3,9 @@ title: "Section 8771to8780 - Omitted"
 usc_title: 42
 usc_section: "8771to8780"
 chapter: 95
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 8771to8780"
-generated_at: "2026-03-30T04:23:02.299Z"
+generated_at: "2026-03-30T04:24:55.330Z"
 status: "omitted"
 ---
 

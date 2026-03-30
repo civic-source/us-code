@@ -3,9 +3,9 @@ title: "Section 2937 - Judicial review"
 usc_title: 29
 usc_section: "2937"
 chapter: 30
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "29 U.S.C. § 2937"
-generated_at: "2026-03-30T04:22:39.612Z"
+generated_at: "2026-03-30T04:24:27.388Z"
 status: "active"
 ---
 

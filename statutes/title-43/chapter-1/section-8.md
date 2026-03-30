@@ -3,9 +3,9 @@ title: "Section 8 - Omitted"
 usc_title: 43
 usc_section: "8"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "43 U.S.C. § 8"
-generated_at: "2026-03-30T04:22:48.739Z"
+generated_at: "2026-03-30T04:24:43.303Z"
 status: "omitted"
 ---
 

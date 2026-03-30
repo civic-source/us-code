@@ -3,9 +3,9 @@ title: "Section 60501 - Vessels allowed to import"
 usc_title: 46
 usc_section: "60501"
 chapter: 605
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "46 U.S.C. § 60501"
-generated_at: "2026-03-30T04:23:06.912Z"
+generated_at: "2026-03-30T04:24:59.954Z"
 status: "active"
 ---
 

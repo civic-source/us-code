@@ -3,9 +3,9 @@ title: "Section 7311a - Able seamen—fishing industry"
 usc_title: 46
 usc_section: "7311a"
 chapter: 73
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "46 U.S.C. § 7311a"
-generated_at: "2026-03-30T04:23:06.889Z"
+generated_at: "2026-03-30T04:24:59.930Z"
 status: "active"
 ---
 

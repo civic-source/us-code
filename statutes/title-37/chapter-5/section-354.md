@@ -3,9 +3,9 @@ title: "Section 354 - Special pay: 15-year career status bonus for members enter
 usc_title: 37
 usc_section: "354"
 chapter: 5
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "37 U.S.C. § 354"
-generated_at: "2026-03-30T04:22:44.985Z"
+generated_at: "2026-03-30T04:24:41.820Z"
 status: "active"
 ---
 

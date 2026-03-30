@@ -3,9 +3,9 @@ title: "Section 7618 - Additional program requirements"
 usc_title: 38
 usc_section: "7618"
 chapter: 76
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "38 U.S.C. § 7618"
-generated_at: "2026-03-30T04:22:46.970Z"
+generated_at: "2026-03-30T04:24:41.493Z"
 status: "active"
 ---
 

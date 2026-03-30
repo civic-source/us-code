@@ -3,9 +3,9 @@ title: "Section 41701 - Classification of air carriers"
 usc_title: 49
 usc_section: "41701"
 chapter: 417
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "49 U.S.C. § 41701"
-generated_at: "2026-03-30T04:23:09.015Z"
+generated_at: "2026-03-30T04:25:02.323Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101 - Eligibility, enrollment, and information"
 usc_title: 42
 usc_section: "101"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 101"
-generated_at: "2026-03-30T04:23:01.987Z"
+generated_at: "2026-03-30T04:24:55.021Z"
 status: "active"
 ---
 
@@ -29,8 +29,8 @@ status: "active"
     - **(A)** The Secretary shall establish a process for the enrollment, disenrollment, termination, and change of enrollment of part D eligible individuals in prescription drug plans consistent with this subsection.
     - **(B)** In establishing such process, the Secretary shall use rules similar to (and coordinated with) the rules for enrollment, disenrollment, termination, and change of enrollment with an MA–PD plan under the following provisions of section 1395w–21 of this title :
       - **(i)** Section 1395w–21(b)(1)(A) of this title , relating to residence requirements.
-      - **(ii)** Section 1395w–21(c) of this title (other than paragraph (3)(A) of such section), relating to exercise of choice.
-      - **(iii)** Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), and (E) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
+      - **(ii)** Section 1395w–21(c) of this title (other than paragraph (3)(A) and paragraph (4) of such section), relating to exercise of choice.
+      - **(iii)** Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
       - **(iv)** Section 1395w–21(f) of this title , relating to effectiveness of elections and changes of elections.
       - **(v)** Section 1395w–21(g) of this title (other than paragraph (2) of such section and clause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
       - **(vi)** Section 1395w–21(h) of this title , relating to approval of marketing material and application forms.

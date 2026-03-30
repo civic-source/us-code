@@ -3,9 +3,9 @@ title: "Section 10308 - Patent policy"
 usc_title: 42
 usc_section: "10308"
 chapter: 109
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 10308"
-generated_at: "2026-03-30T04:23:02.338Z"
+generated_at: "2026-03-30T04:24:55.365Z"
 status: "active"
 ---
 

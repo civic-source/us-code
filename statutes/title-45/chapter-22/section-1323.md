@@ -3,9 +3,9 @@ title: "Section 1323 - Board of Directors"
 usc_title: 45
 usc_section: "1323"
 chapter: 22
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "45 U.S.C. § 1323"
-generated_at: "2026-03-30T04:22:50.111Z"
+generated_at: "2026-03-30T04:24:44.698Z"
 status: "active"
 ---
 

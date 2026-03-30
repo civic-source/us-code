@@ -3,9 +3,9 @@ title: "Section 684 - Cooperation by commission with State authorities"
 usc_title: 33
 usc_section: "684"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "33 U.S.C. § 684"
-generated_at: "2026-03-30T04:22:43.035Z"
+generated_at: "2026-03-30T04:24:37.286Z"
 status: "active"
 ---
 

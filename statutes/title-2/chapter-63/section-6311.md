@@ -3,9 +3,9 @@ title: "Section 6311 - Organizational expenses of Senator-elect"
 usc_title: 2
 usc_section: "6311"
 chapter: 63
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "2 U.S.C. § 6311"
-generated_at: "2026-03-30T04:21:08.620Z"
+generated_at: "2026-03-30T04:23:22.000Z"
 status: "active"
 ---
 

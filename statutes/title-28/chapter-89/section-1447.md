@@ -3,9 +3,9 @@ title: "Section 1447 - Procedure after removal generally"
 usc_title: 28
 usc_section: "1447"
 chapter: 89
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "28 U.S.C. § 1447"
-generated_at: "2026-03-30T04:22:34.043Z"
+generated_at: "2026-03-30T04:24:26.428Z"
 status: "active"
 ---
 

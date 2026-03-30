@@ -3,9 +3,9 @@ title: "Section 1814 - Insured depository institutions"
 usc_title: 12
 usc_section: "1814"
 chapter: 16
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 1814"
-generated_at: "2026-03-30T04:22:08.320Z"
+generated_at: "2026-03-30T04:23:46.745Z"
 status: "active"
 ---
 

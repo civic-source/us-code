@@ -3,9 +3,9 @@ title: "Section 9164 - Submarine electric transmission cable and equipment safet
 usc_title: 42
 usc_section: "9164"
 chapter: 99
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 9164"
-generated_at: "2026-03-30T04:23:02.304Z"
+generated_at: "2026-03-30T04:24:55.334Z"
 status: "active"
 ---
 

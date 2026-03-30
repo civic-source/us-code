@@ -3,9 +3,9 @@ title: "Section 1321 - Filing of plan"
 usc_title: 11
 usc_section: "1321"
 chapter: 13
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "11 U.S.C. § 1321"
-generated_at: "2026-03-30T04:22:10.991Z"
+generated_at: "2026-03-30T04:23:42.237Z"
 status: "active"
 ---
 

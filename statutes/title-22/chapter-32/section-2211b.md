@@ -3,9 +3,9 @@ title: "Section 2211b - Monitoring system"
 usc_title: 22
 usc_section: "2211b"
 chapter: 32
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 2211b"
-generated_at: "2026-03-30T04:22:26.414Z"
+generated_at: "2026-03-30T04:24:18.349Z"
 status: "active"
 ---
 

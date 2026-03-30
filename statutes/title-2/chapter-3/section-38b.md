@@ -3,9 +3,9 @@ title: "Section 38b - Omitted"
 usc_title: 2
 usc_section: "38b"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "2 U.S.C. § 38b"
-generated_at: "2026-03-30T04:21:08.555Z"
+generated_at: "2026-03-30T04:23:21.949Z"
 status: "omitted"
 ---
 

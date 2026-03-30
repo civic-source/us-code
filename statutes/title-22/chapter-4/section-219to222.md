@@ -3,9 +3,9 @@ title: "Section 219to222 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 86
 usc_title: 22
 usc_section: "219to222"
 chapter: 4
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 219to222"
-generated_at: "2026-03-30T04:22:26.372Z"
+generated_at: "2026-03-30T04:24:18.307Z"
 status: "repealed"
 ---
 

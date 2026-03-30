@@ -3,9 +3,9 @@ title: "Section 671 - Use of funds of the Ute Indian Tribe of the Uintah and Our
 usc_title: 25
 usc_section: "671"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 671"
-generated_at: "2026-03-30T04:22:24.109Z"
+generated_at: "2026-03-30T04:24:20.393Z"
 status: "active"
 ---
 

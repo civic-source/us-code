@@ -3,9 +3,9 @@ title: "Section 5211 - Purchases of troubled assets"
 usc_title: 12
 usc_section: "5211"
 chapter: 52
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 5211"
-generated_at: "2026-03-30T04:22:08.388Z"
+generated_at: "2026-03-30T04:23:46.817Z"
 status: "active"
 ---
 

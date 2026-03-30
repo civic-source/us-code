@@ -3,9 +3,9 @@ title: "Section 6561c - State reservation"
 usc_title: 20
 usc_section: "6561c"
 chapter: 70
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 6561c"
-generated_at: "2026-03-30T04:22:17.163Z"
+generated_at: "2026-03-30T04:24:13.079Z"
 status: "active"
 ---
 

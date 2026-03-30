@@ -3,15 +3,15 @@ title: "Section 3 - Administration of National Preserve"
 usc_title: 16
 usc_section: "3"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T04:22:19.713Z"
+generated_at: "2026-03-30T04:23:54.070Z"
 status: "active"
 ---
 
 # § 698u–3. Administration of National Preserve
 
-- **(a)** The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title and sections 461 to 467 1 of this title.
+- **(a)** The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 16 U.S.C. 1 , 2 through 4) 1 1 See References in Text note below. and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461 et seq.). 1
 - **(b)** With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning the National Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
 - **(c)** For purposes of carrying out the duties of the Secretary under sections 698u to 698u–7 of this title relating to the Preserve, the Secretary may, with the consent of a landowner, directly or by contract, construct, reconstruct, rehabilitate, or develop essential buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property that is not owned by the Federal Government and is located within the Preserve.
 - **(d)**

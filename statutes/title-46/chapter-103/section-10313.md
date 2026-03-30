@@ -3,9 +3,9 @@ title: "Section 10313 - Wages"
 usc_title: 46
 usc_section: "10313"
 chapter: 103
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "46 U.S.C. § 10313"
-generated_at: "2026-03-30T04:23:06.892Z"
+generated_at: "2026-03-30T04:24:59.933Z"
 status: "active"
 ---
 

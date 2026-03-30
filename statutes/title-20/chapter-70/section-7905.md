@@ -3,9 +3,9 @@ title: "Section 7905 - Equal access to public school facilities"
 usc_title: 20
 usc_section: "7905"
 chapter: 70
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 7905"
-generated_at: "2026-03-30T04:22:17.191Z"
+generated_at: "2026-03-30T04:24:13.108Z"
 status: "active"
 ---
 

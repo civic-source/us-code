@@ -3,9 +3,9 @@ title: "Section 2290 - Jurisdiction and scope"
 usc_title: 18
 usc_section: "2290"
 chapter: 111
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "18 U.S.C. § 2290"
-generated_at: "2026-03-30T04:22:14.345Z"
+generated_at: "2026-03-30T04:23:51.204Z"
 status: "active"
 ---
 

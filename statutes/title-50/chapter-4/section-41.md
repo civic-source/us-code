@@ -3,9 +3,9 @@ title: "Section 41 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 50
 usc_section: "41"
 chapter: 4
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "50 U.S.C. § 41"
-generated_at: "2026-03-30T04:23:06.031Z"
+generated_at: "2026-03-30T04:24:59.196Z"
 status: "repealed"
 ---
 

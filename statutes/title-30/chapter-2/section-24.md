@@ -3,9 +3,9 @@ title: "Section 24 - Proof of citizenship"
 usc_title: 30
 usc_section: "24"
 chapter: 2
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "30 U.S.C. § 24"
-generated_at: "2026-03-30T04:22:34.333Z"
+generated_at: "2026-03-30T04:24:25.406Z"
 status: "active"
 ---
 

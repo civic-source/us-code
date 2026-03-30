@@ -3,9 +3,9 @@ title: "Section 2176to2178 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A
 usc_title: 22
 usc_section: "2176to2178"
 chapter: 32
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 2176to2178"
-generated_at: "2026-03-30T04:22:26.412Z"
+generated_at: "2026-03-30T04:24:18.347Z"
 status: "repealed"
 ---
 

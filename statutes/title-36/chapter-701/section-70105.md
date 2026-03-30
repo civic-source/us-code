@@ -3,9 +3,9 @@ title: "Section 70105 - Governing body"
 usc_title: 36
 usc_section: "70105"
 chapter: 701
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "36 U.S.C. § 70105"
-generated_at: "2026-03-30T04:22:45.680Z"
+generated_at: "2026-03-30T04:24:39.598Z"
 status: "active"
 ---
 

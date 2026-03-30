@@ -3,9 +3,9 @@ title: "Section 192 - Payment of royalties in oil or gas; sale of such oil or ga
 usc_title: 30
 usc_section: "192"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "30 U.S.C. § 192"
-generated_at: "2026-03-30T04:22:34.338Z"
+generated_at: "2026-03-30T04:24:25.410Z"
 status: "active"
 ---
 

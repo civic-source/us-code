@@ -3,9 +3,9 @@ title: "Section 2501 - Acceptance of voluntary services and money or property"
 usc_title: 36
 usc_section: "2501"
 chapter: 25
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "36 U.S.C. § 2501"
-generated_at: "2026-03-30T04:22:45.674Z"
+generated_at: "2026-03-30T04:24:39.592Z"
 status: "active"
 ---
 

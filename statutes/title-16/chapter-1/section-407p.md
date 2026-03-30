@@ -3,9 +3,9 @@ title: "Section 407p - Establishment of advisory commission; composition, appoin
 usc_title: 16
 usc_section: "407p"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 407p"
-generated_at: "2026-03-30T04:22:19.618Z"
+generated_at: "2026-03-30T04:23:53.979Z"
 status: "active"
 ---
 

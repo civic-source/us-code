@@ -3,9 +3,9 @@ title: "Section 364to365 - Transferred"
 usc_title: 48
 usc_section: "364to365"
 chapter: 2
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "48 U.S.C. § 364to365"
-generated_at: "2026-03-30T04:23:05.017Z"
+generated_at: "2026-03-30T04:24:57.982Z"
 status: "transferred"
 ---
 

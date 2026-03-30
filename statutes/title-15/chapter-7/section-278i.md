@@ -3,9 +3,9 @@ title: "Section 278i - Reports to Congress"
 usc_title: 15
 usc_section: "278i"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "15 U.S.C. § 278i"
-generated_at: "2026-03-30T04:22:10.068Z"
+generated_at: "2026-03-30T04:23:45.002Z"
 status: "active"
 ---
 

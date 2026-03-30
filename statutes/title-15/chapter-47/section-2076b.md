@@ -3,9 +3,9 @@ title: "Section 2076b - Inspector General audits and reports"
 usc_title: 15
 usc_section: "2076b"
 chapter: 47
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "15 U.S.C. § 2076b"
-generated_at: "2026-03-30T04:22:10.141Z"
+generated_at: "2026-03-30T04:23:45.076Z"
 status: "active"
 ---
 

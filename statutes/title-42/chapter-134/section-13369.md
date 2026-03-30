@@ -3,9 +3,9 @@ title: "Section 13369 - Establishment of data base and study of transportation r
 usc_title: 42
 usc_section: "13369"
 chapter: 134
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 13369"
-generated_at: "2026-03-30T04:23:02.390Z"
+generated_at: "2026-03-30T04:24:55.418Z"
 status: "active"
 ---
 

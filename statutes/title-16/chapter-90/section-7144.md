@@ -3,13 +3,13 @@ title: "Section 7144 - Termination of authority"
 usc_title: 16
 usc_section: "7144"
 chapter: 90
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 7144"
-generated_at: "2026-03-30T04:22:19.824Z"
+generated_at: "2026-03-30T04:23:54.180Z"
 status: "active"
 ---
 
 # § 7144. Termination of authority
 
-- **(a)** The authority to initiate projects under this subchapter terminates on September 30, 2013 .
-- **(b)** Any county funds not obligated by September 30, 2014 , shall be returned to the Treasury of the United States.
+- **(a)** The authority to initiate projects under this subchapter terminates on September 30, 2017 .
+- **(b)** Any county funds not obligated by September 30, 2018 , shall be returned to the Treasury of the United States.

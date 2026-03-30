@@ -3,9 +3,9 @@ title: "Section 321 - Application for membership"
 usc_title: 12
 usc_section: "321"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 321"
-generated_at: "2026-03-30T04:22:08.262Z"
+generated_at: "2026-03-30T04:23:46.684Z"
 status: "active"
 ---
 

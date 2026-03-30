@@ -3,9 +3,9 @@ title: "Section 2507 - Application with respect to Indian Self-Determination and
 usc_title: 25
 usc_section: "2507"
 chapter: 27
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 2507"
-generated_at: "2026-03-30T04:22:24.199Z"
+generated_at: "2026-03-30T04:24:20.441Z"
 status: "active"
 ---
 

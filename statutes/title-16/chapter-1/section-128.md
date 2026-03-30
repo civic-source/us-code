@@ -3,9 +3,9 @@ title: "Section 128 - Forfeitures or seizures of guns, traps, teams, etc., for v
 usc_title: 16
 usc_section: "128"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 128"
-generated_at: "2026-03-30T04:22:19.602Z"
+generated_at: "2026-03-30T04:23:53.963Z"
 status: "active"
 ---
 

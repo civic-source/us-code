@@ -3,9 +3,9 @@ title: "Section 118 - Quadrennial defense review"
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T04:21:51.841Z"
+generated_at: "2026-03-30T04:23:32.969Z"
 status: "active"
 ---
 
@@ -71,7 +71,7 @@ status: "active"
     - **(C)** The Panel shall have the authorities provided in section 3161 of title 5 and shall be subject to the conditions set forth in such section.
     - **(D)** Funds for activities of the Panel shall be provided from amounts available to the Department of Defense.
   - **(10)** The Panel for a quadrennial defense review shall terminate 45 days after the date on which the Panel submits its final report on the quadrennial defense review under paragraph (7).
-- **[(g)** Repealed. Pub. L. 113–291, div. A, title X, § 1071(f)(1) , Dec. 19, 2014 , 128 Stat. 3510 ]
+- **[(g)** Repealed. Pub. L. 113–291, div. A, title X, § 1071(f)(1) , Dec. 19, 2014 , 128 Stat. 3510 .]
 - **(h)** Nothing in this section shall be construed to affect section 1105(a) of title 31 .
 - **(i)**
   - **(1)** Not later than 90 days after submitting a report on a quadrennial defense review under subsection (d), the Secretary of Defense shall submit to the congressional defense committees a report detailing how the results of the assessment conducted as part of such review will impact—

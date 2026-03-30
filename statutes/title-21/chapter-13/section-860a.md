@@ -3,9 +3,9 @@ title: "Section 860a - Consecutive sentence for manufacturing or distributing, o
 usc_title: 21
 usc_section: "860a"
 chapter: 13
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "21 U.S.C. § 860a"
-generated_at: "2026-03-30T04:22:22.793Z"
+generated_at: "2026-03-30T04:24:19.493Z"
 status: "active"
 ---
 

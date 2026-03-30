@@ -3,9 +3,9 @@ title: "Section 3315to3324 - Repealed. Pub. L. 113–187, § 7(a) , Nov. 26, 201
 usc_title: 44
 usc_section: "3315to3324"
 chapter: 33
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "44 U.S.C. § 3315to3324"
-generated_at: "2026-03-30T04:22:50.531Z"
+generated_at: "2026-03-30T04:24:44.477Z"
 status: "repealed"
 ---
 

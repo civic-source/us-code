@@ -3,9 +3,9 @@ title: "Section 602 - Bidding; advertising and other notice; conditions for nego
 usc_title: 30
 usc_section: "602"
 chapter: 15
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "30 U.S.C. § 602"
-generated_at: "2026-03-30T04:22:34.343Z"
+generated_at: "2026-03-30T04:24:25.416Z"
 status: "active"
 ---
 

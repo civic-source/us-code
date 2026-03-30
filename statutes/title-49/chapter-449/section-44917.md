@@ -3,9 +3,9 @@ title: "Section 44917 - Deployment of Federal air marshals"
 usc_title: 49
 usc_section: "44917"
 chapter: 449
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "49 U.S.C. § 44917"
-generated_at: "2026-03-30T04:23:09.026Z"
+generated_at: "2026-03-30T04:25:02.335Z"
 status: "active"
 ---
 

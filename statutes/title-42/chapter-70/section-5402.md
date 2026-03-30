@@ -3,9 +3,9 @@ title: "Section 5402 - Definitions"
 usc_title: 42
 usc_section: "5402"
 chapter: 70
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 5402"
-generated_at: "2026-03-30T04:23:02.195Z"
+generated_at: "2026-03-30T04:24:55.228Z"
 status: "active"
 ---
 

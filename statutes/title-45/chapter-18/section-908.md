@@ -3,9 +3,9 @@ title: "Section 908 - Employee protection agreements"
 usc_title: 45
 usc_section: "908"
 chapter: 18
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "45 U.S.C. § 908"
-generated_at: "2026-03-30T04:22:50.108Z"
+generated_at: "2026-03-30T04:24:44.695Z"
 status: "active"
 ---
 

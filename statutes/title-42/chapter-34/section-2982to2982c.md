@@ -3,9 +3,9 @@ title: "Section 2982to2982c - Repealed. Pub. L. 97–35, title VI, § 683(a) , A
 usc_title: 42
 usc_section: "2982to2982c"
 chapter: 34
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 2982to2982c"
-generated_at: "2026-03-30T04:23:02.130Z"
+generated_at: "2026-03-30T04:24:55.164Z"
 status: "repealed"
 ---
 

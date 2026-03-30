@@ -3,9 +3,9 @@ title: "Section 996 - Rules for allocation in the case of distributions and loss
 usc_title: 26
 usc_section: "996"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "26 U.S.C. § 996"
-generated_at: "2026-03-30T04:22:38.261Z"
+generated_at: "2026-03-30T04:24:33.703Z"
 status: "active"
 ---
 

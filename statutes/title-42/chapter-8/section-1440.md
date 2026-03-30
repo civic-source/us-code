@@ -3,9 +3,9 @@ title: "Section 1440 - State housing finance and development agencies"
 usc_title: 42
 usc_section: "1440"
 chapter: 8
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1440"
-generated_at: "2026-03-30T04:23:02.068Z"
+generated_at: "2026-03-30T04:24:55.104Z"
 status: "active"
 ---
 

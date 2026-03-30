@@ -3,9 +3,9 @@ title: "Section 3243 - Jurisdiction of State of Kansas over offenses committed b
 usc_title: 18
 usc_section: "3243"
 chapter: 211
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "18 U.S.C. § 3243"
-generated_at: "2026-03-30T04:22:14.356Z"
+generated_at: "2026-03-30T04:23:51.214Z"
 status: "active"
 ---
 

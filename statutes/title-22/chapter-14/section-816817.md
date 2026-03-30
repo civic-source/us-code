@@ -3,9 +3,9 @@ title: "Section 816817 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct.
 usc_title: 22
 usc_section: "816817"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 816817"
-generated_at: "2026-03-30T04:22:26.395Z"
+generated_at: "2026-03-30T04:24:18.330Z"
 status: "repealed"
 ---
 

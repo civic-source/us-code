@@ -3,9 +3,9 @@ title: "Section 5536 - Repealed. Pub. L. 85–861, § 36B(13) , Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "5536"
 chapter: 537
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 5536"
-generated_at: "2026-03-30T04:21:51.951Z"
+generated_at: "2026-03-30T04:23:33.076Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6715 - Cooperative civic education and economic education exchan
 usc_title: 20
 usc_section: "6715"
 chapter: 70
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 6715"
-generated_at: "2026-03-30T04:22:17.166Z"
+generated_at: "2026-03-30T04:24:13.083Z"
 status: "active"
 ---
 

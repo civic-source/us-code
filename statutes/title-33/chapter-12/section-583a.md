@@ -3,9 +3,9 @@ title: "Section 583a - Payment of pay and allowances of officers of Corps of Eng
 usc_title: 33
 usc_section: "583a"
 chapter: 12
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "33 U.S.C. § 583a"
-generated_at: "2026-03-30T04:22:43.032Z"
+generated_at: "2026-03-30T04:24:37.282Z"
 status: "active"
 ---
 

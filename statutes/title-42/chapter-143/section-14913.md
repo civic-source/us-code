@@ -3,9 +3,9 @@ title: "Section 14913 - Responsibilities of the Attorney General"
 usc_title: 42
 usc_section: "14913"
 chapter: 143
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 14913"
-generated_at: "2026-03-30T04:23:02.414Z"
+generated_at: "2026-03-30T04:24:55.441Z"
 status: "active"
 ---
 

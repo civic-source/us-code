@@ -3,9 +3,9 @@ title: "Section 5946 - Precedence accorded commanding officers"
 usc_title: 10
 usc_section: "5946"
 chapter: 551
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 5946"
-generated_at: "2026-03-30T04:21:51.951Z"
+generated_at: "2026-03-30T04:23:33.077Z"
 status: "active"
 ---
 

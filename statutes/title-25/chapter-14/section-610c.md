@@ -3,9 +3,9 @@ title: "Section 610c - Mortgages or deeds in trust; law governing mortgage forec
 usc_title: 25
 usc_section: "610c"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 610c"
-generated_at: "2026-03-30T04:22:24.105Z"
+generated_at: "2026-03-30T04:24:20.389Z"
 status: "active"
 ---
 

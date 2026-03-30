@@ -3,9 +3,9 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T04:23:01.940Z"
+generated_at: "2026-03-30T04:24:54.970Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(9)** 4 knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, bid, or contract to participate or enroll as a provider of services or a supplier under a Federal health care program (as so defined), including Medicare Advantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans; 5 5 So in original. Probably should be followed by “or”.
   - **(10)** knows of an overpayment (as defined in paragraph (4) of section 1320a–7k(d) of this title ) and does not report and return the overpayment in accordance with such section;
 - **(b)**
-  - **(1)** If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit services provided with respect to individuals who—
+  - **(1)** If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit medically necessary services provided with respect to individuals who—
     - **(A)** are entitled to benefits under part A or part B of subchapter XVIII of this chapter or to medical assistance under a State plan approved under subchapter XIX of this chapter, and
     - **(B)** are under the direct care of the physician,
   - **(2)** Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each individual described in such paragraph with respect to whom the payment is made.

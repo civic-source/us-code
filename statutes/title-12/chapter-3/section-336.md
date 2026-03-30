@@ -3,9 +3,9 @@ title: "Section 336 - Certificates of stock; representation of stock of other co
 usc_title: 12
 usc_section: "336"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 336"
-generated_at: "2026-03-30T04:22:08.264Z"
+generated_at: "2026-03-30T04:23:46.685Z"
 status: "active"
 ---
 

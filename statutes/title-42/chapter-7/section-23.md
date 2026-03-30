@@ -3,9 +3,9 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T04:23:01.982Z"
+generated_at: "2026-03-30T04:24:55.016Z"
 status: "active"
 ---
 
@@ -426,4 +426,7 @@ status: "active"
   - **(4)**
     - **(A)** The quality rating for a plan shall be determined according to a 5-star rating system (based on the data collected under section 1395w–22(e) of this title ).
     - **(B)** An MA plan which does not report data that enables the Secretary to rate the plan for purposes of this paragraph shall be counted as having a rating of fewer than 3.5 stars.
+    - **(C)** For purposes of applying paragraph (1) and section 1395w–24(b)(1)(C) of this title for the first 3 plan years under this part in the case of an MA plan to which deemed enrollment applies under section 1395w–21(c)(4) of this title —
+      - **(i)** such plan shall not be treated as a new MA plan (as defined in paragraph (3)(A)(iii)(II)); and
+      - **(ii)** in determining the star rating of the plan under subparagraph (A), to the extent that Medicare Advantage data for such plan is not available for a measure used to determine such star rating, the Secretary shall use data from the period in which such plan was a reasonable cost reimbursement contract.
   - **(5)** This subsection shall not apply to payments to a PACE program under section 1395eee of this title .

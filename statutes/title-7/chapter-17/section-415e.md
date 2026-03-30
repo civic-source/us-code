@@ -3,9 +3,9 @@ title: "Section 415e - Farm or food products; sale of samples, practical forms, 
 usc_title: 7
 usc_section: "415e"
 chapter: 17
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "7 U.S.C. § 415e"
-generated_at: "2026-03-30T04:21:35.473Z"
+generated_at: "2026-03-30T04:23:26.395Z"
 status: "active"
 ---
 

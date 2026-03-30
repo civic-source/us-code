@@ -3,9 +3,9 @@ title: "Section 322 - Office of National Veterans Sports Programs and Special Ev
 usc_title: 38
 usc_section: "322"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "38 U.S.C. § 322"
-generated_at: "2026-03-30T04:22:46.922Z"
+generated_at: "2026-03-30T04:24:41.445Z"
 status: "active"
 ---
 

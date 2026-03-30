@@ -3,9 +3,9 @@ title: "Section 9861to9864 - Repealed. Pub. L. 111–358, title X, § 1002(a)(4)
 usc_title: 20
 usc_section: "9861to9864"
 chapter: 78
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 9861to9864"
-generated_at: "2026-03-30T04:22:17.201Z"
+generated_at: "2026-03-30T04:24:13.119Z"
 status: "repealed"
 ---
 

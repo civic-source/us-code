@@ -3,9 +3,9 @@ title: "Section 188 - Repealed. Aug. 9, 1955, ch. 690, § 4(3) , 69 Stat. 625"
 usc_title: 29
 usc_section: "188"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "29 U.S.C. § 188"
-generated_at: "2026-03-30T04:22:39.549Z"
+generated_at: "2026-03-30T04:24:27.326Z"
 status: "repealed"
 ---
 

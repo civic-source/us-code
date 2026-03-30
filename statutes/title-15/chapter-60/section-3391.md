@@ -3,9 +3,9 @@ title: "Section 3391 - Natural gas for essential agricultural uses"
 usc_title: 15
 usc_section: "3391"
 chapter: 60
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "15 U.S.C. § 3391"
-generated_at: "2026-03-30T04:22:10.159Z"
+generated_at: "2026-03-30T04:23:45.095Z"
 status: "active"
 ---
 

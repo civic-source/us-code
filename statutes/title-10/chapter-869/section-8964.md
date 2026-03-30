@@ -3,9 +3,9 @@ title: "Section 8964 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "8964"
 chapter: 869
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 8964"
-generated_at: "2026-03-30T04:21:51.965Z"
+generated_at: "2026-03-30T04:23:33.090Z"
 status: "active"
 ---
 

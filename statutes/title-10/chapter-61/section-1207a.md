@@ -3,9 +3,9 @@ title: "Section 1207a - Members with over eight years of active service: eligibi
 usc_title: 10
 usc_section: "1207a"
 chapter: 61
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 1207a"
-generated_at: "2026-03-30T04:21:51.882Z"
+generated_at: "2026-03-30T04:23:33.010Z"
 status: "active"
 ---
 

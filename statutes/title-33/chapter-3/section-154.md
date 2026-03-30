@@ -3,9 +3,9 @@ title: "Section 154 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "154"
 chapter: 3
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "33 U.S.C. § 154"
-generated_at: "2026-03-30T04:22:43.023Z"
+generated_at: "2026-03-30T04:24:37.275Z"
 status: "repealed"
 ---
 

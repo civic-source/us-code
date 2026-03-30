@@ -3,9 +3,9 @@ title: "Section 1641to1646 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) 
 usc_title: 29
 usc_section: "1641to1646"
 chapter: 19
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "29 U.S.C. § 1641to1646"
-generated_at: "2026-03-30T04:22:39.597Z"
+generated_at: "2026-03-30T04:24:27.374Z"
 status: "repealed"
 ---
 

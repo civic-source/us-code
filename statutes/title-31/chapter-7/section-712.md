@@ -3,9 +3,9 @@ title: "Section 712 - Investigating the use of public money"
 usc_title: 31
 usc_section: "712"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "31 U.S.C. § 712"
-generated_at: "2026-03-30T04:22:42.285Z"
+generated_at: "2026-03-30T04:24:36.429Z"
 status: "active"
 ---
 

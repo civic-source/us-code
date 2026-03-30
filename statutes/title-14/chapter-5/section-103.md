@@ -3,9 +3,9 @@ title: "Section 103 - Notification of certain determinations"
 usc_title: 14
 usc_section: "103"
 chapter: 5
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "14 U.S.C. § 103"
-generated_at: "2026-03-30T04:22:05.179Z"
+generated_at: "2026-03-30T04:23:41.916Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 1397mm - Grants to improve outreach and enrollment"
 usc_title: 42
 usc_section: "1397mm"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1397mm"
-generated_at: "2026-03-30T04:23:02.056Z"
+generated_at: "2026-03-30T04:24:55.091Z"
 status: "active"
 ---
 
 # § 1397mm. Grants to improve outreach and enrollment
 
 - **(a)**
-  - **(1)** From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2015 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
+  - **(1)** From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2017 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
   - **(2)** An amount equal to 10 percent of such amounts shall be used by the Secretary for expenditures during such period to carry out a national enrollment campaign in accordance with subsection (h).
 - **(b)**
   - **(1)** In awarding grants under subsection (a), the Secretary shall give priority to eligible entities that—
@@ -57,7 +57,7 @@ status: "active"
     - **(D)** by providing culturally and linguistically appropriate health or nutrition education;
     - **(E)** by advocating for individual and community health or nutrition needs; and
     - **(F)** by providing referral and followup services.
-- **(g)** There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title , including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+- **(g)** There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015 and $40,000,000 for the period of fiscal years 2016 and 2017, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title , including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 - **(h)** From the amounts made available under subsection (a)(2), the Secretary shall develop and implement a national enrollment campaign to improve the enrollment of underserved child populations in the programs established under this subchapter and subchapter XIX. Such campaign may include—
   - **(1)** the establishment of partnerships with the Secretary of Education and the Secretary of Agriculture to develop national campaigns to link the eligibility and enrollment systems for the assistance programs each Secretary administers that often serve the same children;
   - **(2)** the integration of information about the programs established under this subchapter and subchapter XIX in public health awareness campaigns administered by the Secretary;

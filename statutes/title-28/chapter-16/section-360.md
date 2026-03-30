@@ -3,9 +3,9 @@ title: "Section 360 - Disclosure of information"
 usc_title: 28
 usc_section: "360"
 chapter: 16
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "28 U.S.C. § 360"
-generated_at: "2026-03-30T04:22:34.032Z"
+generated_at: "2026-03-30T04:24:26.416Z"
 status: "active"
 ---
 

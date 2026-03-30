@@ -3,9 +3,9 @@ title: "Section 4 - Establishment of trout hatchery at Pittsford, Vermont"
 usc_title: 16
 usc_section: "4"
 chapter: 9
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T04:22:19.718Z"
+generated_at: "2026-03-30T04:23:54.075Z"
 status: "active"
 ---
 

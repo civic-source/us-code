@@ -3,9 +3,9 @@ title: "Section 20506 - Annual report"
 usc_title: 36
 usc_section: "20506"
 chapter: 205
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "36 U.S.C. § 20506"
-generated_at: "2026-03-30T04:22:45.675Z"
+generated_at: "2026-03-30T04:24:39.593Z"
 status: "active"
 ---
 

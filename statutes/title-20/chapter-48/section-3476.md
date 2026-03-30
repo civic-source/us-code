@@ -3,9 +3,9 @@ title: "Section 3476 - Regional and field offices"
 usc_title: 20
 usc_section: "3476"
 chapter: 48
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 3476"
-generated_at: "2026-03-30T04:22:17.138Z"
+generated_at: "2026-03-30T04:24:13.055Z"
 status: "active"
 ---
 

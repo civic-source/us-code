@@ -3,9 +3,9 @@ title: "Section 7109 - Strengthening prosecution and punishment of traffickers"
 usc_title: 22
 usc_section: "7109"
 chapter: 78
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 7109"
-generated_at: "2026-03-30T04:22:26.487Z"
+generated_at: "2026-03-30T04:24:18.423Z"
 status: "active"
 ---
 

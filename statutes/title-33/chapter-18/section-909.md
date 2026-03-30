@@ -3,9 +3,9 @@ title: "Section 909 - Compensation for death"
 usc_title: 33
 usc_section: "909"
 chapter: 18
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "33 U.S.C. § 909"
-generated_at: "2026-03-30T04:22:43.043Z"
+generated_at: "2026-03-30T04:24:37.294Z"
 status: "active"
 ---
 

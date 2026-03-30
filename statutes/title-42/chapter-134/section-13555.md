@@ -3,9 +3,9 @@ title: "Section 13555 - Consultative Commission on Western Hemisphere Energy and
 usc_title: 42
 usc_section: "13555"
 chapter: 134
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 13555"
-generated_at: "2026-03-30T04:23:02.395Z"
+generated_at: "2026-03-30T04:24:55.422Z"
 status: "active"
 ---
 

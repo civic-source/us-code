@@ -3,9 +3,9 @@ title: "Section 61 - World Trade Center Health Program Fund"
 usc_title: 42
 usc_section: "61"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 61"
-generated_at: "2026-03-30T04:23:01.898Z"
+generated_at: "2026-03-30T04:24:54.928Z"
 status: "active"
 ---
 

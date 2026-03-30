@@ -3,9 +3,9 @@ title: "Section 797j - Preemption"
 usc_title: 45
 usc_section: "797j"
 chapter: 16
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "45 U.S.C. § 797j"
-generated_at: "2026-03-30T04:22:50.107Z"
+generated_at: "2026-03-30T04:24:44.693Z"
 status: "active"
 ---
 

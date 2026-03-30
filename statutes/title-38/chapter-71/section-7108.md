@@ -3,9 +3,9 @@ title: "Section 7108 - Rejection of applications"
 usc_title: 38
 usc_section: "7108"
 chapter: 71
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "38 U.S.C. § 7108"
-generated_at: "2026-03-30T04:22:46.962Z"
+generated_at: "2026-03-30T04:24:41.482Z"
 status: "active"
 ---
 

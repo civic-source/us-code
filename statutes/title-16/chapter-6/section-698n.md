@@ -3,9 +3,9 @@ title: "Section 698n - Timucuan Ecological and Historic Preserve"
 usc_title: 16
 usc_section: "698n"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 698n"
-generated_at: "2026-03-30T04:22:19.712Z"
+generated_at: "2026-03-30T04:23:54.069Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
       - **(i)** revise the boundaries of the Preserve so as to encompass the land described in subparagraph (A); and
       - **(ii)** maintain the map described in subparagraph (A) on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(b)** The Secretary of the Interior (hereinafter in sections 698n to 698p of this title referred to as the “Secretary”) is authorized to acquire lands and interests therein within the Preserve by donation, purchase with donated or appropriated funds, or exchange, but no lands other than wetlands or interests therein may be acquired without the consent of the owner. For purposes of this subsection, the term “wetlands” has the same meaning as provided by section 3902 of this title . Lands, interests in lands, and improvements thereon within the boundaries of the Preserve which are owned by the State of Florida or any political subdivision thereof may be acquired only by donation or exchange. On lands acquired for inclusion within the Preserve, the Secretary shall not impair any legal riparian right of access nor shall he preclude the continued use of any legal right of way.
-- **(c)** The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
+- **(c)** The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1 , 2–4). 1 1 See References in Text note below. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
 - **(d)** Nothing in sections 698n to 698p of this title shall affect development of a multiunit residential/resort project currently proposed for Fort George Island, nor shall any provision of sections 698n to 698p of this title be construed to affect any Federal, State or local law applicable to such project.

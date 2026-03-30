@@ -3,9 +3,9 @@ title: "Section 14110 - Reports of promotion boards: review by Secretary"
 usc_title: 10
 usc_section: "14110"
 chapter: 1403
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 14110"
-generated_at: "2026-03-30T04:21:51.977Z"
+generated_at: "2026-03-30T04:23:33.102Z"
 status: "active"
 ---
 

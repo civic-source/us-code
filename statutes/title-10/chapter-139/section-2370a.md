@@ -3,9 +3,9 @@ title: "Section 2370a - Repealed. Pub. L. 108–375, div. A, title X, § 1005(a)
 usc_title: 10
 usc_section: "2370a"
 chapter: 139
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 2370a"
-generated_at: "2026-03-30T04:21:51.916Z"
+generated_at: "2026-03-30T04:23:33.043Z"
 status: "repealed"
 ---
 

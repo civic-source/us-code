@@ -3,9 +3,9 @@ title: "Section 281a - Designation"
 usc_title: 16
 usc_section: "281a"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 281a"
-generated_at: "2026-03-30T04:22:19.611Z"
+generated_at: "2026-03-30T04:23:53.971Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ To implement this purpose the Secretary of the Interior may designate as the Nez
   - **(1)** Tolo Lake, Idaho;
   - **(2)** Looking Glass’ 1877 Campsite, Idaho;
   - **(3)** Buffalo Eddy, Washington and Idaho;
-  - **(4)** Traditional Crossing Near Doug Bar, Oregon and Idaho;
+  - **(4)** Traditional Crossing Near Doug 1 1 So in original. Probably should be “Dug”. Bar, Oregon and Idaho;
   - **(5)** Camas Meadows Battle Sites, Idaho;
   - **(6)** Joseph Canyon Viewpoint, Oregon;
   - **(7)** Traditional Campsite at the Fork of the Lostine and Wallowa Rivers, Oregon;

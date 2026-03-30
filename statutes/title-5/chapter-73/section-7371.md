@@ -3,9 +3,9 @@ title: "Section 7371 - Mandatory removal from employment of law enforcement offi
 usc_title: 5
 usc_section: "7371"
 chapter: 73
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "5 U.S.C. § 7371"
-generated_at: "2026-03-30T04:21:31.832Z"
+generated_at: "2026-03-30T04:23:23.881Z"
 status: "active"
 ---
 

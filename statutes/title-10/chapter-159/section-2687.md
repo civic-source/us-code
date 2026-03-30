@@ -3,9 +3,9 @@ title: "Section 2687 - Base closures and realignments"
 usc_title: 10
 usc_section: "2687"
 chapter: 159
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 2687"
-generated_at: "2026-03-30T04:21:51.932Z"
+generated_at: "2026-03-30T04:23:33.058Z"
 status: "active"
 ---
 

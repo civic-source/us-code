@@ -3,9 +3,9 @@ title: "Section 2110 - Claims against the Commission"
 usc_title: 36
 usc_section: "2110"
 chapter: 21
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "36 U.S.C. § 2110"
-generated_at: "2026-03-30T04:22:45.673Z"
+generated_at: "2026-03-30T04:24:39.591Z"
 status: "active"
 ---
 

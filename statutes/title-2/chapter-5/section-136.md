@@ -3,9 +3,9 @@ title: "Section 136 - Librarian of Congress; appointment; rules and regulations"
 usc_title: 2
 usc_section: "136"
 chapter: 5
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "2 U.S.C. § 136"
-generated_at: "2026-03-30T04:21:08.560Z"
+generated_at: "2026-03-30T04:23:21.953Z"
 status: "active"
 ---
 

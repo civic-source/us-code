@@ -3,9 +3,9 @@ title: "Section 285m - Withdrawal rights covering United States Special Resource
 usc_title: 22
 usc_section: "285m"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 285m"
-generated_at: "2026-03-30T04:22:26.385Z"
+generated_at: "2026-03-30T04:24:18.320Z"
 status: "active"
 ---
 

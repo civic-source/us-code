@@ -3,9 +3,9 @@ title: "Section 6957b - Foreign and cultural exchange activities"
 usc_title: 10
 usc_section: "6957b"
 chapter: 603
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 6957b"
-generated_at: "2026-03-30T04:21:51.955Z"
+generated_at: "2026-03-30T04:23:33.080Z"
 status: "active"
 ---
 

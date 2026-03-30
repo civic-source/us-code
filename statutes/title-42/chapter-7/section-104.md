@@ -3,9 +3,9 @@ title: "Section 104 - Beneficiary protections for qualified prescription drug co
 usc_title: 42
 usc_section: "104"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 104"
-generated_at: "2026-03-30T04:23:01.988Z"
+generated_at: "2026-03-30T04:24:55.022Z"
 status: "active"
 ---
 
@@ -109,6 +109,12 @@ status: "active"
     - **(F)** The Secretary shall establish guidelines for the coordination of any medication therapy management program under this paragraph with respect to a targeted beneficiary with any care management plan established with respect to such beneficiary under a chronic care improvement program under section 1395b–8 of this title .
     - **(G)** The PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request the amount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
   - **(3)** The Secretary shall require PDP sponsors of prescription drug plans to utilize specific, uniform dispensing techniques, as determined by the Secretary, in consultation with relevant stakeholders (including representatives of nursing facilities, residents of nursing facilities, pharmacists, the pharmacy industry (including retail and long-term care pharmacy), prescription drug plans, MA–PD plans, and any other stakeholders the Secretary determines appropriate), such as weekly, daily, or automated dose dispensing, when dispensing covered part D drugs to enrollees who reside in a long-term care facility in order to reduce waste associated with 30-day fills.
+  - **(4)**
+    - **(A)** For plan year 2016 and subsequent plan years, the Secretary shall require a claim for a covered part D drug for a part D eligible individual enrolled in a prescription drug plan under this part or an MA–PD plan under part C to include a prescriber National Provider Identifier that is determined to be valid under the procedures established under subparagraph (B)(i).
+    - **(B)**
+      - **(i)** The Secretary, in consultation with appropriate stakeholders, shall establish procedures for determining the validity of prescriber National Provider Identifiers under subparagraph (A).
+      - **(ii)** The Secretary shall establish procedures to ensure that, in the case that a claim for a covered part D drug of an individual described in subparagraph (A) is denied because the claim does not meet the requirements of this paragraph, the individual is properly informed at the point of service of the reason for the denial.
+    - **(C)** Not later than January 1, 2018 , the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
 - **(d)** In order to provide for comparative information under section 1395w–101(c)(3)(A)(v) of this title , the Secretary shall conduct consumer satisfaction surveys with respect to PDP sponsors and prescription drug plans in a manner similar to the manner such surveys are conducted for MA organizations and MA plans under part C of this subchapter.
 - **(e)**
   - **(1)** As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).

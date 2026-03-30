@@ -3,9 +3,9 @@ title: "Section 3 - Tied Aid Credit Fund and program"
 usc_title: 12
 usc_section: "3"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T04:22:08.272Z"
+generated_at: "2026-03-30T04:23:46.693Z"
 status: "active"
 ---
 

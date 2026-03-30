@@ -3,9 +3,9 @@ title: "Section 387 - Omitted"
 usc_title: 25
 usc_section: "387"
 chapter: 11
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 387"
-generated_at: "2026-03-30T04:22:24.091Z"
+generated_at: "2026-03-30T04:24:20.376Z"
 status: "omitted"
 ---
 

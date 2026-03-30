@@ -3,9 +3,9 @@ title: "Section 72 - Nationwide media campaign to promote poison control center 
 usc_title: 42
 usc_section: "72"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 72"
-generated_at: "2026-03-30T04:23:01.856Z"
+generated_at: "2026-03-30T04:24:54.887Z"
 status: "active"
 ---
 

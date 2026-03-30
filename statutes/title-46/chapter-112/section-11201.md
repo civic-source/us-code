@@ -3,9 +3,9 @@ title: "Section 11201 - Eligibility for veterans’ burial and cemetery benefits
 usc_title: 46
 usc_section: "11201"
 chapter: 112
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "46 U.S.C. § 11201"
-generated_at: "2026-03-30T04:23:06.894Z"
+generated_at: "2026-03-30T04:24:59.936Z"
 status: "active"
 ---
 

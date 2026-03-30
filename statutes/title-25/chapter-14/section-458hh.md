@@ -3,9 +3,9 @@ title: "Section 458hh - Authorization of appropriations"
 usc_title: 25
 usc_section: "458hh"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 458hh"
-generated_at: "2026-03-30T04:22:24.097Z"
+generated_at: "2026-03-30T04:24:20.382Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11611 - Repealed. Pub. L. 113–150, title I, § 101(e) , Aug. 8
 usc_title: 42
 usc_section: "11611"
 chapter: 121
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 11611"
-generated_at: "2026-03-30T04:23:02.355Z"
+generated_at: "2026-03-30T04:24:55.383Z"
 status: "repealed"
 ---
 

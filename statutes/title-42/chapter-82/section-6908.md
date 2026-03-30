@@ -3,9 +3,9 @@ title: "Section 6908 - Small town environmental planning"
 usc_title: 42
 usc_section: "6908"
 chapter: 82
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 6908"
-generated_at: "2026-03-30T04:23:02.233Z"
+generated_at: "2026-03-30T04:24:55.264Z"
 status: "active"
 ---
 

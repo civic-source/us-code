@@ -3,9 +3,9 @@ title: "Section 223224 - Repealed. Pub. L. 110–69, title III, § 3013(c)(2) , 
 usc_title: 15
 usc_section: "223224"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "15 U.S.C. § 223224"
-generated_at: "2026-03-30T04:22:10.066Z"
+generated_at: "2026-03-30T04:23:44.999Z"
 status: "repealed"
 ---
 

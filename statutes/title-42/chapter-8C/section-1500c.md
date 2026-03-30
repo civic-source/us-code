@@ -3,9 +3,9 @@ title: "Section 1500c - Repealed. Pub. L. 98–181, title I [title I, § 126(b)(
 usc_title: 42
 usc_section: "1500c"
 chapter: 8
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1500c"
-generated_at: "2026-03-30T04:23:02.075Z"
+generated_at: "2026-03-30T04:24:55.109Z"
 status: "repealed"
 ---
 

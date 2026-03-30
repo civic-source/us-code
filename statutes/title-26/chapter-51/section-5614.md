@@ -3,9 +3,9 @@ title: "Section 5614 - Burden of proof in cases of seizure of spirits"
 usc_title: 26
 usc_section: "5614"
 chapter: 51
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "26 U.S.C. § 5614"
-generated_at: "2026-03-30T04:22:38.322Z"
+generated_at: "2026-03-30T04:24:33.763Z"
 status: "active"
 ---
 

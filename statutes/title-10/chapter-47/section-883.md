@@ -3,9 +3,9 @@ title: "Section 883 - Art. 83. Fraudulent enlistment, appointment, or separation
 usc_title: 10
 usc_section: "883"
 chapter: 47
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 883"
-generated_at: "2026-03-30T04:21:51.864Z"
+generated_at: "2026-03-30T04:23:32.992Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 334 - Seizure"
 usc_title: 21
 usc_section: "334"
 chapter: 9
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "21 U.S.C. § 334"
-generated_at: "2026-03-30T04:22:22.739Z"
+generated_at: "2026-03-30T04:24:19.434Z"
 status: "active"
 ---
 

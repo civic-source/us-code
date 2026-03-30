@@ -3,9 +3,9 @@ title: "Section 2518 - Repealed. Pub. L. 97–164, title I, § 139(l) , Apr. 2, 
 usc_title: 28
 usc_section: "2518"
 chapter: 165
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "28 U.S.C. § 2518"
-generated_at: "2026-03-30T04:22:34.052Z"
+generated_at: "2026-03-30T04:24:26.437Z"
 status: "repealed"
 ---
 

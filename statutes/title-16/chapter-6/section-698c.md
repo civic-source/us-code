@@ -3,15 +3,15 @@ title: "Section 698c - Administration of Big Thicket Preserve"
 usc_title: 16
 usc_section: "698c"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 698c"
-generated_at: "2026-03-30T04:22:19.712Z"
+generated_at: "2026-03-30T04:23:54.068Z"
 status: "active"
 ---
 
 # § 698c. Administration of Big Thicket Preserve
 
-- **(a)** The area within the boundaries depicted on the map referred to in section 698 of this title shall be known as the Big Thicket National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698 to 698e of this title and with the provisions of sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title, as amended and supplemented.
+- **(a)** The area within the boundaries depicted on the map referred to in section 698 of this title shall be known as the Big Thicket National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698 to 698e of this title and with the provisions of the Act of August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1–4 ), 1 1 See References in Text note below. as amended and supplemented.
 - **(b)** In the interest of maintaining the ecological integrity of the preserve, the Secretary shall limit the construction of roads, vehicular campgrounds, employee housing, and other public use and administrative facilities and he shall promulgate and publish such rules and regulations in the Federal Register as he deems necessary and appropriate to limit and control the use of, and activities on, Federal lands and waters with respect to:
   - **(1)** motorized land and water vehicles;
   - **(2)** exploration for, and extraction of, oil, gas, and other minerals;

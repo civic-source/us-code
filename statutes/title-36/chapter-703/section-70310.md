@@ -3,9 +3,9 @@ title: "Section 70310 - Service of process"
 usc_title: 36
 usc_section: "70310"
 chapter: 703
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "36 U.S.C. § 70310"
-generated_at: "2026-03-30T04:22:45.680Z"
+generated_at: "2026-03-30T04:24:39.598Z"
 status: "active"
 ---
 

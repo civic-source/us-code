@@ -3,9 +3,9 @@ title: "Section 1395aaa - Contract with a consensus-based entity regarding perfo
 usc_title: 42
 usc_section: "1395aaa"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395aaa"
-generated_at: "2026-03-30T04:23:02.020Z"
+generated_at: "2026-03-30T04:24:55.054Z"
 status: "active"
 ---
 
@@ -77,4 +77,4 @@ status: "active"
   - **(7)** If the entity requires a membership fee for participation in the functions of the entity, such fees shall be reasonable and adjusted based on the capacity of the potential member to pay the fee. In no case shall membership fees pose a barrier to the participation of individuals or groups with low or nominal resources to participate in the functions of the entity.
 - **(d)**
   - **(1)** For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
-  - **(2)** For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $15,000,000 for the first 6 months of fiscal year 2015. Amounts transferred under the preceding sentence shall remain available until expended.
+  - **(2)** For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $30,000,000 for each of fiscal years 2015 through 2017. Amounts transferred under the preceding sentence shall remain available until expended.

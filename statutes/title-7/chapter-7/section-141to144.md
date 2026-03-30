@@ -3,9 +3,9 @@ title: "Section 141to144 - Repealed. Pub. L. 85–36, title I, § 111 , May 23, 
 usc_title: 7
 usc_section: "141to144"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "7 U.S.C. § 141to144"
-generated_at: "2026-03-30T04:21:35.467Z"
+generated_at: "2026-03-30T04:23:26.388Z"
 status: "repealed"
 ---
 

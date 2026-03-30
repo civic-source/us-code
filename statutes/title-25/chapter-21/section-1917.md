@@ -3,9 +3,9 @@ title: "Section 1917 - Tribal affiliation information and other information for 
 usc_title: 25
 usc_section: "1917"
 chapter: 21
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 1917"
-generated_at: "2026-03-30T04:22:24.151Z"
+generated_at: "2026-03-30T04:24:20.432Z"
 status: "active"
 ---
 

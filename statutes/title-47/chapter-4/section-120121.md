@@ -3,9 +3,9 @@ title: "Section 120121 - Omitted"
 usc_title: 47
 usc_section: "120121"
 chapter: 4
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "47 U.S.C. § 120121"
-generated_at: "2026-03-30T04:23:05.385Z"
+generated_at: "2026-03-30T04:24:58.487Z"
 status: "omitted"
 ---
 

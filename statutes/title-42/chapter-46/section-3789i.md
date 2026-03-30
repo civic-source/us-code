@@ -3,9 +3,9 @@ title: "Section 3789i - Administration of juvenile delinquency programs"
 usc_title: 42
 usc_section: "3789i"
 chapter: 46
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 3789i"
-generated_at: "2026-03-30T04:23:02.156Z"
+generated_at: "2026-03-30T04:24:55.188Z"
 status: "active"
 ---
 

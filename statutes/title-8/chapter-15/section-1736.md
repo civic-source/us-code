@@ -3,9 +3,9 @@ title: "Section 1736 - Check of lookout databases"
 usc_title: 8
 usc_section: "1736"
 chapter: 15
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "8 U.S.C. § 1736"
-generated_at: "2026-03-30T04:22:03.121Z"
+generated_at: "2026-03-30T04:23:39.974Z"
 status: "active"
 ---
 

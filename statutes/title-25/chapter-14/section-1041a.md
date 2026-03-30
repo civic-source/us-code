@@ -3,9 +3,9 @@ title: "Section 1041a - Definitions"
 usc_title: 25
 usc_section: "1041a"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 1041a"
-generated_at: "2026-03-30T04:22:24.119Z"
+generated_at: "2026-03-30T04:24:20.403Z"
 status: "active"
 ---
 

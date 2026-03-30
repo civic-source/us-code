@@ -3,9 +3,9 @@ title: "Section 415c - Use of funds for dissemination of information relating to
 usc_title: 7
 usc_section: "415c"
 chapter: 17
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "7 U.S.C. § 415c"
-generated_at: "2026-03-30T04:21:35.473Z"
+generated_at: "2026-03-30T04:23:26.395Z"
 status: "active"
 ---
 

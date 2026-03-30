@@ -3,9 +3,9 @@ title: "Section 14031 - Grant program"
 usc_title: 42
 usc_section: "14031"
 chapter: 136
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 14031"
-generated_at: "2026-03-30T04:23:02.403Z"
+generated_at: "2026-03-30T04:24:55.429Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2723 - Notice to congressional committees of certain security an
 usc_title: 10
 usc_section: "2723"
 chapter: 161
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 2723"
-generated_at: "2026-03-30T04:21:51.933Z"
+generated_at: "2026-03-30T04:23:33.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 514 - Bounties prohibited; substitutes prohibited"
 usc_title: 10
 usc_section: "514"
 chapter: 31
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 514"
-generated_at: "2026-03-30T04:21:51.853Z"
+generated_at: "2026-03-30T04:23:32.982Z"
 status: "active"
 ---
 

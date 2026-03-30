@@ -3,9 +3,9 @@ title: "Section 14136a - Sexual assault forensic exam program grants"
 usc_title: 42
 usc_section: "14136a"
 chapter: 136
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 14136a"
-generated_at: "2026-03-30T04:23:02.409Z"
+generated_at: "2026-03-30T04:24:55.436Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1758b - Local school wellness policy"
 usc_title: 42
 usc_section: "1758b"
 chapter: 13
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1758b"
-generated_at: "2026-03-30T04:23:02.083Z"
+generated_at: "2026-03-30T04:24:55.116Z"
 status: "active"
 ---
 

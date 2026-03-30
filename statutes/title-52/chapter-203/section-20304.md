@@ -3,9 +3,9 @@ title: "Section 20304 - Procedures for collection and delivery of marked absente
 usc_title: 52
 usc_section: "20304"
 chapter: 203
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "52 U.S.C. § 20304"
-generated_at: "2026-03-30T04:23:10.760Z"
+generated_at: "2026-03-30T04:25:04.245Z"
 status: "active"
 ---
 

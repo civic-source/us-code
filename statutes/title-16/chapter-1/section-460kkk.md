@@ -3,9 +3,9 @@ title: "Section 460kkk - Boston Harbor Islands National Recreation Area"
 usc_title: 16
 usc_section: "460kkk"
 chapter: 1
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 460kkk"
-generated_at: "2026-03-30T04:22:19.673Z"
+generated_at: "2026-03-30T04:23:54.032Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(ii)** Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt’s Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
   - **(3)** Notwithstanding subsection (h) of this section, the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
 - **(d)**
-  - **(1)** The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 1 1 See References in Text note below. of this title and sections 461 to 467 1 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+  - **(1)** The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1 , 2, 3, and 4), 1 1 See References in Text note below. and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461–467 ) 1 as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
   - **(2)** Nothing in this section shall be construed to diminish, enlarge, or modify any right of the Commonwealth of Massachusetts or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State laws, rules, and regulations within the recreation area, including those relating to fish and wildlife, or to tax persons, corporations, franchises, or private property on the lands and waters included in the recreation area.
   - **(3)**
     - **(A)** In this paragraph, the term “eligible entity” means—

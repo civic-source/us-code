@@ -3,9 +3,9 @@ title: "Section 167m - Information"
 usc_title: 50
 usc_section: "167m"
 chapter: 10
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "50 U.S.C. § 167m"
-generated_at: "2026-03-30T04:23:06.033Z"
+generated_at: "2026-03-30T04:24:59.198Z"
 status: "active"
 ---
 

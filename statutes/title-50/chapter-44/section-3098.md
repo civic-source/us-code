@@ -3,9 +3,9 @@ title: "Section 3098 - Annual personnel level assessments for the intelligence c
 usc_title: 50
 usc_section: "3098"
 chapter: 44
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "50 U.S.C. § 3098"
-generated_at: "2026-03-30T04:23:06.066Z"
+generated_at: "2026-03-30T04:24:59.233Z"
 status: "active"
 ---
 

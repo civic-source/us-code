@@ -3,9 +3,9 @@ title: "Section 137a - Principal Deputy Under Secretaries of Defense"
 usc_title: 10
 usc_section: "137a"
 chapter: 4
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 137a"
-generated_at: "2026-03-30T04:21:51.843Z"
+generated_at: "2026-03-30T04:23:32.971Z"
 status: "active"
 ---
 

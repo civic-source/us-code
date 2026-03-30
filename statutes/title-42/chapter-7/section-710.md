@@ -3,15 +3,15 @@ title: "Section 710 - Separate program for abstinence education"
 usc_title: 42
 usc_section: "710"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 710"
-generated_at: "2026-03-30T04:23:01.931Z"
+generated_at: "2026-03-30T04:24:54.961Z"
 status: "active"
 ---
 
 # § 710. Separate program for abstinence education
 
-- **(a)** For the purpose described in subsection (b) of this section, the Secretary shall, for each of fiscal years 2010 through 2015, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
+- **(a)** For the purpose described in subsection (b) of this section, the Secretary shall, for each of fiscal years 2010 through 2017, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
   - **(1)** the amount appropriated in subsection (d) of this section for the fiscal year; and
   - **(2)** the percentage determined for the State under section 702(c)(1)(B)(ii) of this title .
 - **(b)**
@@ -28,4 +28,4 @@ status: "active"
 - **(c)**
   - **(1)** Sections 703, 707, and 708 of this title apply to allotments under subsection (a) of this section to the same extent and in the same manner as such sections apply to allotments under section 702(c) of this title .
   - **(2)** Sections 705 and 706 of this title apply to allotments under subsection (a) of this section to the extent determined by the Secretary to be appropriate.
-- **(d)** For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2015. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010 , in the case of fiscal year 2010).
+- **(d)** For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2015 and an additional $75,000,000 for each of fiscal years 2016 and 2017. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010 , in the case of fiscal year 2010).

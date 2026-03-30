@@ -3,9 +3,9 @@ title: "Section 1395fff - Prospective payment for home health services"
 usc_title: 42
 usc_section: "1395fff"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395fff"
-generated_at: "2026-03-30T04:23:02.022Z"
+generated_at: "2026-03-30T04:24:55.056Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
         - **(III)** the last 3 calendar quarters of 2004, and all of 2005 2 2 So in original. Probably should be followed by a comma. the home health market basket percentage increase minus 0.8 percentage points;
         - **(IV)** 2006, 0 percent; and
         - **(V)** any subsequent year, subject to clauses (v) and (vi), the home health market basket percentage increase.
-      - **(iii)** For purposes of this subsection, the term “home health market basket percentage increase” means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year.
+      - **(iii)** For purposes of this subsection, the term “home health market basket percentage increase” means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year. Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent.
       - **(iv)** Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
       - **(v)**
         - **(I)** For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclauses (II) and (IV) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall be reduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
@@ -42,7 +42,7 @@ status: "active"
         - **(IV)**
         - **(V)** To the extent data submitted under subclause (IV) duplicates other data required to be submitted under subclause (II), the submission of such data under subclause (IV) shall be in lieu of the submission of such data under subclause (II). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395 lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
       - **(vi)** After determining the home health market basket percentage increase under clause (iii), and after application of clause (v), the Secretary shall reduce such percentage—
-        - **(I)** for 2015 and each subsequent year, by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title ; and
+        - **(I)** for 2015 and each subsequent year (except 2018), by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title ; and
         - **(II)** for each of 2011, 2012, and 2013, by 1 percentage point.
     - **(C)** The Secretary shall reduce the standard prospective payment amount (or amounts) under this paragraph applicable to home health services furnished during a period by such proportion as will result in an aggregate reduction in payments for the period equal to 5 percent of the total payments estimated to be made based on the prospective payment system under this subsection for the period.
   - **(4)**

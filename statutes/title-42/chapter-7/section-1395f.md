@@ -3,9 +3,9 @@ title: "Section 1395f - Conditions of and limitations on payment for services"
 usc_title: 42
 usc_section: "1395f"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395f"
-generated_at: "2026-03-30T04:23:01.959Z"
+generated_at: "2026-03-30T04:24:54.989Z"
 status: "active"
 ---
 
@@ -77,14 +77,15 @@ status: "active"
         - **(IV)** for fiscal year 1996, the market basket percentage increase for the fiscal year minus 1.5 percentage points;
         - **(V)** for fiscal year 1997, the market basket percentage increase for the fiscal year minus 0.5 percentage point;
         - **(VI)** for each of fiscal years 1998 through 2002, the market basket percentage increase for the fiscal year involved minus 1.0 percentage points, plus, in the case of fiscal year 2001, 5.0 percentage points; and
-        - **(VII)** for a subsequent fiscal year (before the first fiscal year in which the payment revisions described in paragraph (6)(D) are implemented), subject to clause (iv),, 1 the market basket percentage increase for the fiscal year.
-      - **(iii)** With respect to routine home care and other services included in hospice care furnished during fiscal years subsequent to the first fiscal year in which payment revisions described in paragraph (6)(D) are implemented, the payment rates for such care and services shall be the payment rates in effect under this clause during the preceding fiscal year increased by, subject to clause (iv), the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title ) for the fiscal year.
-      - **(iv)** After determining the market basket percentage increase under clause (ii)(VII) or (iii), as applicable, with respect to fiscal year 2013 and each subsequent fiscal year, the Secretary shall reduce such percentage—
+        - **(VII)** for a subsequent fiscal year (before the first fiscal year in which the payment revisions described in paragraph (6)(D) are implemented), subject to clauses (iv) and (vi), the market basket percentage increase for the fiscal year.
+      - **(iii)** With respect to routine home care and other services included in hospice care furnished during fiscal years subsequent to the first fiscal year in which payment revisions described in paragraph (6)(D) are implemented, the payment rates for such care and services shall be the payment rates in effect under this clause during the preceding fiscal year increased by, subject to clauses (iv) and (vi), the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title ) for the fiscal year.
+      - **(iv)** Subject to clause (vi), after determining the market basket percentage increase under clause (ii)(VII) or (iii), as applicable, with respect to fiscal year 2013 and each subsequent fiscal year, the Secretary shall reduce such percentage—
         - **(I)** for 2013 and each subsequent fiscal year, by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title ; and
         - **(II)** subject to clause (v), for each of fiscal years 2013 through 2019, by 0.3 percentage point.
       - **(v)** Clause (iv)(II) shall be applied with respect to any of fiscal years 2014 through 2019 by substituting “0.0 percentage points” for “0.3 percentage point”, if for such fiscal year—
         - **(I)** the excess (if any) of—
         - **(II)** 5 percentage points.
+      - **(vi)** For fiscal year 2018, the market basket percentage increase under clause (ii)(VII) or (iii), as applicable, after application of clause (iv), shall be 1 percent.
   - **(2)**
     - **(A)** The amount of payment made under this part for hospice care provided by (or under arrangements made by) a hospice program for an accounting year may not exceed the “cap amount” for the year (computed under subparagraph (B)) multiplied by the number of medicare beneficiaries in the hospice program in that year (determined under subparagraph (C)).
     - **(B)**
@@ -97,7 +98,7 @@ status: "active"
   - **(4)** The amount paid to a hospice program with respect to the services under section 1395d(a)(5) of this title for which payment may be made under this part shall be equal to an amount established for an office or other outpatient visit for evaluation and management associated with presenting problems of moderate severity and requiring medical decisionmaking of low complexity under the fee schedule established under section 1395w–4(b) of this title , other than the portion of such amount attributable to the practice expense component.
   - **(5)**
     - **(A)**
-      - **(i)** For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of paragraph (1)(C)(iv), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2 percentage points.
+      - **(i)** For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of clauses (iv) and (vi) of paragraph (1)(C), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2 percentage points.
       - **(ii)** The application of this subparagraph may result in the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
     - **(B)** Any reduction under subparagraph (A) shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the payment amount under this subsection for a subsequent fiscal year.
     - **(C)** For fiscal year 2014 and each subsequent fiscal year, each hospice program shall submit to the Secretary data on quality measures specified under subparagraph (D). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.

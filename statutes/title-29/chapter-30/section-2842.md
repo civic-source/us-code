@@ -3,9 +3,9 @@ title: "Section 2842 - Identification of eligible providers of training services
 usc_title: 29
 usc_section: "2842"
 chapter: 30
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "29 U.S.C. § 2842"
-generated_at: "2026-03-30T04:22:39.604Z"
+generated_at: "2026-03-30T04:24:27.381Z"
 status: "active"
 ---
 

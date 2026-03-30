@@ -3,9 +3,9 @@ title: "Section 8031 - The Air Staff: function; composition"
 usc_title: 10
 usc_section: "8031"
 chapter: 805
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 8031"
-generated_at: "2026-03-30T04:21:51.963Z"
+generated_at: "2026-03-30T04:23:33.087Z"
 status: "active"
 ---
 

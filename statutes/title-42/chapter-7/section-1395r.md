@@ -3,9 +3,9 @@ title: "Section 1395r - Amount of premiums for individuals enrolled under this p
 usc_title: 42
 usc_section: "1395r"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395r"
-generated_at: "2026-03-30T04:23:01.971Z"
+generated_at: "2026-03-30T04:24:55.003Z"
 status: "active"
 ---
 
@@ -38,17 +38,19 @@ status: "active"
 - **(i)**
   - **(1)** In the case of an individual whose modified adjusted gross income exceeds the threshold amount under paragraph (2), the monthly amount of the premium subsidy applicable to the premium under this section for a month after December 2006 shall be reduced (and the monthly premium shall be increased) by the monthly adjustment amount specified in paragraph (3).
   - **(2)** For purposes of this subsection, subject to paragraph (6), the threshold amount is—
-    - **(A)** except as provided in subparagraph (B), $80,000, and
+    - **(A)** except as provided in subparagraph (B), $80,000 (or, beginning with 2018, $85,000), and
     - **(B)** in the case of a joint return, twice the amount applicable under subparagraph (A) for the calendar year.
   - **(3)**
     - **(A)** Subject to subparagraph (B), the monthly adjustment amount specified in this paragraph for an individual for a month in a year is equal to the product of the following:
-      - **(i)** Subject to paragraph (6), the applicable percentage specified in the table in subparagraph (C) for the individual minus 25 percentage points.
+      - **(i)** Subject to paragraph (6), the applicable percentage specified in the applicable table in subparagraph (C) for the individual minus 25 percentage points.
       - **(ii)** 200 percent of the monthly actuarial rate for enrollees age 65 and over (as determined under subsection (a)(1) of this section for the year).
     - **(B)** The monthly adjustment amount specified in this paragraph for an individual for a month in a year before 2009 is equal to the following percentage of the monthly adjustment amount specified in subparagraph (A):
       - **(i)** For 2007, 33 percent.
       - **(ii)** For 2008, 67 percent.
     - **(C)**
-      - **(i)** If the modified adjusted gross income is: The applicable percentage is: More than $80,000 but not more than $100,000 35 percent More than $100,000 but not more than $150,000 50 percent More than $150,000 but not more than $200,000 65 percent More than $200,000 80 percent.
+      - **(i)**
+        - **(I)** Subject to paragraphs (5) and (6), for years before 2018: If the modified adjusted gross income is: The applicable percentage is: More than $80,000 but not more than $100,000 35 percent More than $100,000 but not more than $150,000 50 percent More than $150,000 but not more than $200,000 65 percent More than $200,000 80 percent.
+        - **(II)** Subject to paragraph (5), for years beginning with 2018: If the modified adjusted gross income is: The applicable percentage is: More than $85,000 but not more than $107,000 35 percent More than $107,000 but not more than $133,500 50 percent More than $133,500 but not more than $160,000 65 percent More than $160,000 80 percent.
       - **(ii)** In the case of a joint return, clause (i) shall be applied by substituting dollar amounts which are twice the dollar amounts otherwise applicable under clause (i) for the calendar year.
       - **(iii)** In the case of an individual who—
         - **(I)** is married as of the close of the taxable year (within the meaning of section 7703 of the Internal Revenue Code of 1986) but does not file a joint return for such year, and
@@ -71,11 +73,11 @@ status: "active"
         - **(I)** the individual furnishes to such Commissioner with respect to such year such documentation, such as a copy of a filed Federal income tax return or an equivalent document, as the Commissioner specifies for purposes of determining the premium adjustment (if any) under this subsection; and
         - **(II)** the individual’s modified adjusted gross income for such year is significantly less than such income for the taxable year determined under subparagraph (B) by reason of the death of such individual’s spouse, the marriage or divorce of such individual, or other major life changing events specified in regulations prescribed by the Commissioner in consultation with the Secretary.
   - **(5)**
-    - **(A)** In the case of any calendar year beginning after 2007, each dollar amount in paragraph (2) or (3) shall be increased by an amount equal to—
+    - **(A)** In the case of any calendar year beginning after 2007 (other than 2018 and 2019), each dollar amount in paragraph (2) or (3) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the percentage (if any) by which the average of the Consumer Price Index for all urban consumers (United States city average) for the 12-month period ending with August of the preceding calendar year exceeds such average for the 12-month period ending with August 2006.
+      - **(ii)** the percentage (if any) by which the average of the Consumer Price Index for all urban consumers (United States city average) for the 12-month period ending with August of the preceding calendar year exceeds such average for the 12-month period ending with August 2006 (or, in the case of a calendar year beginning with 2020, August 2018).
     - **(B)** If any dollar amount after being increased under subparagraph (A) is not a multiple of $1,000, such dollar amount shall be rounded to the nearest multiple of $1,000.
-  - **(6)** Notwithstanding any other provision of this subsection, during the period beginning on January 1, 2011 , and ending on December 31, 2019 —
+  - **(6)** Notwithstanding any other provision of this subsection, during the period beginning on January 1, 2011 , and ending on December 31, 2017 —
     - **(A)** the threshold amount otherwise applicable under paragraph (2) shall be equal to such amount for 2010; and
     - **(B)** the dollar amounts otherwise applicable under paragraph (3)(C)(i) shall be equal to such dollar amounts for 2010.
   - **(7)** For purposes of this subsection, the term “joint return” has the meaning given to such term by section 7701(a)(38) of the Internal Revenue Code of 1986.

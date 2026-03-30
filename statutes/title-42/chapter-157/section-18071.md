@@ -3,9 +3,9 @@ title: "Section 18071 - Reduced cost-sharing for individuals enrolling in qualif
 usc_title: 42
 usc_section: "18071"
 chapter: 157
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 18071"
-generated_at: "2026-03-30T04:23:02.462Z"
+generated_at: "2026-03-30T04:24:55.487Z"
 status: "active"
 ---
 

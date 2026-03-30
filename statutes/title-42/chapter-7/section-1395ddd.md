@@ -3,9 +3,9 @@ title: "Section 1395ddd - Medicare Integrity Program"
 usc_title: 42
 usc_section: "1395ddd"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395ddd"
-generated_at: "2026-03-30T04:23:02.021Z"
+generated_at: "2026-03-30T04:24:55.054Z"
 status: "active"
 ---
 
@@ -87,6 +87,7 @@ status: "active"
       - **(iii)** increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
     - **(B)** The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Director of the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title ). Such information shall be disseminated no less frequently than quarterly.
   - **(2)** The Secretary shall waive only such requirements of this section and of subchapters XI and XIX as are necessary to carry out paragraph (1).
+  - **(3)** The Secretary shall study and, as appropriate, may specify incentives for States to work with the Secretary for the purposes described in paragraph (1)(A)(ii). The application of the previous sentence may include use of the waiver authority described in paragraph (2).
 - **(h)**
   - **(1)** Under the Program, the Secretary shall enter into contracts with recovery audit contractors in accordance with this subsection for the purpose of identifying underpayments and overpayments and recouping overpayments under this subchapter with respect to all services for which payment is made under this subchapter. Under the contracts—
     - **(A)** payment shall be made to such a contractor only from amounts recovered;
@@ -94,7 +95,7 @@ status: "active"
       - **(i)** shall be made on a contingent basis for collecting overpayments; and
       - **(ii)** may be made in such amounts as the Secretary may specify for identifying underpayments; and
     - **(C)** the Secretary shall retain a portion of the amounts recovered which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of activities conducted under the recovery audit program under this subsection.
-  - **(2)** The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under this subchapter.
+  - **(2)** The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) or paragraph (10) shall be applied to reduce expenditures under this subchapter.
   - **(3)** The Secretary shall enter into contracts under paragraph (1) in a manner so as to provide for activities in all States under such a contract by not later than January 1, 2010 (not later than December 31, 2010 , in the case of contracts relating to payments made under part C or D).
   - **(4)** Each such contract shall provide that audit and recovery activities may be conducted during a fiscal year with respect to payments made under this subchapter—
     - **(A)** during such fiscal year; and
@@ -111,6 +112,10 @@ status: "active"
     - **(B)** ensure that each prescription drug plan under part D has an anti-fraud plan in effect and to review the effectiveness of each such anti-fraud plan;
     - **(C)** examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drug plans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
     - **(D)** review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
+  - **(10)**
+    - **(A)** After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395 l (z), 1 1 See References in Text note below. 1935m( l )(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
+    - **(B)** Except for uses that support claims processing (including edits) or system functionality for detecting fraud, amounts retained under subparagraph (A) may not be used for technological-related infrastructure, capital investments, or information systems.
+    - **(C)** Nothing in subparagraph (A) shall reduce amounts available for payments to recovery audit contractors under this subsection.
 - **(i)**
   - **(1)** The Secretary shall conduct evaluations of eligible entities which the Secretary contracts with under the Program not less frequently than every 3 years.
   - **(2)** Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—

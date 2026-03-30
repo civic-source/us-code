@@ -3,9 +3,9 @@ title: "Section 1395aa - Agreements with States"
 usc_title: 42
 usc_section: "1395aa"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1395aa"
-generated_at: "2026-03-30T04:23:01.999Z"
+generated_at: "2026-03-30T04:24:55.033Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 707 - Benefits for employees at overseas offices who are United 
 usc_title: 38
 usc_section: "707"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "38 U.S.C. § 707"
-generated_at: "2026-03-30T04:22:46.924Z"
+generated_at: "2026-03-30T04:24:41.446Z"
 status: "active"
 ---
 

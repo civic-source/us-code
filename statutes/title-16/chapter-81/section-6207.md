@@ -3,9 +3,9 @@ title: "Section 6207 - Annual adjustment of cabin user fee"
 usc_title: 16
 usc_section: "6207"
 chapter: 81
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 6207"
-generated_at: "2026-03-30T04:22:19.815Z"
+generated_at: "2026-03-30T04:23:54.172Z"
 status: "active"
 ---
 

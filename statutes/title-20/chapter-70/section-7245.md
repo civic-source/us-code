@@ -3,9 +3,9 @@ title: "Section 7245 - Elementary and secondary school counseling programs"
 usc_title: 20
 usc_section: "7245"
 chapter: 70
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "20 U.S.C. § 7245"
-generated_at: "2026-03-30T04:22:17.177Z"
+generated_at: "2026-03-30T04:24:13.094Z"
 status: "active"
 ---
 

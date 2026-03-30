@@ -3,9 +3,9 @@ title: "Section 1521 - Omitted"
 usc_title: 42
 usc_section: "1521"
 chapter: 9
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 1521"
-generated_at: "2026-03-30T04:23:02.076Z"
+generated_at: "2026-03-30T04:24:55.110Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 173 - Functions of Service"
 usc_title: 29
 usc_section: "173"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "29 U.S.C. § 173"
-generated_at: "2026-03-30T04:22:39.549Z"
+generated_at: "2026-03-30T04:24:27.326Z"
 status: "active"
 ---
 

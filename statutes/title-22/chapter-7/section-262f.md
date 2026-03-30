@@ -3,9 +3,9 @@ title: "Section 262f - Promotion of development and utilization of light capital
 usc_title: 22
 usc_section: "262f"
 chapter: 7
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 262f"
-generated_at: "2026-03-30T04:22:26.373Z"
+generated_at: "2026-03-30T04:24:18.308Z"
 status: "active"
 ---
 

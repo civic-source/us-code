@@ -3,9 +3,9 @@ title: "Section 1028 - Hot dry rock geothermal energy"
 usc_title: 30
 usc_section: "1028"
 chapter: 23
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "30 U.S.C. § 1028"
-generated_at: "2026-03-30T04:22:34.352Z"
+generated_at: "2026-03-30T04:24:25.425Z"
 status: "active"
 ---
 

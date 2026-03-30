@@ -3,9 +3,9 @@ title: "Section 163 - Role of Chairman of Joint Chiefs of Staff"
 usc_title: 10
 usc_section: "163"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 163"
-generated_at: "2026-03-30T04:21:51.845Z"
+generated_at: "2026-03-30T04:23:32.973Z"
 status: "active"
 ---
 

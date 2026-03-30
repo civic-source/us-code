@@ -3,9 +3,9 @@ title: "Section 23 - Distribution of funds to tribes"
 usc_title: 25
 usc_section: "23"
 chapter: 14
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 23"
-generated_at: "2026-03-30T04:22:24.123Z"
+generated_at: "2026-03-30T04:24:20.406Z"
 status: "active"
 ---
 

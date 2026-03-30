@@ -3,9 +3,9 @@ title: "Section 1048 - Administrative detention of violative articles; duration;
 usc_title: 21
 usc_section: "1048"
 chapter: 15
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "21 U.S.C. § 1048"
-generated_at: "2026-03-30T04:22:22.797Z"
+generated_at: "2026-03-30T04:24:19.497Z"
 status: "active"
 ---
 

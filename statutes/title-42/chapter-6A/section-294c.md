@@ -3,9 +3,9 @@ title: "Section 294c - Education and training relating to geriatrics"
 usc_title: 42
 usc_section: "294c"
 chapter: 6
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "42 U.S.C. § 294c"
-generated_at: "2026-03-30T04:23:01.843Z"
+generated_at: "2026-03-30T04:24:54.874Z"
 status: "active"
 ---
 

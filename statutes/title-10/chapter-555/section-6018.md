@@ -3,9 +3,9 @@ title: "Section 6018 - Repealed. Pub. L. 96–513, title III, § 372 , Dec. 12, 
 usc_title: 10
 usc_section: "6018"
 chapter: 555
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "10 U.S.C. § 6018"
-generated_at: "2026-03-30T04:21:51.952Z"
+generated_at: "2026-03-30T04:23:33.077Z"
 status: "repealed"
 ---
 

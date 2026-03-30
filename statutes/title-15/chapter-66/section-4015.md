@@ -3,9 +3,9 @@ title: "Section 4015 - Judicial review; admissibility"
 usc_title: 15
 usc_section: "4015"
 chapter: 66
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "15 U.S.C. § 4015"
-generated_at: "2026-03-30T04:22:10.165Z"
+generated_at: "2026-03-30T04:23:45.101Z"
 status: "active"
 ---
 

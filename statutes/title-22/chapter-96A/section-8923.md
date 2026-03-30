@@ -3,9 +3,9 @@ title: "Section 8923 - Sanctions relating to the defense and energy sectors of t
 usc_title: 22
 usc_section: "8923"
 chapter: 96
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "22 U.S.C. § 8923"
-generated_at: "2026-03-30T04:22:26.505Z"
+generated_at: "2026-03-30T04:24:18.442Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 381 - Irrigation lands; regulation of use of water"
 usc_title: 25
 usc_section: "381"
 chapter: 11
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "25 U.S.C. § 381"
-generated_at: "2026-03-30T04:22:24.091Z"
+generated_at: "2026-03-30T04:24:20.376Z"
 status: "active"
 ---
 

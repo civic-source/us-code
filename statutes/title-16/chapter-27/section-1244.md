@@ -3,9 +3,9 @@ title: "Section 1244 - National scenic and national historic trails"
 usc_title: 16
 usc_section: "1244"
 chapter: 27
-current_through: "PL 114-9"
+current_through: "PL 114-11"
 classification: "16 U.S.C. § 1244"
-generated_at: "2026-03-30T04:22:19.745Z"
+generated_at: "2026-03-30T04:23:54.101Z"
 status: "active"
 ---
 
@@ -117,7 +117,7 @@ status: "active"
 - **(b)** The Secretary of the Interior, through the agency most likely to administer such trail, and the Secretary of Agriculture where lands administered by him are involved, shall make such additional studies as are herein or may hereafter be authorized by the Congress for the purpose of determining the feasibility and desirability of designating other trails as national scenic or national historic trails. Such studies shall be made in consultation with the heads of other Federal agencies administering lands through which such additional proposed trails would pass and in cooperation with interested interstate, State, and local governmental agencies, public and private organizations, and landowners and land users concerned. The feasibility of designating a trail shall be determined on the basis of an evaluation of whether or not it is physically possible to develop a trail along a route being studied, and whether the development of a trail would be financially feasible. The studies listed in subsection (c) of this section shall be completed and submitted to the Congress, with recommendations as to the suitability of trail designation, not later than three complete fiscal years from the date of enactment of their addition to this subsection, or from November 10, 1978 , whichever is later. Such studies, when submitted, shall be printed as a House or Senate document, and shall include, but not be limited to:
   - **(1)** the proposed route of such trail (including maps and illustrations);
   - **(2)** the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
-  - **(3)** the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 ( 49 Stat. 666 );
+  - **(3)** the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 ( 49 Stat. 666 ; 16 U.S.C. 461 ); 1 1 See References in Text note below.
   - **(4)** the current status of land ownership and current and potential use along the designated route;
   - **(5)** the estimated cost of acquisition of lands or interests in lands, if any;
   - **(6)** the plans for developing and maintaining the trail and the cost thereof;
