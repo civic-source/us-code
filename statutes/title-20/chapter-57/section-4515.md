@@ -3,9 +3,9 @@ title: "Section 4515 - Appropriations"
 usc_title: 20
 usc_section: "4515"
 chapter: 57
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "20 U.S.C. § 4515"
-generated_at: "2026-03-30T05:14:47.464Z"
+generated_at: "2026-03-30T05:17:37.579Z"
 status: "active"
 ---
 

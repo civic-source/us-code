@@ -3,9 +3,9 @@ title: "Section 10603b - Compensation and assistance to victims of terrorism or 
 usc_title: 42
 usc_section: "10603b"
 chapter: 112
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 10603b"
-generated_at: "2026-03-30T05:15:41.380Z"
+generated_at: "2026-03-30T05:18:18.852Z"
 status: "active"
 ---
 

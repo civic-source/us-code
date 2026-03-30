@@ -3,9 +3,9 @@ title: "Section 1099 - Division into counties before opening to settlement; rese
 usc_title: 43
 usc_section: "1099"
 chapter: 27
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "43 U.S.C. § 1099"
-generated_at: "2026-03-30T05:15:30.853Z"
+generated_at: "2026-03-30T05:18:06.934Z"
 status: "active"
 ---
 

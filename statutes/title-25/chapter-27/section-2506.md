@@ -3,9 +3,9 @@ title: "Section 2506 - Payment of grants; investment of funds"
 usc_title: 25
 usc_section: "2506"
 chapter: 27
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 2506"
-generated_at: "2026-03-30T05:15:09.513Z"
+generated_at: "2026-03-30T05:17:42.047Z"
 status: "active"
 ---
 

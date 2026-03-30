@@ -3,9 +3,9 @@ title: "Section 1277 - Special bituminous coal mines"
 usc_title: 30
 usc_section: "1277"
 chapter: 25
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "30 U.S.C. § 1277"
-generated_at: "2026-03-30T05:15:14.194Z"
+generated_at: "2026-03-30T05:17:47.601Z"
 status: "active"
 ---
 

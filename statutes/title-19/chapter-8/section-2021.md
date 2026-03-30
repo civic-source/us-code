@@ -3,9 +3,9 @@ title: "Section 2021 - General authority"
 usc_title: 19
 usc_section: "2021"
 chapter: 8
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "19 U.S.C. § 2021"
-generated_at: "2026-03-30T05:14:49.517Z"
+generated_at: "2026-03-30T05:17:35.786Z"
 status: "active"
 ---
 

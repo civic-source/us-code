@@ -3,9 +3,9 @@ title: "Section 9845 - Repealed. Pub. L. 103–252, title I , § 117, May 18, 19
 usc_title: 42
 usc_section: "9845"
 chapter: 105
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 9845"
-generated_at: "2026-03-30T05:15:41.356Z"
+generated_at: "2026-03-30T05:18:18.835Z"
 status: "repealed"
 ---
 

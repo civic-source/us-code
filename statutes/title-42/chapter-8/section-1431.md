@@ -3,9 +3,9 @@ title: "Section 1431 - Omitted"
 usc_title: 42
 usc_section: "1431"
 chapter: 8
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 1431"
-generated_at: "2026-03-30T05:15:40.997Z"
+generated_at: "2026-03-30T05:18:18.272Z"
 status: "omitted"
 ---
 

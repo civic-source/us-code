@@ -3,9 +3,9 @@ title: "Section 138i - Effect of other laws"
 usc_title: 7
 usc_section: "138i"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "7 U.S.C. § 138i"
-generated_at: "2026-03-30T05:14:30.626Z"
+generated_at: "2026-03-30T05:16:57.254Z"
 status: "active"
 ---
 

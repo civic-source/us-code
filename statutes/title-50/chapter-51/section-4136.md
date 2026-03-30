@@ -3,9 +3,9 @@ title: "Section 4136 - Deductions in making awards"
 usc_title: 50
 usc_section: "4136"
 chapter: 51
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "50 U.S.C. § 4136"
-generated_at: "2026-03-30T05:15:48.556Z"
+generated_at: "2026-03-30T05:18:30.382Z"
 status: "active"
 ---
 

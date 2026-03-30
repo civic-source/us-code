@@ -3,9 +3,9 @@ title: "Section 2655 - Rural firefighters and emergency medical service assistan
 usc_title: 7
 usc_section: "2655"
 chapter: 59
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "7 U.S.C. § 2655"
-generated_at: "2026-03-30T05:14:30.712Z"
+generated_at: "2026-03-30T05:16:57.338Z"
 status: "active"
 ---
 

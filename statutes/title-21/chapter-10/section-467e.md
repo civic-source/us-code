@@ -3,9 +3,9 @@ title: "Section 467e - Non-Federal jurisdiction of federally regulated matters; 
 usc_title: 21
 usc_section: "467e"
 chapter: 10
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "21 U.S.C. § 467e"
-generated_at: "2026-03-30T05:14:56.057Z"
+generated_at: "2026-03-30T05:17:40.882Z"
 status: "active"
 ---
 

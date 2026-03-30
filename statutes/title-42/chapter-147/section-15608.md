@@ -3,9 +3,9 @@ title: "Section 15608 - Requirement that accreditation organizations adopt accre
 usc_title: 42
 usc_section: "15608"
 chapter: 147
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 15608"
-generated_at: "2026-03-30T05:15:41.496Z"
+generated_at: "2026-03-30T05:18:18.932Z"
 status: "active"
 ---
 

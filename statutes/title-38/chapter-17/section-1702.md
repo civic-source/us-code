@@ -3,9 +3,9 @@ title: "Section 1702 - Presumptions: psychosis after service in World War II and
 usc_title: 38
 usc_section: "1702"
 chapter: 17
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "38 U.S.C. § 1702"
-generated_at: "2026-03-30T05:15:26.835Z"
+generated_at: "2026-03-30T05:18:02.464Z"
 status: "active"
 ---
 

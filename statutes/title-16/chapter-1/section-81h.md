@@ -3,9 +3,9 @@ title: "Section 81h - Civil and criminal jurisdiction; legislative authority of 
 usc_title: 16
 usc_section: "81h"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 81h"
-generated_at: "2026-03-30T05:14:45.559Z"
+generated_at: "2026-03-30T05:17:33.733Z"
 status: "active"
 ---
 

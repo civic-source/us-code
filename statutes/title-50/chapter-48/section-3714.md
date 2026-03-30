@@ -3,9 +3,9 @@ title: "Section 3714 - Use of funds for unspecified purposes or for increased am
 usc_title: 50
 usc_section: "3714"
 chapter: 48
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "50 U.S.C. § 3714"
-generated_at: "2026-03-30T05:15:48.544Z"
+generated_at: "2026-03-30T05:18:30.375Z"
 status: "active"
 ---
 

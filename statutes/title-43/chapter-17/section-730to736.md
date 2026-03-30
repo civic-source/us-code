@@ -3,9 +3,9 @@ title: "Section 730to736 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oc
 usc_title: 43
 usc_section: "730to736"
 chapter: 17
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "43 U.S.C. § 730to736"
-generated_at: "2026-03-30T05:15:30.847Z"
+generated_at: "2026-03-30T05:18:06.927Z"
 status: "repealed"
 ---
 

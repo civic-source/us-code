@@ -3,9 +3,9 @@ title: "Section 2108 - Responsibility for custody, use, and withdrawal of record
 usc_title: 44
 usc_section: "2108"
 chapter: 21
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "44 U.S.C. § 2108"
-generated_at: "2026-03-30T05:15:29.978Z"
+generated_at: "2026-03-30T05:18:05.192Z"
 status: "active"
 ---
 

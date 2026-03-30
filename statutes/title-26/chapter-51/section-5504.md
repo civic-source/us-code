@@ -3,9 +3,9 @@ title: "Section 5504 - Operation"
 usc_title: 26
 usc_section: "5504"
 chapter: 51
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "26 U.S.C. § 5504"
-generated_at: "2026-03-30T05:15:19.869Z"
+generated_at: "2026-03-30T05:17:54.119Z"
 status: "active"
 ---
 

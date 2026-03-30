@@ -3,9 +3,9 @@ title: "Section 50133 - Shuttle privatization"
 usc_title: 51
 usc_section: "50133"
 chapter: 501
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "51 U.S.C. § 50133"
-generated_at: "2026-03-30T05:15:54.835Z"
+generated_at: "2026-03-30T05:18:32.679Z"
 status: "active"
 ---
 

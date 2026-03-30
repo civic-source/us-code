@@ -3,9 +3,9 @@ title: "Section 10131 - Findings and purposes"
 usc_title: 42
 usc_section: "10131"
 chapter: 108
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 10131"
-generated_at: "2026-03-30T05:15:41.366Z"
+generated_at: "2026-03-30T05:18:18.841Z"
 status: "active"
 ---
 

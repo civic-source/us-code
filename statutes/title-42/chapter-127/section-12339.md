@@ -3,9 +3,9 @@ title: "Section 12339 - Repealed. Pub. L. 103–252, title IV , § 401(b)(1), Ma
 usc_title: 42
 usc_section: "12339"
 chapter: 127
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 12339"
-generated_at: "2026-03-30T05:15:41.409Z"
+generated_at: "2026-03-30T05:18:18.872Z"
 status: "repealed"
 ---
 

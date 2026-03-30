@@ -3,9 +3,9 @@ title: "Section 28d - Distribution of Precedents by Director of the Government P
 usc_title: 2
 usc_section: "28d"
 chapter: 2
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "2 U.S.C. § 28d"
-generated_at: "2026-03-30T05:14:18.635Z"
+generated_at: "2026-03-30T05:16:25.551Z"
 status: "active"
 ---
 

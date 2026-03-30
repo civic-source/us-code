@@ -3,9 +3,9 @@ title: "Section 2302 - Definitions"
 usc_title: 10
 usc_section: "2302"
 chapter: 137
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 2302"
-generated_at: "2026-03-30T05:14:27.781Z"
+generated_at: "2026-03-30T05:17:01.042Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5165b - Management costs"
 usc_title: 42
 usc_section: "5165b"
 chapter: 68
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 5165b"
-generated_at: "2026-03-30T05:15:41.173Z"
+generated_at: "2026-03-30T05:18:18.703Z"
 status: "active"
 ---
 

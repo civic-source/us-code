@@ -3,9 +3,9 @@ title: "Section 346 - Exchange of lands"
 usc_title: 16
 usc_section: "346"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 346"
-generated_at: "2026-03-30T05:14:45.572Z"
+generated_at: "2026-03-30T05:17:33.745Z"
 status: "active"
 ---
 

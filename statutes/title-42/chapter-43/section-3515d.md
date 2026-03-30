@@ -3,9 +3,9 @@ title: "Section 3515d - Expenses of Office of Inspector General; protective serv
 usc_title: 42
 usc_section: "3515d"
 chapter: 43
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 3515d"
-generated_at: "2026-03-30T05:15:41.118Z"
+generated_at: "2026-03-30T05:18:18.662Z"
 status: "active"
 ---
 

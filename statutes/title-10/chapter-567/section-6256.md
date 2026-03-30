@@ -3,9 +3,9 @@ title: "Section 6256 - Medal of honor: duplicate medal"
 usc_title: 10
 usc_section: "6256"
 chapter: 567
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 6256"
-generated_at: "2026-03-30T05:14:27.825Z"
+generated_at: "2026-03-30T05:17:01.085Z"
 status: "active"
 ---
 

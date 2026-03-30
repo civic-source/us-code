@@ -3,9 +3,9 @@ title: "Section 80510 - Service of process"
 usc_title: 36
 usc_section: "80510"
 chapter: 805
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "36 U.S.C. § 80510"
-generated_at: "2026-03-30T05:15:25.727Z"
+generated_at: "2026-03-30T05:17:59.819Z"
 status: "active"
 ---
 

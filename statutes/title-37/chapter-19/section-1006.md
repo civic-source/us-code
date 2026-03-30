@@ -3,9 +3,9 @@ title: "Section 1006 - Advance payments"
 usc_title: 37
 usc_section: "1006"
 chapter: 19
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "37 U.S.C. § 1006"
-generated_at: "2026-03-30T05:15:25.141Z"
+generated_at: "2026-03-30T05:17:59.289Z"
 status: "active"
 ---
 

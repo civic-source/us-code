@@ -3,9 +3,9 @@ title: "Section 4359 - Oversight and effect of agreements"
 usc_title: 20
 usc_section: "4359"
 chapter: 55
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "20 U.S.C. § 4359"
-generated_at: "2026-03-30T05:14:47.462Z"
+generated_at: "2026-03-30T05:17:37.577Z"
 status: "active"
 ---
 

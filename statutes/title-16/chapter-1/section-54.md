@@ -3,9 +3,9 @@ title: "Section 54 - Soda Springs Desert Study Center"
 usc_title: 16
 usc_section: "54"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 54"
-generated_at: "2026-03-30T05:14:45.589Z"
+generated_at: "2026-03-30T05:17:33.761Z"
 status: "active"
 ---
 

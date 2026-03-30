@@ -3,9 +3,9 @@ title: "Section 16235 - Renewable energy in public buildings"
 usc_title: 42
 usc_section: "16235"
 chapter: 149
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 16235"
-generated_at: "2026-03-30T05:15:41.510Z"
+generated_at: "2026-03-30T05:18:18.942Z"
 status: "active"
 ---
 

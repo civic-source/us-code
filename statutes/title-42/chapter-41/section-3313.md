@@ -3,9 +3,9 @@ title: "Section 3313 - Omitted"
 usc_title: 42
 usc_section: "3313"
 chapter: 41
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 3313"
-generated_at: "2026-03-30T05:15:41.116Z"
+generated_at: "2026-03-30T05:18:18.660Z"
 status: "omitted"
 ---
 

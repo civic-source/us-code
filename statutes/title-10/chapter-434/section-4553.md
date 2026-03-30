@@ -3,9 +3,9 @@ title: "Section 4553 - Armament Retooling and Manufacturing Support Initiative"
 usc_title: 10
 usc_section: "4553"
 chapter: 434
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 4553"
-generated_at: "2026-03-30T05:14:27.819Z"
+generated_at: "2026-03-30T05:17:01.079Z"
 status: "active"
 ---
 

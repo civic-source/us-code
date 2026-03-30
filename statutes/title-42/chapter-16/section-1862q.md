@@ -3,9 +3,9 @@ title: "Section 1862q - Informal STEM education"
 usc_title: 42
 usc_section: "1862q"
 chapter: 16
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 1862q"
-generated_at: "2026-03-30T05:15:41.052Z"
+generated_at: "2026-03-30T05:18:18.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3069 - Army Nurse Corps: composition; Chief and assistant chief;
 usc_title: 10
 usc_section: "3069"
 chapter: 307
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 3069"
-generated_at: "2026-03-30T05:14:27.814Z"
+generated_at: "2026-03-30T05:17:01.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 467e - Interagency Committee on Dam Safety"
 usc_title: 33
 usc_section: "467e"
 chapter: 9
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "33 U.S.C. § 467e"
-generated_at: "2026-03-30T05:15:23.348Z"
+generated_at: "2026-03-30T05:17:57.430Z"
 status: "active"
 ---
 

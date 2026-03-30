@@ -3,9 +3,9 @@ title: "Section 907b - Modification of Presidential order"
 usc_title: 2
 usc_section: "907b"
 chapter: 20
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "2 U.S.C. § 907b"
-generated_at: "2026-03-30T05:14:18.652Z"
+generated_at: "2026-03-30T05:16:25.579Z"
 status: "active"
 ---
 

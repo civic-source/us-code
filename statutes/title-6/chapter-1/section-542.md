@@ -3,9 +3,9 @@ title: "Section 542 - Reorganization plan"
 usc_title: 6
 usc_section: "542"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "6 U.S.C. § 542"
-generated_at: "2026-03-30T05:14:20.717Z"
+generated_at: "2026-03-30T05:16:27.634Z"
 status: "active"
 ---
 

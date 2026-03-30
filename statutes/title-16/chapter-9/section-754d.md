@@ -3,9 +3,9 @@ title: "Section 754d - Fee schedule for forensic laboratory services"
 usc_title: 16
 usc_section: "754d"
 chapter: 9
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 754d"
-generated_at: "2026-03-30T05:14:45.675Z"
+generated_at: "2026-03-30T05:17:33.845Z"
 status: "active"
 ---
 

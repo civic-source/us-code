@@ -3,9 +3,9 @@ title: "Section 640b - Grants"
 usc_title: 25
 usc_section: "640b"
 chapter: 14
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 640b"
-generated_at: "2026-03-30T05:15:09.458Z"
+generated_at: "2026-03-30T05:17:41.993Z"
 status: "active"
 ---
 

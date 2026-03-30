@@ -3,9 +3,9 @@ title: "Section 8 - Additional roads; construction by United States"
 usc_title: 33
 usc_section: "8"
 chapter: 15
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "33 U.S.C. § 8"
-generated_at: "2026-03-30T05:15:23.357Z"
+generated_at: "2026-03-30T05:17:57.439Z"
 status: "active"
 ---
 

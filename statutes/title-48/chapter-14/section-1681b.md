@@ -3,9 +3,9 @@ title: "Section 1681b - Transfer of functions from government comptroller for Gu
 usc_title: 48
 usc_section: "1681b"
 chapter: 14
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "48 U.S.C. § 1681b"
-generated_at: "2026-03-30T05:15:45.504Z"
+generated_at: "2026-03-30T05:18:24.069Z"
 status: "active"
 ---
 

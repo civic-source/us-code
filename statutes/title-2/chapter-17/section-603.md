@@ -3,9 +3,9 @@ title: "Section 603 - Public access to budget data"
 usc_title: 2
 usc_section: "603"
 chapter: 17
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "2 U.S.C. § 603"
-generated_at: "2026-03-30T05:14:18.647Z"
+generated_at: "2026-03-30T05:16:25.570Z"
 status: "active"
 ---
 

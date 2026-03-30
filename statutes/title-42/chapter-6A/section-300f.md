@@ -3,9 +3,9 @@ title: "Section 300f - Definitions"
 usc_title: 42
 usc_section: "300f"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 300f"
-generated_at: "2026-03-30T05:15:40.742Z"
+generated_at: "2026-03-30T05:18:18.065Z"
 status: "active"
 ---
 

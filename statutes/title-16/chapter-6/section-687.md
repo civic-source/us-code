@@ -3,9 +3,9 @@ title: "Section 687 - Grand Canyon Game Preserve included in park"
 usc_title: 16
 usc_section: "687"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 687"
-generated_at: "2026-03-30T05:14:45.667Z"
+generated_at: "2026-03-30T05:17:33.837Z"
 status: "active"
 ---
 

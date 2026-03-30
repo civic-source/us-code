@@ -3,9 +3,9 @@ title: "Section 565 - Authorization to distribute funds"
 usc_title: 25
 usc_section: "565"
 chapter: 14
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 565"
-generated_at: "2026-03-30T05:15:09.456Z"
+generated_at: "2026-03-30T05:17:41.991Z"
 status: "active"
 ---
 

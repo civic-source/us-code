@@ -3,9 +3,9 @@ title: "Section 47136 - Inherently low-emission airport vehicle pilot program"
 usc_title: 49
 usc_section: "47136"
 chapter: 471
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "49 U.S.C. § 47136"
-generated_at: "2026-03-30T05:15:52.386Z"
+generated_at: "2026-03-30T05:18:26.614Z"
 status: "active"
 ---
 

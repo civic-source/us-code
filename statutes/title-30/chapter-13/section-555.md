@@ -3,9 +3,9 @@ title: "Section 555 - Conditions precedent for aid to non-Federal lands"
 usc_title: 30
 usc_section: "555"
 chapter: 13
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "30 U.S.C. § 555"
-generated_at: "2026-03-30T05:15:14.176Z"
+generated_at: "2026-03-30T05:17:47.584Z"
 status: "active"
 ---
 

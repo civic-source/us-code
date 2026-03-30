@@ -3,9 +3,9 @@ title: "Section 16912 - Registry requirements for jurisdictions"
 usc_title: 42
 usc_section: "16912"
 chapter: 151
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 16912"
-generated_at: "2026-03-30T05:15:41.522Z"
+generated_at: "2026-03-30T05:18:18.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13971 - Rural domestic violence, dating violence, sexual assault
 usc_title: 42
 usc_section: "13971"
 chapter: 136
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 13971"
-generated_at: "2026-03-30T05:15:41.463Z"
+generated_at: "2026-03-30T05:18:18.911Z"
 status: "active"
 ---
 

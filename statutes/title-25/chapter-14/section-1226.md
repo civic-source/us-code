@@ -3,9 +3,9 @@ title: "Section 1226 - Shares not distributed within two years; unexpended funds
 usc_title: 25
 usc_section: "1226"
 chapter: 14
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 1226"
-generated_at: "2026-03-30T05:15:09.475Z"
+generated_at: "2026-03-30T05:17:42.010Z"
 status: "active"
 ---
 

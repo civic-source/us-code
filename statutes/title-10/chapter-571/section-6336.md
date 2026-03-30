@@ -3,9 +3,9 @@ title: "Section 6336 - Highest grade held satisfactorily: Reserve enlisted membe
 usc_title: 10
 usc_section: "6336"
 chapter: 571
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 6336"
-generated_at: "2026-03-30T05:14:27.826Z"
+generated_at: "2026-03-30T05:17:01.086Z"
 status: "active"
 ---
 

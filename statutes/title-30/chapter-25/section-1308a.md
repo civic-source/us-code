@@ -3,9 +3,9 @@ title: "Section 1308a - Use of civil penalty funds to reclaim lands"
 usc_title: 30
 usc_section: "1308a"
 chapter: 25
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "30 U.S.C. § 1308a"
-generated_at: "2026-03-30T05:15:14.195Z"
+generated_at: "2026-03-30T05:17:47.602Z"
 status: "active"
 ---
 

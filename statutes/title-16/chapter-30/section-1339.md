@@ -3,9 +3,9 @@ title: "Section 1339 - Limitation of authority"
 usc_title: 16
 usc_section: "1339"
 chapter: 30
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 1339"
-generated_at: "2026-03-30T05:14:45.710Z"
+generated_at: "2026-03-30T05:17:33.879Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1778f - Satisfaction of claims, waivers, and releases"
 usc_title: 25
 usc_section: "1778f"
 chapter: 19
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 1778f"
-generated_at: "2026-03-30T05:15:09.500Z"
+generated_at: "2026-03-30T05:17:42.034Z"
 status: "active"
 ---
 

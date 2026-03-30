@@ -3,9 +3,9 @@ title: "Section 14051 - Increased penalties for drug-dealing in “drug-free” 
 usc_title: 42
 usc_section: "14051"
 chapter: 136
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 14051"
-generated_at: "2026-03-30T05:15:41.472Z"
+generated_at: "2026-03-30T05:18:18.916Z"
 status: "active"
 ---
 

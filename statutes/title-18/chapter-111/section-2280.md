@@ -3,9 +3,9 @@ title: "Section 2280 - Violence against maritime navigation"
 usc_title: 18
 usc_section: "2280"
 chapter: 111
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "18 U.S.C. § 2280"
-generated_at: "2026-03-30T05:14:48.259Z"
+generated_at: "2026-03-30T05:17:30.366Z"
 status: "active"
 ---
 
@@ -59,7 +59,7 @@ status: "active"
   - **(5)** “covered ship” means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country’s territorial sea with an adjacent country;
   - **(6)** “explosive material” has the meaning given the term in section 841(c) and includes explosive as defined in section 844(j) of this title ;
   - **(7)** “infrastructure facility” has the meaning given the term in section 2332f(e)(5) of this title ;
-  - **(8)** “international organization” has the meaning given the term in section 831(f)(3) of this title ;
+  - **(8)** “international organization” has the meaning given the term in section 831(f)(3) 1 1 See References in Text note below. of this title;
   - **(9)** “military forces of a state” means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
   - **(10)** “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) );
   - **(11)** “Non-Proliferation Treaty” means the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow on 1 July 1968;

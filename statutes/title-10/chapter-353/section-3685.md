@@ -3,9 +3,9 @@ title: "Section 3685 - Repealed. Pub. L. 90–235 , § 7(a)(3), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3685"
 chapter: 353
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 3685"
-generated_at: "2026-03-30T05:14:27.815Z"
+generated_at: "2026-03-30T05:17:01.076Z"
 status: "repealed"
 ---
 

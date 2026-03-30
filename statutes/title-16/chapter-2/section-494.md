@@ -3,9 +3,9 @@ title: "Section 494 - Calaveras Bigtree National Forest"
 usc_title: 16
 usc_section: "494"
 chapter: 2
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 494"
-generated_at: "2026-03-30T05:14:45.643Z"
+generated_at: "2026-03-30T05:17:33.814Z"
 status: "active"
 ---
 

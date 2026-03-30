@@ -3,9 +3,9 @@ title: "Section 1728 - Reimbursement of certain medical expenses"
 usc_title: 38
 usc_section: "1728"
 chapter: 17
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "38 U.S.C. § 1728"
-generated_at: "2026-03-30T05:15:26.838Z"
+generated_at: "2026-03-30T05:18:02.468Z"
 status: "active"
 ---
 

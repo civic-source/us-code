@@ -3,9 +3,9 @@ title: "Section 15871 - Coordination of geothermal leasing and permitting on Fed
 usc_title: 42
 usc_section: "15871"
 chapter: 149
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 15871"
-generated_at: "2026-03-30T05:15:41.498Z"
+generated_at: "2026-03-30T05:18:18.933Z"
 status: "active"
 ---
 

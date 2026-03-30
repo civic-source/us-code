@@ -3,9 +3,9 @@ title: "Section 469 - Training"
 usc_title: 14
 usc_section: "469"
 chapter: 13
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "14 U.S.C. § 469"
-generated_at: "2026-03-30T05:14:33.020Z"
+generated_at: "2026-03-30T05:17:18.381Z"
 status: "active"
 ---
 

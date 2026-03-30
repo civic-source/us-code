@@ -3,9 +3,9 @@ title: "Section 1554a - Review of separation with disability rating of 20 percen
 usc_title: 10
 usc_section: "1554a"
 chapter: 79
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 1554a"
-generated_at: "2026-03-30T05:14:27.765Z"
+generated_at: "2026-03-30T05:17:01.026Z"
 status: "active"
 ---
 

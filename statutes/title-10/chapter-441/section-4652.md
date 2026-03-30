@@ -3,9 +3,9 @@ title: "Section 4652 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "4652"
 chapter: 441
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 4652"
-generated_at: "2026-03-30T05:14:27.820Z"
+generated_at: "2026-03-30T05:17:01.079Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6551 - Findings and purpose"
 usc_title: 16
 usc_section: "6551"
 chapter: 84
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 6551"
-generated_at: "2026-03-30T05:14:45.773Z"
+generated_at: "2026-03-30T05:17:33.943Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6697 - Repealed. Pub. L. 111–325, title V , § 501(a), Dec. 22
 usc_title: 26
 usc_section: "6697"
 chapter: 68
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "26 U.S.C. § 6697"
-generated_at: "2026-03-30T05:15:19.902Z"
+generated_at: "2026-03-30T05:17:54.152Z"
 status: "repealed"
 ---
 

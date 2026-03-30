@@ -3,9 +3,9 @@ title: "Section 3225 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "3225"
 chapter: 331
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 3225"
-generated_at: "2026-03-30T05:14:27.814Z"
+generated_at: "2026-03-30T05:17:01.075Z"
 status: "repealed"
 ---
 

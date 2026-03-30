@@ -3,9 +3,9 @@ title: "Section 17731 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17731"
 chapter: 155
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 17731"
-generated_at: "2026-03-30T05:15:41.544Z"
+generated_at: "2026-03-30T05:18:18.966Z"
 status: "repealed"
 ---
 

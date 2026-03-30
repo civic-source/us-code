@@ -3,9 +3,9 @@ title: "Section 3692 - Repealed. Pub. L. 92–168 , § 1(1), Nov. 24, 1971 , 85 
 usc_title: 10
 usc_section: "3692"
 chapter: 353
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 3692"
-generated_at: "2026-03-30T05:14:27.815Z"
+generated_at: "2026-03-30T05:17:01.076Z"
 status: "repealed"
 ---
 

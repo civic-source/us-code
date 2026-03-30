@@ -3,9 +3,9 @@ title: "Section 6115 - Repealed. Pub. L. 85–861 , § 36B(17), Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "6115"
 chapter: 559
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 6115"
-generated_at: "2026-03-30T05:14:27.824Z"
+generated_at: "2026-03-30T05:17:01.084Z"
 status: "repealed"
 ---
 

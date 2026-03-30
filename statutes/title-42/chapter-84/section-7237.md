@@ -3,9 +3,9 @@ title: "Section 7237 - Priority placement, job placement, retraining, and counse
 usc_title: 42
 usc_section: "7237"
 chapter: 84
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 7237"
-generated_at: "2026-03-30T05:15:41.251Z"
+generated_at: "2026-03-30T05:18:18.760Z"
 status: "active"
 ---
 

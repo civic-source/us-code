@@ -3,9 +3,9 @@ title: "Section 4 - Defective record of deeds and papers legalized"
 usc_title: 25
 usc_section: "4"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 4"
-generated_at: "2026-03-30T05:15:09.430Z"
+generated_at: "2026-03-30T05:17:41.970Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4506 - Termination"
 usc_title: 15
 usc_section: "4506"
 chapter: 71
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "15 U.S.C. § 4506"
-generated_at: "2026-03-30T05:14:40.273Z"
+generated_at: "2026-03-30T05:17:07.011Z"
 status: "active"
 ---
 

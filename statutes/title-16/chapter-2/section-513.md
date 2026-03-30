@@ -3,9 +3,9 @@ title: "Section 513 - Repealed. Pub. L. 94–588 , § 17(a)(1), (2), Oct. 22, 19
 usc_title: 16
 usc_section: "513"
 chapter: 2
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 513"
-generated_at: "2026-03-30T05:14:45.645Z"
+generated_at: "2026-03-30T05:17:33.815Z"
 status: "repealed"
 ---
 

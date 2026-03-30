@@ -3,9 +3,9 @@ title: "Section 56 - Disposal of unappropriated money"
 usc_title: 20
 usc_section: "56"
 chapter: 3
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "20 U.S.C. § 56"
-generated_at: "2026-03-30T05:14:47.313Z"
+generated_at: "2026-03-30T05:17:37.488Z"
 status: "active"
 ---
 

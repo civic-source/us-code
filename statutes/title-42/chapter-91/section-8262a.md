@@ -3,9 +3,9 @@ title: "Section 8262a - Report by General Services Administration"
 usc_title: 42
 usc_section: "8262a"
 chapter: 91
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 8262a"
-generated_at: "2026-03-30T05:15:41.315Z"
+generated_at: "2026-03-30T05:18:18.805Z"
 status: "active"
 ---
 

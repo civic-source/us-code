@@ -3,9 +3,9 @@ title: "Section 7385o - Repealed. Pub. L. 108–375, div. C, title XXXI , § 316
 usc_title: 42
 usc_section: "7385o"
 chapter: 84
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 7385o"
-generated_at: "2026-03-30T05:15:41.260Z"
+generated_at: "2026-03-30T05:18:18.766Z"
 status: "repealed"
 ---
 

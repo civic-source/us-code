@@ -3,9 +3,9 @@ title: "Section 4824 - Contracting authority"
 usc_title: 22
 usc_section: "4824"
 chapter: 58
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "22 U.S.C. § 4824"
-generated_at: "2026-03-30T05:14:55.211Z"
+generated_at: "2026-03-30T05:17:44.080Z"
 status: "active"
 ---
 

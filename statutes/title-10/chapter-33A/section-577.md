@@ -3,9 +3,9 @@ title: "Section 577 - Promotions: effect of failure of selection for"
 usc_title: 10
 usc_section: "577"
 chapter: 33
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 577"
-generated_at: "2026-03-30T05:14:27.729Z"
+generated_at: "2026-03-30T05:17:00.988Z"
 status: "active"
 ---
 

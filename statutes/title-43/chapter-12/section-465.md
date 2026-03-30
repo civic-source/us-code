@@ -3,9 +3,9 @@ title: "Section 465 - Charges for water service prior to notice of construction 
 usc_title: 43
 usc_section: "465"
 chapter: 12
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "43 U.S.C. § 465"
-generated_at: "2026-03-30T05:15:30.839Z"
+generated_at: "2026-03-30T05:18:06.919Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286to290 - Repealed. Pub. L. 93–43, § 7(a)(1) , (13)–(18), 
 usc_title: 24
 usc_section: "286to290"
 chapter: 7
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "24 U.S.C. § 286to290"
-generated_at: "2026-03-30T05:14:52.220Z"
+generated_at: "2026-03-30T05:17:39.477Z"
 status: "repealed"
 ---
 

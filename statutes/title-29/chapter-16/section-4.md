@@ -3,9 +3,9 @@ title: "Section 4 - Standards and assurances for centers for independent living"
 usc_title: 29
 usc_section: "4"
 chapter: 16
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "29 U.S.C. § 4"
-generated_at: "2026-03-30T05:15:13.394Z"
+generated_at: "2026-03-30T05:17:48.553Z"
 status: "active"
 ---
 

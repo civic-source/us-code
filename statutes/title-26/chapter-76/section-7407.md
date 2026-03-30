@@ -3,9 +3,9 @@ title: "Section 7407 - Action to enjoin tax return preparers"
 usc_title: 26
 usc_section: "7407"
 chapter: 76
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "26 U.S.C. § 7407"
-generated_at: "2026-03-30T05:15:19.906Z"
+generated_at: "2026-03-30T05:17:54.157Z"
 status: "active"
 ---
 

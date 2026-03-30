@@ -3,9 +3,9 @@ title: "Section 5114 - Engraving and printing currency and security documents"
 usc_title: 31
 usc_section: "5114"
 chapter: 51
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "31 U.S.C. § 5114"
-generated_at: "2026-03-30T05:15:22.484Z"
+generated_at: "2026-03-30T05:17:56.682Z"
 status: "active"
 ---
 

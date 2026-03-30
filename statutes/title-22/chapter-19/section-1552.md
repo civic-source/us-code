@@ -3,9 +3,9 @@ title: "Section 1552 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(6),
 usc_title: 22
 usc_section: "1552"
 chapter: 19
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "22 U.S.C. § 1552"
-generated_at: "2026-03-30T05:14:55.141Z"
+generated_at: "2026-03-30T05:17:44.012Z"
 status: "repealed"
 ---
 

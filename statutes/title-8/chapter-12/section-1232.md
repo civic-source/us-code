@@ -3,9 +3,9 @@ title: "Section 1232 - Enhancing efforts to combat the trafficking of children"
 usc_title: 8
 usc_section: "1232"
 chapter: 12
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "8 U.S.C. § 1232"
-generated_at: "2026-03-30T05:14:21.795Z"
+generated_at: "2026-03-30T05:16:28.923Z"
 status: "active"
 ---
 

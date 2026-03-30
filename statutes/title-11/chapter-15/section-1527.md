@@ -3,9 +3,9 @@ title: "Section 1527 - Forms of cooperation"
 usc_title: 11
 usc_section: "1527"
 chapter: 15
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "11 U.S.C. § 1527"
-generated_at: "2026-03-30T05:14:34.654Z"
+generated_at: "2026-03-30T05:17:17.280Z"
 status: "active"
 ---
 

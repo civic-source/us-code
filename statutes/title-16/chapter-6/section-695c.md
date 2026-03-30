@@ -3,9 +3,9 @@ title: "Section 695c - Availability of funds for construction of dams, buildings
 usc_title: 16
 usc_section: "695c"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 695c"
-generated_at: "2026-03-30T05:14:45.668Z"
+generated_at: "2026-03-30T05:17:33.838Z"
 status: "active"
 ---
 

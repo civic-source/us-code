@@ -3,9 +3,9 @@ title: "Section 1098dd - Use of professional judgment"
 usc_title: 20
 usc_section: "1098dd"
 chapter: 28
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "20 U.S.C. § 1098dd"
-generated_at: "2026-03-30T05:14:47.425Z"
+generated_at: "2026-03-30T05:17:37.540Z"
 status: "active"
 ---
 

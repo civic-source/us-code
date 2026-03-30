@@ -3,9 +3,9 @@ title: "Section 3613 - Civil remedies for satisfaction of an unpaid fine"
 usc_title: 18
 usc_section: "3613"
 chapter: 229
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "18 U.S.C. § 3613"
-generated_at: "2026-03-30T05:14:48.276Z"
+generated_at: "2026-03-30T05:17:30.384Z"
 status: "active"
 ---
 

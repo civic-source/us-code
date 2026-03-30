@@ -3,9 +3,9 @@ title: "Section 1488 - Lenders authorized to make loans; decrease or increase of
 usc_title: 25
 usc_section: "1488"
 chapter: 17
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 1488"
-generated_at: "2026-03-30T05:15:09.482Z"
+generated_at: "2026-03-30T05:17:42.017Z"
 status: "active"
 ---
 

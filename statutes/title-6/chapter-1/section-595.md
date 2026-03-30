@@ -3,9 +3,9 @@ title: "Section 595 - Relationship to other Department entities and Federal agen
 usc_title: 6
 usc_section: "595"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "6 U.S.C. § 595"
-generated_at: "2026-03-30T05:14:20.719Z"
+generated_at: "2026-03-30T05:16:27.638Z"
 status: "active"
 ---
 

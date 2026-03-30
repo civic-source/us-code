@@ -3,9 +3,9 @@ title: "Section 14a - Health services for Indians and domestic agricultural migr
 usc_title: 42
 usc_section: "14a"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 14a"
-generated_at: "2026-03-30T05:15:40.742Z"
+generated_at: "2026-03-30T05:18:18.065Z"
 status: "active"
 ---
 

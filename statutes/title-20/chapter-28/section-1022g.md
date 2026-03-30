@@ -3,9 +3,9 @@ title: "Section 1022g - General provisions"
 usc_title: 20
 usc_section: "1022g"
 chapter: 28
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "20 U.S.C. § 1022g"
-generated_at: "2026-03-30T05:14:47.387Z"
+generated_at: "2026-03-30T05:17:37.505Z"
 status: "active"
 ---
 

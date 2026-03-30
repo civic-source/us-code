@@ -3,9 +3,9 @@ title: "Section 423 - Disability insurance benefit payments"
 usc_title: 42
 usc_section: "423"
 chapter: 7
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 423"
-generated_at: "2026-03-30T05:15:40.807Z"
+generated_at: "2026-03-30T05:18:18.117Z"
 status: "active"
 ---
 

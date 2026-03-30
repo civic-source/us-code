@@ -3,9 +3,9 @@ title: "Section 21 - Definitions"
 usc_title: 42
 usc_section: "21"
 chapter: 67
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T05:15:41.171Z"
+generated_at: "2026-03-30T05:18:18.701Z"
 status: "active"
 ---
 

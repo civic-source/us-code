@@ -3,9 +3,9 @@ title: "Section 4105 - Attorneys’ fees"
 usc_title: 28
 usc_section: "4105"
 chapter: 181
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "28 U.S.C. § 4105"
-generated_at: "2026-03-30T05:15:12.366Z"
+generated_at: "2026-03-30T05:17:49.430Z"
 status: "active"
 ---
 

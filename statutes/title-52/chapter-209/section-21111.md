@@ -3,9 +3,9 @@ title: "Section 21111 - Actions by the Attorney General for declaratory and inju
 usc_title: 52
 usc_section: "21111"
 chapter: 209
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "52 U.S.C. § 21111"
-generated_at: "2026-03-30T05:15:54.526Z"
+generated_at: "2026-03-30T05:18:32.104Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5561 - Regulations"
 usc_title: 42
 usc_section: "5561"
 chapter: 71
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 5561"
-generated_at: "2026-03-30T05:15:41.189Z"
+generated_at: "2026-03-30T05:18:18.714Z"
 status: "active"
 ---
 

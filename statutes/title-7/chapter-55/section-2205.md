@@ -3,9 +3,9 @@ title: "Section 2205 - Duties of former Commissioner of Agriculture transferred 
 usc_title: 7
 usc_section: "2205"
 chapter: 55
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "7 U.S.C. § 2205"
-generated_at: "2026-03-30T05:14:30.706Z"
+generated_at: "2026-03-30T05:16:57.332Z"
 status: "active"
 ---
 

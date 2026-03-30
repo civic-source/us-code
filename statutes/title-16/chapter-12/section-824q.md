@@ -3,9 +3,9 @@ title: "Section 824q - Native load service obligation"
 usc_title: 16
 usc_section: "824q"
 chapter: 12
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 824q"
-generated_at: "2026-03-30T05:14:45.684Z"
+generated_at: "2026-03-30T05:17:33.854Z"
 status: "active"
 ---
 

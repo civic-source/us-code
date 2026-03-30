@@ -3,9 +3,9 @@ title: "Section 3074 - Repealed. Pub. L. 91–646, title II , § 220(a)(8), titl
 usc_title: 42
 usc_section: "3074"
 chapter: 36
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 3074"
-generated_at: "2026-03-30T05:15:41.114Z"
+generated_at: "2026-03-30T05:18:18.658Z"
 status: "repealed"
 ---
 

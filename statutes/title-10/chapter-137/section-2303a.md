@@ -3,9 +3,9 @@ title: "Section 2303a - Repealed. Pub. L. 98–577, title III , § 302(c)(1), Oc
 usc_title: 10
 usc_section: "2303a"
 chapter: 137
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 2303a"
-generated_at: "2026-03-30T05:14:27.782Z"
+generated_at: "2026-03-30T05:17:01.042Z"
 status: "repealed"
 ---
 

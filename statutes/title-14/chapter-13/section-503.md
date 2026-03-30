@@ -3,9 +3,9 @@ title: "Section 503 - Awards and insignia for excellence in service or conduct"
 usc_title: 14
 usc_section: "503"
 chapter: 13
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "14 U.S.C. § 503"
-generated_at: "2026-03-30T05:14:33.021Z"
+generated_at: "2026-03-30T05:17:18.382Z"
 status: "active"
 ---
 

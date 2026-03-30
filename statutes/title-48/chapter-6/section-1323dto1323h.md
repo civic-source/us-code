@@ -3,9 +3,9 @@ title: "Section 1323dto1323h - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1
 usc_title: 48
 usc_section: "1323dto1323h"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "48 U.S.C. § 1323dto1323h"
-generated_at: "2026-03-30T05:15:45.490Z"
+generated_at: "2026-03-30T05:18:24.062Z"
 status: "repealed"
 ---
 

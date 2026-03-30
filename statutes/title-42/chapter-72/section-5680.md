@@ -3,9 +3,9 @@ title: "Section 5680 - Issuance of rules"
 usc_title: 42
 usc_section: "5680"
 chapter: 72
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 5680"
-generated_at: "2026-03-30T05:15:41.193Z"
+generated_at: "2026-03-30T05:18:18.717Z"
 status: "active"
 ---
 

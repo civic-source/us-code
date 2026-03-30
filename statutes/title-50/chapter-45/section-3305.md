@@ -3,9 +3,9 @@ title: "Section 3305 - Exhibits for inclusion with budget justification books"
 usc_title: 50
 usc_section: "3305"
 chapter: 45
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "50 U.S.C. § 3305"
-generated_at: "2026-03-30T05:15:48.534Z"
+generated_at: "2026-03-30T05:18:30.369Z"
 status: "active"
 ---
 

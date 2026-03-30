@@ -3,9 +3,9 @@ title: "Section 7301 - Reorganization; duties"
 usc_title: 22
 usc_section: "7301"
 chapter: 80
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "22 U.S.C. § 7301"
-generated_at: "2026-03-30T05:14:55.235Z"
+generated_at: "2026-03-30T05:17:44.102Z"
 status: "active"
 ---
 

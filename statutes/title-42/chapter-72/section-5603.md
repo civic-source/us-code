@@ -3,9 +3,9 @@ title: "Section 5603 - Definitions"
 usc_title: 42
 usc_section: "5603"
 chapter: 72
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 5603"
-generated_at: "2026-03-30T05:15:41.190Z"
+generated_at: "2026-03-30T05:18:18.715Z"
 status: "active"
 ---
 

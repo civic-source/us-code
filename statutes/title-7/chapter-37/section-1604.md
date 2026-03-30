@@ -3,9 +3,9 @@ title: "Section 1604 - Publication"
 usc_title: 7
 usc_section: "1604"
 chapter: 37
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "7 U.S.C. § 1604"
-generated_at: "2026-03-30T05:14:30.669Z"
+generated_at: "2026-03-30T05:16:57.296Z"
 status: "active"
 ---
 

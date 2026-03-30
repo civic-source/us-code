@@ -3,9 +3,9 @@ title: "Section 13701 - Definitions"
 usc_title: 42
 usc_section: "13701"
 chapter: 136
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 13701"
-generated_at: "2026-03-30T05:15:41.457Z"
+generated_at: "2026-03-30T05:18:18.906Z"
 status: "active"
 ---
 

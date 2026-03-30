@@ -3,9 +3,9 @@ title: "Section 458 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "458"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 458"
-generated_at: "2026-03-30T05:14:45.607Z"
+generated_at: "2026-03-30T05:17:33.778Z"
 status: "repealed"
 ---
 

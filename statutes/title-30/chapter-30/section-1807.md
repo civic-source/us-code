@@ -3,9 +3,9 @@ title: "Section 1807 - Executive Director"
 usc_title: 30
 usc_section: "1807"
 chapter: 30
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "30 U.S.C. § 1807"
-generated_at: "2026-03-30T05:15:14.200Z"
+generated_at: "2026-03-30T05:17:47.608Z"
 status: "active"
 ---
 

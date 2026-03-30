@@ -3,9 +3,9 @@ title: "Section 12801 - General authority"
 usc_title: 42
 usc_section: "12801"
 chapter: 130
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 12801"
-generated_at: "2026-03-30T05:15:41.434Z"
+generated_at: "2026-03-30T05:18:18.889Z"
 status: "active"
 ---
 

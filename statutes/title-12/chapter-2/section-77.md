@@ -3,9 +3,9 @@ title: "Section 77 - Repealed. Pub. L. 89–695, title II, § 207 , Oct. 16, 196
 usc_title: 12
 usc_section: "77"
 chapter: 2
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "12 U.S.C. § 77"
-generated_at: "2026-03-30T05:14:36.135Z"
+generated_at: "2026-03-30T05:17:26.224Z"
 status: "repealed"
 ---
 

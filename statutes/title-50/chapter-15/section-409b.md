@@ -3,9 +3,9 @@ title: "Section 409b - Transferred"
 usc_title: 50
 usc_section: "409b"
 chapter: 15
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "50 U.S.C. § 409b"
-generated_at: "2026-03-30T05:15:48.475Z"
+generated_at: "2026-03-30T05:18:30.334Z"
 status: "transferred"
 ---
 

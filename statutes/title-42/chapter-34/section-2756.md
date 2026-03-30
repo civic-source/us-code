@@ -3,9 +3,9 @@ title: "Section 2756 - Job location and development programs"
 usc_title: 42
 usc_section: "2756"
 chapter: 34
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 2756"
-generated_at: "2026-03-30T05:15:41.096Z"
+generated_at: "2026-03-30T05:18:18.644Z"
 status: "active"
 ---
 

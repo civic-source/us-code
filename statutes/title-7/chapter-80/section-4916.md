@@ -3,9 +3,9 @@ title: "Section 4916 - Authorization of appropriations"
 usc_title: 7
 usc_section: "4916"
 chapter: 80
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "7 U.S.C. § 4916"
-generated_at: "2026-03-30T05:14:30.729Z"
+generated_at: "2026-03-30T05:16:57.354Z"
 status: "active"
 ---
 

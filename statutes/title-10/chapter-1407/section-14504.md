@@ -3,9 +3,9 @@ title: "Section 14504 - Effect of failure of selection for promotion: reserve fi
 usc_title: 10
 usc_section: "14504"
 chapter: 1407
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 14504"
-generated_at: "2026-03-30T05:14:27.850Z"
+generated_at: "2026-03-30T05:17:01.109Z"
 status: "active"
 ---
 

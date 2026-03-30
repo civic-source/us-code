@@ -3,9 +3,9 @@ title: "Section 1832 - Theft of trade secrets"
 usc_title: 18
 usc_section: "1832"
 chapter: 90
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "18 U.S.C. § 1832"
-generated_at: "2026-03-30T05:14:48.253Z"
+generated_at: "2026-03-30T05:17:30.359Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(3)** receives, buys, or possesses such information, knowing the same to have been stolen or appropriated, obtained, or converted without authorization;
   - **(4)** attempts to commit any offense described in paragraphs (1) through (3); or
   - **(5)** conspires with one or more other persons to commit any offense described in paragraphs (1) through (3), and one or more of such persons do any act to effect the object of the conspiracy,
-- **(b)** Any organization that commits any offense described in subsection (a) shall be fined not more than $5,000,000.
+- **(b)** Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $5,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.

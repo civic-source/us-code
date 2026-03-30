@@ -3,9 +3,9 @@ title: "Section 943c - Authorization of appropriations"
 usc_title: 16
 usc_section: "943c"
 chapter: 15
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 943c"
-generated_at: "2026-03-30T05:14:45.696Z"
+generated_at: "2026-03-30T05:17:33.865Z"
 status: "active"
 ---
 

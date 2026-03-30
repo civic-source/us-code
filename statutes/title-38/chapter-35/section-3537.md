@@ -3,9 +3,9 @@ title: "Section 3537 - Work-study allowance"
 usc_title: 38
 usc_section: "3537"
 chapter: 35
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "38 U.S.C. § 3537"
-generated_at: "2026-03-30T05:15:26.855Z"
+generated_at: "2026-03-30T05:18:02.484Z"
 status: "active"
 ---
 

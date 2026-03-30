@@ -3,9 +3,9 @@ title: "Section 9923 - National or regional programs designed to provide instruc
 usc_title: 42
 usc_section: "9923"
 chapter: 106
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 9923"
-generated_at: "2026-03-30T05:15:41.365Z"
+generated_at: "2026-03-30T05:18:18.841Z"
 status: "active"
 ---
 

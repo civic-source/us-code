@@ -3,9 +3,9 @@ title: "Section 12314 - Reserves: kinds of duty"
 usc_title: 10
 usc_section: "12314"
 chapter: 1209
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 12314"
-generated_at: "2026-03-30T05:14:27.845Z"
+generated_at: "2026-03-30T05:17:01.106Z"
 status: "active"
 ---
 

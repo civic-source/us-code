@@ -3,9 +3,9 @@ title: "Section 34 - Competitive grants to States and Indian tribes for the deve
 usc_title: 42
 usc_section: "34"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 34"
-generated_at: "2026-03-30T05:15:40.790Z"
+generated_at: "2026-03-30T05:18:18.102Z"
 status: "active"
 ---
 

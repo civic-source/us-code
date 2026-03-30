@@ -3,9 +3,9 @@ title: "Section 941k - Non-Reservation properties"
 usc_title: 25
 usc_section: "941k"
 chapter: 14
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 941k"
-generated_at: "2026-03-30T05:15:09.470Z"
+generated_at: "2026-03-30T05:17:42.006Z"
 status: "active"
 ---
 

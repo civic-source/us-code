@@ -3,9 +3,9 @@ title: "Section 5146 - Repealed. Pub. L. 100–707, title I , § 105(d), Nov. 23
 usc_title: 42
 usc_section: "5146"
 chapter: 68
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 5146"
-generated_at: "2026-03-30T05:15:41.172Z"
+generated_at: "2026-03-30T05:18:18.703Z"
 status: "repealed"
 ---
 

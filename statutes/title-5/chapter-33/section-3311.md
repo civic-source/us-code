@@ -3,9 +3,9 @@ title: "Section 3311 - Preference eligibles; examinations; crediting experience"
 usc_title: 5
 usc_section: "3311"
 chapter: 33
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "5 U.S.C. § 3311"
-generated_at: "2026-03-30T05:14:10.442Z"
+generated_at: "2026-03-30T05:16:17.741Z"
 status: "active"
 ---
 

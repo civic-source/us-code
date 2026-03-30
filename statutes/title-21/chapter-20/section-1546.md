@@ -3,9 +3,9 @@ title: "Section 1546 - Meetings"
 usc_title: 21
 usc_section: "1546"
 chapter: 20
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "21 U.S.C. § 1546"
-generated_at: "2026-03-30T05:14:56.073Z"
+generated_at: "2026-03-30T05:17:40.897Z"
 status: "active"
 ---
 

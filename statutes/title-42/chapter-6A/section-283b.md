@@ -3,9 +3,9 @@ title: "Section 283b - Repealed. Pub. L. 106–525, title I , § 101(b)(2), Nov.
 usc_title: 42
 usc_section: "283b"
 chapter: 6
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 283b"
-generated_at: "2026-03-30T05:15:40.691Z"
+generated_at: "2026-03-30T05:18:18.024Z"
 status: "repealed"
 ---
 

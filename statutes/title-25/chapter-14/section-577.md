@@ -3,9 +3,9 @@ title: "Section 577 - Liability of judgment funds for debts"
 usc_title: 25
 usc_section: "577"
 chapter: 14
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 577"
-generated_at: "2026-03-30T05:15:09.456Z"
+generated_at: "2026-03-30T05:17:41.992Z"
 status: "active"
 ---
 

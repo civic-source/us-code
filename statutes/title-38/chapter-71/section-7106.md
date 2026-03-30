@@ -3,9 +3,9 @@ title: "Section 7106 - Administrative appeals"
 usc_title: 38
 usc_section: "7106"
 chapter: 71
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "38 U.S.C. § 7106"
-generated_at: "2026-03-30T05:15:26.870Z"
+generated_at: "2026-03-30T05:18:02.499Z"
 status: "active"
 ---
 

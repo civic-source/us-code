@@ -3,9 +3,9 @@ title: "Section 1575 - False advertising"
 usc_title: 7
 usc_section: "1575"
 chapter: 37
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "7 U.S.C. § 1575"
-generated_at: "2026-03-30T05:14:30.669Z"
+generated_at: "2026-03-30T05:16:57.296Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14101 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14101"
 chapter: 136
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 14101"
-generated_at: "2026-03-30T05:15:41.474Z"
+generated_at: "2026-03-30T05:18:18.917Z"
 status: "active"
 ---
 

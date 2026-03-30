@@ -3,9 +3,9 @@ title: "Section 2413 - Executions in favor of United States"
 usc_title: 28
 usc_section: "2413"
 chapter: 161
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "28 U.S.C. § 2413"
-generated_at: "2026-03-30T05:15:12.362Z"
+generated_at: "2026-03-30T05:17:49.425Z"
 status: "active"
 ---
 

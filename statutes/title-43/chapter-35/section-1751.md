@@ -3,9 +3,9 @@ title: "Section 1751 - Grazing fees; feasibility study; contents; submission of 
 usc_title: 43
 usc_section: "1751"
 chapter: 35
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "43 U.S.C. § 1751"
-generated_at: "2026-03-30T05:15:30.873Z"
+generated_at: "2026-03-30T05:18:06.976Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Jurisdiction and powers of local courts"
 usc_title: 48
 usc_section: "1"
 chapter: 8
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T05:15:45.495Z"
+generated_at: "2026-03-30T05:18:24.065Z"
 status: "active"
 ---
 

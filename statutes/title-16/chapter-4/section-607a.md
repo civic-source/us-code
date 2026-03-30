@@ -3,9 +3,9 @@ title: "Section 607a - Cutting and use of timber in Alaska by settlers, resident
 usc_title: 16
 usc_section: "607a"
 chapter: 4
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 607a"
-generated_at: "2026-03-30T05:14:45.661Z"
+generated_at: "2026-03-30T05:17:33.831Z"
 status: "active"
 ---
 

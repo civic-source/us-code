@@ -3,9 +3,9 @@ title: "Section 2804 - Assistance by other agencies"
 usc_title: 25
 usc_section: "2804"
 chapter: 30
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "25 U.S.C. § 2804"
-generated_at: "2026-03-30T05:15:09.516Z"
+generated_at: "2026-03-30T05:17:42.049Z"
 status: "active"
 ---
 

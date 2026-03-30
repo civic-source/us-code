@@ -3,9 +3,9 @@ title: "Section 464 - Checking against and withdrawal of reserve balance"
 usc_title: 12
 usc_section: "464"
 chapter: 3
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "12 U.S.C. § 464"
-generated_at: "2026-03-30T05:14:36.144Z"
+generated_at: "2026-03-30T05:17:26.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 452a - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "452a"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "16 U.S.C. § 452a"
-generated_at: "2026-03-30T05:14:45.607Z"
+generated_at: "2026-03-30T05:17:33.778Z"
 status: "repealed"
 ---
 

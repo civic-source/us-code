@@ -3,9 +3,9 @@ title: "Section 56 - Repealed. Pub. L. 86–251, § 1(b) , (c)(1), Sept. 9, 1959
 usc_title: 12
 usc_section: "56"
 chapter: 1
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "12 U.S.C. § 56"
-generated_at: "2026-03-30T05:14:36.132Z"
+generated_at: "2026-03-30T05:17:26.221Z"
 status: "repealed"
 ---
 

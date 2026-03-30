@@ -3,9 +3,9 @@ title: "Section 858 - Repealed. Pub. L. 107–372, title II , § 271(2), (4), De
 usc_title: 33
 usc_section: "858"
 chapter: 17
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "33 U.S.C. § 858"
-generated_at: "2026-03-30T05:15:23.360Z"
+generated_at: "2026-03-30T05:17:57.442Z"
 status: "repealed"
 ---
 

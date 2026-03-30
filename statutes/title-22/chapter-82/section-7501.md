@@ -3,9 +3,9 @@ title: "Section 7501 - Definition"
 usc_title: 22
 usc_section: "7501"
 chapter: 82
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "22 U.S.C. § 7501"
-generated_at: "2026-03-30T05:14:55.235Z"
+generated_at: "2026-03-30T05:17:44.103Z"
 status: "active"
 ---
 

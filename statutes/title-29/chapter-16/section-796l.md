@@ -3,9 +3,9 @@ title: "Section 796l - Authorization of appropriations"
 usc_title: 29
 usc_section: "796l"
 chapter: 16
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "29 U.S.C. § 796l"
-generated_at: "2026-03-30T05:15:13.395Z"
+generated_at: "2026-03-30T05:17:48.553Z"
 status: "active"
 ---
 

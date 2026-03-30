@@ -3,9 +3,9 @@ title: "Section 1763 - Repealed. Pub. L. 101–147, title I , § 104, Nov. 10, 1
 usc_title: 42
 usc_section: "1763"
 chapter: 13
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "42 U.S.C. § 1763"
-generated_at: "2026-03-30T05:15:41.036Z"
+generated_at: "2026-03-30T05:18:18.599Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1019d - Self-certification form for private education loans"
 usc_title: 20
 usc_section: "1019d"
 chapter: 28
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "20 U.S.C. § 1019d"
-generated_at: "2026-03-30T05:14:47.385Z"
+generated_at: "2026-03-30T05:17:37.503Z"
 status: "active"
 ---
 

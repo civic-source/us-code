@@ -3,9 +3,9 @@ title: "Section 471 - Requirement for a district court civil justice expense and
 usc_title: 28
 usc_section: "471"
 chapter: 23
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "28 U.S.C. § 471"
-generated_at: "2026-03-30T05:15:12.345Z"
+generated_at: "2026-03-30T05:17:49.407Z"
 status: "active"
 ---
 

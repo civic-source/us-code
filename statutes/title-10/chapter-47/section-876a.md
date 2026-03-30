@@ -3,9 +3,9 @@ title: "Section 876a - Art. 76a. Leave required to be taken pending review of ce
 usc_title: 10
 usc_section: "876a"
 chapter: 47
-current_through: "PL 114-152"
+current_through: "PL 114-153"
 classification: "10 U.S.C. § 876a"
-generated_at: "2026-03-30T05:14:27.738Z"
+generated_at: "2026-03-30T05:17:00.997Z"
 status: "active"
 ---
 
