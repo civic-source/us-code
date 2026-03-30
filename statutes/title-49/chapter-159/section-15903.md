@@ -3,9 +3,9 @@ title: "Section 15903 - Enforcement by the Attorney General"
 usc_title: 49
 usc_section: "15903"
 chapter: 159
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 15903"
-generated_at: "2026-03-30T00:54:59.831Z"
+generated_at: "2026-03-30T00:59:54.684Z"
 ---
 
 # § 15903. Enforcement by the Attorney General

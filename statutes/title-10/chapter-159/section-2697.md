@@ -3,9 +3,9 @@ title: "Section 2697 - Acceptance and use of landing fees charged for use of dom
 usc_title: 10
 usc_section: "2697"
 chapter: 159
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 2697"
-generated_at: "2026-03-30T00:50:18.343Z"
+generated_at: "2026-03-30T00:56:33.195Z"
 ---
 
 # § 2697. Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft

@@ -3,9 +3,9 @@ title: "Section 10203 - Reserve affairs: designation of general or flag officer 
 usc_title: 10
 usc_section: "10203"
 chapter: 1007
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 10203"
-generated_at: "2026-03-30T00:50:18.414Z"
+generated_at: "2026-03-30T00:56:33.255Z"
 ---
 
 # § 10203. Reserve affairs: designation of general or flag officer of each armed force

@@ -3,9 +3,9 @@ title: "Section 9263 - When Secretary may require"
 usc_title: 10
 usc_section: "9263"
 chapter: 935
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 9263"
-generated_at: "2026-03-30T00:50:18.408Z"
+generated_at: "2026-03-30T00:56:33.249Z"
 ---
 
 # § 9263. When Secretary may require

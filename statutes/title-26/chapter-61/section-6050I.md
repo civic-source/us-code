@@ -3,9 +3,9 @@ title: "Section 6050I - Returns relating to cash received in trade or business, 
 usc_title: 26
 usc_section: "6050I"
 chapter: 61
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 6050I"
-generated_at: "2026-03-30T00:51:51.792Z"
+generated_at: "2026-03-30T00:58:24.411Z"
 ---
 
 # § 6050I. Returns relating to cash received in trade or business, etc.
@@ -26,8 +26,9 @@ generated_at: "2026-03-30T00:51:51.792Z"
     - **(B)** cash received by any financial institution (as defined in subparagraphs (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), and (S) of section 5312(a)(2) of title 31 , United States Code).
   - **(2)** Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall not apply to any transaction if the entire transaction occurs outside the United States.
 - **(d)** For purposes of this section, the term “cash” includes—
-  - **(1)** foreign currency, and
-  - **(2)** to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000.
+  - **(1)** foreign currency,
+  - **(2)** to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000, and
+  - **(3)** any digital asset (as defined in section 6045(g)(3)(D)).
 - **(e)** Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
   - **(2)** the aggregate amount of cash described in subsection (a) received by the person required to make such return.

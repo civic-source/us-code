@@ -3,9 +3,9 @@ title: "Section 8183 - State Department: assignment of enlisted members as custo
 usc_title: 10
 usc_section: "8183"
 chapter: 823
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 8183"
-generated_at: "2026-03-30T00:50:18.394Z"
+generated_at: "2026-03-30T00:56:33.236Z"
 ---
 
 # § 8183. State Department: assignment of enlisted members as custodians of buildings in foreign countries

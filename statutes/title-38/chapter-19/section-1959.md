@@ -3,9 +3,9 @@ title: "Section 1959 - Waiver of disability for reinstatement"
 usc_title: 38
 usc_section: "1959"
 chapter: 19
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "38 U.S.C. § 1959"
-generated_at: "2026-03-30T00:52:53.561Z"
+generated_at: "2026-03-30T00:58:40.853Z"
 ---
 
 # § 1959. Waiver of disability for reinstatement

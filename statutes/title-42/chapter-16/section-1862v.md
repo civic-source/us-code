@@ -3,9 +3,9 @@ title: "Section 1862v - National Science Foundation research"
 usc_title: 42
 usc_section: "1862v"
 chapter: 16
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1862v"
-generated_at: "2026-03-30T00:54:16.389Z"
+generated_at: "2026-03-30T00:59:31.177Z"
 ---
 
 # § 1862v. National Science Foundation research

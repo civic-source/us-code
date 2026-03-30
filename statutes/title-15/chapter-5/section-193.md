@@ -3,9 +3,9 @@ title: "Section 193 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat
 usc_title: 15
 usc_section: "193"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 193"
-generated_at: "2026-03-30T00:50:38.043Z"
+generated_at: "2026-03-30T00:56:45.699Z"
 ---
 
 # § 193. Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat. 953

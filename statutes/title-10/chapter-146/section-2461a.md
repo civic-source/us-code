@@ -3,9 +3,9 @@ title: "Section 2461a - Development and implementation of system for monitoring 
 usc_title: 10
 usc_section: "2461a"
 chapter: 146
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 2461a"
-generated_at: "2026-03-30T00:50:18.333Z"
+generated_at: "2026-03-30T00:56:33.185Z"
 ---
 
 # § 2461a. Development and implementation of system for monitoring cost saving resulting from public-private competitions

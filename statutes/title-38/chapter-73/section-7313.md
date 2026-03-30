@@ -3,9 +3,9 @@ title: "Section 7313 - Advisory committees: affiliated institutions"
 usc_title: 38
 usc_section: "7313"
 chapter: 73
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "38 U.S.C. § 7313"
-generated_at: "2026-03-30T00:52:53.600Z"
+generated_at: "2026-03-30T00:58:40.908Z"
 ---
 
 # § 7313. Advisory committees: affiliated institutions

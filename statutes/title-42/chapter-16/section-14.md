@@ -3,9 +3,9 @@ title: "Section 14 - Broader Impacts Review Criterion"
 usc_title: 42
 usc_section: "14"
 chapter: 16
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T00:54:16.387Z"
+generated_at: "2026-03-30T00:59:31.175Z"
 ---
 
 # § 1862p–14. Broader Impacts Review Criterion

@@ -3,9 +3,9 @@ title: "Section 1460 - Omitted"
 usc_title: 42
 usc_section: "1460"
 chapter: 8
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1460"
-generated_at: "2026-03-30T00:54:16.354Z"
+generated_at: "2026-03-30T00:59:31.131Z"
 ---
 
 # §§ 1456 to 1460. Omitted

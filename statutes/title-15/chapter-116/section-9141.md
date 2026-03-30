@@ -3,9 +3,9 @@ title: "Section 9141 - Air transportation payroll support program extension"
 usc_title: 15
 usc_section: "9141"
 chapter: 116
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 9141"
-generated_at: "2026-03-30T00:50:38.221Z"
+generated_at: "2026-03-30T00:56:45.883Z"
 ---
 
 # § 9141. Air transportation payroll support program extension
@@ -52,7 +52,7 @@ generated_at: "2026-03-30T00:50:38.221Z"
       - **(ii)** $15,000,000,000.
     - **(C)** The Secretary shall apportion, to each eligible contractor, an amount equal to the total amount such contractor received pursuant to section 9093(a) of this title .
   - **(3)**
-    - **(A)** The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to 2 2 So in original. section 9093(b)(1)(A) of this title .
+    - **(A)** The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to 4 4 So in original. section 9093(b)(1)(A) of this title .
     - **(B)** The Secretary shall publish streamlined and expedited procedures not later than 5 days after March 11, 2021 , for eligible air carriers and eligible contractors to submit requests for financial assistance under this section.
     - **(C)** Not later than 10 days after March 11, 2021 , the Secretary shall make initial payments to air carriers and contractors that submit requests for financial assistance approved by the Secretary.
   - **(4)** The Secretary shall receive financial instruments issued by recipients of financial assistance under this section in the same form and amount, and under the same terms and conditions, as determined by the Secretary under section 9098 of this title .

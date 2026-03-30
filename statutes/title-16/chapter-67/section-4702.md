@@ -3,9 +3,9 @@ title: "Section 4702 - Definitions"
 usc_title: 16
 usc_section: "4702"
 chapter: 67
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 4702"
-generated_at: "2026-03-30T00:50:47.523Z"
+generated_at: "2026-03-30T00:57:08.769Z"
 ---
 
 # § 4702. Definitions
@@ -18,7 +18,7 @@ As used in this chapter, the term—
   - **(4)** “Director” means the Director of the United States Fish and Wildlife Service;
   - **(5)** “exclusive economic zone” means the Exclusive Economic Zone of the United States established by Proclamation Number 5030, dated March 10, 1983 , and the equivalent zone of Canada;
   - **(6)** “environmentally sound” methods, efforts, actions or programs means methods, efforts, actions or programs to prevent introductions or control infestations of aquatic nuisance species that minimize adverse impacts to the structure and function of an ecosystem and adverse effects on non-target organisms and ecosystems and emphasize integrated pest management techniques and nonchemical measures;
-  - **(7)** “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
+  - **(7)** “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels. 1 1 So in original. The period probably should be a semicolon.
   - **(8)** “Great Lakes region” means the 8 States that border on the Great Lakes;
   - **(9)** “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.)) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
   - **(10)** “interstate organization” means an entity—

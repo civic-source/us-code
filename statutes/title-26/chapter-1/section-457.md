@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T00:51:51.672Z"
+generated_at: "2026-03-30T00:58:24.236Z"
 ---
 
 # § 457. Deferred compensation plans of State and local governments and tax-exempt organizations
@@ -111,7 +111,7 @@ generated_at: "2026-03-30T00:51:51.672Z"
   - **(18)** In the case of an individual who is an eligible participant (as defined by section 414(v)) and who is a participant in an eligible deferred compensation plan of an employer described in paragraph (1)(A), subsections (b)(3) and (c) shall be applied by substituting for the amount otherwise determined under the applicable subsection the greater of—
     - **(A)** the sum of—
       - **(i)** the plan ceiling established for purposes of subsection (b)(2) (without regard to subsection (b)(3)), plus
-      - **(ii)** the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
+      - **(ii)** the lesser of any designated Roth contributions made by the participant to the plan or the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
     - **(B)** the amount determined under the applicable subsection (without regard to this paragraph).
 - **(f)**
   - **(1)** In the case of a plan of an eligible employer providing for a deferral of compensation, if such plan is not an eligible deferred compensation plan, then—

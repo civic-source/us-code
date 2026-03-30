@@ -3,9 +3,9 @@ title: "Section 9704 - Service coordination hydrologists at River Forecast Cente
 usc_title: 15
 usc_section: "9704"
 chapter: 121
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 9704"
-generated_at: "2026-03-30T00:50:38.226Z"
+generated_at: "2026-03-30T00:56:45.887Z"
 ---
 
 # § 9704. Service coordination hydrologists at River Forecast Centers of the National Weather Service

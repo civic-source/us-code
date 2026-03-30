@@ -3,9 +3,9 @@ title: "Section 361 - Adulterated cosmetics"
 usc_title: 21
 usc_section: "361"
 chapter: 9
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "21 U.S.C. § 361"
-generated_at: "2026-03-30T00:51:00.104Z"
+generated_at: "2026-03-30T00:57:31.982Z"
 ---
 
 # § 361. Adulterated cosmetics
@@ -17,3 +17,5 @@ A cosmetic shall be deemed to be adulterated—
 - **(c)** If it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health.
 - **(d)** If its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health.
 - **(e)** If it is not a hair dye and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 379e(a) of this title .
+- **(f)** If it has been manufactured or processed under conditions that do not meet the good manufacturing practice requirements of section 364b of this title .
+- **(g)** If it is a cosmetic product, and the cosmetic product, including each ingredient in the cosmetic product, does not have adequate substantiation for 1 1 So in original. Probably should be “of”. safety, as defined in section 364d(c) of this title .

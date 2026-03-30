@@ -3,9 +3,9 @@ title: "Section 3914 - Extension of protections to citizens serving with allied 
 usc_title: 50
 usc_section: "3914"
 chapter: 50
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3914"
-generated_at: "2026-03-30T00:54:36.292Z"
+generated_at: "2026-03-30T01:00:05.172Z"
 ---
 
 # § 3914. Extension of protections to citizens serving with allied forces

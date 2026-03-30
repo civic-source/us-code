@@ -3,9 +3,9 @@ title: "Section 9859c - Amounts reserved; allotments"
 usc_title: 42
 usc_section: "9859c"
 chapter: 105
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 9859c"
-generated_at: "2026-03-30T00:54:16.636Z"
+generated_at: "2026-03-30T00:59:31.495Z"
 ---
 
 # § 9859c. Amounts reserved; allotments

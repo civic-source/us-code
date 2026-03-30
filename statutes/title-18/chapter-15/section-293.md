@@ -3,9 +3,9 @@ title: "Section 293 - Repealed. Pub. L. 101–123, § 3(a) , Oct. 23, 1989 , 103
 usc_title: 18
 usc_section: "293"
 chapter: 15
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "18 U.S.C. § 293"
-generated_at: "2026-03-30T00:50:48.560Z"
+generated_at: "2026-03-30T00:56:53.021Z"
 ---
 
 # [§ 293. Repealed. Pub. L. 101–123, § 3(a) , Oct. 23, 1989 , 103 Stat. 760 ]

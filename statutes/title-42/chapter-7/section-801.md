@@ -3,9 +3,9 @@ title: "Section 801 - Coronavirus relief fund"
 usc_title: 42
 usc_section: "801"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 801"
-generated_at: "2026-03-30T00:54:16.169Z"
+generated_at: "2026-03-30T00:59:30.888Z"
 ---
 
 # § 801. Coronavirus relief fund

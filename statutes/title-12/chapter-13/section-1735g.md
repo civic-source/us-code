@@ -3,9 +3,9 @@ title: "Section 1735g - Mortgage relief for homeowners who are unemployed as res
 usc_title: 12
 usc_section: "1735g"
 chapter: 13
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 1735g"
-generated_at: "2026-03-30T00:50:34.886Z"
+generated_at: "2026-03-30T00:56:40.313Z"
 ---
 
 # § 1735g. Mortgage relief for homeowners who are unemployed as result of closing of Federal installation

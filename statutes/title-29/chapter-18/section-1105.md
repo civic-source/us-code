@@ -3,9 +3,9 @@ title: "Section 1105 - Liability for breach of co-fiduciary"
 usc_title: 29
 usc_section: "1105"
 chapter: 18
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "29 U.S.C. § 1105"
-generated_at: "2026-03-30T00:51:10.835Z"
+generated_at: "2026-03-30T00:57:53.313Z"
 ---
 
 # § 1105. Liability for breach of co-fiduciary

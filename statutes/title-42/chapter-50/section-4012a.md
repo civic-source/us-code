@@ -3,9 +3,9 @@ title: "Section 4012a - Flood insurance purchase and compliance requirements and
 usc_title: 42
 usc_section: "4012a"
 chapter: 50
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 4012a"
-generated_at: "2026-03-30T00:54:16.454Z"
+generated_at: "2026-03-30T00:59:31.261Z"
 ---
 
 # § 4012a. Flood insurance purchase and compliance requirements and escrow accounts

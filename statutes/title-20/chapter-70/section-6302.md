@@ -3,9 +3,9 @@ title: "Section 6302 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6302"
 chapter: 70
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 6302"
-generated_at: "2026-03-30T00:50:54.093Z"
+generated_at: "2026-03-30T00:57:26.434Z"
 ---
 
 # § 6302. Authorization of appropriations

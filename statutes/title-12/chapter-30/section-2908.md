@@ -3,9 +3,9 @@ title: "Section 2908 - Small bank regulatory relief"
 usc_title: 12
 usc_section: "2908"
 chapter: 30
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 2908"
-generated_at: "2026-03-30T00:50:34.945Z"
+generated_at: "2026-03-30T00:56:40.368Z"
 ---
 
 # § 2908. Small bank regulatory relief

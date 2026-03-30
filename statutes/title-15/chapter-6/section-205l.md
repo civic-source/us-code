@@ -3,9 +3,9 @@ title: "Section 205l - Implementation in acquisition of construction services an
 usc_title: 15
 usc_section: "205l"
 chapter: 6
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 205l"
-generated_at: "2026-03-30T00:50:38.044Z"
+generated_at: "2026-03-30T00:56:45.700Z"
 ---
 
 # § 205l. Implementation in acquisition of construction services and materials for Federal facilities

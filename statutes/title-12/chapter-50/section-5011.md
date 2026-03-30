@@ -3,9 +3,9 @@ title: "Section 5011 - Consumer awareness"
 usc_title: 12
 usc_section: "5011"
 chapter: 50
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 5011"
-generated_at: "2026-03-30T00:50:34.975Z"
+generated_at: "2026-03-30T00:56:40.399Z"
 ---
 
 # § 5011. Consumer awareness

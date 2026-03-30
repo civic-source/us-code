@@ -3,9 +3,9 @@ title: "Section 6203 - Jurisdiction of district courts of United States"
 usc_title: 15
 usc_section: "6203"
 chapter: 88
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 6203"
-generated_at: "2026-03-30T00:50:38.184Z"
+generated_at: "2026-03-30T00:56:45.844Z"
 ---
 
 # § 6203. Jurisdiction of district courts of United States

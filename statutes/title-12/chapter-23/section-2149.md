@@ -3,9 +3,9 @@ title: "Section 2149 - Lending limits"
 usc_title: 12
 usc_section: "2149"
 chapter: 23
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 2149"
-generated_at: "2026-03-30T00:50:34.928Z"
+generated_at: "2026-03-30T00:56:40.354Z"
 ---
 
 # § 2149. Lending limits

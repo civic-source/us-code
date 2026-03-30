@@ -3,9 +3,9 @@ title: "Section 8481 - Support of athletic and physical fitness programs"
 usc_title: 10
 usc_section: "8481"
 chapter: 853
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 8481"
-generated_at: "2026-03-30T00:50:18.398Z"
+generated_at: "2026-03-30T00:56:33.240Z"
 ---
 
 # § 8481. Support of athletic and physical fitness programs

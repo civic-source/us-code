@@ -3,9 +3,9 @@ title: "Section 3510 - Appropriations"
 usc_title: 50
 usc_section: "3510"
 chapter: 46
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3510"
-generated_at: "2026-03-30T00:54:36.281Z"
+generated_at: "2026-03-30T01:00:05.162Z"
 ---
 
 # § 3510. Appropriations

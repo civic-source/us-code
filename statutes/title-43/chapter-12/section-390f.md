@@ -3,9 +3,9 @@ title: "Section 390f - Revision of leases or agreements to evidence conversion o
 usc_title: 43
 usc_section: "390f"
 chapter: 12
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "43 U.S.C. § 390f"
-generated_at: "2026-03-30T00:52:57.001Z"
+generated_at: "2026-03-30T00:58:53.065Z"
 ---
 
 # § 390f. Revision of leases or agreements to evidence conversion of rights to use of storage rights

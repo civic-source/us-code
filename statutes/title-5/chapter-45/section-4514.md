@@ -3,9 +3,9 @@ title: "Section 4514 - Repealed. Pub. L. 102–487, § 1(a) , Oct. 24, 1992 , 10
 usc_title: 5
 usc_section: "4514"
 chapter: 45
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "5 U.S.C. § 4514"
-generated_at: "2026-03-30T00:50:05.857Z"
+generated_at: "2026-03-30T00:55:37.161Z"
 ---
 
 # [§ 4514. Repealed. Pub. L. 102–487, § 1(a) , Oct. 24, 1992 , 106 Stat. 3134 ]

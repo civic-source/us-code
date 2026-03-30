@@ -3,9 +3,9 @@ title: "Section 4223 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96
 usc_title: 42
 usc_section: "4223"
 chapter: 52
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 4223"
-generated_at: "2026-03-30T00:54:16.461Z"
+generated_at: "2026-03-30T00:59:31.268Z"
 ---
 
 # §§ 4221 to 4223. Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 Stat. 1068

@@ -3,9 +3,9 @@ title: "Section 7104b - Monitoring and investigation of trafficking in persons"
 usc_title: 22
 usc_section: "7104b"
 chapter: 78
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 7104b"
-generated_at: "2026-03-30T00:51:06.687Z"
+generated_at: "2026-03-30T00:57:39.125Z"
 ---
 
 # § 7104b. Monitoring and investigation of trafficking in persons

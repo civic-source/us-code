@@ -3,9 +3,9 @@ title: "Section 6308 - Annual report"
 usc_title: 42
 usc_section: "6308"
 chapter: 77
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 6308"
-generated_at: "2026-03-30T00:54:16.512Z"
+generated_at: "2026-03-30T00:59:31.336Z"
 ---
 
 # § 6308. Annual report

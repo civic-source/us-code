@@ -3,9 +3,9 @@ title: "Section 2021 - Definitions"
 usc_title: 25
 usc_section: "2021"
 chapter: 22
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "25 U.S.C. § 2021"
-generated_at: "2026-03-30T00:50:58.571Z"
+generated_at: "2026-03-30T00:57:33.298Z"
 ---
 
 # § 2021. Definitions

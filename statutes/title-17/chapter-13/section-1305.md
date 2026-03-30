@@ -3,9 +3,9 @@ title: "Section 1305 - Term of protection"
 usc_title: 17
 usc_section: "1305"
 chapter: 13
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "17 U.S.C. § 1305"
-generated_at: "2026-03-30T00:50:44.710Z"
+generated_at: "2026-03-30T00:56:51.267Z"
 ---
 
 # § 1305. Term of protection

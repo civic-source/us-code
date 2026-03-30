@@ -3,9 +3,9 @@ title: "Section 1936c - Relending program to resolve ownership and succession on
 usc_title: 7
 usc_section: "1936c"
 chapter: 50
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "7 U.S.C. § 1936c"
-generated_at: "2026-03-30T00:50:27.643Z"
+generated_at: "2026-03-30T00:56:14.447Z"
 ---
 
 # § 1936c. Relending program to resolve ownership and succession on farmland

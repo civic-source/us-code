@@ -3,9 +3,9 @@ title: "Section 3411 - No reduction in amounts"
 usc_title: 25
 usc_section: "3411"
 chapter: 36
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "25 U.S.C. § 3411"
-generated_at: "2026-03-30T00:50:58.586Z"
+generated_at: "2026-03-30T00:57:33.319Z"
 ---
 
 # § 3411. No reduction in amounts

@@ -3,9 +3,9 @@ title: "Section 1395lll - Standardized post-acute care (PAC) assessment data for
 usc_title: 42
 usc_section: "1395lll"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1395lll"
-generated_at: "2026-03-30T00:54:16.294Z"
+generated_at: "2026-03-30T00:59:31.050Z"
 ---
 
 # § 1395lll. Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning

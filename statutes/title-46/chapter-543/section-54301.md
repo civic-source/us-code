@@ -3,9 +3,9 @@ title: "Section 54301 - Port infrastructure development program"
 usc_title: 46
 usc_section: "54301"
 chapter: 543
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "46 U.S.C. § 54301"
-generated_at: "2026-03-30T00:54:22.106Z"
+generated_at: "2026-03-30T00:59:41.532Z"
 ---
 
 # § 54301. Port infrastructure development program

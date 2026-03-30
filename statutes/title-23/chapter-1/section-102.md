@@ -3,9 +3,9 @@ title: "Section 102 - Program efficiencies"
 usc_title: 23
 usc_section: "102"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "23 U.S.C. § 102"
-generated_at: "2026-03-30T00:51:03.484Z"
+generated_at: "2026-03-30T00:57:46.308Z"
 ---
 
 # § 102. Program efficiencies

@@ -3,9 +3,9 @@ title: "Section 1113 - Surface transportation security inspectors"
 usc_title: 6
 usc_section: "1113"
 chapter: 4
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "6 U.S.C. § 1113"
-generated_at: "2026-03-30T00:50:08.626Z"
+generated_at: "2026-03-30T00:55:52.715Z"
 ---
 
 # § 1113. Surface transportation security inspectors

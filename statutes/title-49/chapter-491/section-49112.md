@@ -3,9 +3,9 @@ title: "Section 49112 - Separability and effect of judicial order"
 usc_title: 49
 usc_section: "49112"
 chapter: 491
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 49112"
-generated_at: "2026-03-30T00:54:59.893Z"
+generated_at: "2026-03-30T00:59:54.783Z"
 ---
 
 # § 49112. Separability and effect of judicial order

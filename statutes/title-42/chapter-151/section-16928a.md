@@ -3,9 +3,9 @@ title: "Section 16928a - Transferred"
 usc_title: 42
 usc_section: "16928a"
 chapter: 151
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 16928a"
-generated_at: "2026-03-30T00:54:16.750Z"
+generated_at: "2026-03-30T00:59:31.645Z"
 ---
 
 # § 16928a. Transferred

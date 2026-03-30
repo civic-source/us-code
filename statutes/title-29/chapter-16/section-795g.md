@@ -3,9 +3,9 @@ title: "Section 795g - Purpose"
 usc_title: 29
 usc_section: "795g"
 chapter: 16
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "29 U.S.C. § 795g"
-generated_at: "2026-03-30T00:51:10.811Z"
+generated_at: "2026-03-30T00:57:53.288Z"
 ---
 
 # § 795g. Purpose

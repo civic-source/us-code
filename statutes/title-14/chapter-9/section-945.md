@@ -3,9 +3,9 @@ title: "Section 945 - Assistance to film producers"
 usc_title: 14
 usc_section: "945"
 chapter: 9
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "14 U.S.C. § 945"
-generated_at: "2026-03-30T00:50:30.507Z"
+generated_at: "2026-03-30T00:56:49.004Z"
 ---
 
 # § 945. Assistance to film producers

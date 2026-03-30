@@ -3,9 +3,9 @@ title: "Section 5372 - Rule of construction"
 usc_title: 12
 usc_section: "5372"
 chapter: 53
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 5372"
-generated_at: "2026-03-30T00:50:34.985Z"
+generated_at: "2026-03-30T00:56:40.408Z"
 ---
 
 # § 5372. Rule of construction

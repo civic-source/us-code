@@ -3,9 +3,9 @@ title: "Section 9402 - Regional strategy for countering conventional and asymmet
 usc_title: 22
 usc_section: "9402"
 chapter: 101
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 9402"
-generated_at: "2026-03-30T00:51:06.718Z"
+generated_at: "2026-03-30T00:57:39.167Z"
 ---
 
 # § 9402. Regional strategy for countering conventional and asymmetric Iranian threats in the Middle East and North Africa

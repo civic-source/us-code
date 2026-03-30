@@ -3,9 +3,9 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-30T00:51:51.659Z"
+generated_at: "2026-03-30T00:58:24.218Z"
 ---
 
 # § 416. Special rules for top-heavy plans
@@ -44,6 +44,7 @@ generated_at: "2026-03-30T00:51:51.659Z"
       - **(ii)**
         - **(I)** For purposes of this subparagraph, all defined contribution plans required to be included in an aggregation group under subsection (g)(2)(A)(i) shall be treated as one plan.
         - **(II)** This subparagraph shall not apply to any plan required to be included in an aggregation group if such plan enables a defined benefit plan required to be included in such group to meet the requirements of section 401(a)(4) or 410.
+    - **(C)** Any employees not meeting the age or service requirements of section 410(a)(1) (without regard to subparagraph (B) thereof) may be excluded from consideration in determining whether any plan of the employer meets the requirements of subparagraphs (A) and (B).
 - **[(d)**
 - **(e)** A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
@@ -82,8 +83,8 @@ generated_at: "2026-03-30T00:51:51.659Z"
       - **(ii)** if there is no method described in clause (i), as if such benefit accrued not more rapidly than the slowest accrual rate permitted under section 411(b)(1)(C).
     - **(G)** The term “top-heavy plan” shall not include a simple retirement account under section 408(p).
     - **(H)** The term “top-heavy plan” shall not include a plan which consists solely of—
-      - **(i)** a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13), and
-      - **(ii)** matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.
+      - **(i)** a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13)and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or
+      - **(ii)** a starter 401(k) deferral-only arrangement described in section 401(k)(16)(B) or a safe harbor deferral-only plan described in section 403(b)(16).
 - **[(h)**
 - **(i)** For purposes of this section—
   - **(1)**

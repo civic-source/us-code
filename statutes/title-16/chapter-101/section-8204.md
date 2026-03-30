@@ -3,9 +3,9 @@ title: "Section 8204 - Fish Habitat Partnerships"
 usc_title: 16
 usc_section: "8204"
 chapter: 101
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 8204"
-generated_at: "2026-03-30T00:50:47.548Z"
+generated_at: "2026-03-30T00:57:08.795Z"
 ---
 
 # § 8204. Fish Habitat Partnerships
@@ -46,7 +46,7 @@ generated_at: "2026-03-30T00:50:47.548Z"
     - **(A)** identifies each entity that—
       - **(i)** meets the requirements described in subsection (d); and
       - **(ii)** the Board recommends to Congress for designation as a Partnership;
-    - **(B)** describes any proposed modifications to a Partnership previously designated by Congress under subsection (f);
+    - **(B)** describes any proposed modifications to a Partnership previously designated by Congress under subsection (f); 1 1 So in original. Probably should be followed by “and”.
     - **(C)** with respect to each entity recommended for designation as a Partnership, describes, to the maximum extent practicable—
       - **(i)** the purpose of the recommended Partnership; and
       - **(ii)** how the recommended Partnership fulfills the requirements described in subsection (d).

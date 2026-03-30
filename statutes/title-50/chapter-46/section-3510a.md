@@ -3,9 +3,9 @@ title: "Section 3510a - Availability of appropriations for construction projects
 usc_title: 50
 usc_section: "3510a"
 chapter: 46
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3510a"
-generated_at: "2026-03-30T00:54:36.282Z"
+generated_at: "2026-03-30T01:00:05.162Z"
 ---
 
 # § 3510a. Availability of appropriations for construction projects

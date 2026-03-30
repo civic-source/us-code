@@ -3,9 +3,9 @@ title: "Section 453b - Requirement to buy certain items related to national secu
 usc_title: 6
 usc_section: "453b"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "6 U.S.C. § 453b"
-generated_at: "2026-03-30T00:50:08.603Z"
+generated_at: "2026-03-30T00:55:52.691Z"
 ---
 
 # § 453b. Requirement to buy certain items related to national security interests from American sources; exceptions

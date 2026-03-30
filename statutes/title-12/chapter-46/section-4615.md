@@ -3,9 +3,9 @@ title: "Section 4615 - Supervisory actions applicable to undercapitalized regula
 usc_title: 12
 usc_section: "4615"
 chapter: 46
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 4615"
-generated_at: "2026-03-30T00:50:34.966Z"
+generated_at: "2026-03-30T00:56:40.389Z"
 ---
 
 # § 4615. Supervisory actions applicable to undercapitalized regulated entities

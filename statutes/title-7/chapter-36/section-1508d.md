@@ -3,9 +3,9 @@ title: "Section 1508d - Coverage for forage and grazing"
 usc_title: 7
 usc_section: "1508d"
 chapter: 36
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "7 U.S.C. § 1508d"
-generated_at: "2026-03-30T00:50:27.621Z"
+generated_at: "2026-03-30T00:56:14.425Z"
 ---
 
 # § 1508d. Coverage for forage and grazing

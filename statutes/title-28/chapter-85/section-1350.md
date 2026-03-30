@@ -3,9 +3,9 @@ title: "Section 1350 - Alien’s action for tort"
 usc_title: 28
 usc_section: "1350"
 chapter: 85
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "28 U.S.C. § 1350"
-generated_at: "2026-03-30T00:51:17.698Z"
+generated_at: "2026-03-30T00:57:57.957Z"
 ---
 
 # § 1350. Alien’s action for tort

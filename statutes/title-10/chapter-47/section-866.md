@@ -3,9 +3,9 @@ title: "Section 866 - Art. 66. Courts of Criminal Appeals"
 usc_title: 10
 usc_section: "866"
 chapter: 47
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 866"
-generated_at: "2026-03-30T00:50:18.276Z"
+generated_at: "2026-03-30T00:56:33.128Z"
 ---
 
 # § 866. Art. 66. Courts of Criminal Appeals
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T00:50:18.276Z"
   - **(2)** in the case of an appeal under subparagraph (B) of such subsection, an application for review with the Court is filed not later than the earlier of the dates established under section 869(d)(2)(B) of this title (article 69(d)(2)(B)).
 - **(d)**
   - **(1)**
-    - **(A)** In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under section 860c of this title (article 60c). The Court may affirm only such findings of guilty as the Court finds correct in law, and in fact in accordance with subparagraph (B). The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.
+    - **(A)** In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under section 860c of this title (article 60c). The Court may affirm only such findings of guilty as the Court finds correct in law, and in fact in accordance with subparagraph (B).
     - **(B)**
       - **(i)** In an appeal of a finding of guilty under subsection (b), the Court may consider whether the finding is correct in fact upon request of the accused if the accused makes a specific showing of a deficiency in proof.
       - **(ii)** After an accused has made such a showing, the Court may weigh the evidence and determine controverted questions of fact subject to—
@@ -35,20 +35,27 @@ generated_at: "2026-03-30T00:50:18.276Z"
       - **(iii)** If, as a result of the review conducted under clause (ii), the Court is clearly convinced that the finding of guilty was against the weight of the evidence, the Court may dismiss, set aside, or modify the finding, or affirm a lesser finding.
   - **(2)** In any case before the Court of Criminal Appeals under subsection (b), the Court may provide appropriate relief if the accused demonstrates error or excessive delay in the processing of the court-martial after the judgment was entered into the record under section 860c of this title (article 60c).
 - **(e)**
-  - **(1)** In considering a sentence on appeal or review as provided in section 856(d) of this title (article 56(d)), the Court of Criminal Appeals may consider—
-    - **(A)** whether the sentence violates the law; and
-    - **(B)** whether the sentence is plainly unreasonable.
-  - **(2)** In an appeal or review under this subsection or section 856(d) of this title (article 56(d)), the record on appeal or review shall consist of—
-    - **(A)** any portion of the record in the case that is designated as pertinent by either of the parties;
+  - **(1)** In considering a sentence on appeal, other than as provided in section 856(d) of this title (article 56(d)), the Court of Criminal Appeals may consider—
+    - **(A)** whether the sentence violates the law;
+    - **(B)** whether the sentence is inappropriately severe—
+      - **(i)** if the sentence is for an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022; or
+      - **(ii)** in the case of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, if the sentence is above the upper range of such sentencing parameter;
+    - **(C)** in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, whether the sentence is a result of an incorrect application of the parameter;
+    - **(D)** whether the sentence is plainly unreasonable; and
+    - **(E)** in review of a sentence to death or to life in prison without eligibility for parole determined by the members in a capital case under section 853(c) of this title (article 53(c)), whether the sentence is otherwise appropriate, under rules prescribed by the President.
+  - **(2)** In an appeal under this subsection or section 856(d) of this title (article 56(d)), other than review under subsection (b)(2) of this section, the record on appeal shall consist of—
+    - **(A)** any portion of the record in the case that is designated as pertinent by any party;
     - **(B)** the information submitted during the sentencing proceeding; and
-    - **(C)** any information required by regulation prescribed by the President or by rule or order of the Court of Criminal Appeals.
+    - **(C)** any information required by rule or order of the Court of Criminal Appeals.
 - **(f)**
   - **(1)**
     - **(A)** If the Court of Criminal Appeals sets aside the findings, the Court—
       - **(i)** may affirm any lesser included offense; and
       - **(ii)** may, except when prohibited by section 844 of this title (article 44), order a rehearing.
     - **(B)** If the Court of Criminal Appeals sets aside the findings and does not order a rehearing, the Court shall order that the charges be dismissed.
-    - **(C)** If the Court of Criminal Appeals orders a rehearing on a charge and the convening authority finds a rehearing impracticable, the convening authority may dismiss the charge.
+    - **(C)**
+      - **(i)** Subject to clause (ii), if the Court of Criminal Appeals orders a rehearing on a charge and the convening authority finds a rehearing impracticable, the convening authority may dismiss the charge.
+      - **(ii)** If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
   - **(2)** If the Court of Criminal Appeals sets aside the sentence, the Court may—
     - **(A)** modify the sentence to a lesser sentence; or
     - **(B)** order a rehearing.

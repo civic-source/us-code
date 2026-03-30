@@ -3,9 +3,9 @@ title: "Section 1852 - Regional Fishery Management Councils"
 usc_title: 16
 usc_section: "1852"
 chapter: 38
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 1852"
-generated_at: "2026-03-30T00:50:47.483Z"
+generated_at: "2026-03-30T00:57:08.726Z"
 ---
 
 # § 1852. Regional Fishery Management Councils

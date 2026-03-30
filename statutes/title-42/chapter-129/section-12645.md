@@ -3,9 +3,9 @@ title: "Section 12645 - Sustainability"
 usc_title: 42
 usc_section: "12645"
 chapter: 129
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 12645"
-generated_at: "2026-03-30T00:54:16.683Z"
+generated_at: "2026-03-30T00:59:31.556Z"
 ---
 
 # § 12645. Sustainability

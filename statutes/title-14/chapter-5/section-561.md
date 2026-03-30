@@ -3,9 +3,9 @@ title: "Section 561 - Icebreaking in polar regions"
 usc_title: 14
 usc_section: "561"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "14 U.S.C. § 561"
-generated_at: "2026-03-30T00:50:30.505Z"
+generated_at: "2026-03-30T00:56:49.002Z"
 ---
 
 # § 561. Icebreaking in polar regions

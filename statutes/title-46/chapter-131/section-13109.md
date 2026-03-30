@@ -3,9 +3,9 @@ title: "Section 13109 - Consultation, cooperation, and regulation"
 usc_title: 46
 usc_section: "13109"
 chapter: 131
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "46 U.S.C. § 13109"
-generated_at: "2026-03-30T00:54:22.089Z"
+generated_at: "2026-03-30T00:59:41.505Z"
 ---
 
 # § 13109. Consultation, cooperation, and regulation

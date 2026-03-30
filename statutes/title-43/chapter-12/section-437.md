@@ -3,9 +3,9 @@ title: "Section 437 - Lands as to which entries made prior to June 25, 1910 , ha
 usc_title: 43
 usc_section: "437"
 chapter: 12
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "43 U.S.C. § 437"
-generated_at: "2026-03-30T00:52:57.006Z"
+generated_at: "2026-03-30T00:58:53.074Z"
 ---
 
 # § 437. Lands as to which entries made prior to June 25, 1910 , have been relinquished

@@ -3,9 +3,9 @@ title: "Section 1382c - Definitions"
 usc_title: 42
 usc_section: "1382c"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1382c"
-generated_at: "2026-03-30T00:54:16.198Z"
+generated_at: "2026-03-30T00:59:30.928Z"
 ---
 
 # § 1382c. Definitions

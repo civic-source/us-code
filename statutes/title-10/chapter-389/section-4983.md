@@ -3,9 +3,9 @@ title: "Section 4983 - Administration"
 usc_title: 10
 usc_section: "4983"
 chapter: 389
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 4983"
-generated_at: "2026-03-30T00:50:18.384Z"
+generated_at: "2026-03-30T00:56:33.227Z"
 ---
 
 # § 4983. Administration

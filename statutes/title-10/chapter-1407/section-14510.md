@@ -3,9 +3,9 @@ title: "Section 14510 - Separation at age 62: brigadier generals and rear admira
 usc_title: 10
 usc_section: "14510"
 chapter: 1407
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 14510"
-generated_at: "2026-03-30T00:50:18.424Z"
+generated_at: "2026-03-30T00:56:33.264Z"
 ---
 
 # § 14510. Separation at age 62: brigadier generals and rear admirals (lower half)

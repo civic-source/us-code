@@ -3,9 +3,9 @@ title: "Section 1874 - Public reporting by persons subject to orders"
 usc_title: 50
 usc_section: "1874"
 chapter: 36
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 1874"
-generated_at: "2026-03-30T00:54:36.233Z"
+generated_at: "2026-03-30T01:00:05.098Z"
 ---
 
 # § 1874. Public reporting by persons subject to orders

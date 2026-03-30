@@ -3,9 +3,9 @@ title: "Section 35 - Powers of Commission"
 usc_title: 16
 usc_section: "35"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 35"
-generated_at: "2026-03-30T00:50:47.317Z"
+generated_at: "2026-03-30T00:57:08.550Z"
 ---
 
 # § 410cc–35. Powers of Commission

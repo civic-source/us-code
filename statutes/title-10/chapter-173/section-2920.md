@@ -3,9 +3,9 @@ title: "Section 2920 - Energy resilience and energy security measures on militar
 usc_title: 10
 usc_section: "2920"
 chapter: 173
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 2920"
-generated_at: "2026-03-30T00:50:18.356Z"
+generated_at: "2026-03-30T00:56:33.204Z"
 ---
 
 # § 2920. Energy resilience and energy security measures on military installations

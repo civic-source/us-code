@@ -3,9 +3,9 @@ title: "Section 1465cc - Television Marti Service"
 usc_title: 22
 usc_section: "1465cc"
 chapter: 18
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 1465cc"
-generated_at: "2026-03-30T00:51:06.576Z"
+generated_at: "2026-03-30T00:57:38.977Z"
 ---
 
 # § 1465cc. Television Marti Service

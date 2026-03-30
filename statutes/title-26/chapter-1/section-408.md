@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T00:51:51.651Z"
+generated_at: "2026-03-30T00:58:24.204Z"
 ---
 
 # § 408. Individual retirement accounts
@@ -52,7 +52,7 @@ generated_at: "2026-03-30T00:51:51.651Z"
       - **(ii)** For purposes of clause (i), the term “eligible plan” means any account, annuity, contract, or plan referred to in subparagraph (A).
     - **(E)** This paragraph shall not apply to any amount to the extent such amount is required to be distributed under subsection (a)(6) or (b)(3).
     - **(F)** For purposes of this paragraph, rules similar to the rules of section 402(c)(7) (relating to frozen deposits) shall apply.
-    - **(G)** In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
+    - **(G)** In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6)(A) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
     - **(H)**
       - **(i)** If—
         - **(I)** a distribution is made from an individual retirement plan, and
@@ -273,25 +273,49 @@ generated_at: "2026-03-30T00:51:51.651Z"
         - **(I)** as elective employer contributions to a simple retirement account on behalf of the employee, or
         - **(II)** to the employee directly in cash,
       - **(ii)** the amount which an employee may elect under clause (i) for any year is required to be expressed as a percentage of compensation and may not exceed a total of the applicable dollar amount for any year,
-      - **(iii)** the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year, and
-      - **(iv)** no contributions may be made other than contributions described in clause (i) or (iii).
+      - **(iii)** the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year,
+      - **(iv)** the employer may make nonelective contributions of a uniform percentage (up to 10 percent) of compensation for each employee who is eligible to participate in the arrangement, and who has at least $5,000 of compensation from the employer for the year, but such contributions with respect to any employee shall not exceed $5,000 for the year, and
+      - **(v)** no contributions may be made other than contributions described in clause (i), (iii), or (iv).
     - **(B)**
       - **(i)** An employer shall be treated as meeting the requirements of subparagraph (A)(iii) for any year if, in lieu of the contributions described in such clause, the employer elects to make nonelective contributions of 2 percent of compensation for each employee who is eligible to participate in the arrangement and who has at least $5,000 of compensation from the employer for the year. If an employer makes an election under this subparagraph for any year, the employer shall notify employees of such election within a reasonable period of time before the 60-day period for such year under paragraph (5)(C).
       - **(ii)** The compensation taken into account under clause (i) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).
+      - **(iii)** In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, clause (i) shall be applied for such year by substituting “3 percent” for “2 percent”.
     - **(C)** For purposes of this subsection—
       - **(i)**
         - **(I)** The term “eligible employer” means, with respect to any year, an employer which had no more than 100 employees who received at least $5,000 of compensation from the employer for the preceding year.
         - **(II)** An eligible employer who establishes and maintains a plan under this subsection for 1 or more years and who fails to be an eligible employer for any subsequent year shall be treated as an eligible employer for the 2 years following the last year the employer was an eligible employer. If such failure is due to any acquisition, disposition, or similar transaction involving an eligible employer, the preceding sentence shall not apply.
       - **(ii)**
-        - **(I)** The term “applicable percentage” means 3 percent.
-        - **(II)** An employer may elect to apply a lower percentage (not less than 1 percent) for any year for all employees eligible to participate in the plan for such year if the employer notifies the employees of such lower percentage within a reasonable period of time before the 60-day election period for such year under paragraph (5)(C). An employer may not elect a lower percentage under this subclause for any year if that election would result in the applicable percentage being lower than 3 percent in more than 2 of the years in the 5-year period ending with such year.
-        - **(III)** If any year in the 5-year period described in subclause (II) is a year prior to the first year for which any qualified salary reduction arrangement is in effect with respect to the employer (or any predecessor), the employer shall be treated as if the level of the employer matching contribution was at 3 percent of compensation for such prior year.
+        - **(I)** Except as provided in subclause (IV), the term “applicable percentage” means 3 percent.
+        - **(II)** An employer may elect to apply a lower percentage (not less than 1 percent) for any year for all employees eligible to participate in the plan for such year if the employer notifies the employees of such lower percentage within a reasonable period of time before the 60-day election period for such year under paragraph (5)(C). An employer may not elect a lower percentage under this subclause for any year if that election would result in the applicable percentage being lower than the applicable percentage in more than 2 of the years in the 5-year period ending with such year.
+        - **(III)** If any year in the 5-year period described in subclause (II) is a year prior to the first year for which any qualified salary reduction arrangement is in effect with respect to the employer (or any predecessor), the employer shall be treated as if the level of the employer matching contribution was at the applicable percentage of compensation for such prior year.
+        - **(IV)** In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, subclause (I) shall be applied for such year by substituting “4 percent” for “3 percent”.
     - **(D)**
       - **(i)** An arrangement shall not be treated as a qualified salary reduction arrangement for any year if the employer (or any predecessor employer) maintained a qualified plan with respect to which contributions were made, or benefits were accrued, for service in any year in the period beginning with the year such arrangement became effective and ending with the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees so described are eligible to participate.
       - **(ii)** For purposes of this subparagraph, the term “qualified plan” means a plan, contract, pension, or trust described in subparagraph (A) or (B) of section 219(g)(5).
     - **(E)**
-      - **(i)** For purposes of subparagraph (A)(ii), the applicable amount is $10,000.
-      - **(ii)** In the case of a year beginning after December 31, 2005 , the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+      - **(i)** For purposes of subparagraph (A)(ii), the applicable dollar amount is—
+        - **(I)** the adjusted dollar amount in the case of an eligible employer described in clause (iii) which had not more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year,
+        - **(II)** the adjusted dollar amount in the case of an eligible employer described in clause (iii) which is not described in subclause (I) and which elects, at such time and in such manner as prescribed by the Secretary, the application of this subclause for the year, and
+        - **(III)** $10,000 in any other case.
+      - **(ii)** For purposes of clause (i), the adjusted dollar amount is an amount equal to 110 percent of the dollar amount in effect under clause (i)(III) for calendar year 2024.
+      - **(iii)**
+        - **(I)** In the case of a year beginning after December 31, 2005 , the Secretary shall adjust the $10,000 amount under clause (i)(III) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+        - **(II)** In the case of a year beginning after December 31, 2024 , the Secretary shall adjust annually the adjusted dollar amount under clause (ii) in the manner provided under subclause (I) of this clause, except that the base period taken into account shall be the calendar quarter beginning July 1, 2023 .
+      - **(iv)** An eligible employer is described in this clause only if, during the 3-taxable-year period immediately preceding the 1st year the employer maintains the qualified salary reduction arrangement under this paragraph, neither the employer nor any member of any controlled group including the employer (or any predecessor of either) established or maintained any plan described in clause (i), (ii), or (iv) of section 219(g)(5)(A) with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are eligible to participate in such qualified salary reduction arrangement.
+    - **(F)**
+      - **(i)** Subject to the rules of clause (iii), an arrangement shall not fail to be treated as meeting the requirements of subparagraph (A)(iii) solely because under the arrangement, solely for purposes of such subparagraph, qualified student loan payments are treated as amounts elected by the employee under subparagraph (A)(i)(I) to the extent such payments do not exceed—
+        - **(I)** the applicable dollar amount under subparagraph (E) (after application of section 414(v)) for the year (or, if lesser, the employee’s compensation (as defined in section 415(c)(3)) for the year), reduced by
+        - **(II)** any other amounts elected by the employee under subparagraph (A)(i)(I) for the year.
+      - **(ii)** For purposes of this subparagraph—
+        - **(I)** The term “qualified student loan payment” means a payment made by an employee in repayment of a qualified education loan (as defined in section 221(d)(1)) incurred by the employee to pay qualified higher education expenses, but only if the employee certifies to the employer making the matching contribution that such payment has been made on such a loan.
+        - **(II)** The term “qualified higher education expenses” has the same meaning as when used in section 401(m)(4)(D).
+      - **(iii)** Clause (i) shall apply to an arrangement only if, under the arrangement—
+        - **(I)** matching contributions on account of qualified student loan payments are provided only on behalf of employees otherwise eligible to elect contributions under subparagraph (A)(i)(I), and
+        - **(II)** all employees otherwise eligible to participate in the arrangement are eligible to receive matching contributions on account of qualified student loan payments.
+    - **(G)** In the case of taxable years beginning after December 31, 2024 , the $5,000 amount in subparagraph (A)(iv)(II) shall be increased by an amount equal to—
+      - **(i)** such amount, multiplied by
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2023” for “2016” in subparagraph (A)(ii) thereof.
+    - **(H)** An eligible employer which had not more than 25 employees who received at least $5,000 of compensation from the employer for 1 or more years, and which has more than 25 such employees for any subsequent year, shall be treated for purposes of subparagraph (E)(i) as having 25 such employees for the 2 years following the last year the employer had not more than 25 such employees, and not as having made the election under subparagraph (E)(i)(II) for such 2 years. Rules similar to the second sentence of subparagraph (C)(i)(II) shall apply for purposes of this subparagraph.
   - **(3)** The requirements of this paragraph are met with respect to a simple retirement account if the employee’s rights to any contribution to the simple retirement account are nonforfeitable. For purposes of this paragraph, rules similar to the rules of subsection (k)(4) shall apply.
   - **(4)**
     - **(A)** The requirements of this paragraph are met with respect to any simple retirement account for a year only if, under the qualified salary reduction arrangement, all employees of the employer who—
@@ -311,7 +335,9 @@ generated_at: "2026-03-30T00:51:51.651Z"
     - **(B)** The term “employee” includes an employee as defined in section 401(c)(1).
     - **(C)** The term “year” means the calendar year.
   - **(7)** A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection ( l )(2)(C)) that the participant’s balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
-  - **(8)** In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting “the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable” for “the dollar amount in effect under section 219(b)(1)(A)”.
+  - **(8)** In the case of any simple retirement account—
+    - **(A)** subsection (a)(1) shall be applied by substituting for “the amount in effect for such taxable year under section 219(b)(1)(A)” the following: “the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee”, and
+    - **(B)** subsection (b)(2)(B) shall be applied by substituting for “the dollar amount in effect under section 219(b)(1)(A)” the following: “the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee”.
   - **(9)** Any matching contribution described in paragraph (2)(A)(iii) which is made on behalf of a self-employed individual (as defined in section 401(c)) shall not be treated as an elective employer contribution to a simple retirement account for purposes of this title.
   - **(10)**
     - **(A)** An employer which fails to meet any applicable requirement by reason of an acquisition, disposition, or similar transaction shall not be treated as failing to meet such requirement during the transition period if—
@@ -322,6 +348,13 @@ generated_at: "2026-03-30T00:51:51.651Z"
       - **(ii)** the requirement under paragraph (2)(D) that an arrangement be the only plan of an employer; and
       - **(iii)** the participation requirements under paragraph (4).
     - **(C)** For purposes of this paragraph, the term “transition period” means the period beginning on the date of any transaction described in subparagraph (A) and ending on the last day of the second calendar year following the calendar year in which such transaction occurs.
+  - **(11)**
+    - **(A)** Subject to the requirements of this paragraph, an employer may elect (in such form and manner as the Secretary may prescribe) at any time during a year to terminate the qualified salary reduction arrangement under paragraph (2), but only if the employer establishes and maintains (as of the day after the termination date) a safe harbor plan to replace the terminated arrangement.
+    - **(B)** The terminated arrangement and safe harbor plan shall both be treated as violating the requirements of paragraph (2)(A)(ii) or section 401(a)(30) (whichever is applicable) if the aggregate elective contributions of the employee under the terminated arrangement during its last plan year and under the safe harbor plan during its transition year exceed the sum of—
+      - **(i)** the applicable dollar amount for such arrangement (determined on a full-year basis) under this subsection (after the application of section 414(v)) with respect to the employee for such last plan year multiplied by a fraction equal to the number of days in such plan year divided by 365, and
+      - **(ii)** the applicable dollar amount (as so determined) under section 402(g)(1) for such safe harbor plan on such elective contributions during the transition year multiplied by a fraction equal to the number of days in such transition year divided by 365.
+    - **(C)** For purposes of this paragraph, the transition year is the period beginning after the termination date and ending on the last day of the calendar year during which the termination occurs.
+    - **(D)** For purposes of this paragraph, the term “safe harbor plan” means a qualified cash or deferred arrangement which meets the requirements of paragraph (11), (12), (13), or (16) of section 401(k).
   - **(12)** An individual retirement plan which is designated as a Roth IRA shall not be treated as a simple retirement account under this subsection unless the employee elects for such plan to be so treated (at such time and in such manner as the Secretary may provide).
 - **(q)**
   - **(1)** If—

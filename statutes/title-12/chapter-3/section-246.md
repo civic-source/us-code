@@ -3,9 +3,9 @@ title: "Section 246 - Powers of Secretary of the Treasury as affected by chapter
 usc_title: 12
 usc_section: "246"
 chapter: 3
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 246"
-generated_at: "2026-03-30T00:50:34.833Z"
+generated_at: "2026-03-30T00:56:40.258Z"
 ---
 
 # § 246. Powers of Secretary of the Treasury as affected by chapter

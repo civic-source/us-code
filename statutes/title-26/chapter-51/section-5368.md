@@ -3,9 +3,9 @@ title: "Section 5368 - Gauging and marking"
 usc_title: 26
 usc_section: "5368"
 chapter: 51
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 5368"
-generated_at: "2026-03-30T00:51:51.780Z"
+generated_at: "2026-03-30T00:58:24.394Z"
 ---
 
 # § 5368. Gauging and marking

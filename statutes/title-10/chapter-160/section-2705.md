@@ -3,9 +3,9 @@ title: "Section 2705 - Notice of environmental restoration activities"
 usc_title: 10
 usc_section: "2705"
 chapter: 160
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 2705"
-generated_at: "2026-03-30T00:50:18.344Z"
+generated_at: "2026-03-30T00:56:33.195Z"
 ---
 
 # § 2705. Notice of environmental restoration activities
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T00:50:18.344Z"
   - **(3)** The Secretary may authorize the commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to pay routine administrative expenses of a restoration advisory board established for that installation. Such payments shall be made from funds available under subsection (g).
 - **(e)**
   - **(1)** The Secretary may, upon the request of the technical review committee for an installation, restoration advisory board for an installation, community concerned with respect to an installation, or individual member of such community, authorize the commander of the installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to obtain from covered sources technical assistance for the committee, advisory board, community, or individual (as the case may be) to interpret scientific and engineering issues with regard to the nature of environmental hazards at the installation and the restoration activities conducted, or proposed to be conducted, at the installation. The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) shall use funds made available under subsection (g) for obtaining assistance under this paragraph.
-  - **(2)** The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee, restoration advisory board, community, or individual only if the technical assistance—”
+  - **(2)** The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee, restoration advisory board, community, or individual only if the technical assistance—
     - **(A)** is likely to contribute to the efficiency, effectiveness, or timeliness of environmental restoration activities at the installation; or
     - **(B)** is a service described in paragraph (3).
   - **(3)** A service described in this paragraph is a service to improve public participation in, or assist in the navigation of, environmental restoration activities at an installation by the community concerned or an individual member of such community, including with respect to the following:

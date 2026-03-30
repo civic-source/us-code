@@ -3,9 +3,9 @@ title: "Section 3506 - Service of papers filed in opposition to official request
 usc_title: 18
 usc_section: "3506"
 chapter: 223
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "18 U.S.C. § 3506"
-generated_at: "2026-03-30T00:50:48.610Z"
+generated_at: "2026-03-30T00:56:53.069Z"
 ---
 
 # § 3506. Service of papers filed in opposition to official request by United States to foreign government for criminal evidence

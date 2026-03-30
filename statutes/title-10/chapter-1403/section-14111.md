@@ -3,9 +3,9 @@ title: "Section 14111 - Reports of selection boards: transmittal to President"
 usc_title: 10
 usc_section: "14111"
 chapter: 1403
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 14111"
-generated_at: "2026-03-30T00:50:18.422Z"
+generated_at: "2026-03-30T00:56:33.262Z"
 ---
 
 # § 14111. Reports of selection boards: transmittal to President

@@ -3,9 +3,9 @@ title: "Section 3004 - Testimony of witnesses, production of evidence; issuance 
 usc_title: 22
 usc_section: "3004"
 chapter: 45
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 3004"
-generated_at: "2026-03-30T00:51:06.636Z"
+generated_at: "2026-03-30T00:57:39.054Z"
 ---
 
 # § 3004. Testimony of witnesses, production of evidence; issuance of subpena; administration of oaths

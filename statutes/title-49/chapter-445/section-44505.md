@@ -3,9 +3,9 @@ title: "Section 44505 - Systems, procedures, facilities, and devices"
 usc_title: 49
 usc_section: "44505"
 chapter: 445
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 44505"
-generated_at: "2026-03-30T00:54:59.872Z"
+generated_at: "2026-03-30T00:59:54.745Z"
 ---
 
 # § 44505. Systems, procedures, facilities, and devices

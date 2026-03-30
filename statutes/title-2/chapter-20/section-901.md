@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-30T00:49:45.881Z"
+generated_at: "2026-03-30T00:55:40.963Z"
 ---
 
 # § 901. Enforcing discretionary spending limits
@@ -121,22 +121,22 @@ generated_at: "2026-03-30T00:49:45.881Z"
     - **(B)** for the revised nonsecurity category, $626,500,000,000 in new budget authority;
   - **(9)** for fiscal year 2024—
     - **(A)** for the revised security category, $886,349,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category; $703,651,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category; 2 2 So in original. The semicolon probably should be a comma. $703,651,000,000 in new budget authority; and
   - **(10)** for fiscal year 2025—
     - **(A)** for the revised security category, $895,212,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category; $710,688,000,000 in new budget authority;
+    - **(B)** for the revised nonsecurity category; 2 $710,688,000,000 in new budget authority;
 - **(d)**
   - **(1)** Subject to paragraph (3), if on or after January 1, 2024 , there is in effect an Act making continuing appropriations for part of fiscal year 2024 for any discretionary budget account, the discretionary spending limits specified in subsection (c)(9) for fiscal year 2024 shall be adjusted in the final sequestration report, in accordance with paragraph (2), as follows:
     - **(A)** For the revised security category, the amount that is equal to the total budget authority for such category for base funding, as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022 ), reduced by one percent.
-    - **(B)** For the revised non-security 2 2 So in original. category, the amount that is equal to the total budget authority for such category for base funding as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022 ), reduced by one percent.
+    - **(B)** For the revised non-security 3 3 So in original. category, the amount that is equal to the total budget authority for such category for base funding as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022 ), reduced by one percent.
   - **(2)** If the conditions specified in paragraph (1) are met during fiscal year 2024, the final sequestration report for such fiscal year pursuant to section 904(f)(1) of this title and any order pursuant to section 904(f)(5) of this title shall be issued on the earlier of—
     - **(A)** 10 days, not including weekends and holidays, for the Congressional Budget Office and 15 days, not including weekends and holidays, for the Office of Management and Budget and the President, after the enactment into law of annual full-year appropriations for all budget accounts that normally receive such annual appropriations (or the enactment of the applicable full-year appropriations Acts without any provision for such accounts); or
     - **(B)** April 30, 2024 .
   - **(3)** If, after January 1, 2024 , there are enacted into law each of the full year discretionary appropriation Acts, then the adjustment to the applicable discretionary spending limits in paragraph (1) shall have no force or effect, and the discretionary spending limits for the revised security category and revised nonsecurity category for the applicable fiscal year shall be such limits as in effect on December 31 of the applicable fiscal year.
 - **(e)**
   - **(1)** Subject to paragraph (3), if on or after January 1, 2025 , there is in effect an Act making continuing appropriations for part of fiscal year 2025 for any discretionary budget account, the discretionary spending limits specified in subsection (c)(10) for fiscal year 2025 shall be adjusted in the final sequestration report, in accordance with paragraph (2), as follows:
-    - **(A)** for the revised security category, the amount calculated for such category in section 3 3 So in original. Probably should be “subsection”. (d)(1)(A); and
-    - **(B)** for the revised non-security 2 category, the amount calculated for each category in section 3 (d)(1)(B).
+    - **(A)** for the revised security category, the amount calculated for such category in section 4 4 So in original. Probably should be “subsection”. (d)(1)(A); and
+    - **(B)** for the revised non-security 3 category, the amount calculated for each category in section 4 (d)(1)(B).
   - **(2)** If the conditions specified in paragraph (1) are met during fiscal year 2025, the final sequestration report for such fiscal year pursuant to section 904(f)(1) of this title and any order pursuant to section 904(f)(5) of this title shall be issued on the earlier of—
     - **(A)** 10 days, not including weekends and holidays, for the Congressional Budget Office, and 15 days, not including weekends and holidays, for the Office of Management and Budget and the President, after the enactment into law of annual full-year appropriations for all budget accounts that normally receive such annual appropriations (or the enactment of the applicable full-year appropriations Acts without any provision for such accounts); or
     - **(B)** April 30, 2025 .

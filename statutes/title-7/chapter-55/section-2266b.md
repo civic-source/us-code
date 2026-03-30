@@ -3,9 +3,9 @@ title: "Section 2266b - Eligibility for operators on heirs property land to obta
 usc_title: 7
 usc_section: "2266b"
 chapter: 55
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "7 U.S.C. § 2266b"
-generated_at: "2026-03-30T00:50:27.671Z"
+generated_at: "2026-03-30T00:56:14.476Z"
 ---
 
 # § 2266b. Eligibility for operators on heirs property land to obtain a farm number

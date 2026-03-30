@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-30T00:51:51.652Z"
+generated_at: "2026-03-30T00:58:24.207Z"
 ---
 
 # § 408A. Roth IRAs
@@ -33,12 +33,17 @@ generated_at: "2026-03-30T00:51:51.652Z"
     - **(D)** In the case of any taxable year beginning in a calendar year after 2006, the dollar amounts in subclauses (I) and (II) of subparagraph (B)(ii) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(E)** The amount determined under subparagraph (A) shall be increased by the lesser of—
+      - **(i)** the amount of contributions described in section 529(c)(3)(E) for the taxable year, or
+      - **(ii)** the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph).
   - **(4)** Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
     - **(A)** Section 401(a)(9)(A).
     - **(B)** The incidental death benefit requirements of section 401(a).
   - **(5)**
     - **(A)** No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
-    - **(B)** A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+    - **(B)**
+      - **(i)** A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+      - **(ii)** Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C).
   - **(6)** For purposes of this section, the rule of section 219(f)(3) shall apply.
 - **(d)** For purposes of this title—
   - **(1)** Any qualified distribution from a Roth IRA shall not be includible in gross income.
@@ -90,7 +95,8 @@ generated_at: "2026-03-30T00:51:51.652Z"
     - **(A)** to a Roth IRA from another such account,
     - **(B)** from an eligible retirement plan, but only if—
       - **(i)** in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
-      - **(ii)** in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
+      - **(ii)** in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable, and
+    - **“(C)** from a qualified tuition program to the extent provided in section 529(c)(3)(E). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA. The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).
   - **(2)**
     - **(A)** The term “qualified rollover contribution” includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10 , United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
       - **(i)** the sum of the amounts received during such period by such individual under such sections with respect to such person, reduced by

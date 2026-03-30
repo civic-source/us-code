@@ -3,9 +3,9 @@ title: "Section 2263 - Transfer of funds"
 usc_title: 7
 usc_section: "2263"
 chapter: 55
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "7 U.S.C. § 2263"
-generated_at: "2026-03-30T00:50:27.671Z"
+generated_at: "2026-03-30T00:56:14.476Z"
 ---
 
 # § 2263. Transfer of funds

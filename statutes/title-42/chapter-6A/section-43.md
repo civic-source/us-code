@@ -3,9 +3,9 @@ title: "Section 43 - Certification of coverage"
 usc_title: 42
 usc_section: "43"
 chapter: 6
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 43"
-generated_at: "2026-03-30T00:54:16.107Z"
+generated_at: "2026-03-30T00:59:30.811Z"
 ---
 
 # § 300gg–43. Certification of coverage

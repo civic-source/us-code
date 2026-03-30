@@ -3,9 +3,9 @@ title: "Section 12774 - Other requirements"
 usc_title: 42
 usc_section: "12774"
 chapter: 130
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 12774"
-generated_at: "2026-03-30T00:54:16.691Z"
+generated_at: "2026-03-30T00:59:31.568Z"
 ---
 
 # § 12774. Other requirements

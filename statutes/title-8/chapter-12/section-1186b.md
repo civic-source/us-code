@@ -3,9 +3,9 @@ title: "Section 1186b - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186b"
 chapter: 12
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "8 U.S.C. § 1186b"
-generated_at: "2026-03-30T00:50:13.210Z"
+generated_at: "2026-03-30T00:55:53.328Z"
 ---
 
 # § 1186b. Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
@@ -25,7 +25,8 @@ generated_at: "2026-03-30T00:50:13.210Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (3)(D), in order for the conditional basis established under subsection (a) for an alien investor, alien spouse, or alien child to be removed—
     - **(A)** the alien investor shall submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);
-    - **(B)** in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and 1 1 See Enactment of Subsection (c)(1)(C) note below.
+    - **(B)** in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and
+    - **(C)** the Secretary shall have performed a site visit to the relevant corporate office or business location described in section 1153(b)(5)(F)(iv) of this title .
   - **(2)**
     - **(A)** In the case of an alien with permanent resident status on a conditional basis under subsection (a), if—
       - **(i)** no petition is filed with respect to the alien in accordance with the provisions of paragraph (1)(A), or

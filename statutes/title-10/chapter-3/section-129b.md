@@ -3,9 +3,9 @@ title: "Section 129b - Authority to procure personal services"
 usc_title: 10
 usc_section: "129b"
 chapter: 3
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 129b"
-generated_at: "2026-03-30T00:50:18.243Z"
+generated_at: "2026-03-30T00:56:33.088Z"
 ---
 
 # § 129b. Authority to procure personal services

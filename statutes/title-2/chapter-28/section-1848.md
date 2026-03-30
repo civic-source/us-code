@@ -3,9 +3,9 @@ title: "Section 1848 - Compensation of certain positions in Office of Architect 
 usc_title: 2
 usc_section: "1848"
 chapter: 28
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 1848"
-generated_at: "2026-03-30T00:49:45.896Z"
+generated_at: "2026-03-30T00:55:40.979Z"
 ---
 
 # § 1848. Compensation of certain positions in Office of Architect of the Capitol

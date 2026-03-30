@@ -3,9 +3,9 @@ title: "Section 1212 - Violations; misdemeanor; penalties"
 usc_title: 15
 usc_section: "1212"
 chapter: 26
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 1212"
-generated_at: "2026-03-30T00:50:38.104Z"
+generated_at: "2026-03-30T00:56:45.759Z"
 ---
 
 # § 1212. Violations; misdemeanor; penalties

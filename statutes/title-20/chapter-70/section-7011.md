@@ -3,9 +3,9 @@ title: "Section 7011 - Definitions"
 usc_title: 20
 usc_section: "7011"
 chapter: 70
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 7011"
-generated_at: "2026-03-30T00:50:54.106Z"
+generated_at: "2026-03-30T00:57:26.452Z"
 ---
 
 # § 7011. Definitions

@@ -3,9 +3,9 @@ title: "Section 44810 - Airport safety and airspace hazard mitigation and enforc
 usc_title: 49
 usc_section: "44810"
 chapter: 448
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 44810"
-generated_at: "2026-03-30T00:54:59.878Z"
+generated_at: "2026-03-30T00:59:54.755Z"
 ---
 
 # § 44810. Airport safety and airspace hazard mitigation and enforcement
@@ -21,5 +21,5 @@ generated_at: "2026-03-30T00:54:59.878Z"
 - **(e)** Upon the certification, permitting, authorizing, or allowing of such technologies and systems that have been successfully tested under this section, an airport sponsor may apply for a grant under subchapter I of chapter 471 to purchase an unmanned aircraft detection and mitigation system. For purposes of this subsection, purchasing an unmanned aircraft detection and mitigation system shall be considered airport development (as defined in section 47102).
 - **(f)** The Administrator shall annually brief the appropriate committees of Congress, including the Committee on Judiciary 2 2 So in original. Probably should be preceded by “the”. of the House of Representatives and the Committee on the Judiciary of the Senate, on the implementation of this section.
 - **(g)** Section 46502 of this title , section 32 of title 18 , United States Code (commonly known as the Aircraft Sabotage Act), section 1031 of title 18 , United States Code (commonly known as the Computer Fraud and Abuse Act of 1986), 1 sections 2510–2522 of title 18, United States Code (commonly known as the Wiretap Act), and sections 3121–3127 of title 18, United States Code (commonly known as the Pen/Trap Statute), shall not apply to activities authorized by the Administrator pursuant to subsection 3 3 So in original. Probably should be “subsections”. (c) and (d).
-- **(h)** This section ceases to be effective March 8, 2024 .
+- **(h)** This section ceases to be effective May 10, 2024 .
 - **(i)** The Administrator shall not delegate any authority granted to the Administrator under this section to other Federal, State, local, territorial, or tribal agencies, or an airport sponsor, as defined in section 47102 of title 49 , United States Code. The Administrator may partner with other Federal agencies under this section, subject to any restrictions contained in such agencies’ authority to operate counter unmanned aircraft systems.

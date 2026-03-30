@@ -3,9 +3,9 @@ title: "Section 1395l - Payment of benefits"
 usc_title: 42
 usc_section: "1395l"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1395l"
-generated_at: "2026-03-30T00:54:16.211Z"
+generated_at: "2026-03-30T00:59:30.944Z"
 ---
 
 # § 1395l. Payment of benefits
@@ -721,7 +721,7 @@ generated_at: "2026-03-30T00:54:16.211Z"
   - **(4)** The provisions of paragraph 17 17 So in original. Probably should be “paragraphs”. (2) and (4) of subsection (m) shall apply to the determination of additional payments under this subsection in the same manner as such provisions apply to the determination of additional payments under subsection (m).
 - **(z)**
   - **(1)**
-    - **(A)** In the case of covered professional services furnished by an eligible professional during a year that is in the period beginning with 2019 and ending with 2025 and for which the professional is a qualifying APM participant with respect to such year, in addition to the amount of payment that would otherwise be made for such covered professional services under this part for such year, there also shall be paid to such professional an amount equal to 5 percent (or, with respect to 2025, 3.5 percent) of the estimated aggregate payment amounts for such covered professional services under this part for the preceding year. For purposes of the previous sentence, the payment amount for the preceding year may be an estimation for the full preceding year based on a period of such preceding year that is less than the full year. The Secretary shall establish policies to implement this subparagraph in cases in which payment for covered professional services furnished by a qualifying APM participant in an alternative payment model—
+    - **(A)** In the case of covered professional services furnished by an eligible professional during a year that is in the period beginning with 2019 and ending with 2026 and for which the professional is a qualifying APM participant with respect to such year, in addition to the amount of payment that would otherwise be made for such covered professional services under this part for such year, there also shall be paid to such professional an amount equal to 5 percent (or, with respect to 2025, 3.5 percent, or, with respect to 2026, 1.88 percent) of the estimated aggregate payment amounts for such covered professional services under this part for the preceding year. For purposes of the previous sentence, the payment amount for the preceding year may be an estimation for the full preceding year based on a period of such preceding year that is less than the full year. The Secretary shall establish policies to implement this subparagraph in cases in which payment for covered professional services furnished by a qualifying APM participant in an alternative payment model—
       - **(i)** is made to an eligible alternative payment entity rather than directly to the qualifying APM participant; or
       - **(ii)** is made on a basis other than a fee-for-service basis (such as payment on a capitated basis).
     - **(B)** Payments under this subsection shall be made in a lump sum, on an annual basis, as soon as practicable.
@@ -729,7 +729,7 @@ generated_at: "2026-03-30T00:54:16.211Z"
     - **(D)** The amount of the additional payment under this subsection or subsection (m) shall be determined without regard to any additional payment under subsection (m) and this subsection, respectively. The amount of the additional payment under this subsection or subsection (x) shall be determined without regard to any additional payment under subsection (x) and this subsection, respectively. The amount of the additional payment under this subsection or subsection (y) shall be determined without regard to any additional payment under subsection (y) and this subsection, respectively.
   - **(2)** For purposes of this subsection, the term “qualifying APM participant” means the following:
     - **(A)** With respect to 2019 and 2020, an eligible professional for whom the Secretary determines that at least 25 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
-    - **(B)** With respect to each of 2021 through 2025, an eligible professional described in either of the following clauses:
+    - **(B)** With respect to each of 2021 through 2026, an eligible professional described in either of the following clauses:
       - **(i)** An eligible professional for whom the Secretary determines that at least 50 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
       - **(ii)** An eligible professional—
         - **(I)** for whom the Secretary determines, with respect to items and services furnished by such professional during the most recent period for which data are available (which may be less than a year), that at least 50 percent of the sum of—
@@ -738,7 +738,7 @@ generated_at: "2026-03-30T00:54:16.211Z"
       - **(iii)** For purposes of clause (ii)(I)—
         - **(I)** the requirement described in this subclause, with respect to payments described in item (aa) of such clause, is that such payments are made to an eligible alternative payment entity; and
         - **(II)** the requirement described in this subclause, with respect to payments described in item (bb) of such clause, is that such payments are made under arrangements in which—
-    - **(C)** With respect to 2026 and each subsequent year, an eligible professional described in either of the following clauses:
+    - **(C)** With respect to 2027 and each subsequent year, an eligible professional described in either of the following clauses:
       - **(i)** An eligible professional for whom the Secretary determines that at least 75 percent of payments under this part for covered professional services furnished by such professional during the most recent period for which data are available (which may be less than a year) were attributable to such services furnished under this part through an eligible alternative payment entity.
       - **(ii)** An eligible professional—
         - **(I)** for whom the Secretary determines, with respect to items and services furnished by such professional during the most recent period for which data are available (which may be less than a year), that at least 75 percent of the sum of—
@@ -747,7 +747,7 @@ generated_at: "2026-03-30T00:54:16.211Z"
       - **(iii)** For purposes of clause (ii)(I)—
         - **(I)** the requirement described in this subclause, with respect to payments described in item (aa) of such clause, is that such payments are made to an eligible alternative payment entity; and
         - **(II)** the requirement described in this subclause, with respect to payments described in item (bb) of such clause, is that such payments are made under arrangements in which—
-    - **(D)** The Secretary may base the determination of whether an eligible professional is a qualifying APM participant under this subsection and the determination of whether an eligible professional is a partial qualifying APM participant under section 1395w–4(q)(1)(C)(iii) of this title by using counts of patients in lieu of using payments and using the same or similar percentage criteria (as specified in this subsection and such section, respectively), as the Secretary determines appropriate. With respect to 2023, 2024, and 2025, the Secretary shall use the same percentage criteria for counts of patients that are used in 2022.
+    - **(D)** The Secretary may base the determination of whether an eligible professional is a qualifying APM participant under this subsection and the determination of whether an eligible professional is a partial qualifying APM participant under section 1395w–4(q)(1)(C)(iii) of this title by using counts of patients in lieu of using payments and using the same or similar percentage criteria (as specified in this subsection and such section, respectively), as the Secretary determines appropriate. With respect to 2023, 2024, 2025, and 2026, the Secretary shall use the same percentage criteria for counts of patients that are used in 2022.
   - **(3)** In this subsection:
     - **(A)** The term “covered professional services” has the meaning given that term in section 1395w–4(k)(3)(A) of this title .
     - **(B)** The term “eligible professional” has the meaning given that term in section 1395w–4(k)(3)(B) of this title and includes a group that includes such professionals.
@@ -765,7 +765,7 @@ generated_at: "2026-03-30T00:54:16.211Z"
         - **(II)** is a medical home expanded under section 1315a(c) of this title .
   - **(4)** There shall be no administrative or judicial review under section 1395ff of this title , 1395 oo 19 19 So in original. Probably should be preceded by “section”. of this title, or otherwise, of the following:
     - **(A)** The determination that an eligible professional is a qualifying APM participant under paragraph (2) and the determination that an entity is an eligible alternative payment entity under paragraph (3)(D).
-    - **(B)** The determination of the amount of the 5 percent (or, with respect to 2025, 3.5 percent) payment incentive under paragraph (1)(A), including any estimation as part of such determination.
+    - **(B)** The determination of the amount of the 5 percent (or, with respect to 2025, 3.5 percent, or, with respect to 2026, 1.88 percent) payment incentive under paragraph (1)(A), including any estimation as part of such determination.
 - **(aa)**
   - **(1)** The Secretary shall implement a process for the medical review (as described in paragraph (2)) of treatment by a chiropractor described in section 1395x(r)(5) of this title by means of manual manipulation of the spine to correct a subluxation (as described in such section) of an individual who is enrolled under this part and apply such process to such services furnished on or after January 1, 2017 , focusing on services such as—
     - **(A)** services furnished by a such a 1 chiropractor whose pattern of billing is aberrant compared to peers; and

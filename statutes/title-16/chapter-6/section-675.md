@@ -3,9 +3,9 @@ title: "Section 675 - Norbeck Wildlife Preserve; establishment"
 usc_title: 16
 usc_section: "675"
 chapter: 6
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 675"
-generated_at: "2026-03-30T00:50:47.413Z"
+generated_at: "2026-03-30T00:57:08.646Z"
 ---
 
 # § 675. Norbeck Wildlife Preserve; establishment

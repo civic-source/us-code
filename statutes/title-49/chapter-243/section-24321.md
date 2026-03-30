@@ -3,9 +3,9 @@ title: "Section 24321 - Food and beverage service"
 usc_title: 49
 usc_section: "24321"
 chapter: 243
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 24321"
-generated_at: "2026-03-30T00:54:59.843Z"
+generated_at: "2026-03-30T00:59:54.701Z"
 ---
 
 # § 24321. Food and beverage service

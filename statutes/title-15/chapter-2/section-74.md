@@ -3,9 +3,9 @@ title: "Section 74 - Rules and regulations"
 usc_title: 15
 usc_section: "74"
 chapter: 2
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 74"
-generated_at: "2026-03-30T00:50:37.996Z"
+generated_at: "2026-03-30T00:56:45.651Z"
 ---
 
 # § 74. Rules and regulations

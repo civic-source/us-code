@@ -3,9 +3,9 @@ title: "Section 6417 - Prisoner lists and issue briefs on religious freedom conc
 usc_title: 22
 usc_section: "6417"
 chapter: 73
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 6417"
-generated_at: "2026-03-30T00:51:06.677Z"
+generated_at: "2026-03-30T00:57:39.112Z"
 ---
 
 # § 6417. Prisoner lists and issue briefs on religious freedom concerns

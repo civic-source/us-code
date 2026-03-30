@@ -3,9 +3,9 @@ title: "Section 750 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 33
 usc_section: "750"
 chapter: 16
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "33 U.S.C. § 750"
-generated_at: "2026-03-30T00:52:16.556Z"
+generated_at: "2026-03-30T00:58:29.758Z"
 ---
 
 # § 750. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642

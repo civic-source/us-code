@@ -3,9 +3,9 @@ title: "Section 441 - Administration"
 usc_title: 6
 usc_section: "441"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "6 U.S.C. § 441"
-generated_at: "2026-03-30T00:50:08.603Z"
+generated_at: "2026-03-30T00:55:52.691Z"
 ---
 
 # § 441. Administration

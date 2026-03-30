@@ -3,9 +3,9 @@ title: "Section 5502 - Repealed. Pub. L. 117–58, div. B, title V, § 25021(a) 
 usc_title: 49
 usc_section: "5502"
 chapter: 55
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 5502"
-generated_at: "2026-03-30T00:54:59.818Z"
+generated_at: "2026-03-30T00:59:54.664Z"
 ---
 
 # [§ 5502. Repealed. Pub. L. 117–58, div. B, title V, § 25021(a) , Nov. 15, 2021 , 135 Stat. 878 ]

@@ -3,9 +3,9 @@ title: "Section 431 - Minimum funding standards for multiemployer plans"
 usc_title: 26
 usc_section: "431"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 431"
-generated_at: "2026-03-30T00:51:51.664Z"
+generated_at: "2026-03-30T00:58:24.226Z"
 ---
 
 # § 431. Minimum funding standards for multiemployer plans

@@ -3,9 +3,9 @@ title: "Section 546 - Establishment of Saint Helena Island National Scenic Area,
 usc_title: 16
 usc_section: "546"
 chapter: 2
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 546"
-generated_at: "2026-03-30T00:50:47.398Z"
+generated_at: "2026-03-30T00:57:08.630Z"
 ---
 
 # § 546. Establishment of Saint Helena Island National Scenic Area, Michigan

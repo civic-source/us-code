@@ -3,9 +3,9 @@ title: "Section 2006 - Exemptions"
 usc_title: 29
 usc_section: "2006"
 chapter: 22
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "29 U.S.C. § 2006"
-generated_at: "2026-03-30T00:51:10.863Z"
+generated_at: "2026-03-30T00:57:53.346Z"
 ---
 
 # § 2006. Exemptions

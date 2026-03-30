@@ -3,9 +3,9 @@ title: "Section 3011 - Assessment of surcharge on a debt"
 usc_title: 28
 usc_section: "3011"
 chapter: 176
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "28 U.S.C. § 3011"
-generated_at: "2026-03-30T00:51:17.716Z"
+generated_at: "2026-03-30T00:57:57.974Z"
 ---
 
 # § 3011. Assessment of surcharge on a debt

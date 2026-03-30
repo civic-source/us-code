@@ -3,9 +3,9 @@ title: "Section 1963 - Registration of judgments for enforcement in other distri
 usc_title: 28
 usc_section: "1963"
 chapter: 125
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "28 U.S.C. § 1963"
-generated_at: "2026-03-30T00:51:17.707Z"
+generated_at: "2026-03-30T00:57:57.966Z"
 ---
 
 # § 1963. Registration of judgments for enforcement in other districts

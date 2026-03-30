@@ -3,9 +3,9 @@ title: "Section 4071g - Cost-of-living adjustments"
 usc_title: 22
 usc_section: "4071g"
 chapter: 52
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 4071g"
-generated_at: "2026-03-30T00:51:06.655Z"
+generated_at: "2026-03-30T00:57:39.079Z"
 ---
 
 # § 4071g. Cost-of-living adjustments

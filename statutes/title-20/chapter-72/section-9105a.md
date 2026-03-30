@@ -3,9 +3,9 @@ title: "Section 9105a - National Museum and Library Services Board"
 usc_title: 20
 usc_section: "9105a"
 chapter: 72
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 9105a"
-generated_at: "2026-03-30T00:50:54.123Z"
+generated_at: "2026-03-30T00:57:26.480Z"
 ---
 
 # § 9105a. National Museum and Library Services Board

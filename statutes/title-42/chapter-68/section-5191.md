@@ -3,9 +3,9 @@ title: "Section 5191 - Procedure for declaration"
 usc_title: 42
 usc_section: "5191"
 chapter: 68
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 5191"
-generated_at: "2026-03-30T00:54:16.487Z"
+generated_at: "2026-03-30T00:59:31.302Z"
 ---
 
 # § 5191. Procedure for declaration

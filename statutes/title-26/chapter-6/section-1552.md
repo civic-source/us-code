@@ -3,9 +3,9 @@ title: "Section 1552 - Earnings and profits"
 usc_title: 26
 usc_section: "1552"
 chapter: 6
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 1552"
-generated_at: "2026-03-30T00:51:51.739Z"
+generated_at: "2026-03-30T00:58:24.334Z"
 ---
 
 # § 1552. Earnings and profits

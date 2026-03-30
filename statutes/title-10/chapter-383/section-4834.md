@@ -3,9 +3,9 @@ title: "Section 4834 - Overseas foreign critical technology monitoring and asses
 usc_title: 10
 usc_section: "4834"
 chapter: 383
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 4834"
-generated_at: "2026-03-30T00:50:18.380Z"
+generated_at: "2026-03-30T00:56:33.224Z"
 ---
 
 # § 4834. Overseas foreign critical technology monitoring and assessment financial assistance program

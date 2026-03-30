@@ -3,9 +3,9 @@ title: "Section 3703 - Rights and obligations of Foundation"
 usc_title: 16
 usc_section: "3703"
 chapter: 57
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 3703"
-generated_at: "2026-03-30T00:50:47.507Z"
+generated_at: "2026-03-30T00:57:08.751Z"
 ---
 
 # § 3703. Rights and obligations of Foundation
@@ -27,7 +27,7 @@ generated_at: "2026-03-30T00:50:47.507Z"
     - **(G)** unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
     - **(H)** to borrow money and issue bonds, debentures, or other debt instruments;
     - **(I)** to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
-    - **(J)** to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+    - **(J)** to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and 1 1 So in original. The word “and” probably should not appear.
     - **(K)** to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, subject to the condition that the amounts are received or administered for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources; and
     - **(L)** to do acts necessary to carry out the purposes of the Foundation.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 7268 - Leasing report"
 usc_title: 42
 usc_section: "7268"
 chapter: 84
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 7268"
-generated_at: "2026-03-30T00:54:16.547Z"
+generated_at: "2026-03-30T00:59:31.380Z"
 ---
 
 # § 7268. Leasing report

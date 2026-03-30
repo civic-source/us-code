@@ -3,9 +3,9 @@ title: "Section 32916 - Reports to Congress"
 usc_title: 49
 usc_section: "32916"
 chapter: 329
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 32916"
-generated_at: "2026-03-30T00:54:59.860Z"
+generated_at: "2026-03-30T00:59:54.728Z"
 ---
 
 # § 32916. Reports to Congress

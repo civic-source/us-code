@@ -3,9 +3,9 @@ title: "Section 48103 - Airport planning and development and noise compatibility
 usc_title: 49
 usc_section: "48103"
 chapter: 481
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 48103"
-generated_at: "2026-03-30T00:54:59.892Z"
+generated_at: "2026-03-30T00:59:54.782Z"
 ---
 
 # § 48103. Airport planning and development and noise compatibility planning and programs
@@ -17,5 +17,5 @@ generated_at: "2026-03-30T00:54:59.892Z"
   - **(4)** $3,350,000,000 for fiscal year 2021;
   - **(5)** $3,350,000,000 for fiscal year 2022;
   - **(6)** $3,350,000,000 for fiscal year 2023; and
-  - **(7)** $1,464,480,874 for the period beginning October 1, 2023 , and ending on March 8, 2024 .
+  - **(7)** $2,041,120,218 for the period beginning October 1, 2023 , and ending on May 10, 2024 .
 - **(b)** Amounts made available under subsection (a) shall remain available until expended.

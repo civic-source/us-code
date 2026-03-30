@@ -3,9 +3,9 @@ title: "Section 1093a - Articulation agreements"
 usc_title: 20
 usc_section: "1093a"
 chapter: 28
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 1093a"
-generated_at: "2026-03-30T00:50:54.040Z"
+generated_at: "2026-03-30T00:57:26.358Z"
 ---
 
 # § 1093a. Articulation agreements

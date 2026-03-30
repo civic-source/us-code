@@ -3,9 +3,9 @@ title: "Section 7422 - Degree granting authority for United States Army Armament
 usc_title: 10
 usc_section: "7422"
 chapter: 751
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 7422"
-generated_at: "2026-03-30T00:50:18.387Z"
+generated_at: "2026-03-30T00:56:33.231Z"
 ---
 
 # § 7422. Degree granting authority for United States Army Armament Graduate School

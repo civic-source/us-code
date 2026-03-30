@@ -3,9 +3,9 @@ title: "Section 1822 - Competency of interested persons; share of penalties paya
 usc_title: 28
 usc_section: "1822"
 chapter: 119
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "28 U.S.C. § 1822"
-generated_at: "2026-03-30T00:51:17.705Z"
+generated_at: "2026-03-30T00:57:57.963Z"
 ---
 
 # § 1822. Competency of interested persons; share of penalties payable

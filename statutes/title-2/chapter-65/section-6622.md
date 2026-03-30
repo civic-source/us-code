@@ -3,9 +3,9 @@ title: "Section 6622 - Certification of telecommunications equipment and service
 usc_title: 2
 usc_section: "6622"
 chapter: 65
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 6622"
-generated_at: "2026-03-30T00:49:45.917Z"
+generated_at: "2026-03-30T00:55:41.001Z"
 ---
 
 # § 6622. Certification of telecommunications equipment and services as official

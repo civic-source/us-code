@@ -3,9 +3,9 @@ title: "Section 1395uu - Payments to promote closing or conversion of underutili
 usc_title: 42
 usc_section: "1395uu"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1395uu"
-generated_at: "2026-03-30T00:54:16.279Z"
+generated_at: "2026-03-30T00:59:31.031Z"
 ---
 
 # § 1395uu. Payments to promote closing or conversion of underutilized hospital facilities

@@ -3,9 +3,9 @@ title: "Section 4852 - Grants for lead-based paint hazard reduction in target ho
 usc_title: 42
 usc_section: "4852"
 chapter: 63
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 4852"
-generated_at: "2026-03-30T00:54:16.472Z"
+generated_at: "2026-03-30T00:59:31.281Z"
 ---
 
 # § 4852. Grants for lead-based paint hazard reduction in target housing

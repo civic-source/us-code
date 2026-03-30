@@ -3,9 +3,9 @@ title: "Section 2701 - Control of noxious plants on Federal lands; State program
 usc_title: 43
 usc_section: "2701"
 chapter: 45
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "43 U.S.C. § 2701"
-generated_at: "2026-03-30T00:52:57.057Z"
+generated_at: "2026-03-30T00:58:53.137Z"
 ---
 
 # § 2701. Control of noxious plants on Federal lands; State programs; terms of entry

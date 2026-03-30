@@ -3,9 +3,9 @@ title: "Section 865 - Art. 65. Transmittal and review of records"
 usc_title: 10
 usc_section: "865"
 chapter: 47
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 865"
-generated_at: "2026-03-30T00:50:18.276Z"
+generated_at: "2026-03-30T00:56:33.128Z"
 ---
 
 # § 865. Art. 65. Transmittal and review of records
@@ -44,4 +44,6 @@ generated_at: "2026-03-30T00:50:18.276Z"
   - **(2)** In setting aside findings or sentence, the Judge Advocate General may order a rehearing, except that a rehearing may not be ordered in violation of section 844 of this title (article 44).
   - **(3)**
     - **(A)** If the Judge Advocate General sets aside findings and sentence and does not order a rehearing, the Judge Advocate General shall dismiss the charges.
-    - **(B)** If the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
+    - **(B)**
+      - **(i)** Subject to clause (ii), if the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
+      - **(ii)** If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.

@@ -3,9 +3,9 @@ title: "Section 2808 - Effective date"
 usc_title: 12
 usc_section: "2808"
 chapter: 29
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 2808"
-generated_at: "2026-03-30T00:50:34.944Z"
+generated_at: "2026-03-30T00:56:40.368Z"
 ---
 
 # § 2808. Effective date

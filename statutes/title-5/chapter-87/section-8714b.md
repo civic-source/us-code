@@ -3,9 +3,9 @@ title: "Section 8714b - Additional optional life insurance"
 usc_title: 5
 usc_section: "8714b"
 chapter: 87
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "5 U.S.C. § 8714b"
-generated_at: "2026-03-30T00:50:05.900Z"
+generated_at: "2026-03-30T00:55:37.205Z"
 ---
 
 # § 8714b. Additional optional life insurance

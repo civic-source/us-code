@@ -3,9 +3,9 @@ title: "Section 3232a - Measures to mitigate counterintelligence threats from pr
 usc_title: 50
 usc_section: "3232a"
 chapter: 44
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3232a"
-generated_at: "2026-03-30T00:54:36.269Z"
+generated_at: "2026-03-30T01:00:05.145Z"
 ---
 
 # § 3232a. Measures to mitigate counterintelligence threats from proliferation and use of foreign commercial spyware
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T00:54:36.269Z"
     - **(A)** The Director of National Intelligence may prohibit any element of the intelligence community from procuring, leasing, or otherwise acquiring on the commercial market, or extending or renewing a contract to procure, lease, or otherwise acquire, foreign commercial spyware.
     - **(B)** In determining whether and how to exercise the authority under subparagraph (A), the Director of National Intelligence shall consider—
       - **(i)** the assessment of the intelligence community of the counterintelligence threats or other risks to the United States posed by foreign commercial spyware;
-      - **(ii)** the assessment of the intelligence community of whether the foreign commercial spyware has been used to target United States Government personnel.
+      - **(ii)** the assessment of the intelligence community of whether the foreign commercial spyware has been used to target United States Government personnel. 1 1 So in original. The period probably should be a semicolon.
       - **(iii)** whether the original owner or developer retains any of the physical property or intellectual property associated with the foreign commercial spyware;
       - **(iv)** whether the original owner or developer has verifiably destroyed all copies of the data collected by or associated with the foreign commercial spyware;
       - **(v)** whether the personnel of the original owner or developer retain any access to data collected by or associated with the foreign commercial spyware;

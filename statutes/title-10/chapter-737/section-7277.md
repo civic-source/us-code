@@ -3,9 +3,9 @@ title: "Section 7277 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7277"
 chapter: 737
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 7277"
-generated_at: "2026-03-30T00:50:18.386Z"
+generated_at: "2026-03-30T00:56:33.229Z"
 ---
 
 # § 7277. Medal of honor; distinguished-service cross; distinguished-service medal; silver star: replacement

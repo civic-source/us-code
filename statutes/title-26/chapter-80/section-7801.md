@@ -3,9 +3,9 @@ title: "Section 7801 - Authority of Department of the Treasury"
 usc_title: 26
 usc_section: "7801"
 chapter: 80
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 7801"
-generated_at: "2026-03-30T00:51:51.839Z"
+generated_at: "2026-03-30T00:58:24.476Z"
 ---
 
 # § 7801. Authority of Department of the Treasury

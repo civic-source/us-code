@@ -3,9 +3,9 @@ title: "Section 2719b - Training and professional development prioritization"
 usc_title: 22
 usc_section: "2719b"
 chapter: 38
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 2719b"
-generated_at: "2026-03-30T00:51:06.627Z"
+generated_at: "2026-03-30T00:57:39.041Z"
 ---
 
 # § 2719b. Training and professional development prioritization

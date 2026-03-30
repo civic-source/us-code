@@ -1,14 +1,14 @@
 ---
-title: "Section 9803 - Responsibilities of the Assistant Secretary of Commerce for travel and tourism"
+title: "Section 9803 - Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism"
 usc_title: 15
 usc_section: "9803"
 chapter: 122
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 9803"
-generated_at: "2026-03-30T00:50:38.227Z"
+generated_at: "2026-03-30T00:56:45.888Z"
 ---
 
-# § 9803. Responsibilities of the Assistant Secretary of Commerce for travel and tourism
+# § 9803. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism
 
 - **(a)** The Assistant Secretary of Commerce for Travel and Tourism (referred to in this section as the “Assistant Secretary”) shall—
   - **(1)** after consultation with the travel and tourism industry, work with the Travel Promotion Committee and the United States Travel and Tourism Advisory Board to establish an annual goal, consistent with the goals of the travel and tourism strategy developed pursuant to section 9804(1) of this title , for—

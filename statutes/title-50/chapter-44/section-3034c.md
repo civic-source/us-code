@@ -3,9 +3,9 @@ title: "Section 3034c - Intelligence Community Innovation Unit"
 usc_title: 50
 usc_section: "3034c"
 chapter: 44
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3034c"
-generated_at: "2026-03-30T00:54:36.260Z"
+generated_at: "2026-03-30T01:00:05.134Z"
 ---
 
 # § 3034c. Intelligence Community Innovation Unit
@@ -34,7 +34,7 @@ generated_at: "2026-03-30T00:54:36.260Z"
     - **(A)** significant relevant experience involving commercial emerging technology within the private sector; and
     - **(B)** a demonstrated history of fostering the adoption of commercial emerging technologies by the United States Government or the private sector.
 - **(f)**
-  - **(1)** In addition to the Director of the Intelligence Community Innovation Unit, the Unit shall be composed of not more than 50 full- time equivalent positions.
+  - **(1)** In addition to the Director of the Intelligence Community Innovation Unit, the Unit shall be composed of not more than 50 full-time equivalent positions.
   - **(2)** The Director of National Intelligence shall ensure that there is a sufficient number of staff of the Unit, as determined by the Director, with expertise in—
     - **(A)** other transaction authorities and nontraditional and rapid acquisition pathways for emerging technology;
     - **(B)** engaging and evaluating small- and medium-sized emerging technology companies;

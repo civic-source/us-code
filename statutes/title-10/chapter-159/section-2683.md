@@ -3,9 +3,9 @@ title: "Section 2683 - Relinquishment of legislative jurisdiction; minimum drink
 usc_title: 10
 usc_section: "2683"
 chapter: 159
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 2683"
-generated_at: "2026-03-30T00:50:18.341Z"
+generated_at: "2026-03-30T00:56:33.193Z"
 ---
 
 # § 2683. Relinquishment of legislative jurisdiction; minimum drinking age on military installations

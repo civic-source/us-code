@@ -3,9 +3,9 @@ title: "Section 4555 - Withholding of State income tax by Chief Administrative O
 usc_title: 2
 usc_section: "4555"
 chapter: 45
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 4555"
-generated_at: "2026-03-30T00:49:45.907Z"
+generated_at: "2026-03-30T00:55:40.991Z"
 ---
 
 # § 4555. Withholding of State income tax by Chief Administrative Officer of House

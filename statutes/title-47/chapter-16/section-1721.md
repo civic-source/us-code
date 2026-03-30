@@ -3,9 +3,9 @@ title: "Section 1721 - Definitions"
 usc_title: 47
 usc_section: "1721"
 chapter: 16
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "47 U.S.C. § 1721"
-generated_at: "2026-03-30T00:54:42.445Z"
+generated_at: "2026-03-30T01:00:05.973Z"
 ---
 
 # § 1721. Definitions

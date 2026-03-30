@@ -3,9 +3,9 @@ title: "Section 2301 - Sense of Congress"
 usc_title: 21
 usc_section: "2301"
 chapter: 28
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "21 U.S.C. § 2301"
-generated_at: "2026-03-30T00:51:00.156Z"
+generated_at: "2026-03-30T00:57:32.052Z"
 ---
 
 # § 2301. Sense of Congress

@@ -3,9 +3,9 @@ title: "Section 590 - Child care"
 usc_title: 40
 usc_section: "590"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "40 U.S.C. § 590"
-generated_at: "2026-03-30T00:52:37.432Z"
+generated_at: "2026-03-30T00:58:35.396Z"
 ---
 
 # § 590. Child care
@@ -43,3 +43,6 @@ generated_at: "2026-03-30T00:52:37.432Z"
   - **(6)** This subsection shall apply with respect to the House of Representatives in the same manner as it applies to an Executive agency, except that—
     - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the House of Representatives by the Speaker of the House of Representatives in accordance with regulations promulgated by the Committee on House Administration; and
     - **(B)** amounts may be made available to implement this subsection with respect to the House of Representatives without advance notice to the Committee on Appropriations of the Senate.
+  - **(7)** This subsection shall apply with respect to the Senate in the same manner as it applies to an Executive agency, except that—
+    - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the Senate, by the Majority and Minority Leaders of the Senate, in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate; and
+    - **(B)** amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.

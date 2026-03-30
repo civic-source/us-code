@@ -3,9 +3,9 @@ title: "Section 7479 - Declaratory judgments relating to eligibility of estate w
 usc_title: 26
 usc_section: "7479"
 chapter: 76
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 7479"
-generated_at: "2026-03-30T00:51:51.830Z"
+generated_at: "2026-03-30T00:58:24.463Z"
 ---
 
 # § 7479. Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166

@@ -3,9 +3,9 @@ title: "Section 24202 - Railroad rights-of-way"
 usc_title: 49
 usc_section: "24202"
 chapter: 242
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 24202"
-generated_at: "2026-03-30T00:54:59.841Z"
+generated_at: "2026-03-30T00:59:54.697Z"
 ---
 
 # § 24202. Railroad rights-of-way

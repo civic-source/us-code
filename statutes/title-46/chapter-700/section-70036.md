@@ -3,9 +3,9 @@ title: "Section 70036 - Enforcement"
 usc_title: 46
 usc_section: "70036"
 chapter: 700
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "46 U.S.C. § 70036"
-generated_at: "2026-03-30T00:54:22.112Z"
+generated_at: "2026-03-30T00:59:41.540Z"
 ---
 
 # § 70036. Enforcement

@@ -3,9 +3,9 @@ title: "Section 5111 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "5111"
 chapter: 67
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 5111"
-generated_at: "2026-03-30T00:54:16.480Z"
+generated_at: "2026-03-30T00:59:31.291Z"
 ---
 
 # § 5111. Congressional findings and declaration of purpose

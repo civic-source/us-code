@@ -3,9 +3,9 @@ title: "Section 1 - Requisition and use of grain for prevention of starvation of
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:50:47.409Z"
+generated_at: "2026-03-30T00:57:08.642Z"
 ---
 
 # § 667g–1. Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting

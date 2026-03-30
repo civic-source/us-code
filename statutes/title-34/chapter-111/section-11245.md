@@ -3,9 +3,9 @@ title: "Section 11245 - Periodic estimate of incidence and prevalence of youth h
 usc_title: 34
 usc_section: "11245"
 chapter: 111
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "34 U.S.C. § 11245"
-generated_at: "2026-03-30T00:52:15.451Z"
+generated_at: "2026-03-30T00:58:28.255Z"
 ---
 
 # § 11245. Periodic estimate of incidence and prevalence of youth homelessness

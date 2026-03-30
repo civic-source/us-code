@@ -3,9 +3,9 @@ title: "Section 6592 - Wildfire risk reduction"
 usc_title: 16
 usc_section: "6592"
 chapter: 84
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 6592"
-generated_at: "2026-03-30T00:50:47.536Z"
+generated_at: "2026-03-30T00:57:08.783Z"
 ---
 
 # § 6592. Wildfire risk reduction
@@ -149,7 +149,7 @@ generated_at: "2026-03-30T00:50:47.536Z"
       - **(i)** to leverage public-private partnerships and resources, shared stewardship agreements, good neighbor agreements, and similar contracting authorities;
       - **(ii)** to prioritize projects for which any applicable processes under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) have been completed as of November 15, 2021 ;
       - **(iii)** to streamline subsequent projects based on existing statutory or regulatory authorities; and
-      - **(iv)** to develop interagency teams to increase coordination and efficiency under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 ) [ 42 U.S.C. 4321 ]; and
+      - **(iv)** to develop interagency teams to increase coordination and efficiency under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 ) [ 42 U.S.C. 4321 et seq.]; and
     - **(D)** establishes a process for coordinating prioritization and treatment with State and local entities and affected stakeholders.
   - **(2)** Not later than 5 years after November 15, 2021 , the Secretary of Agriculture and the Secretary of the Interior, in coordination with State and local governments, shall publish a long-term, outcome-based monitoring, maintenance, and treatment strategy—
     - **(A)** to maintain forest health improvements and wildfire risk reduction accomplished under this section;

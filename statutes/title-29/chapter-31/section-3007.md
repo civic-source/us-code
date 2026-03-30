@@ -3,9 +3,9 @@ title: "Section 3007 - Administrative provisions"
 usc_title: 29
 usc_section: "3007"
 chapter: 31
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "29 U.S.C. § 3007"
-generated_at: "2026-03-30T00:51:10.869Z"
+generated_at: "2026-03-30T00:57:53.352Z"
 ---
 
 # § 3007. Administrative provisions

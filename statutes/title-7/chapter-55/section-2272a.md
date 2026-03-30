@@ -3,9 +3,9 @@ title: "Section 2272a - Funds for incidental expenses and promotional items rela
 usc_title: 7
 usc_section: "2272a"
 chapter: 55
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "7 U.S.C. § 2272a"
-generated_at: "2026-03-30T00:50:27.671Z"
+generated_at: "2026-03-30T00:56:14.477Z"
 ---
 
 # § 2272a. Funds for incidental expenses and promotional items relating to volunteers

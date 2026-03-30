@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-30T00:51:51.576Z"
+generated_at: "2026-03-30T00:58:24.091Z"
 ---
 
 # § 38. General business credit
@@ -46,13 +46,14 @@ generated_at: "2026-03-30T00:51:51.576Z"
   - **(29)** the carbon dioxide sequestration credit determined under section 45Q(a),
   - **(30)** the portion of the new clean vehicle credit to which section 30D(c)(1) applies,
   - **(31)** the small employer health insurance credit determined under section 45R,
-  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
-  - **(33)** in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
-  - **(35)** 1 1 See Amendment of Subsection (b) note below. the sustainable aviation fuel credit determined under section 40B,
+  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a),
+  - **(33)** in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a), plus
+  - **(34)** the zero-emission nuclear power production credit determined under section 45U(a).
+  - **(35)** the sustainable aviation fuel credit determined under section 40B,
   - **(36)** the clean hydrogen production credit determined under section 45V(a),
   - **(37)** the qualified commercial clean vehicle credit determined under section 45W, plus
   - **(38)** the advanced manufacturing production credit determined under section 45X(a).
-  - **(41)** 1 in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
+  - **(41)** 1 1 See Amendment of Subsection (b) note below. in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 - **(c)**
   - **(1)** The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer’s net income tax over the greater of—
     - **(A)** the tentative minimum tax for the taxable year, or

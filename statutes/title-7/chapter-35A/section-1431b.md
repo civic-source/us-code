@@ -3,9 +3,9 @@ title: "Section 1431b - Distribution of surplus commodities to other United Stat
 usc_title: 7
 usc_section: "1431b"
 chapter: 35
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "7 U.S.C. § 1431b"
-generated_at: "2026-03-30T00:50:27.612Z"
+generated_at: "2026-03-30T00:56:14.418Z"
 ---
 
 # § 1431b. Distribution of surplus commodities to other United States areas

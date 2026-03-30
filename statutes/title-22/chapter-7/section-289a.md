@@ -3,9 +3,9 @@ title: "Section 289a - Designation of representative and alternates; compensatio
 usc_title: 22
 usc_section: "289a"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 289a"
-generated_at: "2026-03-30T00:51:06.566Z"
+generated_at: "2026-03-30T00:57:38.963Z"
 ---
 
 # § 289a. Designation of representative and alternates; compensation

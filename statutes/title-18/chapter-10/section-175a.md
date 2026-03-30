@@ -3,9 +3,9 @@ title: "Section 175a - Requests for military assistance to enforce prohibition i
 usc_title: 18
 usc_section: "175a"
 chapter: 10
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "18 U.S.C. § 175a"
-generated_at: "2026-03-30T00:50:48.554Z"
+generated_at: "2026-03-30T00:56:53.014Z"
 ---
 
 # § 175a. Requests for military assistance to enforce prohibition in certain emergencies

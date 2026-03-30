@@ -3,9 +3,9 @@ title: "Section 222a - Unfunded priorities of the armed forces and combatant com
 usc_title: 10
 usc_section: "222a"
 chapter: 9
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 222a"
-generated_at: "2026-03-30T00:50:18.250Z"
+generated_at: "2026-03-30T00:56:33.099Z"
 ---
 
 # § 222a. Unfunded priorities of the armed forces and combatant commands: annual report

@@ -3,9 +3,9 @@ title: "Section 352 - Limitation on amount of obligations of certain maturities 
 usc_title: 12
 usc_section: "352"
 chapter: 3
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 352"
-generated_at: "2026-03-30T00:50:34.836Z"
+generated_at: "2026-03-30T00:56:40.263Z"
 ---
 
 # § 352. Limitation on amount of obligations of certain maturities which may be discounted and rediscounted

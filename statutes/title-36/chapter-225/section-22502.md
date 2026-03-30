@@ -3,9 +3,9 @@ title: "Section 22502 - Purposes"
 usc_title: 36
 usc_section: "22502"
 chapter: 225
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "36 U.S.C. § 22502"
-generated_at: "2026-03-30T00:52:43.080Z"
+generated_at: "2026-03-30T00:58:46.693Z"
 ---
 
 # § 22502. Purposes

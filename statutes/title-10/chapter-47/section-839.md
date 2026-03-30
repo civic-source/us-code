@@ -3,9 +3,9 @@ title: "Section 839 - Art. 39. Sessions"
 usc_title: 10
 usc_section: "839"
 chapter: 47
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 839"
-generated_at: "2026-03-30T00:50:18.274Z"
+generated_at: "2026-03-30T00:56:33.125Z"
 ---
 
 # § 839. Art. 39. Sessions

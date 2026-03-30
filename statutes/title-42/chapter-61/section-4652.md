@@ -3,9 +3,9 @@ title: "Section 4652 - Buildings, structures, and improvements"
 usc_title: 42
 usc_section: "4652"
 chapter: 61
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 4652"
-generated_at: "2026-03-30T00:54:16.468Z"
+generated_at: "2026-03-30T00:59:31.278Z"
 ---
 
 # § 4652. Buildings, structures, and improvements

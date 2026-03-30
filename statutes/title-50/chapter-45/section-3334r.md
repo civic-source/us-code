@@ -1,14 +1,14 @@
 ---
-title: "Section 3334r - Designation of a Chief Technology Officer within certain elements of the intelligence community"
+title: "Section 3334r - Designation of a chief technology officer within certain elements of the intelligence community"
 usc_title: 50
 usc_section: "3334r"
 chapter: 45
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3334r"
-generated_at: "2026-03-30T00:54:36.273Z"
+generated_at: "2026-03-30T01:00:05.152Z"
 ---
 
-# § 3334r. Designation of a Chief Technology Officer within certain elements of the intelligence community
+# § 3334r. Designation of a chief technology officer within certain elements of the intelligence community
 
 - **(a)** The head of each covered element of the intelligence community shall designate a senior official to serve as the chief technology officer of such element.
 - **(b)** For purposes of this section, the covered elements of the intelligence community are the following:

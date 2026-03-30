@@ -3,9 +3,9 @@ title: "Section 6727 - Nondiscrimination"
 usc_title: 42
 usc_section: "6727"
 chapter: 80
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 6727"
-generated_at: "2026-03-30T00:54:16.526Z"
+generated_at: "2026-03-30T00:59:31.352Z"
 ---
 
 # § 6727. Nondiscrimination

@@ -3,9 +3,9 @@ title: "Section 1322 - Certifications with respect to social security entitlemen
 usc_title: 38
 usc_section: "1322"
 chapter: 13
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "38 U.S.C. § 1322"
-generated_at: "2026-03-30T00:52:53.549Z"
+generated_at: "2026-03-30T00:58:40.836Z"
 ---
 
 # § 1322. Certifications with respect to social security entitlement

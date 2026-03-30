@@ -3,9 +3,9 @@ title: "Section 12 - Deposit of net realized gain of Commodity Credit Corporatio
 usc_title: 15
 usc_section: "12"
 chapter: 15
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 12"
-generated_at: "2026-03-30T00:50:38.087Z"
+generated_at: "2026-03-30T00:56:45.743Z"
 ---
 
 # § 713a–12. Deposit of net realized gain of Commodity Credit Corporation in Treasury

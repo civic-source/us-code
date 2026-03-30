@@ -3,9 +3,9 @@ title: "Section 1 - Enforcement action plan for advertising and promotion restri
 usc_title: 21
 usc_section: "1"
 chapter: 9
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "21 U.S.C. § 1"
-generated_at: "2026-03-30T00:51:00.123Z"
+generated_at: "2026-03-30T00:57:32.008Z"
 ---
 
 # § 387f–1. Enforcement action plan for advertising and promotion restrictions

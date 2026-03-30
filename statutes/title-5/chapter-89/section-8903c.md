@@ -3,9 +3,9 @@ title: "Section 8903c - Postal Service Health Benefits Program"
 usc_title: 5
 usc_section: "8903c"
 chapter: 89
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "5 U.S.C. § 8903c"
-generated_at: "2026-03-30T00:50:05.901Z"
+generated_at: "2026-03-30T00:55:37.207Z"
 ---
 
 # § 8903c. Postal Service Health Benefits Program

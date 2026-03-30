@@ -3,9 +3,9 @@ title: "Section 988 - Treatment of certain foreign currency transactions"
 usc_title: 26
 usc_section: "988"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 988"
-generated_at: "2026-03-30T00:51:51.717Z"
+generated_at: "2026-03-30T00:58:24.300Z"
 ---
 
 # § 988. Treatment of certain foreign currency transactions

@@ -3,9 +3,9 @@ title: "Section 3803 - Hearing and determinations"
 usc_title: 31
 usc_section: "3803"
 chapter: 38
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "31 U.S.C. § 3803"
-generated_at: "2026-03-30T00:52:25.392Z"
+generated_at: "2026-03-30T00:58:30.900Z"
 ---
 
 # § 3803. Hearing and determinations

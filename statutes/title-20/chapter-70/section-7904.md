@@ -3,9 +3,9 @@ title: "Section 7904 - School prayer"
 usc_title: 20
 usc_section: "7904"
 chapter: 70
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 7904"
-generated_at: "2026-03-30T00:50:54.121Z"
+generated_at: "2026-03-30T00:57:26.475Z"
 ---
 
 # § 7904. School prayer

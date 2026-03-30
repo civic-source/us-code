@@ -3,9 +3,9 @@ title: "Section 356 - Continuation pay: full TSP members with 7 to 12 years of s
 usc_title: 37
 usc_section: "356"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "37 U.S.C. § 356"
-generated_at: "2026-03-30T00:52:37.864Z"
+generated_at: "2026-03-30T00:58:37.528Z"
 ---
 
 # § 356. Continuation pay: full TSP members with 7 to 12 years of service

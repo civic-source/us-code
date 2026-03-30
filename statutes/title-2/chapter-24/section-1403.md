@@ -3,9 +3,9 @@ title: "Section 1403 - Mediation"
 usc_title: 2
 usc_section: "1403"
 chapter: 24
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 1403"
-generated_at: "2026-03-30T00:49:45.890Z"
+generated_at: "2026-03-30T00:55:40.972Z"
 ---
 
 # § 1403. Mediation

@@ -3,9 +3,9 @@ title: "Section 1642j - Time for filing of claims; notice"
 usc_title: 22
 usc_section: "1642j"
 chapter: 21
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 1642j"
-generated_at: "2026-03-30T00:51:06.579Z"
+generated_at: "2026-03-30T00:57:38.982Z"
 ---
 
 # § 1642j. Time for filing of claims; notice

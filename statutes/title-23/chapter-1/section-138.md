@@ -3,9 +3,9 @@ title: "Section 138 - Preservation of parklands"
 usc_title: 23
 usc_section: "138"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "23 U.S.C. § 138"
-generated_at: "2026-03-30T00:51:03.494Z"
+generated_at: "2026-03-30T00:57:46.321Z"
 ---
 
 # § 138. Preservation of parklands

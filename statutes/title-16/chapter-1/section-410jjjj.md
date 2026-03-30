@@ -3,9 +3,9 @@ title: "Section 410jjjj - Designation of Pullman National Historical Park"
 usc_title: 16
 usc_section: "410jjjj"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 410jjjj"
-generated_at: "2026-03-30T00:50:47.334Z"
+generated_at: "2026-03-30T00:57:08.568Z"
 ---
 
 # § 410jjjj. Designation of Pullman National Historical Park

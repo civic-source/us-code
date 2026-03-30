@@ -3,9 +3,9 @@ title: "Section 5145 - Lump-sum allowances for House Majority Floor Leader, Mino
 usc_title: 2
 usc_section: "5145"
 chapter: 51
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 5145"
-generated_at: "2026-03-30T00:49:45.910Z"
+generated_at: "2026-03-30T00:55:40.994Z"
 ---
 
 # § 5145. Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip

@@ -3,9 +3,9 @@ title: "Section 6342 - Application of proceeds of levy"
 usc_title: 26
 usc_section: "6342"
 chapter: 64
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 6342"
-generated_at: "2026-03-30T00:51:51.807Z"
+generated_at: "2026-03-30T00:58:24.432Z"
 ---
 
 # § 6342. Application of proceeds of levy

@@ -3,9 +3,9 @@ title: "Section 1121 - Paper and envelopes for Government agencies in the Distri
 usc_title: 44
 usc_section: "1121"
 chapter: 11
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "44 U.S.C. § 1121"
-generated_at: "2026-03-30T00:52:59.263Z"
+generated_at: "2026-03-30T00:58:57.585Z"
 ---
 
 # § 1121. Paper and envelopes for Government agencies in the District of Columbia

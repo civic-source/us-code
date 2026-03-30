@@ -3,9 +3,9 @@ title: "Section 464 - Civil action for enforcement"
 usc_title: 29
 usc_section: "464"
 chapter: 11
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "29 U.S.C. § 464"
-generated_at: "2026-03-30T00:51:10.793Z"
+generated_at: "2026-03-30T00:57:53.269Z"
 ---
 
 # § 464. Civil action for enforcement

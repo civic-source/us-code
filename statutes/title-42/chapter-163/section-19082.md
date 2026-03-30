@@ -3,9 +3,9 @@ title: "Section 19082 - Reviews"
 usc_title: 42
 usc_section: "19082"
 chapter: 163
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 19082"
-generated_at: "2026-03-30T00:54:16.797Z"
+generated_at: "2026-03-30T00:59:31.706Z"
 ---
 
 # § 19082. Reviews

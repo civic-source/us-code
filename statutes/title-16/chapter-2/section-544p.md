@@ -3,9 +3,9 @@ title: "Section 544p - Severability"
 usc_title: 16
 usc_section: "544p"
 chapter: 2
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 544p"
-generated_at: "2026-03-30T00:50:47.397Z"
+generated_at: "2026-03-30T00:57:08.629Z"
 ---
 
 # § 544p. Severability

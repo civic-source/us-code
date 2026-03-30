@@ -3,9 +3,9 @@ title: "Section 605 - Administrative provisions"
 usc_title: 42
 usc_section: "605"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 605"
-generated_at: "2026-03-30T00:54:16.144Z"
+generated_at: "2026-03-30T00:59:30.859Z"
 ---
 
 # § 605. Administrative provisions

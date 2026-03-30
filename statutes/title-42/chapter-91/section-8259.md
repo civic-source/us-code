@@ -3,9 +3,9 @@ title: "Section 8259 - Definitions"
 usc_title: 42
 usc_section: "8259"
 chapter: 91
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 8259"
-generated_at: "2026-03-30T00:54:16.599Z"
+generated_at: "2026-03-30T00:59:31.447Z"
 ---
 
 # § 8259. Definitions

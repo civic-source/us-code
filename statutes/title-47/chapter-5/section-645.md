@@ -3,9 +3,9 @@ title: "Section 645 - Cost"
 usc_title: 47
 usc_section: "645"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "47 U.S.C. § 645"
-generated_at: "2026-03-30T00:54:42.415Z"
+generated_at: "2026-03-30T01:00:05.952Z"
 ---
 
 # § 645. Cost

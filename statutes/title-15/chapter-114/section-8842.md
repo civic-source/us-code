@@ -3,9 +3,9 @@ title: "Section 8842 - Multidisciplinary centers for quantum research and educat
 usc_title: 15
 usc_section: "8842"
 chapter: 114
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 8842"
-generated_at: "2026-03-30T00:50:38.210Z"
+generated_at: "2026-03-30T00:56:45.871Z"
 ---
 
 # § 8842. Multidisciplinary centers for quantum research and education

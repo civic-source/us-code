@@ -3,9 +3,9 @@ title: "Section 11851 - Definitions"
 usc_title: 42
 usc_section: "11851"
 chapter: 123
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 11851"
-generated_at: "2026-03-30T00:54:16.667Z"
+generated_at: "2026-03-30T00:59:31.533Z"
 ---
 
 # § 11851. Definitions

@@ -3,9 +3,9 @@ title: "Section 124 - Detection and monitoring of aerial and maritime transit of
 usc_title: 10
 usc_section: "124"
 chapter: 3
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 124"
-generated_at: "2026-03-30T00:50:18.242Z"
+generated_at: "2026-03-30T00:56:33.086Z"
 ---
 
 # § 124. Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency

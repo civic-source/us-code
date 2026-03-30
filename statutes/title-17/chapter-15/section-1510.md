@@ -3,9 +3,9 @@ title: "Section 1510 - Implementation by Copyright Office"
 usc_title: 17
 usc_section: "1510"
 chapter: 15
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "17 U.S.C. § 1510"
-generated_at: "2026-03-30T00:50:44.713Z"
+generated_at: "2026-03-30T00:56:51.269Z"
 ---
 
 # § 1510. Implementation by Copyright Office

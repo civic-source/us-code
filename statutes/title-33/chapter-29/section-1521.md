@@ -3,9 +3,9 @@ title: "Section 1521 - Negotiations with Canada and Mexico; report to Congress"
 usc_title: 33
 usc_section: "1521"
 chapter: 29
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "33 U.S.C. § 1521"
-generated_at: "2026-03-30T00:52:16.596Z"
+generated_at: "2026-03-30T00:58:29.807Z"
 ---
 
 # § 1521. Negotiations with Canada and Mexico; report to Congress

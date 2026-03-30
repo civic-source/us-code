@@ -3,9 +3,9 @@ title: "Section 48D - Advanced manufacturing investment credit"
 usc_title: 26
 usc_section: "48D"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 48D"
-generated_at: "2026-03-30T00:51:51.593Z"
+generated_at: "2026-03-30T00:58:24.115Z"
 ---
 
 # § 48D. Advanced manufacturing investment credit

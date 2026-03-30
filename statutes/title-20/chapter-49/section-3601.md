@@ -3,9 +3,9 @@ title: "Section 3601 - Congressional statement of findings and purposes"
 usc_title: 20
 usc_section: "3601"
 chapter: 49
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 3601"
-generated_at: "2026-03-30T00:50:54.080Z"
+generated_at: "2026-03-30T00:57:26.417Z"
 ---
 
 # § 3601. Congressional statement of findings and purposes

@@ -3,9 +3,9 @@ title: "Section 44801 - Definitions"
 usc_title: 49
 usc_section: "44801"
 chapter: 448
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 44801"
-generated_at: "2026-03-30T00:54:59.877Z"
+generated_at: "2026-03-30T00:59:54.754Z"
 ---
 
 # § 44801. Definitions

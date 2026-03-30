@@ -3,9 +3,9 @@ title: "Section 117 - Sourcing rules"
 usc_title: 4
 usc_section: "117"
 chapter: 4
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "4 U.S.C. § 117"
-generated_at: "2026-03-30T00:49:50.530Z"
+generated_at: "2026-03-30T00:55:23.283Z"
 ---
 
 # § 117. Sourcing rules

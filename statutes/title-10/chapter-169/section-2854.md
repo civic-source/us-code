@@ -3,9 +3,9 @@ title: "Section 2854 - Restoration or replacement of damaged or destroyed facili
 usc_title: 10
 usc_section: "2854"
 chapter: 169
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 2854"
-generated_at: "2026-03-30T00:50:18.350Z"
+generated_at: "2026-03-30T00:56:33.201Z"
 ---
 
 # § 2854. Restoration or replacement of damaged or destroyed facilities

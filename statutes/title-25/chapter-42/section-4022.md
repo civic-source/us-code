@@ -3,9 +3,9 @@ title: "Section 4022 - Voluntary withdrawal from trust funds program"
 usc_title: 25
 usc_section: "4022"
 chapter: 42
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "25 U.S.C. § 4022"
-generated_at: "2026-03-30T00:50:58.590Z"
+generated_at: "2026-03-30T00:57:33.325Z"
 ---
 
 # § 4022. Voluntary withdrawal from trust funds program

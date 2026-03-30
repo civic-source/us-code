@@ -3,9 +3,9 @@ title: "Section 677a - Definitions"
 usc_title: 6
 usc_section: "677a"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "6 U.S.C. § 677a"
-generated_at: "2026-03-30T00:50:08.620Z"
+generated_at: "2026-03-30T00:55:52.707Z"
 ---
 
 # § 677a. Definitions

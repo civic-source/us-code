@@ -3,9 +3,9 @@ title: "Section 302 - Scope of delegation of functions"
 usc_title: 3
 usc_section: "302"
 chapter: 4
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "3 U.S.C. § 302"
-generated_at: "2026-03-30T00:49:46.533Z"
+generated_at: "2026-03-30T00:55:29.304Z"
 ---
 
 # § 302. Scope of delegation of functions

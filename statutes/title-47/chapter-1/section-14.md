@@ -3,9 +3,9 @@ title: "Section 14 - Contracts filed with Federal Communications Commission; rep
 usc_title: 47
 usc_section: "14"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "47 U.S.C. § 14"
-generated_at: "2026-03-30T00:54:42.385Z"
+generated_at: "2026-03-30T01:00:05.909Z"
 ---
 
 # § 14. Contracts filed with Federal Communications Commission; reports; failure to make

@@ -3,9 +3,9 @@ title: "Section 6250c - Northeast Home Heating Oil Reserve Account"
 usc_title: 42
 usc_section: "6250c"
 chapter: 77
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 6250c"
-generated_at: "2026-03-30T00:54:16.503Z"
+generated_at: "2026-03-30T00:59:31.324Z"
 ---
 
 # § 6250c. Northeast Home Heating Oil Reserve Account

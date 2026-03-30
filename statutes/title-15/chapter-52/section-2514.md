@@ -3,9 +3,9 @@ title: "Section 2514 - Authorization for appropriations"
 usc_title: 15
 usc_section: "2514"
 chapter: 52
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 2514"
-generated_at: "2026-03-30T00:50:38.147Z"
+generated_at: "2026-03-30T00:56:45.804Z"
 ---
 
 # § 2514. Authorization for appropriations

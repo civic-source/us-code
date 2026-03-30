@@ -3,9 +3,9 @@ title: "Section 1132 - Acquisition"
 usc_title: 14
 usc_section: "1132"
 chapter: 11
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "14 U.S.C. § 1132"
-generated_at: "2026-03-30T00:50:30.508Z"
+generated_at: "2026-03-30T00:56:49.005Z"
 ---
 
 # § 1132. Acquisition

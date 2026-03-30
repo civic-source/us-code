@@ -3,9 +3,9 @@ title: "Section 48105 - Weather reporting services"
 usc_title: 49
 usc_section: "48105"
 chapter: 481
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 48105"
-generated_at: "2026-03-30T00:54:59.892Z"
+generated_at: "2026-03-30T00:59:54.782Z"
 ---
 
 # § 48105. Weather reporting services
@@ -16,4 +16,4 @@ To sustain the aviation weather reporting programs of the Federal Aviation Admin
   - **(2)** for the fiscal year ending September 30, 1994 , $37,800,000.
   - **(3)** for the fiscal year ending September 30, 1995 , $39,000,000.
   - **(4)** $39,000,000 for each of fiscal years 2019 through 2023.
-  - **(5)** $17,049,180 for the period beginning on October 1, 2023 , and ending on March 8, 2024 .
+  - **(5)** $23,762,295 for the period beginning on October 1, 2023 , and ending on May 10, 2024 .

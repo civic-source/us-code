@@ -3,9 +3,9 @@ title: "Section 506 - Evaluations of abilities of armed forces and combatant com
 usc_title: 10
 usc_section: "506"
 chapter: 25
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 506"
-generated_at: "2026-03-30T00:50:18.262Z"
+generated_at: "2026-03-30T00:56:33.113Z"
 ---
 
 # § 506. 1 1 Another section 506 is set out in chapter 31 of this title. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions

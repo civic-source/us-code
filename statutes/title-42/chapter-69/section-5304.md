@@ -3,9 +3,9 @@ title: "Section 5304 - Statement of activities and review"
 usc_title: 42
 usc_section: "5304"
 chapter: 69
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 5304"
-generated_at: "2026-03-30T00:54:16.490Z"
+generated_at: "2026-03-30T00:59:31.305Z"
 ---
 
 # § 5304. Statement of activities and review

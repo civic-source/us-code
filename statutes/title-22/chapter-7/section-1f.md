@@ -3,9 +3,9 @@ title: "Section 1f - Additional increase in capital stock of Bank; subscription 
 usc_title: 22
 usc_section: "1f"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 1f"
-generated_at: "2026-03-30T00:51:06.561Z"
+generated_at: "2026-03-30T00:57:38.957Z"
 ---
 
 # § 286e–1f. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 19069 - Astronomy and satellite constellations"
 usc_title: 42
 usc_section: "19069"
 chapter: 163
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 19069"
-generated_at: "2026-03-30T00:54:16.797Z"
+generated_at: "2026-03-30T00:59:31.706Z"
 ---
 
 # § 19069. Astronomy and satellite constellations

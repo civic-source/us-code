@@ -3,9 +3,9 @@ title: "Section 11385 - Supportive services"
 usc_title: 42
 usc_section: "11385"
 chapter: 119
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 11385"
-generated_at: "2026-03-30T00:54:16.661Z"
+generated_at: "2026-03-30T00:59:31.527Z"
 ---
 
 # § 11385. Supportive services

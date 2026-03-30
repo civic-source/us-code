@@ -3,9 +3,9 @@ title: "Section 3056 - Racetrack safety program"
 usc_title: 15
 usc_section: "3056"
 chapter: 57
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 3056"
-generated_at: "2026-03-30T00:50:38.160Z"
+generated_at: "2026-03-30T00:56:45.820Z"
 ---
 
 # § 3056. Racetrack safety program

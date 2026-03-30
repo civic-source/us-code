@@ -3,9 +3,9 @@ title: "Section 283h - Securities issued by Bank; reports to and of Securities a
 usc_title: 22
 usc_section: "283h"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 283h"
-generated_at: "2026-03-30T00:51:06.558Z"
+generated_at: "2026-03-30T00:57:38.953Z"
 ---
 
 # § 283h. Securities issued by Bank; reports to and of Securities and Exchange Commission

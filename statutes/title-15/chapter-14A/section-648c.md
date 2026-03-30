@@ -3,9 +3,9 @@ title: "Section 648c - SBA and USPTO partnerships"
 usc_title: 15
 usc_section: "648c"
 chapter: 14
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 648c"
-generated_at: "2026-03-30T00:50:38.074Z"
+generated_at: "2026-03-30T00:56:45.730Z"
 ---
 
 # § 648c. SBA and USPTO partnerships

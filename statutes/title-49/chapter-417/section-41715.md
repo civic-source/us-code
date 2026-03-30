@@ -3,9 +3,9 @@ title: "Section 41715 - Phase-out of slot rules at certain airports"
 usc_title: 49
 usc_section: "41715"
 chapter: 417
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "49 U.S.C. § 41715"
-generated_at: "2026-03-30T00:54:59.868Z"
+generated_at: "2026-03-30T00:59:54.740Z"
 ---
 
 # § 41715. Phase-out of slot rules at certain airports

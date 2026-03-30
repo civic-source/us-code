@@ -3,9 +3,9 @@ title: "Section 4304 - Character of service"
 usc_title: 38
 usc_section: "4304"
 chapter: 43
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "38 U.S.C. § 4304"
-generated_at: "2026-03-30T00:52:53.590Z"
+generated_at: "2026-03-30T00:58:40.893Z"
 ---
 
 # § 4304. Character of service

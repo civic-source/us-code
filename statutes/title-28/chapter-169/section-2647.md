@@ -3,9 +3,9 @@ title: "Section 2647 - Repealed. Pub. L. 98–620, title IV, § 402(29)(G) , Nov
 usc_title: 28
 usc_section: "2647"
 chapter: 169
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "28 U.S.C. § 2647"
-generated_at: "2026-03-30T00:51:17.714Z"
+generated_at: "2026-03-30T00:57:57.973Z"
 ---
 
 # [§ 2647. Repealed. Pub. L. 98–620, title IV, § 402(29)(G) , Nov. 8, 1984 , 98 Stat. 3359 ]

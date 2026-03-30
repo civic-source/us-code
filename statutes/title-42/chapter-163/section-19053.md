@@ -3,9 +3,9 @@ title: "Section 19053 - Research reproducibility and replicability"
 usc_title: 42
 usc_section: "19053"
 chapter: 163
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 19053"
-generated_at: "2026-03-30T00:54:16.796Z"
+generated_at: "2026-03-30T00:59:31.705Z"
 ---
 
 # § 19053. Research reproducibility and replicability

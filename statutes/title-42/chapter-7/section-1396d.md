@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T00:54:16.304Z"
+generated_at: "2026-03-30T00:59:31.064Z"
 ---
 
 # § 1396d. Definitions
@@ -50,9 +50,10 @@ For purposes of this subchapter—
   - **(26)** services furnished under a PACE program under section 1396u–4 of this title to PACE program eligible individuals enrolled under the program under such section;
   - **(27)** subject to subsection (x), primary and secondary medical strategies and treatment and services for individuals who have Sickle Cell Disease;
   - **(28)** freestanding birth center services (as defined in subsection ( l )(3)(A)) and other ambulatory services that are offered by a freestanding birth center (as defined in subsection ( l )(3)(B)) and that are otherwise included in the plan;
-  - **(29)** subject to paragraphs (2) and (3) of subsection (ee), for the period beginning October 1, 2020 , and ending September 30, 2025 , medication-assisted treatment (as defined in paragraph (1) of such subsection);
-  - **(30)** subject to subsection (gg), routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in such subsection); and
-  - **(31)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
+  - **(29)** subject to paragraphs (2) and (3) of subsection (ee), beginning on October 1, 2020 , medication-assisted treatment (as defined in paragraph (1) of such subsection);
+  - **(30)** subject to subsection (gg), routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in such subsection);
+  - **(31)** certified community behavioral health clinic services, as defined in subsection (jj); and
+  - **(32)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
     - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section); or
     - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
       - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
@@ -310,7 +311,7 @@ For purposes of this subchapter—
   - **(1)** For purposes of subsection (a)(29), the term “medication-assisted treatment”—
     - **(A)** means all drugs approved under section 355 of title 21 , including methadone, and all biological products licensed under section 262 of this title to treat opioid use disorders; and
     - **(B)** includes, with respect to the provision of such drugs and biological products, counseling services and behavioral therapy.
-  - **(2)** The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title .
+  - **(2)** The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State if such State certifies, not less than every 5 years and to the satisfaction of the Secretary, that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title .
   - **(3)** The requirements of section 1396r–8 of this title shall apply to any drug or biological product described in paragraph (1)(A) that is—
     - **(A)** furnished as medical assistance in accordance with subsection (a)(29) and section 1396a(a)(10)(A) of this title ; and
     - **(B)** a covered outpatient drug (as defined in section 1396r–8(k) of this title , except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
@@ -364,3 +365,18 @@ For purposes of this subchapter—
     - **(C)** shall not be taken into account for purposes of part A, D, or E of subchapter IV; and
     - **(D)** shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of section 1308 of this title .
   - **(3)** For purposes of this subsection, the term “qualifying State” means a State which has not expended amounts for all individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title before March 11, 2021 .
+- **(jj)**
+  - **(1)** The term “certified community behavioral health services” means any of the following services when furnished to an individual as a patient of a certified community behavioral health clinic (as defined in paragraph (2)), in a manner reflecting person-centered care and which, if not available directly through a certified community behavioral health clinic, may be provided or referred through formal relationships with other providers:
+    - **(A)** Crisis mental health services, including 24-hour mobile crisis teams, emergency crisis intervention services, and crisis stabilization.
+    - **(B)** Screening, assessment, and diagnosis, including risk assessment.
+    - **(C)** Patient-centered treatment planning or similar processes, including risk assessment and crisis planning.
+    - **(D)** Outpatient mental health and substance use services.
+    - **(E)** Outpatient clinic primary care screening and monitoring of key health indicators and health risk.
+    - **(F)** Intensive case management services.
+    - **(G)** Psychiatric rehabilitation services.
+    - **(H)** Peer support and counselor services and family supports.
+    - **(I)** Intensive, community-based mental health care for members of the armed forces and veterans who are eligible for medical assistance, particularly such members and veterans located in rural areas, provided the care is consistent with minimum clinical mental health guidelines promulgated by the Veterans Health Administration, including clinical guidelines contained in the Uniform Mental Health Services Handbook of such Administration.
+  - **(2)** The term “certified community behavioral health clinic” means an organization that—
+    - **(A)** has been certified by a State as meeting the criteria established by the Secretary pursuant to subsection (a) of section 223 of the Protecting Access to Medicare Act 1 as of January 1, 2024 , and any subsequent updates to such criteria, regardless of whether the State is carrying out a demonstration program under this subchapter under subsection (d) of such section;
+    - **(B)** is engaged in furnishing all of the services described in paragraph (1); and
+    - **(C)** agrees, as a condition of the certification described in subparagraph (A), to furnish to the State or Secretary any data required as part of ongoing monitoring of the organization’s provision of services, including encounter data, clinical outcomes data, quality data, and such other data as the State or Secretary may require.

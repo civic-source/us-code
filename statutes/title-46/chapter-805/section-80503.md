@@ -3,9 +3,9 @@ title: "Section 80503 - General authority of the Secretary"
 usc_title: 46
 usc_section: "80503"
 chapter: 805
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "46 U.S.C. § 80503"
-generated_at: "2026-03-30T00:54:22.115Z"
+generated_at: "2026-03-30T00:59:41.546Z"
 ---
 
 # § 80503. General authority of the Secretary

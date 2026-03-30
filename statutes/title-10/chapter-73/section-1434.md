@@ -3,9 +3,9 @@ title: "Section 1434 - Kinds of annuities that may be elected"
 usc_title: 10
 usc_section: "1434"
 chapter: 73
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 1434"
-generated_at: "2026-03-30T00:50:18.304Z"
+generated_at: "2026-03-30T00:56:33.157Z"
 ---
 
 # § 1434. Kinds of annuities that may be elected

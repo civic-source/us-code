@@ -3,9 +3,9 @@ title: "Section 3751 - Findings and purpose"
 usc_title: 12
 usc_section: "3751"
 chapter: 38
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "12 U.S.C. § 3751"
-generated_at: "2026-03-30T00:50:34.952Z"
+generated_at: "2026-03-30T00:56:40.376Z"
 ---
 
 # § 3751. Findings and purpose

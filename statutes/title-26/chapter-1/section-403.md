@@ -3,9 +3,9 @@ title: "Section 403 - Taxation of employee annuities"
 usc_title: 26
 usc_section: "403"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "26 U.S.C. § 403"
-generated_at: "2026-03-30T00:51:51.649Z"
+generated_at: "2026-03-30T00:58:24.200Z"
 ---
 
 # § 403. Taxation of employee annuities
@@ -47,7 +47,7 @@ generated_at: "2026-03-30T00:51:51.649Z"
         - **(II)** the employee attains age 59½,
         - **(III)** the employee has a severance from employment,
         - **(IV)** the employee becomes disabled (within the meaning of section 72(m)(7)),
-        - **(V)** in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), the employee encounters financial hardship, or
+        - **(V)** subject to the provisions of paragraph (17), the employee encounters financial hardship, or
         - **(VI)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
       - **(ii)** in the case of amounts described in clause (i)(VI), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
     - **(B)** For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
@@ -69,7 +69,7 @@ generated_at: "2026-03-30T00:51:51.649Z"
   - **(10)** Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
   - **(11)** This subsection shall not apply to any annuity contract unless under such contract distributions attributable to contributions made pursuant to a salary reduction agreement (within the meaning of section 402(g)(3)(C)) may be paid only—
     - **(A)** when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
-    - **(B)** in the case of hardship,
+    - **(B)** subject to the provisions of paragraph (17), in the case of hardship,
     - **(C)** for distributions to which section 72(t)(2)(G) applies, or
     - **(D)** except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii))—
       - **(i)** on or after the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
@@ -89,4 +89,34 @@ generated_at: "2026-03-30T00:51:51.649Z"
     - **(B)**
       - **(i)** In the case of a plan maintained by more than 1 employer, this subsection shall not be treated as failing to apply to an annuity contract held under such plan merely because of one or more employers failing to meet the requirements of this subsection if such plan satisfies rules similar to the rules of section 413(e)(2) with respect to any such employer failure.
       - **(ii)** A plan shall not be treated as meeting the requirements of this subparagraph unless the plan satisfies rules similar to the rules of subparagraph (A) or (B) of section 413(e)(1), except in the case of a multiple employer plan maintained solely by any of the following: A State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing.
+  - **(16)**
+    - **(A)** A safe harbor deferral-only plan maintained by an eligible employer shall be treated as meeting the requirements of paragraph (12).
+    - **(B)** For purposes of this paragraph, the term “safe harbor deferral-only plan” means any plan which meets—
+      - **(i)** the automatic deferral requirements of subparagraph (C),
+      - **(ii)** the contribution limitations of subparagraph (D), and
+      - **(iii)** the requirements of subparagraph (E) of section 401(k)(13).
+    - **(C)**
+      - **(i)** The requirements of this subparagraph are met if, under the plan, each eligible employee is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.
+      - **(ii)** The election treated as having been made under clause (i) shall cease to apply with respect to any eligible employee if such eligible employee makes an affirmative election—
+        - **(I)** to not have such contributions made, or
+        - **(II)** to make elective contributions at a level specified in such affirmative election.
+      - **(iii)** For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the plan if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
+    - **(D)**
+      - **(i)** The requirements of this subparagraph are met if, under the plan—
+        - **(I)** the only contributions which may be made are elective contributions of eligible employees, and
+        - **(II)** the aggregate amount of such elective contributions which may be made with respect to any employee for any calendar year shall not exceed $6,000.
+      - **(ii)** In the case of any calendar year beginning after December 31, 2024 , the $6,000 amount under clause (i) shall be adjusted in the same manner as under section 402(g)(4), except that “2023” shall be substituted for “2005”.
+      - **(iii)** In the case of an individual who has attained the age of 50 before the close of the taxable year, the limitation under clause (i)(II) shall be increased by the applicable amount determined under section 219(b)(5)(B)(ii) (after the application of section 219(b)(5)(C)(iii)).
+    - **(E)** For purposes of this paragraph—
+      - **(i)** The term “eligible employer” means any employer if the employer does not maintain a qualified plan with respect to which contributions are made, or benefits are accrued, for service in the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees described in such subparagraph are eligible to participate.
+      - **(ii)** Rules similar to the rules of section 408(p)(10) shall apply for purposes of clause (i).
+      - **(iii)** The term “qualified plan” means a plan, contract, pension, account, or trust described in subparagraph (A) or (B) of paragraph (5) of section 219(g) (determined without regard to the last sentence of such paragraph (5)).
+    - **(F)** For purposes of this paragraph, the term “eligible employee” means any employee of the employer other than an employee who is permitted to be excluded under paragraph (12)(A).
+  - **(17)** For purposes of paragraphs (7) and (11)—
+    - **(A)** The following amounts may be distributed upon hardship of the employee:
+      - **(i)** Contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)).
+      - **(ii)** Qualified nonelective contributions (as defined in section 401(m)(4)(C)).
+      - **(iii)** Qualified matching contributions described in section 401(k)(3)(D)(ii)(I).
+      - **(iv)** Earnings on any contributions described in clause (i), (ii), or (iii).
+    - **(B)** A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
 - **(c)** Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).

@@ -3,9 +3,9 @@ title: "Section 5107 - Financial assistance"
 usc_title: 16
 usc_section: "5107"
 chapter: 71
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 5107"
-generated_at: "2026-03-30T00:50:47.526Z"
+generated_at: "2026-03-30T00:57:08.773Z"
 ---
 
 # § 5107. Financial assistance

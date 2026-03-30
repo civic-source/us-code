@@ -3,9 +3,9 @@ title: "Section 7802 - Applicability of subchapter"
 usc_title: 20
 usc_section: "7802"
 chapter: 70
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 7802"
-generated_at: "2026-03-30T00:50:54.119Z"
+generated_at: "2026-03-30T00:57:26.473Z"
 ---
 
 # § 7802. Applicability of subchapter

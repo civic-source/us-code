@@ -3,9 +3,9 @@ title: "Section 4182 - Termination of new commitments for rental assistance"
 usc_title: 25
 usc_section: "4182"
 chapter: 43
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "25 U.S.C. § 4182"
-generated_at: "2026-03-30T00:50:58.593Z"
+generated_at: "2026-03-30T00:57:33.330Z"
 ---
 
 # § 4182. Termination of new commitments for rental assistance

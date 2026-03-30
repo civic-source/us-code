@@ -3,9 +3,9 @@ title: "Section 1721 - Sale or pledge of stamps"
 usc_title: 18
 usc_section: "1721"
 chapter: 83
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "18 U.S.C. § 1721"
-generated_at: "2026-03-30T00:50:48.584Z"
+generated_at: "2026-03-30T00:56:53.045Z"
 ---
 
 # § 1721. Sale or pledge of stamps

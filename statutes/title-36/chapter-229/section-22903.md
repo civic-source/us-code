@@ -3,9 +3,9 @@ title: "Section 22903 - Purposes"
 usc_title: 36
 usc_section: "22903"
 chapter: 229
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "36 U.S.C. § 22903"
-generated_at: "2026-03-30T00:52:43.080Z"
+generated_at: "2026-03-30T00:58:46.694Z"
 ---
 
 # § 22903. Purposes

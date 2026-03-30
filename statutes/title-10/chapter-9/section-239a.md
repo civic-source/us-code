@@ -3,9 +3,9 @@ title: "Section 239a - Missile defense and defeat programs: major force program 
 usc_title: 10
 usc_section: "239a"
 chapter: 9
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 239a"
-generated_at: "2026-03-30T00:50:18.252Z"
+generated_at: "2026-03-30T00:56:33.101Z"
 ---
 
 # § 239a. Missile defense and defeat programs: major force program and budget assessment

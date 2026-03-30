@@ -3,9 +3,9 @@ title: "Section 2591 - Public statement of environmental liabilities"
 usc_title: 50
 usc_section: "2591"
 chapter: 42
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 2591"
-generated_at: "2026-03-30T00:54:36.250Z"
+generated_at: "2026-03-30T01:00:05.122Z"
 ---
 
 # § 2591. Public statement of environmental liabilities

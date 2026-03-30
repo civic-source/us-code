@@ -3,9 +3,9 @@ title: "Section 14102 - Repealed. Pub. L. 101–595, title VI, § 603(12)(A) , N
 usc_title: 46
 usc_section: "14102"
 chapter: 141
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "46 U.S.C. § 14102"
-generated_at: "2026-03-30T00:54:22.089Z"
+generated_at: "2026-03-30T00:59:41.505Z"
 ---
 
 # [§ 14102. Repealed. Pub. L. 101–595, title VI, § 603(12)(A) , Nov. 16, 1990 , 104 Stat. 2993 ]

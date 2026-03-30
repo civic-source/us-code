@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T00:54:16.257Z"
+generated_at: "2026-03-30T00:59:31.004Z"
 ---
 
 # § 1395x. Definitions
@@ -680,13 +680,13 @@ For purposes of this subchapter—
     - **(B)** An initial preventive physical examination (as defined in subsection (ww)).
     - **(C)** Personalized prevention plan services (as defined in subsection (hhh)(1)).
 - **(eee)**
-  - **(1)** The term “cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3).
+  - **(1)** The term “cardiac rehabilitation program” means a program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) under the supervision of a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)).
   - **(2)** A program described in this paragraph is a program under which—
     - **(A)** items and services under the program are delivered—
       - **(i)** in a physician’s office;
       - **(ii)** in a hospital on an outpatient basis; or
-      - **(iii)** in other settings determined appropriate by the Secretary.
-    - **(B)** a physician is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
+      - **(iii)** in other settings determined appropriate by the Secretary;
+    - **(B)** a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)) is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
     - **(C)** individualized treatment is furnished under a written plan established, reviewed, and signed by a physician every 30 days that describes—
       - **(i)** the individual’s diagnosis;
       - **(ii)** the type, amount, frequency, and duration of the items and services furnished under the plan; and
@@ -701,7 +701,7 @@ For purposes of this subchapter—
       - **(ii)** reasonably expected to improve or maintain the individual’s condition and functional level; and
       - **(iii)** furnished under such guidelines relating to the frequency and duration of such items and services as the Secretary shall establish, taking into account accepted norms of medical practice and the reasonable expectation of improvement of the individual.
   - **(4)**
-    - **(A)** The term “intensive cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) and has shown, in peer-reviewed published research, that it accomplished—
+    - **(A)** The term “intensive cardiac rehabilitation program” means a program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) under the supervision of a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)) and has shown, in peer-reviewed published research, that it accomplished—
       - **(i)** one or more of the following:
         - **(I)** positively affected the progression of coronary heart disease; or
         - **(II)** reduced the need for coronary bypass surgery; or
@@ -727,7 +727,7 @@ For purposes of this subchapter—
     - **(A)** is responsible for such program; and
     - **(B)** in consultation with appropriate staff, is involved substantially in directing the progress of individual 1 in the program.
 - **(fff)**
-  - **(1)** The term “pulmonary rehabilitation program” means a physician-supervised program (as described in subsection (eee)(2) with respect to a program under this subsection) that furnishes the items and services described in paragraph (2).
+  - **(1)** The term “pulmonary rehabilitation program” means a program (as described in subsection (eee)(2) with respect to a program under this subsection) that furnishes the items and services described in paragraph (2) under the supervision of a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)).
   - **(2)** The items and services described in this paragraph are—
     - **(A)** physician-prescribed exercise;
     - **(B)** education or training (to the extent the education or training is closely and clearly related to the individual’s care and treatment and is tailored to such individual’s needs);

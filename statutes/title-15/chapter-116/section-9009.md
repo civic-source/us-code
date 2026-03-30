@@ -3,9 +3,9 @@ title: "Section 9009 - Emergency EIDL grants"
 usc_title: 15
 usc_section: "9009"
 chapter: 116
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "15 U.S.C. § 9009"
-generated_at: "2026-03-30T00:50:38.212Z"
+generated_at: "2026-03-30T00:56:45.874Z"
 ---
 
 # § 9009. Emergency EIDL grants
@@ -18,12 +18,12 @@ generated_at: "2026-03-30T00:50:38.212Z"
     - **(C)** a cooperative with not more than 500 employees;
     - **(D)** an ESOP (as defined in section 632 of this title ) with not more than 500 employees;
     - **(E)** a tribal small business concern, as described in section 657a(b)(2)(C) of this title , with not more than 500 employees; or
-    - **(F)** an agricultural enterprise (as defined in section 647(b) of this title with not more than 500 employees.
+    - **(F)** an agricultural enterprise (as defined in section 647(b) of this title 1 1 So in original. Probably should be followed by a closing parenthesis. with not more than 500 employees.
 - **(b)** During the covered period, in addition to small business concerns, private nonprofit organizations, and small agricultural cooperatives, an eligible entity shall be eligible for a loan made under section 636(b)(2) of this title .
 - **(c)** With respect to a loan made under section 636(b)(2) of this title in response to COVID–19 during the covered period, the Administrator shall waive—
-  - **(1)** any rules related 1 1 So in original. Probably should be followed by “to”. the personal guarantee on advances and loans of not more than $200,000 during the covered period for all applicants;
+  - **(1)** any rules related 2 2 So in original. Probably should be followed by “to”. the personal guarantee on advances and loans of not more than $200,000 during the covered period for all applicants;
   - **(2)** the requirement that an applicant needs to be in business for the 1-year period before the disaster, except that no waiver may be made for a business that was not in operation on January 31, 2020 ; and
-  - **(3)** the requirement in the flush matter following subparagraph (E) of section 636(b)(2) of this title , as so redesignated by subsection (f) of this section, 2 2 See Codification note below. that an applicant be unable to obtain credit elsewhere.
+  - **(3)** the requirement in the flush matter following subparagraph (E) of section 636(b)(2) of this title , as so redesignated by subsection (f) of this section, 3 3 See Codification note below. that an applicant be unable to obtain credit elsewhere.
 - **(d)** With respect to a loan made under section 636(b)(2) of this title in response to COVID–19 during the covered period, the Administrator may—
   - **(1)** approve an applicant—
     - **(A)** based solely on the credit score of the applicant; or

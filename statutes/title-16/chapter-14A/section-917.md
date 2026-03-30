@@ -3,9 +3,9 @@ title: "Section 917 - Congressional findings"
 usc_title: 16
 usc_section: "917"
 chapter: 14
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 917"
-generated_at: "2026-03-30T00:50:47.442Z"
+generated_at: "2026-03-30T00:57:08.679Z"
 ---
 
 # § 917. Congressional findings

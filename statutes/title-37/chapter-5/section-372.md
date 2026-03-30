@@ -3,9 +3,9 @@ title: "Section 372 - Continuation of pays during hospitalization and rehabilita
 usc_title: 37
 usc_section: "372"
 chapter: 5
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "37 U.S.C. § 372"
-generated_at: "2026-03-30T00:52:37.864Z"
+generated_at: "2026-03-30T00:58:37.528Z"
 ---
 
 # § 372. Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action

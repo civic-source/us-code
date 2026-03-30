@@ -3,9 +3,9 @@ title: "Section 2395 - General authorities"
 usc_title: 22
 usc_section: "2395"
 chapter: 32
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 2395"
-generated_at: "2026-03-30T00:51:06.609Z"
+generated_at: "2026-03-30T00:57:39.018Z"
 ---
 
 # § 2395. General authorities

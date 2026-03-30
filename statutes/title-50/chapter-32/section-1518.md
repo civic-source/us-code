@@ -3,9 +3,9 @@ title: "Section 1518 - Disposal; detoxification; report to Congress; emergencies
 usc_title: 50
 usc_section: "1518"
 chapter: 32
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 1518"
-generated_at: "2026-03-30T00:54:36.225Z"
+generated_at: "2026-03-30T01:00:05.083Z"
 ---
 
 # § 1518. Disposal; detoxification; report to Congress; emergencies

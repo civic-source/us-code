@@ -3,9 +3,9 @@ title: "Section 6106 - Time clocks; restrictions"
 usc_title: 5
 usc_section: "6106"
 chapter: 61
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "5 U.S.C. § 6106"
-generated_at: "2026-03-30T00:50:05.871Z"
+generated_at: "2026-03-30T00:55:37.176Z"
 ---
 
 # § 6106. Time clocks; restrictions

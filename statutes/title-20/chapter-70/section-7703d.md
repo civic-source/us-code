@@ -3,15 +3,16 @@ title: "Section 7703d - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703d"
 chapter: 70
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "20 U.S.C. § 7703d"
-generated_at: "2026-03-30T00:50:54.117Z"
+generated_at: "2026-03-30T00:57:26.470Z"
 ---
 
 # § 7703d. Assistance to local educational agencies that benefit dependents of members of the Armed Forces with enrollment changes due to base closures, force structure changes, or force relocations
 
 - **(a)** To assist communities in making adjustments resulting from changes in the size or location of the Armed Forces, the Secretary of Defense shall provide financial assistance to an eligible local educational agency described in subsection (b) if, during the period between the end of the school year preceding the fiscal year for which the assistance is authorized and the beginning of the school year immediately preceding that school year, the local educational agency had (as determined by the Secretary of Defense in consultation with the Secretary of Education) an overall increase or reduction of—
-  - **(1)** not less than five percent in the average daily attendance of military dependent students in the schools of the local educational agency; or (2 not less than 500 military dependent students in average daily attendance in the schools of the local educational agency.
+  - **(1)** not less than five percent in the average daily attendance of military dependent students in the schools of the local educational agency; or
+  - **(2)** not less than 500 military dependent students in average daily attendance in the schools of the local educational agency.
 - **(b)** A local educational agency is eligible for assistance under subsection (a) for a fiscal year if—
   - **(1)** 20 percent or more of students enrolled in schools of the local educational agency are military dependent students; and
   - **(2)** in the case of assistance described in subsection (a)(1), the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:

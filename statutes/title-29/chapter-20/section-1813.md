@@ -3,9 +3,9 @@ title: "Section 1813 - Registration determinations"
 usc_title: 29
 usc_section: "1813"
 chapter: 20
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "29 U.S.C. § 1813"
-generated_at: "2026-03-30T00:51:10.861Z"
+generated_at: "2026-03-30T00:57:53.343Z"
 ---
 
 # § 1813. Registration determinations

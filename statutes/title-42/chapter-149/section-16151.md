@@ -3,9 +3,9 @@ title: "Section 16151 - Purposes"
 usc_title: 42
 usc_section: "16151"
 chapter: 149
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 16151"
-generated_at: "2026-03-30T00:54:16.730Z"
+generated_at: "2026-03-30T00:59:31.617Z"
 ---
 
 # § 16151. Purposes

@@ -3,9 +3,9 @@ title: "Section 2805 - Withdrawal of Federal recognition or participation"
 usc_title: 22
 usc_section: "2805"
 chapter: 40
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "22 U.S.C. § 2805"
-generated_at: "2026-03-30T00:51:06.636Z"
+generated_at: "2026-03-30T00:57:39.053Z"
 ---
 
 # § 2805. Withdrawal of Federal recognition or participation

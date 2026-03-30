@@ -3,9 +3,9 @@ title: "Section 933 - PAYGO estimates and PAYGO scorecards"
 usc_title: 2
 usc_section: "933"
 chapter: 20
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "2 U.S.C. § 933"
-generated_at: "2026-03-30T00:49:45.884Z"
+generated_at: "2026-03-30T00:55:40.967Z"
 ---
 
 # § 933. PAYGO estimates and PAYGO scorecards

@@ -3,9 +3,9 @@ title: "Section 133a - Under Secretary of Defense for Research and Engineering"
 usc_title: 10
 usc_section: "133a"
 chapter: 4
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 133a"
-generated_at: "2026-03-30T00:50:18.244Z"
+generated_at: "2026-03-30T00:56:33.092Z"
 ---
 
 # § 133a. Under Secretary of Defense for Research and Engineering
@@ -16,5 +16,5 @@ generated_at: "2026-03-30T00:50:18.244Z"
   - **(2)** establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, appropriate prototyping activities, experimentation, and developmental testing activities and programs and unifying defense research and engineering efforts across the Department; and
   - **(3)** serving as the principal advisor to the Secretary on all research, engineering, and technology development activities and programs in the Department.
 - **(c)**
-  - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretaryand the Deputy Secretary of Defense.
+  - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary and the Deputy Secretary of Defense.
   - **(2)** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.

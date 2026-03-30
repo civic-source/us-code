@@ -3,9 +3,9 @@ title: "Section 3734 - Limitation on availability of funds for Cooperative Threa
 usc_title: 50
 usc_section: "3734"
 chapter: 48
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "50 U.S.C. § 3734"
-generated_at: "2026-03-30T00:54:36.288Z"
+generated_at: "2026-03-30T01:00:05.169Z"
 ---
 
 # § 3734. Limitation on availability of funds for Cooperative Threat Reduction activities with Russian Federation

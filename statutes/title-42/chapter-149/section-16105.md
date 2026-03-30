@@ -3,9 +3,9 @@ title: "Section 16105 - Biodiesel engine testing program"
 usc_title: 42
 usc_section: "16105"
 chapter: 149
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 16105"
-generated_at: "2026-03-30T00:54:16.728Z"
+generated_at: "2026-03-30T00:59:31.616Z"
 ---
 
 # § 16105. Biodiesel engine testing program

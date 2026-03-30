@@ -3,9 +3,9 @@ title: "Section 715k - Authorization of appropriations for purposes of subchapte
 usc_title: 16
 usc_section: "715k"
 chapter: 7
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 715k"
-generated_at: "2026-03-30T00:50:47.418Z"
+generated_at: "2026-03-30T00:57:08.651Z"
 ---
 
 # § 715k. Authorization of appropriations for purposes of subchapter; disposal; reservation protectors

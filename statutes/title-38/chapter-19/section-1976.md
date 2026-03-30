@@ -3,9 +3,9 @@ title: "Section 1976 - Effective date"
 usc_title: 38
 usc_section: "1976"
 chapter: 19
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "38 U.S.C. § 1976"
-generated_at: "2026-03-30T00:52:53.563Z"
+generated_at: "2026-03-30T00:58:40.854Z"
 ---
 
 # § 1976. Effective date

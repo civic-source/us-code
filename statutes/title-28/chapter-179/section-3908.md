@@ -3,9 +3,9 @@ title: "Section 3908 - Definitions"
 usc_title: 28
 usc_section: "3908"
 chapter: 179
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "28 U.S.C. § 3908"
-generated_at: "2026-03-30T00:51:17.719Z"
+generated_at: "2026-03-30T00:57:57.977Z"
 ---
 
 # § 3908. Definitions

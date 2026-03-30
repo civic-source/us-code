@@ -3,9 +3,9 @@ title: "Section 6381 - Verification examinations"
 usc_title: 42
 usc_section: "6381"
 chapter: 77
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 6381"
-generated_at: "2026-03-30T00:54:16.520Z"
+generated_at: "2026-03-30T00:59:31.346Z"
 ---
 
 # § 6381. Verification examinations

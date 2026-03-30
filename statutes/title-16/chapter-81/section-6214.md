@@ -3,9 +3,9 @@ title: "Section 6214 - Cabin user and transfer fees"
 usc_title: 16
 usc_section: "6214"
 chapter: 81
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 6214"
-generated_at: "2026-03-30T00:50:47.530Z"
+generated_at: "2026-03-30T00:57:08.776Z"
 ---
 
 # § 6214. Cabin user and transfer fees

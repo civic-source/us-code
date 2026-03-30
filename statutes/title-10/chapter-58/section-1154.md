@@ -3,9 +3,9 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-30T00:50:18.297Z"
+generated_at: "2026-03-30T00:56:33.150Z"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
@@ -16,7 +16,7 @@ generated_at: "2026-03-30T00:50:18.297Z"
     - **(A)** a public school, including a charter school, at which—
       - **(i)** at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1758(b)(1) ) applicable to a family of the size involved; or
       - **(ii)** at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act ( 20 U.S.C. 1411 et seq.);
-    - **(B)** a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ( 25 U.S.C. 2021(3) );
+    - **(B)** a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ( 25 U.S.C. 2021(3) ); or
     - **(C)** a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3197 ).
   - **(3)** The term “high-need school” means—
     - **(A)** an elementary or middle school in which at least 50 percent of the enrolled students are children from low-income families, based on the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), the number of children eligible to receive medical assistance under the Medicaid program, or a composite of these indicators;

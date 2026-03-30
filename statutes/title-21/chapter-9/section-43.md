@@ -3,9 +3,9 @@ title: "Section 43 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "43"
 chapter: 9
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "21 U.S.C. § 43"
-generated_at: "2026-03-30T00:51:00.115Z"
+generated_at: "2026-03-30T00:57:31.997Z"
 ---
 
 # § 379j–43. Reauthorization; reporting requirements
@@ -29,7 +29,7 @@ generated_at: "2026-03-30T00:51:00.115Z"
       - **(i)** such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
       - **(ii)** the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year.
     - **(B)** Relevant data to determine whether the Food and Drug Administration has met the performance enhancement goals identified by the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year.
-    - **(C)** The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2022.
+    - **(C)** The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022.
 - **(b)** Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 - **(c)** For each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
   - **(1)** For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(4), that each of the goals identified by the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the abbreviated new drug application review process.

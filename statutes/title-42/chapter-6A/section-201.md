@@ -3,9 +3,9 @@ title: "Section 201 - Definitions"
 usc_title: 42
 usc_section: "201"
 chapter: 6
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 201"
-generated_at: "2026-03-30T00:54:15.947Z"
+generated_at: "2026-03-30T00:59:30.617Z"
 ---
 
 # § 201. Definitions
@@ -17,7 +17,7 @@ When used in this chapter—
 - **(c)** Unless the context otherwise requires, the term “Secretary” means the Secretary of Health and Human Services.
 - **(d)** The term “regulations”, except when otherwise specified, means rules and regulations made by the Surgeon General with the approval of the Secretary;
 - **(e)** The term “executive department” means any executive department, agency, or independent establishment of the United States or any corporation wholly owned by the United States;
-- **(f)** Except as provided in sections 246(g)(4)(B), 1 1 See References in Text note below. 247c(c)(1), 1 254d(h)(3), 1 263c(5), 1 264(d), 292a(9), 1 300a(c), 300f(13), and 300n(1) 1 of this title, the term “State” includes, in addition to the several States, only the District of Columbia, Guam, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
+- **(f)** Except as provided in sections 246(g)(4)(B), 1 1 See References in Text note below. 247c(c)(1), 1 254d(h)(3), 1 263c(5), 1 264(d), 292a(9), 1 300a(c), 300f(13), and 300n(1) 1 of this title, the term “State” includes, in addition to the several States, only the District of Columbia, Guam, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 - **(g)** The term “possession” includes, among other possessions, Puerto Rico and the Virgin Islands;
 - **(h)** Repealed. Pub. L. 97–35, title IX, § 986(a) , Aug. 13, 1981 , 95 Stat. 603 .
 - **(i)** The term “vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water, exclusive of aircraft and amphibious contrivances;

@@ -3,9 +3,9 @@ title: "Section 501 - Guidance on electromagnetic spectrum operations mission ar
 usc_title: 10
 usc_section: "501"
 chapter: 25
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "10 U.S.C. § 501"
-generated_at: "2026-03-30T00:50:18.262Z"
+generated_at: "2026-03-30T00:56:33.112Z"
 ---
 
 # § 501. 1 1 Another section 501 is set out in chapter 31 of this title. Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations

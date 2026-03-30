@@ -3,9 +3,9 @@ title: "Section 264 - Regulations to control communicable diseases"
 usc_title: 42
 usc_section: "264"
 chapter: 6
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 264"
-generated_at: "2026-03-30T00:54:15.994Z"
+generated_at: "2026-03-30T00:59:30.666Z"
 ---
 
 # § 264. Regulations to control communicable diseases

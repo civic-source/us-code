@@ -3,9 +3,9 @@ title: "Section 2008 - Utilization of available information and data"
 usc_title: 16
 usc_section: "2008"
 chapter: 40
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "16 U.S.C. § 2008"
-generated_at: "2026-03-30T00:50:47.489Z"
+generated_at: "2026-03-30T00:57:08.734Z"
 ---
 
 # § 2008. Utilization of available information and data

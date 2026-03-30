@@ -3,9 +3,9 @@ title: "Section 2323 - Basis of appraisal"
 usc_title: 42
 usc_section: "2323"
 chapter: 24
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "42 U.S.C. § 2323"
-generated_at: "2026-03-30T00:54:16.424Z"
+generated_at: "2026-03-30T00:59:31.220Z"
 ---
 
 # § 2323. Basis of appraisal

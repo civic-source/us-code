@@ -3,9 +3,9 @@ title: "Section 143 - Proceedings on appeal"
 usc_title: 35
 usc_section: "143"
 chapter: 13
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "35 U.S.C. § 143"
-generated_at: "2026-03-30T00:51:58.858Z"
+generated_at: "2026-03-30T00:58:26.706Z"
 ---
 
 # § 143. Proceedings on appeal

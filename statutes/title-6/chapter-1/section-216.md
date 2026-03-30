@@ -3,9 +3,9 @@ title: "Section 216 - Protection against potential synthetic opioid exposure"
 usc_title: 6
 usc_section: "216"
 chapter: 1
-current_through: "PL 118-44"
+current_through: "PL 118-47"
 classification: "6 U.S.C. § 216"
-generated_at: "2026-03-30T00:50:08.592Z"
+generated_at: "2026-03-30T00:55:52.679Z"
 ---
 
 # § 216. Protection against potential synthetic opioid exposure
