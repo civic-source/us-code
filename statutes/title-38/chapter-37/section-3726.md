@@ -3,9 +3,9 @@ title: "Section 3726 - Withholding of payments, benefits, etc."
 usc_title: 38
 usc_section: "3726"
 chapter: 37
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "38 U.S.C. § 3726"
-generated_at: "2026-03-30T04:53:27.085Z"
+generated_at: "2026-03-30T04:55:35.091Z"
 status: "active"
 ---
 

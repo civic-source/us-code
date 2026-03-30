@@ -3,9 +3,9 @@ title: "Section 1128 - Maintaining necessary capability with respect to acquisit
 usc_title: 41
 usc_section: "1128"
 chapter: 11
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "41 U.S.C. § 1128"
-generated_at: "2026-03-30T04:53:34.150Z"
+generated_at: "2026-03-30T04:55:36.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 564f - Per capita payments to tribal members"
 usc_title: 25
 usc_section: "564f"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 564f"
-generated_at: "2026-03-30T04:53:04.662Z"
+generated_at: "2026-03-30T04:54:57.192Z"
 status: "active"
 ---
 

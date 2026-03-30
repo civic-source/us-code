@@ -3,9 +3,9 @@ title: "Section 5668 - Reports"
 usc_title: 42
 usc_section: "5668"
 chapter: 72
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 5668"
-generated_at: "2026-03-30T04:53:51.215Z"
+generated_at: "2026-03-30T04:55:52.515Z"
 status: "active"
 ---
 

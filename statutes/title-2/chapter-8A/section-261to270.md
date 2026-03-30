@@ -3,9 +3,9 @@ title: "Section 261to270 - Repealed. Pub. L. 104–65, § 11(a) , Dec. 19, 1995 
 usc_title: 2
 usc_section: "261to270"
 chapter: 8
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "2 U.S.C. § 261to270"
-generated_at: "2026-03-30T04:52:00.260Z"
+generated_at: "2026-03-30T04:54:27.813Z"
 status: "repealed"
 ---
 

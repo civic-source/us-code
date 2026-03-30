@@ -3,9 +3,9 @@ title: "Section 1465 - Appeals to the Secretary"
 usc_title: 16
 usc_section: "1465"
 chapter: 33
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1465"
-generated_at: "2026-03-30T04:53:00.046Z"
+generated_at: "2026-03-30T04:54:53.714Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Not later than 30 days after the date of the filing of an appeal to the Secretary of a consistency determination under section 1456 of this title , the Secretary shall publish an initial notice in the Federal Register.
 - **(b)**
-  - **(1)** Not later than the end of the 160-day period beginning on the date of publication of an initial notice under subsection (a) of this section, except as provided in paragraph (3), the Secretary shall immediately close the decision record and receive no more filings on the appeal.
+  - **(1)** Not later than the end of the 160-day period beginning on the date of publication of an initial notice under subsection (a), except as provided in paragraph (3), the Secretary shall immediately close the decision record and receive no more filings on the appeal.
   - **(2)** After closing the administrative record, the Secretary shall immediately publish a notice in the Federal Register that the administrative record has been closed.
   - **(3)**
     - **(A)** Subject to subparagraph (B), during the 160-day period described in paragraph (1), the Secretary may stay the closing of the decision record—

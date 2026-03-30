@@ -3,9 +3,9 @@ title: "Section 4802 - Responsibility of Secretary of State"
 usc_title: 22
 usc_section: "4802"
 chapter: 58
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 4802"
-generated_at: "2026-03-30T04:53:06.643Z"
+generated_at: "2026-03-30T04:55:00.662Z"
 status: "active"
 ---
 

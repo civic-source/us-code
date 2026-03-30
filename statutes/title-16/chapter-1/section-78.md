@@ -3,9 +3,9 @@ title: "Section 78 - Access to private property"
 usc_title: 16
 usc_section: "78"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 78"
-generated_at: "2026-03-30T04:52:59.913Z"
+generated_at: "2026-03-30T04:54:53.579Z"
 status: "active"
 ---
 

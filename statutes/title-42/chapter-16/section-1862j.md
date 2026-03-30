@@ -3,9 +3,9 @@ title: "Section 1862j - Authorization of appropriations"
 usc_title: 42
 usc_section: "1862j"
 chapter: 16
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 1862j"
-generated_at: "2026-03-30T04:53:51.113Z"
+generated_at: "2026-03-30T04:55:52.414Z"
 status: "active"
 ---
 

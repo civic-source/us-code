@@ -3,9 +3,9 @@ title: "Section 2711to2716 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2711to2716"
 chapter: 34
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 2711to2716"
-generated_at: "2026-03-30T04:53:51.146Z"
+generated_at: "2026-03-30T04:55:52.446Z"
 status: "repealed"
 ---
 

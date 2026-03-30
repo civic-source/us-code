@@ -3,9 +3,9 @@ title: "Section 47 - Personnel"
 usc_title: 16
 usc_section: "47"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 47"
-generated_at: "2026-03-30T04:52:59.958Z"
+generated_at: "2026-03-30T04:54:53.624Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(C)** Subparagraph (A) does not preclude a termination for cause during the period described in subparagraph (A).
 - **(b)** An eligible employee shall have the right to apply for employment by the Secretary under procedures for transfer and appointment of Federal employees outside the Department of Agriculture.
 - **(c)**
-  - **(1)** Subject to subsection (b) of this section, in filling personnel positions within the Recreation Area, the Secretary shall follow all laws (including regulations) and policies applicable to the Department of Agriculture.
+  - **(1)** Subject to subsection (b), in filling personnel positions within the Recreation Area, the Secretary shall follow all laws (including regulations) and policies applicable to the Department of Agriculture.
   - **(2)** Notwithstanding paragraph (1), the Secretary—
     - **(A)** shall notify all eligible employees of all openings for positions with the Forest Service at the Recreation Area before notifying other individuals or considering applications by other individuals for the positions; and
     - **(B)** after applications by eligible employees have received consideration, if any positions remain unfilled, shall notify other individuals of the openings.

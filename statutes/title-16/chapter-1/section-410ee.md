@@ -3,9 +3,9 @@ title: "Section 410ee - San Antonio Missions National Historical Park"
 usc_title: 16
 usc_section: "410ee"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 410ee"
-generated_at: "2026-03-30T04:52:59.906Z"
+generated_at: "2026-03-30T04:54:53.572Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(A)** one member to be appointed from recommendations made by the Governor of the State of Texas;
     - **(B)** one member to be appointed from recommendations made by the County Commissioners of Bexar County, Texas;
     - **(C)** one member to be appointed from recommendations made by the City Council of the City of San Antonio, Texas;
-    - **(D)** one member to be appointed to represent non-Federal property owners whose property is operated and maintained in accordance with cooperative agreements with the Secretary pursuant to subsection (b)(2) of this section;
+    - **(D)** one member to be appointed to represent non-Federal property owners whose property is operated and maintained in accordance with cooperative agreements with the Secretary pursuant to subsection (b)(2);
     - **(E)** one member from the membership of a local conservation or historical organization; and
     - **(F)** six members representing the general public.
   - **(2)** Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred by the Commission and may reimburse members for reasonable expenses incurred in carrying out their responsibilities under this section on vouchers signed by the Chairman.

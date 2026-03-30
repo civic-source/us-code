@@ -3,9 +3,9 @@ title: "Section 4802 - Admiralty claims against the United States"
 usc_title: 10
 usc_section: "4802"
 chapter: 451
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 4802"
-generated_at: "2026-03-30T04:52:15.748Z"
+generated_at: "2026-03-30T04:54:37.527Z"
 status: "active"
 ---
 

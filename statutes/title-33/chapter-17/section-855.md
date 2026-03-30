@@ -3,9 +3,9 @@ title: "Section 855 - Repealed. Pub. L. 107–372, title II, § 271(4) , Dec. 19
 usc_title: 33
 usc_section: "855"
 chapter: 17
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "33 U.S.C. § 855"
-generated_at: "2026-03-30T04:53:19.768Z"
+generated_at: "2026-03-30T04:55:25.184Z"
 status: "repealed"
 ---
 

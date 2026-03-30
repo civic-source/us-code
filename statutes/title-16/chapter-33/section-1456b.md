@@ -3,9 +3,9 @@ title: "Section 1456b - Coastal zone enhancement grants"
 usc_title: 16
 usc_section: "1456b"
 chapter: 33
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1456b"
-generated_at: "2026-03-30T04:53:00.045Z"
+generated_at: "2026-03-30T04:54:53.713Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(2)**
     - **(A)** In addition to any amounts provided under section 1455 of this title , and subject to the availability of appropriations, the Secretary may make grants under this subsection to States for implementing program changes approved by the Secretary in accordance with section 1455(e) of this title .
     - **(B)** Grants under this paragraph to implement a program change may not be made in any fiscal year after the second fiscal year that begins after the approval of that change by the Secretary.
-- **(c)** The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d) of this section. The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
+- **(c)** The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d). The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
 - **(d)** Within 12 months following November 5, 1990 , and consistent with the notice and participation requirements established in section 1463 of this title , the Secretary shall promulgate regulations concerning coastal zone enhancement grants that establish—
   - **(1)** specific and detailed criteria that must be addressed by a coastal state (including the State’s priority needs for improvement as identified by the Secretary after careful consultation with the State) as part of the State’s development and implementation of coastal zone enhancement objectives;
   - **(2)** administrative or procedural rules or requirements as necessary to facilitate the development and implementation of such objectives by coastal states; and

@@ -3,9 +3,9 @@ title: "Section 5662 - Training and technical assistance"
 usc_title: 42
 usc_section: "5662"
 chapter: 72
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 5662"
-generated_at: "2026-03-30T04:53:51.215Z"
+generated_at: "2026-03-30T04:55:52.514Z"
 status: "active"
 ---
 

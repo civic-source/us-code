@@ -3,9 +3,9 @@ title: "Section 225h - Buy American provisions"
 usc_title: 24
 usc_section: "225h"
 chapter: 4
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "24 U.S.C. § 225h"
-generated_at: "2026-03-30T04:53:01.992Z"
+generated_at: "2026-03-30T04:54:55.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2904 - Approval of conservation plans and certain nongame fish a
 usc_title: 16
 usc_section: "2904"
 chapter: 49
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 2904"
-generated_at: "2026-03-30T04:53:00.069Z"
+generated_at: "2026-03-30T04:54:53.736Z"
 status: "active"
 ---
 
@@ -21,10 +21,10 @@ status: "active"
     - **(B)** disapprove the conservation plan if he determines that—
       - **(i)** the plan does not meet the requirements set forth in section 2903 of this title , or
       - **(ii)** to implement any part of the plan on the basis of the specifications, determinations, identifications, or priorities therein would threaten the natural stability and continued viability of any of the plan species concerned.
-- **(b)** If the Secretary approves the conservation plan of any State under subsection (a) of this section—
+- **(b)** If the Secretary approves the conservation plan of any State under subsection (a)—
   - **(1)** that portion of such plan that pertains to wildlife conservation shall be deemed to be an approved plan for purposes of section 6(a)(1) of the Act of September 2, 1937 ( 16 U.S.C. 669e(a)(1) ), commonly referred to as the Pittman-Robertson Wildlife Restoration Act [ 16 U.S.C. 669 et seq.]; and
   - **(2)** that portion of such plan that pertains to fish conservation shall be deemed to be an approved plan for the purposes of section 6(a)(1) of the Act of August 9, 1950 [ 16 U.S.C. 777e(a)(1) ] commonly referred to as the Dingell-Johnson Sport Fish Restoration Act [ 16 U.S.C. 777 et seq.].
-- **(c)** If the Secretary approves the conservation plan of any State under subsection (a) of this section, those conservation actions set forth in the plan which pertain to nongame fish and wildlife shall be deemed to be eligible as nongame fish and wildlife projects for which reimbursement is available under section 2905 of this title .
+- **(c)** If the Secretary approves the conservation plan of any State under subsection (a), those conservation actions set forth in the plan which pertain to nongame fish and wildlife shall be deemed to be eligible as nongame fish and wildlife projects for which reimbursement is available under section 2905 of this title .
 - **(d)** In the absence of an approved conservation plan, and on a showing of need by the State, the Secretary may deem certain conservation actions to be nongame fish and wildlife projects for which reimbursement is available under section 2905(a)(3) of this title if they—
   - **(1)** are consistent with such of the requirements set forth in section 2903 of this title as may be appropriate, including, but not limited to, the requirements in paragraphs (3), (4), (5), and (7) of such section; and
   - **(2)** are substantial in character and design.

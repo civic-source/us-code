@@ -3,9 +3,9 @@ title: "Section 2012 - Establishment of clearinghouse and advisory council"
 usc_title: 21
 usc_section: "2012"
 chapter: 25
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "21 U.S.C. § 2012"
-generated_at: "2026-03-30T04:53:03.441Z"
+generated_at: "2026-03-30T04:54:58.022Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1382b - Resources"
 usc_title: 42
 usc_section: "1382b"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 1382b"
-generated_at: "2026-03-30T04:53:50.972Z"
+generated_at: "2026-03-30T04:55:52.275Z"
 status: "active"
 ---
 

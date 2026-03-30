@@ -3,9 +3,9 @@ title: "Section 140511 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "140511"
 chapter: 1405
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "36 U.S.C. § 140511"
-generated_at: "2026-03-30T04:53:25.642Z"
+generated_at: "2026-03-30T04:55:33.610Z"
 status: "active"
 ---
 

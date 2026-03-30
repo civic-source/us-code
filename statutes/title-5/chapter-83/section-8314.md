@@ -3,9 +3,9 @@ title: "Section 8314 - Refusal to testify"
 usc_title: 5
 usc_section: "8314"
 chapter: 83
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "5 U.S.C. § 8314"
-generated_at: "2026-03-30T04:52:08.477Z"
+generated_at: "2026-03-30T04:54:27.061Z"
 status: "active"
 ---
 

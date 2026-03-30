@@ -3,9 +3,9 @@ title: "Section 1883 - Insurance rates; report to Congress"
 usc_title: 12
 usc_section: "1883"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 1883"
-generated_at: "2026-03-30T04:52:48.729Z"
+generated_at: "2026-03-30T04:54:42.700Z"
 status: "active"
 ---
 

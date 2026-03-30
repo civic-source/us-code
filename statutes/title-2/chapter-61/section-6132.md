@@ -3,9 +3,9 @@ title: "Section 6132 - Assistants to Senate Majority and Minority Leaders for Fl
 usc_title: 2
 usc_section: "6132"
 chapter: 61
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "2 U.S.C. § 6132"
-generated_at: "2026-03-30T04:52:00.300Z"
+generated_at: "2026-03-30T04:54:27.847Z"
 status: "active"
 ---
 

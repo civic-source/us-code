@@ -3,9 +3,9 @@ title: "Section 10302 - Proceeding to enforce the right to vote"
 usc_title: 52
 usc_section: "10302"
 chapter: 103
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "52 U.S.C. § 10302"
-generated_at: "2026-03-30T04:54:10.998Z"
+generated_at: "2026-03-30T04:56:00.371Z"
 status: "active"
 ---
 

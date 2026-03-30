@@ -3,9 +3,9 @@ title: "Section 1571to1573 - Omitted"
 usc_title: 42
 usc_section: "1571to1573"
 chapter: 9
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 1571to1573"
-generated_at: "2026-03-30T04:53:51.095Z"
+generated_at: "2026-03-30T04:55:52.398Z"
 status: "omitted"
 ---
 

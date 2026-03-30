@@ -3,9 +3,9 @@ title: "Section 11048 - Regulations"
 usc_title: 42
 usc_section: "11048"
 chapter: 116
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 11048"
-generated_at: "2026-03-30T04:53:51.350Z"
+generated_at: "2026-03-30T04:55:52.643Z"
 status: "active"
 ---
 

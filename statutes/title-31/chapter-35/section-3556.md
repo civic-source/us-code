@@ -3,9 +3,9 @@ title: "Section 3556 - Nonexclusivity of remedies; matters included in agency re
 usc_title: 31
 usc_section: "3556"
 chapter: 35
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "31 U.S.C. § 3556"
-generated_at: "2026-03-30T04:53:22.373Z"
+generated_at: "2026-03-30T04:55:26.231Z"
 status: "active"
 ---
 

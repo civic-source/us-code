@@ -3,9 +3,9 @@ title: "Section 6e - Covered countermeasure process"
 usc_title: 42
 usc_section: "6e"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 6e"
-generated_at: "2026-03-30T04:53:50.814Z"
+generated_at: "2026-03-30T04:55:52.125Z"
 status: "active"
 ---
 

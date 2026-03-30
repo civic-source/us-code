@@ -3,9 +3,9 @@ title: "Section 8282to8282b - Repealed. Pub. L. 99–412, title II, § 201(a) , 
 usc_title: 42
 usc_section: "8282to8282b"
 chapter: 91
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 8282to8282b"
-generated_at: "2026-03-30T04:53:51.302Z"
+generated_at: "2026-03-30T04:55:52.597Z"
 status: "repealed"
 ---
 

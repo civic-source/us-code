@@ -3,9 +3,9 @@ title: "Section 6407 - Effectiveness reports"
 usc_title: 16
 usc_section: "6407"
 chapter: 83
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 6407"
-generated_at: "2026-03-30T04:53:00.101Z"
+generated_at: "2026-03-30T04:54:53.769Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 929 - Art. 129. Burglary"
 usc_title: 10
 usc_section: "929"
 chapter: 47
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 929"
-generated_at: "2026-03-30T04:52:15.608Z"
+generated_at: "2026-03-30T04:54:37.444Z"
 status: "active"
 ---
 

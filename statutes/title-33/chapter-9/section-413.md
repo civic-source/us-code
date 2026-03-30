@@ -3,9 +3,9 @@ title: "Section 413 - Duty of United States attorneys and other Federal officers
 usc_title: 33
 usc_section: "413"
 chapter: 9
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "33 U.S.C. § 413"
-generated_at: "2026-03-30T04:53:19.754Z"
+generated_at: "2026-03-30T04:55:25.171Z"
 status: "active"
 ---
 

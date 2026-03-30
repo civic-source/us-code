@@ -3,9 +3,9 @@ title: "Section 251to262 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "251to262"
 chapter: 4
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "33 U.S.C. § 251to262"
-generated_at: "2026-03-30T04:53:19.752Z"
+generated_at: "2026-03-30T04:55:25.170Z"
 status: "repealed"
 ---
 

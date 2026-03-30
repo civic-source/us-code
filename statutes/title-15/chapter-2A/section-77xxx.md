@@ -3,9 +3,9 @@ title: "Section 77xxx - Unlawful representations"
 usc_title: 15
 usc_section: "77xxx"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 77xxx"
-generated_at: "2026-03-30T04:52:46.521Z"
+generated_at: "2026-03-30T04:54:44.537Z"
 status: "active"
 ---
 

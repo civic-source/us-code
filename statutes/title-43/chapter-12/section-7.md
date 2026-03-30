@@ -3,9 +3,9 @@ title: "Section 7 - Amendment of repayment contract for payment of annual instal
 usc_title: 43
 usc_section: "7"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "43 U.S.C. § 7"
-generated_at: "2026-03-30T04:53:30.793Z"
+generated_at: "2026-03-30T04:55:37.449Z"
 status: "active"
 ---
 

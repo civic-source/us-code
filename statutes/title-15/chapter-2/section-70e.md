@@ -3,9 +3,9 @@ title: "Section 70e - Enforcement"
 usc_title: 15
 usc_section: "70e"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 70e"
-generated_at: "2026-03-30T04:52:46.514Z"
+generated_at: "2026-03-30T04:54:44.530Z"
 status: "active"
 ---
 

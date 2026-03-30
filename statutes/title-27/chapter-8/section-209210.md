@@ -3,9 +3,9 @@ title: "Section 209210 - Omitted"
 usc_title: 27
 usc_section: "209210"
 chapter: 8
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "27 U.S.C. § 209210"
-generated_at: "2026-03-30T04:53:08.341Z"
+generated_at: "2026-03-30T04:55:02.249Z"
 status: "omitted"
 ---
 

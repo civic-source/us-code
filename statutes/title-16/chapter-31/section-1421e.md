@@ -3,9 +3,9 @@ title: "Section 1421e - Liability"
 usc_title: 16
 usc_section: "1421e"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1421e"
-generated_at: "2026-03-30T04:53:00.041Z"
+generated_at: "2026-03-30T04:54:53.709Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
     - **(A)** the contingency plan issued under section 1421c(b) of this title ;
     - **(B)** the instructions of an Onsite Coordinator designated under section 1421c(c) of this title ; or
     - **(C)** the best professional judgment of an Onsite Coordinator, in the case of any matter that is not covered by the contingency plan.
-- **(b)** Subsection (a) of this section does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
+- **(b)** Subsection (a) does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.

@@ -3,9 +3,9 @@ title: "Section 410ddd - New Bedford Whaling National Historical Park"
 usc_title: 16
 usc_section: "410ddd"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 410ddd"
-generated_at: "2026-03-30T04:52:59.914Z"
+generated_at: "2026-03-30T04:54:53.580Z"
 status: "active"
 ---
 
@@ -13,17 +13,17 @@ status: "active"
 
 - **(a)**
   - **(1)** The Congress finds that—
-    - **(A)** the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2) of this section, including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
+    - **(A)** the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2), including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
     - **(B)** the city of New Bedford was the 19th century capital of the world’s whaling industry and retains significant architectural features, archival materials, and museum collections illustrative of this period;
     - **(C)** New Bedford’s historic resources provide unique opportunities for illustrating and interpreting the whaling industry’s contribution to the economic, social, and environmental history of the United States and provide opportunities for public use and enjoyment; and 1 1 So in original. The word “and” probably should not appear.
     - **(D)** during the nineteenth century, over two thousand whaling voyages sailed out of New Bedford to the Arctic region of Alaska, and joined Alaska Natives from Barrow, Alaska and other areas in the Arctic region in subsistence whaling activities; and
     - **(E)** the National Park System presently contains no sites commemorating whaling and its contribution to American history.
   - **(2)** The purposes of this section are—
-    - **(A)** to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2) of this section, including architecture, setting, and associated archival and museum collections;
+    - **(A)** to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2), including architecture, setting, and associated archival and museum collections;
     - **(B)** to collaborate with the city of New Bedford and with associated historical, cultural, and preservation organizations to further the purposes of the park established under this section; and
     - **(C)** to provide opportunities for the inspirational benefit and education of the American people.
 - **(b)** For the purposes of this section—
-  - **(1)** the term “park” means the New Bedford Whaling National Historical Park established by subsection (c) of this section; and
+  - **(1)** the term “park” means the New Bedford Whaling National Historical Park established by subsection (c); and
   - **(2)** the term “Secretary” means the Secretary of the Interior.
 - **(c)**
   - **(1)** In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain districts, structures, and relics located in New Bedford, Massachusetts, and associated with the history of whaling and related social and economic themes in America, there is established the New Bedford Whaling National Historical Park.
@@ -56,8 +56,8 @@ status: "active"
   - **(5)** The Secretary may accept donated funds, property, and services to carry out this section.
 - **(f)** Not later than the end of the second fiscal year beginning after November 12, 1996 , the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 100502 of title 54 and other applicable law.
 - **(g)**
-  - **(1)** Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
+  - **(1)** Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d).
   - **(2)** In carrying out this section—
     - **(A)** not more than $5,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
     - **(B)** none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
-    - **(C)** not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
+    - **(C)** not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2).

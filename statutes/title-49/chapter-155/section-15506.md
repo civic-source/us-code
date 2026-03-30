@@ -3,9 +3,9 @@ title: "Section 15506 - Facilities for interchange of traffic"
 usc_title: 49
 usc_section: "15506"
 chapter: 155
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 15506"
-generated_at: "2026-03-30T04:54:02.042Z"
+generated_at: "2026-03-30T04:55:58.687Z"
 status: "active"
 ---
 

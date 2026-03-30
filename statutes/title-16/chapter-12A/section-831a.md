@@ -3,9 +3,9 @@ title: "Section 831a - Membership, operation, and duties of the Board of Directo
 usc_title: 16
 usc_section: "831a"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 831a"
-generated_at: "2026-03-30T04:53:00.010Z"
+generated_at: "2026-03-30T04:54:53.678Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
     - **(C)** ensure that those goals, objectives, and policies are achieved;
     - **(D)** approve an annual budget for the Corporation;
     - **(E)** adopt and submit to Congress a conflict-of-interest policy applicable to members of the Board and employees of the Corporation;
-    - **(F)** establish a compensation plan for employees of the Corporation in accordance with subsection (i) of this section;
+    - **(F)** establish a compensation plan for employees of the Corporation in accordance with subsection (i);
     - **(G)** approve all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) of all managers and technical personnel that report directly to the chief executive officer (including any adjustment to compensation);
     - **(H)** ensure that all activities of the Corporation are carried out in compliance with applicable law;
     - **(I)** create an audit committee, composed solely of Board members independent of the management of the Corporation, which shall—

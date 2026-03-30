@@ -3,9 +3,9 @@ title: "Section 677aa - Procedure by Secretary upon non-agreement between mixed-
 usc_title: 25
 usc_section: "677aa"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 677aa"
-generated_at: "2026-03-30T04:53:04.670Z"
+generated_at: "2026-03-30T04:54:57.199Z"
 status: "active"
 ---
 

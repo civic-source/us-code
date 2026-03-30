@@ -3,9 +3,9 @@ title: "Section 591 - Reservation of Chippewa National Forest lands for Minnesot
 usc_title: 25
 usc_section: "591"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 591"
-generated_at: "2026-03-30T04:53:04.663Z"
+generated_at: "2026-03-30T04:54:57.193Z"
 status: "active"
 ---
 

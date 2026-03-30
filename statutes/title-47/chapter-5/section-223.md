@@ -3,9 +3,9 @@ title: "Section 223 - Obscene or harassing telephone calls in the District of Co
 usc_title: 47
 usc_section: "223"
 chapter: 5
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "47 U.S.C. § 223"
-generated_at: "2026-03-30T04:53:54.288Z"
+generated_at: "2026-03-30T04:55:55.617Z"
 status: "active"
 ---
 

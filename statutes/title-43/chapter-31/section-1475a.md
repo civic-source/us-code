@@ -3,9 +3,9 @@ title: "Section 1475a - Participation of non-Federal entities in contract negoti
 usc_title: 43
 usc_section: "1475a"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "43 U.S.C. § 1475a"
-generated_at: "2026-03-30T04:53:30.815Z"
+generated_at: "2026-03-30T04:55:37.469Z"
 status: "active"
 ---
 

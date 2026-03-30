@@ -3,9 +3,9 @@ title: "Section 9301to9309 - Repealed. Pub. L. 107–110, title X, § 1011(6) , 
 usc_title: 20
 usc_section: "9301to9309"
 chapter: 74
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "20 U.S.C. § 9301to9309"
-generated_at: "2026-03-30T04:52:57.240Z"
+generated_at: "2026-03-30T04:54:51.429Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16 - Comprehensive plans for development, utilization, and conse
 usc_title: 42
 usc_section: "16"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T04:53:51.120Z"
+generated_at: "2026-03-30T04:55:52.421Z"
 status: "active"
 ---
 

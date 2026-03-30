@@ -3,13 +3,13 @@ title: "Section 3171 - Temporary access"
 usc_title: 16
 usc_section: "3171"
 chapter: 51
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 3171"
-generated_at: "2026-03-30T04:53:00.072Z"
+generated_at: "2026-03-30T04:54:53.740Z"
 status: "active"
 ---
 
 # § 3171. Temporary access
 
 - **(a)** Notwithstanding any other provision of this Act or other law the Secretary shall authorize and permit temporary access by the State or a private landowner to or across any conservation system unit, national recreation area, national conservation area, the National Petroleum Reserve—Alaska or those public lands designated as wilderness study or managed to maintain the wilderness character or potential thereof, in order to permit the State or private landowner access to its land for purposes of survey, geophysical, exploratory, or other temporary uses thereof whenever he determines such access will not result in permanent harm to the resources of such unit, area, Reserve or lands.
-- **(b)** In providing temporary access pursuant to subsection (a) of this section, the Secretary may include such stipulations and conditions he deems necessary to insure that the private use of public lands is accomplished in a manner that is not inconsistent with the purposes for which the public lands are reserved and which insures that no permanent harm will result to the resources of the unit, area, Reserve or lands.
+- **(b)** In providing temporary access pursuant to subsection (a), the Secretary may include such stipulations and conditions he deems necessary to insure that the private use of public lands is accomplished in a manner that is not inconsistent with the purposes for which the public lands are reserved and which insures that no permanent harm will result to the resources of the unit, area, Reserve or lands.

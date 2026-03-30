@@ -3,9 +3,9 @@ title: "Section 31146 - Relationship to other laws"
 usc_title: 49
 usc_section: "31146"
 chapter: 311
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 31146"
-generated_at: "2026-03-30T04:54:02.058Z"
+generated_at: "2026-03-30T04:55:58.703Z"
 status: "active"
 ---
 

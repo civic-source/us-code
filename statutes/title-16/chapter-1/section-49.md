@@ -3,9 +3,9 @@ title: "Section 49 - Tennessee Valley Authority transfer funding"
 usc_title: 16
 usc_section: "49"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 49"
-generated_at: "2026-03-30T04:52:59.958Z"
+generated_at: "2026-03-30T04:54:53.624Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
   - **(5)** Savings from reductions in memberships and contributions.
   - **(6)** Increases in collections resulting from nonpower activities, including user fees.
   - **(7)** Increases in charges to private and public utilities both investor and cooperatively owned, as well as to direct load customers.
-- **(b)** Funds from the sources described in subsection (a) of this section shall be available notwithstanding section 11, 14, 15, or 29 [ 16 U.S.C. 831j , 831m, 831n, 831bb] or any other provision of the Tennessee Valley Authority Act of 1933 ( 16 U.S.C. 831 et seq.) or any provisions of the covenants contained in any power bonds issued by the Tennessee Valley Authority.
-- **(c)** The savings from and the revenue adjustment to the budget of the Tennessee Valley Authority for the first fiscal year of the transfer and each fiscal year thereafter shall be sufficient so that the net spending authority and resulting outlays to carry out activities with funding described in subsection (a) of this section shall not exceed $0 for the first fiscal year of the transfer and each fiscal year thereafter.
+- **(b)** Funds from the sources described in subsection (a) shall be available notwithstanding section 11, 14, 15, or 29 [ 16 U.S.C. 831j , 831m, 831n, 831bb] or any other provision of the Tennessee Valley Authority Act of 1933 ( 16 U.S.C. 831 et seq.) or any provisions of the covenants contained in any power bonds issued by the Tennessee Valley Authority.
+- **(c)** The savings from and the revenue adjustment to the budget of the Tennessee Valley Authority for the first fiscal year of the transfer and each fiscal year thereafter shall be sufficient so that the net spending authority and resulting outlays to carry out activities with funding described in subsection (a) shall not exceed $0 for the first fiscal year of the transfer and each fiscal year thereafter.
 - **(d)**
   - **(1)** Not later than 30 days after the date of transfer pursuant to section 460 lll –41 of this title, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts of reductions in spending and increases in receipts that are proposed to be made as a result of activities under this subsection during the first fiscal year of the transfer.
   - **(2)** Not later than 24 months after the effective date of the transfer, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts of reductions in spending and increases in receipts as a result of activities under this subsection during the first fiscal year of the transfer.

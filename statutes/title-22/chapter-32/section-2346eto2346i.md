@@ -3,9 +3,9 @@ title: "Section 2346eto2346i - Repealed. Pub. L. 99–83, title II, § 201(a) , 
 usc_title: 22
 usc_section: "2346eto2346i"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 2346eto2346i"
-generated_at: "2026-03-30T04:53:06.596Z"
+generated_at: "2026-03-30T04:55:00.617Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1453to1455 - Repealed. Pub. L. 98–213, § 16(c) –(f), Dec. 8
 usc_title: 48
 usc_section: "1453to1455"
 chapter: 10
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "48 U.S.C. § 1453to1455"
-generated_at: "2026-03-30T04:54:09.050Z"
+generated_at: "2026-03-30T04:55:55.250Z"
 status: "repealed"
 ---
 

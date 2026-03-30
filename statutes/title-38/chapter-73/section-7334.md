@@ -3,9 +3,9 @@ title: "Section 7334 - Regulations"
 usc_title: 38
 usc_section: "7334"
 chapter: 73
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "38 U.S.C. § 7334"
-generated_at: "2026-03-30T04:53:27.100Z"
+generated_at: "2026-03-30T04:55:35.105Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1607 - Seizure; value $500,000 or less, prohibited articles, tra
 usc_title: 19
 usc_section: "1607"
 chapter: 4
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "19 U.S.C. § 1607"
-generated_at: "2026-03-30T04:52:54.562Z"
+generated_at: "2026-03-30T04:54:49.203Z"
 status: "active"
 ---
 

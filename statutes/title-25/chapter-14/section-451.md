@@ -3,9 +3,9 @@ title: "Section 451 - Donations for Indians; use of gifts; annual report to Cong
 usc_title: 25
 usc_section: "451"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 451"
-generated_at: "2026-03-30T04:53:04.656Z"
+generated_at: "2026-03-30T04:54:57.185Z"
 status: "active"
 ---
 

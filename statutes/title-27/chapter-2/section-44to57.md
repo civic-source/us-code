@@ -3,9 +3,9 @@ title: "Section 44to57 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 St
 usc_title: 27
 usc_section: "44to57"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "27 U.S.C. § 44to57"
-generated_at: "2026-03-30T04:53:08.340Z"
+generated_at: "2026-03-30T04:55:02.248Z"
 status: "repealed"
 ---
 

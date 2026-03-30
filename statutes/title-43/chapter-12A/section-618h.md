@@ -3,9 +3,9 @@ title: "Section 618h - Termination of existing lease of Hoover Power Plant; less
 usc_title: 43
 usc_section: "618h"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "43 U.S.C. § 618h"
-generated_at: "2026-03-30T04:53:30.798Z"
+generated_at: "2026-03-30T04:55:37.453Z"
 status: "active"
 ---
 

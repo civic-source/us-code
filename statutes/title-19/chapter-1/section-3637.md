@@ -3,9 +3,9 @@ title: "Section 3637 - Repealed. Pub. L. 91–271, title III, § 321(h) , (i), J
 usc_title: 19
 usc_section: "3637"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "19 U.S.C. § 3637"
-generated_at: "2026-03-30T04:52:54.546Z"
+generated_at: "2026-03-30T04:54:49.186Z"
 status: "repealed"
 ---
 

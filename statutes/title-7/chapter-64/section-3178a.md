@@ -3,9 +3,9 @@ title: "Section 3178a - Nutrition monitoring"
 usc_title: 7
 usc_section: "3178a"
 chapter: 64
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 3178a"
-generated_at: "2026-03-30T04:52:40.977Z"
+generated_at: "2026-03-30T04:54:34.032Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 396d - Rules and regulations governing operations; limitations o
 usc_title: 25
 usc_section: "396d"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 396d"
-generated_at: "2026-03-30T04:53:04.652Z"
+generated_at: "2026-03-30T04:54:57.180Z"
 status: "active"
 ---
 

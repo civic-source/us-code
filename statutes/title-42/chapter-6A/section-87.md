@@ -3,9 +3,9 @@ title: "Section 87 - Severity of need index"
 usc_title: 42
 usc_section: "87"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 87"
-generated_at: "2026-03-30T04:53:50.905Z"
+generated_at: "2026-03-30T04:55:52.210Z"
 status: "active"
 ---
 

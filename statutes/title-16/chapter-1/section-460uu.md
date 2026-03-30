@@ -3,13 +3,13 @@ title: "Section 460uu - Establishment; description of area"
 usc_title: 16
 usc_section: "460uu"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 460uu"
-generated_at: "2026-03-30T04:52:59.950Z"
+generated_at: "2026-03-30T04:54:53.616Z"
 status: "active"
 ---
 
 # § 460uu. Establishment; description of area
 
 - **(a)** In order to preserve, for the benefit and enjoyment of present and future generations, that area in western New Mexico containing the nationally significant Grants Lava Flow, the Las Ventanas Chacoan Archeological Site, and other significant natural and cultural resources, there is hereby established the El Malpais National Monument (hereinafter referred to as the “monument”). The monument shall consist of approximately 114,000 acres as generally depicted on the map entitled “El Malpais National Monument and National Conservation Area” numbered NM–ELMA–80,001–B and dated May 1987. The map shall be on file and available for public inspection in the offices of the Director of the National Park Service, Department of the Interior.
-- **(b)** As soon as practicable after December 31, 1987 , the Secretary of the Interior (hereinafter referred to as the “Secretary”) shall file a legal description of the monument with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and in the map referred to in subsection (a) of this section. The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+- **(b)** As soon as practicable after December 31, 1987 , the Secretary of the Interior (hereinafter referred to as the “Secretary”) shall file a legal description of the monument with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and in the map referred to in subsection (a). The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.

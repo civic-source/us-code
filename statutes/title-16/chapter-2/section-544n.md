@@ -3,9 +3,9 @@ title: "Section 544n - Authorization of appropriations"
 usc_title: 16
 usc_section: "544n"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 544n"
-generated_at: "2026-03-30T04:52:59.977Z"
+generated_at: "2026-03-30T04:54:53.644Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(2)** For the purpose of construction of recreation facilities pursuant to section 544e(d) of this title : $10,000,000.
   - **(3)** For the purpose of preparing a program and restoring and reconstructing the Old Columbia River Scenic Highway, Oregon pursuant to section 544j of this title : $2,800,000.
   - **(4)** For the purpose of providing economic development grants pursuant to section 544i of this title : $5,000,000 for each State: Provided , That funds authorized to be appropriated pursuant to this paragraph shall be available for the acquisition of lands and interests therein pursuant to section 544h of this title if, at the expiration of three years, the States have failed to carry out their respective function pursuant to section 544c of this title .
-- **(c)** Funds appropriated under subsections (a)(2) and (b) of this section shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to section 544f of this title .
+- **(c)** Funds appropriated under subsections (a)(2) and (b) shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to section 544f of this title .

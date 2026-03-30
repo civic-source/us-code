@@ -3,9 +3,9 @@ title: "Section 4061to4063 - Repealed. Pub. L. 98–369, div. A, title VII, § 7
 usc_title: 26
 usc_section: "4061to4063"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 4061to4063"
-generated_at: "2026-03-30T04:53:16.606Z"
+generated_at: "2026-03-30T04:55:21.292Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2052 - Senate restaurant deficit fund; deposit of proceeds from 
 usc_title: 2
 usc_section: "2052"
 chapter: 30
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "2 U.S.C. § 2052"
-generated_at: "2026-03-30T04:52:00.288Z"
+generated_at: "2026-03-30T04:54:27.837Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1378 - Taxable year of S corporation"
 usc_title: 26
 usc_section: "1378"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 1378"
-generated_at: "2026-03-30T04:53:16.582Z"
+generated_at: "2026-03-30T04:55:21.178Z"
 status: "active"
 ---
 

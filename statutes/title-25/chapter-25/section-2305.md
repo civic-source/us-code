@@ -3,9 +3,9 @@ title: "Section 2305 - Discharge and barring of claims"
 usc_title: 25
 usc_section: "2305"
 chapter: 25
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 2305"
-generated_at: "2026-03-30T04:53:04.715Z"
+generated_at: "2026-03-30T04:54:57.245Z"
 status: "active"
 ---
 

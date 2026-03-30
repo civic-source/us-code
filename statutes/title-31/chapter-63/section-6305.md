@@ -3,9 +3,9 @@ title: "Section 6305 - Using cooperative agreements"
 usc_title: 31
 usc_section: "6305"
 chapter: 63
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "31 U.S.C. § 6305"
-generated_at: "2026-03-30T04:53:22.385Z"
+generated_at: "2026-03-30T04:55:26.242Z"
 status: "active"
 ---
 

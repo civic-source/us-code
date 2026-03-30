@@ -3,9 +3,9 @@ title: "Section 590 - Rules and regulations"
 usc_title: 25
 usc_section: "590"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 590"
-generated_at: "2026-03-30T04:53:04.663Z"
+generated_at: "2026-03-30T04:54:57.193Z"
 status: "active"
 ---
 

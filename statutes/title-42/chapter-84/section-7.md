@@ -3,9 +3,9 @@ title: "Section 7 - Physicians services"
 usc_title: 42
 usc_section: "7"
 chapter: 84
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T04:53:51.264Z"
+generated_at: "2026-03-30T04:55:52.560Z"
 status: "active"
 ---
 

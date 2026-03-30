@@ -3,9 +3,9 @@ title: "Section 1362 - Definitions"
 usc_title: 16
 usc_section: "1362"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1362"
-generated_at: "2026-03-30T04:53:00.036Z"
+generated_at: "2026-03-30T04:54:53.703Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ For the purposes of this chapter—
     - **(A)** Except as provided in subparagraph (B), the term “Secretary” means—
       - **(i)** the Secretary of the department in which the National Oceanic and Atmospheric Administration is operating, as to all responsibility, authority, funding, and duties under this chapter with respect to members of the order Cetacea and members, other than walruses, of the order Pinnipedia, and
       - **(ii)** the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
-    - **(B)** in 1 1 So in original. Probably should be capitalized. section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 of this title ) the term “Secretary” means the Secretary of Commerce.
+    - **(B)** in 1 1 So in original. Probably should be capitalized. section 1387 of this title and subchapter V (other than section 1421f–1 of this title ) the term “Secretary” means the Secretary of Commerce.
   - **(13)** The term “take” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
   - **(14)** The term “United States” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and Northern Mariana Islands.
   - **(15)** The term “waters under the jurisdiction of the United States” means—

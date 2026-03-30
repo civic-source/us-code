@@ -3,9 +3,9 @@ title: "Section 4q - Opposition to assistance by international financial institu
 usc_title: 22
 usc_section: "4q"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 4q"
-generated_at: "2026-03-30T04:53:06.551Z"
+generated_at: "2026-03-30T04:55:00.574Z"
 status: "active"
 ---
 

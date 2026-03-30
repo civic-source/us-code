@@ -3,9 +3,9 @@ title: "Section 5 - Advisory Committee"
 usc_title: 16
 usc_section: "5"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T04:52:59.994Z"
+generated_at: "2026-03-30T04:54:53.662Z"
 status: "active"
 ---
 
@@ -24,9 +24,9 @@ status: "active"
   - **(5)** One member shall be a range management specialist representing institutions of higher education (as defined in section 1001 of title 20 ) in the State of Kansas.
 - **(d)**
   - **(1)** Each member of the Advisory Committee shall be appointed to serve for a term of 3 years, except that the initial members shall be appointed as follows:
-    - **(A)** Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c) of this section, to serve for a term of 3 years.
-    - **(B)** Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c) of this section, to serve for a term of 4 years.
-    - **(C)** Five members shall be appointed, one each from paragraphs (1) through (5) of subsection (c) of this section, to serve for a term of 5 years.
+    - **(A)** Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c), to serve for a term of 3 years.
+    - **(B)** Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c), to serve for a term of 4 years.
+    - **(C)** Five members shall be appointed, one each from paragraphs (1) through (5) of subsection (c), to serve for a term of 5 years.
   - **(2)** Each member may be reappointed to serve a subsequent term.
   - **(3)** Each member shall continue to serve after the expiration of the term of the member until a successor is appointed.
   - **(4)** A vacancy on the Advisory Committee shall be filled in the same manner as an original appointment is made. The member appointed to fill the vacancy shall serve until the expiration of the term in which the vacancy occurred.

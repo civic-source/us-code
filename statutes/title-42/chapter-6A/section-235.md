@@ -3,9 +3,9 @@ title: "Section 235 - Administration of grants in multigrant proj­ects; promulg
 usc_title: 42
 usc_section: "235"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 235"
-generated_at: "2026-03-30T04:53:50.804Z"
+generated_at: "2026-03-30T04:55:52.115Z"
 status: "active"
 ---
 

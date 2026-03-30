@@ -3,9 +3,9 @@ title: "Section 2216 - Trust and restricted land transactions"
 usc_title: 25
 usc_section: "2216"
 chapter: 24
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 2216"
-generated_at: "2026-03-30T04:53:04.715Z"
+generated_at: "2026-03-30T04:54:57.244Z"
 status: "active"
 ---
 

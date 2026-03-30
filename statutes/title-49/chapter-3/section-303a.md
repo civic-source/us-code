@@ -3,9 +3,9 @@ title: "Section 303a - Development of water transportation"
 usc_title: 49
 usc_section: "303a"
 chapter: 3
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 303a"
-generated_at: "2026-03-30T04:54:02.017Z"
+generated_at: "2026-03-30T04:55:58.662Z"
 status: "active"
 ---
 

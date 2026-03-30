@@ -3,9 +3,9 @@ title: "Section 7158 - Naval reactor and military application programs"
 usc_title: 42
 usc_section: "7158"
 chapter: 84
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 7158"
-generated_at: "2026-03-30T04:53:51.257Z"
+generated_at: "2026-03-30T04:55:52.553Z"
 status: "active"
 ---
 

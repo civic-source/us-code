@@ -3,9 +3,9 @@ title: "Section 70507 - Forfeitures"
 usc_title: 46
 usc_section: "70507"
 chapter: 705
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "46 U.S.C. § 70507"
-generated_at: "2026-03-30T04:53:55.000Z"
+generated_at: "2026-03-30T04:55:56.381Z"
 status: "active"
 ---
 

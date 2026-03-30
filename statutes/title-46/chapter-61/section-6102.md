@@ -3,9 +3,9 @@ title: "Section 6102 - State marine casualty reporting system"
 usc_title: 46
 usc_section: "6102"
 chapter: 61
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "46 U.S.C. § 6102"
-generated_at: "2026-03-30T04:53:54.974Z"
+generated_at: "2026-03-30T04:55:56.355Z"
 status: "active"
 ---
 

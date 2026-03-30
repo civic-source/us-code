@@ -3,9 +3,9 @@ title: "Section 374 - Maintenance and operation of equipment"
 usc_title: 10
 usc_section: "374"
 chapter: 18
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 374"
-generated_at: "2026-03-30T04:52:15.592Z"
+generated_at: "2026-03-30T04:54:37.427Z"
 status: "active"
 ---
 

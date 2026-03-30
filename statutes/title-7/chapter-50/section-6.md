@@ -3,9 +3,9 @@ title: "Section 6 - Rural endowment loans program"
 usc_title: 7
 usc_section: "6"
 chapter: 50
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T04:52:40.952Z"
+generated_at: "2026-03-30T04:54:34.008Z"
 status: "active"
 ---
 

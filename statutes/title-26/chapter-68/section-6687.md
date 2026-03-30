@@ -3,9 +3,9 @@ title: "Section 6687 - Repealed. Pub. L. 101–239, title VII, § 7711(b)(1) , D
 usc_title: 26
 usc_section: "6687"
 chapter: 68
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 6687"
-generated_at: "2026-03-30T04:53:16.657Z"
+generated_at: "2026-03-30T04:55:21.347Z"
 status: "repealed"
 ---
 

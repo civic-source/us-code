@@ -3,9 +3,9 @@ title: "Section 1i - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "1i"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1i"
-generated_at: "2026-03-30T04:52:59.877Z"
+generated_at: "2026-03-30T04:54:53.543Z"
 status: "repealed"
 ---
 

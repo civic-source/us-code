@@ -3,9 +3,9 @@ title: "Section 284d - Cooperative agreement with Foundation for presentation of
 usc_title: 16
 usc_section: "284d"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 284d"
-generated_at: "2026-03-30T04:52:59.894Z"
+generated_at: "2026-03-30T04:54:53.561Z"
 status: "active"
 ---
 

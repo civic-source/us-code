@@ -3,9 +3,9 @@ title: "Section 670a - Cooperative plan for conservation and rehabilitation"
 usc_title: 16
 usc_section: "670a"
 chapter: 5
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 670a"
-generated_at: "2026-03-30T04:52:59.989Z"
+generated_at: "2026-03-30T04:54:53.658Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(i)** affects any provision of a Federal law governing the conservation or protection of fish and wildlife resources; or
       - **(ii)** enlarges or diminishes the responsibility and authority of any State for the protection and management of fish and resident wildlife; or
     - **(B)** except as specifically provided in the other provisions of this section and in section 670b of this title , authorizes the Secretary of a military department to require a Federal license or permit to hunt, fish, or trap on a military installation.
-- **(b)** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—
+- **(b)** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—
   - **(1)** shall, to the extent appropriate and applicable, provide for—
     - **(A)** fish and wildlife management, land management, forest management, and fish- and wildlife-oriented recreation;
     - **(B)** fish and wildlife habitat enhancement or modifications;
@@ -45,10 +45,10 @@ status: "active"
   - **(3)** may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
     - **(A)** the Commanding Officer of the installation or persons designated by that Officer are authorized to enforce such special hunting and fishing permits and to collect, spend, administer, and account for fees for the permits, acting as agent or agents for the State if the integrated natural resources management plan so provides, and
     - **(B)** the fees collected under this paragraph may not be expended with respect to other than the military installation on which collected, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes.
-- **(c)** After an integrated natural resources management plan is agreed to under subsection (a) of this section—
+- **(c)** After an integrated natural resources management plan is agreed to under subsection (a)—
   - **(1)** no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
   - **(2)** no leasing of land that is within the installation may be made under section 2667 of such title 10;
-- **(d)** With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a) of this section—
+- **(d)** With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a)—
   - **(1)** neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
   - **(2)** priority shall be given to the entering into of contracts for the procurement of such implementation and enforcement services with Federal and State agencies having responsibility for the conservation or management of fish or wildlife.
 - **(e)** Integrated natural resources management plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.

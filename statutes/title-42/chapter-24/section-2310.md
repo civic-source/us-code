@@ -3,9 +3,9 @@ title: "Section 2310 - Repossession of property; powers of Commission"
 usc_title: 42
 usc_section: "2310"
 chapter: 24
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 2310"
-generated_at: "2026-03-30T04:53:51.143Z"
+generated_at: "2026-03-30T04:55:52.444Z"
 status: "active"
 ---
 

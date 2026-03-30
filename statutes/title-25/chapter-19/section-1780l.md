@@ -3,9 +3,9 @@ title: "Section 1780l - Distribution of funds plan"
 usc_title: 25
 usc_section: "1780l"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 1780l"
-generated_at: "2026-03-30T04:53:04.706Z"
+generated_at: "2026-03-30T04:54:57.235Z"
 status: "active"
 ---
 

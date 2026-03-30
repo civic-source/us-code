@@ -3,9 +3,9 @@ title: "Section 2105 - Urban and community forestry assistance"
 usc_title: 16
 usc_section: "2105"
 chapter: 41
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 2105"
-generated_at: "2026-03-30T04:53:00.062Z"
+generated_at: "2026-03-30T04:54:53.730Z"
 status: "active"
 ---
 
@@ -45,13 +45,13 @@ status: "active"
   - **(5)** increase public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments and expand knowledge of the ecological relationships and benefits of trees and related resources in these environments.
 - **(e)** The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
 - **(f)**
-  - **(1)** The Secretary shall establish an urban and community forestry challenge cost-share program. Funds or other support shall be provided under such program to eligible communities and organizations, on a competitive basis, for urban and community forestry projects. The Secretary shall annually make awards under the program in accordance with criteria developed in consultation with, and after consideration of recommendations received from, the National Urban and Community Forestry Advisory Council established under subsection (g) of this section. Each State forester or equivalent State official may make recommendations to the Secretary for awards under the program for project proposals in their State which meet such criteria. Awards shall be consistent with the cost-share requirements of this section.
+  - **(1)** The Secretary shall establish an urban and community forestry challenge cost-share program. Funds or other support shall be provided under such program to eligible communities and organizations, on a competitive basis, for urban and community forestry projects. The Secretary shall annually make awards under the program in accordance with criteria developed in consultation with, and after consideration of recommendations received from, the National Urban and Community Forestry Advisory Council established under subsection (g). Each State forester or equivalent State official may make recommendations to the Secretary for awards under the program for project proposals in their State which meet such criteria. Awards shall be consistent with the cost-share requirements of this section.
   - **(2)** The Federal share of support for a project provided under this subsection may not exceed 50 percent of the support for that project and shall be provided on a matching basis. The non-Federal share of such support may be in the form of cash, services, or in-kind contributions.
 - **(g)**
   - **(1)** The Secretary shall establish a National Urban and Community Forestry Advisory Council (hereafter in this section referred to as the “Council”) for the purpose of—
     - **(A)** developing a national urban and community forestry action plan;
     - **(B)** evaluating the implementation of that plan; and
-    - **(C)** developing criteria for, and submitting recommendations with respect to, the urban and community forestry challenge cost-share program under subsection (f) of this section.
+    - **(C)** developing criteria for, and submitting recommendations with respect to, the urban and community forestry challenge cost-share program under subsection (f).
   - **(2)**
     - **(A)** The Council shall be composed of 15 members appointed by the Secretary, as follows:
       - **(i)** 2 members representing national nonprofit forestry and conservation citizen organizations,
@@ -85,7 +85,7 @@ status: "active"
       - **(i)** a review of all ongoing research associated with urban and community forests, arboricultural practices, and the economic, social, and psychological benefits of trees and forest cover in urban and community environments being conducted by the Forest Service, other Federal agencies, and associated land grant colleges and universities;
       - **(ii)** recommendations for new and expanded research efforts directed toward urban and community forestry concerns; and
       - **(iii)** a summary of research priorities and an estimate of the funds needed to implement such research, on an annual basis, for the next 10 years.
-    - **(E)** Proposed criteria for evaluating proposed projects under the urban and community forestry challenge cost share program under subsection (f) of this section, with special emphasis given to projects that would demonstrate the benefits of improved forest management (including the maintenance and establishment of forest cover and trees) in urban areas and communities.
+    - **(E)** Proposed criteria for evaluating proposed projects under the urban and community forestry challenge cost share program under subsection (f), with special emphasis given to projects that would demonstrate the benefits of improved forest management (including the maintenance and establishment of forest cover and trees) in urban areas and communities.
     - **(F)** An estimate of the resources needed to implement the National Urban and Community Forestry Action Plan for the succeeding 10 fiscal years.
   - **(4)** The plan may be amended by a majority of the Council members. Such amendments shall be incorporated into the Council’s annual review of the plan submitted to the Secretary pursuant to paragraph (5) of this subsection.
   - **(5)** The Council shall submit the plan to the Secretary and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate upon its completion. Beginning no later than one year after the plan is submitted and annually thereafter, the Council shall submit a review of the plan to the Secretary no later than December 31. The review shall consist of—
@@ -94,7 +94,7 @@ status: "active"
     - **(C)** the Council’s recommendations for the urban and community forestry challenge cost share projects to be funded during the succeeding year.
   - **(6)** Upon request of the Council, the Secretary is authorized to detail, on a reimbursable basis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
 - **(h)** For the purposes of this section—
-  - **(1)** the term “Council” means the National Urban and Community Forestry Advisory Council established under subsection (g) of this section;
-  - **(2)** the term “plan” means the National Urban and Community Forestry Action Plan developed under subsection (g)(3) of this section; and
+  - **(1)** the term “Council” means the National Urban and Community Forestry Advisory Council established under subsection (g);
+  - **(2)** the term “plan” means the National Urban and Community Forestry Action Plan developed under subsection (g)(3); and
   - **(3)** the term “urban and community area” includes cities, their suburbs, and towns.
 - **(i)** There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.

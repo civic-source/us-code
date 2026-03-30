@@ -3,9 +3,9 @@ title: "Section 1 - Deadline for responses to questions from congressional commi
 usc_title: 22
 usc_section: "1"
 chapter: 38
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T04:53:06.611Z"
+generated_at: "2026-03-30T04:55:00.633Z"
 status: "active"
 ---
 

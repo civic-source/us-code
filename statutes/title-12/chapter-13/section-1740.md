@@ -3,9 +3,9 @@ title: "Section 1740 - Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 
 usc_title: 12
 usc_section: "1740"
 chapter: 13
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 1740"
-generated_at: "2026-03-30T04:52:48.692Z"
+generated_at: "2026-03-30T04:54:42.665Z"
 status: "repealed"
 ---
 

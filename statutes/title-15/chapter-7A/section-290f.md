@@ -3,9 +3,9 @@ title: "Section 290f - Authorization of appropriations"
 usc_title: 15
 usc_section: "290f"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 290f"
-generated_at: "2026-03-30T04:52:46.562Z"
+generated_at: "2026-03-30T04:54:44.576Z"
 status: "active"
 ---
 

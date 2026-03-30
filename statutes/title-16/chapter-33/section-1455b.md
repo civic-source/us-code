@@ -3,32 +3,32 @@ title: "Section 1455b - Protecting coastal waters"
 usc_title: 16
 usc_section: "1455b"
 chapter: 33
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1455b"
-generated_at: "2026-03-30T04:53:00.044Z"
+generated_at: "2026-03-30T04:54:53.712Z"
 status: "active"
 ---
 
 # § 1455b. Protecting coastal waters
 
 - **(a)**
-  - **(1)** Not later than 30 months after the date of the publication of final guidance under subsection (g) of this section, each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1455 ] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
+  - **(1)** Not later than 30 months after the date of the publication of final guidance under subsection (g), each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1455 ] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
   - **(2)** A State program under this section shall be coordinated closely with State and local water quality plans and programs developed pursuant to sections 1288, 1313, 1329, and 1330 of title 33 and with State plans developed pursuant to the Coastal Zone Management Act of 1972, as amended by this Act [ 16 U.S.C. 1451 et seq.]. The program shall serve as an update and expansion of the State nonpoint source management program developed under section 1329 of title 33 , as the program under that section relates to land and water uses affecting coastal waters.
-- **(b)** Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
+- **(b)** Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g), to protect coastal waters generally, and shall also contain the following:
   - **(1)** The identification of, and a continuing process for identifying, land uses which, individually or cumulatively, may cause or contribute significantly to a degradation of—
     - **(A)** those coastal waters where there is a failure to attain or maintain applicable water quality standards or protect designated uses, as determined by the State pursuant to its water quality planning processes; or
     - **(B)** those coastal waters that are threatened by reasonably foreseeable increases in pollution loadings from new or expanding sources.
-  - **(2)** The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+  - **(2)** The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
   - **(3)** The implementation and continuing revision from time to time of additional management measures applicable to the land uses and areas identified pursuant to paragraphs (1) and (2) that are necessary to achieve and maintain applicable water quality standards under section 1313 of title 33 and protect designated uses.
   - **(4)** The provision of technical and other assistance to local governments and the public for implementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstration projects, and other innovations to protect coastal water quality and designated uses.
   - **(5)** Opportunities for public participation in all aspects of the program, including the use of public notices and opportunities for comment, nomination procedures, public hearings, technical and financial assistance, public education, and other means.
   - **(6)** The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
-  - **(7)** A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e) of this section. If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
+  - **(7)** A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e). If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
 - **(c)**
   - **(1)** Within 6 months after the date of submission by a State of a program pursuant to this section, the Secretary and the Administrator shall jointly review the program. The program shall be approved if—
     - **(A)** the Secretary determines that the portions of the program under the authority of the Secretary meet the requirements of this section and the Administrator concurs with that determination; and
     - **(B)** the Administrator determines that the portions of the program under the authority of the Administrator meet the requirements of this section and the Secretary concurs with that determination.
-  - **(2)** If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b) of this section, through—
+  - **(2)** If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b), through—
     - **(A)** changes to the State plan for control of nonpoint source pollution approved under section 1329 of title 33 ; and
     - **(B)** changes to the State coastal zone management program developed under section 306 of the Coastal Zone Management Act of 1972, as amended by this Act [ 16 U.S.C. 1455 ].
   - **(3)** If the Secretary finds that a coastal State has failed to submit an approvable program as required by this section, the Secretary shall withhold for each fiscal year until such a program is submitted a portion of grants otherwise available to the State for the fiscal year under section 306 of the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1455 ], as follows:
@@ -71,8 +71,8 @@ status: "active"
 - **(h)**
   - **(1)** There is authorized to be appropriated to the Administrator for use for carrying out this section not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
   - **(2)**
-    - **(A)** Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) 1 1 See References in Text note below. of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f) of this section.
-    - **(B)** There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) of this section not more than—
+    - **(A)** Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) 1 1 See References in Text note below. of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
+    - **(B)** There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
       - **(i)** $6,000,000 for fiscal year 1992;
       - **(ii)** $12,000,000 for fiscal year 1993;
       - **(iii)** $12,000,000 for fiscal year 1994; and

@@ -3,9 +3,9 @@ title: "Section 1817 - Assessments"
 usc_title: 12
 usc_section: "1817"
 chapter: 16
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 1817"
-generated_at: "2026-03-30T04:52:48.705Z"
+generated_at: "2026-03-30T04:54:42.677Z"
 status: "active"
 ---
 

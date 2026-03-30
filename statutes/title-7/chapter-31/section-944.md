@@ -3,9 +3,9 @@ title: "Section 944 - Governor of telephone bank; functions, powers, and duties"
 usc_title: 7
 usc_section: "944"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 944"
-generated_at: "2026-03-30T04:52:40.818Z"
+generated_at: "2026-03-30T04:54:33.960Z"
 status: "active"
 ---
 

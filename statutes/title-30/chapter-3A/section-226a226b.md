@@ -3,9 +3,9 @@ title: "Section 226a226b - Repealed. Aug. 8, 1946, ch. 916, § 14 , 60 Stat. 958
 usc_title: 30
 usc_section: "226a226b"
 chapter: 3
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "30 U.S.C. § 226a226b"
-generated_at: "2026-03-30T04:53:09.022Z"
+generated_at: "2026-03-30T04:55:03.335Z"
 status: "repealed"
 ---
 

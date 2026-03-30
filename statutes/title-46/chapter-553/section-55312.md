@@ -3,9 +3,9 @@ title: "Section 55312 - Determining prevailing world market price"
 usc_title: 46
 usc_section: "55312"
 chapter: 553
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "46 U.S.C. § 55312"
-generated_at: "2026-03-30T04:53:54.995Z"
+generated_at: "2026-03-30T04:55:56.375Z"
 status: "active"
 ---
 

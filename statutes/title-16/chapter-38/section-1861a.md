@@ -3,9 +3,9 @@ title: "Section 1861a - Transition to sustainable fisheries"
 usc_title: 16
 usc_section: "1861a"
 chapter: 38
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1861a"
-generated_at: "2026-03-30T04:53:00.059Z"
+generated_at: "2026-03-30T04:54:53.727Z"
 status: "active"
 ---
 
@@ -44,9 +44,9 @@ status: "active"
   - **(1)** The program may be funded by any combination of amounts—
     - **(A)** available under clause (iv) of section 713c–3(b)(1)(A) of title 15 ;
     - **(B)** appropriated for the purposes of this section;
-    - **(C)** provided by an industry fee system established under subsection (d) of this section and in accordance with section 53735 of title 46 ; or
+    - **(C)** provided by an industry fee system established under subsection (d) and in accordance with section 53735 of title 46 ; or
     - **(D)** provided from any State or other public sources or private or non-profit organizations.
-  - **(2)** All funds for the program, including any fees established under subsection (d) of this section, shall be paid into the fishing capacity reduction fund established under section 53735 of title 46 .
+  - **(2)** All funds for the program, including any fees established under subsection (d), shall be paid into the fishing capacity reduction fund established under section 53735 of title 46 .
 - **(d)**
   - **(1)**
     - **(A)** If an industry fee system is necessary to fund the program, the Secretary may conduct a referendum on such system. Prior to the referendum, the Secretary shall—

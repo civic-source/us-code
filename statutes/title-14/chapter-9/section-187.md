@@ -3,9 +3,9 @@ title: "Section 187 - Permanent commissioned teaching staff; composition"
 usc_title: 14
 usc_section: "187"
 chapter: 9
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "14 U.S.C. § 187"
-generated_at: "2026-03-30T04:52:43.310Z"
+generated_at: "2026-03-30T04:54:39.579Z"
 status: "active"
 ---
 

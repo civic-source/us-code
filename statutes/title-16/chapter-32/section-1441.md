@@ -3,9 +3,9 @@ title: "Section 1441 - Special use permits"
 usc_title: 16
 usc_section: "1441"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1441"
-generated_at: "2026-03-30T04:53:00.043Z"
+generated_at: "2026-03-30T04:54:53.710Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary may issue special use permits which authorize the conduct of specific activities in a national marine sanctuary if the Secretary determines such authorization is necessary—
   - **(1)** to establish conditions of access to and use of any sanctuary resource; or
   - **(2)** to promote public use and understanding of a sanctuary resource.
-- **(b)** The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a) of this section.
+- **(b)** The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a).
 - **(c)** A permit issued under this section—
   - **(1)** shall authorize the conduct of an activity only if that activity is compatible with the purposes for which the sanctuary is designated and with protection of sanctuary resources;
   - **(2)** shall not authorize the conduct of any activity for a period of more than 5 years unless renewed by the Secretary;

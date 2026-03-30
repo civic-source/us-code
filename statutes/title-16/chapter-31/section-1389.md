@@ -3,9 +3,9 @@ title: "Section 1389 - Pacific Coast Task Force; Gulf of Maine"
 usc_title: 16
 usc_section: "1389"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1389"
-generated_at: "2026-03-30T04:53:00.040Z"
+generated_at: "2026-03-30T04:54:53.707Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(C)** whether additional facilities exist, or could be reasonably developed, that could improve escapement for anadromous fish; and
     - **(D)** other issues the Secretary considers relevant.
   - **(2)** Subject to the availability of appropriations, the Secretary may, not later than 18 months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
-  - **(3)** The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d) of this section.
+  - **(3)** The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d).
 - **(h)** The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advise the Secretary on issues or problems regarding pinnipeds interacting in a dangerous or damaging manner with aquaculture resources in the Gulf of Maine. No later than 2 years from April 30, 1994 , the Secretary shall after notice and opportunity for public comment submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing recommended available alternatives to mitigate such interactions.
 - **(i)**
   - **(1)** Any task force established under this section—

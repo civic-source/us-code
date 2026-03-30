@@ -3,9 +3,9 @@ title: "Section 5560 - International cooperation in solar energy research and pr
 usc_title: 42
 usc_section: "5560"
 chapter: 71
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 5560"
-generated_at: "2026-03-30T04:53:51.212Z"
+generated_at: "2026-03-30T04:55:52.512Z"
 status: "active"
 ---
 

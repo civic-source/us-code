@@ -3,9 +3,9 @@ title: "Section 1013 - Basis of property included in inventory"
 usc_title: 26
 usc_section: "1013"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 1013"
-generated_at: "2026-03-30T04:53:16.568Z"
+generated_at: "2026-03-30T04:55:21.163Z"
 status: "active"
 ---
 

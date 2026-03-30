@@ -3,9 +3,9 @@ title: "Section 7653 - Annual reports on prevention of mother-to-child transmiss
 usc_title: 22
 usc_section: "7653"
 chapter: 83
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 7653"
-generated_at: "2026-03-30T04:53:06.670Z"
+generated_at: "2026-03-30T04:55:00.689Z"
 status: "active"
 ---
 

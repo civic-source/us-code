@@ -3,9 +3,9 @@ title: "Section 463c - Gift of lands by Arizona"
 usc_title: 25
 usc_section: "463c"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 463c"
-generated_at: "2026-03-30T04:53:04.659Z"
+generated_at: "2026-03-30T04:54:57.188Z"
 status: "active"
 ---
 

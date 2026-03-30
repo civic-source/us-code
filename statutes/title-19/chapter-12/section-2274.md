@@ -3,9 +3,9 @@ title: "Section 2274 - Study and notifications regarding certain affirmative det
 usc_title: 19
 usc_section: "2274"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-03-30T04:52:54.580Z"
+generated_at: "2026-03-30T04:54:49.221Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 106to106c - Repealed. Oct. 14, 1940, ch. 876 , title I, subch. V
 usc_title: 8
 usc_section: "106to106c"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "8 U.S.C. § 106to106c"
-generated_at: "2026-03-30T04:52:16.691Z"
+generated_at: "2026-03-30T04:54:32.001Z"
 status: "repealed"
 ---
 

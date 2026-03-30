@@ -3,9 +3,9 @@ title: "Section 803 - Conditions of license generally"
 usc_title: 16
 usc_section: "803"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 803"
-generated_at: "2026-03-30T04:53:00.003Z"
+generated_at: "2026-03-30T04:54:53.671Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ All licenses issued under this subchapter shall be on the following conditions:
       - **(ii)** The powerplant shall remain in the exclusive control, possession, and ownership of the licensee concerned.
       - **(iii)** All revenue from the powerplant and from the use, sale, or disposal of electric energy from the powerplant shall be, and remain, the property of such licensee.
     - **(C)** The contract is an amendatory, supplemental and replacement contract between the United States and: (i) the Quincy-Columbia Basin Irrigation District (Contract No. 14–06–100–6418); (ii) the East Columbia Basin Irrigation District (Contract No. 14–06–100–6419); or, (iii) the South Columbia Basin Irrigation District (Contract No. 14–06–100–6420).
-  - **(2)** In the case of licenses involving the use of Government dams or other structures owned by the United States, the charges fixed (or readjusted) by the Commission under paragraph (1) for the use of such dams or structures shall not exceed 1 mill per kilowatt-hour for the first 40 gigawatt-hours of energy a project produces in any year, 1½ mills per kilowatt-hour for over 40 up to and including 80 gigawatt-hours in any year, and 2 mills per kilowatt-hour for any energy the project produces over 80 gigawatt-hours in any year. Except as provided in subsection (f) of this section, such charge shall be the only charge assessed by any agency of the United States for the use of such dams or structures.
+  - **(2)** In the case of licenses involving the use of Government dams or other structures owned by the United States, the charges fixed (or readjusted) by the Commission under paragraph (1) for the use of such dams or structures shall not exceed 1 mill per kilowatt-hour for the first 40 gigawatt-hours of energy a project produces in any year, 1½ mills per kilowatt-hour for over 40 up to and including 80 gigawatt-hours in any year, and 2 mills per kilowatt-hour for any energy the project produces over 80 gigawatt-hours in any year. Except as provided in subsection (f), such charge shall be the only charge assessed by any agency of the United States for the use of such dams or structures.
   - **(3)** The provisions of paragraph (2) shall apply with respect to—
     - **(A)** all licenses issued after October 16, 1986 ; and
     - **(B)** all licenses issued before October 16, 1986 , which—

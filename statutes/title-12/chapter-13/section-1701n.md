@@ -3,9 +3,9 @@ title: "Section 1701n - Reduction of vulnerability of congested urban areas to e
 usc_title: 12
 usc_section: "1701n"
 chapter: 13
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 1701n"
-generated_at: "2026-03-30T04:52:48.666Z"
+generated_at: "2026-03-30T04:54:42.641Z"
 status: "active"
 ---
 

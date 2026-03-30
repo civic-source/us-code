@@ -3,9 +3,9 @@ title: "Section 9908 - Application and plan"
 usc_title: 42
 usc_section: "9908"
 chapter: 106
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 9908"
-generated_at: "2026-03-30T04:53:51.334Z"
+generated_at: "2026-03-30T04:55:52.628Z"
 status: "active"
 ---
 

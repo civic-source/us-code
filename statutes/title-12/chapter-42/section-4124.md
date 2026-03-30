@@ -3,9 +3,9 @@ title: "Section 4124 - Authorization of appropriations"
 usc_title: 12
 usc_section: "4124"
 chapter: 42
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 4124"
-generated_at: "2026-03-30T04:52:48.760Z"
+generated_at: "2026-03-30T04:54:42.728Z"
 status: "active"
 ---
 

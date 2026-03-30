@@ -3,9 +3,9 @@ title: "Section 1777 - Findings and purposes"
 usc_title: 25
 usc_section: "1777"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 1777"
-generated_at: "2026-03-30T04:53:04.703Z"
+generated_at: "2026-03-30T04:54:57.233Z"
 status: "active"
 ---
 

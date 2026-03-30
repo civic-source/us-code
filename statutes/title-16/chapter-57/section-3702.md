@@ -3,9 +3,9 @@ title: "Section 3702 - Board of Directors of Foundation"
 usc_title: 16
 usc_section: "3702"
 chapter: 57
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 3702"
-generated_at: "2026-03-30T04:53:00.078Z"
+generated_at: "2026-03-30T04:54:53.746Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(b)**
   - **(1)** The Director of the United States Fish and Wildlife Service and the Under Secretary of Commerce for Oceans and Atmosphere shall be Directors of the Foundation.
   - **(2)**
-    - **(A)** Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a) of this section, of whom—
+    - **(A)** Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a), of whom—
       - **(i)** at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
       - **(ii)** at least four shall be educated or experienced in the principles of fish, wildlife, or other natural resource management; and
       - **(iii)** at least four shall be educated or experienced in ocean and coastal resource conservation.
@@ -39,7 +39,7 @@ status: "active"
   - **(7)** Before removing any Director from the Board, the Secretary of the Interior shall consult with the Secretary of Commerce.
 - **(c)** The Chairman shall be elected by the Board from its members for a two-year term.
 - **(d)** A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
-- **(e)** The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b) of this section.
+- **(e)** The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
 - **(f)** Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
 - **(g)**
   - **(1)** The Board may complete the organization of the Foundation by—

@@ -3,9 +3,9 @@ title: "Section 861 - Mandatory safety standards for underground mines"
 usc_title: 30
 usc_section: "861"
 chapter: 22
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "30 U.S.C. § 861"
-generated_at: "2026-03-30T04:53:09.029Z"
+generated_at: "2026-03-30T04:55:03.342Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7to11 - Repealed. Pub. L. 91–271, title III, § 321(c) –(g),
 usc_title: 19
 usc_section: "7to11"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "19 U.S.C. § 7to11"
-generated_at: "2026-03-30T04:52:54.546Z"
+generated_at: "2026-03-30T04:54:49.186Z"
 status: "repealed"
 ---
 

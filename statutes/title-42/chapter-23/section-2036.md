@@ -3,9 +3,9 @@ title: "Section 2036 - Repealed. Pub. L. 95–91, title VII, § 709(c)(1) , Aug.
 usc_title: 42
 usc_section: "2036"
 chapter: 23
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 2036"
-generated_at: "2026-03-30T04:53:51.131Z"
+generated_at: "2026-03-30T04:55:52.431Z"
 status: "repealed"
 ---
 

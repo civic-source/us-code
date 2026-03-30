@@ -3,9 +3,9 @@ title: "Section 5339 - Bus and bus facilities formula grants"
 usc_title: 49
 usc_section: "5339"
 chapter: 53
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 5339"
-generated_at: "2026-03-30T04:54:02.032Z"
+generated_at: "2026-03-30T04:55:58.676Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(1)** Eligible recipients under this section are designated recipients that operate fixed route bus service or that allocate funding to fixed route bus operators.
   - **(2)** A designated recipient that receives a grant under this section may allocate amounts of the grant to subrecipients that are public agencies or private nonprofit organizations engaged in public transportation.
 - **(d)** Funds allocated under section 5338(a)(2)(J) shall be distributed as follows:
-  - **(1)** $65,500,000 for each of fiscal years 2013 through 2015 and $5,189,891 for the period beginning on October 1, 2015 , and ending on October 29, 2015 , shall be allocated to all States and territories, with each State receiving $1,250,000 for each such fiscal year and $99,044 for such period and each territory receiving $500,000 for each such fiscal year and $39,617 for such period.
+  - **(1)** $65,500,000 for each of fiscal years 2013 through 2015 and $9,127,049 for the period beginning on October 1, 2015 , and ending on November 20, 2015 , shall be allocated to all States and territories, with each State receiving $1,250,000 for each such fiscal year and $174,180 for such period and each territory receiving $500,000 for each such fiscal year and $69,672 for such period.
   - **(2)** The remainder of the funds not otherwise distributed under paragraph (1) shall be allocated pursuant to the formula set forth in section 5336 other than subsection (b).
 - **(e)**
   - **(1)** The Governor of a State may transfer any part of the State’s apportionment under subsection (d)(1) to supplement amounts apportioned to the State under section 5311(c) of this title or amounts apportioned to urbanized areas under subsections (a) and (c) of section 5336 of this title .

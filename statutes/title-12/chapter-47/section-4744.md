@@ -3,9 +3,9 @@ title: "Section 4744 - Participation agreements"
 usc_title: 12
 usc_section: "4744"
 chapter: 47
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 4744"
-generated_at: "2026-03-30T04:52:48.775Z"
+generated_at: "2026-03-30T04:54:42.742Z"
 status: "active"
 ---
 

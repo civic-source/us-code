@@ -3,9 +3,9 @@ title: "Section 2003 - Codification of regulations"
 usc_title: 25
 usc_section: "2003"
 chapter: 22
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 2003"
-generated_at: "2026-03-30T04:53:04.708Z"
+generated_at: "2026-03-30T04:54:57.238Z"
 status: "active"
 ---
 

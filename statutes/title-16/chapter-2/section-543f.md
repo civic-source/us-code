@@ -3,9 +3,9 @@ title: "Section 543f - Traditional Native American uses"
 usc_title: 16
 usc_section: "543f"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 543f"
-generated_at: "2026-03-30T04:52:59.975Z"
+generated_at: "2026-03-30T04:54:53.642Z"
 status: "active"
 ---
 

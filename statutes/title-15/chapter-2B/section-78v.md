@@ -3,9 +3,9 @@ title: "Section 78v - Hearings by Commission"
 usc_title: 15
 usc_section: "78v"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 78v"
-generated_at: "2026-03-30T04:52:46.541Z"
+generated_at: "2026-03-30T04:54:44.556Z"
 status: "active"
 ---
 

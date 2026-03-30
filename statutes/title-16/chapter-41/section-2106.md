@@ -3,9 +3,9 @@ title: "Section 2106 - Rural fire prevention and control"
 usc_title: 16
 usc_section: "2106"
 chapter: 41
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 2106"
-generated_at: "2026-03-30T04:53:00.063Z"
+generated_at: "2026-03-30T04:54:53.731Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
 - **(e)**
   - **(1)** There are hereby authorized to be appropriated annually such sums as may be needed to implement paragraphs (1), (2), and (3) of subsection (b) of this section.
   - **(2)**
-    - **(A)** There are hereby authorized to be appropriated annually $70,000,000 to carry out subsection (b)(4) of this section. Of the total amount appropriated to carry out subsection (b)(4) of this section—
+    - **(A)** There are hereby authorized to be appropriated annually $70,000,000 to carry out subsection (b)(4). Of the total amount appropriated to carry out subsection (b)(4)—
       - **(i)** one-half shall be available only for State foresters or equivalent State officials, and through them to other agencies and individuals, of which not less than $100,000 shall be made available to each State; and
       - **(ii)** one-half shall be available only for rural volunteer fire departments.
     - **(B)** The Federal share of the cost of any activity carried out with funds made available pursuant to this paragraph may not exceed 50 percent of the cost of that activity. The non-Federal share for such activity may be in the form of cash, services, or in kind contributions.

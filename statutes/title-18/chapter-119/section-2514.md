@@ -3,9 +3,9 @@ title: "Section 2514 - Repealed. Pub. L. 91–452, title II, § 227(a) , Oct. 15
 usc_title: 18
 usc_section: "2514"
 chapter: 119
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "18 U.S.C. § 2514"
-generated_at: "2026-03-30T04:52:52.207Z"
+generated_at: "2026-03-30T04:54:48.196Z"
 status: "repealed"
 ---
 

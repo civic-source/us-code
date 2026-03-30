@@ -3,9 +3,9 @@ title: "Section 777g - Maintenance of projects"
 usc_title: 16
 usc_section: "777g"
 chapter: 10
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 777g"
-generated_at: "2026-03-30T04:53:00.001Z"
+generated_at: "2026-03-30T04:54:53.669Z"
 status: "active"
 ---
 
@@ -25,8 +25,8 @@ status: "active"
     - **(A)** to make grants to any State or private entity to pay all or any portion of the cost of carrying out any outreach and communications program under the plan; or
     - **(B)** to fund contracts with States or private entities to carry out such a program.
   - **(4)** The plan shall be reviewed periodically, but not less frequently than once every 3 years.
-- **(e)** Within 12 months after the completion of the national plan under subsection (d)(1) of this section, a State shall develop a plan for an outreach and communications program and submit it to the Secretary. In developing the plan, a State shall—
-  - **(1)** review the national plan developed under subsection (d) of this section;
+- **(e)** Within 12 months after the completion of the national plan under subsection (d)(1), a State shall develop a plan for an outreach and communications program and submit it to the Secretary. In developing the plan, a State shall—
+  - **(1)** review the national plan developed under subsection (d);
   - **(2)** consult with anglers, boaters, the sportfishing and boating industries, and the general public; and
   - **(3)** establish priorities for the State outreach and communications program proposed for implementation.
 - **(f)** Amounts apportioned to States under section 777c of this title may be used to pay not more than 75 percent of the costs of constructing, renovating, operating, or maintaining pumpout stations and waste reception facilities (as those terms are defined in the Clean Vessel Act of 1992).

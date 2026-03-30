@@ -3,9 +3,9 @@ title: "Section 8671to8678 - Transferred"
 usc_title: 20
 usc_section: "8671to8678"
 chapter: 70
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "20 U.S.C. § 8671to8678"
-generated_at: "2026-03-30T04:52:57.238Z"
+generated_at: "2026-03-30T04:54:51.427Z"
 status: "transferred"
 ---
 

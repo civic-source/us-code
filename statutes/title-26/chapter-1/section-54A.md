@@ -3,9 +3,9 @@ title: "Section 54A - Credit to holders of qualified tax credit bonds"
 usc_title: 26
 usc_section: "54A"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 54A"
-generated_at: "2026-03-30T04:53:16.459Z"
+generated_at: "2026-03-30T04:55:21.048Z"
 status: "active"
 ---
 

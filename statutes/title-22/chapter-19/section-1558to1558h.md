@@ -3,9 +3,9 @@ title: "Section 1558to1558h - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542
 usc_title: 22
 usc_section: "1558to1558h"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 1558to1558h"
-generated_at: "2026-03-30T04:53:06.574Z"
+generated_at: "2026-03-30T04:55:00.596Z"
 status: "repealed"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 1606a - Reforestation Trust Fund"
 usc_title: 16
 usc_section: "1606a"
 chapter: 36
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1606a"
-generated_at: "2026-03-30T04:53:00.049Z"
+generated_at: "2026-03-30T04:54:53.717Z"
 status: "active"
 ---
 
 # § 1606a. Reforestation Trust Fund
 
-- **(a)** There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) of this section and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2) of this section.
+- **(a)** There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2).
 - **(b)**
   - **(1)** Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after January 1, 1989 , under headings 4401 through 4412 and subheadings 4418.50.00, 4418.90.20, 4420.10.00, 4420.90.80, 4421.90.10 through 4421.90.20, and 4421.90.70 of chapter 44, subheadings 6808.00.00 and 6809.11.00 of chapter 68 and subheading 9614.10.00 of chapter 96 of the Harmonized Tariff Schedule of the United States.
   - **(2)** The Secretary shall not transfer more than $30,000,000 to the Trust Fund for any fiscal year.

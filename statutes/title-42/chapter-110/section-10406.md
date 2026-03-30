@@ -3,9 +3,9 @@ title: "Section 10406 - Formula grants to States"
 usc_title: 42
 usc_section: "10406"
 chapter: 110
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 10406"
-generated_at: "2026-03-30T04:53:51.343Z"
+generated_at: "2026-03-30T04:55:52.637Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1397 - Purposes of division; authorization of appropriations"
 usc_title: 42
 usc_section: "1397"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 1397"
-generated_at: "2026-03-30T04:53:51.069Z"
+generated_at: "2026-03-30T04:55:52.371Z"
 status: "active"
 ---
 

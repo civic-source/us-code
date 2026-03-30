@@ -3,9 +3,9 @@ title: "Section 70112 - Maritime Security Advisory Committees"
 usc_title: 46
 usc_section: "70112"
 chapter: 701
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "46 U.S.C. § 70112"
-generated_at: "2026-03-30T04:53:54.999Z"
+generated_at: "2026-03-30T04:55:56.380Z"
 status: "active"
 ---
 

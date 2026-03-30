@@ -3,9 +3,9 @@ title: "Section 5349 - Prevailing rate employees; legislative, judicial, Bureau 
 usc_title: 5
 usc_section: "5349"
 chapter: 53
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "5 U.S.C. § 5349"
-generated_at: "2026-03-30T04:52:08.460Z"
+generated_at: "2026-03-30T04:54:27.042Z"
 status: "active"
 ---
 

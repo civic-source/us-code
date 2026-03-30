@@ -3,9 +3,9 @@ title: "Section 1771to1775 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) 
 usc_title: 29
 usc_section: "1771to1775"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "29 U.S.C. § 1771to1775"
-generated_at: "2026-03-30T04:53:10.617Z"
+generated_at: "2026-03-30T04:55:04.355Z"
 status: "repealed"
 ---
 

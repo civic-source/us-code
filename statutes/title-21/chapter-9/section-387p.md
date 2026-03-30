@@ -3,9 +3,9 @@ title: "Section 387p - Preservation of State and local authority"
 usc_title: 21
 usc_section: "387p"
 chapter: 9
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "21 U.S.C. § 387p"
-generated_at: "2026-03-30T04:53:03.418Z"
+generated_at: "2026-03-30T04:54:57.999Z"
 status: "active"
 ---
 

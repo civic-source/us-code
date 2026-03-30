@@ -3,16 +3,16 @@ title: "Section 470cc - Excavation and removal"
 usc_title: 16
 usc_section: "470cc"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 470cc"
-generated_at: "2026-03-30T04:52:59.964Z"
+generated_at: "2026-03-30T04:54:53.631Z"
 status: "active"
 ---
 
 # § 470cc. Excavation and removal
 
 - **(a)** Any person may apply to the Federal land manager for a permit to excavate or remove any archaeological resource located on public lands or Indian lands and to carry out activities associated with such excavation or removal. The application shall be required, under uniform regulations under this chapter, to contain such information as the Federal land manager deems necessary, including information concerning the time, scope, and location and specific purpose of the proposed work.
-- **(b)** A permit may be issued pursuant to an application under subsection (a) of this section if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
+- **(b)** A permit may be issued pursuant to an application under subsection (a) if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
   - **(1)** the applicant is qualified, to carry out the permitted activity,
   - **(2)** the activity is undertaken for the purpose of furthering archaeological knowledge in the public interest,
   - **(3)** the archaeological resources which are excavated or removed from public lands will remain the property of the United States, and such resources and copies of associated archaeological records and data will be preserved by a suitable university, museum, or other scientific or educational institution, and

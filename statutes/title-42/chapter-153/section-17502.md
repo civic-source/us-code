@@ -3,9 +3,9 @@ title: "Section 17502 - Definition of Indian Tribe"
 usc_title: 42
 usc_section: "17502"
 chapter: 153
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 17502"
-generated_at: "2026-03-30T04:53:51.451Z"
+generated_at: "2026-03-30T04:55:52.742Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 777m - Multistate conservation grant program"
 usc_title: 16
 usc_section: "777m"
 chapter: 10
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 777m"
-generated_at: "2026-03-30T04:53:00.002Z"
+generated_at: "2026-03-30T04:54:53.670Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(2)**
     - **(A)** Any nongovernmental organization that applies for a grant under this section shall submit with the application to the International Association of Fish and Wildlife Agencies a certification that the organization—
       - **(i)** will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated taking of fish; and
-      - **(ii)** will use the grant funds in compliance with subsection (d) of this section.
+      - **(ii)** will use the grant funds in compliance with subsection (d).
     - **(B)** Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated taking of fish.
 - **(e)** Of amounts made available under section 777c(b) of this title for each fiscal year—

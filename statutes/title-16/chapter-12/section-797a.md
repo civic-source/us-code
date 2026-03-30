@@ -3,9 +3,9 @@ title: "Section 797a - Congressional authorization for permits, licenses, leases
 usc_title: 16
 usc_section: "797a"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 797a"
-generated_at: "2026-03-30T04:53:00.003Z"
+generated_at: "2026-03-30T04:54:53.671Z"
 status: "active"
 ---
 

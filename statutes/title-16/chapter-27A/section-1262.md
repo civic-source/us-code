@@ -3,9 +3,9 @@ title: "Section 1262 - National Recreational Trails Advisory Committee"
 usc_title: 16
 usc_section: "1262"
 chapter: 27
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1262"
-generated_at: "2026-03-30T04:53:00.029Z"
+generated_at: "2026-03-30T04:54:53.697Z"
 status: "active"
 ---
 
@@ -26,8 +26,8 @@ status: "active"
   - **(3)** an appropriate official of government with a background in science or natural resources management, including any official of State or local government, designated by the Secretary;
   - **(4)** 1 member appointed by the Secretary from nominations submitted by water trail user organizations; and
   - **(5)** 1 member appointed by the Secretary from nominations submitted by hunting and fishing enthusiast organizations.
-- **(c)** The Chair of the advisory committee shall be the government official referenced in subsection (b)(3) of this section, who shall serve as a non-voting member.
-- **(d)** Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1) of this section.
+- **(c)** The Chair of the advisory committee shall be the government official referenced in subsection (b)(3), who shall serve as a non-voting member.
+- **(d)** Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1).
 - **(e)** Members of the advisory committee appointed by the Secretary shall be appointed for terms of three years, except that the members filling five of the eleven positions shall be initially appointed for terms of two years, with subsequent appointments to those positions extending for terms of three years.
 - **(f)** The advisory committee shall meet at least twice annually to—
   - **(1)** review utilization of allocated moneys by States;

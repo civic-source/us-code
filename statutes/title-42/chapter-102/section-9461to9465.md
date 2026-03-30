@@ -3,9 +3,9 @@ title: "Section 9461to9465 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) ,
 usc_title: 42
 usc_section: "9461to9465"
 chapter: 102
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 9461to9465"
-generated_at: "2026-03-30T04:53:51.312Z"
+generated_at: "2026-03-30T04:55:52.607Z"
 status: "repealed"
 ---
 

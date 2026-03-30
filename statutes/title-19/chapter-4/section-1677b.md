@@ -3,9 +3,9 @@ title: "Section 1677b - Normal value"
 usc_title: 19
 usc_section: "1677b"
 chapter: 4
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "19 U.S.C. § 1677b"
-generated_at: "2026-03-30T04:52:54.570Z"
+generated_at: "2026-03-30T04:54:49.211Z"
 status: "active"
 ---
 

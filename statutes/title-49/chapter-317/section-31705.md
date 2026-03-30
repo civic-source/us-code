@@ -3,9 +3,9 @@ title: "Section 31705 - Fuel use tax"
 usc_title: 49
 usc_section: "31705"
 chapter: 317
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 31705"
-generated_at: "2026-03-30T04:54:02.060Z"
+generated_at: "2026-03-30T04:55:58.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 150508 - Restrictions"
 usc_title: 36
 usc_section: "150508"
 chapter: 1505
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "36 U.S.C. § 150508"
-generated_at: "2026-03-30T04:53:25.644Z"
+generated_at: "2026-03-30T04:55:33.610Z"
 status: "active"
 ---
 

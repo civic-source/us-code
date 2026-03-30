@@ -3,9 +3,9 @@ title: "Section 1948 - Total disability provision"
 usc_title: 38
 usc_section: "1948"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "38 U.S.C. § 1948"
-generated_at: "2026-03-30T04:53:27.067Z"
+generated_at: "2026-03-30T04:55:35.073Z"
 status: "active"
 ---
 

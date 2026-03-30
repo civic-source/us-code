@@ -3,9 +3,9 @@ title: "Section 1455 - Administrative grants"
 usc_title: 16
 usc_section: "1455"
 chapter: 33
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1455"
-generated_at: "2026-03-30T04:53:00.044Z"
+generated_at: "2026-03-30T04:54:53.712Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary may make grants to any coastal state for the purpose of administering that State’s management program, if the State matches any such grant according to the following ratios of Federal-to-State contributions for the applicable fiscal year:
   - **(1)** For those States for which programs were approved prior to November 5, 1990 , 1 to 1 for any fiscal year.
   - **(2)** For programs approved after November 5, 1990 , 4 to 1 for the first fiscal year, 2.3 to 1 for the second fiscal year, 1.5 to 1 for the third fiscal year, and 1 to 1 for each fiscal year thereafter.
-- **(b)** The Secretary may make a grant to a coastal state under subsection (a) of this section only if the Secretary finds that the management program of the coastal state meets all applicable requirements of this chapter and has been approved in accordance with subsection (d) of this section.
+- **(b)** The Secretary may make a grant to a coastal state under subsection (a) only if the Secretary finds that the management program of the coastal state meets all applicable requirements of this chapter and has been approved in accordance with subsection (d).
 - **(c)** Grants under this section shall be allocated to coastal states with approved programs based on rules and regulations promulgated by the Secretary which shall take into account the extent and nature of the shoreline and area covered by the program, population of the area, and other relevant factors. The Secretary shall establish, after consulting with the coastal states, maximum and minimum grants for any fiscal year to promote equity between coastal states and effective coastal management.
 - **(d)** Before approving a management program submitted by a coastal state, the Secretary shall find the following:
   - **(1)** The State has developed and adopted a management program for its coastal zone in accordance with rules and regulations promulgated by the Secretary, after notice, and with the opportunity of full participation by relevant Federal agencies, State agencies, local governments, regional organizations, port authorities, and other interested parties and individuals, public and private, which is adequate to carry out the purposes of this chapter and is consistent with the policy declared in section 1452 of this title .

@@ -3,9 +3,9 @@ title: "Section 1012 - Rehabilitation of structural measures near, at, or past t
 usc_title: 16
 usc_section: "1012"
 chapter: 18
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1012"
-generated_at: "2026-03-30T04:53:00.023Z"
+generated_at: "2026-03-30T04:54:53.691Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
 - **(c)** The Secretary, acting through the Natural Resources Conservation Service, may provide technical assistance in planning, designing, and implementing rehabilitation projects should a local organization request such assistance. Such assistance may consist of specialists in such fields as engineering, geology, soils, agronomy, biology, hydraulics, hydrology, economics, water quality, and contract administration.
 - **(d)**
   - **(1)** Rehabilitation assistance provided under this section may not be used to perform operation and maintenance activities specified in the agreement for the covered water resource project entered into between the Secretary and the local organization responsible for the works of improvement. Such operation and maintenance activities shall remain the responsibility of the local organization, as provided in the project work plan.
-  - **(2)** Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
+  - **(2)** Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b), the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
 - **(e)** A local organization may apply to the Secretary for technical and financial assistance under this section if the application has also been submitted to and approved by the State agency having supervisory responsibility over the covered water resource project at issue or, if there is no State agency having such responsibility, by the Governor of the State. The Secretary shall request the State dam safety officer (or equivalent State official) to be involved in the application process if State permits or approvals are required. The rehabilitation of structural measures shall meet standards established by the Secretary and address other dam safety issues. At the request of the local organization, personnel of the Natural Resources Conservation Service of the Department of Agriculture may assist in preparing applications for assistance.
 - **(f)** The Secretary shall establish such system of approving rehabilitation requests, recognizing that such requests will be received throughout the fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
 - **(g)** The Secretary may not approve a rehabilitation request if the need for rehabilitation of the structure is the result of a lack of adequate maintenance by the party responsible for the maintenance.

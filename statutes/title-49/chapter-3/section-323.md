@@ -3,9 +3,9 @@ title: "Section 323 - Personnel"
 usc_title: 49
 usc_section: "323"
 chapter: 3
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 323"
-generated_at: "2026-03-30T04:54:02.018Z"
+generated_at: "2026-03-30T04:55:58.662Z"
 status: "active"
 ---
 

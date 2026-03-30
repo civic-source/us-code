@@ -3,9 +3,9 @@ title: "Section 1425to1425b - Repealed. Pub. L. 101–73, title VII , §§ 705, 
 usc_title: 12
 usc_section: "1425to1425b"
 chapter: 11
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 1425to1425b"
-generated_at: "2026-03-30T04:52:48.654Z"
+generated_at: "2026-03-30T04:54:42.629Z"
 status: "repealed"
 ---
 

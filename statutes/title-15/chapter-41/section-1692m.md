@@ -3,9 +3,9 @@ title: "Section 1692m - Reports to Congress by the Bureau; views of other Federa
 usc_title: 15
 usc_section: "1692m"
 chapter: 41
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 1692m"
-generated_at: "2026-03-30T04:52:46.627Z"
+generated_at: "2026-03-30T04:54:44.640Z"
 status: "active"
 ---
 

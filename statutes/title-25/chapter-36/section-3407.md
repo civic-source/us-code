@@ -3,9 +3,9 @@ title: "Section 3407 - Plan approval"
 usc_title: 25
 usc_section: "3407"
 chapter: 36
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 3407"
-generated_at: "2026-03-30T04:53:04.724Z"
+generated_at: "2026-03-30T04:54:57.254Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 132 - Routine notifications with respect to airborne infectious 
 usc_title: 42
 usc_section: "132"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-30T04:53:50.906Z"
+generated_at: "2026-03-30T04:55:52.210Z"
 status: "active"
 ---
 

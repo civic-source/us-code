@@ -3,9 +3,9 @@ title: "Section 12207 - Commissioned officers: service credit upon original appo
 usc_title: 10
 usc_section: "12207"
 chapter: 1205
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 12207"
-generated_at: "2026-03-30T04:52:15.772Z"
+generated_at: "2026-03-30T04:54:37.552Z"
 status: "active"
 ---
 

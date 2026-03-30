@@ -3,9 +3,9 @@ title: "Section 2175a - Repealed. Pub. L. 97–113, title VII, § 734(a)(8) , De
 usc_title: 22
 usc_section: "2175a"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 2175a"
-generated_at: "2026-03-30T04:53:06.587Z"
+generated_at: "2026-03-30T04:55:00.609Z"
 status: "repealed"
 ---
 

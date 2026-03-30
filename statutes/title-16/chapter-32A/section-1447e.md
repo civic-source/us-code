@@ -3,9 +3,9 @@ title: "Section 1447e - Report on research program"
 usc_title: 16
 usc_section: "1447e"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1447e"
-generated_at: "2026-03-30T04:53:00.044Z"
+generated_at: "2026-03-30T04:54:53.711Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
   - **(1)** the findings and conclusions of research projects conducted in the region;
   - **(2)** recommendations for improvements in the design or implementation of programs for the protection of the marine environment; and
   - **(3)** available data and information concerning ecosystem health within the region.
-- **(b)** Upon receipt of a report prepared by a Board under subsection (a) of this section, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
+- **(b)** Upon receipt of a report prepared by a Board under subsection (a), the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.

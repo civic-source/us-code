@@ -3,9 +3,9 @@ title: "Section 8001 - Producer retention of erroneously paid loan deficiency pa
 usc_title: 7
 usc_section: "8001"
 chapter: 106
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 8001"
-generated_at: "2026-03-30T04:52:41.030Z"
+generated_at: "2026-03-30T04:54:34.088Z"
 status: "active"
 ---
 

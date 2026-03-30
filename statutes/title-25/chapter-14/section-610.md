@@ -3,9 +3,9 @@ title: "Section 610 - Purchase of lands within, adjacent to, or in close proximi
 usc_title: 25
 usc_section: "610"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 610"
-generated_at: "2026-03-30T04:53:04.664Z"
+generated_at: "2026-03-30T04:54:57.194Z"
 status: "active"
 ---
 

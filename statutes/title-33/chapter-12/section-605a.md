@@ -3,9 +3,9 @@ title: "Section 605a - Mississippi River forecasting improvements"
 usc_title: 33
 usc_section: "605a"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "33 U.S.C. § 605a"
-generated_at: "2026-03-30T04:53:19.761Z"
+generated_at: "2026-03-30T04:55:25.178Z"
 status: "active"
 ---
 

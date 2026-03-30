@@ -3,9 +3,9 @@ title: "Section 2343 - Matters relating to the international materials protectio
 usc_title: 50
 usc_section: "2343"
 chapter: 40
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "50 U.S.C. § 2343"
-generated_at: "2026-03-30T04:54:03.033Z"
+generated_at: "2026-03-30T04:55:57.022Z"
 status: "active"
 ---
 

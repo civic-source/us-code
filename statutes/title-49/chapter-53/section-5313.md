@@ -3,9 +3,9 @@ title: "Section 5313 - Transit cooperative research program"
 usc_title: 49
 usc_section: "5313"
 chapter: 53
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 5313"
-generated_at: "2026-03-30T04:54:02.028Z"
+generated_at: "2026-03-30T04:55:58.672Z"
 status: "active"
 ---
 

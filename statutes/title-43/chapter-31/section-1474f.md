@@ -3,9 +3,9 @@ title: "Section 1474f - Sums received by the Bureau of Land Management from vend
 usc_title: 43
 usc_section: "1474f"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "43 U.S.C. § 1474f"
-generated_at: "2026-03-30T04:53:30.815Z"
+generated_at: "2026-03-30T04:55:37.469Z"
 status: "active"
 ---
 

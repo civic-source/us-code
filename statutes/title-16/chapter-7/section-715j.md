@@ -3,9 +3,9 @@ title: "Section 715j - “Migratory birds” defined"
 usc_title: 16
 usc_section: "715j"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 715j"
-generated_at: "2026-03-30T04:52:59.996Z"
+generated_at: "2026-03-30T04:54:53.664Z"
 status: "active"
 ---
 

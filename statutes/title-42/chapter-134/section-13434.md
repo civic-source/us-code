@@ -3,9 +3,9 @@ title: "Section 13434 - Biofuels user facility"
 usc_title: 42
 usc_section: "13434"
 chapter: 134
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 13434"
-generated_at: "2026-03-30T04:53:51.393Z"
+generated_at: "2026-03-30T04:55:52.685Z"
 status: "active"
 ---
 

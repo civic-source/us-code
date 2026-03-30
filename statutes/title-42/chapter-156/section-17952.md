@@ -3,9 +3,9 @@ title: "Section 17952 - Regulatory references"
 usc_title: 42
 usc_section: "17952"
 chapter: 156
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 17952"
-generated_at: "2026-03-30T04:53:51.455Z"
+generated_at: "2026-03-30T04:55:52.745Z"
 status: "active"
 ---
 

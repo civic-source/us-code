@@ -3,9 +3,9 @@ title: "Section 285n - Authorization of appropriations to provide United States 
 usc_title: 22
 usc_section: "285n"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 285n"
-generated_at: "2026-03-30T04:53:06.558Z"
+generated_at: "2026-03-30T04:55:00.581Z"
 status: "active"
 ---
 

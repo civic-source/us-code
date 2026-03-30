@@ -3,9 +3,9 @@ title: "Section 4310 - Privileges and immunities"
 usc_title: 22
 usc_section: "4310"
 chapter: 53
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 4310"
-generated_at: "2026-03-30T04:53:06.640Z"
+generated_at: "2026-03-30T04:55:00.660Z"
 status: "active"
 ---
 

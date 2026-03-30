@@ -3,9 +3,9 @@ title: "Section 1181 - Admission of immigrants into the United States"
 usc_title: 8
 usc_section: "1181"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "8 U.S.C. § 1181"
-generated_at: "2026-03-30T04:52:16.697Z"
+generated_at: "2026-03-30T04:54:32.008Z"
 status: "active"
 ---
 

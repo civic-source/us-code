@@ -3,9 +3,9 @@ title: "Section 1292 - Other Federal laws"
 usc_title: 30
 usc_section: "1292"
 chapter: 25
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "30 U.S.C. § 1292"
-generated_at: "2026-03-30T04:53:09.044Z"
+generated_at: "2026-03-30T04:55:03.356Z"
 status: "active"
 ---
 

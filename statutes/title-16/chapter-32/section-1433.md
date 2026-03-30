@@ -3,9 +3,9 @@ title: "Section 1433 - Sanctuary designation standards"
 usc_title: 16
 usc_section: "1433"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1433"
-generated_at: "2026-03-30T04:53:00.042Z"
+generated_at: "2026-03-30T04:54:53.709Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(4)** designation of the area as a national marine sanctuary will facilitate the objectives stated in paragraph (3); and
   - **(5)** the area is of a size and nature that will permit comprehensive and coordinated conservation and management.
 - **(b)**
-  - **(1)** For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a) of this section, the Secretary shall consider—
+  - **(1)** For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a), the Secretary shall consider—
     - **(A)** the area’s natural resource and ecological qualities, including its contribution to biological productivity, maintenance of ecosystem structure, maintenance of ecologically or commercially important or threatened species or species assemblages, maintenance of critical habitat of endangered species, and the biogeographic representation of the site;
     - **(B)** the area’s historical, cultural, archaeological, or paleontological significance;
     - **(C)** the present and potential uses of the area that depend on maintenance of the area’s resources, including commercial and recreational fishing, subsistence uses, other commercial and recreational activities, and research and education;

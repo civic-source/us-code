@@ -3,9 +3,9 @@ title: "Section 825a - Art. 25a. Number of members in capital cases"
 usc_title: 10
 usc_section: "825a"
 chapter: 47
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 825a"
-generated_at: "2026-03-30T04:52:15.604Z"
+generated_at: "2026-03-30T04:54:37.440Z"
 status: "active"
 ---
 

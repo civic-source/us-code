@@ -3,9 +3,9 @@ title: "Section 28 - Life estates"
 usc_title: 25
 usc_section: "28"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 28"
-generated_at: "2026-03-30T04:53:04.666Z"
+generated_at: "2026-03-30T04:54:57.196Z"
 status: "active"
 ---
 

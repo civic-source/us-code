@@ -3,9 +3,9 @@ title: "Section 1643 - Amount and use of funds reimbursed through medicare and m
 usc_title: 25
 usc_section: "1643"
 chapter: 18
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 1643"
-generated_at: "2026-03-30T04:53:04.693Z"
+generated_at: "2026-03-30T04:54:57.222Z"
 status: "active"
 ---
 

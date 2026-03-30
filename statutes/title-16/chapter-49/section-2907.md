@@ -3,9 +3,9 @@ title: "Section 2907 - Allocation of funds for administration and reimbursement 
 usc_title: 16
 usc_section: "2907"
 chapter: 49
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 2907"
-generated_at: "2026-03-30T04:53:00.069Z"
+generated_at: "2026-03-30T04:54:53.737Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
     - **(A)** one-third of which is based on the ratio to which the area of such State bears to the total area of all such States, and
     - **(B)** two-thirds of which is based on the ratio to which the population of such State bears to the total population of all such States,
 - **(c)**
-  - **(1)** That portion of any amount deducted by the Secretary under subsection (b)(1) of this section for administrative purposes for any fiscal year and not expended during such fiscal year shall remain available for administrative purposes until the close of the next succeeding fiscal year and if not obligated or expended by the close of such succeeding fiscal year shall be available for disbursement by the Secretary without regard to subsection (b) of this section, to the States to carry out the purposes of this chapter.
-  - **(2)** That portion of any amount allocated to any State under subsection (b)(2) or (3) of this section for any fiscal year and not disbursed to the State for such fiscal years under section 2905 of this title shall remain available for disbursement to the State under such section for the next succeeding fiscal year and if not disbursed for such succeeding fiscal year shall be available for disbursement by the Secretary, without regard to subsection (b) of this section, to the States to carry out the purposes of this chapter.
+  - **(1)** That portion of any amount deducted by the Secretary under subsection (b)(1) for administrative purposes for any fiscal year and not expended during such fiscal year shall remain available for administrative purposes until the close of the next succeeding fiscal year and if not obligated or expended by the close of such succeeding fiscal year shall be available for disbursement by the Secretary without regard to subsection (b), to the States to carry out the purposes of this chapter.
+  - **(2)** That portion of any amount allocated to any State under subsection (b)(2) or (3) for any fiscal year and not disbursed to the State for such fiscal years under section 2905 of this title shall remain available for disbursement to the State under such section for the next succeeding fiscal year and if not disbursed for such succeeding fiscal year shall be available for disbursement by the Secretary, without regard to subsection (b), to the States to carry out the purposes of this chapter.

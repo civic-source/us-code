@@ -3,9 +3,9 @@ title: "Section 1723 - Public Lands Corps program"
 usc_title: 16
 usc_section: "1723"
 chapter: 37
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1723"
-generated_at: "2026-03-30T04:53:00.052Z"
+generated_at: "2026-03-30T04:54:53.719Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.
 - **(b)** The Corps shall consist of individuals between the ages of 16 and 25, inclusive, who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in section 12591(b) of title 42 . The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 - **(c)**
-  - **(1)** The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d) of this section.
+  - **(1)** The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d).
   - **(2)**
     - **(A)** For purposes of entering into contracts and cooperative agreements under paragraph (1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
     - **(B)** In carrying out priority projects in a specific area, the Secretary shall, to the maximum extent practicable, give preference to qualified youth or conservation corps located in that specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged.

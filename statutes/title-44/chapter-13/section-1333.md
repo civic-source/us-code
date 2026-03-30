@@ -3,9 +3,9 @@ title: "Section 1333 - National high school and college debate topics"
 usc_title: 44
 usc_section: "1333"
 chapter: 13
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "44 U.S.C. § 1333"
-generated_at: "2026-03-30T04:53:30.131Z"
+generated_at: "2026-03-30T04:55:36.707Z"
 status: "active"
 ---
 

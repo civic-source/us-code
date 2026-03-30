@@ -3,9 +3,9 @@ title: "Section 2403 - Prohibited acts"
 usc_title: 16
 usc_section: "2403"
 chapter: 44
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 2403"
-generated_at: "2026-03-30T04:53:00.064Z"
+generated_at: "2026-03-30T04:54:53.732Z"
 status: "active"
 ---
 
@@ -33,4 +33,4 @@ status: "active"
   - **(3)** to enter or engage in activities within any Antarctic Specially Protected Area;
   - **(4)** to engage in any taking or harmful interference in Antarctica; or
   - **(5)** to receive, acquire, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any native bird, native mammal, or native plant which the person knows, or in the exercise of due care should have known, was taken in violation of this chapter.
-- **(c)** No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) of this section or in subsection (b) of this section shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
+- **(c)** No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) or in subsection (b) shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.

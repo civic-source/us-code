@@ -3,9 +3,9 @@ title: "Section 5356 - Application"
 usc_title: 26
 usc_section: "5356"
 chapter: 51
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 5356"
-generated_at: "2026-03-30T04:53:16.626Z"
+generated_at: "2026-03-30T04:55:21.314Z"
 status: "active"
 ---
 

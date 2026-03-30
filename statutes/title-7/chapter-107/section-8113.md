@@ -3,9 +3,9 @@ title: "Section 8113 - Community wood energy program"
 usc_title: 7
 usc_section: "8113"
 chapter: 107
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 8113"
-generated_at: "2026-03-30T04:52:41.033Z"
+generated_at: "2026-03-30T04:54:34.090Z"
 status: "active"
 ---
 

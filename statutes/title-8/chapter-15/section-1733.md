@@ -3,9 +3,9 @@ title: "Section 1733 - Terrorist lookout committees"
 usc_title: 8
 usc_section: "1733"
 chapter: 15
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "8 U.S.C. § 1733"
-generated_at: "2026-03-30T04:52:16.728Z"
+generated_at: "2026-03-30T04:54:32.041Z"
 status: "active"
 ---
 

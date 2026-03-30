@@ -3,9 +3,9 @@ title: "Section 4531 - Definitions"
 usc_title: 7
 usc_section: "4531"
 chapter: 76
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 4531"
-generated_at: "2026-03-30T04:52:40.984Z"
+generated_at: "2026-03-30T04:54:34.040Z"
 status: "active"
 ---
 

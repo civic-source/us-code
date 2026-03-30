@@ -3,9 +3,9 @@ title: "Section 1712 - Authorization of appropriations for improvements in techn
 usc_title: 8
 usc_section: "1712"
 chapter: 15
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "8 U.S.C. § 1712"
-generated_at: "2026-03-30T04:52:16.727Z"
+generated_at: "2026-03-30T04:54:32.040Z"
 status: "active"
 ---
 

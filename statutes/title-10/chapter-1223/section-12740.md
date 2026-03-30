@@ -3,9 +3,9 @@ title: "Section 12740 - Eligibility: denial upon certain punitive discharges or 
 usc_title: 10
 usc_section: "12740"
 chapter: 1223
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 12740"
-generated_at: "2026-03-30T04:52:15.775Z"
+generated_at: "2026-03-30T04:54:37.554Z"
 status: "active"
 ---
 

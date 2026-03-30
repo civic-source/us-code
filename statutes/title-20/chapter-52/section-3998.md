@@ -3,9 +3,9 @@ title: "Section 3998 - Computation of grant amounts"
 usc_title: 20
 usc_section: "3998"
 chapter: 52
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "20 U.S.C. § 3998"
-generated_at: "2026-03-30T04:52:57.188Z"
+generated_at: "2026-03-30T04:54:51.380Z"
 status: "active"
 ---
 

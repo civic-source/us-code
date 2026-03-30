@@ -3,9 +3,9 @@ title: "Section 704 - Annual report"
 usc_title: 49
 usc_section: "704"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "49 U.S.C. § 704"
-generated_at: "2026-03-30T04:54:02.019Z"
+generated_at: "2026-03-30T04:55:58.664Z"
 status: "active"
 ---
 

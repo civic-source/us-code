@@ -3,9 +3,9 @@ title: "Section 3221 - Extension at 1890 land-grant colleges, including Tuskegee
 usc_title: 7
 usc_section: "3221"
 chapter: 64
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "7 U.S.C. § 3221"
-generated_at: "2026-03-30T04:52:40.977Z"
+generated_at: "2026-03-30T04:54:34.034Z"
 status: "active"
 ---
 

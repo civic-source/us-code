@@ -3,9 +3,9 @@ title: "Section 12 - HIT Policy Committee"
 usc_title: 42
 usc_section: "12"
 chapter: 6
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T04:53:50.913Z"
+generated_at: "2026-03-30T04:55:52.218Z"
 status: "active"
 ---
 

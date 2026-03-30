@@ -3,9 +3,9 @@ title: "Section 715k - Authorization of appropriations for purposes of subchapte
 usc_title: 16
 usc_section: "715k"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 715k"
-generated_at: "2026-03-30T04:52:59.996Z"
+generated_at: "2026-03-30T04:54:53.664Z"
 status: "active"
 ---
 

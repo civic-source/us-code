@@ -3,15 +3,15 @@ title: "Section 1440 - Research, monitoring, and education"
 usc_title: 16
 usc_section: "1440"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 1440"
-generated_at: "2026-03-30T04:53:00.043Z"
+generated_at: "2026-03-30T04:54:53.710Z"
 status: "active"
 ---
 
 # § 1440. Research, monitoring, and education
 
-- **(a)** The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) of this section and the purposes and policies of this chapter.
+- **(a)** The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) and the purposes and policies of this chapter.
 - **(b)**
   - **(1)** The Secretary may—
     - **(A)** support, promote, and coordinate research on, and long-term monitoring of, sanctuary resources and natural processes that occur in national marine sanctuaries, including exploration, mapping, and environmental and socioeconomic assessment;
@@ -24,4 +24,4 @@ status: "active"
 - **(d)**
   - **(1)** The Secretary may develop interpretive facilities near any national marine sanctuary.
   - **(2)** Any facility developed under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries by providing the public with information about the conservation, recreational, ecological, historical, cultural, archeological, scientific, educational, or esthetic qualities of the national marine sanctuary.
-- **(e)** In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) of this section and developing interpretive facilities under subsection (d) of this section, the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
+- **(e)** In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.

@@ -3,9 +3,9 @@ title: "Section 3111 - New issue used to buy, redeem, or refund outstanding obli
 usc_title: 31
 usc_section: "3111"
 chapter: 31
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "31 U.S.C. § 3111"
-generated_at: "2026-03-30T04:53:22.371Z"
+generated_at: "2026-03-30T04:55:26.227Z"
 status: "active"
 ---
 

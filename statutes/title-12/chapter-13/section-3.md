@@ -3,9 +3,9 @@ title: "Section 3 - Regulations"
 usc_title: 12
 usc_section: "3"
 chapter: 13
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T04:52:48.695Z"
+generated_at: "2026-03-30T04:54:42.667Z"
 status: "active"
 ---
 

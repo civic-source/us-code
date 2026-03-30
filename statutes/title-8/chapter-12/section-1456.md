@@ -3,9 +3,9 @@ title: "Section 1456 - Repealed. Pub. L. 86–682, § 12(c) , Sept. 2, 1960 , 74
 usc_title: 8
 usc_section: "1456"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "8 U.S.C. § 1456"
-generated_at: "2026-03-30T04:52:16.723Z"
+generated_at: "2026-03-30T04:54:32.036Z"
 status: "repealed"
 ---
 

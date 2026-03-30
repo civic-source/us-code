@@ -3,9 +3,9 @@ title: "Section 813 - Repealed. Pub. L. 100–203, title X, § 10242(c)(1) , Dec
 usc_title: 26
 usc_section: "813"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 813"
-generated_at: "2026-03-30T04:53:16.546Z"
+generated_at: "2026-03-30T04:55:21.142Z"
 status: "repealed"
 ---
 

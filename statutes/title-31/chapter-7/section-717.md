@@ -3,9 +3,9 @@ title: "Section 717 - Evaluating programs and activities of the United States Go
 usc_title: 31
 usc_section: "717"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "31 U.S.C. § 717"
-generated_at: "2026-03-30T04:53:22.364Z"
+generated_at: "2026-03-30T04:55:26.220Z"
 status: "active"
 ---
 

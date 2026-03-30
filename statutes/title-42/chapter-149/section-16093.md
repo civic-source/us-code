@@ -3,9 +3,9 @@ title: "Section 16093 - Fuel cell school buses"
 usc_title: 42
 usc_section: "16093"
 chapter: 149
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 16093"
-generated_at: "2026-03-30T04:53:51.428Z"
+generated_at: "2026-03-30T04:55:52.719Z"
 status: "active"
 ---
 

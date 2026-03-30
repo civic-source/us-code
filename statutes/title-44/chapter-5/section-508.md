@@ -3,9 +3,9 @@ title: "Section 508 - Annual estimates of quantity of paper required for public 
 usc_title: 44
 usc_section: "508"
 chapter: 5
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "44 U.S.C. § 508"
-generated_at: "2026-03-30T04:53:30.128Z"
+generated_at: "2026-03-30T04:55:36.704Z"
 status: "active"
 ---
 

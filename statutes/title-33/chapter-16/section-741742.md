@@ -3,9 +3,9 @@ title: "Section 741742 - Repealed. June 6, 1940, ch. 257 , §§ 5, 6, 54 Stat. 2
 usc_title: 33
 usc_section: "741742"
 chapter: 16
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "33 U.S.C. § 741742"
-generated_at: "2026-03-30T04:53:19.767Z"
+generated_at: "2026-03-30T04:55:25.183Z"
 status: "repealed"
 ---
 

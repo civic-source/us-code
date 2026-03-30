@@ -3,9 +3,9 @@ title: "Section 176to181 - Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774"
 usc_title: 22
 usc_section: "176to181"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "22 U.S.C. § 176to181"
-generated_at: "2026-03-30T04:53:06.546Z"
+generated_at: "2026-03-30T04:55:00.569Z"
 status: "repealed"
 ---
 

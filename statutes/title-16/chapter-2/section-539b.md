@@ -3,9 +3,9 @@ title: "Section 539b - Fisheries on national forest lands in Alaska"
 usc_title: 16
 usc_section: "539b"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 539b"
-generated_at: "2026-03-30T04:52:59.970Z"
+generated_at: "2026-03-30T04:54:53.638Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
     - **(B)** the Secretary shall review such plan and mining activities on at least an annual basis. With respect to any mining or associated activities, the Secretary, if he determines upon notice and hearing, that the activities are harmful to the continued productivity of anadromous fish, or other foodfish populations or fishery habitat, shall require a modification of the plan to eliminate or mitigate, if necessary, the harmful effects of such activities; and
   - **(5)** upon a finding by the Secretary that a mining activity conducted as a part of a mining operation exists which constitutes a threat of irreparable harm to anadromous fish, or other foodfish populations or their habitat, and that immediate correction is required to prevent such harm, he may require such activity to be suspended for not to exceed seven days, provided the activity may be resumed at the end of said seven-day period unless otherwise required by a United States district court.
 - **(c)** Nothing in this section shall enlarge or diminish the responsibility and authority of the State of Alaska to manage fish and wildlife or to exercise its other responsibilities under applicable law.
-- **(d)** Except as specifically provided in subsection (b)(5) of this section nothing in this section shall enlarge or diminish the responsibilities and authorities of the Secretary of Agriculture to manage the national forests.
+- **(d)** Except as specifically provided in subsection (b)(5), nothing in this section shall enlarge or diminish the responsibilities and authorities of the Secretary of Agriculture to manage the national forests.

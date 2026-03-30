@@ -3,9 +3,9 @@ title: "Section 8163 - Hearing and notice requirements regarding proposed leases
 usc_title: 38
 usc_section: "8163"
 chapter: 81
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "38 U.S.C. § 8163"
-generated_at: "2026-03-30T04:53:27.109Z"
+generated_at: "2026-03-30T04:55:35.113Z"
 status: "active"
 ---
 

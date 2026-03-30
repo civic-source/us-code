@@ -3,9 +3,9 @@ title: "Section 3283 - Commissioned officers: appointment without specification 
 usc_title: 10
 usc_section: "3283"
 chapter: 335
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 3283"
-generated_at: "2026-03-30T04:52:15.742Z"
+generated_at: "2026-03-30T04:54:37.521Z"
 status: "active"
 ---
 

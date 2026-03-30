@@ -3,9 +3,9 @@ title: "Section 2019 - Early childhood development program"
 usc_title: 25
 usc_section: "2019"
 chapter: 22
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 2019"
-generated_at: "2026-03-30T04:53:04.712Z"
+generated_at: "2026-03-30T04:54:57.241Z"
 status: "active"
 ---
 

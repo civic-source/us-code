@@ -3,9 +3,9 @@ title: "Section 6802 - Recreation fee authority"
 usc_title: 16
 usc_section: "6802"
 chapter: 87
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 6802"
-generated_at: "2026-03-30T04:53:00.104Z"
+generated_at: "2026-03-30T04:54:53.773Z"
 status: "active"
 ---
 

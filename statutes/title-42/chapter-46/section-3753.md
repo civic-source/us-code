@@ -3,9 +3,9 @@ title: "Section 3753 - Review of applications"
 usc_title: 42
 usc_section: "3753"
 chapter: 46
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 3753"
-generated_at: "2026-03-30T04:53:51.170Z"
+generated_at: "2026-03-30T04:55:52.471Z"
 status: "active"
 ---
 

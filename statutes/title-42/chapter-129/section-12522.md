@@ -3,9 +3,9 @@ title: "Section 12522 - Definitions"
 usc_title: 42
 usc_section: "12522"
 chapter: 129
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 12522"
-generated_at: "2026-03-30T04:53:51.366Z"
+generated_at: "2026-03-30T04:55:52.659Z"
 status: "active"
 ---
 

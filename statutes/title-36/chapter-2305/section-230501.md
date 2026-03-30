@@ -3,9 +3,9 @@ title: "Section 230501 - Definition"
 usc_title: 36
 usc_section: "230501"
 chapter: 2305
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "36 U.S.C. § 230501"
-generated_at: "2026-03-30T04:53:25.653Z"
+generated_at: "2026-03-30T04:55:33.618Z"
 status: "active"
 ---
 

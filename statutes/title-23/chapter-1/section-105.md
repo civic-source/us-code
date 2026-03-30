@@ -3,9 +3,9 @@ title: "Section 105 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "105"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "23 U.S.C. § 105"
-generated_at: "2026-03-30T04:53:02.605Z"
+generated_at: "2026-03-30T04:54:58.338Z"
 status: "repealed"
 ---
 

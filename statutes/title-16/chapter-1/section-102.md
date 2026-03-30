@@ -3,9 +3,9 @@ title: "Section 102 - Land exchanges, C. M. Otley and Otley Brothers"
 usc_title: 16
 usc_section: "102"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 102"
-generated_at: "2026-03-30T04:52:59.959Z"
+generated_at: "2026-03-30T04:54:53.626Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(1)** For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with the Otley Brother’s, Inc., to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title , consisting of a total of approximately 6,881 acres in exchange for the private lands described in paragraph (2).
   - **(2)** As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in subsection (3), the Otley Brother’s, Inc., shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 505 acres, as depicted on the map referred to in section 460nnn–105(a) of this title , for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
   - **(3)** Upon completion of the land exchange authorized by this subsection, the Secretary is authorized to make a disbursement to Otley Brother’s, Inc., in the amount of $400,000.
-- **(c)** The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) of this section within 70 days after the Secretary accepts the lands described in such subsections.
+- **(c)** The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) within 70 days after the Secretary accepts the lands described in such subsections.

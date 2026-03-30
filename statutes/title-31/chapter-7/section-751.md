@@ -3,9 +3,9 @@ title: "Section 751 - Organization"
 usc_title: 31
 usc_section: "751"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "31 U.S.C. § 751"
-generated_at: "2026-03-30T04:53:22.365Z"
+generated_at: "2026-03-30T04:55:26.222Z"
 status: "active"
 ---
 

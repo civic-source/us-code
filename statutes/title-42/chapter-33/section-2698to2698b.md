@@ -3,9 +3,9 @@ title: "Section 2698to2698b - Repealed. Pub. L. 91–230, title VI, § 662(4) , 
 usc_title: 42
 usc_section: "2698to2698b"
 chapter: 33
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 2698to2698b"
-generated_at: "2026-03-30T04:53:51.146Z"
+generated_at: "2026-03-30T04:55:52.446Z"
 status: "repealed"
 ---
 

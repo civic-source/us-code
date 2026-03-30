@@ -3,9 +3,9 @@ title: "Section 5651 - Authority to make grants"
 usc_title: 42
 usc_section: "5651"
 chapter: 72
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 5651"
-generated_at: "2026-03-30T04:53:51.214Z"
+generated_at: "2026-03-30T04:55:52.514Z"
 status: "active"
 ---
 

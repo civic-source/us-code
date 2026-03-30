@@ -3,9 +3,9 @@ title: "Section 2299 - Acquisition of beach fill"
 usc_title: 33
 usc_section: "2299"
 chapter: 36
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "33 U.S.C. § 2299"
-generated_at: "2026-03-30T04:53:19.803Z"
+generated_at: "2026-03-30T04:55:25.216Z"
 status: "active"
 ---
 

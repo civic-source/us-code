@@ -3,9 +3,9 @@ title: "Section 5791c - Grant program for support of AMBER Alert communications 
 usc_title: 42
 usc_section: "5791c"
 chapter: 72
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 5791c"
-generated_at: "2026-03-30T04:53:51.218Z"
+generated_at: "2026-03-30T04:55:52.518Z"
 status: "active"
 ---
 

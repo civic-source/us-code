@@ -3,9 +3,9 @@ title: "Section 3940 - Omitted"
 usc_title: 43
 usc_section: "3940"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "43 U.S.C. § 3940"
-generated_at: "2026-03-30T04:53:30.780Z"
+generated_at: "2026-03-30T04:55:37.433Z"
 status: "omitted"
 ---
 

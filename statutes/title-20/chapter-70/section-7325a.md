@@ -3,9 +3,9 @@ title: "Section 7325a - Peer review"
 usc_title: 20
 usc_section: "7325a"
 chapter: 70
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "20 U.S.C. § 7325a"
-generated_at: "2026-03-30T04:52:57.229Z"
+generated_at: "2026-03-30T04:54:51.418Z"
 status: "active"
 ---
 

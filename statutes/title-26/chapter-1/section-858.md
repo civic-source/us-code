@@ -3,9 +3,9 @@ title: "Section 858 - Dividends paid by real estate investment trust after close
 usc_title: 26
 usc_section: "858"
 chapter: 1
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "26 U.S.C. § 858"
-generated_at: "2026-03-30T04:53:16.552Z"
+generated_at: "2026-03-30T04:55:21.148Z"
 status: "active"
 ---
 

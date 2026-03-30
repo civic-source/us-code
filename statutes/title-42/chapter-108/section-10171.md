@@ -3,9 +3,9 @@ title: "Section 10171 - Financial arrangements for low-level radioactive waste s
 usc_title: 42
 usc_section: "10171"
 chapter: 108
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 10171"
-generated_at: "2026-03-30T04:53:51.339Z"
+generated_at: "2026-03-30T04:55:52.633Z"
 status: "active"
 ---
 

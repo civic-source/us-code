@@ -3,9 +3,9 @@ title: "Section 78dd - Foreign securities exchanges"
 usc_title: 15
 usc_section: "78dd"
 chapter: 2
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 78dd"
-generated_at: "2026-03-30T04:52:46.542Z"
+generated_at: "2026-03-30T04:54:44.557Z"
 status: "active"
 ---
 

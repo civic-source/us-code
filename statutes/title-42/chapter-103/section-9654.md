@@ -3,9 +3,9 @@ title: "Section 9654 - Applicability of Federal water pollution control funding,
 usc_title: 42
 usc_section: "9654"
 chapter: 103
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 9654"
-generated_at: "2026-03-30T04:53:51.321Z"
+generated_at: "2026-03-30T04:55:52.616Z"
 status: "active"
 ---
 

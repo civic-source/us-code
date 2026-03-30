@@ -3,15 +3,15 @@ title: "Section 2805 - Coordination of national activities regarding aquaculture
 usc_title: 16
 usc_section: "2805"
 chapter: 48
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 2805"
-generated_at: "2026-03-30T04:53:00.069Z"
+generated_at: "2026-03-30T04:54:53.736Z"
 status: "active"
 ---
 
 # § 2805. Coordination of national activities regarding aquaculture
 
-- **(a)** There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978 . The coordinating group shall be composed of the following members or their designees:
+- **(a)** There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f), operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978 . The coordinating group shall be composed of the following members or their designees:
   - **(1)** The Secretary of Agriculture, who shall be the permanent chairman of the coordinating group.
   - **(2)** The Secretary of Commerce.
   - **(3)** The Secretary of the Interior.
@@ -34,4 +34,4 @@ status: "active"
   - **(6)** recommend to the Federal Council specific actions on issues, problems, plans, and programs in aquaculture.
 - **(c)** The coordinating group shall regularly report to the Chairman of the Federal Council on the coordinating group’s activities and on recommendations concerning Federal policies and programs related to aquaculture.
 - **(d)** Each Federal department and agency that has functions or responsibilities with respect to aquaculture or has jurisdiction over any activity that affects, or that may affect, the achievement of the purpose and policy of this chapter, shall, in consultation with the coordinating group and to the maximum extent practicable, perform such function, responsibility, or activity in a manner that is consistent with the purpose and policy of this chapter.
-- **(e)** If at any time after September 26, 1980 , the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) of this section and the reports required under subsection (c) of this section shall be made to the Director.
+- **(e)** If at any time after September 26, 1980 , the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.

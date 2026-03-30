@@ -3,9 +3,9 @@ title: "Section 14014 - Report on confidentiality of addresses for victims of do
 usc_title: 42
 usc_section: "14014"
 chapter: 136
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 14014"
-generated_at: "2026-03-30T04:53:51.402Z"
+generated_at: "2026-03-30T04:55:52.694Z"
 status: "active"
 ---
 

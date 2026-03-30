@@ -3,9 +3,9 @@ title: "Section 1600e - Exceptions"
 usc_title: 43
 usc_section: "1600e"
 chapter: 32
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "43 U.S.C. § 1600e"
-generated_at: "2026-03-30T04:53:30.818Z"
+generated_at: "2026-03-30T04:55:37.472Z"
 status: "active"
 ---
 

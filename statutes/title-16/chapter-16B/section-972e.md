@@ -3,9 +3,9 @@ title: "Section 972e - Regulations"
 usc_title: 16
 usc_section: "972e"
 chapter: 16
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 972e"
-generated_at: "2026-03-30T04:53:00.022Z"
+generated_at: "2026-03-30T04:54:53.690Z"
 status: "active"
 ---
 

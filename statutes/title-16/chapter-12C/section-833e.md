@@ -3,9 +3,9 @@ title: "Section 833e - Factors in determining rate schedules"
 usc_title: 16
 usc_section: "833e"
 chapter: 12
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 833e"
-generated_at: "2026-03-30T04:53:00.014Z"
+generated_at: "2026-03-30T04:54:53.682Z"
 status: "active"
 ---
 

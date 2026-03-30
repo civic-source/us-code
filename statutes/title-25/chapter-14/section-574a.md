@@ -3,9 +3,9 @@ title: "Section 574a - Acquisition of lands on Wind River Reservation"
 usc_title: 25
 usc_section: "574a"
 chapter: 14
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 574a"
-generated_at: "2026-03-30T04:53:04.663Z"
+generated_at: "2026-03-30T04:54:57.193Z"
 status: "active"
 ---
 

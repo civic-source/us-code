@@ -3,9 +3,9 @@ title: "Section 9355 - Board of Visitors"
 usc_title: 10
 usc_section: "9355"
 chapter: 903
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 9355"
-generated_at: "2026-03-30T04:52:15.765Z"
+generated_at: "2026-03-30T04:54:37.544Z"
 status: "active"
 ---
 

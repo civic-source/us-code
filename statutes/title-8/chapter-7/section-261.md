@@ -3,9 +3,9 @@ title: "Section 261 - Omitted"
 usc_title: 8
 usc_section: "261"
 chapter: 7
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "8 U.S.C. § 261"
-generated_at: "2026-03-30T04:52:16.691Z"
+generated_at: "2026-03-30T04:54:32.001Z"
 status: "omitted"
 ---
 

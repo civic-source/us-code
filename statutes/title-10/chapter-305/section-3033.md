@@ -3,9 +3,9 @@ title: "Section 3033 - Chief of Staff"
 usc_title: 10
 usc_section: "3033"
 chapter: 305
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "10 U.S.C. § 3033"
-generated_at: "2026-03-30T04:52:15.741Z"
+generated_at: "2026-03-30T04:54:37.520Z"
 status: "active"
 ---
 

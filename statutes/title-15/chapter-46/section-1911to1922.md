@@ -3,9 +3,9 @@ title: "Section 1911to1922 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994
 usc_title: 15
 usc_section: "1911to1922"
 chapter: 46
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "15 U.S.C. § 1911to1922"
-generated_at: "2026-03-30T04:52:46.631Z"
+generated_at: "2026-03-30T04:54:44.645Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 972f - Prohibited acts"
 usc_title: 16
 usc_section: "972f"
 chapter: 16
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "16 U.S.C. § 972f"
-generated_at: "2026-03-30T04:53:00.022Z"
+generated_at: "2026-03-30T04:54:53.690Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
   - **(5)** being a person in charge of a vessel of the United States, to fail to stop upon being hailed by an authorized official of the United States, or to refuse to permit officials of the United States to board the vessel or inspect its catch, equipment, books, documents, records, or other articles, or to question individuals on board; or
   - **(6)** to import from any country, in violation of any regulation issued under section 972e of this title , any designated species of tuna.
 - **(b)** Any person who is convicted of violating—
-  - **(1)** subsection (a)(1), (a)(2), or (a)(3) of this section shall be fined or assessed a civil penalty not more than $25,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $50,000;
-  - **(2)** subsection (a)(4) or (a)(5) of this section shall be fined or assessed a civil penalty not more than $5,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $5,000; or
-  - **(3)** subsection (a)(6) of this section shall be fined or assessed a civil penalty not more than $100,000.
-- **(c)** All designated species of tuna taken or retained in violation of subsection (a)(1), (2), (3), or (6) of this section, or the monetary value thereof, is subject to forfeiture.
+  - **(1)** subsection (a)(1), (a)(2), or (a)(3) shall be fined or assessed a civil penalty not more than $25,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $50,000;
+  - **(2)** subsection (a)(4) or (a)(5) shall be fined or assessed a civil penalty not more than $5,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $5,000; or
+  - **(3)** subsection (a)(6) shall be fined or assessed a civil penalty not more than $100,000.
+- **(c)** All designated species of tuna taken or retained in violation of subsection (a)(1), (2), (3), or (6), or the monetary value thereof, is subject to forfeiture.
 - **(d)** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.

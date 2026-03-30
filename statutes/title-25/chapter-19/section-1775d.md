@@ -3,9 +3,9 @@ title: "Section 1775d - Consent of United States to State assumption of criminal
 usc_title: 25
 usc_section: "1775d"
 chapter: 19
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "25 U.S.C. § 1775d"
-generated_at: "2026-03-30T04:53:04.702Z"
+generated_at: "2026-03-30T04:54:57.231Z"
 status: "active"
 ---
 

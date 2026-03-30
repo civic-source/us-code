@@ -3,9 +3,9 @@ title: "Section 2071 - Concealment, removal, or mutilation generally"
 usc_title: 18
 usc_section: "2071"
 chapter: 101
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "18 U.S.C. § 2071"
-generated_at: "2026-03-30T04:52:52.199Z"
+generated_at: "2026-03-30T04:54:48.187Z"
 status: "active"
 ---
 

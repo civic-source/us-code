@@ -3,9 +3,9 @@ title: "Section 2251to2257 - Repealed. Aug. 1, 1946, ch. 724 , title I, § 302(a
 usc_title: 42
 usc_section: "2251to2257"
 chapter: 23
-current_through: "PL 114-72"
+current_through: "PL 114-73"
 classification: "42 U.S.C. § 2251to2257"
-generated_at: "2026-03-30T04:53:51.140Z"
+generated_at: "2026-03-30T04:55:52.440Z"
 status: "repealed"
 ---
 
