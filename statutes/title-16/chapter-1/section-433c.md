@@ -3,9 +3,9 @@ title: "Section 433c - Acceptance of donations of lands and funds; acquisition o
 usc_title: 16
 usc_section: "433c"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "16 U.S.C. § 433c"
-generated_at: "2026-03-30T09:06:59.404Z"
+generated_at: "2026-03-30T09:10:49.727Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1121 - Quarterly priority progress reviews and use of performanc
 usc_title: 31
 usc_section: "1121"
 chapter: 11
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "31 U.S.C. § 1121"
-generated_at: "2026-03-30T09:07:36.735Z"
+generated_at: "2026-03-30T09:11:38.409Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8816 - Purchase agreements"
 usc_title: 42
 usc_section: "8816"
 chapter: 96
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 8816"
-generated_at: "2026-03-30T09:08:36.891Z"
+generated_at: "2026-03-30T09:12:02.075Z"
 status: "active"
 ---
 

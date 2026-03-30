@@ -3,9 +3,9 @@ title: "Section 871 - Threats against President and successors to the Presidency
 usc_title: 18
 usc_section: "871"
 chapter: 41
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "18 U.S.C. § 871"
-generated_at: "2026-03-30T09:06:54.871Z"
+generated_at: "2026-03-30T09:11:05.919Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3797o - Transferred"
 usc_title: 42
 usc_section: "3797o"
 chapter: 46
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 3797o"
-generated_at: "2026-03-30T09:08:36.768Z"
+generated_at: "2026-03-30T09:12:01.937Z"
 status: "transferred"
 ---
 

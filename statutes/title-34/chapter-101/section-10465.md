@@ -3,9 +3,9 @@ title: "Section 10465 - Definitions and grant conditions"
 usc_title: 34
 usc_section: "10465"
 chapter: 101
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "34 U.S.C. § 10465"
-generated_at: "2026-03-30T09:07:37.319Z"
+generated_at: "2026-03-30T09:11:36.944Z"
 status: "active"
 ---
 

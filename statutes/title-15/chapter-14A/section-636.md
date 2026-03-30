@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T09:06:47.301Z"
+generated_at: "2026-03-30T09:10:42.345Z"
 status: "active"
 ---
 
@@ -311,7 +311,7 @@ status: "active"
     - **(A)** In this paragraph—
       - **(i)** the terms “appropriate Federal banking agency” and “insured depository institution” have the meanings given those terms in section 1813 of title 12 ;
       - **(ii)** the term “covered loan” means a loan made under this paragraph during the covered period;
-      - **(iii)** the term “covered period” means the period beginning on February 15, 2020 and ending on June 30, 2020 ;
+      - **(iii)** the term “covered period” means the period beginning on February 15, 2020 and ending on December 31, 2020 ;
       - **(iv)** the term “eligible recipient” means an individual or entity that is eligible to receive a covered loan;
       - **(v)** the term “eligible self-employed individual” has the meaning given the term in section 7002(b) of the Families First Coronavirus Response Act ( Public Law 116–127 );
       - **(vi)** the term “insured credit union” has the meaning given the term in section 1752 of title 12 ;
@@ -378,7 +378,7 @@ status: "active"
       - **(ii)** no collateral shall be required for the covered loan.
     - **(K)** With respect to a covered loan that has a remaining balance after reduction based on the loan forgiveness amount under section 9005 of this title —
       - **(i)** the remaining balance shall continue to be guaranteed by the Administration under this subsection; and
-      - **(ii)** the covered loan shall have a maximum maturity of 10 years from the date on which the borrower applies for loan forgiveness under that section.
+      - **(ii)** the covered loan shall have a minimum maturity of 5 years and a maximum maturity of 10 years from the date on which the borrower applies for loan forgiveness under that section.
     - **(L)** A covered loan shall bear an interest rate not to exceed 4 percent.
     - **(M)**
       - **(i)**
@@ -386,9 +386,10 @@ status: "active"
         - **(II)** For purposes of this subparagraph, an impacted borrower is presumed to have been adversely impacted by COVID–19.
       - **(ii)** During the covered period, the Administrator shall—
         - **(I)** consider each eligible recipient that applies for a covered loan to be an impacted borrower; and
-        - **(II)** require lenders under this subsection to provide complete payment deferment relief for impacted borrowers with covered loans for a period of not less than 6 months, including payment of principal, interest, and fees, and not more than 1 year.
-      - **(iii)** During the covered period, with respect to a covered loan that is sold on the secondary market, if an investor declines to approve a deferral requested by a lender under clause (ii), the Administrator shall exercise the authority to purchase the loan so that the impacted borrower may receive a deferral for a period of not less than 6 months, including payment of principal, interest, and fees, and not more than 1 year.
-      - **(iv)** Not later than 30 days after the March 27, 2020 , the Administrator shall provide guidance to lenders under this paragraph on the deferment process described in this subparagraph.
+        - **(II)** require lenders under this subsection to provide complete payment deferment relief for impacted borrowers with covered loans, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 9005 of this title is remitted to the lender.
+      - **(iii)** During the covered period, with respect to a covered loan that is sold on the secondary market, if an investor declines to approve a deferral requested by a lender under clause (ii), the Administrator shall exercise the authority to purchase the loan so that the impacted borrower may receive a deferral, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 9005 of this title is remitted to the lender.
+      - **(iv)** Not later than 30 days after March 27, 2020 , the Administrator shall provide guidance to lenders under this paragraph on the deferment process described in this subparagraph.
+      - **(v)** If an eligible recipient fails to apply for forgiveness of a covered loan within 10 months after the last day of the covered period defined in section 9005(a) of this title , such eligible recipient shall make payments of principal, interest, and fees on such covered loan beginning on the day that is not earlier than the date that is 10 months after the last day of such covered period.
     - **(N)** A covered loan shall be eligible to be sold in the secondary market consistent with this subsection. The Administrator may not collect any fee for any guarantee sold into the secondary market under this subparagraph.
     - **(O)**
       - **(i)** With respect to the appropriate Federal banking agencies or the National Credit Union Administration Board applying capital requirements under their respective risk-based capital requirements, a covered loan shall receive a risk weight of zero percent.

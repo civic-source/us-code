@@ -3,9 +3,9 @@ title: "Section 2147 - Inspection by legally constituted law enforcement agencie
 usc_title: 7
 usc_section: "2147"
 chapter: 54
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 2147"
-generated_at: "2026-03-30T09:06:35.556Z"
+generated_at: "2026-03-30T09:09:46.369Z"
 status: "active"
 ---
 

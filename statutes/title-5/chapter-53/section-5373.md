@@ -3,9 +3,9 @@ title: "Section 5373 - Limitation on pay fixed by administrative action"
 usc_title: 5
 usc_section: "5373"
 chapter: 53
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "5 U.S.C. § 5373"
-generated_at: "2026-03-30T09:06:28.677Z"
+generated_at: "2026-03-30T09:09:38.888Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8853 - Court in which proceedings brought"
 usc_title: 10
 usc_section: "8853"
 chapter: 883
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 8853"
-generated_at: "2026-03-30T09:06:39.451Z"
+generated_at: "2026-03-30T09:10:01.486Z"
 status: "active"
 ---
 

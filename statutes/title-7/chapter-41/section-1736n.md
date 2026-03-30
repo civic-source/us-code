@@ -3,9 +3,9 @@ title: "Section 1736n - Repealed. Pub. L. 104–127, title II , §§ 226, 266, A
 usc_title: 7
 usc_section: "1736n"
 chapter: 41
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 1736n"
-generated_at: "2026-03-30T09:06:35.526Z"
+generated_at: "2026-03-30T09:09:46.339Z"
 status: "repealed"
 ---
 

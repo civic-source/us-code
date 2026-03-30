@@ -3,9 +3,9 @@ title: "Section 7671f - Exchange authority"
 usc_title: 42
 usc_section: "7671f"
 chapter: 85
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 7671f"
-generated_at: "2026-03-30T09:08:36.875Z"
+generated_at: "2026-03-30T09:12:02.058Z"
 status: "active"
 ---
 

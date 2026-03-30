@@ -3,9 +3,9 @@ title: "Section 1953 - Coast Guard program"
 usc_title: 33
 usc_section: "1953"
 chapter: 33
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "33 U.S.C. § 1953"
-generated_at: "2026-03-30T09:07:47.497Z"
+generated_at: "2026-03-30T09:11:37.768Z"
 status: "active"
 ---
 

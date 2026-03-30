@@ -3,9 +3,9 @@ title: "Section 7687 - Sale of excess, obsolete, or unserviceable ammunition and
 usc_title: 10
 usc_section: "7687"
 chapter: 773
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 7687"
-generated_at: "2026-03-30T09:06:39.441Z"
+generated_at: "2026-03-30T09:10:01.474Z"
 status: "active"
 ---
 

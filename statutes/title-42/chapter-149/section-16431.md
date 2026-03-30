@@ -3,9 +3,9 @@ title: "Section 16431 - Federal utility participation in transmission organizati
 usc_title: 42
 usc_section: "16431"
 chapter: 149
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 16431"
-generated_at: "2026-03-30T09:08:36.998Z"
+generated_at: "2026-03-30T09:12:02.191Z"
 status: "active"
 ---
 

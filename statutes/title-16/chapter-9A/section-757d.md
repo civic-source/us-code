@@ -3,9 +3,9 @@ title: "Section 757d - Authorization of appropriations"
 usc_title: 16
 usc_section: "757d"
 chapter: 9
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "16 U.S.C. § 757d"
-generated_at: "2026-03-30T09:06:59.478Z"
+generated_at: "2026-03-30T09:10:49.800Z"
 status: "active"
 ---
 

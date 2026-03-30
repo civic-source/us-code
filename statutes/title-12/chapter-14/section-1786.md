@@ -3,9 +3,9 @@ title: "Section 1786 - Termination of insured credit union status; cease and des
 usc_title: 12
 usc_section: "1786"
 chapter: 14
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "12 U.S.C. § 1786"
-generated_at: "2026-03-30T09:06:44.961Z"
+generated_at: "2026-03-30T09:10:16.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9005 - Loan forgiveness"
 usc_title: 15
 usc_section: "9005"
 chapter: 116
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 9005"
-generated_at: "2026-03-30T09:06:47.436Z"
+generated_at: "2026-03-30T09:10:42.478Z"
 status: "active"
 ---
 
@@ -17,7 +17,9 @@ status: "active"
     - **(A)** is a liability of the borrower;
     - **(B)** is a mortgage on real or personal property; and
     - **(C)** was incurred before February 15, 2020 ;
-  - **(3)** the term “covered period” means the 8-week period beginning on the date of the origination of a covered loan;
+  - **(3)** the term “covered period” means, subject to subsection ( l ), the period beginning on the date of the origination of a covered loan and ending the earlier of—
+    - **(A)** the date that is 24 weeks after such date of origination; or
+    - **(B)** December 31, 2020 ;
   - **(4)** the term “covered rent obligation” means rent obligated under a leasing agreement in force before February 15, 2020 ;
   - **(5)** the term “covered utility payment” means payment for a service for the distribution of electricity, gas, water, transportation, telephone, or internet access for which service began before February 15, 2020 ;
   - **(6)** the term “eligible recipient” means the recipient of a covered loan;
@@ -58,12 +60,18 @@ status: "active"
     - **(B)** A circumstance described in this subparagraph is a circumstance—
       - **(i)** in which—
         - **(I)** during the period beginning on February 15, 2020 and ending on the date that is 30 days after March 27, 2020 , there is a reduction, as compared to February 15, 2020 , in the number of full-time equivalent employees of an eligible recipient; and
-        - **(II)** not later than June 30, 2020 , the eligible employer has eliminated the reduction in the number of full-time equivalent employees;
+        - **(II)** not later than December 31, 2020 , the eligible employer has eliminated the reduction in the number of full-time equivalent employees;
       - **(ii)** in which—
         - **(I)** during the period beginning on February 15, 2020 and ending on the date that is 30 days after March 27, 2020 , there is a reduction, as compared to February 15, 2020 , in the salary or wages of 1 or more employees of the eligible recipient; and
-        - **(II)** not later than June 30, 2020 , the eligible employer has eliminated the reduction in the salary or wages of such employees; or
+        - **(II)** not later than December 31, 2020 , the eligible employer has eliminated the reduction in the salary or wages of such employees; or
       - **(iii)** in which the events described in clause (i) and (ii) occur.
   - **(6)** The Administrator and the Secretary of the Treasury may prescribe regulations granting de minimis exemptions from the requirements under this subsection.
+  - **(7)** During the period beginning on February 15, 2020 , and ending on December 31, 2020 , the amount of loan forgiveness under this section shall be determined without regard to a proportional reduction in the number of full-time equivalent employees if an eligible recipient, in good faith—
+    - **(A)** is able to document—
+      - **(i)** an inability to rehire individuals who were employees of the eligible recipient on February 15, 2020 ; and
+      - **(ii)** an inability to hire similarly qualified employees for unfilled positions on or before December 31, 2020 ; or
+    - **(B)** is able to document an inability to return to the same level of business activity as such business was operating at before February 15, 2020 , due to compliance with requirements established or guidance issued by the Secretary of Health and Human Services, the Director of the Centers for Disease Control and Prevention, or the Occupational Safety and Health Administration during the period beginning on March 1, 2020 , and ending December 31, 2020 , related to the maintenance of standards for sanitation, social distancing, or any other worker or customer safety requirement related to COVID–19.
+  - **(8)** To receive loan forgiveness under this section, an eligible recipient shall use at least 60 percent of the covered loan amount for payroll costs, and may use up to 40 percent of such amount for any payment of interest on any covered mortgage obligation (which shall not include any prepayment of or payment of principal on a covered mortgage obligation), any payment on any covered rent obligation, or any covered utility payment.
 - **(e)** An eligible recipient seeking loan forgiveness under this section shall submit to the lender that is servicing the covered loan an application, which shall include—
   - **(1)** documentation verifying the number of full-time equivalent employees on payroll and pay rates for the periods described in subsection (d), including—
     - **(A)** payroll tax filings reported to the Internal Revenue Service; and
@@ -80,4 +88,5 @@ status: "active"
   - **(2)** the lender shall not be subject to any penalties by the Administrator relating to loan forgiveness for the payments for payroll costs, payments on covered mortgage obligations, payments on covered lease obligations, or covered utility payments, as the case may be.
 - **(i)** For purposes of title 26, any amount which (but for this subsection) would be includible in gross income of the eligible recipient by reason of forgiveness described in subsection (b) shall be excluded from gross income.
 - **(j)** The cancellation of indebtedness on a covered loan under this section shall not otherwise modify the terms and conditions of the covered loan.
-- **(k)** Not later than 30 days after March 27, 2020 , the Administrator shall issue guidance and regulations implementing this section.
+- **(k)** Not later than 30 days after March 27, 2020 , the Administrator shall issue guidance and regulations implementing this section.”
+- **(l)** An eligible recipient that received a covered loan before June 5, 2020 , may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.

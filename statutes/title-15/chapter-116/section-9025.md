@@ -3,9 +3,9 @@ title: "Section 9025 - Pandemic emergency unemployment compensation"
 usc_title: 15
 usc_section: "9025"
 chapter: 116
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 9025"
-generated_at: "2026-03-30T09:06:47.437Z"
+generated_at: "2026-03-30T09:10:42.479Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
     - **(C)** are not receiving compensation with respect to such week under the unemployment compensation law of Canada; and
     - **(D)** are able to work, available to work, and actively seeking work.
   - **(3)** For purposes of paragraph (2)(A), an individual shall be deemed to have exhausted such individual’s rights to regular compensation under a State law when—
-    - **(A)**
-    - **(B)**
+    - **(A)** no payments of regular compensation can be made under such law because such individual has received all regular compensation available to such individual based on employment or wages during such individual’s base period; or
+    - **(B)** such individual’s rights to such compensation have been terminated by reason of the expiration of the benefit year with respect to which such rights existed.
   - **(4)** For purposes of any agreement under this section—
     - **(A)** the amount of pandemic emergency unemployment compensation which shall be payable to any individual for any week of total unemployment shall be equal to—
       - **(i)** the amount of the regular compensation (including dependents’ allowances) payable to such individual during such individual’s benefit year under the State law for a week of total unemployment; and
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** An agreement under this section shall not apply (or shall cease to apply) with respect to a State upon a determination by the Secretary that the method governing the computation of regular compensation under the State law of that State has been modified in a manner such that the number of weeks (the maximum benefit entitlement), or the average weekly benefit amount, of regular compensation which will be payable during the period of the agreement will be less than the number of weeks, or the average weekly benefit amount, of the average weekly benefit amount of regular compensation which would otherwise have been payable during such period under the State law, as in effect on January 1, 2020 .
     - **(B)** In subparagraph (A), the term “maximum benefit entitlement” means the amount of regular unemployment compensation payable to an individual with respect to the individual’s benefit year.
   - **(7)**
-    - **(A)** Subject to subparagraph (C), for purposes of paragraph (2)(D), the term “actively seeking work” means, with respect to any individual, that such individual—
+    - **(A)** Subject to subparagraph (C), 2 2 So in original. for purposes of paragraph (2)(D), the term “actively seeking work” means, with respect to any individual, that such individual—
       - **(i)** is registered for employment services in such a manner and to such extent as prescribed by the State agency;
       - **(ii)** has engaged in an active search for employment that is appropriate in light of the employment available in the labor market, the individual’s skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
       - **(iii)** has maintained a record of such work search, including employers contacted, method of contact, and date contacted; and

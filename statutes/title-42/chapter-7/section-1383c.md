@@ -3,9 +3,9 @@ title: "Section 1383c - Eligibility for medical assistance of aged, blind, or di
 usc_title: 42
 usc_section: "1383c"
 chapter: 7
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 1383c"
-generated_at: "2026-03-30T09:08:36.567Z"
+generated_at: "2026-03-30T09:12:01.717Z"
 status: "active"
 ---
 

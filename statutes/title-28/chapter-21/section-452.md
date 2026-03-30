@@ -3,9 +3,9 @@ title: "Section 452 - Courts always open; powers unrestricted by expiration of s
 usc_title: 28
 usc_section: "452"
 chapter: 21
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "28 U.S.C. § 452"
-generated_at: "2026-03-30T09:07:25.048Z"
+generated_at: "2026-03-30T09:11:19.534Z"
 status: "active"
 ---
 

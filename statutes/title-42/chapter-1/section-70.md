@@ -3,9 +3,9 @@ title: "Section 70 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 42
 usc_section: "70"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 70"
-generated_at: "2026-03-30T09:08:36.376Z"
+generated_at: "2026-03-30T09:12:01.511Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 487 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(9)(A)
 usc_title: 10
 usc_section: "487"
 chapter: 23
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 487"
-generated_at: "2026-03-30T09:06:39.341Z"
+generated_at: "2026-03-30T09:10:01.363Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7552 - Policy"
 usc_title: 10
 usc_section: "7552"
 chapter: 764
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 7552"
-generated_at: "2026-03-30T09:06:39.440Z"
+generated_at: "2026-03-30T09:10:01.473Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T09:08:18.854Z"
+generated_at: "2026-03-30T09:11:42.381Z"
 status: "active"
 ---
 

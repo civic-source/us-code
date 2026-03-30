@@ -3,9 +3,9 @@ title: "Section 1779f - Omitted"
 usc_title: 25
 usc_section: "1779f"
 chapter: 19
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "25 U.S.C. § 1779f"
-generated_at: "2026-03-30T09:07:03.492Z"
+generated_at: "2026-03-30T09:11:10.903Z"
 status: "omitted"
 ---
 

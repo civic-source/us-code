@@ -3,9 +3,9 @@ title: "Section 10108 - Applicability to transportation"
 usc_title: 42
 usc_section: "10108"
 chapter: 108
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 10108"
-generated_at: "2026-03-30T09:08:36.918Z"
+generated_at: "2026-03-30T09:12:02.104Z"
 status: "active"
 ---
 

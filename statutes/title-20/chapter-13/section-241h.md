@@ -3,9 +3,9 @@ title: "Section 241h - Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 
 usc_title: 20
 usc_section: "241h"
 chapter: 13
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "20 U.S.C. § 241h"
-generated_at: "2026-03-30T09:06:57.099Z"
+generated_at: "2026-03-30T09:10:53.311Z"
 status: "repealed"
 ---
 

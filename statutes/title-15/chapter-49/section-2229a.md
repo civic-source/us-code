@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-30T09:06:47.378Z"
+generated_at: "2026-03-30T09:10:42.421Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
       - **(ii)** members of national fire service organizations or national organizations representing the interests of State and local governments.
     - **(C)** In developing guidelines under subparagraph (A), the Administrator of FEMA shall consider, with respect to relevant communities, the following:
       - **(i)** Changes in rates of unemployment from previous years.
-      - **(ii)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded the annual national average rates of unemployment.
+      - **(ii)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 1 1 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
       - **(iii)** Changes in percentages of individuals eligible to receive food stamps from previous years.
       - **(iv)** Such other factors as the Administrator of FEMA considers appropriate.
 - **(e)**
@@ -64,7 +64,7 @@ status: "active"
   - **(1)** The Administrator of FEMA shall have access for the purpose of audit and examination to any pertinent books, documents, papers, or records of a grant recipient under this section and to the pertinent books, documents, papers, or records of State and local governments, persons, businesses, and other entities that are involved in programs, projects, or activities for which assistance is provided under this section.
   - **(2)** Paragraph (1) shall apply with respect to audits and examinations conducted by the Comptroller General of the United States or by an authorized representative of the Comptroller General.
 - **(i)** In this section:
-  - **(1)** The term “firefighter” has the meaning given the term “employee in fire protection activities” under section 203(y) of title 29 . 1 1 See References in Text note below.
+  - **(1)** The term “firefighter” has the meaning given the term “employee in fire protection activities” under section 203(y) of title 29 . 2 2 See References in Text note below.
   - **(2)** The terms “Administrator of FEMA”, “career fire department”, “combination fire department”, and “volunteer fire department” have the meanings given such terms in section 2229(a) of this title .
 - **(j)**
   - **(1)** There are authorized to be appropriated for the purposes of carrying out this section—

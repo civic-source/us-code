@@ -3,9 +3,9 @@ title: "Section 5 - “Eligible agency” defined"
 usc_title: 29
 usc_section: "5"
 chapter: 16
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "29 U.S.C. § 5"
-generated_at: "2026-03-30T09:07:27.273Z"
+generated_at: "2026-03-30T09:11:21.151Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 37 - Nodaway River, Missouri"
 usc_title: 33
 usc_section: "37"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "33 U.S.C. § 37"
-generated_at: "2026-03-30T09:07:47.444Z"
+generated_at: "2026-03-30T09:11:37.716Z"
 status: "active"
 ---
 

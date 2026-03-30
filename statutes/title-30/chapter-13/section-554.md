@@ -3,9 +3,9 @@ title: "Section 554 - Lands subject to chapter"
 usc_title: 30
 usc_section: "554"
 chapter: 13
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "30 U.S.C. § 554"
-generated_at: "2026-03-30T09:07:22.965Z"
+generated_at: "2026-03-30T09:11:15.817Z"
 status: "active"
 ---
 

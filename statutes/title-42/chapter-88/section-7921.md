@@ -3,9 +3,9 @@ title: "Section 7921 - Public participation; public hearings"
 usc_title: 42
 usc_section: "7921"
 chapter: 88
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 7921"
-generated_at: "2026-03-30T09:08:36.878Z"
+generated_at: "2026-03-30T09:12:02.060Z"
 status: "active"
 ---
 

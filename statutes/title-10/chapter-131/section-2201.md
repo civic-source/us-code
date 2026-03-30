@@ -3,9 +3,9 @@ title: "Section 2201 - Apportionment of funds: authority for exemption; excepted
 usc_title: 10
 usc_section: "2201"
 chapter: 131
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 2201"
-generated_at: "2026-03-30T09:06:39.396Z"
+generated_at: "2026-03-30T09:10:01.422Z"
 status: "active"
 ---
 

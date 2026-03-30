@@ -3,9 +3,9 @@ title: "Section 1063a - Renumbered § 1064]"
 usc_title: 10
 usc_section: "1063a"
 chapter: 54
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 1063a"
-generated_at: "2026-03-30T09:06:39.364Z"
+generated_at: "2026-03-30T09:10:01.386Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1118 - Biometrics expansion"
 usc_title: 6
 usc_section: "1118"
 chapter: 4
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "6 U.S.C. § 1118"
-generated_at: "2026-03-30T09:06:32.499Z"
+generated_at: "2026-03-30T09:09:41.409Z"
 status: "active"
 ---
 

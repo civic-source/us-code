@@ -3,9 +3,9 @@ title: "Section 9007 - Minority Business Development Agency"
 usc_title: 15
 usc_section: "9007"
 chapter: 116
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 9007"
-generated_at: "2026-03-30T09:06:47.436Z"
+generated_at: "2026-03-30T09:10:42.478Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(A)** the programs and services developed and provided by the Agency, minority business centers, and minority chambers of commerce under subsection (b); and
     - **(B)** the initial efforts to provide those services under subsection (b); and
   - **(2)** with respect to subsequent years covered by the report—
-    - **(A)** with respect to the grant program under subsection (b)—
+    - **(A)** 1 1 So in original. No subpar. (B) has been enacted. with respect to the grant program under subsection (b)—
       - **(i)** the efforts of the Agency, minority business centers, and minority chambers of commerce to develop services to assist minority business enterprises;
       - **(ii)** the challenges faced by owners of minority business enterprises in accessing services provided by the Agency, minority business centers, and minority chambers of commerce;
       - **(iii)** the number of unique minority business enterprises that were served by the Agency, minority business centers, or minority chambers of commerce; and

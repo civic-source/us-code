@@ -3,9 +3,9 @@ title: "Section 41107 - Monetary penalties"
 usc_title: 46
 usc_section: "41107"
 chapter: 411
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "46 U.S.C. § 41107"
-generated_at: "2026-03-30T09:08:52.087Z"
+generated_at: "2026-03-30T09:12:05.782Z"
 status: "active"
 ---
 

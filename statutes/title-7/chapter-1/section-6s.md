@@ -3,9 +3,9 @@ title: "Section 6s - Registration and regulation of swap dealers and major swap 
 usc_title: 7
 usc_section: "6s"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 6s"
-generated_at: "2026-03-30T09:06:35.448Z"
+generated_at: "2026-03-30T09:09:46.264Z"
 status: "active"
 ---
 

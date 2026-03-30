@@ -3,9 +3,9 @@ title: "Section 78oo - Federal National Mortgage Association, Federal Home Loan 
 usc_title: 15
 usc_section: "78oo"
 chapter: 2
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 78oo"
-generated_at: "2026-03-30T09:06:47.277Z"
+generated_at: "2026-03-30T09:10:42.320Z"
 status: "active"
 ---
 

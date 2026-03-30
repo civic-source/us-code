@@ -3,9 +3,9 @@ title: "Section 2268 - Public lands; relinquishment"
 usc_title: 7
 usc_section: "2268"
 chapter: 55
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 2268"
-generated_at: "2026-03-30T09:06:35.560Z"
+generated_at: "2026-03-30T09:09:46.373Z"
 status: "active"
 ---
 

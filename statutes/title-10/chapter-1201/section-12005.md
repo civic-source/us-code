@@ -3,9 +3,9 @@ title: "Section 12005 - Strength in grade: commissioned officers in grades below
 usc_title: 10
 usc_section: "12005"
 chapter: 1201
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 12005"
-generated_at: "2026-03-30T09:06:39.462Z"
+generated_at: "2026-03-30T09:10:01.498Z"
 status: "active"
 ---
 

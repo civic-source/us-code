@@ -3,9 +3,9 @@ title: "Section 2111a - Support for senior military colleges"
 usc_title: 10
 usc_section: "2111a"
 chapter: 103
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 2111a"
-generated_at: "2026-03-30T09:06:39.392Z"
+generated_at: "2026-03-30T09:10:01.418Z"
 status: "active"
 ---
 

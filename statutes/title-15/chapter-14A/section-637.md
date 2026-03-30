@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T09:06:47.306Z"
+generated_at: "2026-03-30T09:10:42.349Z"
 status: "active"
 ---
 
@@ -230,7 +230,7 @@ status: "active"
       - **“(ii)** whose management and daily business operations are controlled by such veterans. The contractor shall treat as veterans all individuals who are veterans within the meaning of the term under section 3(q) of the Small Business Act.
     - **“(F)** Contractors acting in good faith may rely on written representations by their subcontractors regarding their status as either a small business concern, small business concern owned and controlled by veterans, small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by socially and economically disadvantaged individuals, or a small business concern owned and controlled by women.
     - **“(G)** In this contract, the term ‘qualified HUBZone small business concern’ has the meaning given that term in section 31(b) 4 4 So in original. Probably should be followed by “of the Small Business Act”. .
-    - **“(H)** In this contract, the term ‘small business concern owned and controlled by service-disabled veterans’ has the meaning given that term in section 632(q) of this title .”
+    - **“(H)** In this contract, the term ‘small business concern owned and controlled by service-disabled veterans’ has the meaning given that term in section 3(q) 4 .”
   - **(4)**
     - **(A)** Each solicitation of an offer for a contract to be let by a Federal agency which is to be awarded pursuant to the negotiated method of procurement and which may exceed $1,000,000, in the case of a contract for the construction of any public facility, or $500,000, in the case of all other contracts, shall contain a clause notifying potential offering companies of the provisions of this subsection relating to contracts awarded pursuant to the negotiated method of procurement.
     - **(B)** Before the award of any contract to be let, or any amendment or modification to any contract let, by any Federal agency which—

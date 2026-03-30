@@ -3,9 +3,9 @@ title: "Section 70114 - Automatic identification systems"
 usc_title: 46
 usc_section: "70114"
 chapter: 701
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "46 U.S.C. § 70114"
-generated_at: "2026-03-30T09:08:52.104Z"
+generated_at: "2026-03-30T09:12:05.798Z"
 status: "active"
 ---
 

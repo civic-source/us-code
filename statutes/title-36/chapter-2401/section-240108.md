@@ -3,9 +3,9 @@ title: "Section 240108 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "240108"
 chapter: 2401
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "36 U.S.C. § 240108"
-generated_at: "2026-03-30T09:07:51.334Z"
+generated_at: "2026-03-30T09:11:41.007Z"
 status: "active"
 ---
 

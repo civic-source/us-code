@@ -3,9 +3,9 @@ title: "Section 3902 - Purpose"
 usc_title: 50
 usc_section: "3902"
 chapter: 50
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "50 U.S.C. § 3902"
-generated_at: "2026-03-30T09:08:47.244Z"
+generated_at: "2026-03-30T09:12:33.494Z"
 status: "active"
 ---
 

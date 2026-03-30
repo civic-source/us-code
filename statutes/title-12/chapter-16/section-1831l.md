@@ -3,9 +3,9 @@ title: "Section 1831l - Coordination of risk analysis between SEC and Federal ba
 usc_title: 12
 usc_section: "1831l"
 chapter: 16
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "12 U.S.C. § 1831l"
-generated_at: "2026-03-30T09:06:44.981Z"
+generated_at: "2026-03-30T09:10:16.714Z"
 status: "active"
 ---
 

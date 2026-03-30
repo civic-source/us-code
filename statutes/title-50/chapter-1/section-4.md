@@ -3,9 +3,9 @@ title: "Section 4 - Rules and regulations; subordinate bodies and committees"
 usc_title: 50
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "50 U.S.C. § 4"
-generated_at: "2026-03-30T09:08:47.191Z"
+generated_at: "2026-03-30T09:12:33.437Z"
 status: "active"
 ---
 

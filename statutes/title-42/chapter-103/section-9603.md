@@ -3,9 +3,9 @@ title: "Section 9603 - Notification requirements respecting released substances"
 usc_title: 42
 usc_section: "9603"
 chapter: 103
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 9603"
-generated_at: "2026-03-30T09:08:36.896Z"
+generated_at: "2026-03-30T09:12:02.081Z"
 status: "active"
 ---
 

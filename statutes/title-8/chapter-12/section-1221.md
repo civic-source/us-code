@@ -3,9 +3,9 @@ title: "Section 1221 - Lists of alien and citizen passengers arriving and depart
 usc_title: 8
 usc_section: "1221"
 chapter: 12
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "8 U.S.C. § 1221"
-generated_at: "2026-03-30T09:06:31.262Z"
+generated_at: "2026-03-30T09:09:52.646Z"
 status: "active"
 ---
 

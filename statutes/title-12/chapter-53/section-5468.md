@@ -3,9 +3,9 @@ title: "Section 5468 - Requests for information, reports, or records"
 usc_title: 12
 usc_section: "5468"
 chapter: 53
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "12 U.S.C. § 5468"
-generated_at: "2026-03-30T09:06:45.052Z"
+generated_at: "2026-03-30T09:10:16.784Z"
 status: "active"
 ---
 

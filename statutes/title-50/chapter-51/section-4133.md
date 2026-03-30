@@ -3,9 +3,9 @@ title: "Section 4133 - Transfers and assignments"
 usc_title: 50
 usc_section: "4133"
 chapter: 51
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "50 U.S.C. § 4133"
-generated_at: "2026-03-30T09:08:47.248Z"
+generated_at: "2026-03-30T09:12:33.499Z"
 status: "active"
 ---
 

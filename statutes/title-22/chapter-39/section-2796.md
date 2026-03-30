@@ -3,9 +3,9 @@ title: "Section 2796 - Leasing authority"
 usc_title: 22
 usc_section: "2796"
 chapter: 39
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "22 U.S.C. § 2796"
-generated_at: "2026-03-30T09:07:20.674Z"
+generated_at: "2026-03-30T09:11:13.482Z"
 status: "active"
 ---
 

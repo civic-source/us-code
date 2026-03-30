@@ -3,9 +3,9 @@ title: "Section 9012 - Emergency rulemaking authority"
 usc_title: 15
 usc_section: "9012"
 chapter: 116
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 9012"
-generated_at: "2026-03-30T09:06:47.437Z"
+generated_at: "2026-03-30T09:10:42.479Z"
 status: "active"
 ---
 

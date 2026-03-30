@@ -3,9 +3,9 @@ title: "Section 9517 - Level of readiness of Civil Reserve Air Fleet carriers"
 usc_title: 10
 usc_section: "9517"
 chapter: 961
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 9517"
-generated_at: "2026-03-30T09:06:39.458Z"
+generated_at: "2026-03-30T09:10:01.494Z"
 status: "active"
 ---
 

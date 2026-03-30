@@ -3,9 +3,9 @@ title: "Section 3462 - Review of operation and effects of Agreement"
 usc_title: 19
 usc_section: "3462"
 chapter: 21
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "19 U.S.C. § 3462"
-generated_at: "2026-03-30T09:06:52.248Z"
+generated_at: "2026-03-30T09:10:46.776Z"
 status: "active"
 ---
 

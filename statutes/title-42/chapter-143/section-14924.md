@@ -3,9 +3,9 @@ title: "Section 14924 - Secretarial oversight of accreditation and approval"
 usc_title: 42
 usc_section: "14924"
 chapter: 143
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 14924"
-generated_at: "2026-03-30T09:08:36.978Z"
+generated_at: "2026-03-30T09:12:02.169Z"
 status: "active"
 ---
 

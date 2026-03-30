@@ -3,9 +3,9 @@ title: "Section 925 - Art. 125. Kidnapping"
 usc_title: 10
 usc_section: "925"
 chapter: 47
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 925"
-generated_at: "2026-03-30T09:06:39.357Z"
+generated_at: "2026-03-30T09:10:01.378Z"
 status: "active"
 ---
 

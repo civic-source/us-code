@@ -3,9 +3,9 @@ title: "Section 2540c - Fees charged and collected"
 usc_title: 10
 usc_section: "2540c"
 chapter: 148
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 2540c"
-generated_at: "2026-03-30T09:06:39.420Z"
+generated_at: "2026-03-30T09:10:01.449Z"
 status: "active"
 ---
 

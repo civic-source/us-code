@@ -3,9 +3,9 @@ title: "Section 4420 - Tax status; tort liability"
 usc_title: 20
 usc_section: "4420"
 chapter: 56
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "20 U.S.C. § 4420"
-generated_at: "2026-03-30T09:06:57.186Z"
+generated_at: "2026-03-30T09:10:53.392Z"
 status: "active"
 ---
 

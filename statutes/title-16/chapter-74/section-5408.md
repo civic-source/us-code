@@ -3,9 +3,9 @@ title: "Section 5408 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5408"
 chapter: 74
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "16 U.S.C. § 5408"
-generated_at: "2026-03-30T09:06:59.576Z"
+generated_at: "2026-03-30T09:10:49.897Z"
 status: "repealed"
 ---
 

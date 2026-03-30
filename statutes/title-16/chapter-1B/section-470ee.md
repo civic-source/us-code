@@ -3,9 +3,9 @@ title: "Section 470ee - Prohibited acts and criminal penalties"
 usc_title: 16
 usc_section: "470ee"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "16 U.S.C. § 470ee"
-generated_at: "2026-03-30T09:06:59.442Z"
+generated_at: "2026-03-30T09:10:49.765Z"
 status: "active"
 ---
 

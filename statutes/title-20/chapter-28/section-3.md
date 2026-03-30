@@ -3,9 +3,9 @@ title: "Section 3 - Demonstration and innovation projects; training and resource
 usc_title: 20
 usc_section: "3"
 chapter: 28
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T09:06:57.158Z"
+generated_at: "2026-03-30T09:10:53.364Z"
 status: "active"
 ---
 

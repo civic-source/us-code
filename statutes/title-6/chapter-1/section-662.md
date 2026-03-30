@@ -3,9 +3,9 @@ title: "Section 662 - Clearances"
 usc_title: 6
 usc_section: "662"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "6 U.S.C. § 662"
-generated_at: "2026-03-30T09:06:32.494Z"
+generated_at: "2026-03-30T09:09:41.404Z"
 status: "active"
 ---
 

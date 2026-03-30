@@ -3,9 +3,9 @@ title: "Section 2875 - Investments"
 usc_title: 10
 usc_section: "2875"
 chapter: 169
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 2875"
-generated_at: "2026-03-30T09:06:39.433Z"
+generated_at: "2026-03-30T09:10:01.464Z"
 status: "active"
 ---
 

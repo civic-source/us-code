@@ -3,9 +3,9 @@ title: "Section 647 - Repealed. Pub. L. 103–382, title III, § 331(a) , Oct. 2
 usc_title: 20
 usc_section: "647"
 chapter: 19
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "20 U.S.C. § 647"
-generated_at: "2026-03-30T09:06:57.100Z"
+generated_at: "2026-03-30T09:10:53.311Z"
 status: "repealed"
 ---
 

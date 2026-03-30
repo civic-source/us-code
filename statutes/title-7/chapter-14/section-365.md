@@ -3,9 +3,9 @@ title: "Section 365 - Transferred"
 usc_title: 7
 usc_section: "365"
 chapter: 14
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 365"
-generated_at: "2026-03-30T09:06:35.480Z"
+generated_at: "2026-03-30T09:09:46.295Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 330a - Report requirement; form; information; time of submission
 usc_title: 15
 usc_section: "330a"
 chapter: 9
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 330a"
-generated_at: "2026-03-30T09:06:47.297Z"
+generated_at: "2026-03-30T09:10:42.340Z"
 status: "active"
 ---
 

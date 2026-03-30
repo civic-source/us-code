@@ -3,9 +3,9 @@ title: "Section 11232 - Repealed. Pub. L. 100–607, title I, § 142(c)(1)(A) , 
 usc_title: 42
 usc_section: "11232"
 chapter: 118
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 11232"
-generated_at: "2026-03-30T09:08:36.931Z"
+generated_at: "2026-03-30T09:12:02.119Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2204 - Purchase of trust or restricted or controlled lands at no
 usc_title: 25
 usc_section: "2204"
 chapter: 24
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "25 U.S.C. § 2204"
-generated_at: "2026-03-30T09:07:03.498Z"
+generated_at: "2026-03-30T09:11:10.909Z"
 status: "active"
 ---
 

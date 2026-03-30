@@ -3,9 +3,9 @@ title: "Section 6709 - Penalties with respect to mortgage credit certificates"
 usc_title: 26
 usc_section: "6709"
 chapter: 68
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "26 U.S.C. § 6709"
-generated_at: "2026-03-30T09:07:34.052Z"
+generated_at: "2026-03-30T09:11:34.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6675 - STEM master teacher corps"
 usc_title: 20
 usc_section: "6675"
 chapter: 70
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "20 U.S.C. § 6675"
-generated_at: "2026-03-30T09:06:57.203Z"
+generated_at: "2026-03-30T09:10:53.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8728 - Agreements and leases: provision for change"
 usc_title: 10
 usc_section: "8728"
 chapter: 869
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 8728"
-generated_at: "2026-03-30T09:06:39.450Z"
+generated_at: "2026-03-30T09:10:01.485Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 102302 - National Capital region arts and cultural affairs"
 usc_title: 54
 usc_section: "102302"
 chapter: 1023
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "54 U.S.C. § 102302"
-generated_at: "2026-03-30T09:09:16.921Z"
+generated_at: "2026-03-30T09:12:35.506Z"
 status: "active"
 ---
 

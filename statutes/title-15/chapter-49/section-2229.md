@@ -3,9 +3,9 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-30T09:06:47.377Z"
+generated_at: "2026-03-30T09:10:42.420Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
       - **(iv)** In the case of a recipient that serves a jurisdiction with more than 1,000,000 people but not more than 2,500,000 people, the amount of the grant awarded to such recipient shall not exceed $6,000,000 for any fiscal year.
       - **(v)** In the case of a recipient that serves a jurisdiction with more than 2,500,000 people, the amount of the grant awarded to such recipient shall not exceed $9,000,000 in any fiscal year.
     - **(B)**
-      - **(i)** Notwithstanding subparagraphs (A) and (B) and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
+      - **(i)** Notwithstanding subparagraphs (A) and (B) 1 1 So in original. and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
       - **(ii)** The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in an amount that exceeds the limit under clause (i).
   - **(3)** Each entity receiving a grant under this subsection shall use the grant for one or more of the following purposes:
     - **(A)** To train firefighting personnel in—
@@ -176,7 +176,7 @@ status: "active"
         - **(II)** members of national fire service organizations or national organizations representing the interests of State and local governments.
       - **(iii)** In developing guidelines under clause (i), the Administrator of FEMA shall consider, with respect to relevant communities, the following:
         - **(I)** Changes in rates of unemployment from previous years.
-        - **(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded the annual national average rates of unemployment.
+        - **(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 2 2 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
         - **(III)** Changes in percentages of individuals eligible to receive food stamps from previous years.
         - **(IV)** Such other factors as the Administrator of FEMA considers appropriate.
     - **(C)** The authority under subparagraph (A) shall not apply with respect to a nonprofit organization that—

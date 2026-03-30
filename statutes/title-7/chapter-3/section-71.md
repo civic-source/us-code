@@ -3,9 +3,9 @@ title: "Section 71 - Short title"
 usc_title: 7
 usc_section: "71"
 chapter: 3
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 71"
-generated_at: "2026-03-30T09:06:35.456Z"
+generated_at: "2026-03-30T09:09:46.272Z"
 status: "active"
 ---
 

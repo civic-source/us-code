@@ -3,9 +3,9 @@ title: "Section 30901 - Short title"
 usc_title: 46
 usc_section: "30901"
 chapter: 309
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "46 U.S.C. § 30901"
-generated_at: "2026-03-30T09:08:52.084Z"
+generated_at: "2026-03-30T09:12:05.779Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450cc - Castle Clinton National Monument; establishment"
 usc_title: 16
 usc_section: "450cc"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "16 U.S.C. § 450cc"
-generated_at: "2026-03-30T09:06:59.406Z"
+generated_at: "2026-03-30T09:10:49.729Z"
 status: "active"
 ---
 

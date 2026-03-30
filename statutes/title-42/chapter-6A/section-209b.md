@@ -3,9 +3,9 @@ title: "Section 209b - Omitted"
 usc_title: 42
 usc_section: "209b"
 chapter: 6
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 209b"
-generated_at: "2026-03-30T09:08:36.377Z"
+generated_at: "2026-03-30T09:12:01.512Z"
 status: "omitted"
 ---
 

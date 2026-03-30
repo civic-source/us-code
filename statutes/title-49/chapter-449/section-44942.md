@@ -3,9 +3,9 @@ title: "Section 44942 - Performance goals and objectives"
 usc_title: 49
 usc_section: "44942"
 chapter: 449
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "49 U.S.C. § 44942"
-generated_at: "2026-03-30T09:09:06.158Z"
+generated_at: "2026-03-30T09:12:08.546Z"
 status: "active"
 ---
 

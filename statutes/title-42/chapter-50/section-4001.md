@@ -3,9 +3,9 @@ title: "Section 4001 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "4001"
 chapter: 50
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 4001"
-generated_at: "2026-03-30T09:08:36.769Z"
+generated_at: "2026-03-30T09:12:01.937Z"
 status: "active"
 ---
 

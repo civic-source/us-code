@@ -3,9 +3,9 @@ title: "Section 12131 - Command of documented vessels"
 usc_title: 46
 usc_section: "12131"
 chapter: 121
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "46 U.S.C. § 12131"
-generated_at: "2026-03-30T09:08:52.081Z"
+generated_at: "2026-03-30T09:12:05.776Z"
 status: "active"
 ---
 

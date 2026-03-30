@@ -3,9 +3,9 @@ title: "Section 5508 - Account in House of Representatives for Employees’ Comp
 usc_title: 2
 usc_section: "5508"
 chapter: 55
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "2 U.S.C. § 5508"
-generated_at: "2026-03-30T09:06:26.189Z"
+generated_at: "2026-03-30T09:09:29.031Z"
 status: "active"
 ---
 

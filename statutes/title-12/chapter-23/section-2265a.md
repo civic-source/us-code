@@ -3,9 +3,9 @@ title: "Section 2265a - Removal and prohibition authority; industry-wide prohibi
 usc_title: 12
 usc_section: "2265a"
 chapter: 23
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "12 U.S.C. § 2265a"
-generated_at: "2026-03-30T09:06:44.998Z"
+generated_at: "2026-03-30T09:10:16.731Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4121 - Monies received by Attending Physician from sale of presc
 usc_title: 2
 usc_section: "4121"
 chapter: 41
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "2 U.S.C. § 4121"
-generated_at: "2026-03-30T09:06:26.184Z"
+generated_at: "2026-03-30T09:09:29.025Z"
 status: "active"
 ---
 

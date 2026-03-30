@@ -3,9 +3,9 @@ title: "Section 10906 - Exception"
 usc_title: 49
 usc_section: "10906"
 chapter: 109
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "49 U.S.C. § 10906"
-generated_at: "2026-03-30T09:09:06.106Z"
+generated_at: "2026-03-30T09:12:08.492Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1027 - Retention of records"
 usc_title: 29
 usc_section: "1027"
 chapter: 18
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "29 U.S.C. § 1027"
-generated_at: "2026-03-30T09:07:27.276Z"
+generated_at: "2026-03-30T09:11:21.154Z"
 status: "active"
 ---
 

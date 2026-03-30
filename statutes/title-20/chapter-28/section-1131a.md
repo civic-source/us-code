@@ -3,9 +3,9 @@ title: "Section 1131a - Study abroad program"
 usc_title: 20
 usc_section: "1131a"
 chapter: 28
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "20 U.S.C. § 1131a"
-generated_at: "2026-03-30T09:06:57.150Z"
+generated_at: "2026-03-30T09:10:53.358Z"
 status: "active"
 ---
 

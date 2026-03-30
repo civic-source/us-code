@@ -3,9 +3,9 @@ title: "Section 7475 - Practice fee"
 usc_title: 26
 usc_section: "7475"
 chapter: 76
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "26 U.S.C. § 7475"
-generated_at: "2026-03-30T09:07:34.060Z"
+generated_at: "2026-03-30T09:11:34.114Z"
 status: "active"
 ---
 

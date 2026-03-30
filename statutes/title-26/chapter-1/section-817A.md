@@ -3,9 +3,9 @@ title: "Section 817A - Special rules for modified guaranteed contracts"
 usc_title: 26
 usc_section: "817A"
 chapter: 1
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "26 U.S.C. § 817A"
-generated_at: "2026-03-30T09:07:33.942Z"
+generated_at: "2026-03-30T09:11:33.997Z"
 status: "active"
 ---
 

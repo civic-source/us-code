@@ -3,9 +3,9 @@ title: "Section 1925 - Agreement"
 usc_title: 14
 usc_section: "1925"
 chapter: 19
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "14 U.S.C. § 1925"
-generated_at: "2026-03-30T09:06:48.429Z"
+generated_at: "2026-03-30T09:10:05.909Z"
 status: "active"
 ---
 

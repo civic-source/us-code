@@ -3,9 +3,9 @@ title: "Section 9021 - Pandemic unemployment assistance"
 usc_title: 15
 usc_section: "9021"
 chapter: 116
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "15 U.S.C. § 9021"
-generated_at: "2026-03-30T09:06:47.437Z"
+generated_at: "2026-03-30T09:10:42.479Z"
 status: "active"
 ---
 
@@ -59,6 +59,6 @@ status: "active"
     - **(A)** Funds in the employment security administration account (as established by section 1101(a) of title 42 ) of the Unemployment Trust Fund (as established by section 1104(a) of title 42 ) shall be used to make payments to States pursuant to subsection (f)(2)(B).
     - **(B)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
   - **(3)** The Secretary of Labor shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under paragraphs (1) and (2).
-- **(h)** Except as otherwise provided in this section or to the extent there is a conflict between this section and section 625 of title 20 , Code of Federal Regulations, such section 625 shall apply to this section as if—
-  - **(1)** the term “COVID–19 public health emergency” were substituted for the term “major disaster” each place it appears in such section 625; and
-  - **(2)** the term “pandemic” were substituted for the term “disaster” each place it appears in such section 625.
+- **(h)** Except as otherwise provided in this section or to the extent there is a conflict between this section and section 1 1 So in original. Probably should be “part”. 625 of title 20, Code of Federal Regulations, such section 1 625 shall apply to this section as if—
+  - **(1)** the term “COVID–19 public health emergency” were substituted for the term “major disaster” each place it appears in such section 1 625; and
+  - **(2)** the term “pandemic” were substituted for the term “disaster” each place it appears in such section 1 625.

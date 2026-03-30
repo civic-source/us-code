@@ -3,9 +3,9 @@ title: "Section 511s - Grading of tobacco"
 usc_title: 7
 usc_section: "511s"
 chapter: 21
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 511s"
-generated_at: "2026-03-30T09:06:35.484Z"
+generated_at: "2026-03-30T09:09:46.299Z"
 status: "active"
 ---
 

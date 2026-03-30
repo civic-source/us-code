@@ -3,9 +3,9 @@ title: "Section 804 - Interim Compliance Panel"
 usc_title: 30
 usc_section: "804"
 chapter: 22
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "30 U.S.C. § 804"
-generated_at: "2026-03-30T09:07:22.967Z"
+generated_at: "2026-03-30T09:11:15.819Z"
 status: "active"
 ---
 

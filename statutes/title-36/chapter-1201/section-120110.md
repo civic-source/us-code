@@ -3,9 +3,9 @@ title: "Section 120110 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "120110"
 chapter: 1201
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "36 U.S.C. § 120110"
-generated_at: "2026-03-30T09:07:51.325Z"
+generated_at: "2026-03-30T09:11:40.998Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395dd - Examination and treatment for emergency medical conditi
 usc_title: 42
 usc_section: "1395dd"
 chapter: 7
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 1395dd"
-generated_at: "2026-03-30T09:08:36.616Z"
+generated_at: "2026-03-30T09:12:01.772Z"
 status: "active"
 ---
 

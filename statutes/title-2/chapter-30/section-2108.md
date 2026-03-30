@@ -3,9 +3,9 @@ title: "Section 2108 - Provisions relating to Senate Commission on Art"
 usc_title: 2
 usc_section: "2108"
 chapter: 30
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "2 U.S.C. § 2108"
-generated_at: "2026-03-30T09:06:26.181Z"
+generated_at: "2026-03-30T09:09:29.023Z"
 status: "active"
 ---
 

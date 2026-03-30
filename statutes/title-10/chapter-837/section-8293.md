@@ -3,9 +3,9 @@ title: "Section 8293 - Distinguished-service medal"
 usc_title: 10
 usc_section: "8293"
 chapter: 837
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 8293"
-generated_at: "2026-03-30T09:06:39.445Z"
+generated_at: "2026-03-30T09:10:01.478Z"
 status: "active"
 ---
 

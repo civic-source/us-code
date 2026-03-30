@@ -3,9 +3,9 @@ title: "Section 7516 - Supplying training and training aids on request"
 usc_title: 26
 usc_section: "7516"
 chapter: 77
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "26 U.S.C. § 7516"
-generated_at: "2026-03-30T09:07:34.062Z"
+generated_at: "2026-03-30T09:11:34.115Z"
 status: "active"
 ---
 

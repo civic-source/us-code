@@ -3,9 +3,9 @@ title: "Section 12603 - Determination of the amount of the educational award"
 usc_title: 42
 usc_section: "12603"
 chapter: 129
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 12603"
-generated_at: "2026-03-30T09:08:36.950Z"
+generated_at: "2026-03-30T09:12:02.140Z"
 status: "active"
 ---
 

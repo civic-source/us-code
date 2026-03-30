@@ -3,9 +3,9 @@ title: "Section 315d - Grazing stock for domestic purposes; use of natural resou
 usc_title: 43
 usc_section: "315d"
 chapter: 8
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "43 U.S.C. § 315d"
-generated_at: "2026-03-30T09:08:38.448Z"
+generated_at: "2026-03-30T09:11:45.392Z"
 status: "active"
 ---
 

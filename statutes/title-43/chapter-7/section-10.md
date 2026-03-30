@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21,
 usc_title: 43
 usc_section: "10"
 chapter: 7
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "43 U.S.C. § 10"
-generated_at: "2026-03-30T09:08:38.447Z"
+generated_at: "2026-03-30T09:11:45.391Z"
 status: "repealed"
 ---
 

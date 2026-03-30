@@ -3,9 +3,9 @@ title: "Section 2202 - Executive Department; Secretary"
 usc_title: 7
 usc_section: "2202"
 chapter: 55
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "7 U.S.C. § 2202"
-generated_at: "2026-03-30T09:06:35.557Z"
+generated_at: "2026-03-30T09:09:46.369Z"
 status: "active"
 ---
 

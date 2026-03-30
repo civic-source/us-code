@@ -3,9 +3,9 @@ title: "Section 857a - Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302
 usc_title: 10
 usc_section: "857a"
 chapter: 47
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "10 U.S.C. § 857a"
-generated_at: "2026-03-30T09:06:39.354Z"
+generated_at: "2026-03-30T09:10:01.375Z"
 status: "repealed"
 ---
 

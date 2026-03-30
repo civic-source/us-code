@@ -3,9 +3,9 @@ title: "Section 2017a - Omitted"
 usc_title: 42
 usc_section: "2017a"
 chapter: 23
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 2017a"
-generated_at: "2026-03-30T09:08:36.727Z"
+generated_at: "2026-03-30T09:12:01.892Z"
 status: "omitted"
 ---
 

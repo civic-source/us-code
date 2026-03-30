@@ -3,9 +3,9 @@ title: "Section 1 - Social impact partnership application"
 usc_title: 42
 usc_section: "1"
 chapter: 7
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T09:08:36.667Z"
+generated_at: "2026-03-30T09:12:01.827Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3369d - Committee to counter active measures by the Russian Fede
 usc_title: 50
 usc_section: "3369d"
 chapter: 45
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "50 U.S.C. § 3369d"
-generated_at: "2026-03-30T09:08:47.237Z"
+generated_at: "2026-03-30T09:12:33.487Z"
 status: "active"
 ---
 

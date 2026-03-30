@@ -3,9 +3,9 @@ title: "Section 673e - Cooperation of Secretaries of the Interior, Agriculture a
 usc_title: 16
 usc_section: "673e"
 chapter: 6
-current_through: "PL 116-141"
+current_through: "PL 116-142"
 classification: "16 U.S.C. § 673e"
-generated_at: "2026-03-30T09:06:59.470Z"
+generated_at: "2026-03-30T09:10:49.791Z"
 status: "active"
 ---
 
