@@ -3,9 +3,9 @@ title: "Section 5901 - Findings"
 usc_title: 15
 usc_section: "5901"
 chapter: 85
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 5901"
-generated_at: "2026-03-30T07:17:03.042Z"
+generated_at: "2026-03-30T07:18:56.339Z"
 status: "active"
 ---
 

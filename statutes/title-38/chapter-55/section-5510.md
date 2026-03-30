@@ -3,9 +3,9 @@ title: "Section 5510 - Annual report"
 usc_title: 38
 usc_section: "5510"
 chapter: 55
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 5510"
-generated_at: "2026-03-30T07:17:45.818Z"
+generated_at: "2026-03-30T07:20:05.149Z"
 status: "active"
 ---
 

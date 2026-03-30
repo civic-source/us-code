@@ -3,9 +3,9 @@ title: "Section 1 - Request for additional wildfire suppression funds"
 usc_title: 43
 usc_section: "1"
 chapter: 35
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T07:17:48.419Z"
+generated_at: "2026-03-30T07:20:34.406Z"
 status: "active"
 ---
 

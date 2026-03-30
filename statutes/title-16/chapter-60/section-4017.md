@@ -3,9 +3,9 @@ title: "Section 4017 - Investigations"
 usc_title: 16
 usc_section: "4017"
 chapter: 60
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 4017"
-generated_at: "2026-03-30T07:17:10.139Z"
+generated_at: "2026-03-30T07:19:06.136Z"
 status: "active"
 ---
 

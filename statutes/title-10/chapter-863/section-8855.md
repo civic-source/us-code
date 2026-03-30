@@ -3,9 +3,9 @@ title: "Section 8855 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "8855"
 chapter: 863
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 8855"
-generated_at: "2026-03-30T07:16:55.731Z"
+generated_at: "2026-03-30T07:18:47.482Z"
 status: "repealed"
 ---
 

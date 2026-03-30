@@ -3,9 +3,9 @@ title: "Section 342 - Cooperative agricultural extension work; cooperation with 
 usc_title: 7
 usc_section: "342"
 chapter: 13
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 342"
-generated_at: "2026-03-30T07:16:49.611Z"
+generated_at: "2026-03-30T07:18:43.595Z"
 status: "active"
 ---
 

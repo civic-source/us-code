@@ -3,9 +3,9 @@ title: "Section 8252 - Regular Air Force: gender-free basis for acceptance of or
 usc_title: 10
 usc_section: "8252"
 chapter: 833
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 8252"
-generated_at: "2026-03-30T07:16:55.729Z"
+generated_at: "2026-03-30T07:18:47.481Z"
 status: "active"
 ---
 

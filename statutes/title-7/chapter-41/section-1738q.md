@@ -3,9 +3,9 @@ title: "Section 1738q - Notification to congressional committees"
 usc_title: 7
 usc_section: "1738q"
 chapter: 41
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 1738q"
-generated_at: "2026-03-30T07:16:49.657Z"
+generated_at: "2026-03-30T07:18:43.642Z"
 status: "active"
 ---
 

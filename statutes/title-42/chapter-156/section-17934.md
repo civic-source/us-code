@@ -3,9 +3,9 @@ title: "Section 17934 - Application of privacy provisions and penalties to busin
 usc_title: 42
 usc_section: "17934"
 chapter: 156
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 17934"
-generated_at: "2026-03-30T07:18:03.941Z"
+generated_at: "2026-03-30T07:20:27.693Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3797e - Repealed. Pub. L. 115–141, div. S, title V , § 502(5)
 usc_title: 42
 usc_section: "3797e"
 chapter: 46
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 3797e"
-generated_at: "2026-03-30T07:18:03.698Z"
+generated_at: "2026-03-30T07:20:27.438Z"
 status: "repealed"
 ---
 

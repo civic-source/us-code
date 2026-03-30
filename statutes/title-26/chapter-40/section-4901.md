@@ -3,9 +3,9 @@ title: "Section 4901 - Payment of tax"
 usc_title: 26
 usc_section: "4901"
 chapter: 40
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 4901"
-generated_at: "2026-03-30T07:17:30.458Z"
+generated_at: "2026-03-30T07:19:27.752Z"
 status: "active"
 ---
 

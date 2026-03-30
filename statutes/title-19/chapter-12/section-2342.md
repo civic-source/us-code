@@ -3,9 +3,9 @@ title: "Section 2342 - Approval of adjustment proposals"
 usc_title: 19
 usc_section: "2342"
 chapter: 12
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "19 U.S.C. § 2342"
-generated_at: "2026-03-30T07:17:13.540Z"
+generated_at: "2026-03-30T07:18:59.716Z"
 status: "active"
 ---
 

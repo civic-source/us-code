@@ -3,9 +3,9 @@ title: "Section 5791c - Transferred"
 usc_title: 42
 usc_section: "5791c"
 chapter: 72
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 5791c"
-generated_at: "2026-03-30T07:18:03.733Z"
+generated_at: "2026-03-30T07:20:27.476Z"
 status: "transferred"
 ---
 

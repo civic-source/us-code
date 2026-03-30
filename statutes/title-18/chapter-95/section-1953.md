@@ -3,9 +3,9 @@ title: "Section 1953 - Interstate transportation of wagering paraphernalia"
 usc_title: 18
 usc_section: "1953"
 chapter: 95
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "18 U.S.C. § 1953"
-generated_at: "2026-03-30T07:17:06.525Z"
+generated_at: "2026-03-30T07:19:02.956Z"
 status: "active"
 ---
 

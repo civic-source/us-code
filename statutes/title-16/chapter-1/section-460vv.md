@@ -3,9 +3,9 @@ title: "Section 460vv - Findings and purposes"
 usc_title: 16
 usc_section: "460vv"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 460vv"
-generated_at: "2026-03-30T07:17:10.006Z"
+generated_at: "2026-03-30T07:19:06.006Z"
 status: "active"
 ---
 

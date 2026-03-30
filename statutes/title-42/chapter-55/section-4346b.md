@@ -3,9 +3,9 @@ title: "Section 4346b - Expenditures in support of international activities"
 usc_title: 42
 usc_section: "4346b"
 chapter: 55
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 4346b"
-generated_at: "2026-03-30T07:18:03.705Z"
+generated_at: "2026-03-30T07:20:27.445Z"
 status: "active"
 ---
 

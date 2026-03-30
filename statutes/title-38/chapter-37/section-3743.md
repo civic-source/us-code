@@ -3,9 +3,9 @@ title: "Section 3743 - Liability on loans"
 usc_title: 38
 usc_section: "3743"
 chapter: 37
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 3743"
-generated_at: "2026-03-30T07:17:45.811Z"
+generated_at: "2026-03-30T07:20:05.142Z"
 status: "active"
 ---
 

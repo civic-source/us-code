@@ -3,9 +3,9 @@ title: "Section 2521 - Stockpile stewardship program"
 usc_title: 50
 usc_section: "2521"
 chapter: 42
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "50 U.S.C. § 2521"
-generated_at: "2026-03-30T07:18:15.350Z"
+generated_at: "2026-03-30T07:20:51.727Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11 - Program"
 usc_title: 42
 usc_section: "11"
 chapter: 35
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T07:18:03.687Z"
+generated_at: "2026-03-30T07:20:27.427Z"
 status: "active"
 ---
 

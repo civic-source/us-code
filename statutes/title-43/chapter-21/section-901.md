@@ -3,9 +3,9 @@ title: "Section 901 - Claims of bona fide purchasers; establishment of rights"
 usc_title: 43
 usc_section: "901"
 chapter: 21
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 901"
-generated_at: "2026-03-30T07:17:48.394Z"
+generated_at: "2026-03-30T07:20:34.382Z"
 status: "active"
 ---
 

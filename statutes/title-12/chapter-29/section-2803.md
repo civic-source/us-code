@@ -3,9 +3,9 @@ title: "Section 2803 - Maintenance of records and public disclosure"
 usc_title: 12
 usc_section: "2803"
 chapter: 29
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 2803"
-generated_at: "2026-03-30T07:17:00.883Z"
+generated_at: "2026-03-30T07:18:52.929Z"
 status: "active"
 ---
 
@@ -61,7 +61,11 @@ status: "active"
       - **(i)** credit score data described in subsection (b)(6)(I), in a manner that is consistent with the purpose described in paragraph (1)(E); and
       - **(ii)** age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described in paragraph (1)(E), and in a manner consistent with that purpose.
     - **(B)** The Bureau shall prescribe standards for any modification under paragraph (1)(E) to effectuate the purposes of this chapter, in light of the privacy interests of mortgage applicants or mortgagors. Where necessary to protect the privacy interests of mortgage applicants or mortgagors, the Bureau shall provide for the disclosure of information described in subparagraph (A) in aggregate or other reasonably modified form, in order to effectuate the purposes of this chapter.
-- **(i)** The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in section 2802(2)(A) 1 of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
+- **(i)**
+  - **(1)** With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to closed-end mortgage loans if the insured depository institution or insured credit union originated fewer than 500 closed-end mortgage loans in each of the 2 preceding calendar years.
+  - **(2)** With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to open-end lines of credit if the insured depository institution or insured credit union originated fewer than 500 open-end lines of credit in each of the 2 preceding calendar years.
+  - **(3)** Notwithstanding paragraphs (1) and (2), an insured depository institution shall comply with paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of “needs to improve record of meeting community credit needs” during each of its 2 most recent examinations or a rating of “substantial noncompliance in meeting community credit needs” on its most recent examination under section 2906(b)(2) of this title .
+  - **(3)** The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in section 2802(3)(A) of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
 - **(j)**
   - **(1)** In addition to the information required to be disclosed under subsections (a) and (b), any depository institution which is required to make disclosures under this section shall make available to the public, upon request, loan application register information (as defined by the Bureau by regulation) in the form required under regulations prescribed by the Bureau.
   - **(2)**
@@ -70,7 +74,7 @@ status: "active"
       - **(i)** any privacy interest of any applicant, including the deletion of the applicant’s name and identification number, the date of the application, and the date of any determination by the institution with respect to such application; and
       - **(ii)** a depository institution from liability under any Federal or State privacy law.
     - **(C)** It is the sense of the Congress that a depository institution should provide loan register information under this section in a format based on the census tract in which the property is located.
-  - **(3)** A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require 2 2 So in original. Probably should be followed by a period.
+  - **(3)** A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require 3 3 So in original. Probably should be followed by a period.
   - **(4)** Any depository institution which provides information under this subsection may impose a reasonable fee for any cost incurred in reproducing such information.
   - **(5)** The disclosure of the loan application register information described in paragraph (1) for any year pursuant to a request under paragraph (1) shall be made—
     - **(A)** in the case of a request made on or before March 1 of the succeeding year, before April 1 of the succeeding year; and
@@ -99,3 +103,6 @@ status: "active"
     - **(B)** Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
   - **(2)** In complying with paragraph (1), a depository institution shall provide the person requesting the information with a copy of the information requested in such formats as the Bureau may require.
 - **(n)** The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
+- **(o)** In this section—
+  - **(1)** the term “insured credit union” has the meaning given the term in section 1752 of this title ; and
+  - **(2)** the term “insured depository institution” has the meaning given the term in section 1813 of this title .

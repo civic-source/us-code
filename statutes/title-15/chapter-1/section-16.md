@@ -3,9 +3,9 @@ title: "Section 16 - Judgments"
 usc_title: 15
 usc_section: "16"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 16"
-generated_at: "2026-03-30T07:17:02.876Z"
+generated_at: "2026-03-30T07:18:56.172Z"
 status: "active"
 ---
 

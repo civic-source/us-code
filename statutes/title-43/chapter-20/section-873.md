@@ -3,9 +3,9 @@ title: "Section 873 - Lands granted for erecting public buildings; purpose of gr
 usc_title: 43
 usc_section: "873"
 chapter: 20
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 873"
-generated_at: "2026-03-30T07:17:48.394Z"
+generated_at: "2026-03-30T07:20:34.382Z"
 status: "active"
 ---
 

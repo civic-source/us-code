@@ -3,9 +3,9 @@ title: "Section 6158 - Repealed. Pub. L. 101–508, title XI , § 11801(a)(44), 
 usc_title: 26
 usc_section: "6158"
 chapter: 62
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 6158"
-generated_at: "2026-03-30T07:17:30.492Z"
+generated_at: "2026-03-30T07:19:27.785Z"
 status: "repealed"
 ---
 

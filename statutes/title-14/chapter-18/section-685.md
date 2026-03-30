@@ -3,9 +3,9 @@ title: "Section 685 - Conveyance of real property"
 usc_title: 14
 usc_section: "685"
 chapter: 18
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "14 U.S.C. § 685"
-generated_at: "2026-03-30T07:16:57.732Z"
+generated_at: "2026-03-30T07:18:54.066Z"
 status: "active"
 ---
 

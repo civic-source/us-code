@@ -3,9 +3,9 @@ title: "Section 376 - Examination of sea food on request of packer; marking food
 usc_title: 21
 usc_section: "376"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "21 U.S.C. § 376"
-generated_at: "2026-03-30T07:17:18.437Z"
+generated_at: "2026-03-30T07:19:09.412Z"
 status: "active"
 ---
 

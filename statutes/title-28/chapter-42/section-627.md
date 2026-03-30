@@ -3,9 +3,9 @@ title: "Section 627 - Retirement; employee benefits"
 usc_title: 28
 usc_section: "627"
 chapter: 42
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "28 U.S.C. § 627"
-generated_at: "2026-03-30T07:17:25.538Z"
+generated_at: "2026-03-30T07:19:20.196Z"
 status: "active"
 ---
 

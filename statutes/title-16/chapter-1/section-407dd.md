@@ -3,9 +3,9 @@ title: "Section 407dd - Directives to Secretary"
 usc_title: 16
 usc_section: "407dd"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 407dd"
-generated_at: "2026-03-30T07:17:09.960Z"
+generated_at: "2026-03-30T07:19:05.960Z"
 status: "active"
 ---
 

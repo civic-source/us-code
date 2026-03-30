@@ -3,9 +3,9 @@ title: "Section 2342 - Disposal of property"
 usc_title: 42
 usc_section: "2342"
 chapter: 24
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 2342"
-generated_at: "2026-03-30T07:18:03.674Z"
+generated_at: "2026-03-30T07:20:27.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 140 - Nondiscrimination"
 usc_title: 23
 usc_section: "140"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "23 U.S.C. § 140"
-generated_at: "2026-03-30T07:17:18.892Z"
+generated_at: "2026-03-30T07:19:11.161Z"
 status: "active"
 ---
 

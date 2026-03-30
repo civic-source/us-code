@@ -3,9 +3,9 @@ title: "Section 12 - Definitions"
 usc_title: 42
 usc_section: "12"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T07:18:03.599Z"
+generated_at: "2026-03-30T07:20:27.336Z"
 status: "active"
 ---
 

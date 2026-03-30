@@ -3,9 +3,9 @@ title: "Section 2605 - Use of funds and personnel; savings provision"
 usc_title: 22
 usc_section: "2605"
 chapter: 36
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 2605"
-generated_at: "2026-03-30T07:17:20.802Z"
+generated_at: "2026-03-30T07:19:15.814Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7112 - Payments to States and counties"
 usc_title: 16
 usc_section: "7112"
 chapter: 90
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 7112"
-generated_at: "2026-03-30T07:17:10.156Z"
+generated_at: "2026-03-30T07:19:06.153Z"
 status: "active"
 ---
 

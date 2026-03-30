@@ -3,9 +3,9 @@ title: "Section 292e - Certificate of loan insurance; effective date of insuranc
 usc_title: 42
 usc_section: "292e"
 chapter: 6
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 292e"
-generated_at: "2026-03-30T07:18:03.378Z"
+generated_at: "2026-03-30T07:20:27.110Z"
 status: "active"
 ---
 

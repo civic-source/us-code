@@ -3,9 +3,9 @@ title: "Section 2043 - Transfers for insufficient consideration"
 usc_title: 26
 usc_section: "2043"
 chapter: 11
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 2043"
-generated_at: "2026-03-30T07:17:30.436Z"
+generated_at: "2026-03-30T07:19:27.731Z"
 status: "active"
 ---
 

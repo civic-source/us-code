@@ -3,9 +3,9 @@ title: "Section 676 - Power to revoke"
 usc_title: 26
 usc_section: "676"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 676"
-generated_at: "2026-03-30T07:17:30.383Z"
+generated_at: "2026-03-30T07:19:27.683Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6234 - Judicial review of partnership adjustment"
 usc_title: 26
 usc_section: "6234"
 chapter: 63
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 6234"
-generated_at: "2026-03-30T07:17:30.495Z"
+generated_at: "2026-03-30T07:19:27.788Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3025 - Examination and audit"
 usc_title: 12
 usc_section: "3025"
 chapter: 31
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 3025"
-generated_at: "2026-03-30T07:17:00.885Z"
+generated_at: "2026-03-30T07:18:52.931Z"
 status: "active"
 ---
 

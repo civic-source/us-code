@@ -3,9 +3,9 @@ title: "Section 1563 - Omitted"
 usc_title: 42
 usc_section: "1563"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 1563"
-generated_at: "2026-03-30T07:18:03.623Z"
+generated_at: "2026-03-30T07:20:27.362Z"
 status: "omitted"
 ---
 

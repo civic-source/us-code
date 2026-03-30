@@ -3,9 +3,9 @@ title: "Section 85 - Rate of interest on loans, discounts and purchases"
 usc_title: 12
 usc_section: "85"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 85"
-generated_at: "2026-03-30T07:17:00.773Z"
+generated_at: "2026-03-30T07:18:52.819Z"
 status: "active"
 ---
 

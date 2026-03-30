@@ -3,9 +3,9 @@ title: "Section 7031 - Principles governing the use of electronic signatures in 
 usc_title: 15
 usc_section: "7031"
 chapter: 96
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 7031"
-generated_at: "2026-03-30T07:17:03.051Z"
+generated_at: "2026-03-30T07:18:56.348Z"
 status: "active"
 ---
 

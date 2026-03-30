@@ -1,16 +1,13 @@
 ---
-title: "Section 5703 - Fellowship recipients"
+title: "Section 5703 - Repealed. Pub. L. 115–31, div. E, title VI , § 631(a), May 5, 2017 , 131 Stat. 376"
 usc_title: 20
 usc_section: "5703"
 chapter: 67
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 5703"
-generated_at: "2026-03-30T07:17:11.964Z"
-status: "active"
+generated_at: "2026-03-30T07:19:02.066Z"
+status: "repealed"
 ---
 
-# § 5703. Fellowship recipients
+# § 5703. Repealed. Pub. L. 115–31, div. E, title VI , § 631(a), May 5, 2017 , 131 Stat. 376
 
-- **(a)** The Foundation is authorized to award fellowships to outstanding individuals to encourage new discoveries in all fields of endeavor for the benefit of mankind. Recipients shall be known as “Columbus Scholars”.
-- **(b)** Fellowships shall be granted for such periods as the Foundation may prescribe but not to exceed 2 years.
-- **(c)** The Foundation may provide, directly or by contract, for the conduct of a nationwide competition for the selection of fellowship recipients.

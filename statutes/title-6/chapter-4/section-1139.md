@@ -3,9 +3,9 @@ title: "Section 1139 - Information sharing"
 usc_title: 6
 usc_section: "1139"
 chapter: 4
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "6 U.S.C. § 1139"
-generated_at: "2026-03-30T07:16:45.392Z"
+generated_at: "2026-03-30T07:18:40.122Z"
 status: "active"
 ---
 

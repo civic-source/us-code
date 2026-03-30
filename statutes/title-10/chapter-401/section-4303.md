@@ -3,9 +3,9 @@ title: "Section 4303 - Army Ranger training: instructor staffing; safety"
 usc_title: 10
 usc_section: "4303"
 chapter: 401
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 4303"
-generated_at: "2026-03-30T07:16:55.711Z"
+generated_at: "2026-03-30T07:18:47.463Z"
 status: "active"
 ---
 

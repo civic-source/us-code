@@ -3,9 +3,9 @@ title: "Section 3901 - Findings"
 usc_title: 19
 usc_section: "3901"
 chapter: 25
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "19 U.S.C. § 3901"
-generated_at: "2026-03-30T07:17:13.569Z"
+generated_at: "2026-03-30T07:18:59.743Z"
 status: "active"
 ---
 

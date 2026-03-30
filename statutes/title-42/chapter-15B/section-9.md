@@ -3,9 +3,9 @@ title: "Section 9 - Transferred"
 usc_title: 42
 usc_section: "9"
 chapter: 15
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T07:18:03.640Z"
+generated_at: "2026-03-30T07:20:27.379Z"
 status: "transferred"
 ---
 

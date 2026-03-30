@@ -3,9 +3,9 @@ title: "Section 7231f - Use of funds"
 usc_title: 20
 usc_section: "7231f"
 chapter: 70
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 7231f"
-generated_at: "2026-03-30T07:17:11.983Z"
+generated_at: "2026-03-30T07:19:02.084Z"
 status: "active"
 ---
 

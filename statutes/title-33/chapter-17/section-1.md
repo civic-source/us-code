@@ -3,9 +3,9 @@ title: "Section 1 - Shipyards located outside of the United States"
 usc_title: 33
 usc_section: "1"
 chapter: 17
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T07:17:34.539Z"
+generated_at: "2026-03-30T07:19:32.395Z"
 status: "active"
 ---
 

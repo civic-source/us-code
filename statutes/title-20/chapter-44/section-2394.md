@@ -3,9 +3,9 @@ title: "Section 2394 - Voluntary selection and participation"
 usc_title: 20
 usc_section: "2394"
 chapter: 44
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 2394"
-generated_at: "2026-03-30T07:17:11.951Z"
+generated_at: "2026-03-30T07:19:02.054Z"
 status: "active"
 ---
 

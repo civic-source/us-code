@@ -3,9 +3,9 @@ title: "Section 479 - Sites for schools and churches"
 usc_title: 16
 usc_section: "479"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 479"
-generated_at: "2026-03-30T07:17:10.021Z"
+generated_at: "2026-03-30T07:19:06.022Z"
 status: "active"
 ---
 

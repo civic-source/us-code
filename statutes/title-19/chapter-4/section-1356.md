@@ -3,9 +3,9 @@ title: "Section 1356 - Repealed. Pub. L. 89–23 , § 7, May 22, 1965 , 79 Stat.
 usc_title: 19
 usc_section: "1356"
 chapter: 4
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "19 U.S.C. § 1356"
-generated_at: "2026-03-30T07:17:13.506Z"
+generated_at: "2026-03-30T07:18:59.684Z"
 status: "repealed"
 ---
 

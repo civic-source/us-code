@@ -3,9 +3,9 @@ title: "Section 7159 - Transfer to Department of Transportation"
 usc_title: 42
 usc_section: "7159"
 chapter: 84
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 7159"
-generated_at: "2026-03-30T07:18:03.770Z"
+generated_at: "2026-03-30T07:20:27.516Z"
 status: "active"
 ---
 

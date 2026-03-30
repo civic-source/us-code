@@ -3,9 +3,9 @@ title: "Section 5442 - Poland-Hungary scholarship partnership"
 usc_title: 22
 usc_section: "5442"
 chapter: 63
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 5442"
-generated_at: "2026-03-30T07:17:20.840Z"
+generated_at: "2026-03-30T07:19:15.851Z"
 status: "active"
 ---
 

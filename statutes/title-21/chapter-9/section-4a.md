@@ -3,9 +3,9 @@ title: "Section 4a - Priority review to encourage treatments for agents that pre
 usc_title: 21
 usc_section: "4a"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "21 U.S.C. § 4a"
-generated_at: "2026-03-30T07:17:18.429Z"
+generated_at: "2026-03-30T07:19:09.406Z"
 status: "active"
 ---
 

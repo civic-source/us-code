@@ -3,9 +3,9 @@ title: "Section 2202c - Review of restructuring denials"
 usc_title: 12
 usc_section: "2202c"
 chapter: 23
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 2202c"
-generated_at: "2026-03-30T07:17:00.871Z"
+generated_at: "2026-03-30T07:18:52.917Z"
 status: "active"
 ---
 

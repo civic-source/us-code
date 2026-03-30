@@ -3,9 +3,9 @@ title: "Section 36C - Renumbered § 23]"
 usc_title: 26
 usc_section: "36C"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 36C"
-generated_at: "2026-03-30T07:17:30.279Z"
+generated_at: "2026-03-30T07:19:27.586Z"
 status: "renumbered"
 ---
 

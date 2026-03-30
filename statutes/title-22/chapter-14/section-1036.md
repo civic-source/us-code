@@ -3,9 +3,9 @@ title: "Section 1036 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1036"
 chapter: 14
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 1036"
-generated_at: "2026-03-30T07:17:20.763Z"
+generated_at: "2026-03-30T07:19:15.775Z"
 status: "repealed"
 ---
 

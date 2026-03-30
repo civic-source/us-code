@@ -3,9 +3,9 @@ title: "Section 1902 - Definitions"
 usc_title: 43
 usc_section: "1902"
 chapter: 37
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 1902"
-generated_at: "2026-03-30T07:17:48.422Z"
+generated_at: "2026-03-30T07:20:34.410Z"
 status: "active"
 ---
 

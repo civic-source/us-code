@@ -3,9 +3,9 @@ title: "Section 1 - Devices or dangerous substances in waters of the United Stat
 usc_title: 18
 usc_section: "1"
 chapter: 111
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "18 U.S.C. § 1"
-generated_at: "2026-03-30T07:17:06.532Z"
+generated_at: "2026-03-30T07:19:02.962Z"
 status: "active"
 ---
 

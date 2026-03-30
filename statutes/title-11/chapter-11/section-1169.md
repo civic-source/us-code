@@ -3,9 +3,9 @@ title: "Section 1169 - Effect of rejection of lease of railroad line"
 usc_title: 11
 usc_section: "1169"
 chapter: 11
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "11 U.S.C. § 1169"
-generated_at: "2026-03-30T07:16:58.135Z"
+generated_at: "2026-03-30T07:18:49.751Z"
 status: "active"
 ---
 

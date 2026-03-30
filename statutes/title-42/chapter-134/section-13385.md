@@ -3,9 +3,9 @@ title: "Section 13385 - National inventory and voluntary reporting of greenhouse
 usc_title: 42
 usc_section: "13385"
 chapter: 134
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 13385"
-generated_at: "2026-03-30T07:18:03.900Z"
+generated_at: "2026-03-30T07:20:27.649Z"
 status: "active"
 ---
 

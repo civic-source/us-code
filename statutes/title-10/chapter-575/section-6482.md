@@ -3,9 +3,9 @@ title: "Section 6482 - Repealed. Pub. L. 98–525, title V , § 533(f)(1), Oct. 
 usc_title: 10
 usc_section: "6482"
 chapter: 575
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 6482"
-generated_at: "2026-03-30T07:16:55.721Z"
+generated_at: "2026-03-30T07:18:47.472Z"
 status: "repealed"
 ---
 

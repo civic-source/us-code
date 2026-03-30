@@ -3,9 +3,9 @@ title: "Section 7 - Limitation on use of funds"
 usc_title: 42
 usc_section: "7"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T07:18:03.599Z"
+generated_at: "2026-03-30T07:20:27.336Z"
 status: "active"
 ---
 

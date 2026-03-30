@@ -3,9 +3,9 @@ title: "Section 527 - Disclosures"
 usc_title: 11
 usc_section: "527"
 chapter: 5
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "11 U.S.C. § 527"
-generated_at: "2026-03-30T07:16:58.128Z"
+generated_at: "2026-03-30T07:18:49.745Z"
 status: "active"
 ---
 

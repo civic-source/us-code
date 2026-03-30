@@ -3,9 +3,9 @@ title: "Section 687 - Operation and regulation of companies"
 usc_title: 15
 usc_section: "687"
 chapter: 14
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 687"
-generated_at: "2026-03-30T07:17:02.954Z"
+generated_at: "2026-03-30T07:18:56.251Z"
 status: "active"
 ---
 

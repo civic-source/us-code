@@ -3,9 +3,9 @@ title: "Section 7421 - Definitions"
 usc_title: 15
 usc_section: "7421"
 chapter: 100
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 7421"
-generated_at: "2026-03-30T07:17:03.055Z"
+generated_at: "2026-03-30T07:18:56.352Z"
 status: "active"
 ---
 

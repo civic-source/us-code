@@ -3,9 +3,9 @@ title: "Section 7112 - Expedited treatment of remanded claims"
 usc_title: 38
 usc_section: "7112"
 chapter: 71
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 7112"
-generated_at: "2026-03-30T07:17:45.821Z"
+generated_at: "2026-03-30T07:20:05.151Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7281 - Employees"
 usc_title: 38
 usc_section: "7281"
 chapter: 72
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 7281"
-generated_at: "2026-03-30T07:17:45.822Z"
+generated_at: "2026-03-30T07:20:05.152Z"
 status: "active"
 ---
 

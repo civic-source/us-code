@@ -3,9 +3,9 @@ title: "Section 640 - Coast Guard band recordings for commercial sale"
 usc_title: 14
 usc_section: "640"
 chapter: 17
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "14 U.S.C. § 640"
-generated_at: "2026-03-30T07:16:57.731Z"
+generated_at: "2026-03-30T07:18:54.065Z"
 status: "active"
 ---
 

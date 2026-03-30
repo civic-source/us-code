@@ -3,9 +3,9 @@ title: "Section 7427 - Tax return preparers"
 usc_title: 26
 usc_section: "7427"
 chapter: 76
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 7427"
-generated_at: "2026-03-30T07:17:30.516Z"
+generated_at: "2026-03-30T07:19:27.807Z"
 status: "active"
 ---
 

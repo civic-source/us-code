@@ -3,9 +3,9 @@ title: "Section 7342 - Penalty for refusal to permit entry or examination"
 usc_title: 26
 usc_section: "7342"
 chapter: 75
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 7342"
-generated_at: "2026-03-30T07:17:30.514Z"
+generated_at: "2026-03-30T07:19:27.806Z"
 status: "active"
 ---
 

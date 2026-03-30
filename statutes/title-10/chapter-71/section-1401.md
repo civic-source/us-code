@@ -3,9 +3,9 @@ title: "Section 1401 - Computation of retired pay"
 usc_title: 10
 usc_section: "1401"
 chapter: 71
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 1401"
-generated_at: "2026-03-30T07:16:55.646Z"
+generated_at: "2026-03-30T07:18:47.402Z"
 status: "active"
 ---
 

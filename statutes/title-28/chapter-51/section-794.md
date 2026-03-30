@@ -3,9 +3,9 @@ title: "Section 794 - Law clerks and secretaries"
 usc_title: 28
 usc_section: "794"
 chapter: 51
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "28 U.S.C. § 794"
-generated_at: "2026-03-30T07:17:25.540Z"
+generated_at: "2026-03-30T07:19:20.198Z"
 status: "active"
 ---
 

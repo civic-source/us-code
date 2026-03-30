@@ -3,9 +3,9 @@ title: "Section 1817 - Assessments"
 usc_title: 12
 usc_section: "1817"
 chapter: 16
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 1817"
-generated_at: "2026-03-30T07:17:00.841Z"
+generated_at: "2026-03-30T07:18:52.888Z"
 status: "active"
 ---
 
@@ -33,6 +33,11 @@ status: "active"
   - **(11)**
     - **(A)** Before the end of the 1-year period beginning on October 13, 2006 , and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed by an insured depository institution in a report of condition required under paragraph (3).
     - **(B)** After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collection of such information or schedules is no longer necessary or appropriate.
+  - **(12)**
+    - **(A)** The appropriate Federal banking agencies shall issue regulations that allow for a reduced reporting requirement for a covered depository institution when the institution makes the first and third report of condition for a year, as required under paragraph (3).
+    - **(B)** In this paragraph, the term “covered depository institution” means an insured depository institution that—
+      - **(i)** has less than $5,000,000,000 in total consolidated assets; and
+      - **(ii)** satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.
 - **(b)**
   - **(1)**
     - **(A)** The Board of Directors shall, by regulation, establish a risk-based assessment system for insured depository institutions.

@@ -3,9 +3,9 @@ title: "Section 1228 - Prohibition against use of appropriated funds for busing"
 usc_title: 20
 usc_section: "1228"
 chapter: 31
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 1228"
-generated_at: "2026-03-30T07:17:11.931Z"
+generated_at: "2026-03-30T07:19:02.036Z"
 status: "active"
 ---
 

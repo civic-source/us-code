@@ -3,9 +3,9 @@ title: "Section 3058f - Definitions"
 usc_title: 42
 usc_section: "3058f"
 chapter: 35
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 3058f"
-generated_at: "2026-03-30T07:18:03.687Z"
+generated_at: "2026-03-30T07:20:27.428Z"
 status: "active"
 ---
 

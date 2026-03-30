@@ -3,9 +3,9 @@ title: "Section 71a - Number of directors; penalties"
 usc_title: 12
 usc_section: "71a"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 71a"
-generated_at: "2026-03-30T07:17:00.773Z"
+generated_at: "2026-03-30T07:18:52.819Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2511 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2511"
 chapter: 45
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 2511"
-generated_at: "2026-03-30T07:17:10.118Z"
+generated_at: "2026-03-30T07:19:06.115Z"
 status: "repealed"
 ---
 

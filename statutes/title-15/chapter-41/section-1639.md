@@ -3,9 +3,9 @@ title: "Section 1639 - Requirements for certain mortgages"
 usc_title: 15
 usc_section: "1639"
 chapter: 41
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 1639"
-generated_at: "2026-03-30T07:17:02.984Z"
+generated_at: "2026-03-30T07:18:56.281Z"
 status: "active"
 ---
 
@@ -27,7 +27,8 @@ status: "active"
       - **(ii)** at the consummation of the transaction under which the credit is extended—
         - **(I)** the creditor provides to the consumer the new disclosures, in writing; and
         - **(II)** the creditor and consumer certify in writing that the new disclosures were provided by telephone, by not later than 3 days prior to the date of consummation of the transaction.
-  - **(3)** The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
+  - **(3)** If a creditor extends to a consumer a second offer of credit with a lower annual percentage rate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
+  - **(4)** The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
 - **(c)**
   - **(1)**
     - **(A)** A mortgage referred to in section 1602(aa) 1 of this title may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal before the date on which the principal is due.

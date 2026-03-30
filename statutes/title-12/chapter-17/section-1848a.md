@@ -3,9 +3,9 @@ title: "Section 1848a - Repealed. Pub. L. 111–203, title VI , § 604(c)(2), Ju
 usc_title: 12
 usc_section: "1848a"
 chapter: 17
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 1848a"
-generated_at: "2026-03-30T07:17:00.864Z"
+generated_at: "2026-03-30T07:18:52.911Z"
 status: "repealed"
 ---
 

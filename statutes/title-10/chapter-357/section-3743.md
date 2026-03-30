@@ -3,9 +3,9 @@ title: "Section 3743 - Distinguished-service medal: award"
 usc_title: 10
 usc_section: "3743"
 chapter: 357
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 3743"
-generated_at: "2026-03-30T07:16:55.710Z"
+generated_at: "2026-03-30T07:18:47.462Z"
 status: "active"
 ---
 

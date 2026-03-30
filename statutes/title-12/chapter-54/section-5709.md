@@ -3,9 +3,9 @@ title: "Section 5709 - Regulations"
 usc_title: 12
 usc_section: "5709"
 chapter: 54
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 5709"
-generated_at: "2026-03-30T07:17:00.939Z"
+generated_at: "2026-03-30T07:18:52.986Z"
 status: "active"
 ---
 

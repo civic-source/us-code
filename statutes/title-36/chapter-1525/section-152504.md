@@ -3,9 +3,9 @@ title: "Section 152504 - Governing body"
 usc_title: 36
 usc_section: "152504"
 chapter: 1525
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "36 U.S.C. § 152504"
-generated_at: "2026-03-30T07:17:44.093Z"
+generated_at: "2026-03-30T07:19:55.684Z"
 status: "active"
 ---
 

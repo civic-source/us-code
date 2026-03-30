@@ -3,9 +3,9 @@ title: "Section 364 - Omitted"
 usc_title: 12
 usc_section: "364"
 chapter: 3
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 364"
-generated_at: "2026-03-30T07:17:00.781Z"
+generated_at: "2026-03-30T07:18:52.827Z"
 status: "omitted"
 ---
 

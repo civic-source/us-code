@@ -3,9 +3,9 @@ title: "Section 19m - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19m"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 19m"
-generated_at: "2026-03-30T07:17:09.938Z"
+generated_at: "2026-03-30T07:19:05.938Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 926 - Avoiding powers"
 usc_title: 11
 usc_section: "926"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "11 U.S.C. § 926"
-generated_at: "2026-03-30T07:16:58.132Z"
+generated_at: "2026-03-30T07:18:49.748Z"
 status: "active"
 ---
 

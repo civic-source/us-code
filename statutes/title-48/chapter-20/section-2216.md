@@ -3,9 +3,9 @@ title: "Section 2216 - Judicial review"
 usc_title: 48
 usc_section: "2216"
 chapter: 20
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "48 U.S.C. § 2216"
-generated_at: "2026-03-30T07:18:06.902Z"
+generated_at: "2026-03-30T07:20:40.935Z"
 status: "active"
 ---
 

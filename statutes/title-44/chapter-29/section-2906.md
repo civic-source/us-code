@@ -3,9 +3,9 @@ title: "Section 2906 - Inspection of agency records"
 usc_title: 44
 usc_section: "2906"
 chapter: 29
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "44 U.S.C. § 2906"
-generated_at: "2026-03-30T07:17:48.611Z"
+generated_at: "2026-03-30T07:20:12.475Z"
 status: "active"
 ---
 

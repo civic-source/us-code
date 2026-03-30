@@ -3,9 +3,9 @@ title: "Section 40 - Omitted"
 usc_title: 43
 usc_section: "40"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 40"
-generated_at: "2026-03-30T07:17:48.370Z"
+generated_at: "2026-03-30T07:20:34.359Z"
 status: "omitted"
 ---
 

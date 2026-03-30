@@ -3,9 +3,9 @@ title: "Section 1622g - Independence of Foreign Claims Settlement Commission of 
 usc_title: 22
 usc_section: "1622g"
 chapter: 21
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 1622g"
-generated_at: "2026-03-30T07:17:20.767Z"
+generated_at: "2026-03-30T07:19:15.780Z"
 status: "active"
 ---
 

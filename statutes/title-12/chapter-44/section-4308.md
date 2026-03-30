@@ -3,9 +3,9 @@ title: "Section 4308 - Regulations"
 usc_title: 12
 usc_section: "4308"
 chapter: 44
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 4308"
-generated_at: "2026-03-30T07:17:00.898Z"
+generated_at: "2026-03-30T07:18:52.944Z"
 status: "active"
 ---
 

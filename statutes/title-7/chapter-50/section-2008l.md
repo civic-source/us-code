@@ -3,9 +3,9 @@ title: "Section 2008l - Eligibility of employees of State, county, or area commi
 usc_title: 7
 usc_section: "2008l"
 chapter: 50
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 2008l"
-generated_at: "2026-03-30T07:16:49.668Z"
+generated_at: "2026-03-30T07:18:43.652Z"
 status: "active"
 ---
 

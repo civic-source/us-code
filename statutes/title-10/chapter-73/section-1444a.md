@@ -3,9 +3,9 @@ title: "Section 1444a - Regulations regarding payment of annuity to a representa
 usc_title: 10
 usc_section: "1444a"
 chapter: 73
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 1444a"
-generated_at: "2026-03-30T07:16:55.650Z"
+generated_at: "2026-03-30T07:18:47.405Z"
 status: "active"
 ---
 

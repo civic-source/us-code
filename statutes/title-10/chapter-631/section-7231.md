@@ -3,9 +3,9 @@ title: "Section 7231 - Accounting for expenditures for obtaining information"
 usc_title: 10
 usc_section: "7231"
 chapter: 631
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 7231"
-generated_at: "2026-03-30T07:16:55.723Z"
+generated_at: "2026-03-30T07:18:47.475Z"
 status: "active"
 ---
 

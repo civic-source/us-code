@@ -3,9 +3,9 @@ title: "Section 12859 - Termination"
 usc_title: 42
 usc_section: "12859"
 chapter: 130
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 12859"
-generated_at: "2026-03-30T07:18:03.893Z"
+generated_at: "2026-03-30T07:20:27.641Z"
 status: "active"
 ---
 

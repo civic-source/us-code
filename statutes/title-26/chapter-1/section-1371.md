@@ -3,9 +3,9 @@ title: "Section 1371 - Coordination with subchapter C"
 usc_title: 26
 usc_section: "1371"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 1371"
-generated_at: "2026-03-30T07:17:30.425Z"
+generated_at: "2026-03-30T07:19:27.722Z"
 status: "active"
 ---
 

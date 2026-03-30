@@ -3,9 +3,9 @@ title: "Section 6316 - United States Code Annotated or United States Code Servic
 usc_title: 2
 usc_section: "6316"
 chapter: 63
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "2 U.S.C. § 6316"
-generated_at: "2026-03-30T07:16:40.008Z"
+generated_at: "2026-03-30T07:18:35.995Z"
 status: "active"
 ---
 

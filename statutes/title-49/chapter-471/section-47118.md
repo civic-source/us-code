@@ -3,9 +3,9 @@ title: "Section 47118 - Designating current and former military airports"
 usc_title: 49
 usc_section: "47118"
 chapter: 471
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "49 U.S.C. § 47118"
-generated_at: "2026-03-30T07:18:21.774Z"
+generated_at: "2026-03-30T07:20:50.246Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5355 - General provisions relating to bonds"
 usc_title: 26
 usc_section: "5355"
 chapter: 51
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 5355"
-generated_at: "2026-03-30T07:17:30.473Z"
+generated_at: "2026-03-30T07:19:27.767Z"
 status: "active"
 ---
 

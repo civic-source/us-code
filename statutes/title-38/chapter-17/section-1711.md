@@ -3,9 +3,9 @@ title: "Section 1711 - Care during examinations and in emergencies"
 usc_title: 38
 usc_section: "1711"
 chapter: 17
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 1711"
-generated_at: "2026-03-30T07:17:45.785Z"
+generated_at: "2026-03-30T07:20:05.116Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3104 - Scope of services and assistance"
 usc_title: 38
 usc_section: "3104"
 chapter: 31
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 3104"
-generated_at: "2026-03-30T07:17:45.800Z"
+generated_at: "2026-03-30T07:20:05.130Z"
 status: "active"
 ---
 
@@ -37,3 +37,4 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary shall have the authority to administer this chapter by prioritizing the provision of services under this chapter based on need, as determined by the Secretary. In evaluating need for purposes of this subsection, the Secretary shall consider disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and any other factor the Secretary determines appropriate.
   - **(2)** Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan describing such changes.
+- **(d)** The Secretary may not assist a veteran in acquiring adaptations to the residence of the veteran under this chapter. Any such assistance may be furnished only under section 2102B of this title .

@@ -3,9 +3,9 @@ title: "Section 905 - Exempt programs and activities"
 usc_title: 2
 usc_section: "905"
 chapter: 20
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "2 U.S.C. § 905"
-generated_at: "2026-03-30T07:16:39.976Z"
+generated_at: "2026-03-30T07:18:35.968Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4713 - Latin American exchanges"
 usc_title: 22
 usc_section: "4713"
 chapter: 57
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 4713"
-generated_at: "2026-03-30T07:17:20.836Z"
+generated_at: "2026-03-30T07:19:15.847Z"
 status: "active"
 ---
 

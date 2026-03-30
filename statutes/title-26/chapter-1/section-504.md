@@ -3,9 +3,9 @@ title: "Section 504 - Status after organization ceases to qualify for exemption 
 usc_title: 26
 usc_section: "504"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 504"
-generated_at: "2026-03-30T07:17:30.372Z"
+generated_at: "2026-03-30T07:19:27.672Z"
 status: "active"
 ---
 

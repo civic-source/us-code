@@ -3,9 +3,9 @@ title: "Section 50909 - Prohibition, suspension, and end of launches, operation 
 usc_title: 51
 usc_section: "50909"
 chapter: 509
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "51 U.S.C. § 50909"
-generated_at: "2026-03-30T07:18:23.607Z"
+generated_at: "2026-03-30T07:20:53.621Z"
 status: "active"
 ---
 

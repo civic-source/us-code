@@ -3,9 +3,9 @@ title: "Section 329 - Omitted"
 usc_title: 15
 usc_section: "329"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 329"
-generated_at: "2026-03-30T07:17:02.932Z"
+generated_at: "2026-03-30T07:18:56.228Z"
 status: "omitted"
 ---
 

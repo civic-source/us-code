@@ -3,9 +3,9 @@ title: "Section 1458 - Secretary to exercise certain powers over Territories"
 usc_title: 43
 usc_section: "1458"
 chapter: 31
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 1458"
-generated_at: "2026-03-30T07:17:48.403Z"
+generated_at: "2026-03-30T07:20:34.391Z"
 status: "active"
 ---
 

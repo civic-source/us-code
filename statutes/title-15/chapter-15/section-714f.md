@@ -3,9 +3,9 @@ title: "Section 714f - Use of funds"
 usc_title: 15
 usc_section: "714f"
 chapter: 15
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 714f"
-generated_at: "2026-03-30T07:17:02.960Z"
+generated_at: "2026-03-30T07:18:56.257Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11231 - Authority to make grants"
 usc_title: 34
 usc_section: "11231"
 chapter: 111
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "34 U.S.C. § 11231"
-generated_at: "2026-03-30T07:17:41.339Z"
+generated_at: "2026-03-30T07:19:49.641Z"
 status: "active"
 ---
 

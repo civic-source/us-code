@@ -3,9 +3,9 @@ title: "Section 104907 - Limitation on extension or establishment of national pa
 usc_title: 54
 usc_section: "104907"
 chapter: 1049
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "54 U.S.C. § 104907"
-generated_at: "2026-03-30T07:18:24.654Z"
+generated_at: "2026-03-30T07:20:54.103Z"
 status: "active"
 ---
 

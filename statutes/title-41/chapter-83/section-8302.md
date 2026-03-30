@@ -3,9 +3,9 @@ title: "Section 8302 - American materials required for public use"
 usc_title: 41
 usc_section: "8302"
 chapter: 83
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "41 U.S.C. § 8302"
-generated_at: "2026-03-30T07:17:49.859Z"
+generated_at: "2026-03-30T07:20:12.291Z"
 status: "active"
 ---
 

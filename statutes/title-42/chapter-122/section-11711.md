@@ -3,9 +3,9 @@ title: "Section 11711 - Definitions"
 usc_title: 42
 usc_section: "11711"
 chapter: 122
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 11711"
-generated_at: "2026-03-30T07:18:03.869Z"
+generated_at: "2026-03-30T07:20:27.617Z"
 status: "active"
 ---
 

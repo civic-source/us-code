@@ -3,9 +3,9 @@ title: "Section 467n - Recovery of dam modification costs required for safety pu
 usc_title: 33
 usc_section: "467n"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "33 U.S.C. § 467n"
-generated_at: "2026-03-30T07:17:34.525Z"
+generated_at: "2026-03-30T07:19:32.384Z"
 status: "active"
 ---
 

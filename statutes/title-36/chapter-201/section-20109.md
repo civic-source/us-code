@@ -3,9 +3,9 @@ title: "Section 20109 - Service of process"
 usc_title: 36
 usc_section: "20109"
 chapter: 201
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "36 U.S.C. § 20109"
-generated_at: "2026-03-30T07:17:44.082Z"
+generated_at: "2026-03-30T07:19:55.672Z"
 status: "active"
 ---
 

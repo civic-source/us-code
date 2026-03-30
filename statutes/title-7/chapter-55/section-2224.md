@@ -3,9 +3,9 @@ title: "Section 2224 - Details of employees from and to Division of Accounts and
 usc_title: 7
 usc_section: "2224"
 chapter: 55
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 2224"
-generated_at: "2026-03-30T07:16:49.688Z"
+generated_at: "2026-03-30T07:18:43.671Z"
 status: "active"
 ---
 

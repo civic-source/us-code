@@ -3,9 +3,9 @@ title: "Section 1757a - Limitation on member business loans"
 usc_title: 12
 usc_section: "1757a"
 chapter: 14
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 1757a"
-generated_at: "2026-03-30T07:17:00.831Z"
+generated_at: "2026-03-30T07:18:52.879Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(1)** the term “member business loan”—
     - **(A)** means any loan, line of credit, or letter of credit, the proceeds of which will be used for a commercial, corporate or other business investment property or venture, or agricultural purpose; and
     - **(B)** does not include an extension of credit—
-      - **(i)** that is fully secured by a lien on a 1- to 4-family dwelling that is the primary residence of a member;
+      - **(i)** that is fully secured by a lien on a 1- to 4-family dwelling;
       - **(ii)** that is fully secured by shares in the credit union making the extension of credit or deposits in other financial institutions;
       - **(iii)** that is described in subparagraph (A), if it was made to a borrower or an associated member that has a total of all such extensions of credit in an amount equal to less than $50,000;
       - **(iv)** the repayment of which is fully insured or fully guaranteed by, or where there is an advance commitment to purchase in full by, any agency of the Federal Government or of a State, or any political subdivision thereof; or

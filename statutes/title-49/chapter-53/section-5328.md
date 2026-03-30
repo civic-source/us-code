@@ -3,9 +3,9 @@ title: "Section 5328 - Repealed. Pub. L. 112–141, div. B , § 20002(a), July 6
 usc_title: 49
 usc_section: "5328"
 chapter: 53
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "49 U.S.C. § 5328"
-generated_at: "2026-03-30T07:18:21.715Z"
+generated_at: "2026-03-30T07:20:50.188Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2806 - Compliance improvement methods"
 usc_title: 12
 usc_section: "2806"
 chapter: 29
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 2806"
-generated_at: "2026-03-30T07:17:00.883Z"
+generated_at: "2026-03-30T07:18:52.929Z"
 status: "active"
 ---
 

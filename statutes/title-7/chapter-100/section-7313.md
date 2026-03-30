@@ -3,9 +3,9 @@ title: "Section 7313 - Comprehensive review of past and future of production agr
 usc_title: 7
 usc_section: "7313"
 chapter: 100
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 7313"
-generated_at: "2026-03-30T07:16:49.738Z"
+generated_at: "2026-03-30T07:18:43.718Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 860b - Art. 60b. Post-trial actions in summary courts-martial an
 usc_title: 10
 usc_section: "860b"
 chapter: 47
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 860b"
-generated_at: "2026-03-30T07:16:55.623Z"
+generated_at: "2026-03-30T07:18:47.380Z"
 status: "active"
 ---
 

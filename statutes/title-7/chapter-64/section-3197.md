@@ -3,9 +3,9 @@ title: "Section 3197 - Availability of appropriated funds"
 usc_title: 7
 usc_section: "3197"
 chapter: 64
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 3197"
-generated_at: "2026-03-30T07:16:49.700Z"
+generated_at: "2026-03-30T07:18:43.683Z"
 status: "active"
 ---
 

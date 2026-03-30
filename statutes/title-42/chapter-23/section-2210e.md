@@ -3,9 +3,9 @@ title: "Section 2210e - Design basis threat rulemaking"
 usc_title: 42
 usc_section: "2210e"
 chapter: 23
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 2210e"
-generated_at: "2026-03-30T07:18:03.668Z"
+generated_at: "2026-03-30T07:20:27.407Z"
 status: "active"
 ---
 

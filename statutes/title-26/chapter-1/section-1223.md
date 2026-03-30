@@ -3,9 +3,9 @@ title: "Section 1223 - Holding period of property"
 usc_title: 26
 usc_section: "1223"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 1223"
-generated_at: "2026-03-30T07:17:30.416Z"
+generated_at: "2026-03-30T07:19:27.713Z"
 status: "active"
 ---
 

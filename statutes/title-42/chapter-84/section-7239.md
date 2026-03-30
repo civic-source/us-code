@@ -3,9 +3,9 @@ title: "Section 7239 - Transferred"
 usc_title: 42
 usc_section: "7239"
 chapter: 84
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 7239"
-generated_at: "2026-03-30T07:18:03.771Z"
+generated_at: "2026-03-30T07:20:27.517Z"
 status: "transferred"
 ---
 

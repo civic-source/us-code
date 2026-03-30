@@ -3,9 +3,9 @@ title: "Section 1405w - Repealed. Pub. L. 97–357, title III , § 307, Oct. 19,
 usc_title: 48
 usc_section: "1405w"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "48 U.S.C. § 1405w"
-generated_at: "2026-03-30T07:18:06.884Z"
+generated_at: "2026-03-30T07:20:40.918Z"
 status: "repealed"
 ---
 

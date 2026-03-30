@@ -3,9 +3,9 @@ title: "Section 3202 - Congressional statement of purpose"
 usc_title: 22
 usc_section: "3202"
 chapter: 47
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 3202"
-generated_at: "2026-03-30T07:17:20.815Z"
+generated_at: "2026-03-30T07:19:15.827Z"
 status: "active"
 ---
 

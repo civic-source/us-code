@@ -3,9 +3,9 @@ title: "Section 7554 - Reports"
 usc_title: 22
 usc_section: "7554"
 chapter: 82
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 7554"
-generated_at: "2026-03-30T07:17:20.862Z"
+generated_at: "2026-03-30T07:19:15.873Z"
 status: "active"
 ---
 

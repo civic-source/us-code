@@ -3,9 +3,9 @@ title: "Section 3407 - Judicial subpena"
 usc_title: 12
 usc_section: "3407"
 chapter: 35
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 3407"
-generated_at: "2026-03-30T07:17:00.889Z"
+generated_at: "2026-03-30T07:18:52.935Z"
 status: "active"
 ---
 

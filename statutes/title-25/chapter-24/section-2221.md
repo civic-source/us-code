@@ -3,9 +3,9 @@ title: "Section 2221 - Annual notice and filing; current whereabouts of interest
 usc_title: 25
 usc_section: "2221"
 chapter: 24
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "25 U.S.C. § 2221"
-generated_at: "2026-03-30T07:17:17.134Z"
+generated_at: "2026-03-30T07:19:10.742Z"
 status: "active"
 ---
 

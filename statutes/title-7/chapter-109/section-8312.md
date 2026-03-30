@@ -3,9 +3,9 @@ title: "Section 8312 - Administration and claims"
 usc_title: 7
 usc_section: "8312"
 chapter: 109
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 8312"
-generated_at: "2026-03-30T07:16:49.758Z"
+generated_at: "2026-03-30T07:18:43.738Z"
 status: "active"
 ---
 

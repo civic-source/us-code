@@ -3,9 +3,9 @@ title: "Section 293b - Conveyance of abandoned school properties in Alaska to lo
 usc_title: 25
 usc_section: "293b"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "25 U.S.C. § 293b"
-generated_at: "2026-03-30T07:17:17.099Z"
+generated_at: "2026-03-30T07:19:10.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Regulations"
 usc_title: 12
 usc_section: "3"
 chapter: 13
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T07:17:00.830Z"
+generated_at: "2026-03-30T07:18:52.877Z"
 status: "active"
 ---
 

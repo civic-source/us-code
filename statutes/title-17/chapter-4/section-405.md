@@ -3,9 +3,9 @@ title: "Section 405 - Notice of copyright: Omission of notice on certain copies 
 usc_title: 17
 usc_section: "405"
 chapter: 4
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "17 U.S.C. § 405"
-generated_at: "2026-03-30T07:17:05.003Z"
+generated_at: "2026-03-30T07:19:03.771Z"
 status: "active"
 ---
 

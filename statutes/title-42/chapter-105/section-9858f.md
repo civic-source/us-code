@@ -3,9 +3,9 @@ title: "Section 9858f - Criminal background checks"
 usc_title: 42
 usc_section: "9858f"
 chapter: 105
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 9858f"
-generated_at: "2026-03-30T07:18:03.843Z"
+generated_at: "2026-03-30T07:20:27.591Z"
 status: "active"
 ---
 

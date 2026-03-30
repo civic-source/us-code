@@ -3,9 +3,9 @@ title: "Section 177a - Funds available for cost of transporting and redeeming na
 usc_title: 12
 usc_section: "177a"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 177a"
-generated_at: "2026-03-30T07:17:00.774Z"
+generated_at: "2026-03-30T07:18:52.820Z"
 status: "active"
 ---
 

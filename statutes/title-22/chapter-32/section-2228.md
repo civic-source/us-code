@@ -3,9 +3,9 @@ title: "Section 2228 - International Muslim Youth Opportunity Fund"
 usc_title: 22
 usc_section: "2228"
 chapter: 32
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 2228"
-generated_at: "2026-03-30T07:17:20.784Z"
+generated_at: "2026-03-30T07:19:15.796Z"
 status: "active"
 ---
 

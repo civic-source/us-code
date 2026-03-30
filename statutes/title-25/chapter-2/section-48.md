@@ -3,9 +3,9 @@ title: "Section 48 - Right of tribes to direct employment of persons engaged for
 usc_title: 25
 usc_section: "48"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "25 U.S.C. § 48"
-generated_at: "2026-03-30T07:17:17.094Z"
+generated_at: "2026-03-30T07:19:10.704Z"
 status: "active"
 ---
 

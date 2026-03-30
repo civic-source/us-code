@@ -3,9 +3,9 @@ title: "Section 460bbbb - Establishment of Martin Luther King, Jr. National Hist
 usc_title: 16
 usc_section: "460bbbb"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 460bbbb"
-generated_at: "2026-03-30T07:17:10.018Z"
+generated_at: "2026-03-30T07:19:06.018Z"
 status: "active"
 ---
 

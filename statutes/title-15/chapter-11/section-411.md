@@ -3,9 +3,9 @@ title: "Section 411 - Repealed. Pub. L. 86–613 , § 19, formerly § 18, July 1
 usc_title: 15
 usc_section: "411"
 chapter: 11
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 411"
-generated_at: "2026-03-30T07:17:02.933Z"
+generated_at: "2026-03-30T07:18:56.229Z"
 status: "repealed"
 ---
 

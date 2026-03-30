@@ -3,9 +3,9 @@ title: "Section 2101A - Eligibility for benefits and assistance: members of the 
 usc_title: 38
 usc_section: "2101A"
 chapter: 21
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 2101A"
-generated_at: "2026-03-30T07:17:45.795Z"
+generated_at: "2026-03-30T07:20:05.126Z"
 status: "active"
 ---
 
@@ -19,4 +19,5 @@ status: "active"
   - **(2)** The Secretary may provide benefits and assistance to an individual under paragraph (1) only if—
     - **(A)** the country or political subdivision in which the housing or residence involved is or will be located permits the individual to have or acquire a beneficial property interest (as determined by the Secretary) in such housing or residence; and
     - **(B)** the individual has or will acquire a beneficial property interest (as so determined) in such housing or residence.
-- **(c)** Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
+- **(c)** Notwithstanding subsections (a) and (b), this section shall not apply to the provision of assistance under section 2102B of this title .
+- **(d)** Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.

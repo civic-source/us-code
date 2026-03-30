@@ -3,9 +3,9 @@ title: "Section 5948 - Physicians comparability allowances"
 usc_title: 5
 usc_section: "5948"
 chapter: 59
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "5 U.S.C. § 5948"
-generated_at: "2026-03-30T07:16:42.353Z"
+generated_at: "2026-03-30T07:18:37.436Z"
 status: "active"
 ---
 

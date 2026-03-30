@@ -3,9 +3,9 @@ title: "Section 3602 - Definitions"
 usc_title: 33
 usc_section: "3602"
 chapter: 49
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "33 U.S.C. § 3602"
-generated_at: "2026-03-30T07:17:34.591Z"
+generated_at: "2026-03-30T07:19:32.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2321d - Considerations in furnishing military assistance"
 usc_title: 22
 usc_section: "2321d"
 chapter: 32
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 2321d"
-generated_at: "2026-03-30T07:17:20.788Z"
+generated_at: "2026-03-30T07:19:15.800Z"
 status: "active"
 ---
 

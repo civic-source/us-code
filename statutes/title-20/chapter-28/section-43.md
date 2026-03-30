@@ -3,9 +3,9 @@ title: "Section 43 - Repealed. Pub. L. 105–244, title IV , § 405, Oct. 7, 199
 usc_title: 20
 usc_section: "43"
 chapter: 28
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 43"
-generated_at: "2026-03-30T07:17:11.884Z"
+generated_at: "2026-03-30T07:19:01.994Z"
 status: "repealed"
 ---
 

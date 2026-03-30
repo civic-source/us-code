@@ -3,9 +3,9 @@ title: "Section 10671 - Grant authorization"
 usc_title: 34
 usc_section: "10671"
 chapter: 101
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "34 U.S.C. § 10671"
-generated_at: "2026-03-30T07:17:41.335Z"
+generated_at: "2026-03-30T07:19:49.637Z"
 status: "active"
 ---
 

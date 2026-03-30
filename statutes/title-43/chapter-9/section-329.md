@@ -3,9 +3,9 @@ title: "Section 329 - Issue of patent on final proof; citizenship requirement as
 usc_title: 43
 usc_section: "329"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 329"
-generated_at: "2026-03-30T07:17:48.374Z"
+generated_at: "2026-03-30T07:20:34.362Z"
 status: "active"
 ---
 

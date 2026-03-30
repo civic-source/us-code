@@ -3,9 +3,9 @@ title: "Section 0b - Transferred"
 usc_title: 42
 usc_section: "0b"
 chapter: 46
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-03-30T07:18:03.698Z"
+generated_at: "2026-03-30T07:20:27.438Z"
 status: "transferred"
 ---
 

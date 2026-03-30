@@ -3,9 +3,9 @@ title: "Section 80505 - Enforcement"
 usc_title: 46
 usc_section: "80505"
 chapter: 805
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "46 U.S.C. § 80505"
-generated_at: "2026-03-30T07:18:14.152Z"
+generated_at: "2026-03-30T07:20:47.575Z"
 status: "active"
 ---
 

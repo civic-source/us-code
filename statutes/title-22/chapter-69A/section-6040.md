@@ -3,9 +3,9 @@ title: "Section 6040 - Importation safeguard against certain Cuban products"
 usc_title: 22
 usc_section: "6040"
 chapter: 69
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 6040"
-generated_at: "2026-03-30T07:17:20.846Z"
+generated_at: "2026-03-30T07:19:15.856Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4609 - Procedures for processing export license applications; ot
 usc_title: 50
 usc_section: "4609"
 chapter: 56
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "50 U.S.C. § 4609"
-generated_at: "2026-03-30T07:18:15.390Z"
+generated_at: "2026-03-30T07:20:51.765Z"
 status: "active"
 ---
 

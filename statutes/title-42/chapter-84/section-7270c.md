@@ -3,9 +3,9 @@ title: "Section 7270c - Annual assessment and report on vulnerability of facilit
 usc_title: 42
 usc_section: "7270c"
 chapter: 84
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 7270c"
-generated_at: "2026-03-30T07:18:03.772Z"
+generated_at: "2026-03-30T07:20:27.517Z"
 status: "active"
 ---
 

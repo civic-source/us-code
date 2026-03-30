@@ -3,9 +3,9 @@ title: "Section 3802 - Repealed. Pub. L. 104–201, div. C, title XXXV , § 3546
 usc_title: 22
 usc_section: "3802"
 chapter: 51
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 3802"
-generated_at: "2026-03-30T07:17:20.821Z"
+generated_at: "2026-03-30T07:19:15.832Z"
 status: "repealed"
 ---
 

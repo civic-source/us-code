@@ -3,9 +3,9 @@ title: "Section 9001 - Short title"
 usc_title: 26
 usc_section: "9001"
 chapter: 95
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 9001"
-generated_at: "2026-03-30T07:17:30.531Z"
+generated_at: "2026-03-30T07:19:27.821Z"
 status: "active"
 ---
 

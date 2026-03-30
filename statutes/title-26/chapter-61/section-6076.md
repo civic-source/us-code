@@ -3,9 +3,9 @@ title: "Section 6076 - Repealed. Pub. L. 100–418, title I , § 1941(b)(1), Aug
 usc_title: 26
 usc_section: "6076"
 chapter: 61
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 6076"
-generated_at: "2026-03-30T07:17:30.487Z"
+generated_at: "2026-03-30T07:19:27.780Z"
 status: "repealed"
 ---
 

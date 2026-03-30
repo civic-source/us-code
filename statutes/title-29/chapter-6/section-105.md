@@ -3,9 +3,9 @@ title: "Section 105 - Doing in concert of certain acts as constituting unlawful 
 usc_title: 29
 usc_section: "105"
 chapter: 6
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "29 U.S.C. § 105"
-generated_at: "2026-03-30T07:17:24.555Z"
+generated_at: "2026-03-30T07:19:19.461Z"
 status: "active"
 ---
 

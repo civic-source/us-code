@@ -3,9 +3,9 @@ title: "Section 679b - Annual report"
 usc_title: 42
 usc_section: "679b"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 679b"
-generated_at: "2026-03-30T07:18:03.471Z"
+generated_at: "2026-03-30T07:20:27.206Z"
 status: "active"
 ---
 

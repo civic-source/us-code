@@ -3,9 +3,9 @@ title: "Section 762 - Deposits made by settlers for surveys to go in part paymen
 usc_title: 43
 usc_section: "762"
 chapter: 18
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 762"
-generated_at: "2026-03-30T07:17:48.392Z"
+generated_at: "2026-03-30T07:20:34.380Z"
 status: "active"
 ---
 

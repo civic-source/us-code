@@ -3,9 +3,9 @@ title: "Section 2465 - Prohibition on contracts for performance of firefighting 
 usc_title: 10
 usc_section: "2465"
 chapter: 146
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 2465"
-generated_at: "2026-03-30T07:16:55.688Z"
+generated_at: "2026-03-30T07:18:47.442Z"
 status: "active"
 ---
 

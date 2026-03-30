@@ -3,9 +3,9 @@ title: "Section 1395cc - Agreements with providers of services; enrollment proce
 usc_title: 42
 usc_section: "1395cc"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 1395cc"
-generated_at: "2026-03-30T07:18:03.546Z"
+generated_at: "2026-03-30T07:20:27.282Z"
 status: "active"
 ---
 

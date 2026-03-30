@@ -3,9 +3,9 @@ title: "Section 8004 - Congregate services program"
 usc_title: 42
 usc_section: "8004"
 chapter: 89
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 8004"
-generated_at: "2026-03-30T07:18:03.809Z"
+generated_at: "2026-03-30T07:20:27.554Z"
 status: "active"
 ---
 

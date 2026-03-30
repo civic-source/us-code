@@ -3,9 +3,9 @@ title: "Section 3443 - Repealed. Pub. L. 85–861 , § 36B(6), Sept. 2, 1958 , 7
 usc_title: 10
 usc_section: "3443"
 chapter: 339
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 3443"
-generated_at: "2026-03-30T07:16:55.709Z"
+generated_at: "2026-03-30T07:18:47.461Z"
 status: "repealed"
 ---
 

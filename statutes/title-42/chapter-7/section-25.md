@@ -3,9 +3,9 @@ title: "Section 25 - Organizational and financial requirements for Medicare+Choi
 usc_title: 42
 usc_section: "25"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-30T07:18:03.531Z"
+generated_at: "2026-03-30T07:20:27.267Z"
 status: "active"
 ---
 

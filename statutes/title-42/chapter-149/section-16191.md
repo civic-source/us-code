@@ -3,9 +3,9 @@ title: "Section 16191 - Energy efficiency"
 usc_title: 42
 usc_section: "16191"
 chapter: 149
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 16191"
-generated_at: "2026-03-30T07:18:03.922Z"
+generated_at: "2026-03-30T07:20:27.673Z"
 status: "active"
 ---
 

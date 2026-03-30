@@ -3,9 +3,9 @@ title: "Section 1508 - Frequency of payment of pension benefits"
 usc_title: 38
 usc_section: "1508"
 chapter: 15
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 1508"
-generated_at: "2026-03-30T07:17:45.784Z"
+generated_at: "2026-03-30T07:20:05.115Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1535 - Least burdensome option or explanation required"
 usc_title: 2
 usc_section: "1535"
 chapter: 25
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "2 U.S.C. § 1535"
-generated_at: "2026-03-30T07:16:39.984Z"
+generated_at: "2026-03-30T07:18:35.975Z"
 status: "active"
 ---
 

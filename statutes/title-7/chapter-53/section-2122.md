@@ -3,9 +3,9 @@ title: "Section 2122 - Authorization of appropriations for cotton ginning studie
 usc_title: 7
 usc_section: "2122"
 chapter: 53
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 2122"
-generated_at: "2026-03-30T07:16:49.685Z"
+generated_at: "2026-03-30T07:18:43.668Z"
 status: "active"
 ---
 

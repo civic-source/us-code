@@ -3,9 +3,9 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-30T07:18:03.533Z"
+generated_at: "2026-03-30T07:20:27.268Z"
 status: "active"
 ---
 
@@ -99,7 +99,7 @@ status: "active"
     - **(A)** Subject to subparagraph (C), the Secretary shall establish procedures for the transition of applicable individuals to—
       - **(i)** a Medicare Advantage plan that is not a specialized MA plan for special needs individuals (as defined in subsection (b)(6)); or
       - **(ii)** the original medicare fee-for-service program under parts A and B.
-    - **(B)** For purposes of clause (i), the term ‘applicable individual’ means an individual who—
+    - **(B)** For purposes of clause (i), the term “applicable individual” means an individual who—
       - **(i)** is enrolled under a specialized MA plan for special needs individuals (as defined in subsection (b)(6)); and
       - **(ii)** is not within the 1 or more of the classes of special needs individuals to which enrollment under the plan is restricted to.
     - **(C)** The Secretary shall provide for an exception to the transition described in subparagraph (A) for a limited period of time for individuals enrolled under a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) who are no longer eligible for medical assistance under subchapter XIX.

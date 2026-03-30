@@ -3,9 +3,9 @@ title: "Section 1471 - Appropriations; availability for payment of property dama
 usc_title: 43
 usc_section: "1471"
 chapter: 31
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "43 U.S.C. § 1471"
-generated_at: "2026-03-30T07:17:48.404Z"
+generated_at: "2026-03-30T07:20:34.391Z"
 status: "active"
 ---
 

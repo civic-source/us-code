@@ -3,9 +3,9 @@ title: "Section 8503 - Notice of provisions of this subchapter"
 usc_title: 38
 usc_section: "8503"
 chapter: 85
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 8503"
-generated_at: "2026-03-30T07:17:45.836Z"
+generated_at: "2026-03-30T07:20:05.165Z"
 status: "active"
 ---
 

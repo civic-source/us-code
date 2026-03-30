@@ -3,9 +3,9 @@ title: "Section 102712 - Aid to visitors, grantees, permittees, or licensees in 
 usc_title: 54
 usc_section: "102712"
 chapter: 1027
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "54 U.S.C. § 102712"
-generated_at: "2026-03-30T07:18:24.654Z"
+generated_at: "2026-03-30T07:20:54.103Z"
 status: "active"
 ---
 

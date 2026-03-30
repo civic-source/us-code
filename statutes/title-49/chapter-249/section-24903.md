@@ -3,9 +3,9 @@ title: "Section 24903 - General authority"
 usc_title: 49
 usc_section: "24903"
 chapter: 249
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "49 U.S.C. § 24903"
-generated_at: "2026-03-30T07:18:21.737Z"
+generated_at: "2026-03-30T07:20:50.210Z"
 status: "active"
 ---
 

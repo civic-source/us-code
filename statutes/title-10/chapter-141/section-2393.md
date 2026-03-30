@@ -3,9 +3,9 @@ title: "Section 2393 - Prohibition against doing business with certain offerors 
 usc_title: 10
 usc_section: "2393"
 chapter: 141
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 2393"
-generated_at: "2026-03-30T07:16:55.683Z"
+generated_at: "2026-03-30T07:18:47.437Z"
 status: "active"
 ---
 

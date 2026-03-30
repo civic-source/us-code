@@ -3,9 +3,9 @@ title: "Section 177 - Repealed. Pub. L. 103–325, title VI , § 602(e)(24)–(3
 usc_title: 12
 usc_section: "177"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 177"
-generated_at: "2026-03-30T07:17:00.774Z"
+generated_at: "2026-03-30T07:18:52.820Z"
 status: "repealed"
 ---
 

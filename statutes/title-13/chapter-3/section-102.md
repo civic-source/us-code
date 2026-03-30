@@ -3,9 +3,9 @@ title: "Section 102 - Religion"
 usc_title: 13
 usc_section: "102"
 chapter: 3
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "13 U.S.C. § 102"
-generated_at: "2026-03-30T07:16:57.468Z"
+generated_at: "2026-03-30T07:18:49.281Z"
 status: "active"
 ---
 

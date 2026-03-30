@@ -3,9 +3,9 @@ title: "Section 44901 - Screening passengers and property"
 usc_title: 49
 usc_section: "44901"
 chapter: 449
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "49 U.S.C. § 44901"
-generated_at: "2026-03-30T07:18:21.765Z"
+generated_at: "2026-03-30T07:20:50.237Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6999 - Judicial review"
 usc_title: 7
 usc_section: "6999"
 chapter: 98
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 6999"
-generated_at: "2026-03-30T07:16:49.733Z"
+generated_at: "2026-03-30T07:18:43.713Z"
 status: "active"
 ---
 

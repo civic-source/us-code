@@ -3,9 +3,9 @@ title: "Section 3403 - Confidentiality of financial records"
 usc_title: 12
 usc_section: "3403"
 chapter: 35
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 3403"
-generated_at: "2026-03-30T07:17:00.889Z"
+generated_at: "2026-03-30T07:18:52.935Z"
 status: "active"
 ---
 

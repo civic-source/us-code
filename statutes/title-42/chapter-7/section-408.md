@@ -3,9 +3,9 @@ title: "Section 408 - Penalties"
 usc_title: 42
 usc_section: "408"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 408"
-generated_at: "2026-03-30T07:18:03.445Z"
+generated_at: "2026-03-30T07:20:27.179Z"
 status: "active"
 ---
 

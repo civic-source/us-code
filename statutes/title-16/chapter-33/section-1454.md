@@ -3,9 +3,9 @@ title: "Section 1454 - Submittal of State program for approval"
 usc_title: 16
 usc_section: "1454"
 chapter: 33
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 1454"
-generated_at: "2026-03-30T07:17:10.097Z"
+generated_at: "2026-03-30T07:19:06.095Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3319d - Supplemental and alternative crops"
 usc_title: 7
 usc_section: "3319d"
 chapter: 64
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 3319d"
-generated_at: "2026-03-30T07:16:49.703Z"
+generated_at: "2026-03-30T07:18:43.685Z"
 status: "active"
 ---
 

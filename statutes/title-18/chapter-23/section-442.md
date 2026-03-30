@@ -3,9 +3,9 @@ title: "Section 442 - Printing contracts"
 usc_title: 18
 usc_section: "442"
 chapter: 23
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "18 U.S.C. § 442"
-generated_at: "2026-03-30T07:17:06.503Z"
+generated_at: "2026-03-30T07:19:02.933Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1726a - Administration"
 usc_title: 7
 usc_section: "1726a"
 chapter: 41
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 1726a"
-generated_at: "2026-03-30T07:16:49.653Z"
+generated_at: "2026-03-30T07:18:43.638Z"
 status: "active"
 ---
 

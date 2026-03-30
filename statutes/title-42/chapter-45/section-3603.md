@@ -3,9 +3,9 @@ title: "Section 3603 - Effective dates of certain prohibitions"
 usc_title: 42
 usc_section: "3603"
 chapter: 45
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 3603"
-generated_at: "2026-03-30T07:18:03.695Z"
+generated_at: "2026-03-30T07:20:27.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6913 - Reductions in number of Department personnel"
 usc_title: 7
 usc_section: "6913"
 chapter: 98
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 6913"
-generated_at: "2026-03-30T07:16:49.730Z"
+generated_at: "2026-03-30T07:18:43.710Z"
 status: "active"
 ---
 

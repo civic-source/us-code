@@ -3,9 +3,9 @@ title: "Section 2101 - Marking requirements"
 usc_title: 15
 usc_section: "2101"
 chapter: 48
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 2101"
-generated_at: "2026-03-30T07:17:03.007Z"
+generated_at: "2026-03-30T07:18:56.304Z"
 status: "active"
 ---
 

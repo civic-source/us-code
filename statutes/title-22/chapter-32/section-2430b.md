@@ -3,9 +3,9 @@ title: "Section 2430b - Eligibility for benefits"
 usc_title: 22
 usc_section: "2430b"
 chapter: 32
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 2430b"
-generated_at: "2026-03-30T07:17:20.797Z"
+generated_at: "2026-03-30T07:19:15.808Z"
 status: "active"
 ---
 

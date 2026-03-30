@@ -3,9 +3,9 @@ title: "Section 5453 - Medical supplies, hospital equipment, and medical trainin
 usc_title: 22
 usc_section: "5453"
 chapter: 63
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 5453"
-generated_at: "2026-03-30T07:17:20.841Z"
+generated_at: "2026-03-30T07:19:15.852Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7404 - Grades and pay scales"
 usc_title: 38
 usc_section: "7404"
 chapter: 74
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 7404"
-generated_at: "2026-03-30T07:17:45.827Z"
+generated_at: "2026-03-30T07:20:05.157Z"
 status: "active"
 ---
 

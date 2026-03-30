@@ -3,9 +3,9 @@ title: "Section 50112 - Annual report"
 usc_title: 36
 usc_section: "50112"
 chapter: 501
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "36 U.S.C. § 50112"
-generated_at: "2026-03-30T07:17:44.087Z"
+generated_at: "2026-03-30T07:19:55.678Z"
 status: "active"
 ---
 

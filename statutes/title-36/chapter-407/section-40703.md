@@ -3,9 +3,9 @@ title: "Section 40703 - Powers"
 usc_title: 36
 usc_section: "40703"
 chapter: 407
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "36 U.S.C. § 40703"
-generated_at: "2026-03-30T07:17:44.086Z"
+generated_at: "2026-03-30T07:19:55.677Z"
 status: "active"
 ---
 

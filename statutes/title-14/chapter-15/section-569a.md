@@ -3,9 +3,9 @@ title: "Section 569a - Renumbered § 2903]"
 usc_title: 14
 usc_section: "569a"
 chapter: 15
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "14 U.S.C. § 569a"
-generated_at: "2026-03-30T07:16:57.730Z"
+generated_at: "2026-03-30T07:18:54.064Z"
 status: "renumbered"
 ---
 

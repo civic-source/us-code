@@ -3,9 +3,9 @@ title: "Section 3154d - Brightfields demonstration program"
 usc_title: 42
 usc_section: "3154d"
 chapter: 38
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 3154d"
-generated_at: "2026-03-30T07:18:03.690Z"
+generated_at: "2026-03-30T07:20:27.430Z"
 status: "active"
 ---
 

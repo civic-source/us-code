@@ -3,9 +3,9 @@ title: "Section 11144 - Grants for local projects"
 usc_title: 34
 usc_section: "11144"
 chapter: 111
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "34 U.S.C. § 11144"
-generated_at: "2026-03-30T07:17:41.338Z"
+generated_at: "2026-03-30T07:19:49.640Z"
 status: "active"
 ---
 

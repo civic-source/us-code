@@ -3,9 +3,9 @@ title: "Section 2018 - Security; terms"
 usc_title: 12
 usc_section: "2018"
 chapter: 23
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 2018"
-generated_at: "2026-03-30T07:17:00.867Z"
+generated_at: "2026-03-30T07:18:52.913Z"
 status: "active"
 ---
 

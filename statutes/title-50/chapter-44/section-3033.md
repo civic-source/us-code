@@ -3,9 +3,9 @@ title: "Section 3033 - Inspector General of the Intelligence Community"
 usc_title: 50
 usc_section: "3033"
 chapter: 44
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "50 U.S.C. § 3033"
-generated_at: "2026-03-30T07:18:15.359Z"
+generated_at: "2026-03-30T07:20:51.735Z"
 status: "active"
 ---
 

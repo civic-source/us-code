@@ -3,9 +3,9 @@ title: "Section 4370e - Working capital fund in Treasury"
 usc_title: 42
 usc_section: "4370e"
 chapter: 55
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 4370e"
-generated_at: "2026-03-30T07:18:03.706Z"
+generated_at: "2026-03-30T07:20:27.446Z"
 status: "active"
 ---
 

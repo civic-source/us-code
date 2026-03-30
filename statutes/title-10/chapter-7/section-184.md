@@ -3,9 +3,9 @@ title: "Section 184 - Renumbered § 342]"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-30T07:16:55.602Z"
+generated_at: "2026-03-30T07:18:47.361Z"
 status: "renumbered"
 ---
 

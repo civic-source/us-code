@@ -3,9 +3,9 @@ title: "Section 3484 - Apprenticeship or other on-job training; correspondence c
 usc_title: 38
 usc_section: "3484"
 chapter: 34
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 3484"
-generated_at: "2026-03-30T07:17:45.804Z"
+generated_at: "2026-03-30T07:20:05.135Z"
 status: "active"
 ---
 

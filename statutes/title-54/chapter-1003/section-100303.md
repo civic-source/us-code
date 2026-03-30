@@ -3,9 +3,9 @@ title: "Section 100303 - Effect on other laws"
 usc_title: 54
 usc_section: "100303"
 chapter: 1003
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "54 U.S.C. § 100303"
-generated_at: "2026-03-30T07:18:24.650Z"
+generated_at: "2026-03-30T07:20:54.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 956 - Powers and duties of clerks and deputies"
 usc_title: 28
 usc_section: "956"
 chapter: 57
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "28 U.S.C. § 956"
-generated_at: "2026-03-30T07:17:25.540Z"
+generated_at: "2026-03-30T07:19:20.198Z"
 status: "active"
 ---
 

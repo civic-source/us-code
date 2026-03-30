@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T07:18:03.608Z"
+generated_at: "2026-03-30T07:20:27.345Z"
 status: "active"
 ---
 
@@ -120,10 +120,12 @@ status: "active"
       - **(ii)** contain terms and conditions that—
         - **(I)** are consistent with State and local law; and
         - **(II)** apply generally to tenants in the property who are not assisted under this section;
-    - **(C)** shall provide that during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause,; 3 3 So in original. The comma probably should not appear.
+    - **(C)** shall provide that during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause, and in the case of an owner who is an immediate successor in interest pursuant to foreclosure during the term of the lease vacating the property prior to sale shall not constitute other good cause, except that the owner may terminate the tenancy effective on the date of transfer of the unit to the owner if the owner—
+      - **(i)** will occupy the unit as a primary residence; and
+      - **(ii)** has provided the tenant a notice to vacate at least 90 days before the effective date of such notice.; 3 3 So in original.
     - **(D)** shall provide that during the term of the lease, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises, or any violent or drug-related criminal activity on or near such premises, engaged in by a tenant of any unit, any member of the tenant’s household, or any guest or other person under the tenant’s control, shall be cause for termination of tenancy;
     - **(E)** shall provide that any termination of tenancy under this subsection shall be preceded by the provision of written notice by the owner to the tenant specifying the grounds for that action, and any relief shall be consistent with applicable State and local law; and
-    - **(F)** may include any addenda required by the Secretary to set forth the provisions of this subsection.
+    - **(F)** may include any addenda required by the Secretary to set forth the provisions of this subsection. In the case of any foreclosure on any federally-related mortgage loan (as that term is defined in section 2602 of title 12 ) or on any residential real property in which a recipient of assistance under this subsection resides, the immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to the lease between the prior owner and the tenant and to the housing assistance payments contract between the prior owner and the public housing agency for the occupied unit, except that this provision and the provisions related to foreclosure in subparagraph (C) shall not shall not 3 affect any State or local law that provides longer time periods or other additional protections for tenants.
   - **(8)**
     - **(A)** Except as provided in paragraph (11), for each dwelling unit for which a housing assistance payment contract is established under this subsection, the public housing agency shall inspect the unit before any assistance payment is made to determine whether the dwelling unit meets the housing quality standards under subparagraph (B).
     - **(B)** The housing quality standards under this subparagraph are standards for safe and habitable housing established—

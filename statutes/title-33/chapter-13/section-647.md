@@ -3,9 +3,9 @@ title: "Section 647 - Mississippi River survey"
 usc_title: 33
 usc_section: "647"
 chapter: 13
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "33 U.S.C. § 647"
-generated_at: "2026-03-30T07:17:34.530Z"
+generated_at: "2026-03-30T07:19:32.388Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 5704 - Stipends"
+title: "Section 5704 - Repealed. Pub. L. 115–31, div. E, title VI , § 631(a), May 5, 2017 , 131 Stat. 376"
 usc_title: 20
 usc_section: "5704"
 chapter: 67
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 5704"
-generated_at: "2026-03-30T07:17:11.964Z"
-status: "active"
+generated_at: "2026-03-30T07:19:02.066Z"
+status: "repealed"
 ---
 
-# § 5704. Stipends
-
-Each person awarded a fellowship under this chapter shall receive a stipend as determined by the Foundation.
+# § 5704. Repealed. Pub. L. 115–31, div. E, title VI , § 631(a), May 5, 2017 , 131 Stat. 376
 

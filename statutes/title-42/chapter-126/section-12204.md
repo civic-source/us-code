@@ -3,9 +3,9 @@ title: "Section 12204 - Regulations by Architectural and Transportation Barriers
 usc_title: 42
 usc_section: "12204"
 chapter: 126
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 12204"
-generated_at: "2026-03-30T07:18:03.874Z"
+generated_at: "2026-03-30T07:20:27.622Z"
 status: "active"
 ---
 

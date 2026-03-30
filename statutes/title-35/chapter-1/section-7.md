@@ -3,9 +3,9 @@ title: "Section 7 - Library"
 usc_title: 35
 usc_section: "7"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "35 U.S.C. § 7"
-generated_at: "2026-03-30T07:17:36.887Z"
+generated_at: "2026-03-30T07:19:30.440Z"
 status: "active"
 ---
 

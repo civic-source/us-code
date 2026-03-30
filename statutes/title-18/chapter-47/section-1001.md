@@ -3,9 +3,9 @@ title: "Section 1001 - Statements or entries generally"
 usc_title: 18
 usc_section: "1001"
 chapter: 47
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "18 U.S.C. § 1001"
-generated_at: "2026-03-30T07:17:06.515Z"
+generated_at: "2026-03-30T07:19:02.944Z"
 status: "active"
 ---
 

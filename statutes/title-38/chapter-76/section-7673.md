@@ -3,9 +3,9 @@ title: "Section 7673 - Scholarship"
 usc_title: 38
 usc_section: "7673"
 chapter: 76
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "38 U.S.C. § 7673"
-generated_at: "2026-03-30T07:17:45.831Z"
+generated_at: "2026-03-30T07:20:05.160Z"
 status: "active"
 ---
 

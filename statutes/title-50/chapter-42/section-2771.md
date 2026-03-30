@@ -3,9 +3,9 @@ title: "Section 2771 - Repealed. Pub. L. 112–239, div. C, title XXXI , § 3131
 usc_title: 50
 usc_section: "2771"
 chapter: 42
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "50 U.S.C. § 2771"
-generated_at: "2026-03-30T07:18:15.356Z"
+generated_at: "2026-03-30T07:20:51.732Z"
 status: "repealed"
 ---
 

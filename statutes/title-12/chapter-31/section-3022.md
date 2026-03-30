@@ -3,9 +3,9 @@ title: "Section 3022 - Authorization of additional appropriations; restrictions 
 usc_title: 12
 usc_section: "3022"
 chapter: 31
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 3022"
-generated_at: "2026-03-30T07:17:00.884Z"
+generated_at: "2026-03-30T07:18:52.931Z"
 status: "active"
 ---
 

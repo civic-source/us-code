@@ -3,9 +3,9 @@ title: "Section 631q - Repealed. Pub. L. 89–702, title IV , § 408(a), Nov. 2,
 usc_title: 16
 usc_section: "631q"
 chapter: 5
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 631q"
-generated_at: "2026-03-30T07:17:10.043Z"
+generated_at: "2026-03-30T07:19:06.041Z"
 status: "repealed"
 ---
 

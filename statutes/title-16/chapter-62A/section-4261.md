@@ -3,9 +3,9 @@ title: "Section 4261 - Findings"
 usc_title: 16
 usc_section: "4261"
 chapter: 62
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 4261"
-generated_at: "2026-03-30T07:17:10.140Z"
+generated_at: "2026-03-30T07:19:06.137Z"
 status: "active"
 ---
 

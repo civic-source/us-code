@@ -3,9 +3,9 @@ title: "Section 2 - Reports to Congress"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T07:18:15.326Z"
+generated_at: "2026-03-30T07:20:51.705Z"
 status: "active"
 ---
 

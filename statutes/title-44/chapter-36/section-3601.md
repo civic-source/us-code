@@ -3,9 +3,9 @@ title: "Section 3601 - Definitions"
 usc_title: 44
 usc_section: "3601"
 chapter: 36
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "44 U.S.C. § 3601"
-generated_at: "2026-03-30T07:17:48.616Z"
+generated_at: "2026-03-30T07:20:12.477Z"
 status: "active"
 ---
 

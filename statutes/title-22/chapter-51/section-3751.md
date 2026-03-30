@@ -3,9 +3,9 @@ title: "Section 3751 - Payments to Republic of Panama"
 usc_title: 22
 usc_section: "3751"
 chapter: 51
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 3751"
-generated_at: "2026-03-30T07:17:20.820Z"
+generated_at: "2026-03-30T07:19:15.831Z"
 status: "active"
 ---
 

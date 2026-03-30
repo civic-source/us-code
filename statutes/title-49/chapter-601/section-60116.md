@@ -3,9 +3,9 @@ title: "Section 60116 - Public education programs"
 usc_title: 49
 usc_section: "60116"
 chapter: 601
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "49 U.S.C. § 60116"
-generated_at: "2026-03-30T07:18:21.780Z"
+generated_at: "2026-03-30T07:20:50.252Z"
 status: "active"
 ---
 

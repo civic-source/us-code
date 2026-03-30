@@ -3,9 +3,9 @@ title: "Section 1300 - Pilot program for alternative water source projects"
 usc_title: 33
 usc_section: "1300"
 chapter: 26
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "33 U.S.C. § 1300"
-generated_at: "2026-03-30T07:17:34.553Z"
+generated_at: "2026-03-30T07:19:32.407Z"
 status: "active"
 ---
 

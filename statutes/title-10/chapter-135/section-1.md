@@ -3,9 +3,9 @@ title: "Section 1 - Limitation on construction on United States territory of sat
 usc_title: 10
 usc_section: "1"
 chapter: 135
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T07:16:55.672Z"
+generated_at: "2026-03-30T07:18:47.426Z"
 status: "active"
 ---
 

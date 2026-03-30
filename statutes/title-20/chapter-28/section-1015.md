@@ -3,9 +3,9 @@ title: "Section 1015 - Improvements in market information and public accountabil
 usc_title: 20
 usc_section: "1015"
 chapter: 28
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 1015"
-generated_at: "2026-03-30T07:17:11.871Z"
+generated_at: "2026-03-30T07:19:01.983Z"
 status: "active"
 ---
 

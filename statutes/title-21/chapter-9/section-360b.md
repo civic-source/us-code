@@ -3,9 +3,9 @@ title: "Section 360b - New animal drugs"
 usc_title: 21
 usc_section: "360b"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "21 U.S.C. § 360b"
-generated_at: "2026-03-30T07:17:18.420Z"
+generated_at: "2026-03-30T07:19:09.396Z"
 status: "active"
 ---
 

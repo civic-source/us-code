@@ -3,9 +3,9 @@ title: "Section 6136 - Transfer of funds from representation allowance of Majori
 usc_title: 2
 usc_section: "6136"
 chapter: 61
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "2 U.S.C. § 6136"
-generated_at: "2026-03-30T07:16:40.007Z"
+generated_at: "2026-03-30T07:18:35.994Z"
 status: "active"
 ---
 

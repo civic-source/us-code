@@ -3,9 +3,9 @@ title: "Section 4 - Cooperative agreements with other agencies"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T07:17:10.041Z"
+generated_at: "2026-03-30T07:19:06.039Z"
 status: "active"
 ---
 

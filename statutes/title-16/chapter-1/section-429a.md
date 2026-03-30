@@ -3,9 +3,9 @@ title: "Section 429a - Jurisdiction and control; authorization of annual appropr
 usc_title: 16
 usc_section: "429a"
 chapter: 1
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 429a"
-generated_at: "2026-03-30T07:17:09.979Z"
+generated_at: "2026-03-30T07:19:05.980Z"
 status: "active"
 ---
 

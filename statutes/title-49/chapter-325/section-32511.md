@@ -3,9 +3,9 @@ title: "Section 32511 - Relationship to other motor vehicle standards"
 usc_title: 49
 usc_section: "32511"
 chapter: 325
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "49 U.S.C. § 32511"
-generated_at: "2026-03-30T07:18:21.749Z"
+generated_at: "2026-03-30T07:20:50.222Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30306 - Small business contracting"
 usc_title: 51
 usc_section: "30306"
 chapter: 303
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "51 U.S.C. § 30306"
-generated_at: "2026-03-30T07:18:23.602Z"
+generated_at: "2026-03-30T07:20:53.618Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4141 - Claims settlement period"
 usc_title: 50
 usc_section: "4141"
 chapter: 51
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "50 U.S.C. § 4141"
-generated_at: "2026-03-30T07:18:15.380Z"
+generated_at: "2026-03-30T07:20:51.755Z"
 status: "active"
 ---
 

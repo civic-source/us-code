@@ -3,9 +3,9 @@ title: "Section 77r - Exemption from State regulation of securities offerings"
 usc_title: 15
 usc_section: "77r"
 chapter: 2
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "15 U.S.C. § 77r"
-generated_at: "2026-03-30T07:17:02.887Z"
+generated_at: "2026-03-30T07:18:56.183Z"
 status: "active"
 ---
 
@@ -21,9 +21,8 @@ status: "active"
   - **(3)** shall directly or indirectly prohibit, limit, or impose conditions, based on the merits of such offering or issuer, upon the offer or sale of any security described in paragraph (1).
 - **(b)** For purposes of this section, the following are covered securities:
   - **(1)** A security is a covered security if such security is—
-    - **(A)** listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
-    - **(B)** listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
-    - **(C)** a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
+    - **(A)** a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is listed, or authorized for listing, on a national securities exchange (or tier or segment thereof); or
+    - **(B)** a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A).
   - **(2)** A security is a covered security if such security is a security issued by an investment company that is registered, or that has filed a registration statement, under the Investment Company Act of 1940 [ 15 U.S.C. 80a–1 et seq.].
   - **(3)** A security is a covered security with respect to the offer or sale of the security to qualified purchasers, as defined by the Commission by rule. In prescribing such rule, the Commission may define the term “qualified purchaser” differently with respect to different categories of securities, consistent with the public interest and the protection of investors.
   - **(4)** A security is a covered security with respect to a transaction that is exempt from registration under this subchapter pursuant to—

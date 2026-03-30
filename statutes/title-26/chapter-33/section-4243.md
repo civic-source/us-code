@@ -3,9 +3,9 @@ title: "Section 4243 - Repealed. Pub. L. 89–44, title III , § 301, June 21, 1
 usc_title: 26
 usc_section: "4243"
 chapter: 33
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 4243"
-generated_at: "2026-03-30T07:17:30.453Z"
+generated_at: "2026-03-30T07:19:27.748Z"
 status: "repealed"
 ---
 

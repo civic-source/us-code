@@ -3,9 +3,9 @@ title: "Section 2396a - Property Management Fund"
 usc_title: 22
 usc_section: "2396a"
 chapter: 32
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "22 U.S.C. § 2396a"
-generated_at: "2026-03-30T07:17:20.794Z"
+generated_at: "2026-03-30T07:19:15.806Z"
 status: "active"
 ---
 

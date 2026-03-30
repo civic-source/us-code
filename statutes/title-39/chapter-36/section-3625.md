@@ -3,9 +3,9 @@ title: "Section 3625 - Repealed. Pub. L. 109–435, title II , § 201(b), Dec. 2
 usc_title: 39
 usc_section: "3625"
 chapter: 36
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "39 U.S.C. § 3625"
-generated_at: "2026-03-30T07:17:42.878Z"
+generated_at: "2026-03-30T07:19:55.946Z"
 status: "repealed"
 ---
 

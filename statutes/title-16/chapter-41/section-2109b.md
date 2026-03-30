@@ -3,9 +3,9 @@ title: "Section 2109b - Competitive allocation of funds for cooperative forest i
 usc_title: 16
 usc_section: "2109b"
 chapter: 41
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "16 U.S.C. § 2109b"
-generated_at: "2026-03-30T07:17:10.115Z"
+generated_at: "2026-03-30T07:19:06.113Z"
 status: "active"
 ---
 

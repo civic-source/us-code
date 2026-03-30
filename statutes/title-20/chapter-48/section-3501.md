@@ -3,9 +3,9 @@ title: "Section 3501 - Transfer and allocation of appropriations and personnel"
 usc_title: 20
 usc_section: "3501"
 chapter: 48
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 3501"
-generated_at: "2026-03-30T07:17:11.954Z"
+generated_at: "2026-03-30T07:19:02.057Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 157 - Investments of stock required by treaties"
 usc_title: 25
 usc_section: "157"
 chapter: 4
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "25 U.S.C. § 157"
-generated_at: "2026-03-30T07:17:17.095Z"
+generated_at: "2026-03-30T07:19:10.706Z"
 status: "active"
 ---
 

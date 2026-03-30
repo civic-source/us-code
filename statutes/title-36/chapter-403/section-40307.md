@@ -3,9 +3,9 @@ title: "Section 40307 - Annual report"
 usc_title: 36
 usc_section: "40307"
 chapter: 403
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "36 U.S.C. § 40307"
-generated_at: "2026-03-30T07:17:44.086Z"
+generated_at: "2026-03-30T07:19:55.677Z"
 status: "active"
 ---
 

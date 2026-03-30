@@ -3,9 +3,9 @@ title: "Section 15609 - Transferred"
 usc_title: 42
 usc_section: "15609"
 chapter: 147
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 15609"
-generated_at: "2026-03-30T07:18:03.914Z"
+generated_at: "2026-03-30T07:20:27.664Z"
 status: "transferred"
 ---
 

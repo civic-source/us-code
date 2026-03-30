@@ -3,9 +3,9 @@ title: "Section 6335 - Sale of seized property"
 usc_title: 26
 usc_section: "6335"
 chapter: 64
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 6335"
-generated_at: "2026-03-30T07:17:30.499Z"
+generated_at: "2026-03-30T07:19:27.792Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2324 - Allowable costs under defense contracts"
 usc_title: 10
 usc_section: "2324"
 chapter: 137
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 2324"
-generated_at: "2026-03-30T07:16:55.677Z"
+generated_at: "2026-03-30T07:18:47.430Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1647c - General exceptions"
 usc_title: 25
 usc_section: "1647c"
 chapter: 18
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "25 U.S.C. § 1647c"
-generated_at: "2026-03-30T07:17:17.118Z"
+generated_at: "2026-03-30T07:19:10.727Z"
 status: "active"
 ---
 

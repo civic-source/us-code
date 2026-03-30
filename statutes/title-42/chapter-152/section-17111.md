@@ -3,9 +3,9 @@ title: "Section 17111 - Energy-intensive industries program"
 usc_title: 42
 usc_section: "17111"
 chapter: 152
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "42 U.S.C. § 17111"
-generated_at: "2026-03-30T07:18:03.934Z"
+generated_at: "2026-03-30T07:20:27.685Z"
 status: "active"
 ---
 

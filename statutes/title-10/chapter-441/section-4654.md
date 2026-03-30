@@ -3,9 +3,9 @@ title: "Section 4654 - Quartermaster supplies: military instruction camps"
 usc_title: 10
 usc_section: "4654"
 chapter: 441
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "10 U.S.C. § 4654"
-generated_at: "2026-03-30T07:16:55.714Z"
+generated_at: "2026-03-30T07:18:47.466Z"
 status: "active"
 ---
 

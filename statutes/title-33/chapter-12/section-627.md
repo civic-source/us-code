@@ -3,9 +3,9 @@ title: "Section 627 - Application of appropriation when separate works are inclu
 usc_title: 33
 usc_section: "627"
 chapter: 12
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "33 U.S.C. § 627"
-generated_at: "2026-03-30T07:17:34.530Z"
+generated_at: "2026-03-30T07:19:32.388Z"
 status: "active"
 ---
 

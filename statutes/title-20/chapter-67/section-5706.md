@@ -1,15 +1,13 @@
 ---
-title: "Section 5706 - Audits"
+title: "Section 5706 - Repealed. Pub. L. 115–31, div. E, title VI , § 631(a), May 5, 2017 , 131 Stat. 376"
 usc_title: 20
 usc_section: "5706"
 chapter: 67
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "20 U.S.C. § 5706"
-generated_at: "2026-03-30T07:17:11.964Z"
-status: "active"
+generated_at: "2026-03-30T07:19:02.066Z"
+status: "repealed"
 ---
 
-# § 5706. Audits
-
-The activities of the Foundation under this chapter may be audited by the Comptroller General of the United States. The Comptroller General shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation, pertaining to such activities and necessary to facilitate the audit.
+# § 5706. Repealed. Pub. L. 115–31, div. E, title VI , § 631(a), May 5, 2017 , 131 Stat. 376
 

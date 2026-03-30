@@ -3,9 +3,9 @@ title: "Section 7481 - Date when Tax Court decision becomes final"
 usc_title: 26
 usc_section: "7481"
 chapter: 76
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "26 U.S.C. § 7481"
-generated_at: "2026-03-30T07:17:30.519Z"
+generated_at: "2026-03-30T07:19:27.810Z"
 status: "active"
 ---
 

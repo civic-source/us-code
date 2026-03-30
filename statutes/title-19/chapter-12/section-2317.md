@@ -3,9 +3,9 @@ title: "Section 2317 - Authorization of appropriations"
 usc_title: 19
 usc_section: "2317"
 chapter: 12
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "19 U.S.C. § 2317"
-generated_at: "2026-03-30T07:17:13.539Z"
+generated_at: "2026-03-30T07:18:59.715Z"
 status: "active"
 ---
 

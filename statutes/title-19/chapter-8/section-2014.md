@@ -3,9 +3,9 @@ title: "Section 2014 - Termination of proclamations"
 usc_title: 19
 usc_section: "2014"
 chapter: 8
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "19 U.S.C. § 2014"
-generated_at: "2026-03-30T07:17:13.531Z"
+generated_at: "2026-03-30T07:18:59.707Z"
 status: "active"
 ---
 

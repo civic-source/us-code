@@ -3,9 +3,9 @@ title: "Section 1747d - Excess earnings used for amortization of original invest
 usc_title: 12
 usc_section: "1747d"
 chapter: 13
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "12 U.S.C. § 1747d"
-generated_at: "2026-03-30T07:17:00.829Z"
+generated_at: "2026-03-30T07:18:52.875Z"
 status: "active"
 ---
 

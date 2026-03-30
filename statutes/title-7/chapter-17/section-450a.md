@@ -3,9 +3,9 @@ title: "Section 450a - Transferred"
 usc_title: 7
 usc_section: "450a"
 chapter: 17
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "7 U.S.C. § 450a"
-generated_at: "2026-03-30T07:16:49.613Z"
+generated_at: "2026-03-30T07:18:43.597Z"
 status: "transferred"
 ---
 

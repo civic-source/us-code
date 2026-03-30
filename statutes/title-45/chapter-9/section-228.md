@@ -3,9 +3,9 @@ title: "Section 228 - Omitted"
 usc_title: 45
 usc_section: "228"
 chapter: 9
-current_through: "PL 115-173"
+current_through: "PL 115-179"
 classification: "45 U.S.C. § 228"
-generated_at: "2026-03-30T07:17:47.847Z"
+generated_at: "2026-03-30T07:20:11.936Z"
 status: "omitted"
 ---
 
