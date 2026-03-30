@@ -3,9 +3,9 @@ title: "Section 9748 - Repealed. Pub. L. 87–651, title I, § 129(1) , Sept. 7,
 usc_title: 10
 usc_section: "9748"
 chapter: 947
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 9748"
-generated_at: "2026-03-30T04:02:49.773Z"
+generated_at: "2026-03-30T04:05:30.819Z"
 status: "repealed"
 ---
 

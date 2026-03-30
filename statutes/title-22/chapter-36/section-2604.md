@@ -3,9 +3,9 @@ title: "Section 2604 - Allocation, transfer and availability of funds; separate 
 usc_title: 22
 usc_section: "2604"
 chapter: 36
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 2604"
-generated_at: "2026-03-30T04:03:40.485Z"
+generated_at: "2026-03-30T04:06:13.689Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20208 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "20208"
 chapter: 202
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "36 U.S.C. § 20208"
-generated_at: "2026-03-30T04:04:04.852Z"
+generated_at: "2026-03-30T04:06:44.186Z"
 status: "active"
 ---
 

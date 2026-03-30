@@ -3,9 +3,9 @@ title: "Section 3904 - Expedited review of certain appeals"
 usc_title: 28
 usc_section: "3904"
 chapter: 179
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "28 U.S.C. § 3904"
-generated_at: "2026-03-30T04:03:44.943Z"
+generated_at: "2026-03-30T04:06:27.775Z"
 status: "active"
 ---
 

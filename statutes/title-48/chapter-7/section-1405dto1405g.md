@@ -3,9 +3,9 @@ title: "Section 1405dto1405g - Repealed. Pub. L. 97–357, title III, § 307 , O
 usc_title: 48
 usc_section: "1405dto1405g"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "48 U.S.C. § 1405dto1405g"
-generated_at: "2026-03-30T04:04:31.403Z"
+generated_at: "2026-03-30T04:07:20.193Z"
 status: "repealed"
 ---
 

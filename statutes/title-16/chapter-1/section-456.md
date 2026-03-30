@@ -3,9 +3,9 @@ title: "Section 456 - Expense of depositing money payable from appropriations"
 usc_title: 16
 usc_section: "456"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 456"
-generated_at: "2026-03-30T04:03:31.403Z"
+generated_at: "2026-03-30T04:05:55.339Z"
 status: "active"
 ---
 

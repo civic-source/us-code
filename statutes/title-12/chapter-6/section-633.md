@@ -3,9 +3,9 @@ title: "Section 633 - Potential liability on foreign accounts"
 usc_title: 12
 usc_section: "633"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 633"
-generated_at: "2026-03-30T04:03:08.962Z"
+generated_at: "2026-03-30T04:05:37.661Z"
 status: "active"
 ---
 

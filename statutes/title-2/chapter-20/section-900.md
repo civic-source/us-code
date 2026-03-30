@@ -3,9 +3,9 @@ title: "Section 900 - Statement of budget enforcement through sequestration; def
 usc_title: 2
 usc_section: "900"
 chapter: 20
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 900"
-generated_at: "2026-03-30T04:02:32.883Z"
+generated_at: "2026-03-30T04:05:02.327Z"
 status: "active"
 ---
 

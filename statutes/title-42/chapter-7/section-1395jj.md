@@ -3,9 +3,9 @@ title: "Section 1395jj - Designation of organization or publication by name"
 usc_title: 42
 usc_section: "1395jj"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 1395jj"
-generated_at: "2026-03-30T04:04:27.468Z"
+generated_at: "2026-03-30T04:07:16.567Z"
 status: "active"
 ---
 

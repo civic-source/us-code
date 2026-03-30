@@ -3,9 +3,9 @@ title: "Section 1437c - Contributions for low-income housing projects"
 usc_title: 42
 usc_section: "1437c"
 chapter: 8
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 1437c"
-generated_at: "2026-03-30T04:04:27.553Z"
+generated_at: "2026-03-30T04:07:16.644Z"
 status: "active"
 ---
 

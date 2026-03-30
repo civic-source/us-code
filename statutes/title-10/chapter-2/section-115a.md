@@ -3,9 +3,9 @@ title: "Section 115a - Annual defense manpower requirements report"
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-30T04:02:49.571Z"
+generated_at: "2026-03-30T04:05:30.645Z"
 status: "active"
 ---
 

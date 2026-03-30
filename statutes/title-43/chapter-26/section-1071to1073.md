@@ -3,9 +3,9 @@ title: "Section 1071to1073 - Repealed. Oct. 31, 1951, ch. 654, § 1(114) , 65 St
 usc_title: 43
 usc_section: "1071to1073"
 chapter: 26
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "43 U.S.C. § 1071to1073"
-generated_at: "2026-03-30T04:04:10.818Z"
+generated_at: "2026-03-30T04:06:51.035Z"
 status: "repealed"
 ---
 

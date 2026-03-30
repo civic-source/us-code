@@ -3,9 +3,9 @@ title: "Section 60305 - Vessels in distress"
 usc_title: 46
 usc_section: "60305"
 chapter: 603
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "46 U.S.C. § 60305"
-generated_at: "2026-03-30T04:04:32.441Z"
+generated_at: "2026-03-30T04:07:23.520Z"
 status: "active"
 ---
 

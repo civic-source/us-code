@@ -3,9 +3,9 @@ title: "Section 458 - Travel expenses incident to study of battlefields; payment
 usc_title: 16
 usc_section: "458"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 458"
-generated_at: "2026-03-30T04:03:31.403Z"
+generated_at: "2026-03-30T04:05:55.340Z"
 status: "active"
 ---
 

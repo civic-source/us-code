@@ -3,9 +3,9 @@ title: "Section 3544 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3544"
 chapter: 35
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "44 U.S.C. § 3544"
-generated_at: "2026-03-30T04:04:09.565Z"
+generated_at: "2026-03-30T04:07:00.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5081to5087 - Repealed. Pub. L. 99–433, title V, § 512(a) , Oc
 usc_title: 10
 usc_section: "5081to5087"
 chapter: 509
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 5081to5087"
-generated_at: "2026-03-30T04:02:49.744Z"
+generated_at: "2026-03-30T04:05:30.794Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16943 - Federal assistance in identification and location of sex
 usc_title: 42
 usc_section: "16943"
 chapter: 151
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 16943"
-generated_at: "2026-03-30T04:04:28.121Z"
+generated_at: "2026-03-30T04:07:17.165Z"
 status: "active"
 ---
 

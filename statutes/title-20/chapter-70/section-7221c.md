@@ -3,9 +3,9 @@ title: "Section 7221c - Administration"
 usc_title: 20
 usc_section: "7221c"
 chapter: 70
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 7221c"
-generated_at: "2026-03-30T04:03:21.824Z"
+generated_at: "2026-03-30T04:06:05.388Z"
 status: "active"
 ---
 

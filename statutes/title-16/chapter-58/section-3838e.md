@@ -3,9 +3,9 @@ title: "Section 3838e - Conservation stewardship program"
 usc_title: 16
 usc_section: "3838e"
 chapter: 58
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 3838e"
-generated_at: "2026-03-30T04:03:31.639Z"
+generated_at: "2026-03-30T04:05:55.546Z"
 status: "active"
 ---
 

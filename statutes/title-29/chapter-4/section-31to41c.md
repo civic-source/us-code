@@ -3,9 +3,9 @@ title: "Section 31to41c - Repealed. Pub. L. 93–112, title V, § 500(a) , Sept.
 usc_title: 29
 usc_section: "31to41c"
 chapter: 4
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 31to41c"
-generated_at: "2026-03-30T04:03:46.353Z"
+generated_at: "2026-03-30T04:06:19.349Z"
 status: "repealed"
 ---
 

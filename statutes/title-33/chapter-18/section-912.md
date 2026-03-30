@@ -3,9 +3,9 @@ title: "Section 912 - Notice of injury or death"
 usc_title: 33
 usc_section: "912"
 chapter: 18
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "33 U.S.C. § 912"
-generated_at: "2026-03-30T04:03:57.484Z"
+generated_at: "2026-03-30T04:06:40.474Z"
 status: "active"
 ---
 

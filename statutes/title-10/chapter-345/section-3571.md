@@ -3,9 +3,9 @@ title: "Section 3571 - Repealed. Pub. L. 96–513, title II, § 211 , Dec. 12, 1
 usc_title: 10
 usc_section: "3571"
 chapter: 345
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 3571"
-generated_at: "2026-03-30T04:02:49.733Z"
+generated_at: "2026-03-30T04:05:30.784Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1483 - Restrictions on loss of nationality"
 usc_title: 8
 usc_section: "1483"
 chapter: 12
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "8 U.S.C. § 1483"
-generated_at: "2026-03-30T04:02:36.439Z"
+generated_at: "2026-03-30T04:05:09.094Z"
 status: "active"
 ---
 

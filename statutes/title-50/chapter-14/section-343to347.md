@@ -3,9 +3,9 @@ title: "Section 343to347 - Repealed. Apr. 19, 1946, ch. 142 , 60 Stat. 96"
 usc_title: 50
 usc_section: "343to347"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 343to347"
-generated_at: "2026-03-30T04:04:33.848Z"
+generated_at: "2026-03-30T04:07:21.360Z"
 status: "repealed"
 ---
 

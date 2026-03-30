@@ -3,9 +3,9 @@ title: "Section 521 - Military and naval assistance to governments of American R
 usc_title: 22
 usc_section: "521"
 chapter: 10
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 521"
-generated_at: "2026-03-30T04:03:40.425Z"
+generated_at: "2026-03-30T04:06:13.635Z"
 status: "active"
 ---
 

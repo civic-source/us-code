@@ -3,9 +3,9 @@ title: "Section 3435 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 25
 usc_section: "3435"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 3435"
-generated_at: "2026-03-30T04:03:36.485Z"
+generated_at: "2026-03-30T04:06:11.346Z"
 status: "repealed"
 ---
 

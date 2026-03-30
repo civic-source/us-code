@@ -3,9 +3,9 @@ title: "Section 485 - Information sharing"
 usc_title: 6
 usc_section: "485"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "6 U.S.C. § 485"
-generated_at: "2026-03-30T04:02:35.568Z"
+generated_at: "2026-03-30T04:05:04.854Z"
 status: "active"
 ---
 

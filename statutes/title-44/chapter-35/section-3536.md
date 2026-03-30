@@ -3,9 +3,9 @@ title: "Section 3536 - National security systems"
 usc_title: 44
 usc_section: "3536"
 chapter: 35
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "44 U.S.C. § 3536"
-generated_at: "2026-03-30T04:04:09.564Z"
+generated_at: "2026-03-30T04:07:00.727Z"
 status: "active"
 ---
 

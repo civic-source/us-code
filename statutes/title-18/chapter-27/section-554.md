@@ -3,9 +3,9 @@ title: "Section 554 - Smuggling goods from the United States"
 usc_title: 18
 usc_section: "554"
 chapter: 27
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "18 U.S.C. § 554"
-generated_at: "2026-03-30T04:03:17.132Z"
+generated_at: "2026-03-30T04:05:49.538Z"
 status: "active"
 ---
 

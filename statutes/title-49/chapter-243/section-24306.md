@@ -3,9 +3,9 @@ title: "Section 24306 - Mail, express, and auto-ferry transportation"
 usc_title: 49
 usc_section: "24306"
 chapter: 243
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "49 U.S.C. § 24306"
-generated_at: "2026-03-30T04:04:36.320Z"
+generated_at: "2026-03-30T04:07:28.896Z"
 status: "active"
 ---
 

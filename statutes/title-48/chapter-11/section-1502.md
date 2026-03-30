@@ -3,9 +3,9 @@ title: "Section 1502 - Previously acquired lands; bona fide resident aliens; min
 usc_title: 48
 usc_section: "1502"
 chapter: 11
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "48 U.S.C. § 1502"
-generated_at: "2026-03-30T04:04:31.408Z"
+generated_at: "2026-03-30T04:07:20.199Z"
 status: "active"
 ---
 

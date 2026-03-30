@@ -3,9 +3,9 @@ title: "Section 1803 - Applicability of chapter"
 usc_title: 29
 usc_section: "1803"
 chapter: 20
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 1803"
-generated_at: "2026-03-30T04:03:46.439Z"
+generated_at: "2026-03-30T04:06:19.422Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7456 - Improvement of educational opportunities for adult Indian
 usc_title: 20
 usc_section: "7456"
 chapter: 70
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 7456"
-generated_at: "2026-03-30T04:03:21.839Z"
+generated_at: "2026-03-30T04:06:05.401Z"
 status: "active"
 ---
 

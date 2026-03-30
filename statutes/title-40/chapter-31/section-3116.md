@@ -3,9 +3,9 @@ title: "Section 3116 - Interest as part of just compensation"
 usc_title: 40
 usc_section: "3116"
 chapter: 31
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "40 U.S.C. § 3116"
-generated_at: "2026-03-30T04:04:05.405Z"
+generated_at: "2026-03-30T04:06:43.369Z"
 status: "active"
 ---
 

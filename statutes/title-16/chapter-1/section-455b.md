@@ -3,9 +3,9 @@ title: "Section 455b - Inclusion of estimate of cost of projected surveys in app
 usc_title: 16
 usc_section: "455b"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 455b"
-generated_at: "2026-03-30T04:03:31.403Z"
+generated_at: "2026-03-30T04:05:55.339Z"
 status: "active"
 ---
 

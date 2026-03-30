@@ -3,9 +3,9 @@ title: "Section 2680 - Exceptions"
 usc_title: 28
 usc_section: "2680"
 chapter: 171
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "28 U.S.C. § 2680"
-generated_at: "2026-03-30T04:03:44.939Z"
+generated_at: "2026-03-30T04:06:27.772Z"
 status: "active"
 ---
 

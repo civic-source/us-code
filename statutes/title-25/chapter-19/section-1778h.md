@@ -3,9 +3,9 @@ title: "Section 1778h - Authorization of appropriations"
 usc_title: 25
 usc_section: "1778h"
 chapter: 19
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 1778h"
-generated_at: "2026-03-30T04:03:36.581Z"
+generated_at: "2026-03-30T04:06:11.432Z"
 status: "active"
 ---
 

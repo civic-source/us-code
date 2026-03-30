@@ -3,9 +3,9 @@ title: "Section 1870 - General authority of Foundation"
 usc_title: 42
 usc_section: "1870"
 chapter: 16
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 1870"
-generated_at: "2026-03-30T04:04:27.615Z"
+generated_at: "2026-03-30T04:07:16.701Z"
 status: "active"
 ---
 

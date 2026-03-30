@@ -3,9 +3,9 @@ title: "Section 512 - Approval of paper contracts; time for performance; bonds"
 usc_title: 44
 usc_section: "512"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "44 U.S.C. § 512"
-generated_at: "2026-03-30T04:04:09.551Z"
+generated_at: "2026-03-30T04:07:00.712Z"
 status: "active"
 ---
 

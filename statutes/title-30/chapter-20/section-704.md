@@ -3,9 +3,9 @@ title: "Section 704 - Purchase of substitute lands; limitations; conditions; pay
 usc_title: 30
 usc_section: "704"
 chapter: 20
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "30 U.S.C. § 704"
-generated_at: "2026-03-30T04:03:43.450Z"
+generated_at: "2026-03-30T04:06:17.636Z"
 status: "active"
 ---
 

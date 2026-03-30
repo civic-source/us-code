@@ -3,9 +3,9 @@ title: "Section 842 - Foreign companies carrying on insurance business"
 usc_title: 26
 usc_section: "842"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 842"
-generated_at: "2026-03-30T04:03:53.237Z"
+generated_at: "2026-03-30T04:06:33.382Z"
 status: "active"
 ---
 

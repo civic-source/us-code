@@ -3,9 +3,9 @@ title: "Section 17708 - Nonapplication"
 usc_title: 40
 usc_section: "17708"
 chapter: 177
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "40 U.S.C. § 17708"
-generated_at: "2026-03-30T04:04:05.422Z"
+generated_at: "2026-03-30T04:06:43.383Z"
 status: "active"
 ---
 

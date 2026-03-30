@@ -3,9 +3,9 @@ title: "Section 823c - Alaska State jurisdiction over small hydroelectric projec
 usc_title: 16
 usc_section: "823c"
 chapter: 12
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 823c"
-generated_at: "2026-03-30T04:03:31.523Z"
+generated_at: "2026-03-30T04:05:55.444Z"
 status: "active"
 ---
 

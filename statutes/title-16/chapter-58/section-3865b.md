@@ -3,9 +3,9 @@ title: "Section 3865b - Agricultural land easements"
 usc_title: 16
 usc_section: "3865b"
 chapter: 58
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 3865b"
-generated_at: "2026-03-30T04:03:31.643Z"
+generated_at: "2026-03-30T04:05:55.550Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11112 - Master’s lien for wages"
 usc_title: 46
 usc_section: "11112"
 chapter: 111
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "46 U.S.C. § 11112"
-generated_at: "2026-03-30T04:04:32.415Z"
+generated_at: "2026-03-30T04:07:23.497Z"
 status: "active"
 ---
 

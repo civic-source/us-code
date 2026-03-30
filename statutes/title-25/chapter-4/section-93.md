@@ -3,9 +3,9 @@ title: "Section 93 - Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1112"
 usc_title: 25
 usc_section: "93"
 chapter: 4
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 93"
-generated_at: "2026-03-30T04:03:36.486Z"
+generated_at: "2026-03-30T04:06:11.347Z"
 status: "repealed"
 ---
 

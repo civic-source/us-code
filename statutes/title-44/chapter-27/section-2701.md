@@ -3,9 +3,9 @@ title: "Section 2701 - Advisory Committee on the Records of Congress"
 usc_title: 44
 usc_section: "2701"
 chapter: 27
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "44 U.S.C. § 2701"
-generated_at: "2026-03-30T04:04:09.560Z"
+generated_at: "2026-03-30T04:07:00.721Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2242 - Identification of countries that deny adequate protection
 usc_title: 19
 usc_section: "2242"
 chapter: 12
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "19 U.S.C. § 2242"
-generated_at: "2026-03-30T04:03:18.747Z"
+generated_at: "2026-03-30T04:05:57.161Z"
 status: "active"
 ---
 

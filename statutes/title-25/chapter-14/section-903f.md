@@ -3,9 +3,9 @@ title: "Section 903f - Authorization of appropriations"
 usc_title: 25
 usc_section: "903f"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 903f"
-generated_at: "2026-03-30T04:03:36.536Z"
+generated_at: "2026-03-30T04:06:11.392Z"
 status: "active"
 ---
 

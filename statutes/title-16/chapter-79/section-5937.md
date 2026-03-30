@@ -3,9 +3,9 @@ title: "Section 5937 - Confidentiality of information"
 usc_title: 16
 usc_section: "5937"
 chapter: 79
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 5937"
-generated_at: "2026-03-30T04:03:31.665Z"
+generated_at: "2026-03-30T04:05:55.569Z"
 status: "active"
 ---
 

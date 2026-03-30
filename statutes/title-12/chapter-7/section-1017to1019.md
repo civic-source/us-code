@@ -3,9 +3,9 @@ title: "Section 1017to1019 - Repealed. Pub. L. 87–353, § 3(b) , Oct. 4, 1961 
 usc_title: 12
 usc_section: "1017to1019"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 1017to1019"
-generated_at: "2026-03-30T04:03:08.968Z"
+generated_at: "2026-03-30T04:05:37.666Z"
 status: "repealed"
 ---
 

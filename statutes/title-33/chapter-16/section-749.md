@@ -3,9 +3,9 @@ title: "Section 749 - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "749"
 chapter: 16
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "33 U.S.C. § 749"
-generated_at: "2026-03-30T04:03:57.478Z"
+generated_at: "2026-03-30T04:06:40.468Z"
 status: "repealed"
 ---
 

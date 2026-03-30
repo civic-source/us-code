@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: architecture, accountability, a
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T04:02:49.675Z"
+generated_at: "2026-03-30T04:05:30.733Z"
 status: "active"
 ---
 

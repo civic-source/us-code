@@ -3,9 +3,9 @@ title: "Section 611a - Permits to cut and remove timber; citizens of Bear Lake C
 usc_title: 16
 usc_section: "611a"
 chapter: 4
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 611a"
-generated_at: "2026-03-30T04:03:31.491Z"
+generated_at: "2026-03-30T04:05:55.417Z"
 status: "active"
 ---
 

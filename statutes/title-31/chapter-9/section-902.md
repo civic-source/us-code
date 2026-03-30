@@ -3,9 +3,9 @@ title: "Section 902 - Authority and functions of agency Chief Financial Officers
 usc_title: 31
 usc_section: "902"
 chapter: 9
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "31 U.S.C. § 902"
-generated_at: "2026-03-30T04:04:01.796Z"
+generated_at: "2026-03-30T04:06:36.658Z"
 status: "active"
 ---
 

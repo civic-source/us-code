@@ -3,9 +3,9 @@ title: "Section 34 - Omitted"
 usc_title: 2
 usc_section: "34"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 34"
-generated_at: "2026-03-30T04:02:32.858Z"
+generated_at: "2026-03-30T04:05:02.304Z"
 status: "omitted"
 ---
 

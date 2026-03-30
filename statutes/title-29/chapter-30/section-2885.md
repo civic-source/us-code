@@ -3,9 +3,9 @@ title: "Section 2885 - Recruitment, screening, selection, and assignment of enro
 usc_title: 29
 usc_section: "2885"
 chapter: 30
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 2885"
-generated_at: "2026-03-30T04:03:46.454Z"
+generated_at: "2026-03-30T04:06:19.436Z"
 status: "active"
 ---
 

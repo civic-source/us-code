@@ -3,9 +3,9 @@ title: "Section 7001to7011 - Repealed. Pub. L. 102–486, title I, § 143(a) , O
 usc_title: 42
 usc_section: "7001to7011"
 chapter: 83
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 7001to7011"
-generated_at: "2026-03-30T04:04:27.832Z"
+generated_at: "2026-03-30T04:07:16.898Z"
 status: "repealed"
 ---
 

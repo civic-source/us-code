@@ -3,9 +3,9 @@ title: "Section 3797aa - Adult and juvenile collaboration programs"
 usc_title: 42
 usc_section: "3797aa"
 chapter: 46
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 3797aa"
-generated_at: "2026-03-30T04:04:27.715Z"
+generated_at: "2026-03-30T04:07:16.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3039 - Deputy and assistant chiefs of branches"
 usc_title: 10
 usc_section: "3039"
 chapter: 305
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 3039"
-generated_at: "2026-03-30T04:02:49.730Z"
+generated_at: "2026-03-30T04:05:30.783Z"
 status: "active"
 ---
 

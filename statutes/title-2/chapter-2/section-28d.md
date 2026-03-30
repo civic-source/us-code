@@ -3,9 +3,9 @@ title: "Section 28d - Distribution of Precedents by Public Printer for official 
 usc_title: 2
 usc_section: "28d"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 28d"
-generated_at: "2026-03-30T04:02:32.859Z"
+generated_at: "2026-03-30T04:05:02.305Z"
 status: "active"
 ---
 

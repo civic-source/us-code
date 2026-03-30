@@ -3,9 +3,9 @@ title: "Section 2374 - Consortium applications"
 usc_title: 20
 usc_section: "2374"
 chapter: 44
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 2374"
-generated_at: "2026-03-30T04:03:21.760Z"
+generated_at: "2026-03-30T04:06:05.331Z"
 status: "active"
 ---
 

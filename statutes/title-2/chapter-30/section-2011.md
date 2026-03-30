@@ -3,9 +3,9 @@ title: "Section 2011 - Assignment of unoccupied space"
 usc_title: 2
 usc_section: "2011"
 chapter: 30
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 2011"
-generated_at: "2026-03-30T04:02:32.905Z"
+generated_at: "2026-03-30T04:05:02.347Z"
 status: "active"
 ---
 

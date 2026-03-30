@@ -3,9 +3,9 @@ title: "Section 6909 - Repealed. Pub. L. 96–513, title III, § 329 , Dec. 12, 
 usc_title: 10
 usc_section: "6909"
 chapter: 601
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 6909"
-generated_at: "2026-03-30T04:02:49.751Z"
+generated_at: "2026-03-30T04:05:30.800Z"
 status: "repealed"
 ---
 

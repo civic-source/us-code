@@ -3,9 +3,9 @@ title: "Section 6230 - Additional administrative provisions"
 usc_title: 26
 usc_section: "6230"
 chapter: 63
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 6230"
-generated_at: "2026-03-30T04:03:53.392Z"
+generated_at: "2026-03-30T04:06:33.525Z"
 status: "active"
 ---
 

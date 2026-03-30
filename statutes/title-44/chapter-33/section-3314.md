@@ -3,9 +3,9 @@ title: "Section 3314 - Procedures for disposal of records exclusive"
 usc_title: 44
 usc_section: "3314"
 chapter: 33
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "44 U.S.C. § 3314"
-generated_at: "2026-03-30T04:04:09.561Z"
+generated_at: "2026-03-30T04:07:00.723Z"
 status: "active"
 ---
 

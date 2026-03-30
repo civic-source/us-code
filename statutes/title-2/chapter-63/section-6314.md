@@ -3,9 +3,9 @@ title: "Section 6314 - Mail, telegraph, telephone, stationery, office supplies, 
 usc_title: 2
 usc_section: "6314"
 chapter: 63
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 6314"
-generated_at: "2026-03-30T04:02:32.923Z"
+generated_at: "2026-03-30T04:05:02.365Z"
 status: "active"
 ---
 

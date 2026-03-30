@@ -3,9 +3,9 @@ title: "Section 12 - Purpose and objectives of Cooperative Management and Protec
 usc_title: 16
 usc_section: "12"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-03-30T04:03:31.447Z"
+generated_at: "2026-03-30T04:05:55.378Z"
 status: "active"
 ---
 

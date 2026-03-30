@@ -3,9 +3,9 @@ title: "Section 6d - Dealing by unregistered futures commission merchants or int
 usc_title: 7
 usc_section: "6d"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "7 U.S.C. § 6d"
-generated_at: "2026-03-30T04:02:40.197Z"
+generated_at: "2026-03-30T04:05:20.951Z"
 status: "active"
 ---
 

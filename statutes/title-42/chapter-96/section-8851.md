@@ -3,9 +3,9 @@ title: "Section 8851 - Model demonstration biomass energy facilities; establishm
 usc_title: 42
 usc_section: "8851"
 chapter: 96
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 8851"
-generated_at: "2026-03-30T04:04:27.916Z"
+generated_at: "2026-03-30T04:07:16.976Z"
 status: "active"
 ---
 

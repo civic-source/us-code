@@ -3,9 +3,9 @@ title: "Section 1654 - Persons excluded from benefits"
 usc_title: 42
 usc_section: "1654"
 chapter: 11
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 1654"
-generated_at: "2026-03-30T04:04:27.587Z"
+generated_at: "2026-03-30T04:07:16.674Z"
 status: "active"
 ---
 

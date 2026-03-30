@@ -3,9 +3,9 @@ title: "Section 60311 - Hospital vessels in time of war"
 usc_title: 46
 usc_section: "60311"
 chapter: 603
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "46 U.S.C. § 60311"
-generated_at: "2026-03-30T04:04:32.441Z"
+generated_at: "2026-03-30T04:07:23.520Z"
 status: "active"
 ---
 

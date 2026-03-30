@@ -3,9 +3,9 @@ title: "Section 2408 - Repealed. Pub. L. 95–424, title VI, § 604 , Oct. 6, 19
 usc_title: 22
 usc_section: "2408"
 chapter: 32
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 2408"
-generated_at: "2026-03-30T04:03:40.475Z"
+generated_at: "2026-03-30T04:06:13.680Z"
 status: "repealed"
 ---
 

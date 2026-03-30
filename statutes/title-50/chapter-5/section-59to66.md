@@ -3,9 +3,9 @@ title: "Section 59to66 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 64
 usc_title: 50
 usc_section: "59to66"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 59to66"
-generated_at: "2026-03-30T04:04:33.843Z"
+generated_at: "2026-03-30T04:07:21.356Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5959 - Reports on activities and assistance under cooperative th
 usc_title: 22
 usc_section: "5959"
 chapter: 68
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 5959"
-generated_at: "2026-03-30T04:03:40.547Z"
+generated_at: "2026-03-30T04:06:13.745Z"
 status: "active"
 ---
 

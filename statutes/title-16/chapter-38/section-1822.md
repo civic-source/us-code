@@ -3,9 +3,9 @@ title: "Section 1822 - International fishery agreements"
 usc_title: 16
 usc_section: "1822"
 chapter: 38
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 1822"
-generated_at: "2026-03-30T04:03:31.595Z"
+generated_at: "2026-03-30T04:05:55.507Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-30T04:04:27.441Z"
+generated_at: "2026-03-30T04:07:16.543Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 757c - Approval for activities on land administered by other Fed
 usc_title: 16
 usc_section: "757c"
 chapter: 9
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 757c"
-generated_at: "2026-03-30T04:03:31.515Z"
+generated_at: "2026-03-30T04:05:55.436Z"
 status: "active"
 ---
 

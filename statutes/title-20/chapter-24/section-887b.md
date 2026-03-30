@@ -3,9 +3,9 @@ title: "Section 887b - Repealed. Pub. L. 93–380, title IV, § 402(c)(3) , Aug.
 usc_title: 20
 usc_section: "887b"
 chapter: 24
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 887b"
-generated_at: "2026-03-30T04:03:21.626Z"
+generated_at: "2026-03-30T04:06:05.222Z"
 status: "repealed"
 ---
 

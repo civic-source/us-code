@@ -3,9 +3,9 @@ title: "Section 1322 - Injunctions"
 usc_title: 17
 usc_section: "1322"
 chapter: 13
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "17 U.S.C. § 1322"
-generated_at: "2026-03-30T04:03:15.014Z"
+generated_at: "2026-03-30T04:05:50.984Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 673b - Adoption incentive payments"
 usc_title: 42
 usc_section: "673b"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 673b"
-generated_at: "2026-03-30T04:04:27.350Z"
+generated_at: "2026-03-30T04:07:16.460Z"
 status: "active"
 ---
 

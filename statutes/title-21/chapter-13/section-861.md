@@ -3,9 +3,9 @@ title: "Section 861 - Employment or use of persons under 18 years of age in drug
 usc_title: 21
 usc_section: "861"
 chapter: 13
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "21 U.S.C. § 861"
-generated_at: "2026-03-30T04:03:37.732Z"
+generated_at: "2026-03-30T04:06:10.311Z"
 status: "active"
 ---
 

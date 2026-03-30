@@ -3,9 +3,9 @@ title: "Section 3201 - Program on advancement of foreign languages critical to t
 usc_title: 50
 usc_section: "3201"
 chapter: 44
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 3201"
-generated_at: "2026-03-30T04:04:33.902Z"
+generated_at: "2026-03-30T04:07:21.410Z"
 status: "active"
 ---
 

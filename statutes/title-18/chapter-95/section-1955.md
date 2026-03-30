@@ -3,9 +3,9 @@ title: "Section 1955 - Prohibition of illegal gambling businesses"
 usc_title: 18
 usc_section: "1955"
 chapter: 95
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "18 U.S.C. § 1955"
-generated_at: "2026-03-30T04:03:17.172Z"
+generated_at: "2026-03-30T04:05:49.567Z"
 status: "active"
 ---
 

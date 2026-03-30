@@ -3,9 +3,9 @@ title: "Section 118 - Interference with certain protective functions"
 usc_title: 18
 usc_section: "118"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "18 U.S.C. § 118"
-generated_at: "2026-03-30T04:03:17.123Z"
+generated_at: "2026-03-30T04:05:49.528Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80103 - Negotiable and nonnegotiable bills"
 usc_title: 49
 usc_section: "80103"
 chapter: 801
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "49 U.S.C. § 80103"
-generated_at: "2026-03-30T04:04:36.387Z"
+generated_at: "2026-03-30T04:07:28.965Z"
 status: "active"
 ---
 

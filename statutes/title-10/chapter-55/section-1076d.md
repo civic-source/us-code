@@ -3,9 +3,9 @@ title: "Section 1076d - TRICARE program: TRICARE Standard coverage for members o
 usc_title: 10
 usc_section: "1076d"
 chapter: 55
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 1076d"
-generated_at: "2026-03-30T04:02:49.626Z"
+generated_at: "2026-03-30T04:05:30.692Z"
 status: "active"
 ---
 

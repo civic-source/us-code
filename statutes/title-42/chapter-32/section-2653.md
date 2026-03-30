@@ -3,9 +3,9 @@ title: "Section 2653 - Limitation or repeal of other provisions for recovery of 
 usc_title: 42
 usc_section: "2653"
 chapter: 32
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 2653"
-generated_at: "2026-03-30T04:04:27.661Z"
+generated_at: "2026-03-30T04:07:16.742Z"
 status: "active"
 ---
 

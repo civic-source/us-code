@@ -3,9 +3,9 @@ title: "Section 20211 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "20211"
 chapter: 202
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "36 U.S.C. § 20211"
-generated_at: "2026-03-30T04:04:04.853Z"
+generated_at: "2026-03-30T04:06:44.187Z"
 status: "active"
 ---
 

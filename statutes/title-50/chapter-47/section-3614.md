@@ -3,9 +3,9 @@ title: "Section 3614 - Louis Stokes Educational Scholarship Program"
 usc_title: 50
 usc_section: "3614"
 chapter: 47
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 3614"
-generated_at: "2026-03-30T04:04:33.911Z"
+generated_at: "2026-03-30T04:07:21.417Z"
 status: "active"
 ---
 

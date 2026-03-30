@@ -3,9 +3,9 @@ title: "Section 283a - Annual reporting to increase interagency collaboration an
 usc_title: 42
 usc_section: "283a"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 283a"
-generated_at: "2026-03-30T04:04:27.177Z"
+generated_at: "2026-03-30T04:07:16.301Z"
 status: "active"
 ---
 

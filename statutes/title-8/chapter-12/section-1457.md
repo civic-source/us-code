@@ -3,9 +3,9 @@ title: "Section 1457 - Publication and distribution of citizenship textbooks; us
 usc_title: 8
 usc_section: "1457"
 chapter: 12
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "8 U.S.C. § 1457"
-generated_at: "2026-03-30T04:02:36.439Z"
+generated_at: "2026-03-30T04:05:09.093Z"
 status: "active"
 ---
 

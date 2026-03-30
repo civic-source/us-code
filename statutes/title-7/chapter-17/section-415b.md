@@ -3,9 +3,9 @@ title: "Section 415b - Wool standards; appropriation of certain funds"
 usc_title: 7
 usc_section: "415b"
 chapter: 17
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "7 U.S.C. § 415b"
-generated_at: "2026-03-30T04:02:40.245Z"
+generated_at: "2026-03-30T04:05:20.994Z"
 status: "active"
 ---
 

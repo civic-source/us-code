@@ -3,9 +3,9 @@ title: "Section 1700 - Desertion of mails"
 usc_title: 18
 usc_section: "1700"
 chapter: 83
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "18 U.S.C. § 1700"
-generated_at: "2026-03-30T04:03:17.168Z"
+generated_at: "2026-03-30T04:05:49.563Z"
 status: "active"
 ---
 

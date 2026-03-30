@@ -3,9 +3,9 @@ title: "Section 567 - Repealed. Pub. L. 95–313, § 16(a)(1) , formerly § 13(a
 usc_title: 16
 usc_section: "567"
 chapter: 3
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 567"
-generated_at: "2026-03-30T04:03:31.483Z"
+generated_at: "2026-03-30T04:05:55.410Z"
 status: "repealed"
 ---
 

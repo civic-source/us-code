@@ -3,9 +3,9 @@ title: "Section 3606 - Violations and penalties"
 usc_title: 16
 usc_section: "3606"
 chapter: 56
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 3606"
-generated_at: "2026-03-30T04:03:31.631Z"
+generated_at: "2026-03-30T04:05:55.539Z"
 status: "active"
 ---
 

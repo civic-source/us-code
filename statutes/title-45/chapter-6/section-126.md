@@ -3,9 +3,9 @@ title: "Section 126 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "126"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "45 U.S.C. § 126"
-generated_at: "2026-03-30T04:04:09.958Z"
+generated_at: "2026-03-30T04:06:51.394Z"
 status: "repealed"
 ---
 

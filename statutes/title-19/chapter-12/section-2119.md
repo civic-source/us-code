@@ -3,9 +3,9 @@ title: "Section 2119 - Staging requirements and rounding authority"
 usc_title: 19
 usc_section: "2119"
 chapter: 12
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "19 U.S.C. § 2119"
-generated_at: "2026-03-30T04:03:18.744Z"
+generated_at: "2026-03-30T04:05:57.157Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1661to1661f - Repealed. Pub. L. 105–220, title I, § 199(b)(2)
 usc_title: 29
 usc_section: "1661to1661f"
 chapter: 19
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 1661to1661f"
-generated_at: "2026-03-30T04:03:46.439Z"
+generated_at: "2026-03-30T04:06:19.422Z"
 status: "repealed"
 ---
 

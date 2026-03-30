@@ -3,9 +3,9 @@ title: "Section 175 - Additional duties of Bureau"
 usc_title: 15
 usc_section: "175"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 175"
-generated_at: "2026-03-30T04:03:12.498Z"
+generated_at: "2026-03-30T04:05:42.832Z"
 status: "active"
 ---
 

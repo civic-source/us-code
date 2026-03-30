@@ -3,9 +3,9 @@ title: "Section 2643 - Gathering information on costs of service"
 usc_title: 16
 usc_section: "2643"
 chapter: 46
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 2643"
-generated_at: "2026-03-30T04:03:31.618Z"
+generated_at: "2026-03-30T04:05:55.527Z"
 status: "active"
 ---
 

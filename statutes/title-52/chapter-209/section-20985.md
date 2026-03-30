@@ -3,9 +3,9 @@ title: "Section 20985 - Study and report on electronic voting and the electoral 
 usc_title: 52
 usc_section: "20985"
 chapter: 209
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "52 U.S.C. § 20985"
-generated_at: "2026-03-30T04:04:43.379Z"
+generated_at: "2026-03-30T04:07:31.917Z"
 status: "active"
 ---
 

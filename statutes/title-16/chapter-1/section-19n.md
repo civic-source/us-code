@@ -3,9 +3,9 @@ title: "Section 19n - Omitted"
 usc_title: 16
 usc_section: "19n"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 19n"
-generated_at: "2026-03-30T04:03:31.326Z"
+generated_at: "2026-03-30T04:05:55.272Z"
 status: "omitted"
 ---
 

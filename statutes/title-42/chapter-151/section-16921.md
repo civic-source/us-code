@@ -3,9 +3,9 @@ title: "Section 16921 - Megan Nicole Kanka and Alexandra Nicole Zapp Community N
 usc_title: 42
 usc_section: "16921"
 chapter: 151
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 16921"
-generated_at: "2026-03-30T04:04:28.120Z"
+generated_at: "2026-03-30T04:07:17.165Z"
 status: "active"
 ---
 

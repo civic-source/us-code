@@ -3,9 +3,9 @@ title: "Section 56 - Establishment of cotton standards; furnishing copies of est
 usc_title: 7
 usc_section: "56"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "7 U.S.C. § 56"
-generated_at: "2026-03-30T04:02:40.210Z"
+generated_at: "2026-03-30T04:05:20.964Z"
 status: "active"
 ---
 

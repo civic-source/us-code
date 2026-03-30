@@ -3,9 +3,9 @@ title: "Section 983e - Membership roll"
 usc_title: 25
 usc_section: "983e"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 983e"
-generated_at: "2026-03-30T04:03:36.540Z"
+generated_at: "2026-03-30T04:06:11.396Z"
 status: "active"
 ---
 

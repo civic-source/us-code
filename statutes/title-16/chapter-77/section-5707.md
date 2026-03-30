@@ -3,9 +3,9 @@ title: "Section 5707 - Continuation of Agreement"
 usc_title: 16
 usc_section: "5707"
 chapter: 77
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 5707"
-generated_at: "2026-03-30T04:03:31.663Z"
+generated_at: "2026-03-30T04:05:55.567Z"
 status: "active"
 ---
 

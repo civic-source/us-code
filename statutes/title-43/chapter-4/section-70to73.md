@@ -3,9 +3,9 @@ title: "Section 70to73 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 8
 usc_title: 43
 usc_section: "70to73"
 chapter: 4
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "43 U.S.C. § 70to73"
-generated_at: "2026-03-30T04:04:10.777Z"
+generated_at: "2026-03-30T04:06:50.996Z"
 status: "repealed"
 ---
 

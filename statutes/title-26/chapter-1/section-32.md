@@ -3,9 +3,9 @@ title: "Section 32 - Earned income"
 usc_title: 26
 usc_section: "32"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 32"
-generated_at: "2026-03-30T04:03:53.070Z"
+generated_at: "2026-03-30T04:06:33.232Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Regional or river basin plans and Federal water and related
 usc_title: 42
 usc_section: "17"
 chapter: 19
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-30T04:04:27.620Z"
+generated_at: "2026-03-30T04:07:16.705Z"
 status: "active"
 ---
 

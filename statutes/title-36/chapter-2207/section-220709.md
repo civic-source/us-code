@@ -3,9 +3,9 @@ title: "Section 220709 - Records and inspection"
 usc_title: 36
 usc_section: "220709"
 chapter: 2207
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "36 U.S.C. § 220709"
-generated_at: "2026-03-30T04:04:04.879Z"
+generated_at: "2026-03-30T04:06:44.213Z"
 status: "active"
 ---
 

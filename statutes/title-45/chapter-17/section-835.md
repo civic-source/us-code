@@ -3,9 +3,9 @@ title: "Section 835 - Repealed. Pub. L. 97–375, title I, § 111(d) , Dec. 21, 
 usc_title: 45
 usc_section: "835"
 chapter: 17
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "45 U.S.C. § 835"
-generated_at: "2026-03-30T04:04:09.984Z"
+generated_at: "2026-03-30T04:06:51.420Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 677s - Valid leases, permits, liens, etc., unaffected"
 usc_title: 25
 usc_section: "677s"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 677s"
-generated_at: "2026-03-30T04:03:36.527Z"
+generated_at: "2026-03-30T04:06:11.384Z"
 status: "active"
 ---
 

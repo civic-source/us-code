@@ -3,9 +3,9 @@ title: "Section 954 - Repealed. Pub. L. 92–471, title II, § 203(b) , Oct. 9, 
 usc_title: 16
 usc_section: "954"
 chapter: 16
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 954"
-generated_at: "2026-03-30T04:03:31.545Z"
+generated_at: "2026-03-30T04:05:55.464Z"
 status: "repealed"
 ---
 

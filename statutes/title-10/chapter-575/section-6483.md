@@ -3,9 +3,9 @@ title: "Section 6483 - Retired members: grade"
 usc_title: 10
 usc_section: "6483"
 chapter: 575
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 6483"
-generated_at: "2026-03-30T04:02:49.750Z"
+generated_at: "2026-03-30T04:05:30.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3061to3067 - Repealed. Pub. L. 94–135, title I, § 113(b) , No
 usc_title: 42
 usc_section: "3061to3067"
 chapter: 35
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 3061to3067"
-generated_at: "2026-03-30T04:04:27.684Z"
+generated_at: "2026-03-30T04:07:16.763Z"
 status: "repealed"
 ---
 

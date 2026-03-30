@@ -3,9 +3,9 @@ title: "Section 1628 - Assignments by Regional Corporations of rights to receive
 usc_title: 43
 usc_section: "1628"
 chapter: 33
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "43 U.S.C. § 1628"
-generated_at: "2026-03-30T04:04:10.839Z"
+generated_at: "2026-03-30T04:06:51.056Z"
 status: "active"
 ---
 

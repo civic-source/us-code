@@ -3,9 +3,9 @@ title: "Section 1001 - Regulations relating to pay and allowances"
 usc_title: 37
 usc_section: "1001"
 chapter: 19
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "37 U.S.C. § 1001"
-generated_at: "2026-03-30T04:04:03.929Z"
+generated_at: "2026-03-30T04:06:45.046Z"
 status: "active"
 ---
 

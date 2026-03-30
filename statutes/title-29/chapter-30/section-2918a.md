@@ -3,9 +3,9 @@ title: "Section 2918a - YouthBuild program"
 usc_title: 29
 usc_section: "2918a"
 chapter: 30
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 2918a"
-generated_at: "2026-03-30T04:03:46.460Z"
+generated_at: "2026-03-30T04:06:19.440Z"
 status: "active"
 ---
 

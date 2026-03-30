@@ -3,9 +3,9 @@ title: "Section 2141 - Findings; purpose"
 usc_title: 20
 usc_section: "2141"
 chapter: 43
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 2141"
-generated_at: "2026-03-30T04:03:21.752Z"
+generated_at: "2026-03-30T04:06:05.325Z"
 status: "active"
 ---
 

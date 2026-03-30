@@ -3,9 +3,9 @@ title: "Section 3010 - United States participation on Customs Cooperation Counci
 usc_title: 19
 usc_section: "3010"
 chapter: 18
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "19 U.S.C. § 3010"
-generated_at: "2026-03-30T04:03:18.777Z"
+generated_at: "2026-03-30T04:05:57.187Z"
 status: "active"
 ---
 

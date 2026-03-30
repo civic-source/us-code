@@ -3,9 +3,9 @@ title: "Section 77fff - Securities not registered under Securities Act"
 usc_title: 15
 usc_section: "77fff"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 77fff"
-generated_at: "2026-03-30T04:03:12.440Z"
+generated_at: "2026-03-30T04:05:42.781Z"
 status: "active"
 ---
 

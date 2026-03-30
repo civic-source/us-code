@@ -3,9 +3,9 @@ title: "Section 331to374 - Omitted"
 usc_title: 15
 usc_section: "331to374"
 chapter: 10
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 331to374"
-generated_at: "2026-03-30T04:03:12.508Z"
+generated_at: "2026-03-30T04:05:42.841Z"
 status: "omitted"
 ---
 

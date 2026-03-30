@@ -3,9 +3,9 @@ title: "Section 2633 - Judicial review and enforcement"
 usc_title: 16
 usc_section: "2633"
 chapter: 46
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 2633"
-generated_at: "2026-03-30T04:03:31.617Z"
+generated_at: "2026-03-30T04:05:55.526Z"
 status: "active"
 ---
 

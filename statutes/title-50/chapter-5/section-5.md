@@ -3,9 +3,9 @@ title: "Section 5 - Biennial report on stockpile requirements"
 usc_title: 50
 usc_section: "5"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-03-30T04:04:33.845Z"
+generated_at: "2026-03-30T04:07:21.357Z"
 status: "active"
 ---
 

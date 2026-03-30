@@ -3,9 +3,9 @@ title: "Section 2323a - Credit for Indian contracting in meeting certain subcont
 usc_title: 10
 usc_section: "2323a"
 chapter: 137
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 2323a"
-generated_at: "2026-03-30T04:02:49.686Z"
+generated_at: "2026-03-30T04:05:30.743Z"
 status: "active"
 ---
 

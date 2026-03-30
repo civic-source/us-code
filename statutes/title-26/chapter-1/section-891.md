@@ -3,9 +3,9 @@ title: "Section 891 - Doubling of rates of tax on citizens and corporations of c
 usc_title: 26
 usc_section: "891"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 891"
-generated_at: "2026-03-30T04:03:53.251Z"
+generated_at: "2026-03-30T04:06:33.397Z"
 status: "active"
 ---
 

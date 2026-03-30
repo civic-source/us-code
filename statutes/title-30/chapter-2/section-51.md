@@ -3,9 +3,9 @@ title: "Section 51 - Water users’ vested and accrued rights; enumeration of us
 usc_title: 30
 usc_section: "51"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "30 U.S.C. § 51"
-generated_at: "2026-03-30T04:03:43.434Z"
+generated_at: "2026-03-30T04:06:17.623Z"
 status: "active"
 ---
 

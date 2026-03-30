@@ -3,9 +3,9 @@ title: "Section 2454 - Administration"
 usc_title: 22
 usc_section: "2454"
 chapter: 33
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 2454"
-generated_at: "2026-03-30T04:03:40.479Z"
+generated_at: "2026-03-30T04:06:13.684Z"
 status: "active"
 ---
 

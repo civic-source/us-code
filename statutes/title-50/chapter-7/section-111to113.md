@@ -3,9 +3,9 @@ title: "Section 111to113 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 86
 usc_title: 50
 usc_section: "111to113"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 111to113"
-generated_at: "2026-03-30T04:04:33.845Z"
+generated_at: "2026-03-30T04:07:21.357Z"
 status: "repealed"
 ---
 

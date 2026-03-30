@@ -3,9 +3,9 @@ title: "Section 285f - Jurisdiction and venue of actions"
 usc_title: 22
 usc_section: "285f"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 285f"
-generated_at: "2026-03-30T04:03:40.411Z"
+generated_at: "2026-03-30T04:06:13.621Z"
 status: "active"
 ---
 

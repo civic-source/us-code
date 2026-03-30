@@ -3,9 +3,9 @@ title: "Section 503to507 - Repealed. Pub. L. 100–17, title I, § 135(d) , Apr.
 usc_title: 33
 usc_section: "503to507"
 chapter: 11
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "33 U.S.C. § 503to507"
-generated_at: "2026-03-30T04:03:57.462Z"
+generated_at: "2026-03-30T04:06:40.454Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2015 - Payment of expenses to obtain professional credentials"
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-30T04:02:49.664Z"
+generated_at: "2026-03-30T04:05:30.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 909 - Delivery of benefit checks"
 usc_title: 42
 usc_section: "909"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 909"
-generated_at: "2026-03-30T04:04:27.358Z"
+generated_at: "2026-03-30T04:07:16.468Z"
 status: "active"
 ---
 

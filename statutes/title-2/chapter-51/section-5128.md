@@ -3,9 +3,9 @@ title: "Section 5128 - Staff assistance to former Speaker for administration, et
 usc_title: 2
 usc_section: "5128"
 chapter: 51
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 5128"
-generated_at: "2026-03-30T04:02:32.919Z"
+generated_at: "2026-03-30T04:05:02.360Z"
 status: "active"
 ---
 

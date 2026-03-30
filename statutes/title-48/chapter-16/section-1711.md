@@ -3,9 +3,9 @@ title: "Section 1711 - Delegate to House of Representatives from Guam and Virgin
 usc_title: 48
 usc_section: "1711"
 chapter: 16
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "48 U.S.C. § 1711"
-generated_at: "2026-03-30T04:04:31.414Z"
+generated_at: "2026-03-30T04:07:20.203Z"
 status: "active"
 ---
 

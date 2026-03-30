@@ -3,9 +3,9 @@ title: "Section 718 - Availability of draft reports"
 usc_title: 31
 usc_section: "718"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "31 U.S.C. § 718"
-generated_at: "2026-03-30T04:04:01.794Z"
+generated_at: "2026-03-30T04:06:36.656Z"
 status: "active"
 ---
 

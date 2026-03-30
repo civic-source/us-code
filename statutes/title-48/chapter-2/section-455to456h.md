@@ -3,9 +3,9 @@ title: "Section 455to456h - Omitted"
 usc_title: 48
 usc_section: "455to456h"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "48 U.S.C. § 455to456h"
-generated_at: "2026-03-30T04:04:31.399Z"
+generated_at: "2026-03-30T04:07:20.190Z"
 status: "omitted"
 ---
 

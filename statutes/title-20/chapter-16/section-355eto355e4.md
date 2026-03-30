@@ -3,9 +3,9 @@ title: "Section 355eto355e4 - Repealed. Pub. L. 104–208, div. A, title I, § 1
 usc_title: 20
 usc_section: "355eto355e4"
 chapter: 16
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 355eto355e4"
-generated_at: "2026-03-30T04:03:21.625Z"
+generated_at: "2026-03-30T04:06:05.219Z"
 status: "repealed"
 ---
 

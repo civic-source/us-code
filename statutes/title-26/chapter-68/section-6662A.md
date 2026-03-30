@@ -3,9 +3,9 @@ title: "Section 6662A - Imposition of accuracy-related penalty on understatement
 usc_title: 26
 usc_section: "6662A"
 chapter: 68
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 6662A"
-generated_at: "2026-03-30T04:03:53.410Z"
+generated_at: "2026-03-30T04:06:33.542Z"
 status: "active"
 ---
 

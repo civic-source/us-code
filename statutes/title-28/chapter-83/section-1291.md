@@ -3,9 +3,9 @@ title: "Section 1291 - Final decisions of district courts"
 usc_title: 28
 usc_section: "1291"
 chapter: 83
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "28 U.S.C. § 1291"
-generated_at: "2026-03-30T04:03:44.920Z"
+generated_at: "2026-03-30T04:06:27.756Z"
 status: "active"
 ---
 

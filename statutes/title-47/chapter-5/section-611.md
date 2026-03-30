@@ -3,9 +3,9 @@ title: "Section 611 - Closed-captioning of public service announcements"
 usc_title: 47
 usc_section: "611"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "47 U.S.C. § 611"
-generated_at: "2026-03-30T04:04:40.832Z"
+generated_at: "2026-03-30T04:07:22.565Z"
 status: "active"
 ---
 

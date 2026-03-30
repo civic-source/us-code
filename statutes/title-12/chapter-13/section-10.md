@@ -3,9 +3,9 @@ title: "Section 10 - Change of mortgagee status"
 usc_title: 12
 usc_section: "10"
 chapter: 13
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 10"
-generated_at: "2026-03-30T04:03:09.026Z"
+generated_at: "2026-03-30T04:05:37.717Z"
 status: "active"
 ---
 

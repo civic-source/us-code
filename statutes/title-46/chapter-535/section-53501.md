@@ -3,9 +3,9 @@ title: "Section 53501 - Definitions"
 usc_title: 46
 usc_section: "53501"
 chapter: 535
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "46 U.S.C. § 53501"
-generated_at: "2026-03-30T04:04:32.432Z"
+generated_at: "2026-03-30T04:07:23.511Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3601to3620 - Repealed. Pub. L. 102–550, title IX, § 912(i)(1)
 usc_title: 12
 usc_section: "3601to3620"
 chapter: 37
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 3601to3620"
-generated_at: "2026-03-30T04:03:09.125Z"
+generated_at: "2026-03-30T04:05:37.802Z"
 status: "repealed"
 ---
 

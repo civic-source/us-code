@@ -3,9 +3,9 @@ title: "Section 14131 - Quality assurance and proficiency testing standards"
 usc_title: 42
 usc_section: "14131"
 chapter: 136
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 14131"
-generated_at: "2026-03-30T04:04:28.068Z"
+generated_at: "2026-03-30T04:07:17.118Z"
 status: "active"
 ---
 

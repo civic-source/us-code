@@ -3,9 +3,9 @@ title: "Section 98a - Congressional findings and declaration of purpose"
 usc_title: 50
 usc_section: "98a"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "50 U.S.C. § 98a"
-generated_at: "2026-03-30T04:04:33.844Z"
+generated_at: "2026-03-30T04:07:21.356Z"
 status: "active"
 ---
 

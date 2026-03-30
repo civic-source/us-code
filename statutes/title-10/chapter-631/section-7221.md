@@ -3,9 +3,9 @@ title: "Section 7221 - Acceptance and care of gifts to vessels"
 usc_title: 10
 usc_section: "7221"
 chapter: 631
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 7221"
-generated_at: "2026-03-30T04:02:49.754Z"
+generated_at: "2026-03-30T04:05:30.804Z"
 status: "active"
 ---
 

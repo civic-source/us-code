@@ -3,9 +3,9 @@ title: "Section 7104c - Notification to Inspectors General and cooperation with 
 usc_title: 22
 usc_section: "7104c"
 chapter: 78
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 7104c"
-generated_at: "2026-03-30T04:03:40.568Z"
+generated_at: "2026-03-30T04:06:13.765Z"
 status: "active"
 ---
 

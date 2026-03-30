@@ -3,9 +3,9 @@ title: "Section 7438 - Rifle, Colorado, plant; possession, use, and transfer of"
 usc_title: 10
 usc_section: "7438"
 chapter: 641
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 7438"
-generated_at: "2026-03-30T04:02:49.758Z"
+generated_at: "2026-03-30T04:05:30.806Z"
 status: "active"
 ---
 

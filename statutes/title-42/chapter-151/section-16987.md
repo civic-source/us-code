@@ -3,9 +3,9 @@ title: "Section 16987 - Grants for online child safety programs"
 usc_title: 42
 usc_section: "16987"
 chapter: 151
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 16987"
-generated_at: "2026-03-30T04:04:28.122Z"
+generated_at: "2026-03-30T04:07:17.167Z"
 status: "active"
 ---
 

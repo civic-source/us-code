@@ -3,9 +3,9 @@ title: "Section 10201 - Assistant Secretary of Defense for Reserve Affairs"
 usc_title: 10
 usc_section: "10201"
 chapter: 1007
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 10201"
-generated_at: "2026-03-30T04:02:49.775Z"
+generated_at: "2026-03-30T04:05:30.820Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6763 - Expedited judicial review"
 usc_title: 22
 usc_section: "6763"
 chapter: 75
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 6763"
-generated_at: "2026-03-30T04:03:40.563Z"
+generated_at: "2026-03-30T04:06:13.761Z"
 status: "active"
 ---
 

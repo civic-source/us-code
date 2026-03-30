@@ -3,9 +3,9 @@ title: "Section 11 - Exchange of copies of patents and applications with foreign
 usc_title: 35
 usc_section: "11"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "35 U.S.C. § 11"
-generated_at: "2026-03-30T04:03:55.616Z"
+generated_at: "2026-03-30T04:06:38.841Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 841to845 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "841to845"
 chapter: 17
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 841to845"
-generated_at: "2026-03-30T04:03:46.393Z"
+generated_at: "2026-03-30T04:06:19.383Z"
 status: "repealed"
 ---
 

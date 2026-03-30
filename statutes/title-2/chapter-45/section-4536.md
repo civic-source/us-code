@@ -3,9 +3,9 @@ title: "Section 4536 - Student loan repayment program for House employees"
 usc_title: 2
 usc_section: "4536"
 chapter: 45
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "2 U.S.C. § 4536"
-generated_at: "2026-03-30T04:02:32.914Z"
+generated_at: "2026-03-30T04:05:02.357Z"
 status: "active"
 ---
 

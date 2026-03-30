@@ -3,9 +3,9 @@ title: "Section 4171 - Model foreign language competence posts"
 usc_title: 22
 usc_section: "4171"
 chapter: 52
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 4171"
-generated_at: "2026-03-30T04:03:40.529Z"
+generated_at: "2026-03-30T04:06:13.729Z"
 status: "active"
 ---
 

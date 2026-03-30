@@ -3,9 +3,9 @@ title: "Section 3007 - Perishable personal property"
 usc_title: 28
 usc_section: "3007"
 chapter: 176
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "28 U.S.C. § 3007"
-generated_at: "2026-03-30T04:03:44.940Z"
+generated_at: "2026-03-30T04:06:27.772Z"
 status: "active"
 ---
 

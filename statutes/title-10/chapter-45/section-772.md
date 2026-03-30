@@ -3,9 +3,9 @@ title: "Section 772 - When wearing by persons not on active duty authorized"
 usc_title: 10
 usc_section: "772"
 chapter: 45
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 772"
-generated_at: "2026-03-30T04:02:49.603Z"
+generated_at: "2026-03-30T04:05:30.672Z"
 status: "active"
 ---
 

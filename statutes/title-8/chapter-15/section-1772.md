@@ -3,9 +3,9 @@ title: "Section 1772 - International cooperation"
 usc_title: 8
 usc_section: "1772"
 chapter: 15
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "8 U.S.C. § 1772"
-generated_at: "2026-03-30T04:02:36.446Z"
+generated_at: "2026-03-30T04:05:09.101Z"
 status: "active"
 ---
 

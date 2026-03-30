@@ -3,9 +3,9 @@ title: "Section 572 - United States contributions to Pennsylvania: authority, co
 usc_title: 30
 usc_section: "572"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "30 U.S.C. § 572"
-generated_at: "2026-03-30T04:03:43.449Z"
+generated_at: "2026-03-30T04:06:17.634Z"
 status: "active"
 ---
 

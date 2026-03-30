@@ -3,9 +3,9 @@ title: "Section 1907 - Recordation of mining claims; publication of notice"
 usc_title: 16
 usc_section: "1907"
 chapter: 39
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 1907"
-generated_at: "2026-03-30T04:03:31.606Z"
+generated_at: "2026-03-30T04:05:55.517Z"
 status: "active"
 ---
 

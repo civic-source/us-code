@@ -3,9 +3,9 @@ title: "Section 2263 - Enforcement of temporary cease and desist orders"
 usc_title: 12
 usc_section: "2263"
 chapter: 23
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 2263"
-generated_at: "2026-03-30T04:03:09.097Z"
+generated_at: "2026-03-30T04:05:37.779Z"
 status: "active"
 ---
 

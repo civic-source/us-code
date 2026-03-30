@@ -3,9 +3,9 @@ title: "Section 5126 - Benefits not to be denied based on lack of mailing addres
 usc_title: 38
 usc_section: "5126"
 chapter: 51
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "38 U.S.C. § 5126"
-generated_at: "2026-03-30T04:04:07.698Z"
+generated_at: "2026-03-30T04:06:46.452Z"
 status: "active"
 ---
 

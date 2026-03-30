@@ -3,9 +3,9 @@ title: "Section 9816 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9816"
 chapter: 78
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 9816"
-generated_at: "2026-03-30T04:03:21.866Z"
+generated_at: "2026-03-30T04:06:05.425Z"
 status: "active"
 ---
 

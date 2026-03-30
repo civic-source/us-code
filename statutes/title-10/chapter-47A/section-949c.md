@@ -3,9 +3,9 @@ title: "Section 949c - Duties of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "949c"
 chapter: 47
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 949c"
-generated_at: "2026-03-30T04:02:49.613Z"
+generated_at: "2026-03-30T04:05:30.681Z"
 status: "active"
 ---
 

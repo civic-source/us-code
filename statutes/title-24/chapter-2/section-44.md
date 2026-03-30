@@ -3,9 +3,9 @@ title: "Section 44 - Repealed. Pub. L. 101–189, div. A, title III, § 347(1) ,
 usc_title: 24
 usc_section: "44"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "24 U.S.C. § 44"
-generated_at: "2026-03-30T04:03:34.554Z"
+generated_at: "2026-03-30T04:06:08.702Z"
 status: "repealed"
 ---
 

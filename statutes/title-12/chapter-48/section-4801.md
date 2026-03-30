@@ -3,9 +3,9 @@ title: "Section 4801 - Incorporated definitions"
 usc_title: 12
 usc_section: "4801"
 chapter: 48
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 4801"
-generated_at: "2026-03-30T04:03:09.157Z"
+generated_at: "2026-03-30T04:05:37.830Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14c - Availability for expense of recording donated lands"
 usc_title: 16
 usc_section: "14c"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 14c"
-generated_at: "2026-03-30T04:03:31.322Z"
+generated_at: "2026-03-30T04:05:55.270Z"
 status: "active"
 ---
 

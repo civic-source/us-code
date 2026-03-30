@@ -3,9 +3,9 @@ title: "Section 1467 - Jurisdiction of courts"
 usc_title: 30
 usc_section: "1467"
 chapter: 26
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "30 U.S.C. § 1467"
-generated_at: "2026-03-30T04:03:43.483Z"
+generated_at: "2026-03-30T04:06:17.662Z"
 status: "active"
 ---
 

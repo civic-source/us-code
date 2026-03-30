@@ -3,9 +3,9 @@ title: "Section 202 - Discriminations and preferences"
 usc_title: 47
 usc_section: "202"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "47 U.S.C. § 202"
-generated_at: "2026-03-30T04:04:40.791Z"
+generated_at: "2026-03-30T04:07:22.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2007 - Public debt character of the obligations of the Postal Se
 usc_title: 39
 usc_section: "2007"
 chapter: 20
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "39 U.S.C. § 2007"
-generated_at: "2026-03-30T04:04:05.634Z"
+generated_at: "2026-03-30T04:06:44.574Z"
 status: "active"
 ---
 

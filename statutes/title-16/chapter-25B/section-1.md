@@ -3,9 +3,9 @@ title: "Section 1 - Financial assistance to State to prepare transferred ship"
 usc_title: 16
 usc_section: "1"
 chapter: 25
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:03:31.555Z"
+generated_at: "2026-03-30T04:05:55.471Z"
 status: "active"
 ---
 

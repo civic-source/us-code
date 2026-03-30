@@ -3,9 +3,9 @@ title: "Section 635j - Export financing program to foster foreign trade and comm
 usc_title: 12
 usc_section: "635j"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 635j"
-generated_at: "2026-03-30T04:03:08.968Z"
+generated_at: "2026-03-30T04:05:37.666Z"
 status: "active"
 ---
 

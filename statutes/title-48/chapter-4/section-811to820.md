@@ -3,9 +3,9 @@ title: "Section 811to820 - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 3
 usc_title: 48
 usc_section: "811to820"
 chapter: 4
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "48 U.S.C. § 811to820"
-generated_at: "2026-03-30T04:04:31.401Z"
+generated_at: "2026-03-30T04:07:20.191Z"
 status: "repealed"
 ---
 

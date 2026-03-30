@@ -3,9 +3,9 @@ title: "Section 338 - Repealed. May 29, 1928, ch. 901, § 1(64) , 45 Stat. 991"
 usc_title: 25
 usc_section: "338"
 chapter: 9
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 338"
-generated_at: "2026-03-30T04:03:36.495Z"
+generated_at: "2026-03-30T04:06:11.354Z"
 status: "repealed"
 ---
 

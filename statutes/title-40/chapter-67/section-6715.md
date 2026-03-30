@@ -3,9 +3,9 @@ title: "Section 6715 - Coordination with District of Columbia"
 usc_title: 40
 usc_section: "6715"
 chapter: 67
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "40 U.S.C. § 6715"
-generated_at: "2026-03-30T04:04:05.411Z"
+generated_at: "2026-03-30T04:06:43.374Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2378a - Depleted uranium ammunition"
 usc_title: 22
 usc_section: "2378a"
 chapter: 32
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 2378a"
-generated_at: "2026-03-30T04:03:40.471Z"
+generated_at: "2026-03-30T04:06:13.676Z"
 status: "active"
 ---
 

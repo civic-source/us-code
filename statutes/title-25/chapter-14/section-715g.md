@@ -3,9 +3,9 @@ title: "Section 715g - Tribal constitution"
 usc_title: 25
 usc_section: "715g"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 715g"
-generated_at: "2026-03-30T04:03:36.532Z"
+generated_at: "2026-03-30T04:06:11.388Z"
 status: "active"
 ---
 

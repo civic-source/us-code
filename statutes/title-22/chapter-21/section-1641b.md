@@ -3,9 +3,9 @@ title: "Section 1641b - Claims of nationals of the United States against Bulgari
 usc_title: 22
 usc_section: "1641b"
 chapter: 21
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 1641b"
-generated_at: "2026-03-30T04:03:40.436Z"
+generated_at: "2026-03-30T04:06:13.644Z"
 status: "active"
 ---
 

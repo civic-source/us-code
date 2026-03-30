@@ -3,9 +3,9 @@ title: "Section 6201 - Findings"
 usc_title: 16
 usc_section: "6201"
 chapter: 81
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 6201"
-generated_at: "2026-03-30T04:03:31.667Z"
+generated_at: "2026-03-30T04:05:55.571Z"
 status: "active"
 ---
 

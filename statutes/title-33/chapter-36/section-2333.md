@@ -3,9 +3,9 @@ title: "Section 2333 - Irrigation diversion protection and fisheries enhancement
 usc_title: 33
 usc_section: "2333"
 chapter: 36
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "33 U.S.C. § 2333"
-generated_at: "2026-03-30T04:03:57.541Z"
+generated_at: "2026-03-30T04:06:40.524Z"
 status: "active"
 ---
 

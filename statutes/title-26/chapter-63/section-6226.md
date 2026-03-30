@@ -3,9 +3,9 @@ title: "Section 6226 - Judicial review of final partnership administrative adjus
 usc_title: 26
 usc_section: "6226"
 chapter: 63
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 6226"
-generated_at: "2026-03-30T04:03:53.391Z"
+generated_at: "2026-03-30T04:06:33.524Z"
 status: "active"
 ---
 

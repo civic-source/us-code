@@ -3,9 +3,9 @@ title: "Section 208 - Delegation of function of Committee on the Judiciary to ot
 usc_title: 1
 usc_section: "208"
 chapter: 3
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "1 U.S.C. § 208"
-generated_at: "2026-03-30T04:02:28.825Z"
+generated_at: "2026-03-30T04:04:57.314Z"
 status: "active"
 ---
 

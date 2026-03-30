@@ -3,9 +3,9 @@ title: "Section 128 - Division or change of boundaries; continuance of business 
 usc_title: 43
 usc_section: "128"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "43 U.S.C. § 128"
-generated_at: "2026-03-30T04:04:10.778Z"
+generated_at: "2026-03-30T04:06:50.999Z"
 status: "active"
 ---
 

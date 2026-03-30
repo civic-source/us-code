@@ -3,9 +3,9 @@ title: "Section 2614 - Employment and benefits protection"
 usc_title: 29
 usc_section: "2614"
 chapter: 28
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "29 U.S.C. § 2614"
-generated_at: "2026-03-30T04:03:46.444Z"
+generated_at: "2026-03-30T04:06:19.427Z"
 status: "active"
 ---
 

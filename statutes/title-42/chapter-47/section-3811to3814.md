@@ -3,9 +3,9 @@ title: "Section 3811to3814 - Omitted"
 usc_title: 42
 usc_section: "3811to3814"
 chapter: 47
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 3811to3814"
-generated_at: "2026-03-30T04:04:27.717Z"
+generated_at: "2026-03-30T04:07:16.793Z"
 status: "omitted"
 ---
 

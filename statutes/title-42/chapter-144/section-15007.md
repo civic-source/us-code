@@ -3,9 +3,9 @@ title: "Section 15007 - Employment of individuals with disabilities"
 usc_title: 42
 usc_section: "15007"
 chapter: 144
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 15007"
-generated_at: "2026-03-30T04:04:28.080Z"
+generated_at: "2026-03-30T04:07:17.129Z"
 status: "active"
 ---
 

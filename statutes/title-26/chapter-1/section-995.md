@@ -3,9 +3,9 @@ title: "Section 995 - Taxation of DISC income to shareholders"
 usc_title: 26
 usc_section: "995"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "26 U.S.C. § 995"
-generated_at: "2026-03-30T04:03:53.266Z"
+generated_at: "2026-03-30T04:06:33.410Z"
 status: "active"
 ---
 

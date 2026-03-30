@@ -3,9 +3,9 @@ title: "Section 11 - Office of the National Coordinator for Health Information T
 usc_title: 42
 usc_section: "11"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T04:04:27.296Z"
+generated_at: "2026-03-30T04:07:16.412Z"
 status: "active"
 ---
 

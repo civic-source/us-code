@@ -3,9 +3,9 @@ title: "Section 3502 - Assistant Secretary for Administration; appointment and d
 usc_title: 42
 usc_section: "3502"
 chapter: 43
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 3502"
-generated_at: "2026-03-30T04:04:27.690Z"
+generated_at: "2026-03-30T04:07:16.769Z"
 status: "active"
 ---
 

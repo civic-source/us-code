@@ -3,9 +3,9 @@ title: "Section 4908 - Effect on other laws and agreements"
 usc_title: 12
 usc_section: "4908"
 chapter: 49
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 4908"
-generated_at: "2026-03-30T04:03:09.160Z"
+generated_at: "2026-03-30T04:05:37.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3776 - Actions on claims"
 usc_title: 22
 usc_section: "3776"
 chapter: 51
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 3776"
-generated_at: "2026-03-30T04:03:40.513Z"
+generated_at: "2026-03-30T04:06:13.714Z"
 status: "active"
 ---
 

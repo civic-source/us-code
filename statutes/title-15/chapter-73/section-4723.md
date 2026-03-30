@@ -3,9 +3,9 @@ title: "Section 4723 - Market Development Cooperator Program"
 usc_title: 15
 usc_section: "4723"
 chapter: 73
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 4723"
-generated_at: "2026-03-30T04:03:12.676Z"
+generated_at: "2026-03-30T04:05:42.980Z"
 status: "active"
 ---
 

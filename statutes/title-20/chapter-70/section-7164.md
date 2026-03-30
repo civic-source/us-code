@@ -3,9 +3,9 @@ title: "Section 7164 - Prohibited uses of funds"
 usc_title: 20
 usc_section: "7164"
 chapter: 70
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 7164"
-generated_at: "2026-03-30T04:03:21.820Z"
+generated_at: "2026-03-30T04:06:05.384Z"
 status: "active"
 ---
 

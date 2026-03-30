@@ -3,9 +3,9 @@ title: "Section 284s - Ninth replenishment"
 usc_title: 22
 usc_section: "284s"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 284s"
-generated_at: "2026-03-30T04:03:40.410Z"
+generated_at: "2026-03-30T04:06:13.621Z"
 status: "active"
 ---
 

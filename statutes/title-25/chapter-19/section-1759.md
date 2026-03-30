@@ -3,9 +3,9 @@ title: "Section 1759 - General discharge and release of State of Connecticut"
 usc_title: 25
 usc_section: "1759"
 chapter: 19
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "25 U.S.C. § 1759"
-generated_at: "2026-03-30T04:03:36.574Z"
+generated_at: "2026-03-30T04:06:11.427Z"
 status: "active"
 ---
 

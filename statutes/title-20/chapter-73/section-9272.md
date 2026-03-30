@@ -3,9 +3,9 @@ title: "Section 9272 - Definitions for indicators of performance"
 usc_title: 20
 usc_section: "9272"
 chapter: 73
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 9272"
-generated_at: "2026-03-30T04:03:21.855Z"
+generated_at: "2026-03-30T04:06:05.415Z"
 status: "active"
 ---
 

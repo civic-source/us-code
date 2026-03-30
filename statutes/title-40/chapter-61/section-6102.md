@@ -3,9 +3,9 @@ title: "Section 6102 - Regulations"
 usc_title: 40
 usc_section: "6102"
 chapter: 61
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "40 U.S.C. § 6102"
-generated_at: "2026-03-30T04:04:05.410Z"
+generated_at: "2026-03-30T04:06:43.372Z"
 status: "active"
 ---
 

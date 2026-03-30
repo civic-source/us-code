@@ -3,9 +3,9 @@ title: "Section 8355 - Repealed. Pub. L. 88–647, title III, § 301(21) , Oct. 
 usc_title: 10
 usc_section: "8355"
 chapter: 837
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 8355"
-generated_at: "2026-03-30T04:02:49.764Z"
+generated_at: "2026-03-30T04:05:30.811Z"
 status: "repealed"
 ---
 

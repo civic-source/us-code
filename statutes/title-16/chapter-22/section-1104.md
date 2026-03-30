@@ -3,9 +3,9 @@ title: "Section 1104 - Membership of Commission"
 usc_title: 16
 usc_section: "1104"
 chapter: 22
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "16 U.S.C. § 1104"
-generated_at: "2026-03-30T04:03:31.552Z"
+generated_at: "2026-03-30T04:05:55.469Z"
 status: "active"
 ---
 

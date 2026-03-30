@@ -3,9 +3,9 @@ title: "Section 39 - Improving outcomes for children and adolescents through ser
 usc_title: 42
 usc_section: "39"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-30T04:04:27.204Z"
+generated_at: "2026-03-30T04:07:16.327Z"
 status: "active"
 ---
 

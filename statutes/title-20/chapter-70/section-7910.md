@@ -3,9 +3,9 @@ title: "Section 7910 - Limitations on national testing or certification for teac
 usc_title: 20
 usc_section: "7910"
 chapter: 70
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 7910"
-generated_at: "2026-03-30T04:03:21.850Z"
+generated_at: "2026-03-30T04:06:05.410Z"
 status: "active"
 ---
 

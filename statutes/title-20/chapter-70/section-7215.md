@@ -3,9 +3,9 @@ title: "Section 7215 - Local uses of funds"
 usc_title: 20
 usc_section: "7215"
 chapter: 70
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "20 U.S.C. § 7215"
-generated_at: "2026-03-30T04:03:21.822Z"
+generated_at: "2026-03-30T04:06:05.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 262to297 - Repealed. Dec. 17, 1943, ch. 344, § 1 , 57 Stat. 600
 usc_title: 8
 usc_section: "262to297"
 chapter: 7
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "8 U.S.C. § 262to297"
-generated_at: "2026-03-30T04:02:36.391Z"
+generated_at: "2026-03-30T04:05:09.051Z"
 status: "repealed"
 ---
 

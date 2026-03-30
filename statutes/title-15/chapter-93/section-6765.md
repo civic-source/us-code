@@ -3,9 +3,9 @@ title: "Section 6765 - Judicial review"
 usc_title: 15
 usc_section: "6765"
 chapter: 93
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 6765"
-generated_at: "2026-03-30T04:03:12.696Z"
+generated_at: "2026-03-30T04:05:42.996Z"
 status: "active"
 ---
 

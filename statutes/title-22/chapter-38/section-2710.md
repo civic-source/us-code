@@ -3,9 +3,9 @@ title: "Section 2710 - Expenses relating to participation in arbitrations of cer
 usc_title: 22
 usc_section: "2710"
 chapter: 38
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 2710"
-generated_at: "2026-03-30T04:03:40.491Z"
+generated_at: "2026-03-30T04:06:13.695Z"
 status: "active"
 ---
 

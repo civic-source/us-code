@@ -3,9 +3,9 @@ title: "Section 49e - Annual labor or improvements on Alaskan mining claims; aff
 usc_title: 30
 usc_section: "49e"
 chapter: 2
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "30 U.S.C. § 49e"
-generated_at: "2026-03-30T04:03:43.434Z"
+generated_at: "2026-03-30T04:06:17.623Z"
 status: "active"
 ---
 

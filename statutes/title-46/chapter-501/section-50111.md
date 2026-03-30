@@ -3,9 +3,9 @@ title: "Section 50111 - Reports to Congress"
 usc_title: 46
 usc_section: "50111"
 chapter: 501
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "46 U.S.C. § 50111"
-generated_at: "2026-03-30T04:04:32.427Z"
+generated_at: "2026-03-30T04:07:23.507Z"
 status: "active"
 ---
 

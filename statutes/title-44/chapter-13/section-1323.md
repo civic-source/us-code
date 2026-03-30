@@ -3,9 +3,9 @@ title: "Section 1323 - Interstate Commerce Commission: report"
 usc_title: 44
 usc_section: "1323"
 chapter: 13
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "44 U.S.C. § 1323"
-generated_at: "2026-03-30T04:04:09.554Z"
+generated_at: "2026-03-30T04:07:00.715Z"
 status: "active"
 ---
 

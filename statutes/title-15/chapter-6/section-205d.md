@@ -3,9 +3,9 @@ title: "Section 205d - United States Metric Board"
 usc_title: 15
 usc_section: "205d"
 chapter: 6
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 205d"
-generated_at: "2026-03-30T04:03:12.499Z"
+generated_at: "2026-03-30T04:05:42.833Z"
 status: "active"
 ---
 

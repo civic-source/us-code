@@ -3,9 +3,9 @@ title: "Section 1314a - Repealed. Pub. L. 90–51, § 2 , July 7, 1967 , 81 Stat
 usc_title: 7
 usc_section: "1314a"
 chapter: 35
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "7 U.S.C. § 1314a"
-generated_at: "2026-03-30T04:02:40.273Z"
+generated_at: "2026-03-30T04:05:21.018Z"
 status: "repealed"
 ---
 

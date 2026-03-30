@@ -3,9 +3,9 @@ title: "Section 338 - Examination of affiliates; forfeiture of membership on ref
 usc_title: 12
 usc_section: "338"
 chapter: 3
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 338"
-generated_at: "2026-03-30T04:03:08.954Z"
+generated_at: "2026-03-30T04:05:37.653Z"
 status: "active"
 ---
 

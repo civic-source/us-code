@@ -3,9 +3,9 @@ title: "Section 559 - Effect on other laws; effect of subsequent statute"
 usc_title: 5
 usc_section: "559"
 chapter: 5
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "5 U.S.C. § 559"
-generated_at: "2026-03-30T04:02:26.656Z"
+generated_at: "2026-03-30T04:04:59.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2074 - Production credit association capitalization"
 usc_title: 12
 usc_section: "2074"
 chapter: 23
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 2074"
-generated_at: "2026-03-30T04:03:09.089Z"
+generated_at: "2026-03-30T04:05:37.771Z"
 status: "active"
 ---
 

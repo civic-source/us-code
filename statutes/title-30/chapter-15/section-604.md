@@ -3,9 +3,9 @@ title: "Section 604 - Disposal of sand, peat moss, etc., in Alaska; contracts"
 usc_title: 30
 usc_section: "604"
 chapter: 15
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "30 U.S.C. § 604"
-generated_at: "2026-03-30T04:03:43.449Z"
+generated_at: "2026-03-30T04:06:17.634Z"
 status: "active"
 ---
 

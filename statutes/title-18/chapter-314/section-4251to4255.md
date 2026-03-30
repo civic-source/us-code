@@ -3,9 +3,9 @@ title: "Section 4251to4255 - Repealed. Pub. L. 98–473, title II, § 218(a)(6) 
 usc_title: 18
 usc_section: "4251to4255"
 chapter: 314
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "18 U.S.C. § 4251to4255"
-generated_at: "2026-03-30T04:03:17.214Z"
+generated_at: "2026-03-30T04:05:49.605Z"
 status: "repealed"
 ---
 

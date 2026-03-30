@@ -3,9 +3,9 @@ title: "Section 8121to8124 - Repealed. Pub. L. 97–35, title III, § 313(a) , A
 usc_title: 42
 usc_section: "8121to8124"
 chapter: 90
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 8121to8124"
-generated_at: "2026-03-30T04:04:27.900Z"
+generated_at: "2026-03-30T04:07:16.960Z"
 status: "repealed"
 ---
 

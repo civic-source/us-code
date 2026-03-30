@@ -3,9 +3,9 @@ title: "Section 29 - Appeals"
 usc_title: 15
 usc_section: "29"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "15 U.S.C. § 29"
-generated_at: "2026-03-30T04:03:12.420Z"
+generated_at: "2026-03-30T04:05:42.764Z"
 status: "active"
 ---
 

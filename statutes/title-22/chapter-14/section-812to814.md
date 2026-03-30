@@ -3,9 +3,9 @@ title: "Section 812to814 - Transferred"
 usc_title: 22
 usc_section: "812to814"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "22 U.S.C. § 812to814"
-generated_at: "2026-03-30T04:03:40.427Z"
+generated_at: "2026-03-30T04:06:13.636Z"
 status: "transferred"
 ---
 

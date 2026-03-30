@@ -3,9 +3,9 @@ title: "Section 2681 - Use of test and evaluation installations by commercial en
 usc_title: 10
 usc_section: "2681"
 chapter: 159
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 2681"
-generated_at: "2026-03-30T04:02:49.715Z"
+generated_at: "2026-03-30T04:05:30.768Z"
 status: "active"
 ---
 

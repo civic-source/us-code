@@ -3,9 +3,9 @@ title: "Section 650d650e - Repealed. Pub. L. 103–429, § 8(6) , Oct. 31, 1994 
 usc_title: 45
 usc_section: "650d650e"
 chapter: 14
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "45 U.S.C. § 650d650e"
-generated_at: "2026-03-30T04:04:09.975Z"
+generated_at: "2026-03-30T04:06:51.410Z"
 status: "repealed"
 ---
 

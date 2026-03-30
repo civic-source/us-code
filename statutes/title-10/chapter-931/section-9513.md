@@ -3,9 +3,9 @@ title: "Section 9513 - Use of military installations by Civil Reserve Air Fleet 
 usc_title: 10
 usc_section: "9513"
 chapter: 931
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "10 U.S.C. § 9513"
-generated_at: "2026-03-30T04:02:49.771Z"
+generated_at: "2026-03-30T04:05:30.817Z"
 status: "active"
 ---
 

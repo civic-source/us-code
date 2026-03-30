@@ -3,9 +3,9 @@ title: "Section 2280 - Violence against maritime navigation"
 usc_title: 18
 usc_section: "2280"
 chapter: 111
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "18 U.S.C. § 2280"
-generated_at: "2026-03-30T04:03:17.181Z"
+generated_at: "2026-03-30T04:05:49.574Z"
 status: "active"
 ---
 

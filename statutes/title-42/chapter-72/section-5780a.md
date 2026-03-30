@@ -3,9 +3,9 @@ title: "Section 5780a - Authority of Inspectors General"
 usc_title: 42
 usc_section: "5780a"
 chapter: 72
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 5780a"
-generated_at: "2026-03-30T04:04:27.776Z"
+generated_at: "2026-03-30T04:07:16.846Z"
 status: "active"
 ---
 

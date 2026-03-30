@@ -3,9 +3,9 @@ title: "Section 1429 - Eligibility to secure advances"
 usc_title: 12
 usc_section: "1429"
 chapter: 11
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "12 U.S.C. § 1429"
-generated_at: "2026-03-30T04:03:08.972Z"
+generated_at: "2026-03-30T04:05:37.670Z"
 status: "active"
 ---
 

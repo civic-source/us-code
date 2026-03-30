@@ -3,9 +3,9 @@ title: "Section 488e - Prohibitions and penalty"
 usc_title: 6
 usc_section: "488e"
 chapter: 1
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "6 U.S.C. § 488e"
-generated_at: "2026-03-30T04:02:35.569Z"
+generated_at: "2026-03-30T04:05:04.855Z"
 status: "active"
 ---
 

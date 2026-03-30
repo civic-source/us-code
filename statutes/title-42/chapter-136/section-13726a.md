@@ -3,9 +3,9 @@ title: "Section 13726a - Definitions"
 usc_title: 42
 usc_section: "13726a"
 chapter: 136
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 13726a"
-generated_at: "2026-03-30T04:04:28.054Z"
+generated_at: "2026-03-30T04:07:17.106Z"
 status: "active"
 ---
 

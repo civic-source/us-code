@@ -3,9 +3,9 @@ title: "Section 13387 - Innovative environmental technology transfer program"
 usc_title: 42
 usc_section: "13387"
 chapter: 134
-current_through: "PL 113-163"
+current_through: "PL 113-165"
 classification: "42 U.S.C. § 13387"
-generated_at: "2026-03-30T04:04:28.044Z"
+generated_at: "2026-03-30T04:07:17.094Z"
 status: "active"
 ---
 
