@@ -3,9 +3,9 @@ title: "Section 1831 - Repealed. Pub. L. 89–321, title VI, § 601 , Nov. 3, 19
 usc_title: 7
 usc_section: "1831"
 chapter: 45
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1831"
-generated_at: "2026-03-30T02:21:01.680Z"
+generated_at: "2026-03-30T02:24:00.943Z"
 ---
 
 # § 1831. Repealed. Pub. L. 89–321, title VI, § 601 , Nov. 3, 1965 , 79 Stat. 1206

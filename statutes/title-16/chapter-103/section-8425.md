@@ -3,9 +3,9 @@ title: "Section 8425 - Motorized and nonmotorized access"
 usc_title: 16
 usc_section: "8425"
 chapter: 103
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 8425"
-generated_at: "2026-03-30T02:22:05.325Z"
+generated_at: "2026-03-30T02:24:34.274Z"
 ---
 
 # § 8425. Motorized and nonmotorized access

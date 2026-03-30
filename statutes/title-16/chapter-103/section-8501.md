@@ -3,9 +3,9 @@ title: "Section 8501 - Promotion of outdoor recreation for military servicemembe
 usc_title: 16
 usc_section: "8501"
 chapter: 103
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 8501"
-generated_at: "2026-03-30T02:22:05.327Z"
+generated_at: "2026-03-30T02:24:34.276Z"
 ---
 
 # § 8501. Promotion of outdoor recreation for military servicemembers and veterans

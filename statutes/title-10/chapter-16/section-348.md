@@ -3,9 +3,9 @@ title: "Section 348 - Aviation Leadership Program"
 usc_title: 10
 usc_section: "348"
 chapter: 16
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 348"
-generated_at: "2026-03-30T02:21:23.709Z"
+generated_at: "2026-03-30T02:24:07.146Z"
 ---
 
 # § 348. Aviation Leadership Program

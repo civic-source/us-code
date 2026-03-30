@@ -3,9 +3,9 @@ title: "Section 4973 - Tax on excess contributions to certain tax-favored accoun
 usc_title: 26
 usc_section: "4973"
 chapter: 43
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 4973"
-generated_at: "2026-03-30T02:22:26.039Z"
+generated_at: "2026-03-30T02:24:56.022Z"
 ---
 
 # § 4973. Tax on excess contributions to certain tax-favored accounts and annuities
@@ -61,5 +61,5 @@ generated_at: "2026-03-30T02:22:26.039Z"
       - **(i)** the maximum amount allowable as a deduction under section 223(b) (determined without regard to section 106(d)) for the taxable year, over
       - **(ii)** the amount contributed to the accounts for the taxable year.
 - **(h)** For purposes of this section—
-  - **(1)** In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C)) exceeds the contribution limit under section 529A(b)(2)(B).
+  - **(1)** In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C) or contributions received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B)) exceeds the contribution limit under section 529A(b)(2)(B).
   - **(2)** For purposes of this subsection, any contribution which is distributed out of the ABLE account in a distribution to which the last sentence of section 529A(b)(2) applies shall be treated as an amount not contributed.

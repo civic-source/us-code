@@ -3,9 +3,9 @@ title: "Section 297a - Omitted"
 usc_title: 22
 usc_section: "297a"
 chapter: 8
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 297a"
-generated_at: "2026-03-30T02:22:14.405Z"
+generated_at: "2026-03-30T02:24:42.657Z"
 ---
 
 # § 297a. Omitted

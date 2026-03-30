@@ -3,9 +3,9 @@ title: "Section 812 - Art. 12. Prohibition of confinement of members of the arme
 usc_title: 10
 usc_section: "812"
 chapter: 47
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 812"
-generated_at: "2026-03-30T02:21:23.730Z"
+generated_at: "2026-03-30T02:24:07.169Z"
 ---
 
 # § 812. Art. 12. Prohibition of confinement of members of the armed forces with enemy prisoners and certain others

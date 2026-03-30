@@ -3,9 +3,9 @@ title: "Section 5351 - School construction, acquisition, or renovation contracts
 usc_title: 25
 usc_section: "5351"
 chapter: 46
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "25 U.S.C. § 5351"
-generated_at: "2026-03-30T02:22:10.020Z"
+generated_at: "2026-03-30T02:24:38.457Z"
 ---
 
 # § 5351. School construction, acquisition, or renovation contracts

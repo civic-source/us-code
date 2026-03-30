@@ -3,9 +3,9 @@ title: "Section 460bbbb - Ashley Karst National Recreation and Geologic Area"
 usc_title: 16
 usc_section: "460bbbb"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 460bbbb"
-generated_at: "2026-03-30T02:22:05.156Z"
+generated_at: "2026-03-30T02:24:34.090Z"
 ---
 
 # § 460bbbb. Ashley Karst National Recreation and Geologic Area

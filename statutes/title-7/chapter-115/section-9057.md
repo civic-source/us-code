@@ -3,9 +3,9 @@ title: "Section 9057 - Premiums for dairy margin coverage"
 usc_title: 7
 usc_section: "9057"
 chapter: 115
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 9057"
-generated_at: "2026-03-30T02:21:01.859Z"
+generated_at: "2026-03-30T02:24:01.088Z"
 ---
 
 # § 9057. Premiums for dairy margin coverage
@@ -15,10 +15,10 @@ generated_at: "2026-03-30T02:21:01.859Z"
   - **(2)** the production history of the participating dairy operation; and
   - **(3)** the premium per hundredweight of milk imposed by this section for the coverage level selected.
 - **(b)**
-  - **(1)** For the first 5,000,000 pounds of milk marketings included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
+  - **(1)** For the first 6,000,000 pounds of milk marketings included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
   - **(2)** Except as provided in subsection (g), the following annual premiums apply: Coverage Level Premium per Cwt. $4.00 None $4.50 $0.0025 $5.00 $0.005 $5.50 $0.030 $6.00 $0.050 $6.50 $0.070 $7.00 $0.080 $7.50 $0.090 $8.00 $0.100 $8.50 $0.105 $9.00 $0.110 $9.50 $0.150
 - **(c)**
-  - **(1)** For milk marketings in excess of 5,000,000 pounds included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
+  - **(1)** For milk marketings in excess of 6,000,000 pounds included in the production history of a participating dairy operation, the premium per hundredweight for each coverage level is specified in the table contained in paragraph (2).
   - **(2)** Except as provided in subsection (g), the following annual premiums apply: Coverage Level Premium per Cwt. $4.00 None $4.50 $0.0025 $5.00 $0.005 $5.50 $0.100 $6.00 $0.310 $6.50 $0.650 $7.00 $1.107 $7.50 $1.413 $8.00 $1.813
 - **(d)** The Secretary shall provide more than 1 method by which a participating dairy operation may pay the premium required under this section in any manner that maximizes participating dairy operation payment flexibility and dairy margin coverage integrity.
 - **(e)**
@@ -36,10 +36,10 @@ generated_at: "2026-03-30T02:21:01.859Z"
     - **(B)** in an amount equal to 50 percent of the repayment calculated under that paragraph as a direct cash repayment.
   - **(4)** Paragraph (1) shall only apply to a calendar year during the period of calendar years 2014 through 2017 for which the amount described in subparagraph (A) of that paragraph is greater than the amount described in subparagraph (B) of that paragraph.
 - **(g)** The premium per hundredweight specified in the tables contained in subsections (b) and (c) for each coverage level shall be reduced by 25 percent in accordance with the following:
-  - **(1)** For each of calendar years 2019 through 2023, for a participating dairy operation that makes a 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the 5-year period beginning in January 2019.
-  - **(2)** For each applicable calendar year through 2023, for a participating dairy operation that—
+  - **(1)** For each of calendar years 2026 through 2031, for a participating dairy operation that makes a 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the 5-year period beginning in January 2026.
+  - **(2)** For each applicable calendar year through 2031, for a participating dairy operation that—
     - **(A)** establishes a production history pursuant to section 9055(b) of this title ; and
-    - **(B)** makes a 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the period beginning with the first available calendar year and ending in December 2023.
+    - **(B)** makes a 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the period beginning with the first available calendar year and ending in December 2031.
   - **(3)** Notwithstanding the annual elections under section 9056(a) of this title —
     - **(A)** a 1-time enrollment under this subsection shall remain in effect for the full duration applicable to a participating dairy operation in accordance with paragraph (1) or (2)(B), as applicable; and
     - **(B)** a participating dairy operation that makes a 1-time enrollment under this subsection and is noncompliant under section 9058 of this title shall be subject to that section.

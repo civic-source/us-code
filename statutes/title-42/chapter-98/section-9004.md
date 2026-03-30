@@ -3,9 +3,9 @@ title: "Section 9004 - Pilot and demonstration plants"
 usc_title: 42
 usc_section: "9004"
 chapter: 98
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 9004"
-generated_at: "2026-03-30T02:23:23.128Z"
+generated_at: "2026-03-30T02:25:37.532Z"
 ---
 
 # § 9004. Pilot and demonstration plants

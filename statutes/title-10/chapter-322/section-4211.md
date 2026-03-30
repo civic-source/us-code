@@ -3,9 +3,9 @@ title: "Section 4211 - Acquisition strategy"
 usc_title: 10
 usc_section: "4211"
 chapter: 322
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4211"
-generated_at: "2026-03-30T02:21:23.842Z"
+generated_at: "2026-03-30T02:24:07.292Z"
 ---
 
 # § 4211. Acquisition strategy

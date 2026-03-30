@@ -3,9 +3,9 @@ title: "Section 57 - Items of tax preference"
 usc_title: 26
 usc_section: "57"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 57"
-generated_at: "2026-03-30T02:22:25.829Z"
+generated_at: "2026-03-30T02:24:55.840Z"
 ---
 
 # § 57. Items of tax preference
@@ -48,7 +48,7 @@ generated_at: "2026-03-30T02:22:25.829Z"
         - **(II)** For purposes of subclause (I), a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
         - **(III)** Subclause (II) shall not apply to any refunding bond which is issued to refund any bond which was issued after December 31, 2003 , and before January 1, 2009 .
   - **(6)** The amounts which would be treated as items of tax preference with respect to the taxpayer under paragraphs (2), (3), (4), and (12) of this subsection (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986). The preceding sentence shall not apply to any property to which section 56(a)(1) or (5) applies.
-  - **(7)** An amount equal to 7 percent of the amount excluded from gross income for the taxable year under section 1202.
+  - **(7)** In the case of stock acquired on or before the date of the enactment of the Creating Small Business Jobs Act of 2010, an amount equal to 7 percent of the amount excluded from gross income for the taxable year under section 1202.
 - **(b)** For purposes of paragraph (2) of subsection (a)—
   - **(1)** The term “straight line recovery of intangibles”, when used with respect to intangible drilling and development costs for any well, means (except in the case of an election under paragraph (2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins.
   - **(2)** If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).

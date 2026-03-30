@@ -3,9 +3,9 @@ title: "Section 2617 - Required terms and conditions of plans"
 usc_title: 7
 usc_section: "2617"
 chapter: 58
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 2617"
-generated_at: "2026-03-30T02:21:01.737Z"
+generated_at: "2026-03-30T02:24:00.987Z"
 ---
 
 # § 2617. Required terms and conditions of plans

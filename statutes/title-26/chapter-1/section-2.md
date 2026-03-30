@@ -3,9 +3,9 @@ title: "Section 2 - Special rules for capital gains invested in opportunity zone
 usc_title: 26
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 2"
-generated_at: "2026-03-30T02:22:25.996Z"
+generated_at: "2026-03-30T02:24:55.988Z"
 ---
 
 # § 1400Z–2. Special rules for capital gains invested in opportunity zones
@@ -56,8 +56,8 @@ generated_at: "2026-03-30T02:22:25.996Z"
         - **(I)** such property was acquired by the qualified opportunity fund by purchase (as defined in section 179(d)(2)) after December 31, 2017 ,
         - **(II)** the original use of such property in the qualified opportunity zone commences with the qualified opportunity fund or the qualified opportunity fund substantially improves the property, and
         - **(III)** during substantially all of the qualified opportunity fund’s holding period for such property, substantially all of the use of such property was in a qualified opportunity zone.
-      - **(ii)** For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-month period in the hands of the qualified opportunity fund.
-      - **(iii)** For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) of this subsection 1 1 So in original. This subsection does not contain a paragraph (8). in lieu of the application of such rule in section 179(d)(2)(A).
+      - **(ii)** For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property (50 percent of such adjusted basis in the case of property in a qualified opportunity zone comprised entirely of a rural area (as defined in subsection (b)(2)(C)(ii)) 1 1 So in original. A third closing parenthesis probably should appear. at the beginning of such 30-month period in the hands of the qualified opportunity fund.
+      - **(iii)** For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) of this subsection 2 2 So in original. This subsection does not contain a paragraph (8). in lieu of the application of such rule in section 179(d)(2)(A).
   - **(3)**
     - **(A)** The term “qualified opportunity zone business” means a trade or business—
       - **(i)** in which substantially all of the tangible property owned or leased by the taxpayer is qualified opportunity zone business property (determined by substituting “qualified opportunity zone business” for “qualified opportunity fund” each place it appears in paragraph (2)(D)),
@@ -79,7 +79,7 @@ generated_at: "2026-03-30T02:22:25.996Z"
     - **(B)** rules to ensure a qualified opportunity fund has a reasonable period of time to reinvest the return of capital from investments in qualified opportunity zone stock and qualified opportunity zone partnership interests, and to reinvest proceeds received from the sale or disposition of qualified opportunity zone property, and
     - **(C)** rules to prevent abuse.
 - **(f)**
-  - **(1)** If a qualified opportunity fund fails to meet the 90-percent requirement of subsection (c)(1), 2 2 So in original. Probably should be “subsection (d)(1),”. the qualified opportunity fund shall pay a penalty for each month it fails to meet the requirement in an amount equal to the product of—
+  - **(1)** If a qualified opportunity fund fails to meet the 90-percent requirement of subsection (c)(1), 3 3 So in original. Probably should be “subsection (d)(1),”. the qualified opportunity fund shall pay a penalty for each month it fails to meet the requirement in an amount equal to the product of—
     - **(A)** the excess of—
       - **(i)** the amount equal to 90 percent of its aggregate assets, over
       - **(ii)** the aggregate amount of qualified opportunity zone property held by the fund, multiplied by

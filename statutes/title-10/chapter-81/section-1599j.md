@@ -3,9 +3,9 @@ title: "Section 1599j - Restricted reports of incidents of adult sexual assault"
 usc_title: 10
 usc_section: "1599j"
 chapter: 81
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 1599j"
-generated_at: "2026-03-30T02:21:23.775Z"
+generated_at: "2026-03-30T02:24:07.223Z"
 ---
 
 # § 1599j. Restricted reports of incidents of adult sexual assault

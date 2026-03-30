@@ -3,9 +3,9 @@ title: "Section 7425 - Prohibition on direct or indirect transfer of classified 
 usc_title: 22
 usc_section: "7425"
 chapter: 81
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 7425"
-generated_at: "2026-03-30T02:22:14.531Z"
+generated_at: "2026-03-30T02:24:42.783Z"
 ---
 
 # § 7425. Prohibition on direct or indirect transfer of classified national security information and law enforcement information to the International Criminal Court

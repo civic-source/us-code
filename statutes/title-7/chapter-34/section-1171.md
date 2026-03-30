@@ -3,9 +3,9 @@ title: "Section 1171 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 7
 usc_section: "1171"
 chapter: 34
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1171"
-generated_at: "2026-03-30T02:21:01.640Z"
+generated_at: "2026-03-30T02:24:00.903Z"
 ---
 
 # § 1171. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649

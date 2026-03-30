@@ -3,9 +3,9 @@ title: "Section 50505 - Consistent approval of existing categorical exclusions"
 usc_title: 46
 usc_section: "50505"
 chapter: 505
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "46 U.S.C. § 50505"
-generated_at: "2026-03-30T02:23:27.970Z"
+generated_at: "2026-03-30T02:25:49.373Z"
 ---
 
 # § 50505. Consistent approval of existing categorical exclusions

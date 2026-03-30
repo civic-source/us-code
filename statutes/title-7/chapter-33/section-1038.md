@@ -3,9 +3,9 @@ title: "Section 1038 - Regulations; delegations of authority"
 usc_title: 7
 usc_section: "1038"
 chapter: 33
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1038"
-generated_at: "2026-03-30T02:21:01.640Z"
+generated_at: "2026-03-30T02:24:00.903Z"
 ---
 
 # § 1038. Regulations; delegations of authority

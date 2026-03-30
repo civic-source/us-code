@@ -3,9 +3,9 @@ title: "Section 4973 - Limitations"
 usc_title: 10
 usc_section: "4973"
 chapter: 389
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4973"
-generated_at: "2026-03-30T02:21:23.856Z"
+generated_at: "2026-03-30T02:24:07.304Z"
 ---
 
 # § 4973. Limitations

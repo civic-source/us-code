@@ -3,9 +3,9 @@ title: "Section 6251 - Repealed. Pub. L. 109–58, title III, § 301(a)(3) , Aug
 usc_title: 42
 usc_section: "6251"
 chapter: 77
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6251"
-generated_at: "2026-03-30T02:23:23.033Z"
+generated_at: "2026-03-30T02:25:37.437Z"
 ---
 
 # § 6251. Repealed. Pub. L. 109–58, title III, § 301(a)(3) , Aug. 8, 2005 , 119 Stat. 683

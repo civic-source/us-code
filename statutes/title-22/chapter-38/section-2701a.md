@@ -3,9 +3,9 @@ title: "Section 2701a - Education allowance for dependents of Department of Stat
 usc_title: 22
 usc_section: "2701a"
 chapter: 38
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 2701a"
-generated_at: "2026-03-30T02:22:14.461Z"
+generated_at: "2026-03-30T02:24:42.713Z"
 ---
 
 # § 2701a. Education allowance for dependents of Department of State employees located in United States territories

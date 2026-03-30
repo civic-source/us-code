@@ -3,9 +3,9 @@ title: "Section 2894a - Complaint database"
 usc_title: 10
 usc_section: "2894a"
 chapter: 169
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 2894a"
-generated_at: "2026-03-30T02:21:23.818Z"
+generated_at: "2026-03-30T02:24:07.271Z"
 ---
 
 # § 2894a. Complaint database

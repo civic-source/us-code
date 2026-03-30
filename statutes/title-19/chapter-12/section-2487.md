@@ -3,9 +3,9 @@ title: "Section 2487 - Repealed. Pub. L. 102–145, § 121 , as added Pub. L. 10
 usc_title: 19
 usc_section: "2487"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "19 U.S.C. § 2487"
-generated_at: "2026-03-30T02:21:48.839Z"
+generated_at: "2026-03-30T02:24:30.159Z"
 ---
 
 # § 2487. Repealed. Pub. L. 102–145, § 121 , as added Pub. L. 102–266, § 102 , Apr. 1, 1992 , 106 Stat. 95

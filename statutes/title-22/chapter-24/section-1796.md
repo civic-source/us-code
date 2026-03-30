@@ -3,9 +3,9 @@ title: "Section 1796 - Participation in Joint Commission on Rural Reconstruction
 usc_title: 22
 usc_section: "1796"
 chapter: 24
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 1796"
-generated_at: "2026-03-30T02:22:14.418Z"
+generated_at: "2026-03-30T02:24:42.672Z"
 ---
 
 # § 1796. Participation in Joint Commission on Rural Reconstruction in China

@@ -3,9 +3,9 @@ title: "Section 430c - Senior intelligence oversight official 1 1 So in original
 usc_title: 10
 usc_section: "430c"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 430c"
-generated_at: "2026-03-30T02:21:23.714Z"
+generated_at: "2026-03-30T02:24:07.152Z"
 ---
 
 # § 430c. Senior intelligence oversight official 1 1 So in original. Appears in text capitalized as “Senior Intelligence Oversight Official”.

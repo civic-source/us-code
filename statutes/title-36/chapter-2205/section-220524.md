@@ -3,9 +3,9 @@ title: "Section 220524 - General duties of national governing bodies"
 usc_title: 36
 usc_section: "220524"
 chapter: 2205
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 220524"
-generated_at: "2026-03-30T02:22:54.002Z"
+generated_at: "2026-03-30T02:25:08.453Z"
 ---
 
 # § 220524. General duties of national governing bodies

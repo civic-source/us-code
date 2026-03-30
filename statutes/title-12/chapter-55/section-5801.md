@@ -3,9 +3,9 @@ title: "Section 5801 - Findings and purpose"
 usc_title: 12
 usc_section: "5801"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 5801"
-generated_at: "2026-03-30T02:21:39.463Z"
+generated_at: "2026-03-30T02:24:16.130Z"
 ---
 
 # § 5801. Findings and purpose

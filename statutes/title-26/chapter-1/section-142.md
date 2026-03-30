@@ -3,15 +3,15 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-30T02:22:25.844Z"
+generated_at: "2026-03-30T02:24:55.854Z"
 ---
 
 # § 142. Exempt facility bond
 
 - **(a)** For purposes of this part, the term “exempt facility bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
-  - **(1)** airports,
+  - **(1)** airports and spaceports,
   - **(2)** docks and wharves,
   - **(3)** mass commuting facilities,
   - **(4)** facilities for the furnishing of water,
@@ -35,6 +35,7 @@ generated_at: "2026-03-30T02:22:25.844Z"
       - **(i)** the lessee makes an irrevocable election (binding on the lessee and all successors in interest under the lease) not to claim depreciation or an investment credit with respect to such property,
       - **(ii)** the lease term (as defined in section 168(i)(3)) is not more than 80 percent of the reasonably expected economic life of the property (as determined under section 147(b)), and
       - **(iii)** the lessee has no option to purchase the property other than at fair market value (as of the time such option is exercised).
+    - **(C)** For purposes of subparagraph (A), spaceport property located on land leased by a governmental unit from the United States shall not fail to be treated as owned by a governmental unit if the requirements of this paragraph are met by the lease and any subleases of the property.
   - **(2)** An office shall not be treated as described in a paragraph of subsection (a) unless—
     - **(A)** the office is located on the premises of a facility described in such a paragraph, and
     - **(B)** not more than a de minimis amount of the functions to be performed at such office is not directly related to the day-to-day operations at such facility.
@@ -276,3 +277,15 @@ generated_at: "2026-03-30T02:22:25.844Z"
         - **(II)** the total metric tons of carbon dioxide which would otherwise be released into the atmosphere each year as industrial emission of greenhouse gas if the eligible components were not installed in the industrial carbon dioxide facility.
       - **(ii)** In the case of eligible components that are designed to capture carbon dioxide solely from specific sources of emissions or portions thereof within an industrial carbon dioxide facility, the capture and storage percentage under this subparagraph shall be determined based only on such specific sources of emissions or portions thereof.
   - **(4)** The Secretary shall issue such regulations or other guidance as are necessary to carry out the provisions of this subsection, including methods for determining costs attributable to an eligible component for purposes of paragraph (3)(A).
+- **(p)**
+  - **(1)** For purposes of subsection (a)(1), the term “spaceport” means any facility located at or in close proximity to a launch site or reentry site used for—
+    - **(A)** manufacturing, assembling, or repairing spacecraft, space cargo, other facilities described in this paragraph, or any component of the foregoing,
+    - **(B)** flight control operations,
+    - **(C)** providing launch services and reentry services, or
+    - **(D)** transferring crew, spaceflight participants, or space cargo to or from spacecraft.
+  - **(2)** For purposes of paragraph (1)—
+    - **(A)** The term “space cargo” includes satellites, scientific experiments, other property transported into space, and any other type of payload, whether or not such property returns from space.
+    - **(B)** The term “spacecraft” means a launch vehicle or a reentry vehicle.
+    - **(C)** The terms “launch site”, “crew”, “space flight participant”, “launch services”, “launch vehicle”, “payload”, “reentry services”, “reentry site”, a “reentry vehicle” shall have the respective meanings given to such terms by section 50902 of title 51 , United States Code (as in effect on the date of enactment of this subsection).
+  - **(3)** A facility shall not be required to be available for use by the general public to be treated as a spaceport for purposes of this section.
+  - **(4)** With respect to spaceports, subsection (c)(2)(E) shall not apply to spaceport property described in paragraph (1)(A).

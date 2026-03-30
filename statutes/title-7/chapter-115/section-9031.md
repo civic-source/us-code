@@ -3,16 +3,16 @@ title: "Section 9031 - Availability of nonrecourse marketing assistance loans fo
 usc_title: 7
 usc_section: "9031"
 chapter: 115
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 9031"
-generated_at: "2026-03-30T02:21:01.856Z"
+generated_at: "2026-03-30T02:24:01.086Z"
 ---
 
 # § 9031. Availability of nonrecourse marketing assistance loans for loan commodities
 
 - **(a)** In this subchapter, the term “loan commodity” means wheat, corn, grain sorghum, barley, oats, upland cotton, extra long staple cotton, long grain rice, medium grain rice, peanuts, soybeans, other oilseeds, graded wool, nongraded wool, mohair, honey, dry peas, lentils, small chickpeas, and large chickpeas.
 - **(b)**
-  - **(1)** For each of the 2014 through 2023 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
+  - **(1)** For each of the 2014 through 2031 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
   - **(2)** The marketing assistance loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under section 9032 of this title for the loan commodity.
 - **(c)** The producers on a farm shall be eligible for a marketing assistance loan under subsection (b) for any quantity of a loan commodity produced on the farm.
 - **(d)** As a condition of the receipt of a marketing assistance loan under subsection (b), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.

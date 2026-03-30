@@ -3,9 +3,9 @@ title: "Section 7502 - Availability of CCC commodities"
 usc_title: 7
 usc_section: "7502"
 chapter: 102
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 7502"
-generated_at: "2026-03-30T02:21:01.809Z"
+generated_at: "2026-03-30T02:24:01.055Z"
 ---
 
 # § 7502. Availability of CCC commodities
@@ -19,7 +19,7 @@ generated_at: "2026-03-30T02:21:01.809Z"
 - **(c)** In addition to any commodities described in subsection (a), in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title .
 - **(d)** Commodities made available under this chapter shall include a variety of commodities and products thereof that are most useful to eligible recipient agencies, including, but not be 1 1 So in original. The word “be” probably should not appear. limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
 - **(e)** Effective April 1, 1986 , the Secretary shall submit semiannually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the types and amounts of commodities made available for distribution under this chapter.
-- **(f)** Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 1 1 See References in Text note below. and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
+- **(f)** Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 2 2 See References in Text note below. and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
 - **(g)**
   - **(1)** Whenever commodities acquired by the Commodity Credit Corporation are made available for donation to domestic food programs in quantities that exceed Federal obligations, the Secretary shall give equal consideration to making donations of such commodities to emergency feeding organizations participating in the program authorized by this chapter as is given to other commodity recipient agencies, taking into account the types and amounts of commodities available and appropriate for distribution to these organizations.
   - **(2)** In determining the commodities that will be made available to emergency feeding organizations under this chapter, the Secretary may distribute commodities that become available on a seasonal or irregular basis.

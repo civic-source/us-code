@@ -3,9 +3,9 @@ title: "Section 657b - Veterans programs"
 usc_title: 15
 usc_section: "657b"
 chapter: 14
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 657b"
-generated_at: "2026-03-30T02:21:36.774Z"
+generated_at: "2026-03-30T02:24:19.976Z"
 ---
 
 # § 657b. Veterans programs
@@ -61,7 +61,7 @@ generated_at: "2026-03-30T02:21:36.774Z"
 - **(h)**
   - **(1)** In this subsection, the term “covered individual” means—
     - **(A)** an individual who is participating in the Transition Assistance Program established under section 1144 of title 10 , subject to an availability determination by the Secretary of the military department concerned;
-    - **(B)** a servicemember in the National Guard or Reserves not on active duty.
+    - **(B)** a servicemember in the National Guard or Reserves not on active duty. 1 1 So in original. The period probably should be a semicolon.
     - **(C)** an individual who—
       - **(i)** served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
       - **(ii)** was discharged or released from such service under conditions other than dishonorable; or

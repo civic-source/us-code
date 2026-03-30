@@ -3,9 +3,9 @@ title: "Section 574 - Other rules regarding proceeds"
 usc_title: 40
 usc_section: "574"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "40 U.S.C. § 574"
-generated_at: "2026-03-30T02:22:55.011Z"
+generated_at: "2026-03-30T02:25:07.370Z"
 ---
 
 # § 574. Other rules regarding proceeds

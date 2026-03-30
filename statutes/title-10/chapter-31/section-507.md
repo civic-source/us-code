@@ -3,9 +3,9 @@ title: "Section 507 - Extension of enlistment for members needing medical care o
 usc_title: 10
 usc_section: "507"
 chapter: 31
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 507"
-generated_at: "2026-03-30T02:21:23.717Z"
+generated_at: "2026-03-30T02:24:07.156Z"
 ---
 
 # § 507. Extension of enlistment for members needing medical care or hospitalization

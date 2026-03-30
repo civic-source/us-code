@@ -3,9 +3,9 @@ title: "Section 856 - Definition of real estate investment trust"
 usc_title: 26
 usc_section: "856"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 856"
-generated_at: "2026-03-30T02:22:25.951Z"
+generated_at: "2026-03-30T02:24:55.950Z"
 ---
 
 # § 856. Definition of real estate investment trust
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T02:22:25.951Z"
     - **(A)** at least 75 percent of the value of its total assets is represented by real estate assets, cash and cash items (including receivables), and Government securities; and
     - **(B)**
       - **(i)** not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)),
-      - **(ii)** not more than 20 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries,
+      - **(ii)** not more than 25 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries,
       - **(iii)** not more than 25 percent of the value of its total assets is represented by nonqualified publicly offered REIT debt instruments, and
       - **(iv)** except with respect to a taxable REIT subsidiary and securities includible under subparagraph (A)—
         - **(I)** not more than 5 percent of the value of its total assets is represented by securities of any one issuer,

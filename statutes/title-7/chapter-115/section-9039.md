@@ -3,16 +3,16 @@ title: "Section 9039 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "9039"
 chapter: 115
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 9039"
-generated_at: "2026-03-30T02:21:01.858Z"
+generated_at: "2026-03-30T02:24:01.087Z"
 ---
 
 # § 9039. Availability of recourse loans for high moisture feed grains and seed cotton
 
 - **(a)**
   - **(1)** In this subsection, the term “high moisture state” means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 9031 of this title .
-  - **(2)** For each of the 2014 through 2023 crops of corn and grain sorghum, the Secretary shall make available recourse loans, as determined by the Secretary, to producers on a farm that—
+  - **(2)** For each of the 2014 through 2031 crops of corn and grain sorghum, the Secretary shall make available recourse loans, as determined by the Secretary, to producers on a farm that—
     - **(A)** normally harvest all or a portion of their crop of corn or grain sorghum in a high moisture state;
     - **(B)** present—
       - **(i)** certified scale tickets from an inspected, certified commercial scale, including a licensed warehouse, feedlot, feed mill, distillery, or other similar entity approved by the Secretary, pursuant to regulations issued by the Secretary; or
@@ -24,6 +24,6 @@ generated_at: "2026-03-30T02:21:01.858Z"
     - **(B)** the lower of—
       - **(i)** the payment yield in effect for the calculation of price loss coverage under section 9015 of this title , or the payment yield deemed to be in effect or established under subclause (II) or (III) of section 9036(b)(1)(B)(ii) of this title , with respect to corn or grain sorghum on a field that is similar to the field from which the corn or grain sorghum referred to in subparagraph (A) was obtained; or
       - **(ii)** the actual yield of corn or grain sorghum on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum referred to in subparagraph (A) was obtained.
-- **(b)** For each of the 2014 through 2023 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
-- **(c)** In the case of a loan commodity that is ineligible for 100 percent of the nonrecourse marketing loan rate in the county due to a determination that the commodity is contaminated yet still merchantable, for each of the 2019 through 2023 crops of such loan commodity, the Secretary shall make available recourse commodity loans, at the rate provided under section 9032 of this title , on any production.
+- **(b)** For each of the 2014 through 2031 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
+- **(c)** In the case of a loan commodity that is ineligible for 100 percent of the nonrecourse marketing loan rate in the county due to a determination that the commodity is contaminated yet still merchantable, for each of the 2019 through 2031 crops of such loan commodity, the Secretary shall make available recourse commodity loans, at the rate provided under section 9032 of this title , on any production.
 - **(d)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with section 7283 of this title ).

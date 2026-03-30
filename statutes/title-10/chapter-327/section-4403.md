@@ -3,9 +3,9 @@ title: "Section 4403 - Requirements relating to availability of major system int
 usc_title: 10
 usc_section: "4403"
 chapter: 327
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4403"
-generated_at: "2026-03-30T02:21:23.846Z"
+generated_at: "2026-03-30T02:24:07.295Z"
 ---
 
 # § 4403. Requirements relating to availability of major system interfaces and support for modular open system approach

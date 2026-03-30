@@ -3,9 +3,9 @@ title: "Section 1587 - Employees of nonappropriated fund instrumentalities: repr
 usc_title: 10
 usc_section: "1587"
 chapter: 81
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 1587"
-generated_at: "2026-03-30T02:21:23.773Z"
+generated_at: "2026-03-30T02:24:07.220Z"
 ---
 
 # § 1587. Employees of nonappropriated fund instrumentalities: reprisals

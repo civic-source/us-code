@@ -3,9 +3,9 @@ title: "Section 717y - Voluntary conversion of natural gas users to heavy fuel o
 usc_title: 15
 usc_section: "717y"
 chapter: 15
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 717y"
-generated_at: "2026-03-30T02:21:36.787Z"
+generated_at: "2026-03-30T02:24:19.994Z"
 ---
 
 # § 717y. Voluntary conversion of natural gas users to heavy fuel oil

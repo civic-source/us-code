@@ -3,9 +3,9 @@ title: "Section 50a - Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(4)
 usc_title: 48
 usc_section: "50a"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "48 U.S.C. § 50a"
-generated_at: "2026-03-30T02:23:28.645Z"
+generated_at: "2026-03-30T02:25:58.356Z"
 ---
 
 # §§ 50, 50a. Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(4), 70 Stat. 712

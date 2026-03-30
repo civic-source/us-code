@@ -3,9 +3,9 @@ title: "Section 2 - Southeastern area sale and transmission of electric power; d
 usc_title: 16
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:22:05.207Z"
+generated_at: "2026-03-30T02:24:34.146Z"
 ---
 
 # § 825s–2. Southeastern area sale and transmission of electric power; disposition of receipts; creation of continuing funds; use of fund

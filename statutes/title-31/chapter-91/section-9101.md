@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 31
 usc_section: "9101"
 chapter: 91
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "31 U.S.C. § 9101"
-generated_at: "2026-03-30T02:22:48.083Z"
+generated_at: "2026-03-30T02:24:58.783Z"
 ---
 
 # § 9101. Definitions

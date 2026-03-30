@@ -3,9 +3,9 @@ title: "Section 958 - Rules for determining stock ownership"
 usc_title: 26
 usc_section: "958"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 958"
-generated_at: "2026-03-30T02:22:25.968Z"
+generated_at: "2026-03-30T02:24:55.965Z"
 ---
 
 # § 958. Rules for determining stock ownership
@@ -20,3 +20,4 @@ generated_at: "2026-03-30T02:22:25.968Z"
   - **(1)** In applying paragraph (1)(A) of section 318(a), stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered as owned by a citizen or by a resident alien individual.
   - **(2)** In applying subparagraphs (A), (B), and (C) of section 318(a)(2), if a partnership, estate, trust, or corporation owns, directly or indirectly, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of a corporation, it shall be considered as owning all the stock entitled to vote.
   - **(3)** In applying subparagraph (C) of section 318(a)(2), the phrase “10 percent” shall be substituted for the phrase “50 percent” used in subparagraph (C).
+  - **(4)** Subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person.

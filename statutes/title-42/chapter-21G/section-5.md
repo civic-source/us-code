@@ -3,9 +3,9 @@ title: "Section 5 - Relationship to other laws"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:23:22.934Z"
+generated_at: "2026-03-30T02:25:37.340Z"
 ---
 
 # § 2000gg–5. Relationship to other laws

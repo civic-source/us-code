@@ -3,9 +3,9 @@ title: "Section 6426 - Credit for alcohol fuel, biodiesel, and alternative fuel 
 usc_title: 26
 usc_section: "6426"
 chapter: 65
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 6426"
-generated_at: "2026-03-30T02:22:26.090Z"
+generated_at: "2026-03-30T02:24:56.064Z"
 ---
 
 # § 6426. Credit for alcohol fuel, biodiesel, and alternative fuel mixtures
@@ -85,3 +85,5 @@ generated_at: "2026-03-30T02:22:26.090Z"
       - **(ii)** the applicable supplementary amount with respect to such sustainable aviation fuel.
   - **(2)** Any term used in this subsection which is also used in section 40B shall have the meaning given such term by section 40B.
   - **(3)** For purposes of this subsection, rules similar to the rules of section 40B(f) shall apply.
+  - **(4)** With respect to any gallon of sustainable aviation fuel in a qualified mixture, this subsection shall not apply to any such gallon for which a credit under section 45Z is allowable (as determined without regard to subsection (a)(1)(A) of such section).
+  - **(5)** This subsection shall not apply to any sale or use for any period after September 30, 2025 .

@@ -3,9 +3,9 @@ title: "Section 846 - Attempt and conspiracy"
 usc_title: 21
 usc_section: "846"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "21 U.S.C. § 846"
-generated_at: "2026-03-30T02:22:11.868Z"
+generated_at: "2026-03-30T02:24:39.625Z"
 ---
 
 # § 846. Attempt and conspiracy

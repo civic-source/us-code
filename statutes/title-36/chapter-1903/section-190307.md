@@ -3,9 +3,9 @@ title: "Section 190307 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "190307"
 chapter: 1903
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 190307"
-generated_at: "2026-03-30T02:22:53.999Z"
+generated_at: "2026-03-30T02:25:08.450Z"
 ---
 
 # § 190307. Exclusive right to name, seals, emblems, and badges

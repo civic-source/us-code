@@ -3,9 +3,9 @@ title: "Section 14 - Outreach efforts to increase awareness of the availability 
 usc_title: 42
 usc_section: "14"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T02:23:22.734Z"
+generated_at: "2026-03-30T02:25:37.143Z"
 ---
 
 # § 1320b–14. Outreach efforts to increase awareness of the availability of medicare cost-sharing and subsidies for low-income individuals under subchapter XVIII

@@ -3,9 +3,9 @@ title: "Section 3504a - Ocean and coastal mapping Federal funding opportunity"
 usc_title: 33
 usc_section: "3504a"
 chapter: 48
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 3504a"
-generated_at: "2026-03-30T02:22:30.973Z"
+generated_at: "2026-03-30T02:25:00.195Z"
 ---
 
 # § 3504a. Ocean and coastal mapping Federal funding opportunity

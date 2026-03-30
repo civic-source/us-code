@@ -3,9 +3,9 @@ title: "Section 5186 - Emergency public transportation"
 usc_title: 42
 usc_section: "5186"
 chapter: 68
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 5186"
-generated_at: "2026-03-30T02:23:23.015Z"
+generated_at: "2026-03-30T02:25:37.421Z"
 ---
 
 # § 5186. Emergency public transportation

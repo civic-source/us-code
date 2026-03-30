@@ -3,9 +3,9 @@ title: "Section 9453 - Cadets: degree and commission on graduation"
 usc_title: 10
 usc_section: "9453"
 chapter: 953
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 9453"
-generated_at: "2026-03-30T02:21:23.885Z"
+generated_at: "2026-03-30T02:24:07.337Z"
 ---
 
 # § 9453. Cadets: degree and commission on graduation

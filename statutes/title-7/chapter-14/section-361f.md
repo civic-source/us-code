@@ -3,9 +3,9 @@ title: "Section 361f - Publications of experiment stations; free mailing"
 usc_title: 7
 usc_section: "361f"
 chapter: 14
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 361f"
-generated_at: "2026-03-30T02:21:01.624Z"
+generated_at: "2026-03-30T02:24:00.885Z"
 ---
 
 # § 361f. Publications of experiment stations; free mailing

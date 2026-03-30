@@ -3,9 +3,9 @@ title: "Section 414 - Special provisions concerning the Corporation for National
 usc_title: 5
 usc_section: "414"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "5 U.S.C. § 414"
-generated_at: "2026-03-30T02:20:28.402Z"
+generated_at: "2026-03-30T02:23:53.265Z"
 ---
 
 # § 414. Special provisions concerning the Corporation for National and Community Service

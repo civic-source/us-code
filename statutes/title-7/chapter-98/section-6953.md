@@ -3,9 +3,9 @@ title: "Section 6953 - Healthy food financing initiative"
 usc_title: 7
 usc_section: "6953"
 chapter: 98
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 6953"
-generated_at: "2026-03-30T02:21:01.795Z"
+generated_at: "2026-03-30T02:24:01.039Z"
 ---
 
 # § 6953. Healthy food financing initiative

@@ -3,9 +3,9 @@ title: "Section 6949a - Adequacy of certain guidelines and criteria"
 usc_title: 42
 usc_section: "6949a"
 chapter: 82
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6949a"
-generated_at: "2026-03-30T02:23:23.063Z"
+generated_at: "2026-03-30T02:25:37.466Z"
 ---
 
 # § 6949a. Adequacy of certain guidelines and criteria

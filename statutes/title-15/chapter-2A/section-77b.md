@@ -3,9 +3,9 @@ title: "Section 77b - Definitions; promotion of efficiency, competition, and cap
 usc_title: 15
 usc_section: "77b"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 77b"
-generated_at: "2026-03-30T02:21:36.698Z"
+generated_at: "2026-03-30T02:24:19.879Z"
 ---
 
 # § 77b. Definitions; promotion of efficiency, competition, and capital formation

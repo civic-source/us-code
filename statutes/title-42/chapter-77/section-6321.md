@@ -3,9 +3,9 @@ title: "Section 6321 - Findings; purpose; definitions"
 usc_title: 42
 usc_section: "6321"
 chapter: 77
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6321"
-generated_at: "2026-03-30T02:23:23.044Z"
+generated_at: "2026-03-30T02:25:37.447Z"
 ---
 
 # § 6321. Findings; purpose; definitions

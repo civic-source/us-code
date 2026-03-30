@@ -3,9 +3,9 @@ title: "Section 45f - Mineral King Valley addition authorized"
 usc_title: 16
 usc_section: "45f"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 45f"
-generated_at: "2026-03-30T02:22:05.064Z"
+generated_at: "2026-03-30T02:24:33.994Z"
 ---
 
 # § 45f. Mineral King Valley addition authorized

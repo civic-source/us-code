@@ -3,9 +3,9 @@ title: "Section 8546 - Officers of foreign countries: admission"
 usc_title: 10
 usc_section: "8546"
 chapter: 855
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 8546"
-generated_at: "2026-03-30T02:21:23.873Z"
+generated_at: "2026-03-30T02:24:07.321Z"
 ---
 
 # § 8546. Officers of foreign countries: admission

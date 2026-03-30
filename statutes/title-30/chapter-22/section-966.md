@@ -3,9 +3,9 @@ title: "Section 966 - Retention of fees"
 usc_title: 30
 usc_section: "966"
 chapter: 22
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "30 U.S.C. § 966"
-generated_at: "2026-03-30T02:22:17.079Z"
+generated_at: "2026-03-30T02:24:45.496Z"
 ---
 
 # § 966. Retention of fees

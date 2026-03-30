@@ -3,9 +3,9 @@ title: "Section 561 - Contractual right to terminate, liquidate, accelerate, or 
 usc_title: 11
 usc_section: "561"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "11 U.S.C. § 561"
-generated_at: "2026-03-30T02:21:27.495Z"
+generated_at: "2026-03-30T02:24:12.115Z"
 ---
 
 # § 561. Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15

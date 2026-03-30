@@ -3,9 +3,9 @@ title: "Section 8962 - PFAS research and development"
 usc_title: 15
 usc_section: "8962"
 chapter: 115
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 8962"
-generated_at: "2026-03-30T02:21:36.908Z"
+generated_at: "2026-03-30T02:24:20.144Z"
 ---
 
 # § 8962. PFAS research and development

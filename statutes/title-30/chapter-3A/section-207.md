@@ -3,14 +3,14 @@ title: "Section 207 - Conditions of lease"
 usc_title: 30
 usc_section: "207"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "30 U.S.C. § 207"
-generated_at: "2026-03-30T02:22:17.063Z"
+generated_at: "2026-03-30T02:24:45.482Z"
 ---
 
 # § 207. Conditions of lease
 
-- **(a)** A coal lease shall be for a term of twenty years and for so long thereafter as coal is produced annually in commercial quantities from that lease. Any lease which is not producing in commercial quantities at the end of ten years shall be terminated. The Secretary shall by regulation prescribe annual rentals on leases. A lease shall require payment of a royalty in such amount as the Secretary shall determine of not less than 12½ per centum of the value of coal as defined by regulation, except the Secretary may determine a lesser amount in the case of coal recovered by underground mining operations. The lease shall include such other terms and conditions as the Secretary shall determine. Such rentals and royalties and other terms and conditions of the lease will be subject to readjustment at the end of its primary term of twenty years and at the end of each ten-year period thereafter if the lease is extended.
+- **(a)** A coal lease shall be for a term of twenty years and for so long thereafter as coal is produced annually in commercial quantities from that lease. Any lease which is not producing in commercial quantities at the end of ten years shall be terminated. The Secretary shall by regulation prescribe annual rentals on leases. A lease shall require payment of a royalty in such amount as the Secretary shall determine of not less than 12½ percent, except such amount shall be not more than 7 percent during the period that begins on July 4, 2025 , and ends September 30, 2034 , of the value of coal as defined by regulation, except the Secretary may determine a lesser amount in the case of coal recovered by underground mining operations. The lease shall include such other terms and conditions as the Secretary shall determine. Such rentals and royalties and other terms and conditions of the lease will be subject to readjustment at the end of its primary term of twenty years and at the end of each ten-year period thereafter if the lease is extended.
 - **(b)**
   - **(1)** Each lease shall be subject to the conditions of diligent development and continued operation of the mine or mines, except where operations under the lease are interrupted by strikes, the elements, or casualties not attributable to the lessee.
   - **(2)** The Secretary of the Interior, upon determining that the public interest will be served thereby, may suspend the condition of continued operation upon the payment of advance royalties.

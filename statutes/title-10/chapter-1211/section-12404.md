@@ -3,9 +3,9 @@ title: "Section 12404 - Army and Air National Guard of the United States: mobili
 usc_title: 10
 usc_section: "12404"
 chapter: 1211
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 12404"
-generated_at: "2026-03-30T02:21:23.894Z"
+generated_at: "2026-03-30T02:24:07.348Z"
 ---
 
 # § 12404. Army and Air National Guard of the United States: mobilization; maintenance of organization

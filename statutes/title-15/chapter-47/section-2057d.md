@@ -3,9 +3,9 @@ title: "Section 2057d - Banning of inclined sleepers for infants"
 usc_title: 15
 usc_section: "2057d"
 chapter: 47
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 2057d"
-generated_at: "2026-03-30T02:21:36.832Z"
+generated_at: "2026-03-30T02:24:20.051Z"
 ---
 
 # § 2057d. Banning of inclined sleepers for infants

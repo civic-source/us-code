@@ -3,9 +3,9 @@ title: "Section 4981 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "4981"
 chapter: 389
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4981"
-generated_at: "2026-03-30T02:21:23.856Z"
+generated_at: "2026-03-30T02:24:07.304Z"
 ---
 
 # § 4981. Establishment of loan guarantee program

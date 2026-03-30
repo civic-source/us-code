@@ -3,9 +3,9 @@ title: "Section 17157 - Review and evaluation"
 usc_title: 42
 usc_section: "17157"
 chapter: 152
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 17157"
-generated_at: "2026-03-30T02:23:23.266Z"
+generated_at: "2026-03-30T02:25:37.666Z"
 ---
 
 # § 17157. Review and evaluation

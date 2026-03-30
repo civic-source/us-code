@@ -3,9 +3,9 @@ title: "Section 305 - National tree"
 usc_title: 36
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 305"
-generated_at: "2026-03-30T02:22:53.981Z"
+generated_at: "2026-03-30T02:25:08.433Z"
 ---
 
 # § 305. National tree

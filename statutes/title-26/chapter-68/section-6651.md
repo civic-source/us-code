@@ -3,9 +3,9 @@ title: "Section 6651 - Failure to file tax return or to pay tax"
 usc_title: 26
 usc_section: "6651"
 chapter: 68
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 6651"
-generated_at: "2026-03-30T02:22:26.095Z"
+generated_at: "2026-03-30T02:24:56.070Z"
 ---
 
 # § 6651. Failure to file tax return or to pay tax

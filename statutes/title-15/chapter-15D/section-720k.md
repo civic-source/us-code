@@ -3,9 +3,9 @@ title: "Section 720k - Alaska pipeline construction training program"
 usc_title: 15
 usc_section: "720k"
 chapter: 15
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 720k"
-generated_at: "2026-03-30T02:21:36.789Z"
+generated_at: "2026-03-30T02:24:19.996Z"
 ---
 
 # § 720k. Alaska pipeline construction training program

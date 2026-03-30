@@ -3,9 +3,9 @@ title: "Section 20110 - Administrative provisions"
 usc_title: 34
 usc_section: "20110"
 chapter: 201
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "34 U.S.C. § 20110"
-generated_at: "2026-03-30T02:22:29.557Z"
+generated_at: "2026-03-30T02:25:04.815Z"
 ---
 
 # § 20110. Administrative provisions

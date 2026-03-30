@@ -3,9 +3,9 @@ title: "Section 5204b - Technical assistance for insular areas"
 usc_title: 42
 usc_section: "5204b"
 chapter: 68
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 5204b"
-generated_at: "2026-03-30T02:23:23.019Z"
+generated_at: "2026-03-30T02:25:37.423Z"
 ---
 
 # § 5204b. Technical assistance for insular areas

@@ -3,9 +3,9 @@ title: "Section 7232 - Loan rates for marketing assistance loans"
 usc_title: 7
 usc_section: "7232"
 chapter: 100
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 7232"
-generated_at: "2026-03-30T02:21:01.800Z"
+generated_at: "2026-03-30T02:24:01.045Z"
 ---
 
 # § 7232. Loan rates for marketing assistance loans

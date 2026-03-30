@@ -3,9 +3,9 @@ title: "Section 334 - Administrative support and payment of certain expenses for
 usc_title: 10
 usc_section: "334"
 chapter: 16
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 334"
-generated_at: "2026-03-30T02:21:23.708Z"
+generated_at: "2026-03-30T02:24:07.145Z"
 ---
 
 # § 334. Administrative support and payment of certain expenses for covered foreign defense personnel

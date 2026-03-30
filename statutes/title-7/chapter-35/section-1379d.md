@@ -3,9 +3,9 @@ title: "Section 1379d - Marketing restrictions"
 usc_title: 7
 usc_section: "1379d"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1379d"
-generated_at: "2026-03-30T02:21:01.648Z"
+generated_at: "2026-03-30T02:24:00.911Z"
 ---
 
 # § 1379d. Marketing restrictions

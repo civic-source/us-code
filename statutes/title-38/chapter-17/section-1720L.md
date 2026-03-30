@@ -3,9 +3,9 @@ title: "Section 1720L - Home- and community-based services: programs"
 usc_title: 38
 usc_section: "1720L"
 chapter: 17
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 1720L"
-generated_at: "2026-03-30T02:23:01.379Z"
+generated_at: "2026-03-30T02:25:14.735Z"
 ---
 
 # § 1720L. Home- and community-based services: programs
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:23:01.379Z"
     - **(C)** seek to ensure the availability of such program for eligible veterans who are Native American veterans receiving care and services furnished by the Indian Health Service, a tribal health program, an Urban Indian organization, or (in the case of a Native Hawaiian veteran) a Native Hawaiian health care system, to the extent practicable.
   - **(4)** If a veteran participating in the Veteran-Directed Care program is hospitalized, the veteran may continue to use funds under the program during a period of hospitalization in the same manner that the veteran would be authorized to use such funds under the program if the veteran were not hospitalized.
 - **(c)**
-  - **(1)** The Secretary shall carry out a program to be known as the ‘Homemaker and Home Health Aide program’ under which the Secretary may enter into agreements with home health agencies to provide to eligible veterans such home health aide services as may be determined appropriate by the Secretary.
+  - **(1)** The Secretary shall carry out a program to be known as the “Homemaker and Home Health Aide program” under which the Secretary may enter into agreements with home health agencies to provide to eligible veterans such home health aide services as may be determined appropriate by the Secretary.
   - **(2)** In carrying out the Homemaker and Home Health Aide program, the Secretary shall—
     - **(A)** administer such program in the locations specified in subparagraph (A) of subsection (b)(3);
     - **(B)** seek to ensure the availability of such program in the locations specified in subparagraph (B) of subsection (b)(3); and
@@ -40,7 +40,7 @@ generated_at: "2026-03-30T02:23:01.379Z"
 - **(g)** Nothing in this section shall be construed to limit the authority of the Secretary to carry out programs providing home- and community-based services under any other provision of law.
 - **(h)** In this section:
   - **(1)** The terms “Aging and Disability Resource Center”, “area agency on aging”, and “State agency” have the meanings given those terms in section 102 of the Older Americans Act of 1965 ( 42 U.S.C. 3002 ).
-  - **(2)** The terms “caregiver” and “family caregiver”, with respect to a veteran, have the meanings given those terms, respectively, under subsection (e) of section 1720G of this title with respect to an eligible veteran under subsection (a) of such section or a covered veteran under subsection (b) of such section, as the case may be.
+  - **(2)** The terms “caregiver” and “family caregiver”, with respect to a veteran, have the meanings given those terms, respectively, under subsection (e) 1 1 So in original. Probably should be “subsection (d)”. of section 1720G of this title with respect to an eligible veteran under subsection (a) of such section or a covered veteran under subsection (b) of such section, as the case may be.
   - **(3)** The term “center for independent living” has the meaning given that term in section 702 of the Rehabilitation Act of 1973 ( 29 U.S.C. 796a ).
   - **(4)** The term “covered respite care” has the meaning given such term in section 1720G(d) of this title .
   - **(5)** The term “eligible veteran” means any veteran—

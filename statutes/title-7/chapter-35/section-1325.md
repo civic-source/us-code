@@ -3,9 +3,9 @@ title: "Section 1325 - Repealed. Aug. 28, 1954, ch. 1041 , title III, § 304, 68
 usc_title: 7
 usc_section: "1325"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1325"
-generated_at: "2026-03-30T02:21:01.642Z"
+generated_at: "2026-03-30T02:24:00.905Z"
 ---
 
 # §§ 1323 to 1325. Repealed. Aug. 28, 1954, ch. 1041 , title III, § 304, 68 Stat. 902

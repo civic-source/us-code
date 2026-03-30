@@ -3,9 +3,9 @@ title: "Section 602 - Flexibility in determining terms of appointment for certai
 usc_title: 10
 usc_section: "602"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 602"
-generated_at: "2026-03-30T02:21:23.721Z"
+generated_at: "2026-03-30T02:24:07.159Z"
 ---
 
 # § 602. Flexibility in determining terms of appointment for certain senior officer positions

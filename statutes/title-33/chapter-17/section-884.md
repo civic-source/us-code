@@ -3,9 +3,9 @@ title: "Section 884 - Power to use books, maps, etc., and to employ persons"
 usc_title: 33
 usc_section: "884"
 chapter: 17
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 884"
-generated_at: "2026-03-30T02:22:30.905Z"
+generated_at: "2026-03-30T02:25:00.122Z"
 ---
 
 # § 884. Power to use books, maps, etc., and to employ persons

@@ -3,9 +3,9 @@ title: "Section 2008k - Making and servicing of loans by personnel of State, cou
 usc_title: 7
 usc_section: "2008k"
 chapter: 50
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 2008k"
-generated_at: "2026-03-30T02:21:01.692Z"
+generated_at: "2026-03-30T02:24:00.955Z"
 ---
 
 # § 2008k. Making and servicing of loans by personnel of State, county, or area committees

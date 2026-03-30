@@ -3,9 +3,9 @@ title: "Section 53725 - Actions against obligor"
 usc_title: 46
 usc_section: "53725"
 chapter: 537
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "46 U.S.C. § 53725"
-generated_at: "2026-03-30T02:23:27.979Z"
+generated_at: "2026-03-30T02:25:49.384Z"
 ---
 
 # § 53725. Actions against obligor

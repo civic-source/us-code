@@ -3,9 +3,9 @@ title: "Section 7124 - Cross references"
 usc_title: 26
 usc_section: "7124"
 chapter: 74
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 7124"
-generated_at: "2026-03-30T02:22:26.104Z"
+generated_at: "2026-03-30T02:24:56.078Z"
 ---
 
 # § 7124. Cross references

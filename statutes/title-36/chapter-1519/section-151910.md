@@ -3,9 +3,9 @@ title: "Section 151910 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "151910"
 chapter: 1519
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 151910"
-generated_at: "2026-03-30T02:22:53.996Z"
+generated_at: "2026-03-30T02:25:08.446Z"
 ---
 
 # § 151910. Liability for acts of officers and agents

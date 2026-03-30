@@ -3,9 +3,9 @@ title: "Section 1022 - Summary plan description"
 usc_title: 29
 usc_section: "1022"
 chapter: 18
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "29 U.S.C. § 1022"
-generated_at: "2026-03-30T02:22:19.145Z"
+generated_at: "2026-03-30T02:24:47.339Z"
 ---
 
 # § 1022. Summary plan description

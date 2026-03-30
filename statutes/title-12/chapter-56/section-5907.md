@@ -1,0 +1,45 @@
+---
+title: "Section 5907 - Anti-money laundering protections"
+usc_title: 12
+usc_section: "5907"
+chapter: 56
+current_through: "PL 119-31"
+classification: "12 U.S.C. § 5907"
+generated_at: "2026-03-30T02:24:16.133Z"
+---
+
+# § 5907. Anti-money laundering protections
+
+- **(a)**
+  - **(1)** A payment stablecoin that is issued by a foreign payment stablecoin issuer may not be publicly offered, sold, or otherwise made available for trading in the United States by a digital asset service provider unless the foreign payment stablecoin issuer has the technological capability to comply and complies with the terms of any lawful order.
+  - **(2)**
+    - **(A)** The Secretary of the Treasury shall have the authority to designate any foreign issuer that publicly offers, sells, or otherwise makes available a payment stablecoin in violation of paragraph (1) as noncompliant.
+    - **(B)** Not later than 30 days after the Department of the Treasury has identified a foreign payment stablecoin issuer of any payment stablecoin trading in the United States that is in violation of paragraph (1), the Secretary of the Treasury, in coordination with relevant Federal agencies, may, pursuant to the authority under subparagraph (A), designate the foreign payment stablecoin issuer as noncompliant and notify the foreign payment stablecoin issuer in writing of the designation.
+  - **(3)** A determination of noncompliance under this subsection is subject to judicial review in the United States Court of Appeals for the District of Columbia Circuit.
+- **(b)**
+  - **(1)** If a foreign payment stablecoin issuer does not come into compliance with the lawful order within 30 days from the date of issuance of the written notice described in subsection (a), except as provided in subsection (c), the Secretary of the Treasury shall—
+    - **(A)** publish the determination of noncompliance in the Federal Register, including a statement on the failure of the foreign payment stablecoin issuer to comply with the lawful order after the written notice; and
+    - **(B)** issue a notification in the Federal Register prohibiting digital asset service providers from facilitating secondary trading of payment stablecoins issued by the foreign payment stablecoin issuer in the United States.
+  - **(2)** The prohibition on facilitation of secondary trading described in paragraph (1) shall become effective on the date that is 30 days after the date of issue of notification of the prohibition in the Federal Register.
+  - **(3)**
+    - **(A)** The prohibition on facilitation of secondary trading described in paragraph (1)(B) shall expire upon the Secretary of the Treasury’s determination that the foreign payment stablecoin issuer is no longer noncompliant.
+    - **(B)** Consistent with section 5913 of this title , the Secretary of the Treasury shall specify the criteria that a noncompliant foreign issuer must meet for the Secretary of the Treasury to determine that the foreign payment stablecoin issuer is no longer noncompliant.
+    - **(C)** Upon a determination under subparagraph (A), the Secretary of the Treasury shall publish the determination in the Federal Register, including a statement detailing how the foreign payment stablecoin issuer has met the criteria described in subparagraph (B).
+  - **(4)** The Secretary of the Treasury may impose a civil monetary penalty as follows:
+    - **(A)** Any digital asset service provider that knowingly violates a prohibition under paragraph (1)(B) shall be subject to a civil monetary penalty of not more than $100,000 per violation per day.
+    - **(B)** Any foreign payment stablecoin issuer that knowingly continues to publicly offer a payment stablecoin in the United States after publication of the determination of noncompliance under paragraph (1)(A) shall be subject to a civil monetary penalty of not more than $1,000,000 per violation per day, and the Secretary of the Treasury may seek an injunction in a district court of the United States to bar the foreign payment stablecoin issuer from engaging in financial transactions in the United States or with United States persons.
+    - **(C)** For purposes of determining the number of violations for which to impose a penalty under subparagraph (A) or (B), separate acts of noncompliance are a single violation when the acts are the result of a common or substantially overlapping originating cause. Notwithstanding the foregoing, the Secretary of Treasury may determine that multiple acts of noncompliance constitute separate violations if such acts were the result of gross negligence, a reckless disregard for, or a pattern of indifference to, money laundering, financing of terrorism, or sanctions evasion requirements.
+    - **(D)** The Secretary of the Treasury may commence a civil action against a foreign payment stablecoin issuer in a district court of the United States to—
+      - **(i)** recover a civil monetary penalty assessed under subparagraph (A) or (B);
+      - **(ii)** seek an injunction to bar the foreign payment stablecoin issuer from engaging in financial transactions in the United States or with United States persons; or
+      - **(iii)** seek an injunction to stop a digital asset service provider from offering on the platform of the digital asset service provider payment stablecoins issued by the foreign payment stablecoin issuer.
+- **(c)**
+  - **(1)** The Secretary of the Treasury may offer a waiver, general license, or specific license to any United States person engaging in secondary trading described in subsection (b)(1)(B) on a case-by-case basis if the Secretary determines that—
+    - **(A)** prohibiting secondary trading would adversely affect the financial system of the United States; or
+    - **(B)** the foreign payment stablecoin issuer is taking tangible steps to remedy the failure to comply with the lawful order that resulted in the noncompliance determination under subsection (a).
+  - **(2)** The Secretary of the Treasury, in consultation with the Director of National Intelligence and the Secretary of State, may waive the application of the secondary trading restrictions under subsection (b)(1)(B) if the Secretary of the Treasury determines that the waiver is in the national security interest of the United States.
+  - **(3)** The head of a department or agency may waive the application of this section with respect to—
+    - **(A)** activities subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.), or any authorized intelligence activities of the United States; or
+    - **(B)** activities necessary to carry out or assist law enforcement activity of the United States.
+  - **(4)** Not later than 7 days after issuing a waiver or a license under paragraph (1), (2), or (3), the Secretary of the Treasury shall submit to the chairs and ranking members of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, a report, which may include a classified annex, if applicable, including the text of the waiver or license, as well as the facts and circumstances justifying the waiver determination, and provide a briefing on the report.
+- **(d)** Nothing in this chapter shall be construed as altering the existing authority of the Secretary of the Treasury to block, restrict, or limit transactions involving payment stablecoins that reference or are denominated in United States dollars that are subject to the jurisdiction of the United States.

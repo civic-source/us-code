@@ -3,9 +3,9 @@ title: "Section 5502 - Missile defense agency 1 1 So in original. Probably shoul
 usc_title: 10
 usc_section: "5502"
 chapter: 551
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 5502"
-generated_at: "2026-03-30T02:21:23.856Z"
+generated_at: "2026-03-30T02:24:07.304Z"
 ---
 
 # § 5502. Missile defense agency 1 1 So in original. Probably should be capitalized as “Missile Defense Agency”.

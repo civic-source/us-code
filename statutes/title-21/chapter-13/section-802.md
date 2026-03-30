@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T02:22:11.862Z"
+generated_at: "2026-03-30T02:24:39.619Z"
 ---
 
 # § 802. Definitions
@@ -319,3 +319,4 @@ As used in this subchapter:
   - **(59)** The term “serious violent felony” means—
     - **(A)** an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
     - **(B)** any offense that would be a felony violation of section 113 of title 18 , if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
+  - **(60)** The term “fentanyl-related substance” has the meaning given the term in subsection (e)(2) of schedule I of section 812(c) of this title .

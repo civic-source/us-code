@@ -3,9 +3,9 @@ title: "Section 4980B - Failure to satisfy continuation coverage requirements of
 usc_title: 26
 usc_section: "4980B"
 chapter: 43
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 4980B"
-generated_at: "2026-03-30T02:22:26.042Z"
+generated_at: "2026-03-30T02:24:56.025Z"
 ---
 
 # § 4980B. Failure to satisfy continuation coverage requirements of group health plans

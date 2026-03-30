@@ -3,9 +3,9 @@ title: "Section 8628 - Merchant vessels: supplies"
 usc_title: 10
 usc_section: "8628"
 chapter: 861
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 8628"
-generated_at: "2026-03-30T02:21:23.874Z"
+generated_at: "2026-03-30T02:24:07.324Z"
 ---
 
 # § 8628. Merchant vessels: supplies

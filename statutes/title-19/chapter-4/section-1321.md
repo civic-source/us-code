@@ -3,9 +3,9 @@ title: "Section 1321 - Administrative exemptions"
 usc_title: 19
 usc_section: "1321"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "19 U.S.C. § 1321"
-generated_at: "2026-03-30T02:21:48.790Z"
+generated_at: "2026-03-30T02:24:30.121Z"
 ---
 
 # § 1321. Administrative exemptions
@@ -18,3 +18,4 @@ generated_at: "2026-03-30T02:21:48.790Z"
     - **(C)** $800 in any other case.
   - **(3)** waive the collection of duties, fees, taxes, and interest due on entered merchandise when such duties, fees, taxes, or interest are less than $20 or such greater amount as may be specified by the Secretary by regulation.
 - **(b)** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+- **(c)** Any person who enters, introduces, facilitates, or attempts to introduce an article into the United States using the privilege of this section, the importation of which violates any other provision of United States customs law, shall be assessed, in addition to any other penalty permitted by law, a civil penalty of up to $5,000 for the first violation and up to $10,000 for each subsequent violation.

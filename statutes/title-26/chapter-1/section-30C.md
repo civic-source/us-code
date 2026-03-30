@@ -3,9 +3,9 @@ title: "Section 30C - Alternative fuel vehicle refueling property credit"
 usc_title: 26
 usc_section: "30C"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 30C"
-generated_at: "2026-03-30T02:22:25.804Z"
+generated_at: "2026-03-30T02:24:55.815Z"
 ---
 
 # § 30C. Alternative fuel vehicle refueling property credit
@@ -23,6 +23,7 @@ generated_at: "2026-03-30T02:22:25.804Z"
         - **(I)** which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
         - **(II)** at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
       - **(iii)** Electricity.
+      - **(iv)** Any transportation fuel (as defined in section 45Z(d)(5)).
   - **(2)** Property shall not fail to be treated as qualified alternative fuel vehicle refueling property solely because such property—
     - **(A)** is capable of charging the battery of a motor vehicle propelled by electricity, and
     - **(B)** allows discharging electricity from such battery to an electric load external to such motor vehicle.
@@ -66,4 +67,4 @@ generated_at: "2026-03-30T02:22:25.804Z"
   - **(3)** Rules similar to the rules of section 45(b)(8) shall apply.
   - **(4)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(h)** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
-- **(i)** This section shall not apply to any property placed in service after December 31, 2032 .
+- **(i)** This section shall not apply to any property placed in service after June 30, 2026 .

@@ -3,9 +3,9 @@ title: "Section 53724 - Rights to secured property"
 usc_title: 46
 usc_section: "53724"
 chapter: 537
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "46 U.S.C. § 53724"
-generated_at: "2026-03-30T02:23:27.979Z"
+generated_at: "2026-03-30T02:25:49.384Z"
 ---
 
 # § 53724. Rights to secured property

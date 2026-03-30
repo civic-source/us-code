@@ -3,9 +3,9 @@ title: "Section 2033 - Election of survivor benefits for certain former spouses 
 usc_title: 50
 usc_section: "2033"
 chapter: 38
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 2033"
-generated_at: "2026-03-30T02:23:33.178Z"
+generated_at: "2026-03-30T02:26:05.729Z"
 ---
 
 # § 2033. Election of survivor benefits for certain former spouses divorced as of November 15, 1982

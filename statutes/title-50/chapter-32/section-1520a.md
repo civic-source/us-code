@@ -3,9 +3,9 @@ title: "Section 1520a - Restrictions on use of human subjects for testing of che
 usc_title: 50
 usc_section: "1520a"
 chapter: 32
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 1520a"
-generated_at: "2026-03-30T02:23:33.164Z"
+generated_at: "2026-03-30T02:26:05.714Z"
 ---
 
 # § 1520a. Restrictions on use of human subjects for testing of chemical or biological agents

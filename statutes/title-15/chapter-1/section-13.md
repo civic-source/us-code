@@ -3,9 +3,9 @@ title: "Section 13 - Discrimination in price, services, or facilities"
 usc_title: 15
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 13"
-generated_at: "2026-03-30T02:21:36.687Z"
+generated_at: "2026-03-30T02:24:19.867Z"
 ---
 
 # § 13. Discrimination in price, services, or facilities

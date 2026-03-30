@@ -3,9 +3,9 @@ title: "Section 1261 - Repealed. Pub. L. 105–178, title I, § 1112(c) , June 9
 usc_title: 16
 usc_section: "1261"
 chapter: 27
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 1261"
-generated_at: "2026-03-30T02:22:05.226Z"
+generated_at: "2026-03-30T02:24:34.168Z"
 ---
 
 # § 1261. Repealed. Pub. L. 105–178, title I, § 1112(c) , June 9, 1998 , 112 Stat. 151

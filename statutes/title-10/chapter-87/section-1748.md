@@ -3,9 +3,9 @@ title: "Section 1748 - Fulfillment standards for acquisition workforce training"
 usc_title: 10
 usc_section: "1748"
 chapter: 87
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 1748"
-generated_at: "2026-03-30T02:21:23.777Z"
+generated_at: "2026-03-30T02:24:07.226Z"
 ---
 
 # § 1748. Fulfillment standards for acquisition workforce training

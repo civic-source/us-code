@@ -3,9 +3,9 @@ title: "Section 703 - Miscellaneous authorities respecting employees"
 usc_title: 38
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 703"
-generated_at: "2026-03-30T02:23:01.366Z"
+generated_at: "2026-03-30T02:25:14.721Z"
 ---
 
 # § 703. Miscellaneous authorities respecting employees

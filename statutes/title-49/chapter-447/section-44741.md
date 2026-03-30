@@ -3,9 +3,9 @@ title: "Section 44741 - Approval of organization designation authorization unit 
 usc_title: 49
 usc_section: "44741"
 chapter: 447
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 44741"
-generated_at: "2026-03-30T02:23:31.336Z"
+generated_at: "2026-03-30T02:26:04.129Z"
 ---
 
 # § 44741. Approval of organization designation authorization unit members

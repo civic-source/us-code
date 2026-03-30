@@ -3,9 +3,9 @@ title: "Section 2077 - Taxation"
 usc_title: 12
 usc_section: "2077"
 chapter: 23
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 2077"
-generated_at: "2026-03-30T02:21:39.386Z"
+generated_at: "2026-03-30T02:24:16.044Z"
 ---
 
 # § 2077. Taxation

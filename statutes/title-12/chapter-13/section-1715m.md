@@ -3,9 +3,9 @@ title: "Section 1715m - Repealed. Pub. L. 110–289, div. B, title I, § 2120(a)
 usc_title: 12
 usc_section: "1715m"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 1715m"
-generated_at: "2026-03-30T02:21:39.330Z"
+generated_at: "2026-03-30T02:24:15.984Z"
 ---
 
 # § 1715m. Repealed. Pub. L. 110–289, div. B, title I, § 2120(a)(5) , July 30, 2008 , 122 Stat. 2835

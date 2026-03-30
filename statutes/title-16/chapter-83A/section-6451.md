@@ -3,9 +3,9 @@ title: "Section 6451 - Establishment"
 usc_title: 16
 usc_section: "6451"
 chapter: 83
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 6451"
-generated_at: "2026-03-30T02:22:05.306Z"
+generated_at: "2026-03-30T02:24:34.255Z"
 ---
 
 # § 6451. Establishment

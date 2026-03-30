@@ -3,9 +3,9 @@ title: "Section 291 - Purchase of claims for fees by court officials"
 usc_title: 18
 usc_section: "291"
 chapter: 15
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 291"
-generated_at: "2026-03-30T02:21:44.493Z"
+generated_at: "2026-03-30T02:24:24.097Z"
 ---
 
 # § 291. Purchase of claims for fees by court officials

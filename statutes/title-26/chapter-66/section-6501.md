@@ -3,9 +3,9 @@ title: "Section 6501 - Limitations on assessment and collection"
 usc_title: 26
 usc_section: "6501"
 chapter: 66
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 6501"
-generated_at: "2026-03-30T02:22:26.093Z"
+generated_at: "2026-03-30T02:24:56.067Z"
 ---
 
 # § 6501. Limitations on assessment and collection
@@ -83,4 +83,5 @@ generated_at: "2026-03-30T02:22:26.093Z"
     - **(D)** In the case of any tax imposed by section 4973 that is attributable to acquiring property for less than fair market value, subparagraph (A) shall not apply.
 - **(m)** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(f)(6), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 - **(n)** In the case of any assessable payment under section 4980H, the period for assessment shall expire at the end of the 6-year period beginning on the due date for filing the return under section 6056 (or, if later, the date such return was filed) for the calendar year with respect to which such payment is determined.
-- **(o)** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
+- **(o)** In the case of a deficiency attributable to an error with respect to the determination under section 7701(a)(52) for any taxable year, such deficiency may be assessed at any time within 6 years after the return for such year was filed.
+- **(p)** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).

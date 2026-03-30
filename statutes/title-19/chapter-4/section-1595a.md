@@ -3,9 +3,9 @@ title: "Section 1595a - Aiding unlawful importation"
 usc_title: 19
 usc_section: "1595a"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "19 U.S.C. § 1595a"
-generated_at: "2026-03-30T02:21:48.808Z"
+generated_at: "2026-03-30T02:24:30.134Z"
 ---
 
 # § 1595a. Aiding unlawful importation

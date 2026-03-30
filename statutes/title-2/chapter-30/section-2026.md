@@ -3,9 +3,9 @@ title: "Section 2026 - Senate Staff Health and Fitness Facility Revolving Fund"
 usc_title: 2
 usc_section: "2026"
 chapter: 30
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "2 U.S.C. § 2026"
-generated_at: "2026-03-30T02:20:43.920Z"
+generated_at: "2026-03-30T02:23:50.739Z"
 ---
 
 # § 2026. Senate Staff Health and Fitness Facility Revolving Fund

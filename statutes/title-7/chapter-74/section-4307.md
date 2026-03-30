@@ -3,9 +3,9 @@ title: "Section 4307 - Permissive terms in orders"
 usc_title: 7
 usc_section: "4307"
 chapter: 74
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 4307"
-generated_at: "2026-03-30T02:21:01.759Z"
+generated_at: "2026-03-30T02:24:01.005Z"
 ---
 
 # § 4307. Permissive terms in orders

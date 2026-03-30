@@ -3,9 +3,9 @@ title: "Section 8220 - Dental services: responsibilities of senior dental office
 usc_title: 10
 usc_section: "8220"
 chapter: 825
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 8220"
-generated_at: "2026-03-30T02:21:23.868Z"
+generated_at: "2026-03-30T02:24:07.317Z"
 ---
 
 # § 8220. Dental services: responsibilities of senior dental officer

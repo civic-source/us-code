@@ -3,9 +3,9 @@ title: "Section 277 - Reimbursement"
 usc_title: 10
 usc_section: "277"
 chapter: 15
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 277"
-generated_at: "2026-03-30T02:21:23.706Z"
+generated_at: "2026-03-30T02:24:07.143Z"
 ---
 
 # § 277. Reimbursement

@@ -3,9 +3,9 @@ title: "Section 8565 - Exceptions; waivers; implementation"
 usc_title: 22
 usc_section: "8565"
 chapter: 92
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 8565"
-generated_at: "2026-03-30T02:22:14.547Z"
+generated_at: "2026-03-30T02:24:42.798Z"
 ---
 
 # § 8565. Exceptions; waivers; implementation

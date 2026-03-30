@@ -3,9 +3,9 @@ title: "Section 79e - Authorization of appropriations"
 usc_title: 20
 usc_section: "79e"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 79e"
-generated_at: "2026-03-30T02:21:47.195Z"
+generated_at: "2026-03-30T02:24:28.318Z"
 ---
 
 # § 79e. Authorization of appropriations

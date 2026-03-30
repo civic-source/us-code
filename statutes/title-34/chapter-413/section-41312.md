@@ -3,9 +3,9 @@ title: "Section 41312 - Report on female genital mutilation"
 usc_title: 34
 usc_section: "41312"
 chapter: 413
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "34 U.S.C. § 41312"
-generated_at: "2026-03-30T02:22:29.579Z"
+generated_at: "2026-03-30T02:25:04.838Z"
 ---
 
 # § 41312. Report on female genital mutilation

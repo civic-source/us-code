@@ -3,14 +3,14 @@ title: "Section 9017 - Agriculture risk coverage"
 usc_title: 7
 usc_section: "9017"
 chapter: 115
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 9017"
-generated_at: "2026-03-30T02:21:01.856Z"
+generated_at: "2026-03-30T02:24:01.085Z"
 ---
 
 # § 9017. Agriculture risk coverage
 
-- **(a)** If all of the producers on a farm make the election under section 9015(a) of this title to obtain agriculture risk coverage, the Secretary shall make agriculture risk coverage payments (beginning with the 2019 crop year, based on the physical location of the farm) to producers on the farm if the Secretary determines that, for any of the 2014 through 2018 crop years or the 2019 through 2023 crop years, as applicable—
+- **(a)** If all of the producers on a farm make the election under section 9015(a) of this title to obtain agriculture risk coverage, the Secretary shall make agriculture risk coverage payments (beginning with the 2019 crop year, based on the physical location of the farm) to producers on the farm if the Secretary determines that, for any of the 2014 through 2018 crop years or the 2019 through 2031 crop years, as applicable—
   - **(1)** the actual crop revenue determined under subsection (b) for the crop year; is less than
   - **(2)** the agriculture risk coverage guarantee determined under subsection (c) for the crop year.
 - **(b)**
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T02:21:01.856Z"
     - **(B)** The sum of the amounts determined under subparagraph (A) for all covered commodities on such farms.
     - **(C)** The quotient obtained by dividing the amount determined under subparagraph (B) by the total planted acres of all covered commodities on such farms.
 - **(c)**
-  - **(1)** The agriculture risk coverage guarantee for a crop year for a covered commodity shall equal 86 percent of the benchmark revenue.
+  - **(1)** The agriculture risk coverage guarantee for a crop year for a covered commodity shall equal 86 percent of the benchmark revenue for each of the 2014 through 2024 crop years and 90 percent of the benchmark revenue for each of the 2025 through 2031 crop years.
   - **(2)** In the case of county coverage, the benchmark revenue shall be the product obtained by multiplying—
     - **(A)** subject to paragraphs (4) and (5), the average historical county yield as determined by the Secretary for the most recent 5 crop years, excluding each of the crop years with the highest and lowest yields; and
     - **(B)** subject to paragraph (6), the national average market price received by producers during the 12-month marketing year for the most recent 5 crop years, excluding each of the crop years with the highest and lowest prices.
@@ -37,22 +37,24 @@ generated_at: "2026-03-30T02:21:01.856Z"
       - **(i)** subject to paragraph (4), the yield per planted acre for the covered commodity on such farms, as determined by the Secretary; by
       - **(ii)** subject to paragraph (6), the national average market price received by producers during the 12-month marketing year.
     - **(B)** For each covered commodity, the average of the revenues determined under subparagraph (A) for the most recent 5 crop years, excluding each of the crop years with the highest and lowest revenues.
-    - **(C)** For each of the 2014 through 2023 crop years, the sum of the amounts determined under subparagraph (B) for all covered commodities on such farms, but adjusted to reflect the ratio between the total number of acres planted on such farms to a covered commodity and the total acres of all covered commodities planted on such farms.
+    - **(C)** For each of the 2014 through 2031 crop years, the sum of the amounts determined under subparagraph (B) for all covered commodities on such farms, but adjusted to reflect the ratio between the total number of acres planted on such farms to a covered commodity and the total acres of all covered commodities planted on such farms.
   - **(4)**
     - **(A)** Effective for the 2014 through 2018 crop years, if the yield per planted acre for the covered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 70 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 70 percent of the transitional yield.
-    - **(B)** Effective for the 2019 through 2023 crop years, if the yield per planted acre for the covered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 80 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 80 percent of the transitional yield.
+    - **(B)** Effective for the 2019 through 2031 crop years, if the yield per planted acre for the covered commodity or historical county yield per planted acre for the covered commodity for any of the 5 most recent crop years, as determined by the Secretary, is less than 80 percent of the transitional yield, as determined by the Secretary, the amounts used for any of those years in paragraph (2)(A) or (3)(A)(i) shall be 80 percent of the transitional yield.
   - **(5)** The Secretary shall calculate and use a trend-adjusted yield factor to adjust the yield determined under paragraph (2)(A) and subsection (b)(1)(A), taking into consideration, but not exceeding, the trend-adjusted yield factor that is used to increase yield history under the endorsement under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) for that crop and county.
   - **(6)**
     - **(A)** For the 2014 through 2018 crop years, if the national average market price received by producers during the 12-month marketing year for any of the 5 most recent crop years is lower than the reference price for the covered commodity, the Secretary shall use the reference price for any of those years for the amounts in paragraph (2)(B) or (3)(A)(ii).
-    - **(B)** For the 2019 through 2023 crop years, if the national average market price received by producers during the 12-month marketing year for any of the 5 most recent crop years is lower than the effective reference price for the covered commodity, the Secretary shall use the effective reference price for any of those years for the amounts in paragraph (2)(B) or (3)(A)(ii).
+    - **(B)** For the 2019 through 2031 crop years, if the national average market price received by producers during the 12-month marketing year for any of the 5 most recent crop years is lower than the effective reference price for the covered commodity, the Secretary shall use the effective reference price for any of those years for the amounts in paragraph (2)(B) or (3)(A)(ii).
 - **(d)**
   - **(1)** The payment rate for a covered commodity, in the case of county coverage, or a farm, in the case of individual coverage, shall be equal to the lesser of—
     - **(A)** the amount that—
       - **(i)** the agriculture risk coverage guarantee for the crop year applicable under subsection (c); exceeds
       - **(ii)** the actual crop revenue for the crop year applicable under subsection (b); or
-    - **(B)** 10 percent of the benchmark revenue for the crop year applicable under subsection (c).
+    - **(B)**
+      - **(i)** for each of the 2014 through 2024 crop years, 10 percent of the benchmark revenue for the crop year applicable under subsection (c); and
+      - **(ii)** for each of the 2025 through 2031 crop years, 12 percent of the benchmark revenue for the crop year applicable under subsection (c).
   - **(2)** Not later than 30 days after the end of each applicable 12-month marketing year for each covered commodity, the Secretary shall publish the payment rate determined under paragraph (1) for each county.
-- **(e)** If agriculture risk coverage payments are required to be paid for any of the 2014 through 2023 crop years, the amount of the agriculture risk coverage payment for the crop year shall be determined by multiplying—
+- **(e)** If agriculture risk coverage payments are required to be paid for any of the 2014 through 2031 crop years, the amount of the agriculture risk coverage payment for the crop year shall be determined by multiplying—
   - **(1)** the payment rate determined under subsection (d); and
   - **(2)** the payment acres determined under section 9014 of this title .
 - **(f)** If the Secretary determines that agriculture risk coverage payments are required to be provided for the covered commodity, payments shall be made beginning October 1, or as soon as practicable thereafter, after the end of the applicable marketing year for the covered commodity.
@@ -63,7 +65,7 @@ generated_at: "2026-03-30T02:21:01.856Z"
   - **(4)** effective for the 2014 through 2018 crop years, in the case of county coverage, assign an actual or benchmark county yield for each planted acre for the crop year for the covered commodity on the basis of the yield history of representative farms in the State, region, or crop reporting district, as determined by the Secretary, if—
     - **(A)** the Secretary cannot establish the actual or benchmark county yield for each planted acre for a crop year for a covered commodity in the county in accordance with subsection (b)(1) or (c)(2); or
     - **(B)** the yield determined under subsection (b)(1) or (c)(2) is an unrepresentative average yield for the county, as determined by the Secretary; and
-  - **(5)** effective for the 2019 through 2023 crop years, in the case of county coverage, assign an actual or benchmark county yield for each planted acre for the crop year for the covered commodity—
+  - **(5)** effective for the 2019 through 2031 crop years, in the case of county coverage, assign an actual or benchmark county yield for each planted acre for the crop year for the covered commodity—
     - **(A)** for a county for which county data collected by the Risk Management Agency are sufficient for the Secretary to offer a county-wide insurance product, using the actual average county yield determined by the Risk Management Agency; or
     - **(B)** for a county not described in subparagraph (A), using—
       - **(i)** other sources of yield information, as determined by the Secretary; or
@@ -95,4 +97,4 @@ generated_at: "2026-03-30T02:21:01.856Z"
   - **(4)** The Secretary shall—
     - **(A)** limit the number of counties that may be divided into administrative units under paragraph (3) to 25 counties; and
     - **(B)** give preference to the division of counties that have greater variation in climate, soils, and expected productivity between the proposed administrative units.
-  - **(5)** For purposes of providing agriculture risk coverage payments in the case of county coverage, the Secretary shall consider an administrative unit elected under paragraph (3) to be a county for the 2019 through 2023 crop years.
+  - **(5)** For purposes of providing agriculture risk coverage payments in the case of county coverage, the Secretary shall consider an administrative unit elected under paragraph (3) to be a county for the 2019 through 2031 crop years.

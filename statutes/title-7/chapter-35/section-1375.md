@@ -3,9 +3,9 @@ title: "Section 1375 - Regulations"
 usc_title: 7
 usc_section: "1375"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1375"
-generated_at: "2026-03-30T02:21:01.648Z"
+generated_at: "2026-03-30T02:24:00.910Z"
 ---
 
 # § 1375. Regulations

@@ -3,9 +3,9 @@ title: "Section 1030a - Eliminating unnecessary plan requirements related to une
 usc_title: 29
 usc_section: "1030a"
 chapter: 18
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "29 U.S.C. § 1030a"
-generated_at: "2026-03-30T02:22:19.147Z"
+generated_at: "2026-03-30T02:24:47.340Z"
 ---
 
 # § 1030a. Eliminating unnecessary plan requirements related to unenrolled participants

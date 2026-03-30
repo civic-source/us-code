@@ -3,9 +3,9 @@ title: "Section 375d - Disposition of estates of intestate members of Cherokee, 
 usc_title: 25
 usc_section: "375d"
 chapter: 10
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "25 U.S.C. § 375d"
-generated_at: "2026-03-30T02:22:09.962Z"
+generated_at: "2026-03-30T02:24:38.401Z"
 ---
 
 # § 375d. Disposition of estates of intestate members of Cherokee, Chickasaw, Choctaw, and Seminole Nations of Oklahoma dying without heirs

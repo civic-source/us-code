@@ -3,9 +3,9 @@ title: "Section 44718 - Structures interfering with air commerce or national sec
 usc_title: 49
 usc_section: "44718"
 chapter: 447
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 44718"
-generated_at: "2026-03-30T02:23:31.334Z"
+generated_at: "2026-03-30T02:26:04.128Z"
 ---
 
 # § 44718. Structures interfering with air commerce or national security

@@ -3,9 +3,9 @@ title: "Section 4325 - Major weapon systems: assessment, management, and control
 usc_title: 10
 usc_section: "4325"
 chapter: 323
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4325"
-generated_at: "2026-03-30T02:21:23.844Z"
+generated_at: "2026-03-30T02:24:07.294Z"
 ---
 
 # § 4325. Major weapon systems: assessment, management, and control of operating and support costs

@@ -3,9 +3,9 @@ title: "Section 1824 - Repealed. Pub. L. 101–380, title II, § 2004 , Aug. 18,
 usc_title: 43
 usc_section: "1824"
 chapter: 36
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 1824"
-generated_at: "2026-03-30T02:23:04.414Z"
+generated_at: "2026-03-30T02:25:17.838Z"
 ---
 
 # §§ 1811 to 1824. Repealed. Pub. L. 101–380, title II, § 2004 , Aug. 18, 1990 , 104 Stat. 507

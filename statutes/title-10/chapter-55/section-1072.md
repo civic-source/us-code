@@ -3,9 +3,9 @@ title: "Section 1072 - Definitions"
 usc_title: 10
 usc_section: "1072"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 1072"
-generated_at: "2026-03-30T02:21:23.746Z"
+generated_at: "2026-03-30T02:24:07.189Z"
 ---
 
 # § 1072. Definitions

@@ -3,9 +3,9 @@ title: "Section 56309 - Emergency foreign vessel acquisition; purchase or requis
 usc_title: 46
 usc_section: "56309"
 chapter: 563
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "46 U.S.C. § 56309"
-generated_at: "2026-03-30T02:23:27.984Z"
+generated_at: "2026-03-30T02:25:49.387Z"
 ---
 
 # § 56309. Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters

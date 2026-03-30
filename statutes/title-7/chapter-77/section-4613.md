@@ -3,9 +3,9 @@ title: "Section 4613 - Implementation of amendments made by Agricultural Researc
 usc_title: 7
 usc_section: "4613"
 chapter: 77
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 4613"
-generated_at: "2026-03-30T02:21:01.764Z"
+generated_at: "2026-03-30T02:24:01.009Z"
 ---
 
 # § 4613. Implementation of amendments made by Agricultural Research, Extension, and Education Reform Act of 1998

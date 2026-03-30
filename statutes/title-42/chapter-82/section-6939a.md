@@ -3,9 +3,9 @@ title: "Section 6939a - Exposure information and health assessments"
 usc_title: 42
 usc_section: "6939a"
 chapter: 82
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6939a"
-generated_at: "2026-03-30T02:23:23.061Z"
+generated_at: "2026-03-30T02:25:37.463Z"
 ---
 
 # § 6939a. Exposure information and health assessments

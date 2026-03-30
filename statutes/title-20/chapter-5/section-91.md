@@ -3,9 +3,9 @@ title: "Section 91 - Literary and scientific collections accessible to investiga
 usc_title: 20
 usc_section: "91"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 91"
-generated_at: "2026-03-30T02:21:47.200Z"
+generated_at: "2026-03-30T02:24:28.321Z"
 ---
 
 # § 91. Literary and scientific collections accessible to investigators and students

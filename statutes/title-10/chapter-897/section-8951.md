@@ -3,9 +3,9 @@ title: "Section 8951 - Safety and effectiveness information; hydrographic inform
 usc_title: 10
 usc_section: "8951"
 chapter: 897
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 8951"
-generated_at: "2026-03-30T02:21:23.881Z"
+generated_at: "2026-03-30T02:24:07.330Z"
 ---
 
 # § 8951. Safety and effectiveness information; hydrographic information

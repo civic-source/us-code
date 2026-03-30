@@ -3,9 +3,9 @@ title: "Section 162 - Trade or business expenses"
 usc_title: 26
 usc_section: "162"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 162"
-generated_at: "2026-03-30T02:22:25.851Z"
+generated_at: "2026-03-30T02:24:55.861Z"
 ---
 
 # § 162. Trade or business expenses
@@ -169,6 +169,19 @@ generated_at: "2026-03-30T02:22:25.851Z"
       - **(ii)** who provides services for or on behalf of such covered health insurance provider during such taxable year.
     - **(G)** Rules similar to the rules of subparagraphs (D) and (E) of paragraph (4) shall apply for purposes of this paragraph.
     - **(H)** The Secretary may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this paragraph.
+  - **(7)**
+    - **(A)** In the case of any publicly held corporation which is a member of a controlled group—
+      - **(i)** paragraph (1) shall be applied by substituting “specified covered employee” for “covered employee”, and
+      - **(ii)** if any person which is a member of such controlled group (other than such publicly held corporation) provides applicable employee remuneration to an individual who is a specified covered employee of such controlled group and the aggregate amount described in subparagraph (B)(ii) with respect to such specified covered employee exceeds $1,000,000—
+        - **(I)** paragraph (1) shall apply to such person with respect to such remuneration, and
+        - **(II)** paragraph (1) shall apply to such publicly held corporation and to each such related person by substituting “the allocable limitation amount” for “$1,000,000”.
+    - **(B)** For purposes of this paragraph, the term “allocable limitation amount” means, with respect to any member of the controlled group referred to in subparagraph (A) with respect to any specified covered employee of such controlled group, the amount which bears the same ratio to $1,000,000 as—
+      - **(i)** the amount of applicable employee remuneration provided by such member with respect to such specified covered employee, bears to
+      - **(ii)** the aggregate amount of applicable employee remuneration provided by all such members with respect to such specified covered employee.
+    - **(C)** For purposes of this paragraph, the term “specified covered employee” means, with respect to any controlled group—
+      - **(i)** any employee described in subparagraph (A), (B), or (D) of paragraph (3), with respect to the publicly held corporation which is a member of such controlled group, and
+      - **(ii)** any employee who would be described in subparagraph (C) of paragraph (3) if such subparagraph were applied by taking into account the employees of all members of the controlled group.
+    - **(D)** For purposes of this paragraph, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414.
 - **(n)**
   - **(1)** No deduction shall be allowed under this chapter to an employer for any amount paid or incurred in connection with a group health plan if the plan does not reimburse for inpatient hospital care services provided in the State of New York—
     - **(A)** except as provided in subparagraphs (B) and (C), at the same rate as licensed commercial insurers are required to reimburse hospitals for such services when such reimbursement is not through such a plan,

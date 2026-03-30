@@ -3,9 +3,9 @@ title: "Section 12373 - Conference administration"
 usc_title: 42
 usc_section: "12373"
 chapter: 127
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 12373"
-generated_at: "2026-03-30T02:23:23.188Z"
+generated_at: "2026-03-30T02:25:37.590Z"
 ---
 
 # § 12373. Conference administration

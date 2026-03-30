@@ -3,9 +3,9 @@ title: "Section 2426 - Congressional oversight of special access programs"
 usc_title: 50
 usc_section: "2426"
 chapter: 41
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 2426"
-generated_at: "2026-03-30T02:23:33.183Z"
+generated_at: "2026-03-30T02:26:05.734Z"
 ---
 
 # § 2426. Congressional oversight of special access programs

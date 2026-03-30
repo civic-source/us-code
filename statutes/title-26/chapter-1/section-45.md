@@ -3,9 +3,9 @@ title: "Section 45 - Electricity produced from certain renewable resources, etc.
 usc_title: 26
 usc_section: "45"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 45"
-generated_at: "2026-03-30T02:22:25.814Z"
+generated_at: "2026-03-30T02:24:55.825Z"
 ---
 
 # § 45. Electricity produced from certain renewable resources, etc.
@@ -107,10 +107,18 @@ generated_at: "2026-03-30T02:22:25.814Z"
       - **(i)** a brownfield site (as defined in subparagraphs (A), (B), and (D)(ii)(III) of section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601(39) )),
       - **(ii)** a metropolitan statistical area or non-metropolitan statistical area which—
         - **(I)** has (or, at any time during the period beginning after December 31, 2009 , had) 0.17 percent or greater direct employment or 25 percent or greater local tax revenues related to the extraction, processing, transport, or storage of coal, oil, or natural gas (as determined by the Secretary), and
-        - **(II)** has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary), or
+        - **(II)** has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary),
       - **(iii)** a census tract—
         - **(I)** in which—
-        - **(II)** which is directly adjoining to any census tract described in subclause (I).
+        - **(II)** which is directly adjoining to any census tract described in subclause (I), or
+      - **(iv)** for purposes of any qualified facility which is an advanced nuclear facility, a metropolitan statistical area which has (or, at any time during the period beginning after December 31, 2009 , had) 0.17 percent or greater direct employment related to the advancement of nuclear power, including employment related to—
+        - **(I)** an advanced nuclear facility,
+        - **(II)** advanced nuclear power research and development,
+        - **(III)** nuclear fuel cycle research, development, or production, including mining, enrichment, manufacture, storage, disposal, or recycling of nuclear fuel, and
+        - **(IV)** the manufacturing or assembly of components used in an advanced nuclear facility.
+    - **(C)**
+      - **(i)** Subject to clause (ii), for purposes of subparagraph (B)(iv), the term “advanced nuclear facility” means any nuclear facility the reactor design for which is approved in the manner described in section 45J(d)(2).
+      - **(ii)** For purposes of clause (i), a facility shall be deemed to have a reactor design which is approved in the manner described in section 45J(d)(2) if the Nuclear Regulatory Commission has authorized construction and issued a site-specific construction permit or combined license with respect to such facility (without regard to whether the reactor design was approved after December 31, 1993 ).
   - **(12)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(c)** For purposes of this section:
   - **(1)** The term “qualified energy resources” means—

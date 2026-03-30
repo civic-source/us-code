@@ -3,9 +3,9 @@ title: "Section 7621 - Employment effects"
 usc_title: 42
 usc_section: "7621"
 chapter: 85
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 7621"
-generated_at: "2026-03-30T02:23:23.101Z"
+generated_at: "2026-03-30T02:25:37.505Z"
 ---
 
 # § 7621. Employment effects

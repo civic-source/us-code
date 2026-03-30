@@ -3,9 +3,9 @@ title: "Section 831f - Control of plants and property vested in Corporation; tra
 usc_title: 16
 usc_section: "831f"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 831f"
-generated_at: "2026-03-30T02:22:05.208Z"
+generated_at: "2026-03-30T02:24:34.147Z"
 ---
 
 # § 831f. Control of plants and property vested in Corporation; transfer of other property to Corporation

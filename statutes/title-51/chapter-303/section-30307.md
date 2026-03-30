@@ -3,9 +3,9 @@ title: "Section 30307 - Requirement for independent cost analysis"
 usc_title: 51
 usc_section: "30307"
 chapter: 303
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "51 U.S.C. § 30307"
-generated_at: "2026-03-30T02:23:35.336Z"
+generated_at: "2026-03-30T02:26:07.782Z"
 ---
 
 # § 30307. Requirement for independent cost analysis

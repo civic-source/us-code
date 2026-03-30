@@ -3,9 +3,9 @@ title: "Section 84 - Lending limits"
 usc_title: 12
 usc_section: "84"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 84"
-generated_at: "2026-03-30T02:21:39.288Z"
+generated_at: "2026-03-30T02:24:15.936Z"
 ---
 
 # § 84. Lending limits

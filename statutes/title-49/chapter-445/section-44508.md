@@ -3,9 +3,9 @@ title: "Section 44508 - Research advisory committee"
 usc_title: 49
 usc_section: "44508"
 chapter: 445
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 44508"
-generated_at: "2026-03-30T02:23:31.331Z"
+generated_at: "2026-03-30T02:26:04.125Z"
 ---
 
 # § 44508. Research advisory committee

@@ -3,16 +3,16 @@ title: "Section 8754a - Strategy and grant program to promote internet freedom i
 usc_title: 22
 usc_section: "8754a"
 chapter: 94
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 8754a"
-generated_at: "2026-03-30T02:22:14.549Z"
+generated_at: "2026-03-30T02:24:42.800Z"
 ---
 
 # § 8754a. Strategy and grant program to promote internet freedom in Iran
 
 - **(a)**
   - **(1)** Not later than 90 days after December 23, 2024 , the Secretary of State, in consultation with the heads of other Federal agencies, as appropriate, shall develop a strategy to support and enhance access to information by civil society in Iran.
-  - **(2)** The strategy required in subparagraph (A) shall include the following elements:
+  - **(2)** The strategy required in subparagraph (A) 1 1 So in original. Probably should be “paragraph (1)”. shall include the following elements:
     - **(A)** An evaluation of the use of virtual private networks by civil society in Iran.
     - **(B)** An assessment of the level of internet access for Iranians who do not use virtual private networks, including levels of reliable connectivity, bandwidth, and coverage, as well as censorship, surveillance, and other limitations on internet access.
     - **(C)** A strategy to increase the accessibility of virtual private networks in Iran.

@@ -3,9 +3,9 @@ title: "Section 1597 - Agent’s acts as binding principal"
 usc_title: 7
 usc_section: "1597"
 chapter: 37
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1597"
-generated_at: "2026-03-30T02:21:01.665Z"
+generated_at: "2026-03-30T02:24:00.928Z"
 ---
 
 # § 1597. Agent’s acts as binding principal

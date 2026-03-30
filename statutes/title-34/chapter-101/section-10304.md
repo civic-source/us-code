@@ -3,9 +3,9 @@ title: "Section 10304 - Regulations"
 usc_title: 34
 usc_section: "10304"
 chapter: 101
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "34 U.S.C. § 10304"
-generated_at: "2026-03-30T02:22:29.525Z"
+generated_at: "2026-03-30T02:25:04.778Z"
 ---
 
 # § 10304. Regulations

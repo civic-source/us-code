@@ -3,9 +3,9 @@ title: "Section 1473 - Definitions"
 usc_title: 26
 usc_section: "1473"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 1473"
-generated_at: "2026-03-30T02:22:25.999Z"
+generated_at: "2026-03-30T02:24:55.990Z"
 ---
 
 # § 1473. Definitions

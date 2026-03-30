@@ -3,9 +3,9 @@ title: "Section 47121 - Records and audits"
 usc_title: 49
 usc_section: "47121"
 chapter: 471
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 47121"
-generated_at: "2026-03-30T02:23:31.351Z"
+generated_at: "2026-03-30T02:26:04.147Z"
 ---
 
 # § 47121. Records and audits

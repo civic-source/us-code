@@ -3,9 +3,9 @@ title: "Section 45B - Credit for portion of employer social security taxes paid 
 usc_title: 26
 usc_section: "45B"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 45B"
-generated_at: "2026-03-30T02:22:25.816Z"
+generated_at: "2026-03-30T02:24:55.827Z"
 ---
 
 # § 45B. Credit for portion of employer social security taxes paid with respect to employee cash tips
@@ -14,7 +14,13 @@ generated_at: "2026-03-30T02:22:25.816Z"
 - **(b)** For purposes of this section—
   - **(1)** The term “excess employer social security tax” means any tax paid by an employer under section 3111 with respect to tips received by an employee during any month, to the extent such tips—
     - **(A)** are deemed to have been paid by the employer to the employee pursuant to section 3121(q) (without regard to whether such tips are reported under section 6053), and
-    - **(B)** exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (as in effect on January 1, 2007 , and determined without regard to section 3(m) of such Act).
-  - **(2)** In applying paragraph (1), there shall be taken into account only tips received from customers in connection with the providing, delivering, or serving of food or beverages for consumption if the tipping of employees delivering or serving food or beverages by customers is customary.
+    - **(B)** exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (determined without regard to section 3(m) of such Act, and in the case of food or beverage establishments, as in effect on January 1, 2007 ).
+  - **(2)** In applying paragraph (1) there shall be taken into account only tips received from customers or clients in connection with the following services:
+    - **(A)** The providing, delivering, or serving of food or beverages for consumption, if the tipping of employees delivering or serving food or beverages by customers is customary.
+    - **(B)** The providing of any of the following services to a customer or client if the tipping of employees providing such services is customary:
+      - **(i)** Barbering and hair care.
+      - **(ii)** Nail care.
+      - **(iii)** Esthetics.
+      - **(iv)** Body and spa treatments.
 - **(c)** No deduction shall be allowed under this chapter for any amount taken into account in determining the credit under this section.
 - **(d)** This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.

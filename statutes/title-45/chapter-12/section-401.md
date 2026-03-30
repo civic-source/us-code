@@ -3,9 +3,9 @@ title: "Section 401 - Payment of compensation; eligibility; duration; maximum ag
 usc_title: 45
 usc_section: "401"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "45 U.S.C. § 401"
-generated_at: "2026-03-30T02:23:04.781Z"
+generated_at: "2026-03-30T02:25:18.131Z"
 ---
 
 # § 401. Payment of compensation; eligibility; duration; maximum aggregate amount payable; duplication of benefits; application of railroad unemployment insurance provisions

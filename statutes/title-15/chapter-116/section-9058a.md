@@ -3,9 +3,9 @@ title: "Section 9058a - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058a"
 chapter: 116
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 9058a"
-generated_at: "2026-03-30T02:21:36.916Z"
+generated_at: "2026-03-30T02:24:20.152Z"
 ---
 
 # § 9058a. Emergency rental assistance
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T02:21:36.916Z"
       - **(ii)** the amount referred to in paragraph (3) of section 801(c) of such title shall be deemed to be the amount appropriated under paragraph (1) of subsection (a) of this Act 1 1 So in original. Probably should be “this section”. that remains after the application of paragraph (2) of such subsection;
       - **(iii)** section 801(c) of title 42 shall be applied—
         - **(I)** by substituting “1 of the 50 States or the District of Columbia” for “1 of the 50 States” each place it appears;
-        - **(II)** in paragraph (2)(A), by substituting “ $200,000,000” for “ $1,250,000,000”;
+        - **(II)** in paragraph (2)(A), by substituting “$200,000,000” for “$1,250,000,000”;
         - **(III)** in paragraph (2)(B), by substituting “each of the 50 States and District of Columbia” for “each of the 50 States”;
         - **(IV)** in paragraph (4), by substituting “excluding the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa” for “excluding the District of Columbia and territories specified in subsection (a)(2)(A)”; and
         - **(V)** without regard to paragraph (6);

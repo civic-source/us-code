@@ -3,9 +3,9 @@ title: "Section 3402 - Congressional declaration of purpose"
 usc_title: 20
 usc_section: "3402"
 chapter: 48
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 3402"
-generated_at: "2026-03-30T02:21:47.294Z"
+generated_at: "2026-03-30T02:24:28.406Z"
 ---
 
 # § 3402. Congressional declaration of purpose

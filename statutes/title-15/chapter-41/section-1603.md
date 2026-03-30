@@ -3,9 +3,9 @@ title: "Section 1603 - Exempted transactions"
 usc_title: 15
 usc_section: "1603"
 chapter: 41
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 1603"
-generated_at: "2026-03-30T02:21:36.807Z"
+generated_at: "2026-03-30T02:24:20.019Z"
 ---
 
 # § 1603. Exempted transactions

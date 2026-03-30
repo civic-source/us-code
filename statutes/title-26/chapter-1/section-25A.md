@@ -3,9 +3,9 @@ title: "Section 25A - American Opportunity and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T02:22:25.801Z"
+generated_at: "2026-03-30T02:24:55.813Z"
 ---
 
 # § 25A. American Opportunity and Lifetime Learning credits
@@ -59,11 +59,11 @@ generated_at: "2026-03-30T02:22:25.801Z"
     - **(B)** which is eligible to participate in a program under title IV of such Act.
 - **(g)**
   - **(1)**
-    - **(A)** No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
-    - **(B)**
-      - **(i)** The requirements of subparagraph (A) shall not be treated as met with respect to the American Opportunity Tax Credit unless the individual’s taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
-      - **(ii)** No American Opportunity Tax Credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.
-      - **(iii)** No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
+    - **(A)** No credit shall be allowed under subsection (a) to an individual unless the individual includes on the return of tax for the taxable year—
+      - **(i)** such individual’s social security number, and
+      - **(ii)** in the case of a credit with respect to the qualified tuition and related expenses of an individual other than the taxpayer or the taxpayer’s spouse, the name and social security number of such individual.
+    - **(B)** No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which the taxpayer paid qualified tuition and related expenses taken into account under this section on the return of tax for the taxable year.
+    - **(C)** For purposes of this paragraph, the term “social security number” shall have the meaning given such term in section 24(h)(7).
   - **(2)** The amount of qualified tuition and related expenses otherwise taken into account under subsection (a) with respect to an individual for an academic period shall be reduced (before the application of subsections (b), (c), and (d)) by the sum of any amounts paid for the benefit of such individual which are allocable to such period as—
     - **(A)** a qualified scholarship which is excludable from gross income under section 117,
     - **(B)** an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code, or under chapter 1606 of title 10, United States Code, and

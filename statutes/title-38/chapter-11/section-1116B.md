@@ -3,9 +3,9 @@ title: "Section 1116B - Presumption of herbicide exposure for certain veterans w
 usc_title: 38
 usc_section: "1116B"
 chapter: 11
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 1116B"
-generated_at: "2026-03-30T02:23:01.368Z"
+generated_at: "2026-03-30T02:25:14.724Z"
 ---
 
 # § 1116B. Presumption of herbicide exposure for certain veterans who served in Korea

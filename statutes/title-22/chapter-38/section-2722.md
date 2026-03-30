@@ -3,9 +3,9 @@ title: "Section 2722 - International meetings"
 usc_title: 22
 usc_section: "2722"
 chapter: 38
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 2722"
-generated_at: "2026-03-30T02:22:14.463Z"
+generated_at: "2026-03-30T02:24:42.716Z"
 ---
 
 # § 2722. International meetings

@@ -3,9 +3,9 @@ title: "Section 1606 - Budget requests by President for Forest Service activitie
 usc_title: 16
 usc_section: "1606"
 chapter: 36
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 1606"
-generated_at: "2026-03-30T02:22:05.250Z"
+generated_at: "2026-03-30T02:24:34.193Z"
 ---
 
 # § 1606. Budget requests by President for Forest Service activities

@@ -3,9 +3,9 @@ title: "Section 25B - Elective deferrals and IRA contributions by certain indivi
 usc_title: 26
 usc_section: "25B"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 25B"
-generated_at: "2026-03-30T02:22:25.802Z"
+generated_at: "2026-03-30T02:24:55.813Z"
 ---
 
 # § 25B. Elective deferrals and IRA contributions by certain individuals
@@ -30,12 +30,13 @@ generated_at: "2026-03-30T02:22:25.802Z"
     - **(B)** any individual who is a student (as defined in section 152(f)(2)).
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified retirement savings contributions” means, with respect to any taxable year, the sum of—
-    - **(A)** the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
-    - **(B)** the amount of—
-      - **(i)** any elective deferrals (as defined in section 402(g)(3)) of such individual, and
-      - **(ii)** any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A),
-    - **(C)** the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
-    - **(D)** the amount of contributions made before January 1, 2026 , by such individual to the ABLE account (within the meaning of section 529A) of which such individual is the designated beneficiary.
+    - **(A)** the amount of contributions made by the eligible individual during such taxable year to the ABLE account (within the meaning of section 529A) of which such individual is the designated beneficiary, and
+    - **(B)** in the case of any taxable year beginning before January 1, 2027 —
+      - **(i)** the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
+      - **(ii)** the amount of—
+        - **(I)** any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+        - **(II)** any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
+      - **(iii)** the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
   - **(2)**
     - **(A)** The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
     - **(B)** For purposes of subparagraph (A), the testing period, with respect to a taxable year, is the period which includes—

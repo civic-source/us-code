@@ -3,9 +3,9 @@ title: "Section 6905 - Service on board of directors of Union Station Redevelopm
 usc_title: 40
 usc_section: "6905"
 chapter: 69
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "40 U.S.C. § 6905"
-generated_at: "2026-03-30T02:22:55.018Z"
+generated_at: "2026-03-30T02:25:07.378Z"
 ---
 
 # § 6905. Service on board of directors of Union Station Redevelopment Corporation

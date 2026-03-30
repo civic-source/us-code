@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T02:22:25.900Z"
+generated_at: "2026-03-30T02:24:55.905Z"
 ---
 
 # § 414. Definitions and special rules
@@ -351,15 +351,22 @@ generated_at: "2026-03-30T02:22:25.900Z"
         - **(I)** the participant’s compensation (as defined in section 415(c)(3)) for the year, over
         - **(II)** any other elective deferrals of the participant for such year which are made without regard to this subsection.
     - **(B)** For purposes of this paragraph—
-      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
-      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), except as provided in clause (iii), the applicable dollar amount is $2,500.
+      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000 (the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year).
+      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), except as provided in clause (iii), the applicable dollar amount is $2,500 (the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year).
       - **(iii)** In the case of an applicable employer plan—
         - **(I)** which is maintained by an eligible employer described in section 408(p)(2)(E)(i)(I), or
         - **(II)** to which an election under section 408(p)(2)(E)(i)(II) applies for the year (including a plan described in section 401(k)(11) which is maintained by an eligible employer described in section 408(p)(2)(E)(i)(II) and to which such election applies by reason of subparagraphs (B)(i)(I) and (E) of section 401(k)(11)),
     - **(C)**
-      - **(i)** In the case of a year beginning after December 31, 2006 , the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+      - **(i)** In the case of a year beginning after December 31, 2006 , the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500. In the case of a year beginning after December 31, 2025 , the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) and (ii) of subparagraph (E) for increases in the cost-of-living at the same time and in the same manner as adjustments under the preceding sentence; except that the base period taken into account shall be the calendar quarter beginning July 1, 2024 .
       - **(ii)** In the case of a year beginning after December 31, 2024 , the Secretary shall adjust annually the dollar amount described in subparagraph (B)(iii) in the manner provided under clause (i) of this subparagraph, except that the base period taken into account shall be the calendar quarter beginning July 1, 2023 .
     - **(D)** For purposes of this paragraph, plans described in clauses (i), (ii), and (iv) of paragraph (6)(A) that are maintained by the same employer (as determined under subsection (b), (c), (m) or ( o )) shall be treated as a single plan, and plans described in clause (iii) of paragraph (6)(A) that are maintained by the same employer shall be treated as a single plan.
+    - **(E)** For purposes of subparagraph (B), the adjusted dollar amount is—
+      - **(i)** in the case of clause (i) of subparagraph (B), the greater of—
+        - **(I)** $10,000, or
+        - **(II)** an amount equal to 150 percent of the dollar amount which would be in effect under such clause for 2024 for eligible participants not described in the parenthetical in such clause, or
+      - **(ii)** in the case of clause (ii) of subparagraph (B), the greater of—
+        - **(I)** $5,000, or
+        - **(II)** an amount equal to equal to 150 percent of the dollar amount which would be in effect under such clause for 2025 for eligible participants not described in the parenthetical in such clause.
   - **(3)** In the case of any contribution to a plan under paragraph (1)—
     - **(A)** such contribution shall not, with respect to the year in which the contribution is made—
       - **(i)** be subject to any otherwise applicable limitation contained in sections 401(a)(30), 402(h), 403(b), 408, 415(c), and 457(b)(2) (determined without regard to section 457(b)(3)), or

@@ -3,9 +3,9 @@ title: "Section 5804 - Continuity of contract and safe harbor"
 usc_title: 12
 usc_section: "5804"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 5804"
-generated_at: "2026-03-30T02:21:39.463Z"
+generated_at: "2026-03-30T02:24:16.130Z"
 ---
 
 # § 5804. Continuity of contract and safe harbor
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T02:21:39.463Z"
   - **(2)** a reasonable, comparable, or analogous rate, index, or term for LIBOR;
   - **(3)** a replacement that is based on a methodology or information that is similar or comparable to LIBOR;
   - **(4)** substantial performance by any person of any right or obligation relating to or based on LIBOR; and
-  - **(5)** a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act ( 15 U.S.C. 1601 note) 1 1 So in original. Probably should be “( 15 U.S.C. 1601 et seq.)” and regulations promulgated under that division. 2 2 So in original. Probably should be “that Act.”
+  - **(5)** a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act ( 15 U.S.C. 1601 note) 1 1 So in original. Probably should be “( 15 U.S.C. 1601 et seq.)”. and regulations promulgated under that division. 2 2 So in original. Probably should be “that Act.”
 - **(b)** Neither the selection or use of a Board-selected benchmark replacement as a benchmark replacement nor the determination, implementation, or performance of benchmark replacement conforming changes under section 5803 of this title may—
   - **(1)** be deemed to impair or affect the right of any person to receive a payment, or to affect the amount or timing of such payment, under any LIBOR contract; or
   - **(2)** have the effect of—

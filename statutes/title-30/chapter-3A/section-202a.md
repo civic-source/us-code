@@ -3,9 +3,9 @@ title: "Section 202a - Consolidation of coal leases into logical mining unit"
 usc_title: 30
 usc_section: "202a"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "30 U.S.C. § 202a"
-generated_at: "2026-03-30T02:22:17.063Z"
+generated_at: "2026-03-30T02:24:45.482Z"
 ---
 
 # § 202a. Consolidation of coal leases into logical mining unit

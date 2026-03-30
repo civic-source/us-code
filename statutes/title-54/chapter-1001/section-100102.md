@@ -3,9 +3,9 @@ title: "Section 100102 - Definitions"
 usc_title: 54
 usc_section: "100102"
 chapter: 1001
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "54 U.S.C. § 100102"
-generated_at: "2026-03-30T02:23:35.710Z"
+generated_at: "2026-03-30T02:26:08.121Z"
 ---
 
 # § 100102. Definitions

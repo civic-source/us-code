@@ -3,9 +3,9 @@ title: "Section 18999 - Programs to address the STEM workforce"
 usc_title: 42
 usc_section: "18999"
 chapter: 163
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 18999"
-generated_at: "2026-03-30T02:23:23.301Z"
+generated_at: "2026-03-30T02:25:37.700Z"
 ---
 
 # § 18999. Programs to address the STEM workforce

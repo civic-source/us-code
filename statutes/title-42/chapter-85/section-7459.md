@@ -3,9 +3,9 @@ title: "Section 7459 - Repealed. Pub. L. 101–549, title VI, § 601 , Nov. 15, 
 usc_title: 42
 usc_section: "7459"
 chapter: 85
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 7459"
-generated_at: "2026-03-30T02:23:23.087Z"
+generated_at: "2026-03-30T02:25:37.490Z"
 ---
 
 # §§ 7450 to 7459. Repealed. Pub. L. 101–549, title VI, § 601 , Nov. 15, 1990 , 104 Stat. 2648

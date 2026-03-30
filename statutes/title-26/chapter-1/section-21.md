@@ -3,16 +3,18 @@ title: "Section 21 - Expenses for household and dependent care services necessar
 usc_title: 26
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 21"
-generated_at: "2026-03-30T02:22:25.800Z"
+generated_at: "2026-03-30T02:24:55.811Z"
 ---
 
 # § 21. Expenses for household and dependent care services necessary for gainful employment
 
 - **(a)**
   - **(1)** In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
-  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means 35 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year exceeds $15,000.
+  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means 50 percent—
+    - **(A)** reduced (but not below 35 percent) by 1 percentage point for each $2,000 or fraction thereof by which the taxpayer’s adjusted gross income for the taxable year exceeds $15,000, and
+    - **(B)** further reduced (but not below 20 percent) by 1 percentage point for each $2,000 ($4,000 in the case of a joint return) or fraction thereof by which the taxpayer’s adjusted gross income for the taxable year exceeds $75,000 ($150,000 in the case of a joint return).
 - **(b)** For purposes of this section—
   - **(1)** The term “qualifying individual” means—
     - **(A)** a dependent of the taxpayer (as defined in section 152(a)(1)) who has not attained age 13,

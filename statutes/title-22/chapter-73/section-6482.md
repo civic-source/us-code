@@ -3,9 +3,9 @@ title: "Section 6482 - Voluntary codes of conduct for United States institutions
 usc_title: 22
 usc_section: "6482"
 chapter: 73
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 6482"
-generated_at: "2026-03-30T02:22:14.520Z"
+generated_at: "2026-03-30T02:24:42.771Z"
 ---
 
 # § 6482. Voluntary codes of conduct for United States institutions of higher education outside the United States

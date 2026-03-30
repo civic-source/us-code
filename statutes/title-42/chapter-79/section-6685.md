@@ -3,9 +3,9 @@ title: "Section 6685 - Omitted"
 usc_title: 42
 usc_section: "6685"
 chapter: 79
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6685"
-generated_at: "2026-03-30T02:23:23.053Z"
+generated_at: "2026-03-30T02:25:37.455Z"
 ---
 
 # §§ 6681 to 6685. Omitted

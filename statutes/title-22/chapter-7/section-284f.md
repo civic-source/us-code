@@ -3,9 +3,9 @@ title: "Section 284f - Jurisdiction and venue of actions"
 usc_title: 22
 usc_section: "284f"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 284f"
-generated_at: "2026-03-30T02:22:14.392Z"
+generated_at: "2026-03-30T02:24:42.646Z"
 ---
 
 # § 284f. Jurisdiction and venue of actions

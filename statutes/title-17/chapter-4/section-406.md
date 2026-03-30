@@ -3,9 +3,9 @@ title: "Section 406 - Notice of copyright: Error in name or date on certain copi
 usc_title: 17
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "17 U.S.C. § 406"
-generated_at: "2026-03-30T02:21:41.791Z"
+generated_at: "2026-03-30T02:24:24.617Z"
 ---
 
 # § 406. Notice of copyright: Error in name or date on certain copies and phonorecords

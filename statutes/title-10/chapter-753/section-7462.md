@@ -3,9 +3,9 @@ title: "Section 7462 - Support of athletic programs"
 usc_title: 10
 usc_section: "7462"
 chapter: 753
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 7462"
-generated_at: "2026-03-30T02:21:23.862Z"
+generated_at: "2026-03-30T02:24:07.310Z"
 ---
 
 # § 7462. Support of athletic programs

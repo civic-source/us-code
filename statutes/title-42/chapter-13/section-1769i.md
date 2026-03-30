@@ -3,9 +3,9 @@ title: "Section 1769i - Program evaluation"
 usc_title: 42
 usc_section: "1769i"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 1769i"
-generated_at: "2026-03-30T02:23:22.910Z"
+generated_at: "2026-03-30T02:25:37.316Z"
 ---
 
 # § 1769i. Program evaluation

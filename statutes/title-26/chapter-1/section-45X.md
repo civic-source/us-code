@@ -3,9 +3,9 @@ title: "Section 45X - Advanced manufacturing production credit"
 usc_title: 26
 usc_section: "45X"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 45X"
-generated_at: "2026-03-30T02:22:25.821Z"
+generated_at: "2026-03-30T02:24:55.832Z"
 ---
 
 # § 45X. Advanced manufacturing production credit
@@ -48,7 +48,7 @@ generated_at: "2026-03-30T02:22:25.821Z"
     - **(L)** in the case of a battery module, an amount equal to the product of—
       - **(i)** $10 (or, in the case of a battery module which does not use battery cells, $45), multiplied by
       - **(ii)** subject to paragraph (4), the capacity of such battery module (expressed on a kilowatt-hour basis), and
-    - **(M)** in the case of any applicable critical mineral, an amount equal to 10 percent of the costs incurred by the taxpayer with respect to production of such mineral.
+    - **(M)** in the case of any applicable critical mineral, an amount equal to 10 percent (2.5 percent in the case of metallurgical coal) of the costs incurred by the taxpayer with respect to production of such mineral.
   - **(2)**
     - **(A)** For purposes of paragraph (1)(F)(ii), the applicable amount with respect to any wind energy component shall be—
       - **(i)** in the case of a blade, 2 cents,
@@ -64,7 +64,7 @@ generated_at: "2026-03-30T02:22:25.821Z"
       - **(iv)** in the case of a residential inverter, 6.5 cents, and
       - **(v)** in the case of a microinverter or a distributed wind inverter, 11 cents.
   - **(3)**
-    - **(A)** Subject to subparagraph (C), in the case of any eligible component sold after December 31, 2029 , the amount determined under this subsection with respect to such component shall be equal to the product of—
+    - **(A)** Subject to subparagraphs (C) and (D), in the case of any eligible component sold after December 31, 2029 , the amount determined under this subsection with respect to such component shall be equal to the product of—
       - **(i)** the amount determined under paragraph (1) with respect to such component, as determined without regard to this paragraph, multiplied by
       - **(ii)** the phase out percentage under subparagraph (B).
     - **(B)** The phase out percentage under this subparagraph is equal to—
@@ -72,7 +72,17 @@ generated_at: "2026-03-30T02:22:25.821Z"
       - **(ii)** in the case of an eligible component sold during calendar year 2031, 50 percent,
       - **(iii)** in the case of an eligible component sold during calendar year 2032, 25 percent,
       - **(iv)** in the case of an eligible component sold after December 31, 2032 , 0 percent.
-    - **(C)** For purposes of determining the amount under this subsection with respect to any applicable critical mineral, this paragraph shall not apply.
+    - **(C)**
+      - **(i)** In the case of any applicable critical mineral (other than metallurgical coal) produced after December 31, 2030 , the amount determined under this subsection with respect to such mineral shall be equal to the product of—
+        - **(I)** the amount determined under paragraph (1) with respect to such mineral, as determined without regard to this subparagraph, multiplied by
+        - **(II)** the phase out percentage under clause (ii).
+      - **(ii)** The phase out percentage under this clause is equal to—
+        - **(I)** in the case of any applicable critical mineral produced during calendar year 2031, 75 percent,
+        - **(II)** in the case of any applicable critical mineral produced during calendar year 2032, 50 percent,
+        - **(III)** in the case of any applicable critical mineral produced during calendar year 2033, 25 percent, and
+        - **(IV)** in the case of any applicable critical mineral produced after December 31, 2033 , 0 percent.
+    - **(D)** This section shall not apply to any wind energy component produced and sold after December 31, 2027 .
+    - **(E)** This section shall not apply to any metallurgical coal produced after December 31, 2029 .
   - **(4)**
     - **(A)** For purposes of subparagraph (K)(ii) or (L)(ii) of paragraph (1), the capacity determined under either subparagraph with respect to a battery cell or battery module shall not exceed a capacity-to-power ratio of 100:1.
     - **(B)** For purposes of this paragraph, the term “capacity-to-power ratio” means, with respect to a battery cell or battery module, the ratio of the capacity of such cell or module to the maximum discharge amount of such cell or module.
@@ -85,6 +95,7 @@ generated_at: "2026-03-30T02:22:25.821Z"
       - **(iv)** any qualifying battery component, and
       - **(v)** any applicable critical mineral.
     - **(B)** The term “eligible component” shall not include any property which is produced at a facility if the basis of any property which is part of such facility is taken into account for purposes of the credit allowed under section 48C after the date of the enactment of this section.
+    - **(C)** In the case of taxable years beginning after the date of enactment of this subparagraph, the term “eligible component” shall not include any property which includes any material assistance from a prohibited foreign entity (as defined in section 7701(a)(52), as applied by substituting “used in a product sold before January 1, 2027 ” for “used in a product sold before January 1, 2030 ” in subparagraph (D)(iv)(II)(bb) thereof).
   - **(2)**
     - **(A)** The term “inverter” means an end product which is suitable to convert direct current electricity from 1 or more solar modules or certified distributed wind energy systems into alternating current electricity.
     - **(B)** The term “central inverter” means an inverter which is suitable for large utility-scale systems and has a capacity which is greater than 1,000 kilowatts (expressed on a per alternating current watt basis).
@@ -163,7 +174,8 @@ generated_at: "2026-03-30T02:22:25.821Z"
         - **(III)** capable of storing at least 12 watt-hours of energy.
       - **(iii)** The term “battery module” means a module—
         - **(I)**
-        - **(II)** with an aggregate capacity of not less than 7 kilowatt-hours (or, in the case of a module for a hydrogen fuel cell vehicle, not less than 1 kilowatt-hour).
+        - **(II)** with an aggregate capacity of not less than 7 kilowatt-hours (or, in the case of a module for a hydrogen fuel cell vehicle, not less than 1 kilowatt-hour), and
+        - **(III)** which is comprised of all other essential equipment needed for battery functionality, such as current collector assemblies and voltage sense harnesses, or any other essential energy collection equipment.
   - **(6)** The term “applicable critical mineral” means any of the following:
     - **(A)** Aluminum which is—
       - **(i)** converted from bauxite to a minimum purity of 99 percent alumina by mass, or
@@ -214,28 +226,29 @@ generated_at: "2026-03-30T02:22:25.821Z"
     - **(Q)** Manganese which is—
       - **(i)** converted to manganese sulphate, or
       - **(ii)** purified to a minimum purity of 99.7 percent manganese by mass.
-    - **(R)** Neodymium which is—
+    - **(R)** Metallurgical coal which is suitable for use in the production of steel (within the meaning of the notice published by the Department of Energy entitled “Critical Material List; Addition of Metallurgical Coal Used for Steelmaking” (90 Fed. Reg. 22711 ( May 29, 2025 ))), regardless of whether such production occurs inside or outside of the United States.
+    - **(S)** Neodymium which is—
       - **(i)** converted to neodymium-praseodymium oxide which is purified to a minimum purity of 99 percent neodymium-praseodymium oxide by mass,
       - **(ii)** converted to neodymium oxide which is purified to a minimum purity of 99.5 percent neodymium oxide by mass 2 2 So in original. Probably should be followed by “, or”.
       - **(iii)** purified to a minimum purity of 99.9 percent neodymium by mass.
-    - **(S)** Nickel which is—
+    - **(T)** Nickel which is—
       - **(i)** converted to nickel sulphate, or
       - **(ii)** purified to a minimum purity of 99 percent nickel by mass.
-    - **(T)** Niobium which is—
+    - **(U)** Niobium which is—
       - **(i)** converted to ferronibium, or
       - **(ii)** purified to a minimum purity of 99 percent niobium by mass.
-    - **(U)** Tellurium which is—
+    - **(V)** Tellurium which is—
       - **(i)** converted to cadmium telluride, or
       - **(ii)** purified to a minimum purity of 99 percent tellurium by mass.
-    - **(V)** Tin which is purified to low alpha emitting tin which—
+    - **(W)** Tin which is purified to low alpha emitting tin which—
       - **(i)** has a purity of greater than 99.99 percent by mass, and
       - **(ii)** possesses an alpha emission rate of not greater than 0.01 counts per hour per centimeter square.
-    - **(W)** Tungsten which is converted to ammonium paratungstate or ferrotungsten.
-    - **(X)** Vanadium which is converted to ferrovanadium or vanadium pentoxide.
-    - **(Y)** Yttrium which is—
+    - **(X)** Tungsten which is converted to ammonium paratungstate or ferrotungsten.
+    - **(Y)** Vanadium which is converted to ferrovanadium or vanadium pentoxide.
+    - **(Z)** Yttrium which is—
       - **(i)** converted to yttrium oxide which is purified to a minimum purity of 99.999 percent yttrium oxide by mass, or
       - **(ii)** purified to a minimum purity of 99.9 percent yttrium by mass.
-    - **(Z)** Any of the following minerals, provided that such mineral is purified to a minimum purity of 99 percent by mass:
+    - **(AA)** Any of the following minerals, provided that such mineral is purified to a minimum purity of 99 percent by mass:
       - **(i)** Arsenic.
       - **(ii)** Bismuth.
       - **(iii)** Erbium.
@@ -268,3 +281,8 @@ generated_at: "2026-03-30T02:22:25.821Z"
     - **(B)** a possession of the United States (within the meaning of section 638(2)).
   - **(3)** Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
   - **(4)** For purposes of this section, a person shall be treated as having sold an eligible component to an unrelated person if such component is integrated, incorporated, or assembled into another eligible component which is sold to an unrelated person.
+  - **(4)**
+    - **(A)** No credit shall be determined under subsection (a) for any taxable year if the taxpayer is—
+      - **(i)** a specified foreign entity (as defined in section 7701(a)(51)(B)), or
+      - **(ii)** a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
+    - **(B)** In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to an eligible component described in subsection (c)(1).

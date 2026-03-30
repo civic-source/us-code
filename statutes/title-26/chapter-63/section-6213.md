@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-30T02:22:26.079Z"
+generated_at: "2026-03-30T02:24:56.056Z"
 ---
 
 # § 6213. Restrictions applicable to deficiencies; petition to Tax Court
@@ -40,8 +40,8 @@ generated_at: "2026-03-30T02:22:26.079Z"
     - **(F)** an omission of a correct taxpayer identification number required under section 32 (relating to the earned income credit) to be included on a return,
     - **(G)** an entry on a return claiming the credit under section 32 with respect to net earnings from self-employment described in section 32(c)(2)(A) to the extent the tax imposed by section 1401 (relating to self-employment tax) on such net earnings has not been paid,
     - **(H)** an omission of a correct TIN required under section 21 (relating to expenses for household and dependent care services necessary for gainful employment) or section 151 (relating to allowance of deductions for personal exemptions),
-    - **(I)** an omission of a correct TIN required under section 24(e) (relating to child tax credit) to be included on a return,
-    - **(J)** an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
+    - **(I)** an omission of a correct TIN required under section 24 (relating to child tax credit) to be included on a return,
+    - **(J)** an omission of a correct social security number or employer identification number required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
     - **(K)** an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
     - **(L)** the inclusion on a return of a TIN required to be included on the return under section 21, 24, 32, 6428, or 6428A if—
       - **(i)** such TIN is of an individual whose age affects the amount of the credit under such section, and
@@ -52,13 +52,18 @@ generated_at: "2026-03-30T02:22:26.079Z"
     - **(P)** an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof,
     - **(Q)** an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A),
     - **(R)** an omission of information or documentation required under section 25C(b)(6)(B) (relating to home energy audits) to be included on a return,
-    - **(S)** 1 1 See Applicability of Amendment note below. an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
+    - **(S)** an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
     - **(T)** an omission of a correct vehicle identification number required under section 30D(f)(9) (relating to credit for new clean vehicles) to be included on a return,
-    - **(U)** an omission of a correct vehicle identification number required under section 25E(d) (relating to credit for previously-owned clean vehicles) to be included on a return, and
-    - **(V)** an omission of a correct vehicle identification number required under section 45W(e) (relating to commercial clean vehicle credit) to be included on a return.
+    - **(U)** an omission of a correct vehicle identification number required under section 25E(d) (relating to credit for previously-owned clean vehicles) to be included on a return,
+    - **(V)** an omission of a correct vehicle identification number required under section 45W(e) (relating to commercial clean vehicle credit) to be included on a return,
+    - **(W)** an omission of a correct social security number required under section 151(d)(5)(C) (relating to deduction for seniors),
+    - **(X)** an omission of a correct social security number required under section 108(f)(5)(C) (relating to discharges on account of death or disability),
+    - **(Y)** an omission of a correct social security number required under section 224(e) (relating to deduction for qualified tips),
+    - **(Z)** an omission of a correct social security number required under section 225(d) (relating to deduction for qualified overtime), and
+    - **(AA)** an omission of a correct social security number required under section 6434(e)(1) (relating to the Trump accounts contribution pilot program).
 - **(h)**
   - **(1)** For assessment as if a mathematical error on the return, in the case of erroneous claims for income tax prepayment credits, see section 6201(a)(3).
   - **(2)** For assessments without regard to restrictions imposed by this section in the case of—
     - **(A)** Recovery of foreign income taxes, see section 905(c).
     - **(B)** Recovery of foreign estate tax, see section 2016.
-  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 2 2 See References in Text note below.
+  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 1 1 See References in Text note below.

@@ -3,9 +3,9 @@ title: "Section 6707 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6707"
 chapter: 86
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 6707"
-generated_at: "2026-03-30T02:22:05.312Z"
+generated_at: "2026-03-30T02:24:34.262Z"
 ---
 
 # § 6707. Authorization of appropriations

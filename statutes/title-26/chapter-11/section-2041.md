@@ -3,9 +3,9 @@ title: "Section 2041 - Powers of appointment"
 usc_title: 26
 usc_section: "2041"
 chapter: 11
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 2041"
-generated_at: "2026-03-30T02:22:26.005Z"
+generated_at: "2026-03-30T02:24:55.994Z"
 ---
 
 # § 2041. Powers of appointment

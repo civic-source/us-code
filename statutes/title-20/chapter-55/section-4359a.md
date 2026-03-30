@@ -3,9 +3,9 @@ title: "Section 4359a - International students"
 usc_title: 20
 usc_section: "4359a"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 4359a"
-generated_at: "2026-03-30T02:21:47.301Z"
+generated_at: "2026-03-30T02:24:28.412Z"
 ---
 
 # § 4359a. International students

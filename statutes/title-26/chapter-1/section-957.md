@@ -3,9 +3,9 @@ title: "Section 957 - Controlled foreign corporations; United States persons"
 usc_title: 26
 usc_section: "957"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 957"
-generated_at: "2026-03-30T02:22:25.968Z"
+generated_at: "2026-03-30T02:24:55.965Z"
 ---
 
 # § 957. Controlled foreign corporations; United States persons

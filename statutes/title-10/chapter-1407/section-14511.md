@@ -3,9 +3,9 @@ title: "Section 14511 - Separation at age 64: officers in grade of major general
 usc_title: 10
 usc_section: "14511"
 chapter: 1407
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 14511"
-generated_at: "2026-03-30T02:21:23.900Z"
+generated_at: "2026-03-30T02:24:07.353Z"
 ---
 
 # § 14511. Separation at age 64: officers in grade of major general or rear admiral and above

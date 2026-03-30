@@ -3,9 +3,9 @@ title: "Section 3751 - Transition provisions"
 usc_title: 50
 usc_section: "3751"
 chapter: 48
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 3751"
-generated_at: "2026-03-30T02:23:33.228Z"
+generated_at: "2026-03-30T02:26:05.780Z"
 ---
 
 # § 3751. Transition provisions

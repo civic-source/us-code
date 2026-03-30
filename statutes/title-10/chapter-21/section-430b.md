@@ -3,9 +3,9 @@ title: "Section 430b - Executive agent for open-source intelligence tools"
 usc_title: 10
 usc_section: "430b"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 430b"
-generated_at: "2026-03-30T02:21:23.714Z"
+generated_at: "2026-03-30T02:24:07.152Z"
 ---
 
 # § 430b. Executive agent for open-source intelligence tools

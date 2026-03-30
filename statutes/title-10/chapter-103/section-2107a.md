@@ -3,9 +3,9 @@ title: "Section 2107a - Financial assistance program for specially selected memb
 usc_title: 10
 usc_section: "2107a"
 chapter: 103
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 2107a"
-generated_at: "2026-03-30T02:21:23.782Z"
+generated_at: "2026-03-30T02:24:07.230Z"
 ---
 
 # § 2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard

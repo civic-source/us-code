@@ -3,9 +3,9 @@ title: "Section 4236 - Negotiation of price for technical data before developmen
 usc_title: 10
 usc_section: "4236"
 chapter: 322
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4236"
-generated_at: "2026-03-30T02:21:23.842Z"
+generated_at: "2026-03-30T02:24:07.292Z"
 ---
 
 # § 4236. Negotiation of price for technical data before development, production, or sustainment of major weapon systems

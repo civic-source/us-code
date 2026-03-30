@@ -3,9 +3,9 @@ title: "Section 2715 - Certification of organizations; required contents of repo
 usc_title: 7
 usc_section: "2715"
 chapter: 60
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 2715"
-generated_at: "2026-03-30T02:21:01.740Z"
+generated_at: "2026-03-30T02:24:00.990Z"
 ---
 
 # § 2715. Certification of organizations; required contents of report as criteria

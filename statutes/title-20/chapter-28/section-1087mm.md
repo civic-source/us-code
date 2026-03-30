@@ -3,9 +3,9 @@ title: "Section 1087mm - Special rules for student aid index"
 usc_title: 20
 usc_section: "1087mm"
 chapter: 28
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 1087mm"
-generated_at: "2026-03-30T02:21:47.246Z"
+generated_at: "2026-03-30T02:24:28.362Z"
 ---
 
 # § 1087mm. Special rules for student aid index

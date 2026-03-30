@@ -3,9 +3,9 @@ title: "Section 7506 - Convention tonnage for licenses, certificates, and docume
 usc_title: 46
 usc_section: "7506"
 chapter: 75
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "46 U.S.C. § 7506"
-generated_at: "2026-03-30T02:23:27.952Z"
+generated_at: "2026-03-30T02:25:49.359Z"
 ---
 
 # § 7506. Convention tonnage for licenses, certificates, and documents

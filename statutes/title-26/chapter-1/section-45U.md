@@ -3,9 +3,9 @@ title: "Section 45U - Zero-emission nuclear power production credit"
 usc_title: 26
 usc_section: "45U"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 45U"
-generated_at: "2026-03-30T02:22:25.820Z"
+generated_at: "2026-03-30T02:24:55.831Z"
 ---
 
 # § 45U. Zero-emission nuclear power production credit
@@ -36,6 +36,9 @@ generated_at: "2026-03-30T02:22:25.820Z"
 - **(c)**
   - **(1)** The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation adjustment factor (as determined under section 45(e)(2), as applied by substituting “calendar year 2023” for “calendar year 1992” in subparagraph (B) thereof) for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
   - **(2)** Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) of section 45(e) shall apply for purposes of this section.
+  - **(3)**
+    - **(A)** No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).
+    - **(B)** No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
 - **(d)**
   - **(1)** In the case of any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), the amount of the credit determined under subsection (a) shall be equal to such amount (as determined without regard to this sentence) multiplied by 5.
   - **(2)**

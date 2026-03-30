@@ -3,9 +3,9 @@ title: "Section 443 - Risk management"
 usc_title: 6
 usc_section: "443"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "6 U.S.C. § 443"
-generated_at: "2026-03-30T02:20:46.724Z"
+generated_at: "2026-03-30T02:23:56.380Z"
 ---
 
 # § 443. Risk management

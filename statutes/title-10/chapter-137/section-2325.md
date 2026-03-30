@@ -3,9 +3,9 @@ title: "Section 2325 - Renumbered § 3761]"
 usc_title: 10
 usc_section: "2325"
 chapter: 137
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 2325"
-generated_at: "2026-03-30T02:21:23.792Z"
+generated_at: "2026-03-30T02:24:07.242Z"
 ---
 
 # [§ 2325. Renumbered § 3761]

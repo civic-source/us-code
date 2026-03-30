@@ -3,9 +3,9 @@ title: "Section 15061 - Grant authority"
 usc_title: 42
 usc_section: "15061"
 chapter: 144
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 15061"
-generated_at: "2026-03-30T02:23:23.228Z"
+generated_at: "2026-03-30T02:25:37.630Z"
 ---
 
 # § 15061. Grant authority

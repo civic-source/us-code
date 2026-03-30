@@ -3,9 +3,9 @@ title: "Section 6864d - Financial assistance for WAP enhancement and innovation"
 usc_title: 42
 usc_section: "6864d"
 chapter: 81
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6864d"
-generated_at: "2026-03-30T02:23:23.055Z"
+generated_at: "2026-03-30T02:25:37.458Z"
 ---
 
 # § 6864d. Financial assistance for WAP enhancement and innovation

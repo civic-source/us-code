@@ -3,9 +3,9 @@ title: "Section 9597 - Executive Order 11625"
 usc_title: 15
 usc_section: "9597"
 chapter: 120
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 9597"
-generated_at: "2026-03-30T02:21:36.924Z"
+generated_at: "2026-03-30T02:24:20.162Z"
 ---
 
 # § 9597. Executive Order 11625

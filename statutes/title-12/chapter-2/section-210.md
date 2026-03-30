@@ -3,9 +3,9 @@ title: "Section 210 - Governmental powers unimpaired"
 usc_title: 12
 usc_section: "210"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 210"
-generated_at: "2026-03-30T02:21:39.290Z"
+generated_at: "2026-03-30T02:24:15.938Z"
 ---
 
 # § 210. Governmental powers unimpaired

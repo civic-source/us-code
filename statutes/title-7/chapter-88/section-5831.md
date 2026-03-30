@@ -3,9 +3,9 @@ title: "Section 5831 - Technical guides and handbooks"
 usc_title: 7
 usc_section: "5831"
 chapter: 88
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 5831"
-generated_at: "2026-03-30T02:21:01.772Z"
+generated_at: "2026-03-30T02:24:01.017Z"
 ---
 
 # § 5831. Technical guides and handbooks

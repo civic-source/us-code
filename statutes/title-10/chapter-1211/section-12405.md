@@ -3,9 +3,9 @@ title: "Section 12405 - National Guard in Federal service: status"
 usc_title: 10
 usc_section: "12405"
 chapter: 1211
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 12405"
-generated_at: "2026-03-30T02:21:23.894Z"
+generated_at: "2026-03-30T02:24:07.348Z"
 ---
 
 # § 12405. National Guard in Federal service: status

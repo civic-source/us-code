@@ -3,9 +3,9 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T02:21:47.219Z"
+generated_at: "2026-03-30T02:24:28.339Z"
 ---
 
 # § 1070a. Federal Pell Grants: amount and determinations; applications
@@ -14,8 +14,12 @@ generated_at: "2026-03-30T02:21:47.219Z"
   - **(1)** The purpose of this subpart is to provide a Federal Pell Grant to low-income students.
   - **(2)** In this section—
     - **(A)** the term “adjusted gross income” means—
-      - **(i)** in the case of a dependent student, the adjusted gross income (as defined in section 62 of title 26 ) of the student’s parents in the second tax year preceding the academic year; and
-      - **(ii)** in the case of an independent student, the adjusted gross income (as defined in section 62 of title 26 ) of the student (and the student’s spouse, if applicable) in the second tax year preceding the academic year;
+      - **(i)** in the case of a dependent student, for the second tax year preceding the academic year—
+        - **(I)** the adjusted gross income (as defined in section 62 of title 26 ) of the student’s parents; plus
+        - **(II)** for Federal Pell Grant determinations made for academic years beginning on or after July 1, 2026 , the foreign income (as described in section 1087vv(b)(5) of this title ) of the student’s parents; and
+      - **(ii)** in the case of an independent student, for the second tax year preceding the academic year—
+        - **(I)** the adjusted gross income (as defined in section 62 of title 26 ) of the student (and the student’s spouse, if applicable); plus
+        - **(II)** for Federal Pell Grant determinations made for academic years beginning on or after July 1, 2026 , the foreign income (as described in section 1087vv(b)(5) of this title ) of the student (and the student’s spouse, if applicable);
     - **(B)** the term “family size” has the meaning given the term in section 1087vv(k) of this title ;
     - **(C)** the term “poverty line” means the poverty line (as determined under the poverty guidelines updated periodically in the Federal Register by the Department of Health and Human Services under the authority of section 9902(2) of title 42 ) applicable to the student’s family size and applicable to the second tax year preceding the academic year;
     - **(D)** the term “single parent” means—
@@ -40,7 +44,7 @@ generated_at: "2026-03-30T02:21:47.219Z"
         - **(I)** if the student is a single parent, and the adjusted gross income is equal to or less than 400 percent of the poverty line;
         - **(II)** if the student is a parent and is not a single parent, and the adjusted gross income is equal to or less than 350 percent of the poverty line; or
         - **(III)** if the student is not a parent, and the adjusted gross income is equal to or less than 275 percent of the poverty line.
-    - **(D)** A student eligible for the total maximum Federal Pell Grant under subparagraph (A) who has (or whose spouse or parent, as applicable based on whose information is used under such subparagraph, has) foreign income that would, if added to adjusted gross income, result in the student no longer being eligible for such total maximum Federal Pell Grant, shall not be provided a Federal Pell Grant until the student aid administrator evaluates the student’s FAFSA and makes a determination regarding whether it is appropriate to make an adjustment under section 1087tt(b)(1)(B)(v) of this title to account for such foreign income when determining the student’s eligibility for such total maximum Federal Pell Grant.
+    - **(D)** For each academic year beginning before July 1, 2026 , a student eligible for the total maximum Federal Pell Grant under subparagraph (A) who has (or whose spouse or parent, as applicable based on whose information is used under such subparagraph, has) foreign income that would, if added to adjusted gross income, result in the student no longer being eligible for such total maximum Federal Pell Grant, shall not be provided a Federal Pell Grant until the student aid administrator evaluates the student’s FAFSA and makes a determination regarding whether it is appropriate to make an adjustment under section 1087tt(b)(1)(B)(v) of this title , as in effect for such academic year, to account for such foreign income when determining the student’s eligibility for such total maximum Federal Pell Grant.
     - **(E)** With respect to a student who is not eligible for the total maximum Federal Pell Grant under subparagraph (A) or a minimum Federal Pell Grant under subparagraph (C), the Secretary shall subtract from the student or parents’ adjusted gross income, as applicable based on whose income is used for the Federal Pell Grant calculation, the sum of the following for the individual whose income is so used, and consider such difference the adjusted gross income for purposes of determining the student’s eligibility for such Federal Pell Grant award under such subparagraph:
       - **(i)** If the applicant, or, if applicable, the parents or spouse of the applicant, elects to report receiving college grant and scholarship aid included in gross income on a Federal tax return described in section 1087vv(e)(2) of this title , the amount of such aid.
       - **(ii)** Income earned from work under part C of this subchapter.
@@ -61,7 +65,7 @@ generated_at: "2026-03-30T02:21:47.219Z"
     - **(A)** In addition to any funds appropriated under paragraph (6) and any funds made available for this section under any appropriations Act, there are authorized to be appropriated, and there are appropriated (out of any money in the Treasury not otherwise appropriated) to carry out this section—
       - **(i)** $1,170,000,000 for fiscal year 2024;
       - **(ii)** $3,170,000,000 for fiscal year 2025;
-      - **(iii)** $2,170,000,000 for fiscal year 2026; and
+      - **(iii)** $12,670,000,000 for fiscal year 2026; and
       - **(iv)** $1,236,000,000 for fiscal year 2027 and each succeeding fiscal year.
     - **(B)** The amendments made to this section by the FAFSA Simplification Act shall not—
       - **(i)** increase or decrease the amounts that have been appropriated or are available to carry out this section for fiscal year 2017, 2018, 2019, 2020, 2021, 2022, 2023, or 2024 as of the day before the effective date of such Act; or
@@ -112,6 +116,7 @@ generated_at: "2026-03-30T02:21:47.219Z"
       - **(ii)** Clause (i) shall apply with respect to any Federal Pell Grant awarded to a student to enroll in an eligible program at an institution—
         - **(I)** during a period of a student’s attendance at an institution—
         - **(II)** during a period—
+  - **(6)** Beginning on July 1, 2026 , and notwithstanding this subsection or subsection (b), a student shall not be eligible for a Federal Pell Grant under subsection (b) during any period for which the student receives grant aid from non-Federal sources, including States, institutions of higher education, or private sources, in an amount that equals or exceeds the student’s cost of attendance for such period.
 - **(e)**
   - **(1)** The Secretary shall from time to time set dates by which students shall file the Free Application for Federal Student Aid under section 1090 of this title .
   - **(2)** Each student desiring a Federal Pell Grant for any year shall file the Free Application for Federal Student Aid containing the information necessary to enable the Secretary to carry out the functions and responsibilities of this subpart.

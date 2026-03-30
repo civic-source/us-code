@@ -3,9 +3,9 @@ title: "Section 6506a - Competitive leasing of oil and gas"
 usc_title: 42
 usc_section: "6506a"
 chapter: 78
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 6506a"
-generated_at: "2026-03-30T02:23:23.049Z"
+generated_at: "2026-03-30T02:25:37.453Z"
 ---
 
 # § 6506a. Competitive leasing of oil and gas
@@ -43,7 +43,11 @@ generated_at: "2026-03-30T02:23:23.049Z"
     - **(B)** This paragraph applies to a lease that is in effect on or after August 8, 2005 .. 1
   - **(2)** The Secretary may direct or assent to the suspension of operations and production on any lease or unit.
   - **(3)** If the Secretary, in the interest of conservation, shall direct or assent to the suspension of operations and production on any lease or unit, any payment of acreage rental or minimum royalty prescribed by such lease or unit likewise shall be suspended during the period of suspension of operations and production, and the term of such lease shall be extended by adding any such suspension period to the lease.
-- **(l)** All receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of the United States: Provided , That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: Provided further , That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
+- **(l)**
+  - **(1)** Except as provided in paragraph (2), all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section shall be paid into the Treasury of the United States: Provided , That 50 percent thereof shall be paid by the Secretary of the Treasury semiannually, as soon thereafter as practicable after March 30 and September 30 each year, to the State of Alaska for: (1) planning; (2) construction, maintenance, and operation of essential public facilities; and (3) other necessary provisions of public service: Provided further , That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act.
+  - **(2)** Beginning in fiscal year 2034, of the receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this section after July 4, 2025 —
+    - **(A)** 70 percent shall be paid to the State of Alaska; and
+    - **(B)** 30 percent shall be paid into the Treasury of the United States.
 - **(m)** Any agency of the United States and any person authorized by the Secretary may conduct geological and geophysical explorations in the National Petroleum Reserve in Alaska which do not interfere with operations under any contract maintained or granted previously. Any information acquired in such explorations shall be subject to the conditions of 43 U.S.C. 1352(a)(1)(A) .
 - **(n)**
   - **(1)** Any action seeking judicial review of the adequacy of any program or site-specific environmental impact statement under section 102 of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332 ) concerning oil and gas leasing in the National Petroleum Reserve-Alaska shall be barred unless brought in the appropriate District Court within 60 days after notice of the availability of such statement is published in the Federal Register.

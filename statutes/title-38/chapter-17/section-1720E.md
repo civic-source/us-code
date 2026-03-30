@@ -3,9 +3,9 @@ title: "Section 1720E - Nasopharyngeal radium irradiation"
 usc_title: 38
 usc_section: "1720E"
 chapter: 17
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 1720E"
-generated_at: "2026-03-30T02:23:01.377Z"
+generated_at: "2026-03-30T02:25:14.734Z"
 ---
 
 # § 1720E. Nasopharyngeal radium irradiation

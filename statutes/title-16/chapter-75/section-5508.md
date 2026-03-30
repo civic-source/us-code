@@ -3,9 +3,9 @@ title: "Section 5508 - Criminal offenses"
 usc_title: 16
 usc_section: "5508"
 chapter: 75
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 5508"
-generated_at: "2026-03-30T02:22:05.301Z"
+generated_at: "2026-03-30T02:24:34.250Z"
 ---
 
 # § 5508. Criminal offenses

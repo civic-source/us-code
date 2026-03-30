@@ -3,9 +3,9 @@ title: "Section 284v - Fifteenth replenishment"
 usc_title: 22
 usc_section: "284v"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 284v"
-generated_at: "2026-03-30T02:22:14.394Z"
+generated_at: "2026-03-30T02:24:42.647Z"
 ---
 
 # § 284v. Fifteenth replenishment

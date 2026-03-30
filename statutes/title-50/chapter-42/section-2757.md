@@ -3,9 +3,9 @@ title: "Section 2757 - Review of adequacy of nuclear weapons budget"
 usc_title: 50
 usc_section: "2757"
 chapter: 42
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 2757"
-generated_at: "2026-03-30T02:23:33.193Z"
+generated_at: "2026-03-30T02:26:05.744Z"
 ---
 
 # § 2757. Review of adequacy of nuclear weapons budget

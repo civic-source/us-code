@@ -3,9 +3,9 @@ title: "Section 1722A - Copayment for medications"
 usc_title: 38
 usc_section: "1722A"
 chapter: 17
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 1722A"
-generated_at: "2026-03-30T02:23:01.379Z"
+generated_at: "2026-03-30T02:25:14.735Z"
 ---
 
 # § 1722A. Copayment for medications

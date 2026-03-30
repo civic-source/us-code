@@ -3,9 +3,9 @@ title: "Section 4710 - Limitations on tiering of subcontractors"
 usc_title: 41
 usc_section: "4710"
 chapter: 47
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "41 U.S.C. § 4710"
-generated_at: "2026-03-30T02:23:03.607Z"
+generated_at: "2026-03-30T02:25:16.978Z"
 ---
 
 # § 4710. Limitations on tiering of subcontractors

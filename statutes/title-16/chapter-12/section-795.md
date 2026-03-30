@@ -3,9 +3,9 @@ title: "Section 795 - Omitted"
 usc_title: 16
 usc_section: "795"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 795"
-generated_at: "2026-03-30T02:22:05.199Z"
+generated_at: "2026-03-30T02:24:34.137Z"
 ---
 
 # §§ 794, 795. Omitted

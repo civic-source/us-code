@@ -3,9 +3,9 @@ title: "Section 1545 - Lease and sale of public property; conveyance of title in
 usc_title: 48
 usc_section: "1545"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "48 U.S.C. § 1545"
-generated_at: "2026-03-30T02:23:28.653Z"
+generated_at: "2026-03-30T02:25:58.364Z"
 ---
 
 # § 1545. Lease and sale of public property; conveyance of title in certain lands to the government of Virgin Islands

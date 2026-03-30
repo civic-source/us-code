@@ -3,9 +3,9 @@ title: "Section 1421p - Authorization of appropriations"
 usc_title: 48
 usc_section: "1421p"
 chapter: 8
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "48 U.S.C. § 1421p"
-generated_at: "2026-03-30T02:23:28.651Z"
+generated_at: "2026-03-30T02:25:58.362Z"
 ---
 
 # § 1421p. Authorization of appropriations

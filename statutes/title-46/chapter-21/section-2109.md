@@ -3,9 +3,9 @@ title: "Section 2109 - Public vessels"
 usc_title: 46
 usc_section: "2109"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "46 U.S.C. § 2109"
-generated_at: "2026-03-30T02:23:27.946Z"
+generated_at: "2026-03-30T02:25:49.351Z"
 ---
 
 # § 2109. Public vessels

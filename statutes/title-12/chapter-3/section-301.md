@@ -3,9 +3,9 @@ title: "Section 301 - Powers and duties of board of directors; suspension of mem
 usc_title: 12
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 301"
-generated_at: "2026-03-30T02:21:39.293Z"
+generated_at: "2026-03-30T02:24:15.942Z"
 ---
 
 # § 301. Powers and duties of board of directors; suspension of member bank for undue use of bank credit

@@ -3,9 +3,9 @@ title: "Section 2782 - Prohibition and report on bonuses to contractors operatin
 usc_title: 50
 usc_section: "2782"
 chapter: 42
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 2782"
-generated_at: "2026-03-30T02:23:33.193Z"
+generated_at: "2026-03-30T02:26:05.744Z"
 ---
 
 # § 2782. Prohibition and report on bonuses to contractors operating defense nuclear facilities

@@ -3,9 +3,9 @@ title: "Section 1396e - Enrollment of individuals under group health plans"
 usc_title: 42
 usc_section: "1396e"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 1396e"
-generated_at: "2026-03-30T02:23:22.846Z"
+generated_at: "2026-03-30T02:25:37.251Z"
 ---
 
 # § 1396e. Enrollment of individuals under group health plans

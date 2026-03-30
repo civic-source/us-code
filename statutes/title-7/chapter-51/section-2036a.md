@@ -3,9 +3,9 @@ title: "Section 2036a - Nutrition education and obesity prevention grant program
 usc_title: 7
 usc_section: "2036a"
 chapter: 51
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 2036a"
-generated_at: "2026-03-30T02:21:01.722Z"
+generated_at: "2026-03-30T02:24:00.974Z"
 ---
 
 # § 2036a. Nutrition education and obesity prevention grant program
@@ -71,7 +71,7 @@ generated_at: "2026-03-30T02:21:01.722Z"
     - **(C)** for fiscal year 2013, $285,000,000;
     - **(D)** for fiscal year 2014, $401,000,000;
     - **(E)** for fiscal year 2015, $407,000,000; and
-    - **(F)** for fiscal year 2016 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+    - **(F)** for each of fiscal years 2016 through 2025, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
   - **(2)**
     - **(A)** Of the funds set aside under paragraph (1), as determined by the Secretary—
       - **(i)** for each of fiscal years 2011 through 2013, 100 percent shall be allocated to State agencies in direct proportion to the amount of funding that the State received for carrying out section 2020(f) of this title (as that section existed on the day before the December 13, 2010 ) during fiscal year 2009, as reported to the Secretary as of February 2010; and

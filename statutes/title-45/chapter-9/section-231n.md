@@ -3,9 +3,9 @@ title: "Section 231n - Railroad Retirement Account"
 usc_title: 45
 usc_section: "231n"
 chapter: 9
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "45 U.S.C. § 231n"
-generated_at: "2026-03-30T02:23:04.776Z"
+generated_at: "2026-03-30T02:25:18.127Z"
 ---
 
 # § 231n. Railroad Retirement Account

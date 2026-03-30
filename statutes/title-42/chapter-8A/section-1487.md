@@ -3,9 +3,9 @@ title: "Section 1487 - Rural Housing Insurance Fund"
 usc_title: 42
 usc_section: "1487"
 chapter: 8
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 1487"
-generated_at: "2026-03-30T02:23:22.894Z"
+generated_at: "2026-03-30T02:25:37.300Z"
 ---
 
 # § 1487. Rural Housing Insurance Fund

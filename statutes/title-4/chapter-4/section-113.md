@@ -3,9 +3,9 @@ title: "Section 113 - Residence of Members of Congress for State income tax laws
 usc_title: 4
 usc_section: "113"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "4 U.S.C. § 113"
-generated_at: "2026-03-30T02:20:24.776Z"
+generated_at: "2026-03-30T02:23:48.472Z"
 ---
 
 # § 113. Residence of Members of Congress for State income tax laws

@@ -3,9 +3,9 @@ title: "Section 4603 - Advance notification of contract performance outside the 
 usc_title: 10
 usc_section: "4603"
 chapter: 361
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4603"
-generated_at: "2026-03-30T02:21:23.848Z"
+generated_at: "2026-03-30T02:24:07.296Z"
 ---
 
 # § 4603. Advance notification of contract performance outside the United States

@@ -3,9 +3,9 @@ title: "Section 7513 - Cause and procedure"
 usc_title: 5
 usc_section: "7513"
 chapter: 75
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "5 U.S.C. § 7513"
-generated_at: "2026-03-30T02:20:28.442Z"
+generated_at: "2026-03-30T02:23:53.314Z"
 ---
 
 # § 7513. Cause and procedure

@@ -3,9 +3,9 @@ title: "Section 138 - Law library; hours kept open"
 usc_title: 2
 usc_section: "138"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "2 U.S.C. § 138"
-generated_at: "2026-03-30T02:20:43.887Z"
+generated_at: "2026-03-30T02:23:50.703Z"
 ---
 
 # § 138. Law library; hours kept open

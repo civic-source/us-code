@@ -3,9 +3,9 @@ title: "Section 2514 - Powers of appointment"
 usc_title: 26
 usc_section: "2514"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 2514"
-generated_at: "2026-03-30T02:22:26.008Z"
+generated_at: "2026-03-30T02:24:55.997Z"
 ---
 
 # § 2514. Powers of appointment

@@ -3,9 +3,9 @@ title: "Section 3510 - Coordination of collection of domestic service employment
 usc_title: 26
 usc_section: "3510"
 chapter: 25
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 3510"
-generated_at: "2026-03-30T02:22:26.023Z"
+generated_at: "2026-03-30T02:24:56.009Z"
 ---
 
 # § 3510. Coordination of collection of domestic service employment taxes with collection of income taxes

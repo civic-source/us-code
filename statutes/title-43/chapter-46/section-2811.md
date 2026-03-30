@@ -3,9 +3,9 @@ title: "Section 2811 - Private sector"
 usc_title: 43
 usc_section: "2811"
 chapter: 46
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 2811"
-generated_at: "2026-03-30T02:23:04.420Z"
+generated_at: "2026-03-30T02:25:17.844Z"
 ---
 
 # § 2811. Private sector

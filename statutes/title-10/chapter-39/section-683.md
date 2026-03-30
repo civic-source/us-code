@@ -3,9 +3,9 @@ title: "Section 683 - Renumbered § 12315]"
 usc_title: 10
 usc_section: "683"
 chapter: 39
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 683"
-generated_at: "2026-03-30T02:21:23.726Z"
+generated_at: "2026-03-30T02:24:07.165Z"
 ---
 
 # [§ 683. Renumbered § 12315]

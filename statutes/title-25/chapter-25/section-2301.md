@@ -3,9 +3,9 @@ title: "Section 2301 - Definitions"
 usc_title: 25
 usc_section: "2301"
 chapter: 25
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "25 U.S.C. § 2301"
-generated_at: "2026-03-30T02:22:09.994Z"
+generated_at: "2026-03-30T02:24:38.431Z"
 ---
 
 # § 2301. Definitions

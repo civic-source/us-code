@@ -3,9 +3,9 @@ title: "Section 5501 - National missile defense policy"
 usc_title: 10
 usc_section: "5501"
 chapter: 551
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 5501"
-generated_at: "2026-03-30T02:21:23.856Z"
+generated_at: "2026-03-30T02:24:07.304Z"
 ---
 
 # § 5501. National missile defense policy

@@ -3,9 +3,9 @@ title: "Section 17102 - Prohibition on acquisition or purchase of motor vehicles
 usc_title: 40
 usc_section: "17102"
 chapter: 171
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "40 U.S.C. § 17102"
-generated_at: "2026-03-30T02:22:55.026Z"
+generated_at: "2026-03-30T02:25:07.385Z"
 ---
 
 # § 17102. Prohibition on acquisition or purchase of motor vehicles by Federal Government

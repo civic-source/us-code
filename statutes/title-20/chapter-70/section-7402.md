@@ -3,9 +3,9 @@ title: "Section 7402 - Purpose"
 usc_title: 20
 usc_section: "7402"
 chapter: 70
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 7402"
-generated_at: "2026-03-30T02:21:47.330Z"
+generated_at: "2026-03-30T02:24:28.438Z"
 ---
 
 # § 7402. Purpose

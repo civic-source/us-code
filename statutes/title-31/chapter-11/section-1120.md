@@ -3,9 +3,9 @@ title: "Section 1120 - Federal Government and agency priority goals"
 usc_title: 31
 usc_section: "1120"
 chapter: 11
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "31 U.S.C. § 1120"
-generated_at: "2026-03-30T02:22:48.055Z"
+generated_at: "2026-03-30T02:24:58.757Z"
 ---
 
 # § 1120. Federal Government and agency priority goals
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T02:22:48.055Z"
     - **(A)** be updated and revised not less frequently than during the first year of each Presidential term;
     - **(B)** be made publicly available not less frequently than concurrently with the submission of the budget of the United States Government under section 1105(a) made during the first full fiscal year following any year during which a term of the President commences under section 101 of title 3 ;
     - **(C)** include plans for the successful achievement of each goal within each single Presidential term; and
-    - **(D)** explicitly cite to any specific contents of the budget described in subparagraph (B) that support the achievement of each goal.As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
+    - **(D)** explicitly cite to any specific contents of the budget described in subparagraph (B) that support the achievement of each goal. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
   - **(3)** When developing or making adjustments to Federal Government priority goals, the Director of the Office of Management and Budget shall consult periodically with the Congress, including obtaining majority and minority views from—
     - **(A)** the Committees on Appropriations of the Senate and the House of Representatives;
     - **(B)** the Committees on the Budget of the Senate and the House of Representatives;

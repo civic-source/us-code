@@ -3,9 +3,9 @@ title: "Section 16215 - Electric transmission and distribution programs"
 usc_title: 42
 usc_section: "16215"
 chapter: 149
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 16215"
-generated_at: "2026-03-30T02:23:23.243Z"
+generated_at: "2026-03-30T02:25:37.644Z"
 ---
 
 # § 16215. Electric transmission and distribution programs

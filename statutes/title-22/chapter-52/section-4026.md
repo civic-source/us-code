@@ -3,9 +3,9 @@ title: "Section 4026 - Career counseling"
 usc_title: 22
 usc_section: "4026"
 chapter: 52
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 4026"
-generated_at: "2026-03-30T02:22:14.488Z"
+generated_at: "2026-03-30T02:24:42.740Z"
 ---
 
 # § 4026. Career counseling
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T02:22:14.488Z"
     - **(B)** maintaining a centralized system for cataloging their skills and the various governmental and nongovernmental employment opportunities available to them; and
     - **(D)** 1 1 So in original. There is no subpar. (C). otherwise assisting them in obtaining employment.
   - **(2)** The Secretary may prescribe regulations—
-    - **(A)** to provide preference to eligible family members in hiring for any civilian position in the Department, notwithstanding the prohibition on marital discrimination found in 5 U.S.C. 2302(b)(1)(E) , if —
+    - **(A)** to provide preference to eligible family members in hiring for any civilian position in the Department, notwithstanding the prohibition on marital discrimination found in 5 U.S.C. 2302(b)(1)(E) , if—
       - **(i)** the eligible family member is among persons determined to be best qualified for the position; and
       - **(ii)** the position is located in the overseas country of assignment of their sponsoring employee;
     - **(B)** to ensure that notice of any vacant position in the Department is provided in a manner reasonably designed to reach eligible family members of sponsoring employees whose permanent duty stations are in the same country as that in which the position is located; and

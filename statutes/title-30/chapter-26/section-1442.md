@@ -3,9 +3,9 @@ title: "Section 1442 - Effect of international agreement"
 usc_title: 30
 usc_section: "1442"
 chapter: 26
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "30 U.S.C. § 1442"
-generated_at: "2026-03-30T02:22:17.091Z"
+generated_at: "2026-03-30T02:24:45.506Z"
 ---
 
 # § 1442. Effect of international agreement

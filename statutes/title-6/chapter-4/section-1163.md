@@ -3,9 +3,9 @@ title: "Section 1163 - Railroad security assistance"
 usc_title: 6
 usc_section: "1163"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "6 U.S.C. § 1163"
-generated_at: "2026-03-30T02:20:46.748Z"
+generated_at: "2026-03-30T02:23:56.403Z"
 ---
 
 # § 1163. Railroad security assistance

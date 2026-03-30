@@ -3,9 +3,9 @@ title: "Section 1650 - Hardwood technology transfer and applied research"
 usc_title: 16
 usc_section: "1650"
 chapter: 36
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 1650"
-generated_at: "2026-03-30T02:22:05.251Z"
+generated_at: "2026-03-30T02:24:34.194Z"
 ---
 
 # § 1650. Hardwood technology transfer and applied research

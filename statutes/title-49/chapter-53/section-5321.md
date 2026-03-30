@@ -3,9 +3,9 @@ title: "Section 5321 - Crime prevention and security"
 usc_title: 49
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 5321"
-generated_at: "2026-03-30T02:23:31.265Z"
+generated_at: "2026-03-30T02:26:04.057Z"
 ---
 
 # § 5321. Crime prevention and security

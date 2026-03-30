@@ -3,9 +3,9 @@ title: "Section 4824 - Annual report to Congress"
 usc_title: 50
 usc_section: "4824"
 chapter: 58
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 4824"
-generated_at: "2026-03-30T02:23:33.250Z"
+generated_at: "2026-03-30T02:26:05.802Z"
 ---
 
 # § 4824. Annual report to Congress

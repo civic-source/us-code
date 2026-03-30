@@ -3,9 +3,9 @@ title: "Section 9577 - Vacancies"
 usc_title: 20
 usc_section: "9577"
 chapter: 76
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 9577"
-generated_at: "2026-03-30T02:21:47.348Z"
+generated_at: "2026-03-30T02:24:28.454Z"
 ---
 
 # § 9577. Vacancies

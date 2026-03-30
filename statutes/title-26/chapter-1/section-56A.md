@@ -3,9 +3,9 @@ title: "Section 56A - Adjusted financial statement income"
 usc_title: 26
 usc_section: "56A"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 56A"
-generated_at: "2026-03-30T02:22:25.829Z"
+generated_at: "2026-03-30T02:24:55.840Z"
 ---
 
 # § 56A. Adjusted financial statement income
@@ -50,9 +50,13 @@ generated_at: "2026-03-30T02:22:25.829Z"
     - **(A)** of an unrelated trade or business (as defined in section 513) of such organization, or
     - **(B)** derived from debt-financed property (as defined in section 514) to the extent that income from such property is treated as unrelated business taxable income.
   - **(13)** Adjusted financial statement income shall be—
-    - **(A)** reduced by depreciation deductions allowed under section 167 with respect to property to which section 168 applies to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and
+    - **(A)** reduced by—
+      - **(i)** depreciation deductions allowed under section 167 with respect to property to which section 168 applies to the extent of the amount allowed as deductions in computing taxable income for the year, and
+      - **(ii)** any deduction allowed for expenses under section 263(c) (including any deduction for such expenses under section 59(e) or 291(b)(2)) with respect to property described therein to the extent of the amount allowed as deductions in computing taxable income for the year, and
     - **(B)** appropriately adjusted—
-      - **(i)** to disregard any amount of depreciation expense that is taken into account on the taxpayer’s applicable financial statement with respect to such property, and
+      - **(i)** to disregard any amount of—
+        - **(I)** depreciation expense that is taken into account on the taxpayer’s applicable financial statement with respect to such property, and
+        - **(II)** depletion expense that is taken into account on the taxpayer’s applicable financial statement with respect to the intangible drilling and development costs of such property, and
       - **(ii)** to take into account any other item specified by the Secretary in order to provide that such property is accounted for in the same manner as it is accounted for under this chapter.
   - **(14)**
     - **(A)** Adjusted financial statement income shall be—

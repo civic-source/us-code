@@ -3,9 +3,9 @@ title: "Section 8785 - Termination"
 usc_title: 22
 usc_section: "8785"
 chapter: 94
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 8785"
-generated_at: "2026-03-30T02:22:14.550Z"
+generated_at: "2026-03-30T02:24:42.801Z"
 ---
 
 # § 8785. Termination

@@ -3,9 +3,9 @@ title: "Section 5610 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5610"
 chapter: 76
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 5610"
-generated_at: "2026-03-30T02:22:05.302Z"
+generated_at: "2026-03-30T02:24:34.251Z"
 ---
 
 # § 5610. Authorization of appropriations

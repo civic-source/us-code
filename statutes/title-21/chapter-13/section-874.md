@@ -3,9 +3,9 @@ title: "Section 874 - Advisory committees"
 usc_title: 21
 usc_section: "874"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "21 U.S.C. § 874"
-generated_at: "2026-03-30T02:22:11.870Z"
+generated_at: "2026-03-30T02:24:39.627Z"
 ---
 
 # § 874. Advisory committees

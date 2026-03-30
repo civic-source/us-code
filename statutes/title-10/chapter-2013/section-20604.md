@@ -3,9 +3,9 @@ title: "Section 20604 - Enlisted members: computation of years of service for vo
 usc_title: 10
 usc_section: "20604"
 chapter: 2013
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 20604"
-generated_at: "2026-03-30T02:21:23.907Z"
+generated_at: "2026-03-30T02:24:07.361Z"
 ---
 
 # § 20604. Enlisted members: computation of years of service for voluntary retirement

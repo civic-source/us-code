@@ -3,9 +3,9 @@ title: "Section 4622 - Establishment of semiconductor manufacturing technology r
 usc_title: 15
 usc_section: "4622"
 chapter: 72
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 4622"
-generated_at: "2026-03-30T02:21:36.870Z"
+generated_at: "2026-03-30T02:24:20.099Z"
 ---
 
 # § 4622. Establishment of semiconductor manufacturing technology research initiative

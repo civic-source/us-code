@@ -3,9 +3,9 @@ title: "Section 47175 - Definitions"
 usc_title: 49
 usc_section: "47175"
 chapter: 471
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 47175"
-generated_at: "2026-03-30T02:23:31.353Z"
+generated_at: "2026-03-30T02:26:04.151Z"
 ---
 
 # § 47175. Definitions
@@ -13,7 +13,7 @@ generated_at: "2026-03-30T02:23:31.353Z"
 In this subchapter, the following definitions apply:
 
   - **(1)** The term “airport capacity enhancement project” means—
-    - **(A)** a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension;or
+    - **(A)** a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; or
     - **(B)** such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
   - **(2)** The term “airport sponsor” has the meaning given the term “sponsor” under section 47102.
   - **(3)** The term “aviation safety project” means an aviation project that—

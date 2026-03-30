@@ -3,9 +3,9 @@ title: "Section 2 - Permitting process improvement"
 usc_title: 42
 usc_section: "2"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:23:22.995Z"
+generated_at: "2026-03-30T02:25:37.401Z"
 ---
 
 # § 4370m–2. Permitting process improvement

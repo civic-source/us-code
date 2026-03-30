@@ -3,9 +3,9 @@ title: "Section 1158 - Authority to enter into transactions other than contracts
 usc_title: 14
 usc_section: "1158"
 chapter: 11
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "14 U.S.C. § 1158"
-generated_at: "2026-03-30T02:21:37.196Z"
+generated_at: "2026-03-30T02:24:11.488Z"
 ---
 
 # § 1158. Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs

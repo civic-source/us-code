@@ -3,9 +3,9 @@ title: "Section 274a - Scientific registry"
 usc_title: 42
 usc_section: "274a"
 chapter: 6
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 274a"
-generated_at: "2026-03-30T02:23:22.560Z"
+generated_at: "2026-03-30T02:25:36.960Z"
 ---
 
 # § 274a. Scientific registry

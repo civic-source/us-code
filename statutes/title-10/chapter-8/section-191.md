@@ -3,9 +3,9 @@ title: "Section 191 - Secretary of Defense: authority to provide for common perf
 usc_title: 10
 usc_section: "191"
 chapter: 8
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 191"
-generated_at: "2026-03-30T02:21:23.703Z"
+generated_at: "2026-03-30T02:24:07.138Z"
 ---
 
 # § 191. Secretary of Defense: authority to provide for common performance of supply or service activities

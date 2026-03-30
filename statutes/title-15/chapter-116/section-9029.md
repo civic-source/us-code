@@ -3,9 +3,9 @@ title: "Section 9029 - Assistance and guidance in implementing programs"
 usc_title: 15
 usc_section: "9029"
 chapter: 116
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 9029"
-generated_at: "2026-03-30T02:21:36.914Z"
+generated_at: "2026-03-30T02:24:20.149Z"
 ---
 
 # § 9029. Assistance and guidance in implementing programs

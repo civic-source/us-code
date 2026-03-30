@@ -3,9 +3,9 @@ title: "Section 103306 - Studies"
 usc_title: 54
 usc_section: "103306"
 chapter: 1033
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "54 U.S.C. § 103306"
-generated_at: "2026-03-30T02:23:35.715Z"
+generated_at: "2026-03-30T02:26:08.128Z"
 ---
 
 # § 103306. Studies

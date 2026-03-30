@@ -3,9 +3,9 @@ title: "Section 2009e - Transfers of funds"
 usc_title: 7
 usc_section: "2009e"
 chapter: 50
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 2009e"
-generated_at: "2026-03-30T02:21:01.694Z"
+generated_at: "2026-03-30T02:24:00.957Z"
 ---
 
 # § 2009e. Transfers of funds

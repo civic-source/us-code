@@ -3,9 +3,9 @@ title: "Section 12651d - Authorities and duties of the Chief Executive Officer"
 usc_title: 42
 usc_section: "12651d"
 chapter: 129
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 12651d"
-generated_at: "2026-03-30T02:23:23.199Z"
+generated_at: "2026-03-30T02:25:37.600Z"
 ---
 
 # § 12651d. Authorities and duties of the Chief Executive Officer
@@ -69,9 +69,9 @@ generated_at: "2026-03-30T02:23:23.199Z"
   - **(17)** identify and implement recruitment strategies and training programs for bilingual volunteers in the National Senior Service Corps under title II of the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 5000 et seq.];
   - **(18)** collaborate with organizations that have established volunteer recruitment programs to increase the recruitment capacity of the Corporation;
   - **(19)** where practicable, provide application materials in languages other than English for individuals with limited English proficiency who wish to participate in a national service program;
-  - **(20)** collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title ); 2 2 So in original. The closing parenthesis probably should not appear.
+  - **(20)** collaborate with the training and technical assistance programs described in division K with respect to the activities described in section 12657(b) of this title ); 1 1 So in original. The closing parenthesis probably should not appear.
   - **(21)** coordinate the clearinghouses described in section 12653 o of this title;
-  - **(22)** coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title , through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title ); 1
+  - **(22)** coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title , through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title ); 2 2 See References in Text note below.
   - **(23)** identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
   - **(24)** conduct outreach to ensure the inclusion of economically disadvantaged individuals in national service programs and activities authorized under the national service laws; and
   - **(25)** ensure that outreach, awareness, and recruitment efforts are consistent with the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.) and section 794 of title 29 .

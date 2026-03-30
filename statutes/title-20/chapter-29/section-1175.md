@@ -3,9 +3,9 @@ title: "Section 1175 - Repealed. Pub. L. 91–230, title IV, § 401(f)(7) , Apr.
 usc_title: 20
 usc_section: "1175"
 chapter: 29
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 1175"
-generated_at: "2026-03-30T02:21:47.271Z"
+generated_at: "2026-03-30T02:24:28.385Z"
 ---
 
 # § 1175. Repealed. Pub. L. 91–230, title IV, § 401(f)(7) , Apr. 13, 1970 , 84 Stat. 174

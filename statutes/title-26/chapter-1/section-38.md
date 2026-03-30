@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-30T02:22:25.808Z"
+generated_at: "2026-03-30T02:24:55.819Z"
 ---
 
 # § 38. General business credit
@@ -51,9 +51,11 @@ generated_at: "2026-03-30T02:22:25.808Z"
   - **(34)** the zero-emission nuclear power production credit determined under section 45U(a).
   - **(35)** the sustainable aviation fuel credit determined under section 40B,
   - **(36)** the clean hydrogen production credit determined under section 45V(a),
-  - **(37)** the qualified commercial clean vehicle credit determined under section 45W, plus
-  - **(38)** the advanced manufacturing production credit determined under section 45X(a).
-  - **(41)** 1 1 See Amendment of Subsection (b) note below. in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
+  - **(37)** the qualified commercial clean vehicle credit determined under section 45W,
+  - **(38)** the advanced manufacturing production credit determined under section 45X(a),
+  - **(39)** the clean electricity production credit determined under section 45Y(a),
+  - **(40)** the clean fuel production credit determined under section 45Z(a), plus
+  - **(41)** in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 - **(c)**
   - **(1)** The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer’s net income tax over the greater of—
     - **(A)** the tentative minimum tax for the taxable year, or

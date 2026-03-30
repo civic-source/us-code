@@ -3,9 +3,9 @@ title: "Section 502 - Enlistment oath: who may administer"
 usc_title: 10
 usc_section: "502"
 chapter: 31
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 502"
-generated_at: "2026-03-30T02:21:23.717Z"
+generated_at: "2026-03-30T02:24:07.155Z"
 ---
 
 # § 502. Enlistment oath: who may administer

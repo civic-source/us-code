@@ -3,9 +3,9 @@ title: "Section 20503 - Removal of officer: action by Secretary upon recommendat
 usc_title: 10
 usc_section: "20503"
 chapter: 2011
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 20503"
-generated_at: "2026-03-30T02:21:23.906Z"
+generated_at: "2026-03-30T02:24:07.360Z"
 ---
 
 # § 20503. Removal of officer: action by Secretary upon recommendation of retention board

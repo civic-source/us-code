@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T02:22:25.932Z"
+generated_at: "2026-03-30T02:24:55.933Z"
 ---
 
 # § 529. Qualified tuition programs
@@ -50,7 +50,7 @@ generated_at: "2026-03-30T02:22:25.932Z"
       - **(i)** Subparagraph (A) shall not apply to that portion of any distribution which, within 60 days of such distribution, is transferred—
         - **(I)** to another qualified tuition program for the benefit of the designated beneficiary,
         - **(II)** to the credit of another designated beneficiary under a qualified tuition program who is a member of the family of the designated beneficiary with respect to which the distribution was made, or
-        - **(III)** before January 1, 2026 , to an ABLE account (as defined in section 529A(e)(6)) of the designated beneficiary or a member of the family of the designated beneficiary.
+        - **(III)** to an ABLE account (as defined in section 529A(e)(6)) of the designated beneficiary or a member of the family of the designated beneficiary.
       - **(ii)** Any change in the designated beneficiary of an interest in a qualified tuition program shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is a member of the family of the old beneficiary.
       - **(iii)** Clause (i)(I) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified tuition program for the benefit of the designated beneficiary.
     - **(D)** In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
@@ -71,7 +71,18 @@ generated_at: "2026-03-30T02:22:25.932Z"
       - **(i)** assigned to the same generation as (or a higher generation than) the old beneficiary (determined in accordance with section 2651), and
       - **(ii)** a member of the family of the old beneficiary.
   - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from a Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
-  - **(7)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
+  - **(7)** Any reference in this section to the term “qualified higher education expense” shall include a reference to the following expenses in connection with enrollment or attendance at, or for students enrolled at or attending, an elementary or secondary public, private, or religious school:
+    - **(A)** Tuition.
+    - **(B)** Curriculum and curricular materials.
+    - **(C)** Books or other instructional materials.
+    - **(D)** Online educational materials.
+    - **(E)** Tuition for tutoring or educational classes outside of the home, including at a tutoring facility, but only if the tutor or instructor is not related to the student and—
+      - **(i)** is licensed as a teacher in any State,
+      - **(ii)** has taught at an eligible educational institution, or
+      - **(iii)** is a subject matter expert in the relevant subject.
+    - **(F)** Fees for a nationally standardized norm-referenced achievement test, an advanced placement examination, or any examinations related to college or university admission.
+    - **(G)** Fees for dual enrollment in an institution of higher education.
+    - **(H)** Educational therapies for students with disabilities provided by a licensed or accredited practitioner or provider, including occupational, behavioral, physical, and speech-language therapies.
   - **(8)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for fees, books, supplies, and equipment required for the participation of a designated beneficiary in an apprenticeship program registered and certified with the Secretary of Labor under section 1 of the National Apprenticeship Act ( 29 U.S.C. 50 ).
   - **(9)**
     - **(A)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to amounts paid as principal or interest on any qualified education loan (as defined in section 221(d)) of the designated beneficiary or a sibling of the designated beneficiary.
@@ -102,8 +113,27 @@ generated_at: "2026-03-30T02:22:25.932Z"
       - **(ii)** The amount treated as qualified higher education expenses by reason of clause (i) shall not exceed—
         - **(I)** the allowance (applicable to the student) for room and board included in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 ( 20 U.S.C. 1087 ll ), as in effect on the date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001) as determined by the eligible educational institution for such period, or
         - **(II)** if greater, the actual invoice amount the student residing in housing owned or operated by the eligible educational institution is charged by such institution for room and board costs for such period.
+    - **(C)** The term “qualified higher education expenses” includes qualified postsecondary credentialing expenses (as defined in subsection (f)).
   - **(4)** An interest in a qualified tuition program shall not be treated as debt for purposes of section 514.
   - **(5)** The term “eligible educational institution” means an institution—
     - **(A)** which is described in section 481 of the Higher Education Act of 1965 ( 20 U.S.C. 1088 ), as in effect on the date of the enactment of this paragraph, and
     - **(B)** which is eligible to participate in a program under title IV of such Act.
-- **(f)** Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
+- **(f)** For purposes of this section—
+  - **(1)** The term “qualified postsecondary credentialing expenses” means—
+    - **(A)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary in a recognized postsecondary credential program, or any other expense incurred in connection with enrollment in or attendance at a recognized postsecondary credential program if such expense would, if incurred in connection with enrollment or attendance at an eligible educational institution, be covered under subsection (e)(3)(A),
+    - **(B)** fees for testing if such testing is required to obtain or maintain a recognized postsecondary credential, and
+    - **(C)** fees for continuing education if such education is required to maintain a recognized postsecondary credential.
+  - **(2)** The term “recognized postsecondary credential program” means any program to obtain a recognized postsecondary credential if—
+    - **(A)** such program is included on a State list prepared under section 122(d) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3152(d) ),
+    - **(B)** such program is listed in the public directory of the Web Enabled Approval Management System (WEAMS) of the Veterans Benefits Administration, or successor directory such program,
+    - **(C)** an examination (developed or administered by an organization widely recognized as providing reputable credentials in the occupation) is required to obtain or maintain such credential and such organization recognizes such program as providing training or education which prepares individuals to take such examination, or
+    - **(D)** such program is identified by the Secretary, after consultation with the Secretary of Labor, as being a reputable program for obtaining a recognized postsecondary credential for purposes of this subparagraph.
+  - **(3)** The term “recognized postsecondary credential” means—
+    - **(A)** any postsecondary employment credential that is industry recognized and is—
+      - **(i)** any postsecondary employment credential issued by a program that is accredited by the Institute for Credentialing Excellence, the National Commission on Certifying Agencies, or the American National Standards Institute,
+      - **(ii)** any postsecondary employment credential that is included in the Credentialing Opportunities On-Line (COOL) directory of credentialing programs (or successor directory) maintained by the Department of Defense or by any branch of the Armed Forces, or
+      - **(iii)** any postsecondary employment credential identified for purposes of this clause by the Secretary, after consultation with the Secretary of Labor, as being industry recognized,
+    - **(B)** any certificate of completion of an apprenticeship that is registered and certified with the Secretary of Labor under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.),
+    - **(C)** any occupational or professional license issued or recognized by a State or the Federal Government (and any certification that satisfies a condition for obtaining such a license), and
+    - **(D)** any recognized postsecondary credential as defined in section 3(52) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3102(52) ), provided through a program described in paragraph (2)(A).
+- **(g)** Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.

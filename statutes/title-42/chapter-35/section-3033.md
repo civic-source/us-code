@@ -3,9 +3,9 @@ title: "Section 3033 - Payment of grants"
 usc_title: 42
 usc_section: "3033"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 3033"
-generated_at: "2026-03-30T02:23:22.968Z"
+generated_at: "2026-03-30T02:25:37.371Z"
 ---
 
 # § 3033. Payment of grants

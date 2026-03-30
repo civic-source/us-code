@@ -3,9 +3,9 @@ title: "Section 10910 - Effect on other statutes and authorities"
 usc_title: 49
 usc_section: "10910"
 chapter: 109
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 10910"
-generated_at: "2026-03-30T02:23:31.277Z"
+generated_at: "2026-03-30T02:26:04.067Z"
 ---
 
 # § 10910. Effect on other statutes and authorities

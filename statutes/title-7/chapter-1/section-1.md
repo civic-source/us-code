@@ -3,9 +3,9 @@ title: "Section 1 - Enjoining or restraining violations"
 usc_title: 7
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:21:01.593Z"
+generated_at: "2026-03-30T02:24:00.851Z"
 ---
 
 # § 13a–1. Enjoining or restraining violations

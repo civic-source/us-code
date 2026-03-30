@@ -3,9 +3,9 @@ title: "Section 309 - Office of the Coast Guard Reserve; Director"
 usc_title: 14
 usc_section: "309"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "14 U.S.C. § 309"
-generated_at: "2026-03-30T02:21:37.190Z"
+generated_at: "2026-03-30T02:24:11.483Z"
 ---
 
 # § 309. Office of the Coast Guard Reserve; Director

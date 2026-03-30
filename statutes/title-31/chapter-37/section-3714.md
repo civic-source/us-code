@@ -3,9 +3,9 @@ title: "Section 3714 - Keeping money due States in default"
 usc_title: 31
 usc_section: "3714"
 chapter: 37
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "31 U.S.C. § 3714"
-generated_at: "2026-03-30T02:22:48.065Z"
+generated_at: "2026-03-30T02:24:58.767Z"
 ---
 
 # § 3714. Keeping money due States in default

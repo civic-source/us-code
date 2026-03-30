@@ -3,9 +3,9 @@ title: "Section 63 - Taxable income defined"
 usc_title: 26
 usc_section: "63"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-30T02:22:25.831Z"
+generated_at: "2026-03-30T02:24:55.842Z"
 ---
 
 # § 63. Taxable income defined
@@ -14,8 +14,11 @@ generated_at: "2026-03-30T02:22:25.831Z"
 - **(b)** In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
   - **(1)** the standard deduction,
   - **(2)** the deduction for personal exemptions provided in section 151,
-  - **(3)** any deduction provided in section 199A, and
-  - **(4)** the deduction provided in section 170(p).
+  - **(3)** any deduction provided in section 199A,
+  - **(4)** the deduction provided in section 170(p),
+  - **(5)** the deduction provided in section 224,
+  - **(6)** the deduction provided in section 225 and 1 1 So in original. Probably should be preceded by a comma.
+  - **(7)** so much of the deduction allowed by section 163(a) as is attributable to the exception under section 163(h)(4)(A).
 - **(c)** For purposes of this subtitle—
   - **(1)** Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
     - **(A)** the basic standard deduction, and
@@ -40,15 +43,15 @@ generated_at: "2026-03-30T02:22:25.831Z"
     - **(B)** a nonresident alien individual,
     - **(C)** an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period, or
     - **(D)** an estate or trust, common trust fund, or partnership,
-  - **(7)** In the case of a taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+  - **(7)** In the case of a taxable year beginning after December 31, 2017 —
     - **(A)** Paragraph (2) shall be applied—
-      - **(i)** by substituting “$18,000” for “$4,400” in subparagraph (B), and
-      - **(ii)** by substituting “$12,000” for “$3,000” in subparagraph (C).
+      - **(i)** by substituting “$23,625” for “$4,400” in subparagraph (B), and
+      - **(ii)** by substituting “$15,750” for “$3,000” in subparagraph (C).
     - **(B)**
       - **(i)** Paragraph (4) shall not apply to the dollar amounts contained in paragraphs (2)(B) and (2)(C).
-      - **(ii)** In the case of a taxable year beginning after 2018, the $18,000 and $12,000 amounts in subparagraph (A) shall each be increased by an amount equal to—
+      - **(ii)** In the case of a taxable year beginning after 2025, the $23,625 and $15,750 amounts in subparagraph (A) shall each be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2024” for “2016” in subparagraph (A)(ii) thereof.
 - **(d)** For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
   - **(1)** the deductions allowable in arriving at adjusted gross income, and
   - **(2)** any deduction referred to in any paragraph of subsection (b).

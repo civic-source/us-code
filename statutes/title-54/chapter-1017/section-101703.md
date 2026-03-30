@@ -3,14 +3,14 @@ title: "Section 101703 - Cooperative management agreements"
 usc_title: 54
 usc_section: "101703"
 chapter: 1017
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "54 U.S.C. § 101703"
-generated_at: "2026-03-30T02:23:35.713Z"
+generated_at: "2026-03-30T02:26:08.123Z"
 ---
 
 # § 101703. Cooperative management agreements
 
-- **(a)** To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary considers advisable, may enter into an agreement with an eligible entity managing lands and waters located near a System unit to provide for cooperative management of either a System unit or the lands and waters located near a System unit to promote more effective and efficient management of a System unit. The Secretary may not transfer administration responsibilities for any System unit under this paragraph.
+- **(a)** To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary considers advisable, may enter into an agreement with an eligible entity managing lands and waters located near a System unit to provide for cooperative management of either a System unit or the lands and waters located near a System unit to promote more effective and efficient management of a System unit. The Secretary may not transfer administration responsibilities for any System unit under this paragraph. 1 1 So in original. Probably should be “this subsection”.
 - **(b)**
   - **(1)** Under a cooperative management agreement, the Secretary may acquire by purchase, donation, or exchange from and provide to an eligible entity on a reimbursable basis goods and services to be used by the Secretary or the eligible entity in the cooperative management of land and waters.
   - **(2)** Reimbursements received under this section may be credited to the appropriation current at the time reimbursements are received.

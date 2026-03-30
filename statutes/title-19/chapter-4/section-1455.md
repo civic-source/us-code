@@ -3,9 +3,9 @@ title: "Section 1455 - Boarding and discharging inspectors"
 usc_title: 19
 usc_section: "1455"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "19 U.S.C. § 1455"
-generated_at: "2026-03-30T02:21:48.797Z"
+generated_at: "2026-03-30T02:24:30.126Z"
 ---
 
 # § 1455. Boarding and discharging inspectors

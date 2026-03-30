@@ -3,9 +3,9 @@ title: "Section 510 - Forging endorsements on Treasury checks or bonds or securi
 usc_title: 18
 usc_section: "510"
 chapter: 25
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 510"
-generated_at: "2026-03-30T02:21:44.495Z"
+generated_at: "2026-03-30T02:24:24.099Z"
 ---
 
 # § 510. Forging endorsements on Treasury checks or bonds or securities of the United States

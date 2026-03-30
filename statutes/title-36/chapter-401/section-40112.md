@@ -3,9 +3,9 @@ title: "Section 40112 - Annual report"
 usc_title: 36
 usc_section: "40112"
 chapter: 401
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 40112"
-generated_at: "2026-03-30T02:22:53.989Z"
+generated_at: "2026-03-30T02:25:08.439Z"
 ---
 
 # § 40112. Annual report

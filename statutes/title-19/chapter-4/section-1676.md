@@ -3,9 +3,9 @@ title: "Section 1676 - Required consultations"
 usc_title: 19
 usc_section: "1676"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "19 U.S.C. § 1676"
-generated_at: "2026-03-30T02:21:48.817Z"
+generated_at: "2026-03-30T02:24:30.141Z"
 ---
 
 # § 1676. Required consultations

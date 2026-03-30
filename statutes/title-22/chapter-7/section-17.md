@@ -3,9 +3,9 @@ title: "Section 17 - Tenth replenishment"
 usc_title: 22
 usc_section: "17"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 17"
-generated_at: "2026-03-30T02:22:14.400Z"
+generated_at: "2026-03-30T02:24:42.655Z"
 ---
 
 # § 290g–17. Tenth replenishment

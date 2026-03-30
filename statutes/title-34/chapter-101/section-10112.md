@@ -3,9 +3,9 @@ title: "Section 10112 - Senior Policy Advisor on Culturally Specific Communities
 usc_title: 34
 usc_section: "10112"
 chapter: 101
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "34 U.S.C. § 10112"
-generated_at: "2026-03-30T02:22:29.521Z"
+generated_at: "2026-03-30T02:25:04.772Z"
 ---
 
 # § 10112. Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs

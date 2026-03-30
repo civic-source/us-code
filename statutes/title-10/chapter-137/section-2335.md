@@ -3,9 +3,9 @@ title: "Section 2335 - Renumbered § 4660]"
 usc_title: 10
 usc_section: "2335"
 chapter: 137
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 2335"
-generated_at: "2026-03-30T02:21:23.792Z"
+generated_at: "2026-03-30T02:24:07.243Z"
 ---
 
 # [§ 2335. Renumbered § 4660]

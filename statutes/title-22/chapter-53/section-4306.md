@@ -3,9 +3,9 @@ title: "Section 4306 - Location of foreign missions in the District of Columbia"
 usc_title: 22
 usc_section: "4306"
 chapter: 53
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 4306"
-generated_at: "2026-03-30T02:22:14.498Z"
+generated_at: "2026-03-30T02:24:42.750Z"
 ---
 
 # § 4306. Location of foreign missions in the District of Columbia

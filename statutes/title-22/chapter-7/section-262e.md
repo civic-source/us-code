@@ -3,9 +3,9 @@ title: "Section 262e - Comparability of salaries and benefits of employees of in
 usc_title: 22
 usc_section: "262e"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 262e"
-generated_at: "2026-03-30T02:22:14.380Z"
+generated_at: "2026-03-30T02:24:42.634Z"
 ---
 
 # § 262e. Comparability of salaries and benefits of employees of international financial institutions with employees of American private business and governmental service

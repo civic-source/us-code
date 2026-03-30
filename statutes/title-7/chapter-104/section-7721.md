@@ -3,9 +3,9 @@ title: "Section 7721 - Plant pest and disease management and disaster prevention
 usc_title: 7
 usc_section: "7721"
 chapter: 104
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 7721"
-generated_at: "2026-03-30T02:21:01.819Z"
+generated_at: "2026-03-30T02:24:01.060Z"
 ---
 
 # § 7721. Plant pest and disease management and disaster prevention
@@ -77,8 +77,9 @@ generated_at: "2026-03-30T02:21:01.819Z"
   - **(2)** $45,000,000 for fiscal year 2010;
   - **(3)** $50,000,000 for fiscal year 2011;
   - **(4)** $50,000,000 for fiscal year 2012;
-  - **(5)** $62,500,000 for each of fiscal years 2014 through 2017; and
-  - **(6)** $75,000,000 for fiscal year 2018 and each fiscal year thereafter.
+  - **(5)** $62,500,000 for each of fiscal years 2014 through 2017;
+  - **(6)** $75,000,000 for each of fiscal years 2018 through 2025; and
+  - **(7)** $90,000,000 for fiscal year 2026 and each fiscal year thereafter.
 - **(g)** Of the funds made available under subsection (f) to carry out this section for a fiscal year, not less than $5,000,000 shall be available to carry out the National Clean Plant Network under subsection (e).
 - **(h)** Indirect costs charged against a cooperative agreement under this section shall not exceed the lesser of—
   - **(1)** 15 percent of the total Federal funds provided under the cooperative agreement, as determined by the Secretary; and

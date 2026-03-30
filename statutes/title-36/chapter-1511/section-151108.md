@@ -3,9 +3,9 @@ title: "Section 151108 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "151108"
 chapter: 1511
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 151108"
-generated_at: "2026-03-30T02:22:53.995Z"
+generated_at: "2026-03-30T02:25:08.445Z"
 ---
 
 # § 151108. Nonapplication of audit requirements

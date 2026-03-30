@@ -3,9 +3,9 @@ title: "Section 3540 - Purpose"
 usc_title: 38
 usc_section: "3540"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 3540"
-generated_at: "2026-03-30T02:23:01.402Z"
+generated_at: "2026-03-30T02:25:14.760Z"
 ---
 
 # § 3540. Purpose

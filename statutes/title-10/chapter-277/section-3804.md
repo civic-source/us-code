@@ -3,9 +3,9 @@ title: "Section 3804 - Conditions for progress payments"
 usc_title: 10
 usc_section: "3804"
 chapter: 277
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 3804"
-generated_at: "2026-03-30T02:21:23.833Z"
+generated_at: "2026-03-30T02:24:07.286Z"
 ---
 
 # § 3804. Conditions for progress payments

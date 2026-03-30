@@ -3,9 +3,9 @@ title: "Section 1161 - Railroad transportation security risk assessment and Nati
 usc_title: 6
 usc_section: "1161"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "6 U.S.C. § 1161"
-generated_at: "2026-03-30T02:20:46.747Z"
+generated_at: "2026-03-30T02:23:56.403Z"
 ---
 
 # § 1161. Railroad transportation security risk assessment and National Strategy

@@ -3,9 +3,9 @@ title: "Section 6513 - Per diem and subsistence expenses from Senate contingent 
 usc_title: 2
 usc_section: "6513"
 chapter: 65
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "2 U.S.C. § 6513"
-generated_at: "2026-03-30T02:20:43.934Z"
+generated_at: "2026-03-30T02:23:50.755Z"
 ---
 
 # § 6513. Per diem and subsistence expenses from Senate contingent fund

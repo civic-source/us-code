@@ -3,9 +3,9 @@ title: "Section 7438 - Environmental and climate justice block grants"
 usc_title: 42
 usc_section: "7438"
 chapter: 85
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 7438"
-generated_at: "2026-03-30T02:23:23.087Z"
+generated_at: "2026-03-30T02:25:37.490Z"
 ---
 
 # § 7438. Environmental and climate justice block grants

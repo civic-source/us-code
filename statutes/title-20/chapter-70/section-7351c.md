@@ -3,9 +3,9 @@ title: "Section 7351c - Report"
 usc_title: 20
 usc_section: "7351c"
 chapter: 70
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 7351c"
-generated_at: "2026-03-30T02:21:47.330Z"
+generated_at: "2026-03-30T02:24:28.437Z"
 ---
 
 # § 7351c. Report

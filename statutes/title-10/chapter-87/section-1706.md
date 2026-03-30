@@ -3,9 +3,9 @@ title: "Section 1706 - Government performance of certain acquisition functions"
 usc_title: 10
 usc_section: "1706"
 chapter: 87
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 1706"
-generated_at: "2026-03-30T02:21:23.776Z"
+generated_at: "2026-03-30T02:24:07.224Z"
 ---
 
 # § 1706. Government performance of certain acquisition functions

@@ -3,9 +3,9 @@ title: "Section 444 - Dumping at other place than designated dumping grounds; pe
 usc_title: 33
 usc_section: "444"
 chapter: 9
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 444"
-generated_at: "2026-03-30T02:22:30.889Z"
+generated_at: "2026-03-30T02:25:00.104Z"
 ---
 
 # § 444. Dumping at other place than designated dumping grounds; penalty; person liable; excuses for deviation

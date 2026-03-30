@@ -3,9 +3,9 @@ title: "Section 1185i - Protecting patients and improving the accuracy of provid
 usc_title: 29
 usc_section: "1185i"
 chapter: 18
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "29 U.S.C. § 1185i"
-generated_at: "2026-03-30T02:22:19.167Z"
+generated_at: "2026-03-30T02:24:47.360Z"
 ---
 
 # § 1185i. Protecting patients and improving the accuracy of provider directory information

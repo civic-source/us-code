@@ -3,9 +3,9 @@ title: "Section 5925g - Urban, indoor, and other emerging agricultural productio
 usc_title: 7
 usc_section: "5925g"
 chapter: 88
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 5925g"
-generated_at: "2026-03-30T02:21:01.776Z"
+generated_at: "2026-03-30T02:24:01.019Z"
 ---
 
 # § 5925g. Urban, indoor, and other emerging agricultural production research, education, and extension initiative
@@ -26,5 +26,5 @@ generated_at: "2026-03-30T02:21:01.776Z"
 - **(d)**
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
     - **(A)** $10,000,000 for fiscal year 2019, to remain available until expended; and
-    - **(B)** $2,000,000 for fiscal year 2024, to remain available until expended.
+    - **(B)** $2,000,000 for each of fiscal years 2024 through 2031.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.

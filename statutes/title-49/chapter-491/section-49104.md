@@ -3,9 +3,9 @@ title: "Section 49104 - Lease of Metropolitan Washington Airports"
 usc_title: 49
 usc_section: "49104"
 chapter: 491
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 49104"
-generated_at: "2026-03-30T02:23:31.357Z"
+generated_at: "2026-03-30T02:26:04.154Z"
 ---
 
 # § 49104. Lease of Metropolitan Washington Airports
@@ -41,6 +41,10 @@ generated_at: "2026-03-30T02:23:31.357Z"
     - **(B)** at Ronald Reagan Washington National Airport may not be used for maintenance or operating expenses (excluding debt service, depreciation, and amortization) at Washington Dulles International Airport.
   - **(10)** The Airports Authority shall compute the fees and charges for landing general aviation aircraft at the Metropolitan Washington Airports on the same basis as the landing fees for air carrier aircraft, except that the Airports Authority may require a minimum landing fee that is not more than the landing fee for aircraft weighing 12,500 pounds.
   - **(11)** The Secretary shall include other terms applicable to the parties to the lease that are consistent with, and carry out, this chapter.
-- **(b)** Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
+- **(b)**
+  - **(1)** Subject to paragraph (2), under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator—
+    - **(A)** during the period from 1987 to 2026, equal to $3,000,000 in 1987 dollars; and
+    - **(B)** for 2027 and subsequent years, equal to $15,000,000 in 2027 dollars.
+  - **(2)** The Secretary and the Airports Authority shall renegotiate the level of lease payments at least once every 10 years to ensure that in no year the amount specified in paragraph (1)(B) is less than $15,000,000 in 2027 dollars.
 - **(c)** The district courts of the United States have jurisdiction to compel the Airports Authority and its officers and employees to comply with the terms of the lease. The Attorney General or an aggrieved party may bring an action on behalf of the Government.
 - **(d)** The Secretary and the Airports Authority may at any time negotiate an extension of the lease.

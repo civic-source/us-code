@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T02:22:05.155Z"
+generated_at: "2026-03-30T02:24:34.090Z"
 ---
 
 # § 460zzz–7. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2152 - Assistance for victims of torture"
 usc_title: 22
 usc_section: "2152"
 chapter: 32
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 2152"
-generated_at: "2026-03-30T02:22:14.427Z"
+generated_at: "2026-03-30T02:24:42.680Z"
 ---
 
 # § 2152. Assistance for victims of torture

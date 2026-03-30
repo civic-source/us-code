@@ -3,9 +3,9 @@ title: "Section 2056f - Consumer product safety standard to protect against tip-
 usc_title: 15
 usc_section: "2056f"
 chapter: 47
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 2056f"
-generated_at: "2026-03-30T02:21:36.831Z"
+generated_at: "2026-03-30T02:24:20.050Z"
 ---
 
 # § 2056f. Consumer product safety standard to protect against tip-over of clothing storage units

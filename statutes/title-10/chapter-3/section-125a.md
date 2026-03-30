@@ -3,9 +3,9 @@ title: "Section 125a - Reform: improvement of efficacy and efficiency"
 usc_title: 10
 usc_section: "125a"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 125a"
-generated_at: "2026-03-30T02:21:23.690Z"
+generated_at: "2026-03-30T02:24:07.127Z"
 ---
 
 # § 125a. Reform: improvement of efficacy and efficiency

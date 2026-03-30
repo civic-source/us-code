@@ -1,12 +1,12 @@
 ---
-title: "Section 44510 - Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148"
+title: "Section 44510 - Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148 ]"
 usc_title: 49
 usc_section: "44510"
 chapter: 445
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 44510"
-generated_at: "2026-03-30T02:23:31.331Z"
+generated_at: "2026-03-30T02:26:04.125Z"
 ---
 
-# § 44510. Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148
+# [§ 44510. Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148 ]
 

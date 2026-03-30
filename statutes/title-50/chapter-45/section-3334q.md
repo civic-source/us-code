@@ -3,9 +3,9 @@ title: "Section 3334q - Detail of individuals from intelligence community to Dep
 usc_title: 50
 usc_section: "3334q"
 chapter: 45
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "50 U.S.C. § 3334q"
-generated_at: "2026-03-30T02:23:33.213Z"
+generated_at: "2026-03-30T02:26:05.767Z"
 ---
 
 # § 3334q. Detail of individuals from intelligence community to Department of Commerce

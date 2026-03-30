@@ -3,9 +3,9 @@ title: "Section 44502 - General facilities and personnel authority"
 usc_title: 49
 usc_section: "44502"
 chapter: 445
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 44502"
-generated_at: "2026-03-30T02:23:31.331Z"
+generated_at: "2026-03-30T02:26:04.124Z"
 ---
 
 # § 44502. General facilities and personnel authority

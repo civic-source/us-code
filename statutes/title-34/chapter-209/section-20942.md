@@ -3,9 +3,9 @@ title: "Section 20942 - Project Safe Childhood"
 usc_title: 34
 usc_section: "20942"
 chapter: 209
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "34 U.S.C. § 20942"
-generated_at: "2026-03-30T02:22:29.565Z"
+generated_at: "2026-03-30T02:25:04.823Z"
 ---
 
 # § 20942. Project Safe Childhood
@@ -120,7 +120,7 @@ generated_at: "2026-03-30T02:22:29.565Z"
       - **(iii)** any other program that—
         - **(I)** raises national awareness about the threat of technology-facilitated child sexual exploitation offenses or offenses involving child sexual abuse material; and
         - **(II)** provides information to parents and children seeking to report possible violations of technology-facilitated child sexual exploitation offenses or offenses involving child sexual abuse material.
-- **(e)** Notwithstanding subsection (d), funds authorized under this section may be also be used for the following purposes:
+- **(e)** Notwithstanding subsection (d), funds authorized under this section may be also be 1 1 So in original. used for the following purposes:
   - **(1)** The addition of not less than 20 Assistant United States Attorneys at the Department of Justice, relative to the number of such positions as of the day before December 23, 2024 , who shall be—
     - **(A)** dedicated to the prosecution of cases in connection with the Project Safe Childhood program set forth under subsection (b); and
     - **(B)** responsible for assisting and coordinating the plans and protocols of each district under subsection (d)(1)(C)(i)(II).

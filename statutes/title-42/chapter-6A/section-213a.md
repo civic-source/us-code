@@ -3,24 +3,24 @@ title: "Section 213a - Rights, benefits, privileges, and immunities for commissi
 usc_title: 42
 usc_section: "213a"
 chapter: 6
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 213a"
-generated_at: "2026-03-30T02:23:22.524Z"
+generated_at: "2026-03-30T02:25:36.924Z"
 ---
 
 # § 213a. Rights, benefits, privileges, and immunities for commissioned officers or beneficiaries; exercise of authority by Secretary or designee
 
 - **(a)** Commissioned officers of the Service or their surviving beneficiaries are entitled to all the rights, benefits, privileges, and immunities now or hereafter provided for commissioned officers of the Army or their surviving beneficiaries under the following provisions of title 10:
-  - **(1)** Section 1036, Escorts for dependents of members: transportation and travel allowances.
+  - **(1)** Section 1036, 1 1 See References in Text note below. Escorts for dependents of members: transportation and travel allowances.
   - **(2)** Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
-  - **(3)** Chapter 69, Retired Grade, except sections 1370, 1 1 See References in Text note below. 1374, 1 1375 and 1376(a). 1
+  - **(3)** Chapter 69, Retired Grade, except sections 1370, 1 1374, 1 1375 and 1376(a). 1
   - **(4)** Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401. 1
   - **(5)** Chapter 73, Retired Serviceman’s Family Protection Plan; Survivor Benefit Plan.
   - **(6)** Chapter 75, Death Benefits.
   - **(7)** Section 2771, Final settlement of accounts: deceased members.
   - **(8)** Chapter 163, Military Claims, but only when commissioned officers of the Service are entitled to military benefits under section 213 of this title .
   - **(9)** Section 2603, Acceptance of fellowships, scholarships, or grants.
-  - **(10)** Section 2634, Motor vehicles: for members on permanent change of station.
+  - **(10)** Section 2634, 1 Motor vehicles: for members on permanent change of station.
   - **(11)** Section 1035, Deposits of Savings.
   - **(12)** Section 1552, Correction of military rec­ords: claims incident thereto.
   - **(13)** Section 1553, Review of discharge or dismissal.

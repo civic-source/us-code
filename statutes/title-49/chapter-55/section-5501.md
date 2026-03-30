@@ -3,9 +3,9 @@ title: "Section 5501 - National Intermodal Transportation System policy"
 usc_title: 49
 usc_section: "5501"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 5501"
-generated_at: "2026-03-30T02:23:31.270Z"
+generated_at: "2026-03-30T02:26:04.060Z"
 ---
 
 # § 5501. National Intermodal Transportation System policy

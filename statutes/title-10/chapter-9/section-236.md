@@ -3,9 +3,9 @@ title: "Section 236 - Personal protection equipment procurement: display of budg
 usc_title: 10
 usc_section: "236"
 chapter: 9
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 236"
-generated_at: "2026-03-30T02:21:23.705Z"
+generated_at: "2026-03-30T02:24:07.142Z"
 ---
 
 # § 236. Personal protection equipment procurement: display of budget information

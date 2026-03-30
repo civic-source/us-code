@@ -3,9 +3,9 @@ title: "Section 1254a - Temporary protected status"
 usc_title: 8
 usc_section: "1254a"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "8 U.S.C. § 1254a"
-generated_at: "2026-03-30T02:20:47.336Z"
+generated_at: "2026-03-30T02:23:57.105Z"
 ---
 
 # § 1254a. Temporary protected status
@@ -50,7 +50,13 @@ generated_at: "2026-03-30T02:20:47.336Z"
       - **(ii)** the alien has continuously resided in the United States since such date as the Attorney General may designate;
       - **(iii)** the alien is admissible as an immigrant, except as otherwise provided under paragraph (2)(A), and is not ineligible for temporary protected status under paragraph (2)(B); and
       - **(iv)** to the extent and in a manner which the Attorney General establishes, the alien registers for the temporary protected status under this section during a registration period of not less than 180 days.
-    - **(B)** The Attorney General may require payment of a reasonable fee as a condition of registering an alien under subparagraph (A)(iv) (including providing an alien with an “employment authorized” endorsement or other appropriate work permit under this section). The amount of any such fee shall not exceed $50. In the case of aliens registered pursuant to a designation under this section made after July 17, 1991 , the Attorney General may impose a separate, additional fee for providing an alien with documentation of work authorization. Notwithstanding section 3302 of title 31 , all fees collected under this subparagraph shall be credited to the appropriation to be used in carrying out this section.
+    - **(B)**
+      - **(i)** The Attorney General may require payment of a reasonable fee as a condition of registering an alien under subparagraph (A)(iv) (including providing an alien with an “employment authorized” endorsement or other appropriate work permit under this section). The amount of any such fee shall not exceed $500, subject to the adjustments required under clause (ii). In the case of aliens registered pursuant to a designation under this section made after July 17, 1991 , the Attorney General may impose a separate, additional fee for providing an alien with documentation of work authorization. Notwithstanding section 3302 of title 31 , all fees collected under this subparagraph shall be credited to the appropriation to be used in carrying out this section.
+      - **(ii)** During fiscal year 2026, and during each subsequent fiscal year, the maximum amount of the fee authorized under clause (i) shall be equal to the sum of—
+        - **(I)** the maximum amount of the fee authorized under this subparagraph for the most recently concluded fiscal year; and
+        - **(II)** the product resulting from the multiplication of the amount referred to in subclause (I) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+      - **(iii)** All of the fees collected pursuant to this subparagraph shall be deposited into the general fund of the Treasury.
+      - **(iv)** Fees required to be paid under this subparagraph shall not be waived or reduced.
   - **(2)**
     - **(A)** In the determination of an alien’s admissibility for purposes of subparagraph (A)(iii) of paragraph (1)—
       - **(i)** the provisions of paragraphs (5) and (7)(A) of section 1182(a) of this title shall not apply;

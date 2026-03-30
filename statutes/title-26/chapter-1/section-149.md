@@ -3,9 +3,9 @@ title: "Section 149 - Bonds must be registered to be tax exempt; other requireme
 usc_title: 26
 usc_section: "149"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 149"
-generated_at: "2026-03-30T02:22:25.849Z"
+generated_at: "2026-03-30T02:24:55.859Z"
 ---
 
 # § 149. Bonds must be registered to be tax exempt; other requirements
@@ -46,6 +46,7 @@ generated_at: "2026-03-30T02:22:25.849Z"
       - **(ii)** Clause (i) shall not apply to any bond which is federally guaranteed within the meaning of paragraph (2)(B)(ii).
     - **(D)** Except as provided in paragraph (2)(B)(ii), a bond which is issued as part of an issue shall not be treated as federally guaranteed merely by reason of the fact that the proceeds of such issue are used in making loans to a financial institution or there is a guarantee by a financial institution unless such guarantee constitutes a federally insured deposit or account.
     - **(E)** Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent as such requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008 .
+    - **(F)** A bond shall not be treated as federally guaranteed merely because of the payment of rent, user fees, or other charges by the United States (or any agency or instrumentality thereof) in exchange for the use of the spaceport by the United States (or any agency or instrumentality thereof).
   - **(4)** For purposes of this subsection—
     - **(A)** To the extent provided in regulations prescribed by the Secretary, any entity with statutory authority to borrow from the United States shall be treated as an instrumentality of the United States. Except in the case of an exempt facility bond, a qualified small issue bond, and a qualified student loan bond, nothing in the preceding sentence shall be construed as treating the District of Columbia or any possession of the United States as an instrumentality of the United States.
     - **(B)** The term “federally insured deposit or account” means any deposit or account in a financial institution to the extent such deposit or account is insured under Federal law by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any similar federally chartered corporation.

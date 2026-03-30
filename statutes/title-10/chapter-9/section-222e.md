@@ -3,9 +3,9 @@ title: "Section 222e - Unfunded priorities of the Under Secretary of Defense for
 usc_title: 10
 usc_section: "222e"
 chapter: 9
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 222e"
-generated_at: "2026-03-30T02:21:23.704Z"
+generated_at: "2026-03-30T02:24:07.140Z"
 ---
 
 # § 222e. 1 1 Another section 222e is set out preceding this section. See Codification note below. Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report

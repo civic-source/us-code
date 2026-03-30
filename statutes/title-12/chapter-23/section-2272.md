@@ -3,9 +3,9 @@ title: "Section 2272 - Notice of service"
 usc_title: 12
 usc_section: "2272"
 chapter: 23
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 2272"
-generated_at: "2026-03-30T02:21:39.392Z"
+generated_at: "2026-03-30T02:24:16.050Z"
 ---
 
 # § 2272. Notice of service

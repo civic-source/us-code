@@ -3,9 +3,9 @@ title: "Section 3138 - Obligations for contract services: reporting in budget ob
 usc_title: 10
 usc_section: "3138"
 chapter: 207
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 3138"
-generated_at: "2026-03-30T02:21:23.822Z"
+generated_at: "2026-03-30T02:24:07.276Z"
 ---
 
 # § 3138. Obligations for contract services: reporting in budget object classes

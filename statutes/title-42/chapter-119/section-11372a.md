@@ -3,9 +3,9 @@ title: "Section 11372a - Amount and allocation of assistance"
 usc_title: 42
 usc_section: "11372a"
 chapter: 119
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 11372a"
-generated_at: "2026-03-30T02:23:23.175Z"
+generated_at: "2026-03-30T02:25:37.577Z"
 ---
 
 # § 11372a. Amount and allocation of assistance

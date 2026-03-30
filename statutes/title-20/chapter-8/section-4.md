@@ -3,9 +3,9 @@ title: "Section 4 - Enforcement"
 usc_title: 20
 usc_section: "4"
 chapter: 8
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T02:21:47.201Z"
+generated_at: "2026-03-30T02:24:28.323Z"
 ---
 
 # § 130aa–4. Enforcement

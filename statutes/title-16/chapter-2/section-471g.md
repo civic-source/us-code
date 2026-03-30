@@ -3,9 +3,9 @@ title: "Section 471g - Administration, protection, and development; use of natur
 usc_title: 16
 usc_section: "471g"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 471g"
-generated_at: "2026-03-30T02:22:05.159Z"
+generated_at: "2026-03-30T02:24:34.094Z"
 ---
 
 # § 471g. Administration, protection, and development; use of natural resources

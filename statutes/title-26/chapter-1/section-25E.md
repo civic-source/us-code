@@ -3,9 +3,9 @@ title: "Section 25E - Previously-owned clean vehicles"
 usc_title: 26
 usc_section: "25E"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 25E"
-generated_at: "2026-03-30T02:22:25.802Z"
+generated_at: "2026-03-30T02:24:55.814Z"
 ---
 
 # § 25E. Previously-owned clean vehicles
@@ -47,4 +47,4 @@ generated_at: "2026-03-30T02:22:25.802Z"
 - **(d)** No credit shall be allowed under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
 - **(e)** For purposes of this section, rules similar to the rules of section 30D(f) (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
 - **(f)** Rules similar to the rules of section 30D(g) shall apply.
-- **(g)** No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032 .
+- **(g)** No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025 .

@@ -3,9 +3,9 @@ title: "Section 1 - Report to Congress on authorized studies and projects"
 usc_title: 33
 usc_section: "1"
 chapter: 36
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T02:22:30.950Z"
+generated_at: "2026-03-30T02:25:00.170Z"
 ---
 
 # § 2282d–1. Report to Congress on authorized studies and projects

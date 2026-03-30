@@ -3,9 +3,9 @@ title: "Section 4321 - Development of major defense acquisition programs: sustai
 usc_title: 10
 usc_section: "4321"
 chapter: 323
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4321"
-generated_at: "2026-03-30T02:21:23.843Z"
+generated_at: "2026-03-30T02:24:07.293Z"
 ---
 
 # § 4321. Development of major defense acquisition programs: sustainment of system to be replaced

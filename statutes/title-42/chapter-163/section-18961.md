@@ -3,9 +3,9 @@ title: "Section 18961 - National Supply Chain Database"
 usc_title: 42
 usc_section: "18961"
 chapter: 163
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 18961"
-generated_at: "2026-03-30T02:23:23.300Z"
+generated_at: "2026-03-30T02:25:37.698Z"
 ---
 
 # § 18961. National Supply Chain Database

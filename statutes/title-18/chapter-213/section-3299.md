@@ -3,9 +3,9 @@ title: "Section 3299 - Child abduction and sex offenses"
 usc_title: 18
 usc_section: "3299"
 chapter: 213
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 3299"
-generated_at: "2026-03-30T02:21:44.543Z"
+generated_at: "2026-03-30T02:24:24.140Z"
 ---
 
 # § 3299. Child abduction and sex offenses

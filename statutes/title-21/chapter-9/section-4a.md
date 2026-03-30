@@ -3,9 +3,9 @@ title: "Section 4a - Priority review to encourage treatments for agents that pre
 usc_title: 21
 usc_section: "4a"
 chapter: 9
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "21 U.S.C. § 4a"
-generated_at: "2026-03-30T02:22:11.825Z"
+generated_at: "2026-03-30T02:24:39.584Z"
 ---
 
 # § 360bbb–4a. Priority review to encourage treatments for agents that present national security threats

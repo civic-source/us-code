@@ -3,9 +3,9 @@ title: "Section 7605 - Content of advertisements and other representations"
 usc_title: 15
 usc_section: "7605"
 chapter: 102
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 7605"
-generated_at: "2026-03-30T02:21:36.897Z"
+generated_at: "2026-03-30T02:24:20.130Z"
 ---
 
 # § 7605. Content of advertisements and other representations

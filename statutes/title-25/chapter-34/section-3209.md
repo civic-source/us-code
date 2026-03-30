@@ -3,14 +3,14 @@ title: "Section 3209 - National Indian Child Resource and Family Services Center
 usc_title: 25
 usc_section: "3209"
 chapter: 34
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "25 U.S.C. § 3209"
-generated_at: "2026-03-30T02:22:10.004Z"
+generated_at: "2026-03-30T02:24:38.441Z"
 ---
 
 # § 3209. National Indian Child Resource and Family Services Center
 
-- **(a)** Not later than 1 year after Decemeber 23, 2024, the Secretary shall establish a National Indian Child Resource and Family Services Center.
+- **(a)** Not later than 1 year after December 23, 2024 , the Secretary shall establish a National Indian Child Resource and Family Services Center.
 - **(b)** Not later than 2 years after December 23, 2024 , the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the status of the National Indian Child Resource and Family Services Center.
 - **(c)** The Center established under subsection (a) shall be staffed by a team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
 - **(d)** The Center established under subsection (a) shall—

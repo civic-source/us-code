@@ -3,9 +3,9 @@ title: "Section 36 - Purchase of books"
 usc_title: 43
 usc_section: "36"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 36"
-generated_at: "2026-03-30T02:23:04.360Z"
+generated_at: "2026-03-30T02:25:17.782Z"
 ---
 
 # § 36. Purchase of books

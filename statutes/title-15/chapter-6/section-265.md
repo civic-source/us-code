@@ -3,9 +3,9 @@ title: "Section 265 - Transfer of certain territory to standard central-time zon
 usc_title: 15
 usc_section: "265"
 chapter: 6
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 265"
-generated_at: "2026-03-30T02:21:36.745Z"
+generated_at: "2026-03-30T02:24:19.939Z"
 ---
 
 # § 265. Transfer of certain territory to standard central-time zone

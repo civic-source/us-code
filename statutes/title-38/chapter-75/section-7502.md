@@ -3,9 +3,9 @@ title: "Section 7502 - Application and acceptance"
 usc_title: 38
 usc_section: "7502"
 chapter: 75
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 7502"
-generated_at: "2026-03-30T02:23:01.432Z"
+generated_at: "2026-03-30T02:25:14.790Z"
 ---
 
 # § 7502. Application and acceptance

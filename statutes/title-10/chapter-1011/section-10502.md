@@ -3,9 +3,9 @@ title: "Section 10502 - Chief of the National Guard Bureau: appointment; adviser
 usc_title: 10
 usc_section: "10502"
 chapter: 1011
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 10502"
-generated_at: "2026-03-30T02:21:23.891Z"
+generated_at: "2026-03-30T02:24:07.342Z"
 ---
 
 # § 10502. Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession

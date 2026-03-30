@@ -3,9 +3,9 @@ title: "Section 3841 - Prohibitions"
 usc_title: 33
 usc_section: "3841"
 chapter: 51
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 3841"
-generated_at: "2026-03-30T02:22:30.976Z"
+generated_at: "2026-03-30T02:25:00.198Z"
 ---
 
 # § 3841. Prohibitions

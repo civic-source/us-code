@@ -3,9 +3,9 @@ title: "Section 336 - Contracting bonus for cadets and midshipmen enrolled in th
 usc_title: 37
 usc_section: "336"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "37 U.S.C. § 336"
-generated_at: "2026-03-30T02:22:52.145Z"
+generated_at: "2026-03-30T02:25:07.786Z"
 ---
 
 # § 336. Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps

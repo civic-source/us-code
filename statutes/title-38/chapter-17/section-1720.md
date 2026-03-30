@@ -3,9 +3,9 @@ title: "Section 1720 - Transfers for nursing home care; adult day health care"
 usc_title: 38
 usc_section: "1720"
 chapter: 17
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 1720"
-generated_at: "2026-03-30T02:23:01.377Z"
+generated_at: "2026-03-30T02:25:14.733Z"
 ---
 
 # § 1720. Transfers for nursing home care; adult day health care

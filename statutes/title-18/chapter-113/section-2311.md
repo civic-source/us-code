@@ -3,9 +3,9 @@ title: "Section 2311 - Definitions"
 usc_title: 18
 usc_section: "2311"
 chapter: 113
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 2311"
-generated_at: "2026-03-30T02:21:44.529Z"
+generated_at: "2026-03-30T02:24:24.128Z"
 ---
 
 # § 2311. Definitions

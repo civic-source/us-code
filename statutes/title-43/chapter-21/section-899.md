@@ -3,9 +3,9 @@ title: "Section 899 - Limitation of quantity to be conveyed"
 usc_title: 43
 usc_section: "899"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 899"
-generated_at: "2026-03-30T02:23:04.386Z"
+generated_at: "2026-03-30T02:25:17.808Z"
 ---
 
 # § 899. Limitation of quantity to be conveyed

@@ -3,9 +3,9 @@ title: "Section 748 - Reduction of securities to money"
 usc_title: 11
 usc_section: "748"
 chapter: 7
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "11 U.S.C. § 748"
-generated_at: "2026-03-30T02:21:27.496Z"
+generated_at: "2026-03-30T02:24:12.118Z"
 ---
 
 # § 748. Reduction of securities to money

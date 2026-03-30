@@ -3,9 +3,9 @@ title: "Section 1731 - Critical acquisition positions"
 usc_title: 10
 usc_section: "1731"
 chapter: 87
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 1731"
-generated_at: "2026-03-30T02:21:23.776Z"
+generated_at: "2026-03-30T02:24:07.225Z"
 ---
 
 # § 1731. Critical acquisition positions

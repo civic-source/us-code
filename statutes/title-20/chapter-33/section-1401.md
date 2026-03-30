@@ -3,9 +3,9 @@ title: "Section 1401 - Definitions"
 usc_title: 20
 usc_section: "1401"
 chapter: 33
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "20 U.S.C. § 1401"
-generated_at: "2026-03-30T02:21:47.275Z"
+generated_at: "2026-03-30T02:24:28.388Z"
 ---
 
 # § 1401. Definitions

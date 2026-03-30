@@ -3,9 +3,9 @@ title: "Section 1674 - Restriction on discharge from employment by reason of gar
 usc_title: 15
 usc_section: "1674"
 chapter: 41
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 1674"
-generated_at: "2026-03-30T02:21:36.816Z"
+generated_at: "2026-03-30T02:24:20.030Z"
 ---
 
 # § 1674. Restriction on discharge from employment by reason of garnishment

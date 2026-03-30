@@ -3,9 +3,9 @@ title: "Section 46109 - Joinder and intervention"
 usc_title: 49
 usc_section: "46109"
 chapter: 461
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "49 U.S.C. § 46109"
-generated_at: "2026-03-30T02:23:31.344Z"
+generated_at: "2026-03-30T02:26:04.139Z"
 ---
 
 # § 46109. Joinder and intervention

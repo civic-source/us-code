@@ -3,9 +3,9 @@ title: "Section 12622 - Annual report"
 usc_title: 34
 usc_section: "12622"
 chapter: 121
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "34 U.S.C. § 12622"
-generated_at: "2026-03-30T02:22:29.555Z"
+generated_at: "2026-03-30T02:25:04.813Z"
 ---
 
 # § 12622. Annual report

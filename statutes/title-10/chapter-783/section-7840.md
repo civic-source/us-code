@@ -3,9 +3,9 @@ title: "Section 7840 - Final settlement of officer’s accounts"
 usc_title: 10
 usc_section: "7840"
 chapter: 783
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 7840"
-generated_at: "2026-03-30T02:21:23.865Z"
+generated_at: "2026-03-30T02:24:07.314Z"
 ---
 
 # § 7840. Final settlement of officer’s accounts

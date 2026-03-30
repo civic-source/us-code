@@ -3,9 +3,9 @@ title: "Section 500b - Annual report on electromagnetic spectrum operations stra
 usc_title: 10
 usc_section: "500b"
 chapter: 25
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 500b"
-generated_at: "2026-03-30T02:21:23.717Z"
+generated_at: "2026-03-30T02:24:07.155Z"
 ---
 
 # § 500b. Annual report on electromagnetic spectrum operations strategy of the Department of Defense

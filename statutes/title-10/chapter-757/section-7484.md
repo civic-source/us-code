@@ -3,9 +3,9 @@ title: "Section 7484 - Quartermaster and ordnance property: sales"
 usc_title: 10
 usc_section: "7484"
 chapter: 757
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 7484"
-generated_at: "2026-03-30T02:21:23.863Z"
+generated_at: "2026-03-30T02:24:07.310Z"
 ---
 
 # § 7484. Quartermaster and ordnance property: sales

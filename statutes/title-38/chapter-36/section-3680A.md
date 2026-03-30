@@ -3,9 +3,9 @@ title: "Section 3680A - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3680A"
 chapter: 36
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 3680A"
-generated_at: "2026-03-30T02:23:01.405Z"
+generated_at: "2026-03-30T02:25:14.762Z"
 ---
 
 # § 3680A. Disapproval of enrollment in certain courses
@@ -61,7 +61,7 @@ generated_at: "2026-03-30T02:23:01.405Z"
 - **(e)**
   - **(1)** 1 1 See Applicability of Amendment note below. The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
     - **(A)** the educational institution has been operating for less than two years;
-    - **(B)** except as provided in paragraph (2),the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
+    - **(B)** except as provided in paragraph (2), the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
     - **(C)** following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
   - **(2)**
     - **(A)** Subject to this paragraph, a commercial driver education program is exempt from paragraph (1)(B) for a branch of an educational institution if—

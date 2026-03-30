@@ -3,9 +3,9 @@ title: "Section 283r - National Science Advisory Board for Biosecurity"
 usc_title: 42
 usc_section: "283r"
 chapter: 6
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 283r"
-generated_at: "2026-03-30T02:23:22.576Z"
+generated_at: "2026-03-30T02:25:36.975Z"
 ---
 
 # § 283r. National Science Advisory Board for Biosecurity

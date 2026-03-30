@@ -3,9 +3,9 @@ title: "Section 6a - Exemptions"
 usc_title: 15
 usc_section: "6a"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 6a"
-generated_at: "2026-03-30T02:21:36.741Z"
+generated_at: "2026-03-30T02:24:19.933Z"
 ---
 
 # § 80b–6a. Exemptions

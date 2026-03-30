@@ -3,9 +3,9 @@ title: "Section 3738 - Constructive credit upon initial appointment"
 usc_title: 14
 usc_section: "3738"
 chapter: 37
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "14 U.S.C. § 3738"
-generated_at: "2026-03-30T02:21:37.203Z"
+generated_at: "2026-03-30T02:24:11.495Z"
 ---
 
 # § 3738. Constructive credit upon initial appointment

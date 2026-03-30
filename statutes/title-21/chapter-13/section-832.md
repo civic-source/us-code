@@ -3,9 +3,9 @@ title: "Section 832 - Suspicious orders"
 usc_title: 21
 usc_section: "832"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "21 U.S.C. § 832"
-generated_at: "2026-03-30T02:22:11.867Z"
+generated_at: "2026-03-30T02:24:39.624Z"
 ---
 
 # § 832. Suspicious orders

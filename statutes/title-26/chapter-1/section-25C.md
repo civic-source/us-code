@@ -3,9 +3,9 @@ title: "Section 25C - Energy efficient home improvement credit"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-30T02:22:25.802Z"
+generated_at: "2026-03-30T02:24:55.813Z"
 ---
 
 # § 25C. Energy efficient home improvement credit
@@ -54,12 +54,8 @@ generated_at: "2026-03-30T02:22:25.802Z"
       - **(i)** uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
       - **(ii)** has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
     - **(C)** Any oil furnace or hot water boiler which—
-      - **(i)** is placed in service after December 31, 2022 , and before January 1, 2027 , and—
-        - **(I)** meets or exceeds 2021 Energy Star efficiency criteria, and
-        - **(II)** is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel, or
-      - **(ii)** is placed in service after December 31, 2026 , and—
-        - **(I)** achieves an annual fuel utilization efficiency rate of not less than 90, and
-        - **(II)** is rated by the manufacturer for use with fuel blends at least 50 percent of the volume of which consists of an eligible fuel.
+      - **(i)** meets or exceeds 2021 Energy Star efficiency criteria, and
+      - **(ii)** is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel.
     - **(D)** Any improvement to, or replacement of, a panelboard, sub-panelboard, branch circuits, or feeders which—
       - **(i)** is installed in a manner consistent with the National Electric Code,
       - **(ii)** has a load capacity of not less than 200 amps,
@@ -68,8 +64,9 @@ generated_at: "2026-03-30T02:22:25.802Z"
         - **(II)** any qualified energy property described in subparagraphs (A) through (C) for which a credit is allowed under this section for expenditures with respect to such property, and
       - **(iv)** enables the installation and use of any property described in subclause (I) or (II) of clause (iii).
   - **(3)** For purposes of paragraph (2), the term “eligible fuel” means—
-    - **(A)** biodiesel and renewable diesel (within the meaning of section 40A), and
-    - **(B)** second generation biofuel (within the meaning of section 40).
+    - **(A)** biodiesel and renewable diesel (within the meaning of section 40A),
+    - **(B)** second generation biofuel (within the meaning of section 40), and
+    - **(C)** transportation fuel (as defined in section 45Z(d)(5)).
 - **(e)** For purposes of this section, the term “home energy audit” means an inspection and written report with respect to a dwelling unit located in the United States and owned or used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121) which—
   - **(1)** identifies the most significant and cost-effective energy efficiency improvements with respect to such dwelling unit, including an estimate of the energy and cost savings with respect to each such improvement, and
   - **(2)** is conducted and prepared by a home energy auditor that meets the certification or other requirements specified by the Secretary in regulations or other guidance (as prescribed by the Secretary not later than 365 days after the date of the enactment of this subsection).
@@ -80,6 +77,14 @@ generated_at: "2026-03-30T02:22:25.802Z"
     - **(B)** In the case of any expenditure described in subparagraph (A), the amount of the credit allowable under subsection (a) shall (subject to paragraph (1)) be computed separately with respect to the amount of the expenditure made for each dwelling unit.
   - **(3)** For purposes of determining the amount of expenditures made by any individual with respect to any property, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).
 - **(g)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
-- **(h)** This section shall not apply with respect to any property placed in service—
-  - **(1)** after December 31, 2007 , and before January 1, 2009 , or
-  - **(2)** after December 31, 2032 .
+- **(h)**
+  - **(1)** No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024 , unless—
+    - **(A)** such item is produced by a qualified manufacturer, and
+    - **(B)** the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.
+  - **(2)** For purposes of this section, the term “qualified product identification number” means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).
+  - **(3)** For purposes of this section, the term “qualified manufacturer” means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—
+    - **(A)** assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),
+    - **(B)** label such item with such number in such manner as the Secretary may provide, and
+    - **(C)** make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.
+  - **(4)** For purposes of this subsection, the term “specified property” means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
+- **(i)** This section shall not apply with respect to any property placed in service after December 31, 2025 .

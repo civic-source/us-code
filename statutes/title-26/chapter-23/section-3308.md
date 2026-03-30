@@ -3,9 +3,9 @@ title: "Section 3308 - Instrumentalities of the United States"
 usc_title: 26
 usc_section: "3308"
 chapter: 23
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 3308"
-generated_at: "2026-03-30T02:22:26.020Z"
+generated_at: "2026-03-30T02:24:56.006Z"
 ---
 
 # § 3308. Instrumentalities of the United States

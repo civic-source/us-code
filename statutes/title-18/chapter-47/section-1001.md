@@ -3,9 +3,9 @@ title: "Section 1001 - Statements or entries generally"
 usc_title: 18
 usc_section: "1001"
 chapter: 47
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 1001"
-generated_at: "2026-03-30T02:21:44.508Z"
+generated_at: "2026-03-30T02:24:24.109Z"
 ---
 
 # § 1001. Statements or entries generally

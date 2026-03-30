@@ -3,9 +3,9 @@ title: "Section 499 - Regulations for drawbridges"
 usc_title: 33
 usc_section: "499"
 chapter: 11
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 499"
-generated_at: "2026-03-30T02:22:30.891Z"
+generated_at: "2026-03-30T02:25:00.107Z"
 ---
 
 # § 499. Regulations for drawbridges

@@ -3,9 +3,9 @@ title: "Section 681 - Renumbered § 12313]"
 usc_title: 10
 usc_section: "681"
 chapter: 39
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 681"
-generated_at: "2026-03-30T02:21:23.726Z"
+generated_at: "2026-03-30T02:24:07.165Z"
 ---
 
 # [§ 681. Renumbered § 12313]

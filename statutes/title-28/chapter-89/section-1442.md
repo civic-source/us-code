@@ -3,9 +3,9 @@ title: "Section 1442 - Federal officers or agencies sued or prosecuted"
 usc_title: 28
 usc_section: "1442"
 chapter: 89
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "28 U.S.C. § 1442"
-generated_at: "2026-03-30T02:22:18.170Z"
+generated_at: "2026-03-30T02:24:46.205Z"
 ---
 
 # § 1442. Federal officers or agencies sued or prosecuted

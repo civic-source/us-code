@@ -3,9 +3,9 @@ title: "Section 16012 - Prohibition on assumption by United States Government of
 usc_title: 42
 usc_section: "16012"
 chapter: 149
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 16012"
-generated_at: "2026-03-30T02:23:23.237Z"
+generated_at: "2026-03-30T02:25:37.639Z"
 ---
 
 # § 16012. Prohibition on assumption by United States Government of liability for certain foreign incidents

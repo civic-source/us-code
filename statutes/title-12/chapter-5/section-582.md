@@ -3,9 +3,9 @@ title: "Section 582 - Receipt of United States or bank notes as collateral"
 usc_title: 12
 usc_section: "582"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 582"
-generated_at: "2026-03-30T02:21:39.298Z"
+generated_at: "2026-03-30T02:24:15.948Z"
 ---
 
 # § 582. Receipt of United States or bank notes as collateral

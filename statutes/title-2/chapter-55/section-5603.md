@@ -3,9 +3,9 @@ title: "Section 5603 - Symbol of office of Sergeant at Arms"
 usc_title: 2
 usc_section: "5603"
 chapter: 55
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "2 U.S.C. § 5603"
-generated_at: "2026-03-30T02:20:43.932Z"
+generated_at: "2026-03-30T02:23:50.753Z"
 ---
 
 # § 5603. Symbol of office of Sergeant at Arms

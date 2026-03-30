@@ -3,9 +3,9 @@ title: "Section 7105a - Increasing effectiveness of anti-trafficking programs"
 usc_title: 22
 usc_section: "7105a"
 chapter: 78
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 7105a"
-generated_at: "2026-03-30T02:22:14.528Z"
+generated_at: "2026-03-30T02:24:42.780Z"
 ---
 
 # § 7105a. Increasing effectiveness of anti-trafficking programs

@@ -3,9 +3,9 @@ title: "Section 8513a - Imposition of sanctions with respect to the financial se
 usc_title: 22
 usc_section: "8513a"
 chapter: 92
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 8513a"
-generated_at: "2026-03-30T02:22:14.545Z"
+generated_at: "2026-03-30T02:24:42.796Z"
 ---
 
 # § 8513a. Imposition of sanctions with respect to the financial sector of Iran
@@ -34,7 +34,7 @@ generated_at: "2026-03-30T02:22:14.545Z"
         - **(I)** the financial transaction is only for trade in goods or services between the country with primary jurisdiction over the foreign financial institution and Iran; and
         - **(II)** any funds owed to Iran as a result of such trade are credited to an account located in the country with primary jurisdiction over the foreign financial institution.
   - **(5)**
-    - **(A)** For the purpose of paragraph (1)(A), a ‘significant financial transaction’ shall include, based on relevant facts and circumstances, any transaction—
+    - **(A)** For the purpose of paragraph (1)(A), a “significant financial transaction” shall include, based on relevant facts and circumstances, any transaction—
       - **(i)** by a Chinese financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of petroleum or petroleum products from Iran; and
       - **(ii)** by a foreign financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of Iranian unmanned aerial vehicles (UAVs), UAV parts, or related systems.
     - **(B)** Not later than 180 days after April 24, 2024 , and every year thereafter for 5 years, the President shall—

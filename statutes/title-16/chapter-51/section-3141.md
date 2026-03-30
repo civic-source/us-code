@@ -3,9 +3,9 @@ title: "Section 3141 - Overall study program"
 usc_title: 16
 usc_section: "3141"
 chapter: 51
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 3141"
-generated_at: "2026-03-30T02:22:05.272Z"
+generated_at: "2026-03-30T02:24:34.218Z"
 ---
 
 # § 3141. Overall study program

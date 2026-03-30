@@ -3,16 +3,16 @@ title: "Section 707 - Transactions between partner and partnership"
 usc_title: 26
 usc_section: "707"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 707"
-generated_at: "2026-03-30T02:22:25.943Z"
+generated_at: "2026-03-30T02:24:55.943Z"
 ---
 
 # § 707. Transactions between partner and partnership
 
 - **(a)**
   - **(1)** If a partner engages in a transaction with a partnership other than in his capacity as a member of such partnership, the transaction shall, except as otherwise provided in this section, be considered as occurring between the partnership and one who is not a partner.
-  - **(2)** Under regulations prescribed by the Secretary—
+  - **(2)** Except as provided by the Secretary—
     - **(A)** If—
       - **(i)** a partner performs services for a partnership or transfers property to a partnership,
       - **(ii)** there is a related direct or indirect allocation and distribution to such partner, and

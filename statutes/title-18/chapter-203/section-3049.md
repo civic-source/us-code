@@ -3,9 +3,9 @@ title: "Section 3049 - Warrant for removal"
 usc_title: 18
 usc_section: "3049"
 chapter: 203
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 3049"
-generated_at: "2026-03-30T02:21:44.537Z"
+generated_at: "2026-03-30T02:24:24.135Z"
 ---
 
 # § 3049. Warrant for removal

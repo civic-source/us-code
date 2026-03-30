@@ -3,9 +3,9 @@ title: "Section 3401 - Misdemeanors; application of probation laws"
 usc_title: 18
 usc_section: "3401"
 chapter: 219
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 3401"
-generated_at: "2026-03-30T02:21:44.543Z"
+generated_at: "2026-03-30T02:24:24.140Z"
 ---
 
 # § 3401. Misdemeanors; application of probation laws

@@ -3,9 +3,9 @@ title: "Section 1989 - United States magistrate judges; appointment of persons t
 usc_title: 42
 usc_section: "1989"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 1989"
-generated_at: "2026-03-30T02:23:22.927Z"
+generated_at: "2026-03-30T02:25:37.333Z"
 ---
 
 # § 1989. United States magistrate judges; appointment of persons to execute warrants

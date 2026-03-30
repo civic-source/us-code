@@ -3,9 +3,9 @@ title: "Section 12213 - Officers; Army Reserve: transfer from Army National Guar
 usc_title: 10
 usc_section: "12213"
 chapter: 1205
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 12213"
-generated_at: "2026-03-30T02:21:23.893Z"
+generated_at: "2026-03-30T02:24:07.346Z"
 ---
 
 # § 12213. Officers; Army Reserve: transfer from Army National Guard of the United States

@@ -3,9 +3,9 @@ title: "Section 1701q - Supportive housing for the elderly"
 usc_title: 12
 usc_section: "1701q"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 1701q"
-generated_at: "2026-03-30T02:21:39.318Z"
+generated_at: "2026-03-30T02:24:15.970Z"
 ---
 
 # § 1701q. Supportive housing for the elderly
@@ -106,6 +106,13 @@ generated_at: "2026-03-30T02:21:39.318Z"
   - **(9)** Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
     - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
     - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+  - **(10)**
+    - **(A)** Each owner of a dwelling unit assisted under this section shall ensure that qualifying smoke alarms are installed in accordance with the requirements of applicable codes and standards and the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+    - **(B)** For purposes of this paragraph, the following definitions shall apply:
+      - **(i)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
+      - **(ii)** The term “qualifying smoke alarm” means a smoke alarm that—
+        - **(I)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
+        - **(II)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
 - **(k)**
   - **(1)** The term “elderly person” means a household composed of one or more persons at least one of whom is 62 years of age or more at the time of initial occupancy.
   - **(2)** The term “frail elderly” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.

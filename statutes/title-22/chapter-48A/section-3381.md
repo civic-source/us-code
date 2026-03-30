@@ -3,9 +3,9 @@ title: "Section 3381 - Findings"
 usc_title: 22
 usc_section: "3381"
 chapter: 48
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 3381"
-generated_at: "2026-03-30T02:22:14.477Z"
+generated_at: "2026-03-30T02:24:42.730Z"
 ---
 
 # § 3381. Findings

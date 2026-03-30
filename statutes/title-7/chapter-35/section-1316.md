@@ -3,9 +3,9 @@ title: "Section 1316 - Repealed. Pub. L. 108–357, title VI, § 611(p) , Oct. 2
 usc_title: 7
 usc_section: "1316"
 chapter: 35
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 1316"
-generated_at: "2026-03-30T02:21:01.642Z"
+generated_at: "2026-03-30T02:24:00.905Z"
 ---
 
 # § 1316. Repealed. Pub. L. 108–357, title VI, § 611(p) , Oct. 22, 2004 , 118 Stat. 1523

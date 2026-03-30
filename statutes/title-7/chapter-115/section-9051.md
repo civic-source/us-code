@@ -3,9 +3,9 @@ title: "Section 9051 - Definitions"
 usc_title: 7
 usc_section: "9051"
 chapter: 115
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 9051"
-generated_at: "2026-03-30T02:21:01.858Z"
+generated_at: "2026-03-30T02:24:01.087Z"
 ---
 
 # § 9051. Definitions
@@ -26,6 +26,6 @@ In this part:
   - **(5)** The term “dairy margin coverage” means the dairy margin coverage program required by section 9053 of this title .
   - **(6)** The term “dairy margin coverage payment” means a payment made to a participating dairy operation under dairy margin coverage pursuant to section 9056 of this title .
   - **(7)** The term “participating dairy operation” means a dairy operation that registers under section 9054 of this title to participate in dairy margin coverage.
-  - **(8)** The term “production history” means the production history determined for a participating dairy operation under subsection (a) or (b) of section 9055 of this title when the participating dairy operation first registers to participate in dairy margin coverage.
+  - **(8)** The term “production history” means the production history determined for a participating dairy operation under subsection (a) or (b) of section 9055 of this title .
   - **(9)** The term “Secretary” means the Secretary of Agriculture.
   - **(10)** The term “United States”, in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.

@@ -3,9 +3,9 @@ title: "Section 3572 - Implementation of simplified acquisition procedures"
 usc_title: 10
 usc_section: "3572"
 chapter: 251
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 3572"
-generated_at: "2026-03-30T02:21:23.827Z"
+generated_at: "2026-03-30T02:24:07.281Z"
 ---
 
 # § 3572. Implementation of simplified acquisition procedures

@@ -3,9 +3,9 @@ title: "Section 118b - National Defense Sustainment and Logistics Review"
 usc_title: 10
 usc_section: "118b"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 118b"
-generated_at: "2026-03-30T02:21:23.689Z"
+generated_at: "2026-03-30T02:24:07.126Z"
 ---
 
 # § 118b. National Defense Sustainment and Logistics Review

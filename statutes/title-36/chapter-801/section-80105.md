@@ -3,9 +3,9 @@ title: "Section 80105 - Principal office and meetings"
 usc_title: 36
 usc_section: "80105"
 chapter: 801
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 80105"
-generated_at: "2026-03-30T02:22:53.991Z"
+generated_at: "2026-03-30T02:25:08.442Z"
 ---
 
 # § 80105. Principal office and meetings

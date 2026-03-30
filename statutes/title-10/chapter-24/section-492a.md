@@ -3,9 +3,9 @@ title: "Section 492a - Biennial report on the plan for the nuclear weapons stock
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-30T02:21:23.715Z"
+generated_at: "2026-03-30T02:24:07.154Z"
 ---
 
 # § 492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system

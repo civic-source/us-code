@@ -3,9 +3,9 @@ title: "Section 206 - Noncontiguous coal or phosphate tracts in single lease"
 usc_title: 30
 usc_section: "206"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "30 U.S.C. § 206"
-generated_at: "2026-03-30T02:22:17.063Z"
+generated_at: "2026-03-30T02:24:45.482Z"
 ---
 
 # § 206. Noncontiguous coal or phosphate tracts in single lease

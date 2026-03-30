@@ -3,9 +3,9 @@ title: "Section 9038 - Examinations and audits; repayments"
 usc_title: 26
 usc_section: "9038"
 chapter: 96
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 9038"
-generated_at: "2026-03-30T02:22:26.129Z"
+generated_at: "2026-03-30T02:24:56.099Z"
 ---
 
 # § 9038. Examinations and audits; repayments

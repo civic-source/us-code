@@ -3,9 +3,9 @@ title: "Section 4954 - Cooperative agreements"
 usc_title: 10
 usc_section: "4954"
 chapter: 388
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4954"
-generated_at: "2026-03-30T02:21:23.855Z"
+generated_at: "2026-03-30T02:24:07.303Z"
 ---
 
 # § 4954. Cooperative agreements

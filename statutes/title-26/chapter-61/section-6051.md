@@ -3,9 +3,9 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-30T02:22:26.069Z"
+generated_at: "2026-03-30T02:24:56.047Z"
 ---
 
 # § 6051. Receipts for employees
@@ -28,8 +28,10 @@ generated_at: "2026-03-30T02:22:26.069Z"
     - **(A)** coverage to which paragraphs (11) and (12) apply, or
     - **(B)** the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125),
   - **(15)** the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee,
-  - **(16)** the amount includible in gross income under subparagraph (A) of section 83(i)(1) with respect to an event described in subparagraph (B) of such section which occurs in such calendar year, and
-  - **(17)** the aggregate amount of income which is being deferred pursuant to elections under section 83(i), determined as of the close of the calendar year.
+  - **(16)** the amount includible in gross income under subparagraph (A) of section 83(i)(1) with respect to an event described in subparagraph (B) of such section which occurs in such calendar year,
+  - **(17)** the aggregate amount of income which is being deferred pursuant to elections under section 83(i), determined as of the close of the calendar year,
+  - **(18)** the total amount of cash tips reported by the employee under section 6053(a) and the occupation described in section 224(d)(1) such person, and
+  - **(19)** the total amount of qualified overtime compensation (as defined in section 225(c)).
 - **(b)** In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendar year any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
 - **(c)** The statements required to be furnished pursuant to this section in respect of any remuneration shall be furnished at such other times, shall contain such other information, and shall be in such form as the Secretary may by regulations prescribe. The statements required under this section shall also show the proportion of the total amount withheld as tax under section 3101 which is for financing the cost of hospital insurance benefits under part A of title XVIII of the Social Security Act.
 - **(d)** A duplicate of any statement made pursuant to this section and in accordance with regulations prescribed by the Secretary shall, when required by such regulations, be filed with the Secretary.

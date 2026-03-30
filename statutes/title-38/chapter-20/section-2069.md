@@ -3,9 +3,9 @@ title: "Section 2069 - Access to telehealth services"
 usc_title: 38
 usc_section: "2069"
 chapter: 20
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 2069"
-generated_at: "2026-03-30T02:23:01.388Z"
+generated_at: "2026-03-30T02:25:14.745Z"
 ---
 
 # § 2069. Access to telehealth services

@@ -3,9 +3,9 @@ title: "Section 4701 - Contractor employees: protection from reprisal for disclo
 usc_title: 10
 usc_section: "4701"
 chapter: 365
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 4701"
-generated_at: "2026-03-30T02:21:23.849Z"
+generated_at: "2026-03-30T02:24:07.297Z"
 ---
 
 # § 4701. Contractor employees: protection from reprisal for disclosure of certain information

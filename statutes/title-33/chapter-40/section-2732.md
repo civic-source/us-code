@@ -3,9 +3,9 @@ title: "Section 2732 - Terminal and tanker oversight and monitoring"
 usc_title: 33
 usc_section: "2732"
 chapter: 40
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 2732"
-generated_at: "2026-03-30T02:22:30.964Z"
+generated_at: "2026-03-30T02:25:00.185Z"
 ---
 
 # § 2732. Terminal and tanker oversight and monitoring

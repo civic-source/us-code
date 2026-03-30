@@ -3,9 +3,9 @@ title: "Section 1960 - Prohibition of unlicensed money transmitting businesses"
 usc_title: 18
 usc_section: "1960"
 chapter: 95
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 1960"
-generated_at: "2026-03-30T02:21:44.522Z"
+generated_at: "2026-03-30T02:24:24.121Z"
 ---
 
 # § 1960. Prohibition of unlicensed money transmitting businesses

@@ -3,9 +3,9 @@ title: "Section 943 - Arms and ammunition; immunity from taxation"
 usc_title: 14
 usc_section: "943"
 chapter: 9
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "14 U.S.C. § 943"
-generated_at: "2026-03-30T02:21:37.195Z"
+generated_at: "2026-03-30T02:24:11.487Z"
 ---
 
 # § 943. Arms and ammunition; immunity from taxation

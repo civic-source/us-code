@@ -3,9 +3,9 @@ title: "Section 1345 - Coordination and consultation with affected State and loc
 usc_title: 43
 usc_section: "1345"
 chapter: 29
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 1345"
-generated_at: "2026-03-30T02:23:04.393Z"
+generated_at: "2026-03-30T02:25:17.813Z"
 ---
 
 # § 1345. Coordination and consultation with affected State and local governments

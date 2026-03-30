@@ -3,9 +3,9 @@ title: "Section 566a - Repealed. Pub. L. 92–288, § 3(b) , May 5, 1972 , 86 St
 usc_title: 16
 usc_section: "566a"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 566a"
-generated_at: "2026-03-30T02:22:05.174Z"
+generated_at: "2026-03-30T02:24:34.110Z"
 ---
 
 # § 566a. Repealed. Pub. L. 92–288, § 3(b) , May 5, 1972 , 86 Stat. 134

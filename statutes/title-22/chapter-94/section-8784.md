@@ -3,9 +3,9 @@ title: "Section 8784 - Rule of construction with respect to use of force against
 usc_title: 22
 usc_section: "8784"
 chapter: 94
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 8784"
-generated_at: "2026-03-30T02:22:14.550Z"
+generated_at: "2026-03-30T02:24:42.801Z"
 ---
 
 # § 8784. Rule of construction with respect to use of force against Iran and Syria

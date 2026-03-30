@@ -3,9 +3,9 @@ title: "Section 12115 - Posting notices"
 usc_title: 42
 usc_section: "12115"
 chapter: 126
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 12115"
-generated_at: "2026-03-30T02:23:23.184Z"
+generated_at: "2026-03-30T02:25:37.586Z"
 ---
 
 # § 12115. Posting notices

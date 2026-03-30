@@ -3,9 +3,9 @@ title: "Section 440 - Regulations as to use of water and requirements as to cult
 usc_title: 43
 usc_section: "440"
 chapter: 12
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 440"
-generated_at: "2026-03-30T02:23:04.374Z"
+generated_at: "2026-03-30T02:25:17.795Z"
 ---
 
 # § 440. Regulations as to use of water and requirements as to cultivation and reclamation of land; cancellation for noncompliance with requirements

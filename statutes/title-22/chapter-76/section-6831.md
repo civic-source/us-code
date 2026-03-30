@@ -3,9 +3,9 @@ title: "Section 6831 - Reports to Congress"
 usc_title: 22
 usc_section: "6831"
 chapter: 76
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 6831"
-generated_at: "2026-03-30T02:22:14.523Z"
+generated_at: "2026-03-30T02:24:42.775Z"
 ---
 
 # § 6831. Reports to Congress

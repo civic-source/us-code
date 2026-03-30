@@ -3,9 +3,9 @@ title: "Section 824 - Denial, revocation, or suspension of registration"
 usc_title: 21
 usc_section: "824"
 chapter: 13
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "21 U.S.C. § 824"
-generated_at: "2026-03-30T02:22:11.865Z"
+generated_at: "2026-03-30T02:24:39.622Z"
 ---
 
 # § 824. Denial, revocation, or suspension of registration
@@ -27,7 +27,7 @@ generated_at: "2026-03-30T02:22:11.865Z"
   - **(4)** Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.
   - **(5)** The requirements of this subsection shall not apply to the issuance of an immediate suspension order under subsection (d).
 - **(d)**
-  - **(1)** The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(h)(1) 1 of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+  - **(1)** The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(h) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
   - **(2)** In this subsection, the phrase “imminent danger to the public health or safety” means that, due to the failure of the registrant to maintain effective controls against diversion or otherwise comply with the obligations of a registrant under this subchapter or subchapter II, there is a substantial likelihood of an immediate threat that death, serious bodily harm, or abuse of a controlled substance will occur in the absence of an immediate suspension of the registration.
 - **(e)** The suspension or revocation of a registration under this section shall operate to suspend or revoke any quota applicable under section 826 of this title .
 - **(f)** In the event the Attorney General suspends or revokes a registration granted under section 823 of this title , all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of sale deposited in court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title . All right, title, and interest in such controlled substances or list I chemicals shall vest in the United States upon a revocation order becoming final.

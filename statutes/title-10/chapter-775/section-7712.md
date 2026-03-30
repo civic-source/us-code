@@ -3,9 +3,9 @@ title: "Section 7712 - Disposition of effects of deceased persons by summary cou
 usc_title: 10
 usc_section: "7712"
 chapter: 775
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 7712"
-generated_at: "2026-03-30T02:21:23.864Z"
+generated_at: "2026-03-30T02:24:07.312Z"
 ---
 
 # § 7712. Disposition of effects of deceased persons by summary court-martial

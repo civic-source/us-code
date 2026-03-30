@@ -3,9 +3,9 @@ title: "Section 6i - Reports of deals equal to or in excess of trading limits; b
 usc_title: 7
 usc_section: "6i"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 6i"
-generated_at: "2026-03-30T02:21:01.588Z"
+generated_at: "2026-03-30T02:24:00.844Z"
 ---
 
 # § 6i. Reports of deals equal to or in excess of trading limits; books and records; cash and controlled transactions

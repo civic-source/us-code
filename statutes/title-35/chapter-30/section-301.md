@@ -3,9 +3,9 @@ title: "Section 301 - Citation of prior art and written statements"
 usc_title: 35
 usc_section: "301"
 chapter: 30
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "35 U.S.C. § 301"
-generated_at: "2026-03-30T02:22:34.267Z"
+generated_at: "2026-03-30T02:25:00.404Z"
 ---
 
 # § 301. Citation of prior art and written statements

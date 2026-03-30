@@ -3,9 +3,9 @@ title: "Section 450dd - De Soto National Memorial; establishment"
 usc_title: 16
 usc_section: "450dd"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "16 U.S.C. § 450dd"
-generated_at: "2026-03-30T02:22:05.121Z"
+generated_at: "2026-03-30T02:24:34.053Z"
 ---
 
 # § 450dd. De Soto National Memorial; establishment

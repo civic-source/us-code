@@ -3,9 +3,9 @@ title: "Section 2057b - Banning of isopropal nitrite and other nitrites"
 usc_title: 15
 usc_section: "2057b"
 chapter: 47
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 2057b"
-generated_at: "2026-03-30T02:21:36.831Z"
+generated_at: "2026-03-30T02:24:20.051Z"
 ---
 
 # § 2057b. Banning of isopropal nitrite and other nitrites

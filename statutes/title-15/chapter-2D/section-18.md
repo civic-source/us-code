@@ -3,9 +3,9 @@ title: "Section 18 - Hiring and leasing authority of Commission"
 usc_title: 15
 usc_section: "18"
 chapter: 2
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 18"
-generated_at: "2026-03-30T02:21:36.742Z"
+generated_at: "2026-03-30T02:24:19.934Z"
 ---
 
 # § 80b–18. Hiring and leasing authority of Commission

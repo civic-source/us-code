@@ -3,9 +3,9 @@ title: "Section 6713 - Disclosure or use of information by preparers of returns"
 usc_title: 26
 usc_section: "6713"
 chapter: 68
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 6713"
-generated_at: "2026-03-30T02:22:26.101Z"
+generated_at: "2026-03-30T02:24:56.075Z"
 ---
 
 # § 6713. Disclosure or use of information by preparers of returns

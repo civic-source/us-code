@@ -3,9 +3,9 @@ title: "Section 10113 - Air National Guard of the United States: status when not
 usc_title: 10
 usc_section: "10113"
 chapter: 1003
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 10113"
-generated_at: "2026-03-30T02:21:23.889Z"
+generated_at: "2026-03-30T02:24:07.340Z"
 ---
 
 # § 10113. Air National Guard of the United States: status when not in Federal service

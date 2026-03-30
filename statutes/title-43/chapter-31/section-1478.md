@@ -3,9 +3,9 @@ title: "Section 1478 - Appraisal and valuation services for real property"
 usc_title: 43
 usc_section: "1478"
 chapter: 31
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "43 U.S.C. § 1478"
-generated_at: "2026-03-30T02:23:04.396Z"
+generated_at: "2026-03-30T02:25:17.818Z"
 ---
 
 # § 1478. Appraisal and valuation services for real property
@@ -20,7 +20,7 @@ generated_at: "2026-03-30T02:23:04.396Z"
 - **(c)** Not later than 1 year after January 4, 2025 , and annually thereafter for at least the following 4 years, the Secretary shall submit to Congress a report that includes the following:
   - **(1)** A comparison using quantitative data of—
     - **(A)** the number of requests for appraisal and valuation services received by the Department during the reporting period and the number of requests for such services received by the Department in each of the 5 years before the reporting period; and
-    - **(B)** the amount of time required for the Department to complete a request for appraisal or valuation services before January 4, 2025 and after January 4, 2025 .
+    - **(B)** the amount of time required for the Department to complete a request for appraisal or valuation services before January 4, 2025 , and after January 4, 2025 .
   - **(2)** A qualitative assessment of the impact of subsection (a) in providing flexibility to the Secretary when contracting with non-Federal covered appraisers.
   - **(3)** Recommendations, if any, for congressional action that could help the Department operate more efficiently or overcome challenges with respect to timely completion of requests for appraisal or valuation services while ensuring the independence, impartiality, and objectivity of such services.
   - **(4)** An overview of the workforce of the Department with regard to appraisal and valuation services provided by the Department, including hiring and staffing during the reporting period with respect to employees and contractors of the Department.

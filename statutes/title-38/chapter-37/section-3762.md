@@ -3,9 +3,9 @@ title: "Section 3762 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3762"
 chapter: 37
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 3762"
-generated_at: "2026-03-30T02:23:01.411Z"
+generated_at: "2026-03-30T02:25:14.769Z"
 ---
 
 # § 3762. Direct housing loans to Native American veterans; program administration
@@ -46,7 +46,7 @@ generated_at: "2026-03-30T02:23:01.411Z"
   - **(1)** To refinance an existing loan made under this section, if the loan—
     - **(A)** meets the requirements set forth in subparagraphs (B), (C), and (E) of paragraph (1) of section 3710(e) of this title ;
     - **(B)** will bear an interest rate at least one percentage point less than the interest rate borne by the loan being refinanced; and
-    - **(C)** complies with paragraphs (2) and (3) of section 3710(e) of this title , except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) and (3) shall be deemed to be a reference to this subsection.
+    - **(C)** complies with paragraphs (2) and (3) of section 3710(e) of this title , except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) 1 1 So in original. Paragraph (2) reference is to clause (8) of subsection (a). and (3) shall be deemed to be a reference to this subsection.
   - **(2)** To refinance an existing mortgage loan not made under this section on a dwelling owned and occupied by the veteran as the veteran’s home, if all of the following requirements are met:
     - **(A)** The loan will be secured by the same dwelling as was the loan being refinanced.
     - **(B)** The loan will provide the veteran with a net tangible benefit.

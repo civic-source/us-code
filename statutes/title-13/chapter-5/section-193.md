@@ -3,9 +3,9 @@ title: "Section 193 - Preliminary and supplemental statistics"
 usc_title: 13
 usc_section: "193"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "13 U.S.C. § 193"
-generated_at: "2026-03-30T02:21:28.083Z"
+generated_at: "2026-03-30T02:24:09.582Z"
 ---
 
 # § 193. Preliminary and supplemental statistics

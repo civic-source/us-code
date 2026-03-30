@@ -3,9 +3,9 @@ title: "Section 130a - Transferred"
 usc_title: 2
 usc_section: "130a"
 chapter: 4
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "2 U.S.C. § 130a"
-generated_at: "2026-03-30T02:20:43.886Z"
+generated_at: "2026-03-30T02:23:50.703Z"
 ---
 
 # § 130a. Transferred

@@ -3,9 +3,9 @@ title: "Section 283k - Biomedical and behavioral research facilities"
 usc_title: 42
 usc_section: "283k"
 chapter: 6
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 283k"
-generated_at: "2026-03-30T02:23:22.575Z"
+generated_at: "2026-03-30T02:25:36.974Z"
 ---
 
 # § 283k. Biomedical and behavioral research facilities

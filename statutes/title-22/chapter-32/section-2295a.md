@@ -3,9 +3,9 @@ title: "Section 2295a - Criteria for assistance to governments of the independen
 usc_title: 22
 usc_section: "2295a"
 chapter: 32
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 2295a"
-generated_at: "2026-03-30T02:22:14.435Z"
+generated_at: "2026-03-30T02:24:42.689Z"
 ---
 
 # § 2295a. Criteria for assistance to governments of the independent states

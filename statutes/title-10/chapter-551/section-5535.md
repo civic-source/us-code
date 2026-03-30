@@ -3,9 +3,9 @@ title: "Section 5535 - Development of requirements to support integrated air and
 usc_title: 10
 usc_section: "5535"
 chapter: 551
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "10 U.S.C. § 5535"
-generated_at: "2026-03-30T02:21:23.857Z"
+generated_at: "2026-03-30T02:24:07.305Z"
 ---
 
 # § 5535. Development of requirements to support integrated air and missile defense capabilities

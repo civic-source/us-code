@@ -3,9 +3,9 @@ title: "Section 9025 - Pandemic emergency unemployment compensation"
 usc_title: 15
 usc_section: "9025"
 chapter: 116
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "15 U.S.C. § 9025"
-generated_at: "2026-03-30T02:21:36.913Z"
+generated_at: "2026-03-30T02:24:20.148Z"
 ---
 
 # § 9025. Pandemic emergency unemployment compensation

@@ -3,9 +3,9 @@ title: "Section 414 - Transmittal of books to successors"
 usc_title: 28
 usc_section: "414"
 chapter: 19
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "28 U.S.C. § 414"
-generated_at: "2026-03-30T02:22:18.158Z"
+generated_at: "2026-03-30T02:24:46.194Z"
 ---
 
 # § 414. Transmittal of books to successors

@@ -3,9 +3,9 @@ title: "Section 543 - Omitted"
 usc_title: 25
 usc_section: "543"
 chapter: 14
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "25 U.S.C. § 543"
-generated_at: "2026-03-30T02:22:09.966Z"
+generated_at: "2026-03-30T02:24:38.404Z"
 ---
 
 # § 543. Omitted

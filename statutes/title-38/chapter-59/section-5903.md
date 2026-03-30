@@ -3,9 +3,9 @@ title: "Section 5903 - Recognition with respect to particular claims"
 usc_title: 38
 usc_section: "5903"
 chapter: 59
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "38 U.S.C. § 5903"
-generated_at: "2026-03-30T02:23:01.421Z"
+generated_at: "2026-03-30T02:25:14.777Z"
 ---
 
 # § 5903. Recognition with respect to particular claims

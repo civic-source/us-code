@@ -3,9 +3,9 @@ title: "Section 1605 - General exceptions to the jurisdictional immunity of a fo
 usc_title: 28
 usc_section: "1605"
 chapter: 97
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "28 U.S.C. § 1605"
-generated_at: "2026-03-30T02:22:18.172Z"
+generated_at: "2026-03-30T02:24:46.206Z"
 ---
 
 # § 1605. General exceptions to the jurisdictional immunity of a foreign state

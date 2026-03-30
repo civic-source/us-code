@@ -3,9 +3,9 @@ title: "Section 3304 - Competitive service; examinations"
 usc_title: 5
 usc_section: "3304"
 chapter: 33
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "5 U.S.C. § 3304"
-generated_at: "2026-03-30T02:20:28.415Z"
+generated_at: "2026-03-30T02:23:53.282Z"
 ---
 
 # § 3304. Competitive service; examinations
@@ -41,7 +41,7 @@ generated_at: "2026-03-30T02:20:28.415Z"
     - **(A)** During the 3-year period beginning on the date of enactment of the Chance to Compete Act of 2024, an examining agency shall preference the use of a technical assessment, to the maximum extent practicable, to assess the job-related skills, abilities, knowledge, and competencies of an applicant for a position in the competitive service.
     - **(B)** During the 3-year period beginning on the date of enactment of the Chance to Compete Act of 2024, if an examining agency determines that the use of a technical assessment to assess the job-related skills, abilities, knowledge, and competencies of an applicant for a position in the competitive service is not practicable, the examining agency may use an alternative assessment for that purpose if the examining agency includes a brief description of the rationale for the use of the alternative assessment in the job posting.
   - **(3)**
-    - **(A)** Not later 18 months after the date of enactment of the Chance to Compete Act of 2024, the Director shall submit to the relevant committees a plan to transition Federal hiring practices to adopt technical assessments in accordance with subsection (d), which shall include—
+    - **(A)** Not later 1 1 So in original. Probably should be followed by “than”. 18 months after the date of enactment of the Chance to Compete Act of 2024, the Director shall submit to the relevant committees a plan to transition Federal hiring practices to adopt technical assessments in accordance with subsection (d), which shall include—
       - **(i)** the prioritization of—
         - **(I)** job classifications; and
         - **(II)** resource requirements; and
@@ -101,7 +101,7 @@ generated_at: "2026-03-30T02:20:28.415Z"
     - **(A)** is involuntarily separated from service as a technician other than by removal for cause on charges of misconduct or delinquency;
     - **(B)** passes a suitable noncompetitive examination; and
     - **(C)** transfers to the competitive service within 1 year after separating from service as a technician.
-- **(j)** The office 1 1 So in original. Probably should be capitalized. of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
+- **(j)** The office 2 2 So in original. Probably should be capitalized. of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
 - **(k)** Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
 - **(l)**
   - **(1)** Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.

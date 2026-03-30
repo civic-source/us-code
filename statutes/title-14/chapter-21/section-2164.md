@@ -3,9 +3,9 @@ title: "Section 2164 - Officers considered for removal; retirement or discharge;
 usc_title: 14
 usc_section: "2164"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "14 U.S.C. § 2164"
-generated_at: "2026-03-30T02:21:37.199Z"
+generated_at: "2026-03-30T02:24:11.492Z"
 ---
 
 # § 2164. Officers considered for removal; retirement or discharge; separation benefits

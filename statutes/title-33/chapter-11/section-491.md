@@ -3,9 +3,9 @@ title: "Section 491 - Approval of and deviation from plans; exemptions"
 usc_title: 33
 usc_section: "491"
 chapter: 11
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "33 U.S.C. § 491"
-generated_at: "2026-03-30T02:22:30.891Z"
+generated_at: "2026-03-30T02:25:00.107Z"
 ---
 
 # § 491. Approval of and deviation from plans; exemptions

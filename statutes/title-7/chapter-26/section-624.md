@@ -3,9 +3,9 @@ title: "Section 624 - Limitation on imports; authority of President"
 usc_title: 7
 usc_section: "624"
 chapter: 26
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 624"
-generated_at: "2026-03-30T02:21:01.634Z"
+generated_at: "2026-03-30T02:24:00.895Z"
 ---
 
 # § 624. Limitation on imports; authority of President

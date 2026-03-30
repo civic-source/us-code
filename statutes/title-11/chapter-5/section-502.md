@@ -3,9 +3,9 @@ title: "Section 502 - Allowance of claims or interests"
 usc_title: 11
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "11 U.S.C. § 502"
-generated_at: "2026-03-30T02:21:27.489Z"
+generated_at: "2026-03-30T02:24:12.110Z"
 ---
 
 # § 502. Allowance of claims or interests

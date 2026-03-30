@@ -3,9 +3,9 @@ title: "Section 3222a - Scholarships for students at 1890 Institutions"
 usc_title: 7
 usc_section: "3222a"
 chapter: 64
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "7 U.S.C. § 3222a"
-generated_at: "2026-03-30T02:21:01.747Z"
+generated_at: "2026-03-30T02:24:00.997Z"
 ---
 
 # § 3222a. Scholarships for students at 1890 Institutions
@@ -25,6 +25,7 @@ generated_at: "2026-03-30T02:21:01.747Z"
   - **(1)**
     - **(A)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $40,000,000 not later than October 1, 2019 , to remain available until expended.
     - **(B)** Not later than 30 days after November 17, 2023 , of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $10,000,000, to remain available until expended.
+    - **(C)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $60,000,000 for fiscal year 2026, to remain available until expended.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2020 through 2023.
   - **(3)** Of the funds made available under paragraphs (1) and (2) to carry out this section for a fiscal year, not more than 4 percent may be used for expenses related to administering the program under this section.
 - **(c)** Beginning on the date that is two years after the date on which the first grant is awarded under subsection (a), and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report detailing—

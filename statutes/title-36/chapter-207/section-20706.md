@@ -3,9 +3,9 @@ title: "Section 20706 - Powers"
 usc_title: 36
 usc_section: "20706"
 chapter: 207
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "36 U.S.C. § 20706"
-generated_at: "2026-03-30T02:22:53.984Z"
+generated_at: "2026-03-30T02:25:08.435Z"
 ---
 
 # § 20706. Powers

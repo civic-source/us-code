@@ -3,9 +3,9 @@ title: "Section 8203 - Definitions"
 usc_title: 22
 usc_section: "8203"
 chapter: 89
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 8203"
-generated_at: "2026-03-30T02:22:14.541Z"
+generated_at: "2026-03-30T02:24:42.792Z"
 ---
 
 # § 8203. Definitions

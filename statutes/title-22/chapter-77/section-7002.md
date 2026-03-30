@@ -3,9 +3,9 @@ title: "Section 7002 - United States-China Economic and Security Review Commissi
 usc_title: 22
 usc_section: "7002"
 chapter: 77
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 7002"
-generated_at: "2026-03-30T02:22:14.526Z"
+generated_at: "2026-03-30T02:24:42.777Z"
 ---
 
 # § 7002. United States-China Economic and Security Review Commission

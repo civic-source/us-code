@@ -3,9 +3,9 @@ title: "Section 179w - Effective date"
 usc_title: 2
 usc_section: "179w"
 chapter: 5
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "2 U.S.C. § 179w"
-generated_at: "2026-03-30T02:20:43.889Z"
+generated_at: "2026-03-30T02:23:50.708Z"
 ---
 
 # § 179w. Effective date

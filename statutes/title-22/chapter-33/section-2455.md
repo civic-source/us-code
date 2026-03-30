@@ -3,9 +3,9 @@ title: "Section 2455 - Appropriations"
 usc_title: 22
 usc_section: "2455"
 chapter: 33
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "22 U.S.C. § 2455"
-generated_at: "2026-03-30T02:22:14.449Z"
+generated_at: "2026-03-30T02:24:42.702Z"
 ---
 
 # § 2455. Appropriations

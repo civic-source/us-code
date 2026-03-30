@@ -3,9 +3,9 @@ title: "Section 346 - Discount of acceptances"
 usc_title: 12
 usc_section: "346"
 chapter: 3
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "12 U.S.C. § 346"
-generated_at: "2026-03-30T02:21:39.295Z"
+generated_at: "2026-03-30T02:24:15.944Z"
 ---
 
 # § 346. Discount of acceptances

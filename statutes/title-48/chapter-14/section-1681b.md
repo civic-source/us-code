@@ -3,9 +3,9 @@ title: "Section 1681b - Transfer of functions from government comptroller for Gu
 usc_title: 48
 usc_section: "1681b"
 chapter: 14
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "48 U.S.C. § 1681b"
-generated_at: "2026-03-30T02:23:28.655Z"
+generated_at: "2026-03-30T02:25:58.367Z"
 ---
 
 # § 1681b. Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior

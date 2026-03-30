@@ -3,9 +3,9 @@ title: "Section 10 - Regulations"
 usc_title: 42
 usc_section: "10"
 chapter: 21
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:23:22.934Z"
+generated_at: "2026-03-30T02:25:37.340Z"
 ---
 
 # § 2000ff–10. Regulations

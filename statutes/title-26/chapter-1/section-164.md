@@ -3,9 +3,9 @@ title: "Section 164 - Taxes"
 usc_title: 26
 usc_section: "164"
 chapter: 1
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "26 U.S.C. § 164"
-generated_at: "2026-03-30T02:22:25.854Z"
+generated_at: "2026-03-30T02:24:55.864Z"
 ---
 
 # § 164. Taxes
@@ -45,10 +45,24 @@ generated_at: "2026-03-30T02:22:25.854Z"
       - **(ii)** The tables prescribed under clause (i)—
         - **(I)** shall reflect the provisions of this paragraph,
         - **(II)** shall be based on the average consumption by taxpayers on a State-by-State basis (as determined by the Secretary) of items to which clause (i)(I) does not apply, taking into account filing status, number of dependents, adjusted gross income, and rates of State and local general sales taxation, and
-        - **(III)** need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b)).
-  - **(6)** In the case of an individual and a taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+        - **(III)** need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b) 1 1 See References in Text note below. ).
+  - **(6)** In the case of an individual and a taxable year beginning after December 31, 2017 , 2 2 So in original. The comma probably should not appear. —
     - **(A)** foreign real property taxes shall not be taken into account under subsection (a)(1), and
-    - **(B)** the aggregate amount of taxes taken into account under paragraphs (1), (2), and (3) of subsection (a) and paragraph (5) of this subsection for any taxable year shall not exceed $10,000 ($5,000 in the case of a married individual filing a separate return).
+    - **(B)** the aggregate amount of taxes taken into account under paragraphs (1), (2), and (3) of subsection (a) and paragraph (5) of this subsection for any taxable year shall not exceed the applicable limitation amount (half the applicable limitation amount in the case of a married individual filing a separate return).
+  - **(7)**
+    - **(A)** For purposes of paragraph (6), the term “applicable limitation amount” means—
+      - **(i)** in the case of any taxable year beginning in calendar year 2025, $40,000,
+      - **(ii)** in the case of any taxable year beginning in calendar year 2026, $40,400,
+      - **(iii)** in the case of any taxable year beginning after calendar year 2026 and before 2030, 101 percent of the dollar amount in effect under this subparagraph for taxable years beginning in the preceding calendar year, and
+      - **(iv)** in the case of any taxable year beginning after calendar year 2029, $10,000.
+    - **(B)**
+      - **(i)** Except as provided in clause (iii), in the case of any taxable year beginning before January 1, 2030 , the applicable limitation amount shall be reduced by 30 percent of the excess (if any) of the taxpayer’s modified adjusted gross income over the threshold amount (half the threshold amount in the case of a married individual filing a separate return).
+      - **(ii)** For purposes of this subparagraph, the term “threshold amount” means—
+        - **(I)** in the case of any taxable year beginning in calendar year 2025, $500,000,
+        - **(II)** in the case of any taxable year beginning in calendar year 2026, $505,000, and
+        - **(III)** in the case of any taxable year beginning after calendar year 2026, 101 percent of the dollar amount in effect under this subparagraph for taxable years beginning in the preceding calendar year.
+      - **(iii)** The reduction under clause (i) shall not result in the applicable limitation amount being less than $10,000.
+      - **(iv)** For purposes of this paragraph, the term “modified adjusted gross income” means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
 - **(c)** No deduction shall be allowed for the following taxes:
   - **(1)** Taxes assessed against local benefits of a kind tending to increase the value of the property assessed; but this paragraph shall not prevent the deduction of so much of such taxes as is properly allocable to maintenance or interest charges.
   - **(2)** Taxes on real property, to the extent that subsection (d) requires such taxes to be treated as imposed on another taxpayer.

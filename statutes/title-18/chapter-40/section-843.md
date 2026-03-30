@@ -3,9 +3,9 @@ title: "Section 843 - Licenses and user permits"
 usc_title: 18
 usc_section: "843"
 chapter: 40
-current_through: "PL 119-18"
+current_through: "PL 119-31"
 classification: "18 U.S.C. § 843"
-generated_at: "2026-03-30T02:21:44.501Z"
+generated_at: "2026-03-30T02:24:24.103Z"
 ---
 
 # § 843. Licenses and user permits
