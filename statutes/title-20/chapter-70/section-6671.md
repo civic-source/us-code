@@ -3,9 +3,9 @@ title: "Section 6671 - Funding allotment"
 usc_title: 20
 usc_section: "6671"
 chapter: 70
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 6671"
-generated_at: "2026-03-30T05:08:31.000Z"
+generated_at: "2026-03-30T05:10:30.527Z"
 status: "active"
 ---
 

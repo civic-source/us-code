@@ -3,9 +3,9 @@ title: "Section 138e - Reporting"
 usc_title: 7
 usc_section: "138e"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 138e"
-generated_at: "2026-03-30T05:07:43.272Z"
+generated_at: "2026-03-30T05:09:52.044Z"
 status: "active"
 ---
 

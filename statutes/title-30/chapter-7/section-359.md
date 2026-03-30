@@ -3,9 +3,9 @@ title: "Section 359 - Rules and regulations"
 usc_title: 30
 usc_section: "359"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "30 U.S.C. § 359"
-generated_at: "2026-03-30T05:08:46.160Z"
+generated_at: "2026-03-30T05:10:43.987Z"
 status: "active"
 ---
 

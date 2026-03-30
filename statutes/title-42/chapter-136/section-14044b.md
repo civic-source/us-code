@@ -3,9 +3,9 @@ title: "Section 14044b - Victim-centered child human trafficking deterrence bloc
 usc_title: 42
 usc_section: "14044b"
 chapter: 136
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 14044b"
-generated_at: "2026-03-30T05:09:14.201Z"
+generated_at: "2026-03-30T05:11:14.547Z"
 status: "active"
 ---
 
@@ -84,7 +84,7 @@ status: "active"
 - **(k)** In this section—
   - **(1)** the term “child” means a person under the age of 18;
   - **(2)** the term “child advocacy center” means a center created under subtitle A of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13001 et seq.);
-  - **(3)** the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in section 7102 of this title ) involving a victim who is a child; and
+  - **(3)** the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in section 7102 of title 22 ) involving a victim who is a child; and
   - **(4)** the term “eligible entity” means a State or unit of local government that—
     - **(A)** has significant criminal activity involving child human trafficking;
     - **(B)** has demonstrated cooperation between Federal, State, local, and, where applicable, tribal law enforcement agencies, prosecutors, and social service providers in addressing child human trafficking;

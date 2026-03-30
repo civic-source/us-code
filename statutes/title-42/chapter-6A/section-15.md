@@ -3,9 +3,9 @@ title: "Section 15 - Application and use of adopted standards and implementation
 usc_title: 42
 usc_section: "15"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T05:09:13.691Z"
+generated_at: "2026-03-30T05:11:14.053Z"
 status: "active"
 ---
 

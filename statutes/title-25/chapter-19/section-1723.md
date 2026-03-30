@@ -3,9 +3,9 @@ title: "Section 1723 - Approval of prior transfers and extinguishment of Indian 
 usc_title: 25
 usc_section: "1723"
 chapter: 19
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1723"
-generated_at: "2026-03-30T05:08:41.415Z"
+generated_at: "2026-03-30T05:10:37.341Z"
 status: "active"
 ---
 

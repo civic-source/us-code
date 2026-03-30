@@ -3,9 +3,9 @@ title: "Section 6238 - Repealed. Pub. L. 106–469, title I , § 103(8)–(11), 
 usc_title: 42
 usc_section: "6238"
 chapter: 77
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 6238"
-generated_at: "2026-03-30T05:09:14.010Z"
+generated_at: "2026-03-30T05:11:14.367Z"
 status: "repealed"
 ---
 

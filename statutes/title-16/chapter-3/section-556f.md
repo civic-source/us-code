@@ -3,9 +3,9 @@ title: "Section 556f - Expenses of student interns"
 usc_title: 16
 usc_section: "556f"
 chapter: 3
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 556f"
-generated_at: "2026-03-30T05:08:37.113Z"
+generated_at: "2026-03-30T05:10:32.626Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4701 - Findings"
 usc_title: 20
 usc_section: "4701"
 chapter: 59
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 4701"
-generated_at: "2026-03-30T05:08:30.985Z"
+generated_at: "2026-03-30T05:10:30.513Z"
 status: "active"
 ---
 

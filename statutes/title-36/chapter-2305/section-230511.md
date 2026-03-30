@@ -3,9 +3,9 @@ title: "Section 230511 - Service of process"
 usc_title: 36
 usc_section: "230511"
 chapter: 2305
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "36 U.S.C. § 230511"
-generated_at: "2026-03-30T05:08:59.150Z"
+generated_at: "2026-03-30T05:10:58.171Z"
 status: "active"
 ---
 

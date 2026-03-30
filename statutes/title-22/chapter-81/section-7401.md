@@ -3,9 +3,9 @@ title: "Section 7401 - Restriction relating to United States accession to the In
 usc_title: 22
 usc_section: "7401"
 chapter: 81
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "22 U.S.C. § 7401"
-generated_at: "2026-03-30T05:08:43.941Z"
+generated_at: "2026-03-30T05:10:39.813Z"
 status: "active"
 ---
 

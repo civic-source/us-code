@@ -3,9 +3,9 @@ title: "Section 2 - Restoration of Federal recognition, rights, and privileges"
 usc_title: 25
 usc_section: "2"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T05:08:41.403Z"
+generated_at: "2026-03-30T05:10:37.328Z"
 status: "active"
 ---
 

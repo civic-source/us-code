@@ -3,9 +3,9 @@ title: "Section 1384 - Allotment of funds"
 usc_title: 33
 usc_section: "1384"
 chapter: 26
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 1384"
-generated_at: "2026-03-30T05:08:56.635Z"
+generated_at: "2026-03-30T05:10:56.054Z"
 status: "active"
 ---
 

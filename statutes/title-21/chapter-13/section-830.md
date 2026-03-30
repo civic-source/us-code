@@ -3,9 +3,9 @@ title: "Section 830 - Regulation of listed chemicals and certain machines"
 usc_title: 21
 usc_section: "830"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 830"
-generated_at: "2026-03-30T05:08:40.571Z"
+generated_at: "2026-03-30T05:10:41.503Z"
 status: "active"
 ---
 
@@ -39,13 +39,13 @@ status: "active"
       - **(iii)** Distributions of drug products to a resident of a long term care facility (as that term is defined in regulations prescribed by the Attorney General) or distributions of drug products to a long term care facility for dispensing to or for use by a resident of that facility.
       - **(iv)** Distributions of drug products pursuant to a valid prescription.
       - **(v)** Exports which have been reported to the Attorney General pursuant to section 954 or 971 of this title or which are subject to a waiver granted under section 971(f)(2) of this title .
-      - **(vi)** Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II of this chapter.
-    - **(E)** The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title , and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title .
+      - **(vi)** Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II.
+    - **(E)** The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title , and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title .
 - **(c)**
   - **(1)** Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5 , by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
   - **(2)** Information referred to in paragraph (1) may be disclosed only—
-    - **(A)** to an officer or employee of the United States engaged in carrying out this subchapter, subchapter II of this chapter, or the customs laws;
-    - **(B)** when relevant in any investigation or proceeding for the enforcement of this subchapter, subchapter II of this chapter, or the customs laws;
+    - **(A)** to an officer or employee of the United States engaged in carrying out this subchapter, subchapter II, or the customs laws;
+    - **(B)** when relevant in any investigation or proceeding for the enforcement of this subchapter, subchapter II, or the customs laws;
     - **(C)** when necessary to comply with an obligation of the United States under a treaty or other international agreement; or
     - **(D)** to a State or local official or employee in conjunction with the enforcement of controlled substances laws or chemical control laws.
   - **(3)** The Attorney General shall—

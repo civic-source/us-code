@@ -3,9 +3,9 @@ title: "Section 3016 - Authority of Assistant Secretary"
 usc_title: 42
 usc_section: "3016"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3016"
-generated_at: "2026-03-30T05:09:13.937Z"
+generated_at: "2026-03-30T05:11:14.295Z"
 status: "active"
 ---
 
@@ -37,4 +37,3 @@ status: "active"
         - **(II)** be a credentialed nutrition professional; or
         - **(III)** have education and training that is substantially equivalent to the education and training for a registered dietitian or a credentialed nutrition professional.
 - **(b)** In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
-- **(c)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.

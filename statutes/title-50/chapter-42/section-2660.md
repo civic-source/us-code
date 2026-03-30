@@ -3,9 +3,9 @@ title: "Section 2660 - Design and use of prototypes of nuclear weapons for intel
 usc_title: 50
 usc_section: "2660"
 chapter: 42
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "50 U.S.C. § 2660"
-generated_at: "2026-03-30T05:09:19.051Z"
+generated_at: "2026-03-30T05:11:19.287Z"
 status: "active"
 ---
 

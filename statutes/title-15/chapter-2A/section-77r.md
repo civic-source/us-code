@@ -3,9 +3,9 @@ title: "Section 77r - Exemption from State regulation of securities offerings"
 usc_title: 15
 usc_section: "77r"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 77r"
-generated_at: "2026-03-30T05:08:11.639Z"
+generated_at: "2026-03-30T05:10:23.344Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(F)** Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996 ; or
     - **(G)** section 77d(a)(7) of this title .
 - **(c)**
-  - **(1)** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 2 2 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A).
+  - **(1)** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 2 2 So in original. The comma after “enforcement actions” probably should be a hyphen and the words “in connection with securities or securities transactions” probably should be part of subpar. (A).
     - **(A)** with respect to—
       - **(i)** fraud or deceit; or
       - **(ii)** unlawful conduct by a broker, dealer, or funding portal; and

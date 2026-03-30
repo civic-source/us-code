@@ -3,9 +3,9 @@ title: "Section 3051 - Powers of Special Agents 1 1 So in original. The words โ€
 usc_title: 18
 usc_section: "3051"
 chapter: 203
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. ยง 3051"
-generated_at: "2026-03-30T05:08:34.191Z"
+generated_at: "2026-03-30T05:10:34.011Z"
 status: "active"
 ---
 

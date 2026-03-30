@@ -3,9 +3,9 @@ title: "Section 1741 - Annual reports"
 usc_title: 43
 usc_section: "1741"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "43 U.S.C. § 1741"
-generated_at: "2026-03-30T05:09:03.506Z"
+generated_at: "2026-03-30T05:11:02.510Z"
 status: "active"
 ---
 

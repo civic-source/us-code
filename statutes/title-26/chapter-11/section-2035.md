@@ -3,9 +3,9 @@ title: "Section 2035 - Adjustments for certain gifts made within 3 years of dece
 usc_title: 26
 usc_section: "2035"
 chapter: 11
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 2035"
-generated_at: "2026-03-30T05:08:52.947Z"
+generated_at: "2026-03-30T05:10:51.708Z"
 status: "active"
 ---
 

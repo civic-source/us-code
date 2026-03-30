@@ -3,9 +3,9 @@ title: "Section 51a - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(2), (
 usc_title: 22
 usc_section: "51a"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "22 U.S.C. § 51a"
-generated_at: "2026-03-30T05:08:43.817Z"
+generated_at: "2026-03-30T05:10:39.692Z"
 status: "repealed"
 ---
 

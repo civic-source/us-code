@@ -3,9 +3,9 @@ title: "Section 642to644 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 ,
 usc_title: 45
 usc_section: "642to644"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "45 U.S.C. § 642to644"
-generated_at: "2026-03-30T05:09:04.131Z"
+generated_at: "2026-03-30T05:11:03.123Z"
 status: "repealed"
 ---
 

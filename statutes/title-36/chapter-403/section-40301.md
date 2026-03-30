@@ -3,9 +3,9 @@ title: "Section 40301 - Organization"
 usc_title: 36
 usc_section: "40301"
 chapter: 403
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "36 U.S.C. § 40301"
-generated_at: "2026-03-30T05:08:59.137Z"
+generated_at: "2026-03-30T05:10:58.159Z"
 status: "active"
 ---
 

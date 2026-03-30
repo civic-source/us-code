@@ -3,9 +3,9 @@ title: "Section 4614 - Enforcement"
 usc_title: 50
 usc_section: "4614"
 chapter: 56
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "50 U.S.C. § 4614"
-generated_at: "2026-03-30T05:09:19.092Z"
+generated_at: "2026-03-30T05:11:19.328Z"
 status: "active"
 ---
 

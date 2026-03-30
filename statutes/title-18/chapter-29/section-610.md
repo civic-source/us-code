@@ -3,9 +3,9 @@ title: "Section 610 - Coercion of political activity"
 usc_title: 18
 usc_section: "610"
 chapter: 29
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 610"
-generated_at: "2026-03-30T05:08:34.159Z"
+generated_at: "2026-03-30T05:10:33.977Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5545a - Availability pay for criminal investigators"
 usc_title: 5
 usc_section: "5545a"
 chapter: 55
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 5545a"
-generated_at: "2026-03-30T05:07:35.389Z"
+generated_at: "2026-03-30T05:09:39.096Z"
 status: "active"
 ---
 

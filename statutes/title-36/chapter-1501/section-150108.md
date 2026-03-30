@@ -3,9 +3,9 @@ title: "Section 150108 - Restrictions"
 usc_title: 36
 usc_section: "150108"
 chapter: 1501
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "36 U.S.C. § 150108"
-generated_at: "2026-03-30T05:08:59.141Z"
+generated_at: "2026-03-30T05:10:58.163Z"
 status: "active"
 ---
 

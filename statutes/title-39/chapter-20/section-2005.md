@@ -3,9 +3,9 @@ title: "Section 2005 - Obligations"
 usc_title: 39
 usc_section: "2005"
 chapter: 20
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "39 U.S.C. § 2005"
-generated_at: "2026-03-30T05:09:00.041Z"
+generated_at: "2026-03-30T05:10:57.594Z"
 status: "active"
 ---
 

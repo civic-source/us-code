@@ -3,9 +3,9 @@ title: "Section 1197 - Agreements with Indians not affected"
 usc_title: 43
 usc_section: "1197"
 chapter: 28
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "43 U.S.C. § 1197"
-generated_at: "2026-03-30T05:09:03.487Z"
+generated_at: "2026-03-30T05:11:02.492Z"
 status: "active"
 ---
 

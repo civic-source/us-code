@@ -3,14 +3,17 @@ title: "Section 3020f - Authorization of appropriations"
 usc_title: 42
 usc_section: "3020f"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3020f"
-generated_at: "2026-03-30T05:09:13.938Z"
+generated_at: "2026-03-30T05:11:14.296Z"
 status: "active"
 ---
 
 # § 3020f. Authorization of appropriations
 
-- **(a)** For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
-- **(b)** There are authorized to be appropriated to carry out section 3012(a)(24) 1 1 See References in Text note below. of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
-- **(c)** There are authorized to be appropriated to carry out section 3020e–1 of this title , such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+- **(a)** For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration $40,063,000 for each of the fiscal years 2017, 2018, and 2019.
+- **(b)**
+  - **(1)** to carry out section 3012(a)(21) of this title (relating to the National Eldercare Locator Service), $2,088,758 for fiscal year 2017, $2,132,440 for fiscal year 2018, and $2,176,121 for fiscal year 2019;
+  - **(2)** to carry out section 3020e–1 of this title , $1,904,275 for fiscal year 2017, $1,944,099 for fiscal year 2018, and $1,983,922 for fiscal year 2019;
+  - **(3)** to carry out section 3012 of this title (relating to Elder Rights Support Activities under this subchapter), $1,312,904 for fiscal year 2017, $1,340,361 for fiscal year 2018, and $1,367,817 for fiscal year 2019; and
+  - **(4)** to carry out section 3012(b) of this title (relating to the Aging and Disability Resource Centers), $6,271,399 for fiscal year 2017, $6,402,551 for fiscal year 2018, and $6,533,703 for fiscal year 2019.

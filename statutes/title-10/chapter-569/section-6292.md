@@ -3,9 +3,9 @@ title: "Section 6292 - Minors enlisted upon false statement of age"
 usc_title: 10
 usc_section: "6292"
 chapter: 569
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 6292"
-generated_at: "2026-03-30T05:08:05.422Z"
+generated_at: "2026-03-30T05:09:57.120Z"
 status: "active"
 ---
 

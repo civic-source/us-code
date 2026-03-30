@@ -3,9 +3,9 @@ title: "Section 78o - Registration and regulation of brokers and dealers"
 usc_title: 15
 usc_section: "78o"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 78o"
-generated_at: "2026-03-30T05:08:11.652Z"
+generated_at: "2026-03-30T05:10:23.359Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
   - **(5)** Pending final determination whether any registration under this subsection shall be revoked, the Commission, by order, may suspend such registration, if such suspension appears to the Commission, after notice and opportunity for hearing, to be necessary or appropriate in the public interest or for the protection of investors. Any registered broker or dealer may, upon such terms and conditions as the Commission deems necessary or appropriate in the public interest or for the protection of investors, withdraw from registration by filing a written notice of withdrawal with the Commission. If the Commission finds that any registered broker or dealer is no longer in existence or has ceased to do business as a broker or dealer, the Commission, by order, shall cancel the registration of such broker or dealer.
   - **(6)**
     - **(A)** With respect to any person who is associated, who is seeking to become associated, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a broker or dealer, or any person participating, or, at the time of the alleged misconduct, who was participating, in an offering of any penny stock, the Commission, by order, shall censure, place limitations on the activities or functions of such person, or suspend for a period not exceeding 12 months, or bar any such person from being associated with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization, or from participating in an offering of penny stock, if the Commission finds, on the record after notice and opportunity for a hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person—
-      - **(i)** has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), or (E) of paragraph (4) of this subsection;
+      - **(i)** has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of paragraph (4) of this subsection;
       - **(ii)** has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within 10 years of the commencement of the proceedings under this paragraph; or
       - **(iii)** is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4).
     - **(B)** It shall be unlawful—

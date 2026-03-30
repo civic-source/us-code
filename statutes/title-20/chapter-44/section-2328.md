@@ -3,9 +3,9 @@ title: "Section 2328 - Occupational and employment information"
 usc_title: 20
 usc_section: "2328"
 chapter: 44
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 2328"
-generated_at: "2026-03-30T05:08:30.973Z"
+generated_at: "2026-03-30T05:10:30.502Z"
 status: "active"
 ---
 

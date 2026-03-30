@@ -3,9 +3,9 @@ title: "Section 204k - Addition of lands"
 usc_title: 16
 usc_section: "204k"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 204k"
-generated_at: "2026-03-30T05:08:37.027Z"
+generated_at: "2026-03-30T05:10:32.539Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 339 - Repealed. Pub. L. 93–461 , Oct. 20, 1974 , 88 Stat. 1387
 usc_title: 8
 usc_section: "339"
 chapter: 8
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "8 U.S.C. § 339"
-generated_at: "2026-03-30T05:07:37.951Z"
+generated_at: "2026-03-30T05:09:47.063Z"
 status: "repealed"
 ---
 

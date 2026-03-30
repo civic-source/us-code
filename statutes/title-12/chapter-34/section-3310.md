@@ -3,9 +3,9 @@ title: "Section 3310 - Establishment of Appraisal Subcommittee"
 usc_title: 12
 usc_section: "3310"
 chapter: 34
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 3310"
-generated_at: "2026-03-30T05:08:26.082Z"
+generated_at: "2026-03-30T05:10:14.923Z"
 status: "active"
 ---
 

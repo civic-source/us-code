@@ -3,9 +3,9 @@ title: "Section 1862 - North Pacific fisheries conservation"
 usc_title: 16
 usc_section: "1862"
 chapter: 38
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 1862"
-generated_at: "2026-03-30T05:08:37.191Z"
+generated_at: "2026-03-30T05:10:32.704Z"
 status: "active"
 ---
 

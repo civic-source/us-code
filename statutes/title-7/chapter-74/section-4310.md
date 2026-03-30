@@ -3,9 +3,9 @@ title: "Section 4310 - Amendments to orders"
 usc_title: 7
 usc_section: "4310"
 chapter: 74
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 4310"
-generated_at: "2026-03-30T05:07:43.364Z"
+generated_at: "2026-03-30T05:09:52.140Z"
 status: "active"
 ---
 

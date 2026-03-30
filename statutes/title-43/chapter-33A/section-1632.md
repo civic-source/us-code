@@ -3,9 +3,9 @@ title: "Section 1632 - Statute of limitations on decisions of Secretary and reco
 usc_title: 43
 usc_section: "1632"
 chapter: 33
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "43 U.S.C. § 1632"
-generated_at: "2026-03-30T05:09:03.501Z"
+generated_at: "2026-03-30T05:11:02.506Z"
 status: "active"
 ---
 

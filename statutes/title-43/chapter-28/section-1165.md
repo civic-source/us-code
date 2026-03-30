@@ -3,9 +3,9 @@ title: "Section 1165 - Suspension of entries for correction of clerical errors; 
 usc_title: 43
 usc_section: "1165"
 chapter: 28
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "43 U.S.C. § 1165"
-generated_at: "2026-03-30T05:09:03.486Z"
+generated_at: "2026-03-30T05:11:02.491Z"
 status: "active"
 ---
 

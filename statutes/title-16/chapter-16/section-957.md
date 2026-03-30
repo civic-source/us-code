@@ -3,9 +3,9 @@ title: "Section 957 - Violations; fines and forfeitures; application of related 
 usc_title: 16
 usc_section: "957"
 chapter: 16
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 957"
-generated_at: "2026-03-30T05:08:37.154Z"
+generated_at: "2026-03-30T05:10:32.667Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
 - **(e)** Any person violating any provision of subsection (b) of this section shall be fined not more than $1,000, and for a subsequent violation of any provision of subsection (b) shall be fined not more than $5,000.
 - **(f)** Any person violating any provision of subsection (c) of this section shall be fined not more than $100,000.
 - **(g)** All fish taken or retained in violation of subsection (a) of this section, or the monetary value thereof, may be forfeited.
-- **(h)** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter. [See main edition for text of (d) to (h)]
+- **(h)** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 - **(i)** For prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title .

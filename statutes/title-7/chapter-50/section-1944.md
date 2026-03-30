@@ -3,9 +3,9 @@ title: "Section 1944 - Soil conservation district loans; limitation; purchase of
 usc_title: 7
 usc_section: "1944"
 chapter: 50
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 1944"
-generated_at: "2026-03-30T05:07:43.326Z"
+generated_at: "2026-03-30T05:09:52.100Z"
 status: "active"
 ---
 

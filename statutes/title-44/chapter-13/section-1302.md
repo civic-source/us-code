@@ -3,9 +3,9 @@ title: "Section 1302 - Agriculture, Department of: monthly crop report and other
 usc_title: 44
 usc_section: "1302"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "44 U.S.C. § 1302"
-generated_at: "2026-03-30T05:09:03.905Z"
+generated_at: "2026-03-30T05:11:02.882Z"
 status: "active"
 ---
 

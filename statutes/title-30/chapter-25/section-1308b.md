@@ -3,9 +3,9 @@ title: "Section 1308b - Transfer of computer hardware, software and other techni
 usc_title: 30
 usc_section: "1308b"
 chapter: 25
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "30 U.S.C. § 1308b"
-generated_at: "2026-03-30T05:08:46.180Z"
+generated_at: "2026-03-30T05:10:44.007Z"
 status: "active"
 ---
 

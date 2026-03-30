@@ -3,9 +3,9 @@ title: "Section 8116 - Nursing home revolving fund"
 usc_title: 38
 usc_section: "8116"
 chapter: 81
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "38 U.S.C. § 8116"
-generated_at: "2026-03-30T05:09:01.217Z"
+generated_at: "2026-03-30T05:10:59.694Z"
 status: "active"
 ---
 

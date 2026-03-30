@@ -3,9 +3,9 @@ title: "Section 698h - Right of use and occupancy of improved property on Big Cy
 usc_title: 16
 usc_section: "698h"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 698h"
-generated_at: "2026-03-30T05:08:37.127Z"
+generated_at: "2026-03-30T05:10:32.641Z"
 status: "active"
 ---
 

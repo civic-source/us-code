@@ -3,9 +3,9 @@ title: "Section 4107 - Withdrawal of unexpended balances of appropriations"
 usc_title: 2
 usc_section: "4107"
 chapter: 41
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 4107"
-generated_at: "2026-03-30T05:07:20.602Z"
+generated_at: "2026-03-30T05:09:34.648Z"
 status: "active"
 ---
 

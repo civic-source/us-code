@@ -3,9 +3,9 @@ title: "Section 210313 - Annual report"
 usc_title: 36
 usc_section: "210313"
 chapter: 2103
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "36 U.S.C. § 210313"
-generated_at: "2026-03-30T05:08:59.148Z"
+generated_at: "2026-03-30T05:10:58.169Z"
 status: "active"
 ---
 

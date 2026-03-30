@@ -3,9 +3,9 @@ title: "Section 374 - Taking or use of or bathing in water in violation of rules
 usc_title: 16
 usc_section: "374"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 374"
-generated_at: "2026-03-30T05:08:37.034Z"
+generated_at: "2026-03-30T05:10:32.546Z"
 status: "active"
 ---
 

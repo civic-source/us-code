@@ -3,9 +3,9 @@ title: "Section 247 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(
 usc_title: 26
 usc_section: "247"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 247"
-generated_at: "2026-03-30T05:08:52.841Z"
+generated_at: "2026-03-30T05:10:51.601Z"
 status: "repealed"
 ---
 

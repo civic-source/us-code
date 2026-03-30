@@ -3,9 +3,9 @@ title: "Section 12 - Medical officers in American Samoa, the Northern Mariana Is
 usc_title: 42
 usc_section: "12"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T05:09:13.747Z"
+generated_at: "2026-03-30T05:11:14.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 941d - Ratification of prior transfers; extinguishment of aborig
 usc_title: 25
 usc_section: "941d"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 941d"
-generated_at: "2026-03-30T05:08:41.394Z"
+generated_at: "2026-03-30T05:10:37.319Z"
 status: "active"
 ---
 

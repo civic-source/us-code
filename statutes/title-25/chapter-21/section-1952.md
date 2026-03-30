@@ -3,9 +3,9 @@ title: "Section 1952 - Rules and regulations"
 usc_title: 25
 usc_section: "1952"
 chapter: 21
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1952"
-generated_at: "2026-03-30T05:08:41.424Z"
+generated_at: "2026-03-30T05:10:37.350Z"
 status: "active"
 ---
 

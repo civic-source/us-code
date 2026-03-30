@@ -3,9 +3,9 @@ title: "Section 1614 - Notification and information reporting"
 usc_title: 8
 usc_section: "1614"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "8 U.S.C. § 1614"
-generated_at: "2026-03-30T05:07:37.982Z"
+generated_at: "2026-03-30T05:09:47.096Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 144 - China trade corporations"
 usc_title: 15
 usc_section: "144"
 chapter: 4
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 144"
-generated_at: "2026-03-30T05:08:11.677Z"
+generated_at: "2026-03-30T05:10:23.384Z"
 status: "active"
 ---
 

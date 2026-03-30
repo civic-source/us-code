@@ -3,9 +3,9 @@ title: "Section 633 - Determination of number, locations, and salaries of magist
 usc_title: 28
 usc_section: "633"
 chapter: 43
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "28 U.S.C. § 633"
-generated_at: "2026-03-30T05:08:46.997Z"
+generated_at: "2026-03-30T05:10:45.962Z"
 status: "active"
 ---
 

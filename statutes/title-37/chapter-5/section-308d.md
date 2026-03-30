@@ -3,9 +3,9 @@ title: "Section 308d - Special pay: members of the Selected Reserve assigned to 
 usc_title: 37
 usc_section: "308d"
 chapter: 5
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "37 U.S.C. § 308d"
-generated_at: "2026-03-30T05:08:58.545Z"
+generated_at: "2026-03-30T05:10:58.507Z"
 status: "active"
 ---
 

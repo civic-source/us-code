@@ -3,9 +3,9 @@ title: "Section 545 - Liability of judgment funds for debts"
 usc_title: 25
 usc_section: "545"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 545"
-generated_at: "2026-03-30T05:08:41.380Z"
+generated_at: "2026-03-30T05:10:37.305Z"
 status: "active"
 ---
 

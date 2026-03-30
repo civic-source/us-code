@@ -3,9 +3,9 @@ title: "Section 105 - Component"
 usc_title: 41
 usc_section: "105"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "41 U.S.C. § 105"
-generated_at: "2026-03-30T05:09:02.803Z"
+generated_at: "2026-03-30T05:11:01.708Z"
 status: "active"
 ---
 

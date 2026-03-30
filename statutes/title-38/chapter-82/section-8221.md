@@ -3,9 +3,9 @@ title: "Section 8221 - Declaration of purpose"
 usc_title: 38
 usc_section: "8221"
 chapter: 82
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "38 U.S.C. § 8221"
-generated_at: "2026-03-30T05:09:01.220Z"
+generated_at: "2026-03-30T05:10:59.696Z"
 status: "active"
 ---
 

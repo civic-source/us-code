@@ -3,9 +3,9 @@ title: "Section 273b - Report on the long-term health effects of living organ do
 usc_title: 42
 usc_section: "273b"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 273b"
-generated_at: "2026-03-30T05:09:13.601Z"
+generated_at: "2026-03-30T05:11:13.967Z"
 status: "active"
 ---
 

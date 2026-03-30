@@ -3,9 +3,9 @@ title: "Section 6964 - Applicability of solid waste disposal guidelines to Execu
 usc_title: 42
 usc_section: "6964"
 chapter: 82
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 6964"
-generated_at: "2026-03-30T05:09:14.038Z"
+generated_at: "2026-03-30T05:11:14.395Z"
 status: "active"
 ---
 

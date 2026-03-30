@@ -3,9 +3,9 @@ title: "Section 950r - Accessory after the fact"
 usc_title: 10
 usc_section: "950r"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 950r"
-generated_at: "2026-03-30T05:08:05.343Z"
+generated_at: "2026-03-30T05:09:57.034Z"
 status: "active"
 ---
 

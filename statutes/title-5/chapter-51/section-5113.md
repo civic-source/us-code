@@ -3,9 +3,9 @@ title: "Section 5113 - Classification records"
 usc_title: 5
 usc_section: "5113"
 chapter: 51
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 5113"
-generated_at: "2026-03-30T05:07:35.384Z"
+generated_at: "2026-03-30T05:09:39.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 177 - Board of inquiry"
 usc_title: 29
 usc_section: "177"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "29 U.S.C. § 177"
-generated_at: "2026-03-30T05:08:47.841Z"
+generated_at: "2026-03-30T05:10:45.244Z"
 status: "active"
 ---
 

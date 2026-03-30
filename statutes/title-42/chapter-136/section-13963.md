@@ -3,9 +3,9 @@ title: "Section 13963 - Number and cost of injuries"
 usc_title: 42
 usc_section: "13963"
 chapter: 136
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 13963"
-generated_at: "2026-03-30T05:09:14.197Z"
+generated_at: "2026-03-30T05:11:14.543Z"
 status: "active"
 ---
 

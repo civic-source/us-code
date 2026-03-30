@@ -3,9 +3,9 @@ title: "Section 3027 - State plans"
 usc_title: 42
 usc_section: "3027"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3027"
-generated_at: "2026-03-30T05:09:13.939Z"
+generated_at: "2026-03-30T05:11:14.297Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** require each area agency on aging designated under section 3025(a)(2)(A) of this title to develop and submit to the State agency for approval, in accordance with a uniform format developed by the State agency, an area plan meeting the requirements of section 3026 of this title ; and
     - **(B)** be based on such area plans.
   - **(2)** The plan shall provide that the State agency will—
-    - **(A)** evaluate, using uniform procedures described in section 3012(a)(29) 1 1 See References in Text note below. of this title, the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
+    - **(A)** evaluate, using uniform procedures described in section 3012(a)(26) of this title , the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
     - **(B)** develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
     - **(C)** specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B of this subchapter that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in section 3026(a)(2) of this title .
   - **(3)** The plan shall—

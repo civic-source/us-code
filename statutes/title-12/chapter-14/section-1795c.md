@@ -3,9 +3,9 @@ title: "Section 1795c - Membership"
 usc_title: 12
 usc_section: "1795c"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 1795c"
-generated_at: "2026-03-30T05:08:26.038Z"
+generated_at: "2026-03-30T05:10:14.883Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 411 - Penalty for wrongful deposit of refuse; use of or injury t
 usc_title: 33
 usc_section: "411"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 411"
-generated_at: "2026-03-30T05:08:56.598Z"
+generated_at: "2026-03-30T05:10:56.014Z"
 status: "active"
 ---
 

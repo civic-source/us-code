@@ -3,9 +3,9 @@ title: "Section 25 - Reorganization plans; reports by Commission"
 usc_title: 15
 usc_section: "25"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 25"
-generated_at: "2026-03-30T05:08:11.672Z"
+generated_at: "2026-03-30T05:10:23.378Z"
 status: "active"
 ---
 

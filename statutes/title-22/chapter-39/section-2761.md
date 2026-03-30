@@ -3,9 +3,9 @@ title: "Section 2761 - Sales from stocks"
 usc_title: 22
 usc_section: "2761"
 chapter: 39
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "22 U.S.C. § 2761"
-generated_at: "2026-03-30T05:08:43.889Z"
+generated_at: "2026-03-30T05:10:39.762Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 84 - Repealed. Oct. 11, 1951, ch. 495 , § 5, 65 Stat. 407"
 usc_title: 33
 usc_section: "84"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 84"
-generated_at: "2026-03-30T05:08:56.595Z"
+generated_at: "2026-03-30T05:10:56.012Z"
 status: "repealed"
 ---
 

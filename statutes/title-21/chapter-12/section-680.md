@@ -3,9 +3,9 @@ title: "Section 680 - Authorization of appropriations"
 usc_title: 21
 usc_section: "680"
 chapter: 12
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 680"
-generated_at: "2026-03-30T05:08:40.568Z"
+generated_at: "2026-03-30T05:10:41.500Z"
 status: "active"
 ---
 

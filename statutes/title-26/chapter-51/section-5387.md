@@ -3,9 +3,9 @@ title: "Section 5387 - Agricultural wines"
 usc_title: 26
 usc_section: "5387"
 chapter: 51
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 5387"
-generated_at: "2026-03-30T05:08:52.989Z"
+generated_at: "2026-03-30T05:10:51.744Z"
 status: "active"
 ---
 

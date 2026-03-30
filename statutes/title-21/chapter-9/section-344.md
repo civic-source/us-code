@@ -3,9 +3,9 @@ title: "Section 344 - Emergency permit control"
 usc_title: 21
 usc_section: "344"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 344"
-generated_at: "2026-03-30T05:08:40.523Z"
+generated_at: "2026-03-30T05:10:41.456Z"
 status: "active"
 ---
 

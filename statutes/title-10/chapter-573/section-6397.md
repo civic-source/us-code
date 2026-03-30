@@ -3,9 +3,9 @@ title: "Section 6397 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "6397"
 chapter: 573
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 6397"
-generated_at: "2026-03-30T05:08:05.422Z"
+generated_at: "2026-03-30T05:09:57.121Z"
 status: "repealed"
 ---
 

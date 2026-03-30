@@ -3,9 +3,9 @@ title: "Section 393 - Food and Drug Administration"
 usc_title: 21
 usc_section: "393"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 393"
-generated_at: "2026-03-30T05:08:40.563Z"
+generated_at: "2026-03-30T05:10:41.495Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(E)** establishing mechanisms, by July 1, 1999 , for meeting the time periods specified in this chapter for the review of all applications and submissions described in subparagraph (A) and submitted after November 21, 1997 ; and
     - **(F)** eliminating backlogs in the review of applications and submissions described in subparagraph (A), by January 1, 2000 .
 - **(g)** The Secretary shall annually prepare and publish in the Federal Register and solicit public comment on a report that—
-  - **(1)** provides detailed statistical information on the performance of the Secretary under the plan described in subsection (f) of this section;
+  - **(1)** provides detailed statistical information on the performance of the Secretary under the plan described in subsection (f);
   - **(2)** compares such performance of the Secretary with the objectives of the plan and with the statutory obligations of the Secretary; and
   - **(3)** identifies any regulatory policy that has a significant negative impact on compliance with any objective of the plan or any statutory obligation and sets forth any proposed revision to any such regulatory policy.
 - **(h)** Not later than February 1 of each year, the Secretary shall submit to Congress a report, including efforts to coordinate and cooperate with other Federal agencies with responsibilities for food inspections, regarding—

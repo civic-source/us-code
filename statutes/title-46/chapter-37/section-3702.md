@@ -3,9 +3,9 @@ title: "Section 3702 - Application"
 usc_title: 46
 usc_section: "3702"
 chapter: 37
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "46 U.S.C. § 3702"
-generated_at: "2026-03-30T05:09:17.660Z"
+generated_at: "2026-03-30T05:11:17.423Z"
 status: "active"
 ---
 

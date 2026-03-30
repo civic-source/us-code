@@ -3,9 +3,9 @@ title: "Section 2541 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "2541"
 chapter: 148
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 2541"
-generated_at: "2026-03-30T05:08:05.397Z"
+generated_at: "2026-03-30T05:09:57.093Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2340 - Definitions"
 usc_title: 18
 usc_section: "2340"
 chapter: 113
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 2340"
-generated_at: "2026-03-30T05:08:34.188Z"
+generated_at: "2026-03-30T05:10:34.008Z"
 status: "active"
 ---
 

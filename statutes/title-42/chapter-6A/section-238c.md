@@ -3,9 +3,9 @@ title: "Section 238c - Transportation of remains of officers"
 usc_title: 42
 usc_section: "238c"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 238c"
-generated_at: "2026-03-30T05:09:13.572Z"
+generated_at: "2026-03-30T05:11:13.940Z"
 status: "active"
 ---
 

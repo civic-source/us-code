@@ -3,9 +3,9 @@ title: "Section 2143 - Utilization of personnel by Architect of the Capitol for 
 usc_title: 2
 usc_section: "2143"
 chapter: 30
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 2143"
-generated_at: "2026-03-30T05:07:20.600Z"
+generated_at: "2026-03-30T05:09:34.646Z"
 status: "active"
 ---
 

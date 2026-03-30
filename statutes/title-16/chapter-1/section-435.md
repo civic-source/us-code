@@ -3,9 +3,9 @@ title: "Section 435 - Acquiring reservation land"
 usc_title: 16
 usc_section: "435"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 435"
-generated_at: "2026-03-30T05:08:37.062Z"
+generated_at: "2026-03-30T05:10:32.575Z"
 status: "active"
 ---
 

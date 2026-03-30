@@ -3,9 +3,9 @@ title: "Section 2510 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2510"
 chapter: 45
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 2510"
-generated_at: "2026-03-30T05:08:37.198Z"
+generated_at: "2026-03-30T05:10:32.711Z"
 status: "repealed"
 ---
 

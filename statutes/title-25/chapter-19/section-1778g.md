@@ -3,9 +3,9 @@ title: "Section 1778g - Miscellaneous provisions"
 usc_title: 25
 usc_section: "1778g"
 chapter: 19
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1778g"
-generated_at: "2026-03-30T05:08:41.421Z"
+generated_at: "2026-03-30T05:10:37.346Z"
 status: "active"
 ---
 

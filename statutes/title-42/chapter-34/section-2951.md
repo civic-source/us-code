@@ -3,9 +3,9 @@ title: "Section 2951 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2951"
 chapter: 34
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 2951"
-generated_at: "2026-03-30T05:09:13.933Z"
+generated_at: "2026-03-30T05:11:14.291Z"
 status: "repealed"
 ---
 

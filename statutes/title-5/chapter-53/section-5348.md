@@ -3,9 +3,9 @@ title: "Section 5348 - Crews of vessels"
 usc_title: 5
 usc_section: "5348"
 chapter: 53
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 5348"
-generated_at: "2026-03-30T05:07:35.386Z"
+generated_at: "2026-03-30T05:09:39.092Z"
 status: "active"
 ---
 

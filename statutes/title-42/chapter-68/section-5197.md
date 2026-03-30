@@ -3,9 +3,9 @@ title: "Section 5197 - Administrative authority"
 usc_title: 42
 usc_section: "5197"
 chapter: 68
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 5197"
-generated_at: "2026-03-30T05:09:13.993Z"
+generated_at: "2026-03-30T05:11:14.350Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 584 - Exemptions"
 usc_title: 7
 usc_section: "584"
 chapter: 25
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 584"
-generated_at: "2026-03-30T05:07:43.284Z"
+generated_at: "2026-03-30T05:09:52.056Z"
 status: "active"
 ---
 

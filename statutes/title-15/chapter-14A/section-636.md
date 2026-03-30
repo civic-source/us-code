@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T05:08:11.689Z"
+generated_at: "2026-03-30T05:10:23.395Z"
 status: "active"
 ---
 
@@ -603,7 +603,7 @@ status: "active"
     - **(A)** The Administration shall segment the Capital Ownership Development Program into two stages: a developmental stage; and a transitional stage.
     - **(B)** The developmental stage of program participation shall be designed to assist the concern in its effort to overcome its economic disadvantage by providing such assistance as may be necessary and appropriate to access its markets and to strengthen its financial and managerial skills.
     - **(C)** The transitional stage of program participation shall be designed to overcome, insofar as practicable, the remaining elements of economic disadvantage and to prepare such concern for graduation from the program.
-  - **(13)** A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: 13 13 So in original. Probably should be paragraph “(12):”.
+  - **(13)** A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: 13 13 So in original. Probably should be “paragraph (12):”.
     - **(A)** Contract support pursuant to section 637(a) of this title .
     - **(B)** Financial assistance pursuant to subsection (a)(20).
     - **(C)** A maximum of two exemptions from the requirements of section 35(a) 2 of title 41, which exemptions shall apply only to contracts awarded pursuant to section 637(a) of this title and shall only be used to allow for contingent agreements by a small business concern to acquire the machinery, equipment, facilities, or labor needed to perform such contracts. No exemption shall be made pursuant to this subparagraph if the contract to which it pertains has an anticipated value in excess of $10,000,000. This subparagraph shall cease to be effective on October 1, 1992 .

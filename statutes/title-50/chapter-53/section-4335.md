@@ -3,9 +3,9 @@ title: "Section 4335 - Shipment of relief supplies; definitions"
 usc_title: 50
 usc_section: "4335"
 chapter: 53
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "50 U.S.C. § 4335"
-generated_at: "2026-03-30T05:09:19.083Z"
+generated_at: "2026-03-30T05:11:19.320Z"
 status: "active"
 ---
 

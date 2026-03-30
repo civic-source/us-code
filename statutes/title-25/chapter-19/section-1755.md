@@ -3,9 +3,9 @@ title: "Section 1755 - State jurisdiction over reservation"
 usc_title: 25
 usc_section: "1755"
 chapter: 19
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1755"
-generated_at: "2026-03-30T05:08:41.417Z"
+generated_at: "2026-03-30T05:10:37.343Z"
 status: "active"
 ---
 

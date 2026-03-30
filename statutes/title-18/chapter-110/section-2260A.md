@@ -3,9 +3,9 @@ title: "Section 2260A - Penalties for registered sex offenders"
 usc_title: 18
 usc_section: "2260A"
 chapter: 110
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 2260A"
-generated_at: "2026-03-30T05:08:34.184Z"
+generated_at: "2026-03-30T05:10:34.003Z"
 status: "active"
 ---
 

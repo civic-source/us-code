@@ -3,9 +3,9 @@ title: "Section 1706f - Prohibition against kickbacks and unearned fees"
 usc_title: 12
 usc_section: "1706f"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 1706f"
-generated_at: "2026-03-30T05:08:26.011Z"
+generated_at: "2026-03-30T05:10:14.857Z"
 status: "active"
 ---
 

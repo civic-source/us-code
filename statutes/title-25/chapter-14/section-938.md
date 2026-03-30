@@ -3,9 +3,9 @@ title: "Section 938 - Repealed. Pub. L. 103–116 , § 4(c), Oct. 27, 1993 , 107
 usc_title: 25
 usc_section: "938"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 938"
-generated_at: "2026-03-30T05:08:41.394Z"
+generated_at: "2026-03-30T05:10:37.319Z"
 status: "repealed"
 ---
 

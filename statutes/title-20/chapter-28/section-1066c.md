@@ -3,9 +3,9 @@ title: "Section 1066c - Limitations on Federal insurance for bonds issued by des
 usc_title: 20
 usc_section: "1066c"
 chapter: 28
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 1066c"
-generated_at: "2026-03-30T05:08:30.912Z"
+generated_at: "2026-03-30T05:10:30.444Z"
 status: "active"
 ---
 

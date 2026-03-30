@@ -3,9 +3,9 @@ title: "Section 217a - Advisory councils or committees"
 usc_title: 42
 usc_section: "217a"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 217a"
-generated_at: "2026-03-30T05:09:13.571Z"
+generated_at: "2026-03-30T05:11:13.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7105 - Filing of notice of disagreement and appeal"
 usc_title: 38
 usc_section: "7105"
 chapter: 71
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "38 U.S.C. § 7105"
-generated_at: "2026-03-30T05:09:01.205Z"
+generated_at: "2026-03-30T05:10:59.682Z"
 status: "active"
 ---
 

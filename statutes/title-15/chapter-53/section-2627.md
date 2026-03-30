@@ -3,9 +3,9 @@ title: "Section 2627 - State programs"
 usc_title: 15
 usc_section: "2627"
 chapter: 53
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 2627"
-generated_at: "2026-03-30T05:08:11.770Z"
+generated_at: "2026-03-30T05:10:23.474Z"
 status: "active"
 ---
 

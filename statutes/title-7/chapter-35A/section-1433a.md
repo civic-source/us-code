@@ -3,9 +3,9 @@ title: "Section 1433a - Forgiveness of violations; determinations"
 usc_title: 7
 usc_section: "1433a"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 1433a"
-generated_at: "2026-03-30T05:07:43.302Z"
+generated_at: "2026-03-30T05:09:52.074Z"
 status: "active"
 ---
 

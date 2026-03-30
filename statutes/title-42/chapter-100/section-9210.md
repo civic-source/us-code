@@ -3,9 +3,9 @@ title: "Section 9210 - Analysis of applications of wind energy systems"
 usc_title: 42
 usc_section: "9210"
 chapter: 100
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 9210"
-generated_at: "2026-03-30T05:09:14.101Z"
+generated_at: "2026-03-30T05:11:14.454Z"
 status: "active"
 ---
 

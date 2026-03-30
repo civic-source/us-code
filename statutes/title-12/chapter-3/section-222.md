@@ -3,9 +3,9 @@ title: "Section 222 - Federal reserve districts; membership of national banks"
 usc_title: 12
 usc_section: "222"
 chapter: 3
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 222"
-generated_at: "2026-03-30T05:08:25.980Z"
+generated_at: "2026-03-30T05:10:14.827Z"
 status: "active"
 ---
 

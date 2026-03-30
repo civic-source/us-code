@@ -3,9 +3,9 @@ title: "Section 3023 - Appeal procedures applicable upon denial or restriction o
 usc_title: 12
 usc_section: "3023"
 chapter: 31
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 3023"
-generated_at: "2026-03-30T05:08:26.080Z"
+generated_at: "2026-03-30T05:10:14.921Z"
 status: "active"
 ---
 

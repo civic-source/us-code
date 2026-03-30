@@ -3,9 +3,9 @@ title: "Section 108 - Constitution Week"
 usc_title: 36
 usc_section: "108"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "36 U.S.C. § 108"
-generated_at: "2026-03-30T05:08:59.129Z"
+generated_at: "2026-03-30T05:10:58.152Z"
 status: "active"
 ---
 

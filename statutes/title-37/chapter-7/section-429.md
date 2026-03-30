@@ -3,9 +3,9 @@ title: "Section 429 - Renumbered § 489]"
 usc_title: 37
 usc_section: "429"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "37 U.S.C. § 429"
-generated_at: "2026-03-30T05:08:58.550Z"
+generated_at: "2026-03-30T05:10:58.512Z"
 status: "renumbered"
 ---
 

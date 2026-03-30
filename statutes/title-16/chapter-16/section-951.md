@@ -3,9 +3,9 @@ title: "Section 951 - Definitions"
 usc_title: 16
 usc_section: "951"
 chapter: 16
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 951"
-generated_at: "2026-03-30T05:08:37.153Z"
+generated_at: "2026-03-30T05:10:32.667Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ In this chapter:
     - **(C)** both such Conventions, as the context requires.
   - **(4)** The term “person” means an individual, partnership, corporation, or association subject to the jurisdiction of the United States.
   - **(5)** The term “United States” includes all areas under the sovereignty of the United States.
-  - **(6)** The term “United States commissioners” means the individuals appointed in accordance with section 952(a) of this title .
+  - **(6)** The term “United States commissioners” 1 1 So in original. Probably should be capitalized. means the individuals appointed in accordance with section 952(a) of this title .

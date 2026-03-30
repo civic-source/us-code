@@ -3,9 +3,9 @@ title: "Section 450l - Contract or grant specifications"
 usc_title: 25
 usc_section: "450l"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 450l"
-generated_at: "2026-03-30T05:08:41.374Z"
+generated_at: "2026-03-30T05:10:37.299Z"
 status: "active"
 ---
 

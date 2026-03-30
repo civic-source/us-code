@@ -3,9 +3,9 @@ title: "Section 48b - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 29
 usc_section: "48b"
 chapter: 4
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "29 U.S.C. § 48b"
-generated_at: "2026-03-30T05:08:47.837Z"
+generated_at: "2026-03-30T05:10:45.240Z"
 status: "repealed"
 ---
 

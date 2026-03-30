@@ -3,9 +3,9 @@ title: "Section 9858n - Definitions"
 usc_title: 42
 usc_section: "9858n"
 chapter: 105
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 9858n"
-generated_at: "2026-03-30T05:09:14.122Z"
+generated_at: "2026-03-30T05:11:14.475Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ As used in this subchapter:
     - **(C)** who—
       - **(i)** resides with a parent or parents who are working or attending a job training or educational program; or
       - **(ii)** is receiving, or needs to receive, protective services and resides with a parent or parents not described in clause (i).
-  - **(5)** The term “English learner” means an individual who is an English learner, as defined in section section 7801 of title 20 , or who is limited English proficient, as defined in section 9832 of this title .
+  - **(5)** The term “English learner” means an individual who is an English learner, as defined in section 7801 of title 20 , or who is limited English proficient, as defined in section 9832 of this title .
   - **(6)** The term “eligible child care provider” means—
     - **(A)** a center-based child care provider, a group home child care provider, a family child care provider, or other provider of child care services for compensation that—
       - **(i)** is licensed, regulated, or registered under State law as described in section 9858c(c)(2)(F) of this title ; and

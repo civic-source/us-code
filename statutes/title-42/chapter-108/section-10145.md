@@ -3,9 +3,9 @@ title: "Section 10145 - Termination of certain provisions"
 usc_title: 42
 usc_section: "10145"
 chapter: 108
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 10145"
-generated_at: "2026-03-30T05:09:14.128Z"
+generated_at: "2026-03-30T05:11:14.480Z"
 status: "active"
 ---
 

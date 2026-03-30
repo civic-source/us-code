@@ -3,9 +3,9 @@ title: "Section 245 - Bonding and other financial assurance requirements"
 usc_title: 7
 usc_section: "245"
 chapter: 10
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 245"
-generated_at: "2026-03-30T05:07:43.276Z"
+generated_at: "2026-03-30T05:09:52.047Z"
 status: "active"
 ---
 

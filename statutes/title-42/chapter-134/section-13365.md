@@ -3,9 +3,9 @@ title: "Section 13365 - Coal fuel mixtures"
 usc_title: 42
 usc_section: "13365"
 chapter: 134
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 13365"
-generated_at: "2026-03-30T05:09:14.186Z"
+generated_at: "2026-03-30T05:11:14.533Z"
 status: "active"
 ---
 

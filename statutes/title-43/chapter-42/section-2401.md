@@ -3,9 +3,9 @@ title: "Section 2401 - Definitions"
 usc_title: 43
 usc_section: "2401"
 chapter: 42
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "43 U.S.C. § 2401"
-generated_at: "2026-03-30T05:09:03.511Z"
+generated_at: "2026-03-30T05:11:02.517Z"
 status: "active"
 ---
 

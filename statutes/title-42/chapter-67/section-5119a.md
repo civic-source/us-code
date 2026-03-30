@@ -3,9 +3,9 @@ title: "Section 5119a - Background checks"
 usc_title: 42
 usc_section: "5119a"
 chapter: 67
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 5119a"
-generated_at: "2026-03-30T05:09:13.989Z"
+generated_at: "2026-03-30T05:11:14.346Z"
 status: "active"
 ---
 

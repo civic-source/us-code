@@ -3,9 +3,9 @@ title: "Section 693d - Cooperation with public and private agencies; contributio
 usc_title: 16
 usc_section: "693d"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 693d"
-generated_at: "2026-03-30T05:08:37.125Z"
+generated_at: "2026-03-30T05:10:32.640Z"
 status: "active"
 ---
 

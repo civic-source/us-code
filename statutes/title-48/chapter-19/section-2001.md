@@ -3,9 +3,9 @@ title: "Section 2001 - Findings"
 usc_title: 48
 usc_section: "2001"
 chapter: 19
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "48 U.S.C. § 2001"
-generated_at: "2026-03-30T05:09:18.095Z"
+generated_at: "2026-03-30T05:11:17.764Z"
 status: "active"
 ---
 

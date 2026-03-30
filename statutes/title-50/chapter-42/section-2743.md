@@ -3,9 +3,9 @@ title: "Section 2743 - Minor construction projects"
 usc_title: 50
 usc_section: "2743"
 chapter: 42
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "50 U.S.C. § 2743"
-generated_at: "2026-03-30T05:09:19.054Z"
+generated_at: "2026-03-30T05:11:19.289Z"
 status: "active"
 ---
 

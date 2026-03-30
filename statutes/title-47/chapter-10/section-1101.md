@@ -3,9 +3,9 @@ title: "Section 1101 - Purpose"
 usc_title: 47
 usc_section: "1101"
 chapter: 10
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "47 U.S.C. § 1101"
-generated_at: "2026-03-30T05:09:16.798Z"
+generated_at: "2026-03-30T05:11:18.114Z"
 status: "active"
 ---
 

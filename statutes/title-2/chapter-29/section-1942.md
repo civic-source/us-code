@@ -3,9 +3,9 @@ title: "Section 1942 - Uniform to display United States flag or colors"
 usc_title: 2
 usc_section: "1942"
 chapter: 29
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 1942"
-generated_at: "2026-03-30T05:07:20.595Z"
+generated_at: "2026-03-30T05:09:34.641Z"
 status: "active"
 ---
 

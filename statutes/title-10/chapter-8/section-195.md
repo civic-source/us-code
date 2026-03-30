@@ -3,9 +3,9 @@ title: "Section 195 - Defense Automated Printing Service: applicability of Feder
 usc_title: 10
 usc_section: "195"
 chapter: 8
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 195"
-generated_at: "2026-03-30T05:08:05.322Z"
+generated_at: "2026-03-30T05:09:57.013Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 181 - Voluntary dissolution; appointment and removal of liquidat
 usc_title: 12
 usc_section: "181"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 181"
-generated_at: "2026-03-30T05:08:25.978Z"
+generated_at: "2026-03-30T05:10:14.825Z"
 status: "active"
 ---
 

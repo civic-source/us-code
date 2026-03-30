@@ -3,9 +3,9 @@ title: "Section 162a - Gross salary of Library of Congress employees"
 usc_title: 2
 usc_section: "162a"
 chapter: 5
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 162a"
-generated_at: "2026-03-30T05:07:20.567Z"
+generated_at: "2026-03-30T05:09:34.614Z"
 status: "active"
 ---
 

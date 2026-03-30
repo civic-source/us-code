@@ -3,9 +3,9 @@ title: "Section 4002 - National harmful algal bloom and hypoxia program"
 usc_title: 33
 usc_section: "4002"
 chapter: 53
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 4002"
-generated_at: "2026-03-30T05:08:56.664Z"
+generated_at: "2026-03-30T05:10:56.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5164 - Rules and regulations"
 usc_title: 42
 usc_section: "5164"
 chapter: 68
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 5164"
-generated_at: "2026-03-30T05:09:13.990Z"
+generated_at: "2026-03-30T05:11:14.347Z"
 status: "active"
 ---
 

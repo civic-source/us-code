@@ -3,9 +3,9 @@ title: "Section 132134 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 8, 1966 , 8
 usc_title: 48
 usc_section: "132134"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "48 U.S.C. § 132134"
-generated_at: "2026-03-30T05:09:18.078Z"
+generated_at: "2026-03-30T05:11:17.749Z"
 status: "repealed"
 ---
 

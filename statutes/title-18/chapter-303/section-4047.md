@@ -3,9 +3,9 @@ title: "Section 4047 - Prison impact assessments"
 usc_title: 18
 usc_section: "4047"
 chapter: 303
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 4047"
-generated_at: "2026-03-30T05:08:34.203Z"
+generated_at: "2026-03-30T05:10:34.025Z"
 status: "active"
 ---
 

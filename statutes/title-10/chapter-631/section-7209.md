@@ -3,9 +3,9 @@ title: "Section 7209 - Repealed. Pub. L. 100–370 , § 1(e)(3)(A), July 19, 198
 usc_title: 10
 usc_section: "7209"
 chapter: 631
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 7209"
-generated_at: "2026-03-30T05:08:05.425Z"
+generated_at: "2026-03-30T05:09:57.123Z"
 status: "repealed"
 ---
 

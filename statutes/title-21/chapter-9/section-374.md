@@ -3,9 +3,9 @@ title: "Section 374 - Inspection"
 usc_title: 21
 usc_section: "374"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 374"
-generated_at: "2026-03-30T05:08:40.549Z"
+generated_at: "2026-03-30T05:10:41.481Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(1)** An accredited person described in paragraph (3) shall maintain records documenting the training qualifications of the person and the employees of the person, the procedures used by the person for handling confidential information, the compensation arrangements made by the person, and the procedures used by the person to identify and avoid conflicts of interest. Upon the request of an officer or employee designated by the Secretary, the person shall permit the officer or employee, at all reasonable times, to have access to, to copy, and to verify, the records.
   - **(2)** Within 15 days after the receipt of a written request from the Secretary to an accredited person described in paragraph (3) for copies of records described in paragraph (1), the person shall produce the copies of the records at the place designated by the Secretary.
   - **(3)** For purposes of paragraphs (1) and (2), an accredited person described in this paragraph is a person who—
-    - **(A)** is accredited under subsection (g) of this section; or
+    - **(A)** is accredited under subsection (g); or
     - **(B)** is accredited under section 360m of this title .
 - **(g)**
   - **(1)** The Secretary shall, subject to the provisions of this subsection, accredit persons for the purpose of conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under section 360(h) of this title or are inspections of such establishments required to register under section 360(i) of this title . The owner or operator of such an establishment that is eligible under paragraph (6) may, from the list published under paragraph (4), select an accredited person to conduct such inspections.

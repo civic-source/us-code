@@ -3,9 +3,9 @@ title: "Section 6704 - State area allocations; allocations and payments to terri
 usc_title: 31
 usc_section: "6704"
 chapter: 67
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "31 U.S.C. § 6704"
-generated_at: "2026-03-30T05:08:55.883Z"
+generated_at: "2026-03-30T05:10:54.533Z"
 status: "active"
 ---
 

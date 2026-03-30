@@ -3,9 +3,9 @@ title: "Section 45 - Repealed. Oct. 31, 1951, ch. 654 , § 1(45), 65 Stat. 703"
 usc_title: 42
 usc_section: "45"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 45"
-generated_at: "2026-03-30T05:09:13.569Z"
+generated_at: "2026-03-30T05:11:13.937Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7652 - Role of Secretary regarding food and agricultural science
 usc_title: 7
 usc_section: "7652"
 chapter: 103
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 7652"
-generated_at: "2026-03-30T05:07:43.397Z"
+generated_at: "2026-03-30T05:09:52.177Z"
 status: "active"
 ---
 

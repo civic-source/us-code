@@ -3,9 +3,9 @@ title: "Section 3796aa - Function of Director"
 usc_title: 42
 usc_section: "3796aa"
 chapter: 46
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3796aa"
-generated_at: "2026-03-30T05:09:13.959Z"
+generated_at: "2026-03-30T05:11:14.316Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 867 - Art. 67. Review by the Court of Appeals for the Armed Forc
 usc_title: 10
 usc_section: "867"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 867"
-generated_at: "2026-03-30T05:08:05.338Z"
+generated_at: "2026-03-30T05:09:57.029Z"
 status: "active"
 ---
 

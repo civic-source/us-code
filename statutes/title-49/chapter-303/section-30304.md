@@ -3,9 +3,9 @@ title: "Section 30304 - Reports by chief driver licensing officials"
 usc_title: 49
 usc_section: "30304"
 chapter: 303
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "49 U.S.C. § 30304"
-generated_at: "2026-03-30T05:09:20.889Z"
+generated_at: "2026-03-30T05:11:21.159Z"
 status: "active"
 ---
 

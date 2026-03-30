@@ -3,9 +3,9 @@ title: "Section 5706 - Audits"
 usc_title: 20
 usc_section: "5706"
 chapter: 67
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 5706"
-generated_at: "2026-03-30T05:08:30.987Z"
+generated_at: "2026-03-30T05:10:30.515Z"
 status: "active"
 ---
 

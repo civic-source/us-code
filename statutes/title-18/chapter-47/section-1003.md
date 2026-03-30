@@ -3,9 +3,9 @@ title: "Section 1003 - Demands against the United States"
 usc_title: 18
 usc_section: "1003"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 1003"
-generated_at: "2026-03-30T05:08:34.168Z"
+generated_at: "2026-03-30T05:10:33.986Z"
 status: "active"
 ---
 

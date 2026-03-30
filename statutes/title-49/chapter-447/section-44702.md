@@ -3,9 +3,9 @@ title: "Section 44702 - Issuance of certificates"
 usc_title: 49
 usc_section: "44702"
 chapter: 447
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "49 U.S.C. § 44702"
-generated_at: "2026-03-30T05:09:20.912Z"
+generated_at: "2026-03-30T05:11:21.180Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41to43 - Repealed. Aug. 27, 1935, ch. 740 , title III, § 308(a)
 usc_title: 27
 usc_section: "41to43"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "27 U.S.C. § 41to43"
-generated_at: "2026-03-30T05:08:45.537Z"
+generated_at: "2026-03-30T05:10:43.446Z"
 status: "repealed"
 ---
 

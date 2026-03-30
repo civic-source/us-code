@@ -3,9 +3,9 @@ title: "Section 11 - Powers of Federal Communications Commission"
 usc_title: 47
 usc_section: "11"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "47 U.S.C. § 11"
-generated_at: "2026-03-30T05:09:16.764Z"
+generated_at: "2026-03-30T05:11:18.080Z"
 status: "active"
 ---
 

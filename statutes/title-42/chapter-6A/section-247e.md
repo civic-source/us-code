@@ -3,9 +3,9 @@ title: "Section 247e - National Hansen’s Disease Programs Center"
 usc_title: 42
 usc_section: "247e"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 247e"
-generated_at: "2026-03-30T05:09:13.586Z"
+generated_at: "2026-03-30T05:11:13.953Z"
 status: "active"
 ---
 

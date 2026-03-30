@@ -3,9 +3,9 @@ title: "Section 2916a - Transferred"
 usc_title: 29
 usc_section: "2916a"
 chapter: 30
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "29 U.S.C. § 2916a"
-generated_at: "2026-03-30T05:08:47.893Z"
+generated_at: "2026-03-30T05:10:45.297Z"
 status: "transferred"
 ---
 

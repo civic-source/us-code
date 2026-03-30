@@ -3,9 +3,9 @@ title: "Section 6533 - Cross references"
 usc_title: 26
 usc_section: "6533"
 chapter: 66
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 6533"
-generated_at: "2026-03-30T05:08:53.019Z"
+generated_at: "2026-03-30T05:10:51.774Z"
 status: "active"
 ---
 

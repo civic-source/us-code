@@ -3,9 +3,9 @@ title: "Section 86 - Encumbrances on lands allotted to applicants for enrollment
 usc_title: 25
 usc_section: "86"
 chapter: 3
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 86"
-generated_at: "2026-03-30T05:08:41.363Z"
+generated_at: "2026-03-30T05:10:37.288Z"
 status: "active"
 ---
 

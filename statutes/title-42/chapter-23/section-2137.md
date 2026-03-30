@@ -3,9 +3,9 @@ title: "Section 2137 - Operators’ licenses"
 usc_title: 42
 usc_section: "2137"
 chapter: 23
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 2137"
-generated_at: "2026-03-30T05:09:13.918Z"
+generated_at: "2026-03-30T05:11:14.276Z"
 status: "active"
 ---
 

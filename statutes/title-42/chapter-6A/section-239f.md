@@ -3,9 +3,9 @@ title: "Section 239f - Administration"
 usc_title: 42
 usc_section: "239f"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 239f"
-generated_at: "2026-03-30T05:09:13.575Z"
+generated_at: "2026-03-30T05:11:13.942Z"
 status: "active"
 ---
 

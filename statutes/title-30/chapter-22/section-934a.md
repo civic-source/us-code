@@ -3,9 +3,9 @@ title: "Section 934a - Repealed. Pub. L. 97–119, title I , § 103(b), Dec. 29,
 usc_title: 30
 usc_section: "934a"
 chapter: 22
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "30 U.S.C. § 934a"
-generated_at: "2026-03-30T05:08:46.169Z"
+generated_at: "2026-03-30T05:10:43.996Z"
 status: "repealed"
 ---
 

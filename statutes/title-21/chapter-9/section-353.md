@@ -3,9 +3,9 @@ title: "Section 353 - Exemptions and consideration for certain drugs, devices, a
 usc_title: 21
 usc_section: "353"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-03-30T05:08:40.529Z"
+generated_at: "2026-03-30T05:10:41.461Z"
 status: "active"
 ---
 
@@ -23,11 +23,11 @@ status: "active"
     - **(B)** A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing the label of the drug bears the symbol described in subparagraph (A).
   - **(5)** Nothing in this subsection shall be construed to relieve any person from any requirement prescribed by or under authority of law with respect to drugs now included or which may hereafter be included within the classifications stated in sections 4721, 6001, and 6151 of title 26, or to marihuana as defined in section 4761 of title 26 .
 - **(c)**
-  - **(1)** No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d) of this section, the term “drug sample” means a unit of a drug, subject to subsection (b) of this section, which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
-  - **(2)** No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
+  - **(1)** No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term “drug sample” means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
+  - **(2)** No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b).
   - **(3)**
     - **(A)** No person may sell, purchase, or trade, or offer to sell, purchase, or trade, any drug—
-      - **(i)** which is subject to subsection (b) of this section, and
+      - **(i)** which is subject to subsection (b), and
       - **(ii)**
         - **(I)** which was purchased by a public or private hospital or other health care entity, or
         - **(II)** which was donated or supplied at a reduced price to a charitable organization described in section 501(c)(3) of title 26 .
@@ -36,14 +36,14 @@ status: "active"
       - **(ii)** the sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug by an organization described in subparagraph (A)(ii)(II) to a nonprofit affiliate of the organization to the extent otherwise permitted by law,
       - **(iii)** a sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug among hospitals or other health care entities which are under common control,
       - **(iv)** a sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug for emergency medical reasons, or
-      - **(v)** a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b) of this section.
+      - **(v)** a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b).
 - **(d)**
   - **(1)** Except as provided in paragraphs (2) and (3), no person may distribute any drug sample. For purposes of this subsection, the term “distribute” does not include the providing of a drug sample to a patient by a—
     - **(A)** practitioner licensed to prescribe such drug,
     - **(B)** health care professional acting at the direction and under the supervision of such a practitioner, or
     - **(C)** pharmacy of a hospital or of another health care entity that is acting at the direction of such a practitioner and that received such sample pursuant to paragraph (2) or (3).
   - **(2)**
-    - **(A)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
+    - **(A)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
       - **(i)** in response to a written request for drug samples made on a form which meets the requirements of subparagraph (B), and
       - **(ii)** under a system which requires the recipient of the drug sample to execute a written receipt for the drug sample upon its delivery and the return of the receipt to the manufacturer or authorized distributor of record.
     - **(B)** A written request for a drug sample required by subparagraph (A)(i) shall contain—
@@ -52,14 +52,14 @@ status: "active"
       - **(iii)** the name of the manufacturer of the drug sample requested, and
       - **(iv)** the date of the request.
     - **(C)** Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
-  - **(3)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+  - **(3)** The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
     - **(A)** Drug samples may only be distributed—
       - **(i)** to practitioners licensed to prescribe such drugs if they make a written request for the drug samples, or
       - **(ii)** at the written request of such a licensed practitioner, to pharmacies of hospitals or other health care entities.
     - **(B)** Drug manufacturers or authorized distributors of record shall store drug samples under conditions that will maintain their stability, integrity, and effectiveness and will assure that the drug samples will be free of contamination, deterioration, and adulteration.
     - **(C)** Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
     - **(D)** Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
-    - **(E)** Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
+    - **(E)** Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
     - **(F)** Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
   - **(4)** In this subsection, the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products.
 - **(e)**

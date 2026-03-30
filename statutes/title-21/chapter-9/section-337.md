@@ -3,15 +3,15 @@ title: "Section 337 - Proceedings in name of United States; provision as to subp
 usc_title: 21
 usc_section: "337"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 337"
-generated_at: "2026-03-30T05:08:40.522Z"
+generated_at: "2026-03-30T05:10:41.454Z"
 status: "active"
 ---
 
 # § 337. Proceedings in name of United States; provision as to subpoenas
 
-- **(a)** Except as provided in subsection (b) of this section, all such proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpoenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any proceeding under this section.
+- **(a)** Except as provided in subsection (b), all such proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpoenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any proceeding under this section.
 - **(b)**
   - **(1)** A State may bring in its own name and within its jurisdiction proceedings for the civil enforcement, or to restrain violations, of section 341, 343(b), 343(c), 343(d), 343(e), 343(f), 343(g), 343(h), 343(i), 343(k), 343(q), or 343(r) of this title if the food that is the subject of the proceedings is located in the State.
   - **(2)** No proceeding may be commenced by a State under paragraph (1)—

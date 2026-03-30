@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-30T05:07:20.581Z"
+generated_at: "2026-03-30T05:09:34.627Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
       - **(i)** the Congress designates as emergency requirements in statute on an account by account basis and the President subsequently so designates, or
       - **(ii)** the Congress designates for Overseas Contingency Operations/Global War on Terrorism in statute on an account by account basis and the President subsequently so designates,
     - **(B)**
-      - **(i)** If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.] , for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+      - **(i)** If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [ 42 U.S.C. 401 et seq., 1381 et seq.], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
         - **(I)** for fiscal year 2012, $623,000,000 in additional new budget authority;
         - **(II)** for fiscal year 2013, $751,000,000 in additional new budget authority;
         - **(III)** for fiscal year 2014, $924,000,000 in additional new budget authority;

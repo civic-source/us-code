@@ -3,9 +3,9 @@ title: "Section 2350m - Participation in multinational military centers of excel
 usc_title: 10
 usc_section: "2350m"
 chapter: 138
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 2350m"
-generated_at: "2026-03-30T05:08:05.387Z"
+generated_at: "2026-03-30T05:09:57.082Z"
 status: "active"
 ---
 

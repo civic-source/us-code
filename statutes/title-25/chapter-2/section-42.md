@@ -3,9 +3,9 @@ title: "Section 42 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "42"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 42"
-generated_at: "2026-03-30T05:08:41.363Z"
+generated_at: "2026-03-30T05:10:37.287Z"
 status: "repealed"
 ---
 

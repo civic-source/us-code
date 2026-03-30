@@ -3,9 +3,9 @@ title: "Section 6807 - Expenditures"
 usc_title: 16
 usc_section: "6807"
 chapter: 87
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 6807"
-generated_at: "2026-03-30T05:08:37.235Z"
+generated_at: "2026-03-30T05:10:32.747Z"
 status: "active"
 ---
 

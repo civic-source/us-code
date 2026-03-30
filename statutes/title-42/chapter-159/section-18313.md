@@ -3,9 +3,9 @@ title: "Section 18313 - Assurance of core capabilities"
 usc_title: 42
 usc_section: "18313"
 chapter: 159
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 18313"
-generated_at: "2026-03-30T05:09:14.260Z"
+generated_at: "2026-03-30T05:11:14.602Z"
 status: "active"
 ---
 

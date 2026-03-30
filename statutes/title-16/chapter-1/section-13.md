@@ -3,9 +3,9 @@ title: "Section 13 - Payments to States and counties"
 usc_title: 16
 usc_section: "13"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 13"
-generated_at: "2026-03-30T05:08:37.092Z"
+generated_at: "2026-03-30T05:10:32.605Z"
 status: "active"
 ---
 

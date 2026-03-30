@@ -3,9 +3,9 @@ title: "Section 544c - Minority group participation in construction of the Tenne
 usc_title: 33
 usc_section: "544c"
 chapter: 12
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 544c"
-generated_at: "2026-03-30T05:08:56.602Z"
+generated_at: "2026-03-30T05:10:56.020Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 393a - Office of Pediatric Therapeutics"
 usc_title: 21
 usc_section: "393a"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 393a"
-generated_at: "2026-03-30T05:08:40.563Z"
+generated_at: "2026-03-30T05:10:41.495Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
   - **(1)** one or more additional individuals with expertise concerning ethical issues presented by the conduct of clinical research in the pediatric population;
   - **(2)** subject to subsection (d), one or more additional individuals with necessary expertise in a pediatric subpopulation that is, as determined through consideration of the reports and recommendations issued by the Institute of Medicine and the Comptroller General of the United States, less likely to be studied as a part of a written request issued under section 355a of this title or an assessment under section 355c of this title ;
   - **(3)** one or more additional individuals with expertise in pediatric epidemiology; and
-  - **(4)** one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b) of this section.
+  - **(4)** one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b).
 - **(d)** For the 5-year period beginning on July 9, 2012 , at least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.

@@ -3,9 +3,9 @@ title: "Section 1782 - Assistance to foreign and international tribunals and to 
 usc_title: 28
 usc_section: "1782"
 chapter: 117
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "28 U.S.C. § 1782"
-generated_at: "2026-03-30T05:08:47.005Z"
+generated_at: "2026-03-30T05:10:45.969Z"
 status: "active"
 ---
 

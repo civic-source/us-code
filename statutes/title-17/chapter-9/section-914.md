@@ -3,9 +3,9 @@ title: "Section 914 - International transitional provisions"
 usc_title: 17
 usc_section: "914"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "17 U.S.C. § 914"
-generated_at: "2026-03-30T05:08:27.984Z"
+generated_at: "2026-03-30T05:10:25.377Z"
 status: "active"
 ---
 

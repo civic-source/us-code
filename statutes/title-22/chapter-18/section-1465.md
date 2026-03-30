@@ -3,9 +3,9 @@ title: "Section 1465 - Congressional findings and declaration of purposes"
 usc_title: 22
 usc_section: "1465"
 chapter: 18
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "22 U.S.C. § 1465"
-generated_at: "2026-03-30T05:08:43.844Z"
+generated_at: "2026-03-30T05:10:39.718Z"
 status: "active"
 ---
 

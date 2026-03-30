@@ -3,9 +3,9 @@ title: "Section 1771b - Approval of prior transfers and extinguishment of aborig
 usc_title: 25
 usc_section: "1771b"
 chapter: 19
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1771b"
-generated_at: "2026-03-30T05:08:41.417Z"
+generated_at: "2026-03-30T05:10:37.343Z"
 status: "active"
 ---
 

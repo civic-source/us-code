@@ -3,9 +3,9 @@ title: "Section 14117 - Local application"
 usc_title: 42
 usc_section: "14117"
 chapter: 136
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 14117"
-generated_at: "2026-03-30T05:09:14.204Z"
+generated_at: "2026-03-30T05:11:14.550Z"
 status: "active"
 ---
 

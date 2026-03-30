@@ -3,9 +3,9 @@ title: "Section 7704a - Report on seismic safety property standards"
 usc_title: 42
 usc_section: "7704a"
 chapter: 86
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 7704a"
-generated_at: "2026-03-30T05:09:14.082Z"
+generated_at: "2026-03-30T05:11:14.437Z"
 status: "active"
 ---
 

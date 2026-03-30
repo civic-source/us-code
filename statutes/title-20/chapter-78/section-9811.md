@@ -3,9 +3,9 @@ title: "Section 9811 - Purpose"
 usc_title: 20
 usc_section: "9811"
 chapter: 78
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 9811"
-generated_at: "2026-03-30T05:08:31.025Z"
+generated_at: "2026-03-30T05:10:30.550Z"
 status: "active"
 ---
 

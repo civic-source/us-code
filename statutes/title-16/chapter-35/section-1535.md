@@ -3,9 +3,9 @@ title: "Section 1535 - Cooperation with States"
 usc_title: 16
 usc_section: "1535"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 1535"
-generated_at: "2026-03-30T05:08:37.179Z"
+generated_at: "2026-03-30T05:10:32.692Z"
 status: "active"
 ---
 

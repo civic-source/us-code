@@ -3,9 +3,9 @@ title: "Section 2056 - Consumer product safety standards"
 usc_title: 15
 usc_section: "2056"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 2056"
-generated_at: "2026-03-30T05:08:11.755Z"
+generated_at: "2026-03-30T05:10:23.461Z"
 status: "active"
 ---
 

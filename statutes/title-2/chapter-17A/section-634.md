@@ -3,9 +3,9 @@ title: "Section 634 - Concurrent resolution on the budget must be adopted before
 usc_title: 2
 usc_section: "634"
 chapter: 17
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 634"
-generated_at: "2026-03-30T05:07:20.576Z"
+generated_at: "2026-03-30T05:09:34.623Z"
 status: "active"
 ---
 

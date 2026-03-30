@@ -3,9 +3,9 @@ title: "Section 5777 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5777"
 chapter: 72
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 5777"
-generated_at: "2026-03-30T05:09:14.006Z"
+generated_at: "2026-03-30T05:11:14.363Z"
 status: "active"
 ---
 

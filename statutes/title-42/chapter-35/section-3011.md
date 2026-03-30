@@ -3,9 +3,9 @@ title: "Section 3011 - Establishment of Administration on Aging"
 usc_title: 42
 usc_section: "3011"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3011"
-generated_at: "2026-03-30T05:09:13.936Z"
+generated_at: "2026-03-30T05:11:14.294Z"
 status: "active"
 ---
 
@@ -58,14 +58,15 @@ status: "active"
     - **(E)** review, and make recommendations to the Secretary and the Assistant Secretary regarding, existing and proposed Federal legislation, regulations, and policies regarding the operation of State Long-Term Care Ombudsman programs;
     - **(F)** make recommendations to the Assistant Secretary and the Secretary regarding the policies of the Administration, and coordinate the activities of the Administration with the activities of other Federal entities, State and local entities, and nongovernmental entities, relating to State Long-Term Care Ombudsman programs;
     - **(G)** supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
-    - **(H)** administer the National Ombudsman Resource Center established under section 3012(a)(21) 1 1 See References in Text note below. of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
+    - **(H)** administer the National Ombudsman Resource Center established under section 3012(a)(18) of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
     - **(I)** advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
     - **(J)** submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the effectiveness of services provided under section 3027(a)(9) of this title and section 3058g of this title ;
-    - **(K)** have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals; and
-    - **(L)** not later than 180 days after September 30, 1992 , establish standards applicable to the training required by section 3058g(h)(4) of this title .
+    - **(K)** have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals;
+    - **(L)** not later than 180 days after April 19, 2016 , establish standards applicable to the training required by section 3058g(h)(5) of this title ; and
+    - **(M)** collect and analyze best practices related to responding to elder abuse, neglect, and exploitation in long-term care facilities, and publish a report of such best practices.
 - **(e)**
   - **(1)** The Assistant Secretary is authorized to designate within the Administration a person to have responsibility for elder abuse prevention and services.
-  - **(2)** It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
+  - **(2)** It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs—
     - **(A)** to develop objectives, priorities, policy, and a long-term plan for—
       - **(i)** facilitating the development, implementation, and continuous improvement of a coordinated, multidisciplinary elder justice system in the United States;
       - **(ii)** providing Federal leadership to support State efforts in carrying out elder justice programs and activities relating to—
@@ -82,5 +83,5 @@ status: "active"
     - **(B)** to assist States and other eligible entities under subchapter XI to develop strategic plans to better coordinate elder justice activities, research, and training.
   - **(3)** The Secretary, acting through the Assistant Secretary, may issue such regulations as may be necessary to carry out this subsection and section 3058aa–1 of this title .
 - **(f)**
-  - **(1)** The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental health services authorized under this chapter.
+  - **(1)** The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental and behavioral health services authorized under this chapter.
   - **(2)** It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer’s disease and related neurological disorders with neurological and organic brain dysfunction.

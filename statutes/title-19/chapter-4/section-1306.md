@@ -3,9 +3,9 @@ title: "Section 1306 - Repealed. Pub. L. 107–171, title X , § 10418(a)(5), Ma
 usc_title: 19
 usc_section: "1306"
 chapter: 4
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "19 U.S.C. § 1306"
-generated_at: "2026-03-30T05:08:32.020Z"
+generated_at: "2026-03-30T05:10:27.313Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 290ff - Comprehensive community mental health services for child
 usc_title: 42
 usc_section: "290ff"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 290ff"
-generated_at: "2026-03-30T05:09:13.632Z"
+generated_at: "2026-03-30T05:11:13.996Z"
 status: "active"
 ---
 

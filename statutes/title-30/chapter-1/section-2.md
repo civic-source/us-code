@@ -3,9 +3,9 @@ title: "Section 2 - Performance of duties in absence of director"
 usc_title: 30
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-30T05:08:46.151Z"
+generated_at: "2026-03-30T05:10:43.979Z"
 status: "active"
 ---
 

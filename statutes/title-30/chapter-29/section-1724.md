@@ -3,9 +3,9 @@ title: "Section 1724 - Secretarial and delegated States’ actions and limitatio
 usc_title: 30
 usc_section: "1724"
 chapter: 29
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "30 U.S.C. § 1724"
-generated_at: "2026-03-30T05:08:46.184Z"
+generated_at: "2026-03-30T05:10:44.011Z"
 status: "active"
 ---
 

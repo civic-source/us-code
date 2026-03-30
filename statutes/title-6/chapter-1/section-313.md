@@ -3,9 +3,9 @@ title: "Section 313 - Federal Emergency Management Agency"
 usc_title: 6
 usc_section: "313"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "6 U.S.C. § 313"
-generated_at: "2026-03-30T05:07:37.282Z"
+generated_at: "2026-03-30T05:09:57.575Z"
 status: "active"
 ---
 

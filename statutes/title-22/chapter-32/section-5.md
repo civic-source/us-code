@@ -3,9 +3,9 @@ title: "Section 5 - Proliferation interdiction assistance"
 usc_title: 22
 usc_section: "5"
 chapter: 32
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "22 U.S.C. § 5"
-generated_at: "2026-03-30T05:08:43.870Z"
+generated_at: "2026-03-30T05:10:39.743Z"
 status: "active"
 ---
 

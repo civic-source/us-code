@@ -3,9 +3,9 @@ title: "Section 7651 - Findings and purposes"
 usc_title: 42
 usc_section: "7651"
 chapter: 85
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 7651"
-generated_at: "2026-03-30T05:09:14.075Z"
+generated_at: "2026-03-30T05:11:14.430Z"
 status: "active"
 ---
 

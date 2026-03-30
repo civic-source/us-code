@@ -3,9 +3,9 @@ title: "Section 1240a - Certification"
 usc_title: 30
 usc_section: "1240a"
 chapter: 25
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "30 U.S.C. § 1240a"
-generated_at: "2026-03-30T05:08:46.175Z"
+generated_at: "2026-03-30T05:10:44.002Z"
 status: "active"
 ---
 

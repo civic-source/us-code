@@ -3,9 +3,9 @@ title: "Section 4072 - Definitions"
 usc_title: 26
 usc_section: "4072"
 chapter: 32
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 4072"
-generated_at: "2026-03-30T05:08:52.962Z"
+generated_at: "2026-03-30T05:10:51.723Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423k - Right of petition"
 usc_title: 48
 usc_section: "1423k"
 chapter: 8
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "48 U.S.C. § 1423k"
-generated_at: "2026-03-30T05:09:18.083Z"
+generated_at: "2026-03-30T05:11:17.753Z"
 status: "active"
 ---
 

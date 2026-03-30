@@ -3,9 +3,9 @@ title: "Section 3521to3524 - Repealed. Pub. L. 96–221, title VIII, § 806 , Ma
 usc_title: 12
 usc_section: "3521to3524"
 chapter: 36
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 3521to3524"
-generated_at: "2026-03-30T05:08:26.085Z"
+generated_at: "2026-03-30T05:10:14.926Z"
 status: "repealed"
 ---
 

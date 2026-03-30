@@ -3,9 +3,9 @@ title: "Section 14099 - State plan requirements"
 usc_title: 42
 usc_section: "14099"
 chapter: 136
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 14099"
-generated_at: "2026-03-30T05:09:14.204Z"
+generated_at: "2026-03-30T05:11:14.549Z"
 status: "active"
 ---
 

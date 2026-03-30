@@ -3,9 +3,9 @@ title: "Section 322 - Applicability of certain provisions to Pueblo Indians"
 usc_title: 25
 usc_section: "322"
 chapter: 8
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 322"
-generated_at: "2026-03-30T05:08:41.368Z"
+generated_at: "2026-03-30T05:10:37.293Z"
 status: "active"
 ---
 

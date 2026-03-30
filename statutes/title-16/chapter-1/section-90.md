@@ -3,9 +3,9 @@ title: "Section 90 - Establishment; statement of purposes; description of area"
 usc_title: 16
 usc_section: "90"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 90"
-generated_at: "2026-03-30T05:08:37.021Z"
+generated_at: "2026-03-30T05:10:32.533Z"
 status: "active"
 ---
 

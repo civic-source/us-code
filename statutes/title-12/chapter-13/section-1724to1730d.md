@@ -3,9 +3,9 @@ title: "Section 1724to1730d - Repealed. Pub. L. 101–73, title IV, § 407 , Aug
 usc_title: 12
 usc_section: "1724to1730d"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 1724to1730d"
-generated_at: "2026-03-30T05:08:26.026Z"
+generated_at: "2026-03-30T05:10:14.871Z"
 status: "repealed"
 ---
 

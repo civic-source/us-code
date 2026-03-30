@@ -3,9 +3,9 @@ title: "Section 704 - Actions reviewable"
 usc_title: 5
 usc_section: "704"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 704"
-generated_at: "2026-03-30T05:07:35.372Z"
+generated_at: "2026-03-30T05:09:39.078Z"
 status: "active"
 ---
 

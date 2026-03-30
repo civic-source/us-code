@@ -3,9 +3,9 @@ title: "Section 436 - Regulations"
 usc_title: 10
 usc_section: "436"
 chapter: 21
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 436"
-generated_at: "2026-03-30T05:08:05.326Z"
+generated_at: "2026-03-30T05:09:57.017Z"
 status: "active"
 ---
 

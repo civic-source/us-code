@@ -3,9 +3,9 @@ title: "Section 1773 - School breakfast program"
 usc_title: 42
 usc_section: "1773"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 1773"
-generated_at: "2026-03-30T05:09:13.891Z"
+generated_at: "2026-03-30T05:11:14.250Z"
 status: "active"
 ---
 

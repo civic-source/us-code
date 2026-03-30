@@ -3,9 +3,9 @@ title: "Section 6705 - Failure by broker to provide notice to payors"
 usc_title: 26
 usc_section: "6705"
 chapter: 68
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 6705"
-generated_at: "2026-03-30T05:08:53.024Z"
+generated_at: "2026-03-30T05:10:51.778Z"
 status: "active"
 ---
 

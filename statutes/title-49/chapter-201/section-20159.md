@@ -3,9 +3,9 @@ title: "Section 20159 - Roadway user sight distance at highway-rail grade crossi
 usc_title: 49
 usc_section: "20159"
 chapter: 201
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "49 U.S.C. § 20159"
-generated_at: "2026-03-30T05:09:20.878Z"
+generated_at: "2026-03-30T05:11:21.147Z"
 status: "active"
 ---
 

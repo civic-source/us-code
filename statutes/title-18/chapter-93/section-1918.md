@@ -3,9 +3,9 @@ title: "Section 1918 - Disloyalty and asserting the right to strike against the 
 usc_title: 18
 usc_section: "1918"
 chapter: 93
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 1918"
-generated_at: "2026-03-30T05:08:34.179Z"
+generated_at: "2026-03-30T05:10:33.997Z"
 status: "active"
 ---
 

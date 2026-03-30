@@ -3,9 +3,9 @@ title: "Section 2253 - Annual financial review"
 usc_title: 33
 usc_section: "2253"
 chapter: 36
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 2253"
-generated_at: "2026-03-30T05:08:56.644Z"
+generated_at: "2026-03-30T05:10:56.064Z"
 status: "active"
 ---
 

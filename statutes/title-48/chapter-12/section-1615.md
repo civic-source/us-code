@@ -3,9 +3,9 @@ title: "Section 1615 - Judicial divisions"
 usc_title: 48
 usc_section: "1615"
 chapter: 12
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "48 U.S.C. § 1615"
-generated_at: "2026-03-30T05:09:18.087Z"
+generated_at: "2026-03-30T05:11:17.757Z"
 status: "active"
 ---
 

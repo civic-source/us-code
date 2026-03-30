@@ -3,9 +3,9 @@ title: "Section 50302 - Port development"
 usc_title: 46
 usc_section: "50302"
 chapter: 503
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "46 U.S.C. § 50302"
-generated_at: "2026-03-30T05:09:17.676Z"
+generated_at: "2026-03-30T05:11:17.439Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 36a - Disposition of surplus elk"
 usc_title: 16
 usc_section: "36a"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 36a"
-generated_at: "2026-03-30T05:08:37.016Z"
+generated_at: "2026-03-30T05:10:32.529Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5524a - Advance payments for new appointees"
 usc_title: 5
 usc_section: "5524a"
 chapter: 55
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 5524a"
-generated_at: "2026-03-30T05:07:35.388Z"
+generated_at: "2026-03-30T05:09:39.095Z"
 status: "active"
 ---
 

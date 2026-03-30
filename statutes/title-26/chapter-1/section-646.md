@@ -3,9 +3,9 @@ title: "Section 646 - Tax treatment of electing Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "646"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 646"
-generated_at: "2026-03-30T05:08:52.892Z"
+generated_at: "2026-03-30T05:10:51.653Z"
 status: "active"
 ---
 

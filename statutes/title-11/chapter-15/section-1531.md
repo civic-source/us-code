@@ -3,9 +3,9 @@ title: "Section 1531 - Presumption of insolvency based on recognition of a forei
 usc_title: 11
 usc_section: "1531"
 chapter: 15
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "11 U.S.C. § 1531"
-generated_at: "2026-03-30T05:08:08.425Z"
+generated_at: "2026-03-30T05:10:07.859Z"
 status: "active"
 ---
 

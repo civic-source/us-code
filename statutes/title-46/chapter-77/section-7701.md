@@ -3,9 +3,9 @@ title: "Section 7701 - General"
 usc_title: 46
 usc_section: "7701"
 chapter: 77
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "46 U.S.C. § 7701"
-generated_at: "2026-03-30T05:09:17.665Z"
+generated_at: "2026-03-30T05:11:17.428Z"
 status: "active"
 ---
 

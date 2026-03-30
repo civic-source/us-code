@@ -3,9 +3,9 @@ title: "Section 802 - Art. 2. Persons subject to this chapter"
 usc_title: 10
 usc_section: "802"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 802"
-generated_at: "2026-03-30T05:08:05.336Z"
+generated_at: "2026-03-30T05:09:57.027Z"
 status: "active"
 ---
 

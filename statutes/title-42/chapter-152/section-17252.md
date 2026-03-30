@@ -3,9 +3,9 @@ title: "Section 17252 - Review of large-scale programs"
 usc_title: 42
 usc_section: "17252"
 chapter: 152
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 17252"
-generated_at: "2026-03-30T05:09:14.246Z"
+generated_at: "2026-03-30T05:11:14.589Z"
 status: "active"
 ---
 

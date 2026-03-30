@@ -3,9 +3,9 @@ title: "Section 416i - Restrictions"
 usc_title: 25
 usc_section: "416i"
 chapter: 12
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 416i"
-generated_at: "2026-03-30T05:08:41.372Z"
+generated_at: "2026-03-30T05:10:37.297Z"
 status: "active"
 ---
 

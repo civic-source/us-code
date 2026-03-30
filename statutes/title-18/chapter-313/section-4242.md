@@ -3,9 +3,9 @@ title: "Section 4242 - Determination of the existence of insanity at the time of
 usc_title: 18
 usc_section: "4242"
 chapter: 313
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 4242"
-generated_at: "2026-03-30T05:08:34.205Z"
+generated_at: "2026-03-30T05:10:34.026Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-30T05:08:40.570Z"
+generated_at: "2026-03-30T05:10:41.502Z"
 status: "active"
 ---
 
@@ -61,12 +61,12 @@ status: "active"
     - **(D)**
       - **(i)** A waiver under subparagraph (A) with respect to a practitioner is not in effect unless (in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
         - **(I)** The notification under subparagraph (B) is in writing and states the name of the practitioner.
-        - **(II)** The notification identifies the registration issued for the practitioner pursuant to subsection (f) of this section.
-        - **(III)** If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (f) of this section.
-      - **(ii)** Upon receiving a notification under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f) of this section. The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
+        - **(II)** The notification identifies the registration issued for the practitioner pursuant to subsection (f).
+        - **(III)** If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (f).
+      - **(ii)** Upon receiving a notification under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f). The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
       - **(iii)** Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shall make a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B). If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the physician an identification number described in clause (ii) at the end of such period.
     - **(E)**
-      - **(i)** If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of section 824(a)(4) of this title , consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) of this section to be inconsistent with the public interest.
+      - **(i)** If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of section 824(a)(4) of this title , consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) to be inconsistent with the public interest.
       - **(ii)**
         - **(I)** Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner who in good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be considered to have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
         - **(II)** For purposes of subclause (I), the publication in the Federal Register of an adverse determination by the Secretary pursuant to subparagraph (C)(ii) shall (with respect to the narcotic drug or combination involved) be considered to be a notification provided by the Secretary to practitioners, effective upon the expiration of the 30-day period beginning on the date on which the adverse determination is so published.
@@ -104,3 +104,4 @@ status: "active"
 - **(i)**
   - **(1)** For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title , not later than 180 days after the date on which the application is accepted for filing.
   - **(2)** For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title , unless the Attorney General has granted a hearing on the application under section 958(i) of this title .
+- **(j)** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in section 801 of this title .

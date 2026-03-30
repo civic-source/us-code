@@ -3,9 +3,9 @@ title: "Section 8470 - Exemption from legal process; recovery of payments"
 usc_title: 5
 usc_section: "8470"
 chapter: 84
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 8470"
-generated_at: "2026-03-30T05:07:35.417Z"
+generated_at: "2026-03-30T05:09:39.124Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16928 - Registration of sex offenders entering the United States
 usc_title: 42
 usc_section: "16928"
 chapter: 151
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 16928"
-generated_at: "2026-03-30T05:09:14.238Z"
+generated_at: "2026-03-30T05:11:14.581Z"
 status: "active"
 ---
 

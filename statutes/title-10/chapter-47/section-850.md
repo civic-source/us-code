@@ -3,9 +3,9 @@ title: "Section 850 - Art. 50. Admissibility of records of courts of inquiry"
 usc_title: 10
 usc_section: "850"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 850"
-generated_at: "2026-03-30T05:08:05.337Z"
+generated_at: "2026-03-30T05:09:57.029Z"
 status: "active"
 ---
 

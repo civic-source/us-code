@@ -3,9 +3,9 @@ title: "Section 8349 - Offset relating to certain benefits under the Social Secu
 usc_title: 5
 usc_section: "8349"
 chapter: 83
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 8349"
-generated_at: "2026-03-30T05:07:35.410Z"
+generated_at: "2026-03-30T05:09:39.117Z"
 status: "active"
 ---
 

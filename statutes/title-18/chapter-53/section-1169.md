@@ -3,9 +3,9 @@ title: "Section 1169 - Reporting of child abuse"
 usc_title: 18
 usc_section: "1169"
 chapter: 53
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 1169"
-generated_at: "2026-03-30T05:08:34.171Z"
+generated_at: "2026-03-30T05:10:33.991Z"
 status: "active"
 ---
 

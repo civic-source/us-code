@@ -3,9 +3,9 @@ title: "Section 757f - Studies on pollution; recommendations to Secretary of Hea
 usc_title: 16
 usc_section: "757f"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 757f"
-generated_at: "2026-03-30T05:08:37.133Z"
+generated_at: "2026-03-30T05:10:32.647Z"
 status: "active"
 ---
 

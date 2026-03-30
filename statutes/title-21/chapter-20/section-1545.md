@@ -3,15 +3,15 @@ title: "Section 1545 - Terms of office"
 usc_title: 21
 usc_section: "1545"
 chapter: 20
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 1545"
-generated_at: "2026-03-30T05:08:40.581Z"
+generated_at: "2026-03-30T05:10:41.511Z"
 status: "active"
 ---
 
 # § 1545. Terms of office
 
-- **(a)** Subject to subsection (b) of this section, the term of office of a member of the Advisory Commission shall be 3 years, except that, as designated at the time of appointment—
+- **(a)** Subject to subsection (b), the term of office of a member of the Advisory Commission shall be 3 years, except that, as designated at the time of appointment—
   - **(1)** of the initial members appointed under section 1543(a)(1) of this title , two shall be appointed for a term of 2 years;
   - **(2)** of the initial members appointed under section 1543(a)(2) of this title , two shall be appointed for a term of 2 years; and
   - **(3)** of the initial members appointed under section 1543(a)(3) of this title , one shall be appointed for a term of 1 year.

@@ -3,9 +3,9 @@ title: "Section 8962 - Administrative functions"
 usc_title: 5
 usc_section: "8962"
 chapter: 89
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "5 U.S.C. § 8962"
-generated_at: "2026-03-30T05:07:35.422Z"
+generated_at: "2026-03-30T05:09:39.129Z"
 status: "active"
 ---
 

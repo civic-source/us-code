@@ -3,9 +3,9 @@ title: "Section 360oo - Prohibited acts"
 usc_title: 21
 usc_section: "360oo"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 360oo"
-generated_at: "2026-03-30T05:08:40.543Z"
+generated_at: "2026-03-30T05:10:41.475Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(3)** for any person to fail or to refuse to establish or maintain records required by this part or to permit access by the Secretary or any of his duly authorized representatives to, or the copying of, such records, or to permit entry or inspection, as required by or pursuant to section 360nn of this title ;
   - **(4)** for any person to fail or to refuse to make any report required pursuant to section 360nn(b) of this title or to furnish or preserve any information required pursuant to section 360nn(f) of this title ; or
   - **(5)** for any person (A) to fail to issue a certification as required by section 360kk(h) of this title , or (B) to issue such a certification when such certification is not based upon a test or testing program meeting the requirements of section 360kk(h) of this title or when the issuer, in the exercise of due care, would have reason to know that such certification is false or misleading in a material respect.
-- **(b)** The Secretary may exempt any electronic product, or class thereof, from all or part of subsection (a) of this section, upon such conditions as he may find necessary to protect the public health or welfare, for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security.
+- **(b)** The Secretary may exempt any electronic product, or class thereof, from all or part of subsection (a), upon such conditions as he may find necessary to protect the public health or welfare, for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security.

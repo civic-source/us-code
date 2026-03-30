@@ -3,9 +3,9 @@ title: "Section 3018 - Reports to Congress"
 usc_title: 42
 usc_section: "3018"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3018"
-generated_at: "2026-03-30T05:09:13.937Z"
+generated_at: "2026-03-30T05:11:14.295Z"
 status: "active"
 ---
 
@@ -13,9 +13,9 @@ status: "active"
 
 - **(a)** Not later than one hundred and twenty days after the close of each fiscal year, the Assistant Secretary shall prepare and submit to the President and to the Congress a full and complete report on the activities carried out under this chapter. Such annual reports shall include—
   - **(1)** statistical data reflecting services and activities provided to individuals during the preceding fiscal year;
-  - **(2)** statistical data collected under section 3012(a)(19) 1 1 See References in Text note below. of this title;
+  - **(2)** statistical data collected under section 3012(a)(16) of this title ;
   - **(3)** statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
-  - **(4)** a description of the implementation of the plan required by section 3012(a)(17) 1 of this title.
+  - **(4)** a description of the implementation of the plan required by section 3012(a)(14) of this title .
 - **(b)**
   - **(1)** Not later than March 1 of each year, the Assistant Secretary shall compile a report—
     - **(A)** summarizing and analyzing the data collected under subchapters III and XI of this chapter in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;

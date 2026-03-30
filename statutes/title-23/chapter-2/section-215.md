@@ -3,9 +3,9 @@ title: "Section 215 - Repealed. Pub. L. 112–141, div. A, title I , § 1114(b)(
 usc_title: 23
 usc_section: "215"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "23 U.S.C. § 215"
-generated_at: "2026-03-30T05:08:39.843Z"
+generated_at: "2026-03-30T05:10:41.861Z"
 status: "repealed"
 ---
 

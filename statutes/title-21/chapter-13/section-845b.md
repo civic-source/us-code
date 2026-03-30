@@ -3,9 +3,9 @@ title: "Section 845b - Transferred"
 usc_title: 21
 usc_section: "845b"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 845b"
-generated_at: "2026-03-30T05:08:40.573Z"
+generated_at: "2026-03-30T05:10:41.504Z"
 status: "transferred"
 ---
 

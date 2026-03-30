@@ -3,9 +3,9 @@ title: "Section 194 - Certification of failure to testify or produce; grand jury
 usc_title: 2
 usc_section: "194"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 194"
-generated_at: "2026-03-30T05:07:20.569Z"
+generated_at: "2026-03-30T05:09:34.618Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 58 - Incorporation of subchapter provisions"
 usc_title: 15
 usc_section: "58"
 chapter: 2
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 58"
-generated_at: "2026-03-30T05:08:11.674Z"
+generated_at: "2026-03-30T05:10:23.380Z"
 status: "active"
 ---
 

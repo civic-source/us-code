@@ -3,9 +3,9 @@ title: "Section 18122 - Rule of construction regarding health care providers"
 usc_title: 42
 usc_section: "18122"
 chapter: 157
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 18122"
-generated_at: "2026-03-30T05:09:14.260Z"
+generated_at: "2026-03-30T05:11:14.602Z"
 status: "active"
 ---
 

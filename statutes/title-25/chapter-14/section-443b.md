@@ -3,9 +3,9 @@ title: "Section 443b - Indian goods and supplies"
 usc_title: 25
 usc_section: "443b"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 443b"
-generated_at: "2026-03-30T05:08:41.373Z"
+generated_at: "2026-03-30T05:10:37.297Z"
 status: "active"
 ---
 

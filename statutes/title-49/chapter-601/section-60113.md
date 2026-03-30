@@ -3,9 +3,9 @@ title: "Section 60113 - Customer-owned natural gas service lines"
 usc_title: 49
 usc_section: "60113"
 chapter: 601
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "49 U.S.C. § 60113"
-generated_at: "2026-03-30T05:09:20.931Z"
+generated_at: "2026-03-30T05:11:21.199Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1621v - Offices of Indian Men’s Health and Indian Women’s He
 usc_title: 25
 usc_section: "1621v"
 chapter: 18
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1621v"
-generated_at: "2026-03-30T05:08:41.409Z"
+generated_at: "2026-03-30T05:10:37.334Z"
 status: "active"
 ---
 

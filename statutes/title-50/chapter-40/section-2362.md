@@ -3,9 +3,9 @@ title: "Section 2362 - Transfers of allocations among cooperative threat reducti
 usc_title: 50
 usc_section: "2362"
 chapter: 40
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "50 U.S.C. § 2362"
-generated_at: "2026-03-30T05:09:19.046Z"
+generated_at: "2026-03-30T05:11:19.281Z"
 status: "active"
 ---
 

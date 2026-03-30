@@ -3,9 +3,9 @@ title: "Section 2380A - Treatment of goods and services provided by nontradition
 usc_title: 10
 usc_section: "2380A"
 chapter: 140
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 2380A"
-generated_at: "2026-03-30T05:08:05.389Z"
+generated_at: "2026-03-30T05:09:57.084Z"
 status: "active"
 ---
 

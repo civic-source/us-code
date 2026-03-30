@@ -3,9 +3,9 @@ title: "Section 2267b - Post-disaster watershed assessments"
 usc_title: 33
 usc_section: "2267b"
 chapter: 36
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 2267b"
-generated_at: "2026-03-30T05:08:56.645Z"
+generated_at: "2026-03-30T05:10:56.064Z"
 status: "active"
 ---
 

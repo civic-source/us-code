@@ -3,9 +3,9 @@ title: "Section 6422 - Cross references"
 usc_title: 26
 usc_section: "6422"
 chapter: 65
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 6422"
-generated_at: "2026-03-30T05:08:53.016Z"
+generated_at: "2026-03-30T05:10:51.770Z"
 status: "active"
 ---
 

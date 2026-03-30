@@ -3,9 +3,9 @@ title: "Section 7217 - Prohibition on executive branch influence over taxpayer a
 usc_title: 26
 usc_section: "7217"
 chapter: 75
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 7217"
-generated_at: "2026-03-30T05:08:53.027Z"
+generated_at: "2026-03-30T05:10:51.782Z"
 status: "active"
 ---
 

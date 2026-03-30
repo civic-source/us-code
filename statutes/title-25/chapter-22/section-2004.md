@@ -3,9 +3,9 @@ title: "Section 2004 - School boundaries"
 usc_title: 25
 usc_section: "2004"
 chapter: 22
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 2004"
-generated_at: "2026-03-30T05:08:41.425Z"
+generated_at: "2026-03-30T05:10:37.351Z"
 status: "active"
 ---
 

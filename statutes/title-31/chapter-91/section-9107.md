@@ -3,9 +3,9 @@ title: "Section 9107 - Accounts"
 usc_title: 31
 usc_section: "9107"
 chapter: 91
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "31 U.S.C. § 9107"
-generated_at: "2026-03-30T05:08:55.886Z"
+generated_at: "2026-03-30T05:10:54.536Z"
 status: "active"
 ---
 

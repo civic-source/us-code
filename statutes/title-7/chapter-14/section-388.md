@@ -3,9 +3,9 @@ title: "Section 388 - Station for southern Great Plains area; establishment"
 usc_title: 7
 usc_section: "388"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 388"
-generated_at: "2026-03-30T05:07:43.278Z"
+generated_at: "2026-03-30T05:09:52.049Z"
 status: "active"
 ---
 

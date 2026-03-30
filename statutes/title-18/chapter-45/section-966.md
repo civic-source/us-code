@@ -3,9 +3,9 @@ title: "Section 966 - Departure of vessel forbidden for false statements"
 usc_title: 18
 usc_section: "966"
 chapter: 45
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "18 U.S.C. § 966"
-generated_at: "2026-03-30T05:08:34.166Z"
+generated_at: "2026-03-30T05:10:33.985Z"
 status: "active"
 ---
 

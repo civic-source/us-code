@@ -3,9 +3,9 @@ title: "Section 3056p - Definitions and rule"
 usc_title: 42
 usc_section: "3056p"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3056p"
-generated_at: "2026-03-30T05:09:13.944Z"
+generated_at: "2026-03-30T05:11:14.302Z"
 status: "active"
 ---
 
@@ -32,10 +32,11 @@ status: "active"
         - **(IV)** live in an area with persistent unemployment and are individuals with severely limited employment prospects; or
         - **(V)** have limited English proficiency or low literacy skills.
   - **(4)** In this section, the term “income” means income received during the 12-month period (or, at the option of the grantee involved, the annualized income for the 6-month period) ending on the date an eligible individual submits an application to participate in a project carried out under this subchapter by such grantee.
-  - **(5)** The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
-  - **(6)** The term “program” means the older American community service employment program established under this subchapter.
-  - **(7)** The term “supportive services” means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
-  - **(8)** The term “unemployed”, used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
+  - **(5)** The terms “local workforce development board” and “State workforce development board” have the meanings given the terms “local board” and “State board”, respectively, in section 3 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3102 ).
+  - **(6)** The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
+  - **(7)** The term “program” means the older American community service employment program established under this subchapter.
+  - **(8)** The term “supportive services” means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
+  - **(9)** The term “unemployed”, used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
 - **(b)** Pursuant to regulations prescribed by the Secretary, an eligible individual shall have priority for the community service employment and other authorized activities provided under this subchapter if the individual—
   - **(1)** is 65 years of age or older; or
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 1375 - Regulations"
 usc_title: 7
 usc_section: "1375"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 1375"
-generated_at: "2026-03-30T05:07:43.299Z"
+generated_at: "2026-03-30T05:09:52.072Z"
 status: "active"
 ---
 

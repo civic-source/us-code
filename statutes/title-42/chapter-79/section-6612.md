@@ -3,9 +3,9 @@ title: "Section 6612 - Director; Associate Directors"
 usc_title: 42
 usc_section: "6612"
 chapter: 79
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 6612"
-generated_at: "2026-03-30T05:09:14.028Z"
+generated_at: "2026-03-30T05:11:14.384Z"
 status: "active"
 ---
 

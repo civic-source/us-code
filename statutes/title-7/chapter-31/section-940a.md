@@ -3,9 +3,9 @@ title: "Section 940a - Repealed. Pub. L. 104–127, title VII , § 780, Apr. 4, 
 usc_title: 7
 usc_section: "940a"
 chapter: 31
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 940a"
-generated_at: "2026-03-30T05:07:43.290Z"
+generated_at: "2026-03-30T05:09:52.062Z"
 status: "repealed"
 ---
 

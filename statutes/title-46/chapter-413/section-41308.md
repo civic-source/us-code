@@ -3,9 +3,9 @@ title: "Section 41308 - Enforcement of subpoenas and orders"
 usc_title: 46
 usc_section: "41308"
 chapter: 413
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "46 U.S.C. § 41308"
-generated_at: "2026-03-30T05:09:17.676Z"
+generated_at: "2026-03-30T05:11:17.438Z"
 status: "active"
 ---
 

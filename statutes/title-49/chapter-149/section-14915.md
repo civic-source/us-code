@@ -3,9 +3,9 @@ title: "Section 14915 - Penalties for failure to give up possession of household
 usc_title: 49
 usc_section: "14915"
 chapter: 149
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "49 U.S.C. § 14915"
-generated_at: "2026-03-30T05:09:20.874Z"
+generated_at: "2026-03-30T05:11:21.144Z"
 status: "active"
 ---
 

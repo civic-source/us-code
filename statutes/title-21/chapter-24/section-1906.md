@@ -3,9 +3,9 @@ title: "Section 1906 - Enforcement"
 usc_title: 21
 usc_section: "1906"
 chapter: 24
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 1906"
-generated_at: "2026-03-30T05:08:40.584Z"
+generated_at: "2026-03-30T05:10:41.515Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
     - **(B)** fined in the amount provided in title 18 or, in the case of an entity, fined not more than $10,000,000,
   - **(2)** Any officer, director, or agent of any entity who knowingly participates in a violation of the provisions of this chapter shall be imprisoned for not more than 30 years, fined not more than $5,000,000, or both.
 - **(b)** A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the Treasury on any person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
-- **(c)** Any penalty imposed under subsection (b) of this section shall be subject to judicial review only to the extent provided in section 702 of title 5 .
+- **(c)** Any penalty imposed under subsection (b) shall be subject to judicial review only to the extent provided in section 702 of title 5 .

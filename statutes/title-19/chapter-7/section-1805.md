@@ -3,9 +3,9 @@ title: "Section 1805 - Repealed. Pub. L. 93–618, title VI , § 602(d), Jan. 3,
 usc_title: 19
 usc_section: "1805"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "19 U.S.C. § 1805"
-generated_at: "2026-03-30T05:08:32.045Z"
+generated_at: "2026-03-30T05:10:27.338Z"
 status: "repealed"
 ---
 

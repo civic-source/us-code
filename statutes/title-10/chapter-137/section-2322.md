@@ -3,9 +3,9 @@ title: "Section 2322 - Repealed. Pub. L. 102–484, div. A, title X , § 1052(25
 usc_title: 10
 usc_section: "2322"
 chapter: 137
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "10 U.S.C. § 2322"
-generated_at: "2026-03-30T05:08:05.383Z"
+generated_at: "2026-03-30T05:09:57.078Z"
 status: "repealed"
 ---
 

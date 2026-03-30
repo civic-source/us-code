@@ -3,9 +3,9 @@ title: "Section 1423e - Votes taken by the United States section on matters befo
 usc_title: 16
 usc_section: "1423e"
 chapter: 31
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 1423e"
-generated_at: "2026-03-30T05:08:37.174Z"
+generated_at: "2026-03-30T05:10:32.687Z"
 status: "active"
 ---
 

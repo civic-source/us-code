@@ -3,9 +3,9 @@ title: "Section 6395 - Secretarial approval; peer review"
 usc_title: 20
 usc_section: "6395"
 chapter: 70
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 6395"
-generated_at: "2026-03-30T05:08:30.996Z"
+generated_at: "2026-03-30T05:10:30.524Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1490s - Enforcement provisions"
 usc_title: 42
 usc_section: "1490s"
 chapter: 8
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 1490s"
-generated_at: "2026-03-30T05:09:13.878Z"
+generated_at: "2026-03-30T05:11:14.237Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 420 - Disability provisions inapplicable if benefit rights impai
 usc_title: 42
 usc_section: "420"
 chapter: 7
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 420"
-generated_at: "2026-03-30T05:09:13.706Z"
+generated_at: "2026-03-30T05:11:14.068Z"
 status: "active"
 ---
 

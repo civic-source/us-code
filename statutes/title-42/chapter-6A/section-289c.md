@@ -3,9 +3,9 @@ title: "Section 289c - Research on public health emergencies"
 usc_title: 42
 usc_section: "289c"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 289c"
-generated_at: "2026-03-30T05:09:13.625Z"
+generated_at: "2026-03-30T05:11:13.989Z"
 status: "active"
 ---
 

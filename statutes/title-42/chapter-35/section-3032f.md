@@ -3,9 +3,9 @@ title: "Section 3032f - Demonstration, support, and research projects for multig
 usc_title: 42
 usc_section: "3032f"
 chapter: 35
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 3032f"
-generated_at: "2026-03-30T05:09:13.941Z"
+generated_at: "2026-03-30T05:11:14.299Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Assistant Secretary shall award grants and enter into contracts with eligible organizations to carry out projects to—
   - **(1)** provide opportunities for older individuals to participate in multigenerational activities and civic engagement activities designed to meet critical community needs, and use the full range of time, skills, and experience of older individuals, including demonstration and support projects that—
-    - **(A)** provide support for grandparents and other older individuals who are relative caregivers raising children (such as kinship navigator programs); or
+    - **(A)** provide support for older relative caregivers (as defined in section 3030s of this title ) raising children (such as kinship navigator programs); or
     - **(B)** involve volunteers who are older individuals who provide support and information to families who have a child with a disability or chronic illness, or other families in need of such family support; and
   - **(2)** coordinate multigenerational activities and civic engagement activities, promote volunteerism, and facilitate development of and participation in multigenerational activities and civic engagement activities.
 - **(b)** An eligible organization shall use funds made available under a grant awarded, or a contract entered into, under this section to—

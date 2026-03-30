@@ -3,9 +3,9 @@ title: "Section 1711 - Limitation of actions; jurisdiction"
 usc_title: 25
 usc_section: "1711"
 chapter: 19
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 1711"
-generated_at: "2026-03-30T05:08:41.415Z"
+generated_at: "2026-03-30T05:10:37.341Z"
 status: "active"
 ---
 

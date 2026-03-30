@@ -3,9 +3,9 @@ title: "Section 1 - Powers and duties of a trustee"
 usc_title: 15
 usc_section: "1"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T05:08:11.667Z"
+generated_at: "2026-03-30T05:10:23.372Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1368 - Records"
 usc_title: 15
 usc_section: "1368"
 chapter: 37
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 1368"
-generated_at: "2026-03-30T05:08:11.730Z"
+generated_at: "2026-03-30T05:10:23.436Z"
 status: "active"
 ---
 

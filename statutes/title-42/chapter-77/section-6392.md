@@ -3,9 +3,9 @@ title: "Section 6392 - Repealed. Pub. L. 104–106, div. D, title XLIII , § 430
 usc_title: 42
 usc_section: "6392"
 chapter: 77
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 6392"
-generated_at: "2026-03-30T05:09:14.026Z"
+generated_at: "2026-03-30T05:11:14.382Z"
 status: "repealed"
 ---
 

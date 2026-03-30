@@ -3,9 +3,9 @@ title: "Section 7513b - Issuance of RACM and BACM guidance"
 usc_title: 42
 usc_section: "7513b"
 chapter: 85
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 7513b"
-generated_at: "2026-03-30T05:09:14.065Z"
+generated_at: "2026-03-30T05:11:14.420Z"
 status: "active"
 ---
 

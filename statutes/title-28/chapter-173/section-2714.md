@@ -3,9 +3,9 @@ title: "Section 2714 - Investment of proceeds of attached property"
 usc_title: 28
 usc_section: "2714"
 chapter: 173
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "28 U.S.C. § 2714"
-generated_at: "2026-03-30T05:08:47.012Z"
+generated_at: "2026-03-30T05:10:45.976Z"
 status: "active"
 ---
 

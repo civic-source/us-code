@@ -3,9 +3,9 @@ title: "Section 973f - Civil penalties"
 usc_title: 16
 usc_section: "973f"
 chapter: 16
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 973f"
-generated_at: "2026-03-30T05:08:37.155Z"
+generated_at: "2026-03-30T05:10:32.668Z"
 status: "active"
 ---
 

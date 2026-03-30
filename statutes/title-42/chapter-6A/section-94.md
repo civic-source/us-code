@@ -3,9 +3,9 @@ title: "Section 94 - Ensuring that consumers get value for their dollars"
 usc_title: 42
 usc_section: "94"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 94"
-generated_at: "2026-03-30T05:09:13.688Z"
+generated_at: "2026-03-30T05:11:14.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 255 - Access by persons with disabilities"
 usc_title: 47
 usc_section: "255"
 chapter: 5
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "47 U.S.C. § 255"
-generated_at: "2026-03-30T05:09:16.774Z"
+generated_at: "2026-03-30T05:11:18.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5015 - Study and report on funds availability"
 usc_title: 12
 usc_section: "5015"
 chapter: 50
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 5015"
-generated_at: "2026-03-30T05:08:26.106Z"
+generated_at: "2026-03-30T05:10:14.946Z"
 status: "active"
 ---
 

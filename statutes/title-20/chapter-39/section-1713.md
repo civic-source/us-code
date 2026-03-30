@@ -3,9 +3,9 @@ title: "Section 1713 - Priority of remedies"
 usc_title: 20
 usc_section: "1713"
 chapter: 39
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 1713"
-generated_at: "2026-03-30T05:08:30.970Z"
+generated_at: "2026-03-30T05:10:30.499Z"
 status: "active"
 ---
 

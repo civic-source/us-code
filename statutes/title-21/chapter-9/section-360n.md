@@ -3,9 +3,9 @@ title: "Section 360n - Priority review to encourage treatments for tropical dise
 usc_title: 21
 usc_section: "360n"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 360n"
-generated_at: "2026-03-30T05:08:40.541Z"
+generated_at: "2026-03-30T05:10:41.473Z"
 status: "active"
 ---
 
@@ -31,8 +31,9 @@ status: "active"
     - **(N)** Schistosomiasis.
     - **(O)** Soil transmitted helmithiasis.
     - **(P)** Yaws.
-    - **(Q)** Filoviruses.
-    - **(R)** Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
+    - **(Q)** Filovirus Diseases.
+    - **(R)** Zika Virus Disease.
+    - **(S)** Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
   - **(4)** The term “tropical disease product application” means an application that—
     - **(A)** is a human drug application as defined in section 379g(1) of this title —
       - **(i)** for prevention or treatment of a tropical disease; and

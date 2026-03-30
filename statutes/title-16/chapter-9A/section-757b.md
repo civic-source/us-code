@@ -3,9 +3,9 @@ title: "Section 757b - Authority of the Secretary with regards to Anadromous and
 usc_title: 16
 usc_section: "757b"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 757b"
-generated_at: "2026-03-30T05:08:37.133Z"
+generated_at: "2026-03-30T05:10:32.647Z"
 status: "active"
 ---
 

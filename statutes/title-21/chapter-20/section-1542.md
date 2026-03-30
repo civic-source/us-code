@@ -3,9 +3,9 @@ title: "Section 1542 - Duties"
 usc_title: 21
 usc_section: "1542"
 chapter: 20
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 1542"
-generated_at: "2026-03-30T05:08:40.580Z"
+generated_at: "2026-03-30T05:10:41.511Z"
 status: "active"
 ---
 
@@ -20,5 +20,5 @@ status: "active"
     - **(A)** collect, by correspondence or by personal investigation, information concerning initiatives, studies, services, programs, or other activities of coalitions or organizations working in the field of substance abuse in the United States or any other country; and
     - **(B)** with the approval of the Director, make the information referred to in subparagraph (A) available through appropriate publications or other methods for the benefit of eligible coalitions and the general public; and
   - **(6)** may appoint subcommittees and convene workshops and conferences.
-- **(b)** If the Director rejects any recommendation of the Advisory Commission under subsection (a)(1) of this section, the Director shall notify the Advisory Commission in writing of the reasons for the rejection not later than 15 days after receiving the recommendation.
+- **(b)** If the Director rejects any recommendation of the Advisory Commission under subsection (a)(1), the Director shall notify the Advisory Commission in writing of the reasons for the rejection not later than 15 days after receiving the recommendation.
 - **(c)** A member of the Advisory Commission shall recuse himself or herself from any decision that would constitute a conflict of interest.

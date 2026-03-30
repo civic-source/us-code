@@ -3,9 +3,9 @@ title: "Section 1243 - Loss of small business investment company"
 usc_title: 26
 usc_section: "1243"
 chapter: 1
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "26 U.S.C. § 1243"
-generated_at: "2026-03-30T05:08:52.927Z"
+generated_at: "2026-03-30T05:10:51.688Z"
 status: "active"
 ---
 

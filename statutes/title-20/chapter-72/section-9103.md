@@ -3,9 +3,9 @@ title: "Section 9103 - Director of Institute"
 usc_title: 20
 usc_section: "9103"
 chapter: 72
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 9103"
-generated_at: "2026-03-30T05:08:31.018Z"
+generated_at: "2026-03-30T05:10:30.543Z"
 status: "active"
 ---
 

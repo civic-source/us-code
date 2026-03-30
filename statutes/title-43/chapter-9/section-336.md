@@ -3,9 +3,9 @@ title: "Section 336 - Further extension in addition to that authorized by sectio
 usc_title: 43
 usc_section: "336"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "43 U.S.C. § 336"
-generated_at: "2026-03-30T05:09:03.463Z"
+generated_at: "2026-03-30T05:11:02.468Z"
 status: "active"
 ---
 

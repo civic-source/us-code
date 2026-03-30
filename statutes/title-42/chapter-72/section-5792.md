@@ -3,9 +3,9 @@ title: "Section 5792 - Definitions"
 usc_title: 42
 usc_section: "5792"
 chapter: 72
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 5792"
-generated_at: "2026-03-30T05:09:14.006Z"
+generated_at: "2026-03-30T05:11:14.363Z"
 status: "active"
 ---
 

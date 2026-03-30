@@ -3,9 +3,9 @@ title: "Section 24401 - Definitions"
 usc_title: 49
 usc_section: "24401"
 chapter: 244
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "49 U.S.C. § 24401"
-generated_at: "2026-03-30T05:09:20.882Z"
+generated_at: "2026-03-30T05:11:21.152Z"
 status: "active"
 ---
 

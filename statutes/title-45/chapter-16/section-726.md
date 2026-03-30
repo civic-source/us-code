@@ -3,9 +3,9 @@ title: "Section 726 - Debentures and series A preferred stock"
 usc_title: 45
 usc_section: "726"
 chapter: 16
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "45 U.S.C. § 726"
-generated_at: "2026-03-30T05:09:04.133Z"
+generated_at: "2026-03-30T05:11:03.125Z"
 status: "active"
 ---
 

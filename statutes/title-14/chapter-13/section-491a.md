@@ -3,9 +3,9 @@ title: "Section 491a - Coast Guard cross"
 usc_title: 14
 usc_section: "491a"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "14 U.S.C. § 491a"
-generated_at: "2026-03-30T05:08:07.927Z"
+generated_at: "2026-03-30T05:10:00.787Z"
 status: "active"
 ---
 

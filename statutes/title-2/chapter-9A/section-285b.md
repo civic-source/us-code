@@ -3,9 +3,9 @@ title: "Section 285b - Functions"
 usc_title: 2
 usc_section: "285b"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "2 U.S.C. § 285b"
-generated_at: "2026-03-30T05:07:20.572Z"
+generated_at: "2026-03-30T05:09:34.618Z"
 status: "active"
 ---
 

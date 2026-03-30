@@ -3,9 +3,9 @@ title: "Section 7511 - Classifications and attainment dates"
 usc_title: 42
 usc_section: "7511"
 chapter: 85
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 7511"
-generated_at: "2026-03-30T05:09:14.062Z"
+generated_at: "2026-03-30T05:11:14.418Z"
 status: "active"
 ---
 

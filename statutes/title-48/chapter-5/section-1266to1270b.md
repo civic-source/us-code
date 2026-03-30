@@ -3,9 +3,9 @@ title: "Section 1266to1270b - Transferred"
 usc_title: 48
 usc_section: "1266to1270b"
 chapter: 5
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "48 U.S.C. § 1266to1270b"
-generated_at: "2026-03-30T05:09:18.080Z"
+generated_at: "2026-03-30T05:11:17.751Z"
 status: "transferred"
 ---
 

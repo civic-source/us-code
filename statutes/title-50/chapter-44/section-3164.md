@@ -3,9 +3,9 @@ title: "Section 3164 - Definitions"
 usc_title: 50
 usc_section: "3164"
 chapter: 44
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "50 U.S.C. § 3164"
-generated_at: "2026-03-30T05:09:19.064Z"
+generated_at: "2026-03-30T05:11:19.300Z"
 status: "active"
 ---
 

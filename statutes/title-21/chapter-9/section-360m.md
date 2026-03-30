@@ -3,9 +3,9 @@ title: "Section 360m - Accredited persons"
 usc_title: 21
 usc_section: "360m"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 360m"
-generated_at: "2026-03-30T05:08:40.541Z"
+generated_at: "2026-03-30T05:10:41.473Z"
 status: "active"
 ---
 
@@ -26,12 +26,12 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary shall provide for such accreditation through programs administered by the Food and Drug Administration, other government agencies, or by other qualified nongovernment organizations.
   - **(2)**
-    - **(A)** Not later than 180 days after November 21, 1997 , the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
+    - **(A)** Not later than 180 days after November 21, 1997 , the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a). The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) for which such person is accredited.
     - **(B)** The Secretary may suspend or withdraw accreditation of any person accredited under this paragraph, after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the requirements of this section or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this section.
     - **(C)** To ensure that persons accredited under this section will continue to meet the standards of accreditation, the Secretary shall—
       - **(i)** make onsite visits on a periodic basis to each accredited person to audit the performance of such person; and
       - **(ii)** take such additional measures as the Secretary determines to be appropriate.
-    - **(D)** The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
+    - **(D)** The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
     - **(E)**
       - **(i)** Subject to suspension or withdrawal under subparagraph (B), any accreditation under this section shall be valid for a period of 3 years after its issuance.
       - **(ii)** Upon the submission of a request by an accredited person for reaccreditation under this section, the Secretary shall approve or deny such request not later than 60 days after receipt of the request.
@@ -46,7 +46,7 @@ status: "active"
       - **(ii)** limit work to that for which competence and capacity are available;
       - **(iii)** treat information received, records, reports, and recommendations as proprietary information;
       - **(iv)** promptly respond and attempt to resolve complaints regarding its activities for which it is accredited; and
-      - **(v)** protect against the use, in carrying out subsection (a) of this section with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
+      - **(v)** protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
   - **(4)** The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
   - **(5)** Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
 - **(c)** The authority provided by this section terminates October 1, 2017 .
@@ -54,7 +54,7 @@ status: "active"
   - **(1)** the number of devices reviewed under this section;
   - **(2)** the number of devices reviewed under this section that were ultimately cleared by the Secretary;
   - **(3)** the number of devices reviewed under this section that were ultimately not cleared by the Secretary;
-  - **(4)** the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
+  - **(4)** the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) and determine the initial device classification);
   - **(5)** the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title ;
   - **(6)** if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
   - **(7)** whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;

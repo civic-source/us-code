@@ -3,9 +3,9 @@ title: "Section 1862a - Findings and purpose"
 usc_title: 42
 usc_section: "1862a"
 chapter: 16
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 1862a"
-generated_at: "2026-03-30T05:09:13.896Z"
+generated_at: "2026-03-30T05:11:14.255Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3348 - Repealed. Pub. L. 100–42 , § 2(a), May 21, 1987 , 101 
 usc_title: 15
 usc_section: "3348"
 chapter: 60
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "15 U.S.C. § 3348"
-generated_at: "2026-03-30T05:08:11.779Z"
+generated_at: "2026-03-30T05:10:23.483Z"
 status: "repealed"
 ---
 

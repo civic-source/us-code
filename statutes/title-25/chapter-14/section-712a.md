@@ -3,9 +3,9 @@ title: "Section 712a - Extension of Federal recognition, rights, and privileges"
 usc_title: 25
 usc_section: "712a"
 chapter: 14
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "25 U.S.C. § 712a"
-generated_at: "2026-03-30T05:08:41.389Z"
+generated_at: "2026-03-30T05:10:37.314Z"
 status: "active"
 ---
 

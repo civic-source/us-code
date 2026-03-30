@@ -3,9 +3,9 @@ title: "Section 7902 - Reduction of greenhouse gas intensity"
 usc_title: 22
 usc_section: "7902"
 chapter: 86
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "22 U.S.C. § 7902"
-generated_at: "2026-03-30T05:08:43.948Z"
+generated_at: "2026-03-30T05:10:39.820Z"
 status: "active"
 ---
 

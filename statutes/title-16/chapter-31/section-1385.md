@@ -3,9 +3,9 @@ title: "Section 1385 - Dolphin protection"
 usc_title: 16
 usc_section: "1385"
 chapter: 31
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 1385"
-generated_at: "2026-03-30T05:08:37.171Z"
+generated_at: "2026-03-30T05:10:32.684Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
       - **(iii)** the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product; and
     - **(C)** the written statements and endorsements referred to in subparagraph (B) comply with regulations promulgated by the Secretary which provide for the verification of tuna products as dolphin safe.
   - **(3)**
-    - **(A)** The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act. 1 1 So in original. Probably should be “this section”.
+    - **(A)** The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this section. 1 1 See References in Text note below.
     - **(B)** A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
     - **(C)** It is a violation of section 45 of title 15 to label a tuna product with any label or mark that refers to dolphins, porpoises, or marine mammals other than the mark developed under subparagraph (A) unless—
       - **(i)** no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught;
@@ -49,7 +49,7 @@ status: "active"
       - **(iii)** the label complies with all applicable labeling, marketing, and advertising laws and regulations of the Federal Trade Commission, including any guidelines for environmental labeling.
     - **(D)** If the Secretary determines that the use of a label referred to in subparagraph (C) is substantially undermining the conservation goals of the International Dolphin Conservation Program, the Secretary shall report that determination to the United States Senate Committee on Commerce, Science, and Transportation and the United States House of Representatives Committees on Resources and on Commerce, along with recommendations to correct such problems.
     - **(E)** It is a violation of section 45 of title 15 willingly and knowingly to use a label referred to in subparagraph (C) in a campaign or effort to mislead or deceive consumers about the level of protection afforded dolphins under the International Dolphin Conservation Program.
-- **(e)** For additional prohibitions relating to this section and enforcement of this section, see section 1826g of this title .
+- **(e)** For additional prohibitions relating to this section 1 and enforcement of this section, 1 see section 1826g of this title .
 - **(f)** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this Act, 1 including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
   - **(1)** The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
   - **(2)** Additional measures to enhance current observer coverage, including the establishment of criteria for training, and for improving monitoring and reporting capabilities and procedures.

@@ -3,9 +3,9 @@ title: "Section 1371 - Moratorium on taking and importing marine mammals and mar
 usc_title: 16
 usc_section: "1371"
 chapter: 31
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 1371"
-generated_at: "2026-03-30T05:08:37.168Z"
+generated_at: "2026-03-30T05:10:32.682Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(C)** shall not accept such documentary evidence if—
       - **(i)** the government of the harvesting nation does not provide directly or authorize the Inter-American Tropical Tuna Commission to release complete and accurate information to the Secretary in a timely manner—
         - **(I)** to allow determination of compliance with the International Dolphin Conservation Program; and
-        - **(II)** for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) 1 1 See References in Text note below. of this title; or
+        - **(II)** for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) of this title ; or
       - **(ii)** after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
     - **(D)** shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding six months, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
     - **(E)** shall, six months after importation of yellowfin tuna or tuna products has been banned under this section, certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 for as long as such ban is in effect; and

@@ -3,9 +3,9 @@ title: "Section 3422 - Powers of program Director"
 usc_title: 33
 usc_section: "3422"
 chapter: 47
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "33 U.S.C. § 3422"
-generated_at: "2026-03-30T05:08:56.660Z"
+generated_at: "2026-03-30T05:10:56.080Z"
 status: "active"
 ---
 

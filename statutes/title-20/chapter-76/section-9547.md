@@ -3,9 +3,9 @@ title: "Section 9547 - Cooperative education statistics systems"
 usc_title: 20
 usc_section: "9547"
 chapter: 76
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "20 U.S.C. § 9547"
-generated_at: "2026-03-30T05:08:31.022Z"
+generated_at: "2026-03-30T05:10:30.547Z"
 status: "active"
 ---
 

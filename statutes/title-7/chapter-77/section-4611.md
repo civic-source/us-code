@@ -3,9 +3,9 @@ title: "Section 4611 - Requirements of referendum"
 usc_title: 7
 usc_section: "4611"
 chapter: 77
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "7 U.S.C. § 4611"
-generated_at: "2026-03-30T05:07:43.366Z"
+generated_at: "2026-03-30T05:09:52.143Z"
 status: "active"
 ---
 

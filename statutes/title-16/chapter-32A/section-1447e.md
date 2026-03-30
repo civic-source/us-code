@@ -3,9 +3,9 @@ title: "Section 1447e - Report on research program"
 usc_title: 16
 usc_section: "1447e"
 chapter: 32
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "16 U.S.C. § 1447e"
-generated_at: "2026-03-30T05:08:37.176Z"
+generated_at: "2026-03-30T05:10:32.689Z"
 status: "active"
 ---
 

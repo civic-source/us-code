@@ -3,9 +3,9 @@ title: "Section 4852d - Disclosure of information concerning lead upon transfer 
 usc_title: 42
 usc_section: "4852d"
 chapter: 63
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 4852d"
-generated_at: "2026-03-30T05:09:13.981Z"
+generated_at: "2026-03-30T05:11:14.338Z"
 status: "active"
 ---
 

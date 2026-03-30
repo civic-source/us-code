@@ -3,9 +3,9 @@ title: "Section 14043d - Findings"
 usc_title: 42
 usc_section: "14043d"
 chapter: 136
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "42 U.S.C. § 14043d"
-generated_at: "2026-03-30T05:09:14.198Z"
+generated_at: "2026-03-30T05:11:14.545Z"
 status: "active"
 ---
 

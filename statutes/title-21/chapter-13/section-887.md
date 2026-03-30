@@ -3,13 +3,13 @@ title: "Section 887 - Coordination and consolidation of post-seizure administrat
 usc_title: 21
 usc_section: "887"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 887"
-generated_at: "2026-03-30T05:08:40.576Z"
+generated_at: "2026-03-30T05:10:41.507Z"
 status: "active"
 ---
 
 # § 887. Coordination and consolidation of post-seizure administration
 
-The Attorney General and the Secretary of the Treasury shall take such action as may be necessary to develop and maintain a joint plan to coordinate and consolidate post-seizure administration of property seized under this subchapter, subchapter II of this chapter, or provisions of the customs laws relating to controlled substances.
+The Attorney General and the Secretary of the Treasury shall take such action as may be necessary to develop and maintain a joint plan to coordinate and consolidate post-seizure administration of property seized under this subchapter, subchapter II, or provisions of the customs laws relating to controlled substances.
 

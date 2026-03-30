@@ -3,9 +3,9 @@ title: "Section 2 - Implementation of regulations and procedures to lessen adver
 usc_title: 12
 usc_section: "2"
 chapter: 6
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T05:08:25.990Z"
+generated_at: "2026-03-30T05:10:14.837Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 825 - Labeling and packaging"
 usc_title: 21
 usc_section: "825"
 chapter: 13
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 825"
-generated_at: "2026-03-30T05:08:40.570Z"
+generated_at: "2026-03-30T05:10:41.502Z"
 status: "active"
 ---
 
 # § 825. Labeling and packaging
 
 - **(a)** It shall be unlawful to distribute a controlled substance in a commercial container unless such container, when and as required by regulations of the Attorney General, bears a label (as defined in section 321(k) of this title ) containing an identifying symbol for such substance in accordance with such regulations. A different symbol shall be required for each schedule of controlled substances.
-- **(b)** It shall be unlawful for the manufacturer of any controlled substance to distribute such substance unless the labeling (as defined in section 321(m) of this title ) of such substance contains, when and as required by regulations of the Attorney General, the identifying symbol required under subsection (a) of this section.
+- **(b)** It shall be unlawful for the manufacturer of any controlled substance to distribute such substance unless the labeling (as defined in section 321(m) of this title ) of such substance contains, when and as required by regulations of the Attorney General, the identifying symbol required under subsection (a).
 - **(c)** The Secretary shall prescribe regulations under section 353(b) of this title which shall provide that the label of a drug listed in schedule II, III, or IV shall, when dispensed to or for a patient, contain a clear, concise warning that it is a crime to transfer the drug to any person other than the patient.
 - **(d)** It shall be unlawful to distribute controlled substances in schedule I or II, and narcotic drugs in schedule III or IV, unless the bottle or other container, stopper, covering, or wrapper thereof is securely sealed as required by regulations of the Attorney General.
 - **(e)**

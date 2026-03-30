@@ -3,9 +3,9 @@ title: "Section 360i - Records and reports on devices"
 usc_title: 21
 usc_section: "360i"
 chapter: 9
-current_through: "PL 114-143"
+current_through: "PL 114-146"
 classification: "21 U.S.C. § 360i"
-generated_at: "2026-03-30T05:08:40.540Z"
+generated_at: "2026-03-30T05:10:41.472Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
     - **(A)** a device user facility,
     - **(B)** an individual who is employed by or otherwise formally affiliated with such a facility, or
     - **(C)** a physician who is not required to make such a report,
-  - **(4)** A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a) of this section.
+  - **(4)** A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a).
   - **(5)** With respect to device user facilities:
     - **(A)** The Secretary shall by regulation plan and implement a program under which the Secretary limits user reporting under paragraphs (1) through (4) to a subset of user facilities that constitutes a representative profile of user reports for device deaths and serious illnesses or serious injuries.
     - **(B)** During the period of planning the program under subparagraph (A), paragraphs (1) through (4) continue to apply.
@@ -67,10 +67,10 @@ status: "active"
       - **(i)** is life threatening,
       - **(ii)** results in permanent impairment of a body function or permanent damage to a body structure, or
       - **(iii)** necessitates medical or surgical intervention to preclude permanent impairment of a body function or permanent damage to a body structure.
-- **(c)** Subsection (a) of this section shall not apply to—
+- **(c)** Subsection (a) shall not apply to—
   - **(1)** any practitioner who is licensed by law to prescribe or administer devices intended for use in humans and who manufactures or imports devices solely for use in the course of his professional practice;
   - **(2)** any person who manufactures or imports devices intended for use in humans solely for such person’s use in research or teaching and not for sale (including any person who uses a device under an exemption granted under section 360j(g) of this title ); and
-  - **(3)** any other class of persons as the Secretary may by regulation exempt from subsection (a) of this section upon a finding that compliance with the requirements of such subsection by such class with respect to a device is not necessary to (A) assure that a device is not adulterated or misbranded or (B) otherwise to assure its safety and effectiveness.
+  - **(3)** any other class of persons as the Secretary may by regulation exempt from subsection (a) upon a finding that compliance with the requirements of such subsection by such class with respect to a device is not necessary to (A) assure that a device is not adulterated or misbranded or (B) otherwise to assure its safety and effectiveness.
 - **(d)**
 - **(e)**
   - **(1)** The Secretary may by order require a manufacturer to adopt a method of tracking a class II or class III device—
@@ -84,7 +84,7 @@ status: "active"
   - **(1)** Except as provided in paragraph (2), the Secretary shall by regulation require a manufacturer or importer of a device to report promptly to the Secretary any correction or removal of a device undertaken by such manufacturer or importer if the removal or correction was undertaken—
     - **(A)** to reduce a risk to health posed by the device, or
     - **(B)** to remedy a violation of this chapter caused by the device which may present a risk to health.
-  - **(2)** No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a) of this section.
+  - **(2)** No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a).
   - **(3)** For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 - **(h)**
   - **(1)**
