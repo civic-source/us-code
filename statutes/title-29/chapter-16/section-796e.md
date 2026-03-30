@@ -3,9 +3,9 @@ title: "Section 796e - Allotments"
 usc_title: 29
 usc_section: "796e"
 chapter: 16
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 796e"
-generated_at: "2026-03-30T05:28:16.792Z"
+generated_at: "2026-03-30T05:30:22.088Z"
 status: "active"
 ---
 
@@ -20,6 +20,6 @@ status: "active"
     - **(A)** For the purposes of paragraph (1)(C), Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
     - **(B)** Each jurisdiction described in subparagraph (A) shall be allotted under paragraph (1)(A) not less than ⅛ of 1 percent of the remainder described in paragraph (1)(A) for the fiscal year for which the allotment is made.
   - **(3)** For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
-- **(b)** To provide allotments to States in accordance with subsection (a)(1)(B) of this section, to provide minimum allotments to States (as increased under subsection (a)(3) of this section) under subsection (a)(1)(C) of this section, or to provide minimum allotments to States under subsection (a)(2)(B) of this section, the Administrator shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B) of this section.
+- **(b)** To provide allotments to States in accordance with subsection (a)(1)(B), to provide minimum allotments to States (as increased under subsection (a)(3)) under subsection (a)(1)(C), or to provide minimum allotments to States under subsection (a)(2)(B), the Administrator shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B).
 - **(c)** Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State in carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 - **(d)** Funds allotted or made available to a State under this section shall be administered by the designated State entity, in accordance with the approved State plan.

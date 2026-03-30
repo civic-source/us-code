@@ -3,9 +3,9 @@ title: "Section 153507 - Restrictions"
 usc_title: 36
 usc_section: "153507"
 chapter: 1535
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 153507"
-generated_at: "2026-03-30T05:28:35.321Z"
+generated_at: "2026-03-30T05:30:45.620Z"
 status: "active"
 ---
 

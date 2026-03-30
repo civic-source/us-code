@@ -3,9 +3,9 @@ title: "Section 4353 - Cadets: degree and commission on graduation"
 usc_title: 10
 usc_section: "4353"
 chapter: 403
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 4353"
-generated_at: "2026-03-30T05:27:29.526Z"
+generated_at: "2026-03-30T05:29:50.149Z"
 status: "active"
 ---
 

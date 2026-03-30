@@ -3,9 +3,9 @@ title: "Section 1390 - Nonapplicability of withdrawal liability for certain temp
 usc_title: 29
 usc_section: "1390"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1390"
-generated_at: "2026-03-30T05:28:16.819Z"
+generated_at: "2026-03-30T05:30:22.115Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** the number of years required for vesting under the plan,
   - **(3)** was required to make contributions to the plan for each such plan year in an amount equal to less than 2 percent of the sum of all employer contributions made to the plan for each such year, and
   - **(4)** has never avoided withdrawal liability because of the application of this section with respect to the plan.
-- **(b)** Subsection (a) of this section shall apply to an employer with respect to a plan only if—
-  - **(1)** the plan is amended to provide that subsection (a) of this section applies;
+- **(b)** Subsection (a) shall apply to an employer with respect to a plan only if—
+  - **(1)** the plan is amended to provide that subsection (a) applies;
   - **(2)** the plan provides, or is amended to provide, that the reduction under section 411(a)(3)(E) of title 26 applies with respect to the employees of the employer; and
   - **(3)** the ratio of the assets of the plan for the plan year preceding the first plan year for which the employer was required to contribute to the plan to the benefit payments made during that plan year was at least 8 to 1.

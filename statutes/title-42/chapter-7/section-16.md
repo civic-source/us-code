@@ -3,9 +3,9 @@ title: "Section 16 - Public disclosure of certain information on hospital financ
 usc_title: 42
 usc_section: "16"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T05:29:03.377Z"
+generated_at: "2026-03-30T05:31:12.972Z"
 status: "active"
 ---
 

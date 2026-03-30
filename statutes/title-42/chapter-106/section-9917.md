@@ -3,9 +3,9 @@ title: "Section 9917 - Accountability and reporting requirements"
 usc_title: 42
 usc_section: "9917"
 chapter: 106
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 9917"
-generated_at: "2026-03-30T05:29:03.752Z"
+generated_at: "2026-03-30T05:31:13.549Z"
 status: "active"
 ---
 

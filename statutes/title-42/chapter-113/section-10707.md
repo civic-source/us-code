@@ -3,9 +3,9 @@ title: "Section 10707 - Restrictions on activities of the Institute"
 usc_title: 42
 usc_section: "10707"
 chapter: 113
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 10707"
-generated_at: "2026-03-30T05:29:03.765Z"
+generated_at: "2026-03-30T05:31:13.569Z"
 status: "active"
 ---
 

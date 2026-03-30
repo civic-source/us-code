@@ -3,9 +3,9 @@ title: "Section 1229 - Applicability"
 usc_title: 33
 usc_section: "1229"
 chapter: 25
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "33 U.S.C. § 1229"
-generated_at: "2026-03-30T05:28:31.553Z"
+generated_at: "2026-03-30T05:30:42.878Z"
 status: "active"
 ---
 

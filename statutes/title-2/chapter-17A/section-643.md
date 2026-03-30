@@ -3,9 +3,9 @@ title: "Section 643 - Determinations and points of order"
 usc_title: 2
 usc_section: "643"
 chapter: 17
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 643"
-generated_at: "2026-03-30T05:26:44.560Z"
+generated_at: "2026-03-30T05:29:39.392Z"
 status: "active"
 ---
 

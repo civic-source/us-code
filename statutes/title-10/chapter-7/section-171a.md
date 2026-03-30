@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T05:27:29.434Z"
+generated_at: "2026-03-30T05:29:50.051Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(3)** Any changes to the requirements of the command, control, and communications system for the national leadership of the United States made during the previous year, along with an explanation for why the changes were made and a description of the effects of the changes to the capability of the system.
   - **(4)** A breakdown of each program element in such budget that relates to the system, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of the system.
   - **(5)** An assessment of the threats and vulnerabilities described in the reports and assessments collected under subsection (f) during the previous year, including any plans to address such threats and vulnerabilities.
-- **(f)** The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+- **(f)** The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ) 1 1 So in original. Another closing parenthesis probably should appear. regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
 - **(g)**
   - **(1)** Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31 , the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
     - **(A)** whether such budget allows the Federal Government to meet the required capabilities of the command, control, and communications system for the national leadership of the United States during the fiscal year covered by the budget and the four subsequent fiscal years; and

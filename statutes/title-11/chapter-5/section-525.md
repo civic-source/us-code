@@ -3,9 +3,9 @@ title: "Section 525 - Protection against discriminatory treatment"
 usc_title: 11
 usc_section: "525"
 chapter: 5
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "11 U.S.C. § 525"
-generated_at: "2026-03-30T05:27:38.389Z"
+generated_at: "2026-03-30T05:29:52.464Z"
 status: "active"
 ---
 

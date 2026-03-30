@@ -3,9 +3,9 @@ title: "Section 34 - Description of vein claims on surveyed and unsurveyed lands
 usc_title: 30
 usc_section: "34"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "30 U.S.C. § 34"
-generated_at: "2026-03-30T05:28:14.980Z"
+generated_at: "2026-03-30T05:30:26.549Z"
 status: "active"
 ---
 

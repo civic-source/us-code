@@ -3,9 +3,9 @@ title: "Section 2803 - National Aquaculture Development Plan"
 usc_title: 16
 usc_section: "2803"
 chapter: 48
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 2803"
-generated_at: "2026-03-30T05:27:58.269Z"
+generated_at: "2026-03-30T05:30:04.545Z"
 status: "active"
 ---
 

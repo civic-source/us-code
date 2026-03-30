@@ -3,9 +3,9 @@ title: "Section 190103 - Membership"
 usc_title: 36
 usc_section: "190103"
 chapter: 1901
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 190103"
-generated_at: "2026-03-30T05:28:35.322Z"
+generated_at: "2026-03-30T05:30:45.622Z"
 status: "active"
 ---
 

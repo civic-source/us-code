@@ -3,9 +3,9 @@ title: "Section 9873 - Payments under allotments to States"
 usc_title: 42
 usc_section: "9873"
 chapter: 105
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 9873"
-generated_at: "2026-03-30T05:29:03.750Z"
+generated_at: "2026-03-30T05:31:13.546Z"
 status: "active"
 ---
 

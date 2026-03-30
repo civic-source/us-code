@@ -3,9 +3,9 @@ title: "Section 1244 - Apportionment of funds; members and descend­ants of Minn
 usc_title: 25
 usc_section: "1244"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1244"
-generated_at: "2026-03-30T05:28:08.115Z"
+generated_at: "2026-03-30T05:30:15.998Z"
 status: "active"
 ---
 

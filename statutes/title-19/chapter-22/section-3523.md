@@ -3,9 +3,9 @@ title: "Section 3523 - Duty free treatment for octadecyl isocyanate and 5-Chloro
 usc_title: 19
 usc_section: "3523"
 chapter: 22
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "19 U.S.C. § 3523"
-generated_at: "2026-03-30T05:27:51.469Z"
+generated_at: "2026-03-30T05:30:12.391Z"
 status: "active"
 ---
 

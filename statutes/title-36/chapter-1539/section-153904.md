@@ -3,9 +3,9 @@ title: "Section 153904 - Deposit of historical material"
 usc_title: 36
 usc_section: "153904"
 chapter: 1539
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 153904"
-generated_at: "2026-03-30T05:28:35.321Z"
+generated_at: "2026-03-30T05:30:45.621Z"
 status: "active"
 ---
 

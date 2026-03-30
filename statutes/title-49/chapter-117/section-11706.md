@@ -3,9 +3,9 @@ title: "Section 11706 - Liability of rail carriers under receipts and bills of l
 usc_title: 49
 usc_section: "11706"
 chapter: 117
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "49 U.S.C. § 11706"
-generated_at: "2026-03-30T05:29:21.663Z"
+generated_at: "2026-03-30T05:31:24.960Z"
 status: "active"
 ---
 

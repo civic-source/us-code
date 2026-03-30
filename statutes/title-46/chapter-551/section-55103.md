@@ -3,9 +3,9 @@ title: "Section 55103 - Transportation of passengers"
 usc_title: 46
 usc_section: "55103"
 chapter: 551
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "46 U.S.C. § 55103"
-generated_at: "2026-03-30T05:29:07.273Z"
+generated_at: "2026-03-30T05:31:18.183Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70104 - Definition of Space Launch System"
 usc_title: 51
 usc_section: "70104"
 chapter: 701
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "51 U.S.C. § 70104"
-generated_at: "2026-03-30T05:29:28.496Z"
+generated_at: "2026-03-30T05:31:26.924Z"
 status: "active"
 ---
 

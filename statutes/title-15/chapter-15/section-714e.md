@@ -3,9 +3,9 @@ title: "Section 714e - Capital stock; amount; interest"
 usc_title: 15
 usc_section: "714e"
 chapter: 15
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "15 U.S.C. § 714e"
-generated_at: "2026-03-30T05:27:43.777Z"
+generated_at: "2026-03-30T05:29:57.084Z"
 status: "active"
 ---
 

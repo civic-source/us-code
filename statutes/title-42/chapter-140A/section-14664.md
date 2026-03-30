@@ -3,9 +3,9 @@ title: "Section 14664 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14664"
 chapter: 140
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 14664"
-generated_at: "2026-03-30T05:29:03.833Z"
+generated_at: "2026-03-30T05:31:13.674Z"
 status: "active"
 ---
 

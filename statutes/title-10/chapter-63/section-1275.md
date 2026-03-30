@@ -3,9 +3,9 @@ title: "Section 1275 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "1275"
 chapter: 63
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 1275"
-generated_at: "2026-03-30T05:27:29.469Z"
+generated_at: "2026-03-30T05:29:50.088Z"
 status: "active"
 ---
 

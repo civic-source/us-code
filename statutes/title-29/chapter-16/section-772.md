@@ -3,9 +3,9 @@ title: "Section 772 - Training"
 usc_title: 29
 usc_section: "772"
 chapter: 16
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 772"
-generated_at: "2026-03-30T05:28:16.788Z"
+generated_at: "2026-03-30T05:30:22.084Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(5)** Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3151 et seq.].
 - **(b)**
   - **(1)**
-    - **(A)** The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) of this section to have shortages of qualified personnel.
+    - **(A)** The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) to have shortages of qualified personnel.
     - **(B)** Academic training projects described in this subsection may include—
       - **(i)** projects to train personnel in the areas of assisting and supporting individuals with disabilities pursuing self-employment, business ownership, and telecommuting, and of vocational rehabilitation counseling, rehabilitation technology, rehabilitation medicine, rehabilitation nursing, rehabilitation social work, rehabilitation psychiatry, rehabilitation psychology, rehabilitation dentistry, physical therapy, occupational therapy, speech pathology and audiology, physical education, therapeutic recreation, community rehabilitation programs, prosthetics and orthotics, vision rehabilitation therapy, orientation and mobility instruction, or low vision therapy;
       - **(ii)** projects to train personnel to provide—

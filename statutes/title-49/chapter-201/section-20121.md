@@ -3,9 +3,9 @@ title: "Section 20121 - Repair and replacement of damaged track inspection equip
 usc_title: 49
 usc_section: "20121"
 chapter: 201
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "49 U.S.C. § 20121"
-generated_at: "2026-03-30T05:29:21.671Z"
+generated_at: "2026-03-30T05:31:24.969Z"
 status: "active"
 ---
 

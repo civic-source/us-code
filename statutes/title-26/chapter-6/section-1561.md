@@ -3,9 +3,9 @@ title: "Section 1561 - Limitations on certain multiple tax benefits in the case 
 usc_title: 26
 usc_section: "1561"
 chapter: 6
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 1561"
-generated_at: "2026-03-30T05:28:24.400Z"
+generated_at: "2026-03-30T05:30:36.611Z"
 status: "active"
 ---
 

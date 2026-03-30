@@ -3,9 +3,9 @@ title: "Section 299 - Repealed. Pub. L. 106–554 , § 1(a)(2) [title I, § 102(
 usc_title: 2
 usc_section: "299"
 chapter: 10
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 299"
-generated_at: "2026-03-30T05:26:44.556Z"
+generated_at: "2026-03-30T05:29:39.387Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3495 - Fees and expenses of consuls, counsel, interpreters and w
 usc_title: 18
 usc_section: "3495"
 chapter: 223
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "18 U.S.C. § 3495"
-generated_at: "2026-03-30T05:27:48.908Z"
+generated_at: "2026-03-30T05:30:00.561Z"
 status: "active"
 ---
 

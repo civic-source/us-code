@@ -3,9 +3,9 @@ title: "Section 213 - Military benefits"
 usc_title: 42
 usc_section: "213"
 chapter: 6
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 213"
-generated_at: "2026-03-30T05:29:03.205Z"
+generated_at: "2026-03-30T05:31:12.689Z"
 status: "active"
 ---
 

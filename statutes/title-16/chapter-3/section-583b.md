@@ -3,9 +3,9 @@ title: "Section 583b - Establishment of sustained-yield units to stabilize sale 
 usc_title: 16
 usc_section: "583b"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 583b"
-generated_at: "2026-03-30T05:27:58.182Z"
+generated_at: "2026-03-30T05:30:04.464Z"
 status: "active"
 ---
 

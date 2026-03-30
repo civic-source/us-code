@@ -3,9 +3,9 @@ title: "Section 11 - Interest in national banks"
 usc_title: 12
 usc_section: "11"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-30T05:27:35.824Z"
+generated_at: "2026-03-30T05:29:54.931Z"
 status: "active"
 ---
 

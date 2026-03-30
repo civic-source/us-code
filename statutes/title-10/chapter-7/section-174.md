@@ -3,9 +3,9 @@ title: "Section 174 - Advisory personnel: research and development"
 usc_title: 10
 usc_section: "174"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 174"
-generated_at: "2026-03-30T05:27:29.435Z"
+generated_at: "2026-03-30T05:29:50.051Z"
 status: "active"
 ---
 

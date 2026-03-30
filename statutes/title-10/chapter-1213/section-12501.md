@@ -3,9 +3,9 @@ title: "Section 12501 - Reserve components: detail of members of regular and res
 usc_title: 10
 usc_section: "12501"
 chapter: 1213
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 12501"
-generated_at: "2026-03-30T05:27:29.552Z"
+generated_at: "2026-03-30T05:29:50.178Z"
 status: "active"
 ---
 

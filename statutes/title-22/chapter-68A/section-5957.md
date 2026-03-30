@@ -3,9 +3,9 @@ title: "Section 5957 - Repealed. Pub. L. 113–291, div. A, title XIII , § 1351
 usc_title: 22
 usc_section: "5957"
 chapter: 68
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 5957"
-generated_at: "2026-03-30T05:28:05.562Z"
+generated_at: "2026-03-30T05:30:18.804Z"
 status: "repealed"
 ---
 

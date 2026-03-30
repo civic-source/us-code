@@ -3,9 +3,9 @@ title: "Section 7408 - Air quality criteria and control techniques"
 usc_title: 42
 usc_section: "7408"
 chapter: 85
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 7408"
-generated_at: "2026-03-30T05:29:03.681Z"
+generated_at: "2026-03-30T05:31:13.442Z"
 status: "active"
 ---
 

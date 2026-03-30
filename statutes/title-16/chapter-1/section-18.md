@@ -3,9 +3,9 @@ title: "Section 18 - Land acquisition"
 usc_title: 16
 usc_section: "18"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 18"
-generated_at: "2026-03-30T05:27:58.151Z"
+generated_at: "2026-03-30T05:30:04.434Z"
 status: "active"
 ---
 

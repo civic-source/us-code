@@ -3,9 +3,9 @@ title: "Section 1091to1094 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1091to1094"
 chapter: 27
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 1091to1094"
-generated_at: "2026-03-30T05:28:40.113Z"
+generated_at: "2026-03-30T05:30:49.438Z"
 status: "repealed"
 ---
 

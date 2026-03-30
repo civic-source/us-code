@@ -3,9 +3,9 @@ title: "Section 6053e - Repealed. Pub. L. 107–279, title IV , § 403(2), Nov. 
 usc_title: 20
 usc_section: "6053e"
 chapter: 68
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 6053e"
-generated_at: "2026-03-30T05:28:00.036Z"
+generated_at: "2026-03-30T05:30:08.577Z"
 status: "repealed"
 ---
 

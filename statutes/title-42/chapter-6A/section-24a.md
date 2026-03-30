@@ -3,9 +3,9 @@ title: "Section 24a - Activities regarding women’s health"
 usc_title: 42
 usc_section: "24a"
 chapter: 6
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 24a"
-generated_at: "2026-03-30T05:29:03.279Z"
+generated_at: "2026-03-30T05:31:12.816Z"
 status: "active"
 ---
 

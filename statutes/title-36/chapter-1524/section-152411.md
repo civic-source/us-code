@@ -3,9 +3,9 @@ title: "Section 152411 - Authorization of appropriations"
 usc_title: 36
 usc_section: "152411"
 chapter: 1524
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 152411"
-generated_at: "2026-03-30T05:28:35.320Z"
+generated_at: "2026-03-30T05:30:45.619Z"
 status: "active"
 ---
 

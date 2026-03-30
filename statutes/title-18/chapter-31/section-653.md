@@ -3,9 +3,9 @@ title: "Section 653 - Disbursing officer misusing public funds"
 usc_title: 18
 usc_section: "653"
 chapter: 31
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "18 U.S.C. § 653"
-generated_at: "2026-03-30T05:27:48.870Z"
+generated_at: "2026-03-30T05:30:00.525Z"
 status: "active"
 ---
 

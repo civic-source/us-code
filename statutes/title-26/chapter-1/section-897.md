@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T05:28:24.367Z"
+generated_at: "2026-03-30T05:30:36.576Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
   - **(4)**
     - **(A)** The term “qualified investment entity” means—
       - **(i)** any real estate investment trust, and
-      - **(ii)** anyregulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection or regulated investment company.
+      - **(ii)** any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection or regulated investment company.
     - **(B)** The term “domestically controlled qualified investment entity” means any qualified investment entity in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.
     - **(C)** The term “foreign ownership percentage” means that percentage of the stock of the qualified investment entity which was held (directly or indirectly) by foreign persons at the time during the testing period during which the direct and indirect ownership of stock by foreign persons was greatest.
     - **(D)** The term “testing period” means whichever of the following periods is the shortest:

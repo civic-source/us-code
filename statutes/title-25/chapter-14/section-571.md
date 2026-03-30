@@ -3,9 +3,9 @@ title: "Section 571 - Membership roll; preparation"
 usc_title: 25
 usc_section: "571"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 571"
-generated_at: "2026-03-30T05:28:08.098Z"
+generated_at: "2026-03-30T05:30:15.981Z"
 status: "active"
 ---
 

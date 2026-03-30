@@ -3,9 +3,9 @@ title: "Section 1901 - Congressional findings"
 usc_title: 25
 usc_section: "1901"
 chapter: 21
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1901"
-generated_at: "2026-03-30T05:28:08.140Z"
+generated_at: "2026-03-30T05:30:16.025Z"
 status: "active"
 ---
 

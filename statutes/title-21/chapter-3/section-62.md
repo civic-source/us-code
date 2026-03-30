@@ -3,9 +3,9 @@ title: "Section 62 - Manufacture, shipment, or delivery for shipment in intersta
 usc_title: 21
 usc_section: "62"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "21 U.S.C. § 62"
-generated_at: "2026-03-30T05:28:12.042Z"
+generated_at: "2026-03-30T05:30:16.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4404 - Exchange of vessels"
 usc_title: 50
 usc_section: "4404"
 chapter: 54
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "50 U.S.C. § 4404"
-generated_at: "2026-03-30T05:29:08.268Z"
+generated_at: "2026-03-30T05:31:19.543Z"
 status: "active"
 ---
 

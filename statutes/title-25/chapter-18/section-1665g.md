@@ -3,9 +3,9 @@ title: "Section 1665g - Indian youth program"
 usc_title: 25
 usc_section: "1665g"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1665g"
-generated_at: "2026-03-30T05:28:08.129Z"
+generated_at: "2026-03-30T05:30:16.013Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321f - Nuclear incident response"
 usc_title: 6
 usc_section: "321f"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "6 U.S.C. § 321f"
-generated_at: "2026-03-30T05:27:04.961Z"
+generated_at: "2026-03-30T05:29:42.944Z"
 status: "active"
 ---
 

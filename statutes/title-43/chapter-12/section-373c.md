@@ -3,9 +3,9 @@ title: "Section 373c - Definitions"
 usc_title: 43
 usc_section: "373c"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 373c"
-generated_at: "2026-03-30T05:28:40.094Z"
+generated_at: "2026-03-30T05:30:49.415Z"
 status: "active"
 ---
 

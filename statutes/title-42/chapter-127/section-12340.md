@@ -3,9 +3,9 @@ title: "Section 12340 - Authorization of appropriation and allotment"
 usc_title: 42
 usc_section: "12340"
 chapter: 127
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 12340"
-generated_at: "2026-03-30T05:29:03.783Z"
+generated_at: "2026-03-30T05:31:13.597Z"
 status: "active"
 ---
 

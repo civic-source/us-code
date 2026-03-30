@@ -3,9 +3,9 @@ title: "Section 120 - Federal share payable"
 usc_title: 23
 usc_section: "120"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "23 U.S.C. § 120"
-generated_at: "2026-03-30T05:28:03.146Z"
+generated_at: "2026-03-30T05:30:14.922Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(3)**
     - **(A)** Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), (5)(D), or (6) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
       - **(i)** contains innovative project delivery methods that improve work zone safety for motorists or workers and the quality of the facility;
-      - **(ii)** contains innovative technologies, engineering or design approaches, manufacturing processes, financing, or contracting methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
+      - **(ii)** contains innovative technologies, engineering or design approaches, manufacturing processes, financing, or contracting or project delivery methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
       - **(iii)** accelerates project delivery while complying with other applicable Federal laws (including regulations) and not causing any significant adverse environmental impact; or
       - **(iv)** reduces congestion related to highway construction.
     - **(B)** Projects, programs, and activities described in subparagraph (A) may include the use of—

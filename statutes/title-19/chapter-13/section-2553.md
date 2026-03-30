@@ -3,9 +3,9 @@ title: "Section 2553 - Action after receipt of representations"
 usc_title: 19
 usc_section: "2553"
 chapter: 13
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "19 U.S.C. § 2553"
-generated_at: "2026-03-30T05:27:51.456Z"
+generated_at: "2026-03-30T05:30:12.377Z"
 status: "active"
 ---
 

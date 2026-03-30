@@ -3,9 +3,9 @@ title: "Section 4306 - Required terms in orders"
 usc_title: 7
 usc_section: "4306"
 chapter: 74
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 4306"
-generated_at: "2026-03-30T05:27:18.353Z"
+generated_at: "2026-03-30T05:29:46.157Z"
 status: "active"
 ---
 

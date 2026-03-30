@@ -1,0 +1,23 @@
+---
+title: "Section 2148 - Required reports"
+usc_title: 48
+usc_section: "2148"
+chapter: 20
+current_through: "PL 114-189"
+classification: "48 U.S.C. § 2148"
+generated_at: "2026-03-30T05:31:17.335Z"
+status: "active"
+---
+
+# § 2148. Required reports
+
+- **(a)** Not later than 30 days after the last day of each fiscal year, the Oversight Board shall submit a report to the President, Congress, the Governor and the Legislature, describing—
+  - **(1)** the progress made by the territorial government in meeting the objectives of this chapter during the fiscal year;
+  - **(2)** the assistance provided by the Oversight Board to the territorial government in meeting the purposes of this chapter during the fiscal year;
+  - **(3)** recommendations to the President and Congress on changes to this chapter or other Federal laws, or other actions of the Federal Government, that would assist the territorial government in complying with any certified Fiscal Plan;
+  - **(4)** the precise manner in which funds allocated to the Oversight Board under section 2127 of this title and, as applicable, section 2124(e) of this title have been spent by the Oversight Board during the fiscal year; and
+  - **(5)** any other activities of the Oversight Board during the fiscal year.
+- **(b)** Within six months of the establishment of the Oversight Board, the Governor shall submit a report to the Oversight Board documenting all existing discretionary tax abatement or similar tax relief agreements to which the territorial government, or any territorial instrumentality, is a party, provided that—
+  - **(1)** nothing in this chapter shall be interpreted to limit the power of the territorial government or any territorial instrumentality to execute or modify discretionary tax abatement or similar tax relief agreements, or to enforce compliance with the terms and conditions of any discretionary tax abatement or similar tax relief agreement, to which the territorial government or any territorial instrumentality is a party; and
+  - **(2)** the members and staff of the Oversight Board shall not disclose the contents of the report described in this subsection, and shall otherwise comply with all applicable territorial and Federal laws and regulations regarding the handling of confidential taxpayer information.
+- **(c)** The Oversight Board, when feasible, shall report on the amount of cash flow available for the payment of debt service on all notes, bonds, debentures, credit agreements, or other instruments for money borrowed whose enforcement is subject to a stay or moratorium hereunder, together with any variance from the amount set forth in the debt sustainability analysis of the Fiscal Plan under section 2141(b)(1)(I) of this title .

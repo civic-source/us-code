@@ -3,9 +3,9 @@ title: "Section 5027 - Multiyear grants or contracts"
 usc_title: 42
 usc_section: "5027"
 chapter: 66
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 5027"
-generated_at: "2026-03-30T05:29:03.612Z"
+generated_at: "2026-03-30T05:31:13.339Z"
 status: "active"
 ---
 

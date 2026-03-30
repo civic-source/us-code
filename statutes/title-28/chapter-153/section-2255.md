@@ -3,9 +3,9 @@ title: "Section 2255 - Federal custody; remedies on motion attacking sentence"
 usc_title: 28
 usc_section: "2255"
 chapter: 153
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "28 U.S.C. § 2255"
-generated_at: "2026-03-30T05:28:15.953Z"
+generated_at: "2026-03-30T05:30:23.665Z"
 status: "active"
 ---
 

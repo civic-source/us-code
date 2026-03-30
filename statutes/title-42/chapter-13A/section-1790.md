@@ -3,9 +3,9 @@ title: "Section 1790 - Breastfeeding promotion program"
 usc_title: 42
 usc_section: "1790"
 chapter: 13
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 1790"
-generated_at: "2026-03-30T05:29:03.525Z"
+generated_at: "2026-03-30T05:31:13.204Z"
 status: "active"
 ---
 

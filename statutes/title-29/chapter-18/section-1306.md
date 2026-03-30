@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T05:28:16.814Z"
+generated_at: "2026-03-30T05:30:22.109Z"
 status: "active"
 ---
 
@@ -148,7 +148,7 @@ status: "active"
       - **(iii)** 2013, in the case of plan years beginning after calendar year 2015; and
       - **(iv)** 2014, in the case of plan years beginning after calendar year 2016.
 - **(b)**
-  - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
+  - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
   - **(2)** The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
   - **(3)** For the purpose of the succeeding paragraphs of this subsection, “resolution” means only a joint resolution, the matter after the resolving clause of which is as follows: “The proposed revised schedule transmitted to Congress by the Pension Benefit Guaranty Corporation on __ is hereby approved.”, the blank space therein being filled with the date on which the corporation’s message proposing the rate was delivered.
   - **(4)** A resolution shall be referred to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
@@ -156,7 +156,7 @@ status: "active"
   - **(6)** When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
   - **(7)** Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 - **(c)**
-  - **(1)** Except as provided in subsection (a)(3) of this section, and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974 , is—
+  - **(1)** Except as provided in subsection (a)(3), and subject to paragraph (2), the rate for all plans for basic benefits guaranteed under this subchapter with respect to plan years ending after September 2, 1974 , is—
     - **(A)** in the case of each plan which was not a multiemployer plan in a plan year—
       - **(i)** with respect to each plan year beginning before January 1, 1978 , an amount equal to $1 for each individual who was a participant in such plan during the plan year,
       - **(ii)** with respect to each plan year beginning after December 31, 1977 , and before January 1, 1986 , an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and 4 4 So in original. The word “and” probably should not appear.

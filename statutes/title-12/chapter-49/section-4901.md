@@ -3,9 +3,9 @@ title: "Section 4901 - Definitions"
 usc_title: 12
 usc_section: "4901"
 chapter: 49
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 4901"
-generated_at: "2026-03-30T05:27:35.986Z"
+generated_at: "2026-03-30T05:29:55.064Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 683 - Payments not “other income and resources”"
 usc_title: 25
 usc_section: "683"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 683"
-generated_at: "2026-03-30T05:28:08.104Z"
+generated_at: "2026-03-30T05:30:15.988Z"
 status: "active"
 ---
 

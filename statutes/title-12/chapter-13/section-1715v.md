@@ -3,9 +3,9 @@ title: "Section 1715v - Insurance of mortgages for housing for elderly persons"
 usc_title: 12
 usc_section: "1715v"
 chapter: 13
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 1715v"
-generated_at: "2026-03-30T05:27:35.903Z"
+generated_at: "2026-03-30T05:29:54.974Z"
 status: "active"
 ---
 

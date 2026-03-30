@@ -3,9 +3,9 @@ title: "Section 1472 - Deep Seabed Revenue Sharing Trust Fund; establishment"
 usc_title: 30
 usc_section: "1472"
 chapter: 26
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "30 U.S.C. § 1472"
-generated_at: "2026-03-30T05:28:15.009Z"
+generated_at: "2026-03-30T05:30:26.578Z"
 status: "active"
 ---
 

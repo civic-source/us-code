@@ -3,9 +3,9 @@ title: "Section 443c - Emergency plan for Indian safety and health"
 usc_title: 25
 usc_section: "443c"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 443c"
-generated_at: "2026-03-30T05:28:08.088Z"
+generated_at: "2026-03-30T05:30:15.971Z"
 status: "active"
 ---
 

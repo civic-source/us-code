@@ -3,9 +3,9 @@ title: "Section 573 - Repealed. Apr. 24, 1950, ch. 97 , § 17(a), 64 Stat. 87"
 usc_title: 16
 usc_section: "573"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 573"
-generated_at: "2026-03-30T05:27:58.181Z"
+generated_at: "2026-03-30T05:30:04.462Z"
 status: "repealed"
 ---
 

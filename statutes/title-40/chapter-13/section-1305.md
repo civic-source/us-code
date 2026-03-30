@@ -3,9 +3,9 @@ title: "Section 1305 - Disposition of land acquired by devise"
 usc_title: 40
 usc_section: "1305"
 chapter: 13
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "40 U.S.C. § 1305"
-generated_at: "2026-03-30T05:28:34.705Z"
+generated_at: "2026-03-30T05:30:44.900Z"
 status: "active"
 ---
 

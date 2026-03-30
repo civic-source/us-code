@@ -3,9 +3,9 @@ title: "Section 7811 - Taxpayer Assistance Orders"
 usc_title: 26
 usc_section: "7811"
 chapter: 80
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 7811"
-generated_at: "2026-03-30T05:28:24.487Z"
+generated_at: "2026-03-30T05:30:36.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8886 - Repealed. Pub. L. 96–513, title II , § 216, Dec. 12, 1
 usc_title: 10
 usc_section: "8886"
 chapter: 865
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 8886"
-generated_at: "2026-03-30T05:27:29.543Z"
+generated_at: "2026-03-30T05:29:50.168Z"
 status: "repealed"
 ---
 

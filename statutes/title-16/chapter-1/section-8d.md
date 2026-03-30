@@ -3,9 +3,9 @@ title: "Section 8d - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "8d"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 8d"
-generated_at: "2026-03-30T05:27:58.079Z"
+generated_at: "2026-03-30T05:30:04.362Z"
 status: "repealed"
 ---
 

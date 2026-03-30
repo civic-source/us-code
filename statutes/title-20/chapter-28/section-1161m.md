@@ -3,9 +3,9 @@ title: "Section 1161m - Incentives and rewards for low tuition"
 usc_title: 20
 usc_section: "1161m"
 chapter: 28
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 1161m"
-generated_at: "2026-03-30T05:27:59.999Z"
+generated_at: "2026-03-30T05:30:08.541Z"
 status: "active"
 ---
 

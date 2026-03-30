@@ -3,9 +3,9 @@ title: "Section 5572 - Repealed. Pub. L. 96–513, title III , § 321, Dec. 12, 
 usc_title: 10
 usc_section: "5572"
 chapter: 539
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 5572"
-generated_at: "2026-03-30T05:27:29.531Z"
+generated_at: "2026-03-30T05:29:50.155Z"
 status: "repealed"
 ---
 

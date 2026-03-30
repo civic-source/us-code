@@ -3,9 +3,9 @@ title: "Section 33 - Superintendents in charge of reservations; administration o
 usc_title: 25
 usc_section: "33"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 33"
-generated_at: "2026-03-30T05:28:08.077Z"
+generated_at: "2026-03-30T05:30:15.961Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 499k - Injunctions; application of injunction laws governing ord
 usc_title: 7
 usc_section: "499k"
 chapter: 20
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 499k"
-generated_at: "2026-03-30T05:27:18.268Z"
+generated_at: "2026-03-30T05:29:46.071Z"
 status: "active"
 ---
 

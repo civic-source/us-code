@@ -3,9 +3,9 @@ title: "Section 295 - Placement of positions in compensation schedules"
 usc_title: 2
 usc_section: "295"
 chapter: 10
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 295"
-generated_at: "2026-03-30T05:26:44.556Z"
+generated_at: "2026-03-30T05:29:39.386Z"
 status: "active"
 ---
 

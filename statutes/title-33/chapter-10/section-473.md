@@ -3,9 +3,9 @@ title: "Section 473 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 33
 usc_section: "473"
 chapter: 10
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "33 U.S.C. § 473"
-generated_at: "2026-03-30T05:28:31.535Z"
+generated_at: "2026-03-30T05:30:42.860Z"
 status: "repealed"
 ---
 

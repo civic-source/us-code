@@ -3,9 +3,9 @@ title: "Section 135 - Statewide and nonmetropolitan transportation planning"
 usc_title: 23
 usc_section: "135"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "23 U.S.C. § 135"
-generated_at: "2026-03-30T05:28:03.150Z"
+generated_at: "2026-03-30T05:30:14.925Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** Subject to section 134, to accomplish the objectives stated in section 134(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State.
-  - **(2)** The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways , bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+  - **(2)** The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
   - **(3)** The process for developing the statewide plan and the transportation improvement program shall provide for consideration of all modes of transportation and the policies stated in section 134(a) and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems to be addressed.
 - **(b)** A State shall—
   - **(1)** coordinate planning carried out under this section with the transportation planning activities carried out under section 134 for metropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and

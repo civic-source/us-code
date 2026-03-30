@@ -3,16 +3,16 @@ title: "Section 2613 - Certification"
 usc_title: 29
 usc_section: "2613"
 chapter: 28
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 2613"
-generated_at: "2026-03-30T05:28:16.825Z"
+generated_at: "2026-03-30T05:30:22.121Z"
 status: "active"
 ---
 
 # § 2613. Certification
 
 - **(a)** An employer may require that a request for leave under subparagraph (C) or (D) of paragraph (1) or paragraph (3) of section 2612(a) of this title be supported by a certification issued by the health care provider of the eligible employee or of the son, daughter, spouse, or parent of the employee, or of the next of kin of an individual in the case of leave taken under such paragraph (3), as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employer.
-- **(b)** Certification provided under subsection (a) of this section shall be sufficient if it states—
+- **(b)** Certification provided under subsection (a) shall be sufficient if it states—
   - **(1)** the date on which the serious health condition commenced;
   - **(2)** the probable duration of the condition;
   - **(3)** the appropriate medical facts within the knowledge of the health care provider regarding the condition;
@@ -23,10 +23,10 @@ status: "active"
   - **(6)** in the case of certification for intermittent leave, or leave on a reduced leave schedule, under section 2612(a)(1)(D) of this title , a statement of the medical necessity for the intermittent leave or leave on a reduced leave schedule, and the expected duration of the intermittent leave or reduced leave schedule; and
   - **(7)** in the case of certification for intermittent leave, or leave on a reduced leave schedule, under section 2612(a)(1)(C) of this title , a statement that the employee’s intermittent leave or leave on a reduced leave schedule is necessary for the care of the son, daughter, parent, or spouse who has a serious health condition, or will assist in their recovery, and the expected duration and schedule of the intermittent leave or reduced leave schedule.
 - **(c)**
-  - **(1)** In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) of this section for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title , the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) of this section for such leave.
+  - **(1)** In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title , the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
   - **(2)** A health care provider designated or approved under paragraph (1) shall not be employed on a regular basis by the employer.
 - **(d)**
-  - **(1)** In any case in which the second opinion described in subsection (c) of this section differs from the opinion in the original certification provided under subsection (a) of this section, the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b) of this section.
-  - **(2)** The opinion of the third health care provider concerning the information certified under subsection (b) of this section shall be considered to be final and shall be binding on the employer and the employee.
+  - **(1)** In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided under subsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
+  - **(2)** The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employer and the employee.
 - **(e)** The employer may require that the eligible employee obtain subsequent recertifications on a reasonable basis.
 - **(f)** An employer may require that a request for leave under section 2612(a)(1)(E) of this title be supported by a certification issued at such time and in such manner as the Secretary may by regulation prescribe. If the Secretary issues a regulation requiring such certification, the employee shall provide, in a timely manner, a copy of such certification to the employer.

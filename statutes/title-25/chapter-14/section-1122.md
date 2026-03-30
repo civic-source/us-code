@@ -3,9 +3,9 @@ title: "Section 1122 - Payment and distribution of judgment funds"
 usc_title: 25
 usc_section: "1122"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1122"
-generated_at: "2026-03-30T05:28:08.114Z"
+generated_at: "2026-03-30T05:30:15.997Z"
 status: "active"
 ---
 

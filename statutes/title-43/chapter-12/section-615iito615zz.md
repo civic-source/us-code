@@ -3,9 +3,9 @@ title: "Section 615iito615zz - Omitted"
 usc_title: 43
 usc_section: "615iito615zz"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 615iito615zz"
-generated_at: "2026-03-30T05:28:40.104Z"
+generated_at: "2026-03-30T05:30:49.427Z"
 status: "omitted"
 ---
 

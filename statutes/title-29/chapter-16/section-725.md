@@ -3,9 +3,9 @@ title: "Section 725 - State Rehabilitation Council"
 usc_title: 29
 usc_section: "725"
 chapter: 16
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 725"
-generated_at: "2026-03-30T05:28:16.785Z"
+generated_at: "2026-03-30T05:30:22.081Z"
 status: "active"
 ---
 
@@ -94,5 +94,5 @@ status: "active"
   - **(4)** While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State unit or any other agency or office of the State, that would create a conflict of interest.
 - **(e)** No member of the Council shall cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest under State law.
 - **(f)** The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
-- **(g)** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C of this subchapter) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
+- **(g)** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
 - **(h)** The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.

@@ -3,9 +3,9 @@ title: "Section 311 - Militia: composition and classes"
 usc_title: 10
 usc_section: "311"
 chapter: 13
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 311"
-generated_at: "2026-03-30T05:27:29.437Z"
+generated_at: "2026-03-30T05:29:50.054Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 350j - Targeting of inspection resources for domestic facilities
 usc_title: 21
 usc_section: "350j"
 chapter: 9
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "21 U.S.C. § 350j"
-generated_at: "2026-03-30T05:28:12.052Z"
+generated_at: "2026-03-30T05:30:16.978Z"
 status: "active"
 ---
 

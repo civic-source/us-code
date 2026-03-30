@@ -3,9 +3,9 @@ title: "Section 1361 - S corporation defined"
 usc_title: 26
 usc_section: "1361"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 1361"
-generated_at: "2026-03-30T05:28:24.389Z"
+generated_at: "2026-03-30T05:30:36.599Z"
 status: "active"
 ---
 

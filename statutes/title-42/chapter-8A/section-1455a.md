@@ -3,9 +3,9 @@ title: "Section 1455a - Repealed. Pub. L. 93–383, title II , § 204, Aug. 22, 
 usc_title: 42
 usc_section: "1455a"
 chapter: 8
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 1455a"
-generated_at: "2026-03-30T05:29:03.503Z"
+generated_at: "2026-03-30T05:31:13.168Z"
 status: "repealed"
 ---
 

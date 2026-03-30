@@ -3,9 +3,9 @@ title: "Section 5588 - Repealed. Pub. L. 87–123 , § 5(8), Aug. 3, 1961 , 75 S
 usc_title: 10
 usc_section: "5588"
 chapter: 539
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 5588"
-generated_at: "2026-03-30T05:27:29.531Z"
+generated_at: "2026-03-30T05:29:50.155Z"
 status: "repealed"
 ---
 

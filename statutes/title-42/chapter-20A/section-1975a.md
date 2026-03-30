@@ -3,9 +3,9 @@ title: "Section 1975a - Duties of Commission"
 usc_title: 42
 usc_section: "1975a"
 chapter: 20
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 1975a"
-generated_at: "2026-03-30T05:29:03.535Z"
+generated_at: "2026-03-30T05:31:13.219Z"
 status: "active"
 ---
 

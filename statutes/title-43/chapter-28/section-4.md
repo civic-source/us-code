@@ -3,9 +3,9 @@ title: "Section 4 - Amount available for administration of Coos Bay Wagon Road g
 usc_title: 43
 usc_section: "4"
 chapter: 28
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T05:28:40.114Z"
+generated_at: "2026-03-30T05:30:49.439Z"
 status: "active"
 ---
 

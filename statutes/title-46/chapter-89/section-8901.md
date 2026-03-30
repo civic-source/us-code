@@ -3,9 +3,9 @@ title: "Section 8901 - Freight vessels"
 usc_title: 46
 usc_section: "8901"
 chapter: 89
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "46 U.S.C. § 8901"
-generated_at: "2026-03-30T05:29:07.257Z"
+generated_at: "2026-03-30T05:31:18.163Z"
 status: "active"
 ---
 

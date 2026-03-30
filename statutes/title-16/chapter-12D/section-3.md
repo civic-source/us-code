@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 87–728 , § 3, Oct. 1, 1962 , 76 Stat. 6
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T05:27:58.215Z"
+generated_at: "2026-03-30T05:30:04.494Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 923 - Notice"
 usc_title: 11
 usc_section: "923"
 chapter: 9
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "11 U.S.C. § 923"
-generated_at: "2026-03-30T05:27:38.393Z"
+generated_at: "2026-03-30T05:29:52.468Z"
 status: "active"
 ---
 

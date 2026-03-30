@@ -3,9 +3,9 @@ title: "Section 8451 - National coal policy study"
 usc_title: 42
 usc_section: "8451"
 chapter: 92
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 8451"
-generated_at: "2026-03-30T05:29:03.721Z"
+generated_at: "2026-03-30T05:31:13.502Z"
 status: "active"
 ---
 

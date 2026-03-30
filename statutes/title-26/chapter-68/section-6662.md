@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-30T05:28:24.467Z"
+generated_at: "2026-03-30T05:30:36.687Z"
 status: "active"
 ---
 

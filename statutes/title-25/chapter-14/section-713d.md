@@ -3,9 +3,9 @@ title: "Section 713d - Tribal constitution and bylaws; tribal governing body"
 usc_title: 25
 usc_section: "713d"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 713d"
-generated_at: "2026-03-30T05:28:08.106Z"
+generated_at: "2026-03-30T05:30:15.989Z"
 status: "active"
 ---
 

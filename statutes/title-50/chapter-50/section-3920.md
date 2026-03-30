@@ -3,9 +3,9 @@ title: "Section 3920 - Legal representatives"
 usc_title: 50
 usc_section: "3920"
 chapter: 50
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "50 U.S.C. § 3920"
-generated_at: "2026-03-30T05:29:08.259Z"
+generated_at: "2026-03-30T05:31:19.532Z"
 status: "active"
 ---
 

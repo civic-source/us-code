@@ -3,9 +3,9 @@ title: "Section 6005 - Sanctions"
 usc_title: 22
 usc_section: "6005"
 chapter: 69
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 6005"
-generated_at: "2026-03-30T05:28:05.563Z"
+generated_at: "2026-03-30T05:30:18.805Z"
 status: "active"
 ---
 

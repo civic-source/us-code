@@ -3,9 +3,9 @@ title: "Section 1426 - Insolvent plans"
 usc_title: 29
 usc_section: "1426"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1426"
-generated_at: "2026-03-30T05:28:16.821Z"
+generated_at: "2026-03-30T05:30:22.116Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** Notwithstanding sections 1053 and 1054 of this title, in any case in which benefit payments under an insolvent multiemployer plan exceed the resource benefit level, any such payments of benefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation under section 1322a(g)(5) of this title .
 - **(b)** For purposes of this section, for a plan year—
-  - **(1)** a multiemployer plan is insolvent if the plan’s available resources are not sufficient to pay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d) of this section;
-  - **(2)** “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) of this section to be the highest level which can be paid out of the plan’s available resources;
+  - **(1)** a multiemployer plan is insolvent if the plan’s available resources are not sufficient to pay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d);
+  - **(2)** “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan’s available resources;
   - **(3)** “available resources” means the plan’s cash, marketable assets, contributions, withdrawal liability payments, and earnings, less reasonable administrative expenses and amounts owed for such plan year to the corporation under section 1431(b)(2) of this title ; and
   - **(4)** “insolvency year” means a plan year in which a plan is insolvent.
 - **(c)**
@@ -44,7 +44,7 @@ status: "active"
   - **(3)** The plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
   - **(4)** For purposes of this subsection, the value of plan assets shall be the value of the available plan assets determined under regulations prescribed by the Secretary of the Treasury.
 - **(e)**
-  - **(1)** If the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, determines under subsection (d)(1) or (2) of this section that the plan may become insolvent (within the meaning of subsection (b)(1) of this section), the plan sponsor shall—
+  - **(1)** If the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
     - **(A)** notify the Secretary of the Treasury, 3 3 So in original. The comma probably should be “and”. the parties described in section 1021(f)(1) of this title of that determination, and
     - **(B)** inform the parties described in section 1021(f)(1) of this title that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
   - **(2)** No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in critical status, as described in subsection 1 1085(b)(2) of this title, shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.

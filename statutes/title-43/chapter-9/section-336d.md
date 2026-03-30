@@ -3,9 +3,9 @@ title: "Section 336d - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 
 usc_title: 43
 usc_section: "336d"
 chapter: 9
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 336d"
-generated_at: "2026-03-30T05:28:40.093Z"
+generated_at: "2026-03-30T05:30:49.415Z"
 status: "repealed"
 ---
 

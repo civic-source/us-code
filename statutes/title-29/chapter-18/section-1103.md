@@ -3,15 +3,15 @@ title: "Section 1103 - Establishment of trust"
 usc_title: 29
 usc_section: "1103"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1103"
-generated_at: "2026-03-30T05:28:16.806Z"
+generated_at: "2026-03-30T05:30:22.101Z"
 status: "active"
 ---
 
 # § 1103. Establishment of trust
 
-- **(a)** Except as provided in subsection (b) of this section, all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either named in the trust instrument or in the plan instrument described in section 1102(a) of this title or appointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that—
+- **(a)** Except as provided in subsection (b), all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either named in the trust instrument or in the plan instrument described in section 1102(a) of this title or appointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that—
   - **(1)** the plan expressly provides that the trustee or trustees are subject to the direction of a named fiduciary who is not a trustee, in which case the trustees shall be subject to proper directions of such fiduciary which are made in accordance with the terms of the plan and which are not contrary to this chapter, or
   - **(2)** authority to manage, acquire, or dispose of assets of the plan is delegated to one or more investment managers pursuant to section 1102(c)(3) of this title .
 - **(b)** The requirements of subsection (a) of this section shall not apply—
@@ -20,14 +20,14 @@ status: "active"
   - **(3)** to a plan—
     - **(A)** some or all of the participants of which are employees described in section 401(c)(1) of title 26 ; or
     - **(B)** which consists of one or more individual retirement accounts described in section 408 of title 26 ;
-  - **(4)** to a plan which the Secretary exempts from the requirement of subsection (a) of this section and which is not subject to any of the following provisions of this chapter—
+  - **(4)** to a plan which the Secretary exempts from the requirement of subsection (a) and which is not subject to any of the following provisions of this chapter—
     - **(A)** part 2 of this subtitle,
     - **(B)** part 3 of this subtitle, or
     - **(C)** subchapter III of this chapter; or
   - **(5)** to a contract established and maintained under section 403(b) of title 26 to the extent that the assets of the contract are held in one or more custodial accounts pursuant to section 403(b)(7) of title 26 .
   - **(6)** Any plan, fund or program under which an employer, all of whose stock is directly or indirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
 - **(c)**
-  - **(1)** Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on July 31, 2015 ), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+  - **(1)** Except as provided in paragraph (2), (3), or (4) or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on July 31, 2015 ), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
   - **(2)**
     - **(A)** In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III—
       - **(i)** if such contribution or payment is made by an employer to a plan (other than a multiemployer plan) by a mistake of fact, paragraph (1) shall not prohibit the return of such contribution to the employer within one year after the payment of the contribution, and

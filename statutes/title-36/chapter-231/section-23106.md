@@ -3,9 +3,9 @@ title: "Section 23106 - Restrictions"
 usc_title: 36
 usc_section: "23106"
 chapter: 231
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 23106"
-generated_at: "2026-03-30T05:28:35.311Z"
+generated_at: "2026-03-30T05:30:45.610Z"
 status: "active"
 ---
 

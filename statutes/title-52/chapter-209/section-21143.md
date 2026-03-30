@@ -3,9 +3,9 @@ title: "Section 21143 - Review and report on adequacy of existing electoral frau
 usc_title: 52
 usc_section: "21143"
 chapter: 209
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "52 U.S.C. § 21143"
-generated_at: "2026-03-30T05:29:23.475Z"
+generated_at: "2026-03-30T05:31:30.523Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 136 - Repealed. Pub. L. 85–56, title XXII, § 2202(1) , (85), June 17, 1957 , 71 Stat. 162 , 165"
+title: "Section 136 - Repealed. Pub. L. 85–56, title XXII , § 2202(1), (85), June 17, 1957 , 71 Stat. 162 , 165"
 usc_title: 24
 usc_section: "136"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "24 U.S.C. § 136"
-generated_at: "2026-03-30T05:28:02.141Z"
+generated_at: "2026-03-30T05:30:14.563Z"
 status: "repealed"
 ---
 
-# § 136. Repealed. Pub. L. 85–56, title XXII, § 2202(1) , (85), June 17, 1957 , 71 Stat. 162 , 165
+# § 136. Repealed. Pub. L. 85–56, title XXII , § 2202(1), (85), June 17, 1957 , 71 Stat. 162 , 165
 

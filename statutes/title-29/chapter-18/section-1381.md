@@ -3,16 +3,16 @@ title: "Section 1381 - Withdrawal liability established; criteria and definition
 usc_title: 29
 usc_section: "1381"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1381"
-generated_at: "2026-03-30T05:28:16.818Z"
+generated_at: "2026-03-30T05:30:22.114Z"
 status: "active"
 ---
 
 # § 1381. Withdrawal liability established; criteria and definitions
 
 - **(a)** If an employer withdraws from a multiemployer plan in a complete withdrawal or a partial withdrawal, then the employer is liable to the plan in the amount determined under this part to be the withdrawal liability.
-- **(b)** For purposes of subsection (a) of this section—
+- **(b)** For purposes of subsection (a)—
   - **(1)** The withdrawal liability of an employer to a plan is the amount determined under section 1391 of this title to be the allocable amount of unfunded vested benefits, adjusted—
     - **(A)** first, by any de minimis reduction applicable under section 1389 of this title ,
     - **(B)** next, in the case of a partial withdrawal, in accordance with section 1386 of this title ,

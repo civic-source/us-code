@@ -3,9 +3,9 @@ title: "Section 3174 - Operation of public utility communications services servi
 usc_title: 40
 usc_section: "3174"
 chapter: 31
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "40 U.S.C. § 3174"
-generated_at: "2026-03-30T05:28:34.706Z"
+generated_at: "2026-03-30T05:30:44.901Z"
 status: "active"
 ---
 

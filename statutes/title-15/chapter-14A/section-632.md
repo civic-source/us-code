@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T05:27:43.753Z"
+generated_at: "2026-03-30T05:29:57.058Z"
 status: "active"
 ---
 
@@ -141,9 +141,13 @@ status: "active"
       - **(ii)** wholly owned by 1 or more small agricultural cooperatives organized or incorporated in the United States; or
       - **(iii)** owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all owners are small business concerns or United States citizens.
   - **(4)**
-    - **(A)** The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii) 2 2 See References in Text note below. of title 26.
+    - **(A)**
+      - **(i)** The term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 .
+      - **(ii)** For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section, except that this clause shall only apply—
+        - **(I)** 10 years after the date that the Administrator implements this clause, or
+        - **(II)** the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
     - **(B)** The term “qualified nonmetropolitan county” means any county—
-      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 2 of title 26; and
+      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 2 2 See References in Text note below. of title 26; and
       - **(ii)** in which—
         - **(I)** the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
         - **(II)** the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or

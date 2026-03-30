@@ -3,9 +3,9 @@ title: "Section 1861 - Deception of prospective purchasers"
 usc_title: 18
 usc_section: "1861"
 chapter: 91
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "18 U.S.C. § 1861"
-generated_at: "2026-03-30T05:27:48.889Z"
+generated_at: "2026-03-30T05:30:00.543Z"
 status: "active"
 ---
 

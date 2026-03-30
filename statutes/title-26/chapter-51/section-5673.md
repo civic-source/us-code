@@ -3,9 +3,9 @@ title: "Section 5673 - Forfeiture for flagrant and willful removal of beer witho
 usc_title: 26
 usc_section: "5673"
 chapter: 51
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 5673"
-generated_at: "2026-03-30T05:28:24.438Z"
+generated_at: "2026-03-30T05:30:36.651Z"
 status: "active"
 ---
 

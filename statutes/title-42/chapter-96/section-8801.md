@@ -3,9 +3,9 @@ title: "Section 8801 - Congressional findings"
 usc_title: 42
 usc_section: "8801"
 chapter: 96
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 8801"
-generated_at: "2026-03-30T05:29:03.724Z"
+generated_at: "2026-03-30T05:31:13.507Z"
 status: "active"
 ---
 

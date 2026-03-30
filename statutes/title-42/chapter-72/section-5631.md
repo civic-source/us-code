@@ -3,9 +3,9 @@ title: "Section 5631 - Authority to make grants and contracts"
 usc_title: 42
 usc_section: "5631"
 chapter: 72
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 5631"
-generated_at: "2026-03-30T05:29:03.630Z"
+generated_at: "2026-03-30T05:31:13.367Z"
 status: "active"
 ---
 

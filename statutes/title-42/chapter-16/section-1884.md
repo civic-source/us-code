@@ -3,9 +3,9 @@ title: "Section 1884 - Repealed. Pub. L. 99–159, title I , § 109(h), Nov. 22,
 usc_title: 42
 usc_section: "1884"
 chapter: 16
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 1884"
-generated_at: "2026-03-30T05:29:03.531Z"
+generated_at: "2026-03-30T05:31:13.213Z"
 status: "repealed"
 ---
 

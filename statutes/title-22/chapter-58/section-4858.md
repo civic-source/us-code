@@ -3,9 +3,9 @@ title: "Section 4858 - Training to improve perimeter security at United States d
 usc_title: 22
 usc_section: "4858"
 chapter: 58
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 4858"
-generated_at: "2026-03-30T05:28:05.556Z"
+generated_at: "2026-03-30T05:30:18.798Z"
 status: "active"
 ---
 

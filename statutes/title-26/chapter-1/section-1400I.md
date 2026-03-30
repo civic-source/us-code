@@ -3,9 +3,9 @@ title: "Section 1400I - Commercial revitalization deduction"
 usc_title: 26
 usc_section: "1400I"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 1400I"
-generated_at: "2026-03-30T05:28:24.394Z"
+generated_at: "2026-03-30T05:30:36.605Z"
 status: "active"
 ---
 

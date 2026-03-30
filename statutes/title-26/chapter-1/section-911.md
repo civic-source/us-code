@@ -3,9 +3,9 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-03-30T05:28:24.370Z"
+generated_at: "2026-03-30T05:30:36.579Z"
 status: "active"
 ---
 
@@ -88,7 +88,7 @@ status: "active"
       - **(ii)** the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
       - **(iii)** an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
     - **(B)** For purposes of this paragraph, regulations are described in this subparagraph if such regulations—
-      - **(i)** have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), or the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), 1 1 See References in Text note below. and
+      - **(i)** have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), 1 1 See References in Text note below. or the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), and
       - **(ii)** include provisions generally prohibiting citizens and residents of the United States from engaging in transactions related to travel to, from, or within a foreign country.
     - **(C)** Subparagraph (A) shall not apply to any individual during any period in which such individual’s activities are not in violation of the regulations described in subparagraph (B).
   - **(9)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing rules—

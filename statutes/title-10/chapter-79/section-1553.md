@@ -3,9 +3,9 @@ title: "Section 1553 - Review of discharge or dismissal"
 usc_title: 10
 usc_section: "1553"
 chapter: 79
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 1553"
-generated_at: "2026-03-30T05:27:29.476Z"
+generated_at: "2026-03-30T05:29:50.096Z"
 status: "active"
 ---
 

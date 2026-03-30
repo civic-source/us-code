@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T05:27:43.764Z"
+generated_at: "2026-03-30T05:29:57.070Z"
 status: "active"
 ---
 
@@ -270,3 +270,4 @@ status: "active"
   - **(6)** In this subsection, the following definitions apply:
     - **(A)** The terms “Chief Acquisition Officer” and “senior procurement executive” have the meanings given such terms in section 657q(a) of this title .
     - **(B)** The term “bundled or consolidated contract” means a bundled contract (as defined in section 632( o ) of this title) or a contract resulting from the consolidation of contracting requirements (as defined in section 657q(a)(2) of this title ).
+- **(t)** Not later than one year after June 30, 2016 , the Comptroller General of the United States shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the application and utilization of contracting activities of the Administration (including contracting activities relating to HUBZone small business concerns) in Puerto Rico. The report shall also identify any provisions of Federal law that may create an obstacle to the efficient implementation of such contracting activities.

@@ -3,9 +3,9 @@ title: "Section 14001 - Authorization of circuit studies; education and training
 usc_title: 42
 usc_section: "14001"
 chapter: 136
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 14001"
-generated_at: "2026-03-30T05:29:03.821Z"
+generated_at: "2026-03-30T05:31:13.656Z"
 status: "active"
 ---
 

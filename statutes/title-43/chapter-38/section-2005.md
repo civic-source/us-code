@@ -3,9 +3,9 @@ title: "Section 2005 - Review schedule"
 usc_title: 43
 usc_section: "2005"
 chapter: 38
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 2005"
-generated_at: "2026-03-30T05:28:40.136Z"
+generated_at: "2026-03-30T05:30:49.461Z"
 status: "active"
 ---
 

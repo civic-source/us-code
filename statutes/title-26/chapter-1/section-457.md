@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T05:28:24.334Z"
+generated_at: "2026-03-30T05:30:36.540Z"
 status: "active"
 ---
 
@@ -125,7 +125,7 @@ status: "active"
       - **(i)** Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
       - **(ii)** A plan shall not be treated for purposes of this title as providing for the deferral of compensation for any year with respect to the portion of the plan described in subparagraph (A).
     - **(C)** The term “applicable employment retention plan” means an employment retention plan maintained by—
-      - **(i)** a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ), 1 1 So in original. A second closing parenthesis probably should precede the comma. or
+      - **(i)** a local educational agency (as defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ), 2 2 So in original. A second closing parenthesis probably should precede the comma. or
       - **(ii)** an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
     - **(D)** The term “employment retention plan” means a plan to pay, upon termination of employment, compensation to an employee of a local educational agency or education association described in subparagraph (C) for purposes of—
       - **(i)** retaining the services of the employee, or

@@ -3,9 +3,9 @@ title: "Section 4071j - Former spouses"
 usc_title: 22
 usc_section: "4071j"
 chapter: 52
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 4071j"
-generated_at: "2026-03-30T05:28:05.547Z"
+generated_at: "2026-03-30T05:30:18.790Z"
 status: "active"
 ---
 

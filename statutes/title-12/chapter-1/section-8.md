@@ -3,9 +3,9 @@ title: "Section 8 - Clerks"
 usc_title: 12
 usc_section: "8"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T05:27:35.824Z"
+generated_at: "2026-03-30T05:29:54.931Z"
 status: "active"
 ---
 

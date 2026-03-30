@@ -3,9 +3,9 @@ title: "Section 53902 - Authority to provide insurance"
 usc_title: 46
 usc_section: "53902"
 chapter: 539
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "46 U.S.C. § 53902"
-generated_at: "2026-03-30T05:29:07.273Z"
+generated_at: "2026-03-30T05:31:18.183Z"
 status: "active"
 ---
 

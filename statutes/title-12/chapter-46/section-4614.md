@@ -3,9 +3,9 @@ title: "Section 4614 - Capital classifications"
 usc_title: 12
 usc_section: "4614"
 chapter: 46
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 4614"
-generated_at: "2026-03-30T05:27:35.980Z"
+generated_at: "2026-03-30T05:29:55.057Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 44c - Repealed. Pub. L. 101–189, div. A, title III, § 347(4) , Nov. 29, 1989 , 103 Stat. 1422"
+title: "Section 44c - Repealed. Pub. L. 101–189, div. A, title III , § 347(4), Nov. 29, 1989 , 103 Stat. 1422"
 usc_title: 24
 usc_section: "44c"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "24 U.S.C. § 44c"
-generated_at: "2026-03-30T05:28:02.141Z"
+generated_at: "2026-03-30T05:30:14.563Z"
 status: "repealed"
 ---
 
-# § 44c. Repealed. Pub. L. 101–189, div. A, title III, § 347(4) , Nov. 29, 1989 , 103 Stat. 1422
+# § 44c. Repealed. Pub. L. 101–189, div. A, title III , § 347(4), Nov. 29, 1989 , 103 Stat. 1422
 

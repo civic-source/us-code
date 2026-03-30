@@ -3,9 +3,9 @@ title: "Section 6514 - Orientation seminars, etc., for new Senators, Senate offi
 usc_title: 2
 usc_section: "6514"
 chapter: 65
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 6514"
-generated_at: "2026-03-30T05:26:44.591Z"
+generated_at: "2026-03-30T05:29:39.422Z"
 status: "active"
 ---
 

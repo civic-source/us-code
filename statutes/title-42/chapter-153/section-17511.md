@@ -3,9 +3,9 @@ title: "Section 17511 - Technology careers training demonstration grants"
 usc_title: 42
 usc_section: "17511"
 chapter: 153
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 17511"
-generated_at: "2026-03-30T05:29:03.871Z"
+generated_at: "2026-03-30T05:31:13.736Z"
 status: "active"
 ---
 

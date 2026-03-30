@@ -3,9 +3,9 @@ title: "Section 17555 - Authorization of appropriations for research"
 usc_title: 42
 usc_section: "17555"
 chapter: 153
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 17555"
-generated_at: "2026-03-30T05:29:03.872Z"
+generated_at: "2026-03-30T05:31:13.739Z"
 status: "active"
 ---
 

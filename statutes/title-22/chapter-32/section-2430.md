@@ -3,9 +3,9 @@ title: "Section 2430 - Purpose"
 usc_title: 22
 usc_section: "2430"
 chapter: 32
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 2430"
-generated_at: "2026-03-30T05:28:05.515Z"
+generated_at: "2026-03-30T05:30:18.759Z"
 status: "active"
 ---
 

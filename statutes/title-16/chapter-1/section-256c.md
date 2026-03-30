@@ -3,9 +3,9 @@ title: "Section 256c - Forfeiture of property used in hunting, fishing, etc."
 usc_title: 16
 usc_section: "256c"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 256c"
-generated_at: "2026-03-30T05:27:58.093Z"
+generated_at: "2026-03-30T05:30:04.376Z"
 status: "active"
 ---
 

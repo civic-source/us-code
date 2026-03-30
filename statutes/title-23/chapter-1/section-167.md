@@ -3,9 +3,9 @@ title: "Section 167 - National highway freight program"
 usc_title: 23
 usc_section: "167"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "23 U.S.C. § 167"
-generated_at: "2026-03-30T05:28:03.155Z"
+generated_at: "2026-03-30T05:30:14.930Z"
 status: "active"
 ---
 
@@ -147,7 +147,7 @@ status: "active"
   - **(1)** In this section, the term “intelligent freight transportation system” means—
     - **(A)** innovative or intelligent technological transportation systems, infrastructure, or facilities, including elevated freight transportation facilities—
       - **(i)** in proximity to, or within, an existing right of way on a Federal-aid highway; or
-      - **(ii)** that connect land ports-of entry to existing Federal-aid highways; or
+      - **(ii)** that connect land ports-of entry 1 1 So in original. to existing Federal-aid highways; or
     - **(B)** communications or information processing systems that improve the efficiency, security, or safety of freight movements on the Federal-aid highway system, including to improve the conveyance of freight on dedicated intelligent freight lanes.
   - **(2)** The Administrator shall determine whether there is a need for establishing operating standards for intelligent freight transportation systems.
 - **(l)** Notwithstanding any other provision of law, a freight project carried out under this section shall be treated as if the project were on a Federal-aid highway.

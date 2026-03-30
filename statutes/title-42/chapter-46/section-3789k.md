@@ -3,9 +3,9 @@ title: "Section 3789k - Prohibition on use of Central Intelligence Agency servic
 usc_title: 42
 usc_section: "3789k"
 chapter: 46
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 3789k"
-generated_at: "2026-03-30T05:29:03.586Z"
+generated_at: "2026-03-30T05:31:13.298Z"
 status: "active"
 ---
 

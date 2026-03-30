@@ -3,9 +3,9 @@ title: "Section 27a - Chicago River, West Fork of South Branch"
 usc_title: 33
 usc_section: "27a"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "33 U.S.C. § 27a"
-generated_at: "2026-03-30T05:28:31.528Z"
+generated_at: "2026-03-30T05:30:42.853Z"
 status: "active"
 ---
 

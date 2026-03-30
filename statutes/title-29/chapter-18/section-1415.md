@@ -3,9 +3,9 @@ title: "Section 1415 - Transfers pursuant to change in bargaining representative
 usc_title: 29
 usc_section: "1415"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1415"
-generated_at: "2026-03-30T05:28:16.821Z"
+generated_at: "2026-03-30T05:30:22.116Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred to as the “old plan”) as a result of a certified change of collective bargaining representative occurring after September 25, 1980 , if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the “new plan”), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
 - **(b)**
-  - **(1)** The employer shall notify the plan sponsor of the old plan of a change in multiemployer plan participation described in subsection (a) of this section no later than 30 days after the employer determines that the change will occur.
+  - **(1)** The employer shall notify the plan sponsor of the old plan of a change in multiemployer plan participation described in subsection (a) no later than 30 days after the employer determines that the change will occur.
   - **(2)** The plan sponsor of the old plan shall—
     - **(A)** notify the employer of—
       - **(i)** the amount of the employer’s withdrawal liability determined under part 1 of this subtitle with respect to the withdrawal,
@@ -28,23 +28,23 @@ status: "active"
 - **(c)** If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer’s withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section) with respect to the old plan shall be reduced by the amount by which—
   - **(1)** the value of the unfunded vested benefits allocable to the employer which were transferred by the plan sponsor of the old plan to the new plan, exceeds
   - **(2)** the value of the assets transferred.
-- **(d)** In any case in which there is a complete or partial withdrawal described in subsection (a) of this section, if—
-  - **(1)** the new plan files an appeal with the corporation under subsection (b)(3) of this section, and
+- **(d)** In any case in which there is a complete or partial withdrawal described in subsection (a), if—
+  - **(1)** the new plan files an appeal with the corporation under subsection (b)(3), and
   - **(2)** the employer is required by section 1399 of this title to begin making payments of withdrawal liability before the earlier of—
     - **(A)** the date on which the corporation finds that the new plan would not suffer substantial financial harm as a result of the transfer, or
     - **(B)** the last day of the 180-day period beginning on the date on which the new plan files its appeal,
 - **(e)**
-  - **(1)** Notwithstanding subsection (b) of this section, the plan sponsor shall not transfer any assets to the new plan if—
+  - **(1)** Notwithstanding subsection (b), the plan sponsor shall not transfer any assets to the new plan if—
     - **(A)** the old plan is in reorganization (within the meaning of section 1421(a) 1 1 See References in Text note below. of this title), or
     - **(B)** the transfer of assets would cause the old plan to go into reorganization (within the meaning of section 1421(a) 1 of this title).
   - **(2)** In any case in which a transfer of assets from the old plan to the new plan is prohibited by paragraph (1), the plan sponsor of the old plan shall transfer—
-    - **(A)** all nonforfeitable benefits described in subsection (b)(2) of this section, if the value of such benefits does not exceed the withdrawal liability of the employer with respect to such withdrawal, or
+    - **(A)** all nonforfeitable benefits described in subsection (b)(2), if the value of such benefits does not exceed the withdrawal liability of the employer with respect to such withdrawal, or
     - **(B)** such nonforfeitable benefits having a value equal to the withdrawal liability of the employer, if the value of such benefits exceeds the withdrawal liability of the employer.
 - **(f)**
-  - **(1)** Notwithstanding subsections (b) and (e) of this section, the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer’s liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) of this section as if assets and liabilities had been transferred in accordance with this section.
+  - **(1)** Notwithstanding subsections (b) and (e), the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer’s liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) as if assets and liabilities had been transferred in accordance with this section.
   - **(2)** If the employer withdraws from the new plan within 240 months after the effective date of a transfer of assets and liabilities described in this section, the amount of the employer’s withdrawal liability to the new plan shall be the greater of—
     - **(A)** the employer’s withdrawal liability determined under part 1 of this subtitle with respect to the new plan, or
-    - **(B)** the amount by which the employer’s withdrawal liability to the old plan was reduced under subsection (c) of this section, reduced by 5 percent for each 12-month period following the effective date of the transfer and ending before the date of the withdrawal from the new plan.
+    - **(B)** the amount by which the employer’s withdrawal liability to the old plan was reduced under subsection (c), reduced by 5 percent for each 12-month period following the effective date of the transfer and ending before the date of the withdrawal from the new plan.
 - **(g)** For purposes of this section—
   - **(1)** “appropriate amount of assets” means the amount by which the value of the nonforfeitable benefits to be transferred exceeds the amount of the employer’s withdrawal liability to the old plan (determined under part 1 of this subtitle without regard to section 1391(e) of this title ), and
   - **(2)** “certified change of collective bargaining representative” means a change of collective bargaining representative certified under the Labor-Management Relations Act, 1947 [ 29 U.S.C. 141 et seq.], or the Railway Labor Act [ 45 U.S.C. 151 et seq.].

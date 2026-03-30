@@ -3,9 +3,9 @@ title: "Section 4 - Director and staff of the Museum"
 usc_title: 20
 usc_section: "4"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T05:27:59.941Z"
+generated_at: "2026-03-30T05:30:08.481Z"
 status: "active"
 ---
 

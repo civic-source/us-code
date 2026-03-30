@@ -3,9 +3,9 @@ title: "Section 2752 - Allocation of funds"
 usc_title: 42
 usc_section: "2752"
 chapter: 34
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 2752"
-generated_at: "2026-03-30T05:29:03.561Z"
+generated_at: "2026-03-30T05:31:13.259Z"
 status: "active"
 ---
 

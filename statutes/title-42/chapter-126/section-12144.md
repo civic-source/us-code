@@ -3,9 +3,9 @@ title: "Section 12144 - Public entity operating a demand responsive system"
 usc_title: 42
 usc_section: "12144"
 chapter: 126
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 12144"
-generated_at: "2026-03-30T05:29:03.780Z"
+generated_at: "2026-03-30T05:31:13.593Z"
 status: "active"
 ---
 

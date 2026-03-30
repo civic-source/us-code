@@ -3,9 +3,9 @@ title: "Section 1487 - Repealed. Pub. L. 95–432 , § 2, Oct. 10, 1978 , 92 Sta
 usc_title: 8
 usc_section: "1487"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "8 U.S.C. § 1487"
-generated_at: "2026-03-30T05:26:50.243Z"
+generated_at: "2026-03-30T05:29:43.560Z"
 status: "repealed"
 ---
 

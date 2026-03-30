@@ -3,9 +3,9 @@ title: "Section 140509 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "140509"
 chapter: 1405
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 140509"
-generated_at: "2026-03-30T05:28:35.316Z"
+generated_at: "2026-03-30T05:30:45.617Z"
 status: "active"
 ---
 

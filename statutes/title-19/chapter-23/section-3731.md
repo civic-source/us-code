@@ -3,9 +3,9 @@ title: "Section 3731 - Sense of the Congress regarding comprehensive debt relief
 usc_title: 19
 usc_section: "3731"
 chapter: 23
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "19 U.S.C. § 3731"
-generated_at: "2026-03-30T05:27:51.472Z"
+generated_at: "2026-03-30T05:30:12.394Z"
 status: "active"
 ---
 

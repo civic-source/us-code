@@ -3,9 +3,9 @@ title: "Section 153 - Appointment of judges"
 usc_title: 14
 usc_section: "153"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "14 U.S.C. § 153"
-generated_at: "2026-03-30T05:27:38.092Z"
+generated_at: "2026-03-30T05:29:52.131Z"
 status: "active"
 ---
 

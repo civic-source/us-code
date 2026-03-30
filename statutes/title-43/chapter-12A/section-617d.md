@@ -3,9 +3,9 @@ title: "Section 617d - Contracts for storage and use of waters for irrigation an
 usc_title: 43
 usc_section: "617d"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 617d"
-generated_at: "2026-03-30T05:28:40.105Z"
+generated_at: "2026-03-30T05:30:49.428Z"
 status: "active"
 ---
 

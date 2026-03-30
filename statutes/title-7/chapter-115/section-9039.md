@@ -3,9 +3,9 @@ title: "Section 9039 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "9039"
 chapter: 115
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 9039"
-generated_at: "2026-03-30T05:27:18.403Z"
+generated_at: "2026-03-30T05:29:46.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3754 - Congressional restraints on property transfers and tax ex
 usc_title: 22
 usc_section: "3754"
 chapter: 51
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 3754"
-generated_at: "2026-03-30T05:28:05.539Z"
+generated_at: "2026-03-30T05:30:18.782Z"
 status: "active"
 ---
 

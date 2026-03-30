@@ -3,9 +3,9 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-30T05:27:29.431Z"
+generated_at: "2026-03-30T05:29:50.047Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1780o - Timing of actions"
 usc_title: 25
 usc_section: "1780o"
 chapter: 19
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1780o"
-generated_at: "2026-03-30T05:28:08.139Z"
+generated_at: "2026-03-30T05:30:16.024Z"
 status: "active"
 ---
 

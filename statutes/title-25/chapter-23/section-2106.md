@@ -3,9 +3,9 @@ title: "Section 2106 - Assistance to tribes or individuals during Minerals Agree
 usc_title: 25
 usc_section: "2106"
 chapter: 23
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 2106"
-generated_at: "2026-03-30T05:28:08.145Z"
+generated_at: "2026-03-30T05:30:16.030Z"
 status: "active"
 ---
 

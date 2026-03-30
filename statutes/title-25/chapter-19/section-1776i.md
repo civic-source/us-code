@@ -3,9 +3,9 @@ title: "Section 1776i - Fort Laramie Treaty of 1868"
 usc_title: 25
 usc_section: "1776i"
 chapter: 19
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1776i"
-generated_at: "2026-03-30T05:28:08.137Z"
+generated_at: "2026-03-30T05:30:16.021Z"
 status: "active"
 ---
 

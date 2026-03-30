@@ -3,9 +3,9 @@ title: "Section 5925 - Post differentials"
 usc_title: 5
 usc_section: "5925"
 chapter: 59
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "5 U.S.C. § 5925"
-generated_at: "2026-03-30T05:26:25.994Z"
+generated_at: "2026-03-30T05:29:40.989Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2007 - Restrictions on use of exemptions"
 usc_title: 29
 usc_section: "2007"
 chapter: 22
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 2007"
-generated_at: "2026-03-30T05:28:16.824Z"
+generated_at: "2026-03-30T05:30:22.119Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
       - **(iii)** that the employer or the examinee may (with mutual knowledge) make a recording of the test;
     - **(D)** is read and signs a written notice informing such examinee—
       - **(i)** that the examinee cannot be required to take the test as a condition of employment,
-      - **(ii)** that any statement made during the test may constitute additional supporting evidence for the purposes of an adverse employment action described in subsection (a) of this section,
+      - **(ii)** that any statement made during the test may constitute additional supporting evidence for the purposes of an adverse employment action described in subsection (a),
       - **(iii)** of the limitations imposed under this section,
       - **(iv)** of the legal rights and remedies available to the examinee if the polygraph test is not conducted in accordance with this chapter, and
       - **(v)** of the legal rights and remedies of the employer under this chapter (including the rights of the employer under section 2008(c)(2) of this title ); and

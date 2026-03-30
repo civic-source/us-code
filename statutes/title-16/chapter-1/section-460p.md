@@ -3,9 +3,9 @@ title: "Section 460p - Establishment"
 usc_title: 16
 usc_section: "460p"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 460p"
-generated_at: "2026-03-30T05:27:58.139Z"
+generated_at: "2026-03-30T05:30:04.422Z"
 status: "active"
 ---
 

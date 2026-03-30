@@ -3,9 +3,9 @@ title: "Section 2699 - Employment opportunities for family members"
 usc_title: 22
 usc_section: "2699"
 chapter: 38
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 2699"
-generated_at: "2026-03-30T05:28:05.524Z"
+generated_at: "2026-03-30T05:30:18.767Z"
 status: "active"
 ---
 

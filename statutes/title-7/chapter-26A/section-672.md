@@ -3,9 +3,9 @@ title: "Section 672 - Agreements; licenses, regulations, programs, etc., unaffec
 usc_title: 7
 usc_section: "672"
 chapter: 26
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 672"
-generated_at: "2026-03-30T05:27:18.274Z"
+generated_at: "2026-03-30T05:29:46.077Z"
 status: "active"
 ---
 

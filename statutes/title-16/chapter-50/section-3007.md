@@ -3,9 +3,9 @@ title: "Section 3007 - Omitted"
 usc_title: 16
 usc_section: "3007"
 chapter: 50
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 3007"
-generated_at: "2026-03-30T05:27:58.271Z"
+generated_at: "2026-03-30T05:30:04.546Z"
 status: "omitted"
 ---
 

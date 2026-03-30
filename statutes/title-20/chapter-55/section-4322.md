@@ -3,9 +3,9 @@ title: "Section 4322 - Repealed. Pub. L. 102–421, title I , § 101(a)(1), Oct.
 usc_title: 20
 usc_section: "4322"
 chapter: 55
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 4322"
-generated_at: "2026-03-30T05:28:00.029Z"
+generated_at: "2026-03-30T05:30:08.570Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2504 - Guidance"
 usc_title: 33
 usc_section: "2504"
 chapter: 38
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "33 U.S.C. § 2504"
-generated_at: "2026-03-30T05:28:31.586Z"
+generated_at: "2026-03-30T05:30:42.911Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5940 - Legitimacy of industrial hemp research"
 usc_title: 7
 usc_section: "5940"
 chapter: 88
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 5940"
-generated_at: "2026-03-30T05:27:18.363Z"
+generated_at: "2026-03-30T05:29:46.169Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1910 - Nepotism in appointment of receiver or trustee"
 usc_title: 18
 usc_section: "1910"
 chapter: 93
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "18 U.S.C. § 1910"
-generated_at: "2026-03-30T05:27:48.890Z"
+generated_at: "2026-03-30T05:30:00.544Z"
 status: "active"
 ---
 

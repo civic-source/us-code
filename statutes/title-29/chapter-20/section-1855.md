@@ -3,13 +3,13 @@ title: "Section 1855 - Discrimination prohibited"
 usc_title: 29
 usc_section: "1855"
 chapter: 20
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1855"
-generated_at: "2026-03-30T05:28:16.823Z"
+generated_at: "2026-03-30T05:30:22.118Z"
 status: "active"
 ---
 
 # § 1855. Discrimination prohibited
 
 - **(a)** No person shall intimidate, threaten, restrain, coerce, blacklist, discharge, or in any manner discriminate against any migrant or seasonal agricultural worker because such worker has, with just cause, filed any complaint or instituted, or caused to be instituted, any proceeding under or related to this chapter, or has testified or is about to testify in any such proceedings, or because of the exercise, with just cause, by such worker on behalf of himself or others of any right or protection afforded by this chapter.
-- **(b)** A migrant or seasonal agricultural worker who believes, with just cause, that he has been discriminated against by any person in violation of this section may, within 180 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this section have been violated, the Secretary shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown, to restrain violation of subsection (a) of this section and order all appropriate relief, including rehiring or reinstatement of the worker, with back pay, or damages.
+- **(b)** A migrant or seasonal agricultural worker who believes, with just cause, that he has been discriminated against by any person in violation of this section may, within 180 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this section have been violated, the Secretary shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown, to restrain violation of subsection (a) and order all appropriate relief, including rehiring or reinstatement of the worker, with back pay, or damages.

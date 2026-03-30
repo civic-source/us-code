@@ -3,9 +3,9 @@ title: "Section 8006 - MTCR adherent status"
 usc_title: 22
 usc_section: "8006"
 chapter: 87
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 8006"
-generated_at: "2026-03-30T05:28:05.586Z"
+generated_at: "2026-03-30T05:30:18.827Z"
 status: "active"
 ---
 

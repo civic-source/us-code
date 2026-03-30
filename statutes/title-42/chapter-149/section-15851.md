@@ -3,9 +3,9 @@ title: "Section 15851 - Assessment of renewable energy resources"
 usc_title: 42
 usc_section: "15851"
 chapter: 149
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 15851"
-generated_at: "2026-03-30T05:29:03.842Z"
+generated_at: "2026-03-30T05:31:13.688Z"
 status: "active"
 ---
 

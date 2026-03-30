@@ -3,9 +3,9 @@ title: "Section 3 - Rulemaking process"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T05:27:43.703Z"
+generated_at: "2026-03-30T05:29:57.004Z"
 status: "active"
 ---
 

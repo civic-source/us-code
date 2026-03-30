@@ -3,9 +3,9 @@ title: "Section 1221e - Repealed. Pub. L. 103–227, title IX , § 911(a), Mar. 
 usc_title: 20
 usc_section: "1221e"
 chapter: 31
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 1221e"
-generated_at: "2026-03-30T05:28:00.002Z"
+generated_at: "2026-03-30T05:30:08.543Z"
 status: "repealed"
 ---
 

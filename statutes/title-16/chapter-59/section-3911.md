@@ -3,9 +3,9 @@ title: "Section 3911 - Repealed. Pub. L. 108–447, div. J, title VIII , § 813(
 usc_title: 16
 usc_section: "3911"
 chapter: 59
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 3911"
-generated_at: "2026-03-30T05:27:58.288Z"
+generated_at: "2026-03-30T05:30:04.562Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3796ll - Program authorized"
 usc_title: 42
 usc_section: "3796ll"
 chapter: 46
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 3796ll"
-generated_at: "2026-03-30T05:29:03.591Z"
+generated_at: "2026-03-30T05:31:13.307Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2623 - Referendum"
 usc_title: 7
 usc_section: "2623"
 chapter: 58
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 2623"
-generated_at: "2026-03-30T05:27:18.342Z"
+generated_at: "2026-03-30T05:29:46.145Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4304 - Confidentiality of information concerning nature and loca
 usc_title: 16
 usc_section: "4304"
 chapter: 63
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 4304"
-generated_at: "2026-03-30T05:27:58.291Z"
+generated_at: "2026-03-30T05:30:04.566Z"
 status: "active"
 ---
 

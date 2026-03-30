@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T05:28:24.288Z"
+generated_at: "2026-03-30T05:30:36.493Z"
 status: "active"
 ---
 
@@ -642,7 +642,7 @@ status: "active"
     - **(D)** For purposes of this subsection, rules similar to the rules of subsection (k)(2)(G) shall apply.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “applicable disaster date” means, with respect to any federally declared disaster, the date on which such federally declared disaster occurs.
-    - **(B)** The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). 6 6 See References in Text note below.
-    - **(C)** The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii). 6
+    - **(B)** The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). 4 4 See References in Text note below.
+    - **(C)** The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii). 4
     - **(D)** The term “eligible taxpayer” means a taxpayer who has suffered an economic loss attributable to a federally declared disaster.
   - **(4)** For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified disaster assistance property which ceases to be qualified disaster assistance property.

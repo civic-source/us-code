@@ -3,9 +3,9 @@ title: "Section 1616i - Additional incentives for health professionals"
 usc_title: 25
 usc_section: "1616i"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 1616i"
-generated_at: "2026-03-30T05:28:08.123Z"
+generated_at: "2026-03-30T05:30:16.007Z"
 status: "active"
 ---
 

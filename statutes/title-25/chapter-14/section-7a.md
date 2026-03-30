@@ -3,9 +3,9 @@ title: "Section 7a - Membership list"
 usc_title: 25
 usc_section: "7a"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "25 U.S.C. § 7a"
-generated_at: "2026-03-30T05:28:08.118Z"
+generated_at: "2026-03-30T05:30:16.003Z"
 status: "active"
 ---
 

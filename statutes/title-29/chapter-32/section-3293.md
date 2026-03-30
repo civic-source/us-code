@@ -3,16 +3,16 @@ title: "Section 3293 - Educational assistance and training"
 usc_title: 29
 usc_section: "3293"
 chapter: 32
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 3293"
-generated_at: "2026-03-30T05:28:16.842Z"
+generated_at: "2026-03-30T05:30:22.137Z"
 status: "active"
 ---
 
 # § 3293. Educational assistance and training
 
 - **(a)** The Secretary of Labor shall provide for grants to States to provide educational assistance and training for United States workers. The Secretary shall consult with the Secretary of Education in making grants under this section.
-- **(b)** Within the purposes described in subsection (a) of this section, funds in the account used under this section shall be allocated among the States based on a formula, established jointly by the Secretaries of Labor and Education, that takes into consideration—
+- **(b)** Within the purposes described in subsection (a), funds in the account used under this section shall be allocated among the States based on a formula, established jointly by the Secretaries of Labor and Education, that takes into consideration—
   - **(1)** the location of foreign workers admitted into the United States,
   - **(2)** the location of individuals in the United States requiring and desiring the educational assistance and training for which the funds can be applied, and
   - **(3)** the location of unemployed and underemployed United States workers.

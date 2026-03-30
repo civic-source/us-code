@@ -3,9 +3,9 @@ title: "Section 18062 - Establishment of risk corridors for plans in individual 
 usc_title: 42
 usc_section: "18062"
 chapter: 157
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 18062"
-generated_at: "2026-03-30T05:29:03.879Z"
+generated_at: "2026-03-30T05:31:13.749Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Planning design or installation of pollution control facilit
 usc_title: 15
 usc_section: "1"
 chapter: 14
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T05:27:43.774Z"
+generated_at: "2026-03-30T05:29:57.081Z"
 status: "active"
 ---
 

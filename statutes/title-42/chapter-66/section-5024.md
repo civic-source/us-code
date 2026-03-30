@@ -3,9 +3,9 @@ title: "Section 5024 - Use of locally generated contributions in National Senior
 usc_title: 42
 usc_section: "5024"
 chapter: 66
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 5024"
-generated_at: "2026-03-30T05:29:03.612Z"
+generated_at: "2026-03-30T05:31:13.339Z"
 status: "active"
 ---
 

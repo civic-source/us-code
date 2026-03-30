@@ -3,9 +3,9 @@ title: "Section 3427 - Definitions"
 usc_title: 22
 usc_section: "3427"
 chapter: 49
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "22 U.S.C. § 3427"
-generated_at: "2026-03-30T05:28:05.536Z"
+generated_at: "2026-03-30T05:30:18.779Z"
 status: "active"
 ---
 

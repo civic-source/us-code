@@ -3,9 +3,9 @@ title: "Section 509 - Repealed. Pub. L. 87–869 , § 4, Oct. 23, 1962 , 76 Stat
 usc_title: 16
 usc_section: "509"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 509"
-generated_at: "2026-03-30T05:27:58.169Z"
+generated_at: "2026-03-30T05:30:04.450Z"
 status: "repealed"
 ---
 

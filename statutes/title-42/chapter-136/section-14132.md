@@ -3,9 +3,9 @@ title: "Section 14132 - Index to facilitate law enforcement exchange of DNA iden
 usc_title: 42
 usc_section: "14132"
 chapter: 136
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 14132"
-generated_at: "2026-03-30T05:29:03.828Z"
+generated_at: "2026-03-30T05:31:13.666Z"
 status: "active"
 ---
 

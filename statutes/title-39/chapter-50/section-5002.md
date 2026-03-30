@@ -3,9 +3,9 @@ title: "Section 5002 - Transportation of mail of adjoining countries through the
 usc_title: 39
 usc_section: "5002"
 chapter: 50
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "39 U.S.C. § 5002"
-generated_at: "2026-03-30T05:28:35.951Z"
+generated_at: "2026-03-30T05:30:45.078Z"
 status: "active"
 ---
 

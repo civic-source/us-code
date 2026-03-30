@@ -3,9 +3,9 @@ title: "Section 2610a - Repealed. Pub. L. 93–203, title VII , § 714, formerly
 usc_title: 42
 usc_section: "2610a"
 chapter: 30
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 2610a"
-generated_at: "2026-03-30T05:29:03.560Z"
+generated_at: "2026-03-30T05:31:13.258Z"
 status: "repealed"
 ---
 

@@ -1,0 +1,30 @@
+---
+title: "Section 2145 - Recommendations on financial stability and management responsibility"
+usc_title: 48
+usc_section: "2145"
+chapter: 20
+current_through: "PL 114-189"
+classification: "48 U.S.C. § 2145"
+generated_at: "2026-03-30T05:31:17.335Z"
+status: "active"
+---
+
+# § 2145. Recommendations on financial stability and management responsibility
+
+- **(a)** The Oversight Board may at any time submit recommendations to the Governor or the Legislature on actions the territorial government may take to ensure compliance with the Fiscal Plan, or to otherwise promote the financial stability, economic growth, management responsibility, and service delivery efficiency of the territorial government, including recommendations relating to—
+  - **(1)** the management of the territorial government’s financial affairs, including economic forecasting and multiyear fiscal forecasting capabilities, information technology, placing controls on expenditures for personnel, reducing benefit costs, reforming procurement practices, and placing other controls on expenditures;
+  - **(2)** the structural relationship of departments, agencies, and independent agencies within the territorial government;
+  - **(3)** the modification of existing revenue structures, or the establishment of additional revenue structures;
+  - **(4)** the establishment of alternatives for meeting obligations to pay for the pensions of territorial government employees;
+  - **(5)** modifications or transfers of the types of services that are the responsibility of, and are delivered by the territorial government;
+  - **(6)** modifications of the types of services that are delivered by entities other than the territorial government under alternative service delivery mechanisms;
+  - **(7)** the effects of the territory’s laws and court orders on the operations of the territorial government;
+  - **(8)** the establishment of a personnel system for employees of the territorial government that is based upon employee performance standards;
+  - **(9)** the improvement of personnel training and proficiency, the adjustment of staffing levels, and the improvement of training and performance of management and supervisory personnel; and
+  - **(10)** the privatization and commercialization of entities within the territorial government.
+- **(b)**
+  - **(1)** In the case of any recommendations submitted under subsection (a) that are within the authority of the territorial government to adopt, not later than 90 days after receiving the recommendations, the Governor or the Legislature (whichever has the authority to adopt the recommendation) shall submit a statement to the Oversight Board that provides notice as to whether the territorial government will adopt the recommendations.
+  - **(2)** If the Governor or the Legislature (whichever is applicable) notifies the Oversight Board under paragraph (1) that the territorial government will adopt any of the recommendations submitted under subsection (a), the Governor or the Legislature (whichever is applicable) shall include in the statement a written plan to implement the recommendation that includes—
+    - **(A)** specific performance measures to determine the extent to which the territorial government has adopted the recommendation; and
+    - **(B)** a clear and specific timetable pursuant to which the territorial government will implement the recommendation.
+  - **(3)** If the Governor or the Legislature (whichever is applicable) notifies the Oversight Board under paragraph (1) that the territorial government will not adopt any recommendation submitted under subsection (a) that the territorial government has authority to adopt, the Governor or the Legislature shall include in the statement explanations for the rejection of the recommendations, and the Governor or the Legislature shall submit such statement of explanations to the President and Congress.

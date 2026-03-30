@@ -3,9 +3,9 @@ title: "Section 2279f - Merger of similar banks"
 usc_title: 12
 usc_section: "2279f"
 chapter: 23
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 2279f"
-generated_at: "2026-03-30T05:27:35.957Z"
+generated_at: "2026-03-30T05:29:55.032Z"
 status: "active"
 ---
 

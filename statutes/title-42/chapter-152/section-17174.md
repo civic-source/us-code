@@ -3,9 +3,9 @@ title: "Section 17174 - Solar air conditioning research and development program"
 usc_title: 42
 usc_section: "17174"
 chapter: 152
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 17174"
-generated_at: "2026-03-30T05:29:03.867Z"
+generated_at: "2026-03-30T05:31:13.728Z"
 status: "active"
 ---
 

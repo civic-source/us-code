@@ -3,9 +3,9 @@ title: "Section 2 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T05:27:43.745Z"
+generated_at: "2026-03-30T05:29:57.048Z"
 status: "active"
 ---
 

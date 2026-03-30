@@ -3,9 +3,9 @@ title: "Section 9660 - Research, development, and demonstration"
 usc_title: 42
 usc_section: "9660"
 chapter: 103
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 9660"
-generated_at: "2026-03-30T05:29:03.738Z"
+generated_at: "2026-03-30T05:31:13.528Z"
 status: "active"
 ---
 

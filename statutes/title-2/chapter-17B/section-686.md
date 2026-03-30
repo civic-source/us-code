@@ -3,9 +3,9 @@ title: "Section 686 - Reports by Comptroller General"
 usc_title: 2
 usc_section: "686"
 chapter: 17
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 686"
-generated_at: "2026-03-30T05:26:44.562Z"
+generated_at: "2026-03-30T05:29:39.394Z"
 status: "active"
 ---
 

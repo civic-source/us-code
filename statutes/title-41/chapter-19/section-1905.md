@@ -3,9 +3,9 @@ title: "Section 1905 - List of laws inapplicable to contracts or subcontracts no
 usc_title: 41
 usc_section: "1905"
 chapter: 19
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "41 U.S.C. § 1905"
-generated_at: "2026-03-30T05:28:39.350Z"
+generated_at: "2026-03-30T05:30:53.540Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13994 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13994"
 chapter: 136
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 13994"
-generated_at: "2026-03-30T05:29:03.821Z"
+generated_at: "2026-03-30T05:31:13.656Z"
 status: "active"
 ---
 

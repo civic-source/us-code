@@ -3,9 +3,9 @@ title: "Section 1492a - Study of electric rates in the insular areas"
 usc_title: 48
 usc_section: "1492a"
 chapter: 10
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "48 U.S.C. § 1492a"
-generated_at: "2026-03-30T05:29:16.541Z"
+generated_at: "2026-03-30T05:31:17.319Z"
 status: "active"
 ---
 
@@ -16,9 +16,9 @@ status: "active"
   - **(2)** The term “energy action plan” means the plan required by subsection (d).
   - **(3)** The term “Freely Associated States” means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
   - **(4)** The term “insular areas” means American Samoa, the Commonwealth of the Northern Mariana Islands, Puerto Rico, Guam, and the Virgin Islands.
-  - **(5)** The term “Secretary” means the Secretary of the Interior.
+  - **(5)** The term “Secretary” means the Secretary of the Interior, except that, with respect to Puerto Rico, the term means, the Secretary of Energy.
   - **(6)** The term “team” means the team established by the Secretary under subsection (b).
-- **(b)** Not later than 180 days after December 16, 2014 , the Secretary shall, within the Empowering Insular Communities activity, establish a team of technical, policy, and financial experts—
+- **(b)** Not later than 180 days after December 16, 2014 (except in the case of Puerto Rico, in which case not later than 270 days after June 30, 2016 ), the Secretary shall, within the Empowering Insular Communities activity (except in the case of Puerto Rico), establish a team of technical, policy, and financial experts—
   - **(1)** to develop an energy action plan addressing the energy needs of each of the insular areas and Freely Associated States; and
   - **(2)** to assist each of the insular areas and Freely Associated States in implementing such plan.
 - **(c)** In establishing the team, the Secretary shall consider including regional utility organizations.

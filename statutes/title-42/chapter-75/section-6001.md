@@ -3,9 +3,9 @@ title: "Section 6001 - Repealed. Pub. L. 106–402, title IV , § 401(a), Oct. 3
 usc_title: 42
 usc_section: "6001"
 chapter: 75
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 6001"
-generated_at: "2026-03-30T05:29:03.637Z"
+generated_at: "2026-03-30T05:31:13.378Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6361 - Grants for State assessments and related activities"
 usc_title: 20
 usc_section: "6361"
 chapter: 70
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 6361"
-generated_at: "2026-03-30T05:28:00.042Z"
+generated_at: "2026-03-30T05:30:08.584Z"
 status: "active"
 ---
 

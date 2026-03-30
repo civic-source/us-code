@@ -3,9 +3,9 @@ title: "Section 4712 - Pilot program for enhancement of contractor protection fr
 usc_title: 41
 usc_section: "4712"
 chapter: 47
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "41 U.S.C. § 4712"
-generated_at: "2026-03-30T05:28:39.355Z"
+generated_at: "2026-03-30T05:30:53.546Z"
 status: "active"
 ---
 

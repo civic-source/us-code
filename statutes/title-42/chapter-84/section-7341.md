@@ -3,9 +3,9 @@ title: "Section 7341 - Effective date"
 usc_title: 42
 usc_section: "7341"
 chapter: 84
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 7341"
-generated_at: "2026-03-30T05:29:03.676Z"
+generated_at: "2026-03-30T05:31:13.436Z"
 status: "active"
 ---
 

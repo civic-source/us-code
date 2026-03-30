@@ -3,9 +3,9 @@ title: "Section 2257 - Reports on conditions of institutions receiving loans or 
 usc_title: 12
 usc_section: "2257"
 chapter: 23
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 2257"
-generated_at: "2026-03-30T05:27:35.952Z"
+generated_at: "2026-03-30T05:29:55.028Z"
 status: "active"
 ---
 

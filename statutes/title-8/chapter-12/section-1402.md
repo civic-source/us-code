@@ -3,9 +3,9 @@ title: "Section 1402 - Persons born in Puerto Rico on or after April 11, 1899"
 usc_title: 8
 usc_section: "1402"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "8 U.S.C. § 1402"
-generated_at: "2026-03-30T05:26:50.240Z"
+generated_at: "2026-03-30T05:29:43.557Z"
 status: "active"
 ---
 

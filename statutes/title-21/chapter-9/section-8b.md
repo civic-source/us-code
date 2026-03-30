@@ -3,9 +3,9 @@ title: "Section 8b - Use of clinical investigation data from outside the United 
 usc_title: 21
 usc_section: "8b"
 chapter: 9
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "21 U.S.C. § 8b"
-generated_at: "2026-03-30T05:28:12.069Z"
+generated_at: "2026-03-30T05:30:16.996Z"
 status: "active"
 ---
 

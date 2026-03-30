@@ -3,9 +3,9 @@ title: "Section 633 - Regulations"
 usc_title: 14
 usc_section: "633"
 chapter: 17
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "14 U.S.C. § 633"
-generated_at: "2026-03-30T05:27:38.096Z"
+generated_at: "2026-03-30T05:29:52.133Z"
 status: "active"
 ---
 

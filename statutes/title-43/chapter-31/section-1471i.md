@@ -3,9 +3,9 @@ title: "Section 1471i - Availability of appropriations for services or rentals"
 usc_title: 43
 usc_section: "1471i"
 chapter: 31
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 1471i"
-generated_at: "2026-03-30T05:28:40.119Z"
+generated_at: "2026-03-30T05:30:49.444Z"
 status: "active"
 ---
 

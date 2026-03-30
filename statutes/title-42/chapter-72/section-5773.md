@@ -3,9 +3,9 @@ title: "Section 5773 - Duties and functions of the Administrator"
 usc_title: 42
 usc_section: "5773"
 chapter: 72
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 5773"
-generated_at: "2026-03-30T05:29:03.632Z"
+generated_at: "2026-03-30T05:31:13.371Z"
 status: "active"
 ---
 

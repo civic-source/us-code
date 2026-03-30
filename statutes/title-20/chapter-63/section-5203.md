@@ -3,9 +3,9 @@ title: "Section 5203 - Expenditure and audit of trust fund"
 usc_title: 20
 usc_section: "5203"
 chapter: 63
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 5203"
-generated_at: "2026-03-30T05:28:00.032Z"
+generated_at: "2026-03-30T05:30:08.573Z"
 status: "active"
 ---
 

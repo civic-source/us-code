@@ -3,9 +3,9 @@ title: "Section 796c - State plan"
 usc_title: 29
 usc_section: "796c"
 chapter: 16
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 796c"
-generated_at: "2026-03-30T05:28:16.791Z"
+generated_at: "2026-03-30T05:30:22.087Z"
 status: "active"
 ---
 
@@ -66,5 +66,5 @@ status: "active"
     - **(D)** submit such reports with respect to such records as the Administrator determines to be appropriate;
   - **(5)** provide access to the Administrator and the Comptroller General or any of their duly authorized representatives, for the purpose of conducting audits and examinations, of any books, documents, papers, and records of the recipients that are pertinent to the financial assistance received under this part; and
   - **(6)** provide for public hearings regarding the contents of the plan during both the formulation and review of the plan.
-- **(n)** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d) of this section, including evaluation of satisfaction by individuals with disabilities.
+- **(n)** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
 - **(o)** The plan shall describe how the State will provide independent living services described in section 705(18) of this title that promote full access to community life for individuals with significant disabilities.

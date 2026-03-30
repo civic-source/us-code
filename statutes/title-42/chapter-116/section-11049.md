@@ -3,9 +3,9 @@ title: "Section 11049 - Definitions"
 usc_title: 42
 usc_section: "11049"
 chapter: 116
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 11049"
-generated_at: "2026-03-30T05:29:03.768Z"
+generated_at: "2026-03-30T05:31:13.574Z"
 status: "active"
 ---
 

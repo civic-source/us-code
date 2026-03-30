@@ -3,9 +3,9 @@ title: "Section 16990 - National registry of substantiated cases of child abuse"
 usc_title: 42
 usc_section: "16990"
 chapter: 151
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 16990"
-generated_at: "2026-03-30T05:29:03.861Z"
+generated_at: "2026-03-30T05:31:13.720Z"
 status: "active"
 ---
 

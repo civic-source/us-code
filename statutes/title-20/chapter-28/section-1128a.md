@@ -3,9 +3,9 @@ title: "Section 1128a - American overseas research centers"
 usc_title: 20
 usc_section: "1128a"
 chapter: 28
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "20 U.S.C. § 1128a"
-generated_at: "2026-03-30T05:27:59.992Z"
+generated_at: "2026-03-30T05:30:08.533Z"
 status: "active"
 ---
 

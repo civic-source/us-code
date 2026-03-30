@@ -3,9 +3,9 @@ title: "Section 32703 - Preventing tampering"
 usc_title: 49
 usc_section: "32703"
 chapter: 327
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "49 U.S.C. § 32703"
-generated_at: "2026-03-30T05:29:21.692Z"
+generated_at: "2026-03-30T05:31:24.994Z"
 status: "active"
 ---
 

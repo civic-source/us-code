@@ -3,9 +3,9 @@ title: "Section 1055 - Requirement of joint and survivor annuity and preretireme
 usc_title: 29
 usc_section: "1055"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1055"
-generated_at: "2026-03-30T05:28:16.798Z"
+generated_at: "2026-03-30T05:30:22.094Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** any defined benefit plan,
     - **(B)** any individual account plan which is subject to the funding standards of section 1082 of this title , and
     - **(C)** any participant under any other individual account plan unless—
-      - **(i)** such plan provides that the participant’s nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant’s surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
+      - **(i)** such plan provides that the participant’s nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant’s surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2), to a designated beneficiary),
       - **(ii)** such participant does not elect the payment of benefits in the form of a life annuity, and
       - **(iii)** with respect to such participant, such plan is not a direct or indirect transferee (in a transfer after December 31, 1984 ) of a plan which is described in subparagraph (A) or (B) or to which this clause applied with respect to the participant.
   - **(2)**
@@ -93,7 +93,7 @@ status: "active"
         - **(III)** retired with an immediate qualified joint and survivor annuity at the earliest retirement age, and
         - **(IV)** died on the day after the day on which such participant would have attained the earliest retirement age, and
     - **(B)** under the plan, the earliest period for which the surviving spouse may receive a payment under such annuity is not later than the month in which the participant would have attained the earliest retirement age under the plan.
-  - **(2)** In the case of any individual account plan or participant described in subparagraph (B) or (C) of subsection (b)(1) of this section, the term “qualified preretirement survivor annuity” means an annuity for the life of the surviving spouse the actuarial equivalent of which is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 1053 of this title ).
+  - **(2)** In the case of any individual account plan or participant described in subparagraph (B) or (C) of subsection (b)(1), the term “qualified preretirement survivor annuity” means an annuity for the life of the surviving spouse the actuarial equivalent of which is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 1053 of this title ).
   - **(3)** For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), a plan may provide that a qualified joint and survivor annuity (or a qualified preretirement survivor annuity) will not be provided unless the participant and spouse had been married throughout the 1-year period ending on the earlier of—
@@ -122,6 +122,6 @@ status: "active"
     - **(B)** For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
   - **(3)** The term “earliest retirement age” means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 - **(i)** A plan may take into account in any equitable manner (as determined by the Secretary of the Treasury) any increased costs resulting from providing a qualified joint or survivor annuity or a qualified preretirement survivor annuity.
-- **(j)** If the use of any participant’s accrued benefit (or any portion thereof) as security for a loan meets the requirements of subsection (c)(4) of this section, nothing in this section shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
-- **(k)** No consent of a spouse shall be effective for purposes of subsection (g)(1) or (g)(2) of this section (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (c)(1)(A) of this section are met.
+- **(j)** If the use of any participant’s accrued benefit (or any portion thereof) as security for a loan meets the requirements of subsection (c)(4), nothing in this section shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
+- **(k)** No consent of a spouse shall be effective for purposes of subsection (g)(1) or (g)(2) (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (c)(1)(A) are met.
 - **(l)** In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.

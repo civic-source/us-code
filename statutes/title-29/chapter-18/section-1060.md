@@ -3,9 +3,9 @@ title: "Section 1060 - Multiple employer plans and other special rules"
 usc_title: 29
 usc_section: "1060"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1060"
-generated_at: "2026-03-30T05:28:16.800Z"
+generated_at: "2026-03-30T05:30:22.095Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(1)** in any case in which the employer maintains a plan of a predecessor employer, service for such predecessor shall be treated as service for the employer, and
   - **(2)** in any case in which the employer maintains a plan which is not the plan maintained by a predecessor employer, service for such predecessor shall, to the extent provided in regulations prescribed by the Secretary of the Treasury, be treated as service for the employer.
 - **(c)** For purposes of sections 1052, 1053, and 1054 of this title, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a) of title 26 , determined without regard to section 1563(a)(4) and (e)(3)(C) of title 26) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the minimum funding standard of section 1082 of this title shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary of the Treasury.
-- **(d)** For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c) of this section.
+- **(d)** For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c).
 - **(e)**
   - **(1)** Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are 1 1 So in original. Probably should be “is”. part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
   - **(2)** For purposes of this subsection—

@@ -3,9 +3,9 @@ title: "Section 20701 - Requirements for use"
 usc_title: 49
 usc_section: "20701"
 chapter: 207
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "49 U.S.C. § 20701"
-generated_at: "2026-03-30T05:29:21.674Z"
+generated_at: "2026-03-30T05:31:24.974Z"
 status: "active"
 ---
 

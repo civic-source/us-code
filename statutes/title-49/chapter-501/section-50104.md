@@ -3,9 +3,9 @@ title: "Section 50104 - Restriction on airport projects using products or servic
 usc_title: 49
 usc_section: "50104"
 chapter: 501
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "49 U.S.C. § 50104"
-generated_at: "2026-03-30T05:29:21.721Z"
+generated_at: "2026-03-30T05:31:25.031Z"
 status: "active"
 ---
 

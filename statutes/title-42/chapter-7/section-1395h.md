@@ -3,9 +3,9 @@ title: "Section 1395h - Provisions relating to the administration of part A"
 usc_title: 42
 usc_section: "1395h"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 1395h"
-generated_at: "2026-03-30T05:29:03.390Z"
+generated_at: "2026-03-30T05:31:12.993Z"
 status: "active"
 ---
 

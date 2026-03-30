@@ -3,9 +3,9 @@ title: "Section 327 - Surface transportation project delivery program"
 usc_title: 23
 usc_section: "327"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "23 U.S.C. § 327"
-generated_at: "2026-03-30T05:28:03.158Z"
+generated_at: "2026-03-30T05:30:14.933Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** If a State assumes responsibility under subparagraph (A)—
       - **(i)** the Secretary may assign to the State, and the State may assume, all or part of the responsibilities of the Secretary for environmental review, consultation, or other action required under any Federal environmental law pertaining to the review or approval of a specific project;
       - **(ii)** at the request of the State, the Secretary may also assign to the State, and the State may assume, the responsibilities of the Secretary with respect to 1 or more railroad, public transportation, or multimodal projects within the State under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
-      - **(iii)** in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); but.
+      - **(iii)** in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); but
       - **(iv)** the Secretary may not assign—
         - **(I)** any responsibility imposed on the Secretary by section 134 or 135 or section 5303 or 5304 of title 49; or
         - **(II)** responsibility for any conformity determination required under section 176 of the Clean Air Act ( 42 U.S.C. 7506 ).

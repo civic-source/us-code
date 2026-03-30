@@ -3,9 +3,9 @@ title: "Section 110 - Review by court of appeals of issuance or denial of tempor
 usc_title: 29
 usc_section: "110"
 chapter: 6
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 110"
-generated_at: "2026-03-30T05:28:16.771Z"
+generated_at: "2026-03-30T05:30:22.067Z"
 status: "active"
 ---
 

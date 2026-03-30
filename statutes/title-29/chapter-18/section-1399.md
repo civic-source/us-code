@@ -3,9 +3,9 @@ title: "Section 1399 - Notice, collection, etc., of withdrawal liability"
 usc_title: 29
 usc_section: "1399"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 1399"
-generated_at: "2026-03-30T05:28:16.820Z"
+generated_at: "2026-03-30T05:30:22.115Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(E)** In the case of a partial withdrawal described in section 1385(a) of this title , the amount of each annual payment shall be the product of—
       - **(i)** the amount determined under subparagraph (C) (determined without regard to this subparagraph), multiplied by
       - **(ii)** the fraction determined under section 1386(a)(2) of this title .
-  - **(2)** Withdrawal liability shall be payable in accordance with the schedule set forth by the plan sponsor under subsection (b)(1) of this section beginning no later than 60 days after the date of the demand notwithstanding any request for review or appeal of determinations of the amount of such liability or of the schedule.
+  - **(2)** Withdrawal liability shall be payable in accordance with the schedule set forth by the plan sponsor under subsection (b)(1) beginning no later than 60 days after the date of the demand notwithstanding any request for review or appeal of determinations of the amount of such liability or of the schedule.
   - **(3)** Each annual payment determined under paragraph (1)(C) shall be payable in 4 equal installments due quarterly, or at other intervals specified by plan rules. If a payment is not made when due, interest on the payment shall accrue from the due date until the date on which the payment is made.
   - **(4)** The employer shall be entitled to prepay the outstanding amount of the unpaid annual withdrawal liability payments determined under paragraph (1)(C), plus accrued interest, if any, in whole or in part, without penalty. If the prepayment is made pursuant to a withdrawal which is later determined to be part of a withdrawal described in paragraph (1)(D), the withdrawal liability of the employer shall not be limited to the amount of the prepayment.
   - **(5)** In the event of a default, a plan sponsor may require immediate payment of the outstanding amount of an employer’s withdrawal liability, plus accrued interest on the total outstanding liability from the due date of the first payment which was not timely made. For purposes of this section, the term “default” means—

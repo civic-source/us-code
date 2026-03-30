@@ -3,9 +3,9 @@ title: "Section 6315 - Labeling"
 usc_title: 42
 usc_section: "6315"
 chapter: 77
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 6315"
-generated_at: "2026-03-30T05:29:03.648Z"
+generated_at: "2026-03-30T05:31:13.394Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 444 - Reimbursement of packaging and transporting expenses"
 usc_title: 7
 usc_section: "444"
 chapter: 17
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 444"
-generated_at: "2026-03-30T05:27:18.265Z"
+generated_at: "2026-03-30T05:29:46.068Z"
 status: "active"
 ---
 

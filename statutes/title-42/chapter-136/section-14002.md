@@ -3,9 +3,9 @@ title: "Section 14002 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14002"
 chapter: 136
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 14002"
-generated_at: "2026-03-30T05:29:03.821Z"
+generated_at: "2026-03-30T05:31:13.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5779 - Reporting requirement"
 usc_title: 42
 usc_section: "5779"
 chapter: 72
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 5779"
-generated_at: "2026-03-30T05:29:03.633Z"
+generated_at: "2026-03-30T05:31:13.372Z"
 status: "active"
 ---
 

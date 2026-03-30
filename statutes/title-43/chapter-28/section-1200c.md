@@ -3,9 +3,9 @@ title: "Section 1200c - Submission of contracts and reports covering disagreemen
 usc_title: 43
 usc_section: "1200c"
 chapter: 28
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 1200c"
-generated_at: "2026-03-30T05:28:40.114Z"
+generated_at: "2026-03-30T05:30:49.439Z"
 status: "active"
 ---
 

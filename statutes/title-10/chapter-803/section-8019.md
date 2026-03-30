@@ -3,9 +3,9 @@ title: "Section 8019 - General Counsel"
 usc_title: 10
 usc_section: "8019"
 chapter: 803
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 8019"
-generated_at: "2026-03-30T05:27:29.541Z"
+generated_at: "2026-03-30T05:29:50.165Z"
 status: "active"
 ---
 

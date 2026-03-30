@@ -1,13 +1,13 @@
 ---
-title: "Section 1336i - Repealed. June 24, 1936, ch. 754, § 10 , 49 Stat. 1906"
+title: "Section 1336i - Repealed. June 24, 1936, ch. 754 , § 10, 49 Stat. 1906"
 usc_title: 48
 usc_section: "1336i"
 chapter: 6
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "48 U.S.C. § 1336i"
-generated_at: "2026-03-30T05:29:16.537Z"
+generated_at: "2026-03-30T05:31:17.313Z"
 status: "repealed"
 ---
 
-# § 1336i. Repealed. June 24, 1936, ch. 754, § 10 , 49 Stat. 1906
+# § 1336i. Repealed. June 24, 1936, ch. 754 , § 10, 49 Stat. 1906
 

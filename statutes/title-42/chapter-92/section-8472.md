@@ -3,9 +3,9 @@ title: "Section 8472 - Effect of orders under section 792 of title 15"
 usc_title: 42
 usc_section: "8472"
 chapter: 92
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 8472"
-generated_at: "2026-03-30T05:29:03.721Z"
+generated_at: "2026-03-30T05:31:13.503Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 794 - Nondiscrimination under Federal grants and programs"
 usc_title: 29
 usc_section: "794"
 chapter: 16
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 794"
-generated_at: "2026-03-30T05:28:16.790Z"
+generated_at: "2026-03-30T05:30:22.086Z"
 status: "active"
 ---
 
@@ -25,5 +25,5 @@ status: "active"
       - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
     - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
   - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
-- **(c)** Small providers are not required by subsection (a) of this section to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
+- **(c)** Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
 - **(d)** The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.

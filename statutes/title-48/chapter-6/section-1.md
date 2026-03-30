@@ -1,13 +1,13 @@
 ---
-title: "Section 1 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 648"
+title: "Section 1 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 648"
 usc_title: 48
 usc_section: "1"
 chapter: 6
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T05:29:16.537Z"
+generated_at: "2026-03-30T05:31:17.315Z"
 status: "repealed"
 ---
 
-# § 1371b–1. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 648
+# § 1371b–1. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 648
 

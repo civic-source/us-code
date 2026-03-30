@@ -3,9 +3,9 @@ title: "Section 5126 - Allowance available to former Speaker for payment of offi
 usc_title: 2
 usc_section: "5126"
 chapter: 51
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 5126"
-generated_at: "2026-03-30T05:26:44.587Z"
+generated_at: "2026-03-30T05:29:39.418Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 488i - Authorization of appropriations"
 usc_title: 6
 usc_section: "488i"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "6 U.S.C. § 488i"
-generated_at: "2026-03-30T05:27:04.968Z"
+generated_at: "2026-03-30T05:29:42.950Z"
 status: "active"
 ---
 

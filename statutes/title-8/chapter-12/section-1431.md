@@ -3,9 +3,9 @@ title: "Section 1431 - Children born outside the United States and residing perm
 usc_title: 8
 usc_section: "1431"
 chapter: 12
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "8 U.S.C. § 1431"
-generated_at: "2026-03-30T05:26:50.240Z"
+generated_at: "2026-03-30T05:29:43.558Z"
 status: "active"
 ---
 

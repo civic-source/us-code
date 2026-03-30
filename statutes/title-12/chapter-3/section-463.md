@@ -3,9 +3,9 @@ title: "Section 463 - Limitation on amount of balance with any depository instit
 usc_title: 12
 usc_section: "463"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "12 U.S.C. § 463"
-generated_at: "2026-03-30T05:27:35.874Z"
+generated_at: "2026-03-30T05:29:54.943Z"
 status: "active"
 ---
 

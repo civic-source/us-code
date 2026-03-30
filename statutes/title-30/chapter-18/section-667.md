@@ -3,9 +3,9 @@ title: "Section 667 - Repealed. Pub. L. 109–58, title X , § 1009(a)(1)(C), Au
 usc_title: 30
 usc_section: "667"
 chapter: 18
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "30 U.S.C. § 667"
-generated_at: "2026-03-30T05:28:14.990Z"
+generated_at: "2026-03-30T05:30:26.558Z"
 status: "repealed"
 ---
 

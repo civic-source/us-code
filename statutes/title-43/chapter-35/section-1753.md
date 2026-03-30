@@ -3,9 +3,9 @@ title: "Section 1753 - Grazing advisory boards"
 usc_title: 43
 usc_section: "1753"
 chapter: 35
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "43 U.S.C. § 1753"
-generated_at: "2026-03-30T05:28:40.133Z"
+generated_at: "2026-03-30T05:30:49.459Z"
 status: "active"
 ---
 

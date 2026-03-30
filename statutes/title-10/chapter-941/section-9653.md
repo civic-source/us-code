@@ -3,9 +3,9 @@ title: "Section 9653 - Ordnance and ordnance stores: District of Columbia high s
 usc_title: 10
 usc_section: "9653"
 chapter: 941
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "10 U.S.C. § 9653"
-generated_at: "2026-03-30T05:27:29.546Z"
+generated_at: "2026-03-30T05:29:50.172Z"
 status: "active"
 ---
 

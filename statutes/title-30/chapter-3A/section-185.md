@@ -3,9 +3,9 @@ title: "Section 185 - Rights-of-way for pipelines through Federal lands"
 usc_title: 30
 usc_section: "185"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "30 U.S.C. § 185"
-generated_at: "2026-03-30T05:28:14.982Z"
+generated_at: "2026-03-30T05:30:26.551Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2807 - Repealed. Pub. L. 89–750, title III , § 315, Nov. 3, 1
 usc_title: 42
 usc_section: "2807"
 chapter: 34
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 2807"
-generated_at: "2026-03-30T05:29:03.562Z"
+generated_at: "2026-03-30T05:31:13.260Z"
 status: "repealed"
 ---
 

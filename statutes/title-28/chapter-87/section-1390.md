@@ -3,9 +3,9 @@ title: "Section 1390 - Scope"
 usc_title: 28
 usc_section: "1390"
 chapter: 87
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "28 U.S.C. § 1390"
-generated_at: "2026-03-30T05:28:15.946Z"
+generated_at: "2026-03-30T05:30:23.657Z"
 status: "active"
 ---
 

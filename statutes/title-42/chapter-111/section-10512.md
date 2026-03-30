@@ -3,9 +3,9 @@ title: "Section 10512 - Issuance of rules"
 usc_title: 42
 usc_section: "10512"
 chapter: 111
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 10512"
-generated_at: "2026-03-30T05:29:03.762Z"
+generated_at: "2026-03-30T05:31:13.564Z"
 status: "active"
 ---
 

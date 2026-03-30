@@ -3,9 +3,9 @@ title: "Section 44905 - Information about threats to civil aviation"
 usc_title: 49
 usc_section: "44905"
 chapter: 449
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "49 U.S.C. § 44905"
-generated_at: "2026-03-30T05:29:21.708Z"
+generated_at: "2026-03-30T05:31:25.015Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40504 - Establishment of electronic data archive"
 usc_title: 51
 usc_section: "40504"
 chapter: 405
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "51 U.S.C. § 40504"
-generated_at: "2026-03-30T05:29:28.492Z"
+generated_at: "2026-03-30T05:31:26.919Z"
 status: "active"
 ---
 

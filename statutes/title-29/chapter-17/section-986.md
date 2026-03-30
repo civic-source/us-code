@@ -3,9 +3,9 @@ title: "Section 986 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "986"
 chapter: 17
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "29 U.S.C. § 986"
-generated_at: "2026-03-30T05:28:16.794Z"
+generated_at: "2026-03-30T05:30:22.089Z"
 status: "repealed"
 ---
 

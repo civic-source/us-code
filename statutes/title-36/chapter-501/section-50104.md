@@ -3,9 +3,9 @@ title: "Section 50104 - Membership"
 usc_title: 36
 usc_section: "50104"
 chapter: 501
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "36 U.S.C. § 50104"
-generated_at: "2026-03-30T05:28:35.313Z"
+generated_at: "2026-03-30T05:30:45.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 52 - Payment of compensation and expenses"
 usc_title: 19
 usc_section: "52"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "19 U.S.C. § 52"
-generated_at: "2026-03-30T05:27:51.409Z"
+generated_at: "2026-03-30T05:30:12.284Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2317 - Wetlands"
 usc_title: 33
 usc_section: "2317"
 chapter: 36
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "33 U.S.C. § 2317"
-generated_at: "2026-03-30T05:28:31.582Z"
+generated_at: "2026-03-30T05:30:42.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 559c - Powers of officers and employees of Forest Service"
 usc_title: 16
 usc_section: "559c"
 chapter: 3
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 559c"
-generated_at: "2026-03-30T05:27:58.180Z"
+generated_at: "2026-03-30T05:30:04.460Z"
 status: "active"
 ---
 

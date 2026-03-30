@@ -3,9 +3,9 @@ title: "Section 206 - Order to compel arbitration; appointment of arbitrators"
 usc_title: 9
 usc_section: "206"
 chapter: 2
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "9 U.S.C. § 206"
-generated_at: "2026-03-30T05:26:46.333Z"
+generated_at: "2026-03-30T05:29:42.314Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8456 - Socioeconomic impacts of increased coal production and ot
 usc_title: 42
 usc_section: "8456"
 chapter: 92
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 8456"
-generated_at: "2026-03-30T05:29:03.721Z"
+generated_at: "2026-03-30T05:31:13.503Z"
 status: "active"
 ---
 

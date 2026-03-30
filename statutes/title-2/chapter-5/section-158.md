@@ -3,9 +3,9 @@ title: "Section 158 - Deposits by Library of Congress Trust Fund Board with Trea
 usc_title: 2
 usc_section: "158"
 chapter: 5
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "2 U.S.C. § 158"
-generated_at: "2026-03-30T05:26:44.549Z"
+generated_at: "2026-03-30T05:29:39.382Z"
 status: "active"
 ---
 

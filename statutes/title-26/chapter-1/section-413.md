@@ -3,9 +3,9 @@ title: "Section 413 - Collectively bargained plans, etc."
 usc_title: 26
 usc_section: "413"
 chapter: 1
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "26 U.S.C. § 413"
-generated_at: "2026-03-30T05:28:24.320Z"
+generated_at: "2026-03-30T05:30:36.526Z"
 status: "active"
 ---
 

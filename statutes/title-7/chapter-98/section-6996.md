@@ -3,9 +3,9 @@ title: "Section 6996 - Right of participants to Division hearing"
 usc_title: 7
 usc_section: "6996"
 chapter: 98
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 6996"
-generated_at: "2026-03-30T05:27:18.375Z"
+generated_at: "2026-03-30T05:29:46.181Z"
 status: "active"
 ---
 

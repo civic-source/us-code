@@ -3,9 +3,9 @@ title: "Section 673b - Adoption and legal guardianship incentive payments"
 usc_title: 42
 usc_section: "673b"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 673b"
-generated_at: "2026-03-30T05:29:03.358Z"
+generated_at: "2026-03-30T05:31:12.942Z"
 status: "active"
 ---
 

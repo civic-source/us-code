@@ -3,9 +3,9 @@ title: "Section 937 - United States Section as agency of United States"
 usc_title: 16
 usc_section: "937"
 chapter: 15
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "16 U.S.C. § 937"
-generated_at: "2026-03-30T05:27:58.220Z"
+generated_at: "2026-03-30T05:30:04.499Z"
 status: "active"
 ---
 

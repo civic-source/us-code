@@ -3,9 +3,9 @@ title: "Section 648 - Accounting for industrial work"
 usc_title: 14
 usc_section: "648"
 chapter: 17
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "14 U.S.C. § 648"
-generated_at: "2026-03-30T05:27:38.096Z"
+generated_at: "2026-03-30T05:29:52.135Z"
 status: "active"
 ---
 

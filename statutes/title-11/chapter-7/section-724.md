@@ -3,9 +3,9 @@ title: "Section 724 - Treatment of certain liens"
 usc_title: 11
 usc_section: "724"
 chapter: 7
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "11 U.S.C. § 724"
-generated_at: "2026-03-30T05:27:38.391Z"
+generated_at: "2026-03-30T05:29:52.467Z"
 status: "active"
 ---
 

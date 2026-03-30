@@ -3,9 +3,9 @@ title: "Section 906a - Use of funds outside the United States or its territories
 usc_title: 7
 usc_section: "906a"
 chapter: 31
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "7 U.S.C. § 906a"
-generated_at: "2026-03-30T05:27:18.274Z"
+generated_at: "2026-03-30T05:29:46.077Z"
 status: "active"
 ---
 

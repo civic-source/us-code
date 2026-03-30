@@ -3,9 +3,9 @@ title: "Section 20505 - Mail registration"
 usc_title: 52
 usc_section: "20505"
 chapter: 205
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "52 U.S.C. § 20505"
-generated_at: "2026-03-30T05:29:23.471Z"
+generated_at: "2026-03-30T05:31:30.518Z"
 status: "active"
 ---
 

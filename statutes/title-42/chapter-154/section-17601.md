@@ -3,9 +3,9 @@ title: "Section 17601 - Definitions"
 usc_title: 42
 usc_section: "17601"
 chapter: 154
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "42 U.S.C. § 17601"
-generated_at: "2026-03-30T05:29:03.872Z"
+generated_at: "2026-03-30T05:31:13.739Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1562 - Manipulation in warehouse"
 usc_title: 19
 usc_section: "1562"
 chapter: 4
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "19 U.S.C. § 1562"
-generated_at: "2026-03-30T05:27:51.424Z"
+generated_at: "2026-03-30T05:30:12.299Z"
 status: "active"
 ---
 

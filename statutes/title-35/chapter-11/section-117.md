@@ -3,9 +3,9 @@ title: "Section 117 - Death or incapacity of inventor"
 usc_title: 35
 usc_section: "117"
 chapter: 11
-current_through: "PL 114-183"
+current_through: "PL 114-189"
 classification: "35 U.S.C. § 117"
-generated_at: "2026-03-30T05:28:28.424Z"
+generated_at: "2026-03-30T05:30:38.579Z"
 status: "active"
 ---
 
