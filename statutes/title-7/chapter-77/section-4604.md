@@ -3,9 +3,9 @@ title: "Section 4604 - Notice and hearing"
 usc_title: 7
 usc_section: "4604"
 chapter: 77
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 4604"
-generated_at: "2026-03-30T09:21:29.913Z"
+generated_at: "2026-03-30T09:23:58.501Z"
 status: "active"
 ---
 

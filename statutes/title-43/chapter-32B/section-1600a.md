@@ -3,9 +3,9 @@ title: "Section 1600a - Definitions"
 usc_title: 43
 usc_section: "1600a"
 chapter: 32
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "43 U.S.C. § 1600a"
-generated_at: "2026-03-30T09:22:51.386Z"
+generated_at: "2026-03-30T09:26:01.182Z"
 status: "active"
 ---
 

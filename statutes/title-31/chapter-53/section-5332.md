@@ -3,9 +3,9 @@ title: "Section 5332 - Bulk cash smuggling into or out of the United States"
 usc_title: 31
 usc_section: "5332"
 chapter: 53
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "31 U.S.C. § 5332"
-generated_at: "2026-03-30T09:22:39.439Z"
+generated_at: "2026-03-30T09:25:26.120Z"
 status: "active"
 ---
 

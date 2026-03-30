@@ -3,9 +3,9 @@ title: "Section 324 - Discharge of officers; termination of appointment"
 usc_title: 32
 usc_section: "324"
 chapter: 3
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "32 U.S.C. § 324"
-generated_at: "2026-03-30T09:22:36.460Z"
+generated_at: "2026-03-30T09:25:25.009Z"
 status: "active"
 ---
 

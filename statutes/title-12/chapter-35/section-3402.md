@@ -3,9 +3,9 @@ title: "Section 3402 - Access to financial records by Government authorities pro
 usc_title: 12
 usc_section: "3402"
 chapter: 35
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 3402"
-generated_at: "2026-03-30T09:22:00.344Z"
+generated_at: "2026-03-30T09:24:23.753Z"
 status: "active"
 ---
 

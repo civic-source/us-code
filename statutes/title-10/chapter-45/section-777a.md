@@ -3,9 +3,9 @@ title: "Section 777a - Wearing of insignia of higher grade before appointment to
 usc_title: 10
 usc_section: "777a"
 chapter: 45
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 777a"
-generated_at: "2026-03-30T09:21:35.613Z"
+generated_at: "2026-03-30T09:24:14.588Z"
 status: "active"
 ---
 

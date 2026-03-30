@@ -3,9 +3,9 @@ title: "Section 136m - Indemnities"
 usc_title: 7
 usc_section: "136m"
 chapter: 6
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 136m"
-generated_at: "2026-03-30T09:21:29.797Z"
+generated_at: "2026-03-30T09:23:58.384Z"
 status: "active"
 ---
 

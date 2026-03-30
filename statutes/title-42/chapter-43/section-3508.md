@@ -3,9 +3,9 @@ title: "Section 3508 - Omitted"
 usc_title: 42
 usc_section: "3508"
 chapter: 43
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 3508"
-generated_at: "2026-03-30T09:23:03.062Z"
+generated_at: "2026-03-30T09:26:18.673Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 742k - Management and disposition of vessels and other property 
 usc_title: 16
 usc_section: "742k"
 chapter: 9
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 742k"
-generated_at: "2026-03-30T09:22:07.703Z"
+generated_at: "2026-03-30T09:24:32.396Z"
 status: "active"
 ---
 

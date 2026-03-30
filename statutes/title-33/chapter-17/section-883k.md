@@ -3,9 +3,9 @@ title: "Section 883k - Acquisition of land for facilities"
 usc_title: 33
 usc_section: "883k"
 chapter: 17
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "33 U.S.C. § 883k"
-generated_at: "2026-03-30T09:22:38.083Z"
+generated_at: "2026-03-30T09:25:27.034Z"
 status: "active"
 ---
 

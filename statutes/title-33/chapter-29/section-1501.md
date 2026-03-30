@@ -3,9 +3,9 @@ title: "Section 1501 - Congressional declaration of policy"
 usc_title: 33
 usc_section: "1501"
 chapter: 29
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "33 U.S.C. § 1501"
-generated_at: "2026-03-30T09:22:38.110Z"
+generated_at: "2026-03-30T09:25:27.061Z"
 status: "active"
 ---
 

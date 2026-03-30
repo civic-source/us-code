@@ -3,9 +3,9 @@ title: "Section 594 - Intimidation of voters"
 usc_title: 18
 usc_section: "594"
 chapter: 29
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "18 U.S.C. § 594"
-generated_at: "2026-03-30T09:22:13.712Z"
+generated_at: "2026-03-30T09:24:49.310Z"
 status: "active"
 ---
 

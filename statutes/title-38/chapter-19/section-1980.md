@@ -3,9 +3,9 @@ title: "Section 1980 - Option to receive accelerated death benefit"
 usc_title: 38
 usc_section: "1980"
 chapter: 19
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "38 U.S.C. § 1980"
-generated_at: "2026-03-30T09:22:48.008Z"
+generated_at: "2026-03-30T09:25:41.338Z"
 status: "active"
 ---
 

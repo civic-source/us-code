@@ -3,9 +3,9 @@ title: "Section 2103 - Repealed. Pub. L. 100–352, § 5(c) , June 27, 1988 , 10
 usc_title: 28
 usc_section: "2103"
 chapter: 133
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "28 U.S.C. § 2103"
-generated_at: "2026-03-30T09:22:26.806Z"
+generated_at: "2026-03-30T09:25:07.457Z"
 status: "repealed"
 ---
 

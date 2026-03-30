@@ -3,9 +3,9 @@ title: "Section 9712 - Support for efforts at the United Nations on the humanita
 usc_title: 22
 usc_section: "9712"
 chapter: 104
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "22 U.S.C. § 9712"
-generated_at: "2026-03-30T09:22:23.385Z"
+generated_at: "2026-03-30T09:24:59.418Z"
 status: "active"
 ---
 

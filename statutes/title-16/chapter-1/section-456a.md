@@ -3,9 +3,9 @@ title: "Section 456a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "456a"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 456a"
-generated_at: "2026-03-30T09:22:07.637Z"
+generated_at: "2026-03-30T09:24:32.322Z"
 status: "repealed"
 ---
 

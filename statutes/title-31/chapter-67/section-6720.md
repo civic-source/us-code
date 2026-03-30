@@ -3,9 +3,9 @@ title: "Section 6720 - Definitions, application, and administration"
 usc_title: 31
 usc_section: "6720"
 chapter: 67
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "31 U.S.C. § 6720"
-generated_at: "2026-03-30T09:22:39.442Z"
+generated_at: "2026-03-30T09:25:26.123Z"
 status: "active"
 ---
 

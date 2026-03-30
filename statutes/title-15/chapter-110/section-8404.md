@@ -3,9 +3,9 @@ title: "Section 8404 - Enforcement by Federal Trade Commission"
 usc_title: 15
 usc_section: "8404"
 chapter: 110
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 8404"
-generated_at: "2026-03-30T09:21:54.439Z"
+generated_at: "2026-03-30T09:24:21.286Z"
 status: "active"
 ---
 

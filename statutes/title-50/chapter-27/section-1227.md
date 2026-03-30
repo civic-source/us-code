@@ -3,9 +3,9 @@ title: "Section 1227 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1227"
 chapter: 27
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 1227"
-generated_at: "2026-03-30T09:23:08.130Z"
+generated_at: "2026-03-30T09:26:23.240Z"
 status: "repealed"
 ---
 

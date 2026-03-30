@@ -3,9 +3,9 @@ title: "Section 23 - Stewardship contracts"
 usc_title: 16
 usc_section: "23"
 chapter: 58
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-30T09:22:07.787Z"
+generated_at: "2026-03-30T09:24:32.574Z"
 status: "active"
 ---
 

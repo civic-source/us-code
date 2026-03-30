@@ -3,9 +3,9 @@ title: "Section 8102 - Regular Navy: retired flag officers on active duty"
 usc_title: 10
 usc_section: "8102"
 chapter: 811
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 8102"
-generated_at: "2026-03-30T09:21:35.711Z"
+generated_at: "2026-03-30T09:24:14.685Z"
 status: "active"
 ---
 

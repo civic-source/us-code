@@ -3,9 +3,9 @@ title: "Section 513 - Determination of reasonable license fees for individual pr
 usc_title: 17
 usc_section: "513"
 chapter: 5
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "17 U.S.C. § 513"
-generated_at: "2026-03-30T09:22:03.834Z"
+generated_at: "2026-03-30T09:24:32.772Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300107 - Annual meeting"
 usc_title: 36
 usc_section: "300107"
 chapter: 3001
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "36 U.S.C. § 300107"
-generated_at: "2026-03-30T09:22:42.050Z"
+generated_at: "2026-03-30T09:25:39.399Z"
 status: "active"
 ---
 

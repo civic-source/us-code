@@ -3,9 +3,9 @@ title: "Section 4239 - Performance reports"
 usc_title: 25
 usc_section: "4239"
 chapter: 43
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "25 U.S.C. § 4239"
-generated_at: "2026-03-30T09:22:19.227Z"
+generated_at: "2026-03-30T09:24:54.673Z"
 status: "active"
 ---
 

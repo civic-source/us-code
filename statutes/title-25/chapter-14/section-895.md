@@ -3,9 +3,9 @@ title: "Section 895 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "895"
 chapter: 14
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "25 U.S.C. § 895"
-generated_at: "2026-03-30T09:22:19.183Z"
+generated_at: "2026-03-30T09:24:54.631Z"
 status: "repealed"
 ---
 

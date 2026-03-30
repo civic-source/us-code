@@ -3,9 +3,9 @@ title: "Section 49 - Lands in Missouri and Kansas; disposal as agricultural land
 usc_title: 30
 usc_section: "49"
 chapter: 2
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "30 U.S.C. § 49"
-generated_at: "2026-03-30T09:22:26.078Z"
+generated_at: "2026-03-30T09:25:08.731Z"
 status: "active"
 ---
 

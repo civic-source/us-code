@@ -3,9 +3,9 @@ title: "Section 5 - Reports of subordinate bodies and committees; unvouchered ex
 usc_title: 50
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-03-30T09:23:08.125Z"
+generated_at: "2026-03-30T09:26:23.233Z"
 status: "active"
 ---
 

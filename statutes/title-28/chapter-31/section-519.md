@@ -3,9 +3,9 @@ title: "Section 519 - Supervision of litigation"
 usc_title: 28
 usc_section: "519"
 chapter: 31
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "28 U.S.C. § 519"
-generated_at: "2026-03-30T09:22:26.792Z"
+generated_at: "2026-03-30T09:25:07.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3308 - Access to books, accounts, records, etc., by Council"
 usc_title: 12
 usc_section: "3308"
 chapter: 34
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 3308"
-generated_at: "2026-03-30T09:22:00.342Z"
+generated_at: "2026-03-30T09:24:23.752Z"
 status: "active"
 ---
 

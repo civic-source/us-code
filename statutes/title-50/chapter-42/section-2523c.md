@@ -3,9 +3,9 @@ title: "Section 2523c - Major warhead refurbishment program"
 usc_title: 50
 usc_section: "2523c"
 chapter: 42
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 2523c"
-generated_at: "2026-03-30T09:23:08.148Z"
+generated_at: "2026-03-30T09:26:23.259Z"
 status: "active"
 ---
 

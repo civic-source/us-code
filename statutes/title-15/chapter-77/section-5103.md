@@ -3,9 +3,9 @@ title: "Section 5103 - Establishment of scientific research and development prog
 usc_title: 15
 usc_section: "5103"
 chapter: 77
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 5103"
-generated_at: "2026-03-30T09:21:54.416Z"
+generated_at: "2026-03-30T09:24:21.262Z"
 status: "active"
 ---
 

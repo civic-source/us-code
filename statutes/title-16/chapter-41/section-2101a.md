@@ -3,9 +3,9 @@ title: "Section 2101a - State-wide assessment and strategies for forest resource
 usc_title: 16
 usc_section: "2101a"
 chapter: 41
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 2101a"
-generated_at: "2026-03-30T09:22:07.765Z"
+generated_at: "2026-03-30T09:24:32.553Z"
 status: "active"
 ---
 

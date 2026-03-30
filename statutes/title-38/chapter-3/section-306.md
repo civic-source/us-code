@@ -3,9 +3,9 @@ title: "Section 306 - Under Secretary for Benefits"
 usc_title: 38
 usc_section: "306"
 chapter: 3
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "38 U.S.C. § 306"
-generated_at: "2026-03-30T09:22:47.990Z"
+generated_at: "2026-03-30T09:25:41.320Z"
 status: "active"
 ---
 

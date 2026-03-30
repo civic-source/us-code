@@ -3,9 +3,9 @@ title: "Section 2332d - Financial transactions"
 usc_title: 18
 usc_section: "2332d"
 chapter: 113
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "18 U.S.C. § 2332d"
-generated_at: "2026-03-30T09:22:13.741Z"
+generated_at: "2026-03-30T09:24:49.337Z"
 status: "active"
 ---
 

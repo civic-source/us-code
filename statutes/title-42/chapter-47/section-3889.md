@@ -3,9 +3,9 @@ title: "Section 3889 - Repealed. Pub. L. 93–415, title IV, § 402(b) , Sept. 7
 usc_title: 42
 usc_section: "3889"
 chapter: 47
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 3889"
-generated_at: "2026-03-30T09:23:03.068Z"
+generated_at: "2026-03-30T09:26:18.678Z"
 status: "repealed"
 ---
 

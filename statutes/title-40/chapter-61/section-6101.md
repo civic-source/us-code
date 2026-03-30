@@ -3,9 +3,9 @@ title: "Section 6101 - Definitions and application"
 usc_title: 40
 usc_section: "6101"
 chapter: 61
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "40 U.S.C. § 6101"
-generated_at: "2026-03-30T09:22:43.524Z"
+generated_at: "2026-03-30T09:25:53.760Z"
 status: "active"
 ---
 

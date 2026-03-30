@@ -3,9 +3,9 @@ title: "Section 719h - Judicial review"
 usc_title: 15
 usc_section: "719h"
 chapter: 15
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 719h"
-generated_at: "2026-03-30T09:21:54.337Z"
+generated_at: "2026-03-30T09:24:21.180Z"
 status: "active"
 ---
 

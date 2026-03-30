@@ -3,9 +3,9 @@ title: "Section 3196 - Administrative sites and visitor facilities"
 usc_title: 16
 usc_section: "3196"
 chapter: 51
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 3196"
-generated_at: "2026-03-30T09:22:07.775Z"
+generated_at: "2026-03-30T09:24:32.564Z"
 status: "active"
 ---
 

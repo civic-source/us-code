@@ -3,9 +3,9 @@ title: "Section 10651 - Adult and juvenile collaboration programs"
 usc_title: 34
 usc_section: "10651"
 chapter: 101
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "34 U.S.C. § 10651"
-generated_at: "2026-03-30T09:22:38.763Z"
+generated_at: "2026-03-30T09:25:29.491Z"
 status: "active"
 ---
 

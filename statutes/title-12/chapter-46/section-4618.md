@@ -3,9 +3,9 @@ title: "Section 4618 - Notice of classification and enforcement action"
 usc_title: 12
 usc_section: "4618"
 chapter: 46
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 4618"
-generated_at: "2026-03-30T09:22:00.362Z"
+generated_at: "2026-03-30T09:24:23.771Z"
 status: "active"
 ---
 

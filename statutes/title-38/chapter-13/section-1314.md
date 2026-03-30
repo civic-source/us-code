@@ -3,9 +3,9 @@ title: "Section 1314 - Supplemental dependency and indemnity compensation to chi
 usc_title: 38
 usc_section: "1314"
 chapter: 13
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "38 U.S.C. § 1314"
-generated_at: "2026-03-30T09:22:47.996Z"
+generated_at: "2026-03-30T09:25:41.327Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 905a - Transferred"
 usc_title: 42
 usc_section: "905a"
 chapter: 7
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 905a"
-generated_at: "2026-03-30T09:23:02.828Z"
+generated_at: "2026-03-30T09:26:18.444Z"
 status: "transferred"
 ---
 

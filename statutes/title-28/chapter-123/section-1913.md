@@ -3,9 +3,9 @@ title: "Section 1913 - Courts of appeals"
 usc_title: 28
 usc_section: "1913"
 chapter: 123
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "28 U.S.C. § 1913"
-generated_at: "2026-03-30T09:22:26.805Z"
+generated_at: "2026-03-30T09:25:07.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6371j - Application of sections 3141–3144, 3146, and 3147 of t
 usc_title: 42
 usc_section: "6371j"
 chapter: 77
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 6371j"
-generated_at: "2026-03-30T09:23:03.126Z"
+generated_at: "2026-03-30T09:26:18.732Z"
 status: "active"
 ---
 

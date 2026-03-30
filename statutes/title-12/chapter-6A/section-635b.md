@@ -3,9 +3,9 @@ title: "Section 635b - Capitalization of Bank; method of capital stock payments;
 usc_title: 12
 usc_section: "635b"
 chapter: 6
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 635b"
-generated_at: "2026-03-30T09:22:00.246Z"
+generated_at: "2026-03-30T09:24:23.656Z"
 status: "active"
 ---
 

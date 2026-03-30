@@ -3,9 +3,9 @@ title: "Section 1151 - Definitions"
 usc_title: 6
 usc_section: "1151"
 chapter: 4
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "6 U.S.C. § 1151"
-generated_at: "2026-03-30T09:21:24.234Z"
+generated_at: "2026-03-30T09:24:07.833Z"
 status: "active"
 ---
 

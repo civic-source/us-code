@@ -3,9 +3,9 @@ title: "Section 661 - Congressional declaration of policy"
 usc_title: 15
 usc_section: "661"
 chapter: 14
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 661"
-generated_at: "2026-03-30T09:21:54.325Z"
+generated_at: "2026-03-30T09:24:21.168Z"
 status: "active"
 ---
 

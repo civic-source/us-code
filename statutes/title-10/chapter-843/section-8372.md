@@ -3,9 +3,9 @@ title: "Section 8372 - Regular Navy and Regular Marine Corps; officers designate
 usc_title: 10
 usc_section: "8372"
 chapter: 843
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 8372"
-generated_at: "2026-03-30T09:21:35.713Z"
+generated_at: "2026-03-30T09:24:14.687Z"
 status: "active"
 ---
 

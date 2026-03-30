@@ -3,9 +3,9 @@ title: "Section 18236 - Contributions to States; other use permitted by States"
 usc_title: 10
 usc_section: "18236"
 chapter: 1803
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 18236"
-generated_at: "2026-03-30T09:21:35.740Z"
+generated_at: "2026-03-30T09:24:14.714Z"
 status: "active"
 ---
 

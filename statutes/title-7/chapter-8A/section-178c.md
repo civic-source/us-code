@@ -3,9 +3,9 @@ title: "Section 178c - Research and development program by Secretary of Agricult
 usc_title: 7
 usc_section: "178c"
 chapter: 8
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 178c"
-generated_at: "2026-03-30T09:21:29.808Z"
+generated_at: "2026-03-30T09:23:58.395Z"
 status: "active"
 ---
 

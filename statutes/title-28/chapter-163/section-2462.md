@@ -3,9 +3,9 @@ title: "Section 2462 - Time for commencing proceedings"
 usc_title: 28
 usc_section: "2462"
 chapter: 163
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "28 U.S.C. § 2462"
-generated_at: "2026-03-30T09:22:26.809Z"
+generated_at: "2026-03-30T09:25:07.460Z"
 status: "active"
 ---
 

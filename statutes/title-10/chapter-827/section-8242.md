@@ -3,9 +3,9 @@ title: "Section 8242 - Rations"
 usc_title: 10
 usc_section: "8242"
 chapter: 827
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 8242"
-generated_at: "2026-03-30T09:21:35.712Z"
+generated_at: "2026-03-30T09:24:14.686Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13368 - Ownership of coalbed methane"
 usc_title: 42
 usc_section: "13368"
 chapter: 134
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 13368"
-generated_at: "2026-03-30T09:23:03.285Z"
+generated_at: "2026-03-30T09:26:18.885Z"
 status: "active"
 ---
 

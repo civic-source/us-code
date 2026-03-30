@@ -3,9 +3,9 @@ title: "Section 3 - Authority for transfers; applicability of section 869–2 to
 usc_title: 43
 usc_section: "3"
 chapter: 20
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T09:22:51.373Z"
+generated_at: "2026-03-30T09:26:01.170Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4505 - Reports"
 usc_title: 15
 usc_section: "4505"
 chapter: 71
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 4505"
-generated_at: "2026-03-30T09:21:54.413Z"
+generated_at: "2026-03-30T09:24:21.259Z"
 status: "active"
 ---
 

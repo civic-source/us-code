@@ -3,9 +3,9 @@ title: "Section 1703 - Duties and functions of Secretary of the Interior and Sec
 usc_title: 16
 usc_section: "1703"
 chapter: 37
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 1703"
-generated_at: "2026-03-30T09:22:07.754Z"
+generated_at: "2026-03-30T09:24:32.544Z"
 status: "active"
 ---
 

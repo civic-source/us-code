@@ -3,9 +3,9 @@ title: "Section 511 - Opening bids; bonds"
 usc_title: 44
 usc_section: "511"
 chapter: 5
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "44 U.S.C. § 511"
-generated_at: "2026-03-30T09:22:50.819Z"
+generated_at: "2026-03-30T09:25:59.572Z"
 status: "active"
 ---
 

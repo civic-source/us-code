@@ -3,9 +3,9 @@ title: "Section 641 - Repealed. Pub. L. 96–73, title I, § 111(b) , Sept. 29, 
 usc_title: 45
 usc_section: "641"
 chapter: 14
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "45 U.S.C. § 641"
-generated_at: "2026-03-30T09:22:50.600Z"
+generated_at: "2026-03-30T09:25:59.372Z"
 status: "repealed"
 ---
 

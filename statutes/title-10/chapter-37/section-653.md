@@ -3,9 +3,9 @@ title: "Section 653 - Minimum service requirement for certain flight crew positi
 usc_title: 10
 usc_section: "653"
 chapter: 37
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 653"
-generated_at: "2026-03-30T09:21:35.611Z"
+generated_at: "2026-03-30T09:24:14.585Z"
 status: "active"
 ---
 

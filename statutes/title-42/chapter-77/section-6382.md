@@ -3,9 +3,9 @@ title: "Section 6382 - Powers and duties of Comptroller General"
 usc_title: 42
 usc_section: "6382"
 chapter: 77
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 6382"
-generated_at: "2026-03-30T09:23:03.127Z"
+generated_at: "2026-03-30T09:26:18.733Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1315a - Omitted"
 usc_title: 48
 usc_section: "1315a"
 chapter: 6
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "48 U.S.C. § 1315a"
-generated_at: "2026-03-30T09:23:05.949Z"
+generated_at: "2026-03-30T09:26:22.226Z"
 status: "omitted"
 ---
 

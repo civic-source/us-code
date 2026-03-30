@@ -3,9 +3,9 @@ title: "Section 2748 - Presentation of United States flag upon retirement"
 usc_title: 14
 usc_section: "2748"
 chapter: 27
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "14 U.S.C. § 2748"
-generated_at: "2026-03-30T09:21:42.652Z"
+generated_at: "2026-03-30T09:24:21.530Z"
 status: "active"
 ---
 

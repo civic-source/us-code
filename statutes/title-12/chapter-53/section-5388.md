@@ -3,9 +3,9 @@ title: "Section 5388 - Dismissal and exclusion of other actions"
 usc_title: 12
 usc_section: "5388"
 chapter: 53
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 5388"
-generated_at: "2026-03-30T09:22:00.379Z"
+generated_at: "2026-03-30T09:24:23.787Z"
 status: "active"
 ---
 

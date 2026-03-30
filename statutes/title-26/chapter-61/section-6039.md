@@ -3,9 +3,9 @@ title: "Section 6039 - Returns required in connection with certain options"
 usc_title: 26
 usc_section: "6039"
 chapter: 61
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "26 U.S.C. § 6039"
-generated_at: "2026-03-30T09:22:33.668Z"
+generated_at: "2026-03-30T09:25:23.333Z"
 status: "active"
 ---
 

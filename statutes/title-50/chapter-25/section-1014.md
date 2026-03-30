@@ -3,9 +3,9 @@ title: "Section 1014 - Omitted"
 usc_title: 50
 usc_section: "1014"
 chapter: 25
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 1014"
-generated_at: "2026-03-30T09:23:08.130Z"
+generated_at: "2026-03-30T09:26:23.240Z"
 status: "omitted"
 ---
 

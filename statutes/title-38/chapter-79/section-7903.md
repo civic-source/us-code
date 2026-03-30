@@ -3,9 +3,9 @@ title: "Section 7903 - Education debt reduction program"
 usc_title: 38
 usc_section: "7903"
 chapter: 79
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "38 U.S.C. § 7903"
-generated_at: "2026-03-30T09:22:48.046Z"
+generated_at: "2026-03-30T09:25:41.377Z"
 status: "active"
 ---
 

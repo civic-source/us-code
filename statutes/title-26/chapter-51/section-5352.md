@@ -3,9 +3,9 @@ title: "Section 5352 - Taxpaid wine bottling house"
 usc_title: 26
 usc_section: "5352"
 chapter: 51
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "26 U.S.C. § 5352"
-generated_at: "2026-03-30T09:22:33.660Z"
+generated_at: "2026-03-30T09:25:23.326Z"
 status: "active"
 ---
 

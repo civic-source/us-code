@@ -3,9 +3,9 @@ title: "Section 6313 - Mandatory response authority for freight data collection"
 usc_title: 49
 usc_section: "6313"
 chapter: 63
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "49 U.S.C. § 6313"
-generated_at: "2026-03-30T09:23:10.011Z"
+generated_at: "2026-03-30T09:26:28.327Z"
 status: "active"
 ---
 

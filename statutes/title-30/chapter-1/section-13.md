@@ -3,9 +3,9 @@ title: "Section 13 - Research laboratory for utilization of anthracite coal; est
 usc_title: 30
 usc_section: "13"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "30 U.S.C. § 13"
-generated_at: "2026-03-30T09:22:26.077Z"
+generated_at: "2026-03-30T09:25:08.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1b - Presumptive eligibility for certain breast or cervical canc
 usc_title: 42
 usc_section: "1b"
 chapter: 7
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T09:23:02.947Z"
+generated_at: "2026-03-30T09:26:18.560Z"
 status: "active"
 ---
 

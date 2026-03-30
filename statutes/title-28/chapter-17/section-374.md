@@ -3,9 +3,9 @@ title: "Section 374 - Residence of retired judges; official station"
 usc_title: 28
 usc_section: "374"
 chapter: 17
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "28 U.S.C. § 374"
-generated_at: "2026-03-30T09:22:26.789Z"
+generated_at: "2026-03-30T09:25:07.439Z"
 status: "active"
 ---
 

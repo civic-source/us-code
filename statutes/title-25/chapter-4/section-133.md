@@ -3,9 +3,9 @@ title: "Section 133 - Rolls of Indians entitled to supplies"
 usc_title: 25
 usc_section: "133"
 chapter: 4
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "25 U.S.C. § 133"
-generated_at: "2026-03-30T09:22:19.171Z"
+generated_at: "2026-03-30T09:24:54.620Z"
 status: "active"
 ---
 

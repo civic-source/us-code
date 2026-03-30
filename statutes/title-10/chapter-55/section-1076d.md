@@ -3,9 +3,9 @@ title: "Section 1076d - TRICARE program: TRICARE Reserve Select coverage for mem
 usc_title: 10
 usc_section: "1076d"
 chapter: 55
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 1076d"
-generated_at: "2026-03-30T09:21:35.631Z"
+generated_at: "2026-03-30T09:24:14.604Z"
 status: "active"
 ---
 

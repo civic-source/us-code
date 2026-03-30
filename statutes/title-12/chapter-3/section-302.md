@@ -3,9 +3,9 @@ title: "Section 302 - Number of members; classes"
 usc_title: 12
 usc_section: "302"
 chapter: 3
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 302"
-generated_at: "2026-03-30T09:22:00.236Z"
+generated_at: "2026-03-30T09:24:23.647Z"
 status: "active"
 ---
 

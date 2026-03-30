@@ -3,9 +3,9 @@ title: "Section 59cc - Declaration of nonnavigability of portion of Hudson River
 usc_title: 33
 usc_section: "59cc"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "33 U.S.C. § 59cc"
-generated_at: "2026-03-30T09:22:38.064Z"
+generated_at: "2026-03-30T09:25:27.016Z"
 status: "active"
 ---
 

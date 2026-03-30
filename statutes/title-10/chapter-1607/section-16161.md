@@ -3,9 +3,9 @@ title: "Section 16161 - Purpose"
 usc_title: 10
 usc_section: "16161"
 chapter: 1607
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 16161"
-generated_at: "2026-03-30T09:21:35.739Z"
+generated_at: "2026-03-30T09:24:14.712Z"
 status: "active"
 ---
 

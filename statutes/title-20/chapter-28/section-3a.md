@@ -3,9 +3,9 @@ title: "Section 3a - Grants for access and persistence"
 usc_title: 20
 usc_section: "3a"
 chapter: 28
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "20 U.S.C. § 3a"
-generated_at: "2026-03-30T09:22:15.402Z"
+generated_at: "2026-03-30T09:24:28.669Z"
 status: "active"
 ---
 

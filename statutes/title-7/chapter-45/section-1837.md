@@ -3,9 +3,9 @@ title: "Section 1837 - Repealed. Pub. L. 89–321, title VI, § 601 , Nov. 3, 19
 usc_title: 7
 usc_section: "1837"
 chapter: 45
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 1837"
-generated_at: "2026-03-30T09:21:29.861Z"
+generated_at: "2026-03-30T09:23:58.450Z"
 status: "repealed"
 ---
 

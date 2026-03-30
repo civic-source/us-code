@@ -3,9 +3,9 @@ title: "Section 11 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T09:23:03.024Z"
+generated_at: "2026-03-30T09:26:18.635Z"
 status: "active"
 ---
 

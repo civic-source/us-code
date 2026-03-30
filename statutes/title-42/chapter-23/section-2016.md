@@ -3,9 +3,9 @@ title: "Section 2016 - Repealed. Pub. L. 105–85, div. C, title XXXI, § 3152(a
 usc_title: 42
 usc_section: "2016"
 chapter: 23
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 2016"
-generated_at: "2026-03-30T09:23:03.025Z"
+generated_at: "2026-03-30T09:26:18.636Z"
 status: "repealed"
 ---
 

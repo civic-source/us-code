@@ -3,9 +3,9 @@ title: "Section 8678 - Chief of Naval Operations: certification required for dis
 usc_title: 10
 usc_section: "8678"
 chapter: 863
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 8678"
-generated_at: "2026-03-30T09:21:35.717Z"
+generated_at: "2026-03-30T09:24:14.691Z"
 status: "active"
 ---
 

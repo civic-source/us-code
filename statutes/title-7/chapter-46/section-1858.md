@@ -3,9 +3,9 @@ title: "Section 1858 - Repealed. Pub. L. 89–544, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 7
 usc_section: "1858"
 chapter: 46
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 1858"
-generated_at: "2026-03-30T09:21:29.861Z"
+generated_at: "2026-03-30T09:23:58.451Z"
 status: "repealed"
 ---
 

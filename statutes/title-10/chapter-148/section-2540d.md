@@ -3,9 +3,9 @@ title: "Section 2540d - Definitions"
 usc_title: 10
 usc_section: "2540d"
 chapter: 148
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 2540d"
-generated_at: "2026-03-30T09:21:35.686Z"
+generated_at: "2026-03-30T09:24:14.660Z"
 status: "active"
 ---
 

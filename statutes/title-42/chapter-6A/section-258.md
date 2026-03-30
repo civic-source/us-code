@@ -3,9 +3,9 @@ title: "Section 258 - Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405(
 usc_title: 42
 usc_section: "258"
 chapter: 6
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 258"
-generated_at: "2026-03-30T09:23:02.681Z"
+generated_at: "2026-03-30T09:26:18.301Z"
 status: "repealed"
 ---
 

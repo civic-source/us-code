@@ -3,9 +3,9 @@ title: "Section 16 - Ninth replenishment"
 usc_title: 22
 usc_section: "16"
 chapter: 7
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "22 U.S.C. § 16"
-generated_at: "2026-03-30T09:22:23.261Z"
+generated_at: "2026-03-30T09:24:59.290Z"
 status: "active"
 ---
 

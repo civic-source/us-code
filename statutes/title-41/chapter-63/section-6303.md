@@ -3,9 +3,9 @@ title: "Section 6303 - Certain contracts limited to appropriated amounts"
 usc_title: 41
 usc_section: "6303"
 chapter: 63
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "41 U.S.C. § 6303"
-generated_at: "2026-03-30T09:22:50.351Z"
+generated_at: "2026-03-30T09:25:55.510Z"
 status: "active"
 ---
 

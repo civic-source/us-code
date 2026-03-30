@@ -3,9 +3,9 @@ title: "Section 7203 - Retired commissioned officers: status"
 usc_title: 10
 usc_section: "7203"
 chapter: 721
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 7203"
-generated_at: "2026-03-30T09:21:35.704Z"
+generated_at: "2026-03-30T09:24:14.678Z"
 status: "active"
 ---
 

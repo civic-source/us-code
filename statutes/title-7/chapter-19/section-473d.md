@@ -3,9 +3,9 @@ title: "Section 473d - Quality tests and analyses by Secretary for breeders and 
 usc_title: 7
 usc_section: "473d"
 chapter: 19
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 473d"
-generated_at: "2026-03-30T09:21:29.815Z"
+generated_at: "2026-03-30T09:23:58.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1812 - Statement of exclusive means by which electronic surveill
 usc_title: 50
 usc_section: "1812"
 chapter: 36
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 1812"
-generated_at: "2026-03-30T09:23:08.135Z"
+generated_at: "2026-03-30T09:26:23.244Z"
 status: "active"
 ---
 

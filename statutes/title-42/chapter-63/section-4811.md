@@ -3,9 +3,9 @@ title: "Section 4811 - Repealed. Pub. L. 95–626, title II, § 208(b) , Nov. 10
 usc_title: 42
 usc_section: "4811"
 chapter: 63
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 4811"
-generated_at: "2026-03-30T09:23:03.082Z"
+generated_at: "2026-03-30T09:26:18.691Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1574b - Federal guarantee for issuance of revenue bonds or other
 usc_title: 48
 usc_section: "1574b"
 chapter: 12
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "48 U.S.C. § 1574b"
-generated_at: "2026-03-30T09:23:05.954Z"
+generated_at: "2026-03-30T09:26:22.230Z"
 status: "active"
 ---
 

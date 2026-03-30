@@ -3,9 +3,9 @@ title: "Section 777g - Maintenance of projects"
 usc_title: 16
 usc_section: "777g"
 chapter: 10
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 777g"
-generated_at: "2026-03-30T09:22:07.706Z"
+generated_at: "2026-03-30T09:24:32.498Z"
 status: "active"
 ---
 

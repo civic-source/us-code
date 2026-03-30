@@ -3,9 +3,9 @@ title: "Section 3695 - Limitation on period of assistance under two or more prog
 usc_title: 38
 usc_section: "3695"
 chapter: 36
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "38 U.S.C. § 3695"
-generated_at: "2026-03-30T09:22:48.022Z"
+generated_at: "2026-03-30T09:25:41.354Z"
 status: "active"
 ---
 

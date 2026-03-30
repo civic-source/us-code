@@ -3,9 +3,9 @@ title: "Section 7809 - Deposit of collections"
 usc_title: 26
 usc_section: "7809"
 chapter: 80
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "26 U.S.C. § 7809"
-generated_at: "2026-03-30T09:22:33.713Z"
+generated_at: "2026-03-30T09:25:23.374Z"
 status: "active"
 ---
 

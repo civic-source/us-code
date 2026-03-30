@@ -3,9 +3,9 @@ title: "Section 1024 - Inclusion of geothermal leasing under certain other laws"
 usc_title: 30
 usc_section: "1024"
 chapter: 23
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "30 U.S.C. § 1024"
-generated_at: "2026-03-30T09:22:26.095Z"
+generated_at: "2026-03-30T09:25:08.747Z"
 status: "active"
 ---
 

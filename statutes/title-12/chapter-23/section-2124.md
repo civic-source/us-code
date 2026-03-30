@@ -3,9 +3,9 @@ title: "Section 2124 - Stock of banks for cooperatives"
 usc_title: 12
 usc_section: "2124"
 chapter: 23
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 2124"
-generated_at: "2026-03-30T09:22:00.324Z"
+generated_at: "2026-03-30T09:24:23.735Z"
 status: "active"
 ---
 

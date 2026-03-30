@@ -3,9 +3,9 @@ title: "Section 12 - Copies of patents and applications for public libraries"
 usc_title: 35
 usc_section: "12"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "35 U.S.C. § 12"
-generated_at: "2026-03-30T09:22:36.661Z"
+generated_at: "2026-03-30T09:25:37.017Z"
 status: "active"
 ---
 

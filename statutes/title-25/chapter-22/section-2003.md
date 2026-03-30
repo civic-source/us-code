@@ -3,9 +3,9 @@ title: "Section 2003 - Codification of regulations"
 usc_title: 25
 usc_section: "2003"
 chapter: 22
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "25 U.S.C. § 2003"
-generated_at: "2026-03-30T09:22:19.202Z"
+generated_at: "2026-03-30T09:24:54.648Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2141 - Revocation of commissions during first five years of comm
 usc_title: 14
 usc_section: "2141"
 chapter: 21
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "14 U.S.C. § 2141"
-generated_at: "2026-03-30T09:21:42.650Z"
+generated_at: "2026-03-30T09:24:21.527Z"
 status: "active"
 ---
 

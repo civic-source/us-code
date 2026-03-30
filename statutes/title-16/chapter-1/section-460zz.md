@@ -3,9 +3,9 @@ title: "Section 460zz - Findings and purposes"
 usc_title: 16
 usc_section: "460zz"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 460zz"
-generated_at: "2026-03-30T09:22:07.657Z"
+generated_at: "2026-03-30T09:24:32.345Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40313 - Enactment and consent of the United States"
 usc_title: 34
 usc_section: "40313"
 chapter: 403
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "34 U.S.C. § 40313"
-generated_at: "2026-03-30T09:22:38.796Z"
+generated_at: "2026-03-30T09:25:29.523Z"
 status: "active"
 ---
 

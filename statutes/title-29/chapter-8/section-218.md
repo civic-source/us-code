@@ -3,9 +3,9 @@ title: "Section 218 - Relation to other laws"
 usc_title: 29
 usc_section: "218"
 chapter: 8
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "29 U.S.C. § 218"
-generated_at: "2026-03-30T09:22:34.678Z"
+generated_at: "2026-03-30T09:25:16.431Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 954 - Foreign base company income"
 usc_title: 26
 usc_section: "954"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "26 U.S.C. § 954"
-generated_at: "2026-03-30T09:22:33.598Z"
+generated_at: "2026-03-30T09:25:23.269Z"
 status: "active"
 ---
 

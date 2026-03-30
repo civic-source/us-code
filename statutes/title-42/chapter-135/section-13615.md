@@ -3,9 +3,9 @@ title: "Section 13615 - Preference within groups"
 usc_title: 42
 usc_section: "13615"
 chapter: 135
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 13615"
-generated_at: "2026-03-30T09:23:03.291Z"
+generated_at: "2026-03-30T09:26:18.890Z"
 status: "active"
 ---
 

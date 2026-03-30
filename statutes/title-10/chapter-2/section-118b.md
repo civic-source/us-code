@@ -3,9 +3,9 @@ title: "Section 118b - Repealed. Pub. L. 113–291, div. A, title X, § 1072(b)(
 usc_title: 10
 usc_section: "118b"
 chapter: 2
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 118b"
-generated_at: "2026-03-30T09:21:35.579Z"
+generated_at: "2026-03-30T09:24:14.564Z"
 status: "repealed"
 ---
 

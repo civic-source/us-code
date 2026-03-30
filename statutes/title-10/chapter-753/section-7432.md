@@ -3,9 +3,9 @@ title: "Section 7432 - Departments and professors: titles"
 usc_title: 10
 usc_section: "7432"
 chapter: 753
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 7432"
-generated_at: "2026-03-30T09:21:35.706Z"
+generated_at: "2026-03-30T09:24:14.680Z"
 status: "active"
 ---
 

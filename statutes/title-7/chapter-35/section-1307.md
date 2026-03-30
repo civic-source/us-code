@@ -3,9 +3,9 @@ title: "Section 1307 - Limitation on payments under wheat, feed grains, and cott
 usc_title: 7
 usc_section: "1307"
 chapter: 35
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 1307"
-generated_at: "2026-03-30T09:21:29.828Z"
+generated_at: "2026-03-30T09:23:58.419Z"
 status: "active"
 ---
 

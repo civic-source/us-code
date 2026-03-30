@@ -3,9 +3,9 @@ title: "Section 1395e - Deductibles and coinsurance"
 usc_title: 42
 usc_section: "1395e"
 chapter: 7
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 1395e"
-generated_at: "2026-03-30T09:23:02.856Z"
+generated_at: "2026-03-30T09:26:18.471Z"
 status: "active"
 ---
 

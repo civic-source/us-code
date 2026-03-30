@@ -3,9 +3,9 @@ title: "Section 20107 - Principal office"
 usc_title: 36
 usc_section: "20107"
 chapter: 201
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "36 U.S.C. § 20107"
-generated_at: "2026-03-30T09:22:42.031Z"
+generated_at: "2026-03-30T09:25:39.381Z"
 status: "active"
 ---
 

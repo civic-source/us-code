@@ -3,9 +3,9 @@ title: "Section 1263 - Age 62: warrant officers"
 usc_title: 10
 usc_section: "1263"
 chapter: 63
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 1263"
-generated_at: "2026-03-30T09:21:35.640Z"
+generated_at: "2026-03-30T09:24:14.612Z"
 status: "active"
 ---
 

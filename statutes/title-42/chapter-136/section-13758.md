@@ -3,9 +3,9 @@ title: "Section 13758 - Repealed. Pub. L. 109–162, title XI, § 1154(b)(1) , J
 usc_title: 42
 usc_section: "13758"
 chapter: 136
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 13758"
-generated_at: "2026-03-30T09:23:03.292Z"
+generated_at: "2026-03-30T09:26:18.891Z"
 status: "repealed"
 ---
 

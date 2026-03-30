@@ -3,9 +3,9 @@ title: "Section 430 - Adjustment of contribution and benefit base"
 usc_title: 42
 usc_section: "430"
 chapter: 7
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 430"
-generated_at: "2026-03-30T09:23:02.803Z"
+generated_at: "2026-03-30T09:26:18.420Z"
 status: "active"
 ---
 

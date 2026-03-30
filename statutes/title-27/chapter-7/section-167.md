@@ -3,9 +3,9 @@ title: "Section 167 - Omitted"
 usc_title: 27
 usc_section: "167"
 chapter: 7
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "27 U.S.C. § 167"
-generated_at: "2026-03-30T09:22:25.187Z"
+generated_at: "2026-03-30T09:25:05.761Z"
 status: "omitted"
 ---
 

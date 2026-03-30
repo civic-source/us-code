@@ -3,9 +3,9 @@ title: "Section 6661 - Program authorized"
 usc_title: 20
 usc_section: "6661"
 chapter: 70
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "20 U.S.C. § 6661"
-generated_at: "2026-03-30T09:22:15.486Z"
+generated_at: "2026-03-30T09:24:28.754Z"
 status: "active"
 ---
 

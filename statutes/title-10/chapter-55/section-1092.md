@@ -3,9 +3,9 @@ title: "Section 1092 - Studies and demonstration projects relating to delivery o
 usc_title: 10
 usc_section: "1092"
 chapter: 55
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 1092"
-generated_at: "2026-03-30T09:21:35.633Z"
+generated_at: "2026-03-30T09:24:14.606Z"
 status: "active"
 ---
 

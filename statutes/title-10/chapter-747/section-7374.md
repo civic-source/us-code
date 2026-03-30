@@ -3,9 +3,9 @@ title: "Section 7374 - Expert accountant for Inspector General"
 usc_title: 10
 usc_section: "7374"
 chapter: 747
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 7374"
-generated_at: "2026-03-30T09:21:35.705Z"
+generated_at: "2026-03-30T09:24:14.679Z"
 status: "active"
 ---
 

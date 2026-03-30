@@ -3,9 +3,9 @@ title: "Section 2803 - Maintenance of records and public disclosure"
 usc_title: 12
 usc_section: "2803"
 chapter: 29
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 2803"
-generated_at: "2026-03-30T09:22:00.338Z"
+generated_at: "2026-03-30T09:24:23.748Z"
 status: "active"
 ---
 

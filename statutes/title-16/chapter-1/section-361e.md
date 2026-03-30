@@ -3,9 +3,9 @@ title: "Section 361e - Acceptance of donations"
 usc_title: 16
 usc_section: "361e"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 361e"
-generated_at: "2026-03-30T09:22:07.603Z"
+generated_at: "2026-03-30T09:24:32.286Z"
 status: "active"
 ---
 

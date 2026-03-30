@@ -3,9 +3,9 @@ title: "Section 6909 - Supplying steam or chilled water to Union Station complex
 usc_title: 40
 usc_section: "6909"
 chapter: 69
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "40 U.S.C. § 6909"
-generated_at: "2026-03-30T09:22:43.525Z"
+generated_at: "2026-03-30T09:25:53.762Z"
 status: "active"
 ---
 

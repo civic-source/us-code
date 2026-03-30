@@ -3,9 +3,9 @@ title: "Section 1623a - Omitted"
 usc_title: 7
 usc_section: "1623a"
 chapter: 38
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "7 U.S.C. § 1623a"
-generated_at: "2026-03-30T09:21:29.850Z"
+generated_at: "2026-03-30T09:23:58.440Z"
 status: "omitted"
 ---
 

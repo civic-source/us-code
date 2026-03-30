@@ -3,9 +3,9 @@ title: "Section 6573 - Restoration plans"
 usc_title: 16
 usc_section: "6573"
 chapter: 84
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "16 U.S.C. § 6573"
-generated_at: "2026-03-30T09:22:07.806Z"
+generated_at: "2026-03-30T09:24:32.592Z"
 status: "active"
 ---
 

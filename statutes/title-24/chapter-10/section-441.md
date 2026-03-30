@@ -3,9 +3,9 @@ title: "Section 441 - Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(b)
 usc_title: 24
 usc_section: "441"
 chapter: 10
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "24 U.S.C. § 441"
-generated_at: "2026-03-30T09:22:17.388Z"
+generated_at: "2026-03-30T09:24:59.484Z"
 status: "repealed"
 ---
 

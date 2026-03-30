@@ -3,9 +3,9 @@ title: "Section 70106 - Deployable, specialized forces"
 usc_title: 46
 usc_section: "70106"
 chapter: 701
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "46 U.S.C. § 70106"
-generated_at: "2026-03-30T09:23:07.124Z"
+generated_at: "2026-03-30T09:26:23.993Z"
 status: "active"
 ---
 

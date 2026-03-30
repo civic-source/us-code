@@ -3,9 +3,9 @@ title: "Section 2b - Transferred"
 usc_title: 2
 usc_section: "2b"
 chapter: 4
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "2 U.S.C. § 2b"
-generated_at: "2026-03-30T09:21:17.845Z"
+generated_at: "2026-03-30T09:23:44.892Z"
 status: "transferred"
 ---
 

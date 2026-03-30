@@ -3,9 +3,9 @@ title: "Section 6911 - Establishment of Congressional-Executive Commission on th
 usc_title: 22
 usc_section: "6911"
 chapter: 77
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "22 U.S.C. § 6911"
-generated_at: "2026-03-30T09:22:23.352Z"
+generated_at: "2026-03-30T09:24:59.385Z"
 status: "active"
 ---
 

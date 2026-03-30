@@ -3,9 +3,9 @@ title: "Section 103 - Government corporation"
 usc_title: 5
 usc_section: "103"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "5 U.S.C. § 103"
-generated_at: "2026-03-30T09:21:15.848Z"
+generated_at: "2026-03-30T09:23:52.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4347 - Training with respect to the enforcement of intellectual 
 usc_title: 19
 usc_section: "4347"
 chapter: 28
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "19 U.S.C. § 4347"
-generated_at: "2026-03-30T09:22:09.048Z"
+generated_at: "2026-03-30T09:24:40.835Z"
 status: "active"
 ---
 

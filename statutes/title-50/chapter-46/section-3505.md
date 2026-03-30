@@ -3,9 +3,9 @@ title: "Section 3505 - Personnel allowances and benefits"
 usc_title: 50
 usc_section: "3505"
 chapter: 46
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 3505"
-generated_at: "2026-03-30T09:23:08.171Z"
+generated_at: "2026-03-30T09:26:23.283Z"
 status: "active"
 ---
 

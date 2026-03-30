@@ -3,9 +3,9 @@ title: "Section 2882 - Effect of assignment of members to housing units acquired
 usc_title: 10
 usc_section: "2882"
 chapter: 169
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 2882"
-generated_at: "2026-03-30T09:21:35.700Z"
+generated_at: "2026-03-30T09:24:14.673Z"
 status: "active"
 ---
 

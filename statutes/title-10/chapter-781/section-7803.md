@@ -3,9 +3,9 @@ title: "Section 7803 - Admiralty claims by United States"
 usc_title: 10
 usc_section: "7803"
 chapter: 781
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "10 U.S.C. § 7803"
-generated_at: "2026-03-30T09:21:35.709Z"
+generated_at: "2026-03-30T09:24:14.683Z"
 status: "active"
 ---
 

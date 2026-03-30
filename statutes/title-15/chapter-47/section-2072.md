@@ -3,9 +3,9 @@ title: "Section 2072 - Suits for damages"
 usc_title: 15
 usc_section: "2072"
 chapter: 47
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 2072"
-generated_at: "2026-03-30T09:21:54.381Z"
+generated_at: "2026-03-30T09:24:21.225Z"
 status: "active"
 ---
 

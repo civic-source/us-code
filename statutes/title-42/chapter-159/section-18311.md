@@ -3,9 +3,9 @@ title: "Section 18311 - United States human space flight policy"
 usc_title: 42
 usc_section: "18311"
 chapter: 159
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 18311"
-generated_at: "2026-03-30T09:23:03.338Z"
+generated_at: "2026-03-30T09:26:18.937Z"
 status: "active"
 ---
 

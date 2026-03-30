@@ -3,9 +3,9 @@ title: "Section 7221d - National activities"
 usc_title: 20
 usc_section: "7221d"
 chapter: 70
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "20 U.S.C. § 7221d"
-generated_at: "2026-03-30T09:22:15.491Z"
+generated_at: "2026-03-30T09:24:28.759Z"
 status: "active"
 ---
 

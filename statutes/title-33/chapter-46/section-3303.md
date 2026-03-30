@@ -3,9 +3,9 @@ title: "Section 3303 - Inventory and inspection of levees"
 usc_title: 33
 usc_section: "3303"
 chapter: 46
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "33 U.S.C. § 3303"
-generated_at: "2026-03-30T09:22:38.133Z"
+generated_at: "2026-03-30T09:25:27.083Z"
 status: "active"
 ---
 

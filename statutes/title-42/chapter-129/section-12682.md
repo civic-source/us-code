@@ -3,9 +3,9 @@ title: "Section 12682 - Actions under national service laws to be subject to ava
 usc_title: 42
 usc_section: "12682"
 chapter: 129
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 12682"
-generated_at: "2026-03-30T09:23:03.274Z"
+generated_at: "2026-03-30T09:26:18.874Z"
 status: "active"
 ---
 

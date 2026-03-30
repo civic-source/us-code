@@ -3,9 +3,9 @@ title: "Section 53 - Grants for Federal work-study programs"
 usc_title: 20
 usc_section: "53"
 chapter: 28
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "20 U.S.C. § 53"
-generated_at: "2026-03-30T09:22:15.416Z"
+generated_at: "2026-03-30T09:24:28.684Z"
 status: "active"
 ---
 

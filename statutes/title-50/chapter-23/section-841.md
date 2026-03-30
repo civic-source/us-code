@@ -3,9 +3,9 @@ title: "Section 841 - Findings and declarations of fact"
 usc_title: 50
 usc_section: "841"
 chapter: 23
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "50 U.S.C. § 841"
-generated_at: "2026-03-30T09:23:08.130Z"
+generated_at: "2026-03-30T09:26:23.238Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 726 - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "726"
 chapter: 16
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "33 U.S.C. § 726"
-generated_at: "2026-03-30T09:22:38.081Z"
+generated_at: "2026-03-30T09:25:27.033Z"
 status: "repealed"
 ---
 

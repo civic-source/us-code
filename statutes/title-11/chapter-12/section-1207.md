@@ -3,9 +3,9 @@ title: "Section 1207 - Property of the estate"
 usc_title: 11
 usc_section: "1207"
 chapter: 12
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "11 U.S.C. § 1207"
-generated_at: "2026-03-30T09:21:38.379Z"
+generated_at: "2026-03-30T09:24:17.266Z"
 status: "active"
 ---
 

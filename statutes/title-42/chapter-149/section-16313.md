@@ -3,9 +3,9 @@ title: "Section 16313 - Solar Fuels Research Initiative"
 usc_title: 42
 usc_section: "16313"
 chapter: 149
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 16313"
-generated_at: "2026-03-30T09:23:03.313Z"
+generated_at: "2026-03-30T09:26:18.913Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9579 - Fellowships"
 usc_title: 20
 usc_section: "9579"
 chapter: 76
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "20 U.S.C. § 9579"
-generated_at: "2026-03-30T09:22:15.510Z"
+generated_at: "2026-03-30T09:24:28.778Z"
 status: "active"
 ---
 

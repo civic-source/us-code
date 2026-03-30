@@ -3,9 +3,9 @@ title: "Section 2223e - “Emergency response personnel” defined"
 usc_title: 15
 usc_section: "2223e"
 chapter: 49
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 2223e"
-generated_at: "2026-03-30T09:21:54.385Z"
+generated_at: "2026-03-30T09:24:21.229Z"
 status: "active"
 ---
 

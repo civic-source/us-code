@@ -3,9 +3,9 @@ title: "Section 1470 - Federal supervision of insured institutions, State member
 usc_title: 12
 usc_section: "1470"
 chapter: 12
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "12 U.S.C. § 1470"
-generated_at: "2026-03-30T09:22:00.259Z"
+generated_at: "2026-03-30T09:24:23.670Z"
 status: "active"
 ---
 

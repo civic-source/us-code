@@ -3,9 +3,9 @@ title: "Section 3971 - Temporary service as principal officer"
 usc_title: 22
 usc_section: "3971"
 chapter: 52
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "22 U.S.C. § 3971"
-generated_at: "2026-03-30T09:22:23.321Z"
+generated_at: "2026-03-30T09:24:59.354Z"
 status: "active"
 ---
 

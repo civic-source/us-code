@@ -3,9 +3,9 @@ title: "Section 5111 - Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5111"
 chapter: 60
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "22 U.S.C. § 5111"
-generated_at: "2026-03-30T09:22:23.336Z"
+generated_at: "2026-03-30T09:24:59.369Z"
 status: "repealed"
 ---
 

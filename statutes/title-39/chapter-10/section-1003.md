@@ -3,9 +3,9 @@ title: "Section 1003 - Employment policy"
 usc_title: 39
 usc_section: "1003"
 chapter: 10
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "39 U.S.C. § 1003"
-generated_at: "2026-03-30T09:22:41.338Z"
+generated_at: "2026-03-30T09:25:38.620Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 25 - Use of minors in crimes of violence"
 usc_title: 18
 usc_section: "25"
 chapter: 1
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "18 U.S.C. § 25"
-generated_at: "2026-03-30T09:22:13.704Z"
+generated_at: "2026-03-30T09:24:49.302Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15926 - Energy right-of-way corridors on Federal land"
 usc_title: 42
 usc_section: "15926"
 chapter: 149
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 15926"
-generated_at: "2026-03-30T09:23:03.304Z"
+generated_at: "2026-03-30T09:26:18.904Z"
 status: "active"
 ---
 

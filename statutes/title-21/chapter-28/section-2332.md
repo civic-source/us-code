@@ -3,9 +3,9 @@ title: "Section 2332 - Authorization of appropriations"
 usc_title: 21
 usc_section: "2332"
 chapter: 28
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "21 U.S.C. § 2332"
-generated_at: "2026-03-30T09:22:20.174Z"
+generated_at: "2026-03-30T09:24:53.889Z"
 status: "active"
 ---
 

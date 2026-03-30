@@ -3,9 +3,9 @@ title: "Section 7502 - Nonattainment plan provisions in general"
 usc_title: 42
 usc_section: "7502"
 chapter: 85
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 7502"
-generated_at: "2026-03-30T09:23:03.164Z"
+generated_at: "2026-03-30T09:26:18.769Z"
 status: "active"
 ---
 

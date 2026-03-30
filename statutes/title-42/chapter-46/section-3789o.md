@@ -3,9 +3,9 @@ title: "Section 3789o - Repealed. Pub. L. 98–473, title II, § 609B(e) , Oct. 
 usc_title: 42
 usc_section: "3789o"
 chapter: 46
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 3789o"
-generated_at: "2026-03-30T09:23:03.067Z"
+generated_at: "2026-03-30T09:26:18.677Z"
 status: "repealed"
 ---
 

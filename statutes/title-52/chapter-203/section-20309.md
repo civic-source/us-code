@@ -3,9 +3,9 @@ title: "Section 20309 - Effect on certain other laws"
 usc_title: 52
 usc_section: "20309"
 chapter: 203
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "52 U.S.C. § 20309"
-generated_at: "2026-03-30T09:23:12.028Z"
+generated_at: "2026-03-30T09:26:30.107Z"
 status: "active"
 ---
 

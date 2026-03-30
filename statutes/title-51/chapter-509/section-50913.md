@@ -3,9 +3,9 @@ title: "Section 50913 - Acquiring United States Government property and services
 usc_title: 51
 usc_section: "50913"
 chapter: 509
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "51 U.S.C. § 50913"
-generated_at: "2026-03-30T09:23:12.234Z"
+generated_at: "2026-03-30T09:26:30.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 555 - Judicial proceedings"
 usc_title: 47
 usc_section: "555"
 chapter: 5
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "47 U.S.C. § 555"
-generated_at: "2026-03-30T09:23:06.385Z"
+generated_at: "2026-03-30T09:26:21.814Z"
 status: "active"
 ---
 

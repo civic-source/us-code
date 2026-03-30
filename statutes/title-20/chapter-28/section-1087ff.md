@@ -3,9 +3,9 @@ title: "Section 1087ff - Distribution of assets from student loan funds"
 usc_title: 20
 usc_section: "1087ff"
 chapter: 28
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "20 U.S.C. § 1087ff"
-generated_at: "2026-03-30T09:22:15.420Z"
+generated_at: "2026-03-30T09:24:28.688Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1331 - General powers"
 usc_title: 19
 usc_section: "1331"
 chapter: 4
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "19 U.S.C. § 1331"
-generated_at: "2026-03-30T09:22:08.984Z"
+generated_at: "2026-03-30T09:24:40.772Z"
 status: "active"
 ---
 

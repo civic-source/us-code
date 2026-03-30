@@ -3,9 +3,9 @@ title: "Section 9412 - Report and annual briefing on Iranian expenditures suppor
 usc_title: 22
 usc_section: "9412"
 chapter: 101
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "22 U.S.C. § 9412"
-generated_at: "2026-03-30T09:22:23.381Z"
+generated_at: "2026-03-30T09:24:59.413Z"
 status: "active"
 ---
 

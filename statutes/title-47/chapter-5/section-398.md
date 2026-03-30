@@ -3,9 +3,9 @@ title: "Section 398 - Federal interference or control"
 usc_title: 47
 usc_section: "398"
 chapter: 5
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "47 U.S.C. § 398"
-generated_at: "2026-03-30T09:23:06.380Z"
+generated_at: "2026-03-30T09:26:21.808Z"
 status: "active"
 ---
 

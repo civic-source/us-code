@@ -3,9 +3,9 @@ title: "Section 2021d - Regional compacts for disposal of low-level radioactive 
 usc_title: 42
 usc_section: "2021d"
 chapter: 23
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "42 U.S.C. § 2021d"
-generated_at: "2026-03-30T09:23:03.026Z"
+generated_at: "2026-03-30T09:26:18.636Z"
 status: "active"
 ---
 

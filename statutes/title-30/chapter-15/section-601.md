@@ -3,9 +3,9 @@ title: "Section 601 - Rules and regulations governing disposal of materials; pay
 usc_title: 30
 usc_section: "601"
 chapter: 15
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "30 U.S.C. § 601"
-generated_at: "2026-03-30T09:22:26.086Z"
+generated_at: "2026-03-30T09:25:08.739Z"
 status: "active"
 ---
 

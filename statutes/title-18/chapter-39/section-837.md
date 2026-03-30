@@ -3,9 +3,9 @@ title: "Section 837 - Repealed. Pub. L. 91–452, title XI, § 1106(b)(1) , Oct.
 usc_title: 18
 usc_section: "837"
 chapter: 39
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "18 U.S.C. § 837"
-generated_at: "2026-03-30T09:22:13.715Z"
+generated_at: "2026-03-30T09:24:49.313Z"
 status: "repealed"
 ---
 

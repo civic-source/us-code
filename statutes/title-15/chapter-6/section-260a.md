@@ -3,9 +3,9 @@ title: "Section 260a - Advancement of time or changeover dates"
 usc_title: 15
 usc_section: "260a"
 chapter: 6
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 260a"
-generated_at: "2026-03-30T09:21:54.298Z"
+generated_at: "2026-03-30T09:24:21.140Z"
 status: "active"
 ---
 

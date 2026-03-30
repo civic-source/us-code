@@ -3,9 +3,9 @@ title: "Section 7804 - Actions by States"
 usc_title: 15
 usc_section: "7804"
 chapter: 104
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "15 U.S.C. § 7804"
-generated_at: "2026-03-30T09:21:54.436Z"
+generated_at: "2026-03-30T09:24:21.283Z"
 status: "active"
 ---
 

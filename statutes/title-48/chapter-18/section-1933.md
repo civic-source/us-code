@@ -3,9 +3,9 @@ title: "Section 1933 - Supplemental provisions"
 usc_title: 48
 usc_section: "1933"
 chapter: 18
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "48 U.S.C. § 1933"
-generated_at: "2026-03-30T09:23:05.963Z"
+generated_at: "2026-03-30T09:26:22.239Z"
 status: "active"
 ---
 

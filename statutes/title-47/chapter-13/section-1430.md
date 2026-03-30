@@ -3,9 +3,9 @@ title: "Section 1430 - Annual report to Congress"
 usc_title: 47
 usc_section: "1430"
 chapter: 13
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "47 U.S.C. § 1430"
-generated_at: "2026-03-30T09:23:06.396Z"
+generated_at: "2026-03-30T09:26:21.824Z"
 status: "active"
 ---
 

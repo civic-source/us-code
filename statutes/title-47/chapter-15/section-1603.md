@@ -3,9 +3,9 @@ title: "Section 1603 - Secure and Trusted Communications Networks Reimbursement 
 usc_title: 47
 usc_section: "1603"
 chapter: 15
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "47 U.S.C. § 1603"
-generated_at: "2026-03-30T09:23:06.398Z"
+generated_at: "2026-03-30T09:26:21.826Z"
 status: "active"
 ---
 

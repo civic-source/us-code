@@ -3,9 +3,9 @@ title: "Section 315 - Grazing districts; establishment; restrictions; prior righ
 usc_title: 43
 usc_section: "315"
 chapter: 8
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "43 U.S.C. § 315"
-generated_at: "2026-03-30T09:22:51.352Z"
+generated_at: "2026-03-30T09:26:01.150Z"
 status: "active"
 ---
 

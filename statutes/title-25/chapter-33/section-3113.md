@@ -3,9 +3,9 @@ title: "Section 3113 - Establishment of Indian and Alaska Native forestry educat
 usc_title: 25
 usc_section: "3113"
 chapter: 33
-current_through: "PL 116-147"
+current_through: "PL 116-148"
 classification: "25 U.S.C. § 3113"
-generated_at: "2026-03-30T09:22:19.215Z"
+generated_at: "2026-03-30T09:24:54.661Z"
 status: "active"
 ---
 
