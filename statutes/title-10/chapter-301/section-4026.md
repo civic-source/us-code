@@ -3,9 +3,9 @@ title: "Section 4026 - Cooperative research and development agreements under Ste
 usc_title: 10
 usc_section: "4026"
 chapter: 301
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 4026"
-generated_at: "2026-03-30T00:23:58.504Z"
+generated_at: "2026-03-30T00:27:14.379Z"
 ---
 
 # § 4026. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980

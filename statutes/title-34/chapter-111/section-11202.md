@@ -3,9 +3,9 @@ title: "Section 11202 - Promulgation of rules"
 usc_title: 34
 usc_section: "11202"
 chapter: 111
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "34 U.S.C. § 11202"
-generated_at: "2026-03-30T00:25:25.727Z"
+generated_at: "2026-03-30T00:27:59.928Z"
 ---
 
 # § 11202. Promulgation of rules

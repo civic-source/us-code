@@ -3,9 +3,9 @@ title: "Section 1080 - Default of student under Federal loan insurance program"
 usc_title: 20
 usc_section: "1080"
 chapter: 28
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 1080"
-generated_at: "2026-03-30T00:24:56.859Z"
+generated_at: "2026-03-30T00:27:29.642Z"
 ---
 
 # § 1080. Default of student under Federal loan insurance program

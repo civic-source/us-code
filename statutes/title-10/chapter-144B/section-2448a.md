@@ -3,9 +3,9 @@ title: "Section 2448a - Renumbered § 4271]"
 usc_title: 10
 usc_section: "2448a"
 chapter: 144
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 2448a"
-generated_at: "2026-03-30T00:23:58.470Z"
+generated_at: "2026-03-30T00:27:14.343Z"
 ---
 
 # [§ 2448a. Renumbered § 4271]

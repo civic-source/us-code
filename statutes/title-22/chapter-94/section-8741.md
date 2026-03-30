@@ -3,9 +3,9 @@ title: "Section 8741 - Identification of, and imposition of sanctions with respe
 usc_title: 22
 usc_section: "8741"
 chapter: 94
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 8741"
-generated_at: "2026-03-30T00:25:05.484Z"
+generated_at: "2026-03-30T00:27:43.393Z"
 ---
 
 # § 8741. Identification of, and imposition of sanctions with respect to, officials, agents, and affiliates of Iran’s Revolutionary Guard Corps

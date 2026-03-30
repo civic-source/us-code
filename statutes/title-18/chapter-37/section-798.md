@@ -3,9 +3,9 @@ title: "Section 798 - Disclosure of classified information"
 usc_title: 18
 usc_section: "798"
 chapter: 37
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 798"
-generated_at: "2026-03-30T00:24:29.211Z"
+generated_at: "2026-03-30T00:27:27.516Z"
 ---
 
 # § 798. Disclosure of classified information

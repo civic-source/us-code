@@ -3,9 +3,9 @@ title: "Section 4441 - Program for Native Hawaiian and Alaska Native culture and
 usc_title: 20
 usc_section: "4441"
 chapter: 56
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 4441"
-generated_at: "2026-03-30T00:24:56.938Z"
+generated_at: "2026-03-30T00:27:29.713Z"
 ---
 
 # § 4441. Program for Native Hawaiian and Alaska Native culture and arts development

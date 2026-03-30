@@ -3,9 +3,9 @@ title: "Section 2017 - Limitation on establishment of postsecondary educational 
 usc_title: 10
 usc_section: "2017"
 chapter: 101
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 2017"
-generated_at: "2026-03-30T00:23:58.457Z"
+generated_at: "2026-03-30T00:27:14.329Z"
 ---
 
 # § 2017. Limitation on establishment of postsecondary educational institutions pending notice to Congress

@@ -3,9 +3,9 @@ title: "Section 1496 - Disbursing officers’ claims"
 usc_title: 28
 usc_section: "1496"
 chapter: 91
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "28 U.S.C. § 1496"
-generated_at: "2026-03-30T00:25:11.521Z"
+generated_at: "2026-03-30T00:27:47.118Z"
 ---
 
 # § 1496. Disbursing officers’ claims

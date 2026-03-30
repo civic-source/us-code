@@ -3,9 +3,9 @@ title: "Section 3744 - Wildlife partnership program"
 usc_title: 16
 usc_section: "3744"
 chapter: 57
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 3744"
-generated_at: "2026-03-30T00:24:34.644Z"
+generated_at: "2026-03-30T00:27:35.186Z"
 ---
 
 # § 3744. Wildlife partnership program

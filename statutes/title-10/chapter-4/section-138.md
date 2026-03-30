@@ -3,9 +3,9 @@ title: "Section 138 - Assistant Secretaries of Defense"
 usc_title: 10
 usc_section: "138"
 chapter: 4
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 138"
-generated_at: "2026-03-30T00:23:58.375Z"
+generated_at: "2026-03-30T00:27:14.246Z"
 ---
 
 # § 138. Assistant Secretaries of Defense

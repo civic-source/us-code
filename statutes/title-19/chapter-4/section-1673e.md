@@ -3,9 +3,9 @@ title: "Section 1673e - Assessment of duty"
 usc_title: 19
 usc_section: "1673e"
 chapter: 4
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "19 U.S.C. § 1673e"
-generated_at: "2026-03-30T00:24:23.394Z"
+generated_at: "2026-03-30T00:27:30.964Z"
 ---
 
 # § 1673e. Assessment of duty

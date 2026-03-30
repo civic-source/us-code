@@ -3,9 +3,9 @@ title: "Section 703 - Donation of medical supplies for use in foreign country"
 usc_title: 40
 usc_section: "703"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "40 U.S.C. § 703"
-generated_at: "2026-03-30T00:25:30.309Z"
+generated_at: "2026-03-30T00:28:15.382Z"
 ---
 
 # § 703. Donation of medical supplies for use in foreign country

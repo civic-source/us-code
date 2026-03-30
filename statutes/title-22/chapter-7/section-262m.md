@@ -3,9 +3,9 @@ title: "Section 262m - Congressional findings and policies for multilateral deve
 usc_title: 22
 usc_section: "262m"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 262m"
-generated_at: "2026-03-30T00:25:05.297Z"
+generated_at: "2026-03-30T00:27:43.222Z"
 ---
 
 # § 262m. Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and indigenous peoples

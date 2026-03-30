@@ -3,9 +3,9 @@ title: "Section 161 - Tax exemption of gifts, etc., to Library of Congress"
 usc_title: 2
 usc_section: "161"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "2 U.S.C. § 161"
-generated_at: "2026-03-30T00:23:43.016Z"
+generated_at: "2026-03-30T00:26:48.061Z"
 ---
 
 # § 161. Tax exemption of gifts, etc., to Library of Congress

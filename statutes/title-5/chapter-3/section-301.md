@@ -3,9 +3,9 @@ title: "Section 301 - Departmental regulations"
 usc_title: 5
 usc_section: "301"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "5 U.S.C. § 301"
-generated_at: "2026-03-30T00:23:46.100Z"
+generated_at: "2026-03-30T00:26:31.372Z"
 ---
 
 # § 301. Departmental regulations

@@ -3,9 +3,9 @@ title: "Section 6105 - Forfeiture for subversive activities"
 usc_title: 38
 usc_section: "6105"
 chapter: 61
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 6105"
-generated_at: "2026-03-30T00:25:32.298Z"
+generated_at: "2026-03-30T00:28:16.854Z"
 ---
 
 # § 6105. Forfeiture for subversive activities

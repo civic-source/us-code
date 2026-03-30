@@ -3,9 +3,9 @@ title: "Section 11 - Loan forgiveness for service in areas of national need"
 usc_title: 20
 usc_section: "11"
 chapter: 28
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T00:24:56.857Z"
+generated_at: "2026-03-30T00:27:29.642Z"
 ---
 
 # § 1078–11. Loan forgiveness for service in areas of national need

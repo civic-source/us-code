@@ -3,9 +3,9 @@ title: "Section 19351 - Advanced nuclear technologies Federal research, developm
 usc_title: 42
 usc_section: "19351"
 chapter: 163
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 19351"
-generated_at: "2026-03-30T00:25:57.815Z"
+generated_at: "2026-03-30T00:28:41.779Z"
 ---
 
 # § 19351. Advanced nuclear technologies Federal research, development, and demonstration program

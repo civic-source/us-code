@@ -3,9 +3,9 @@ title: "Section 14504a - Unified Carrier Registration System plan and agreement"
 usc_title: 49
 usc_section: "14504a"
 chapter: 145
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "49 U.S.C. § 14504a"
-generated_at: "2026-03-30T00:26:10.201Z"
+generated_at: "2026-03-30T00:28:57.835Z"
 ---
 
 # § 14504a. Unified Carrier Registration System plan and agreement

@@ -3,9 +3,9 @@ title: "Section 7256b - Transferred"
 usc_title: 42
 usc_section: "7256b"
 chapter: 84
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 7256b"
-generated_at: "2026-03-30T00:25:57.533Z"
+generated_at: "2026-03-30T00:28:41.523Z"
 ---
 
 # §§ 7256a, 7256b. Transferred

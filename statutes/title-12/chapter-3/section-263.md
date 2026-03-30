@@ -3,9 +3,9 @@ title: "Section 263 - Federal Open Market Committee; creation; membership; regul
 usc_title: 12
 usc_section: "263"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 263"
-generated_at: "2026-03-30T00:24:18.928Z"
+generated_at: "2026-03-30T00:27:20.299Z"
 ---
 
 # § 263. Federal Open Market Committee; creation; membership; regulations governing open-market transactions

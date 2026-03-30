@@ -3,9 +3,9 @@ title: "Section 6986 - Grants for resource recovery systems and improved solid w
 usc_title: 42
 usc_section: "6986"
 chapter: 82
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 6986"
-generated_at: "2026-03-30T00:25:57.526Z"
+generated_at: "2026-03-30T00:28:41.517Z"
 ---
 
 # § 6986. Grants for resource recovery systems and improved solid waste disposal facilities

@@ -3,9 +3,9 @@ title: "Section 1397h - Program for early detection of certain medical condition
 usc_title: 42
 usc_section: "1397h"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1397h"
-generated_at: "2026-03-30T00:25:57.298Z"
+generated_at: "2026-03-30T00:28:41.307Z"
 ---
 
 # § 1397h. Program for early detection of certain medical conditions related to environmental health hazards

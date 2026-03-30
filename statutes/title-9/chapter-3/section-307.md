@@ -3,9 +3,9 @@ title: "Section 307 - Application"
 usc_title: 9
 usc_section: "307"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "9 U.S.C. § 307"
-generated_at: "2026-03-30T00:23:47.807Z"
+generated_at: "2026-03-30T00:26:49.554Z"
 ---
 
 # § 307. Application

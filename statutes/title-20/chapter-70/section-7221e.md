@@ -3,9 +3,9 @@ title: "Section 7221e - Federal formula allocation during first year and for suc
 usc_title: 20
 usc_section: "7221e"
 chapter: 70
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 7221e"
-generated_at: "2026-03-30T00:24:56.966Z"
+generated_at: "2026-03-30T00:27:29.739Z"
 ---
 
 # § 7221e. Federal formula allocation during first year and for successive enrollment expansions

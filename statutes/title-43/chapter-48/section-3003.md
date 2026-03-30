@@ -3,9 +3,9 @@ title: "Section 3003 - Increasing economic certainty"
 usc_title: 43
 usc_section: "3003"
 chapter: 48
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "43 U.S.C. § 3003"
-generated_at: "2026-03-30T00:25:37.082Z"
+generated_at: "2026-03-30T00:28:20.696Z"
 ---
 
 # § 3003. Increasing economic certainty

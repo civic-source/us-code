@@ -3,9 +3,9 @@ title: "Section 7710 - Suspension and termination of assistance"
 usc_title: 22
 usc_section: "7710"
 chapter: 84
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 7710"
-generated_at: "2026-03-30T00:25:05.472Z"
+generated_at: "2026-03-30T00:27:43.381Z"
 ---
 
 # § 7710. Suspension and termination of assistance

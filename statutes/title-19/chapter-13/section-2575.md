@@ -3,9 +3,9 @@ title: "Section 2575 - General"
 usc_title: 19
 usc_section: "2575"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "19 U.S.C. § 2575"
-generated_at: "2026-03-30T00:24:23.422Z"
+generated_at: "2026-03-30T00:27:30.989Z"
 ---
 
 # § 2575. General

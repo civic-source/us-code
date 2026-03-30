@@ -3,9 +3,9 @@ title: "Section 813 - Art. 13. Punishment prohibited before trial"
 usc_title: 10
 usc_section: "813"
 chapter: 47
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 813"
-generated_at: "2026-03-30T00:23:58.406Z"
+generated_at: "2026-03-30T00:27:14.278Z"
 ---
 
 # § 813. Art. 13. Punishment prohibited before trial

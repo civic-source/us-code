@@ -3,9 +3,9 @@ title: "Section 9252 - Service credit: regular enlisted members; service as an o
 usc_title: 10
 usc_section: "9252"
 chapter: 933
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 9252"
-generated_at: "2026-03-30T00:23:58.543Z"
+generated_at: "2026-03-30T00:27:14.416Z"
 ---
 
 # § 9252. Service credit: regular enlisted members; service as an officer to be counted as enlisted service

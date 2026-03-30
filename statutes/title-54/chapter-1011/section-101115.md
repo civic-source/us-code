@@ -3,9 +3,9 @@ title: "Section 101115 - Corporate succession and powers and duties acting as tr
 usc_title: 54
 usc_section: "101115"
 chapter: 1011
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "54 U.S.C. § 101115"
-generated_at: "2026-03-30T00:26:13.301Z"
+generated_at: "2026-03-30T00:29:16.275Z"
 ---
 
 # § 101115. Corporate succession and powers and duties acting as trustee; personal liability for malfeasance

@@ -3,9 +3,9 @@ title: "Section 4111 - Mandatory sale for housing exceeding Federal cost limits"
 usc_title: 12
 usc_section: "4111"
 chapter: 42
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 4111"
-generated_at: "2026-03-30T00:24:19.067Z"
+generated_at: "2026-03-30T00:27:20.439Z"
 ---
 
 # § 4111. Mandatory sale for housing exceeding Federal cost limits

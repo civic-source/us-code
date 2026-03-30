@@ -3,9 +3,9 @@ title: "Section 278a - Use of appropriated funds for education in sectarian scho
 usc_title: 25
 usc_section: "278a"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 278a"
-generated_at: "2026-03-30T00:25:07.709Z"
+generated_at: "2026-03-30T00:27:39.416Z"
 ---
 
 # § 278a. Use of appropriated funds for education in sectarian schools prohibited; exceptions

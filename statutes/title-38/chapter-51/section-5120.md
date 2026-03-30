@@ -3,9 +3,9 @@ title: "Section 5120 - Payment of benefits; delivery"
 usc_title: 38
 usc_section: "5120"
 chapter: 51
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 5120"
-generated_at: "2026-03-30T00:25:32.293Z"
+generated_at: "2026-03-30T00:28:16.851Z"
 ---
 
 # § 5120. Payment of benefits; delivery

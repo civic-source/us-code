@@ -3,9 +3,9 @@ title: "Section 7411 - Findings and purpose"
 usc_title: 7
 usc_section: "7411"
 chapter: 101
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 7411"
-generated_at: "2026-03-30T00:23:53.721Z"
+generated_at: "2026-03-30T00:26:57.230Z"
 ---
 
 # § 7411. Findings and purpose

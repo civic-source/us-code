@@ -3,9 +3,9 @@ title: "Section 6308 - Information barred in legal proceedings"
 usc_title: 46
 usc_section: "6308"
 chapter: 63
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "46 U.S.C. § 6308"
-generated_at: "2026-03-30T00:26:04.698Z"
+generated_at: "2026-03-30T00:28:46.574Z"
 ---
 
 # § 6308. Information barred in legal proceedings

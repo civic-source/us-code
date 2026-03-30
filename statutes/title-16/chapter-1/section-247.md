@@ -3,9 +3,9 @@ title: "Section 247 - Homestead, mineral, and other rights un­affected"
 usc_title: 16
 usc_section: "247"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 247"
-generated_at: "2026-03-30T00:24:34.370Z"
+generated_at: "2026-03-30T00:27:34.965Z"
 ---
 
 # § 247. Homestead, mineral, and other rights un­affected

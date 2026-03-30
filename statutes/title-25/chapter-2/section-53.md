@@ -3,9 +3,9 @@ title: "Section 53 - Disbursing officers; acting clerks"
 usc_title: 25
 usc_section: "53"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 53"
-generated_at: "2026-03-30T00:25:07.706Z"
+generated_at: "2026-03-30T00:27:39.413Z"
 ---
 
 # § 53. Disbursing officers; acting clerks

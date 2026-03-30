@@ -3,9 +3,9 @@ title: "Section 2142 - Establishment of program at American Folklife Center to c
 usc_title: 20
 usc_section: "2142"
 chapter: 43
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 2142"
-generated_at: "2026-03-30T00:24:56.922Z"
+generated_at: "2026-03-30T00:27:29.700Z"
 ---
 
 # § 2142. Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans

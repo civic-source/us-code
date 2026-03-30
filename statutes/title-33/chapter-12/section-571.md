@@ -3,9 +3,9 @@ title: "Section 571 - Crediting reimbursements for lost, stolen, or damaged prop
 usc_title: 33
 usc_section: "571"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 571"
-generated_at: "2026-03-30T00:25:27.446Z"
+generated_at: "2026-03-30T00:28:11.782Z"
 ---
 
 # § 571. Crediting reimbursements for lost, stolen, or damaged property

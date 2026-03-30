@@ -3,9 +3,9 @@ title: "Section 6412 - Coral reef prize competitions"
 usc_title: 16
 usc_section: "6412"
 chapter: 83
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 6412"
-generated_at: "2026-03-30T00:24:34.677Z"
+generated_at: "2026-03-30T00:27:35.213Z"
 ---
 
 # § 6412. Coral reef prize competitions

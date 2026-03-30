@@ -3,9 +3,9 @@ title: "Section 933 - Art. 133. Conduct unbecoming an officer"
 usc_title: 10
 usc_section: "933"
 chapter: 47
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 933"
-generated_at: "2026-03-30T00:23:58.412Z"
+generated_at: "2026-03-30T00:27:14.286Z"
 ---
 
 # § 933. Art. 133. Conduct unbecoming an officer

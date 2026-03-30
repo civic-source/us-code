@@ -3,9 +3,9 @@ title: "Section 5493 - Administrative expenses of Agency for International Devel
 usc_title: 22
 usc_section: "5493"
 chapter: 63
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 5493"
-generated_at: "2026-03-30T00:25:05.437Z"
+generated_at: "2026-03-30T00:27:43.349Z"
 ---
 
 # § 5493. Administrative expenses of Agency for International Development

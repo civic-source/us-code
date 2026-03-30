@@ -3,9 +3,9 @@ title: "Section 5134 - Numismatic Public Enterprise Fund"
 usc_title: 31
 usc_section: "5134"
 chapter: 51
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "31 U.S.C. § 5134"
-generated_at: "2026-03-30T00:25:24.909Z"
+generated_at: "2026-03-30T00:28:09.073Z"
 ---
 
 # § 5134. Numismatic Public Enterprise Fund

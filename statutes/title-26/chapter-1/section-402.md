@@ -3,9 +3,9 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-30T00:25:21.310Z"
+generated_at: "2026-03-30T00:27:56.028Z"
 ---
 
 # § 402. Taxability of beneficiary of employees’ trust

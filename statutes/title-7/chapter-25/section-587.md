@@ -3,9 +3,9 @@ title: "Section 587 - Rules and regulations; cooperation with other agencies; co
 usc_title: 7
 usc_section: "587"
 chapter: 25
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 587"
-generated_at: "2026-03-30T00:23:53.588Z"
+generated_at: "2026-03-30T00:26:57.103Z"
 ---
 
 # § 587. Rules and regulations; cooperation with other agencies; compensation of officers and employees; effect on other laws

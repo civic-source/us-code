@@ -3,9 +3,9 @@ title: "Section 9802 - Purposes"
 usc_title: 15
 usc_section: "9802"
 chapter: 122
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 9802"
-generated_at: "2026-03-30T00:24:12.020Z"
+generated_at: "2026-03-30T00:27:23.672Z"
 ---
 
 # § 9802. Purposes

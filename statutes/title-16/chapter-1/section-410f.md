@@ -3,9 +3,9 @@ title: "Section 410f - Limitation of Federal action during reservation period"
 usc_title: 16
 usc_section: "410f"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 410f"
-generated_at: "2026-03-30T00:24:34.383Z"
+generated_at: "2026-03-30T00:27:34.976Z"
 ---
 
 # § 410f. Limitation of Federal action during reservation period

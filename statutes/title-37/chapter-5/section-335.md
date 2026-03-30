@@ -3,9 +3,9 @@ title: "Section 335 - Special bonus and incentive pay authorities for officers i
 usc_title: 37
 usc_section: "335"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "37 U.S.C. § 335"
-generated_at: "2026-03-30T00:25:29.833Z"
+generated_at: "2026-03-30T00:28:17.199Z"
 ---
 
 # § 335. Special bonus and incentive pay authorities for officers in health professions

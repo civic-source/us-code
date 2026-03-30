@@ -3,9 +3,9 @@ title: "Section 1329 - Repealed. Sept. 26, 1950, ch. 1049, § 13(1) , 64 Stat. 1
 usc_title: 48
 usc_section: "1329"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "48 U.S.C. § 1329"
-generated_at: "2026-03-30T00:26:01.312Z"
+generated_at: "2026-03-30T00:28:44.874Z"
 ---
 
 # §§ 1328, 1329. Repealed. Sept. 26, 1950, ch. 1049, § 13(1) , 64 Stat. 1043

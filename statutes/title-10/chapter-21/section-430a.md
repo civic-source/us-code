@@ -3,9 +3,9 @@ title: "Section 430a - Executive agent for management and oversight of alternati
 usc_title: 10
 usc_section: "430a"
 chapter: 21
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 430a"
-generated_at: "2026-03-30T00:23:58.390Z"
+generated_at: "2026-03-30T00:27:14.262Z"
 ---
 
 # § 430a. Executive agent for management and oversight of alternative compensatory control measures

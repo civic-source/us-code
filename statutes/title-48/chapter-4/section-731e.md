@@ -3,9 +3,9 @@ title: "Section 731e - Chapter continued in force and effect"
 usc_title: 48
 usc_section: "731e"
 chapter: 4
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "48 U.S.C. § 731e"
-generated_at: "2026-03-30T00:26:01.310Z"
+generated_at: "2026-03-30T00:28:44.873Z"
 ---
 
 # § 731e. Chapter continued in force and effect

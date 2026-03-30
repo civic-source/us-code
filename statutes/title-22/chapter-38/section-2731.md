@@ -3,9 +3,9 @@ title: "Section 2731 - Monitoring and combating anti-Semitism"
 usc_title: 22
 usc_section: "2731"
 chapter: 38
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2731"
-generated_at: "2026-03-30T00:25:05.390Z"
+generated_at: "2026-03-30T00:27:43.306Z"
 ---
 
 # § 2731. Monitoring and combating anti-Semitism

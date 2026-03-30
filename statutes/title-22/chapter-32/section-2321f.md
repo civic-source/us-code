@@ -3,9 +3,9 @@ title: "Section 2321f - Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , De
 usc_title: 22
 usc_section: "2321f"
 chapter: 32
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2321f"
-generated_at: "2026-03-30T00:25:05.360Z"
+generated_at: "2026-03-30T00:27:43.280Z"
 ---
 
 # § 2321f. Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , Dec. 29, 1981 , 95 Stat. 1560

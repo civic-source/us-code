@@ -3,9 +3,9 @@ title: "Section 18082 - Advance determination and payment of premium tax credits
 usc_title: 42
 usc_section: "18082"
 chapter: 157
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 18082"
-generated_at: "2026-03-30T00:25:57.782Z"
+generated_at: "2026-03-30T00:28:41.750Z"
 ---
 
 # § 18082. Advance determination and payment of premium tax credits and cost-sharing reductions

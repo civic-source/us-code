@@ -3,9 +3,9 @@ title: "Section 2001 - Definitions"
 usc_title: 39
 usc_section: "2001"
 chapter: 20
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "39 U.S.C. § 2001"
-generated_at: "2026-03-30T00:25:29.489Z"
+generated_at: "2026-03-30T00:28:13.584Z"
 ---
 
 # § 2001. Definitions

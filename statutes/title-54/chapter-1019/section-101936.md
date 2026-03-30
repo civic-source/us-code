@@ -3,9 +3,9 @@ title: "Section 101936 - Regulations"
 usc_title: 54
 usc_section: "101936"
 chapter: 1019
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "54 U.S.C. § 101936"
-generated_at: "2026-03-30T00:26:13.306Z"
+generated_at: "2026-03-30T00:29:16.277Z"
 ---
 
 # § 101936. Regulations

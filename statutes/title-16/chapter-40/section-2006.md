@@ -3,9 +3,9 @@ title: "Section 2006 - Reports to Congress"
 usc_title: 16
 usc_section: "2006"
 chapter: 40
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 2006"
-generated_at: "2026-03-30T00:24:34.621Z"
+generated_at: "2026-03-30T00:27:35.167Z"
 ---
 
 # § 2006. Reports to Congress

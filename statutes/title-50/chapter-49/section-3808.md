@@ -3,9 +3,9 @@ title: "Section 3808 - Separation from service"
 usc_title: 50
 usc_section: "3808"
 chapter: 49
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 3808"
-generated_at: "2026-03-30T00:26:03.369Z"
+generated_at: "2026-03-30T00:28:48.613Z"
 ---
 
 # § 3808. Separation from service

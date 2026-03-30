@@ -3,9 +3,9 @@ title: "Section 2151t - Development assistance authority"
 usc_title: 22
 usc_section: "2151t"
 chapter: 32
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2151t"
-generated_at: "2026-03-30T00:25:05.347Z"
+generated_at: "2026-03-30T00:27:43.267Z"
 ---
 
 # § 2151t. Development assistance authority

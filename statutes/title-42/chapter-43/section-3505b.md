@@ -3,9 +3,9 @@ title: "Section 3505b - Functions and duties of Deputy Assistant Secretary for P
 usc_title: 42
 usc_section: "3505b"
 chapter: 43
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 3505b"
-generated_at: "2026-03-30T00:25:57.422Z"
+generated_at: "2026-03-30T00:28:41.427Z"
 ---
 
 # § 3505b. Functions and duties of Deputy Assistant Secretary for Population Affairs

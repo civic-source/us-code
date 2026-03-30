@@ -3,9 +3,9 @@ title: "Section 2645 - Submission to State Governor"
 usc_title: 15
 usc_section: "2645"
 chapter: 53
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 2645"
-generated_at: "2026-03-30T00:24:11.934Z"
+generated_at: "2026-03-30T00:27:23.599Z"
 ---
 
 # § 2645. Submission to State Governor

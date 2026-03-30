@@ -3,9 +3,9 @@ title: "Section 6067 - Settlement of outstanding United States claims to confisc
 usc_title: 22
 usc_section: "6067"
 chapter: 69
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 6067"
-generated_at: "2026-03-30T00:25:05.445Z"
+generated_at: "2026-03-30T00:27:43.356Z"
 ---
 
 # § 6067. Settlement of outstanding United States claims to confiscated property in Cuba

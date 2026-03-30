@@ -3,9 +3,9 @@ title: "Section 1756 - Remedies with respect to school district lines"
 usc_title: 20
 usc_section: "1756"
 chapter: 39
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 1756"
-generated_at: "2026-03-30T00:24:56.920Z"
+generated_at: "2026-03-30T00:27:29.698Z"
 ---
 
 # § 1756. Remedies with respect to school district lines

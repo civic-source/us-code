@@ -3,9 +3,9 @@ title: "Section 1143 - Grants"
 usc_title: 33
 usc_section: "1143"
 chapter: 22
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 1143"
-generated_at: "2026-03-30T00:25:27.464Z"
+generated_at: "2026-03-30T00:28:11.800Z"
 ---
 
 # § 1143. Grants

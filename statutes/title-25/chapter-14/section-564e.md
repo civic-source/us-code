@@ -3,9 +3,9 @@ title: "Section 564e - Omitted"
 usc_title: 25
 usc_section: "564e"
 chapter: 14
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 564e"
-generated_at: "2026-03-30T00:25:07.719Z"
+generated_at: "2026-03-30T00:27:39.425Z"
 ---
 
 # § 564e. Omitted

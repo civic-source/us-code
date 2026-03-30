@@ -3,9 +3,9 @@ title: "Section 451 - Definitions"
 usc_title: 28
 usc_section: "451"
 chapter: 21
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "28 U.S.C. § 451"
-generated_at: "2026-03-30T00:25:11.507Z"
+generated_at: "2026-03-30T00:27:47.105Z"
 ---
 
 # § 451. Definitions

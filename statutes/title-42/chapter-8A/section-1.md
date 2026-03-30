@@ -3,9 +3,9 @@ title: "Section 1 - Office of Rural Housing Preservation"
 usc_title: 42
 usc_section: "1"
 chapter: 8
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T00:25:57.332Z"
+generated_at: "2026-03-30T00:28:41.339Z"
 ---
 
 # § 1490p–1. Office of Rural Housing Preservation

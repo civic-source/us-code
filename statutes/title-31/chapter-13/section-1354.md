@@ -3,9 +3,9 @@ title: "Section 1354 - Limitation on use of appropriated funds for contracts wit
 usc_title: 31
 usc_section: "1354"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "31 U.S.C. § 1354"
-generated_at: "2026-03-30T00:25:24.893Z"
+generated_at: "2026-03-30T00:28:09.058Z"
 ---
 
 # § 1354. Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements

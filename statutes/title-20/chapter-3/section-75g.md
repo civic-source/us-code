@@ -3,9 +3,9 @@ title: "Section 75g - Authorization of appropriations"
 usc_title: 20
 usc_section: "75g"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 75g"
-generated_at: "2026-03-30T00:24:56.807Z"
+generated_at: "2026-03-30T00:27:29.603Z"
 ---
 
 # § 75g. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 5342 - Nutrition training report"
 usc_title: 7
 usc_section: "5342"
 chapter: 84
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 5342"
-generated_at: "2026-03-30T00:23:53.693Z"
+generated_at: "2026-03-30T00:26:57.203Z"
 ---
 
 # § 5342. Nutrition training report

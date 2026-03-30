@@ -3,9 +3,9 @@ title: "Section 5207 - Availability and allocation of funds; royalties from mine
 usc_title: 25
 usc_section: "5207"
 chapter: 45
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 5207"
-generated_at: "2026-03-30T00:25:07.781Z"
+generated_at: "2026-03-30T00:27:39.479Z"
 ---
 
 # § 5207. Availability and allocation of funds; royalties from mineral deposits

@@ -3,9 +3,9 @@ title: "Section 2221 - Transferred"
 usc_title: 12
 usc_section: "2221"
 chapter: 23
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 2221"
-generated_at: "2026-03-30T00:24:19.038Z"
+generated_at: "2026-03-30T00:27:20.413Z"
 ---
 
 # § 2221. Transferred

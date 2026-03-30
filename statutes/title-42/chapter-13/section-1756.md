@@ -3,9 +3,9 @@ title: "Section 1756 - Payments to States"
 usc_title: 42
 usc_section: "1756"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1756"
-generated_at: "2026-03-30T00:25:57.341Z"
+generated_at: "2026-03-30T00:28:41.345Z"
 ---
 
 # § 1756. Payments to States

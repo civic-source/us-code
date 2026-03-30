@@ -3,9 +3,9 @@ title: "Section 12833 - Audits by Comptroller General"
 usc_title: 42
 usc_section: "12833"
 chapter: 130
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 12833"
-generated_at: "2026-03-30T00:25:57.695Z"
+generated_at: "2026-03-30T00:28:41.671Z"
 ---
 
 # § 12833. Audits by Comptroller General

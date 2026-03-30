@@ -3,9 +3,9 @@ title: "Section 3525 - Auditing nonappropriated fund activities"
 usc_title: 31
 usc_section: "3525"
 chapter: 35
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "31 U.S.C. § 3525"
-generated_at: "2026-03-30T00:25:24.899Z"
+generated_at: "2026-03-30T00:28:09.063Z"
 ---
 
 # § 3525. Auditing nonappropriated fund activities

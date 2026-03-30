@@ -3,9 +3,9 @@ title: "Section 1302e - Connection to publicly owned treatment works"
 usc_title: 33
 usc_section: "1302e"
 chapter: 26
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 1302e"
-generated_at: "2026-03-30T00:25:27.474Z"
+generated_at: "2026-03-30T00:28:11.808Z"
 ---
 
 # § 1302e. Connection to publicly owned treatment works

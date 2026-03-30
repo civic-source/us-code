@@ -3,9 +3,9 @@ title: "Section 8300 - Posthumous awards"
 usc_title: 10
 usc_section: "8300"
 chapter: 837
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 8300"
-generated_at: "2026-03-30T00:23:58.529Z"
+generated_at: "2026-03-30T00:27:14.403Z"
 ---
 
 # § 8300. Posthumous awards

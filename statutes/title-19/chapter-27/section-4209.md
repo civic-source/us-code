@@ -3,9 +3,9 @@ title: "Section 4209 - Application of certain provisions"
 usc_title: 19
 usc_section: "4209"
 chapter: 27
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "19 U.S.C. § 4209"
-generated_at: "2026-03-30T00:24:23.444Z"
+generated_at: "2026-03-30T00:27:31.012Z"
 ---
 
 # § 4209. Application of certain provisions

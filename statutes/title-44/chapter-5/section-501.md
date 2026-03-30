@@ -3,9 +3,9 @@ title: "Section 501 - Government printing, binding, and blank-book work to be do
 usc_title: 44
 usc_section: "501"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "44 U.S.C. § 501"
-generated_at: "2026-03-30T00:25:35.575Z"
+generated_at: "2026-03-30T00:28:19.007Z"
 ---
 
 # § 501. Government printing, binding, and blank-book work to be done at Government Publishing Office

@@ -3,9 +3,9 @@ title: "Section 360d - Performance standards"
 usc_title: 21
 usc_section: "360d"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 360d"
-generated_at: "2026-03-30T00:25:01.359Z"
+generated_at: "2026-03-30T00:27:40.610Z"
 ---
 
 # § 360d. Performance standards

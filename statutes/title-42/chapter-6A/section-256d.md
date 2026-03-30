@@ -3,9 +3,9 @@ title: "Section 256d - Breast and cervical cancer information"
 usc_title: 42
 usc_section: "256d"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 256d"
-generated_at: "2026-03-30T00:25:56.929Z"
+generated_at: "2026-03-30T00:28:40.965Z"
 ---
 
 # § 256d. Breast and cervical cancer information

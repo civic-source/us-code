@@ -3,9 +3,9 @@ title: "Section 1087h - Funds for administrative expenses"
 usc_title: 20
 usc_section: "1087h"
 chapter: 28
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 1087h"
-generated_at: "2026-03-30T00:24:56.868Z"
+generated_at: "2026-03-30T00:27:29.650Z"
 ---
 
 # § 1087h. Funds for administrative expenses

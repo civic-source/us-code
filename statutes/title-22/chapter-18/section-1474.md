@@ -3,9 +3,9 @@ title: "Section 1474 - Additional authority of Secretary of State or other Gover
 usc_title: 22
 usc_section: "1474"
 chapter: 18
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 1474"
-generated_at: "2026-03-30T00:25:05.330Z"
+generated_at: "2026-03-30T00:27:43.252Z"
 ---
 
 # § 1474. Additional authority of Secretary of State or other Government agency authorized to administer provisions

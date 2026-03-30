@@ -3,9 +3,9 @@ title: "Section 15n - Omitted"
 usc_title: 20
 usc_section: "15n"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 15n"
-generated_at: "2026-03-30T00:24:56.805Z"
+generated_at: "2026-03-30T00:27:29.602Z"
 ---
 
 # § 15n. Omitted

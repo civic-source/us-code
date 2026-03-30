@@ -3,9 +3,9 @@ title: "Section 4603 - Additional appropriations for moving costs, relocation be
 usc_title: 42
 usc_section: "4603"
 chapter: 61
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 4603"
-generated_at: "2026-03-30T00:25:57.444Z"
+generated_at: "2026-03-30T00:28:41.447Z"
 ---
 
 # § 4603. Additional appropriations for moving costs, relocation benefits and other expenses incurred in acquisition of lands for National Park System; waiver of benefits

@@ -3,9 +3,9 @@ title: "Section 2350 - Definitions"
 usc_title: 10
 usc_section: "2350"
 chapter: 138
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 2350"
-generated_at: "2026-03-30T00:23:58.467Z"
+generated_at: "2026-03-30T00:27:14.341Z"
 ---
 
 # § 2350. Definitions

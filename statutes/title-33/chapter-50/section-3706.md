@@ -3,9 +3,9 @@ title: "Section 3706 - NSF ocean acidification activities"
 usc_title: 33
 usc_section: "3706"
 chapter: 50
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 3706"
-generated_at: "2026-03-30T00:25:27.529Z"
+generated_at: "2026-03-30T00:28:11.857Z"
 ---
 
 # § 3706. NSF ocean acidification activities
@@ -18,6 +18,6 @@ generated_at: "2026-03-30T00:25:27.529Z"
   - **(5)** adaptation and mitigation strategies to address socioeconomic effects of ocean acidification and coastal acidification.
 - **(b)** The research activities shall be consistent with the strategic research plan developed by the Subcommittee under section 3704 of this title .
 - **(c)** The Director shall encourage coordination of the Foundation’s ocean acidification and coastal acidification activities with such activities of other nations and international organizations.
-- **(d)** Recipients of grants from the National Science Foundation under this subtitle that collect data described under section 3705(d) of this title shall—
+- **(d)** Recipients of grants from the National Science Foundation under this chapter that collect data described under section 3705(d) of this title shall—
   - **(1)** collect data in accordance with the standards, protocols, or procedures established pursuant to section 3705(d) of this title ; and
   - **(2)** submit such data to the Director and the Secretary after publication, in accordance with any rules promulgated by the Director or the Secretary.

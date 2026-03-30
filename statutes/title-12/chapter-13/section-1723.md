@@ -3,9 +3,9 @@ title: "Section 1723 - Management"
 usc_title: 12
 usc_section: "1723"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 1723"
-generated_at: "2026-03-30T00:24:18.983Z"
+generated_at: "2026-03-30T00:27:20.356Z"
 ---
 
 # § 1723. Management

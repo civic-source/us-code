@@ -3,9 +3,9 @@ title: "Section 312 - Rights-of-way for railway, telegraph, and telephone lines;
 usc_title: 25
 usc_section: "312"
 chapter: 8
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 312"
-generated_at: "2026-03-30T00:25:07.711Z"
+generated_at: "2026-03-30T00:27:39.418Z"
 ---
 
 # § 312. Rights-of-way for railway, telegraph, and telephone lines; town-site stations

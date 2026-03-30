@@ -3,9 +3,9 @@ title: "Section 5313 - Withdrawal of distilled spirits from customs custody free
 usc_title: 26
 usc_section: "5313"
 chapter: 51
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "26 U.S.C. § 5313"
-generated_at: "2026-03-30T00:25:21.493Z"
+generated_at: "2026-03-30T00:27:56.172Z"
 ---
 
 # § 5313. Withdrawal of distilled spirits from customs custody free of tax for use of the United States

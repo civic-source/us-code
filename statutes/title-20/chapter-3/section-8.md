@@ -3,9 +3,9 @@ title: "Section 8 - Consideration of recommendations of Presidential Commission"
 usc_title: 20
 usc_section: "8"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 8"
-generated_at: "2026-03-30T00:24:56.815Z"
+generated_at: "2026-03-30T00:27:29.609Z"
 ---
 
 # § 80r–8. Consideration of recommendations of Presidential Commission

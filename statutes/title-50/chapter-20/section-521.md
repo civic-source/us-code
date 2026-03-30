@@ -3,9 +3,9 @@ title: "Section 521 - Establishment; construction, maintenance, and operation of
 usc_title: 50
 usc_section: "521"
 chapter: 20
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 521"
-generated_at: "2026-03-30T00:26:03.298Z"
+generated_at: "2026-03-30T00:28:48.546Z"
 ---
 
 # § 521. Establishment; construction, maintenance, and operation of public works and wind tunnels

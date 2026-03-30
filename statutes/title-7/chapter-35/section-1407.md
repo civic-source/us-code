@@ -3,9 +3,9 @@ title: "Section 1407 - Omitted"
 usc_title: 7
 usc_section: "1407"
 chapter: 35
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 1407"
-generated_at: "2026-03-30T00:23:53.606Z"
+generated_at: "2026-03-30T00:26:57.120Z"
 ---
 
 # §§ 1401 to 1407. Omitted

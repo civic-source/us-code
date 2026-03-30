@@ -3,9 +3,9 @@ title: "Section 2021 - Homeless veterans reintegration programs"
 usc_title: 38
 usc_section: "2021"
 chapter: 20
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 2021"
-generated_at: "2026-03-30T00:25:32.260Z"
+generated_at: "2026-03-30T00:28:16.825Z"
 ---
 
 # § 2021. Homeless veterans reintegration programs
@@ -34,7 +34,7 @@ generated_at: "2026-03-30T00:25:32.260Z"
   - **(1)** The Attorney General of the United States shall permit a recipient of a grant or contract under this section or section 2023 of this title to provide services under this section or section 2023 of this title to any veteran described in subsection (a)(4) who is residing in a penal institution under the jurisdiction of the Bureau of Prisons.
   - **(2)** The recipient of a grant or contract under this section may provide to officials of an institution described in paragraph (1) information regarding the services provided to veterans under this section and section 2023 of this title during the 18-month period preceding the release or discharge of a veteran from the institution.
 - **(g)**
-  - **(1)** The Secretary of Labor shall require each recipient of a grant or contract under this section to submit to that Secretary a report on the services provided and veterans served using grant or contract amounts not later than 90 days after the end of each program year, beginning with the program year the begins after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022.
+  - **(1)** The Secretary of Labor shall require each recipient of a grant or contract under this section to submit to that Secretary a report on the services provided and veterans served using grant or contract amounts not later than 90 days after the end of each program year, beginning with the program year the 1 1 So in original. Probably should be “that”. begins after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022.
   - **(2)** To the extent practicable, each report submitted under paragraph (1) shall—
     - **(A)** disaggregate the number of veterans served by—
       - **(i)** sex;

@@ -3,9 +3,9 @@ title: "Section 1066 - Use of commissary stores and MWR facilities: protective s
 usc_title: 10
 usc_section: "1066"
 chapter: 54
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 1066"
-generated_at: "2026-03-30T00:23:58.422Z"
+generated_at: "2026-03-30T00:27:14.295Z"
 ---
 
 # § 1066. Use of commissary stores and MWR facilities: protective services civilian employees

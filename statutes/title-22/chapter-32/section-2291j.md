@@ -3,9 +3,9 @@ title: "Section 2291j - Annual certification procedures"
 usc_title: 22
 usc_section: "2291j"
 chapter: 32
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2291j"
-generated_at: "2026-03-30T00:25:05.357Z"
+generated_at: "2026-03-30T00:27:43.277Z"
 ---
 
 # § 2291j. Annual certification procedures

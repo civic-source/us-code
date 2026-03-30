@@ -3,9 +3,9 @@ title: "Section 21306 - Historical collections"
 usc_title: 36
 usc_section: "21306"
 chapter: 213
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "36 U.S.C. § 21306"
-generated_at: "2026-03-30T00:25:33.664Z"
+generated_at: "2026-03-30T00:28:14.450Z"
 ---
 
 # § 21306. Historical collections

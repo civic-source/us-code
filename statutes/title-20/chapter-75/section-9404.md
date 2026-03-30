@@ -3,9 +3,9 @@ title: "Section 9404 - Authorization and appropriation of funds"
 usc_title: 20
 usc_section: "9404"
 chapter: 75
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 9404"
-generated_at: "2026-03-30T00:24:56.986Z"
+generated_at: "2026-03-30T00:27:29.758Z"
 ---
 
 # § 9404. Authorization and appropriation of funds

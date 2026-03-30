@@ -3,9 +3,9 @@ title: "Section 594 - Authority and duties of an independent counsel"
 usc_title: 28
 usc_section: "594"
 chapter: 40
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "28 U.S.C. § 594"
-generated_at: "2026-03-30T00:25:11.512Z"
+generated_at: "2026-03-30T00:27:47.110Z"
 ---
 
 # § 594. Authority and duties of an independent counsel

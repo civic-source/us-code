@@ -3,9 +3,9 @@ title: "Section 70103 - Maritime transportation security plans"
 usc_title: 46
 usc_section: "70103"
 chapter: 701
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "46 U.S.C. § 70103"
-generated_at: "2026-03-30T00:26:04.733Z"
+generated_at: "2026-03-30T00:28:46.609Z"
 ---
 
 # § 70103. Maritime transportation security plans

@@ -3,9 +3,9 @@ title: "Section 315 - Detail of regular members of Army and Air Force to duty wi
 usc_title: 32
 usc_section: "315"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "32 U.S.C. § 315"
-generated_at: "2026-03-30T00:25:23.649Z"
+generated_at: "2026-03-30T00:27:58.428Z"
 ---
 
 # § 315. Detail of regular members of Army and Air Force to duty with National Guard

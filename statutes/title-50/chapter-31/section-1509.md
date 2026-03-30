@@ -3,9 +3,9 @@ title: "Section 1509 - Transferred"
 usc_title: 50
 usc_section: "1509"
 chapter: 31
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 1509"
-generated_at: "2026-03-30T00:26:03.302Z"
+generated_at: "2026-03-30T00:28:48.547Z"
 ---
 
 # §§ 1501 to 1509. Transferred

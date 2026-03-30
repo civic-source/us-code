@@ -3,9 +3,9 @@ title: "Section 16161b - National clean hydrogen strategy and roadmap"
 usc_title: 42
 usc_section: "16161b"
 chapter: 149
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 16161b"
-generated_at: "2026-03-30T00:25:57.736Z"
+generated_at: "2026-03-30T00:28:41.709Z"
 ---
 
 # § 16161b. National clean hydrogen strategy and roadmap

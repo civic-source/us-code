@@ -3,9 +3,9 @@ title: "Section 6634 - Continuation of Committee"
 usc_title: 42
 usc_section: "6634"
 chapter: 79
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 6634"
-generated_at: "2026-03-30T00:25:57.510Z"
+generated_at: "2026-03-30T00:28:41.502Z"
 ---
 
 # § 6634. Continuation of Committee

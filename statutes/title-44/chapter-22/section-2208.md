@@ -3,9 +3,9 @@ title: "Section 2208 - Claims of constitutionally based privilege against disclo
 usc_title: 44
 usc_section: "2208"
 chapter: 22
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "44 U.S.C. § 2208"
-generated_at: "2026-03-30T00:25:35.580Z"
+generated_at: "2026-03-30T00:28:19.013Z"
 ---
 
 # § 2208. Claims of constitutionally based privilege against disclosure

@@ -3,9 +3,9 @@ title: "Section 375 - [Reserved]"
 usc_title: 12
 usc_section: "375"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 375"
-generated_at: "2026-03-30T00:24:18.931Z"
+generated_at: "2026-03-30T00:27:20.303Z"
 ---
 
 # § 375. [Reserved]

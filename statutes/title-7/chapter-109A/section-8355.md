@@ -3,9 +3,9 @@ title: "Section 8355 - Losses of livestock due to depredation by federally prote
 usc_title: 7
 usc_section: "8355"
 chapter: 109
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 8355"
-generated_at: "2026-03-30T00:23:53.743Z"
+generated_at: "2026-03-30T00:26:57.252Z"
 ---
 
 # § 8355. Losses of livestock due to depredation by federally protected species

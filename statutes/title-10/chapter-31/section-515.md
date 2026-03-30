@@ -3,9 +3,9 @@ title: "Section 515 - Reenlistment after discharge as warrant officer"
 usc_title: 10
 usc_section: "515"
 chapter: 31
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 515"
-generated_at: "2026-03-30T00:23:58.395Z"
+generated_at: "2026-03-30T00:27:14.266Z"
 ---
 
 # § 515. Reenlistment after discharge as warrant officer

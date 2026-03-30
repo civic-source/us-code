@@ -3,9 +3,9 @@ title: "Section 3055 - Officers’ powers to suppress Indian liquor traffic"
 usc_title: 18
 usc_section: "3055"
 chapter: 203
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 3055"
-generated_at: "2026-03-30T00:24:29.256Z"
+generated_at: "2026-03-30T00:27:27.549Z"
 ---
 
 # § 3055. Officers’ powers to suppress Indian liquor traffic

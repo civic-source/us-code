@@ -3,9 +3,9 @@ title: "Section 116 - Negotiated licenses for public performances by means of co
 usc_title: 17
 usc_section: "116"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "17 U.S.C. § 116"
-generated_at: "2026-03-30T00:24:22.106Z"
+generated_at: "2026-03-30T00:27:25.656Z"
 ---
 
 # § 116. Negotiated licenses for public performances by means of coin-operated phonorecord players

@@ -3,9 +3,9 @@ title: "Section 9036 - Certification by Commission"
 usc_title: 26
 usc_section: "9036"
 chapter: 96
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "26 U.S.C. § 9036"
-generated_at: "2026-03-30T00:25:21.574Z"
+generated_at: "2026-03-30T00:27:56.238Z"
 ---
 
 # § 9036. Certification by Commission

@@ -3,9 +3,9 @@ title: "Section 698e - Authorization of appropriations for Big Thicket Preserve"
 usc_title: 16
 usc_section: "698e"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 698e"
-generated_at: "2026-03-30T00:24:34.518Z"
+generated_at: "2026-03-30T00:27:35.087Z"
 ---
 
 # § 698e. Authorization of appropriations for Big Thicket Preserve

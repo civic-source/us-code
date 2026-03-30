@@ -3,9 +3,9 @@ title: "Section 47509 - Research program on quiet aircraft technology for propel
 usc_title: 49
 usc_section: "47509"
 chapter: 475
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "49 U.S.C. § 47509"
-generated_at: "2026-03-30T00:26:10.282Z"
+generated_at: "2026-03-30T00:28:57.909Z"
 ---
 
 # § 47509. Research program on quiet aircraft technology for propeller and rotor driven aircraft

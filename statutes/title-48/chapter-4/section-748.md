@@ -3,9 +3,9 @@ title: "Section 748 - Conveyance by President to people of lands, buildings, etc
 usc_title: 48
 usc_section: "748"
 chapter: 4
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "48 U.S.C. § 748"
-generated_at: "2026-03-30T00:26:01.311Z"
+generated_at: "2026-03-30T00:28:44.873Z"
 ---
 
 # § 748. Conveyance by President to people of lands, buildings, etc.

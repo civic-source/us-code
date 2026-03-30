@@ -3,9 +3,9 @@ title: "Section 2012 - Administrative provisions"
 usc_title: 20
 usc_section: "2012"
 chapter: 42
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 2012"
-generated_at: "2026-03-30T00:24:56.921Z"
+generated_at: "2026-03-30T00:27:29.699Z"
 ---
 
 # § 2012. Administrative provisions

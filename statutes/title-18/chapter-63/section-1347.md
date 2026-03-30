@@ -3,9 +3,9 @@ title: "Section 1347 - Health care fraud"
 usc_title: 18
 usc_section: "1347"
 chapter: 63
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 1347"
-generated_at: "2026-03-30T00:24:29.225Z"
+generated_at: "2026-03-30T00:27:27.528Z"
 ---
 
 # § 1347. Health care fraud

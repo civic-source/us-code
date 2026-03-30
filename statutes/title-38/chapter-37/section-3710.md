@@ -3,9 +3,9 @@ title: "Section 3710 - Purchase or construction of homes"
 usc_title: 38
 usc_section: "3710"
 chapter: 37
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 3710"
-generated_at: "2026-03-30T00:25:32.283Z"
+generated_at: "2026-03-30T00:28:16.843Z"
 ---
 
 # § 3710. Purchase or construction of homes
@@ -111,7 +111,7 @@ generated_at: "2026-03-30T00:25:32.283Z"
 - **(i)**
   - **(1)** The Secretary, in consultation with the advisory group established under paragraph (3)(A), shall prescribe regulations and issue guidance to assist lenders in evaluating the sufficiency of the residual income of a veteran pursuant to paragraph (2).
   - **(2)**
-    - **(A)** Pursuant to the regulations and guidance prescribed under paragraph (1), in the case of a loan to a veteran to be guaranteed under this chapter, if the veteran provides to the lender an energy efficiency report described in subparagraph (B) —
+    - **(A)** Pursuant to the regulations and guidance prescribed under paragraph (1), in the case of a loan to a veteran to be guaranteed under this chapter, if the veteran provides to the lender an energy efficiency report described in subparagraph (B)—
       - **(i)** the evaluation by the lender of the sufficiency of the residual income of the veteran shall include a consideration of the estimate of the expected energy cost savings contained in the report; and
       - **(ii)** the lender may apply the underwriting expertise of the lender in adjusting the residual income of the veteran in accordance with the information in the report.
     - **(B)** An energy efficiency report described in this subparagraph is a report made with respect to a home for which a loan is to be guaranteed under this chapter that includes each of the following:

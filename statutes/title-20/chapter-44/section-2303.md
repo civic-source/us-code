@@ -3,9 +3,9 @@ title: "Section 2303 - Transition provisions"
 usc_title: 20
 usc_section: "2303"
 chapter: 44
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 2303"
-generated_at: "2026-03-30T00:24:56.923Z"
+generated_at: "2026-03-30T00:27:29.701Z"
 ---
 
 # § 2303. Transition provisions

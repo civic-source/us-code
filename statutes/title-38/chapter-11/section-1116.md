@@ -3,9 +3,9 @@ title: "Section 1116 - Presumptions of service connection for diseases associate
 usc_title: 38
 usc_section: "1116"
 chapter: 11
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 1116"
-generated_at: "2026-03-30T00:25:32.239Z"
+generated_at: "2026-03-30T00:28:16.808Z"
 ---
 
 # § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T00:25:32.239Z"
     - **(M)** Hypertension.
   - **(3)** For purposes of this section, the term “herbicide agent” means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962 , and ending on May 7, 1975 .
 - **(b)** The Secretary shall ensure that any determination made on or after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 regarding a presumption of service connection based on exposure to an herbicide agent under this section is made pursuant to subchapter VII of this chapter, including with respect to assessing reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991 ( Public Law 102–4 ).
-- **(c)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+- **(c)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service, 1 1 So in original. The comma probably should not appear. shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 - **(d)** In this section, the term “covered service” means active military, naval, air, or space service—
   - **(1)** performed in the Republic of Vietnam during the period beginning on January 9, 1962 , and ending on May 7, 1975 ;
   - **(2)** performed in Thailand at any United States or Royal Thai base during the period beginning on January 9, 1962 , and ending on June 30, 1976 , without regard to where on the base the veteran was located or what military job specialty the veteran performed;

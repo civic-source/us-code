@@ -3,9 +3,9 @@ title: "Section 30305 - Outreach program"
 usc_title: 51
 usc_section: "30305"
 chapter: 303
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "51 U.S.C. § 30305"
-generated_at: "2026-03-30T00:26:12.738Z"
+generated_at: "2026-03-30T00:29:00.040Z"
 ---
 
 # § 30305. Outreach program

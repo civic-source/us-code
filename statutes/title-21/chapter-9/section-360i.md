@@ -3,9 +3,9 @@ title: "Section 360i - Records and reports on devices"
 usc_title: 21
 usc_section: "360i"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 360i"
-generated_at: "2026-03-30T00:25:01.360Z"
+generated_at: "2026-03-30T00:27:40.612Z"
 ---
 
 # § 360i. Records and reports on devices

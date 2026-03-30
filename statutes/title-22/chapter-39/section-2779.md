@@ -3,9 +3,9 @@ title: "Section 2779 - Fees of military sales agents"
 usc_title: 22
 usc_section: "2779"
 chapter: 39
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2779"
-generated_at: "2026-03-30T00:25:05.396Z"
+generated_at: "2026-03-30T00:27:43.311Z"
 ---
 
 # § 2779. Fees of military sales agents

@@ -3,9 +3,9 @@ title: "Section 4302 - Maximum annual rate of compensation of Chief of Staff of 
 usc_title: 2
 usc_section: "4302"
 chapter: 43
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "2 U.S.C. § 4302"
-generated_at: "2026-03-30T00:23:43.057Z"
+generated_at: "2026-03-30T00:26:48.103Z"
 ---
 
 # § 4302. Maximum annual rate of compensation of Chief of Staff of Joint Committee on Taxation

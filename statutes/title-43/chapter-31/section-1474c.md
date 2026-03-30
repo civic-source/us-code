@@ -3,9 +3,9 @@ title: "Section 1474c - North American Wetlands Conservation Fund; availability 
 usc_title: 43
 usc_section: "1474c"
 chapter: 31
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "43 U.S.C. § 1474c"
-generated_at: "2026-03-30T00:25:37.051Z"
+generated_at: "2026-03-30T00:28:20.668Z"
 ---
 
 # § 1474c. North American Wetlands Conservation Fund; availability of fines or forfeitures

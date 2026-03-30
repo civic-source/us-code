@@ -3,9 +3,9 @@ title: "Section 141 - Short title; Congressional declaration of purpose and poli
 usc_title: 29
 usc_section: "141"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "29 U.S.C. § 141"
-generated_at: "2026-03-30T00:25:12.862Z"
+generated_at: "2026-03-30T00:27:50.148Z"
 ---
 
 # § 141. Short title; Congressional declaration of purpose and policy

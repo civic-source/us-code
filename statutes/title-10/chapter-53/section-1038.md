@@ -3,9 +3,9 @@ title: "Section 1038 - Service credit: certain service in Women’s Army Auxilia
 usc_title: 10
 usc_section: "1038"
 chapter: 53
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 1038"
-generated_at: "2026-03-30T00:23:58.419Z"
+generated_at: "2026-03-30T00:27:14.292Z"
 ---
 
 # § 1038. Service credit: certain service in Women’s Army Auxiliary Corps

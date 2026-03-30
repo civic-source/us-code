@@ -3,9 +3,9 @@ title: "Section 1066a - Definitions"
 usc_title: 20
 usc_section: "1066a"
 chapter: 28
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 1066a"
-generated_at: "2026-03-30T00:24:56.840Z"
+generated_at: "2026-03-30T00:27:29.628Z"
 ---
 
 # § 1066a. Definitions

@@ -3,9 +3,9 @@ title: "Section 3808 - Cooperation with States"
 usc_title: 7
 usc_section: "3808"
 chapter: 69
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 3808"
-generated_at: "2026-03-30T00:23:53.684Z"
+generated_at: "2026-03-30T00:26:57.195Z"
 ---
 
 # § 3808. Cooperation with States

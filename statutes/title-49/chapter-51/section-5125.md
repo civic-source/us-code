@@ -3,9 +3,9 @@ title: "Section 5125 - Preemption"
 usc_title: 49
 usc_section: "5125"
 chapter: 51
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "49 U.S.C. § 5125"
-generated_at: "2026-03-30T00:26:10.174Z"
+generated_at: "2026-03-30T00:28:57.810Z"
 ---
 
 # § 5125. Preemption

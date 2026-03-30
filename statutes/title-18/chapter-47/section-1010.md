@@ -3,9 +3,9 @@ title: "Section 1010 - Department of Housing and Urban Development and Federal H
 usc_title: 18
 usc_section: "1010"
 chapter: 47
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 1010"
-generated_at: "2026-03-30T00:24:29.220Z"
+generated_at: "2026-03-30T00:27:27.523Z"
 ---
 
 # § 1010. Department of Housing and Urban Development and Federal Housing Administration transactions

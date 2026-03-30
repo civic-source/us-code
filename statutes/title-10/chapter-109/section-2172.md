@@ -3,9 +3,9 @@ title: "Section 2172 - Renumbered § 16302]"
 usc_title: 10
 usc_section: "2172"
 chapter: 109
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 2172"
-generated_at: "2026-03-30T00:23:58.460Z"
+generated_at: "2026-03-30T00:27:14.333Z"
 ---
 
 # [§ 2172. Renumbered § 16302]

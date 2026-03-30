@@ -3,9 +3,9 @@ title: "Section 3101 - Rate of tax"
 usc_title: 26
 usc_section: "3101"
 chapter: 21
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "26 U.S.C. § 3101"
-generated_at: "2026-03-30T00:25:21.451Z"
+generated_at: "2026-03-30T00:27:56.137Z"
 ---
 
 # § 3101. Rate of tax

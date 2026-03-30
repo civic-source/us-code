@@ -3,9 +3,9 @@ title: "Section 1862 - Natural gas distribution"
 usc_title: 43
 usc_section: "1862"
 chapter: 36
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "43 U.S.C. § 1862"
-generated_at: "2026-03-30T00:25:37.074Z"
+generated_at: "2026-03-30T00:28:20.689Z"
 ---
 
 # § 1862. Natural gas distribution

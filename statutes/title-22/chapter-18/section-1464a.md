@@ -3,9 +3,9 @@ title: "Section 1464a - Broadcasting Board of Governors satellite and television
 usc_title: 22
 usc_section: "1464a"
 chapter: 18
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 1464a"
-generated_at: "2026-03-30T00:25:05.329Z"
+generated_at: "2026-03-30T00:27:43.251Z"
 ---
 
 # § 1464a. Broadcasting Board of Governors satellite and television

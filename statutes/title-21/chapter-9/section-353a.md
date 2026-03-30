@@ -3,9 +3,9 @@ title: "Section 353a - Pharmacy compounding"
 usc_title: 21
 usc_section: "353a"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 353a"
-generated_at: "2026-03-30T00:25:01.342Z"
+generated_at: "2026-03-30T00:27:40.593Z"
 ---
 
 # § 353a. Pharmacy compounding

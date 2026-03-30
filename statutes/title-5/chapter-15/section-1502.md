@@ -3,9 +3,9 @@ title: "Section 1502 - Influencing elections; taking part in political campaigns
 usc_title: 5
 usc_section: "1502"
 chapter: 15
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "5 U.S.C. § 1502"
-generated_at: "2026-03-30T00:23:46.115Z"
+generated_at: "2026-03-30T00:26:31.388Z"
 ---
 
 # § 1502. Influencing elections; taking part in political campaigns; prohibitions; exceptions

@@ -3,9 +3,9 @@ title: "Section 190 - Discussions in commercial reports of partisan questions"
 usc_title: 15
 usc_section: "190"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 190"
-generated_at: "2026-03-30T00:24:11.810Z"
+generated_at: "2026-03-30T00:27:23.429Z"
 ---
 
 # § 190. Discussions in commercial reports of partisan questions

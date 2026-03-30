@@ -3,9 +3,9 @@ title: "Section 138h - Regulations"
 usc_title: 7
 usc_section: "138h"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 138h"
-generated_at: "2026-03-30T00:23:53.576Z"
+generated_at: "2026-03-30T00:26:57.091Z"
 ---
 
 # § 138h. Regulations

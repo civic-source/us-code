@@ -3,9 +3,9 @@ title: "Section 1883 - Gulf of Mexico red snapper research"
 usc_title: 16
 usc_section: "1883"
 chapter: 38
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 1883"
-generated_at: "2026-03-30T00:24:34.619Z"
+generated_at: "2026-03-30T00:27:35.165Z"
 ---
 
 # § 1883. Gulf of Mexico red snapper research

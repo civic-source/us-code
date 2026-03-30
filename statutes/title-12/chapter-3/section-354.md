@@ -3,9 +3,9 @@ title: "Section 354 - Transactions involving gold coin, bullion, and certificate
 usc_title: 12
 usc_section: "354"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 354"
-generated_at: "2026-03-30T00:24:18.930Z"
+generated_at: "2026-03-30T00:27:20.302Z"
 ---
 
 # § 354. Transactions involving gold coin, bullion, and certificates

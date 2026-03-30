@@ -3,9 +3,9 @@ title: "Section 5307 - Apportionment of benefits"
 usc_title: 38
 usc_section: "5307"
 chapter: 53
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 5307"
-generated_at: "2026-03-30T00:25:32.295Z"
+generated_at: "2026-03-30T00:28:16.851Z"
 ---
 
 # § 5307. Apportionment of benefits

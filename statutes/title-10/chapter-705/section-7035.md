@@ -3,9 +3,9 @@ title: "Section 7035 - Deputy Chiefs of Staff and Assistant Chiefs of Staff"
 usc_title: 10
 usc_section: "7035"
 chapter: 705
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 7035"
-generated_at: "2026-03-30T00:23:58.518Z"
+generated_at: "2026-03-30T00:27:14.393Z"
 ---
 
 # § 7035. Deputy Chiefs of Staff and Assistant Chiefs of Staff

@@ -3,9 +3,9 @@ title: "Section 435 - Transferred"
 usc_title: 50
 usc_section: "435"
 chapter: 15
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 435"
-generated_at: "2026-03-30T00:26:03.297Z"
+generated_at: "2026-03-30T00:28:48.545Z"
 ---
 
 # § 435. Transferred

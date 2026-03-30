@@ -3,9 +3,9 @@ title: "Section 60502 - Transitioning experimental research into operational ser
 usc_title: 51
 usc_section: "60502"
 chapter: 605
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "51 U.S.C. § 60502"
-generated_at: "2026-03-30T00:26:12.746Z"
+generated_at: "2026-03-30T00:29:00.048Z"
 ---
 
 # § 60502. Transitioning experimental research into operational services

@@ -3,9 +3,9 @@ title: "Section 3623 - Office of Ombudsman"
 usc_title: 22
 usc_section: "3623"
 chapter: 51
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 3623"
-generated_at: "2026-03-30T00:25:05.407Z"
+generated_at: "2026-03-30T00:27:43.322Z"
 ---
 
 # § 3623. Office of Ombudsman

@@ -3,9 +3,9 @@ title: "Section 1801 - Congressional statement of purpose"
 usc_title: 29
 usc_section: "1801"
 chapter: 20
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "29 U.S.C. § 1801"
-generated_at: "2026-03-30T00:25:12.929Z"
+generated_at: "2026-03-30T00:27:50.213Z"
 ---
 
 # § 1801. Congressional statement of purpose

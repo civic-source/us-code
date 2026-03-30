@@ -3,9 +3,9 @@ title: "Section 1599d - Financial management positions: authority to prescribe p
 usc_title: 10
 usc_section: "1599d"
 chapter: 81
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 1599d"
-generated_at: "2026-03-30T00:23:58.450Z"
+generated_at: "2026-03-30T00:27:14.324Z"
 ---
 
 # § 1599d. Financial management positions: authority to prescribe professional certification and credential standards

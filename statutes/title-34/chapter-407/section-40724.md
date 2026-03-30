@@ -3,9 +3,9 @@ title: "Section 40724 - DNA research and development"
 usc_title: 34
 usc_section: "40724"
 chapter: 407
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "34 U.S.C. § 40724"
-generated_at: "2026-03-30T00:25:25.767Z"
+generated_at: "2026-03-30T00:27:59.962Z"
 ---
 
 # § 40724. DNA research and development

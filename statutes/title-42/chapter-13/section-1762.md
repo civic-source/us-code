@@ -3,9 +3,9 @@ title: "Section 1762 - Summer electronic benefits transfer for children program"
 usc_title: 42
 usc_section: "1762"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1762"
-generated_at: "2026-03-30T00:25:57.345Z"
+generated_at: "2026-03-30T00:28:41.350Z"
 ---
 
 # § 1762. Summer electronic benefits transfer for children program

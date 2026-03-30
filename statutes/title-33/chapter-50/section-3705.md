@@ -3,9 +3,9 @@ title: "Section 3705 - NOAA ocean acidification activities"
 usc_title: 33
 usc_section: "3705"
 chapter: 50
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 3705"
-generated_at: "2026-03-30T00:25:27.528Z"
+generated_at: "2026-03-30T00:28:11.857Z"
 ---
 
 # § 3705. NOAA ocean acidification activities
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T00:25:27.528Z"
     - **(A)** interdisciplinary research among the ocean and atmospheric sciences, and coordinated research and activities to improve understanding of ocean acidification and coastal acidification;
     - **(B)** the establishment of a long-term monitoring program of ocean acidification and coastal acidification utilizing existing global and national ocean observing assets, including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies, and adding instrumentation and sampling stations as appropriate to the aims of the research program;
     - **(C)** prioritization of the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and agency and department missions;
-    - **(D)** an optimization of understanding of socioeconomic impacts and ecosystem health
+    - **(D)** an optimization of understanding of socioeconomic impacts and ecosystem health 1 1 So in original. Probably should be followed by a semicolon.
     - **(E)** research to identify and develop adaptation and mitigation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification and coastal acidification;
     - **(F)** technical assistance to socioeconomically vulnerable States, local governments, Tribal governments, communities, and industries impacted by ocean and coastal acidification to support their development of ocean and coastal acidification mitigation strategies;
     - **(G)** as an integral part of the research programs described in this chapter, educational opportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification and coastal acidification;

@@ -3,9 +3,9 @@ title: "Section 1424 - Personation or misuse of papers in naturalization proceed
 usc_title: 18
 usc_section: "1424"
 chapter: 69
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 1424"
-generated_at: "2026-03-30T00:24:29.226Z"
+generated_at: "2026-03-30T00:27:27.528Z"
 ---
 
 # § 1424. Personation or misuse of papers in naturalization proceedings

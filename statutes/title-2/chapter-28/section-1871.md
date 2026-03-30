@@ -3,9 +3,9 @@ title: "Section 1871 - Expired appropriations available for deposit into Employe
 usc_title: 2
 usc_section: "1871"
 chapter: 28
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "2 U.S.C. § 1871"
-generated_at: "2026-03-30T00:23:43.046Z"
+generated_at: "2026-03-30T00:26:48.092Z"
 ---
 
 # § 1871. Expired appropriations available for deposit into Employees’ Compensation Fund

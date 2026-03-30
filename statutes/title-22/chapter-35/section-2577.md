@@ -3,9 +3,9 @@ title: "Section 2577 - Verification of compliance"
 usc_title: 22
 usc_section: "2577"
 chapter: 35
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2577"
-generated_at: "2026-03-30T00:25:05.379Z"
+generated_at: "2026-03-30T00:27:43.296Z"
 ---
 
 # § 2577. Verification of compliance

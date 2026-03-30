@@ -3,9 +3,9 @@ title: "Section 410aaa - Findings"
 usc_title: 16
 usc_section: "410aaa"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 410aaa"
-generated_at: "2026-03-30T00:24:34.397Z"
+generated_at: "2026-03-30T00:27:34.987Z"
 ---
 
 # § 410aaa. Findings

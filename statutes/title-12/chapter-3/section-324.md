@@ -3,9 +3,9 @@ title: "Section 324 - Laws applicable on becoming members"
 usc_title: 12
 usc_section: "324"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 324"
-generated_at: "2026-03-30T00:24:18.929Z"
+generated_at: "2026-03-30T00:27:20.300Z"
 ---
 
 # § 324. Laws applicable on becoming members

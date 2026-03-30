@@ -3,9 +3,9 @@ title: "Section 1712B - Counseling for former prisoners of war"
 usc_title: 38
 usc_section: "1712B"
 chapter: 17
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 1712B"
-generated_at: "2026-03-30T00:25:32.248Z"
+generated_at: "2026-03-30T00:28:16.816Z"
 ---
 
 # § 1712B. Counseling for former prisoners of war

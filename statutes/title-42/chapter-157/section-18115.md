@@ -3,9 +3,9 @@ title: "Section 18115 - Freedom not to participate in Federal health insurance p
 usc_title: 42
 usc_section: "18115"
 chapter: 157
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 18115"
-generated_at: "2026-03-30T00:25:57.782Z"
+generated_at: "2026-03-30T00:28:41.752Z"
 ---
 
 # § 18115. Freedom not to participate in Federal health insurance programs

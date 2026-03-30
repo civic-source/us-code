@@ -3,9 +3,9 @@ title: "Section 1702 - Presidential authorities"
 usc_title: 50
 usc_section: "1702"
 chapter: 35
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 1702"
-generated_at: "2026-03-30T00:26:03.304Z"
+generated_at: "2026-03-30T00:28:48.549Z"
 ---
 
 # § 1702. Presidential authorities

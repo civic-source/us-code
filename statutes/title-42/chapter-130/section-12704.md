@@ -3,9 +3,9 @@ title: "Section 12704 - Definitions"
 usc_title: 42
 usc_section: "12704"
 chapter: 130
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 12704"
-generated_at: "2026-03-30T00:25:57.689Z"
+generated_at: "2026-03-30T00:28:41.667Z"
 ---
 
 # § 12704. Definitions

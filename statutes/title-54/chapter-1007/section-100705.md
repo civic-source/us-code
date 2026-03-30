@@ -3,9 +3,9 @@ title: "Section 100705 - Availability of System units for scientific study"
 usc_title: 54
 usc_section: "100705"
 chapter: 1007
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "54 U.S.C. § 100705"
-generated_at: "2026-03-30T00:26:13.300Z"
+generated_at: "2026-03-30T00:29:16.274Z"
 ---
 
 # § 100705. Availability of System units for scientific study

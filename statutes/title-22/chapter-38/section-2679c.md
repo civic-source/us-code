@@ -3,9 +3,9 @@ title: "Section 2679c - Prohibition on discriminatory contracts"
 usc_title: 22
 usc_section: "2679c"
 chapter: 38
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2679c"
-generated_at: "2026-03-30T00:25:05.385Z"
+generated_at: "2026-03-30T00:27:43.301Z"
 ---
 
 # § 2679c. Prohibition on discriminatory contracts

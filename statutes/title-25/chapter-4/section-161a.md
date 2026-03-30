@@ -3,9 +3,9 @@ title: "Section 161a - Tribal funds in trust in Treasury Department; investment 
 usc_title: 25
 usc_section: "161a"
 chapter: 4
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 161a"
-generated_at: "2026-03-30T00:25:07.708Z"
+generated_at: "2026-03-30T00:27:39.415Z"
 ---
 
 # § 161a. Tribal funds in trust in Treasury Department; investment by Secretary of the Treasury; maturities; interest; funds held in trust for individual Indians

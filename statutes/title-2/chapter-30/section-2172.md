@@ -3,9 +3,9 @@ title: "Section 2172 - Office of Congressional Accessibility Services"
 usc_title: 2
 usc_section: "2172"
 chapter: 30
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "2 U.S.C. § 2172"
-generated_at: "2026-03-30T00:23:43.054Z"
+generated_at: "2026-03-30T00:26:48.101Z"
 ---
 
 # § 2172. Office of Congressional Accessibility Services

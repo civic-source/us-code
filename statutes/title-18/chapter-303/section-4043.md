@@ -3,9 +3,9 @@ title: "Section 4043 - Acceptance of gifts and bequests to the Commissary Funds,
 usc_title: 18
 usc_section: "4043"
 chapter: 303
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 4043"
-generated_at: "2026-03-30T00:24:29.272Z"
+generated_at: "2026-03-30T00:27:27.564Z"
 ---
 
 # § 4043. Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons

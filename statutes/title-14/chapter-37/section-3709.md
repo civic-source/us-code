@@ -3,9 +3,9 @@ title: "Section 3709 - Reserve student aviation pilots; Reserve aviation pilots;
 usc_title: 14
 usc_section: "3709"
 chapter: 37
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "14 U.S.C. § 3709"
-generated_at: "2026-03-30T00:24:01.010Z"
+generated_at: "2026-03-30T00:27:17.363Z"
 ---
 
 # § 3709. Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade

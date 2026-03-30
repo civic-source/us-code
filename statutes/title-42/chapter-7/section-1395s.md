@@ -3,9 +3,9 @@ title: "Section 1395s - Payment of premiums"
 usc_title: 42
 usc_section: "1395s"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1395s"
-generated_at: "2026-03-30T00:25:57.183Z"
+generated_at: "2026-03-30T00:28:41.203Z"
 ---
 
 # § 1395s. Payment of premiums

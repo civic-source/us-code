@@ -3,9 +3,9 @@ title: "Section 18 - Copies of papers filed"
 usc_title: 43
 usc_section: "18"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "43 U.S.C. § 18"
-generated_at: "2026-03-30T00:25:37.005Z"
+generated_at: "2026-03-30T00:28:20.625Z"
 ---
 
 # § 18. Copies of papers filed

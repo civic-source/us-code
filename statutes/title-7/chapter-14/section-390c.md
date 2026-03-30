@@ -3,9 +3,9 @@ title: "Section 390c - Applicability of chapter 10 of title 5"
 usc_title: 7
 usc_section: "390c"
 chapter: 14
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 390c"
-generated_at: "2026-03-30T00:23:53.583Z"
+generated_at: "2026-03-30T00:26:57.098Z"
 ---
 
 # § 390c. Applicability of chapter 10 of title 5

@@ -3,9 +3,9 @@ title: "Section 1791 - Bill Emerson Good Samaritan Food Donation Act"
 usc_title: 42
 usc_section: "1791"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1791"
-generated_at: "2026-03-30T00:25:57.355Z"
+generated_at: "2026-03-30T00:28:41.360Z"
 ---
 
 # § 1791. Bill Emerson Good Samaritan Food Donation Act

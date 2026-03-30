@@ -3,9 +3,9 @@ title: "Section 5306 - Private enterprise participation in metropolitan planning
 usc_title: 49
 usc_section: "5306"
 chapter: 53
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "49 U.S.C. § 5306"
-generated_at: "2026-03-30T00:26:10.177Z"
+generated_at: "2026-03-30T00:28:57.816Z"
 ---
 
 # § 5306. Private enterprise participation in metropolitan planning and transportation improvement programs and relationship to other limitations

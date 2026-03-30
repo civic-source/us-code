@@ -3,9 +3,9 @@ title: "Section 716 - Commissioned officers: transfers among the armed forces, t
 usc_title: 10
 usc_section: "716"
 chapter: 41
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 716"
-generated_at: "2026-03-30T00:23:58.404Z"
+generated_at: "2026-03-30T00:27:14.277Z"
 ---
 
 # § 716. Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service

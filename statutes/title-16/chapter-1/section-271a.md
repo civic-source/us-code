@@ -3,9 +3,9 @@ title: "Section 271a - Acquisition of lands; authority of Secretary; exchange of
 usc_title: 16
 usc_section: "271a"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 271a"
-generated_at: "2026-03-30T00:24:34.371Z"
+generated_at: "2026-03-30T00:27:34.966Z"
 ---
 
 # § 271a. Acquisition of lands; authority of Secretary; exchange of property; cash equalization payments; transfer from Federal agency to administrative jurisdiction of Secretary; lands subject to reclamation and power withdrawals

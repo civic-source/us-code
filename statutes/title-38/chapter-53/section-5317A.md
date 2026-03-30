@@ -3,9 +3,9 @@ title: "Section 5317A - Use of income information from other agencies: independe
 usc_title: 38
 usc_section: "5317A"
 chapter: 53
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 5317A"
-generated_at: "2026-03-30T00:25:32.295Z"
+generated_at: "2026-03-30T00:28:16.852Z"
 ---
 
 # § 5317A. Use of income information from other agencies: independent verification required before termination or reduction of certain benefits and services

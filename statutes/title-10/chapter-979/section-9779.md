@@ -3,9 +3,9 @@ title: "Section 9779 - Use of public property"
 usc_title: 10
 usc_section: "9779"
 chapter: 979
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 9779"
-generated_at: "2026-03-30T00:23:58.547Z"
+generated_at: "2026-03-30T00:27:14.423Z"
 ---
 
 # § 9779. Use of public property

@@ -3,9 +3,9 @@ title: "Section 110 - Repealed. Pub. L. 103–325, title VI, § 602(e)(5) –(11
 usc_title: 12
 usc_section: "110"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 110"
-generated_at: "2026-03-30T00:24:18.923Z"
+generated_at: "2026-03-30T00:27:20.294Z"
 ---
 
 # §§ 101 to 110. Repealed. Pub. L. 103–325, title VI, § 602(e)(5) –(11), (f)(2)–(4)(A), (g)(9), Sept. 23, 1994 , 108 Stat. 2292 , 2294

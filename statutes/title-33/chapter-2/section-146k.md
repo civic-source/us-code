@@ -3,9 +3,9 @@ title: "Section 146k - Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 St
 usc_title: 33
 usc_section: "146k"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 146k"
-generated_at: "2026-03-30T00:25:27.436Z"
+generated_at: "2026-03-30T00:28:11.774Z"
 ---
 
 # §§ 146 to 146k. Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 Stat. 194

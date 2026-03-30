@@ -3,9 +3,9 @@ title: "Section 164a - Official distribution of State legislation index and dige
 usc_title: 2
 usc_section: "164a"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "2 U.S.C. § 164a"
-generated_at: "2026-03-30T00:23:43.016Z"
+generated_at: "2026-03-30T00:26:48.061Z"
 ---
 
 # § 164a. Official distribution of State legislation index and digest

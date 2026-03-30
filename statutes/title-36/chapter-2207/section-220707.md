@@ -3,9 +3,9 @@ title: "Section 220707 - Restrictions"
 usc_title: 36
 usc_section: "220707"
 chapter: 2207
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "36 U.S.C. § 220707"
-generated_at: "2026-03-30T00:25:33.685Z"
+generated_at: "2026-03-30T00:28:14.468Z"
 ---
 
 # § 220707. Restrictions

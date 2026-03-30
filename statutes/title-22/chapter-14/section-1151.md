@@ -3,9 +3,9 @@ title: "Section 1151 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1151"
 chapter: 14
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 1151"
-generated_at: "2026-03-30T00:25:05.327Z"
+generated_at: "2026-03-30T00:27:43.249Z"
 ---
 
 # §§ 1148 to 1151. Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17, 1980 , 94 Stat. 2159

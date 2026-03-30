@@ -3,9 +3,9 @@ title: "Section 8721 - Imposition of sanctions with respect to the provision of 
 usc_title: 22
 usc_section: "8721"
 chapter: 94
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 8721"
-generated_at: "2026-03-30T00:25:05.484Z"
+generated_at: "2026-03-30T00:27:43.392Z"
 ---
 
 # § 8721. Imposition of sanctions with respect to the provision of vessels or shipping services to transport certain goods related to proliferation or terrorism activities to Iran

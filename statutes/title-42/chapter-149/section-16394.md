@@ -3,9 +3,9 @@ title: "Section 16394 - Outreach"
 usc_title: 42
 usc_section: "16394"
 chapter: 149
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 16394"
-generated_at: "2026-03-30T00:25:57.750Z"
+generated_at: "2026-03-30T00:28:41.721Z"
 ---
 
 # § 16394. Outreach

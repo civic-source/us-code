@@ -3,9 +3,9 @@ title: "Section 832 - Art. 32. Preliminary hearing required before referral to g
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-03-30T00:23:58.406Z"
+generated_at: "2026-03-30T00:27:14.279Z"
 ---
 
 # § 832. Art. 32. Preliminary hearing required before referral to general court-martial

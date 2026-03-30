@@ -3,9 +3,9 @@ title: "Section 1790 - Military personnel citizenship processing"
 usc_title: 10
 usc_section: "1790"
 chapter: 88
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 1790"
-generated_at: "2026-03-30T00:23:58.455Z"
+generated_at: "2026-03-30T00:27:14.327Z"
 ---
 
 # § 1790. Military personnel citizenship processing

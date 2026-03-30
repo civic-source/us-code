@@ -3,9 +3,9 @@ title: "Section 3974 - Policies entitled to protection and lapse of policies"
 usc_title: 50
 usc_section: "3974"
 chapter: 50
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 3974"
-generated_at: "2026-03-30T00:26:03.373Z"
+generated_at: "2026-03-30T00:28:48.616Z"
 ---
 
 # § 3974. Policies entitled to protection and lapse of policies

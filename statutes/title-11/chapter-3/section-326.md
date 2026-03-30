@@ -3,9 +3,9 @@ title: "Section 326 - Limitation on compensation of trustee"
 usc_title: 11
 usc_section: "326"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "11 U.S.C. § 326"
-generated_at: "2026-03-30T00:24:01.361Z"
+generated_at: "2026-03-30T00:27:16.907Z"
 ---
 
 # § 326. Limitation on compensation of trustee

@@ -3,9 +3,9 @@ title: "Section 10301 - United States international cyberspace policy"
 usc_title: 22
 usc_section: "10301"
 chapter: 110
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 10301"
-generated_at: "2026-03-30T00:25:05.506Z"
+generated_at: "2026-03-30T00:27:43.412Z"
 ---
 
 # § 10301. United States international cyberspace policy

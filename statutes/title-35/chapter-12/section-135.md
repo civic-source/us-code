@@ -3,9 +3,9 @@ title: "Section 135 - Derivation proceedings"
 usc_title: 35
 usc_section: "135"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "35 U.S.C. § 135"
-generated_at: "2026-03-30T00:25:23.565Z"
+generated_at: "2026-03-30T00:27:58.912Z"
 ---
 
 # § 135. Derivation proceedings

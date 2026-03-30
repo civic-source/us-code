@@ -3,9 +3,9 @@ title: "Section 211 - Preservation of originals of prescriptions compounded and 
 usc_title: 21
 usc_section: "211"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 211"
-generated_at: "2026-03-30T00:25:01.329Z"
+generated_at: "2026-03-30T00:27:40.578Z"
 ---
 
 # § 211. Preservation of originals of prescriptions compounded and copies thereof; inspection of prescriptions by consular officers; marking containers of drugs

@@ -3,9 +3,9 @@ title: "Section 13554 - Tar sands"
 usc_title: 42
 usc_section: "13554"
 chapter: 134
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 13554"
-generated_at: "2026-03-30T00:25:57.711Z"
+generated_at: "2026-03-30T00:28:41.686Z"
 ---
 
 # § 13554. Tar sands

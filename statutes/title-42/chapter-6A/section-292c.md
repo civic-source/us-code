@@ -3,9 +3,9 @@ title: "Section 292c - Sources of funds"
 usc_title: 42
 usc_section: "292c"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 292c"
-generated_at: "2026-03-30T00:25:56.984Z"
+generated_at: "2026-03-30T00:28:41.021Z"
 ---
 
 # § 292c. Sources of funds

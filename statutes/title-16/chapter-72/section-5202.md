@@ -3,9 +3,9 @@ title: "Section 5202 - Civil penalties"
 usc_title: 16
 usc_section: "5202"
 chapter: 72
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 5202"
-generated_at: "2026-03-30T00:24:34.671Z"
+generated_at: "2026-03-30T00:27:35.207Z"
 ---
 
 # § 5202. Civil penalties

@@ -3,9 +3,9 @@ title: "Section 7302 - Effect of chapter"
 usc_title: 7
 usc_section: "7302"
 chapter: 100
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 7302"
-generated_at: "2026-03-30T00:23:53.720Z"
+generated_at: "2026-03-30T00:26:57.229Z"
 ---
 
 # § 7302. Effect of chapter

@@ -3,9 +3,9 @@ title: "Section 757d - Authorization of appropriations"
 usc_title: 16
 usc_section: "757d"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 757d"
-generated_at: "2026-03-30T00:24:34.526Z"
+generated_at: "2026-03-30T00:27:35.094Z"
 ---
 
 # § 757d. Authorization of appropriations

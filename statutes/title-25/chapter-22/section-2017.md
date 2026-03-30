@@ -3,9 +3,9 @@ title: "Section 2017 - Regulations"
 usc_title: 25
 usc_section: "2017"
 chapter: 22
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 2017"
-generated_at: "2026-03-30T00:25:07.748Z"
+generated_at: "2026-03-30T00:27:39.451Z"
 ---
 
 # § 2017. Regulations

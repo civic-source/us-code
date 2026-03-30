@@ -3,9 +3,9 @@ title: "Section 374 - Regulations"
 usc_title: 37
 usc_section: "374"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "37 U.S.C. § 374"
-generated_at: "2026-03-30T00:25:29.834Z"
+generated_at: "2026-03-30T00:28:17.200Z"
 ---
 
 # § 374. Regulations

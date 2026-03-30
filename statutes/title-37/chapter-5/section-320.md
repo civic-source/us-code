@@ -3,9 +3,9 @@ title: "Section 320 - Incentive pay: career enlisted flyers"
 usc_title: 37
 usc_section: "320"
 chapter: 5
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "37 U.S.C. § 320"
-generated_at: "2026-03-30T00:25:29.832Z"
+generated_at: "2026-03-30T00:28:17.197Z"
 ---
 
 # § 320. Incentive pay: career enlisted flyers

@@ -3,9 +3,9 @@ title: "Section 4726 - Coordination of Federal programs"
 usc_title: 42
 usc_section: "4726"
 chapter: 62
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 4726"
-generated_at: "2026-03-30T00:25:57.445Z"
+generated_at: "2026-03-30T00:28:41.449Z"
 ---
 
 # § 4726. Coordination of Federal programs

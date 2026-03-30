@@ -3,9 +3,9 @@ title: "Section 14907 - Army National Guard of the United States and Air Nationa
 usc_title: 10
 usc_section: "14907"
 chapter: 1411
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 14907"
-generated_at: "2026-03-30T00:23:58.561Z"
+generated_at: "2026-03-30T00:27:14.436Z"
 ---
 
 # § 14907. Army National Guard of the United States and Air National Guard of the United States: discharge and withdrawal of Federal recognition of officers absent without leave

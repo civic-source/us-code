@@ -3,9 +3,9 @@ title: "Section 6049 - Returns regarding payments of interest"
 usc_title: 26
 usc_section: "6049"
 chapter: 61
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "26 U.S.C. § 6049"
-generated_at: "2026-03-30T00:25:21.508Z"
+generated_at: "2026-03-30T00:27:56.183Z"
 ---
 
 # § 6049. Returns regarding payments of interest

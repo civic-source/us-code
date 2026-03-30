@@ -3,9 +3,9 @@ title: "Section 5451 - Assistance in support of democratic institutions in Polan
 usc_title: 22
 usc_section: "5451"
 chapter: 63
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 5451"
-generated_at: "2026-03-30T00:25:05.436Z"
+generated_at: "2026-03-30T00:27:43.349Z"
 ---
 
 # § 5451. Assistance in support of democratic institutions in Poland and Hungary

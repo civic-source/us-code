@@ -3,9 +3,9 @@ title: "Section 3703 - Interagency working group"
 usc_title: 33
 usc_section: "3703"
 chapter: 50
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 3703"
-generated_at: "2026-03-30T00:25:27.527Z"
+generated_at: "2026-03-30T00:28:11.856Z"
 ---
 
 # § 3703. Interagency working group
@@ -66,7 +66,7 @@ generated_at: "2026-03-30T00:25:27.527Z"
   - **(9)**
     - **(A)** The Advisory Board shall maintain mechanisms for coordination, and engagement with Tribal governments.
       - **(i)** Nothing in subparagraph (A) may be construed as affecting any requirement to consult with Indian Tribes under Executive Order 13175 ( 25 U.S.C. 5301 note; relating to consultation and coordination with Tribal governments) or any other applicable law or policy.
-  - **(10)** Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Board for 10 years from August 9, 2022 .
+  - **(10)** Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Board for 10 years from August 9, 2022 . 2 2 See References in Text note below.
 - **(d)**
   - **(1)** Any Federal agency with a representative serving on the interagency working group established under this section may, either individually or in cooperation with one or more agencies, carry out a program to award prizes competitively under section 3719 of title 15 . An agency seeking to carry out such a program shall carry out such program in coordination with the chair of such interagency working group.
   - **(2)** Any prize competition carried out under this subsection shall be for the purpose of stimulating innovation to advance our Nation’s ability to understand, research, or monitor ocean acidification or its impacts, or to develop management or adaptation options for responding to ocean and coastal acidification.

@@ -3,9 +3,9 @@ title: "Section 1 - Annual competitiveness report"
 usc_title: 12
 usc_section: "1"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T00:24:18.940Z"
+generated_at: "2026-03-30T00:27:20.310Z"
 ---
 
 # § 635g–1. Annual competitiveness report

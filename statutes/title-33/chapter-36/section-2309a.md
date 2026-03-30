@@ -3,9 +3,9 @@ title: "Section 2309a - Project modifications for improvement of environment"
 usc_title: 33
 usc_section: "2309a"
 chapter: 36
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 2309a"
-generated_at: "2026-03-30T00:25:27.506Z"
+generated_at: "2026-03-30T00:28:11.835Z"
 ---
 
 # § 2309a. Project modifications for improvement of environment

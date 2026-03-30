@@ -3,9 +3,9 @@ title: "Section 1703F - Credentialing verification requirements for providers of
 usc_title: 38
 usc_section: "1703F"
 chapter: 17
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 1703F"
-generated_at: "2026-03-30T00:25:32.246Z"
+generated_at: "2026-03-30T00:28:16.813Z"
 ---
 
 # § 1703F. Credentialing verification requirements for providers of non-Department health care services
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T00:25:32.246Z"
   - **(1)** The term “credentials verification organization” means an entity that manages the provider credentialing process and performs credentialing verification for non-Department providers that participate in the Veterans Community Care Program under section 1703 of this title through a Veterans Care Agreement.
   - **(2)** The term “Third Party Administrator” means an entity that manages a provider network and performs administrative services related to such network within the Veterans Community Care Program under section 1703 of this title .
   - **(3)** The term “Veterans Care Agreement” means an agreement for non-Department health care services entered into under section 1703A of this title .
-  - **(4)** The term ‘non-Department health care services’ means services—
+  - **(4)** The term “non-Department health care services” means services—
     - **(A)** provided under this subchapter at non-Department facilities (as defined in section 1701 of this title );
     - **(B)** provided under section 101 of the Veterans Access, Choice, and Accountability Act of 2014 ( Public Law 113–146 ; 38 U.S.C. 1701 note);
     - **(C)** purchased through the Medical Community Care account of the Department; or

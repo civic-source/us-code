@@ -3,9 +3,9 @@ title: "Section 2503 - Composition of grants"
 usc_title: 25
 usc_section: "2503"
 chapter: 27
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 2503"
-generated_at: "2026-03-30T00:25:07.755Z"
+generated_at: "2026-03-30T00:27:39.457Z"
 ---
 
 # § 2503. Composition of grants

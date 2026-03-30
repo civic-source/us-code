@@ -3,9 +3,9 @@ title: "Section 1313 - Education, Commissioner of: report"
 usc_title: 44
 usc_section: "1313"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "44 U.S.C. § 1313"
-generated_at: "2026-03-30T00:25:35.578Z"
+generated_at: "2026-03-30T00:28:19.009Z"
 ---
 
 # § 1313. Education, Commissioner of: report

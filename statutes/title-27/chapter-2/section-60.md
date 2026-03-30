@@ -3,9 +3,9 @@ title: "Section 60 - Repealed. Mar. 22, 1933, ch. 4, § 2 , 48 Stat. 17"
 usc_title: 27
 usc_section: "60"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "27 U.S.C. § 60"
-generated_at: "2026-03-30T00:25:09.888Z"
+generated_at: "2026-03-30T00:27:45.089Z"
 ---
 
 # §§ 58 to 60. Repealed. Mar. 22, 1933, ch. 4, § 2 , 48 Stat. 17

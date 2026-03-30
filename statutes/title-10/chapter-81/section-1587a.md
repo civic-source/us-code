@@ -3,9 +3,9 @@ title: "Section 1587a - Employees of nonappropriated fund instrumentalities: sen
 usc_title: 10
 usc_section: "1587a"
 chapter: 81
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 1587a"
-generated_at: "2026-03-30T00:23:58.449Z"
+generated_at: "2026-03-30T00:27:14.323Z"
 ---
 
 # § 1587a. Employees of nonappropriated fund instrumentalities: senior executive pay levels

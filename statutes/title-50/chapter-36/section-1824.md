@@ -3,9 +3,9 @@ title: "Section 1824 - Issuance of order"
 usc_title: 50
 usc_section: "1824"
 chapter: 36
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 1824"
-generated_at: "2026-03-30T00:26:03.306Z"
+generated_at: "2026-03-30T00:28:48.554Z"
 ---
 
 # § 1824. Issuance of order

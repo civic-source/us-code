@@ -3,9 +3,9 @@ title: "Section 2218 - National Defense Sealift Fund"
 usc_title: 10
 usc_section: "2218"
 chapter: 131
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 2218"
-generated_at: "2026-03-30T00:23:58.462Z"
+generated_at: "2026-03-30T00:27:14.335Z"
 ---
 
 # § 2218. National Defense Sealift Fund

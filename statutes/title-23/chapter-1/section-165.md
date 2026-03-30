@@ -3,9 +3,9 @@ title: "Section 165 - Territorial and Puerto Rico highway program"
 usc_title: 23
 usc_section: "165"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "23 U.S.C. § 165"
-generated_at: "2026-03-30T00:25:00.234Z"
+generated_at: "2026-03-30T00:27:38.188Z"
 ---
 
 # § 165. Territorial and Puerto Rico highway program

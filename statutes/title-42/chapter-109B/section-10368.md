@@ -3,9 +3,9 @@ title: "Section 10368 - National water availability and use assessment program"
 usc_title: 42
 usc_section: "10368"
 chapter: 109
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 10368"
-generated_at: "2026-03-30T00:25:57.646Z"
+generated_at: "2026-03-30T00:28:41.623Z"
 ---
 
 # § 10368. National water availability and use assessment program

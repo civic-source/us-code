@@ -3,9 +3,9 @@ title: "Section 14122 - Records: form; inspection; preservation"
 usc_title: 49
 usc_section: "14122"
 chapter: 141
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "49 U.S.C. § 14122"
-generated_at: "2026-03-30T00:26:10.200Z"
+generated_at: "2026-03-30T00:28:57.835Z"
 ---
 
 # § 14122. Records: form; inspection; preservation

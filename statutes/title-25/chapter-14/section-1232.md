@@ -3,9 +3,9 @@ title: "Section 1232 - Omitted"
 usc_title: 25
 usc_section: "1232"
 chapter: 14
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 1232"
-generated_at: "2026-03-30T00:25:07.722Z"
+generated_at: "2026-03-30T00:27:39.428Z"
 ---
 
 # § 1232. Omitted

@@ -3,9 +3,9 @@ title: "Section 9721 - Additional restrictions on visas"
 usc_title: 22
 usc_section: "9721"
 chapter: 104
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 9721"
-generated_at: "2026-03-30T00:25:05.502Z"
+generated_at: "2026-03-30T00:27:43.409Z"
 ---
 
 # § 9721. Additional restrictions on visas

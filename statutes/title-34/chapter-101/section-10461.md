@@ -3,9 +3,9 @@ title: "Section 10461 - Grants"
 usc_title: 34
 usc_section: "10461"
 chapter: 101
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "34 U.S.C. § 10461"
-generated_at: "2026-03-30T00:25:25.715Z"
+generated_at: "2026-03-30T00:27:59.919Z"
 ---
 
 # § 10461. Grants
@@ -54,11 +54,11 @@ generated_at: "2026-03-30T00:25:25.715Z"
     - **(E)** certify that, 2 2 So in original. The comma probably should not appear. their laws, policies, or practices will ensure that—
       - **(i)** no law enforcement officer, prosecuting officer or other government official shall ask or require an adult, youth, or child victim of a sex offense as defined under Federal, tribal, State, territorial, or local law to submit to a polygraph examination or other truth telling device as a condition for proceeding with the investigation of, trial of, or sentencing for such an offense; and
       - **(ii)** the refusal of a victim to submit to an examination described in clause (i) shall not prevent the investigation of, trial of, or sentencing for the offense;
-    - **(F)** except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022 , certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s offices engage in planning, developing, and implementing—
+    - **(F)** except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022 , certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s 3 3 So in original. Probably should be “prosecutors’ ”. offices engage in planning, developing, and implementing—
       - **(i)** training developed by experts in the field regarding victim-centered approaches in domestic violence, sexual assault, dating violence, and stalking cases;
       - **(ii)** policies that support a victim-centered approach, informed by such training; and
       - **(iii)** a protocol outlining alternative practices and procedures for material witness petitions and bench warrants, consistent with best practices, that shall be exhausted before employing material witness petitions and bench warrants to obtain victim-witness testimony in the investigation, prosecution, and trial of a crime related to domestic violence, sexual assault, dating violence, and stalking of the victim in order to prevent further victimization and trauma to the victim; and
-    - **(G)** except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits the prosecution of a minor under the age of 18 with respect to prostitution; and
+    - **(G)** except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits 4 4 So in original. Probably should be “prohibit”. the prosecution of a minor under the age of 18 with respect to prostitution; and
   - **(2)** a State, tribal, or territorial domestic violence or sexual assault coalition or a victim service provider that partners with a State, Indian tribal government, or unit of local government that certifies that the State, Indian tribal government, or unit of local government meets the requirements under paragraph (1).
 - **(d)** A State or unit of local government shall not be entitled to 5 percent of the funds allocated under this subchapter unless the State or unit of local government—
   - **(1)** certifies that it has a law, policy, or regulation that requires—

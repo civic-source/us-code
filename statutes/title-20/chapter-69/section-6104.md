@@ -3,9 +3,9 @@ title: "Section 6104 - Omitted"
 usc_title: 20
 usc_section: "6104"
 chapter: 69
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 6104"
-generated_at: "2026-03-30T00:24:56.946Z"
+generated_at: "2026-03-30T00:27:29.720Z"
 ---
 
 # §§ 6101 to 6104. Omitted

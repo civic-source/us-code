@@ -3,9 +3,9 @@ title: "Section 7364A - Renumbered § 7365]"
 usc_title: 38
 usc_section: "7364A"
 chapter: 73
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 7364A"
-generated_at: "2026-03-30T00:25:32.306Z"
+generated_at: "2026-03-30T00:28:16.862Z"
 ---
 
 # [§ 7364A. Renumbered § 7365]

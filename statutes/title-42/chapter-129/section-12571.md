@@ -3,9 +3,9 @@ title: "Section 12571 - Authority to provide assistance and approved national se
 usc_title: 42
 usc_section: "12571"
 chapter: 129
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 12571"
-generated_at: "2026-03-30T00:25:57.676Z"
+generated_at: "2026-03-30T00:28:41.654Z"
 ---
 
 # § 12571. Authority to provide assistance and approved national service positions

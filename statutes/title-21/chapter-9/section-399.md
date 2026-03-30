@@ -3,9 +3,9 @@ title: "Section 399 - Grants to enhance food safety"
 usc_title: 21
 usc_section: "399"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 399"
-generated_at: "2026-03-30T00:25:01.394Z"
+generated_at: "2026-03-30T00:27:40.649Z"
 ---
 
 # § 399. Grants to enhance food safety

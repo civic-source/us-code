@@ -3,9 +3,9 @@ title: "Section 70053 - Enforcement provisions"
 usc_title: 46
 usc_section: "70053"
 chapter: 700
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "46 U.S.C. § 70053"
-generated_at: "2026-03-30T00:26:04.733Z"
+generated_at: "2026-03-30T00:28:46.609Z"
 ---
 
 # § 70053. Enforcement provisions

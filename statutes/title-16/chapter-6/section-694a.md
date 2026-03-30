@@ -3,9 +3,9 @@ title: "Section 694a - Hunting, pursuing, capturing, etc., in sanctuaries in nat
 usc_title: 16
 usc_section: "694a"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 694a"
-generated_at: "2026-03-30T00:24:34.516Z"
+generated_at: "2026-03-30T00:27:35.085Z"
 ---
 
 # § 694a. Hunting, pursuing, capturing, etc., in sanctuaries in national forests unlawful

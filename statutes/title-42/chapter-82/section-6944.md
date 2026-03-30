@@ -3,9 +3,9 @@ title: "Section 6944 - Criteria for sanitary landfills; sanitary landfills requi
 usc_title: 42
 usc_section: "6944"
 chapter: 82
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 6944"
-generated_at: "2026-03-30T00:25:57.522Z"
+generated_at: "2026-03-30T00:28:41.512Z"
 ---
 
 # § 6944. Criteria for sanitary landfills; sanitary landfills required for all disposal

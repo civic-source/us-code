@@ -3,9 +3,9 @@ title: "Section 6405 - Findings and issuance of orders"
 usc_title: 7
 usc_section: "6405"
 chapter: 93
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 6405"
-generated_at: "2026-03-30T00:23:53.705Z"
+generated_at: "2026-03-30T00:26:57.214Z"
 ---
 
 # § 6405. Findings and issuance of orders

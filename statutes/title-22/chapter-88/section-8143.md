@@ -3,9 +3,9 @@ title: "Section 8143 - Specific enforcement"
 usc_title: 22
 usc_section: "8143"
 chapter: 88
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 8143"
-generated_at: "2026-03-30T00:25:05.476Z"
+generated_at: "2026-03-30T00:27:43.385Z"
 ---
 
 # § 8143. Specific enforcement

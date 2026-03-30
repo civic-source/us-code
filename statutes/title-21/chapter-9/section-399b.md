@@ -3,9 +3,9 @@ title: "Section 399b - Office of Women’s Health"
 usc_title: 21
 usc_section: "399b"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 399b"
-generated_at: "2026-03-30T00:25:01.394Z"
+generated_at: "2026-03-30T00:27:40.649Z"
 ---
 
 # § 399b. Office of Women’s Health

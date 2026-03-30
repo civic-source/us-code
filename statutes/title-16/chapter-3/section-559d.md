@@ -3,9 +3,9 @@ title: "Section 559d - Cooperation with other Federal, State, and local law enfo
 usc_title: 16
 usc_section: "559d"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 559d"
-generated_at: "2026-03-30T00:24:34.497Z"
+generated_at: "2026-03-30T00:27:35.070Z"
 ---
 
 # § 559d. Cooperation with other Federal, State, and local law enforcement agencies

@@ -3,9 +3,9 @@ title: "Section 83 - Loans by bank on its own stock"
 usc_title: 12
 usc_section: "83"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 83"
-generated_at: "2026-03-30T00:24:18.921Z"
+generated_at: "2026-03-30T00:27:20.294Z"
 ---
 
 # § 83. Loans by bank on its own stock

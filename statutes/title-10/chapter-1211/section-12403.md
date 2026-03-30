@@ -3,9 +3,9 @@ title: "Section 12403 - Army and Air National Guard of the United States: member
 usc_title: 10
 usc_section: "12403"
 chapter: 1211
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 12403"
-generated_at: "2026-03-30T00:23:58.555Z"
+generated_at: "2026-03-30T00:27:14.430Z"
 ---
 
 # § 12403. Army and Air National Guard of the United States: members; status in which ordered into Federal service

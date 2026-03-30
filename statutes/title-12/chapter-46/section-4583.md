@@ -3,9 +3,9 @@ title: "Section 4583 - Judicial review"
 usc_title: 12
 usc_section: "4583"
 chapter: 46
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 4583"
-generated_at: "2026-03-30T00:24:19.077Z"
+generated_at: "2026-03-30T00:27:20.449Z"
 ---
 
 # § 4583. Judicial review

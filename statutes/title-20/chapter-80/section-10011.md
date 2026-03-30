@@ -3,9 +3,9 @@ title: "Section 10011 - Prohibition on provision of certain assistance"
 usc_title: 20
 usc_section: "10011"
 chapter: 80
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 10011"
-generated_at: "2026-03-30T00:24:56.995Z"
+generated_at: "2026-03-30T00:27:29.767Z"
 ---
 
 # § 10011. Prohibition on provision of certain assistance

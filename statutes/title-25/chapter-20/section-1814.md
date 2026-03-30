@@ -3,9 +3,9 @@ title: "Section 1814 - Miscellaneous provisions"
 usc_title: 25
 usc_section: "1814"
 chapter: 20
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 1814"
-generated_at: "2026-03-30T00:25:07.742Z"
+generated_at: "2026-03-30T00:27:39.444Z"
 ---
 
 # § 1814. Miscellaneous provisions

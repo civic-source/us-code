@@ -3,9 +3,9 @@ title: "Section 351 - Inter-American Defense College"
 usc_title: 10
 usc_section: "351"
 chapter: 16
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 351"
-generated_at: "2026-03-30T00:23:58.388Z"
+generated_at: "2026-03-30T00:27:14.259Z"
 ---
 
 # § 351. Inter-American Defense College

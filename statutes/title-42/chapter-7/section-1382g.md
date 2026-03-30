@@ -3,9 +3,9 @@ title: "Section 1382g - Payments to State for operation of supplementation progr
 usc_title: 42
 usc_section: "1382g"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1382g"
-generated_at: "2026-03-30T00:25:57.154Z"
+generated_at: "2026-03-30T00:28:41.179Z"
 ---
 
 # § 1382g. Payments to State for operation of supplementation program

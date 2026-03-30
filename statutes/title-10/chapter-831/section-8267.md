@@ -3,9 +3,9 @@ title: "Section 8267 - Uniform: sale to former members of the naval service"
 usc_title: 10
 usc_section: "8267"
 chapter: 831
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 8267"
-generated_at: "2026-03-30T00:23:58.528Z"
+generated_at: "2026-03-30T00:27:14.402Z"
 ---
 
 # § 8267. Uniform: sale to former members of the naval service

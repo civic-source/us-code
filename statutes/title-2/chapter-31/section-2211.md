@@ -3,9 +3,9 @@ title: "Section 2211 - Establishment"
 usc_title: 2
 usc_section: "2211"
 chapter: 31
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "2 U.S.C. § 2211"
-generated_at: "2026-03-30T00:23:43.055Z"
+generated_at: "2026-03-30T00:26:48.101Z"
 ---
 
 # § 2211. Establishment

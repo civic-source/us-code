@@ -3,9 +3,9 @@ title: "Section 7309 - Able seamen—special"
 usc_title: 46
 usc_section: "7309"
 chapter: 73
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "46 U.S.C. § 7309"
-generated_at: "2026-03-30T00:26:04.698Z"
+generated_at: "2026-03-30T00:28:46.574Z"
 ---
 
 # § 7309. Able seamen—special

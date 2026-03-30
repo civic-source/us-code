@@ -3,9 +3,9 @@ title: "Section 3c - Guidelines on the disclosure process for security vulnerabi
 usc_title: 15
 usc_section: "3c"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 3c"
-generated_at: "2026-03-30T00:24:11.814Z"
+generated_at: "2026-03-30T00:27:23.432Z"
 ---
 
 # § 278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices

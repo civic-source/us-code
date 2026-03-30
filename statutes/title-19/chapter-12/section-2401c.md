@@ -3,9 +3,9 @@ title: "Section 2401c - Study by Secretary of Agriculture when International Tra
 usc_title: 19
 usc_section: "2401c"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "19 U.S.C. § 2401c"
-generated_at: "2026-03-30T00:24:23.414Z"
+generated_at: "2026-03-30T00:27:30.981Z"
 ---
 
 # § 2401c. Study by Secretary of Agriculture when International Trade Commission begins investigation

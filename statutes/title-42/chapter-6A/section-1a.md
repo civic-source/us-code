@@ -3,9 +3,9 @@ title: "Section 1a - Recovery of expenditures under certain conditions"
 usc_title: 42
 usc_section: "1a"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T00:25:57.025Z"
+generated_at: "2026-03-30T00:28:41.059Z"
 ---
 
 # § 300s–1a. Recovery of expenditures under certain conditions

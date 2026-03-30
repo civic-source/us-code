@@ -3,9 +3,9 @@ title: "Section 508b - National forests in Minnesota; authority to prospect, dev
 usc_title: 16
 usc_section: "508b"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 508b"
-generated_at: "2026-03-30T00:24:34.481Z"
+generated_at: "2026-03-30T00:27:35.058Z"
 ---
 
 # § 508b. National forests in Minnesota; authority to prospect, develop, mine, remove, and utilize mineral resources

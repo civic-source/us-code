@@ -3,9 +3,9 @@ title: "Section 878a - Contract for development of a major program; costs; Major
 usc_title: 33
 usc_section: "878a"
 chapter: 17
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 878a"
-generated_at: "2026-03-30T00:25:27.457Z"
+generated_at: "2026-03-30T00:28:11.793Z"
 ---
 
 # § 878a. Contract for development of a major program; costs; Major Program Annual Report for satellite development program

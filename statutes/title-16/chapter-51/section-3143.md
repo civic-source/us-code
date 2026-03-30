@@ -3,9 +3,9 @@ title: "Section 3143 - Production of oil and gas from Arctic National Wildlife R
 usc_title: 16
 usc_section: "3143"
 chapter: 51
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 3143"
-generated_at: "2026-03-30T00:24:34.633Z"
+generated_at: "2026-03-30T00:27:35.177Z"
 ---
 
 # § 3143. Production of oil and gas from Arctic National Wildlife Refuge prohibited

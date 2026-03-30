@@ -3,9 +3,9 @@ title: "Section 618f - Repayment of advances for flood control"
 usc_title: 43
 usc_section: "618f"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "43 U.S.C. § 618f"
-generated_at: "2026-03-30T00:25:37.031Z"
+generated_at: "2026-03-30T00:28:20.650Z"
 ---
 
 # § 618f. Repayment of advances for flood control

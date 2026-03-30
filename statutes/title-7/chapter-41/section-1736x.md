@@ -3,9 +3,9 @@ title: "Section 1736x - Repealed. Pub. L. 101–624, title XV, § 1572(3) , Nov.
 usc_title: 7
 usc_section: "1736x"
 chapter: 41
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 1736x"
-generated_at: "2026-03-30T00:23:53.630Z"
+generated_at: "2026-03-30T00:26:57.143Z"
 ---
 
 # §§ 1736v to 1736x. Repealed. Pub. L. 101–624, title XV, § 1572(3) , Nov. 28, 1990 , 104 Stat. 3702

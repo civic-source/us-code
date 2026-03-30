@@ -3,9 +3,9 @@ title: "Section 2000bb - Congressional findings and declaration of purposes"
 usc_title: 42
 usc_section: "2000bb"
 chapter: 21
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 2000bb"
-generated_at: "2026-03-30T00:25:57.374Z"
+generated_at: "2026-03-30T00:28:41.380Z"
 ---
 
 # § 2000bb. Congressional findings and declaration of purposes

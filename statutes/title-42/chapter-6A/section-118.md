@@ -3,9 +3,9 @@ title: "Section 118 - Air ambulance report requirements"
 usc_title: 42
 usc_section: "118"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 118"
-generated_at: "2026-03-30T00:25:57.060Z"
+generated_at: "2026-03-30T00:28:41.090Z"
 ---
 
 # § 300gg–118. Air ambulance report requirements

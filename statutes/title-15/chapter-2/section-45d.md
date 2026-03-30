@@ -3,9 +3,9 @@ title: "Section 45d - Unfair or deceptive acts or practices with respect to subs
 usc_title: 15
 usc_section: "45d"
 chapter: 2
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 45d"
-generated_at: "2026-03-30T00:24:11.750Z"
+generated_at: "2026-03-30T00:27:23.378Z"
 ---
 
 # § 45d. Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products

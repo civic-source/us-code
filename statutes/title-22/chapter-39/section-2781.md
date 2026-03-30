@@ -3,9 +3,9 @@ title: "Section 2781 - Transactions with countries not fully cooperating with Un
 usc_title: 22
 usc_section: "2781"
 chapter: 39
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2781"
-generated_at: "2026-03-30T00:25:05.396Z"
+generated_at: "2026-03-30T00:27:43.312Z"
 ---
 
 # § 2781. Transactions with countries not fully cooperating with United States antiterrorism efforts

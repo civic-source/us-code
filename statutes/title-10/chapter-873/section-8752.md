@@ -3,9 +3,9 @@ title: "Section 8752 - Contracts for research"
 usc_title: 10
 usc_section: "8752"
 chapter: 873
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 8752"
-generated_at: "2026-03-30T00:23:58.537Z"
+generated_at: "2026-03-30T00:27:14.412Z"
 ---
 
 # § 8752. Contracts for research

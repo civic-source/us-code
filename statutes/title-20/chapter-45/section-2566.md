@@ -3,9 +3,9 @@ title: "Section 2566 - Hubert H. Humphrey Institute of Public Affairs; grants fo
 usc_title: 20
 usc_section: "2566"
 chapter: 45
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 2566"
-generated_at: "2026-03-30T00:24:56.928Z"
+generated_at: "2026-03-30T00:27:29.705Z"
 ---
 
 # § 2566. Hubert H. Humphrey Institute of Public Affairs; grants for development

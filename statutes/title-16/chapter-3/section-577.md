@@ -3,9 +3,9 @@ title: "Section 577 - Public lands in northern Minnesota; withdrawal from entry 
 usc_title: 16
 usc_section: "577"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 577"
-generated_at: "2026-03-30T00:24:34.498Z"
+generated_at: "2026-03-30T00:27:35.071Z"
 ---
 
 # § 577. Public lands in northern Minnesota; withdrawal from entry and appropriation

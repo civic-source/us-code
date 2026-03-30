@@ -3,9 +3,9 @@ title: "Section 3406 - Exemption for retail bakers"
 usc_title: 7
 usc_section: "3406"
 chapter: 65
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 3406"
-generated_at: "2026-03-30T00:23:53.683Z"
+generated_at: "2026-03-30T00:26:57.193Z"
 ---
 
 # § 3406. Exemption for retail bakers

@@ -3,9 +3,9 @@ title: "Section 1412 - Dumping permit program"
 usc_title: 33
 usc_section: "1412"
 chapter: 27
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 1412"
-generated_at: "2026-03-30T00:25:27.489Z"
+generated_at: "2026-03-30T00:28:11.822Z"
 ---
 
 # § 1412. Dumping permit program

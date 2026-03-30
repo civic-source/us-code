@@ -3,9 +3,9 @@ title: "Section 5015 - Study and report on funds availability"
 usc_title: 12
 usc_section: "5015"
 chapter: 50
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 5015"
-generated_at: "2026-03-30T00:24:19.090Z"
+generated_at: "2026-03-30T00:27:20.460Z"
 ---
 
 # § 5015. Study and report on funds availability

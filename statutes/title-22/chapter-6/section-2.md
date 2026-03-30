@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 103–199, title V, § 501(c) , Dec. 17, 1
 usc_title: 22
 usc_section: "2"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T00:25:05.295Z"
+generated_at: "2026-03-30T00:27:43.220Z"
 ---
 
 # § 254c–2. Repealed. Pub. L. 103–199, title V, § 501(c) , Dec. 17, 1993 , 107 Stat. 2325

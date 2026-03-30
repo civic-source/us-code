@@ -3,9 +3,9 @@ title: "Section 5a - Additional amendments to Articles of Agreement"
 usc_title: 22
 usc_section: "5a"
 chapter: 7
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "22 U.S.C. § 5a"
-generated_at: "2026-03-30T00:25:05.313Z"
+generated_at: "2026-03-30T00:27:43.237Z"
 ---
 
 # § 286e–5a. Additional amendments to Articles of Agreement

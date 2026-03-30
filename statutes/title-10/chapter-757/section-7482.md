@@ -3,9 +3,9 @@ title: "Section 7482 - Operation"
 usc_title: 10
 usc_section: "7482"
 chapter: 757
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 7482"
-generated_at: "2026-03-30T00:23:58.522Z"
+generated_at: "2026-03-30T00:27:14.396Z"
 ---
 
 # § 7482. Operation

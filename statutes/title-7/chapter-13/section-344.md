@@ -3,9 +3,9 @@ title: "Section 344 - Ascertainment of entitlement of State to funds; time and m
 usc_title: 7
 usc_section: "344"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "7 U.S.C. § 344"
-generated_at: "2026-03-30T00:23:53.581Z"
+generated_at: "2026-03-30T00:26:57.097Z"
 ---
 
 # § 344. Ascertainment of entitlement of State to funds; time and manner of payment; State reporting requirements; plans of work

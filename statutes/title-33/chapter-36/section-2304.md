@@ -3,9 +3,9 @@ title: "Section 2304 - Separability"
 usc_title: 33
 usc_section: "2304"
 chapter: 36
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 2304"
-generated_at: "2026-03-30T00:25:27.505Z"
+generated_at: "2026-03-30T00:28:11.834Z"
 ---
 
 # § 2304. Separability

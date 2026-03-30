@@ -3,9 +3,9 @@ title: "Section 956 - National Endowment for the Humanities"
 usc_title: 20
 usc_section: "956"
 chapter: 26
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 956"
-generated_at: "2026-03-30T00:24:56.824Z"
+generated_at: "2026-03-30T00:27:29.615Z"
 ---
 
 # § 956. National Endowment for the Humanities

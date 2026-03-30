@@ -3,9 +3,9 @@ title: "Section 701 - Members of the Army, Navy, Air Force, Marine Corps, and Sp
 usc_title: 37
 usc_section: "701"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "37 U.S.C. § 701"
-generated_at: "2026-03-30T00:25:29.840Z"
+generated_at: "2026-03-30T00:28:17.204Z"
 ---
 
 # § 701. Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons

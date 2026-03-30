@@ -3,9 +3,9 @@ title: "Section 1183 - Admission of aliens on giving bond or undertaking; return
 usc_title: 8
 usc_section: "1183"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "8 U.S.C. § 1183"
-generated_at: "2026-03-30T00:23:49.166Z"
+generated_at: "2026-03-30T00:27:02.287Z"
 ---
 
 # § 1183. Admission of aliens on giving bond or undertaking; return upon permanent departure

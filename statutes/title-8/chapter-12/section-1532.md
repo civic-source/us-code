@@ -3,9 +3,9 @@ title: "Section 1532 - Establishment of removal court"
 usc_title: 8
 usc_section: "1532"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "8 U.S.C. § 1532"
-generated_at: "2026-03-30T00:23:49.190Z"
+generated_at: "2026-03-30T00:27:02.312Z"
 ---
 
 # § 1532. Establishment of removal court

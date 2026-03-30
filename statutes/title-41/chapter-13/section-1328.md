@@ -3,9 +3,9 @@ title: "Section 1328 - Termination"
 usc_title: 41
 usc_section: "1328"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "41 U.S.C. § 1328"
-generated_at: "2026-03-30T00:25:35.892Z"
+generated_at: "2026-03-30T00:28:19.759Z"
 ---
 
 # § 1328. Termination

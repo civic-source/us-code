@@ -3,9 +3,9 @@ title: "Section 255 - Certificate of correction of applicant’s mistake"
 usc_title: 35
 usc_section: "255"
 chapter: 25
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "35 U.S.C. § 255"
-generated_at: "2026-03-30T00:25:23.567Z"
+generated_at: "2026-03-30T00:27:58.916Z"
 ---
 
 # § 255. Certificate of correction of applicant’s mistake

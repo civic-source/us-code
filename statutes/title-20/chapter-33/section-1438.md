@@ -3,9 +3,9 @@ title: "Section 1438 - Uses of funds"
 usc_title: 20
 usc_section: "1438"
 chapter: 33
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 1438"
-generated_at: "2026-03-30T00:24:56.914Z"
+generated_at: "2026-03-30T00:27:29.694Z"
 ---
 
 # § 1438. Uses of funds

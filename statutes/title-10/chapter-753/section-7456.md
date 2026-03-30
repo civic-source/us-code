@@ -3,9 +3,9 @@ title: "Section 7456 - Use of certain gifts"
 usc_title: 10
 usc_section: "7456"
 chapter: 753
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 7456"
-generated_at: "2026-03-30T00:23:58.522Z"
+generated_at: "2026-03-30T00:27:14.396Z"
 ---
 
 # § 7456. Use of certain gifts

@@ -3,9 +3,9 @@ title: "Section 795o - Authorization of appropriations"
 usc_title: 29
 usc_section: "795o"
 chapter: 16
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "29 U.S.C. § 795o"
-generated_at: "2026-03-30T00:25:12.887Z"
+generated_at: "2026-03-30T00:27:50.171Z"
 ---
 
 # § 795o. Authorization of appropriations

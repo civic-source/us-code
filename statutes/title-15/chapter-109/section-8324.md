@@ -3,9 +3,9 @@ title: "Section 8324 - Savings clause"
 usc_title: 15
 usc_section: "8324"
 chapter: 109
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 8324"
-generated_at: "2026-03-30T00:24:11.995Z"
+generated_at: "2026-03-30T00:27:23.650Z"
 ---
 
 # § 8324. Savings clause

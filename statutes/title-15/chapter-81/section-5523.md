@@ -3,9 +3,9 @@ title: "Section 5523 - Department of Energy activities"
 usc_title: 15
 usc_section: "5523"
 chapter: 81
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 5523"
-generated_at: "2026-03-30T00:24:11.968Z"
+generated_at: "2026-03-30T00:27:23.628Z"
 ---
 
 # § 5523. Department of Energy activities

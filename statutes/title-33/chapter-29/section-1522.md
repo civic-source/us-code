@@ -3,9 +3,9 @@ title: "Section 1522 - Limitations on export provisions of section 185(u) of tit
 usc_title: 33
 usc_section: "1522"
 chapter: 29
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 1522"
-generated_at: "2026-03-30T00:25:27.494Z"
+generated_at: "2026-03-30T00:28:11.825Z"
 ---
 
 # § 1522. Limitations on export provisions of section 185(u) of title 30 unaffected

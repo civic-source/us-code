@@ -3,9 +3,9 @@ title: "Section 5552 - Lump-sum payment for accumulated and accrued leave on ent
 usc_title: 5
 usc_section: "5552"
 chapter: 55
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "5 U.S.C. § 5552"
-generated_at: "2026-03-30T00:23:46.133Z"
+generated_at: "2026-03-30T00:26:31.406Z"
 ---
 
 # § 5552. Lump-sum payment for accumulated and accrued leave on entering active duty; election

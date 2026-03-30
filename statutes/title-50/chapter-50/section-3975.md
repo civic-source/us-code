@@ -3,9 +3,9 @@ title: "Section 3975 - Policy restrictions"
 usc_title: 50
 usc_section: "3975"
 chapter: 50
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "50 U.S.C. § 3975"
-generated_at: "2026-03-30T00:26:03.374Z"
+generated_at: "2026-03-30T00:28:48.616Z"
 ---
 
 # § 3975. Policy restrictions

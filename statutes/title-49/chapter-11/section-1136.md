@@ -3,9 +3,9 @@ title: "Section 1136 - Assistance to families of passengers involved in aircraft
 usc_title: 49
 usc_section: "1136"
 chapter: 11
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "49 U.S.C. § 1136"
-generated_at: "2026-03-30T00:26:10.168Z"
+generated_at: "2026-03-30T00:28:57.807Z"
 ---
 
 # § 1136. Assistance to families of passengers involved in aircraft accidents

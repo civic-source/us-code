@@ -3,9 +3,9 @@ title: "Section 1087nn - Determination of expected family contribution; data ele
 usc_title: 20
 usc_section: "1087nn"
 chapter: 28
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 1087nn"
-generated_at: "2026-03-30T00:24:56.871Z"
+generated_at: "2026-03-30T00:27:29.654Z"
 ---
 
 # § 1087nn. Determination of expected family contribution; data elements

@@ -3,9 +3,9 @@ title: "Section 312 - Prevention and response workforces"
 usc_title: 14
 usc_section: "312"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "14 U.S.C. § 312"
-generated_at: "2026-03-30T00:24:00.995Z"
+generated_at: "2026-03-30T00:27:17.349Z"
 ---
 
 # § 312. Prevention and response workforces

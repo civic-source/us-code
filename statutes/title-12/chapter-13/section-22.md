@@ -3,9 +3,9 @@ title: "Section 22 - Multifamily mortgage credit programs"
 usc_title: 12
 usc_section: "22"
 chapter: 13
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "12 U.S.C. § 22"
-generated_at: "2026-03-30T00:24:18.980Z"
+generated_at: "2026-03-30T00:27:20.353Z"
 ---
 
 # § 1715z–22. Multifamily mortgage credit programs

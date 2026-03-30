@@ -3,9 +3,9 @@ title: "Section 34 - Hospitalization of persons outside continental limits of Un
 usc_title: 24
 usc_section: "34"
 chapter: 1
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "24 U.S.C. § 34"
-generated_at: "2026-03-30T00:25:00.328Z"
+generated_at: "2026-03-30T00:27:37.200Z"
 ---
 
 # § 34. Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments

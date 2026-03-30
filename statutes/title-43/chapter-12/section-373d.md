@@ -3,9 +3,9 @@ title: "Section 373d - Grants and cooperative agreements with Indian tribes and 
 usc_title: 43
 usc_section: "373d"
 chapter: 12
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "43 U.S.C. § 373d"
-generated_at: "2026-03-30T00:25:37.013Z"
+generated_at: "2026-03-30T00:28:20.631Z"
 ---
 
 # § 373d. Grants and cooperative agreements with Indian tribes and organizations

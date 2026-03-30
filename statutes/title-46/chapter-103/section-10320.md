@@ -3,9 +3,9 @@ title: "Section 10320 - Records of seamen"
 usc_title: 46
 usc_section: "10320"
 chapter: 103
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "46 U.S.C. § 10320"
-generated_at: "2026-03-30T00:26:04.702Z"
+generated_at: "2026-03-30T00:28:46.579Z"
 ---
 
 # § 10320. Records of seamen

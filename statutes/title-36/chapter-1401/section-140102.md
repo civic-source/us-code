@@ -3,9 +3,9 @@ title: "Section 140102 - Purposes"
 usc_title: 36
 usc_section: "140102"
 chapter: 1401
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "36 U.S.C. § 140102"
-generated_at: "2026-03-30T00:25:33.674Z"
+generated_at: "2026-03-30T00:28:14.457Z"
 ---
 
 # § 140102. Purposes

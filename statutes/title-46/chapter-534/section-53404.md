@@ -3,9 +3,9 @@ title: "Section 53404 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53404"
 chapter: 534
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "46 U.S.C. § 53404"
-generated_at: "2026-03-30T00:26:04.722Z"
+generated_at: "2026-03-30T00:28:46.598Z"
 ---
 
 # § 53404. Effectiveness of operating agreements

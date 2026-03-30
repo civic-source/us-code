@@ -3,9 +3,9 @@ title: "Section 3473 - Repealed. Pub. L. 102–568, title III, § 313(a)(3)(A) ,
 usc_title: 38
 usc_section: "3473"
 chapter: 34
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "38 U.S.C. § 3473"
-generated_at: "2026-03-30T00:25:32.275Z"
+generated_at: "2026-03-30T00:28:16.836Z"
 ---
 
 # [§ 3473. Repealed. Pub. L. 102–568, title III, § 313(a)(3)(A) , Oct. 29, 1992 , 106 Stat. 4332 ]

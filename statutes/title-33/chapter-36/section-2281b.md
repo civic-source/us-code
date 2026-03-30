@@ -1,21 +1,21 @@
 ---
-title: "Section 2281b - Corps of engineers support for underserved communities; outreach"
+title: "Section 2281b - Corps of Engineers support for underserved communities; outreach"
 usc_title: 33
 usc_section: "2281b"
 chapter: 36
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "33 U.S.C. § 2281b"
-generated_at: "2026-03-30T00:25:27.502Z"
+generated_at: "2026-03-30T00:28:11.832Z"
 ---
 
-# § 2281b. Corps of engineers support for underserved communities; outreach
+# § 2281b. Corps of Engineers support for underserved communities; outreach
 
 - **(a)** It is the policy of the United States for the Corps of Engineers to strive to understand and accommodate and, in coordination with non-Federal interests, seek to address the water resources development needs of all communities in the United States.
 - **(b)**
   - **(1)** The Secretary shall, at Federal expense, develop, support, and implement public awareness, education, and regular outreach and engagement efforts for potential non-Federal interests with respect to the water resources development authorities of the Secretary, with particular emphasis on—
     - **(A)** technical service programs, including the authorities under—
       - **(i)** section 709a of this title ;
-      - **“(ii)** section 1962d–16 of title 42 ; and
+      - **(ii)** section 1962d–16 of title 42 ; and
       - **(iii)** section 2269 of this title ; and
     - **(B)** continuing authority programs, as such term is defined in section 2282d(c)(1)(D) of this title .
   - **(2)** In carrying out this subsection, the Secretary shall—

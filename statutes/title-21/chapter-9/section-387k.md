@@ -3,9 +3,9 @@ title: "Section 387k - Modified risk tobacco products"
 usc_title: 21
 usc_section: "387k"
 chapter: 9
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "21 U.S.C. § 387k"
-generated_at: "2026-03-30T00:25:01.392Z"
+generated_at: "2026-03-30T00:27:40.646Z"
 ---
 
 # § 387k. Modified risk tobacco products

@@ -3,9 +3,9 @@ title: "Section 2004 - School boundaries"
 usc_title: 25
 usc_section: "2004"
 chapter: 22
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "25 U.S.C. § 2004"
-generated_at: "2026-03-30T00:25:07.744Z"
+generated_at: "2026-03-30T00:27:39.447Z"
 ---
 
 # § 2004. School boundaries

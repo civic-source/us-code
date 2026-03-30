@@ -3,9 +3,9 @@ title: "Section 3439 - Demurrers and special pleas in bar or abatement abolished
 usc_title: 18
 usc_section: "3439"
 chapter: 221
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "18 U.S.C. § 3439"
-generated_at: "2026-03-30T00:24:29.262Z"
+generated_at: "2026-03-30T00:27:27.554Z"
 ---
 
 # § 3439. Demurrers and special pleas in bar or abatement abolished; relief on motion—(Rule)

@@ -3,9 +3,9 @@ title: "Section 211c - Promotion credit for medical officers in assistant grade"
 usc_title: 42
 usc_section: "211c"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 211c"
-generated_at: "2026-03-30T00:25:56.895Z"
+generated_at: "2026-03-30T00:28:40.930Z"
 ---
 
 # § 211c. Promotion credit for medical officers in assistant grade

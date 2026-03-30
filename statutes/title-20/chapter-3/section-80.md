@@ -3,9 +3,9 @@ title: "Section 80 - National Armed Forces Museum Advisory Board"
 usc_title: 20
 usc_section: "80"
 chapter: 3
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "20 U.S.C. § 80"
-generated_at: "2026-03-30T00:24:56.809Z"
+generated_at: "2026-03-30T00:27:29.606Z"
 ---
 
 # § 80. National Armed Forces Museum Advisory Board

@@ -3,9 +3,9 @@ title: "Section 41 - Payment of claims"
 usc_title: 42
 usc_section: "41"
 chapter: 6
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-03-30T00:25:57.073Z"
+generated_at: "2026-03-30T00:28:41.102Z"
 ---
 
 # § 300mm–41. Payment of claims

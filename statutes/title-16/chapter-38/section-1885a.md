@@ -3,9 +3,9 @@ title: "Section 1885a - Report on Seafood Import Monitoring Program"
 usc_title: 16
 usc_section: "1885a"
 chapter: 38
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "16 U.S.C. § 1885a"
-generated_at: "2026-03-30T00:24:34.620Z"
+generated_at: "2026-03-30T00:27:35.166Z"
 ---
 
 # § 1885a. Report on Seafood Import Monitoring Program

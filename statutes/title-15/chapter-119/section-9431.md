@@ -3,9 +3,9 @@ title: "Section 9431 - National Artificial Intelligence Research Institutes"
 usc_title: 15
 usc_section: "9431"
 chapter: 119
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "15 U.S.C. § 9431"
-generated_at: "2026-03-30T00:24:12.016Z"
+generated_at: "2026-03-30T00:27:23.668Z"
 ---
 
 # § 9431. National Artificial Intelligence Research Institutes

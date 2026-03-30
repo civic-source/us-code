@@ -3,9 +3,9 @@ title: "Section 636 - Retirement for years of service: regular officers in grade
 usc_title: 10
 usc_section: "636"
 chapter: 36
-current_through: "PL 118-19"
+current_through: "PL 118-21"
 classification: "10 U.S.C. § 636"
-generated_at: "2026-03-30T00:23:58.399Z"
+generated_at: "2026-03-30T00:27:14.273Z"
 ---
 
 # § 636. Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half)
