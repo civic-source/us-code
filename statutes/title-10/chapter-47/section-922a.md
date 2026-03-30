@@ -3,9 +3,9 @@ title: "Section 922a - Art. 122a]"
 usc_title: 10
 usc_section: "922a"
 chapter: 47
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 922a"
-generated_at: "2026-03-30T06:27:02.029Z"
+generated_at: "2026-03-30T06:28:59.944Z"
 status: "active"
 ---
 

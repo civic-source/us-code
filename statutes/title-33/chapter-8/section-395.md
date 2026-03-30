@@ -3,9 +3,9 @@ title: "Section 395 - Limit of sentence"
 usc_title: 33
 usc_section: "395"
 chapter: 8
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 395"
-generated_at: "2026-03-30T06:27:45.845Z"
+generated_at: "2026-03-30T06:29:36.684Z"
 status: "active"
 ---
 

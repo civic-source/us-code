@@ -3,9 +3,9 @@ title: "Section 154506 - Powers"
 usc_title: 36
 usc_section: "154506"
 chapter: 1545
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "36 U.S.C. § 154506"
-generated_at: "2026-03-30T06:27:48.539Z"
+generated_at: "2026-03-30T06:29:39.133Z"
 status: "active"
 ---
 

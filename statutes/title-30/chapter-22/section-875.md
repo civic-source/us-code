@@ -3,9 +3,9 @@ title: "Section 875 - Emergency shelters; construction; contents; implementation
 usc_title: 30
 usc_section: "875"
 chapter: 22
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "30 U.S.C. § 875"
-generated_at: "2026-03-30T06:27:36.413Z"
+generated_at: "2026-03-30T06:29:24.673Z"
 status: "active"
 ---
 

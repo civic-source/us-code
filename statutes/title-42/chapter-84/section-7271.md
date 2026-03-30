@@ -3,9 +3,9 @@ title: "Section 7271 - Transferred"
 usc_title: 42
 usc_section: "7271"
 chapter: 84
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 7271"
-generated_at: "2026-03-30T06:28:18.649Z"
+generated_at: "2026-03-30T06:29:56.046Z"
 status: "transferred"
 ---
 

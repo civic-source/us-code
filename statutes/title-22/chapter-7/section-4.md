@@ -3,9 +3,9 @@ title: "Section 4 - Subscription of stock"
 usc_title: 22
 usc_section: "4"
 chapter: 7
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-03-30T06:27:30.887Z"
+generated_at: "2026-03-30T06:29:22.372Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 295c - Preventive medicine and public health training grant prog
 usc_title: 42
 usc_section: "295c"
 chapter: 6
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 295c"
-generated_at: "2026-03-30T06:28:18.216Z"
+generated_at: "2026-03-30T06:29:55.603Z"
 status: "active"
 ---
 

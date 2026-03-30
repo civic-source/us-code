@@ -3,9 +3,9 @@ title: "Section 1593d - Repealed. June 30, 1953, ch. 170 , § 19, 67 Stat. 126"
 usc_title: 42
 usc_section: "1593d"
 chapter: 9
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 1593d"
-generated_at: "2026-03-30T06:28:18.474Z"
+generated_at: "2026-03-30T06:29:55.864Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 583k - Findings"
 usc_title: 16
 usc_section: "583k"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 583k"
-generated_at: "2026-03-30T06:27:24.334Z"
+generated_at: "2026-03-30T06:29:15.696Z"
 status: "active"
 ---
 

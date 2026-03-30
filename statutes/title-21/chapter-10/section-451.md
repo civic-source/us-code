@@ -3,9 +3,9 @@ title: "Section 451 - Congressional statement of findings"
 usc_title: 21
 usc_section: "451"
 chapter: 10
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "21 U.S.C. § 451"
-generated_at: "2026-03-30T06:27:29.239Z"
+generated_at: "2026-03-30T06:29:20.178Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1232d - Single State application"
 usc_title: 20
 usc_section: "1232d"
 chapter: 31
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 1232d"
-generated_at: "2026-03-30T06:27:20.344Z"
+generated_at: "2026-03-30T06:29:12.690Z"
 status: "active"
 ---
 

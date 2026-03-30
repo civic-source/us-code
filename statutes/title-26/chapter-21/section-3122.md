@@ -3,9 +3,9 @@ title: "Section 3122 - Federal service"
 usc_title: 26
 usc_section: "3122"
 chapter: 21
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 3122"
-generated_at: "2026-03-30T06:27:41.391Z"
+generated_at: "2026-03-30T06:29:33.298Z"
 status: "active"
 ---
 

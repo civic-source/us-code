@@ -3,9 +3,9 @@ title: "Section 148 - Appropriations for supplies; transfer to Indian Service su
 usc_title: 25
 usc_section: "148"
 chapter: 4
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "25 U.S.C. § 148"
-generated_at: "2026-03-30T06:27:28.387Z"
+generated_at: "2026-03-30T06:29:19.370Z"
 status: "active"
 ---
 

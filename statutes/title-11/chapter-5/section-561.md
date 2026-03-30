@@ -3,9 +3,9 @@ title: "Section 561 - Contractual right to terminate, liquidate, accelerate, or 
 usc_title: 11
 usc_section: "561"
 chapter: 5
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "11 U.S.C. § 561"
-generated_at: "2026-03-30T06:27:09.726Z"
+generated_at: "2026-03-30T06:29:02.710Z"
 status: "active"
 ---
 

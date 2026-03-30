@@ -3,9 +3,9 @@ title: "Section 1232b - Requirement to notify Coast Guard of release of objects 
 usc_title: 33
 usc_section: "1232b"
 chapter: 25
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 1232b"
-generated_at: "2026-03-30T06:27:45.870Z"
+generated_at: "2026-03-30T06:29:36.708Z"
 status: "active"
 ---
 

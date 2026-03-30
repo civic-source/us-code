@@ -3,9 +3,9 @@ title: "Section 8149 - Regulations"
 usc_title: 5
 usc_section: "8149"
 chapter: 81
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "5 U.S.C. § 8149"
-generated_at: "2026-03-30T06:26:54.957Z"
+generated_at: "2026-03-30T06:28:49.130Z"
 status: "active"
 ---
 

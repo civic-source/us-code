@@ -3,9 +3,9 @@ title: "Section 59A - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(
 usc_title: 26
 usc_section: "59A"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 59A"
-generated_at: "2026-03-30T06:27:41.247Z"
+generated_at: "2026-03-30T06:29:33.157Z"
 status: "repealed"
 ---
 

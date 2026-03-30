@@ -3,9 +3,9 @@ title: "Section 826 - Use of member’s facilities"
 usc_title: 14
 usc_section: "826"
 chapter: 23
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "14 U.S.C. § 826"
-generated_at: "2026-03-30T06:27:09.440Z"
+generated_at: "2026-03-30T06:29:02.097Z"
 status: "active"
 ---
 

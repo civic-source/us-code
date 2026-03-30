@@ -3,9 +3,9 @@ title: "Section 362 - Basis to corporations"
 usc_title: 26
 usc_section: "362"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 362"
-generated_at: "2026-03-30T06:27:41.289Z"
+generated_at: "2026-03-30T06:29:33.195Z"
 status: "active"
 ---
 

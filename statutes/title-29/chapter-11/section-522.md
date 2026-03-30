@@ -3,9 +3,9 @@ title: "Section 522 - Extortionate picketing; penalty for violation"
 usc_title: 29
 usc_section: "522"
 chapter: 11
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "29 U.S.C. § 522"
-generated_at: "2026-03-30T06:27:34.934Z"
+generated_at: "2026-03-30T06:29:26.502Z"
 status: "active"
 ---
 

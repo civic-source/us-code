@@ -3,9 +3,9 @@ title: "Section 14116 - State application"
 usc_title: 42
 usc_section: "14116"
 chapter: 136
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 14116"
-generated_at: "2026-03-30T06:28:18.802Z"
+generated_at: "2026-03-30T06:29:56.207Z"
 status: "active"
 ---
 

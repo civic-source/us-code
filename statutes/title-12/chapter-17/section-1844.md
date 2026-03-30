@@ -3,9 +3,9 @@ title: "Section 1844 - Administration"
 usc_title: 12
 usc_section: "1844"
 chapter: 17
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "12 U.S.C. § 1844"
-generated_at: "2026-03-30T06:27:14.641Z"
+generated_at: "2026-03-30T06:29:04.745Z"
 status: "active"
 ---
 

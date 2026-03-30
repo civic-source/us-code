@@ -3,9 +3,9 @@ title: "Section 5308 - Substitute to sign certificates for salary and accounts"
 usc_title: 2
 usc_section: "5308"
 chapter: 53
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 5308"
-generated_at: "2026-03-30T06:26:50.585Z"
+generated_at: "2026-03-30T06:28:47.627Z"
 status: "active"
 ---
 

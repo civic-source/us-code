@@ -3,9 +3,9 @@ title: "Section 662 - Promotion policy objectives for joint officers"
 usc_title: 10
 usc_section: "662"
 chapter: 38
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 662"
-generated_at: "2026-03-30T06:27:02.022Z"
+generated_at: "2026-03-30T06:28:59.937Z"
 status: "active"
 ---
 

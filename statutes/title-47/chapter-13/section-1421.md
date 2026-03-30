@@ -3,9 +3,9 @@ title: "Section 1421 - Single public safety wireless network licensee"
 usc_title: 47
 usc_section: "1421"
 chapter: 13
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "47 U.S.C. § 1421"
-generated_at: "2026-03-30T06:28:21.637Z"
+generated_at: "2026-03-30T06:29:58.983Z"
 status: "active"
 ---
 

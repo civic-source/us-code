@@ -3,9 +3,9 @@ title: "Section 154 - National Mediation Board"
 usc_title: 45
 usc_section: "154"
 chapter: 8
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "45 U.S.C. § 154"
-generated_at: "2026-03-30T06:27:54.649Z"
+generated_at: "2026-03-30T06:29:45.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions"
 usc_title: 8
 usc_section: "1101"
 chapter: 12
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "8 U.S.C. § 1101"
-generated_at: "2026-03-30T06:26:58.380Z"
+generated_at: "2026-03-30T06:28:51.729Z"
 status: "active"
 ---
 

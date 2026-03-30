@@ -3,9 +3,9 @@ title: "Section 2163 - Access to Restricted Data"
 usc_title: 42
 usc_section: "2163"
 chapter: 23
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 2163"
-generated_at: "2026-03-30T06:28:18.515Z"
+generated_at: "2026-03-30T06:29:55.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3904 - Authorization of appropriations; restriction"
 usc_title: 7
 usc_section: "3904"
 chapter: 70
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 3904"
-generated_at: "2026-03-30T06:27:05.307Z"
+generated_at: "2026-03-30T06:28:54.495Z"
 status: "active"
 ---
 

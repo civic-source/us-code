@@ -3,9 +3,9 @@ title: "Section 1423a - Prohibitions"
 usc_title: 16
 usc_section: "1423a"
 chapter: 31
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 1423a"
-generated_at: "2026-03-30T06:27:24.392Z"
+generated_at: "2026-03-30T06:29:15.756Z"
 status: "active"
 ---
 

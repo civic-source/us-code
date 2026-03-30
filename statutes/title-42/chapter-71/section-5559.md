@@ -3,9 +3,9 @@ title: "Section 5559 - Solar Energy Research Institute; establishment; functions
 usc_title: 42
 usc_section: "5559"
 chapter: 71
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 5559"
-generated_at: "2026-03-30T06:28:18.602Z"
+generated_at: "2026-03-30T06:29:55.996Z"
 status: "active"
 ---
 

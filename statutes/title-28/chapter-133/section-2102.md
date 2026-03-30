@@ -3,9 +3,9 @@ title: "Section 2102 - Priority of criminal case on appeal from State court"
 usc_title: 28
 usc_section: "2102"
 chapter: 133
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "28 U.S.C. § 2102"
-generated_at: "2026-03-30T06:27:34.122Z"
+generated_at: "2026-03-30T06:29:25.669Z"
 status: "active"
 ---
 

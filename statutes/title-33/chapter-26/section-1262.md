@@ -3,9 +3,9 @@ title: "Section 1262 - Definitions and authorizations"
 usc_title: 33
 usc_section: "1262"
 chapter: 26
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 1262"
-generated_at: "2026-03-30T06:27:45.871Z"
+generated_at: "2026-03-30T06:29:36.711Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1002 - Repealed. Pub. L. 94–455, title XIX , § 1901(b)(28)(B)
 usc_title: 26
 usc_section: "1002"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 1002"
-generated_at: "2026-03-30T06:27:41.357Z"
+generated_at: "2026-03-30T06:29:33.265Z"
 status: "repealed"
 ---
 

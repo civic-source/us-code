@@ -3,9 +3,9 @@ title: "Section 31149 - Medical program"
 usc_title: 49
 usc_section: "31149"
 chapter: 311
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 31149"
-generated_at: "2026-03-30T06:28:26.659Z"
+generated_at: "2026-03-30T06:30:03.775Z"
 status: "active"
 ---
 

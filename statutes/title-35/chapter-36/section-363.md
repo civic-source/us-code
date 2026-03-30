@@ -3,9 +3,9 @@ title: "Section 363 - International application designating the United States: E
 usc_title: 35
 usc_section: "363"
 chapter: 36
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "35 U.S.C. § 363"
-generated_at: "2026-03-30T06:27:43.184Z"
+generated_at: "2026-03-30T06:29:35.113Z"
 status: "active"
 ---
 

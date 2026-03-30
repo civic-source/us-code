@@ -3,9 +3,9 @@ title: "Section 1862i - Scientific and technical education"
 usc_title: 42
 usc_section: "1862i"
 chapter: 16
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 1862i"
-generated_at: "2026-03-30T06:28:18.490Z"
+generated_at: "2026-03-30T06:29:55.880Z"
 status: "active"
 ---
 

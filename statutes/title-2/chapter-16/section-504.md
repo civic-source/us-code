@@ -3,9 +3,9 @@ title: "Section 504 - Mass mailings by Senate offices; quarterly statements; pub
 usc_title: 2
 usc_section: "504"
 chapter: 16
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 504"
-generated_at: "2026-03-30T06:26:50.551Z"
+generated_at: "2026-03-30T06:28:47.598Z"
 status: "active"
 ---
 

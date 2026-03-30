@@ -3,9 +3,9 @@ title: "Section 5944 - Marine Corps officers: limitation on power to command"
 usc_title: 10
 usc_section: "5944"
 chapter: 551
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 5944"
-generated_at: "2026-03-30T06:27:02.115Z"
+generated_at: "2026-03-30T06:29:00.027Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47a - Security required by Secretary; contracts with Indian-owne
 usc_title: 25
 usc_section: "47a"
 chapter: 2
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "25 U.S.C. § 47a"
-generated_at: "2026-03-30T06:27:28.385Z"
+generated_at: "2026-03-30T06:29:19.368Z"
 status: "active"
 ---
 

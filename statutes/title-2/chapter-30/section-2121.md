@@ -3,9 +3,9 @@ title: "Section 2121 - House of Representatives Fine Arts Board"
 usc_title: 2
 usc_section: "2121"
 chapter: 30
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 2121"
-generated_at: "2026-03-30T06:26:50.576Z"
+generated_at: "2026-03-30T06:28:47.620Z"
 status: "active"
 ---
 

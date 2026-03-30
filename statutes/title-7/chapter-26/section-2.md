@@ -3,9 +3,9 @@ title: "Section 2 - Technical support to exporters and importers of United State
 usc_title: 7
 usc_section: "2"
 chapter: 26
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T06:27:05.222Z"
+generated_at: "2026-03-30T06:28:54.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 239b - Smallpox vaccine injury table"
 usc_title: 42
 usc_section: "239b"
 chapter: 6
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 239b"
-generated_at: "2026-03-30T06:28:18.142Z"
+generated_at: "2026-03-30T06:29:55.525Z"
 status: "active"
 ---
 

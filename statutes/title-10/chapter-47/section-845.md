@@ -3,9 +3,9 @@ title: "Section 845 - Art. 45. Pleas of the accused"
 usc_title: 10
 usc_section: "845"
 chapter: 47
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 845"
-generated_at: "2026-03-30T06:27:02.026Z"
+generated_at: "2026-03-30T06:28:59.942Z"
 status: "active"
 ---
 

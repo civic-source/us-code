@@ -3,9 +3,9 @@ title: "Section 6102 - Repealed. Pub. L. 92–392 , § 7(a), Aug. 19, 1972 , 86 
 usc_title: 5
 usc_section: "6102"
 chapter: 61
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "5 U.S.C. § 6102"
-generated_at: "2026-03-30T06:26:54.946Z"
+generated_at: "2026-03-30T06:28:49.121Z"
 status: "repealed"
 ---
 

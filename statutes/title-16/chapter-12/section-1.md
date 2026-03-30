@@ -3,9 +3,9 @@ title: "Section 1 - Southwestern area sale and transmission of electric power; d
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T06:27:24.362Z"
+generated_at: "2026-03-30T06:29:15.724Z"
 status: "active"
 ---
 

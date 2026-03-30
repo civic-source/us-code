@@ -3,9 +3,9 @@ title: "Section 10603c - Compensation to victims of international terrorism"
 usc_title: 42
 usc_section: "10603c"
 chapter: 112
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 10603c"
-generated_at: "2026-03-30T06:28:18.738Z"
+generated_at: "2026-03-30T06:29:56.139Z"
 status: "active"
 ---
 

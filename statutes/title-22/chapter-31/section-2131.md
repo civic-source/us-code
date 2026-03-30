@@ -3,9 +3,9 @@ title: "Section 2131 - Travel Promotion Act of 2009"
 usc_title: 22
 usc_section: "2131"
 chapter: 31
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 2131"
-generated_at: "2026-03-30T06:27:30.901Z"
+generated_at: "2026-03-30T06:29:22.387Z"
 status: "active"
 ---
 

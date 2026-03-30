@@ -3,9 +3,9 @@ title: "Section 437 - Time for making reports"
 usc_title: 29
 usc_section: "437"
 chapter: 11
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "29 U.S.C. § 437"
-generated_at: "2026-03-30T06:27:34.933Z"
+generated_at: "2026-03-30T06:29:26.501Z"
 status: "active"
 ---
 

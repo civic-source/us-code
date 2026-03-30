@@ -3,9 +3,9 @@ title: "Section 5301 - General"
 usc_title: 26
 usc_section: "5301"
 chapter: 51
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 5301"
-generated_at: "2026-03-30T06:27:41.416Z"
+generated_at: "2026-03-30T06:29:33.322Z"
 status: "active"
 ---
 

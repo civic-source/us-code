@@ -3,9 +3,9 @@ title: "Section 525 - Distribution of commissioned officers on active duty in ge
 usc_title: 10
 usc_section: "525"
 chapter: 32
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 525"
-generated_at: "2026-03-30T06:27:02.017Z"
+generated_at: "2026-03-30T06:28:59.934Z"
 status: "active"
 ---
 

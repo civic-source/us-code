@@ -3,9 +3,9 @@ title: "Section 1161o - College partnership grants authorized"
 usc_title: 20
 usc_section: "1161o"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 1161o"
-generated_at: "2026-03-30T06:27:20.340Z"
+generated_at: "2026-03-30T06:29:12.687Z"
 status: "active"
 ---
 

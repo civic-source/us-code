@@ -3,9 +3,9 @@ title: "Section 7414 - Required terms in orders"
 usc_title: 7
 usc_section: "7414"
 chapter: 101
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 7414"
-generated_at: "2026-03-30T06:27:05.340Z"
+generated_at: "2026-03-30T06:28:54.526Z"
 status: "active"
 ---
 

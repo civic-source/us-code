@@ -3,9 +3,9 @@ title: "Section 6992g - Repealed. Pub. L. 105–362, title V , § 501(h)(1)(A), 
 usc_title: 42
 usc_section: "6992g"
 chapter: 82
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 6992g"
-generated_at: "2026-03-30T06:28:18.645Z"
+generated_at: "2026-03-30T06:29:56.041Z"
 status: "repealed"
 ---
 

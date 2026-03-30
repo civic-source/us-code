@@ -3,9 +3,9 @@ title: "Section 548 - Development of competition and diversity in video programm
 usc_title: 47
 usc_section: "548"
 chapter: 5
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "47 U.S.C. § 548"
-generated_at: "2026-03-30T06:28:21.628Z"
+generated_at: "2026-03-30T06:29:58.973Z"
 status: "active"
 ---
 

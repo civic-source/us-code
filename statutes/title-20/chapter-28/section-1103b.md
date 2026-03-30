@@ -3,9 +3,9 @@ title: "Section 1103b - Application review process"
 usc_title: 20
 usc_section: "1103b"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 1103b"
-generated_at: "2026-03-30T06:27:20.332Z"
+generated_at: "2026-03-30T06:29:12.679Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1571 - Prohibitions relating to interstate commerce in certain s
 usc_title: 7
 usc_section: "1571"
 chapter: 37
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 1571"
-generated_at: "2026-03-30T06:27:05.249Z"
+generated_at: "2026-03-30T06:28:54.436Z"
 status: "active"
 ---
 

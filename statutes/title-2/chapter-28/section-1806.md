@@ -3,9 +3,9 @@ title: "Section 1806 - Repealed. Pub. L. 110–437, title II , § 202(e)(2), Oct
 usc_title: 2
 usc_section: "1806"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 1806"
-generated_at: "2026-03-30T06:26:50.569Z"
+generated_at: "2026-03-30T06:28:47.613Z"
 status: "repealed"
 ---
 

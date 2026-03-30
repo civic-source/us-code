@@ -3,9 +3,9 @@ title: "Section 5521 - National Science Foundation activities"
 usc_title: 15
 usc_section: "5521"
 chapter: 81
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "15 U.S.C. § 5521"
-generated_at: "2026-03-30T06:27:12.876Z"
+generated_at: "2026-03-30T06:29:07.214Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7131 - Establishment"
 usc_title: 42
 usc_section: "7131"
 chapter: 84
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 7131"
-generated_at: "2026-03-30T06:28:18.646Z"
+generated_at: "2026-03-30T06:29:56.042Z"
 status: "active"
 ---
 

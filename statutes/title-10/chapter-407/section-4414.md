@@ -3,9 +3,9 @@ title: "Section 4414 - Quartermaster and ordnance property: sales"
 usc_title: 10
 usc_section: "4414"
 chapter: 407
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 4414"
-generated_at: "2026-03-30T06:27:02.110Z"
+generated_at: "2026-03-30T06:29:00.022Z"
 status: "active"
 ---
 

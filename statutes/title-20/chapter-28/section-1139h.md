@@ -3,9 +3,9 @@ title: "Section 1139h - Repealed. Pub. L. 110–315, title VII , § 708, Aug. 14
 usc_title: 20
 usc_section: "1139h"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 1139h"
-generated_at: "2026-03-30T06:27:20.335Z"
+generated_at: "2026-03-30T06:29:12.682Z"
 status: "repealed"
 ---
 

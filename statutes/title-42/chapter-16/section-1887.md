@@ -3,9 +3,9 @@ title: "Section 1887 - Indemnification of grantees, contractors, and subcontract
 usc_title: 42
 usc_section: "1887"
 chapter: 16
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 1887"
-generated_at: "2026-03-30T06:28:18.496Z"
+generated_at: "2026-03-30T06:29:55.886Z"
 status: "active"
 ---
 

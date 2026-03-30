@@ -3,9 +3,9 @@ title: "Section 292t - Individuals from disadvantaged backgrounds"
 usc_title: 42
 usc_section: "292t"
 chapter: 6
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 292t"
-generated_at: "2026-03-30T06:28:18.212Z"
+generated_at: "2026-03-30T06:29:55.598Z"
 status: "active"
 ---
 

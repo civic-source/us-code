@@ -3,9 +3,9 @@ title: "Section 1 - Final date for making payment to cash seller or poultry grow
 usc_title: 7
 usc_section: "1"
 chapter: 9
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T06:27:05.211Z"
+generated_at: "2026-03-30T06:28:54.400Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3032i - Demonstration and support projects for legal assistance 
 usc_title: 42
 usc_section: "3032i"
 chapter: 35
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 3032i"
-generated_at: "2026-03-30T06:28:18.536Z"
+generated_at: "2026-03-30T06:29:55.928Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1109 - Court action; service of process"
 usc_title: 16
 usc_section: "1109"
 chapter: 22
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 1109"
-generated_at: "2026-03-30T06:27:24.375Z"
+generated_at: "2026-03-30T06:29:15.739Z"
 status: "active"
 ---
 

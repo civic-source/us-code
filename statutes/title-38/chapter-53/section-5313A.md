@@ -3,9 +3,9 @@ title: "Section 5313A - Limitation on payment of clothing allowance to incarcera
 usc_title: 38
 usc_section: "5313A"
 chapter: 53
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "38 U.S.C. § 5313A"
-generated_at: "2026-03-30T06:27:49.760Z"
+generated_at: "2026-03-30T06:29:41.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1140f - Purpose"
 usc_title: 20
 usc_section: "1140f"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 1140f"
-generated_at: "2026-03-30T06:27:20.335Z"
+generated_at: "2026-03-30T06:29:12.683Z"
 status: "active"
 ---
 

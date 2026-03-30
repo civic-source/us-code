@@ -3,9 +3,9 @@ title: "Section 693 - Annual list of projects to Congress"
 usc_title: 14
 usc_section: "693"
 chapter: 19
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "14 U.S.C. § 693"
-generated_at: "2026-03-30T06:27:09.440Z"
+generated_at: "2026-03-30T06:29:02.097Z"
 status: "active"
 ---
 

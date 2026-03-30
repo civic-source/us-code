@@ -3,9 +3,9 @@ title: "Section 1592l - Authorization of appropriations"
 usc_title: 42
 usc_section: "1592l"
 chapter: 9
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 1592l"
-generated_at: "2026-03-30T06:28:18.474Z"
+generated_at: "2026-03-30T06:29:55.864Z"
 status: "active"
 ---
 

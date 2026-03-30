@@ -3,9 +3,9 @@ title: "Section 6011 - Navy Regulations"
 usc_title: 10
 usc_section: "6011"
 chapter: 555
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 6011"
-generated_at: "2026-03-30T06:27:02.115Z"
+generated_at: "2026-03-30T06:29:00.028Z"
 status: "active"
 ---
 

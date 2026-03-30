@@ -3,9 +3,9 @@ title: "Section 20162 - Minimum training standards and plans"
 usc_title: 49
 usc_section: "20162"
 chapter: 201
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 20162"
-generated_at: "2026-03-30T06:28:26.644Z"
+generated_at: "2026-03-30T06:30:03.757Z"
 status: "active"
 ---
 

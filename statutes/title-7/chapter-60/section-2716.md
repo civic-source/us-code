@@ -3,9 +3,9 @@ title: "Section 2716 - Regulations"
 usc_title: 7
 usc_section: "2716"
 chapter: 60
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 2716"
-generated_at: "2026-03-30T06:27:05.297Z"
+generated_at: "2026-03-30T06:28:54.485Z"
 status: "active"
 ---
 

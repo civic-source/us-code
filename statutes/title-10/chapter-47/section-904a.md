@@ -3,9 +3,9 @@ title: "Section 904a - Art. 104a]"
 usc_title: 10
 usc_section: "904a"
 chapter: 47
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 904a"
-generated_at: "2026-03-30T06:27:02.028Z"
+generated_at: "2026-03-30T06:28:59.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2320 - Regulations"
 usc_title: 19
 usc_section: "2320"
 chapter: 12
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "19 U.S.C. § 2320"
-generated_at: "2026-03-30T06:27:21.522Z"
+generated_at: "2026-03-30T06:29:10.739Z"
 status: "active"
 ---
 

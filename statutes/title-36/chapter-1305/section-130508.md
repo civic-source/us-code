@@ -3,9 +3,9 @@ title: "Section 130508 - Principal office"
 usc_title: 36
 usc_section: "130508"
 chapter: 1305
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "36 U.S.C. § 130508"
-generated_at: "2026-03-30T06:27:48.533Z"
+generated_at: "2026-03-30T06:29:39.128Z"
 status: "active"
 ---
 

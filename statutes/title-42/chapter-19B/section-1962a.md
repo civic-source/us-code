@@ -3,9 +3,9 @@ title: "Section 1962a - Establishment; composition; other Federal agency partici
 usc_title: 42
 usc_section: "1962a"
 chapter: 19
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 1962a"
-generated_at: "2026-03-30T06:28:18.496Z"
+generated_at: "2026-03-30T06:29:55.887Z"
 status: "active"
 ---
 

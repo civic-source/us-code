@@ -3,9 +3,9 @@ title: "Section 948s - Service of charges"
 usc_title: 10
 usc_section: "948s"
 chapter: 47
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 948s"
-generated_at: "2026-03-30T06:27:02.031Z"
+generated_at: "2026-03-30T06:28:59.946Z"
 status: "active"
 ---
 

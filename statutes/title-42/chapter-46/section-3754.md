@@ -3,9 +3,9 @@ title: "Section 3754 - Rules"
 usc_title: 42
 usc_section: "3754"
 chapter: 46
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 3754"
-generated_at: "2026-03-30T06:28:18.556Z"
+generated_at: "2026-03-30T06:29:55.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 251a - Additional lands"
 usc_title: 16
 usc_section: "251a"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 251a"
-generated_at: "2026-03-30T06:27:24.245Z"
+generated_at: "2026-03-30T06:29:15.602Z"
 status: "active"
 ---
 

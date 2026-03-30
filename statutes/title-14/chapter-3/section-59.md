@@ -3,9 +3,9 @@ title: "Section 59 - Marine industry training program"
 usc_title: 14
 usc_section: "59"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "14 U.S.C. § 59"
-generated_at: "2026-03-30T06:27:09.434Z"
+generated_at: "2026-03-30T06:29:02.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2139 - Principal-agent relationship established"
 usc_title: 7
 usc_section: "2139"
 chapter: 54
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 2139"
-generated_at: "2026-03-30T06:27:05.287Z"
+generated_at: "2026-03-30T06:28:54.475Z"
 status: "active"
 ---
 

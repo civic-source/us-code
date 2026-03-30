@@ -3,9 +3,9 @@ title: "Section 5048 - Joint funding; single non-Federal share requirement; gran
 usc_title: 42
 usc_section: "5048"
 chapter: 66
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 5048"
-generated_at: "2026-03-30T06:28:18.586Z"
+generated_at: "2026-03-30T06:29:55.978Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 201 - Publication and distribution of Code of Laws of United Sta
 usc_title: 1
 usc_section: "201"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "1 U.S.C. § 201"
-generated_at: "2026-03-30T06:26:49.928Z"
+generated_at: "2026-03-30T06:28:46.406Z"
 status: "active"
 ---
 

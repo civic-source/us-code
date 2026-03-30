@@ -3,9 +3,9 @@ title: "Section 161b - “Indian Money, Proceeds of Labor” fund; separate acco
 usc_title: 25
 usc_section: "161b"
 chapter: 4
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "25 U.S.C. § 161b"
-generated_at: "2026-03-30T06:27:28.387Z"
+generated_at: "2026-03-30T06:29:19.371Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5103 - Single per annum gross rates of allowances for personal s
 usc_title: 2
 usc_section: "5103"
 chapter: 51
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 5103"
-generated_at: "2026-03-30T06:26:50.584Z"
+generated_at: "2026-03-30T06:28:47.626Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 71 - Repealed. Pub. L. 105–244, title IV , § 405, Oct. 7, 199
 usc_title: 20
 usc_section: "71"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 71"
-generated_at: "2026-03-30T06:27:20.300Z"
+generated_at: "2026-03-30T06:29:12.648Z"
 status: "repealed"
 ---
 

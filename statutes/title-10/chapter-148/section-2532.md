@@ -3,9 +3,9 @@ title: "Section 2532 - Offset policy; notification"
 usc_title: 10
 usc_section: "2532"
 chapter: 148
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 2532"
-generated_at: "2026-03-30T06:27:02.089Z"
+generated_at: "2026-03-30T06:29:00.002Z"
 status: "active"
 ---
 

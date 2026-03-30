@@ -3,9 +3,9 @@ title: "Section 3906 - Repealed. Pub. L. 98–181, title I [title IV, § 474(e)]
 usc_title: 42
 usc_section: "3906"
 chapter: 48
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 3906"
-generated_at: "2026-03-30T06:28:18.569Z"
+generated_at: "2026-03-30T06:29:55.959Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4242 - Certification under Pelly amendment"
 usc_title: 16
 usc_section: "4242"
 chapter: 62
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 4242"
-generated_at: "2026-03-30T06:27:24.439Z"
+generated_at: "2026-03-30T06:29:15.805Z"
 status: "active"
 ---
 

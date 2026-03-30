@@ -3,9 +3,9 @@ title: "Section 577d - Boundary limits of additional lands acquired in northern 
 usc_title: 16
 usc_section: "577d"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 577d"
-generated_at: "2026-03-30T06:27:24.332Z"
+generated_at: "2026-03-30T06:29:15.694Z"
 status: "active"
 ---
 

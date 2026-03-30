@@ -3,9 +3,9 @@ title: "Section 334 - Renumbered § 254]"
 usc_title: 10
 usc_section: "334"
 chapter: 16
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 334"
-generated_at: "2026-03-30T06:27:02.012Z"
+generated_at: "2026-03-30T06:28:59.928Z"
 status: "renumbered"
 ---
 

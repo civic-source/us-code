@@ -3,9 +3,9 @@ title: "Section 30506 - Limit of liability for personal injury or death"
 usc_title: 46
 usc_section: "30506"
 chapter: 305
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "46 U.S.C. § 30506"
-generated_at: "2026-03-30T06:28:22.942Z"
+generated_at: "2026-03-30T06:30:00.443Z"
 status: "active"
 ---
 

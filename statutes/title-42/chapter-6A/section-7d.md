@@ -3,9 +3,9 @@ title: "Section 7d - Security for countermeasure development and production"
 usc_title: 42
 usc_section: "7d"
 chapter: 6
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-30T06:28:18.156Z"
+generated_at: "2026-03-30T06:29:55.539Z"
 status: "active"
 ---
 

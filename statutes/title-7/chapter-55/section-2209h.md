@@ -3,9 +3,9 @@ title: "Section 2209h - Reimbursement of Office of the General Counsel"
 usc_title: 7
 usc_section: "2209h"
 chapter: 55
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 2209h"
-generated_at: "2026-03-30T06:27:05.289Z"
+generated_at: "2026-03-30T06:28:54.478Z"
 status: "active"
 ---
 

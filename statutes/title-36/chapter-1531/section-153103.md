@@ -3,9 +3,9 @@ title: "Section 153103 - Powers"
 usc_title: 36
 usc_section: "153103"
 chapter: 1531
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "36 U.S.C. § 153103"
-generated_at: "2026-03-30T06:27:48.538Z"
+generated_at: "2026-03-30T06:29:39.131Z"
 status: "active"
 ---
 

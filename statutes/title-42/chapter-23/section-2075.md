@@ -3,9 +3,9 @@ title: "Section 2075 - Acquisition of special nuclear material; payments; just c
 usc_title: 42
 usc_section: "2075"
 chapter: 23
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 2075"
-generated_at: "2026-03-30T06:28:18.510Z"
+generated_at: "2026-03-30T06:29:55.902Z"
 status: "active"
 ---
 

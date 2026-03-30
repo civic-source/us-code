@@ -3,9 +3,9 @@ title: "Section 1257a - State demonstration programs for cleanup of abandoned mi
 usc_title: 33
 usc_section: "1257a"
 chapter: 26
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 1257a"
-generated_at: "2026-03-30T06:27:45.871Z"
+generated_at: "2026-03-30T06:29:36.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8742 - Identification of, and imposition of sanctions with respe
 usc_title: 22
 usc_section: "8742"
 chapter: 94
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 8742"
-generated_at: "2026-03-30T06:27:31.000Z"
+generated_at: "2026-03-30T06:29:22.485Z"
 status: "active"
 ---
 

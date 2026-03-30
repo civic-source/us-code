@@ -3,9 +3,9 @@ title: "Section 103303 - Performance of duties of commissions"
 usc_title: 54
 usc_section: "103303"
 chapter: 1033
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "54 U.S.C. § 103303"
-generated_at: "2026-03-30T06:28:36.328Z"
+generated_at: "2026-03-30T06:30:06.363Z"
 status: "active"
 ---
 

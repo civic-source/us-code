@@ -3,9 +3,9 @@ title: "Section 2 - Advisory commission"
 usc_title: 50
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T06:28:24.832Z"
+generated_at: "2026-03-30T06:30:01.848Z"
 status: "active"
 ---
 

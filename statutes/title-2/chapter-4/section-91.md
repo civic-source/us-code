@@ -3,9 +3,9 @@ title: "Section 91 - Repealed. Pub. L. 104–186, title II , § 204(33), Aug. 20
 usc_title: 2
 usc_section: "91"
 chapter: 4
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 91"
-generated_at: "2026-03-30T06:26:50.541Z"
+generated_at: "2026-03-30T06:28:47.589Z"
 status: "repealed"
 ---
 

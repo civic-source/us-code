@@ -3,9 +3,9 @@ title: "Section 1770 - Applicability of provisions to other Federal laws"
 usc_title: 43
 usc_section: "1770"
 chapter: 35
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "43 U.S.C. § 1770"
-generated_at: "2026-03-30T06:27:54.406Z"
+generated_at: "2026-03-30T06:29:43.533Z"
 status: "active"
 ---
 

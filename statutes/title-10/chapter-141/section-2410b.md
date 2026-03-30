@@ -3,9 +3,9 @@ title: "Section 2410b - Contractor inventory accounting systems: standards"
 usc_title: 10
 usc_section: "2410b"
 chapter: 141
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 2410b"
-generated_at: "2026-03-30T06:27:02.083Z"
+generated_at: "2026-03-30T06:28:59.996Z"
 status: "active"
 ---
 

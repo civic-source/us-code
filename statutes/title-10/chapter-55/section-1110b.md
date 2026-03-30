@@ -3,9 +3,9 @@ title: "Section 1110b - TRICARE program: extension of dependent coverage"
 usc_title: 10
 usc_section: "1110b"
 chapter: 55
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 1110b"
-generated_at: "2026-03-30T06:27:02.043Z"
+generated_at: "2026-03-30T06:28:59.958Z"
 status: "active"
 ---
 

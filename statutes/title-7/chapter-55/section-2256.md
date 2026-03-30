@@ -3,9 +3,9 @@ title: "Section 2256 - Inspections, analyses, and tests for other Government dep
 usc_title: 7
 usc_section: "2256"
 chapter: 55
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 2256"
-generated_at: "2026-03-30T06:27:05.290Z"
+generated_at: "2026-03-30T06:28:54.479Z"
 status: "active"
 ---
 

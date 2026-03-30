@@ -3,9 +3,9 @@ title: "Section 87 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862"
 usc_title: 25
 usc_section: "87"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "25 U.S.C. § 87"
-generated_at: "2026-03-30T06:27:28.386Z"
+generated_at: "2026-03-30T06:29:19.369Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 315 - Detail of regular members of Army and Air Force to duty wi
 usc_title: 32
 usc_section: "315"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "32 U.S.C. § 315"
-generated_at: "2026-03-30T06:27:43.023Z"
+generated_at: "2026-03-30T06:29:34.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5103 - Load line requirements"
 usc_title: 46
 usc_section: "5103"
 chapter: 51
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "46 U.S.C. § 5103"
-generated_at: "2026-03-30T06:28:22.932Z"
+generated_at: "2026-03-30T06:30:00.433Z"
 status: "active"
 ---
 

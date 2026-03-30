@@ -3,9 +3,9 @@ title: "Section 2413 - Saving provisions"
 usc_title: 16
 usc_section: "2413"
 chapter: 44
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 2413"
-generated_at: "2026-03-30T06:27:24.415Z"
+generated_at: "2026-03-30T06:29:15.780Z"
 status: "active"
 ---
 

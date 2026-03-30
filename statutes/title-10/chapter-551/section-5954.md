@@ -3,9 +3,9 @@ title: "Section 5954 - Repealed. Pub. L. 90–235 , § 5(a)(2), (b)(1), Jan. 2, 
 usc_title: 10
 usc_section: "5954"
 chapter: 551
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 5954"
-generated_at: "2026-03-30T06:27:02.115Z"
+generated_at: "2026-03-30T06:29:00.028Z"
 status: "repealed"
 ---
 

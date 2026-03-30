@@ -3,9 +3,9 @@ title: "Section 6207 - Enforcement"
 usc_title: 7
 usc_section: "6207"
 chapter: 91
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 6207"
-generated_at: "2026-03-30T06:27:05.323Z"
+generated_at: "2026-03-30T06:28:54.510Z"
 status: "active"
 ---
 

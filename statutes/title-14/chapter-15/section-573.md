@@ -3,9 +3,9 @@ title: "Section 573 - Preliminary development and demonstration"
 usc_title: 14
 usc_section: "573"
 chapter: 15
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "14 U.S.C. § 573"
-generated_at: "2026-03-30T06:27:09.438Z"
+generated_at: "2026-03-30T06:29:02.094Z"
 status: "active"
 ---
 

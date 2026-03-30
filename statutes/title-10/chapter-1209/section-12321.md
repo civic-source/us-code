@@ -3,9 +3,9 @@ title: "Section 12321 - Reserve Officer Training Corps units: limitation on numb
 usc_title: 10
 usc_section: "12321"
 chapter: 1209
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 12321"
-generated_at: "2026-03-30T06:27:02.136Z"
+generated_at: "2026-03-30T06:29:00.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2473e - Repealed. Pub. L. 109–155, title VII , § 703(b), Dec.
 usc_title: 42
 usc_section: "2473e"
 chapter: 26
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 2473e"
-generated_at: "2026-03-30T06:28:18.526Z"
+generated_at: "2026-03-30T06:29:55.917Z"
 status: "repealed"
 ---
 

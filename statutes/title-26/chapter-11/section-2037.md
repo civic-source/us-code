@@ -3,9 +3,9 @@ title: "Section 2037 - Transfers taking effect at death"
 usc_title: 26
 usc_section: "2037"
 chapter: 11
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 2037"
-generated_at: "2026-03-30T06:27:41.383Z"
+generated_at: "2026-03-30T06:29:33.290Z"
 status: "active"
 ---
 

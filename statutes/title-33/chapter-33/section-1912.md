@@ -3,9 +3,9 @@ title: "Section 1912 - International law"
 usc_title: 33
 usc_section: "1912"
 chapter: 33
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 1912"
-generated_at: "2026-03-30T06:27:45.893Z"
+generated_at: "2026-03-30T06:29:36.732Z"
 status: "active"
 ---
 

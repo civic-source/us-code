@@ -3,9 +3,9 @@ title: "Section 8127 - Small business concerns owned and controlled by veterans:
 usc_title: 38
 usc_section: "8127"
 chapter: 81
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "38 U.S.C. § 8127"
-generated_at: "2026-03-30T06:27:49.776Z"
+generated_at: "2026-03-30T06:29:41.089Z"
 status: "active"
 ---
 
@@ -53,8 +53,10 @@ status: "active"
   - **(2)** The period referred to in paragraph (1) is the period beginning on the date on which the veteran dies and ending on the earliest of the following dates:
     - **(A)** The date on which the surviving spouse remarries.
     - **(B)** The date on which the surviving spouse relinquishes an ownership interest in the small business concern.
-    - **(C)** The date that is ten years after the date of the veteran’s death.
-  - **(3)** Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability.
+    - **(C)** The date that—
+      - **(i)** in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran’s death; or
+      - **(ii)** in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran’s death.
+  - **(3)** Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability.
 - **(i)** Preferences for awarding contracts to small business concerns shall be applied in the following order of priority:
   - **(1)** Contracts awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans with service-connected disabilities.
   - **(2)** Contracts awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans that are not covered by paragraph (1).

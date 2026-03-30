@@ -3,9 +3,9 @@ title: "Section 1738c - Reduction of certain debt"
 usc_title: 7
 usc_section: "1738c"
 chapter: 41
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 1738c"
-generated_at: "2026-03-30T06:27:05.259Z"
+generated_at: "2026-03-30T06:28:54.447Z"
 status: "active"
 ---
 

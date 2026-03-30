@@ -3,9 +3,9 @@ title: "Section 142 - Control; regulations"
 usc_title: 16
 usc_section: "142"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 142"
-generated_at: "2026-03-30T06:27:24.238Z"
+generated_at: "2026-03-30T06:29:15.596Z"
 status: "active"
 ---
 

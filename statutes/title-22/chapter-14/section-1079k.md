@@ -3,9 +3,9 @@ title: "Section 1079k - Repealed. Pub. L. 96–465, title II , § 2205(14), Oct.
 usc_title: 22
 usc_section: "1079k"
 chapter: 14
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 1079k"
-generated_at: "2026-03-30T06:27:30.890Z"
+generated_at: "2026-03-30T06:29:22.376Z"
 status: "repealed"
 ---
 

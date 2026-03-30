@@ -3,9 +3,9 @@ title: "Section 7455 - Transferred"
 usc_title: 20
 usc_section: "7455"
 chapter: 70
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 7455"
-generated_at: "2026-03-30T06:27:20.395Z"
+generated_at: "2026-03-30T06:29:12.742Z"
 status: "transferred"
 ---
 

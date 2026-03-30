@@ -3,9 +3,9 @@ title: "Section 1965 - Expiration"
 usc_title: 22
 usc_section: "1965"
 chapter: 24
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 1965"
-generated_at: "2026-03-30T06:27:30.899Z"
+generated_at: "2026-03-30T06:29:22.384Z"
 status: "active"
 ---
 

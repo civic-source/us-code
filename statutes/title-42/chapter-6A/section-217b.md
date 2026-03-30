@@ -3,9 +3,9 @@ title: "Section 217b - Volunteer services"
 usc_title: 42
 usc_section: "217b"
 chapter: 6
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 217b"
-generated_at: "2026-03-30T06:28:18.137Z"
+generated_at: "2026-03-30T06:29:55.523Z"
 status: "active"
 ---
 

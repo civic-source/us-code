@@ -3,9 +3,9 @@ title: "Section 1701 - Management policies"
 usc_title: 10
 usc_section: "1701"
 chapter: 87
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 1701"
-generated_at: "2026-03-30T06:27:02.059Z"
+generated_at: "2026-03-30T06:28:59.973Z"
 status: "active"
 ---
 

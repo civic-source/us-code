@@ -3,9 +3,9 @@ title: "Section 3711 - Repealed. Pub. L. 104–201, div. C, title XXXV , § 3546
 usc_title: 22
 usc_section: "3711"
 chapter: 51
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 3711"
-generated_at: "2026-03-30T06:27:30.947Z"
+generated_at: "2026-03-30T06:29:22.432Z"
 status: "repealed"
 ---
 

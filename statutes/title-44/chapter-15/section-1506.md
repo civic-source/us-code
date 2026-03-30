@@ -3,9 +3,9 @@ title: "Section 1506 - Administrative Committee of the Federal Register; establi
 usc_title: 44
 usc_section: "1506"
 chapter: 15
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "44 U.S.C. § 1506"
-generated_at: "2026-03-30T06:27:53.719Z"
+generated_at: "2026-03-30T06:29:44.005Z"
 status: "active"
 ---
 

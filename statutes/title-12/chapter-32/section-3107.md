@@ -3,9 +3,9 @@ title: "Section 3107 - Representative offices"
 usc_title: 12
 usc_section: "3107"
 chapter: 32
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "12 U.S.C. § 3107"
-generated_at: "2026-03-30T06:27:14.663Z"
+generated_at: "2026-03-30T06:29:04.767Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 27f - Contract enforcement"
 usc_title: 7
 usc_section: "27f"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 27f"
-generated_at: "2026-03-30T06:27:05.191Z"
+generated_at: "2026-03-30T06:28:54.380Z"
 status: "active"
 ---
 

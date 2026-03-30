@@ -3,9 +3,9 @@ title: "Section 1013 - Surface land use"
 usc_title: 30
 usc_section: "1013"
 chapter: 23
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "30 U.S.C. § 1013"
-generated_at: "2026-03-30T06:27:36.419Z"
+generated_at: "2026-03-30T06:29:24.677Z"
 status: "active"
 ---
 

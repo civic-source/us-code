@@ -3,9 +3,9 @@ title: "Section 1881b - Regulations and procedures"
 usc_title: 2
 usc_section: "1881b"
 chapter: 28
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 1881b"
-generated_at: "2026-03-30T06:26:50.572Z"
+generated_at: "2026-03-30T06:28:47.615Z"
 status: "active"
 ---
 

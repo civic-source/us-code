@@ -3,9 +3,9 @@ title: "Section 541 - Reimbursement for adoption expenses"
 usc_title: 14
 usc_section: "541"
 chapter: 14
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "14 U.S.C. § 541"
-generated_at: "2026-03-30T06:27:09.437Z"
+generated_at: "2026-03-30T06:29:02.094Z"
 status: "active"
 ---
 

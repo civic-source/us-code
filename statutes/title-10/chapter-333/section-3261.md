@@ -3,9 +3,9 @@ title: "Section 3261 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "3261"
 chapter: 333
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 3261"
-generated_at: "2026-03-30T06:27:02.106Z"
+generated_at: "2026-03-30T06:29:00.019Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1415 - Penalties"
 usc_title: 33
 usc_section: "1415"
 chapter: 27
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 1415"
-generated_at: "2026-03-30T06:27:45.889Z"
+generated_at: "2026-03-30T06:29:36.728Z"
 status: "active"
 ---
 

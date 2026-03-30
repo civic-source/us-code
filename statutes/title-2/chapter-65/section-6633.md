@@ -3,9 +3,9 @@ title: "Section 6633 - Media support services"
 usc_title: 2
 usc_section: "6633"
 chapter: 65
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 6633"
-generated_at: "2026-03-30T06:26:50.592Z"
+generated_at: "2026-03-30T06:28:47.632Z"
 status: "active"
 ---
 

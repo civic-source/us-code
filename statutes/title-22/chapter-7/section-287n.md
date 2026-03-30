@@ -3,9 +3,9 @@ title: "Section 287n - Representatives in General Conference; number; citizenshi
 usc_title: 22
 usc_section: "287n"
 chapter: 7
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 287n"
-generated_at: "2026-03-30T06:27:30.883Z"
+generated_at: "2026-03-30T06:29:22.368Z"
 status: "active"
 ---
 

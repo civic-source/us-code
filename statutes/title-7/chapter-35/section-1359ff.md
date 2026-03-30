@@ -3,9 +3,9 @@ title: "Section 1359ff - Provisions applicable to producers"
 usc_title: 7
 usc_section: "1359ff"
 chapter: 35
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 1359ff"
-generated_at: "2026-03-30T06:27:05.235Z"
+generated_at: "2026-03-30T06:28:54.422Z"
 status: "active"
 ---
 

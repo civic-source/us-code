@@ -3,9 +3,9 @@ title: "Section 2010 - Renumbered § 321]"
 usc_title: 10
 usc_section: "2010"
 chapter: 101
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 2010"
-generated_at: "2026-03-30T06:27:02.062Z"
+generated_at: "2026-03-30T06:28:59.977Z"
 status: "renumbered"
 ---
 

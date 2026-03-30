@@ -3,9 +3,9 @@ title: "Section 7276b - Integrated resource plans"
 usc_title: 42
 usc_section: "7276b"
 chapter: 84
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 7276b"
-generated_at: "2026-03-30T06:28:18.650Z"
+generated_at: "2026-03-30T06:29:56.047Z"
 status: "active"
 ---
 

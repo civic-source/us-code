@@ -3,9 +3,9 @@ title: "Section 59ll - Central Delaware River, Philadelphia, Pennsylvania"
 usc_title: 33
 usc_section: "59ll"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "33 U.S.C. § 59ll"
-generated_at: "2026-03-30T06:27:45.844Z"
+generated_at: "2026-03-30T06:29:36.684Z"
 status: "active"
 ---
 

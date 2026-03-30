@@ -3,9 +3,9 @@ title: "Section 4207 - Reporting requirement"
 usc_title: 7
 usc_section: "4207"
 chapter: 73
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 4207"
-generated_at: "2026-03-30T06:27:05.307Z"
+generated_at: "2026-03-30T06:28:54.496Z"
 status: "active"
 ---
 

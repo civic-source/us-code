@@ -3,9 +3,9 @@ title: "Section 2347a - Authorization of appropriations"
 usc_title: 22
 usc_section: "2347a"
 chapter: 32
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "22 U.S.C. § 2347a"
-generated_at: "2026-03-30T06:27:30.916Z"
+generated_at: "2026-03-30T06:29:22.402Z"
 status: "active"
 ---
 

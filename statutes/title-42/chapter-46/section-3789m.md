@@ -3,9 +3,9 @@ title: "Section 3789m - District of Columbia matching fund source"
 usc_title: 42
 usc_section: "3789m"
 chapter: 46
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 3789m"
-generated_at: "2026-03-30T06:28:18.559Z"
+generated_at: "2026-03-30T06:29:55.947Z"
 status: "active"
 ---
 

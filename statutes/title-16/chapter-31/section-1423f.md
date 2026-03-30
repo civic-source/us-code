@@ -3,9 +3,9 @@ title: "Section 1423f - Implementation of actions taken by the Commission"
 usc_title: 16
 usc_section: "1423f"
 chapter: 31
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 1423f"
-generated_at: "2026-03-30T06:27:24.392Z"
+generated_at: "2026-03-30T06:29:15.756Z"
 status: "active"
 ---
 

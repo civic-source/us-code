@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-30T06:27:02.068Z"
+generated_at: "2026-03-30T06:28:59.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 383 - Response of contestee"
 usc_title: 2
 usc_section: "383"
 chapter: 12
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "2 U.S.C. § 383"
-generated_at: "2026-03-30T06:26:50.550Z"
+generated_at: "2026-03-30T06:28:47.596Z"
 status: "active"
 ---
 

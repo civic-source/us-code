@@ -3,9 +3,9 @@ title: "Section 5304 - Statewide and nonmetropolitan transportation planning"
 usc_title: 49
 usc_section: "5304"
 chapter: 53
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 5304"
-generated_at: "2026-03-30T06:28:26.621Z"
+generated_at: "2026-03-30T06:30:03.730Z"
 status: "active"
 ---
 

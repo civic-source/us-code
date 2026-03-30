@@ -3,9 +3,9 @@ title: "Section 322 - General powers"
 usc_title: 49
 usc_section: "322"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 322"
-generated_at: "2026-03-30T06:28:26.614Z"
+generated_at: "2026-03-30T06:30:03.721Z"
 status: "active"
 ---
 

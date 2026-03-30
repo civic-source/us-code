@@ -3,9 +3,9 @@ title: "Section 837g - Transmission lines between Pacific Northwest and Pacific 
 usc_title: 16
 usc_section: "837g"
 chapter: 12
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 837g"
-generated_at: "2026-03-30T06:27:24.367Z"
+generated_at: "2026-03-30T06:29:15.730Z"
 status: "active"
 ---
 

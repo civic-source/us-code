@@ -3,9 +3,9 @@ title: "Section 7662 - Duties of marshal"
 usc_title: 10
 usc_section: "7662"
 chapter: 655
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 7662"
-generated_at: "2026-03-30T06:27:02.124Z"
+generated_at: "2026-03-30T06:29:00.035Z"
 status: "active"
 ---
 

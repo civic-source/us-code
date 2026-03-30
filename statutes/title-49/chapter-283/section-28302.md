@@ -3,9 +3,9 @@ title: "Section 28302 - Penalties"
 usc_title: 49
 usc_section: "28302"
 chapter: 283
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 28302"
-generated_at: "2026-03-30T06:28:26.651Z"
+generated_at: "2026-03-30T06:30:03.766Z"
 status: "active"
 ---
 

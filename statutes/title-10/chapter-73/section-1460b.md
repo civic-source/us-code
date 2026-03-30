@@ -3,9 +3,9 @@ title: "Section 1460b - Repealed. Pub. L. 108–375, div. A, title VI , § 644(b
 usc_title: 10
 usc_section: "1460b"
 chapter: 73
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "10 U.S.C. § 1460b"
-generated_at: "2026-03-30T06:27:02.053Z"
+generated_at: "2026-03-30T06:28:59.967Z"
 status: "repealed"
 ---
 

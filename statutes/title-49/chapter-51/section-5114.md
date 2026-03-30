@@ -3,9 +3,9 @@ title: "Section 5114 - Air transportation of ionizing radiation material"
 usc_title: 49
 usc_section: "5114"
 chapter: 51
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 5114"
-generated_at: "2026-03-30T06:28:26.619Z"
+generated_at: "2026-03-30T06:30:03.728Z"
 status: "active"
 ---
 

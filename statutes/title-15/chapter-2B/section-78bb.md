@@ -3,9 +3,9 @@ title: "Section 78bb - Effect on existing law"
 usc_title: 15
 usc_section: "78bb"
 chapter: 2
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "15 U.S.C. § 78bb"
-generated_at: "2026-03-30T06:27:12.746Z"
+generated_at: "2026-03-30T06:29:07.086Z"
 status: "active"
 ---
 

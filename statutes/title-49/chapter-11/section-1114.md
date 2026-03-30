@@ -3,9 +3,9 @@ title: "Section 1114 - Disclosure, availability, and use of information"
 usc_title: 49
 usc_section: "1114"
 chapter: 11
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "49 U.S.C. § 1114"
-generated_at: "2026-03-30T06:28:26.617Z"
+generated_at: "2026-03-30T06:30:03.723Z"
 status: "active"
 ---
 

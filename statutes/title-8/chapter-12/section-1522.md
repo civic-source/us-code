@@ -3,9 +3,9 @@ title: "Section 1522 - Authorization for programs for domestic resettlement of a
 usc_title: 8
 usc_section: "1522"
 chapter: 12
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "8 U.S.C. § 1522"
-generated_at: "2026-03-30T06:26:58.414Z"
+generated_at: "2026-03-30T06:28:51.759Z"
 status: "active"
 ---
 

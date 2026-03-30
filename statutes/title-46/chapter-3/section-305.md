@@ -3,9 +3,9 @@ title: "Section 305 - Regulations"
 usc_title: 46
 usc_section: "305"
 chapter: 3
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "46 U.S.C. § 305"
-generated_at: "2026-03-30T06:28:22.926Z"
+generated_at: "2026-03-30T06:30:00.428Z"
 status: "active"
 ---
 

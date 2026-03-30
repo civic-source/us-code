@@ -3,9 +3,9 @@ title: "Section 2302 - Definitions"
 usc_title: 43
 usc_section: "2302"
 chapter: 41
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "43 U.S.C. § 2302"
-generated_at: "2026-03-30T06:27:54.409Z"
+generated_at: "2026-03-30T06:29:43.537Z"
 status: "active"
 ---
 

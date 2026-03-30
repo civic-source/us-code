@@ -3,9 +3,9 @@ title: "Section 4903 - Liability in case of business in more than one location"
 usc_title: 26
 usc_section: "4903"
 chapter: 40
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 4903"
-generated_at: "2026-03-30T06:27:41.403Z"
+generated_at: "2026-03-30T06:29:33.310Z"
 status: "active"
 ---
 

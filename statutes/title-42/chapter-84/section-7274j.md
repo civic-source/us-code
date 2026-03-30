@@ -3,9 +3,9 @@ title: "Section 7274j - Repealed. Pub. L. 108–136, div. C, title XXXI , § 314
 usc_title: 42
 usc_section: "7274j"
 chapter: 84
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "42 U.S.C. § 7274j"
-generated_at: "2026-03-30T06:28:18.650Z"
+generated_at: "2026-03-30T06:29:56.046Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2375 - Report"
 usc_title: 20
 usc_section: "2375"
 chapter: 44
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "20 U.S.C. § 2375"
-generated_at: "2026-03-30T06:27:20.361Z"
+generated_at: "2026-03-30T06:29:12.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70306 - Powers"
 usc_title: 36
 usc_section: "70306"
 chapter: 703
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "36 U.S.C. § 70306"
-generated_at: "2026-03-30T06:27:48.531Z"
+generated_at: "2026-03-30T06:29:39.124Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4043 - Surtax on fuel used in aircraft part of a fractional owne
 usc_title: 26
 usc_section: "4043"
 chapter: 31
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 4043"
-generated_at: "2026-03-30T06:27:41.397Z"
+generated_at: "2026-03-30T06:29:33.304Z"
 status: "active"
 ---
 

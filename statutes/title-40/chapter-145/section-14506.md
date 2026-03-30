@@ -3,9 +3,9 @@ title: "Section 14506 - Regional skills partnerships"
 usc_title: 40
 usc_section: "14506"
 chapter: 145
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "40 U.S.C. § 14506"
-generated_at: "2026-03-30T06:27:47.946Z"
+generated_at: "2026-03-30T06:29:39.801Z"
 status: "active"
 ---
 

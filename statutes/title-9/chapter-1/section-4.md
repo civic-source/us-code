@@ -3,9 +3,9 @@ title: "Section 4 - Failure to arbitrate under agreement; petition to United Sta
 usc_title: 9
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "9 U.S.C. § 4"
-generated_at: "2026-03-30T06:26:56.294Z"
+generated_at: "2026-03-30T06:28:50.429Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1906 - List of laws inapplicable to procurements of commercial i
 usc_title: 41
 usc_section: "1906"
 chapter: 19
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "41 U.S.C. § 1906"
-generated_at: "2026-03-30T06:27:53.521Z"
+generated_at: "2026-03-30T06:29:43.760Z"
 status: "active"
 ---
 

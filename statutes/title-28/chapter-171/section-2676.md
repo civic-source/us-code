@@ -3,9 +3,9 @@ title: "Section 2676 - Judgment as bar"
 usc_title: 28
 usc_section: "2676"
 chapter: 171
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "28 U.S.C. § 2676"
-generated_at: "2026-03-30T06:27:34.126Z"
+generated_at: "2026-03-30T06:29:25.674Z"
 status: "active"
 ---
 

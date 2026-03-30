@@ -3,9 +3,9 @@ title: "Section 50112 - Promotion of United States Global Positioning System sta
 usc_title: 51
 usc_section: "50112"
 chapter: 501
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "51 U.S.C. § 50112"
-generated_at: "2026-03-30T06:28:33.102Z"
+generated_at: "2026-03-30T06:30:05.579Z"
 status: "active"
 ---
 

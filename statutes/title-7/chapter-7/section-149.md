@@ -3,9 +3,9 @@ title: "Section 149 - Repealed. Pub. L. 106–224, title IV , § 438(a)(5), June
 usc_title: 7
 usc_section: "149"
 chapter: 7
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "7 U.S.C. § 149"
-generated_at: "2026-03-30T06:27:05.207Z"
+generated_at: "2026-03-30T06:28:54.396Z"
 status: "repealed"
 ---
 

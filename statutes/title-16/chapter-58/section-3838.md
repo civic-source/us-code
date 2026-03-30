@@ -3,9 +3,9 @@ title: "Section 3838 - Definitions"
 usc_title: 16
 usc_section: "3838"
 chapter: 58
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 3838"
-generated_at: "2026-03-30T06:27:24.431Z"
+generated_at: "2026-03-30T06:29:15.797Z"
 status: "active"
 ---
 

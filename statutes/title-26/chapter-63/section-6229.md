@@ -3,9 +3,9 @@ title: "Section 6229 - Period of limitations for making assessments"
 usc_title: 26
 usc_section: "6229"
 chapter: 63
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "26 U.S.C. § 6229"
-generated_at: "2026-03-30T06:27:41.437Z"
+generated_at: "2026-03-30T06:29:33.342Z"
 status: "active"
 ---
 

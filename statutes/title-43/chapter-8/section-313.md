@@ -3,9 +3,9 @@ title: "Section 313 - Repealed. Aug. 1, 1955, ch. 448 , 69 Stat. 434"
 usc_title: 43
 usc_section: "313"
 chapter: 8
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "43 U.S.C. § 313"
-generated_at: "2026-03-30T06:27:54.362Z"
+generated_at: "2026-03-30T06:29:43.490Z"
 status: "repealed"
 ---
 

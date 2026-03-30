@@ -3,9 +3,9 @@ title: "Section 973d - Exceptions"
 usc_title: 16
 usc_section: "973d"
 chapter: 16
-current_through: "PL 115-45"
+current_through: "PL 115-46"
 classification: "16 U.S.C. § 973d"
-generated_at: "2026-03-30T06:27:24.373Z"
+generated_at: "2026-03-30T06:29:15.736Z"
 status: "active"
 ---
 
