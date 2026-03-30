@@ -3,9 +3,9 @@ title: "Section 941j - Establishment of Expanded Reservation"
 usc_title: 25
 usc_section: "941j"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 941j"
-generated_at: "2026-03-30T04:47:33.952Z"
+generated_at: "2026-03-30T04:50:34.750Z"
 status: "active"
 ---
 

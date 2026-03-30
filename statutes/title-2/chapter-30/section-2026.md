@@ -3,9 +3,9 @@ title: "Section 2026 - Senate Staff Health and Fitness Facility Revolving Fund"
 usc_title: 2
 usc_section: "2026"
 chapter: 30
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 2026"
-generated_at: "2026-03-30T04:46:55.844Z"
+generated_at: "2026-03-30T04:49:52.774Z"
 status: "active"
 ---
 

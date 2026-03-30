@@ -3,9 +3,9 @@ title: "Section 3511 - Authority to pay death gratuities"
 usc_title: 50
 usc_section: "3511"
 chapter: 46
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "50 U.S.C. § 3511"
-generated_at: "2026-03-30T04:49:03.648Z"
+generated_at: "2026-03-30T04:51:43.221Z"
 status: "active"
 ---
 

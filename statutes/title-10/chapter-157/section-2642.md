@@ -3,9 +3,9 @@ title: "Section 2642 - Transportation services provided to certain non-Departmen
 usc_title: 10
 usc_section: "2642"
 chapter: 157
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 2642"
-generated_at: "2026-03-30T04:47:04.928Z"
+generated_at: "2026-03-30T04:50:11.186Z"
 status: "active"
 ---
 

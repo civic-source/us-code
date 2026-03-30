@@ -3,9 +3,9 @@ title: "Section 12165 - Interim accessibility requirements"
 usc_title: 42
 usc_section: "12165"
 chapter: 126
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 12165"
-generated_at: "2026-03-30T04:48:56.030Z"
+generated_at: "2026-03-30T04:51:24.224Z"
 status: "active"
 ---
 

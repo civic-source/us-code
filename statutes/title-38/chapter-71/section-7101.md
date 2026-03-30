@@ -3,9 +3,9 @@ title: "Section 7101 - Composition of Board of Veterans’ Appeals"
 usc_title: 38
 usc_section: "7101"
 chapter: 71
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "38 U.S.C. § 7101"
-generated_at: "2026-03-30T04:48:26.133Z"
+generated_at: "2026-03-30T04:50:58.829Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5581 - Participation by House in interparliamentary institutions
 usc_title: 2
 usc_section: "5581"
 chapter: 55
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 5581"
-generated_at: "2026-03-30T04:46:55.855Z"
+generated_at: "2026-03-30T04:49:52.785Z"
 status: "active"
 ---
 

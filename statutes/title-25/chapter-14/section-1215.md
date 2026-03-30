@@ -3,9 +3,9 @@ title: "Section 1215 - Prohibition against duplicative services"
 usc_title: 25
 usc_section: "1215"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 1215"
-generated_at: "2026-03-30T04:47:33.956Z"
+generated_at: "2026-03-30T04:50:34.754Z"
 status: "active"
 ---
 

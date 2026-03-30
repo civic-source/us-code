@@ -3,9 +3,9 @@ title: "Section 3679 - Disapproval of courses"
 usc_title: 38
 usc_section: "3679"
 chapter: 36
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "38 U.S.C. § 3679"
-generated_at: "2026-03-30T04:48:26.120Z"
+generated_at: "2026-03-30T04:50:58.816Z"
 status: "active"
 ---
 

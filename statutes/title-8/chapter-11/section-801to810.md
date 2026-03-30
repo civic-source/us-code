@@ -3,9 +3,9 @@ title: "Section 801to810 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "801to810"
 chapter: 11
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 801to810"
-generated_at: "2026-03-30T04:47:06.004Z"
+generated_at: "2026-03-30T04:50:02.208Z"
 status: "repealed"
 ---
 

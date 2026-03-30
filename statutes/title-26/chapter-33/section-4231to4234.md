@@ -3,9 +3,9 @@ title: "Section 4231to4234 - Repealed. Pub. L. 89–44, title III, § 301 , June
 usc_title: 26
 usc_section: "4231to4234"
 chapter: 33
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 4231to4234"
-generated_at: "2026-03-30T04:47:49.725Z"
+generated_at: "2026-03-30T04:50:49.544Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1462to1464 - Omitted"
 usc_title: 42
 usc_section: "1462to1464"
 chapter: 8
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 1462to1464"
-generated_at: "2026-03-30T04:48:55.768Z"
+generated_at: "2026-03-30T04:51:23.953Z"
 status: "omitted"
 ---
 

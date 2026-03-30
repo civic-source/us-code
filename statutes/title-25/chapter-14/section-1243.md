@@ -3,9 +3,9 @@ title: "Section 1243 - Enrollment applications; filing; finality of determinatio
 usc_title: 25
 usc_section: "1243"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 1243"
-generated_at: "2026-03-30T04:47:33.956Z"
+generated_at: "2026-03-30T04:50:34.755Z"
 status: "active"
 ---
 

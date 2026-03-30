@@ -3,9 +3,9 @@ title: "Section 2054 - Product safety information and research"
 usc_title: 15
 usc_section: "2054"
 chapter: 47
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 2054"
-generated_at: "2026-03-30T04:47:18.169Z"
+generated_at: "2026-03-30T04:50:21.149Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3680 - Payment of educational assistance or subsistence allowanc
 usc_title: 38
 usc_section: "3680"
 chapter: 36
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "38 U.S.C. § 3680"
-generated_at: "2026-03-30T04:48:26.120Z"
+generated_at: "2026-03-30T04:50:58.816Z"
 status: "active"
 ---
 

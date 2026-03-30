@@ -3,9 +3,9 @@ title: "Section 147 - Cybersecurity recruitment and retention"
 usc_title: 6
 usc_section: "147"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "6 U.S.C. § 147"
-generated_at: "2026-03-30T04:46:59.512Z"
+generated_at: "2026-03-30T04:50:01.241Z"
 status: "active"
 ---
 

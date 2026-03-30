@@ -3,9 +3,9 @@ title: "Section 9019 - Transition assistance for producers of upland cotton"
 usc_title: 7
 usc_section: "9019"
 chapter: 115
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 9019"
-generated_at: "2026-03-30T04:47:12.417Z"
+generated_at: "2026-03-30T04:50:00.102Z"
 status: "active"
 ---
 

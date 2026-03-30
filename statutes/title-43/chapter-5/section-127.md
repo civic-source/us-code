@@ -3,9 +3,9 @@ title: "Section 127 - Change of boundaries of land districts"
 usc_title: 43
 usc_section: "127"
 chapter: 5
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "43 U.S.C. § 127"
-generated_at: "2026-03-30T04:48:31.072Z"
+generated_at: "2026-03-30T04:51:07.186Z"
 status: "active"
 ---
 

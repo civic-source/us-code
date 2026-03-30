@@ -3,9 +3,9 @@ title: "Section 2006f - Rural development certified lenders program"
 usc_title: 7
 usc_section: "2006f"
 chapter: 50
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 2006f"
-generated_at: "2026-03-30T04:47:12.325Z"
+generated_at: "2026-03-30T04:50:00.014Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 118b - Quadrennial roles and missions review"
 usc_title: 10
 usc_section: "118b"
 chapter: 2
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 118b"
-generated_at: "2026-03-30T04:47:04.842Z"
+generated_at: "2026-03-30T04:50:11.102Z"
 status: "active"
 ---
 

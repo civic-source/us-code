@@ -3,9 +3,9 @@ title: "Section 6923 - Standards applicable to transporters of hazardous waste"
 usc_title: 42
 usc_section: "6923"
 chapter: 82
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 6923"
-generated_at: "2026-03-30T04:48:55.920Z"
+generated_at: "2026-03-30T04:51:24.108Z"
 status: "active"
 ---
 

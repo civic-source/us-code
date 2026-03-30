@@ -3,9 +3,9 @@ title: "Section 1786 - Care for newborn children of women veterans receiving mat
 usc_title: 38
 usc_section: "1786"
 chapter: 17
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "38 U.S.C. § 1786"
-generated_at: "2026-03-30T04:48:26.104Z"
+generated_at: "2026-03-30T04:50:58.800Z"
 status: "active"
 ---
 

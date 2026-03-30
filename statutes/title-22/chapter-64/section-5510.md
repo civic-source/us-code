@@ -3,9 +3,9 @@ title: "Section 5510 - United States Government compensation for victims of terr
 usc_title: 22
 usc_section: "5510"
 chapter: 64
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 5510"
-generated_at: "2026-03-30T04:47:36.350Z"
+generated_at: "2026-03-30T04:50:36.818Z"
 status: "active"
 ---
 

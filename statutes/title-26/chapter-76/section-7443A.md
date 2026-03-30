@@ -3,9 +3,9 @@ title: "Section 7443A - Special trial judges"
 usc_title: 26
 usc_section: "7443A"
 chapter: 76
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 7443A"
-generated_at: "2026-03-30T04:47:49.791Z"
+generated_at: "2026-03-30T04:50:49.601Z"
 status: "active"
 ---
 

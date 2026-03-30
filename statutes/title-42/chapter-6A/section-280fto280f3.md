@@ -3,9 +3,9 @@ title: "Section 280fto280f3 - Omitted"
 usc_title: 42
 usc_section: "280fto280f3"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 280fto280f3"
-generated_at: "2026-03-30T04:48:55.523Z"
+generated_at: "2026-03-30T04:51:23.694Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 234 - Repealed. Pub. L. 94–484, title IV, § 408(b)(1) , Oct. 
 usc_title: 42
 usc_section: "234"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 234"
-generated_at: "2026-03-30T04:48:55.495Z"
+generated_at: "2026-03-30T04:51:23.663Z"
 status: "repealed"
 ---
 

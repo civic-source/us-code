@@ -3,9 +3,9 @@ title: "Section 3171 - Stay of sanctions"
 usc_title: 50
 usc_section: "3171"
 chapter: 44
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "50 U.S.C. § 3171"
-generated_at: "2026-03-30T04:49:03.645Z"
+generated_at: "2026-03-30T04:51:43.216Z"
 status: "active"
 ---
 

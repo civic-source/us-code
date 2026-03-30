@@ -3,9 +3,9 @@ title: "Section 649 - Rules and regulations"
 usc_title: 25
 usc_section: "649"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 649"
-generated_at: "2026-03-30T04:47:33.943Z"
+generated_at: "2026-03-30T04:50:34.741Z"
 status: "active"
 ---
 

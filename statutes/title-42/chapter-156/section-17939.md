@@ -3,9 +3,9 @@ title: "Section 17939 - Improved enforcement"
 usc_title: 42
 usc_section: "17939"
 chapter: 156
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 17939"
-generated_at: "2026-03-30T04:48:56.118Z"
+generated_at: "2026-03-30T04:51:24.316Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395qq - Indian Health Service facilities"
 usc_title: 42
 usc_section: "1395qq"
 chapter: 7
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 1395qq"
-generated_at: "2026-03-30T04:48:55.709Z"
+generated_at: "2026-03-30T04:51:23.892Z"
 status: "active"
 ---
 

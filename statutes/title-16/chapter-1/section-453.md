@@ -3,9 +3,9 @@ title: "Section 453 - Donations of land for park purposes near or adjacent to Na
 usc_title: 16
 usc_section: "453"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 453"
-generated_at: "2026-03-30T04:47:29.395Z"
+generated_at: "2026-03-30T04:50:29.887Z"
 status: "active"
 ---
 

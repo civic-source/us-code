@@ -3,9 +3,9 @@ title: "Section 2635 - Filing of official documents"
 usc_title: 28
 usc_section: "2635"
 chapter: 169
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "28 U.S.C. § 2635"
-generated_at: "2026-03-30T04:47:39.485Z"
+generated_at: "2026-03-30T04:50:41.070Z"
 status: "active"
 ---
 

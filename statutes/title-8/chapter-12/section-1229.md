@@ -3,9 +3,9 @@ title: "Section 1229 - Initiation of removal proceedings"
 usc_title: 8
 usc_section: "1229"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1229"
-generated_at: "2026-03-30T04:47:06.019Z"
+generated_at: "2026-03-30T04:50:02.221Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** The legal authority under which the proceedings are conducted.
     - **(C)** The acts or conduct alleged to be in violation of law.
     - **(D)** The charges against the alien and the statutory provisions alleged to have been violated.
-    - **(E)** The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) of this section and (ii) a current list of counsel prepared under subsection (b)(2) of this section.
+    - **(E)** The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) and (ii) a current list of counsel prepared under subsection (b)(2).
     - **(F)**
       - **(i)** The requirement that the alien must immediately provide (or have provided) the Attorney General with a written record of an address and telephone number (if any) at which the alien may be contacted respecting proceedings under section 1229a of this title .
       - **(ii)** The requirement that the alien must provide the Attorney General immediately with a written record of any change of the alien’s address or telephone number.
@@ -33,9 +33,9 @@ status: "active"
   - **(3)** The Attorney General shall create a system to record and preserve on a timely basis notices of addresses and telephone numbers (and changes) provided under paragraph (1)(F).
 - **(b)**
   - **(1)** In order that an alien be permitted the opportunity to secure counsel before the first hearing date in proceedings under section 1229a of this title , the hearing date shall not be scheduled earlier than 10 days after the service of the notice to appear, unless the alien requests in writing an earlier hearing date.
-  - **(2)** The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under section 1229a of this title . Such lists shall be provided under subsection (a)(1)(E) of this section and otherwise made generally available.
+  - **(2)** The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under section 1229a of this title . Such lists shall be provided under subsection (a)(1)(E) and otherwise made generally available.
   - **(3)** Nothing in this subsection may be construed to prevent the Attorney General from proceeding against an alien pursuant to section 1229a of this title if the time period described in paragraph (1) has elapsed and the alien has failed to secure counsel.
-- **(c)** Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F) of this section.
+- **(c)** Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F).
 - **(d)**
   - **(1)** In the case of an alien who is convicted of an offense which makes the alien deportable, the Attorney General shall begin any removal proceeding as expeditiously as possible after the date of the conviction.
   - **(2)** Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.

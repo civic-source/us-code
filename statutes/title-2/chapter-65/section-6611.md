@@ -3,9 +3,9 @@ title: "Section 6611 - Transfers from appropriations account for expenses of Off
 usc_title: 2
 usc_section: "6611"
 chapter: 65
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 6611"
-generated_at: "2026-03-30T04:46:55.860Z"
+generated_at: "2026-03-30T04:49:52.789Z"
 status: "active"
 ---
 

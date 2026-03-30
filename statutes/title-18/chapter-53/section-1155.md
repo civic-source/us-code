@@ -3,9 +3,9 @@ title: "Section 1155 - Intoxicants dispensed on school site"
 usc_title: 18
 usc_section: "1155"
 chapter: 53
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "18 U.S.C. § 1155"
-generated_at: "2026-03-30T04:47:26.792Z"
+generated_at: "2026-03-30T04:50:24.480Z"
 status: "active"
 ---
 

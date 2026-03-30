@@ -3,9 +3,9 @@ title: "Section 1522 - Authorization for programs for domestic resettlement of a
 usc_title: 8
 usc_section: "1522"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1522"
-generated_at: "2026-03-30T04:47:06.035Z"
+generated_at: "2026-03-30T04:50:02.236Z"
 status: "active"
 ---
 
@@ -13,13 +13,13 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** In providing assistance under this section, the Director shall, to the extent of available appropriations, (i) make available sufficient resources for employment training and placement in order to achieve economic self-sufficiency among refugees as quickly as possible, (ii) provide refugees with the opportunity to acquire sufficient English language training to enable them to become effectively resettled as quickly as possible, (iii) insure that cash assistance is made available to refugees in such a manner as not to discourage their economic self-sufficiency, in accordance with subsection (e)(2) of this section, and (iv) insure that women have the same opportunities as men to participate in training and instruction.
+    - **(A)** In providing assistance under this section, the Director shall, to the extent of available appropriations, (i) make available sufficient resources for employment training and placement in order to achieve economic self-sufficiency among refugees as quickly as possible, (ii) provide refugees with the opportunity to acquire sufficient English language training to enable them to become effectively resettled as quickly as possible, (iii) insure that cash assistance is made available to refugees in such a manner as not to discourage their economic self-sufficiency, in accordance with subsection (e)(2), and (iv) insure that women have the same opportunities as men to participate in training and instruction.
     - **(B)** It is the intent of Congress that in providing refugee assistance under this section—
       - **(i)** employable refugees should be placed on jobs as soon as possible after their arrival in the United States;
       - **(ii)** social service funds should be focused on employment-related services, English-as-a-second-language training (in nonwork hours where possible), and case-management services; and
       - **(iii)** local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
   - **(2)**
-    - **(A)** The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
+    - **(A)** The Director and the Federal agency administering subsection (b)(1) shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
     - **(B)** The Director shall develop and implement, in consultation with representatives of voluntary agencies and State and local governments, policies and strategies for the placement and resettlement of refugees within the United States.
     - **(C)** Such policies and strategies, to the extent practicable and except under such unusual circumstances as the Director may recognize, shall—
       - **(i)** insure that a refugee is not initially placed or resettled in an area highly impacted (as determined under regulations prescribed by the Director after consultation with such agencies and governments) by the presence of refugees or comparable populations unless the refugee has a spouse, parent, sibling, son, or daughter residing in that area,
@@ -29,17 +29,17 @@ status: "active"
         - **(II)** the availability of employment opportunities, affordable housing, and public and private resources (including educational, health care, and mental health services) for refugees in the area,
         - **(III)** the likelihood of refugees placed in the area becoming self-sufficient and free from long-term dependence on public assistance, and
         - **(IV)** the secondary migration of refugees to and from the area that is likely to occur.
-    - **(D)** With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) of this section shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
-  - **(3)** In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e) of this section. In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
+    - **(D)** With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
+  - **(3)** In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e). In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
   - **(4)**
     - **(A)** No grant or contract may be awarded under this section unless an appropriate proposal and application (including a description of the agency’s ability to perform the services specified in the proposal) are submitted to, and approved by, the appropriate administering official. Grants and contracts under this section shall be made to those agencies which the appropriate administering official determines can best perform the services. Payments may be made for activities authorized under this subchapter in advance or by way of reimbursement. In carrying out this section, the Director, the Secretary of State, and any such other appropriate administering official are authorized—
       - **(i)** to make loans, and
       - **(ii)** to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for the purpose of carrying out this section.
-    - **(B)** No funds may be made available under this subchapter (other than under subsection (b)(1) of this section) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shall be made available under separate grants or contracts—
-      - **(i)** for medical screening and initial medical treatment under subsection (b)(5) of this section,
-      - **(ii)** for services for refugees under subsection (c)(1) of this section,
-      - **(iii)** for targeted assistance project grants under subsection (c)(2) of this section, and
-      - **(iv)** for assistance for refugee children under subsection (d)(2) of this section.
+    - **(B)** No funds may be made available under this subchapter (other than under subsection (b)(1)) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shall be made available under separate grants or contracts—
+      - **(i)** for medical screening and initial medical treatment under subsection (b)(5),
+      - **(ii)** for services for refugees under subsection (c)(1),
+      - **(iii)** for targeted assistance project grants under subsection (c)(2), and
+      - **(iv)** for assistance for refugee children under subsection (d)(2).
     - **(C)** The Director may not delegate to a State or political subdivision his authority to review or approve grants or contracts under this subchapter or the terms under which such grants or contracts are made.
   - **(5)** Assistance and services funded under this section shall be provided to refugees without regard to race, religion, nationality, sex, or political opinion.
   - **(6)** As a condition for receiving assistance under this section, a State must—
@@ -51,7 +51,7 @@ status: "active"
       - **(v)** for the identification of refugees who at the time of resettlement in the State are determined to have medical conditions requiring, or medical histories indicating a need for, treatment or observation and such monitoring of such treatment or observation as may be necessary;
     - **(B)** meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and which promote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
     - **(C)** submit to the Director, within a reasonable period of time after the end of each fiscal year, a report on the uses of funds provided under this subchapter which the State is responsible for administering.
-  - **(7)** The Secretary, together with the Secretary of State with respect to assistance provided by the Secretary of State under subsection (b) of this section, shall develop a system of monitoring the assistance provided under this section. This system shall include—
+  - **(7)** The Secretary, together with the Secretary of State with respect to assistance provided by the Secretary of State under subsection (b), shall develop a system of monitoring the assistance provided under this section. This system shall include—
     - **(A)** evaluations of the effectiveness of the programs funded under this section and the performance of States, grantees, and contractors;
     - **(B)** financial auditing and other appropriate monitoring to detect any fraud, abuse, or mismanagement in the operation of such programs; and
     - **(C)** data collection on the services provided and the results achieved.
@@ -82,7 +82,7 @@ status: "active"
     - **(D)** To fulfill its responsibility to provide for the basic needs (including food, clothing, shelter, and transportation for job interviews and training) of each refugee resettled and to develop and implement a resettlement plan including the early employment of each refugee resettled and to monitor the implementation of such plan.
     - **(E)** To transmit to the Federal agency administering paragraph (1) an annual report describing the following:
       - **(i)** The number of refugees placed (by county of placement) and the expenditures made in the year under the grant or contract, including the proportion of such expenditures used for administrative purposes and for provision of services.
-      - **(ii)** The proportion of refugees placed by the agency in the previous year who are receiving cash or medical assistance described in subsection (e) of this section.
+      - **(ii)** The proportion of refugees placed by the agency in the previous year who are receiving cash or medical assistance described in subsection (e).
       - **(iii)** The efforts made by the agency to monitor placement of the refugees and the activities of local affiliates of the agency.
       - **(iv)** The extent to which the agency has coordinated its activities with local social service providers in a manner which avoids duplication of activities and has provided notices to local welfare offices and the reporting of medical conditions of certain aliens to local health departments in accordance with subparagraphs (B)(i) and (C).
       - **(v)** Such other information as the agency administering paragraph (1) deems to be appropriate in monitoring the effectiveness of agencies in carrying out their functions under such grants and contracts.
@@ -92,7 +92,7 @@ status: "active"
     - **(C)** arranging for effective local sponsorship and other nonpublic assistance for refugees resettled by that agency,
     - **(D)** cooperation with refugee mutual assistance associations, local social service providers, health agencies, and welfare offices,
     - **(E)** compliance with the guidelines established by the Director for the placement and resettlement of refugees within the United States, and
-    - **(F)** compliance with other requirements contained in the grant or contract, including the reporting and other requirements under subsection (b)(7) of this section.
+    - **(F)** compliance with other requirements contained in the grant or contract, including the reporting and other requirements under subsection (b)(7).
 - **(c)**
   - **(1)**
     - **(A)** The Director is authorized to make grants to, and enter into contracts with, public or private nonprofit agencies for projects specifically designed—
@@ -100,7 +100,7 @@ status: "active"
       - **(ii)** to provide training in English where necessary (regardless of whether the refugees are employed or receiving cash or other assistance); and
       - **(iii)** to provide where specific needs have been shown and recognized by the Director, health (including mental health) services, social services, educational and other services.
     - **(B)** The funds available for a fiscal year for grants and contracts under subparagraph (A) shall be allocated among the States based on the total number of refugees (including children and adults) who arrived in the United States not more than 36 months before the beginning of such fiscal year and who are actually residing in each State (taking into account secondary migration) as of the beginning of the fiscal year.
-    - **(C)** Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) of this section shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
+    - **(C)** Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
   - **(2)**
     - **(A)** The Director is authorized to make grants to States for assistance to counties and similar areas in the States where, because of factors such as unusually large refugee populations (including secondary migration), high refugee concentrations, and high use of public assistance by refugees, there exists and can be demonstrated a specific need for supplementation of available resources for services to refugees.
     - **(B)** Grants shall be made available under this paragraph—
@@ -119,12 +119,12 @@ status: "active"
   - **(1)** The Director is authorized to provide assistance, reimbursement to States, and grants to, and contracts with, public or private nonprofit agencies for 100 per centum of the cash assistance and medical assistance provided to any refugee during the thirty-six month period beginning with the first month in which such refugee has entered the United States and for the identifiable and reasonable administrative costs of providing this assistance.
   - **(2)**
     - **(A)** Cash assistance provided under this subsection to an employable refugee is conditioned, except for good cause shown—
-      - **(i)** on the refugee’s registration with an appropriate agency providing employment services described in subsection (c)(1)(A)(i) of this section, or, if there is no such agency available, with an appropriate State or local employment service;
-      - **(ii)** on the refugee’s participation in any available and appropriate social service or targeted assistance program (funded under subsection (c) of this section) providing job or language training in the area in which the refugee resides; and
+      - **(i)** on the refugee’s registration with an appropriate agency providing employment services described in subsection (c)(1)(A)(i), or, if there is no such agency available, with an appropriate State or local employment service;
+      - **(ii)** on the refugee’s participation in any available and appropriate social service or targeted assistance program (funded under subsection (c)) providing job or language training in the area in which the refugee resides; and
       - **(iii)** on the refugee’s acceptance of appropriate offers of employment.
     - **(B)** Cash assistance shall not be made available to refugees who are full-time students in institutions of higher education (as defined by the Director after consultation with the Secretary of Education).
     - **(C)** In the case of a refugee who—
-      - **(i)** refuses an offer of employment which has been determined to be appropriate either by the agency responsible for the initial resettlement of the refugee under subsection (b) of this section or by the appropriate State or local employment service,
+      - **(i)** refuses an offer of employment which has been determined to be appropriate either by the agency responsible for the initial resettlement of the refugee under subsection (b) or by the appropriate State or local employment service,
       - **(ii)** refuses to go to a job interview which has been arranged through such agency or service, or
       - **(iii)** refuses to participate in a social service or targeted assistance program referred to in subparagraph (A)(ii) which such agency or service determines to be available and appropriate,
   - **(3)** The Director shall develop plans to provide English training and other appropriate services and training to refugees receiving cash assistance.
@@ -132,13 +132,13 @@ status: "active"
   - **(5)** The Director is authorized to allow for the provision of medical assistance under paragraph (1) to any refugee, during the one-year period after entry, who does not qualify for assistance under a State plan approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] on account of any resources or income requirement of such plan, but only if the Director determines that—
     - **(A)** this will (i) encourage economic self-sufficiency, or (ii) avoid a significant burden on State and local governments; and
     - **(B)** the refugee meets such alternative financial resources and income requirements as the Director shall establish.
-  - **(6)** As a condition for receiving assistance, reimbursement, or a contract under this subsection and notwithstanding any other provision of law, a State or agency must provide assurances that whenever a refugee applies for cash or medical assistance for which assistance or reimbursement is provided under this subsection, the State or agency must notify promptly the agency (or local affiliate) which provided for the initial resettlement of the refugee under subsection (b) of this section of the fact that the refugee has so applied.
+  - **(6)** As a condition for receiving assistance, reimbursement, or a contract under this subsection and notwithstanding any other provision of law, a State or agency must provide assurances that whenever a refugee applies for cash or medical assistance for which assistance or reimbursement is provided under this subsection, the State or agency must notify promptly the agency (or local affiliate) which provided for the initial resettlement of the refugee under subsection (b) of the fact that the refugee has so applied.
   - **(7)**
     - **(A)** The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determines that refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
     - **(B)** Refugees covered under such alternative projects shall be precluded from receiving cash or medical assistance under any other paragraph of this subsection or under title XIX or part A of title IV of the Social Security Act [ 42 U.S.C. 1396 et seq., 601 et seq.].
     - **(C)** The Secretary shall report to Congress not later than October 31, 1985 , on the results of these projects and on any recommendations respecting changes in the refugee assistance program under this section to take into account such results.
     - **(D)** To the extent that the use of such funds is consistent with the purposes of such provisions, funds appropriated under section 1524(a) of this title , part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.], or title XIX of such Act [ 42 U.S.C. 1396 et seq.], may be used for the purpose of implementing and evaluating alternative projects under this paragraph.
-  - **(8)** In its provision of assistance to refugees, a State or political subdivision shall consider the recommendations of, and assistance provided by, agencies with grants or contracts under subsection (b)(1) of this section.
+  - **(8)** In its provision of assistance to refugees, a State or political subdivision shall consider the recommendations of, and assistance provided by, agencies with grants or contracts under subsection (b)(1).
 - **(f)**
   - **(1)** The Attorney General shall pay compensation to States and to counties for costs incurred by the States and counties to confine in prisons, during the fiscal year for which such payment is made, nationals of Cuba who—
     - **(A)** were paroled into the United States in 1980 by the Attorney General,

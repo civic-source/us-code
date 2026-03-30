@@ -3,9 +3,9 @@ title: "Section 2567 - Everett McKinley Dirksen Congressional Leadership Researc
 usc_title: 20
 usc_section: "2567"
 chapter: 45
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 2567"
-generated_at: "2026-03-30T04:47:25.809Z"
+generated_at: "2026-03-30T04:50:27.770Z"
 status: "active"
 ---
 

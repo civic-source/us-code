@@ -3,9 +3,9 @@ title: "Section 297i - Procedures for appeal of terminations"
 usc_title: 42
 usc_section: "297i"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 297i"
-generated_at: "2026-03-30T04:48:55.558Z"
+generated_at: "2026-03-30T04:51:23.732Z"
 status: "active"
 ---
 

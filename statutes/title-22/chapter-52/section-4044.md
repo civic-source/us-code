@@ -3,9 +3,9 @@ title: "Section 4044 - Definitions"
 usc_title: 22
 usc_section: "4044"
 chapter: 52
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 4044"
-generated_at: "2026-03-30T04:47:36.332Z"
+generated_at: "2026-03-30T04:50:36.803Z"
 status: "active"
 ---
 

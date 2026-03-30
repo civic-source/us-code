@@ -3,9 +3,9 @@ title: "Section 3768 - Deficiency judgment"
 usc_title: 12
 usc_section: "3768"
 chapter: 38
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "12 U.S.C. § 3768"
-generated_at: "2026-03-30T04:47:20.191Z"
+generated_at: "2026-03-30T04:50:16.292Z"
 status: "active"
 ---
 

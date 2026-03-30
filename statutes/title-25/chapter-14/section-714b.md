@@ -3,9 +3,9 @@ title: "Section 714b - Membership rolls"
 usc_title: 25
 usc_section: "714b"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 714b"
-generated_at: "2026-03-30T04:47:33.947Z"
+generated_at: "2026-03-30T04:50:34.746Z"
 status: "active"
 ---
 

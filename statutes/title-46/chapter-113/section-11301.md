@@ -3,9 +3,9 @@ title: "Section 11301 - Logbook and entry requirements"
 usc_title: 46
 usc_section: "11301"
 chapter: 113
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 11301"
-generated_at: "2026-03-30T04:49:12.637Z"
+generated_at: "2026-03-30T04:51:27.386Z"
 status: "active"
 ---
 

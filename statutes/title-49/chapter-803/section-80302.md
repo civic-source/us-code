@@ -3,9 +3,9 @@ title: "Section 80302 - Prohibitions"
 usc_title: 49
 usc_section: "80302"
 chapter: 803
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "49 U.S.C. § 80302"
-generated_at: "2026-03-30T04:49:27.996Z"
+generated_at: "2026-03-30T04:51:29.877Z"
 status: "active"
 ---
 

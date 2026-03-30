@@ -3,9 +3,9 @@ title: "Section 226 - Lease of oil and gas lands"
 usc_title: 30
 usc_section: "226"
 chapter: 3
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "30 U.S.C. § 226"
-generated_at: "2026-03-30T04:47:38.602Z"
+generated_at: "2026-03-30T04:50:39.360Z"
 status: "active"
 ---
 

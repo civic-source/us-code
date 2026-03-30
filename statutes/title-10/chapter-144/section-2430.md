@@ -3,9 +3,9 @@ title: "Section 2430 - Major defense acquisition program defined"
 usc_title: 10
 usc_section: "2430"
 chapter: 144
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 2430"
-generated_at: "2026-03-30T04:47:04.919Z"
+generated_at: "2026-03-30T04:50:11.177Z"
 status: "active"
 ---
 

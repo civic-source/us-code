@@ -3,9 +3,9 @@ title: "Section 1227 - Deportable aliens"
 usc_title: 8
 usc_section: "1227"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1227"
-generated_at: "2026-03-30T04:47:06.018Z"
+generated_at: "2026-03-30T04:50:02.221Z"
 status: "active"
 ---
 
@@ -92,8 +92,8 @@ status: "active"
         - **(II)** the alien was found to have violated a protection order intended to protect the alien; or
         - **(III)** the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime—
     - **(B)** In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
-- **(b)** An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
-- **(c)** Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title ) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+- **(b)** An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a).
+- **(c)** Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title ) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 - **(d)**
   - **(1)** If the Secretary of Homeland Security determines that an application for nonimmigrant status under subparagraph (T) or (U) of section 1101(a)(15) of this title filed for an alien in the United States sets forth a prima facie case for approval, the Secretary may grant the alien an administrative stay of a final order of removal under section 1231(c)(2) of this title until—
     - **(A)** the application for nonimmigrant status under such subparagraph (T) or (U) is approved; or

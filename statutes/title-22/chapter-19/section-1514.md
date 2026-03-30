@@ -3,9 +3,9 @@ title: "Section 1514 - Repealed. Oct. 10, 1951, ch. 479 , title V, § 503(b)(1),
 usc_title: 22
 usc_section: "1514"
 chapter: 19
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 1514"
-generated_at: "2026-03-30T04:47:36.267Z"
+generated_at: "2026-03-30T04:50:36.746Z"
 status: "repealed"
 ---
 

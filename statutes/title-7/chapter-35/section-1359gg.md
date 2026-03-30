@@ -3,9 +3,9 @@ title: "Section 1359gg - Special rules"
 usc_title: 7
 usc_section: "1359gg"
 chapter: 35
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 1359gg"
-generated_at: "2026-03-30T04:47:12.290Z"
+generated_at: "2026-03-30T04:49:59.980Z"
 status: "active"
 ---
 

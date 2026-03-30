@@ -3,9 +3,9 @@ title: "Section 3005 - Farmers’ Market and Local Food Promotion Program"
 usc_title: 7
 usc_section: "3005"
 chapter: 63
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 3005"
-generated_at: "2026-03-30T04:47:12.352Z"
+generated_at: "2026-03-30T04:50:00.040Z"
 status: "active"
 ---
 

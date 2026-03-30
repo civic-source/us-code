@@ -3,9 +3,9 @@ title: "Section 51312 - Board of Visitors"
 usc_title: 46
 usc_section: "51312"
 chapter: 513
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 51312"
-generated_at: "2026-03-30T04:49:12.646Z"
+generated_at: "2026-03-30T04:51:27.394Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(2)** Of the individuals appointed by the President under paragraph (1)(E)—
     - **(A)** at least 2 shall be graduates of the Academy;
     - **(B)** at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies; and
-    - **(C)** 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
+    - **(C)** 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from 1 1 So in original. the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), each member of the Board, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
     - **(B)** Any member described in subparagraph (A) whose term on the Board has expired, other than a member appointed under any of subparagraphs (A) through (D) of paragraph (1) who is no longer a Member of Congress, shall continue to serve until a successor is appointed.
@@ -45,7 +45,7 @@ status: "active"
     - **(C)** A substitute member of the Board designated under subparagraph (A)—
       - **(i)** shall be permitted by the Board to fully participate in the proceedings and activities of the Board;
       - **(ii)** shall report to the member that designated the substitute member on the Board’s activities not later than 15 days following the substitute member’s participation in such activities; and
-      - **(iii)** shall be permitted by the Board to participate in the preparation of reports described in paragraph 1 1 So in original. Probably should be “subsection”. (j) related to any proceedings or activities of the Board in which such substitute member participates.
+      - **(iii)** shall be permitted by the Board to participate in the preparation of reports described in paragraph 2 2 So in original. Probably should be “subsection”. (j) related to any proceedings or activities of the Board in which such substitute member participates.
 - **(c)**
   - **(1)** On a biennial basis and subject to paragraph (2), the Board shall select from among its members a Member of the House of Representatives or a Senator to serve as the Chairperson.
   - **(2)** A Member of the House of Representatives and a Member of the Senate shall alternately be selected as the Chairperson of the Board.

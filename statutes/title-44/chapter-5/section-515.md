@@ -3,9 +3,9 @@ title: "Section 515 - Default of contractor; new contracts and purchase in open 
 usc_title: 44
 usc_section: "515"
 chapter: 5
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "44 U.S.C. § 515"
-generated_at: "2026-03-30T04:48:40.155Z"
+generated_at: "2026-03-30T04:51:06.037Z"
 status: "active"
 ---
 

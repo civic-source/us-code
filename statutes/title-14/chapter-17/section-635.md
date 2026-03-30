@@ -3,9 +3,9 @@ title: "Section 635 - Oaths required for boards"
 usc_title: 14
 usc_section: "635"
 chapter: 17
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "14 U.S.C. § 635"
-generated_at: "2026-03-30T04:47:14.676Z"
+generated_at: "2026-03-30T04:50:14.174Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 952 - Commissioners; number, appointment, and qualification"
 usc_title: 16
 usc_section: "952"
 chapter: 16
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 952"
-generated_at: "2026-03-30T04:47:29.483Z"
+generated_at: "2026-03-30T04:50:29.974Z"
 status: "active"
 ---
 

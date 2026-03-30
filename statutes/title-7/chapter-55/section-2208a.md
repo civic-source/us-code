@@ -3,9 +3,9 @@ title: "Section 2208a - Loan levels provided to Department of Agriculture"
 usc_title: 7
 usc_section: "2208a"
 chapter: 55
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 2208a"
-generated_at: "2026-03-30T04:47:12.343Z"
+generated_at: "2026-03-30T04:50:00.032Z"
 status: "active"
 ---
 

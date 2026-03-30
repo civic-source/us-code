@@ -3,9 +3,9 @@ title: "Section 176 - Repealed. Pub. L. 98–621, § 10(c) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "176"
 chapter: 4
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "24 U.S.C. § 176"
-generated_at: "2026-03-30T04:47:31.414Z"
+generated_at: "2026-03-30T04:50:31.923Z"
 status: "repealed"
 ---
 

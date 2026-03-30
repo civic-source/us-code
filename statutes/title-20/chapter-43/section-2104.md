@@ -3,9 +3,9 @@ title: "Section 2104 - Functions of Center"
 usc_title: 20
 usc_section: "2104"
 chapter: 43
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 2104"
-generated_at: "2026-03-30T04:47:25.804Z"
+generated_at: "2026-03-30T04:50:27.765Z"
 status: "active"
 ---
 

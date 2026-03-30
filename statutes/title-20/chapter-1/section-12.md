@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Pub. L. 92–318, title III, § 301(b)(2)(A) , Ju
 usc_title: 20
 usc_section: "12"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T04:47:25.725Z"
+generated_at: "2026-03-30T04:50:27.687Z"
 status: "repealed"
 ---
 

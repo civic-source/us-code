@@ -3,9 +3,9 @@ title: "Section 941i - Tribal trust funds"
 usc_title: 25
 usc_section: "941i"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 941i"
-generated_at: "2026-03-30T04:47:33.951Z"
+generated_at: "2026-03-30T04:50:34.750Z"
 status: "active"
 ---
 

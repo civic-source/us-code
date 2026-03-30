@@ -3,9 +3,9 @@ title: "Section 8771 - Exclusion of citizens of Iran seeking education relating 
 usc_title: 22
 usc_section: "8771"
 chapter: 94
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 8771"
-generated_at: "2026-03-30T04:47:36.388Z"
+generated_at: "2026-03-30T04:50:36.851Z"
 status: "active"
 ---
 

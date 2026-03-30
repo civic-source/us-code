@@ -3,9 +3,9 @@ title: "Section 7230 - Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a
 usc_title: 10
 usc_section: "7230"
 chapter: 631
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 7230"
-generated_at: "2026-03-30T04:47:04.955Z"
+generated_at: "2026-03-30T04:50:11.212Z"
 status: "repealed"
 ---
 

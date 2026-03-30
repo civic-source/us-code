@@ -3,9 +3,9 @@ title: "Section 6 - Allocation of increased formula grant funds"
 usc_title: 42
 usc_section: "6"
 chapter: 136
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T04:48:56.071Z"
+generated_at: "2026-03-30T04:51:24.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1103 - Powers and duties of the Secretary, the Under Secretary, 
 usc_title: 8
 usc_section: "1103"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1103"
-generated_at: "2026-03-30T04:47:06.005Z"
+generated_at: "2026-03-30T04:50:02.209Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(2)** Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
   - **(3)** Such system shall provide for the collection and dissemination of such information not less often than annually.
 - **(e)**
-  - **(1)** The Commissioner shall submit to Congress annually a report which contains a summary of the information collected under subsection (d) of this section and an analysis of trends in immigration and naturalization.
+  - **(1)** The Commissioner shall submit to Congress annually a report which contains a summary of the information collected under subsection (d) and an analysis of trends in immigration and naturalization.
   - **(2)** Each annual report shall include information on the number, and rate of denial administratively, of applications for naturalization, for each district office of the Service and by national origin group.
 - **(f)** The Attorney General shall allocate to each State not fewer than 10 full-time active duty agents of the Immigration and Naturalization Service to carry out the functions of the Service, in order to ensure the effective enforcement of this chapter.
 - **(g)**

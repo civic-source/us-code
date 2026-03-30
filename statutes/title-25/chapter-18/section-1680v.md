@@ -3,9 +3,9 @@ title: "Section 1680v - Director of HIV/AIDS Prevention and Treatment"
 usc_title: 25
 usc_section: "1680v"
 chapter: 18
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 1680v"
-generated_at: "2026-03-30T04:47:33.973Z"
+generated_at: "2026-03-30T04:50:34.771Z"
 status: "active"
 ---
 

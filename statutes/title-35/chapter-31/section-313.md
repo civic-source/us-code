@@ -3,9 +3,9 @@ title: "Section 313 - Preliminary response to petition"
 usc_title: 35
 usc_section: "313"
 chapter: 31
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "35 U.S.C. § 313"
-generated_at: "2026-03-30T04:47:55.053Z"
+generated_at: "2026-03-30T04:50:51.597Z"
 status: "active"
 ---
 

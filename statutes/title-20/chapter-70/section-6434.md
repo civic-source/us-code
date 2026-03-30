@@ -3,9 +3,9 @@ title: "Section 6434 - State plan and State agency applications"
 usc_title: 20
 usc_section: "6434"
 chapter: 70
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 6434"
-generated_at: "2026-03-30T04:47:25.832Z"
+generated_at: "2026-03-30T04:50:27.793Z"
 status: "active"
 ---
 

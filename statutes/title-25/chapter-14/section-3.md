@@ -3,9 +3,9 @@ title: "Section 3 - Transfer of land to be held in trust"
 usc_title: 25
 usc_section: "3"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-03-30T04:47:33.961Z"
+generated_at: "2026-03-30T04:50:34.759Z"
 status: "active"
 ---
 

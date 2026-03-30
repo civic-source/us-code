@@ -3,9 +3,9 @@ title: "Section 281 - Establishment"
 usc_title: 2
 usc_section: "281"
 chapter: 9
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 281"
-generated_at: "2026-03-30T04:46:55.817Z"
+generated_at: "2026-03-30T04:49:52.750Z"
 status: "active"
 ---
 

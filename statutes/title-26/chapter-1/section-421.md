@@ -3,9 +3,9 @@ title: "Section 421 - General rules"
 usc_title: 26
 usc_section: "421"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 421"
-generated_at: "2026-03-30T04:47:49.629Z"
+generated_at: "2026-03-30T04:50:49.452Z"
 status: "active"
 ---
 

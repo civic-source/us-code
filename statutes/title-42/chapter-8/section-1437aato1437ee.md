@@ -3,9 +3,9 @@ title: "Section 1437aato1437ee - Repealed. Pub. L. 104–330, title V, § 501(a)
 usc_title: 42
 usc_section: "1437aato1437ee"
 chapter: 8
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 1437aato1437ee"
-generated_at: "2026-03-30T04:48:55.766Z"
+generated_at: "2026-03-30T04:51:23.950Z"
 status: "repealed"
 ---
 

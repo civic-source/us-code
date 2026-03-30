@@ -3,16 +3,16 @@ title: "Section 1532 - Establishment of removal court"
 usc_title: 8
 usc_section: "1532"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1532"
-generated_at: "2026-03-30T04:47:06.035Z"
+generated_at: "2026-03-30T04:50:02.236Z"
 status: "active"
 ---
 
 # § 1532. Establishment of removal court
 
 - **(a)** The Chief Justice of the United States shall publicly designate 5 district court judges from 5 of the United States judicial circuits who shall constitute a court that shall have jurisdiction to conduct all removal proceedings. The Chief Justice may, in the Chief Justice’s discretion, designate the same judges under this section as are designated pursuant to section 103(a) of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1803(a) ).
-- **(b)** Each judge designated under subsection (a) of this section shall serve for a term of 5 years and shall be eligible for redesignation, except that of the members first designated—
+- **(b)** Each judge designated under subsection (a) shall serve for a term of 5 years and shall be eligible for redesignation, except that of the members first designated—
   - **(1)** 1 member shall serve for a term of 1 year;
   - **(2)** 1 member shall serve for a term of 2 years;
   - **(3)** 1 member shall serve for a term of 3 years; and

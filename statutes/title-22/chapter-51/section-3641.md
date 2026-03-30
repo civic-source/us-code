@@ -3,9 +3,9 @@ title: "Section 3641 - Definitions"
 usc_title: 22
 usc_section: "3641"
 chapter: 51
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 3641"
-generated_at: "2026-03-30T04:47:36.325Z"
+generated_at: "2026-03-30T04:50:36.796Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8001to8007 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A)
 usc_title: 20
 usc_section: "8001to8007"
 chapter: 70
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 8001to8007"
-generated_at: "2026-03-30T04:47:25.861Z"
+generated_at: "2026-03-30T04:50:27.821Z"
 status: "repealed"
 ---
 

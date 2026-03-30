@@ -3,9 +3,9 @@ title: "Section 9612 - Claims procedure"
 usc_title: 42
 usc_section: "9612"
 chapter: 103
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 9612"
-generated_at: "2026-03-30T04:48:55.989Z"
+generated_at: "2026-03-30T04:51:24.179Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8741to8745 - Omitted"
 usc_title: 42
 usc_section: "8741to8745"
 chapter: 95
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 8741to8745"
-generated_at: "2026-03-30T04:48:55.978Z"
+generated_at: "2026-03-30T04:51:24.169Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1585 - Seizure, detention, transportation or sale of slaves"
 usc_title: 18
 usc_section: "1585"
 chapter: 77
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "18 U.S.C. § 1585"
-generated_at: "2026-03-30T04:47:26.796Z"
+generated_at: "2026-03-30T04:50:24.484Z"
 status: "active"
 ---
 

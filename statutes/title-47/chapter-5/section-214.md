@@ -3,9 +3,9 @@ title: "Section 214 - Extension of lines or discontinuance of service; certifica
 usc_title: 47
 usc_section: "214"
 chapter: 5
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "47 U.S.C. § 214"
-generated_at: "2026-03-30T04:49:00.845Z"
+generated_at: "2026-03-30T04:51:41.440Z"
 status: "active"
 ---
 

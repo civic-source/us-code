@@ -3,9 +3,9 @@ title: "Section 1377 - Collection of data on detained asylum seekers"
 usc_title: 8
 usc_section: "1377"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1377"
-generated_at: "2026-03-30T04:47:06.031Z"
+generated_at: "2026-03-30T04:50:02.233Z"
 status: "active"
 ---
 
@@ -22,5 +22,5 @@ status: "active"
   - **(8)** The average length of detention and the number of detainees by category of the length of detention.
   - **(9)** The rate of release from detention of detainees for each district of the Immigration and Naturalization Service.
   - **(10)** A description of the disposition of cases.
-- **(b)** Beginning October 1, 1999 , and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) of this section for the fiscal year ending September 30 of that year.
-- **(c)** Copies of the data collected under subsection (a) of this section shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
+- **(b)** Beginning October 1, 1999 , and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) for the fiscal year ending September 30 of that year.
+- **(c)** Copies of the data collected under subsection (a) shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.

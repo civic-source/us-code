@@ -3,9 +3,9 @@ title: "Section 211b - Repealed. Pub. L. 94–412, title V, § 501(f) , Sept. 14
 usc_title: 42
 usc_section: "211b"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 211b"
-generated_at: "2026-03-30T04:48:55.493Z"
+generated_at: "2026-03-30T04:51:23.662Z"
 status: "repealed"
 ---
 

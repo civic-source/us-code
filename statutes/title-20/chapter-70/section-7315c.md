@@ -3,9 +3,9 @@ title: "Section 7315c - Renewal of grant of flexibility authority"
 usc_title: 20
 usc_section: "7315c"
 chapter: 70
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 7315c"
-generated_at: "2026-03-30T04:47:25.852Z"
+generated_at: "2026-03-30T04:50:27.813Z"
 status: "active"
 ---
 

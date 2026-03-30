@@ -3,9 +3,9 @@ title: "Section 5344 - Payments and reimbursements for certain House staff expen
 usc_title: 2
 usc_section: "5344"
 chapter: 53
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 5344"
-generated_at: "2026-03-30T04:46:55.854Z"
+generated_at: "2026-03-30T04:49:52.784Z"
 status: "active"
 ---
 

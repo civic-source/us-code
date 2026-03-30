@@ -3,9 +3,9 @@ title: "Section 50505 - Test facilities"
 usc_title: 51
 usc_section: "50505"
 chapter: 505
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "51 U.S.C. § 50505"
-generated_at: "2026-03-30T04:49:38.662Z"
+generated_at: "2026-03-30T04:51:45.168Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6698A - Repealed. Pub. L. 96–223, title IV, § 401(a) , Apr. 2
 usc_title: 26
 usc_section: "6698A"
 chapter: 68
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 6698A"
-generated_at: "2026-03-30T04:47:49.780Z"
+generated_at: "2026-03-30T04:50:49.594Z"
 status: "repealed"
 ---
 

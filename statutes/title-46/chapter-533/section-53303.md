@@ -3,9 +3,9 @@ title: "Section 53303 - Persons eligible to establish funds"
 usc_title: 46
 usc_section: "53303"
 chapter: 533
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 53303"
-generated_at: "2026-03-30T04:49:12.648Z"
+generated_at: "2026-03-30T04:51:27.396Z"
 status: "active"
 ---
 

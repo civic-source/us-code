@@ -3,9 +3,9 @@ title: "Section 2297bto2297b15 - Repealed. Pub. L. 104–134, title III, § 3116
 usc_title: 42
 usc_section: "2297bto2297b15"
 chapter: 23
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 2297bto2297b15"
-generated_at: "2026-03-30T04:48:55.822Z"
+generated_at: "2026-03-30T04:51:24.006Z"
 status: "repealed"
 ---
 

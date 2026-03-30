@@ -3,9 +3,9 @@ title: "Section 1732 - Machine-readable, tamper-resistant entry and exit documen
 usc_title: 8
 usc_section: "1732"
 chapter: 15
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1732"
-generated_at: "2026-03-30T04:47:06.039Z"
+generated_at: "2026-03-30T04:50:02.240Z"
 status: "active"
 ---
 
@@ -13,16 +13,16 @@ status: "active"
 
 - **(a)**
   - **(1)** Not later than 180 days after May 14, 2002 , the Attorney General, the Secretary of State, and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004 —
-    - **(A)** implementation of the requirements of subsections (b) and (c) of this section; and
-    - **(B)** deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c) of this section.
+    - **(A)** implementation of the requirements of subsections (b) and (c); and
+    - **(B)** deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c).
   - **(2)** In addition to the assessment required by paragraph (1), the report required by that paragraph shall include an estimate of the costs to be incurred, and the personnel, man-hours, and other support required, by the Department of Justice, the Department of State, and NIST to achieve the objectives of subparagraphs (A) and (B) of paragraph (1).
 - **(b)**
   - **(1)** Not later than October 26, 2004 , the Attorney General and the Secretary of State shall issue to aliens only machine-readable, tamper-resistant visas and other travel and entry documents that use biometric identifiers. The Attorney General and the Secretary of State shall jointly establish document authentication standards and biometric identifiers standards to be employed on such visas and other travel and entry documents from among those biometric identifiers recognized by domestic and international standards organizations.
   - **(2)**
-    - **(A)** Not later than October 26, 2005 , the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1) of this section.
+    - **(A)** Not later than October 26, 2005 , the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1).
     - **(B)** The Attorney General, in consultation with the Secretary of State, shall utilize biometric data readers and scanners that—
       - **(i)** domestic and international standards organizations determine to be highly accurate when used to verify identity;
-      - **(ii)** can read the biometric identifiers utilized under subsections (b)(1) and (c)(1) of this section; and
+      - **(ii)** can read the biometric identifiers utilized under subsections (b)(1) and (c)(1); and
       - **(iii)** can authenticate the document presented to verify identity.
   - **(3)** The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title .
 - **(c)**

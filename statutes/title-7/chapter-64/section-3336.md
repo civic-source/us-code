@@ -3,9 +3,9 @@ title: "Section 3336 - Authorization of appropriations; allocation of funds"
 usc_title: 7
 usc_section: "3336"
 chapter: 64
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 3336"
-generated_at: "2026-03-30T04:47:12.358Z"
+generated_at: "2026-03-30T04:50:00.046Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 1724 - Personnel management authorities for positions involved i
 usc_title: 8
 usc_section: "1724"
 chapter: 15
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1724"
-generated_at: "2026-03-30T04:47:06.039Z"
+generated_at: "2026-03-30T04:50:02.240Z"
 status: "active"
 ---
 
 # § 1724. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)
 
 - **(a)** Notwithstanding any other provision of law relating to position classification or employee pay or performance, the Attorney General may hire and fix the compensation of necessary scientific, technical, engineering, and other analytical personnel for the purpose of the development and implementation of the interoperable electronic data system described in section 1722(a)(2) of this title (also known as the “Chimera system”).
-- **(b)** Except as otherwise provided by law, no employee compensated under subsection (a) of this section may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule.
+- **(b)** Except as otherwise provided by law, no employee compensated under subsection (a) may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule.
 - **(c)** Total payments to employees under any system established under this section shall be subject to the limitation on payments to employees under section 5307 of title 5 .
 - **(d)** Not later than 90 days after May 14, 2002 , the Attorney General shall submit to the Committee on Appropriations, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Appropriations, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives an operating plan—
   - **(1)** describing the Attorney General’s intended use of the authority under this section; and

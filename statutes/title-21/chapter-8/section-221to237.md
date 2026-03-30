@@ -3,9 +3,9 @@ title: "Section 221to237 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313
 usc_title: 21
 usc_section: "221to237"
 chapter: 8
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "21 U.S.C. § 221to237"
-generated_at: "2026-03-30T04:47:33.015Z"
+generated_at: "2026-03-30T04:50:33.505Z"
 status: "repealed"
 ---
 

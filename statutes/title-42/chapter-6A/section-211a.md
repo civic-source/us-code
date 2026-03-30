@@ -3,9 +3,9 @@ title: "Section 211a - Repealed. Pub. L. 93–222, § 7(b) , Dec. 29, 1973 , 87 
 usc_title: 42
 usc_section: "211a"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 211a"
-generated_at: "2026-03-30T04:48:55.493Z"
+generated_at: "2026-03-30T04:51:23.662Z"
 status: "repealed"
 ---
 

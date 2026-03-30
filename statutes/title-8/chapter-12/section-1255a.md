@@ -3,9 +3,9 @@ title: "Section 1255a - Adjustment of status of certain entrants before January 
 usc_title: 8
 usc_section: "1255a"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-30T04:47:06.023Z"
+generated_at: "2026-03-30T04:50:02.225Z"
 status: "active"
 ---
 
@@ -25,34 +25,34 @@ status: "active"
     - **(B)** An alien shall not be considered to have failed to maintain continuous physical presence in the United States for purposes of subparagraph (A) by virtue of brief, casual, and innocent absences from the United States.
     - **(C)** Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for adjustment of status under this subsection.
   - **(4)** The alien must establish that he—
-    - **(A)** is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section,
+    - **(A)** is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2),
     - **(B)** has not been convicted of any felony or of three or more misdemeanors committed in the United States,
     - **(C)** has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
     - **(D)** is registered or registering under the Military Selective Service Act [50 U.S.C. App. 451 et seq.], if the alien is required to be so registered under that Act.
 - **(b)**
-  - **(1)** The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) of this section to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
+  - **(1)** The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
     - **(A)** The alien must apply for such adjustment during the 2-year period beginning with the nineteenth month that begins after the date the alien was granted such temporary resident status.
     - **(B)**
       - **(i)** The alien must establish that he has continuously resided in the United States since the date the alien was granted such temporary resident status.
       - **(ii)** An alien shall not be considered to have lost the continuous residence referred to in clause (i) by reason of an absence from the United States permitted under paragraph (3)(A).
     - **(C)** The alien must establish that he—
-      - **(i)** is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, and
+      - **(i)** is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2), and
       - **(ii)** has not been convicted of any felony or three or more misdemeanors committed in the United States.
     - **(D)**
       - **(i)** The alien must demonstrate that he either—
         - **(I)** meets the requirements of section 1423(a) of this title (relating to minimal understanding of ordinary English and a knowledge and understanding of the history and government of the United States), or
         - **(II)** is satisfactorily pursuing a course of study (recognized by the Attorney General) to achieve such an understanding of English and such a knowledge and understanding of the history and government of the United States.
       - **(ii)** The Attorney General may, in his discretion, waive all or part of the requirements of clause (i) in the case of an alien who is 65 years of age or older or who is developmentally disabled.
-      - **(iii)** In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
-  - **(2)** The Attorney General shall provide for termination of temporary resident status granted an alien under subsection (a) of this section—
+      - **(iii)** In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III.
+  - **(2)** The Attorney General shall provide for termination of temporary resident status granted an alien under subsection (a)—
     - **(A)** if it appears to the Attorney General that the alien was in fact not eligible for such status;
-    - **(B)** if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
+    - **(B)** if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2), or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
     - **(C)** at the end of the 43rd month beginning after the date the alien is granted such status, unless the alien has filed an application for adjustment of such status pursuant to paragraph (1) and such application has not been denied.
-  - **(3)** During the period an alien is in lawful temporary resident status granted under subsection (a) of this section—
+  - **(3)** During the period an alien is in lawful temporary resident status granted under subsection (a)—
     - **(A)** The Attorney General shall, in accordance with regulations, permit the alien to return to the United States after such brief and casual trips abroad as reflect an intention on the part of the alien to adjust to lawful permanent resident status under paragraph (1) and after brief temporary trips abroad occasioned by a family obligation involving an occurrence such as the illness or death of a close relative or other family need.
     - **(B)** The Attorney General shall grant the alien authorization to engage in employment in the United States and provide to that alien an “employment authorized” endorsement or other appropriate work permit.
 - **(c)**
-  - **(1)** The Attorney General shall provide that applications for adjustment of status under subsection (a) of this section may be filed—
+  - **(1)** The Attorney General shall provide that applications for adjustment of status under subsection (a) may be filed—
     - **(A)** with the Attorney General, or
     - **(B)** with a qualified designated entity, but only if the applicant consents to the forwarding of the application to the Attorney General.
   - **(2)** For purposes of assisting in the program of legalization provided under this section, the Attorney General—
@@ -73,12 +73,12 @@ status: "active"
     - **(E)** Whoever knowingly uses, publishes, or permits information to be examined in violation of this paragraph shall be fined not more than $10,000.
   - **(6)** Whoever files an application for adjustment of status under this section and knowingly and willfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
   - **(7)**
-    - **(A)** The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
+    - **(A)** The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1). The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) after the end of the first year of the 2-year period described in subsection (b)(1)(A).
     - **(B)** The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
     - **(C)** Not to exceed $3,000,000 of the unobligated balances remaining in the account established in subparagraph (B) shall be available in fiscal year 1992 and each fiscal year thereafter for grants, contracts, and cooperative agreements to community-based organizations for outreach programs, to be administered by the Office of Special Counsel for Immigration-Related Unfair Employment Practices: Provided , That such amounts shall be in addition to any funds appropriated to the Office of Special Counsel for such purposes: Provided further , That none of the funds made available by this section shall be used by the Office of Special Counsel to establish regional offices.
 - **(d)**
   - **(1)** The numerical limitations of sections 1151 and 1152 of this title shall not apply to the adjustment of aliens to lawful permanent resident status under this section.
-  - **(2)** In the determination of an alien’s admissibility under subsections (a)(4)(A), (b)(1)(C)(i), and (b)(2)(B) of this section—
+  - **(2)** In the determination of an alien’s admissibility under subsections (a)(4)(A), (b)(1)(C)(i), and (b)(2)(B)—
     - **(A)** The provisions of paragraphs (5) and (7)(A) of section 1182(a) of this title shall not apply.
     - **(B)**
       - **(i)** Except as provided in clause (ii), the Attorney General may waive any other provision of section 1182(a) of this title in the case of individual aliens for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
@@ -90,10 +90,10 @@ status: "active"
       - **(iii)** An alien is not ineligible for adjustment of status under this section due to being inadmissible under section 1182(a)(4) of this title if the alien demonstrates a history of employment in the United States evidencing self-support without receipt of public cash assistance.
     - **(C)** The alien shall be required, at the alien’s expense, to undergo such a medical examination (including a determination of immunization status) as is appropriate and conforms to generally accepted professional standards of medical practice.
 - **(e)**
-  - **(1)** The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) of this section and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) of this section (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
+  - **(1)** The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
     - **(A)** may not be deported, and
     - **(B)** shall be granted authorization to engage in employment in the United States and be provided an “employment authorized” endorsement or other appropriate work permit.
-  - **(2)** The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+  - **(2)** The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
     - **(A)** may not be deported, and
     - **(B)** shall be granted authorization to engage in employment in the United States and be provided an “employment authorized” endorsement or other appropriate work permit.
 - **(f)**
@@ -105,7 +105,7 @@ status: "active"
   - **(4)**
     - **(A)** There shall be judicial review of such a denial only in the judicial review of an order of deportation under section 1105a of this title (as in effect before October 1, 1996 ).
     - **(B)** Such judicial review shall be based solely upon the administrative record established at the time of the review by the appellate authority and the findings of fact and determinations contained in such record shall be conclusive unless the applicant can establish abuse of discretion or that the findings are directly contrary to clear and convincing facts contained in the record considered as a whole.
-    - **(C)** Notwithstanding any other provision of law, no court shall have jurisdiction of any cause of action or claim by or on behalf of any person asserting an interest under this section unless such person in fact filed an application under this section within the period specified by subsection (a)(1) of this section, or attempted to file a complete application and application fee with an authorized legalization officer of the Service but had the application and fee refused by that officer.
+    - **(C)** Notwithstanding any other provision of law, no court shall have jurisdiction of any cause of action or claim by or on behalf of any person asserting an interest under this section unless such person in fact filed an application under this section within the period specified by subsection (a)(1), or attempted to file a complete application and application fee with an authorized legalization officer of the Service but had the application and fee refused by that officer.
 - **(g)**
   - **(1)** The Attorney General, after consultation with the Committees on the Judiciary of the House of Representatives and of the Senate, shall prescribe—
     - **(A)** regulations establishing a definition of the term “resided continuously”, as used in this section, and the evidence needed to establish that an alien has resided continuously in the United States for purposes of this section, and
@@ -121,7 +121,7 @@ status: "active"
       - **(ii)** the documents provided under clause (i) be employment-related if employment-related documents with respect to the alien are available to the applicant.
   - **(3)** Regulations prescribed under this section may be prescribed to take effect on an interim final basis if the Attorney General determines that this is necessary in order to implement this section in a timely manner.
 - **(h)**
-  - **(1)** During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law—
+  - **(1)** During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a), and notwithstanding any other provision of law—
     - **(A)** except as provided in paragraphs (2) and (3), the alien is not eligible for—
       - **(i)** any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departments and agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.]),
       - **(ii)** medical assistance under a State plan approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.], and
@@ -152,4 +152,4 @@ status: "active"
     - **(H)** The Public Health Service Act [ 42 U.S.C. 201 et seq.].
     - **(I)** Titles V, XVI, and XX [ 42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.], and parts B, D, and E of title IV [ 42 U.S.C. 620 et seq., 651 et seq., 670 et seq.], of the Social Security Act (and titles I, X, XIV, and XVI of such Act [ 42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
   - **(5)** For the purpose of section 501 of the Refugee Education Assistance Act of 1980 ( Public Law 96–122 ) 2 2 So in original. Probably should be “( Public Law 96–422 )”. [ 8 U.S.C. 1255 note], assistance shall be continued under such section with respect to an alien without regard to the alien’s adjustment of status under this section.
-- **(i)** Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
+- **(i)** Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A), the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.

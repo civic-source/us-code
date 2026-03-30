@@ -3,9 +3,9 @@ title: "Section 5543 - Authorization of appropriations"
 usc_title: 15
 usc_section: "5543"
 chapter: 81
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 5543"
-generated_at: "2026-03-30T04:47:18.205Z"
+generated_at: "2026-03-30T04:50:21.185Z"
 status: "active"
 ---
 

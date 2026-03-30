@@ -3,9 +3,9 @@ title: "Section 1737 - Implementation provisions"
 usc_title: 43
 usc_section: "1737"
 chapter: 35
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "43 U.S.C. § 1737"
-generated_at: "2026-03-30T04:48:31.116Z"
+generated_at: "2026-03-30T04:51:07.231Z"
 status: "active"
 ---
 

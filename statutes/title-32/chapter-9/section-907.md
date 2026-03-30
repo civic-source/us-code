@@ -3,9 +3,9 @@ title: "Section 907 - Relationship to State duty"
 usc_title: 32
 usc_section: "907"
 chapter: 9
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "32 U.S.C. § 907"
-generated_at: "2026-03-30T04:47:53.038Z"
+generated_at: "2026-03-30T04:50:54.241Z"
 status: "active"
 ---
 

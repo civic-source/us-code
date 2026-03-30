@@ -3,9 +3,9 @@ title: "Section 14191 - Presidential summit"
 usc_title: 42
 usc_section: "14191"
 chapter: 136
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 14191"
-generated_at: "2026-03-30T04:48:56.076Z"
+generated_at: "2026-03-30T04:51:24.272Z"
 status: "active"
 ---
 

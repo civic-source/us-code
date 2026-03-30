@@ -3,9 +3,9 @@ title: "Section 958 - Commission to serve against friendly nation"
 usc_title: 18
 usc_section: "958"
 chapter: 45
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "18 U.S.C. § 958"
-generated_at: "2026-03-30T04:47:26.787Z"
+generated_at: "2026-03-30T04:50:24.475Z"
 status: "active"
 ---
 

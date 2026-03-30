@@ -3,9 +3,9 @@ title: "Section 12640 - Engagement of participants"
 usc_title: 42
 usc_section: "12640"
 chapter: 129
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 12640"
-generated_at: "2026-03-30T04:48:56.041Z"
+generated_at: "2026-03-30T04:51:24.236Z"
 status: "active"
 ---
 

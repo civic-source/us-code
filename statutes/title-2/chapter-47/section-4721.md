@@ -3,9 +3,9 @@ title: "Section 4721 - Referral of ethics violations by Senate Ethics Committee 
 usc_title: 2
 usc_section: "4721"
 chapter: 47
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 4721"
-generated_at: "2026-03-30T04:46:55.852Z"
+generated_at: "2026-03-30T04:49:52.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4445 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 8
 usc_section: "4445"
 chapter: 3
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 4445"
-generated_at: "2026-03-30T04:47:06.003Z"
+generated_at: "2026-03-30T04:50:02.207Z"
 status: "repealed"
 ---
 

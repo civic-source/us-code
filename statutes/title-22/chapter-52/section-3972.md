@@ -3,9 +3,9 @@ title: "Section 3972 - Special differentials"
 usc_title: 22
 usc_section: "3972"
 chapter: 52
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 3972"
-generated_at: "2026-03-30T04:47:36.330Z"
+generated_at: "2026-03-30T04:50:36.801Z"
 status: "active"
 ---
 

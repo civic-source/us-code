@@ -3,9 +3,9 @@ title: "Section 415d - Rules and regulations for wool standards; deposit of rece
 usc_title: 7
 usc_section: "415d"
 chapter: 17
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 415d"
-generated_at: "2026-03-30T04:47:12.268Z"
+generated_at: "2026-03-30T04:49:59.959Z"
 status: "active"
 ---
 

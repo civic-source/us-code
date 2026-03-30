@@ -3,9 +3,9 @@ title: "Section 613 - Signing of articles of association; forwarding to and fili
 usc_title: 12
 usc_section: "613"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "12 U.S.C. § 613"
-generated_at: "2026-03-30T04:47:20.089Z"
+generated_at: "2026-03-30T04:50:16.195Z"
 status: "active"
 ---
 

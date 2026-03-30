@@ -3,9 +3,9 @@ title: "Section 21133 - Transfer of property, records, and personnel"
 usc_title: 52
 usc_section: "21133"
 chapter: 209
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "52 U.S.C. § 21133"
-generated_at: "2026-03-30T04:49:30.246Z"
+generated_at: "2026-03-30T04:51:49.242Z"
 status: "active"
 ---
 

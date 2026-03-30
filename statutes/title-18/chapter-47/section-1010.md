@@ -3,9 +3,9 @@ title: "Section 1010 - Department of Housing and Urban Development and Federal H
 usc_title: 18
 usc_section: "1010"
 chapter: 47
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "18 U.S.C. § 1010"
-generated_at: "2026-03-30T04:47:26.789Z"
+generated_at: "2026-03-30T04:50:24.477Z"
 status: "active"
 ---
 

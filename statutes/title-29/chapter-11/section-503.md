@@ -3,9 +3,9 @@ title: "Section 503 - Financial transactions between labor organization and offi
 usc_title: 29
 usc_section: "503"
 chapter: 11
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "29 U.S.C. § 503"
-generated_at: "2026-03-30T04:47:45.374Z"
+generated_at: "2026-03-30T04:50:42.122Z"
 status: "active"
 ---
 

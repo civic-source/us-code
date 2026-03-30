@@ -3,9 +3,9 @@ title: "Section 1010a - Repealed. Pub. L. 91–383, § 10(a)(2) , (3), as added 
 usc_title: 16
 usc_section: "1010a"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 1010a"
-generated_at: "2026-03-30T04:47:29.343Z"
+generated_at: "2026-03-30T04:50:29.839Z"
 status: "repealed"
 ---
 

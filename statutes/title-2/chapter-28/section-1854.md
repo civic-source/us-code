@@ -3,9 +3,9 @@ title: "Section 1854 - Overtime compensation for certain employees of Architect 
 usc_title: 2
 usc_section: "1854"
 chapter: 28
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 1854"
-generated_at: "2026-03-30T04:46:55.840Z"
+generated_at: "2026-03-30T04:49:52.771Z"
 status: "active"
 ---
 

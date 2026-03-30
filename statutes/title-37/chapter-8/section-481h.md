@@ -3,9 +3,9 @@ title: "Section 481h - Travel and transportation allowances: transportation of d
 usc_title: 37
 usc_section: "481h"
 chapter: 8
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "37 U.S.C. § 481h"
-generated_at: "2026-03-30T04:48:21.767Z"
+generated_at: "2026-03-30T04:51:03.962Z"
 status: "active"
 ---
 

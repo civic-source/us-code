@@ -3,9 +3,9 @@ title: "Section 44H - Renumbered § 45C]"
 usc_title: 26
 usc_section: "44H"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 44H"
-generated_at: "2026-03-30T04:47:49.560Z"
+generated_at: "2026-03-30T04:50:49.387Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 788g - Heirs of deceased enrollees"
 usc_title: 25
 usc_section: "788g"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 788g"
-generated_at: "2026-03-30T04:47:33.950Z"
+generated_at: "2026-03-30T04:50:34.748Z"
 status: "active"
 ---
 

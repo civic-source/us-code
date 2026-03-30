@@ -3,9 +3,9 @@ title: "Section 1451to1454 - Transferred"
 usc_title: 50
 usc_section: "1451to1454"
 chapter: 30
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "50 U.S.C. § 1451to1454"
-generated_at: "2026-03-30T04:49:03.612Z"
+generated_at: "2026-03-30T04:51:43.181Z"
 status: "transferred"
 ---
 

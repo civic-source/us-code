@@ -3,9 +3,9 @@ title: "Section 1667e - Indian youth life skills development demonstration progr
 usc_title: 25
 usc_section: "1667e"
 chapter: 18
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 1667e"
-generated_at: "2026-03-30T04:47:33.971Z"
+generated_at: "2026-03-30T04:50:34.770Z"
 status: "active"
 ---
 

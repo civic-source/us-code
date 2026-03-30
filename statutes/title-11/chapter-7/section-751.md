@@ -3,9 +3,9 @@ title: "Section 751 - Customer name securities"
 usc_title: 11
 usc_section: "751"
 chapter: 7
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "11 U.S.C. § 751"
-generated_at: "2026-03-30T04:47:18.527Z"
+generated_at: "2026-03-30T04:50:17.146Z"
 status: "active"
 ---
 

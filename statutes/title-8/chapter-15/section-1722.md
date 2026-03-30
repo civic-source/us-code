@@ -3,9 +3,9 @@ title: "Section 1722 - Interoperable law enforcement and intelligence data syste
 usc_title: 8
 usc_section: "1722"
 chapter: 15
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1722"
-generated_at: "2026-03-30T04:47:06.039Z"
+generated_at: "2026-03-30T04:50:02.240Z"
 status: "active"
 ---
 
@@ -24,8 +24,8 @@ status: "active"
     - **(C)** to any Federal law enforcement or intelligence officer determined by regulation to be responsible for the investigation or identification of aliens.
   - **(6)** The President shall, in accordance with applicable Federal laws, establish procedures to restrict access to intelligence information in the data system under this subsection, and the databases referred to in paragraph (2), under circumstances in which such information is not to be disclosed directly to Government officials under paragraph (5).
 - **(b)**
-  - **(1)** The interoperable electronic data system required by subsection (a) of this section shall—
-    - **(A)** have the capacity to compensate for disparate name formats among the different databases referred to in subsection (a) of this section;
+  - **(1)** The interoperable electronic data system required by subsection (a) shall—
+    - **(A)** have the capacity to compensate for disparate name formats among the different databases referred to in subsection (a);
     - **(B)** be searchable on a linguistically sensitive basis;
     - **(C)** provide adequate user support;
     - **(D)** to the extent practicable, utilize commercially available technology; and

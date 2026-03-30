@@ -3,9 +3,9 @@ title: "Section 477 - Incorporation of Indian tribes; charter; ratification by e
 usc_title: 25
 usc_section: "477"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 477"
-generated_at: "2026-03-30T04:47:33.936Z"
+generated_at: "2026-03-30T04:50:34.734Z"
 status: "active"
 ---
 

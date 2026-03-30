@@ -3,9 +3,9 @@ title: "Section 34 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 42
 usc_section: "34"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 34"
-generated_at: "2026-03-30T04:48:55.492Z"
+generated_at: "2026-03-30T04:51:23.660Z"
 status: "repealed"
 ---
 

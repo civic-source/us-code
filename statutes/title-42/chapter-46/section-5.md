@@ -3,9 +3,9 @@ title: "Section 5 - Federal share"
 usc_title: 42
 usc_section: "5"
 chapter: 46
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T04:48:55.857Z"
+generated_at: "2026-03-30T04:51:24.042Z"
 status: "active"
 ---
 

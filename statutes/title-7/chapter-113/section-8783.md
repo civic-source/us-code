@@ -3,9 +3,9 @@ title: "Section 8783 - Availability of quality incentive payments for covered oi
 usc_title: 7
 usc_section: "8783"
 chapter: 113
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 8783"
-generated_at: "2026-03-30T04:47:12.416Z"
+generated_at: "2026-03-30T04:50:00.100Z"
 status: "active"
 ---
 

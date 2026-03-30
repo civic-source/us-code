@@ -3,9 +3,9 @@ title: "Section 930 - Art. 130. Housebreaking"
 usc_title: 10
 usc_section: "930"
 chapter: 47
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 930"
-generated_at: "2026-03-30T04:47:04.866Z"
+generated_at: "2026-03-30T04:50:11.125Z"
 status: "active"
 ---
 

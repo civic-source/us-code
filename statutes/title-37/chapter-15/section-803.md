@@ -3,9 +3,9 @@ title: "Section 803 - Commissioned officers of Army or Air Force: forfeiture of 
 usc_title: 37
 usc_section: "803"
 chapter: 15
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "37 U.S.C. § 803"
-generated_at: "2026-03-30T04:48:21.769Z"
+generated_at: "2026-03-30T04:51:03.964Z"
 status: "active"
 ---
 

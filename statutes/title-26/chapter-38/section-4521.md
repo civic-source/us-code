@@ -3,9 +3,9 @@ title: "Section 4521 - Repealed. Pub. L. 87–456, title III, § 302(d) , May 24
 usc_title: 26
 usc_section: "4521"
 chapter: 38
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 4521"
-generated_at: "2026-03-30T04:47:49.727Z"
+generated_at: "2026-03-30T04:50:49.546Z"
 status: "repealed"
 ---
 

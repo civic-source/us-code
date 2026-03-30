@@ -3,9 +3,9 @@ title: "Section 1397B - Nonrecognition of gain on rollover of empowerment zone i
 usc_title: 26
 usc_section: "1397B"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 1397B"
-generated_at: "2026-03-30T04:47:49.699Z"
+generated_at: "2026-03-30T04:50:49.519Z"
 status: "active"
 ---
 

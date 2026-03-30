@@ -3,9 +3,9 @@ title: "Section 1363a - Undercover investigation authority"
 usc_title: 8
 usc_section: "1363a"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1363a"
-generated_at: "2026-03-30T04:47:06.029Z"
+generated_at: "2026-03-30T04:50:02.230Z"
 status: "active"
 ---
 
@@ -23,6 +23,6 @@ status: "active"
   - **(2)** sums appropriated for the Service may be used to establish or to acquire proprietary corporations or business entities as part of an undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to the provisions of section 9102 of title 31 ;
   - **(3)** sums appropriated for the Service, and the proceeds from the undercover operation, may be deposited in banks or other financial institutions without regard to the provisions of section 648 of title 18 and of section 3302(a) of title 31 ; and
   - **(4)** the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302(b) of title 31 .
-- **(b)** As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a) of this section, are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
-- **(c)** If a corporation or business entity established or acquired as part of an undercover operation under paragraph (2) of subsection (a) of this section with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or Commissioner’s designee determines practicable, shall report the circumstances to the Attorney General, the Director of the Office of Management and Budget, and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+- **(b)** As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a), are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
+- **(c)** If a corporation or business entity established or acquired as part of an undercover operation under paragraph (2) of subsection (a) with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or Commissioner’s designee determines practicable, shall report the circumstances to the Attorney General, the Director of the Office of Management and Budget, and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 - **(d)** The Service shall conduct detailed financial audits of closed undercover operations on a quarterly basis and shall report the results of the audits in writing to the Deputy Attorney General.

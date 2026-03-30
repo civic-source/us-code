@@ -3,9 +3,9 @@ title: "Section 8161 - Definitions"
 usc_title: 38
 usc_section: "8161"
 chapter: 81
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "38 U.S.C. § 8161"
-generated_at: "2026-03-30T04:48:26.147Z"
+generated_at: "2026-03-30T04:50:58.841Z"
 status: "active"
 ---
 

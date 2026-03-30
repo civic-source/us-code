@@ -3,9 +3,9 @@ title: "Section 195 - Fees of witnesses in District of Columbia"
 usc_title: 2
 usc_section: "195"
 chapter: 6
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 195"
-generated_at: "2026-03-30T04:46:55.817Z"
+generated_at: "2026-03-30T04:49:52.750Z"
 status: "active"
 ---
 

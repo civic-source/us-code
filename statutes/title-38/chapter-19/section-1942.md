@@ -3,9 +3,9 @@ title: "Section 1942 - Plans of insurance"
 usc_title: 38
 usc_section: "1942"
 chapter: 19
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "38 U.S.C. § 1942"
-generated_at: "2026-03-30T04:48:26.106Z"
+generated_at: "2026-03-30T04:50:58.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4602 - Gifts and bequests"
 usc_title: 16
 usc_section: "4602"
 chapter: 66
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 4602"
-generated_at: "2026-03-30T04:47:29.554Z"
+generated_at: "2026-03-30T04:50:30.043Z"
 status: "active"
 ---
 

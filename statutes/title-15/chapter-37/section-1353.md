@@ -3,9 +3,9 @@ title: "Section 1353 - Selection of designated agency"
 usc_title: 15
 usc_section: "1353"
 chapter: 37
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 1353"
-generated_at: "2026-03-30T04:47:18.145Z"
+generated_at: "2026-03-30T04:50:21.125Z"
 status: "active"
 ---
 

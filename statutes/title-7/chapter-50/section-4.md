@@ -3,9 +3,9 @@ title: "Section 4 - Regional investment strategy grants"
 usc_title: 7
 usc_section: "4"
 chapter: 50
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T04:47:12.330Z"
+generated_at: "2026-03-30T04:50:00.019Z"
 status: "active"
 ---
 

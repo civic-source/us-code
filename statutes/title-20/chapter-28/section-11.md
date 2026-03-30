@@ -3,9 +3,9 @@ title: "Section 11 - Loan forgiveness for service in areas of national need"
 usc_title: 20
 usc_section: "11"
 chapter: 28
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T04:47:25.758Z"
+generated_at: "2026-03-30T04:50:27.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21 - Management authorities and purposes"
 usc_title: 16
 usc_section: "21"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 21"
-generated_at: "2026-03-30T04:47:29.423Z"
+generated_at: "2026-03-30T04:50:29.915Z"
 status: "active"
 ---
 

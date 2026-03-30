@@ -3,9 +3,9 @@ title: "Section 391to395 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(55)
 usc_title: 26
 usc_section: "391to395"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 391to395"
-generated_at: "2026-03-30T04:47:49.613Z"
+generated_at: "2026-03-30T04:50:49.437Z"
 status: "repealed"
 ---
 

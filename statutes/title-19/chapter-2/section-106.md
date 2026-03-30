@@ -3,9 +3,9 @@ title: "Section 106 - Omitted"
 usc_title: 19
 usc_section: "106"
 chapter: 2
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "19 U.S.C. § 106"
-generated_at: "2026-03-30T04:47:23.717Z"
+generated_at: "2026-03-30T04:50:25.543Z"
 status: "omitted"
 ---
 

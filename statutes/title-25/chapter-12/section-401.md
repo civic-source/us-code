@@ -3,9 +3,9 @@ title: "Section 401 - Leases for mining purposes of unallotted lands in Kaw Rese
 usc_title: 25
 usc_section: "401"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 401"
-generated_at: "2026-03-30T04:47:33.927Z"
+generated_at: "2026-03-30T04:50:34.726Z"
 status: "active"
 ---
 

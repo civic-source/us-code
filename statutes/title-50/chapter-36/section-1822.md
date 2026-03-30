@@ -3,9 +3,9 @@ title: "Section 1822 - Authorization of physical searches for foreign intelligen
 usc_title: 50
 usc_section: "1822"
 chapter: 36
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "50 U.S.C. § 1822"
-generated_at: "2026-03-30T04:49:03.616Z"
+generated_at: "2026-03-30T04:51:43.186Z"
 status: "active"
 ---
 

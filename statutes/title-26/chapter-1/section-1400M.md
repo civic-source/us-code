@@ -3,9 +3,9 @@ title: "Section 1400M - Definitions"
 usc_title: 26
 usc_section: "1400M"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "26 U.S.C. § 1400M"
-generated_at: "2026-03-30T04:47:49.701Z"
+generated_at: "2026-03-30T04:50:49.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 703 - Termination of Federal trust"
 usc_title: 25
 usc_section: "703"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 703"
-generated_at: "2026-03-30T04:47:33.946Z"
+generated_at: "2026-03-30T04:50:34.745Z"
 status: "active"
 ---
 

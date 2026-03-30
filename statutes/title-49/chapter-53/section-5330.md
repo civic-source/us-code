@@ -3,9 +3,9 @@ title: "Section 5330 - State safety oversight"
 usc_title: 49
 usc_section: "5330"
 chapter: 53
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "49 U.S.C. § 5330"
-generated_at: "2026-03-30T04:49:27.933Z"
+generated_at: "2026-03-30T04:51:29.812Z"
 status: "active"
 ---
 

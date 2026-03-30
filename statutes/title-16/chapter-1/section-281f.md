@@ -3,9 +3,9 @@ title: "Section 281f - Authorization of appropriations"
 usc_title: 16
 usc_section: "281f"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 281f"
-generated_at: "2026-03-30T04:47:29.359Z"
+generated_at: "2026-03-30T04:50:29.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1036 - Pasteurization and labeling of egg products at official p
 usc_title: 21
 usc_section: "1036"
 chapter: 15
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "21 U.S.C. § 1036"
-generated_at: "2026-03-30T04:47:33.114Z"
+generated_at: "2026-03-30T04:50:33.567Z"
 status: "active"
 ---
 

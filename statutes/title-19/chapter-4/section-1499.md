@@ -3,9 +3,9 @@ title: "Section 1499 - Examination of merchandise"
 usc_title: 19
 usc_section: "1499"
 chapter: 4
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "19 U.S.C. § 1499"
-generated_at: "2026-03-30T04:47:23.725Z"
+generated_at: "2026-03-30T04:50:25.551Z"
 status: "active"
 ---
 

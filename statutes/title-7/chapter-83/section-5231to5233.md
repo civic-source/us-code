@@ -3,9 +3,9 @@ title: "Section 5231to5233 - Repealed. Pub. L. 101–624, title XV, § 1571 , No
 usc_title: 7
 usc_section: "5231to5233"
 chapter: 83
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 5231to5233"
-generated_at: "2026-03-30T04:47:12.367Z"
+generated_at: "2026-03-30T04:50:00.054Z"
 status: "repealed"
 ---
 

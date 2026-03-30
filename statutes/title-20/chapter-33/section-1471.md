@@ -3,9 +3,9 @@ title: "Section 1471 - Parent training and information centers"
 usc_title: 20
 usc_section: "1471"
 chapter: 33
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 1471"
-generated_at: "2026-03-30T04:47:25.802Z"
+generated_at: "2026-03-30T04:50:27.763Z"
 status: "active"
 ---
 

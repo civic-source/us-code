@@ -3,9 +3,9 @@ title: "Section 21501 - Organization"
 usc_title: 36
 usc_section: "21501"
 chapter: 215
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "36 U.S.C. § 21501"
-generated_at: "2026-03-30T04:48:28.620Z"
+generated_at: "2026-03-30T04:50:57.032Z"
 status: "active"
 ---
 

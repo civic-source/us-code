@@ -3,9 +3,9 @@ title: "Section 5881to5891 - Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) 
 usc_title: 20
 usc_section: "5881to5891"
 chapter: 68
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 5881to5891"
-generated_at: "2026-03-30T04:47:25.820Z"
+generated_at: "2026-03-30T04:50:27.782Z"
 status: "repealed"
 ---
 

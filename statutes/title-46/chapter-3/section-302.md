@@ -3,9 +3,9 @@ title: "Section 302 - Quorum"
 usc_title: 46
 usc_section: "302"
 chapter: 3
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 302"
-generated_at: "2026-03-30T04:49:12.625Z"
+generated_at: "2026-03-30T04:51:27.373Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1622 - Establishment of Commission"
 usc_title: 22
 usc_section: "1622"
 chapter: 21
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 1622"
-generated_at: "2026-03-30T04:47:36.268Z"
+generated_at: "2026-03-30T04:50:36.746Z"
 status: "active"
 ---
 

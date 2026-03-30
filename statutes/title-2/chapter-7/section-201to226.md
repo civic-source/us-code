@@ -3,9 +3,9 @@ title: "Section 201to226 - Repealed. Pub. L. 91–138, § 18 , Dec. 5, 1969 , 83
 usc_title: 2
 usc_section: "201to226"
 chapter: 7
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 201to226"
-generated_at: "2026-03-30T04:46:55.817Z"
+generated_at: "2026-03-30T04:49:52.750Z"
 status: "repealed"
 ---
 

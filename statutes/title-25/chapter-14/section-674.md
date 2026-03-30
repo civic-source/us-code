@@ -3,9 +3,9 @@ title: "Section 674 - Use of funds of the Ute Mountain Tribe of the Ute Mountain
 usc_title: 25
 usc_section: "674"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 674"
-generated_at: "2026-03-30T04:47:33.944Z"
+generated_at: "2026-03-30T04:50:34.742Z"
 status: "active"
 ---
 

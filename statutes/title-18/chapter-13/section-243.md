@@ -3,9 +3,9 @@ title: "Section 243 - Exclusion of jurors on account of race or color"
 usc_title: 18
 usc_section: "243"
 chapter: 13
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "18 U.S.C. § 243"
-generated_at: "2026-03-30T04:47:26.776Z"
+generated_at: "2026-03-30T04:50:24.464Z"
 status: "active"
 ---
 

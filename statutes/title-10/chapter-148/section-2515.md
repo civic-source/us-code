@@ -3,9 +3,9 @@ title: "Section 2515 - Office of Technology Transition"
 usc_title: 10
 usc_section: "2515"
 chapter: 148
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 2515"
-generated_at: "2026-03-30T04:47:04.924Z"
+generated_at: "2026-03-30T04:50:11.181Z"
 status: "active"
 ---
 

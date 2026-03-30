@@ -3,9 +3,9 @@ title: "Section 58108 - Charges for transportation subject to subtitle IV of tit
 usc_title: 46
 usc_section: "58108"
 chapter: 581
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 58108"
-generated_at: "2026-03-30T04:49:12.655Z"
+generated_at: "2026-03-30T04:51:27.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2833to2837 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2833to2837"
 chapter: 34
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 2833to2837"
-generated_at: "2026-03-30T04:48:55.827Z"
+generated_at: "2026-03-30T04:51:24.011Z"
 status: "repealed"
 ---
 

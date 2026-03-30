@@ -3,9 +3,9 @@ title: "Section 907 - Art. 107. False official statements"
 usc_title: 10
 usc_section: "907"
 chapter: 47
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 907"
-generated_at: "2026-03-30T04:47:04.865Z"
+generated_at: "2026-03-30T04:50:11.124Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 154 - Investigations by registrar; revocation of certificate of 
 usc_title: 15
 usc_section: "154"
 chapter: 4
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 154"
-generated_at: "2026-03-30T04:47:18.093Z"
+generated_at: "2026-03-30T04:50:21.074Z"
 status: "active"
 ---
 

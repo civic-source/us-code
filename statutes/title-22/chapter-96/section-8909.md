@@ -3,9 +3,9 @@ title: "Section 8909 - Repealed. Pub. L. 113–291, div. A, title XII, § 1245(e
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-30T04:47:36.390Z"
+generated_at: "2026-03-30T04:50:36.853Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2929a - Repealed. Oct. 31, 1951, ch. 654, § 1(45) , 65 Stat. 70
 usc_title: 24
 usc_section: "2929a"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "24 U.S.C. § 2929a"
-generated_at: "2026-03-30T04:47:31.414Z"
+generated_at: "2026-03-30T04:50:31.922Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 654 - Paul D. Coverdell drug-free workplace program"
 usc_title: 15
 usc_section: "654"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 654"
-generated_at: "2026-03-30T04:47:18.117Z"
+generated_at: "2026-03-30T04:50:21.096Z"
 status: "active"
 ---
 

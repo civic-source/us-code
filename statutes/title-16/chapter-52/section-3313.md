@@ -3,9 +3,9 @@ title: "Section 3313 - Grants for reports and plans for coordinated research, en
 usc_title: 16
 usc_section: "3313"
 chapter: 52
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 3313"
-generated_at: "2026-03-30T04:47:29.537Z"
+generated_at: "2026-03-30T04:50:30.025Z"
 status: "active"
 ---
 

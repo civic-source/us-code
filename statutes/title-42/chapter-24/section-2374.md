@@ -3,9 +3,9 @@ title: "Section 2374 - Utilities transferable"
 usc_title: 42
 usc_section: "2374"
 chapter: 24
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 2374"
-generated_at: "2026-03-30T04:48:55.825Z"
+generated_at: "2026-03-30T04:51:24.009Z"
 status: "active"
 ---
 

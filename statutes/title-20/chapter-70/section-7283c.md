@@ -3,9 +3,9 @@ title: "Section 7283c - Applications"
 usc_title: 20
 usc_section: "7283c"
 chapter: 70
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 7283c"
-generated_at: "2026-03-30T04:47:25.851Z"
+generated_at: "2026-03-30T04:50:27.812Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4902 - Definitions"
 usc_title: 42
 usc_section: "4902"
 chapter: 65
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 4902"
-generated_at: "2026-03-30T04:48:55.871Z"
+generated_at: "2026-03-30T04:51:24.057Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9618 - High priority for drinking water supplies"
 usc_title: 42
 usc_section: "9618"
 chapter: 103
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 9618"
-generated_at: "2026-03-30T04:48:55.989Z"
+generated_at: "2026-03-30T04:51:24.180Z"
 status: "active"
 ---
 

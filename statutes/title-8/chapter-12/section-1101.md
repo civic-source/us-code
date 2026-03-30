@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions"
 usc_title: 8
 usc_section: "1101"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1101"
-generated_at: "2026-03-30T04:47:06.004Z"
+generated_at: "2026-03-30T04:50:02.208Z"
 status: "active"
 ---
 
@@ -151,7 +151,7 @@ status: "active"
     - **(H)** an immigrant, and his accompanying spouse and children, who—
       - **(i)** has graduated from a medical school or has qualified to practice medicine in a foreign state,
       - **(ii)** was fully and permanently licensed to practice medicine in a State on January 9, 1978 , and was practicing medicine in a State on that date,
-      - **(iii)** entered the United States as a nonimmigrant under subsection (a)(15)(H) or (a)(15)(J) of this section before January 10, 1978 , and
+      - **(iii)** entered the United States as a nonimmigrant under subsection (a)(15)(H) or (a)(15)(J) before January 10, 1978 , and
       - **(iv)** has been continuously present in the United States in the practice or study of medicine since the date of such entry;
     - **(I)**
       - **(i)** an immigrant who is the unmarried son or daughter of an officer or employee, or of a former officer or employee, of an international organization described in paragraph (15)(G)(i), and who (I) while maintaining the status of a nonimmigrant under paragraph (15)(G)(iv) or paragraph (15)(N), has resided and been physically present in the United States for periods totaling at least one-half of the seven years before the date of application for a visa or for adjustment of status to a status under this subparagraph and for a period or periods aggregating at least seven years between the ages of five and 21 years, and (II) applies for a visa or adjustment of status under this subparagraph no later than his twenty-fifth birthday or six months after October 24, 1988 , whichever is later;
@@ -233,7 +233,7 @@ status: "active"
       - **(iv)** receives only general supervision or direction from higher level executives, the board of directors, or stockholders of the organization.
     - **(C)** If staffing levels are used as a factor in determining whether an individual is acting in a managerial or executive capacity, the Attorney General shall take into account the reasonable needs of the organization, component, or function in light of the overall purpose and stage of development of the organization, component, or function. An individual shall not be considered to be acting in a managerial or executive capacity (as previously defined) merely on the basis of the number of employees that the individual supervises or has supervised or directs or has directed.
   - **(45)** The term “substantial” means, for purposes of paragraph (15)(E) with reference to trade or capital, such an amount of trade or capital as is established by the Secretary of State, after consultation with appropriate agencies of Government.
-  - **(46)** The term “extraordinary ability” means, for purposes of subsection (a)(15)(O)(i) of this section, in the case of the arts, distinction.
+  - **(46)** The term “extraordinary ability” means, for purposes of subsection (a)(15)(O)(i), in the case of the arts, distinction.
   - **(47)**
     - **(A)** The term “order of deportation” means the order of the special inquiry officer, or other such administrative officer to whom the Attorney General has delegated the responsibility for determining whether an alien is deportable, concluding that the alien is deportable or ordering deportation.
     - **(B)** The order described under subparagraph (A) shall become final upon the earlier of—
@@ -284,7 +284,7 @@ status: "active"
   - **(4)** The term “immigration judge” means an attorney whom the Attorney General appoints as an administrative judge within the Executive Office for Immigration Review, qualified to conduct specified classes of proceedings, including a hearing under section 1229a of this title . An immigration judge shall be subject to such supervision and shall perform such duties as the Attorney General shall prescribe, but shall not be employed by the Immigration and Naturalization Service.
   - **(5)** The term “adjacent islands” includes Saint Pierre, Miquelon, Cuba, the Dominican Republic, Haiti, Bermuda, the Bahamas, Barbados, Jamaica, the Windward and Leeward Islands, Trinidad, Martinique, and other British, French, and Netherlands territory or possessions in or bordering on the Caribbean Sea.
 - **(c)** As used in subchapter III—
-  - **(1)** The term “child” means an unmarried person under twenty-one years of age and includes a child legitimated under the law of the child’s residence or domicile, or under the law of the father’s residence or domicile, whether in the United States or elsewhere, and, except as otherwise provided in sections 1431 and 1432 7 7 See References in Text note below. of this title, a child adopted in the United States, if such legitimation or adoption takes place before the child reaches the age of 16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1) of this section), and the child is in the legal custody of the legitimating or adopting parent or parents at the time of such legitimation or adoption.
+  - **(1)** The term “child” means an unmarried person under twenty-one years of age and includes a child legitimated under the law of the child’s residence or domicile, or under the law of the father’s residence or domicile, whether in the United States or elsewhere, and, except as otherwise provided in sections 1431 and 1432 7 7 See References in Text note below. of this title, a child adopted in the United States, if such legitimation or adoption takes place before the child reaches the age of 16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1)), and the child is in the legal custody of the legitimating or adopting parent or parents at the time of such legitimation or adoption.
   - **(2)** The terms “parent”, “father”, and “mother” include in the case of a posthumous child a deceased parent, father, and mother.
 - **(d)** Repealed. Pub. L. 100–525, § 9(a)(3) , Oct. 24, 1988 , 102 Stat. 2619 .
 - **(e)** For the purposes of this chapter—
@@ -299,13 +299,13 @@ status: "active"
   - **(5)** one who has been convicted of two or more gambling offenses committed during such period;
   - **(6)** one who has given false testimony for the purpose of obtaining any benefits under this chapter;
   - **(7)** one who during such period has been confined, as a result of conviction, to a penal institution for an aggregate period of one hundred and eighty days or more, regardless of whether the offense, or offenses, for which he has been confined were committed within or without such period;
-  - **(8)** one who at any time has been convicted of an aggravated felony (as defined in subsection (a)(43) of this section); or
+  - **(8)** one who at any time has been convicted of an aggravated felony (as defined in subsection (a)(43)); or
   - **(9)** one who at any time has engaged in conduct described in section 1182(a)(3)(E) of this title (relating to assistance in Nazi persecution, participation in genocide, or commission of acts of torture or extrajudicial killings) or 1182(a)(2)(G) of this title (relating to severe violations of religious freedom).
 - **(g)** For the purposes of this chapter any alien ordered deported or removed (whether before or after the enactment of this chapter) who has left the United States, shall be considered to have been deported or removed in pursuance of law, irrespective of the source from which the expenses of his transportation were defrayed or of the place to which he departed.
 - **(h)** For purposes of section 1182(a)(2)(E) of this title , the term “serious criminal offense” means—
   - **(1)** any felony;
   - **(2)** any crime of violence, as defined in section 16 of title 18 ; or
   - **(3)** any crime of reckless driving or of driving while intoxicated or under the influence of alcohol or of prohibited substances if such crime involves personal injury to another.
-- **(i)** With respect to each nonimmigrant alien described in subsection (a)(15)(T)(i) of this section—
+- **(i)** With respect to each nonimmigrant alien described in subsection (a)(15)(T)(i)—
   - **(1)** the Secretary of Homeland Security, the Attorney General, and other Government officials, where appropriate, shall provide the alien with a referral to a nongovernmental organization that would advise the alien regarding the alien’s options while in the United States and the resources available to the alien; and
   - **(2)** the Secretary of Homeland Security shall, during the period the alien is in lawful temporary resident status under that subsection, grant the alien authorization to engage in employment in the United States and provide the alien with an “employment authorized” endorsement or other appropriate work permit.

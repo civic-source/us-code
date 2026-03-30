@@ -3,9 +3,9 @@ title: "Section 6303 - Unlawful activities"
 usc_title: 40
 usc_section: "6303"
 chapter: 63
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "40 U.S.C. § 6303"
-generated_at: "2026-03-30T04:48:20.127Z"
+generated_at: "2026-03-30T04:51:04.331Z"
 status: "active"
 ---
 

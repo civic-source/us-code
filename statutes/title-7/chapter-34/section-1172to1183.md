@@ -3,9 +3,9 @@ title: "Section 1172to1183 - Omitted"
 usc_title: 7
 usc_section: "1172to1183"
 chapter: 34
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 1172to1183"
-generated_at: "2026-03-30T04:47:12.284Z"
+generated_at: "2026-03-30T04:49:59.975Z"
 status: "omitted"
 ---
 

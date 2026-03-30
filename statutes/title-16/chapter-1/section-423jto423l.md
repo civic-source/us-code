@@ -3,9 +3,9 @@ title: "Section 423jto423l - Repealed. Pub. L. 106–511, title V, § 507 , Nov.
 usc_title: 16
 usc_section: "423jto423l"
 chapter: 1
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 423jto423l"
-generated_at: "2026-03-30T04:47:29.385Z"
+generated_at: "2026-03-30T04:50:29.877Z"
 status: "repealed"
 ---
 

@@ -3,21 +3,21 @@ title: "Section 1226 - Apprehension and detention of aliens"
 usc_title: 8
 usc_section: "1226"
 chapter: 12
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1226"
-generated_at: "2026-03-30T04:47:06.018Z"
+generated_at: "2026-03-30T04:50:02.220Z"
 status: "active"
 ---
 
 # § 1226. Apprehension and detention of aliens
 
-- **(a)** On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) of this section and pending such decision, the Attorney General—
+- **(a)** On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) and pending such decision, the Attorney General—
   - **(1)** may continue to detain the arrested alien; and
   - **(2)** may release the alien on—
     - **(A)** bond of at least $1,500 with security approved by, and containing conditions prescribed by, the Attorney General; or
     - **(B)** conditional parole; but
   - **(3)** may not provide the alien with work authorization (including an “employment authorized” endorsement or other appropriate work permit), unless the alien is lawfully admitted for permanent residence or otherwise would (without regard to removal proceedings) be provided such authorization.
-- **(b)** The Attorney General at any time may revoke a bond or parole authorized under subsection (a) of this section, rearrest the alien under the original warrant, and detain the alien.
+- **(b)** The Attorney General at any time may revoke a bond or parole authorized under subsection (a), rearrest the alien under the original warrant, and detain the alien.
 - **(c)**
   - **(1)** The Attorney General shall take into custody any alien who—
     - **(A)** is inadmissible by reason of having committed any offense covered in section 1182(a)(2) of this title ,

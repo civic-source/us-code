@@ -3,9 +3,9 @@ title: "Section 1008 - Notification of Secretary of the Interior of approval of 
 usc_title: 16
 usc_section: "1008"
 chapter: 18
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 1008"
-generated_at: "2026-03-30T04:47:29.486Z"
+generated_at: "2026-03-30T04:50:29.976Z"
 status: "active"
 ---
 

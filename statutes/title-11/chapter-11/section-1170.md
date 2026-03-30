@@ -3,9 +3,9 @@ title: "Section 1170 - Abandonment of railroad line"
 usc_title: 11
 usc_section: "1170"
 chapter: 11
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "11 U.S.C. § 1170"
-generated_at: "2026-03-30T04:47:18.530Z"
+generated_at: "2026-03-30T04:50:17.149Z"
 status: "active"
 ---
 

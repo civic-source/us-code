@@ -3,9 +3,9 @@ title: "Section 18b - Custody of client accounts"
 usc_title: 15
 usc_section: "18b"
 chapter: 2
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 18b"
-generated_at: "2026-03-30T04:47:18.093Z"
+generated_at: "2026-03-30T04:50:21.072Z"
 status: "active"
 ---
 

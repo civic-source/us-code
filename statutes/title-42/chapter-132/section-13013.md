@@ -3,9 +3,9 @@ title: "Section 13013 - Strengthening of court-appointed special advocate progra
 usc_title: 42
 usc_section: "13013"
 chapter: 132
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 13013"
-generated_at: "2026-03-30T04:48:56.052Z"
+generated_at: "2026-03-30T04:51:24.247Z"
 status: "active"
 ---
 

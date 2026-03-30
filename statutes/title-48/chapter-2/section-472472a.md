@@ -3,9 +3,9 @@ title: "Section 472472a - Repealed. Oct. 31, 1951, ch. 654, § 1(126) , 65 Stat.
 usc_title: 48
 usc_section: "472472a"
 chapter: 2
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "48 U.S.C. § 472472a"
-generated_at: "2026-03-30T04:48:59.228Z"
+generated_at: "2026-03-30T04:51:34.178Z"
 status: "repealed"
 ---
 

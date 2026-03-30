@@ -3,9 +3,9 @@ title: "Section 101102 - Authority to accept and use funds to consolidate Federa
 usc_title: 54
 usc_section: "101102"
 chapter: 1011
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "54 U.S.C. § 101102"
-generated_at: "2026-03-30T04:49:36.302Z"
+generated_at: "2026-03-30T04:51:45.427Z"
 status: "active"
 ---
 

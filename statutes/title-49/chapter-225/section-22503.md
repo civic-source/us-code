@@ -3,9 +3,9 @@ title: "Section 22503 - Standards for awarding grants"
 usc_title: 49
 usc_section: "22503"
 chapter: 225
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "49 U.S.C. § 22503"
-generated_at: "2026-03-30T04:49:27.950Z"
+generated_at: "2026-03-30T04:51:29.828Z"
 status: "active"
 ---
 

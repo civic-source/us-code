@@ -3,9 +3,9 @@ title: "Section 1475 - Authorization of appropriations"
 usc_title: 20
 usc_section: "1475"
 chapter: 33
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 1475"
-generated_at: "2026-03-30T04:47:25.802Z"
+generated_at: "2026-03-30T04:50:27.763Z"
 status: "active"
 ---
 

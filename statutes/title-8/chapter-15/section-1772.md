@@ -3,9 +3,9 @@ title: "Section 1772 - International cooperation"
 usc_title: 8
 usc_section: "1772"
 chapter: 15
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "8 U.S.C. § 1772"
-generated_at: "2026-03-30T04:47:06.040Z"
+generated_at: "2026-03-30T04:50:02.240Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
   - **(1)** facilitates real-time access to that country’s law enforcement and intelligence information that is needed by the Department of State and the Immigration and Naturalization Service to screen visa applicants and applicants for admission into the United States to identify aliens who are inadmissible or deportable under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.);
   - **(2)** is interoperable with the electronic data system implemented under section 1722 of this title ; and
   - **(3)** performs in accordance with implementation of the technology standard referred to in section 1722(a) of this title .
-- **(b)** Not later than 1 year after May 14, 2002 , the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a) of this section.
+- **(b)** Not later than 1 year after May 14, 2002 , the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).

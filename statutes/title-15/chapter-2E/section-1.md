@@ -3,9 +3,9 @@ title: "Section 1 - Annual government-business forum on capital formation"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T04:47:18.093Z"
+generated_at: "2026-03-30T04:50:21.072Z"
 status: "active"
 ---
 

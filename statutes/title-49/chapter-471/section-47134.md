@@ -3,9 +3,9 @@ title: "Section 47134 - Pilot program on private ownership of airports"
 usc_title: 49
 usc_section: "47134"
 chapter: 471
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "49 U.S.C. § 47134"
-generated_at: "2026-03-30T04:49:27.989Z"
+generated_at: "2026-03-30T04:51:29.868Z"
 status: "active"
 ---
 

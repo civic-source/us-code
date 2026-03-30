@@ -3,9 +3,9 @@ title: "Section 771 - Benefits for surviving spouses of Lighthouse Service emplo
 usc_title: 33
 usc_section: "771"
 chapter: 16
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "33 U.S.C. § 771"
-generated_at: "2026-03-30T04:48:10.992Z"
+generated_at: "2026-03-30T04:50:54.106Z"
 status: "active"
 ---
 

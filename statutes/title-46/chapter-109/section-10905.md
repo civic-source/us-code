@@ -3,9 +3,9 @@ title: "Section 10905 - Complaints in foreign ports"
 usc_title: 46
 usc_section: "10905"
 chapter: 109
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 10905"
-generated_at: "2026-03-30T04:49:12.636Z"
+generated_at: "2026-03-30T04:51:27.386Z"
 status: "active"
 ---
 

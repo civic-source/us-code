@@ -3,9 +3,9 @@ title: "Section 1437p - Demolition and disposition of public housing"
 usc_title: 42
 usc_section: "1437p"
 chapter: 8
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 1437p"
-generated_at: "2026-03-30T04:48:55.763Z"
+generated_at: "2026-03-30T04:51:23.947Z"
 status: "active"
 ---
 

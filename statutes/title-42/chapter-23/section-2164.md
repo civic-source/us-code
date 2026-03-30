@@ -3,9 +3,9 @@ title: "Section 2164 - International cooperation"
 usc_title: 42
 usc_section: "2164"
 chapter: 23
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 2164"
-generated_at: "2026-03-30T04:48:55.816Z"
+generated_at: "2026-03-30T04:51:24.000Z"
 status: "active"
 ---
 

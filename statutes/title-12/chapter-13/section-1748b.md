@@ -3,9 +3,9 @@ title: "Section 1748b - Insurance of mortgages"
 usc_title: 12
 usc_section: "1748b"
 chapter: 13
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "12 U.S.C. § 1748b"
-generated_at: "2026-03-30T04:47:20.133Z"
+generated_at: "2026-03-30T04:50:16.236Z"
 status: "active"
 ---
 

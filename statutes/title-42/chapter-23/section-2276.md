@@ -3,9 +3,9 @@ title: "Section 2276 - Tampering with Restricted Data"
 usc_title: 42
 usc_section: "2276"
 chapter: 23
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 2276"
-generated_at: "2026-03-30T04:48:55.820Z"
+generated_at: "2026-03-30T04:51:24.004Z"
 status: "active"
 ---
 

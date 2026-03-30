@@ -3,9 +3,9 @@ title: "Section 681to685 - Repealed. Pub. L. 99–371, title II, § 210(d) , for
 usc_title: 20
 usc_section: "681to685"
 chapter: 20
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 681to685"
-generated_at: "2026-03-30T04:47:25.732Z"
+generated_at: "2026-03-30T04:50:27.695Z"
 status: "repealed"
 ---
 

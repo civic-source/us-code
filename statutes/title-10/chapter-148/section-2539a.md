@@ -3,9 +3,9 @@ title: "Section 2539a - Industrial mobilization: Board on Mobilization of Indust
 usc_title: 10
 usc_section: "2539a"
 chapter: 148
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 2539a"
-generated_at: "2026-03-30T04:47:04.925Z"
+generated_at: "2026-03-30T04:50:11.183Z"
 status: "active"
 ---
 

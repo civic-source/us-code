@@ -3,9 +3,9 @@ title: "Section 1780m - Rule of construction and judicial review"
 usc_title: 25
 usc_section: "1780m"
 chapter: 19
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 1780m"
-generated_at: "2026-03-30T04:47:33.981Z"
+generated_at: "2026-03-30T04:50:34.779Z"
 status: "active"
 ---
 

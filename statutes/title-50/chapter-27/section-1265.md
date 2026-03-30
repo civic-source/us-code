@@ -3,9 +3,9 @@ title: "Section 1265 - Omitted"
 usc_title: 50
 usc_section: "1265"
 chapter: 27
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "50 U.S.C. § 1265"
-generated_at: "2026-03-30T04:49:03.612Z"
+generated_at: "2026-03-30T04:51:43.181Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7664 - Delivery of property on stipulation"
 usc_title: 10
 usc_section: "7664"
 chapter: 655
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 7664"
-generated_at: "2026-03-30T04:47:04.958Z"
+generated_at: "2026-03-30T04:50:11.215Z"
 status: "active"
 ---
 

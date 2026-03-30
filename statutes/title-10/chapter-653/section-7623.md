@@ -3,9 +3,9 @@ title: "Section 7623 - Admiralty claims by the United States"
 usc_title: 10
 usc_section: "7623"
 chapter: 653
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "10 U.S.C. § 7623"
-generated_at: "2026-03-30T04:47:04.958Z"
+generated_at: "2026-03-30T04:50:11.215Z"
 status: "active"
 ---
 

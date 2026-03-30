@@ -3,9 +3,9 @@ title: "Section 53721 - Rights of obligee"
 usc_title: 46
 usc_section: "53721"
 chapter: 537
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "46 U.S.C. § 53721"
-generated_at: "2026-03-30T04:49:12.650Z"
+generated_at: "2026-03-30T04:51:27.398Z"
 status: "active"
 ---
 

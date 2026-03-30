@@ -3,9 +3,9 @@ title: "Section 13713 - Aimee’s Law"
 usc_title: 42
 usc_section: "13713"
 chapter: 136
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 13713"
-generated_at: "2026-03-30T04:48:56.064Z"
+generated_at: "2026-03-30T04:51:24.259Z"
 status: "active"
 ---
 

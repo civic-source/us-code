@@ -3,9 +3,9 @@ title: "Section 1153 - Authorization of appropriations"
 usc_title: 6
 usc_section: "1153"
 chapter: 4
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "6 U.S.C. § 1153"
-generated_at: "2026-03-30T04:46:59.539Z"
+generated_at: "2026-03-30T04:50:01.266Z"
 status: "active"
 ---
 

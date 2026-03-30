@@ -3,9 +3,9 @@ title: "Section 6809 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6809"
 chapter: 97
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "7 U.S.C. § 6809"
-generated_at: "2026-03-30T04:47:12.383Z"
+generated_at: "2026-03-30T04:50:00.070Z"
 status: "active"
 ---
 

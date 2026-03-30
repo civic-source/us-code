@@ -3,9 +3,9 @@ title: "Section 1308 - Advisory Board; appointment; functions; membership; reimb
 usc_title: 16
 usc_section: "1308"
 chapter: 29
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "16 U.S.C. § 1308"
-generated_at: "2026-03-30T04:47:29.498Z"
+generated_at: "2026-03-30T04:50:29.988Z"
 status: "active"
 ---
 

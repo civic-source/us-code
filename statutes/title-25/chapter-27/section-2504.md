@@ -3,9 +3,9 @@ title: "Section 2504 - Eligibility for grants"
 usc_title: 25
 usc_section: "2504"
 chapter: 27
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 2504"
-generated_at: "2026-03-30T04:47:33.992Z"
+generated_at: "2026-03-30T04:50:34.789Z"
 status: "active"
 ---
 

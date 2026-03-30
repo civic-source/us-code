@@ -3,9 +3,9 @@ title: "Section 8011 - Revised congregate housing services program"
 usc_title: 42
 usc_section: "8011"
 chapter: 89
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "42 U.S.C. § 8011"
-generated_at: "2026-03-30T04:48:55.968Z"
+generated_at: "2026-03-30T04:51:24.158Z"
 status: "active"
 ---
 

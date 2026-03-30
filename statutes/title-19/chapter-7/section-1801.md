@@ -3,9 +3,9 @@ title: "Section 1801 - Statement of purposes"
 usc_title: 19
 usc_section: "1801"
 chapter: 7
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "19 U.S.C. § 1801"
-generated_at: "2026-03-30T04:47:23.741Z"
+generated_at: "2026-03-30T04:50:25.568Z"
 status: "active"
 ---
 

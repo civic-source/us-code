@@ -3,9 +3,9 @@ title: "Section 362 - Injury to signposts and filling up or fouling water supply
 usc_title: 43
 usc_section: "362"
 chapter: 11
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "43 U.S.C. § 362"
-generated_at: "2026-03-30T04:48:31.076Z"
+generated_at: "2026-03-30T04:51:07.189Z"
 status: "active"
 ---
 

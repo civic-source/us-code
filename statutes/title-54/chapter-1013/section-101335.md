@@ -3,9 +3,9 @@ title: "Section 101335 - Housing programs"
 usc_title: 54
 usc_section: "101335"
 chapter: 1013
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "54 U.S.C. § 101335"
-generated_at: "2026-03-30T04:49:36.302Z"
+generated_at: "2026-03-30T04:51:45.428Z"
 status: "active"
 ---
 

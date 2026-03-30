@@ -3,9 +3,9 @@ title: "Section 991 - Per capita payments to tribal members; closure of rolls; a
 usc_title: 25
 usc_section: "991"
 chapter: 14
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "25 U.S.C. § 991"
-generated_at: "2026-03-30T04:47:33.953Z"
+generated_at: "2026-03-30T04:50:34.752Z"
 status: "active"
 ---
 

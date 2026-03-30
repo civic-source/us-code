@@ -3,9 +3,9 @@ title: "Section 1715h - Repealed. Pub. L. 100–242, title IV, § 401(a)(1) , Fe
 usc_title: 12
 usc_section: "1715h"
 chapter: 13
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "12 U.S.C. § 1715h"
-generated_at: "2026-03-30T04:47:20.117Z"
+generated_at: "2026-03-30T04:50:16.221Z"
 status: "repealed"
 ---
 

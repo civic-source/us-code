@@ -3,9 +3,9 @@ title: "Section 6569to6571 - Repealed. Pub. L. 113–235, div. H, title I, § 1(
 usc_title: 2
 usc_section: "6569to6571"
 chapter: 65
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "2 U.S.C. § 6569to6571"
-generated_at: "2026-03-30T04:46:55.859Z"
+generated_at: "2026-03-30T04:49:52.788Z"
 status: "repealed"
 ---
 

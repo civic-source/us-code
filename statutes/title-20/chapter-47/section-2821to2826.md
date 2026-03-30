@@ -3,9 +3,9 @@ title: "Section 2821to2826 - Omitted"
 usc_title: 20
 usc_section: "2821to2826"
 chapter: 47
-current_through: "PL 114-67"
+current_through: "PL 114-71"
 classification: "20 U.S.C. § 2821to2826"
-generated_at: "2026-03-30T04:47:25.809Z"
+generated_at: "2026-03-30T04:50:27.770Z"
 status: "omitted"
 ---
 
