@@ -3,9 +3,9 @@ title: "Section 454 - Future Years Homeland Security Program"
 usc_title: 6
 usc_section: "454"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 454"
-generated_at: "2026-03-30T05:49:24.517Z"
+generated_at: "2026-03-30T05:52:37.237Z"
 status: "active"
 ---
 

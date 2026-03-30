@@ -3,9 +3,9 @@ title: "Section 4405 - Trade Enforcement Trust Fund"
 usc_title: 19
 usc_section: "4405"
 chapter: 28
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 4405"
-generated_at: "2026-03-30T05:49:50.302Z"
+generated_at: "2026-03-30T05:53:13.101Z"
 status: "active"
 ---
 

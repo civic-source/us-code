@@ -3,9 +3,9 @@ title: "Section 6d - Targeted liability protections for pandemic and epidemic pr
 usc_title: 42
 usc_section: "6d"
 chapter: 6
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6d"
-generated_at: "2026-03-30T05:52:02.531Z"
+generated_at: "2026-03-30T05:54:40.063Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(A)** In the case of a covered person who is a manufacturer or distributor of the covered countermeasure involved, the immunity applies without regard to whether such countermeasure was administered to or used by an individual in accordance with the conditions described in paragraph (3)(C).
     - **(B)** In the case of a covered person who is a program planner or qualified person with respect to the administration or use of the covered countermeasure, the scope of immunity includes circumstances in which the countermeasure was administered to or used by an individual in circumstances in which the covered person reasonably could have believed that the countermeasure was administered or used in accordance with the conditions described in paragraph (3)(C).
   - **(5)** The provisions of this section apply to a covered countermeasure regardless of whether such countermeasure is obtained by donation, commercial sale, or any other means of distribution, except to the extent that, under paragraph (2)(E) of subsection (b), the declaration under such subsection provides that subsection (a) applies only to covered countermeasures obtained through a particular means of distribution.
-  - **(6)** For purposes of paragraph (1), there shall be a rebuttable presumption that any administration or use, during the effective period of the emergency declaration by the Secretary under subsection (b) of this section, of a covered countermeasure shall have been for the category or categories of diseases, health conditions, or threats to health with respect to which such declaration was issued.
+  - **(6)** For purposes of paragraph (1), there shall be a rebuttable presumption that any administration or use, during the effective period of the emergency declaration by the Secretary under subsection (b), of a covered countermeasure shall have been for the category or categories of diseases, health conditions, or threats to health with respect to which such declaration was issued.
 - **(b)**
   - **(1)** Subject to paragraph (2), if the Secretary makes a determination that a disease or other health condition or other threat to health constitutes a public health emergency, or that there is a credible risk that the disease, condition, or threat may in the future constitute such an emergency, the Secretary may make a declaration, through publication in the Federal Register, recommending, under conditions as the Secretary may specify, the manufacture, testing, development, distribution, administration, or use of one or more covered countermeasures, and stating that subsection (a) is in effect with respect to the activities so recommended.
   - **(2)** In issuing a declaration under paragraph (1), the Secretary shall identify, for each covered countermeasure specified in the declaration—

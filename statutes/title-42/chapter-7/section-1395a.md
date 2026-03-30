@@ -3,9 +3,9 @@ title: "Section 1395a - Free choice by patient guaranteed"
 usc_title: 42
 usc_section: "1395a"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395a"
-generated_at: "2026-03-30T05:52:02.707Z"
+generated_at: "2026-03-30T05:54:40.227Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
       - **(iv)** The timing of their becoming opt-out physicians and practitioners, relative, to the extent feasible, to when they first enrolled in the program under this subchapter and with respect to applicable 2-year periods.
       - **(v)** The proportion of such physicians and practitioners who billed for emergency or urgent care services.
   - **(6)** In this subsection:
-    - **(A)** The term “medicare beneficiary” means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
+    - **(A)** The term “medicare beneficiary” means an individual who is entitled to benefits under part A or enrolled under part B.
     - **(B)** The term “physician” has the meaning given such term by paragraphs (1), (2), (3), and (4) of section 1395x(r) of this title .
     - **(C)** The term “practitioner” has the meaning given such term by section 1395u(b)(18)(C) of this title .
     - **(D)** The term “opt-out physician or practitioner” means a physician or practitioner who has in effect an affidavit under paragraph (3)(B).

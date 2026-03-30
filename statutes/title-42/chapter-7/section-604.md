@@ -3,9 +3,9 @@ title: "Section 604 - Use of grants"
 usc_title: 42
 usc_section: "604"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 604"
-generated_at: "2026-03-30T05:52:02.663Z"
+generated_at: "2026-03-30T05:54:40.184Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Subject to this part, a State to which a grant is made under section 603 of this title may use the grant—
   - **(1)** in any manner that is reasonably calculated to accomplish the purpose of this part, including to provide low income households with assistance in meeting home heating and cooling costs; or
-  - **(2)** in any manner that the State was authorized to use amounts received under part A or F of this subchapter, as such parts were in effect on September 30, 1995 , or (at the option of the State) August 21, 1996 .
+  - **(2)** in any manner that the State was authorized to use amounts received under part A or F, as such parts were in effect on September 30, 1995 , or (at the option of the State) August 21, 1996 .
 - **(b)**
   - **(1)** A State to which a grant is made under section 603 of this title shall not expend more than 15 percent of the grant for administrative purposes.
   - **(2)** Paragraph (1) shall not apply to the use of a grant for information technology and computerization needed for tracking or monitoring required by or under this part.
@@ -23,11 +23,11 @@ status: "active"
     - **(A)** Division A of subchapter XX of this chapter.
     - **(B)** The Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.].
   - **(2)**
-    - **(A)** A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A 1 of subchapter XX of this chapter.
+    - **(A)** A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A 1 of subchapter XX.
     - **(B)** For purposes of subparagraph (A), the applicable percent is 4.25 percent in the case of fiscal year 2001 and each succeeding fiscal year.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B) of this paragraph, any amount paid to a State under this part that is used to carry out a State program pursuant to a provision of law specified in paragraph (1) shall not be subject to the requirements of this part, but shall be subject to the requirements that apply to Federal funds provided directly under the provision of law to carry out the program, and the expenditure of any amount so used shall not be considered to be an expenditure under this part.
-    - **(B)** All amounts paid to a State under this part that are used to carry out State programs pursuant to division A 1 of subchapter XX of this chapter shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title ) applicable to a family of the size involved.
+    - **(B)** All amounts paid to a State under this part that are used to carry out State programs pursuant to division A 1 of subchapter XX shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title ) applicable to a family of the size involved.
 - **(e)** A State or tribe may use a grant made to the State or tribe under this part for any fiscal year to provide, without fiscal year limitation, any benefit or service that may be provided under the State or tribal program funded under this part.
 - **(f)** A State to which a grant is made under section 603 of this title may use the grant to make payments (or provide job placement vouchers) to State-approved public and private job placement agencies that provide employment placement services to individuals who receive assistance under the State program funded under this part.
 - **(g)** A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.

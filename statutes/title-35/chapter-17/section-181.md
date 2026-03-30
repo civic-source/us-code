@@ -3,9 +3,9 @@ title: "Section 181 - Secrecy of certain inventions and withholding of patent"
 usc_title: 35
 usc_section: "181"
 chapter: 17
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "35 U.S.C. § 181"
-generated_at: "2026-03-30T05:50:51.315Z"
+generated_at: "2026-03-30T05:53:57.800Z"
 status: "active"
 ---
 

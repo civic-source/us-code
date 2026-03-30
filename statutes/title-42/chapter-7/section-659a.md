@@ -3,22 +3,22 @@ title: "Section 659a - International support enforcement"
 usc_title: 42
 usc_section: "659a"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 659a"
-generated_at: "2026-03-30T05:52:02.674Z"
+generated_at: "2026-03-30T05:54:40.194Z"
 status: "active"
 ---
 
 # § 659a. International support enforcement
 
 - **(a)**
-  - **(1)** The Secretary of State, with the concurrence of the Secretary of Health and Human Services, is authorized to declare any foreign country (or a political subdivision thereof) to be a foreign reciprocating country if the foreign country has established, or undertakes to establish, procedures for the establishment and enforcement of duties of support owed to obligees who are residents of the United States, and such procedures are substantially in conformity with the standards prescribed under subsection (b) of this section.
+  - **(1)** The Secretary of State, with the concurrence of the Secretary of Health and Human Services, is authorized to declare any foreign country (or a political subdivision thereof) to be a foreign reciprocating country if the foreign country has established, or undertakes to establish, procedures for the establishment and enforcement of duties of support owed to obligees who are residents of the United States, and such procedures are substantially in conformity with the standards prescribed under subsection (b).
   - **(2)** A declaration with respect to a foreign country made pursuant to paragraph (1) may be revoked if the Secretaries of State and Health and Human Services determine that—
     - **(A)** the procedures established by the foreign country regarding the establishment and enforcement of duties of support have been so changed, or the foreign country’s implementation of such procedures is so unsatisfactory, that such procedures do not meet the criteria for such a declaration; or
     - **(B)** continued operation of the declaration is not consistent with the purposes of this part.
   - **(3)** A declaration under paragraph (1) may be made in the form of an international agreement, in connection with an international agreement or corresponding foreign declaration, or on a unilateral basis.
 - **(b)**
-  - **(1)** Support enforcement procedures of a foreign country which may be the subject of a declaration pursuant to subsection (a)(1) of this section shall include the following elements:
+  - **(1)** Support enforcement procedures of a foreign country which may be the subject of a declaration pursuant to subsection (a)(1) shall include the following elements:
     - **(A)** The foreign country (or political subdivision thereof) has in effect procedures, available to residents of the United States—
       - **(i)** for establishment of paternity, and for establishment of orders of support for children and custodial parents; and
       - **(ii)** for enforcement of orders to provide support to children and custodial parents, including procedures for collection and appropriate distribution of support payments under such orders.

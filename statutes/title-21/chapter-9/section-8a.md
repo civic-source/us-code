@@ -3,9 +3,9 @@ title: "Section 8a - Optimizing global clinical trials"
 usc_title: 21
 usc_section: "8a"
 chapter: 9
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 8a"
-generated_at: "2026-03-30T05:50:09.629Z"
+generated_at: "2026-03-30T05:53:21.588Z"
 status: "active"
 ---
 

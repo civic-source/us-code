@@ -3,9 +3,9 @@ title: "Section 15029 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15029"
 chapter: 144
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15029"
-generated_at: "2026-03-30T05:52:03.159Z"
+generated_at: "2026-03-30T05:54:40.678Z"
 status: "active"
 ---
 

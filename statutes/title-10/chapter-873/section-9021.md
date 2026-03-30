@@ -3,9 +3,9 @@ title: "Section 9021 - Air University: civilian faculty members"
 usc_title: 10
 usc_section: "9021"
 chapter: 873
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 9021"
-generated_at: "2026-03-30T05:49:31.703Z"
+generated_at: "2026-03-30T05:52:47.230Z"
 status: "active"
 ---
 

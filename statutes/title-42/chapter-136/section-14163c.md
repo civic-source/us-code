@@ -3,9 +3,9 @@ title: "Section 14163c - State reports"
 usc_title: 42
 usc_section: "14163c"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14163c"
-generated_at: "2026-03-30T05:52:03.151Z"
+generated_at: "2026-03-30T05:54:40.671Z"
 status: "active"
 ---
 

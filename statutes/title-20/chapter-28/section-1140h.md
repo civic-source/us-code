@@ -3,9 +3,9 @@ title: "Section 1140h - Rule of construction"
 usc_title: 20
 usc_section: "1140h"
 chapter: 28
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1140h"
-generated_at: "2026-03-30T05:49:51.979Z"
+generated_at: "2026-03-30T05:53:04.468Z"
 status: "active"
 ---
 

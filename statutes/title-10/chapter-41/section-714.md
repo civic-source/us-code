@@ -3,9 +3,9 @@ title: "Section 714 - Repealed. Pub. L. 108–136, div. A, title V , § 503(a), 
 usc_title: 10
 usc_section: "714"
 chapter: 41
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 714"
-generated_at: "2026-03-30T05:49:31.602Z"
+generated_at: "2026-03-30T05:52:47.128Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 892 - Definitions"
 usc_title: 33
 usc_section: "892"
 chapter: 17
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 892"
-generated_at: "2026-03-30T05:51:10.142Z"
+generated_at: "2026-03-30T05:53:40.411Z"
 status: "active"
 ---
 

@@ -3,19 +3,19 @@ title: "Section 669a - Nonliability for financial institutions providing financi
 usc_title: 42
 usc_section: "669a"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 669a"
-generated_at: "2026-03-30T05:52:02.676Z"
+generated_at: "2026-03-30T05:54:40.197Z"
 status: "active"
 ---
 
 # § 669a. Nonliability for financial institutions providing financial records to State child support enforcement agencies in child support cases
 
 - **(a)** Notwithstanding any other provision of Federal or State law, a financial institution shall not be liable under any Federal or State law to any person for disclosing any financial record of an individual to a State child support enforcement agency attempting to establish, modify, or enforce a child support obligation of such individual, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title .
-- **(b)** A State child support enforcement agency which obtains a financial record of an individual from a financial institution pursuant to subsection (a) of this section may disclose such financial record only for the purpose of, and to the extent necessary in, establishing, modifying, or enforcing a child support obligation of such individual.
+- **(b)** A State child support enforcement agency which obtains a financial record of an individual from a financial institution pursuant to subsection (a) may disclose such financial record only for the purpose of, and to the extent necessary in, establishing, modifying, or enforcing a child support obligation of such individual.
 - **(c)**
-  - **(1)** If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
-  - **(2)** No liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b) of this section.
+  - **(1)** If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b), such individual may bring a civil action for damages against such person in a district court of the United States.
+  - **(2)** No liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b).
   - **(3)** In any action brought under paragraph (1), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the sum of—
     - **(A)** the greater of—
       - **(i)** $1,000 for each act of unauthorized disclosure of a financial record with respect to which such defendant is found liable; or

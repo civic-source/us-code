@@ -3,9 +3,9 @@ title: "Section 11 - Provisions relating to contributions and land exchange"
 usc_title: 16
 usc_section: "11"
 chapter: 2
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T05:49:48.213Z"
+generated_at: "2026-03-30T05:53:07.657Z"
 status: "active"
 ---
 

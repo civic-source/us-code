@@ -3,9 +3,9 @@ title: "Section 410bb - Establishment"
 usc_title: 16
 usc_section: "410bb"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 410bb"
-generated_at: "2026-03-30T05:49:48.148Z"
+generated_at: "2026-03-30T05:53:07.592Z"
 status: "active"
 ---
 

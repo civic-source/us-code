@@ -3,9 +3,9 @@ title: "Section 50103 - Determinations of essential services"
 usc_title: 46
 usc_section: "50103"
 chapter: 501
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 50103"
-generated_at: "2026-03-30T05:52:11.979Z"
+generated_at: "2026-03-30T05:54:44.427Z"
 status: "active"
 ---
 

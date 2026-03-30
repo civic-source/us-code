@@ -3,9 +3,9 @@ title: "Section 1831g - Contracts between depository institutions and persons pr
 usc_title: 12
 usc_section: "1831g"
 chapter: 16
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1831g"
-generated_at: "2026-03-30T05:49:42.300Z"
+generated_at: "2026-03-30T05:52:55.831Z"
 status: "active"
 ---
 

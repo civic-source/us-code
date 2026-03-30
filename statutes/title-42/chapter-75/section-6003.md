@@ -3,9 +3,9 @@ title: "Section 6003 - Repealed. Pub. L. 106–402, title IV , § 401(a), Oct. 3
 usc_title: 42
 usc_section: "6003"
 chapter: 75
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6003"
-generated_at: "2026-03-30T05:52:02.962Z"
+generated_at: "2026-03-30T05:54:40.482Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3404 - Ocean exploration and undersea research technology and in
 usc_title: 33
 usc_section: "3404"
 chapter: 47
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 3404"
-generated_at: "2026-03-30T05:51:10.185Z"
+generated_at: "2026-03-30T05:53:40.459Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 37 - Repealed. Pub. L. 91–271, title III , § 321(h), (i), Jun
 usc_title: 19
 usc_section: "37"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 37"
-generated_at: "2026-03-30T05:49:50.229Z"
+generated_at: "2026-03-30T05:53:13.028Z"
 status: "repealed"
 ---
 

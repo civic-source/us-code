@@ -3,9 +3,9 @@ title: "Section 1543 - Membership"
 usc_title: 21
 usc_section: "1543"
 chapter: 20
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 1543"
-generated_at: "2026-03-30T05:50:09.669Z"
+generated_at: "2026-03-30T05:53:21.624Z"
 status: "active"
 ---
 

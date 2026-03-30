@@ -3,9 +3,9 @@ title: "Section 42 - Patents for nonmineral lands: application, survey, notice, 
 usc_title: 30
 usc_section: "42"
 chapter: 2
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 42"
-generated_at: "2026-03-30T05:50:11.844Z"
+generated_at: "2026-03-30T05:53:29.521Z"
 status: "active"
 ---
 

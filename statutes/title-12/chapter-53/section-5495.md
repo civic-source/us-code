@@ -3,9 +3,9 @@ title: "Section 5495 - Coordination"
 usc_title: 12
 usc_section: "5495"
 chapter: 53
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 5495"
-generated_at: "2026-03-30T05:49:42.374Z"
+generated_at: "2026-03-30T05:52:55.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1504 - Rental rates; exemption from limitations of United States
 usc_title: 42
 usc_section: "1504"
 chapter: 9
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1504"
-generated_at: "2026-03-30T05:52:02.829Z"
+generated_at: "2026-03-30T05:54:40.349Z"
 status: "active"
 ---
 

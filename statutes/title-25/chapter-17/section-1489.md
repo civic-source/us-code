@@ -3,9 +3,9 @@ title: "Section 1489 - Loans made by certain financial institutions without rega
 usc_title: 25
 usc_section: "1489"
 chapter: 17
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 1489"
-generated_at: "2026-03-30T05:49:55.407Z"
+generated_at: "2026-03-30T05:53:16.791Z"
 status: "active"
 ---
 

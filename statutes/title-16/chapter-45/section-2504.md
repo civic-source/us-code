@@ -3,9 +3,9 @@ title: "Section 2504 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2504"
 chapter: 45
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2504"
-generated_at: "2026-03-30T05:49:48.303Z"
+generated_at: "2026-03-30T05:53:07.747Z"
 status: "repealed"
 ---
 

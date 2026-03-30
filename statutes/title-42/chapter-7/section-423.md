@@ -3,9 +3,9 @@ title: "Section 423 - Disability insurance benefit payments"
 usc_title: 42
 usc_section: "423"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 423"
-generated_at: "2026-03-30T05:52:02.658Z"
+generated_at: "2026-03-30T05:54:40.179Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** Every individual who—
-    - **(A)** is insured for disability insurance benefits (as determined under subsection (c)(1) of this section),
+    - **(A)** is insured for disability insurance benefits (as determined under subsection (c)(1)),
     - **(B)** has not attained retirement age (as defined in section 416( l ) of this title),
     - **(C)** if not a United States citizen or national—
       - **(i)** has been assigned a social security account number that was, at the time of assignment, or at any later time, consistent with the requirements of subclause (I) or (III) of section 405(c)(2)(B)(i) of this title ; or
@@ -22,11 +22,11 @@ status: "active"
         - **(II)** is lawfully admitted temporarily to the United States for business (in the case of an individual described in such subparagraph (B)) or the performance as a crewman (in the case of an individual described in such subparagraph (D)), and
         - **(III)** the business engaged in or service as a crewman performed is within the scope of the terms of such individual’s admission to the United States. 1 1 So in original. The period probably should be a comma.
     - **(D)** has filed application for disability insurance benefits, and
-    - **(E)** is under a disability (as defined in subsection (d) of this section)
+    - **(E)** is under a disability (as defined in subsection (d))
   - **(2)** Except as provided in section 402(q) of this title and section 415(b)(2)(A)(ii) of this title , such individual’s disability insurance benefit for any month shall be equal to his primary insurance amount for such month determined under section 415 of this title as though he had attained age 62 in—
     - **(A)** the first month of his waiting period, or
     - **(B)** in any case in which clause (ii) of paragraph (1) of this subsection is applicable, the first month for which he becomes entitled to such disability insurance benefits,
-- **(b)** An application for disability insurance benefits filed before the first month in which the applicant satisfies the requirements for such benefits (as prescribed in subsection (a)(1) of this section) shall be deemed a valid application (and shall be deemed to have been filed in such first month) only if the applicant satisfies the requirements for such benefits before the Commissioner of Social Security makes a final decision on the application and no request under section 405(b) of this title for notice and opportunity for a hearing thereon is made, or if such a request is made, before a decision based upon the evidence adduced at the hearing is made (regardless of whether such decision becomes the final decision of the Commissioner of Social Security). An individual who would have been entitled to a disability insurance benefit for any month had he filed application therefor before the end of such month shall be entitled to such benefit for such month if such application is filed before the end of the 12th month immediately succeeding such month.
+- **(b)** An application for disability insurance benefits filed before the first month in which the applicant satisfies the requirements for such benefits (as prescribed in subsection (a)(1)) shall be deemed a valid application (and shall be deemed to have been filed in such first month) only if the applicant satisfies the requirements for such benefits before the Commissioner of Social Security makes a final decision on the application and no request under section 405(b) of this title for notice and opportunity for a hearing thereon is made, or if such a request is made, before a decision based upon the evidence adduced at the hearing is made (regardless of whether such decision becomes the final decision of the Commissioner of Social Security). An individual who would have been entitled to a disability insurance benefit for any month had he filed application therefor before the end of such month shall be entitled to such benefit for such month if such application is filed before the end of the 12th month immediately succeeding such month.
 - **(c)** For purposes of this section—
   - **(1)** An individual shall be insured for disability insurance benefits in any month if—
     - **(A)** he would have been a fully insured individual (as defined in section 414 of this title ) had he attained age 62 and filed application for benefits under section 402(a) of this title on the first day of such month, and
@@ -73,8 +73,8 @@ status: "active"
     - **(B)** Notwithstanding any other provision of this subchapter, any physical or mental impairment which arises in connection with an individual’s confinement in a jail, prison, or other penal institution or correctional facility pursuant to such individual’s conviction of an offense (committed after October 19, 1980 ) constituting a felony under applicable law, or which is aggravated in connection with such a confinement (but only to the extent so aggravated), shall not be considered in determining whether such individual is under a disability for purposes of benefits payable for any month during which such individual is so confined.
 - **(e)**
   - **(1)** No benefit shall be payable under subsection (d)(1)(B)(ii), (d)(6)(A)(ii), (d)(6)(B), (e)(1)(B)(ii), or (f)(1)(B)(ii) of section 402 of this title or under subsection (a)(1) of this section to an individual for any month, after the third month, in which he engages in substantial gainful activity during the 36-month period following the end of his trial work period determined by application of section 422(c)(4)(A) of this title .
-  - **(2)** No benefit shall be payable under section 402 of this title on the basis of the wages and self-employment income of an individual entitled to a benefit under subsection (a)(1) of this section for any month for which the benefit of such individual under subsection (a)(1) of this section is not payable under paragraph (1).
-- **(f)** A recipient of benefits under this subchapter or subchapter XVIII of this chapter based on the disability of any individual may be determined not to be entitled to such benefits on the basis of a finding that the physical or mental impairment on the basis of which such benefits are provided has ceased, does not exist, or is not disabling only if such finding is supported by—
+  - **(2)** No benefit shall be payable under section 402 of this title on the basis of the wages and self-employment income of an individual entitled to a benefit under subsection (a)(1) of this section for any month for which the benefit of such individual under subsection (a)(1) is not payable under paragraph (1).
+- **(f)** A recipient of benefits under this subchapter or subchapter XVIII based on the disability of any individual may be determined not to be entitled to such benefits on the basis of a finding that the physical or mental impairment on the basis of which such benefits are provided has ceased, does not exist, or is not disabling only if such finding is supported by—
   - **(1)** substantial evidence which demonstrates that—
     - **(A)** there has been any medical improvement in the individual’s impairment or combination of impairments (other than medical improvement which is not related to the individual’s ability to work), and
     - **(B)** the individual is now able to engage in substantial gainful activity; or
@@ -116,7 +116,7 @@ status: "active"
       - **(i)** A request for reinstatement shall be filed in such form, and containing such information, as the Commissioner may prescribe.
       - **(ii)** A request for reinstatement shall include express declarations by the individual that the individual meets the requirements specified in clauses (ii) and (iii) of paragraph (1)(B).
     - **(B)** A request for reinstatement filed in accordance with subparagraph (A) may constitute an application for benefits in the case of any individual who the Commissioner determines is not entitled to reinstated benefits under this subsection.
-  - **(3)** In determining whether an individual meets the requirements of paragraph (1)(B)(ii), the provisions of subsection (f) of this section shall apply.
+  - **(3)** In determining whether an individual meets the requirements of paragraph (1)(B)(ii), the provisions of subsection (f) shall apply.
   - **(4)**
     - **(A)**
       - **(i)** Subject to clause (ii), entitlement to benefits reinstated under this subsection shall commence with the benefit payable for the month in which a request for reinstatement is filed.

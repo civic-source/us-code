@@ -3,9 +3,9 @@ title: "Section 2194 - Investment insurance and other programs"
 usc_title: 22
 usc_section: "2194"
 chapter: 32
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2194"
-generated_at: "2026-03-30T05:49:58.016Z"
+generated_at: "2026-03-30T05:53:23.530Z"
 status: "active"
 ---
 

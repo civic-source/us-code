@@ -3,9 +3,9 @@ title: "Section 7224 - Transportation on naval vessels during wartime"
 usc_title: 10
 usc_section: "7224"
 chapter: 631
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7224"
-generated_at: "2026-03-30T05:49:31.696Z"
+generated_at: "2026-03-30T05:52:47.223Z"
 status: "active"
 ---
 

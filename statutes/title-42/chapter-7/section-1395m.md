@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T05:52:02.718Z"
+generated_at: "2026-03-30T05:54:40.238Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** Subject to subparagraph (F)(i), the payment basis described in this subparagraph is the lesser of—
       - **(i)** the actual charge for the item, or
       - **(ii)** the payment amount recognized under paragraphs (2) through (7) of this subsection for the item;
-    - **(C)** Subject to subparagraph (F)(ii), this subsection shall constitute the exclusive provision of this subchapter for payment for covered items under this part or under part A of this subchapter to a home health agency.
+    - **(C)** Subject to subparagraph (F)(ii), this subsection shall constitute the exclusive provision of this subchapter for payment for covered items under this part or under part A to a home health agency.
     - **(D)** With respect to a seat-lift chair or transcutaneous electrical nerve stimulator furnished on or after April 1, 1990 , the Secretary shall reduce the payment amount applied under subparagraph (B)(ii) for such an item by 15 percent, and, in the case of a transcutaneous electrical nerve stimulator furnished on or after January 1, 1991 , the Secretary shall further reduce such payment amount (as previously reduced) by 45 percent.
     - **(E)**
       - **(i)** The Secretary shall establish standards for clinical conditions for payment for covered items under this subsection.
@@ -227,7 +227,7 @@ status: "active"
     - **(C)** The quality standards described in subparagraph (A) may not be less stringent than the quality standards that would otherwise apply if this paragraph did not apply and shall include consumer services standards.
     - **(D)** The items and services described in this subparagraph are the following items and services, as the Secretary determines appropriate:
       - **(i)** Covered items (as defined in paragraph (13)) for which payment may otherwise be made under this subsection.
-      - **(ii)** Prosthetic devices and orthotics and prosthetics described in subsection (h)(4) of this section.
+      - **(ii)** Prosthetic devices and orthotics and prosthetics described in subsection (h)(4).
       - **(iii)** Items and services described in section 1395u(s)(2) of this title .
     - **(E)** The Secretary may establish by program instruction or otherwise the quality standards under this paragraph, including subparagraph (F), after consultation with representatives of relevant parties. Such standards shall be applied prospectively and shall be published on the Internet website of the Centers for Medicare & Medicaid Services.
     - **(F)** In implementing quality standards under this paragraph—
@@ -254,7 +254,7 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary shall develop—
     - **(A)** a relative value scale to serve as the basis for the payment for radiologist services under this part, and
-    - **(B)** using such scale and appropriate conversion factors and subject to subsection (c)(1)(A) of this section, fee schedules (on a regional, statewide, locality, or carrier service area basis) for payment for radiologist services under this part, to be implemented for such services furnished during 1989.
+    - **(B)** using such scale and appropriate conversion factors and subject to subsection (c)(1)(A), fee schedules (on a regional, statewide, locality, or carrier service area basis) for payment for radiologist services under this part, to be implemented for such services furnished during 1989.
   - **(2)** In carrying out paragraph (1), the Secretary shall regularly consult closely with the Physician Payment Review Commission, the American College of Radiology, and other organizations representing physicians or suppliers who furnish radiologist services and shall share with them the data and data analysis being used to make the determinations under paragraph (1), including data on variations in current medicare payments by geographic area, and by service and physician specialty.
   - **(3)** In developing the relative value scale and fee schedules under paragraph (1), the Secretary—
     - **(A)** shall take into consideration variations in the cost of furnishing such services among geographic areas and among different sites where services are furnished, and
@@ -378,8 +378,8 @@ status: "active"
       - **(i)** the actual charge for the item; or
       - **(ii)** the amount recognized under paragraph (2) as the purchase price for the item.
     - **(C)** Subparagraph (B)(i) shall not apply to an item furnished by a public home health agency (or by another home health agency which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low income) free of charge or at nominal charges to the public.
-    - **(D)** Subject to subparagraph (H)(ii), this subsection shall constitute the exclusive provision of this subchapter for payment for prosthetic devices, orthotics, and prosthetics under this part or under part A of this subchapter to a home health agency.
-    - **(E)** Payment for ostomy supplies, tracheostomy supplies, and urologicals shall be made in accordance with subparagraphs (B) and (C) of subsection (a)(2) of this section.
+    - **(D)** Subject to subparagraph (H)(ii), this subsection shall constitute the exclusive provision of this subchapter for payment for prosthetic devices, orthotics, and prosthetics under this part or under part A to a home health agency.
+    - **(E)** Payment for ostomy supplies, tracheostomy supplies, and urologicals shall be made in accordance with subparagraphs (B) and (C) of subsection (a)(2).
     - **(F)**
       - **(i)** No payment shall be made under this subsection for an item of custom-fabricated orthotics described in clause (ii) or for an item of prosthetics unless such item is—
         - **(I)** furnished by a qualified practitioner; and
@@ -420,7 +420,7 @@ status: "active"
     - **(D)** The amount that is recognized under subparagraph (C) as the purchase price for an item furnished—
       - **(i)** in 1992, may not exceed 125 percent, and may not be lower than 85 percent, of the average of the purchase prices recognized under such subparagraph for all the carrier service areas in the United States in that year; and
       - **(ii)** in a subsequent year, may not exceed 120 percent, and may not be lower than 90 percent, of the average of the purchase prices recognized under such subparagraph for all the carrier service areas in the United States in that year.
-  - **(3)** Paragraphs (12), (15), and (17) and subparagraphs (A) and (B) of paragraph (10) and paragraph (11) of subsection (a) of this section shall apply to prosthetic devices, orthotics, and prosthetics in the same manner as such provisions apply to covered items under such subsection.
+  - **(3)** Paragraphs (12), (15), and (17) and subparagraphs (A) and (B) of paragraph (10) and paragraph (11) of subsection (a) shall apply to prosthetic devices, orthotics, and prosthetics in the same manner as such provisions apply to covered items under such subsection.
   - **(4)** In this subsection—
     - **(A)** the term “applicable percentage increase” means—
       - **(i)** for 1991, 0 percent;
@@ -441,7 +441,7 @@ status: "active"
 - **(i)**
   - **(1)** Payment under this subsection for surgical dressings (described in section 1395x(s)(5) of this title ) shall be made in a lump sum amount for the purchase of the item in an amount equal to 80 percent of the lesser of—
     - **(A)** the actual charge for the item; or
-    - **(B)** a payment amount determined in accordance with the methodology described in subparagraphs (B) and (C) of subsection (a)(2) of this section (except that in applying such methodology, the national limited payment amount referred to in such subparagraphs shall be initially computed based on local payment amounts using average reasonable charges for the 12-month period ending December 31, 1992 , increased by the covered item updates described in such subsection for 1993 and 1994).
+    - **(B)** a payment amount determined in accordance with the methodology described in subparagraphs (B) and (C) of subsection (a)(2) (except that in applying such methodology, the national limited payment amount referred to in such subparagraphs shall be initially computed based on local payment amounts using average reasonable charges for the 12-month period ending December 31, 1992 , increased by the covered item updates described in such subsection for 1993 and 1994).
   - **(2)** Paragraph (1) shall not apply to surgical dressings that are—
     - **(A)** furnished as an incident to a physician’s professional service; or
     - **(B)** furnished by a home health agency.
@@ -471,7 +471,7 @@ status: "active"
   - **(3)** The Secretary shall annually review the coverage and utilization of items of medical equipment and supplies to determine whether such items should be made subject to coverage and utilization review criteria, and if appropriate, shall develop and apply such criteria to such items.
   - **(4)** If a supplier of medical equipment and supplies (as defined in paragraph (5))—
     - **(A)** furnishes an item or service to a beneficiary for which no payment may be made by reason of paragraph (1);
-    - **(B)** furnishes an item or service to a beneficiary for which payment is denied in advance under subsection (a)(15) of this section; or
+    - **(B)** furnishes an item or service to a beneficiary for which payment is denied in advance under subsection (a)(15); or
     - **(C)** furnishes an item or service to a beneficiary for which payment is denied under section 1395y(a)(1) of this title ;
   - **(5)** The term “medical equipment and supplies” means—
     - **(A)** durable medical equipment (as defined in section 1395x(n) of this title );
@@ -549,7 +549,7 @@ status: "active"
     - **(C)** For purposes of this paragraph, the term “rural air ambulance service” means fixed wing and rotary wing air ambulance service in which the point of pick up of the individual occurs in a rural area (as defined in section 1395ww(d)(2)(D) of this title ) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
     - **(D)**
       - **(i)** Subparagraph (B)(i) shall not apply if there is a financial or employment relationship between the person requesting the rural air ambulance service and the entity furnishing the ambulance service, or an entity under common ownership with the entity furnishing the air ambulance service, or a financial relationship between an immediate family member of such requester and such an entity.
-      - **(ii)** Where a hospital and the entity furnishing rural air ambulance services are under common ownership, clause (i) shall not apply to remuneration (through employment or other relationship) by the hospital of the requester or immediate family member if the remuneration is for provider-based physician services furnished in a hospital (as described in section 1395xx of this title ) which are reimbursed under part A of this subchapter and the amount of the remuneration is unrelated directly or indirectly to the provision of rural air ambulance services.
+      - **(ii)** Where a hospital and the entity furnishing rural air ambulance services are under common ownership, clause (i) shall not apply to remuneration (through employment or other relationship) by the hospital of the requester or immediate family member if the remuneration is for provider-based physician services furnished in a hospital (as described in section 1395xx of this title ) which are reimbursed under part A and the amount of the remuneration is unrelated directly or indirectly to the provision of rural air ambulance services.
   - **(15)** The fee schedule amount otherwise applicable under the preceding provisions of this subsection shall be reduced by 10 percent for ambulance services furnished on or after October 1, 2013 , consisting of non-emergency basic life support services involving transport of an individual with end-stage renal disease for renal dialysis services (as described in section 1395rr(b)(14)(B) of this title ) furnished other than on an emergency basis by a provider of services or a renal dialysis facility.
   - **(16)**
     - **(A)** Beginning January 1, 2017 , if the expansion to all States of the model of prior authorization described in paragraph (2) of section 515(a) of the Medicare Access and CHIP Reauthorization Act of 2015 meets the requirements described in paragraphs (1) through (3) of section 1315a(c) of this title , then the Secretary shall expand such model to all States.

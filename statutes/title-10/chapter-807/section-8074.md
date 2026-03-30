@@ -3,9 +3,9 @@ title: "Section 8074 - Commands: territorial organization"
 usc_title: 10
 usc_section: "8074"
 chapter: 807
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8074"
-generated_at: "2026-03-30T05:49:31.701Z"
+generated_at: "2026-03-30T05:52:47.228Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1767 - Fiscal agents and depositories; authorization to secure d
 usc_title: 12
 usc_section: "1767"
 chapter: 14
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 1767"
-generated_at: "2026-03-30T05:49:42.279Z"
+generated_at: "2026-03-30T05:52:55.810Z"
 status: "active"
 ---
 

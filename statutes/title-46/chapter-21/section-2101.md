@@ -3,9 +3,9 @@ title: "Section 2101 - General definitions"
 usc_title: 46
 usc_section: "2101"
 chapter: 21
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 2101"
-generated_at: "2026-03-30T05:52:11.958Z"
+generated_at: "2026-03-30T05:54:44.406Z"
 status: "active"
 ---
 

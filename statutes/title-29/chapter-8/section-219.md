@@ -3,9 +3,9 @@ title: "Section 219 - Separability"
 usc_title: 29
 usc_section: "219"
 chapter: 8
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 219"
-generated_at: "2026-03-30T05:50:36.149Z"
+generated_at: "2026-03-30T05:53:28.096Z"
 status: "active"
 ---
 

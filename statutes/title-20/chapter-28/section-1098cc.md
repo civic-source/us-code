@@ -3,9 +3,9 @@ title: "Section 1098cc - Tuition refunds or credits for members of armed forces"
 usc_title: 20
 usc_section: "1098cc"
 chapter: 28
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 1098cc"
-generated_at: "2026-03-30T05:49:51.974Z"
+generated_at: "2026-03-30T05:53:04.461Z"
 status: "active"
 ---
 

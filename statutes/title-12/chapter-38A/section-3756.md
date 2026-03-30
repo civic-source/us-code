@@ -3,9 +3,9 @@ title: "Section 3756 - Commencement of foreclosure"
 usc_title: 12
 usc_section: "3756"
 chapter: 38
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 3756"
-generated_at: "2026-03-30T05:49:42.335Z"
+generated_at: "2026-03-30T05:52:55.867Z"
 status: "active"
 ---
 

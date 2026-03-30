@@ -3,9 +3,9 @@ title: "Section 269h - International Union for the Publication of Customs Tariff
 usc_title: 22
 usc_section: "269h"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 269h"
-generated_at: "2026-03-30T05:49:57.981Z"
+generated_at: "2026-03-30T05:53:23.495Z"
 status: "active"
 ---
 

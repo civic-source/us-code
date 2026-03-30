@@ -3,9 +3,9 @@ title: "Section 8962 - Repealed. Pub. L. 107–110, title X , § 1011(5)(C), Jan
 usc_title: 20
 usc_section: "8962"
 chapter: 70
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 8962"
-generated_at: "2026-03-30T05:49:52.048Z"
+generated_at: "2026-03-30T05:53:04.538Z"
 status: "repealed"
 ---
 

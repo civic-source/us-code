@@ -3,9 +3,9 @@ title: "Section 511 - Authorization of appropriations"
 usc_title: 36
 usc_section: "511"
 chapter: 5
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 511"
-generated_at: "2026-03-30T05:51:15.257Z"
+generated_at: "2026-03-30T05:54:01.316Z"
 status: "active"
 ---
 

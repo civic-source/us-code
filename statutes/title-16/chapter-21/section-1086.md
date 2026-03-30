@@ -3,9 +3,9 @@ title: "Section 1086 - Repealed. Pub. L. 94–265, title IV , § 402(b), Apr. 13
 usc_title: 16
 usc_section: "1086"
 chapter: 21
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1086"
-generated_at: "2026-03-30T05:49:48.263Z"
+generated_at: "2026-03-30T05:53:07.707Z"
 status: "repealed"
 ---
 

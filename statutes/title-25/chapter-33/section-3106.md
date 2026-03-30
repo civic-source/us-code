@@ -3,9 +3,9 @@ title: "Section 3106 - Forest trespass"
 usc_title: 25
 usc_section: "3106"
 chapter: 33
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 3106"
-generated_at: "2026-03-30T05:49:55.435Z"
+generated_at: "2026-03-30T05:53:16.820Z"
 status: "active"
 ---
 

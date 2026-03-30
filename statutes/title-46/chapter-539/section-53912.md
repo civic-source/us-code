@@ -3,9 +3,9 @@ title: "Section 53912 - Expiration date"
 usc_title: 46
 usc_section: "53912"
 chapter: 539
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "46 U.S.C. § 53912"
-generated_at: "2026-03-30T05:52:11.986Z"
+generated_at: "2026-03-30T05:54:44.434Z"
 status: "active"
 ---
 

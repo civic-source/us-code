@@ -3,9 +3,9 @@ title: "Section 8032 - The Air Staff: general duties"
 usc_title: 10
 usc_section: "8032"
 chapter: 805
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8032"
-generated_at: "2026-03-30T05:49:31.701Z"
+generated_at: "2026-03-30T05:52:47.228Z"
 status: "active"
 ---
 

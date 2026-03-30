@@ -3,9 +3,9 @@ title: "Section 6611 - Interest on overpayments"
 usc_title: 26
 usc_section: "6611"
 chapter: 67
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6611"
-generated_at: "2026-03-30T05:50:45.351Z"
+generated_at: "2026-03-30T05:53:36.602Z"
 status: "active"
 ---
 

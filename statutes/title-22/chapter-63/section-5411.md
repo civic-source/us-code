@@ -3,9 +3,9 @@ title: "Section 5411 - Multilateral support for structural adjustment in Poland 
 usc_title: 22
 usc_section: "5411"
 chapter: 63
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 5411"
-generated_at: "2026-03-30T05:49:58.072Z"
+generated_at: "2026-03-30T05:53:23.587Z"
 status: "active"
 ---
 

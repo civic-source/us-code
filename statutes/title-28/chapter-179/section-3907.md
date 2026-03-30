@@ -3,9 +3,9 @@ title: "Section 3907 - Other judicial review prohibited"
 usc_title: 28
 usc_section: "3907"
 chapter: 179
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "28 U.S.C. § 3907"
-generated_at: "2026-03-30T05:50:12.999Z"
+generated_at: "2026-03-30T05:53:26.543Z"
 status: "active"
 ---
 

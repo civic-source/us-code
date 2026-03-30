@@ -3,9 +3,9 @@ title: "Section 213 - Fraudulent representations to evade or defeat restrictions
 usc_title: 21
 usc_section: "213"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 213"
-generated_at: "2026-03-30T05:50:09.599Z"
+generated_at: "2026-03-30T05:53:21.563Z"
 status: "active"
 ---
 

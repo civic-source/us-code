@@ -3,9 +3,9 @@ title: "Section 60 - Training course on workings of Congress"
 usc_title: 14
 usc_section: "60"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 60"
-generated_at: "2026-03-30T05:49:35.031Z"
+generated_at: "2026-03-30T05:52:49.220Z"
 status: "active"
 ---
 

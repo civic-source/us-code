@@ -3,9 +3,9 @@ title: "Section 113 - Premiums; late enrollment penalty"
 usc_title: 42
 usc_section: "113"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-30T05:52:02.743Z"
+generated_at: "2026-03-30T05:54:40.263Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
       - **(ii)** If for a month the amount of the adjusted national average monthly bid amount for the month exceeds the standardized bid amount, the base beneficiary premium for the month shall be decreased by the amount of such excess.
       - **(iii)** For purposes of this subparagraph, the term “adjusted national average monthly bid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title .
     - **(C)** The base beneficiary premium shall be increased by the portion of the PDP approved bid that is attributable to supplemental prescription drug benefits.
-    - **(D)** The base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b) of this section.
+    - **(D)** The base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b).
     - **(E)** The monthly beneficiary premium is subject to decrease in the case of a subsidy eligible individual under section 1395w–114 of this title .
     - **(F)** The monthly beneficiary premium shall be increased pursuant to paragraph (7).
     - **(G)** Except as provided in subparagraphs (D), (E), and (F), the monthly beneficiary premium for a prescription drug plan in a PDP region is the same for all part D eligible individuals enrolled in the plan.
@@ -62,16 +62,16 @@ status: "active"
         - **(IV)** Any other information the Commissioner of Social Security determines necessary to carry out the income-related increase in the base beneficiary premium under this paragraph.
     - **(F)** The formula used to determine the monthly adjustment amount specified under subparagraph (B) shall only be used for the purpose of determining such monthly adjustment amount under such subparagraph.
 - **(b)**
-  - **(1)** Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) of this section in an amount determined under paragraph (3).
+  - **(1)** Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) in an amount determined under paragraph (3).
   - **(2)** A part D eligible individual described in this paragraph is, with respect to a continuous period of eligibility, an individual for whom there is a continuous period of 63 days or longer (all of which in such continuous period of eligibility) beginning on the day after the last date of the individual’s initial enrollment period under section 1395w–101(b)(2) of this title and ending on the date of enrollment under a prescription drug plan or MA–PD plan during all of which the individual was not covered under any creditable prescription drug coverage.
   - **(3)**
     - **(A)** The amount determined under this paragraph for a part D eligible individual for a continuous period of eligibility is the greater of—
       - **(i)** an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
-      - **(ii)** 1 percent of the base beneficiary premium (computed under subsection (a)(2) of this section) for each such uncovered month in such period.
+      - **(ii)** 1 percent of the base beneficiary premium (computed under subsection (a)(2)) for each such uncovered month in such period.
     - **(B)** For purposes of this subsection, the term “uncovered month” means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of this title unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
   - **(4)** For purposes of this part, the term “creditable prescription drug coverage” means any of the following coverage, but only if the coverage meets the requirement of paragraph (5):
     - **(A)** Coverage under a prescription drug plan or under an MA–PD plan.
-    - **(B)** Coverage under a medicaid plan under subchapter XIX of this chapter or under a waiver under section 1315 of this title .
+    - **(B)** Coverage under a medicaid plan under subchapter XIX or under a waiver under section 1315 of this title .
     - **(C)** Coverage under a group health plan, including a health benefits plan under chapter 89 of title 5 (commonly known as the Federal employees health benefits program), and a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title ).
     - **(D)** Coverage under a State pharmaceutical assistance program described in section 1395w–133(b)(1) of this title .
     - **(E)** Coverage for veterans, and survivors and dependents of veterans, under chapter 17 of title 38.
@@ -87,14 +87,14 @@ status: "active"
     - **(C)** In the case of a part D eligible individual who was enrolled in prescription drug coverage of the type described in subparagraphs (B) through (H) of paragraph (4) which is not creditable prescription drug coverage because it does not meet the requirement of paragraph (5), the individual may apply to the Secretary to have such coverage treated as creditable prescription drug coverage if the individual establishes that the individual was not adequately informed that such coverage did not meet such requirement.
   - **(7)**
     - **(A)** Subject to subparagraph (B), for purposes of this subsection, the term “continuous period of eligibility” means, with respect to a part D eligible individual, the period that begins with the first day on which the individual is eligible to enroll in a prescription drug plan under this part and ends with the individual’s death.
-    - **(B)** Any period during all of which a part D eligible individual is entitled to hospital insurance benefits under part A of this subchapter and—
+    - **(B)** Any period during all of which a part D eligible individual is entitled to hospital insurance benefits under part A and—
       - **(i)** which terminated in or before the month preceding the month in which the individual attained age 65; or
       - **(ii)** for which the basis for eligibility for such entitlement changed between section 426(b) of this title and section 426(a) of this title , between 426(b) 2 2 So in original. Probably should be “section 426(b)”. of this title and section 426–1 of this title , or between section 426–1 of this title and section 426(a) of this title ,
   - **(8)** In no case shall a part D eligible individual who is determined to be a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title ) be subject to an increase in the monthly beneficiary premium established under subsection (a).
 - **(c)**
-  - **(1)** Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C of this subchapter, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
+  - **(1)** Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
   - **(2)**
-    - **(A)** With respect to late enrollment penalties imposed under subsection (b) of this section, the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title ) as a result of such late enrollment.
+    - **(A)** With respect to late enrollment penalties imposed under subsection (b), the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title ) as a result of such late enrollment.
     - **(B)** In the case of a late enrollment penalty that is collected from a part D eligible individual in the manner described in section 1395w–24(d)(2)(A) of this title , the Secretary shall provide that only the portion of such penalty estimated under subparagraph (A) shall be paid to the PDP sponsor or MA organization offering the part D plan in which the individual is enrolled.
     - **(C)** In the case of a late enrollment penalty that is collected from a part D eligible individual in a manner other than the manner described in section 1395w–24(d)(2)(A) of this title , the Secretary shall establish procedures for reducing payments otherwise made to the PDP sponsor or MA organization by an amount equal to the amount of such penalty less the portion of such penalty estimated under subparagraph (A).
   - **(3)** In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the manner specified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title ).

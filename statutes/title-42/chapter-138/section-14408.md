@@ -3,9 +3,9 @@ title: "Section 14408 - Relation to other laws"
 usc_title: 42
 usc_section: "14408"
 chapter: 138
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14408"
-generated_at: "2026-03-30T05:52:03.153Z"
+generated_at: "2026-03-30T05:54:40.673Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6553 - Accelerated information gathering regarding forest-damagi
 usc_title: 16
 usc_section: "6553"
 chapter: 84
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 6553"
-generated_at: "2026-03-30T05:49:48.337Z"
+generated_at: "2026-03-30T05:53:07.780Z"
 status: "active"
 ---
 

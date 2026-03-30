@@ -3,9 +3,9 @@ title: "Section 141a - Revision of boundaries"
 usc_title: 16
 usc_section: "141a"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 141a"
-generated_at: "2026-03-30T05:49:48.129Z"
+generated_at: "2026-03-30T05:53:07.573Z"
 status: "active"
 ---
 

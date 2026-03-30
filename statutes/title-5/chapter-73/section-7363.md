@@ -3,9 +3,9 @@ title: "Section 7363 - Reports to Congress"
 usc_title: 5
 usc_section: "7363"
 chapter: 73
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 7363"
-generated_at: "2026-03-30T05:49:20.478Z"
+generated_at: "2026-03-30T05:52:33.955Z"
 status: "active"
 ---
 

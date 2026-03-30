@@ -3,9 +3,9 @@ title: "Section 2351 - “Firm” defined"
 usc_title: 19
 usc_section: "2351"
 chapter: 12
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2351"
-generated_at: "2026-03-30T05:49:50.268Z"
+generated_at: "2026-03-30T05:53:13.067Z"
 status: "active"
 ---
 

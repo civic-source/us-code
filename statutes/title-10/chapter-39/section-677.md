@@ -3,9 +3,9 @@ title: "Section 677 - Renumbered § 12309]"
 usc_title: 10
 usc_section: "677"
 chapter: 39
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 677"
-generated_at: "2026-03-30T05:49:31.601Z"
+generated_at: "2026-03-30T05:52:47.127Z"
 status: "renumbered"
 ---
 

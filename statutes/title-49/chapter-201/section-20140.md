@@ -3,9 +3,9 @@ title: "Section 20140 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "20140"
 chapter: 201
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 20140"
-generated_at: "2026-03-30T05:52:14.950Z"
+generated_at: "2026-03-30T05:54:48.293Z"
 status: "active"
 ---
 

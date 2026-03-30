@@ -3,9 +3,9 @@ title: "Section 892 - Making extortionate extensions of credit"
 usc_title: 18
 usc_section: "892"
 chapter: 42
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 892"
-generated_at: "2026-03-30T05:49:49.188Z"
+generated_at: "2026-03-30T05:53:09.635Z"
 status: "active"
 ---
 

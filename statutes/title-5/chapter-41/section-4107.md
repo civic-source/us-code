@@ -3,9 +3,9 @@ title: "Section 4107 - Academic degree training"
 usc_title: 5
 usc_section: "4107"
 chapter: 41
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 4107"
-generated_at: "2026-03-30T05:49:20.460Z"
+generated_at: "2026-03-30T05:52:33.936Z"
 status: "active"
 ---
 

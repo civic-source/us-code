@@ -3,9 +3,9 @@ title: "Section 2920 - Transferred"
 usc_title: 29
 usc_section: "2920"
 chapter: 30
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "29 U.S.C. § 2920"
-generated_at: "2026-03-30T05:50:36.203Z"
+generated_at: "2026-03-30T05:53:28.142Z"
 status: "transferred"
 ---
 

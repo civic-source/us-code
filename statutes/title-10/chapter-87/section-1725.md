@@ -3,9 +3,9 @@ title: "Section 1725 - Repealed. Pub. L. 108–136, div. A, title VIII , § 832(
 usc_title: 10
 usc_section: "1725"
 chapter: 87
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 1725"
-generated_at: "2026-03-30T05:49:31.636Z"
+generated_at: "2026-03-30T05:52:47.164Z"
 status: "repealed"
 ---
 

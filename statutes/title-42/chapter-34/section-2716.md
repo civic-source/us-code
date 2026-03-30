@@ -3,9 +3,9 @@ title: "Section 2716 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2716"
 chapter: 34
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 2716"
-generated_at: "2026-03-30T05:52:02.884Z"
+generated_at: "2026-03-30T05:54:40.402Z"
 status: "repealed"
 ---
 

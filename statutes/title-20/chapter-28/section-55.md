@@ -3,9 +3,9 @@ title: "Section 55 - Flexible use of funds"
 usc_title: 20
 usc_section: "55"
 chapter: 28
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 55"
-generated_at: "2026-03-30T05:49:51.960Z"
+generated_at: "2026-03-30T05:53:04.446Z"
 status: "active"
 ---
 

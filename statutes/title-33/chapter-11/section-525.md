@@ -3,9 +3,9 @@ title: "Section 525 - Construction and operation of bridges"
 usc_title: 33
 usc_section: "525"
 chapter: 11
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 525"
-generated_at: "2026-03-30T05:51:10.131Z"
+generated_at: "2026-03-30T05:53:40.400Z"
 status: "active"
 ---
 

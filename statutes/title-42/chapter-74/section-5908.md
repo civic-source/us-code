@@ -3,9 +3,9 @@ title: "Section 5908 - Patents and inventions"
 usc_title: 42
 usc_section: "5908"
 chapter: 74
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5908"
-generated_at: "2026-03-30T05:52:02.962Z"
+generated_at: "2026-03-30T05:54:40.481Z"
 status: "active"
 ---
 

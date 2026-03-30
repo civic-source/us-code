@@ -3,16 +3,16 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-30T05:52:02.685Z"
+generated_at: "2026-03-30T05:54:40.205Z"
 status: "active"
 ---
 
 # § 1103. Amounts transferred to State accounts
 
 - **(a)**
-  - **(1)** If as of the close of any fiscal year after the fiscal year ending June 30, 1972 , the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title , such excess amount, except as provided in subsection (b) of this section, shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
+  - **(1)** If as of the close of any fiscal year after the fiscal year ending June 30, 1972 , the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title , such excess amount, except as provided in subsection (b), shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
   - **(2)** Each State’s share of the funds to be transferred under this subsection as of any October 1—
     - **(A)** shall be determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury before such date, and
     - **(B)** shall bear the same ratio to the total amount to be so transferred as—
@@ -22,13 +22,13 @@ status: "active"
   - **(1)** If the Secretary of Labor finds that on October 1 of any fiscal year—
     - **(A)** a State is not eligible for certification under section 503 of this title , or
     - **(B)** the law of a State is not approvable under section 3304 of the Federal Unemployment Tax Act [ 26 U.S.C. 3304 ],
-  - **(2)** The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title . The sum by which such amount is reduced shall—
+  - **(2)** The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title . The sum by which such amount is reduced shall—
     - **(A)** be transferred to or retained in (as the case may be) the Federal unemployment account, and
     - **(B)** be credited against, and operate to reduce—
       - **(i)** first, any balance of advances made before September 13, 1960 , to the State under section 1321 of this title , and
       - **(ii)** second, any balance of advances made on or after September 13, 1960 , to the State under section 1321 of this title .
 - **(c)**
-  - **(1)** Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
+  - **(1)** Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
   - **(2)** A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for the administration of its unemployment compensation law and public employment offices if and only if—
     - **(A)** the purposes and amounts were specified in the law making the appropriation,
     - **(B)** the appropriation law did not authorize the obligation of such money after the close of the two-year period which began on the date of enactment of the appropriation law,
@@ -73,7 +73,7 @@ status: "active"
         - **(I)** Individuals who are seeking, or available for, only part-time (and not full-time) work.
         - **(II)** Individuals who would be eligible for regular compensation under the unemployment compensation law of such State under an alternative base period.
     - **(D)** Amounts transferred to a State account under this subsection may be used in the payment of cash benefits to individuals only for weeks of unemployment beginning after March 9, 2002 .
-  - **(4)** Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) of this section (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection).
+  - **(4)** Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection).
   - **(5)** Transfers under this subsection shall be made within 10 days after March 9, 2002 .
 - **(e)** Not later than 10 days after October 20, 2005 , the Secretary of the Treasury shall transfer from the Federal unemployment account—
   - **(1)** $15,000,000 to the account of Alabama in the Unemployment Trust Fund;

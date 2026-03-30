@@ -3,9 +3,9 @@ title: "Section 5783 - Grants for delinquency prevention programs"
 usc_title: 42
 usc_section: "5783"
 chapter: 72
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5783"
-generated_at: "2026-03-30T05:52:02.958Z"
+generated_at: "2026-03-30T05:54:40.477Z"
 status: "active"
 ---
 

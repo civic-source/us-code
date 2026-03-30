@@ -3,9 +3,9 @@ title: "Section 9253 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22
 usc_title: 20
 usc_section: "9253"
 chapter: 73
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 9253"
-generated_at: "2026-03-30T05:49:52.050Z"
+generated_at: "2026-03-30T05:53:04.541Z"
 status: "repealed"
 ---
 

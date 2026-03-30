@@ -3,9 +3,9 @@ title: "Section 525 - Disobedience to subpoenas"
 usc_title: 49
 usc_section: "525"
 chapter: 5
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 525"
-generated_at: "2026-03-30T05:52:14.922Z"
+generated_at: "2026-03-30T05:54:48.263Z"
 status: "active"
 ---
 

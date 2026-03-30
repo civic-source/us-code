@@ -3,9 +3,9 @@ title: "Section 6212 - Authority to receive reimbursement"
 usc_title: 15
 usc_section: "6212"
 chapter: 88
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 6212"
-generated_at: "2026-03-30T05:49:38.552Z"
+generated_at: "2026-03-30T05:52:57.843Z"
 status: "active"
 ---
 

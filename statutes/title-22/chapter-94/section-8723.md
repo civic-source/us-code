@@ -3,9 +3,9 @@ title: "Section 8723 - Imposition of sanctions with respect to purchase, subscri
 usc_title: 22
 usc_section: "8723"
 chapter: 94
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 8723"
-generated_at: "2026-03-30T05:49:58.105Z"
+generated_at: "2026-03-30T05:53:23.621Z"
 status: "active"
 ---
 

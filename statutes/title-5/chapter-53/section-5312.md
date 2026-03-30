@@ -3,9 +3,9 @@ title: "Section 5312 - Positions at level I"
 usc_title: 5
 usc_section: "5312"
 chapter: 53
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 5312"
-generated_at: "2026-03-30T05:49:20.463Z"
+generated_at: "2026-03-30T05:52:33.938Z"
 status: "active"
 ---
 

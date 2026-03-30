@@ -3,9 +3,9 @@ title: "Section 1143 - Security background checks of covered individuals for pub
 usc_title: 6
 usc_section: "1143"
 chapter: 4
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 1143"
-generated_at: "2026-03-30T05:49:24.531Z"
+generated_at: "2026-03-30T05:52:37.250Z"
 status: "active"
 ---
 

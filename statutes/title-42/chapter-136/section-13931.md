@@ -3,9 +3,9 @@ title: "Section 13931 - Grants for capital improvements to prevent crime in publ
 usc_title: 42
 usc_section: "13931"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13931"
-generated_at: "2026-03-30T05:52:03.142Z"
+generated_at: "2026-03-30T05:54:40.662Z"
 status: "active"
 ---
 

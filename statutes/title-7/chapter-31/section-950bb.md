@@ -3,9 +3,9 @@ title: "Section 950bb - Access to broadband telecommunications services in rural
 usc_title: 7
 usc_section: "950bb"
 chapter: 31
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 950bb"
-generated_at: "2026-03-30T05:49:28.518Z"
+generated_at: "2026-03-30T05:52:41.108Z"
 status: "active"
 ---
 

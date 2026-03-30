@@ -3,9 +3,9 @@ title: "Section 48 - Omitted"
 usc_title: 43
 usc_section: "48"
 chapter: 2
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "43 U.S.C. § 48"
-generated_at: "2026-03-30T05:51:33.069Z"
+generated_at: "2026-03-30T05:54:26.496Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3503 - Functions"
 usc_title: 22
 usc_section: "3503"
 chapter: 50
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 3503"
-generated_at: "2026-03-30T05:49:58.051Z"
+generated_at: "2026-03-30T05:53:23.566Z"
 status: "active"
 ---
 

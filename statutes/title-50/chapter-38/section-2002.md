@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions relating to participants and annuitants"
 usc_title: 50
 usc_section: "2002"
 chapter: 38
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2002"
-generated_at: "2026-03-30T05:52:07.053Z"
+generated_at: "2026-03-30T05:54:46.390Z"
 status: "active"
 ---
 

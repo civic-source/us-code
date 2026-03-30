@@ -3,9 +3,9 @@ title: "Section 7607 - Rulemaking by Federal Trade Commission"
 usc_title: 15
 usc_section: "7607"
 chapter: 102
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7607"
-generated_at: "2026-03-30T05:49:38.566Z"
+generated_at: "2026-03-30T05:52:57.857Z"
 status: "active"
 ---
 

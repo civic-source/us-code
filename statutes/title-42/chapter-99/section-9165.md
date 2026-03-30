@@ -3,9 +3,9 @@ title: "Section 9165 - Omitted"
 usc_title: 42
 usc_section: "9165"
 chapter: 99
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 9165"
-generated_at: "2026-03-30T05:52:03.051Z"
+generated_at: "2026-03-30T05:54:40.571Z"
 status: "omitted"
 ---
 

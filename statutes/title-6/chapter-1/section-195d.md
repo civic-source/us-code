@@ -3,9 +3,9 @@ title: "Section 195d - Social media working group"
 usc_title: 6
 usc_section: "195d"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "6 U.S.C. § 195d"
-generated_at: "2026-03-30T05:49:24.509Z"
+generated_at: "2026-03-30T05:52:37.228Z"
 status: "active"
 ---
 

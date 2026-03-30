@@ -3,9 +3,9 @@ title: "Section 209 - Copies of Supplements to Code of Laws of United States and
 usc_title: 1
 usc_section: "209"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "1 U.S.C. § 209"
-generated_at: "2026-03-30T05:49:11.169Z"
+generated_at: "2026-03-30T05:52:31.795Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17723 - Repealed or Transferred"
 usc_title: 42
 usc_section: "17723"
 chapter: 155
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 17723"
-generated_at: "2026-03-30T05:52:03.195Z"
+generated_at: "2026-03-30T05:54:40.716Z"
 status: "repealed"
 ---
 

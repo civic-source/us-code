@@ -3,9 +3,9 @@ title: "Section 605 - Administrative provisions"
 usc_title: 42
 usc_section: "605"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 605"
-generated_at: "2026-03-30T05:52:02.664Z"
+generated_at: "2026-03-30T05:54:40.184Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based on a report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under the State program funded under this part and such other information as the Secretary may find necessary.
   - **(2)** The Secretary of Health and Human Services shall certify to the Secretary of the Treasury the amount estimated under paragraph (1) with respect to a State, reduced or increased to the extent of any overpayment or underpayment which the Secretary of Health and Human Services determines was made under this part to the State for any prior quarter and with respect to which adjustment has not been made under this paragraph.
-- **(d)** Upon receipt of a certification under subsection (c)(2) of this section with respect to a State, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
+- **(d)** Upon receipt of a certification under subsection (c)(2) with respect to a State, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.

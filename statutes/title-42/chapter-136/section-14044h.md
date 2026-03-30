@@ -3,9 +3,9 @@ title: "Section 14044h - Establishing a national strategy to combat human traffi
 usc_title: 42
 usc_section: "14044h"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14044h"
-generated_at: "2026-03-30T05:52:03.147Z"
+generated_at: "2026-03-30T05:54:40.666Z"
 status: "active"
 ---
 

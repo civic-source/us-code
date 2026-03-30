@@ -3,9 +3,9 @@ title: "Section 4404 - Territorial extent"
 usc_title: 26
 usc_section: "4404"
 chapter: 35
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 4404"
-generated_at: "2026-03-30T05:50:45.305Z"
+generated_at: "2026-03-30T05:53:36.556Z"
 status: "active"
 ---
 

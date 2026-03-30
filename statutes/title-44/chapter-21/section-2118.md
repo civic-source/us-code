@@ -3,9 +3,9 @@ title: "Section 2118 - Records of Congress"
 usc_title: 44
 usc_section: "2118"
 chapter: 21
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "44 U.S.C. § 2118"
-generated_at: "2026-03-30T05:51:31.742Z"
+generated_at: "2026-03-30T05:54:32.610Z"
 status: "active"
 ---
 

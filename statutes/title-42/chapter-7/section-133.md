@@ -3,16 +3,16 @@ title: "Section 133 - State Pharmaceutical Assistance Programs"
 usc_title: 42
 usc_section: "133"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-03-30T05:52:02.745Z"
+generated_at: "2026-03-30T05:54:40.265Z"
 status: "active"
 ---
 
 # § 1395w–133. State Pharmaceutical Assistance Programs
 
 - **(a)**
-  - **(1)** Before July 1, 2005 , the Secretary shall establish consistent with this section requirements for prescription drug plans to ensure the effective coordination between a part D plan (as defined in paragraph (5)) and a State Pharmaceutical Assistance Program (as defined in subsection (b) of this section) with respect to—
+  - **(1)** Before July 1, 2005 , the Secretary shall establish consistent with this section requirements for prescription drug plans to ensure the effective coordination between a part D plan (as defined in paragraph (5)) and a State Pharmaceutical Assistance Program (as defined in subsection (b)) with respect to—
     - **(A)** payment of premiums and coverage; and
     - **(B)** payment for supplemental prescription drug benefits,
   - **(2)** The requirements under paragraph (1) shall include requirements relating to coordination of each of the following:
@@ -28,7 +28,7 @@ status: "active"
 - **(b)** For purposes of this part, the term “State Pharmaceutical Assistance Program” means a State program—
   - **(1)** which provides financial assistance for the purchase or provision of supplemental prescription drug coverage or benefits on behalf of part D eligible individuals;
   - **(2)** which, in determining eligibility and the amount of assistance to part D eligible individuals under the Program, provides assistance to such individuals in all part D plans and does not discriminate based upon the part D plan in which the individual is enrolled; and
-  - **(3)** which satisfies the requirements of subsections (a) and (c) of this section.
+  - **(3)** which satisfies the requirements of subsections (a) and (c).
 - **(c)**
   - **(1)** The requirements of this section shall not change or affect the primary payor status of a part D plan.
   - **(2)** A card that is issued under section 1395w–104(b)(2)(A) of this title for use under a part D plan may also be used in connection with coverage of benefits provided under a State Pharmaceutical Assistance Program and, in such case, may contain an emblem or symbol indicating such connection.

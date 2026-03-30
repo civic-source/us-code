@@ -3,9 +3,9 @@ title: "Section 2238c - Additional measures at donor ports and energy transfer p
 usc_title: 33
 usc_section: "2238c"
 chapter: 36
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2238c"
-generated_at: "2026-03-30T05:51:10.170Z"
+generated_at: "2026-03-30T05:53:40.443Z"
 status: "active"
 ---
 

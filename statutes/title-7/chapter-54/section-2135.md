@@ -3,9 +3,9 @@ title: "Section 2135 - Time period for disposal of dogs or cats by dealers or ex
 usc_title: 7
 usc_section: "2135"
 chapter: 54
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2135"
-generated_at: "2026-03-30T05:49:28.574Z"
+generated_at: "2026-03-30T05:52:41.165Z"
 status: "active"
 ---
 

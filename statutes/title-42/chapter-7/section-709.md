@@ -3,9 +3,9 @@ title: "Section 709 - Administration of Federal and State programs"
 usc_title: 42
 usc_section: "709"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 709"
-generated_at: "2026-03-30T05:52:02.681Z"
+generated_at: "2026-03-30T05:54:40.201Z"
 status: "active"
 ---
 

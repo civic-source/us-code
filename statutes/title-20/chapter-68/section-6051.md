@@ -3,9 +3,9 @@ title: "Section 6051 - Repealed. Pub. L. 107–279, title IV , § 403(2), Nov. 5
 usc_title: 20
 usc_section: "6051"
 chapter: 68
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6051"
-generated_at: "2026-03-30T05:49:52.020Z"
+generated_at: "2026-03-30T05:53:04.509Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2003 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "2003"
 chapter: 46
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 2003"
-generated_at: "2026-03-30T05:49:38.509Z"
+generated_at: "2026-03-30T05:52:57.799Z"
 status: "repealed"
 ---
 

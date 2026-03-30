@@ -3,9 +3,9 @@ title: "Section 13777 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13777"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13777"
-generated_at: "2026-03-30T05:52:03.139Z"
+generated_at: "2026-03-30T05:54:40.659Z"
 status: "active"
 ---
 

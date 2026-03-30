@@ -3,9 +3,9 @@ title: "Section 6315 - Targeted assistance schools"
 usc_title: 20
 usc_section: "6315"
 chapter: 70
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 6315"
-generated_at: "2026-03-30T05:49:52.023Z"
+generated_at: "2026-03-30T05:53:04.512Z"
 status: "active"
 ---
 

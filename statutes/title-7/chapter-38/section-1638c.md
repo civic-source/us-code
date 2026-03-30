@@ -3,9 +3,9 @@ title: "Section 1638c - Regulations"
 usc_title: 7
 usc_section: "1638c"
 chapter: 38
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1638c"
-generated_at: "2026-03-30T05:49:28.543Z"
+generated_at: "2026-03-30T05:52:41.134Z"
 status: "active"
 ---
 

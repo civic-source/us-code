@@ -3,9 +3,9 @@ title: "Section 2516 - Authorization for interception of wire, oral, or electron
 usc_title: 18
 usc_section: "2516"
 chapter: 119
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2516"
-generated_at: "2026-03-30T05:49:49.216Z"
+generated_at: "2026-03-30T05:53:09.660Z"
 status: "active"
 ---
 

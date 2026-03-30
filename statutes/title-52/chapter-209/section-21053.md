@@ -3,9 +3,9 @@ title: "Section 21053 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21053"
 chapter: 209
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "52 U.S.C. § 21053"
-generated_at: "2026-03-30T05:52:21.435Z"
+generated_at: "2026-03-30T05:54:50.339Z"
 status: "active"
 ---
 

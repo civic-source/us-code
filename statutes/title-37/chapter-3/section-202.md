@@ -3,9 +3,9 @@ title: "Section 202 - Pay grades: retired Coast Guard rear admirals (lower half)
 usc_title: 37
 usc_section: "202"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 202"
-generated_at: "2026-03-30T05:51:22.231Z"
+generated_at: "2026-03-30T05:54:10.339Z"
 status: "active"
 ---
 

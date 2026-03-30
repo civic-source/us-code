@@ -3,9 +3,9 @@ title: "Section 291 - Lease of gold, silver, or quicksilver deposits on lands ti
 usc_title: 30
 usc_section: "291"
 chapter: 4
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 291"
-generated_at: "2026-03-30T05:50:11.851Z"
+generated_at: "2026-03-30T05:53:29.528Z"
 status: "active"
 ---
 

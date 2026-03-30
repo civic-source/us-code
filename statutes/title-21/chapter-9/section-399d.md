@@ -3,9 +3,9 @@ title: "Section 399d - Employee protections"
 usc_title: 21
 usc_section: "399d"
 chapter: 9
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 399d"
-generated_at: "2026-03-30T05:50:09.650Z"
+generated_at: "2026-03-30T05:53:21.608Z"
 status: "active"
 ---
 

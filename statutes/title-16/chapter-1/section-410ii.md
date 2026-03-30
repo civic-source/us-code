@@ -3,9 +3,9 @@ title: "Section 410ii - Findings and purpose"
 usc_title: 16
 usc_section: "410ii"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 410ii"
-generated_at: "2026-03-30T05:49:48.150Z"
+generated_at: "2026-03-30T05:53:07.594Z"
 status: "active"
 ---
 

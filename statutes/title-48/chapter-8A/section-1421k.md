@@ -3,9 +3,9 @@ title: "Section 1421k - Designation of naval or military reservations; closed po
 usc_title: 48
 usc_section: "1421k"
 chapter: 8
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "48 U.S.C. § 1421k"
-generated_at: "2026-03-30T05:52:11.326Z"
+generated_at: "2026-03-30T05:54:44.762Z"
 status: "active"
 ---
 

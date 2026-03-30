@@ -3,9 +3,9 @@ title: "Section 2353 - Repealed. Pub. L. 97–35, title XXV , § 2526, Aug. 13, 
 usc_title: 19
 usc_section: "2353"
 chapter: 12
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "19 U.S.C. § 2353"
-generated_at: "2026-03-30T05:49:50.268Z"
+generated_at: "2026-03-30T05:53:13.067Z"
 status: "repealed"
 ---
 

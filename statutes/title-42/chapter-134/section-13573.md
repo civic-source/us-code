@@ -3,9 +3,9 @@ title: "Section 13573 - Generation projects"
 usc_title: 42
 usc_section: "13573"
 chapter: 134
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13573"
-generated_at: "2026-03-30T05:52:03.137Z"
+generated_at: "2026-03-30T05:54:40.656Z"
 status: "active"
 ---
 

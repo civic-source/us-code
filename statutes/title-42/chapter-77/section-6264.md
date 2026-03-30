@@ -3,9 +3,9 @@ title: "Section 6264 - Repealed. Pub. L. 106–469, title I , § 104(1), Nov. 9,
 usc_title: 42
 usc_section: "6264"
 chapter: 77
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 6264"
-generated_at: "2026-03-30T05:52:02.964Z"
+generated_at: "2026-03-30T05:54:40.484Z"
 status: "repealed"
 ---
 

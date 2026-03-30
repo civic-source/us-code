@@ -3,9 +3,9 @@ title: "Section 2626 - Reports respecting standards"
 usc_title: 16
 usc_section: "2626"
 chapter: 46
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 2626"
-generated_at: "2026-03-30T05:49:48.305Z"
+generated_at: "2026-03-30T05:53:07.748Z"
 status: "active"
 ---
 

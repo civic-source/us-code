@@ -3,9 +3,9 @@ title: "Section 6388 - Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 
 usc_title: 10
 usc_section: "6388"
 chapter: 573
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 6388"
-generated_at: "2026-03-30T05:49:31.693Z"
+generated_at: "2026-03-30T05:52:47.220Z"
 status: "repealed"
 ---
 

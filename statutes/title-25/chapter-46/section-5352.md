@@ -3,9 +3,9 @@ title: "Section 5352 - General education contract and grant provisions and requi
 usc_title: 25
 usc_section: "5352"
 chapter: 46
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5352"
-generated_at: "2026-03-30T05:49:55.451Z"
+generated_at: "2026-03-30T05:53:16.835Z"
 status: "active"
 ---
 

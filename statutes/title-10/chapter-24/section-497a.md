@@ -3,9 +3,9 @@ title: "Section 497a - Notification required for reduction or consolidation of d
 usc_title: 10
 usc_section: "497a"
 chapter: 24
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 497a"
-generated_at: "2026-03-30T05:49:31.595Z"
+generated_at: "2026-03-30T05:52:47.121Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1293 - Employee protection"
 usc_title: 30
 usc_section: "1293"
 chapter: 25
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 1293"
-generated_at: "2026-03-30T05:50:11.871Z"
+generated_at: "2026-03-30T05:53:29.546Z"
 status: "active"
 ---
 

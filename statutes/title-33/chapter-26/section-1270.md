@@ -3,9 +3,9 @@ title: "Section 1270 - Lake Champlain Basin Program"
 usc_title: 33
 usc_section: "1270"
 chapter: 26
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 1270"
-generated_at: "2026-03-30T05:51:10.150Z"
+generated_at: "2026-03-30T05:53:40.419Z"
 status: "active"
 ---
 

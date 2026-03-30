@@ -3,9 +3,9 @@ title: "Section 720 - Definitions"
 usc_title: 15
 usc_section: "720"
 chapter: 15
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 720"
-generated_at: "2026-03-30T05:49:38.473Z"
+generated_at: "2026-03-30T05:52:57.762Z"
 status: "active"
 ---
 

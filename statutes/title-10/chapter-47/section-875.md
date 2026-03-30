@@ -3,9 +3,9 @@ title: "Section 875 - Art. 75. Restoration"
 usc_title: 10
 usc_section: "875"
 chapter: 47
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 875"
-generated_at: "2026-03-30T05:49:31.605Z"
+generated_at: "2026-03-30T05:52:47.132Z"
 status: "active"
 ---
 

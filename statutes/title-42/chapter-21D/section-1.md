@@ -3,9 +3,9 @@ title: "Section 1 - Protection of United States Government personnel engaged in 
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T05:52:02.862Z"
+generated_at: "2026-03-30T05:54:40.380Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7297 - Changing category or type: limitations"
 usc_title: 10
 usc_section: "7297"
 chapter: 633
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 7297"
-generated_at: "2026-03-30T05:49:31.697Z"
+generated_at: "2026-03-30T05:52:47.223Z"
 status: "active"
 ---
 

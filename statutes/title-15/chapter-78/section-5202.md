@@ -3,9 +3,9 @@ title: "Section 5202 - National Action Plan on Advanced Superconductivity Resear
 usc_title: 15
 usc_section: "5202"
 chapter: 78
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 5202"
-generated_at: "2026-03-30T05:49:38.548Z"
+generated_at: "2026-03-30T05:52:57.838Z"
 status: "active"
 ---
 

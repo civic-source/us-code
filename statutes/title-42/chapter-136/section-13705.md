@@ -3,9 +3,9 @@ title: "Section 13705 - Special rules"
 usc_title: 42
 usc_section: "13705"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13705"
-generated_at: "2026-03-30T05:52:03.138Z"
+generated_at: "2026-03-30T05:54:40.657Z"
 status: "active"
 ---
 

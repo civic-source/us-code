@@ -3,9 +3,9 @@ title: "Section 902 - Commissioner; Deputy Commissioner; other officers"
 usc_title: 42
 usc_section: "902"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 902"
-generated_at: "2026-03-30T05:52:02.682Z"
+generated_at: "2026-03-30T05:54:40.202Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(7)** The Commissioner may assign duties, and delegate, or authorize successive redelegations of, authority to act and to render decisions, to such officers and employees of the Administration as the Commissioner may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Commissioner.
   - **(8)** The Commissioner and the Secretary of Health and Human Services (in this subchapter referred to as the “Secretary”) shall consult, on an ongoing basis, to ensure—
     - **(A)** the coordination of the programs administered by the Commissioner, as described in section 901 of this title , with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
-    - **(B)** that adequate information concerning benefits under such subchapters XVIII and XIX of this chapter is available to the public.
+    - **(B)** that adequate information concerning benefits under such subchapters XVIII and XIX is available to the public.
 - **(b)**
   - **(1)** There shall be in the Administration a Deputy Commissioner of Social Security (in this subchapter referred to as the “Deputy Commissioner”) who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** The Deputy Commissioner shall be appointed for a term of 6 years, except that the initial term of office for the Deputy Commissioner shall terminate January 19, 2001 . In any case in which a successor does not take office at the end of a Deputy Commissioner’s term of office, such Deputy Commissioner may continue in office until the entry upon office of such a successor. A Deputy Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term.

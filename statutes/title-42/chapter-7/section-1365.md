@@ -3,9 +3,9 @@ title: "Section 1365 - Repealed. Pub. L. 86–442 , § 1, Apr. 22, 1960 , 74 Sta
 usc_title: 42
 usc_section: "1365"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1365"
-generated_at: "2026-03-30T05:52:02.702Z"
+generated_at: "2026-03-30T05:54:40.222Z"
 status: "repealed"
 ---
 

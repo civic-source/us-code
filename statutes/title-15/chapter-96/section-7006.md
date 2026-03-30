@@ -3,9 +3,9 @@ title: "Section 7006 - Definitions"
 usc_title: 15
 usc_section: "7006"
 chapter: 96
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 7006"
-generated_at: "2026-03-30T05:49:38.560Z"
+generated_at: "2026-03-30T05:52:57.851Z"
 status: "active"
 ---
 

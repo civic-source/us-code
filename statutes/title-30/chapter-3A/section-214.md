@@ -3,9 +3,9 @@ title: "Section 214 - Use of surface of other public lands; acreage; forest land
 usc_title: 30
 usc_section: "214"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 214"
-generated_at: "2026-03-30T05:50:11.849Z"
+generated_at: "2026-03-30T05:53:29.525Z"
 status: "active"
 ---
 

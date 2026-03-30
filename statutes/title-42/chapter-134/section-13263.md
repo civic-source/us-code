@@ -3,9 +3,9 @@ title: "Section 13263 - Powers of Secretary"
 usc_title: 42
 usc_section: "13263"
 chapter: 134
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 13263"
-generated_at: "2026-03-30T05:52:03.130Z"
+generated_at: "2026-03-30T05:54:40.649Z"
 status: "active"
 ---
 

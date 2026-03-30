@@ -3,9 +3,9 @@ title: "Section 14194 - Responsibilities of Commission"
 usc_title: 42
 usc_section: "14194"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14194"
-generated_at: "2026-03-30T05:52:03.152Z"
+generated_at: "2026-03-30T05:54:40.671Z"
 status: "active"
 ---
 

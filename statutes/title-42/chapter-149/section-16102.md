@@ -3,9 +3,9 @@ title: "Section 16102 - Diesel fueled vehicles"
 usc_title: 42
 usc_section: "16102"
 chapter: 149
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 16102"
-generated_at: "2026-03-30T05:52:03.170Z"
+generated_at: "2026-03-30T05:54:40.689Z"
 status: "active"
 ---
 

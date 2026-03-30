@@ -3,9 +3,9 @@ title: "Section 5305 - Disposition of unpaid salary and other sums on death of R
 usc_title: 2
 usc_section: "5305"
 chapter: 53
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 5305"
-generated_at: "2026-03-30T05:49:10.152Z"
+generated_at: "2026-03-30T05:52:35.327Z"
 status: "active"
 ---
 

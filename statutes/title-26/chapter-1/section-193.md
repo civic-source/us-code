@@ -3,9 +3,9 @@ title: "Section 193 - Tertiary injectants"
 usc_title: 26
 usc_section: "193"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 193"
-generated_at: "2026-03-30T05:50:45.176Z"
+generated_at: "2026-03-30T05:53:36.429Z"
 status: "active"
 ---
 

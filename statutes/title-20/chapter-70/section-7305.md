@@ -3,9 +3,9 @@ title: "Section 7305 - Short title"
 usc_title: 20
 usc_section: "7305"
 chapter: 70
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 7305"
-generated_at: "2026-03-30T05:49:52.037Z"
+generated_at: "2026-03-30T05:53:04.527Z"
 status: "active"
 ---
 

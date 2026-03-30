@@ -3,9 +3,9 @@ title: "Section 1416 - Permits"
 usc_title: 16
 usc_section: "1416"
 chapter: 31
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1416"
-generated_at: "2026-03-30T05:49:48.279Z"
+generated_at: "2026-03-30T05:53:07.723Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2339a - Cooperative agreements with Indian tribes"
 usc_title: 33
 usc_section: "2339a"
 chapter: 36
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 2339a"
-generated_at: "2026-03-30T05:51:10.175Z"
+generated_at: "2026-03-30T05:53:40.449Z"
 status: "active"
 ---
 

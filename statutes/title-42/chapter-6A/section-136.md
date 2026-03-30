@@ -3,9 +3,9 @@ title: "Section 136 - Selection of designated officers"
 usc_title: 42
 usc_section: "136"
 chapter: 6
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 136"
-generated_at: "2026-03-30T05:52:02.634Z"
+generated_at: "2026-03-30T05:54:40.156Z"
 status: "active"
 ---
 

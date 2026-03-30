@@ -3,9 +3,9 @@ title: "Section 7804 - Other personnel"
 usc_title: 26
 usc_section: "7804"
 chapter: 80
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 7804"
-generated_at: "2026-03-30T05:50:45.372Z"
+generated_at: "2026-03-30T05:53:36.623Z"
 status: "active"
 ---
 

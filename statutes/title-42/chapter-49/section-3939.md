@@ -3,9 +3,9 @@ title: "Section 3939 - Applicability of antitrust laws"
 usc_title: 42
 usc_section: "3939"
 chapter: 49
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3939"
-generated_at: "2026-03-30T05:52:02.918Z"
+generated_at: "2026-03-30T05:54:40.436Z"
 status: "active"
 ---
 

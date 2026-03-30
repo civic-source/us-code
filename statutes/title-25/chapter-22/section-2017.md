@@ -3,9 +3,9 @@ title: "Section 2017 - Regulations"
 usc_title: 25
 usc_section: "2017"
 chapter: 22
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 2017"
-generated_at: "2026-03-30T05:49:55.424Z"
+generated_at: "2026-03-30T05:53:16.809Z"
 status: "active"
 ---
 

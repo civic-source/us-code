@@ -3,18 +3,18 @@ title: "Section 622 - State plans for child welfare services"
 usc_title: 42
 usc_section: "622"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 622"
-generated_at: "2026-03-30T05:52:02.667Z"
+generated_at: "2026-03-30T05:54:40.188Z"
 status: "active"
 ---
 
 # § 622. State plans for child welfare services
 
-- **(a)** In order to be eligible for payment under this subpart, a State must have a plan for child welfare services which has been developed jointly by the Secretary and the State agency designated pursuant to subsection (b)(1) of this section, and which meets the requirements of subsection (b) of this section.
+- **(a)** In order to be eligible for payment under this subpart, a State must have a plan for child welfare services which has been developed jointly by the Secretary and the State agency designated pursuant to subsection (b)(1), and which meets the requirements of subsection (b).
 - **(b)** Each plan for child welfare services under this subpart shall—
-  - **(1)** provide that (A) the individual or agency that administers or supervises the administration of the State’s services program under division A 1 1 See References in Text note below. of subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
-  - **(2)** provide for coordination between the services provided for children under the plan and the services and assistance provided under division A 1 of subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved 2 2 So in original. under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
+  - **(1)** provide that (A) the individual or agency that administers or supervises the administration of the State’s services program under division A 1 1 See References in Text note below. of subchapter XX will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+  - **(2)** provide for coordination between the services provided for children under the plan and the services and assistance provided under division A 1 of subchapter XX, under the State program funded under part A, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved 2 2 So in original. under part E, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
   - **(3)** include a description of the services and activities which the State will fund under the State program carried out pursuant to this subpart, and how the services and activities will achieve the purpose of this subpart;
   - **(4)** contain a description of—
     - **(A)** the steps the State will take to provide child welfare services statewide and to expand and strengthen the range of existing services and develop and implement services to improve child outcomes; and

@@ -3,9 +3,9 @@ title: "Section 3042 - Emergency preparedness"
 usc_title: 50
 usc_section: "3042"
 chapter: 44
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3042"
-generated_at: "2026-03-30T05:52:07.072Z"
+generated_at: "2026-03-30T05:54:46.410Z"
 status: "active"
 ---
 

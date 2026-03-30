@@ -3,9 +3,9 @@ title: "Section 3306 - Repealed. Pub. L. 95–228 , § 1, Feb. 10, 1978 , 92 Sta
 usc_title: 5
 usc_section: "3306"
 chapter: 33
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 3306"
-generated_at: "2026-03-30T05:49:20.457Z"
+generated_at: "2026-03-30T05:52:33.931Z"
 status: "repealed"
 ---
 

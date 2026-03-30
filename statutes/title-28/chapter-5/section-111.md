@@ -3,9 +3,9 @@ title: "Section 111 - New Mexico"
 usc_title: 28
 usc_section: "111"
 chapter: 5
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "28 U.S.C. § 111"
-generated_at: "2026-03-30T05:50:12.969Z"
+generated_at: "2026-03-30T05:53:26.513Z"
 status: "active"
 ---
 

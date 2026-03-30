@@ -3,9 +3,9 @@ title: "Section 123 - Relocation of utility facilities"
 usc_title: 23
 usc_section: "123"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "23 U.S.C. § 123"
-generated_at: "2026-03-30T05:49:54.667Z"
+generated_at: "2026-03-30T05:53:15.975Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5587a - Regular Marine Corps: judge advocates"
 usc_title: 10
 usc_section: "5587a"
 chapter: 539
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 5587a"
-generated_at: "2026-03-30T05:49:31.690Z"
+generated_at: "2026-03-30T05:52:47.217Z"
 status: "active"
 ---
 

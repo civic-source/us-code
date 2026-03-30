@@ -3,9 +3,9 @@ title: "Section 3797d - Definitions"
 usc_title: 42
 usc_section: "3797d"
 chapter: 46
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 3797d"
-generated_at: "2026-03-30T05:52:02.915Z"
+generated_at: "2026-03-30T05:54:40.433Z"
 status: "active"
 ---
 

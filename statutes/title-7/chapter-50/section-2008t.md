@@ -3,9 +3,9 @@ title: "Section 2008t - Grants for expansion of employment opportunities for ind
 usc_title: 7
 usc_section: "2008t"
 chapter: 50
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008t"
-generated_at: "2026-03-30T05:49:28.559Z"
+generated_at: "2026-03-30T05:52:41.150Z"
 status: "active"
 ---
 

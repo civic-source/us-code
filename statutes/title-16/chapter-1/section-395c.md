@@ -3,9 +3,9 @@ title: "Section 395c - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "395c"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 395c"
-generated_at: "2026-03-30T05:49:48.141Z"
+generated_at: "2026-03-30T05:53:07.585Z"
 status: "active"
 ---
 

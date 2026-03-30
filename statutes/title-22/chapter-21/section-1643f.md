@@ -3,9 +3,9 @@ title: "Section 1643f - Action of Commission with respect to claims"
 usc_title: 22
 usc_section: "1643f"
 chapter: 21
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 1643f"
-generated_at: "2026-03-30T05:49:58.005Z"
+generated_at: "2026-03-30T05:53:23.519Z"
 status: "active"
 ---
 

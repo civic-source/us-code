@@ -3,9 +3,9 @@ title: "Section 612 - Direct funding and administration by Indian tribes"
 usc_title: 42
 usc_section: "612"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 612"
-generated_at: "2026-03-30T05:52:02.666Z"
+generated_at: "2026-03-30T05:54:40.186Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)**
     - **(A)** For fiscal year 2012, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal family assistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in which lies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
     - **(B)**
-      - **(i)** The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+      - **(i)** The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
       - **(ii)**
         - **(I)** The Secretary shall use State submitted data to make each determination under clause (i).
         - **(II)** If an Indian tribe or tribal organization disagrees with State submitted data described under subclause (I), the Indian tribe or tribal organization may submit to the Secretary such additional information as may be relevant to making the determination under clause (i) and the Secretary may consider such information before making such determination.

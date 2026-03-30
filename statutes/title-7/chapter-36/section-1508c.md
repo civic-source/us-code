@@ -3,9 +3,9 @@ title: "Section 1508c - Peanut revenue crop insurance"
 usc_title: 7
 usc_section: "1508c"
 chapter: 36
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1508c"
-generated_at: "2026-03-30T05:49:28.535Z"
+generated_at: "2026-03-30T05:52:41.125Z"
 status: "active"
 ---
 

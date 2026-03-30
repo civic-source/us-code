@@ -3,9 +3,9 @@ title: "Section 710 - Repealed. Pub. L. 106–379 , § 3(a)(1), Oct. 27, 2000 , 
 usc_title: 17
 usc_section: "710"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "17 U.S.C. § 710"
-generated_at: "2026-03-30T05:49:44.134Z"
+generated_at: "2026-03-30T05:52:59.641Z"
 status: "repealed"
 ---
 

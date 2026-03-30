@@ -3,9 +3,9 @@ title: "Section 2502 - Presidential authorization; appropriations and financial 
 usc_title: 22
 usc_section: "2502"
 chapter: 34
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 2502"
-generated_at: "2026-03-30T05:49:58.034Z"
+generated_at: "2026-03-30T05:53:23.548Z"
 status: "active"
 ---
 

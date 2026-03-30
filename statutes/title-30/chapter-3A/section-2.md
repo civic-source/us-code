@@ -3,9 +3,9 @@ title: "Section 2 - Limitations for filing oil and gas contests"
 usc_title: 30
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-30T05:50:11.850Z"
+generated_at: "2026-03-30T05:53:29.526Z"
 status: "active"
 ---
 

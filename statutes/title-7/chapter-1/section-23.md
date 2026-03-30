@@ -3,9 +3,9 @@ title: "Section 23 - Standardized contracts for certain commodities"
 usc_title: 7
 usc_section: "23"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 23"
-generated_at: "2026-03-30T05:49:28.480Z"
+generated_at: "2026-03-30T05:52:41.071Z"
 status: "active"
 ---
 

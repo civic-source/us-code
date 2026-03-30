@@ -3,9 +3,9 @@ title: "Section 1322 - Repayment by State; certification; transfer; interest on 
 usc_title: 42
 usc_section: "1322"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1322"
-generated_at: "2026-03-30T05:52:02.702Z"
+generated_at: "2026-03-30T05:54:40.221Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(5)** Interest required to be paid under paragraph (1) shall not be paid (directly or indirectly) by a State from amounts in its unemployment fund. If the Secretary of Labor determines that any State action results in the paying of such interest directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) from such unemployment fund, the Secretary of Labor shall not certify such State’s unemployment compensation law under section 3304 of the Internal Revenue Code of 1986. Such noncertification shall be made in accordance with section 3304(c) of such Code.
   - **(6)**
     - **(A)** For purposes of paragraph (2), any voluntary repayment shall be applied against advances made under section 1321 of this title on the last made first repaid basis. Any other repayment of such an advance shall be applied against advances on a first made first repaid basis.
-    - **(B)** For purposes of this paragraph, the term “voluntary repayment” means any repayment made under subsection (a) of this section.
+    - **(B)** For purposes of this paragraph, the term “voluntary repayment” means any repayment made under subsection (a).
   - **(7)** This subsection shall only apply to advances made on or after April 1, 1982 .
   - **(8)**
     - **(A)** With respect to interest due under this section on September 30 of 1983, 1984, or 1985 (other than interest previously deferred under paragraph (3)(C)), a State may pay 80 percent of such interest in four annual installments of at least 20 percent beginning with the year after the year in which it is otherwise due, if such State meets the criteria of subparagraph (B). No interest shall accrue on such deferred interest.

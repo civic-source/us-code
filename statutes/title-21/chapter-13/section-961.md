@@ -3,9 +3,9 @@ title: "Section 961 - Prohibited acts B"
 usc_title: 21
 usc_section: "961"
 chapter: 13
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "21 U.S.C. § 961"
-generated_at: "2026-03-30T05:50:09.665Z"
+generated_at: "2026-03-30T05:53:21.621Z"
 status: "active"
 ---
 

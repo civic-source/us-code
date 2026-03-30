@@ -3,9 +3,9 @@ title: "Section 718r - State obligations and authorities"
 usc_title: 16
 usc_section: "718r"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 718r"
-generated_at: "2026-03-30T05:49:48.238Z"
+generated_at: "2026-03-30T05:53:07.681Z"
 status: "active"
 ---
 

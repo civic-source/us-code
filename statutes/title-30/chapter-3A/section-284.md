@@ -3,9 +3,9 @@ title: "Section 284 - Lands containing coal or other minerals in addition to pot
 usc_title: 30
 usc_section: "284"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 284"
-generated_at: "2026-03-30T05:50:11.851Z"
+generated_at: "2026-03-30T05:53:29.528Z"
 status: "active"
 ---
 

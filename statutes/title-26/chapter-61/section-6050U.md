@@ -3,9 +3,9 @@ title: "Section 6050U - Charges or payments for qualified long-term care insuran
 usc_title: 26
 usc_section: "6050U"
 chapter: 61
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 6050U"
-generated_at: "2026-03-30T05:50:45.332Z"
+generated_at: "2026-03-30T05:53:36.583Z"
 status: "active"
 ---
 

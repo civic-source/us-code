@@ -3,9 +3,9 @@ title: "Section 2822 - Payment of costs of operation and maintenance of infrastr
 usc_title: 50
 usc_section: "2822"
 chapter: 42
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 2822"
-generated_at: "2026-03-30T05:52:07.069Z"
+generated_at: "2026-03-30T05:54:46.406Z"
 status: "active"
 ---
 

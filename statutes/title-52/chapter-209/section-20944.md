@@ -3,9 +3,9 @@ title: "Section 20944 - Membership of Board of Advisors"
 usc_title: 52
 usc_section: "20944"
 chapter: 209
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "52 U.S.C. § 20944"
-generated_at: "2026-03-30T05:52:21.434Z"
+generated_at: "2026-03-30T05:54:50.336Z"
 status: "active"
 ---
 

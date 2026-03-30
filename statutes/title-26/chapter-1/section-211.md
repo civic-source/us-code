@@ -3,9 +3,9 @@ title: "Section 211 - Allowance of deductions"
 usc_title: 26
 usc_section: "211"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 211"
-generated_at: "2026-03-30T05:50:45.177Z"
+generated_at: "2026-03-30T05:53:36.431Z"
 status: "active"
 ---
 

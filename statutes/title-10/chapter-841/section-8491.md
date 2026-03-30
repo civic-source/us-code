@@ -3,9 +3,9 @@ title: "Section 8491 - Non-regular officers: status"
 usc_title: 10
 usc_section: "8491"
 chapter: 841
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 8491"
-generated_at: "2026-03-30T05:49:31.702Z"
+generated_at: "2026-03-30T05:52:47.229Z"
 status: "active"
 ---
 

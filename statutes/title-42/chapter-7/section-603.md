@@ -3,9 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T05:52:02.662Z"
+generated_at: "2026-03-30T05:54:40.183Z"
 status: "active"
 ---
 
@@ -150,7 +150,7 @@ status: "active"
       - **(iii)** An entity that operates a project with funds provided under this paragraph may use the funds to provide services in a form described in clause (i) to noncustodial parents with respect to whom the requirements of the following subclauses are met:
         - **(I)** The noncustodial parent is unemployed, underemployed, or having difficulty in paying child support obligations.
         - **(II)** At least 1 of the following applies to a minor child of the noncustodial parent (with preference in the determination of the noncustodial parents to be provided services under this paragraph to be provided by the entity to those noncustodial parents with minor children who meet, or who have custodial parents who meet, the requirements of item (aa)):
-        - **(III)** In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999 , the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D of this subchapter, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
+        - **(III)** In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999 , the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
       - **(iv)** An entity that operates a project with funds provided under this paragraph may expend not more than 30 percent of all funds provided to the project for programs that provide assistance in a form described in clause (i)—
         - **(I)** to recipients of assistance under the program funded under this part of the State in which the entity is located who have characteristics associated with long-term welfare dependence (such as school dropout, teen pregnancy, or poor work history), including, at the option of the State, by providing assistance in such form as a condition of receiving assistance under the State program funded under this part;
         - **(II)** to children—
@@ -161,7 +161,7 @@ status: "active"
         - **(I)** The rules of section 604 of this title , other than subsections (b), (f), and (h) of section 604 of this title , shall not apply to a grant made under this paragraph.
         - **(II)** The Secretary of Labor shall carry out the functions otherwise assigned by section 605 of this title to the Secretary of Health and Human Services with respect to the grants payable under this paragraph.
         - **(III)** Section 616 of this title shall not apply to the programs under this paragraph.
-      - **(vii)** An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) of this section or section 618 of this title or any other provision of this chapter or other Federal law.
+      - **(vii)** An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) or section 618 of this title or any other provision of this chapter or other Federal law.
       - **(viii)** An entity to which funds are provided under this paragraph shall remit to the Secretary of Labor any part of the funds that are not expended within 5 years after the date the funds are so provided.
       - **(ix)** Within 90 days after August 5, 1997 , the Secretary of Labor, after consultation with the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall prescribe such regulations as may be necessary to implement this paragraph.
       - **(x)** The Secretary of Labor, in consultation with the Secretary of Health and Human Services, States, and organizations that represent State or local governments, shall establish requirements for the collection and maintenance of financial and participant information and the reporting of such information by entities carrying out activities under this paragraph.

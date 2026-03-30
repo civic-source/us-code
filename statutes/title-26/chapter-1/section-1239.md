@@ -3,9 +3,9 @@ title: "Section 1239 - Gain from sale of depreciable property between certain re
 usc_title: 26
 usc_section: "1239"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "26 U.S.C. § 1239"
-generated_at: "2026-03-30T05:50:45.267Z"
+generated_at: "2026-03-30T05:53:36.518Z"
 status: "active"
 ---
 

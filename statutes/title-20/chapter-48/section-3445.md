@@ -3,9 +3,9 @@ title: "Section 3445 - Transfers from Department of Justice"
 usc_title: 20
 usc_section: "3445"
 chapter: 48
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 3445"
-generated_at: "2026-03-30T05:49:52.008Z"
+generated_at: "2026-03-30T05:53:04.496Z"
 status: "active"
 ---
 

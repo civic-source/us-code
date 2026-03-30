@@ -3,9 +3,9 @@ title: "Section 3310 - Annual report on United States security arrangements and 
 usc_title: 50
 usc_section: "3310"
 chapter: 45
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 3310"
-generated_at: "2026-03-30T05:52:07.079Z"
+generated_at: "2026-03-30T05:54:46.417Z"
 status: "active"
 ---
 

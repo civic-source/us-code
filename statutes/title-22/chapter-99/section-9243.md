@@ -3,9 +3,9 @@ title: "Section 9243 - Report on and imposition of sanctions with respect to ser
 usc_title: 22
 usc_section: "9243"
 chapter: 99
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "22 U.S.C. § 9243"
-generated_at: "2026-03-30T05:49:58.112Z"
+generated_at: "2026-03-30T05:53:23.628Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 701 - Application; definitions"
 usc_title: 5
 usc_section: "701"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "5 U.S.C. § 701"
-generated_at: "2026-03-30T05:49:20.452Z"
+generated_at: "2026-03-30T05:52:33.926Z"
 status: "active"
 ---
 

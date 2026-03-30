@@ -3,9 +3,9 @@ title: "Section 41711 - Air carrier management inquiry and cooperation with othe
 usc_title: 49
 usc_section: "41711"
 chapter: 417
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 41711"
-generated_at: "2026-03-30T05:52:14.979Z"
+generated_at: "2026-03-30T05:54:48.323Z"
 status: "active"
 ---
 

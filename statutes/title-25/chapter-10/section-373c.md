@@ -3,9 +3,9 @@ title: "Section 373c - Sections 373a and 373b as inapplicable to certain Indians
 usc_title: 25
 usc_section: "373c"
 chapter: 10
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 373c"
-generated_at: "2026-03-30T05:49:55.398Z"
+generated_at: "2026-03-30T05:53:16.781Z"
 status: "active"
 ---
 

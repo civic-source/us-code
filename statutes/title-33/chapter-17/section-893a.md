@@ -3,9 +3,9 @@ title: "Section 893a - NOAA ocean and atmospheric science education programs"
 usc_title: 33
 usc_section: "893a"
 chapter: 17
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 893a"
-generated_at: "2026-03-30T05:51:10.142Z"
+generated_at: "2026-03-30T05:53:40.411Z"
 status: "active"
 ---
 

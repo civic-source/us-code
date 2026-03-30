@@ -3,9 +3,9 @@ title: "Section 27a - Special rules for MA regional plans"
 usc_title: 42
 usc_section: "27a"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 27a"
-generated_at: "2026-03-30T05:52:02.739Z"
+generated_at: "2026-03-30T05:54:40.259Z"
 status: "active"
 ---
 
@@ -66,7 +66,7 @@ status: "active"
   - **(2)** In applying paragraph (1) in the case of an MA organization that meets the requirements of section 1395w–25(a)(1) of this title with respect to more than one State in a region, the organization shall select, in a manner specified by the Secretary among such States, one State the rules of which shall apply in the case of the States described in paragraph (1)(B).
 - **(e)**
 - **(f)**
-  - **(1)** For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount” means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
+  - **(1)** For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e), the term “MA region-specific non-drug monthly benchmark amount” means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
   - **(2)** For purposes of paragraph (1), the 2 components described in this paragraph for an MA region and a year are the following:
     - **(A)** The product of the following:
       - **(i)** The statutory region-specific non-drug amount (as defined in paragraph (3)) for the region and year.

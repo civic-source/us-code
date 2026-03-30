@@ -3,9 +3,9 @@ title: "Section 2701 - Requirement for prior authorization of appropriations"
 usc_title: 14
 usc_section: "2701"
 chapter: 27
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 2701"
-generated_at: "2026-03-30T05:49:35.038Z"
+generated_at: "2026-03-30T05:52:49.227Z"
 status: "active"
 ---
 

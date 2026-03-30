@@ -3,9 +3,9 @@ title: "Section 5556a - Solar photovoltaic energy systems studies and acquisitio
 usc_title: 42
 usc_section: "5556a"
 chapter: 71
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5556a"
-generated_at: "2026-03-30T05:52:02.953Z"
+generated_at: "2026-03-30T05:54:40.471Z"
 status: "active"
 ---
 

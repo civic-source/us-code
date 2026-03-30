@@ -3,9 +3,9 @@ title: "Section 166 - Transferred"
 usc_title: 7
 usc_section: "166"
 chapter: 8
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 166"
-generated_at: "2026-03-30T05:49:28.498Z"
+generated_at: "2026-03-30T05:52:41.088Z"
 status: "transferred"
 ---
 

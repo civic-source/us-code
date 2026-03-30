@@ -3,9 +3,9 @@ title: "Section 871 - Repealed. Dec. 28, 1945, ch. 597 , § 4, 59 Stat. 662"
 usc_title: 33
 usc_section: "871"
 chapter: 17
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 871"
-generated_at: "2026-03-30T05:51:10.141Z"
+generated_at: "2026-03-30T05:53:40.410Z"
 status: "repealed"
 ---
 

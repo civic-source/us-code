@@ -3,9 +3,9 @@ title: "Section 2372 - Independent research and development and bid and proposal
 usc_title: 10
 usc_section: "2372"
 chapter: 139
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2372"
-generated_at: "2026-03-30T05:49:31.657Z"
+generated_at: "2026-03-30T05:52:47.184Z"
 status: "active"
 ---
 

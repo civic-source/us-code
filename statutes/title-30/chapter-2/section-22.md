@@ -3,9 +3,9 @@ title: "Section 22 - Lands open to purchase by citizens"
 usc_title: 30
 usc_section: "22"
 chapter: 2
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "30 U.S.C. § 22"
-generated_at: "2026-03-30T05:50:11.843Z"
+generated_at: "2026-03-30T05:53:29.520Z"
 status: "active"
 ---
 

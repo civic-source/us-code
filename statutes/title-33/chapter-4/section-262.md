@@ -3,9 +3,9 @@ title: "Section 262 - Repealed. Pub. L. 96–591 , § 8(b), Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "262"
 chapter: 4
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 262"
-generated_at: "2026-03-30T05:51:10.126Z"
+generated_at: "2026-03-30T05:53:40.394Z"
 status: "repealed"
 ---
 

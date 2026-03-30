@@ -3,9 +3,9 @@ title: "Section 5603 - Agricultural export promotion strategy"
 usc_title: 7
 usc_section: "5603"
 chapter: 87
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 5603"
-generated_at: "2026-03-30T05:49:28.599Z"
+generated_at: "2026-03-30T05:52:41.191Z"
 status: "active"
 ---
 

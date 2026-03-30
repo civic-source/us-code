@@ -3,9 +3,9 @@ title: "Section 645 - Repealed. Pub. L. 99–272, title IV , § 4007(b), Apr. 7,
 usc_title: 45
 usc_section: "645"
 chapter: 14
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "45 U.S.C. § 645"
-generated_at: "2026-03-30T05:51:29.516Z"
+generated_at: "2026-03-30T05:54:31.731Z"
 status: "repealed"
 ---
 

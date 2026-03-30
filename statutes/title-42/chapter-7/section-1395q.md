@@ -3,9 +3,9 @@ title: "Section 1395q - Coverage period"
 usc_title: 42
 usc_section: "1395q"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395q"
-generated_at: "2026-03-30T05:52:02.722Z"
+generated_at: "2026-03-30T05:54:40.242Z"
 status: "active"
 ---
 
@@ -25,9 +25,9 @@ status: "active"
 - **(b)** An individual’s coverage period shall continue until his enrollment has been terminated—
   - **(1)** by the filing of notice that the individual no longer wishes to participate in the insurance program established by this part, or
   - **(2)** for nonpayment of premiums.
-- **(c)** In the case of an individual satisfying paragraph (1) of section 1395 o of this title whose entitlement to hospital insurance benefits under part A of this subchapter is based on a disability rather than on his having attained the age of 65, his coverage period (and his enrollment under this part) shall be terminated as of the close of the last month for which he is entitled to hospital insurance benefits.
+- **(c)** In the case of an individual satisfying paragraph (1) of section 1395 o of this title whose entitlement to hospital insurance benefits under part A is based on a disability rather than on his having attained the age of 65, his coverage period (and his enrollment under this part) shall be terminated as of the close of the last month for which he is entitled to hospital insurance benefits.
 - **(d)** No payments may be made under this part with respect to the expenses of an individual unless such expenses were incurred by such individual during a period which, with respect to him, is a coverage period.
-- **(e)** Notwithstanding subsection (a) of this section, in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(i)(3) or 1395p(i)(4)(B) of this title—
+- **(e)** Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(i)(3) or 1395p(i)(4)(B) of this title—
   - **(1)** in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title ) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
   - **(2)** in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 - **(f)** Notwithstanding subsection (a), in the case of an individual who enrolls during a special enrollment period pursuant to section 1395p(k) of this title , the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.

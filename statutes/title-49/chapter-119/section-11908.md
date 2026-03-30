@@ -3,9 +3,9 @@ title: "Section 11908 - Relation to other Federal criminal penalties"
 usc_title: 49
 usc_section: "11908"
 chapter: 119
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "49 U.S.C. § 11908"
-generated_at: "2026-03-30T05:52:14.942Z"
+generated_at: "2026-03-30T05:54:48.285Z"
 status: "active"
 ---
 

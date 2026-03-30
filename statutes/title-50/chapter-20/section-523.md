@@ -3,9 +3,9 @@ title: "Section 523 - Employment of civilian personnel"
 usc_title: 50
 usc_section: "523"
 chapter: 20
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "50 U.S.C. § 523"
-generated_at: "2026-03-30T05:52:07.041Z"
+generated_at: "2026-03-30T05:54:46.379Z"
 status: "active"
 ---
 

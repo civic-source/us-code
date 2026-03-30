@@ -3,9 +3,9 @@ title: "Section 130509 - Records and inspection"
 usc_title: 36
 usc_section: "130509"
 chapter: 1305
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 130509"
-generated_at: "2026-03-30T05:51:15.267Z"
+generated_at: "2026-03-30T05:54:01.327Z"
 status: "active"
 ---
 

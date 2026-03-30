@@ -3,9 +3,9 @@ title: "Section 7101A - Members of Board: appointment; pay; performance review"
 usc_title: 38
 usc_section: "7101A"
 chapter: 71
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "38 U.S.C. § 7101A"
-generated_at: "2026-03-30T05:51:21.890Z"
+generated_at: "2026-03-30T05:54:20.229Z"
 status: "active"
 ---
 

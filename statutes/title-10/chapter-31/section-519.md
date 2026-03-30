@@ -3,9 +3,9 @@ title: "Section 519 - Temporary enlistments: during war or emergency"
 usc_title: 10
 usc_section: "519"
 chapter: 31
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 519"
-generated_at: "2026-03-30T05:49:31.595Z"
+generated_at: "2026-03-30T05:52:47.122Z"
 status: "active"
 ---
 

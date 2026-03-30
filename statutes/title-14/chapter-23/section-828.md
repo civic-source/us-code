@@ -3,9 +3,9 @@ title: "Section 828 - Aircraft deemed public aircraft"
 usc_title: 14
 usc_section: "828"
 chapter: 23
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "14 U.S.C. § 828"
-generated_at: "2026-03-30T05:49:35.037Z"
+generated_at: "2026-03-30T05:52:49.227Z"
 status: "active"
 ---
 

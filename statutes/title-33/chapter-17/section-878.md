@@ -3,9 +3,9 @@ title: "Section 878 - Appropriations; purchases from"
 usc_title: 33
 usc_section: "878"
 chapter: 17
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "33 U.S.C. § 878"
-generated_at: "2026-03-30T05:51:10.141Z"
+generated_at: "2026-03-30T05:53:40.410Z"
 status: "active"
 ---
 

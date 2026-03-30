@@ -3,9 +3,9 @@ title: "Section 3606 - Federal Housing Administration mortgage or loan insurance
 usc_title: 15
 usc_section: "3606"
 chapter: 62
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "15 U.S.C. § 3606"
-generated_at: "2026-03-30T05:49:38.537Z"
+generated_at: "2026-03-30T05:52:57.828Z"
 status: "active"
 ---
 

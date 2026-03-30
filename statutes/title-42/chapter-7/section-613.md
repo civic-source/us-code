@@ -3,9 +3,9 @@ title: "Section 613 - Research, evaluations, and national studies"
 usc_title: 42
 usc_section: "613"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 613"
-generated_at: "2026-03-30T05:52:02.666Z"
+generated_at: "2026-03-30T05:54:40.187Z"
 status: "active"
 ---
 
@@ -46,9 +46,9 @@ status: "active"
     - **(H)** Such other matters as the Secretary deems appropriate.
 - **(h)**
   - **(1)** Funds made available to carry out this section for a fiscal year shall be used for the purpose of paying—
-    - **(A)** the cost of conducting the research described in subsection (a) of this section;
-    - **(B)** the cost of developing and evaluating innovative approaches for reducing welfare dependency and increasing the well-being of minor children under subsection (b) of this section;
-    - **(C)** the Federal share of any State-initiated study approved under subsection (f) of this section; and
+    - **(A)** the cost of conducting the research described in subsection (a);
+    - **(B)** the cost of developing and evaluating innovative approaches for reducing welfare dependency and increasing the well-being of minor children under subsection (b);
+    - **(C)** the Federal share of any State-initiated study approved under subsection (f); and
     - **(D)** an amount determined by the Secretary to be necessary to operate and evaluate demonstration projects, relating to this part, that are in effect or approved under section 1315 of this title as of August 22, 1996 , and are continued after such date.
   - **(2)** Of the amount appropriated under paragraph (1) for a fiscal year—
     - **(A)** 50 percent shall be allocated for the purposes described in subparagraphs (A) and (B) of paragraph (1), and

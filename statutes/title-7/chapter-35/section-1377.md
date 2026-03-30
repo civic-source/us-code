@@ -3,9 +3,9 @@ title: "Section 1377 - Preservation of unused acreage allotments"
 usc_title: 7
 usc_section: "1377"
 chapter: 35
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1377"
-generated_at: "2026-03-30T05:49:28.526Z"
+generated_at: "2026-03-30T05:52:41.116Z"
 status: "active"
 ---
 

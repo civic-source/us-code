@@ -3,9 +3,9 @@ title: "Section 14037 - Recommendations on intrastate communication"
 usc_title: 42
 usc_section: "14037"
 chapter: 136
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14037"
-generated_at: "2026-03-30T05:52:03.144Z"
+generated_at: "2026-03-30T05:54:40.663Z"
 status: "active"
 ---
 

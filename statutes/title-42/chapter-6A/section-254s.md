@@ -3,9 +3,9 @@ title: "Section 254s - Native Hawaiian Health Scholarships"
 usc_title: 42
 usc_section: "254s"
 chapter: 6
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 254s"
-generated_at: "2026-03-30T05:52:02.540Z"
+generated_at: "2026-03-30T05:54:40.072Z"
 status: "active"
 ---
 

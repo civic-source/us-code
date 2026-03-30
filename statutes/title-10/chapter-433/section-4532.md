@@ -3,9 +3,9 @@ title: "Section 4532 - Factories and arsenals: manufacture at"
 usc_title: 10
 usc_section: "4532"
 chapter: 433
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 4532"
-generated_at: "2026-03-30T05:49:31.686Z"
+generated_at: "2026-03-30T05:52:47.213Z"
 status: "active"
 ---
 

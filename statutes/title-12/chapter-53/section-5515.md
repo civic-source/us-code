@@ -3,9 +3,9 @@ title: "Section 5515 - Supervision of very large banks, savings associations, an
 usc_title: 12
 usc_section: "5515"
 chapter: 53
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 5515"
-generated_at: "2026-03-30T05:49:42.376Z"
+generated_at: "2026-03-30T05:52:55.908Z"
 status: "active"
 ---
 

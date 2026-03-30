@@ -3,9 +3,9 @@ title: "Section 301 - Incentive pay: hazardous duty"
 usc_title: 37
 usc_section: "301"
 chapter: 5
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "37 U.S.C. § 301"
-generated_at: "2026-03-30T05:51:22.232Z"
+generated_at: "2026-03-30T05:54:10.340Z"
 status: "active"
 ---
 

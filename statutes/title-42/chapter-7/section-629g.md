@@ -3,26 +3,26 @@ title: "Section 629g - Discretionary and targeted grants"
 usc_title: 42
 usc_section: "629g"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 629g"
-generated_at: "2026-03-30T05:52:02.669Z"
+generated_at: "2026-03-30T05:54:40.189Z"
 status: "active"
 ---
 
 # § 629g. Discretionary and targeted grants
 
 - **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2012 through 2016.
-- **(b)** From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
+- **(b)** From the amount (if any) appropriated pursuant to subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
   - **(1)** The Secretary shall reserve 3.3 percent for expenditure by the Secretary for the activities described in section 629f(b)(1) of this title .
   - **(2)** The Secretary shall reserve 3.3 percent for grants under section 629h of this title .
-  - **(3)** The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1) of this section.
+  - **(3)** The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1).
 - **(c)**
-  - **(1)** From the amount (if any) reserved pursuant to subsection (b)(3) of this section for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
-  - **(2)** From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection 1 1 So in original. Probably should be “subsection”. (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title .
-  - **(3)** From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subsection (b) of this section and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title ) of the State for the fiscal year.
+  - **(1)** From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+  - **(2)** From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection 1 1 So in original. Probably should be “subsection”. (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title .
+  - **(3)** From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subsection (b) and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title ) of the State for the fiscal year.
 - **(d)** The Secretary may make a grant to a State which has a plan approved under this subpart in an amount equal to the lesser of—
   - **(1)** 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
-  - **(2)** the allotment of the State under subsection (c) of this section for the fiscal year.
+  - **(2)** the allotment of the State under subsection (c) for the fiscal year.
 - **(e)** The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner to the amounts made available pursuant to subsection (a).
 - **(f)**
   - **(1)** The purpose of this subsection is to authorize the Secretary to make competitive grants to regional partnerships to provide, through interagency collaboration and integration of programs and services, services and activities that are designed to increase the well-being of, improve permanency outcomes for, and enhance the safety of children who are in an out-of-home placement or are at risk of being placed in an out-of-home placement as a result of a parent’s or caretaker’s substance abuse.

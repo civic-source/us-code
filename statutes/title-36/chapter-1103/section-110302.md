@@ -3,9 +3,9 @@ title: "Section 110302 - Purposes"
 usc_title: 36
 usc_section: "110302"
 chapter: 1103
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "36 U.S.C. § 110302"
-generated_at: "2026-03-30T05:51:15.266Z"
+generated_at: "2026-03-30T05:54:01.326Z"
 status: "active"
 ---
 

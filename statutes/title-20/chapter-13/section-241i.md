@@ -3,9 +3,9 @@ title: "Section 241i - Repealed. Pub. L. 91–230, title I , § 113(b)(6), title
 usc_title: 20
 usc_section: "241i"
 chapter: 13
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "20 U.S.C. § 241i"
-generated_at: "2026-03-30T05:49:51.928Z"
+generated_at: "2026-03-30T05:53:04.407Z"
 status: "repealed"
 ---
 

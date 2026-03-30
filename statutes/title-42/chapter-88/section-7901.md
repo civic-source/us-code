@@ -3,9 +3,9 @@ title: "Section 7901 - Congressional findings and purposes"
 usc_title: 42
 usc_section: "7901"
 chapter: 88
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 7901"
-generated_at: "2026-03-30T05:52:03.034Z"
+generated_at: "2026-03-30T05:54:40.554Z"
 status: "active"
 ---
 

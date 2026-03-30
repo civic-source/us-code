@@ -3,9 +3,9 @@ title: "Section 109 - Public property in and belonging to the Executive Residenc
 usc_title: 3
 usc_section: "109"
 chapter: 2
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "3 U.S.C. § 109"
-generated_at: "2026-03-30T05:49:13.672Z"
+generated_at: "2026-03-30T05:52:31.596Z"
 status: "active"
 ---
 

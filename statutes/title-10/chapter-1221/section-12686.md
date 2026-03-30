@@ -3,9 +3,9 @@ title: "Section 12686 - Reserves on active duty within two years of retirement e
 usc_title: 10
 usc_section: "12686"
 chapter: 1221
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 12686"
-generated_at: "2026-03-30T05:49:31.714Z"
+generated_at: "2026-03-30T05:52:47.241Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 544k - Tributary rivers and streams"
 usc_title: 16
 usc_section: "544k"
 chapter: 2
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 544k"
-generated_at: "2026-03-30T05:49:48.218Z"
+generated_at: "2026-03-30T05:53:07.661Z"
 status: "active"
 ---
 

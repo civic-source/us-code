@@ -3,9 +3,9 @@ title: "Section 1315 - Repealed. Pub. L. 108–357, title VI , § 611(o), Oct. 2
 usc_title: 7
 usc_section: "1315"
 chapter: 35
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 1315"
-generated_at: "2026-03-30T05:49:28.521Z"
+generated_at: "2026-03-30T05:52:41.112Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 590 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 16
 usc_section: "590"
 chapter: 3
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 590"
-generated_at: "2026-03-30T05:49:48.225Z"
+generated_at: "2026-03-30T05:53:07.668Z"
 status: "repealed"
 ---
 

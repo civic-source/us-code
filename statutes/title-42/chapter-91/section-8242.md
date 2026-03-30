@@ -3,9 +3,9 @@ title: "Section 8242 - Federal solar program"
 usc_title: 42
 usc_section: "8242"
 chapter: 91
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 8242"
-generated_at: "2026-03-30T05:52:03.038Z"
+generated_at: "2026-03-30T05:54:40.559Z"
 status: "active"
 ---
 

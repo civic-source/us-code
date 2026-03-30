@@ -3,9 +3,9 @@ title: "Section 1202 - Bargaining units"
 usc_title: 39
 usc_section: "1202"
 chapter: 12
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "39 U.S.C. § 1202"
-generated_at: "2026-03-30T05:51:14.723Z"
+generated_at: "2026-03-30T05:54:06.194Z"
 status: "active"
 ---
 

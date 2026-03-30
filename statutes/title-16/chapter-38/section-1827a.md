@@ -3,9 +3,9 @@ title: "Section 1827a - Prohibition on sale of billfish"
 usc_title: 16
 usc_section: "1827a"
 chapter: 38
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 1827a"
-generated_at: "2026-03-30T05:49:48.292Z"
+generated_at: "2026-03-30T05:53:07.736Z"
 status: "active"
 ---
 

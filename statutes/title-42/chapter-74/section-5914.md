@@ -3,9 +3,9 @@ title: "Section 5914 - Omitted"
 usc_title: 42
 usc_section: "5914"
 chapter: 74
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5914"
-generated_at: "2026-03-30T05:52:02.962Z"
+generated_at: "2026-03-30T05:54:40.482Z"
 status: "omitted"
 ---
 

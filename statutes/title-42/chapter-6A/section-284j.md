@@ -3,9 +3,9 @@ title: "Section 284j - Muscular dystrophy research"
 usc_title: 42
 usc_section: "284j"
 chapter: 6
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 284j"
-generated_at: "2026-03-30T05:52:02.560Z"
+generated_at: "2026-03-30T05:54:40.092Z"
 status: "active"
 ---
 

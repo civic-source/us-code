@@ -3,9 +3,9 @@ title: "Section 3183 - Bristol Bay Cooperative Region"
 usc_title: 16
 usc_section: "3183"
 chapter: 51
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 3183"
-generated_at: "2026-03-30T05:49:48.309Z"
+generated_at: "2026-03-30T05:53:07.752Z"
 status: "active"
 ---
 

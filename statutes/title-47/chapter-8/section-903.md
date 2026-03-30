@@ -3,9 +3,9 @@ title: "Section 903 - Spectrum management activities"
 usc_title: 47
 usc_section: "903"
 chapter: 8
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "47 U.S.C. § 903"
-generated_at: "2026-03-30T05:52:12.377Z"
+generated_at: "2026-03-30T05:54:45.133Z"
 status: "active"
 ---
 

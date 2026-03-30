@@ -3,9 +3,9 @@ title: "Section 15327 - Transferred"
 usc_title: 42
 usc_section: "15327"
 chapter: 146
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 15327"
-generated_at: "2026-03-30T05:52:03.162Z"
+generated_at: "2026-03-30T05:54:40.681Z"
 status: "transferred"
 ---
 

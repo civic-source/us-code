@@ -3,9 +3,9 @@ title: "Section 2127 - Guaranty fund subscriptions in lieu of stock"
 usc_title: 12
 usc_section: "2127"
 chapter: 23
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "12 U.S.C. § 2127"
-generated_at: "2026-03-30T05:49:42.313Z"
+generated_at: "2026-03-30T05:52:55.844Z"
 status: "active"
 ---
 

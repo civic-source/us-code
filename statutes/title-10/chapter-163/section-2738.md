@@ -3,9 +3,9 @@ title: "Section 2738 - Property loss: reimbursement of members for certain losse
 usc_title: 10
 usc_section: "2738"
 chapter: 163
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "10 U.S.C. § 2738"
-generated_at: "2026-03-30T05:49:31.674Z"
+generated_at: "2026-03-30T05:52:47.201Z"
 status: "active"
 ---
 

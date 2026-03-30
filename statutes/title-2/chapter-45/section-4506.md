@@ -3,9 +3,9 @@ title: "Section 4506 - Death gratuity payments as gifts"
 usc_title: 2
 usc_section: "4506"
 chapter: 45
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "2 U.S.C. § 4506"
-generated_at: "2026-03-30T05:49:10.147Z"
+generated_at: "2026-03-30T05:52:35.323Z"
 status: "active"
 ---
 

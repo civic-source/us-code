@@ -3,9 +3,9 @@ title: "Section 5181 - Relocation assistance"
 usc_title: 42
 usc_section: "5181"
 chapter: 68
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 5181"
-generated_at: "2026-03-30T05:52:02.943Z"
+generated_at: "2026-03-30T05:54:40.462Z"
 status: "active"
 ---
 

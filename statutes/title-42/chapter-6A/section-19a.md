@@ -3,9 +3,9 @@ title: "Section 19a - Patient protections"
 usc_title: 42
 usc_section: "19a"
 chapter: 6
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-30T05:52:02.637Z"
+generated_at: "2026-03-30T05:54:40.159Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14335 - Limitations on sale of other mercuric-oxide batteries"
 usc_title: 42
 usc_section: "14335"
 chapter: 137
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 14335"
-generated_at: "2026-03-30T05:52:03.153Z"
+generated_at: "2026-03-30T05:54:40.672Z"
 status: "active"
 ---
 

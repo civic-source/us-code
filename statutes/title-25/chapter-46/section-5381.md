@@ -3,9 +3,9 @@ title: "Section 5381 - Definitions"
 usc_title: 25
 usc_section: "5381"
 chapter: 46
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "25 U.S.C. § 5381"
-generated_at: "2026-03-30T05:49:55.451Z"
+generated_at: "2026-03-30T05:53:16.836Z"
 status: "active"
 ---
 

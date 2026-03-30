@@ -3,9 +3,9 @@ title: "Section 407h - Authorization of appropriations"
 usc_title: 16
 usc_section: "407h"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 407h"
-generated_at: "2026-03-30T05:49:48.144Z"
+generated_at: "2026-03-30T05:53:07.588Z"
 status: "active"
 ---
 

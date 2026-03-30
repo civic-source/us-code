@@ -3,9 +3,9 @@ title: "Section 114 - Premium and cost-sharing subsidies for low-income individu
 usc_title: 42
 usc_section: "114"
 chapter: 7
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-30T05:52:02.743Z"
+generated_at: "2026-03-30T05:54:40.264Z"
 status: "active"
 ---
 
@@ -26,23 +26,23 @@ status: "active"
     - **(B)** A reduction in the annual deductible applicable under section 1395w–102(b)(1) of this title to $50.
     - **(C)** The continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title ) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced coinsurance described in subparagraph (D).
     - **(D)** The substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title ) of coinsurance of “15 percent” instead of coinsurance of “25 percent” in section 1395w–102(b)(2) of this title .
-    - **(E)** Subject to subsection (c) of this section, the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+    - **(E)** Subject to subsection (c), the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
   - **(3)**
     - **(A)** For purposes of this part, subject to subparagraph (F), the term “subsidy eligible individual” means a part D eligible individual who—
       - **(i)** is enrolled in a prescription drug plan or MA–PD plan;
       - **(ii)** has income below 150 percent of the poverty line applicable to a family of the size involved; and
       - **(iii)** meets the resources requirement described in subparagraph (D) or (E).
     - **(B)**
-      - **(i)** The determination of whether a part D eligible individual residing in a State is a subsidy eligible individual and whether the individual is described in paragraph (1) shall be determined under the State plan under subchapter XIX of this chapter for the State under section 1396u–5(a) of this title or by the Commissioner of Social Security. There are authorized to be appropriated to the Social Security Administration such sums as may be necessary for the determination of eligibility under this subparagraph.
+      - **(i)** The determination of whether a part D eligible individual residing in a State is a subsidy eligible individual and whether the individual is described in paragraph (1) shall be determined under the State plan under subchapter XIX for the State under section 1396u–5(a) of this title or by the Commissioner of Social Security. There are authorized to be appropriated to the Social Security Administration such sums as may be necessary for the determination of eligibility under this subparagraph.
       - **(ii)** Determinations under this subparagraph shall be effective beginning with the month in which the individual applies for a determination that the individual is a subsidy eligible individual and shall remain in effect for a period specified by the Secretary, but not to exceed 1 year.
-      - **(iii)** Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX of this chapter, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+      - **(iii)** Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
       - **(iv)** With respect to eligibility determinations under clause (i) made by the Commissioner of Social Security—
         - **(I)** redeterminations shall be made at such time or times as may be provided by the Commissioner;
         - **(II)** the Commissioner shall establish procedures for appeals of such determinations that are similar to the procedures described in the third sentence of section 1383(c)(1)(A) of this title ; and
         - **(III)** judicial review of the final decision of the Commissioner made after a hearing shall be available to the same extent, and with the same limitations, as provided in subsections (g) and (h) of section 405 of this title .
       - **(v)** Subject to subparagraph (F), the Secretary—
-        - **(I)** shall provide that part D eligible individuals who are full-benefit dual eligible individuals (as defined in section 1396u–5(c)(6) of this title ) or who are recipients of supplemental security income benefits under subchapter XVI of this chapter shall be treated as subsidy eligible individuals described in paragraph (1); and
-        - **(II)** may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX of this chapter to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
+        - **(I)** shall provide that part D eligible individuals who are full-benefit dual eligible individuals (as defined in section 1396u–5(c)(6) of this title ) or who are recipients of supplemental security income benefits under subchapter XVI shall be treated as subsidy eligible individuals described in paragraph (1); and
+        - **(II)** may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
       - **(vi)** Notwithstanding the preceding provisions of this subparagraph, in the case of an individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
     - **(C)** For purposes of applying this section—
       - **(i)** in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title , without regard to the application of section 1396a(r)(2) of this title and except that support and maintenance furnished in kind shall not be counted as income; and
@@ -85,7 +85,7 @@ status: "active"
   - **(3)** In no case shall the premium subsidy amount under this subsection for a PDP region be less than the lowest monthly beneficiary premium for a prescription drug plan that offers basic prescription drug coverage in the region.
 - **(c)**
   - **(1)** The Secretary shall provide a process whereby, in the case of a part D eligible individual who is determined to be a subsidy eligible individual and who is enrolled in a prescription drug plan or is enrolled in an MA–PD plan—
-    - **(A)** the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a) of this section;
+    - **(A)** the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a);
     - **(B)** the sponsor or organization involved reduces the premiums or cost-sharing otherwise imposed by the amount of the applicable subsidy and submits to the Secretary information on the amount of such reduction;
     - **(C)** the Secretary periodically and on a timely basis reimburses the sponsor or organization for the amount of such reductions; and
     - **(D)** the Secretary ensures the confidentiality of individually identifiable information.

@@ -3,9 +3,9 @@ title: "Section 426j - Authorization of appropriation; fixing of boundaries as c
 usc_title: 16
 usc_section: "426j"
 chapter: 1
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "16 U.S.C. § 426j"
-generated_at: "2026-03-30T05:49:48.163Z"
+generated_at: "2026-03-30T05:53:07.608Z"
 status: "active"
 ---
 

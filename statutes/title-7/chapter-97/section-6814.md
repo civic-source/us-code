@@ -3,9 +3,9 @@ title: "Section 6814 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6814"
 chapter: 97
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "7 U.S.C. § 6814"
-generated_at: "2026-03-30T05:49:28.613Z"
+generated_at: "2026-03-30T05:52:41.205Z"
 status: "active"
 ---
 

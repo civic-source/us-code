@@ -3,9 +3,9 @@ title: "Section 4152 - Standards for design, construction, and alteration of bui
 usc_title: 42
 usc_section: "4152"
 chapter: 51
-current_through: "PL 114-253"
+current_through: "PL 114-254"
 classification: "42 U.S.C. § 4152"
-generated_at: "2026-03-30T05:52:02.925Z"
+generated_at: "2026-03-30T05:54:40.442Z"
 status: "active"
 ---
 
