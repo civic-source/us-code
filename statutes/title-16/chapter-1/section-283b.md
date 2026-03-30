@@ -3,9 +3,9 @@ title: "Section 283b - Establishment; notice in Federal Register; property right
 usc_title: 16
 usc_section: "283b"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 283b"
-generated_at: "2026-03-30T04:05:55.294Z"
+generated_at: "2026-03-30T04:08:23.098Z"
 status: "active"
 ---
 

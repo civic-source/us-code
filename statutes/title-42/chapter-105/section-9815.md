@@ -3,9 +3,9 @@ title: "Section 9815 - Small Business Administration and Department of Commerce 
 usc_title: 42
 usc_section: "9815"
 chapter: 105
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 9815"
-generated_at: "2026-03-30T04:07:16.997Z"
+generated_at: "2026-03-30T04:09:28.444Z"
 status: "active"
 ---
 

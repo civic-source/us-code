@@ -3,9 +3,9 @@ title: "Section 1467 - Investment of assets of Fund"
 usc_title: 10
 usc_section: "1467"
 chapter: 74
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 1467"
-generated_at: "2026-03-30T04:05:30.712Z"
+generated_at: "2026-03-30T04:08:01.874Z"
 status: "active"
 ---
 

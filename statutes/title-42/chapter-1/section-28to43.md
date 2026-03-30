@@ -3,9 +3,9 @@ title: "Section 28to43 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 
 usc_title: 42
 usc_section: "28to43"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 28to43"
-generated_at: "2026-03-30T04:07:16.241Z"
+generated_at: "2026-03-30T04:09:27.683Z"
 status: "repealed"
 ---
 

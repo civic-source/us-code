@@ -3,9 +3,9 @@ title: "Section 1823 - Corporation monies"
 usc_title: 12
 usc_section: "1823"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1823"
-generated_at: "2026-03-30T04:05:37.748Z"
+generated_at: "2026-03-30T04:08:08.547Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(C)** Any action to which the Corporation is or becomes a party by acquiring any asset or exercising any other authority set forth in this section shall be stayed for a period of 60 days at the request of the Corporation.
   - **(3)** The Corporation may provide any person acquiring control of, merging with, consolidating with or acquiring the assets of an insured depository institution under subsection (f) or (k) of this section with such financial assistance as it could provide an insured institution under this subsection.
   - **(4)**
-    - **(A)** Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) of this section with respect to any insured depository institution unless—
+    - **(A)** Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) with respect to any insured depository institution unless—
       - **(i)** the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
       - **(ii)** the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution is the least costly to the Deposit Insurance Fund of all possible methods for meeting the Corporation’s obligation under this section.
     - **(B)** In determining how to satisfy the Corporation’s obligations to an institution’s insured depositors at the least possible cost to the Deposit Insurance Fund, the Corporation shall comply with the following provisions:
@@ -121,7 +121,7 @@ status: "active"
     - **(C)** extensions of credit, including any overdraft, from a Federal reserve bank or Federal home loan bank; or
     - **(D)** one or more qualified financial contracts, as defined in section 1821(e)(8)(D) of this title ,
 - **(f)**
-  - **(1)** This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank 2 2 So in original. Probably should be followed by “or”. savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c) of this section.
+  - **(1)** This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank 2 2 So in original. Probably should be followed by “or”. savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c).
   - **(2)**
     - **(A)** Whenever an insured bank with total assets of $500,000,000 or more (as determined from its most recent report of condition) is in default, the Corporation, as receiver, may, in its discretion and upon such terms and conditions as the Corporation may determine, arrange the sale of assets of the bank in default and the assumption of the liabilities of the bank in default, including the sale of such assets to and the assumption of such liabilities by an insured depository institution located in the State where the bank in default was chartered but established by an out-of-State bank or holding company. Where otherwise lawfully required, a transaction under this subsection must be approved by the primary Federal or State supervisor of all parties thereto.
     - **(B)**
@@ -137,7 +137,7 @@ status: "active"
       - **(ii)** any other affiliated insured bank.
     - **(C)** The Corporation may assist an acquisition or merger authorized under subparagraph (A) only if the board of directors or trustees of each insured bank in danger of default which is being acquired has requested in writing that the Corporation assist the acquisition or merger.
     - **(D)** Notwithstanding paragraph (1), if—
-      - **(i)** at any time after August 10, 1987 , the Corporation provides any assistance under subsection (c) of this section to an insured bank; and
+      - **(i)** at any time after August 10, 1987 , the Corporation provides any assistance under subsection (c) to an insured bank; and
       - **(ii)** at the time such assistance is granted, the insured bank, the holding company which controls the insured bank (if any), or any affiliated insured bank is eligible to be acquired by an out-of-State bank or out-of-State holding company under this paragraph,
     - **(E)** The Corporation may take no final action in connection with any acquisition under this paragraph unless the State bank supervisor of the State in which the bank in danger of default is located approves the acquisition.
     - **(F)** This paragraph does not affect any other requirement under Federal or State law for regulatory approval of an acquisition under this paragraph.
@@ -225,7 +225,7 @@ status: "active"
   - **(1)**
     - **(A)**
       - **(i)** Notwithstanding any provision of State law, upon determining that severe financial conditions threaten the stability of a significant number of savings associations, or of savings associations possessing significant financial resources, the Corporation, in its discretion and if it determines such authorization would lessen the risk to the Corporation, may authorize—
-        - **(I)** a savings association that is eligible for assistance pursuant to subsection (c) of this section to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
+        - **(I)** a savings association that is eligible for assistance pursuant to subsection (c) to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
         - **(II)** any other savings association to acquire control of such savings association, or
         - **(III)** any company to acquire control of such savings association or to acquire the assets or assume the liabilities thereof.
       - **(ii)** Mergers, consolidations, transfers, and acquisitions under this subsection shall be on such terms as the Corporation shall provide.
@@ -249,7 +249,7 @@ status: "active"
         - **(II)** such association does not qualify as a domestic building and loan association under section 7701(a)(19) of title 26 , or does not meet the asset composition test imposed by subparagraph (C) of that section on institutions seeking so to qualify,
       - **(ii)** The Corporation, for good cause shown, may allow a savings association up to 2 years to comply with the requirements of clause (i).
   - **(5)**
-    - **(A)** The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
+    - **(A)** The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
       - **(i)** The Corporation determines—
         - **(I)** that grounds for appointment of a conservator or receiver exist or likely will exist in the future unless the member’s tangible capital is increased;
         - **(II)** that it is unlikely that the member can achieve positive tangible capital without assistance; and

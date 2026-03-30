@@ -3,9 +3,9 @@ title: "Section 601to605 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "601to605"
 chapter: 11
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "8 U.S.C. § 601to605"
-generated_at: "2026-03-30T04:05:09.051Z"
+generated_at: "2026-03-30T04:07:54.542Z"
 status: "repealed"
 ---
 

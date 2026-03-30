@@ -3,9 +3,9 @@ title: "Section 197 - Voluntary purchase or charter agreements"
 usc_title: 50
 usc_section: "197"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 197"
-generated_at: "2026-03-30T04:07:21.359Z"
+generated_at: "2026-03-30T04:09:35.750Z"
 status: "active"
 ---
 

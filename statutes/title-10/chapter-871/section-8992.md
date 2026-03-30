@@ -3,9 +3,9 @@ title: "Section 8992 - Recomputation of retired pay to reflect advancement on re
 usc_title: 10
 usc_section: "8992"
 chapter: 871
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 8992"
-generated_at: "2026-03-30T04:05:30.814Z"
+generated_at: "2026-03-30T04:08:01.987Z"
 status: "active"
 ---
 

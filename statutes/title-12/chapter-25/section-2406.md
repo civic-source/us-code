@@ -3,9 +3,9 @@ title: "Section 2406 - Compensation of members of Commission"
 usc_title: 12
 usc_section: "2406"
 chapter: 25
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 2406"
-generated_at: "2026-03-30T04:05:37.789Z"
+generated_at: "2026-03-30T04:08:08.584Z"
 status: "active"
 ---
 

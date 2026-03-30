@@ -3,9 +3,9 @@ title: "Section 2241 - Aggravated sexual abuse"
 usc_title: 18
 usc_section: "2241"
 chapter: 109
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "18 U.S.C. § 2241"
-generated_at: "2026-03-30T04:05:49.571Z"
+generated_at: "2026-03-30T04:08:15.010Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 468d - Consultation with Advisory Board on National Parks, Histo
 usc_title: 16
 usc_section: "468d"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 468d"
-generated_at: "2026-03-30T04:05:55.385Z"
+generated_at: "2026-03-30T04:08:23.188Z"
 status: "active"
 ---
 

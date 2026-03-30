@@ -3,9 +3,9 @@ title: "Section 511 - Definitions"
 usc_title: 33
 usc_section: "511"
 chapter: 11
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 511"
-generated_at: "2026-03-30T04:06:40.454Z"
+generated_at: "2026-03-30T04:09:02.173Z"
 status: "active"
 ---
 

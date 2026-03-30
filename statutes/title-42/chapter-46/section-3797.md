@@ -3,9 +3,9 @@ title: "Section 3797 - Continuation of rules, authorities, and proceedings"
 usc_title: 42
 usc_section: "3797"
 chapter: 46
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 3797"
-generated_at: "2026-03-30T04:07:16.788Z"
+generated_at: "2026-03-30T04:09:28.237Z"
 status: "active"
 ---
 

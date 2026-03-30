@@ -3,9 +3,9 @@ title: "Section 470n - International Centre for Study of Preservation and Restor
 usc_title: 16
 usc_section: "470n"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 470n"
-generated_at: "2026-03-30T04:05:55.389Z"
+generated_at: "2026-03-30T04:08:23.193Z"
 status: "active"
 ---
 

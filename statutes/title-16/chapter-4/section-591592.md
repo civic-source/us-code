@@ -3,9 +3,9 @@ title: "Section 591592 - Repealed. Feb. 28, 1933, ch. 131, § 1 , 47 Stat. 1349"
 usc_title: 16
 usc_section: "591592"
 chapter: 4
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 591592"
-generated_at: "2026-03-30T04:05:55.416Z"
+generated_at: "2026-03-30T04:08:23.220Z"
 status: "repealed"
 ---
 

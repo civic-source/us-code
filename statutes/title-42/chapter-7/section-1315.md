@@ -3,9 +3,9 @@ title: "Section 1315 - Demonstration projects"
 usc_title: 42
 usc_section: "1315"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 1315"
-generated_at: "2026-03-30T04:07:16.473Z"
+generated_at: "2026-03-30T04:09:27.917Z"
 status: "active"
 ---
 
@@ -16,10 +16,12 @@ status: "active"
   - **(2)**
     - **(A)** costs of such project which would not otherwise be included as expenditures under section 303, 655, 1203, 1353, 1383, or 1396b of this title, as the case may be, and which are not included as part of the costs of projects under section 1310 of this title , shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under the State plan or plans approved under such subchapter, or for administration of such State plan or plans, as may be appropriate, and
     - **(B)** costs of such project which would not otherwise be a permissible use of funds under part A of subchapter IV of this chapter and which are not included as part of the costs of projects under section 1310 of this title , shall to the extent and for the period prescribed by the Secretary, be regarded as a permissible use of funds under such part.
-- **(b)** In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV of this chapter, the project—
-  - **(1)** must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
-  - **(2)** may not permit modifications in the child support program which would have the effect of disadvantaging children in need of support; and
-  - **(3)** must not result in increased cost to the Federal Government under part A of such subchapter.
+- **(b)**
+  - **(1)** In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV, the project—
+    - **(A)** must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
+    - **(B)** may not permit modifications in the child support program which would have the effect of disadvantaging children in need of support; and
+    - **(C)** must not result in increased cost to the Federal Government under part A of such subchapter.
+  - **(2)** An Indian tribe or tribal organization operating a program under section 655(f) of this title shall be considered a State for purposes of authority to conduct an experimental, pilot, or demonstration project under subsection (a) to assist in promoting the objectives of part D of subchapter IV and receiving payments under the second sentence of that subsection. The Secretary may waive compliance with any requirements of section 655(f) of this title or regulations promulgated under that section to the extent and for the period the Secretary finds necessary for an Indian tribe or tribal organization to carry out such project. Costs of the project which would not otherwise be included as expenditures of a program operating under section 655(f) of this title and which are not included as part of the costs of projects under section 1310 of this title , shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under a tribal plan or plans approved under such section, or for the administration of such tribal plan or plans, as may be appropriate. An Indian tribe or tribal organization applying for or receiving start-up program development funding pursuant to section 309.16 of title 45, Code of Federal Regulations, shall not be considered to be an Indian tribe or tribal organization operating a program under section 655(f) of this title for purposes of this paragraph.
 - **(c)**
   - **(1)**
     - **(A)** The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title . If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.

@@ -3,9 +3,9 @@ title: "Section 92 - Admissions to marine biological station for pursuit of inve
 usc_title: 20
 usc_section: "92"
 chapter: 5
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 92"
-generated_at: "2026-03-30T04:06:05.217Z"
+generated_at: "2026-03-30T04:08:20.261Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 741 - Repealed. Pub. L. 88–488, title IV, § 402(a)(3) , Aug. 
 usc_title: 16
 usc_section: "741"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 741"
-generated_at: "2026-03-30T04:05:55.434Z"
+generated_at: "2026-03-30T04:08:23.238Z"
 status: "repealed"
 ---
 

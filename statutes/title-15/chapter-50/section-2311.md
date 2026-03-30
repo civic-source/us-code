@@ -3,9 +3,9 @@ title: "Section 2311 - Applicability to other laws"
 usc_title: 15
 usc_section: "2311"
 chapter: 50
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 2311"
-generated_at: "2026-03-30T04:05:42.948Z"
+generated_at: "2026-03-30T04:08:11.187Z"
 status: "active"
 ---
 

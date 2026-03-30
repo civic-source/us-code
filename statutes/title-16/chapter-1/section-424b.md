@@ -3,9 +3,9 @@ title: "Section 424b - Application of laws to donated lands"
 usc_title: 16
 usc_section: "424b"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 424b"
-generated_at: "2026-03-30T04:05:55.327Z"
+generated_at: "2026-03-30T04:08:23.130Z"
 status: "active"
 ---
 

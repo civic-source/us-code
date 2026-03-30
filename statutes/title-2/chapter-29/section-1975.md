@@ -3,9 +3,9 @@ title: "Section 1975 - Overseas travel"
 usc_title: 2
 usc_section: "1975"
 chapter: 29
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "2 U.S.C. § 1975"
-generated_at: "2026-03-30T04:05:02.347Z"
+generated_at: "2026-03-30T04:07:47.917Z"
 status: "active"
 ---
 

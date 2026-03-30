@@ -3,9 +3,9 @@ title: "Section 3201 - Officers on active duty: minimum strength based on requir
 usc_title: 10
 usc_section: "3201"
 chapter: 331
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 3201"
-generated_at: "2026-03-30T04:05:30.783Z"
+generated_at: "2026-03-30T04:08:01.951Z"
 status: "active"
 ---
 

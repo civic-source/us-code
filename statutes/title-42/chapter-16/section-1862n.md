@@ -3,9 +3,9 @@ title: "Section 1862n - Mathematics and science education partnerships"
 usc_title: 42
 usc_section: "1862n"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 1862n"
-generated_at: "2026-03-30T04:07:16.695Z"
+generated_at: "2026-03-30T04:09:28.138Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
       - **(xii)** establish a mechanism to provide supplemental support during the academic year for teacher institute participants to apply the knowledge and skills gained at the teacher institute.
     - **(B)** In addition to the partnership requirement under paragraph (2), an institution of higher education or eligible nonprofit organization (or consortium) desiring a grant for a teacher institute for the 21st century may also partner with a teacher organization, museum, or educational partnership organization.
 - **(b)**
-  - **(1)** An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) of this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
+  - **(1)** An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
     - **(A)** a description of the partnership and the role that each member will play in implementing the proposal;
     - **(B)** a description of each of the activities to be carried out, including—
       - **(i)** how such activities will be aligned with State mathematics and science student academic achievement standards and with other activities that promote student achievement in mathematics and science;
@@ -97,7 +97,7 @@ status: "active"
     - **(A)** give priority to applications in which the partnership includes a high-need local educational agency or a high-need local educational agency in which at least one school does not make adequate yearly progress, as determined pursuant to part A of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6311 et seq.); and
     - **(B)** ensure that, to the extent practicable, a substantial number of the partnerships funded under this section include businesses.
 - **(c)**
-  - **(1)** The Director shall evaluate the program established under subsection (a) of this section. At a minimum, such evaluation shall—
+  - **(1)** The Director shall evaluate the program established under subsection (a). At a minimum, such evaluation shall—
     - **(A)** use a common set of benchmarks and assessment tools to identify best practices and materials developed and demonstrated by the partnerships; and
     - **(B)** to the extent practicable, compare the effectiveness of practices and materials developed and demonstrated by the partnerships authorized under this section with those of partnerships funded by other State or Federal agencies.
   - **(2)** Not later than 4 years after August 9, 2007 , the Director shall transmit a report summarizing the evaluations required under subsection (b)(1)(E) of grants received under this program and describing any changes to the program recommended as a result of these evaluations to the Committee on Science and Technology and the Committee on Education and Labor of the House of Representatives and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall be made widely available to the public.

@@ -3,9 +3,9 @@ title: "Section 5737 - Relocation expenses of an employee who is performing an e
 usc_title: 5
 usc_section: "5737"
 chapter: 57
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "5 U.S.C. § 5737"
-generated_at: "2026-03-30T04:04:59.507Z"
+generated_at: "2026-03-30T04:07:49.943Z"
 status: "active"
 ---
 

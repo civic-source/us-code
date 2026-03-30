@@ -3,9 +3,9 @@ title: "Section 1351 - Consuls, vice consuls, and members of a diplomatic missio
 usc_title: 28
 usc_section: "1351"
 chapter: 85
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "28 U.S.C. § 1351"
-generated_at: "2026-03-30T04:06:27.757Z"
+generated_at: "2026-03-30T04:08:43.365Z"
 status: "active"
 ---
 

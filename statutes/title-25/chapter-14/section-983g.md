@@ -3,9 +3,9 @@ title: "Section 983g - Regulations"
 usc_title: 25
 usc_section: "983g"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 983g"
-generated_at: "2026-03-30T04:06:11.396Z"
+generated_at: "2026-03-30T04:08:36.974Z"
 status: "active"
 ---
 

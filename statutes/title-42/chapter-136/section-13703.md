@@ -3,9 +3,9 @@ title: "Section 13703 - Violent offender incarceration grants"
 usc_title: 42
 usc_section: "13703"
 chapter: 136
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 13703"
-generated_at: "2026-03-30T04:07:17.105Z"
+generated_at: "2026-03-30T04:09:28.545Z"
 status: "active"
 ---
 

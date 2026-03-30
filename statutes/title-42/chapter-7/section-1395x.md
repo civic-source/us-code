@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T04:07:16.554Z"
+generated_at: "2026-03-30T04:09:27.997Z"
 status: "active"
 ---
 
@@ -429,6 +429,7 @@ For purposes of this subchapter—
   - **(4)**
     - **(A)** An entity which is certified as a provider of services other than a hospice program shall be considered, for purposes of certification as a hospice program, to have met any requirements under paragraph (2) which are also the same requirements for certification as such other type of provider. The Secretary shall coordinate surveys for determining certification under this subchapter so as to provide, to the extent feasible, for simultaneous surveys of an entity which seeks to be certified as a hospice program and as a provider of services of another type.
     - **(B)** Any entity which is certified as a hospice program and as a provider of another type shall have separate provider agreements under section 1395cc of this title and shall file separate cost reports with respect to costs incurred in providing hospice care and in providing other services and items under this subchapter.
+    - **(C)** Any entity that is certified as a hospice program shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months beginning 6 months after October 6, 2014 , and ending September 30, 2025 .
   - **(5)**
     - **(A)** The Secretary may waive the requirements of paragraph (2)(A)(ii)(I) for an agency or organization with respect to all or part of the nursing care described in paragraph (1)(A) if such agency or organization—
       - **(i)** is located in an area which is not an urbanized area (as defined by the Bureau of the Census);

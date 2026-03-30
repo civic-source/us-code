@@ -3,9 +3,9 @@ title: "Section 321l - Guidance and recommendations"
 usc_title: 6
 usc_section: "321l"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "6 U.S.C. § 321l"
-generated_at: "2026-03-30T04:05:04.845Z"
+generated_at: "2026-03-30T04:07:52.011Z"
 status: "active"
 ---
 

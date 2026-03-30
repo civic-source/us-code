@@ -3,9 +3,9 @@ title: "Section 2900 - General provisions"
 usc_title: 29
 usc_section: "2900"
 chapter: 30
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "29 U.S.C. § 2900"
-generated_at: "2026-03-30T04:06:19.437Z"
+generated_at: "2026-03-30T04:08:44.761Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 113 - Responsible source"
 usc_title: 41
 usc_section: "113"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "41 U.S.C. § 113"
-generated_at: "2026-03-30T04:07:01.042Z"
+generated_at: "2026-03-30T04:09:09.868Z"
 status: "active"
 ---
 

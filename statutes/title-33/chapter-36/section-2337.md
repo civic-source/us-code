@@ -3,9 +3,9 @@ title: "Section 2337 - Property protection program"
 usc_title: 33
 usc_section: "2337"
 chapter: 36
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 2337"
-generated_at: "2026-03-30T04:06:40.524Z"
+generated_at: "2026-03-30T04:09:02.244Z"
 status: "active"
 ---
 

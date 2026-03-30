@@ -3,9 +3,9 @@ title: "Section 396 - Additional lands; acceptance of title"
 usc_title: 16
 usc_section: "396"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 396"
-generated_at: "2026-03-30T04:05:55.299Z"
+generated_at: "2026-03-30T04:08:23.103Z"
 status: "active"
 ---
 

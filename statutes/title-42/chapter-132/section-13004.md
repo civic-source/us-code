@@ -3,9 +3,9 @@ title: "Section 13004 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13004"
 chapter: 132
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 13004"
-generated_at: "2026-03-30T04:07:17.083Z"
+generated_at: "2026-03-30T04:09:28.529Z"
 status: "active"
 ---
 

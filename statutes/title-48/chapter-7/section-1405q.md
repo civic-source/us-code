@@ -3,9 +3,9 @@ title: "Section 1405q - Laws continued in force until modified; patent, trade ma
 usc_title: 48
 usc_section: "1405q"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "48 U.S.C. § 1405q"
-generated_at: "2026-03-30T04:07:20.193Z"
+generated_at: "2026-03-30T04:09:33.078Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1472 - Community parent resource centers"
 usc_title: 20
 usc_section: "1472"
 chapter: 33
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 1472"
-generated_at: "2026-03-30T04:06:05.322Z"
+generated_at: "2026-03-30T04:08:20.362Z"
 status: "active"
 ---
 

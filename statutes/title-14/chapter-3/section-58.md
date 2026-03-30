@@ -3,9 +3,9 @@ title: "Section 58 - Centers of expertise for Coast Guard prevention and respons
 usc_title: 14
 usc_section: "58"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "14 U.S.C. § 58"
-generated_at: "2026-03-30T04:05:33.298Z"
+generated_at: "2026-03-30T04:08:04.321Z"
 status: "active"
 ---
 

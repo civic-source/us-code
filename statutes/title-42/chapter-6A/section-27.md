@@ -3,9 +3,9 @@ title: "Section 27 - Required coverage for reconstructive surgery following mast
 usc_title: 42
 usc_section: "27"
 chapter: 6
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T04:07:16.405Z"
+generated_at: "2026-03-30T04:09:27.849Z"
 status: "active"
 ---
 

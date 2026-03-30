@@ -3,9 +3,9 @@ title: "Section 2511 - Patents"
 usc_title: 15
 usc_section: "2511"
 chapter: 52
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 2511"
-generated_at: "2026-03-30T04:05:42.950Z"
+generated_at: "2026-03-30T04:08:11.189Z"
 status: "active"
 ---
 

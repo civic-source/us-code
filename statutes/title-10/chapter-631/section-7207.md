@@ -3,9 +3,9 @@ title: "Section 7207 - Administration of liberated and occupied areas"
 usc_title: 10
 usc_section: "7207"
 chapter: 631
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 7207"
-generated_at: "2026-03-30T04:05:30.803Z"
+generated_at: "2026-03-30T04:08:01.975Z"
 status: "active"
 ---
 

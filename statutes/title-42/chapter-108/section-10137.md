@@ -3,9 +3,9 @@ title: "Section 10137 - Consultation with States and affected Indian tribes"
 usc_title: 42
 usc_section: "10137"
 chapter: 108
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 10137"
-generated_at: "2026-03-30T04:07:17.013Z"
+generated_at: "2026-03-30T04:09:28.460Z"
 status: "active"
 ---
 

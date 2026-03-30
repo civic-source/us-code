@@ -3,9 +3,9 @@ title: "Section 41735 - Enhanced essential air service"
 usc_title: 49
 usc_section: "41735"
 chapter: 417
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "49 U.S.C. § 41735"
-generated_at: "2026-03-30T04:07:28.930Z"
+generated_at: "2026-03-30T04:09:40.133Z"
 status: "active"
 ---
 

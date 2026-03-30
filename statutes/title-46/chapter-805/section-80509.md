@@ -3,9 +3,9 @@ title: "Section 80509 - Civil penalty"
 usc_title: 46
 usc_section: "80509"
 chapter: 805
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 80509"
-generated_at: "2026-03-30T04:07:23.525Z"
+generated_at: "2026-03-30T04:09:32.320Z"
 status: "active"
 ---
 

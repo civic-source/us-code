@@ -3,9 +3,9 @@ title: "Section 1829a - Participation by State nonmember insured banks in lotter
 usc_title: 12
 usc_section: "1829a"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1829a"
-generated_at: "2026-03-30T04:05:37.752Z"
+generated_at: "2026-03-30T04:08:08.551Z"
 status: "active"
 ---
 
@@ -17,8 +17,8 @@ status: "active"
   - **(3)** announce, advertise, or publicize the existence of any lottery; or
   - **(4)** announce, advertise, or publicize the existence or identity of any participant or winner, as such, in a lottery.
 - **(b)** A State nonmember insured bank may not permit—
-  - **(1)** the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
-  - **(2)** direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+  - **(1)** the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a), or
+  - **(2)** direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a).
 - **(c)** As used in this section—
   - **(1)** The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
   - **(2)** The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—

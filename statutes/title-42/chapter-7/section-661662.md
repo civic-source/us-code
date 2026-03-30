@@ -3,9 +3,9 @@ title: "Section 661662 - Repealed. Pub. L. 104–193, title III, § 362(b)(1) , 
 usc_title: 42
 usc_section: "661662"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 661662"
-generated_at: "2026-03-30T04:07:16.457Z"
+generated_at: "2026-03-30T04:09:27.900Z"
 status: "repealed"
 ---
 

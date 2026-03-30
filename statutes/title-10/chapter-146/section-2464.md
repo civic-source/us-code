@@ -3,9 +3,9 @@ title: "Section 2464 - Core logistics capabilities"
 usc_title: 10
 usc_section: "2464"
 chapter: 146
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 2464"
-generated_at: "2026-03-30T04:05:30.756Z"
+generated_at: "2026-03-30T04:08:01.922Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2921 - Definitions"
 usc_title: 15
 usc_section: "2921"
 chapter: 56
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 2921"
-generated_at: "2026-03-30T04:05:42.962Z"
+generated_at: "2026-03-30T04:08:11.202Z"
 status: "active"
 ---
 

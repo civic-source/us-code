@@ -3,9 +3,9 @@ title: "Section 584 - Apportionment of remaining funds; Shoshone-Bannock Tribes 
 usc_title: 25
 usc_section: "584"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 584"
-generated_at: "2026-03-30T04:06:11.375Z"
+generated_at: "2026-03-30T04:08:36.953Z"
 status: "active"
 ---
 

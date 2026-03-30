@@ -3,9 +3,9 @@ title: "Section 1421to1427 - Omitted"
 usc_title: 43
 usc_section: "1421to1427"
 chapter: 30
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 1421to1427"
-generated_at: "2026-03-30T04:06:51.044Z"
+generated_at: "2026-03-30T04:09:10.683Z"
 status: "omitted"
 ---
 

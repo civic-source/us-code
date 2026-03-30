@@ -3,9 +3,9 @@ title: "Section 2283 - Membership on advisory committees"
 usc_title: 7
 usc_section: "2283"
 chapter: 55
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 2283"
-generated_at: "2026-03-30T04:05:21.100Z"
+generated_at: "2026-03-30T04:07:57.505Z"
 status: "active"
 ---
 

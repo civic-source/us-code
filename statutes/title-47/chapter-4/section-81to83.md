@@ -3,9 +3,9 @@ title: "Section 81to83 - Repealed. June 19, 1934, ch. 652, § 602(a) , 48 Stat. 
 usc_title: 47
 usc_section: "81to83"
 chapter: 4
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "47 U.S.C. § 81to83"
-generated_at: "2026-03-30T04:07:22.529Z"
+generated_at: "2026-03-30T04:09:33.674Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5104 - Protection of proprietary rights"
 usc_title: 15
 usc_section: "5104"
 chapter: 77
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 5104"
-generated_at: "2026-03-30T04:05:42.983Z"
+generated_at: "2026-03-30T04:08:11.221Z"
 status: "active"
 ---
 

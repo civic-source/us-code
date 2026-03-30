@@ -3,9 +3,9 @@ title: "Section 2262 - Employee liability insurance on motor vehicles in foreign
 usc_title: 7
 usc_section: "2262"
 chapter: 55
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 2262"
-generated_at: "2026-03-30T04:05:21.098Z"
+generated_at: "2026-03-30T04:07:57.500Z"
 status: "active"
 ---
 

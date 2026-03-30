@@ -3,9 +3,9 @@ title: "Section 1516 - Statistical information"
 usc_title: 15
 usc_section: "1516"
 chapter: 40
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 1516"
-generated_at: "2026-03-30T04:05:42.904Z"
+generated_at: "2026-03-30T04:08:11.145Z"
 status: "active"
 ---
 

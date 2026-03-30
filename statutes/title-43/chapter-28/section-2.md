@@ -3,9 +3,9 @@ title: "Section 2 - Appraisal of land and timber; manner and frequency; computat
 usc_title: 43
 usc_section: "2"
 chapter: 28
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T04:06:51.036Z"
+generated_at: "2026-03-30T04:09:10.676Z"
 status: "active"
 ---
 

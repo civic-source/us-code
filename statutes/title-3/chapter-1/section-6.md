@@ -3,9 +3,9 @@ title: "Section 6 - Credentials of electors; transmission to Archivist of the Un
 usc_title: 3
 usc_section: "6"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "3 U.S.C. § 6"
-generated_at: "2026-03-30T04:04:57.131Z"
+generated_at: "2026-03-30T04:07:46.802Z"
 status: "active"
 ---
 

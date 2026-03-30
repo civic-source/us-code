@@ -3,9 +3,9 @@ title: "Section 2533a - Requirement to buy certain articles from American source
 usc_title: 10
 usc_section: "2533a"
 chapter: 148
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 2533a"
-generated_at: "2026-03-30T04:05:30.761Z"
+generated_at: "2026-03-30T04:08:01.927Z"
 status: "active"
 ---
 

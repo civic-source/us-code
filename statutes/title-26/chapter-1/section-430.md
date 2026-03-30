@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-30T04:06:33.339Z"
+generated_at: "2026-03-30T04:08:49.963Z"
 status: "active"
 ---
 
@@ -301,7 +301,7 @@ status: "active"
     - **(A)** In any case in which a plan which is in at-risk status for a plan year has been in such status for a consecutive period of fewer than 5 plan years, the applicable amount of the funding target and of the target normal cost shall be, in lieu of the amount determined without regard to this paragraph, the sum of—
       - **(i)** the amount determined under this section without regard to this subsection, plus
       - **(ii)** the transition percentage for such plan year of the excess of the amount determined under this subsection (without regard to this paragraph) over the amount determined under this section without regard to this subsection.
-    - **(B)** For purposes of subparagraph (A), the transition percentage shall be determined in accordance with the following table: If the consecutive number of The transi- years (including the plan year) tion percent- the plan is in at-risk status is— age is— 1 20 2 40 3 60 4 80.
+    - **(B)** For purposes of subparagraph (A), the transition percentage shall be determined in accordance with the following table: If the consecutive number of The years (including the plan year) transition the plan is in at-risk status is— percentage is— 1 20 2 40 3 60 4 80.
     - **(C)** For purposes of this paragraph, plan years beginning before 2008 shall not be taken into account.
   - **(6)** If, on each day during the preceding plan year, a plan had 500 or fewer participants, the plan shall not be treated as in at-risk status for the plan year. For purposes of this paragraph, all defined benefit plans (other than multiemployer plans) maintained by the same employer (or any member of such employer’s controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account and the rules of subsection (g)(2)(C) shall apply.
 - **(j)**

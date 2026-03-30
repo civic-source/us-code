@@ -3,9 +3,9 @@ title: "Section 5332 - GAO audit of Council"
 usc_title: 12
 usc_section: "5332"
 chapter: 53
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 5332"
-generated_at: "2026-03-30T04:05:37.842Z"
+generated_at: "2026-03-30T04:08:08.635Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 352a - Repealed. Pub. L. 85–699, title VI, § 601 , Aug. 21, 1
 usc_title: 12
 usc_section: "352a"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 352a"
-generated_at: "2026-03-30T04:05:37.655Z"
+generated_at: "2026-03-30T04:08:08.460Z"
 status: "repealed"
 ---
 

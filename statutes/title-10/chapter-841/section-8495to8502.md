@@ -3,9 +3,9 @@ title: "Section 8495to8502 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "8495to8502"
 chapter: 841
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 8495to8502"
-generated_at: "2026-03-30T04:05:30.812Z"
+generated_at: "2026-03-30T04:08:01.985Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3406 - Trilateral scientific and technological cooperation by Eg
 usc_title: 22
 usc_section: "3406"
 chapter: 49
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 3406"
-generated_at: "2026-03-30T04:06:13.709Z"
+generated_at: "2026-03-30T04:08:31.801Z"
 status: "active"
 ---
 

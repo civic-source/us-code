@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T04:06:33.322Z"
+generated_at: "2026-03-30T04:08:49.946Z"
 status: "active"
 ---
 
@@ -261,7 +261,7 @@ status: "active"
       - **(i)** An arrangement shall not be treated as a qualified salary reduction arrangement for any year if the employer (or any predecessor employer) maintained a qualified plan with respect to which contributions were made, or benefits were accrued, for service in any year in the period beginning with the year such arrangement became effective and ending with the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees so described are eligible to participate.
       - **(ii)** For purposes of this subparagraph, the term “qualified plan” means a plan, contract, pension, or trust described in subparagraph (A) or (B) of section 219(g)(5).
     - **(E)**
-      - **(i)** For purposes of subparagraph (A)(ii), the applicable dollar amount shall be the amount determined in accordance with the following table: For years The applicable beginning in dollar amount: calendar year: 2002 $7,000 2003 $8,000 2004 $9,000 2005 or thereafter $10,000.
+      - **(i)** For purposes of subparagraph (A)(ii), the applicable dollar amount shall be the amount determined in accordance with the following table: For years beginning in calendar year: The applicable dollar amount: 2002 $7,000 2003 $8,000 2004 $9,000 2005 or thereafter $10,000.
       - **(ii)** In the case of a year beginning after December 31, 2005 , the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
   - **(3)** The requirements of this paragraph are met with respect to a simple retirement account if the employee’s rights to any contribution to the simple retirement account are nonforfeitable. For purposes of this paragraph, rules similar to the rules of subsection (k)(4) shall apply.
   - **(4)**

@@ -3,9 +3,9 @@ title: "Section 199 - Income attributable to domestic production activities"
 usc_title: 26
 usc_section: "199"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 199"
-generated_at: "2026-03-30T04:06:33.294Z"
+generated_at: "2026-03-30T04:08:49.919Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There shall be allowed as a deduction an amount equal to 9 percent of the lesser of—
     - **(A)** the qualified production activities income of the taxpayer for the taxable year, or
     - **(B)** taxable income (determined without regard to this section) for the taxable year.
-  - **(2)** In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table: For taxable years The transition beginning in: percentage is: 2005 or 2006 3 2007, 2008, or 2009 6.
+  - **(2)** In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table: For taxable years beginning in: The transition percentage is: 2005 or 2006 3 2007, 2008, or 2009 6.
 - **(b)**
   - **(1)** The amount of the deduction allowable under subsection (a) for any taxable year shall not exceed 50 percent of the W–2 wages of the taxpayer for the taxable year.
   - **(2)** For purposes of this section—

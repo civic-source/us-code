@@ -3,9 +3,9 @@ title: "Section 64 - Laws imposing fines applicable to persons acting under cust
 usc_title: 19
 usc_section: "64"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "19 U.S.C. § 64"
-generated_at: "2026-03-30T04:05:57.116Z"
+generated_at: "2026-03-30T04:08:16.543Z"
 status: "active"
 ---
 

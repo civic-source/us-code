@@ -3,9 +3,9 @@ title: "Section 7342 - Receipt and disposition of foreign gifts and decorations"
 usc_title: 5
 usc_section: "7342"
 chapter: 73
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "5 U.S.C. § 7342"
-generated_at: "2026-03-30T04:04:59.517Z"
+generated_at: "2026-03-30T04:07:49.954Z"
 status: "active"
 ---
 

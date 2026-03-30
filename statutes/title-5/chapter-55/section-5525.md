@@ -3,9 +3,9 @@ title: "Section 5525 - Allotment and assignment of pay"
 usc_title: 5
 usc_section: "5525"
 chapter: 55
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "5 U.S.C. § 5525"
-generated_at: "2026-03-30T04:04:59.501Z"
+generated_at: "2026-03-30T04:07:49.937Z"
 status: "active"
 ---
 

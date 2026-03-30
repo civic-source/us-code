@@ -3,9 +3,9 @@ title: "Section 1395f - Conditions of and limitations on payment for services"
 usc_title: 42
 usc_section: "1395f"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 1395f"
-generated_at: "2026-03-30T04:07:16.504Z"
+generated_at: "2026-03-30T04:09:27.947Z"
 status: "active"
 ---
 
@@ -29,10 +29,11 @@ status: "active"
         - **(II)** the medical director (or physician member of the interdisciplinary group described in section 1395x(dd)(2)(B) of this title ) of the hospice program providing (or arranging for) the care,
       - **(ii)** in a subsequent 90- or 60-day period, the medical director or physician described in clause (i)(II) recertifies at the beginning of the period that the individual is terminally ill based on such clinical judgment;
     - **(B)** a written plan for providing hospice care with respect to such individual has been established (before such care is provided by, or under arrangements made by, that hospice program) and is periodically reviewed by the individual’s attending physician and by the medical director (and the interdisciplinary group described in section 1395x(dd)(2)(B) of this title ) of the hospice program;
-    - **(C)** such care is being or was provided pursuant to such plan of care; and
-    - **(D)** on and after January 1, 2011 —
+    - **(C)** such care is being or was provided pursuant to such plan of care;
+    - **(D)** on and after January 1, 2011 (and, in the case of clause (ii), before October 6, 2014 )—
       - **(i)** a hospice physician or nurse practitioner has a face-to-face encounter with the individual to determine continued eligibility of the individual for hospice care prior to the 180th-day recertification and each subsequent recertification under subparagraph (A)(ii) and attests that such visit took place (in accordance with procedures established by the Secretary); and
       - **(ii)** in the case of hospice care provided an individual for more than 180 days by a hospice program for which the number of such cases for such program comprises more than a percent (specified by the Secretary) of the total number of such cases for all programs under this subchapter, the hospice care provided to such individual is medically reviewed (in accordance with procedures established by the Secretary); and
+    - **(E)** on and after October 6, 2014 , in the case of hospice care provided an individual for more than 180 days by a hospice program for which the number of such cases for such program comprises more than a percent (specified by the Secretary) of the total number of all cases of individuals provided hospice care by the program under this subchapter, the hospice care provided to such individual is medically reviewed (in accordance with procedures established by the Secretary); and
   - **(8)** in the case of inpatient critical access hospital services, a physician certifies that the individual may reasonably be expected to be discharged or transferred to a hospital within 96 hours after admission to the critical access hospital.
 - **(b)** The amount paid to any provider of services (other than a hospice program providing hospice care, other than a critical access hospital providing inpatient critical access hospital services, and other than a home health agency with respect to durable medical equipment) with respect to services for which payment may be made under this part shall, subject to the provisions of sections 1395e, 1395ww, and 1395fff of this title, be—
   - **(1)** except as provided in paragraph (3), the lesser of (A) the reasonable cost of such services, as determined under section 1395x(v) of this title and as further limited by section 1395rr(b)(2)(B) of this title , or (B) the customary charges with respect to such services;
@@ -86,7 +87,10 @@ status: "active"
         - **(II)** 5 percentage points.
   - **(2)**
     - **(A)** The amount of payment made under this part for hospice care provided by (or under arrangements made by) a hospice program for an accounting year may not exceed the “cap amount” for the year (computed under subparagraph (B)) multiplied by the number of medicare beneficiaries in the hospice program in that year (determined under subparagraph (C)).
-    - **(B)** For purposes of subparagraph (A), the “cap amount” for a year is $6,500, increased or decreased, for accounting years that end after October 1, 1984 , by the same percentage as the percentage increase or decrease, respectively, in the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average), published by the Bureau of Labor Statistics, from March 1984 to the fifth month of the accounting year.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), for purposes of subparagraph (A), the “cap amount” for a year is $6,500, increased or decreased, for accounting years that end after October 1, 1984 , by the same percentage as the percentage increase or decrease, respectively, in the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average), published by the Bureau of Labor Statistics, from March 1984 to the fifth month of the accounting year.
+      - **(ii)** For purposes of subparagraph (A) for accounting years that end after September 30, 2016 , and before October 1, 2025 , the “cap amount” is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
+      - **(iii)** For accounting years that end after September 30, 2025 , the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
     - **(C)** For purposes of subparagraph (A), the “number of medicare beneficiaries” in a hospice program in an accounting year is equal to the number of individuals who have made an election under subsection (d) of this section with respect to the hospice program and have been provided hospice care by (or under arrangements made by) the hospice program under this part in the accounting year, such number reduced to reflect the proportion of hospice care that each such individual was provided in a previous or subsequent accounting year or under a plan of care established by another hospice program.
     - **(D)** A hospice program shall submit claims for payment for hospice care furnished in an individual’s home under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
   - **(3)** Hospice programs providing hospice care for which payment is made under this subsection shall submit to the Secretary such data with respect to the costs for providing such care for each fiscal year, beginning with fiscal year 1999, as the Secretary determines necessary.

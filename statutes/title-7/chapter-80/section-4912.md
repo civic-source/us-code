@@ -3,9 +3,9 @@ title: "Section 4912 - Requirement of referendum"
 usc_title: 7
 usc_section: "4912"
 chapter: 80
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 4912"
-generated_at: "2026-03-30T04:05:21.127Z"
+generated_at: "2026-03-30T04:07:57.534Z"
 status: "active"
 ---
 

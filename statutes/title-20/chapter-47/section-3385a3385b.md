@@ -3,9 +3,9 @@ title: "Section 3385a3385b - Repealed. Pub. L. 100–297, title V, § 5352(4) , 
 usc_title: 20
 usc_section: "3385a3385b"
 chapter: 47
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 3385a3385b"
-generated_at: "2026-03-30T04:06:05.333Z"
+generated_at: "2026-03-30T04:08:20.373Z"
 status: "repealed"
 ---
 

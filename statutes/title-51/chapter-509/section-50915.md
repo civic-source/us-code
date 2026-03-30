@@ -3,9 +3,9 @@ title: "Section 50915 - Paying claims exceeding liability insurance and financia
 usc_title: 51
 usc_section: "50915"
 chapter: 509
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "51 U.S.C. § 50915"
-generated_at: "2026-03-30T04:07:33.662Z"
+generated_at: "2026-03-30T04:09:47.500Z"
 status: "active"
 ---
 
@@ -51,4 +51,4 @@ status: "active"
     - **(B)** a motion to postpone consideration of a resolution.
     - **(C)** a motion to proceed to the consideration of other business.
     - **(D)** an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
-- **(f)** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2013 . This section does not apply to permits.
+- **(f)** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2016 . This section does not apply to permits.

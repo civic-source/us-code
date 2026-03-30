@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T04:06:33.330Z"
+generated_at: "2026-03-30T04:08:49.953Z"
 status: "active"
 ---
 
@@ -332,8 +332,8 @@ status: "active"
         - **(I)** the participant’s compensation (as defined in section 415(c)(3)) for the year, over
         - **(II)** any other elective deferrals of the participant for such year which are made without regard to this subsection.
     - **(B)** For purposes of this paragraph—
-      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years The applicable beginning in: dollar amount is: 2002 $1,000 2003 $2,000 2004 $3,000 2005 $4,000 2006 and thereafter $5,000.
-      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years The applicable beginning in: dollar amount is: 2002 $500 2003 $1,000 2004 $1,500 2005 $2,000 2006 and thereafter $2,500.
+      - **(i)** In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years beginning in: The applicable dollar amount is: 2002 $1,000 2003 $2,000 2004 $3,000 2005 $4,000 2006 and thereafter $5,000.
+      - **(ii)** In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table: For taxable years beginning in: The applicable dollar amount is: 2002 $500 2003 $1,000 2004 $1,500 2005 $2,000 2006 and thereafter $2,500.
     - **(C)** In the case of a year beginning after December 31, 2006 , the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005 , and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
     - **(D)** For purposes of this paragraph, plans described in clauses (i), (ii), and (iv) of paragraph (6)(A) that are maintained by the same employer (as determined under subsection (b), (c), (m) or ( o )) shall be treated as a single plan, and plans described in clause (iii) of paragraph (6)(A) that are maintained by the same employer shall be treated as a single plan.
   - **(3)** In the case of any contribution to a plan under paragraph (1)—
@@ -398,7 +398,7 @@ status: "active"
       - **(ii)** For purposes of clause (i), the applicable percentage is the lesser of—
         - **(I)** 1 percent multiplied by the number of years of service with the employer, or
         - **(II)** 20 percent.
-      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 411(a)(13)(B) which meets the interest credit requirements of section 411(b)(5)(B)(i), the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives a pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age as of the The percentage beginning of the year is— is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
+      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 411(a)(13)(B) which meets the interest credit requirements of section 411(b)(5)(B)(i), the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives a pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age as of the beginning of the year is— The percentage is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
       - **(iv)** For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (4), (5), and (6) of section 411(a), except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
     - **(C)**
       - **(i)** The contribution requirements of this subparagraph with respect to any applicable defined contribution plan forming part of an eligible combined plan are met if—

@@ -3,9 +3,9 @@ title: "Section 299 - Definitions"
 usc_title: 15
 usc_section: "299"
 chapter: 8
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 299"
-generated_at: "2026-03-30T04:05:42.840Z"
+generated_at: "2026-03-30T04:08:11.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5331 - Structure of Council"
 usc_title: 7
 usc_section: "5331"
 chapter: 84
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 5331"
-generated_at: "2026-03-30T04:05:21.128Z"
+generated_at: "2026-03-30T04:07:57.535Z"
 status: "active"
 ---
 

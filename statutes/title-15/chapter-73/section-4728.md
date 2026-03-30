@@ -3,9 +3,9 @@ title: "Section 4728 - Environmental trade promotion"
 usc_title: 15
 usc_section: "4728"
 chapter: 73
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 4728"
-generated_at: "2026-03-30T04:05:42.981Z"
+generated_at: "2026-03-30T04:08:11.219Z"
 status: "active"
 ---
 

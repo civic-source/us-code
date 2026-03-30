@@ -3,9 +3,9 @@ title: "Section 306 - Annual report"
 usc_title: 46
 usc_section: "306"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 306"
-generated_at: "2026-03-30T04:07:23.479Z"
+generated_at: "2026-03-30T04:09:32.276Z"
 status: "active"
 ---
 

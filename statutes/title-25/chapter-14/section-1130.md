@@ -3,9 +3,9 @@ title: "Section 1130 - Rules and regulations"
 usc_title: 25
 usc_section: "1130"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 1130"
-generated_at: "2026-03-30T04:06:11.398Z"
+generated_at: "2026-03-30T04:08:36.976Z"
 status: "active"
 ---
 

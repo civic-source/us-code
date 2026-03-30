@@ -3,9 +3,9 @@ title: "Section 1103e - Limitations"
 usc_title: 20
 usc_section: "1103e"
 chapter: 28
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 1103e"
-generated_at: "2026-03-30T04:06:05.290Z"
+generated_at: "2026-03-30T04:08:20.330Z"
 status: "active"
 ---
 

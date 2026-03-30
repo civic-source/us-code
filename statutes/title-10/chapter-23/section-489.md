@@ -3,9 +3,9 @@ title: "Section 489 - Annual report on Department of Defense operation and finan
 usc_title: 10
 usc_section: "489"
 chapter: 23
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 489"
-generated_at: "2026-03-30T04:05:30.661Z"
+generated_at: "2026-03-30T04:08:01.817Z"
 status: "active"
 ---
 

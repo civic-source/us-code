@@ -3,9 +3,9 @@ title: "Section 139c - Deputy Assistant Secretary of Defense for Manufacturing a
 usc_title: 10
 usc_section: "139c"
 chapter: 4
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 139c"
-generated_at: "2026-03-30T04:05:30.650Z"
+generated_at: "2026-03-30T04:08:01.805Z"
 status: "active"
 ---
 

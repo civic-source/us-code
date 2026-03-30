@@ -3,9 +3,9 @@ title: "Section 1841 - Funds and services"
 usc_title: 48
 usc_section: "1841"
 chapter: 17
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "48 U.S.C. § 1841"
-generated_at: "2026-03-30T04:07:20.204Z"
+generated_at: "2026-03-30T04:09:33.089Z"
 status: "active"
 ---
 

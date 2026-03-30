@@ -3,9 +3,9 @@ title: "Section 220523 - Authority of national governing bodies"
 usc_title: 36
 usc_section: "220523"
 chapter: 2205
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "36 U.S.C. § 220523"
-generated_at: "2026-03-30T04:06:44.212Z"
+generated_at: "2026-03-30T04:09:05.444Z"
 status: "active"
 ---
 

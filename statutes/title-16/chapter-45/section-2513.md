@@ -3,9 +3,9 @@ title: "Section 2513 - Limitation of use of funds"
 usc_title: 16
 usc_section: "2513"
 chapter: 45
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 2513"
-generated_at: "2026-03-30T04:05:55.524Z"
+generated_at: "2026-03-30T04:08:23.328Z"
 status: "active"
 ---
 

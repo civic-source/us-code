@@ -3,9 +3,9 @@ title: "Section 2681to2688j1 - Omitted"
 usc_title: 42
 usc_section: "2681to2688j1"
 chapter: 33
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 2681to2688j1"
-generated_at: "2026-03-30T04:07:16.742Z"
+generated_at: "2026-03-30T04:09:28.192Z"
 status: "omitted"
 ---
 

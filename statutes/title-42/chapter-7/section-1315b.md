@@ -3,9 +3,9 @@ title: "Section 1315b - Providing Federal coverage and payment coordination for 
 usc_title: 42
 usc_section: "1315b"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 1315b"
-generated_at: "2026-03-30T04:07:16.474Z"
+generated_at: "2026-03-30T04:09:27.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7503 - Time for performance of acts where last day falls on Satu
 usc_title: 26
 usc_section: "7503"
 chapter: 77
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 7503"
-generated_at: "2026-03-30T04:06:33.557Z"
+generated_at: "2026-03-30T04:08:50.172Z"
 status: "active"
 ---
 

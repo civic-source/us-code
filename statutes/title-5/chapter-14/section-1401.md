@@ -3,9 +3,9 @@ title: "Section 1401 - Establishment of agency Chief Human Capital Officers"
 usc_title: 5
 usc_section: "1401"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "5 U.S.C. § 1401"
-generated_at: "2026-03-30T04:04:59.481Z"
+generated_at: "2026-03-30T04:07:49.916Z"
 status: "active"
 ---
 

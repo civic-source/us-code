@@ -3,9 +3,9 @@ title: "Section 853o - Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 1
 usc_title: 33
 usc_section: "853o"
 chapter: 17
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 853o"
-generated_at: "2026-03-30T04:06:40.468Z"
+generated_at: "2026-03-30T04:09:02.189Z"
 status: "repealed"
 ---
 

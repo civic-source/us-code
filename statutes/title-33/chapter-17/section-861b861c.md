@@ -3,9 +3,9 @@ title: "Section 861b861c - Omitted"
 usc_title: 33
 usc_section: "861b861c"
 chapter: 17
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 861b861c"
-generated_at: "2026-03-30T04:06:40.469Z"
+generated_at: "2026-03-30T04:09:02.189Z"
 status: "omitted"
 ---
 

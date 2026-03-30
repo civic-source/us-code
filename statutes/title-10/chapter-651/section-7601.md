@@ -3,9 +3,9 @@ title: "Section 7601 - Sales: members of the naval service and Coast Guard; wido
 usc_title: 10
 usc_section: "7601"
 chapter: 651
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 7601"
-generated_at: "2026-03-30T04:05:30.807Z"
+generated_at: "2026-03-30T04:08:01.978Z"
 status: "active"
 ---
 

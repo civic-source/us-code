@@ -3,9 +3,9 @@ title: "Section 453b - Requirement to buy certain items related to national secu
 usc_title: 6
 usc_section: "453b"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "6 U.S.C. § 453b"
-generated_at: "2026-03-30T04:05:04.851Z"
+generated_at: "2026-03-30T04:07:52.014Z"
 status: "active"
 ---
 

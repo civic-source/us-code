@@ -3,9 +3,9 @@ title: "Section 1587 - Disposition of other permanent war housing"
 usc_title: 42
 usc_section: "1587"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 1587"
-generated_at: "2026-03-30T04:07:16.671Z"
+generated_at: "2026-03-30T04:09:28.115Z"
 status: "active"
 ---
 

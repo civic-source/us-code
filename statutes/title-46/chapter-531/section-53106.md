@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-30T04:07:23.511Z"
+generated_at: "2026-03-30T04:09:32.306Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
     - **(A)** $2,600,000 for each of fiscal years 2006, 2007, and 2008;
-    - **(B)** $2,900,000, for each of fiscal years 2009, 2010, and 2011;
+    - **(B)** $2,900,000, 1 1 So in original. The comma probably should not appear. for each of fiscal years 2009, 2010, and 2011;
     - **(C)** $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
     - **(D)** $3,500,000 for each of fiscal years 2019, 2020, and 2021; and
     - **(E)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.

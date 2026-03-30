@@ -3,9 +3,9 @@ title: "Section 1451 - Purpose; definition of personnel; program authority"
 usc_title: 20
 usc_section: "1451"
 chapter: 33
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 1451"
-generated_at: "2026-03-30T04:06:05.319Z"
+generated_at: "2026-03-30T04:08:20.359Z"
 status: "active"
 ---
 

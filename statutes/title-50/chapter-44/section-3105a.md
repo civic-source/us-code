@@ -3,9 +3,9 @@ title: "Section 3105a - Annual assessment of intelligence community performance 
 usc_title: 50
 usc_section: "3105a"
 chapter: 44
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 3105a"
-generated_at: "2026-03-30T04:07:21.406Z"
+generated_at: "2026-03-30T04:09:35.794Z"
 status: "active"
 ---
 

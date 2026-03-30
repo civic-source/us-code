@@ -3,9 +3,9 @@ title: "Section 206to209 - Repealed. Pub. L. 109–177, title VI, § 605(c) , Ma
 usc_title: 3
 usc_section: "206to209"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "3 U.S.C. § 206to209"
-generated_at: "2026-03-30T04:04:57.133Z"
+generated_at: "2026-03-30T04:07:46.807Z"
 status: "repealed"
 ---
 

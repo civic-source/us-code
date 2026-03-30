@@ -3,9 +3,9 @@ title: "Section 1831t - Depository institutions lacking Federal deposit insuranc
 usc_title: 12
 usc_section: "1831t"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1831t"
-generated_at: "2026-03-30T04:05:37.759Z"
+generated_at: "2026-03-30T04:08:08.557Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
         - **(I)** Make the transmission described in clause (i) via mail not later than three months after October 13, 2006 .
         - **(II)** Make a second transmission described in clause (i) via mail not less than 30 days and not more than three months after a transmission to the depositor in accordance with subclause (I), if the institution has not, by the date of such mailing, received from the depositor a card referred to in clause (i) which has been signed by the depositor.
 - **(c)** To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Bureau, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
-- **(d)** The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+- **(d)** The Bureau may, by regulation or order, make exceptions to subsection (b) for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 - **(e)** For purposes of this section:
   - **(1)** The “appropriate supervisor” of a depository institution means the agency primarily responsible for supervising the institution.
   - **(2)** The term “depository institution” includes—

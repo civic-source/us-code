@@ -3,9 +3,9 @@ title: "Section 6893 - Native American children in school"
 usc_title: 20
 usc_section: "6893"
 chapter: 70
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 6893"
-generated_at: "2026-03-30T04:06:05.379Z"
+generated_at: "2026-03-30T04:08:20.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1701 - Publications for public distribution to be distributed by
 usc_title: 44
 usc_section: "1701"
 chapter: 17
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "44 U.S.C. § 1701"
-generated_at: "2026-03-30T04:07:00.715Z"
+generated_at: "2026-03-30T04:09:09.256Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14102 - Selection boards: appointment and composition"
 usc_title: 10
 usc_section: "14102"
 chapter: 1403
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 14102"
-generated_at: "2026-03-30T04:05:30.830Z"
+generated_at: "2026-03-30T04:08:02.003Z"
 status: "active"
 ---
 

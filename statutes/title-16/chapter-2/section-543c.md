@@ -3,9 +3,9 @@ title: "Section 543c - Administration"
 usc_title: 16
 usc_section: "543c"
 chapter: 2
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 543c"
-generated_at: "2026-03-30T04:05:55.403Z"
+generated_at: "2026-03-30T04:08:23.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 245jto245j19 - Transferred"
 usc_title: 22
 usc_section: "245jto245j19"
 chapter: 5
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 245jto245j19"
-generated_at: "2026-03-30T04:06:13.606Z"
+generated_at: "2026-03-30T04:08:31.683Z"
 status: "transferred"
 ---
 

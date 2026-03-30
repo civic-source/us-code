@@ -3,9 +3,9 @@ title: "Section 7607 - Repealed. Pub. L. 98–473, title II, § 320(b) , Oct. 12
 usc_title: 26
 usc_section: "7607"
 chapter: 78
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 7607"
-generated_at: "2026-03-30T04:06:33.561Z"
+generated_at: "2026-03-30T04:08:50.175Z"
 status: "repealed"
 ---
 

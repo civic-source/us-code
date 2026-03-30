@@ -3,9 +3,9 @@ title: "Section 30912 - Arbitration, compromise, or settlement"
 usc_title: 46
 usc_section: "30912"
 chapter: 309
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 30912"
-generated_at: "2026-03-30T04:07:23.501Z"
+generated_at: "2026-03-30T04:09:32.297Z"
 status: "active"
 ---
 

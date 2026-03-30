@@ -3,9 +3,9 @@ title: "Section 3031 - The Army Staff: function; composition"
 usc_title: 10
 usc_section: "3031"
 chapter: 305
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 3031"
-generated_at: "2026-03-30T04:05:30.782Z"
+generated_at: "2026-03-30T04:08:01.950Z"
 status: "active"
 ---
 

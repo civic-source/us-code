@@ -3,9 +3,9 @@ title: "Section 1101 - Congressional findings"
 usc_title: 30
 usc_section: "1101"
 chapter: 24
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "30 U.S.C. § 1101"
-generated_at: "2026-03-30T04:06:17.647Z"
+generated_at: "2026-03-30T04:08:39.738Z"
 status: "active"
 ---
 

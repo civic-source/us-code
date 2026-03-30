@@ -3,9 +3,9 @@ title: "Section 4702 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "4702"
 chapter: 57
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 4702"
-generated_at: "2026-03-30T04:06:13.734Z"
+generated_at: "2026-03-30T04:08:31.830Z"
 status: "active"
 ---
 

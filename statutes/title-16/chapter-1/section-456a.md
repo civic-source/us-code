@@ -3,9 +3,9 @@ title: "Section 456a - Collections and pay-roll deductions for meals and quarter
 usc_title: 16
 usc_section: "456a"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 456a"
-generated_at: "2026-03-30T04:05:55.340Z"
+generated_at: "2026-03-30T04:08:23.142Z"
 status: "active"
 ---
 

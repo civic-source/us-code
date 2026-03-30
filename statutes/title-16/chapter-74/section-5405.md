@@ -3,9 +3,9 @@ title: "Section 5405 - Funding"
 usc_title: 16
 usc_section: "5405"
 chapter: 74
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 5405"
-generated_at: "2026-03-30T04:05:55.565Z"
+generated_at: "2026-03-30T04:08:23.370Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2143 - Standards and certification process for humane handling, 
 usc_title: 7
 usc_section: "2143"
 chapter: 54
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 2143"
-generated_at: "2026-03-30T04:05:21.092Z"
+generated_at: "2026-03-30T04:07:57.496Z"
 status: "active"
 ---
 

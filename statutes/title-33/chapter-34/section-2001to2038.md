@@ -3,9 +3,9 @@ title: "Section 2001to2038 - Repealed. Pub. L. 108–293, title III, § 303(a) ,
 usc_title: 33
 usc_section: "2001to2038"
 chapter: 34
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 2001to2038"
-generated_at: "2026-03-30T04:06:40.511Z"
+generated_at: "2026-03-30T04:09:02.231Z"
 status: "repealed"
 ---
 

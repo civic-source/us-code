@@ -3,9 +3,9 @@ title: "Section 133to135 - Repealed. Pub. L. 85–857, § 14(1) , (10), (12), (5
 usc_title: 24
 usc_section: "133to135"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "24 U.S.C. § 133to135"
-generated_at: "2026-03-30T04:06:08.704Z"
+generated_at: "2026-03-30T04:08:28.918Z"
 status: "repealed"
 ---
 

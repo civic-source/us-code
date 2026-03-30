@@ -3,9 +3,9 @@ title: "Section 506507 - Repealed. Pub. L. 112–141, div. E, title II , §§ 52
 usc_title: 23
 usc_section: "506507"
 chapter: 5
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "23 U.S.C. § 506507"
-generated_at: "2026-03-30T04:06:14.682Z"
+generated_at: "2026-03-30T04:08:32.626Z"
 status: "repealed"
 ---
 

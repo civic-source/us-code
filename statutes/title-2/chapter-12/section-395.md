@@ -3,9 +3,9 @@ title: "Section 395 - Death of contestant"
 usc_title: 2
 usc_section: "395"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "2 U.S.C. § 395"
-generated_at: "2026-03-30T04:05:02.319Z"
+generated_at: "2026-03-30T04:07:47.885Z"
 status: "active"
 ---
 

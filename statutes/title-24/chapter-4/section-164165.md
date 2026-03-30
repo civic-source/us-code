@@ -3,9 +3,9 @@ title: "Section 164165 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 9
 usc_title: 24
 usc_section: "164165"
 chapter: 4
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "24 U.S.C. § 164165"
-generated_at: "2026-03-30T04:06:08.704Z"
+generated_at: "2026-03-30T04:08:28.918Z"
 status: "repealed"
 ---
 

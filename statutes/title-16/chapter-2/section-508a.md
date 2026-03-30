@@ -3,9 +3,9 @@ title: "Section 508a - Omitted"
 usc_title: 16
 usc_section: "508a"
 chapter: 2
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 508a"
-generated_at: "2026-03-30T04:05:55.397Z"
+generated_at: "2026-03-30T04:08:23.201Z"
 status: "omitted"
 ---
 

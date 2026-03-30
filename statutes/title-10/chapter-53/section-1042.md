@@ -3,9 +3,9 @@ title: "Section 1042 - Copy of certificate of service"
 usc_title: 10
 usc_section: "1042"
 chapter: 53
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 1042"
-generated_at: "2026-03-30T04:05:30.687Z"
+generated_at: "2026-03-30T04:08:01.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 55105 - Transportation of hazardous waste"
 usc_title: 46
 usc_section: "55105"
 chapter: 551
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 55105"
-generated_at: "2026-03-30T04:07:23.515Z"
+generated_at: "2026-03-30T04:09:32.312Z"
 status: "active"
 ---
 

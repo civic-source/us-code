@@ -3,9 +3,9 @@ title: "Section 286to286g - Repealed. Pub. L. 104–186, title II, § 208 , Aug.
 usc_title: 2
 usc_section: "286to286g"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "2 U.S.C. § 286to286g"
-generated_at: "2026-03-30T04:05:02.315Z"
+generated_at: "2026-03-30T04:07:47.879Z"
 status: "repealed"
 ---
 

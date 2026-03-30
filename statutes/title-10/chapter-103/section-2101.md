@@ -3,9 +3,9 @@ title: "Section 2101 - Definitions"
 usc_title: 10
 usc_section: "2101"
 chapter: 103
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 2101"
-generated_at: "2026-03-30T04:05:30.725Z"
+generated_at: "2026-03-30T04:08:01.888Z"
 status: "active"
 ---
 

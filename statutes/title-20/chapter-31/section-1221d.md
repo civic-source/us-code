@@ -3,9 +3,9 @@ title: "Section 1221d - Repealed. Pub. L. 96–374, title X, § 1001(c) , Oct. 3
 usc_title: 20
 usc_section: "1221d"
 chapter: 31
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 1221d"
-generated_at: "2026-03-30T04:06:05.304Z"
+generated_at: "2026-03-30T04:08:20.345Z"
 status: "repealed"
 ---
 

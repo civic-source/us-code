@@ -3,9 +3,9 @@ title: "Section 513 - Lands in project subject to provisions of chapter; after c
 usc_title: 43
 usc_section: "513"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 513"
-generated_at: "2026-03-30T04:06:51.019Z"
+generated_at: "2026-03-30T04:09:10.658Z"
 status: "active"
 ---
 

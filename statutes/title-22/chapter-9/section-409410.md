@@ -3,9 +3,9 @@ title: "Section 409410 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 
 usc_title: 22
 usc_section: "409410"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 409410"
-generated_at: "2026-03-30T04:06:13.634Z"
+generated_at: "2026-03-30T04:08:31.717Z"
 status: "repealed"
 ---
 

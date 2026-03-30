@@ -3,9 +3,9 @@ title: "Section 4051 - Definitions"
 usc_title: 19
 usc_section: "4051"
 chapter: 26
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "19 U.S.C. § 4051"
-generated_at: "2026-03-30T04:05:57.208Z"
+generated_at: "2026-03-30T04:08:16.642Z"
 status: "active"
 ---
 

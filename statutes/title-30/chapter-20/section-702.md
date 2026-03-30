@@ -3,9 +3,9 @@ title: "Section 702 - “Qualified applicant” defined"
 usc_title: 30
 usc_section: "702"
 chapter: 20
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "30 U.S.C. § 702"
-generated_at: "2026-03-30T04:06:17.635Z"
+generated_at: "2026-03-30T04:08:39.723Z"
 status: "active"
 ---
 

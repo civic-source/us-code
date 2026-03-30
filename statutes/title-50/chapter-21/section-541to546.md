@@ -3,9 +3,9 @@ title: "Section 541to546 - Omitted"
 usc_title: 50
 usc_section: "541to546"
 chapter: 21
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 541to546"
-generated_at: "2026-03-30T04:07:21.363Z"
+generated_at: "2026-03-30T04:09:35.754Z"
 status: "omitted"
 ---
 

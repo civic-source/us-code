@@ -3,9 +3,9 @@ title: "Section 3413 - Exceptions"
 usc_title: 12
 usc_section: "3413"
 chapter: 35
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 3413"
-generated_at: "2026-03-30T04:05:37.801Z"
+generated_at: "2026-03-30T04:08:08.595Z"
 status: "active"
 ---
 

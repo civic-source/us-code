@@ -3,9 +3,9 @@ title: "Section 13911 - Prevention, diagnosis, and treatment of tuberculosis in 
 usc_title: 42
 usc_section: "13911"
 chapter: 136
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 13911"
-generated_at: "2026-03-30T04:07:17.108Z"
+generated_at: "2026-03-30T04:09:28.550Z"
 status: "active"
 ---
 

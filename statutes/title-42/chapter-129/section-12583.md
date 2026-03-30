@@ -3,9 +3,9 @@ title: "Section 12583 - National service program assistance requirements"
 usc_title: 42
 usc_section: "12583"
 chapter: 129
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 12583"
-generated_at: "2026-03-30T04:07:17.059Z"
+generated_at: "2026-03-30T04:09:28.506Z"
 status: "active"
 ---
 

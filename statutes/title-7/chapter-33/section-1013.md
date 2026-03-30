@@ -3,9 +3,9 @@ title: "Section 1013 - Omitted"
 usc_title: 7
 usc_section: "1013"
 chapter: 33
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 1013"
-generated_at: "2026-03-30T04:05:21.015Z"
+generated_at: "2026-03-30T04:07:57.406Z"
 status: "omitted"
 ---
 

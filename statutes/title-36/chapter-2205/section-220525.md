@@ -3,9 +3,9 @@ title: "Section 220525 - Granting sanctions for amateur athletic competitions"
 usc_title: 36
 usc_section: "220525"
 chapter: 2205
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "36 U.S.C. § 220525"
-generated_at: "2026-03-30T04:06:44.212Z"
+generated_at: "2026-03-30T04:09:05.445Z"
 status: "active"
 ---
 

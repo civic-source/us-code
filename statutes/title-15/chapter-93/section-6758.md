@@ -3,9 +3,9 @@ title: "Section 6758 - Bylaws, rules, and disciplinary action"
 usc_title: 15
 usc_section: "6758"
 chapter: 93
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 6758"
-generated_at: "2026-03-30T04:05:42.995Z"
+generated_at: "2026-03-30T04:08:11.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450j - Indemnity payments to dairy farmers and manufacturers of 
 usc_title: 7
 usc_section: "450j"
 chapter: 17
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 450j"
-generated_at: "2026-03-30T04:05:20.998Z"
+generated_at: "2026-03-30T04:07:57.385Z"
 status: "active"
 ---
 

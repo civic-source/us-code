@@ -3,9 +3,9 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-30T04:07:16.465Z"
+generated_at: "2026-03-30T04:09:27.910Z"
 status: "active"
 ---
 

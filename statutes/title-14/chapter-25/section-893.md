@@ -3,9 +3,9 @@ title: "Section 893 - Limitation on rights of members of the Auxiliary and tempo
 usc_title: 14
 usc_section: "893"
 chapter: 25
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "14 U.S.C. § 893"
-generated_at: "2026-03-30T04:05:33.307Z"
+generated_at: "2026-03-30T04:08:04.329Z"
 status: "active"
 ---
 

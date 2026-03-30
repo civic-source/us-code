@@ -3,9 +3,9 @@ title: "Section 331 - Repealed. Pub. L. 106–462, title I, § 106(a)(1) , Nov. 
 usc_title: 25
 usc_section: "331"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 331"
-generated_at: "2026-03-30T04:06:11.354Z"
+generated_at: "2026-03-30T04:08:36.930Z"
 status: "repealed"
 ---
 

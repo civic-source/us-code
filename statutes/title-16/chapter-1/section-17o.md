@@ -3,9 +3,9 @@ title: "Section 17o - National Park Service housing improvement"
 usc_title: 16
 usc_section: "17o"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 17o"
-generated_at: "2026-03-30T04:05:55.271Z"
+generated_at: "2026-03-30T04:08:23.077Z"
 status: "active"
 ---
 

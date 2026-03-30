@@ -1,0 +1,15 @@
+---
+title: "Section 488a - Removal of duplicative appraisals"
+usc_title: 25
+usc_section: "488a"
+chapter: 14
+current_through: "PL 113-185"
+classification: "25 U.S.C. § 488a"
+generated_at: "2026-03-30T04:08:36.949Z"
+status: "active"
+---
+
+# § 488a. Removal of duplicative appraisals
+
+Notwithstanding any other law (including regulations), in making loans under section 488 of this title , borrowers who are Indian tribes, members of Indian tribes, or tribal corporations shall only be required to obtain 1 appraisal under an appraisal standard recognized as of February 7, 2014 , by the Secretary or the Secretary of the Interior.
+

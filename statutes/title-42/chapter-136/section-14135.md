@@ -3,9 +3,9 @@ title: "Section 14135 - The Debbie Smith DNA Backlog Grant Program"
 usc_title: 42
 usc_section: "14135"
 chapter: 136
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 14135"
-generated_at: "2026-03-30T04:07:17.119Z"
+generated_at: "2026-03-30T04:09:28.559Z"
 status: "active"
 ---
 
@@ -38,8 +38,8 @@ status: "active"
   - **(2)** The Attorney General shall allocate to each State not less than 0.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated 0.125 percent of the total appropriation.
   - **(3)** Grant amounts distributed under paragraph (1) shall be awarded to conduct DNA analyses of samples from casework or from victims of crime under subsection (a)(2) of this section in accordance with the following limitations:
     - **(A)** For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
-    - **(B)** For each of the fiscal years 2010 through 2018, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
-    - **(C)** For each of fiscal years 2014 through 2018, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
+    - **(B)** For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
+    - **(C)** For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
   - **(4)** For each of fiscal years 2014 through 2017, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 - **(d)**
   - **(1)** A plan pursuant to subsection (b)(1) of this section shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
@@ -66,7 +66,7 @@ status: "active"
   - **(1)** Each State or unit of local government which receives a grant under this section shall keep records as the Attorney General may require to facilitate an effective audit of the receipt and use of grant funds received under this section.
   - **(2)** Each State or unit of local government which receives a grant under this section shall make available, for the purpose of audit and examination, such records as are related to the receipt or use of any such grant.
 - **(i)** For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
-- **(j)** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2009 through 2014.
+- **(j)** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2015 through 2019.
 - **(k)** The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j) of this section—
   - **(1)** to States or units of local government to defray the costs incurred by laboratories operated by each such State or unit of local government in preparing for accreditation or reaccreditation;
   - **(2)** in the form of additional grants to States, units of local government, or nonprofit professional organizations of persons actively involved in forensic science and nationally recognized within the forensic science community—

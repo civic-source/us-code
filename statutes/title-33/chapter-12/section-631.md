@@ -3,9 +3,9 @@ title: "Section 631 - Transfer of property between projects"
 usc_title: 33
 usc_section: "631"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 631"
-generated_at: "2026-03-30T04:06:40.461Z"
+generated_at: "2026-03-30T04:09:02.180Z"
 status: "active"
 ---
 

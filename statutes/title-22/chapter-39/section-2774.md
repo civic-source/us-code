@@ -3,9 +3,9 @@ title: "Section 2774 - Foreign military sales credit standards"
 usc_title: 22
 usc_section: "2774"
 chapter: 39
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 2774"
-generated_at: "2026-03-30T04:06:13.700Z"
+generated_at: "2026-03-30T04:08:31.791Z"
 status: "active"
 ---
 

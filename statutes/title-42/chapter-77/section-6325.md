@@ -3,9 +3,9 @@ title: "Section 6325 - General provisions"
 usc_title: 42
 usc_section: "6325"
 chapter: 77
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 6325"
-generated_at: "2026-03-30T04:07:16.870Z"
+generated_at: "2026-03-30T04:09:28.316Z"
 status: "active"
 ---
 

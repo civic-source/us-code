@@ -3,9 +3,9 @@ title: "Section 5966 - Commercial use authorizations"
 usc_title: 16
 usc_section: "5966"
 chapter: 79
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 5966"
-generated_at: "2026-03-30T04:05:55.571Z"
+generated_at: "2026-03-30T04:08:23.374Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9022 - Repealed. Pub. L. 98–94, title IX, § 932(c)(1) , Sept.
 usc_title: 10
 usc_section: "9022"
 chapter: 873
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 9022"
-generated_at: "2026-03-30T04:05:30.814Z"
+generated_at: "2026-03-30T04:08:01.987Z"
 status: "repealed"
 ---
 

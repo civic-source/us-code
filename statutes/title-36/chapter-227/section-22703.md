@@ -3,9 +3,9 @@ title: "Section 22703 - Membership"
 usc_title: 36
 usc_section: "22703"
 chapter: 227
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "36 U.S.C. § 22703"
-generated_at: "2026-03-30T04:06:44.191Z"
+generated_at: "2026-03-30T04:09:05.423Z"
 status: "active"
 ---
 

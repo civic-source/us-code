@@ -3,9 +3,9 @@ title: "Section 5101 - Office on Child Abuse and Neglect"
 usc_title: 42
 usc_section: "5101"
 chapter: 67
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 5101"
-generated_at: "2026-03-30T04:07:16.817Z"
+generated_at: "2026-03-30T04:09:28.264Z"
 status: "active"
 ---
 

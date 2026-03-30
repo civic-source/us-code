@@ -3,9 +3,9 @@ title: "Section 125 - Functions, powers, and duties: transfer, reassignment, con
 usc_title: 10
 usc_section: "125"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 125"
-generated_at: "2026-03-30T04:05:30.647Z"
+generated_at: "2026-03-30T04:08:01.802Z"
 status: "active"
 ---
 

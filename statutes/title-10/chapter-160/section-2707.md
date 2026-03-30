@@ -3,9 +3,9 @@ title: "Section 2707 - Environmental restoration projects for environmental resp
 usc_title: 10
 usc_section: "2707"
 chapter: 160
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 2707"
-generated_at: "2026-03-30T04:05:30.772Z"
+generated_at: "2026-03-30T04:08:01.939Z"
 status: "active"
 ---
 

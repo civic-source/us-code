@@ -3,9 +3,9 @@ title: "Section 675 - Definitions"
 usc_title: 42
 usc_section: "675"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 675"
-generated_at: "2026-03-30T04:07:16.461Z"
+generated_at: "2026-03-30T04:09:27.905Z"
 status: "active"
 ---
 
@@ -79,3 +79,9 @@ As used in this part or part B of this subchapter:
         - **(III)** participating in a program or activity designed to promote, or remove barriers to, employment;
         - **(IV)** employed for at least 80 hours per month; or
         - **(V)** incapable of doing any of the activities described in subclauses (I) through (IV) due to a medical condition, which incapability is supported by regularly updated information in the case plan of the child.
+  - **(9)** The term “sex trafficking victim” means a victim of—
+    - **(A)** sex trafficking (as defined in section 7102(10) of title 22 ); or
+    - **(B)** a severe form of trafficking in persons described in section 7102(9)(A) of title 22 .
+  - **(12)** 3 3 So in original. See Amendment of Section notes below. The term “sibling” means an individual who satisfies at least one of the following conditions with respect to a child:
+    - **(A)** The individual is considered by State law to be a sibling of the child.
+    - **(B)** The individual would have been considered a sibling of the child under State law but for a termination or other disruption of parental rights, such as the death of a parent.

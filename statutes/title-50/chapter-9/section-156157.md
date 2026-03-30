@@ -3,9 +3,9 @@ title: "Section 156157 - Omitted"
 usc_title: 50
 usc_section: "156157"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 156157"
-generated_at: "2026-03-30T04:07:21.357Z"
+generated_at: "2026-03-30T04:09:35.748Z"
 status: "omitted"
 ---
 

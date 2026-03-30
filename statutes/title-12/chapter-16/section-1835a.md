@@ -3,18 +3,18 @@ title: "Section 1835a - Prohibition against deposit production offices"
 usc_title: 12
 usc_section: "1835a"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1835a"
-generated_at: "2026-03-30T04:05:37.762Z"
+generated_at: "2026-03-30T04:08:08.560Z"
 status: "active"
 ---
 
 # § 1835a. Prohibition against deposit production offices
 
 - **(a)** The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997 , which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title, 1 1 See References in Text note below. or any amendment made by this title 1 to any other provision of law, primarily for the purpose of deposit production.
-- **(b)** Regulations issued under subsection (a) of this section shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
+- **(b)** Regulations issued under subsection (a) shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
 - **(c)**
-  - **(1)** Regulations issued under subsection (a) of this section shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank’s level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency’s sampling of the bank’s loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
+  - **(1)** Regulations issued under subsection (a) shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank’s level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency’s sampling of the bank’s loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
     - **(A)** the appropriate Federal banking agency for the out-of-State bank shall review the loan portfolio of the bank and determine whether the bank is reasonably helping to meet the credit needs of the communities served by the bank in the host State; and
     - **(B)** if the agency determines that the out-of-State bank is not reasonably helping to meet those needs—
       - **(i)** the agency may order that an interstate branch or branches of such bank in the host State be closed unless the bank provides reasonable assurances to the satisfaction of the appropriate Federal banking agency that the bank has an acceptable plan that will reasonably help to meet the credit needs of the communities served by the bank in the host State, and

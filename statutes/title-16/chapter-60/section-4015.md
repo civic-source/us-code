@@ -3,9 +3,9 @@ title: "Section 4015 - Termination of a council"
 usc_title: 16
 usc_section: "4015"
 chapter: 60
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 4015"
-generated_at: "2026-03-30T04:05:55.554Z"
+generated_at: "2026-03-30T04:08:23.357Z"
 status: "active"
 ---
 

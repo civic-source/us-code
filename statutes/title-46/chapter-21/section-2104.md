@@ -3,9 +3,9 @@ title: "Section 2104 - Delegation"
 usc_title: 46
 usc_section: "2104"
 chapter: 21
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 2104"
-generated_at: "2026-03-30T04:07:23.480Z"
+generated_at: "2026-03-30T04:09:32.277Z"
 status: "active"
 ---
 

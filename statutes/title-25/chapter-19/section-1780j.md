@@ -3,9 +3,9 @@ title: "Section 1780j - Conveyance of the Northern Tier Land"
 usc_title: 25
 usc_section: "1780j"
 chapter: 19
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 1780j"
-generated_at: "2026-03-30T04:06:11.434Z"
+generated_at: "2026-03-30T04:08:37.015Z"
 status: "active"
 ---
 
@@ -44,5 +44,5 @@ status: "active"
     - **(B)** Not later than 180 days after September 27, 2006 , the Pueblo of Santa Clara, in consultation with private landowners, shall grant and convey a perpetual easement to the private owners of land within the Northern Tier Land for private access over Santa Clara Reservation Highway 601 (Puye Road) across the Santa Clara Indian Reservation from its intersection with New Mexico State Highway 30, or other designated public road, on Forest Development Roads 416, 445 and other roads that may be necessary to provide access to each individually owned private tract.
   - **(3)** The Secretary of the Interior shall approve the conveyance of an easement under paragraph (2) upon receipt of written approval of the terms of the easement by the Secretary of Agriculture.
   - **(4)** If adequate administrative and inholder access is provided over the Santa Clara Indian Reservation under paragraph (2), the Secretary of the Interior—
-    - **(A)** shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 1780e(e)(5) of this title ; but
+    - **(A)** shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 1780e(e)(5) 1 1 So in original. Probably should be a reference to section 1780e(d)(5). of this title; but
     - **(B)** shall not vacate the reservations over the Northern Tier Land for administrative access under subsection (c)(2).

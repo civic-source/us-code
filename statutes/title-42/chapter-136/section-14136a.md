@@ -3,9 +3,9 @@ title: "Section 14136a - Sexual assault forensic exam program grants"
 usc_title: 42
 usc_section: "14136a"
 chapter: 136
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 14136a"
-generated_at: "2026-03-30T04:07:17.120Z"
+generated_at: "2026-03-30T04:09:28.561Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
     - **(D)** State sexual assault coalitions;
     - **(E)** medical personnel, including doctors, medical examiners, coroners, and nurses, involved in treating victims of sexual assault; and
     - **(F)** victim service providers involved in treating victims of sexual assault.
-- **(c)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2009 through 2014 to carry out this section.
+- **(c)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.

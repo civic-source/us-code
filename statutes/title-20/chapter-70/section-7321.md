@@ -3,9 +3,9 @@ title: "Section 7321 - Local flexibility demonstration agreements"
 usc_title: 20
 usc_section: "7321"
 chapter: 70
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 7321"
-generated_at: "2026-03-30T04:06:05.396Z"
+generated_at: "2026-03-30T04:08:20.431Z"
 status: "active"
 ---
 

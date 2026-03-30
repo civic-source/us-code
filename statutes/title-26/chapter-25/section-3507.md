@@ -3,9 +3,9 @@ title: "Section 3507 - Repealed. Pub. L. 111–226, title II, § 219(a)(1) , Aug
 usc_title: 26
 usc_section: "3507"
 chapter: 25
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 3507"
-generated_at: "2026-03-30T04:06:33.467Z"
+generated_at: "2026-03-30T04:08:50.086Z"
 status: "repealed"
 ---
 

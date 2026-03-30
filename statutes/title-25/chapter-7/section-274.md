@@ -3,9 +3,9 @@ title: "Section 274 - Employment of Indian girls and boys as assist­ants"
 usc_title: 25
 usc_section: "274"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 274"
-generated_at: "2026-03-30T04:06:11.351Z"
+generated_at: "2026-03-30T04:08:36.927Z"
 status: "active"
 ---
 

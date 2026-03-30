@@ -3,9 +3,9 @@ title: "Section 44 - Repealed. Pub. L. 97–79, § 9(b)(2) , Nov. 16, 1981 , 95 
 usc_title: 18
 usc_section: "44"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "18 U.S.C. § 44"
-generated_at: "2026-03-30T04:05:49.528Z"
+generated_at: "2026-03-30T04:08:14.968Z"
 status: "repealed"
 ---
 

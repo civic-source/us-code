@@ -3,9 +3,9 @@ title: "Section 7273a - Grants authorized"
 usc_title: 20
 usc_section: "7273a"
 chapter: 70
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 7273a"
-generated_at: "2026-03-30T04:06:05.394Z"
+generated_at: "2026-03-30T04:08:20.429Z"
 status: "active"
 ---
 

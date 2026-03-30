@@ -3,9 +3,9 @@ title: "Section 2389 - Recruiting for service against United States"
 usc_title: 18
 usc_section: "2389"
 chapter: 115
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "18 U.S.C. § 2389"
-generated_at: "2026-03-30T04:05:49.579Z"
+generated_at: "2026-03-30T04:08:15.019Z"
 status: "active"
 ---
 

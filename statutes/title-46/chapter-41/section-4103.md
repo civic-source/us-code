@@ -3,9 +3,9 @@ title: "Section 4103 - Exemptions"
 usc_title: 46
 usc_section: "4103"
 chapter: 41
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "46 U.S.C. § 4103"
-generated_at: "2026-03-30T04:07:23.487Z"
+generated_at: "2026-03-30T04:09:32.283Z"
 status: "active"
 ---
 

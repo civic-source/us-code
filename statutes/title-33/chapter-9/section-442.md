@@ -3,9 +3,9 @@ title: "Section 442 - Liability of officers of towing vessel"
 usc_title: 33
 usc_section: "442"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 442"
-generated_at: "2026-03-30T04:06:40.451Z"
+generated_at: "2026-03-30T04:09:02.170Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1201 - Appointment of members of the Merit Systems Protection Bo
 usc_title: 5
 usc_section: "1201"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "5 U.S.C. § 1201"
-generated_at: "2026-03-30T04:04:59.479Z"
+generated_at: "2026-03-30T04:07:49.914Z"
 status: "active"
 ---
 

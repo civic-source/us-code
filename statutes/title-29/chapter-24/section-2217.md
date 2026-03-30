@@ -3,9 +3,9 @@ title: "Section 2217 - Repealed. Pub. L. 103–218, title I, § 107 , Mar. 9, 19
 usc_title: 29
 usc_section: "2217"
 chapter: 24
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "29 U.S.C. § 2217"
-generated_at: "2026-03-30T04:06:19.425Z"
+generated_at: "2026-03-30T04:08:44.750Z"
 status: "repealed"
 ---
 

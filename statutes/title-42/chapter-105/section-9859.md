@@ -3,9 +3,9 @@ title: "Section 9859 - Definitions"
 usc_title: 42
 usc_section: "9859"
 chapter: 105
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 9859"
-generated_at: "2026-03-30T04:07:17.008Z"
+generated_at: "2026-03-30T04:09:28.454Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6004 - Repealed. Pub. L. 103–230, title I, § 106 , Apr. 6, 19
 usc_title: 42
 usc_section: "6004"
 chapter: 75
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 6004"
-generated_at: "2026-03-30T04:07:16.852Z"
+generated_at: "2026-03-30T04:09:28.299Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T04:06:33.257Z"
+generated_at: "2026-03-30T04:08:49.882Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
         - **(I)** the investment in the contract (as of the annuity starting date), by
         - **(II)** the number of anticipated payments determined under the table contained in clause (iii) (or, in the case of a contract to which subsection (c)(3)(B) applies, the number of monthly annuity payments under such contract).
       - **(ii)** Rules similar to the rules of paragraphs (2) and (3) of subsection (b) shall apply for purposes of this paragraph.
-      - **(iii)** If the annuity is payable over the life of a single individual, the number of anticipated payments shall be determined as follows: If the age of the annuitant on The number the annuity starting of anticipated date is: payments is: Not more than 55 360 More than 55 but not more than 60 310 More than 60 but not more than 65 260 More than 65 but not more than 70 210 More than 70 160.
+      - **(iii)** If the annuity is payable over the life of a single individual, the number of anticipated payments shall be determined as follows: If the age of the annuitant on the annuity starting date is: The number of anticipated payments is: Not more than 55 360 More than 55 but not more than 60 310 More than 60 but not more than 65 260 More than 65 but not more than 70 210 More than 70 160.
       - **(iv)** If the annuity is payable over the lives of more than 1 individual, the number of anticipated payments shall be determined as follows: If the combined ages of annuitants are: The number is: Not more than 110 410 More than 110 but not more than 120 360 More than 120 but not more than 130 310 More than 130 but not more than 140 260 More than 140 210.
     - **(C)** For purposes of this paragraph, investment in the contract shall be determined under subsection (c)(1) without regard to subsection (c)(2).
     - **(D)** If, in connection with the commencement of annuity payments under any qualified employer retirement plan, the taxpayer receives a lump-sum payment—

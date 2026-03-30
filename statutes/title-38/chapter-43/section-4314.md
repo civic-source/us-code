@@ -3,9 +3,9 @@ title: "Section 4314 - Reemployment by the Federal Government"
 usc_title: 38
 usc_section: "4314"
 chapter: 43
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "38 U.S.C. § 4314"
-generated_at: "2026-03-30T04:06:46.448Z"
+generated_at: "2026-03-30T04:09:07.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 371 - Retirement on salary; retirement in senior status"
 usc_title: 28
 usc_section: "371"
 chapter: 17
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "28 U.S.C. § 371"
-generated_at: "2026-03-30T04:06:27.741Z"
+generated_at: "2026-03-30T04:08:43.351Z"
 status: "active"
 ---
 

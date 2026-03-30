@@ -3,22 +3,22 @@ title: "Section 1831f - Brokered deposits"
 usc_title: 12
 usc_section: "1831f"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1831f"
-generated_at: "2026-03-30T04:05:37.753Z"
+generated_at: "2026-03-30T04:08:08.552Z"
 status: "active"
 ---
 
 # § 1831f. Brokered deposits
 
 - **(a)** An insured depository institution that is not well capitalized may not accept funds obtained, directly or indirectly, by or through any deposit broker for deposit into 1 or more deposit accounts.
-- **(b)** Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a) of this section.
-- **(c)** The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
-- **(d)** In the case of any insured depository institution for which the Corporation has been appointed as conservator, subsection (a) of this section shall not apply to the acceptance of deposits (described in such subsection) by such institution if the Corporation determines that the acceptance of such deposits—
+- **(b)** Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a).
+- **(c)** The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
+- **(d)** In the case of any insured depository institution for which the Corporation has been appointed as conservator, subsection (a) shall not apply to the acceptance of deposits (described in such subsection) by such institution if the Corporation determines that the acceptance of such deposits—
   - **(1)** is not an unsafe or unsound practice;
   - **(2)** is necessary to enable the institution to meet the demands of its depositors or pay its obligations in the ordinary course of business; and
   - **(3)** is consistent with the conservator’s fiduciary duty to minimize the institution’s losses.
-- **(e)** Any insured depository institution which, under subsection (c) or (d) of this section, accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+- **(e)** Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
   - **(1)** the rate paid on deposits of similar maturity in such institution’s normal market area for deposits accepted in the institution’s normal market area; or
   - **(2)** the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the institution’s normal market area.
 - **(f)** The Corporation may impose, by regulation or order, such additional restrictions on the acceptance of brokered deposits by any institution as the Corporation may determine to be appropriate.

@@ -3,9 +3,9 @@ title: "Section 1921 - Repealed. Pub. L. 108–7, div. H, title I, § 1018(h)(2)
 usc_title: 2
 usc_section: "1921"
 chapter: 29
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "2 U.S.C. § 1921"
-generated_at: "2026-03-30T04:05:02.345Z"
+generated_at: "2026-03-30T04:07:47.915Z"
 status: "repealed"
 ---
 

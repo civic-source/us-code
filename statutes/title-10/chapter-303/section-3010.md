@@ -3,9 +3,9 @@ title: "Section 3010 - Renumbered § 3011]"
 usc_title: 10
 usc_section: "3010"
 chapter: 303
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 3010"
-generated_at: "2026-03-30T04:05:30.781Z"
+generated_at: "2026-03-30T04:08:01.949Z"
 status: "renumbered"
 ---
 

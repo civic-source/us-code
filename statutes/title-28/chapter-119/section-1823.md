@@ -3,9 +3,9 @@ title: "Section 1823 - Repealed. Pub. L. 91–563, § 5(a) , Dec. 19, 1970 , 84 
 usc_title: 28
 usc_section: "1823"
 chapter: 119
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "28 U.S.C. § 1823"
-generated_at: "2026-03-30T04:06:27.763Z"
+generated_at: "2026-03-30T04:08:43.372Z"
 status: "repealed"
 ---
 

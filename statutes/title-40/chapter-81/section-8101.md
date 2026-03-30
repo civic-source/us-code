@@ -3,9 +3,9 @@ title: "Section 8101 - Supervision of public buildings and grounds in District o
 usc_title: 40
 usc_section: "8101"
 chapter: 81
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "40 U.S.C. § 8101"
-generated_at: "2026-03-30T04:06:43.374Z"
+generated_at: "2026-03-30T04:09:04.551Z"
 status: "active"
 ---
 

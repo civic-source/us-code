@@ -3,9 +3,9 @@ title: "Section 1134to1143 - Repealed. Pub. L. 92–255, title I, § 104 , Mar. 
 usc_title: 21
 usc_section: "1134to1143"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "21 U.S.C. § 1134to1143"
-generated_at: "2026-03-30T04:06:10.317Z"
+generated_at: "2026-03-30T04:08:27.525Z"
 status: "repealed"
 ---
 

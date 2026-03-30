@@ -3,9 +3,9 @@ title: "Section 167h - Administrative procedure"
 usc_title: 50
 usc_section: "167h"
 chapter: 10
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 167h"
-generated_at: "2026-03-30T04:07:21.358Z"
+generated_at: "2026-03-30T04:09:35.749Z"
 status: "active"
 ---
 

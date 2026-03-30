@@ -3,9 +3,9 @@ title: "Section 150to150g - Repealed. Pub. L. 106–224, title IV, § 438(a)(8) 
 usc_title: 7
 usc_section: "150to150g"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 150to150g"
-generated_at: "2026-03-30T04:05:20.986Z"
+generated_at: "2026-03-30T04:07:57.372Z"
 status: "repealed"
 ---
 

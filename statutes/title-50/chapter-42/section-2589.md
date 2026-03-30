@@ -3,9 +3,9 @@ title: "Section 2589 - Policy of Department of Energy regarding future defense e
 usc_title: 50
 usc_section: "2589"
 chapter: 42
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 2589"
-generated_at: "2026-03-30T04:07:21.391Z"
+generated_at: "2026-03-30T04:09:35.781Z"
 status: "active"
 ---
 

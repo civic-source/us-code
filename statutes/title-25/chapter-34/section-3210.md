@@ -3,9 +3,9 @@ title: "Section 3210 - Indian Child Protection and Family Violence Prevention Pr
 usc_title: 25
 usc_section: "3210"
 chapter: 34
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 3210"
-generated_at: "2026-03-30T04:06:11.459Z"
+generated_at: "2026-03-30T04:08:37.043Z"
 status: "active"
 ---
 

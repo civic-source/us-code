@@ -3,9 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-30T04:06:33.297Z"
+generated_at: "2026-03-30T04:08:49.921Z"
 status: "active"
 ---
 
@@ -22,10 +22,10 @@ status: "active"
     - **(B)** an amount equal to 25 percent of the compensation (as defined in section 415(c)(3)) includible in the individual’s gross income for such taxable year.
   - **(4)** This section shall not apply with respect to any amount contributed to a simple retirement account established under section 408(p).
   - **(5)** For purposes of paragraph (1)(A)—
-    - **(A)** The deductible amount shall be determined in accordance with the following table: For taxable years The deductible beginning in: amount is: 2002 through 2004 $3,000 2005 through 2007 $4,000 2008 and thereafter $5,000.
+    - **(A)** The deductible amount shall be determined in accordance with the following table: For taxable years beginning in: The deductible amount is: 2002 through 2004 $3,000 2005 through 2007 $4,000 2008 and thereafter $5,000.
     - **(B)**
       - **(i)** In the case of an individual who has attained the age of 50 before the close of the taxable year, the deductible amount for such taxable year shall be increased by the applicable amount.
-      - **(ii)** For purposes of clause (i), the applicable amount shall be the amount determined in accordance with the following table: For taxable years The applicable beginning in: amount is: 2002 through 2005 $500 2006 and thereafter $1,000.
+      - **(ii)** For purposes of clause (i), the applicable amount shall be the amount determined in accordance with the following table: For taxable years beginning in: The applicable amount is: 2002 through 2005 $500 2006 and thereafter $1,000.
     - **(C)**
       - **(i)** In the case of an applicable individual who elects to make a qualified retirement contribution in addition to the deductible amount determined under subparagraph (A)—
         - **(I)** the deductible amount for any taxable year shall be increased by an amount equal to 3 times the applicable amount determined under subparagraph (B) for such taxable year, and
@@ -92,8 +92,8 @@ status: "active"
       - **(i)** after application of sections 86 and 469, and
       - **(ii)** without regard to sections 135, 137, 199, 221, 222, and 911 or the deduction allowable under this section.
     - **(B)** The term “applicable dollar amount” means the following:
-      - **(i)** In the case of a taxpayer filing a joint return: The applicable For taxable years beginning in: dollar amount is: 1998 $50,000 1999 $51,000 2000 $52,000 2001 $53,000 2002 $54,000 2003 $60,000 2004 $65,000 2005 $70,000 2006 $75,000 2007 and thereafter $80,000.
-      - **(ii)** In the case of any other taxpayer (other than a married individual filing a separate return): The applicable For taxable years beginning in: dollar amount is: 1998 $30,000 1999 $31,000 2000 $32,000 2001 $33,000 2002 $34,000 2003 $40,000 2004 $45,000 2005 and thereafter $50,000.
+      - **(i)** In the case of a taxpayer filing a joint return: For taxable years beginning in: The applicable dollar amount is: 1998 $50,000 1999 $51,000 2000 $52,000 2001 $53,000 2002 $54,000 2003 $60,000 2004 $65,000 2005 $70,000 2006 $75,000 2007 and thereafter $80,000.
+      - **(ii)** In the case of any other taxpayer (other than a married individual filing a separate return): For taxable years beginning in: The applicable dollar amount is: 1998 $30,000 1999 $31,000 2000 $32,000 2001 $33,000 2002 $34,000 2003 $40,000 2004 $45,000 2005 and thereafter $50,000.
       - **(iii)** In the case of a married individual filing a separate return, zero.
   - **(4)** A husband and wife who—
     - **(A)** file separate returns for any taxable year, and

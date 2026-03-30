@@ -3,9 +3,9 @@ title: "Section 1971 - “Vessel of the United States” defined"
 usc_title: 22
 usc_section: "1971"
 chapter: 25
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 1971"
-generated_at: "2026-03-30T04:06:13.649Z"
+generated_at: "2026-03-30T04:08:31.734Z"
 status: "active"
 ---
 

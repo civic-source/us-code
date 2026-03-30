@@ -3,9 +3,9 @@ title: "Section 2399b - False claims and ineligible commodities"
 usc_title: 22
 usc_section: "2399b"
 chapter: 32
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 2399b"
-generated_at: "2026-03-30T04:06:13.679Z"
+generated_at: "2026-03-30T04:08:31.768Z"
 status: "active"
 ---
 

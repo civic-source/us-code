@@ -3,9 +3,9 @@ title: "Section 307308 - Omitted"
 usc_title: 25
 usc_section: "307308"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 307308"
-generated_at: "2026-03-30T04:06:11.353Z"
+generated_at: "2026-03-30T04:08:36.929Z"
 status: "omitted"
 ---
 

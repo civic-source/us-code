@@ -3,9 +3,9 @@ title: "Section 7834 - Briefings on the welfare of North Korean children"
 usc_title: 22
 usc_section: "7834"
 chapter: 85
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 7834"
-generated_at: "2026-03-30T04:06:13.778Z"
+generated_at: "2026-03-30T04:08:31.876Z"
 status: "active"
 ---
 

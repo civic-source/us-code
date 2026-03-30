@@ -3,9 +3,9 @@ title: "Section 8909 - Annual report on military and security developments invol
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-30T04:06:13.793Z"
+generated_at: "2026-03-30T04:08:31.892Z"
 status: "active"
 ---
 

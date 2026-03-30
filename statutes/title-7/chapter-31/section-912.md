@@ -3,9 +3,9 @@ title: "Section 912 - Extension of time for repayment of loans"
 usc_title: 7
 usc_section: "912"
 chapter: 31
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 912"
-generated_at: "2026-03-30T04:05:21.009Z"
+generated_at: "2026-03-30T04:07:57.398Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2013 - General corporate powers"
 usc_title: 12
 usc_section: "2013"
 chapter: 23
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 2013"
-generated_at: "2026-03-30T04:05:37.770Z"
+generated_at: "2026-03-30T04:08:08.567Z"
 status: "active"
 ---
 

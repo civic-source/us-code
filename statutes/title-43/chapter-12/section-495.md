@@ -3,9 +3,9 @@ title: "Section 495 - Shutting off water for nonpayment of operation charge"
 usc_title: 43
 usc_section: "495"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 495"
-generated_at: "2026-03-30T04:06:51.017Z"
+generated_at: "2026-03-30T04:09:10.657Z"
 status: "active"
 ---
 

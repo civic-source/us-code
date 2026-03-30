@@ -3,9 +3,9 @@ title: "Section 830 - Availability of appropriations"
 usc_title: 14
 usc_section: "830"
 chapter: 23
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "14 U.S.C. § 830"
-generated_at: "2026-03-30T04:05:33.306Z"
+generated_at: "2026-03-30T04:08:04.329Z"
 status: "active"
 ---
 

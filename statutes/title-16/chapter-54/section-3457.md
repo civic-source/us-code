@@ -3,9 +3,9 @@ title: "Section 3457 - Repealed. Pub. L. 110–234, title II, § 2805(d) , May 2
 usc_title: 16
 usc_section: "3457"
 chapter: 54
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 3457"
-generated_at: "2026-03-30T04:05:55.538Z"
+generated_at: "2026-03-30T04:08:23.341Z"
 status: "repealed"
 ---
 

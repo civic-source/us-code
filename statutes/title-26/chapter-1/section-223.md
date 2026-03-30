@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T04:06:33.299Z"
+generated_at: "2026-03-30T04:08:49.923Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(B)** in the case of an eligible individual who has family coverage under a high deductible health plan as of the first day of such month, $4,500.
   - **(3)**
     - **(A)** In the case of an individual who has attained age 55 before the close of the taxable year, the applicable limitation under subparagraphs (A) and (B) of paragraph (2) shall be increased by the additional contribution amount.
-    - **(B)** For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table: For taxable years The additional beginning in: contribution amount is: 2004 $500 2005 $600 2006 $700 2007 $800 2008 $900 2009 and thereafter $1,000.
+    - **(B)** For purposes of this section, the additional contribution amount is the amount determined in accordance with the following table: For taxable years beginning in: The additional contribution amount is: 2004 $500 2005 $600 2006 $700 2007 $800 2008 $900 2009 and thereafter $1,000.
   - **(4)** The limitation which would (but for this paragraph) apply under this subsection to an individual for any taxable year shall be reduced (but not below zero) by the sum of—
     - **(A)** the aggregate amount paid for such taxable year to Archer MSAs of such individual,
     - **(B)** the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer’s gross income for such taxable year under section 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and

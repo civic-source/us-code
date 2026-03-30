@@ -3,9 +3,9 @@ title: "Section 9881to9887 - Repealed. Pub. L. 103–252, title I , §§ 112(b)(
 usc_title: 42
 usc_section: "9881to9887"
 chapter: 105
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 9881to9887"
-generated_at: "2026-03-30T04:07:17.008Z"
+generated_at: "2026-03-30T04:09:28.455Z"
 status: "repealed"
 ---
 

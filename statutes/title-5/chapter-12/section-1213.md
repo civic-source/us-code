@@ -3,9 +3,9 @@ title: "Section 1213 - Provisions relating to disclosures of violations of law, 
 usc_title: 5
 usc_section: "1213"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "5 U.S.C. § 1213"
-generated_at: "2026-03-30T04:04:59.480Z"
+generated_at: "2026-03-30T04:07:49.914Z"
 status: "active"
 ---
 

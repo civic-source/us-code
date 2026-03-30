@@ -3,9 +3,9 @@ title: "Section 6752 - Purposes and goals"
 usc_title: 20
 usc_section: "6752"
 chapter: 70
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "20 U.S.C. § 6752"
-generated_at: "2026-03-30T04:06:05.375Z"
+generated_at: "2026-03-30T04:08:20.411Z"
 status: "active"
 ---
 

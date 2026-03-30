@@ -3,9 +3,9 @@ title: "Section 108109 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(
 usc_title: 8
 usc_section: "108109"
 chapter: 6
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "8 U.S.C. § 108109"
-generated_at: "2026-03-30T04:05:09.050Z"
+generated_at: "2026-03-30T04:07:54.542Z"
 status: "repealed"
 ---
 

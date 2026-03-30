@@ -3,9 +3,9 @@ title: "Section 711 - General authority"
 usc_title: 31
 usc_section: "711"
 chapter: 7
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "31 U.S.C. § 711"
-generated_at: "2026-03-30T04:06:36.655Z"
+generated_at: "2026-03-30T04:08:53.992Z"
 status: "active"
 ---
 

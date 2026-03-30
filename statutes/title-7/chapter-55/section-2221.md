@@ -3,9 +3,9 @@ title: "Section 2221 - Details of persons from or to office of Secretary"
 usc_title: 7
 usc_section: "2221"
 chapter: 55
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 2221"
-generated_at: "2026-03-30T04:05:21.096Z"
+generated_at: "2026-03-30T04:07:57.499Z"
 status: "active"
 ---
 

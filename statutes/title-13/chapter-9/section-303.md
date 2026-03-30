@@ -3,9 +3,9 @@ title: "Section 303 - Secretary of Treasury functions"
 usc_title: 13
 usc_section: "303"
 chapter: 9
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "13 U.S.C. § 303"
-generated_at: "2026-03-30T04:05:32.743Z"
+generated_at: "2026-03-30T04:08:03.916Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13882 - Definitions"
 usc_title: 42
 usc_section: "13882"
 chapter: 136
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 13882"
-generated_at: "2026-03-30T04:07:17.108Z"
+generated_at: "2026-03-30T04:09:28.548Z"
 status: "active"
 ---
 

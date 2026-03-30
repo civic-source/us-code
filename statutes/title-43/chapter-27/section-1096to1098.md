@@ -3,9 +3,9 @@ title: "Section 1096to1098 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1096to1098"
 chapter: 27
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 1096to1098"
-generated_at: "2026-03-30T04:06:51.035Z"
+generated_at: "2026-03-30T04:09:10.675Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T04:06:33.315Z"
+generated_at: "2026-03-30T04:08:49.940Z"
 status: "active"
 ---
 
@@ -258,7 +258,7 @@ status: "active"
       - **(i)**
         - **(I)** In the case of the portion of an account to which subparagraph (C) applies and which consists of employer securities acquired in a plan year beginning before January 1, 2007 , subparagraph (C) shall only apply to the applicable percentage of such securities. This subparagraph shall be applied separately with respect to each class of securities.
         - **(II)** Subclause (I) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005 .
-      - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which The applicable subparagraph (C) applies: percentage is: 1st 33 2d 66 3d and following 100.
+      - **(ii)** For purposes of clause (i), the applicable percentage shall be determined as follows: Plan year to which subparagraph (C) applies: The applicable percentage is: 1st 33 2d 66 3d and following 100.
   - **(36)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.
   - **(37)** A trust shall not constitute a qualified trust unless the plan provides that, in the case of a participant who dies while performing qualified military service (as defined in section 414(u)), the survivors of the participant are entitled to any additional benefits (other than benefit accruals relating to the period of qualified military service) provided under the plan had the participant resumed and then terminated employment on account of death.
 - **(b)** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.

@@ -3,9 +3,9 @@ title: "Section 1642 - Verification of eligibility for Federal public benefits"
 usc_title: 8
 usc_section: "1642"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "8 U.S.C. § 1642"
-generated_at: "2026-03-30T04:05:09.099Z"
+generated_at: "2026-03-30T04:07:54.595Z"
 status: "active"
 ---
 

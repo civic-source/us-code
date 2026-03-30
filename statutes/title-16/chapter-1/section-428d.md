@@ -3,9 +3,9 @@ title: "Section 428d - Receipt of report of commission by Secretary of the Inter
 usc_title: 16
 usc_section: "428d"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 428d"
-generated_at: "2026-03-30T04:05:55.328Z"
+generated_at: "2026-03-30T04:08:23.132Z"
 status: "active"
 ---
 

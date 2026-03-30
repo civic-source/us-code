@@ -3,9 +3,9 @@ title: "Section 1831o - Prompt corrective action"
 usc_title: 12
 usc_section: "1831o"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1831o"
-generated_at: "2026-03-30T04:05:37.755Z"
+generated_at: "2026-03-30T04:08:08.554Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** An insured depository institution is “adequately capitalized” if it meets the required minimum level for each relevant capital measure.
     - **(C)** An insured depository institution is “undercapitalized” if it fails to meet the required minimum level for any relevant capital measure.
     - **(D)** An insured depository institution is “significantly undercapitalized” if it is significantly below the required minimum level for any relevant capital measure.
-    - **(E)** An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A) of this section.
+    - **(E)** An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A).
   - **(2)**
     - **(A)**
       - **(i)** The “average” of an accounting item (such as total assets or tangible equity) during a given period means the sum of that item at the close of business on each business day during that period divided by the total number of business days in that period.
@@ -31,10 +31,10 @@ status: "active"
         - **(II)** any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agency determines is not a distribution for purposes of this section;
       - **(ii)** a payment by an insured depository institution or company to repurchase, redeem, retire, or otherwise acquire any of its shares or other ownership interests, including any extension of credit to finance an affiliated company’s acquisition of those shares or interests; or
       - **(iii)** a transaction that the appropriate Federal banking agency or the Corporation determines, by order or regulation, to be in substance a distribution of capital to the owners of the insured depository institution or company.
-    - **(C)** The term “capital restoration plan” means a plan submitted under subsection (e)(2) of this section.
+    - **(C)** The term “capital restoration plan” means a plan submitted under subsection (e)(2).
     - **(D)** The term “company” has the same meaning as in section 1841 of this title .
     - **(E)** The term “compensation” includes any payment of money or provision of any other thing of value in consideration of employment.
-    - **(F)** The term “relevant capital measure” means the measures described in subsection (c) of this section.
+    - **(F)** The term “relevant capital measure” means the measures described in subsection (c).
     - **(G)** The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
     - **(H)** The term “senior executive officer” has the same meaning as the term “executive officer” in section 375b of this title .
     - **(I)** The term “subordinated debt” means debt subordinated to the claims of general creditors.
@@ -103,12 +103,12 @@ status: "active"
   - **(4)** An undercapitalized insured depository institution shall not, directly or indirectly, acquire any interest in any company or insured depository institution, establish or acquire any additional branch office, or engage in any new line of business unless—
     - **(A)** the appropriate Federal banking agency has accepted the insured depository institution’s capital restoration plan, the institution is implementing the plan, and the agency determines that the proposed action is consistent with and will further the achievement of the plan; or
     - **(B)** the Board of Directors determines that the proposed action will further the purpose of this section.
-  - **(5)** The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) of this section if the agency determines that those actions are necessary to carry out the purpose of this section.
+  - **(5)** The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) if the agency determines that those actions are necessary to carry out the purpose of this section.
 - **(f)**
   - **(1)** This subsection shall apply with respect to any insured depository institution that—
     - **(A)** is significantly undercapitalized; or
     - **(B)** is undercapitalized and—
-      - **(i)** fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D) of this section; or
+      - **(i)** fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D); or
       - **(ii)** fails in any material respect to implement a plan accepted by the agency.
   - **(2)** The appropriate Federal banking agency shall carry out this section by taking 1 or more of the following actions:
     - **(A)** Doing 1 or more of the following:
@@ -121,7 +121,7 @@ status: "active"
     - **(C)**
       - **(i)** Restricting the interest rates that the institution pays on deposits to the prevailing rates of interest on deposits of comparable amounts and maturities in the region where the institution is located, as determined by the agency.
       - **(ii)** This subparagraph does not authorize the agency to restrict interest rates paid on time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
-    - **(D)** Restricting the institution’s asset growth more stringently than subsection (e)(3) of this section, or requiring the institution to reduce its total assets.
+    - **(D)** Restricting the institution’s asset growth more stringently than subsection (e)(3), or requiring the institution to reduce its total assets.
     - **(E)** Requiring the institution or any of its subsidiaries to alter, reduce, or terminate any activity that the agency determines poses excessive risk to the institution.
     - **(F)** Doing 1 or more of the following:
       - **(i)** Ordering a new election for the institution’s board of directors.
@@ -143,16 +143,16 @@ status: "active"
       - **(i)** Pay any bonus to any senior executive officer.
       - **(ii)** Provide compensation to any senior executive officer at a rate exceeding that officer’s average rate of compensation (excluding bonuses, stock options, and profit-sharing) during the 12 calendar months preceding the calendar month in which the institution became undercapitalized.
     - **(B)** The appropriate Federal banking agency shall not grant any approval under subparagraph (A) with respect to an institution that has failed to submit an acceptable capital restoration plan.
-  - **(5)** The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) of this section if the agency determines that those restrictions are necessary to carry out the purpose of this section.
+  - **(5)** The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) if the agency determines that those restrictions are necessary to carry out the purpose of this section.
   - **(6)** Before the agency or Corporation makes a determination under paragraph (2)(I) with respect to an affiliate that is a broker, dealer, government securities broker, government securities dealer, investment company, or investment adviser, the agency or Corporation shall consult with the Securities and Exchange Commission and, in the case of any other affiliate which is subject to any financial responsibility or capital requirement, any other appropriate regulator of such affiliate with respect to the proposed determination of the agency or the Corporation and actions pursuant to such determination.
 - **(g)**
   - **(1)** If the appropriate Federal banking agency determines (after notice and an opportunity for hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title , deems the institution to be engaging in an unsafe or unsound practice, the agency may—
     - **(A)** if the institution is well capitalized, reclassify the institution as adequately capitalized;
-    - **(B)** if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e) of this section, as if the institution were undercapitalized; or
-    - **(C)** if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) of this section as if the institution were significantly undercapitalized.
+    - **(B)** if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e), as if the institution were undercapitalized; or
+    - **(C)** if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) as if the institution were significantly undercapitalized.
   - **(2)** Any plan required under paragraph (1) shall specify the steps that the insured depository institution will take to correct the unsafe or unsound condition or practice. Capital restoration plans shall not be required under paragraph (1)(B).
 - **(h)**
-  - **(1)** Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i) of this section.
+  - **(1)** Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i).
   - **(2)**
     - **(A)** A critically undercapitalized insured depository institution shall not, beginning 60 days after becoming critically undercapitalized, make any payment of principal or interest on the institution’s subordinated debt.
     - **(B)** The Corporation may make exceptions to subparagraph (A) if—
@@ -180,7 +180,7 @@ status: "active"
     - **(E)** Engaging in any covered transaction (as defined in section 371c(b) of this title ).
     - **(F)** Paying excessive compensation or bonuses.
     - **(G)** Paying interest on new or renewed liabilities at a rate that would increase the institution’s weighted average cost of funds to a level significantly exceeding the prevailing rates of interest on insured deposits in the institution’s normal market areas.
-- **(j)** Subsections (e) through (i) of this section (other than paragraph (3) of subsection (e) of this section) shall not apply—
+- **(j)** Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall not apply—
   - **(1)** to an insured depository institution for which the Corporation or the Resolution Trust Corporation is conservator; or
   - **(2)** to a bridge depository institution, none of the voting securities of which are owned by a person or agency other than the Corporation or the Resolution Trust Corporation.
 - **(k)**
@@ -231,7 +231,7 @@ status: "active"
   - **(2)** Any determination or concurrence by an appropriate Federal banking agency or the Corporation required under this section shall be written.
 - **(m)** This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in addition to (but not in derogation of) that required under this section.
 - **(n)**
-  - **(1)** A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) of this section may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
+  - **(1)** A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
   - **(2)**
     - **(A)** The agency shall give the petitioner an opportunity to—
       - **(i)** submit written materials in support of the petition; and
@@ -245,8 +245,8 @@ status: "active"
       - **(iii)** notify the petitioner of the order.
   - **(3)** The petitioner shall bear the burden of proving that the petitioner’s continued employment would materially strengthen the insured depository institution’s ability—
     - **(A)** to become adequately capitalized, to the extent that the order is based on the institution’s capital level or failure to submit or implement a capital restoration plan; and
-    - **(B)** to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
-- **(o)** Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994 , to any insured savings association if—
+    - **(B)** to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1).
+- **(o)** Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994 , to any insured savings association if—
   - **(1)** before December 19, 1991 —
     - **(A)** the savings association had submitted a plan meeting the requirements of section 1464(t)(6)(A)(ii) of this title ; and
     - **(B)** the Director of the Office of Thrift Supervision had accepted the plan;

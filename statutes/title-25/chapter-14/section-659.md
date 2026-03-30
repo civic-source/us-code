@@ -3,9 +3,9 @@ title: "Section 659 - Distribution of judgment fund"
 usc_title: 25
 usc_section: "659"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 659"
-generated_at: "2026-03-30T04:06:11.381Z"
+generated_at: "2026-03-30T04:08:36.959Z"
 status: "active"
 ---
 

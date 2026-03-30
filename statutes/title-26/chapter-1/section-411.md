@@ -3,9 +3,9 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T04:06:33.327Z"
+generated_at: "2026-03-30T04:08:49.951Z"
 status: "active"
 ---
 
@@ -17,11 +17,11 @@ status: "active"
     - **(A)**
       - **(i)** In the case of a defined benefit plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service: percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
     - **(B)**
       - **(i)** In the case of a defined contribution plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service: percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
   - **(3)** For purposes of this subsection—
     - **(A)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 401(a)(11)).
     - **(B)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—

@@ -3,9 +3,9 @@ title: "Section 890 - Art. 90. Assaulting or willfully disobeying superior commi
 usc_title: 10
 usc_section: "890"
 chapter: 47
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 890"
-generated_at: "2026-03-30T04:05:30.678Z"
+generated_at: "2026-03-30T04:08:01.837Z"
 status: "active"
 ---
 

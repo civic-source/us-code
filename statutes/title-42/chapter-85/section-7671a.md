@@ -3,9 +3,9 @@ title: "Section 7671a - Listing of class I and class II substances"
 usc_title: 42
 usc_section: "7671a"
 chapter: 85
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 7671a"
-generated_at: "2026-03-30T04:07:16.951Z"
+generated_at: "2026-03-30T04:09:28.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45F - Employer-provided child care credit"
 usc_title: 26
 usc_section: "45F"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 45F"
-generated_at: "2026-03-30T04:06:33.244Z"
+generated_at: "2026-03-30T04:08:49.870Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
     - **(A)** the applicable recapture percentage, and
     - **(B)** the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted if the qualified child care expenditures of the taxpayer described in subsection (c)(1)(A) with respect to such facility had been zero.
   - **(2)**
-    - **(A)** For purposes of this subsection, the applicable recapture percentage shall be determined from the following table: The applicable If the recapture event recapture occurs in: percentage is: Years 1–3 100 Year 4 85 Year 5 70 Year 6 55 Year 7 40 Year 8 25 Years 9 and 10 10 Years 11 and thereafter 0.
+    - **(A)** For purposes of this subsection, the applicable recapture percentage shall be determined from the following table: If the recapture event occurs in: The applicable recapture percentage is: Years 1–3 100 Year 4 85 Year 5 70 Year 6 55 Year 7 40 Year 8 25 Years 9 and 10 10 Years 11 and thereafter 0.
     - **(B)** For purposes of subparagraph (A), year 1 shall begin on the first day of the taxable year in which the qualified child care facility is placed in service by the taxpayer.
   - **(3)** For purposes of this subsection, the term “recapture event” means—
     - **(A)** The cessation of the operation of the facility as a qualified child care facility.

@@ -3,9 +3,9 @@ title: "Section 1 - Notice of branch closure"
 usc_title: 12
 usc_section: "1"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T04:05:37.758Z"
+generated_at: "2026-03-30T04:08:08.557Z"
 status: "active"
 ---
 
@@ -25,13 +25,13 @@ status: "active"
       - **(ii)** in a separate mailing,
 - **(c)** Each insured depository institution shall adopt policies for closings of branches of the institution.
 - **(d)**
-  - **(1)** In the case of an interstate bank which proposes to close any branch in a low- or moderate-income area, the notice required under subsection (b)(2) of this section shall contain the mailing address of the appropriate Federal banking agency and a statement that comments on the proposed closing of such branch may be mailed to such agency.
+  - **(1)** In the case of an interstate bank which proposes to close any branch in a low- or moderate-income area, the notice required under subsection (b)(2) shall contain the mailing address of the appropriate Federal banking agency and a statement that comments on the proposed closing of such branch may be mailed to such agency.
   - **(2)** If, in the case of a branch referred to in paragraph (1)—
     - **(A)** a person from the area in which such branch is located—
       - **(i)** submits a written request relating to the closing of such branch to the appropriate Federal banking agency; and
       - **(ii)** includes a statement of specific reasons for the request, including a discussion of the adverse effect of such closing on the availability of banking services in the area affected by the closing of the branch; and
     - **(B)** the agency concludes that the request is not frivolous,
-  - **(3)** No action by the appropriate Federal banking agency under paragraph (2) shall affect the authority of an interstate bank to close a branch (including the timing of such closing) if the requirements of subsections (a) and (b) of this section have been met by such bank with respect to the branch being closed.
+  - **(3)** No action by the appropriate Federal banking agency under paragraph (2) shall affect the authority of an interstate bank to close a branch (including the timing of such closing) if the requirements of subsections (a) and (b) have been met by such bank with respect to the branch being closed.
   - **(4)** For purposes of this subsection, the following definitions shall apply:
     - **(A)** The term “interstate bank” means a bank which maintains branches in more than 1 State.
     - **(B)** The term “low- or moderate-income area” means a census tract for which the median family income is—

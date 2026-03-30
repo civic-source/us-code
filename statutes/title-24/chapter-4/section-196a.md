@@ -3,9 +3,9 @@ title: "Section 196a - Repealed. Pub. L. 86–571, § 10(b) , July 5, 1960 , 74 
 usc_title: 24
 usc_section: "196a"
 chapter: 4
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "24 U.S.C. § 196a"
-generated_at: "2026-03-30T04:06:08.705Z"
+generated_at: "2026-03-30T04:08:28.920Z"
 status: "repealed"
 ---
 

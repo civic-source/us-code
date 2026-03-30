@@ -3,9 +3,9 @@ title: "Section 305 - Public Printer: employees; pay"
 usc_title: 44
 usc_section: "305"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "44 U.S.C. § 305"
-generated_at: "2026-03-30T04:07:00.711Z"
+generated_at: "2026-03-30T04:09:09.251Z"
 status: "active"
 ---
 

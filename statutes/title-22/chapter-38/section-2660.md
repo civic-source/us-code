@@ -3,9 +3,9 @@ title: "Section 2660 - Copies of treaties furnished to Public Printer"
 usc_title: 22
 usc_section: "2660"
 chapter: 38
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 2660"
-generated_at: "2026-03-30T04:06:13.691Z"
+generated_at: "2026-03-30T04:08:31.782Z"
 status: "active"
 ---
 

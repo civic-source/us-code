@@ -3,9 +3,9 @@ title: "Section 4321 - Degree granting authority for United States Army War Coll
 usc_title: 10
 usc_section: "4321"
 chapter: 401
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 4321"
-generated_at: "2026-03-30T04:05:30.787Z"
+generated_at: "2026-03-30T04:08:01.955Z"
 status: "active"
 ---
 

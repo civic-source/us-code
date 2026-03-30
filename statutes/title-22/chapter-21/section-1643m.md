@@ -3,9 +3,9 @@ title: "Section 1643m - Exclusivity of Foreign Claims Settlement Commission cert
 usc_title: 22
 usc_section: "1643m"
 chapter: 21
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "22 U.S.C. § 1643m"
-generated_at: "2026-03-30T04:06:13.646Z"
+generated_at: "2026-03-30T04:08:31.731Z"
 status: "active"
 ---
 

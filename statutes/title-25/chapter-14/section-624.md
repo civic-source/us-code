@@ -3,9 +3,9 @@ title: "Section 624 - Exchange of lands"
 usc_title: 25
 usc_section: "624"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 624"
-generated_at: "2026-03-30T04:06:11.377Z"
+generated_at: "2026-03-30T04:08:36.954Z"
 status: "active"
 ---
 

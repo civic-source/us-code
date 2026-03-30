@@ -3,9 +3,9 @@ title: "Section 1580a - Emergency essential employees: notification of required 
 usc_title: 10
 usc_section: "1580a"
 chapter: 81
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 1580a"
-generated_at: "2026-03-30T04:05:30.717Z"
+generated_at: "2026-03-30T04:08:01.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 333 - Interference with State and Federal law"
 usc_title: 10
 usc_section: "333"
 chapter: 15
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-30T04:05:30.657Z"
+generated_at: "2026-03-30T04:08:01.814Z"
 status: "active"
 ---
 

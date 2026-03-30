@@ -3,9 +3,9 @@ title: "Section 11363 - Protection of personally identifying information by vict
 usc_title: 42
 usc_section: "11363"
 chapter: 119
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 11363"
-generated_at: "2026-03-30T04:07:17.037Z"
+generated_at: "2026-03-30T04:09:28.483Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31301 - Definitions"
 usc_title: 49
 usc_section: "31301"
 chapter: 313
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "49 U.S.C. § 31301"
-generated_at: "2026-03-30T04:07:28.910Z"
+generated_at: "2026-03-30T04:09:40.115Z"
 status: "active"
 ---
 

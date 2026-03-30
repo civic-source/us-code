@@ -3,9 +3,9 @@ title: "Section 155to159 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "155to159"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 155to159"
-generated_at: "2026-03-30T04:06:40.447Z"
+generated_at: "2026-03-30T04:09:02.167Z"
 status: "repealed"
 ---
 

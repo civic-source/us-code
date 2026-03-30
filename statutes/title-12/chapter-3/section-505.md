@@ -3,9 +3,9 @@ title: "Section 505 - Civil money penalty"
 usc_title: 12
 usc_section: "505"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 505"
-generated_at: "2026-03-30T04:05:37.659Z"
+generated_at: "2026-03-30T04:08:08.464Z"
 status: "active"
 ---
 

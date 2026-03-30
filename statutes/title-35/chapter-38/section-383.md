@@ -3,9 +3,9 @@ title: "Section 383 - International design application"
 usc_title: 35
 usc_section: "383"
 chapter: 38
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "35 U.S.C. § 383"
-generated_at: "2026-03-30T04:06:38.849Z"
+generated_at: "2026-03-30T04:08:59.751Z"
 status: "active"
 ---
 

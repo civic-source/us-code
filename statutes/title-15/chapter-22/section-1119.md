@@ -3,9 +3,9 @@ title: "Section 1119 - Power of court over registration"
 usc_title: 15
 usc_section: "1119"
 chapter: 22
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "15 U.S.C. § 1119"
-generated_at: "2026-03-30T04:05:42.891Z"
+generated_at: "2026-03-30T04:08:11.132Z"
 status: "active"
 ---
 

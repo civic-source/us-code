@@ -3,9 +3,9 @@ title: "Section 1813 - Definitions"
 usc_title: 12
 usc_section: "1813"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1813"
-generated_at: "2026-03-30T04:05:37.735Z"
+generated_at: "2026-03-30T04:08:08.535Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ As used in this chapter—
   - **(2)** The term “Federal savings association” means any Federal savings association or Federal savings bank which is chartered under section 1464 of this title .
   - **(3)** The term “State savings association” means—
     - **(A)** any building and loan association, savings and loan association, or homestead association; or
-    - **(B)** any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2) of this section),
+    - **(B)** any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2)),
 - **(c)**
   - **(1)** The term “depository institution” means any bank or savings association.
   - **(2)** The term “insured depository institution” means any bank or savings association the deposits of which are insured by the Corporation pursuant to this chapter.

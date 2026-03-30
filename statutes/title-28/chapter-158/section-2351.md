@@ -3,9 +3,9 @@ title: "Section 2351 - Enforcement of orders by district courts"
 usc_title: 28
 usc_section: "2351"
 chapter: 158
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "28 U.S.C. § 2351"
-generated_at: "2026-03-30T04:06:27.768Z"
+generated_at: "2026-03-30T04:08:43.377Z"
 status: "active"
 ---
 

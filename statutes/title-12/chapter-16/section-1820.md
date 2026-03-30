@@ -3,9 +3,9 @@ title: "Section 1820 - Administration of Corporation"
 usc_title: 12
 usc_section: "1820"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1820"
-generated_at: "2026-03-30T04:05:37.740Z"
+generated_at: "2026-03-30T04:08:08.540Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
   - **(10)** At any time after the end of the 2-year period beginning on September 23, 1994 , the appropriate Federal banking agency, in the agency’s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $500,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
 - **(e)**
   - **(1)** The cost of conducting any regular examination or special examination of any depository institution under subsection (b)(2), (b)(3), or (d) or of any entity described in section 1813(q)(2) of this title may be assessed by the Corporation against the institution or entity to meet the expenses of the Corporation in carrying out such examinations.
-  - **(2)** The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) of this section may be assessed by the Corporation against each affiliate which is examined to meet the Corporation’s expenses in carrying out such examination.
+  - **(2)** The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessed by the Corporation against each affiliate which is examined to meet the Corporation’s expenses in carrying out such examination.
   - **(3)**
     - **(A)** Subject to subparagraph (B), if any affiliate of any insured depository institution—
       - **(i)** refuses to pay any assessment under paragraph (2); or
@@ -72,7 +72,7 @@ status: "active"
     - **(B)** If any affiliate referred to in subparagraph (A) is an affiliate of more than 1 insured depository institution, the assessment under subparagraph (A) may be assessed against the depository institutions in such proportions as the Corporation determines to be appropriate.
   - **(4)**
     - **(A)** If any affiliate of any insured depository institution—
-      - **(i)** refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) of this section to conduct an examination; or
+      - **(i)** refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) to conduct an examination; or
       - **(ii)** refuses to provide any information required to be disclosed in the course of any examination,
     - **(B)** Any penalty imposed under subparagraph (A) shall be assessed and collected by the Corporation in the manner provided in section 1818(i)(2) of this title .
   - **(5)** Amounts received by the Corporation under this subsection (other than paragraph (4)) may be deposited in the manner provided in section 1823 of this title .

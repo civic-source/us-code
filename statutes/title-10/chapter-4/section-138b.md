@@ -3,9 +3,9 @@ title: "Section 138b - Assistant Secretary of Defense for Research and Engineeri
 usc_title: 10
 usc_section: "138b"
 chapter: 4
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 138b"
-generated_at: "2026-03-30T04:05:30.649Z"
+generated_at: "2026-03-30T04:08:01.804Z"
 status: "active"
 ---
 

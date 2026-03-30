@@ -3,9 +3,9 @@ title: "Section 2665 - Sale of certain interests in land; logs"
 usc_title: 10
 usc_section: "2665"
 chapter: 159
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 2665"
-generated_at: "2026-03-30T04:05:30.767Z"
+generated_at: "2026-03-30T04:08:01.933Z"
 status: "active"
 ---
 

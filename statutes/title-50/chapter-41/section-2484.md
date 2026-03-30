@@ -3,9 +3,9 @@ title: "Section 2484 - Applicability of preexisting laws and regulations"
 usc_title: 50
 usc_section: "2484"
 chapter: 41
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "50 U.S.C. § 2484"
-generated_at: "2026-03-30T04:07:21.388Z"
+generated_at: "2026-03-30T04:09:35.778Z"
 status: "active"
 ---
 

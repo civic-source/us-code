@@ -3,9 +3,9 @@ title: "Section 546b - Seng Mountain and Bear Creek Scenic Areas, Jefferson Nati
 usc_title: 16
 usc_section: "546b"
 chapter: 2
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 546b"
-generated_at: "2026-03-30T04:05:55.408Z"
+generated_at: "2026-03-30T04:08:23.212Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 787 - Advances or expenditures from tribal funds"
 usc_title: 25
 usc_section: "787"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 787"
-generated_at: "2026-03-30T04:06:11.390Z"
+generated_at: "2026-03-30T04:08:36.968Z"
 status: "active"
 ---
 

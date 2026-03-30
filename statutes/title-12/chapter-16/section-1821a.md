@@ -3,9 +3,9 @@ title: "Section 1821a - FSLIC Resolution Fund"
 usc_title: 12
 usc_section: "1821a"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 1821a"
-generated_at: "2026-03-30T04:05:37.747Z"
+generated_at: "2026-03-30T04:08:08.546Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(2)** Liquidating dividends and payments made on claims received by the FSLIC Resolution Fund from receiverships to the extent such funds are not required by the Resolution Funding Corporation pursuant to section 1441b of this title or the Financing Corporation pursuant to section 1441 of this title .
   - **(3)** Amounts borrowed by the Financing Corporation pursuant to section 1441 of this title .
 - **(c)**
-  - **(1)** If the funds described in subsections (a) and (b) of this section are insufficient to satisfy the liabilities of the FSLIC Resolution Fund, the Secretary of the Treasury shall pay to the Fund such amounts as may be necessary, as determined by the Corporation and the Secretary, for FSLIC Resolution Fund purposes.
+  - **(1)** If the funds described in subsections (a) and (b) are insufficient to satisfy the liabilities of the FSLIC Resolution Fund, the Secretary of the Treasury shall pay to the Fund such amounts as may be necessary, as determined by the Corporation and the Secretary, for FSLIC Resolution Fund purposes.
   - **(2)** There are authorized to be appropriated to the Secretary of the Treasury, without fiscal year limitation, such sums as may be necessary to carry out this section.
 - **(d)** Any judgment resulting from a proceeding to which the Federal Savings and Loan Insurance Corporation was a party prior to its dissolution or which is initiated against the Corporation with respect to the Federal Savings and Loan Insurance Corporation or with respect to the FSLIC Resolution Fund shall be limited to the assets of the FSLIC Resolution Fund.
 - **(e)** The FSLIC Resolution Fund shall transfer to the Resolution Funding Corporation any net proceeds from the sale of assets acquired from the Resolution Trust Corporation upon the termination of such Corporation pursuant to section 1441a 1 of this title.

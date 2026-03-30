@@ -3,9 +3,9 @@ title: "Section 12403 - Hydrogen research and development"
 usc_title: 42
 usc_section: "12403"
 chapter: 128
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 12403"
-generated_at: "2026-03-30T04:07:17.054Z"
+generated_at: "2026-03-30T04:09:28.500Z"
 status: "active"
 ---
 

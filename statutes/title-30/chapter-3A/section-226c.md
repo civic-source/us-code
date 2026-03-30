@@ -3,9 +3,9 @@ title: "Section 226c - Reduction of royalties under existing leases"
 usc_title: 30
 usc_section: "226c"
 chapter: 3
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "30 U.S.C. § 226c"
-generated_at: "2026-03-30T04:06:17.629Z"
+generated_at: "2026-03-30T04:08:39.715Z"
 status: "active"
 ---
 

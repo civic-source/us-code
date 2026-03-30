@@ -3,9 +3,9 @@ title: "Section 390h - Program to investigate reclamation and reuse of wastewate
 usc_title: 43
 usc_section: "390h"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 390h"
-generated_at: "2026-03-30T04:06:51.006Z"
+generated_at: "2026-03-30T04:09:10.645Z"
 status: "active"
 ---
 

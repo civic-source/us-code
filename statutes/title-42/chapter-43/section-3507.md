@@ -3,9 +3,9 @@ title: "Section 3507 - Transfer of personnel and household goods; delegation of 
 usc_title: 42
 usc_section: "3507"
 chapter: 43
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 3507"
-generated_at: "2026-03-30T04:07:16.769Z"
+generated_at: "2026-03-30T04:09:28.217Z"
 status: "active"
 ---
 

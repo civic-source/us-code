@@ -3,9 +3,9 @@ title: "Section 788h - Rules and regulations"
 usc_title: 25
 usc_section: "788h"
 chapter: 14
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 788h"
-generated_at: "2026-03-30T04:06:11.391Z"
+generated_at: "2026-03-30T04:08:36.968Z"
 status: "active"
 ---
 

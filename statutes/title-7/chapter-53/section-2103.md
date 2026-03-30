@@ -3,9 +3,9 @@ title: "Section 2103 - Notice and hearing upon proposed orders"
 usc_title: 7
 usc_section: "2103"
 chapter: 53
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 2103"
-generated_at: "2026-03-30T04:05:21.091Z"
+generated_at: "2026-03-30T04:07:57.494Z"
 status: "active"
 ---
 

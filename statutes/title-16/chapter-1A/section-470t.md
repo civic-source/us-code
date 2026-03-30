@@ -3,9 +3,9 @@ title: "Section 470t - Budget; authorization of appropriations"
 usc_title: 16
 usc_section: "470t"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 470t"
-generated_at: "2026-03-30T04:05:55.389Z"
+generated_at: "2026-03-30T04:08:23.193Z"
 status: "active"
 ---
 

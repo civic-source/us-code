@@ -3,9 +3,9 @@ title: "Section 29 - Resource management"
 usc_title: 16
 usc_section: "29"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 29"
-generated_at: "2026-03-30T04:05:55.376Z"
+generated_at: "2026-03-30T04:08:23.180Z"
 status: "active"
 ---
 

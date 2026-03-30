@@ -3,9 +3,9 @@ title: "Section 1433f - Repealed. Pub. L. 104–127, title I, § 171(b)(2)(I) , 
 usc_title: 7
 usc_section: "1433f"
 chapter: 35
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "7 U.S.C. § 1433f"
-generated_at: "2026-03-30T04:05:21.028Z"
+generated_at: "2026-03-30T04:07:57.421Z"
 status: "repealed"
 ---
 

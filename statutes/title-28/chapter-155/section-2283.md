@@ -3,9 +3,9 @@ title: "Section 2283 - Stay of State court proceedings"
 usc_title: 28
 usc_section: "2283"
 chapter: 155
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "28 U.S.C. § 2283"
-generated_at: "2026-03-30T04:06:27.768Z"
+generated_at: "2026-03-30T04:08:43.376Z"
 status: "active"
 ---
 

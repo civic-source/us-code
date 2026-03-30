@@ -3,9 +3,9 @@ title: "Section 5508 - Periodic onsite reviews of institutional fiduciaries"
 usc_title: 38
 usc_section: "5508"
 chapter: 55
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "38 U.S.C. § 5508"
-generated_at: "2026-03-30T04:06:46.454Z"
+generated_at: "2026-03-30T04:09:07.051Z"
 status: "active"
 ---
 

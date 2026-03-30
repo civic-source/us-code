@@ -3,9 +3,9 @@ title: "Section 993 - Notification of permanent reduction of sizable numbers of 
 usc_title: 10
 usc_section: "993"
 chapter: 50
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 993"
-generated_at: "2026-03-30T04:05:30.686Z"
+generated_at: "2026-03-30T04:08:01.846Z"
 status: "active"
 ---
 

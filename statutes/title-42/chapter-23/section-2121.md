@@ -3,9 +3,9 @@ title: "Section 2121 - Authority of Commission"
 usc_title: 42
 usc_section: "2121"
 chapter: 23
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "42 U.S.C. § 2121"
-generated_at: "2026-03-30T04:07:16.724Z"
+generated_at: "2026-03-30T04:09:28.170Z"
 status: "active"
 ---
 

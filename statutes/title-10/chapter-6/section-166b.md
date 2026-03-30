@@ -3,9 +3,9 @@ title: "Section 166b - Combatant commands: funding for combating terrorism readi
 usc_title: 10
 usc_section: "166b"
 chapter: 6
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 166b"
-generated_at: "2026-03-30T04:05:30.652Z"
+generated_at: "2026-03-30T04:08:01.809Z"
 status: "active"
 ---
 

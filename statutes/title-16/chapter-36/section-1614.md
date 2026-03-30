@@ -3,9 +3,9 @@ title: "Section 1614 - Severability"
 usc_title: 16
 usc_section: "1614"
 chapter: 36
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 1614"
-generated_at: "2026-03-30T04:05:55.502Z"
+generated_at: "2026-03-30T04:08:23.306Z"
 status: "active"
 ---
 

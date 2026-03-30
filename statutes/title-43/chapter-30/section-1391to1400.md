@@ -3,9 +3,9 @@ title: "Section 1391to1400 - Omitted"
 usc_title: 43
 usc_section: "1391to1400"
 chapter: 30
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "43 U.S.C. § 1391to1400"
-generated_at: "2026-03-30T04:06:51.044Z"
+generated_at: "2026-03-30T04:09:10.683Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 396 - Leases of allotted lands for mining purposes"
 usc_title: 25
 usc_section: "396"
 chapter: 12
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "25 U.S.C. § 396"
-generated_at: "2026-03-30T04:06:11.358Z"
+generated_at: "2026-03-30T04:08:36.935Z"
 status: "active"
 ---
 

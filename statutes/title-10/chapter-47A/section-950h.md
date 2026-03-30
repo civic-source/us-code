@@ -3,9 +3,9 @@ title: "Section 950h - Appellate counsel"
 usc_title: 10
 usc_section: "950h"
 chapter: 47
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 950h"
-generated_at: "2026-03-30T04:05:30.683Z"
+generated_at: "2026-03-30T04:08:01.842Z"
 status: "active"
 ---
 

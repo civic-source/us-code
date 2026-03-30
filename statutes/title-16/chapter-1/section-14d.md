@@ -3,9 +3,9 @@ title: "Section 14d - Use of funds for law enforcement and emergencies"
 usc_title: 16
 usc_section: "14d"
 chapter: 1
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "16 U.S.C. § 14d"
-generated_at: "2026-03-30T04:05:55.270Z"
+generated_at: "2026-03-30T04:08:23.076Z"
 status: "active"
 ---
 

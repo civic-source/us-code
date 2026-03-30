@@ -3,9 +3,9 @@ title: "Section 2271 - Definitions"
 usc_title: 12
 usc_section: "2271"
 chapter: 23
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "12 U.S.C. § 2271"
-generated_at: "2026-03-30T04:05:37.779Z"
+generated_at: "2026-03-30T04:08:08.575Z"
 status: "active"
 ---
 

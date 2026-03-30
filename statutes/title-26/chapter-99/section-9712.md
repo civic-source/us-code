@@ -3,9 +3,9 @@ title: "Section 9712 - Establishment and coverage of 1992 UMWA Benefit Plan"
 usc_title: 26
 usc_section: "9712"
 chapter: 99
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "26 U.S.C. § 9712"
-generated_at: "2026-03-30T04:06:33.578Z"
+generated_at: "2026-03-30T04:08:50.191Z"
 status: "active"
 ---
 

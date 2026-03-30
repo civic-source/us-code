@@ -3,9 +3,9 @@ title: "Section 796d - Statewide Independent Living Council"
 usc_title: 29
 usc_section: "796d"
 chapter: 16
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "29 U.S.C. § 796d"
-generated_at: "2026-03-30T04:06:19.380Z"
+generated_at: "2026-03-30T04:08:44.707Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
   - **(2)** The Council may, consistent with the State plan described in section 796c of this title , unless prohibited by State law—
     - **(A)** in order to improve services provided to individuals with disabilities, work with centers for independent living to coordinate services with public and private entities;
     - **(B)** conduct resource development activities to support the activities described in this subsection or to support the provision of independent living services by centers for independent living; and
-    - **(C)** perform such other functions, consistent with the purpose of this chapter and comparable to other functions described in this subsection, as the Council determines to be appropriate.
+    - **(C)** perform such other functions, consistent with the purpose of this part and comparable to other functions described in this subsection, as the Council determines to be appropriate.
   - **(3)** The Council shall not provide independent living services directly to individuals with significant disabilities or manage such services.
 - **(d)** The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 - **(e)**

@@ -3,9 +3,9 @@ title: "Section 2322 - Single entities"
 usc_title: 33
 usc_section: "2322"
 chapter: 36
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "33 U.S.C. § 2322"
-generated_at: "2026-03-30T04:06:40.522Z"
+generated_at: "2026-03-30T04:09:02.242Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6027 - Medical Department: composition"
 usc_title: 10
 usc_section: "6027"
 chapter: 555
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "10 U.S.C. § 6027"
-generated_at: "2026-03-30T04:05:30.797Z"
+generated_at: "2026-03-30T04:08:01.966Z"
 status: "active"
 ---
 

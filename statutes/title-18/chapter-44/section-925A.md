@@ -3,9 +3,9 @@ title: "Section 925A - Remedy for erroneous denial of firearm"
 usc_title: 18
 usc_section: "925A"
 chapter: 44
-current_through: "PL 113-165"
+current_through: "PL 113-185"
 classification: "18 U.S.C. § 925A"
-generated_at: "2026-03-30T04:05:49.548Z"
+generated_at: "2026-03-30T04:08:14.988Z"
 status: "active"
 ---
 
