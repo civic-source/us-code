@@ -3,9 +3,9 @@ title: "Section 1222 - Notice of opening of lands to purchase"
 usc_title: 43
 usc_section: "1222"
 chapter: 28
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 1222"
-generated_at: "2026-03-30T04:55:37.463Z"
+generated_at: "2026-03-30T04:58:49.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 294o - Advisory Council on Graduate Medical Education"
 usc_title: 42
 usc_section: "294o"
 chapter: 6
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 294o"
-generated_at: "2026-03-30T04:55:52.173Z"
+generated_at: "2026-03-30T04:58:56.799Z"
 status: "active"
 ---
 

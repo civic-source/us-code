@@ -3,9 +3,9 @@ title: "Section 2443 - Repealed. Pub. L. 107–107, div. C, title XXXI, § 3143 
 usc_title: 50
 usc_section: "2443"
 chapter: 41
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "50 U.S.C. § 2443"
-generated_at: "2026-03-30T04:55:57.023Z"
+generated_at: "2026-03-30T04:59:01.542Z"
 status: "repealed"
 ---
 

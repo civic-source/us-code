@@ -3,9 +3,9 @@ title: "Section 3713c - Additional funding for resources to investigate and pros
 usc_title: 42
 usc_section: "3713c"
 chapter: 46
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 3713c"
-generated_at: "2026-03-30T04:55:52.469Z"
+generated_at: "2026-03-30T04:58:57.113Z"
 status: "active"
 ---
 

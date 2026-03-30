@@ -3,9 +3,9 @@ title: "Section 426 - Entitlement to hospital insurance benefits"
 usc_title: 42
 usc_section: "426"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 426"
-generated_at: "2026-03-30T04:55:52.234Z"
+generated_at: "2026-03-30T04:58:56.866Z"
 status: "active"
 ---
 
@@ -49,5 +49,4 @@ status: "active"
   - **(1)** Subsection (b) of this section shall be applied as if there were no requirement for any entitlement to benefits, or status, for a period longer than 1 month.
   - **(2)** The entitlement under such subsection shall begin with the first month (rather than twenty-fifth month) of entitlement or status.
   - **(3)** Subsection (f) of this section shall not be applied.
-- **(i)** For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) 2 2 See References in Text note below. of this title shall be treated as entitled to such benefit for such month.
-- **(j)** For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title .
+- **(i)** For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title .

@@ -3,9 +3,9 @@ title: "Section 78f - National securities exchanges"
 usc_title: 15
 usc_section: "78f"
 chapter: 2
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 78f"
-generated_at: "2026-03-30T04:54:44.541Z"
+generated_at: "2026-03-30T04:56:57.350Z"
 status: "active"
 ---
 

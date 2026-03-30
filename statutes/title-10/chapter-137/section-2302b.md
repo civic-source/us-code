@@ -3,9 +3,9 @@ title: "Section 2302b - Implementation of simplified acquisition procedures"
 usc_title: 10
 usc_section: "2302b"
 chapter: 137
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 2302b"
-generated_at: "2026-03-30T04:54:37.487Z"
+generated_at: "2026-03-30T04:56:26.694Z"
 status: "active"
 ---
 

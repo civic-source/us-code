@@ -3,9 +3,9 @@ title: "Section 1224 - Considerations by Secretary"
 usc_title: 33
 usc_section: "1224"
 chapter: 25
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "33 U.S.C. § 1224"
-generated_at: "2026-03-30T04:55:25.190Z"
+generated_at: "2026-03-30T04:58:35.462Z"
 status: "active"
 ---
 

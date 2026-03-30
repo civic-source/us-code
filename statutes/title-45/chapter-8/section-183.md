@@ -3,9 +3,9 @@ title: "Section 183 - Disputes within jurisdiction of Mediation Board"
 usc_title: 45
 usc_section: "183"
 chapter: 8
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "45 U.S.C. § 183"
-generated_at: "2026-03-30T04:55:37.937Z"
+generated_at: "2026-03-30T04:58:44.844Z"
 status: "active"
 ---
 

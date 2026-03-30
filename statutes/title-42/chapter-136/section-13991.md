@@ -3,9 +3,9 @@ title: "Section 13991 - Grants authorized"
 usc_title: 42
 usc_section: "13991"
 chapter: 136
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 13991"
-generated_at: "2026-03-30T04:55:52.694Z"
+generated_at: "2026-03-30T04:58:57.350Z"
 status: "active"
 ---
 

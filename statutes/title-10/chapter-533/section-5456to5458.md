@@ -3,9 +3,9 @@ title: "Section 5456to5458 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "5456to5458"
 chapter: 533
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 5456to5458"
-generated_at: "2026-03-30T04:54:37.529Z"
+generated_at: "2026-03-30T04:56:26.733Z"
 status: "repealed"
 ---
 

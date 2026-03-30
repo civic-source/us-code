@@ -3,9 +3,9 @@ title: "Section 2077 - Advances for enforcement of customs provisions"
 usc_title: 19
 usc_section: "2077"
 chapter: 10
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "19 U.S.C. § 2077"
-generated_at: "2026-03-30T04:54:49.216Z"
+generated_at: "2026-03-30T04:57:10.190Z"
 status: "active"
 ---
 

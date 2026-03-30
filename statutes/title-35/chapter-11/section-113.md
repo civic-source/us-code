@@ -3,9 +3,9 @@ title: "Section 113 - Drawings"
 usc_title: 35
 usc_section: "113"
 chapter: 11
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "35 U.S.C. § 113"
-generated_at: "2026-03-30T04:55:31.095Z"
+generated_at: "2026-03-30T04:58:26.804Z"
 status: "active"
 ---
 

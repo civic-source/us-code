@@ -3,9 +3,9 @@ title: "Section 6913 - Comprehensive school and systemwide improvement activitie
 usc_title: 20
 usc_section: "6913"
 chapter: 70
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 6913"
-generated_at: "2026-03-30T04:54:51.405Z"
+generated_at: "2026-03-30T04:57:15.827Z"
 status: "active"
 ---
 

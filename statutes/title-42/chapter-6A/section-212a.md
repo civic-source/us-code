@@ -3,9 +3,9 @@ title: "Section 212a - Repealed. Pub. L. 93–222, § 7(b) , Dec. 29, 1973 , 87 
 usc_title: 42
 usc_section: "212a"
 chapter: 6
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 212a"
-generated_at: "2026-03-30T04:55:52.112Z"
+generated_at: "2026-03-30T04:58:56.730Z"
 status: "repealed"
 ---
 

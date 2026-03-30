@@ -3,9 +3,9 @@ title: "Section 1315a - Center for Medicare and Medicaid Innovation"
 usc_title: 42
 usc_section: "1315a"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 1315a"
-generated_at: "2026-03-30T04:55:52.261Z"
+generated_at: "2026-03-30T04:58:56.894Z"
 status: "active"
 ---
 
@@ -86,7 +86,7 @@ status: "active"
   - **(2)** the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that such expansion would reduce (or would not result in any increase in) net program spending under applicable subchapters; and
   - **(3)** the Secretary determines that such expansion would not deny or limit the coverage or provision of benefits under the applicable subchapter for applicable individuals.
 - **(d)**
-  - **(1)** The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), and 1396b(m)(2)(A)(iii) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+  - **(1)** The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
   - **(2)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise of—
     - **(A)** the selection of models for testing or expansion under this section;
     - **(B)** the selection of organizations, sites, or participants to test those models selected;

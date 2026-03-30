@@ -3,9 +3,9 @@ title: "Section 906 - Requests for funding assistance"
 usc_title: 32
 usc_section: "906"
 chapter: 9
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "32 U.S.C. § 906"
-generated_at: "2026-03-30T04:55:25.306Z"
+generated_at: "2026-03-30T04:58:28.349Z"
 status: "active"
 ---
 

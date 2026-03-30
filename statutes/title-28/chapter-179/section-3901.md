@@ -3,9 +3,9 @@ title: "Section 3901 - Civil actions"
 usc_title: 28
 usc_section: "3901"
 chapter: 179
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "28 U.S.C. § 3901"
-generated_at: "2026-03-30T04:55:05.026Z"
+generated_at: "2026-03-30T04:57:42.359Z"
 status: "active"
 ---
 

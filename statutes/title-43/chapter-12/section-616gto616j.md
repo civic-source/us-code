@@ -3,9 +3,9 @@ title: "Section 616gto616j - Omitted"
 usc_title: 43
 usc_section: "616gto616j"
 chapter: 12
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 616gto616j"
-generated_at: "2026-03-30T04:55:37.451Z"
+generated_at: "2026-03-30T04:58:49.564Z"
 status: "omitted"
 ---
 

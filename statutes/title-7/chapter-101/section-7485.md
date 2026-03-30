@@ -3,9 +3,9 @@ title: "Section 7485 - Referenda"
 usc_title: 7
 usc_section: "7485"
 chapter: 101
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 7485"
-generated_at: "2026-03-30T04:54:34.077Z"
+generated_at: "2026-03-30T04:56:41.045Z"
 status: "active"
 ---
 

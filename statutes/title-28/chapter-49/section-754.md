@@ -3,9 +3,9 @@ title: "Section 754 - Receivers of property in different districts"
 usc_title: 28
 usc_section: "754"
 chapter: 49
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "28 U.S.C. § 754"
-generated_at: "2026-03-30T04:55:05.010Z"
+generated_at: "2026-03-30T04:57:42.343Z"
 status: "active"
 ---
 

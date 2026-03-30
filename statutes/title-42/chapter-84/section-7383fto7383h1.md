@@ -3,9 +3,9 @@ title: "Section 7383fto7383h1 - Transferred"
 usc_title: 42
 usc_section: "7383fto7383h1"
 chapter: 84
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 7383fto7383h1"
-generated_at: "2026-03-30T04:55:52.559Z"
+generated_at: "2026-03-30T04:58:57.206Z"
 status: "transferred"
 ---
 

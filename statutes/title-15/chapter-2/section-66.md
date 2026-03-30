@@ -3,9 +3,9 @@ title: "Section 66 - Short title"
 usc_title: 15
 usc_section: "66"
 chapter: 2
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 66"
-generated_at: "2026-03-30T04:54:44.529Z"
+generated_at: "2026-03-30T04:56:57.337Z"
 status: "active"
 ---
 

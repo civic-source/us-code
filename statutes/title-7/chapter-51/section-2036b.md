@@ -3,9 +3,9 @@ title: "Section 2036b - Retail food store and recipient trafficking"
 usc_title: 7
 usc_section: "2036b"
 chapter: 51
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 2036b"
-generated_at: "2026-03-30T04:54:34.018Z"
+generated_at: "2026-03-30T04:56:40.988Z"
 status: "active"
 ---
 

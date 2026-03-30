@@ -3,9 +3,9 @@ title: "Section 1710 - Index of documents: number and distribution"
 usc_title: 44
 usc_section: "1710"
 chapter: 17
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "44 U.S.C. § 1710"
-generated_at: "2026-03-30T04:55:36.708Z"
+generated_at: "2026-03-30T04:58:43.306Z"
 status: "active"
 ---
 

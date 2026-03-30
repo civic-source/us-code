@@ -3,9 +3,9 @@ title: "Section 104 - Salary of the Vice President"
 usc_title: 3
 usc_section: "104"
 chapter: 2
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "3 U.S.C. § 104"
-generated_at: "2026-03-30T04:54:24.650Z"
+generated_at: "2026-03-30T04:56:10.796Z"
 status: "active"
 ---
 

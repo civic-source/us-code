@@ -3,9 +3,9 @@ title: "Section 9858g - Administration and enforcement"
 usc_title: 42
 usc_section: "9858g"
 chapter: 105
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 9858g"
-generated_at: "2026-03-30T04:55:52.626Z"
+generated_at: "2026-03-30T04:58:57.277Z"
 status: "active"
 ---
 

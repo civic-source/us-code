@@ -3,9 +3,9 @@ title: "Section 1108 - Exemptions from prohibited transactions"
 usc_title: 29
 usc_section: "1108"
 chapter: 18
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 1108"
-generated_at: "2026-03-30T04:55:04.339Z"
+generated_at: "2026-03-30T04:57:30.722Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(B)** the bank, trust company, or insurance company receives not more than reasonable compensation, and
     - **(C)** such transaction is expressly permitted by the instrument under which the plan is maintained, or by a fiduciary (other than the bank, trust company, or insurance company, or an affiliate thereof) who has authority to manage and control the assets of the plan.
   - **(9)** The making by a fiduciary of a distribution of the assets of the plan in accordance with the terms of the plan if such assets are distributed in the same manner as provided under section 1344 of this title (relating to allocation of assets).
-  - **(10)** Any transaction required or permitted under part 1 of subtitle E of subchapter III of this chapter.
+  - **(10)** Any transaction required or permitted under part 1 of subtitle E of subchapter III.
   - **(11)** A merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 1411 of this title .
   - **(12)** The sale by a plan to a party in interest on or after December 18, 1987 , of any stock, if—
     - **(A)** the requirements of paragraphs (1) and (2) of subsection (e) of this section are met with respect to such stock,

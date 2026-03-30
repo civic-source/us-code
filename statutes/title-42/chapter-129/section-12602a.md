@@ -3,9 +3,9 @@ title: "Section 12602a - Certifications of successful completion of terms of ser
 usc_title: 42
 usc_section: "12602a"
 chapter: 129
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 12602a"
-generated_at: "2026-03-30T04:55:52.663Z"
+generated_at: "2026-03-30T04:58:57.318Z"
 status: "active"
 ---
 

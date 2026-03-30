@@ -3,9 +3,9 @@ title: "Section 488b - Inspection and auditing of records"
 usc_title: 6
 usc_section: "488b"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "6 U.S.C. § 488b"
-generated_at: "2026-03-30T04:54:29.750Z"
+generated_at: "2026-03-30T04:56:19.789Z"
 status: "active"
 ---
 

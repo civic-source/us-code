@@ -3,9 +3,9 @@ title: "Section 2841to2849 - Omitted"
 usc_title: 22
 usc_section: "2841to2849"
 chapter: 42
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "22 U.S.C. § 2841to2849"
-generated_at: "2026-03-30T04:55:00.641Z"
+generated_at: "2026-03-30T04:57:26.715Z"
 status: "omitted"
 ---
 

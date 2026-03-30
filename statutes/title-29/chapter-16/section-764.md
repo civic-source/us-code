@@ -3,9 +3,9 @@ title: "Section 764 - Research and other covered activities"
 usc_title: 29
 usc_section: "764"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 764"
-generated_at: "2026-03-30T04:55:04.320Z"
+generated_at: "2026-03-30T04:57:30.704Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title , the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
   - **(2)**
-    - **(A)** In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII of this chapter, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
+    - **(A)** In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
     - **(B)** Such projects, as described in the State plans submitted by State agencies, may include—
       - **(i)** medical and other scientific, technical, methodological, and other investigations into the nature of disability, methods of analyzing it, and restorative techniques, including basic research where related to rehabilitation techniques or services;
       - **(ii)** studies and analyses of factors related to industrial, vocational, educational, employment, social, recreational, psychiatric, psychological, economic, and health and wellness variables affecting individuals with disabilities, including traditionally underserved populations as described in section 718 of this title , and how those variables affect such individuals’ ability to live independently and their participation in the work force;
@@ -28,7 +28,7 @@ status: "active"
     - **(A)** dissemination of high-quality materials, of scientifically valid research results, or of findings, conclusions, and recommendations resulting from covered activities, including through electronic means (such as the website of the Department of Health and Human Services), so that such information is available in a timely manner to the general public; or
     - **(B)** the commercialization of marketable products, research results, or findings, resulting from the covered activities.
 - **(b)**
-  - **(1)** In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17). 1 1 So in original. Probably should be “paragraphs (2) through (16)”. A research grant made under any of paragraphs (2) through (17) 1 may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title .
+  - **(1)** In addition to carrying out projects under subsection (a), the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17). 1 1 So in original. Probably should be “paragraphs (2) through (16)”. A research grant made under any of paragraphs (2) through (17) 1 may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title .
   - **(2)**
     - **(A)** Research grants may be used for the establishment and support of Rehabilitation Research and Training Centers, for the purpose of providing an integrated program of research, which Centers shall—
       - **(i)** be operated in collaboration with institutions of higher education, providers of rehabilitation services, developers or providers of assistive technology devices, assistive technology services, or information technology devices or services, as appropriate, or providers of other appropriate services; and
@@ -86,7 +86,7 @@ status: "active"
       - **(i)** In establishing Centers to conduct the research or demonstration activities described in subparagraph (B)(iii), the Director may establish one Center in each of the following areas of focus:
         - **(I)** Early childhood services, including early intervention and family support.
         - **(II)** Education at the elementary and secondary levels, including transition from school to postsecondary education, competitive integrated employment, and other age-appropriate activities.
-        - **(III)** Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.) and subchapter V of this chapter.
+        - **(III)** Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.) and subchapter V.
         - **(IV)** Independent living, including transition from institutional to community living, maintenance of community living on leaving the workforce, self-help skills, and activities of daily living.
       - **(ii)** Each Center conducting the research or demonstration activities described in subparagraph (B)(iii) shall have an advisory committee, of which the majority of members are individuals with disabilities who are users of rehabilitation technology, and the individuals’ representatives.
     - **(E)** Grants made under this paragraph shall be made on a competitive basis and shall be for a period of 5 years, except that the Director may make a grant for a period of less than 5 years if—

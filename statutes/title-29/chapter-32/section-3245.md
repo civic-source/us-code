@@ -3,9 +3,9 @@ title: "Section 3245 - Reports; recordkeeping; investigations"
 usc_title: 29
 usc_section: "3245"
 chapter: 32
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 3245"
-generated_at: "2026-03-30T04:55:04.373Z"
+generated_at: "2026-03-30T04:57:30.754Z"
 status: "active"
 ---
 

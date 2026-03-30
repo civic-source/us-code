@@ -3,9 +3,9 @@ title: "Section 481 - Terms of office and election procedures"
 usc_title: 29
 usc_section: "481"
 chapter: 11
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 481"
-generated_at: "2026-03-30T04:55:04.310Z"
+generated_at: "2026-03-30T04:57:30.696Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(f)** When officers are chosen by a convention of delegates elected by secret ballot, the convention shall be conducted in accordance with the constitution and bylaws of the labor organization insofar as they are not inconsistent with the provisions of this subchapter. The officials designated in the constitution and bylaws or the secretary, if no other is designated, shall preserve for one year the credentials of the delegates and all minutes and other records of the convention pertaining to the election of officers.
 - **(g)** No moneys received by any labor organization by way of dues, assessment, or similar levy, and no moneys of an employer shall be contributed or applied to promote the candidacy of any person in any election subject to the provisions of this subchapter. Such moneys of a labor organization may be utilized for notices, factual statements of issues not involving candidates, and other expenses necessary for the holding of an election.
 - **(h)** If the Secretary, upon application of any member of a local labor organization, finds after hearing in accordance with subchapter II of chapter 5 of title 5 that the constitution and bylaws of such labor organization do not provide an adequate procedure for the removal of an elected officer guilty of serious misconduct, such officer may be removed, for cause shown and after notice and hearing, by the members in good standing voting in a secret ballot, conducted by the officers of such labor organization in accordance with its constitution and bylaws insofar as they are not inconsistent with the provisions of this subchapter.
-- **(i)** The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h) of this section.
+- **(i)** The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h).

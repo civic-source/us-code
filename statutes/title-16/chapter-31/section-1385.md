@@ -3,9 +3,9 @@ title: "Section 1385 - Dolphin protection"
 usc_title: 16
 usc_section: "1385"
 chapter: 31
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 1385"
-generated_at: "2026-03-30T04:54:53.706Z"
+generated_at: "2026-03-30T04:57:06.619Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
       - **(iii)** the label complies with all applicable labeling, marketing, and advertising laws and regulations of the Federal Trade Commission, including any guidelines for environmental labeling.
     - **(D)** If the Secretary determines that the use of a label referred to in subparagraph (C) is substantially undermining the conservation goals of the International Dolphin Conservation Program, the Secretary shall report that determination to the United States Senate Committee on Commerce, Science, and Transportation and the United States House of Representatives Committees on Resources and on Commerce, along with recommendations to correct such problems.
     - **(E)** It is a violation of section 45 of title 15 willingly and knowingly to use a label referred to in subparagraph (C) in a campaign or effort to mislead or deceive consumers about the level of protection afforded dolphins under the International Dolphin Conservation Program.
-- **(e)** Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
+- **(e)** For additional prohibitions relating to this section and enforcement of this section, see section 1826g of this title .
 - **(f)** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this Act, 1 including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
   - **(1)** The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
   - **(2)** Additional measures to enhance current observer coverage, including the establishment of criteria for training, and for improving monitoring and reporting capabilities and procedures.

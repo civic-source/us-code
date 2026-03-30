@@ -3,9 +3,9 @@ title: "Section 5986 - Technical institutions: detail of naval officers to promo
 usc_title: 10
 usc_section: "5986"
 chapter: 553
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 5986"
-generated_at: "2026-03-30T04:54:37.530Z"
+generated_at: "2026-03-30T04:56:26.734Z"
 status: "active"
 ---
 

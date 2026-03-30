@@ -3,9 +3,9 @@ title: "Section 1588 - Authority to accept certain voluntary services"
 usc_title: 10
 usc_section: "1588"
 chapter: 81
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 1588"
-generated_at: "2026-03-30T04:54:37.473Z"
+generated_at: "2026-03-30T04:56:26.681Z"
 status: "active"
 ---
 

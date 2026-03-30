@@ -3,9 +3,9 @@ title: "Section 20310 - Definitions"
 usc_title: 52
 usc_section: "20310"
 chapter: 203
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "52 U.S.C. § 20310"
-generated_at: "2026-03-30T04:56:00.373Z"
+generated_at: "2026-03-30T04:59:05.729Z"
 status: "active"
 ---
 

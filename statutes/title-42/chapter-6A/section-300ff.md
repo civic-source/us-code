@@ -3,9 +3,9 @@ title: "Section 300ff - Purpose"
 usc_title: 42
 usc_section: "300ff"
 chapter: 6
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 300ff"
-generated_at: "2026-03-30T04:55:52.205Z"
+generated_at: "2026-03-30T04:58:56.834Z"
 status: "active"
 ---
 

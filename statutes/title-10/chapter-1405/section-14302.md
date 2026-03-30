@@ -3,9 +3,9 @@ title: "Section 14302 - Promotion zones"
 usc_title: 10
 usc_section: "14302"
 chapter: 1405
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 14302"
-generated_at: "2026-03-30T04:54:37.555Z"
+generated_at: "2026-03-30T04:56:26.757Z"
 status: "active"
 ---
 

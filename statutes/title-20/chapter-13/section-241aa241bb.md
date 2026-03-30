@@ -3,9 +3,9 @@ title: "Section 241aa241bb - Repealed. Pub. L. 100–297, title V, § 5352(1) , 
 usc_title: 20
 usc_section: "241aa241bb"
 chapter: 13
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 241aa241bb"
-generated_at: "2026-03-30T04:54:51.299Z"
+generated_at: "2026-03-30T04:57:15.717Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5012 - Effect on other law"
 usc_title: 12
 usc_section: "5012"
 chapter: 50
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 5012"
-generated_at: "2026-03-30T04:54:42.745Z"
+generated_at: "2026-03-30T04:56:55.532Z"
 status: "active"
 ---
 

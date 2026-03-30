@@ -3,9 +3,9 @@ title: "Section 971e - Violations"
 usc_title: 16
 usc_section: "971e"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 971e"
-generated_at: "2026-03-30T04:54:53.689Z"
+generated_at: "2026-03-30T04:57:06.602Z"
 status: "active"
 ---
 
@@ -17,6 +17,4 @@ status: "active"
 - **(b)** It shall be unlawful for the master or any person in charge of any fishing vessel subject to the jurisdiction of the United States to fail to make, keep, or furnish any catch returns, statistical records, or other reports as are required by regulations adopted pursuant to this chapter to be made, kept, or furnished by such master or person.
 - **(c)** It shall be unlawful for the master or any person in charge of any fishing vessel subject to the jurisdiction of the United States to refuse to permit any person authorized to enforce the provisions of this chapter and any regulations adopted pursuant thereto, to board such vessel and inspect its catch, equipment, books, documents, records, or other articles or question the persons onboard in accordance with the provisions of this chapter, or the Convention, as the case may be, or to obstruct such officials in the execution of such duties.
 - **(d)** It shall be unlawful for any person to import, in violation of any regulation adopted pursuant to section 971d(c) or (d) 1 1 See References in Text note below. of this title, from any country, any fish in any form of those species subject to regulation pursuant to a recommendation of the Commission, or any fish in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of section 971d(c) or (d) 1 of this title. In the case of any fish as described in this subsection offered for entry in the United States, the Secretary shall require proof satisfactory to him that such fish is not ineligible for such entry under the terms of section 971d(c) or (d) 1 of this title.
-- **(e)** The civil penalty and permit sanctions of section 1858 of this title are hereby made applicable to violations of this section as if they were violations of section 1857 of this title .
-- **(f)** All fish taken or retained in violation of subsection (a) of this section, or the monetary value thereof, may be forfeited.
-- **(g)** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
+- **(e)** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.

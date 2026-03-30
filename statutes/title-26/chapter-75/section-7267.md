@@ -3,9 +3,9 @@ title: "Section 7267 - Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(E)(i
 usc_title: 26
 usc_section: "7267"
 chapter: 75
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 7267"
-generated_at: "2026-03-30T04:55:21.352Z"
+generated_at: "2026-03-30T04:58:24.587Z"
 status: "repealed"
 ---
 

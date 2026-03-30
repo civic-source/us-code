@@ -3,9 +3,9 @@ title: "Section 8754 - Repealed. Pub. L. 113–79, title I, § 1102(a) , Feb. 7,
 usc_title: 7
 usc_section: "8754"
 chapter: 113
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 8754"
-generated_at: "2026-03-30T04:54:34.096Z"
+generated_at: "2026-03-30T04:56:41.064Z"
 status: "repealed"
 ---
 

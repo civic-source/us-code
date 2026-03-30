@@ -3,9 +3,9 @@ title: "Section 773e - Prohibited acts"
 usc_title: 16
 usc_section: "773e"
 chapter: 10
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 773e"
-generated_at: "2026-03-30T04:54:53.668Z"
+generated_at: "2026-03-30T04:57:06.582Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 It is unlawful—
 
-- **(a)** for any person subject to the jurisdiction of the United States—
-  - **(1)** to violate any provision of the Convention, this subchapter or any regulation adopted under this subchapter;
-  - **(2)** to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
-  - **(3)** to forcibly assault, resist, oppose, impede, intimidate or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (2);
-  - **(4)** to resist a lawful arrest or detention for any act prohibited by this section;
-  - **(5)** to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken or retained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter; or
-  - **(6)** to interfere with, delay or prevent, by any means, the apprehension, arrest or detention of another person, knowing that such person has committed any act prohibited by this section.
-- **(b)** for any foreign fishing vessel, and for the owner or operator of any foreign fishing vessel, to engage in fishing for halibut in the fishery conservation zone, unless such fishing is authorized by, and conducted in accordance with the Convention, this subchapter and regulations adopted under this subchapter.
+  - **(1)** for any person subject to the jurisdiction of the United States—
+    - **(A)** to violate any provision of the Convention, this subchapter or any regulation adopted under this subchapter;
+    - **(B)** to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
+    - **(C)** to forcibly assault, resist, oppose, impede, intimidate or interfere with any enforcement officer in the conduct of any search, investigation, or inspection described in paragraph (2);
+    - **(D)** to resist a lawful arrest or detention for any act prohibited by this section;
+    - **(E)** to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken or retained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter;
+    - **(F)** to interfere with, delay or prevent, by any means, the apprehension, arrest or detention of another person, knowing that such person has committed any act prohibited by this section; or
+  - **(2)** for any foreign fishing vessel, and for the owner or operator of any foreign fishing vessel, to engage in fishing for halibut in the fishery conservation zone, unless such fishing is authorized by, and conducted in accordance with the Convention, this subchapter and regulations adopted under this subchapter.

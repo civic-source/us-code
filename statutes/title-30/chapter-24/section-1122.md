@@ -3,9 +3,9 @@ title: "Section 1122 - Program definition"
 usc_title: 30
 usc_section: "1122"
 chapter: 24
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "30 U.S.C. § 1122"
-generated_at: "2026-03-30T04:55:03.349Z"
+generated_at: "2026-03-30T04:57:34.640Z"
 status: "active"
 ---
 

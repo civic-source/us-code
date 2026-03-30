@@ -3,9 +3,9 @@ title: "Section 2841to2843 - Repealed. Pub. L. 113–128, title V, § 511(a) , J
 usc_title: 29
 usc_section: "2841to2843"
 chapter: 30
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 2841to2843"
-generated_at: "2026-03-30T04:55:04.360Z"
+generated_at: "2026-03-30T04:57:30.741Z"
 status: "repealed"
 ---
 

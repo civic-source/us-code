@@ -3,9 +3,9 @@ title: "Section 1958 - Referendum costs"
 usc_title: 48
 usc_section: "1958"
 chapter: 18
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "48 U.S.C. § 1958"
-generated_at: "2026-03-30T04:55:55.261Z"
+generated_at: "2026-03-30T04:59:00.682Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6061 - Policy toward transition government and democratically el
 usc_title: 22
 usc_section: "6061"
 chapter: 69
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "22 U.S.C. § 6061"
-generated_at: "2026-03-30T04:55:00.671Z"
+generated_at: "2026-03-30T04:57:26.745Z"
 status: "active"
 ---
 

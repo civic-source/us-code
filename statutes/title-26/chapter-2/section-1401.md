@@ -3,9 +3,9 @@ title: "Section 1401 - Rate of tax"
 usc_title: 26
 usc_section: "1401"
 chapter: 2
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 1401"
-generated_at: "2026-03-30T04:55:21.184Z"
+generated_at: "2026-03-30T04:58:24.511Z"
 status: "active"
 ---
 

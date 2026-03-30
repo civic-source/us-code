@@ -3,9 +3,9 @@ title: "Section 6905 - Enforcement"
 usc_title: 16
 usc_section: "6905"
 chapter: 88
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 6905"
-generated_at: "2026-03-30T04:54:53.774Z"
+generated_at: "2026-03-30T04:57:06.684Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(5)** if recommended by the United States Commissioners or proposed by a Council with authority over the relevant fishery, assess and collect fees, not to exceed three percent of the ex-vessel value of fish harvested by vessels of the United States in fisheries managed pursuant to this chapter, to recover the actual costs to the United States of management and enforcement under this chapter, which shall be deposited as an offsetting collection in, and credited to, the account providing appropriations to carry out the functions of the Secretary under this chapter; and
   - **(6)** issue permits to owners and operators of United States vessels to fish in the convention area seaward of the United States Exclusive Economic Zone, under such terms and conditions as the Secretary may prescribe, and shall remain valid for a period to be determined by the Secretary.
 - **(b)** The Secretary shall ensure the consistency, to the extent practicable, of fishery management programs administered under this Act, the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.), the Tuna Conventions Act ( 16 U.S.C. 951 et seq.), the South Pacific Tuna Act ( 16 U.S.C. 973 et seq.), section 401 of Public Law 108–219 ( 16 U.S.C. 1821 note) (relating to Pacific albacore tuna), and the Atlantic Tunas Convention Act ( 16 U.S.C. 971 [et seq.]).
-- **(c)** The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1857 ) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1801 et seq.] in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.
+- **(c)** For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title .
 - **(d)**
   - **(1)** Any information submitted to the Secretary in compliance with any requirement under this Act shall be confidential and shall not be disclosed, except—
     - **(A)** to Federal employees who are responsible for administering, implementing, and enforcing this Act;

@@ -3,9 +3,9 @@ title: "Section 415 - Reduction of liability for outstanding notes by depositing
 usc_title: 12
 usc_section: "415"
 chapter: 3
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 415"
-generated_at: "2026-03-30T04:54:42.621Z"
+generated_at: "2026-03-30T04:56:55.347Z"
 status: "active"
 ---
 

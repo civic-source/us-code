@@ -3,9 +3,9 @@ title: "Section 310 - Civil defense"
 usc_title: 23
 usc_section: "310"
 chapter: 3
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "23 U.S.C. § 310"
-generated_at: "2026-03-30T04:54:58.352Z"
+generated_at: "2026-03-30T04:57:24.965Z"
 status: "active"
 ---
 

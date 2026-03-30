@@ -3,9 +3,9 @@ title: "Section 2102A - Assistance for individuals residing temporarily in housi
 usc_title: 38
 usc_section: "2102A"
 chapter: 21
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "38 U.S.C. § 2102A"
-generated_at: "2026-03-30T04:55:35.077Z"
+generated_at: "2026-03-30T04:58:39.206Z"
 status: "active"
 ---
 

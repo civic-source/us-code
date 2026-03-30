@@ -3,9 +3,9 @@ title: "Section 46g46g1 - Repealed. Pub. L. 104–186, title II, § 203(18)(B) ,
 usc_title: 2
 usc_section: "46g46g1"
 chapter: 3
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "2 U.S.C. § 46g46g1"
-generated_at: "2026-03-30T04:54:27.807Z"
+generated_at: "2026-03-30T04:56:11.913Z"
 status: "repealed"
 ---
 

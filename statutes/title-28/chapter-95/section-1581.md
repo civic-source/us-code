@@ -3,9 +3,9 @@ title: "Section 1581 - Civil actions against the United States and agencies and 
 usc_title: 28
 usc_section: "1581"
 chapter: 95
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "28 U.S.C. § 1581"
-generated_at: "2026-03-30T04:55:05.014Z"
+generated_at: "2026-03-30T04:57:42.348Z"
 status: "active"
 ---
 

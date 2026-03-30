@@ -3,9 +3,9 @@ title: "Section 10 - Reporting requirements"
 usc_title: 7
 usc_section: "10"
 chapter: 50
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 10"
-generated_at: "2026-03-30T04:54:34.007Z"
+generated_at: "2026-03-30T04:56:40.978Z"
 status: "active"
 ---
 

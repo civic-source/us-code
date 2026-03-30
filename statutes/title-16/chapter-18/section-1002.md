@@ -3,9 +3,9 @@ title: "Section 1002 - Definitions"
 usc_title: 16
 usc_section: "1002"
 chapter: 18
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 1002"
-generated_at: "2026-03-30T04:54:53.691Z"
+generated_at: "2026-03-30T04:57:06.603Z"
 status: "active"
 ---
 

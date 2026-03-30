@@ -3,9 +3,9 @@ title: "Section 425 - Additional rules relating to benefits based on disability"
 usc_title: 42
 usc_section: "425"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 425"
-generated_at: "2026-03-30T04:55:52.234Z"
+generated_at: "2026-03-30T04:58:56.866Z"
 status: "active"
 ---
 
@@ -15,3 +15,13 @@ status: "active"
 - **(b)** Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual’s entitlement to such benefits is based, has or may have ceased, if—
   - **(1)** such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
   - **(2)** the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
+- **(c)**
+  - **(1)** The Commissioner of Social Security may require each individual who applies for or is entitled to monthly insurance benefits under subsections (d)(1)(B)(ii), (d)(6)(A)(ii), (d)(6)(B), (e)(1)(B)(ii), and (f)(1)(B)(ii) of section 402 of this title and subsection (a)(1) of section 423 of this title to provide authorization by the individual for the Commissioner to obtain from any payroll data provider (as defined in section 1320e–3(c)(1) of this title ) any record held by the payroll data provider with respect to the individual whenever the Commissioner determines the record is needed in connection with a determination of initial or ongoing entitlement to such benefits.
+  - **(2)** An authorization provided by an individual under this subsection shall remain effective until the earliest of—
+    - **(A)** the rendering of a final adverse decision on the individual’s application or entitlement to benefits under this subchapter;
+    - **(B)** the termination of the individual’s entitlement to benefits under this subchapter; or
+    - **(C)** the express revocation by the individual of the authorization, in a written notification to the Commissioner.
+  - **(3)** The Commissioner of Social Security is not required to furnish any authorization obtained pursuant to this subsection to the payroll data provider.
+  - **(4)** The Commissioner shall inform any person who provides authorization pursuant to this clause of the duration and scope of the authorization.
+  - **(5)** If an individual who applies for or is entitled to benefits under this subchapter refuses to provide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
+- **(d)** An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under subsection (c) shall not be subject to a penalty under section 1320a–8a for any omission or error with respect to such individual’s wages as reported by the payroll data provider.

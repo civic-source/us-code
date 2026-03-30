@@ -3,9 +3,9 @@ title: "Section 5371 - Leverage and risk-based capital requirements"
 usc_title: 12
 usc_section: "5371"
 chapter: 53
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 5371"
-generated_at: "2026-03-30T04:54:42.753Z"
+generated_at: "2026-03-30T04:56:55.541Z"
 status: "active"
 ---
 

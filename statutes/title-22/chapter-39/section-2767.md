@@ -3,9 +3,9 @@ title: "Section 2767 - Authority of President to enter into cooperative projects
 usc_title: 22
 usc_section: "2767"
 chapter: 39
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "22 U.S.C. § 2767"
-generated_at: "2026-03-30T04:55:00.637Z"
+generated_at: "2026-03-30T04:57:26.711Z"
 status: "active"
 ---
 

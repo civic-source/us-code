@@ -1,15 +1,17 @@
 ---
-title: "Section 1 - Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically handicapped residents; authorization of appropriations"
+title: "Section 1 - Appointment and term of service of Librarian of Congress"
 usc_title: 2
 usc_section: "1"
 chapter: 5
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T04:54:27.809Z"
+generated_at: "2026-03-30T04:56:11.915Z"
 status: "active"
 ---
 
-# § 135a–1. Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically handicapped residents; authorization of appropriations
+# § 136–1. Appointment and term of service of Librarian of Congress
 
-- **(a)** The Librarian of Congress shall establish and maintain a library of musical scores, instructional texts, and other specialized materials for the use of the blind and for other physically handicapped residents of the United States and its possessions in furthering their educational, vocational, and cultural opportunities in the field of music. Such scores, texts, and materials shall be made available on a loan basis under regulations developed by the Librarian or his designee in consultation with persons, organizations, and agencies engaged in work for the blind and for other physically handicapped persons.
-- **(b)** There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of this section.
+- **(a)** The President shall appoint the Librarian of Congress, by and with the advice and consent of the Senate.
+- **(b)** The Librarian of Congress shall be appointed for a term of 10 years.
+- **(c)** An individual appointed to the position of Librarian of Congress, by and with the advice and consent of the Senate, may be reappointed to that position in accordance with subsections (a) and (b).
+- **(d)** This section shall apply with respect to appointments made on or after November 5, 2015 .

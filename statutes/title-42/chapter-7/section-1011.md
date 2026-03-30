@@ -3,9 +3,9 @@ title: "Section 1011 - Penalties for fraud"
 usc_title: 42
 usc_section: "1011"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 1011"
-generated_at: "2026-03-30T04:55:52.257Z"
+generated_at: "2026-03-30T04:58:56.890Z"
 status: "active"
 ---
 
@@ -17,7 +17,8 @@ status: "active"
   - **(3)** having knowledge of the occurrence of any event affecting—
     - **(A)** his or her initial or continued right to the benefits; or
     - **(B)** the initial or continued right to the benefits of any other individual in whose behalf he or she has applied for or is receiving the benefit,
-  - **(4)** having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts the benefit or any part thereof to a use other than for the use and benefit of the other individual,
+  - **(4)** having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts the benefit or any part thereof to a use other than for the use and benefit of the other individual; or
+  - **(5)** conspires to commit any offense described in any of paragraphs (1) through (3),
 - **(b)**
   - **(1)** Any Federal court, when sentencing a defendant convicted of an offense under subsection (a) of this section, may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to the Commissioner of Social Security, in any case in which such offense results in—
     - **(A)** the Commissioner of Social Security making a benefit payment that should not have been made, or

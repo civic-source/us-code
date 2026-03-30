@@ -3,9 +3,9 @@ title: "Section 1107 - Sunset"
 usc_title: 47
 usc_section: "1107"
 chapter: 10
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "47 U.S.C. § 1107"
-generated_at: "2026-03-30T04:55:55.642Z"
+generated_at: "2026-03-30T04:59:00.115Z"
 status: "active"
 ---
 

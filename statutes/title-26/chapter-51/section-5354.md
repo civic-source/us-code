@@ -3,9 +3,9 @@ title: "Section 5354 - Bond"
 usc_title: 26
 usc_section: "5354"
 chapter: 51
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 5354"
-generated_at: "2026-03-30T04:55:21.314Z"
+generated_at: "2026-03-30T04:58:24.549Z"
 status: "active"
 ---
 

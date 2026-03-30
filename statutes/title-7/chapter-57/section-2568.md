@@ -3,9 +3,9 @@ title: "Section 2568 - False marking; cease and desist orders"
 usc_title: 7
 usc_section: "2568"
 chapter: 57
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 2568"
-generated_at: "2026-03-30T04:54:34.026Z"
+generated_at: "2026-03-30T04:56:40.997Z"
 status: "active"
 ---
 

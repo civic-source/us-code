@@ -3,9 +3,9 @@ title: "Section 746 - Certificates of value"
 usc_title: 45
 usc_section: "746"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "45 U.S.C. § 746"
-generated_at: "2026-03-30T04:55:37.949Z"
+generated_at: "2026-03-30T04:58:44.857Z"
 status: "active"
 ---
 

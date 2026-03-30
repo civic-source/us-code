@@ -3,9 +3,9 @@ title: "Section 633 - Small Business Administration"
 usc_title: 15
 usc_section: "633"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 633"
-generated_at: "2026-03-30T04:54:44.580Z"
+generated_at: "2026-03-30T04:56:57.392Z"
 status: "active"
 ---
 

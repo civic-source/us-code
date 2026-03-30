@@ -3,9 +3,9 @@ title: "Section 1919 - Dismissal for lack of jurisdiction"
 usc_title: 28
 usc_section: "1919"
 chapter: 123
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "28 U.S.C. § 1919"
-generated_at: "2026-03-30T04:55:05.018Z"
+generated_at: "2026-03-30T04:57:42.351Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16353 - Merit review of proposals"
 usc_title: 42
 usc_section: "16353"
 chapter: 149
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 16353"
-generated_at: "2026-03-30T04:55:52.725Z"
+generated_at: "2026-03-30T04:58:57.383Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53to56 - Transferred"
 usc_title: 8
 usc_section: "53to56"
 chapter: 3
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "8 U.S.C. § 53to56"
-generated_at: "2026-03-30T04:54:32.000Z"
+generated_at: "2026-03-30T04:56:20.418Z"
 status: "transferred"
 ---
 

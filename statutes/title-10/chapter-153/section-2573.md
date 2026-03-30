@@ -3,9 +3,9 @@ title: "Section 2573 - Repealed. Pub. L. 96–513, title V, § 511(83)(A) , Dec.
 usc_title: 10
 usc_section: "2573"
 chapter: 153
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 2573"
-generated_at: "2026-03-30T04:54:37.506Z"
+generated_at: "2026-03-30T04:56:26.712Z"
 status: "repealed"
 ---
 

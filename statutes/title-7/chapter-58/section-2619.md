@@ -3,9 +3,9 @@ title: "Section 2619 - Assessments"
 usc_title: 7
 usc_section: "2619"
 chapter: 58
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 2619"
-generated_at: "2026-03-30T04:54:34.027Z"
+generated_at: "2026-03-30T04:56:40.997Z"
 status: "active"
 ---
 

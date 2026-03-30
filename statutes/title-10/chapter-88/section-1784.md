@@ -3,9 +3,9 @@ title: "Section 1784 - Employment opportunities for military spouses"
 usc_title: 10
 usc_section: "1784"
 chapter: 88
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 1784"
-generated_at: "2026-03-30T04:54:37.477Z"
+generated_at: "2026-03-30T04:56:26.684Z"
 status: "active"
 ---
 

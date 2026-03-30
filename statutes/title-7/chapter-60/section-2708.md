@@ -3,9 +3,9 @@ title: "Section 2708 - Referendum among egg producers"
 usc_title: 7
 usc_section: "2708"
 chapter: 60
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 2708"
-generated_at: "2026-03-30T04:54:34.028Z"
+generated_at: "2026-03-30T04:56:40.999Z"
 status: "active"
 ---
 

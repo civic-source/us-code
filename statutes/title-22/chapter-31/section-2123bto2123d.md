@@ -3,9 +3,9 @@ title: "Section 2123bto2123d - Repealed. Pub. L. 104–288, § 9(a) , Oct. 11, 1
 usc_title: 22
 usc_section: "2123bto2123d"
 chapter: 31
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "22 U.S.C. § 2123bto2123d"
-generated_at: "2026-03-30T04:55:00.603Z"
+generated_at: "2026-03-30T04:57:26.676Z"
 status: "repealed"
 ---
 

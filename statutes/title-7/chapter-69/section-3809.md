@@ -3,9 +3,9 @@ title: "Section 3809 - Primary enforcement responsibility"
 usc_title: 7
 usc_section: "3809"
 chapter: 69
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 3809"
-generated_at: "2026-03-30T04:54:34.038Z"
+generated_at: "2026-03-30T04:56:41.008Z"
 status: "active"
 ---
 

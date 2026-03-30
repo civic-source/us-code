@@ -3,9 +3,9 @@ title: "Section 1104 - Fiduciary duties"
 usc_title: 29
 usc_section: "1104"
 chapter: 18
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 1104"
-generated_at: "2026-03-30T04:55:04.339Z"
+generated_at: "2026-03-30T04:57:30.721Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
       - **(ii)** defraying reasonable expenses of administering the plan;
     - **(B)** with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
     - **(C)** by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
-    - **(D)** in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III of this chapter.
+    - **(D)** in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III.
   - **(2)** In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title ), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 - **(b)** Except as authorized by the Secretary by regulations, no fiduciary may maintain the indicia of ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
 - **(c)**
@@ -54,7 +54,7 @@ status: "active"
         - **(II)** has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
       - **(ii)** The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.
 - **(d)**
-  - **(1)** If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26 , a fiduciary shall discharge the fiduciary’s duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
+  - **(1)** If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26 , a fiduciary shall discharge the fiduciary’s duties under this subchapter and subchapter III in accordance with the following requirements:
     - **(A)** In the case of a fiduciary of the terminated plan, any requirement—
       - **(i)** under section 4980(d)(2)(B) of title 26 with respect to the transfer of assets from the terminated plan to a qualified replacement plan, and
       - **(ii)** under section 4980(d)(2)(B)(ii) or 4980(d)(3) of title 26 with respect to any increase in benefits under the terminated plan.

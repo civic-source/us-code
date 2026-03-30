@@ -3,9 +3,9 @@ title: "Section 6592 - Limitation on compensation of Sergeant at Arms and Doorke
 usc_title: 2
 usc_section: "6592"
 chapter: 65
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "2 U.S.C. § 6592"
-generated_at: "2026-03-30T04:54:27.850Z"
+generated_at: "2026-03-30T04:56:11.960Z"
 status: "active"
 ---
 

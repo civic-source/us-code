@@ -3,9 +3,9 @@ title: "Section 4980H - Shared responsibility for employers regarding health cov
 usc_title: 26
 usc_section: "4980H"
 chapter: 43
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 4980H"
-generated_at: "2026-03-30T04:55:21.307Z"
+generated_at: "2026-03-30T04:58:24.544Z"
 status: "active"
 ---
 

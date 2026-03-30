@@ -3,9 +3,9 @@ title: "Section 422i - Rules and regulations"
 usc_title: 43
 usc_section: "422i"
 chapter: 12
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 422i"
-generated_at: "2026-03-30T04:55:37.446Z"
+generated_at: "2026-03-30T04:58:49.559Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Grants to promote comprehensive State elder justice systems"
 usc_title: 42
 usc_section: "1"
 chapter: 35
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T04:55:52.460Z"
+generated_at: "2026-03-30T04:58:57.103Z"
 status: "active"
 ---
 

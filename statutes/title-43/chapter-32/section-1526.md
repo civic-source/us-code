@@ -3,9 +3,9 @@ title: "Section 1526 - Water salvage programs"
 usc_title: 43
 usc_section: "1526"
 chapter: 32
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 1526"
-generated_at: "2026-03-30T04:55:37.469Z"
+generated_at: "2026-03-30T04:58:49.580Z"
 status: "active"
 ---
 

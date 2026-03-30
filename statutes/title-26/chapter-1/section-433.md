@@ -3,9 +3,9 @@ title: "Section 433 - Minimum funding standards"
 usc_title: 26
 usc_section: "433"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 433"
-generated_at: "2026-03-30T04:55:21.116Z"
+generated_at: "2026-03-30T04:58:24.442Z"
 status: "active"
 ---
 

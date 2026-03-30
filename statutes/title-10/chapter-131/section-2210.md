@@ -3,9 +3,9 @@ title: "Section 2210 - Proceeds of sales of supplies: credit to appropriations"
 usc_title: 10
 usc_section: "2210"
 chapter: 131
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 2210"
-generated_at: "2026-03-30T04:54:37.484Z"
+generated_at: "2026-03-30T04:56:26.691Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6958 - Midshipmen: qualifications for admission"
 usc_title: 10
 usc_section: "6958"
 chapter: 603
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 6958"
-generated_at: "2026-03-30T04:54:37.533Z"
+generated_at: "2026-03-30T04:56:26.737Z"
 status: "active"
 ---
 

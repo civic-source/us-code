@@ -3,9 +3,9 @@ title: "Section 4501to4508 - Repealed. Pub. L. 103–160, div. A, title VIII , �
 usc_title: 10
 usc_section: "4501to4508"
 chapter: 431
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 4501to4508"
-generated_at: "2026-03-30T04:54:37.524Z"
+generated_at: "2026-03-30T04:56:26.729Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 725 - State Rehabilitation Council"
 usc_title: 29
 usc_section: "725"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 725"
-generated_at: "2026-03-30T04:55:04.317Z"
+generated_at: "2026-03-30T04:57:30.702Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** A State that designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind under section 721(a)(2)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
 - **(b)**
   - **(1)**
-    - **(A)** Except in the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+    - **(A)** Except in the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
       - **(i)** at least one representative of the Statewide Independent Living Council established under section 796d of this title , which representative may be the chairperson or other designee of the Council;
       - **(ii)** at least one representative of a parent training and information center established pursuant to section 671 of the Individuals with Disabilities Education Act [ 20 U.S.C. 1471 ];
       - **(iii)** at least one representative of the client assistance program established under section 732 of this title ;
@@ -30,7 +30,7 @@ status: "active"
       - **(ix)** in a State in which one or more projects are funded under section 741 of this title , at least one representative of the directors of the projects located in such State;
       - **(x)** at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act [ 20 U.S.C. 1411 et seq.]; and
       - **(xi)** at least one representative of the State workforce development board.
-    - **(B)** In the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+    - **(B)** In the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
       - **(i)** at least one representative described in subparagraph (A)(i);
       - **(ii)** at least one representative described in subparagraph (A)(ii);
       - **(iii)** at least one representative described in subparagraph (A)(iii);
@@ -45,7 +45,7 @@ status: "active"
       - **(x)** in a State described in subparagraph (A)(ix), at least one representative described in such subparagraph;
       - **(xi)** at least one representative described in subparagraph (A)(x); and
       - **(xii)** at least one representative described in subparagraph (A)(xi).
-    - **(C)** In the case of a separate Council established under subsection (a)(2) of this section, any Council that is required by State law, as in effect on October 29, 1992 , to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
+    - **(C)** In the case of a separate Council established under subsection (a)(2), any Council that is required by State law, as in effect on October 29, 1992 , to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
       - **(i)** meets the requirements of subparagraph (B), other than the requirements of clauses (vi) and (ix) of such subparagraph; and
       - **(ii)** includes at least—
         - **(I)** one representative described in subparagraph (B)(vi); and
@@ -56,7 +56,7 @@ status: "active"
     - **(A)** A majority of Council members shall be persons who are—
       - **(i)** individuals with disabilities described in section 705(20)(B) of this title ; and
       - **(ii)** not employed by the designated State unit.
-    - **(B)** In the case of a separate Council established under subsection (a)(2) of this section, a majority of Council members shall be persons who are—
+    - **(B)** In the case of a separate Council established under subsection (a)(2), a majority of Council members shall be persons who are—
       - **(i)** blind; and
       - **(ii)** not employed by the designated State unit.
   - **(5)**

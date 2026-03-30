@@ -3,9 +3,9 @@ title: "Section 149 - Cyber incident response plan"
 usc_title: 6
 usc_section: "149"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "6 U.S.C. § 149"
-generated_at: "2026-03-30T04:54:29.739Z"
+generated_at: "2026-03-30T04:56:19.778Z"
 status: "active"
 ---
 

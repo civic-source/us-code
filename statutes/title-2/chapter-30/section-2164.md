@@ -3,9 +3,9 @@ title: "Section 2164 - Transportation of House Pages by Capitol Grounds shuttle 
 usc_title: 2
 usc_section: "2164"
 chapter: 30
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "2 U.S.C. § 2164"
-generated_at: "2026-03-30T04:54:27.839Z"
+generated_at: "2026-03-30T04:56:11.947Z"
 status: "active"
 ---
 

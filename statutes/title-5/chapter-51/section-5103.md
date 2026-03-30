@@ -3,9 +3,9 @@ title: "Section 5103 - Determination of applicability"
 usc_title: 5
 usc_section: "5103"
 chapter: 51
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "5 U.S.C. § 5103"
-generated_at: "2026-03-30T04:54:27.039Z"
+generated_at: "2026-03-30T04:56:17.706Z"
 status: "active"
 ---
 

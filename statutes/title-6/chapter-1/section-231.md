@@ -3,9 +3,9 @@ title: "Section 231 - Transfer of certain agricultural inspection functions of t
 usc_title: 6
 usc_section: "231"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "6 U.S.C. § 231"
-generated_at: "2026-03-30T04:54:29.742Z"
+generated_at: "2026-03-30T04:56:19.781Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Workforce and labor market information system"
 usc_title: 29
 usc_section: "2"
 chapter: 4
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T04:55:04.303Z"
+generated_at: "2026-03-30T04:57:30.688Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
       - **(iv)** employment and earnings information maintained in a longitudinal manner to be used for research and program evaluation;
     - **(B)** information on State and local employment opportunities, and other appropriate statistical data related to labor market dynamics, which—
       - **(i)** shall be current and comprehensive;
-      - **(ii)** shall meet the needs identified through the consultations described in subparagraphs (A) and (B) of subsection (e)(2) of this section; and
+      - **(ii)** shall meet the needs identified through the consultations described in subparagraphs (A) and (B) of subsection (e)(2); and
       - **(iii)** shall meet the needs for the information identified in section 134(d); 1 1 See References in Text note below.
     - **(C)** technical standards (which the Secretary shall publish annually) for data and information described in subparagraphs (A) and (B) that, at a minimum, meet the criteria of chapter 35 of title 44;
     - **(D)** procedures to ensure compatibility and additivity of the data and information described in subparagraphs (A) and (B) from national, State, and local levels;
@@ -84,12 +84,12 @@ status: "active"
     - **(F)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
 - **(e)**
   - **(1)** In order to receive Federal financial assistance under this section, the Governor of a State shall—
-    - **(A)** designate a single State agency to be responsible for the management of the portions of the workforce and labor market information system described in subsection (a) of this section that comprise a statewide workforce and labor market information system and for the State’s participation in the development of the plan described in subsection (c); and
+    - **(A)** designate a single State agency to be responsible for the management of the portions of the workforce and labor market information system described in subsection (a) that comprise a statewide workforce and labor market information system and for the State’s participation in the development of the plan described in subsection (c); and
     - **(B)** establish a process for the oversight of such system.
   - **(2)** In order to receive Federal financial assistance under this section, the State agency shall—
     - **(A)** consult with State and local employers, participants, and local workforce investment boards about the labor market relevance of the data to be collected and disseminated through the statewide workforce and labor market information system;
     - **(B)** consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;
-    - **(C)** collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1) of this section;
+    - **(C)** collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1);
     - **(D)** maintain and continuously improve the statewide workforce and labor market information system in accordance with this section;
     - **(E)** perform contract and grant responsibilities for data collection, analysis, and dissemination for such system;
     - **(F)** conduct such other data collection, analysis, and dissemination activities as will ensure an effective statewide workforce and labor market information system;

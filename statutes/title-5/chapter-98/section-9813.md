@@ -3,9 +3,9 @@ title: "Section 9813 - Limited appointments to Senior Executive Service position
 usc_title: 5
 usc_section: "9813"
 chapter: 98
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "5 U.S.C. § 9813"
-generated_at: "2026-03-30T04:54:27.081Z"
+generated_at: "2026-03-30T04:56:17.746Z"
 status: "active"
 ---
 

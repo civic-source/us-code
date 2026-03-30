@@ -3,9 +3,9 @@ title: "Section 1482 - Repealed. Pub. L. 103–182, title VI, § 690(b)(8) , Dec
 usc_title: 19
 usc_section: "1482"
 chapter: 4
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "19 U.S.C. § 1482"
-generated_at: "2026-03-30T04:54:49.195Z"
+generated_at: "2026-03-30T04:57:10.172Z"
 status: "repealed"
 ---
 

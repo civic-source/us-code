@@ -3,9 +3,9 @@ title: "Section 23103 - Membership"
 usc_title: 36
 usc_section: "23103"
 chapter: 231
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "36 U.S.C. § 23103"
-generated_at: "2026-03-30T04:55:33.604Z"
+generated_at: "2026-03-30T04:58:38.106Z"
 status: "active"
 ---
 

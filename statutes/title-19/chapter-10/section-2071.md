@@ -3,9 +3,9 @@ title: "Section 2071 - Establishment of Service; Commissioner; appointment"
 usc_title: 19
 usc_section: "2071"
 chapter: 10
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "19 U.S.C. § 2071"
-generated_at: "2026-03-30T04:54:49.215Z"
+generated_at: "2026-03-30T04:57:10.189Z"
 status: "active"
 ---
 

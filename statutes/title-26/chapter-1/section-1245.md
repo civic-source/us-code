@@ -3,9 +3,9 @@ title: "Section 1245 - Gain from dispositions of certain depreciable property"
 usc_title: 26
 usc_section: "1245"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 1245"
-generated_at: "2026-03-30T04:55:21.169Z"
+generated_at: "2026-03-30T04:58:24.497Z"
 status: "active"
 ---
 

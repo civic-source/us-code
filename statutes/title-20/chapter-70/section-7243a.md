@@ -3,9 +3,9 @@ title: "Section 7243a - Applications"
 usc_title: 20
 usc_section: "7243a"
 chapter: 70
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 7243a"
-generated_at: "2026-03-30T04:54:51.412Z"
+generated_at: "2026-03-30T04:57:15.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6625 - Receipts from sales of items by Sergeant at Arms and Door
 usc_title: 2
 usc_section: "6625"
 chapter: 65
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "2 U.S.C. § 6625"
-generated_at: "2026-03-30T04:54:27.850Z"
+generated_at: "2026-03-30T04:56:11.960Z"
 status: "active"
 ---
 

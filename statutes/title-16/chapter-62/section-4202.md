@@ -3,9 +3,9 @@ title: "Section 4202 - Findings"
 usc_title: 16
 usc_section: "4202"
 chapter: 62
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 4202"
-generated_at: "2026-03-30T04:54:53.758Z"
+generated_at: "2026-03-30T04:57:06.668Z"
 status: "active"
 ---
 

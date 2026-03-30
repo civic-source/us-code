@@ -3,9 +3,9 @@ title: "Section 20902 - Organization"
 usc_title: 36
 usc_section: "20902"
 chapter: 209
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "36 U.S.C. § 20902"
-generated_at: "2026-03-30T04:55:33.602Z"
+generated_at: "2026-03-30T04:58:38.105Z"
 status: "active"
 ---
 

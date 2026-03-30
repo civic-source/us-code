@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 29
 usc_section: "1301"
 chapter: 18
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 1301"
-generated_at: "2026-03-30T04:55:04.346Z"
+generated_at: "2026-03-30T04:57:30.728Z"
 status: "active"
 ---
 

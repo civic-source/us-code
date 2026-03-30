@@ -3,9 +3,9 @@ title: "Section 151 - Preparation and sale of worthless or harmful products for 
 usc_title: 21
 usc_section: "151"
 chapter: 5
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "21 U.S.C. § 151"
-generated_at: "2026-03-30T04:54:57.952Z"
+generated_at: "2026-03-30T04:57:23.144Z"
 status: "active"
 ---
 

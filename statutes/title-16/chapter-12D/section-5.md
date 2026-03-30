@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 6
 usc_title: 16
 usc_section: "5"
 chapter: 12
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T04:54:53.682Z"
+generated_at: "2026-03-30T04:57:06.596Z"
 status: "repealed"
 ---
 

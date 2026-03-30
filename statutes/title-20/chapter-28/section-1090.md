@@ -3,9 +3,9 @@ title: "Section 1090 - Forms and regulations"
 usc_title: 20
 usc_section: "1090"
 chapter: 28
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 1090"
-generated_at: "2026-03-30T04:54:51.338Z"
+generated_at: "2026-03-30T04:57:15.757Z"
 status: "active"
 ---
 

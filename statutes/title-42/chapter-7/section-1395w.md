@@ -3,9 +3,9 @@ title: "Section 1395w - Appropriations to cover Government contributions and con
 usc_title: 42
 usc_section: "1395w"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 1395w"
-generated_at: "2026-03-30T04:55:52.296Z"
+generated_at: "2026-03-30T04:58:56.932Z"
 status: "active"
 ---
 
@@ -24,3 +24,9 @@ status: "active"
   - **(3)** a Government contribution equal to the amount of payment incentives payable under sections 1395w–4( o ) and 1395w–23( l )(3) of this title.
 - **(b)** In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to the Trust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
 - **(c)** The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title or any credits provided under section 1395w–24(b)(1)(C)(iv) 1 1 See References in Text note below. of this title and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f) 1 of this title and without regard to any premium adjustment under section 1395r(i) of this title .
+- **(d)**
+  - **(1)** For 2016, there shall be transferred from the General Fund to the Trust Fund an amount, as estimated by the Chief Actuary of the Centers for Medicare & Medicaid Services, equal to the reduction in aggregate premiums payable under this part for a month in such year (excluding any changes in amounts collected under section 1395r(i) of this title ) that is attributable to the application of section 1395r(a)(5)(A) of this title with respect to—
+    - **(A)** enrollees age 65 and over; and
+    - **(B)** enrollees under age 65.
+  - **(2)** Premium increases affected under section 1395r(a)(6) of this title shall not be taken into account in applying subsection (a).
+  - **(3)** There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the additional premiums payable as a result of the application of section 1395r(a)(6) of this title , excluding the aggregate payments attributable to the application of section 1395r(i)(3)(A)(ii)(II) of this title .

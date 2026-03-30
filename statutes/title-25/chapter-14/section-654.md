@@ -3,9 +3,9 @@ title: "Section 654 - Claims presented by petition; filing date; amendment; sign
 usc_title: 25
 usc_section: "654"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 654"
-generated_at: "2026-03-30T04:54:57.196Z"
+generated_at: "2026-03-30T04:57:20.128Z"
 status: "active"
 ---
 

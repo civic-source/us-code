@@ -3,9 +3,9 @@ title: "Section 114d2to114d6 - Repealed. Pub. L. 92–152, § 3 , Nov. 5, 1971 ,
 usc_title: 21
 usc_section: "114d2to114d6"
 chapter: 4
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "21 U.S.C. § 114d2to114d6"
-generated_at: "2026-03-30T04:54:57.951Z"
+generated_at: "2026-03-30T04:57:23.144Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 841to853 - Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978
 usc_title: 25
 usc_section: "841to853"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 841to853"
-generated_at: "2026-03-30T04:54:57.203Z"
+generated_at: "2026-03-30T04:57:20.135Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3001 - Definitions"
 usc_title: 10
 usc_section: "3001"
 chapter: 301
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 3001"
-generated_at: "2026-03-30T04:54:37.519Z"
+generated_at: "2026-03-30T04:56:26.723Z"
 status: "active"
 ---
 

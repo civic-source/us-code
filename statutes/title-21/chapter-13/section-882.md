@@ -3,9 +3,9 @@ title: "Section 882 - Injunctions"
 usc_title: 21
 usc_section: "882"
 chapter: 13
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "21 U.S.C. § 882"
-generated_at: "2026-03-30T04:54:58.013Z"
+generated_at: "2026-03-30T04:57:23.203Z"
 status: "active"
 ---
 

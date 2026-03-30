@@ -3,9 +3,9 @@ title: "Section 544 - Limitation as to holdings prior to final payment of charge
 usc_title: 43
 usc_section: "544"
 chapter: 12
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 544"
-generated_at: "2026-03-30T04:55:37.450Z"
+generated_at: "2026-03-30T04:58:49.563Z"
 status: "active"
 ---
 

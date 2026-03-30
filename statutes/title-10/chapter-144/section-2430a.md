@@ -3,9 +3,9 @@ title: "Section 2430a - Major subprograms"
 usc_title: 10
 usc_section: "2430a"
 chapter: 144
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 2430a"
-generated_at: "2026-03-30T04:54:37.499Z"
+generated_at: "2026-03-30T04:56:26.705Z"
 status: "active"
 ---
 

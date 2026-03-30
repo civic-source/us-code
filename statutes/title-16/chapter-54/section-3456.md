@@ -3,9 +3,9 @@ title: "Section 3456 - Resource Conservation and Development Policy Advisory Boa
 usc_title: 16
 usc_section: "3456"
 chapter: 54
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 3456"
-generated_at: "2026-03-30T04:54:53.744Z"
+generated_at: "2026-03-30T04:57:06.655Z"
 status: "active"
 ---
 

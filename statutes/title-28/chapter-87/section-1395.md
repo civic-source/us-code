@@ -3,9 +3,9 @@ title: "Section 1395 - Fine, penalty or forfeiture"
 usc_title: 28
 usc_section: "1395"
 chapter: 87
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "28 U.S.C. § 1395"
-generated_at: "2026-03-30T04:55:05.013Z"
+generated_at: "2026-03-30T04:57:42.347Z"
 status: "active"
 ---
 

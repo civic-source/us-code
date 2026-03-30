@@ -3,9 +3,9 @@ title: "Section 8370 - Repealed. Pub. L. 90–130, § 1(28)(C) , Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "8370"
 chapter: 837
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 8370"
-generated_at: "2026-03-30T04:54:37.542Z"
+generated_at: "2026-03-30T04:56:26.744Z"
 status: "repealed"
 ---
 

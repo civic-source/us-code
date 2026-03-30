@@ -3,9 +3,9 @@ title: "Section 3203to3207 - Repealed. Pub. L. 96–513, title II, § 202 , Dec.
 usc_title: 10
 usc_section: "3203to3207"
 chapter: 331
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 3203to3207"
-generated_at: "2026-03-30T04:54:37.520Z"
+generated_at: "2026-03-30T04:56:26.724Z"
 status: "repealed"
 ---
 

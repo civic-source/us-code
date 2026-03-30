@@ -3,9 +3,9 @@ title: "Section 1406cto1411a - Omitted"
 usc_title: 42
 usc_section: "1406cto1411a"
 chapter: 8
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 1406cto1411a"
-generated_at: "2026-03-30T04:55:52.378Z"
+generated_at: "2026-03-30T04:58:57.018Z"
 status: "omitted"
 ---
 

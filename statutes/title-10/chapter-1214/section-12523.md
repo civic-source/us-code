@@ -3,9 +3,9 @@ title: "Section 12523 - Risk insured"
 usc_title: 10
 usc_section: "12523"
 chapter: 1214
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 12523"
-generated_at: "2026-03-30T04:54:37.553Z"
+generated_at: "2026-03-30T04:56:26.755Z"
 status: "active"
 ---
 

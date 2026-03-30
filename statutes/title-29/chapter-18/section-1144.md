@@ -3,15 +3,15 @@ title: "Section 1144 - Other laws"
 usc_title: 29
 usc_section: "1144"
 chapter: 18
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 1144"
-generated_at: "2026-03-30T04:55:04.341Z"
+generated_at: "2026-03-30T04:57:30.724Z"
 status: "active"
 ---
 
 # § 1144. Other laws
 
-- **(a)** Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title . This section shall take effect on January 1, 1975 .
+- **(a)** Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title . This section shall take effect on January 1, 1975 .
 - **(b)**
   - **(1)** This section shall not apply with respect to any cause of action which arose, or any act or omission which occurred, before January 1, 1975 .
   - **(2)**

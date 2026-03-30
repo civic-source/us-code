@@ -3,9 +3,9 @@ title: "Section 499i - Accounts, records, and memoranda; duty of licensees to ke
 usc_title: 7
 usc_section: "499i"
 chapter: 20
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 499i"
-generated_at: "2026-03-30T04:54:33.950Z"
+generated_at: "2026-03-30T04:56:40.919Z"
 status: "active"
 ---
 

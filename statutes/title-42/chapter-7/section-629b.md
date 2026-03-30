@@ -3,9 +3,9 @@ title: "Section 629b - State plans"
 usc_title: 42
 usc_section: "629b"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 629b"
-generated_at: "2026-03-30T04:55:52.242Z"
+generated_at: "2026-03-30T04:58:56.874Z"
 status: "active"
 ---
 

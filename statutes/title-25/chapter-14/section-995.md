@@ -3,9 +3,9 @@ title: "Section 995 - Payments not subject to liens, debts, or claims; exception
 usc_title: 25
 usc_section: "995"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 995"
-generated_at: "2026-03-30T04:54:57.207Z"
+generated_at: "2026-03-30T04:57:20.138Z"
 status: "active"
 ---
 

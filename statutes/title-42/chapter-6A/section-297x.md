@@ -3,9 +3,9 @@ title: "Section 297x - State and local public service announcements"
 usc_title: 42
 usc_section: "297x"
 chapter: 6
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 297x"
-generated_at: "2026-03-30T04:55:52.176Z"
+generated_at: "2026-03-30T04:58:56.803Z"
 status: "active"
 ---
 

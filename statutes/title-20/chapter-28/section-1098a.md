@@ -3,9 +3,9 @@ title: "Section 1098a - Regional meetings and negotiated rulemaking"
 usc_title: 20
 usc_section: "1098a"
 chapter: 28
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 1098a"
-generated_at: "2026-03-30T04:54:51.344Z"
+generated_at: "2026-03-30T04:57:15.763Z"
 status: "active"
 ---
 

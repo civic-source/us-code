@@ -3,9 +3,9 @@ title: "Section 3928 - Repealed. Pub. L. 85–155, title IV, § 401(1) , Aug. 21
 usc_title: 10
 usc_section: "3928"
 chapter: 367
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 3928"
-generated_at: "2026-03-30T04:54:37.522Z"
+generated_at: "2026-03-30T04:56:26.727Z"
 status: "repealed"
 ---
 

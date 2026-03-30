@@ -3,9 +3,9 @@ title: "Section 941g - Tribal constitution and governance"
 usc_title: 25
 usc_section: "941g"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 941g"
-generated_at: "2026-03-30T04:54:57.205Z"
+generated_at: "2026-03-30T04:57:20.136Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2634 - Repealed. Pub. L. 113–66, div. A, title VI, § 621(g)(1
 usc_title: 10
 usc_section: "2634"
 chapter: 157
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 2634"
-generated_at: "2026-03-30T04:54:37.508Z"
+generated_at: "2026-03-30T04:56:26.713Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Period of increase"
 usc_title: 42
 usc_section: "5"
 chapter: 136
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T04:55:52.696Z"
+generated_at: "2026-03-30T04:58:57.353Z"
 status: "active"
 ---
 

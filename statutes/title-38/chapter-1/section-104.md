@@ -3,9 +3,9 @@ title: "Section 104 - Approval of educational institutions"
 usc_title: 38
 usc_section: "104"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "38 U.S.C. § 104"
-generated_at: "2026-03-30T04:55:35.060Z"
+generated_at: "2026-03-30T04:58:39.190Z"
 status: "active"
 ---
 

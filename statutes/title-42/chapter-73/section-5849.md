@@ -3,9 +3,9 @@ title: "Section 5849 - Other officers"
 usc_title: 42
 usc_section: "5849"
 chapter: 73
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 5849"
-generated_at: "2026-03-30T04:55:52.519Z"
+generated_at: "2026-03-30T04:58:57.164Z"
 status: "active"
 ---
 

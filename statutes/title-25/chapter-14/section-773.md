@@ -3,9 +3,9 @@ title: "Section 773 - Payments"
 usc_title: 25
 usc_section: "773"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 773"
-generated_at: "2026-03-30T04:54:57.203Z"
+generated_at: "2026-03-30T04:57:20.134Z"
 status: "active"
 ---
 

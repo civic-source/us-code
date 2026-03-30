@@ -3,9 +3,9 @@ title: "Section 7265 - Short title"
 usc_title: 20
 usc_section: "7265"
 chapter: 70
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 7265"
-generated_at: "2026-03-30T04:54:51.415Z"
+generated_at: "2026-03-30T04:57:15.837Z"
 status: "active"
 ---
 

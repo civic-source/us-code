@@ -3,9 +3,9 @@ title: "Section 1693p - Reports to Congress"
 usc_title: 15
 usc_section: "1693p"
 chapter: 41
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 1693p"
-generated_at: "2026-03-30T04:54:44.642Z"
+generated_at: "2026-03-30T04:56:57.456Z"
 status: "active"
 ---
 

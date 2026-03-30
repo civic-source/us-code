@@ -3,9 +3,9 @@ title: "Section 2213 - Regulation and examination"
 usc_title: 12
 usc_section: "2213"
 chapter: 23
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 2213"
-generated_at: "2026-03-30T04:54:42.705Z"
+generated_at: "2026-03-30T04:56:55.491Z"
 status: "active"
 ---
 

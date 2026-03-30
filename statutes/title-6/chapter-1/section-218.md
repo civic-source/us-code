@@ -3,9 +3,9 @@ title: "Section 218 - Reports to Congress"
 usc_title: 6
 usc_section: "218"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "6 U.S.C. § 218"
-generated_at: "2026-03-30T04:54:29.742Z"
+generated_at: "2026-03-30T04:56:19.780Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8707 - Criminal penalties"
 usc_title: 41
 usc_section: "8707"
 chapter: 87
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "41 U.S.C. § 8707"
-generated_at: "2026-03-30T04:55:36.928Z"
+generated_at: "2026-03-30T04:58:43.612Z"
 status: "active"
 ---
 

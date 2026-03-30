@@ -3,9 +3,9 @@ title: "Section 762 - National Institute on Disability, Independent Living, and 
 usc_title: 29
 usc_section: "762"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 762"
-generated_at: "2026-03-30T04:55:04.319Z"
+generated_at: "2026-03-30T04:57:30.703Z"
 status: "active"
 ---
 
@@ -82,7 +82,7 @@ status: "active"
     - **(D)** be coordinated with the strategic plan required under section 763(c) of this title —
       - **(i)** after consultation with the Disability, Independent Living, and Rehabilitation Research Advisory Council established under section 765 of this title ;
       - **(ii)** in coordination with the Administrator;
-      - **(iii)** after consultation with the National Council on Disability established under subchapter IV of this chapter, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15001 et seq.], and the Interagency Committee on Disability Research established under section 763 of this title ; and
+      - **(iii)** after consultation with the National Council on Disability established under subchapter IV, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15001 et seq.], and the Interagency Committee on Disability Research established under section 763 of this title ; and
       - **(iv)** after full consideration of the input of individuals with disabilities and the individuals’ representatives, organizations representing individuals with disabilities, providers of services furnished under this chapter, researchers in the independent living and rehabilitation fields, and any other persons or entities the Director considers to be appropriate;
     - **(E)** be developed by the Director;
     - **(F)** specify plans for widespread dissemination of the results of covered activities, and information that clarifies implications of the results for practice, in accessible formats, to rehabilitation practitioners, individuals with disabilities, and the individuals’ representatives; and

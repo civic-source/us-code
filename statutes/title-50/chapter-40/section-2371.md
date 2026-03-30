@@ -3,9 +3,9 @@ title: "Section 2371 - Report on nuclear aspirations of non-state entities, nucl
 usc_title: 50
 usc_section: "2371"
 chapter: 40
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "50 U.S.C. § 2371"
-generated_at: "2026-03-30T04:55:57.023Z"
+generated_at: "2026-03-30T04:59:01.541Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70912 - Service of process"
 usc_title: 36
 usc_section: "70912"
 chapter: 709
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "36 U.S.C. § 70912"
-generated_at: "2026-03-30T04:55:33.607Z"
+generated_at: "2026-03-30T04:58:38.111Z"
 status: "active"
 ---
 

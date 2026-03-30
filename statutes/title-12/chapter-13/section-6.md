@@ -3,9 +3,9 @@ title: "Section 6 - Secondary mortgages held by State or local governmental agen
 usc_title: 12
 usc_section: "6"
 chapter: 13
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T04:54:42.663Z"
+generated_at: "2026-03-30T04:56:55.451Z"
 status: "active"
 ---
 

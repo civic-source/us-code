@@ -3,9 +3,9 @@ title: "Section 60312 - Rights under treaties preserved"
 usc_title: 46
 usc_section: "60312"
 chapter: 603
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "46 U.S.C. § 60312"
-generated_at: "2026-03-30T04:55:56.378Z"
+generated_at: "2026-03-30T04:59:03.868Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2410i - Prohibition on contracting with entities that comply wit
 usc_title: 10
 usc_section: "2410i"
 chapter: 141
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 2410i"
-generated_at: "2026-03-30T04:54:37.498Z"
+generated_at: "2026-03-30T04:56:26.704Z"
 status: "active"
 ---
 

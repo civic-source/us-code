@@ -3,9 +3,9 @@ title: "Section 309 - Application for license"
 usc_title: 47
 usc_section: "309"
 chapter: 5
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-30T04:55:55.623Z"
+generated_at: "2026-03-30T04:59:00.092Z"
 status: "active"
 ---
 
@@ -141,7 +141,7 @@ status: "active"
       - **(iii)** the Commission has failed to issue the regulations required by section 115(a) of such Act [ 47 U.S.C. 925(a) ];
       - **(iv)** the Commission has failed to complete and submit to Congress, not later than 18 months after August 10, 1993 , a study of current and future spectrum needs of State and local government public safety agencies through the year 2010, and a specific plan to ensure that adequate frequencies are made available to public safety licensees; or
       - **(v)** the Commission has failed under section 332(c)(3) of this title to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993 ;
-  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022 .
+  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022 , except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025 .
   - **(12)** Not later than September 30, 1997 , the Commission shall conduct a public inquiry and submit to the Congress a report—
     - **(A)** containing a statement of the revenues obtained, and a projection of the future revenues, from the use of competitive bidding systems under this subsection;
     - **(B)** describing the methodologies established by the Commission pursuant to paragraphs (3) and (4);

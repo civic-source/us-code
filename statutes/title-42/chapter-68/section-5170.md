@@ -3,9 +3,9 @@ title: "Section 5170 - Procedure for declaration"
 usc_title: 42
 usc_section: "5170"
 chapter: 68
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 5170"
-generated_at: "2026-03-30T04:55:52.502Z"
+generated_at: "2026-03-30T04:58:57.147Z"
 status: "active"
 ---
 

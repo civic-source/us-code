@@ -3,9 +3,9 @@ title: "Section 2112 - Enforcement of orders; penalty for willful violation"
 usc_title: 7
 usc_section: "2112"
 chapter: 53
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 2112"
-generated_at: "2026-03-30T04:54:34.019Z"
+generated_at: "2026-03-30T04:56:40.989Z"
 status: "active"
 ---
 

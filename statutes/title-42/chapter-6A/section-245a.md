@@ -3,9 +3,9 @@ title: "Section 245a - Repealed. Pub. L. 94–484, title V, § 503(b) , Oct. 12,
 usc_title: 42
 usc_section: "245a"
 chapter: 6
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 245a"
-generated_at: "2026-03-30T04:55:52.117Z"
+generated_at: "2026-03-30T04:58:56.736Z"
 status: "repealed"
 ---
 

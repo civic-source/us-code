@@ -3,9 +3,9 @@ title: "Section 228 - “Banking Act of 1935”"
 usc_title: 12
 usc_section: "228"
 chapter: 3
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 228"
-generated_at: "2026-03-30T04:54:42.616Z"
+generated_at: "2026-03-30T04:56:55.342Z"
 status: "active"
 ---
 

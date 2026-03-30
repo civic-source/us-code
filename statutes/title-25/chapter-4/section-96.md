@@ -3,9 +3,9 @@ title: "Section 96 - Repealed. Pub. L. 104–316, title I, § 112(a) , Oct. 19, 
 usc_title: 25
 usc_section: "96"
 chapter: 4
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 96"
-generated_at: "2026-03-30T04:54:57.174Z"
+generated_at: "2026-03-30T04:57:20.106Z"
 status: "repealed"
 ---
 

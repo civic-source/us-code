@@ -3,9 +3,9 @@ title: "Section 18231 - Purpose"
 usc_title: 10
 usc_section: "18231"
 chapter: 1803
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 18231"
-generated_at: "2026-03-30T04:54:37.559Z"
+generated_at: "2026-03-30T04:56:26.761Z"
 status: "active"
 ---
 

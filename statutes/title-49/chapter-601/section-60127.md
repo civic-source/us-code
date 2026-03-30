@@ -3,9 +3,9 @@ title: "Section 60127 - Population encroachment and rights-of-way"
 usc_title: 49
 usc_section: "60127"
 chapter: 601
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "49 U.S.C. § 60127"
-generated_at: "2026-03-30T04:55:58.740Z"
+generated_at: "2026-03-30T04:59:03.230Z"
 status: "active"
 ---
 

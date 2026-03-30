@@ -3,9 +3,9 @@ title: "Section 1881 - Award of National Medal of Science"
 usc_title: 42
 usc_section: "1881"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 1881"
-generated_at: "2026-03-30T04:55:52.418Z"
+generated_at: "2026-03-30T04:58:57.060Z"
 status: "active"
 ---
 

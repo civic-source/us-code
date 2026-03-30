@@ -1,13 +1,24 @@
 ---
-title: "Section 6232 - Repealed. Pub. L. 100–418, title I, § 1941(b)(1) , Aug. 23, 1988 , 102 Stat. 1323 ]"
+title: "Section 6232 - Assessment, collection, and payment"
 usc_title: 26
 usc_section: "6232"
 chapter: 63
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 6232"
-generated_at: "2026-03-30T04:55:21.335Z"
-status: "repealed"
+generated_at: "2026-03-30T04:58:24.570Z"
+status: "active"
 ---
 
-# [§ 6232. Repealed. Pub. L. 100–418, title I, § 1941(b)(1) , Aug. 23, 1988 , 102 Stat. 1323 ]
+# § 6232. Assessment, collection, and payment
 
+- **(a)** Any imputed underpayment shall be assessed and collected in the same manner as if it were a tax imposed for the adjustment year by subtitle A, except that in the case of an administrative adjustment request to which section 6227(b)(1) applies, the underpayment shall be paid when the request is filed.
+- **(b)** Except as otherwise provided in this chapter, no assessment of a deficiency may be made (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—
+  - **(1)** the close of the 90th day after the day on which a notice of a final partnership adjustment was mailed, and
+  - **(2)** if a petition is filed under section 6234 with respect to such notice, the decision of the court has become final.
+- **(c)** Notwithstanding section 7421(a), any action which violates subsection (b) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action under this subsection unless a timely petition has been filed under section 6234 and then only in respect of the adjustments that are the subject of such petition.
+- **(d)**
+  - **(1)**
+    - **(A)** If the partnership is notified that, on account of a mathematical or clerical error appearing on the partnership return, an adjustment to a 1 1 So in original. Probably should be “an”. item is required, rules similar to the rules of paragraphs (1) and (2) of section 6213(b) shall apply to such adjustment.
+    - **(B)** If a partnership is a partner in another partnership, any adjustment on account of such partnership’s failure to comply with the requirements of section 6222(a) with respect to its interest in such other partnership shall be treated as an adjustment referred to in subparagraph (A), except that paragraph (2) of section 6213(b) shall not apply to such adjustment.
+  - **(2)** The partnership may at any time (whether or not any notice of partnership adjustment has been issued), by a signed notice in writing filed with the Secretary, waive the restrictions provided in subsection (b) on the making of any partnership adjustment.
+- **(e)** If no proceeding under section 6234 is begun with respect to any notice of a final partnership adjustment during the 90-day period described in subsection (b) thereof, the amount for which the partnership is liable under section 6225 shall not exceed the amount determined in accordance with such notice.

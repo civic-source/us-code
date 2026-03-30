@@ -3,9 +3,9 @@ title: "Section 3905 - Accounting for fees on international loans"
 usc_title: 12
 usc_section: "3905"
 chapter: 40
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 3905"
-generated_at: "2026-03-30T04:54:42.725Z"
+generated_at: "2026-03-30T04:56:55.509Z"
 status: "active"
 ---
 

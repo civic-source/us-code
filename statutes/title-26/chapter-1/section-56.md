@@ -3,9 +3,9 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-30T04:55:21.049Z"
+generated_at: "2026-03-30T04:58:24.379Z"
 status: "active"
 ---
 

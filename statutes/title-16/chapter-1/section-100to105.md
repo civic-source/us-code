@@ -3,9 +3,9 @@ title: "Section 100to105 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 16
 usc_section: "100to105"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 100to105"
-generated_at: "2026-03-30T04:54:53.550Z"
+generated_at: "2026-03-30T04:57:06.467Z"
 status: "repealed"
 ---
 

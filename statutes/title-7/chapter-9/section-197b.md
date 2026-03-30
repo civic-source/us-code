@@ -3,9 +3,9 @@ title: "Section 197b - Choice of law and venue"
 usc_title: 7
 usc_section: "197b"
 chapter: 9
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 197b"
-generated_at: "2026-03-30T04:54:33.941Z"
+generated_at: "2026-03-30T04:56:40.910Z"
 status: "active"
 ---
 

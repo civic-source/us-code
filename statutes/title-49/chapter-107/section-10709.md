@@ -3,9 +3,9 @@ title: "Section 10709 - Contracts"
 usc_title: 49
 usc_section: "10709"
 chapter: 107
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "49 U.S.C. § 10709"
-generated_at: "2026-03-30T04:55:58.678Z"
+generated_at: "2026-03-30T04:59:03.165Z"
 status: "active"
 ---
 

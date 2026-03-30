@@ -3,9 +3,9 @@ title: "Section 10510 - Bureau of Justice Assistance"
 usc_title: 42
 usc_section: "10510"
 chapter: 111
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 10510"
-generated_at: "2026-03-30T04:55:52.638Z"
+generated_at: "2026-03-30T04:58:57.291Z"
 status: "active"
 ---
 

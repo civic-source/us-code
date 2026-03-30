@@ -3,9 +3,9 @@ title: "Section 6561e - Selection of local educational agencies for subgrants"
 usc_title: 20
 usc_section: "6561e"
 chapter: 70
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 6561e"
-generated_at: "2026-03-30T04:54:51.400Z"
+generated_at: "2026-03-30T04:57:15.822Z"
 status: "active"
 ---
 

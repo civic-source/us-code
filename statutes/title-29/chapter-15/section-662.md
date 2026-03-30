@@ -3,9 +3,9 @@ title: "Section 662 - Injunction proceedings"
 usc_title: 29
 usc_section: "662"
 chapter: 15
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 662"
-generated_at: "2026-03-30T04:55:04.314Z"
+generated_at: "2026-03-30T04:57:30.699Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** The United States district courts shall have jurisdiction, upon petition of the Secretary, to restrain any conditions or practices in any place of employment which are such that a danger exists which could reasonably be expected to cause death or serious physical harm immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by this chapter. Any order issued under this section may require such steps to be taken as may be necessary to avoid, correct, or remove such imminent danger and prohibit the employment or presence of any individual in locations or under conditions where such imminent danger exists, except individuals whose presence is necessary to avoid, correct, or remove such imminent danger or to maintain the capacity of a continuous process operation to resume normal operations without a complete cessation of operations, or where a cessation of operations is necessary, to permit such to be accomplished in a safe and orderly manner.
 - **(b)** Upon the filing of any such petition the district court shall have jurisdiction to grant such injunctive relief or temporary restraining order pending the outcome of an enforcement proceeding pursuant to this chapter. The proceeding shall be as provided by Rule 65 of the Federal Rules, Civil Procedure, except that no temporary restraining order issued without notice shall be effective for a period longer than five days.
-- **(c)** Whenever and as soon as an inspector concludes that conditions or practices described in subsection (a) of this section exist in any place of employment, he shall inform the affected employees and employers of the danger and that he is recommending to the Secretary that relief be sought.
+- **(c)** Whenever and as soon as an inspector concludes that conditions or practices described in subsection (a) exist in any place of employment, he shall inform the affected employees and employers of the danger and that he is recommending to the Secretary that relief be sought.
 - **(d)** If the Secretary arbitrarily or capriciously fails to seek relief under this section, any employee who may be injured by reason of such failure, or the representative of such employees, might bring an action against the Secretary in the United States district court for the district in which the imminent danger is alleged to exist or the employer has its principal office, or for the District of Columbia, for a writ of mandamus to compel the Secretary to seek such an order and for such further relief as may be appropriate.

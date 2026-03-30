@@ -3,9 +3,9 @@ title: "Section 620g - Recreational and fish and wildlife facilities"
 usc_title: 43
 usc_section: "620g"
 chapter: 12
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 620g"
-generated_at: "2026-03-30T04:55:37.455Z"
+generated_at: "2026-03-30T04:58:49.567Z"
 status: "active"
 ---
 

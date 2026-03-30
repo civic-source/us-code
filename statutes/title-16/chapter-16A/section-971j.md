@@ -1,19 +1,13 @@
 ---
-title: "Section 971j - Annual report"
+title: "Section 971j - Repealed. Pub. L. 114–81, title I, § 107(5) , Nov. 5, 2015 , 129 Stat. 658"
 usc_title: 16
 usc_section: "971j"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 971j"
-generated_at: "2026-03-30T04:54:53.690Z"
-status: "active"
+generated_at: "2026-03-30T04:57:06.602Z"
+status: "repealed"
 ---
 
-# § 971j. Annual report
+# § 971j. Repealed. Pub. L. 114–81, title I, § 107(5) , Nov. 5, 2015 , 129 Stat. 658
 
-Not later than April 1, 1996 , and annually thereafter, the Secretary shall prepare and transmit to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, that—
-
-  - **(1)** details for the previous 10-year period the catches and exports to the United States of highly migratory species (including tunas, swordfish, marlin and sharks) from Nations fishing on Atlantic stocks of such species that are subject to management by the Commission;
-  - **(2)** identifies those fishing Nations whose harvests are inconsistent with conservation and management recommendations of the Commission;
-  - **(3)** describes reporting requirements established by the Secretary to ensure that imported fish products are in compliance with all international management measures, including minimum size requirements, established by the Commission and other international fishery organizations to which the United States is a party; and
-  - **(4)** describes actions taken by the Secretary under section 971d of this title .

@@ -3,9 +3,9 @@ title: "Section 500h - Grant of administrative powers to organizations of native
 usc_title: 25
 usc_section: "500h"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 500h"
-generated_at: "2026-03-30T04:54:57.191Z"
+generated_at: "2026-03-30T04:57:20.121Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 823 - Art. 23. Who may convene special courts-martial"
 usc_title: 10
 usc_section: "823"
 chapter: 47
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 823"
-generated_at: "2026-03-30T04:54:37.440Z"
+generated_at: "2026-03-30T04:56:26.651Z"
 status: "active"
 ---
 

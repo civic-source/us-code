@@ -3,9 +3,9 @@ title: "Section 3042 - Repealed. Pub. L. 95–478, title V, § 501(a) , Oct. 18,
 usc_title: 42
 usc_section: "3042"
 chapter: 35
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 3042"
-generated_at: "2026-03-30T04:55:52.457Z"
+generated_at: "2026-03-30T04:58:57.100Z"
 status: "repealed"
 ---
 

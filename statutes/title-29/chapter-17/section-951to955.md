@@ -3,9 +3,9 @@ title: "Section 951to955 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "951to955"
 chapter: 17
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 951to955"
-generated_at: "2026-03-30T04:55:04.326Z"
+generated_at: "2026-03-30T04:57:30.709Z"
 status: "repealed"
 ---
 

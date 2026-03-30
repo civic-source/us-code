@@ -3,9 +3,9 @@ title: "Section 5804 - Officers and employees"
 usc_title: 16
 usc_section: "5804"
 chapter: 78
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 5804"
-generated_at: "2026-03-30T04:54:53.767Z"
+generated_at: "2026-03-30T04:57:06.677Z"
 status: "active"
 ---
 

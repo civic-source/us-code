@@ -3,9 +3,9 @@ title: "Section 2621to2624 - Repealed. Pub. L. 103–382, title III, § 367 , Oc
 usc_title: 25
 usc_section: "2621to2624"
 chapter: 28
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 2621to2624"
-generated_at: "2026-03-30T04:54:57.247Z"
+generated_at: "2026-03-30T04:57:20.177Z"
 status: "repealed"
 ---
 

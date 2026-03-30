@@ -3,9 +3,9 @@ title: "Section 7184 - Preemption"
 usc_title: 20
 usc_section: "7184"
 chapter: 70
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 7184"
-generated_at: "2026-03-30T04:54:51.410Z"
+generated_at: "2026-03-30T04:57:15.832Z"
 status: "active"
 ---
 

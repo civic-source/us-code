@@ -3,9 +3,9 @@ title: "Section 203 - Definitions"
 usc_title: 29
 usc_section: "203"
 chapter: 8
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 203"
-generated_at: "2026-03-30T04:55:04.306Z"
+generated_at: "2026-03-30T04:57:30.692Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ As used in this chapter—
         - **(III)** is appointed by such an officeholder to serve on a policymaking level,
         - **(IV)** is an immediate adviser to such an officeholder with respect to the constitutional or legal powers of his office, or
         - **(V)** is an employee in the legislative branch or legislative body of that State, political subdivision, or agency and is not employed by the legislative library of such State, political subdivision, or agency.
-  - **(3)** For purposes of subsection (u) of this section, such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer’s immediate family.
+  - **(3)** For purposes of subsection (u), such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer’s immediate family.
   - **(4)**
     - **(A)** The term “employee” does not include any individual who volunteers to perform services for a public agency which is a State, a political subdivision of a State, or an interstate governmental agency, if—
       - **(i)** the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered; and

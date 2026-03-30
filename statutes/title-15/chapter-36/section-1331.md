@@ -3,9 +3,9 @@ title: "Section 1331 - Congressional declaration of policy and purpose"
 usc_title: 15
 usc_section: "1331"
 chapter: 36
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 1331"
-generated_at: "2026-03-30T04:54:44.620Z"
+generated_at: "2026-03-30T04:56:57.433Z"
 status: "active"
 ---
 

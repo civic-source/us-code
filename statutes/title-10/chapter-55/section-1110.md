@@ -3,9 +3,9 @@ title: "Section 1110 - Anthrax vaccine immunization program; procedures for exem
 usc_title: 10
 usc_section: "1110"
 chapter: 55
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 1110"
-generated_at: "2026-03-30T04:54:37.458Z"
+generated_at: "2026-03-30T04:56:26.666Z"
 status: "active"
 ---
 

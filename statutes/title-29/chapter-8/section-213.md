@@ -3,9 +3,9 @@ title: "Section 213 - Exemptions"
 usc_title: 29
 usc_section: "213"
 chapter: 8
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 213"
-generated_at: "2026-03-30T04:55:04.307Z"
+generated_at: "2026-03-30T04:57:30.693Z"
 status: "active"
 ---
 
@@ -68,7 +68,7 @@ status: "active"
   - **(30)** a criminal investigator who is paid availability pay under section 5545a of title 5 .
 - **(c)**
   - **(1)** Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
-    - **(A)** is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) 1 1 See References in Text note below. of this title,
+    - **(A)** is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) 1 1 See References in Text note below. of this title,
     - **(B)** is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place of his parent, or (ii) his parent or such person is employed on the same farm as such employee, or
     - **(C)** is fourteen years of age or older.
   - **(2)** The provisions of section 212 of this title relating to child labor shall apply to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.

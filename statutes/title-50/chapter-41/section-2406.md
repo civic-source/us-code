@@ -3,9 +3,9 @@ title: "Section 2406 - Deputy Administrator for Naval Reactors"
 usc_title: 50
 usc_section: "2406"
 chapter: 41
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "50 U.S.C. § 2406"
-generated_at: "2026-03-30T04:55:57.023Z"
+generated_at: "2026-03-30T04:59:01.541Z"
 status: "active"
 ---
 

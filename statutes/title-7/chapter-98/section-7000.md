@@ -3,9 +3,9 @@ title: "Section 7000 - Implementation of final determinations of Division"
 usc_title: 7
 usc_section: "7000"
 chapter: 98
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "7 U.S.C. § 7000"
-generated_at: "2026-03-30T04:54:34.066Z"
+generated_at: "2026-03-30T04:56:41.035Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 580a - Sale and distribution of supplies, equipment, and materia
 usc_title: 16
 usc_section: "580a"
 chapter: 3
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 580a"
-generated_at: "2026-03-30T04:54:53.649Z"
+generated_at: "2026-03-30T04:57:06.563Z"
 status: "active"
 ---
 

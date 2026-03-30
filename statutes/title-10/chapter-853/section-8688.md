@@ -3,9 +3,9 @@ title: "Section 8688 - Repealed. Pub. L. 85–861, § 36B(29) , Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "8688"
 chapter: 853
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 8688"
-generated_at: "2026-03-30T04:54:37.542Z"
+generated_at: "2026-03-30T04:56:26.745Z"
 status: "repealed"
 ---
 

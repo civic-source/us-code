@@ -3,9 +3,9 @@ title: "Section 6906 - Prohibited acts"
 usc_title: 16
 usc_section: "6906"
 chapter: 88
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 6906"
-generated_at: "2026-03-30T04:54:53.774Z"
+generated_at: "2026-03-30T04:57:06.684Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is unlawful for any person—
   - **(1)** to violate any provision of this chapter or any regulation or permit issued pursuant to this chapter;
-  - **(2)** to use any fishing vessel to engage in fishing after the revocation, or during the period of suspension, on an applicable permit issued pursuant to this chapter;
+  - **(2)** to use any fishing vessel to engage in fishing after the revocation, or during the period of suspension, of an applicable permit issued pursuant to this chapter;
   - **(3)** to refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person’s control for the purposes of conducting any search, investigation, or inspection in connection with the enforcement of this chapter or any regulation, permit, or the Convention;
   - **(4)** to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search, investigations, or inspection in connection with the enforcement of this chapter or any regulation, permit, or the Convention;
   - **(5)** to resist a lawful arrest for any act prohibited by this chapter;

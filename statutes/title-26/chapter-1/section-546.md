@@ -3,9 +3,9 @@ title: "Section 546 - Income not placed on annual basis"
 usc_title: 26
 usc_section: "546"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 546"
-generated_at: "2026-03-30T04:55:21.131Z"
+generated_at: "2026-03-30T04:58:24.459Z"
 status: "active"
 ---
 

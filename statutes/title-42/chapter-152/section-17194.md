@@ -3,9 +3,9 @@ title: "Section 17194 - Enhanced geothermal systems research and development"
 usc_title: 42
 usc_section: "17194"
 chapter: 152
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 17194"
-generated_at: "2026-03-30T04:55:52.737Z"
+generated_at: "2026-03-30T04:58:57.395Z"
 status: "active"
 ---
 

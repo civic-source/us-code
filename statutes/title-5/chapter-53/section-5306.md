@@ -3,9 +3,9 @@ title: "Section 5306 - Pay fixed by administrative action"
 usc_title: 5
 usc_section: "5306"
 chapter: 53
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "5 U.S.C. § 5306"
-generated_at: "2026-03-30T04:54:27.040Z"
+generated_at: "2026-03-30T04:56:17.707Z"
 status: "active"
 ---
 

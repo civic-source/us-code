@@ -3,9 +3,9 @@ title: "Section 330 - Desert-land entry in addition to homestead entry"
 usc_title: 43
 usc_section: "330"
 chapter: 9
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "43 U.S.C. § 330"
-generated_at: "2026-03-30T04:55:37.438Z"
+generated_at: "2026-03-30T04:58:49.553Z"
 status: "active"
 ---
 

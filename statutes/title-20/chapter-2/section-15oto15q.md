@@ -3,9 +3,9 @@ title: "Section 15oto15q - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16
 usc_title: 20
 usc_section: "15oto15q"
 chapter: 2
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "20 U.S.C. § 15oto15q"
-generated_at: "2026-03-30T04:54:51.292Z"
+generated_at: "2026-03-30T04:57:15.709Z"
 status: "repealed"
 ---
 

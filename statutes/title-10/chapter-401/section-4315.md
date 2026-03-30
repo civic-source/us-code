@@ -3,9 +3,9 @@ title: "Section 4315 - The Judge Advocate General’s School: master of laws in 
 usc_title: 10
 usc_section: "4315"
 chapter: 401
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 4315"
-generated_at: "2026-03-30T04:54:37.523Z"
+generated_at: "2026-03-30T04:56:26.727Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1012 - Basis of property—cost"
 usc_title: 26
 usc_section: "1012"
 chapter: 1
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "26 U.S.C. § 1012"
-generated_at: "2026-03-30T04:55:21.163Z"
+generated_at: "2026-03-30T04:58:24.490Z"
 status: "active"
 ---
 

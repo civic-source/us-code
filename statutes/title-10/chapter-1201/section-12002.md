@@ -3,9 +3,9 @@ title: "Section 12002 - Authorized strengths: Army and Air Force reserve compone
 usc_title: 10
 usc_section: "12002"
 chapter: 1201
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 12002"
-generated_at: "2026-03-30T04:54:37.550Z"
+generated_at: "2026-03-30T04:56:26.752Z"
 status: "active"
 ---
 

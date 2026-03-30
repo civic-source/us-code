@@ -3,9 +3,9 @@ title: "Section 5726 - Yukon River salmon stock restoration and enhancement proj
 usc_title: 16
 usc_section: "5726"
 chapter: 77
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "16 U.S.C. § 5726"
-generated_at: "2026-03-30T04:54:53.766Z"
+generated_at: "2026-03-30T04:57:06.676Z"
 status: "active"
 ---
 

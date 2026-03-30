@@ -3,9 +3,9 @@ title: "Section 1692i - Legal actions by debt collectors"
 usc_title: 15
 usc_section: "1692i"
 chapter: 41
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 1692i"
-generated_at: "2026-03-30T04:54:44.640Z"
+generated_at: "2026-03-30T04:56:57.453Z"
 status: "active"
 ---
 

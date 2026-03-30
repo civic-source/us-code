@@ -3,9 +3,9 @@ title: "Section 7702 - Definitions"
 usc_title: 15
 usc_section: "7702"
 chapter: 103
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 7702"
-generated_at: "2026-03-30T04:54:44.699Z"
+generated_at: "2026-03-30T04:56:57.514Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13361 - Clean coal technology export promotion and interagency c
 usc_title: 42
 usc_section: "13361"
 chapter: 134
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 13361"
-generated_at: "2026-03-30T04:55:52.682Z"
+generated_at: "2026-03-30T04:58:57.338Z"
 status: "active"
 ---
 

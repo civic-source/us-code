@@ -3,9 +3,9 @@ title: "Section 5464 - Standards for systemically important financial market uti
 usc_title: 12
 usc_section: "5464"
 chapter: 53
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "12 U.S.C. § 5464"
-generated_at: "2026-03-30T04:54:42.760Z"
+generated_at: "2026-03-30T04:56:55.549Z"
 status: "active"
 ---
 

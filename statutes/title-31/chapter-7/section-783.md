@@ -3,9 +3,9 @@ title: "Section 783 - Rules and regulations"
 usc_title: 31
 usc_section: "783"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "31 U.S.C. § 783"
-generated_at: "2026-03-30T04:55:26.223Z"
+generated_at: "2026-03-30T04:58:31.048Z"
 status: "active"
 ---
 

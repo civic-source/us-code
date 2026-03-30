@@ -3,9 +3,9 @@ title: "Section 18238 - Army National Guard of United States; Air National Guard
 usc_title: 10
 usc_section: "18238"
 chapter: 1803
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 18238"
-generated_at: "2026-03-30T04:54:37.560Z"
+generated_at: "2026-03-30T04:56:26.762Z"
 status: "active"
 ---
 

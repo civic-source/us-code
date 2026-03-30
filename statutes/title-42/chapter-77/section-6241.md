@@ -3,9 +3,9 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-30T04:55:52.522Z"
+generated_at: "2026-03-30T04:58:57.167Z"
 status: "active"
 ---
 
@@ -31,7 +31,12 @@ status: "active"
   - **(5)** The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.
   - **(6)** In the case of a sale of any petroleum products under this subsection, the Secretary shall, to the extent funds are available in the SPR Petroleum Account as a result of such sale, acquire petroleum products for the Reserve within the 12-month period beginning after completion of the sale.
   - **(7)** Rules, regulations, or orders issued in order to carry out this subsection which have the applicability and effect of a rule as defined in section 551(4) of title 5 shall not be subject to the requirements of subchapter II of chapter 5 of such title or to section 6393 of this title .
-  - **(8)** The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title .
+  - **(8)**
+    - **(A)** Not less than 14 days before the date on which a test is carried out under this subsection, the Secretary shall notify both Houses of Congress of the test.
+    - **(B)** The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
+    - **(C)**
+      - **(i)** Not later than 180 days after the date on which a test is completed under this subsection, the Secretary shall submit to both Houses of Congress a detailed description of the test.
+      - **(ii)** A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under section 6245 of this title .
 - **(h)**
   - **(1)** If the President finds that—
     - **(A)** a circumstance, other than those described in subsection (d) of this section, exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;

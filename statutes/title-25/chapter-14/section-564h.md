@@ -3,9 +3,9 @@ title: "Section 564h - Property of deceased members"
 usc_title: 25
 usc_section: "564h"
 chapter: 14
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "25 U.S.C. § 564h"
-generated_at: "2026-03-30T04:54:57.192Z"
+generated_at: "2026-03-30T04:57:20.122Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 144 - Separability"
 usc_title: 29
 usc_section: "144"
 chapter: 7
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "29 U.S.C. § 144"
-generated_at: "2026-03-30T04:55:04.304Z"
+generated_at: "2026-03-30T04:57:30.689Z"
 status: "active"
 ---
 

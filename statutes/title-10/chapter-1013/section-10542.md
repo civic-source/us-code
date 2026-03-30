@@ -3,9 +3,9 @@ title: "Section 10542 - Army National Guard combat readiness: annual report"
 usc_title: 10
 usc_section: "10542"
 chapter: 1013
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 10542"
-generated_at: "2026-03-30T04:54:37.550Z"
+generated_at: "2026-03-30T04:56:26.752Z"
 status: "active"
 ---
 

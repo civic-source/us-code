@@ -3,9 +3,9 @@ title: "Section 12657 - Training and technical assistance"
 usc_title: 42
 usc_section: "12657"
 chapter: 129
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "42 U.S.C. § 12657"
-generated_at: "2026-03-30T04:55:52.671Z"
+generated_at: "2026-03-30T04:58:57.326Z"
 status: "active"
 ---
 

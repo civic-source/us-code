@@ -3,9 +3,9 @@ title: "Section 12641 - Standards and procedures: Secretary to prescribe"
 usc_title: 10
 usc_section: "12641"
 chapter: 1219
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "10 U.S.C. § 12641"
-generated_at: "2026-03-30T04:54:37.553Z"
+generated_at: "2026-03-30T04:56:26.756Z"
 status: "active"
 ---
 

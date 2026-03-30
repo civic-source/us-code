@@ -3,9 +3,9 @@ title: "Section 790g - Access by Director to energy information"
 usc_title: 15
 usc_section: "790g"
 chapter: 16
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 790g"
-generated_at: "2026-03-30T04:54:44.610Z"
+generated_at: "2026-03-30T04:56:57.422Z"
 status: "active"
 ---
 

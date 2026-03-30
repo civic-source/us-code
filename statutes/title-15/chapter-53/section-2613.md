@@ -3,9 +3,9 @@ title: "Section 2613 - Disclosure of data"
 usc_title: 15
 usc_section: "2613"
 chapter: 53
-current_through: "PL 114-73"
+current_through: "PL 114-86"
 classification: "15 U.S.C. § 2613"
-generated_at: "2026-03-30T04:54:44.659Z"
+generated_at: "2026-03-30T04:56:57.472Z"
 status: "active"
 ---
 
