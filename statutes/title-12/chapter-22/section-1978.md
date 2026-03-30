@@ -3,9 +3,9 @@ title: "Section 1978 - Actions under other Federal or State laws unaffected; reg
 usc_title: 12
 usc_section: "1978"
 chapter: 22
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "12 U.S.C. § 1978"
-generated_at: "2026-03-30T06:13:07.816Z"
+generated_at: "2026-03-30T06:15:01.542Z"
 status: "active"
 ---
 

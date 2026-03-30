@@ -3,9 +3,9 @@ title: "Section 2566 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "2566"
 chapter: 35
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "22 U.S.C. § 2566"
-generated_at: "2026-03-30T06:13:30.591Z"
+generated_at: "2026-03-30T06:16:05.301Z"
 status: "repealed"
 ---
 

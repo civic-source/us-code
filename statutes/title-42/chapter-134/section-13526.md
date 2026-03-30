@@ -3,9 +3,9 @@ title: "Section 13526 - Uncosted obligations"
 usc_title: 42
 usc_section: "13526"
 chapter: 134
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 13526"
-generated_at: "2026-03-30T06:14:11.165Z"
+generated_at: "2026-03-30T06:17:01.439Z"
 status: "active"
 ---
 

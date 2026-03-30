@@ -3,9 +3,9 @@ title: "Section 125 - Annexation of discontinued district to adjacent district"
 usc_title: 43
 usc_section: "125"
 chapter: 5
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "43 U.S.C. § 125"
-generated_at: "2026-03-30T06:14:03.234Z"
+generated_at: "2026-03-30T06:16:48.461Z"
 status: "active"
 ---
 

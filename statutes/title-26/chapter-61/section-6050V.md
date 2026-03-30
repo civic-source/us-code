@@ -3,9 +3,9 @@ title: "Section 6050V - Returns relating to applicable insurance contracts in wh
 usc_title: 26
 usc_section: "6050V"
 chapter: 61
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "26 U.S.C. § 6050V"
-generated_at: "2026-03-30T06:13:46.374Z"
+generated_at: "2026-03-30T06:16:16.276Z"
 status: "active"
 ---
 

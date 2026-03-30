@@ -3,9 +3,9 @@ title: "Section 1423c - Privileges of members"
 usc_title: 48
 usc_section: "1423c"
 chapter: 8
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 1423c"
-generated_at: "2026-03-30T06:14:13.715Z"
+generated_at: "2026-03-30T06:17:04.037Z"
 status: "active"
 ---
 

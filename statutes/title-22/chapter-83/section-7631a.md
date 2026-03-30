@@ -3,9 +3,9 @@ title: "Section 7631a - United States Agency for International Development"
 usc_title: 22
 usc_section: "7631a"
 chapter: 83
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "22 U.S.C. § 7631a"
-generated_at: "2026-03-30T06:13:30.653Z"
+generated_at: "2026-03-30T06:16:05.385Z"
 status: "active"
 ---
 

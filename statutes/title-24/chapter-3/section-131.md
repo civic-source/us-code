@@ -3,9 +3,9 @@ title: "Section 131 - Repealed. Pub. L. 85–857 , § 14(49), Sept. 2, 1958 , 72
 usc_title: 24
 usc_section: "131"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "24 U.S.C. § 131"
-generated_at: "2026-03-30T06:13:22.122Z"
+generated_at: "2026-03-30T06:15:32.287Z"
 status: "repealed"
 ---
 

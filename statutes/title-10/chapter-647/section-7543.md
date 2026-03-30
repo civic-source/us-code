@@ -3,9 +3,9 @@ title: "Section 7543 - Useless ordnance material: disposition of proceeds on sal
 usc_title: 10
 usc_section: "7543"
 chapter: 647
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 7543"
-generated_at: "2026-03-30T06:13:02.670Z"
+generated_at: "2026-03-30T06:14:52.904Z"
 status: "active"
 ---
 

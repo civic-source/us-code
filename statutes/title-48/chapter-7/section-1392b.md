@@ -3,9 +3,9 @@ title: "Section 1392b - Repealed. Pub. L. 97–357, title III , § 308(c), Oct. 
 usc_title: 48
 usc_section: "1392b"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 1392b"
-generated_at: "2026-03-30T06:14:13.711Z"
+generated_at: "2026-03-30T06:17:04.035Z"
 status: "repealed"
 ---
 

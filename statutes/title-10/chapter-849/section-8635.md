@@ -3,9 +3,9 @@ title: "Section 8635 - Repealed. Pub. L. 90–235 , § 6(a)(7), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8635"
 chapter: 849
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 8635"
-generated_at: "2026-03-30T06:13:02.674Z"
+generated_at: "2026-03-30T06:14:52.908Z"
 status: "repealed"
 ---
 

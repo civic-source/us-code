@@ -3,9 +3,9 @@ title: "Section 117 - Nationally significant freight and highway projects"
 usc_title: 23
 usc_section: "117"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "23 U.S.C. § 117"
-generated_at: "2026-03-30T06:13:23.685Z"
+generated_at: "2026-03-30T06:15:33.016Z"
 status: "active"
 ---
 

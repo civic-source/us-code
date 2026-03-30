@@ -3,9 +3,9 @@ title: "Section 1182 - Prohibiting discrimination against individual participant
 usc_title: 29
 usc_section: "1182"
 chapter: 18
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "29 U.S.C. § 1182"
-generated_at: "2026-03-30T06:13:34.478Z"
+generated_at: "2026-03-30T06:16:23.133Z"
 status: "active"
 ---
 

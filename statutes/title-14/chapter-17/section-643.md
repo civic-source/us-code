@@ -3,9 +3,9 @@ title: "Section 643 - Rewards for apprehension of persons interfering with aids 
 usc_title: 14
 usc_section: "643"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "14 U.S.C. § 643"
-generated_at: "2026-03-30T06:13:04.685Z"
+generated_at: "2026-03-30T06:14:54.852Z"
 status: "active"
 ---
 

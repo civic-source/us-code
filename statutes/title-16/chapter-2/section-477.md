@@ -3,9 +3,9 @@ title: "Section 477 - Use of timber and stone by settlers"
 usc_title: 16
 usc_section: "477"
 chapter: 2
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 477"
-generated_at: "2026-03-30T06:13:20.009Z"
+generated_at: "2026-03-30T06:15:30.299Z"
 status: "active"
 ---
 

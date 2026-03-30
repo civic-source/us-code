@@ -3,9 +3,9 @@ title: "Section 692a - Hunting, pursuing, capturing, etc., in Ocala National For
 usc_title: 16
 usc_section: "692a"
 chapter: 6
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 692a"
-generated_at: "2026-03-30T06:13:20.035Z"
+generated_at: "2026-03-30T06:15:30.325Z"
 status: "active"
 ---
 

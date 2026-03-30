@@ -3,9 +3,9 @@ title: "Section 501a - Omitted"
 usc_title: 16
 usc_section: "501a"
 chapter: 2
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 501a"
-generated_at: "2026-03-30T06:13:20.012Z"
+generated_at: "2026-03-30T06:15:30.301Z"
 status: "omitted"
 ---
 

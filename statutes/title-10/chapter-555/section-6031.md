@@ -3,9 +3,9 @@ title: "Section 6031 - Chaplains: divine services"
 usc_title: 10
 usc_section: "6031"
 chapter: 555
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 6031"
-generated_at: "2026-03-30T06:13:02.663Z"
+generated_at: "2026-03-30T06:14:52.896Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5908 - Relationship to other laws"
 usc_title: 49
 usc_section: "5908"
 chapter: 59
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "49 U.S.C. § 5908"
-generated_at: "2026-03-30T06:14:17.821Z"
+generated_at: "2026-03-30T06:17:07.238Z"
 status: "active"
 ---
 

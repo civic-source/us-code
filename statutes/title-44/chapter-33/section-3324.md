@@ -3,9 +3,9 @@ title: "Section 3324 - Repealed. Pub. L. 113–187 , § 7(a), Nov. 26, 2014 , 12
 usc_title: 44
 usc_section: "3324"
 chapter: 33
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "44 U.S.C. § 3324"
-generated_at: "2026-03-30T06:14:00.737Z"
+generated_at: "2026-03-30T06:16:47.775Z"
 status: "repealed"
 ---
 

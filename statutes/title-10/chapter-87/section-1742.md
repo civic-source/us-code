@@ -3,9 +3,9 @@ title: "Section 1742 - Internship, cooperative education, and scholarship progra
 usc_title: 10
 usc_section: "1742"
 chapter: 87
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 1742"
-generated_at: "2026-03-30T06:13:02.609Z"
+generated_at: "2026-03-30T06:14:52.839Z"
 status: "active"
 ---
 

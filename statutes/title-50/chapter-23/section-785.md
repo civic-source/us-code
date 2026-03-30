@@ -3,9 +3,9 @@ title: "Section 785 - Repealed. Pub. L. 103–199, title VIII , § 803(1), Dec. 
 usc_title: 50
 usc_section: "785"
 chapter: 23
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 785"
-generated_at: "2026-03-30T06:14:15.944Z"
+generated_at: "2026-03-30T06:17:08.275Z"
 status: "repealed"
 ---
 

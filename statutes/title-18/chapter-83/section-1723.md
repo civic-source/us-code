@@ -3,9 +3,9 @@ title: "Section 1723 - Avoidance of postage by using lower class matter"
 usc_title: 18
 usc_section: "1723"
 chapter: 83
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "18 U.S.C. § 1723"
-generated_at: "2026-03-30T06:13:15.942Z"
+generated_at: "2026-03-30T06:15:28.065Z"
 status: "active"
 ---
 

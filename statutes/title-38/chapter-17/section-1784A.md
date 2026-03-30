@@ -3,9 +3,9 @@ title: "Section 1784A - Examination and treatment for emergency medical conditio
 usc_title: 38
 usc_section: "1784A"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "38 U.S.C. § 1784A"
-generated_at: "2026-03-30T06:13:53.573Z"
+generated_at: "2026-03-30T06:16:45.974Z"
 status: "active"
 ---
 

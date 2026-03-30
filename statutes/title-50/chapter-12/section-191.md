@@ -3,9 +3,9 @@ title: "Section 191 - Regulation of anchorage and movement of vessels during nat
 usc_title: 50
 usc_section: "191"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 191"
-generated_at: "2026-03-30T06:14:15.942Z"
+generated_at: "2026-03-30T06:17:08.271Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1826j - Illegal, unreported, or unregulated fishing"
 usc_title: 16
 usc_section: "1826j"
 chapter: 38
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 1826j"
-generated_at: "2026-03-30T06:13:20.095Z"
+generated_at: "2026-03-30T06:15:30.387Z"
 status: "active"
 ---
 

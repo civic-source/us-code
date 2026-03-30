@@ -3,9 +3,9 @@ title: "Section 362 - Automatic stay"
 usc_title: 11
 usc_section: "362"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "11 U.S.C. § 362"
-generated_at: "2026-03-30T06:13:05.169Z"
+generated_at: "2026-03-30T06:14:55.293Z"
 status: "active"
 ---
 

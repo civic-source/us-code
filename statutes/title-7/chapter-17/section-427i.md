@@ -3,9 +3,9 @@ title: "Section 427i - Agricultural research; authorization of additional approp
 usc_title: 7
 usc_section: "427i"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 427i"
-generated_at: "2026-03-30T06:12:57.666Z"
+generated_at: "2026-03-30T06:14:39.041Z"
 status: "active"
 ---
 

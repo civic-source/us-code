@@ -3,9 +3,9 @@ title: "Section 8417 - Survivor reduction for a former spouse"
 usc_title: 5
 usc_section: "8417"
 chapter: 84
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "5 U.S.C. § 8417"
-generated_at: "2026-03-30T06:12:52.803Z"
+generated_at: "2026-03-30T06:14:33.061Z"
 status: "active"
 ---
 

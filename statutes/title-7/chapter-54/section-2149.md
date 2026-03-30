@@ -3,9 +3,9 @@ title: "Section 2149 - Violations by licensees"
 usc_title: 7
 usc_section: "2149"
 chapter: 54
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 2149"
-generated_at: "2026-03-30T06:12:57.738Z"
+generated_at: "2026-03-30T06:14:39.110Z"
 status: "active"
 ---
 

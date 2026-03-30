@@ -3,9 +3,9 @@ title: "Section 830 - Repealed. Pub. L. 105–178, title VII , § 7203(a)(2), Ju
 usc_title: 45
 usc_section: "830"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "45 U.S.C. § 830"
-generated_at: "2026-03-30T06:14:01.170Z"
+generated_at: "2026-03-30T06:16:48.777Z"
 status: "repealed"
 ---
 

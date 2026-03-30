@@ -3,9 +3,9 @@ title: "Section 6903 - Payments"
 usc_title: 31
 usc_section: "6903"
 chapter: 69
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "31 U.S.C. § 6903"
-generated_at: "2026-03-30T06:13:48.945Z"
+generated_at: "2026-03-30T06:16:30.404Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 639 - Definitions"
 usc_title: 28
 usc_section: "639"
 chapter: 43
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 639"
-generated_at: "2026-03-30T06:13:37.473Z"
+generated_at: "2026-03-30T06:16:17.741Z"
 status: "active"
 ---
 

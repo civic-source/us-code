@@ -3,9 +3,9 @@ title: "Section 44934 - Foreign Security Liaison Officers"
 usc_title: 49
 usc_section: "44934"
 chapter: 449
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "49 U.S.C. § 44934"
-generated_at: "2026-03-30T06:14:17.876Z"
+generated_at: "2026-03-30T06:17:07.293Z"
 status: "active"
 ---
 

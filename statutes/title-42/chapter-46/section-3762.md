@@ -3,9 +3,9 @@ title: "Section 3762 - Repealed. Pub. L. 109–162, title XI , § 1111(b)(1), Ja
 usc_title: 42
 usc_section: "3762"
 chapter: 46
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 3762"
-generated_at: "2026-03-30T06:14:10.930Z"
+generated_at: "2026-03-30T06:17:01.208Z"
 status: "repealed"
 ---
 

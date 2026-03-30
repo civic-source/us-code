@@ -3,9 +3,9 @@ title: "Section 1428a - Submission of plan for use of funds; contents of plan; t
 usc_title: 48
 usc_section: "1428a"
 chapter: 8
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 1428a"
-generated_at: "2026-03-30T06:14:13.715Z"
+generated_at: "2026-03-30T06:17:04.038Z"
 status: "active"
 ---
 

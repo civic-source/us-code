@@ -3,9 +3,9 @@ title: "Section 615a - Sale of timber in Alaska; appraisal; local consumption; a
 usc_title: 16
 usc_section: "615a"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 615a"
-generated_at: "2026-03-30T06:13:20.028Z"
+generated_at: "2026-03-30T06:15:30.318Z"
 status: "active"
 ---
 

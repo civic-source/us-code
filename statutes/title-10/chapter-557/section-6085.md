@@ -3,9 +3,9 @@ title: "Section 6085 - Flight rations"
 usc_title: 10
 usc_section: "6085"
 chapter: 557
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 6085"
-generated_at: "2026-03-30T06:13:02.663Z"
+generated_at: "2026-03-30T06:14:52.896Z"
 status: "active"
 ---
 

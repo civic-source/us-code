@@ -3,9 +3,9 @@ title: "Section 1310 - Cooperative research or demonstration proj­ects"
 usc_title: 42
 usc_section: "1310"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 1310"
-generated_at: "2026-03-30T06:14:10.707Z"
+generated_at: "2026-03-30T06:17:00.983Z"
 status: "active"
 ---
 

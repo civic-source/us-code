@@ -3,9 +3,9 @@ title: "Section 1324 - Power of court over registration"
 usc_title: 17
 usc_section: "1324"
 chapter: 13
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "17 U.S.C. § 1324"
-generated_at: "2026-03-30T06:13:12.945Z"
+generated_at: "2026-03-30T06:15:09.563Z"
 status: "active"
 ---
 

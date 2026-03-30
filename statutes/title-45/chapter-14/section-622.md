@@ -3,9 +3,9 @@ title: "Section 622 - Repealed. Pub. L. 99–272, title IV , § 4007(c), Apr. 7,
 usc_title: 45
 usc_section: "622"
 chapter: 14
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "45 U.S.C. § 622"
-generated_at: "2026-03-30T06:14:01.163Z"
+generated_at: "2026-03-30T06:16:48.770Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17507 - Savings"
 usc_title: 40
 usc_section: "17507"
 chapter: 175
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "40 U.S.C. § 17507"
-generated_at: "2026-03-30T06:13:53.994Z"
+generated_at: "2026-03-30T06:16:32.400Z"
 status: "active"
 ---
 

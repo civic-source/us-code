@@ -3,9 +3,9 @@ title: "Section 781 - Authority over the General Accounting Office Building"
 usc_title: 31
 usc_section: "781"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "31 U.S.C. § 781"
-generated_at: "2026-03-30T06:13:48.923Z"
+generated_at: "2026-03-30T06:16:30.381Z"
 status: "active"
 ---
 

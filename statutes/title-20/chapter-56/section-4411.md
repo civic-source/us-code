@@ -3,9 +3,9 @@ title: "Section 4411 - Establishment of Institute"
 usc_title: 20
 usc_section: "4411"
 chapter: 56
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "20 U.S.C. § 4411"
-generated_at: "2026-03-30T06:13:17.802Z"
+generated_at: "2026-03-30T06:15:16.120Z"
 status: "active"
 ---
 

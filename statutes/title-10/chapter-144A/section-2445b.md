@@ -3,9 +3,9 @@ title: "Section 2445b - Cost, schedule, and performance information"
 usc_title: 10
 usc_section: "2445b"
 chapter: 144
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 2445b"
-generated_at: "2026-03-30T06:13:02.633Z"
+generated_at: "2026-03-30T06:14:52.864Z"
 status: "active"
 ---
 

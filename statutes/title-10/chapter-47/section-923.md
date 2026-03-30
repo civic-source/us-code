@@ -3,9 +3,9 @@ title: "Section 923 - Art. 123. Forgery"
 usc_title: 10
 usc_section: "923"
 chapter: 47
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 923"
-generated_at: "2026-03-30T06:13:02.576Z"
+generated_at: "2026-03-30T06:14:52.807Z"
 status: "active"
 ---
 

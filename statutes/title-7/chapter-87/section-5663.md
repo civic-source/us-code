@@ -3,9 +3,9 @@ title: "Section 5663 - Departmental administration system"
 usc_title: 7
 usc_section: "5663"
 chapter: 87
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 5663"
-generated_at: "2026-03-30T06:12:57.764Z"
+generated_at: "2026-03-30T06:14:39.136Z"
 status: "active"
 ---
 

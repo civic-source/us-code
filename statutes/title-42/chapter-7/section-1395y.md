@@ -3,9 +3,9 @@ title: "Section 1395y - Exclusions from coverage and medicare as secondary payer
 usc_title: 42
 usc_section: "1395y"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 1395y"
-generated_at: "2026-03-30T06:14:10.772Z"
+generated_at: "2026-03-30T06:17:01.050Z"
 status: "active"
 ---
 
@@ -209,7 +209,7 @@ status: "active"
     - **(B)** the Secretary determines would present a conflict of interest relating to such nonvoting member.
   - **(2)** If an advisory committee described in paragraph (1) organizes into panels of experts according to types of items or services considered by the advisory committee, any such panel of experts may report any recommendation with respect to such items or services directly to the Secretary without the prior approval of the advisory committee or an executive committee thereof.
 - **(k)**
-  - **(1)** Subject to paragraph (2), a group health plan (as defined in subsection (a)(1)(A)(v) 7 7 So in original. Probably should be “(b)(1)(A)(v)”. ) providing supplemental or secondary coverage to individuals also entitled to services under this subchapter shall not require a medicare claims determination under this subchapter for dental benefits specifically excluded under subsection (a)(12) as a condition of making a claims determination for such benefits under the group health plan.
+  - **(1)** Subject to paragraph (2), a group health plan (as defined in subsection (a)(1)(A)(v)) 7 7 So in original. Probably should be “(b)(1)(A)(v))”. providing supplemental or secondary coverage to individuals also entitled to services under this subchapter shall not require a medicare claims determination under this subchapter for dental benefits specifically excluded under subsection (a)(12) as a condition of making a claims determination for such benefits under the group health plan.
   - **(2)** A group health plan may require a claims determination under this subchapter in cases involving or appearing to involve inpatient dental hospital services or dental services expressly covered under this subchapter pursuant to actions taken by the Secretary.
 - **(l)**
   - **(1)** The Secretary shall make available to the public the factors considered in making national coverage determinations of whether an item or service is reasonable and necessary. The Secretary shall develop guidance documents to carry out this paragraph in a manner similar to the development of guidance documents under section 371(h) of title 21 .

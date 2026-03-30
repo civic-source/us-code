@@ -3,9 +3,9 @@ title: "Section 2021 - Additional Senate office building"
 usc_title: 2
 usc_section: "2021"
 chapter: 30
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "2 U.S.C. § 2021"
-generated_at: "2026-03-30T06:12:46.655Z"
+generated_at: "2026-03-30T06:14:33.747Z"
 status: "active"
 ---
 

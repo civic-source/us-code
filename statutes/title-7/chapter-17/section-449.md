@@ -3,9 +3,9 @@ title: "Section 449 - Authorization of appropriations for reimbursement of Commo
 usc_title: 7
 usc_section: "449"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 449"
-generated_at: "2026-03-30T06:12:57.667Z"
+generated_at: "2026-03-30T06:14:39.042Z"
 status: "active"
 ---
 

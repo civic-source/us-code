@@ -3,9 +3,9 @@ title: "Section 8253 - Repealed. Pub. L. 109–163, div. A, title V , § 542(b)(
 usc_title: 10
 usc_section: "8253"
 chapter: 833
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 8253"
-generated_at: "2026-03-30T06:13:02.673Z"
+generated_at: "2026-03-30T06:14:52.907Z"
 status: "repealed"
 ---
 

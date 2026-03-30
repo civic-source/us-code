@@ -3,9 +3,9 @@ title: "Section 6313 - Senators’ Official Personnel and Office Expense Account
 usc_title: 2
 usc_section: "6313"
 chapter: 63
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "2 U.S.C. § 6313"
-generated_at: "2026-03-30T06:12:46.667Z"
+generated_at: "2026-03-30T06:14:33.761Z"
 status: "active"
 ---
 

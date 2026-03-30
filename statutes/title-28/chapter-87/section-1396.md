@@ -3,9 +3,9 @@ title: "Section 1396 - Internal revenue taxes"
 usc_title: 28
 usc_section: "1396"
 chapter: 87
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 1396"
-generated_at: "2026-03-30T06:13:37.477Z"
+generated_at: "2026-03-30T06:16:17.746Z"
 status: "active"
 ---
 

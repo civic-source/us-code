@@ -3,9 +3,9 @@ title: "Section 455 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "455"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 455"
-generated_at: "2026-03-30T06:13:19.974Z"
+generated_at: "2026-03-30T06:15:30.263Z"
 status: "repealed"
 ---
 

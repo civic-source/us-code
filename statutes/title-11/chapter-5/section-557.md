@@ -3,9 +3,9 @@ title: "Section 557 - Expedited determination of interests in, and abandonment o
 usc_title: 11
 usc_section: "557"
 chapter: 5
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "11 U.S.C. § 557"
-generated_at: "2026-03-30T06:13:05.174Z"
+generated_at: "2026-03-30T06:14:55.297Z"
 status: "active"
 ---
 

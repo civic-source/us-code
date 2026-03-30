@@ -3,9 +3,9 @@ title: "Section 669g - Maintenance of projects; expenditures for management of w
 usc_title: 16
 usc_section: "669g"
 chapter: 5
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 669g"
-generated_at: "2026-03-30T06:13:20.032Z"
+generated_at: "2026-03-30T06:15:30.322Z"
 status: "active"
 ---
 

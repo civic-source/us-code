@@ -3,9 +3,9 @@ title: "Section 368 - Omitted"
 usc_title: 48
 usc_section: "368"
 chapter: 2
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 368"
-generated_at: "2026-03-30T06:14:13.709Z"
+generated_at: "2026-03-30T06:17:04.033Z"
 status: "omitted"
 ---
 

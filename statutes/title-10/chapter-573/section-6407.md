@@ -3,9 +3,9 @@ title: "Section 6407 - Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 
 usc_title: 10
 usc_section: "6407"
 chapter: 573
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 6407"
-generated_at: "2026-03-30T06:13:02.665Z"
+generated_at: "2026-03-30T06:14:52.899Z"
 status: "repealed"
 ---
 

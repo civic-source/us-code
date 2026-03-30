@@ -3,9 +3,9 @@ title: "Section 8343 - Rules relating to case-by-case and category prohibitions"
 usc_title: 42
 usc_section: "8343"
 chapter: 92
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 8343"
-generated_at: "2026-03-30T06:14:11.070Z"
+generated_at: "2026-03-30T06:17:01.346Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1604 - Immunity of a foreign state from jurisdiction"
 usc_title: 28
 usc_section: "1604"
 chapter: 97
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 1604"
-generated_at: "2026-03-30T06:13:37.479Z"
+generated_at: "2026-03-30T06:16:17.748Z"
 status: "active"
 ---
 

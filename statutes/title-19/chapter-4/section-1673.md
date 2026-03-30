@@ -3,9 +3,9 @@ title: "Section 1673 - Imposition of antidumping duties"
 usc_title: 19
 usc_section: "1673"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "19 U.S.C. § 1673"
-generated_at: "2026-03-30T06:13:14.531Z"
+generated_at: "2026-03-30T06:15:12.103Z"
 status: "active"
 ---
 

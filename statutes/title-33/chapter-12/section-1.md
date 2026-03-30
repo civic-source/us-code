@@ -3,9 +3,9 @@ title: "Section 1 - Backlog prevention"
 usc_title: 33
 usc_section: "1"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T06:13:49.828Z"
+generated_at: "2026-03-30T06:16:26.473Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T06:14:10.759Z"
+generated_at: "2026-03-30T06:17:01.036Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
       - **(i)** the adjusted community rate (as defined in subsection (f)(3));
       - **(ii)** the Medicare+Choice monthly basic beneficiary premium (as defined in subsection (b)(2)(A));
       - **(iii)** a description of deductibles, coinsurance, and copayments applicable under the plan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(1)(A); and
-      - **(iv)** if required under subsection (f)(1) , a description of the additional benefits to be provided pursuant to such subsection and the value determined for such proposed benefits under such subsection.
+      - **(iv)** if required under subsection (f)(1), a description of the additional benefits to be provided pursuant to such subsection and the value determined for such proposed benefits under such subsection.
     - **(B)** For benefits described in section 1395w–22(a)(3) of this title —
       - **(i)** the adjusted community rate (as defined in subsection (f)(3));
       - **(ii)** the Medicare+Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B)); and

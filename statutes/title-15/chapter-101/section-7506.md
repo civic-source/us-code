@@ -3,9 +3,9 @@ title: "Section 7506 - Department of Commerce programs"
 usc_title: 15
 usc_section: "7506"
 chapter: 101
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "15 U.S.C. § 7506"
-generated_at: "2026-03-30T06:13:10.789Z"
+generated_at: "2026-03-30T06:15:07.548Z"
 status: "active"
 ---
 

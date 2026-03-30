@@ -3,9 +3,9 @@ title: "Section 59gg - Declaration of nonnavigability for portions of Cuyahoga C
 usc_title: 33
 usc_section: "59gg"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "33 U.S.C. § 59gg"
-generated_at: "2026-03-30T06:13:49.817Z"
+generated_at: "2026-03-30T06:16:26.464Z"
 status: "active"
 ---
 

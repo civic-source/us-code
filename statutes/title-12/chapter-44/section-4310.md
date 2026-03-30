@@ -3,9 +3,9 @@ title: "Section 4310 - Repealed. Pub. L. 104–208, div. A, title II , § 2604(a
 usc_title: 12
 usc_section: "4310"
 chapter: 44
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "12 U.S.C. § 4310"
-generated_at: "2026-03-30T06:13:07.846Z"
+generated_at: "2026-03-30T06:15:01.572Z"
 status: "repealed"
 ---
 

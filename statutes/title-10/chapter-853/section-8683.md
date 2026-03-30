@@ -3,9 +3,9 @@ title: "Section 8683 - Repealed. Pub. L. 99–145, title XIII , § 1301(d)(1)(A)
 usc_title: 10
 usc_section: "8683"
 chapter: 853
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 8683"
-generated_at: "2026-03-30T06:13:02.674Z"
+generated_at: "2026-03-30T06:14:52.908Z"
 status: "repealed"
 ---
 

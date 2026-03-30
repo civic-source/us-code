@@ -3,9 +3,9 @@ title: "Section 95 - Omitted"
 usc_title: 50
 usc_section: "95"
 chapter: 5
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 95"
-generated_at: "2026-03-30T06:14:15.940Z"
+generated_at: "2026-03-30T06:17:08.269Z"
 status: "omitted"
 ---
 

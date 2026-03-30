@@ -3,9 +3,9 @@ title: "Section 441 - Establishment"
 usc_title: 10
 usc_section: "441"
 chapter: 22
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 441"
-generated_at: "2026-03-30T06:13:02.562Z"
+generated_at: "2026-03-30T06:14:52.792Z"
 status: "active"
 ---
 

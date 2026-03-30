@@ -3,9 +3,9 @@ title: "Section 839d - Conservation and resource acquisition"
 usc_title: 16
 usc_section: "839d"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 839d"
-generated_at: "2026-03-30T06:13:20.059Z"
+generated_at: "2026-03-30T06:15:30.351Z"
 status: "active"
 ---
 

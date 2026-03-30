@@ -3,9 +3,9 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-30T06:13:46.318Z"
+generated_at: "2026-03-30T06:16:16.199Z"
 status: "active"
 ---
 

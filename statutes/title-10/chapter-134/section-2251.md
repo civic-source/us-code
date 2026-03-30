@@ -3,9 +3,9 @@ title: "Section 2251 - Household furnishings and other property: personnel outsi
 usc_title: 10
 usc_section: "2251"
 chapter: 134
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 2251"
-generated_at: "2026-03-30T06:13:02.618Z"
+generated_at: "2026-03-30T06:14:52.849Z"
 status: "active"
 ---
 

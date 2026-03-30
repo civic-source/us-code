@@ -3,9 +3,9 @@ title: "Section 6657 - Bad checks"
 usc_title: 26
 usc_section: "6657"
 chapter: 68
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "26 U.S.C. § 6657"
-generated_at: "2026-03-30T06:13:46.395Z"
+generated_at: "2026-03-30T06:16:16.307Z"
 status: "active"
 ---
 

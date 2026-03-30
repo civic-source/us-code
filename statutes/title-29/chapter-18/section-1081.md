@@ -3,9 +3,9 @@ title: "Section 1081 - Coverage"
 usc_title: 29
 usc_section: "1081"
 chapter: 18
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "29 U.S.C. § 1081"
-generated_at: "2026-03-30T06:13:34.467Z"
+generated_at: "2026-03-30T06:16:23.120Z"
 status: "active"
 ---
 

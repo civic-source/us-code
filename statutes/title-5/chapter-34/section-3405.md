@@ -3,9 +3,9 @@ title: "Section 3405 - Nonapplicability"
 usc_title: 5
 usc_section: "3405"
 chapter: 34
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "5 U.S.C. § 3405"
-generated_at: "2026-03-30T06:12:52.771Z"
+generated_at: "2026-03-30T06:14:33.024Z"
 status: "active"
 ---
 

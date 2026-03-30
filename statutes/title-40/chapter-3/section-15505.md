@@ -3,9 +3,9 @@ title: "Section 15505 - Local development districts and organizations"
 usc_title: 40
 usc_section: "15505"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "40 U.S.C. § 15505"
-generated_at: "2026-03-30T06:13:53.993Z"
+generated_at: "2026-03-30T06:16:32.399Z"
 status: "active"
 ---
 

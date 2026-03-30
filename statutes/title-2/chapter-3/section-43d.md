@@ -3,9 +3,9 @@ title: "Section 43d - Transferred"
 usc_title: 2
 usc_section: "43d"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "2 U.S.C. § 43d"
-generated_at: "2026-03-30T06:12:46.620Z"
+generated_at: "2026-03-30T06:14:33.709Z"
 status: "transferred"
 ---
 

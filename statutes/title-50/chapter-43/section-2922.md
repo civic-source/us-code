@@ -3,9 +3,9 @@ title: "Section 2922 - Authorization of appropriations for the Department of Def
 usc_title: 50
 usc_section: "2922"
 chapter: 43
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 2922"
-generated_at: "2026-03-30T06:14:15.973Z"
+generated_at: "2026-03-30T06:17:08.303Z"
 status: "active"
 ---
 

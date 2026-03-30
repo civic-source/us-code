@@ -3,9 +3,9 @@ title: "Section 4234 - Appointment of Administrator"
 usc_title: 50
 usc_section: "4234"
 chapter: 52
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 4234"
-generated_at: "2026-03-30T06:14:15.998Z"
+generated_at: "2026-03-30T06:17:08.329Z"
 status: "active"
 ---
 

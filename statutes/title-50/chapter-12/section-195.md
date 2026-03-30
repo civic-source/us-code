@@ -3,9 +3,9 @@ title: "Section 195 - Definitions"
 usc_title: 50
 usc_section: "195"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 195"
-generated_at: "2026-03-30T06:14:15.942Z"
+generated_at: "2026-03-30T06:17:08.271Z"
 status: "active"
 ---
 

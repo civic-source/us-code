@@ -3,9 +3,9 @@ title: "Section 1617 - Revocation of Indian allotment authority in Alaska"
 usc_title: 43
 usc_section: "1617"
 chapter: 33
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "43 U.S.C. § 1617"
-generated_at: "2026-03-30T06:14:03.270Z"
+generated_at: "2026-03-30T06:16:48.501Z"
 status: "active"
 ---
 

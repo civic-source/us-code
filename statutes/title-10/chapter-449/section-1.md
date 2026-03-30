@@ -3,9 +3,9 @@ title: "Section 1 - Cyber Center for Education and Innovation-Home of the Nation
 usc_title: 10
 usc_section: "1"
 chapter: 449
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T06:13:02.659Z"
+generated_at: "2026-03-30T06:14:52.892Z"
 status: "active"
 ---
 

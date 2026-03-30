@@ -3,9 +3,9 @@ title: "Section 2477 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 S
 usc_title: 42
 usc_section: "2477"
 chapter: 26
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 2477"
-generated_at: "2026-03-30T06:14:10.904Z"
+generated_at: "2026-03-30T06:17:01.183Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T06:14:10.757Z"
+generated_at: "2026-03-30T06:17:01.034Z"
 status: "active"
 ---
 

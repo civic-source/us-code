@@ -3,9 +3,9 @@ title: "Section 907 - Rights of original grantees to forfeited lands"
 usc_title: 43
 usc_section: "907"
 chapter: 21
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "43 U.S.C. § 907"
-generated_at: "2026-03-30T06:14:03.255Z"
+generated_at: "2026-03-30T06:16:48.484Z"
 status: "active"
 ---
 

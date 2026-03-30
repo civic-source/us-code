@@ -3,9 +3,9 @@ title: "Section 2704 - International Trade Commission reports on impact of Carib
 usc_title: 19
 usc_section: "2704"
 chapter: 15
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "19 U.S.C. § 2704"
-generated_at: "2026-03-30T06:13:14.559Z"
+generated_at: "2026-03-30T06:15:12.131Z"
 status: "active"
 ---
 

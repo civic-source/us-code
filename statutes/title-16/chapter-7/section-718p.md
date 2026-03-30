@@ -3,9 +3,9 @@ title: "Section 718p - Authority to issue electronic duck stamps"
 usc_title: 16
 usc_section: "718p"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 718p"
-generated_at: "2026-03-30T06:13:20.040Z"
+generated_at: "2026-03-30T06:15:30.330Z"
 status: "active"
 ---
 

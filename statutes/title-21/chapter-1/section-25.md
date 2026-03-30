@@ -3,9 +3,9 @@ title: "Section 25 - Oleomargarine, butterine, or imitation butter or cheese tra
 usc_title: 21
 usc_section: "25"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "21 U.S.C. § 25"
-generated_at: "2026-03-30T06:13:24.699Z"
+generated_at: "2026-03-30T06:15:34.151Z"
 status: "active"
 ---
 

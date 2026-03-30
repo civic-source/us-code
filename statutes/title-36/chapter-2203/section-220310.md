@@ -3,9 +3,9 @@ title: "Section 220310 - Principal office"
 usc_title: 36
 usc_section: "220310"
 chapter: 2203
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "36 U.S.C. § 220310"
-generated_at: "2026-03-30T06:13:52.491Z"
+generated_at: "2026-03-30T06:16:37.988Z"
 status: "active"
 ---
 

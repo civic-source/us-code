@@ -3,9 +3,9 @@ title: "Section 112 - Persons present at delivery of goods and money"
 usc_title: 25
 usc_section: "112"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 112"
-generated_at: "2026-03-30T06:13:23.262Z"
+generated_at: "2026-03-30T06:15:36.277Z"
 status: "active"
 ---
 

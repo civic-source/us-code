@@ -3,9 +3,9 @@ title: "Section 1802 - Consideration of issues affecting relations with United S
 usc_title: 48
 usc_section: "1802"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 1802"
-generated_at: "2026-03-30T06:14:13.720Z"
+generated_at: "2026-03-30T06:17:04.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 100101 - Promotion and regulation"
 usc_title: 54
 usc_section: "100101"
 chapter: 1001
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "54 U.S.C. § 100101"
-generated_at: "2026-03-30T06:14:19.777Z"
+generated_at: "2026-03-30T06:17:10.490Z"
 status: "active"
 ---
 

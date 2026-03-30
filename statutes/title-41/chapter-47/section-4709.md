@@ -3,9 +3,9 @@ title: "Section 4709 - Implementation of electronic commerce capability"
 usc_title: 41
 usc_section: "4709"
 chapter: 47
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "41 U.S.C. § 4709"
-generated_at: "2026-03-30T06:13:55.685Z"
+generated_at: "2026-03-30T06:16:49.025Z"
 status: "active"
 ---
 

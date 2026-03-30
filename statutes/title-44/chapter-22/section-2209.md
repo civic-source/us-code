@@ -3,9 +3,9 @@ title: "Section 2209 - Disclosure requirement for official business conducted us
 usc_title: 44
 usc_section: "2209"
 chapter: 22
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "44 U.S.C. § 2209"
-generated_at: "2026-03-30T06:14:00.736Z"
+generated_at: "2026-03-30T06:16:47.774Z"
 status: "active"
 ---
 

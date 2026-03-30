@@ -3,9 +3,9 @@ title: "Section 4108 - Employee agreements; service after training"
 usc_title: 5
 usc_section: "4108"
 chapter: 41
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "5 U.S.C. § 4108"
-generated_at: "2026-03-30T06:12:52.772Z"
+generated_at: "2026-03-30T06:14:33.026Z"
 status: "active"
 ---
 

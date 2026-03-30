@@ -3,9 +3,9 @@ title: "Section 1509 - No jurisdiction in cases involving refunds of tax shelter
 usc_title: 28
 usc_section: "1509"
 chapter: 91
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 1509"
-generated_at: "2026-03-30T06:13:37.479Z"
+generated_at: "2026-03-30T06:16:17.748Z"
 status: "active"
 ---
 

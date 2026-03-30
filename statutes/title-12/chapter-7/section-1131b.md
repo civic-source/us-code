@@ -3,9 +3,9 @@ title: "Section 1131b - Repealed. July 26, 1956, ch. 741 , title I, § 105(c), 7
 usc_title: 12
 usc_section: "1131b"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "12 U.S.C. § 1131b"
-generated_at: "2026-03-30T06:13:07.741Z"
+generated_at: "2026-03-30T06:15:01.467Z"
 status: "repealed"
 ---
 

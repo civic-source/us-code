@@ -3,9 +3,9 @@ title: "Section 118 - Omitted"
 usc_title: 8
 usc_section: "118"
 chapter: 6
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "8 U.S.C. § 118"
-generated_at: "2026-03-30T06:12:58.859Z"
+generated_at: "2026-03-30T06:14:42.815Z"
 status: "omitted"
 ---
 

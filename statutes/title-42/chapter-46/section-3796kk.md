@@ -3,9 +3,9 @@ title: "Section 3796kk - Grant authorization"
 usc_title: 42
 usc_section: "3796kk"
 chapter: 46
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 3796kk"
-generated_at: "2026-03-30T06:14:10.936Z"
+generated_at: "2026-03-30T06:17:01.215Z"
 status: "active"
 ---
 

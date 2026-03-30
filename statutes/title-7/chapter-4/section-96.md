@@ -3,9 +3,9 @@ title: "Section 96 - Punishment for violation of prohibition"
 usc_title: 7
 usc_section: "96"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 96"
-generated_at: "2026-03-30T06:12:57.646Z"
+generated_at: "2026-03-30T06:14:39.022Z"
 status: "active"
 ---
 

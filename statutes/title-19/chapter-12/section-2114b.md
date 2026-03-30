@@ -3,9 +3,9 @@ title: "Section 2114b - Provisions relating to international trade in services"
 usc_title: 19
 usc_section: "2114b"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "19 U.S.C. § 2114b"
-generated_at: "2026-03-30T06:13:14.541Z"
+generated_at: "2026-03-30T06:15:12.113Z"
 status: "active"
 ---
 

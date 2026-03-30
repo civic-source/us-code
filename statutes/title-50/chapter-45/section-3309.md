@@ -3,9 +3,9 @@ title: "Section 3309 - Notification of establishment of advisory committee"
 usc_title: 50
 usc_section: "3309"
 chapter: 45
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 3309"
-generated_at: "2026-03-30T06:14:15.982Z"
+generated_at: "2026-03-30T06:17:08.314Z"
 status: "active"
 ---
 

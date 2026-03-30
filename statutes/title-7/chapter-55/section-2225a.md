@@ -3,9 +3,9 @@ title: "Section 2225a - Contracts for consulting services"
 usc_title: 7
 usc_section: "2225a"
 chapter: 55
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 2225a"
-generated_at: "2026-03-30T06:12:57.739Z"
+generated_at: "2026-03-30T06:14:39.112Z"
 status: "active"
 ---
 

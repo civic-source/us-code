@@ -3,9 +3,9 @@ title: "Section 861 - Omitted"
 usc_title: 33
 usc_section: "861"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "33 U.S.C. § 861"
-generated_at: "2026-03-30T06:13:49.837Z"
+generated_at: "2026-03-30T06:16:26.482Z"
 status: "omitted"
 ---
 

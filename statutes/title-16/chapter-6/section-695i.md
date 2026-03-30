@@ -3,9 +3,9 @@ title: "Section 695i - Authorization of Secretary of the Interior to contract fo
 usc_title: 16
 usc_section: "695i"
 chapter: 6
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 695i"
-generated_at: "2026-03-30T06:13:20.035Z"
+generated_at: "2026-03-30T06:15:30.325Z"
 status: "active"
 ---
 

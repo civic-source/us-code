@@ -3,9 +3,9 @@ title: "Section 80p - Funding"
 usc_title: 20
 usc_section: "80p"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "20 U.S.C. § 80p"
-generated_at: "2026-03-30T06:13:17.711Z"
+generated_at: "2026-03-30T06:15:16.033Z"
 status: "active"
 ---
 

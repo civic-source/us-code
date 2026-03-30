@@ -3,9 +3,9 @@ title: "Section 410gg - Establishment; description of boundary; minor boundary r
 usc_title: 16
 usc_section: "410gg"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 410gg"
-generated_at: "2026-03-30T06:13:19.951Z"
+generated_at: "2026-03-30T06:15:30.239Z"
 status: "active"
 ---
 

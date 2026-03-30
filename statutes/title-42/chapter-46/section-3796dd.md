@@ -3,9 +3,9 @@ title: "Section 3796dd - Authority to make public safety and community policing 
 usc_title: 42
 usc_section: "3796dd"
 chapter: 46
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 3796dd"
-generated_at: "2026-03-30T06:14:10.933Z"
+generated_at: "2026-03-30T06:17:01.211Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Attorney General shall carry out a single grant program under which the Attorney General makes grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia for the purposes described in subsection (b).
 - **(b)** The purposes for which grants made under subsection (a) may be made are—
   - **(1)** to rehire law enforcement officers who have been laid off as a result of State, tribal, or local budget reductions for deployment in community-oriented policing;
-  - **(2)** to hire and train new, additional career law enforcement officers for deployment in community-oriented policing across the Nation;
+  - **(2)** to hire and train new, additional career law enforcement officers for deployment in community-oriented policing across the Nation, including by prioritizing the hiring and training of veterans (as defined in section 101 of title 38 );
   - **(3)** to procure equipment, technology, or support systems, or pay overtime, to increase the number of officers deployed in community-oriented policing;
   - **(4)** to award grants to pay for offices hired to perform intelligence, anti-terror, or homeland security duties;
   - **(5)** to increase the number of law enforcement officers involved in activities that are focused on interaction with members of the community on proactive crime control and prevention by redeploying officers to such activities;

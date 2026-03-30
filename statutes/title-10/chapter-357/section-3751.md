@@ -3,9 +3,9 @@ title: "Section 3751 - Service medals: issue; replacement; availability of appro
 usc_title: 10
 usc_section: "3751"
 chapter: 357
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 3751"
-generated_at: "2026-03-30T06:13:02.655Z"
+generated_at: "2026-03-30T06:14:52.887Z"
 status: "active"
 ---
 

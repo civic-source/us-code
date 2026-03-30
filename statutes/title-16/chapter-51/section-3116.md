@@ -3,9 +3,9 @@ title: "Section 3116 - Federal monitoring; reports to State and Congressional co
 usc_title: 16
 usc_section: "3116"
 chapter: 51
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 3116"
-generated_at: "2026-03-30T06:13:20.109Z"
+generated_at: "2026-03-30T06:15:30.402Z"
 status: "active"
 ---
 

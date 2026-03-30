@@ -3,9 +3,9 @@ title: "Section 5470 - Other authority"
 usc_title: 12
 usc_section: "5470"
 chapter: 53
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "12 U.S.C. § 5470"
-generated_at: "2026-03-30T06:13:07.877Z"
+generated_at: "2026-03-30T06:15:01.603Z"
 status: "active"
 ---
 

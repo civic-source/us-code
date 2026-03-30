@@ -3,9 +3,9 @@ title: "Section 2540b - Limitations"
 usc_title: 10
 usc_section: "2540b"
 chapter: 148
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 2540b"
-generated_at: "2026-03-30T06:13:02.638Z"
+generated_at: "2026-03-30T06:14:52.870Z"
 status: "active"
 ---
 

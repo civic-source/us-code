@@ -3,9 +3,9 @@ title: "Section 12241 - Warrant officers: grades; appointment, how made; term"
 usc_title: 10
 usc_section: "12241"
 chapter: 1207
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 12241"
-generated_at: "2026-03-30T06:13:02.684Z"
+generated_at: "2026-03-30T06:14:52.917Z"
 status: "active"
 ---
 

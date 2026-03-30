@@ -3,9 +3,9 @@ title: "Section 1680b - National Health Service Corps"
 usc_title: 25
 usc_section: "1680b"
 chapter: 18
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 1680b"
-generated_at: "2026-03-30T06:13:23.288Z"
+generated_at: "2026-03-30T06:15:36.305Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1334 - Preemption"
 usc_title: 15
 usc_section: "1334"
 chapter: 36
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "15 U.S.C. § 1334"
-generated_at: "2026-03-30T06:13:10.669Z"
+generated_at: "2026-03-30T06:15:07.471Z"
 status: "active"
 ---
 

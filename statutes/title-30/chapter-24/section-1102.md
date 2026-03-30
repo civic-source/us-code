@@ -3,9 +3,9 @@ title: "Section 1102 - Definitions"
 usc_title: 30
 usc_section: "1102"
 chapter: 24
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "30 U.S.C. § 1102"
-generated_at: "2026-03-30T06:13:33.338Z"
+generated_at: "2026-03-30T06:16:22.107Z"
 status: "active"
 ---
 

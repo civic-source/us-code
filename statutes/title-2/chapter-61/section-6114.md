@@ -3,9 +3,9 @@ title: "Section 6114 - Appointment and compensation of Administrative Assistant,
 usc_title: 2
 usc_section: "6114"
 chapter: 61
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "2 U.S.C. § 6114"
-generated_at: "2026-03-30T06:12:46.667Z"
+generated_at: "2026-03-30T06:14:33.760Z"
 status: "active"
 ---
 

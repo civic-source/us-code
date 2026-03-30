@@ -3,9 +3,9 @@ title: "Section 50917 - Enforcement and penalty"
 usc_title: 51
 usc_section: "50917"
 chapter: 509
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "51 U.S.C. § 50917"
-generated_at: "2026-03-30T06:14:19.983Z"
+generated_at: "2026-03-30T06:17:10.079Z"
 status: "active"
 ---
 

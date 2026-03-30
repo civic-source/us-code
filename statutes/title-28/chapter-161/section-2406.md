@@ -3,9 +3,9 @@ title: "Section 2406 - Credits in actions by United States; prior disallowance"
 usc_title: 28
 usc_section: "2406"
 chapter: 161
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 2406"
-generated_at: "2026-03-30T06:13:37.486Z"
+generated_at: "2026-03-30T06:16:17.755Z"
 status: "active"
 ---
 

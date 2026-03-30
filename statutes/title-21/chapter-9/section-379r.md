@@ -3,9 +3,9 @@ title: "Section 379r - National uniformity for nonprescription drugs"
 usc_title: 21
 usc_section: "379r"
 chapter: 9
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "21 U.S.C. § 379r"
-generated_at: "2026-03-30T06:13:24.744Z"
+generated_at: "2026-03-30T06:15:34.199Z"
 status: "active"
 ---
 

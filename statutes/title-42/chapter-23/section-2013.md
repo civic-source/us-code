@@ -3,9 +3,9 @@ title: "Section 2013 - Purpose of chapter"
 usc_title: 42
 usc_section: "2013"
 chapter: 23
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 2013"
-generated_at: "2026-03-30T06:14:10.886Z"
+generated_at: "2026-03-30T06:17:01.165Z"
 status: "active"
 ---
 

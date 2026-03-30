@@ -3,9 +3,9 @@ title: "Section 2103 - Exemptions"
 usc_title: 29
 usc_section: "2103"
 chapter: 23
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "29 U.S.C. § 2103"
-generated_at: "2026-03-30T06:13:34.491Z"
+generated_at: "2026-03-30T06:16:23.150Z"
 status: "active"
 ---
 

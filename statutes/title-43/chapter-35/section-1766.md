@@ -3,9 +3,9 @@ title: "Section 1766 - Suspension or termination; grounds; procedures applicable
 usc_title: 43
 usc_section: "1766"
 chapter: 35
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "43 U.S.C. § 1766"
-generated_at: "2026-03-30T06:14:03.278Z"
+generated_at: "2026-03-30T06:16:48.511Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5330 - Rescission of contract or grant and assumption of control
 usc_title: 25
 usc_section: "5330"
 chapter: 46
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 5330"
-generated_at: "2026-03-30T06:13:23.322Z"
+generated_at: "2026-03-30T06:15:36.343Z"
 status: "active"
 ---
 

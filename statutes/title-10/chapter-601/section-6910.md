@@ -3,9 +3,9 @@ title: "Section 6910 - Repealed. Pub. L. 88–647, title III , § 301(17), Oct. 
 usc_title: 10
 usc_section: "6910"
 chapter: 601
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 6910"
-generated_at: "2026-03-30T06:13:02.665Z"
+generated_at: "2026-03-30T06:14:52.899Z"
 status: "repealed"
 ---
 

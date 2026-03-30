@@ -3,9 +3,9 @@ title: "Section 1412 - State eligibility"
 usc_title: 20
 usc_section: "1412"
 chapter: 33
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "20 U.S.C. § 1412"
-generated_at: "2026-03-30T06:13:17.780Z"
+generated_at: "2026-03-30T06:15:16.099Z"
 status: "active"
 ---
 

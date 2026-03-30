@@ -3,9 +3,9 @@ title: "Section 903g - Omitted"
 usc_title: 25
 usc_section: "903g"
 chapter: 14
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 903g"
-generated_at: "2026-03-30T06:13:23.275Z"
+generated_at: "2026-03-30T06:15:36.291Z"
 status: "omitted"
 ---
 

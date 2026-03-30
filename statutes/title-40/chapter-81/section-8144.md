@@ -3,9 +3,9 @@ title: "Section 8144 - Delivery of fuel for use during ensuing fiscal year"
 usc_title: 40
 usc_section: "8144"
 chapter: 81
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "40 U.S.C. § 8144"
-generated_at: "2026-03-30T06:13:53.988Z"
+generated_at: "2026-03-30T06:16:32.394Z"
 status: "active"
 ---
 

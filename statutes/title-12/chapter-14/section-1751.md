@@ -3,9 +3,9 @@ title: "Section 1751 - Short title"
 usc_title: 12
 usc_section: "1751"
 chapter: 14
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "12 U.S.C. § 1751"
-generated_at: "2026-03-30T06:13:07.782Z"
+generated_at: "2026-03-30T06:15:01.508Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 254m - Obligated service under contract"
 usc_title: 42
 usc_section: "254m"
 chapter: 6
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 254m"
-generated_at: "2026-03-30T06:14:10.562Z"
+generated_at: "2026-03-30T06:17:00.836Z"
 status: "active"
 ---
 

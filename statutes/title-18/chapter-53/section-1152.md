@@ -3,9 +3,9 @@ title: "Section 1152 - Laws governing"
 usc_title: 18
 usc_section: "1152"
 chapter: 53
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "18 U.S.C. § 1152"
-generated_at: "2026-03-30T06:13:15.936Z"
+generated_at: "2026-03-30T06:15:28.058Z"
 status: "active"
 ---
 

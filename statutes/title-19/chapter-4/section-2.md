@@ -3,9 +3,9 @@ title: "Section 2 - Calculation of countervailable subsidies on certain processe
 usc_title: 19
 usc_section: "2"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "19 U.S.C. § 2"
-generated_at: "2026-03-30T06:13:14.535Z"
+generated_at: "2026-03-30T06:15:12.107Z"
 status: "active"
 ---
 

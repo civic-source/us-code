@@ -3,9 +3,9 @@ title: "Section 3019 - General Counsel"
 usc_title: 10
 usc_section: "3019"
 chapter: 303
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 3019"
-generated_at: "2026-03-30T06:13:02.652Z"
+generated_at: "2026-03-30T06:14:52.885Z"
 status: "active"
 ---
 

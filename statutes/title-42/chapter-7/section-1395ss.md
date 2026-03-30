@@ -3,9 +3,9 @@ title: "Section 1395ss - Certification of medicare supplemental health insurance
 usc_title: 42
 usc_section: "1395ss"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 1395ss"
-generated_at: "2026-03-30T06:14:10.784Z"
+generated_at: "2026-03-30T06:17:01.061Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The Secretary shall establish a procedure whereby medicare supplemental policies (as defined in subsection (g)(1)) may be certified by the Secretary as meeting minimum standards and requirements set forth in subsection (c). Such procedure shall provide an opportunity for any insurer to submit any such policy, and such additional data as the Secretary finds necessary, to the Secretary for his examination and for his certification thereof as meeting the standards and requirements set forth in subsection (c). Subject to subsections (k)(3), (m), and (n), such certification shall remain in effect if the insurer files a notarized statement with the Secretary no later than June 30 of each year stating that the policy continues to meet such standards and requirements and if the insurer submits such additional data as the Secretary finds necessary to independently verify the accuracy of such notarized statement. Where the Secretary determines such a policy meets (or continues to meet) such standards and requirements, he shall authorize the insurer to have printed on such policy (but only in accordance with such requirements and conditions as the Secretary may prescribe) an emblem which the Secretary shall cause to be designed for use as an indication that a policy has received the Secretary’s certification. The Secretary shall provide each State commissioner or superintendent of insurance with a list of all the policies which have received his certification.
-  - **(2)** No medicare supplemental policy may be issued in a State on or after the date specified in subsection (p)(1)(C)—
+  - **(2)** No medicare supplemental policy may be issued in a State on or after the date specified in subsection (p)(1)(C) unless—
     - **(A)** the State’s regulatory program under subsection (b)(1) provides for the application and enforcement of the standards and requirements set forth in such subsection (including the 1991 NAIC Model Regulation or 1991 Federal Regulation (as the case may be)) by the date specified in subsection (p)(1)(C); or
     - **(B)** if the State’s program does not provide for the application and enforcement of such standards and requirements, the policy has been certified by the Secretary under paragraph (1) as meeting the standards and requirements set forth in subsection (c) (including such applicable standards) by such date.
 - **(b)**

@@ -3,9 +3,9 @@ title: "Section 374 - Publication of international application"
 usc_title: 35
 usc_section: "374"
 chapter: 37
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "35 U.S.C. § 374"
-generated_at: "2026-03-30T06:13:48.242Z"
+generated_at: "2026-03-30T06:16:24.887Z"
 status: "active"
 ---
 

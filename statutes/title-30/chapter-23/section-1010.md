@@ -3,9 +3,9 @@ title: "Section 1010 - Suspension of operations and production"
 usc_title: 30
 usc_section: "1010"
 chapter: 23
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "30 U.S.C. § 1010"
-generated_at: "2026-03-30T06:13:33.337Z"
+generated_at: "2026-03-30T06:16:22.107Z"
 status: "active"
 ---
 

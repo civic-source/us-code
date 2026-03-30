@@ -3,9 +3,9 @@ title: "Section 415a - Omitted"
 usc_title: 7
 usc_section: "415a"
 chapter: 17
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 415a"
-generated_at: "2026-03-30T06:12:57.665Z"
+generated_at: "2026-03-30T06:14:39.041Z"
 status: "omitted"
 ---
 

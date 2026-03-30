@@ -3,9 +3,9 @@ title: "Section 8523 - Disbursements from the Fund"
 usc_title: 38
 usc_section: "8523"
 chapter: 85
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "38 U.S.C. § 8523"
-generated_at: "2026-03-30T06:13:53.618Z"
+generated_at: "2026-03-30T06:16:46.025Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2366 - Major systems and munitions programs: survivability testi
 usc_title: 10
 usc_section: "2366"
 chapter: 139
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 2366"
-generated_at: "2026-03-30T06:13:02.627Z"
+generated_at: "2026-03-30T06:14:52.858Z"
 status: "active"
 ---
 

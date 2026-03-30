@@ -3,9 +3,9 @@ title: "Section 1692 - Process and orders affecting property in different distri
 usc_title: 28
 usc_section: "1692"
 chapter: 113
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 1692"
-generated_at: "2026-03-30T06:13:37.480Z"
+generated_at: "2026-03-30T06:16:17.749Z"
 status: "active"
 ---
 

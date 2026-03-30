@@ -3,9 +3,9 @@ title: "Section 4902 - Fellowship Board"
 usc_title: 22
 usc_section: "4902"
 chapter: 59
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "22 U.S.C. § 4902"
-generated_at: "2026-03-30T06:13:30.627Z"
+generated_at: "2026-03-30T06:16:05.351Z"
 status: "active"
 ---
 

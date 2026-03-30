@@ -3,9 +3,9 @@ title: "Section 44513 - Regional centers of air transportation excellence"
 usc_title: 49
 usc_section: "44513"
 chapter: 445
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "49 U.S.C. § 44513"
-generated_at: "2026-03-30T06:14:17.870Z"
+generated_at: "2026-03-30T06:17:07.287Z"
 status: "active"
 ---
 

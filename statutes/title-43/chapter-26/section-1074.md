@@ -3,9 +3,9 @@ title: "Section 1074 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 2
 usc_title: 43
 usc_section: "1074"
 chapter: 26
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "43 U.S.C. § 1074"
-generated_at: "2026-03-30T06:14:03.258Z"
+generated_at: "2026-03-30T06:16:48.487Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9623 - Reimbursement to local governments"
 usc_title: 42
 usc_section: "9623"
 chapter: 103
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 9623"
-generated_at: "2026-03-30T06:14:11.088Z"
+generated_at: "2026-03-30T06:17:01.363Z"
 status: "active"
 ---
 

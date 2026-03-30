@@ -3,9 +3,9 @@ title: "Section 629 - Outreach to chemical facilities of interest"
 usc_title: 6
 usc_section: "629"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "6 U.S.C. § 629"
-generated_at: "2026-03-30T06:12:59.453Z"
+generated_at: "2026-03-30T06:14:42.130Z"
 status: "active"
 ---
 

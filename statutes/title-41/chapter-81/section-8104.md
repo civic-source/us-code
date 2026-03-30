@@ -3,9 +3,9 @@ title: "Section 8104 - Employee sanctions and remedies"
 usc_title: 41
 usc_section: "8104"
 chapter: 81
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "41 U.S.C. § 8104"
-generated_at: "2026-03-30T06:13:55.687Z"
+generated_at: "2026-03-30T06:16:49.028Z"
 status: "active"
 ---
 

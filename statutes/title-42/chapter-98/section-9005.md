@@ -3,9 +3,9 @@ title: "Section 9005 - Technology application"
 usc_title: 42
 usc_section: "9005"
 chapter: 98
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 9005"
-generated_at: "2026-03-30T06:14:11.077Z"
+generated_at: "2026-03-30T06:17:01.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-30T06:13:02.552Z"
+generated_at: "2026-03-30T06:14:52.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80504 - Medals of honor"
 usc_title: 49
 usc_section: "80504"
 chapter: 805
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "49 U.S.C. § 80504"
-generated_at: "2026-03-30T06:14:17.893Z"
+generated_at: "2026-03-30T06:17:07.311Z"
 status: "active"
 ---
 

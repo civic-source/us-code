@@ -3,9 +3,9 @@ title: "Section 751 - Personnel"
 usc_title: 16
 usc_section: "751"
 chapter: 9
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 751"
-generated_at: "2026-03-30T06:13:20.041Z"
+generated_at: "2026-03-30T06:15:30.331Z"
 status: "active"
 ---
 

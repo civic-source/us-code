@@ -3,9 +3,9 @@ title: "Section 6 - Rights of way for Alaskan wagon roads, wire rope, aerial, or
 usc_title: 43
 usc_section: "6"
 chapter: 22
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "43 U.S.C. § 6"
-generated_at: "2026-03-30T06:14:03.256Z"
+generated_at: "2026-03-30T06:16:48.485Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6364 - Operation of battery recharging stations in parking areas
 usc_title: 42
 usc_section: "6364"
 chapter: 77
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 6364"
-generated_at: "2026-03-30T06:14:11.000Z"
+generated_at: "2026-03-30T06:17:01.278Z"
 status: "active"
 ---
 

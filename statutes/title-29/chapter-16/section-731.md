@@ -3,9 +3,9 @@ title: "Section 731 - Payments to States"
 usc_title: 29
 usc_section: "731"
 chapter: 16
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "29 U.S.C. § 731"
-generated_at: "2026-03-30T06:13:34.454Z"
+generated_at: "2026-03-30T06:16:23.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6104 - Required terms in orders"
 usc_title: 7
 usc_section: "6104"
 chapter: 90
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 6104"
-generated_at: "2026-03-30T06:12:57.770Z"
+generated_at: "2026-03-30T06:14:39.141Z"
 status: "active"
 ---
 

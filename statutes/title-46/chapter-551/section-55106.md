@@ -3,9 +3,9 @@ title: "Section 55106 - Merchandise transferred between barges"
 usc_title: 46
 usc_section: "55106"
 chapter: 551
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "46 U.S.C. § 55106"
-generated_at: "2026-03-30T06:14:15.044Z"
+generated_at: "2026-03-30T06:17:05.153Z"
 status: "active"
 ---
 

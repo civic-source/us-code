@@ -3,9 +3,9 @@ title: "Section 4611 - Multilateral export control violations"
 usc_title: 50
 usc_section: "4611"
 chapter: 56
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 4611"
-generated_at: "2026-03-30T06:14:16.009Z"
+generated_at: "2026-03-30T06:17:08.341Z"
 status: "active"
 ---
 

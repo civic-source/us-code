@@ -3,9 +3,9 @@ title: "Section 604 - Lines of credit"
 usc_title: 23
 usc_section: "604"
 chapter: 6
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "23 U.S.C. § 604"
-generated_at: "2026-03-30T06:13:23.701Z"
+generated_at: "2026-03-30T06:15:33.033Z"
 status: "active"
 ---
 

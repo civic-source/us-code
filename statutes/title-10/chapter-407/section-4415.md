@@ -3,9 +3,9 @@ title: "Section 4415 - Repealed. Pub. L. 106–398 , § 1 [[div. A], title IX, �
 usc_title: 10
 usc_section: "4415"
 chapter: 407
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 4415"
-generated_at: "2026-03-30T06:13:02.657Z"
+generated_at: "2026-03-30T06:14:52.890Z"
 status: "repealed"
 ---
 

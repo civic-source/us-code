@@ -3,9 +3,9 @@ title: "Section 4857 - Advisory Panel on Overseas Security"
 usc_title: 22
 usc_section: "4857"
 chapter: 58
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "22 U.S.C. § 4857"
-generated_at: "2026-03-30T06:13:30.627Z"
+generated_at: "2026-03-30T06:16:05.350Z"
 status: "active"
 ---
 

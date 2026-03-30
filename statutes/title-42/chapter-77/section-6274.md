@@ -3,9 +3,9 @@ title: "Section 6274 - Exchange of information with International Energy Agency"
 usc_title: 42
 usc_section: "6274"
 chapter: 77
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 6274"
-generated_at: "2026-03-30T06:14:10.989Z"
+generated_at: "2026-03-30T06:17:01.267Z"
 status: "active"
 ---
 

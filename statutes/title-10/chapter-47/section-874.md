@@ -3,9 +3,9 @@ title: "Section 874 - Art. 74. Remission and suspension"
 usc_title: 10
 usc_section: "874"
 chapter: 47
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 874"
-generated_at: "2026-03-30T06:13:02.575Z"
+generated_at: "2026-03-30T06:14:52.805Z"
 status: "active"
 ---
 

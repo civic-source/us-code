@@ -3,9 +3,9 @@ title: "Section 3662 - Rate and service complaints"
 usc_title: 39
 usc_section: "3662"
 chapter: 36
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "39 U.S.C. § 3662"
-generated_at: "2026-03-30T06:13:51.474Z"
+generated_at: "2026-03-30T06:16:37.406Z"
 status: "active"
 ---
 

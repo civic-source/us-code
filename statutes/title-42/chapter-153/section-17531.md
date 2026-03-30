@@ -3,9 +3,9 @@ title: "Section 17531 - Mentoring grants to nonprofit organizations"
 usc_title: 42
 usc_section: "17531"
 chapter: 153
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 17531"
-generated_at: "2026-03-30T06:14:11.222Z"
+generated_at: "2026-03-30T06:17:01.496Z"
 status: "active"
 ---
 

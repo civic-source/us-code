@@ -3,9 +3,9 @@ title: "Section 4342 - Establishment; membership; Chairman; appointments"
 usc_title: 42
 usc_section: "4342"
 chapter: 55
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 4342"
-generated_at: "2026-03-30T06:14:10.949Z"
+generated_at: "2026-03-30T06:17:01.227Z"
 status: "active"
 ---
 

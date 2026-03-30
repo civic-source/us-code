@@ -3,9 +3,9 @@ title: "Section 2108 - Provisions relating to Senate Commission on Art"
 usc_title: 2
 usc_section: "2108"
 chapter: 30
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "2 U.S.C. § 2108"
-generated_at: "2026-03-30T06:12:46.657Z"
+generated_at: "2026-03-30T06:14:33.749Z"
 status: "active"
 ---
 

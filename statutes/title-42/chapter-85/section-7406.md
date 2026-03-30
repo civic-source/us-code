@@ -3,9 +3,9 @@ title: "Section 7406 - Interstate air quality agencies; program cost limitations
 usc_title: 42
 usc_section: "7406"
 chapter: 85
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 7406"
-generated_at: "2026-03-30T06:14:11.031Z"
+generated_at: "2026-03-30T06:17:01.308Z"
 status: "active"
 ---
 

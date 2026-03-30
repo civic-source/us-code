@@ -3,9 +3,9 @@ title: "Section 1621f - Crediting of reimbursements"
 usc_title: 25
 usc_section: "1621f"
 chapter: 18
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 1621f"
-generated_at: "2026-03-30T06:13:23.281Z"
+generated_at: "2026-03-30T06:15:36.298Z"
 status: "active"
 ---
 

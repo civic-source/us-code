@@ -3,9 +3,9 @@ title: "Section 2017 - Regulations"
 usc_title: 25
 usc_section: "2017"
 chapter: 22
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 2017"
-generated_at: "2026-03-30T06:13:23.295Z"
+generated_at: "2026-03-30T06:15:36.313Z"
 status: "active"
 ---
 

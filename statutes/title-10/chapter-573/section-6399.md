@@ -3,9 +3,9 @@ title: "Section 6399 - Repealed. Pub. L. 90–130 , § 1(24)(G), Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "6399"
 chapter: 573
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 6399"
-generated_at: "2026-03-30T06:13:02.665Z"
+generated_at: "2026-03-30T06:14:52.898Z"
 status: "repealed"
 ---
 

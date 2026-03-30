@@ -3,9 +3,9 @@ title: "Section 1154 - Discovery and use of cockpit and surface vehicle recordin
 usc_title: 49
 usc_section: "1154"
 chapter: 11
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "49 U.S.C. § 1154"
-generated_at: "2026-03-30T06:14:17.808Z"
+generated_at: "2026-03-30T06:17:07.226Z"
 status: "active"
 ---
 

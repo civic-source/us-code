@@ -3,9 +3,9 @@ title: "Section 70302 - International measures for seaport and vessel security"
 usc_title: 46
 usc_section: "70302"
 chapter: 703
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "46 U.S.C. § 70302"
-generated_at: "2026-03-30T06:14:15.050Z"
+generated_at: "2026-03-30T06:17:05.159Z"
 status: "active"
 ---
 

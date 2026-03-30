@@ -3,9 +3,9 @@ title: "Section 96 - Repealed. Pub. L. 90–201 , § 18, Dec. 15, 1967 , 81 Stat
 usc_title: 21
 usc_section: "96"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "21 U.S.C. § 96"
-generated_at: "2026-03-30T06:13:24.699Z"
+generated_at: "2026-03-30T06:15:34.151Z"
 status: "repealed"
 ---
 

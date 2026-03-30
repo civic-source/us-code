@@ -3,9 +3,9 @@ title: "Section 1208 - Conversion or dismissal"
 usc_title: 11
 usc_section: "1208"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "11 U.S.C. § 1208"
-generated_at: "2026-03-30T06:13:05.180Z"
+generated_at: "2026-03-30T06:14:55.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2906 - Management of the Friendship Trust Fund"
 usc_title: 22
 usc_section: "2906"
 chapter: 44
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "22 U.S.C. § 2906"
-generated_at: "2026-03-30T06:13:30.604Z"
+generated_at: "2026-03-30T06:16:05.319Z"
 status: "active"
 ---
 

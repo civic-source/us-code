@@ -3,9 +3,9 @@ title: "Section 3109 - Indian forest land assistance account"
 usc_title: 25
 usc_section: "3109"
 chapter: 33
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 3109"
-generated_at: "2026-03-30T06:13:23.306Z"
+generated_at: "2026-03-30T06:15:36.326Z"
 status: "active"
 ---
 

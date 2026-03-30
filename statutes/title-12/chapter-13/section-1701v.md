@@ -3,9 +3,9 @@ title: "Section 1701v - Congressional findings and declaration for improved arch
 usc_title: 12
 usc_section: "1701v"
 chapter: 13
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "12 U.S.C. § 1701v"
-generated_at: "2026-03-30T06:13:07.757Z"
+generated_at: "2026-03-30T06:15:01.483Z"
 status: "active"
 ---
 

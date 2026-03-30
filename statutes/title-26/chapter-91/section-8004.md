@@ -3,9 +3,9 @@ title: "Section 8004 - Appointment and compensation of staff"
 usc_title: 26
 usc_section: "8004"
 chapter: 91
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "26 U.S.C. § 8004"
-generated_at: "2026-03-30T06:13:46.417Z"
+generated_at: "2026-03-30T06:16:16.335Z"
 status: "active"
 ---
 

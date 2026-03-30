@@ -3,9 +3,9 @@ title: "Section 240 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 48
 usc_section: "240"
 chapter: 2
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 240"
-generated_at: "2026-03-30T06:14:13.709Z"
+generated_at: "2026-03-30T06:17:04.033Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 528 - Disqualification of officers and employees of the Departme
 usc_title: 28
 usc_section: "528"
 chapter: 31
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "28 U.S.C. § 528"
-generated_at: "2026-03-30T06:13:37.469Z"
+generated_at: "2026-03-30T06:16:17.736Z"
 status: "active"
 ---
 

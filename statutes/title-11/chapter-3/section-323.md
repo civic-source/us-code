@@ -3,9 +3,9 @@ title: "Section 323 - Role and capacity of trustee"
 usc_title: 11
 usc_section: "323"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "11 U.S.C. § 323"
-generated_at: "2026-03-30T06:13:05.167Z"
+generated_at: "2026-03-30T06:14:55.292Z"
 status: "active"
 ---
 

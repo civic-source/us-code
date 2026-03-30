@@ -3,9 +3,9 @@ title: "Section 14081 - Rural Crime and Drug Enforcement Task Forces"
 usc_title: 42
 usc_section: "14081"
 chapter: 136
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 14081"
-generated_at: "2026-03-30T06:14:11.177Z"
+generated_at: "2026-03-30T06:17:01.451Z"
 status: "active"
 ---
 

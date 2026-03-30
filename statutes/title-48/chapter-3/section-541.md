@@ -3,9 +3,9 @@ title: "Section 541 - Repealed. Pub. L. 96–470, title I , § 110, Oct. 19, 198
 usc_title: 48
 usc_section: "541"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 541"
-generated_at: "2026-03-30T06:14:13.710Z"
+generated_at: "2026-03-30T06:17:04.033Z"
 status: "repealed"
 ---
 

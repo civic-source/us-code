@@ -3,9 +3,9 @@ title: "Section 946 - Effect of exchange of securities before the date of the fi
 usc_title: 11
 usc_section: "946"
 chapter: 9
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "11 U.S.C. § 946"
-generated_at: "2026-03-30T06:13:05.177Z"
+generated_at: "2026-03-30T06:14:55.301Z"
 status: "active"
 ---
 

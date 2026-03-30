@@ -3,9 +3,9 @@ title: "Section 2200a - Scholarship program"
 usc_title: 10
 usc_section: "2200a"
 chapter: 112
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 2200a"
-generated_at: "2026-03-30T06:13:02.615Z"
+generated_at: "2026-03-30T06:14:52.846Z"
 status: "active"
 ---
 

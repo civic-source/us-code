@@ -3,9 +3,9 @@ title: "Section 1 - Applications"
 usc_title: 42
 usc_section: "1"
 chapter: 46
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T06:14:10.941Z"
+generated_at: "2026-03-30T06:17:01.220Z"
 status: "active"
 ---
 

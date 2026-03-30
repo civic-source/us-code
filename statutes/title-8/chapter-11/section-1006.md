@@ -3,9 +3,9 @@ title: "Section 1006 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42
 usc_title: 8
 usc_section: "1006"
 chapter: 11
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "8 U.S.C. § 1006"
-generated_at: "2026-03-30T06:12:58.859Z"
+generated_at: "2026-03-30T06:14:42.815Z"
 status: "repealed"
 ---
 

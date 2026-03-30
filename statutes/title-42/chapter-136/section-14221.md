@@ -3,9 +3,9 @@ title: "Section 14221 - Task force relating to introduction of nonindigenous spe
 usc_title: 42
 usc_section: "14221"
 chapter: 136
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 14221"
-generated_at: "2026-03-30T06:14:11.182Z"
+generated_at: "2026-03-30T06:17:01.455Z"
 status: "active"
 ---
 

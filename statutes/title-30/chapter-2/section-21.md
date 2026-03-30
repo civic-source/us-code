@@ -3,9 +3,9 @@ title: "Section 21 - Mineral lands reserved"
 usc_title: 30
 usc_section: "21"
 chapter: 2
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "30 U.S.C. § 21"
-generated_at: "2026-03-30T06:13:33.318Z"
+generated_at: "2026-03-30T06:16:22.087Z"
 status: "active"
 ---
 

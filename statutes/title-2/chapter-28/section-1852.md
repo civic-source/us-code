@@ -3,9 +3,9 @@ title: "Section 1852 - Withholding and remittance of State income tax"
 usc_title: 2
 usc_section: "1852"
 chapter: 28
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "2 U.S.C. § 1852"
-generated_at: "2026-03-30T06:12:46.652Z"
+generated_at: "2026-03-30T06:14:33.742Z"
 status: "active"
 ---
 

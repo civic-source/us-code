@@ -3,9 +3,9 @@ title: "Section 22 - District in which to sue corporation"
 usc_title: 15
 usc_section: "22"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "15 U.S.C. § 22"
-generated_at: "2026-03-30T06:13:10.568Z"
+generated_at: "2026-03-30T06:15:07.372Z"
 status: "active"
 ---
 

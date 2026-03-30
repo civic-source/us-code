@@ -3,9 +3,9 @@ title: "Section 1824 - Permits for foreign fishing"
 usc_title: 16
 usc_section: "1824"
 chapter: 38
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 1824"
-generated_at: "2026-03-30T06:13:20.093Z"
+generated_at: "2026-03-30T06:15:30.386Z"
 status: "active"
 ---
 

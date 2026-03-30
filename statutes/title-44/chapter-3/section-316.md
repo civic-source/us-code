@@ -3,9 +3,9 @@ title: "Section 316 - Detail of employees of Government Publishing Office to oth
 usc_title: 44
 usc_section: "316"
 chapter: 3
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "44 U.S.C. § 316"
-generated_at: "2026-03-30T06:14:00.731Z"
+generated_at: "2026-03-30T06:16:47.768Z"
 status: "active"
 ---
 

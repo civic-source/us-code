@@ -3,9 +3,9 @@ title: "Section 2313a - Engineering and environmental innovations of national si
 usc_title: 33
 usc_section: "2313a"
 chapter: 36
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "33 U.S.C. § 2313a"
-generated_at: "2026-03-30T06:13:49.880Z"
+generated_at: "2026-03-30T06:16:26.518Z"
 status: "active"
 ---
 

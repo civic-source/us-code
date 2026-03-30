@@ -3,9 +3,9 @@ title: "Section 146 - Repealed. May 20, 1926, ch. 347 , § 14, 44 Stat. 587"
 usc_title: 45
 usc_section: "146"
 chapter: 7
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "45 U.S.C. § 146"
-generated_at: "2026-03-30T06:14:01.152Z"
+generated_at: "2026-03-30T06:16:48.759Z"
 status: "repealed"
 ---
 

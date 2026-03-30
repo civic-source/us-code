@@ -3,9 +3,9 @@ title: "Section 7511 - Prohibition against certain State charges"
 usc_title: 7
 usc_section: "7511"
 chapter: 102
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "7 U.S.C. § 7511"
-generated_at: "2026-03-30T06:12:57.793Z"
+generated_at: "2026-03-30T06:14:39.161Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2211 - Congressional advisers for trade policy and negotiations"
 usc_title: 19
 usc_section: "2211"
 chapter: 12
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "19 U.S.C. § 2211"
-generated_at: "2026-03-30T06:13:14.543Z"
+generated_at: "2026-03-30T06:15:12.115Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4104c - Mitigation assistance"
 usc_title: 42
 usc_section: "4104c"
 chapter: 50
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 4104c"
-generated_at: "2026-03-30T06:14:10.948Z"
+generated_at: "2026-03-30T06:17:01.225Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5346 - Local committee of Indian parents in school districts hav
 usc_title: 25
 usc_section: "5346"
 chapter: 46
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "25 U.S.C. § 5346"
-generated_at: "2026-03-30T06:13:23.322Z"
+generated_at: "2026-03-30T06:15:36.343Z"
 status: "active"
 ---
 

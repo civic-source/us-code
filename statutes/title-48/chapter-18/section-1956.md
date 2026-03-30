@@ -3,9 +3,9 @@ title: "Section 1956 - Acquisition of defense sites"
 usc_title: 48
 usc_section: "1956"
 chapter: 18
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 1956"
-generated_at: "2026-03-30T06:14:13.726Z"
+generated_at: "2026-03-30T06:17:04.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 279 - Children’s affairs"
 usc_title: 6
 usc_section: "279"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "6 U.S.C. § 279"
-generated_at: "2026-03-30T06:12:59.438Z"
+generated_at: "2026-03-30T06:14:42.116Z"
 status: "active"
 ---
 

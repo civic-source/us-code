@@ -3,9 +3,9 @@ title: "Section 3154c - Direct expenditure or redistribution by recipient"
 usc_title: 42
 usc_section: "3154c"
 chapter: 38
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 3154c"
-generated_at: "2026-03-30T06:14:10.919Z"
+generated_at: "2026-03-30T06:17:01.198Z"
 status: "active"
 ---
 

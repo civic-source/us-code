@@ -3,9 +3,9 @@ title: "Section 3741 - Annual certifications on use of facilities being construc
 usc_title: 50
 usc_section: "3741"
 chapter: 48
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 3741"
-generated_at: "2026-03-30T06:14:15.989Z"
+generated_at: "2026-03-30T06:17:08.321Z"
 status: "active"
 ---
 

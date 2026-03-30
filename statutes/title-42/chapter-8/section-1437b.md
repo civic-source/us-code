@@ -3,9 +3,9 @@ title: "Section 1437b - Loans and commitments to make loans for low-income housi
 usc_title: 42
 usc_section: "1437b"
 chapter: 8
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "42 U.S.C. § 1437b"
-generated_at: "2026-03-30T06:14:10.833Z"
+generated_at: "2026-03-30T06:17:01.112Z"
 status: "active"
 ---
 

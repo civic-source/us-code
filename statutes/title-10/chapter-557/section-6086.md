@@ -3,9 +3,9 @@ title: "Section 6086 - Subsistence in hospital messes: hospital ration"
 usc_title: 10
 usc_section: "6086"
 chapter: 557
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 6086"
-generated_at: "2026-03-30T06:13:02.663Z"
+generated_at: "2026-03-30T06:14:52.896Z"
 status: "active"
 ---
 

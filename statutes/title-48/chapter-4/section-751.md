@@ -3,9 +3,9 @@ title: "Section 751 - Interstate commerce and certain other laws inapplicable to
 usc_title: 48
 usc_section: "751"
 chapter: 4
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "48 U.S.C. § 751"
-generated_at: "2026-03-30T06:14:13.710Z"
+generated_at: "2026-03-30T06:17:04.034Z"
 status: "active"
 ---
 

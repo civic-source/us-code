@@ -3,9 +3,9 @@ title: "Section 1513a - Cost estimates for National Oceanic and Atmospheric Admi
 usc_title: 15
 usc_section: "1513a"
 chapter: 40
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "15 U.S.C. § 1513a"
-generated_at: "2026-03-30T06:13:10.672Z"
+generated_at: "2026-03-30T06:15:07.473Z"
 status: "active"
 ---
 

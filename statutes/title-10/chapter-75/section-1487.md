@@ -3,9 +3,9 @@ title: "Section 1487 - Temporary interment"
 usc_title: 10
 usc_section: "1487"
 chapter: 75
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 1487"
-generated_at: "2026-03-30T06:13:02.602Z"
+generated_at: "2026-03-30T06:14:52.832Z"
 status: "active"
 ---
 

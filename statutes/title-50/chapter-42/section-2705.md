@@ -3,9 +3,9 @@ title: "Section 2705 - Authority to provide certificate of commendation to Depar
 usc_title: 50
 usc_section: "2705"
 chapter: 42
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "50 U.S.C. § 2705"
-generated_at: "2026-03-30T06:14:15.969Z"
+generated_at: "2026-03-30T06:17:08.299Z"
 status: "active"
 ---
 

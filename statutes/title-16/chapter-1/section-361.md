@@ -3,9 +3,9 @@ title: "Section 361 - Establishment; supply of water; free baths for indigent; d
 usc_title: 16
 usc_section: "361"
 chapter: 1
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "16 U.S.C. § 361"
-generated_at: "2026-03-30T06:13:19.940Z"
+generated_at: "2026-03-30T06:15:30.228Z"
 status: "active"
 ---
 

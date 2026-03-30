@@ -3,9 +3,9 @@ title: "Section 8378 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "8378"
 chapter: 837
-current_through: "PL 115-35"
+current_through: "PL 115-37"
 classification: "10 U.S.C. § 8378"
-generated_at: "2026-03-30T06:13:02.674Z"
+generated_at: "2026-03-30T06:14:52.907Z"
 status: "repealed"
 ---
 
