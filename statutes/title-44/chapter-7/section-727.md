@@ -3,9 +3,9 @@ title: "Section 727 - Committee reports: indexing and binding"
 usc_title: 44
 usc_section: "727"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "44 U.S.C. § 727"
-generated_at: "2026-03-30T04:39:59.683Z"
+generated_at: "2026-03-30T04:42:36.902Z"
 status: "active"
 ---
 

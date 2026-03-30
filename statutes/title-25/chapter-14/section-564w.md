@@ -3,9 +3,9 @@ title: "Section 564w - Education and training program; purposes; subjects; trans
 usc_title: 25
 usc_section: "564w"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 564w"
-generated_at: "2026-03-30T04:39:06.153Z"
+generated_at: "2026-03-30T04:42:07.661Z"
 status: "active"
 ---
 

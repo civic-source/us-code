@@ -3,9 +3,9 @@ title: "Section 228e - Cooperative agreements for protection and unified interpr
 usc_title: 16
 usc_section: "228e"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 228e"
-generated_at: "2026-03-30T04:38:37.375Z"
+generated_at: "2026-03-30T04:41:59.113Z"
 status: "active"
 ---
 

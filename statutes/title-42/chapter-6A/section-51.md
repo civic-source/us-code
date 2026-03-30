@@ -3,9 +3,9 @@ title: "Section 51 - Research regarding certain health conditions related to Sep
 usc_title: 42
 usc_section: "51"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 51"
-generated_at: "2026-03-30T04:40:14.620Z"
+generated_at: "2026-03-30T04:42:53.295Z"
 status: "active"
 ---
 

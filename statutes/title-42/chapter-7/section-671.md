@@ -3,9 +3,9 @@ title: "Section 671 - State plan for foster care and adoption assistance"
 usc_title: 42
 usc_section: "671"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 671"
-generated_at: "2026-03-30T04:40:14.648Z"
+generated_at: "2026-03-30T04:42:53.324Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1911 - Receiver mismanaging property"
 usc_title: 18
 usc_section: "1911"
 chapter: 93
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "18 U.S.C. § 1911"
-generated_at: "2026-03-30T04:38:47.819Z"
+generated_at: "2026-03-30T04:41:43.217Z"
 status: "active"
 ---
 

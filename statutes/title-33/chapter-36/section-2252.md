@@ -3,9 +3,9 @@ title: "Section 2252 - Project delivery process reforms"
 usc_title: 33
 usc_section: "2252"
 chapter: 36
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 2252"
-generated_at: "2026-03-30T04:39:40.583Z"
+generated_at: "2026-03-30T04:42:28.705Z"
 status: "active"
 ---
 
@@ -36,4 +36,3 @@ status: "active"
     - **(A)** early contractor involvement in the development of features and components;
     - **(B)** an appropriate use of continuing contracts for the construction of features and components; and
     - **(C)** applicable principles, procedures, and processes used for military construction projects.
-- **(d)**

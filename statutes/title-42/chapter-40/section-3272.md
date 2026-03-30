@@ -3,9 +3,9 @@ title: "Section 3272 - Cooperative assistance to State and other public agencies
 usc_title: 42
 usc_section: "3272"
 chapter: 40
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 3272"
-generated_at: "2026-03-30T04:40:14.874Z"
+generated_at: "2026-03-30T04:42:53.546Z"
 status: "active"
 ---
 

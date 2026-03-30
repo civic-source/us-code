@@ -3,9 +3,9 @@ title: "Section 2020 - Tribal departments or divisions of education"
 usc_title: 25
 usc_section: "2020"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2020"
-generated_at: "2026-03-30T04:39:06.203Z"
+generated_at: "2026-03-30T04:42:07.710Z"
 status: "active"
 ---
 
@@ -29,5 +29,5 @@ status: "active"
       - **(ii)** the termination by the Bureau of such functions and office at the time of such assumption; and
     - **(B)** provides that the assumption shall occur over the term of the grant made under this section, except that, when mutually agreeable to the tribal governing body and the Assistant Secretary, the period in which such assumption is to occur may be modified, reduced, or extended after the initial year of the grant.
 - **(f)** Subject to the availability of appropriated funds, a grant provided under this section shall be provided for a period of 3 years. If the performance of the grant recipient is satisfactory to the Secretary, the grant may be renewed for additional 3-year terms.
-- **(g)** A tribe that receives a grant under this section shall comply with regulations relating to grants made under section 450h(a) of this title that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b) of this section. The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
+- **(g)** A tribe that receives a grant under this section shall comply with regulations relating to grants made under section 450h(a) of this title that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b). The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
 - **(h)** There are authorized to be appropriated to carry out this section $2,000,000.

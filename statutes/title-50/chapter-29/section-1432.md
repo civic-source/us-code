@@ -3,9 +3,9 @@ title: "Section 1432 - Restrictions"
 usc_title: 50
 usc_section: "1432"
 chapter: 29
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "50 U.S.C. § 1432"
-generated_at: "2026-03-30T04:40:38.932Z"
+generated_at: "2026-03-30T04:43:16.916Z"
 status: "active"
 ---
 

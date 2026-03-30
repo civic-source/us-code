@@ -3,9 +3,9 @@ title: "Section 8e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "8e"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 8e"
-generated_at: "2026-03-30T04:38:37.363Z"
+generated_at: "2026-03-30T04:41:59.096Z"
 status: "repealed"
 ---
 

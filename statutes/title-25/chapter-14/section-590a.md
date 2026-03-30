@@ -3,9 +3,9 @@ title: "Section 590a - Shoshone-Bannock Tribes of the Fort Hall Reservation; cre
 usc_title: 25
 usc_section: "590a"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 590a"
-generated_at: "2026-03-30T04:39:06.155Z"
+generated_at: "2026-03-30T04:42:07.662Z"
 status: "active"
 ---
 

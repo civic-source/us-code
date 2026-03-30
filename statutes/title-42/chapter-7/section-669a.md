@@ -3,9 +3,9 @@ title: "Section 669a - Nonliability for financial institutions providing financi
 usc_title: 42
 usc_section: "669a"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 669a"
-generated_at: "2026-03-30T04:40:14.648Z"
+generated_at: "2026-03-30T04:42:53.323Z"
 status: "active"
 ---
 

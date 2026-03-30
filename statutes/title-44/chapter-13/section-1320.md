@@ -3,9 +3,9 @@ title: "Section 1320 - Geological Survey: distribution of publications to public
 usc_title: 44
 usc_section: "1320"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "44 U.S.C. § 1320"
-generated_at: "2026-03-30T04:39:59.685Z"
+generated_at: "2026-03-30T04:42:36.903Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T04:38:29.292Z"
+generated_at: "2026-03-30T04:41:39.887Z"
 status: "active"
 ---
 
@@ -60,4 +60,4 @@ status: "active"
   - **(2)** the term “information security” has the same meaning as provided in section 3552(b)(2) 2 2 So in original. Probably should be “3552(b)(3)”. of such title;
   - **(3)** the term “information system” has the same meaning as provided in section 3502(8) of such title;
   - **(4)** the term “information technology” has the same meaning as provided in section 11101 of title 40 ; and
-  - **(5)** the term “national security system” has the same meaning as provided in section 3552(b)(5) of such title. 3 3 See References in Text note below.
+  - **(5)** the term “national security system” has the same meaning as provided in section 3552(b)(5) 1 of such title. 3 3 So in original. “Such title” probably means title 44.

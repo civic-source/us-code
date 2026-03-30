@@ -3,9 +3,9 @@ title: "Section 13041 - Requirement for background checks"
 usc_title: 42
 usc_section: "13041"
 chapter: 132
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 13041"
-generated_at: "2026-03-30T04:40:15.110Z"
+generated_at: "2026-03-30T04:42:53.775Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5933 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5933"
 chapter: 79
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 5933"
-generated_at: "2026-03-30T04:38:37.573Z"
+generated_at: "2026-03-30T04:41:59.321Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6611 - Allotments to States"
 usc_title: 20
 usc_section: "6611"
 chapter: 70
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 6611"
-generated_at: "2026-03-30T04:38:34.793Z"
+generated_at: "2026-03-30T04:42:01.053Z"
 status: "active"
 ---
 

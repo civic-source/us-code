@@ -3,9 +3,9 @@ title: "Section 6501 - Definitions"
 usc_title: 41
 usc_section: "6501"
 chapter: 65
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "41 U.S.C. § 6501"
-generated_at: "2026-03-30T04:40:05.897Z"
+generated_at: "2026-03-30T04:42:34.997Z"
 status: "active"
 ---
 

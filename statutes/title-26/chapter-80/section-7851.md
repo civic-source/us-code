@@ -3,9 +3,9 @@ title: "Section 7851 - Applicability of revenue laws"
 usc_title: 26
 usc_section: "7851"
 chapter: 80
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 7851"
-generated_at: "2026-03-30T04:39:18.228Z"
+generated_at: "2026-03-30T04:42:24.218Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1823 - Waiver of limitation on decrease in duty and negotiation 
 usc_title: 19
 usc_section: "1823"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "19 U.S.C. § 1823"
-generated_at: "2026-03-30T04:38:32.932Z"
+generated_at: "2026-03-30T04:41:44.209Z"
 status: "active"
 ---
 

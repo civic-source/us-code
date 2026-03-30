@@ -3,9 +3,9 @@ title: "Section 5313a - Duplication of benefits"
 usc_title: 42
 usc_section: "5313a"
 chapter: 69
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 5313a"
-generated_at: "2026-03-30T04:40:14.923Z"
+generated_at: "2026-03-30T04:42:53.593Z"
 status: "active"
 ---
 

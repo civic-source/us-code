@@ -3,9 +3,9 @@ title: "Section 4156 - Waiver and modification of standards"
 usc_title: 42
 usc_section: "4156"
 chapter: 51
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 4156"
-generated_at: "2026-03-30T04:40:14.899Z"
+generated_at: "2026-03-30T04:42:53.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 162a - Deposit of tribal funds in banks; bond or collateral secu
 usc_title: 25
 usc_section: "162a"
 chapter: 4
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 162a"
-generated_at: "2026-03-30T04:39:06.136Z"
+generated_at: "2026-03-30T04:42:07.644Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** any bonds, notes, or other obligations which are unconditionally guaranteed as to both principal and interest by the United States; or
   - **(3)** any obligations which are lawful investments for trust funds under the authority or control of the United States.
 - **(c)**
-  - **(1)** Notwithstanding subsection (a) of this section, the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
+  - **(1)** Notwithstanding subsection (a), the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
     - **(A)** the portfolio of such mutual fund consists entirely of public-debt obligations of the United States, or bonds, notes, or other obligations which are unconditionally guaranteed as to both interest and principal by the United States, or a combination thereof;
     - **(B)** the trust funds to be invested exceed $50,000;
     - **(C)** the mutual fund is registered by the Securities and Exchange Commission; and

@@ -3,9 +3,9 @@ title: "Section 16091 - Clean school bus program 1 1 This section is substantial
 usc_title: 42
 usc_section: "16091"
 chapter: 149
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 16091"
-generated_at: "2026-03-30T04:40:15.154Z"
+generated_at: "2026-03-30T04:42:53.820Z"
 status: "active"
 ---
 

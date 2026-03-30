@@ -3,9 +3,9 @@ title: "Section 2359 - Science and technology programs to be conducted so as to 
 usc_title: 10
 usc_section: "2359"
 chapter: 139
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 2359"
-generated_at: "2026-03-30T04:38:16.467Z"
+generated_at: "2026-03-30T04:41:26.943Z"
 status: "active"
 ---
 

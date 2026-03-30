@@ -3,9 +3,9 @@ title: "Section 2414a - Review of programs"
 usc_title: 25
 usc_section: "2414a"
 chapter: 26
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2414a"
-generated_at: "2026-03-30T04:39:06.206Z"
+generated_at: "2026-03-30T04:42:07.715Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(2)** tribal, State and local, and private health resources and programs,
   - **(3)** where facilities to provide such treatment are or should be located, and
   - **(4)** the effectiveness of public and private alcohol and substance abuse treatment programs in operation on October 27, 1986 ,
-- **(b)** The results of the review conducted under subsection (a) of this section shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
+- **(b)** The results of the review conducted under subsection (a) shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.

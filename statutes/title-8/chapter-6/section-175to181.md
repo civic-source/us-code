@@ -3,9 +3,9 @@ title: "Section 175to181 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "175to181"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "8 U.S.C. § 175to181"
-generated_at: "2026-03-30T04:38:17.960Z"
+generated_at: "2026-03-30T04:41:29.094Z"
 status: "repealed"
 ---
 

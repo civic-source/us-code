@@ -3,9 +3,9 @@ title: "Section 1065 - Incontestability of right to use mark under certain condi
 usc_title: 15
 usc_section: "1065"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "15 U.S.C. § 1065"
-generated_at: "2026-03-30T04:38:29.332Z"
+generated_at: "2026-03-30T04:41:39.925Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ Except on a ground for which application to cancel may be filed at any time unde
 
   - **(1)** there has been no final decision adverse to the owner’s claim of ownership of such mark for such goods or services, or to the owner’s right to register the same or to keep the same on the register; and
   - **(2)** there is no proceeding involving said rights pending in the United States Patent and Trademark Office or in a court and not finally disposed of; and
-  - **(3)** an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
+  - **(3)** an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) hereof; and
   - **(4)** no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.

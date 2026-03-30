@@ -3,9 +3,9 @@ title: "Section 673f - Repealed. Pub. L. 105–362, title IX, § 901(b)(1) , Nov
 usc_title: 16
 usc_section: "673f"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 673f"
-generated_at: "2026-03-30T04:38:37.470Z"
+generated_at: "2026-03-30T04:41:59.219Z"
 status: "repealed"
 ---
 

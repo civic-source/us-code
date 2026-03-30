@@ -3,9 +3,9 @@ title: "Section 80eto80h - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 16
 usc_section: "80eto80h"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 80eto80h"
-generated_at: "2026-03-30T04:38:37.367Z"
+generated_at: "2026-03-30T04:41:59.104Z"
 status: "repealed"
 ---
 

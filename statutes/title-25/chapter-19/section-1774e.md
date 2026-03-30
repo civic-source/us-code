@@ -3,9 +3,9 @@ title: "Section 1774e - Conditions precedent to payment of United States and Sta
 usc_title: 25
 usc_section: "1774e"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1774e"
-generated_at: "2026-03-30T04:39:06.193Z"
+generated_at: "2026-03-30T04:42:07.701Z"
 status: "active"
 ---
 

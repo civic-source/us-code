@@ -3,9 +3,9 @@ title: "Section 458ddd - National Fund for Excellence in American Indian Educati
 usc_title: 25
 usc_section: "458ddd"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 458ddd"
-generated_at: "2026-03-30T04:39:06.149Z"
+generated_at: "2026-03-30T04:42:07.657Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
 - **(k)** The Foundation shall be liable for the acts of its officers and agents acting within the scope of their authority. Members of the Board are personally liable only for gross negligence in the performance of their duties.
 - **(l)**
   - **(1)** Beginning with the fiscal year following the first full fiscal year during which the Foundation is in operation, the administrative costs of the Foundation may not exceed 10 percent of the sum of—
-    - **(A)** the amounts transferred to the Foundation under subsection (m) of this section during the preceding fiscal year; and
+    - **(A)** the amounts transferred to the Foundation under subsection (m) during the preceding fiscal year; and
     - **(B)** donations received from private sources during the preceding fiscal year.
   - **(2)** The appointment of officers and employees of the Foundation shall be subject to the availability of funds.
   - **(3)** Members of the Board, and the officers, employees, and agents of the Foundation are not, by reason of their association with the Foundation, officers, employees, or agents of the United States.

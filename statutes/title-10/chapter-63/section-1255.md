@@ -3,9 +3,9 @@ title: "Section 1255 - Repealed. Pub. L. 90–130, § 1(6) , Nov. 8, 1967 , 81 S
 usc_title: 10
 usc_section: "1255"
 chapter: 63
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 1255"
-generated_at: "2026-03-30T04:38:16.436Z"
+generated_at: "2026-03-30T04:41:26.912Z"
 status: "repealed"
 ---
 

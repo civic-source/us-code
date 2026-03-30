@@ -3,9 +3,9 @@ title: "Section 9162 - International negotiations"
 usc_title: 42
 usc_section: "9162"
 chapter: 99
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 9162"
-generated_at: "2026-03-30T04:40:15.029Z"
+generated_at: "2026-03-30T04:42:53.698Z"
 status: "active"
 ---
 

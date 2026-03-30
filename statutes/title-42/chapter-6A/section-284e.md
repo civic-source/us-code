@@ -3,9 +3,9 @@ title: "Section 284e - Research on osteoporosis, Paget’s disease, and related 
 usc_title: 42
 usc_section: "284e"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 284e"
-generated_at: "2026-03-30T04:40:14.538Z"
+generated_at: "2026-03-30T04:42:53.214Z"
 status: "active"
 ---
 

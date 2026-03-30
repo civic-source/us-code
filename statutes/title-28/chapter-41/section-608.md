@@ -3,9 +3,9 @@ title: "Section 608 - Seal"
 usc_title: 28
 usc_section: "608"
 chapter: 41
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "28 U.S.C. § 608"
-generated_at: "2026-03-30T04:39:21.260Z"
+generated_at: "2026-03-30T04:42:16.117Z"
 status: "active"
 ---
 

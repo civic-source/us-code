@@ -3,9 +3,9 @@ title: "Section 7 - Liabilities"
 usc_title: 42
 usc_section: "7"
 chapter: 23
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T04:40:14.854Z"
+generated_at: "2026-03-30T04:42:53.525Z"
 status: "active"
 ---
 

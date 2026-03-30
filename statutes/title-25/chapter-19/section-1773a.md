@@ -3,16 +3,16 @@ title: "Section 1773a - Resolution of Puyallup tribal land claims"
 usc_title: 25
 usc_section: "1773a"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1773a"
-generated_at: "2026-03-30T04:39:06.192Z"
+generated_at: "2026-03-30T04:42:07.700Z"
 status: "active"
 ---
 
 # § 1773a. Resolution of Puyallup tribal land claims
 
-- **(a)** In accordance with the Settlement Agreement and in return for the land and other benefits derived from the Settlement Agreement and this subchapter, the Tribe, and the United States as trustee for the Tribe and its members, relinquish all claims to tidelands, submerged lands, and any other lands, and including any mineral claims and nonfisheries water rights connected with such relinquished land, known or unknown, within the State of Washington, subject to the exceptions referred to in subsection (b) of this section.
-- **(b)** Subsection (a) of this section shall not apply to the following:
+- **(a)** In accordance with the Settlement Agreement and in return for the land and other benefits derived from the Settlement Agreement and this subchapter, the Tribe, and the United States as trustee for the Tribe and its members, relinquish all claims to tidelands, submerged lands, and any other lands, and including any mineral claims and nonfisheries water rights connected with such relinquished land, known or unknown, within the State of Washington, subject to the exceptions referred to in subsection (b).
+- **(b)** Subsection (a) shall not apply to the following:
   - **(1)** 12.5 acres of former riverbed land confirmed to the Tribe in Puyallup Tribe of Indians against Port of Tacoma (717 F. 2d 1251 (1983)), which land shall be subject to the terms and conditions described in the Settlement Agreement and document 6 of the Technical Documents.
   - **(2)** All land to which record title in the Tribe or the United States in trust for the Tribe or its members derives from a patent issued by the United States or from a conveyance of tideland by the State of Washington. For the purposes of this paragraph, the term “record title” means title documented by identifiable conveyances reflected in those records imparting constructive notice of conveyances according to the laws of the State (RCW chapters 65.04 and 65.08) and the final judgments of State or Federal courts.
   - **(3)** Certain land recognized to be owned on August 27, 1988 , by the Tribe or the United States in trust for the Tribe within the Indian Addition to the city of Tacoma, Washington, as recorded in book 7 of plats at pages 30 and 31, records of Pierce County, Washington, as follows:

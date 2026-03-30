@@ -3,9 +3,9 @@ title: "Section 6050M - Returns relating to persons receiving contracts from Fed
 usc_title: 26
 usc_section: "6050M"
 chapter: 61
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 6050M"
-generated_at: "2026-03-30T04:39:18.187Z"
+generated_at: "2026-03-30T04:42:24.178Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 609c - Disbursement of minor’s share of judgment funds"
 usc_title: 25
 usc_section: "609c"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 609c"
-generated_at: "2026-03-30T04:39:06.155Z"
+generated_at: "2026-03-30T04:42:07.663Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
   - **(6)** “parent” means the biological or adoptive parent or parents, or other legal guardian, of a minor.
 - **(b)** Notwithstanding any provision of the Act of October 19, 1973 ( 87 Stat. 466 ) [ 25 U.S.C. 1401 et seq.], the Act of March 12, 1968 ( 82 Stat. 47 ), or any other law, or any regulation or plan promulgated pursuant thereto, the minor’s share of judgment funds heretofore or hereafter awarded by the Indian Claims Commission or the United States Court of Claims to a tribe may be disbursed to a parent of such minor pursuant to this section and section 609c–1 of this title .
 - **(c)** The minor’s share of judgment funds may be disbursed in such amounts deemed necessary by such parent for the best interest of the minor for the minor’s health, education, welfare, and emergencies under a plan governing such funds for each minor (or a plan governing funds of all minors in a family) approved by the Secretary and the tribal governing body of the minor’s tribe.
-- **(d)** The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c) of this section. Each such report shall include the amount and purpose of every disbursement made during each month under such plans.
+- **(d)** The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c). Each such report shall include the amount and purpose of every disbursement made during each month under such plans.

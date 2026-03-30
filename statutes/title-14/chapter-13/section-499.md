@@ -3,9 +3,9 @@ title: "Section 499 - Delegation of powers to make awards; rules and regulations
 usc_title: 14
 usc_section: "499"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "14 U.S.C. § 499"
-generated_at: "2026-03-30T04:38:24.599Z"
+generated_at: "2026-03-30T04:41:35.142Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 403404 - Repealed. June 30, 1947, ch. 166 , title II, § 206(c),
 usc_title: 43
 usc_section: "403404"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "43 U.S.C. § 403404"
-generated_at: "2026-03-30T04:40:02.188Z"
+generated_at: "2026-03-30T04:42:35.661Z"
 status: "repealed"
 ---
 

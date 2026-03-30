@@ -3,9 +3,9 @@ title: "Section 5419 - Authority to collect fee"
 usc_title: 42
 usc_section: "5419"
 chapter: 70
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 5419"
-generated_at: "2026-03-30T04:40:14.926Z"
+generated_at: "2026-03-30T04:42:53.595Z"
 status: "active"
 ---
 

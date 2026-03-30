@@ -3,9 +3,9 @@ title: "Section 1 - Extension of noncompetitive oil or gas lease issued before S
 usc_title: 30
 usc_section: "1"
 chapter: 3
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-30T04:39:10.856Z"
+generated_at: "2026-03-30T04:42:16.657Z"
 status: "active"
 ---
 

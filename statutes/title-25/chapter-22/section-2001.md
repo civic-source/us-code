@@ -3,9 +3,9 @@ title: "Section 2001 - Accreditation for the basic education of Indian children 
 usc_title: 25
 usc_section: "2001"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2001"
-generated_at: "2026-03-30T04:39:06.199Z"
+generated_at: "2026-03-30T04:42:07.707Z"
 status: "active"
 ---
 
@@ -91,7 +91,7 @@ status: "active"
   - **(9)** Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded to school employees under applicable law (including applicable regulations or court orders) or under the terms of any collective bargaining agreement, memorandum of understanding, or other agreement between such employees and their employers.
   - **(10)** The Bureau shall, either directly or through contract with an Indian organization, establish a consistent system of reporting standards for fiscal control and fund accounting for all contract and grant schools. Such standards shall provide data comparable to those used by Bureau-operated schools.
 - **(c)**
-  - **(1)** Except as provided in subsection (b) of this section, the Secretary shall implement the standards in effect under this section 1 on the day before January 8, 2002 .
+  - **(1)** Except as provided in subsection (b), the Secretary shall implement the standards in effect under this section 1 on the day before January 8, 2002 .
   - **(2)** On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002 , to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school’s educational program in relation to the applicable standards, specific cost estimates for meeting such standards at each school, and specific timelines for bringing each school up to the level required by such standards.
 - **(d)**
   - **(1)** Except as specifically required by law—

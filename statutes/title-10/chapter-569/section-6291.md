@@ -3,9 +3,9 @@ title: "Section 6291 - Repealed. Pub. L. 90–235, § 3(b)(1) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6291"
 chapter: 569
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 6291"
-generated_at: "2026-03-30T04:38:16.503Z"
+generated_at: "2026-03-30T04:41:26.980Z"
 status: "repealed"
 ---
 

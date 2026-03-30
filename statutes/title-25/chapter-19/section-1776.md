@@ -3,9 +3,9 @@ title: "Section 1776 - Findings and purpose"
 usc_title: 25
 usc_section: "1776"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1776"
-generated_at: "2026-03-30T04:39:06.194Z"
+generated_at: "2026-03-30T04:42:07.701Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
     - **(A)** The erroneous nature of the survey was not discovered for several decades. Meanwhile, the areas along the 107th meridian to the north and south of the Northern Cheyenne Indian Reservation were opened to settlement in the late nineteenth century and early part of the twentieth century. Patents were issued to non-Indian persons and to the State of Montana for most of the surface land and a significant portion of the minerals in these areas between the 107th meridian and the 1891 survey line.
     - **(B)** The 12,964 acres included in the Northern Cheyenne Reservation have been treated as part of the Northern Cheyenne Reservation and occupied by the Northern Cheyenne Tribe and the Northern Cheyenne allottees, and their successors in interest.
   - **(5)** Legislation to resolve the 107th meridian boundary dispute was introduced in Congress in the 1960’s and 1970’s, and again in 1992, but no such legislation was enacted into law.
-- **(b)** The purpose of this subchapter is to settle the 107th meridian boundary dispute created by the erroneous survey of the eastern boundary of the Crow Indian Reservation made by the Federal Government described in subsection (a)(3) of this section.
+- **(b)** The purpose of this subchapter is to settle the 107th meridian boundary dispute created by the erroneous survey of the eastern boundary of the Crow Indian Reservation made by the Federal Government described in subsection (a)(3).

@@ -3,9 +3,9 @@ title: "Section 4842 - Consultation by Secretary with other departments and agen
 usc_title: 42
 usc_section: "4842"
 chapter: 63
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 4842"
-generated_at: "2026-03-30T04:40:14.906Z"
+generated_at: "2026-03-30T04:42:53.577Z"
 status: "active"
 ---
 

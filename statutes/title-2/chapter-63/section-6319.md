@@ -3,9 +3,9 @@ title: "Section 6319 - Transportation of official records and papers to a Senato
 usc_title: 2
 usc_section: "6319"
 chapter: 63
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "2 U.S.C. § 6319"
-generated_at: "2026-03-30T04:38:08.944Z"
+generated_at: "2026-03-30T04:40:57.516Z"
 status: "active"
 ---
 

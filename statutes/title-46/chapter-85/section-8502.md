@@ -3,9 +3,9 @@ title: "Section 8502 - Federal pilots required"
 usc_title: 46
 usc_section: "8502"
 chapter: 85
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "46 U.S.C. § 8502"
-generated_at: "2026-03-30T04:40:19.048Z"
+generated_at: "2026-03-30T04:43:12.946Z"
 status: "active"
 ---
 

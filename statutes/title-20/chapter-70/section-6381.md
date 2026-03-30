@@ -3,9 +3,9 @@ title: "Section 6381 - Statement of purpose"
 usc_title: 20
 usc_section: "6381"
 chapter: 70
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 6381"
-generated_at: "2026-03-30T04:38:34.789Z"
+generated_at: "2026-03-30T04:42:01.049Z"
 status: "active"
 ---
 

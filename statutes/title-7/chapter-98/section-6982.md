@@ -3,9 +3,9 @@ title: "Section 6982 - Conditions for implementation of alterations in the level
 usc_title: 7
 usc_section: "6982"
 chapter: 98
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "7 U.S.C. § 6982"
-generated_at: "2026-03-30T04:38:22.488Z"
+generated_at: "2026-03-30T04:41:32.646Z"
 status: "active"
 ---
 

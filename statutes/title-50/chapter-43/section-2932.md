@@ -3,9 +3,9 @@ title: "Section 2932 - Sense of Congress on United States-Russia cooperation and
 usc_title: 50
 usc_section: "2932"
 chapter: 43
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "50 U.S.C. § 2932"
-generated_at: "2026-03-30T04:40:38.958Z"
+generated_at: "2026-03-30T04:43:16.941Z"
 status: "active"
 ---
 

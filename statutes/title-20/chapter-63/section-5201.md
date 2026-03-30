@@ -3,9 +3,9 @@ title: "Section 5201 - Purposes"
 usc_title: 20
 usc_section: "5201"
 chapter: 63
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 5201"
-generated_at: "2026-03-30T04:38:34.777Z"
+generated_at: "2026-03-30T04:42:01.037Z"
 status: "active"
 ---
 

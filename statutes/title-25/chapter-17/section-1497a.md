@@ -3,9 +3,9 @@ title: "Section 1497a - Supplemental surety bond guarantee"
 usc_title: 25
 usc_section: "1497a"
 chapter: 17
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1497a"
-generated_at: "2026-03-30T04:39:06.178Z"
+generated_at: "2026-03-30T04:42:07.686Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(2)** the supplemental guarantee is necessary for the Indian individual or economic enterprise to secure a surety bond;
   - **(3)** no more than 25 percent of the surety’s business is comprised of bonds guaranteed pursuant to this section; and
   - **(4)** the surety will provide appropriate technical assistance and advice to, and monitor the performance of, the Indian individual or economic enterprise for the prevention or mitigation of a loss.
-- **(c)** The rules and regulations promulgated by the Secretary to carry out this section shall include the setting of reasonable fees to be paid by the Indian individual or economic enterprise and reasonable premium charges to be paid by sureties. In setting fees and charges, the Secretary may take into consideration the cost to the surety of providing the services required by paragraph (4) of subsection (b) of this section. The receipts from the fees and charges shall be deposited in the Fund established by section 1497(a) of this title .
+- **(c)** The rules and regulations promulgated by the Secretary to carry out this section shall include the setting of reasonable fees to be paid by the Indian individual or economic enterprise and reasonable premium charges to be paid by sureties. In setting fees and charges, the Secretary may take into consideration the cost to the surety of providing the services required by paragraph (4) of subsection (b). The receipts from the fees and charges shall be deposited in the Fund established by section 1497(a) of this title .

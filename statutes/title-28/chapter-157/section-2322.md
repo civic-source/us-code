@@ -3,9 +3,9 @@ title: "Section 2322 - United States as party"
 usc_title: 28
 usc_section: "2322"
 chapter: 157
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "28 U.S.C. § 2322"
-generated_at: "2026-03-30T04:39:21.273Z"
+generated_at: "2026-03-30T04:42:16.128Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 598 - Resettlement of displaced families, individuals, and busin
 usc_title: 33
 usc_section: "598"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 598"
-generated_at: "2026-03-30T04:39:40.544Z"
+generated_at: "2026-03-30T04:42:28.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3750 - Soldier’s Medal: award; limitations"
 usc_title: 10
 usc_section: "3750"
 chapter: 357
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 3750"
-generated_at: "2026-03-30T04:38:16.493Z"
+generated_at: "2026-03-30T04:41:26.971Z"
 status: "active"
 ---
 

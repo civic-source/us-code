@@ -3,9 +3,9 @@ title: "Section 1487 - Loans eligible for insurance"
 usc_title: 25
 usc_section: "1487"
 chapter: 17
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1487"
-generated_at: "2026-03-30T04:39:06.178Z"
+generated_at: "2026-03-30T04:42:07.686Z"
 status: "active"
 ---
 

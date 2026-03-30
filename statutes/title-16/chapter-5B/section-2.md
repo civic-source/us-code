@@ -3,9 +3,9 @@ title: "Section 2 - Multistate conservation grant program"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T04:38:37.468Z"
+generated_at: "2026-03-30T04:41:59.217Z"
 status: "active"
 ---
 

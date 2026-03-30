@@ -3,9 +3,9 @@ title: "Section 1409 - Retired pay multiplier"
 usc_title: 10
 usc_section: "1409"
 chapter: 71
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 1409"
-generated_at: "2026-03-30T04:38:16.438Z"
+generated_at: "2026-03-30T04:41:26.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-30T04:39:40.585Z"
+generated_at: "2026-03-30T04:42:28.707Z"
 status: "active"
 ---
 
@@ -15,8 +15,8 @@ status: "active"
   - **(1)** Each feasibility report that meets the criteria established in subsection (c)(1)(A).
   - **(2)** Any proposed feasibility study submitted to the Secretary by a non-Federal interest pursuant to subsection (b) that meets the criteria established in subsection (c)(1)(A).
   - **(3)** Any proposed modification to an authorized water resources development project or feasibility study that meets the criteria established in subsection (c)(1)(A) that—
-    - **(A)**
-    - **(B)**
+    - **(A)** is submitted to the Secretary by a non-Federal interest pursuant to subsection (b); or
+    - **(B)** is identified by the Secretary for authorization.
 - **(b)**
   - **(1)** Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies and proposed modifications to authorized water resources development projects and feasibility studies to be included in the annual report.
   - **(2)** The Secretary shall include in each notice required by this subsection a requirement that non-Federal interests submit to the Secretary any proposals described in paragraph (1) by not later than 120 days after the date of publication of the notice in the Federal Register in order for the proposals to be considered for inclusion in the annual report.

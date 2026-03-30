@@ -3,9 +3,9 @@ title: "Section 112 - Statutes at Large; contents; admissibility in evidence"
 usc_title: 1
 usc_section: "112"
 chapter: 2
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "1 U.S.C. § 112"
-generated_at: "2026-03-30T04:38:04.714Z"
+generated_at: "2026-03-30T04:40:59.446Z"
 status: "active"
 ---
 

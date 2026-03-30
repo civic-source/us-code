@@ -3,9 +3,9 @@ title: "Section 2302 - Rules governing contents of warranties"
 usc_title: 15
 usc_section: "2302"
 chapter: 50
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "15 U.S.C. § 2302"
-generated_at: "2026-03-30T04:38:29.376Z"
+generated_at: "2026-03-30T04:41:39.965Z"
 status: "active"
 ---
 
@@ -31,6 +31,13 @@ status: "active"
     - **(B)** The Commission may prescribe rules for determining the manner and form in which information with respect to any written warranty of a consumer product shall be clearly and conspicuously presented or displayed so as not to mislead the reasonable, average consumer, when such information is contained in advertising, labeling, point-of-sale material, or other representations in writing.
   - **(2)** Nothing in this chapter (other than paragraph (3) of this subsection) shall be deemed to authorize the Commission to prescribe the duration of written warranties given or to require that a consumer product or any of its components be warranted.
   - **(3)** The Commission may prescribe rules for extending the period of time a written warranty or service contract is in effect to correspond with any period of time in excess of a reasonable period (not less than 10 days) during which the consumer is deprived of the use of such consumer product by reason of failure of the product to conform with the written warranty or by reason of the failure of the warrantor (or service contractor) to carry out such warranty (or service contract) within the period specified in the warranty (or service contract).
+  - **(4)**
+    - **(A)** Except as provided in subparagraph (B), the rules prescribed under this subsection shall allow for the satisfaction of all requirements concerning the availability of terms of a written warranty on a consumer product under this subsection by—
+      - **(i)** making available such terms in an accessible digital format on the Internet website of the manufacturer of the consumer product in a clear and conspicuous manner; and
+      - **(ii)** providing to the consumer (or prospective consumer) information with respect to how to obtain and review such terms by indicating on the product or product packaging or in the product manual—
+        - **(I)** the Internet website of the manufacturer where such terms can be obtained and reviewed; and
+        - **(II)** the phone number of the manufacturer, the postal mailing address of the manufacturer, or another reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.
+    - **(B)** With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
 - **(c)** No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer’s using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
   - **(1)** the warrantor satisfies the Commission that the warranted product will function properly only if the article or service so identified is used in connection with the warranted product, and
   - **(2)** the Commission finds that such a waiver is in the public interest.

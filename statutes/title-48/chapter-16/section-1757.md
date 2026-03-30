@@ -3,9 +3,9 @@ title: "Section 1757 - Definition"
 usc_title: 48
 usc_section: "1757"
 chapter: 16
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "48 U.S.C. § 1757"
-generated_at: "2026-03-30T04:40:22.373Z"
+generated_at: "2026-03-30T04:42:56.394Z"
 status: "active"
 ---
 

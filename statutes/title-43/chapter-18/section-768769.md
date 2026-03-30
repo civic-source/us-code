@@ -3,9 +3,9 @@ title: "Section 768769 - Repealed. Apr. 29, 1950, ch. 134, § 4 , 64 Stat. 93"
 usc_title: 43
 usc_section: "768769"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "43 U.S.C. § 768769"
-generated_at: "2026-03-30T04:40:02.199Z"
+generated_at: "2026-03-30T04:42:35.673Z"
 status: "repealed"
 ---
 

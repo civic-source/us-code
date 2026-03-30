@@ -3,9 +3,9 @@ title: "Section 350e - Sanitary transportation practices"
 usc_title: 21
 usc_section: "350e"
 chapter: 9
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "21 U.S.C. § 350e"
-generated_at: "2026-03-30T04:38:52.703Z"
+generated_at: "2026-03-30T04:42:04.511Z"
 status: "active"
 ---
 

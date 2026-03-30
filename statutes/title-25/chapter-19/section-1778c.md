@@ -3,9 +3,9 @@ title: "Section 1778c - Settlement funds"
 usc_title: 25
 usc_section: "1778c"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1778c"
-generated_at: "2026-03-30T04:39:06.195Z"
+generated_at: "2026-03-30T04:42:07.703Z"
 status: "active"
 ---
 
@@ -13,9 +13,9 @@ status: "active"
 
 - **(a)**
   - **(1)** There are established in the Treasury of the United States three settlement trust fund accounts to be known as the “Torres-Martinez Settlement Trust Funds Account”, the “Torres-Martinez Allottees Settlement Account I”, and the “Torres-Martinez Allottees Settlement Account II”, respectively.
-  - **(2)** Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c) of this section.
+  - **(2)** Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c).
 - **(b)**
-  - **(1)** Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) of this section shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
+  - **(1)** Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
   - **(2)** Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Coachella Valley Water District shall pay the sum of $337,908.41 to the United States for the benefit of the Tribe and any affected allottees.
   - **(3)** Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Imperial Irrigation District shall pay the sum of $3,670,694.33 to the United States for the benefit of the Tribe and any affected allottees.
   - **(4)** Within the time and upon the conditions specified in the Settlement Agreement, the United States shall pay into the three separate tribal and allottee trust fund accounts the total sum of $10,200,000, of which sum—

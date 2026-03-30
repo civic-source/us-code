@@ -3,9 +3,9 @@ title: "Section 953 - Declaratory statement as to reservoirs"
 usc_title: 43
 usc_section: "953"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "43 U.S.C. § 953"
-generated_at: "2026-03-30T04:40:02.203Z"
+generated_at: "2026-03-30T04:42:35.677Z"
 status: "active"
 ---
 

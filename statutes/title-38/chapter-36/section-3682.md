@@ -3,9 +3,9 @@ title: "Section 3682 - Control by agencies of the United States"
 usc_title: 38
 usc_section: "3682"
 chapter: 36
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "38 U.S.C. § 3682"
-generated_at: "2026-03-30T04:39:57.457Z"
+generated_at: "2026-03-30T04:42:32.513Z"
 status: "active"
 ---
 

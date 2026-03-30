@@ -3,9 +3,9 @@ title: "Section 6121to6127 - Omitted"
 usc_title: 20
 usc_section: "6121to6127"
 chapter: 69
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 6121to6127"
-generated_at: "2026-03-30T04:38:34.781Z"
+generated_at: "2026-03-30T04:42:01.042Z"
 status: "omitted"
 ---
 

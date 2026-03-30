@@ -3,9 +3,9 @@ title: "Section 30 - Change of name or location"
 usc_title: 12
 usc_section: "30"
 chapter: 2
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "12 U.S.C. § 30"
-generated_at: "2026-03-30T04:38:27.195Z"
+generated_at: "2026-03-30T04:41:37.933Z"
 status: "active"
 ---
 

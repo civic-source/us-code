@@ -3,9 +3,9 @@ title: "Section 1744 - Copies of United States Patent and Trademark Office docum
 usc_title: 28
 usc_section: "1744"
 chapter: 115
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "28 U.S.C. § 1744"
-generated_at: "2026-03-30T04:39:21.269Z"
+generated_at: "2026-03-30T04:42:16.124Z"
 status: "active"
 ---
 

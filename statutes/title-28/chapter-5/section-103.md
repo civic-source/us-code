@@ -3,9 +3,9 @@ title: "Section 103 - Minnesota"
 usc_title: 28
 usc_section: "103"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "28 U.S.C. § 103"
-generated_at: "2026-03-30T04:39:21.249Z"
+generated_at: "2026-03-30T04:42:16.107Z"
 status: "active"
 ---
 

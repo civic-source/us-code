@@ -3,9 +3,9 @@ title: "Section 7201 - Antidiscrimination policy; minority recruitment program"
 usc_title: 5
 usc_section: "7201"
 chapter: 72
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "5 U.S.C. § 7201"
-generated_at: "2026-03-30T04:38:05.860Z"
+generated_at: "2026-03-30T04:41:16.363Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50 - Other special rules"
 usc_title: 26
 usc_section: "50"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 50"
-generated_at: "2026-03-30T04:39:17.997Z"
+generated_at: "2026-03-30T04:42:23.995Z"
 status: "active"
 ---
 

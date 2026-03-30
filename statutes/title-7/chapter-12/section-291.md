@@ -3,9 +3,9 @@ title: "Section 291 - Authorization of associations; powers"
 usc_title: 7
 usc_section: "291"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "7 U.S.C. § 291"
-generated_at: "2026-03-30T04:38:22.371Z"
+generated_at: "2026-03-30T04:41:32.527Z"
 status: "active"
 ---
 

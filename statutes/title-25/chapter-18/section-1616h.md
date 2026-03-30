@@ -3,9 +3,9 @@ title: "Section 1616h - Health training programs of community colleges"
 usc_title: 25
 usc_section: "1616h"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1616h"
-generated_at: "2026-03-30T04:39:06.180Z"
+generated_at: "2026-03-30T04:42:07.687Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The Secretary, acting through the Service, shall award grants to community colleges for the purpose of assisting the community college in the establishment of programs which provide education in a health profession leading to a degree or diploma in a health profession for individuals who desire to practice such profession on an Indian reservation or in a tribal clinic.
   - **(2)** The amount of any grant awarded to a community college under paragraph (1) for the first year in which such a grant is provided to the community college shall not exceed $100,000.
 - **(b)**
-  - **(1)** The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
+  - **(1)** The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining the program and recruiting students for the program.
   - **(2)** Grants may only be made under this section to a community college which—
     - **(A)** is accredited,
     - **(B)** has access to a hospital facility, Service facility, or hospital that could provide training of nurses or health professionals,
@@ -23,8 +23,8 @@ status: "active"
       - **(i)** provide a program that enhances the transition and recruitment of students into advanced baccalaureate or graduate programs which train health professionals, and
       - **(ii)** stipulate certifications necessary to approve internship and field placement opportunities at service unit facilities of the Service or at tribal health facilities,
     - **(D)** has a qualified staff which has the appropriate certifications, and
-    - **(E)** is capable of obtaining State or regional accreditation of the program described in subsection (a)(1) of this section.
-- **(c)** The Secretary shall encourage community colleges described in subsection (b)(2) of this section to establish and maintain programs described in subsection (a)(1) of this section by—
+    - **(E)** is capable of obtaining State or regional accreditation of the program described in subsection (a)(1).
+- **(c)** The Secretary shall encourage community colleges described in subsection (b)(2) to establish and maintain programs described in subsection (a)(1) by—
   - **(1)** entering into agreements with such colleges for the provision of qualified personnel of the Service to teach courses of study in such programs, and
   - **(2)** providing technical assistance and support to such colleges.
 - **(d)** Any program receiving assistance under this section that is conducted with respect to a health profession shall also offer courses of study which provide advanced training for any health professional who—

@@ -3,9 +3,9 @@ title: "Section 1775g - Effect of revocation of State Agreement"
 usc_title: 25
 usc_section: "1775g"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1775g"
-generated_at: "2026-03-30T04:39:06.193Z"
+generated_at: "2026-03-30T04:42:07.701Z"
 status: "active"
 ---
 
@@ -16,8 +16,8 @@ status: "active"
   - **(2)** section 1775b of this title shall not apply to the lands or interests in lands or natural resources of the Mohegan Tribe or any of its members, and the title to the lands or interests in lands or natural resources shall be determined as if such section were never enacted; and
   - **(3)** the approval by the United States of prior transfers and the extinguishment of claims and aboriginal title of the Mohegan Tribe otherwise made under section 1775b of this title shall be void.
 - **(b)**
-  - **(1)** If a State Agreement or compact or agreement described in subsection (a) of this section is invalidated by a court of competent jurisdiction, the Mohegan Tribe or its members shall have the right to reinstate a claim to lands or interests in lands or natural resources to which the Tribe or members are entitled as a result of the invalidation, within a reasonable time, but not later than the later of—
-    - **(A)** 180 days after the Mohegan Tribe receives written notice of such determination of an invalidation described in subsection (a) of this section; or
+  - **(1)** If a State Agreement or compact or agreement described in subsection (a) is invalidated by a court of competent jurisdiction, the Mohegan Tribe or its members shall have the right to reinstate a claim to lands or interests in lands or natural resources to which the Tribe or members are entitled as a result of the invalidation, within a reasonable time, but not later than the later of—
+    - **(A)** 180 days after the Mohegan Tribe receives written notice of such determination of an invalidation described in subsection (a); or
     - **(B)** if the determination of the invalidation is subject to an appeal, 180 days after the court of last resort enters a judgment.
   - **(2)** Notwithstanding any other provision of law, if a party to an action described in paragraph (1) reinstates the action during the period described in paragraph (1)(B)—
     - **(A)** no defense, such as laches, statute of limitations, law of the case, res judicata, or prior disposition may be asserted based on the withdrawal of the action and reinstatement of the action; and

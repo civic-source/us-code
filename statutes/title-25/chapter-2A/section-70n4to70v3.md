@@ -3,9 +3,9 @@ title: "Section 70n4to70v3 - Omitted"
 usc_title: 25
 usc_section: "70n4to70v3"
 chapter: 2
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 70n4to70v3"
-generated_at: "2026-03-30T04:39:06.135Z"
+generated_at: "2026-03-30T04:42:07.642Z"
 status: "omitted"
 ---
 

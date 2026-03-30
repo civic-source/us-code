@@ -3,9 +3,9 @@ title: "Section 4834 - Findings and recommendations by a Board"
 usc_title: 22
 usc_section: "4834"
 chapter: 58
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 4834"
-generated_at: "2026-03-30T04:39:08.254Z"
+generated_at: "2026-03-30T04:42:13.342Z"
 status: "active"
 ---
 

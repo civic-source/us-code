@@ -3,9 +3,9 @@ title: "Section 860 - Art. 60. Action by the convening authority"
 usc_title: 10
 usc_section: "860"
 chapter: 47
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 860"
-generated_at: "2026-03-30T04:38:16.415Z"
+generated_at: "2026-03-30T04:41:26.891Z"
 status: "active"
 ---
 

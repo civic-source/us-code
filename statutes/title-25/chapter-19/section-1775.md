@@ -3,9 +3,9 @@ title: "Section 1775 - Findings and purposes"
 usc_title: 25
 usc_section: "1775"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1775"
-generated_at: "2026-03-30T04:39:06.193Z"
+generated_at: "2026-03-30T04:42:07.701Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
   - **(10)** The town of Montville and the Mohegan Tribe have entered into an agreement to resolve issues extant between them and to establish the basis for a cooperative government-to-government relationship.
 - **(b)** The purposes of this subchapter are as follows:
   - **(1)** To facilitate the settlement of claims against the State of Connecticut by the Mohegan Tribe.
-  - **(2)** To facilitate the removal of any encumbrance to any title to land in the State of Connecticut that would have resulted from the action referred to in subsection (a) of this section.
+  - **(2)** To facilitate the removal of any encumbrance to any title to land in the State of Connecticut that would have resulted from the action referred to in subsection (a).

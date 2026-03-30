@@ -3,9 +3,9 @@ title: "Section 7386to7386k - Transferred"
 usc_title: 42
 usc_section: "7386to7386k"
 chapter: 84
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 7386to7386k"
-generated_at: "2026-03-30T04:40:14.980Z"
+generated_at: "2026-03-30T04:42:53.650Z"
 status: "transferred"
 ---
 

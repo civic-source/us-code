@@ -3,9 +3,9 @@ title: "Section 864e - Repealed. Pub. L. 86–465, § 1 , May 13, 1960 , 74 Stat
 usc_title: 33
 usc_section: "864e"
 chapter: 17
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 864e"
-generated_at: "2026-03-30T04:39:40.551Z"
+generated_at: "2026-03-30T04:42:28.671Z"
 status: "repealed"
 ---
 

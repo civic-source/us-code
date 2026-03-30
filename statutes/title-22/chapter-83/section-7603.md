@@ -3,9 +3,9 @@ title: "Section 7603 - Purpose"
 usc_title: 22
 usc_section: "7603"
 chapter: 83
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 7603"
-generated_at: "2026-03-30T04:39:08.277Z"
+generated_at: "2026-03-30T04:42:13.366Z"
 status: "active"
 ---
 

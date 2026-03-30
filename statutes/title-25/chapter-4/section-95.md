@@ -3,9 +3,9 @@ title: "Section 95 - Repealed. Mar. 27, 1939, ch. 18 , 53 Stat. 551"
 usc_title: 25
 usc_section: "95"
 chapter: 4
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 95"
-generated_at: "2026-03-30T04:39:06.135Z"
+generated_at: "2026-03-30T04:42:07.642Z"
 status: "repealed"
 ---
 

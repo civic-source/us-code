@@ -3,9 +3,9 @@ title: "Section 510 - Authority to reorganize offices"
 usc_title: 38
 usc_section: "510"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "38 U.S.C. § 510"
-generated_at: "2026-03-30T04:39:57.433Z"
+generated_at: "2026-03-30T04:42:32.485Z"
 status: "active"
 ---
 

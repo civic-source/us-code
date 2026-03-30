@@ -3,9 +3,9 @@ title: "Section 796 - Reporting of energy information"
 usc_title: 15
 usc_section: "796"
 chapter: 16
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "15 U.S.C. § 796"
-generated_at: "2026-03-30T04:38:29.330Z"
+generated_at: "2026-03-30T04:41:39.923Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 [ 15 U.S.C. 751 et seq.]. 1 1 See References in Text note below. The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
 - **(b)**
-  - **(1)** In order to obtain energy information for the purpose of carrying out the provisions of subsection (a) of this section, the Federal Energy Administrator is authorized—
+  - **(1)** In order to obtain energy information for the purpose of carrying out the provisions of subsection (a), the Federal Energy Administrator is authorized—
     - **(A)** to require, by rule, any person who is engaged in the production, processing, refining, transportation by pipeline, or distribution (at other than the retail level) of energy resources to submit reports;
     - **(B)** to sign and issue subpenas for the attendance and testimony of witnesses and the production of books, records, papers, and other documents;
     - **(C)** to require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information; and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Federal Energy Administrator may determine; and
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** inspect, at reasonable times and in a reasonable manner, any such premise or facility, inventory and sample any stock of energy resources therein, and examine and copy books, records, papers, or other documents, relating to any such energy information.
   - **(3)** Any United States district court within the jurisdiction of which any inquiry is carried on may, upon petition by the Attorney General at the request of the Federal Energy Administrator, in the case of refusal to obey a subpena or order of the Federal Energy Administrator issued under this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 - **(c)**
-  - **(1)** The Federal Energy Administrator shall exercise the authorities granted to him under subsection (b)(1)(A) of this section to develop, within thirty days after June 22, 1974 , as full and accurate a measure as is reasonably practicable of—
+  - **(1)** The Federal Energy Administrator shall exercise the authorities granted to him under subsection (b)(1)(A) to develop, within thirty days after June 22, 1974 , as full and accurate a measure as is reasonably practicable of—
     - **(A)** domestic reserves and production;
     - **(B)** imports; and
     - **(C)** inventories;

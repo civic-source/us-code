@@ -3,9 +3,9 @@ title: "Section 6991a - Notification"
 usc_title: 42
 usc_section: "6991a"
 chapter: 82
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 6991a"
-generated_at: "2026-03-30T04:40:14.968Z"
+generated_at: "2026-03-30T04:42:53.639Z"
 status: "active"
 ---
 

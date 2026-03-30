@@ -3,9 +3,9 @@ title: "Section 2282c - Vertical integration and acceleration of studies"
 usc_title: 33
 usc_section: "2282c"
 chapter: 36
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 2282c"
-generated_at: "2026-03-30T04:39:40.584Z"
+generated_at: "2026-03-30T04:42:28.706Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(4)** The Secretary shall not extend the timeline for a feasibility study for a period of more than 7 years, and any feasibility study that is not completed before that date shall no longer be authorized.
 - **(e)** Not later than 90 days after the date of the initiation of a study described in subsection (a) for a project, the Secretary shall—
   - **(1)** take all steps necessary to initiate the process for completing federally mandated reviews that the Secretary is required to complete as part of the study, including the environmental review process under section 1005;
-  - **(2)** convene a meeting of all Federal, tribal, and State agencies identified under section 2348(e)of this title that may be required by law to conduct or issue a review, analysis, or opinion on or to make a determination concerning a permit or license for the study; and
+  - **(2)** convene a meeting of all Federal, tribal, and State agencies identified under section 2348(e) of this title that may be required by law to conduct or issue a review, analysis, or opinion on or to make a determination concerning a permit or license for the study; and
   - **(3)** take all steps necessary to provide information that will enable required reviews and analyses related to the project to be conducted by other agencies in a thorough and timely manner.
 - **(f)** Not later than 18 months after June 10, 2014 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
   - **(1)** the status of the implementation of the planning process under this section, including the number of participating projects;

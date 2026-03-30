@@ -3,9 +3,9 @@ title: "Section 1421to1425 - Repealed. Pub. L. 113–235, div. O, title I, § 10
 usc_title: 29
 usc_section: "1421to1425"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "29 U.S.C. § 1421to1425"
-generated_at: "2026-03-30T04:39:30.291Z"
+generated_at: "2026-03-30T04:42:25.179Z"
 status: "repealed"
 ---
 

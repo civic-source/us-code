@@ -3,9 +3,9 @@ title: "Section 226 - Lease of oil and gas lands"
 usc_title: 30
 usc_section: "226"
 chapter: 3
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "30 U.S.C. § 226"
-generated_at: "2026-03-30T04:39:10.855Z"
+generated_at: "2026-03-30T04:42:16.657Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)**
     - **(A)**
       - **(i)** If the lands to be leased are within a special tar sand area, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than 5,760 acres, which shall be as nearly compact as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary.
-      - **(ii)** Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c). 1 1 So in original. Probably should be subsection “(k)(1)(C)”.
+      - **(ii)** Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c). 1 1 So in original. Probably should be subsection “(k)(1)(C).”.
       - **(iii)** The Secretary may lease such additional lands in special tar sand areas as may be required in support of any operations necessary for the recovery of tar sands.
       - **(iv)** No lease issued under this paragraph shall be included in any chargeability limitation associated with oil and gas leases.
     - **(B)** For any area that contains any combination of tar sand and oil or gas (or both), the Secretary may issue under this chapter, separately—

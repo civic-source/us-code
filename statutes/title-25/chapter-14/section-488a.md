@@ -3,9 +3,9 @@ title: "Section 488a - Removal of duplicative appraisals"
 usc_title: 25
 usc_section: "488a"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 488a"
-generated_at: "2026-03-30T04:39:06.152Z"
+generated_at: "2026-03-30T04:42:07.659Z"
 status: "active"
 ---
 

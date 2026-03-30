@@ -3,9 +3,9 @@ title: "Section 10208 - Annual mobilization exercise"
 usc_title: 10
 usc_section: "10208"
 chapter: 1007
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 10208"
-generated_at: "2026-03-30T04:38:16.519Z"
+generated_at: "2026-03-30T04:41:26.998Z"
 status: "active"
 ---
 

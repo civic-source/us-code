@@ -3,9 +3,9 @@ title: "Section 1223 - Vessel operating requirements"
 usc_title: 33
 usc_section: "1223"
 chapter: 25
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 1223"
-generated_at: "2026-03-30T04:39:40.557Z"
+generated_at: "2026-03-30T04:42:28.678Z"
 status: "active"
 ---
 

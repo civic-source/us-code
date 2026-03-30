@@ -3,9 +3,9 @@ title: "Section 1771b - Approval of prior transfers and extinguishment of aborig
 usc_title: 25
 usc_section: "1771b"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1771b"
-generated_at: "2026-03-30T04:39:06.191Z"
+generated_at: "2026-03-30T04:42:07.699Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)**
   - **(1)** Any transfer before August 18, 1987 , of land or natural resources now located anywhere within the United States from, by, or on behalf of the Wampanoag Tribal Council of Gay Head, Inc., or (2) any transfer before August 18, 1987 , by, from, or on behalf of any Indian, Indian nation, or tribe or band of Indians, of any land or natural resources located anywhere within the town of Gay Head, Massachusetts, including any transfer pursuant to any statute of the State, and the incorporation of the town of Gay Head, shall be deemed to have been made in accordance with the Constitution and all laws of the United States that are specifically applicable to transfers of land or natural resources from, by, or on behalf of any Indian, Indian nation, or tribe or band of Indians (including the Trade and Intercourse Act of 1790, Act of July 22, 1790 (ch. 33, sec. 4, 1 Stat. 137 ), and all amendments thereto and all subsequent versions thereof). Any such transfer and any transfer in implementation of this subchapter, shall be deemed to have been made with the consent and approval of Congress as of the date of such transfer.
-- **(b)** Any aboriginal title held by the Wampanoag Tribal Council of Gay Head, Inc. or any other entity presently or at any time in the past known as the Gay Head Indians, to any land or natural resources the transfer of which is consented to and approved in subsection (a) of this section is considered extinguished as of the date of such transfer.
+- **(b)** Any aboriginal title held by the Wampanoag Tribal Council of Gay Head, Inc. or any other entity presently or at any time in the past known as the Gay Head Indians, to any land or natural resources the transfer of which is consented to and approved in subsection (a) is considered extinguished as of the date of such transfer.
 - **(c)** Any claim (including any claim for damages for use and occupancy) by the Wampanoag Tribal Council of Gay Head, Inc., the Gay Head Indians, or any other Indian, Indian nation, or tribe or band of Indians against the United States, any State or political subdivision of a State, or any other person which is based on—
-  - **(1)** any transfer of land or natural resources which is consented to and approved in subsection (a) of this section, or
-  - **(2)** any aboriginal title to land or natural resources the transfer of which is consented to and approved in subsection (b) of this section,
+  - **(1)** any transfer of land or natural resources which is consented to and approved in subsection (a), or
+  - **(2)** any aboriginal title to land or natural resources the transfer of which is consented to and approved in subsection (b),
 - **(d)** No provision of this section shall be construed to offset or eliminate the personal claim of any individual Indian which is pursued under any law of general applicability that protects non-Indians as well as Indians.

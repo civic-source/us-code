@@ -3,9 +3,9 @@ title: "Section 601 - Applicability"
 usc_title: 37
 usc_section: "601"
 chapter: 11
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "37 U.S.C. § 601"
-generated_at: "2026-03-30T04:39:42.637Z"
+generated_at: "2026-03-30T04:42:30.792Z"
 status: "active"
 ---
 

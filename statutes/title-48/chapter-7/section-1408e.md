@@ -3,9 +3,9 @@ title: "Section 1408e - Additional powers"
 usc_title: 48
 usc_section: "1408e"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "48 U.S.C. § 1408e"
-generated_at: "2026-03-30T04:40:22.365Z"
+generated_at: "2026-03-30T04:42:56.387Z"
 status: "active"
 ---
 

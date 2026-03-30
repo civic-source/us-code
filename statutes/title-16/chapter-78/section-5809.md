@@ -3,9 +3,9 @@ title: "Section 5809 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5809"
 chapter: 78
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 5809"
-generated_at: "2026-03-30T04:38:37.573Z"
+generated_at: "2026-03-30T04:41:59.320Z"
 status: "active"
 ---
 

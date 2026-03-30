@@ -3,9 +3,9 @@ title: "Section 1613a - Indian health professions scholarships"
 usc_title: 25
 usc_section: "1613a"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1613a"
-generated_at: "2026-03-30T04:39:06.179Z"
+generated_at: "2026-03-30T04:42:07.686Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** In order to provide health professionals to Indians, Indian tribes, tribal organizations, and urban Indian organizations, the Secretary, acting through the Service and in accordance with this section, shall make scholarship grants to Indians who are enrolled full or part time in appropriately accredited schools and pursuing courses of study in the health professions. Such scholarships shall be designated Indian Health Scholarships and shall be made in accordance with section 254 l of title 42, except as provided in subsection (b) of this section.
 - **(b)**
-  - **(1)** The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) of this section and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
-  - **(2)** An individual shall be eligible for a scholarship under subsection (a) of this section in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
+  - **(1)** The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
+  - **(2)** An individual shall be eligible for a scholarship under subsection (a) in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
   - **(3)**
     - **(A)** The active duty service obligation under a written contract with the Secretary under section 254 l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—
       - **(i)** in the Indian Health Service;

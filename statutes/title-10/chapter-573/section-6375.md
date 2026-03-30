@@ -3,9 +3,9 @@ title: "Section 6375 - Repealed. Pub. L. 87–123, § 5(26) , Aug. 3, 1961 , 75 
 usc_title: 10
 usc_section: "6375"
 chapter: 573
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 6375"
-generated_at: "2026-03-30T04:38:16.503Z"
+generated_at: "2026-03-30T04:41:26.981Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12145 - Temporary relief where lifts are unavailable"
 usc_title: 42
 usc_section: "12145"
 chapter: 126
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 12145"
-generated_at: "2026-03-30T04:40:15.081Z"
+generated_at: "2026-03-30T04:42:53.750Z"
 status: "active"
 ---
 

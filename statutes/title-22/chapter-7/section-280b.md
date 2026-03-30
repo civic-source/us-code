@@ -3,9 +3,9 @@ title: "Section 280b - Authorization of appropriations"
 usc_title: 22
 usc_section: "280b"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 280b"
-generated_at: "2026-03-30T04:39:08.169Z"
+generated_at: "2026-03-30T04:42:13.258Z"
 status: "active"
 ---
 

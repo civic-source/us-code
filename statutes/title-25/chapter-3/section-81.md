@@ -3,9 +3,9 @@ title: "Section 81 - Contracts and agreements with Indian tribes"
 usc_title: 25
 usc_section: "81"
 chapter: 3
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 81"
-generated_at: "2026-03-30T04:39:06.135Z"
+generated_at: "2026-03-30T04:42:07.642Z"
 status: "active"
 ---
 
@@ -16,14 +16,14 @@ status: "active"
   - **(2)** The term “Indian tribe” has the meaning given that term in section 450b(e) of this title .
   - **(3)** The term “Secretary” means the Secretary of the Interior.
 - **(b)** No agreement or contract with an Indian tribe that encumbers Indian lands for a period of 7 or more years shall be valid unless that agreement or contract bears the approval of the Secretary of the Interior or a designee of the Secretary.
-- **(c)** Subsection (b) of this section shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.
-- **(d)** The Secretary (or a designee of the Secretary) shall refuse to approve an agreement or contract that is covered under subsection (b) of this section if the Secretary (or a designee of the Secretary) determines that the agreement or contract—
+- **(c)** Subsection (b) shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.
+- **(d)** The Secretary (or a designee of the Secretary) shall refuse to approve an agreement or contract that is covered under subsection (b) if the Secretary (or a designee of the Secretary) determines that the agreement or contract—
   - **(1)** violates Federal law; or
   - **(2)** does not include a provision that—
     - **(A)** provides for remedies in the case of a breach of the agreement or contract;
     - **(B)** references a tribal code, ordinance, or ruling of a court of competent jurisdiction that discloses the right of the Indian tribe to assert sovereign immunity as a defense in an action brought against the Indian tribe; or
     - **(C)** includes an express waiver of the right of the Indian tribe to assert sovereign immunity as a defense in an action brought against the Indian tribe (including a waiver that limits the nature of relief that may be provided or the jurisdiction of a court with respect to such an action).
-- **(e)** Not later than 180 days after March 14, 2000 , the Secretary shall issue regulations for identifying types of agreements or contracts that are not covered under subsection (b) of this section.
+- **(e)** Not later than 180 days after March 14, 2000 , the Secretary shall issue regulations for identifying types of agreements or contracts that are not covered under subsection (b).
 - **(f)** Nothing in this section shall be construed to—
   - **(1)** require the Secretary to approve a contract for legal services by an attorney;
   - **(2)** amend or repeal the authority of the National Indian Gaming Commission under the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.); or

@@ -3,9 +3,9 @@ title: "Section 386 - Deposition"
 usc_title: 2
 usc_section: "386"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "2 U.S.C. § 386"
-generated_at: "2026-03-30T04:38:08.912Z"
+generated_at: "2026-03-30T04:40:57.482Z"
 status: "active"
 ---
 

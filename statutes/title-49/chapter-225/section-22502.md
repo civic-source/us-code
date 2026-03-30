@@ -3,9 +3,9 @@ title: "Section 22502 - Distribution"
 usc_title: 49
 usc_section: "22502"
 chapter: 225
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "49 U.S.C. § 22502"
-generated_at: "2026-03-30T04:40:22.035Z"
+generated_at: "2026-03-30T04:43:05.024Z"
 status: "active"
 ---
 

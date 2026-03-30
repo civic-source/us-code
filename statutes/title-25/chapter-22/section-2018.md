@@ -3,17 +3,17 @@ title: "Section 2018 - Regional meetings and negotiated rulemaking"
 usc_title: 25
 usc_section: "2018"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2018"
-generated_at: "2026-03-30T04:39:06.202Z"
+generated_at: "2026-03-30T04:42:07.710Z"
 status: "active"
 ---
 
 # § 2018. Regional meetings and negotiated rulemaking
 
-- **(a)** Prior to publishing any proposed regulations under subsection (b)(1) of this section, and prior to establishing the negotiated rulemaking committee under subsection (b)(3) of this section, the Secretary shall convene regional meetings to consult with personnel of the Office of Indian Education Programs, educators at Bureau schools, and tribal officials, parents, teachers, administrators, and school board members of tribes served by Bureau-funded schools to provide guidance to the Secretary on the content of regulations authorized to be promulgated under this chapter and the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
+- **(a)** Prior to publishing any proposed regulations under subsection (b)(1), and prior to establishing the negotiated rulemaking committee under subsection (b)(3), the Secretary shall convene regional meetings to consult with personnel of the Office of Indian Education Programs, educators at Bureau schools, and tribal officials, parents, teachers, administrators, and school board members of tribes served by Bureau-funded schools to provide guidance to the Secretary on the content of regulations authorized to be promulgated under this chapter and the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
 - **(b)**
-  - **(1)** Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) of this section and under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
+  - **(1)** Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) and under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
   - **(2)** If draft regulations implementing this chapter and the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.] are not promulgated in final form within 18 months after January 8, 2002 , the Secretary shall notify the appropriate committees of Congress of which draft regulations were not promulgated in final form by the deadline and the reason such final regulations were not promulgated.
   - **(3)** The Secretary shall establish a negotiated rulemaking committee to carry out this subsection. In establishing such committee, the Secretary shall—
     - **(A)** apply the procedures provided for under subchapter III of chapter 5 of title 5 in a manner that reflects the unique government-to-government relationship between Indian tribes and the United States;

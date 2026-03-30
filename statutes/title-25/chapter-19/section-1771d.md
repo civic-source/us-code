@@ -3,9 +3,9 @@ title: "Section 1771d - Purchase and transfer of settlement lands"
 usc_title: 25
 usc_section: "1771d"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1771d"
-generated_at: "2026-03-30T04:39:06.191Z"
+generated_at: "2026-03-30T04:42:07.699Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
 - **(b)** The Secretary is authorized and directed to cause a survey of the public settlement lands to be made within 60 days of acquiring title to the public settlement lands. The Secretary shall reimburse the Native American Rights Fund and the Gay Head Taxpayers Association for an appraisal of the private settlement lands done by Paul O’Leary dated May 1, 1987 . Such funds as may be necessary may be withdrawn from the Fund 1 1 So in original. Probably should not be capitalized. established in section 1771a(a) of this title and may be used for the purpose of conducting the survey and providing reimbursement for the appraisal.
-- **(c)** The Secretary shall expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., any remaining funds not required by subsection (a) or (b) of this section to acquire any additional lands that are contiguous to the private settlement lands. Any lands acquired pursuant to this section, and any other lands which are on and after August 12, 1987 , held in trust for the Wampanoag Tribal Council of Gay Head, Inc., any successor, or individual member, shall be subject to this subchapter, the Settlement Agreement and other applicable laws. Any after acquired land held in trust for the Wampanoag Tribal Council of Gay Head, Inc., any successor, or individual member, shall be subject to the same benefits and restrictions as apply to the most analogous land use described in the Settlement Agreement.
+- **(c)** The Secretary shall expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., any remaining funds not required by subsection (a) or (b) to acquire any additional lands that are contiguous to the private settlement lands. Any lands acquired pursuant to this section, and any other lands which are on and after August 12, 1987 , held in trust for the Wampanoag Tribal Council of Gay Head, Inc., any successor, or individual member, shall be subject to this subchapter, the Settlement Agreement and other applicable laws. Any after acquired land held in trust for the Wampanoag Tribal Council of Gay Head, Inc., any successor, or individual member, shall be subject to the same benefits and restrictions as apply to the most analogous land use described in the Settlement Agreement.
 - **(d)** Any right, title, or interest to lands acquired by the Secretary under this section, and the title to public settlement lands conveyed by the town of Gay Head, shall be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. and shall be subject to this subchapter, the Settlement Agreement, and other applicable laws.
 - **(e)** The Secretary is authorized to commence such condemnation proceedings as the Secretary may determine to be necessary—
   - **(1)** to acquire or perfect any right, title, or interest in any private settlement land, and

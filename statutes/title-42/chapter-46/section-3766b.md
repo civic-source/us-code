@@ -3,9 +3,9 @@ title: "Section 3766b - Reports"
 usc_title: 42
 usc_section: "3766b"
 chapter: 46
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 3766b"
-generated_at: "2026-03-30T04:40:14.883Z"
+generated_at: "2026-03-30T04:42:53.554Z"
 status: "active"
 ---
 

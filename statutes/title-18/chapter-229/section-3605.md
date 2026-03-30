@@ -3,9 +3,9 @@ title: "Section 3605 - Transfer of jurisdiction over a probationer"
 usc_title: 18
 usc_section: "3605"
 chapter: 229
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "18 U.S.C. § 3605"
-generated_at: "2026-03-30T04:38:47.843Z"
+generated_at: "2026-03-30T04:41:43.241Z"
 status: "active"
 ---
 

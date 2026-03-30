@@ -3,9 +3,9 @@ title: "Section 42107 - Refusal of clearance and entry"
 usc_title: 46
 usc_section: "42107"
 chapter: 421
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "46 U.S.C. § 42107"
-generated_at: "2026-03-30T04:40:19.058Z"
+generated_at: "2026-03-30T04:43:12.957Z"
 status: "active"
 ---
 

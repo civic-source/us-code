@@ -3,9 +3,9 @@ title: "Section 24 - Use of distributed funds"
 usc_title: 25
 usc_section: "24"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 24"
-generated_at: "2026-03-30T04:39:06.173Z"
+generated_at: "2026-03-30T04:42:07.681Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(B)** the amount of attorneys’ fees paid by a covered Indian tribe under this paragraph with funds distributed under section 1300d–23 of this title shall not exceed 10 percent of the amount distributed to that Indian tribe under that section;
   - **(6)** the payment of attorneys’ fees or expenses of the covered Indian tribe referred to in section 1300d–23(a)(2)(B) of this title for litigation and other representation for matters arising out of the enactment of part A of this subchapter, in accordance, as applicable, with the contracts numbered A00C14203382 and A00C14202991, that the Secretary approved on February 10, 1978 and August 16, 1988 , respectively; or
   - **(7)** the payment of attorneys’ fees or expenses of any covered Indian tribe referred to in section 1300d–23(a)(2) of this title for litigation or other representation with respect to matters arising out of this part.
-- **(c)** Subject to subsections (a), (b), and (d) of this section, any funds distributed to a covered Indian tribe pursuant to sections 1300d–23 and 1300d–26 of this title may be managed and invested by that Indian tribe pursuant to the American Indian Trust Fund Management Reform Act of 1994 ( 25 U.S.C. 4001 et seq.).
+- **(c)** Subject to subsections (a), (b), and (d), any funds distributed to a covered Indian tribe pursuant to sections 1300d–23 and 1300d–26 of this title may be managed and invested by that Indian tribe pursuant to the American Indian Trust Fund Management Reform Act of 1994 ( 25 U.S.C. 4001 et seq.).
 - **(d)**
   - **(1)** Subject to paragraph (2), each covered Indian tribe may, at the discretion of that Indian tribe, withdraw all or any portion of the funds distributed to the Indian tribe under sections 1300d–23 and 1300d–26 of this title in accordance with the American Indian Trust Fund Management Reform Act 1 1 So in original. Probably should be followed by “of 1994”. ( 25 U.S.C. 4001 et seq.).
   - **(2)** For purposes of paragraph (1), the requirements under subsections (a) and (b) of section 202 of the American Indian Trust Fund Management Reform Act 1 ( 25 U.S.C. 4022(a) and (b)) and section 203 of such Act ( 25 U.S.C. 4023 ) shall not apply to a covered Indian tribe or the Secretary.

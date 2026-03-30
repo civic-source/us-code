@@ -3,9 +3,9 @@ title: "Section 1349 - Attempt and conspiracy"
 usc_title: 18
 usc_section: "1349"
 chapter: 63
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "18 U.S.C. § 1349"
-generated_at: "2026-03-30T04:38:47.813Z"
+generated_at: "2026-03-30T04:41:43.212Z"
 status: "active"
 ---
 

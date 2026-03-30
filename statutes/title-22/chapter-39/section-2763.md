@@ -3,9 +3,9 @@ title: "Section 2763 - Credit sales"
 usc_title: 22
 usc_section: "2763"
 chapter: 39
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 2763"
-generated_at: "2026-03-30T04:39:08.227Z"
+generated_at: "2026-03-30T04:42:13.315Z"
 status: "active"
 ---
 

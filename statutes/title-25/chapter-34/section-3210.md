@@ -3,9 +3,9 @@ title: "Section 3210 - Indian Child Protection and Family Violence Prevention Pr
 usc_title: 25
 usc_section: "3210"
 chapter: 34
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 3210"
-generated_at: "2026-03-30T04:39:06.214Z"
+generated_at: "2026-03-30T04:42:07.722Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
   - **(2)** social services and case management;
   - **(3)** training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention, and treatment of family violence, child abuse, and child neglect; and
   - **(4)** law enforcement services, including investigations and prosecutions.
-- **(h)** Each recipient of funds awarded pursuant to subsection (a) of this section shall—
+- **(h)** Each recipient of funds awarded pursuant to subsection (a) shall—
   - **(1)** furnish the Secretary with such information as the Secretary may require to—
     - **(A)** evaluate the program for which the award is made, and
     - **(B)** ensure that funds are expended for the purposes for which the award was made; and

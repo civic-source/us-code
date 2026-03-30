@@ -3,9 +3,9 @@ title: "Section 1531to1536 - Omitted"
 usc_title: 20
 usc_section: "1531to1536"
 chapter: 35
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 1531to1536"
-generated_at: "2026-03-30T04:38:34.761Z"
+generated_at: "2026-03-30T04:42:01.021Z"
 status: "omitted"
 ---
 

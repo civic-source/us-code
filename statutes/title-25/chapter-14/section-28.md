@@ -3,9 +3,9 @@ title: "Section 28 - Life estates"
 usc_title: 25
 usc_section: "28"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 28"
-generated_at: "2026-03-30T04:39:06.158Z"
+generated_at: "2026-03-30T04:42:07.665Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** Applicants who are not at least 50 per centum disabled shall be ranked in order of their age with oldest listed first and the youngest listed last: Provided , That, if any applicant physically resides in quarter quad Nos. 78 NW, 77 NE, 77 NW, 55 SW, or 54 SE as designated on the Mediator’s partition map, such applicant shall be given priority over another applicant of equal age.
     - **(C)** Applicants who did not, as of December 22, 1974 , and continuously thereafter, maintain a separate place of abode and actually remain domiciled on Hopi partitioned lands, and who, but for this subsection would be required to relocate, shall be rejected by the Commissioner.
     - **(D)** Applicants who were not at least forty-nine years of age on December 22, 1974 , or are not at least 50 per centum disabled, shall also be rejected by the Commissioner.
-- **(d)** The Commissioner shall have authority to award life estate leases to not more than one hundred and twenty applicants with first priority being given to applicants listed pursuant to subsection (c)(A) of this section and the next priority being given to the applicants listed pursuant to subsection (c)(B) of this section, in order of such listing.
+- **(d)** The Commissioner shall have authority to award life estate leases to not more than one hundred and twenty applicants with first priority being given to applicants listed pursuant to subsection (c)(A) and the next priority being given to the applicants listed pursuant to subsection (c)(B), in order of such listing.
 - **(e)** Each life estate lease shall consist of a fenced area not exceeding ninety acres of land which shall include the life tenant’s present residence and may be used by the life tenant to feed not to exceed twenty-five sheep units per year or equivalent livestock. The Secretary, under existing authority, shall make available to life estate tenants such assistance during that tenure, as may be necessary to enable such tenant to feed such livestock at an adequate nutritional level.
 - **(f)** No person may reside on a life estate other than the life tenant, his or her spouse, and minor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
 - **(g)** The life estate tenure shall end by voluntary relinquishment, or at the death of the life tenant or the death of his or her spouse, whichever occurs last: Provided , That each survivorship right shall apply only to those persons who were lawfully married to each other on or before July 8, 1980 .

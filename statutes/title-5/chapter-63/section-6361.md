@@ -3,9 +3,9 @@ title: "Section 6361 - Definitions"
 usc_title: 5
 usc_section: "6361"
 chapter: 63
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "5 U.S.C. § 6361"
-generated_at: "2026-03-30T04:38:05.858Z"
+generated_at: "2026-03-30T04:41:16.361Z"
 status: "active"
 ---
 

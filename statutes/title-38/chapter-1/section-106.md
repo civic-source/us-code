@@ -3,9 +3,9 @@ title: "Section 106 - Certain service deemed to be active service"
 usc_title: 38
 usc_section: "106"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "38 U.S.C. § 106"
-generated_at: "2026-03-30T04:39:57.432Z"
+generated_at: "2026-03-30T04:42:32.483Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1854 - Action by Secretary"
 usc_title: 16
 usc_section: "1854"
 chapter: 38
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 1854"
-generated_at: "2026-03-30T04:38:37.532Z"
+generated_at: "2026-03-30T04:41:59.283Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6082 - Rations"
 usc_title: 10
 usc_section: "6082"
 chapter: 557
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 6082"
-generated_at: "2026-03-30T04:38:16.502Z"
+generated_at: "2026-03-30T04:41:26.980Z"
 status: "active"
 ---
 

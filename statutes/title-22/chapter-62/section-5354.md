@@ -3,9 +3,9 @@ title: "Section 5354 - Banks loan loss reserves"
 usc_title: 22
 usc_section: "5354"
 chapter: 62
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 5354"
-generated_at: "2026-03-30T04:39:08.256Z"
+generated_at: "2026-03-30T04:42:13.343Z"
 status: "active"
 ---
 

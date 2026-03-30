@@ -3,9 +3,9 @@ title: "Section 1776d - Establishment and administration of Crow Tribal Trust Fu
 usc_title: 25
 usc_section: "1776d"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1776d"
-generated_at: "2026-03-30T04:39:06.194Z"
+generated_at: "2026-03-30T04:42:07.702Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** There is established in the Treasury of the United States a trust fund to be known as the “Crow Tribal Trust Fund”.
-  - **(2)** Amounts in the Crow Tribal Trust Fund shall be available, without fiscal year limitation, to the Secretary for distribution to the Crow Tribe in accordance with subsection (d) of this section.
+  - **(2)** Amounts in the Crow Tribal Trust Fund shall be available, without fiscal year limitation, to the Secretary for distribution to the Crow Tribe in accordance with subsection (d).
 - **(b)**
   - **(1)** Subject to paragraph (2) and the requirements of section 1776h of this title —
     - **(A)** on or before November 30, 1994 , the Secretary of the Treasury shall deposit into the Crow Tribal Trust Fund an amount equal to the amounts of royalties received and retained by the United States during fiscal year 1994 from the East Decker, West Decker, and Spring Creek coal mines; and

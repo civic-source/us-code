@@ -3,9 +3,9 @@ title: "Section 3209 - Indian Child Resource and Family Services Centers"
 usc_title: 25
 usc_section: "3209"
 chapter: 34
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 3209"
-generated_at: "2026-03-30T04:39:06.214Z"
+generated_at: "2026-03-30T04:42:07.722Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** The Secretary shall establish within each area office of the Bureau an Indian Child Resource and Family Services Center.
 - **(b)** The Secretary and the Secretary of Health and Human Services shall enter into a Memorandum of Agreement which provides for the staffing of the Centers established under this section.
-- **(c)** Each Center established under subsection (a) of this section shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
-- **(d)** Each Center established under subsection (a) of this section shall—
+- **(c)** Each Center established under subsection (a) shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+- **(d)** Each Center established under subsection (a) shall—
   - **(1)** provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
   - **(2)** provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
   - **(3)** develop training materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes and to tribal organizations;
@@ -26,5 +26,5 @@ status: "active"
   - **(3)** juvenile counseling and adolescent mental health, and
   - **(4)** domestic violence.
 - **(f)** The Secretary, in consultation with the Secretary of Health and Human Services, shall establish, for each Indian Child Resource and Family Services Center, an advisory board to advise and assist such Center in carrying out its activities under this chapter. Each advisory board shall consist of 7 members appointed by the Secretary from Indian tribes and human service providers served by an area office of the Bureau. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training materials, and developing policies and procedures relating to family violence, child abuse, and child neglect.
-- **(g)** Indian Child Resource and Family Services Centers established under subsection (a) of this section shall be subject to the provisions of the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
+- **(g)** Indian Child Resource and Family Services Centers established under subsection (a) shall be subject to the provisions of the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
 - **(h)** There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.

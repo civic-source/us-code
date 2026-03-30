@@ -3,9 +3,9 @@ title: "Section 835l - Congressional declaration of financial policy; limitation
 usc_title: 16
 usc_section: "835l"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 835l"
-generated_at: "2026-03-30T04:38:37.492Z"
+generated_at: "2026-03-30T04:41:59.243Z"
 status: "active"
 ---
 

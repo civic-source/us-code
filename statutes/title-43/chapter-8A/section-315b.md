@@ -3,9 +3,9 @@ title: "Section 315b - Grazing permits; fees; vested water rights; permits not t
 usc_title: 43
 usc_section: "315b"
 chapter: 8
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "43 U.S.C. § 315b"
-generated_at: "2026-03-30T04:40:02.180Z"
+generated_at: "2026-03-30T04:42:35.655Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3316 - Supplemental educational assistance: members with critica
 usc_title: 38
 usc_section: "3316"
 chapter: 33
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "38 U.S.C. § 3316"
-generated_at: "2026-03-30T04:39:57.454Z"
+generated_at: "2026-03-30T04:42:32.509Z"
 status: "active"
 ---
 

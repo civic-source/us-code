@@ -3,9 +3,9 @@ title: "Section 2701 - Authority for appointment of certain scientific, engineer
 usc_title: 50
 usc_section: "2701"
 chapter: 42
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "50 U.S.C. § 2701"
-generated_at: "2026-03-30T04:40:38.954Z"
+generated_at: "2026-03-30T04:43:16.937Z"
 status: "active"
 ---
 

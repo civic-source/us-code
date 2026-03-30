@@ -3,9 +3,9 @@ title: "Section 2104 - Reviews of State court decisions"
 usc_title: 28
 usc_section: "2104"
 chapter: 133
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "28 U.S.C. § 2104"
-generated_at: "2026-03-30T04:39:21.271Z"
+generated_at: "2026-03-30T04:42:16.127Z"
 status: "active"
 ---
 

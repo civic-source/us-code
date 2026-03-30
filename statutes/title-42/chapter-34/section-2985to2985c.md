@@ -3,9 +3,9 @@ title: "Section 2985to2985c - Repealed. Pub. L. 97–35, title VI, § 683(a) , A
 usc_title: 42
 usc_section: "2985to2985c"
 chapter: 34
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 2985to2985c"
-generated_at: "2026-03-30T04:40:14.859Z"
+generated_at: "2026-03-30T04:42:53.530Z"
 status: "repealed"
 ---
 

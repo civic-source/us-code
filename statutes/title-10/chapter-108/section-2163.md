@@ -3,9 +3,9 @@ title: "Section 2163 - Degree granting authority for National Defense University
 usc_title: 10
 usc_section: "2163"
 chapter: 108
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 2163"
-generated_at: "2026-03-30T04:38:16.453Z"
+generated_at: "2026-03-30T04:41:26.930Z"
 status: "active"
 ---
 

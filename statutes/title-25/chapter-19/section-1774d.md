@@ -3,15 +3,15 @@ title: "Section 1774d - Settlement funds"
 usc_title: 25
 usc_section: "1774d"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1774d"
-generated_at: "2026-03-30T04:39:06.193Z"
+generated_at: "2026-03-30T04:42:07.701Z"
 status: "active"
 ---
 
 # § 1774d. Settlement funds
 
-- **(a)** In recognition of the findings and purposes specified in section 1774 of this title , the settlement funds provided pursuant to this subchapter shall be provided by the United States and the State. The Secretary may not obligate or expend funds provided under subsection (b) of this section until the Secretary determines that there is an agreed upon and signed memorandum of understanding.
+- **(a)** In recognition of the findings and purposes specified in section 1774 of this title , the settlement funds provided pursuant to this subchapter shall be provided by the United States and the State. The Secretary may not obligate or expend funds provided under subsection (b) until the Secretary determines that there is an agreed upon and signed memorandum of understanding.
 - **(b)**
   - **(1)** The Secretary shall pay to the Seneca Nation the amount of $30,000,000, which is the Federal share of the cash payment to be managed, invested, and used by the Nation to further specific objectives of the Nation and its members, all as determined by the Nation in accordance with the Constitution and laws of the Nation.
   - **(2)**

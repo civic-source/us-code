@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T04:39:18.049Z"
+generated_at: "2026-03-30T04:42:24.045Z"
 status: "active"
 ---
 

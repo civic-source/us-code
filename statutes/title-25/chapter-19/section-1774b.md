@@ -3,9 +3,9 @@ title: "Section 1774b - New leases and extinguishment of claims"
 usc_title: 25
 usc_section: "1774b"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1774b"
-generated_at: "2026-03-30T04:39:06.193Z"
+generated_at: "2026-03-30T04:42:07.700Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** The Seneca Nation shall execute appropriate documents relinquishing all claims against the United States, the State, the city, the congressional villages, and all prior lessees for payment of annual rents prior to February 20, 1991 , with respect to all prior and existing leases.
 - **(c)**
   - **(1)** The relinquishment of claims against the United States shall be effective upon payment by the United States to the Seneca Nation of the funds provided in section 1774d of this title .
-  - **(2)** The offers, and any acceptances thereof, referred to in subsection (a) of this section, and the relinquishment of claims against the State, the city, the congressional villages, and all prior lessees for payment of annual rents referred to in subsection (b) of this section shall not be binding on the Seneca Nation until after the later of the dates on which (1) Congress, or (2) the legislature of the State appropriates the amount of funds set forth in section 1774d of this title or the Seneca Nation and the State agree upon a schedule and mechanism for payments for funds pursuant to section 1774d(c) of this title . Such agreement shall render the offers, acceptances and the relinquishment effective so long as the payments are made as agreed upon by the Seneca Nation and the State.
+  - **(2)** The offers, and any acceptances thereof, referred to in subsection (a), and the relinquishment of claims against the State, the city, the congressional villages, and all prior lessees for payment of annual rents referred to in subsection (b) shall not be binding on the Seneca Nation until after the later of the dates on which (1) Congress, or (2) the legislature of the State appropriates the amount of funds set forth in section 1774d of this title or the Seneca Nation and the State agree upon a schedule and mechanism for payments for funds pursuant to section 1774d(c) of this title . Such agreement shall render the offers, acceptances and the relinquishment effective so long as the payments are made as agreed upon by the Seneca Nation and the State.

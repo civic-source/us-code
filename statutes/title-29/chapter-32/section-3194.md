@@ -3,9 +3,9 @@ title: "Section 3194 - Individuals eligible for the Job Corps"
 usc_title: 29
 usc_section: "3194"
 chapter: 32
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "29 U.S.C. § 3194"
-generated_at: "2026-03-30T04:39:30.306Z"
+generated_at: "2026-03-30T04:42:25.193Z"
 status: "active"
 ---
 

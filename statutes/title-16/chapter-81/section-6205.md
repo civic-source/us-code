@@ -3,9 +3,9 @@ title: "Section 6205 - Appraisals"
 usc_title: 16
 usc_section: "6205"
 chapter: 81
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 6205"
-generated_at: "2026-03-30T04:38:37.574Z"
+generated_at: "2026-03-30T04:41:59.321Z"
 status: "active"
 ---
 

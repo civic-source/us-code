@@ -3,9 +3,9 @@ title: "Section 816 - Judicial review of Commission orders"
 usc_title: 30
 usc_section: "816"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "30 U.S.C. § 816"
-generated_at: "2026-03-30T04:39:10.861Z"
+generated_at: "2026-03-30T04:42:16.664Z"
 status: "active"
 ---
 

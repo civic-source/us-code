@@ -3,9 +3,9 @@ title: "Section 189189a - Repealed. Pub. L. 91–412, § 3(b) , (c), Sept. 25, 1
 usc_title: 15
 usc_section: "189189a"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "15 U.S.C. § 189189a"
-generated_at: "2026-03-30T04:38:29.288Z"
+generated_at: "2026-03-30T04:41:39.884Z"
 status: "repealed"
 ---
 

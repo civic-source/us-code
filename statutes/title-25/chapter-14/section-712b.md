@@ -3,9 +3,9 @@ title: "Section 712b - Organization of tribe"
 usc_title: 25
 usc_section: "712b"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 712b"
-generated_at: "2026-03-30T04:39:06.162Z"
+generated_at: "2026-03-30T04:42:07.669Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** Not less than one year following October 26, 1987 , the tribe’s governing body may propose a new governing document or amendments or revisions to the interim governing document, and the Secretary shall conduct a tribal election as to the adoption of that proposed document within one hundred twenty days from the date it is submitted to the Bureau of Indian Affairs.
 - **(c)** The Secretary shall approve the new governing document if approved by a majority of the tribal voters unless he or she determines that such document is in violation of any laws of the United States.
 - **(d)** Until the tribe adopts and the Secretary approves a new governing document, its interim governing document shall be the tribal bylaws entitled “By-Laws of Cow Creek Band of Umpqua Tribe of Indians” which bear an “approved” date of “9–10–78,”.
-- **(e)** Until the tribe adopts a final governing document, the tribe’s governing body shall consist of its current board of directors elected at the tribe’s annual meeting of August 10, 1986 , or such new board members as are selected under election procedures of the interim governing document identified at subsection (d) of this section.
+- **(e)** Until the tribe adopts a final governing document, the tribe’s governing body shall consist of its current board of directors elected at the tribe’s annual meeting of August 10, 1986 , or such new board members as are selected under election procedures of the interim governing document identified at subsection (d).

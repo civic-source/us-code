@@ -3,15 +3,15 @@ title: "Section 1712 - Approval of prior transfers and extinguishment of claims 
 usc_title: 25
 usc_section: "1712"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1712"
-generated_at: "2026-03-30T04:39:06.189Z"
+generated_at: "2026-03-30T04:42:07.697Z"
 status: "active"
 ---
 
 # § 1712. Approval of prior transfers and extinguishment of claims and aboriginal title outside town of Charlestown, Rhode Island and involving other Indians in Rhode Island
 
-- **(a)** Except as provided in subsection (b) of this section—
+- **(a)** Except as provided in subsection (b)—
   - **(1)** any transfer of land or natural resources located anywhere within the State of Rhode Island outside the town of Charlestown from, by, or on behalf of any Indian, Indian nation, or tribe of Indians (other than transfers included in and approved by section 1705 of this title ), including but not limited to a transfer pursuant to any statute of any State, shall be deemed to have been made in accordance with the Constitution and all laws of the United States that are specifically applicable to transfers of land or natural resources from, by, or on behalf of any Indian, Indian nation, or tribe of Indians (including but not limited to the Trade and Intercourse Act of 1790, Act of July 22, 1790 (ch. 33, 1 Stat. 137 ), and all amendments thereto and all subsequent versions thereof), and Congress does hereby approve any such transfer effective as of the date of said transfer;
   - **(2)** to the extent that any transfer of land or natural resources described in paragraph (1) may involve land or natural resources to which such Indian, Indian nation, or tribe of Indians had aboriginal title, paragraph (1) shall be regarded as an extinguishment of such aboriginal title as of the date of said transfer; and
   - **(3)** by virtue of the approval of such transfers of land or natural resources effected by this subsection or an extinguishment of aboriginal title effected thereby, all claims against the United States, any State or subdivision thereof, or any other person or entity, by any such Indian, Indian nation, or tribe of Indians, arising subsequent to the transfer and based upon any interest in or rights involving such land or natural resources (including but not limited to claims for trespass damages or claims for use and occupancy), shall be regarded as extinguished as of the date of the transfer.

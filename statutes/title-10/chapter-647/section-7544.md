@@ -3,9 +3,9 @@ title: "Section 7544 - Devices and trophies: transfer to other agencies"
 usc_title: 10
 usc_section: "7544"
 chapter: 647
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 7544"
-generated_at: "2026-03-30T04:38:16.509Z"
+generated_at: "2026-03-30T04:41:26.987Z"
 status: "active"
 ---
 

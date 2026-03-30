@@ -3,9 +3,9 @@ title: "Section 3385 - Repealed. Pub. L. 100–297, title V, § 5352(2) , Apr. 2
 usc_title: 20
 usc_section: "3385"
 chapter: 47
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 3385"
-generated_at: "2026-03-30T04:38:34.769Z"
+generated_at: "2026-03-30T04:42:01.028Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1421l - Repealed. June 27, 1952, ch. 477, § 403(a)(42) , 66 Sta
 usc_title: 48
 usc_section: "1421l"
 chapter: 8
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "48 U.S.C. § 1421l"
-generated_at: "2026-03-30T04:40:22.366Z"
+generated_at: "2026-03-30T04:42:56.388Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 36 - Information technology professionals in health care"
 usc_title: 42
 usc_section: "36"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 36"
-generated_at: "2026-03-30T04:40:14.617Z"
+generated_at: "2026-03-30T04:42:53.292Z"
 status: "active"
 ---
 

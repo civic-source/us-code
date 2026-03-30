@@ -3,9 +3,9 @@ title: "Section 1779f - Release of other tribal claims and filing of claims"
 usc_title: 25
 usc_section: "1779f"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1779f"
-generated_at: "2026-03-30T04:39:06.196Z"
+generated_at: "2026-03-30T04:42:07.703Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(ii)** be compensable to a claimant tribe in any manner.
 - **(b)**
   - **(1)**
-    - **(A)** Not later than 180 days after December 13, 2002 , any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of section 1779c(a) of this title or subsection (a) of this section may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
+    - **(A)** Not later than 180 days after December 13, 2002 , any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of section 1779c(a) of this title or subsection (a) may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
     - **(B)** After the date described in subparagraph (A), a claimant tribe described in that subparagraph shall be barred from filing any claim described in that subparagraph.
   - **(2)**
     - **(A)** There is established in the Treasury, in addition to the accounts established by section 1779d(a) of this title , an interest-bearing special holding account for the benefit of the Indian Nations.
@@ -44,5 +44,5 @@ status: "active"
       - **(i)** any funds held in the special holding account under paragraph (2) and attributed to that Indian Nation shall be deposited in the appropriate tribal trust account established by section 1779d(a) 1 1 See References in Text note below. of this title; and
       - **(ii)** after the date that is 180 days after December 13, 2002 , paragraph (2)(B) shall not apply to appropriations attributed to that Indian Nation.
 - **(c)** Congress declares that—
-  - **(1)** subsection (b) of this section is intended only to establish a process by which alleged claims may be resolved; and
+  - **(1)** subsection (b) is intended only to establish a process by which alleged claims may be resolved; and
   - **(2)** nothing in this section acknowledges, enhances, or establishes any prior right, title, or interest of any claimant tribe in or to the Arkansas Riverbed.

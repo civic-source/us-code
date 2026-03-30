@@ -3,9 +3,9 @@ title: "Section 259to261a - Repealed. Pub. L. 106–310, div. B, title XXXIV, §
 usc_title: 42
 usc_section: "259to261a"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 259to261a"
-generated_at: "2026-03-30T04:40:14.522Z"
+generated_at: "2026-03-30T04:42:53.196Z"
 status: "repealed"
 ---
 

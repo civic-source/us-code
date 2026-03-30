@@ -3,9 +3,9 @@ title: "Section 136 - Chief judges; precedence of district judges"
 usc_title: 28
 usc_section: "136"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "28 U.S.C. § 136"
-generated_at: "2026-03-30T04:39:21.251Z"
+generated_at: "2026-03-30T04:42:16.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1805ato1805c - Repealed. Pub. L. 110–261, title IV, § 403(a)(
 usc_title: 50
 usc_section: "1805ato1805c"
 chapter: 36
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "50 U.S.C. § 1805ato1805c"
-generated_at: "2026-03-30T04:40:38.935Z"
+generated_at: "2026-03-30T04:43:16.919Z"
 status: "repealed"
 ---
 

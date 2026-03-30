@@ -3,9 +3,9 @@ title: "Section 70306 - Report on terrorist threats"
 usc_title: 46
 usc_section: "70306"
 chapter: 703
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "46 U.S.C. § 70306"
-generated_at: "2026-03-30T04:40:19.071Z"
+generated_at: "2026-03-30T04:43:12.970Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2505 - Duration of eligibility determination"
 usc_title: 25
 usc_section: "2505"
 chapter: 27
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2505"
-generated_at: "2026-03-30T04:39:06.208Z"
+generated_at: "2026-03-30T04:42:07.716Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** an annual financial audit conducted pursuant to the standards of the Single Audit Act of 1984 [ 31 U.S.C. 7501 et seq.];
     - **(C)** a biennial compliance audit of the procurement of personal property during the period for which the report is being prepared that shall be in compliance with written procurement standards that are developed by the local school board;
     - **(D)** an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
-    - **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii) 1 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”. of this section.
+    - **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). 1 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”.
   - **(2)** Where appropriate, other tribally controlled schools and representatives of tribally controlled community colleges shall make up members of the evaluation review teams.
   - **(3)** In the case of a school which is accredited, evaluations will be conducted at intervals under the terms of accreditation.
   - **(4)**
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** Not later than 30 days after receiving written confirmation that the tribal governing body has received the report sent pursuant to subparagraph (A), the recipient of the grant shall send a copy of the report to the Secretary.
 - **(c)**
   - **(1)** The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter if—
-    - **(A)** the Indian tribe or tribal organization submits the reports required under subsection (b) of this section with respect to the school; and
+    - **(A)** the Indian tribe or tribal organization submits the reports required under subsection (b) with respect to the school; and
     - **(B)** at least one of the following clauses applies with respect to the school:
       - **(i)** The school is certified or accredited by a State or regional accrediting association or is a candidate in good standing for such accreditation under the rules of the State or regional accrediting association, showing that credits achieved by the students within the education programs are, or will be, accepted at grade level by a State certified or regionally accredited institution.
       - **(ii)** The Secretary determines that there is a reasonable expectation that the certification or accreditation described in clause (i), or candidacy in good standing for such certification or accreditation, will be achieved by the school within 3 years. The school seeking accreditation shall remain under the standards of the Bureau in effect on January 8, 2002 , until such time as the school is accredited, except that if the Bureau standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.

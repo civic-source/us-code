@@ -3,9 +3,9 @@ title: "Section 5591to5595 - Repealed. Pub. L. 96–513, title III, § 323 , Dec
 usc_title: 10
 usc_section: "5591to5595"
 chapter: 539
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 5591to5595"
-generated_at: "2026-03-30T04:38:16.501Z"
+generated_at: "2026-03-30T04:41:26.979Z"
 status: "repealed"
 ---
 

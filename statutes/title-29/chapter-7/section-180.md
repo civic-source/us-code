@@ -3,9 +3,9 @@ title: "Section 180 - Discharge of injunction upon certification of results of e
 usc_title: 29
 usc_section: "180"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "29 U.S.C. § 180"
-generated_at: "2026-03-30T04:39:30.244Z"
+generated_at: "2026-03-30T04:42:25.131Z"
 status: "active"
 ---
 

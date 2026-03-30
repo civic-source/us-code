@@ -3,9 +3,9 @@ title: "Section 1754 - Mashantucket Pequot Settlement Fund"
 usc_title: 25
 usc_section: "1754"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1754"
-generated_at: "2026-03-30T04:39:06.191Z"
+generated_at: "2026-03-30T04:42:07.699Z"
 status: "active"
 ---
 
@@ -26,6 +26,6 @@ status: "active"
   - **(7)** Lands or natural resources acquired under this subsection which are located within the settlement lands shall be held in trust by the United States for the benefit of the Tribe.
   - **(8)** Land or natural resources acquired under this subsection which are located outside of the settlement lands shall be held in fee by the Mashantucket Pequot Tribe, and the United States shall have no further trust responsibility with respect to such land and natural resources. Such land and natural resources shall not be subject to any restriction against alienation under the laws of the United States.
   - **(9)** Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
-- **(c)** For the purpose of subtitle A of title 26, any transfer of private settlement lands to which subsection (b) of this section applies shall be deemed to be an involuntary conversion within the meaning of section 1033 of title 26 .
+- **(c)** For the purpose of subtitle A of title 26, any transfer of private settlement lands to which subsection (b) applies shall be deemed to be an involuntary conversion within the meaning of section 1033 of title 26 .
 - **(d)** The Secretary may not expend on behalf of the Tribe any sums deposited in the Fund established pursuant to subsection (a) of this section unless and until he finds that authorized officials of the Tribe have executed appropriate documents relinquishing all claims to the extent provided by sections 1753 and 1759 of this title, including stipulations to the final judicial dismissal with prejudice of its claims.
 - **(e)** There is authorized to be appropriated $900,000 to be deposited in the Fund.

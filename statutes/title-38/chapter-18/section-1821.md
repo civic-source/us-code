@@ -3,9 +3,9 @@ title: "Section 1821 - Benefits for children of certain Korea service veterans b
 usc_title: 38
 usc_section: "1821"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "38 U.S.C. § 1821"
-generated_at: "2026-03-30T04:39:57.442Z"
+generated_at: "2026-03-30T04:42:32.495Z"
 status: "active"
 ---
 

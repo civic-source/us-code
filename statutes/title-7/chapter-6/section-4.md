@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 7
 usc_section: "4"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T04:38:22.360Z"
+generated_at: "2026-03-30T04:41:32.516Z"
 status: "omitted"
 ---
 

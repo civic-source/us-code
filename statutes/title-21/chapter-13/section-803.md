@@ -3,9 +3,9 @@ title: "Section 803 - Repealed. Pub. L. 95–137, § 1(b) , Oct. 18, 1977 , 91 S
 usc_title: 21
 usc_section: "803"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "21 U.S.C. § 803"
-generated_at: "2026-03-30T04:38:52.750Z"
+generated_at: "2026-03-30T04:42:04.555Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1721 - Congressional findings and declaration of policy"
 usc_title: 25
 usc_section: "1721"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1721"
-generated_at: "2026-03-30T04:39:06.189Z"
+generated_at: "2026-03-30T04:42:07.697Z"
 status: "active"
 ---
 

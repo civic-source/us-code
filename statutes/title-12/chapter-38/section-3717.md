@@ -3,9 +3,9 @@ title: "Section 3717 - Regulations"
 usc_title: 12
 usc_section: "3717"
 chapter: 38
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "12 U.S.C. § 3717"
-generated_at: "2026-03-30T04:38:27.306Z"
+generated_at: "2026-03-30T04:41:38.044Z"
 status: "active"
 ---
 

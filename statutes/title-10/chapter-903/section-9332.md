@@ -3,9 +3,9 @@ title: "Section 9332 - Departments and professors: titles"
 usc_title: 10
 usc_section: "9332"
 chapter: 903
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 9332"
-generated_at: "2026-03-30T04:38:16.515Z"
+generated_at: "2026-03-30T04:41:26.993Z"
 status: "active"
 ---
 

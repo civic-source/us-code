@@ -3,9 +3,9 @@ title: "Section 4011 - Responsibility of Secretary to account for daily and annu
 usc_title: 25
 usc_section: "4011"
 chapter: 42
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 4011"
-generated_at: "2026-03-30T04:39:06.218Z"
+generated_at: "2026-03-30T04:42:07.726Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(3)** the gains and losses;
   - **(4)** receipts and disbursements; and
   - **(5)** the ending balance.
-- **(c)** The Secretary shall cause to be conducted an annual audit on a fiscal year basis of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title , and shall include a letter relating to the audit in the first statement of performance provided under subsection (b) of this section after the completion of the audit.
+- **(c)** The Secretary shall cause to be conducted an annual audit on a fiscal year basis of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title , and shall include a letter relating to the audit in the first statement of performance provided under subsection (b) after the completion of the audit.

@@ -3,9 +3,9 @@ title: "Section 629 - Criminal penalties"
 usc_title: 29
 usc_section: "629"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "29 U.S.C. § 629"
-generated_at: "2026-03-30T04:39:30.251Z"
+generated_at: "2026-03-30T04:42:25.137Z"
 status: "active"
 ---
 

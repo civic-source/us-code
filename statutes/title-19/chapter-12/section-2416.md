@@ -3,9 +3,9 @@ title: "Section 2416 - Monitoring of foreign compliance"
 usc_title: 19
 usc_section: "2416"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "19 U.S.C. § 2416"
-generated_at: "2026-03-30T04:38:32.944Z"
+generated_at: "2026-03-30T04:41:44.220Z"
 status: "active"
 ---
 

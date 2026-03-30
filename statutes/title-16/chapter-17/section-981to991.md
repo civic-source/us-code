@@ -3,9 +3,9 @@ title: "Section 981to991 - Repealed. Pub. L. 95–6, § 4 , Feb. 21, 1977 , 91 S
 usc_title: 16
 usc_section: "981to991"
 chapter: 17
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 981to991"
-generated_at: "2026-03-30T04:38:37.500Z"
+generated_at: "2026-03-30T04:41:59.251Z"
 status: "repealed"
 ---
 

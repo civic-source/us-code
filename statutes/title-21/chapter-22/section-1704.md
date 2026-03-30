@@ -3,9 +3,9 @@ title: "Section 1704 - Coordination with National Drug Control Program agencies 
 usc_title: 21
 usc_section: "1704"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "21 U.S.C. § 1704"
-generated_at: "2026-03-30T04:38:52.762Z"
+generated_at: "2026-03-30T04:42:04.567Z"
 status: "active"
 ---
 

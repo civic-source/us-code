@@ -3,9 +3,9 @@ title: "Section 312 - Militia duty: exemptions"
 usc_title: 10
 usc_section: "312"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 312"
-generated_at: "2026-03-30T04:38:16.403Z"
+generated_at: "2026-03-30T04:41:26.878Z"
 status: "active"
 ---
 

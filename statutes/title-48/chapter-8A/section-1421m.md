@@ -3,9 +3,9 @@ title: "Section 1421m - Repealed. Pub. L. 91–513, title III, § 1101(a)(8) , O
 usc_title: 48
 usc_section: "1421m"
 chapter: 8
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "48 U.S.C. § 1421m"
-generated_at: "2026-03-30T04:40:22.366Z"
+generated_at: "2026-03-30T04:42:56.388Z"
 status: "repealed"
 ---
 

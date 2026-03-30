@@ -3,9 +3,9 @@ title: "Section 2871to2877 - Repealed. Pub. L. 103–236, title III, § 310(e) ,
 usc_title: 22
 usc_section: "2871to2877"
 chapter: 43
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 2871to2877"
-generated_at: "2026-03-30T04:39:08.232Z"
+generated_at: "2026-03-30T04:42:13.319Z"
 status: "repealed"
 ---
 

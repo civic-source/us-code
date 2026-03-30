@@ -3,9 +3,9 @@ title: "Section 3661to3663 - Repealed. Pub. L. 90–377, § 6(1) , July 5, 1968 
 usc_title: 10
 usc_section: "3661to3663"
 chapter: 351
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 3661to3663"
-generated_at: "2026-03-30T04:38:16.493Z"
+generated_at: "2026-03-30T04:41:26.971Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5501 - Temporary appointments in case of vacancies or incapacity
 usc_title: 2
 usc_section: "5501"
 chapter: 55
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "2 U.S.C. § 5501"
-generated_at: "2026-03-30T04:38:08.942Z"
+generated_at: "2026-03-30T04:40:57.513Z"
 status: "active"
 ---
 

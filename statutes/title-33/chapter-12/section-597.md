@@ -3,9 +3,9 @@ title: "Section 597 - Acquisition of lands for water resource development projec
 usc_title: 33
 usc_section: "597"
 chapter: 12
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 597"
-generated_at: "2026-03-30T04:39:40.544Z"
+generated_at: "2026-03-30T04:42:28.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10903 - Filing and procedure for application to abandon or disco
 usc_title: 49
 usc_section: "10903"
 chapter: 109
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "49 U.S.C. § 10903"
-generated_at: "2026-03-30T04:40:22.022Z"
+generated_at: "2026-03-30T04:43:05.011Z"
 status: "active"
 ---
 

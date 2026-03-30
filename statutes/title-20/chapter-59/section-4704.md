@@ -3,9 +3,9 @@ title: "Section 4704 - Barry Goldwater scholarship and excellence in education a
 usc_title: 20
 usc_section: "4704"
 chapter: 59
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 4704"
-generated_at: "2026-03-30T04:38:34.777Z"
+generated_at: "2026-03-30T04:42:01.036Z"
 status: "active"
 ---
 

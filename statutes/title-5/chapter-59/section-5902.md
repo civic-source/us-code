@@ -3,9 +3,9 @@ title: "Section 5902 - Increase in maximum uniform allowance"
 usc_title: 5
 usc_section: "5902"
 chapter: 59
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "5 U.S.C. § 5902"
-generated_at: "2026-03-30T04:38:05.855Z"
+generated_at: "2026-03-30T04:41:16.357Z"
 status: "active"
 ---
 

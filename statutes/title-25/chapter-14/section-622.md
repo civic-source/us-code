@@ -3,9 +3,9 @@ title: "Section 622 - Exchange of tribal lands; title to lands"
 usc_title: 25
 usc_section: "622"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 622"
-generated_at: "2026-03-30T04:39:06.156Z"
+generated_at: "2026-03-30T04:42:07.663Z"
 status: "active"
 ---
 

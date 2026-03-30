@@ -3,9 +3,9 @@ title: "Section 4232 - Low-income requirement and income targeting"
 usc_title: 25
 usc_section: "4232"
 chapter: 43
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 4232"
-generated_at: "2026-03-30T04:39:06.223Z"
+generated_at: "2026-03-30T04:42:07.731Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
         - **(I)** avoid termination of low-income affordability, in the case of foreclosure; or
         - **(II)** transfer ownership in lieu of foreclosure; and
       - **(ii)** is not for the purpose of avoiding low-income affordability restrictions, as determined by the Secretary.
-- **(b)** Notwithstanding subsection (a) of this section, housing assistance pursuant to section 4228(a)(2)(B) of this title shall be considered affordable housing for purposes of this subchapter.
+- **(b)** Notwithstanding subsection (a), housing assistance pursuant to section 4228(a)(2)(B) of this title shall be considered affordable housing for purposes of this subchapter.

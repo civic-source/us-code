@@ -3,9 +3,9 @@ title: "Section 4116 - Regulations"
 usc_title: 25
 usc_section: "4116"
 chapter: 43
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 4116"
-generated_at: "2026-03-30T04:39:06.220Z"
+generated_at: "2026-03-30T04:42:07.728Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** Not later than 90 days after October 26, 1996 , the Secretary shall, by notice issued in the Federal Register, establish any requirements necessary to provide for the transition (upon the effectiveness of this chapter and the amendments made by this chapter) from the provision of assistance for Indian tribes and Indian housing authorities under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.] and other related provisions of law to the provision of assistance in accordance with this chapter and the amendments made by this chapter.
   - **(2)** The notice issued under paragraph (1) shall—
     - **(A)** invite public comments regarding such transition requirements and final regulations to carry out this chapter; and
-    - **(B)** include a general notice of proposed rulemaking (for purposes of section 564(a) of title 5 ) of the final regulations under subsection (b) of this section.
+    - **(B)** include a general notice of proposed rulemaking (for purposes of section 564(a) of title 5 ) of the final regulations under subsection (b).
 - **(b)**
   - **(1)** The Secretary shall issue final regulations necessary to carry out this chapter not later than September 1, 1997 , and such regulations shall take effect not later than the effective date of this chapter.
   - **(2)**

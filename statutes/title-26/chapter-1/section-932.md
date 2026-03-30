@@ -3,9 +3,9 @@ title: "Section 932 - Coordination of United States and Virgin Islands income ta
 usc_title: 26
 usc_section: "932"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 932"
-generated_at: "2026-03-30T04:39:18.107Z"
+generated_at: "2026-03-30T04:42:24.100Z"
 status: "active"
 ---
 

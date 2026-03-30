@@ -3,9 +3,9 @@ title: "Section 642 - Appointment of commissioners; vacancies; chairman; tenure 
 usc_title: 33
 usc_section: "642"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 642"
-generated_at: "2026-03-30T04:39:40.545Z"
+generated_at: "2026-03-30T04:42:28.664Z"
 status: "active"
 ---
 

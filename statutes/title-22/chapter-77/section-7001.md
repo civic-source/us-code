@@ -3,9 +3,9 @@ title: "Section 7001 - Authorizations of appropriations for broadcasting capital
 usc_title: 22
 usc_section: "7001"
 chapter: 77
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 7001"
-generated_at: "2026-03-30T04:39:08.271Z"
+generated_at: "2026-03-30T04:42:13.360Z"
 status: "active"
 ---
 

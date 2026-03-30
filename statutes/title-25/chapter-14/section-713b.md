@@ -3,16 +3,16 @@ title: "Section 713b - Restoration of Federal recognition, rights, and privilege
 usc_title: 25
 usc_section: "713b"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 713b"
-generated_at: "2026-03-30T04:39:06.162Z"
+generated_at: "2026-03-30T04:42:07.670Z"
 status: "active"
 ---
 
 # § 713b. Restoration of Federal recognition, rights, and privileges
 
 - **(a)** Notwithstanding any provision of the Act approved August 13, 1954 ( 25 U.S.C. 691 et seq.) or any other law, Federal recognition is extended to the Confederated Tribes of the Grand Ronde Community of Oregon and the corporate charter of such tribe issued pursuant to section 477 of this title and ratified by the tribe on August 22, 1936 , is reinstated. Except as otherwise provided in this subchapter, all laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians which are not inconsistent with any specific provision of this subchapter shall be applicable to the tribe.
-- **(b)** Except as provided in subsection (d) of this section, all rights and privileges of the tribe and the members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other Federal authority, which may have been diminished or lost under the Act approved August 13, 1954 ( 25 U.S.C. 691 et seq.) are restored, and the provisions of such subchapter shall be inapplicable to the tribe and to members of the tribe after November 22, 1983 .
+- **(b)** Except as provided in subsection (d), all rights and privileges of the tribe and the members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other Federal authority, which may have been diminished or lost under the Act approved August 13, 1954 ( 25 U.S.C. 691 et seq.) are restored, and the provisions of such subchapter shall be inapplicable to the tribe and to members of the tribe after November 22, 1983 .
 - **(c)** Notwithstanding any other provision of law, the tribe and its members shall be eligible, on and after November 22, 1983 , for all Federal services and benefits furnished to federally recognized Indian tribes without regard to the existence of a reservation for the tribe. In the case of Federal services available to members of federally recognized Indian tribes residing on or near a reservation, members of the tribe residing in the following counties of the State of Oregon shall be deemed to be residing on or near a reservation:
   - **(1)** Washington County.
   - **(2)** Marion County.

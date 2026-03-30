@@ -3,9 +3,9 @@ title: "Section 2123a - Research program"
 usc_title: 22
 usc_section: "2123a"
 chapter: 31
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 2123a"
-generated_at: "2026-03-30T04:39:08.193Z"
+generated_at: "2026-03-30T04:42:13.282Z"
 status: "active"
 ---
 

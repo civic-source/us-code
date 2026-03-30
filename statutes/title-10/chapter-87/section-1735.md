@@ -3,9 +3,9 @@ title: "Section 1735 - Education, training, and experience requirements for crit
 usc_title: 10
 usc_section: "1735"
 chapter: 87
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 1735"
-generated_at: "2026-03-30T04:38:16.448Z"
+generated_at: "2026-03-30T04:41:26.925Z"
 status: "active"
 ---
 

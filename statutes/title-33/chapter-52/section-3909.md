@@ -3,9 +3,9 @@ title: "Section 3909 - Program administration"
 usc_title: 33
 usc_section: "3909"
 chapter: 52
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 3909"
-generated_at: "2026-03-30T04:39:40.602Z"
+generated_at: "2026-03-30T04:42:28.726Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(2)** A servicer appointed under paragraph (1) shall act as the agent for the Secretary or the Administrator, as applicable.
   - **(3)** A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary or the Administrator, as applicable.
 - **(d)** The Secretary or the Administrator, as applicable, may retain the services, including counsel, of organizations and entities with expertise in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments provided under this chapter.
-- **(e)** Section 513 of the Federal Water Pollution Control Act ( 33 U.S.C. 1372 ) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act.
+- **(e)** Section 513 of the Federal Water Pollution Control Act ( 33 U.S.C. 1372 ) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [ 33 U.S.C. 1251 et seq.].

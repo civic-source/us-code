@@ -3,9 +3,9 @@ title: "Section 14403 - Restriction on use of Federal funds under certain grant 
 usc_title: 42
 usc_section: "14403"
 chapter: 138
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 14403"
-generated_at: "2026-03-30T04:40:15.137Z"
+generated_at: "2026-03-30T04:42:53.803Z"
 status: "active"
 ---
 

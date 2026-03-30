@@ -3,9 +3,9 @@ title: "Section 3310 - Quantities to order"
 usc_title: 41
 usc_section: "3310"
 chapter: 33
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "41 U.S.C. § 3310"
-generated_at: "2026-03-30T04:40:05.894Z"
+generated_at: "2026-03-30T04:42:34.993Z"
 status: "active"
 ---
 

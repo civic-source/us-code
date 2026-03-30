@@ -3,9 +3,9 @@ title: "Section 131 - Collections composing Library; location"
 usc_title: 2
 usc_section: "131"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "2 U.S.C. § 131"
-generated_at: "2026-03-30T04:38:08.906Z"
+generated_at: "2026-03-30T04:40:57.475Z"
 status: "active"
 ---
 

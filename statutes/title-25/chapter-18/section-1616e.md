@@ -3,9 +3,9 @@ title: "Section 1616e - Nursing program"
 usc_title: 25
 usc_section: "1616e"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 1616e"
-generated_at: "2026-03-30T04:39:06.179Z"
+generated_at: "2026-03-30T04:42:07.687Z"
 status: "active"
 ---
 
@@ -15,22 +15,22 @@ status: "active"
   - **(1)** public or private schools of nursing,
   - **(2)** tribally controlled community colleges and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) 1 1 See References in Text note below. of title 20), and
   - **(3)** nurse midwife programs, and nurse practitioner programs, that are provided by any public or private institution,
-- **(b)** Grants provided under subsection (a) of this section may be used to—
+- **(b)** Grants provided under subsection (a) may be used to—
   - **(1)** recruit individuals for programs which train individuals to be nurses, nurse midwives, or nurse practitioners,
   - **(2)** provide scholarships to individuals enrolled in such programs that may pay the tuition charged for such program and other expenses incurred in connection with such program, including books, fees, room and board, and stipends for living expenses,
   - **(3)** provide a program that encourages nurses, nurse midwives, and nurse practitioners to provide, or continue to provide, health care services to Indians,
   - **(4)** provide a program that increases the skills of, and provides continuing education to, nurses, nurse midwives, and nurse practitioners, or
-  - **(5)** provide any program that is designed to achieve the purpose described in subsection (a) of this section.
-- **(c)** Each application for a grant under subsection (a) of this section shall include such information as the Secretary may require to establish the connection between the program of the applicant and a health care facility that primarily serves Indians.
-- **(d)** In providing grants under subsection (a) of this section, the Secretary shall extend a preference to—
+  - **(5)** provide any program that is designed to achieve the purpose described in subsection (a).
+- **(c)** Each application for a grant under subsection (a) shall include such information as the Secretary may require to establish the connection between the program of the applicant and a health care facility that primarily serves Indians.
+- **(d)** In providing grants under subsection (a), the Secretary shall extend a preference to—
   - **(1)** programs that provide a preference to Indians,
   - **(2)** programs that train nurse midwives or nurse practitioners,
   - **(3)** programs that are interdisciplinary, and
   - **(4)** programs that are conducted in cooperation with a center for gifted and talented Indian students established under section 2624(a) 1 of this title.
-- **(e)** The Secretary shall provide one of the grants authorized under subsection (a) of this section to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title .
-- **(f)** The active duty service obligation prescribed under section 254m of title 42 shall be met by each individual who receives training or assistance described in paragraph (1) or (2) of subsection (b) of this section that is funded by a grant provided under subsection (a) of this section. Such obligation shall be met by service—
+- **(e)** The Secretary shall provide one of the grants authorized under subsection (a) to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title .
+- **(f)** The active duty service obligation prescribed under section 254m of title 42 shall be met by each individual who receives training or assistance described in paragraph (1) or (2) of subsection (b) that is funded by a grant provided under subsection (a). Such obligation shall be met by service—
     - **(A)** in the Indian Health Service;
     - **(B)** in a program conducted under a contract entered into under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.];
     - **(C)** in a program assisted under subchapter IV of this chapter; or
     - **(D)** in the private practice of nursing if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians.
-- **(g)** Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) of this section for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
+- **(g)** Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) for the training of nurse midwives, nurse anesthetists, and nurse practitioners.

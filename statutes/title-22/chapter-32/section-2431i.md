@@ -3,9 +3,9 @@ title: "Section 2431i - Board"
 usc_title: 22
 usc_section: "2431i"
 chapter: 32
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 2431i"
-generated_at: "2026-03-30T04:39:08.216Z"
+generated_at: "2026-03-30T04:42:13.304Z"
 status: "active"
 ---
 

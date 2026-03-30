@@ -3,9 +3,9 @@ title: "Section 556 - Hearings; presiding employees; powers and duties; burden o
 usc_title: 5
 usc_section: "556"
 chapter: 5
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "5 U.S.C. § 556"
-generated_at: "2026-03-30T04:38:05.833Z"
+generated_at: "2026-03-30T04:41:16.330Z"
 status: "active"
 ---
 

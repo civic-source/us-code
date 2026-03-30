@@ -3,9 +3,9 @@ title: "Section 1501to1509 - Transferred"
 usc_title: 50
 usc_section: "1501to1509"
 chapter: 31
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "50 U.S.C. § 1501to1509"
-generated_at: "2026-03-30T04:40:38.932Z"
+generated_at: "2026-03-30T04:43:16.916Z"
 status: "transferred"
 ---
 

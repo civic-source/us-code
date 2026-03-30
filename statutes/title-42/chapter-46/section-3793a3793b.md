@@ -3,9 +3,9 @@ title: "Section 3793a3793b - Repealed. Pub. L. 98–473, title II, § 609D(b) , 
 usc_title: 42
 usc_section: "3793a3793b"
 chapter: 46
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 3793a3793b"
-generated_at: "2026-03-30T04:40:14.885Z"
+generated_at: "2026-03-30T04:42:53.556Z"
 status: "repealed"
 ---
 

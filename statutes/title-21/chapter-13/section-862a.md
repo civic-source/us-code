@@ -3,9 +3,9 @@ title: "Section 862a - Denial of assistance and benefits for certain drug-relate
 usc_title: 21
 usc_section: "862a"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "21 U.S.C. § 862a"
-generated_at: "2026-03-30T04:38:52.755Z"
+generated_at: "2026-03-30T04:42:04.560Z"
 status: "active"
 ---
 

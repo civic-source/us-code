@@ -3,9 +3,9 @@ title: "Section 982 - Management of Corporation; appointment of Administrator; t
 usc_title: 33
 usc_section: "982"
 chapter: 19
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 982"
-generated_at: "2026-03-30T04:39:40.556Z"
+generated_at: "2026-03-30T04:42:28.677Z"
 status: "active"
 ---
 

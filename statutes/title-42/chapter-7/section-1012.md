@@ -3,9 +3,9 @@ title: "Section 1012 - Definitions"
 usc_title: 42
 usc_section: "1012"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 1012"
-generated_at: "2026-03-30T04:40:14.656Z"
+generated_at: "2026-03-30T04:42:53.331Z"
 status: "active"
 ---
 

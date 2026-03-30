@@ -3,9 +3,9 @@ title: "Section 462a - Repealed. Pub. L. 97–417, § 2(11) , Jan. 4, 1983 , 96 
 usc_title: 14
 usc_section: "462a"
 chapter: 13
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "14 U.S.C. § 462a"
-generated_at: "2026-03-30T04:38:24.598Z"
+generated_at: "2026-03-30T04:41:35.142Z"
 status: "repealed"
 ---
 

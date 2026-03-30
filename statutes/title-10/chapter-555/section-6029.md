@@ -3,9 +3,9 @@ title: "Section 6029 - Dental services: responsibilities of senior dental office
 usc_title: 10
 usc_section: "6029"
 chapter: 555
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 6029"
-generated_at: "2026-03-30T04:38:16.502Z"
+generated_at: "2026-03-30T04:41:26.979Z"
 status: "active"
 ---
 

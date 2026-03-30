@@ -3,9 +3,9 @@ title: "Section 450e - Wage and labor standards"
 usc_title: 25
 usc_section: "450e"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 450e"
-generated_at: "2026-03-30T04:39:06.145Z"
+generated_at: "2026-03-30T04:42:07.653Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** Any contract, subcontract, grant, or subgrant pursuant to this subchapter, the Act of April 16, 1934 ( 48 Stat. 596 ), as amended [ 25 U.S.C. 452 et seq.], or any other Act authorizing Federal contracts with or grants to Indian organizations or for the benefit of Indians, shall require that to the greatest extent feasible—
   - **(1)** preferences and opportunities for training and employment in connection with the administration of such contracts or grants shall be given to Indians; and
   - **(2)** preference in the award of subcontracts and subgrants in connection with the administration of such contracts or grants shall be given to Indian organizations and to Indian-owned economic enterprises as defined in section 1452 of this title .
-- **(c)** Notwithstanding subsections (a) and (b) of this section, with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
+- **(c)** Notwithstanding subsections (a) and (b), with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.

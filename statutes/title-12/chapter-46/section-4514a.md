@@ -3,9 +3,9 @@ title: "Section 4514a - Study and reports on guarantee fees"
 usc_title: 12
 usc_section: "4514a"
 chapter: 46
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "12 U.S.C. § 4514a"
-generated_at: "2026-03-30T04:38:27.314Z"
+generated_at: "2026-03-30T04:41:38.052Z"
 status: "active"
 ---
 

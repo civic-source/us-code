@@ -3,9 +3,9 @@ title: "Section 1147 - Application of national environmental policy provisions"
 usc_title: 30
 usc_section: "1147"
 chapter: 24
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "30 U.S.C. § 1147"
-generated_at: "2026-03-30T04:39:10.870Z"
+generated_at: "2026-03-30T04:42:16.672Z"
 status: "active"
 ---
 

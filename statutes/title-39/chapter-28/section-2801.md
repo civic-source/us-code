@@ -3,9 +3,9 @@ title: "Section 2801 - Definitions"
 usc_title: 39
 usc_section: "2801"
 chapter: 28
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "39 U.S.C. § 2801"
-generated_at: "2026-03-30T04:39:42.157Z"
+generated_at: "2026-03-30T04:42:32.699Z"
 status: "active"
 ---
 

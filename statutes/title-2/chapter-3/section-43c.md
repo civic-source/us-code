@@ -3,9 +3,9 @@ title: "Section 43c - Repealed. Pub. L. 89–147, § 4 , Aug. 28, 1965 , 79 Stat
 usc_title: 2
 usc_section: "43c"
 chapter: 3
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "2 U.S.C. § 43c"
-generated_at: "2026-03-30T04:38:08.904Z"
+generated_at: "2026-03-30T04:40:57.473Z"
 status: "repealed"
 ---
 

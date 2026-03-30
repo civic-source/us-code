@@ -3,9 +3,9 @@ title: "Section 31302 - Availability of instruments, copies, and information"
 usc_title: 46
 usc_section: "31302"
 chapter: 313
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "46 U.S.C. § 31302"
-generated_at: "2026-03-30T04:40:19.054Z"
+generated_at: "2026-03-30T04:43:12.954Z"
 status: "active"
 ---
 

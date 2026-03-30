@@ -3,9 +3,9 @@ title: "Section 1475h - Overseas public diplomacy grants"
 usc_title: 22
 usc_section: "1475h"
 chapter: 18
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 1475h"
-generated_at: "2026-03-30T04:39:08.186Z"
+generated_at: "2026-03-30T04:42:13.274Z"
 status: "active"
 ---
 

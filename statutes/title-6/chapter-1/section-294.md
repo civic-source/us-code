@@ -3,9 +3,9 @@ title: "Section 294 - Sense of Congress"
 usc_title: 6
 usc_section: "294"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "6 U.S.C. § 294"
-generated_at: "2026-03-30T04:38:10.775Z"
+generated_at: "2026-03-30T04:41:19.357Z"
 status: "active"
 ---
 

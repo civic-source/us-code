@@ -3,9 +3,9 @@ title: "Section 123 - Repealed. Feb. 23, 1931, ch. 276, § 22 , 46 Stat. 1210 , 
 usc_title: 22
 usc_section: "123"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 123"
-generated_at: "2026-03-30T04:39:08.160Z"
+generated_at: "2026-03-30T04:42:13.250Z"
 status: "repealed"
 ---
 

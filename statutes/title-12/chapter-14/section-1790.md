@@ -3,9 +3,9 @@ title: "Section 1790 - Nondiscriminatory provision"
 usc_title: 12
 usc_section: "1790"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "12 U.S.C. § 1790"
-generated_at: "2026-03-30T04:38:27.258Z"
+generated_at: "2026-03-30T04:41:37.995Z"
 status: "active"
 ---
 

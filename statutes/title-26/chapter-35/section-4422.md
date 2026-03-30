@@ -3,9 +3,9 @@ title: "Section 4422 - Applicability of Federal and State laws"
 usc_title: 26
 usc_section: "4422"
 chapter: 35
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 4422"
-generated_at: "2026-03-30T04:39:18.159Z"
+generated_at: "2026-03-30T04:42:24.151Z"
 status: "active"
 ---
 

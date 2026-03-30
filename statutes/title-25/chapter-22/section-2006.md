@@ -3,9 +3,9 @@ title: "Section 2006 - Bureau of Indian Affairs education functions"
 usc_title: 25
 usc_section: "2006"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2006"
-generated_at: "2026-03-30T04:39:06.200Z"
+generated_at: "2026-03-30T04:42:07.708Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** Not later than 180 days after January 8, 2002 , the Director of the Office shall direct and supervise the operations of all personnel directly and substantially involved in the provision of education program services by the Bureau, including school or institution custodial or maintenance personnel, and personnel responsible for contracting, procurement, and finance functions connected with school operation programs.
   - **(2)** The Assistant Secretary for Indian Affairs shall, not later than 180 days after January 8, 2002 , coordinate the transfer of functions relating to procurements for, contracts of, operation of, and maintenance of schools and other support functions to the Director.
 - **(c)** For purposes of this Act, all functions relating to education that are located at the Area or Agency level and performed by an education line officer shall be subject to contract under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.], unless determined by the Secretary to be inherently Federal functions as defined in section 2021(12) of this title .
-- **(d)** Education personnel who are under the direction and supervision of the Director of the Office of Indian Education Programs in accordance with subsection (b)(1) of this section shall—
+- **(d)** Education personnel who are under the direction and supervision of the Director of the Office of Indian Education Programs in accordance with subsection (b)(1) shall—
   - **(1)** monitor and evaluate Bureau education programs;
   - **(2)** provide all services and support functions for education programs with respect to personnel matters involving staffing actions and functions; and
   - **(3)** provide technical and coordinating assistance in areas such as procurement, contracting, budgeting, personnel, curriculum, and operation and maintenance of school facilities.

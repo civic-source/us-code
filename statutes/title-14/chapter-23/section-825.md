@@ -3,9 +3,9 @@ title: "Section 825 - Membership in other organizations"
 usc_title: 14
 usc_section: "825"
 chapter: 23
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "14 U.S.C. § 825"
-generated_at: "2026-03-30T04:38:24.602Z"
+generated_at: "2026-03-30T04:41:35.146Z"
 status: "active"
 ---
 

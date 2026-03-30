@@ -3,9 +3,9 @@ title: "Section 3004 - Summary for unassociated funerary objects, sacred objects
 usc_title: 25
 usc_section: "3004"
 chapter: 32
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 3004"
-generated_at: "2026-03-30T04:39:06.212Z"
+generated_at: "2026-03-30T04:42:07.720Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Each Federal agency or museum which has possession or control over holdings or collections of Native American unassociated funerary objects, sacred objects, or objects of cultural patrimony shall provide a written summary of such objects based upon available information held by such agency or museum. The summary shall describe the scope of the collection, kinds of objects included, reference to geographical location, means and period of acquisition and cultural affiliation, where readily ascertainable.
 - **(b)**
-  - **(1)** The summary required under subsection (a) of this section shall be—
+  - **(1)** The summary required under subsection (a) shall be—
     - **(A)** in lieu of an object-by-object inventory;
     - **(B)** followed by consultation with tribal government and Native Hawaiian organization officials and traditional religious leaders; and
     - **(C)** completed by not later than the date that is 3 years after November 16, 1990 .

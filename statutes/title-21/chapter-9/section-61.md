@@ -3,13 +3,13 @@ title: "Section 61 - Definitions"
 usc_title: 21
 usc_section: "61"
 chapter: 9
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "21 U.S.C. § 61"
-generated_at: "2026-03-30T04:38:52.735Z"
+generated_at: "2026-03-30T04:42:04.542Z"
 status: "active"
 ---
 
-# 379j–61. Definitions
+# § 379j–61. Definitions
 
 In this subpart:
 

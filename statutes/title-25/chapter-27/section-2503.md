@@ -3,9 +3,9 @@ title: "Section 2503 - Composition of grants"
 usc_title: 25
 usc_section: "2503"
 chapter: 27
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2503"
-generated_at: "2026-03-30T04:39:06.208Z"
+generated_at: "2026-03-30T04:42:07.716Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(C)** any other Federal education law, that are allocated to such schools for such fiscal year. 1 1 So in original. The words “, that are allocated to such schools for such fiscal year” probably should not appear.
 - **(b)**
   - **(1)**
-    - **(A)** Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
+    - **(A)** Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
       - **(i)** title I of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.];
       - **(ii)** the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.]; or
       - **(iii)** any Federal education law other than title XI of the Education Amendments of 1978 [ 25 U.S.C. 2000 et seq.].
@@ -44,7 +44,7 @@ status: "active"
     - **(C)** Notwithstanding subparagraph (A), a school receiving a grant under this chapter for facilities improvement and repair may use such grant funds for new construction if the tribal governing body or tribal organization that submits the application for the grant provides funding for the new construction equal to at least 25 percent of the total cost of such new construction.
     - **(D)** In a case in which the appropriations measure under which the funds described in subparagraph (A) are made available or the application submitted for the funds does not stipulate a period for the work covered by the funds, the Secretary and the grant recipient shall consult and determine such a period prior to the transfer of the funds. A period so determined may be extended upon mutual agreement of the Secretary and the grant recipient.
   - **(5)**
-    - **(A)** If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe 6 6 So in original. Probably should be “tribe’s”. or organization’s grant under this chapter the funds described in subsection (a)(2) of this section within 180 days after the filing of the request, the Secretary shall—
+    - **(A)** If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe 6 6 So in original. Probably should be “tribe’s”. or organization’s grant under this chapter the funds described in subsection (a)(2) within 180 days after the filing of the request, the Secretary shall—
       - **(i)** be deemed to have approved such request; and
       - **(ii)** immediately upon the expiration of such 180-day period amend the grant accordingly.
-    - **(B)** A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
+    - **(B)** A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.

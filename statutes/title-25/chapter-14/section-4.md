@@ -3,9 +3,9 @@ title: "Section 4 - Membership rolls"
 usc_title: 25
 usc_section: "4"
 chapter: 14
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 4"
-generated_at: "2026-03-30T04:39:06.177Z"
+generated_at: "2026-03-30T04:42:07.684Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
     - **(C)** such individual is identified as an Indian from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, in documents prepared by or at the direction of the Bureau of Indian Affairs, or in any other public or California mission records; or
     - **(D)** such individual is a lineal descendant of an individual, living or dead, identified in subparagraph (A), (B), or (C).
   - **(2)** After adoption of a tribal constitution under section 1300n–6 of this title , such tribal constitution shall govern membership in the Tribe.
-- **(c)** For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing Graton Indian ancestry. The Secretary shall accept as conclusive evidence of Graton Indian ancestry information contained in the census of the Indians from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, prepared by or at the direction of Special Indian Agent John J. Terrell in any other roll or census of Graton Indians prepared by or at the direction of the Bureau of Indian Affairs and in the Graton Indian Rancheria distribution list compiled by the Bureau of Indian Affairs and approved by the Secretary on September 17, 1959 .
+- **(c)** For the purpose of subsection (b), the Secretary shall accept any available evidence establishing Graton Indian ancestry. The Secretary shall accept as conclusive evidence of Graton Indian ancestry information contained in the census of the Indians from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, prepared by or at the direction of Special Indian Agent John J. Terrell in any other roll or census of Graton Indians prepared by or at the direction of the Bureau of Indian Affairs and in the Graton Indian Rancheria distribution list compiled by the Bureau of Indian Affairs and approved by the Secretary on September 17, 1959 .

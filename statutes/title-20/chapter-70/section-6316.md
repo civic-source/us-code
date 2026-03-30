@@ -3,9 +3,9 @@ title: "Section 6316 - Academic assessment and local educational agency and scho
 usc_title: 20
 usc_section: "6316"
 chapter: 70
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "20 U.S.C. § 6316"
-generated_at: "2026-03-30T04:38:34.784Z"
+generated_at: "2026-03-30T04:42:01.044Z"
 status: "active"
 ---
 

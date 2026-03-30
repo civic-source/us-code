@@ -3,9 +3,9 @@ title: "Section 110 - Saint Lawrence Seaway Development Corporation"
 usc_title: 49
 usc_section: "110"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "49 U.S.C. § 110"
-generated_at: "2026-03-30T04:40:22.005Z"
+generated_at: "2026-03-30T04:43:04.993Z"
 status: "active"
 ---
 

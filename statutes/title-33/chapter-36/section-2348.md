@@ -3,9 +3,9 @@ title: "Section 2348 - Project acceleration"
 usc_title: 33
 usc_section: "2348"
 chapter: 36
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "33 U.S.C. § 2348"
-generated_at: "2026-03-30T04:39:40.590Z"
+generated_at: "2026-03-30T04:42:28.712Z"
 status: "active"
 ---
 
@@ -123,7 +123,7 @@ status: "active"
         - **(I)** provided to each participating and cooperating agency and the project sponsor or joint lead agency, as applicable; and
         - **(II)** made available to the public.
   - **(2)** The Federal lead agency shall establish the following deadlines for comment during the environmental review process for a project study:
-    - **(A)** For comments by Federal and States agencies and the public on a draft environmental impact statement, a period of not more than 60 days after publication in the Federal Register of notice of the date of public availability of the draft environmental impact statement, unless—
+    - **(A)** For comments by Federal and States 1 1 So in original. Probably should be “State”. agencies and the public on a draft environmental impact statement, a period of not more than 60 days after publication in the Federal Register of notice of the date of public availability of the draft environmental impact statement, unless—
       - **(i)** a different deadline is established by agreement of the Federal lead agency, the project sponsor or joint lead agency, as applicable, and all participating and cooperating agencies; or
       - **(ii)** the deadline is extended by the Federal lead agency for good cause.
     - **(B)** For all other comment periods established by the Federal lead agency for agency or public comments in the environmental review process, a period of not more than 30 days after the date on which the materials on which comment is requested are made available, unless—
@@ -173,7 +173,7 @@ status: "active"
         - **(II)** not later than 90 days after the date on which the review described in subclause (I) is completed, submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the notice.
     - **(E)** The Federal agency from which funds are transferred pursuant to this paragraph shall not reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
     - **(F)** Nothing in this paragraph affects or limits the application of, or obligation to comply with, any Federal, State, local, or tribal law.
-      - **(i)**
+- **(i)**
   - **(1)** It is the sense of Congress that—
     - **(A)** the Secretary and other Federal agencies with relevant jurisdiction in the environmental review process should cooperate with each other, State agencies, and Indian tribes on environmental review and project delivery activities at the earliest practicable time to avoid delays and duplication of effort later in the process, prevent potential conflicts, and ensure that planning and project development decisions reflect environmental values; and
     - **(B)** the cooperation referred to in subparagraph (A) should include the development of policies and the designation of staff that advise planning agencies and project sponsors of studies or other information foreseeably required for later Federal action and early consultation with appropriate State and local agencies and Indian tribes.

@@ -3,9 +3,9 @@ title: "Section 280h - Grants to promote childhood nutrition and physical activi
 usc_title: 42
 usc_section: "280h"
 chapter: 6
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 280h"
-generated_at: "2026-03-30T04:40:14.533Z"
+generated_at: "2026-03-30T04:42:53.208Z"
 status: "active"
 ---
 

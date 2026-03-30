@@ -3,9 +3,9 @@ title: "Section 6211 - Consistency with other law and rights"
 usc_title: 16
 usc_section: "6211"
 chapter: 81
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "16 U.S.C. § 6211"
-generated_at: "2026-03-30T04:38:37.574Z"
+generated_at: "2026-03-30T04:41:59.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 
 usc_title: 43
 usc_section: "4"
 chapter: 16
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T04:40:02.198Z"
+generated_at: "2026-03-30T04:42:35.673Z"
 status: "repealed"
 ---
 

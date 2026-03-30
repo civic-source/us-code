@@ -3,9 +3,9 @@ title: "Section 3211 - Repealed. Pub. L. 96–513, title II, § 202 , Dec. 12, 1
 usc_title: 10
 usc_section: "3211"
 chapter: 331
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 3211"
-generated_at: "2026-03-30T04:38:16.492Z"
+generated_at: "2026-03-30T04:41:26.970Z"
 status: "repealed"
 ---
 

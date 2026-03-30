@@ -3,9 +3,9 @@ title: "Section 467c - Federal court jurisdiction of enforcement and injunction 
 usc_title: 21
 usc_section: "467c"
 chapter: 10
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "21 U.S.C. § 467c"
-generated_at: "2026-03-30T04:38:52.745Z"
+generated_at: "2026-03-30T04:42:04.551Z"
 status: "active"
 ---
 

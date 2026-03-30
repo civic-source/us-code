@@ -3,9 +3,9 @@ title: "Section 370to372 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(19
 usc_title: 26
 usc_section: "370to372"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "26 U.S.C. § 370to372"
-generated_at: "2026-03-30T04:39:18.042Z"
+generated_at: "2026-03-30T04:42:24.039Z"
 status: "repealed"
 ---
 

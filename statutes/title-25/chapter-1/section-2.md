@@ -3,9 +3,9 @@ title: "Section 2 - Enrollment and general assistance payments"
 usc_title: 25
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T04:39:06.134Z"
+generated_at: "2026-03-30T04:42:07.641Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
   - **(3)** a course the Secretary determines will lead to a high school diploma or an equivalent certificate; or
   - **(4)** other programs or training approved by the Secretary or by tribal education, employment or training programs.
 - **(b)** In determining the amount of general assistance provided by the Bureau of Indian Affairs, the Secretary of the Interior shall not include consideration of—
-  - **(1)** additional expenses in connection with the study or training described in subsection (a) of this section, and
+  - **(1)** additional expenses in connection with the study or training described in subsection (a), and
   - **(2)** the amount of any financial assistance received by the individual as a student or trainee.
 - **(c)** This section does not alter any eligibility requirement for general assistance from the Bureau of Indian Affairs other than the requirement to be available for employment and to seek employment.

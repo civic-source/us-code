@@ -3,9 +3,9 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-03-30T04:39:06.201Z"
+generated_at: "2026-03-30T04:42:07.709Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
 - **(d)** In carrying out this section, a local school board may request technical assistance and training from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
 - **(e)**
   - **(1)**
-    - **(A)** A financial plan under subsection (b) of this section for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
+    - **(A)** A financial plan under subsection (b) for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
     - **(B)** Any such program may include activities related to the prevention of alcohol and substance abuse.
     - **(C)** The Assistant Secretary for Indian Affairs shall provide for the use of any such school facility during any summer in which such use is requested.
   - **(2)** Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 [ 25 U.S.C. 452 et seq.], and this Act may be used to augment the services provided in each summer program at the option, and under the control, of the tribe or Indian controlled school receiving such funds.

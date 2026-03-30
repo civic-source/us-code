@@ -3,9 +3,9 @@ title: "Section 2706 - Administrative provisions"
 usc_title: 44
 usc_section: "2706"
 chapter: 27
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "44 U.S.C. § 2706"
-generated_at: "2026-03-30T04:39:59.689Z"
+generated_at: "2026-03-30T04:42:36.907Z"
 status: "active"
 ---
 

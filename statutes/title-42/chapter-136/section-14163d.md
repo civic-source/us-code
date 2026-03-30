@@ -3,9 +3,9 @@ title: "Section 14163d - Evaluations by Inspector General and administrative rem
 usc_title: 42
 usc_section: "14163d"
 chapter: 136
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "42 U.S.C. § 14163d"
-generated_at: "2026-03-30T04:40:15.135Z"
+generated_at: "2026-03-30T04:42:53.800Z"
 status: "active"
 ---
 

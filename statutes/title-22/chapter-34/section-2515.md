@@ -3,9 +3,9 @@ title: "Section 2515 - Foreign Currency Fluctuations Account"
 usc_title: 22
 usc_section: "2515"
 chapter: 34
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 2515"
-generated_at: "2026-03-30T04:39:08.219Z"
+generated_at: "2026-03-30T04:42:13.307Z"
 status: "active"
 ---
 

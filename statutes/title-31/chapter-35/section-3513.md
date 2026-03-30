@@ -3,9 +3,9 @@ title: "Section 3513 - Financial reporting and accounting system"
 usc_title: 31
 usc_section: "3513"
 chapter: 35
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "31 U.S.C. § 3513"
-generated_at: "2026-03-30T04:39:36.080Z"
+generated_at: "2026-03-30T04:42:27.812Z"
 status: "active"
 ---
 

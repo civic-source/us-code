@@ -3,9 +3,9 @@ title: "Section 214 - Offer for procurement of Federal Reserve bank loan and dis
 usc_title: 18
 usc_section: "214"
 chapter: 11
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "18 U.S.C. § 214"
-generated_at: "2026-03-30T04:38:47.792Z"
+generated_at: "2026-03-30T04:41:43.191Z"
 status: "active"
 ---
 

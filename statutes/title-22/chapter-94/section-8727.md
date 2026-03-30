@@ -3,9 +3,9 @@ title: "Section 8727 - Identification of, and immigration restrictions on, senio
 usc_title: 22
 usc_section: "8727"
 chapter: 94
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "22 U.S.C. § 8727"
-generated_at: "2026-03-30T04:39:08.289Z"
+generated_at: "2026-03-30T04:42:13.377Z"
 status: "active"
 ---
 

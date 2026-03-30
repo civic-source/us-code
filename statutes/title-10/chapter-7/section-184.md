@@ -3,9 +3,9 @@ title: "Section 184 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-30T04:38:16.400Z"
+generated_at: "2026-03-30T04:41:26.875Z"
 status: "active"
 ---
 

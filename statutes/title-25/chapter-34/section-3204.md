@@ -3,16 +3,16 @@ title: "Section 3204 - Central registry"
 usc_title: 25
 usc_section: "3204"
 chapter: 34
-current_through: "PL 114-49"
+current_through: "PL 114-51"
 classification: "25 U.S.C. § 3204"
-generated_at: "2026-03-30T04:39:06.214Z"
+generated_at: "2026-03-30T04:42:07.722Z"
 status: "active"
 ---
 
 # § 3204. Central registry
 
 - **(a)** The Secretary, in consultation with the Secretary of Health and Human Services and the Attorney General of the United States, is hereby authorized and directed to prepare a written study on the feasibility of, and need for, the establishment of a Central Register for reports or information on the abuse of children in Indian country.
-- **(b)** The study conducted pursuant to subsection (a) of this section shall include, but shall not be limited to—
+- **(b)** The study conducted pursuant to subsection (a) shall include, but shall not be limited to—
   - **(1)** the need for, and purpose of, a Central Register;
   - **(2)** the examination of due process implication of the maintenance of such a register;
   - **(3)** the extension of access to information contained in the register;
