@@ -3,9 +3,9 @@ title: "Section 2689 - Prohibited acts"
 usc_title: 15
 usc_section: "2689"
 chapter: 53
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "15 U.S.C. § 2689"
-generated_at: "2026-03-30T05:05:38.752Z"
+generated_at: "2026-03-30T05:08:11.773Z"
 status: "active"
 ---
 

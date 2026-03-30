@@ -3,9 +3,9 @@ title: "Section 575 - Acquisition program baseline breach"
 usc_title: 14
 usc_section: "575"
 chapter: 15
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "14 U.S.C. § 575"
-generated_at: "2026-03-30T05:05:26.102Z"
+generated_at: "2026-03-30T05:08:07.929Z"
 status: "active"
 ---
 

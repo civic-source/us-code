@@ -3,9 +3,9 @@ title: "Section 6 - Development of domestic sources"
 usc_title: 50
 usc_section: "6"
 chapter: 5
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-30T05:07:02.174Z"
+generated_at: "2026-03-30T05:09:19.024Z"
 status: "active"
 ---
 

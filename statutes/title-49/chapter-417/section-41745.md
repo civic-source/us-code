@@ -3,9 +3,9 @@ title: "Section 41745 - Community and regional choice programs"
 usc_title: 49
 usc_section: "41745"
 chapter: 417
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "49 U.S.C. § 41745"
-generated_at: "2026-03-30T05:07:05.792Z"
+generated_at: "2026-03-30T05:09:20.909Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2992a - Labor standards"
 usc_title: 42
 usc_section: "2992a"
 chapter: 34
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 2992a"
-generated_at: "2026-03-30T05:06:57.669Z"
+generated_at: "2026-03-30T05:09:13.934Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5403 - Environmental Quality Policy Statement"
 usc_title: 7
 usc_section: "5403"
 chapter: 85
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "7 U.S.C. § 5403"
-generated_at: "2026-03-30T05:05:23.995Z"
+generated_at: "2026-03-30T05:07:43.370Z"
 status: "active"
 ---
 

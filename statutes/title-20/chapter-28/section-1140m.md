@@ -3,9 +3,9 @@ title: "Section 1140m - Model demonstration programs to support improved access 
 usc_title: 20
 usc_section: "1140m"
 chapter: 28
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "20 U.S.C. § 1140m"
-generated_at: "2026-03-30T05:05:46.484Z"
+generated_at: "2026-03-30T05:08:30.950Z"
 status: "active"
 ---
 

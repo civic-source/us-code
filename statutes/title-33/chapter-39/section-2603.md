@@ -3,9 +3,9 @@ title: "Section 2603 - Waste handling practices"
 usc_title: 33
 usc_section: "2603"
 chapter: 39
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "33 U.S.C. § 2603"
-generated_at: "2026-03-30T05:06:38.578Z"
+generated_at: "2026-03-30T05:08:56.652Z"
 status: "active"
 ---
 

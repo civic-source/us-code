@@ -3,9 +3,9 @@ title: "Section 1701w - Budget, debt management, and related counseling services
 usc_title: 12
 usc_section: "1701w"
 chapter: 13
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "12 U.S.C. § 1701w"
-generated_at: "2026-03-30T05:05:35.062Z"
+generated_at: "2026-03-30T05:08:26.006Z"
 status: "active"
 ---
 

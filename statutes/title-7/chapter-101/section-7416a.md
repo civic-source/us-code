@@ -3,9 +3,9 @@ title: "Section 7416a - Confirmation of authority of Secretary of Agriculture to
 usc_title: 7
 usc_section: "7416a"
 chapter: 101
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "7 U.S.C. § 7416a"
-generated_at: "2026-03-30T05:05:24.019Z"
+generated_at: "2026-03-30T05:07:43.392Z"
 status: "active"
 ---
 

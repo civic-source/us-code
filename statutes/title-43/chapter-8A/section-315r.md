@@ -3,9 +3,9 @@ title: "Section 315r - Rental payments in advance in case of withdrawal of lands
 usc_title: 43
 usc_section: "315r"
 chapter: 8
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 315r"
-generated_at: "2026-03-30T05:06:45.196Z"
+generated_at: "2026-03-30T05:09:03.463Z"
 status: "active"
 ---
 

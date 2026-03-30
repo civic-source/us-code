@@ -3,9 +3,9 @@ title: "Section 2352 - Repealed. Pub. L. 89–773 , § 4, Nov. 6, 1966 , 80 Stat
 usc_title: 28
 usc_section: "2352"
 chapter: 158
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "28 U.S.C. § 2352"
-generated_at: "2026-03-30T05:06:24.189Z"
+generated_at: "2026-03-30T05:08:47.009Z"
 status: "repealed"
 ---
 

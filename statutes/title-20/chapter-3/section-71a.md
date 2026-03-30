@@ -3,9 +3,9 @@ title: "Section 71a - Additions; payment of construction costs from trust funds"
 usc_title: 20
 usc_section: "71a"
 chapter: 3
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "20 U.S.C. § 71a"
-generated_at: "2026-03-30T05:05:46.430Z"
+generated_at: "2026-03-30T05:08:30.892Z"
 status: "active"
 ---
 

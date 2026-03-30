@@ -3,9 +3,9 @@ title: "Section 3838f - Stewardship contracts"
 usc_title: 16
 usc_section: "3838f"
 chapter: 58
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 3838f"
-generated_at: "2026-03-30T05:05:48.957Z"
+generated_at: "2026-03-30T05:08:37.214Z"
 status: "active"
 ---
 

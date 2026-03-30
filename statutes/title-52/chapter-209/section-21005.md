@@ -3,9 +3,9 @@ title: "Section 21005 - Process for development and filing of plan; publication 
 usc_title: 52
 usc_section: "21005"
 chapter: 209
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "52 U.S.C. § 21005"
-generated_at: "2026-03-30T05:07:07.674Z"
+generated_at: "2026-03-30T05:09:23.061Z"
 status: "active"
 ---
 

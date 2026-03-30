@@ -3,9 +3,9 @@ title: "Section 5061 - Department of the Navy: composition"
 usc_title: 10
 usc_section: "5061"
 chapter: 507
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 5061"
-generated_at: "2026-03-30T05:05:10.070Z"
+generated_at: "2026-03-30T05:08:05.418Z"
 status: "active"
 ---
 

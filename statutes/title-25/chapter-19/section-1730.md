@@ -3,9 +3,9 @@ title: "Section 1730 - Transfer of tribal trust funds held by the State of Maine
 usc_title: 25
 usc_section: "1730"
 chapter: 19
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 1730"
-generated_at: "2026-03-30T05:05:53.806Z"
+generated_at: "2026-03-30T05:08:41.416Z"
 status: "active"
 ---
 

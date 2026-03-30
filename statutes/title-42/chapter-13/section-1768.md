@@ -3,9 +3,9 @@ title: "Section 1768 - Repealed. Pub. L. 99–500, title III , § 371(a)(1), Oct
 usc_title: 42
 usc_section: "1768"
 chapter: 13
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 1768"
-generated_at: "2026-03-30T05:06:57.623Z"
+generated_at: "2026-03-30T05:09:13.889Z"
 status: "repealed"
 ---
 

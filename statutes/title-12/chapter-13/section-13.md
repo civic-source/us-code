@@ -3,9 +3,9 @@ title: "Section 13 - Prohibition of requirement of minimum principal loan amount
 usc_title: 12
 usc_section: "13"
 chapter: 13
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "12 U.S.C. § 13"
-generated_at: "2026-03-30T05:05:35.082Z"
+generated_at: "2026-03-30T05:08:26.027Z"
 status: "active"
 ---
 

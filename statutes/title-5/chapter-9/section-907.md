@@ -3,9 +3,9 @@ title: "Section 907 - Effect on other laws, pending legal proceedings, and unexp
 usc_title: 5
 usc_section: "907"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 907"
-generated_at: "2026-03-30T05:04:55.917Z"
+generated_at: "2026-03-30T05:07:35.373Z"
 status: "active"
 ---
 

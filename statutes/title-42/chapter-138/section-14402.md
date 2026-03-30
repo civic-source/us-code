@@ -3,9 +3,9 @@ title: "Section 14402 - Restriction on use of Federal funds under health care pr
 usc_title: 42
 usc_section: "14402"
 chapter: 138
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 14402"
-generated_at: "2026-03-30T05:06:57.941Z"
+generated_at: "2026-03-30T05:09:14.208Z"
 status: "active"
 ---
 

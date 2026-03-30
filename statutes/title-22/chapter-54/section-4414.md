@@ -3,9 +3,9 @@ title: "Section 4414 - Requirements relating to the Endowment and its grantees"
 usc_title: 22
 usc_section: "4414"
 chapter: 54
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 4414"
-generated_at: "2026-03-30T05:06:16.071Z"
+generated_at: "2026-03-30T05:08:43.916Z"
 status: "active"
 ---
 

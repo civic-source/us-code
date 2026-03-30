@@ -3,9 +3,9 @@ title: "Section 396f - Acquisition of private lands; creation of surplus propert
 usc_title: 16
 usc_section: "396f"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 396f"
-generated_at: "2026-03-30T05:05:48.786Z"
+generated_at: "2026-03-30T05:08:37.035Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44106 - Conduct of proceedings"
 usc_title: 46
 usc_section: "44106"
 chapter: 441
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "46 U.S.C. § 44106"
-generated_at: "2026-03-30T05:07:02.945Z"
+generated_at: "2026-03-30T05:09:17.676Z"
 status: "active"
 ---
 

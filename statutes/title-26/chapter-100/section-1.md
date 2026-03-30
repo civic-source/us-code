@@ -3,9 +3,9 @@ title: "Section 1 - Additional market reforms"
 usc_title: 26
 usc_section: "1"
 chapter: 100
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-30T05:06:33.408Z"
+generated_at: "2026-03-30T05:08:53.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1511 - Suspension or termination of licenses"
 usc_title: 33
 usc_section: "1511"
 chapter: 29
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "33 U.S.C. § 1511"
-generated_at: "2026-03-30T05:06:38.565Z"
+generated_at: "2026-03-30T05:08:56.639Z"
 status: "active"
 ---
 

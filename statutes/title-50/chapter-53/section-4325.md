@@ -3,9 +3,9 @@ title: "Section 4325 - “Unallocated interest fund” defined"
 usc_title: 50
 usc_section: "4325"
 chapter: 53
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "50 U.S.C. § 4325"
-generated_at: "2026-03-30T05:07:02.234Z"
+generated_at: "2026-03-30T05:09:19.083Z"
 status: "active"
 ---
 

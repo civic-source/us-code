@@ -3,9 +3,9 @@ title: "Section 6723 - Allocation of amounts"
 usc_title: 42
 usc_section: "6723"
 chapter: 80
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 6723"
-generated_at: "2026-03-30T05:06:57.768Z"
+generated_at: "2026-03-30T05:09:14.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12645c - Limitation on program grant costs"
 usc_title: 42
 usc_section: "12645c"
 chapter: 129
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 12645c"
-generated_at: "2026-03-30T05:06:57.902Z"
+generated_at: "2026-03-30T05:09:14.166Z"
 status: "active"
 ---
 

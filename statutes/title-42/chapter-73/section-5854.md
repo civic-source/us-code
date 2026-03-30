@@ -3,9 +3,9 @@ title: "Section 5854 - Notification and reports by Chairman"
 usc_title: 42
 usc_section: "5854"
 chapter: 73
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 5854"
-generated_at: "2026-03-30T05:06:57.747Z"
+generated_at: "2026-03-30T05:09:14.008Z"
 status: "active"
 ---
 

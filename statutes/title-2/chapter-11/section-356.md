@@ -3,9 +3,9 @@ title: "Section 356 - Functions"
 usc_title: 2
 usc_section: "356"
 chapter: 11
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 356"
-generated_at: "2026-03-30T05:05:02.591Z"
+generated_at: "2026-03-30T05:07:20.573Z"
 status: "active"
 ---
 

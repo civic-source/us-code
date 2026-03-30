@@ -3,9 +3,9 @@ title: "Section 909 - Forfeiture of grant on failure to make deposit"
 usc_title: 43
 usc_section: "909"
 chapter: 21
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 909"
-generated_at: "2026-03-30T05:06:45.216Z"
+generated_at: "2026-03-30T05:09:03.483Z"
 status: "active"
 ---
 

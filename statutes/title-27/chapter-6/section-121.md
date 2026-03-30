@@ -3,9 +3,9 @@ title: "Section 121 - State statutes as operative on termination of transportati
 usc_title: 27
 usc_section: "121"
 chapter: 6
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "27 U.S.C. § 121"
-generated_at: "2026-03-30T05:06:19.776Z"
+generated_at: "2026-03-30T05:08:45.538Z"
 status: "active"
 ---
 

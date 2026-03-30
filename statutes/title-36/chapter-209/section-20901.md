@@ -3,9 +3,9 @@ title: "Section 20901 - Definition"
 usc_title: 36
 usc_section: "20901"
 chapter: 209
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "36 U.S.C. § 20901"
-generated_at: "2026-03-30T05:06:40.956Z"
+generated_at: "2026-03-30T05:08:59.132Z"
 status: "active"
 ---
 

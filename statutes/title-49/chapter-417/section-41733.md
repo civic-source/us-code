@@ -3,9 +3,9 @@ title: "Section 41733 - Level of basic essential air service"
 usc_title: 49
 usc_section: "41733"
 chapter: 417
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "49 U.S.C. § 41733"
-generated_at: "2026-03-30T05:07:05.791Z"
+generated_at: "2026-03-30T05:09:20.908Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1396g - State programs for licensing of administrators of nursin
 usc_title: 42
 usc_section: "1396g"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 1396g"
-generated_at: "2026-03-30T05:06:57.566Z"
+generated_at: "2026-03-30T05:09:13.835Z"
 status: "active"
 ---
 

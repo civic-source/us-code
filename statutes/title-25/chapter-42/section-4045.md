@@ -3,9 +3,9 @@ title: "Section 4045 - Staff and consultants"
 usc_title: 25
 usc_section: "4045"
 chapter: 42
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 4045"
-generated_at: "2026-03-30T05:05:53.835Z"
+generated_at: "2026-03-30T05:08:41.444Z"
 status: "active"
 ---
 

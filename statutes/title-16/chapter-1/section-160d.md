@@ -3,9 +3,9 @@ title: "Section 160d - Concession contracts with former owners of commercial, re
 usc_title: 16
 usc_section: "160d"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 160d"
-generated_at: "2026-03-30T05:05:48.776Z"
+generated_at: "2026-03-30T05:08:37.024Z"
 status: "active"
 ---
 

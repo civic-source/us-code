@@ -3,9 +3,9 @@ title: "Section 2364 - Coordination and communication of defense research activi
 usc_title: 10
 usc_section: "2364"
 chapter: 139
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 2364"
-generated_at: "2026-03-30T05:05:10.036Z"
+generated_at: "2026-03-30T05:08:05.387Z"
 status: "active"
 ---
 

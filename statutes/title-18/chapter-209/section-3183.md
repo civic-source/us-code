@@ -3,9 +3,9 @@ title: "Section 3183 - Fugitives from State, Territory, or Possession into extra
 usc_title: 18
 usc_section: "3183"
 chapter: 209
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "18 U.S.C. § 3183"
-generated_at: "2026-03-30T05:05:42.025Z"
+generated_at: "2026-03-30T05:08:34.194Z"
 status: "active"
 ---
 

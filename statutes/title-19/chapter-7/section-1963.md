@@ -3,9 +3,9 @@ title: "Section 1963 - Repealed. Pub. L. 93–618, title VI , § 602(e), Jan. 3,
 usc_title: 19
 usc_section: "1963"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 1963"
-generated_at: "2026-03-30T05:05:44.242Z"
+generated_at: "2026-03-30T05:08:32.045Z"
 status: "repealed"
 ---
 

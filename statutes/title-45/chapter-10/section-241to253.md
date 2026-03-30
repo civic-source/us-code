@@ -3,9 +3,9 @@ title: "Section 241to253 - Repealed. June 29, 1937, ch. 405, § 11 , 50 Stat. 44
 usc_title: 45
 usc_section: "241to253"
 chapter: 10
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "45 U.S.C. § 241to253"
-generated_at: "2026-03-30T05:06:45.901Z"
+generated_at: "2026-03-30T05:09:04.127Z"
 status: "repealed"
 ---
 

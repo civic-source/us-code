@@ -3,9 +3,9 @@ title: "Section 1592d - Secretary’s powers with respect to housing, facilities
 usc_title: 42
 usc_section: "1592d"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 1592d"
-generated_at: "2026-03-30T05:06:57.615Z"
+generated_at: "2026-03-30T05:09:13.881Z"
 status: "active"
 ---
 

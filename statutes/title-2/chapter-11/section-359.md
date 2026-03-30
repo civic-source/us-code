@@ -3,9 +3,9 @@ title: "Section 359 - Effective date of recommendations of President"
 usc_title: 2
 usc_section: "359"
 chapter: 11
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 359"
-generated_at: "2026-03-30T05:05:02.591Z"
+generated_at: "2026-03-30T05:07:20.573Z"
 status: "active"
 ---
 

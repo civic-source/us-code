@@ -3,9 +3,9 @@ title: "Section 306 - Foreign ships; application of section 301"
 usc_title: 47
 usc_section: "306"
 chapter: 5
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "47 U.S.C. § 306"
-generated_at: "2026-03-30T05:07:00.704Z"
+generated_at: "2026-03-30T05:09:16.777Z"
 status: "active"
 ---
 

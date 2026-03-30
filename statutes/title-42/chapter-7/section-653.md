@@ -3,9 +3,9 @@ title: "Section 653 - Federal Parent Locator Service"
 usc_title: 42
 usc_section: "653"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 653"
-generated_at: "2026-03-30T05:06:57.441Z"
+generated_at: "2026-03-30T05:09:13.718Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7382e - Waste management education research consortium (WERC)"
 usc_title: 42
 usc_section: "7382e"
 chapter: 84
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 7382e"
-generated_at: "2026-03-30T05:06:57.789Z"
+generated_at: "2026-03-30T05:09:14.049Z"
 status: "active"
 ---
 

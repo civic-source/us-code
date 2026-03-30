@@ -3,9 +3,9 @@ title: "Section 6975 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "6975"
 chapter: 603
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 6975"
-generated_at: "2026-03-30T05:05:10.075Z"
+generated_at: "2026-03-30T05:08:05.424Z"
 status: "active"
 ---
 

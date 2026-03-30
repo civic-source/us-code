@@ -3,9 +3,9 @@ title: "Section 8746 - Silver star: award"
 usc_title: 10
 usc_section: "8746"
 chapter: 857
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 8746"
-generated_at: "2026-03-30T05:05:10.084Z"
+generated_at: "2026-03-30T05:08:05.431Z"
 status: "active"
 ---
 

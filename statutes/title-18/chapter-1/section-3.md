@@ -3,9 +3,9 @@ title: "Section 3 - Accessory after the fact"
 usc_title: 18
 usc_section: "3"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "18 U.S.C. § 3"
-generated_at: "2026-03-30T05:05:41.981Z"
+generated_at: "2026-03-30T05:08:34.150Z"
 status: "active"
 ---
 

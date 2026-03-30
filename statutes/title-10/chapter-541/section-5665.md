@@ -3,9 +3,9 @@ title: "Section 5665 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "5665"
 chapter: 541
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 5665"
-generated_at: "2026-03-30T05:05:10.071Z"
+generated_at: "2026-03-30T05:08:05.420Z"
 status: "repealed"
 ---
 

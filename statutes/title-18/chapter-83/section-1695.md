@@ -3,9 +3,9 @@ title: "Section 1695 - Carriage of matter out of mail on vessels"
 usc_title: 18
 usc_section: "1695"
 chapter: 83
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "18 U.S.C. § 1695"
-generated_at: "2026-03-30T05:05:42.007Z"
+generated_at: "2026-03-30T05:08:34.176Z"
 status: "active"
 ---
 

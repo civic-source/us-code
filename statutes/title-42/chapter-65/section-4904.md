@@ -3,9 +3,9 @@ title: "Section 4904 - Identification of major noise sources"
 usc_title: 42
 usc_section: "4904"
 chapter: 65
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 4904"
-generated_at: "2026-03-30T05:06:57.719Z"
+generated_at: "2026-03-30T05:09:13.981Z"
 status: "active"
 ---
 

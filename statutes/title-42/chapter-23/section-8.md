@@ -3,9 +3,9 @@ title: "Section 8 - Employee protections"
 usc_title: 42
 usc_section: "8"
 chapter: 23
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T05:06:57.664Z"
+generated_at: "2026-03-30T05:09:13.928Z"
 status: "active"
 ---
 

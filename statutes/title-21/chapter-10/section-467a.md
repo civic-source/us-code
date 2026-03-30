@@ -3,9 +3,9 @@ title: "Section 467a - Administrative detention; duration; pending judicial proc
 usc_title: 21
 usc_section: "467a"
 chapter: 10
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "21 U.S.C. § 467a"
-generated_at: "2026-03-30T05:05:52.470Z"
+generated_at: "2026-03-30T05:08:40.565Z"
 status: "active"
 ---
 

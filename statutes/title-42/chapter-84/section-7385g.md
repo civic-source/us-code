@@ -3,9 +3,9 @@ title: "Section 7385g - Attorney fees"
 usc_title: 42
 usc_section: "7385g"
 chapter: 84
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 7385g"
-generated_at: "2026-03-30T05:06:57.791Z"
+generated_at: "2026-03-30T05:09:14.051Z"
 status: "active"
 ---
 

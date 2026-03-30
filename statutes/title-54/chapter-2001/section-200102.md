@@ -3,9 +3,9 @@ title: "Section 200102 - Definitions"
 usc_title: 54
 usc_section: "200102"
 chapter: 2001
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "54 U.S.C. § 200102"
-generated_at: "2026-03-30T05:07:07.951Z"
+generated_at: "2026-03-30T05:09:22.677Z"
 status: "active"
 ---
 

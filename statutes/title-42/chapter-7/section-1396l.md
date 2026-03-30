@@ -3,9 +3,9 @@ title: "Section 1396l - Hospital providers of nursing facility services"
 usc_title: 42
 usc_section: "1396l"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 1396l"
-generated_at: "2026-03-30T05:06:57.567Z"
+generated_at: "2026-03-30T05:09:13.836Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 16
 usc_section: "2002"
 chapter: 40
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 2002"
-generated_at: "2026-03-30T05:05:48.937Z"
+generated_at: "2026-03-30T05:08:37.193Z"
 status: "active"
 ---
 

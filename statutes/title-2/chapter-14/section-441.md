@@ -3,9 +3,9 @@ title: "Section 441 - Repealed. Pub. L. 94–283, title I , § 112(1), May 11, 1
 usc_title: 2
 usc_section: "441"
 chapter: 14
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 441"
-generated_at: "2026-03-30T05:05:02.592Z"
+generated_at: "2026-03-30T05:07:20.574Z"
 status: "repealed"
 ---
 

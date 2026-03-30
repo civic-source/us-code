@@ -3,9 +3,9 @@ title: "Section 6105 - Forfeiture for subversive activities"
 usc_title: 38
 usc_section: "6105"
 chapter: 61
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "38 U.S.C. § 6105"
-generated_at: "2026-03-30T05:06:42.812Z"
+generated_at: "2026-03-30T05:09:01.205Z"
 status: "active"
 ---
 

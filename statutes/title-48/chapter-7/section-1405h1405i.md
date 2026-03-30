@@ -3,9 +3,9 @@ title: "Section 1405h1405i - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966
 usc_title: 48
 usc_section: "1405h1405i"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "48 U.S.C. § 1405h1405i"
-generated_at: "2026-03-30T05:07:01.016Z"
+generated_at: "2026-03-30T05:09:18.081Z"
 status: "repealed"
 ---
 

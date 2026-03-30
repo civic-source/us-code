@@ -3,9 +3,9 @@ title: "Section 1051 - Authorization of Administrator of General Services"
 usc_title: 16
 usc_section: "1051"
 chapter: 20
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 1051"
-generated_at: "2026-03-30T05:05:48.902Z"
+generated_at: "2026-03-30T05:08:37.157Z"
 status: "active"
 ---
 

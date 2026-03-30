@@ -3,9 +3,9 @@ title: "Section 167k - Violations; penalties"
 usc_title: 50
 usc_section: "167k"
 chapter: 10
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "50 U.S.C. § 167k"
-generated_at: "2026-03-30T05:07:02.175Z"
+generated_at: "2026-03-30T05:09:19.025Z"
 status: "active"
 ---
 

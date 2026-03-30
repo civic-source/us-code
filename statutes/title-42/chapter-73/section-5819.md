@@ -3,9 +3,9 @@ title: "Section 5819 - Report to Congress on future reorganization"
 usc_title: 42
 usc_section: "5819"
 chapter: 73
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 5819"
-generated_at: "2026-03-30T05:06:57.746Z"
+generated_at: "2026-03-30T05:09:14.007Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7 - Fees for tests or investigations"
 usc_title: 30
 usc_section: "7"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "30 U.S.C. § 7"
-generated_at: "2026-03-30T05:06:18.312Z"
+generated_at: "2026-03-30T05:08:46.152Z"
 status: "active"
 ---
 

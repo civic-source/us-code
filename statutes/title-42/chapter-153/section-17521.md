@@ -3,9 +3,9 @@ title: "Section 17521 - Offender reentry substance abuse and criminal justice co
 usc_title: 42
 usc_section: "17521"
 chapter: 153
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 17521"
-generated_at: "2026-03-30T05:06:57.983Z"
+generated_at: "2026-03-30T05:09:14.250Z"
 status: "active"
 ---
 

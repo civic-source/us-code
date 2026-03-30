@@ -3,9 +3,9 @@ title: "Section 418E - Insolvent plans"
 usc_title: 26
 usc_section: "418E"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "26 U.S.C. § 418E"
-generated_at: "2026-03-30T05:06:33.232Z"
+generated_at: "2026-03-30T05:08:52.866Z"
 status: "active"
 ---
 

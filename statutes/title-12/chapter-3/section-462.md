@@ -3,9 +3,9 @@ title: "Section 462 - Omitted"
 usc_title: 12
 usc_section: "462"
 chapter: 3
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "12 U.S.C. § 462"
-generated_at: "2026-03-30T05:05:35.042Z"
+generated_at: "2026-03-30T05:08:25.986Z"
 status: "omitted"
 ---
 

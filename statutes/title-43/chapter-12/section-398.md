@@ -3,9 +3,9 @@ title: "Section 398 - Sales of Government certificates to obtain funds for advan
 usc_title: 43
 usc_section: "398"
 chapter: 12
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 398"
-generated_at: "2026-03-30T05:06:45.202Z"
+generated_at: "2026-03-30T05:09:03.468Z"
 status: "active"
 ---
 

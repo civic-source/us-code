@@ -3,9 +3,9 @@ title: "Section 14043h - Definitions"
 usc_title: 42
 usc_section: "14043h"
 chapter: 136
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 14043h"
-generated_at: "2026-03-30T05:06:57.934Z"
+generated_at: "2026-03-30T05:09:14.201Z"
 status: "active"
 ---
 

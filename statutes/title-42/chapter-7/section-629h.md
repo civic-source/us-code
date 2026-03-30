@@ -3,9 +3,9 @@ title: "Section 629h - Entitlement funding for State courts to assess and improv
 usc_title: 42
 usc_section: "629h"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 629h"
-generated_at: "2026-03-30T05:06:57.439Z"
+generated_at: "2026-03-30T05:09:13.716Z"
 status: "active"
 ---
 

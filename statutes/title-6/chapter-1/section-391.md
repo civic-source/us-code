@@ -3,9 +3,9 @@ title: "Section 391 - Research and development projects"
 usc_title: 6
 usc_section: "391"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "6 U.S.C. § 391"
-generated_at: "2026-03-30T05:05:04.665Z"
+generated_at: "2026-03-30T05:07:37.285Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
     - **(A)** issues policy guidance detailing the appropriate use of that authority; and
     - **(B)** provides training to each employee that is authorized to exercise that authority.
   - **(2)** The Secretary shall provide an annual report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives detailing the projects for which the authority granted by subsection (a) was used, the rationale for its use, the funds spent using that authority, the outcome of each project for which that authority was used, and the results of any audits of such projects.
-- **(d)** In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 10 U.S.C. 2371 note).
+- **(d)** In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) 1 of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 10 U.S.C. 2371 note).

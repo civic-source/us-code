@@ -3,9 +3,9 @@ title: "Section 1114 - Effective date"
 usc_title: 29
 usc_section: "1114"
 chapter: 18
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 1114"
-generated_at: "2026-03-30T05:06:34.879Z"
+generated_at: "2026-03-30T05:08:47.875Z"
 status: "active"
 ---
 

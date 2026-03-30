@@ -3,9 +3,9 @@ title: "Section 10 - Salaries of Deputy Comptrollers, examiners, and other emplo
 usc_title: 12
 usc_section: "10"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "12 U.S.C. § 10"
-generated_at: "2026-03-30T05:05:35.030Z"
+generated_at: "2026-03-30T05:08:25.974Z"
 status: "active"
 ---
 

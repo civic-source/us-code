@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 45
 usc_section: "802"
 chapter: 17
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "45 U.S.C. § 802"
-generated_at: "2026-03-30T05:06:45.910Z"
+generated_at: "2026-03-30T05:09:04.136Z"
 status: "active"
 ---
 

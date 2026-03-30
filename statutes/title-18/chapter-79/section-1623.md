@@ -3,9 +3,9 @@ title: "Section 1623 - False declarations before grand jury or court"
 usc_title: 18
 usc_section: "1623"
 chapter: 79
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "18 U.S.C. § 1623"
-generated_at: "2026-03-30T05:05:42.006Z"
+generated_at: "2026-03-30T05:08:34.176Z"
 status: "active"
 ---
 

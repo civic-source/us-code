@@ -3,9 +3,9 @@ title: "Section 2925 - Omitted"
 usc_title: 42
 usc_section: "2925"
 chapter: 34
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 2925"
-generated_at: "2026-03-30T05:06:57.668Z"
+generated_at: "2026-03-30T05:09:13.933Z"
 status: "omitted"
 ---
 

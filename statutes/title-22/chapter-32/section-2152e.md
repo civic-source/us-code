@@ -3,9 +3,9 @@ title: "Section 2152e - Program to improve building construction and practices i
 usc_title: 22
 usc_section: "2152e"
 chapter: 32
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 2152e"
-generated_at: "2026-03-30T05:06:16.021Z"
+generated_at: "2026-03-30T05:08:43.858Z"
 status: "active"
 ---
 

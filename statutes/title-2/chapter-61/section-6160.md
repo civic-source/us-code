@@ -3,9 +3,9 @@ title: "Section 6160 - Expense allowance for Chairmen of Majority and Minority P
 usc_title: 2
 usc_section: "6160"
 chapter: 61
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 6160"
-generated_at: "2026-03-30T05:05:02.623Z"
+generated_at: "2026-03-30T05:07:20.610Z"
 status: "active"
 ---
 

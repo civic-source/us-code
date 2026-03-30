@@ -3,9 +3,9 @@ title: "Section 144 - Copies of Statutes at Large"
 usc_title: 2
 usc_section: "144"
 chapter: 5
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 144"
-generated_at: "2026-03-30T05:05:02.586Z"
+generated_at: "2026-03-30T05:07:20.567Z"
 status: "active"
 ---
 

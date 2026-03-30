@@ -3,9 +3,9 @@ title: "Section 4a - Transferred"
 usc_title: 42
 usc_section: "4a"
 chapter: 20
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T05:06:57.640Z"
+generated_at: "2026-03-30T05:09:13.905Z"
 status: "transferred"
 ---
 

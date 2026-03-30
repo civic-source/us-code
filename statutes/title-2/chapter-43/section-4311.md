@@ -3,9 +3,9 @@ title: "Section 4311 - Approval of employment and compensation of committee empl
 usc_title: 2
 usc_section: "4311"
 chapter: 43
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 4311"
-generated_at: "2026-03-30T05:05:02.616Z"
+generated_at: "2026-03-30T05:07:20.602Z"
 status: "active"
 ---
 

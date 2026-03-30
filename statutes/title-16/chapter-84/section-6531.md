@@ -3,9 +3,9 @@ title: "Section 6531 - Biomass commercial utilization grant program"
 usc_title: 16
 usc_section: "6531"
 chapter: 84
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 6531"
-generated_at: "2026-03-30T05:05:48.974Z"
+generated_at: "2026-03-30T05:08:37.232Z"
 status: "active"
 ---
 

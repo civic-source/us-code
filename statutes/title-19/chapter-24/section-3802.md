@@ -3,9 +3,9 @@ title: "Section 3802 - Trade negotiating objectives"
 usc_title: 19
 usc_section: "3802"
 chapter: 24
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 3802"
-generated_at: "2026-03-30T05:05:44.274Z"
+generated_at: "2026-03-30T05:08:32.077Z"
 status: "active"
 ---
 

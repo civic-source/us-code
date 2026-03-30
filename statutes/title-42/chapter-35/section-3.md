@@ -3,9 +3,9 @@ title: "Section 3 - Waivers"
 usc_title: 42
 usc_section: "3"
 chapter: 35
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T05:06:57.676Z"
+generated_at: "2026-03-30T05:09:13.940Z"
 status: "active"
 ---
 

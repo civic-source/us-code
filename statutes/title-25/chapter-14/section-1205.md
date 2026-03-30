@@ -3,9 +3,9 @@ title: "Section 1205 - Amount of agreed contribution to joint account for expend
 usc_title: 25
 usc_section: "1205"
 chapter: 14
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 1205"
-generated_at: "2026-03-30T05:05:53.786Z"
+generated_at: "2026-03-30T05:08:41.398Z"
 status: "active"
 ---
 

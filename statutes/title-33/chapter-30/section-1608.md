@@ -3,9 +3,9 @@ title: "Section 1608 - Civil penalties"
 usc_title: 33
 usc_section: "1608"
 chapter: 30
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "33 U.S.C. § 1608"
-generated_at: "2026-03-30T05:06:38.565Z"
+generated_at: "2026-03-30T05:08:56.639Z"
 status: "active"
 ---
 

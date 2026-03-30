@@ -3,9 +3,9 @@ title: "Section 81 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 43
 usc_section: "81"
 chapter: 4
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 81"
-generated_at: "2026-03-30T05:06:45.193Z"
+generated_at: "2026-03-30T05:09:03.459Z"
 status: "repealed"
 ---
 

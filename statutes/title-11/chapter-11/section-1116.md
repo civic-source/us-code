@@ -3,9 +3,9 @@ title: "Section 1116 - Duties of trustee or debtor in possession in small busine
 usc_title: 11
 usc_section: "1116"
 chapter: 11
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "11 U.S.C. § 1116"
-generated_at: "2026-03-30T05:05:26.399Z"
+generated_at: "2026-03-30T05:08:08.421Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 644 - Regulation of transactions, transportation, or importation
 usc_title: 21
 usc_section: "644"
 chapter: 12
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "21 U.S.C. § 644"
-generated_at: "2026-03-30T05:05:52.472Z"
+generated_at: "2026-03-30T05:08:40.567Z"
 status: "active"
 ---
 

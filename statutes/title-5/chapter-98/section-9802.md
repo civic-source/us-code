@@ -3,9 +3,9 @@ title: "Section 9802 - Planning, notification, and reporting requirements"
 usc_title: 5
 usc_section: "9802"
 chapter: 98
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 9802"
-generated_at: "2026-03-30T05:04:55.969Z"
+generated_at: "2026-03-30T05:07:35.423Z"
 status: "active"
 ---
 

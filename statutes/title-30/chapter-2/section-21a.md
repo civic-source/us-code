@@ -3,9 +3,9 @@ title: "Section 21a - National mining and minerals policy; “minerals” define
 usc_title: 30
 usc_section: "21a"
 chapter: 2
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "30 U.S.C. § 21a"
-generated_at: "2026-03-30T05:06:18.313Z"
+generated_at: "2026-03-30T05:08:46.152Z"
 status: "active"
 ---
 

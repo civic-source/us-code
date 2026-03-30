@@ -3,9 +3,9 @@ title: "Section 423g - Adjustment of water right charges as final adjudication o
 usc_title: 43
 usc_section: "423g"
 chapter: 12
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 423g"
-generated_at: "2026-03-30T05:06:45.203Z"
+generated_at: "2026-03-30T05:09:03.471Z"
 status: "active"
 ---
 

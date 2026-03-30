@@ -3,9 +3,9 @@ title: "Section 4341 - Motion picture prints, transfer of title"
 usc_title: 50
 usc_section: "4341"
 chapter: 53
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "50 U.S.C. § 4341"
-generated_at: "2026-03-30T05:07:02.235Z"
+generated_at: "2026-03-30T05:09:19.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Government of Naval Asylum"
 usc_title: 24
 usc_section: "17"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "24 U.S.C. § 17"
-generated_at: "2026-03-30T05:05:52.558Z"
+generated_at: "2026-03-30T05:08:39.036Z"
 status: "active"
 ---
 

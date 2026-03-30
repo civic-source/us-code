@@ -3,9 +3,9 @@ title: "Section 321 - Entry right generally; extent of right to appropriate wate
 usc_title: 43
 usc_section: "321"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 321"
-generated_at: "2026-03-30T05:06:45.196Z"
+generated_at: "2026-03-30T05:09:03.463Z"
 status: "active"
 ---
 

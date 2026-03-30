@@ -3,9 +3,9 @@ title: "Section 548 - Removing or repacking goods in warehouses"
 usc_title: 18
 usc_section: "548"
 chapter: 27
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "18 U.S.C. § 548"
-generated_at: "2026-03-30T05:05:41.989Z"
+generated_at: "2026-03-30T05:08:34.158Z"
 status: "active"
 ---
 

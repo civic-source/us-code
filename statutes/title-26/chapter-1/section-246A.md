@@ -3,9 +3,9 @@ title: "Section 246A - Dividends received deduction reduced where portfolio stoc
 usc_title: 26
 usc_section: "246A"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "26 U.S.C. § 246A"
-generated_at: "2026-03-30T05:06:33.207Z"
+generated_at: "2026-03-30T05:08:52.841Z"
 status: "active"
 ---
 

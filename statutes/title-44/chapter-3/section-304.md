@@ -3,9 +3,9 @@ title: "Section 304 - Director of the Government Publishing Office: vacancy in o
 usc_title: 44
 usc_section: "304"
 chapter: 3
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "44 U.S.C. § 304"
-generated_at: "2026-03-30T05:06:45.657Z"
+generated_at: "2026-03-30T05:09:03.903Z"
 status: "active"
 ---
 

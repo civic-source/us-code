@@ -3,9 +3,9 @@ title: "Section 14036 - Training programs for judges"
 usc_title: 42
 usc_section: "14036"
 chapter: 136
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 14036"
-generated_at: "2026-03-30T05:06:57.932Z"
+generated_at: "2026-03-30T05:09:14.198Z"
 status: "active"
 ---
 

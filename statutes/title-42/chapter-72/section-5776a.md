@@ -3,9 +3,9 @@ title: "Section 5776a - Oversight and accountability"
 usc_title: 42
 usc_section: "5776a"
 chapter: 72
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 5776a"
-generated_at: "2026-03-30T05:06:57.744Z"
+generated_at: "2026-03-30T05:09:14.006Z"
 status: "active"
 ---
 

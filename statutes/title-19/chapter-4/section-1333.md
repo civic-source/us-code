@@ -3,9 +3,9 @@ title: "Section 1333 - Testimony and production of papers"
 usc_title: 19
 usc_section: "1333"
 chapter: 4
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 1333"
-generated_at: "2026-03-30T05:05:44.218Z"
+generated_at: "2026-03-30T05:08:32.022Z"
 status: "active"
 ---
 

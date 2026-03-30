@@ -3,9 +3,9 @@ title: "Section 40111 - Multiyear procurement contracts for services and related
 usc_title: 49
 usc_section: "40111"
 chapter: 401
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "49 U.S.C. § 40111"
-generated_at: "2026-03-30T05:07:05.785Z"
+generated_at: "2026-03-30T05:09:20.902Z"
 status: "active"
 ---
 

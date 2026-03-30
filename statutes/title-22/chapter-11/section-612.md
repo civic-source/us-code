@@ -3,9 +3,9 @@ title: "Section 612 - Registration statement"
 usc_title: 22
 usc_section: "612"
 chapter: 11
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 612"
-generated_at: "2026-03-30T05:06:16.004Z"
+generated_at: "2026-03-30T05:08:43.841Z"
 status: "active"
 ---
 

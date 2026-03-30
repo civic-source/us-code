@@ -3,9 +3,9 @@ title: "Section 79 - Transferred"
 usc_title: 22
 usc_section: "79"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 79"
-generated_at: "2026-03-30T05:06:15.974Z"
+generated_at: "2026-03-30T05:08:43.817Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4802 - Administrative consideration of burden with new regulatio
 usc_title: 12
 usc_section: "4802"
 chapter: 48
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "12 U.S.C. § 4802"
-generated_at: "2026-03-30T05:05:35.162Z"
+generated_at: "2026-03-30T05:08:26.104Z"
 status: "active"
 ---
 

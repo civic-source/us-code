@@ -3,9 +3,9 @@ title: "Section 5545 - Night, standby, irregular, and hazardous duty differentia
 usc_title: 5
 usc_section: "5545"
 chapter: 55
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 5545"
-generated_at: "2026-03-30T05:04:55.934Z"
+generated_at: "2026-03-30T05:07:35.389Z"
 status: "active"
 ---
 

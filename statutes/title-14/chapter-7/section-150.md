@@ -3,9 +3,9 @@ title: "Section 150 - Coast Guard officers as attachés to missions"
 usc_title: 14
 usc_section: "150"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "14 U.S.C. § 150"
-generated_at: "2026-03-30T05:05:26.100Z"
+generated_at: "2026-03-30T05:08:07.926Z"
 status: "active"
 ---
 

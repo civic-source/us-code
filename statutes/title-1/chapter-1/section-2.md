@@ -3,9 +3,9 @@ title: "Section 2 - “County” as including “parish”, and so forth"
 usc_title: 1
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "1 U.S.C. § 2"
-generated_at: "2026-03-30T05:04:53.148Z"
+generated_at: "2026-03-30T05:07:19.298Z"
 status: "active"
 ---
 

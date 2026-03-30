@@ -3,9 +3,9 @@ title: "Section 1263 - Use of funds; authorization and approval"
 usc_title: 25
 usc_section: "1263"
 chapter: 14
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 1263"
-generated_at: "2026-03-30T05:05:53.787Z"
+generated_at: "2026-03-30T05:08:41.399Z"
 status: "active"
 ---
 

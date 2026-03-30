@@ -3,9 +3,9 @@ title: "Section 1862d - Set-aside for certain institutions"
 usc_title: 42
 usc_section: "1862d"
 chapter: 16
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 1862d"
-generated_at: "2026-03-30T05:06:57.631Z"
+generated_at: "2026-03-30T05:09:13.897Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1111to1119 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1111to1119"
 chapter: 27
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 1111to1119"
-generated_at: "2026-03-30T05:06:45.219Z"
+generated_at: "2026-03-30T05:09:03.486Z"
 status: "repealed"
 ---
 

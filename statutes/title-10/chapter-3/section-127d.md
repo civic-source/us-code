@@ -3,9 +3,9 @@ title: "Section 127d - Allied forces participating in combined operations: autho
 usc_title: 10
 usc_section: "127d"
 chapter: 3
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 127d"
-generated_at: "2026-03-30T05:05:09.962Z"
+generated_at: "2026-03-30T05:08:05.313Z"
 status: "active"
 ---
 

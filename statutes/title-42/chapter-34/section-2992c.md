@@ -3,9 +3,9 @@ title: "Section 2992c - Definitions"
 usc_title: 42
 usc_section: "2992c"
 chapter: 34
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 2992c"
-generated_at: "2026-03-30T05:06:57.670Z"
+generated_at: "2026-03-30T05:09:13.935Z"
 status: "active"
 ---
 

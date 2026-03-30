@@ -3,9 +3,9 @@ title: "Section 1236bto1237c - Omitted"
 usc_title: 48
 usc_section: "1236bto1237c"
 chapter: 5
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "48 U.S.C. § 1236bto1237c"
-generated_at: "2026-03-30T05:07:01.015Z"
+generated_at: "2026-03-30T05:09:18.080Z"
 status: "omitted"
 ---
 

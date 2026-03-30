@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T05:04:55.947Z"
+generated_at: "2026-03-30T05:07:35.402Z"
 status: "active"
 ---
 

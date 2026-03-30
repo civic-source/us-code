@@ -3,9 +3,9 @@ title: "Section 2081 - Undercover investigative operations of Customs Service"
 usc_title: 19
 usc_section: "2081"
 chapter: 10
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 2081"
-generated_at: "2026-03-30T05:05:44.243Z"
+generated_at: "2026-03-30T05:08:32.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3703 - Omitted"
 usc_title: 20
 usc_section: "3703"
 chapter: 50
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "20 U.S.C. § 3703"
-generated_at: "2026-03-30T05:05:46.512Z"
+generated_at: "2026-03-30T05:08:30.980Z"
 status: "omitted"
 ---
 

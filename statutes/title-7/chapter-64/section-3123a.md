@@ -3,9 +3,9 @@ title: "Section 3123a - Specialty crop committee"
 usc_title: 7
 usc_section: "3123a"
 chapter: 64
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "7 U.S.C. § 3123a"
-generated_at: "2026-03-30T05:05:23.980Z"
+generated_at: "2026-03-30T05:07:43.356Z"
 status: "active"
 ---
 

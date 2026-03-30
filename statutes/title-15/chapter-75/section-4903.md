@@ -3,9 +3,9 @@ title: "Section 4903 - Functions of Committee"
 usc_title: 15
 usc_section: "4903"
 chapter: 75
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "15 U.S.C. § 4903"
-generated_at: "2026-03-30T05:05:38.769Z"
+generated_at: "2026-03-30T05:08:11.791Z"
 status: "active"
 ---
 

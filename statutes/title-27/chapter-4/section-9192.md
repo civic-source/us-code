@@ -3,9 +3,9 @@ title: "Section 9192 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat
 usc_title: 27
 usc_section: "9192"
 chapter: 4
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "27 U.S.C. § 9192"
-generated_at: "2026-03-30T05:06:19.776Z"
+generated_at: "2026-03-30T05:08:45.538Z"
 status: "repealed"
 ---
 

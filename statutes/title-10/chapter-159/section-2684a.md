@@ -3,9 +3,9 @@ title: "Section 2684a - Agreements to limit encroachments and other constraints 
 usc_title: 10
 usc_section: "2684a"
 chapter: 159
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 2684a"
-generated_at: "2026-03-30T05:05:10.051Z"
+generated_at: "2026-03-30T05:08:05.402Z"
 status: "active"
 ---
 

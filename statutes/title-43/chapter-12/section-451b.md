@@ -3,9 +3,9 @@ title: "Section 451b - Irrigation construction charges"
 usc_title: 43
 usc_section: "451b"
 chapter: 12
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 451b"
-generated_at: "2026-03-30T05:06:45.204Z"
+generated_at: "2026-03-30T05:09:03.472Z"
 status: "active"
 ---
 

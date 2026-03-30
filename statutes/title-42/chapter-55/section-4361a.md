@@ -3,9 +3,9 @@ title: "Section 4361a - Repealed. Pub. L. 104–66, title II , § 2021(k)(1), (2
 usc_title: 42
 usc_section: "4361a"
 chapter: 55
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 4361a"
-generated_at: "2026-03-30T05:06:57.711Z"
+generated_at: "2026-03-30T05:09:13.974Z"
 status: "repealed"
 ---
 

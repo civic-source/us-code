@@ -3,9 +3,9 @@ title: "Section 6562 - Transfer of functions and authorities"
 usc_title: 22
 usc_section: "6562"
 chapter: 74
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 6562"
-generated_at: "2026-03-30T05:06:16.086Z"
+generated_at: "2026-03-30T05:08:43.933Z"
 status: "active"
 ---
 

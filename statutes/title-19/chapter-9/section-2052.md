@@ -3,9 +3,9 @@ title: "Section 2052 - Assistance from other Federal agencies; facilities and pe
 usc_title: 19
 usc_section: "2052"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 2052"
-generated_at: "2026-03-30T05:05:44.242Z"
+generated_at: "2026-03-30T05:08:32.046Z"
 status: "active"
 ---
 

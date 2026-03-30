@@ -3,9 +3,9 @@ title: "Section 1529 - Relinquishment of legislative jurisdiction over certain l
 usc_title: 15
 usc_section: "1529"
 chapter: 40
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "15 U.S.C. § 1529"
-generated_at: "2026-03-30T05:05:38.714Z"
+generated_at: "2026-03-30T05:08:11.732Z"
 status: "active"
 ---
 

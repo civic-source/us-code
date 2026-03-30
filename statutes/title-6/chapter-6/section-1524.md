@@ -3,20 +3,20 @@ title: "Section 1524 - Assessment; reports"
 usc_title: 6
 usc_section: "1524"
 chapter: 6
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "6 U.S.C. § 1524"
-generated_at: "2026-03-30T05:05:04.685Z"
+generated_at: "2026-03-30T05:07:37.304Z"
 status: "active"
 ---
 
 # § 1524. Assessment; reports
 
 - **(a)** In this section:
-  - **(1)** The term “agency information” has the meaning given the term in section 230 of the Homeland Security Act of 2002, as added by section 223(a)(6) of this division [ 6 U.S.C. 151 ].
+  - **(1)** The term “agency information” has the meaning given the term in section 230 of the Homeland Security Act of 2002 [ 6 U.S.C. 151 ], as added by section 223(a)(6) of this division.
   - **(2)** The terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in section 1501 of this title .
   - **(3)** The term “intrusion assessments” means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
-  - **(4)** The term “intrusion assessment plan” means the plan required under section 228(b)(1) of the Homeland Security Act of 2002, as added by section 223(a)(4) of this division [ 6 U.S.C. 149(b)(1) ].
-  - **(5)** The term “intrusion detection and prevention capabilities” means the capabilities required under section 230(b) of the Homeland Security Act of 2002, as added by section 223(a)(6) of this division [ 6 U.S.C. 151(b) ].
+  - **(4)** The term “intrusion assessment plan” means the plan required under section 228(b)(1) of the Homeland Security Act of 2002 [ 6 U.S.C. 149(b)(1) ], as added by section 223(a)(4) of this division.
+  - **(5)** The term “intrusion detection and prevention capabilities” means the capabilities required under section 230(b) of the Homeland Security Act of 2002 [ 6 U.S.C. 151(b) ], as added by section 223(a)(6) of this division.
 - **(b)** Not later than 3 years after December 18, 2015 , the Comptroller General of the United States shall conduct a study and publish a report on the effectiveness of the approach and strategy of the Federal Government to securing agency information systems, including the intrusion detection and prevention capabilities and the intrusion assessment plan.
 - **(c)**
   - **(1)**
@@ -26,7 +26,7 @@ status: "active"
       - **(iii)** a description of the technologies and capabilities utilized to prevent network traffic associated with cybersecurity risks from transiting or traveling to or from agency information systems, including the extent to which those technologies and capabilities include existing commercial and noncommercial technologies;
       - **(iv)** a list of the types of indicators or other identifiers or techniques used to detect cybersecurity risks in network traffic transiting or traveling to or from agency information systems on each iteration of the intrusion detection and prevention capabilities and the number of each such type of indicator, identifier, and technique;
       - **(v)** the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from agency information systems and the number of times the intrusion detection and prevention capabilities blocked network traffic associated with cybersecurity risk; and
-      - **(vi)** a description of the pilot established under section 230(c)(5) of the Homeland Security Act of 2002, as added by section 223(a)(6) of this division [ 6 U.S.C. 151(c)(5) ], including the number of new technologies tested and the number of participating agencies.
+      - **(vi)** a description of the pilot established under section 230(c)(5) of the Homeland Security Act of 2002 [ 6 U.S.C. 151(c)(5) ], as added by section 223(a)(6) of this division, including the number of new technologies tested and the number of participating agencies.
     - **(B)** Not later than 18 months after December 18, 2015 , and annually thereafter, the Director shall submit to Congress, as part of the report required under section 3553(c) of title 44 , an analysis of agency application of the intrusion detection and prevention capabilities, including—
       - **(i)** a list of each agency and the degree to which each agency has applied the intrusion detection and prevention capabilities to an agency information system; and
       - **(ii)** a list by agency of—
@@ -34,7 +34,7 @@ status: "active"
         - **(II)** the number of instances in which the intrusion detection and prevention capabilities prevented network traffic associated with a cybersecurity risk from transiting or traveling to or from an agency information system and the types of indicators, identifiers, and techniques used to detect such agency information systems.
     - **(C)** Not earlier than 18 months after December 18, 2015 , and not later than 2 years after December 18, 2015 , the Federal Chief Information Officer shall review and submit to the appropriate congressional committees a report assessing the intrusion detection and intrusion prevention capabilities, including—
       - **(i)** the effectiveness of the system in detecting, disrupting, and preventing cyber-threat actors, including advanced persistent threats, from accessing agency information and agency information systems;
-      - **(ii)** whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D of title II of the Homeland Security Act of 2002 ( 6 U.S.C. 231 et seq.) [ 6 U.S.C. 161 et seq.] 1 1 See References in Text note below. are effective in securing Federal information systems;
+      - **(ii)** whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D of title II of the Homeland Security Act of 2002 ( 6 U.S.C. 231 1 1 See References in Text note below. et seq.) are effective in securing Federal information systems;
       - **(iii)** the costs and benefits of the intrusion detection and prevention capabilities, including as compared to commercial technologies and tools and including the value of classified cyber threat indicators; and
       - **(iv)** the capability of agencies to protect sensitive cyber threat indicators and defensive measures if they were shared through unclassified mechanisms for use in commercial technologies and tools.
   - **(2)** The Director shall—

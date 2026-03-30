@@ -3,9 +3,9 @@ title: "Section 415 - Repealed. Pub. L. 91–383 , § 10(a)(1), as added Pub. L.
 usc_title: 16
 usc_section: "415"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 415"
-generated_at: "2026-03-30T05:05:48.806Z"
+generated_at: "2026-03-30T05:08:37.056Z"
 status: "repealed"
 ---
 

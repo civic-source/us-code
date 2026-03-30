@@ -3,9 +3,9 @@ title: "Section 2830 - Occupancy of substandard family housing units"
 usc_title: 10
 usc_section: "2830"
 chapter: 169
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 2830"
-generated_at: "2026-03-30T05:05:10.057Z"
+generated_at: "2026-03-30T05:08:05.407Z"
 status: "active"
 ---
 

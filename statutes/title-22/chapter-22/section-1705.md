@@ -3,9 +3,9 @@ title: "Section 1705 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(9)�
 usc_title: 22
 usc_section: "1705"
 chapter: 22
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 1705"
-generated_at: "2026-03-30T05:06:16.013Z"
+generated_at: "2026-03-30T05:08:43.850Z"
 status: "repealed"
 ---
 

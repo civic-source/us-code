@@ -3,9 +3,9 @@ title: "Section 3793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3793"
 chapter: 46
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 3793"
-generated_at: "2026-03-30T05:06:57.694Z"
+generated_at: "2026-03-30T05:09:13.958Z"
 status: "active"
 ---
 

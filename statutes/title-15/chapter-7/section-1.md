@@ -3,9 +3,9 @@ title: "Section 1 - Emergency communication and tracking technologies research i
 usc_title: 15
 usc_section: "1"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T05:05:38.667Z"
+generated_at: "2026-03-30T05:08:11.683Z"
 status: "active"
 ---
 

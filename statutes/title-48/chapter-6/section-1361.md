@@ -3,9 +3,9 @@ title: "Section 1361 - Repealed. Sept. 26, 1950, ch. 1049, § 13(7) , 64 Stat. 1
 usc_title: 48
 usc_section: "1361"
 chapter: 6
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "48 U.S.C. § 1361"
-generated_at: "2026-03-30T05:07:01.016Z"
+generated_at: "2026-03-30T05:09:18.080Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 399c - Improving the training of State, local, territorial, and 
 usc_title: 21
 usc_section: "399c"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "21 U.S.C. § 399c"
-generated_at: "2026-03-30T05:05:52.468Z"
+generated_at: "2026-03-30T05:08:40.563Z"
 status: "active"
 ---
 

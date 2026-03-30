@@ -3,9 +3,9 @@ title: "Section 552a - Savings provision of certain transfers made under the Hom
 usc_title: 6
 usc_section: "552a"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "6 U.S.C. § 552a"
-generated_at: "2026-03-30T05:05:04.669Z"
+generated_at: "2026-03-30T05:07:37.289Z"
 status: "active"
 ---
 

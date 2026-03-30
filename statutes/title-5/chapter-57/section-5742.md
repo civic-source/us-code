@@ -3,9 +3,9 @@ title: "Section 5742 - Transportation of remains, dependents, and effects; death
 usc_title: 5
 usc_section: "5742"
 chapter: 57
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 5742"
-generated_at: "2026-03-30T05:04:55.939Z"
+generated_at: "2026-03-30T05:07:35.394Z"
 status: "active"
 ---
 

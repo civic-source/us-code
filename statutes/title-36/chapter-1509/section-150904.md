@@ -3,9 +3,9 @@ title: "Section 150904 - Governing body"
 usc_title: 36
 usc_section: "150904"
 chapter: 1509
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "36 U.S.C. § 150904"
-generated_at: "2026-03-30T05:06:40.965Z"
+generated_at: "2026-03-30T05:08:59.142Z"
 status: "active"
 ---
 

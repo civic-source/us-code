@@ -3,9 +3,9 @@ title: "Section 6965 - Chief Financial Officer report"
 usc_title: 42
 usc_section: "6965"
 chapter: 82
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 6965"
-generated_at: "2026-03-30T05:06:57.778Z"
+generated_at: "2026-03-30T05:09:14.038Z"
 status: "active"
 ---
 

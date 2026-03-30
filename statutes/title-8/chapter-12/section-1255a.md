@@ -3,9 +3,9 @@ title: "Section 1255a - Adjustment of status of certain entrants before January 
 usc_title: 8
 usc_section: "1255a"
 chapter: 12
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-30T05:05:05.607Z"
+generated_at: "2026-03-30T05:07:37.969Z"
 status: "active"
 ---
 

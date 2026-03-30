@@ -3,9 +3,9 @@ title: "Section 8285c - Authorization of appropriations"
 usc_title: 42
 usc_section: "8285c"
 chapter: 91
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 8285c"
-generated_at: "2026-03-30T05:06:57.828Z"
+generated_at: "2026-03-30T05:09:14.090Z"
 status: "active"
 ---
 

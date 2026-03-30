@@ -3,15 +3,15 @@ title: "Section 4143 - Payment of awards; priorities; limitations"
 usc_title: 50
 usc_section: "4143"
 chapter: 51
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "50 U.S.C. § 4143"
-generated_at: "2026-03-30T05:07:02.230Z"
+generated_at: "2026-03-30T05:09:19.079Z"
 status: "active"
 ---
 
 # § 4143. Payment of awards; priorities; limitations
 
-- **(a)** The Secretary of the Treasury shall pay out of the War Claims Fund on account of award certified by the Commission pursuant to this subchapter as follows and in the following order of priority:
+- **(a)** The Secretary of the Treasury shall pay out of the War Claims Fund on account of awards certified by the Commission pursuant to this subchapter as follows and in the following order of priority:
   - **(1)** Payment in full of awards made pursuant to section 4132(d)(1) and (2) of this title, and thereafter of any award made pursuant to section 4132(a) of this title to any claimant (A) certified to the Commission by the Small Business Administration as having been, on the date of loss, damage, or destruction, a small business concern within the meaning now set forth in the Small Business Act, as amended [ 15 U.S.C. 631 et seq.], or (B) determined by the Commission to have been, on the date of loss, damage, or destruction, a nonprofit organization operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes.
   - **(2)** Thereafter, payments from time to time on account of the other awards made pursuant to section 4132 of this title in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment made pursuant to this paragraph on account of any award shall not exceed $10,000.
   - **(3)** Thereafter, payments from time to time on account of the other awards made to individuals and corporations pursuant to section 4132 of this title and not compensated in full under paragraph (1) or (2) of this subsection in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment pursuant to this paragraph on account of any award shall not exceed $35,000.

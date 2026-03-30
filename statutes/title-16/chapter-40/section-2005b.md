@@ -3,9 +3,9 @@ title: "Section 2005b - Repealed. Pub. L. 107–171, title II , § 2502(b), May 
 usc_title: 16
 usc_section: "2005b"
 chapter: 40
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 2005b"
-generated_at: "2026-03-30T05:05:48.937Z"
+generated_at: "2026-03-30T05:08:37.193Z"
 status: "repealed"
 ---
 

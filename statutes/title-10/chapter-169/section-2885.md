@@ -3,9 +3,9 @@ title: "Section 2885 - Oversight and accountability for privatization projects"
 usc_title: 10
 usc_section: "2885"
 chapter: 169
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 2885"
-generated_at: "2026-03-30T05:05:10.059Z"
+generated_at: "2026-03-30T05:08:05.409Z"
 status: "active"
 ---
 

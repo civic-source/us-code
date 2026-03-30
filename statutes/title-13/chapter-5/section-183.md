@@ -3,9 +3,9 @@ title: "Section 183 - Use of most recent population data"
 usc_title: 13
 usc_section: "183"
 chapter: 5
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "13 U.S.C. § 183"
-generated_at: "2026-03-30T05:05:25.792Z"
+generated_at: "2026-03-30T05:08:07.445Z"
 status: "active"
 ---
 

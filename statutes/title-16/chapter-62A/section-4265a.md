@@ -3,9 +3,9 @@ title: "Section 4265a - Advisory group"
 usc_title: 16
 usc_section: "4265a"
 chapter: 62
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 4265a"
-generated_at: "2026-03-30T05:05:48.964Z"
+generated_at: "2026-03-30T05:08:37.221Z"
 status: "active"
 ---
 

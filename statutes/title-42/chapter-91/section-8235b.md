@@ -3,9 +3,9 @@ title: "Section 8235b - Applications for approval of plans for prototype residen
 usc_title: 42
 usc_section: "8235b"
 chapter: 91
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 8235b"
-generated_at: "2026-03-30T05:06:57.825Z"
+generated_at: "2026-03-30T05:09:14.088Z"
 status: "active"
 ---
 

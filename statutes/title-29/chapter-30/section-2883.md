@@ -3,9 +3,9 @@ title: "Section 2883 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22
 usc_title: 29
 usc_section: "2883"
 chapter: 30
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 2883"
-generated_at: "2026-03-30T05:06:34.897Z"
+generated_at: "2026-03-30T05:08:47.893Z"
 status: "repealed"
 ---
 

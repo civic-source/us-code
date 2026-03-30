@@ -3,9 +3,9 @@ title: "Section 8303 - Declaration of policy of coordinated development and mana
 usc_title: 40
 usc_section: "8303"
 chapter: 83
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "40 U.S.C. § 8303"
-generated_at: "2026-03-30T05:06:41.730Z"
+generated_at: "2026-03-30T05:08:59.871Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16160 - Reports"
 usc_title: 42
 usc_section: "16160"
 chapter: 149
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 16160"
-generated_at: "2026-03-30T05:06:57.961Z"
+generated_at: "2026-03-30T05:09:14.227Z"
 status: "active"
 ---
 

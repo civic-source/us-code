@@ -3,9 +3,9 @@ title: "Section 12785 - REACH: asset recycling information dissemination"
 usc_title: 42
 usc_section: "12785"
 chapter: 130
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 12785"
-generated_at: "2026-03-30T05:06:57.910Z"
+generated_at: "2026-03-30T05:09:14.175Z"
 status: "active"
 ---
 

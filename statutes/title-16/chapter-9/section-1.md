@@ -3,9 +3,9 @@ title: "Section 1 - Authority to use available law enforcement funds"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T05:05:48.879Z"
+generated_at: "2026-03-30T05:08:37.132Z"
 status: "active"
 ---
 

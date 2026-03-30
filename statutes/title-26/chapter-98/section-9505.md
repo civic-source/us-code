@@ -3,9 +3,9 @@ title: "Section 9505 - Harbor Maintenance Trust Fund"
 usc_title: 26
 usc_section: "9505"
 chapter: 98
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "26 U.S.C. § 9505"
-generated_at: "2026-03-30T05:06:33.404Z"
+generated_at: "2026-03-30T05:08:53.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Distribution and allocation"
 usc_title: 42
 usc_section: "6"
 chapter: 46
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T05:06:57.701Z"
+generated_at: "2026-03-30T05:09:13.965Z"
 status: "active"
 ---
 

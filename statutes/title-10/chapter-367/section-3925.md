@@ -3,9 +3,9 @@ title: "Section 3925 - Computation of years of service: voluntary retirement; en
 usc_title: 10
 usc_section: "3925"
 chapter: 367
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 3925"
-generated_at: "2026-03-30T05:05:10.064Z"
+generated_at: "2026-03-30T05:08:05.413Z"
 status: "active"
 ---
 

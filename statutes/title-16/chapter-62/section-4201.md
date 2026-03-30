@@ -3,9 +3,9 @@ title: "Section 4201 - Statement of purpose"
 usc_title: 16
 usc_section: "4201"
 chapter: 62
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "16 U.S.C. § 4201"
-generated_at: "2026-03-30T05:05:48.963Z"
+generated_at: "2026-03-30T05:08:37.220Z"
 status: "active"
 ---
 

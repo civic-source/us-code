@@ -3,9 +3,9 @@ title: "Section 4120 - Training for employees of the Capitol Police"
 usc_title: 5
 usc_section: "4120"
 chapter: 41
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 4120"
-generated_at: "2026-03-30T05:04:55.926Z"
+generated_at: "2026-03-30T05:07:35.382Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 2072 - Officers and employees"
 usc_title: 19
 usc_section: "2072"
 chapter: 10
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 2072"
-generated_at: "2026-03-30T05:05:44.242Z"
+generated_at: "2026-03-30T05:08:32.046Z"
 status: "active"
 ---
 
 # § 2072. Officers and employees
 
 - **(a)** The Secretary of the Treasury is authorized to appoint, in the service established by section 2071 of this title , one assistant commissioner, three deputy commissioners, one chief clerk, and such attorneys and other officers and employees as he may deem necessary. One of the deputy commissioners of the United States Customs Service shall have charge of investigations. Appointments under this subsection shall be subject to the provisions of the civil service laws, and the salaries shall be fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
-- **(b)** The Secretary of the Treasury is authorized to designate an officer of the United States Customs Service to act as Commissioner of U.S. Customs and Border Protection, during the absence or disability of the Commissioner of U.S. Customs and Border Protection, or in the event that there is no Commissioner of U.S. Customs and Border Protection.
+- **(b)** The Secretary of the Treasury is authorized to designate an officer of the United States Customs Service to act as Commissioner of Customs, 1 1 See Change of Name note below. during the absence or disability of the Commissioner of Customs, 1 or in the event that there is no Commissioner of Customs. 1
 - **(c)** The personnel of the United States Customs Service shall perform such duties as the Secretary of the Treasury may prescribe.
 - **(d)**
   - **(1)** The Commissioner shall establish an International Trade Committee, to be chaired by the Commissioner, and to include the Deputy Commissioner, the Assistant Commissioner in the Office of Field Operations, the Assistant Commissioner in the Office of Finance, the Assistant Commissioner in the Office of International Affairs, the Assistant Commissioner in the Office of International Trade, the Director of the Office of Trade Relations, and any other official determined by the Commissioner to be important to the work of the Committee.

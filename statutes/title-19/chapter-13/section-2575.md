@@ -3,9 +3,9 @@ title: "Section 2575 - General"
 usc_title: 19
 usc_section: "2575"
 chapter: 13
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 2575"
-generated_at: "2026-03-30T05:05:44.258Z"
+generated_at: "2026-03-30T05:08:32.061Z"
 status: "active"
 ---
 

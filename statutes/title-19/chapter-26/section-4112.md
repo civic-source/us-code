@@ -3,9 +3,9 @@ title: "Section 4112 - Earned import allowance program"
 usc_title: 19
 usc_section: "4112"
 chapter: 26
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "19 U.S.C. § 4112"
-generated_at: "2026-03-30T05:05:44.279Z"
+generated_at: "2026-03-30T05:08:32.081Z"
 status: "active"
 ---
 

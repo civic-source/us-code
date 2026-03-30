@@ -3,9 +3,9 @@ title: "Section 9112 - Procedure"
 usc_title: 42
 usc_section: "9112"
 chapter: 99
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 9112"
-generated_at: "2026-03-30T05:06:57.837Z"
+generated_at: "2026-03-30T05:09:14.099Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9518 - Agreements"
 usc_title: 20
 usc_section: "9518"
 chapter: 76
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "20 U.S.C. § 9518"
-generated_at: "2026-03-30T05:05:46.553Z"
+generated_at: "2026-03-30T05:08:31.021Z"
 status: "active"
 ---
 

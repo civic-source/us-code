@@ -3,9 +3,9 @@ title: "Section 21 - Grant authorization"
 usc_title: 42
 usc_section: "21"
 chapter: 46
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T05:06:57.703Z"
+generated_at: "2026-03-30T05:09:13.966Z"
 status: "active"
 ---
 

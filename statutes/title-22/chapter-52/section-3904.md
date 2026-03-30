@@ -3,9 +3,9 @@ title: "Section 3904 - Functions of Service"
 usc_title: 22
 usc_section: "3904"
 chapter: 52
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 3904"
-generated_at: "2026-03-30T05:06:16.059Z"
+generated_at: "2026-03-30T05:08:43.902Z"
 status: "active"
 ---
 

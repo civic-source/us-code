@@ -3,9 +3,9 @@ title: "Section 863 - Drug paraphernalia"
 usc_title: 21
 usc_section: "863"
 chapter: 13
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "21 U.S.C. § 863"
-generated_at: "2026-03-30T05:05:52.480Z"
+generated_at: "2026-03-30T05:08:40.575Z"
 status: "active"
 ---
 

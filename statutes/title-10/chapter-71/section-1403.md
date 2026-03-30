@@ -3,9 +3,9 @@ title: "Section 1403 - Disability retired pay: treatment under Internal Revenue 
 usc_title: 10
 usc_section: "1403"
 chapter: 71
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 1403"
-generated_at: "2026-03-30T05:05:10.005Z"
+generated_at: "2026-03-30T05:08:05.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7470 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "7470"
 chapter: 85
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 7470"
-generated_at: "2026-03-30T05:06:57.800Z"
+generated_at: "2026-03-30T05:09:14.060Z"
 status: "active"
 ---
 

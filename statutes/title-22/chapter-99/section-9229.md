@@ -3,9 +3,9 @@ title: "Section 9229 - Report on and imposition of sanctions to address persons 
 usc_title: 22
 usc_section: "9229"
 chapter: 99
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 9229"
-generated_at: "2026-03-30T05:06:16.113Z"
+generated_at: "2026-03-30T05:08:43.962Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 79 - Omitted"
 usc_title: 24
 usc_section: "79"
 chapter: 3
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "24 U.S.C. § 79"
-generated_at: "2026-03-30T05:05:52.558Z"
+generated_at: "2026-03-30T05:08:39.036Z"
 status: "omitted"
 ---
 

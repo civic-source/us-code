@@ -3,9 +3,9 @@ title: "Section 6002 - Repealed. Pub. L. 103–230, title I , § 104, Apr. 6, 19
 usc_title: 42
 usc_section: "6002"
 chapter: 75
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 6002"
-generated_at: "2026-03-30T05:06:57.749Z"
+generated_at: "2026-03-30T05:09:14.009Z"
 status: "repealed"
 ---
 

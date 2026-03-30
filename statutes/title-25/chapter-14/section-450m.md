@@ -3,9 +3,9 @@ title: "Section 450m - Rescission of contract or grant and assumption of control
 usc_title: 25
 usc_section: "450m"
 chapter: 14
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 450m"
-generated_at: "2026-03-30T05:05:53.760Z"
+generated_at: "2026-03-30T05:08:41.374Z"
 status: "active"
 ---
 

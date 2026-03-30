@@ -3,9 +3,9 @@ title: "Section 842to844 - Repealed. June 17, 1957 , Pub. L. 85–56, title XXII
 usc_title: 43
 usc_section: "842to844"
 chapter: 19
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "43 U.S.C. § 842to844"
-generated_at: "2026-03-30T05:06:45.214Z"
+generated_at: "2026-03-30T05:09:03.481Z"
 status: "repealed"
 ---
 

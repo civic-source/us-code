@@ -3,9 +3,9 @@ title: "Section 57519 - Insurance"
 usc_title: 46
 usc_section: "57519"
 chapter: 575
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "46 U.S.C. § 57519"
-generated_at: "2026-03-30T05:07:02.956Z"
+generated_at: "2026-03-30T05:09:17.685Z"
 status: "active"
 ---
 

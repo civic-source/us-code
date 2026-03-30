@@ -3,9 +3,9 @@ title: "Section 1431to1440 - Transferred"
 usc_title: 48
 usc_section: "1431to1440"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "48 U.S.C. § 1431to1440"
-generated_at: "2026-03-30T05:07:01.020Z"
+generated_at: "2026-03-30T05:09:18.083Z"
 status: "transferred"
 ---
 

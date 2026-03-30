@@ -3,9 +3,9 @@ title: "Section 8907 - Sanctions on persons responsible for violence or undermin
 usc_title: 22
 usc_section: "8907"
 chapter: 96
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 8907"
-generated_at: "2026-03-30T05:06:16.109Z"
+generated_at: "2026-03-30T05:08:43.959Z"
 status: "active"
 ---
 

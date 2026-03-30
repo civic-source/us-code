@@ -3,9 +3,9 @@ title: "Section 2009 - Effect on other law and agreements"
 usc_title: 29
 usc_section: "2009"
 chapter: 22
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 2009"
-generated_at: "2026-03-30T05:06:34.895Z"
+generated_at: "2026-03-30T05:08:47.891Z"
 status: "active"
 ---
 

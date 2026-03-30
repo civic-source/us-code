@@ -3,9 +3,9 @@ title: "Section 3133 - Coordination"
 usc_title: 42
 usc_section: "3133"
 chapter: 38
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 3133"
-generated_at: "2026-03-30T05:06:57.682Z"
+generated_at: "2026-03-30T05:09:13.946Z"
 status: "active"
 ---
 

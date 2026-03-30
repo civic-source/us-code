@@ -3,9 +3,9 @@ title: "Section 12751 - Private-public partnership"
 usc_title: 42
 usc_section: "12751"
 chapter: 130
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 12751"
-generated_at: "2026-03-30T05:06:57.909Z"
+generated_at: "2026-03-30T05:09:14.174Z"
 status: "active"
 ---
 

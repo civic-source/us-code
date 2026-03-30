@@ -3,9 +3,9 @@ title: "Section 1303 - Registration of special groups"
 usc_title: 8
 usc_section: "1303"
 chapter: 12
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "8 U.S.C. § 1303"
-generated_at: "2026-03-30T05:05:05.610Z"
+generated_at: "2026-03-30T05:07:37.971Z"
 status: "active"
 ---
 

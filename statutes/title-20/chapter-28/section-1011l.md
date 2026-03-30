@@ -3,9 +3,9 @@ title: "Section 1011l - Diploma mills"
 usc_title: 20
 usc_section: "1011l"
 chapter: 28
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "20 U.S.C. § 1011l"
-generated_at: "2026-03-30T05:05:46.441Z"
+generated_at: "2026-03-30T05:08:30.904Z"
 status: "active"
 ---
 

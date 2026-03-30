@@ -3,9 +3,9 @@ title: "Section 892a - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 
 usc_title: 29
 usc_section: "892a"
 chapter: 17
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 892a"
-generated_at: "2026-03-30T05:06:34.865Z"
+generated_at: "2026-03-30T05:08:47.860Z"
 status: "repealed"
 ---
 

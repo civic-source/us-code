@@ -3,9 +3,9 @@ title: "Section 1776f - Exchanges of land or minerals"
 usc_title: 25
 usc_section: "1776f"
 chapter: 19
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 1776f"
-generated_at: "2026-03-30T05:05:53.809Z"
+generated_at: "2026-03-30T05:08:41.420Z"
 status: "active"
 ---
 

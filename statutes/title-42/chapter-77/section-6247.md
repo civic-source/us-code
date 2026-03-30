@@ -3,9 +3,9 @@ title: "Section 6247 - SPR Petroleum Account"
 usc_title: 42
 usc_section: "6247"
 chapter: 77
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 6247"
-generated_at: "2026-03-30T05:06:57.750Z"
+generated_at: "2026-03-30T05:09:14.011Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14661 - Program authorized"
 usc_title: 42
 usc_section: "14661"
 chapter: 140
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 14661"
-generated_at: "2026-03-30T05:06:57.943Z"
+generated_at: "2026-03-30T05:09:14.210Z"
 status: "active"
 ---
 

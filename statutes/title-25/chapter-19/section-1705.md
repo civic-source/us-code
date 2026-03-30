@@ -3,9 +3,9 @@ title: "Section 1705 - Publication of findings"
 usc_title: 25
 usc_section: "1705"
 chapter: 19
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 1705"
-generated_at: "2026-03-30T05:05:53.804Z"
+generated_at: "2026-03-30T05:08:41.415Z"
 status: "active"
 ---
 

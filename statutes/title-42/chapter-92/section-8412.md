@@ -3,9 +3,9 @@ title: "Section 8412 - Judicial review"
 usc_title: 42
 usc_section: "8412"
 chapter: 92
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 8412"
-generated_at: "2026-03-30T05:06:57.831Z"
+generated_at: "2026-03-30T05:09:14.093Z"
 status: "active"
 ---
 

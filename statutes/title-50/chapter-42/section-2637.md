@@ -3,9 +3,9 @@ title: "Section 2637 - Repealed. Pub. L. 113–66, div. C, title XXXI , § 3146(
 usc_title: 50
 usc_section: "2637"
 chapter: 42
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "50 U.S.C. § 2637"
-generated_at: "2026-03-30T05:07:02.202Z"
+generated_at: "2026-03-30T05:09:19.051Z"
 status: "repealed"
 ---
 

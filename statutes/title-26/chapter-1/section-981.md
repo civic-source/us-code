@@ -3,9 +3,9 @@ title: "Section 981 - Repealed. Pub. L. 94–455, title X , § 1012(b)(2), Oct. 
 usc_title: 26
 usc_section: "981"
 chapter: 1
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "26 U.S.C. § 981"
-generated_at: "2026-03-30T05:06:33.285Z"
+generated_at: "2026-03-30T05:08:52.919Z"
 status: "repealed"
 ---
 

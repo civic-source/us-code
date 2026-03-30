@@ -3,9 +3,9 @@ title: "Section 3663 - Repealed. Pub. L. 90–377 , § 6(1), July 5, 1968 , 82 S
 usc_title: 10
 usc_section: "3663"
 chapter: 351
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 3663"
-generated_at: "2026-03-30T05:05:10.063Z"
+generated_at: "2026-03-30T05:08:05.412Z"
 status: "repealed"
 ---
 

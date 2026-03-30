@@ -3,9 +3,9 @@ title: "Section 315 - Branches of Government Publishing Office; limitations"
 usc_title: 44
 usc_section: "315"
 chapter: 3
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "44 U.S.C. § 315"
-generated_at: "2026-03-30T05:06:45.657Z"
+generated_at: "2026-03-30T05:09:03.903Z"
 status: "active"
 ---
 

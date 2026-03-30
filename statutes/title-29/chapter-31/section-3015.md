@@ -3,9 +3,9 @@ title: "Section 3015 - Omitted"
 usc_title: 29
 usc_section: "3015"
 chapter: 31
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 3015"
-generated_at: "2026-03-30T05:06:34.899Z"
+generated_at: "2026-03-30T05:08:47.895Z"
 status: "omitted"
 ---
 

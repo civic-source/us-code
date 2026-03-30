@@ -3,9 +3,9 @@ title: "Section 903b - Transferred"
 usc_title: 8
 usc_section: "903b"
 chapter: 11
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "8 U.S.C. § 903b"
-generated_at: "2026-03-30T05:05:05.586Z"
+generated_at: "2026-03-30T05:07:37.951Z"
 status: "transferred"
 ---
 

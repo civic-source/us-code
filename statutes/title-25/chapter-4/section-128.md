@@ -3,9 +3,9 @@ title: "Section 128 - Appropriations not paid to Indians at war with United Stat
 usc_title: 25
 usc_section: "128"
 chapter: 4
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 128"
-generated_at: "2026-03-30T05:05:53.749Z"
+generated_at: "2026-03-30T05:08:41.364Z"
 status: "active"
 ---
 

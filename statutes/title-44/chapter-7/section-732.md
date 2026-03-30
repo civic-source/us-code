@@ -3,9 +3,9 @@ title: "Section 732 - Time for distribution of documents by Members of Congress 
 usc_title: 44
 usc_section: "732"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "44 U.S.C. § 732"
-generated_at: "2026-03-30T05:06:45.659Z"
+generated_at: "2026-03-30T05:09:03.904Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1022 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1022"
 chapter: 14
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 1022"
-generated_at: "2026-03-30T05:06:16.006Z"
+generated_at: "2026-03-30T05:08:43.842Z"
 status: "repealed"
 ---
 

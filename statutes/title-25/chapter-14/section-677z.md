@@ -3,9 +3,9 @@ title: "Section 677z - Rules and regulations; tribal or group referenda"
 usc_title: 25
 usc_section: "677z"
 chapter: 14
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 677z"
-generated_at: "2026-03-30T05:05:53.775Z"
+generated_at: "2026-03-30T05:08:41.388Z"
 status: "active"
 ---
 

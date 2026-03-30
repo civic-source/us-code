@@ -3,9 +3,9 @@ title: "Section 1644e - Offsets"
 usc_title: 22
 usc_section: "1644e"
 chapter: 21
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "22 U.S.C. § 1644e"
-generated_at: "2026-03-30T05:06:16.013Z"
+generated_at: "2026-03-30T05:08:43.850Z"
 status: "active"
 ---
 

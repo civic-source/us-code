@@ -3,9 +3,9 @@ title: "Section 231v - Computation and certification of account benefit ratios"
 usc_title: 45
 usc_section: "231v"
 chapter: 9
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "45 U.S.C. § 231v"
-generated_at: "2026-03-30T05:06:45.901Z"
+generated_at: "2026-03-30T05:09:04.127Z"
 status: "active"
 ---
 

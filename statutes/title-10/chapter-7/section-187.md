@@ -3,9 +3,9 @@ title: "Section 187 - Strategic Materials Protection Board"
 usc_title: 10
 usc_section: "187"
 chapter: 7
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 187"
-generated_at: "2026-03-30T05:05:09.967Z"
+generated_at: "2026-03-30T05:08:05.321Z"
 status: "active"
 ---
 

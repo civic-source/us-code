@@ -3,9 +3,9 @@ title: "Section 320102 - Powers and duties of Secretary"
 usc_title: 54
 usc_section: "320102"
 chapter: 3201
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "54 U.S.C. § 320102"
-generated_at: "2026-03-30T05:07:07.953Z"
+generated_at: "2026-03-30T05:09:22.678Z"
 status: "active"
 ---
 

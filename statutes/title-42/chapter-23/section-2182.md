@@ -3,9 +3,9 @@ title: "Section 2182 - Inventions conceived during Commission contracts; ownersh
 usc_title: 42
 usc_section: "2182"
 chapter: 23
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 2182"
-generated_at: "2026-03-30T05:06:57.656Z"
+generated_at: "2026-03-30T05:09:13.921Z"
 status: "active"
 ---
 

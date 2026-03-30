@@ -3,9 +3,9 @@ title: "Section 7514a - Attainment dates"
 usc_title: 42
 usc_section: "7514a"
 chapter: 85
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 7514a"
-generated_at: "2026-03-30T05:06:57.805Z"
+generated_at: "2026-03-30T05:09:14.065Z"
 status: "active"
 ---
 

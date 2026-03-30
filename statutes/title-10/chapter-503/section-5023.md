@@ -3,9 +3,9 @@ title: "Section 5023 - Office of Naval Research: appropriations; time limit"
 usc_title: 10
 usc_section: "5023"
 chapter: 503
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "10 U.S.C. § 5023"
-generated_at: "2026-03-30T05:05:10.069Z"
+generated_at: "2026-03-30T05:08:05.418Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2002 - National criteria for home-living situations"
 usc_title: 25
 usc_section: "2002"
 chapter: 22
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "25 U.S.C. § 2002"
-generated_at: "2026-03-30T05:05:53.815Z"
+generated_at: "2026-03-30T05:08:41.425Z"
 status: "active"
 ---
 

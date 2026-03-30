@@ -3,9 +3,9 @@ title: "Section 14011 - Payment of cost of testing for sexually transmitted dise
 usc_title: 42
 usc_section: "14011"
 chapter: 136
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "42 U.S.C. § 14011"
-generated_at: "2026-03-30T05:06:57.932Z"
+generated_at: "2026-03-30T05:09:14.198Z"
 status: "active"
 ---
 

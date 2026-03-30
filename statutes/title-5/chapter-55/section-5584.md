@@ -3,9 +3,9 @@ title: "Section 5584 - Claims for overpayment of pay and allowances, and of trav
 usc_title: 5
 usc_section: "5584"
 chapter: 55
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 5584"
-generated_at: "2026-03-30T05:04:55.936Z"
+generated_at: "2026-03-30T05:07:35.391Z"
 status: "active"
 ---
 

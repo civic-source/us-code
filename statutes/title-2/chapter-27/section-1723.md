@@ -3,9 +3,9 @@ title: "Section 1723 - Service of members; meetings"
 usc_title: 2
 usc_section: "1723"
 chapter: 27
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "2 U.S.C. § 1723"
-generated_at: "2026-03-30T05:05:02.607Z"
+generated_at: "2026-03-30T05:07:20.592Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3343 - Details; to international organizations"
 usc_title: 5
 usc_section: "3343"
 chapter: 33
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "5 U.S.C. § 3343"
-generated_at: "2026-03-30T05:04:55.923Z"
+generated_at: "2026-03-30T05:07:35.379Z"
 status: "active"
 ---
 

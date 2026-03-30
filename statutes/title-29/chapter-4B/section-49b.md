@@ -3,9 +3,9 @@ title: "Section 49b - Duties of Secretary"
 usc_title: 29
 usc_section: "49b"
 chapter: 4
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 49b"
-generated_at: "2026-03-30T05:06:34.843Z"
+generated_at: "2026-03-30T05:08:47.837Z"
 status: "active"
 ---
 

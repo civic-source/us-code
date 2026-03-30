@@ -3,9 +3,9 @@ title: "Section 795k - State plan"
 usc_title: 29
 usc_section: "795k"
 chapter: 16
-current_through: "PL 114-141"
+current_through: "PL 114-143"
 classification: "29 U.S.C. § 795k"
-generated_at: "2026-03-30T05:06:34.863Z"
+generated_at: "2026-03-30T05:08:47.858Z"
 status: "active"
 ---
 
