@@ -3,9 +3,9 @@ title: "Section 4624 - Replacement housing for tenants and certain others"
 usc_title: 42
 usc_section: "4624"
 chapter: 61
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 4624"
-generated_at: "2026-03-30T04:19:56.187Z"
+generated_at: "2026-03-30T04:23:02.176Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40 - Construction of needs provisions"
 usc_title: 20
 usc_section: "40"
 chapter: 28
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 40"
-generated_at: "2026-03-30T04:18:34.386Z"
+generated_at: "2026-03-30T04:22:17.077Z"
 status: "active"
 ---
 

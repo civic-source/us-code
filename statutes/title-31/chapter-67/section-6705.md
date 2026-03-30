@@ -3,9 +3,9 @@ title: "Section 6705 - Local government allocations"
 usc_title: 31
 usc_section: "6705"
 chapter: 67
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "31 U.S.C. § 6705"
-generated_at: "2026-03-30T04:19:06.458Z"
+generated_at: "2026-03-30T04:22:42.308Z"
 status: "active"
 ---
 

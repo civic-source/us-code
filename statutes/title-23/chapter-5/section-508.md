@@ -3,9 +3,9 @@ title: "Section 508 - Transportation research and development strategic planning
 usc_title: 23
 usc_section: "508"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "23 U.S.C. § 508"
-generated_at: "2026-03-30T04:18:42.351Z"
+generated_at: "2026-03-30T04:22:23.214Z"
 status: "active"
 ---
 

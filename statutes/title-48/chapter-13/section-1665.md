@@ -3,9 +3,9 @@ title: "Section 1665 - Omitted"
 usc_title: 48
 usc_section: "1665"
 chapter: 13
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "48 U.S.C. § 1665"
-generated_at: "2026-03-30T04:20:18.627Z"
+generated_at: "2026-03-30T04:23:05.026Z"
 status: "omitted"
 ---
 

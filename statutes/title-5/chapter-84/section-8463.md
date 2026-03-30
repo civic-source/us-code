@@ -3,9 +3,9 @@ title: "Section 8463 - Rate of benefits"
 usc_title: 5
 usc_section: "8463"
 chapter: 84
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "5 U.S.C. § 8463"
-generated_at: "2026-03-30T04:18:08.040Z"
+generated_at: "2026-03-30T04:21:31.848Z"
 status: "active"
 ---
 

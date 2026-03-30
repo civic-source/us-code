@@ -3,9 +3,9 @@ title: "Section 713b - Restoration of Federal recognition, rights, and privilege
 usc_title: 25
 usc_section: "713b"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 713b"
-generated_at: "2026-03-30T04:18:44.149Z"
+generated_at: "2026-03-30T04:22:24.112Z"
 status: "active"
 ---
 

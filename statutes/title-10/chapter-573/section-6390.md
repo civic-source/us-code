@@ -3,9 +3,9 @@ title: "Section 6390 - Repealed. Pub. L. 96–513, title III, § 335 , Dec. 12, 
 usc_title: 10
 usc_section: "6390"
 chapter: 573
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 6390"
-generated_at: "2026-03-30T04:18:16.949Z"
+generated_at: "2026-03-30T04:21:51.954Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2404 - Renumbered § 2922e]"
 usc_title: 10
 usc_section: "2404"
 chapter: 141
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 2404"
-generated_at: "2026-03-30T04:18:16.905Z"
+generated_at: "2026-03-30T04:21:51.918Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2296f - Definitions"
 usc_title: 22
 usc_section: "2296f"
 chapter: 32
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 2296f"
-generated_at: "2026-03-30T04:18:49.463Z"
+generated_at: "2026-03-30T04:22:26.419Z"
 status: "active"
 ---
 

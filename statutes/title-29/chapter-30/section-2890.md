@@ -3,9 +3,9 @@ title: "Section 2890 - Support"
 usc_title: 29
 usc_section: "2890"
 chapter: 30
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "29 U.S.C. § 2890"
-generated_at: "2026-03-30T04:18:56.601Z"
+generated_at: "2026-03-30T04:22:39.607Z"
 status: "active"
 ---
 

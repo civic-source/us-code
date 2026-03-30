@@ -3,9 +3,9 @@ title: "Section 2403a - Environmental impact assessment"
 usc_title: 16
 usc_section: "2403a"
 chapter: 44
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 2403a"
-generated_at: "2026-03-30T04:18:37.681Z"
+generated_at: "2026-03-30T04:22:19.781Z"
 status: "active"
 ---
 

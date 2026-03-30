@@ -3,9 +3,9 @@ title: "Section 124to126 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(
 usc_title: 22
 usc_section: "124to126"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 124to126"
-generated_at: "2026-03-30T04:18:49.403Z"
+generated_at: "2026-03-30T04:22:26.372Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 271 - Bell operating company entry into interLATA services"
 usc_title: 47
 usc_section: "271"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "47 U.S.C. § 271"
-generated_at: "2026-03-30T04:20:10.318Z"
+generated_at: "2026-03-30T04:23:05.395Z"
 status: "active"
 ---
 

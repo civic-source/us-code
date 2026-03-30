@@ -3,9 +3,9 @@ title: "Section 409i - Acquisition of Warren Property for Morristown National Hi
 usc_title: 16
 usc_section: "409i"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 409i"
-generated_at: "2026-03-30T04:18:37.481Z"
+generated_at: "2026-03-30T04:22:19.619Z"
 status: "active"
 ---
 

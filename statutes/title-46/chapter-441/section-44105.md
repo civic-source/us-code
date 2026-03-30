@@ -3,9 +3,9 @@ title: "Section 44105 - Refusal of clearance"
 usc_title: 46
 usc_section: "44105"
 chapter: 441
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "46 U.S.C. § 44105"
-generated_at: "2026-03-30T04:20:00.767Z"
+generated_at: "2026-03-30T04:23:06.902Z"
 status: "active"
 ---
 

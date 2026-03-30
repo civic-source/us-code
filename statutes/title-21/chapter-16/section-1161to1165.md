@@ -3,9 +3,9 @@ title: "Section 1161to1165 - Repealed. Pub. L. 98–509, title III, § 301(d) , 
 usc_title: 21
 usc_section: "1161to1165"
 chapter: 16
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "21 U.S.C. § 1161to1165"
-generated_at: "2026-03-30T04:18:45.726Z"
+generated_at: "2026-03-30T04:22:22.797Z"
 status: "repealed"
 ---
 

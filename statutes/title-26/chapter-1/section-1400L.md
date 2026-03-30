@@ -3,9 +3,9 @@ title: "Section 1400L - Tax benefits for New York Liberty Zone"
 usc_title: 26
 usc_section: "1400L"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "26 U.S.C. § 1400L"
-generated_at: "2026-03-30T04:19:03.308Z"
+generated_at: "2026-03-30T04:22:38.279Z"
 status: "active"
 ---
 

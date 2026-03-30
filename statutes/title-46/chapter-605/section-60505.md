@@ -3,9 +3,9 @@ title: "Section 60505 - Retaliatory suspension of commercial privileges"
 usc_title: 46
 usc_section: "60505"
 chapter: 605
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "46 U.S.C. § 60505"
-generated_at: "2026-03-30T04:20:00.782Z"
+generated_at: "2026-03-30T04:23:06.912Z"
 status: "active"
 ---
 

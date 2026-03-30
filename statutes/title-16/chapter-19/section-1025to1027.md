@@ -3,9 +3,9 @@ title: "Section 1025to1027 - Repealed. Pub. L. 102–567, title VIII, § 814 , O
 usc_title: 16
 usc_section: "1025to1027"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 1025to1027"
-generated_at: "2026-03-30T04:18:37.631Z"
+generated_at: "2026-03-30T04:22:19.742Z"
 status: "repealed"
 ---
 

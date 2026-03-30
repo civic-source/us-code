@@ -3,9 +3,9 @@ title: "Section 16 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 S
 usc_title: 45
 usc_section: "16"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "45 U.S.C. § 16"
-generated_at: "2026-03-30T04:19:39.616Z"
+generated_at: "2026-03-30T04:22:50.090Z"
 status: "repealed"
 ---
 

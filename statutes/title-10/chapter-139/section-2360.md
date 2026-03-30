@@ -3,9 +3,9 @@ title: "Section 2360 - Research and development laboratories: contracts for serv
 usc_title: 10
 usc_section: "2360"
 chapter: 139
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 2360"
-generated_at: "2026-03-30T04:18:16.901Z"
+generated_at: "2026-03-30T04:21:51.916Z"
 status: "active"
 ---
 

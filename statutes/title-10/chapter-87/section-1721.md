@@ -3,9 +3,9 @@ title: "Section 1721 - Designation of acquisition positions"
 usc_title: 10
 usc_section: "1721"
 chapter: 87
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 1721"
-generated_at: "2026-03-30T04:18:16.876Z"
+generated_at: "2026-03-30T04:21:51.896Z"
 status: "active"
 ---
 

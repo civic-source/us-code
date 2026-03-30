@@ -3,9 +3,9 @@ title: "Section 5951 - Findings on cooperative threat reduction"
 usc_title: 22
 usc_section: "5951"
 chapter: 68
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 5951"
-generated_at: "2026-03-30T04:18:49.535Z"
+generated_at: "2026-03-30T04:22:26.473Z"
 status: "active"
 ---
 

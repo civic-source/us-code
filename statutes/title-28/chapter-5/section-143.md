@@ -3,9 +3,9 @@ title: "Section 143 - Vacant judgeship as affecting proceedings"
 usc_title: 28
 usc_section: "143"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "28 U.S.C. § 143"
-generated_at: "2026-03-30T04:18:53.878Z"
+generated_at: "2026-03-30T04:22:34.030Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4193 - Payment of interest"
 usc_title: 25
 usc_section: "4193"
 chapter: 43
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 4193"
-generated_at: "2026-03-30T04:18:44.223Z"
+generated_at: "2026-03-30T04:22:24.214Z"
 status: "active"
 ---
 

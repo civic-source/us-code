@@ -3,9 +3,9 @@ title: "Section 3254to3256 - Repealed. Pub. L. 90–235, § 2(a)(2)(B) , Jan. 2,
 usc_title: 10
 usc_section: "3254to3256"
 chapter: 333
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 3254to3256"
-generated_at: "2026-03-30T04:18:16.934Z"
+generated_at: "2026-03-30T04:21:51.942Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45a - Sequoia National Park; revision of boundaries"
 usc_title: 16
 usc_section: "45a"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 45a"
-generated_at: "2026-03-30T04:18:37.453Z"
+generated_at: "2026-03-30T04:22:19.596Z"
 status: "active"
 ---
 

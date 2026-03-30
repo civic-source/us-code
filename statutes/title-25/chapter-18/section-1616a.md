@@ -3,9 +3,9 @@ title: "Section 1616a - Indian Health Service Loan Repayment Program"
 usc_title: 25
 usc_section: "1616a"
 chapter: 18
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1616a"
-generated_at: "2026-03-30T04:18:44.170Z"
+generated_at: "2026-03-30T04:22:24.130Z"
 status: "active"
 ---
 

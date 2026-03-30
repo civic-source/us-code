@@ -3,9 +3,9 @@ title: "Section 1908 - Definitions"
 usc_title: 50
 usc_section: "1908"
 chapter: 37
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "50 U.S.C. § 1908"
-generated_at: "2026-03-30T04:20:17.698Z"
+generated_at: "2026-03-30T04:23:06.046Z"
 status: "active"
 ---
 

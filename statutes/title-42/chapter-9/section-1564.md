@@ -3,9 +3,9 @@ title: "Section 1564 - Definitions"
 usc_title: 42
 usc_section: "1564"
 chapter: 9
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 1564"
-generated_at: "2026-03-30T04:19:56.049Z"
+generated_at: "2026-03-30T04:23:02.076Z"
 status: "active"
 ---
 

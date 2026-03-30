@@ -3,9 +3,9 @@ title: "Section 4028 - John H. Chafee Coastal Barrier Resources System"
 usc_title: 42
 usc_section: "4028"
 chapter: 50
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 4028"
-generated_at: "2026-03-30T04:19:56.179Z"
+generated_at: "2026-03-30T04:23:02.169Z"
 status: "active"
 ---
 

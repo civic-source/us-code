@@ -3,9 +3,9 @@ title: "Section 2689q - Repealed. Pub. L. 96–398, title VI, § 601(f) , Oct. 7
 usc_title: 42
 usc_section: "2689q"
 chapter: 33
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 2689q"
-generated_at: "2026-03-30T04:19:56.124Z"
+generated_at: "2026-03-30T04:23:02.129Z"
 status: "repealed"
 ---
 

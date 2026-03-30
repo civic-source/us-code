@@ -3,9 +3,9 @@ title: "Section 504 - Direct purchase of printing, binding, and blank-book work 
 usc_title: 44
 usc_section: "504"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "44 U.S.C. § 504"
-generated_at: "2026-03-30T04:19:38.078Z"
+generated_at: "2026-03-30T04:22:50.524Z"
 status: "active"
 ---
 

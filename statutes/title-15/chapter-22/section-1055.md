@@ -3,9 +3,9 @@ title: "Section 1055 - Use by related companies affecting validity and registrat
 usc_title: 15
 usc_section: "1055"
 chapter: 22
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 1055"
-generated_at: "2026-03-30T04:18:26.816Z"
+generated_at: "2026-03-30T04:22:10.105Z"
 status: "active"
 ---
 

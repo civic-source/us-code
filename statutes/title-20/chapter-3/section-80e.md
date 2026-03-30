@@ -3,9 +3,9 @@ title: "Section 80e - Congressional declaration of policy"
 usc_title: 20
 usc_section: "80e"
 chapter: 3
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 80e"
-generated_at: "2026-03-30T04:18:34.356Z"
+generated_at: "2026-03-30T04:22:17.052Z"
 status: "active"
 ---
 

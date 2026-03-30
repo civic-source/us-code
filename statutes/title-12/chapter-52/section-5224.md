@@ -3,9 +3,9 @@ title: "Section 5224 - Market transparency"
 usc_title: 12
 usc_section: "5224"
 chapter: 52
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "12 U.S.C. § 5224"
-generated_at: "2026-03-30T04:18:22.861Z"
+generated_at: "2026-03-30T04:22:08.390Z"
 status: "active"
 ---
 

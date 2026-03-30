@@ -3,9 +3,9 @@ title: "Section 7603 - Sales: veterans under treatment"
 usc_title: 10
 usc_section: "7603"
 chapter: 651
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 7603"
-generated_at: "2026-03-30T04:18:16.956Z"
+generated_at: "2026-03-30T04:21:51.960Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 474 - Continuation of allowances"
 usc_title: 25
 usc_section: "474"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 474"
-generated_at: "2026-03-30T04:18:44.134Z"
+generated_at: "2026-03-30T04:22:24.101Z"
 status: "active"
 ---
 

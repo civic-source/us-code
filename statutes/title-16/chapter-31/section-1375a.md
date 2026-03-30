@@ -3,9 +3,9 @@ title: "Section 1375a - Use of fines for protection and recovery of manatees, po
 usc_title: 16
 usc_section: "1375a"
 chapter: 31
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 1375a"
-generated_at: "2026-03-30T04:18:37.646Z"
+generated_at: "2026-03-30T04:22:19.754Z"
 status: "active"
 ---
 

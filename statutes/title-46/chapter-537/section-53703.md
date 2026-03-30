@@ -3,9 +3,9 @@ title: "Section 53703 - Application procedures"
 usc_title: 46
 usc_section: "53703"
 chapter: 537
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "46 U.S.C. § 53703"
-generated_at: "2026-03-30T04:20:00.774Z"
+generated_at: "2026-03-30T04:23:06.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2344 - Review of orders; time; notice; contents of petition; ser
 usc_title: 28
 usc_section: "2344"
 chapter: 158
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "28 U.S.C. § 2344"
-generated_at: "2026-03-30T04:18:53.904Z"
+generated_at: "2026-03-30T04:22:34.050Z"
 status: "active"
 ---
 

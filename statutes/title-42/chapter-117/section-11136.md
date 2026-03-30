@@ -3,9 +3,9 @@ title: "Section 11136 - Disclosure and correction of information"
 usc_title: 42
 usc_section: "11136"
 chapter: 117
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 11136"
-generated_at: "2026-03-30T04:19:56.429Z"
+generated_at: "2026-03-30T04:23:02.347Z"
 status: "active"
 ---
 

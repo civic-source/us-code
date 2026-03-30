@@ -3,9 +3,9 @@ title: "Section 1001 - Congressional findings"
 usc_title: 45
 usc_section: "1001"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "45 U.S.C. § 1001"
-generated_at: "2026-03-30T04:19:39.638Z"
+generated_at: "2026-03-30T04:22:50.109Z"
 status: "active"
 ---
 

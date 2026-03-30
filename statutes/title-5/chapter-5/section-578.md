@@ -3,9 +3,9 @@ title: "Section 578 - Authority of the arbitrator"
 usc_title: 5
 usc_section: "578"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "5 U.S.C. § 578"
-generated_at: "2026-03-30T04:18:07.982Z"
+generated_at: "2026-03-30T04:21:31.798Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430a - Acquisition of land"
 usc_title: 16
 usc_section: "430a"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 430a"
-generated_at: "2026-03-30T04:18:37.506Z"
+generated_at: "2026-03-30T04:22:19.639Z"
 status: "active"
 ---
 

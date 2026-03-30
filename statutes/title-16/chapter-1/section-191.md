@@ -3,9 +3,9 @@ title: "Section 191 - Establishment; boundaries; reclamation project"
 usc_title: 16
 usc_section: "191"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 191"
-generated_at: "2026-03-30T04:18:37.463Z"
+generated_at: "2026-03-30T04:22:19.604Z"
 status: "active"
 ---
 

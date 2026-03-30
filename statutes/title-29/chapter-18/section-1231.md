@@ -3,9 +3,9 @@ title: "Section 1231 - Congressional study"
 usc_title: 29
 usc_section: "1231"
 chapter: 18
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "29 U.S.C. § 1231"
-generated_at: "2026-03-30T04:18:56.576Z"
+generated_at: "2026-03-30T04:22:39.588Z"
 status: "active"
 ---
 

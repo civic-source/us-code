@@ -3,9 +3,9 @@ title: "Section 1479 - Death gratuity: delegation of determinations, payments"
 usc_title: 10
 usc_section: "1479"
 chapter: 75
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 1479"
-generated_at: "2026-03-30T04:18:16.868Z"
+generated_at: "2026-03-30T04:21:51.890Z"
 status: "active"
 ---
 

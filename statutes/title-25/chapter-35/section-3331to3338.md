@@ -3,9 +3,9 @@ title: "Section 3331to3338 - Repealed. Pub. L. 105–332, § 6(b)(1) , Oct. 31, 
 usc_title: 25
 usc_section: "3331to3338"
 chapter: 35
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 3331to3338"
-generated_at: "2026-03-30T04:18:44.214Z"
+generated_at: "2026-03-30T04:22:24.207Z"
 status: "repealed"
 ---
 

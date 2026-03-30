@@ -3,9 +3,9 @@ title: "Section 857a858 - Repealed. Pub. L. 107–372, title II, § 271(2) , (4)
 usc_title: 33
 usc_section: "857a858"
 chapter: 17
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "33 U.S.C. § 857a858"
-generated_at: "2026-03-30T04:19:23.094Z"
+generated_at: "2026-03-30T04:22:43.041Z"
 status: "repealed"
 ---
 

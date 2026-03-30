@@ -3,9 +3,9 @@ title: "Section 71to90a - Omitted"
 usc_title: 27
 usc_section: "71to90a"
 chapter: 3
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "27 U.S.C. § 71to90a"
-generated_at: "2026-03-30T04:18:51.493Z"
+generated_at: "2026-03-30T04:22:29.405Z"
 status: "omitted"
 ---
 

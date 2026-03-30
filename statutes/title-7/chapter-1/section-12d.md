@@ -3,9 +3,9 @@ title: "Section 12d - Commission action for noncompliance with export sales repo
 usc_title: 7
 usc_section: "12d"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "7 U.S.C. § 12d"
-generated_at: "2026-03-30T04:18:12.703Z"
+generated_at: "2026-03-30T04:21:35.445Z"
 status: "active"
 ---
 

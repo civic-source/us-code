@@ -3,9 +3,9 @@ title: "Section 21107 - Maximum duty hours and subjects of collective bargaining
 usc_title: 49
 usc_section: "21107"
 chapter: 211
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "49 U.S.C. § 21107"
-generated_at: "2026-03-30T04:20:24.624Z"
+generated_at: "2026-03-30T04:23:08.990Z"
 status: "active"
 ---
 

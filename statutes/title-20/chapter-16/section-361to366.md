@@ -3,9 +3,9 @@ title: "Section 361to366 - Repealed. Pub. L. 104–208, div. A, title I, § 101(
 usc_title: 20
 usc_section: "361to366"
 chapter: 16
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 361to366"
-generated_at: "2026-03-30T04:18:34.361Z"
+generated_at: "2026-03-30T04:22:17.057Z"
 status: "repealed"
 ---
 

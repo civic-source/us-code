@@ -3,9 +3,9 @@ title: "Section 6014 - Income tax return—tax not computed by taxpayer"
 usc_title: 26
 usc_section: "6014"
 chapter: 61
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "26 U.S.C. § 6014"
-generated_at: "2026-03-30T04:19:03.372Z"
+generated_at: "2026-03-30T04:22:38.325Z"
 status: "active"
 ---
 

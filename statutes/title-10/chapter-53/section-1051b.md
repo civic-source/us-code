@@ -3,9 +3,9 @@ title: "Section 1051b - Bilateral or regional cooperation programs: awards and m
 usc_title: 10
 usc_section: "1051b"
 chapter: 53
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 1051b"
-generated_at: "2026-03-30T04:18:16.844Z"
+generated_at: "2026-03-30T04:21:51.872Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4704 - Applications for assistance"
 usc_title: 12
 usc_section: "4704"
 chapter: 47
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "12 U.S.C. § 4704"
-generated_at: "2026-03-30T04:18:22.851Z"
+generated_at: "2026-03-30T04:22:08.382Z"
 status: "active"
 ---
 

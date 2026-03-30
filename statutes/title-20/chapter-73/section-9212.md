@@ -3,9 +3,9 @@ title: "Section 9212 - Performance accountability system"
 usc_title: 20
 usc_section: "9212"
 chapter: 73
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 9212"
-generated_at: "2026-03-30T04:18:34.528Z"
+generated_at: "2026-03-30T04:22:17.193Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 201b - Sections applicable to lands within revised boundaries"
 usc_title: 16
 usc_section: "201b"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 201b"
-generated_at: "2026-03-30T04:18:37.464Z"
+generated_at: "2026-03-30T04:22:19.606Z"
 status: "active"
 ---
 

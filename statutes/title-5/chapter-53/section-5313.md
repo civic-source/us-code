@@ -3,9 +3,9 @@ title: "Section 5313 - Positions at level II"
 usc_title: 5
 usc_section: "5313"
 chapter: 53
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "5 U.S.C. § 5313"
-generated_at: "2026-03-30T04:18:07.999Z"
+generated_at: "2026-03-30T04:21:31.814Z"
 status: "active"
 ---
 

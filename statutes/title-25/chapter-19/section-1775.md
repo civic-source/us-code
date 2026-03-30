@@ -3,9 +3,9 @@ title: "Section 1775 - Findings and purposes"
 usc_title: 25
 usc_section: "1775"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1775"
-generated_at: "2026-03-30T04:18:44.187Z"
+generated_at: "2026-03-30T04:22:24.145Z"
 status: "active"
 ---
 

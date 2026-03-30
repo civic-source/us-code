@@ -3,9 +3,9 @@ title: "Section 6161 - Extension of time for paying tax"
 usc_title: 26
 usc_section: "6161"
 chapter: 62
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "26 U.S.C. § 6161"
-generated_at: "2026-03-30T04:19:03.386Z"
+generated_at: "2026-03-30T04:22:38.337Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5333 - Labor standards"
 usc_title: 49
 usc_section: "5333"
 chapter: 53
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "49 U.S.C. § 5333"
-generated_at: "2026-03-30T04:20:24.599Z"
+generated_at: "2026-03-30T04:23:08.973Z"
 status: "active"
 ---
 

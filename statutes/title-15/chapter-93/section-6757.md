@@ -1,17 +1,15 @@
 ---
-title: "Section 6757 - Officers"
+title: "Section 6757 - Report by the Association"
 usc_title: 15
 usc_section: "6757"
 chapter: 93
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 6757"
-generated_at: "2026-03-30T04:18:26.918Z"
+generated_at: "2026-03-30T04:22:10.180Z"
 status: "active"
 ---
 
-# § 6757. Officers
+# § 6757. Report by the Association
 
-- **(a)**
-  - **(1)** The officers of the Association shall consist of a chairperson and a vice chairperson of the Board, a president, secretary, and treasurer of the Association, and such other officers and assistant officers as may be deemed necessary.
-  - **(2)** Each officer of the Board and the Association shall be elected or appointed at such time and in such manner and for such terms not exceeding 3 years as may be prescribed in the bylaws of the Association.
-- **(b)** Only individuals who are members of the NAIC shall be eligible to serve as the chairperson of the board of directors.
+- **(a)** As soon as practicable after the close of each fiscal year, the Association shall submit to the President, through the Department of the Treasury, and the States (including State insurance regulators), and shall publish on the website of the Association, a written report regarding the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year.
+- **(b)** Each report submitted under subsection (a) with respect to any fiscal year shall include audited financial statements setting forth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.

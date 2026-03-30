@@ -3,9 +3,9 @@ title: "Section 820 - Penalties"
 usc_title: 30
 usc_section: "820"
 chapter: 22
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "30 U.S.C. § 820"
-generated_at: "2026-03-30T04:18:52.663Z"
+generated_at: "2026-03-30T04:22:34.346Z"
 status: "active"
 ---
 

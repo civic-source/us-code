@@ -3,9 +3,9 @@ title: "Section 1401to1404 - Omitted"
 usc_title: 42
 usc_section: "1401to1404"
 chapter: 8
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 1401to1404"
-generated_at: "2026-03-30T04:19:56.021Z"
+generated_at: "2026-03-30T04:23:02.056Z"
 status: "omitted"
 ---
 

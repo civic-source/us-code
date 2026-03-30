@@ -3,9 +3,9 @@ title: "Section 3961 - General rule"
 usc_title: 10
 usc_section: "3961"
 chapter: 369
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 3961"
-generated_at: "2026-03-30T04:18:16.936Z"
+generated_at: "2026-03-30T04:21:51.944Z"
 status: "active"
 ---
 

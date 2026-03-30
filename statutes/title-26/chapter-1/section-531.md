@@ -3,9 +3,9 @@ title: "Section 531 - Imposition of accumulated earnings tax"
 usc_title: 26
 usc_section: "531"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "26 U.S.C. § 531"
-generated_at: "2026-03-30T04:19:03.245Z"
+generated_at: "2026-03-30T04:22:38.229Z"
 status: "active"
 ---
 

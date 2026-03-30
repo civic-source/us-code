@@ -3,9 +3,9 @@ title: "Section 663 - Impoundment or diversion of waters"
 usc_title: 16
 usc_section: "663"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 663"
-generated_at: "2026-03-30T04:18:37.586Z"
+generated_at: "2026-03-30T04:22:19.705Z"
 status: "active"
 ---
 

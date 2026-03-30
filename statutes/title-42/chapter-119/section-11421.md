@@ -3,9 +3,9 @@ title: "Section 11421 - Repealed. Pub. L. 105–220, title I, § 199(b)(1) , Aug
 usc_title: 42
 usc_section: "11421"
 chapter: 119
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 11421"
-generated_at: "2026-03-30T04:19:56.436Z"
+generated_at: "2026-03-30T04:23:02.353Z"
 status: "repealed"
 ---
 

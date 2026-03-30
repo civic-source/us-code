@@ -3,9 +3,9 @@ title: "Section 2572 - Exemptions"
 usc_title: 19
 usc_section: "2572"
 chapter: 13
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "19 U.S.C. § 2572"
-generated_at: "2026-03-30T04:18:38.972Z"
+generated_at: "2026-03-30T04:22:15.298Z"
 status: "active"
 ---
 

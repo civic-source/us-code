@@ -3,9 +3,9 @@ title: "Section 773 - Application for benefits"
 usc_title: 33
 usc_section: "773"
 chapter: 16
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "33 U.S.C. § 773"
-generated_at: "2026-03-30T04:19:23.093Z"
+generated_at: "2026-03-30T04:22:43.040Z"
 status: "active"
 ---
 

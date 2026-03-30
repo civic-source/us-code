@@ -3,9 +3,9 @@ title: "Section 2080 - Limitations on jurisdiction of Consumer Product Safety Co
 usc_title: 15
 usc_section: "2080"
 chapter: 47
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 2080"
-generated_at: "2026-03-30T04:18:26.865Z"
+generated_at: "2026-03-30T04:22:10.141Z"
 status: "active"
 ---
 

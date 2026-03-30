@@ -3,9 +3,9 @@ title: "Section 7501 - National Nanotechnology Program"
 usc_title: 15
 usc_section: "7501"
 chapter: 101
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 7501"
-generated_at: "2026-03-30T04:18:26.928Z"
+generated_at: "2026-03-30T04:22:10.187Z"
 status: "active"
 ---
 

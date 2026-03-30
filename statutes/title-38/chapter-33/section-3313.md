@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T04:19:32.588Z"
+generated_at: "2026-03-30T04:22:46.944Z"
 status: "active"
 ---
 

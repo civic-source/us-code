@@ -3,9 +3,9 @@ title: "Section 2113 - Depository for agreements between States"
 usc_title: 44
 usc_section: "2113"
 chapter: 21
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "44 U.S.C. § 2113"
-generated_at: "2026-03-30T04:19:38.084Z"
+generated_at: "2026-03-30T04:22:50.529Z"
 status: "active"
 ---
 

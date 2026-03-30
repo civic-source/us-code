@@ -3,9 +3,9 @@ title: "Section 5634to5639 - Repealed. Pub. L. 100–690, title VII, § 7263(a)(
 usc_title: 42
 usc_section: "5634to5639"
 chapter: 72
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 5634to5639"
-generated_at: "2026-03-30T04:19:56.228Z"
+generated_at: "2026-03-30T04:23:02.201Z"
 status: "repealed"
 ---
 

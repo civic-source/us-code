@@ -3,9 +3,9 @@ title: "Section 12651 - Corporation for National and Community Service"
 usc_title: 42
 usc_section: "12651"
 chapter: 129
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 12651"
-generated_at: "2026-03-30T04:19:56.463Z"
+generated_at: "2026-03-30T04:23:02.372Z"
 status: "active"
 ---
 

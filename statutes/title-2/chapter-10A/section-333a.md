@@ -3,9 +3,9 @@ title: "Section 333a - Omitted"
 usc_title: 2
 usc_section: "333a"
 chapter: 10
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 333a"
-generated_at: "2026-03-30T04:18:06.034Z"
+generated_at: "2026-03-30T04:21:08.569Z"
 status: "omitted"
 ---
 

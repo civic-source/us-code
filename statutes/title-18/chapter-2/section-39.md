@@ -3,9 +3,9 @@ title: "Section 39 - Traffic signal preemption transmitters"
 usc_title: 18
 usc_section: "39"
 chapter: 2
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "18 U.S.C. § 39"
-generated_at: "2026-03-30T04:18:30.700Z"
+generated_at: "2026-03-30T04:22:14.311Z"
 status: "active"
 ---
 

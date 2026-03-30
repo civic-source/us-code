@@ -3,9 +3,9 @@ title: "Section 1728 - Federal financial aid programs unaffected by payments und
 usc_title: 25
 usc_section: "1728"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1728"
-generated_at: "2026-03-30T04:18:44.184Z"
+generated_at: "2026-03-30T04:22:24.142Z"
 status: "active"
 ---
 

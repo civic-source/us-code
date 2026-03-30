@@ -3,9 +3,9 @@ title: "Section 711a - Federal recognition"
 usc_title: 25
 usc_section: "711a"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 711a"
-generated_at: "2026-03-30T04:18:44.148Z"
+generated_at: "2026-03-30T04:22:24.111Z"
 status: "active"
 ---
 

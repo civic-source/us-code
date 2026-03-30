@@ -3,9 +3,9 @@ title: "Section 2520 - Repealed. Pub. L. 106–518, title II, § 207 , Nov. 13, 
 usc_title: 28
 usc_section: "2520"
 chapter: 165
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "28 U.S.C. § 2520"
-generated_at: "2026-03-30T04:18:53.906Z"
+generated_at: "2026-03-30T04:22:34.052Z"
 status: "repealed"
 ---
 

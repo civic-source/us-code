@@ -3,9 +3,9 @@ title: "Section 5506 - Repealed. Pub. L. 112–141, div. E, title II, § 52010(a
 usc_title: 49
 usc_section: "5506"
 chapter: 55
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "49 U.S.C. § 5506"
-generated_at: "2026-03-30T04:20:24.601Z"
+generated_at: "2026-03-30T04:23:08.974Z"
 status: "repealed"
 ---
 

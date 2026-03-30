@@ -3,9 +3,9 @@ title: "Section 1512 - Consideration for Federal funding"
 usc_title: 2
 usc_section: "1512"
 chapter: 25
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 1512"
-generated_at: "2026-03-30T04:18:06.059Z"
+generated_at: "2026-03-30T04:21:08.601Z"
 status: "active"
 ---
 

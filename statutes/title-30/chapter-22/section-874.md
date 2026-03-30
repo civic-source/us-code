@@ -3,9 +3,9 @@ title: "Section 874 - Hoisting and mantrips"
 usc_title: 30
 usc_section: "874"
 chapter: 22
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "30 U.S.C. § 874"
-generated_at: "2026-03-30T04:18:52.666Z"
+generated_at: "2026-03-30T04:22:34.348Z"
 status: "active"
 ---
 

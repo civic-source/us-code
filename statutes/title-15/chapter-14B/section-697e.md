@@ -3,9 +3,9 @@ title: "Section 697e - Premier Certified Lenders Program"
 usc_title: 15
 usc_section: "697e"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 697e"
-generated_at: "2026-03-30T04:18:26.802Z"
+generated_at: "2026-03-30T04:22:10.095Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 176 - Collection of commercial statistics"
 usc_title: 15
 usc_section: "176"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 176"
-generated_at: "2026-03-30T04:18:26.761Z"
+generated_at: "2026-03-30T04:22:10.065Z"
 status: "active"
 ---
 

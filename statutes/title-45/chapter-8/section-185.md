@@ -3,9 +3,9 @@ title: "Section 185 - National Air Transport Adjustment Board"
 usc_title: 45
 usc_section: "185"
 chapter: 8
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "45 U.S.C. § 185"
-generated_at: "2026-03-30T04:19:39.619Z"
+generated_at: "2026-03-30T04:22:50.092Z"
 status: "active"
 ---
 

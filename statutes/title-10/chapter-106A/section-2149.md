@@ -3,9 +3,9 @@ title: "Section 2149 - Applications for educational assistance"
 usc_title: 10
 usc_section: "2149"
 chapter: 106
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 2149"
-generated_at: "2026-03-30T04:18:16.883Z"
+generated_at: "2026-03-30T04:21:51.901Z"
 status: "active"
 ---
 

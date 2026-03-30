@@ -3,9 +3,9 @@ title: "Section 3704a - Clearinghouse for State and Local Initiatives on Product
 usc_title: 15
 usc_section: "3704a"
 chapter: 63
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 3704a"
-generated_at: "2026-03-30T04:18:26.893Z"
+generated_at: "2026-03-30T04:22:10.161Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286nn - Approval of contributions for debt reductions for the po
 usc_title: 22
 usc_section: "286nn"
 chapter: 7
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 286nn"
-generated_at: "2026-03-30T04:18:49.422Z"
+generated_at: "2026-03-30T04:22:26.388Z"
 status: "active"
 ---
 

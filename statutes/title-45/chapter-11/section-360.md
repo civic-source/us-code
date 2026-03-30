@@ -3,9 +3,9 @@ title: "Section 360 - Railroad unemployment insurance account"
 usc_title: 45
 usc_section: "360"
 chapter: 11
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "45 U.S.C. § 360"
-generated_at: "2026-03-30T04:19:39.628Z"
+generated_at: "2026-03-30T04:22:50.100Z"
 status: "active"
 ---
 

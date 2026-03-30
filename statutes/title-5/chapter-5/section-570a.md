@@ -3,9 +3,9 @@ title: "Section 570a - Authorization of appropriations"
 usc_title: 5
 usc_section: "570a"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "5 U.S.C. § 570a"
-generated_at: "2026-03-30T04:18:07.981Z"
+generated_at: "2026-03-30T04:21:31.797Z"
 status: "active"
 ---
 

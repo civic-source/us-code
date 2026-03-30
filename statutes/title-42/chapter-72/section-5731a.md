@@ -3,9 +3,9 @@ title: "Section 5731a - Consolidated review of applications"
 usc_title: 42
 usc_section: "5731a"
 chapter: 72
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 5731a"
-generated_at: "2026-03-30T04:19:56.230Z"
+generated_at: "2026-03-30T04:23:02.203Z"
 status: "active"
 ---
 

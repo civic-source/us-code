@@ -3,9 +3,9 @@ title: "Section 8106 - Buildings on reservations, parks, or public grounds"
 usc_title: 40
 usc_section: "8106"
 chapter: 81
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "40 U.S.C. § 8106"
-generated_at: "2026-03-30T04:19:36.315Z"
+generated_at: "2026-03-30T04:22:47.305Z"
 status: "active"
 ---
 

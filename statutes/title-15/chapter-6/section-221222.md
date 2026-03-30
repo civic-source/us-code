@@ -3,9 +3,9 @@ title: "Section 221222 - Repealed. July 21, 1950, ch. 484, § 13 , 64 Stat. 370"
 usc_title: 15
 usc_section: "221222"
 chapter: 6
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 221222"
-generated_at: "2026-03-30T04:18:26.763Z"
+generated_at: "2026-03-30T04:22:10.066Z"
 status: "repealed"
 ---
 

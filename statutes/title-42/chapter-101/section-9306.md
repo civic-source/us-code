@@ -3,9 +3,9 @@ title: "Section 9306 - Repealed. Pub. L. 104–46, title V, § 509 , Nov. 13, 19
 usc_title: 42
 usc_section: "9306"
 chapter: 101
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 9306"
-generated_at: "2026-03-30T04:19:56.371Z"
+generated_at: "2026-03-30T04:23:02.305Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1142 - Rates of peacetime death compensation"
 usc_title: 38
 usc_section: "1142"
 chapter: 11
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "38 U.S.C. § 1142"
-generated_at: "2026-03-30T04:19:32.564Z"
+generated_at: "2026-03-30T04:22:46.926Z"
 status: "active"
 ---
 

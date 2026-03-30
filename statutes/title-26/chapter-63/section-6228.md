@@ -3,9 +3,9 @@ title: "Section 6228 - Judicial review where administrative adjustment request i
 usc_title: 26
 usc_section: "6228"
 chapter: 63
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "26 U.S.C. § 6228"
-generated_at: "2026-03-30T04:19:03.389Z"
+generated_at: "2026-03-30T04:22:38.339Z"
 status: "active"
 ---
 

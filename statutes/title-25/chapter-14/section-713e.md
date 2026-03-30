@@ -3,9 +3,9 @@ title: "Section 713e - Membership rolls; voting rights of member"
 usc_title: 25
 usc_section: "713e"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 713e"
-generated_at: "2026-03-30T04:18:44.149Z"
+generated_at: "2026-03-30T04:22:24.112Z"
 status: "active"
 ---
 

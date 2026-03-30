@@ -3,9 +3,9 @@ title: "Section 7257a - Application required"
 usc_title: 20
 usc_section: "7257a"
 chapter: 70
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 7257a"
-generated_at: "2026-03-30T04:18:34.510Z"
+generated_at: "2026-03-30T04:22:17.178Z"
 status: "active"
 ---
 

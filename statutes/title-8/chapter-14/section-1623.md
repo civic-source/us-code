@@ -3,9 +3,9 @@ title: "Section 1623 - Limitation on eligibility for preferential treatment of a
 usc_title: 8
 usc_section: "1623"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "8 U.S.C. § 1623"
-generated_at: "2026-03-30T04:18:10.598Z"
+generated_at: "2026-03-30T04:22:03.120Z"
 status: "active"
 ---
 

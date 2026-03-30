@@ -3,9 +3,9 @@ title: "Section 3355 - Termination of relief authority"
 usc_title: 19
 usc_section: "3355"
 chapter: 21
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "19 U.S.C. § 3355"
-generated_at: "2026-03-30T04:18:38.984Z"
+generated_at: "2026-03-30T04:22:15.307Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7227 - Foreign naval vessels and aircraft: supplies and services
 usc_title: 10
 usc_section: "7227"
 chapter: 631
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 7227"
-generated_at: "2026-03-30T04:18:16.953Z"
+generated_at: "2026-03-30T04:21:51.957Z"
 status: "active"
 ---
 

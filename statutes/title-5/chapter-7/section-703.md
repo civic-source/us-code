@@ -3,9 +3,9 @@ title: "Section 703 - Form and venue of proceeding"
 usc_title: 5
 usc_section: "703"
 chapter: 7
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "5 U.S.C. § 703"
-generated_at: "2026-03-30T04:18:07.983Z"
+generated_at: "2026-03-30T04:21:31.799Z"
 status: "active"
 ---
 

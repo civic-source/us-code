@@ -3,9 +3,9 @@ title: "Section 1901 - Definition of Government publication"
 usc_title: 44
 usc_section: "1901"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "44 U.S.C. § 1901"
-generated_at: "2026-03-30T04:19:38.083Z"
+generated_at: "2026-03-30T04:22:50.529Z"
 status: "active"
 ---
 

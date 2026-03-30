@@ -3,9 +3,9 @@ title: "Section 462 - Repealed. Pub. L. 87–649, § 14d(1) , Sept. 7, 1962 , 76
 usc_title: 14
 usc_section: "462"
 chapter: 13
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "14 U.S.C. § 462"
-generated_at: "2026-03-30T04:18:19.003Z"
+generated_at: "2026-03-30T04:22:05.181Z"
 status: "repealed"
 ---
 

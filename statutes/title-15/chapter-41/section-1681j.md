@@ -3,9 +3,9 @@ title: "Section 1681j - Charges for certain disclosures"
 usc_title: 15
 usc_section: "1681j"
 chapter: 41
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 1681j"
-generated_at: "2026-03-30T04:18:26.848Z"
+generated_at: "2026-03-30T04:22:10.128Z"
 status: "active"
 ---
 

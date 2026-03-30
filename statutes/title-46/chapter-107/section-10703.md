@@ -3,9 +3,9 @@ title: "Section 10703 - Procedures of masters"
 usc_title: 46
 usc_section: "10703"
 chapter: 107
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "46 U.S.C. § 10703"
-generated_at: "2026-03-30T04:20:00.756Z"
+generated_at: "2026-03-30T04:23:06.893Z"
 status: "active"
 ---
 

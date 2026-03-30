@@ -3,9 +3,9 @@ title: "Section 463a - Extension of boundaries of Papago Indian Reservation"
 usc_title: 25
 usc_section: "463a"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 463a"
-generated_at: "2026-03-30T04:18:44.133Z"
+generated_at: "2026-03-30T04:22:24.100Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 85to88a - Repealed. Pub. L. 104–186, title II, § 204(33) , (3
 usc_title: 2
 usc_section: "85to88a"
 chapter: 4
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 85to88a"
-generated_at: "2026-03-30T04:18:06.024Z"
+generated_at: "2026-03-30T04:21:08.558Z"
 status: "repealed"
 ---
 

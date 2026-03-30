@@ -3,9 +3,9 @@ title: "Section 1776j - Satisfaction of claims"
 usc_title: 25
 usc_section: "1776j"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1776j"
-generated_at: "2026-03-30T04:18:44.188Z"
+generated_at: "2026-03-30T04:22:24.146Z"
 status: "active"
 ---
 

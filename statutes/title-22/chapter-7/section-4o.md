@@ -3,9 +3,9 @@ title: "Section 4o - Respect for indigenous peoples"
 usc_title: 22
 usc_section: "4o"
 chapter: 7
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 4o"
-generated_at: "2026-03-30T04:18:49.408Z"
+generated_at: "2026-03-30T04:22:26.377Z"
 status: "active"
 ---
 

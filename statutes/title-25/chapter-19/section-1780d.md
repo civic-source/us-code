@@ -3,9 +3,9 @@ title: "Section 1780d - Settlement Fund"
 usc_title: 25
 usc_section: "1780d"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1780d"
-generated_at: "2026-03-30T04:18:44.191Z"
+generated_at: "2026-03-30T04:22:24.147Z"
 status: "active"
 ---
 

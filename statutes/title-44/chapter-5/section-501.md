@@ -3,9 +3,9 @@ title: "Section 501 - Government printing, binding, and blank-book work to be do
 usc_title: 44
 usc_section: "501"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "44 U.S.C. § 501"
-generated_at: "2026-03-30T04:19:38.078Z"
+generated_at: "2026-03-30T04:22:50.524Z"
 status: "active"
 ---
 

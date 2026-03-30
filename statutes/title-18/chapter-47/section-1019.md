@@ -3,9 +3,9 @@ title: "Section 1019 - Certificates by consular officers"
 usc_title: 18
 usc_section: "1019"
 chapter: 47
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "18 U.S.C. § 1019"
-generated_at: "2026-03-30T04:18:30.722Z"
+generated_at: "2026-03-30T04:22:14.328Z"
 status: "active"
 ---
 

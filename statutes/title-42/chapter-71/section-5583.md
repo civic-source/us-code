@@ -3,9 +3,9 @@ title: "Section 5583 - Establishment and promotion of research, development, and
 usc_title: 42
 usc_section: "5583"
 chapter: 71
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 5583"
-generated_at: "2026-03-30T04:19:56.224Z"
+generated_at: "2026-03-30T04:23:02.199Z"
 status: "active"
 ---
 

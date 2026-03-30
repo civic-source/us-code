@@ -3,9 +3,9 @@ title: "Section 86 - Marking of obstructions"
 usc_title: 14
 usc_section: "86"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "14 U.S.C. § 86"
-generated_at: "2026-03-30T04:18:19.000Z"
+generated_at: "2026-03-30T04:22:05.178Z"
 status: "active"
 ---
 

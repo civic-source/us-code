@@ -3,9 +3,9 @@ title: "Section 960 - Tax liability"
 usc_title: 28
 usc_section: "960"
 chapter: 57
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "28 U.S.C. § 960"
-generated_at: "2026-03-30T04:18:53.891Z"
+generated_at: "2026-03-30T04:22:34.041Z"
 status: "active"
 ---
 

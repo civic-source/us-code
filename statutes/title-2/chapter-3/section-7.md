@@ -3,9 +3,9 @@ title: "Section 7 - Transferred"
 usc_title: 2
 usc_section: "7"
 chapter: 3
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 7"
-generated_at: "2026-03-30T04:18:06.022Z"
+generated_at: "2026-03-30T04:21:08.555Z"
 status: "transferred"
 ---
 

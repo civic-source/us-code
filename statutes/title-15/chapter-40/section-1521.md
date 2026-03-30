@@ -3,9 +3,9 @@ title: "Section 1521 - Working capital fund; establishment; amount; uses; reimbu
 usc_title: 15
 usc_section: "1521"
 chapter: 40
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 1521"
-generated_at: "2026-03-30T04:18:26.830Z"
+generated_at: "2026-03-30T04:22:10.115Z"
 status: "active"
 ---
 

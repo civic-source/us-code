@@ -3,9 +3,9 @@ title: "Section 1317 - Foreign Relations"
 usc_title: 44
 usc_section: "1317"
 chapter: 13
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "44 U.S.C. § 1317"
-generated_at: "2026-03-30T04:19:38.081Z"
+generated_at: "2026-03-30T04:22:50.527Z"
 status: "active"
 ---
 

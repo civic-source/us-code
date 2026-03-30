@@ -3,9 +3,9 @@ title: "Section 284t - Thirteenth replenishment"
 usc_title: 22
 usc_section: "284t"
 chapter: 7
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 284t"
-generated_at: "2026-03-30T04:18:49.417Z"
+generated_at: "2026-03-30T04:22:26.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2002 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2002"
 chapter: 30
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 2002"
-generated_at: "2026-03-30T04:18:06.068Z"
+generated_at: "2026-03-30T04:21:08.608Z"
 status: "active"
 ---
 

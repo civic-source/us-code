@@ -3,9 +3,9 @@ title: "Section 179to179k - Repealed. Pub. L. 104–285, title I, § 114 , Oct. 
 usc_title: 2
 usc_section: "179to179k"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 179to179k"
-generated_at: "2026-03-30T04:18:06.030Z"
+generated_at: "2026-03-30T04:21:08.563Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5775 - Repealed. Pub. L. 87–649, § 14c(293) , Sept. 7, 1962 ,
 usc_title: 10
 usc_section: "5775"
 chapter: 545
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 5775"
-generated_at: "2026-03-30T04:18:16.945Z"
+generated_at: "2026-03-30T04:21:51.951Z"
 status: "repealed"
 ---
 

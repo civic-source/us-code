@@ -3,9 +3,9 @@ title: "Section 7667 - Transfer of prize property to another district for sale"
 usc_title: 10
 usc_section: "7667"
 chapter: 655
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 7667"
-generated_at: "2026-03-30T04:18:16.957Z"
+generated_at: "2026-03-30T04:21:51.961Z"
 status: "active"
 ---
 

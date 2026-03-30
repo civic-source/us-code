@@ -3,9 +3,9 @@ title: "Section 422 - Cadets and midshipmen"
 usc_title: 37
 usc_section: "422"
 chapter: 7
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "37 U.S.C. § 422"
-generated_at: "2026-03-30T04:19:29.376Z"
+generated_at: "2026-03-30T04:22:44.987Z"
 status: "active"
 ---
 

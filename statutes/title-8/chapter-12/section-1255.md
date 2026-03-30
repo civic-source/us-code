@@ -3,9 +3,9 @@ title: "Section 1255 - Adjustment of status of nonimmigrant to that of person ad
 usc_title: 8
 usc_section: "1255"
 chapter: 12
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "8 U.S.C. § 1255"
-generated_at: "2026-03-30T04:18:10.579Z"
+generated_at: "2026-03-30T04:22:03.105Z"
 status: "active"
 ---
 

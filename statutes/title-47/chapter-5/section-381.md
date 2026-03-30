@@ -3,9 +3,9 @@ title: "Section 381 - Vessels transporting more than six passengers for hire req
 usc_title: 47
 usc_section: "381"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "47 U.S.C. § 381"
-generated_at: "2026-03-30T04:20:10.329Z"
+generated_at: "2026-03-30T04:23:05.404Z"
 status: "active"
 ---
 

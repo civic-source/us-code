@@ -3,9 +3,9 @@ title: "Section 306 - Special pay: officers holding positions of unusual respons
 usc_title: 37
 usc_section: "306"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "37 U.S.C. § 306"
-generated_at: "2026-03-30T04:19:29.370Z"
+generated_at: "2026-03-30T04:22:44.982Z"
 status: "active"
 ---
 

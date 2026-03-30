@@ -3,9 +3,9 @@ title: "Section 11 - Limitations of actions; waiver of claims"
 usc_title: 25
 usc_section: "11"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 11"
-generated_at: "2026-03-30T04:18:44.165Z"
+generated_at: "2026-03-30T04:22:24.126Z"
 status: "active"
 ---
 

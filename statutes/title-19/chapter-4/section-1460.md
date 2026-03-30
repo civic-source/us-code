@@ -3,9 +3,9 @@ title: "Section 1460 - Repealed. Pub. L. 99–570, title III, § 3115(b) , Oct. 
 usc_title: 19
 usc_section: "1460"
 chapter: 4
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "19 U.S.C. § 1460"
-generated_at: "2026-03-30T04:18:38.928Z"
+generated_at: "2026-03-30T04:22:15.265Z"
 status: "repealed"
 ---
 

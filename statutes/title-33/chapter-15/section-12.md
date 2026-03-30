@@ -3,9 +3,9 @@ title: "Section 12 - Modified Lower Mississippi River project as of August 18, 1
 usc_title: 33
 usc_section: "12"
 chapter: 15
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "33 U.S.C. § 12"
-generated_at: "2026-03-30T04:19:23.090Z"
+generated_at: "2026-03-30T04:22:43.037Z"
 status: "active"
 ---
 

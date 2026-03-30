@@ -3,9 +3,9 @@ title: "Section 379 - Assignment of Coast Guard personnel to naval vessels for l
 usc_title: 10
 usc_section: "379"
 chapter: 18
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 379"
-generated_at: "2026-03-30T04:18:16.817Z"
+generated_at: "2026-03-30T04:21:51.849Z"
 status: "active"
 ---
 

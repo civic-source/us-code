@@ -3,9 +3,9 @@ title: "Section 81h - Rules and regulations"
 usc_title: 19
 usc_section: "81h"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "19 U.S.C. § 81h"
-generated_at: "2026-03-30T04:18:38.918Z"
+generated_at: "2026-03-30T04:22:15.258Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 403c5to403c11 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Sta
 usc_title: 16
 usc_section: "403c5to403c11"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 403c5to403c11"
-generated_at: "2026-03-30T04:18:37.477Z"
+generated_at: "2026-03-30T04:22:19.616Z"
 status: "repealed"
 ---
 

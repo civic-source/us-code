@@ -3,9 +3,9 @@ title: "Section 6155 - Uniforms, accouterments, and equipment: sale at cost"
 usc_title: 10
 usc_section: "6155"
 chapter: 561
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 6155"
-generated_at: "2026-03-30T04:18:16.947Z"
+generated_at: "2026-03-30T04:21:51.952Z"
 status: "active"
 ---
 

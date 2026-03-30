@@ -3,9 +3,9 @@ title: "Section 2 - Loan guarantees for multifamily rental housing in rural area
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T04:19:56.048Z"
+generated_at: "2026-03-30T04:23:02.075Z"
 status: "active"
 ---
 

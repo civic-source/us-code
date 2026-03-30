@@ -3,9 +3,9 @@ title: "Section 23 - Applications"
 usc_title: 20
 usc_section: "23"
 chapter: 28
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 23"
-generated_at: "2026-03-30T04:18:34.383Z"
+generated_at: "2026-03-30T04:22:17.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321a - Evacuation plans and exercises"
 usc_title: 6
 usc_section: "321a"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "6 U.S.C. § 321a"
-generated_at: "2026-03-30T04:18:11.073Z"
+generated_at: "2026-03-30T04:21:34.685Z"
 status: "active"
 ---
 

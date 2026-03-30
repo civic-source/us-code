@@ -3,9 +3,9 @@ title: "Section 698vto698v10 - Repealed. Pub. L. 113–291, div. B, title XXX, �
 usc_title: 16
 usc_section: "698vto698v10"
 chapter: 6
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 698vto698v10"
-generated_at: "2026-03-30T04:18:37.596Z"
+generated_at: "2026-03-30T04:22:19.713Z"
 status: "repealed"
 ---
 

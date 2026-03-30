@@ -3,9 +3,9 @@ title: "Section 2204 - Authorization of appropriations; availability of funds; i
 usc_title: 16
 usc_section: "2204"
 chapter: 42
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "16 U.S.C. § 2204"
-generated_at: "2026-03-30T04:18:37.680Z"
+generated_at: "2026-03-30T04:22:19.780Z"
 status: "active"
 ---
 

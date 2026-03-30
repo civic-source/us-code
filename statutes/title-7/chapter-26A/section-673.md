@@ -3,9 +3,9 @@ title: "Section 673 - Taxes under Agricultural Adjustment Act; laws unaffected"
 usc_title: 7
 usc_section: "673"
 chapter: 26
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "7 U.S.C. § 673"
-generated_at: "2026-03-30T04:18:12.749Z"
+generated_at: "2026-03-30T04:21:35.483Z"
 status: "active"
 ---
 

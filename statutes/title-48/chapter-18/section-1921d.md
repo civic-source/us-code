@@ -3,9 +3,9 @@ title: "Section 1921d - Supplemental provisions"
 usc_title: 48
 usc_section: "1921d"
 chapter: 18
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "48 U.S.C. § 1921d"
-generated_at: "2026-03-30T04:20:18.635Z"
+generated_at: "2026-03-30T04:23:05.031Z"
 status: "active"
 ---
 

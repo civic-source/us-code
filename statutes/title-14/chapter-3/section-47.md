@@ -3,9 +3,9 @@ title: "Section 47 - Vice commandant; 1 1 So in original. Probably should be cap
 usc_title: 14
 usc_section: "47"
 chapter: 3
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "14 U.S.C. § 47"
-generated_at: "2026-03-30T04:18:18.999Z"
+generated_at: "2026-03-30T04:22:05.178Z"
 status: "active"
 ---
 

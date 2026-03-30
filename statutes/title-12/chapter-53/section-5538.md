@@ -3,9 +3,9 @@ title: "Section 5538 - Mortgage loans; rulemaking procedures; enforcement"
 usc_title: 12
 usc_section: "5538"
 chapter: 53
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "12 U.S.C. § 5538"
-generated_at: "2026-03-30T04:18:22.885Z"
+generated_at: "2026-03-30T04:22:08.407Z"
 status: "active"
 ---
 

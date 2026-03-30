@@ -3,9 +3,9 @@ title: "Section 1300l - Restoration of Federal recognition, rights, and privileg
 usc_title: 25
 usc_section: "1300l"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1300l"
-generated_at: "2026-03-30T04:18:44.166Z"
+generated_at: "2026-03-30T04:22:24.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 27d - Administration of the predominance test"
 usc_title: 7
 usc_section: "27d"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "7 U.S.C. § 27d"
-generated_at: "2026-03-30T04:18:12.708Z"
+generated_at: "2026-03-30T04:21:35.449Z"
 status: "active"
 ---
 

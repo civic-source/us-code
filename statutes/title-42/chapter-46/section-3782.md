@@ -3,9 +3,9 @@ title: "Section 3782 - Rules, regulations, and procedures; consultations and est
 usc_title: 42
 usc_section: "3782"
 chapter: 46
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "42 U.S.C. § 3782"
-generated_at: "2026-03-30T04:19:56.160Z"
+generated_at: "2026-03-30T04:23:02.155Z"
 status: "active"
 ---
 

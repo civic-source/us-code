@@ -3,9 +3,9 @@ title: "Section 884 - Art. 84. Unlawful enlistment, appointment, or separation"
 usc_title: 10
 usc_section: "884"
 chapter: 47
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 884"
-generated_at: "2026-03-30T04:18:16.835Z"
+generated_at: "2026-03-30T04:21:51.864Z"
 status: "active"
 ---
 

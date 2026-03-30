@@ -3,9 +3,9 @@ title: "Section 3810 - Relationship to other laws"
 usc_title: 15
 usc_section: "3810"
 chapter: 64
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 3810"
-generated_at: "2026-03-30T04:18:26.897Z"
+generated_at: "2026-03-30T04:22:10.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6372 - Local Early Reading First grants"
 usc_title: 20
 usc_section: "6372"
 chapter: 70
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "20 U.S.C. § 6372"
-generated_at: "2026-03-30T04:18:34.485Z"
+generated_at: "2026-03-30T04:22:17.159Z"
 status: "active"
 ---
 

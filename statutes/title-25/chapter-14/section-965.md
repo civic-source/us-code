@@ -3,9 +3,9 @@ title: "Section 965 - Payments not subject to liens, debts, or claims; exception
 usc_title: 25
 usc_section: "965"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 965"
-generated_at: "2026-03-30T04:18:44.156Z"
+generated_at: "2026-03-30T04:22:24.118Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 713a1713a2 - Repealed. Pub. L. 87–155, § 1 , Aug. 17, 1961 , 
 usc_title: 15
 usc_section: "713a1713a2"
 chapter: 15
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "15 U.S.C. § 713a1713a2"
-generated_at: "2026-03-30T04:18:26.803Z"
+generated_at: "2026-03-30T04:22:10.096Z"
 status: "repealed"
 ---
 

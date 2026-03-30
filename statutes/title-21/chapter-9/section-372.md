@@ -3,9 +3,9 @@ title: "Section 372 - Examinations and investigations"
 usc_title: 21
 usc_section: "372"
 chapter: 9
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "21 U.S.C. § 372"
-generated_at: "2026-03-30T04:18:45.685Z"
+generated_at: "2026-03-30T04:22:22.767Z"
 status: "active"
 ---
 

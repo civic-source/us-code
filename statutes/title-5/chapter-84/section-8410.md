@@ -3,9 +3,9 @@ title: "Section 8410 - Eligibility for annuity"
 usc_title: 5
 usc_section: "8410"
 chapter: 84
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "5 U.S.C. § 8410"
-generated_at: "2026-03-30T04:18:08.032Z"
+generated_at: "2026-03-30T04:21:31.842Z"
 status: "active"
 ---
 

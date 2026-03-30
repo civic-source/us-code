@@ -3,9 +3,9 @@ title: "Section 2933 - Monitoring"
 usc_title: 29
 usc_section: "2933"
 chapter: 30
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "29 U.S.C. § 2933"
-generated_at: "2026-03-30T04:18:56.606Z"
+generated_at: "2026-03-30T04:22:39.611Z"
 status: "active"
 ---
 

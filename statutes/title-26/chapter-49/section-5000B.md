@@ -3,9 +3,9 @@ title: "Section 5000B - Imposition of tax on indoor tanning services"
 usc_title: 26
 usc_section: "5000B"
 chapter: 49
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "26 U.S.C. § 5000B"
-generated_at: "2026-03-30T04:19:03.359Z"
+generated_at: "2026-03-30T04:22:38.316Z"
 status: "active"
 ---
 

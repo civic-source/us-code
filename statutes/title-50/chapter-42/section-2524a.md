@@ -3,9 +3,9 @@ title: "Section 2524a - Repealed. Pub. L. 111–84, div. C, title XXXI, § 3113(
 usc_title: 50
 usc_section: "2524a"
 chapter: 42
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "50 U.S.C. § 2524a"
-generated_at: "2026-03-30T04:20:17.710Z"
+generated_at: "2026-03-30T04:23:06.054Z"
 status: "repealed"
 ---
 

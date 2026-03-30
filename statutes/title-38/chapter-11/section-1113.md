@@ -3,9 +3,9 @@ title: "Section 1113 - Presumptions rebuttable"
 usc_title: 38
 usc_section: "1113"
 chapter: 11
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "38 U.S.C. § 1113"
-generated_at: "2026-03-30T04:19:32.563Z"
+generated_at: "2026-03-30T04:22:46.925Z"
 status: "active"
 ---
 

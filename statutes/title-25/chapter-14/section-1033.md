@@ -3,9 +3,9 @@ title: "Section 1033 - Cherokee Band; preparation of roll; eligibility for enrol
 usc_title: 25
 usc_section: "1033"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1033"
-generated_at: "2026-03-30T04:18:44.157Z"
+generated_at: "2026-03-30T04:22:24.119Z"
 status: "active"
 ---
 

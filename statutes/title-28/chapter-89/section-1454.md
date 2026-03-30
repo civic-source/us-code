@@ -3,9 +3,9 @@ title: "Section 1454 - Patent, plant variety protection, and copyright cases"
 usc_title: 28
 usc_section: "1454"
 chapter: 89
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "28 U.S.C. § 1454"
-generated_at: "2026-03-30T04:18:53.896Z"
+generated_at: "2026-03-30T04:22:34.044Z"
 status: "active"
 ---
 

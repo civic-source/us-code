@@ -3,9 +3,9 @@ title: "Section 14526 - Distressed, at-risk, and economically strong counties"
 usc_title: 40
 usc_section: "14526"
 chapter: 145
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "40 U.S.C. § 14526"
-generated_at: "2026-03-30T04:19:36.321Z"
+generated_at: "2026-03-30T04:22:47.309Z"
 status: "active"
 ---
 

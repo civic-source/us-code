@@ -3,9 +3,9 @@ title: "Section 431to433 - Repealed. Pub. L. 112–81, div. A, title V, § 567(a
 usc_title: 24
 usc_section: "431to433"
 chapter: 10
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "24 U.S.C. § 431to433"
-generated_at: "2026-03-30T04:18:42.436Z"
+generated_at: "2026-03-30T04:22:21.738Z"
 status: "repealed"
 ---
 

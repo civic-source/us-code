@@ -3,9 +3,9 @@ title: "Section 6082 - Liability for trafficking in confiscated property claimed
 usc_title: 22
 usc_section: "6082"
 chapter: 69
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 6082"
-generated_at: "2026-03-30T04:18:49.539Z"
+generated_at: "2026-03-30T04:22:26.475Z"
 status: "active"
 ---
 

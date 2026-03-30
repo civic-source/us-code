@@ -3,9 +3,9 @@ title: "Section 967b - Payments to minors and persons under legal disability; sh
 usc_title: 25
 usc_section: "967b"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 967b"
-generated_at: "2026-03-30T04:18:44.156Z"
+generated_at: "2026-03-30T04:22:24.119Z"
 status: "active"
 ---
 

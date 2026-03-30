@@ -3,9 +3,9 @@ title: "Section 978 - Taxes; initial exemption; taxes following distribution; va
 usc_title: 25
 usc_section: "978"
 chapter: 14
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 978"
-generated_at: "2026-03-30T04:18:44.157Z"
+generated_at: "2026-03-30T04:22:24.119Z"
 status: "active"
 ---
 

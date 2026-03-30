@@ -3,9 +3,9 @@ title: "Section 170310 - Records and inspection"
 usc_title: 36
 usc_section: "170310"
 chapter: 1703
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "36 U.S.C. § 170310"
-generated_at: "2026-03-30T04:19:33.357Z"
+generated_at: "2026-03-30T04:22:45.690Z"
 status: "active"
 ---
 

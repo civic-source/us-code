@@ -3,9 +3,9 @@ title: "Section 137a137b - Omitted"
 usc_title: 2
 usc_section: "137a137b"
 chapter: 5
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "2 U.S.C. § 137a137b"
-generated_at: "2026-03-30T04:18:06.026Z"
+generated_at: "2026-03-30T04:21:08.560Z"
 status: "omitted"
 ---
 

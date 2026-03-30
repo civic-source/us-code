@@ -3,9 +3,9 @@ title: "Section 1544 - Additional compensation to contractors of Federal agency"
 usc_title: 25
 usc_section: "1544"
 chapter: 17
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "25 U.S.C. § 1544"
-generated_at: "2026-03-30T04:18:44.169Z"
+generated_at: "2026-03-30T04:22:24.129Z"
 status: "active"
 ---
 

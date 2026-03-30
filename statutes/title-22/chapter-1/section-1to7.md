@@ -3,9 +3,9 @@ title: "Section 1to7 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(32)�
 usc_title: 22
 usc_section: "1to7"
 chapter: 1
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "22 U.S.C. § 1to7"
-generated_at: "2026-03-30T04:18:49.402Z"
+generated_at: "2026-03-30T04:22:26.372Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1983 - Settlements for minors or incompetents"
 usc_title: 38
 usc_section: "1983"
 chapter: 19
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "38 U.S.C. § 1983"
-generated_at: "2026-03-30T04:19:32.577Z"
+generated_at: "2026-03-30T04:22:46.936Z"
 status: "active"
 ---
 

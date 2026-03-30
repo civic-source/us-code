@@ -3,9 +3,9 @@ title: "Section 1 - Retired service members and dependents serving on advisory c
 usc_title: 14
 usc_section: "1"
 chapter: 17
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-30T04:18:19.008Z"
+generated_at: "2026-03-30T04:22:05.184Z"
 status: "active"
 ---
 

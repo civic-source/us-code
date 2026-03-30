@@ -3,9 +3,9 @@ title: "Section 1122 - Medal for Merit: award"
 usc_title: 10
 usc_section: "1122"
 chapter: 57
-current_through: "PL 113-296"
+current_through: "PL 114-9"
 classification: "10 U.S.C. § 1122"
-generated_at: "2026-03-30T04:18:16.854Z"
+generated_at: "2026-03-30T04:21:51.879Z"
 status: "active"
 ---
 
