@@ -3,9 +3,9 @@ title: "Section 3816 - Repealed. Pub. L. 90–235 , § 3(a)(2), (b)(1), Jan. 2, 
 usc_title: 10
 usc_section: "3816"
 chapter: 361
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 3816"
-generated_at: "2026-03-30T07:36:40.123Z"
+generated_at: "2026-03-30T07:39:56.788Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 66 - Repealed. Pub. L. 104–287 , § 10(b), Oct. 11, 1996 , 110
 usc_title: 45
 usc_section: "66"
 chapter: 3
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "45 U.S.C. § 66"
-generated_at: "2026-03-30T07:38:20.975Z"
+generated_at: "2026-03-30T07:42:02.677Z"
 status: "repealed"
 ---
 

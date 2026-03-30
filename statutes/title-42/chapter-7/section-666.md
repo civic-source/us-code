@@ -3,9 +3,9 @@ title: "Section 666 - Requirement of statutorily prescribed procedures to improv
 usc_title: 42
 usc_section: "666"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 666"
-generated_at: "2026-03-30T07:38:36.537Z"
+generated_at: "2026-03-30T07:42:00.020Z"
 status: "active"
 ---
 

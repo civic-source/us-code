@@ -3,9 +3,9 @@ title: "Section 564 - Working capital fund; availability for personnel functions
 usc_title: 29
 usc_section: "564"
 chapter: 12
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "29 U.S.C. § 564"
-generated_at: "2026-03-30T07:38:02.790Z"
+generated_at: "2026-03-30T07:41:18.140Z"
 status: "active"
 ---
 

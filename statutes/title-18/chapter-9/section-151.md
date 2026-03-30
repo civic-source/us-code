@@ -3,9 +3,9 @@ title: "Section 151 - Definition"
 usc_title: 18
 usc_section: "151"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "18 U.S.C. § 151"
-generated_at: "2026-03-30T07:37:07.604Z"
+generated_at: "2026-03-30T07:40:33.342Z"
 status: "active"
 ---
 

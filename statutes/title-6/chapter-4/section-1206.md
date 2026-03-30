@@ -3,9 +3,9 @@ title: "Section 1206 - Use of transportation security card in hazmat licensing"
 usc_title: 6
 usc_section: "1206"
 chapter: 4
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "6 U.S.C. § 1206"
-generated_at: "2026-03-30T07:36:33.499Z"
+generated_at: "2026-03-30T07:39:36.425Z"
 status: "active"
 ---
 

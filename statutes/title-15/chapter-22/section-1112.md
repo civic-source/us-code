@@ -3,9 +3,9 @@ title: "Section 1112 - Classification of goods and services; registration in plu
 usc_title: 15
 usc_section: "1112"
 chapter: 22
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 1112"
-generated_at: "2026-03-30T07:37:02.098Z"
+generated_at: "2026-03-30T07:40:30.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2374 - Repealed. Pub. L. 112–40, title II , § 222(a)(1), Oct.
 usc_title: 19
 usc_section: "2374"
 chapter: 12
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "19 U.S.C. § 2374"
-generated_at: "2026-03-30T07:37:19.537Z"
+generated_at: "2026-03-30T07:40:54.521Z"
 status: "repealed"
 ---
 

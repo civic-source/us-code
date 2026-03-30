@@ -3,9 +3,9 @@ title: "Section 7430 - Disposition of products"
 usc_title: 10
 usc_section: "7430"
 chapter: 641
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 7430"
-generated_at: "2026-03-30T07:36:40.138Z"
+generated_at: "2026-03-30T07:39:56.803Z"
 status: "active"
 ---
 

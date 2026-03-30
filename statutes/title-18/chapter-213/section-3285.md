@@ -3,9 +3,9 @@ title: "Section 3285 - Criminal contempt"
 usc_title: 18
 usc_section: "3285"
 chapter: 213
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "18 U.S.C. § 3285"
-generated_at: "2026-03-30T07:37:07.648Z"
+generated_at: "2026-03-30T07:40:33.387Z"
 status: "active"
 ---
 

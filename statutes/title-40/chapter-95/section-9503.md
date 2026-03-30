@@ -3,9 +3,9 @@ title: "Section 9503 - Record of property"
 usc_title: 40
 usc_section: "9503"
 chapter: 95
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "40 U.S.C. § 9503"
-generated_at: "2026-03-30T07:38:15.082Z"
+generated_at: "2026-03-30T07:41:46.190Z"
 status: "active"
 ---
 

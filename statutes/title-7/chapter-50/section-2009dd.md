@@ -3,9 +3,9 @@ title: "Section 2009dd - Purpose"
 usc_title: 7
 usc_section: "2009dd"
 chapter: 50
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 2009dd"
-generated_at: "2026-03-30T07:36:44.979Z"
+generated_at: "2026-03-30T07:39:51.059Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6991f - Federal facilities"
 usc_title: 42
 usc_section: "6991f"
 chapter: 82
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 6991f"
-generated_at: "2026-03-30T07:38:36.852Z"
+generated_at: "2026-03-30T07:42:00.352Z"
 status: "active"
 ---
 

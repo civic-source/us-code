@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T07:38:36.513Z"
+generated_at: "2026-03-30T07:41:59.995Z"
 status: "active"
 ---
 
@@ -230,7 +230,7 @@ status: "active"
     - **(A)** is not an individual (regardless of whether it is a “qualified organization” within the meaning of paragraph (4)(B)); or
     - **(B)** is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter VIII, subchapter XVI, or any combination of such subchapters;
   - **(6)** In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner shall provide for the periodic onsite review of any person or agency located in the United States that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter VIII or subchapter XVI) to another individual pursuant to the appointment of such person or agency as a representative payee under this subsection, section 1007 of this title , or section 1383(a)(2) of this title in any case in which—
-    - **(C)** 7 (i) The Commissioner of Social Security shall make annual grants directly to the protection and advocacy system serving each of the States and the American Indian consortium for the purpose of conducting reviews of representative payees in accordance with this subparagraph. The total amount used by the Commissioner for such grants each year—
+    - **(C)** 7 7 So in original. There are no subpars. (A) and (B). (i) The Commissioner of Social Security shall make annual grants directly to the protection and advocacy system serving each of the States and the American Indian consortium for the purpose of conducting reviews of representative payees in accordance with this subparagraph. The total amount used by the Commissioner for such grants each year—
         - **(I)** shall be an amount sufficient, as determined by the Commissioner in consultation with each of the protection and advocacy systems, to carry out all of the activities described in clause (ii); and
         - **(II)** shall not be less than $25,000,000.
       - **(i)** the representative payee is a person who serves in that capacity with respect to 15 or more such individuals;

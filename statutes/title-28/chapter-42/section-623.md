@@ -3,9 +3,9 @@ title: "Section 623 - Duties of the Board"
 usc_title: 28
 usc_section: "623"
 chapter: 42
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "28 U.S.C. § 623"
-generated_at: "2026-03-30T07:37:48.500Z"
+generated_at: "2026-03-30T07:41:21.601Z"
 status: "active"
 ---
 

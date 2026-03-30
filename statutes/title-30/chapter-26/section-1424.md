@@ -3,9 +3,9 @@ title: "Section 1424 - Monitoring of activities of licensees and permittees"
 usc_title: 30
 usc_section: "1424"
 chapter: 26
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "30 U.S.C. § 1424"
-generated_at: "2026-03-30T07:37:48.920Z"
+generated_at: "2026-03-30T07:41:20.582Z"
 status: "active"
 ---
 

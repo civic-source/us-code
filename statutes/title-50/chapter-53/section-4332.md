@@ -3,9 +3,9 @@ title: "Section 4332 - Hearings on claims; rules and regulations; delegation of 
 usc_title: 50
 usc_section: "4332"
 chapter: 53
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "50 U.S.C. § 4332"
-generated_at: "2026-03-30T07:38:51.379Z"
+generated_at: "2026-03-30T07:42:20.604Z"
 status: "active"
 ---
 

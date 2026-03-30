@@ -3,9 +3,9 @@ title: "Section 1703 - Seizure and forfeiture of vessels"
 usc_title: 19
 usc_section: "1703"
 chapter: 5
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "19 U.S.C. § 1703"
-generated_at: "2026-03-30T07:37:19.526Z"
+generated_at: "2026-03-30T07:40:54.512Z"
 status: "active"
 ---
 

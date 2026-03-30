@@ -3,9 +3,9 @@ title: "Section 3 - SIPC advances"
 usc_title: 15
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T07:37:02.041Z"
+generated_at: "2026-03-30T07:40:29.976Z"
 status: "active"
 ---
 

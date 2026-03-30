@@ -3,9 +3,9 @@ title: "Section 1024 - Joint Economic Committee"
 usc_title: 15
 usc_section: "1024"
 chapter: 21
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 1024"
-generated_at: "2026-03-30T07:37:02.097Z"
+generated_at: "2026-03-30T07:40:30.028Z"
 status: "active"
 ---
 

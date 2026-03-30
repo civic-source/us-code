@@ -3,9 +3,9 @@ title: "Section 2703a - Special rules for Haiti"
 usc_title: 19
 usc_section: "2703a"
 chapter: 15
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "19 U.S.C. § 2703a"
-generated_at: "2026-03-30T07:37:19.547Z"
+generated_at: "2026-03-30T07:40:54.530Z"
 status: "active"
 ---
 

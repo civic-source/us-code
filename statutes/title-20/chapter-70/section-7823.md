@@ -3,9 +3,9 @@ title: "Section 7823 - Consolidation of funds for local administration"
 usc_title: 20
 usc_section: "7823"
 chapter: 70
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "20 U.S.C. § 7823"
-generated_at: "2026-03-30T07:37:06.654Z"
+generated_at: "2026-03-30T07:40:35.349Z"
 status: "active"
 ---
 

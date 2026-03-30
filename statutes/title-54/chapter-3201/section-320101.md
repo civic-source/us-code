@@ -3,9 +3,9 @@ title: "Section 320101 - Declaration of national policy"
 usc_title: 54
 usc_section: "320101"
 chapter: 3201
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "54 U.S.C. § 320101"
-generated_at: "2026-03-30T07:38:57.855Z"
+generated_at: "2026-03-30T07:42:35.718Z"
 status: "active"
 ---
 

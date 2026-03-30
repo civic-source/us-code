@@ -3,9 +3,9 @@ title: "Section 1680s - Disease and injury prevention report"
 usc_title: 25
 usc_section: "1680s"
 chapter: 18
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "25 U.S.C. § 1680s"
-generated_at: "2026-03-30T07:37:38.573Z"
+generated_at: "2026-03-30T07:41:15.060Z"
 status: "active"
 ---
 

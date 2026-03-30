@@ -3,9 +3,9 @@ title: "Section 1405 - Authorization of appropriations"
 usc_title: 6
 usc_section: "1405"
 chapter: 5
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "6 U.S.C. § 1405"
-generated_at: "2026-03-30T07:36:33.499Z"
+generated_at: "2026-03-30T07:39:36.425Z"
 status: "active"
 ---
 

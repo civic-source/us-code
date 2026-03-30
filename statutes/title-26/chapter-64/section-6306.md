@@ -3,9 +3,9 @@ title: "Section 6306 - Qualified tax collection contracts"
 usc_title: 26
 usc_section: "6306"
 chapter: 64
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 6306"
-generated_at: "2026-03-30T07:37:55.432Z"
+generated_at: "2026-03-30T07:41:26.834Z"
 status: "active"
 ---
 

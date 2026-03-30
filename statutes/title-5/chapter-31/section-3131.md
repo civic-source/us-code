@@ -3,9 +3,9 @@ title: "Section 3131 - The Senior Executive Service"
 usc_title: 5
 usc_section: "3131"
 chapter: 31
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "5 U.S.C. § 3131"
-generated_at: "2026-03-30T07:36:31.299Z"
+generated_at: "2026-03-30T07:39:15.290Z"
 status: "active"
 ---
 

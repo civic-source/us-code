@@ -3,9 +3,9 @@ title: "Section 1507 - Unlicensed spectrum policy"
 usc_title: 47
 usc_section: "1507"
 chapter: 14
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "47 U.S.C. § 1507"
-generated_at: "2026-03-30T07:38:39.866Z"
+generated_at: "2026-03-30T07:42:05.364Z"
 status: "active"
 ---
 

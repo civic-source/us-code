@@ -3,9 +3,9 @@ title: "Section 2484 - Commissary stores: merchandise that may be sold; uniform 
 usc_title: 10
 usc_section: "2484"
 chapter: 147
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 2484"
-generated_at: "2026-03-30T07:36:40.103Z"
+generated_at: "2026-03-30T07:39:56.767Z"
 status: "active"
 ---
 

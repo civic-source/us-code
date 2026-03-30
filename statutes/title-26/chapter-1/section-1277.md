@@ -3,9 +3,9 @@ title: "Section 1277 - Deferral of interest deduction allocable to accrued marke
 usc_title: 26
 usc_section: "1277"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 1277"
-generated_at: "2026-03-30T07:37:55.366Z"
+generated_at: "2026-03-30T07:41:26.768Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2507d - Establishment of Sexual Assault Advisory Council"
 usc_title: 22
 usc_section: "2507d"
 chapter: 34
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 2507d"
-generated_at: "2026-03-30T07:37:35.742Z"
+generated_at: "2026-03-30T07:41:07.117Z"
 status: "active"
 ---
 

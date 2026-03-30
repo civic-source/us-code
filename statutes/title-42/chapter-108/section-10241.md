@@ -3,9 +3,9 @@ title: "Section 10241 - “State” defined"
 usc_title: 42
 usc_section: "10241"
 chapter: 108
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 10241"
-generated_at: "2026-03-30T07:38:36.939Z"
+generated_at: "2026-03-30T07:42:00.438Z"
 status: "active"
 ---
 

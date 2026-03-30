@@ -3,9 +3,9 @@ title: "Section 2220 - Repealed. Pub. L. 95–424, title V , § 502(d)(1), Oct. 
 usc_title: 22
 usc_section: "2220"
 chapter: 32
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 2220"
-generated_at: "2026-03-30T07:37:35.725Z"
+generated_at: "2026-03-30T07:41:07.101Z"
 status: "repealed"
 ---
 

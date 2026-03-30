@@ -3,9 +3,9 @@ title: "Section 2625 - Special rules for standards"
 usc_title: 16
 usc_section: "2625"
 chapter: 46
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 2625"
-generated_at: "2026-03-30T07:37:27.824Z"
+generated_at: "2026-03-30T07:41:02.169Z"
 status: "active"
 ---
 

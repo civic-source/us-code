@@ -3,9 +3,9 @@ title: "Section 760aa - Findings and purposes"
 usc_title: 16
 usc_section: "760aa"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 760aa"
-generated_at: "2026-03-30T07:37:27.761Z"
+generated_at: "2026-03-30T07:41:02.104Z"
 status: "active"
 ---
 

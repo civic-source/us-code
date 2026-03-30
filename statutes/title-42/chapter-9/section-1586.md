@@ -3,9 +3,9 @@ title: "Section 1586 - Sale of specific housing projects"
 usc_title: 42
 usc_section: "1586"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 1586"
-generated_at: "2026-03-30T07:38:36.702Z"
+generated_at: "2026-03-30T07:42:00.204Z"
 status: "active"
 ---
 

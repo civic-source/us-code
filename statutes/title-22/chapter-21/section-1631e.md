@@ -3,9 +3,9 @@ title: "Section 1631e - Rules by district courts; appeals"
 usc_title: 22
 usc_section: "1631e"
 chapter: 21
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 1631e"
-generated_at: "2026-03-30T07:37:35.710Z"
+generated_at: "2026-03-30T07:41:07.084Z"
 status: "active"
 ---
 

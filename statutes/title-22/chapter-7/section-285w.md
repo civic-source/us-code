@@ -3,9 +3,9 @@ title: "Section 285w - Contribution to Asian Development Fund; authorization of 
 usc_title: 22
 usc_section: "285w"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 285w"
-generated_at: "2026-03-30T07:37:35.694Z"
+generated_at: "2026-03-30T07:41:07.068Z"
 status: "active"
 ---
 

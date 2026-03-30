@@ -3,9 +3,9 @@ title: "Section 7613 - Repealed. Pub. L. 101–549, title VIII , § 803, Nov. 15
 usc_title: 42
 usc_section: "7613"
 chapter: 85
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 7613"
-generated_at: "2026-03-30T07:38:36.884Z"
+generated_at: "2026-03-30T07:42:00.384Z"
 status: "repealed"
 ---
 

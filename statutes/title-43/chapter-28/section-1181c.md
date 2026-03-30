@@ -3,9 +3,9 @@ title: "Section 1181c - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21,
 usc_title: 43
 usc_section: "1181c"
 chapter: 28
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "43 U.S.C. § 1181c"
-generated_at: "2026-03-30T07:38:18.290Z"
+generated_at: "2026-03-30T07:41:48.804Z"
 status: "repealed"
 ---
 

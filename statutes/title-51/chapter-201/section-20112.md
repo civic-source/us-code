@@ -3,9 +3,9 @@ title: "Section 20112 - Functions of the Administration"
 usc_title: 51
 usc_section: "20112"
 chapter: 201
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "51 U.S.C. § 20112"
-generated_at: "2026-03-30T07:38:58.187Z"
+generated_at: "2026-03-30T07:42:37.945Z"
 status: "active"
 ---
 

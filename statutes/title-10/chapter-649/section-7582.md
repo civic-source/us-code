@@ -3,9 +3,9 @@ title: "Section 7582 - Naval and Marine Corps Historical Centers: fee for provid
 usc_title: 10
 usc_section: "7582"
 chapter: 649
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 7582"
-generated_at: "2026-03-30T07:36:40.139Z"
+generated_at: "2026-03-30T07:39:56.804Z"
 status: "active"
 ---
 

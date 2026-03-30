@@ -3,9 +3,9 @@ title: "Section 265 - Omitted"
 usc_title: 22
 usc_section: "265"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 265"
-generated_at: "2026-03-30T07:37:35.686Z"
+generated_at: "2026-03-30T07:41:07.060Z"
 status: "omitted"
 ---
 

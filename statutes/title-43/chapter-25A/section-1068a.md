@@ -3,9 +3,9 @@ title: "Section 1068a - Appraisal"
 usc_title: 43
 usc_section: "1068a"
 chapter: 25
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "43 U.S.C. § 1068a"
-generated_at: "2026-03-30T07:38:18.290Z"
+generated_at: "2026-03-30T07:41:48.804Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 906 - Limitation on exclusive rights: reverse engineering; first
 usc_title: 17
 usc_section: "906"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "17 U.S.C. § 906"
-generated_at: "2026-03-30T07:37:04.091Z"
+generated_at: "2026-03-30T07:40:35.511Z"
 status: "active"
 ---
 

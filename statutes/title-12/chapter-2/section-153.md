@@ -3,9 +3,9 @@ title: "Section 153 - Repealed. Pub. L. 103–325, title VI , § 602(e)(22), (23
 usc_title: 12
 usc_section: "153"
 chapter: 2
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "12 U.S.C. § 153"
-generated_at: "2026-03-30T07:36:51.556Z"
+generated_at: "2026-03-30T07:40:04.679Z"
 status: "repealed"
 ---
 

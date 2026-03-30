@@ -3,9 +3,9 @@ title: "Section 7206 - Fraud and false statements"
 usc_title: 26
 usc_section: "7206"
 chapter: 75
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 7206"
-generated_at: "2026-03-30T07:37:55.448Z"
+generated_at: "2026-03-30T07:41:26.849Z"
 status: "active"
 ---
 

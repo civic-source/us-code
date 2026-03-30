@@ -3,9 +3,9 @@ title: "Section 6023 - Repealed. Pub. L. 103–230, title II , § 204, Apr. 6, 1
 usc_title: 42
 usc_section: "6023"
 chapter: 75
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 6023"
-generated_at: "2026-03-30T07:38:36.818Z"
+generated_at: "2026-03-30T07:42:00.321Z"
 status: "repealed"
 ---
 

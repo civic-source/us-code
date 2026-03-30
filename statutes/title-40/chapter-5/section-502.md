@@ -3,9 +3,9 @@ title: "Section 502 - Services for other entities"
 usc_title: 40
 usc_section: "502"
 chapter: 5
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "40 U.S.C. § 502"
-generated_at: "2026-03-30T07:38:15.072Z"
+generated_at: "2026-03-30T07:41:46.181Z"
 status: "active"
 ---
 

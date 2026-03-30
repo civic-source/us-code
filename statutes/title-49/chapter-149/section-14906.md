@@ -3,9 +3,9 @@ title: "Section 14906 - Evasion of regulation of carriers and brokers"
 usc_title: 49
 usc_section: "14906"
 chapter: 149
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 14906"
-generated_at: "2026-03-30T07:38:55.878Z"
+generated_at: "2026-03-30T07:42:29.441Z"
 status: "active"
 ---
 

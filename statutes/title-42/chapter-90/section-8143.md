@@ -3,9 +3,9 @@ title: "Section 8143 - Definitions"
 usc_title: 42
 usc_section: "8143"
 chapter: 90
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 8143"
-generated_at: "2026-03-30T07:38:36.897Z"
+generated_at: "2026-03-30T07:42:00.396Z"
 status: "active"
 ---
 

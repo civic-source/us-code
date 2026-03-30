@@ -3,9 +3,9 @@ title: "Section 17175 - Photovoltaic demonstration program"
 usc_title: 42
 usc_section: "17175"
 chapter: 152
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 17175"
-generated_at: "2026-03-30T07:38:37.026Z"
+generated_at: "2026-03-30T07:42:00.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1437 - Sense of Senate regarding adoption of simplified and stre
 usc_title: 2
 usc_section: "1437"
 chapter: 24
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "2 U.S.C. § 1437"
-generated_at: "2026-03-30T07:36:29.493Z"
+generated_at: "2026-03-30T07:39:32.311Z"
 status: "active"
 ---
 

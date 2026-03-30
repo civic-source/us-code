@@ -3,9 +3,9 @@ title: "Section 1322 - Bringing in aliens subject to denial of admission on a he
 usc_title: 8
 usc_section: "1322"
 chapter: 12
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "8 U.S.C. § 1322"
-generated_at: "2026-03-30T07:36:42.110Z"
+generated_at: "2026-03-30T07:39:38.859Z"
 status: "active"
 ---
 

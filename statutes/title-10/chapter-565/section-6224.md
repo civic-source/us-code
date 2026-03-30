@@ -3,9 +3,9 @@ title: "Section 6224 - Repealed. Pub. L. 87–649 , § 14c(46), Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "6224"
 chapter: 565
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 6224"
-generated_at: "2026-03-30T07:36:40.132Z"
+generated_at: "2026-03-30T07:39:56.797Z"
 status: "repealed"
 ---
 

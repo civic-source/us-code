@@ -3,9 +3,9 @@ title: "Section 679 - Inventory of real property"
 usc_title: 14
 usc_section: "679"
 chapter: 17
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "14 U.S.C. § 679"
-generated_at: "2026-03-30T07:36:47.054Z"
+generated_at: "2026-03-30T07:40:05.017Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5501 - International negotiations concerning aviation security"
 usc_title: 22
 usc_section: "5501"
 chapter: 64
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 5501"
-generated_at: "2026-03-30T07:37:35.783Z"
+generated_at: "2026-03-30T07:41:07.160Z"
 status: "active"
 ---
 

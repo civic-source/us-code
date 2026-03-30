@@ -3,9 +3,9 @@ title: "Section 7112 - Additional activities to monitor and combat forced labor 
 usc_title: 22
 usc_section: "7112"
 chapter: 78
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 7112"
-generated_at: "2026-03-30T07:37:35.802Z"
+generated_at: "2026-03-30T07:41:07.179Z"
 status: "active"
 ---
 

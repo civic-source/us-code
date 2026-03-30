@@ -3,9 +3,9 @@ title: "Section 492b - Distinguished flying cross"
 usc_title: 14
 usc_section: "492b"
 chapter: 13
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "14 U.S.C. § 492b"
-generated_at: "2026-03-30T07:36:47.050Z"
+generated_at: "2026-03-30T07:40:05.013Z"
 status: "active"
 ---
 

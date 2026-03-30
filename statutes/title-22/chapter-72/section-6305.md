@@ -3,9 +3,9 @@ title: "Section 6305 - Definitions"
 usc_title: 22
 usc_section: "6305"
 chapter: 72
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 6305"
-generated_at: "2026-03-30T07:37:35.791Z"
+generated_at: "2026-03-30T07:41:07.167Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1645i - Award payment procedures"
 usc_title: 22
 usc_section: "1645i"
 chapter: 21
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 1645i"
-generated_at: "2026-03-30T07:37:35.712Z"
+generated_at: "2026-03-30T07:41:07.087Z"
 status: "active"
 ---
 

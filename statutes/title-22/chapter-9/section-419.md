@@ -3,9 +3,9 @@ title: "Section 419 - Omitted"
 usc_title: 22
 usc_section: "419"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 419"
-generated_at: "2026-03-30T07:37:35.702Z"
+generated_at: "2026-03-30T07:41:07.077Z"
 status: "omitted"
 ---
 

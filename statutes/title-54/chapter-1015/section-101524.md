@@ -3,9 +3,9 @@ title: "Section 101524 - Special rule for service contract to provide transporta
 usc_title: 54
 usc_section: "101524"
 chapter: 1015
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "54 U.S.C. § 101524"
-generated_at: "2026-03-30T07:38:57.852Z"
+generated_at: "2026-03-30T07:42:35.715Z"
 status: "active"
 ---
 

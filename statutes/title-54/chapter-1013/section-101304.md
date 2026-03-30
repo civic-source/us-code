@@ -3,9 +3,9 @@ title: "Section 101304 - Personal equipment and property"
 usc_title: 54
 usc_section: "101304"
 chapter: 1013
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "54 U.S.C. § 101304"
-generated_at: "2026-03-30T07:38:57.852Z"
+generated_at: "2026-03-30T07:42:35.715Z"
 status: "active"
 ---
 

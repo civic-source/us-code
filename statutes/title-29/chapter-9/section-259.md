@@ -3,9 +3,9 @@ title: "Section 259 - Reliance in future on administrative rulings, etc."
 usc_title: 29
 usc_section: "259"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "29 U.S.C. § 259"
-generated_at: "2026-03-30T07:38:02.788Z"
+generated_at: "2026-03-30T07:41:18.137Z"
 status: "active"
 ---
 

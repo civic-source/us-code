@@ -3,9 +3,9 @@ title: "Section 8504 - Repealed. Pub. L. 96–513, title II , § 210, Dec. 12, 1
 usc_title: 10
 usc_section: "8504"
 chapter: 841
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 8504"
-generated_at: "2026-03-30T07:36:40.142Z"
+generated_at: "2026-03-30T07:39:56.807Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Cross-program recovery of overpayments from benefits"
 usc_title: 42
 usc_section: "17"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-30T07:38:36.560Z"
+generated_at: "2026-03-30T07:42:00.042Z"
 status: "active"
 ---
 

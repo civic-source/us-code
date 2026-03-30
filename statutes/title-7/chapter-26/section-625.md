@@ -3,9 +3,9 @@ title: "Section 625 - Repealed. Pub. L. 108–357, title VI , § 611(s), Oct. 22
 usc_title: 7
 usc_section: "625"
 chapter: 26
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 625"
-generated_at: "2026-03-30T07:36:44.925Z"
+generated_at: "2026-03-30T07:39:51.008Z"
 status: "repealed"
 ---
 

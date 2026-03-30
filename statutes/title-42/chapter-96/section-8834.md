@@ -3,9 +3,9 @@ title: "Section 8834 - Price support loans and price guarantees"
 usc_title: 42
 usc_section: "8834"
 chapter: 96
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 8834"
-generated_at: "2026-03-30T07:38:36.907Z"
+generated_at: "2026-03-30T07:42:00.407Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(3)** In the case of any price guarantee under this subsection for a new municipal waste energy project—
     - **(A)** disbursements under such guarantee may not be made for more than 7 consecutive 12-month periods; and
     - **(B)** amounts paid under this subsection may be required to be repaid to the Secretary of Energy under such terms and conditions as the Secretary may prescribe, including interest at a rate not in excess of the rate prescribed under subsection (a).
-- **(d)** For purposes—
+- **(d)** For purposes of this section—
   - **(1)** The term “new municipal waste energy project” means any municipal waste energy project which—
     - **(A)** is initially placed in service after June 30, 1980 ; or
     - **(B)** if initially placed in service before June 30, 1980 , has an increased capacity by reason of additional construction, and as such is placed in service after such date.

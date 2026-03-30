@@ -3,9 +3,9 @@ title: "Section 6202 - Definitions"
 usc_title: 42
 usc_section: "6202"
 chapter: 77
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 6202"
-generated_at: "2026-03-30T07:38:36.819Z"
+generated_at: "2026-03-30T07:42:00.321Z"
 status: "active"
 ---
 

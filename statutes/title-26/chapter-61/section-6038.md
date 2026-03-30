@@ -3,9 +3,9 @@ title: "Section 6038 - Information reporting with respect to certain foreign cor
 usc_title: 26
 usc_section: "6038"
 chapter: 61
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 6038"
-generated_at: "2026-03-30T07:37:55.419Z"
+generated_at: "2026-03-30T07:41:26.821Z"
 status: "active"
 ---
 

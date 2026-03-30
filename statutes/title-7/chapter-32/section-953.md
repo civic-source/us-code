@@ -3,9 +3,9 @@ title: "Section 953 - Reports; by whom made; penalties"
 usc_title: 7
 usc_section: "953"
 chapter: 32
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 953"
-generated_at: "2026-03-30T07:36:44.931Z"
+generated_at: "2026-03-30T07:39:51.014Z"
 status: "active"
 ---
 

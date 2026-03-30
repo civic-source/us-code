@@ -3,9 +3,9 @@ title: "Section 1032 - Exchange of stock for property"
 usc_title: 26
 usc_section: "1032"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 1032"
-generated_at: "2026-03-30T07:37:55.358Z"
+generated_at: "2026-03-30T07:41:26.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5850 - Unresolved safety issues plan"
 usc_title: 42
 usc_section: "5850"
 chapter: 73
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 5850"
-generated_at: "2026-03-30T07:38:36.816Z"
+generated_at: "2026-03-30T07:42:00.319Z"
 status: "active"
 ---
 

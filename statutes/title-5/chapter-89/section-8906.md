@@ -3,9 +3,9 @@ title: "Section 8906 - Contributions"
 usc_title: 5
 usc_section: "8906"
 chapter: 89
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "5 U.S.C. § 8906"
-generated_at: "2026-03-30T07:36:31.349Z"
+generated_at: "2026-03-30T07:39:15.339Z"
 status: "active"
 ---
 

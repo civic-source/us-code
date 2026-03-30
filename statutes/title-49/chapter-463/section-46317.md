@@ -3,9 +3,9 @@ title: "Section 46317 - Criminal penalty for pilots operating in air transportat
 usc_title: 49
 usc_section: "46317"
 chapter: 463
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 46317"
-generated_at: "2026-03-30T07:38:55.921Z"
+generated_at: "2026-03-30T07:42:29.480Z"
 status: "active"
 ---
 

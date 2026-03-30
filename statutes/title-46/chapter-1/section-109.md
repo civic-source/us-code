@@ -3,9 +3,9 @@ title: "Section 109 - Foreign commerce or trade"
 usc_title: 46
 usc_section: "109"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "46 U.S.C. § 109"
-generated_at: "2026-03-30T07:38:48.750Z"
+generated_at: "2026-03-30T07:42:06.065Z"
 status: "active"
 ---
 

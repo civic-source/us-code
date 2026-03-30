@@ -3,9 +3,9 @@ title: "Section 5680 - Technical assistance for specialty crops"
 usc_title: 7
 usc_section: "5680"
 chapter: 87
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 5680"
-generated_at: "2026-03-30T07:36:45.021Z"
+generated_at: "2026-03-30T07:39:51.100Z"
 status: "active"
 ---
 

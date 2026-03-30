@@ -3,9 +3,9 @@ title: "Section 8449 - Repealed. Pub. L. 96–513, title II , § 208, Dec. 12, 1
 usc_title: 10
 usc_section: "8449"
 chapter: 839
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 8449"
-generated_at: "2026-03-30T07:36:40.142Z"
+generated_at: "2026-03-30T07:39:56.807Z"
 status: "repealed"
 ---
 

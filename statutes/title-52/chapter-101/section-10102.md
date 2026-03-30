@@ -3,9 +3,9 @@ title: "Section 10102 - Interference with freedom of elections"
 usc_title: 52
 usc_section: "10102"
 chapter: 101
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "52 U.S.C. § 10102"
-generated_at: "2026-03-30T07:38:57.988Z"
+generated_at: "2026-03-30T07:42:31.418Z"
 status: "active"
 ---
 

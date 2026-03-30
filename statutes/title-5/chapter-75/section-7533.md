@@ -3,9 +3,9 @@ title: "Section 7533 - Effect on other statutes"
 usc_title: 5
 usc_section: "7533"
 chapter: 75
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "5 U.S.C. § 7533"
-generated_at: "2026-03-30T07:36:31.327Z"
+generated_at: "2026-03-30T07:39:15.318Z"
 status: "active"
 ---
 

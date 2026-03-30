@@ -3,9 +3,9 @@ title: "Section 3 - Feasibility study funding"
 usc_title: 42
 usc_section: "3"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T07:38:36.675Z"
+generated_at: "2026-03-30T07:42:00.171Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(7)** Estimates of Federal, State, and local government savings and other savings if the project is implemented and the outcomes are achieved as a result of each intervention.
   - **(8)** An estimated timeline for implementation and completion of the project, which shall not exceed 10 years.
   - **(9)** With respect to a project for which the State or local government selects an intermediary to operate the project, any partnerships needed to successfully execute the project and the ability of the intermediary to foster the partnerships.
-  - **(10)** The expected resources needed to complete the feasibility study for the State or local government to apply for social impact partnership funding under section 2052.
+  - **(10)** The expected resources needed to complete the feasibility study for the State or local government to apply for social impact partnership funding under section 1397n–1 of this title .
 - **(b)** Not later than 6 months after receiving an application for feasibility study funding under subsection (a), the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships and the head of any Federal agency administering a similar intervention or serving a population similar to that served by the project, shall select State or local government feasibility study proposals for funding based on the following:
   - **(1)** The recommendations made by the Commission on Social Impact Partnerships.
   - **(2)** The likelihood that the proposal will achieve the desired outcomes.

@@ -3,9 +3,9 @@ title: "Section 6221 - United States Navy Band; officer in charge"
 usc_title: 10
 usc_section: "6221"
 chapter: 565
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 6221"
-generated_at: "2026-03-30T07:36:40.131Z"
+generated_at: "2026-03-30T07:39:56.797Z"
 status: "active"
 ---
 

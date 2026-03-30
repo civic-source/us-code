@@ -3,9 +3,9 @@ title: "Section 627 - Sale of unpatented and unentered land prohibited; suspensi
 usc_title: 43
 usc_section: "627"
 chapter: 13
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "43 U.S.C. § 627"
-generated_at: "2026-03-30T07:38:18.283Z"
+generated_at: "2026-03-30T07:41:48.797Z"
 status: "active"
 ---
 

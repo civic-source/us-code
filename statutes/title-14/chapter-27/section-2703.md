@@ -3,9 +3,9 @@ title: "Section 2703 - Authorization of personnel end strengths"
 usc_title: 14
 usc_section: "2703"
 chapter: 27
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "14 U.S.C. § 2703"
-generated_at: "2026-03-30T07:36:47.055Z"
+generated_at: "2026-03-30T07:40:05.018Z"
 status: "active"
 ---
 

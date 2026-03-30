@@ -3,9 +3,9 @@ title: "Section 4535 - Petition and review; enforcement; investigations"
 usc_title: 7
 usc_section: "4535"
 chapter: 76
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 4535"
-generated_at: "2026-03-30T07:36:45.014Z"
+generated_at: "2026-03-30T07:39:51.093Z"
 status: "active"
 ---
 

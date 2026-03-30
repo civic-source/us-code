@@ -3,9 +3,9 @@ title: "Section 247 - Reports to Congress"
 usc_title: 12
 usc_section: "247"
 chapter: 3
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "12 U.S.C. § 247"
-generated_at: "2026-03-30T07:36:51.559Z"
+generated_at: "2026-03-30T07:40:04.681Z"
 status: "active"
 ---
 

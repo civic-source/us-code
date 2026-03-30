@@ -3,9 +3,9 @@ title: "Section 2153 - Special rules for other employees for service abroad"
 usc_title: 50
 usc_section: "2153"
 chapter: 38
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "50 U.S.C. § 2153"
-generated_at: "2026-03-30T07:38:51.341Z"
+generated_at: "2026-03-30T07:42:20.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4556 - State income tax withholding; definitions"
 usc_title: 2
 usc_section: "4556"
 chapter: 45
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "2 U.S.C. § 4556"
-generated_at: "2026-03-30T07:36:29.508Z"
+generated_at: "2026-03-30T07:39:32.324Z"
 status: "active"
 ---
 

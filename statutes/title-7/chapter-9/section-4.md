@@ -3,9 +3,9 @@ title: "Section 4 - Violation of final order by live poultry dealer; penalty"
 usc_title: 7
 usc_section: "4"
 chapter: 9
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T07:36:44.912Z"
+generated_at: "2026-03-30T07:39:50.997Z"
 status: "active"
 ---
 

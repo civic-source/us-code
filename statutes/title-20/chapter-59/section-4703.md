@@ -3,9 +3,9 @@ title: "Section 4703 - Establishment of Barry Goldwater Scholarship and Excellen
 usc_title: 20
 usc_section: "4703"
 chapter: 59
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "20 U.S.C. § 4703"
-generated_at: "2026-03-30T07:37:06.624Z"
+generated_at: "2026-03-30T07:40:35.321Z"
 status: "active"
 ---
 

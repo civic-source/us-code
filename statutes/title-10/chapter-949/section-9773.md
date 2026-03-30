@@ -3,9 +3,9 @@ title: "Section 9773 - Acquisition and construction: air bases and depots"
 usc_title: 10
 usc_section: "9773"
 chapter: 949
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 9773"
-generated_at: "2026-03-30T07:36:40.147Z"
+generated_at: "2026-03-30T07:39:56.812Z"
 status: "active"
 ---
 

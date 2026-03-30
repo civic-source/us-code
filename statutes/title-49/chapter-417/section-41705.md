@@ -3,9 +3,9 @@ title: "Section 41705 - Discrimination against handicapped individuals"
 usc_title: 49
 usc_section: "41705"
 chapter: 417
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 41705"
-generated_at: "2026-03-30T07:38:55.908Z"
+generated_at: "2026-03-30T07:42:29.468Z"
 status: "active"
 ---
 

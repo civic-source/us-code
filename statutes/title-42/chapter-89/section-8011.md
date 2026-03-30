@@ -3,9 +3,9 @@ title: "Section 8011 - Revised congregate housing services program"
 usc_title: 42
 usc_section: "8011"
 chapter: 89
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 8011"
-generated_at: "2026-03-30T07:38:36.894Z"
+generated_at: "2026-03-30T07:42:00.394Z"
 status: "active"
 ---
 
@@ -166,7 +166,7 @@ status: "active"
     - **(B)** impedes the ability of the individual to live independently unless the individual receives congregate services.
   - **(20)** The term “unit of general local government”—
     - **(A)** means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
-    - **(B)** includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B). 11 11 So in original. Probably should be subsection “(h)(1)(B).”.
+    - **(B)** includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B). 11 11 So in original. Probably should be subsection “(h)(1)(B).”
 - **(l)**
   - **(1)** Each Secretary concerned shall submit to the Congress, for each fiscal year for which assistance is provided for congregate services programs under this section, an annual report—
     - **(A)** describing the activities being carried out with assistance under this section and the population being served by such activities;

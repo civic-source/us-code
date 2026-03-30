@@ -3,9 +3,9 @@ title: "Section 3302 - Committee on Levee Safety"
 usc_title: 33
 usc_section: "3302"
 chapter: 46
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "33 U.S.C. § 3302"
-generated_at: "2026-03-30T07:38:06.152Z"
+generated_at: "2026-03-30T07:41:36.513Z"
 status: "active"
 ---
 

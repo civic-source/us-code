@@ -3,9 +3,9 @@ title: "Section 1050 - Repealed. Pub. L. 114–328, div. A, title XII , § 1243(
 usc_title: 10
 usc_section: "1050"
 chapter: 53
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 1050"
-generated_at: "2026-03-30T07:36:40.049Z"
+generated_at: "2026-03-30T07:39:56.712Z"
 status: "repealed"
 ---
 

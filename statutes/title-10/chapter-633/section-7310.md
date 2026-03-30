@@ -3,9 +3,9 @@ title: "Section 7310 - Overhaul, repair, etc. of vessels in foreign shipyards: r
 usc_title: 10
 usc_section: "7310"
 chapter: 633
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 7310"
-generated_at: "2026-03-30T07:36:40.136Z"
+generated_at: "2026-03-30T07:39:56.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 420 - Allowances while participating in international sports"
 usc_title: 37
 usc_section: "420"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "37 U.S.C. § 420"
-generated_at: "2026-03-30T07:38:10.466Z"
+generated_at: "2026-03-30T07:41:39.016Z"
 status: "active"
 ---
 

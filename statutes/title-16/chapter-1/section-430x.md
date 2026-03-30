@@ -3,9 +3,9 @@ title: "Section 430x - Authorization of appropriations; authorization to expand 
 usc_title: 16
 usc_section: "430x"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 430x"
-generated_at: "2026-03-30T07:37:27.686Z"
+generated_at: "2026-03-30T07:41:02.030Z"
 status: "active"
 ---
 

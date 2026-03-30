@@ -3,9 +3,9 @@ title: "Section 5801 - Purpose and definitions"
 usc_title: 7
 usc_section: "5801"
 chapter: 88
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 5801"
-generated_at: "2026-03-30T07:36:45.021Z"
+generated_at: "2026-03-30T07:39:51.100Z"
 status: "active"
 ---
 

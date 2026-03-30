@@ -3,9 +3,9 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T07:37:55.317Z"
+generated_at: "2026-03-30T07:41:26.719Z"
 status: "active"
 ---
 

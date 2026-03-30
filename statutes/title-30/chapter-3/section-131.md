@@ -3,9 +3,9 @@ title: "Section 131 - Omitted"
 usc_title: 30
 usc_section: "131"
 chapter: 3
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "30 U.S.C. § 131"
-generated_at: "2026-03-30T07:37:48.894Z"
+generated_at: "2026-03-30T07:41:20.555Z"
 status: "omitted"
 ---
 

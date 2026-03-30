@@ -3,9 +3,9 @@ title: "Section 924 - Witnesses"
 usc_title: 33
 usc_section: "924"
 chapter: 18
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "33 U.S.C. § 924"
-generated_at: "2026-03-30T07:38:06.105Z"
+generated_at: "2026-03-30T07:41:36.465Z"
 status: "active"
 ---
 

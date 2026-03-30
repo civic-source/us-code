@@ -3,9 +3,9 @@ title: "Section 1466 - Land and personal property title"
 usc_title: 25
 usc_section: "1466"
 chapter: 17
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "25 U.S.C. § 1466"
-generated_at: "2026-03-30T07:37:38.562Z"
+generated_at: "2026-03-30T07:41:15.050Z"
 status: "active"
 ---
 

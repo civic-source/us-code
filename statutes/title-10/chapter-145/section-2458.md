@@ -3,9 +3,9 @@ title: "Section 2458 - Inventory management policies"
 usc_title: 10
 usc_section: "2458"
 chapter: 145
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 2458"
-generated_at: "2026-03-30T07:36:40.101Z"
+generated_at: "2026-03-30T07:39:56.766Z"
 status: "active"
 ---
 

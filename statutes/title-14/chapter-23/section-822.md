@@ -3,9 +3,9 @@ title: "Section 822 - Purpose of the Coast Guard Auxiliary"
 usc_title: 14
 usc_section: "822"
 chapter: 23
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "14 U.S.C. § 822"
-generated_at: "2026-03-30T07:36:47.054Z"
+generated_at: "2026-03-30T07:40:05.017Z"
 status: "active"
 ---
 

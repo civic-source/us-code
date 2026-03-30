@@ -3,9 +3,9 @@ title: "Section 2139a - Regulations implementing requirements relating to licens
 usc_title: 42
 usc_section: "2139a"
 chapter: 23
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 2139a"
-generated_at: "2026-03-30T07:38:36.742Z"
+generated_at: "2026-03-30T07:42:00.247Z"
 status: "active"
 ---
 

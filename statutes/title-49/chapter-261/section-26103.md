@@ -3,9 +3,9 @@ title: "Section 26103 - Safety regulations"
 usc_title: 49
 usc_section: "26103"
 chapter: 261
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 26103"
-generated_at: "2026-03-30T07:38:55.889Z"
+generated_at: "2026-03-30T07:42:29.451Z"
 status: "active"
 ---
 

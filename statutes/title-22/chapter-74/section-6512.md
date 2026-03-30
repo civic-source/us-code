@@ -3,9 +3,9 @@ title: "Section 6512 - Transfer of functions to Secretary of State"
 usc_title: 22
 usc_section: "6512"
 chapter: 74
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 6512"
-generated_at: "2026-03-30T07:37:35.795Z"
+generated_at: "2026-03-30T07:41:07.171Z"
 status: "active"
 ---
 

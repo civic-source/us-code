@@ -3,9 +3,9 @@ title: "Section 2011 - Establishment, charters, titles, branches"
 usc_title: 12
 usc_section: "2011"
 chapter: 23
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "12 U.S.C. § 2011"
-generated_at: "2026-03-30T07:36:51.655Z"
+generated_at: "2026-03-30T07:40:04.765Z"
 status: "active"
 ---
 

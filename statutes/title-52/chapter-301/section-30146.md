@@ -3,9 +3,9 @@ title: "Section 30146 - Collection and use of conference fees"
 usc_title: 52
 usc_section: "30146"
 chapter: 301
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "52 U.S.C. § 30146"
-generated_at: "2026-03-30T07:38:57.999Z"
+generated_at: "2026-03-30T07:42:31.430Z"
 status: "active"
 ---
 

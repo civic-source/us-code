@@ -3,9 +3,9 @@ title: "Section 7706 - Enforcement generally"
 usc_title: 15
 usc_section: "7706"
 chapter: 103
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 7706"
-generated_at: "2026-03-30T07:37:02.188Z"
+generated_at: "2026-03-30T07:40:30.115Z"
 status: "active"
 ---
 

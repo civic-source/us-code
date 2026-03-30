@@ -3,9 +3,9 @@ title: "Section 32904 - Calculation of average fuel economy"
 usc_title: 49
 usc_section: "32904"
 chapter: 329
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 32904"
-generated_at: "2026-03-30T07:38:55.901Z"
+generated_at: "2026-03-30T07:42:29.462Z"
 status: "active"
 ---
 

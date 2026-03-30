@@ -3,9 +3,9 @@ title: "Section 1161 - Bill Emerson National Hunger Fellows and Mickey Leland In
 usc_title: 2
 usc_section: "1161"
 chapter: 22
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "2 U.S.C. § 1161"
-generated_at: "2026-03-30T07:36:29.490Z"
+generated_at: "2026-03-30T07:39:32.308Z"
 status: "active"
 ---
 

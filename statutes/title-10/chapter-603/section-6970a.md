@@ -3,9 +3,9 @@ title: "Section 6970a - Permanent professors: retirement for years of service; a
 usc_title: 10
 usc_section: "6970a"
 chapter: 603
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 6970a"
-generated_at: "2026-03-30T07:36:40.134Z"
+generated_at: "2026-03-30T07:39:56.799Z"
 status: "active"
 ---
 

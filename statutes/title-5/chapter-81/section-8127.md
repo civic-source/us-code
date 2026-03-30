@@ -3,9 +3,9 @@ title: "Section 8127 - Representation; attorneys’ fees"
 usc_title: 5
 usc_section: "8127"
 chapter: 81
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "5 U.S.C. § 8127"
-generated_at: "2026-03-30T07:36:31.330Z"
+generated_at: "2026-03-30T07:39:15.321Z"
 status: "active"
 ---
 

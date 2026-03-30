@@ -3,9 +3,9 @@ title: "Section 50301 - Organization"
 usc_title: 36
 usc_section: "50301"
 chapter: 503
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "36 U.S.C. § 50301"
-generated_at: "2026-03-30T07:38:15.626Z"
+generated_at: "2026-03-30T07:41:39.616Z"
 status: "active"
 ---
 

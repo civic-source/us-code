@@ -3,9 +3,9 @@ title: "Section 521c - Definitions"
 usc_title: 16
 usc_section: "521c"
 chapter: 2
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 521c"
-generated_at: "2026-03-30T07:37:27.730Z"
+generated_at: "2026-03-30T07:41:02.073Z"
 status: "active"
 ---
 

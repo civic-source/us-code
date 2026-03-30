@@ -3,9 +3,9 @@ title: "Section 18233 - Acquisition"
 usc_title: 10
 usc_section: "18233"
 chapter: 1803
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 18233"
-generated_at: "2026-03-30T07:36:40.159Z"
+generated_at: "2026-03-30T07:39:56.825Z"
 status: "active"
 ---
 

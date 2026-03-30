@@ -3,9 +3,9 @@ title: "Section 44925 - Deployment and use of detection equipment at airport scr
 usc_title: 49
 usc_section: "44925"
 chapter: 449
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 44925"
-generated_at: "2026-03-30T07:38:55.918Z"
+generated_at: "2026-03-30T07:42:29.478Z"
 status: "active"
 ---
 

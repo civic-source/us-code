@@ -3,9 +3,9 @@ title: "Section 195e - Transparency in research and development"
 usc_title: 6
 usc_section: "195e"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "6 U.S.C. § 195e"
-generated_at: "2026-03-30T07:36:33.469Z"
+generated_at: "2026-03-30T07:39:36.397Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2101 - Congressional statement of findings and purpose"
 usc_title: 33
 usc_section: "2101"
 chapter: 35
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "33 U.S.C. § 2101"
-generated_at: "2026-03-30T07:38:06.133Z"
+generated_at: "2026-03-30T07:41:36.494Z"
 status: "active"
 ---
 

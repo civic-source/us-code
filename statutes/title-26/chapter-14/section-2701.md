@@ -3,9 +3,9 @@ title: "Section 2701 - Special valuation rules in case of transfers of certain i
 usc_title: 26
 usc_section: "2701"
 chapter: 14
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 2701"
-generated_at: "2026-03-30T07:37:55.383Z"
+generated_at: "2026-03-30T07:41:26.785Z"
 status: "active"
 ---
 

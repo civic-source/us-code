@@ -3,9 +3,9 @@ title: "Section 5406 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5406"
 chapter: 74
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 5406"
-generated_at: "2026-03-30T07:37:27.852Z"
+generated_at: "2026-03-30T07:41:02.196Z"
 status: "repealed"
 ---
 

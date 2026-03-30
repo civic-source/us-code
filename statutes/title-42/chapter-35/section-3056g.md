@@ -3,9 +3,9 @@ title: "Section 3056g - Employment assistance and Federal housing and supplement
 usc_title: 42
 usc_section: "3056g"
 chapter: 35
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 3056g"
-generated_at: "2026-03-30T07:38:36.766Z"
+generated_at: "2026-03-30T07:42:00.270Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4631 - Federal share of costs"
 usc_title: 42
 usc_section: "4631"
 chapter: 61
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 4631"
-generated_at: "2026-03-30T07:38:36.790Z"
+generated_at: "2026-03-30T07:42:00.293Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 34 - Definitions applicable to sections 34 to 36"
 usc_title: 15
 usc_section: "34"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 34"
-generated_at: "2026-03-30T07:37:02.003Z"
+generated_at: "2026-03-30T07:40:29.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8731 - Availability of nonrecourse marketing assistance loans fo
 usc_title: 7
 usc_section: "8731"
 chapter: 113
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 8731"
-generated_at: "2026-03-30T07:36:45.065Z"
+generated_at: "2026-03-30T07:39:51.142Z"
 status: "active"
 ---
 

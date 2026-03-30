@@ -3,9 +3,9 @@ title: "Section 4405 - Fees and charges"
 usc_title: 7
 usc_section: "4405"
 chapter: 75
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 4405"
-generated_at: "2026-03-30T07:36:45.013Z"
+generated_at: "2026-03-30T07:39:51.092Z"
 status: "active"
 ---
 

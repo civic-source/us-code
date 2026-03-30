@@ -3,9 +3,9 @@ title: "Section 6311 - Regulations"
 usc_title: 5
 usc_section: "6311"
 chapter: 63
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "5 U.S.C. § 6311"
-generated_at: "2026-03-30T07:36:31.322Z"
+generated_at: "2026-03-30T07:39:15.313Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7541 - Compliance by vehicles and engines in actual use"
 usc_title: 42
 usc_section: "7541"
 chapter: 85
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 7541"
-generated_at: "2026-03-30T07:38:36.878Z"
+generated_at: "2026-03-30T07:42:00.377Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
 - **(d)** Any cost obligation of any dealer incurred as a result of any requirement imposed by subsection (a), (b), or (c) shall be borne by the manufacturer. The transfer of any such cost obligation from a manufacturer to any dealer through franchise or other agreement is prohibited.
 - **(e)** If a manufacturer includes in any advertisement a statement respecting the cost or value of emission control devices or systems, such manufacturer shall set forth in such statement the cost or value attributed to such devices or systems by the Secretary of Labor (through the Bureau of Labor Statistics). The Secretary of Labor, and his representatives, shall have the same access for this purpose to the books, documents, papers, and records of a manufacturer as the Comptroller General has to those of a recipient of assistance for purposes of section 7611 of this title .
 - **(f)** Any inspection of a motor vehicle or a motor vehicle engine for purposes of subsection (c)(1), after its sale to the ultimate purchaser, shall be made only if the owner of such vehicle or engine voluntarily permits such inspection to be made, except as may be provided by any State or local inspection program.
-- **(g)** For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3))), 3 3 So in original. The second closing parenthesis probably should not appear. unless such part, item, or device is covered by any warranty not mandated by this chapter.
+- **(g)** For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3))), 3 3 So in original. The final closing parenthesis probably should not appear. unless such part, item, or device is covered by any warranty not mandated by this chapter.
 - **(h)**
   - **(1)** If at any time during the period for which the warranty applies under subsection (b), a motor vehicle fails to conform to the applicable regulations under section 7521 of this title as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2)(without regard to subparagraph (C) thereof).
   - **(2)** Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).

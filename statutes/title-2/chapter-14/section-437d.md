@@ -3,9 +3,9 @@ title: "Section 437d - Transferred"
 usc_title: 2
 usc_section: "437d"
 chapter: 14
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "2 U.S.C. § 437d"
-generated_at: "2026-03-30T07:36:29.479Z"
+generated_at: "2026-03-30T07:39:32.297Z"
 status: "transferred"
 ---
 

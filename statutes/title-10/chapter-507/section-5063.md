@@ -3,9 +3,9 @@ title: "Section 5063 - United States Marine Corps: composition; functions"
 usc_title: 10
 usc_section: "5063"
 chapter: 507
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 5063"
-generated_at: "2026-03-30T07:36:40.129Z"
+generated_at: "2026-03-30T07:39:56.793Z"
 status: "active"
 ---
 

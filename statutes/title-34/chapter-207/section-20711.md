@@ -3,9 +3,9 @@ title: "Section 20711 - Establishing a national strategy to combat human traffic
 usc_title: 34
 usc_section: "20711"
 chapter: 207
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "34 U.S.C. § 20711"
-generated_at: "2026-03-30T07:38:07.368Z"
+generated_at: "2026-03-30T07:41:29.486Z"
 status: "active"
 ---
 

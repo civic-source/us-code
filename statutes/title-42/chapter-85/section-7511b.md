@@ -3,9 +3,9 @@ title: "Section 7511b - Federal ozone measures"
 usc_title: 42
 usc_section: "7511b"
 chapter: 85
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 7511b"
-generated_at: "2026-03-30T07:38:36.874Z"
+generated_at: "2026-03-30T07:42:00.374Z"
 status: "active"
 ---
 

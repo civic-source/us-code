@@ -3,9 +3,9 @@ title: "Section 404 - Establishment; boundaries"
 usc_title: 16
 usc_section: "404"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 404"
-generated_at: "2026-03-30T07:37:27.662Z"
+generated_at: "2026-03-30T07:41:02.006Z"
 status: "active"
 ---
 

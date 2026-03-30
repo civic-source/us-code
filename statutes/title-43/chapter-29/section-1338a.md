@@ -3,9 +3,9 @@ title: "Section 1338a - Moneys received as a result of forfeiture by Outer Conti
 usc_title: 43
 usc_section: "1338a"
 chapter: 29
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "43 U.S.C. § 1338a"
-generated_at: "2026-03-30T07:38:18.292Z"
+generated_at: "2026-03-30T07:41:48.807Z"
 status: "active"
 ---
 

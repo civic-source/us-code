@@ -3,9 +3,9 @@ title: "Section 720h - Clarification of ANGTA status and authorities"
 usc_title: 15
 usc_section: "720h"
 chapter: 15
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 720h"
-generated_at: "2026-03-30T07:37:02.093Z"
+generated_at: "2026-03-30T07:40:30.025Z"
 status: "active"
 ---
 

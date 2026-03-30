@@ -3,9 +3,9 @@ title: "Section 3472 - Delegation of functions"
 usc_title: 20
 usc_section: "3472"
 chapter: 48
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "20 U.S.C. § 3472"
-generated_at: "2026-03-30T07:37:06.618Z"
+generated_at: "2026-03-30T07:40:35.315Z"
 status: "active"
 ---
 

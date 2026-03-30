@@ -3,9 +3,9 @@ title: "Section 806a - Art. 6a. Investigation and disposition of matters pertain
 usc_title: 10
 usc_section: "806a"
 chapter: 47
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 806a"
-generated_at: "2026-03-30T07:36:40.038Z"
+generated_at: "2026-03-30T07:39:56.700Z"
 status: "active"
 ---
 

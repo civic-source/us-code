@@ -3,9 +3,9 @@ title: "Section 3013 - Board of Directors"
 usc_title: 12
 usc_section: "3013"
 chapter: 31
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "12 U.S.C. § 3013"
-generated_at: "2026-03-30T07:36:51.674Z"
+generated_at: "2026-03-30T07:40:04.781Z"
 status: "active"
 ---
 

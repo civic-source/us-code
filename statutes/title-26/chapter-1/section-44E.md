@@ -3,9 +3,9 @@ title: "Section 44E - Renumbered § 40]"
 usc_title: 26
 usc_section: "44E"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 44E"
-generated_at: "2026-03-30T07:37:55.241Z"
+generated_at: "2026-03-30T07:41:26.644Z"
 status: "renumbered"
 ---
 

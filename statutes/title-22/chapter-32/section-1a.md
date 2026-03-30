@@ -3,9 +3,9 @@ title: "Section 1a - Classification of reports"
 usc_title: 22
 usc_section: "1a"
 chapter: 32
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-30T07:37:35.736Z"
+generated_at: "2026-03-30T07:41:07.111Z"
 status: "active"
 ---
 

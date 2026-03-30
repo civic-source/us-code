@@ -3,9 +3,9 @@ title: "Section 4603 - General provisions"
 usc_title: 50
 usc_section: "4603"
 chapter: 56
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "50 U.S.C. § 4603"
-generated_at: "2026-03-30T07:38:51.384Z"
+generated_at: "2026-03-30T07:42:20.607Z"
 status: "active"
 ---
 

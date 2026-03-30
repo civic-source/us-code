@@ -3,9 +3,9 @@ title: "Section 63 - General exceptions"
 usc_title: 42
 usc_section: "63"
 chapter: 6
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 63"
-generated_at: "2026-03-30T07:38:36.501Z"
+generated_at: "2026-03-30T07:41:59.982Z"
 status: "active"
 ---
 

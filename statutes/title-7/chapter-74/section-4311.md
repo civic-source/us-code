@@ -3,9 +3,9 @@ title: "Section 4311 - Exemption from assessments"
 usc_title: 7
 usc_section: "4311"
 chapter: 74
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 4311"
-generated_at: "2026-03-30T07:36:45.012Z"
+generated_at: "2026-03-30T07:39:51.092Z"
 status: "active"
 ---
 

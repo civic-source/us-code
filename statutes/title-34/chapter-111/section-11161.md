@@ -3,9 +3,9 @@ title: "Section 11161 - Research and evaluation; statistical analyses; informati
 usc_title: 34
 usc_section: "11161"
 chapter: 111
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "34 U.S.C. § 11161"
-generated_at: "2026-03-30T07:38:07.352Z"
+generated_at: "2026-03-30T07:41:29.469Z"
 status: "active"
 ---
 

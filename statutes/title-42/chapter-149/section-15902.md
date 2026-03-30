@@ -3,9 +3,9 @@ title: "Section 15902 - Program on oil and gas royalties in-kind"
 usc_title: 42
 usc_section: "15902"
 chapter: 149
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 15902"
-generated_at: "2026-03-30T07:38:37.005Z"
+generated_at: "2026-03-30T07:42:00.502Z"
 status: "active"
 ---
 

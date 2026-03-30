@@ -3,9 +3,9 @@ title: "Section 943a - Data base"
 usc_title: 16
 usc_section: "943a"
 chapter: 15
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 943a"
-generated_at: "2026-03-30T07:37:27.779Z"
+generated_at: "2026-03-30T07:41:02.124Z"
 status: "active"
 ---
 

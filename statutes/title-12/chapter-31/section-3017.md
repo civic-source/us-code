@@ -3,9 +3,9 @@ title: "Section 3017 - Bonds, debentures, notes and other evidences of indebtedn
 usc_title: 12
 usc_section: "3017"
 chapter: 31
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "12 U.S.C. § 3017"
-generated_at: "2026-03-30T07:36:51.674Z"
+generated_at: "2026-03-30T07:40:04.782Z"
 status: "active"
 ---
 

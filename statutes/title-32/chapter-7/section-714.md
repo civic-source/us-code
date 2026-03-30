@@ -3,9 +3,9 @@ title: "Section 714 - Final settlement of accounts: deceased members"
 usc_title: 32
 usc_section: "714"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "32 U.S.C. § 714"
-generated_at: "2026-03-30T07:38:04.425Z"
+generated_at: "2026-03-30T07:41:28.407Z"
 status: "active"
 ---
 

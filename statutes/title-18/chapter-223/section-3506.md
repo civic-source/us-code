@@ -3,9 +3,9 @@ title: "Section 3506 - Service of papers filed in opposition to official request
 usc_title: 18
 usc_section: "3506"
 chapter: 223
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "18 U.S.C. § 3506"
-generated_at: "2026-03-30T07:37:07.649Z"
+generated_at: "2026-03-30T07:40:33.390Z"
 status: "active"
 ---
 

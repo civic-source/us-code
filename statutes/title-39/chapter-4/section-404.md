@@ -3,9 +3,9 @@ title: "Section 404 - Specific powers"
 usc_title: 39
 usc_section: "404"
 chapter: 4
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "39 U.S.C. § 404"
-generated_at: "2026-03-30T07:38:12.704Z"
+generated_at: "2026-03-30T07:41:42.665Z"
 status: "active"
 ---
 

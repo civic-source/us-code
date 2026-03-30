@@ -3,9 +3,9 @@ title: "Section 6914 - Consolidation of headquarters offices"
 usc_title: 7
 usc_section: "6914"
 chapter: 98
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 6914"
-generated_at: "2026-03-30T07:36:45.034Z"
+generated_at: "2026-03-30T07:39:51.113Z"
 status: "active"
 ---
 

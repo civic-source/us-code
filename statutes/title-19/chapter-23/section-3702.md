@@ -3,9 +3,9 @@ title: "Section 3702 - Statement of policy"
 usc_title: 19
 usc_section: "3702"
 chapter: 23
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "19 U.S.C. § 3702"
-generated_at: "2026-03-30T07:37:19.559Z"
+generated_at: "2026-03-30T07:40:54.542Z"
 status: "active"
 ---
 

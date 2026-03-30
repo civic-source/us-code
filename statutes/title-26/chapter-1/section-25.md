@@ -3,9 +3,9 @@ title: "Section 25 - Interest on certain home mortgages"
 usc_title: 26
 usc_section: "25"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 25"
-generated_at: "2026-03-30T07:37:55.231Z"
+generated_at: "2026-03-30T07:41:26.634Z"
 status: "active"
 ---
 

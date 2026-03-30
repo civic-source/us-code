@@ -3,9 +3,9 @@ title: "Section 2350c - Cooperative military airlift agreements: allied countrie
 usc_title: 10
 usc_section: "2350c"
 chapter: 138
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 2350c"
-generated_at: "2026-03-30T07:36:40.093Z"
+generated_at: "2026-03-30T07:39:56.757Z"
 status: "active"
 ---
 

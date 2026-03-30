@@ -3,9 +3,9 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-30T07:37:02.020Z"
+generated_at: "2026-03-30T07:40:29.957Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 500 - Life-saving medals"
 usc_title: 14
 usc_section: "500"
 chapter: 13
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "14 U.S.C. § 500"
-generated_at: "2026-03-30T07:36:47.050Z"
+generated_at: "2026-03-30T07:40:05.013Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1913 - Compliance reports"
 usc_title: 33
 usc_section: "1913"
 chapter: 33
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "33 U.S.C. § 1913"
-generated_at: "2026-03-30T07:38:06.132Z"
+generated_at: "2026-03-30T07:41:36.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 308 - Special pay: reenlistment bonus"
 usc_title: 37
 usc_section: "308"
 chapter: 5
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "37 U.S.C. § 308"
-generated_at: "2026-03-30T07:38:10.461Z"
+generated_at: "2026-03-30T07:41:39.011Z"
 status: "active"
 ---
 

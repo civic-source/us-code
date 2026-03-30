@@ -3,9 +3,9 @@ title: "Section 6962 - Natural Resources Conservation Service"
 usc_title: 7
 usc_section: "6962"
 chapter: 98
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 6962"
-generated_at: "2026-03-30T07:36:45.036Z"
+generated_at: "2026-03-30T07:39:51.115Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9037 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "9037"
 chapter: 115
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "7 U.S.C. § 9037"
-generated_at: "2026-03-30T07:36:45.070Z"
+generated_at: "2026-03-30T07:39:51.147Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2323 - Contract goal for small disadvantaged businesses and cert
 usc_title: 10
 usc_section: "2323"
 chapter: 137
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 2323"
-generated_at: "2026-03-30T07:36:40.090Z"
+generated_at: "2026-03-30T07:39:56.754Z"
 status: "active"
 ---
 

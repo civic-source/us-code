@@ -3,9 +3,9 @@ title: "Section 76 - Reservation of rights upon coal lands; sale of certain mini
 usc_title: 30
 usc_section: "76"
 chapter: 3
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "30 U.S.C. § 76"
-generated_at: "2026-03-30T07:37:48.894Z"
+generated_at: "2026-03-30T07:41:20.554Z"
 status: "active"
 ---
 

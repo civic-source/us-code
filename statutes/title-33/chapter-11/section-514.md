@@ -3,9 +3,9 @@ title: "Section 514 - Submission and approval of general plans and specification
 usc_title: 33
 usc_section: "514"
 chapter: 11
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "33 U.S.C. § 514"
-generated_at: "2026-03-30T07:38:06.090Z"
+generated_at: "2026-03-30T07:41:36.450Z"
 status: "active"
 ---
 

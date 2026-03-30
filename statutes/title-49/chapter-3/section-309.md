@@ -3,9 +3,9 @@ title: "Section 309 - High-speed ground transportation"
 usc_title: 49
 usc_section: "309"
 chapter: 3
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "49 U.S.C. § 309"
-generated_at: "2026-03-30T07:38:55.854Z"
+generated_at: "2026-03-30T07:42:29.418Z"
 status: "active"
 ---
 

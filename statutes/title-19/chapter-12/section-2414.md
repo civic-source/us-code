@@ -3,9 +3,9 @@ title: "Section 2414 - Determinations by Trade Representative"
 usc_title: 19
 usc_section: "2414"
 chapter: 12
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "19 U.S.C. § 2414"
-generated_at: "2026-03-30T07:37:19.538Z"
+generated_at: "2026-03-30T07:40:54.523Z"
 status: "active"
 ---
 

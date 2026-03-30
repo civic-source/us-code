@@ -3,9 +3,9 @@ title: "Section 430t - Kennesaw Mountain National Battlefield Park; establishmen
 usc_title: 16
 usc_section: "430t"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 430t"
-generated_at: "2026-03-30T07:37:27.686Z"
+generated_at: "2026-03-30T07:41:02.030Z"
 status: "active"
 ---
 

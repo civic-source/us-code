@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T07:37:55.301Z"
+generated_at: "2026-03-30T07:41:26.704Z"
 status: "active"
 ---
 

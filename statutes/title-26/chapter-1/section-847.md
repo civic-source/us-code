@@ -3,9 +3,9 @@ title: "Section 847 - Repealed. Pub. L. 115–97, title I , § 13516(a), Dec. 22
 usc_title: 26
 usc_section: "847"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 847"
-generated_at: "2026-03-30T07:37:55.339Z"
+generated_at: "2026-03-30T07:41:26.740Z"
 status: "repealed"
 ---
 

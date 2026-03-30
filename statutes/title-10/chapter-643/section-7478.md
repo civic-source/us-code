@@ -3,9 +3,9 @@ title: "Section 7478 - Naval War College and Marine Corps University: civilian f
 usc_title: 10
 usc_section: "7478"
 chapter: 643
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "10 U.S.C. § 7478"
-generated_at: "2026-03-30T07:36:40.138Z"
+generated_at: "2026-03-30T07:39:56.803Z"
 status: "active"
 ---
 

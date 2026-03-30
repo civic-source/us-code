@@ -3,9 +3,9 @@ title: "Section 309 - Office of Thrift Supervision"
 usc_title: 31
 usc_section: "309"
 chapter: 3
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "31 U.S.C. § 309"
-generated_at: "2026-03-30T07:38:08.514Z"
+generated_at: "2026-03-30T07:41:31.249Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2258A - Reporting requirements of electronic communication servi
 usc_title: 18
 usc_section: "2258A"
 chapter: 110
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "18 U.S.C. § 2258A"
-generated_at: "2026-03-30T07:37:07.635Z"
+generated_at: "2026-03-30T07:40:33.374Z"
 status: "active"
 ---
 

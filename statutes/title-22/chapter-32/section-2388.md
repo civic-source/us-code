@@ -3,9 +3,9 @@ title: "Section 2388 - Detail of personnel to international organizations"
 usc_title: 22
 usc_section: "2388"
 chapter: 32
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 2388"
-generated_at: "2026-03-30T07:37:35.735Z"
+generated_at: "2026-03-30T07:41:07.111Z"
 status: "active"
 ---
 

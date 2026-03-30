@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T07:38:36.599Z"
+generated_at: "2026-03-30T07:42:00.083Z"
 status: "active"
 ---
 

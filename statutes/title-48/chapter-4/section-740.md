@@ -3,9 +3,9 @@ title: "Section 740 - Duties and taxes to constitute fund for benefit of Puerto 
 usc_title: 48
 usc_section: "740"
 chapter: 4
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "48 U.S.C. § 740"
-generated_at: "2026-03-30T07:38:51.737Z"
+generated_at: "2026-03-30T07:42:11.029Z"
 status: "active"
 ---
 

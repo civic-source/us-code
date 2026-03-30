@@ -3,9 +3,9 @@ title: "Section 720d - Federal Coordinator"
 usc_title: 15
 usc_section: "720d"
 chapter: 15
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "15 U.S.C. § 720d"
-generated_at: "2026-03-30T07:37:02.093Z"
+generated_at: "2026-03-30T07:40:30.024Z"
 status: "active"
 ---
 

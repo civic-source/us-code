@@ -3,9 +3,9 @@ title: "Section 5053 - Repealed. Pub. L. 94–293 , § 5(b)(1), May 27, 1976 , 9
 usc_title: 42
 usc_section: "5053"
 chapter: 66
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 5053"
-generated_at: "2026-03-30T07:38:36.797Z"
+generated_at: "2026-03-30T07:42:00.299Z"
 status: "repealed"
 ---
 

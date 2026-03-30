@@ -3,9 +3,9 @@ title: "Section 10c - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "10c"
 chapter: 1
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 10c"
-generated_at: "2026-03-30T07:37:27.698Z"
+generated_at: "2026-03-30T07:41:02.041Z"
 status: "repealed"
 ---
 

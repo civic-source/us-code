@@ -3,9 +3,9 @@ title: "Section 7325 - Medical emergency preparedness centers"
 usc_title: 38
 usc_section: "7325"
 chapter: 73
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "38 U.S.C. § 7325"
-generated_at: "2026-03-30T07:38:12.528Z"
+generated_at: "2026-03-30T07:41:41.620Z"
 status: "active"
 ---
 

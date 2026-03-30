@@ -3,9 +3,9 @@ title: "Section 3233 - Expedited Congressional review"
 usc_title: 16
 usc_section: "3233"
 chapter: 51
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "16 U.S.C. § 3233"
-generated_at: "2026-03-30T07:37:27.830Z"
+generated_at: "2026-03-30T07:41:02.175Z"
 status: "active"
 ---
 

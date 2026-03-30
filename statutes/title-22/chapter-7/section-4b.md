@@ -3,9 +3,9 @@ title: "Section 4b - Directives regarding government-owned enterprises in countr
 usc_title: 22
 usc_section: "4b"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "22 U.S.C. § 4b"
-generated_at: "2026-03-30T07:37:35.685Z"
+generated_at: "2026-03-30T07:41:07.059Z"
 status: "active"
 ---
 

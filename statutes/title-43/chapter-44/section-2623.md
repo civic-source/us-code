@@ -3,9 +3,9 @@ title: "Section 2623 - Additional sum from surplus for meeting payments due from
 usc_title: 43
 usc_section: "2623"
 chapter: 44
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "43 U.S.C. § 2623"
-generated_at: "2026-03-30T07:38:18.315Z"
+generated_at: "2026-03-30T07:41:48.831Z"
 status: "active"
 ---
 

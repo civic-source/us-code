@@ -3,9 +3,9 @@ title: "Section 1533 - Transfers of appropriations for salaries and expenses to 
 usc_title: 31
 usc_section: "1533"
 chapter: 15
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "31 U.S.C. § 1533"
-generated_at: "2026-03-30T07:38:08.522Z"
+generated_at: "2026-03-30T07:41:31.258Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 605 - Unauthorized publication or use of communications"
 usc_title: 47
 usc_section: "605"
 chapter: 5
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "47 U.S.C. § 605"
-generated_at: "2026-03-30T07:38:39.854Z"
+generated_at: "2026-03-30T07:42:05.353Z"
 status: "active"
 ---
 

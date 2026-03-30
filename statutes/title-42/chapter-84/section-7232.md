@@ -3,9 +3,9 @@ title: "Section 7232 - Senior positions"
 usc_title: 42
 usc_section: "7232"
 chapter: 84
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 7232"
-generated_at: "2026-03-30T07:38:36.856Z"
+generated_at: "2026-03-30T07:42:00.356Z"
 status: "active"
 ---
 

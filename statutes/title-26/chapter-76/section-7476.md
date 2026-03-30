@@ -3,9 +3,9 @@ title: "Section 7476 - Declaratory judgments relating to qualification of certai
 usc_title: 26
 usc_section: "7476"
 chapter: 76
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "26 U.S.C. § 7476"
-generated_at: "2026-03-30T07:37:55.453Z"
+generated_at: "2026-03-30T07:41:26.855Z"
 status: "active"
 ---
 

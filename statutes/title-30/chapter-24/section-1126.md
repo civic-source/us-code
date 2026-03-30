@@ -3,9 +3,9 @@ title: "Section 1126 - Scientific and technical education"
 usc_title: 30
 usc_section: "1126"
 chapter: 24
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "30 U.S.C. § 1126"
-generated_at: "2026-03-30T07:37:48.911Z"
+generated_at: "2026-03-30T07:41:20.572Z"
 status: "active"
 ---
 

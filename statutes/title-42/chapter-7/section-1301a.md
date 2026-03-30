@@ -3,9 +3,9 @@ title: "Section 1301a - Omitted"
 usc_title: 42
 usc_section: "1301a"
 chapter: 7
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 1301a"
-generated_at: "2026-03-30T07:38:36.549Z"
+generated_at: "2026-03-30T07:42:00.031Z"
 status: "omitted"
 ---
 

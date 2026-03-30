@@ -3,9 +3,9 @@ title: "Section 9611 - Uses of Fund"
 usc_title: 42
 usc_section: "9611"
 chapter: 103
-current_through: "PL 115-218"
+current_through: "PL 115-223"
 classification: "42 U.S.C. § 9611"
-generated_at: "2026-03-30T07:38:36.916Z"
+generated_at: "2026-03-30T07:42:00.416Z"
 status: "active"
 ---
 
