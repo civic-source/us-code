@@ -3,9 +3,9 @@ title: "Section 2766 - Security assistance surveys"
 usc_title: 22
 usc_section: "2766"
 chapter: 39
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 2766"
-generated_at: "2026-03-30T09:11:13.480Z"
+generated_at: "2026-03-30T09:19:45.063Z"
 status: "active"
 ---
 

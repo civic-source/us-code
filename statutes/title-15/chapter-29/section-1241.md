@@ -3,9 +3,9 @@ title: "Section 1241 - Definitions"
 usc_title: 15
 usc_section: "1241"
 chapter: 29
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "15 U.S.C. § 1241"
-generated_at: "2026-03-30T09:10:42.384Z"
+generated_at: "2026-03-30T09:19:12.530Z"
 status: "active"
 ---
 

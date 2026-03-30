@@ -3,9 +3,9 @@ title: "Section 4917 - Motor carrier noise emission standards"
 usc_title: 42
 usc_section: "4917"
 chapter: 65
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 4917"
-generated_at: "2026-03-30T09:12:01.953Z"
+generated_at: "2026-03-30T09:20:43.633Z"
 status: "active"
 ---
 

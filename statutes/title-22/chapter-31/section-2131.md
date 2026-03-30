@@ -3,9 +3,9 @@ title: "Section 2131 - Travel Promotion Act of 2009"
 usc_title: 22
 usc_section: "2131"
 chapter: 31
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 2131"
-generated_at: "2026-03-30T09:11:13.446Z"
+generated_at: "2026-03-30T09:19:45.029Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
       - **(iii)** to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, speaking conventions, sales missions, and other appropriate promotional activities;
       - **(iv)** to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers;
       - **(v)** to give priority to the Corporation’s efforts with respect to countries and populations most likely to travel to the United States; and
-      - **(vi)** to promote tourism to the United States through digital media, online platforms, and other appropriate medium.
+      - **(vi)** to promote tourism to the United States through digital media, online platforms, and other appropriate medium. 2 2 So in original. Probably should be “media.”
     - **(B)** In order to carry out the purposes of this subsection, the Corporation may—
       - **(i)** obtain grants from and make contracts with individuals and private companies, State, and Federal agencies, organizations, and institutions;
       - **(ii)** hire or accept the voluntary services of consultants, experts, advisory boards, and panels to aid the Corporation in carrying out its purposes; and

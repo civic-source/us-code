@@ -3,9 +3,9 @@ title: "Section 4503 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(48) , 
 usc_title: 26
 usc_section: "4503"
 chapter: 37
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 4503"
-generated_at: "2026-03-30T09:11:34.058Z"
+generated_at: "2026-03-30T09:19:55.840Z"
 status: "repealed"
 ---
 

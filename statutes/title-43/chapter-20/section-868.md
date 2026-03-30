@@ -3,9 +3,9 @@ title: "Section 868 - Representation of Indian claimants in suits to determine r
 usc_title: 43
 usc_section: "868"
 chapter: 20
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "43 U.S.C. § 868"
-generated_at: "2026-03-30T09:11:45.411Z"
+generated_at: "2026-03-30T09:20:09.556Z"
 status: "active"
 ---
 

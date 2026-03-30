@@ -3,9 +3,9 @@ title: "Section 4001 - Definitions"
 usc_title: 12
 usc_section: "4001"
 chapter: 41
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 4001"
-generated_at: "2026-03-30T09:10:16.749Z"
+generated_at: "2026-03-30T09:19:10.593Z"
 status: "active"
 ---
 

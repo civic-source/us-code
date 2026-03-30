@@ -3,9 +3,9 @@ title: "Section 1097a - Administrative subpoenas"
 usc_title: 20
 usc_section: "1097a"
 chapter: 28
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 1097a"
-generated_at: "2026-03-30T09:10:53.354Z"
+generated_at: "2026-03-30T09:19:35.898Z"
 status: "active"
 ---
 

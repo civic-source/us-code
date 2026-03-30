@@ -3,9 +3,9 @@ title: "Section 1598 - Notice of intention to prosecute"
 usc_title: 7
 usc_section: "1598"
 chapter: 37
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 1598"
-generated_at: "2026-03-30T09:09:46.330Z"
+generated_at: "2026-03-30T09:18:39.888Z"
 status: "active"
 ---
 

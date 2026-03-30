@@ -3,9 +3,9 @@ title: "Section 286z - Collection and exchange of information on monetary and fi
 usc_title: 22
 usc_section: "286z"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 286z"
-generated_at: "2026-03-30T09:11:13.427Z"
+generated_at: "2026-03-30T09:19:45.008Z"
 status: "active"
 ---
 

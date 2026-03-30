@@ -3,9 +3,9 @@ title: "Section 131 - Infectious diseases and circumstances relevant to notifica
 usc_title: 42
 usc_section: "131"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-30T09:12:01.637Z"
+generated_at: "2026-03-30T09:20:43.326Z"
 status: "active"
 ---
 

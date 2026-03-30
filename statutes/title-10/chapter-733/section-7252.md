@@ -3,9 +3,9 @@ title: "Section 7252 - Service credit: regular enlisted members; service as an o
 usc_title: 10
 usc_section: "7252"
 chapter: 733
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 7252"
-generated_at: "2026-03-30T09:10:01.469Z"
+generated_at: "2026-03-30T09:18:59.314Z"
 status: "active"
 ---
 

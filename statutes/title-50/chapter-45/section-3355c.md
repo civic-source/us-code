@@ -3,9 +3,9 @@ title: "Section 3355c - Protection of national security information and other in
 usc_title: 50
 usc_section: "3355c"
 chapter: 45
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "50 U.S.C. § 3355c"
-generated_at: "2026-03-30T09:12:33.486Z"
+generated_at: "2026-03-30T09:20:48.316Z"
 status: "active"
 ---
 

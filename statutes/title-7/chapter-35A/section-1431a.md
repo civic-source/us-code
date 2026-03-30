@@ -3,9 +3,9 @@ title: "Section 1431a - Cotton donations to educational institutions"
 usc_title: 7
 usc_section: "1431a"
 chapter: 35
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 1431a"
-generated_at: "2026-03-30T09:09:46.318Z"
+generated_at: "2026-03-30T09:18:39.877Z"
 status: "active"
 ---
 

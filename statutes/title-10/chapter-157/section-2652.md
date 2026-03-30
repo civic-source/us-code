@@ -3,9 +3,9 @@ title: "Section 2652 - Prohibition on charge of certain tariffs on aircraft trav
 usc_title: 10
 usc_section: "2652"
 chapter: 157
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 2652"
-generated_at: "2026-03-30T09:10:01.454Z"
+generated_at: "2026-03-30T09:18:59.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3208 - Outreach responsibilities"
 usc_title: 33
 usc_section: "3208"
 chapter: 45
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 3208"
-generated_at: "2026-03-30T09:11:37.788Z"
+generated_at: "2026-03-30T09:20:00.457Z"
 status: "active"
 ---
 

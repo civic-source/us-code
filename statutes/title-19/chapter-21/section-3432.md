@@ -3,9 +3,9 @@ title: "Section 3432 - Organizational and administrative provisions"
 usc_title: 19
 usc_section: "3432"
 chapter: 21
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "19 U.S.C. § 3432"
-generated_at: "2026-03-30T09:10:46.775Z"
+generated_at: "2026-03-30T09:19:27.541Z"
 status: "active"
 ---
 

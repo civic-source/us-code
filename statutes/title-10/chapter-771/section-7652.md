@@ -3,9 +3,9 @@ title: "Section 7652 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "7652"
 chapter: 771
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 7652"
-generated_at: "2026-03-30T09:10:01.473Z"
+generated_at: "2026-03-30T09:18:59.318Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10448 - General terms and conditions"
 usc_title: 34
 usc_section: "10448"
 chapter: 101
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "34 U.S.C. § 10448"
-generated_at: "2026-03-30T09:11:36.943Z"
+generated_at: "2026-03-30T09:19:59.195Z"
 status: "active"
 ---
 

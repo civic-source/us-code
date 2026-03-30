@@ -3,9 +3,9 @@ title: "Section 0d - Omitted"
 usc_title: 42
 usc_section: "0d"
 chapter: 46
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 0d"
-generated_at: "2026-03-30T09:12:01.936Z"
+generated_at: "2026-03-30T09:20:43.617Z"
 status: "omitted"
 ---
 

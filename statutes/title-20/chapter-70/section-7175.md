@@ -3,9 +3,9 @@ title: "Section 7175 - Local activities"
 usc_title: 20
 usc_section: "7175"
 chapter: 70
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 7175"
-generated_at: "2026-03-30T09:10:53.410Z"
+generated_at: "2026-03-30T09:19:35.959Z"
 status: "active"
 ---
 

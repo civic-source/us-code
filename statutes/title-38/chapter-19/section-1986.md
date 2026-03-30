@@ -3,9 +3,9 @@ title: "Section 1986 - Deposits in and disbursements from trust funds"
 usc_title: 38
 usc_section: "1986"
 chapter: 19
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "38 U.S.C. § 1986"
-generated_at: "2026-03-30T09:11:42.367Z"
+generated_at: "2026-03-30T09:20:04.825Z"
 status: "active"
 ---
 

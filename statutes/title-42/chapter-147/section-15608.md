@@ -3,9 +3,9 @@ title: "Section 15608 - Transferred"
 usc_title: 42
 usc_section: "15608"
 chapter: 147
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 15608"
-generated_at: "2026-03-30T09:12:02.175Z"
+generated_at: "2026-03-30T09:20:43.842Z"
 status: "transferred"
 ---
 

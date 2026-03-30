@@ -3,9 +3,9 @@ title: "Section 5709 - Repealed. Pub. L. 115–31, div. E, title VI, § 631(a) ,
 usc_title: 20
 usc_section: "5709"
 chapter: 67
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 5709"
-generated_at: "2026-03-30T09:10:53.395Z"
+generated_at: "2026-03-30T09:19:35.943Z"
 status: "repealed"
 ---
 

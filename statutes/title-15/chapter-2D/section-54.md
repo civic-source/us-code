@@ -3,9 +3,9 @@ title: "Section 54 - Acquisition of assets by business development companies"
 usc_title: 15
 usc_section: "54"
 chapter: 2
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "15 U.S.C. § 54"
-generated_at: "2026-03-30T09:10:42.329Z"
+generated_at: "2026-03-30T09:19:12.480Z"
 status: "active"
 ---
 

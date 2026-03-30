@@ -3,9 +3,9 @@ title: "Section 1933 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1933"
 chapter: 24
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 1933"
-generated_at: "2026-03-30T09:11:13.444Z"
+generated_at: "2026-03-30T09:19:45.026Z"
 status: "repealed"
 ---
 

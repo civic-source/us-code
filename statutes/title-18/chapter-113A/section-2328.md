@@ -3,9 +3,9 @@ title: "Section 2328 - Mandatory forfeiture"
 usc_title: 18
 usc_section: "2328"
 chapter: 113
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 2328"
-generated_at: "2026-03-30T09:11:05.943Z"
+generated_at: "2026-03-30T09:19:23.287Z"
 status: "active"
 ---
 

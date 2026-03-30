@@ -3,9 +3,9 @@ title: "Section 426 - Entitlement to hospital insurance benefits"
 usc_title: 42
 usc_section: "426"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 426"
-generated_at: "2026-03-30T09:12:01.665Z"
+generated_at: "2026-03-30T09:20:43.354Z"
 status: "active"
 ---
 

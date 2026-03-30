@@ -3,9 +3,9 @@ title: "Section 2012 - Board of directors"
 usc_title: 12
 usc_section: "2012"
 chapter: 23
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 2012"
-generated_at: "2026-03-30T09:10:16.725Z"
+generated_at: "2026-03-30T09:19:10.570Z"
 status: "active"
 ---
 

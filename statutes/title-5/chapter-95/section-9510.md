@@ -3,9 +3,9 @@ title: "Section 9510 - General workforce staffing"
 usc_title: 5
 usc_section: "9510"
 chapter: 95
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "5 U.S.C. § 9510"
-generated_at: "2026-03-30T09:09:38.926Z"
+generated_at: "2026-03-30T09:17:51.817Z"
 status: "active"
 ---
 

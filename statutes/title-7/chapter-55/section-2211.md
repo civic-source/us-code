@@ -3,9 +3,9 @@ title: "Section 2211 - Powers and duties of Deputy Secretary of Agriculture"
 usc_title: 7
 usc_section: "2211"
 chapter: 55
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 2211"
-generated_at: "2026-03-30T09:09:46.371Z"
+generated_at: "2026-03-30T09:18:39.925Z"
 status: "active"
 ---
 

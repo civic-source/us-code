@@ -3,9 +3,9 @@ title: "Section 941 - Filing of plan"
 usc_title: 11
 usc_section: "941"
 chapter: 9
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "11 U.S.C. § 941"
-generated_at: "2026-03-30T09:10:04.831Z"
+generated_at: "2026-03-30T09:19:04.292Z"
 status: "active"
 ---
 

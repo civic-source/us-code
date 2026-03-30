@@ -3,9 +3,9 @@ title: "Section 81 - Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 199
 usc_title: 20
 usc_section: "81"
 chapter: 28
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 81"
-generated_at: "2026-03-30T09:10:53.328Z"
+generated_at: "2026-03-30T09:19:35.871Z"
 status: "repealed"
 ---
 

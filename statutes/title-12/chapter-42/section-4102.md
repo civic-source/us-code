@@ -3,9 +3,9 @@ title: "Section 4102 - Notice of intent"
 usc_title: 12
 usc_section: "4102"
 chapter: 42
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 4102"
-generated_at: "2026-03-30T09:10:16.751Z"
+generated_at: "2026-03-30T09:19:10.594Z"
 status: "active"
 ---
 

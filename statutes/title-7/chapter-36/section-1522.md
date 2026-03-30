@@ -3,9 +3,9 @@ title: "Section 1522 - Research and development"
 usc_title: 7
 usc_section: "1522"
 chapter: 36
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 1522"
-generated_at: "2026-03-30T09:09:46.326Z"
+generated_at: "2026-03-30T09:18:39.885Z"
 status: "active"
 ---
 

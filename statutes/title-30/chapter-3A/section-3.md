@@ -3,9 +3,9 @@ title: "Section 3 - Lands not subject to oil and gas leasing"
 usc_title: 30
 usc_section: "3"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "30 U.S.C. § 3"
-generated_at: "2026-03-30T09:11:15.815Z"
+generated_at: "2026-03-30T09:19:48.176Z"
 status: "active"
 ---
 

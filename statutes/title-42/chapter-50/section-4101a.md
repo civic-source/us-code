@@ -3,9 +3,9 @@ title: "Section 4101a - Technical Mapping Advisory Council"
 usc_title: 42
 usc_section: "4101a"
 chapter: 50
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 4101a"
-generated_at: "2026-03-30T09:12:01.942Z"
+generated_at: "2026-03-30T09:20:43.621Z"
 status: "active"
 ---
 

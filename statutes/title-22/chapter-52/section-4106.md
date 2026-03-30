@@ -3,9 +3,9 @@ title: "Section 4106 - Foreign Service Labor Relations Board"
 usc_title: 22
 usc_section: "4106"
 chapter: 52
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 4106"
-generated_at: "2026-03-30T09:11:13.499Z"
+generated_at: "2026-03-30T09:19:45.083Z"
 status: "active"
 ---
 

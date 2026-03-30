@@ -3,9 +3,9 @@ title: "Section 1175 - Omitted"
 usc_title: 33
 usc_section: "1175"
 chapter: 23
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 1175"
-generated_at: "2026-03-30T09:11:37.744Z"
+generated_at: "2026-03-30T09:20:00.413Z"
 status: "omitted"
 ---
 

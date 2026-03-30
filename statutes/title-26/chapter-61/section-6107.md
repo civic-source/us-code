@@ -3,9 +3,9 @@ title: "Section 6107 - Tax return preparer must furnish copy of return to taxpay
 usc_title: 26
 usc_section: "6107"
 chapter: 61
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 6107"
-generated_at: "2026-03-30T09:11:34.089Z"
+generated_at: "2026-03-30T09:19:55.871Z"
 status: "active"
 ---
 

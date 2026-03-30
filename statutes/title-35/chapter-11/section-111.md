@@ -3,9 +3,9 @@ title: "Section 111 - Application"
 usc_title: 35
 usc_section: "111"
 chapter: 11
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "35 U.S.C. § 111"
-generated_at: "2026-03-30T09:11:35.885Z"
+generated_at: "2026-03-30T09:19:57.742Z"
 status: "active"
 ---
 

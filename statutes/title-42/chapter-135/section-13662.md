@@ -3,9 +3,9 @@ title: "Section 13662 - Termination of tenancy and assistance for illegal drug u
 usc_title: 42
 usc_section: "13662"
 chapter: 135
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 13662"
-generated_at: "2026-03-30T09:12:02.166Z"
+generated_at: "2026-03-30T09:20:43.833Z"
 status: "active"
 ---
 

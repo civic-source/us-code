@@ -3,9 +3,9 @@ title: "Section 368 - Repealed. Pub. L. 98–89, § 4(b) , Aug. 26, 1983 , 97 St
 usc_title: 33
 usc_section: "368"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 368"
-generated_at: "2026-03-30T09:11:37.719Z"
+generated_at: "2026-03-30T09:20:00.389Z"
 status: "repealed"
 ---
 

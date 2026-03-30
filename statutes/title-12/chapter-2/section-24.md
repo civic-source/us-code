@@ -3,9 +3,9 @@ title: "Section 24 - Corporate powers of associations"
 usc_title: 12
 usc_section: "24"
 chapter: 2
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 24"
-generated_at: "2026-03-30T09:10:16.632Z"
+generated_at: "2026-03-30T09:19:10.479Z"
 status: "active"
 ---
 

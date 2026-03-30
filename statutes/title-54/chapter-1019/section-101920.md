@@ -3,9 +3,9 @@ title: "Section 101920 - Contracting for services"
 usc_title: 54
 usc_section: "101920"
 chapter: 1019
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "54 U.S.C. § 101920"
-generated_at: "2026-03-30T09:12:35.505Z"
+generated_at: "2026-03-30T09:20:55.237Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101101 - Authority to accept land, rights-of-way, buildings, oth
 usc_title: 54
 usc_section: "101101"
 chapter: 1011
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "54 U.S.C. § 101101"
-generated_at: "2026-03-30T09:12:35.503Z"
+generated_at: "2026-03-30T09:20:55.235Z"
 status: "active"
 ---
 

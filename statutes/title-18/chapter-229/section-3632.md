@@ -3,9 +3,9 @@ title: "Section 3632 - Development of risk and needs assessment system"
 usc_title: 18
 usc_section: "3632"
 chapter: 229
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 3632"
-generated_at: "2026-03-30T09:11:05.961Z"
+generated_at: "2026-03-30T09:19:23.304Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9498 - Regulations"
 usc_title: 10
 usc_section: "9498"
 chapter: 959
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 9498"
-generated_at: "2026-03-30T09:10:01.493Z"
+generated_at: "2026-03-30T09:18:59.333Z"
 status: "active"
 ---
 

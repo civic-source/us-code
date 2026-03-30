@@ -3,9 +3,9 @@ title: "Section 9301 - Definitions"
 usc_title: 31
 usc_section: "9301"
 chapter: 93
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "31 U.S.C. § 9301"
-generated_at: "2026-03-30T09:11:38.433Z"
+generated_at: "2026-03-30T09:19:58.614Z"
 status: "active"
 ---
 

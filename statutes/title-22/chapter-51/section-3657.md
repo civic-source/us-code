@@ -3,9 +3,9 @@ title: "Section 3657 - Recruitment and retention remuneration"
 usc_title: 22
 usc_section: "3657"
 chapter: 51
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 3657"
-generated_at: "2026-03-30T09:11:13.489Z"
+generated_at: "2026-03-30T09:19:45.072Z"
 status: "active"
 ---
 

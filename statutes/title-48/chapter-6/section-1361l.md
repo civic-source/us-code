@@ -3,9 +3,9 @@ title: "Section 1361l - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 7
 usc_title: 48
 usc_section: "1361l"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "48 U.S.C. § 1361l"
-generated_at: "2026-03-30T09:12:04.953Z"
+generated_at: "2026-03-30T09:20:46.883Z"
 status: "repealed"
 ---
 

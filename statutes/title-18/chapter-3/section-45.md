@@ -3,9 +3,9 @@ title: "Section 45 - Repealed. Pub. L. 101–647, title XII, § 1206(a) , Nov. 2
 usc_title: 18
 usc_section: "45"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 45"
-generated_at: "2026-03-30T09:11:05.909Z"
+generated_at: "2026-03-30T09:19:23.251Z"
 status: "repealed"
 ---
 

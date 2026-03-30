@@ -3,9 +3,9 @@ title: "Section 2011 - Definitions"
 usc_title: 21
 usc_section: "2011"
 chapter: 25
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "21 U.S.C. § 2011"
-generated_at: "2026-03-30T09:11:10.145Z"
+generated_at: "2026-03-30T09:19:42.944Z"
 status: "active"
 ---
 

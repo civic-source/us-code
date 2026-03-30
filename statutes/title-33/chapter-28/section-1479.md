@@ -3,9 +3,9 @@ title: "Section 1479 - Federal liability for unreasonable damages"
 usc_title: 33
 usc_section: "1479"
 chapter: 28
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 1479"
-generated_at: "2026-03-30T09:11:37.765Z"
+generated_at: "2026-03-30T09:20:00.434Z"
 status: "active"
 ---
 

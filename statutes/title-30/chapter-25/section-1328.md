@@ -3,9 +3,9 @@ title: "Section 1328 - Research, development projects, etc., relating to alterna
 usc_title: 30
 usc_section: "1328"
 chapter: 25
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "30 U.S.C. § 1328"
-generated_at: "2026-03-30T09:11:15.836Z"
+generated_at: "2026-03-30T09:19:48.199Z"
 status: "active"
 ---
 

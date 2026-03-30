@@ -3,9 +3,9 @@ title: "Section 1723f - Repealed. Pub. L. 96–294, title V, § 533 , June 30, 1
 usc_title: 12
 usc_section: "1723f"
 chapter: 13
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 1723f"
-generated_at: "2026-03-30T09:10:16.686Z"
+generated_at: "2026-03-30T09:19:10.532Z"
 status: "repealed"
 ---
 

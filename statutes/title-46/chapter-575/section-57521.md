@@ -3,9 +3,9 @@ title: "Section 57521 - Termination of charter during national emergency"
 usc_title: 46
 usc_section: "57521"
 chapter: 575
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "46 U.S.C. § 57521"
-generated_at: "2026-03-30T09:12:05.794Z"
+generated_at: "2026-03-30T09:20:52.779Z"
 status: "active"
 ---
 

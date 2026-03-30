@@ -1,21 +1,21 @@
 ---
-title: "Section 9722 - Waiver for sanctioned officials that recognize the interim President of Venezuela"
+title: "Section 9722 - Waiver for sanctioned officials that recognize the Interim President of Venezuela"
 usc_title: 22
 usc_section: "9722"
 chapter: 104
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 9722"
-generated_at: "2026-03-30T09:11:13.556Z"
+generated_at: "2026-03-30T09:19:45.141Z"
 status: "active"
 ---
 
-# § 9722. Waiver for sanctioned officials that recognize the interim President of Venezuela
+# § 9722. Waiver for sanctioned officials that recognize the Interim President of Venezuela
 
 - **(a)** If a person sanctioned under any of the provisions of law described in subsection (b) recognizes and pledges supports for the Interim President of Venezuela or a subsequent democratically elected government, the person shall no longer be subject to such sanctions, pursuant to such procedures as the Secretary of State and the Secretary of the Treasury may establish to implement this section.
 - **(b)** The sanctions described in this subsection are set forth in the following provisions of law:
   - **(1)**
     - **(A)** Paragraphs (3) and (4) of section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 ( Public Law 113–278 ), as amended by section 163 of this title . 1 1 See References in Text note below.
-    - **(B)** Paragraph (5) of section 5(a) of such Act, to the extent such paragraph relates to the sanctions described in paragraph (3) or (4) of such subsection. 1
+    - **(B)** Paragraph (5) 1 of section 5(a) of such Act, to the extent such paragraph relates to the sanctions described in paragraph (3) or (4) of such subsection. 1
   - **(2)**
     - **(A)** Clauses (1) and (4) of section 1(a)(ii)(A) of Executive Order 13692 ( 50 U.S.C. 1701 note).
     - **(B)** Subparagraph (D)(2) of section 1(a)(ii) of such Executive Order, to the extent such subparagraph relates to the provisions of law cited in subparagraph (A).

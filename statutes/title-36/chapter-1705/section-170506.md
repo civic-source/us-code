@@ -3,9 +3,9 @@ title: "Section 170506 - Powers"
 usc_title: 36
 usc_section: "170506"
 chapter: 1705
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "36 U.S.C. § 170506"
-generated_at: "2026-03-30T09:11:41.004Z"
+generated_at: "2026-03-30T09:20:02.724Z"
 status: "active"
 ---
 

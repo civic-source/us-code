@@ -3,9 +3,9 @@ title: "Section 542 - Omitted"
 usc_title: 12
 usc_section: "542"
 chapter: 4
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 542"
-generated_at: "2026-03-30T09:10:16.645Z"
+generated_at: "2026-03-30T09:19:10.493Z"
 status: "omitted"
 ---
 

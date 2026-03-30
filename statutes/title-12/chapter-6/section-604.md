@@ -3,9 +3,9 @@ title: "Section 604 - Accounts of foreign branches; profit and loss"
 usc_title: 12
 usc_section: "604"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 604"
-generated_at: "2026-03-30T09:10:16.645Z"
+generated_at: "2026-03-30T09:19:10.493Z"
 status: "active"
 ---
 

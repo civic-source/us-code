@@ -3,9 +3,9 @@ title: "Section 2015 - Special reports to Congress"
 usc_title: 19
 usc_section: "2015"
 chapter: 8
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "19 U.S.C. § 2015"
-generated_at: "2026-03-30T09:10:46.748Z"
+generated_at: "2026-03-30T09:19:27.518Z"
 status: "active"
 ---
 

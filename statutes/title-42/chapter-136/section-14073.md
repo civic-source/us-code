@@ -3,9 +3,9 @@ title: "Section 14073 - Repealed. Pub. L. 109–248, title I, § 129(a) , July 2
 usc_title: 42
 usc_section: "14073"
 chapter: 136
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 14073"
-generated_at: "2026-03-30T09:12:02.167Z"
+generated_at: "2026-03-30T09:20:43.834Z"
 status: "repealed"
 ---
 

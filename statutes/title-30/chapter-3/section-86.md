@@ -3,9 +3,9 @@ title: "Section 86 - Disposition of lands in Indian reservations with reservatio
 usc_title: 30
 usc_section: "86"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "30 U.S.C. § 86"
-generated_at: "2026-03-30T09:11:15.810Z"
+generated_at: "2026-03-30T09:19:48.172Z"
 status: "active"
 ---
 

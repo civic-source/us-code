@@ -3,9 +3,9 @@ title: "Section 3005 - National activities"
 usc_title: 29
 usc_section: "3005"
 chapter: 31
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "29 U.S.C. § 3005"
-generated_at: "2026-03-30T09:11:21.187Z"
+generated_at: "2026-03-30T09:19:49.090Z"
 status: "active"
 ---
 

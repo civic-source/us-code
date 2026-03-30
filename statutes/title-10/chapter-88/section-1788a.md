@@ -3,9 +3,9 @@ title: "Section 1788a - Family support programs: immediate family members of mem
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-03-30T09:10:01.414Z"
+generated_at: "2026-03-30T09:18:59.268Z"
 status: "active"
 ---
 

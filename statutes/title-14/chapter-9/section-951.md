@@ -3,9 +3,9 @@ title: "Section 951 - Aircraft accident investigations"
 usc_title: 14
 usc_section: "951"
 chapter: 9
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "14 U.S.C. § 951"
-generated_at: "2026-03-30T09:10:05.907Z"
+generated_at: "2026-03-30T09:19:17.384Z"
 status: "active"
 ---
 

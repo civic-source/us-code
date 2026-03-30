@@ -3,9 +3,9 @@ title: "Section 256i - Notice to Governor of Washington; application of laws to 
 usc_title: 16
 usc_section: "256i"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 256i"
-generated_at: "2026-03-30T09:10:49.692Z"
+generated_at: "2026-03-30T09:19:38.055Z"
 status: "active"
 ---
 

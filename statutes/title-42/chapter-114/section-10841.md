@@ -3,9 +3,9 @@ title: "Section 10841 - Restatement of bill of rights"
 usc_title: 42
 usc_section: "10841"
 chapter: 114
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 10841"
-generated_at: "2026-03-30T09:12:02.116Z"
+generated_at: "2026-03-30T09:20:43.784Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 512 - Forfeiture of certain motor vehicles and motor vehicle par
 usc_title: 18
 usc_section: "512"
 chapter: 25
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 512"
-generated_at: "2026-03-30T09:11:05.915Z"
+generated_at: "2026-03-30T09:19:23.258Z"
 status: "active"
 ---
 

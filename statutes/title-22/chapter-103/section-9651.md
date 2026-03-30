@@ -3,9 +3,9 @@ title: "Section 9651 - Establishment of risk and audit committees"
 usc_title: 22
 usc_section: "9651"
 chapter: 103
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 9651"
-generated_at: "2026-03-30T09:11:13.555Z"
+generated_at: "2026-03-30T09:19:45.140Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2763 - Compensatory absence from duty for military personnel at 
 usc_title: 14
 usc_section: "2763"
 chapter: 27
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "14 U.S.C. § 2763"
-generated_at: "2026-03-30T09:10:05.912Z"
+generated_at: "2026-03-30T09:19:17.389Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 715 - “The Golden Eagle Insignia”"
 usc_title: 18
 usc_section: "715"
 chapter: 33
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 715"
-generated_at: "2026-03-30T09:11:05.918Z"
+generated_at: "2026-03-30T09:19:23.260Z"
 status: "active"
 ---
 

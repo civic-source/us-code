@@ -3,9 +3,9 @@ title: "Section 2216 - Rate of interest"
 usc_title: 33
 usc_section: "2216"
 chapter: 36
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 2216"
-generated_at: "2026-03-30T09:11:37.770Z"
+generated_at: "2026-03-30T09:20:00.439Z"
 status: "active"
 ---
 

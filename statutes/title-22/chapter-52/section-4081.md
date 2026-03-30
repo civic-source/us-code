@@ -3,9 +3,9 @@ title: "Section 4081 - Travel and related expenses"
 usc_title: 22
 usc_section: "4081"
 chapter: 52
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 4081"
-generated_at: "2026-03-30T09:11:13.498Z"
+generated_at: "2026-03-30T09:19:45.082Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8895 - Stay extended or shortened"
 usc_title: 10
 usc_section: "8895"
 chapter: 885
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 8895"
-generated_at: "2026-03-30T09:10:01.487Z"
+generated_at: "2026-03-30T09:18:59.328Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 636e - Definitions"
 usc_title: 15
 usc_section: "636e"
 chapter: 14
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "15 U.S.C. § 636e"
-generated_at: "2026-03-30T09:10:42.348Z"
+generated_at: "2026-03-30T09:19:12.498Z"
 status: "active"
 ---
 

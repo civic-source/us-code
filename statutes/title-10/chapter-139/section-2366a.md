@@ -3,9 +3,9 @@ title: "Section 2366a - Major defense acquisition programs: determination requir
 usc_title: 10
 usc_section: "2366a"
 chapter: 139
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 2366a"
-generated_at: "2026-03-30T09:10:01.436Z"
+generated_at: "2026-03-30T09:18:59.287Z"
 status: "active"
 ---
 

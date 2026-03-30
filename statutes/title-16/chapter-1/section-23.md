@@ -3,9 +3,9 @@ title: "Section 23 - Land use authorities"
 usc_title: 16
 usc_section: "23"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-30T09:10:49.758Z"
+generated_at: "2026-03-30T09:19:38.120Z"
 status: "active"
 ---
 

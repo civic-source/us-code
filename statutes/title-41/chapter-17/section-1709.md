@@ -3,9 +3,9 @@ title: "Section 1709 - Contracting functions performed by Federal personnel"
 usc_title: 41
 usc_section: "1709"
 chapter: 17
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "41 U.S.C. § 1709"
-generated_at: "2026-03-30T09:11:44.857Z"
+generated_at: "2026-03-30T09:20:10.525Z"
 status: "active"
 ---
 

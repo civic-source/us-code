@@ -3,9 +3,9 @@ title: "Section 1507 - Public lands"
 usc_title: 48
 usc_section: "1507"
 chapter: 11
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "48 U.S.C. § 1507"
-generated_at: "2026-03-30T09:12:04.957Z"
+generated_at: "2026-03-30T09:20:46.889Z"
 status: "active"
 ---
 

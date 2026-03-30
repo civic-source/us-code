@@ -3,9 +3,9 @@ title: "Section 355h - Regulation of certain nonprescription drugs that are mark
 usc_title: 21
 usc_section: "355h"
 chapter: 9
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "21 U.S.C. § 355h"
-generated_at: "2026-03-30T09:11:10.087Z"
+generated_at: "2026-03-30T09:19:42.889Z"
 status: "active"
 ---
 

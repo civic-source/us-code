@@ -3,9 +3,9 @@ title: "Section 6612 - Travel expenses of Sergeant at Arms and Doorkeeper of Sen
 usc_title: 2
 usc_section: "6612"
 chapter: 65
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "2 U.S.C. § 6612"
-generated_at: "2026-03-30T09:09:29.035Z"
+generated_at: "2026-03-30T09:18:00.554Z"
 status: "active"
 ---
 

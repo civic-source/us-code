@@ -3,9 +3,9 @@ title: "Section 1718 - Limitation on court orders; termination of orders conditi
 usc_title: 20
 usc_section: "1718"
 chapter: 39
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 1718"
-generated_at: "2026-03-30T09:10:53.379Z"
+generated_at: "2026-03-30T09:19:35.925Z"
 status: "active"
 ---
 

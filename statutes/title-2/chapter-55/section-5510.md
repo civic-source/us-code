@@ -3,9 +3,9 @@ title: "Section 5510 - Providing assistance to House of Representatives in respo
 usc_title: 2
 usc_section: "5510"
 chapter: 55
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "2 U.S.C. § 5510"
-generated_at: "2026-03-30T09:09:29.031Z"
+generated_at: "2026-03-30T09:18:00.549Z"
 status: "active"
 ---
 

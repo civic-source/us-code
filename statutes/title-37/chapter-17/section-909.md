@@ -3,9 +3,9 @@ title: "Section 909 - Special and incentive pay: payment at unreduced rates duri
 usc_title: 37
 usc_section: "909"
 chapter: 17
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "37 U.S.C. § 909"
-generated_at: "2026-03-30T09:11:40.398Z"
+generated_at: "2026-03-30T09:20:06.843Z"
 status: "active"
 ---
 

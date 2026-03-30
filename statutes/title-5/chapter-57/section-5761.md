@@ -3,9 +3,9 @@ title: "Section 5761 - Foreign language proficiency pay awards for the Federal B
 usc_title: 5
 usc_section: "5761"
 chapter: 57
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "5 U.S.C. § 5761"
-generated_at: "2026-03-30T09:09:38.896Z"
+generated_at: "2026-03-30T09:17:51.789Z"
 status: "active"
 ---
 

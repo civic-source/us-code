@@ -3,9 +3,9 @@ title: "Section 392 - Payments into reclamation fund of moneys received from ent
 usc_title: 43
 usc_section: "392"
 chapter: 12
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "43 U.S.C. § 392"
-generated_at: "2026-03-30T09:11:45.399Z"
+generated_at: "2026-03-30T09:20:09.543Z"
 status: "active"
 ---
 

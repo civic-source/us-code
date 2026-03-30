@@ -3,9 +3,9 @@ title: "Section 1307 - Exceptions relating to certain advertisements and other i
 usc_title: 18
 usc_section: "1307"
 chapter: 61
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 1307"
-generated_at: "2026-03-30T09:11:05.929Z"
+generated_at: "2026-03-30T09:19:23.272Z"
 status: "active"
 ---
 

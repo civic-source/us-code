@@ -3,9 +3,9 @@ title: "Section 1951 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "1951"
 chapter: 21
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 1951"
-generated_at: "2026-03-30T09:10:16.724Z"
+generated_at: "2026-03-30T09:19:10.569Z"
 status: "active"
 ---
 

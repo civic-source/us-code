@@ -3,9 +3,9 @@ title: "Section 3371d - Designation of counterintelligence officer to lead elect
 usc_title: 50
 usc_section: "3371d"
 chapter: 45
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "50 U.S.C. § 3371d"
-generated_at: "2026-03-30T09:12:33.487Z"
+generated_at: "2026-03-30T09:20:48.318Z"
 status: "active"
 ---
 

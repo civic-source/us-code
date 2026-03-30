@@ -3,9 +3,9 @@ title: "Section 1304 - Reports"
 usc_title: 49
 usc_section: "1304"
 chapter: 13
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "49 U.S.C. § 1304"
-generated_at: "2026-03-30T09:12:08.477Z"
+generated_at: "2026-03-30T09:20:50.851Z"
 status: "active"
 ---
 

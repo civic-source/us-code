@@ -3,9 +3,9 @@ title: "Section 2001 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1661(a
 usc_title: 10
 usc_section: "2001"
 chapter: 101
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 2001"
-generated_at: "2026-03-30T09:10:01.415Z"
+generated_at: "2026-03-30T09:18:59.269Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8681 - Repair or maintenance of naval vessels: handling of hazar
 usc_title: 10
 usc_section: "8681"
 chapter: 863
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 8681"
-generated_at: "2026-03-30T09:10:01.483Z"
+generated_at: "2026-03-30T09:18:59.326Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9123 - Relinquishment or surrender of license"
 usc_title: 42
 usc_section: "9123"
 chapter: 99
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 9123"
-generated_at: "2026-03-30T09:12:02.078Z"
+generated_at: "2026-03-30T09:20:43.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4613 - Chemical and biological weapons proliferation sanctions"
 usc_title: 50
 usc_section: "4613"
 chapter: 56
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "50 U.S.C. § 4613"
-generated_at: "2026-03-30T09:12:33.510Z"
+generated_at: "2026-03-30T09:20:48.341Z"
 status: "active"
 ---
 

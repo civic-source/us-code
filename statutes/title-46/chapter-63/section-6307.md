@@ -3,9 +3,9 @@ title: "Section 6307 - Notifications to Congress"
 usc_title: 46
 usc_section: "6307"
 chapter: 63
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "46 U.S.C. § 6307"
-generated_at: "2026-03-30T09:12:05.769Z"
+generated_at: "2026-03-30T09:20:52.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4370a - Assistant Administrators of Environmental Protection Age
 usc_title: 42
 usc_section: "4370a"
 chapter: 55
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 4370a"
-generated_at: "2026-03-30T09:12:01.945Z"
+generated_at: "2026-03-30T09:20:43.625Z"
 status: "active"
 ---
 

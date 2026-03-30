@@ -3,9 +3,9 @@ title: "Section 3772 - Sexual assault survivors’ rights"
 usc_title: 18
 usc_section: "3772"
 chapter: 238
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 3772"
-generated_at: "2026-03-30T09:11:05.963Z"
+generated_at: "2026-03-30T09:19:23.306Z"
 status: "active"
 ---
 

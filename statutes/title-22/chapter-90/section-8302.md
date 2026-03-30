@@ -3,9 +3,9 @@ title: "Section 8302 - Definitions"
 usc_title: 22
 usc_section: "8302"
 chapter: 90
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 8302"
-generated_at: "2026-03-30T09:11:13.538Z"
+generated_at: "2026-03-30T09:19:45.123Z"
 status: "active"
 ---
 

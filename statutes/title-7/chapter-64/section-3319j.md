@@ -3,9 +3,9 @@ title: "Section 3319j - Borlaug International Agricultural Science and Technolog
 usc_title: 7
 usc_section: "3319j"
 chapter: 64
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 3319j"
-generated_at: "2026-03-30T09:09:46.387Z"
+generated_at: "2026-03-30T09:18:39.939Z"
 status: "active"
 ---
 

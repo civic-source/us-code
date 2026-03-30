@@ -3,9 +3,9 @@ title: "Section 285h - Purpose of Institute"
 usc_title: 42
 usc_section: "285h"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 285h"
-generated_at: "2026-03-30T09:12:01.566Z"
+generated_at: "2026-03-30T09:20:43.258Z"
 status: "active"
 ---
 

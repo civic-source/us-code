@@ -3,9 +3,9 @@ title: "Section 937 - Application of BBEDCA"
 usc_title: 2
 usc_section: "937"
 chapter: 20
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "2 U.S.C. § 937"
-generated_at: "2026-03-30T09:09:29.008Z"
+generated_at: "2026-03-30T09:18:00.526Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6235 - Period of limitations on making adjustments"
 usc_title: 26
 usc_section: "6235"
 chapter: 63
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 6235"
-generated_at: "2026-03-30T09:11:34.093Z"
+generated_at: "2026-03-30T09:19:55.875Z"
 status: "active"
 ---
 

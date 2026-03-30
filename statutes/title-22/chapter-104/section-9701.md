@@ -1,15 +1,15 @@
 ---
-title: "Section 9701 - Findings; sense of Congress in support of the interim President of Venezuela"
+title: "Section 9701 - Findings; sense of Congress in support of the Interim President of Venezuela"
 usc_title: 22
 usc_section: "9701"
 chapter: 104
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 9701"
-generated_at: "2026-03-30T09:11:13.556Z"
+generated_at: "2026-03-30T09:19:45.141Z"
 status: "active"
 ---
 
-# § 9701. Findings; sense of Congress in support of the interim President of Venezuela
+# § 9701. Findings; sense of Congress in support of the Interim President of Venezuela
 
 - **(a)** Congress makes the following findings:
   - **(1)** Venezuela’s electoral event on May 20, 2018 was characterized by widespread fraud and did not comply with international standards for a free, fair, and transparent electoral process.

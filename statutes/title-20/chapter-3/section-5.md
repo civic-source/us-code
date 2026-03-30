@@ -3,9 +3,9 @@ title: "Section 5 - Educational and liaison programs"
 usc_title: 20
 usc_section: "5"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-30T09:10:53.309Z"
+generated_at: "2026-03-30T09:19:35.851Z"
 status: "active"
 ---
 

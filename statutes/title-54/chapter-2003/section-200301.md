@@ -3,9 +3,9 @@ title: "Section 200301 - Definitions"
 usc_title: 54
 usc_section: "200301"
 chapter: 2003
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "54 U.S.C. § 200301"
-generated_at: "2026-03-30T09:12:35.507Z"
+generated_at: "2026-03-30T09:20:55.240Z"
 status: "active"
 ---
 

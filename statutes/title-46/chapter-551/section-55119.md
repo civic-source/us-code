@@ -3,9 +3,9 @@ title: "Section 55119 - Yukon River"
 usc_title: 46
 usc_section: "55119"
 chapter: 551
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "46 U.S.C. § 55119"
-generated_at: "2026-03-30T09:12:05.791Z"
+generated_at: "2026-03-30T09:20:52.777Z"
 status: "active"
 ---
 

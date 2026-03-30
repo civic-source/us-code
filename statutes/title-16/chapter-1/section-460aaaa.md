@@ -3,9 +3,9 @@ title: "Section 460aaaa - Nellis Dunes Off-Highway Vehicle Recreation Area"
 usc_title: 16
 usc_section: "460aaaa"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 460aaaa"
-generated_at: "2026-03-30T09:10:49.762Z"
+generated_at: "2026-03-30T09:19:38.123Z"
 status: "active"
 ---
 

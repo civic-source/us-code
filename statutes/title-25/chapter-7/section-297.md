@@ -3,9 +3,9 @@ title: "Section 297 - Repealed. Pub. L. 99–228, § 3(3) , Dec. 28, 1985 , 99 S
 usc_title: 25
 usc_section: "297"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "25 U.S.C. § 297"
-generated_at: "2026-03-30T09:11:10.879Z"
+generated_at: "2026-03-30T09:19:41.674Z"
 status: "repealed"
 ---
 

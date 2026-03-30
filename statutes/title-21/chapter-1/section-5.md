@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. June 25, 1938, ch. 675, § 1002(a) , formerly § 9
 usc_title: 21
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "21 U.S.C. § 5"
-generated_at: "2026-03-30T09:11:10.067Z"
+generated_at: "2026-03-30T09:19:42.871Z"
 status: "repealed"
 ---
 

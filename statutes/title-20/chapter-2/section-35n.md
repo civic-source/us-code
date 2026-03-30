@@ -3,9 +3,9 @@ title: "Section 35n - Omitted"
 usc_title: 20
 usc_section: "35n"
 chapter: 2
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 35n"
-generated_at: "2026-03-30T09:10:53.304Z"
+generated_at: "2026-03-30T09:19:35.846Z"
 status: "omitted"
 ---
 

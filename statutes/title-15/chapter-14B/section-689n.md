@@ -3,9 +3,9 @@ title: "Section 689n - Unlawful acts and omissions; breach of fiduciary duty"
 usc_title: 15
 usc_section: "689n"
 chapter: 14
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "15 U.S.C. § 689n"
-generated_at: "2026-03-30T09:10:42.365Z"
+generated_at: "2026-03-30T09:19:12.513Z"
 status: "active"
 ---
 

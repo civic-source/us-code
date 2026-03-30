@@ -3,9 +3,9 @@ title: "Section 60103 - Federal regulation of prisoner transport companies"
 usc_title: 34
 usc_section: "60103"
 chapter: 601
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "34 U.S.C. § 60103"
-generated_at: "2026-03-30T09:11:36.981Z"
+generated_at: "2026-03-30T09:19:59.237Z"
 status: "active"
 ---
 

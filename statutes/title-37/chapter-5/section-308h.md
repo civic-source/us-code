@@ -3,9 +3,9 @@ title: "Section 308h - Special pay: bonus for reenlistment, enlistment, or volun
 usc_title: 37
 usc_section: "308h"
 chapter: 5
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "37 U.S.C. § 308h"
-generated_at: "2026-03-30T09:11:40.388Z"
+generated_at: "2026-03-30T09:20:06.832Z"
 status: "active"
 ---
 

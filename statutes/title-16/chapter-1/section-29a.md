@@ -3,9 +3,9 @@ title: "Section 29a - New River Gorge and Gauley River Visitor Center"
 usc_title: 16
 usc_section: "29a"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 29a"
-generated_at: "2026-03-30T09:10:49.739Z"
+generated_at: "2026-03-30T09:19:38.100Z"
 status: "active"
 ---
 

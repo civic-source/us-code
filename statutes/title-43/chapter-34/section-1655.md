@@ -3,9 +3,9 @@ title: "Section 1655 - Roads and airports"
 usc_title: 43
 usc_section: "1655"
 chapter: 34
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "43 U.S.C. § 1655"
-generated_at: "2026-03-30T09:11:45.431Z"
+generated_at: "2026-03-30T09:20:09.576Z"
 status: "active"
 ---
 

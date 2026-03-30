@@ -3,9 +3,9 @@ title: "Section 1 - Deadline for responses to questions from congressional commi
 usc_title: 22
 usc_section: "1"
 chapter: 38
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T09:11:13.475Z"
+generated_at: "2026-03-30T09:19:45.058Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 213 - False statements, certificates, and information"
 usc_title: 13
 usc_section: "213"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "13 U.S.C. § 213"
-generated_at: "2026-03-30T09:10:03.449Z"
+generated_at: "2026-03-30T09:19:02.131Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31h - Authorization of appropriations"
 usc_title: 43
 usc_section: "31h"
 chapter: 2
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "43 U.S.C. § 31h"
-generated_at: "2026-03-30T09:11:45.389Z"
+generated_at: "2026-03-30T09:20:09.534Z"
 status: "active"
 ---
 

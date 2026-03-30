@@ -3,9 +3,9 @@ title: "Section 1285 - Employment on passenger vessels of aliens afflicted with 
 usc_title: 8
 usc_section: "1285"
 chapter: 12
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "8 U.S.C. § 1285"
-generated_at: "2026-03-30T09:09:52.653Z"
+generated_at: "2026-03-30T09:18:22.659Z"
 status: "active"
 ---
 

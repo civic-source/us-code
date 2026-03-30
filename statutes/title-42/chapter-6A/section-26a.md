@@ -3,9 +3,9 @@ title: "Section 26a - Pub. L. 116–94, div. N, title I, § 604(c) , Dec. 20, 20
 usc_title: 42
 usc_section: "26a"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 26a"
-generated_at: "2026-03-30T09:12:01.622Z"
+generated_at: "2026-03-30T09:20:43.312Z"
 status: "active"
 ---
 

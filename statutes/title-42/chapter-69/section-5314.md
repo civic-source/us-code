@@ -3,9 +3,9 @@ title: "Section 5314 - Consultation by Secretary with other Federal departments,
 usc_title: 42
 usc_section: "5314"
 chapter: 69
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 5314"
-generated_at: "2026-03-30T09:12:01.970Z"
+generated_at: "2026-03-30T09:20:43.649Z"
 status: "active"
 ---
 

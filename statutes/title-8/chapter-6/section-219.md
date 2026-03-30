@@ -3,9 +3,9 @@ title: "Section 219 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(23)
 usc_title: 8
 usc_section: "219"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "8 U.S.C. § 219"
-generated_at: "2026-03-30T09:09:52.632Z"
+generated_at: "2026-03-30T09:18:22.636Z"
 status: "repealed"
 ---
 

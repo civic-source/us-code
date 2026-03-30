@@ -3,9 +3,9 @@ title: "Section 7476 - Other pollutants"
 usc_title: 42
 usc_section: "7476"
 chapter: 85
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 7476"
-generated_at: "2026-03-30T09:12:02.035Z"
+generated_at: "2026-03-30T09:20:43.709Z"
 status: "active"
 ---
 

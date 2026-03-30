@@ -3,9 +3,9 @@ title: "Section 14931 - Adoptions of children immigrating to the United States"
 usc_title: 42
 usc_section: "14931"
 chapter: 143
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 14931"
-generated_at: "2026-03-30T09:12:02.170Z"
+generated_at: "2026-03-30T09:20:43.836Z"
 status: "active"
 ---
 

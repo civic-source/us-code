@@ -3,9 +3,9 @@ title: "Section 10181 - Application requirements"
 usc_title: 34
 usc_section: "10181"
 chapter: 101
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "34 U.S.C. § 10181"
-generated_at: "2026-03-30T09:11:36.938Z"
+generated_at: "2026-03-30T09:19:59.190Z"
 status: "active"
 ---
 

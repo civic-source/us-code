@@ -3,9 +3,9 @@ title: "Section 3702 - Authorized strength"
 usc_title: 14
 usc_section: "3702"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "14 U.S.C. § 3702"
-generated_at: "2026-03-30T09:10:05.913Z"
+generated_at: "2026-03-30T09:19:17.390Z"
 status: "active"
 ---
 

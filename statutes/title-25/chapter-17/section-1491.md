@@ -3,9 +3,9 @@ title: "Section 1491 - Defaults; written notification; pro rata payments; subrog
 usc_title: 25
 usc_section: "1491"
 chapter: 17
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "25 U.S.C. § 1491"
-generated_at: "2026-03-30T09:11:10.891Z"
+generated_at: "2026-03-30T09:19:41.687Z"
 status: "active"
 ---
 

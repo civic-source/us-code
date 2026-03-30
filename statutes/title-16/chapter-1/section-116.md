@@ -3,9 +3,9 @@ title: "Section 116 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028"
 usc_title: 16
 usc_section: "116"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 116"
-generated_at: "2026-03-30T09:10:49.684Z"
+generated_at: "2026-03-30T09:19:38.047Z"
 status: "repealed"
 ---
 

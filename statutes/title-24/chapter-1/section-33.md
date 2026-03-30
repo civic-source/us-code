@@ -3,9 +3,9 @@ title: "Section 33 - Repealed. June 7, 1956, ch. 374, § 306(2) , 70 Stat. 254"
 usc_title: 24
 usc_section: "33"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "24 U.S.C. § 33"
-generated_at: "2026-03-30T09:11:10.999Z"
+generated_at: "2026-03-30T09:19:40.309Z"
 status: "repealed"
 ---
 

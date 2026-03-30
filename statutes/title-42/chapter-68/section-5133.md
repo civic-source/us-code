@@ -3,9 +3,9 @@ title: "Section 5133 - Predisaster hazard mitigation"
 usc_title: 42
 usc_section: "5133"
 chapter: 68
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 5133"
-generated_at: "2026-03-30T09:12:01.960Z"
+generated_at: "2026-03-30T09:20:43.639Z"
 status: "active"
 ---
 

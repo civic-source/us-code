@@ -3,9 +3,9 @@ title: "Section 1701m - Credit and cancellation of notes transferred from Recons
 usc_title: 12
 usc_section: "1701m"
 chapter: 13
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 1701m"
-generated_at: "2026-03-30T09:10:16.664Z"
+generated_at: "2026-03-30T09:19:10.510Z"
 status: "active"
 ---
 

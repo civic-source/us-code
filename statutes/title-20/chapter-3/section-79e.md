@@ -3,9 +3,9 @@ title: "Section 79e - Authorization of appropriations"
 usc_title: 20
 usc_section: "79e"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 79e"
-generated_at: "2026-03-30T09:10:53.307Z"
+generated_at: "2026-03-30T09:19:35.849Z"
 status: "active"
 ---
 

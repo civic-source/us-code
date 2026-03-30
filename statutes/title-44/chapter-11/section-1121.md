@@ -3,9 +3,9 @@ title: "Section 1121 - Paper and envelopes for Government agencies in the Distri
 usc_title: 44
 usc_section: "1121"
 chapter: 11
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "44 U.S.C. § 1121"
-generated_at: "2026-03-30T09:11:44.480Z"
+generated_at: "2026-03-30T09:20:08.624Z"
 status: "active"
 ---
 

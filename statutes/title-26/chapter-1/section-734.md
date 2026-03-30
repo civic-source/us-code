@@ -3,9 +3,9 @@ title: "Section 734 - Adjustment to basis of undistributed partnership property 
 usc_title: 26
 usc_section: "734"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 734"
-generated_at: "2026-03-30T09:11:33.995Z"
+generated_at: "2026-03-30T09:19:55.777Z"
 status: "active"
 ---
 

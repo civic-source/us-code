@@ -3,9 +3,9 @@ title: "Section 626 - Dividends; surplus fund"
 usc_title: 12
 usc_section: "626"
 chapter: 6
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 626"
-generated_at: "2026-03-30T09:10:16.647Z"
+generated_at: "2026-03-30T09:19:10.493Z"
 status: "active"
 ---
 

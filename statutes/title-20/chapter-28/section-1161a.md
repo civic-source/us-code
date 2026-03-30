@@ -3,9 +3,9 @@ title: "Section 1161a - Project GRAD"
 usc_title: 20
 usc_section: "1161a"
 chapter: 28
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 1161a"
-generated_at: "2026-03-30T09:10:53.362Z"
+generated_at: "2026-03-30T09:19:35.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9542 - Sense of Congress"
 usc_title: 22
 usc_section: "9542"
 chapter: 102
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 9542"
-generated_at: "2026-03-30T09:11:13.553Z"
+generated_at: "2026-03-30T09:19:45.138Z"
 status: "active"
 ---
 

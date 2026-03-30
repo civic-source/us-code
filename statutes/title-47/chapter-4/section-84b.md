@@ -3,9 +3,9 @@ title: "Section 84b - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 47
 usc_section: "84b"
 chapter: 4
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "47 U.S.C. § 84b"
-generated_at: "2026-03-30T09:12:24.802Z"
+generated_at: "2026-03-30T09:20:51.860Z"
 status: "repealed"
 ---
 

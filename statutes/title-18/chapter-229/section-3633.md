@@ -3,9 +3,9 @@ title: "Section 3633 - Evidence-based recidivism reduction program and recommend
 usc_title: 18
 usc_section: "3633"
 chapter: 229
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 3633"
-generated_at: "2026-03-30T09:11:05.961Z"
+generated_at: "2026-03-30T09:19:23.305Z"
 status: "active"
 ---
 

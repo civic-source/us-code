@@ -3,9 +3,9 @@ title: "Section 55112 - Vessel escort operations and towing assistance"
 usc_title: 46
 usc_section: "55112"
 chapter: 551
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "46 U.S.C. § 55112"
-generated_at: "2026-03-30T09:12:05.791Z"
+generated_at: "2026-03-30T09:20:52.777Z"
 status: "active"
 ---
 

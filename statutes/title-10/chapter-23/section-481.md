@@ -3,9 +3,9 @@ title: "Section 481 - Racial and ethnic issues; gender issues: surveys"
 usc_title: 10
 usc_section: "481"
 chapter: 23
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 481"
-generated_at: "2026-03-30T09:10:01.363Z"
+generated_at: "2026-03-30T09:18:59.221Z"
 status: "active"
 ---
 

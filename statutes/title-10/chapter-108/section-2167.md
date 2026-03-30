@@ -3,9 +3,9 @@ title: "Section 2167 - National Defense University: admission of private sector 
 usc_title: 10
 usc_section: "2167"
 chapter: 108
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 2167"
-generated_at: "2026-03-30T09:10:01.420Z"
+generated_at: "2026-03-30T09:18:59.273Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1336 - Referendum"
 usc_title: 7
 usc_section: "1336"
 chapter: 35
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 1336"
-generated_at: "2026-03-30T09:09:46.312Z"
+generated_at: "2026-03-30T09:18:39.872Z"
 status: "active"
 ---
 

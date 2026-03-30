@@ -3,9 +3,9 @@ title: "Section 6841 - Reporting"
 usc_title: 20
 usc_section: "6841"
 chapter: 70
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 6841"
-generated_at: "2026-03-30T09:10:53.408Z"
+generated_at: "2026-03-30T09:19:35.956Z"
 status: "active"
 ---
 

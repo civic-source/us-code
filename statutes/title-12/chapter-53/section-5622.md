@@ -3,9 +3,9 @@ title: "Section 5622 - Definitions"
 usc_title: 12
 usc_section: "5622"
 chapter: 53
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 5622"
-generated_at: "2026-03-30T09:10:16.792Z"
+generated_at: "2026-03-30T09:19:10.635Z"
 status: "active"
 ---
 

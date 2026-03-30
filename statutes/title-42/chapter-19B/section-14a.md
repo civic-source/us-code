@@ -3,9 +3,9 @@ title: "Section 14a - Alaska hydroelectric power development"
 usc_title: 42
 usc_section: "14a"
 chapter: 19
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 14a"
-generated_at: "2026-03-30T09:12:01.882Z"
+generated_at: "2026-03-30T09:20:43.563Z"
 status: "active"
 ---
 

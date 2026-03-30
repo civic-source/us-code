@@ -3,9 +3,9 @@ title: "Section 3531 - Repealed. Pub. L. 104–316, title I, § 115(f)(1) , Oct.
 usc_title: 31
 usc_section: "3531"
 chapter: 35
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "31 U.S.C. § 3531"
-generated_at: "2026-03-30T09:11:38.417Z"
+generated_at: "2026-03-30T09:19:58.597Z"
 status: "repealed"
 ---
 

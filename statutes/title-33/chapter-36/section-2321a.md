@@ -3,9 +3,9 @@ title: "Section 2321a - Hydroelectric power project uprating"
 usc_title: 33
 usc_section: "2321a"
 chapter: 36
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 2321a"
-generated_at: "2026-03-30T09:11:37.776Z"
+generated_at: "2026-03-30T09:20:00.446Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 730a - Sites for pierhead beacons"
 usc_title: 33
 usc_section: "730a"
 chapter: 16
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 730a"
-generated_at: "2026-03-30T09:11:37.736Z"
+generated_at: "2026-03-30T09:20:00.405Z"
 status: "active"
 ---
 

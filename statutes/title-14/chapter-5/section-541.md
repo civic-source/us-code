@@ -3,9 +3,9 @@ title: "Section 541 - Aids to navigation authorized"
 usc_title: 14
 usc_section: "541"
 chapter: 5
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "14 U.S.C. § 541"
-generated_at: "2026-03-30T09:10:05.905Z"
+generated_at: "2026-03-30T09:19:17.383Z"
 status: "active"
 ---
 

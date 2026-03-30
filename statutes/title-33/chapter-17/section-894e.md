@@ -3,9 +3,9 @@ title: "Section 894e - Annual report on sexual assaults in the National Oceanic 
 usc_title: 33
 usc_section: "894e"
 chapter: 17
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "33 U.S.C. § 894e"
-generated_at: "2026-03-30T09:11:37.739Z"
+generated_at: "2026-03-30T09:20:00.408Z"
 status: "active"
 ---
 

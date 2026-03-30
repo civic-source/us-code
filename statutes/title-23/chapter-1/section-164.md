@@ -3,9 +3,9 @@ title: "Section 164 - Minimum penalties for repeat offenders for driving while i
 usc_title: 23
 usc_section: "164"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "23 U.S.C. § 164"
-generated_at: "2026-03-30T09:11:08.539Z"
+generated_at: "2026-03-30T09:19:40.774Z"
 status: "active"
 ---
 

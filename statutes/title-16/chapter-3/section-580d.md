@@ -3,9 +3,9 @@ title: "Section 580d - Use of Forest Service structures or improvements and land
 usc_title: 16
 usc_section: "580d"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 580d"
-generated_at: "2026-03-30T09:10:49.781Z"
+generated_at: "2026-03-30T09:19:38.143Z"
 status: "active"
 ---
 

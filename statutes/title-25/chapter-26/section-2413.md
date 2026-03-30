@@ -3,9 +3,9 @@ title: "Section 2413 - Departmental responsibility"
 usc_title: 25
 usc_section: "2413"
 chapter: 26
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "25 U.S.C. § 2413"
-generated_at: "2026-03-30T09:11:10.912Z"
+generated_at: "2026-03-30T09:19:41.711Z"
 status: "active"
 ---
 

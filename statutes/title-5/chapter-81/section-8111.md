@@ -3,9 +3,9 @@ title: "Section 8111 - Additional compensation for services of attendants or voc
 usc_title: 5
 usc_section: "8111"
 chapter: 81
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "5 U.S.C. § 8111"
-generated_at: "2026-03-30T09:09:38.905Z"
+generated_at: "2026-03-30T09:17:51.797Z"
 status: "active"
 ---
 

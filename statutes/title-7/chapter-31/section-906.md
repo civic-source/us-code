@@ -3,9 +3,9 @@ title: "Section 906 - Funding for administrative expenses"
 usc_title: 7
 usc_section: "906"
 chapter: 31
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 906"
-generated_at: "2026-03-30T09:09:46.304Z"
+generated_at: "2026-03-30T09:18:39.864Z"
 status: "active"
 ---
 

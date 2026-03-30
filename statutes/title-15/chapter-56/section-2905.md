@@ -3,9 +3,9 @@ title: "Section 2905 - Repealed. Pub. L. 99–272, title VI, § 6084(g) , Apr. 7
 usc_title: 15
 usc_section: "2905"
 chapter: 56
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "15 U.S.C. § 2905"
-generated_at: "2026-03-30T09:10:42.434Z"
+generated_at: "2026-03-30T09:19:12.576Z"
 status: "repealed"
 ---
 

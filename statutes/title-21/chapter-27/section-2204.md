@@ -3,9 +3,9 @@ title: "Section 2204 - Building domestic capacity"
 usc_title: 21
 usc_section: "2204"
 chapter: 27
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "21 U.S.C. § 2204"
-generated_at: "2026-03-30T09:11:10.146Z"
+generated_at: "2026-03-30T09:19:42.944Z"
 status: "active"
 ---
 

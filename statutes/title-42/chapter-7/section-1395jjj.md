@@ -3,9 +3,9 @@ title: "Section 1395jjj - Shared savings program"
 usc_title: 42
 usc_section: "1395jjj"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 1395jjj"
-generated_at: "2026-03-30T09:12:01.794Z"
+generated_at: "2026-03-30T09:20:43.479Z"
 status: "active"
 ---
 

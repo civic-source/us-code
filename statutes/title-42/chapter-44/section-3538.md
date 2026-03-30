@@ -3,9 +3,9 @@ title: "Section 3538 - Rescheduling and refinancing of Federal loans"
 usc_title: 42
 usc_section: "3538"
 chapter: 44
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 3538"
-generated_at: "2026-03-30T09:12:01.932Z"
+generated_at: "2026-03-30T09:20:43.612Z"
 status: "active"
 ---
 

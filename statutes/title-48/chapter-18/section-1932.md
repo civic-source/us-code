@@ -3,9 +3,9 @@ title: "Section 1932 - Extension of Compact of Free Association to Palau"
 usc_title: 48
 usc_section: "1932"
 chapter: 18
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "48 U.S.C. § 1932"
-generated_at: "2026-03-30T09:12:04.967Z"
+generated_at: "2026-03-30T09:20:46.898Z"
 status: "active"
 ---
 

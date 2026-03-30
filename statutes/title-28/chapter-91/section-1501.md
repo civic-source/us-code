@@ -3,9 +3,9 @@ title: "Section 1501 - Pensions"
 usc_title: 28
 usc_section: "1501"
 chapter: 91
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "28 U.S.C. § 1501"
-generated_at: "2026-03-30T09:11:19.547Z"
+generated_at: "2026-03-30T09:19:49.985Z"
 status: "active"
 ---
 

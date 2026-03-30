@@ -3,9 +3,9 @@ title: "Section 797h - Employee and personal injury claims"
 usc_title: 45
 usc_section: "797h"
 chapter: 16
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "45 U.S.C. § 797h"
-generated_at: "2026-03-30T09:11:48.048Z"
+generated_at: "2026-03-30T09:20:22.947Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3661 - Postal services"
 usc_title: 39
 usc_section: "3661"
 chapter: 36
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "39 U.S.C. § 3661"
-generated_at: "2026-03-30T09:11:41.167Z"
+generated_at: "2026-03-30T09:20:02.114Z"
 status: "active"
 ---
 

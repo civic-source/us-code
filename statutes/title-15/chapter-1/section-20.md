@@ -3,9 +3,9 @@ title: "Section 20 - Repealed. Pub. L. 101–588, § 3 , Nov. 16, 1990 , 104 Sta
 usc_title: 15
 usc_section: "20"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "15 U.S.C. § 20"
-generated_at: "2026-03-30T09:10:42.281Z"
+generated_at: "2026-03-30T09:19:12.440Z"
 status: "repealed"
 ---
 

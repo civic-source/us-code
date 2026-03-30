@@ -3,9 +3,9 @@ title: "Section 2346d - Repealed. Pub. L. 103–149, § 4(a)(3)(B) , Nov. 23, 19
 usc_title: 22
 usc_section: "2346d"
 chapter: 32
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 2346d"
-generated_at: "2026-03-30T09:11:13.459Z"
+generated_at: "2026-03-30T09:19:45.042Z"
 status: "repealed"
 ---
 

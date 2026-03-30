@@ -3,9 +3,9 @@ title: "Section 78 - Gross up for deemed paid foreign tax credit"
 usc_title: 26
 usc_section: "78"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 78"
-generated_at: "2026-03-30T09:11:33.913Z"
+generated_at: "2026-03-30T09:19:55.697Z"
 status: "active"
 ---
 

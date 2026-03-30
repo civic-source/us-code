@@ -3,9 +3,9 @@ title: "Section 1390 - Nonapplicability of withdrawal liability for certain temp
 usc_title: 29
 usc_section: "1390"
 chapter: 18
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "29 U.S.C. § 1390"
-generated_at: "2026-03-30T09:11:21.178Z"
+generated_at: "2026-03-30T09:19:49.081Z"
 status: "active"
 ---
 

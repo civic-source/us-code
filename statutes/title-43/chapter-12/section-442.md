@@ -3,9 +3,9 @@ title: "Section 442 - Assignment between June 23, 1910 , and January 1, 1913 , c
 usc_title: 43
 usc_section: "442"
 chapter: 12
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "43 U.S.C. § 442"
-generated_at: "2026-03-30T09:11:45.401Z"
+generated_at: "2026-03-30T09:20:09.545Z"
 status: "active"
 ---
 

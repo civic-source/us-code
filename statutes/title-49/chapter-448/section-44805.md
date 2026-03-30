@@ -3,9 +3,9 @@ title: "Section 44805 - Small Unmanned 1 1 So in original. Probably should not b
 usc_title: 49
 usc_section: "44805"
 chapter: 448
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "49 U.S.C. § 44805"
-generated_at: "2026-03-30T09:12:08.541Z"
+generated_at: "2026-03-30T09:20:50.915Z"
 status: "active"
 ---
 

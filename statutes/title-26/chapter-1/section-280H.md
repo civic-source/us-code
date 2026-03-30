@@ -3,9 +3,9 @@ title: "Section 280H - Limitation on certain amounts paid to employee-owners by 
 usc_title: 26
 usc_section: "280H"
 chapter: 1
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 280H"
-generated_at: "2026-03-30T09:11:33.944Z"
+generated_at: "2026-03-30T09:19:55.728Z"
 status: "active"
 ---
 

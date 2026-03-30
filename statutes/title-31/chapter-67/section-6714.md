@@ -3,9 +3,9 @@ title: "Section 6714 - Compliance agreements"
 usc_title: 31
 usc_section: "6714"
 chapter: 67
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "31 U.S.C. § 6714"
-generated_at: "2026-03-30T09:11:38.431Z"
+generated_at: "2026-03-30T09:19:58.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 287g - Authorization of appropriations for loan to United Nation
 usc_title: 22
 usc_section: "287g"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 287g"
-generated_at: "2026-03-30T09:11:13.429Z"
+generated_at: "2026-03-30T09:19:45.011Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8908 - Areas I and II"
 usc_title: 40
 usc_section: "8908"
 chapter: 89
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "40 U.S.C. § 8908"
-generated_at: "2026-03-30T09:11:42.782Z"
+generated_at: "2026-03-30T09:20:03.377Z"
 status: "active"
 ---
 

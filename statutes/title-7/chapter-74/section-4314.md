@@ -3,9 +3,9 @@ title: "Section 4314 - Enforcement of provisions"
 usc_title: 7
 usc_section: "4314"
 chapter: 74
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 4314"
-generated_at: "2026-03-30T09:09:46.391Z"
+generated_at: "2026-03-30T09:18:39.943Z"
 status: "active"
 ---
 

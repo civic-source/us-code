@@ -3,9 +3,9 @@ title: "Section 9441a - Cadets: appointment by the President"
 usc_title: 10
 usc_section: "9441a"
 chapter: 953
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 9441a"
-generated_at: "2026-03-30T09:10:01.491Z"
+generated_at: "2026-03-30T09:18:59.332Z"
 status: "active"
 ---
 

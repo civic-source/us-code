@@ -3,9 +3,9 @@ title: "Section 3552 - Presentence reports"
 usc_title: 18
 usc_section: "3552"
 chapter: 227
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 3552"
-generated_at: "2026-03-30T09:11:05.956Z"
+generated_at: "2026-03-30T09:19:23.300Z"
 status: "active"
 ---
 

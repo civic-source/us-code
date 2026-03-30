@@ -3,9 +3,9 @@ title: "Section 658g - Clarification of application"
 usc_title: 2
 usc_section: "658g"
 chapter: 17
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "2 U.S.C. § 658g"
-generated_at: "2026-03-30T09:09:29.003Z"
+generated_at: "2026-03-30T09:18:00.521Z"
 status: "active"
 ---
 

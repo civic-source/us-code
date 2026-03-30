@@ -3,9 +3,9 @@ title: "Section 2214a - “Bank” defined"
 usc_title: 12
 usc_section: "2214a"
 chapter: 23
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "12 U.S.C. § 2214a"
-generated_at: "2026-03-30T09:10:16.729Z"
+generated_at: "2026-03-30T09:19:10.573Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2322 - Management of intellectual property matters within the De
 usc_title: 10
 usc_section: "2322"
 chapter: 137
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 2322"
-generated_at: "2026-03-30T09:10:01.431Z"
+generated_at: "2026-03-30T09:18:59.282Z"
 status: "active"
 ---
 

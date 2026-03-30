@@ -3,9 +3,9 @@ title: "Section 1418 - Program information"
 usc_title: 20
 usc_section: "1418"
 chapter: 33
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "20 U.S.C. § 1418"
-generated_at: "2026-03-30T09:10:53.374Z"
+generated_at: "2026-03-30T09:19:35.920Z"
 status: "active"
 ---
 

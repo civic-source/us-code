@@ -3,9 +3,9 @@ title: "Section 2620 - Public health emergency leave"
 usc_title: 29
 usc_section: "2620"
 chapter: 28
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "29 U.S.C. § 2620"
-generated_at: "2026-03-30T09:11:21.185Z"
+generated_at: "2026-03-30T09:19:49.088Z"
 status: "active"
 ---
 

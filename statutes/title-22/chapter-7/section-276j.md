@@ -3,9 +3,9 @@ title: "Section 276j - Report to Congress"
 usc_title: 22
 usc_section: "276j"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 276j"
-generated_at: "2026-03-30T09:11:13.419Z"
+generated_at: "2026-03-30T09:19:45.000Z"
 status: "active"
 ---
 

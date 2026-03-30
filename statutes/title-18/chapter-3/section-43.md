@@ -3,9 +3,9 @@ title: "Section 43 - Force, violence, and threats involving animal enterprises"
 usc_title: 18
 usc_section: "43"
 chapter: 3
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "18 U.S.C. § 43"
-generated_at: "2026-03-30T09:11:05.909Z"
+generated_at: "2026-03-30T09:19:23.251Z"
 status: "active"
 ---
 

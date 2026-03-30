@@ -3,9 +3,9 @@ title: "Section 6805 - Grants for State consumer protection offices by Secretary
 usc_title: 42
 usc_section: "6805"
 chapter: 81
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 6805"
-generated_at: "2026-03-30T09:12:02.002Z"
+generated_at: "2026-03-30T09:20:43.678Z"
 status: "active"
 ---
 

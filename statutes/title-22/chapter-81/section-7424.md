@@ -3,9 +3,9 @@ title: "Section 7424 - Restriction on United States participation in certain Uni
 usc_title: 22
 usc_section: "7424"
 chapter: 81
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 7424"
-generated_at: "2026-03-30T09:11:13.529Z"
+generated_at: "2026-03-30T09:19:45.114Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 649d - Opportunities for consideration for promotion"
 usc_title: 10
 usc_section: "649d"
 chapter: 36
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 649d"
-generated_at: "2026-03-30T09:10:01.370Z"
+generated_at: "2026-03-30T09:18:59.227Z"
 status: "active"
 ---
 

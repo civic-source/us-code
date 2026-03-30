@@ -3,9 +3,9 @@ title: "Section 262e - Comparability of salaries and benefits of employees of in
 usc_title: 22
 usc_section: "262e"
 chapter: 7
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "22 U.S.C. § 262e"
-generated_at: "2026-03-30T09:11:13.414Z"
+generated_at: "2026-03-30T09:19:44.996Z"
 status: "active"
 ---
 

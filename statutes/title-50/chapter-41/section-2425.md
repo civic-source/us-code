@@ -3,9 +3,9 @@ title: "Section 2425 - Government access to information on Administration comput
 usc_title: 50
 usc_section: "2425"
 chapter: 41
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "50 U.S.C. § 2425"
-generated_at: "2026-03-30T09:12:33.462Z"
+generated_at: "2026-03-30T09:20:48.292Z"
 status: "active"
 ---
 

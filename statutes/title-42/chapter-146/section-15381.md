@@ -3,9 +3,9 @@ title: "Section 15381 - Transferred"
 usc_title: 42
 usc_section: "15381"
 chapter: 146
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 15381"
-generated_at: "2026-03-30T09:12:02.175Z"
+generated_at: "2026-03-30T09:20:43.841Z"
 status: "transferred"
 ---
 

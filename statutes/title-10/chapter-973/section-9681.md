@@ -3,9 +3,9 @@ title: "Section 9681 - Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a
 usc_title: 10
 usc_section: "9681"
 chapter: 973
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "10 U.S.C. § 9681"
-generated_at: "2026-03-30T09:10:01.495Z"
+generated_at: "2026-03-30T09:18:59.334Z"
 status: "repealed"
 ---
 

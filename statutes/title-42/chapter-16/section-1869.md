@@ -3,9 +3,9 @@ title: "Section 1869 - Scholarships and graduate fellowships"
 usc_title: 42
 usc_section: "1869"
 chapter: 16
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "42 U.S.C. § 1869"
-generated_at: "2026-03-30T09:12:01.879Z"
+generated_at: "2026-03-30T09:20:43.560Z"
 status: "active"
 ---
 

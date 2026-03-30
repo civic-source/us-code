@@ -3,9 +3,9 @@ title: "Section 6575 - Fees for copies from Senate journals"
 usc_title: 2
 usc_section: "6575"
 chapter: 65
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "2 U.S.C. § 6575"
-generated_at: "2026-03-30T09:09:29.034Z"
+generated_at: "2026-03-30T09:18:00.553Z"
 status: "active"
 ---
 

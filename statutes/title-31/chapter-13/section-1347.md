@@ -3,9 +3,9 @@ title: "Section 1347 - Appropriations or authorizations required for agencies in
 usc_title: 31
 usc_section: "1347"
 chapter: 13
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "31 U.S.C. § 1347"
-generated_at: "2026-03-30T09:11:38.411Z"
+generated_at: "2026-03-30T09:19:58.592Z"
 status: "active"
 ---
 

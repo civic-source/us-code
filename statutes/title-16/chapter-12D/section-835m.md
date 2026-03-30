@@ -3,9 +3,9 @@ title: "Section 835m - Recommendations for changes in limitations on financial a
 usc_title: 16
 usc_section: "835m"
 chapter: 12
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "16 U.S.C. § 835m"
-generated_at: "2026-03-30T09:10:49.815Z"
+generated_at: "2026-03-30T09:19:38.176Z"
 status: "active"
 ---
 

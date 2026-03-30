@@ -3,9 +3,9 @@ title: "Section 3222b - Grants to upgrade agricultural and food sciences facilit
 usc_title: 7
 usc_section: "3222b"
 chapter: 64
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "7 U.S.C. § 3222b"
-generated_at: "2026-03-30T09:09:46.385Z"
+generated_at: "2026-03-30T09:18:39.938Z"
 status: "active"
 ---
 

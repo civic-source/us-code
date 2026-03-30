@@ -3,9 +3,9 @@ title: "Section 8474 - Executive Director"
 usc_title: 5
 usc_section: "8474"
 chapter: 84
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "5 U.S.C. § 8474"
-generated_at: "2026-03-30T09:09:38.919Z"
+generated_at: "2026-03-30T09:17:51.811Z"
 status: "active"
 ---
 

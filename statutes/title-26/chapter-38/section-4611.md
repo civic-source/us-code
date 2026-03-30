@@ -3,9 +3,9 @@ title: "Section 4611 - Imposition of tax"
 usc_title: 26
 usc_section: "4611"
 chapter: 38
-current_through: "PL 116-142"
+current_through: "PL 116-145"
 classification: "26 U.S.C. § 4611"
-generated_at: "2026-03-30T09:11:34.058Z"
+generated_at: "2026-03-30T09:19:55.840Z"
 status: "active"
 ---
 
