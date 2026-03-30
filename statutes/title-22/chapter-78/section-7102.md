@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 22
 usc_section: "7102"
 chapter: 78
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 7102"
-generated_at: "2026-03-30T04:26:00.153Z"
+generated_at: "2026-03-30T04:28:29.124Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ In this chapter:
   - **(9)** The term “severe forms of trafficking in persons” means—
     - **(A)** sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age; or
     - **(B)** the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services, through the use of force, fraud, or coercion for the purpose of subjection to involuntary servitude, peonage, debt bondage, or slavery.
-  - **(10)** The term “sex trafficking” means the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of a commercial sex act.
+  - **(10)** The term “sex trafficking” means the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person for the purpose of a commercial sex act.
   - **(11)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and territories and possessions of the United States.
   - **(12)** The term “Task Force” means the Interagency Task Force to Monitor and Combat Trafficking established under section 7103 of this title .
   - **(13)** The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.

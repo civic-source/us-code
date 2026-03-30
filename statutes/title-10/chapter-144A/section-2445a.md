@@ -3,9 +3,9 @@ title: "Section 2445a - Definitions"
 usc_title: 10
 usc_section: "2445a"
 chapter: 144
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 2445a"
-generated_at: "2026-03-30T04:25:30.283Z"
+generated_at: "2026-03-30T04:27:24.762Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 939a - Cooperation with other agencies"
 usc_title: 16
 usc_section: "939a"
 chapter: 15
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 939a"
-generated_at: "2026-03-30T04:25:48.431Z"
+generated_at: "2026-03-30T04:28:23.190Z"
 status: "active"
 ---
 

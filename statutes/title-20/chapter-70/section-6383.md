@@ -3,9 +3,9 @@ title: "Section 6383 - Improving literacy through school libraries"
 usc_title: 20
 usc_section: "6383"
 chapter: 70
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 6383"
-generated_at: "2026-03-30T04:25:45.230Z"
+generated_at: "2026-03-30T04:28:19.459Z"
 status: "active"
 ---
 

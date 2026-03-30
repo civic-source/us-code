@@ -3,9 +3,9 @@ title: "Section 5007 - Free transportation of postal employees"
 usc_title: 39
 usc_section: "5007"
 chapter: 50
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "39 U.S.C. § 5007"
-generated_at: "2026-03-30T04:26:26.416Z"
+generated_at: "2026-03-30T04:28:59.666Z"
 status: "active"
 ---
 

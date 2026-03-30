@@ -3,9 +3,9 @@ title: "Section 962 - Election by individuals to be subject to tax at corporate 
 usc_title: 26
 usc_section: "962"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "26 U.S.C. § 962"
-generated_at: "2026-03-30T04:26:11.463Z"
+generated_at: "2026-03-30T04:28:52.825Z"
 status: "active"
 ---
 

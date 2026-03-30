@@ -3,9 +3,9 @@ title: "Section 49 - Repealed. June 30, 1932, ch. 317 , 47 Stat. 421"
 usc_title: 25
 usc_section: "49"
 chapter: 2
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 49"
-generated_at: "2026-03-30T04:25:56.683Z"
+generated_at: "2026-03-30T04:28:26.904Z"
 status: "repealed"
 ---
 

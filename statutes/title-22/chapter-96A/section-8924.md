@@ -3,9 +3,9 @@ title: "Section 8924 - Sanctions on Russian and other foreign financial institut
 usc_title: 22
 usc_section: "8924"
 chapter: 96
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 8924"
-generated_at: "2026-03-30T04:26:00.174Z"
+generated_at: "2026-03-30T04:28:29.145Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
 - **(e)**
   - **(1)** The President may exercise all authorities provided under sections 1702 and 1704 of title 50 to carry out the purposes of this section.
   - **(2)** The penalties provided for in subsections (b) and (c) of section 1705 of title 50 shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, subsection (a) or (b) of this section, or an order or regulation prescribed under either such subsection, to the same extent that such penalties apply to a person that commits an unlawful act described in section 1705(a) of title 50 .
-- **(f)** This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 8923(h)of this title.
+- **(f)** This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 8923(h) of this title .

@@ -3,9 +3,9 @@ title: "Section 24 - Definitions; exemption from administrative procedure provis
 usc_title: 22
 usc_section: "24"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 24"
-generated_at: "2026-03-30T04:26:00.046Z"
+generated_at: "2026-03-30T04:28:29.023Z"
 status: "active"
 ---
 

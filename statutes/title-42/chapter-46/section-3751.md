@@ -3,9 +3,9 @@ title: "Section 3751 - Description"
 usc_title: 42
 usc_section: "3751"
 chapter: 46
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 3751"
-generated_at: "2026-03-30T04:26:51.812Z"
+generated_at: "2026-03-30T04:29:16.817Z"
 status: "active"
 ---
 

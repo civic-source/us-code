@@ -3,9 +3,9 @@ title: "Section 7728 - Restricted certificate"
 usc_title: 10
 usc_section: "7728"
 chapter: 657
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 7728"
-generated_at: "2026-03-30T04:25:30.322Z"
+generated_at: "2026-03-30T04:27:24.802Z"
 status: "active"
 ---
 

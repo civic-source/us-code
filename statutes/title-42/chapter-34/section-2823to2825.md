@@ -3,9 +3,9 @@ title: "Section 2823to2825 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2823to2825"
 chapter: 34
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 2823to2825"
-generated_at: "2026-03-30T04:26:51.790Z"
+generated_at: "2026-03-30T04:29:16.793Z"
 status: "repealed"
 ---
 

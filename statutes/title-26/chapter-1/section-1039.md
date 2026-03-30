@@ -3,9 +3,9 @@ title: "Section 1039 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(33) , 
 usc_title: 26
 usc_section: "1039"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "26 U.S.C. § 1039"
-generated_at: "2026-03-30T04:26:11.468Z"
+generated_at: "2026-03-30T04:28:52.831Z"
 status: "repealed"
 ---
 

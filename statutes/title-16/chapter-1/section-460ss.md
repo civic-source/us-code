@@ -3,9 +3,9 @@ title: "Section 460ss - Findings"
 usc_title: 16
 usc_section: "460ss"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 460ss"
-generated_at: "2026-03-30T04:25:48.363Z"
+generated_at: "2026-03-30T04:28:23.122Z"
 status: "active"
 ---
 

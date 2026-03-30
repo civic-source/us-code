@@ -3,9 +3,9 @@ title: "Section 1395eee - Payments to, and coverage of benefits under, programs 
 usc_title: 42
 usc_section: "1395eee"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 1395eee"
-generated_at: "2026-03-30T04:26:51.680Z"
+generated_at: "2026-03-30T04:29:16.680Z"
 status: "active"
 ---
 

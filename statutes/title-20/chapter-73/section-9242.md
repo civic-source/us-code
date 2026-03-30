@@ -3,9 +3,9 @@ title: "Section 9242 - Local application"
 usc_title: 20
 usc_section: "9242"
 chapter: 73
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 9242"
-generated_at: "2026-03-30T04:25:45.264Z"
+generated_at: "2026-03-30T04:28:19.493Z"
 status: "active"
 ---
 

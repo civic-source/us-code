@@ -3,9 +3,9 @@ title: "Section 1863 - Repealed. Pub. L. 107–56, title II, § 215 , Oct. 26, 2
 usc_title: 50
 usc_section: "1863"
 chapter: 36
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "50 U.S.C. § 1863"
-generated_at: "2026-03-30T04:26:55.933Z"
+generated_at: "2026-03-30T04:29:28.811Z"
 status: "repealed"
 ---
 

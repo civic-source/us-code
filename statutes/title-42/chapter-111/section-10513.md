@@ -3,9 +3,9 @@ title: "Section 10513 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10513"
 chapter: 111
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 10513"
-generated_at: "2026-03-30T04:26:51.985Z"
+generated_at: "2026-03-30T04:29:17.000Z"
 status: "active"
 ---
 

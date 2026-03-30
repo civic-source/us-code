@@ -3,9 +3,9 @@ title: "Section 3321 - Grants and contracts for eligible providers"
 usc_title: 29
 usc_section: "3321"
 chapter: 32
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 3321"
-generated_at: "2026-03-30T04:26:04.168Z"
+generated_at: "2026-03-30T04:28:33.796Z"
 status: "active"
 ---
 

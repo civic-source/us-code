@@ -3,9 +3,9 @@ title: "Section 5011 - Grants and contracts for individual service projects"
 usc_title: 42
 usc_section: "5011"
 chapter: 66
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 5011"
-generated_at: "2026-03-30T04:26:51.837Z"
+generated_at: "2026-03-30T04:29:16.843Z"
 status: "active"
 ---
 

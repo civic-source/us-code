@@ -3,9 +3,9 @@ title: "Section 5802 - National Natural Resources Conservation Foundation"
 usc_title: 16
 usc_section: "5802"
 chapter: 78
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 5802"
-generated_at: "2026-03-30T04:25:48.505Z"
+generated_at: "2026-03-30T04:28:23.265Z"
 status: "active"
 ---
 

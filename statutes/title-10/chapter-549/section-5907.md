@@ -3,9 +3,9 @@ title: "Section 5907 - Repealed. Pub. L. 87–649, § 14c(33) , Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "5907"
 chapter: 549
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 5907"
-generated_at: "2026-03-30T04:25:30.312Z"
+generated_at: "2026-03-30T04:27:24.792Z"
 status: "repealed"
 ---
 

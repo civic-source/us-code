@@ -3,9 +3,9 @@ title: "Section 566h - Regulations"
 usc_title: 25
 usc_section: "566h"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 566h"
-generated_at: "2026-03-30T04:25:56.703Z"
+generated_at: "2026-03-30T04:28:26.923Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5128 - Authorization of appropriations"
 usc_title: 49
 usc_section: "5128"
 chapter: 51
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "49 U.S.C. § 5128"
-generated_at: "2026-03-30T04:26:58.267Z"
+generated_at: "2026-03-30T04:29:23.930Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
   - **(1)** $42,338,000 for fiscal year 2013;
   - **(2)** $42,762,000 for fiscal year 2014; and
-  - **(3)** $28,468,948 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
+  - **(3)** $35,615,474 for the period beginning on October 1, 2014 , and ending on July 31, 2015 .
 - **(b)**
   - **(1)** From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
     - **(A)** $188,000 to carry out section 5115;
@@ -22,13 +22,13 @@ status: "active"
     - **(C)** $150,000 to carry out section 5116(f);
     - **(D)** $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
     - **(E)** $1,000,000 to carry out section 5116(j).
-  - **(2)** From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014 , and ending on May 31, 2015 —
-    - **(A)** $125,162 to carry out section 5115;
-    - **(B)** $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than $9,087,534 shall be available to carry out section 5116(b);
-    - **(C)** $99,863 to carry out section 5116(f);
-    - **(D)** $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
-    - **(E)** $665,753 to carry out section 5116(j).
-- **(c)** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $2,663,014 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , to carry out section 5107(e).
+  - **(2)** From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014 , and ending on July 31, 2015 —
+    - **(A)** $156,581 to carry out section 5115;
+    - **(B)** $18,156,712 to carry out subsections (a) and (b) of section 5116, of which not less than $11,368,767 shall be available to carry out section 5116(b);
+    - **(C)** $124,932 to carry out section 5116(f);
+    - **(D)** $520,548 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+    - **(E)** $832,877 to carry out section 5116(j).
+- **(c)** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $3,331,507 for the period beginning on October 1, 2014 , and ending on July 31, 2015 , to carry out section 5107(e).
 - **(d)**
   - **(1)** In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, authority, or entity.
   - **(2)** Amounts made available under this section shall remain available until expended.

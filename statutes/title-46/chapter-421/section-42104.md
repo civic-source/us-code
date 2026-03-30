@@ -3,9 +3,9 @@ title: "Section 42104 - Information, witnesses, and evidence"
 usc_title: 46
 usc_section: "42104"
 chapter: 421
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "46 U.S.C. § 42104"
-generated_at: "2026-03-30T04:26:56.622Z"
+generated_at: "2026-03-30T04:29:20.465Z"
 status: "active"
 ---
 

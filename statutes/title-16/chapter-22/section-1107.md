@@ -3,9 +3,9 @@ title: "Section 1107 - Meetings and reports; inspection of records"
 usc_title: 16
 usc_section: "1107"
 chapter: 22
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 1107"
-generated_at: "2026-03-30T04:25:48.435Z"
+generated_at: "2026-03-30T04:28:23.195Z"
 status: "active"
 ---
 

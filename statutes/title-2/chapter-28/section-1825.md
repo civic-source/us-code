@@ -3,9 +3,9 @@ title: "Section 1825 - Repealed. Pub. L. 110–437, title V, § 501(b)(2) , Oct.
 usc_title: 2
 usc_section: "1825"
 chapter: 28
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "2 U.S.C. § 1825"
-generated_at: "2026-03-30T04:25:22.086Z"
+generated_at: "2026-03-30T04:27:15.254Z"
 status: "repealed"
 ---
 

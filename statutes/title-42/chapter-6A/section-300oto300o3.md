@@ -3,9 +3,9 @@ title: "Section 300oto300o3 - Repealed. Pub. L. 96–79, title II, § 202(a) , O
 usc_title: 42
 usc_section: "300oto300o3"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 300oto300o3"
-generated_at: "2026-03-30T04:26:51.518Z"
+generated_at: "2026-03-30T04:29:16.520Z"
 status: "repealed"
 ---
 

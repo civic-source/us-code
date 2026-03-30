@@ -3,9 +3,9 @@ title: "Section 967d - Rules and regulations"
 usc_title: 25
 usc_section: "967d"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 967d"
-generated_at: "2026-03-30T04:25:56.718Z"
+generated_at: "2026-03-30T04:28:26.936Z"
 status: "active"
 ---
 

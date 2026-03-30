@@ -3,9 +3,9 @@ title: "Section 157a - Additional lands; aggregate cost"
 usc_title: 16
 usc_section: "157a"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 157a"
-generated_at: "2026-03-30T04:25:48.301Z"
+generated_at: "2026-03-30T04:28:23.029Z"
 status: "active"
 ---
 

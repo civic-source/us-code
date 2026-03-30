@@ -3,9 +3,9 @@ title: "Section 283dd - Restrictions"
 usc_title: 22
 usc_section: "283dd"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 283dd"
-generated_at: "2026-03-30T04:26:00.049Z"
+generated_at: "2026-03-30T04:28:29.026Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1232to1232B - Repealed. Pub. L. 98–369, div. A, title I, § 42
 usc_title: 26
 usc_section: "1232to1232B"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "26 U.S.C. § 1232to1232B"
-generated_at: "2026-03-30T04:26:11.471Z"
+generated_at: "2026-03-30T04:28:52.834Z"
 status: "repealed"
 ---
 

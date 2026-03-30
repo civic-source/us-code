@@ -3,9 +3,9 @@ title: "Section 53509 - Qualified withdrawals"
 usc_title: 46
 usc_section: "53509"
 chapter: 535
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "46 U.S.C. § 53509"
-generated_at: "2026-03-30T04:26:56.627Z"
+generated_at: "2026-03-30T04:29:20.470Z"
 status: "active"
 ---
 

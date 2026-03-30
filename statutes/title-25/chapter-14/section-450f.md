@@ -3,9 +3,9 @@ title: "Section 450f - Self-determination contracts"
 usc_title: 25
 usc_section: "450f"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 450f"
-generated_at: "2026-03-30T04:25:56.694Z"
+generated_at: "2026-03-30T04:28:26.915Z"
 status: "active"
 ---
 

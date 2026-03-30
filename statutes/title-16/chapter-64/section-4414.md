@@ -3,9 +3,9 @@ title: "Section 4414 - Assessment of progress in wetlands conservation"
 usc_title: 16
 usc_section: "4414"
 chapter: 64
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 4414"
-generated_at: "2026-03-30T04:25:48.499Z"
+generated_at: "2026-03-30T04:28:23.258Z"
 status: "active"
 ---
 

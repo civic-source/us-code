@@ -3,9 +3,9 @@ title: "Section 7243 - Programs authorized"
 usc_title: 20
 usc_section: "7243"
 chapter: 70
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 7243"
-generated_at: "2026-03-30T04:25:45.247Z"
+generated_at: "2026-03-30T04:28:19.477Z"
 status: "active"
 ---
 

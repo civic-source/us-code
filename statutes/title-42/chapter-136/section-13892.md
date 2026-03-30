@@ -3,9 +3,9 @@ title: "Section 13892 - Eligibility to receive grants"
 usc_title: 42
 usc_section: "13892"
 chapter: 136
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 13892"
-generated_at: "2026-03-30T04:26:52.040Z"
+generated_at: "2026-03-30T04:29:17.057Z"
 status: "active"
 ---
 

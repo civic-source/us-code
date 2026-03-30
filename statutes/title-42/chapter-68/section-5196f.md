@@ -3,9 +3,9 @@ title: "Section 5196f - Disaster related information services"
 usc_title: 42
 usc_section: "5196f"
 chapter: 68
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 5196f"
-generated_at: "2026-03-30T04:26:51.848Z"
+generated_at: "2026-03-30T04:29:16.853Z"
 status: "active"
 ---
 

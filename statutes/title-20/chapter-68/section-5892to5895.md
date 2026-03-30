@@ -3,9 +3,9 @@ title: "Section 5892to5895 - Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) 
 usc_title: 20
 usc_section: "5892to5895"
 chapter: 68
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 5892to5895"
-generated_at: "2026-03-30T04:25:45.219Z"
+generated_at: "2026-03-30T04:28:19.450Z"
 status: "repealed"
 ---
 

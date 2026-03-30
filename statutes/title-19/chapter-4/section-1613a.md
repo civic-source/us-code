@@ -3,9 +3,9 @@ title: "Section 1613a - Repealed. Pub. L. 99–514, title XVIII, § 1888(7) , Oc
 usc_title: 19
 usc_section: "1613a"
 chapter: 4
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "19 U.S.C. § 1613a"
-generated_at: "2026-03-30T04:25:42.870Z"
+generated_at: "2026-03-30T04:28:17.479Z"
 status: "repealed"
 ---
 

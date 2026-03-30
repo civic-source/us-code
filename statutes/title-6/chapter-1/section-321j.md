@@ -3,9 +3,9 @@ title: "Section 321j - Procurement of security countermeasures for Strategic Nat
 usc_title: 6
 usc_section: "321j"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "6 U.S.C. § 321j"
-generated_at: "2026-03-30T04:25:30.632Z"
+generated_at: "2026-03-30T04:27:39.410Z"
 status: "active"
 ---
 

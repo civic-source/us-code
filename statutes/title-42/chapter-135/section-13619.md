@@ -3,9 +3,9 @@ title: "Section 13619 - “Covered section 8 housing” defined"
 usc_title: 42
 usc_section: "13619"
 chapter: 135
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 13619"
-generated_at: "2026-03-30T04:26:52.036Z"
+generated_at: "2026-03-30T04:29:17.053Z"
 status: "active"
 ---
 

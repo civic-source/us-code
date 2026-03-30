@@ -3,9 +3,9 @@ title: "Section 6103 - Holidays"
 usc_title: 5
 usc_section: "6103"
 chapter: 61
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "5 U.S.C. § 6103"
-generated_at: "2026-03-30T04:25:20.723Z"
+generated_at: "2026-03-30T04:27:17.016Z"
 status: "active"
 ---
 

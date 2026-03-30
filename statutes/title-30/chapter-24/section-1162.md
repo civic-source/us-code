@@ -3,9 +3,9 @@ title: "Section 1162 - Final report to President and Congress on terminated proj
 usc_title: 30
 usc_section: "1162"
 chapter: 24
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "30 U.S.C. § 1162"
-generated_at: "2026-03-30T04:26:02.827Z"
+generated_at: "2026-03-30T04:28:34.075Z"
 status: "active"
 ---
 

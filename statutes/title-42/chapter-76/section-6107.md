@@ -3,9 +3,9 @@ title: "Section 6107 - Definitions"
 usc_title: 42
 usc_section: "6107"
 chapter: 76
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 6107"
-generated_at: "2026-03-30T04:26:51.864Z"
+generated_at: "2026-03-30T04:29:16.871Z"
 status: "active"
 ---
 

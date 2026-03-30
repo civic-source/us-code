@@ -3,9 +3,9 @@ title: "Section 1199 - Chapter as additional legislation"
 usc_title: 15
 usc_section: "1199"
 chapter: 25
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 1199"
-generated_at: "2026-03-30T04:25:38.695Z"
+generated_at: "2026-03-30T04:27:46.481Z"
 status: "active"
 ---
 

@@ -1,42 +1,15 @@
 ---
-title: "Section 2 - Definitions"
+title: "Section 2 - Increased funding for formula grants authorized"
 usc_title: 42
 usc_section: "2"
 chapter: 136
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T04:26:52.043Z"
+generated_at: "2026-03-30T04:29:17.062Z"
 status: "active"
 ---
 
-# § 14043e–2. Definitions
+# § 14043h–2. Increased funding for formula grants authorized
 
-For purposes of this subpart—
+The Attorney General shall increase the amount provided to a State under the covered formula grants in accordance with this part if the State has in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court is authorized to grant upon clear and convincing evidence of rape.
 
-  - **(1)** the term “assisted housing” means housing assisted—
-    - **(A)** under sections 1 1 So in original. Probably should be “section”. 1715e, 1715k, 1715 l (d)(3), 1715 l (d)(4), 1715n(e), 1715v, or 1715z–1 of title 12;
-    - **(B)** under section 1701s of title 12 ;
-    - **(C)** under section 1701q of title 12 ;
-    - **(D)** under section 811 of the Cranston-Gonzales 2 2 So in original. Probably should be “Cranston-Gonzalez”. National Affordable Housing Act ( 42 U.S.C. 8013 );
-    - **(E)** under title II of the Cranston-Gonzales 2 National Affordable Housing Act [ 42 U.S.C. 12721 et seq.];
-    - **(F)** under subtitle D of title VIII of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12901 et seq.);
-    - **(G)** under title I of the Housing and Community Development Act of 1974 ( 42 U.S.C. 5301 et seq.); or
-    - **(H)** under section 1437f of this title ;
-  - **(2)** the term “continuum of care” means a community plan developed to organize and deliver housing and services to meet the specific needs of people who are homeless as they move to stable housing and achieve maximum self-sufficiency;
-  - **(3)** the term “low-income housing assistance voucher” means housing assistance described in section 1437f of this title ;
-  - **(4)** the term “public housing” means housing described in section 1437a(b)(1) of this title ;
-  - **(5)** the term “public housing agency” means an agency described in section 1437a(b)(6) of this title ;
-  - **(6)** the terms “homeless”, “homeless individual”, and “homeless person”—
-    - **(A)** mean an individual who lacks a fixed, regular, and adequate nighttime residence; and
-    - **(B)** includes—
-      - **(i)** an individual who—
-        - **(I)** is sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason;
-        - **(II)** is living in a motel, hotel, trailer park, or campground due to the lack of alternative adequate accommodations;
-        - **(III)** is living in an emergency or transitional shelter;
-        - **(IV)** is abandoned in a hospital; or
-        - **(V)** is awaiting foster care placement;
-      - **(ii)** an individual who has a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings; or
-      - **(iii)** migratory children (as defined in section 6399 of title 20 ) who qualify as homeless under this section because the children are living in circumstances described in this paragraph;
-  - **(7)** the term “homeless service provider” means a nonprofit, nongovernmental homeless service provider, such as a homeless shelter, a homeless service or advocacy program, a tribal organization serving homeless individuals, or coalition or other nonprofit, nongovernmental organization carrying out a community-based homeless or housing program that has a documented history of effective work concerning homelessness;
-  - **(8)** the term “tribally designated housing” means housing assistance described in the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4101 et seq.); and
-  - **(9)** the term “tribally designated housing entity” means a housing entity described in the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4103(21) ); 3 3 So in original. The semicolon probably should be a period.

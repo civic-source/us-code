@@ -3,9 +3,9 @@ title: "Section 7403 - National Science Foundation research"
 usc_title: 15
 usc_section: "7403"
 chapter: 100
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 7403"
-generated_at: "2026-03-30T04:25:38.775Z"
+generated_at: "2026-03-30T04:27:46.594Z"
 status: "active"
 ---
 

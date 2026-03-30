@@ -1,20 +1,19 @@
 ---
-title: "Section 6752 - Purpose"
+title: "Section 6752 - National Association of Registered Agents and Brokers"
 usc_title: 15
 usc_section: "6752"
 chapter: 93
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 6752"
-generated_at: "2026-03-30T04:25:38.768Z"
+generated_at: "2026-03-30T04:27:46.587Z"
 status: "active"
 ---
 
-# § 6752. Purpose
+# § 6752. National Association of Registered Agents and Brokers
 
-The purpose of the Association shall be to provide a mechanism through which licensing, continuing education, and other nonresident insurance producer qualification requirements and conditions may be adopted and applied on a multi-state basis without affecting the laws, rules, and regulations, and preserving the rights of a State, pertaining to—
-
-  - **(1)** licensing, continuing education, and other qualification requirements of insurance producers that are not members of the Association;
-  - **(2)** resident or nonresident insurance producer appointment requirements;
-  - **(3)** supervising and disciplining resident and nonresident insurance producers;
-  - **(4)** establishing licensing fees for resident and nonresident insurance producers so that there is no loss of insurance producer licensing revenue to the State; and
-  - **(5)** prescribing and enforcing laws and regulations regulating the conduct of resident and nonresident insurance producers.
+- **(a)** There is established the National Association of Registered Agents and Brokers (hereafter in this subchapter referred to as the “Association”).
+- **(b)** The Association shall—
+  - **(1)** be a nonprofit corporation;
+  - **(2)** have succession until dissolved by an Act of Congress;
+  - **(3)** not be an agent or instrumentality of the United States Government; and
+  - **(4)** except as otherwise provided in this Act, be subject to, and have all the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29y–1001 et seq.).

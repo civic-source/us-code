@@ -3,9 +3,9 @@ title: "Section 2173 - Repealed. Pub. L. 87–565 , pt. I, § 103(c), Aug. 1, 19
 usc_title: 22
 usc_section: "2173"
 chapter: 32
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2173"
-generated_at: "2026-03-30T04:26:00.078Z"
+generated_at: "2026-03-30T04:28:29.052Z"
 status: "repealed"
 ---
 

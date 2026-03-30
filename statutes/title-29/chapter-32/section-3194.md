@@ -3,9 +3,9 @@ title: "Section 3194 - Individuals eligible for the Job Corps"
 usc_title: 29
 usc_section: "3194"
 chapter: 32
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 3194"
-generated_at: "2026-03-30T04:26:04.162Z"
+generated_at: "2026-03-30T04:28:33.790Z"
 status: "active"
 ---
 
@@ -22,6 +22,7 @@ status: "active"
     - **(C)** A homeless individual (as defined in section 14043e–2(6) of title 42 ), a homeless child or youth (as defined in section 11434a(2) of title 42 ), a runaway, an individual in foster care, or an individual who was in foster care and has aged out of the foster care system.
     - **(D)** A parent.
     - **(E)** An individual who requires additional education, career and technical education or training, or workforce preparation skills to be able to obtain and retain employment that leads to economic self-sufficiency.
+    - **(F)** A victim of a severe form of trafficking in persons (as defined in section 7102 of title 22 ). Notwithstanding paragraph (2), an individual described in this subparagraph shall not be required to demonstrate eligibility under such paragraph.
 - **(b)** Notwithstanding the requirement of subsection (a)(2), a veteran shall be eligible to become an enrollee under subsection (a) if the individual—
   - **(1)** meets the requirements of paragraphs (1) and (3) of such subsection; and
   - **(2)** does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual’s application for Job Corps prevents the individual from meeting such requirement.

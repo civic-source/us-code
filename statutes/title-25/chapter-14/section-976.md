@@ -3,9 +3,9 @@ title: "Section 976 - Indian claims unaffected"
 usc_title: 25
 usc_section: "976"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 976"
-generated_at: "2026-03-30T04:25:56.718Z"
+generated_at: "2026-03-30T04:28:26.937Z"
 status: "active"
 ---
 

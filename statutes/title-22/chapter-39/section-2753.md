@@ -3,9 +3,9 @@ title: "Section 2753 - Eligibility for defense services or defense articles"
 usc_title: 22
 usc_section: "2753"
 chapter: 39
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2753"
-generated_at: "2026-03-30T04:26:00.106Z"
+generated_at: "2026-03-30T04:28:29.078Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** No defense article or defense service shall be sold or leased by the United States Government under this chapter to any country or international organization, and no agreement shall be entered into for a cooperative project (as defined in section 2767 of this title ), unless—
   - **(1)** the President finds that the furnishing of defense articles and defense services to such country or international organization will strengthen the security of the United States and promote world peace;
-  - **(2)** the country or international organization shall have agreed not to transfer title to, or possession of, any defense article or related training or other defense service so furnished to it, or produced in a cooperative project (as defined in section 2767 of this title ), to anyone not an officer, employee, or agent of that country or international organization (or the North Atlantic Treaty Organization or the specified member countries (other than the United States) in the case of a cooperative project) and not to use or permit the use of such article or related training or other defense service for purposes other than those for which furnished unless the consent of the President has first been obtained:
+  - **(2)** the country or international organization shall have agreed not to transfer title to, or possession of, any defense article or related training or other defense service so furnished to it, or produced in a cooperative project (as defined in section 2767 of this title ), to anyone not an officer, employee, or agent of that country or international organization (or the North Atlantic Treaty Organization or the specified member countries (other than the United States) in the case of a cooperative project) and not to use or permit the use of such article or related training or other defense service for purposes other than those for which furnished unless the consent of the President has first been obtained;
   - **(3)** the country or international organization shall have agreed that it will maintain the security of such article or service and will provide substantially the same degree of security protection afforded to such article or service by the United States Government; and
   - **(4)** the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
 - **(b)** The consent of the President under paragraph (2) of subsection (a) or under paragraph (1) of section 2314(a) of this title (as it relates to subparagraph (B) of such paragraph) shall not be required for the transfer by a foreign country or international organization of defense articles sold by the United States under this chapter if a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if—

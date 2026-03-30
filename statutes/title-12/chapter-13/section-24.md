@@ -3,9 +3,9 @@ title: "Section 24 - Pilot program for automated process for borrowers without s
 usc_title: 12
 usc_section: "24"
 chapter: 13
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "12 U.S.C. § 24"
-generated_at: "2026-03-30T04:25:35.750Z"
+generated_at: "2026-03-30T04:28:13.308Z"
 status: "active"
 ---
 

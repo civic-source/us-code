@@ -3,9 +3,9 @@ title: "Section 403 - Highway safety research and development"
 usc_title: 23
 usc_section: "403"
 chapter: 4
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "23 U.S.C. § 403"
-generated_at: "2026-03-30T04:26:00.518Z"
+generated_at: "2026-03-30T04:28:25.783Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
 - **(d)** In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
 - **(e)** Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or chapter 301 may only be made available to the public in a manner that does not identify individuals.
 - **(f)**
-  - **(1)** Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection 1 1 So in original. Probably should be “section”. 402(c) in each fiscal year ending before October 1, 2014 , and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+  - **(1)** Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection 1 1 So in original. Probably should be “section”. 402(c) in each fiscal year ending before October 1, 2014 , and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014 , and ending on July 31, 2015 , shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
   - **(2)** The program established under paragraph (1)—
     - **(A)** shall be administered by the Administrator of the National Highway Traffic Safety Administration; and
     - **(B)** shall be jointly managed by the Governors Highway Safety Association and the National Highway Traffic Safety Administration.

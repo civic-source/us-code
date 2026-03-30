@@ -3,9 +3,9 @@ title: "Section 2942 - Workforce flexibility plans"
 usc_title: 29
 usc_section: "2942"
 chapter: 30
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 2942"
-generated_at: "2026-03-30T04:26:04.153Z"
+generated_at: "2026-03-30T04:28:33.781Z"
 status: "active"
 ---
 

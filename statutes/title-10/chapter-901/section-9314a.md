@@ -3,9 +3,9 @@ title: "Section 9314a - United States Air Force Institute of Technology: admissi
 usc_title: 10
 usc_section: "9314a"
 chapter: 901
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 9314a"
-generated_at: "2026-03-30T04:25:30.325Z"
+generated_at: "2026-03-30T04:27:24.806Z"
 status: "active"
 ---
 

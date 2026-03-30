@@ -3,9 +3,9 @@ title: "Section 588to590 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 ,
 usc_title: 16
 usc_section: "588to590"
 chapter: 3
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 588to590"
-generated_at: "2026-03-30T04:25:48.396Z"
+generated_at: "2026-03-30T04:28:23.154Z"
 status: "repealed"
 ---
 

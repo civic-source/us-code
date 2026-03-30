@@ -3,9 +3,9 @@ title: "Section 700 - Desecration of the flag of the United States; penalties"
 usc_title: 18
 usc_section: "700"
 chapter: 33
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "18 U.S.C. § 700"
-generated_at: "2026-03-30T04:25:53.368Z"
+generated_at: "2026-03-30T04:28:16.554Z"
 status: "active"
 ---
 

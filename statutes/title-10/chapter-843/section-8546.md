@@ -3,9 +3,9 @@ title: "Section 8546 - Repealed. Pub. L. 85–861, § 36B(26) , Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "8546"
 chapter: 843
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 8546"
-generated_at: "2026-03-30T04:25:30.324Z"
+generated_at: "2026-03-30T04:27:24.804Z"
 status: "repealed"
 ---
 

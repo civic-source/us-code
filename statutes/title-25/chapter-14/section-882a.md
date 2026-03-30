@@ -3,9 +3,9 @@ title: "Section 882a - Tax exemption"
 usc_title: 25
 usc_section: "882a"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 882a"
-generated_at: "2026-03-30T04:25:56.715Z"
+generated_at: "2026-03-30T04:28:26.934Z"
 status: "active"
 ---
 

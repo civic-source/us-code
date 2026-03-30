@@ -3,9 +3,9 @@ title: "Section 714to716 - Omitted"
 usc_title: 42
 usc_section: "714to716"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 714to716"
-generated_at: "2026-03-30T04:26:51.588Z"
+generated_at: "2026-03-30T04:29:16.587Z"
 status: "omitted"
 ---
 

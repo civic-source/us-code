@@ -3,9 +3,9 @@ title: "Section 303 - Record of meetings and votes"
 usc_title: 46
 usc_section: "303"
 chapter: 3
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "46 U.S.C. § 303"
-generated_at: "2026-03-30T04:26:56.603Z"
+generated_at: "2026-03-30T04:29:20.446Z"
 status: "active"
 ---
 

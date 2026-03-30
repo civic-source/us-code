@@ -3,9 +3,9 @@ title: "Section 15605 - Grants to protect inmates and safeguard communities"
 usc_title: 42
 usc_section: "15605"
 chapter: 147
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 15605"
-generated_at: "2026-03-30T04:26:52.059Z"
+generated_at: "2026-03-30T04:29:17.078Z"
 status: "active"
 ---
 

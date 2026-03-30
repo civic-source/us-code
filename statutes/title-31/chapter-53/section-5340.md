@@ -3,9 +3,9 @@ title: "Section 5340 - Definitions"
 usc_title: 31
 usc_section: "5340"
 chapter: 53
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "31 U.S.C. § 5340"
-generated_at: "2026-03-30T04:26:21.831Z"
+generated_at: "2026-03-30T04:28:55.973Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 For purposes of this subchapter, the following definitions shall apply:
 
-  - **(1)** The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9703(p)(1).
+  - **(1)** The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9705( o ).
   - **(2)** The term “money laundering and related financial crime”—
     - **(A)** means the movement of illicit cash or cash equivalent proceeds into, out of, or through the United States, or into, out of, or through United States financial institutions, as defined in section 5312 of title 31 , United States Code; or
     - **(B)** has the meaning given that term (or the term used for an equivalent offense) under State and local criminal statutes pertaining to the movement of illicit cash or cash equivalent proceeds.

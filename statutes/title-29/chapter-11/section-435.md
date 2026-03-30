@@ -3,9 +3,9 @@ title: "Section 435 - Reports and documents as public information"
 usc_title: 29
 usc_section: "435"
 chapter: 11
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 435"
-generated_at: "2026-03-30T04:26:04.094Z"
+generated_at: "2026-03-30T04:28:33.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1522 - Protection of creditors and other interested persons"
 usc_title: 11
 usc_section: "1522"
 chapter: 15
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "11 U.S.C. § 1522"
-generated_at: "2026-03-30T04:25:36.186Z"
+generated_at: "2026-03-30T04:27:50.350Z"
 status: "active"
 ---
 

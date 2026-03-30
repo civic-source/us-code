@@ -3,9 +3,9 @@ title: "Section 505 - State planning and research"
 usc_title: 23
 usc_section: "505"
 chapter: 5
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "23 U.S.C. § 505"
-generated_at: "2026-03-30T04:26:00.521Z"
+generated_at: "2026-03-30T04:28:25.785Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6413 - Establishment of religious freedom Internet site"
 usc_title: 22
 usc_section: "6413"
 chapter: 73
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 6413"
-generated_at: "2026-03-30T04:26:00.146Z"
+generated_at: "2026-03-30T04:28:29.117Z"
 status: "active"
 ---
 

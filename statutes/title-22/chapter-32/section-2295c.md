@@ -3,9 +3,9 @@ title: "Section 2295c - Authorization of appropriations"
 usc_title: 22
 usc_section: "2295c"
 chapter: 32
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2295c"
-generated_at: "2026-03-30T04:26:00.085Z"
+generated_at: "2026-03-30T04:28:29.059Z"
 status: "active"
 ---
 

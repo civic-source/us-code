@@ -3,9 +3,9 @@ title: "Section 6504 - Use of existing State or multimember agency to administer
 usc_title: 31
 usc_section: "6504"
 chapter: 65
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "31 U.S.C. § 6504"
-generated_at: "2026-03-30T04:26:21.832Z"
+generated_at: "2026-03-30T04:28:55.975Z"
 status: "active"
 ---
 

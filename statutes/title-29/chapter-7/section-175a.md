@@ -3,9 +3,9 @@ title: "Section 175a - Assistance to plant, area, and industrywide labor managem
 usc_title: 29
 usc_section: "175a"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 175a"
-generated_at: "2026-03-30T04:26:04.090Z"
+generated_at: "2026-03-30T04:28:33.720Z"
 status: "active"
 ---
 

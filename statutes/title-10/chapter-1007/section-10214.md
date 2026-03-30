@@ -3,9 +3,9 @@ title: "Section 10214 - Adjutants general and assistant adjutants general: refer
 usc_title: 10
 usc_section: "10214"
 chapter: 1007
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 10214"
-generated_at: "2026-03-30T04:25:30.330Z"
+generated_at: "2026-03-30T04:27:24.811Z"
 status: "active"
 ---
 

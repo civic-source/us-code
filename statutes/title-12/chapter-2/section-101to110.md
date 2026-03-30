@@ -3,9 +3,9 @@ title: "Section 101to110 - Repealed. Pub. L. 103–325, title VI, § 602(e)(5) �
 usc_title: 12
 usc_section: "101to110"
 chapter: 2
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "12 U.S.C. § 101to110"
-generated_at: "2026-03-30T04:25:35.700Z"
+generated_at: "2026-03-30T04:28:13.256Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1363 - Prohibition against control over educational institutions
 usc_title: 15
 usc_section: "1363"
 chapter: 37
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 1363"
-generated_at: "2026-03-30T04:25:38.700Z"
+generated_at: "2026-03-30T04:27:46.485Z"
 status: "active"
 ---
 

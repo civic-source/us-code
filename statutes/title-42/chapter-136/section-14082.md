@@ -3,9 +3,9 @@ title: "Section 14082 - Rural drug enforcement training"
 usc_title: 42
 usc_section: "14082"
 chapter: 136
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 14082"
-generated_at: "2026-03-30T04:26:52.046Z"
+generated_at: "2026-03-30T04:29:17.065Z"
 status: "active"
 ---
 

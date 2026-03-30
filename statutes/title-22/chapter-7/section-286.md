@@ -3,9 +3,9 @@ title: "Section 286 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "286"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 286"
-generated_at: "2026-03-30T04:26:00.051Z"
+generated_at: "2026-03-30T04:28:29.027Z"
 status: "active"
 ---
 

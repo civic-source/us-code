@@ -3,9 +3,9 @@ title: "Section 943 - Black lung insurance program"
 usc_title: 30
 usc_section: "943"
 chapter: 22
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "30 U.S.C. § 943"
-generated_at: "2026-03-30T04:26:02.823Z"
+generated_at: "2026-03-30T04:28:34.072Z"
 status: "active"
 ---
 

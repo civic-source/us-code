@@ -3,9 +3,9 @@ title: "Section 170a - Maximum amount available from Federal sources"
 usc_title: 24
 usc_section: "170a"
 chapter: 4
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "24 U.S.C. § 170a"
-generated_at: "2026-03-30T04:25:55.336Z"
+generated_at: "2026-03-30T04:28:25.180Z"
 status: "active"
 ---
 

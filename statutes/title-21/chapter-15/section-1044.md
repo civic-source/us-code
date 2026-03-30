@@ -3,9 +3,9 @@ title: "Section 1044 - Exemption of certain activities"
 usc_title: 21
 usc_section: "1044"
 chapter: 15
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "21 U.S.C. § 1044"
-generated_at: "2026-03-30T04:25:57.709Z"
+generated_at: "2026-03-30T04:28:30.031Z"
 status: "active"
 ---
 

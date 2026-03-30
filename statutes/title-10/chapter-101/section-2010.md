@@ -3,9 +3,9 @@ title: "Section 2010 - Participation of developing countries in combined exercis
 usc_title: 10
 usc_section: "2010"
 chapter: 101
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 2010"
-generated_at: "2026-03-30T04:25:30.261Z"
+generated_at: "2026-03-30T04:27:24.739Z"
 status: "active"
 ---
 

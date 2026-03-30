@@ -3,9 +3,9 @@ title: "Section 6400to6402 - Repealed. Pub. L. 96–513, title III, § 335 , Dec
 usc_title: 10
 usc_section: "6400to6402"
 chapter: 573
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 6400to6402"
-generated_at: "2026-03-30T04:25:30.315Z"
+generated_at: "2026-03-30T04:27:24.795Z"
 status: "repealed"
 ---
 

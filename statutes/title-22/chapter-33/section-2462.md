@@ -3,9 +3,9 @@ title: "Section 2462 - Establishment of grant program for foreign study by Ameri
 usc_title: 22
 usc_section: "2462"
 chapter: 33
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2462"
-generated_at: "2026-03-30T04:26:00.097Z"
+generated_at: "2026-03-30T04:28:29.070Z"
 status: "active"
 ---
 

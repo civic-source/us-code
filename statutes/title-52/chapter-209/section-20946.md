@@ -3,9 +3,9 @@ title: "Section 20946 - Status of Boards and members for purposes of claims agai
 usc_title: 52
 usc_section: "20946"
 chapter: 209
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "52 U.S.C. § 20946"
-generated_at: "2026-03-30T04:27:00.145Z"
+generated_at: "2026-03-30T04:29:36.467Z"
 status: "active"
 ---
 

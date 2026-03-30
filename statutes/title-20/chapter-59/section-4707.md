@@ -3,9 +3,9 @@ title: "Section 4707 - Barry Goldwater Scholarship and Excellence in Education F
 usc_title: 20
 usc_section: "4707"
 chapter: 59
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 4707"
-generated_at: "2026-03-30T04:25:45.216Z"
+generated_at: "2026-03-30T04:28:19.447Z"
 status: "active"
 ---
 

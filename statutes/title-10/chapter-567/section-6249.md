@@ -3,9 +3,9 @@ title: "Section 6249 - Limitation of honorable service"
 usc_title: 10
 usc_section: "6249"
 chapter: 567
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 6249"
-generated_at: "2026-03-30T04:25:30.314Z"
+generated_at: "2026-03-30T04:27:24.794Z"
 status: "active"
 ---
 

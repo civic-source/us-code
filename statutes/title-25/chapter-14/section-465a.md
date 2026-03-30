@@ -3,9 +3,9 @@ title: "Section 465a - Receipt and purchase in trust by United States of land fo
 usc_title: 25
 usc_section: "465a"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 465a"
-generated_at: "2026-03-30T04:25:56.699Z"
+generated_at: "2026-03-30T04:28:26.919Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300108 - Buildings"
 usc_title: 36
 usc_section: "300108"
 chapter: 3001
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "36 U.S.C. § 300108"
-generated_at: "2026-03-30T04:26:24.517Z"
+generated_at: "2026-03-30T04:28:59.161Z"
 status: "active"
 ---
 

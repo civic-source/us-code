@@ -3,9 +3,9 @@ title: "Section 527 - Cooperation with other agencies and departments"
 usc_title: 29
 usc_section: "527"
 chapter: 11
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 527"
-generated_at: "2026-03-30T04:26:04.094Z"
+generated_at: "2026-03-30T04:28:33.726Z"
 status: "active"
 ---
 

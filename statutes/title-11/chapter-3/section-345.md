@@ -3,9 +3,9 @@ title: "Section 345 - Money of estates"
 usc_title: 11
 usc_section: "345"
 chapter: 3
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "11 U.S.C. § 345"
-generated_at: "2026-03-30T04:25:36.171Z"
+generated_at: "2026-03-30T04:27:50.337Z"
 status: "active"
 ---
 

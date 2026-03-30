@@ -3,9 +3,9 @@ title: "Section 60131 - Continued Federal research and development"
 usc_title: 51
 usc_section: "60131"
 chapter: 601
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "51 U.S.C. § 60131"
-generated_at: "2026-03-30T04:27:00.007Z"
+generated_at: "2026-03-30T04:29:30.583Z"
 status: "active"
 ---
 

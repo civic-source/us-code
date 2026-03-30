@@ -3,9 +3,9 @@ title: "Section 11324 - Consolidation, merger, and acquisition of control: condi
 usc_title: 49
 usc_section: "11324"
 chapter: 113
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "49 U.S.C. § 11324"
-generated_at: "2026-03-30T04:26:58.279Z"
+generated_at: "2026-03-30T04:29:23.941Z"
 status: "active"
 ---
 

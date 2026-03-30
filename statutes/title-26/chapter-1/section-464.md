@@ -3,9 +3,9 @@ title: "Section 464 - Limitations on deductions for certain farming"
 usc_title: 26
 usc_section: "464"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "26 U.S.C. § 464"
-generated_at: "2026-03-30T04:26:11.423Z"
+generated_at: "2026-03-30T04:28:52.784Z"
 status: "active"
 ---
 

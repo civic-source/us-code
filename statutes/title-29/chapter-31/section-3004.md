@@ -3,9 +3,9 @@ title: "Section 3004 - State grants for protection and advocacy services related
 usc_title: 29
 usc_section: "3004"
 chapter: 31
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 3004"
-generated_at: "2026-03-30T04:26:04.154Z"
+generated_at: "2026-03-30T04:28:33.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5207 - Status as executive agency"
 usc_title: 20
 usc_section: "5207"
 chapter: 63
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 5207"
-generated_at: "2026-03-30T04:25:45.216Z"
+generated_at: "2026-03-30T04:28:19.447Z"
 status: "active"
 ---
 

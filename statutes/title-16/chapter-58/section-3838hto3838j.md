@@ -3,9 +3,9 @@ title: "Section 3838hto3838j - Repealed. Pub. L. 113–79, title II, § 2704(a) 
 usc_title: 16
 usc_section: "3838hto3838j"
 chapter: 58
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 3838hto3838j"
-generated_at: "2026-03-30T04:25:48.491Z"
+generated_at: "2026-03-30T04:28:23.250Z"
 status: "repealed"
 ---
 

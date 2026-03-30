@@ -3,9 +3,9 @@ title: "Section 5351 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5351"
 chapter: 64
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 5351"
-generated_at: "2026-03-30T04:25:45.217Z"
+generated_at: "2026-03-30T04:28:19.447Z"
 status: "repealed"
 ---
 

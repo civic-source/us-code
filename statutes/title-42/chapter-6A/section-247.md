@@ -3,9 +3,9 @@ title: "Section 247 - Omitted"
 usc_title: 42
 usc_section: "247"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 247"
-generated_at: "2026-03-30T04:26:51.434Z"
+generated_at: "2026-03-30T04:29:16.435Z"
 status: "omitted"
 ---
 

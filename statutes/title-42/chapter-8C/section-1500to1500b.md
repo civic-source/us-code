@@ -3,9 +3,9 @@ title: "Section 1500to1500b - Omitted"
 usc_title: 42
 usc_section: "1500to1500b"
 chapter: 8
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 1500to1500b"
-generated_at: "2026-03-30T04:26:51.737Z"
+generated_at: "2026-03-30T04:29:16.736Z"
 status: "omitted"
 ---
 

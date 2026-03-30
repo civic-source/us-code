@@ -3,9 +3,9 @@ title: "Section 1070fto1070f6 - Repealed. Pub. L. 110–315, title IV, § 411 , 
 usc_title: 20
 usc_section: "1070fto1070f6"
 chapter: 28
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 1070fto1070f6"
-generated_at: "2026-03-30T04:25:45.148Z"
+generated_at: "2026-03-30T04:28:19.379Z"
 status: "repealed"
 ---
 

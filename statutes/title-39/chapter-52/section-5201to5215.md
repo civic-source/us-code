@@ -3,9 +3,9 @@ title: "Section 5201to5215 - Repealed. Pub. L. 109–435, title X, § 1002(a)(1)
 usc_title: 39
 usc_section: "5201to5215"
 chapter: 52
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "39 U.S.C. § 5201to5215"
-generated_at: "2026-03-30T04:26:26.416Z"
+generated_at: "2026-03-30T04:28:59.666Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5591to5594 - Repealed. Pub. L. 90–83, § 1(34)(B) , Sept. 11, 
 usc_title: 5
 usc_section: "5591to5594"
 chapter: 55
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "5 U.S.C. § 5591to5594"
-generated_at: "2026-03-30T04:25:20.719Z"
+generated_at: "2026-03-30T04:27:17.012Z"
 status: "repealed"
 ---
 

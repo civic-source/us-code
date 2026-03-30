@@ -3,9 +3,9 @@ title: "Section 552c - Reimbursement of United States for loss of revenue"
 usc_title: 16
 usc_section: "552c"
 chapter: 3
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 552c"
-generated_at: "2026-03-30T04:25:48.391Z"
+generated_at: "2026-03-30T04:28:23.151Z"
 status: "active"
 ---
 

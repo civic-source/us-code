@@ -3,9 +3,9 @@ title: "Section 1507b - Assistant Secretary of Commerce; appointment; compensati
 usc_title: 15
 usc_section: "1507b"
 chapter: 40
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 1507b"
-generated_at: "2026-03-30T04:25:38.701Z"
+generated_at: "2026-03-30T04:27:46.487Z"
 status: "active"
 ---
 

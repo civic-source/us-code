@@ -3,9 +3,9 @@ title: "Section 1086b - Prohibition against requiring retired members to receive
 usc_title: 10
 usc_section: "1086b"
 chapter: 55
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 1086b"
-generated_at: "2026-03-30T04:25:30.240Z"
+generated_at: "2026-03-30T04:27:24.718Z"
 status: "active"
 ---
 

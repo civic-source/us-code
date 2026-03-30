@@ -3,9 +3,9 @@ title: "Section 6241 - Medal of honor"
 usc_title: 10
 usc_section: "6241"
 chapter: 567
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 6241"
-generated_at: "2026-03-30T04:25:30.313Z"
+generated_at: "2026-03-30T04:27:24.793Z"
 status: "active"
 ---
 

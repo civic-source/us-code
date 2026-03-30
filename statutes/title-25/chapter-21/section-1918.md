@@ -3,9 +3,9 @@ title: "Section 1918 - Reassumption of jurisdiction over child cus­tody proceed
 usc_title: 25
 usc_section: "1918"
 chapter: 21
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 1918"
-generated_at: "2026-03-30T04:25:56.746Z"
+generated_at: "2026-03-30T04:28:26.966Z"
 status: "active"
 ---
 

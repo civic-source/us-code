@@ -3,9 +3,9 @@ title: "Section 4416 - Academy of Health Sciences: admission of civilians in phy
 usc_title: 10
 usc_section: "4416"
 chapter: 407
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 4416"
-generated_at: "2026-03-30T04:25:30.307Z"
+generated_at: "2026-03-30T04:27:24.787Z"
 status: "active"
 ---
 

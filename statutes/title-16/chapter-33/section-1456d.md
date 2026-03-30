@@ -3,9 +3,9 @@ title: "Section 1456d - Coastal and Estuarine Land Conservation Program"
 usc_title: 16
 usc_section: "1456d"
 chapter: 33
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 1456d"
-generated_at: "2026-03-30T04:25:48.455Z"
+generated_at: "2026-03-30T04:28:23.215Z"
 status: "active"
 ---
 

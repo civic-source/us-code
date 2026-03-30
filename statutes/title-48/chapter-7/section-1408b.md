@@ -3,9 +3,9 @@ title: "Section 1408b - Authorization of loans, conveyances, etc., by government
 usc_title: 48
 usc_section: "1408b"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "48 U.S.C. § 1408b"
-generated_at: "2026-03-30T04:26:54.624Z"
+generated_at: "2026-03-30T04:29:19.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2428 - Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , Dec
 usc_title: 22
 usc_section: "2428"
 chapter: 32
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2428"
-generated_at: "2026-03-30T04:26:00.094Z"
+generated_at: "2026-03-30T04:28:29.067Z"
 status: "repealed"
 ---
 

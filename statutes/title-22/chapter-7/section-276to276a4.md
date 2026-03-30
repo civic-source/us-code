@@ -3,9 +3,9 @@ title: "Section 276to276a4 - Repealed. Pub. L. 105–277, div. G , subdiv. B, ti
 usc_title: 22
 usc_section: "276to276a4"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 276to276a4"
-generated_at: "2026-03-30T04:26:00.044Z"
+generated_at: "2026-03-30T04:28:29.021Z"
 status: "repealed"
 ---
 

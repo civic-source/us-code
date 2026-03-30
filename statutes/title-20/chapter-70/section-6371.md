@@ -3,9 +3,9 @@ title: "Section 6371 - Purposes; definitions"
 usc_title: 20
 usc_section: "6371"
 chapter: 70
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 6371"
-generated_at: "2026-03-30T04:25:45.229Z"
+generated_at: "2026-03-30T04:28:19.458Z"
 status: "active"
 ---
 

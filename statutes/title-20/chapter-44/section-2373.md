@@ -3,9 +3,9 @@ title: "Section 2373 - Tech prep program"
 usc_title: 20
 usc_section: "2373"
 chapter: 44
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 2373"
-generated_at: "2026-03-30T04:25:45.206Z"
+generated_at: "2026-03-30T04:28:19.436Z"
 status: "active"
 ---
 

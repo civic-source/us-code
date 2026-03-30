@@ -3,9 +3,9 @@ title: "Section 152 - Nonappropriated fund instrumentalities: contracts with oth
 usc_title: 14
 usc_section: "152"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "14 U.S.C. § 152"
-generated_at: "2026-03-30T04:25:32.569Z"
+generated_at: "2026-03-30T04:27:50.067Z"
 status: "active"
 ---
 

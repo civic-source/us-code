@@ -3,9 +3,9 @@ title: "Section 17383 - Smart Grid Advisory Committee and Smart Grid Task Force"
 usc_title: 42
 usc_section: "17383"
 chapter: 152
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 17383"
-generated_at: "2026-03-30T04:26:52.085Z"
+generated_at: "2026-03-30T04:29:17.109Z"
 status: "active"
 ---
 

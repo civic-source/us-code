@@ -3,9 +3,9 @@ title: "Section 1589a - Extension by President of dates for disposal and other a
 usc_title: 42
 usc_section: "1589a"
 chapter: 9
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 1589a"
-generated_at: "2026-03-30T04:26:51.739Z"
+generated_at: "2026-03-30T04:29:16.738Z"
 status: "active"
 ---
 

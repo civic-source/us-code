@@ -3,9 +3,9 @@ title: "Section 70302 - Purpose, policy, and goals"
 usc_title: 51
 usc_section: "70302"
 chapter: 703
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "51 U.S.C. § 70302"
-generated_at: "2026-03-30T04:27:00.007Z"
+generated_at: "2026-03-30T04:29:30.584Z"
 status: "active"
 ---
 

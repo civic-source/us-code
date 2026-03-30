@@ -3,9 +3,9 @@ title: "Section 5139 - Appointment of chiropractors in the Medical Service Corps
 usc_title: 10
 usc_section: "5139"
 chapter: 513
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 5139"
-generated_at: "2026-03-30T04:25:30.311Z"
+generated_at: "2026-03-30T04:27:24.791Z"
 status: "active"
 ---
 

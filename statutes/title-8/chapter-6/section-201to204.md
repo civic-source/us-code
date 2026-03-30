@@ -3,9 +3,9 @@ title: "Section 201to204 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "201to204"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "8 U.S.C. § 201to204"
-generated_at: "2026-03-30T04:25:24.522Z"
+generated_at: "2026-03-30T04:27:19.371Z"
 status: "repealed"
 ---
 

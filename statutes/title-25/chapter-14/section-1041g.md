@@ -3,9 +3,9 @@ title: "Section 1041g - Individual Indian land"
 usc_title: 25
 usc_section: "1041g"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 1041g"
-generated_at: "2026-03-30T04:25:56.719Z"
+generated_at: "2026-03-30T04:28:26.938Z"
 status: "active"
 ---
 

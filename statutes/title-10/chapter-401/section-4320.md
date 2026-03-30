@@ -3,9 +3,9 @@ title: "Section 4320 - Recruit basic training: privacy"
 usc_title: 10
 usc_section: "4320"
 chapter: 401
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 4320"
-generated_at: "2026-03-30T04:25:30.306Z"
+generated_at: "2026-03-30T04:27:24.785Z"
 status: "active"
 ---
 

@@ -1,13 +1,19 @@
 ---
-title: "Section 9704 - ]"
+title: "Section 9704 - Pilot projects for managerial accountability and flexibility"
 usc_title: 31
 usc_section: "9704"
 chapter: 97
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "31 U.S.C. § 9704"
-generated_at: "2026-03-30T04:26:21.837Z"
+generated_at: "2026-03-30T04:28:55.978Z"
 status: "active"
 ---
 
-# [§ 9704. ]
+# § 9704. Pilot projects for managerial accountability and flexibility
 
+- **(a)** The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
+- **(b)** Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 for one or more of the major functions and operations of the agency.
+- **(c)** The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
+  - **(1)** an assessment of the benefits, costs, and usefulness of increasing managerial and organizational flexibility, discretion, and authority in exchange for improved performance through a waiver; and
+  - **(2)** an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
+- **(d)** For purposes of this section the definitions under section 1115(f) 1 1 See References in Text note below. shall apply.

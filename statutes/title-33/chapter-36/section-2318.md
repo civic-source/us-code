@@ -3,9 +3,9 @@ title: "Section 2318 - Flood plain management"
 usc_title: 33
 usc_section: "2318"
 chapter: 36
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "33 U.S.C. § 2318"
-generated_at: "2026-03-30T04:26:14.758Z"
+generated_at: "2026-03-30T04:28:56.701Z"
 status: "active"
 ---
 

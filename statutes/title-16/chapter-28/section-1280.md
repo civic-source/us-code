@@ -3,9 +3,9 @@ title: "Section 1280 - Federal mining and mineral leasing laws"
 usc_title: 16
 usc_section: "1280"
 chapter: 28
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 1280"
-generated_at: "2026-03-30T04:25:48.445Z"
+generated_at: "2026-03-30T04:28:23.204Z"
 status: "active"
 ---
 

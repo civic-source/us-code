@@ -3,9 +3,9 @@ title: "Section 5507 - Arrangements with Federal agencies for development and de
 usc_title: 42
 usc_section: "5507"
 chapter: 71
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 5507"
-generated_at: "2026-03-30T04:26:51.854Z"
+generated_at: "2026-03-30T04:29:16.860Z"
 status: "active"
 ---
 

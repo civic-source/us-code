@@ -3,9 +3,9 @@ title: "Section 3004 - Delivery of mail to persons not residents of the place of
 usc_title: 39
 usc_section: "3004"
 chapter: 30
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "39 U.S.C. § 3004"
-generated_at: "2026-03-30T04:26:26.412Z"
+generated_at: "2026-03-30T04:28:59.663Z"
 status: "active"
 ---
 

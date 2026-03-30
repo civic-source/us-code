@@ -3,9 +3,9 @@ title: "Section 1621q - Prevention, control, and elimination of communicable and
 usc_title: 25
 usc_section: "1621q"
 chapter: 18
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 1621q"
-generated_at: "2026-03-30T04:25:56.730Z"
+generated_at: "2026-03-30T04:28:26.950Z"
 status: "active"
 ---
 

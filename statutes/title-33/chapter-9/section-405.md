@@ -3,9 +3,9 @@ title: "Section 405 - Establishment and modification of harbor lines on Potomac 
 usc_title: 33
 usc_section: "405"
 chapter: 9
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "33 U.S.C. § 405"
-generated_at: "2026-03-30T04:26:14.708Z"
+generated_at: "2026-03-30T04:28:56.648Z"
 status: "active"
 ---
 

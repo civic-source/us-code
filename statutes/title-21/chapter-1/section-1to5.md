@@ -3,9 +3,9 @@ title: "Section 1to5 - Repealed. June 25, 1938, ch. 675, § 1002(a) , formerly �
 usc_title: 21
 usc_section: "1to5"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "21 U.S.C. § 1to5"
-generated_at: "2026-03-30T04:25:57.647Z"
+generated_at: "2026-03-30T04:28:29.966Z"
 status: "repealed"
 ---
 

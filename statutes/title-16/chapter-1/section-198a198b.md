@@ -3,9 +3,9 @@ title: "Section 198a198b - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 16
 usc_section: "198a198b"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 198a198b"
-generated_at: "2026-03-30T04:25:48.304Z"
+generated_at: "2026-03-30T04:28:23.032Z"
 status: "repealed"
 ---
 

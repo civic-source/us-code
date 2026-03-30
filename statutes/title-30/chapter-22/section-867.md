@@ -3,9 +3,9 @@ title: "Section 867 - Grounding of equipment"
 usc_title: 30
 usc_section: "867"
 chapter: 22
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "30 U.S.C. § 867"
-generated_at: "2026-03-30T04:26:02.821Z"
+generated_at: "2026-03-30T04:28:34.069Z"
 status: "active"
 ---
 

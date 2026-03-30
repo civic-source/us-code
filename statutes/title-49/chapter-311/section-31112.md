@@ -3,9 +3,9 @@ title: "Section 31112 - Property-carrying unit limitation"
 usc_title: 49
 usc_section: "31112"
 chapter: 311
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "49 U.S.C. § 31112"
-generated_at: "2026-03-30T04:26:58.300Z"
+generated_at: "2026-03-30T04:29:23.962Z"
 status: "active"
 ---
 

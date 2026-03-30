@@ -3,9 +3,9 @@ title: "Section 4778 - Licenses: military reservations; erection and use of buil
 usc_title: 10
 usc_section: "4778"
 chapter: 449
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 4778"
-generated_at: "2026-03-30T04:25:30.309Z"
+generated_at: "2026-03-30T04:27:24.789Z"
 status: "active"
 ---
 

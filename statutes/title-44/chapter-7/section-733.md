@@ -3,9 +3,9 @@ title: "Section 733 - Documents and reports ordered by Members of Congress; fran
 usc_title: 44
 usc_section: "733"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "44 U.S.C. § 733"
-generated_at: "2026-03-30T04:26:33.664Z"
+generated_at: "2026-03-30T04:29:04.583Z"
 status: "active"
 ---
 

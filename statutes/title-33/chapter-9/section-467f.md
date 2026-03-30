@@ -3,9 +3,9 @@ title: "Section 467f - National dam safety program"
 usc_title: 33
 usc_section: "467f"
 chapter: 9
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "33 U.S.C. § 467f"
-generated_at: "2026-03-30T04:26:14.710Z"
+generated_at: "2026-03-30T04:28:56.651Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 312 - Terrorism and financial intelligence"
 usc_title: 31
 usc_section: "312"
 chapter: 3
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "31 U.S.C. § 312"
-generated_at: "2026-03-30T04:26:21.809Z"
+generated_at: "2026-03-30T04:28:55.950Z"
 status: "active"
 ---
 
@@ -51,6 +51,6 @@ status: "active"
     - **(C)** represent the Department in various intelligence related activities.
   - **(5)** The Assistant Secretary for Intelligence and Analysis shall serve as the Senior Officer Intelligence Community, and shall represent the Department in intelligence community fora, including the National Foreign Intelligence Board committees and the Intelligence Community Management Staff.
 - **(c)** To the extent that any authorities, powers, and responsibilities over enforcement matters delegated to the Undersecretary for Terrorism and Financial Crimes, or the positions of Assistant Secretary for Terrorism and Financial Crimes, Assistant Secretary for Enforcement and Operations, or Deputy Assistant Secretary for Terrorist Financing and Financial Crimes, have not been transferred to the Department of Homeland Security, the Department of Justice, or the Assistant Secretary for Tax Policy (related to the customs revenue functions of the Bureau of Alcohol and Tobacco Tax and Trade), those remaining authorities, powers, and responsibilities are delegated to the Undersecretary for Terrorism and Financial Crimes.
-- **(d)** The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9703 of title 31 , United States Code, and other relevant authorities.
+- **(d)** The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31 , United States Code, and other relevant authorities.
 - **(e)** The Secretary may employ personnel, facilities, and other Department of the Treasury resources available to the Secretary on the date of enactment of this section in carrying out this section, except as otherwise prohibited by law.
 - **(f)** References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.

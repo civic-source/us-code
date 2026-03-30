@@ -3,9 +3,9 @@ title: "Section 1501a - Public-private partnerships; other forms of support"
 usc_title: 10
 usc_section: "1501a"
 chapter: 76
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 1501a"
-generated_at: "2026-03-30T04:25:30.254Z"
+generated_at: "2026-03-30T04:27:24.732Z"
 status: "active"
 ---
 

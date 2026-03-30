@@ -3,9 +3,9 @@ title: "Section 217 - Trading in captured or abandoned property"
 usc_title: 50
 usc_section: "217"
 chapter: 13
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "50 U.S.C. § 217"
-generated_at: "2026-03-30T04:26:55.925Z"
+generated_at: "2026-03-30T04:29:28.803Z"
 status: "active"
 ---
 

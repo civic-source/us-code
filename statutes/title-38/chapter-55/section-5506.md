@@ -3,9 +3,9 @@ title: "Section 5506 - Definition of “fiduciary”"
 usc_title: 38
 usc_section: "5506"
 chapter: 55
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "38 U.S.C. § 5506"
-generated_at: "2026-03-30T04:26:25.861Z"
+generated_at: "2026-03-30T04:29:01.153Z"
 status: "active"
 ---
 

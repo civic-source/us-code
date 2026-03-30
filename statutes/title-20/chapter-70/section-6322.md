@@ -3,9 +3,9 @@ title: "Section 6322 - Coordination requirements"
 usc_title: 20
 usc_section: "6322"
 chapter: 70
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 6322"
-generated_at: "2026-03-30T04:25:45.226Z"
+generated_at: "2026-03-30T04:28:19.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1751 - Screening, counseling, and medical treatment"
 usc_title: 38
 usc_section: "1751"
 chapter: 17
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "38 U.S.C. § 1751"
-generated_at: "2026-03-30T04:26:25.837Z"
+generated_at: "2026-03-30T04:29:01.124Z"
 status: "active"
 ---
 

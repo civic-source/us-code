@@ -3,9 +3,9 @@ title: "Section 749 - Taxes; initial exemption; taxes following distribution; va
 usc_title: 25
 usc_section: "749"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 749"
-generated_at: "2026-03-30T04:25:56.714Z"
+generated_at: "2026-03-30T04:28:26.933Z"
 status: "active"
 ---
 

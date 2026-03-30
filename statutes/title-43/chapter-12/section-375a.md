@@ -3,9 +3,9 @@ title: "Section 375a - Sale under sections 374 and 375 of lands appraised at not
 usc_title: 43
 usc_section: "375a"
 chapter: 12
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "43 U.S.C. § 375a"
-generated_at: "2026-03-30T04:26:28.880Z"
+generated_at: "2026-03-30T04:29:02.637Z"
 status: "active"
 ---
 

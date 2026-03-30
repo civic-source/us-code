@@ -3,9 +3,9 @@ title: "Section 8911 - Twenty years or more: regular or reserve commissioned off
 usc_title: 10
 usc_section: "8911"
 chapter: 867
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 8911"
-generated_at: "2026-03-30T04:25:30.324Z"
+generated_at: "2026-03-30T04:27:24.805Z"
 status: "active"
 ---
 

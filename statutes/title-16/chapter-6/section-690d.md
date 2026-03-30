@@ -3,9 +3,9 @@ title: "Section 690d - Injuries to property on Bear River Refuge; disturbance of
 usc_title: 16
 usc_section: "690d"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 690d"
-generated_at: "2026-03-30T04:25:48.404Z"
+generated_at: "2026-03-30T04:28:23.163Z"
 status: "active"
 ---
 

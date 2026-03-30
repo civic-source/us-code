@@ -3,9 +3,9 @@ title: "Section 7153 - Treatment of funds and revenues"
 usc_title: 16
 usc_section: "7153"
 chapter: 90
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 7153"
-generated_at: "2026-03-30T04:25:48.515Z"
+generated_at: "2026-03-30T04:28:23.275Z"
 status: "active"
 ---
 

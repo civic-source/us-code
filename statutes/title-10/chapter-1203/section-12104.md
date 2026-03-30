@@ -3,9 +3,9 @@ title: "Section 12104 - Reserve components: transfers"
 usc_title: 10
 usc_section: "12104"
 chapter: 1203
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 12104"
-generated_at: "2026-03-30T04:25:30.333Z"
+generated_at: "2026-03-30T04:27:24.814Z"
 status: "active"
 ---
 

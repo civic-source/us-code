@@ -3,9 +3,9 @@ title: "Section 742e - Transfer of functions to Secretary"
 usc_title: 16
 usc_section: "742e"
 chapter: 9
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 742e"
-generated_at: "2026-03-30T04:25:48.410Z"
+generated_at: "2026-03-30T04:28:23.169Z"
 status: "active"
 ---
 

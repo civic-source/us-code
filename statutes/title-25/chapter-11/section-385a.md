@@ -3,9 +3,9 @@ title: "Section 385a - Irrigation projects; deposit of assessments as trust fund
 usc_title: 25
 usc_section: "385a"
 chapter: 11
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 385a"
-generated_at: "2026-03-30T04:25:56.691Z"
+generated_at: "2026-03-30T04:28:26.910Z"
 status: "active"
 ---
 

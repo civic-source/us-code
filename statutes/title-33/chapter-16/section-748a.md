@@ -3,9 +3,9 @@ title: "Section 748a - Transportation expenses for school children"
 usc_title: 33
 usc_section: "748a"
 chapter: 16
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "33 U.S.C. § 748a"
-generated_at: "2026-03-30T04:26:14.722Z"
+generated_at: "2026-03-30T04:28:56.663Z"
 status: "active"
 ---
 

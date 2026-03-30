@@ -3,9 +3,9 @@ title: "Section 0c - Staff of Violence Against Women Office"
 usc_title: 42
 usc_section: "0c"
 chapter: 46
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 0c"
-generated_at: "2026-03-30T04:26:51.817Z"
+generated_at: "2026-03-30T04:29:16.822Z"
 status: "active"
 ---
 

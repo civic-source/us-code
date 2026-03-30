@@ -3,9 +3,9 @@ title: "Section 12655c - Focus of programs"
 usc_title: 42
 usc_section: "12655c"
 chapter: 129
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 12655c"
-generated_at: "2026-03-30T04:26:52.017Z"
+generated_at: "2026-03-30T04:29:17.033Z"
 status: "active"
 ---
 

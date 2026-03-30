@@ -3,9 +3,9 @@ title: "Section 7043 - Provost and Academic Dean"
 usc_title: 10
 usc_section: "7043"
 chapter: 605
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 7043"
-generated_at: "2026-03-30T04:25:30.316Z"
+generated_at: "2026-03-30T04:27:24.797Z"
 status: "active"
 ---
 

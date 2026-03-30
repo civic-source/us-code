@@ -3,9 +3,9 @@ title: "Section 21to24 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(8) –(11), (1
 usc_title: 19
 usc_section: "21to24"
 chapter: 1
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "19 U.S.C. § 21to24"
-generated_at: "2026-03-30T04:25:42.854Z"
+generated_at: "2026-03-30T04:28:17.463Z"
 status: "repealed"
 ---
 

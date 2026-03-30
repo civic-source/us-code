@@ -3,9 +3,9 @@ title: "Section 387s - User fees"
 usc_title: 21
 usc_section: "387s"
 chapter: 9
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "21 U.S.C. § 387s"
-generated_at: "2026-03-30T04:25:57.694Z"
+generated_at: "2026-03-30T04:28:30.015Z"
 status: "active"
 ---
 

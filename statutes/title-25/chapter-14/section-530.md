@@ -3,9 +3,9 @@ title: "Section 530 - Capital reserve fund; interest for administrative expenses
 usc_title: 25
 usc_section: "530"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 530"
-generated_at: "2026-03-30T04:25:56.701Z"
+generated_at: "2026-03-30T04:28:26.921Z"
 status: "active"
 ---
 

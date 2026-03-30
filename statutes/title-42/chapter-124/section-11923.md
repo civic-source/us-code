@@ -3,9 +3,9 @@ title: "Section 11923 - Regional training program on drug abuse in public housin
 usc_title: 42
 usc_section: "11923"
 chapter: 124
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 11923"
-generated_at: "2026-03-30T04:26:52.000Z"
+generated_at: "2026-03-30T04:29:17.015Z"
 status: "active"
 ---
 

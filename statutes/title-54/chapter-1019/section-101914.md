@@ -3,9 +3,9 @@ title: "Section 101914 - Term of concession contracts"
 usc_title: 54
 usc_section: "101914"
 chapter: 1019
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "54 U.S.C. § 101914"
-generated_at: "2026-03-30T04:27:00.390Z"
+generated_at: "2026-03-30T04:29:30.988Z"
 status: "active"
 ---
 

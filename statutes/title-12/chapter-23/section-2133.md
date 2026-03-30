@@ -3,9 +3,9 @@ title: "Section 2133 - Distribution of assets on liquidation or dissolution"
 usc_title: 12
 usc_section: "2133"
 chapter: 23
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "12 U.S.C. § 2133"
-generated_at: "2026-03-30T04:25:35.794Z"
+generated_at: "2026-03-30T04:28:13.352Z"
 status: "active"
 ---
 

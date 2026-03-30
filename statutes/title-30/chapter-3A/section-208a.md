@@ -3,9 +3,9 @@ title: "Section 208a - Repealed. Pub. L. 97–468, title VI, § 615(a)(3) , Jan.
 usc_title: 30
 usc_section: "208a"
 chapter: 3
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "30 U.S.C. § 208a"
-generated_at: "2026-03-30T04:26:02.811Z"
+generated_at: "2026-03-30T04:28:34.061Z"
 status: "repealed"
 ---
 

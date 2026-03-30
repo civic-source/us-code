@@ -1,0 +1,85 @@
+---
+title: "Section 473 - Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit"
+usc_title: 6
+usc_section: "473"
+chapter: 1
+current_through: "PL 114-22"
+classification: "6 U.S.C. § 473"
+generated_at: "2026-03-30T04:27:39.414Z"
+status: "active"
+---
+
+# § 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit
+
+- **(a)**
+  - **(1)** The Secretary shall operate, within United States Immigration and Customs Enforcement, a Cyber Crimes Center (referred to in this section as the “Center”).
+  - **(2)** The purpose of the Center shall be to provide investigative assistance, training, and equipment to support United States Immigration and Customs Enforcement’s domestic and international investigations of cyber-related crimes.
+- **(b)**
+  - **(1)** The Secretary shall operate, within the Center, a Child Exploitation Investigations Unit (referred to in this subsection as the “CEIU”).
+  - **(2)** The CEIU—
+    - **(A)** shall coordinate all United States Immigration and Customs Enforcement child exploitation initiatives, including investigations into—
+      - **(i)** child exploitation;
+      - **(ii)** child pornography;
+      - **(iii)** child victim identification;
+      - **(iv)** traveling child sex offenders; and
+      - **(v)** forced child labor, including the sexual exploitation of minors;
+    - **(B)** shall, among other things, focus on—
+      - **(i)** child exploitation prevention;
+      - **(ii)** investigative capacity building;
+      - **(iii)** enforcement operations; and
+      - **(iv)** training for Federal, State, local, tribal, and foreign law enforcement agency personnel, upon request;
+    - **(C)** shall provide training, technical expertise, support, or coordination of child exploitation investigations, as needed, to cooperating law enforcement agencies and personnel;
+    - **(D)** shall provide psychological support and counseling services for United States Immigration and Customs Enforcement personnel engaged in child exploitation prevention initiatives, including making available other existing services to assist employees who are exposed to child exploitation material during investigations;
+    - **(E)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of the recruiting, training, equipping and hiring of wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program; and
+    - **(F)** shall collaborate with other governmental, nongovernmental, and nonprofit entities approved by the Secretary for the sponsorship of, and participation in, outreach and training activities.
+  - **(3)** The CEIU shall collect and maintain data concerning—
+    - **(A)** the total number of suspects identified by United States Immigration and Customs Enforcement;
+    - **(B)** the number of arrests by United States Immigration and Customs Enforcement, disaggregated by type, including—
+      - **(i)** the number of victims identified through investigations carried out by United States Immigration and Customs Enforcement; and
+      - **(ii)** the number of suspects arrested who were in positions of trust or authority over children;
+    - **(C)** the number of cases opened for investigation by United States Immigration and Customs Enforcement; and
+    - **(D)** the number of cases resulting in a Federal, State, foreign, or military prosecution.
+  - **(4)** In addition to submitting the reports required under paragraph (7), the CEIU shall make the data collected and maintained under paragraph (3) available to the committees of Congress described in paragraph (7).
+  - **(5)** The CEIU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraphs (2) and (3).
+  - **(6)**
+    - **(A)** The Secretary is authorized to accept monies and in-kind donations from the Virtual Global Taskforce, national laboratories, Federal agencies, not-for-profit organizations, and educational institutions to create and expand public awareness campaigns in support of the functions of the CEIU.
+    - **(B)** Gifts authorized under subparagraph (A) shall not be subject to the Federal Acquisition Regulation for competition when the services provided by the entities referred to in such subparagraph are donated or of minimal cost to the Department.
+  - **(7)** Not later than 1 year after May 29, 2015 , and annually for the following 4 years, the CEIU shall—
+    - **(A)** submit a report containing a summary of the data collected pursuant to paragraph (3) during the previous year to—
+      - **(i)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+      - **(ii)** the Committee on the Judiciary of the Senate;
+      - **(iii)** the Committee on Appropriations of the Senate;
+      - **(iv)** the Committee on Homeland Security of the House of Representatives;
+      - **(v)** the Committee on the Judiciary of the House of Representatives; and
+      - **(vi)** the Committee on Appropriations of the House of Representatives; and
+    - **(B)** make a copy of each report submitted under subparagraph (A) publicly available on the website of the Department.
+- **(c)**
+  - **(1)** The Secretary shall operate, within the Center, a Computer Forensics Unit (referred to in this subsection as the “CFU”).
+  - **(2)** The CFU—
+    - **(A)** shall provide training and technical support in digital forensics to—
+      - **(i)** United States Immigration and Customs Enforcement personnel; and
+      - **(ii)** Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
+    - **(B)** shall provide computer hardware, software, and forensic licenses for all computer forensics personnel within United States Immigration and Customs Enforcement;
+    - **(C)** shall participate in research and development in the area of digital forensics, in coordination with appropriate components of the Department; and
+    - **(D)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of recruiting, training, equipping, and hiring wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program.
+  - **(3)** The CFU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
+  - **(4)**
+    - **(A)** The Secretary is authorized to accept monies and in-kind donations from the Virtual Global Task Force, national laboratories, Federal agencies, not-for-profit organizations, and educational institutions to create and expand public awareness campaigns in support of the functions of the CFU.
+    - **(B)** Gifts authorized under subparagraph (A) shall not be subject to the Federal Acquisition Regulation for competition when the services provided by the entities referred to in such subparagraph are donated or of minimal cost to the Department.
+- **(d)**
+  - **(1)** The Secretary shall operate, within the Center, a Cyber Crimes Unit (referred to in this subsection as the “CCU”).
+  - **(2)** The CCU—
+    - **(A)** shall oversee the cyber security strategy and cyber-related operations and programs for United States Immigration and Customs Enforcement;
+    - **(B)** shall enhance United States Immigration and Customs Enforcement’s ability to combat criminal enterprises operating on or through the Internet, with specific focus in the areas of—
+      - **(i)** cyber economic crime;
+      - **(ii)** digital theft of intellectual property;
+      - **(iii)** illicit e-commerce (including hidden marketplaces);
+      - **(iv)** Internet-facilitated proliferation of arms and strategic technology; and
+      - **(v)** cyber-enabled smuggling and money laundering;
+    - **(C)** shall provide training and technical support in cyber investigations to—
+      - **(i)** United States Immigration and Customs Enforcement personnel; and
+      - **(ii)** Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
+    - **(D)** shall participate in research and development in the area of cyber investigations, in coordination with appropriate components of the Department; and
+    - **(E)** is authorized to recruit participants of the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program for investigative and forensic positions in support of the functions of the CCU.
+  - **(3)** The CCU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
+- **(e)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.

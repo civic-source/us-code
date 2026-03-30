@@ -3,9 +3,9 @@ title: "Section 152 - Restoration of lands previously withdrawn"
 usc_title: 43
 usc_section: "152"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "43 U.S.C. § 152"
-generated_at: "2026-03-30T04:26:28.876Z"
+generated_at: "2026-03-30T04:29:02.634Z"
 status: "active"
 ---
 

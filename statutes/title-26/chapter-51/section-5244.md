@@ -3,9 +3,9 @@ title: "Section 5244 - Cross references"
 usc_title: 26
 usc_section: "5244"
 chapter: 51
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "26 U.S.C. § 5244"
-generated_at: "2026-03-30T04:26:11.525Z"
+generated_at: "2026-03-30T04:28:52.890Z"
 status: "active"
 ---
 

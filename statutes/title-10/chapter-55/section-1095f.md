@@ -3,9 +3,9 @@ title: "Section 1095f - TRICARE program: referrals for specialty health care"
 usc_title: 10
 usc_section: "1095f"
 chapter: 55
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 1095f"
-generated_at: "2026-03-30T04:25:30.241Z"
+generated_at: "2026-03-30T04:27:24.719Z"
 status: "active"
 ---
 

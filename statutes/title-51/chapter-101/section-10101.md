@@ -3,9 +3,9 @@ title: "Section 10101 - Definitions"
 usc_title: 51
 usc_section: "10101"
 chapter: 101
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "51 U.S.C. § 10101"
-generated_at: "2026-03-30T04:26:59.998Z"
+generated_at: "2026-03-30T04:29:30.576Z"
 status: "active"
 ---
 

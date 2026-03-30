@@ -3,9 +3,9 @@ title: "Section 7625 - Repealed. Pub. L. 87–769, § 1(2)(A) , Oct. 9, 1962 , 7
 usc_title: 10
 usc_section: "7625"
 chapter: 653
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 7625"
-generated_at: "2026-03-30T04:25:30.321Z"
+generated_at: "2026-03-30T04:27:24.801Z"
 status: "repealed"
 ---
 

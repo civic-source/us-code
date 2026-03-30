@@ -3,9 +3,9 @@ title: "Section 13 - Powers and duties of bureau"
 usc_title: 29
 usc_section: "13"
 chapter: 2
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 13"
-generated_at: "2026-03-30T04:26:04.086Z"
+generated_at: "2026-03-30T04:28:33.717Z"
 status: "active"
 ---
 

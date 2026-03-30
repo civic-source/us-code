@@ -3,9 +3,9 @@ title: "Section 7304 - Briefings, hearings, witnesses, and subpoenas"
 usc_title: 15
 usc_section: "7304"
 chapter: 99
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 7304"
-generated_at: "2026-03-30T04:25:38.774Z"
+generated_at: "2026-03-30T04:27:46.593Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1481 - Recovery, care, and disposition of remains: decedents cov
 usc_title: 10
 usc_section: "1481"
 chapter: 75
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 1481"
-generated_at: "2026-03-30T04:25:30.253Z"
+generated_at: "2026-03-30T04:27:24.731Z"
 status: "active"
 ---
 

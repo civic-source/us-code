@@ -3,9 +3,9 @@ title: "Section 5336 - Apportionment of appropriations for formula grants"
 usc_title: 49
 usc_section: "5336"
 chapter: 53
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "49 U.S.C. § 5336"
-generated_at: "2026-03-30T04:26:58.274Z"
+generated_at: "2026-03-30T04:29:23.937Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
   - **(5)** Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 - **(g)** An amount apportioned under this section may be obligated by the recipient for 5 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 5-year period, an amount that is not obligated at the end of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
 - **(h)** Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
-  - **(1)** $30,000,000 for each fiscal year ending before October 1, 2014 , and $19,972,603 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be set aside to carry out section 5307(h);
+  - **(1)** $30,000,000 for each fiscal year ending before October 1, 2014 , and $24,986,301 for the period beginning on October 1, 2014 , and ending on July 31, 2015 , shall be set aside to carry out section 5307(h);
   - **(2)** 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
   - **(3)** of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
   - **(4)** 0.5 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and

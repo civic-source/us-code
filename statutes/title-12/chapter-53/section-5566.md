@@ -3,9 +3,9 @@ title: "Section 5566 - Referrals for criminal proceedings"
 usc_title: 12
 usc_section: "5566"
 chapter: 53
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "12 U.S.C. § 5566"
-generated_at: "2026-03-30T04:25:35.861Z"
+generated_at: "2026-03-30T04:28:13.417Z"
 status: "active"
 ---
 

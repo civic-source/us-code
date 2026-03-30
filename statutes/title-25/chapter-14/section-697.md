@@ -3,9 +3,9 @@ title: "Section 697 - Property of deceased members"
 usc_title: 25
 usc_section: "697"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 697"
-generated_at: "2026-03-30T04:25:56.710Z"
+generated_at: "2026-03-30T04:28:26.930Z"
 status: "active"
 ---
 

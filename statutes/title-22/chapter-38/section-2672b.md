@@ -3,9 +3,9 @@ title: "Section 2672b - Compensation of Alternate United States Commissioners; t
 usc_title: 22
 usc_section: "2672b"
 chapter: 38
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2672b"
-generated_at: "2026-03-30T04:26:00.102Z"
+generated_at: "2026-03-30T04:28:29.074Z"
 status: "active"
 ---
 

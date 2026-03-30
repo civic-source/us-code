@@ -3,9 +3,9 @@ title: "Section 290ccto290cc12 - Repealed. Pub. L. 102–321, title I , §§ 117
 usc_title: 42
 usc_section: "290ccto290cc12"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 290ccto290cc12"
-generated_at: "2026-03-30T04:26:51.486Z"
+generated_at: "2026-03-30T04:29:16.488Z"
 status: "repealed"
 ---
 

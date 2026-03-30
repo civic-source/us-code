@@ -3,9 +3,9 @@ title: "Section 2624to2628 - Repealed. Pub. L. 93–203, title VII, § 714 , for
 usc_title: 42
 usc_section: "2624to2628"
 chapter: 30
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 2624to2628"
-generated_at: "2026-03-30T04:26:51.788Z"
+generated_at: "2026-03-30T04:29:16.790Z"
 status: "repealed"
 ---
 

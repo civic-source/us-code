@@ -3,9 +3,9 @@ title: "Section 8 - Extinguishment of claims"
 usc_title: 16
 usc_section: "8"
 chapter: 2
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T04:25:48.385Z"
+generated_at: "2026-03-30T04:28:23.144Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2339A - Providing material support to terrorists"
 usc_title: 18
 usc_section: "2339A"
 chapter: 113
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "18 U.S.C. § 2339A"
-generated_at: "2026-03-30T04:25:53.395Z"
+generated_at: "2026-03-30T04:28:16.578Z"
 status: "active"
 ---
 

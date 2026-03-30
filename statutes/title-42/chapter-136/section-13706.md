@@ -3,9 +3,9 @@ title: "Section 13706 - Formula for grants"
 usc_title: 42
 usc_section: "13706"
 chapter: 136
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 13706"
-generated_at: "2026-03-30T04:26:52.037Z"
+generated_at: "2026-03-30T04:29:17.054Z"
 status: "active"
 ---
 

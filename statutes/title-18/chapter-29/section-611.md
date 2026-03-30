@@ -3,9 +3,9 @@ title: "Section 611 - Voting by aliens"
 usc_title: 18
 usc_section: "611"
 chapter: 29
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "18 U.S.C. § 611"
-generated_at: "2026-03-30T04:25:53.367Z"
+generated_at: "2026-03-30T04:28:16.553Z"
 status: "active"
 ---
 

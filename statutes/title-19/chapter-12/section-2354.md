@@ -3,9 +3,9 @@ title: "Section 2354 - Study by Secretary of Commerce when International Trade C
 usc_title: 19
 usc_section: "2354"
 chapter: 12
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "19 U.S.C. § 2354"
-generated_at: "2026-03-30T04:25:42.891Z"
+generated_at: "2026-03-30T04:28:17.499Z"
 status: "active"
 ---
 

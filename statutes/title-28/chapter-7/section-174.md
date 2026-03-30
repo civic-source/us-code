@@ -3,9 +3,9 @@ title: "Section 174 - Assignment of judges; decisions"
 usc_title: 28
 usc_section: "174"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "28 U.S.C. § 174"
-generated_at: "2026-03-30T04:26:07.225Z"
+generated_at: "2026-03-30T04:28:32.765Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3132 - Committee review"
 usc_title: 15
 usc_section: "3132"
 chapter: 58
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "15 U.S.C. § 3132"
-generated_at: "2026-03-30T04:25:38.745Z"
+generated_at: "2026-03-30T04:27:46.565Z"
 status: "active"
 ---
 

@@ -3,13 +3,13 @@ title: "Section 2148 - Administration of educational outreach and services"
 usc_title: 2
 usc_section: "2148"
 chapter: 30
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "2 U.S.C. § 2148"
-generated_at: "2026-03-30T04:25:22.092Z"
+generated_at: "2026-03-30T04:27:15.261Z"
 status: "active"
 ---
 
-# § 2148. Administration of educational outreach and services
+# 2148. Administration of educational outreach and services
 
 - **(a)** The Architect of the Capitol, subject to the direction of the Joint Committee of Congress on the Library, may enter into cooperative agreements with entities under such terms as the Architect determines advisable, in order to support the United States Botanic Garden in carrying out its duties, authorities, and mission.
 - **(b)**

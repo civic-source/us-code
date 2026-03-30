@@ -3,9 +3,9 @@ title: "Section 1393 - Actuarial assumptions"
 usc_title: 29
 usc_section: "1393"
 chapter: 18
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 1393"
-generated_at: "2026-03-30T04:26:04.135Z"
+generated_at: "2026-03-30T04:28:33.765Z"
 status: "active"
 ---
 

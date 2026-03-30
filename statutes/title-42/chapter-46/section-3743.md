@@ -3,9 +3,9 @@ title: "Section 3743 - Grants for young witness assistance"
 usc_title: 42
 usc_section: "3743"
 chapter: 46
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 3743"
-generated_at: "2026-03-30T04:26:51.811Z"
+generated_at: "2026-03-30T04:29:16.817Z"
 status: "active"
 ---
 

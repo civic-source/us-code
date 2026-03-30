@@ -3,9 +3,9 @@ title: "Section 218a - Automatic enrollment for employees of large employers"
 usc_title: 29
 usc_section: "218a"
 chapter: 8
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 218a"
-generated_at: "2026-03-30T04:26:04.092Z"
+generated_at: "2026-03-30T04:28:33.723Z"
 status: "active"
 ---
 

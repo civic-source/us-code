@@ -3,9 +3,9 @@ title: "Section 1116 - Agency performance reporting"
 usc_title: 31
 usc_section: "1116"
 chapter: 11
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "31 U.S.C. § 1116"
-generated_at: "2026-03-30T04:26:21.815Z"
+generated_at: "2026-03-30T04:28:55.955Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(A)** why the goal was not met;
     - **(B)** those plans and schedules for achieving the established performance goal; and
     - **(C)** if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
-  - **(4)** describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 1 1 See References in Text note below. of this title;
+  - **(4)** describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 of this title ;
   - **(5)** include a review of the performance goals and evaluation of the performance plan relative to the agency’s strategic human capital management;
   - **(6)** describe how the agency ensures the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of—
     - **(A)** the means used to verify and validate measured values;

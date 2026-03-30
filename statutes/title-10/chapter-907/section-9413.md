@@ -3,9 +3,9 @@ title: "Section 9413 - Transportation and subsistence during travel"
 usc_title: 10
 usc_section: "9413"
 chapter: 907
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 9413"
-generated_at: "2026-03-30T04:25:30.327Z"
+generated_at: "2026-03-30T04:27:24.808Z"
 status: "active"
 ---
 

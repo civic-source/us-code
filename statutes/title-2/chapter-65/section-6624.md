@@ -3,9 +3,9 @@ title: "Section 6624 - Metered charges on copiers; “Sergeant at Arms” and �
 usc_title: 2
 usc_section: "6624"
 chapter: 65
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "2 U.S.C. § 6624"
-generated_at: "2026-03-30T04:25:22.104Z"
+generated_at: "2026-03-30T04:27:15.274Z"
 status: "active"
 ---
 

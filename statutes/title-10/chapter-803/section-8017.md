@@ -3,9 +3,9 @@ title: "Section 8017 - Secretary of the Air Force: successors to duties"
 usc_title: 10
 usc_section: "8017"
 chapter: 803
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 8017"
-generated_at: "2026-03-30T04:25:30.322Z"
+generated_at: "2026-03-30T04:27:24.803Z"
 status: "active"
 ---
 

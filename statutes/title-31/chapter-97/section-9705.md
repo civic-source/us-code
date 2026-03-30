@@ -1,15 +1,15 @@
 ---
-title: "Section 1 - Department of the Treasury Forfeiture Fund"
+title: "Section 9705 - Department of the Treasury Forfeiture Fund"
 usc_title: 31
-usc_section: "1"
+usc_section: "9705"
 chapter: 97
-current_through: "PL 114-19"
-classification: "31 U.S.C. § 1"
-generated_at: "2026-03-30T04:26:21.836Z"
+current_through: "PL 114-22"
+classification: "31 U.S.C. § 9705"
+generated_at: "2026-03-30T04:28:55.978Z"
 status: "active"
 ---
 
-# § 9703. 1 1 Another section 9703 is set out preceding section 9704 of this title . Department of the Treasury Forfeiture Fund
+# § 9705. Department of the Treasury Forfeiture Fund
 
 - **(a)** There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
   - **(1)**
@@ -26,8 +26,8 @@ status: "active"
     - **(F)** Payment of claims of parties in interest to property disposed of under section 612(b) of the Tariff Act of 1930 ( 19 U.S.C. 1612(b) ), in the amounts applicable to such claims at the time of seizure.
     - **(G)** Equitable sharing payments made to other Federal agencies, State and local law enforcement agencies, and foreign countries pursuant to section 616(c) of the Tariff Act of 1930 ( 19 U.S.C. 1616a(c) ), section 981 of title 18 , or subsection (h) of this section, and all costs related thereto.
     - **(H)** Payment for services of experts and consultants needed by a Department of the Treasury law enforcement organization to carry out the organization’s duties relating to seizure and forfeiture.
-    - **(I)** payment 2 2 So in original. Probably should be capitalized. of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization; 3 3 So in original. The semicolon probably should be a period.
-    - **(J)** payment 2 made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
+    - **(I)** Payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in joint law enforcement operations with a Department of the Treasury law enforcement organization.
+    - **(J)** Payment made pursuant to guidelines promulgated by the Secretary, if such payment is necessary and directly related to seizure and forfeiture program expenses for—
       - **(i)** the purchase or lease of automatic data processing systems (not less than a majority of which use will be related to such program);
       - **(ii)** training;
       - **(iii)** printing; and
@@ -43,16 +43,17 @@ status: "active"
         - **(II)** a law, the violation of which may subject property to forfeiture under section 981 or 982 of title 18;
       - **(ii)** the United States Customs Service with respect to drug smuggling or a violation of section 542 or 545 of title 18 (relating to fraudulent customs invoices or smuggling);
       - **(iii)** the United States Secret Service with respect to a violation of—
-        - **(I)** section 1028, 1029, or 1030 or 4 4 So in original. Probably should be “of”. title 18;
+        - **(I)** section 1028, 1029, or 1030 of title 18;
         - **(II)** any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
-        - **(III)** any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation; and
-      - **(iv)** the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act).
+        - **(III)** any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
+      - **(iv)** the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
+      - **(v)** United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking);
     - **(C)** payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 ( 19 U.S.C. 1619 );
     - **(D)** payment for equipment for any vessel, vehicle, or aircraft available for official use by a Department of the Treasury law enforcement organization to enable the vessel, vehicle, or aircraft to assist in law enforcement functions, and for other equipment directly related to seizure or forfeiture, including laboratory equipment, protective equipment, communications equipment, and the operation and maintenance costs of such equipment;
     - **(E)** the payment of claims against employees of the Customs Service settled by the Secretary under section 630 of the Tariff Act of 1930;
     - **(F)** payment for equipment for any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with a Department of the Treasury law enforcement organization;
-    - **(G)** reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; 5 5 So in original. Probably should be followed by “and”.
-    - **(H)** payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury; and 6 6 So in original. The “; and” probably should be a period.
+    - **(G)** reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
+    - **(H)** payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
 - **(b)**
   - **(1)** Any payment made under subparagraph (D) or (E) of subsection (a)(1) with respect to a seizure or a forfeiture of property shall not exceed the value of the property at the time of the seizure.
   - **(2)** Any payment made under subsection (a)(1)(G) with respect to a seizure or forfeiture of property shall not exceed the value of the property at the time of disposition.
@@ -102,12 +103,12 @@ status: "active"
     - **(A)** $25,000,000 for fiscal year 1993; and
     - **(B)** $50,000,000 for each fiscal year after fiscal year 1993.
   - **(3)**
-    - **(A)** Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988. 7 7 See References in Text note below.
+    - **(A)** Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988. 1 1 See References in Text note below.
     - **(B)** Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
-    - **(C)** The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992 , and such amount shall be transferred to the Fund on October 1, 1992 , or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 8 8 So in original. Probably should be “years”. 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 9 9 So in original. Probably should be “paragraph (4)(B)”. shall also be carried forward.
+    - **(C)** The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992 , and such amount shall be transferred to the Fund on October 1, 1992 , or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 2 2 So in original. Probably should be “years”. 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 3 3 So in original. Probably should be “paragraph (4)(B)”. shall also be carried forward.
   - **(4)**
     - **(A)** After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993 , shall be deposited into the general fund of the Treasury of the United States.
-    - **(B)** After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994 , and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 7 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
+    - **(B)** After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994 , and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 1 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
     - **(C)** Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 - **(h)**
   - **(1)** The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury—
@@ -115,10 +116,10 @@ status: "active"
     - **(B)** transfer any of the property to—
       - **(i)** any other Federal agency; or
       - **(ii)** any State or local law enforcement agency that participated directly or indirectly in the seizure or forfeiture of the property.
-  - **(2)** The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 10 10 So in original. Probably should be “or”. forfeiture of the property, if such a transfer—
+  - **(2)** The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 4 4 So in original. Probably should be “or”. forfeiture of the property, if such a transfer—
     - **(A)** is one with which the Secretary of State has agreed;
     - **(B)** is authorized in an international agreement between the United States and the foreign country; and
-    - **(C)** is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2291(h) ). 7
+    - **(C)** is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2291(h) ). 1
   - **(3)** Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 ( 19 U.S.C. 1616a ).
 - **(i)** The Secretary may prescribe such rules and regulations as may be necessary to carry out this section.
 - **(j)** Notwithstanding any other provision of law—
@@ -128,7 +129,7 @@ status: "active"
   - **(2)** any funds in the Customs Forfeiture Fund and any obligations of the Customs Forfeiture Fund on the effective date of the Treasury Forfeiture Act of 1992, shall be transferred to the Fund and all administrative costs of such transfer shall be paid for out of the Fund.
 - **(k)** The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 ( 19 U.S.C. 1616a ) if such action is based on an act or omission occurring after the transfer.
 - **(l)** Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary’s discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
-- **(m)** For purposes of this section and notwithstanding section 524(c)(11) 7 of title 28 or any other law—
+- **(m)** For purposes of this section and notwithstanding section 524(c)(11) 1 of title 28 or any other law—
   - **(1)** during fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by the United States Customs Service if it is forfeited pursuant to—
     - **(A)** a judicial forfeiture proceeding when the underlying seizure was made by an officer of the United States Customs Service or the property was maintained by the United States Customs Service; or
     - **(B)** a civil administrative forfeiture proceeding conducted by the United States Customs Service; and

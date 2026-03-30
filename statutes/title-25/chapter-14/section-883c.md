@@ -3,9 +3,9 @@ title: "Section 883c - Income tax exemption"
 usc_title: 25
 usc_section: "883c"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 883c"
-generated_at: "2026-03-30T04:25:56.715Z"
+generated_at: "2026-03-30T04:28:26.934Z"
 status: "active"
 ---
 

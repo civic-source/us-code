@@ -3,9 +3,9 @@ title: "Section 1604 - Program administration"
 usc_title: 30
 usc_section: "1604"
 chapter: 28
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "30 U.S.C. § 1604"
-generated_at: "2026-03-30T04:26:02.838Z"
+generated_at: "2026-03-30T04:28:34.086Z"
 status: "active"
 ---
 

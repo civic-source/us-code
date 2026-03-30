@@ -3,9 +3,9 @@ title: "Section 6158 - Repealed. Pub. L. 90–235, § 7(b)(1) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6158"
 chapter: 561
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 6158"
-generated_at: "2026-03-30T04:25:30.313Z"
+generated_at: "2026-03-30T04:27:24.793Z"
 status: "repealed"
 ---
 

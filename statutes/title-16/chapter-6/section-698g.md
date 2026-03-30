@@ -3,9 +3,9 @@ title: "Section 698g - Acquisition of lands for Big Cypress Preserve"
 usc_title: 16
 usc_section: "698g"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 698g"
-generated_at: "2026-03-30T04:25:48.406Z"
+generated_at: "2026-03-30T04:28:23.165Z"
 status: "active"
 ---
 

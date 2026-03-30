@@ -3,9 +3,9 @@ title: "Section 6055to6055h - Repealed. Pub. L. 107–279, title IV, § 403(2) ,
 usc_title: 20
 usc_section: "6055to6055h"
 chapter: 68
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 6055to6055h"
-generated_at: "2026-03-30T04:25:45.220Z"
+generated_at: "2026-03-30T04:28:19.450Z"
 status: "repealed"
 ---
 

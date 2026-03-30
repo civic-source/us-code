@@ -3,9 +3,9 @@ title: "Section 1651 - Prohibition against assignment or transportation of stude
 usc_title: 20
 usc_section: "1651"
 chapter: 37
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 1651"
-generated_at: "2026-03-30T04:25:45.200Z"
+generated_at: "2026-03-30T04:28:19.431Z"
 status: "active"
 ---
 

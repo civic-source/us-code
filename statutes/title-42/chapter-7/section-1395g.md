@@ -3,9 +3,9 @@ title: "Section 1395g - Payments to providers of services"
 usc_title: 42
 usc_section: "1395g"
 chapter: 7
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "42 U.S.C. § 1395g"
-generated_at: "2026-03-30T04:26:51.615Z"
+generated_at: "2026-03-30T04:29:16.614Z"
 status: "active"
 ---
 

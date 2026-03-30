@@ -3,9 +3,9 @@ title: "Section 7281b - Maximum amount"
 usc_title: 20
 usc_section: "7281b"
 chapter: 70
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "20 U.S.C. § 7281b"
-generated_at: "2026-03-30T04:25:45.251Z"
+generated_at: "2026-03-30T04:28:19.480Z"
 status: "active"
 ---
 

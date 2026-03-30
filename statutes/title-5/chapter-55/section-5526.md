@@ -3,9 +3,9 @@ title: "Section 5526 - Funds available on reimbursable basis"
 usc_title: 5
 usc_section: "5526"
 chapter: 55
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "5 U.S.C. § 5526"
-generated_at: "2026-03-30T04:25:20.717Z"
+generated_at: "2026-03-30T04:27:17.009Z"
 status: "active"
 ---
 

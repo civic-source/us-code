@@ -3,9 +3,9 @@ title: "Section 695o - Limitation on reduction of areas by diking or other const
 usc_title: 16
 usc_section: "695o"
 chapter: 6
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 695o"
-generated_at: "2026-03-30T04:25:48.405Z"
+generated_at: "2026-03-30T04:28:23.164Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3420 - Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Ap
 usc_title: 16
 usc_section: "3420"
 chapter: 54
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "16 U.S.C. § 3420"
-generated_at: "2026-03-30T04:25:48.484Z"
+generated_at: "2026-03-30T04:28:23.243Z"
 status: "repealed"
 ---
 

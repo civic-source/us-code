@@ -3,9 +3,9 @@ title: "Section 564u - Valid leases, permits, liens, etc., unaffected"
 usc_title: 25
 usc_section: "564u"
 chapter: 14
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "25 U.S.C. § 564u"
-generated_at: "2026-03-30T04:25:56.702Z"
+generated_at: "2026-03-30T04:28:26.922Z"
 status: "active"
 ---
 

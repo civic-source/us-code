@@ -3,9 +3,9 @@ title: "Section 50501 - Entities deemed citizens of the United States"
 usc_title: 46
 usc_section: "50501"
 chapter: 505
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "46 U.S.C. § 50501"
-generated_at: "2026-03-30T04:26:56.623Z"
+generated_at: "2026-03-30T04:29:20.468Z"
 status: "active"
 ---
 

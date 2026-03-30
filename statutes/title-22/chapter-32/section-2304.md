@@ -3,9 +3,9 @@ title: "Section 2304 - Human rights and security assistance"
 usc_title: 22
 usc_section: "2304"
 chapter: 32
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "22 U.S.C. § 2304"
-generated_at: "2026-03-30T04:26:00.086Z"
+generated_at: "2026-03-30T04:28:29.059Z"
 status: "active"
 ---
 
@@ -40,13 +40,13 @@ status: "active"
     - **(B)** Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
     - **(C)** The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 - **(d)** For the purposes of this section—
-  - **(1)** the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person; 2 2 So in original. Probably should be followed by “and”.
+  - **(1)** the term “gross violations of internationally recognized human rights” includes torture or cruel, inhuman, or degrading treatment or punishment, prolonged detention without charges and trial, causing the disappearance of persons by the abduction and clandestine detention of those persons, and other flagrant denial of the right to life, liberty, or the security of person;
   - **(2)** the term “security assistance” means—
     - **(A)** assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter;
     - **(B)** sales of defense articles or services, extensions of credits (including participations in credits), and guaranties of loans under the Arms Export Control Act [ 22 U.S.C. 2751 et seq.]); or
     - **(C)** any license in effect with respect to the export to or for the armed forces, police, intelligence, or other internal security forces of a foreign country of—
-      - **(i)** defense articles or defense services under section 38 of the Armed 3 3 So in original. Probably should be “Arms”. Export Control Act ( 22 U.S.C. 2778 ); or
-      - **(ii)** items listed under the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations; 4 4 So in original. The semicolon probably should be a period.
+      - **(i)** defense articles or defense services under section 38 of the Armed 2 2 So in original. Probably should be “Arms”. Export Control Act ( 22 U.S.C. 2778 ); or
+      - **(ii)** items listed under the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations; 3 3 So in original. The semicolon probably should be a period.
 - **(e)** Notwithstanding any other provision of law, funds authorized to be appropriated under subchapter I of this chapter may be made available for the furnishing of assistance to any country with respect to which the President finds that such a significant improvement in its human rights record has occurred as to warrant lifting the prohibition on furnishing such assistance in the national interest of the United States.
 - **(f)** In allocating the funds authorized to be appropriated by this chapter and the Arms Export Control Act [ 22 U.S.C. 2751 et seq.], the President shall take into account significant improvements in the human rights records of recipient countries, except that such allocations may not contravene any other provision of law.
 - **(g)** Whenever the provisions of subsection (e) or (f) of this section are applied, the President shall report to the Congress before making any funds available pursuant to those subsections. The report shall specify the country involved, the amount and kinds of assistance to be provided, and the justification for providing the assistance, including a description of the significant improvements which have occurred in the country’s human rights record.

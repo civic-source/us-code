@@ -3,9 +3,9 @@ title: "Section 30102 - Liability to passengers"
 usc_title: 46
 usc_section: "30102"
 chapter: 301
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "46 U.S.C. § 30102"
-generated_at: "2026-03-30T04:26:56.619Z"
+generated_at: "2026-03-30T04:29:20.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8038 - Office of Air Force Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "8038"
 chapter: 805
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 8038"
-generated_at: "2026-03-30T04:25:30.323Z"
+generated_at: "2026-03-30T04:27:24.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4727 - Cemetery concessions contracts"
 usc_title: 10
 usc_section: "4727"
 chapter: 446
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "10 U.S.C. § 4727"
-generated_at: "2026-03-30T04:25:30.309Z"
+generated_at: "2026-03-30T04:27:24.789Z"
 status: "active"
 ---
 

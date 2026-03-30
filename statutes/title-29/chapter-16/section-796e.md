@@ -3,9 +3,9 @@ title: "Section 796e - Allotments"
 usc_title: 29
 usc_section: "796e"
 chapter: 16
-current_through: "PL 114-19"
+current_through: "PL 114-22"
 classification: "29 U.S.C. § 796e"
-generated_at: "2026-03-30T04:26:04.107Z"
+generated_at: "2026-03-30T04:28:33.738Z"
 status: "active"
 ---
 
