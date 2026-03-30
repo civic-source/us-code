@@ -3,9 +3,9 @@ title: "Section 7118 - Activities to support safe and healthy students"
 usc_title: 20
 usc_section: "7118"
 chapter: 70
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 7118"
-generated_at: "2026-03-30T07:15:17.741Z"
+generated_at: "2026-03-30T07:17:11.981Z"
 status: "active"
 ---
 

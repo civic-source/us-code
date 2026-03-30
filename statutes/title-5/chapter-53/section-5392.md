@@ -3,9 +3,9 @@ title: "Section 5392 - Establishment of special occupational pay systems"
 usc_title: 5
 usc_section: "5392"
 chapter: 53
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "5 U.S.C. § 5392"
-generated_at: "2026-03-30T07:14:45.617Z"
+generated_at: "2026-03-30T07:16:42.343Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7f - National Biodefense Science Board and working groups"
 usc_title: 42
 usc_section: "7f"
 chapter: 6
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T07:16:10.650Z"
+generated_at: "2026-03-30T07:18:03.328Z"
 status: "active"
 ---
 

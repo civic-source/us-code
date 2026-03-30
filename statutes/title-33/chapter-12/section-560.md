@@ -3,9 +3,9 @@ title: "Section 560 - Contributions from private parties; return of excess"
 usc_title: 33
 usc_section: "560"
 chapter: 12
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 560"
-generated_at: "2026-03-30T07:15:42.945Z"
+generated_at: "2026-03-30T07:17:34.528Z"
 status: "active"
 ---
 

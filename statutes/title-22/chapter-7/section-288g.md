@@ -3,9 +3,9 @@ title: "Section 288g - Organization of American States; extension of privileges 
 usc_title: 22
 usc_section: "288g"
 chapter: 7
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 288g"
-generated_at: "2026-03-30T07:15:28.971Z"
+generated_at: "2026-03-30T07:17:20.756Z"
 status: "active"
 ---
 

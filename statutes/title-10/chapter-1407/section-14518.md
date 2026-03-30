@@ -3,9 +3,9 @@ title: "Section 14518 - Continuation of officers to complete disciplinary action
 usc_title: 10
 usc_section: "14518"
 chapter: 1407
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 14518"
-generated_at: "2026-03-30T07:14:57.860Z"
+generated_at: "2026-03-30T07:16:55.745Z"
 status: "active"
 ---
 

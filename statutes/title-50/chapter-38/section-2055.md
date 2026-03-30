@@ -3,9 +3,9 @@ title: "Section 2055 - Mandatory retirement"
 usc_title: 50
 usc_section: "2055"
 chapter: 38
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "50 U.S.C. § 2055"
-generated_at: "2026-03-30T07:16:18.943Z"
+generated_at: "2026-03-30T07:18:15.343Z"
 status: "active"
 ---
 

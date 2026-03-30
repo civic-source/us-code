@@ -3,9 +3,9 @@ title: "Section 3723 - When Secretary may require"
 usc_title: 10
 usc_section: "3723"
 chapter: 355
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 3723"
-generated_at: "2026-03-30T07:14:57.826Z"
+generated_at: "2026-03-30T07:16:55.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1718 - Capitalization of Federal National Mortgage Association"
 usc_title: 12
 usc_section: "1718"
 chapter: 13
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "12 U.S.C. § 1718"
-generated_at: "2026-03-30T07:15:09.776Z"
+generated_at: "2026-03-30T07:17:00.823Z"
 status: "active"
 ---
 

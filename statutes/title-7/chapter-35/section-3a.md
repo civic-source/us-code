@@ -3,9 +3,9 @@ title: "Section 3a - Adjusted gross income limitation"
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-30T07:15:04.415Z"
+generated_at: "2026-03-30T07:16:49.628Z"
 status: "active"
 ---
 

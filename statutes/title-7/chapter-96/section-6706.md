@@ -3,9 +3,9 @@ title: "Section 6706 - Institutes of Tropical Forestry"
 usc_title: 7
 usc_section: "6706"
 chapter: 96
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 6706"
-generated_at: "2026-03-30T07:15:04.508Z"
+generated_at: "2026-03-30T07:16:49.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5614 - Transferred"
 usc_title: 42
 usc_section: "5614"
 chapter: 72
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 5614"
-generated_at: "2026-03-30T07:16:11.320Z"
+generated_at: "2026-03-30T07:18:03.732Z"
 status: "transferred"
 ---
 

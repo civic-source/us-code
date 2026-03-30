@@ -3,9 +3,9 @@ title: "Section 122a - Water quality of Crater Lake; studies and investigations;
 usc_title: 16
 usc_section: "122a"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 122a"
-generated_at: "2026-03-30T07:15:20.885Z"
+generated_at: "2026-03-30T07:17:09.944Z"
 status: "active"
 ---
 

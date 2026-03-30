@@ -3,9 +3,9 @@ title: "Section 230313 - Termination of existence and distribution of assets"
 usc_title: 36
 usc_section: "230313"
 chapter: 2303
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "36 U.S.C. § 230313"
-generated_at: "2026-03-30T07:15:49.393Z"
+generated_at: "2026-03-30T07:17:44.100Z"
 status: "active"
 ---
 

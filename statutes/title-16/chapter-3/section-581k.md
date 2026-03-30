@@ -3,9 +3,9 @@ title: "Section 581k - Authorization of appropriations for reforestation and rev
 usc_title: 16
 usc_section: "581k"
 chapter: 3
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 581k"
-generated_at: "2026-03-30T07:15:20.979Z"
+generated_at: "2026-03-30T07:17:10.038Z"
 status: "active"
 ---
 

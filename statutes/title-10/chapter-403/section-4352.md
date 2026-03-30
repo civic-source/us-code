@@ -3,9 +3,9 @@ title: "Section 4352 - Cadets: hazing"
 usc_title: 10
 usc_section: "4352"
 chapter: 403
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 4352"
-generated_at: "2026-03-30T07:14:57.828Z"
+generated_at: "2026-03-30T07:16:55.712Z"
 status: "active"
 ---
 

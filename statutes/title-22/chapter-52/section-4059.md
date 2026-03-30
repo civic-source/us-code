@@ -3,9 +3,9 @@ title: "Section 4059 - Investment of Fund"
 usc_title: 22
 usc_section: "4059"
 chapter: 52
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 4059"
-generated_at: "2026-03-30T07:15:29.041Z"
+generated_at: "2026-03-30T07:17:20.827Z"
 status: "active"
 ---
 

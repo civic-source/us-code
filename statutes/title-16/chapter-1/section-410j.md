@@ -3,9 +3,9 @@ title: "Section 410j - Acquisition of land, water, and interests therein; consen
 usc_title: 16
 usc_section: "410j"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 410j"
-generated_at: "2026-03-30T07:15:20.902Z"
+generated_at: "2026-03-30T07:17:09.961Z"
 status: "active"
 ---
 

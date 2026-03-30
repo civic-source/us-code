@@ -3,9 +3,9 @@ title: "Section 745b - Refunding bonds excluded temporarily in computing indebte
 usc_title: 48
 usc_section: "745b"
 chapter: 4
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "48 U.S.C. § 745b"
-generated_at: "2026-03-30T07:16:17.358Z"
+generated_at: "2026-03-30T07:18:06.883Z"
 status: "active"
 ---
 

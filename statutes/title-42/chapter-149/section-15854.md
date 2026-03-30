@@ -3,9 +3,9 @@ title: "Section 15854 - Sugar Cane Ethanol Program"
 usc_title: 42
 usc_section: "15854"
 chapter: 149
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 15854"
-generated_at: "2026-03-30T07:16:11.621Z"
+generated_at: "2026-03-30T07:18:03.915Z"
 status: "active"
 ---
 

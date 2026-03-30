@@ -3,9 +3,9 @@ title: "Section 25e - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "25e"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 25e"
-generated_at: "2026-03-30T07:16:10.621Z"
+generated_at: "2026-03-30T07:18:03.311Z"
 status: "repealed"
 ---
 

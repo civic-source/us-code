@@ -3,9 +3,9 @@ title: "Section 642 - Deposit of damage payments"
 usc_title: 14
 usc_section: "642"
 chapter: 17
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "14 U.S.C. § 642"
-generated_at: "2026-03-30T07:15:06.630Z"
+generated_at: "2026-03-30T07:16:57.731Z"
 status: "active"
 ---
 

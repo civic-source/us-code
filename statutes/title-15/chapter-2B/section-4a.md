@@ -3,9 +3,9 @@ title: "Section 4a - Commission Office of Municipal Securities"
 usc_title: 15
 usc_section: "4a"
 chapter: 2
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 4a"
-generated_at: "2026-03-30T07:15:11.781Z"
+generated_at: "2026-03-30T07:17:02.903Z"
 status: "active"
 ---
 

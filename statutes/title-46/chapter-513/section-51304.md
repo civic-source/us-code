@@ -3,9 +3,9 @@ title: "Section 51304 - Additional appointments from particular areas"
 usc_title: 46
 usc_section: "51304"
 chapter: 513
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "46 U.S.C. § 51304"
-generated_at: "2026-03-30T07:16:16.885Z"
+generated_at: "2026-03-30T07:18:14.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 153 - Use of safety belts and motorcycle helmets"
 usc_title: 23
 usc_section: "153"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "23 U.S.C. § 153"
-generated_at: "2026-03-30T07:15:25.155Z"
+generated_at: "2026-03-30T07:17:18.894Z"
 status: "active"
 ---
 

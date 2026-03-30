@@ -3,9 +3,9 @@ title: "Section 892c - Hydrographic Services Review Panel"
 usc_title: 33
 usc_section: "892c"
 chapter: 17
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 892c"
-generated_at: "2026-03-30T07:15:42.957Z"
+generated_at: "2026-03-30T07:17:34.539Z"
 status: "active"
 ---
 

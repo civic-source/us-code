@@ -3,9 +3,9 @@ title: "Section 220704 - Membership"
 usc_title: 36
 usc_section: "220704"
 chapter: 2207
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "36 U.S.C. § 220704"
-generated_at: "2026-03-30T07:15:49.392Z"
+generated_at: "2026-03-30T07:17:44.099Z"
 status: "active"
 ---
 

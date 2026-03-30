@@ -3,9 +3,9 @@ title: "Section 150507 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "150507"
 chapter: 1505
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "36 U.S.C. § 150507"
-generated_at: "2026-03-30T07:15:49.383Z"
+generated_at: "2026-03-30T07:17:44.091Z"
 status: "active"
 ---
 

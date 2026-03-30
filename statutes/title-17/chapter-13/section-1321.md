@@ -3,9 +3,9 @@ title: "Section 1321 - Remedy for infringement"
 usc_title: 17
 usc_section: "1321"
 chapter: 13
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "17 U.S.C. § 1321"
-generated_at: "2026-03-30T07:15:13.948Z"
+generated_at: "2026-03-30T07:17:05.008Z"
 status: "active"
 ---
 

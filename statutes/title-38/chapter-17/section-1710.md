@@ -3,9 +3,9 @@ title: "Section 1710 - Eligibility for hospital, nursing home, and domiciliary c
 usc_title: 38
 usc_section: "1710"
 chapter: 17
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "38 U.S.C. § 1710"
-generated_at: "2026-03-30T07:15:51.162Z"
+generated_at: "2026-03-30T07:17:45.785Z"
 status: "active"
 ---
 

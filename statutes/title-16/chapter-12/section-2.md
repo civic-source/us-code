@@ -3,9 +3,9 @@ title: "Section 2 - Southeastern area sale and transmission of electric power; d
 usc_title: 16
 usc_section: "2"
 chapter: 12
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T07:15:21.008Z"
+generated_at: "2026-03-30T07:17:10.066Z"
 status: "active"
 ---
 

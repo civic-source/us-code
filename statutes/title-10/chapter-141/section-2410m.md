@@ -3,9 +3,9 @@ title: "Section 2410m - Retention of amounts collected from contractor during th
 usc_title: 10
 usc_section: "2410m"
 chapter: 141
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2410m"
-generated_at: "2026-03-30T07:14:57.803Z"
+generated_at: "2026-03-30T07:16:55.684Z"
 status: "active"
 ---
 

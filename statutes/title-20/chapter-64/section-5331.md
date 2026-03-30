@@ -3,9 +3,9 @@ title: "Section 5331 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 
 usc_title: 20
 usc_section: "5331"
 chapter: 64
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 5331"
-generated_at: "2026-03-30T07:15:17.724Z"
+generated_at: "2026-03-30T07:17:11.962Z"
 status: "repealed"
 ---
 

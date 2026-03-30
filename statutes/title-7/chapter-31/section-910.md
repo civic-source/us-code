@@ -3,9 +3,9 @@ title: "Section 910 - Repealed. Pub. L. 104–127, title VII , § 777, Apr. 4, 1
 usc_title: 7
 usc_section: "910"
 chapter: 31
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 910"
-generated_at: "2026-03-30T07:15:04.408Z"
+generated_at: "2026-03-30T07:16:49.621Z"
 status: "repealed"
 ---
 

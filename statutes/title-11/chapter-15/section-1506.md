@@ -3,9 +3,9 @@ title: "Section 1506 - Public policy exception"
 usc_title: 11
 usc_section: "1506"
 chapter: 15
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "11 U.S.C. § 1506"
-generated_at: "2026-03-30T07:15:07.334Z"
+generated_at: "2026-03-30T07:16:58.137Z"
 status: "active"
 ---
 

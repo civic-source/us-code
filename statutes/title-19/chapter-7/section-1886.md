@@ -3,9 +3,9 @@ title: "Section 1886 - Repealed. Pub. L. 93–618, title VI , § 602(d), Jan. 3,
 usc_title: 19
 usc_section: "1886"
 chapter: 7
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "19 U.S.C. § 1886"
-generated_at: "2026-03-30T07:15:16.022Z"
+generated_at: "2026-03-30T07:17:13.531Z"
 status: "repealed"
 ---
 

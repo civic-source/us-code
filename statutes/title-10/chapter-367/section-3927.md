@@ -3,9 +3,9 @@ title: "Section 3927 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "3927"
 chapter: 367
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 3927"
-generated_at: "2026-03-30T07:14:57.827Z"
+generated_at: "2026-03-30T07:16:55.711Z"
 status: "repealed"
 ---
 

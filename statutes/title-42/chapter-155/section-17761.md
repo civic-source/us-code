@@ -3,9 +3,9 @@ title: "Section 17761 - Transferred"
 usc_title: 42
 usc_section: "17761"
 chapter: 155
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 17761"
-generated_at: "2026-03-30T07:16:11.668Z"
+generated_at: "2026-03-30T07:18:03.941Z"
 status: "transferred"
 ---
 

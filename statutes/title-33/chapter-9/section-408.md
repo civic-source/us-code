@@ -3,9 +3,9 @@ title: "Section 408 - Taking possession of, use of, or injury to harbor or river
 usc_title: 33
 usc_section: "408"
 chapter: 9
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 408"
-generated_at: "2026-03-30T07:15:42.939Z"
+generated_at: "2026-03-30T07:17:34.520Z"
 status: "active"
 ---
 

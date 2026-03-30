@@ -3,9 +3,9 @@ title: "Section 677z - Omitted"
 usc_title: 25
 usc_section: "677z"
 chapter: 14
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "25 U.S.C. § 677z"
-generated_at: "2026-03-30T07:15:26.719Z"
+generated_at: "2026-03-30T07:17:17.107Z"
 status: "omitted"
 ---
 

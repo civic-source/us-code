@@ -3,9 +3,9 @@ title: "Section 6304 - Injunctive enforcement"
 usc_title: 42
 usc_section: "6304"
 chapter: 77
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 6304"
-generated_at: "2026-03-30T07:16:11.340Z"
+generated_at: "2026-03-30T07:18:03.745Z"
 status: "active"
 ---
 

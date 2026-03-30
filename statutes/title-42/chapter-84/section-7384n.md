@@ -3,9 +3,9 @@ title: "Section 7384n - Exposure in the performance of duty"
 usc_title: 42
 usc_section: "7384n"
 chapter: 84
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 7384n"
-generated_at: "2026-03-30T07:16:11.392Z"
+generated_at: "2026-03-30T07:18:03.776Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2301 - Congressional statement of policy"
 usc_title: 22
 usc_section: "2301"
 chapter: 32
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 2301"
-generated_at: "2026-03-30T07:15:29.002Z"
+generated_at: "2026-03-30T07:17:20.787Z"
 status: "active"
 ---
 

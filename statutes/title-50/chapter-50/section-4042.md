@@ -3,9 +3,9 @@ title: "Section 4042 - Private right of action"
 usc_title: 50
 usc_section: "4042"
 chapter: 50
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "50 U.S.C. § 4042"
-generated_at: "2026-03-30T07:16:18.997Z"
+generated_at: "2026-03-30T07:18:15.378Z"
 status: "active"
 ---
 

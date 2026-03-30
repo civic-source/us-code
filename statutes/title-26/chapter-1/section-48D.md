@@ -3,9 +3,9 @@ title: "Section 48D - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(
 usc_title: 26
 usc_section: "48D"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 48D"
-generated_at: "2026-03-30T07:15:38.933Z"
+generated_at: "2026-03-30T07:17:30.291Z"
 status: "repealed"
 ---
 

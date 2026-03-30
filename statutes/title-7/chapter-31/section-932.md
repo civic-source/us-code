@@ -3,9 +3,9 @@ title: "Section 932 - Liabilities and uses of Rural Electrification and Telephon
 usc_title: 7
 usc_section: "932"
 chapter: 31
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 932"
-generated_at: "2026-03-30T07:15:04.409Z"
+generated_at: "2026-03-30T07:16:49.622Z"
 status: "active"
 ---
 

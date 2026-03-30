@@ -3,9 +3,9 @@ title: "Section 251 - Congressional findings and declaration of policy"
 usc_title: 29
 usc_section: "251"
 chapter: 9
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "29 U.S.C. § 251"
-generated_at: "2026-03-30T07:15:34.190Z"
+generated_at: "2026-03-30T07:17:24.563Z"
 status: "active"
 ---
 

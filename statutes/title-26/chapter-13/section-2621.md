@@ -3,9 +3,9 @@ title: "Section 2621 - Taxable amount in case of taxable distribution"
 usc_title: 26
 usc_section: "2621"
 chapter: 13
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 2621"
-generated_at: "2026-03-30T07:15:39.075Z"
+generated_at: "2026-03-30T07:17:30.440Z"
 status: "active"
 ---
 

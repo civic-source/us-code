@@ -3,9 +3,9 @@ title: "Section 299 - Short title"
 usc_title: 22
 usc_section: "299"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 299"
-generated_at: "2026-03-30T07:15:28.975Z"
+generated_at: "2026-03-30T07:17:20.760Z"
 status: "active"
 ---
 

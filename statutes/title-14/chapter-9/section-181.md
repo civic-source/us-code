@@ -3,9 +3,9 @@ title: "Section 181 - Administration of Academy"
 usc_title: 14
 usc_section: "181"
 chapter: 9
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "14 U.S.C. § 181"
-generated_at: "2026-03-30T07:15:06.624Z"
+generated_at: "2026-03-30T07:16:57.727Z"
 status: "active"
 ---
 

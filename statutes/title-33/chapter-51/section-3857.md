@@ -3,9 +3,9 @@ title: "Section 3857 - Remedies not affected"
 usc_title: 33
 usc_section: "3857"
 chapter: 51
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 3857"
-generated_at: "2026-03-30T07:15:43.015Z"
+generated_at: "2026-03-30T07:17:34.594Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10543 - National Guard and reserve component equipment procureme
 usc_title: 10
 usc_section: "10543"
 chapter: 1013
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 10543"
-generated_at: "2026-03-30T07:14:57.853Z"
+generated_at: "2026-03-30T07:16:55.738Z"
 status: "active"
 ---
 

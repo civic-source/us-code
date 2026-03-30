@@ -3,9 +3,9 @@ title: "Section 12742 - Eligible uses of investment"
 usc_title: 42
 usc_section: "12742"
 chapter: 130
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 12742"
-generated_at: "2026-03-30T07:16:11.579Z"
+generated_at: "2026-03-30T07:18:03.889Z"
 status: "active"
 ---
 

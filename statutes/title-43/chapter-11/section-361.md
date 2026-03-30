@@ -3,9 +3,9 @@ title: "Section 361 - Authority to explore for, develop, and mark water holes, e
 usc_title: 43
 usc_section: "361"
 chapter: 11
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "43 U.S.C. § 361"
-generated_at: "2026-03-30T07:15:55.045Z"
+generated_at: "2026-03-30T07:17:48.375Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1543 - United States citizenship requirement for government offi
 usc_title: 48
 usc_section: "1543"
 chapter: 12
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "48 U.S.C. § 1543"
-generated_at: "2026-03-30T07:16:17.368Z"
+generated_at: "2026-03-30T07:18:06.888Z"
 status: "active"
 ---
 

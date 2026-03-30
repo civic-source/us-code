@@ -3,9 +3,9 @@ title: "Section 4211 - 50-year leasehold interest in trust or restricted lands f
 usc_title: 25
 usc_section: "4211"
 chapter: 43
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "25 U.S.C. § 4211"
-generated_at: "2026-03-30T07:15:26.759Z"
+generated_at: "2026-03-30T07:17:17.152Z"
 status: "active"
 ---
 

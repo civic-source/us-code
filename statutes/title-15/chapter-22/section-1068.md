@@ -3,9 +3,9 @@ title: "Section 1068 - Action of Director in interference, opposition, and proce
 usc_title: 15
 usc_section: "1068"
 chapter: 22
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 1068"
-generated_at: "2026-03-30T07:15:11.849Z"
+generated_at: "2026-03-30T07:17:02.969Z"
 status: "active"
 ---
 

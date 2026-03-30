@@ -3,9 +3,9 @@ title: "Section 1502 - Resistance to extradition agent"
 usc_title: 18
 usc_section: "1502"
 chapter: 73
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "18 U.S.C. § 1502"
-generated_at: "2026-03-30T07:15:18.760Z"
+generated_at: "2026-03-30T07:17:06.520Z"
 status: "active"
 ---
 

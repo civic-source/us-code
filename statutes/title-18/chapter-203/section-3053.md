@@ -3,9 +3,9 @@ title: "Section 3053 - Powers of marshals and deputies"
 usc_title: 18
 usc_section: "3053"
 chapter: 203
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "18 U.S.C. § 3053"
-generated_at: "2026-03-30T07:15:18.778Z"
+generated_at: "2026-03-30T07:17:06.539Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1666e - Notification of credit card issuer by seller of return o
 usc_title: 15
 usc_section: "1666e"
 chapter: 41
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 1666e"
-generated_at: "2026-03-30T07:15:11.868Z"
+generated_at: "2026-03-30T07:17:02.988Z"
 status: "active"
 ---
 

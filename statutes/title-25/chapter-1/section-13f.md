@@ -3,9 +3,9 @@ title: "Section 13f - Tribal priority allocations in Alaska"
 usc_title: 25
 usc_section: "13f"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "25 U.S.C. § 13f"
-generated_at: "2026-03-30T07:15:26.699Z"
+generated_at: "2026-03-30T07:17:17.093Z"
 status: "active"
 ---
 

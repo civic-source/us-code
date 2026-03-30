@@ -3,9 +3,9 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-03-30T07:15:04.456Z"
+generated_at: "2026-03-30T07:16:49.671Z"
 status: "active"
 ---
 

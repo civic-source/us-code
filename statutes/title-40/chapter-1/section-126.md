@@ -3,9 +3,9 @@ title: "Section 126 - Reports to Congress"
 usc_title: 40
 usc_section: "126"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "40 U.S.C. § 126"
-generated_at: "2026-03-30T07:15:49.822Z"
+generated_at: "2026-03-30T07:17:43.479Z"
 status: "active"
 ---
 

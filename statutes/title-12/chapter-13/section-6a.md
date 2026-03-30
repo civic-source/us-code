@@ -3,9 +3,9 @@ title: "Section 6a - Omitted"
 usc_title: 12
 usc_section: "6a"
 chapter: 13
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "12 U.S.C. § 6a"
-generated_at: "2026-03-30T07:15:09.781Z"
+generated_at: "2026-03-30T07:17:00.830Z"
 status: "omitted"
 ---
 

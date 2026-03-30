@@ -3,9 +3,9 @@ title: "Section 4703 - Payment of compensation; insurance"
 usc_title: 50
 usc_section: "4703"
 chapter: 57
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "50 U.S.C. § 4703"
-generated_at: "2026-03-30T07:16:19.022Z"
+generated_at: "2026-03-30T07:18:15.392Z"
 status: "active"
 ---
 

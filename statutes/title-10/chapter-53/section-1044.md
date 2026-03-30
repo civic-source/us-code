@@ -3,9 +3,9 @@ title: "Section 1044 - Legal assistance"
 usc_title: 10
 usc_section: "1044"
 chapter: 53
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 1044"
-generated_at: "2026-03-30T07:14:57.752Z"
+generated_at: "2026-03-30T07:16:55.632Z"
 status: "active"
 ---
 

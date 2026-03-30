@@ -3,9 +3,9 @@ title: "Section 1858a - Transferred"
 usc_title: 42
 usc_section: "1858a"
 chapter: 15
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 1858a"
-generated_at: "2026-03-30T07:16:11.170Z"
+generated_at: "2026-03-30T07:18:03.641Z"
 status: "transferred"
 ---
 

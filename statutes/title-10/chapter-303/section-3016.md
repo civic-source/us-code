@@ -3,9 +3,9 @@ title: "Section 3016 - Assistant Secretaries of the Army"
 usc_title: 10
 usc_section: "3016"
 chapter: 303
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 3016"
-generated_at: "2026-03-30T07:14:57.824Z"
+generated_at: "2026-03-30T07:16:55.707Z"
 status: "active"
 ---
 

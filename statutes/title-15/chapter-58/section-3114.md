@@ -3,9 +3,9 @@ title: "Section 3114 - Regional and structural employment policies and programs"
 usc_title: 15
 usc_section: "3114"
 chapter: 58
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 3114"
-generated_at: "2026-03-30T07:15:11.906Z"
+generated_at: "2026-03-30T07:17:03.025Z"
 status: "active"
 ---
 

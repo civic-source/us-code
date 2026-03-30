@@ -3,9 +3,9 @@ title: "Section 610 - Discontinuance of motor vehicle pool or system"
 usc_title: 40
 usc_section: "610"
 chapter: 5
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "40 U.S.C. § 610"
-generated_at: "2026-03-30T07:15:49.825Z"
+generated_at: "2026-03-30T07:17:43.482Z"
 status: "active"
 ---
 

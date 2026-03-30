@@ -3,9 +3,9 @@ title: "Section 12361 - Civil rights"
 usc_title: 34
 usc_section: "12361"
 chapter: 121
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "34 U.S.C. § 12361"
-generated_at: "2026-03-30T07:15:41.783Z"
+generated_at: "2026-03-30T07:17:41.345Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3482A - Vacant]"
 usc_title: 38
 usc_section: "3482A"
 chapter: 34
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "38 U.S.C. § 3482A"
-generated_at: "2026-03-30T07:15:51.183Z"
+generated_at: "2026-03-30T07:17:45.804Z"
 status: "active"
 ---
 

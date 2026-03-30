@@ -3,9 +3,9 @@ title: "Section 7456 - Repealed. Pub. L. 114–95, title VI , § 6002(q), Dec. 1
 usc_title: 20
 usc_section: "7456"
 chapter: 70
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 7456"
-generated_at: "2026-03-30T07:15:17.748Z"
+generated_at: "2026-03-30T07:17:11.988Z"
 status: "repealed"
 ---
 

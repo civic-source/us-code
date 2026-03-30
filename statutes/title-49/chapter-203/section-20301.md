@@ -3,9 +3,9 @@ title: "Section 20301 - Definition and nonapplication"
 usc_title: 49
 usc_section: "20301"
 chapter: 203
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "49 U.S.C. § 20301"
-generated_at: "2026-03-30T07:16:21.517Z"
+generated_at: "2026-03-30T07:18:21.732Z"
 status: "active"
 ---
 

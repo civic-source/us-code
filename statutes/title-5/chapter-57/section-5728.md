@@ -3,9 +3,9 @@ title: "Section 5728 - Travel and transportation expenses; vacation leave"
 usc_title: 5
 usc_section: "5728"
 chapter: 57
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "5 U.S.C. § 5728"
-generated_at: "2026-03-30T07:14:45.624Z"
+generated_at: "2026-03-30T07:16:42.351Z"
 status: "active"
 ---
 

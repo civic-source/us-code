@@ -3,9 +3,9 @@ title: "Section 1432 - Extension of price support on long staple cotton seeds an
 usc_title: 7
 usc_section: "1432"
 chapter: 35
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 1432"
-generated_at: "2026-03-30T07:15:04.422Z"
+generated_at: "2026-03-30T07:16:49.636Z"
 status: "active"
 ---
 

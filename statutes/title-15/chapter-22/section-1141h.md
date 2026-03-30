@@ -3,9 +3,9 @@ title: "Section 1141h - Examination of and opposition to request for extension o
 usc_title: 15
 usc_section: "1141h"
 chapter: 22
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 1141h"
-generated_at: "2026-03-30T07:15:11.851Z"
+generated_at: "2026-03-30T07:17:02.971Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7435 - Foreign interest"
 usc_title: 10
 usc_section: "7435"
 chapter: 641
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 7435"
-generated_at: "2026-03-30T07:14:57.841Z"
+generated_at: "2026-03-30T07:16:55.725Z"
 status: "active"
 ---
 

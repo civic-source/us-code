@@ -3,9 +3,9 @@ title: "Section 10602 - Recovery of wages and shares of fish under agreement"
 usc_title: 46
 usc_section: "10602"
 chapter: 106
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "46 U.S.C. § 10602"
-generated_at: "2026-03-30T07:16:16.870Z"
+generated_at: "2026-03-30T07:18:14.128Z"
 status: "active"
 ---
 

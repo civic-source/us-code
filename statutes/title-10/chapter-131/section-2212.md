@@ -3,9 +3,9 @@ title: "Section 2212 - Obligations for contract services: reporting in budget ob
 usc_title: 10
 usc_section: "2212"
 chapter: 131
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2212"
-generated_at: "2026-03-30T07:14:57.787Z"
+generated_at: "2026-03-30T07:16:55.668Z"
 status: "active"
 ---
 

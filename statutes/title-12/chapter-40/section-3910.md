@@ -3,9 +3,9 @@ title: "Section 3910 - Audit authority of Government Accountability Office"
 usc_title: 12
 usc_section: "3910"
 chapter: 40
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "12 U.S.C. § 3910"
-generated_at: "2026-03-30T07:15:09.839Z"
+generated_at: "2026-03-30T07:17:00.892Z"
 status: "active"
 ---
 

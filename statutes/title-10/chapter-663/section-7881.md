@@ -3,9 +3,9 @@ title: "Section 7881 - Unauthorized use of Marine Corps insignia"
 usc_title: 10
 usc_section: "7881"
 chapter: 663
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 7881"
-generated_at: "2026-03-30T07:14:57.843Z"
+generated_at: "2026-03-30T07:16:55.728Z"
 status: "active"
 ---
 

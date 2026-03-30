@@ -3,9 +3,9 @@ title: "Section 1385 - Corrective action"
 usc_title: 33
 usc_section: "1385"
 chapter: 26
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 1385"
-generated_at: "2026-03-30T07:15:42.982Z"
+generated_at: "2026-03-30T07:17:34.563Z"
 status: "active"
 ---
 

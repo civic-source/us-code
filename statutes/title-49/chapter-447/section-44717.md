@@ -3,9 +3,9 @@ title: "Section 44717 - Aging aircraft"
 usc_title: 49
 usc_section: "44717"
 chapter: 447
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "49 U.S.C. § 44717"
-generated_at: "2026-03-30T07:16:21.574Z"
+generated_at: "2026-03-30T07:18:21.764Z"
 status: "active"
 ---
 

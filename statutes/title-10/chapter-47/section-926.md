@@ -3,9 +3,9 @@ title: "Section 926 - Art. 126. Arson"
 usc_title: 10
 usc_section: "926"
 chapter: 47
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 926"
-generated_at: "2026-03-30T07:14:57.746Z"
+generated_at: "2026-03-30T07:16:55.626Z"
 status: "active"
 ---
 

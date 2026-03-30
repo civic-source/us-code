@@ -3,9 +3,9 @@ title: "Section 1027 - False statements and concealment of facts in relation to 
 usc_title: 18
 usc_section: "1027"
 chapter: 47
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "18 U.S.C. § 1027"
-generated_at: "2026-03-30T07:15:18.754Z"
+generated_at: "2026-03-30T07:17:06.516Z"
 status: "active"
 ---
 

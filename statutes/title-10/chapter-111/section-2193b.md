@@ -3,9 +3,9 @@ title: "Section 2193b - Improvement of education in technical fields: program fo
 usc_title: 10
 usc_section: "2193b"
 chapter: 111
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2193b"
-generated_at: "2026-03-30T07:14:57.787Z"
+generated_at: "2026-03-30T07:16:55.667Z"
 status: "active"
 ---
 

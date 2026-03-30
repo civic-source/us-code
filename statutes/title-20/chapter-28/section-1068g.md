@@ -3,9 +3,9 @@ title: "Section 1068g - Continuation awards"
 usc_title: 20
 usc_section: "1068g"
 chapter: 28
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 1068g"
-generated_at: "2026-03-30T07:15:17.654Z"
+generated_at: "2026-03-30T07:17:11.881Z"
 status: "active"
 ---
 

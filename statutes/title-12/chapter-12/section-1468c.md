@@ -3,9 +3,9 @@ title: "Section 1468c - Separability"
 usc_title: 12
 usc_section: "1468c"
 chapter: 12
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "12 U.S.C. § 1468c"
-generated_at: "2026-03-30T07:15:09.754Z"
+generated_at: "2026-03-30T07:17:00.801Z"
 status: "active"
 ---
 

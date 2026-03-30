@@ -3,9 +3,9 @@ title: "Section 9772 - Repealed. Pub. L. 94–579, title VII , § 704(a), Oct. 2
 usc_title: 10
 usc_section: "9772"
 chapter: 949
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 9772"
-generated_at: "2026-03-30T07:14:57.850Z"
+generated_at: "2026-03-30T07:16:55.735Z"
 status: "repealed"
 ---
 

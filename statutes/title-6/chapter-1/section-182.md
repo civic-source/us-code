@@ -3,9 +3,9 @@ title: "Section 182 - Responsibilities and authorities of the Under Secretary fo
 usc_title: 6
 usc_section: "182"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "6 U.S.C. § 182"
-generated_at: "2026-03-30T07:14:47.574Z"
+generated_at: "2026-03-30T07:16:45.362Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7292 - Naming"
 usc_title: 10
 usc_section: "7292"
 chapter: 633
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 7292"
-generated_at: "2026-03-30T07:14:57.840Z"
+generated_at: "2026-03-30T07:16:55.723Z"
 status: "active"
 ---
 

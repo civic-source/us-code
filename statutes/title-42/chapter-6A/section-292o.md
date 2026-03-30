@@ -3,9 +3,9 @@ title: "Section 292o - Definitions"
 usc_title: 42
 usc_section: "292o"
 chapter: 6
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 292o"
-generated_at: "2026-03-30T07:16:10.737Z"
+generated_at: "2026-03-30T07:18:03.379Z"
 status: "active"
 ---
 

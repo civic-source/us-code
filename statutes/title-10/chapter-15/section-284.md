@@ -3,9 +3,9 @@ title: "Section 284 - Support for counterdrug activities and activities to count
 usc_title: 10
 usc_section: "284"
 chapter: 15
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 284"
-generated_at: "2026-03-30T07:14:57.727Z"
+generated_at: "2026-03-30T07:16:55.605Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4582 - Repealed. Pub. L. 87–456, title III , § 302(d), May 24
 usc_title: 26
 usc_section: "4582"
 chapter: 38
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 4582"
-generated_at: "2026-03-30T07:15:39.090Z"
+generated_at: "2026-03-30T07:17:30.456Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2305a - Design-build selection procedures"
 usc_title: 10
 usc_section: "2305a"
 chapter: 137
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2305a"
-generated_at: "2026-03-30T07:14:57.792Z"
+generated_at: "2026-03-30T07:16:55.674Z"
 status: "active"
 ---
 

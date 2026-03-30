@@ -3,9 +3,9 @@ title: "Section 3461 - Discriminatory taxes"
 usc_title: 19
 usc_section: "3461"
 chapter: 21
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "19 U.S.C. § 3461"
-generated_at: "2026-03-30T07:15:16.051Z"
+generated_at: "2026-03-30T07:17:13.561Z"
 status: "active"
 ---
 

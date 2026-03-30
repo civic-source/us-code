@@ -3,9 +3,9 @@ title: "Section 4 - Determinations regarding contraction of covered illnesses"
 usc_title: 42
 usc_section: "4"
 chapter: 84
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T07:16:11.395Z"
+generated_at: "2026-03-30T07:18:03.777Z"
 status: "active"
 ---
 

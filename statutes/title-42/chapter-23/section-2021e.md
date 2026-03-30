@@ -3,9 +3,9 @@ title: "Section 2021e - Limited availability of certain regional disposal facili
 usc_title: 42
 usc_section: "2021e"
 chapter: 23
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 2021e"
-generated_at: "2026-03-30T07:16:11.200Z"
+generated_at: "2026-03-30T07:18:03.659Z"
 status: "active"
 ---
 

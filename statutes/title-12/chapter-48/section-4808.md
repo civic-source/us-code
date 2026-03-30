@@ -3,9 +3,9 @@ title: "Section 4808 - Revising regulatory requirements for transfers of all typ
 usc_title: 12
 usc_section: "4808"
 chapter: 48
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "12 U.S.C. § 4808"
-generated_at: "2026-03-30T07:15:09.857Z"
+generated_at: "2026-03-30T07:17:00.912Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6151 - Compensation of Secretaries for Senate Majority and Minor
 usc_title: 2
 usc_section: "6151"
 chapter: 61
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "2 U.S.C. § 6151"
-generated_at: "2026-03-30T07:14:20.295Z"
+generated_at: "2026-03-30T07:16:40.007Z"
 status: "active"
 ---
 

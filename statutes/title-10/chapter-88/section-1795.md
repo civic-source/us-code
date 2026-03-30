@@ -3,9 +3,9 @@ title: "Section 1795 - Parent partnerships with child development centers"
 usc_title: 10
 usc_section: "1795"
 chapter: 88
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 1795"
-generated_at: "2026-03-30T07:14:57.782Z"
+generated_at: "2026-03-30T07:16:55.661Z"
 status: "active"
 ---
 

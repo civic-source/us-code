@@ -3,9 +3,9 @@ title: "Section 315m - Lease of isolated or disconnected tracts for grazing; pre
 usc_title: 43
 usc_section: "315m"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "43 U.S.C. § 315m"
-generated_at: "2026-03-30T07:15:55.043Z"
+generated_at: "2026-03-30T07:17:48.373Z"
 status: "active"
 ---
 

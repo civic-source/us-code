@@ -3,9 +3,9 @@ title: "Section 5504 - Officers of Senate"
 usc_title: 2
 usc_section: "5504"
 chapter: 55
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "2 U.S.C. § 5504"
-generated_at: "2026-03-30T07:14:20.293Z"
+generated_at: "2026-03-30T07:16:40.005Z"
 status: "active"
 ---
 

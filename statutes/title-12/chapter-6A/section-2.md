@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 102–429, title I , § 121(c)(1), Oct. 21
 usc_title: 12
 usc_section: "2"
 chapter: 6
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T07:15:09.740Z"
+generated_at: "2026-03-30T07:17:00.788Z"
 status: "repealed"
 ---
 

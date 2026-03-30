@@ -3,9 +3,9 @@ title: "Section 686 - Operation of local game laws not affected"
 usc_title: 16
 usc_section: "686"
 chapter: 6
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 686"
-generated_at: "2026-03-30T07:15:20.989Z"
+generated_at: "2026-03-30T07:17:10.048Z"
 status: "active"
 ---
 

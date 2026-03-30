@@ -3,9 +3,9 @@ title: "Section 8416 - Survivor reduction for a current spouse"
 usc_title: 5
 usc_section: "8416"
 chapter: 84
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "5 U.S.C. § 8416"
-generated_at: "2026-03-30T07:14:45.645Z"
+generated_at: "2026-03-30T07:16:42.376Z"
 status: "active"
 ---
 

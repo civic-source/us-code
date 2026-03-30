@@ -3,9 +3,9 @@ title: "Section 10643 - Statewide strategic prevention plan"
 usc_title: 34
 usc_section: "10643"
 chapter: 101
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "34 U.S.C. § 10643"
-generated_at: "2026-03-30T07:15:41.771Z"
+generated_at: "2026-03-30T07:17:41.334Z"
 status: "active"
 ---
 

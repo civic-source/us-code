@@ -3,9 +3,9 @@ title: "Section 16061 - Hybrid vehicles"
 usc_title: 42
 usc_section: "16061"
 chapter: 149
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 16061"
-generated_at: "2026-03-30T07:16:11.629Z"
+generated_at: "2026-03-30T07:18:03.919Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7945 - Preemption and election of State nonapplicability"
 usc_title: 20
 usc_section: "7945"
 chapter: 70
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 7945"
-generated_at: "2026-03-30T07:15:17.755Z"
+generated_at: "2026-03-30T07:17:11.997Z"
 status: "active"
 ---
 

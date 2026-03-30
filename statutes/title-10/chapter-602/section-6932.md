@@ -3,9 +3,9 @@ title: "Section 6932 - Recruit basic training: privacy"
 usc_title: 10
 usc_section: "6932"
 chapter: 602
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 6932"
-generated_at: "2026-03-30T07:14:57.837Z"
+generated_at: "2026-03-30T07:16:55.721Z"
 status: "active"
 ---
 

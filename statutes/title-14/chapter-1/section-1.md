@@ -3,9 +3,9 @@ title: "Section 1 - Establishment of Coast Guard"
 usc_title: 14
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-30T07:15:06.622Z"
+generated_at: "2026-03-30T07:16:57.724Z"
 status: "active"
 ---
 

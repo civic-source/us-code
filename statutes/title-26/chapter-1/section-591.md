@@ -3,9 +3,9 @@ title: "Section 591 - Deduction for dividends paid on deposits"
 usc_title: 26
 usc_section: "591"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 591"
-generated_at: "2026-03-30T07:15:39.018Z"
+generated_at: "2026-03-30T07:17:30.379Z"
 status: "active"
 ---
 

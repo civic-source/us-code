@@ -3,9 +3,9 @@ title: "Section 3035 - Deputy Chiefs of Staff and Assistant Chiefs of Staff"
 usc_title: 10
 usc_section: "3035"
 chapter: 305
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 3035"
-generated_at: "2026-03-30T07:14:57.825Z"
+generated_at: "2026-03-30T07:16:55.708Z"
 status: "active"
 ---
 

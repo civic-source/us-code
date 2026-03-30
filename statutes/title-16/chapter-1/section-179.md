@@ -3,9 +3,9 @@ title: "Section 179 - Donations of buildings and other property"
 usc_title: 16
 usc_section: "179"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 179"
-generated_at: "2026-03-30T07:15:20.887Z"
+generated_at: "2026-03-30T07:17:09.946Z"
 status: "active"
 ---
 

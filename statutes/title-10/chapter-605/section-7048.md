@@ -3,9 +3,9 @@ title: "Section 7048 - Degree granting authority for United States Naval Postgra
 usc_title: 10
 usc_section: "7048"
 chapter: 605
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 7048"
-generated_at: "2026-03-30T07:14:57.838Z"
+generated_at: "2026-03-30T07:16:55.722Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 802 - Congressional disapproval procedure"
 usc_title: 5
 usc_section: "802"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "5 U.S.C. § 802"
-generated_at: "2026-03-30T07:14:45.599Z"
+generated_at: "2026-03-30T07:16:42.323Z"
 status: "active"
 ---
 

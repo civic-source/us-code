@@ -3,9 +3,9 @@ title: "Section 274 - International Council of Scientific Unions and Associated 
 usc_title: 22
 usc_section: "274"
 chapter: 7
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 274"
-generated_at: "2026-03-30T07:15:28.961Z"
+generated_at: "2026-03-30T07:17:20.744Z"
 status: "active"
 ---
 

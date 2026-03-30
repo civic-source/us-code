@@ -3,9 +3,9 @@ title: "Section 16615 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16615"
 chapter: 150
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 16615"
-generated_at: "2026-03-30T07:16:11.650Z"
+generated_at: "2026-03-30T07:18:03.930Z"
 status: "repealed"
 ---
 

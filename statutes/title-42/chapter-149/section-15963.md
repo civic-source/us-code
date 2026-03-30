@@ -3,9 +3,9 @@ title: "Section 15963 - Report"
 usc_title: 42
 usc_section: "15963"
 chapter: 149
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 15963"
-generated_at: "2026-03-30T07:16:11.627Z"
+generated_at: "2026-03-30T07:18:03.918Z"
 status: "active"
 ---
 

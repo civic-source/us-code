@@ -3,9 +3,9 @@ title: "Section 228 - Buildings on privately owned lands"
 usc_title: 16
 usc_section: "228"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 228"
-generated_at: "2026-03-30T07:15:20.891Z"
+generated_at: "2026-03-30T07:17:09.949Z"
 status: "active"
 ---
 

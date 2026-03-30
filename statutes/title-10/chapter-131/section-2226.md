@@ -3,9 +3,9 @@ title: "Section 2226 - Contracted property and services: prompt payment of vouch
 usc_title: 10
 usc_section: "2226"
 chapter: 131
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2226"
-generated_at: "2026-03-30T07:14:57.789Z"
+generated_at: "2026-03-30T07:16:55.669Z"
 status: "active"
 ---
 

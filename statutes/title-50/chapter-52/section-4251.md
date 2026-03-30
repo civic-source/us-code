@@ -3,9 +3,9 @@ title: "Section 4251 - Exclusion of claims"
 usc_title: 50
 usc_section: "4251"
 chapter: 52
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "50 U.S.C. § 4251"
-generated_at: "2026-03-30T07:16:19.001Z"
+generated_at: "2026-03-30T07:18:15.381Z"
 status: "active"
 ---
 

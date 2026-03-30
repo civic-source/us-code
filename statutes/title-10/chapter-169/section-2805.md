@@ -3,9 +3,9 @@ title: "Section 2805 - Unspecified minor construction"
 usc_title: 10
 usc_section: "2805"
 chapter: 169
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2805"
-generated_at: "2026-03-30T07:14:57.819Z"
+generated_at: "2026-03-30T07:16:55.703Z"
 status: "active"
 ---
 

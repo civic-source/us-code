@@ -3,9 +3,9 @@ title: "Section 9858c - Application and plan"
 usc_title: 42
 usc_section: "9858c"
 chapter: 105
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 9858c"
-generated_at: "2026-03-30T07:16:11.502Z"
+generated_at: "2026-03-30T07:18:03.842Z"
 status: "active"
 ---
 

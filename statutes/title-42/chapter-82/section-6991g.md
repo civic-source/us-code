@@ -3,9 +3,9 @@ title: "Section 6991g - State authority"
 usc_title: 42
 usc_section: "6991g"
 chapter: 82
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 6991g"
-generated_at: "2026-03-30T07:16:11.378Z"
+generated_at: "2026-03-30T07:18:03.768Z"
 status: "active"
 ---
 

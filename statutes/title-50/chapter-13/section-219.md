@@ -3,9 +3,9 @@ title: "Section 219 - Removal of customhouse and detention of vessels thereat"
 usc_title: 50
 usc_section: "219"
 chapter: 13
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "50 U.S.C. § 219"
-generated_at: "2026-03-30T07:16:18.919Z"
+generated_at: "2026-03-30T07:18:15.330Z"
 status: "active"
 ---
 

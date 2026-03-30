@@ -3,9 +3,9 @@ title: "Section 5672 - Penalty for failure of brewer to comply with requirements
 usc_title: 26
 usc_section: "5672"
 chapter: 51
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 5672"
-generated_at: "2026-03-30T07:15:39.109Z"
+generated_at: "2026-03-30T07:17:30.476Z"
 status: "active"
 ---
 

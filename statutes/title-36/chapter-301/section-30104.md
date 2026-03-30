@@ -3,9 +3,9 @@ title: "Section 30104 - Governing body"
 usc_title: 36
 usc_section: "30104"
 chapter: 301
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "36 U.S.C. § 30104"
-generated_at: "2026-03-30T07:15:49.374Z"
+generated_at: "2026-03-30T07:17:44.084Z"
 status: "active"
 ---
 

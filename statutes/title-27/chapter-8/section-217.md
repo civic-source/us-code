@@ -3,9 +3,9 @@ title: "Section 217 - Report to Congress"
 usc_title: 27
 usc_section: "217"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "27 U.S.C. § 217"
-generated_at: "2026-03-30T07:15:30.663Z"
+generated_at: "2026-03-30T07:17:22.510Z"
 status: "active"
 ---
 

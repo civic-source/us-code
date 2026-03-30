@@ -3,9 +3,9 @@ title: "Section 369 - Charges assessable against bath attendants and masseurs an
 usc_title: 16
 usc_section: "369"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 369"
-generated_at: "2026-03-30T07:15:20.896Z"
+generated_at: "2026-03-30T07:17:09.954Z"
 status: "active"
 ---
 

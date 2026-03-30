@@ -3,9 +3,9 @@ title: "Section 3965 - Restoration to former grade: retired warrant officers and
 usc_title: 10
 usc_section: "3965"
 chapter: 369
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 3965"
-generated_at: "2026-03-30T07:14:57.827Z"
+generated_at: "2026-03-30T07:16:55.711Z"
 status: "active"
 ---
 

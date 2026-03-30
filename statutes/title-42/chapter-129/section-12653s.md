@@ -3,9 +3,9 @@ title: "Section 12653s - Nonprofit capacity building"
 usc_title: 42
 usc_section: "12653s"
 chapter: 129
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 12653s"
-generated_at: "2026-03-30T07:16:11.575Z"
+generated_at: "2026-03-30T07:18:03.887Z"
 status: "active"
 ---
 

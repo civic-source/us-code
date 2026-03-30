@@ -3,9 +3,9 @@ title: "Section 8303 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "8303"
 chapter: 835
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 8303"
-generated_at: "2026-03-30T07:14:57.845Z"
+generated_at: "2026-03-30T07:16:55.729Z"
 status: "repealed"
 ---
 

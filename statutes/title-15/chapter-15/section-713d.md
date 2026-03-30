@@ -3,9 +3,9 @@ title: "Section 713d - Declaration of purpose"
 usc_title: 15
 usc_section: "713d"
 chapter: 15
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 713d"
-generated_at: "2026-03-30T07:15:11.840Z"
+generated_at: "2026-03-30T07:17:02.960Z"
 status: "active"
 ---
 

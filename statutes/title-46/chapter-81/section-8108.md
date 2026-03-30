@@ -3,9 +3,9 @@ title: "Section 8108 - Merchant Marine Personnel Advisory Committee"
 usc_title: 46
 usc_section: "8108"
 chapter: 81
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "46 U.S.C. § 8108"
-generated_at: "2026-03-30T07:16:16.867Z"
+generated_at: "2026-03-30T07:18:14.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7021 - Transferable records"
 usc_title: 15
 usc_section: "7021"
 chapter: 96
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 7021"
-generated_at: "2026-03-30T07:15:11.932Z"
+generated_at: "2026-03-30T07:17:03.051Z"
 status: "active"
 ---
 

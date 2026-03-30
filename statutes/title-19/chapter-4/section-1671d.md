@@ -3,9 +3,9 @@ title: "Section 1671d - Final determinations"
 usc_title: 19
 usc_section: "1671d"
 chapter: 4
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "19 U.S.C. § 1671d"
-generated_at: "2026-03-30T07:15:16.014Z"
+generated_at: "2026-03-30T07:17:13.521Z"
 status: "active"
 ---
 

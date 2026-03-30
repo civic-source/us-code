@@ -3,9 +3,9 @@ title: "Section 1824 - Relations between courts of United States and courts of N
 usc_title: 48
 usc_section: "1824"
 chapter: 17
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "48 U.S.C. § 1824"
-generated_at: "2026-03-30T07:16:17.373Z"
+generated_at: "2026-03-30T07:18:06.893Z"
 status: "active"
 ---
 

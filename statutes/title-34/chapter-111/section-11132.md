@@ -3,9 +3,9 @@ title: "Section 11132 - Allocation of funds"
 usc_title: 34
 usc_section: "11132"
 chapter: 111
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "34 U.S.C. § 11132"
-generated_at: "2026-03-30T07:15:41.774Z"
+generated_at: "2026-03-30T07:17:41.337Z"
 status: "active"
 ---
 

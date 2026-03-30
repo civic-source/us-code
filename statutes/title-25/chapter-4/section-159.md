@@ -3,9 +3,9 @@ title: "Section 159 - Moneys due incompetents or orphans"
 usc_title: 25
 usc_section: "159"
 chapter: 4
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "25 U.S.C. § 159"
-generated_at: "2026-03-30T07:15:26.704Z"
+generated_at: "2026-03-30T07:17:17.095Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 226b - Repealed. Aug. 8, 1946, ch. 916 , § 14, 60 Stat. 958"
 usc_title: 30
 usc_section: "226b"
 chapter: 3
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "30 U.S.C. § 226b"
-generated_at: "2026-03-30T07:15:31.383Z"
+generated_at: "2026-03-30T07:17:23.337Z"
 status: "repealed"
 ---
 

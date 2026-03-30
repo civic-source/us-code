@@ -3,9 +3,9 @@ title: "Section 2245a - Repealed. Pub. L. 114–328, div. A, title VIII , § 833
 usc_title: 10
 usc_section: "2245a"
 chapter: 134
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2245a"
-generated_at: "2026-03-30T07:14:57.790Z"
+generated_at: "2026-03-30T07:16:55.670Z"
 status: "repealed"
 ---
 

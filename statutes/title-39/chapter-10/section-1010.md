@@ -3,9 +3,9 @@ title: "Section 1010 - Administration of oaths related to postal inspection matt
 usc_title: 39
 usc_section: "1010"
 chapter: 10
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "39 U.S.C. § 1010"
-generated_at: "2026-03-30T07:15:52.178Z"
+generated_at: "2026-03-30T07:17:42.873Z"
 status: "active"
 ---
 

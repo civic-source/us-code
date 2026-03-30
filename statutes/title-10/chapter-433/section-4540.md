@@ -3,9 +3,9 @@ title: "Section 4540 - Architectural and engineering services"
 usc_title: 10
 usc_section: "4540"
 chapter: 433
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 4540"
-generated_at: "2026-03-30T07:14:57.829Z"
+generated_at: "2026-03-30T07:16:55.713Z"
 status: "active"
 ---
 

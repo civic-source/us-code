@@ -3,9 +3,9 @@ title: "Section 18 - Same; parliamentary procedure at joint meeting"
 usc_title: 3
 usc_section: "18"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "3 U.S.C. § 18"
-generated_at: "2026-03-30T07:14:24.074Z"
+generated_at: "2026-03-30T07:16:38.800Z"
 status: "active"
 ---
 

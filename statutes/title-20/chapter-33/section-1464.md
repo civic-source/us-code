@@ -3,9 +3,9 @@ title: "Section 1464 - Studies and evaluations"
 usc_title: 20
 usc_section: "1464"
 chapter: 33
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 1464"
-generated_at: "2026-03-30T07:15:17.708Z"
+generated_at: "2026-03-30T07:17:11.943Z"
 status: "active"
 ---
 

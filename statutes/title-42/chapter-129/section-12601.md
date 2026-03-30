@@ -3,9 +3,9 @@ title: "Section 12601 - Establishment of the National Service Trust"
 usc_title: 42
 usc_section: "12601"
 chapter: 129
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 12601"
-generated_at: "2026-03-30T07:16:11.563Z"
+generated_at: "2026-03-30T07:18:03.880Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 25 - Scholarship component"
 usc_title: 20
 usc_section: "25"
 chapter: 28
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 25"
-generated_at: "2026-03-30T07:15:17.656Z"
+generated_at: "2026-03-30T07:17:11.884Z"
 status: "active"
 ---
 

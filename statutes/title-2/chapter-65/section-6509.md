@@ -3,9 +3,9 @@ title: "Section 6509 - Vouchering Senate office charges"
 usc_title: 2
 usc_section: "6509"
 chapter: 65
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "2 U.S.C. § 6509"
-generated_at: "2026-03-30T07:14:20.296Z"
+generated_at: "2026-03-30T07:16:40.008Z"
 status: "active"
 ---
 

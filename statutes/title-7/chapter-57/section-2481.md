@@ -3,9 +3,9 @@ title: "Section 2481 - Plant variety protection"
 usc_title: 7
 usc_section: "2481"
 chapter: 57
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 2481"
-generated_at: "2026-03-30T07:15:04.475Z"
+generated_at: "2026-03-30T07:16:49.692Z"
 status: "active"
 ---
 

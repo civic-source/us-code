@@ -3,9 +3,9 @@ title: "Section 246 - Repealed. June 10, 1948, ch. 437 , § 1, 62 Stat. 352"
 usc_title: 16
 usc_section: "246"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 246"
-generated_at: "2026-03-30T07:15:20.893Z"
+generated_at: "2026-03-30T07:17:09.951Z"
 status: "repealed"
 ---
 

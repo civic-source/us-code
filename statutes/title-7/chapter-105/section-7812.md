@@ -3,9 +3,9 @@ title: "Section 7812 - Regulations"
 usc_title: 7
 usc_section: "7812"
 chapter: 105
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 7812"
-generated_at: "2026-03-30T07:15:04.529Z"
+generated_at: "2026-03-30T07:16:49.750Z"
 status: "active"
 ---
 

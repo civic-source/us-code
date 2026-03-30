@@ -3,9 +3,9 @@ title: "Section 571 - Office of Emergency Communications"
 usc_title: 6
 usc_section: "571"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "6 U.S.C. § 571"
-generated_at: "2026-03-30T07:14:47.590Z"
+generated_at: "2026-03-30T07:16:45.381Z"
 status: "active"
 ---
 

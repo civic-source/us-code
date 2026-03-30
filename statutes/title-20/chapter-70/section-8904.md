@@ -3,9 +3,9 @@ title: "Section 8904 - Repealed. Pub. L. 107–110, title X , § 1011(5)(C), Jan
 usc_title: 20
 usc_section: "8904"
 chapter: 70
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 8904"
-generated_at: "2026-03-30T07:15:17.756Z"
+generated_at: "2026-03-30T07:17:11.998Z"
 status: "repealed"
 ---
 

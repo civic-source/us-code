@@ -3,9 +3,9 @@ title: "Section 4101b - National Flood Mapping Program"
 usc_title: 42
 usc_section: "4101b"
 chapter: 50
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 4101b"
-generated_at: "2026-03-30T07:16:11.271Z"
+generated_at: "2026-03-30T07:18:03.702Z"
 status: "active"
 ---
 

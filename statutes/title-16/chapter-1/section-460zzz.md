@@ -3,9 +3,9 @@ title: "Section 460zzz - Definitions"
 usc_title: 16
 usc_section: "460zzz"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 460zzz"
-generated_at: "2026-03-30T07:15:20.962Z"
+generated_at: "2026-03-30T07:17:10.017Z"
 status: "active"
 ---
 

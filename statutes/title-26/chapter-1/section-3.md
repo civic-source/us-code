@@ -3,9 +3,9 @@ title: "Section 3 - Tax tables for individuals"
 usc_title: 26
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 3"
-generated_at: "2026-03-30T07:15:38.916Z"
+generated_at: "2026-03-30T07:17:30.272Z"
 status: "active"
 ---
 

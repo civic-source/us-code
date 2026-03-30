@@ -3,9 +3,9 @@ title: "Section 7851 - Composition"
 usc_title: 10
 usc_section: "7851"
 chapter: 659
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 7851"
-generated_at: "2026-03-30T07:14:57.843Z"
+generated_at: "2026-03-30T07:16:55.728Z"
 status: "active"
 ---
 

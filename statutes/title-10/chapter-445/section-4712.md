@@ -3,9 +3,9 @@ title: "Section 4712 - Disposition of effects of deceased persons by summary cou
 usc_title: 10
 usc_section: "4712"
 chapter: 445
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 4712"
-generated_at: "2026-03-30T07:14:57.830Z"
+generated_at: "2026-03-30T07:16:55.714Z"
 status: "active"
 ---
 

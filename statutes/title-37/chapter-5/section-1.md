@@ -3,9 +3,9 @@ title: "Section 1 - Special pay: accession and retention bonuses for psychologis
 usc_title: 37
 usc_section: "1"
 chapter: 5
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "37 U.S.C. § 1"
-generated_at: "2026-03-30T07:15:48.665Z"
+generated_at: "2026-03-30T07:17:44.420Z"
 status: "active"
 ---
 

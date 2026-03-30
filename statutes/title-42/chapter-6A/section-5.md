@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 6
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T07:16:10.835Z"
+generated_at: "2026-03-30T07:18:03.436Z"
 status: "active"
 ---
 

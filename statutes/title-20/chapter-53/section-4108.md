@@ -3,9 +3,9 @@ title: "Section 4108 - Repealed. Pub. L. 100–297, title I , § 1003(c), Apr. 2
 usc_title: 20
 usc_section: "4108"
 chapter: 53
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 4108"
-generated_at: "2026-03-30T07:15:17.721Z"
+generated_at: "2026-03-30T07:17:11.958Z"
 status: "repealed"
 ---
 

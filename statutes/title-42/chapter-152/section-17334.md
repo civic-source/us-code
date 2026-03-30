@@ -3,9 +3,9 @@ title: "Section 17334 - Actions by Overseas Private Investment Corporation"
 usc_title: 42
 usc_section: "17334"
 chapter: 152
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 17334"
-generated_at: "2026-03-30T07:16:11.664Z"
+generated_at: "2026-03-30T07:18:03.938Z"
 status: "active"
 ---
 

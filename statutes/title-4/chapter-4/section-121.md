@@ -3,9 +3,9 @@ title: "Section 121 - Correction of erroneous data for place of primary use"
 usc_title: 4
 usc_section: "121"
 chapter: 4
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "4 U.S.C. § 121"
-generated_at: "2026-03-30T07:14:27.313Z"
+generated_at: "2026-03-30T07:16:38.717Z"
 status: "active"
 ---
 

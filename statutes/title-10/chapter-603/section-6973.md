@@ -3,9 +3,9 @@ title: "Section 6973 - Gifts, bequests, and loans of property: acceptance for be
 usc_title: 10
 usc_section: "6973"
 chapter: 603
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 6973"
-generated_at: "2026-03-30T07:14:57.838Z"
+generated_at: "2026-03-30T07:16:55.722Z"
 status: "active"
 ---
 

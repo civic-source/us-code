@@ -3,9 +3,9 @@ title: "Section 8 - Definitions"
 usc_title: 42
 usc_section: "8"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T07:16:11.130Z"
+generated_at: "2026-03-30T07:18:03.616Z"
 status: "active"
 ---
 

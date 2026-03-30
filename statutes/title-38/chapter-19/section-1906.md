@@ -3,9 +3,9 @@ title: "Section 1906 - Policy provisions"
 usc_title: 38
 usc_section: "1906"
 chapter: 19
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "38 U.S.C. § 1906"
-generated_at: "2026-03-30T07:15:51.167Z"
+generated_at: "2026-03-30T07:17:45.789Z"
 status: "active"
 ---
 

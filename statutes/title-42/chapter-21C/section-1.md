@@ -3,9 +3,9 @@ title: "Section 1 - Protection of religious exercise of institutionalized person
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T07:16:11.194Z"
+generated_at: "2026-03-30T07:18:03.655Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3256 - Repealed. Pub. L. 90–235 , § 2(a)(2)(B), Jan. 2, 1968 
 usc_title: 10
 usc_section: "3256"
 chapter: 333
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 3256"
-generated_at: "2026-03-30T07:14:57.825Z"
+generated_at: "2026-03-30T07:16:55.709Z"
 status: "repealed"
 ---
 

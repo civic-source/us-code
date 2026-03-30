@@ -3,9 +3,9 @@ title: "Section 59h - Northern Embarcadero area, San Francisco, California"
 usc_title: 33
 usc_section: "59h"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 59h"
-generated_at: "2026-03-30T07:15:42.935Z"
+generated_at: "2026-03-30T07:17:34.517Z"
 status: "active"
 ---
 

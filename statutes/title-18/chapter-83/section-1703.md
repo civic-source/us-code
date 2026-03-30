@@ -3,9 +3,9 @@ title: "Section 1703 - Delay or destruction of mail or newspapers"
 usc_title: 18
 usc_section: "1703"
 chapter: 83
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "18 U.S.C. § 1703"
-generated_at: "2026-03-30T07:15:18.762Z"
+generated_at: "2026-03-30T07:17:06.523Z"
 status: "active"
 ---
 

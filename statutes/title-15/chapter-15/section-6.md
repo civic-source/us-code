@@ -3,9 +3,9 @@ title: "Section 6 - Sale of surplus agricultural commodities to foreign governme
 usc_title: 15
 usc_section: "6"
 chapter: 15
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-30T07:15:11.839Z"
+generated_at: "2026-03-30T07:17:02.959Z"
 status: "active"
 ---
 

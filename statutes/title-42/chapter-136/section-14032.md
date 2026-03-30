@@ -3,9 +3,9 @@ title: "Section 14032 - Transferred"
 usc_title: 42
 usc_section: "14032"
 chapter: 136
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 14032"
-generated_at: "2026-03-30T07:16:11.606Z"
+generated_at: "2026-03-30T07:18:03.906Z"
 status: "transferred"
 ---
 

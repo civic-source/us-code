@@ -3,9 +3,9 @@ title: "Section 971f - Enforcement"
 usc_title: 16
 usc_section: "971f"
 chapter: 16
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "16 U.S.C. § 971f"
-generated_at: "2026-03-30T07:15:21.020Z"
+generated_at: "2026-03-30T07:17:10.076Z"
 status: "active"
 ---
 

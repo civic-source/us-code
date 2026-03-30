@@ -3,9 +3,9 @@ title: "Section 5933 - Assistive technology program for farmers with disabilitie
 usc_title: 7
 usc_section: "5933"
 chapter: 88
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 5933"
-generated_at: "2026-03-30T07:15:04.499Z"
+generated_at: "2026-03-30T07:16:49.719Z"
 status: "active"
 ---
 

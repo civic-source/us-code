@@ -3,9 +3,9 @@ title: "Section 268 - Quarantine duties of consular and other officers"
 usc_title: 42
 usc_section: "268"
 chapter: 6
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 268"
-generated_at: "2026-03-30T07:16:10.674Z"
+generated_at: "2026-03-30T07:18:03.341Z"
 status: "active"
 ---
 

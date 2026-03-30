@@ -3,9 +3,9 @@ title: "Section 30104 - Improved investigative and forensic resources for enforc
 usc_title: 34
 usc_section: "30104"
 chapter: 301
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "34 U.S.C. § 30104"
-generated_at: "2026-03-30T07:15:41.798Z"
+generated_at: "2026-03-30T07:17:41.361Z"
 status: "active"
 ---
 

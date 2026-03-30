@@ -3,9 +3,9 @@ title: "Section 3713 - Panama Canal emergency authority"
 usc_title: 22
 usc_section: "3713"
 chapter: 51
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 3713"
-generated_at: "2026-03-30T07:15:29.033Z"
+generated_at: "2026-03-30T07:17:20.819Z"
 status: "active"
 ---
 

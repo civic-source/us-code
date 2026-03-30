@@ -3,9 +3,9 @@ title: "Section 13901 - Requirements for registration"
 usc_title: 49
 usc_section: "13901"
 chapter: 139
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "49 U.S.C. § 13901"
-generated_at: "2026-03-30T07:16:21.505Z"
+generated_at: "2026-03-30T07:18:21.724Z"
 status: "active"
 ---
 

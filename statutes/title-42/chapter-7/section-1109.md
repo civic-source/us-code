@@ -3,9 +3,9 @@ title: "Section 1109 - Federal Employees Compensation Account"
 usc_title: 42
 usc_section: "1109"
 chapter: 7
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 1109"
-generated_at: "2026-03-30T07:16:10.901Z"
+generated_at: "2026-03-30T07:18:03.477Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 902 - Definitions"
 usc_title: 5
 usc_section: "902"
 chapter: 9
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "5 U.S.C. § 902"
-generated_at: "2026-03-30T07:14:45.599Z"
+generated_at: "2026-03-30T07:16:42.323Z"
 status: "active"
 ---
 

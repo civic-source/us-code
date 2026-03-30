@@ -3,9 +3,9 @@ title: "Section 5100 - Repealed. Pub. L. 102–182 , § 4, Dec. 4, 1991 , 105 St
 usc_title: 22
 usc_section: "5100"
 chapter: 60
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 5100"
-generated_at: "2026-03-30T07:15:29.051Z"
+generated_at: "2026-03-30T07:17:20.839Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2461 - Exchanges between United States and independent states of
 usc_title: 22
 usc_section: "2461"
 chapter: 33
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 2461"
-generated_at: "2026-03-30T07:15:29.013Z"
+generated_at: "2026-03-30T07:17:20.799Z"
 status: "active"
 ---
 

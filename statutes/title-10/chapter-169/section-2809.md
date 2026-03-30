@@ -3,9 +3,9 @@ title: "Section 2809 - Long-term facilities contracts for certain activities and
 usc_title: 10
 usc_section: "2809"
 chapter: 169
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2809"
-generated_at: "2026-03-30T07:14:57.820Z"
+generated_at: "2026-03-30T07:16:55.703Z"
 status: "active"
 ---
 

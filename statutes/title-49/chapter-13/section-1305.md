@@ -3,9 +3,9 @@ title: "Section 1305 - Authorization of appropriations"
 usc_title: 49
 usc_section: "1305"
 chapter: 13
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "49 U.S.C. § 1305"
-generated_at: "2026-03-30T07:16:21.476Z"
+generated_at: "2026-03-30T07:18:21.707Z"
 status: "active"
 ---
 

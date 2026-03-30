@@ -3,9 +3,9 @@ title: "Section 49f - Percentage disposition of allotted funds"
 usc_title: 29
 usc_section: "49f"
 chapter: 4
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "29 U.S.C. § 49f"
-generated_at: "2026-03-30T07:15:34.184Z"
+generated_at: "2026-03-30T07:17:24.555Z"
 status: "active"
 ---
 

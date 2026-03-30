@@ -3,9 +3,9 @@ title: "Section 2463 - Guidelines and procedures for use of civilian employees t
 usc_title: 10
 usc_section: "2463"
 chapter: 146
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 2463"
-generated_at: "2026-03-30T07:14:57.806Z"
+generated_at: "2026-03-30T07:16:55.688Z"
 status: "active"
 ---
 

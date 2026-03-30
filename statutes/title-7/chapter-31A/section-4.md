@@ -3,9 +3,9 @@ title: "Section 4 - Regulations"
 usc_title: 7
 usc_section: "4"
 chapter: 31
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T07:15:04.412Z"
+generated_at: "2026-03-30T07:16:49.626Z"
 status: "active"
 ---
 

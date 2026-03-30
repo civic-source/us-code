@@ -3,9 +3,9 @@ title: "Section 22702 - Authority"
 usc_title: 49
 usc_section: "22702"
 chapter: 227
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "49 U.S.C. § 22702"
-generated_at: "2026-03-30T07:16:21.520Z"
+generated_at: "2026-03-30T07:18:21.733Z"
 status: "active"
 ---
 

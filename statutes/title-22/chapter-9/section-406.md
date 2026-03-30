@@ -3,9 +3,9 @@ title: "Section 406 - Interference with foreign trade"
 usc_title: 22
 usc_section: "406"
 chapter: 9
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 406"
-generated_at: "2026-03-30T07:15:28.975Z"
+generated_at: "2026-03-30T07:17:20.760Z"
 status: "active"
 ---
 

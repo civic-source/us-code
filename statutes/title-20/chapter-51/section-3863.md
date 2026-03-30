@@ -3,9 +3,9 @@ title: "Section 3863 - Repealed. Pub. L. 100–297, title I , § 1003(a), Apr. 2
 usc_title: 20
 usc_section: "3863"
 chapter: 51
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 3863"
-generated_at: "2026-03-30T07:15:17.719Z"
+generated_at: "2026-03-30T07:17:11.956Z"
 status: "repealed"
 ---
 

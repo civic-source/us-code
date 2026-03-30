@@ -3,9 +3,9 @@ title: "Section 192 - Defense Agencies and Department of Defense Field Activitie
 usc_title: 10
 usc_section: "192"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 192"
-generated_at: "2026-03-30T07:14:57.723Z"
+generated_at: "2026-03-30T07:16:55.603Z"
 status: "active"
 ---
 

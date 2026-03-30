@@ -3,9 +3,9 @@ title: "Section 520 - Limitation on enlistment and induction of persons whose sc
 usc_title: 10
 usc_section: "520"
 chapter: 31
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 520"
-generated_at: "2026-03-30T07:14:57.733Z"
+generated_at: "2026-03-30T07:16:55.612Z"
 status: "active"
 ---
 

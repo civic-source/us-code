@@ -3,9 +3,9 @@ title: "Section 2b - Transferred"
 usc_title: 42
 usc_section: "2b"
 chapter: 20
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 2b"
-generated_at: "2026-03-30T07:16:11.185Z"
+generated_at: "2026-03-30T07:18:03.650Z"
 status: "transferred"
 ---
 

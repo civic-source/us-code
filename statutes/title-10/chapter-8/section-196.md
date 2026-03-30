@@ -3,9 +3,9 @@ title: "Section 196 - Department of Defense Test Resource Management Center"
 usc_title: 10
 usc_section: "196"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 196"
-generated_at: "2026-03-30T07:14:57.724Z"
+generated_at: "2026-03-30T07:16:55.603Z"
 status: "active"
 ---
 

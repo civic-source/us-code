@@ -3,9 +3,9 @@ title: "Section 5184 - Community disaster loans"
 usc_title: 42
 usc_section: "5184"
 chapter: 68
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 5184"
-generated_at: "2026-03-30T07:16:11.305Z"
+generated_at: "2026-03-30T07:18:03.723Z"
 status: "active"
 ---
 

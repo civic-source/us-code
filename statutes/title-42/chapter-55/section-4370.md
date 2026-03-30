@@ -3,9 +3,9 @@ title: "Section 4370 - Reimbursement for use of facilities"
 usc_title: 42
 usc_section: "4370"
 chapter: 55
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 4370"
-generated_at: "2026-03-30T07:16:11.276Z"
+generated_at: "2026-03-30T07:18:03.706Z"
 status: "active"
 ---
 

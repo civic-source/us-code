@@ -3,9 +3,9 @@ title: "Section 3 - Federal agency data mining reporting"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T07:16:11.196Z"
+generated_at: "2026-03-30T07:18:03.656Z"
 status: "active"
 ---
 

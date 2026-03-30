@@ -3,9 +3,9 @@ title: "Section 8034 - Vice Chief of Staff"
 usc_title: 10
 usc_section: "8034"
 chapter: 805
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 8034"
-generated_at: "2026-03-30T07:14:57.844Z"
+generated_at: "2026-03-30T07:16:55.729Z"
 status: "active"
 ---
 

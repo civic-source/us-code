@@ -3,9 +3,9 @@ title: "Section 20202 - Organization"
 usc_title: 36
 usc_section: "20202"
 chapter: 202
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "36 U.S.C. § 20202"
-generated_at: "2026-03-30T07:15:49.371Z"
+generated_at: "2026-03-30T07:17:44.082Z"
 status: "active"
 ---
 

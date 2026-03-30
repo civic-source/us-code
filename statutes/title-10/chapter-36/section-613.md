@@ -3,9 +3,9 @@ title: "Section 613 - Oath of members of selection boards"
 usc_title: 10
 usc_section: "613"
 chapter: 36
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 613"
-generated_at: "2026-03-30T07:14:57.736Z"
+generated_at: "2026-03-30T07:16:55.615Z"
 status: "active"
 ---
 

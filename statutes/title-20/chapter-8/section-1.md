@@ -3,9 +3,9 @@ title: "Section 1 - Program authorized"
 usc_title: 20
 usc_section: "1"
 chapter: 8
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T07:15:17.638Z"
+generated_at: "2026-03-30T07:17:11.864Z"
 status: "active"
 ---
 

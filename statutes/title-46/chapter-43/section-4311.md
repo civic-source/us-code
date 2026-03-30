@@ -3,9 +3,9 @@ title: "Section 4311 - Penalties and injunctions"
 usc_title: 46
 usc_section: "4311"
 chapter: 43
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "46 U.S.C. § 4311"
-generated_at: "2026-03-30T07:16:16.860Z"
+generated_at: "2026-03-30T07:18:14.122Z"
 status: "active"
 ---
 

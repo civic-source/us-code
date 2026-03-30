@@ -3,9 +3,9 @@ title: "Section 2123d - Repealed. Pub. L. 104–288 , § 9(a), Oct. 11, 1996 , 1
 usc_title: 22
 usc_section: "2123d"
 chapter: 31
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 2123d"
-generated_at: "2026-03-30T07:15:28.989Z"
+generated_at: "2026-03-30T07:17:20.774Z"
 status: "repealed"
 ---
 

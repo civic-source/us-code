@@ -3,9 +3,9 @@ title: "Section 5965 - Repealed. Pub. L. 113–291, div. A, title XIII , § 1351
 usc_title: 22
 usc_section: "5965"
 chapter: 68
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 5965"
-generated_at: "2026-03-30T07:15:29.057Z"
+generated_at: "2026-03-30T07:17:20.844Z"
 status: "repealed"
 ---
 

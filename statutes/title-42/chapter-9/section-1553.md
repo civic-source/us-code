@@ -3,9 +3,9 @@ title: "Section 1553 - Removal by Secretary of certain housing of temporary char
 usc_title: 42
 usc_section: "1553"
 chapter: 9
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "42 U.S.C. § 1553"
-generated_at: "2026-03-30T07:16:11.142Z"
+generated_at: "2026-03-30T07:18:03.623Z"
 status: "active"
 ---
 

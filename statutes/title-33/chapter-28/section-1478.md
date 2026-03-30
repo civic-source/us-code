@@ -3,9 +3,9 @@ title: "Section 1478 - Personal, flag state, and foreign state considerations"
 usc_title: 33
 usc_section: "1478"
 chapter: 28
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "33 U.S.C. § 1478"
-generated_at: "2026-03-30T07:15:42.986Z"
+generated_at: "2026-03-30T07:17:34.566Z"
 status: "active"
 ---
 

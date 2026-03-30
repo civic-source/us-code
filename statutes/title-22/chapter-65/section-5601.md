@@ -3,9 +3,9 @@ title: "Section 5601 - Purposes"
 usc_title: 22
 usc_section: "5601"
 chapter: 65
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "22 U.S.C. § 5601"
-generated_at: "2026-03-30T07:15:29.055Z"
+generated_at: "2026-03-30T07:17:20.842Z"
 status: "active"
 ---
 

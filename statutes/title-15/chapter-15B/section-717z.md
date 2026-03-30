@@ -3,9 +3,9 @@ title: "Section 717z - Emergency conversion of utilities and other facilities"
 usc_title: 15
 usc_section: "717z"
 chapter: 15
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 717z"
-generated_at: "2026-03-30T07:15:11.843Z"
+generated_at: "2026-03-30T07:17:02.963Z"
 status: "active"
 ---
 

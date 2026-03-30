@@ -3,9 +3,9 @@ title: "Section 12313 - Information programs"
 usc_title: 34
 usc_section: "12313"
 chapter: 121
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "34 U.S.C. § 12313"
-generated_at: "2026-03-30T07:15:41.782Z"
+generated_at: "2026-03-30T07:17:41.345Z"
 status: "active"
 ---
 

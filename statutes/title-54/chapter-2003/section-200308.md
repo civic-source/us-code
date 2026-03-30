@@ -3,9 +3,9 @@ title: "Section 200308 - Contracts for acquisition of land and water"
 usc_title: 54
 usc_section: "200308"
 chapter: 2003
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "54 U.S.C. § 200308"
-generated_at: "2026-03-30T07:16:24.664Z"
+generated_at: "2026-03-30T07:18:24.655Z"
 status: "active"
 ---
 

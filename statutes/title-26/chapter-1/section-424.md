@@ -3,9 +3,9 @@ title: "Section 424 - Definitions and special rules"
 usc_title: 26
 usc_section: "424"
 chapter: 1
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "26 U.S.C. § 424"
-generated_at: "2026-03-30T07:15:38.996Z"
+generated_at: "2026-03-30T07:17:30.356Z"
 status: "active"
 ---
 

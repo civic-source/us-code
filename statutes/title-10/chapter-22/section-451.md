@@ -3,9 +3,9 @@ title: "Section 451 - Maps, charts, and books"
 usc_title: 10
 usc_section: "451"
 chapter: 22
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "10 U.S.C. § 451"
-generated_at: "2026-03-30T07:14:57.731Z"
+generated_at: "2026-03-30T07:16:55.610Z"
 status: "active"
 ---
 

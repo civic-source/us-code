@@ -3,9 +3,9 @@ title: "Section 7803 - Enforcement"
 usc_title: 15
 usc_section: "7803"
 chapter: 104
-current_through: "PL 115-171"
+current_through: "PL 115-173"
 classification: "15 U.S.C. § 7803"
-generated_at: "2026-03-30T07:15:11.939Z"
+generated_at: "2026-03-30T07:17:03.058Z"
 status: "active"
 ---
 
