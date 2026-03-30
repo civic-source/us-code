@@ -3,9 +3,9 @@ title: "Section 3712 - Loans to purchase manufactured homes and lots"
 usc_title: 38
 usc_section: "3712"
 chapter: 37
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 3712"
-generated_at: "2026-03-30T02:00:04.505Z"
+generated_at: "2026-03-30T02:04:57.983Z"
 ---
 
 # § 3712. Loans to purchase manufactured homes and lots

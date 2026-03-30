@@ -3,9 +3,9 @@ title: "Section 4301 - Findings, purposes, and policy"
 usc_title: 16
 usc_section: "4301"
 chapter: 63
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 4301"
-generated_at: "2026-03-30T01:59:04.669Z"
+generated_at: "2026-03-30T02:03:24.100Z"
 ---
 
 # § 4301. Findings, purposes, and policy

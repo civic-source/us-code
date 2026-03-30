@@ -3,9 +3,9 @@ title: "Section 4852 - Offset policy; notification"
 usc_title: 10
 usc_section: "4852"
 chapter: 385
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 4852"
-generated_at: "2026-03-30T01:58:27.095Z"
+generated_at: "2026-03-30T02:02:21.319Z"
 ---
 
 # § 4852. Offset policy; notification

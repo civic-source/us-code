@@ -3,9 +3,9 @@ title: "Section 167i - Suspension of prohibitions against use of Library buildin
 usc_title: 2
 usc_section: "167i"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 167i"
-generated_at: "2026-03-30T01:58:02.811Z"
+generated_at: "2026-03-30T02:02:05.532Z"
 ---
 
 # § 167i. Suspension of prohibitions against use of Library buildings and grounds

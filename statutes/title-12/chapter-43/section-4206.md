@@ -3,9 +3,9 @@ title: "Section 4206 - Rights of declarants; notifications; Government accountab
 usc_title: 12
 usc_section: "4206"
 chapter: 43
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 4206"
-generated_at: "2026-03-30T01:58:32.756Z"
+generated_at: "2026-03-30T02:02:59.708Z"
 ---
 
 # § 4206. Rights of declarants; notifications; Government accountability

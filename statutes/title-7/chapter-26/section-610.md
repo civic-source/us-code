@@ -3,9 +3,9 @@ title: "Section 610 - Administration"
 usc_title: 7
 usc_section: "610"
 chapter: 26
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 610"
-generated_at: "2026-03-30T01:58:09.484Z"
+generated_at: "2026-03-30T02:02:15.381Z"
 ---
 
 # § 610. Administration

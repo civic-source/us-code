@@ -3,9 +3,9 @@ title: "Section 19154 - Collection of data on demographics of faculty"
 usc_title: 42
 usc_section: "19154"
 chapter: 163
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 19154"
-generated_at: "2026-03-30T02:00:43.194Z"
+generated_at: "2026-03-30T02:05:19.212Z"
 ---
 
 # § 19154. Collection of data on demographics of faculty

@@ -3,9 +3,9 @@ title: "Section 292 - Forfeiture"
 usc_title: 15
 usc_section: "292"
 chapter: 8
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 292"
-generated_at: "2026-03-30T01:58:54.189Z"
+generated_at: "2026-03-30T02:02:33.198Z"
 ---
 
 # § 292. Forfeiture

@@ -3,9 +3,9 @@ title: "Section 1138 - Fund for the Improvement of Postsecondary Education"
 usc_title: 20
 usc_section: "1138"
 chapter: 28
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 1138"
-generated_at: "2026-03-30T01:59:01.684Z"
+generated_at: "2026-03-30T02:03:15.792Z"
 ---
 
 # § 1138. Fund for the Improvement of Postsecondary Education

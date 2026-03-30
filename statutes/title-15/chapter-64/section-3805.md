@@ -3,9 +3,9 @@ title: "Section 3805 - Research and development activities"
 usc_title: 15
 usc_section: "3805"
 chapter: 64
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 3805"
-generated_at: "2026-03-30T01:58:54.303Z"
+generated_at: "2026-03-30T02:02:33.332Z"
 ---
 
 # § 3805. Research and development activities

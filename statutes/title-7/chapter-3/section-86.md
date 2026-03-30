@@ -3,9 +3,9 @@ title: "Section 86 - Refusal of inspection and weighing services; civil penaltie
 usc_title: 7
 usc_section: "86"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 86"
-generated_at: "2026-03-30T01:58:09.451Z"
+generated_at: "2026-03-30T02:02:15.349Z"
 ---
 
 # § 86. Refusal of inspection and weighing services; civil penalties

@@ -3,9 +3,9 @@ title: "Section 867a - Art. 67a. Review by the Supreme Court"
 usc_title: 10
 usc_section: "867a"
 chapter: 47
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 867a"
-generated_at: "2026-03-30T01:58:26.997Z"
+generated_at: "2026-03-30T02:02:21.218Z"
 ---
 
 # § 867a. Art. 67a. Review by the Supreme Court

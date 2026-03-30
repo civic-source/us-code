@@ -3,9 +3,9 @@ title: "Section 548 - Advisory Committee on United States Outlying Areas and Fre
 usc_title: 38
 usc_section: "548"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 548"
-generated_at: "2026-03-30T02:00:04.466Z"
+generated_at: "2026-03-30T02:04:57.944Z"
 ---
 
 # § 548. Advisory Committee on United States Outlying Areas and Freely Associated States

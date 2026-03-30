@@ -3,9 +3,9 @@ title: "Section 1059 - Duration of grant"
 usc_title: 20
 usc_section: "1059"
 chapter: 28
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 1059"
-generated_at: "2026-03-30T01:59:01.642Z"
+generated_at: "2026-03-30T02:03:15.736Z"
 ---
 
 # § 1059. Duration of grant

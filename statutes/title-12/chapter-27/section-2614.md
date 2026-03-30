@@ -3,9 +3,9 @@ title: "Section 2614 - Jurisdiction of courts; limitations"
 usc_title: 12
 usc_section: "2614"
 chapter: 27
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 2614"
-generated_at: "2026-03-30T01:58:32.741Z"
+generated_at: "2026-03-30T02:02:59.692Z"
 ---
 
 # § 2614. Jurisdiction of courts; limitations

@@ -3,9 +3,9 @@ title: "Section 254 - Proclamation to disperse"
 usc_title: 10
 usc_section: "254"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 254"
-generated_at: "2026-03-30T01:58:26.973Z"
+generated_at: "2026-03-30T02:02:21.192Z"
 ---
 
 # § 254. Proclamation to disperse

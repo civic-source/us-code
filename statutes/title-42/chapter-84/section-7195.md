@@ -3,9 +3,9 @@ title: "Section 7195 - Report to Congress; contents"
 usc_title: 42
 usc_section: "7195"
 chapter: 84
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 7195"
-generated_at: "2026-03-30T02:00:42.954Z"
+generated_at: "2026-03-30T02:05:18.977Z"
 ---
 
 # § 7195. Report to Congress; contents

@@ -3,9 +3,9 @@ title: "Section 205 - Confidentiality"
 usc_title: 35
 usc_section: "205"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "35 U.S.C. § 205"
-generated_at: "2026-03-30T01:59:53.394Z"
+generated_at: "2026-03-30T02:04:39.211Z"
 ---
 
 # § 205. Confidentiality

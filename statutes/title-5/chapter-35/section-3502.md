@@ -3,9 +3,9 @@ title: "Section 3502 - Order of retention"
 usc_title: 5
 usc_section: "3502"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 3502"
-generated_at: "2026-03-30T01:58:01.848Z"
+generated_at: "2026-03-30T02:02:07.868Z"
 ---
 
 # § 3502. Order of retention

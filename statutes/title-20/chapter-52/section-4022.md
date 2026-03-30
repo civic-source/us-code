@@ -3,9 +3,9 @@ title: "Section 4022 - Asbestos Trust Fund"
 usc_title: 20
 usc_section: "4022"
 chapter: 52
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 4022"
-generated_at: "2026-03-30T01:59:01.718Z"
+generated_at: "2026-03-30T02:03:15.836Z"
 ---
 
 # § 4022. Asbestos Trust Fund

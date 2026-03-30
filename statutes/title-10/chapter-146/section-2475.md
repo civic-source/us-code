@@ -3,9 +3,9 @@ title: "Section 2475 - Consolidation, restructuring, or reengineering of organiz
 usc_title: 10
 usc_section: "2475"
 chapter: 146
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2475"
-generated_at: "2026-03-30T01:58:27.054Z"
+generated_at: "2026-03-30T02:02:21.279Z"
 ---
 
 # § 2475. Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements

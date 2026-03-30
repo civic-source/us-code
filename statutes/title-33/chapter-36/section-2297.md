@@ -3,9 +3,9 @@ title: "Section 2297 - Operation and maintenance on recreation lands"
 usc_title: 33
 usc_section: "2297"
 chapter: 36
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 2297"
-generated_at: "2026-03-30T01:59:51.363Z"
+generated_at: "2026-03-30T02:04:35.822Z"
 ---
 
 # § 2297. Operation and maintenance on recreation lands

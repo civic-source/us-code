@@ -3,9 +3,9 @@ title: "Section 240102 - Organization"
 usc_title: 36
 usc_section: "240102"
 chapter: 2401
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "36 U.S.C. § 240102"
-generated_at: "2026-03-30T02:00:05.202Z"
+generated_at: "2026-03-30T02:04:50.410Z"
 ---
 
 # § 240102. Organization

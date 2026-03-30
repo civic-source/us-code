@@ -3,9 +3,9 @@ title: "Section 7317 - Thirty years or more: regular enlisted members"
 usc_title: 10
 usc_section: "7317"
 chapter: 741
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 7317"
-generated_at: "2026-03-30T01:58:27.100Z"
+generated_at: "2026-03-30T02:02:21.324Z"
 ---
 
 # § 7317. Thirty years or more: regular enlisted members

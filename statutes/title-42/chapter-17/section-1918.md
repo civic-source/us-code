@@ -3,9 +3,9 @@ title: "Section 1918 - Transferred"
 usc_title: 42
 usc_section: "1918"
 chapter: 17
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 1918"
-generated_at: "2026-03-30T02:00:42.813Z"
+generated_at: "2026-03-30T02:05:18.835Z"
 ---
 
 # §§ 1901 to 1918. Transferred

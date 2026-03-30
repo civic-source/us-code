@@ -3,9 +3,9 @@ title: "Section 942 - Public and commercial vessels and other watercraft; sale o
 usc_title: 14
 usc_section: "942"
 chapter: 9
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "14 U.S.C. § 942"
-generated_at: "2026-03-30T01:58:29.388Z"
+generated_at: "2026-03-30T02:02:29.069Z"
 ---
 
 # § 942. Public and commercial vessels and other watercraft; sale of fuel, supplies, and services

@@ -3,9 +3,9 @@ title: "Section 2377 - Renumbered § 3453]"
 usc_title: 10
 usc_section: "2377"
 chapter: 140
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2377"
-generated_at: "2026-03-30T01:58:27.052Z"
+generated_at: "2026-03-30T02:02:21.276Z"
 ---
 
 # [§ 2377. Renumbered § 3453]

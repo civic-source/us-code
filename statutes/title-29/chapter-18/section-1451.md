@@ -3,9 +3,9 @@ title: "Section 1451 - Civil actions"
 usc_title: 29
 usc_section: "1451"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "29 U.S.C. § 1451"
-generated_at: "2026-03-30T01:59:47.526Z"
+generated_at: "2026-03-30T02:04:18.113Z"
 ---
 
 # § 1451. Civil actions

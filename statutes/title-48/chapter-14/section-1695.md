@@ -3,9 +3,9 @@ title: "Section 1695 - Federal education and health care programs; nonapplicabil
 usc_title: 48
 usc_section: "1695"
 chapter: 14
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 1695"
-generated_at: "2026-03-30T02:00:46.923Z"
+generated_at: "2026-03-30T02:05:29.420Z"
 ---
 
 # § 1695. Federal education and health care programs; nonapplicability or nonparticipation

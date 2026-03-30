@@ -3,9 +3,9 @@ title: "Section 80c - Transfer or loan of objects, equipment and rec­ords to Sm
 usc_title: 20
 usc_section: "80c"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 80c"
-generated_at: "2026-03-30T01:59:01.623Z"
+generated_at: "2026-03-30T02:03:15.714Z"
 ---
 
 # § 80c. Transfer or loan of objects, equipment and rec­ords to Smithsonian Institution

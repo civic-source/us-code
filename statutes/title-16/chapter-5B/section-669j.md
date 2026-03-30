@@ -3,9 +3,9 @@ title: "Section 669j - Repealed. Aug. 7, 1946, ch. 770, § 1(14) , 60 Stat. 867"
 usc_title: 16
 usc_section: "669j"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 669j"
-generated_at: "2026-03-30T01:59:04.566Z"
+generated_at: "2026-03-30T02:03:23.970Z"
 ---
 
 # § 669j. Repealed. Aug. 7, 1946, ch. 770, § 1(14) , 60 Stat. 867

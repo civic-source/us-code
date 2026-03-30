@@ -3,9 +3,9 @@ title: "Section 462 - Financial assistance to certain employees in acquisition o
 usc_title: 10
 usc_section: "462"
 chapter: 22
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 462"
-generated_at: "2026-03-30T01:58:26.980Z"
+generated_at: "2026-03-30T02:02:21.198Z"
 ---
 
 # § 462. Financial assistance to certain employees in acquisition of critical skills

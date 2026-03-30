@@ -3,9 +3,9 @@ title: "Section 60302 - Capital prosecution improvement grants"
 usc_title: 34
 usc_section: "60302"
 chapter: 603
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "34 U.S.C. § 60302"
-generated_at: "2026-03-30T01:59:58.825Z"
+generated_at: "2026-03-30T02:04:47.322Z"
 ---
 
 # § 60302. Capital prosecution improvement grants

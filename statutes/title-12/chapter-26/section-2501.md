@@ -3,9 +3,9 @@ title: "Section 2501 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "2501"
 chapter: 26
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 2501"
-generated_at: "2026-03-30T01:58:32.740Z"
+generated_at: "2026-03-30T02:02:59.691Z"
 ---
 
 # § 2501. Congressional findings and declaration of purpose

@@ -3,9 +3,9 @@ title: "Section 503 - Research and technology development and deployment"
 usc_title: 23
 usc_section: "503"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "23 U.S.C. § 503"
-generated_at: "2026-03-30T01:59:27.952Z"
+generated_at: "2026-03-30T02:03:39.267Z"
 ---
 
 # § 503. Research and technology development and deployment

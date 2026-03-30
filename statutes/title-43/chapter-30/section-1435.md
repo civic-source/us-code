@@ -3,9 +3,9 @@ title: "Section 1435 - Omitted"
 usc_title: 43
 usc_section: "1435"
 chapter: 30
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "43 U.S.C. § 1435"
-generated_at: "2026-03-30T02:00:22.299Z"
+generated_at: "2026-03-30T02:05:01.512Z"
 ---
 
 # §§ 1431 to 1435. Omitted

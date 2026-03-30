@@ -3,9 +3,9 @@ title: "Section 751 - Interstate commerce and certain other laws inapplicable to
 usc_title: 48
 usc_section: "751"
 chapter: 4
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 751"
-generated_at: "2026-03-30T02:00:46.914Z"
+generated_at: "2026-03-30T02:05:29.410Z"
 ---
 
 # § 751. Interstate commerce and certain other laws inapplicable to Puerto Rico

@@ -3,9 +3,9 @@ title: "Section 4816 - National technology and industrial base: periodic defense
 usc_title: 10
 usc_section: "4816"
 chapter: 382
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 4816"
-generated_at: "2026-03-30T01:58:27.094Z"
+generated_at: "2026-03-30T02:02:21.318Z"
 ---
 
 # § 4816. National technology and industrial base: periodic defense capability assessments

@@ -3,9 +3,9 @@ title: "Section 2011 - CIARDS system"
 usc_title: 50
 usc_section: "2011"
 chapter: 38
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 2011"
-generated_at: "2026-03-30T02:00:49.187Z"
+generated_at: "2026-03-30T02:05:23.999Z"
 ---
 
 # § 2011. CIARDS system

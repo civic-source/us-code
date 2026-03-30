@@ -3,9 +3,9 @@ title: "Section 3506 - Certification of compliance"
 usc_title: 16
 usc_section: "3506"
 chapter: 55
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 3506"
-generated_at: "2026-03-30T01:59:04.655Z"
+generated_at: "2026-03-30T02:03:24.081Z"
 ---
 
 # § 3506. Certification of compliance

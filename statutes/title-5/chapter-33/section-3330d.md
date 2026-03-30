@@ -3,9 +3,9 @@ title: "Section 3330d - Appointment of military and Department of Defense civili
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-30T01:58:01.846Z"
+generated_at: "2026-03-30T02:02:07.866Z"
 ---
 
 # § 3330d. Appointment of military and Department of Defense civilian spouses

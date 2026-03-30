@@ -3,9 +3,9 @@ title: "Section 470 - Omitted"
 usc_title: 21
 usc_section: "470"
 chapter: 10
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "21 U.S.C. § 470"
-generated_at: "2026-03-30T01:59:20.989Z"
+generated_at: "2026-03-30T02:03:29.570Z"
 ---
 
 # § 470. Omitted

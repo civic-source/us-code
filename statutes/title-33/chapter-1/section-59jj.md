@@ -3,9 +3,9 @@ title: "Section 59jj - Designation of nonnavigability for portions of Gloucester
 usc_title: 33
 usc_section: "59jj"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 59jj"
-generated_at: "2026-03-30T01:59:51.301Z"
+generated_at: "2026-03-30T02:04:35.759Z"
 ---
 
 # § 59jj. Designation of nonnavigability for portions of Gloucester County, New Jersey

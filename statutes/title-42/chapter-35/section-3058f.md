@@ -3,9 +3,9 @@ title: "Section 3058f - Definitions"
 usc_title: 42
 usc_section: "3058f"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 3058f"
-generated_at: "2026-03-30T02:00:42.859Z"
+generated_at: "2026-03-30T02:05:18.882Z"
 ---
 
 # § 3058f. Definitions

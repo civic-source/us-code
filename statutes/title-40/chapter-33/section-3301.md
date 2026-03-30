@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions and nonapplication"
 usc_title: 40
 usc_section: "3301"
 chapter: 33
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "40 U.S.C. § 3301"
-generated_at: "2026-03-30T02:00:16.505Z"
+generated_at: "2026-03-30T02:04:49.330Z"
 ---
 
 # § 3301. Definitions and nonapplication

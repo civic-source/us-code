@@ -3,9 +3,9 @@ title: "Section 5172 - Application"
 usc_title: 26
 usc_section: "5172"
 chapter: 51
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 5172"
-generated_at: "2026-03-30T01:59:46.185Z"
+generated_at: "2026-03-30T02:04:09.286Z"
 ---
 
 # § 5172. Application

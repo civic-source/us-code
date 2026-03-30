@@ -3,9 +3,9 @@ title: "Section 2136 - Classes of facilities"
 usc_title: 42
 usc_section: "2136"
 chapter: 23
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 2136"
-generated_at: "2026-03-30T02:00:42.830Z"
+generated_at: "2026-03-30T02:05:18.853Z"
 ---
 
 # § 2136. Classes of facilities

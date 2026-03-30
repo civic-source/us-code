@@ -3,9 +3,9 @@ title: "Section 1441 - Lease of contiguous public lands for public airports; aut
 usc_title: 43
 usc_section: "1441"
 chapter: 30
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "43 U.S.C. § 1441"
-generated_at: "2026-03-30T02:00:22.299Z"
+generated_at: "2026-03-30T02:05:01.512Z"
 ---
 
 # § 1441. Lease of contiguous public lands for public airports; authority of Secretary of the Interior

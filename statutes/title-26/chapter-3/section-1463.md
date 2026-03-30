@@ -3,9 +3,9 @@ title: "Section 1463 - Tax paid by recipient of income"
 usc_title: 26
 usc_section: "1463"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 1463"
-generated_at: "2026-03-30T01:59:46.147Z"
+generated_at: "2026-03-30T02:04:09.246Z"
 ---
 
 # § 1463. Tax paid by recipient of income

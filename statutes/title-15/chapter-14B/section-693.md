@@ -3,9 +3,9 @@ title: "Section 693 - Powers of Administration respecting loans; liquidation of 
 usc_title: 15
 usc_section: "693"
 chapter: 14
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 693"
-generated_at: "2026-03-30T01:58:54.220Z"
+generated_at: "2026-03-30T02:02:33.232Z"
 ---
 
 # § 693. Powers of Administration respecting loans; liquidation of obligations through creation of new leases, execution of subleases, and assignments of leases

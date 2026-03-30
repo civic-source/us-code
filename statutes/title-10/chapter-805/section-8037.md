@@ -3,9 +3,9 @@ title: "Section 8037 - Assistant Chiefs of Naval Operations"
 usc_title: 10
 usc_section: "8037"
 chapter: 805
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 8037"
-generated_at: "2026-03-30T01:58:27.106Z"
+generated_at: "2026-03-30T02:02:21.330Z"
 ---
 
 # § 8037. Assistant Chiefs of Naval Operations

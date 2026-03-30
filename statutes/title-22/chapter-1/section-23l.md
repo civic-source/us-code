@@ -3,9 +3,9 @@ title: "Section 23l - Transferred"
 usc_title: 22
 usc_section: "23l"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 23l"
-generated_at: "2026-03-30T01:59:25.430Z"
+generated_at: "2026-03-30T02:03:32.967Z"
 ---
 
 # §§ 23k, 23l. Transferred

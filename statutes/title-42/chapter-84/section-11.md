@@ -3,9 +3,9 @@ title: "Section 11 - Coordination of benefits with respect to State workers comp
 usc_title: 42
 usc_section: "11"
 chapter: 84
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T02:00:42.961Z"
+generated_at: "2026-03-30T02:05:18.985Z"
 ---
 
 # § 7385s–11. Coordination of benefits with respect to State workers compensation

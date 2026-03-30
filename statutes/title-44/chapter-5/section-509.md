@@ -3,9 +3,9 @@ title: "Section 509 - Standards of paper; advertisements for proposals; samples"
 usc_title: 44
 usc_section: "509"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 509"
-generated_at: "2026-03-30T02:00:18.350Z"
+generated_at: "2026-03-30T02:05:00.389Z"
 ---
 
 # § 509. Standards of paper; advertisements for proposals; samples

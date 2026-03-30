@@ -3,9 +3,9 @@ title: "Section 279 - Absence of Director"
 usc_title: 15
 usc_section: "279"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 279"
-generated_at: "2026-03-30T01:58:54.189Z"
+generated_at: "2026-03-30T02:02:33.197Z"
 ---
 
 # § 279. Absence of Director

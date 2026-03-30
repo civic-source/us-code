@@ -3,9 +3,9 @@ title: "Section 2326 - Native American programs"
 usc_title: 20
 usc_section: "2326"
 chapter: 44
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 2326"
-generated_at: "2026-03-30T01:59:01.709Z"
+generated_at: "2026-03-30T02:03:15.825Z"
 ---
 
 # § 2326. Native American programs

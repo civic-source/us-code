@@ -3,9 +3,9 @@ title: "Section 168d - Authorization of appropriations for Constitution Annotate
 usc_title: 2
 usc_section: "168d"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 168d"
-generated_at: "2026-03-30T01:58:02.811Z"
+generated_at: "2026-03-30T02:02:05.532Z"
 ---
 
 # § 168d. Authorization of appropriations for Constitution Annotated

@@ -3,9 +3,9 @@ title: "Section 5821 - Integrated management systems"
 usc_title: 7
 usc_section: "5821"
 chapter: 88
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 5821"
-generated_at: "2026-03-30T01:58:09.590Z"
+generated_at: "2026-03-30T02:02:15.482Z"
 ---
 
 # § 5821. Integrated management systems

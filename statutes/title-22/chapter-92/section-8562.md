@@ -3,9 +3,9 @@ title: "Section 8562 - Definitions"
 usc_title: 22
 usc_section: "8562"
 chapter: 92
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 8562"
-generated_at: "2026-03-30T01:59:25.581Z"
+generated_at: "2026-03-30T02:03:33.138Z"
 ---
 
 # § 8562. Definitions

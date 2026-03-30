@@ -3,9 +3,9 @@ title: "Section 2678 - Feral horses and burros: removal from military installati
 usc_title: 10
 usc_section: "2678"
 chapter: 159
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2678"
-generated_at: "2026-03-30T01:58:27.062Z"
+generated_at: "2026-03-30T02:02:21.287Z"
 ---
 
 # § 2678. Feral horses and burros: removal from military installations

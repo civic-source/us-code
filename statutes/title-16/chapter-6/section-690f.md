@@ -3,9 +3,9 @@ title: "Section 690f - Expenditures by Secretary of the Interior for constructio
 usc_title: 16
 usc_section: "690f"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 690f"
-generated_at: "2026-03-30T01:59:04.568Z"
+generated_at: "2026-03-30T02:03:23.973Z"
 ---
 
 # § 690f. Expenditures by Secretary of the Interior for construction, maintenance, etc., of Bear River Refuge; employment of necessary means to execute functions imposed on him

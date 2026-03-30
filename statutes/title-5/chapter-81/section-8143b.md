@@ -3,9 +3,9 @@ title: "Section 8143b - Employees in fire protection activities"
 usc_title: 5
 usc_section: "8143b"
 chapter: 81
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 8143b"
-generated_at: "2026-03-30T01:58:01.875Z"
+generated_at: "2026-03-30T02:02:07.893Z"
 ---
 
 # § 8143b. Employees in fire protection activities

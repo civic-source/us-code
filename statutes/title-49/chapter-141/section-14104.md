@@ -3,9 +3,9 @@ title: "Section 14104 - Household goods carrier operations"
 usc_title: 49
 usc_section: "14104"
 chapter: 141
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 14104"
-generated_at: "2026-03-30T02:01:46.776Z"
+generated_at: "2026-03-30T02:05:28.944Z"
 ---
 
 # § 14104. Household goods carrier operations

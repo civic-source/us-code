@@ -3,9 +3,9 @@ title: "Section 135b - Local and regional centers; preference to blind and other
 usc_title: 2
 usc_section: "135b"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 135b"
-generated_at: "2026-03-30T01:58:02.809Z"
+generated_at: "2026-03-30T02:02:05.529Z"
 ---
 
 # § 135b. Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations

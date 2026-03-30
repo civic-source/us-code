@@ -3,9 +3,9 @@ title: "Section 16271 - Nuclear energy"
 usc_title: 42
 usc_section: "16271"
 chapter: 149
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 16271"
-generated_at: "2026-03-30T02:00:43.133Z"
+generated_at: "2026-03-30T02:05:19.153Z"
 ---
 
 # § 16271. Nuclear energy

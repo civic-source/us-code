@@ -3,9 +3,9 @@ title: "Section 157 - National Environmental Policy Act of 1969 reporting progra
 usc_title: 23
 usc_section: "157"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "23 U.S.C. § 157"
-generated_at: "2026-03-30T01:59:27.941Z"
+generated_at: "2026-03-30T02:03:39.255Z"
 ---
 
 # § 157. National Environmental Policy Act of 1969 reporting program

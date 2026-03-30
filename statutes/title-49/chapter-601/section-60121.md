@@ -3,9 +3,9 @@ title: "Section 60121 - Actions by private persons"
 usc_title: 49
 usc_section: "60121"
 chapter: 601
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 60121"
-generated_at: "2026-03-30T02:01:46.890Z"
+generated_at: "2026-03-30T02:05:29.019Z"
 ---
 
 # § 60121. Actions by private persons

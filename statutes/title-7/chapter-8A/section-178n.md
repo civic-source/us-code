@@ -3,9 +3,9 @@ title: "Section 178n - Administration and funding"
 usc_title: 7
 usc_section: "178n"
 chapter: 8
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 178n"
-generated_at: "2026-03-30T01:58:09.471Z"
+generated_at: "2026-03-30T02:02:15.368Z"
 ---
 
 # § 178n. Administration and funding

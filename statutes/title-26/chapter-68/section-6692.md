@@ -3,9 +3,9 @@ title: "Section 6692 - Failure to file actuarial report"
 usc_title: 26
 usc_section: "6692"
 chapter: 68
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 6692"
-generated_at: "2026-03-30T01:59:46.223Z"
+generated_at: "2026-03-30T02:04:09.324Z"
 ---
 
 # § 6692. Failure to file actuarial report

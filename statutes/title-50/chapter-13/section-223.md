@@ -3,9 +3,9 @@ title: "Section 223 - Forfeiture of vessels owned by citizens of insurrectionary
 usc_title: 50
 usc_section: "223"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 223"
-generated_at: "2026-03-30T02:00:49.172Z"
+generated_at: "2026-03-30T02:05:23.985Z"
 ---
 
 # § 223. Forfeiture of vessels owned by citizens of insurrectionary States

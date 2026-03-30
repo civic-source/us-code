@@ -3,9 +3,9 @@ title: "Section 9 - Powers and duties of Secretaries of the Interior and Agricul
 usc_title: 16
 usc_section: "9"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T01:59:04.560Z"
+generated_at: "2026-03-30T02:03:23.963Z"
 ---
 
 # § 590z–9. Powers and duties of Secretaries of the Interior and Agriculture; rules and regulations

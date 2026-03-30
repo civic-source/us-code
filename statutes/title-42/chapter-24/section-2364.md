@@ -3,9 +3,9 @@ title: "Section 2364 - Community employment and population"
 usc_title: 42
 usc_section: "2364"
 chapter: 24
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 2364"
-generated_at: "2026-03-30T02:00:42.844Z"
+generated_at: "2026-03-30T02:05:18.867Z"
 ---
 
 # § 2364. Community employment and population

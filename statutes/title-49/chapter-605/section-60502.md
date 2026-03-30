@@ -3,9 +3,9 @@ title: "Section 60502 - Federal Energy Regulatory Commission"
 usc_title: 49
 usc_section: "60502"
 chapter: 605
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 60502"
-generated_at: "2026-03-30T02:01:46.891Z"
+generated_at: "2026-03-30T02:05:29.023Z"
 ---
 
 # § 60502. Federal Energy Regulatory Commission

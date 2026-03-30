@@ -3,9 +3,9 @@ title: "Section 5761 - Civil penalties"
 usc_title: 26
 usc_section: "5761"
 chapter: 52
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 5761"
-generated_at: "2026-03-30T01:59:46.191Z"
+generated_at: "2026-03-30T02:04:09.292Z"
 ---
 
 # § 5761. Civil penalties

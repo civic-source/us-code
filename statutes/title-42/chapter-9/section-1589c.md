@@ -3,9 +3,9 @@ title: "Section 1589c - Transfer of certain housing to Indians"
 usc_title: 42
 usc_section: "1589c"
 chapter: 9
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 1589c"
-generated_at: "2026-03-30T02:00:42.788Z"
+generated_at: "2026-03-30T02:05:18.809Z"
 ---
 
 # § 1589c. Transfer of certain housing to Indians

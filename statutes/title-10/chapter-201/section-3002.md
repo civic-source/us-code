@@ -3,9 +3,9 @@ title: "Section 3002 - Federal Acquisition Regulation"
 usc_title: 10
 usc_section: "3002"
 chapter: 201
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 3002"
-generated_at: "2026-03-30T01:58:27.075Z"
+generated_at: "2026-03-30T02:02:21.299Z"
 ---
 
 # § 3002. Federal Acquisition Regulation

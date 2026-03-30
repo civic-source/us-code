@@ -3,9 +3,9 @@ title: "Section 8006 - Education and awareness program"
 usc_title: 15
 usc_section: "8006"
 chapter: 106
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 8006"
-generated_at: "2026-03-30T01:58:54.333Z"
+generated_at: "2026-03-30T02:02:33.365Z"
 ---
 
 # § 8006. Education and awareness program

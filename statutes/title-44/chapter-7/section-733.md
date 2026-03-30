@@ -3,9 +3,9 @@ title: "Section 733 - Documents and reports ordered by Members of Congress; fran
 usc_title: 44
 usc_section: "733"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 733"
-generated_at: "2026-03-30T02:00:18.351Z"
+generated_at: "2026-03-30T02:05:00.390Z"
 ---
 
 # § 733. Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress

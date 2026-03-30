@@ -3,9 +3,9 @@ title: "Section 13616 - Prohibition of evictions"
 usc_title: 42
 usc_section: "13616"
 chapter: 135
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 13616"
-generated_at: "2026-03-30T02:00:43.108Z"
+generated_at: "2026-03-30T02:05:19.128Z"
 ---
 
 # § 13616. Prohibition of evictions

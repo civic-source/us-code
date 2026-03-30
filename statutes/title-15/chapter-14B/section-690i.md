@@ -3,9 +3,9 @@ title: "Section 690i - Bank participation"
 usc_title: 15
 usc_section: "690i"
 chapter: 14
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 690i"
-generated_at: "2026-03-30T01:58:54.220Z"
+generated_at: "2026-03-30T02:02:33.232Z"
 ---
 
 # § 690i. Bank participation

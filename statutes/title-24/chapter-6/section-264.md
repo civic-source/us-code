@@ -3,9 +3,9 @@ title: "Section 264 - Omitted"
 usc_title: 24
 usc_section: "264"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "24 U.S.C. § 264"
-generated_at: "2026-03-30T01:59:19.559Z"
+generated_at: "2026-03-30T02:03:40.425Z"
 ---
 
 # §§ 261 to 264. Omitted

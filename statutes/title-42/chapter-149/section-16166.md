@@ -3,9 +3,9 @@ title: "Section 16166 - Clean hydrogen production qualifications"
 usc_title: 42
 usc_section: "16166"
 chapter: 149
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 16166"
-generated_at: "2026-03-30T02:00:43.128Z"
+generated_at: "2026-03-30T02:05:19.149Z"
 ---
 
 # § 16166. Clean hydrogen production qualifications

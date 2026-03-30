@@ -3,9 +3,9 @@ title: "Section 9 - Market windows"
 usc_title: 12
 usc_section: "9"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-03-30T01:58:32.644Z"
+generated_at: "2026-03-30T02:02:59.594Z"
 ---
 
 # § 635i–9. Market windows

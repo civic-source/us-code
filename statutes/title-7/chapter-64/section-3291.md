@@ -3,9 +3,9 @@ title: "Section 3291 - International agricultural research, extension, and teach
 usc_title: 7
 usc_section: "3291"
 chapter: 64
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 3291"
-generated_at: "2026-03-30T01:58:09.574Z"
+generated_at: "2026-03-30T02:02:15.467Z"
 ---
 
 # § 3291. International agricultural research, extension, and teaching

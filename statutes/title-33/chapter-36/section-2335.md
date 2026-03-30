@@ -3,9 +3,9 @@ title: "Section 2335 - Coastal aquatic habitat management"
 usc_title: 33
 usc_section: "2335"
 chapter: 36
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 2335"
-generated_at: "2026-03-30T01:59:51.368Z"
+generated_at: "2026-03-30T02:04:35.826Z"
 ---
 
 # § 2335. Coastal aquatic habitat management

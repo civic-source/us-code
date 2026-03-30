@@ -3,9 +3,9 @@ title: "Section 9102 - Standards for tank vessels of the United States"
 usc_title: 46
 usc_section: "9102"
 chapter: 91
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "46 U.S.C. § 9102"
-generated_at: "2026-03-30T02:00:50.897Z"
+generated_at: "2026-03-30T02:05:26.021Z"
 ---
 
 # § 9102. Standards for tank vessels of the United States

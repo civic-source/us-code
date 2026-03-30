@@ -3,9 +3,9 @@ title: "Section 1921 - Approval of U.S.-FSM Compact of Free Association and the 
 usc_title: 48
 usc_section: "1921"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 1921"
-generated_at: "2026-03-30T02:00:46.927Z"
+generated_at: "2026-03-30T02:05:29.428Z"
 ---
 
 # § 1921. Approval of U.S.-FSM Compact of Free Association and the U.S.-RMI Compact of Free Association; references to subsidiary agreements or separate agreements

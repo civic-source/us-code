@@ -3,9 +3,9 @@ title: "Section 152 - Additional land withdrawn; payment; management and control
 usc_title: 16
 usc_section: "152"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 152"
-generated_at: "2026-03-30T01:59:04.341Z"
+generated_at: "2026-03-30T02:03:23.839Z"
 ---
 
 # § 152. Additional land withdrawn; payment; management and control; regulations; sale of improvements; penalties; town lots

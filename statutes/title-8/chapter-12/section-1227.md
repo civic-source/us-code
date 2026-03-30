@@ -3,9 +3,9 @@ title: "Section 1227 - Deportable aliens"
 usc_title: 8
 usc_section: "1227"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "8 U.S.C. § 1227"
-generated_at: "2026-03-30T01:58:05.774Z"
+generated_at: "2026-03-30T02:02:24.213Z"
 ---
 
 # § 1227. Deportable aliens

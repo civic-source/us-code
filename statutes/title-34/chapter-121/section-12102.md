@@ -3,9 +3,9 @@ title: "Section 12102 - Authorization of grants"
 usc_title: 34
 usc_section: "12102"
 chapter: 121
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "34 U.S.C. § 12102"
-generated_at: "2026-03-30T01:59:58.786Z"
+generated_at: "2026-03-30T02:04:47.290Z"
 ---
 
 # § 12102. Authorization of grants

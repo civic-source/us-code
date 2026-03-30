@@ -3,9 +3,9 @@ title: "Section 51314 - Limitation on charges and fees for attendance"
 usc_title: 46
 usc_section: "51314"
 chapter: 513
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "46 U.S.C. § 51314"
-generated_at: "2026-03-30T02:00:50.913Z"
+generated_at: "2026-03-30T02:05:26.035Z"
 ---
 
 # § 51314. Limitation on charges and fees for attendance

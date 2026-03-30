@@ -3,9 +3,9 @@ title: "Section 5302 - General provisions"
 usc_title: 42
 usc_section: "5302"
 chapter: 69
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 5302"
-generated_at: "2026-03-30T02:00:42.903Z"
+generated_at: "2026-03-30T02:05:18.927Z"
 ---
 
 # § 5302. General provisions

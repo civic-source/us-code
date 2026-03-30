@@ -3,9 +3,9 @@ title: "Section 797a - Termination allowance"
 usc_title: 45
 usc_section: "797a"
 chapter: 16
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "45 U.S.C. § 797a"
-generated_at: "2026-03-30T02:00:18.621Z"
+generated_at: "2026-03-30T02:05:00.005Z"
 ---
 
 # § 797a. Termination allowance

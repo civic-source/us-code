@@ -3,9 +3,9 @@ title: "Section 1906 - Land-grant colleges constituted depositories"
 usc_title: 44
 usc_section: "1906"
 chapter: 19
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 1906"
-generated_at: "2026-03-30T02:00:18.354Z"
+generated_at: "2026-03-30T02:05:00.394Z"
 ---
 
 # § 1906. Land-grant colleges constituted depositories

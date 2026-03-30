@@ -3,9 +3,9 @@ title: "Section 460yy - Establishment"
 usc_title: 16
 usc_section: "460yy"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 460yy"
-generated_at: "2026-03-30T01:59:04.525Z"
+generated_at: "2026-03-30T02:03:23.921Z"
 ---
 
 # § 460yy. Establishment

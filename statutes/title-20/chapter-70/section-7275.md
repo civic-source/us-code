@@ -3,9 +3,9 @@ title: "Section 7275 - Full-service community schools"
 usc_title: 20
 usc_section: "7275"
 chapter: 70
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 7275"
-generated_at: "2026-03-30T01:59:01.744Z"
+generated_at: "2026-03-30T02:03:15.870Z"
 ---
 
 # § 7275. Full-service community schools

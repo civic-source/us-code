@@ -3,9 +3,9 @@ title: "Section 653 - Neutrals"
 usc_title: 28
 usc_section: "653"
 chapter: 44
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "28 U.S.C. § 653"
-generated_at: "2026-03-30T01:59:41.062Z"
+generated_at: "2026-03-30T02:04:21.601Z"
 ---
 
 # § 653. Neutrals

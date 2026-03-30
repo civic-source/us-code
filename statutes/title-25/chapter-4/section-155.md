@@ -3,9 +3,9 @@ title: "Section 155 - Disposal of miscellaneous revenues from Indian reservation
 usc_title: 25
 usc_section: "155"
 chapter: 4
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 155"
-generated_at: "2026-03-30T01:59:21.886Z"
+generated_at: "2026-03-30T02:03:51.854Z"
 ---
 
 # § 155. Disposal of miscellaneous revenues from Indian reservations, etc.

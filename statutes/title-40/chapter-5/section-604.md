@@ -3,9 +3,9 @@ title: "Section 604 - Treatment of assets taken over to establish motor vehicle 
 usc_title: 40
 usc_section: "604"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "40 U.S.C. § 604"
-generated_at: "2026-03-30T02:00:16.501Z"
+generated_at: "2026-03-30T02:04:49.328Z"
 ---
 
 # § 604. Treatment of assets taken over to establish motor vehicle pools and transportation systems

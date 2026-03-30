@@ -3,9 +3,9 @@ title: "Section 4909 - Petitions"
 usc_title: 16
 usc_section: "4909"
 chapter: 69
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 4909"
-generated_at: "2026-03-30T01:59:04.673Z"
+generated_at: "2026-03-30T02:03:24.105Z"
 ---
 
 # § 4909. Petitions

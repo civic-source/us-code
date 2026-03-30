@@ -3,9 +3,9 @@ title: "Section 421 - Acquisition of lands for irrigation project; eminent domai
 usc_title: 43
 usc_section: "421"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "43 U.S.C. § 421"
-generated_at: "2026-03-30T02:00:22.277Z"
+generated_at: "2026-03-30T02:05:01.490Z"
 ---
 
 # § 421. Acquisition of lands for irrigation project; eminent domain

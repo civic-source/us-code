@@ -3,9 +3,9 @@ title: "Section 10422 - State applications"
 usc_title: 34
 usc_section: "10422"
 chapter: 101
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "34 U.S.C. § 10422"
-generated_at: "2026-03-30T01:59:58.772Z"
+generated_at: "2026-03-30T02:04:47.276Z"
 ---
 
 # § 10422. State applications

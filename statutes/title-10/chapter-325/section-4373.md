@@ -3,9 +3,9 @@ title: "Section 4373 - Unit cost reports: immediate report from program manager 
 usc_title: 10
 usc_section: "4373"
 chapter: 325
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 4373"
-generated_at: "2026-03-30T01:58:27.091Z"
+generated_at: "2026-03-30T02:02:21.314Z"
 ---
 
 # § 4373. Unit cost reports: immediate report from program manager to service acquisition executive upon breach of significant cost growth threshold

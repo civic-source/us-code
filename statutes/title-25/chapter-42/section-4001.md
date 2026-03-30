@@ -3,9 +3,9 @@ title: "Section 4001 - Definitions"
 usc_title: 25
 usc_section: "4001"
 chapter: 42
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 4001"
-generated_at: "2026-03-30T01:59:21.942Z"
+generated_at: "2026-03-30T02:03:51.917Z"
 ---
 
 # § 4001. Definitions

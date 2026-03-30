@@ -3,9 +3,9 @@ title: "Section 2672a - Repealed. Pub. L. 109–163, div. B, title XXVIII, § 28
 usc_title: 10
 usc_section: "2672a"
 chapter: 159
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2672a"
-generated_at: "2026-03-30T01:58:27.062Z"
+generated_at: "2026-03-30T02:02:21.286Z"
 ---
 
 # [§ 2672a. Repealed. Pub. L. 109–163, div. B, title XXVIII, § 2821(f) , Jan. 6, 2006 , 119 Stat. 3513 ]

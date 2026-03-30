@@ -3,9 +3,9 @@ title: "Section 4307 - Periodic statements"
 usc_title: 12
 usc_section: "4307"
 chapter: 44
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 4307"
-generated_at: "2026-03-30T01:58:32.757Z"
+generated_at: "2026-03-30T02:02:59.709Z"
 ---
 
 # § 4307. Periodic statements

@@ -3,9 +3,9 @@ title: "Section 3575 - Findings"
 usc_title: 44
 usc_section: "3575"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 3575"
-generated_at: "2026-03-30T02:00:18.361Z"
+generated_at: "2026-03-30T02:05:00.400Z"
 ---
 
 # § 3575. Findings

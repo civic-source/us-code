@@ -3,9 +3,9 @@ title: "Section 1305 - Filing and allowance of postpetition claims"
 usc_title: 11
 usc_section: "1305"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "11 U.S.C. § 1305"
-generated_at: "2026-03-30T01:58:29.761Z"
+generated_at: "2026-03-30T02:02:29.610Z"
 ---
 
 # § 1305. Filing and allowance of postpetition claims

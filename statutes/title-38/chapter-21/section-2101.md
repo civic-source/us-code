@@ -3,9 +3,9 @@ title: "Section 2101 - Acquisition and adaptation of housing: eligible veterans"
 usc_title: 38
 usc_section: "2101"
 chapter: 21
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 2101"
-generated_at: "2026-03-30T02:00:04.487Z"
+generated_at: "2026-03-30T02:04:57.965Z"
 ---
 
 # § 2101. Acquisition and adaptation of housing: eligible veterans

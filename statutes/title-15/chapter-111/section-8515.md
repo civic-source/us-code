@@ -3,9 +3,9 @@ title: "Section 8515 - Weather research and development planning"
 usc_title: 15
 usc_section: "8515"
 chapter: 111
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 8515"
-generated_at: "2026-03-30T01:58:54.335Z"
+generated_at: "2026-03-30T02:02:33.369Z"
 ---
 
 # § 8515. Weather research and development planning

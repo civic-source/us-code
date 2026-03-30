@@ -3,9 +3,9 @@ title: "Section 138 - Definitions"
 usc_title: 7
 usc_section: "138"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 138"
-generated_at: "2026-03-30T01:58:09.470Z"
+generated_at: "2026-03-30T02:02:15.367Z"
 ---
 
 # § 138. Definitions

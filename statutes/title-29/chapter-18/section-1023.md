@@ -3,9 +3,9 @@ title: "Section 1023 - Annual reports"
 usc_title: 29
 usc_section: "1023"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "29 U.S.C. § 1023"
-generated_at: "2026-03-30T01:59:47.494Z"
+generated_at: "2026-03-30T02:04:18.076Z"
 ---
 
 # § 1023. Annual reports

@@ -3,9 +3,9 @@ title: "Section 1662 - Advertising of downpayments and installments"
 usc_title: 15
 usc_section: "1662"
 chapter: 41
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 1662"
-generated_at: "2026-03-30T01:58:54.253Z"
+generated_at: "2026-03-30T02:02:33.271Z"
 ---
 
 # § 1662. Advertising of downpayments and installments

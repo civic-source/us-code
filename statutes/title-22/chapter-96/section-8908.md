@@ -3,9 +3,9 @@ title: "Section 8908 - Sanctions on persons in the Russian Federation complicit 
 usc_title: 22
 usc_section: "8908"
 chapter: 96
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 8908"
-generated_at: "2026-03-30T01:59:25.586Z"
+generated_at: "2026-03-30T02:03:33.143Z"
 ---
 
 # § 8908. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption

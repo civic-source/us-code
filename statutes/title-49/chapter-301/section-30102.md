@@ -3,9 +3,9 @@ title: "Section 30102 - Definitions"
 usc_title: 49
 usc_section: "30102"
 chapter: 301
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 30102"
-generated_at: "2026-03-30T02:01:46.836Z"
+generated_at: "2026-03-30T02:05:28.964Z"
 ---
 
 # § 30102. Definitions

@@ -3,9 +3,9 @@ title: "Section 40706 - Exceptions"
 usc_title: 46
 usc_section: "40706"
 chapter: 407
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "46 U.S.C. § 40706"
-generated_at: "2026-03-30T02:00:50.909Z"
+generated_at: "2026-03-30T02:05:26.031Z"
 ---
 
 # § 40706. Exceptions

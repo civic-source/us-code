@@ -3,9 +3,9 @@ title: "Section 1085 - Medical and dental care from another executive department
 usc_title: 10
 usc_section: "1085"
 chapter: 55
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1085"
-generated_at: "2026-03-30T01:58:27.013Z"
+generated_at: "2026-03-30T02:02:21.236Z"
 ---
 
 # § 1085. Medical and dental care from another executive department: reimbursement

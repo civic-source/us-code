@@ -3,9 +3,9 @@ title: "Section 80102 - Application"
 usc_title: 49
 usc_section: "80102"
 chapter: 801
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 80102"
-generated_at: "2026-03-30T02:01:46.892Z"
+generated_at: "2026-03-30T02:05:29.023Z"
 ---
 
 # § 80102. Application

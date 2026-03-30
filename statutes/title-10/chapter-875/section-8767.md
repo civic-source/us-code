@@ -3,9 +3,9 @@ title: "Section 8767 - Equipment for instruction in seamanship: loan to military
 usc_title: 10
 usc_section: "8767"
 chapter: 875
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 8767"
-generated_at: "2026-03-30T01:58:27.117Z"
+generated_at: "2026-03-30T02:02:21.341Z"
 ---
 
 # § 8767. Equipment for instruction in seamanship: loan to military schools

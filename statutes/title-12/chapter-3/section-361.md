@@ -3,9 +3,9 @@ title: "Section 361 - Bills receivable, bills of exchange, acceptances; regulati
 usc_title: 12
 usc_section: "361"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 361"
-generated_at: "2026-03-30T01:58:32.635Z"
+generated_at: "2026-03-30T02:02:59.584Z"
 ---
 
 # § 361. Bills receivable, bills of exchange, acceptances; regulations by Board of Governors

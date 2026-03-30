@@ -3,9 +3,9 @@ title: "Section 316 - Colocation of regional offices and medical centers"
 usc_title: 38
 usc_section: "316"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 316"
-generated_at: "2026-03-30T02:00:04.463Z"
+generated_at: "2026-03-30T02:04:57.941Z"
 ---
 
 # § 316. Colocation of regional offices and medical centers

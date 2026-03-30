@@ -3,9 +3,9 @@ title: "Section 1386 - Audits, reports, and fiscal controls; intended use plan"
 usc_title: 33
 usc_section: "1386"
 chapter: 26
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 1386"
-generated_at: "2026-03-30T01:59:51.348Z"
+generated_at: "2026-03-30T02:04:35.809Z"
 ---
 
 # § 1386. Audits, reports, and fiscal controls; intended use plan

@@ -3,9 +3,9 @@ title: "Section 524 - Applicability of administrative procedure provisions"
 usc_title: 33
 usc_section: "524"
 chapter: 11
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 524"
-generated_at: "2026-03-30T01:59:51.308Z"
+generated_at: "2026-03-30T02:04:35.766Z"
 ---
 
 # § 524. Applicability of administrative procedure provisions

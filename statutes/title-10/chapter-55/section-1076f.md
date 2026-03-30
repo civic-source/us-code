@@ -3,9 +3,9 @@ title: "Section 1076f - TRICARE program: extension of coverage for certain membe
 usc_title: 10
 usc_section: "1076f"
 chapter: 55
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1076f"
-generated_at: "2026-03-30T01:58:27.011Z"
+generated_at: "2026-03-30T02:02:21.233Z"
 ---
 
 # § 1076f. TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty

@@ -3,9 +3,9 @@ title: "Section 256i - Notice to Governor of Washington; application of laws to 
 usc_title: 16
 usc_section: "256i"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 256i"
-generated_at: "2026-03-30T01:59:04.348Z"
+generated_at: "2026-03-30T02:03:23.847Z"
 ---
 
 # § 256i. Notice to Governor of Washington; application of laws to subsequently accepted lands

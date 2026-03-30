@@ -3,9 +3,9 @@ title: "Section 10361 - Grant authorization"
 usc_title: 34
 usc_section: "10361"
 chapter: 101
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "34 U.S.C. § 10361"
-generated_at: "2026-03-30T01:59:58.769Z"
+generated_at: "2026-03-30T02:04:47.274Z"
 ---
 
 # § 10361. Grant authorization

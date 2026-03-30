@@ -3,9 +3,9 @@ title: "Section 30 - Repealed. Pub. L. 107–273, div. C, title IV, § 14102(f) 
 usc_title: 15
 usc_section: "30"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 30"
-generated_at: "2026-03-30T01:58:54.128Z"
+generated_at: "2026-03-30T02:02:33.130Z"
 ---
 
 # § 30. Repealed. Pub. L. 107–273, div. C, title IV, § 14102(f) , Nov. 2, 2002 , 116 Stat. 1922

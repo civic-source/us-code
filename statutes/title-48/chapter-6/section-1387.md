@@ -3,9 +3,9 @@ title: "Section 1387 - Transferred"
 usc_title: 48
 usc_section: "1387"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 1387"
-generated_at: "2026-03-30T02:00:46.915Z"
+generated_at: "2026-03-30T02:05:29.413Z"
 ---
 
 # §§ 1384 to 1387. Transferred

@@ -3,9 +3,9 @@ title: "Section 394 - Federal reserve banks as depositaries for and fiscal agent
 usc_title: 12
 usc_section: "394"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 394"
-generated_at: "2026-03-30T01:58:32.636Z"
+generated_at: "2026-03-30T02:02:59.585Z"
 ---
 
 # § 394. Federal reserve banks as depositaries for and fiscal agents of Home Owners’ Loan Corporation

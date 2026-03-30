@@ -3,9 +3,9 @@ title: "Section 1701 - Congressional statement of findings and purposes"
 usc_title: 30
 usc_section: "1701"
 chapter: 29
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "30 U.S.C. § 1701"
-generated_at: "2026-03-30T01:59:46.603Z"
+generated_at: "2026-03-30T02:04:10.763Z"
 ---
 
 # § 1701. Congressional statement of findings and purposes

@@ -3,9 +3,9 @@ title: "Section 3514 - Special account for grants of Department; reports"
 usc_title: 42
 usc_section: "3514"
 chapter: 43
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 3514"
-generated_at: "2026-03-30T02:00:42.864Z"
+generated_at: "2026-03-30T02:05:18.888Z"
 ---
 
 # § 3514. Special account for grants of Department; reports

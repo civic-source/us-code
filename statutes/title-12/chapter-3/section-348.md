@@ -3,9 +3,9 @@ title: "Section 348 - Discount of obligations given for agricultural purposes or
 usc_title: 12
 usc_section: "348"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 348"
-generated_at: "2026-03-30T01:58:32.635Z"
+generated_at: "2026-03-30T02:02:59.583Z"
 ---
 
 # § 348. Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes

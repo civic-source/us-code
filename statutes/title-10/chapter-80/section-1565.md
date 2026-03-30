@@ -3,9 +3,9 @@ title: "Section 1565 - DNA identification information: collection from certain o
 usc_title: 10
 usc_section: "1565"
 chapter: 80
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1565"
-generated_at: "2026-03-30T01:58:27.032Z"
+generated_at: "2026-03-30T02:02:21.257Z"
 ---
 
 # § 1565. DNA identification information: collection from certain offenders; use

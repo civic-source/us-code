@@ -3,9 +3,9 @@ title: "Section 2507 - Training program"
 usc_title: 22
 usc_section: "2507"
 chapter: 34
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 2507"
-generated_at: "2026-03-30T01:59:25.494Z"
+generated_at: "2026-03-30T02:03:33.042Z"
 ---
 
 # § 2507. Training program

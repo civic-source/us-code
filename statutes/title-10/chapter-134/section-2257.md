@@ -3,9 +3,9 @@ title: "Section 2257 - Use of recruiting materials for public relations"
 usc_title: 10
 usc_section: "2257"
 chapter: 134
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2257"
-generated_at: "2026-03-30T01:58:27.048Z"
+generated_at: "2026-03-30T02:02:21.273Z"
 ---
 
 # § 2257. Use of recruiting materials for public relations

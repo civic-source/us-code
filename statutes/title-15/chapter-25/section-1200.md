@@ -3,9 +3,9 @@ title: "Section 1200 - Persons excluded from operation of chapter"
 usc_title: 15
 usc_section: "1200"
 chapter: 25
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 1200"
-generated_at: "2026-03-30T01:58:54.238Z"
+generated_at: "2026-03-30T02:02:33.254Z"
 ---
 
 # § 1200. Persons excluded from operation of chapter

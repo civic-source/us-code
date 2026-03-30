@@ -3,9 +3,9 @@ title: "Section 610 - Permits to cut and remove timber; citizens of Washington C
 usc_title: 16
 usc_section: "610"
 chapter: 4
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 610"
-generated_at: "2026-03-30T01:59:04.560Z"
+generated_at: "2026-03-30T02:03:23.963Z"
 ---
 
 # § 610. Permits to cut and remove timber; citizens of Washington County and Kane County, Utah

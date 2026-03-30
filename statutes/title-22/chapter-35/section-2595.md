@@ -3,9 +3,9 @@ title: "Section 2595 - Findings"
 usc_title: 22
 usc_section: "2595"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 2595"
-generated_at: "2026-03-30T01:59:25.497Z"
+generated_at: "2026-03-30T02:03:33.045Z"
 ---
 
 # § 2595. Findings

@@ -3,9 +3,9 @@ title: "Section 1705 - Development, submission, implementation, and assessment o
 usc_title: 21
 usc_section: "1705"
 chapter: 22
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "21 U.S.C. § 1705"
-generated_at: "2026-03-30T01:59:21.007Z"
+generated_at: "2026-03-30T02:03:29.593Z"
 ---
 
 # § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy

@@ -3,9 +3,9 @@ title: "Section 203 - Replacing lost standard weights and measures; cost"
 usc_title: 15
 usc_section: "203"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 203"
-generated_at: "2026-03-30T01:58:54.182Z"
+generated_at: "2026-03-30T02:02:33.190Z"
 ---
 
 # § 203. Replacing lost standard weights and measures; cost

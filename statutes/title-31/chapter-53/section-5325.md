@@ -3,9 +3,9 @@ title: "Section 5325 - Identification required to purchase certain monetary inst
 usc_title: 31
 usc_section: "5325"
 chapter: 53
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "31 U.S.C. § 5325"
-generated_at: "2026-03-30T01:59:59.641Z"
+generated_at: "2026-03-30T02:04:45.463Z"
 ---
 
 # § 5325. Identification required to purchase certain monetary instruments

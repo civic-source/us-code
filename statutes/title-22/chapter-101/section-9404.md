@@ -3,9 +3,9 @@ title: "Section 9404 - Imposition of terrorism-related sanctions with respect to
 usc_title: 22
 usc_section: "9404"
 chapter: 101
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 9404"
-generated_at: "2026-03-30T01:59:25.593Z"
+generated_at: "2026-03-30T02:03:33.150Z"
 ---
 
 # § 9404. Imposition of terrorism-related sanctions with respect to the IRGC

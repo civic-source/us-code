@@ -3,9 +3,9 @@ title: "Section 2909 - Retention of records"
 usc_title: 44
 usc_section: "2909"
 chapter: 29
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 2909"
-generated_at: "2026-03-30T02:00:18.356Z"
+generated_at: "2026-03-30T02:05:00.396Z"
 ---
 
 # § 2909. Retention of records

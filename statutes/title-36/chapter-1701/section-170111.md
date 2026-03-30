@@ -3,9 +3,9 @@ title: "Section 170111 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "170111"
 chapter: 1701
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "36 U.S.C. § 170111"
-generated_at: "2026-03-30T02:00:05.197Z"
+generated_at: "2026-03-30T02:04:50.405Z"
 ---
 
 # § 170111. Distribution of assets on dissolution or final liquidation

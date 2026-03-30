@@ -3,9 +3,9 @@ title: "Section 119a - Programs managed under alternative compensatory control m
 usc_title: 10
 usc_section: "119a"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 119a"
-generated_at: "2026-03-30T01:58:26.961Z"
+generated_at: "2026-03-30T02:02:21.178Z"
 ---
 
 # § 119a. Programs managed under alternative compensatory control measures: congressional oversight

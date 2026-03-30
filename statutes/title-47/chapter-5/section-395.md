@@ -3,9 +3,9 @@ title: "Section 395 - Assistance for demonstration projects"
 usc_title: 47
 usc_section: "395"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "47 U.S.C. § 395"
-generated_at: "2026-03-30T02:00:56.465Z"
+generated_at: "2026-03-30T02:05:22.328Z"
 ---
 
 # § 395. Assistance for demonstration projects

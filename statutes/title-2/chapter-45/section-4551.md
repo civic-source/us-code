@@ -3,9 +3,9 @@ title: "Section 4551 - Day for paying salaries of the House of Representatives"
 usc_title: 2
 usc_section: "4551"
 chapter: 45
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 4551"
-generated_at: "2026-03-30T01:58:02.851Z"
+generated_at: "2026-03-30T02:02:05.574Z"
 ---
 
 # § 4551. Day for paying salaries of the House of Representatives

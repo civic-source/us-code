@@ -3,9 +3,9 @@ title: "Section 6332 - General authority"
 usc_title: 5
 usc_section: "6332"
 chapter: 63
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 6332"
-generated_at: "2026-03-30T01:58:01.867Z"
+generated_at: "2026-03-30T02:02:07.886Z"
 ---
 
 # § 6332. General authority

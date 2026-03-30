@@ -3,9 +3,9 @@ title: "Section 22 - Qualifications of permanent personnel"
 usc_title: 13
 usc_section: "22"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "13 U.S.C. § 22"
-generated_at: "2026-03-30T01:58:30.292Z"
+generated_at: "2026-03-30T02:02:30.147Z"
 ---
 
 # § 22. Qualifications of permanent personnel

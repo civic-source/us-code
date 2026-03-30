@@ -3,9 +3,9 @@ title: "Section 410yyy - Establishment; acquisition of property"
 usc_title: 16
 usc_section: "410yyy"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 410yyy"
-generated_at: "2026-03-30T01:59:04.376Z"
+generated_at: "2026-03-30T02:03:23.879Z"
 ---
 
 # § 410yyy. Establishment; acquisition of property

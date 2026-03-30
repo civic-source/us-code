@@ -3,9 +3,9 @@ title: "Section 962 - Acceptance of contributions and prosecution of projects; c
 usc_title: 30
 usc_section: "962"
 chapter: 22
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "30 U.S.C. § 962"
-generated_at: "2026-03-30T01:59:46.589Z"
+generated_at: "2026-03-30T02:04:10.748Z"
 ---
 
 # § 962. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations

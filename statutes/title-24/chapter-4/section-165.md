@@ -3,9 +3,9 @@ title: "Section 165 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "165"
 chapter: 4
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "24 U.S.C. § 165"
-generated_at: "2026-03-30T01:59:19.558Z"
+generated_at: "2026-03-30T02:03:40.423Z"
 ---
 
 # §§ 164, 165. Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 Stat. 3379

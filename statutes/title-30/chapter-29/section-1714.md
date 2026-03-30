@@ -3,9 +3,9 @@ title: "Section 1714 - Deposit of royalty funds to Indian accounts"
 usc_title: 30
 usc_section: "1714"
 chapter: 29
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "30 U.S.C. § 1714"
-generated_at: "2026-03-30T01:59:46.603Z"
+generated_at: "2026-03-30T02:04:10.764Z"
 ---
 
 # § 1714. Deposit of royalty funds to Indian accounts

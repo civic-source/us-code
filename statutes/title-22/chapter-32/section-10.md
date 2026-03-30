@@ -3,9 +3,9 @@ title: "Section 10 - Antiterrorism assistance"
 usc_title: 22
 usc_section: "10"
 chapter: 32
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-03-30T01:59:25.484Z"
+generated_at: "2026-03-30T02:03:33.029Z"
 ---
 
 # § 2349aa–10. Antiterrorism assistance

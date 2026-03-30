@@ -3,9 +3,9 @@ title: "Section 6761 - Coordination with Financial Industry Regulatory Authority
 usc_title: 15
 usc_section: "6761"
 chapter: 93
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 6761"
-generated_at: "2026-03-30T01:58:54.321Z"
+generated_at: "2026-03-30T02:02:33.353Z"
 ---
 
 # § 6761. Coordination with Financial Industry Regulatory Authority

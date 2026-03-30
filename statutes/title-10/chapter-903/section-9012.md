@@ -3,9 +3,9 @@ title: "Section 9012 - Department of the Air Force: seal"
 usc_title: 10
 usc_section: "9012"
 chapter: 903
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 9012"
-generated_at: "2026-03-30T01:58:27.119Z"
+generated_at: "2026-03-30T02:02:21.344Z"
 ---
 
 # § 9012. Department of the Air Force: seal

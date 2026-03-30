@@ -3,9 +3,9 @@ title: "Section 5272 - Bonds"
 usc_title: 26
 usc_section: "5272"
 chapter: 51
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 5272"
-generated_at: "2026-03-30T01:59:46.186Z"
+generated_at: "2026-03-30T02:04:09.287Z"
 ---
 
 # § 5272. Bonds

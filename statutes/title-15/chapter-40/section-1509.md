@@ -3,9 +3,9 @@ title: "Section 1509 - Designation of officer to sign routine papers"
 usc_title: 15
 usc_section: "1509"
 chapter: 40
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 1509"
-generated_at: "2026-03-30T01:58:54.244Z"
+generated_at: "2026-03-30T02:02:33.261Z"
 ---
 
 # § 1509. Designation of officer to sign routine papers

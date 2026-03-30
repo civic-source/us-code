@@ -3,9 +3,9 @@ title: "Section 661 - Purposes"
 usc_title: 2
 usc_section: "661"
 chapter: 17
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 661"
-generated_at: "2026-03-30T01:58:02.822Z"
+generated_at: "2026-03-30T02:02:05.542Z"
 ---
 
 # § 661. Purposes

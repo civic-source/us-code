@@ -3,9 +3,9 @@ title: "Section 1945 - Renewal"
 usc_title: 38
 usc_section: "1945"
 chapter: 19
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 1945"
-generated_at: "2026-03-30T02:00:04.483Z"
+generated_at: "2026-03-30T02:04:57.961Z"
 ---
 
 # § 1945. Renewal

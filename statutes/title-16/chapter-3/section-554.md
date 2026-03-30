@@ -3,9 +3,9 @@ title: "Section 554 - Forest supervisors and rangers"
 usc_title: 16
 usc_section: "554"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 554"
-generated_at: "2026-03-30T01:59:04.554Z"
+generated_at: "2026-03-30T02:03:23.956Z"
 ---
 
 # § 554. Forest supervisors and rangers

@@ -3,9 +3,9 @@ title: "Section 404b - Administration, protection, and development; Federal Powe
 usc_title: 16
 usc_section: "404b"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 404b"
-generated_at: "2026-03-30T01:59:04.356Z"
+generated_at: "2026-03-30T02:03:23.856Z"
 ---
 
 # § 404b. Administration, protection, and development; Federal Power Act inapplicable; minimum area

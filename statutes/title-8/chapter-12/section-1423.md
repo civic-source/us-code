@@ -3,9 +3,9 @@ title: "Section 1423 - Requirements as to understanding the English language, hi
 usc_title: 8
 usc_section: "1423"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "8 U.S.C. § 1423"
-generated_at: "2026-03-30T01:58:05.788Z"
+generated_at: "2026-03-30T02:02:24.228Z"
 ---
 
 # § 1423. Requirements as to understanding the English language, history, principles and form of government of the United States

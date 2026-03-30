@@ -3,9 +3,9 @@ title: "Section 4218 - Authorization of appropriations"
 usc_title: 33
 usc_section: "4218"
 chapter: 55
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 4218"
-generated_at: "2026-03-30T01:59:51.389Z"
+generated_at: "2026-03-30T02:04:35.845Z"
 ---
 
 # § 4218. Authorization of appropriations

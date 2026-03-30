@@ -3,9 +3,9 @@ title: "Section 3014 - Nontraditional defense contractor"
 usc_title: 10
 usc_section: "3014"
 chapter: 201
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 3014"
-generated_at: "2026-03-30T01:58:27.075Z"
+generated_at: "2026-03-30T02:02:21.299Z"
 ---
 
 # § 3014. Nontraditional defense contractor

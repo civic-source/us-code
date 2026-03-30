@@ -3,9 +3,9 @@ title: "Section 70509 - Records and inspection"
 usc_title: 36
 usc_section: "70509"
 chapter: 705
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "36 U.S.C. § 70509"
-generated_at: "2026-03-30T02:00:05.189Z"
+generated_at: "2026-03-30T02:04:50.397Z"
 ---
 
 # § 70509. Records and inspection

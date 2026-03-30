@@ -3,9 +3,9 @@ title: "Section 838c - Acquisition by condemnation of transmission facilities"
 usc_title: 16
 usc_section: "838c"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 838c"
-generated_at: "2026-03-30T01:59:04.592Z"
+generated_at: "2026-03-30T02:03:24.003Z"
 ---
 
 # § 838c. Acquisition by condemnation of transmission facilities

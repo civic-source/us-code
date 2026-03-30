@@ -3,9 +3,9 @@ title: "Section 2319C - Illicit digital transmission services"
 usc_title: 18
 usc_section: "2319C"
 chapter: 113
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "18 U.S.C. § 2319C"
-generated_at: "2026-03-30T01:59:16.368Z"
+generated_at: "2026-03-30T02:03:17.368Z"
 ---
 
 # § 2319C. Illicit digital transmission services

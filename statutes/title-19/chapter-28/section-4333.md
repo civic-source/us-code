@@ -3,9 +3,9 @@ title: "Section 4333 - Training"
 usc_title: 19
 usc_section: "4333"
 chapter: 28
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "19 U.S.C. § 4333"
-generated_at: "2026-03-30T01:58:58.987Z"
+generated_at: "2026-03-30T02:03:03.908Z"
 ---
 
 # § 4333. Training

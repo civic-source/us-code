@@ -3,9 +3,9 @@ title: "Section 211 - Relationship to antitrust laws"
 usc_title: 35
 usc_section: "211"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "35 U.S.C. § 211"
-generated_at: "2026-03-30T01:59:53.395Z"
+generated_at: "2026-03-30T02:04:39.211Z"
 ---
 
 # § 211. Relationship to antitrust laws

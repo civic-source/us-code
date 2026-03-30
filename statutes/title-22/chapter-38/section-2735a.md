@@ -3,9 +3,9 @@ title: "Section 2735a - Presidential Envoy for the Abraham Accords, Negev Forum,
 usc_title: 22
 usc_section: "2735a"
 chapter: 38
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 2735a"
-generated_at: "2026-03-30T01:59:25.506Z"
+generated_at: "2026-03-30T02:03:33.056Z"
 ---
 
 # § 2735a. Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements

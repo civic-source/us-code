@@ -3,9 +3,9 @@ title: "Section 2924 - Child development center employees"
 usc_title: 14
 usc_section: "2924"
 chapter: 29
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "14 U.S.C. § 2924"
-generated_at: "2026-03-30T01:58:29.395Z"
+generated_at: "2026-03-30T02:02:29.077Z"
 ---
 
 # § 2924. Child development center employees

@@ -3,9 +3,9 @@ title: "Section 2349cc - Findings"
 usc_title: 22
 usc_section: "2349cc"
 chapter: 32
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 2349cc"
-generated_at: "2026-03-30T01:59:25.484Z"
+generated_at: "2026-03-30T02:03:33.030Z"
 ---
 
 # § 2349cc. Findings

@@ -3,9 +3,9 @@ title: "Section 16514 - Authorization of appropriations"
 usc_title: 42
 usc_section: "16514"
 chapter: 149
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 16514"
-generated_at: "2026-03-30T02:00:43.146Z"
+generated_at: "2026-03-30T02:05:19.164Z"
 ---
 
 # § 16514. Authorization of appropriations

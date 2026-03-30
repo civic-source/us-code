@@ -3,9 +3,9 @@ title: "Section 255 - Guam and Virgin Islands included as “State”"
 usc_title: 10
 usc_section: "255"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 255"
-generated_at: "2026-03-30T01:58:26.973Z"
+generated_at: "2026-03-30T02:02:21.192Z"
 ---
 
 # § 255. Guam and Virgin Islands included as “State”

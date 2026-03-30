@@ -3,9 +3,9 @@ title: "Section 316a - Special pay: incentive pay for members of precommissionin
 usc_title: 37
 usc_section: "316a"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "37 U.S.C. § 316a"
-generated_at: "2026-03-30T02:00:14.933Z"
+generated_at: "2026-03-30T02:04:51.447Z"
 ---
 
 # § 316a. Special pay: incentive pay for members of precommissioning programs pursuing foreign language proficiency

@@ -3,9 +3,9 @@ title: "Section 60128 - Dumping within pipeline rights-of-way"
 usc_title: 49
 usc_section: "60128"
 chapter: 601
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 60128"
-generated_at: "2026-03-30T02:01:46.890Z"
+generated_at: "2026-03-30T02:05:29.021Z"
 ---
 
 # § 60128. Dumping within pipeline rights-of-way

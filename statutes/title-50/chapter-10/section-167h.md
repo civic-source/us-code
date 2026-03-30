@@ -3,9 +3,9 @@ title: "Section 167h - Administrative procedure"
 usc_title: 50
 usc_section: "167h"
 chapter: 10
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 167h"
-generated_at: "2026-03-30T02:00:49.171Z"
+generated_at: "2026-03-30T02:05:23.984Z"
 ---
 
 # § 167h. Administrative procedure

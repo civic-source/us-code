@@ -3,9 +3,9 @@ title: "Section 10 - Reporting requirements"
 usc_title: 7
 usc_section: "10"
 chapter: 50
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 10"
-generated_at: "2026-03-30T01:58:09.542Z"
+generated_at: "2026-03-30T02:02:15.436Z"
 ---
 
 # § 2009cc–10. Reporting requirements

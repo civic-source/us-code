@@ -3,9 +3,9 @@ title: "Section 2462 - Designation of beneficiary developing countries"
 usc_title: 19
 usc_section: "2462"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "19 U.S.C. § 2462"
-generated_at: "2026-03-30T01:58:58.958Z"
+generated_at: "2026-03-30T02:03:03.881Z"
 ---
 
 # § 2462. Designation of beneficiary developing countries

@@ -3,9 +3,9 @@ title: "Section 7623 - Combating HIV/AIDS, tuberculosis, and malaria by strength
 usc_title: 22
 usc_section: "7623"
 chapter: 83
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 7623"
-generated_at: "2026-03-30T01:59:25.570Z"
+generated_at: "2026-03-30T02:03:33.126Z"
 ---
 
 # § 7623. Combating HIV/AIDS, tuberculosis, and malaria by strengthening health policies and health systems of partner countries

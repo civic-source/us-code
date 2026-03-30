@@ -3,9 +3,9 @@ title: "Section 4852b - National consultation on lead-based paint hazard reducti
 usc_title: 42
 usc_section: "4852b"
 chapter: 63
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 4852b"
-generated_at: "2026-03-30T02:00:42.886Z"
+generated_at: "2026-03-30T02:05:18.910Z"
 ---
 
 # § 4852b. National consultation on lead-based paint hazard reduction

@@ -3,9 +3,9 @@ title: "Section 803 - Proceedings of Copyright Royalty Judges"
 usc_title: 17
 usc_section: "803"
 chapter: 8
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "17 U.S.C. § 803"
-generated_at: "2026-03-30T01:59:07.244Z"
+generated_at: "2026-03-30T02:03:08.107Z"
 ---
 
 # § 803. Proceedings of Copyright Royalty Judges

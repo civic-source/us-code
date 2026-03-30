@@ -3,9 +3,9 @@ title: "Section 1712 - Record requirements"
 usc_title: 41
 usc_section: "1712"
 chapter: 17
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "41 U.S.C. § 1712"
-generated_at: "2026-03-30T02:00:21.338Z"
+generated_at: "2026-03-30T02:05:00.750Z"
 ---
 
 # § 1712. Record requirements

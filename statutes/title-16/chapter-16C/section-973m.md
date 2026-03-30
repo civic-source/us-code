@@ -3,9 +3,9 @@ title: "Section 973m - Technical assistance"
 usc_title: 16
 usc_section: "973m"
 chapter: 16
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 973m"
-generated_at: "2026-03-30T01:59:04.598Z"
+generated_at: "2026-03-30T02:03:24.012Z"
 ---
 
 # § 973m. Technical assistance

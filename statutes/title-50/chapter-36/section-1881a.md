@@ -3,9 +3,9 @@ title: "Section 1881a - Procedures for targeting certain persons outside the Uni
 usc_title: 50
 usc_section: "1881a"
 chapter: 36
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 1881a"
-generated_at: "2026-03-30T02:00:49.182Z"
+generated_at: "2026-03-30T02:05:23.995Z"
 ---
 
 # § 1881a. Procedures for targeting certain persons outside the United States other than United States persons

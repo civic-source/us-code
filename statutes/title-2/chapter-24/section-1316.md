@@ -3,9 +3,9 @@ title: "Section 1316 - Rights and protections relating to veterans’ employment
 usc_title: 2
 usc_section: "1316"
 chapter: 24
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 1316"
-generated_at: "2026-03-30T01:58:02.831Z"
+generated_at: "2026-03-30T02:02:05.551Z"
 ---
 
 # § 1316. Rights and protections relating to veterans’ employment and reemployment

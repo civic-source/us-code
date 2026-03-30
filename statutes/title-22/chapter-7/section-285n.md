@@ -3,9 +3,9 @@ title: "Section 285n - Authorization of appropriations to provide United States 
 usc_title: 22
 usc_section: "285n"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 285n"
-generated_at: "2026-03-30T01:59:25.443Z"
+generated_at: "2026-03-30T02:03:32.984Z"
 ---
 
 # § 285n. Authorization of appropriations to provide United States Special Resources

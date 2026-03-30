@@ -3,9 +3,9 @@ title: "Section 44733 - Oversight of repair stations located outside the United 
 usc_title: 49
 usc_section: "44733"
 chapter: 447
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 44733"
-generated_at: "2026-03-30T02:01:46.867Z"
+generated_at: "2026-03-30T02:05:28.997Z"
 ---
 
 # § 44733. Oversight of repair stations located outside the United States

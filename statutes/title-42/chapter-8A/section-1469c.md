@@ -3,9 +3,9 @@ title: "Section 1469c - Omitted"
 usc_title: 42
 usc_section: "1469c"
 chapter: 8
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 1469c"
-generated_at: "2026-03-30T02:00:42.779Z"
+generated_at: "2026-03-30T02:05:18.800Z"
 ---
 
 # §§ 1469 to 1469c. Omitted

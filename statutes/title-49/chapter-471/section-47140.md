@@ -3,9 +3,9 @@ title: "Section 47140 - Meeting current and future energy power demand"
 usc_title: 49
 usc_section: "47140"
 chapter: 471
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 47140"
-generated_at: "2026-03-30T02:01:46.882Z"
+generated_at: "2026-03-30T02:05:29.013Z"
 ---
 
 # § 47140. Meeting current and future energy power demand

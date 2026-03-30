@@ -3,9 +3,9 @@ title: "Section 1507a - Repealed. Pub. L. 97–31, § 12(5) , Aug. 6, 1981 , 95 
 usc_title: 15
 usc_section: "1507a"
 chapter: 40
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 1507a"
-generated_at: "2026-03-30T01:58:54.244Z"
+generated_at: "2026-03-30T02:02:33.261Z"
 ---
 
 # § 1507a. Repealed. Pub. L. 97–31, § 12(5) , Aug. 6, 1981 , 95 Stat. 154

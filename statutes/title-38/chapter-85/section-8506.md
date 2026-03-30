@@ -3,9 +3,9 @@ title: "Section 8506 - Notice of sale"
 usc_title: 38
 usc_section: "8506"
 chapter: 85
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 8506"
-generated_at: "2026-03-30T02:00:04.534Z"
+generated_at: "2026-03-30T02:04:58.012Z"
 ---
 
 # § 8506. Notice of sale

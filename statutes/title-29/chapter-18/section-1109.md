@@ -3,9 +3,9 @@ title: "Section 1109 - Liability for breach of fiduciary duty"
 usc_title: 29
 usc_section: "1109"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "29 U.S.C. § 1109"
-generated_at: "2026-03-30T01:59:47.507Z"
+generated_at: "2026-03-30T02:04:18.093Z"
 ---
 
 # § 1109. Liability for breach of fiduciary duty

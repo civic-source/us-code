@@ -3,9 +3,9 @@ title: "Section 170509 - Records and inspection"
 usc_title: 36
 usc_section: "170509"
 chapter: 1705
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "36 U.S.C. § 170509"
-generated_at: "2026-03-30T02:00:05.198Z"
+generated_at: "2026-03-30T02:04:50.406Z"
 ---
 
 # § 170509. Records and inspection

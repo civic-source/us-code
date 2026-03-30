@@ -3,9 +3,9 @@ title: "Section 1263 - Prohibited acts"
 usc_title: 15
 usc_section: "1263"
 chapter: 30
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 1263"
-generated_at: "2026-03-30T01:58:54.239Z"
+generated_at: "2026-03-30T02:02:33.256Z"
 ---
 
 # § 1263. Prohibited acts

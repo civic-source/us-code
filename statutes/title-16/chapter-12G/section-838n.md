@@ -3,9 +3,9 @@ title: "Section 838n - Columbia Basin power management"
 usc_title: 16
 usc_section: "838n"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 838n"
-generated_at: "2026-03-30T01:59:04.592Z"
+generated_at: "2026-03-30T02:03:24.004Z"
 ---
 
 # § 838n. Columbia Basin power management

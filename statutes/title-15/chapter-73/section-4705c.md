@@ -3,9 +3,9 @@ title: "Section 4705c - Omitted"
 usc_title: 15
 usc_section: "4705c"
 chapter: 73
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 4705c"
-generated_at: "2026-03-30T01:58:54.309Z"
+generated_at: "2026-03-30T02:02:33.338Z"
 ---
 
 # §§ 4705 to 4705c. Omitted

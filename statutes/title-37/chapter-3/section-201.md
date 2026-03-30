@@ -3,9 +3,9 @@ title: "Section 201 - Pay grades: assignment to; general rules"
 usc_title: 37
 usc_section: "201"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "37 U.S.C. § 201"
-generated_at: "2026-03-30T02:00:14.928Z"
+generated_at: "2026-03-30T02:04:51.440Z"
 ---
 
 # § 201. Pay grades: assignment to; general rules

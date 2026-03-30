@@ -3,9 +3,9 @@ title: "Section 5371 - Health care positions"
 usc_title: 5
 usc_section: "5371"
 chapter: 53
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 5371"
-generated_at: "2026-03-30T01:58:01.855Z"
+generated_at: "2026-03-30T02:02:07.875Z"
 ---
 
 # § 5371. Health care positions

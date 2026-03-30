@@ -3,9 +3,9 @@ title: "Section 4702 - Incentives and consideration for qualified training progr
 usc_title: 10
 usc_section: "4702"
 chapter: 365
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 4702"
-generated_at: "2026-03-30T01:58:27.093Z"
+generated_at: "2026-03-30T02:02:21.318Z"
 ---
 
 # § 4702. Incentives and consideration for qualified training programs

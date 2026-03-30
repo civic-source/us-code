@@ -3,9 +3,9 @@ title: "Section 3775 - Definitions"
 usc_title: 10
 usc_section: "3775"
 chapter: 275
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 3775"
-generated_at: "2026-03-30T01:58:27.083Z"
+generated_at: "2026-03-30T02:02:21.307Z"
 ---
 
 # § 3775. Definitions

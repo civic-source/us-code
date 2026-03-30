@@ -3,9 +3,9 @@ title: "Section 580j - Injury benefits for temporary employees"
 usc_title: 16
 usc_section: "580j"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 580j"
-generated_at: "2026-03-30T01:59:04.556Z"
+generated_at: "2026-03-30T02:03:23.959Z"
 ---
 
 # § 580j. Injury benefits for temporary employees

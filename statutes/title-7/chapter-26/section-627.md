@@ -3,9 +3,9 @@ title: "Section 627 - Dairy forward pricing pilot program"
 usc_title: 7
 usc_section: "627"
 chapter: 26
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 627"
-generated_at: "2026-03-30T01:58:09.486Z"
+generated_at: "2026-03-30T02:02:15.382Z"
 ---
 
 # § 627. Dairy forward pricing pilot program

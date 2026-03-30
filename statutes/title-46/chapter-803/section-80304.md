@@ -3,9 +3,9 @@ title: "Section 80304 - Limitation on ice patrol data"
 usc_title: 46
 usc_section: "80304"
 chapter: 803
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "46 U.S.C. § 80304"
-generated_at: "2026-03-30T02:00:50.930Z"
+generated_at: "2026-03-30T02:05:26.053Z"
 ---
 
 # § 80304. Limitation on ice patrol data

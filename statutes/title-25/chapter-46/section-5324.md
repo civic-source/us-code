@@ -3,9 +3,9 @@ title: "Section 5324 - Contract or grant provisions and administration"
 usc_title: 25
 usc_section: "5324"
 chapter: 46
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 5324"
-generated_at: "2026-03-30T01:59:21.951Z"
+generated_at: "2026-03-30T02:03:51.926Z"
 ---
 
 # § 5324. Contract or grant provisions and administration

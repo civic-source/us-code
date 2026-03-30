@@ -3,9 +3,9 @@ title: "Section 244 - Public access defibrillation programs"
 usc_title: 42
 usc_section: "244"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 244"
-generated_at: "2026-03-30T02:00:42.419Z"
+generated_at: "2026-03-30T02:05:18.434Z"
 ---
 
 # § 244. Public access defibrillation programs

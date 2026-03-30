@@ -3,9 +3,9 @@ title: "Section 894 - Art. 94. Mutiny or sedition"
 usc_title: 10
 usc_section: "894"
 chapter: 47
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 894"
-generated_at: "2026-03-30T01:58:26.997Z"
+generated_at: "2026-03-30T02:02:21.219Z"
 ---
 
 # § 894. Art. 94. Mutiny or sedition

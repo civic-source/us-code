@@ -3,9 +3,9 @@ title: "Section 8203 - Participation in national producer database"
 usc_title: 15
 usc_section: "8203"
 chapter: 108
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 8203"
-generated_at: "2026-03-30T01:58:54.333Z"
+generated_at: "2026-03-30T02:02:33.366Z"
 ---
 
 # § 8203. Participation in national producer database

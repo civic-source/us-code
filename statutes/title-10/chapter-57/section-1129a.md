@@ -3,9 +3,9 @@ title: "Section 1129a - Purple Heart: members killed or wounded in attacks by fo
 usc_title: 10
 usc_section: "1129a"
 chapter: 57
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1129a"
-generated_at: "2026-03-30T01:58:27.016Z"
+generated_at: "2026-03-30T02:02:21.240Z"
 ---
 
 # § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations

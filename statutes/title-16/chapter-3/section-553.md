@@ -3,9 +3,9 @@ title: "Section 553 - Duties of officials of Forest Service; stock laws; protect
 usc_title: 16
 usc_section: "553"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 553"
-generated_at: "2026-03-30T01:59:04.554Z"
+generated_at: "2026-03-30T02:03:23.956Z"
 ---
 
 # § 553. Duties of officials of Forest Service; stock laws; protection of fish and game

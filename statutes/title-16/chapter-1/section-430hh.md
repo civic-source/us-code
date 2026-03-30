@@ -3,9 +3,9 @@ title: "Section 430hh - Administration, protection, and development; improvement
 usc_title: 16
 usc_section: "430hh"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 430hh"
-generated_at: "2026-03-30T01:59:04.498Z"
+generated_at: "2026-03-30T02:03:23.890Z"
 ---
 
 # § 430hh. Administration, protection, and development; improvements

@@ -3,9 +3,9 @@ title: "Section 7403 - Army Ranger training: instructor staffing; safety"
 usc_title: 10
 usc_section: "7403"
 chapter: 751
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 7403"
-generated_at: "2026-03-30T01:58:27.101Z"
+generated_at: "2026-03-30T02:02:21.324Z"
 ---
 
 # § 7403. Army Ranger training: instructor staffing; safety

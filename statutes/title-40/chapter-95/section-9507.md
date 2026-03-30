@@ -3,9 +3,9 @@ title: "Section 9507 - Control of expenditures"
 usc_title: 40
 usc_section: "9507"
 chapter: 95
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "40 U.S.C. § 9507"
-generated_at: "2026-03-30T02:00:16.510Z"
+generated_at: "2026-03-30T02:04:49.337Z"
 ---
 
 # § 9507. Control of expenditures

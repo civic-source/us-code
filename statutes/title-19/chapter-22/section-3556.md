@@ -3,9 +3,9 @@ title: "Section 3556 - Certain nonrubber footwear"
 usc_title: 19
 usc_section: "3556"
 chapter: 22
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "19 U.S.C. § 3556"
-generated_at: "2026-03-30T01:58:58.974Z"
+generated_at: "2026-03-30T02:03:03.897Z"
 ---
 
 # § 3556. Certain nonrubber footwear

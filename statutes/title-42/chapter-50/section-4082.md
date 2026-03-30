@@ -3,9 +3,9 @@ title: "Section 4082 - Use of insurance pool, companies, or other private organi
 usc_title: 42
 usc_section: "4082"
 chapter: 50
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 4082"
-generated_at: "2026-03-30T02:00:42.875Z"
+generated_at: "2026-03-30T02:05:18.898Z"
 ---
 
 # § 4082. Use of insurance pool, companies, or other private organizations for certain payments

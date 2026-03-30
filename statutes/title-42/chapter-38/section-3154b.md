@@ -3,9 +3,9 @@ title: "Section 3154b - Planning performance awards"
 usc_title: 42
 usc_section: "3154b"
 chapter: 38
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 3154b"
-generated_at: "2026-03-30T02:00:42.862Z"
+generated_at: "2026-03-30T02:05:18.884Z"
 ---
 
 # § 3154b. Planning performance awards

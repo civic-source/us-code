@@ -3,9 +3,9 @@ title: "Section 521h - Regulations; contents"
 usc_title: 16
 usc_section: "521h"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 521h"
-generated_at: "2026-03-30T01:59:04.544Z"
+generated_at: "2026-03-30T02:03:23.944Z"
 ---
 
 # § 521h. Regulations; contents

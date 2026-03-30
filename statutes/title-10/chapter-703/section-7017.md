@@ -3,9 +3,9 @@ title: "Section 7017 - Secretary of the Army: successors to duties"
 usc_title: 10
 usc_section: "7017"
 chapter: 703
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 7017"
-generated_at: "2026-03-30T01:58:27.099Z"
+generated_at: "2026-03-30T02:02:21.322Z"
 ---
 
 # § 7017. Secretary of the Army: successors to duties

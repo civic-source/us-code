@@ -3,9 +3,9 @@ title: "Section 3705 - Submission of other information"
 usc_title: 10
 usc_section: "3705"
 chapter: 271
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 3705"
-generated_at: "2026-03-30T01:58:27.081Z"
+generated_at: "2026-03-30T02:02:21.306Z"
 ---
 
 # § 3705. Submission of other information

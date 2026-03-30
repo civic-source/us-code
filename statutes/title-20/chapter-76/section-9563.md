@@ -3,9 +3,9 @@ title: "Section 9563 - Evaluations"
 usc_title: 20
 usc_section: "9563"
 chapter: 76
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 9563"
-generated_at: "2026-03-30T01:59:01.762Z"
+generated_at: "2026-03-30T02:03:15.892Z"
 ---
 
 # § 9563. Evaluations

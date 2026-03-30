@@ -3,9 +3,9 @@ title: "Section 1442 - Member financial information"
 usc_title: 12
 usc_section: "1442"
 chapter: 11
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 1442"
-generated_at: "2026-03-30T01:58:32.649Z"
+generated_at: "2026-03-30T02:02:59.600Z"
 ---
 
 # § 1442. Member financial information

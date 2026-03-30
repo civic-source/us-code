@@ -3,9 +3,9 @@ title: "Section 9858p - Severability"
 usc_title: 42
 usc_section: "9858p"
 chapter: 105
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 9858p"
-generated_at: "2026-03-30T02:00:43.040Z"
+generated_at: "2026-03-30T02:05:19.061Z"
 ---
 
 # § 9858p. Severability

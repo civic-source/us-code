@@ -3,9 +3,9 @@ title: "Section 4326 - Waiver by Custodian of demand for property; acceptance of
 usc_title: 50
 usc_section: "4326"
 chapter: 53
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 4326"
-generated_at: "2026-03-30T02:00:49.249Z"
+generated_at: "2026-03-30T02:05:24.054Z"
 ---
 
 # § 4326. Waiver by Custodian of demand for property; acceptance of less amount; approval of Attorney General

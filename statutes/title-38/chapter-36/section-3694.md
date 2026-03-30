@@ -3,9 +3,9 @@ title: "Section 3694 - Use of other Federal agencies"
 usc_title: 38
 usc_section: "3694"
 chapter: 36
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 3694"
-generated_at: "2026-03-30T02:00:04.503Z"
+generated_at: "2026-03-30T02:04:57.980Z"
 ---
 
 # § 3694. Use of other Federal agencies

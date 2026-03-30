@@ -3,9 +3,9 @@ title: "Section 1303 - Improving Federal data on broadband"
 usc_title: 47
 usc_section: "1303"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "47 U.S.C. § 1303"
-generated_at: "2026-03-30T02:00:56.483Z"
+generated_at: "2026-03-30T02:05:22.345Z"
 ---
 
 # § 1303. Improving Federal data on broadband

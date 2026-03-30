@@ -3,9 +3,9 @@ title: "Section 3611 - Independent assessment"
 usc_title: 44
 usc_section: "3611"
 chapter: 36
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 3611"
-generated_at: "2026-03-30T02:00:18.362Z"
+generated_at: "2026-03-30T02:05:00.401Z"
 ---
 
 # § 3611. Independent assessment

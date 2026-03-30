@@ -3,9 +3,9 @@ title: "Section 1706 - Importation in vessels under thirty tons and aircraft; li
 usc_title: 19
 usc_section: "1706"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "19 U.S.C. § 1706"
-generated_at: "2026-03-30T01:58:58.945Z"
+generated_at: "2026-03-30T02:03:03.869Z"
 ---
 
 # § 1706. Importation in vessels under thirty tons and aircraft; licenses; labels as prima facie evidence of foreign origin of merchandise

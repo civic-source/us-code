@@ -3,9 +3,9 @@ title: "Section 13a - Nonenforcement of rules of government or other violations;
 usc_title: 7
 usc_section: "13a"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 13a"
-generated_at: "2026-03-30T01:58:09.445Z"
+generated_at: "2026-03-30T02:02:15.344Z"
 ---
 
 # § 13a. Nonenforcement of rules of government or other violations; cease and desist orders; fines and penalties; imprisonment; misdemeanor; separate offenses

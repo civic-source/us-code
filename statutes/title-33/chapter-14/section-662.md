@@ -3,9 +3,9 @@ title: "Section 662 - Organization; compensation of members; rules and regulatio
 usc_title: 33
 usc_section: "662"
 chapter: 14
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 662"
-generated_at: "2026-03-30T01:59:51.313Z"
+generated_at: "2026-03-30T02:04:35.770Z"
 ---
 
 # § 662. Organization; compensation of members; rules and regulations of procedure; traveling expenses

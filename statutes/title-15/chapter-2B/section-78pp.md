@@ -3,9 +3,9 @@ title: "Section 78pp - Investor Advisory Committee"
 usc_title: 15
 usc_section: "78pp"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 78pp"
-generated_at: "2026-03-30T01:58:54.169Z"
+generated_at: "2026-03-30T02:02:33.174Z"
 ---
 
 # § 78pp. Investor Advisory Committee

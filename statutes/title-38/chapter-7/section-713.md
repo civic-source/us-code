@@ -3,9 +3,9 @@ title: "Section 713 - Senior executives: removal, demotion, or suspension based 
 usc_title: 38
 usc_section: "713"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 713"
-generated_at: "2026-03-30T02:00:04.466Z"
+generated_at: "2026-03-30T02:04:57.944Z"
 ---
 
 # § 713. Senior executives: removal, demotion, or suspension based on performance or misconduct

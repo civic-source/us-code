@@ -3,9 +3,9 @@ title: "Section 1959i - Transferred"
 usc_title: 42
 usc_section: "1959i"
 chapter: 19
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 1959i"
-generated_at: "2026-03-30T02:00:42.813Z"
+generated_at: "2026-03-30T02:05:18.836Z"
 ---
 
 # § 1959i. Transferred

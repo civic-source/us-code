@@ -3,9 +3,9 @@ title: "Section 426b - Applicability of existing laws; projects referred to Boar
 usc_title: 33
 usc_section: "426b"
 chapter: 9
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 426b"
-generated_at: "2026-03-30T01:59:51.303Z"
+generated_at: "2026-03-30T02:04:35.761Z"
 ---
 
 # § 426b. Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors

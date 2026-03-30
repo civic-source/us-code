@@ -3,9 +3,9 @@ title: "Section 5401 - Qualifying documents"
 usc_title: 26
 usc_section: "5401"
 chapter: 51
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 5401"
-generated_at: "2026-03-30T01:59:46.188Z"
+generated_at: "2026-03-30T02:04:09.289Z"
 ---
 
 # § 5401. Qualifying documents

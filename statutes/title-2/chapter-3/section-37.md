@@ -3,9 +3,9 @@ title: "Section 37 - Transferred"
 usc_title: 2
 usc_section: "37"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 37"
-generated_at: "2026-03-30T01:58:02.805Z"
+generated_at: "2026-03-30T02:02:05.525Z"
 ---
 
 # § 37. Transferred

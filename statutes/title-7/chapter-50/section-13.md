@@ -3,9 +3,9 @@ title: "Section 13 - Additional penalties for noncompliance"
 usc_title: 7
 usc_section: "13"
 chapter: 50
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 13"
-generated_at: "2026-03-30T01:58:09.542Z"
+generated_at: "2026-03-30T02:02:15.437Z"
 ---
 
 # § 2009cc–13. Additional penalties for noncompliance

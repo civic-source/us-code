@@ -3,9 +3,9 @@ title: "Section 1417 - Criminal jurisdiction"
 usc_title: 48
 usc_section: "1417"
 chapter: 8
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 1417"
-generated_at: "2026-03-30T02:00:46.916Z"
+generated_at: "2026-03-30T02:05:29.414Z"
 ---
 
 # § 1417. Criminal jurisdiction

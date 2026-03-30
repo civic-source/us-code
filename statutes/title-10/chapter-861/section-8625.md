@@ -3,9 +3,9 @@ title: "Section 8625 - Navy Reserve flag"
 usc_title: 10
 usc_section: "8625"
 chapter: 861
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 8625"
-generated_at: "2026-03-30T01:58:27.113Z"
+generated_at: "2026-03-30T02:02:21.338Z"
 ---
 
 # § 8625. Navy Reserve flag

@@ -3,9 +3,9 @@ title: "Section 373a - Disposition of trust or restricted estate of intestate wi
 usc_title: 25
 usc_section: "373a"
 chapter: 10
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 373a"
-generated_at: "2026-03-30T01:59:21.891Z"
+generated_at: "2026-03-30T02:03:51.864Z"
 ---
 
 # § 373a. Disposition of trust or restricted estate of intestate without heirs; successor tribe; sale of land

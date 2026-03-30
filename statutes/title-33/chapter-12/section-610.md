@@ -3,9 +3,9 @@ title: "Section 610 - Control of aquatic plant growths and invasive species"
 usc_title: 33
 usc_section: "610"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 610"
-generated_at: "2026-03-30T01:59:51.312Z"
+generated_at: "2026-03-30T02:04:35.769Z"
 ---
 
 # § 610. Control of aquatic plant growths and invasive species

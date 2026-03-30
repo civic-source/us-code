@@ -3,9 +3,9 @@ title: "Section 3481 - Competency of accused"
 usc_title: 18
 usc_section: "3481"
 chapter: 223
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "18 U.S.C. § 3481"
-generated_at: "2026-03-30T01:59:16.380Z"
+generated_at: "2026-03-30T02:03:17.383Z"
 ---
 
 # § 3481. Competency of accused

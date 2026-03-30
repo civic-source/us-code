@@ -3,9 +3,9 @@ title: "Section 8714a - Optional insurance"
 usc_title: 5
 usc_section: "8714a"
 chapter: 87
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 8714a"
-generated_at: "2026-03-30T01:58:01.892Z"
+generated_at: "2026-03-30T02:02:07.910Z"
 ---
 
 # § 8714a. Optional insurance

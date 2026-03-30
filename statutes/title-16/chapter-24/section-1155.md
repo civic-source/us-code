@@ -3,9 +3,9 @@ title: "Section 1155 - Authority of Secretary of Commerce"
 usc_title: 16
 usc_section: "1155"
 chapter: 24
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 1155"
-generated_at: "2026-03-30T01:59:04.601Z"
+generated_at: "2026-03-30T02:03:24.015Z"
 ---
 
 # § 1155. Authority of Secretary of Commerce

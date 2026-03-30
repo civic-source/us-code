@@ -3,9 +3,9 @@ title: "Section 467g - Research"
 usc_title: 33
 usc_section: "467g"
 chapter: 9
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 467g"
-generated_at: "2026-03-30T01:59:51.307Z"
+generated_at: "2026-03-30T02:04:35.763Z"
 ---
 
 # § 467g. Research

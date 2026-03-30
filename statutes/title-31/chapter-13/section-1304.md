@@ -3,9 +3,9 @@ title: "Section 1304 - Judgments, awards, and compromise settlements"
 usc_title: 31
 usc_section: "1304"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "31 U.S.C. § 1304"
-generated_at: "2026-03-30T01:59:59.621Z"
+generated_at: "2026-03-30T02:04:45.446Z"
 ---
 
 # § 1304. Judgments, awards, and compromise settlements

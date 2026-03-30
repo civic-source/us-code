@@ -3,9 +3,9 @@ title: "Section 2347 - Sale of lots to lessees or individual owners"
 usc_title: 42
 usc_section: "2347"
 chapter: 24
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 2347"
-generated_at: "2026-03-30T02:00:42.844Z"
+generated_at: "2026-03-30T02:05:18.866Z"
 ---
 
 # § 2347. Sale of lots to lessees or individual owners

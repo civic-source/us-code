@@ -3,9 +3,9 @@ title: "Section 10103 - Reports to Congress"
 usc_title: 22
 usc_section: "10103"
 chapter: 108
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 10103"
-generated_at: "2026-03-30T01:59:25.601Z"
+generated_at: "2026-03-30T02:03:33.159Z"
 ---
 
 # § 10103. Reports to Congress

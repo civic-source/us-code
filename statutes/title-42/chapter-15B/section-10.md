@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. Pub. L. 95–95, title I, § 112(b)(1) , Aug. 7, 
 usc_title: 42
 usc_section: "10"
 chapter: 15
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:00:42.805Z"
+generated_at: "2026-03-30T02:05:18.827Z"
 ---
 
 # § 1857c–10. Repealed. Pub. L. 95–95, title I, § 112(b)(1) , Aug. 7, 1977 , 91 Stat. 709

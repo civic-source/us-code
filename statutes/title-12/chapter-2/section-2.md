@@ -3,9 +3,9 @@ title: "Section 2 - Expedited procedures for certain reorganizations"
 usc_title: 12
 usc_section: "2"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T01:58:32.629Z"
+generated_at: "2026-03-30T02:02:59.578Z"
 ---
 
 # § 215a–2. Expedited procedures for certain reorganizations

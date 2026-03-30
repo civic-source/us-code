@@ -3,9 +3,9 @@ title: "Section 2074 - False weather reports"
 usc_title: 18
 usc_section: "2074"
 chapter: 101
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "18 U.S.C. § 2074"
-generated_at: "2026-03-30T01:59:16.362Z"
+generated_at: "2026-03-30T02:03:17.361Z"
 ---
 
 # § 2074. False weather reports

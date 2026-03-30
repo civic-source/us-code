@@ -3,9 +3,9 @@ title: "Section 9310 - Dissemination of information"
 usc_title: 42
 usc_section: "9310"
 chapter: 101
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 9310"
-generated_at: "2026-03-30T02:00:43.016Z"
+generated_at: "2026-03-30T02:05:19.039Z"
 ---
 
 # § 9310. Dissemination of information

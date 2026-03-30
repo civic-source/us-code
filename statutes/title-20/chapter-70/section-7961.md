@@ -3,9 +3,9 @@ title: "Section 7961 - Gun-free requirements"
 usc_title: 20
 usc_section: "7961"
 chapter: 70
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 7961"
-generated_at: "2026-03-30T01:59:01.756Z"
+generated_at: "2026-03-30T02:03:15.885Z"
 ---
 
 # § 7961. Gun-free requirements

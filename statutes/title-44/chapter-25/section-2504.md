@@ -3,9 +3,9 @@ title: "Section 2504 - Duties; authorization of grants for historical publicatio
 usc_title: 44
 usc_section: "2504"
 chapter: 25
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 2504"
-generated_at: "2026-03-30T02:00:18.356Z"
+generated_at: "2026-03-30T02:05:00.395Z"
 ---
 
 # § 2504. Duties; authorization of grants for historical publications and records programs; authorization for appropriations

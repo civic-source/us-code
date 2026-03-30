@@ -3,9 +3,9 @@ title: "Section 2 - Domestic casein industry"
 usc_title: 7
 usc_section: "2"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T01:58:09.504Z"
+generated_at: "2026-03-30T02:02:15.401Z"
 ---
 
 # § 1446c–2. Domestic casein industry

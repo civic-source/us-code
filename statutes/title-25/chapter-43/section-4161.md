@@ -3,9 +3,9 @@ title: "Section 4161 - Remedies for noncompliance"
 usc_title: 25
 usc_section: "4161"
 chapter: 43
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 4161"
-generated_at: "2026-03-30T01:59:21.945Z"
+generated_at: "2026-03-30T02:03:51.920Z"
 ---
 
 # § 4161. Remedies for noncompliance

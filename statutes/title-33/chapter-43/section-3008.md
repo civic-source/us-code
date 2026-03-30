@@ -3,9 +3,9 @@ title: "Section 3008 - Aviation accession training programs"
 usc_title: 33
 usc_section: "3008"
 chapter: 43
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 3008"
-generated_at: "2026-03-30T01:59:51.378Z"
+generated_at: "2026-03-30T02:04:35.835Z"
 ---
 
 # § 3008. Aviation accession training programs

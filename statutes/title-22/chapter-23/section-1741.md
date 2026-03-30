@@ -3,9 +3,9 @@ title: "Section 1741 - Assistance for United States nationals unlawfully or wron
 usc_title: 22
 usc_section: "1741"
 chapter: 23
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 1741"
-generated_at: "2026-03-30T01:59:25.463Z"
+generated_at: "2026-03-30T02:03:33.007Z"
 ---
 
 # § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad

@@ -3,9 +3,9 @@ title: "Section 3306 - Encouragement of alternative dispute resolution"
 usc_title: 10
 usc_section: "3306"
 chapter: 241
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 3306"
-generated_at: "2026-03-30T01:58:27.079Z"
+generated_at: "2026-03-30T02:02:21.303Z"
 ---
 
 # § 3306. Encouragement of alternative dispute resolution

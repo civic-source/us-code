@@ -3,9 +3,9 @@ title: "Section 1125 - Repealed. Pub. L. 102–186, § 4(a) , Dec. 4, 1991 , 105
 usc_title: 33
 usc_section: "1125"
 chapter: 22
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 1125"
-generated_at: "2026-03-30T01:59:51.326Z"
+generated_at: "2026-03-30T02:04:35.787Z"
 ---
 
 # § 1125. Repealed. Pub. L. 102–186, § 4(a) , Dec. 4, 1991 , 105 Stat. 1283

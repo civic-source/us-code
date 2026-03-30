@@ -3,9 +3,9 @@ title: "Section 1087 - Repayment by Secretary of loans of bankrupt, deceased, or
 usc_title: 20
 usc_section: "1087"
 chapter: 28
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 1087"
-generated_at: "2026-03-30T01:59:01.660Z"
+generated_at: "2026-03-30T02:03:15.761Z"
 ---
 
 # § 1087. Repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers; treatment of borrowers attending schools that fail to provide a refund, attending closed schools, or falsely certified as eligible to borrow

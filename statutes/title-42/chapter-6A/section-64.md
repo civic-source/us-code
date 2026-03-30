@@ -3,9 +3,9 @@ title: "Section 64 - Pentagon/Shanksville Fund"
 usc_title: 42
 usc_section: "64"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 64"
-generated_at: "2026-03-30T02:00:42.564Z"
+generated_at: "2026-03-30T02:05:18.584Z"
 ---
 
 # § 300mm–64. Pentagon/Shanksville Fund

@@ -3,9 +3,9 @@ title: "Section 9009 - Repealed. Pub. L. 107–279, title IV, § 403(1) , Nov. 5
 usc_title: 20
 usc_section: "9009"
 chapter: 71
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 9009"
-generated_at: "2026-03-30T01:59:01.757Z"
+generated_at: "2026-03-30T02:03:15.886Z"
 ---
 
 # §§ 9001 to 9009. Repealed. Pub. L. 107–279, title IV, § 403(1) , Nov. 5, 2002 , 116 Stat. 1985

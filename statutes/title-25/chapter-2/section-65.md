@@ -3,9 +3,9 @@ title: "Section 65 - Discontinuance of agents, subagents, and interpreters"
 usc_title: 25
 usc_section: "65"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 65"
-generated_at: "2026-03-30T01:59:21.885Z"
+generated_at: "2026-03-30T02:03:51.850Z"
 ---
 
 # § 65. Discontinuance of agents, subagents, and interpreters

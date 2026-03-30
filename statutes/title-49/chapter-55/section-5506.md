@@ -3,9 +3,9 @@ title: "Section 5506 - Advanced transportation research initiative"
 usc_title: 49
 usc_section: "5506"
 chapter: 55
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 5506"
-generated_at: "2026-03-30T02:01:46.763Z"
+generated_at: "2026-03-30T02:05:28.933Z"
 ---
 
 # § 5506. Advanced transportation research initiative

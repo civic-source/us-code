@@ -3,9 +3,9 @@ title: "Section 6711 - Designation of United States National Authority"
 usc_title: 22
 usc_section: "6711"
 chapter: 75
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 6711"
-generated_at: "2026-03-30T01:59:25.559Z"
+generated_at: "2026-03-30T02:03:33.113Z"
 ---
 
 # § 6711. Designation of United States National Authority

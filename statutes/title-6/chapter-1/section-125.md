@@ -3,9 +3,9 @@ title: "Section 125 - Annual report on intelligence activities of the Department
 usc_title: 6
 usc_section: "125"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "6 U.S.C. § 125"
-generated_at: "2026-03-30T01:58:11.133Z"
+generated_at: "2026-03-30T02:02:11.798Z"
 ---
 
 # § 125. Annual report on intelligence activities of the Department of Homeland Security

@@ -3,9 +3,9 @@ title: "Section 1730e - Repealed. Pub. L. 96–221, title V, § 529 , Mar. 31, 1
 usc_title: 12
 usc_section: "1730e"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 1730e"
-generated_at: "2026-03-30T01:58:32.683Z"
+generated_at: "2026-03-30T02:02:59.633Z"
 ---
 
 # § 1730e. Repealed. Pub. L. 96–221, title V, § 529 , Mar. 31, 1980 , 94 Stat. 168

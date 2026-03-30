@@ -3,9 +3,9 @@ title: "Section 4521 - Mode of payment"
 usc_title: 2
 usc_section: "4521"
 chapter: 45
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 4521"
-generated_at: "2026-03-30T01:58:02.850Z"
+generated_at: "2026-03-30T02:02:05.572Z"
 ---
 
 # § 4521. Mode of payment

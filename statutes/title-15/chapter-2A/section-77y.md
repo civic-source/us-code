@@ -3,9 +3,9 @@ title: "Section 77y - Jurisdiction of other Government agencies over securities"
 usc_title: 15
 usc_section: "77y"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 77y"
-generated_at: "2026-03-30T01:58:54.144Z"
+generated_at: "2026-03-30T02:02:33.143Z"
 ---
 
 # § 77y. Jurisdiction of other Government agencies over securities

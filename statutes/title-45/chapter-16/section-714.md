@@ -3,9 +3,9 @@ title: "Section 714 - Omitted"
 usc_title: 45
 usc_section: "714"
 chapter: 16
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "45 U.S.C. § 714"
-generated_at: "2026-03-30T02:00:18.618Z"
+generated_at: "2026-03-30T02:05:00.001Z"
 ---
 
 # § 714. Omitted

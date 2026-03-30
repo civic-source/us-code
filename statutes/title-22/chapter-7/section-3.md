@@ -3,9 +3,9 @@ title: "Section 3 - Federal Reserve Banks as depositories"
 usc_title: 22
 usc_section: "3"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T01:59:25.452Z"
+generated_at: "2026-03-30T02:03:32.993Z"
 ---
 
 # § 290o–3. Federal Reserve Banks as depositories

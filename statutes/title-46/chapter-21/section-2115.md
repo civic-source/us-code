@@ -3,9 +3,9 @@ title: "Section 2115 - Civil penalty to enforce alcohol and dangerous drug testi
 usc_title: 46
 usc_section: "2115"
 chapter: 21
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "46 U.S.C. § 2115"
-generated_at: "2026-03-30T02:00:50.887Z"
+generated_at: "2026-03-30T02:05:26.009Z"
 ---
 
 # § 2115. Civil penalty to enforce alcohol and dangerous drug testing

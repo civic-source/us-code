@@ -3,9 +3,9 @@ title: "Section 7504 - Regulations"
 usc_title: 5
 usc_section: "7504"
 chapter: 75
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 7504"
-generated_at: "2026-03-30T01:58:01.871Z"
+generated_at: "2026-03-30T02:02:07.890Z"
 ---
 
 # § 7504. Regulations

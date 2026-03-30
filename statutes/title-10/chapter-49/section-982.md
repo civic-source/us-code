@@ -3,9 +3,9 @@ title: "Section 982 - Members: service on State and local juries"
 usc_title: 10
 usc_section: "982"
 chapter: 49
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 982"
-generated_at: "2026-03-30T01:58:27.003Z"
+generated_at: "2026-03-30T02:02:21.225Z"
 ---
 
 # § 982. Members: service on State and local juries

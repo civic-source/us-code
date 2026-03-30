@@ -3,9 +3,9 @@ title: "Section 2706 - Right to wear uniform"
 usc_title: 14
 usc_section: "2706"
 chapter: 27
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "14 U.S.C. § 2706"
-generated_at: "2026-03-30T01:58:29.394Z"
+generated_at: "2026-03-30T02:02:29.076Z"
 ---
 
 # § 2706. Right to wear uniform

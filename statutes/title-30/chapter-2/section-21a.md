@@ -3,9 +3,9 @@ title: "Section 21a - National mining and minerals policy; “minerals” define
 usc_title: 30
 usc_section: "21a"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "30 U.S.C. § 21a"
-generated_at: "2026-03-30T01:59:46.571Z"
+generated_at: "2026-03-30T02:04:10.728Z"
 ---
 
 # § 21a. National mining and minerals policy; “minerals” defined; execution of policy under other authorized programs

@@ -3,9 +3,9 @@ title: "Section 1891c - United States catch history"
 usc_title: 16
 usc_section: "1891c"
 chapter: 38
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 1891c"
-generated_at: "2026-03-30T01:59:04.639Z"
+generated_at: "2026-03-30T02:03:24.061Z"
 ---
 
 # § 1891c. United States catch history

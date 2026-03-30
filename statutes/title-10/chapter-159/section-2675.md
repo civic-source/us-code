@@ -3,9 +3,9 @@ title: "Section 2675 - Leases: foreign countries"
 usc_title: 10
 usc_section: "2675"
 chapter: 159
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2675"
-generated_at: "2026-03-30T01:58:27.062Z"
+generated_at: "2026-03-30T02:02:21.287Z"
 ---
 
 # § 2675. Leases: foreign countries

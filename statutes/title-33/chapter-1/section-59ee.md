@@ -3,9 +3,9 @@ title: "Section 59ee - Portion of Sacramento River Barge Canal declared to not b
 usc_title: 33
 usc_section: "59ee"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 59ee"
-generated_at: "2026-03-30T01:59:51.301Z"
+generated_at: "2026-03-30T02:04:35.759Z"
 ---
 
 # § 59ee. Portion of Sacramento River Barge Canal declared to not be navigable waters of United States

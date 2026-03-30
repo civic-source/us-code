@@ -3,9 +3,9 @@ title: "Section 18701 - Definitions"
 usc_title: 42
 usc_section: "18701"
 chapter: 162
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 18701"
-generated_at: "2026-03-30T02:00:43.178Z"
+generated_at: "2026-03-30T02:05:19.197Z"
 ---
 
 # § 18701. Definitions

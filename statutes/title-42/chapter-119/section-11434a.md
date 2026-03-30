@@ -3,9 +3,9 @@ title: "Section 11434a - Definitions"
 usc_title: 42
 usc_section: "11434a"
 chapter: 119
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 11434a"
-generated_at: "2026-03-30T02:00:43.066Z"
+generated_at: "2026-03-30T02:05:19.086Z"
 ---
 
 # § 11434a. Definitions

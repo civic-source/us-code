@@ -3,9 +3,9 @@ title: "Section 3228 - Worker ownership, readiness, and knowledge"
 usc_title: 29
 usc_section: "3228"
 chapter: 32
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "29 U.S.C. § 3228"
-generated_at: "2026-03-30T01:59:47.545Z"
+generated_at: "2026-03-30T02:04:18.135Z"
 ---
 
 # § 3228. Worker ownership, readiness, and knowledge

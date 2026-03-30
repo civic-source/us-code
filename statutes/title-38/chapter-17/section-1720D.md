@@ -3,9 +3,9 @@ title: "Section 1720D - Counseling and treatment for sexual trauma"
 usc_title: 38
 usc_section: "1720D"
 chapter: 17
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 1720D"
-generated_at: "2026-03-30T02:00:04.477Z"
+generated_at: "2026-03-30T02:04:57.955Z"
 ---
 
 # § 1720D. Counseling and treatment for sexual trauma

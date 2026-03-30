@@ -3,9 +3,9 @@ title: "Section 11102 - Use of terminal facilities"
 usc_title: 49
 usc_section: "11102"
 chapter: 111
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 11102"
-generated_at: "2026-03-30T02:01:46.769Z"
+generated_at: "2026-03-30T02:05:28.940Z"
 ---
 
 # § 11102. Use of terminal facilities

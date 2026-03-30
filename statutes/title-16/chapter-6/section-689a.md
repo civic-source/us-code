@@ -3,9 +3,9 @@ title: "Section 689a - Other uses of land permitted in Tahquitz National Game Pr
 usc_title: 16
 usc_section: "689a"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 689a"
-generated_at: "2026-03-30T01:59:04.568Z"
+generated_at: "2026-03-30T02:03:23.973Z"
 ---
 
 # § 689a. Other uses of land permitted in Tahquitz National Game Preserve

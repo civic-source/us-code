@@ -3,9 +3,9 @@ title: "Section 4103 - Definitions"
 usc_title: 25
 usc_section: "4103"
 chapter: 43
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 4103"
-generated_at: "2026-03-30T01:59:21.943Z"
+generated_at: "2026-03-30T02:03:51.918Z"
 ---
 
 # § 4103. Definitions

@@ -3,9 +3,9 @@ title: "Section 6 - Development and conservation of reliable sources"
 usc_title: 50
 usc_section: "6"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-30T02:00:49.170Z"
+generated_at: "2026-03-30T02:05:23.983Z"
 ---
 
 # § 98h–6. Development and conservation of reliable sources

@@ -3,9 +3,9 @@ title: "Section 4601 - Findings and purposes"
 usc_title: 7
 usc_section: "4601"
 chapter: 77
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 4601"
-generated_at: "2026-03-30T01:58:09.582Z"
+generated_at: "2026-03-30T02:02:15.474Z"
 ---
 
 # § 4601. Findings and purposes

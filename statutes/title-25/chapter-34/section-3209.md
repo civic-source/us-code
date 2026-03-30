@@ -3,9 +3,9 @@ title: "Section 3209 - Indian Child Resource and Family Services Centers"
 usc_title: 25
 usc_section: "3209"
 chapter: 34
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 3209"
-generated_at: "2026-03-30T01:59:21.936Z"
+generated_at: "2026-03-30T02:03:51.911Z"
 ---
 
 # § 3209. Indian Child Resource and Family Services Centers

@@ -3,9 +3,9 @@ title: "Section 956 - Investment of earnings in United States property"
 usc_title: 26
 usc_section: "956"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 956"
-generated_at: "2026-03-30T01:59:46.124Z"
+generated_at: "2026-03-30T02:04:09.220Z"
 ---
 
 # § 956. Investment of earnings in United States property

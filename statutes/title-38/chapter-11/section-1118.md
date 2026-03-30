@@ -3,9 +3,9 @@ title: "Section 1118 - Presumptions of service connection for illnesses associat
 usc_title: 38
 usc_section: "1118"
 chapter: 11
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 1118"
-generated_at: "2026-03-30T02:00:04.468Z"
+generated_at: "2026-03-30T02:04:57.948Z"
 ---
 
 # § 1118. Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War

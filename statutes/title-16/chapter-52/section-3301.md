@@ -3,9 +3,9 @@ title: "Section 3301 - Congressional findings and declaration of purpose"
 usc_title: 16
 usc_section: "3301"
 chapter: 52
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 3301"
-generated_at: "2026-03-30T01:59:04.651Z"
+generated_at: "2026-03-30T02:03:24.077Z"
 ---
 
 # § 3301. Congressional findings and declaration of purpose

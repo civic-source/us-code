@@ -3,9 +3,9 @@ title: "Section 715d - Enforcement of chapter"
 usc_title: 15
 usc_section: "715d"
 chapter: 15
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 715d"
-generated_at: "2026-03-30T01:58:54.224Z"
+generated_at: "2026-03-30T02:02:33.237Z"
 ---
 
 # § 715d. Enforcement of chapter

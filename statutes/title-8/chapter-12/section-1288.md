@@ -3,9 +3,9 @@ title: "Section 1288 - Limitations on performance of longshore work by alien cre
 usc_title: 8
 usc_section: "1288"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "8 U.S.C. § 1288"
-generated_at: "2026-03-30T01:58:05.780Z"
+generated_at: "2026-03-30T02:02:24.220Z"
 ---
 
 # § 1288. Limitations on performance of longshore work by alien crewmen

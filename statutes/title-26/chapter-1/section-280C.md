@@ -3,9 +3,9 @@ title: "Section 280C - Certain expenses for which credits are allowable"
 usc_title: 26
 usc_section: "280C"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "26 U.S.C. § 280C"
-generated_at: "2026-03-30T01:59:46.048Z"
+generated_at: "2026-03-30T02:04:09.142Z"
 ---
 
 # § 280C. Certain expenses for which credits are allowable

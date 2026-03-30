@@ -3,9 +3,9 @@ title: "Section 3166 - Agency, Presidential, and Congressional actions"
 usc_title: 16
 usc_section: "3166"
 chapter: 51
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 3166"
-generated_at: "2026-03-30T01:59:04.649Z"
+generated_at: "2026-03-30T02:03:24.074Z"
 ---
 
 # § 3166. Agency, Presidential, and Congressional actions

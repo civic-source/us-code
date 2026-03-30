@@ -3,9 +3,9 @@ title: "Section 19303 - Clean energy technology transfer coordination"
 usc_title: 42
 usc_section: "19303"
 chapter: 163
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 19303"
-generated_at: "2026-03-30T02:00:43.197Z"
+generated_at: "2026-03-30T02:05:19.217Z"
 ---
 
 # § 19303. Clean energy technology transfer coordination

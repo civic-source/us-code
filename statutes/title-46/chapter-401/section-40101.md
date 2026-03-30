@@ -3,9 +3,9 @@ title: "Section 40101 - Purposes"
 usc_title: 46
 usc_section: "40101"
 chapter: 401
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "46 U.S.C. § 40101"
-generated_at: "2026-03-30T02:00:50.908Z"
+generated_at: "2026-03-30T02:05:26.030Z"
 ---
 
 # § 40101. Purposes

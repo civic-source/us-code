@@ -3,9 +3,9 @@ title: "Section 1211 - Members on temporary disability retired list: return to a
 usc_title: 10
 usc_section: "1211"
 chapter: 61
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1211"
-generated_at: "2026-03-30T01:58:27.020Z"
+generated_at: "2026-03-30T02:02:21.245Z"
 ---
 
 # § 1211. Members on temporary disability retired list: return to active duty; promotion

@@ -3,9 +3,9 @@ title: "Section 1039 - Eggs and egg products not intended for use as human food;
 usc_title: 21
 usc_section: "1039"
 chapter: 15
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "21 U.S.C. § 1039"
-generated_at: "2026-03-30T01:59:21.003Z"
+generated_at: "2026-03-30T02:03:29.588Z"
 ---
 
 # § 1039. Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying

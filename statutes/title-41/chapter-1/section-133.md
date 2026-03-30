@@ -3,9 +3,9 @@ title: "Section 133 - Executive agency"
 usc_title: 41
 usc_section: "133"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "41 U.S.C. § 133"
-generated_at: "2026-03-30T02:00:21.335Z"
+generated_at: "2026-03-30T02:05:00.746Z"
 ---
 
 # § 133. Executive agency

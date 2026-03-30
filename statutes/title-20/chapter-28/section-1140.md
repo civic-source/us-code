@@ -3,9 +3,9 @@ title: "Section 1140 - Definitions"
 usc_title: 20
 usc_section: "1140"
 chapter: 28
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 1140"
-generated_at: "2026-03-30T01:59:01.684Z"
+generated_at: "2026-03-30T02:03:15.792Z"
 ---
 
 # § 1140. Definitions

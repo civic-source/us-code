@@ -3,9 +3,9 @@ title: "Section 4235 - Report to Congress"
 usc_title: 33
 usc_section: "4235"
 chapter: 55
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 4235"
-generated_at: "2026-03-30T01:59:51.389Z"
+generated_at: "2026-03-30T02:04:35.845Z"
 ---
 
 # § 4235. Report to Congress

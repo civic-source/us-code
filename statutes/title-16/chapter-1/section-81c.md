@@ -3,9 +3,9 @@ title: "Section 81c - Prohibited uses of acquired, donated, and conservation lan
 usc_title: 16
 usc_section: "81c"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 81c"
-generated_at: "2026-03-30T01:59:04.369Z"
+generated_at: "2026-03-30T02:03:23.870Z"
 ---
 
 # § 410aaa–81c. Prohibited uses of acquired, donated, and conservation land

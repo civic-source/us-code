@@ -3,9 +3,9 @@ title: "Section 4652 - Prohibition on use of funds for documenting economic or e
 usc_title: 10
 usc_section: "4652"
 chapter: 363
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 4652"
-generated_at: "2026-03-30T01:58:27.093Z"
+generated_at: "2026-03-30T02:02:21.316Z"
 ---
 
 # § 4652. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs

@@ -3,9 +3,9 @@ title: "Section 2628 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2628"
 chapter: 53
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 2628"
-generated_at: "2026-03-30T01:58:54.285Z"
+generated_at: "2026-03-30T02:02:33.311Z"
 ---
 
 # § 2628. Authorization of appropriations

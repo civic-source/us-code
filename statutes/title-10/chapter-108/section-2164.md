@@ -3,9 +3,9 @@ title: "Section 2164 - Department of Defense domestic dependent elementary and s
 usc_title: 10
 usc_section: "2164"
 chapter: 108
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 2164"
-generated_at: "2026-03-30T01:58:27.043Z"
+generated_at: "2026-03-30T02:02:21.267Z"
 ---
 
 # § 2164. Department of Defense domestic dependent elementary and secondary schools

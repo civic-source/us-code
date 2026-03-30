@@ -3,9 +3,9 @@ title: "Section 3583 - Application to access data assets for developing evidence
 usc_title: 44
 usc_section: "3583"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 3583"
-generated_at: "2026-03-30T02:00:18.361Z"
+generated_at: "2026-03-30T02:05:00.401Z"
 ---
 
 # § 3583. Application to access data assets for developing evidence

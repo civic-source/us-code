@@ -3,9 +3,9 @@ title: "Section 294k - Training demonstration program"
 usc_title: 42
 usc_section: "294k"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 294k"
-generated_at: "2026-03-30T02:00:42.498Z"
+generated_at: "2026-03-30T02:05:18.515Z"
 ---
 
 # § 294k. Training demonstration program

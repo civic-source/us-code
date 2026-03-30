@@ -3,9 +3,9 @@ title: "Section 11 - Review of mortgagee performance and authority to terminate"
 usc_title: 12
 usc_section: "11"
 chapter: 13
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-30T01:58:32.684Z"
+generated_at: "2026-03-30T02:02:59.635Z"
 ---
 
 # § 1735f–11. Review of mortgagee performance and authority to terminate

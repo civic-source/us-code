@@ -3,9 +3,9 @@ title: "Section 1891b - Fisheries Conservation and Management Fund"
 usc_title: 16
 usc_section: "1891b"
 chapter: 38
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 1891b"
-generated_at: "2026-03-30T01:59:04.639Z"
+generated_at: "2026-03-30T02:03:24.061Z"
 ---
 
 # § 1891b. Fisheries Conservation and Management Fund

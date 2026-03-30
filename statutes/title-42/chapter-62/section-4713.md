@@ -3,9 +3,9 @@ title: "Section 4713 - Omitted"
 usc_title: 42
 usc_section: "4713"
 chapter: 62
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 4713"
-generated_at: "2026-03-30T02:00:42.884Z"
+generated_at: "2026-03-30T02:05:18.908Z"
 ---
 
 # §§ 4711 to 4713. Omitted

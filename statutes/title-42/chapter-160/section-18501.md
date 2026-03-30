@@ -3,9 +3,9 @@ title: "Section 18501 - Exclusion of payments from State eugenics compensation p
 usc_title: 42
 usc_section: "18501"
 chapter: 160
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 18501"
-generated_at: "2026-03-30T02:00:43.174Z"
+generated_at: "2026-03-30T02:05:19.193Z"
 ---
 
 # § 18501. Exclusion of payments from State eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits

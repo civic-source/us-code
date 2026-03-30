@@ -3,9 +3,9 @@ title: "Section 935 - Coast Guard band recordings for commercial sale"
 usc_title: 14
 usc_section: "935"
 chapter: 9
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "14 U.S.C. § 935"
-generated_at: "2026-03-30T01:58:29.387Z"
+generated_at: "2026-03-30T02:02:29.069Z"
 ---
 
 # § 935. Coast Guard band recordings for commercial sale

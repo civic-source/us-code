@@ -3,9 +3,9 @@ title: "Section 118 - Office of Multimodal Freight Infrastructure and Policy"
 usc_title: 49
 usc_section: "118"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "49 U.S.C. § 118"
-generated_at: "2026-03-30T02:01:46.742Z"
+generated_at: "2026-03-30T02:05:28.912Z"
 ---
 
 # § 118. Office of Multimodal Freight Infrastructure and Policy

@@ -3,9 +3,9 @@ title: "Section 5409 - Recordkeeping requirements"
 usc_title: 15
 usc_section: "5409"
 chapter: 80
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 5409"
-generated_at: "2026-03-30T01:58:54.312Z"
+generated_at: "2026-03-30T02:02:33.343Z"
 ---
 
 # § 5409. Recordkeeping requirements

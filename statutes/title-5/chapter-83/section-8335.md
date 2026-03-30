@@ -3,9 +3,9 @@ title: "Section 8335 - Mandatory separation"
 usc_title: 5
 usc_section: "8335"
 chapter: 83
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "5 U.S.C. § 8335"
-generated_at: "2026-03-30T01:58:01.878Z"
+generated_at: "2026-03-30T02:02:07.897Z"
 ---
 
 # § 8335. Mandatory separation

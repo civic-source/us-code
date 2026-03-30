@@ -3,9 +3,9 @@ title: "Section 12602 - Members of Army National Guard of United States and Air 
 usc_title: 10
 usc_section: "12602"
 chapter: 1217
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 12602"
-generated_at: "2026-03-30T01:58:27.133Z"
+generated_at: "2026-03-30T02:02:21.358Z"
 ---
 
 # § 12602. Members of Army National Guard of United States and Air National Guard of United States: credit for service as members of National Guard

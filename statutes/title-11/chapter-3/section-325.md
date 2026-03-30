@@ -3,9 +3,9 @@ title: "Section 325 - Effect of vacancy"
 usc_title: 11
 usc_section: "325"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "11 U.S.C. § 325"
-generated_at: "2026-03-30T01:58:29.745Z"
+generated_at: "2026-03-30T02:02:29.595Z"
 ---
 
 # § 325. Effect of vacancy

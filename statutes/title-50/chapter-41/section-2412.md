@@ -3,9 +3,9 @@ title: "Section 2412 - Cybersecurity Risk Inventory, Assessment, and Mitigation 
 usc_title: 50
 usc_section: "2412"
 chapter: 41
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "50 U.S.C. § 2412"
-generated_at: "2026-03-30T02:00:49.195Z"
+generated_at: "2026-03-30T02:05:24.004Z"
 ---
 
 # § 2412. Cybersecurity Risk Inventory, Assessment, and Mitigation Working Group

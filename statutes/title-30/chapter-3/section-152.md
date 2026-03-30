@@ -3,9 +3,9 @@ title: "Section 152 - Repealed. Feb. 7, 1927, ch. 66, § 6 , 44 Stat. 1058"
 usc_title: 30
 usc_section: "152"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "30 U.S.C. § 152"
-generated_at: "2026-03-30T01:59:46.573Z"
+generated_at: "2026-03-30T02:04:10.730Z"
 ---
 
 # §§ 141 to 152. Repealed. Feb. 7, 1927, ch. 66, § 6 , 44 Stat. 1058

@@ -3,9 +3,9 @@ title: "Section 9708 - Interagency Committee on Water Management and Infrastruct
 usc_title: 15
 usc_section: "9708"
 chapter: 121
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "15 U.S.C. § 9708"
-generated_at: "2026-03-30T01:58:54.355Z"
+generated_at: "2026-03-30T02:02:33.390Z"
 ---
 
 # § 9708. Interagency Committee on Water Management and Infrastructure

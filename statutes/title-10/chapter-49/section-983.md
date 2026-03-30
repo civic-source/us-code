@@ -3,9 +3,9 @@ title: "Section 983 - Institutions of higher education that prevent ROTC access 
 usc_title: 10
 usc_section: "983"
 chapter: 49
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 983"
-generated_at: "2026-03-30T01:58:27.003Z"
+generated_at: "2026-03-30T02:02:21.225Z"
 ---
 
 # § 983. Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies

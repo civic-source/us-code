@@ -3,9 +3,9 @@ title: "Section 595 - Repealed. Pub. L. 115–387, § 2(a)(4) , Dec. 21, 2018 , 
 usc_title: 6
 usc_section: "595"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "6 U.S.C. § 595"
-generated_at: "2026-03-30T01:58:11.155Z"
+generated_at: "2026-03-30T02:02:11.821Z"
 ---
 
 # § 595. Repealed. Pub. L. 115–387, § 2(a)(4) , Dec. 21, 2018 , 132 Stat. 5163

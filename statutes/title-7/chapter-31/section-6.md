@@ -3,9 +3,9 @@ title: "Section 6 - Federal broadband program coordination"
 usc_title: 7
 usc_section: "6"
 chapter: 31
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T01:58:09.490Z"
+generated_at: "2026-03-30T02:02:15.386Z"
 ---
 
 # § 950bb–6. Federal broadband program coordination

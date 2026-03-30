@@ -3,9 +3,9 @@ title: "Section 8684a - Omitted]"
 usc_title: 10
 usc_section: "8684a"
 chapter: 863
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 8684a"
-generated_at: "2026-03-30T01:58:27.114Z"
+generated_at: "2026-03-30T02:02:21.339Z"
 ---
 
 # [§ 8684a. Omitted]

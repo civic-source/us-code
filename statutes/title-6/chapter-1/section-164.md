@@ -3,9 +3,9 @@ title: "Section 164 - Abolishment of Office of Science and Technology of Nationa
 usc_title: 6
 usc_section: "164"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "6 U.S.C. § 164"
-generated_at: "2026-03-30T01:58:11.133Z"
+generated_at: "2026-03-30T02:02:11.799Z"
 ---
 
 # § 164. Abolishment of Office of Science and Technology of National Institute of Justice; transfer of functions

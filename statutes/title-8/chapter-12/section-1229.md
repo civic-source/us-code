@@ -3,9 +3,9 @@ title: "Section 1229 - Initiation of removal proceedings"
 usc_title: 8
 usc_section: "1229"
 chapter: 12
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "8 U.S.C. § 1229"
-generated_at: "2026-03-30T01:58:05.775Z"
+generated_at: "2026-03-30T02:02:24.214Z"
 ---
 
 # § 1229. Initiation of removal proceedings

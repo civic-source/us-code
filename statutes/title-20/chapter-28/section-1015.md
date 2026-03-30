@@ -3,9 +3,9 @@ title: "Section 1015 - Improvements in market information and public accountabil
 usc_title: 20
 usc_section: "1015"
 chapter: 28
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 1015"
-generated_at: "2026-03-30T01:59:01.635Z"
+generated_at: "2026-03-30T02:03:15.728Z"
 ---
 
 # § 1015. Improvements in market information and public accountability in higher education

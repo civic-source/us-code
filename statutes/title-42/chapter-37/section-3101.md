@@ -3,9 +3,9 @@ title: "Section 3101 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "3101"
 chapter: 37
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 3101"
-generated_at: "2026-03-30T02:00:42.860Z"
+generated_at: "2026-03-30T02:05:18.883Z"
 ---
 
 # § 3101. Congressional declaration of purpose

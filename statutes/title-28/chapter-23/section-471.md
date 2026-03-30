@@ -3,9 +3,9 @@ title: "Section 471 - Requirement for a district court civil justice expense and
 usc_title: 28
 usc_section: "471"
 chapter: 23
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "28 U.S.C. § 471"
-generated_at: "2026-03-30T01:59:41.055Z"
+generated_at: "2026-03-30T02:04:21.594Z"
 ---
 
 # § 471. Requirement for a district court civil justice expense and delay reduction plan

@@ -3,9 +3,9 @@ title: "Section 1563a - Honorary promotions on the initiative of the Department 
 usc_title: 10
 usc_section: "1563a"
 chapter: 80
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1563a"
-generated_at: "2026-03-30T01:58:27.031Z"
+generated_at: "2026-03-30T02:02:21.256Z"
 ---
 
 # § 1563a. Honorary promotions on the initiative of the Department of Defense

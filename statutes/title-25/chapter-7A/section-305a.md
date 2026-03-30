@@ -3,9 +3,9 @@ title: "Section 305a - Promotion of economic welfare through development of arts
 usc_title: 25
 usc_section: "305a"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "25 U.S.C. § 305a"
-generated_at: "2026-03-30T01:59:21.889Z"
+generated_at: "2026-03-30T02:03:51.860Z"
 ---
 
 # § 305a. Promotion of economic welfare through development of arts and crafts; powers of Board

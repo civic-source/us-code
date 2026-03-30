@@ -3,9 +3,9 @@ title: "Section 4819 - Authorization of appropriations"
 usc_title: 7
 usc_section: "4819"
 chapter: 79
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "7 U.S.C. § 4819"
-generated_at: "2026-03-30T01:58:09.585Z"
+generated_at: "2026-03-30T02:02:15.476Z"
 ---
 
 # § 4819. Authorization of appropriations

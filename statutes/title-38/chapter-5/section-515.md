@@ -3,9 +3,9 @@ title: "Section 515 - Administrative settlement of tort claims"
 usc_title: 38
 usc_section: "515"
 chapter: 5
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 515"
-generated_at: "2026-03-30T02:00:04.464Z"
+generated_at: "2026-03-30T02:04:57.942Z"
 ---
 
 # § 515. Administrative settlement of tort claims

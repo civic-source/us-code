@@ -3,9 +3,9 @@ title: "Section 1602 - Prohibition on use of certain Federal subsidies"
 usc_title: 47
 usc_section: "1602"
 chapter: 15
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "47 U.S.C. § 1602"
-generated_at: "2026-03-30T02:00:56.488Z"
+generated_at: "2026-03-30T02:05:22.350Z"
 ---
 
 # § 1602. Prohibition on use of certain Federal subsidies

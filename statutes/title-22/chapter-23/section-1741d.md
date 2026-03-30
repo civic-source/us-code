@@ -3,9 +3,9 @@ title: "Section 1741d - Authorization of imposition of sanctions"
 usc_title: 22
 usc_section: "1741d"
 chapter: 23
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "22 U.S.C. § 1741d"
-generated_at: "2026-03-30T01:59:25.464Z"
+generated_at: "2026-03-30T02:03:33.007Z"
 ---
 
 # § 1741d. Authorization of imposition of sanctions

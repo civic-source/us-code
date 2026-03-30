@@ -3,9 +3,9 @@ title: "Section 288h - Defense of certain constitutional powers"
 usc_title: 2
 usc_section: "288h"
 chapter: 9
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "2 U.S.C. § 288h"
-generated_at: "2026-03-30T01:58:02.815Z"
+generated_at: "2026-03-30T02:02:05.536Z"
 ---
 
 # § 288h. Defense of certain constitutional powers

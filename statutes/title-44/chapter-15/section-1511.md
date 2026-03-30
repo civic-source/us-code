@@ -3,9 +3,9 @@ title: "Section 1511 - International agreements excluded from provisions of chap
 usc_title: 44
 usc_section: "1511"
 chapter: 15
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "44 U.S.C. § 1511"
-generated_at: "2026-03-30T02:00:18.353Z"
+generated_at: "2026-03-30T02:05:00.393Z"
 ---
 
 # § 1511. International agreements excluded from provisions of chapter

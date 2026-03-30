@@ -3,9 +3,9 @@ title: "Section 157 - Application for withdrawal, reservation, or restriction; s
 usc_title: 43
 usc_section: "157"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "43 U.S.C. § 157"
-generated_at: "2026-03-30T02:00:22.267Z"
+generated_at: "2026-03-30T02:05:01.481Z"
 ---
 
 # § 157. Application for withdrawal, reservation, or restriction; specifications

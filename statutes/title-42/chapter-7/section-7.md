@@ -3,9 +3,9 @@ title: "Section 7 - Limitation on use of funds"
 usc_title: 42
 usc_section: "7"
 chapter: 7
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:00:42.757Z"
+generated_at: "2026-03-30T02:05:18.777Z"
 ---
 
 # § 1397n–7. Limitation on use of funds

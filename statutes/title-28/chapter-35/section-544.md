@@ -3,9 +3,9 @@ title: "Section 544 - Oath of office"
 usc_title: 28
 usc_section: "544"
 chapter: 35
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "28 U.S.C. § 544"
-generated_at: "2026-03-30T01:59:41.059Z"
+generated_at: "2026-03-30T02:04:21.597Z"
 ---
 
 # § 544. Oath of office

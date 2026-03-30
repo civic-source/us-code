@@ -3,9 +3,9 @@ title: "Section 271 - Prospecting permits; lands included; acreage"
 usc_title: 30
 usc_section: "271"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "30 U.S.C. § 271"
-generated_at: "2026-03-30T01:59:46.578Z"
+generated_at: "2026-03-30T02:04:10.734Z"
 ---
 
 # § 271. Prospecting permits; lands included; acreage

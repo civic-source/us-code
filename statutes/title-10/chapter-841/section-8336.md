@@ -3,9 +3,9 @@ title: "Section 8336 - Highest grade held satisfactorily: Reserve enlisted membe
 usc_title: 10
 usc_section: "8336"
 chapter: 841
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 8336"
-generated_at: "2026-03-30T01:58:27.110Z"
+generated_at: "2026-03-30T02:02:21.334Z"
 ---
 
 # § 8336. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct

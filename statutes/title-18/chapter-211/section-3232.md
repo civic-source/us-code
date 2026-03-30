@@ -3,9 +3,9 @@ title: "Section 3232 - District of offense—(Rule)"
 usc_title: 18
 usc_section: "3232"
 chapter: 211
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "18 U.S.C. § 3232"
-generated_at: "2026-03-30T01:59:16.379Z"
+generated_at: "2026-03-30T02:03:17.381Z"
 ---
 
 # § 3232. District of offense—(Rule)

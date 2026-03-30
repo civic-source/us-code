@@ -3,9 +3,9 @@ title: "Section 575 - Search for lost persons, and transportation of sick, injur
 usc_title: 16
 usc_section: "575"
 chapter: 3
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 575"
-generated_at: "2026-03-30T01:59:04.555Z"
+generated_at: "2026-03-30T02:03:23.957Z"
 ---
 
 # § 575. Search for lost persons, and transportation of sick, injured, or dead persons, within national forests; authorization to incur expense

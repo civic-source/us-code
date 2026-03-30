@@ -3,9 +3,9 @@ title: "Section 6d - Commercial filming"
 usc_title: 16
 usc_section: "6d"
 chapter: 1
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 6d"
-generated_at: "2026-03-30T01:59:04.510Z"
+generated_at: "2026-03-30T02:03:23.903Z"
 ---
 
 # § 460l–6d. Commercial filming

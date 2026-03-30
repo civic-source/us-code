@@ -3,9 +3,9 @@ title: "Section 1988 - United States policy regarding the Freely Associated Stat
 usc_title: 48
 usc_section: "1988"
 chapter: 18
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 1988"
-generated_at: "2026-03-30T02:00:46.932Z"
+generated_at: "2026-03-30T02:05:29.433Z"
 ---
 
 # § 1988. United States policy regarding the Freely Associated States

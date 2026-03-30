@@ -3,9 +3,9 @@ title: "Section 134 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 8, 1966 , 80 S
 usc_title: 48
 usc_section: "134"
 chapter: 2
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "48 U.S.C. § 134"
-generated_at: "2026-03-30T02:00:46.912Z"
+generated_at: "2026-03-30T02:05:29.409Z"
 ---
 
 # §§ 132, 134. Repealed. Pub. L. 89–554, § 8(a) , Sept. 8, 1966 , 80 Stat. 640

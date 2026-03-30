@@ -3,9 +3,9 @@ title: "Section 11821 - Establishment of program"
 usc_title: 42
 usc_section: "11821"
 chapter: 123
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 11821"
-generated_at: "2026-03-30T02:00:43.068Z"
+generated_at: "2026-03-30T02:05:19.088Z"
 ---
 
 # § 11821. Establishment of program

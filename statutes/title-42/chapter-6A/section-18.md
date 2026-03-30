@@ -3,9 +3,9 @@ title: "Section 18 - Transitions"
 usc_title: 42
 usc_section: "18"
 chapter: 6
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-03-30T02:00:42.559Z"
+generated_at: "2026-03-30T02:05:18.580Z"
 ---
 
 # § 300jj–18. Transitions

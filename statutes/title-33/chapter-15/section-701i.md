@@ -3,9 +3,9 @@ title: "Section 701i - Elimination from protection of areas subject to evacuatio
 usc_title: 33
 usc_section: "701i"
 chapter: 15
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "33 U.S.C. § 701i"
-generated_at: "2026-03-30T01:59:51.316Z"
+generated_at: "2026-03-30T02:04:35.773Z"
 ---
 
 # § 701i. Elimination from protection of areas subject to evacuation

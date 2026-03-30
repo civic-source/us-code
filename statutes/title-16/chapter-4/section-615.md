@@ -3,9 +3,9 @@ title: "Section 615 - Repealed. Pub. L. 87–689, § 2 , Sept. 25, 1962 , 76 Sta
 usc_title: 16
 usc_section: "615"
 chapter: 4
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 615"
-generated_at: "2026-03-30T01:59:04.561Z"
+generated_at: "2026-03-30T02:03:23.963Z"
 ---
 
 # §§ 614, 615. Repealed. Pub. L. 87–689, § 2 , Sept. 25, 1962 , 76 Stat. 588

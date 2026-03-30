@@ -3,9 +3,9 @@ title: "Section 1701a - Management for acquisition workforce excellence"
 usc_title: 10
 usc_section: "1701a"
 chapter: 87
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "10 U.S.C. § 1701a"
-generated_at: "2026-03-30T01:58:27.035Z"
+generated_at: "2026-03-30T02:02:21.259Z"
 ---
 
 # § 1701a. Management for acquisition workforce excellence

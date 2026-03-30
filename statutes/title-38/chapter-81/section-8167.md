@@ -3,9 +3,9 @@ title: "Section 8167 - Exemption from State and local taxes"
 usc_title: 38
 usc_section: "8167"
 chapter: 81
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 8167"
-generated_at: "2026-03-30T02:00:04.533Z"
+generated_at: "2026-03-30T02:04:58.011Z"
 ---
 
 # § 8167. Exemption from State and local taxes

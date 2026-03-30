@@ -3,9 +3,9 @@ title: "Section 1872 - Transition provision"
 usc_title: 29
 usc_section: "1872"
 chapter: 20
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "29 U.S.C. § 1872"
-generated_at: "2026-03-30T01:59:47.528Z"
+generated_at: "2026-03-30T02:04:18.115Z"
 ---
 
 # § 1872. Transition provision

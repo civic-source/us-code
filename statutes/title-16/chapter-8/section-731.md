@@ -3,9 +3,9 @@ title: "Section 731 - Effect on other laws"
 usc_title: 16
 usc_section: "731"
 chapter: 8
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "16 U.S.C. § 731"
-generated_at: "2026-03-30T01:59:04.574Z"
+generated_at: "2026-03-30T02:03:23.980Z"
 ---
 
 # § 731. Effect on other laws

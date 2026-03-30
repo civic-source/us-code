@@ -3,9 +3,9 @@ title: "Section 7801 - Purpose of Veterans’ Canteen Service"
 usc_title: 38
 usc_section: "7801"
 chapter: 78
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "38 U.S.C. § 7801"
-generated_at: "2026-03-30T02:00:04.529Z"
+generated_at: "2026-03-30T02:04:58.006Z"
 ---
 
 # § 7801. Purpose of Veterans’ Canteen Service

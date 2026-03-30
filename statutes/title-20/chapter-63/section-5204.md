@@ -3,9 +3,9 @@ title: "Section 5204 - Authorization of appropriations"
 usc_title: 20
 usc_section: "5204"
 chapter: 63
-current_through: "PL 118-150"
+current_through: "PL 118-151"
 classification: "20 U.S.C. § 5204"
-generated_at: "2026-03-30T01:59:01.722Z"
+generated_at: "2026-03-30T02:03:15.841Z"
 ---
 
 # § 5204. Authorization of appropriations
