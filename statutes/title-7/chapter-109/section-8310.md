@@ -3,9 +3,9 @@ title: "Section 8310 - Cooperation"
 usc_title: 7
 usc_section: "8310"
 chapter: 109
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 8310"
-generated_at: "2026-03-30T09:01:37.614Z"
+generated_at: "2026-03-30T09:04:05.947Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1490f - Loans and insurance of loans for condominium housing in 
 usc_title: 42
 usc_section: "1490f"
 chapter: 8
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 1490f"
-generated_at: "2026-03-30T09:03:18.666Z"
+generated_at: "2026-03-30T09:06:03.543Z"
 status: "active"
 ---
 

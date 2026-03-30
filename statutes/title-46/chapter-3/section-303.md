@@ -3,9 +3,9 @@ title: "Section 303 - Meetings"
 usc_title: 46
 usc_section: "303"
 chapter: 3
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 303"
-generated_at: "2026-03-30T09:03:28.684Z"
+generated_at: "2026-03-30T09:06:07.879Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-30T09:02:58.782Z"
+generated_at: "2026-03-30T09:05:32.168Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
     - **(B)** in the case of a child, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer as if the individual were not on active duty.
   - **(4)** The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
   - **(5)**
-    - **(A)** A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
+    - **(A)** A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), 1 1 See Extension of Time Limitations for Use of Entitlement: Transfer Period note below. use any benefits so transferred after attaining the age of 26 years.
     - **(B)**
       - **(i)** Subject to clause (ii), in the case of a child who, before attaining the age of 26 years, is prevented from pursuing a chosen program of education by reason of acting as the primary provider of personal care services for a veteran or member of the Armed Forces under section 1720G(a), the child may use the benefits beginning on the date specified in clause (iii) for a period whose length is specified in clause (iv).
       - **(ii)** Clause (i) shall not apply with respect to the period of an individual as a primary provider of personal care services if the period concludes with the revocation of the individual’s designation as such a primary provider under section 1720G(a)(7)(D).

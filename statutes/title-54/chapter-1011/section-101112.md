@@ -3,9 +3,9 @@ title: "Section 101112 - Board"
 usc_title: 54
 usc_section: "101112"
 chapter: 1011
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "54 U.S.C. § 101112"
-generated_at: "2026-03-30T09:03:33.021Z"
+generated_at: "2026-03-30T09:06:13.061Z"
 status: "active"
 ---
 

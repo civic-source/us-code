@@ -3,9 +3,9 @@ title: "Section 2408 - Criminal offenses"
 usc_title: 16
 usc_section: "2408"
 chapter: 44
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 2408"
-generated_at: "2026-03-30T09:02:16.267Z"
+generated_at: "2026-03-30T09:04:31.736Z"
 status: "active"
 ---
 

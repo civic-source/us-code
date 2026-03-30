@@ -3,9 +3,9 @@ title: "Section 1024 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "1024"
 chapter: 25
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 1024"
-generated_at: "2026-03-30T09:03:23.625Z"
+generated_at: "2026-03-30T09:06:09.009Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2021 - General authority"
 usc_title: 19
 usc_section: "2021"
 chapter: 8
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "19 U.S.C. § 2021"
-generated_at: "2026-03-30T09:02:13.763Z"
+generated_at: "2026-03-30T09:04:33.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T09:02:58.787Z"
+generated_at: "2026-03-30T09:05:32.173Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** Any payment of educational assistance described in subsection (b) shall not—
   - **(1)** be charged against any entitlement to educational assistance of the individual concerned; or
   - **(2)** be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
-- **(b)** Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
-  - **(1)** was unable to complete such course or program as a result of—
+- **(b)** Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 1 1 See Restoration of Entitlement to Rehabilitation Programs for Veterans Affected by School Closure or Disapproval note below. 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
+  - **(1)** 2 2 See Prohibition of Charge to Entitlement of Students Unable to Pursue a Program of Education Due to an Emergency Situation note below. was unable to complete such course or program as a result of—
     - **(A)** the closure of the educational institution; or
     - **(B)** the disapproval of the course or a course that is a necessary part of that program under this chapter by reason of—
       - **(i)** a provision of law enacted after the date on which the individual enrolls at such institution affecting the approval or disapproval of courses under this chapter; or
@@ -28,7 +28,7 @@ status: "active"
   - **(1)** The Secretary may treat a course of education that is disapproved under this chapter as being approved under this chapter with respect to an individual described in paragraph (2) if the Secretary determines, on a case-by-case basis, that—
     - **(A)** such disapproval is the result of an action described in clause (i) or (ii) of subsection (b)(1)(B); and
     - **(B)** continuing pursuing such course is in the best interest of the individual.
-  - **(2)** An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
-- **(e)** Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
+  - **(2)** An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 1 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
+- **(e)** Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 1 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
   - **(1)** such closure and the date of such closure; and
   - **(2)** the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.

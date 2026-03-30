@@ -3,9 +3,9 @@ title: "Section 9545 - Report on Russian Federation influence on elections in Eu
 usc_title: 22
 usc_section: "9545"
 chapter: 102
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 9545"
-generated_at: "2026-03-30T09:02:24.433Z"
+generated_at: "2026-03-30T09:04:49.131Z"
 status: "active"
 ---
 

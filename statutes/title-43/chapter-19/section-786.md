@@ -3,9 +3,9 @@ title: "Section 786 - Repealed. Pub. L. 85–56, title XXII, § 2202(1) , June 1
 usc_title: 43
 usc_section: "786"
 chapter: 19
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "43 U.S.C. § 786"
-generated_at: "2026-03-30T09:03:01.770Z"
+generated_at: "2026-03-30T09:05:40.510Z"
 status: "repealed"
 ---
 

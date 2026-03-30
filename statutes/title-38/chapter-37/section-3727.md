@@ -3,9 +3,9 @@ title: "Section 3727 - Expenditures to correct or compensate for structural defe
 usc_title: 38
 usc_section: "3727"
 chapter: 37
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 3727"
-generated_at: "2026-03-30T09:02:58.789Z"
+generated_at: "2026-03-30T09:05:32.175Z"
 status: "active"
 ---
 

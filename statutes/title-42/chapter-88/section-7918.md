@@ -3,9 +3,9 @@ title: "Section 7918 - Remedial action and mineral recovery activities"
 usc_title: 42
 usc_section: "7918"
 chapter: 88
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 7918"
-generated_at: "2026-03-30T09:03:18.864Z"
+generated_at: "2026-03-30T09:06:03.745Z"
 status: "active"
 ---
 

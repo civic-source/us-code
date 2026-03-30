@@ -3,9 +3,9 @@ title: "Section 2694c - Participation in conservation banking programs"
 usc_title: 10
 usc_section: "2694c"
 chapter: 159
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 2694c"
-generated_at: "2026-03-30T09:01:21.998Z"
+generated_at: "2026-03-30T09:04:10.490Z"
 status: "active"
 ---
 

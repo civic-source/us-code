@@ -3,9 +3,9 @@ title: "Section 905 - Fees for certain loan guarantees"
 usc_title: 7
 usc_section: "905"
 chapter: 31
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 905"
-generated_at: "2026-03-30T09:01:37.480Z"
+generated_at: "2026-03-30T09:04:05.807Z"
 status: "active"
 ---
 

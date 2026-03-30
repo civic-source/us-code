@@ -3,9 +3,9 @@ title: "Section 2006d - Market placement"
 usc_title: 7
 usc_section: "2006d"
 chapter: 50
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 2006d"
-generated_at: "2026-03-30T09:01:37.526Z"
+generated_at: "2026-03-30T09:04:05.854Z"
 status: "active"
 ---
 

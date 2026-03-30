@@ -3,9 +3,9 @@ title: "Section 15 - Postbaccalaureate achievement program authority"
 usc_title: 20
 usc_section: "15"
 chapter: 28
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-03-30T09:02:17.886Z"
+generated_at: "2026-03-30T09:04:35.381Z"
 status: "active"
 ---
 

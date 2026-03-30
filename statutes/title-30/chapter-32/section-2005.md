@@ -3,9 +3,9 @@ title: "Section 2005 - Reports and studies for Congress"
 usc_title: 30
 usc_section: "2005"
 chapter: 32
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-03-30T09:02:33.852Z"
+generated_at: "2026-03-30T09:04:56.924Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 830 - Regulation of listed chemicals and certain machines"
 usc_title: 21
 usc_section: "830"
 chapter: 13
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "21 U.S.C. § 830"
-generated_at: "2026-03-30T09:02:29.337Z"
+generated_at: "2026-03-30T09:04:39.329Z"
 status: "active"
 ---
 

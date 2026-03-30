@@ -3,9 +3,9 @@ title: "Section 1505 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(4),
 usc_title: 22
 usc_section: "1505"
 chapter: 19
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 1505"
-generated_at: "2026-03-30T09:02:24.314Z"
+generated_at: "2026-03-30T09:04:49.013Z"
 status: "repealed"
 ---
 

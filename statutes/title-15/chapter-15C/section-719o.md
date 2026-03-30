@@ -3,9 +3,9 @@ title: "Section 719o - Civil rights; affirmative action of Federal officers and 
 usc_title: 15
 usc_section: "719o"
 chapter: 15
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "15 U.S.C. § 719o"
-generated_at: "2026-03-30T09:02:00.965Z"
+generated_at: "2026-03-30T09:04:22.943Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3048 - Commitment to another district; removal—(Rule)"
 usc_title: 18
 usc_section: "3048"
 chapter: 203
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "18 U.S.C. § 3048"
-generated_at: "2026-03-30T09:02:11.837Z"
+generated_at: "2026-03-30T09:04:29.053Z"
 status: "active"
 ---
 

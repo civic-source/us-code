@@ -3,9 +3,9 @@ title: "Section 2948 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2948"
 chapter: 34
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 2948"
-generated_at: "2026-03-30T09:03:18.726Z"
+generated_at: "2026-03-30T09:06:03.602Z"
 status: "repealed"
 ---
 

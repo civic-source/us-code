@@ -3,9 +3,9 @@ title: "Section 474a - Travel and transportation allowances: temporary lodging e
 usc_title: 37
 usc_section: "474a"
 chapter: 8
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "37 U.S.C. § 474a"
-generated_at: "2026-03-30T09:02:55.587Z"
+generated_at: "2026-03-30T09:05:30.945Z"
 status: "active"
 ---
 

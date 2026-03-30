@@ -3,9 +3,9 @@ title: "Section 12643 - Edward Byrne Memorial Formula Grant Program"
 usc_title: 34
 usc_section: "12643"
 chapter: 121
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "34 U.S.C. § 12643"
-generated_at: "2026-03-30T09:02:48.125Z"
+generated_at: "2026-03-30T09:05:15.458Z"
 status: "active"
 ---
 

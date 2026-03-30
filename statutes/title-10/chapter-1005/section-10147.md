@@ -3,9 +3,9 @@ title: "Section 10147 - Ready Reserve: training requirements"
 usc_title: 10
 usc_section: "10147"
 chapter: 1005
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 10147"
-generated_at: "2026-03-30T09:01:22.033Z"
+generated_at: "2026-03-30T09:04:10.524Z"
 status: "active"
 ---
 

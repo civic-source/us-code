@@ -3,9 +3,9 @@ title: "Section 618d - Readvances from Treasury where Dam Fund is insufficient t
 usc_title: 43
 usc_section: "618d"
 chapter: 12
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "43 U.S.C. § 618d"
-generated_at: "2026-03-30T09:03:01.767Z"
+generated_at: "2026-03-30T09:05:40.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 25 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(a) ,
 usc_title: 24
 usc_section: "25"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "24 U.S.C. § 25"
-generated_at: "2026-03-30T09:02:21.621Z"
+generated_at: "2026-03-30T09:04:37.403Z"
 status: "repealed"
 ---
 

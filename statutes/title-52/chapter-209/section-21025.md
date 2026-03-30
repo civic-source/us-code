@@ -3,9 +3,9 @@ title: "Section 21025 - Reports"
 usc_title: 52
 usc_section: "21025"
 chapter: 209
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "52 U.S.C. § 21025"
-generated_at: "2026-03-30T09:03:33.170Z"
+generated_at: "2026-03-30T09:06:12.799Z"
 status: "active"
 ---
 

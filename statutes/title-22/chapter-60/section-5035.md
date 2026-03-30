@@ -3,9 +3,9 @@ title: "Section 5035 - Repealed. Pub. L. 103–149, § 4(a)(2) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5035"
 chapter: 60
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 5035"
-generated_at: "2026-03-30T09:02:24.385Z"
+generated_at: "2026-03-30T09:04:49.084Z"
 status: "repealed"
 ---
 

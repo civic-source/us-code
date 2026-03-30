@@ -3,9 +3,9 @@ title: "Section 1641a - Claims funds"
 usc_title: 22
 usc_section: "1641a"
 chapter: 21
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 1641a"
-generated_at: "2026-03-30T09:02:24.316Z"
+generated_at: "2026-03-30T09:04:49.015Z"
 status: "active"
 ---
 

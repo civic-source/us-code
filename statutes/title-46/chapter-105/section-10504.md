@@ -3,9 +3,9 @@ title: "Section 10504 - Wages"
 usc_title: 46
 usc_section: "10504"
 chapter: 105
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 10504"
-generated_at: "2026-03-30T09:03:28.696Z"
+generated_at: "2026-03-30T09:06:07.891Z"
 status: "active"
 ---
 

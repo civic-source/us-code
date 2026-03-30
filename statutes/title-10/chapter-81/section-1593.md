@@ -3,9 +3,9 @@ title: "Section 1593 - Uniform allowance: civilian employees"
 usc_title: 10
 usc_section: "1593"
 chapter: 81
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 1593"
-generated_at: "2026-03-30T09:01:21.953Z"
+generated_at: "2026-03-30T09:04:10.448Z"
 status: "active"
 ---
 

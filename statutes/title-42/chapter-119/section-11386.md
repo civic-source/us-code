@@ -3,9 +3,9 @@ title: "Section 11386 - Program requirements"
 usc_title: 42
 usc_section: "11386"
 chapter: 119
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 11386"
-generated_at: "2026-03-30T09:03:18.923Z"
+generated_at: "2026-03-30T09:06:03.806Z"
 status: "active"
 ---
 

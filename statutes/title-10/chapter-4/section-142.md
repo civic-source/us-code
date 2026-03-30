@@ -3,9 +3,9 @@ title: "Section 142 - Chief Information Officer"
 usc_title: 10
 usc_section: "142"
 chapter: 4
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 142"
-generated_at: "2026-03-30T09:01:21.893Z"
+generated_at: "2026-03-30T09:04:10.389Z"
 status: "active"
 ---
 
@@ -35,6 +35,6 @@ status: "active"
       - **(ii)** certifying on a regular and ongoing basis that any capabilities being developed or procured meets such standards as have been published by the Department at the time of certification.
     - **(C)** The Chief Information Officer shall identify gaps in standards and mitigation plans for operating in the absence of acceptable standards.
   - **(4)** The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
-- **(c)** 1 1 So in original. Two subsecs. (c) have been enacted. The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) 2 2 See References in Text note below. of this title. The officials serving in positions specified in section 131(b)(4) 2 and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(c)** 1 1 So in original. Two subsecs. (c) have been enacted. The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
 - **(c)** 1 The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
 - **(d)** The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.

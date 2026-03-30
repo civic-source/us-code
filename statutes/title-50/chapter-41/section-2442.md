@@ -3,9 +3,9 @@ title: "Section 2442 - Repealed. Pub. L. 112–239, div. C, title XXXI, § 3132(
 usc_title: 50
 usc_section: "2442"
 chapter: 41
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 2442"
-generated_at: "2026-03-30T09:03:23.642Z"
+generated_at: "2026-03-30T09:06:09.027Z"
 status: "repealed"
 ---
 

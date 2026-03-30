@@ -3,9 +3,9 @@ title: "Section 3194 - Archeological and paleontological sites"
 usc_title: 16
 usc_section: "3194"
 chapter: 51
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 3194"
-generated_at: "2026-03-30T09:02:16.275Z"
+generated_at: "2026-03-30T09:04:31.743Z"
 status: "active"
 ---
 

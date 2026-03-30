@@ -3,9 +3,9 @@ title: "Section 2196 - Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2)
 usc_title: 22
 usc_section: "2196"
 chapter: 32
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 2196"
-generated_at: "2026-03-30T09:02:24.329Z"
+generated_at: "2026-03-30T09:04:49.028Z"
 status: "repealed"
 ---
 

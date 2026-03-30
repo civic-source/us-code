@@ -3,9 +3,9 @@ title: "Section 571b - Omitted"
 usc_title: 16
 usc_section: "571b"
 chapter: 3
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 571b"
-generated_at: "2026-03-30T09:02:16.181Z"
+generated_at: "2026-03-30T09:04:31.654Z"
 status: "omitted"
 ---
 

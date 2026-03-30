@@ -3,9 +3,9 @@ title: "Section 2595b - Repealed. Pub. L. 105–277, div. G , subdiv. A, title X
 usc_title: 22
 usc_section: "2595b"
 chapter: 35
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 2595b"
-generated_at: "2026-03-30T09:02:24.348Z"
+generated_at: "2026-03-30T09:04:49.048Z"
 status: "repealed"
 ---
 

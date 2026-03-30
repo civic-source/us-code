@@ -3,9 +3,9 @@ title: "Section 104 - Apportionment"
 usc_title: 23
 usc_section: "104"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "23 U.S.C. § 104"
-generated_at: "2026-03-30T09:02:24.827Z"
+generated_at: "2026-03-30T09:04:52.710Z"
 status: "active"
 ---
 

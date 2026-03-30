@@ -3,9 +3,9 @@ title: "Section 956 - Deserters, prisoners, members absent without leave: expens
 usc_title: 10
 usc_section: "956"
 chapter: 48
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 956"
-generated_at: "2026-03-30T09:01:21.925Z"
+generated_at: "2026-03-30T09:04:10.420Z"
 status: "active"
 ---
 

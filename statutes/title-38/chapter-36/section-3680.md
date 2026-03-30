@@ -3,9 +3,9 @@ title: "Section 3680 - Payment of educational assistance or subsistence allowanc
 usc_title: 38
 usc_section: "3680"
 chapter: 36
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 3680"
-generated_at: "2026-03-30T09:02:58.785Z"
+generated_at: "2026-03-30T09:05:32.171Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
       - **(i)** the eligible veteran or person withdraws because he or she is ordered to active duty; or
       - **(ii)** the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal (without regard to withdrawals described in clause (i)) by the eligible veteran or person from a course or courses with respect to which the veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof.
   - **(2)** Notwithstanding paragraph (1), the Secretary may, pursuant to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in paragraph (1)(A)—
-    - **(A)** during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or
-    - **(B)** solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title , during periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title , except that payment of such a stipend may only be continued until the earlier of—
+    - **(A)** 1 1 See Payment of Allowances to Veterans Enrolled in Educational Institutions Closed for Emergency Situations note below. during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or
+    - **(B)** solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title , during 2 2 See Restoration of Entitlement: Payment of Subsistence Allowances note below. periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title , except that payment of such a stipend 2 may only be continued until the earlier of—
       - **(i)** the date of the end of the term, quarter, or semester during which the closure or disapproval occurred; and
       - **(ii)** the date that is 120 days after the date of the closure or disapproval.
 - **(b)** No educational assistance allowance shall be paid to an eligible veteran or spouse or surviving spouse enrolled in and pursuing a program of education exclusively by correspondence until the Secretary shall have received—

@@ -3,9 +3,9 @@ title: "Section 42306 - Submission of determinations to President"
 usc_title: 46
 usc_section: "42306"
 chapter: 423
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 42306"
-generated_at: "2026-03-30T09:03:28.706Z"
+generated_at: "2026-03-30T09:06:07.902Z"
 status: "active"
 ---
 

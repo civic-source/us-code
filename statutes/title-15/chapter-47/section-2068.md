@@ -3,9 +3,9 @@ title: "Section 2068 - Prohibited acts"
 usc_title: 15
 usc_section: "2068"
 chapter: 47
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "15 U.S.C. § 2068"
-generated_at: "2026-03-30T09:02:01.002Z"
+generated_at: "2026-03-30T09:04:22.984Z"
 status: "active"
 ---
 

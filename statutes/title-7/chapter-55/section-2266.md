@@ -3,9 +3,9 @@ title: "Section 2266 - Congressional reaffirmation of policy to foster and encou
 usc_title: 7
 usc_section: "2266"
 chapter: 55
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 2266"
-generated_at: "2026-03-30T09:01:37.547Z"
+generated_at: "2026-03-30T09:04:05.876Z"
 status: "active"
 ---
 

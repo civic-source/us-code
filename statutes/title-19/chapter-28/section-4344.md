@@ -3,9 +3,9 @@ title: "Section 4344 - National Intellectual Property Rights Coordination Center
 usc_title: 19
 usc_section: "4344"
 chapter: 28
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "19 U.S.C. § 4344"
-generated_at: "2026-03-30T09:02:13.804Z"
+generated_at: "2026-03-30T09:04:33.578Z"
 status: "active"
 ---
 

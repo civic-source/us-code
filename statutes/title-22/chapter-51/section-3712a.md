@@ -3,9 +3,9 @@ title: "Section 3712a - Authority to lease office space"
 usc_title: 22
 usc_section: "3712a"
 chapter: 51
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 3712a"
-generated_at: "2026-03-30T09:02:24.366Z"
+generated_at: "2026-03-30T09:04:49.066Z"
 status: "active"
 ---
 

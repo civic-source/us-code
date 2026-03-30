@@ -3,9 +3,9 @@ title: "Section 2209 - Repealed. Pub. L. 115–334, title V, § 5403 , Dec. 20, 
 usc_title: 12
 usc_section: "2209"
 chapter: 23
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "12 U.S.C. § 2209"
-generated_at: "2026-03-30T09:02:08.204Z"
+generated_at: "2026-03-30T09:04:16.498Z"
 status: "repealed"
 ---
 

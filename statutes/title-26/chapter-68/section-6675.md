@@ -3,9 +3,9 @@ title: "Section 6675 - Excessive claims with respect to the use of certain fuels
 usc_title: 26
 usc_section: "6675"
 chapter: 68
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "26 U.S.C. § 6675"
-generated_at: "2026-03-30T09:02:45.452Z"
+generated_at: "2026-03-30T09:05:03.491Z"
 status: "active"
 ---
 

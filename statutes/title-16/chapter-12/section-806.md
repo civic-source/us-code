@@ -3,9 +3,9 @@ title: "Section 806 - Time limit for construction of project works; extension of
 usc_title: 16
 usc_section: "806"
 chapter: 12
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 806"
-generated_at: "2026-03-30T09:02:16.205Z"
+generated_at: "2026-03-30T09:04:31.677Z"
 status: "active"
 ---
 

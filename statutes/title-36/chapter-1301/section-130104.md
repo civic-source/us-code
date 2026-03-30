@@ -3,9 +3,9 @@ title: "Section 130104 - Governing body"
 usc_title: 36
 usc_section: "130104"
 chapter: 1301
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "36 U.S.C. § 130104"
-generated_at: "2026-03-30T09:02:57.595Z"
+generated_at: "2026-03-30T09:05:22.773Z"
 status: "active"
 ---
 

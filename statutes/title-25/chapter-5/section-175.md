@@ -3,9 +3,9 @@ title: "Section 175 - United States attorneys to represent Indians"
 usc_title: 25
 usc_section: "175"
 chapter: 5
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "25 U.S.C. § 175"
-generated_at: "2026-03-30T09:02:21.495Z"
+generated_at: "2026-03-30T09:04:44.440Z"
 status: "active"
 ---
 

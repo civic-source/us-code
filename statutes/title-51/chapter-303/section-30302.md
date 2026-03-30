@@ -3,9 +3,9 @@ title: "Section 30302 - Quality assurance personnel"
 usc_title: 51
 usc_section: "30302"
 chapter: 303
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "51 U.S.C. § 30302"
-generated_at: "2026-03-30T09:03:33.390Z"
+generated_at: "2026-03-30T09:06:13.287Z"
 status: "active"
 ---
 

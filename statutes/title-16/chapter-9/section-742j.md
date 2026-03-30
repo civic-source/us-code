@@ -3,9 +3,9 @@ title: "Section 742j - Authorization of appropriations"
 usc_title: 16
 usc_section: "742j"
 chapter: 9
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 742j"
-generated_at: "2026-03-30T09:02:16.200Z"
+generated_at: "2026-03-30T09:04:31.672Z"
 status: "active"
 ---
 

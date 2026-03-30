@@ -3,9 +3,9 @@ title: "Section 2504a - Unfunded priorities of the national technology and indus
 usc_title: 10
 usc_section: "2504a"
 chapter: 148
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 2504a"
-generated_at: "2026-03-30T09:01:21.988Z"
+generated_at: "2026-03-30T09:04:10.481Z"
 status: "active"
 ---
 

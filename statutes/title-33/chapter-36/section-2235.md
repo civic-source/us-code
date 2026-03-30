@@ -3,9 +3,9 @@ title: "Section 2235 - Construction in usable increments"
 usc_title: 33
 usc_section: "2235"
 chapter: 36
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 2235"
-generated_at: "2026-03-30T09:02:53.399Z"
+generated_at: "2026-03-30T09:05:20.221Z"
 status: "active"
 ---
 

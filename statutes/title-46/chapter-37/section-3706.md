@@ -3,9 +3,9 @@ title: "Section 3706 - Product carrier minimum standards"
 usc_title: 46
 usc_section: "3706"
 chapter: 37
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 3706"
-generated_at: "2026-03-30T09:03:28.689Z"
+generated_at: "2026-03-30T09:06:07.885Z"
 status: "active"
 ---
 

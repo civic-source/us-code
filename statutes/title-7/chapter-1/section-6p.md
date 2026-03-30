@@ -3,9 +3,9 @@ title: "Section 6p - Standards and examinations"
 usc_title: 7
 usc_section: "6p"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 6p"
-generated_at: "2026-03-30T09:01:37.441Z"
+generated_at: "2026-03-30T09:04:05.767Z"
 status: "active"
 ---
 

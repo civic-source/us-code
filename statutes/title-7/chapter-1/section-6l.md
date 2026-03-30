@@ -3,9 +3,9 @@ title: "Section 6l - Commodity trading advisors and commodity pool operators; Co
 usc_title: 7
 usc_section: "6l"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 6l"
-generated_at: "2026-03-30T09:01:37.440Z"
+generated_at: "2026-03-30T09:04:05.767Z"
 status: "active"
 ---
 

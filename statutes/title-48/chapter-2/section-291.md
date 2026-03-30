@@ -3,9 +3,9 @@ title: "Section 291 - Repealed. Apr. 13, 1934, ch. 119, § 1 , 48 Stat. 583"
 usc_title: 48
 usc_section: "291"
 chapter: 2
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "48 U.S.C. § 291"
-generated_at: "2026-03-30T09:03:27.910Z"
+generated_at: "2026-03-30T09:06:06.609Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101919 - National Park Service Concessions Management Advisory B
 usc_title: 54
 usc_section: "101919"
 chapter: 1019
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "54 U.S.C. § 101919"
-generated_at: "2026-03-30T09:03:33.022Z"
+generated_at: "2026-03-30T09:06:13.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 186 - Miscellaneous provisions"
 usc_title: 6
 usc_section: "186"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "6 U.S.C. § 186"
-generated_at: "2026-03-30T09:01:10.340Z"
+generated_at: "2026-03-30T09:04:02.777Z"
 status: "active"
 ---
 

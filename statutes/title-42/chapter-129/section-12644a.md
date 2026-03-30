@@ -3,9 +3,9 @@ title: "Section 12644a - Availability of assistance"
 usc_title: 42
 usc_section: "12644a"
 chapter: 129
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 12644a"
-generated_at: "2026-03-30T09:03:18.942Z"
+generated_at: "2026-03-30T09:06:03.826Z"
 status: "active"
 ---
 

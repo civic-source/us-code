@@ -3,9 +3,9 @@ title: "Section 3486 - Administrative subpoenas"
 usc_title: 18
 usc_section: "3486"
 chapter: 223
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "18 U.S.C. § 3486"
-generated_at: "2026-03-30T09:02:11.842Z"
+generated_at: "2026-03-30T09:04:29.058Z"
 status: "active"
 ---
 

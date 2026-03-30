@@ -3,9 +3,9 @@ title: "Section 847 - Art. 47. Refusal of person not subject to chapter to appea
 usc_title: 10
 usc_section: "847"
 chapter: 47
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 847"
-generated_at: "2026-03-30T09:01:21.917Z"
+generated_at: "2026-03-30T09:04:10.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40316 - National Crime Prevention and Privacy Compact"
 usc_title: 34
 usc_section: "40316"
 chapter: 403
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "34 U.S.C. § 40316"
-generated_at: "2026-03-30T09:02:48.139Z"
+generated_at: "2026-03-30T09:05:15.472Z"
 status: "active"
 ---
 

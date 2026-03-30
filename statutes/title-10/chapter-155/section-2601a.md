@@ -3,9 +3,9 @@ title: "Section 2601a - Direct acceptance of gifts by members of the armed force
 usc_title: 10
 usc_section: "2601a"
 chapter: 155
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 2601a"
-generated_at: "2026-03-30T09:01:21.993Z"
+generated_at: "2026-03-30T09:04:10.485Z"
 status: "active"
 ---
 

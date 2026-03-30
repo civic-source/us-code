@@ -3,9 +3,9 @@ title: "Section 18237 - Supervision of construction: compliance with State law"
 usc_title: 10
 usc_section: "18237"
 chapter: 1803
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 18237"
-generated_at: "2026-03-30T09:01:22.045Z"
+generated_at: "2026-03-30T09:04:10.536Z"
 status: "active"
 ---
 

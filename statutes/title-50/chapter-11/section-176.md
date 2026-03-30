@@ -3,9 +3,9 @@ title: "Section 176 - Omitted"
 usc_title: 50
 usc_section: "176"
 chapter: 11
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 176"
-generated_at: "2026-03-30T09:03:23.622Z"
+generated_at: "2026-03-30T09:06:09.006Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5601 - Purpose"
 usc_title: 7
 usc_section: "5601"
 chapter: 87
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 5601"
-generated_at: "2026-03-30T09:01:37.570Z"
+generated_at: "2026-03-30T09:04:05.901Z"
 status: "active"
 ---
 

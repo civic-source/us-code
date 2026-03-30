@@ -3,9 +3,9 @@ title: "Section 55605 - Short sea transportation defined"
 usc_title: 46
 usc_section: "55605"
 chapter: 556
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 55605"
-generated_at: "2026-03-30T09:03:28.716Z"
+generated_at: "2026-03-30T09:06:07.912Z"
 status: "active"
 ---
 

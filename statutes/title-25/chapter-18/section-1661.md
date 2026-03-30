@@ -3,9 +3,9 @@ title: "Section 1661 - Establishment of the Indian Health Service as an agency o
 usc_title: 25
 usc_section: "1661"
 chapter: 18
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "25 U.S.C. § 1661"
-generated_at: "2026-03-30T09:02:21.517Z"
+generated_at: "2026-03-30T09:04:44.465Z"
 status: "active"
 ---
 

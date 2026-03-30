@@ -3,9 +3,9 @@ title: "Section 417 - Uniform allowance: officers; general provisions"
 usc_title: 37
 usc_section: "417"
 chapter: 7
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "37 U.S.C. § 417"
-generated_at: "2026-03-30T09:02:55.585Z"
+generated_at: "2026-03-30T09:05:30.944Z"
 status: "active"
 ---
 

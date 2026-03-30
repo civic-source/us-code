@@ -3,9 +3,9 @@ title: "Section 2013 - NMIC requirements and review"
 usc_title: 21
 usc_section: "2013"
 chapter: 25
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "21 U.S.C. § 2013"
-generated_at: "2026-03-30T09:02:29.350Z"
+generated_at: "2026-03-30T09:04:39.342Z"
 status: "active"
 ---
 

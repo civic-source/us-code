@@ -3,9 +3,9 @@ title: "Section 2253 - Repealed. Pub. L. 115–334, title V, § 5411(30) , Dec. 
 usc_title: 12
 usc_section: "2253"
 chapter: 23
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "12 U.S.C. § 2253"
-generated_at: "2026-03-30T09:02:08.205Z"
+generated_at: "2026-03-30T09:04:16.499Z"
 status: "repealed"
 ---
 

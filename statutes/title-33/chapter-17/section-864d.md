@@ -3,9 +3,9 @@ title: "Section 864d - Repealed. Oct. 12, 1949, ch. 681 , title V, § 531(b)(31)
 usc_title: 33
 usc_section: "864d"
 chapter: 17
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 864d"
-generated_at: "2026-03-30T09:02:53.365Z"
+generated_at: "2026-03-30T09:05:20.188Z"
 status: "repealed"
 ---
 

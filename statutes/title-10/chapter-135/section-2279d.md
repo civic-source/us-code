@@ -3,9 +3,9 @@ title: "Section 2279d - Limitation on construction on United States territory of
 usc_title: 10
 usc_section: "2279d"
 chapter: 135
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 2279d"
-generated_at: "2026-03-30T09:01:21.968Z"
+generated_at: "2026-03-30T09:04:10.462Z"
 status: "active"
 ---
 

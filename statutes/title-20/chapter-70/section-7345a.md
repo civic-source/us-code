@@ -3,9 +3,9 @@ title: "Section 7345a - Grant program authorized"
 usc_title: 20
 usc_section: "7345a"
 chapter: 70
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 7345a"
-generated_at: "2026-03-30T09:02:17.980Z"
+generated_at: "2026-03-30T09:04:35.475Z"
 status: "active"
 ---
 

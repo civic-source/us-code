@@ -3,9 +3,9 @@ title: "Section 4305 - Regulations"
 usc_title: 5
 usc_section: "4305"
 chapter: 43
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "5 U.S.C. § 4305"
-generated_at: "2026-03-30T09:01:05.446Z"
+generated_at: "2026-03-30T09:03:59.546Z"
 status: "active"
 ---
 

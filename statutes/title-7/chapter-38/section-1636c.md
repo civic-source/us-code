@@ -3,9 +3,9 @@ title: "Section 1636c - Fees"
 usc_title: 7
 usc_section: "1636c"
 chapter: 38
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 1636c"
-generated_at: "2026-03-30T09:01:37.510Z"
+generated_at: "2026-03-30T09:04:05.837Z"
 status: "active"
 ---
 

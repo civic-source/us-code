@@ -3,9 +3,9 @@ title: "Section 204 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(23)
 usc_title: 8
 usc_section: "204"
 chapter: 6
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "8 U.S.C. § 204"
-generated_at: "2026-03-30T09:01:09.239Z"
+generated_at: "2026-03-30T09:04:02.360Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3701 - Establishment and purposes of Foundation"
 usc_title: 16
 usc_section: "3701"
 chapter: 57
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 3701"
-generated_at: "2026-03-30T09:02:16.280Z"
+generated_at: "2026-03-30T09:04:31.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7c - Fraud and abuse control program"
 usc_title: 42
 usc_section: "7c"
 chapter: 7
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-30T09:03:18.514Z"
+generated_at: "2026-03-30T09:06:03.389Z"
 status: "active"
 ---
 

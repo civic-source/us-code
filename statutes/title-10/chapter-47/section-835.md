@@ -3,9 +3,9 @@ title: "Section 835 - Art. 35. Service of charges; commencement of trial"
 usc_title: 10
 usc_section: "835"
 chapter: 47
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 835"
-generated_at: "2026-03-30T09:01:21.916Z"
+generated_at: "2026-03-30T09:04:10.412Z"
 status: "active"
 ---
 

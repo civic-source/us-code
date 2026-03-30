@@ -3,9 +3,9 @@ title: "Section 32a - Transferred"
 usc_title: 2
 usc_section: "32a"
 chapter: 3
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "2 U.S.C. § 32a"
-generated_at: "2026-03-30T09:00:22.834Z"
+generated_at: "2026-03-30T09:03:45.475Z"
 status: "transferred"
 ---
 

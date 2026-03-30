@@ -3,9 +3,9 @@ title: "Section 473 - Revocation, modification, or vacation of orders or proclam
 usc_title: 16
 usc_section: "473"
 chapter: 2
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 473"
-generated_at: "2026-03-30T09:02:16.167Z"
+generated_at: "2026-03-30T09:04:31.641Z"
 status: "active"
 ---
 

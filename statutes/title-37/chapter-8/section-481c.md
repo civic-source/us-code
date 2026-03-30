@@ -3,9 +3,9 @@ title: "Section 481c - Travel and transportation allowances: travel performed in
 usc_title: 37
 usc_section: "481c"
 chapter: 8
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "37 U.S.C. § 481c"
-generated_at: "2026-03-30T09:02:55.588Z"
+generated_at: "2026-03-30T09:05:30.947Z"
 status: "active"
 ---
 

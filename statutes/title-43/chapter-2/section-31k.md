@@ -3,9 +3,9 @@ title: "Section 31k - National Volcano Early Warning and Monitoring System"
 usc_title: 43
 usc_section: "31k"
 chapter: 2
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "43 U.S.C. § 31k"
-generated_at: "2026-03-30T09:03:01.749Z"
+generated_at: "2026-03-30T09:05:40.488Z"
 status: "active"
 ---
 

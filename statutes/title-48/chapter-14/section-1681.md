@@ -3,9 +3,9 @@ title: "Section 1681 - Continuance of civil government for Trust Territory of th
 usc_title: 48
 usc_section: "1681"
 chapter: 14
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "48 U.S.C. § 1681"
-generated_at: "2026-03-30T09:03:27.920Z"
+generated_at: "2026-03-30T09:06:06.619Z"
 status: "active"
 ---
 

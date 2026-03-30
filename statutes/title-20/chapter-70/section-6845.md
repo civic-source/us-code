@@ -3,9 +3,9 @@ title: "Section 6845 - Rules of construction"
 usc_title: 20
 usc_section: "6845"
 chapter: 70
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 6845"
-generated_at: "2026-03-30T09:02:17.974Z"
+generated_at: "2026-03-30T09:04:35.470Z"
 status: "active"
 ---
 

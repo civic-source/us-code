@@ -3,9 +3,9 @@ title: "Section 2000ff - Definitions"
 usc_title: 42
 usc_section: "2000ff"
 chapter: 21
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 2000ff"
-generated_at: "2026-03-30T09:03:18.703Z"
+generated_at: "2026-03-30T09:06:03.580Z"
 status: "active"
 ---
 

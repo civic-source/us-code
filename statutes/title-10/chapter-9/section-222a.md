@@ -3,9 +3,9 @@ title: "Section 222a - Unfunded priorities of the armed forces and combatant com
 usc_title: 10
 usc_section: "222a"
 chapter: 9
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 222a"
-generated_at: "2026-03-30T09:01:21.897Z"
+generated_at: "2026-03-30T09:04:10.393Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
     - **(A)** is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31 ;
     - **(B)** is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
     - **(C)** would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
-      - **(i)** additional resources been available for the budget to fund the program, activity, or mission requirement; or
+      - **(i)** additional resources been 1 1 So in original. Probably should be preceded by “had”. available for the budget to fund the program, activity, or mission requirement; or
       - **(ii)** the program, activity, or mission requirement has emerged since the budget was formulated.
   - **(2)** The term “covered military construction project”, in connection with a fiscal year, means a military construction project that—
     - **(A)** is included in any fiscal year of the future-years defense program under section 221 of this title that is submitted in connection with the budget of the President for the fiscal year, and is executable in the fiscal year; or

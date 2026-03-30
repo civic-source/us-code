@@ -3,9 +3,9 @@ title: "Section 2282c - Worker health and safety rules for Department of Energy 
 usc_title: 42
 usc_section: "2282c"
 chapter: 23
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 2282c"
-generated_at: "2026-03-30T09:03:18.719Z"
+generated_at: "2026-03-30T09:06:03.594Z"
 status: "active"
 ---
 

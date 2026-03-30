@@ -3,9 +3,9 @@ title: "Section 48114 - Funding for aviation programs"
 usc_title: 49
 usc_section: "48114"
 chapter: 481
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "49 U.S.C. § 48114"
-generated_at: "2026-03-30T09:03:31.244Z"
+generated_at: "2026-03-30T09:06:11.080Z"
 status: "active"
 ---
 

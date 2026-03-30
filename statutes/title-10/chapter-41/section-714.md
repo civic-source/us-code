@@ -3,9 +3,9 @@ title: "Section 714 - Senior leaders of the Department of Defense and other spec
 usc_title: 10
 usc_section: "714"
 chapter: 41
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 714"
-generated_at: "2026-03-30T09:01:21.913Z"
+generated_at: "2026-03-30T09:04:10.409Z"
 status: "active"
 ---
 

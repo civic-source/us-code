@@ -3,9 +3,9 @@ title: "Section 865 - Electrical equipment"
 usc_title: 30
 usc_section: "865"
 chapter: 22
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "30 U.S.C. § 865"
-generated_at: "2026-03-30T09:02:33.833Z"
+generated_at: "2026-03-30T09:04:56.905Z"
 status: "active"
 ---
 

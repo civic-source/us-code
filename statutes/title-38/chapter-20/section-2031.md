@@ -3,9 +3,9 @@ title: "Section 2031 - General treatment"
 usc_title: 38
 usc_section: "2031"
 chapter: 20
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 2031"
-generated_at: "2026-03-30T09:02:58.772Z"
+generated_at: "2026-03-30T09:05:32.159Z"
 status: "active"
 ---
 

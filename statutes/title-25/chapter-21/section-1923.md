@@ -3,9 +3,9 @@ title: "Section 1923 - Effective date"
 usc_title: 25
 usc_section: "1923"
 chapter: 21
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "25 U.S.C. § 1923"
-generated_at: "2026-03-30T09:02:21.523Z"
+generated_at: "2026-03-30T09:04:44.471Z"
 status: "active"
 ---
 

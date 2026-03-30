@@ -3,9 +3,9 @@ title: "Section 4g - Directives regarding government-owned enterprises in countr
 usc_title: 22
 usc_section: "4g"
 chapter: 7
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 4g"
-generated_at: "2026-03-30T09:02:24.291Z"
+generated_at: "2026-03-30T09:04:48.989Z"
 status: "active"
 ---
 

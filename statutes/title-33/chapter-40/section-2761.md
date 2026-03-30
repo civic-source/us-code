@@ -3,9 +3,9 @@ title: "Section 2761 - Oil pollution research and development program"
 usc_title: 33
 usc_section: "2761"
 chapter: 40
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 2761"
-generated_at: "2026-03-30T09:02:53.414Z"
+generated_at: "2026-03-30T09:05:20.234Z"
 status: "active"
 ---
 

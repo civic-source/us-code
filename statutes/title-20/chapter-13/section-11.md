@@ -3,9 +3,9 @@ title: "Section 11 - Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 19
 usc_title: 20
 usc_section: "11"
 chapter: 13
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T09:02:17.869Z"
+generated_at: "2026-03-30T09:04:35.364Z"
 status: "repealed"
 ---
 

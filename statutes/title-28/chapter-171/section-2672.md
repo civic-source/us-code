@@ -3,9 +3,9 @@ title: "Section 2672 - Administrative adjustment of claims"
 usc_title: 28
 usc_section: "2672"
 chapter: 171
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "28 U.S.C. § 2672"
-generated_at: "2026-03-30T09:02:38.951Z"
+generated_at: "2026-03-30T09:04:57.941Z"
 status: "active"
 ---
 

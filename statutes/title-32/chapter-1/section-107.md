@@ -3,9 +3,9 @@ title: "Section 107 - Availability of appropriations"
 usc_title: 32
 usc_section: "107"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "32 U.S.C. § 107"
-generated_at: "2026-03-30T09:02:47.056Z"
+generated_at: "2026-03-30T09:05:05.984Z"
 status: "active"
 ---
 

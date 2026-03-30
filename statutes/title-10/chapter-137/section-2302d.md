@@ -3,9 +3,9 @@ title: "Section 2302d - Major system: definitional threshold amounts"
 usc_title: 10
 usc_section: "2302d"
 chapter: 137
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 2302d"
-generated_at: "2026-03-30T09:01:21.968Z"
+generated_at: "2026-03-30T09:04:10.462Z"
 status: "active"
 ---
 

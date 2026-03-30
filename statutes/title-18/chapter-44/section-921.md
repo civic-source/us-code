@@ -3,9 +3,9 @@ title: "Section 921 - Definitions"
 usc_title: 18
 usc_section: "921"
 chapter: 44
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "18 U.S.C. § 921"
-generated_at: "2026-03-30T09:02:11.807Z"
+generated_at: "2026-03-30T09:04:29.023Z"
 status: "active"
 ---
 

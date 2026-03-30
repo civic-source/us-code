@@ -3,9 +3,9 @@ title: "Section 795 - Repealed. Pub. L. 103–199, title VIII, § 803(1) , Dec. 
 usc_title: 50
 usc_section: "795"
 chapter: 23
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 795"
-generated_at: "2026-03-30T09:03:23.624Z"
+generated_at: "2026-03-30T09:06:09.008Z"
 status: "repealed"
 ---
 

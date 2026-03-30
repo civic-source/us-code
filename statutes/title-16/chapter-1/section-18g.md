@@ -3,9 +3,9 @@ title: "Section 18g - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "18g"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 18g"
-generated_at: "2026-03-30T09:02:16.077Z"
+generated_at: "2026-03-30T09:04:31.556Z"
 status: "repealed"
 ---
 

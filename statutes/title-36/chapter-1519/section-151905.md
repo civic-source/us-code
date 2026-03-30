@@ -3,9 +3,9 @@ title: "Section 151905 - Powers"
 usc_title: 36
 usc_section: "151905"
 chapter: 1519
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "36 U.S.C. § 151905"
-generated_at: "2026-03-30T09:02:57.598Z"
+generated_at: "2026-03-30T09:05:22.776Z"
 status: "active"
 ---
 

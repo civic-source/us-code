@@ -3,9 +3,9 @@ title: "Section 1 - Energy sustainability and efficiency grants and loans for in
 usc_title: 42
 usc_section: "1"
 chapter: 77
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T09:03:18.806Z"
+generated_at: "2026-03-30T09:06:03.683Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 619 - Territorial applicability of subchapter"
 usc_title: 22
 usc_section: "619"
 chapter: 11
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 619"
-generated_at: "2026-03-30T09:02:24.310Z"
+generated_at: "2026-03-30T09:04:49.010Z"
 status: "active"
 ---
 

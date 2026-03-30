@@ -3,15 +3,15 @@ title: "Section 3103 - Periods of eligibility"
 usc_title: 38
 usc_section: "3103"
 chapter: 31
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 3103"
-generated_at: "2026-03-30T09:02:58.778Z"
+generated_at: "2026-03-30T09:05:32.165Z"
 status: "active"
 ---
 
 # § 3103. Periods of eligibility
 
-- **(a)** Except as provided in subsection (b), (c), (d), or (e) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, or air service.
+- **(a)** Except as provided in subsection (b), (c), (d), or (e) of this section, 1 1 See Extension of Time Limitations for Use of Entitlement: Vocational Rehabilitation and Training note below. a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, or air service.
 - **(b)**
   - **(1)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran’s recovery from such condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
   - **(2)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—

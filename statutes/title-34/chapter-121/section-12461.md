@@ -3,9 +3,9 @@ title: "Section 12461 - Findings"
 usc_title: 34
 usc_section: "12461"
 chapter: 121
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "34 U.S.C. § 12461"
-generated_at: "2026-03-30T09:02:48.121Z"
+generated_at: "2026-03-30T09:05:15.454Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3524 - Auditing expenditures approved without vouchers"
 usc_title: 31
 usc_section: "3524"
 chapter: 35
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "31 U.S.C. § 3524"
-generated_at: "2026-03-30T09:02:48.773Z"
+generated_at: "2026-03-30T09:05:07.528Z"
 status: "active"
 ---
 

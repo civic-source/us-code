@@ -3,9 +3,9 @@ title: "Section 1136c - Authorization of appropriations"
 usc_title: 20
 usc_section: "1136c"
 chapter: 28
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 1136c"
-generated_at: "2026-03-30T09:02:17.922Z"
+generated_at: "2026-03-30T09:04:35.415Z"
 status: "active"
 ---
 

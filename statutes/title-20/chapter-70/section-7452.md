@@ -3,9 +3,9 @@ title: "Section 7452 - Grants to tribes for education administrative planning, d
 usc_title: 20
 usc_section: "7452"
 chapter: 70
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 7452"
-generated_at: "2026-03-30T09:02:17.982Z"
+generated_at: "2026-03-30T09:04:35.477Z"
 status: "active"
 ---
 

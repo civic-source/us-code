@@ -3,9 +3,9 @@ title: "Section 9054 - Conflicts of interest"
 usc_title: 15
 usc_section: "9054"
 chapter: 116
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "15 U.S.C. § 9054"
-generated_at: "2026-03-30T09:02:01.061Z"
+generated_at: "2026-03-30T09:04:23.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5219a - Home Affordable Modification Program guidelines"
 usc_title: 12
 usc_section: "5219a"
 chapter: 52
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "12 U.S.C. § 5219a"
-generated_at: "2026-03-30T09:02:08.247Z"
+generated_at: "2026-03-30T09:04:16.540Z"
 status: "active"
 ---
 

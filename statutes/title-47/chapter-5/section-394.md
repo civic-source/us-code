@@ -3,9 +3,9 @@ title: "Section 394 - Establishment of National Endowment"
 usc_title: 47
 usc_section: "394"
 chapter: 5
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "47 U.S.C. § 394"
-generated_at: "2026-03-30T09:03:25.147Z"
+generated_at: "2026-03-30T09:06:07.170Z"
 status: "active"
 ---
 

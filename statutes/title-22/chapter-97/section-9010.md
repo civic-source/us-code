@@ -3,9 +3,9 @@ title: "Section 9010 - Interagency coordinating group"
 usc_title: 22
 usc_section: "9010"
 chapter: 97
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 9010"
-generated_at: "2026-03-30T09:02:24.427Z"
+generated_at: "2026-03-30T09:04:49.124Z"
 status: "active"
 ---
 

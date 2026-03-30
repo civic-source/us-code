@@ -3,9 +3,9 @@ title: "Section 4814 - Petition and review"
 usc_title: 7
 usc_section: "4814"
 chapter: 79
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 4814"
-generated_at: "2026-03-30T09:01:37.567Z"
+generated_at: "2026-03-30T09:04:05.898Z"
 status: "active"
 ---
 

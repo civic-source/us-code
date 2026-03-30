@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T09:01:21.895Z"
+generated_at: "2026-03-30T09:04:10.391Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
   - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 - **(i)**
-  - **(1)** Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+  - **(1)** Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions 1 1 So in original. Probably should be “Acquisition”. and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
   - **(2)** A system described in this paragraph is any of the following:
     - **(A)** Advanced extremely high frequency satellites.
     - **(B)** The space-based infrared system.

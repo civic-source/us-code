@@ -3,9 +3,9 @@ title: "Section 7505 - Review of information in National Driver Register"
 usc_title: 46
 usc_section: "7505"
 chapter: 75
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 7505"
-generated_at: "2026-03-30T09:03:28.692Z"
+generated_at: "2026-03-30T09:06:07.888Z"
 status: "active"
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: "Section 3485 - Work-study allowance"
+title: "Section 3485 - Work-study allowance 1 1 See Payment of Work-Study Allowances During Emergency Situations note below."
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-30T09:02:58.783Z"
+generated_at: "2026-03-30T09:05:32.169Z"
 status: "active"
 ---
 
-# § 3485. Work-study allowance
+# § 3485. Work-study allowance 1 1 See Payment of Work-Study Allowances During Emergency Situations note below.
 
 - **(a)**
   - **(1)** Individuals utilized under the authority of subsection (b) shall be paid an additional educational assistance allowance (hereinafter in this section referred to as “work-study allowance”). Such allowance shall be paid in return for an individual’s entering into an agreement described in paragraph (3).

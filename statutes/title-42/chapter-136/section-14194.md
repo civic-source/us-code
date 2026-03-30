@@ -3,9 +3,9 @@ title: "Section 14194 - Omitted"
 usc_title: 42
 usc_section: "14194"
 chapter: 136
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 14194"
-generated_at: "2026-03-30T09:03:18.965Z"
+generated_at: "2026-03-30T09:06:03.849Z"
 status: "omitted"
 ---
 

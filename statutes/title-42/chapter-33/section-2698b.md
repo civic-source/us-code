@@ -3,9 +3,9 @@ title: "Section 2698b - Repealed. Pub. L. 91–230, title VI, § 662(4) , Apr. 1
 usc_title: 42
 usc_section: "2698b"
 chapter: 33
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 2698b"
-generated_at: "2026-03-30T09:03:18.725Z"
+generated_at: "2026-03-30T09:06:03.601Z"
 status: "repealed"
 ---
 

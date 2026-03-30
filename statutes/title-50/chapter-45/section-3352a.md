@@ -3,9 +3,9 @@ title: "Section 3352a - Reports and plans relating to security clearances and ba
 usc_title: 50
 usc_section: "3352a"
 chapter: 45
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 3352a"
-generated_at: "2026-03-30T09:03:23.666Z"
+generated_at: "2026-03-30T09:06:09.051Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7563 - Clothing: replacement when destroyed to prevent contagion
 usc_title: 10
 usc_section: "7563"
 chapter: 765
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 7563"
-generated_at: "2026-03-30T09:01:22.013Z"
+generated_at: "2026-03-30T09:04:10.504Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6961 - Establishment of Task Force"
 usc_title: 22
 usc_section: "6961"
 chapter: 77
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 6961"
-generated_at: "2026-03-30T09:02:24.403Z"
+generated_at: "2026-03-30T09:04:49.101Z"
 status: "active"
 ---
 

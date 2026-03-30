@@ -3,9 +3,9 @@ title: "Section 2143 - Private support"
 usc_title: 20
 usc_section: "2143"
 chapter: 43
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "20 U.S.C. § 2143"
-generated_at: "2026-03-30T09:02:17.944Z"
+generated_at: "2026-03-30T09:04:35.438Z"
 status: "active"
 ---
 

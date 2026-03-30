@@ -3,9 +3,9 @@ title: "Section 2204i - Reports on land access and farmland ownership data colle
 usc_title: 7
 usc_section: "2204i"
 chapter: 55
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 2204i"
-generated_at: "2026-03-30T09:01:37.545Z"
+generated_at: "2026-03-30T09:04:05.873Z"
 status: "active"
 ---
 

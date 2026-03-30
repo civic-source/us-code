@@ -3,9 +3,9 @@ title: "Section 10703 - Review of applications"
 usc_title: 34
 usc_section: "10703"
 chapter: 101
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "34 U.S.C. § 10703"
-generated_at: "2026-03-30T09:02:48.110Z"
+generated_at: "2026-03-30T09:05:15.443Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7671l - Federal procurement"
 usc_title: 42
 usc_section: "7671l"
 chapter: 85
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 7671l"
-generated_at: "2026-03-30T09:03:18.862Z"
+generated_at: "2026-03-30T09:06:03.743Z"
 status: "active"
 ---
 

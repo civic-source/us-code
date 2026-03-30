@@ -3,9 +3,9 @@ title: "Section 4635 - Planning and other preliminary expenses for additional ho
 usc_title: 42
 usc_section: "4635"
 chapter: 61
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 4635"
-generated_at: "2026-03-30T09:03:18.761Z"
+generated_at: "2026-03-30T09:06:03.638Z"
 status: "active"
 ---
 

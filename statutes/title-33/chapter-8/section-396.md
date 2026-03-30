@@ -3,9 +3,9 @@ title: "Section 396 - Recovery of penalties and forfeitures generally"
 usc_title: 33
 usc_section: "396"
 chapter: 8
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 396"
-generated_at: "2026-03-30T09:02:53.348Z"
+generated_at: "2026-03-30T09:05:20.171Z"
 status: "active"
 ---
 

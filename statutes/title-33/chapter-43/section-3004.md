@@ -3,9 +3,9 @@ title: "Section 3004 - Strength and distribution in grade"
 usc_title: 33
 usc_section: "3004"
 chapter: 43
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 3004"
-generated_at: "2026-03-30T09:02:53.415Z"
+generated_at: "2026-03-30T09:05:20.235Z"
 status: "active"
 ---
 

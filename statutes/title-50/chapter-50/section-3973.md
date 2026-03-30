@@ -3,9 +3,9 @@ title: "Section 3973 - Application for insurance protection"
 usc_title: 50
 usc_section: "3973"
 chapter: 50
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 3973"
-generated_at: "2026-03-30T09:03:23.677Z"
+generated_at: "2026-03-30T09:06:09.061Z"
 status: "active"
 ---
 

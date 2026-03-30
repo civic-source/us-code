@@ -3,9 +3,9 @@ title: "Section 5350 - Delivery of reports of disbursements"
 usc_title: 2
 usc_section: "5350"
 chapter: 53
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "2 U.S.C. § 5350"
-generated_at: "2026-03-30T09:00:22.885Z"
+generated_at: "2026-03-30T09:03:45.523Z"
 status: "active"
 ---
 

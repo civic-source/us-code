@@ -3,9 +3,9 @@ title: "Section 9 - Application"
 usc_title: 42
 usc_section: "9"
 chapter: 55
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T09:03:18.759Z"
+generated_at: "2026-03-30T09:06:03.635Z"
 status: "active"
 ---
 

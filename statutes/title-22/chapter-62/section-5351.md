@@ -3,9 +3,9 @@ title: "Section 5351 - Short title"
 usc_title: 22
 usc_section: "5351"
 chapter: 62
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 5351"
-generated_at: "2026-03-30T09:02:24.386Z"
+generated_at: "2026-03-30T09:04:49.084Z"
 status: "active"
 ---
 

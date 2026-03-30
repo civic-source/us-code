@@ -3,9 +3,9 @@ title: "Section 10555 - Authorization of appropriations"
 usc_title: 34
 usc_section: "10555"
 chapter: 101
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "34 U.S.C. § 10555"
-generated_at: "2026-03-30T09:02:48.105Z"
+generated_at: "2026-03-30T09:05:15.440Z"
 status: "active"
 ---
 

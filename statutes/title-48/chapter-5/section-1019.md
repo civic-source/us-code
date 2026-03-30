@@ -3,9 +3,9 @@ title: "Section 1019 - Omitted"
 usc_title: 48
 usc_section: "1019"
 chapter: 5
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "48 U.S.C. § 1019"
-generated_at: "2026-03-30T09:03:27.912Z"
+generated_at: "2026-03-30T09:06:06.612Z"
 status: "omitted"
 ---
 

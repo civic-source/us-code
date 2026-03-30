@@ -3,9 +3,9 @@ title: "Section 3200 - Denali Scenic Highway study"
 usc_title: 16
 usc_section: "3200"
 chapter: 51
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 3200"
-generated_at: "2026-03-30T09:02:16.275Z"
+generated_at: "2026-03-30T09:04:31.744Z"
 status: "active"
 ---
 

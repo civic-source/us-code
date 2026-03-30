@@ -3,9 +3,9 @@ title: "Section 441k - Acquisition of property for park"
 usc_title: 16
 usc_section: "441k"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 441k"
-generated_at: "2026-03-30T09:02:16.126Z"
+generated_at: "2026-03-30T09:04:31.604Z"
 status: "active"
 ---
 

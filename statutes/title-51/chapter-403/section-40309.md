@@ -3,9 +3,9 @@ title: "Section 40309 - Availability of other Federal personnel and data"
 usc_title: 51
 usc_section: "40309"
 chapter: 403
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "51 U.S.C. § 40309"
-generated_at: "2026-03-30T09:03:33.391Z"
+generated_at: "2026-03-30T09:06:13.288Z"
 status: "active"
 ---
 

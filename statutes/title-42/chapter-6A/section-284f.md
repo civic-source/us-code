@@ -3,9 +3,9 @@ title: "Section 284f - Parkinson’s disease"
 usc_title: 42
 usc_section: "284f"
 chapter: 6
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 284f"
-generated_at: "2026-03-30T09:03:18.377Z"
+generated_at: "2026-03-30T09:06:03.250Z"
 status: "active"
 ---
 

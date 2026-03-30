@@ -3,9 +3,9 @@ title: "Section 1641 - Treatment of payments under Social Security Act health be
 usc_title: 25
 usc_section: "1641"
 chapter: 18
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "25 U.S.C. § 1641"
-generated_at: "2026-03-30T09:02:21.515Z"
+generated_at: "2026-03-30T09:04:44.462Z"
 status: "active"
 ---
 

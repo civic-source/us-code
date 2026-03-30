@@ -3,9 +3,9 @@ title: "Section 6916 - General authorization"
 usc_title: 42
 usc_section: "6916"
 chapter: 82
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 6916"
-generated_at: "2026-03-30T09:03:18.814Z"
+generated_at: "2026-03-30T09:06:03.693Z"
 status: "active"
 ---
 

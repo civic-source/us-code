@@ -3,9 +3,9 @@ title: "Section 425i - Report of completion of acquisition of land and work of c
 usc_title: 16
 usc_section: "425i"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 425i"
-generated_at: "2026-03-30T09:02:16.121Z"
+generated_at: "2026-03-30T09:04:31.599Z"
 status: "active"
 ---
 

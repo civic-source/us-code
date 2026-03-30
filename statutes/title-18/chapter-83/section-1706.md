@@ -3,9 +3,9 @@ title: "Section 1706 - Injury to mail bags"
 usc_title: 18
 usc_section: "1706"
 chapter: 83
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "18 U.S.C. § 1706"
-generated_at: "2026-03-30T09:02:11.820Z"
+generated_at: "2026-03-30T09:04:29.036Z"
 status: "active"
 ---
 

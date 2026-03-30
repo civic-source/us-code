@@ -3,9 +3,9 @@ title: "Section 3103 - Acquisition programs"
 usc_title: 41
 usc_section: "3103"
 chapter: 31
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "41 U.S.C. § 3103"
-generated_at: "2026-03-30T09:03:00.644Z"
+generated_at: "2026-03-30T09:05:39.924Z"
 status: "active"
 ---
 

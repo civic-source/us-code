@@ -3,9 +3,9 @@ title: "Section 539 - Additions to existing national forests; administration"
 usc_title: 16
 usc_section: "539"
 chapter: 2
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 539"
-generated_at: "2026-03-30T09:02:16.170Z"
+generated_at: "2026-03-30T09:04:31.644Z"
 status: "active"
 ---
 

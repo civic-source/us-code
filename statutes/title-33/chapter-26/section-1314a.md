@@ -3,9 +3,9 @@ title: "Section 1314a - Wastewater technology clearinghouse"
 usc_title: 33
 usc_section: "1314a"
 chapter: 26
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 1314a"
-generated_at: "2026-03-30T09:02:53.380Z"
+generated_at: "2026-03-30T09:05:20.203Z"
 status: "active"
 ---
 

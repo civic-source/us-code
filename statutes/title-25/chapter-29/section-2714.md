@@ -3,9 +3,9 @@ title: "Section 2714 - Judicial review"
 usc_title: 25
 usc_section: "2714"
 chapter: 29
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "25 U.S.C. § 2714"
-generated_at: "2026-03-30T09:02:21.534Z"
+generated_at: "2026-03-30T09:04:44.483Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 97d - Omitted"
 usc_title: 21
 usc_section: "97d"
 chapter: 4
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "21 U.S.C. § 97d"
-generated_at: "2026-03-30T09:02:29.272Z"
+generated_at: "2026-03-30T09:04:39.263Z"
 status: "omitted"
 ---
 

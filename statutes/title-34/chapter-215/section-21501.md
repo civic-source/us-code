@@ -3,9 +3,9 @@ title: "Section 21501 - Findings"
 usc_title: 34
 usc_section: "21501"
 chapter: 215
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "34 U.S.C. § 21501"
-generated_at: "2026-03-30T09:02:48.135Z"
+generated_at: "2026-03-30T09:05:15.467Z"
 status: "active"
 ---
 

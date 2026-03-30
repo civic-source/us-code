@@ -3,9 +3,9 @@ title: "Section 2805 - Inherently Governmental functions"
 usc_title: 39
 usc_section: "2805"
 chapter: 28
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "39 U.S.C. § 2805"
-generated_at: "2026-03-30T09:02:56.230Z"
+generated_at: "2026-03-30T09:05:21.994Z"
 status: "active"
 ---
 

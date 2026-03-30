@@ -3,9 +3,9 @@ title: "Section 2011 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "2011"
 chapter: 51
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 2011"
-generated_at: "2026-03-30T09:01:37.531Z"
+generated_at: "2026-03-30T09:04:05.859Z"
 status: "active"
 ---
 

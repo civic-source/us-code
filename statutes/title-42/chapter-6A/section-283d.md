@@ -3,9 +3,9 @@ title: "Section 283d - Children’s Vaccine Initiative"
 usc_title: 42
 usc_section: "283d"
 chapter: 6
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 283d"
-generated_at: "2026-03-30T09:03:18.375Z"
+generated_at: "2026-03-30T09:06:03.248Z"
 status: "active"
 ---
 

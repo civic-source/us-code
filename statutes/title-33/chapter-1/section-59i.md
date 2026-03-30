@@ -3,9 +3,9 @@ title: "Section 59i - Patapsco River, Maryland"
 usc_title: 33
 usc_section: "59i"
 chapter: 1
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "33 U.S.C. § 59i"
-generated_at: "2026-03-30T09:02:53.346Z"
+generated_at: "2026-03-30T09:05:20.169Z"
 status: "active"
 ---
 

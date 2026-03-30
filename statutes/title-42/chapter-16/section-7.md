@@ -3,9 +3,9 @@ title: "Section 7 - Computer science education research"
 usc_title: 42
 usc_section: "7"
 chapter: 16
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T09:03:18.692Z"
+generated_at: "2026-03-30T09:06:03.568Z"
 status: "active"
 ---
 

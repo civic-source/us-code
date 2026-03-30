@@ -3,9 +3,9 @@ title: "Section 8703 - Issuance of orders"
 usc_title: 15
 usc_section: "8703"
 chapter: 113
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "15 U.S.C. § 8703"
-generated_at: "2026-03-30T09:02:01.056Z"
+generated_at: "2026-03-30T09:04:23.042Z"
 status: "active"
 ---
 

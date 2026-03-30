@@ -3,9 +3,9 @@ title: "Section 707 - Department of Commerce"
 usc_title: 14
 usc_section: "707"
 chapter: 7
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "14 U.S.C. § 707"
-generated_at: "2026-03-30T09:01:39.755Z"
+generated_at: "2026-03-30T09:04:14.119Z"
 status: "active"
 ---
 

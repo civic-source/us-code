@@ -3,9 +3,9 @@ title: "Section 9532 - Factories, arsenals, and depots: manufacture at"
 usc_title: 10
 usc_section: "9532"
 chapter: 963
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 9532"
-generated_at: "2026-03-30T09:01:22.031Z"
+generated_at: "2026-03-30T09:04:10.522Z"
 status: "active"
 ---
 

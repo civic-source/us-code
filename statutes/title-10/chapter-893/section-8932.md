@@ -3,9 +3,9 @@ title: "Section 8932 - National Ocean Research Leadership Council"
 usc_title: 10
 usc_section: "8932"
 chapter: 893
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 8932"
-generated_at: "2026-03-30T09:01:22.026Z"
+generated_at: "2026-03-30T09:04:10.517Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8108 - Repealed. Pub. L. 115–282, title VI, § 601(c)(3)(A) , 
 usc_title: 46
 usc_section: "8108"
 chapter: 81
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "46 U.S.C. § 8108"
-generated_at: "2026-03-30T09:03:28.693Z"
+generated_at: "2026-03-30T09:06:07.889Z"
 status: "repealed"
 ---
 

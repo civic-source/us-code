@@ -3,9 +3,9 @@ title: "Section 3936 - Purposes and powers of corporation"
 usc_title: 42
 usc_section: "3936"
 chapter: 49
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 3936"
-generated_at: "2026-03-30T09:03:18.750Z"
+generated_at: "2026-03-30T09:06:03.626Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30171 - Protection of employees providing motor vehicle safety i
 usc_title: 49
 usc_section: "30171"
 chapter: 301
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "49 U.S.C. § 30171"
-generated_at: "2026-03-30T09:03:31.199Z"
+generated_at: "2026-03-30T09:06:11.037Z"
 status: "active"
 ---
 

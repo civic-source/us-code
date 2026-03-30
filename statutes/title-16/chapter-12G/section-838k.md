@@ -3,9 +3,9 @@ title: "Section 838k - Bonneville Power Administration bonds"
 usc_title: 16
 usc_section: "838k"
 chapter: 12
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 838k"
-generated_at: "2026-03-30T09:02:16.217Z"
+generated_at: "2026-03-30T09:04:31.689Z"
 status: "active"
 ---
 

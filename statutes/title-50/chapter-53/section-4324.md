@@ -3,9 +3,9 @@ title: "Section 4324 - Return by Custodian, to United States, of payments under 
 usc_title: 50
 usc_section: "4324"
 chapter: 53
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "50 U.S.C. § 4324"
-generated_at: "2026-03-30T09:03:23.684Z"
+generated_at: "2026-03-30T09:06:09.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40129 - Collaborative decisionmaking pilot program"
 usc_title: 49
 usc_section: "40129"
 chapter: 401
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "49 U.S.C. § 40129"
-generated_at: "2026-03-30T09:03:31.214Z"
+generated_at: "2026-03-30T09:06:11.053Z"
 status: "active"
 ---
 

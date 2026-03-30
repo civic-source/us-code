@@ -3,9 +3,9 @@ title: "Section 2236 - Working capital fund for Agricultural Research Center; es
 usc_title: 7
 usc_section: "2236"
 chapter: 55
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "7 U.S.C. § 2236"
-generated_at: "2026-03-30T09:01:37.546Z"
+generated_at: "2026-03-30T09:04:05.875Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1115 - Annual reports: time of delivery by Director of the Gover
 usc_title: 44
 usc_section: "1115"
 chapter: 11
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "44 U.S.C. § 1115"
-generated_at: "2026-03-30T09:03:00.857Z"
+generated_at: "2026-03-30T09:05:36.503Z"
 status: "active"
 ---
 

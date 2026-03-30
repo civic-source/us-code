@@ -3,9 +3,9 @@ title: "Section 548 - Fraudulent transfers and obligations"
 usc_title: 11
 usc_section: "548"
 chapter: 5
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "11 U.S.C. § 548"
-generated_at: "2026-03-30T09:01:50.845Z"
+generated_at: "2026-03-30T09:04:24.027Z"
 status: "active"
 ---
 

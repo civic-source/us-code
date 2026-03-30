@@ -3,9 +3,9 @@ title: "Section 57 - Repealed. Pub. L. 101–189, div. A, title III, § 347(2) ,
 usc_title: 24
 usc_section: "57"
 chapter: 2
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "24 U.S.C. § 57"
-generated_at: "2026-03-30T09:02:21.621Z"
+generated_at: "2026-03-30T09:04:37.403Z"
 status: "repealed"
 ---
 

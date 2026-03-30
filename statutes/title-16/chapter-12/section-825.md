@@ -3,9 +3,9 @@ title: "Section 825 - Accounts and records"
 usc_title: 16
 usc_section: "825"
 chapter: 12
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 825"
-generated_at: "2026-03-30T09:02:16.211Z"
+generated_at: "2026-03-30T09:04:31.682Z"
 status: "active"
 ---
 

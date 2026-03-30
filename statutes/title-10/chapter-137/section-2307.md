@@ -3,9 +3,9 @@ title: "Section 2307 - Contract financing"
 usc_title: 10
 usc_section: "2307"
 chapter: 137
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "10 U.S.C. § 2307"
-generated_at: "2026-03-30T09:01:21.972Z"
+generated_at: "2026-03-30T09:04:10.465Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6711 - Failure by tax-exempt organization to disclose that certa
 usc_title: 26
 usc_section: "6711"
 chapter: 68
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "26 U.S.C. § 6711"
-generated_at: "2026-03-30T09:02:45.454Z"
+generated_at: "2026-03-30T09:05:03.492Z"
 status: "active"
 ---
 

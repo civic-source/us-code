@@ -3,9 +3,9 @@ title: "Section 577h - Authorization of appropriations; limitation on amount for
 usc_title: 16
 usc_section: "577h"
 chapter: 3
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "16 U.S.C. § 577h"
-generated_at: "2026-03-30T09:02:16.182Z"
+generated_at: "2026-03-30T09:04:31.655Z"
 status: "active"
 ---
 

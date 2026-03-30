@@ -3,9 +3,9 @@ title: "Section 110310 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "110310"
 chapter: 1103
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "36 U.S.C. § 110310"
-generated_at: "2026-03-30T09:02:57.595Z"
+generated_at: "2026-03-30T09:05:22.772Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1365 - Reimbursement of States for costs of incarcerating illega
 usc_title: 8
 usc_section: "1365"
 chapter: 12
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "8 U.S.C. § 1365"
-generated_at: "2026-03-30T09:01:09.265Z"
+generated_at: "2026-03-30T09:04:02.386Z"
 status: "active"
 ---
 

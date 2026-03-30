@@ -3,9 +3,9 @@ title: "Section 4911 - Citizen suits"
 usc_title: 42
 usc_section: "4911"
 chapter: 65
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "42 U.S.C. § 4911"
-generated_at: "2026-03-30T09:03:18.766Z"
+generated_at: "2026-03-30T09:06:03.641Z"
 status: "active"
 ---
 

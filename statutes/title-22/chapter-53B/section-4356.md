@@ -3,9 +3,9 @@ title: "Section 4356 - Advisory Committee"
 usc_title: 22
 usc_section: "4356"
 chapter: 53
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "22 U.S.C. § 4356"
-generated_at: "2026-03-30T09:02:24.381Z"
+generated_at: "2026-03-30T09:04:49.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1660d - Conferring with urban Indian organizations"
 usc_title: 25
 usc_section: "1660d"
 chapter: 18
-current_through: "PL 116-139"
+current_through: "PL 116-140"
 classification: "25 U.S.C. § 1660d"
-generated_at: "2026-03-30T09:02:21.516Z"
+generated_at: "2026-03-30T09:04:44.464Z"
 status: "active"
 ---
 
