@@ -3,9 +3,9 @@ title: "Section 78ll - Requirements for the EDGAR system"
 usc_title: 15
 usc_section: "78ll"
 chapter: 2
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "15 U.S.C. § 78ll"
-generated_at: "2026-03-30T04:44:22.353Z"
+generated_at: "2026-03-30T04:47:18.081Z"
 status: "active"
 ---
 

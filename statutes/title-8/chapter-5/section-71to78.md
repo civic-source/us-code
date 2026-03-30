@@ -3,9 +3,9 @@ title: "Section 71to78 - Transferred"
 usc_title: 8
 usc_section: "71to78"
 chapter: 5
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "8 U.S.C. § 71to78"
-generated_at: "2026-03-30T04:44:14.141Z"
+generated_at: "2026-03-30T04:47:06.003Z"
 status: "transferred"
 ---
 

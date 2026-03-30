@@ -3,9 +3,9 @@ title: "Section 20 - Use and right of access to religious shrines on reservation
 usc_title: 25
 usc_section: "20"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 20"
-generated_at: "2026-03-30T04:45:21.243Z"
+generated_at: "2026-03-30T04:47:33.942Z"
 status: "active"
 ---
 

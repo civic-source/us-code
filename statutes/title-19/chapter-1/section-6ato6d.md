@@ -3,9 +3,9 @@ title: "Section 6ato6d - Repealed. Sept. 3, 1954, ch. 1263, § 13(b) , 68 Stat. 
 usc_title: 19
 usc_section: "6ato6d"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 6ato6d"
-generated_at: "2026-03-30T04:45:08.604Z"
+generated_at: "2026-03-30T04:47:23.716Z"
 status: "repealed"
 ---
 

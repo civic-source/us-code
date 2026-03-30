@@ -3,9 +3,9 @@ title: "Section 129to134 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 16
 usc_section: "129to134"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 129to134"
-generated_at: "2026-03-30T04:45:04.698Z"
+generated_at: "2026-03-30T04:47:29.350Z"
 status: "repealed"
 ---
 

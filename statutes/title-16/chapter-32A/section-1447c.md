@@ -3,9 +3,9 @@ title: "Section 1447c - Regional research plans"
 usc_title: 16
 usc_section: "1447c"
 chapter: 32
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 1447c"
-generated_at: "2026-03-30T04:45:04.857Z"
+generated_at: "2026-03-30T04:47:29.506Z"
 status: "active"
 ---
 

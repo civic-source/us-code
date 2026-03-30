@@ -3,9 +3,9 @@ title: "Section 1439 - Repealed. Pub. L. 96–470, title I, § 117 , Oct. 19, 19
 usc_title: 22
 usc_section: "1439"
 chapter: 18
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 1439"
-generated_at: "2026-03-30T04:45:13.980Z"
+generated_at: "2026-03-30T04:47:36.265Z"
 status: "repealed"
 ---
 

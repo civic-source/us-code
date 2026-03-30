@@ -3,9 +3,9 @@ title: "Section 678b - Redefinition of western boundary of Norbeck Wildlife Pres
 usc_title: 16
 usc_section: "678b"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 678b"
-generated_at: "2026-03-30T04:45:04.806Z"
+generated_at: "2026-03-30T04:47:29.455Z"
 status: "active"
 ---
 

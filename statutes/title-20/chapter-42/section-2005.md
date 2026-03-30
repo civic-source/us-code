@@ -3,9 +3,9 @@ title: "Section 2005 - Truman scholars"
 usc_title: 20
 usc_section: "2005"
 chapter: 42
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 2005"
-generated_at: "2026-03-30T04:44:44.748Z"
+generated_at: "2026-03-30T04:47:25.804Z"
 status: "active"
 ---
 

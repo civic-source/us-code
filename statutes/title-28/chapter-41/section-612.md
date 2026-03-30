@@ -3,9 +3,9 @@ title: "Section 612 - Judiciary Information Technology Fund"
 usc_title: 28
 usc_section: "612"
 chapter: 41
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "28 U.S.C. § 612"
-generated_at: "2026-03-30T04:45:25.795Z"
+generated_at: "2026-03-30T04:47:39.471Z"
 status: "active"
 ---
 

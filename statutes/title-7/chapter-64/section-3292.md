@@ -3,9 +3,9 @@ title: "Section 3292 - Repealed. Pub. L. 104–127, title VIII, § 856 , Apr. 4,
 usc_title: 7
 usc_section: "3292"
 chapter: 64
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 3292"
-generated_at: "2026-03-30T04:43:59.302Z"
+generated_at: "2026-03-30T04:47:12.357Z"
 status: "repealed"
 ---
 

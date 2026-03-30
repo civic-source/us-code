@@ -3,9 +3,9 @@ title: "Section 9027 - Civilian special agents of the Office of Special Investig
 usc_title: 10
 usc_section: "9027"
 chapter: 873
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 9027"
-generated_at: "2026-03-30T04:43:57.263Z"
+generated_at: "2026-03-30T04:47:04.963Z"
 status: "active"
 ---
 

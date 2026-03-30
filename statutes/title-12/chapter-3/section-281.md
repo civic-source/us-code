@@ -3,9 +3,9 @@ title: "Section 281 - Capital"
 usc_title: 12
 usc_section: "281"
 chapter: 3
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 281"
-generated_at: "2026-03-30T04:44:20.317Z"
+generated_at: "2026-03-30T04:47:20.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8115 - Savings and repeals"
 usc_title: 15
 usc_section: "8115"
 chapter: 107
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "15 U.S.C. § 8115"
-generated_at: "2026-03-30T04:44:22.501Z"
+generated_at: "2026-03-30T04:47:18.224Z"
 status: "active"
 ---
 

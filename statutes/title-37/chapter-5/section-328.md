@@ -3,9 +3,9 @@ title: "Section 328 - Combat-related injury rehabilitation pay"
 usc_title: 37
 usc_section: "328"
 chapter: 5
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "37 U.S.C. § 328"
-generated_at: "2026-03-30T04:45:41.677Z"
+generated_at: "2026-03-30T04:48:21.762Z"
 status: "active"
 ---
 

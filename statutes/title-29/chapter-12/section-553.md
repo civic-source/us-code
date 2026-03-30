@@ -3,9 +3,9 @@ title: "Section 553 - Assistant Secretaries; appointment; duties"
 usc_title: 29
 usc_section: "553"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "29 U.S.C. § 553"
-generated_at: "2026-03-30T04:45:24.826Z"
+generated_at: "2026-03-30T04:47:45.374Z"
 status: "active"
 ---
 

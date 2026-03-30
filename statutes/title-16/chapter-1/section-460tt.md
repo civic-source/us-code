@@ -3,9 +3,9 @@ title: "Section 460tt - Cross Florida Barge Canal"
 usc_title: 16
 usc_section: "460tt"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 460tt"
-generated_at: "2026-03-30T04:45:04.764Z"
+generated_at: "2026-03-30T04:47:29.413Z"
 status: "active"
 ---
 

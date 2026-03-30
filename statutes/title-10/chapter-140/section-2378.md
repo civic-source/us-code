@@ -3,9 +3,9 @@ title: "Section 2378 - Procurement of copier paper containing specified percenta
 usc_title: 10
 usc_section: "2378"
 chapter: 140
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 2378"
-generated_at: "2026-03-30T04:43:57.217Z"
+generated_at: "2026-03-30T04:47:04.917Z"
 status: "active"
 ---
 

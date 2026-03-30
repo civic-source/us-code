@@ -3,9 +3,9 @@ title: "Section 33to34c - Transferred"
 usc_title: 12
 usc_section: "33to34c"
 chapter: 2
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 33to34c"
-generated_at: "2026-03-30T04:44:20.311Z"
+generated_at: "2026-03-30T04:47:20.078Z"
 status: "transferred"
 ---
 

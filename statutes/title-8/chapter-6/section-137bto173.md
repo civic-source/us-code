@@ -3,9 +3,9 @@ title: "Section 137bto173 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(
 usc_title: 8
 usc_section: "137bto173"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "8 U.S.C. § 137bto173"
-generated_at: "2026-03-30T04:44:14.141Z"
+generated_at: "2026-03-30T04:47:06.003Z"
 status: "repealed"
 ---
 

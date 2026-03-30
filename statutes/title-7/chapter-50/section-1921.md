@@ -3,9 +3,9 @@ title: "Section 1921 - Congressional findings"
 usc_title: 7
 usc_section: "1921"
 chapter: 50
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 1921"
-generated_at: "2026-03-30T04:43:59.262Z"
+generated_at: "2026-03-30T04:47:12.317Z"
 status: "active"
 ---
 

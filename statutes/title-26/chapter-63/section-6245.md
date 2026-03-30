@@ -3,9 +3,9 @@ title: "Section 6245 - Secretarial authority"
 usc_title: 26
 usc_section: "6245"
 chapter: 63
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 6245"
-generated_at: "2026-03-30T04:45:33.278Z"
+generated_at: "2026-03-30T04:47:49.764Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 103 - Applicability of chapters"
 usc_title: 11
 usc_section: "103"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-30T04:44:37.764Z"
+generated_at: "2026-03-30T04:47:18.518Z"
 status: "active"
 ---
 

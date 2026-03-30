@@ -3,9 +3,9 @@ title: "Section 158ato158d - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 
 usc_title: 16
 usc_section: "158ato158d"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 158ato158d"
-generated_at: "2026-03-30T04:45:04.698Z"
+generated_at: "2026-03-30T04:47:29.351Z"
 status: "repealed"
 ---
 

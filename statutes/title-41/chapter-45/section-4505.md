@@ -3,9 +3,9 @@ title: "Section 4505 - Payments for commercial items"
 usc_title: 41
 usc_section: "4505"
 chapter: 45
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "41 U.S.C. § 4505"
-generated_at: "2026-03-30T04:45:48.863Z"
+generated_at: "2026-03-30T04:48:38.970Z"
 status: "active"
 ---
 

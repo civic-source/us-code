@@ -3,9 +3,9 @@ title: "Section 25 - Omitted"
 usc_title: 12
 usc_section: "25"
 chapter: 2
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 25"
-generated_at: "2026-03-30T04:44:20.310Z"
+generated_at: "2026-03-30T04:47:20.077Z"
 status: "omitted"
 ---
 

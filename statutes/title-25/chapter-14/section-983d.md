@@ -3,9 +3,9 @@ title: "Section 983d - Interim government"
 usc_title: 25
 usc_section: "983d"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 983d"
-generated_at: "2026-03-30T04:45:21.254Z"
+generated_at: "2026-03-30T04:47:33.953Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2282b - Submission of reports to Congress"
 usc_title: 33
 usc_section: "2282b"
 chapter: 36
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "33 U.S.C. § 2282b"
-generated_at: "2026-03-30T04:45:39.128Z"
+generated_at: "2026-03-30T04:48:11.023Z"
 status: "active"
 ---
 

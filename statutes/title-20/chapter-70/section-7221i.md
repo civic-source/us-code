@@ -3,9 +3,9 @@ title: "Section 7221i - Definitions"
 usc_title: 20
 usc_section: "7221i"
 chapter: 70
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 7221i"
-generated_at: "2026-03-30T04:44:44.791Z"
+generated_at: "2026-03-30T04:47:25.846Z"
 status: "active"
 ---
 

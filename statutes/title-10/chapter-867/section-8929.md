@@ -3,9 +3,9 @@ title: "Section 8929 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "8929"
 chapter: 867
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 8929"
-generated_at: "2026-03-30T04:43:57.263Z"
+generated_at: "2026-03-30T04:47:04.963Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1708 - Applicability of State law; treatment of settlement lands
 usc_title: 25
 usc_section: "1708"
 chapter: 19
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 1708"
-generated_at: "2026-03-30T04:45:21.274Z"
+generated_at: "2026-03-30T04:47:33.974Z"
 status: "active"
 ---
 

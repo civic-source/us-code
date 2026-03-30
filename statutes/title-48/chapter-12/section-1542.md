@@ -3,9 +3,9 @@ title: "Section 1542 - Voting franchise; discrimination prohibited"
 usc_title: 48
 usc_section: "1542"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "48 U.S.C. § 1542"
-generated_at: "2026-03-30T04:46:41.672Z"
+generated_at: "2026-03-30T04:48:59.233Z"
 status: "active"
 ---
 

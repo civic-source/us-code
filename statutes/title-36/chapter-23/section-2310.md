@@ -3,9 +3,9 @@ title: "Section 2310 - Authorization of appropriations"
 usc_title: 36
 usc_section: "2310"
 chapter: 23
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "36 U.S.C. § 2310"
-generated_at: "2026-03-30T04:45:41.327Z"
+generated_at: "2026-03-30T04:48:28.619Z"
 status: "active"
 ---
 

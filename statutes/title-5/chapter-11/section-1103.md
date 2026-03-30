@@ -3,9 +3,9 @@ title: "Section 1103 - Functions of the Director"
 usc_title: 5
 usc_section: "1103"
 chapter: 11
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "5 U.S.C. § 1103"
-generated_at: "2026-03-30T04:43:47.014Z"
+generated_at: "2026-03-30T04:46:57.337Z"
 status: "active"
 ---
 

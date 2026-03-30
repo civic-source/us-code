@@ -3,9 +3,9 @@ title: "Section 1409 - Venue of proceedings arising under title 11 or arising in
 usc_title: 28
 usc_section: "1409"
 chapter: 87
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "28 U.S.C. § 1409"
-generated_at: "2026-03-30T04:45:25.800Z"
+generated_at: "2026-03-30T04:47:39.476Z"
 status: "active"
 ---
 

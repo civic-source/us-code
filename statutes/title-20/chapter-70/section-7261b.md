@@ -3,9 +3,9 @@ title: "Section 7261b - Program authorized"
 usc_title: 20
 usc_section: "7261b"
 chapter: 70
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 7261b"
-generated_at: "2026-03-30T04:44:44.794Z"
+generated_at: "2026-03-30T04:47:25.849Z"
 status: "active"
 ---
 

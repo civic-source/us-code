@@ -3,9 +3,9 @@ title: "Section 16421a - Western Area Power Administration borrowing authority"
 usc_title: 42
 usc_section: "16421a"
 chapter: 149
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 16421a"
-generated_at: "2026-03-30T04:46:28.664Z"
+generated_at: "2026-03-30T04:48:56.100Z"
 status: "active"
 ---
 

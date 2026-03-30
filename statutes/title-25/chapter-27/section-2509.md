@@ -3,9 +3,9 @@ title: "Section 2509 - Regulations"
 usc_title: 25
 usc_section: "2509"
 chapter: 27
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 2509"
-generated_at: "2026-03-30T04:45:21.293Z"
+generated_at: "2026-03-30T04:47:33.993Z"
 status: "active"
 ---
 

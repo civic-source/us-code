@@ -3,9 +3,9 @@ title: "Section 8b - Attempts to interfere with administration of this chapter"
 usc_title: 42
 usc_section: "8b"
 chapter: 7
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 8b"
-generated_at: "2026-03-30T04:46:28.177Z"
+generated_at: "2026-03-30T04:48:55.646Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6509 - Other procedures"
 usc_title: 41
 usc_section: "6509"
 chapter: 65
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "41 U.S.C. § 6509"
-generated_at: "2026-03-30T04:45:48.865Z"
+generated_at: "2026-03-30T04:48:38.972Z"
 status: "active"
 ---
 

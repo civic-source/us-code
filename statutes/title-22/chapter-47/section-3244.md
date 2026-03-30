@@ -3,9 +3,9 @@ title: "Section 3244 - Actions to combat international nuclear terrorism"
 usc_title: 22
 usc_section: "3244"
 chapter: 47
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 3244"
-generated_at: "2026-03-30T04:45:14.025Z"
+generated_at: "2026-03-30T04:47:36.322Z"
 status: "active"
 ---
 

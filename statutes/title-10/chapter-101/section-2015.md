@@ -3,9 +3,9 @@ title: "Section 2015 - Program to assist members in obtaining professional crede
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-30T04:43:57.198Z"
+generated_at: "2026-03-30T04:47:04.899Z"
 status: "active"
 ---
 

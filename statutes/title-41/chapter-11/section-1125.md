@@ -3,9 +3,9 @@ title: "Section 1125 - Recipients of Federal grants or assistance"
 usc_title: 41
 usc_section: "1125"
 chapter: 11
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "41 U.S.C. § 1125"
-generated_at: "2026-03-30T04:45:48.855Z"
+generated_at: "2026-03-30T04:48:38.963Z"
 status: "active"
 ---
 

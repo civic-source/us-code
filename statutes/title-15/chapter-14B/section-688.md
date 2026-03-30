@@ -3,9 +3,9 @@ title: "Section 688 - Repealed. Pub. L. 87–341, § 11(e) , Oct. 3, 1961 , 75 S
 usc_title: 15
 usc_section: "688"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "15 U.S.C. § 688"
-generated_at: "2026-03-30T04:44:22.395Z"
+generated_at: "2026-03-30T04:47:18.122Z"
 status: "repealed"
 ---
 

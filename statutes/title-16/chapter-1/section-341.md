@@ -3,9 +3,9 @@ title: "Section 341 - Establishment; description of area"
 usc_title: 16
 usc_section: "341"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 341"
-generated_at: "2026-03-30T04:45:04.708Z"
+generated_at: "2026-03-30T04:47:29.360Z"
 status: "active"
 ---
 

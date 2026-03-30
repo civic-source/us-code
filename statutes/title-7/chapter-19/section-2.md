@@ -3,9 +3,9 @@ title: "Section 2 - Penalties for offenses relating to sampling of cotton"
 usc_title: 7
 usc_section: "2"
 chapter: 19
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T04:43:59.217Z"
+generated_at: "2026-03-30T04:47:12.271Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1613 - Relations between courts of United States and courts of V
 usc_title: 48
 usc_section: "1613"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "48 U.S.C. § 1613"
-generated_at: "2026-03-30T04:46:41.673Z"
+generated_at: "2026-03-30T04:48:59.234Z"
 status: "active"
 ---
 

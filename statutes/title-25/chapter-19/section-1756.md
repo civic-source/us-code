@@ -3,9 +3,9 @@ title: "Section 1756 - Practice and procedure"
 usc_title: 25
 usc_section: "1756"
 chapter: 19
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 1756"
-generated_at: "2026-03-30T04:45:21.276Z"
+generated_at: "2026-03-30T04:47:33.975Z"
 status: "active"
 ---
 

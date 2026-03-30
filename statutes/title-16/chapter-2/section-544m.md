@@ -3,9 +3,9 @@ title: "Section 544m - Enforcement"
 usc_title: 16
 usc_section: "544m"
 chapter: 2
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 544m"
-generated_at: "2026-03-30T04:45:04.792Z"
+generated_at: "2026-03-30T04:47:29.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1852 - Timber removed or transported"
 usc_title: 18
 usc_section: "1852"
 chapter: 91
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "18 U.S.C. § 1852"
-generated_at: "2026-03-30T04:44:42.314Z"
+generated_at: "2026-03-30T04:47:26.799Z"
 status: "active"
 ---
 

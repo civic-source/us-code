@@ -3,9 +3,9 @@ title: "Section 8024 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "8024"
 chapter: 803
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 8024"
-generated_at: "2026-03-30T04:43:57.260Z"
+generated_at: "2026-03-30T04:47:04.960Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1418 - Repealed. Pub. L. 105–42, § 6(e) , Aug. 15, 1997 , 111
 usc_title: 16
 usc_section: "1418"
 chapter: 31
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 1418"
-generated_at: "2026-03-30T04:45:04.854Z"
+generated_at: "2026-03-30T04:47:29.503Z"
 status: "repealed"
 ---
 

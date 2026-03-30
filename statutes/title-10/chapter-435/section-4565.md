@@ -3,9 +3,9 @@ title: "Section 4565 - Colors, standards, and guidons of demobilized organizatio
 usc_title: 10
 usc_section: "4565"
 chapter: 435
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 4565"
-generated_at: "2026-03-30T04:43:57.246Z"
+generated_at: "2026-03-30T04:47:04.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3651to3656 - Repealed or Renumbered. Pub. L. 98–473, title II,
 usc_title: 18
 usc_section: "3651to3656"
 chapter: 231
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "18 U.S.C. § 3651to3656"
-generated_at: "2026-03-30T04:44:42.337Z"
+generated_at: "2026-03-30T04:47:26.823Z"
 status: "repealed"
 ---
 

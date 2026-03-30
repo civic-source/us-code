@@ -3,9 +3,9 @@ title: "Section 701 - “Usual number” of documents and reports; distribution 
 usc_title: 44
 usc_section: "701"
 chapter: 7
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "44 U.S.C. § 701"
-generated_at: "2026-03-30T04:45:49.071Z"
+generated_at: "2026-03-30T04:48:40.155Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3302 - Exemptions"
 usc_title: 46
 usc_section: "3302"
 chapter: 33
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "46 U.S.C. § 3302"
-generated_at: "2026-03-30T04:46:39.840Z"
+generated_at: "2026-03-30T04:49:12.627Z"
 status: "active"
 ---
 

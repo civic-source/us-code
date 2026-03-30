@@ -3,9 +3,9 @@ title: "Section 2953 - Reports to Congress on additional employee requirements"
 usc_title: 5
 usc_section: "2953"
 chapter: 29
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "5 U.S.C. § 2953"
-generated_at: "2026-03-30T04:43:47.017Z"
+generated_at: "2026-03-30T04:46:57.340Z"
 status: "active"
 ---
 

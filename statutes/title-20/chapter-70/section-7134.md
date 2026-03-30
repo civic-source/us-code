@@ -3,9 +3,9 @@ title: "Section 7134 - Safe and Drug-Free Schools and Communities Advisory Commi
 usc_title: 20
 usc_section: "7134"
 chapter: 70
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 7134"
-generated_at: "2026-03-30T04:44:44.788Z"
+generated_at: "2026-03-30T04:47:25.842Z"
 status: "active"
 ---
 

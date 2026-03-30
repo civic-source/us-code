@@ -3,9 +3,9 @@ title: "Section 1235to1236 - Transferred"
 usc_title: 48
 usc_section: "1235to1236"
 chapter: 5
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "48 U.S.C. § 1235to1236"
-generated_at: "2026-03-30T04:46:41.666Z"
+generated_at: "2026-03-30T04:48:59.229Z"
 status: "transferred"
 ---
 

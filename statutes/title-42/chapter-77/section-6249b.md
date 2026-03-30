@@ -3,9 +3,9 @@ title: "Section 6249b - Repealed. Pub. L. 106–469, title I, § 103(22) , Nov. 
 usc_title: 42
 usc_section: "6249b"
 chapter: 77
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 6249b"
-generated_at: "2026-03-30T04:46:28.453Z"
+generated_at: "2026-03-30T04:48:55.899Z"
 status: "repealed"
 ---
 

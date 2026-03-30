@@ -3,9 +3,9 @@ title: "Section 871to878 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "871to878"
 chapter: 17
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "29 U.S.C. § 871to878"
-generated_at: "2026-03-30T04:45:24.840Z"
+generated_at: "2026-03-30T04:47:45.388Z"
 status: "repealed"
 ---
 

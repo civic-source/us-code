@@ -3,9 +3,9 @@ title: "Section 20to20g - Repealed. Pub. L. 105–391, title IV, § 415(a) , Nov
 usc_title: 16
 usc_section: "20to20g"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 20to20g"
-generated_at: "2026-03-30T04:45:04.688Z"
+generated_at: "2026-03-30T04:47:29.343Z"
 status: "repealed"
 ---
 

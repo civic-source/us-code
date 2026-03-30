@@ -3,9 +3,9 @@ title: "Section 8905 - Exemptions"
 usc_title: 46
 usc_section: "8905"
 chapter: 89
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "46 U.S.C. § 8905"
-generated_at: "2026-03-30T04:46:39.848Z"
+generated_at: "2026-03-30T04:49:12.634Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 283g - Muscular dystrophy; initiative through Director of Nation
 usc_title: 42
 usc_section: "283g"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 283g"
-generated_at: "2026-03-30T04:46:28.044Z"
+generated_at: "2026-03-30T04:48:55.530Z"
 status: "active"
 ---
 

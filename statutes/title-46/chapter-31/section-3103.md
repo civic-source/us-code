@@ -3,9 +3,9 @@ title: "Section 3103 - Use of reports, documents, and records"
 usc_title: 46
 usc_section: "3103"
 chapter: 31
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "46 U.S.C. § 3103"
-generated_at: "2026-03-30T04:46:39.840Z"
+generated_at: "2026-03-30T04:49:12.626Z"
 status: "active"
 ---
 

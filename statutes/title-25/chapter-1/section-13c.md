@@ -3,9 +3,9 @@ title: "Section 13c - Source of funds to pay cost of lunches for nonboarding pub
 usc_title: 25
 usc_section: "13c"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 13c"
-generated_at: "2026-03-30T04:45:21.220Z"
+generated_at: "2026-03-30T04:47:33.918Z"
 status: "active"
 ---
 

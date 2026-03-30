@@ -3,9 +3,9 @@ title: "Section 2054 - Discontinued service benefits"
 usc_title: 50
 usc_section: "2054"
 chapter: 38
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "50 U.S.C. § 2054"
-generated_at: "2026-03-30T04:46:33.141Z"
+generated_at: "2026-03-30T04:49:03.623Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 860E - Treatment of income in excess of daily accruals on residu
 usc_title: 26
 usc_section: "860E"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 860E"
-generated_at: "2026-03-30T04:45:33.177Z"
+generated_at: "2026-03-30T04:47:49.667Z"
 status: "active"
 ---
 

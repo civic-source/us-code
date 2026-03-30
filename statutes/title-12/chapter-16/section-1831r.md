@@ -3,9 +3,9 @@ title: "Section 1831r - Payments on foreign deposits prohibited"
 usc_title: 12
 usc_section: "1831r"
 chapter: 16
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 1831r"
-generated_at: "2026-03-30T04:44:20.391Z"
+generated_at: "2026-03-30T04:47:20.159Z"
 status: "active"
 ---
 

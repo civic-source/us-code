@@ -3,9 +3,9 @@ title: "Section 776 - Payment out of Civil Service Retirement and Disability Fun
 usc_title: 33
 usc_section: "776"
 chapter: 16
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "33 U.S.C. § 776"
-generated_at: "2026-03-30T04:45:39.088Z"
+generated_at: "2026-03-30T04:48:10.992Z"
 status: "active"
 ---
 

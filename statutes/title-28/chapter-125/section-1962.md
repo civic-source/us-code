@@ -3,9 +3,9 @@ title: "Section 1962 - Lien"
 usc_title: 28
 usc_section: "1962"
 chapter: 125
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "28 U.S.C. § 1962"
-generated_at: "2026-03-30T04:45:25.806Z"
+generated_at: "2026-03-30T04:47:39.481Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430pp - Fort Necessity National Battlefield; acquisition of land
 usc_title: 16
 usc_section: "430pp"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 430pp"
-generated_at: "2026-03-30T04:45:04.741Z"
+generated_at: "2026-03-30T04:47:29.390Z"
 status: "active"
 ---
 

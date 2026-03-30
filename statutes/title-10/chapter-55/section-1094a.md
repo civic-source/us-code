@@ -3,9 +3,9 @@ title: "Section 1094a - Continuing medical education requirements: system for mo
 usc_title: 10
 usc_section: "1094a"
 chapter: 55
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 1094a"
-generated_at: "2026-03-30T04:43:57.178Z"
+generated_at: "2026-03-30T04:47:04.877Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21304 - Annual meeting"
 usc_title: 36
 usc_section: "21304"
 chapter: 213
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "36 U.S.C. § 21304"
-generated_at: "2026-03-30T04:45:41.329Z"
+generated_at: "2026-03-30T04:48:28.620Z"
 status: "active"
 ---
 

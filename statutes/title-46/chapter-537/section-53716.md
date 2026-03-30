@@ -3,9 +3,9 @@ title: "Section 53716 - Deposit fund"
 usc_title: 46
 usc_section: "53716"
 chapter: 537
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "46 U.S.C. § 53716"
-generated_at: "2026-03-30T04:46:39.864Z"
+generated_at: "2026-03-30T04:49:12.650Z"
 status: "active"
 ---
 

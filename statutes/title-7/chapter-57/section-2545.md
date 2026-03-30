@@ -3,9 +3,9 @@ title: "Section 2545 - Intermediary exemption"
 usc_title: 7
 usc_section: "2545"
 chapter: 57
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 2545"
-generated_at: "2026-03-30T04:43:59.294Z"
+generated_at: "2026-03-30T04:47:12.349Z"
 status: "active"
 ---
 

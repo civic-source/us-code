@@ -3,9 +3,9 @@ title: "Section 6112 - Compensation of Deputy President pro tempore of Senate"
 usc_title: 2
 usc_section: "6112"
 chapter: 61
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "2 U.S.C. § 6112"
-generated_at: "2026-03-30T04:43:48.568Z"
+generated_at: "2026-03-30T04:46:55.856Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4393 - Report to Congress by President"
 usc_title: 42
 usc_section: "4393"
 chapter: 57
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 4393"
-generated_at: "2026-03-30T04:46:28.416Z"
+generated_at: "2026-03-30T04:48:55.867Z"
 status: "active"
 ---
 

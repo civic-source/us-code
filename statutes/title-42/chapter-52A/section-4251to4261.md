@@ -3,9 +3,9 @@ title: "Section 4251to4261 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 198
 usc_title: 42
 usc_section: "4251to4261"
 chapter: 52
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 4251to4261"
-generated_at: "2026-03-30T04:46:28.413Z"
+generated_at: "2026-03-30T04:48:55.864Z"
 status: "repealed"
 ---
 

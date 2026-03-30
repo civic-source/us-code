@@ -3,9 +3,9 @@ title: "Section 2704 - Loan rates and repayment"
 usc_title: 16
 usc_section: "2704"
 chapter: 47
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 2704"
-generated_at: "2026-03-30T04:45:04.881Z"
+generated_at: "2026-03-30T04:47:29.530Z"
 status: "active"
 ---
 

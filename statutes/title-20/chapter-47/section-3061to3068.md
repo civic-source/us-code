@@ -3,9 +3,9 @@ title: "Section 3061to3068 - Omitted"
 usc_title: 20
 usc_section: "3061to3068"
 chapter: 47
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 3061to3068"
-generated_at: "2026-03-30T04:44:44.753Z"
+generated_at: "2026-03-30T04:47:25.809Z"
 status: "omitted"
 ---
 

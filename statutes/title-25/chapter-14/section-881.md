@@ -3,9 +3,9 @@ title: "Section 881 - Potawatomi Indians; disposition of judgment fund; deductio
 usc_title: 25
 usc_section: "881"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 881"
-generated_at: "2026-03-30T04:45:21.251Z"
+generated_at: "2026-03-30T04:47:33.950Z"
 status: "active"
 ---
 

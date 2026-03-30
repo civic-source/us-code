@@ -3,9 +3,9 @@ title: "Section 336c - Omitted"
 usc_title: 43
 usc_section: "336c"
 chapter: 9
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "43 U.S.C. § 336c"
-generated_at: "2026-03-30T04:45:49.891Z"
+generated_at: "2026-03-30T04:48:31.076Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1981to1983 - Repealed. Pub. L. 95–561, title XV, § 1529 , Nov
 usc_title: 20
 usc_section: "1981to1983"
 chapter: 41
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 1981to1983"
-generated_at: "2026-03-30T04:44:44.748Z"
+generated_at: "2026-03-30T04:47:25.804Z"
 status: "repealed"
 ---
 

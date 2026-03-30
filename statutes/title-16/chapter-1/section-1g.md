@@ -3,9 +3,9 @@ title: "Section 1g - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "1g"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 1g"
-generated_at: "2026-03-30T04:45:04.687Z"
+generated_at: "2026-03-30T04:47:29.342Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8203to8209 - Repealed. Pub. L. 96–513, title II, § 202 , Dec.
 usc_title: 10
 usc_section: "8203to8209"
 chapter: 831
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 8203to8209"
-generated_at: "2026-03-30T04:43:57.261Z"
+generated_at: "2026-03-30T04:47:04.960Z"
 status: "repealed"
 ---
 

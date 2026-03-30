@@ -3,9 +3,9 @@ title: "Section 25 - Oath of Speaker, Members, and Delegates"
 usc_title: 2
 usc_section: "25"
 chapter: 2
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "2 U.S.C. § 25"
-generated_at: "2026-03-30T04:43:48.525Z"
+generated_at: "2026-03-30T04:46:55.808Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1037 - Prohibited acts"
 usc_title: 21
 usc_section: "1037"
 chapter: 15
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "21 U.S.C. § 1037"
-generated_at: "2026-03-30T04:45:16.491Z"
+generated_at: "2026-03-30T04:47:33.114Z"
 status: "active"
 ---
 

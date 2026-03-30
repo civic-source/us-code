@@ -3,9 +3,9 @@ title: "Section 4221 - Definitions"
 usc_title: 25
 usc_section: "4221"
 chapter: 43
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 4221"
-generated_at: "2026-03-30T04:45:21.306Z"
+generated_at: "2026-03-30T04:47:34.006Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 129to130b - Repealed Aug. 13, 1946, ch. 957 , title XI, §§ 113
 usc_title: 22
 usc_section: "129to130b"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 129to130b"
-generated_at: "2026-03-30T04:45:13.958Z"
+generated_at: "2026-03-30T04:47:36.237Z"
 status: "repealed"
 ---
 

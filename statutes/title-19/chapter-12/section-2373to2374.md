@@ -3,9 +3,9 @@ title: "Section 2373to2374 - Repealed. Pub. L. 112–40, title II, § 222(a)(1) 
 usc_title: 19
 usc_section: "2373to2374"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 2373to2374"
-generated_at: "2026-03-30T04:45:08.641Z"
+generated_at: "2026-03-30T04:47:23.751Z"
 status: "repealed"
 ---
 

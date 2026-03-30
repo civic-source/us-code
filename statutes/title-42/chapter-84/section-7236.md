@@ -3,9 +3,9 @@ title: "Section 7236 - Transferred"
 usc_title: 42
 usc_section: "7236"
 chapter: 84
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 7236"
-generated_at: "2026-03-30T04:46:28.487Z"
+generated_at: "2026-03-30T04:48:55.931Z"
 status: "transferred"
 ---
 

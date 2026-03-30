@@ -3,9 +3,9 @@ title: "Section 2013 - Revolving fund for House gymnasium; deposit of receipts; 
 usc_title: 2
 usc_section: "2013"
 chapter: 30
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "2 U.S.C. § 2013"
-generated_at: "2026-03-30T04:43:48.557Z"
+generated_at: "2026-03-30T04:46:55.843Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3233 - Authorization of appropriations for disaster economic rec
 usc_title: 42
 usc_section: "3233"
 chapter: 38
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 3233"
-generated_at: "2026-03-30T04:46:28.388Z"
+generated_at: "2026-03-30T04:48:55.841Z"
 status: "active"
 ---
 

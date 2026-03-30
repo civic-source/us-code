@@ -3,9 +3,9 @@ title: "Section 635s - Implementation"
 usc_title: 12
 usc_section: "635s"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 635s"
-generated_at: "2026-03-30T04:44:20.328Z"
+generated_at: "2026-03-30T04:47:20.094Z"
 status: "active"
 ---
 

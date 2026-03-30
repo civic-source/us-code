@@ -3,9 +3,9 @@ title: "Section 1042 - Reporting of violation to United States attorney for inst
 usc_title: 21
 usc_section: "1042"
 chapter: 15
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "21 U.S.C. § 1042"
-generated_at: "2026-03-30T04:45:16.491Z"
+generated_at: "2026-03-30T04:47:33.115Z"
 status: "active"
 ---
 

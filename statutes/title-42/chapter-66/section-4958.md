@@ -3,9 +3,9 @@ title: "Section 4958 - Limitation on funds appropriated for grants and contracts
 usc_title: 42
 usc_section: "4958"
 chapter: 66
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 4958"
-generated_at: "2026-03-30T04:46:28.422Z"
+generated_at: "2026-03-30T04:48:55.872Z"
 status: "active"
 ---
 

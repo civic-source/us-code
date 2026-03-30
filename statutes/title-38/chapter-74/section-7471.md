@@ -3,9 +3,9 @@ title: "Section 7471 - Designation of Regional Medical Education Centers"
 usc_title: 38
 usc_section: "7471"
 chapter: 74
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "38 U.S.C. § 7471"
-generated_at: "2026-03-30T04:45:43.262Z"
+generated_at: "2026-03-30T04:48:26.141Z"
 status: "active"
 ---
 

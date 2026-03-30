@@ -3,9 +3,9 @@ title: "Section 103 - Publications for National Library for the Blind"
 usc_title: 20
 usc_section: "103"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 103"
-generated_at: "2026-03-30T04:44:44.673Z"
+generated_at: "2026-03-30T04:47:25.730Z"
 status: "active"
 ---
 

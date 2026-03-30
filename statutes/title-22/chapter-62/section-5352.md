@@ -3,9 +3,9 @@ title: "Section 5352 - Quadrennial reports on foreign treatment of United States
 usc_title: 22
 usc_section: "5352"
 chapter: 62
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 5352"
-generated_at: "2026-03-30T04:45:14.045Z"
+generated_at: "2026-03-30T04:47:36.347Z"
 status: "active"
 ---
 

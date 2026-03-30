@@ -3,9 +3,9 @@ title: "Section 1323to1325 - Repealed. Aug. 28, 1954, ch. 1041 , title III, § 3
 usc_title: 7
 usc_section: "1323to1325"
 chapter: 35
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 1323to1325"
-generated_at: "2026-03-30T04:43:59.233Z"
+generated_at: "2026-03-30T04:47:12.286Z"
 status: "repealed"
 ---
 

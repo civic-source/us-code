@@ -3,9 +3,9 @@ title: "Section 3712 - Indian participation in land management activities"
 usc_title: 25
 usc_section: "3712"
 chapter: 39
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 3712"
-generated_at: "2026-03-30T04:45:21.301Z"
+generated_at: "2026-03-30T04:47:34.001Z"
 status: "active"
 ---
 

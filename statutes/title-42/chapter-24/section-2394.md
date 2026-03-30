@@ -3,9 +3,9 @@ title: "Section 2394 - Contract to make payments"
 usc_title: 42
 usc_section: "2394"
 chapter: 24
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 2394"
-generated_at: "2026-03-30T04:46:28.370Z"
+generated_at: "2026-03-30T04:48:55.825Z"
 status: "active"
 ---
 

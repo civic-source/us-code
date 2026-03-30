@@ -3,9 +3,9 @@ title: "Section 1703 - “Contractor with the United States” defined"
 usc_title: 42
 usc_section: "1703"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 1703"
-generated_at: "2026-03-30T04:46:28.321Z"
+generated_at: "2026-03-30T04:48:55.779Z"
 status: "active"
 ---
 

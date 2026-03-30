@@ -3,9 +3,9 @@ title: "Section 430n - Repealed. Pub. L. 94–578, title III, § 319(5) , Oct. 2
 usc_title: 16
 usc_section: "430n"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 430n"
-generated_at: "2026-03-30T04:45:04.740Z"
+generated_at: "2026-03-30T04:47:29.389Z"
 status: "repealed"
 ---
 

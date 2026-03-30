@@ -3,9 +3,9 @@ title: "Section 1708 - Theft or receipt of stolen mail matter gen­erally"
 usc_title: 18
 usc_section: "1708"
 chapter: 83
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "18 U.S.C. § 1708"
-generated_at: "2026-03-30T04:44:42.313Z"
+generated_at: "2026-03-30T04:47:26.797Z"
 status: "active"
 ---
 

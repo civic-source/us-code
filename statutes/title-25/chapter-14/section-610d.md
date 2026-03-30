@@ -3,9 +3,9 @@ title: "Section 610d - Moneys or credits for tribal purposes"
 usc_title: 25
 usc_section: "610d"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 610d"
-generated_at: "2026-03-30T04:45:21.241Z"
+generated_at: "2026-03-30T04:47:33.940Z"
 status: "active"
 ---
 

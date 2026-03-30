@@ -3,9 +3,9 @@ title: "Section 63 - Accounts and records"
 usc_title: 15
 usc_section: "63"
 chapter: 2
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "15 U.S.C. § 63"
-generated_at: "2026-03-30T04:44:22.362Z"
+generated_at: "2026-03-30T04:47:18.090Z"
 status: "active"
 ---
 

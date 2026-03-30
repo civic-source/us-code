@@ -3,9 +3,9 @@ title: "Section 698j - Hunting, fishing, and trapping in Big Cypress Preserve an
 usc_title: 16
 usc_section: "698j"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 698j"
-generated_at: "2026-03-30T04:45:04.808Z"
+generated_at: "2026-03-30T04:47:29.457Z"
 status: "active"
 ---
 

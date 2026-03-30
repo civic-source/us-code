@@ -3,9 +3,9 @@ title: "Section 903g - Exemption from advertising requirement for contracts for 
 usc_title: 25
 usc_section: "903g"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 903g"
-generated_at: "2026-03-30T04:45:21.252Z"
+generated_at: "2026-03-30T04:47:33.951Z"
 status: "active"
 ---
 

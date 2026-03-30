@@ -3,9 +3,9 @@ title: "Section 4004a - Applicability of supplemental nutrition assistance requi
 usc_title: 7
 usc_section: "4004a"
 chapter: 71
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 4004a"
-generated_at: "2026-03-30T04:43:59.306Z"
+generated_at: "2026-03-30T04:47:12.361Z"
 status: "active"
 ---
 

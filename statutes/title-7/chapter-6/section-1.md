@@ -3,9 +3,9 @@ title: "Section 1 - State primary enforcement responsibility"
 usc_title: 7
 usc_section: "1"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T04:43:59.200Z"
+generated_at: "2026-03-30T04:47:12.254Z"
 status: "active"
 ---
 

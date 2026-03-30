@@ -3,9 +3,9 @@ title: "Section 4353 - Procedures for identifying records for FRUS series; decla
 usc_title: 22
 usc_section: "4353"
 chapter: 53
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 4353"
-generated_at: "2026-03-30T04:45:14.041Z"
+generated_at: "2026-03-30T04:47:36.342Z"
 status: "active"
 ---
 

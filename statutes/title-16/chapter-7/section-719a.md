@@ -3,9 +3,9 @@ title: "Section 719a - Junior Duck Stamp"
 usc_title: 16
 usc_section: "719a"
 chapter: 7
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 719a"
-generated_at: "2026-03-30T04:45:04.812Z"
+generated_at: "2026-03-30T04:47:29.461Z"
 status: "active"
 ---
 

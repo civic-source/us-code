@@ -3,9 +3,9 @@ title: "Section 2493 - Sugar quota"
 usc_title: 19
 usc_section: "2493"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 2493"
-generated_at: "2026-03-30T04:45:08.646Z"
+generated_at: "2026-03-30T04:47:23.755Z"
 status: "active"
 ---
 

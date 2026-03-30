@@ -3,9 +3,9 @@ title: "Section 7331 - Informed consent"
 usc_title: 38
 usc_section: "7331"
 chapter: 73
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "38 U.S.C. § 7331"
-generated_at: "2026-03-30T04:45:43.257Z"
+generated_at: "2026-03-30T04:48:26.138Z"
 status: "active"
 ---
 

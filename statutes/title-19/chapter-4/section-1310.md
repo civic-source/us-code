@@ -3,9 +3,9 @@ title: "Section 1310 - Free importation of merchandise recovered from sunken and
 usc_title: 19
 usc_section: "1310"
 chapter: 4
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 1310"
-generated_at: "2026-03-30T04:45:08.607Z"
+generated_at: "2026-03-30T04:47:23.718Z"
 status: "active"
 ---
 

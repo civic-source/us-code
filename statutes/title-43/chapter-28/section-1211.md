@@ -3,9 +3,9 @@ title: "Section 1211 - Elimination of oaths for written statements; discretion o
 usc_title: 43
 usc_section: "1211"
 chapter: 28
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "43 U.S.C. § 1211"
-generated_at: "2026-03-30T04:45:49.922Z"
+generated_at: "2026-03-30T04:48:31.098Z"
 status: "active"
 ---
 

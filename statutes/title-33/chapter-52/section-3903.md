@@ -3,9 +3,9 @@ title: "Section 3903 - Applications"
 usc_title: 33
 usc_section: "3903"
 chapter: 52
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "33 U.S.C. § 3903"
-generated_at: "2026-03-30T04:45:39.146Z"
+generated_at: "2026-03-30T04:48:11.039Z"
 status: "active"
 ---
 

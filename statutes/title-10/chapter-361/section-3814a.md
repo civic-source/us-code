@@ -3,9 +3,9 @@ title: "Section 3814a - Repealed. Pub. L. 103–337, div. A, title XVI, § 1629(
 usc_title: 10
 usc_section: "3814a"
 chapter: 361
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 3814a"
-generated_at: "2026-03-30T04:43:57.242Z"
+generated_at: "2026-03-30T04:47:04.942Z"
 status: "repealed"
 ---
 

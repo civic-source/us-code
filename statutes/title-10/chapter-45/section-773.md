@@ -3,9 +3,9 @@ title: "Section 773 - When distinctive insignia required"
 usc_title: 10
 usc_section: "773"
 chapter: 45
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 773"
-generated_at: "2026-03-30T04:43:57.161Z"
+generated_at: "2026-03-30T04:47:04.860Z"
 status: "active"
 ---
 

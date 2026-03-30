@@ -3,9 +3,9 @@ title: "Section 252to256 - Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7
 usc_title: 2
 usc_section: "252to256"
 chapter: 8
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "2 U.S.C. § 252to256"
-generated_at: "2026-03-30T04:43:48.533Z"
+generated_at: "2026-03-30T04:46:55.817Z"
 status: "repealed"
 ---
 

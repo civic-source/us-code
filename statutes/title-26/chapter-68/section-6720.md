@@ -3,9 +3,9 @@ title: "Section 6720 - Fraudulent acknowledgments with respect to donations of m
 usc_title: 26
 usc_section: "6720"
 chapter: 68
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 6720"
-generated_at: "2026-03-30T04:45:33.291Z"
+generated_at: "2026-03-30T04:47:49.782Z"
 status: "active"
 ---
 

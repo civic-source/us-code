@@ -3,9 +3,9 @@ title: "Section 2258E - Definitions"
 usc_title: 18
 usc_section: "2258E"
 chapter: 110
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "18 U.S.C. § 2258E"
-generated_at: "2026-03-30T04:44:42.320Z"
+generated_at: "2026-03-30T04:47:26.804Z"
 status: "active"
 ---
 

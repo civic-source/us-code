@@ -3,9 +3,9 @@ title: "Section 3655 - Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a
 usc_title: 22
 usc_section: "3655"
 chapter: 51
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 3655"
-generated_at: "2026-03-30T04:45:14.027Z"
+generated_at: "2026-03-30T04:47:36.325Z"
 status: "repealed"
 ---
 

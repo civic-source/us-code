@@ -3,9 +3,9 @@ title: "Section 2002 - Liability for payment"
 usc_title: 26
 usc_section: "2002"
 chapter: 11
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 2002"
-generated_at: "2026-03-30T04:45:33.216Z"
+generated_at: "2026-03-30T04:47:49.707Z"
 status: "active"
 ---
 

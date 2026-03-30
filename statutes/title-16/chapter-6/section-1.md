@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:45:04.809Z"
+generated_at: "2026-03-30T04:47:29.458Z"
 status: "active"
 ---
 

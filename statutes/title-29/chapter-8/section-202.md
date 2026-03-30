@@ -3,9 +3,9 @@ title: "Section 202 - Congressional finding and declaration of policy"
 usc_title: 29
 usc_section: "202"
 chapter: 8
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "29 U.S.C. § 202"
-generated_at: "2026-03-30T04:45:24.821Z"
+generated_at: "2026-03-30T04:47:45.369Z"
 status: "active"
 ---
 

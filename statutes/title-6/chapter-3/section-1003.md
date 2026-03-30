@@ -3,9 +3,9 @@ title: "Section 1003 - Research, development, test, and evaluation efforts in fu
 usc_title: 6
 usc_section: "1003"
 chapter: 3
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "6 U.S.C. § 1003"
-generated_at: "2026-03-30T04:43:50.741Z"
+generated_at: "2026-03-30T04:46:59.537Z"
 status: "active"
 ---
 

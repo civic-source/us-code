@@ -3,9 +3,9 @@ title: "Section 404c5to404c9 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat
 usc_title: 16
 usc_section: "404c5to404c9"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 404c5to404c9"
-generated_at: "2026-03-30T04:45:04.715Z"
+generated_at: "2026-03-30T04:47:29.365Z"
 status: "repealed"
 ---
 

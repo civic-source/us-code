@@ -3,9 +3,9 @@ title: "Section 70102 - Space shuttle use policy"
 usc_title: 51
 usc_section: "70102"
 chapter: 701
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "51 U.S.C. § 70102"
-generated_at: "2026-03-30T04:46:43.400Z"
+generated_at: "2026-03-30T04:49:38.666Z"
 status: "active"
 ---
 

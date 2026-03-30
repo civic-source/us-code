@@ -3,9 +3,9 @@ title: "Section 85to119 - Repealed. June 19, 1934, ch. 652, § 602(a) , 48 Stat.
 usc_title: 47
 usc_section: "85to119"
 chapter: 4
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "47 U.S.C. § 85to119"
-generated_at: "2026-03-30T04:46:32.398Z"
+generated_at: "2026-03-30T04:49:00.842Z"
 status: "repealed"
 ---
 

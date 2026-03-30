@@ -3,9 +3,9 @@ title: "Section 7103 - Definitions; application"
 usc_title: 5
 usc_section: "7103"
 chapter: 71
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "5 U.S.C. § 7103"
-generated_at: "2026-03-30T04:43:47.038Z"
+generated_at: "2026-03-30T04:46:57.365Z"
 status: "active"
 ---
 

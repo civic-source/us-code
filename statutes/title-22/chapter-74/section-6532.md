@@ -3,9 +3,9 @@ title: "Section 6532 - Transfer of functions"
 usc_title: 22
 usc_section: "6532"
 chapter: 74
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 6532"
-generated_at: "2026-03-30T04:45:14.056Z"
+generated_at: "2026-03-30T04:47:36.361Z"
 status: "active"
 ---
 

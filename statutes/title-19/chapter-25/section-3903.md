@@ -3,9 +3,9 @@ title: "Section 3903 - Measures for the importation and exportation of rough dia
 usc_title: 19
 usc_section: "3903"
 chapter: 25
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 3903"
-generated_at: "2026-03-30T04:45:08.667Z"
+generated_at: "2026-03-30T04:47:23.775Z"
 status: "active"
 ---
 

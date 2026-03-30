@@ -3,9 +3,9 @@ title: "Section 1038 - Rules and regulations"
 usc_title: 25
 usc_section: "1038"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 1038"
-generated_at: "2026-03-30T04:45:21.254Z"
+generated_at: "2026-03-30T04:47:33.954Z"
 status: "active"
 ---
 

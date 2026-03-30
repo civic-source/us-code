@@ -3,9 +3,9 @@ title: "Section 6912 - Program enhancement activities"
 usc_title: 20
 usc_section: "6912"
 chapter: 70
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 6912"
-generated_at: "2026-03-30T04:44:44.784Z"
+generated_at: "2026-03-30T04:47:25.839Z"
 status: "active"
 ---
 

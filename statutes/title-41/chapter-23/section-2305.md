@@ -3,9 +3,9 @@ title: "Section 2305 - Authority of Director of Office of Management and Budget 
 usc_title: 41
 usc_section: "2305"
 chapter: 23
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "41 U.S.C. § 2305"
-generated_at: "2026-03-30T04:45:48.860Z"
+generated_at: "2026-03-30T04:48:38.967Z"
 status: "active"
 ---
 

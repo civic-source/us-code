@@ -3,9 +3,9 @@ title: "Section 8901 - Definitions"
 usc_title: 5
 usc_section: "8901"
 chapter: 89
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "5 U.S.C. § 8901"
-generated_at: "2026-03-30T04:43:47.059Z"
+generated_at: "2026-03-30T04:46:57.390Z"
 status: "active"
 ---
 

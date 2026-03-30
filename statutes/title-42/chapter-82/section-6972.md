@@ -3,9 +3,9 @@ title: "Section 6972 - Citizen suits"
 usc_title: 42
 usc_section: "6972"
 chapter: 82
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 6972"
-generated_at: "2026-03-30T04:46:28.481Z"
+generated_at: "2026-03-30T04:48:55.924Z"
 status: "active"
 ---
 

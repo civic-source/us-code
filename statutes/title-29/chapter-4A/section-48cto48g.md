@@ -3,9 +3,9 @@ title: "Section 48cto48g - Omitted"
 usc_title: 29
 usc_section: "48cto48g"
 chapter: 4
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "29 U.S.C. § 48cto48g"
-generated_at: "2026-03-30T04:45:24.817Z"
+generated_at: "2026-03-30T04:47:45.365Z"
 status: "omitted"
 ---
 

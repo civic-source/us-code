@@ -3,9 +3,9 @@ title: "Section 487 - Procurement and sale of stores to members and civilian emp
 usc_title: 14
 usc_section: "487"
 chapter: 13
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "14 U.S.C. § 487"
-generated_at: "2026-03-30T04:44:22.681Z"
+generated_at: "2026-03-30T04:47:14.674Z"
 status: "active"
 ---
 

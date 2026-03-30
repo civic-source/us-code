@@ -3,9 +3,9 @@ title: "Section 107 - Full and open competition"
 usc_title: 41
 usc_section: "107"
 chapter: 1
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "41 U.S.C. § 107"
-generated_at: "2026-03-30T04:45:48.854Z"
+generated_at: "2026-03-30T04:48:38.963Z"
 status: "active"
 ---
 

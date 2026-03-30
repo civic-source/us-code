@@ -3,9 +3,9 @@ title: "Section 1241 - Congressional statement of policy and declaration of purp
 usc_title: 16
 usc_section: "1241"
 chapter: 27
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 1241"
-generated_at: "2026-03-30T04:45:04.840Z"
+generated_at: "2026-03-30T04:47:29.490Z"
 status: "active"
 ---
 

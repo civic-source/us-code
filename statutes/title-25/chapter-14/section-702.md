@@ -3,9 +3,9 @@ title: "Section 702 - Execution by Secretary of patents, deeds, etc."
 usc_title: 25
 usc_section: "702"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 702"
-generated_at: "2026-03-30T04:45:21.247Z"
+generated_at: "2026-03-30T04:47:33.946Z"
 status: "active"
 ---
 

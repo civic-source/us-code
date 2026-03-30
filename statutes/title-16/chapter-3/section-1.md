@@ -3,9 +3,9 @@ title: "Section 1 - Board of Directors of Foundation"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:45:04.797Z"
+generated_at: "2026-03-30T04:47:29.447Z"
 status: "active"
 ---
 

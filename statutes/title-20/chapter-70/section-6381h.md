@@ -3,9 +3,9 @@ title: "Section 6381h - Evaluation"
 usc_title: 20
 usc_section: "6381h"
 chapter: 70
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 6381h"
-generated_at: "2026-03-30T04:44:44.775Z"
+generated_at: "2026-03-30T04:47:25.831Z"
 status: "active"
 ---
 

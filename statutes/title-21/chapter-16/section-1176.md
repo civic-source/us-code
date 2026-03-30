@@ -3,9 +3,9 @@ title: "Section 1176 - Repealed. Pub. L. 97–35, title IX, § 969(a) , Aug. 13,
 usc_title: 21
 usc_section: "1176"
 chapter: 16
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "21 U.S.C. § 1176"
-generated_at: "2026-03-30T04:45:16.492Z"
+generated_at: "2026-03-30T04:47:33.116Z"
 status: "repealed"
 ---
 

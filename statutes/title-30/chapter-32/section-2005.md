@@ -3,9 +3,9 @@ title: "Section 2005 - Reports and studies for Congress"
 usc_title: 30
 usc_section: "2005"
 chapter: 32
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-03-30T04:45:25.204Z"
+generated_at: "2026-03-30T04:47:38.631Z"
 status: "active"
 ---
 

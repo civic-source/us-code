@@ -3,9 +3,9 @@ title: "Section 4381to4387 - Repealed. Pub. L. 88–647, title III, § 301(10) ,
 usc_title: 10
 usc_section: "4381to4387"
 chapter: 405
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 4381to4387"
-generated_at: "2026-03-30T04:43:57.245Z"
+generated_at: "2026-03-30T04:47:04.944Z"
 status: "repealed"
 ---
 

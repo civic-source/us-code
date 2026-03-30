@@ -3,9 +3,9 @@ title: "Section 7755 - Protection for mail handlers"
 usc_title: 7
 usc_section: "7755"
 chapter: 104
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 7755"
-generated_at: "2026-03-30T04:43:59.345Z"
+generated_at: "2026-03-30T04:47:12.401Z"
 status: "active"
 ---
 

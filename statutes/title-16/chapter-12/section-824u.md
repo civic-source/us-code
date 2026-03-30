@@ -3,9 +3,9 @@ title: "Section 824u - Prohibition on filing false information"
 usc_title: 16
 usc_section: "824u"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 824u"
-generated_at: "2026-03-30T04:45:04.823Z"
+generated_at: "2026-03-30T04:47:29.472Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16532 - Nuclear science talent expansion program for institution
 usc_title: 42
 usc_section: "16532"
 chapter: 149
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 16532"
-generated_at: "2026-03-30T04:46:28.666Z"
+generated_at: "2026-03-30T04:48:56.102Z"
 status: "active"
 ---
 

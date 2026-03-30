@@ -3,9 +3,9 @@ title: "Section 220511 - Report"
 usc_title: 36
 usc_section: "220511"
 chapter: 2205
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "36 U.S.C. § 220511"
-generated_at: "2026-03-30T04:45:41.347Z"
+generated_at: "2026-03-30T04:48:28.634Z"
 status: "active"
 ---
 

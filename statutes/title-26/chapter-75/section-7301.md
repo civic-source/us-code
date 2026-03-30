@@ -3,9 +3,9 @@ title: "Section 7301 - Property subject to tax"
 usc_title: 26
 usc_section: "7301"
 chapter: 75
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 7301"
-generated_at: "2026-03-30T04:45:33.295Z"
+generated_at: "2026-03-30T04:47:49.787Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3a - Emergency use of medical products"
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-03-30T04:45:16.456Z"
+generated_at: "2026-03-30T04:47:33.042Z"
 status: "active"
 ---
 

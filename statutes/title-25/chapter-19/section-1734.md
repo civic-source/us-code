@@ -3,9 +3,9 @@ title: "Section 1734 - Inseparability of provisions"
 usc_title: 25
 usc_section: "1734"
 chapter: 19
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 1734"
-generated_at: "2026-03-30T04:45:21.275Z"
+generated_at: "2026-03-30T04:47:33.974Z"
 status: "active"
 ---
 

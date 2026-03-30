@@ -3,9 +3,9 @@ title: "Section 413 - Distinctive letter and serial number of notes; cancellatio
 usc_title: 12
 usc_section: "413"
 chapter: 3
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 413"
-generated_at: "2026-03-30T04:44:20.321Z"
+generated_at: "2026-03-30T04:47:20.088Z"
 status: "active"
 ---
 

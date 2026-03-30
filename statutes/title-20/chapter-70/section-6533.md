@@ -3,9 +3,9 @@ title: "Section 6533 - Funding distribution rule"
 usc_title: 20
 usc_section: "6533"
 chapter: 70
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 6533"
-generated_at: "2026-03-30T04:44:44.778Z"
+generated_at: "2026-03-30T04:47:25.833Z"
 status: "active"
 ---
 

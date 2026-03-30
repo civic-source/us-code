@@ -3,9 +3,9 @@ title: "Section 635ito635i2 - Repealed. Pub. L. 102–429, title I, § 121(c)(1)
 usc_title: 12
 usc_section: "635ito635i2"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 635ito635i2"
-generated_at: "2026-03-30T04:44:20.327Z"
+generated_at: "2026-03-30T04:47:20.093Z"
 status: "repealed"
 ---
 

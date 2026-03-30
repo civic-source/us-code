@@ -3,9 +3,9 @@ title: "Section 5586 - Repealed. Pub. L. 96–513, title III, § 321 , Dec. 12, 
 usc_title: 10
 usc_section: "5586"
 chapter: 539
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 5586"
-generated_at: "2026-03-30T04:43:57.249Z"
+generated_at: "2026-03-30T04:47:04.949Z"
 status: "repealed"
 ---
 

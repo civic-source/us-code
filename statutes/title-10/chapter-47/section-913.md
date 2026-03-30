@@ -3,9 +3,9 @@ title: "Section 913 - Art. 113. Misbehavior of sentinel"
 usc_title: 10
 usc_section: "913"
 chapter: 47
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 913"
-generated_at: "2026-03-30T04:43:57.166Z"
+generated_at: "2026-03-30T04:47:04.865Z"
 status: "active"
 ---
 

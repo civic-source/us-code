@@ -3,9 +3,9 @@ title: "Section 3101 - Congressional statement of findings and declaration of pu
 usc_title: 22
 usc_section: "3101"
 chapter: 46
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 3101"
-generated_at: "2026-03-30T04:45:14.024Z"
+generated_at: "2026-03-30T04:47:36.320Z"
 status: "active"
 ---
 

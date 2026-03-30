@@ -3,9 +3,9 @@ title: "Section 1486 - Administration of oaths"
 usc_title: 19
 usc_section: "1486"
 chapter: 4
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 1486"
-generated_at: "2026-03-30T04:45:08.614Z"
+generated_at: "2026-03-30T04:47:23.724Z"
 status: "active"
 ---
 

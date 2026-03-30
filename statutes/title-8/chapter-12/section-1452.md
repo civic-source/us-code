@@ -3,9 +3,9 @@ title: "Section 1452 - Certificates of citizenship or U.S. non-citizen national 
 usc_title: 8
 usc_section: "1452"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "8 U.S.C. § 1452"
-generated_at: "2026-03-30T04:44:14.173Z"
+generated_at: "2026-03-30T04:47:06.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5013 - Secretary of the Navy"
 usc_title: 10
 usc_section: "5013"
 chapter: 503
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 5013"
-generated_at: "2026-03-30T04:43:57.247Z"
+generated_at: "2026-03-30T04:47:04.947Z"
 status: "active"
 ---
 

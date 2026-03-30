@@ -3,9 +3,9 @@ title: "Section 2622 - Taxable amount in case of taxable termination"
 usc_title: 26
 usc_section: "2622"
 chapter: 13
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 2622"
-generated_at: "2026-03-30T04:45:33.223Z"
+generated_at: "2026-03-30T04:47:49.712Z"
 status: "active"
 ---
 

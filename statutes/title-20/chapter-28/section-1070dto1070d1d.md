@@ -3,9 +3,9 @@ title: "Section 1070dto1070d1d - Repealed. Pub. L. 102–325, title IV, § 402(a
 usc_title: 20
 usc_section: "1070dto1070d1d"
 chapter: 28
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 1070dto1070d1d"
-generated_at: "2026-03-30T04:44:44.694Z"
+generated_at: "2026-03-30T04:47:25.751Z"
 status: "repealed"
 ---
 

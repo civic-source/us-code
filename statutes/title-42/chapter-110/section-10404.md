@@ -3,9 +3,9 @@ title: "Section 10404 - Authority of Secretary"
 usc_title: 42
 usc_section: "10404"
 chapter: 110
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 10404"
-generated_at: "2026-03-30T04:46:28.570Z"
+generated_at: "2026-03-30T04:48:56.012Z"
 status: "active"
 ---
 

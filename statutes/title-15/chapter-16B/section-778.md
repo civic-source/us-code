@@ -3,9 +3,9 @@ title: "Section 778 - Management oversight review; report to Administrator"
 usc_title: 15
 usc_section: "778"
 chapter: 16
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "15 U.S.C. § 778"
-generated_at: "2026-03-30T04:44:22.405Z"
+generated_at: "2026-03-30T04:47:18.132Z"
 status: "active"
 ---
 

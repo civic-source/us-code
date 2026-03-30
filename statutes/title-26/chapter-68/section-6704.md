@@ -3,9 +3,9 @@ title: "Section 6704 - Failure to keep records necessary to meet reporting requi
 usc_title: 26
 usc_section: "6704"
 chapter: 68
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 6704"
-generated_at: "2026-03-30T04:45:33.291Z"
+generated_at: "2026-03-30T04:47:49.781Z"
 status: "active"
 ---
 

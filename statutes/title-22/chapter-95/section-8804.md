@@ -3,9 +3,9 @@ title: "Section 8804 - Imposition of sanctions with respect to the sale, supply,
 usc_title: 22
 usc_section: "8804"
 chapter: 95
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 8804"
-generated_at: "2026-03-30T04:45:14.078Z"
+generated_at: "2026-03-30T04:47:36.389Z"
 status: "active"
 ---
 

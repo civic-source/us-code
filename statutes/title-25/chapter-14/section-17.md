@@ -3,9 +3,9 @@ title: "Section 17 - Actions for accounting, fair value of grazing, and claims f
 usc_title: 25
 usc_section: "17"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 17"
-generated_at: "2026-03-30T04:45:21.243Z"
+generated_at: "2026-03-30T04:47:33.942Z"
 status: "active"
 ---
 

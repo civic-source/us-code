@@ -3,9 +3,9 @@ title: "Section 191 - Geographic scope of censuses"
 usc_title: 13
 usc_section: "191"
 chapter: 5
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "13 U.S.C. § 191"
-generated_at: "2026-03-30T04:44:25.099Z"
+generated_at: "2026-03-30T04:47:20.282Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 611to629 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 
 usc_title: 50
 usc_section: "611to629"
 chapter: 22
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "50 U.S.C. § 611to629"
-generated_at: "2026-03-30T04:46:33.128Z"
+generated_at: "2026-03-30T04:49:03.609Z"
 status: "repealed"
 ---
 

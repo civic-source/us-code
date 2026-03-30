@@ -3,9 +3,9 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-03-30T04:43:59.278Z"
+generated_at: "2026-03-30T04:47:12.332Z"
 status: "active"
 ---
 

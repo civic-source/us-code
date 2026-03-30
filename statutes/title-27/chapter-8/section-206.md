@@ -3,9 +3,9 @@ title: "Section 206 - Bulk sales and bottling"
 usc_title: 27
 usc_section: "206"
 chapter: 8
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "27 U.S.C. § 206"
-generated_at: "2026-03-30T04:45:33.344Z"
+generated_at: "2026-03-30T04:47:37.920Z"
 status: "active"
 ---
 

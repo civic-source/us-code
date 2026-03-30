@@ -3,9 +3,9 @@ title: "Section 274i - Eligibility requirements for Stephanie Tubbs Jones Gift o
 usc_title: 42
 usc_section: "274i"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 274i"
-generated_at: "2026-03-30T04:46:28.034Z"
+generated_at: "2026-03-30T04:48:55.520Z"
 status: "active"
 ---
 

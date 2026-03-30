@@ -3,9 +3,9 @@ title: "Section 1323 - Retrocession of jurisdiction by State"
 usc_title: 25
 usc_section: "1323"
 chapter: 15
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 1323"
-generated_at: "2026-03-30T04:45:21.262Z"
+generated_at: "2026-03-30T04:47:33.961Z"
 status: "active"
 ---
 

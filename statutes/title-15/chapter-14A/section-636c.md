@@ -3,9 +3,9 @@ title: "Section 636c - Age of applicant for disaster loans"
 usc_title: 15
 usc_section: "636c"
 chapter: 14
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "15 U.S.C. § 636c"
-generated_at: "2026-03-30T04:44:22.380Z"
+generated_at: "2026-03-30T04:47:18.108Z"
 status: "active"
 ---
 

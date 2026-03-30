@@ -3,9 +3,9 @@ title: "Section 91 - Definitions"
 usc_title: 42
 usc_section: "91"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 91"
-generated_at: "2026-03-30T04:46:28.121Z"
+generated_at: "2026-03-30T04:48:55.597Z"
 status: "active"
 ---
 
@@ -104,11 +104,12 @@ status: "active"
     - **(B)**
       - **(i)** Subject to clause (ii), such terms 2 2 So in original. Probably should be “term”. includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
       - **(ii)** Clause (i) shall not apply in the case of a State that elects to regulate the coverage described in such clause as coverage in the small group market.
-  - **(2)** The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
+  - **(2)** The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
   - **(3)** The term “large group market” means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer.
-  - **(4)** The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employees 3 3 So in original. on the first day of the plan year.
+  - **(4)** The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 50 employees on business days during the preceding calendar year and who employs at least 1 employees 3 3 So in original. on the first day of the plan year.
   - **(5)** The term “small group market” means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a small employer.
   - **(6)** For purposes of this subsection—
     - **(A)** all 4 4 So in original. Probably should be capitalized. persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 shall be treated as 1 employer.
     - **(B)** In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small or large employer shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.
     - **(C)** Any reference in this subsection to an employer shall include a reference to any predecessor of such employer.
+  - **(7)** Notwithstanding paragraphs (2) and (4), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.

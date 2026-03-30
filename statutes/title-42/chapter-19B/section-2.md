@@ -3,9 +3,9 @@ title: "Section 2 - Delegation of functions"
 usc_title: 42
 usc_section: "2"
 chapter: 19
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T04:46:28.342Z"
+generated_at: "2026-03-30T04:48:55.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 290bb3to290bb5 - Repealed. Pub. L. 106–310, div. B, title XXXI
 usc_title: 42
 usc_section: "290bb3to290bb5"
 chapter: 6
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 290bb3to290bb5"
-generated_at: "2026-03-30T04:46:28.059Z"
+generated_at: "2026-03-30T04:48:55.543Z"
 status: "repealed"
 ---
 

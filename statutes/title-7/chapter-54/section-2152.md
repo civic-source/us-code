@@ -3,9 +3,9 @@ title: "Section 2152 - Separability"
 usc_title: 7
 usc_section: "2152"
 chapter: 54
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 2152"
-generated_at: "2026-03-30T04:43:59.288Z"
+generated_at: "2026-03-30T04:47:12.342Z"
 status: "active"
 ---
 

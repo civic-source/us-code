@@ -3,9 +3,9 @@ title: "Section 2396 - Federal laws guaranteeing civil rights"
 usc_title: 20
 usc_section: "2396"
 chapter: 44
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 2396"
-generated_at: "2026-03-30T04:44:44.753Z"
+generated_at: "2026-03-30T04:47:25.809Z"
 status: "active"
 ---
 

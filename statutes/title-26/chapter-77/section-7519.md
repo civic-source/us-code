@@ -3,9 +3,9 @@ title: "Section 7519 - Required payments for entities electing not to have requi
 usc_title: 26
 usc_section: "7519"
 chapter: 77
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "26 U.S.C. § 7519"
-generated_at: "2026-03-30T04:45:33.302Z"
+generated_at: "2026-03-30T04:47:49.796Z"
 status: "active"
 ---
 

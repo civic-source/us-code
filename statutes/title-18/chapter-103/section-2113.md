@@ -3,9 +3,9 @@ title: "Section 2113 - Bank robbery and incidental crimes"
 usc_title: 18
 usc_section: "2113"
 chapter: 103
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "18 U.S.C. § 2113"
-generated_at: "2026-03-30T04:44:42.317Z"
+generated_at: "2026-03-30T04:47:26.802Z"
 status: "active"
 ---
 

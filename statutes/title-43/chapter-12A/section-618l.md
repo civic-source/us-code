@@ -3,9 +3,9 @@ title: "Section 618l - Repealed. Aug. 30, 1954, ch. 1076, § 1(22) , 68 Stat. 96
 usc_title: 43
 usc_section: "618l"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "43 U.S.C. § 618l"
-generated_at: "2026-03-30T04:45:49.910Z"
+generated_at: "2026-03-30T04:48:31.089Z"
 status: "repealed"
 ---
 

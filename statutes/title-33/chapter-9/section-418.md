@@ -3,9 +3,9 @@ title: "Section 418 - Provisions for protection of New York Harbor unaffected"
 usc_title: 33
 usc_section: "418"
 chapter: 9
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "33 U.S.C. § 418"
-generated_at: "2026-03-30T04:45:39.073Z"
+generated_at: "2026-03-30T04:48:10.979Z"
 status: "active"
 ---
 

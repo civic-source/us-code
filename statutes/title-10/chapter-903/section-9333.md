@@ -3,9 +3,9 @@ title: "Section 9333 - Superintendent; faculty: appointment and detail"
 usc_title: 10
 usc_section: "9333"
 chapter: 903
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 9333"
-generated_at: "2026-03-30T04:43:57.263Z"
+generated_at: "2026-03-30T04:47:04.964Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7861 - Custody of departmental records and property"
 usc_title: 10
 usc_section: "7861"
 chapter: 661
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 7861"
-generated_at: "2026-03-30T04:43:57.259Z"
+generated_at: "2026-03-30T04:47:04.959Z"
 status: "active"
 ---
 

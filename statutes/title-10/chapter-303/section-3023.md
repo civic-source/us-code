@@ -3,9 +3,9 @@ title: "Section 3023 - Chief of Legislative Liaison"
 usc_title: 10
 usc_section: "3023"
 chapter: 303
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 3023"
-generated_at: "2026-03-30T04:43:57.240Z"
+generated_at: "2026-03-30T04:47:04.940Z"
 status: "active"
 ---
 

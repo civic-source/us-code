@@ -3,9 +3,9 @@ title: "Section 4135 - Low-income requirement and income targeting"
 usc_title: 25
 usc_section: "4135"
 chapter: 43
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 4135"
-generated_at: "2026-03-30T04:45:21.304Z"
+generated_at: "2026-03-30T04:47:34.005Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5590 - Submittal to Congressional committees of plan for demonst
 usc_title: 42
 usc_section: "5590"
 chapter: 71
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 5590"
-generated_at: "2026-03-30T04:46:28.442Z"
+generated_at: "2026-03-30T04:48:55.890Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 173 - Times and places of holding court"
 usc_title: 28
 usc_section: "173"
 chapter: 7
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "28 U.S.C. § 173"
-generated_at: "2026-03-30T04:45:25.787Z"
+generated_at: "2026-03-30T04:47:39.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2502 - Vacancies"
 usc_title: 44
 usc_section: "2502"
 chapter: 25
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "44 U.S.C. § 2502"
-generated_at: "2026-03-30T04:45:49.079Z"
+generated_at: "2026-03-30T04:48:40.160Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 703 - Comptroller General and Deputy Comptroller General"
 usc_title: 31
 usc_section: "703"
 chapter: 7
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "31 U.S.C. § 703"
-generated_at: "2026-03-30T04:45:36.093Z"
+generated_at: "2026-03-30T04:48:08.093Z"
 status: "active"
 ---
 

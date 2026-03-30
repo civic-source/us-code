@@ -3,9 +3,9 @@ title: "Section 3421 - Agricultural standards"
 usc_title: 19
 usc_section: "3421"
 chapter: 21
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "19 U.S.C. § 3421"
-generated_at: "2026-03-30T04:45:08.659Z"
+generated_at: "2026-03-30T04:47:23.767Z"
 status: "active"
 ---
 

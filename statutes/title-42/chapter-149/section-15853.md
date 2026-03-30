@@ -3,9 +3,9 @@ title: "Section 15853 - Rebate program"
 usc_title: 42
 usc_section: "15853"
 chapter: 149
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 15853"
-generated_at: "2026-03-30T04:46:28.651Z"
+generated_at: "2026-03-30T04:48:56.088Z"
 status: "active"
 ---
 

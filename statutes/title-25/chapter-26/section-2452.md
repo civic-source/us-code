@@ -3,9 +3,9 @@ title: "Section 2452 - Medical assessment and treatment of juvenile offenders"
 usc_title: 25
 usc_section: "2452"
 chapter: 26
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "25 U.S.C. § 2452"
-generated_at: "2026-03-30T04:45:21.291Z"
+generated_at: "2026-03-30T04:47:33.991Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3009 - United States marshals’ authority to designate keeper"
 usc_title: 28
 usc_section: "3009"
 chapter: 176
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "28 U.S.C. § 3009"
-generated_at: "2026-03-30T04:45:25.811Z"
+generated_at: "2026-03-30T04:47:39.487Z"
 status: "active"
 ---
 

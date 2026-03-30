@@ -3,9 +3,9 @@ title: "Section 941a - Purpose"
 usc_title: 16
 usc_section: "941a"
 chapter: 15
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 941a"
-generated_at: "2026-03-30T04:45:04.834Z"
+generated_at: "2026-03-30T04:47:29.482Z"
 status: "active"
 ---
 

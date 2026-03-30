@@ -3,9 +3,9 @@ title: "Section 2284 - Repealed. Pub. L. 105–362, title I, § 101(c) , Nov. 10
 usc_title: 7
 usc_section: "2284"
 chapter: 55
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 2284"
-generated_at: "2026-03-30T04:43:59.292Z"
+generated_at: "2026-03-30T04:47:12.347Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2408 - Authorization of appropriations"
 usc_title: 12
 usc_section: "2408"
 chapter: 25
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "12 U.S.C. § 2408"
-generated_at: "2026-03-30T04:44:20.410Z"
+generated_at: "2026-03-30T04:47:20.181Z"
 status: "active"
 ---
 

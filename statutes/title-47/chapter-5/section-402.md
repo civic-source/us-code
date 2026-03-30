@@ -3,9 +3,9 @@ title: "Section 402 - Judicial review of Commission’s orders and decisions"
 usc_title: 47
 usc_section: "402"
 chapter: 5
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "47 U.S.C. § 402"
-generated_at: "2026-03-30T04:46:32.421Z"
+generated_at: "2026-03-30T04:49:00.861Z"
 status: "active"
 ---
 

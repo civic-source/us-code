@@ -3,9 +3,9 @@ title: "Section 1902 - Availability of Government publications through Superinte
 usc_title: 44
 usc_section: "1902"
 chapter: 19
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "44 U.S.C. § 1902"
-generated_at: "2026-03-30T04:45:49.075Z"
+generated_at: "2026-03-30T04:48:40.158Z"
 status: "active"
 ---
 

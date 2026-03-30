@@ -3,9 +3,9 @@ title: "Section 4906 - Omitted"
 usc_title: 42
 usc_section: "4906"
 chapter: 65
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 4906"
-generated_at: "2026-03-30T04:46:28.421Z"
+generated_at: "2026-03-30T04:48:55.871Z"
 status: "omitted"
 ---
 

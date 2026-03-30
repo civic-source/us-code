@@ -3,9 +3,9 @@ title: "Section 4041 - Bureau of Prisons; director and employees"
 usc_title: 18
 usc_section: "4041"
 chapter: 303
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "18 U.S.C. § 4041"
-generated_at: "2026-03-30T04:44:42.339Z"
+generated_at: "2026-03-30T04:47:26.825Z"
 status: "active"
 ---
 

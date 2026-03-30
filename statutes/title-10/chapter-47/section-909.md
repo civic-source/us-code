@@ -3,9 +3,9 @@ title: "Section 909 - Art. 109. Property other than military property of United 
 usc_title: 10
 usc_section: "909"
 chapter: 47
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "10 U.S.C. § 909"
-generated_at: "2026-03-30T04:43:57.166Z"
+generated_at: "2026-03-30T04:47:04.865Z"
 status: "active"
 ---
 

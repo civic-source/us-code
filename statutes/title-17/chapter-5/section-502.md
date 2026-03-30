@@ -3,9 +3,9 @@ title: "Section 502 - Remedies for infringement: Injunctions"
 usc_title: 17
 usc_section: "502"
 chapter: 5
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "17 U.S.C. § 502"
-generated_at: "2026-03-30T04:44:46.396Z"
+generated_at: "2026-03-30T04:47:21.982Z"
 status: "active"
 ---
 

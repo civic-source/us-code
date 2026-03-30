@@ -3,9 +3,9 @@ title: "Section 824i - Interconnection authority"
 usc_title: 16
 usc_section: "824i"
 chapter: 12
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "16 U.S.C. § 824i"
-generated_at: "2026-03-30T04:45:04.821Z"
+generated_at: "2026-03-30T04:47:29.470Z"
 status: "active"
 ---
 

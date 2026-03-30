@@ -3,9 +3,9 @@ title: "Section 2592 - Repealed. Pub. L. 103–236, title VII, § 704(3) , Apr. 
 usc_title: 22
 usc_section: "2592"
 chapter: 35
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "22 U.S.C. § 2592"
-generated_at: "2026-03-30T04:45:14.013Z"
+generated_at: "2026-03-30T04:47:36.307Z"
 status: "repealed"
 ---
 

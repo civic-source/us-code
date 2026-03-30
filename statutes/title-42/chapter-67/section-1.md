@@ -3,9 +3,9 @@ title: "Section 1 - Report concerning voluntary reporting system"
 usc_title: 42
 usc_section: "1"
 chapter: 67
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T04:46:28.427Z"
+generated_at: "2026-03-30T04:48:55.876Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Administrative and judicial review"
 usc_title: 42
 usc_section: "6"
 chapter: 84
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T04:46:28.494Z"
+generated_at: "2026-03-30T04:48:55.937Z"
 status: "active"
 ---
 

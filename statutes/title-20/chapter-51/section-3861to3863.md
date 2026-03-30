@@ -3,9 +3,9 @@ title: "Section 3861to3863 - Repealed. Pub. L. 100–297, title I, § 1003(a) , 
 usc_title: 20
 usc_section: "3861to3863"
 chapter: 51
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "20 U.S.C. § 3861to3863"
-generated_at: "2026-03-30T04:44:44.757Z"
+generated_at: "2026-03-30T04:47:25.813Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 613a - Repealed. Sept. 1, 1937, ch. 898 , title V, § 510, 50 St
 usc_title: 7
 usc_section: "613a"
 chapter: 26
-current_through: "PL 114-58"
+current_through: "PL 114-67"
 classification: "7 U.S.C. § 613a"
-generated_at: "2026-03-30T04:43:59.224Z"
+generated_at: "2026-03-30T04:47:12.277Z"
 status: "repealed"
 ---
 
