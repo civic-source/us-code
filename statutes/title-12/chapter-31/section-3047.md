@@ -3,9 +3,9 @@ title: "Section 3047 - Programs for training directors and staff of eligible coo
 usc_title: 12
 usc_section: "3047"
 chapter: 31
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 3047"
-generated_at: "2026-03-30T03:04:29.304Z"
+generated_at: "2026-03-30T03:08:07.499Z"
 status: "active"
 ---
 

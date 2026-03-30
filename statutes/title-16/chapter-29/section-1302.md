@@ -3,9 +3,9 @@ title: "Section 1302 - Conservation agreements to effectuate water bank program;
 usc_title: 16
 usc_section: "1302"
 chapter: 29
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 1302"
-generated_at: "2026-03-30T03:04:48.561Z"
+generated_at: "2026-03-30T03:08:28.881Z"
 status: "active"
 ---
 

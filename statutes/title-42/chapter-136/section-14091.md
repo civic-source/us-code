@@ -3,9 +3,9 @@ title: "Section 14091 - Purposes"
 usc_title: 42
 usc_section: "14091"
 chapter: 136
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 14091"
-generated_at: "2026-03-30T03:06:22.945Z"
+generated_at: "2026-03-30T03:09:29.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1198 - Shipments from foreign countries; demand for redelivery; 
 usc_title: 15
 usc_section: "1198"
 chapter: 25
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 1198"
-generated_at: "2026-03-30T03:04:31.162Z"
+generated_at: "2026-03-30T03:08:17.025Z"
 status: "active"
 ---
 

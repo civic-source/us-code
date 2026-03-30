@@ -3,9 +3,9 @@ title: "Section 2102 - Limitations on assistance furnished"
 usc_title: 38
 usc_section: "2102"
 chapter: 21
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 2102"
-generated_at: "2026-03-30T03:05:59.204Z"
+generated_at: "2026-03-30T03:09:15.016Z"
 status: "active"
 ---
 
@@ -21,8 +21,8 @@ status: "active"
   - **(2)** $12,000.
 - **(c)** The amount of assistance afforded under subsection (a) for an individual authorized assistance by section 2101(a) of this title shall not be reduced by reason that title to the housing unit, which is vested in the individual, is also vested in any other person, if the individual resides in the housing unit.
 - **(d)**
-  - **(1)** The aggregate amount of assistance available to an individual under sections 2101(a) and 2102A of this title shall be limited to $60,000.
-  - **(2)** The aggregate amount of assistance available to an individual under sections 2101(b) and 2102A of this title shall be limited to $12,000.
+  - **(1)** The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $63,780.
+  - **(2)** The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $12,756.
   - **(3)** No veteran may receive more than three grants of assistance under this chapter.
 - **(e)**
   - **(1)** Effective on October 1 of each year (beginning in 2009), the Secretary shall increase the amounts described in subsection (b)(2) and paragraphs (1) and (2) of subsection (d) in accordance with this subsection.

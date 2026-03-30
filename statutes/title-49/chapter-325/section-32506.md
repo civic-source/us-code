@@ -3,9 +3,9 @@ title: "Section 32506 - Prohibited acts"
 usc_title: 49
 usc_section: "32506"
 chapter: 325
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 32506"
-generated_at: "2026-03-30T03:06:29.311Z"
+generated_at: "2026-03-30T03:09:35.015Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 911 - Art. 111. Drunken or reckless operation of a vehicle, airc
 usc_title: 10
 usc_section: "911"
 chapter: 47
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 911"
-generated_at: "2026-03-30T03:04:17.234Z"
+generated_at: "2026-03-30T03:07:27.069Z"
 status: "active"
 ---
 

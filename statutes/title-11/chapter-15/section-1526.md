@@ -3,9 +3,9 @@ title: "Section 1526 - Cooperation and direct communication between the trustee 
 usc_title: 11
 usc_section: "1526"
 chapter: 15
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "11 U.S.C. § 1526"
-generated_at: "2026-03-30T03:04:35.857Z"
+generated_at: "2026-03-30T03:07:54.098Z"
 status: "active"
 ---
 

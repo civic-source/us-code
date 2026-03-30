@@ -3,9 +3,9 @@ title: "Section 390uu - Waiver of sovereign immunity"
 usc_title: 43
 usc_section: "390uu"
 chapter: 12
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "43 U.S.C. § 390uu"
-generated_at: "2026-03-30T03:06:10.650Z"
+generated_at: "2026-03-30T03:09:17.227Z"
 status: "active"
 ---
 

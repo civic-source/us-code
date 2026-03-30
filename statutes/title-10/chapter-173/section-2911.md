@@ -3,9 +3,9 @@ title: "Section 2911 - Energy performance goals and master plan for the Departme
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-30T03:04:17.304Z"
+generated_at: "2026-03-30T03:07:27.142Z"
 status: "active"
 ---
 

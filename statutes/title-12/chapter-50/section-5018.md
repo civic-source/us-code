@@ -3,9 +3,9 @@ title: "Section 5018 - Depositary services efficiency and cost reduction"
 usc_title: 12
 usc_section: "5018"
 chapter: 50
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 5018"
-generated_at: "2026-03-30T03:04:29.333Z"
+generated_at: "2026-03-30T03:08:07.525Z"
 status: "active"
 ---
 

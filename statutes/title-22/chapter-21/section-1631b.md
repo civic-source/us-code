@@ -3,9 +3,9 @@ title: "Section 1631b - Cancellation and issuance of shares of stock or other be
 usc_title: 22
 usc_section: "1631b"
 chapter: 21
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 1631b"
-generated_at: "2026-03-30T03:04:53.611Z"
+generated_at: "2026-03-30T03:08:33.988Z"
 status: "active"
 ---
 

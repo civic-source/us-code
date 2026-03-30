@@ -3,9 +3,9 @@ title: "Section 2679 - Maximum rates of per diem in lieu of subsistence payable 
 usc_title: 22
 usc_section: "2679"
 chapter: 38
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 2679"
-generated_at: "2026-03-30T03:04:53.649Z"
+generated_at: "2026-03-30T03:08:34.026Z"
 status: "active"
 ---
 

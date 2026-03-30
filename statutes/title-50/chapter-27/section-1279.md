@@ -3,9 +3,9 @@ title: "Section 1279 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1279"
 chapter: 27
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "50 U.S.C. § 1279"
-generated_at: "2026-03-30T03:06:37.640Z"
+generated_at: "2026-03-30T03:09:33.345Z"
 status: "repealed"
 ---
 

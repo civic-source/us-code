@@ -3,9 +3,9 @@ title: "Section 60102 - Purpose and general authority"
 usc_title: 49
 usc_section: "60102"
 chapter: 601
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 60102"
-generated_at: "2026-03-30T03:06:29.341Z"
+generated_at: "2026-03-30T03:09:35.049Z"
 status: "active"
 ---
 
@@ -131,4 +131,4 @@ status: "active"
   - **(1)** The Secretary may collect geospatial or technical data on transportation-related oil flow lines, including unregulated transportation-related oil flow lines.
   - **(2)** In this subsection, the term “transportation-related oil flow line” means a pipeline transporting oil off of the grounds of the well where it originated and across areas not owned by the producer, regardless of the extent to which the oil has been processed, if at all.
   - **(3)** Nothing in this subsection authorizes the Secretary to prescribe standards for the movement of oil through production, refining, or manufacturing facilities or through oil production flow lines located on the grounds of wells.
-- **(p)** Beginning 1 year after the date of enactment of this subsection, the Secretary may not issue guidance or a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge, on an Internet Web site.
+- **(p)** Beginning 3 years after the date of enactment of this subsection, the Secretary may not issue a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge.

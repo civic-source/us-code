@@ -3,9 +3,9 @@ title: "Section 8901 - Introductory provisions"
 usc_title: 42
 usc_section: "8901"
 chapter: 97
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 8901"
-generated_at: "2026-03-30T03:06:22.841Z"
+generated_at: "2026-03-30T03:09:29.032Z"
 status: "active"
 ---
 

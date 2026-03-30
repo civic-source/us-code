@@ -3,9 +3,9 @@ title: "Section 972d - Disposition of fees"
 usc_title: 16
 usc_section: "972d"
 chapter: 16
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 972d"
-generated_at: "2026-03-30T03:04:48.548Z"
+generated_at: "2026-03-30T03:08:28.868Z"
 status: "active"
 ---
 

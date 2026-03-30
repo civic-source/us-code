@@ -3,9 +3,9 @@ title: "Section 14043c - Services to advocate for and respond to youth"
 usc_title: 42
 usc_section: "14043c"
 chapter: 136
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 14043c"
-generated_at: "2026-03-30T03:06:22.940Z"
+generated_at: "2026-03-30T03:09:29.128Z"
 status: "active"
 ---
 

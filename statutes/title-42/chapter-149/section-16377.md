@@ -3,9 +3,9 @@ title: "Section 16377 - Definitions"
 usc_title: 42
 usc_section: "16377"
 chapter: 149
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 16377"
-generated_at: "2026-03-30T03:06:22.978Z"
+generated_at: "2026-03-30T03:09:29.165Z"
 status: "active"
 ---
 

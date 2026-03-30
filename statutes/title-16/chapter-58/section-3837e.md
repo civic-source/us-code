@@ -3,9 +3,9 @@ title: "Section 3837e - Changes in ownership; agreement modification; terminatio
 usc_title: 16
 usc_section: "3837e"
 chapter: 58
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3837e"
-generated_at: "2026-03-30T03:04:48.611Z"
+generated_at: "2026-03-30T03:08:28.926Z"
 status: "active"
 ---
 

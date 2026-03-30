@@ -3,9 +3,9 @@ title: "Section 5941 - Allowances based on living costs and conditions of enviro
 usc_title: 5
 usc_section: "5941"
 chapter: 59
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "5 U.S.C. § 5941"
-generated_at: "2026-03-30T03:04:06.085Z"
+generated_at: "2026-03-30T03:07:18.700Z"
 status: "active"
 ---
 

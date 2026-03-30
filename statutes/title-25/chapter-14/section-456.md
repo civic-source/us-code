@@ -3,9 +3,9 @@ title: "Section 456 - Local committee of Indian parents in school districts havi
 usc_title: 25
 usc_section: "456"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 456"
-generated_at: "2026-03-30T03:05:02.836Z"
+generated_at: "2026-03-30T03:08:47.323Z"
 status: "active"
 ---
 

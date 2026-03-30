@@ -3,9 +3,9 @@ title: "Section 3839b - Duties of Secretary"
 usc_title: 16
 usc_section: "3839b"
 chapter: 58
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3839b"
-generated_at: "2026-03-30T03:04:48.614Z"
+generated_at: "2026-03-30T03:08:28.928Z"
 status: "active"
 ---
 

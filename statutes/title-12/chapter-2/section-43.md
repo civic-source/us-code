@@ -3,9 +3,9 @@ title: "Section 43 - Interpretations concerning preemption of certain State laws
 usc_title: 12
 usc_section: "43"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 43"
-generated_at: "2026-03-30T03:04:29.190Z"
+generated_at: "2026-03-30T03:08:07.396Z"
 status: "active"
 ---
 

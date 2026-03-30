@@ -3,9 +3,9 @@ title: "Section 1589 - Participation in management of specified non-Federal enti
 usc_title: 10
 usc_section: "1589"
 chapter: 81
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 1589"
-generated_at: "2026-03-30T03:04:17.262Z"
+generated_at: "2026-03-30T03:07:27.098Z"
 status: "active"
 ---
 

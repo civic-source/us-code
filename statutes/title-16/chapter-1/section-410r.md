@@ -3,9 +3,9 @@ title: "Section 410r - Lands acquired as part of park; rules and regulations"
 usc_title: 16
 usc_section: "410r"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 410r"
-generated_at: "2026-03-30T03:04:48.422Z"
+generated_at: "2026-03-30T03:08:28.754Z"
 status: "active"
 ---
 

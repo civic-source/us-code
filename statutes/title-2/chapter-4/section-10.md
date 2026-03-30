@@ -3,9 +3,9 @@ title: "Section 10 - Lump-sum allowances for House Minority Leader and Majority 
 usc_title: 2
 usc_section: "10"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 10"
-generated_at: "2026-03-30T03:04:04.400Z"
+generated_at: "2026-03-30T03:07:00.073Z"
 status: "active"
 ---
 

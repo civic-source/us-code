@@ -3,9 +3,9 @@ title: "Section 447b - Donation of property; condemnation proceedings"
 usc_title: 16
 usc_section: "447b"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 447b"
-generated_at: "2026-03-30T03:04:48.445Z"
+generated_at: "2026-03-30T03:08:28.775Z"
 status: "active"
 ---
 

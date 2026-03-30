@@ -3,9 +3,9 @@ title: "Section 51 - Liability of common carriers by railroad, in interstate or 
 usc_title: 45
 usc_section: "51"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "45 U.S.C. § 51"
-generated_at: "2026-03-30T03:06:08.140Z"
+generated_at: "2026-03-30T03:09:17.963Z"
 status: "active"
 ---
 

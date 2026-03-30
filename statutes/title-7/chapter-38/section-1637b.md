@@ -3,9 +3,9 @@ title: "Section 1637b - Mandatory reporting for dairy products"
 usc_title: 7
 usc_section: "1637b"
 chapter: 38
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 1637b"
-generated_at: "2026-03-30T03:04:20.935Z"
+generated_at: "2026-03-30T03:07:51.809Z"
 status: "active"
 ---
 

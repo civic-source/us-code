@@ -3,9 +3,9 @@ title: "Section 6 - Tribal constitution"
 usc_title: 25
 usc_section: "6"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 6"
-generated_at: "2026-03-30T03:05:02.867Z"
+generated_at: "2026-03-30T03:08:47.353Z"
 status: "active"
 ---
 

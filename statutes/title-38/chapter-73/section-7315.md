@@ -3,9 +3,9 @@ title: "Section 7315 - Geriatrics and Gerontology Advisory Committee"
 usc_title: 38
 usc_section: "7315"
 chapter: 73
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 7315"
-generated_at: "2026-03-30T03:05:59.229Z"
+generated_at: "2026-03-30T03:09:15.043Z"
 status: "active"
 ---
 

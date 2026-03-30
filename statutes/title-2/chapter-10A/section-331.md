@@ -3,9 +3,9 @@ title: "Section 331 - Single per annum gross rates of pay for employees"
 usc_title: 2
 usc_section: "331"
 chapter: 10
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 331"
-generated_at: "2026-03-30T03:04:04.413Z"
+generated_at: "2026-03-30T03:07:00.084Z"
 status: "active"
 ---
 

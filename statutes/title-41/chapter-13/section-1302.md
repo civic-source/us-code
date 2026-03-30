@@ -3,9 +3,9 @@ title: "Section 1302 - Establishment and membership"
 usc_title: 41
 usc_section: "1302"
 chapter: 13
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "41 U.S.C. § 1302"
-generated_at: "2026-03-30T03:06:01.214Z"
+generated_at: "2026-03-30T03:09:16.717Z"
 status: "active"
 ---
 

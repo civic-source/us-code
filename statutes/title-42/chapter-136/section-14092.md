@@ -3,9 +3,9 @@ title: "Section 14092 - Definitions"
 usc_title: 42
 usc_section: "14092"
 chapter: 136
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 14092"
-generated_at: "2026-03-30T03:06:22.945Z"
+generated_at: "2026-03-30T03:09:29.132Z"
 status: "active"
 ---
 

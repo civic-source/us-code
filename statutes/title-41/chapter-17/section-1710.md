@@ -3,9 +3,9 @@ title: "Section 1710 - Public-private competition required before conversion to 
 usc_title: 41
 usc_section: "1710"
 chapter: 17
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "41 U.S.C. § 1710"
-generated_at: "2026-03-30T03:06:01.216Z"
+generated_at: "2026-03-30T03:09:16.719Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2286d - Board recommendations"
 usc_title: 42
 usc_section: "2286d"
 chapter: 23
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 2286d"
-generated_at: "2026-03-30T03:06:22.664Z"
+generated_at: "2026-03-30T03:09:28.863Z"
 status: "active"
 ---
 

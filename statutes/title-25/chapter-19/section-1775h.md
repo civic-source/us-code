@@ -3,9 +3,9 @@ title: "Section 1775h - Judicial review"
 usc_title: 25
 usc_section: "1775h"
 chapter: 19
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 1775h"
-generated_at: "2026-03-30T03:05:02.883Z"
+generated_at: "2026-03-30T03:08:47.370Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5911 - Protection, interpretation, and research in National Park
 usc_title: 16
 usc_section: "5911"
 chapter: 79
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 5911"
-generated_at: "2026-03-30T03:04:48.631Z"
+generated_at: "2026-03-30T03:08:28.942Z"
 status: "active"
 ---
 

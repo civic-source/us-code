@@ -3,9 +3,9 @@ title: "Section 3702 - Unlawful sports gambling"
 usc_title: 28
 usc_section: "3702"
 chapter: 178
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "28 U.S.C. § 3702"
-generated_at: "2026-03-30T03:05:05.835Z"
+generated_at: "2026-03-30T03:08:50.381Z"
 status: "active"
 ---
 

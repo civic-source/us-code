@@ -3,9 +3,9 @@ title: "Section 2012 - Central Intelligence Agency Retirement and Disability Fun
 usc_title: 50
 usc_section: "2012"
 chapter: 38
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "50 U.S.C. § 2012"
-generated_at: "2026-03-30T03:06:37.650Z"
+generated_at: "2026-03-30T03:09:33.354Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3733 - Property management"
 usc_title: 38
 usc_section: "3733"
 chapter: 37
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 3733"
-generated_at: "2026-03-30T03:05:59.217Z"
+generated_at: "2026-03-30T03:09:15.031Z"
 status: "active"
 ---
 

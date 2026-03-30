@@ -3,9 +3,9 @@ title: "Section 103 - Commercial item"
 usc_title: 41
 usc_section: "103"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "41 U.S.C. § 103"
-generated_at: "2026-03-30T03:06:01.213Z"
+generated_at: "2026-03-30T03:09:16.717Z"
 status: "active"
 ---
 

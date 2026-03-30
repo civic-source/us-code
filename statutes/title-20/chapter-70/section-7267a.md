@@ -3,9 +3,9 @@ title: "Section 7267a - Purpose and goals"
 usc_title: 20
 usc_section: "7267a"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7267a"
-generated_at: "2026-03-30T03:04:46.357Z"
+generated_at: "2026-03-30T03:08:22.915Z"
 status: "active"
 ---
 

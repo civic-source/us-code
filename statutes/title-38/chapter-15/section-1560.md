@@ -3,9 +3,9 @@ title: "Section 1560 - Medal of Honor Roll; persons eligible"
 usc_title: 38
 usc_section: "1560"
 chapter: 15
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 1560"
-generated_at: "2026-03-30T03:05:59.194Z"
+generated_at: "2026-03-30T03:09:15.005Z"
 status: "active"
 ---
 

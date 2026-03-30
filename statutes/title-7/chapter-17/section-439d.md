@@ -3,9 +3,9 @@ title: "Section 439d - Assumption of obligations of Reconstruction Finance Corpo
 usc_title: 7
 usc_section: "439d"
 chapter: 17
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 439d"
-generated_at: "2026-03-30T03:04:20.898Z"
+generated_at: "2026-03-30T03:07:51.771Z"
 status: "active"
 ---
 

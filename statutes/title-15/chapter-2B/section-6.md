@@ -3,9 +3,9 @@ title: "Section 6 - Securities whistleblower incentives and protection"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-30T03:04:31.097Z"
+generated_at: "2026-03-30T03:08:16.967Z"
 status: "active"
 ---
 

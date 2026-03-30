@@ -3,9 +3,9 @@ title: "Section 579 - Omitted"
 usc_title: 16
 usc_section: "579"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 579"
-generated_at: "2026-03-30T03:04:48.502Z"
+generated_at: "2026-03-30T03:08:28.829Z"
 status: "omitted"
 ---
 

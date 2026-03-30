@@ -3,9 +3,9 @@ title: "Section 2507 - State action incentive; Federal implementation grants, in
 usc_title: 16
 usc_section: "2507"
 chapter: 45
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 2507"
-generated_at: "2026-03-30T03:04:48.593Z"
+generated_at: "2026-03-30T03:08:28.911Z"
 status: "active"
 ---
 

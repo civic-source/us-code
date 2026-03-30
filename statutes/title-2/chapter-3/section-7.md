@@ -3,9 +3,9 @@ title: "Section 7 - Availability of entitlements of former Speaker for 5 years"
 usc_title: 2
 usc_section: "7"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 7"
-generated_at: "2026-03-30T03:04:04.389Z"
+generated_at: "2026-03-30T03:07:00.065Z"
 status: "active"
 ---
 

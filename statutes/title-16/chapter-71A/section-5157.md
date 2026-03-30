@@ -3,9 +3,9 @@ title: "Section 5157 - Public participation in preparation of management plans a
 usc_title: 16
 usc_section: "5157"
 chapter: 71
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 5157"
-generated_at: "2026-03-30T03:04:48.627Z"
+generated_at: "2026-03-30T03:08:28.939Z"
 status: "active"
 ---
 

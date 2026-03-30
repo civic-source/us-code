@@ -3,9 +3,9 @@ title: "Section 917 - Applicability of National Environmental Policy Act"
 usc_title: 45
 usc_section: "917"
 chapter: 18
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "45 U.S.C. § 917"
-generated_at: "2026-03-30T03:06:08.160Z"
+generated_at: "2026-03-30T03:09:17.980Z"
 status: "active"
 ---
 

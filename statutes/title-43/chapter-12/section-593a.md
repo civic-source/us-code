@@ -3,9 +3,9 @@ title: "Section 593a - Construction, operation, and maintenance of Hungry Horse 
 usc_title: 43
 usc_section: "593a"
 chapter: 12
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "43 U.S.C. § 593a"
-generated_at: "2026-03-30T03:06:10.657Z"
+generated_at: "2026-03-30T03:09:17.234Z"
 status: "active"
 ---
 

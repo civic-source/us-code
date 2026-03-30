@@ -3,9 +3,9 @@ title: "Section 983 - Inspection technology and training"
 usc_title: 6
 usc_section: "983"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "6 U.S.C. § 983"
-generated_at: "2026-03-30T03:04:24.359Z"
+generated_at: "2026-03-30T03:07:22.373Z"
 status: "active"
 ---
 

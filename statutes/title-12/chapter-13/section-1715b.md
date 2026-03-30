@@ -3,9 +3,9 @@ title: "Section 1715b - Rules and regulations"
 usc_title: 12
 usc_section: "1715b"
 chapter: 13
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 1715b"
-generated_at: "2026-03-30T03:04:29.231Z"
+generated_at: "2026-03-30T03:08:07.434Z"
 status: "active"
 ---
 

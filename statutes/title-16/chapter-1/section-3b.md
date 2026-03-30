@@ -3,9 +3,9 @@ title: "Section 3b - Maintenance and repair of Government improvements under con
 usc_title: 16
 usc_section: "3b"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3b"
-generated_at: "2026-03-30T03:04:48.396Z"
+generated_at: "2026-03-30T03:08:28.728Z"
 status: "active"
 ---
 

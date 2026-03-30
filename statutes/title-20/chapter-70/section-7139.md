@@ -3,9 +3,9 @@ title: "Section 7139 - Grants to reduce alcohol abuse"
 usc_title: 20
 usc_section: "7139"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7139"
-generated_at: "2026-03-30T03:04:46.350Z"
+generated_at: "2026-03-30T03:08:22.909Z"
 status: "active"
 ---
 

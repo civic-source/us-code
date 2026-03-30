@@ -3,9 +3,9 @@ title: "Section 726 - Applicability of Federal and State laws"
 usc_title: 25
 usc_section: "726"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 726"
-generated_at: "2026-03-30T03:05:02.853Z"
+generated_at: "2026-03-30T03:08:47.340Z"
 status: "active"
 ---
 

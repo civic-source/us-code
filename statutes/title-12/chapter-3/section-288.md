@@ -3,9 +3,9 @@ title: "Section 288 - Cancellation of stock held by member bank on insolvency or
 usc_title: 12
 usc_section: "288"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 288"
-generated_at: "2026-03-30T03:04:29.196Z"
+generated_at: "2026-03-30T03:08:07.401Z"
 status: "active"
 ---
 

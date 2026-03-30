@@ -3,9 +3,9 @@ title: "Section 67a - Employment of civilian employees of executive branch of Go
 usc_title: 2
 usc_section: "67a"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 67a"
-generated_at: "2026-03-30T03:04:04.398Z"
+generated_at: "2026-03-30T03:07:00.072Z"
 status: "active"
 ---
 

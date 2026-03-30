@@ -3,9 +3,9 @@ title: "Section 407b - Applicability of Federal Power Act"
 usc_title: 16
 usc_section: "407b"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 407b"
-generated_at: "2026-03-30T03:04:48.420Z"
+generated_at: "2026-03-30T03:08:28.751Z"
 status: "active"
 ---
 

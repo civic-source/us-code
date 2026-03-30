@@ -3,9 +3,9 @@ title: "Section 18102 - Federal telecommunications system"
 usc_title: 40
 usc_section: "18102"
 chapter: 181
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "40 U.S.C. § 18102"
-generated_at: "2026-03-30T03:05:58.227Z"
+generated_at: "2026-03-30T03:09:14.033Z"
 status: "active"
 ---
 

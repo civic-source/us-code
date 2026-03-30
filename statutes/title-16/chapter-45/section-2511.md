@@ -3,9 +3,9 @@ title: "Section 2511 - Recordkeeping; audit and examination; access to books and
 usc_title: 16
 usc_section: "2511"
 chapter: 45
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 2511"
-generated_at: "2026-03-30T03:04:48.594Z"
+generated_at: "2026-03-30T03:08:28.911Z"
 status: "active"
 ---
 

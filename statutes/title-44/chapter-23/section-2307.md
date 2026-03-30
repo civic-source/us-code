@@ -3,9 +3,9 @@ title: "Section 2307 - Trust fund account; disbursements; sales of publications 
 usc_title: 44
 usc_section: "2307"
 chapter: 23
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "44 U.S.C. § 2307"
-generated_at: "2026-03-30T03:06:01.365Z"
+generated_at: "2026-03-30T03:09:17.413Z"
 status: "active"
 ---
 

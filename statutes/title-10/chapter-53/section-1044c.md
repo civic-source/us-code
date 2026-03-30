@@ -3,9 +3,9 @@ title: "Section 1044c - Advance medical directives of members and dependents: re
 usc_title: 10
 usc_section: "1044c"
 chapter: 53
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 1044c"
-generated_at: "2026-03-30T03:04:17.240Z"
+generated_at: "2026-03-30T03:07:27.075Z"
 status: "active"
 ---
 

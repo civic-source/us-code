@@ -3,9 +3,9 @@ title: "Section 3481 - Gifts and bequests"
 usc_title: 20
 usc_section: "3481"
 chapter: 48
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 3481"
-generated_at: "2026-03-30T03:04:46.316Z"
+generated_at: "2026-03-30T03:08:22.877Z"
 status: "active"
 ---
 

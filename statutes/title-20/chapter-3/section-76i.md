@@ -3,9 +3,9 @@ title: "Section 76i - John F. Kennedy Center for the Performing Arts"
 usc_title: 20
 usc_section: "76i"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 76i"
-generated_at: "2026-03-30T03:04:46.227Z"
+generated_at: "2026-03-30T03:08:22.792Z"
 status: "active"
 ---
 

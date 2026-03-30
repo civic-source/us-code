@@ -3,9 +3,9 @@ title: "Section 1911 - Acquisition of land by Secretary"
 usc_title: 16
 usc_section: "1911"
 chapter: 39
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 1911"
-generated_at: "2026-03-30T03:04:48.587Z"
+generated_at: "2026-03-30T03:08:28.905Z"
 status: "active"
 ---
 

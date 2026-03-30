@@ -3,9 +3,9 @@ title: "Section 209 - Liability to individuals for violations; enforcement gener
 usc_title: 7
 usc_section: "209"
 chapter: 9
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 209"
-generated_at: "2026-03-30T03:04:20.892Z"
+generated_at: "2026-03-30T03:07:51.765Z"
 status: "active"
 ---
 

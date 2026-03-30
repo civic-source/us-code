@@ -3,9 +3,9 @@ title: "Section 297o - Eligible individual student loan repayment"
 usc_title: 42
 usc_section: "297o"
 chapter: 6
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 297o"
-generated_at: "2026-03-30T03:06:22.375Z"
+generated_at: "2026-03-30T03:09:28.582Z"
 status: "active"
 ---
 

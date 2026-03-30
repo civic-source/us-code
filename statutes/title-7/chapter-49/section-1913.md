@@ -3,9 +3,9 @@ title: "Section 1913 - Authority of Secretary of Agriculture under other provisi
 usc_title: 7
 usc_section: "1913"
 chapter: 49
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 1913"
-generated_at: "2026-03-30T03:04:20.942Z"
+generated_at: "2026-03-30T03:07:51.817Z"
 status: "active"
 ---
 

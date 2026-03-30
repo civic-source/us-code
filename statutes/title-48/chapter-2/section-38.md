@@ -3,9 +3,9 @@ title: "Section 38 - Omitted"
 usc_title: 48
 usc_section: "38"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "48 U.S.C. § 38"
-generated_at: "2026-03-30T03:06:26.520Z"
+generated_at: "2026-03-30T03:09:31.692Z"
 status: "omitted"
 ---
 

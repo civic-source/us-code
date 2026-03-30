@@ -3,9 +3,9 @@ title: "Section 9345 - Exchange program with foreign military academies"
 usc_title: 10
 usc_section: "9345"
 chapter: 903
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 9345"
-generated_at: "2026-03-30T03:04:17.329Z"
+generated_at: "2026-03-30T03:07:27.170Z"
 status: "active"
 ---
 

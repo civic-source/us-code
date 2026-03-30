@@ -3,9 +3,9 @@ title: "Section 50134 - Use of excess intercontinental ballistic missiles"
 usc_title: 51
 usc_section: "50134"
 chapter: 501
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "51 U.S.C. § 50134"
-generated_at: "2026-03-30T03:06:49.075Z"
+generated_at: "2026-03-30T03:09:36.775Z"
 status: "active"
 ---
 

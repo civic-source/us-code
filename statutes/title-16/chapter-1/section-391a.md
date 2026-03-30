@@ -3,9 +3,9 @@ title: "Section 391a - Boundary on island of Maui changed"
 usc_title: 16
 usc_section: "391a"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 391a"
-generated_at: "2026-03-30T03:04:48.416Z"
+generated_at: "2026-03-30T03:08:28.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4520 - Minority and women inclusion; diversity requirements"
 usc_title: 12
 usc_section: "4520"
 chapter: 46
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 4520"
-generated_at: "2026-03-30T03:04:29.320Z"
+generated_at: "2026-03-30T03:08:07.513Z"
 status: "active"
 ---
 

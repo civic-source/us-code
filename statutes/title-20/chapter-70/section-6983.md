@@ -3,9 +3,9 @@ title: "Section 6983 - Coordination and reporting requirements"
 usc_title: 20
 usc_section: "6983"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 6983"
-generated_at: "2026-03-30T03:04:46.348Z"
+generated_at: "2026-03-30T03:08:22.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31b - Expense allowance of Speaker of House of Representatives"
 usc_title: 2
 usc_section: "31b"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 31b"
-generated_at: "2026-03-30T03:04:04.388Z"
+generated_at: "2026-03-30T03:07:00.065Z"
 status: "active"
 ---
 

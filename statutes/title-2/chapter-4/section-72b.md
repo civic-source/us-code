@@ -3,9 +3,9 @@ title: "Section 72b - Regulations governing availability of appropriations for H
 usc_title: 2
 usc_section: "72b"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 72b"
-generated_at: "2026-03-30T03:04:04.399Z"
+generated_at: "2026-03-30T03:07:00.073Z"
 status: "active"
 ---
 

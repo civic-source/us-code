@@ -3,9 +3,9 @@ title: "Section 497d - Recreation residence fees"
 usc_title: 16
 usc_section: "497d"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 497d"
-generated_at: "2026-03-30T03:04:48.491Z"
+generated_at: "2026-03-30T03:08:28.818Z"
 status: "active"
 ---
 

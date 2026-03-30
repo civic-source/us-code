@@ -3,9 +3,9 @@ title: "Section 318b - Repealed. Pub. L. 85–767, § 2 [19], [23], Aug. 27, 195
 usc_title: 25
 usc_section: "318b"
 chapter: 8
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 318b"
-generated_at: "2026-03-30T03:05:02.829Z"
+generated_at: "2026-03-30T03:08:47.315Z"
 status: "repealed"
 ---
 

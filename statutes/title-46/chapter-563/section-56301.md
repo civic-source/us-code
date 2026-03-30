@@ -3,9 +3,9 @@ title: "Section 56301 - General authority"
 usc_title: 46
 usc_section: "56301"
 chapter: 563
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "46 U.S.C. § 56301"
-generated_at: "2026-03-30T03:06:27.192Z"
+generated_at: "2026-03-30T03:09:32.742Z"
 status: "active"
 ---
 

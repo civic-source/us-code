@@ -3,9 +3,9 @@ title: "Section 3797u - Grant authority"
 usc_title: 42
 usc_section: "3797u"
 chapter: 46
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 3797u"
-generated_at: "2026-03-30T03:06:22.704Z"
+generated_at: "2026-03-30T03:09:28.901Z"
 status: "active"
 ---
 

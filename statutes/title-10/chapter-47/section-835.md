@@ -3,9 +3,9 @@ title: "Section 835 - Art. 35. Service of charges"
 usc_title: 10
 usc_section: "835"
 chapter: 47
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 835"
-generated_at: "2026-03-30T03:04:17.232Z"
+generated_at: "2026-03-30T03:07:27.067Z"
 status: "active"
 ---
 

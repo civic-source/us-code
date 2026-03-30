@@ -3,9 +3,9 @@ title: "Section 14 - Civil money penalties against mortgagees, lenders, and othe
 usc_title: 12
 usc_section: "14"
 chapter: 13
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-30T03:04:29.245Z"
+generated_at: "2026-03-30T03:08:07.448Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7249 - Smaller learning communities"
 usc_title: 20
 usc_section: "7249"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7249"
-generated_at: "2026-03-30T03:04:46.355Z"
+generated_at: "2026-03-30T03:08:22.913Z"
 status: "active"
 ---
 

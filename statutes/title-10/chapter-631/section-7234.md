@@ -3,9 +3,9 @@ title: "Section 7234 - Submarine safety programs: participation of NATO naval pe
 usc_title: 10
 usc_section: "7234"
 chapter: 631
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 7234"
-generated_at: "2026-03-30T03:04:17.321Z"
+generated_at: "2026-03-30T03:07:27.160Z"
 status: "active"
 ---
 

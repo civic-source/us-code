@@ -3,9 +3,9 @@ title: "Section 8749 - Distinguished flying cross: award; limitations"
 usc_title: 10
 usc_section: "8749"
 chapter: 857
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 8749"
-generated_at: "2026-03-30T03:04:17.328Z"
+generated_at: "2026-03-30T03:07:27.168Z"
 status: "active"
 ---
 

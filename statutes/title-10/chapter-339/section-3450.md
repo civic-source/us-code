@@ -3,9 +3,9 @@ title: "Section 3450 - Repealed. Pub. L. 90–235, § 3(b)(1) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3450"
 chapter: 339
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 3450"
-generated_at: "2026-03-30T03:04:17.307Z"
+generated_at: "2026-03-30T03:07:27.146Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7243b - Program requirements"
 usc_title: 20
 usc_section: "7243b"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7243b"
-generated_at: "2026-03-30T03:04:46.355Z"
+generated_at: "2026-03-30T03:08:22.912Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 143 - Registrar; designation; station; supervision by Secretary 
 usc_title: 15
 usc_section: "143"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 143"
-generated_at: "2026-03-30T03:04:31.112Z"
+generated_at: "2026-03-30T03:08:16.981Z"
 status: "active"
 ---
 

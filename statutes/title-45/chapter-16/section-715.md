@@ -3,9 +3,9 @@ title: "Section 715 - Repealed. Pub. L. 95–473, § 4(b) , Oct. 17, 1978 , 92 S
 usc_title: 45
 usc_section: "715"
 chapter: 16
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "45 U.S.C. § 715"
-generated_at: "2026-03-30T03:06:08.153Z"
+generated_at: "2026-03-30T03:09:17.974Z"
 status: "repealed"
 ---
 

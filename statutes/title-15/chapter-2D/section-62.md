@@ -3,9 +3,9 @@ title: "Section 62 - Distribution and repurchase of securities"
 usc_title: 15
 usc_section: "62"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 62"
-generated_at: "2026-03-30T03:04:31.109Z"
+generated_at: "2026-03-30T03:08:16.979Z"
 status: "active"
 ---
 

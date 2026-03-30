@@ -3,9 +3,9 @@ title: "Section 750 - Remedial action management program"
 usc_title: 6
 usc_section: "750"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "6 U.S.C. § 750"
-generated_at: "2026-03-30T03:04:24.356Z"
+generated_at: "2026-03-30T03:07:22.369Z"
 status: "active"
 ---
 

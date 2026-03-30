@@ -3,9 +3,9 @@ title: "Section 3585 - Calculation of a term of imprisonment"
 usc_title: 18
 usc_section: "3585"
 chapter: 227
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "18 U.S.C. § 3585"
-generated_at: "2026-03-30T03:04:41.126Z"
+generated_at: "2026-03-30T03:08:20.288Z"
 status: "active"
 ---
 

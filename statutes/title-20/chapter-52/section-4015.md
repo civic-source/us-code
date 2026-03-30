@@ -3,9 +3,9 @@ title: "Section 4015 - Administrative provisions"
 usc_title: 20
 usc_section: "4015"
 chapter: 52
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 4015"
-generated_at: "2026-03-30T03:04:46.319Z"
+generated_at: "2026-03-30T03:08:22.880Z"
 status: "active"
 ---
 

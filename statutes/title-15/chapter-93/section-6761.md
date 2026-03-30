@@ -3,9 +3,9 @@ title: "Section 6761 - Liability of the Association and the directors, officers,
 usc_title: 15
 usc_section: "6761"
 chapter: 93
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 6761"
-generated_at: "2026-03-30T03:04:31.240Z"
+generated_at: "2026-03-30T03:08:17.097Z"
 status: "active"
 ---
 

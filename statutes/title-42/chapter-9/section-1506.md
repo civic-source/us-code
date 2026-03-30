@@ -3,9 +3,9 @@ title: "Section 1506 - Administration of utilities and utility services; grantin
 usc_title: 42
 usc_section: "1506"
 chapter: 9
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 1506"
-generated_at: "2026-03-30T03:06:22.611Z"
+generated_at: "2026-03-30T03:09:28.813Z"
 status: "active"
 ---
 

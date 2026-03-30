@@ -3,9 +3,9 @@ title: "Section 901 - Definitions"
 usc_title: 6
 usc_section: "901"
 chapter: 3
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "6 U.S.C. § 901"
-generated_at: "2026-03-30T03:04:24.357Z"
+generated_at: "2026-03-30T03:07:22.371Z"
 status: "active"
 ---
 

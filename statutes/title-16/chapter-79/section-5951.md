@@ -3,9 +3,9 @@ title: "Section 5951 - Congressional findings and statement of policy"
 usc_title: 16
 usc_section: "5951"
 chapter: 79
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 5951"
-generated_at: "2026-03-30T03:04:48.631Z"
+generated_at: "2026-03-30T03:08:28.943Z"
 status: "active"
 ---
 

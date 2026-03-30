@@ -3,9 +3,9 @@ title: "Section 5614 - Exercise of Federal Reserve authority"
 usc_title: 12
 usc_section: "5614"
 chapter: 53
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 5614"
-generated_at: "2026-03-30T03:04:29.359Z"
+generated_at: "2026-03-30T03:08:07.548Z"
 status: "active"
 ---
 

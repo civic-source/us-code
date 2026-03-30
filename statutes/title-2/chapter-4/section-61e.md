@@ -3,9 +3,9 @@ title: "Section 61e - Compensation of Sergeant at Arms and Doorkeeper of Senate"
 usc_title: 2
 usc_section: "61e"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 61e"
-generated_at: "2026-03-30T03:04:04.396Z"
+generated_at: "2026-03-30T03:07:00.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430i - Guilford Courthouse National Military Park"
 usc_title: 16
 usc_section: "430i"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 430i"
-generated_at: "2026-03-30T03:04:48.441Z"
+generated_at: "2026-03-30T03:08:28.772Z"
 status: "active"
 ---
 

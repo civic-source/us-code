@@ -3,9 +3,9 @@ title: "Section 6114 - Repealed. Pub. L. 90–235, § 6(a)(7) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6114"
 chapter: 559
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 6114"
-generated_at: "2026-03-30T03:04:17.317Z"
+generated_at: "2026-03-30T03:07:27.156Z"
 status: "repealed"
 ---
 

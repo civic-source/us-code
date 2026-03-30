@@ -3,9 +3,9 @@ title: "Section 12181 - Definitions"
 usc_title: 42
 usc_section: "12181"
 chapter: 126
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 12181"
-generated_at: "2026-03-30T03:06:22.897Z"
+generated_at: "2026-03-30T03:09:29.086Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12304 - Selected Reserve and certain Individual Ready Reserve me
 usc_title: 10
 usc_section: "12304"
 chapter: 1209
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 12304"
-generated_at: "2026-03-30T03:04:17.337Z"
+generated_at: "2026-03-30T03:07:27.178Z"
 status: "active"
 ---
 

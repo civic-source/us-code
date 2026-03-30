@@ -3,9 +3,9 @@ title: "Section 6058 - Information required in connection with certain plans of 
 usc_title: 26
 usc_section: "6058"
 chapter: 61
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "26 U.S.C. § 6058"
-generated_at: "2026-03-30T03:05:18.714Z"
+generated_at: "2026-03-30T03:09:00.349Z"
 status: "active"
 ---
 

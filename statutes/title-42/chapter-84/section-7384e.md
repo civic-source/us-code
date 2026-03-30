@@ -3,9 +3,9 @@ title: "Section 7384e - Establishment of Energy Employees Occupational Illness C
 usc_title: 42
 usc_section: "7384e"
 chapter: 84
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 7384e"
-generated_at: "2026-03-30T03:06:22.792Z"
+generated_at: "2026-03-30T03:09:28.984Z"
 status: "active"
 ---
 

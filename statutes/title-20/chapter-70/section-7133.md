@@ -3,9 +3,9 @@ title: "Section 7133 - Hate crime prevention"
 usc_title: 20
 usc_section: "7133"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7133"
-generated_at: "2026-03-30T03:04:46.350Z"
+generated_at: "2026-03-30T03:08:22.908Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 416 - Refusal to surrender leased land; recovery"
 usc_title: 16
 usc_section: "416"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 416"
-generated_at: "2026-03-30T03:04:48.437Z"
+generated_at: "2026-03-30T03:08:28.767Z"
 status: "active"
 ---
 

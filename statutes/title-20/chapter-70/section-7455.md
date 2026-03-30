@@ -3,9 +3,9 @@ title: "Section 7455 - Grants to tribes for education administrative planning an
 usc_title: 20
 usc_section: "7455"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7455"
-generated_at: "2026-03-30T03:04:46.363Z"
+generated_at: "2026-03-30T03:08:22.920Z"
 status: "active"
 ---
 

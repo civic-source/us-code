@@ -3,9 +3,9 @@ title: "Section 79p - Community services and employment opportunities of Redwood
 usc_title: 16
 usc_section: "79p"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 79p"
-generated_at: "2026-03-30T03:04:48.402Z"
+generated_at: "2026-03-30T03:08:28.734Z"
 status: "active"
 ---
 

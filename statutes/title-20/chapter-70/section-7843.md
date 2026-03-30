@@ -3,9 +3,9 @@ title: "Section 7843 - Consolidated reporting"
 usc_title: 20
 usc_section: "7843"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7843"
-generated_at: "2026-03-30T03:04:46.368Z"
+generated_at: "2026-03-30T03:08:22.925Z"
 status: "active"
 ---
 

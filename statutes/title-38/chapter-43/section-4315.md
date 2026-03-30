@@ -3,9 +3,9 @@ title: "Section 4315 - Reemployment by certain Federal agencies"
 usc_title: 38
 usc_section: "4315"
 chapter: 43
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 4315"
-generated_at: "2026-03-30T03:05:59.221Z"
+generated_at: "2026-03-30T03:09:15.034Z"
 status: "active"
 ---
 

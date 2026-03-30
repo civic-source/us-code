@@ -3,9 +3,9 @@ title: "Section 455a - Report to Congress"
 usc_title: 16
 usc_section: "455a"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 455a"
-generated_at: "2026-03-30T03:04:48.448Z"
+generated_at: "2026-03-30T03:08:28.777Z"
 status: "active"
 ---
 

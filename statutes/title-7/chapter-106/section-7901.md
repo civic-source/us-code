@@ -3,9 +3,9 @@ title: "Section 7901 - Definitions"
 usc_title: 7
 usc_section: "7901"
 chapter: 106
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 7901"
-generated_at: "2026-03-30T03:04:21.026Z"
+generated_at: "2026-03-30T03:07:51.899Z"
 status: "active"
 ---
 

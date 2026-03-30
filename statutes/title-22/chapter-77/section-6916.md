@@ -3,9 +3,9 @@ title: "Section 6916 - Testimony of witnesses, production of evidence; issuance 
 usc_title: 22
 usc_section: "6916"
 chapter: 77
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 6916"
-generated_at: "2026-03-30T03:04:53.702Z"
+generated_at: "2026-03-30T03:08:34.079Z"
 status: "active"
 ---
 

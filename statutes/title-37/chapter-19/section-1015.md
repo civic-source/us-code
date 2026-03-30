@@ -3,9 +3,9 @@ title: "Section 1015 - Repealed. Pub. L. 109–364, div. A, title X, § 1046(b)(
 usc_title: 37
 usc_section: "1015"
 chapter: 19
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "37 U.S.C. § 1015"
-generated_at: "2026-03-30T03:05:39.929Z"
+generated_at: "2026-03-30T03:09:13.594Z"
 status: "repealed"
 ---
 

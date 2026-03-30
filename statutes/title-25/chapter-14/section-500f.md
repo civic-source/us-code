@@ -3,9 +3,9 @@ title: "Section 500f - Management of industry by Secretary; aim of management"
 usc_title: 25
 usc_section: "500f"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 500f"
-generated_at: "2026-03-30T03:05:02.841Z"
+generated_at: "2026-03-30T03:08:47.327Z"
 status: "active"
 ---
 

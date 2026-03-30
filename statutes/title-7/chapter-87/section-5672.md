@@ -3,9 +3,9 @@ title: "Section 5672 - Development of plans to alleviate adverse impact of embar
 usc_title: 7
 usc_section: "5672"
 chapter: 87
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 5672"
-generated_at: "2026-03-30T03:04:20.993Z"
+generated_at: "2026-03-30T03:07:51.867Z"
 status: "active"
 ---
 

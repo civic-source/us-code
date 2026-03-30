@@ -3,9 +3,9 @@ title: "Section 971 - Membership roll; preparation; eligibility for enrollment; 
 usc_title: 25
 usc_section: "971"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 971"
-generated_at: "2026-03-30T03:05:02.858Z"
+generated_at: "2026-03-30T03:08:47.345Z"
 status: "active"
 ---
 

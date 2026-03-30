@@ -3,9 +3,9 @@ title: "Section 8537 - Repealed. Pub. L. 90–235, § 4(b)(1) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8537"
 chapter: 843
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 8537"
-generated_at: "2026-03-30T03:04:17.327Z"
+generated_at: "2026-03-30T03:07:27.167Z"
 status: "repealed"
 ---
 

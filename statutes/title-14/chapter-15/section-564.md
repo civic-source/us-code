@@ -3,9 +3,9 @@ title: "Section 564 - Prohibition on use of lead systems integrators"
 usc_title: 14
 usc_section: "564"
 chapter: 15
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "14 U.S.C. § 564"
-generated_at: "2026-03-30T03:04:26.486Z"
+generated_at: "2026-03-30T03:07:58.817Z"
 status: "active"
 ---
 

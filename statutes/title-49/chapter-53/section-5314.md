@@ -3,9 +3,9 @@ title: "Section 5314 - Technical assistance and standards development"
 usc_title: 49
 usc_section: "5314"
 chapter: 53
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 5314"
-generated_at: "2026-03-30T03:06:29.279Z"
+generated_at: "2026-03-30T03:09:34.980Z"
 status: "active"
 ---
 

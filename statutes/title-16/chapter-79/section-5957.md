@@ -3,9 +3,9 @@ title: "Section 5957 - Transfer of concessions contracts"
 usc_title: 16
 usc_section: "5957"
 chapter: 79
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 5957"
-generated_at: "2026-03-30T03:04:48.632Z"
+generated_at: "2026-03-30T03:08:28.943Z"
 status: "active"
 ---
 

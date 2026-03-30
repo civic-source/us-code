@@ -3,9 +3,9 @@ title: "Section 2644 - Requirements if EPA fails to promulgate regulations"
 usc_title: 15
 usc_section: "2644"
 chapter: 53
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 2644"
-generated_at: "2026-03-30T03:04:31.209Z"
+generated_at: "2026-03-30T03:08:17.068Z"
 status: "active"
 ---
 

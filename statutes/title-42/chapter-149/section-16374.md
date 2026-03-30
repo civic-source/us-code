@@ -3,9 +3,9 @@ title: "Section 16374 - Advisory committees"
 usc_title: 42
 usc_section: "16374"
 chapter: 149
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 16374"
-generated_at: "2026-03-30T03:06:22.978Z"
+generated_at: "2026-03-30T03:09:29.164Z"
 status: "active"
 ---
 

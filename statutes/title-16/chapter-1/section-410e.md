@@ -3,9 +3,9 @@ title: "Section 410e - Acquisition of additional lands; reservation of oil, gas,
 usc_title: 16
 usc_section: "410e"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 410e"
-generated_at: "2026-03-30T03:04:48.422Z"
+generated_at: "2026-03-30T03:08:28.753Z"
 status: "active"
 ---
 

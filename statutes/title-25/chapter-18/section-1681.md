@@ -3,9 +3,9 @@ title: "Section 1681 - Omitted"
 usc_title: 25
 usc_section: "1681"
 chapter: 18
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 1681"
-generated_at: "2026-03-30T03:05:02.879Z"
+generated_at: "2026-03-30T03:08:47.365Z"
 status: "omitted"
 ---
 

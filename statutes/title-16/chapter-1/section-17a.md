@@ -3,9 +3,9 @@ title: "Section 17a - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 16
 usc_section: "17a"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 17a"
-generated_at: "2026-03-30T03:04:48.396Z"
+generated_at: "2026-03-30T03:08:28.729Z"
 status: "repealed"
 ---
 

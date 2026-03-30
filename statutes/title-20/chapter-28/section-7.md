@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7"
 chapter: 28
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-30T03:04:46.290Z"
+generated_at: "2026-03-30T03:08:22.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1122 - Rates of wartime death compensation"
 usc_title: 38
 usc_section: "1122"
 chapter: 11
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 1122"
-generated_at: "2026-03-30T03:05:59.192Z"
+generated_at: "2026-03-30T03:09:15.004Z"
 status: "active"
 ---
 

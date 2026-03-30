@@ -3,9 +3,9 @@ title: "Section 16824 - Omitted"
 usc_title: 42
 usc_section: "16824"
 chapter: 150
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 16824"
-generated_at: "2026-03-30T03:06:22.982Z"
+generated_at: "2026-03-30T03:09:29.170Z"
 status: "omitted"
 ---
 

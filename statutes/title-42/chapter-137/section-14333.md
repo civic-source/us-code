@@ -3,9 +3,9 @@ title: "Section 14333 - Limitations on sale of zinc-carbon batteries containing 
 usc_title: 42
 usc_section: "14333"
 chapter: 137
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 14333"
-generated_at: "2026-03-30T03:06:22.950Z"
+generated_at: "2026-03-30T03:09:29.137Z"
 status: "active"
 ---
 

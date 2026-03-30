@@ -3,9 +3,9 @@ title: "Section 521 - Establishment; construction, maintenance, and operation of
 usc_title: 50
 usc_section: "521"
 chapter: 20
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "50 U.S.C. § 521"
-generated_at: "2026-03-30T03:06:37.639Z"
+generated_at: "2026-03-30T03:09:33.344Z"
 status: "active"
 ---
 

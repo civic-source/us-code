@@ -3,9 +3,9 @@ title: "Section 3842 - Repealed. Pub. L. 86–559, § 1(22) , June 30, 1960 , 74
 usc_title: 10
 usc_section: "3842"
 chapter: 363
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 3842"
-generated_at: "2026-03-30T03:04:17.308Z"
+generated_at: "2026-03-30T03:07:27.147Z"
 status: "repealed"
 ---
 

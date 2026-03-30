@@ -3,9 +3,9 @@ title: "Section 921 - Definitions"
 usc_title: 47
 usc_section: "921"
 chapter: 8
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "47 U.S.C. § 921"
-generated_at: "2026-03-30T03:06:26.238Z"
+generated_at: "2026-03-30T03:09:32.086Z"
 status: "active"
 ---
 

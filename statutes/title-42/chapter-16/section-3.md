@@ -3,9 +3,9 @@ title: "Section 3 - Sustainable chemistry basic research"
 usc_title: 42
 usc_section: "3"
 chapter: 16
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T03:06:22.634Z"
+generated_at: "2026-03-30T03:09:28.834Z"
 status: "active"
 ---
 

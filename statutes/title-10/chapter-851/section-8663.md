@@ -3,9 +3,9 @@ title: "Section 8663 - Repealed. Pub. L. 90–377, § 6(3) , July 5, 1968 , 82 S
 usc_title: 10
 usc_section: "8663"
 chapter: 851
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 8663"
-generated_at: "2026-03-30T03:04:17.327Z"
+generated_at: "2026-03-30T03:07:27.167Z"
 status: "repealed"
 ---
 

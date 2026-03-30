@@ -3,9 +3,9 @@ title: "Section 4112 - Criteria for approval of plan of action involving incenti
 usc_title: 12
 usc_section: "4112"
 chapter: 42
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 4112"
-generated_at: "2026-03-30T03:04:29.315Z"
+generated_at: "2026-03-30T03:08:07.508Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(i)** any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
         - **(I)** shall be phased in equally over a period of not less than 3 years, if such increase is 30 percent or more; and
         - **(II)** shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent; and
-      - **(ii)** assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and 2 2 So in original. Word “and” probably should not appear.
+      - **(ii)** assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and 2 2 So in original. The word “and” probably should not appear.
     - **(F)**
       - **(i)** rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
       - **(ii)** in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;

@@ -3,9 +3,9 @@ title: "Section 22 - Distribution to, and use of certain funds by, the Sisseton 
 usc_title: 25
 usc_section: "22"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 22"
-generated_at: "2026-03-30T03:05:02.863Z"
+generated_at: "2026-03-30T03:08:47.349Z"
 status: "active"
 ---
 

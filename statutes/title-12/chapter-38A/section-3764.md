@@ -3,9 +3,9 @@ title: "Section 3764 - Record of foreclosure and sale"
 usc_title: 12
 usc_section: "3764"
 chapter: 38
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 3764"
-generated_at: "2026-03-30T03:04:29.311Z"
+generated_at: "2026-03-30T03:08:07.505Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 49a - Definitions"
 usc_title: 29
 usc_section: "49a"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "29 U.S.C. § 49a"
-generated_at: "2026-03-30T03:05:09.667Z"
+generated_at: "2026-03-30T03:09:01.038Z"
 status: "active"
 ---
 

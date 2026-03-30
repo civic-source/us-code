@@ -3,9 +3,9 @@ title: "Section 3706 - Sub-Saharan Africa defined"
 usc_title: 19
 usc_section: "3706"
 chapter: 23
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "19 U.S.C. § 3706"
-generated_at: "2026-03-30T03:04:42.058Z"
+generated_at: "2026-03-30T03:08:21.325Z"
 status: "active"
 ---
 

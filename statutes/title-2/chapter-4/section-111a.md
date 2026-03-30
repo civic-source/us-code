@@ -3,9 +3,9 @@ title: "Section 111a - Receipts from sales of items by Sergeant at Arms and Door
 usc_title: 2
 usc_section: "111a"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 111a"
-generated_at: "2026-03-30T03:04:04.403Z"
+generated_at: "2026-03-30T03:07:00.075Z"
 status: "active"
 ---
 

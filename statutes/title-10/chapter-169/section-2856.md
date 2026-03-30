@@ -3,9 +3,9 @@ title: "Section 2856 - Military unaccompanied housing: local comparability of fl
 usc_title: 10
 usc_section: "2856"
 chapter: 169
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 2856"
-generated_at: "2026-03-30T03:04:17.303Z"
+generated_at: "2026-03-30T03:07:27.141Z"
 status: "active"
 ---
 

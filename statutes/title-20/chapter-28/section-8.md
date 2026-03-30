@@ -3,9 +3,9 @@ title: "Section 8 - Unsubsidized Stafford loans for middle-income borrowers"
 usc_title: 20
 usc_section: "8"
 chapter: 28
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 8"
-generated_at: "2026-03-30T03:04:46.259Z"
+generated_at: "2026-03-30T03:08:22.824Z"
 status: "active"
 ---
 

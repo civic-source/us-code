@@ -3,9 +3,9 @@ title: "Section 436 - High-deployment allowance: lengthy or numerous deployments
 usc_title: 37
 usc_section: "436"
 chapter: 7
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "37 U.S.C. § 436"
-generated_at: "2026-03-30T03:05:39.924Z"
+generated_at: "2026-03-30T03:09:13.589Z"
 status: "active"
 ---
 

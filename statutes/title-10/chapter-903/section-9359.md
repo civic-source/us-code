@@ -3,9 +3,9 @@ title: "Section 9359 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "9359"
 chapter: 903
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 9359"
-generated_at: "2026-03-30T03:04:17.330Z"
+generated_at: "2026-03-30T03:07:27.170Z"
 status: "active"
 ---
 

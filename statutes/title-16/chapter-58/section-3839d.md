@@ -3,9 +3,9 @@ title: "Section 3839d - Changes in ownership; modification of easement"
 usc_title: 16
 usc_section: "3839d"
 chapter: 58
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3839d"
-generated_at: "2026-03-30T03:04:48.614Z"
+generated_at: "2026-03-30T03:08:28.928Z"
 status: "active"
 ---
 

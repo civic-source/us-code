@@ -3,15 +3,21 @@ title: "Section 3903 - Limitations on assistance; special training courses"
 usc_title: 38
 usc_section: "3903"
 chapter: 39
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 3903"
-generated_at: "2026-03-30T03:05:59.218Z"
+generated_at: "2026-03-30T03:09:15.032Z"
 status: "active"
 ---
 
 # § 3903. Limitations on assistance; special training courses
 
-- **(a)** No eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+- **(a)**
+  - **(1)** Except as provided in paragraph (2), no eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+  - **(2)** The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—
+    - **(A)** the Secretary receives satisfactory evidence that the automobile or other conveyance previously purchased with assistance under this chapter was destroyed—
+      - **(i)** as a result of a natural or other disaster, as determined by the Secretary; and
+      - **(ii)** through no fault of the eligible person; and
+    - **(B)** the eligible person does not otherwise receive from a property insurer compensation for the loss.
 - **(b)** Except as provided in subsection (d) of section 3902 of this title , no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to the satisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person’s own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person’s residency or other proper licensing authority.
 - **(c)**
   - **(1)** An eligible person shall not be entitled to adaptive equipment under this chapter for more than two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period.

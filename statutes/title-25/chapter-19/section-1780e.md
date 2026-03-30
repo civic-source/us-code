@@ -3,9 +3,9 @@ title: "Section 1780e - Land ownership adjustments"
 usc_title: 25
 usc_section: "1780e"
 chapter: 19
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 1780e"
-generated_at: "2026-03-30T03:05:02.886Z"
+generated_at: "2026-03-30T03:08:47.373Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
 - **(c)**
   - **(1)** All monies received by the Secretary of Agriculture from the sale of National Forest System land as authorized by this subchapter, including receipts from the Northern Tier Land, shall be deposited into the fund established in the Treasury of the United States pursuant to the Sisk Act and shall be available, without further appropriation, authorization, or administrative apportionment for the purchase of land by the Secretary of Agriculture for National Forest System purposes in the State of New Mexico, and for associated administrative costs.
   - **(2)** Funds deposited in a Sisk Act fund pursuant to this subchapter shall not be subject to transfer or reprogramming for wildlands fire management or any other emergency purposes, or used to reimburse any other account.
-  - **(3)** In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in section 1708j(b)(2)(A) of this title , 1 1 So in original. Probably should be “title),”. the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
+  - **(3)** In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in section 1780j(b)(2)(A) of this title , 1 1 So in original. Probably should be “title),”. the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
 - **(d)**
   - **(1)** The Settlement Area Land acquired by the Pueblo shall be subject to all valid existing rights on September 27, 2006 , including rights of administrative access.
   - **(2)** No water rights shall be conveyed by the United States.

@@ -3,9 +3,9 @@ title: "Section 0d - Authorization of appropriations"
 usc_title: 42
 usc_section: "0d"
 chapter: 46
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 0d"
-generated_at: "2026-03-30T03:06:22.700Z"
+generated_at: "2026-03-30T03:09:28.898Z"
 status: "active"
 ---
 

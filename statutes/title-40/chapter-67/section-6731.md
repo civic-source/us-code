@@ -3,9 +3,9 @@ title: "Section 6731 - Definitions"
 usc_title: 40
 usc_section: "6731"
 chapter: 67
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "40 U.S.C. § 6731"
-generated_at: "2026-03-30T03:05:58.221Z"
+generated_at: "2026-03-30T03:09:14.026Z"
 status: "active"
 ---
 

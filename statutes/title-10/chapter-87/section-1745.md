@@ -3,9 +3,9 @@ title: "Section 1745 - Additional education and training programs available to a
 usc_title: 10
 usc_section: "1745"
 chapter: 87
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 1745"
-generated_at: "2026-03-30T03:04:17.264Z"
+generated_at: "2026-03-30T03:07:27.100Z"
 status: "active"
 ---
 

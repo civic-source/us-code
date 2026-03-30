@@ -3,9 +3,9 @@ title: "Section 153 - Condition for coverage of drugs under this part"
 usc_title: 42
 usc_section: "153"
 chapter: 7
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 153"
-generated_at: "2026-03-30T03:06:22.527Z"
+generated_at: "2026-03-30T03:09:28.733Z"
 status: "active"
 ---
 

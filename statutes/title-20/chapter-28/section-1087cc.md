@@ -3,9 +3,9 @@ title: "Section 1087cc - Agreements with institutions of higher education"
 usc_title: 20
 usc_section: "1087cc"
 chapter: 28
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 1087cc"
-generated_at: "2026-03-30T03:04:46.269Z"
+generated_at: "2026-03-30T03:08:22.833Z"
 status: "active"
 ---
 
@@ -47,4 +47,4 @@ status: "active"
     - **(B)** The Secretary may promulgate regulations establishing criteria under which an institution of higher education may cease reporting the information described in paragraph (2) before a loan is paid in full.
   - **(5)** Each institution of higher education shall notify the appropriate consumer reporting agencies whenever a borrower of a loan that is made and held by the institution and that is in default makes 6 consecutive monthly payments on such loan, for the purpose of encouraging such consumer reporting agencies to update the status of information maintained with respect to that borrower.
 - **(d)** In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
-- **(e)** In carrying out the provisions of subsection (a)(5) 1 of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
+- **(e)** In carrying out the provisions of subsection (a)(5) 1 1 See References in Text note below. of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.

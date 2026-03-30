@@ -3,9 +3,9 @@ title: "Section 5464 - Economic and commercial officers at United States embassi
 usc_title: 22
 usc_section: "5464"
 chapter: 63
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 5464"
-generated_at: "2026-03-30T03:04:53.686Z"
+generated_at: "2026-03-30T03:08:34.062Z"
 status: "active"
 ---
 

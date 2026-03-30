@@ -3,9 +3,9 @@ title: "Section 16918 - Public access to sex offender information through the In
 usc_title: 42
 usc_section: "16918"
 chapter: 151
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 16918"
-generated_at: "2026-03-30T03:06:22.984Z"
+generated_at: "2026-03-30T03:09:29.170Z"
 status: "active"
 ---
 

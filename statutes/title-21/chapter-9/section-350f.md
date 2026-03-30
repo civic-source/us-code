@@ -3,9 +3,9 @@ title: "Section 350f - Reportable food registry"
 usc_title: 21
 usc_section: "350f"
 chapter: 9
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "21 U.S.C. § 350f"
-generated_at: "2026-03-30T03:05:00.939Z"
+generated_at: "2026-03-30T03:08:36.052Z"
 status: "active"
 ---
 

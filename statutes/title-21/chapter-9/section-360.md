@@ -3,9 +3,9 @@ title: "Section 360 - Registration of producers of drugs or devices"
 usc_title: 21
 usc_section: "360"
 chapter: 9
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "21 U.S.C. § 360"
-generated_at: "2026-03-30T03:05:00.949Z"
+generated_at: "2026-03-30T03:08:36.061Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(1)** Every establishment that is required to be registered with the Secretary under this section shall be subject to inspection pursuant to section 374 of this title .
   - **(2)** Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under section 374(g) of this title , at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter.
   - **(3)** The Secretary, acting through one or more officers or employees duly designated by the Secretary, shall inspect establishments described in paragraph (1) that are engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs (referred to in this subsection as “drug establishments”) in accordance with a risk-based schedule established by the Secretary.
-  - **(4)** In establishing the risk-based scheduled under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
+  - **(4)** In establishing the risk-based scheduled 2 2 So in original. Probably should be “schedule”. under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
     - **(A)** The compliance history of the establishment.
     - **(B)** The record, history, and nature of recalls linked to the establishment.
     - **(C)** The inherent risk of the drug manufactured, prepared, propagated, compounded, or processed at the establishment.

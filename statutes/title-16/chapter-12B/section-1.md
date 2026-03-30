@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 88–426, title III, § 305(36) , Aug. 14,
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T03:04:48.540Z"
+generated_at: "2026-03-30T03:08:28.860Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1613 - Prohibition on provision of gifts or travel by registered
 usc_title: 2
 usc_section: "1613"
 chapter: 26
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 1613"
-generated_at: "2026-03-30T03:04:04.437Z"
+generated_at: "2026-03-30T03:07:00.104Z"
 status: "active"
 ---
 

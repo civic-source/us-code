@@ -3,9 +3,9 @@ title: "Section 16 - Voluntary application and use of adopted standards and impl
 usc_title: 42
 usc_section: "16"
 chapter: 6
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T03:06:22.423Z"
+generated_at: "2026-03-30T03:09:28.627Z"
 status: "active"
 ---
 

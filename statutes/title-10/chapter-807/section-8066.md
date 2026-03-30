@@ -3,9 +3,9 @@ title: "Section 8066 - Repealed. Pub. L. 96–513, title II, § 201 , Dec. 12, 1
 usc_title: 10
 usc_section: "8066"
 chapter: 807
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 8066"
-generated_at: "2026-03-30T03:04:17.326Z"
+generated_at: "2026-03-30T03:07:27.166Z"
 status: "repealed"
 ---
 

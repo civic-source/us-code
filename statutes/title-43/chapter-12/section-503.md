@@ -3,9 +3,9 @@ title: "Section 503 - “Unusual or emergency conditions” defined"
 usc_title: 43
 usc_section: "503"
 chapter: 12
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "43 U.S.C. § 503"
-generated_at: "2026-03-30T03:06:10.655Z"
+generated_at: "2026-03-30T03:09:17.232Z"
 status: "active"
 ---
 

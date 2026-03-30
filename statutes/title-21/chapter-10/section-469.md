@@ -3,9 +3,9 @@ title: "Section 469 - Authorization of appropriations"
 usc_title: 21
 usc_section: "469"
 chapter: 10
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "21 U.S.C. § 469"
-generated_at: "2026-03-30T03:05:00.974Z"
+generated_at: "2026-03-30T03:08:36.089Z"
 status: "active"
 ---
 

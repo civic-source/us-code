@@ -3,9 +3,9 @@ title: "Section 3108 - Allowances"
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-30T03:05:59.208Z"
+generated_at: "2026-03-30T03:09:15.021Z"
 status: "active"
 ---
 
@@ -13,7 +13,9 @@ status: "active"
 
 - **(a)**
   - **(1)** Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran’s participation under this chapter in a rehabilitation program.
-  - **(2)** In any case in which the Secretary determines, at the conclusion of such veteran’s pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title .
+  - **(2)**
+    - **(A)** In any case in which the Secretary determines, at the conclusion of such veteran’s pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title .
+    - **(B)** In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
   - **(3)** A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title .
 - **(b)**
   - **(1)** Except as otherwise provided in this section, the Secretary shall determine the subsistence allowance to be paid to a veteran under this chapter in accordance with the following table, which shall be the monthly amount shown in column II, III, IV, or V (whichever is applicable as determined by the veteran’s dependency status) opposite the appropriate type of program being pursued as specified in column I: Column I Column II Column III Column IV Column V Type of program No dependents One dependent Two dependents More than two dependents The amount in column IV, plus the following for each dependent in excess of two: Institu­tional training: Full-time $366 $454 $535 $39 Three-quarter time 275 341 400 30 Half-time 184 228 268 20 Farm coop­erative, apprentice, or other on-job training: Full-time 320 387 446 29 Extended evaluation: Full-time 366 454 535 39 Independent living training: Full-time 366 454 535 39 Three-quarter time 275 341 400 30 Half-time 184 228 268 20

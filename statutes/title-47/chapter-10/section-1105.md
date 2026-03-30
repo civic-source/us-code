@@ -3,9 +3,9 @@ title: "Section 1105 - Annual audit"
 usc_title: 47
 usc_section: "1105"
 chapter: 10
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "47 U.S.C. § 1105"
-generated_at: "2026-03-30T03:06:26.241Z"
+generated_at: "2026-03-30T03:09:32.089Z"
 status: "active"
 ---
 

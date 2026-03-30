@@ -3,9 +3,9 @@ title: "Section 5040 - Support"
 usc_title: 18
 usc_section: "5040"
 chapter: 403
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "18 U.S.C. § 5040"
-generated_at: "2026-03-30T03:04:41.134Z"
+generated_at: "2026-03-30T03:08:20.295Z"
 status: "active"
 ---
 

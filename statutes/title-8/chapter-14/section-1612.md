@@ -3,9 +3,9 @@ title: "Section 1612 - Limited eligibility of qualified aliens for certain Feder
 usc_title: 8
 usc_section: "1612"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "8 U.S.C. § 1612"
-generated_at: "2026-03-30T03:04:14.645Z"
+generated_at: "2026-03-30T03:07:36.461Z"
 status: "active"
 ---
 

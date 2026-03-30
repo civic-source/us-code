@@ -3,9 +3,9 @@ title: "Section 6754 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6754"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 6754"
-generated_at: "2026-03-30T03:04:46.344Z"
+generated_at: "2026-03-30T03:08:22.903Z"
 status: "active"
 ---
 

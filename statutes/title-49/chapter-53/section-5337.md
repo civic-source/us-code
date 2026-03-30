@@ -3,9 +3,9 @@ title: "Section 5337 - State of good repair grants"
 usc_title: 49
 usc_section: "5337"
 chapter: 53
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 5337"
-generated_at: "2026-03-30T03:06:29.281Z"
+generated_at: "2026-03-30T03:09:34.983Z"
 status: "active"
 ---
 
@@ -62,4 +62,4 @@ status: "active"
     - **(A)** The amount described in paragraph (2) shall be apportioned to each area in accordance with this paragraph.
     - **(B)** Each area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus vehicle revenue miles attributable to all areas.
     - **(C)** Each area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus directional route miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus directional route miles attributable to all areas.
-        - **(4)** For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
+  - **(4)** For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.

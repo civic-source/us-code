@@ -3,9 +3,9 @@ title: "Section 831 - Regulations for employment security"
 usc_title: 50
 usc_section: "831"
 chapter: 23
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "50 U.S.C. § 831"
-generated_at: "2026-03-30T03:06:37.639Z"
+generated_at: "2026-03-30T03:09:33.344Z"
 status: "active"
 ---
 

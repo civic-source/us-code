@@ -3,9 +3,9 @@ title: "Section 5450 - Regular Navy: retired flag officers on active duty"
 usc_title: 10
 usc_section: "5450"
 chapter: 533
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 5450"
-generated_at: "2026-03-30T03:04:17.315Z"
+generated_at: "2026-03-30T03:07:27.154Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 213 - Transportation alternatives"
 usc_title: 23
 usc_section: "213"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "23 U.S.C. § 213"
-generated_at: "2026-03-30T03:04:51.164Z"
+generated_at: "2026-03-30T03:08:34.605Z"
 status: "active"
 ---
 
@@ -51,4 +51,4 @@ status: "active"
   - **(1)** obligate an amount of funds reserved under this section equal to the amount of the funds apportioned to the State for fiscal year 2009 under section 104(h)(2) for projects relating to recreational trails under section 206;
   - **(2)** return 1 percent of those funds to the Secretary for the administration of that program; and
   - **(3)** comply with the provisions of the administration of the recreational trails program under section 206, including the use of apportioned funds described under subsection (d)(3)(A) of that section.
-- **(g)**
+- **(g)** A State may opt out of the recreational trails program under subsection (f) if the Governor of the State notifies the Secretary not later than 30 days prior to apportionments being made for any fiscal year.

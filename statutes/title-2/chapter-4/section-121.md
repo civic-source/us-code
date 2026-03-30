@@ -3,9 +3,9 @@ title: "Section 121 - Senate restaurant deficit fund; deposit of proceeds from s
 usc_title: 2
 usc_section: "121"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 121"
-generated_at: "2026-03-30T03:04:04.404Z"
+generated_at: "2026-03-30T03:07:00.076Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1388 - Reduction of partial withdrawal liability"
 usc_title: 29
 usc_section: "1388"
 chapter: 18
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "29 U.S.C. § 1388"
-generated_at: "2026-03-30T03:05:09.730Z"
+generated_at: "2026-03-30T03:09:01.085Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14b - Credits of receipts for meals and quarters furnished Gover
 usc_title: 16
 usc_section: "14b"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 14b"
-generated_at: "2026-03-30T03:04:48.396Z"
+generated_at: "2026-03-30T03:08:28.729Z"
 status: "active"
 ---
 

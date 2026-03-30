@@ -3,9 +3,9 @@ title: "Section 8332 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8332"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 8332"
-generated_at: "2026-03-30T03:04:46.369Z"
+generated_at: "2026-03-30T03:08:22.926Z"
 status: "repealed"
 ---
 

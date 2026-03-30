@@ -3,9 +3,9 @@ title: "Section 690f - Fees"
 usc_title: 15
 usc_section: "690f"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 690f"
-generated_at: "2026-03-30T03:04:31.143Z"
+generated_at: "2026-03-30T03:08:17.010Z"
 status: "active"
 ---
 

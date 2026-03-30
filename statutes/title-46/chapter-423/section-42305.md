@@ -3,9 +3,9 @@ title: "Section 42305 - Refusal of clearance and entry"
 usc_title: 46
 usc_section: "42305"
 chapter: 423
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "46 U.S.C. § 42305"
-generated_at: "2026-03-30T03:06:27.185Z"
+generated_at: "2026-03-30T03:09:32.734Z"
 status: "active"
 ---
 

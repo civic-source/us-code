@@ -3,9 +3,9 @@ title: "Section 2417 - Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , Dec
 usc_title: 22
 usc_section: "2417"
 chapter: 32
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 2417"
-generated_at: "2026-03-30T03:04:53.640Z"
+generated_at: "2026-03-30T03:08:34.017Z"
 status: "repealed"
 ---
 

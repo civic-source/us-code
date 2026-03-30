@@ -3,9 +3,9 @@ title: "Section 2291 - Qualifying requirements for workers"
 usc_title: 19
 usc_section: "2291"
 chapter: 12
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "19 U.S.C. § 2291"
-generated_at: "2026-03-30T03:04:42.034Z"
+generated_at: "2026-03-30T03:08:21.299Z"
 status: "active"
 ---
 

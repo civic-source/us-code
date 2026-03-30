@@ -3,9 +3,9 @@ title: "Section 504 - Powers of Foundation"
 usc_title: 15
 usc_section: "504"
 chapter: 13
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 504"
-generated_at: "2026-03-30T03:04:31.120Z"
+generated_at: "2026-03-30T03:08:16.989Z"
 status: "active"
 ---
 

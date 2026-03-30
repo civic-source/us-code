@@ -3,9 +3,9 @@ title: "Section 3050 - Bureau of Prisons employees’ powers"
 usc_title: 18
 usc_section: "3050"
 chapter: 203
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "18 U.S.C. § 3050"
-generated_at: "2026-03-30T03:04:41.116Z"
+generated_at: "2026-03-30T03:08:20.279Z"
 status: "active"
 ---
 

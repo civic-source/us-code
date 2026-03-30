@@ -3,9 +3,9 @@ title: "Section 7265a - Findings and purposes"
 usc_title: 20
 usc_section: "7265a"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7265a"
-generated_at: "2026-03-30T03:04:46.357Z"
+generated_at: "2026-03-30T03:08:22.915Z"
 status: "active"
 ---
 

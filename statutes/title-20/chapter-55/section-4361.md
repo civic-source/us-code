@@ -3,9 +3,9 @@ title: "Section 4361 - Supervision of public business of Gallaudet University"
 usc_title: 20
 usc_section: "4361"
 chapter: 55
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 4361"
-generated_at: "2026-03-30T03:04:46.321Z"
+generated_at: "2026-03-30T03:08:22.882Z"
 status: "active"
 ---
 

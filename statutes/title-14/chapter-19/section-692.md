@@ -3,9 +3,9 @@ title: "Section 692 - Environmental Compliance and Restoration Account"
 usc_title: 14
 usc_section: "692"
 chapter: 19
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "14 U.S.C. § 692"
-generated_at: "2026-03-30T03:04:26.488Z"
+generated_at: "2026-03-30T03:07:58.820Z"
 status: "active"
 ---
 

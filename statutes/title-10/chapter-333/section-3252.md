@@ -3,9 +3,9 @@ title: "Section 3252 - Bonus to encourage Army personnel to refer persons for en
 usc_title: 10
 usc_section: "3252"
 chapter: 333
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 3252"
-generated_at: "2026-03-30T03:04:17.307Z"
+generated_at: "2026-03-30T03:07:27.145Z"
 status: "active"
 ---
 

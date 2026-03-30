@@ -3,9 +3,9 @@ title: "Section 83 - Property transferred in connection with performance of serv
 usc_title: 26
 usc_section: "83"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "26 U.S.C. § 83"
-generated_at: "2026-03-30T03:05:18.538Z"
+generated_at: "2026-03-30T03:09:00.174Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(3)** So long as the sale of property at a profit could subject a person to suit under section 16(b) of the Securities Exchange Act of 1934, such person’s rights in such property are—
     - **(A)** subject to a substantial risk of forfeiture, and
     - **(B)** not transferable.
-        - **(4)** For purposes of determining an individual’s basis in property transferred in connection with the performance of services, rules similar to the rules of section 72(w) shall apply.
+  - **(4)** For purposes of determining an individual’s basis in property transferred in connection with the performance of services, rules similar to the rules of section 72(w) shall apply.
 - **(d)**
   - **(1)** In the case of property subject to a restriction which by its terms will never lapse, and which allows the transferee to sell such property only at a price determined under a formula, the price so determined shall be deemed to be the fair market value of the property unless established to the contrary by the Secretary, and the burden of proof shall be on the Secretary with respect to such value.
   - **(2)** If, in the case of property subject to a restriction which by its terms will never lapse, the restriction is canceled, then, unless the taxpayer establishes—

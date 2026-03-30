@@ -3,9 +3,9 @@ title: "Section 44106 - Revocation of aircraft certificates for controlled subst
 usc_title: 49
 usc_section: "44106"
 chapter: 441
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 44106"
-generated_at: "2026-03-30T03:06:29.322Z"
+generated_at: "2026-03-30T03:09:35.029Z"
 status: "active"
 ---
 

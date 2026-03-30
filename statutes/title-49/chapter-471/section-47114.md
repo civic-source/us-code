@@ -3,9 +3,9 @@ title: "Section 47114 - Apportionments"
 usc_title: 49
 usc_section: "47114"
 chapter: 471
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 47114"
-generated_at: "2026-03-30T03:06:29.336Z"
+generated_at: "2026-03-30T03:09:35.044Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
       - **(ii)** the airport had at least 10,000 passenger boardings in the calendar year prior to the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
       - **(iii)** the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
     - **(F)** Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.
-        - **(2)**
+  - **(2)**
     - **(A)** Subject to subparagraph (D), the Secretary shall apportion an amount equal to 3.5 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds.
     - **(B)** Any funds apportioned under subparagraph (A) to sponsors of airports described in subparagraph (A) shall be allocated among those airports in the proportion that the total annual landed weight of aircraft described in subparagraph (A) landing at each of those airports bears to the total annual landed weight of those aircraft landing at all those airports.
     - **(C)** In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than 8 percent of the amount apportioned under subparagraph (A) may be apportioned for any one airport.

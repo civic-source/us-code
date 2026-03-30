@@ -3,9 +3,9 @@ title: "Section 6677 - Repealed. Pub. L. 112–239, div. A, title V, § 541(d)(1
 usc_title: 20
 usc_section: "6677"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 6677"
-generated_at: "2026-03-30T03:04:46.343Z"
+generated_at: "2026-03-30T03:08:22.902Z"
 status: "repealed"
 ---
 

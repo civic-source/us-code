@@ -3,9 +3,9 @@ title: "Section 287b - Reports to Congress by President"
 usc_title: 22
 usc_section: "287b"
 chapter: 7
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 287b"
-generated_at: "2026-03-30T03:04:53.598Z"
+generated_at: "2026-03-30T03:08:33.975Z"
 status: "active"
 ---
 

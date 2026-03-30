@@ -3,9 +3,9 @@ title: "Section 470w - Definitions"
 usc_title: 16
 usc_section: "470w"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 470w"
-generated_at: "2026-03-30T03:04:48.485Z"
+generated_at: "2026-03-30T03:08:28.813Z"
 status: "active"
 ---
 

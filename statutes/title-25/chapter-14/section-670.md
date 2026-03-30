@@ -3,9 +3,9 @@ title: "Section 670 - Mortgage or deed of trust of lands sold; United States as 
 usc_title: 25
 usc_section: "670"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 670"
-generated_at: "2026-03-30T03:05:02.849Z"
+generated_at: "2026-03-30T03:08:47.335Z"
 status: "active"
 ---
 

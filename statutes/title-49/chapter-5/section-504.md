@@ -3,9 +3,9 @@ title: "Section 504 - Reports and records"
 usc_title: 49
 usc_section: "504"
 chapter: 5
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 504"
-generated_at: "2026-03-30T03:06:29.270Z"
+generated_at: "2026-03-30T03:09:34.970Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2934 - Fiscal controls; sanctions"
 usc_title: 29
 usc_section: "2934"
 chapter: 30
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "29 U.S.C. § 2934"
-generated_at: "2026-03-30T03:05:09.747Z"
+generated_at: "2026-03-30T03:09:01.102Z"
 status: "active"
 ---
 

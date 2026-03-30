@@ -3,9 +3,9 @@ title: "Section 23 - Taxation; exclusion from gross income"
 usc_title: 22
 usc_section: "23"
 chapter: 7
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 23"
-generated_at: "2026-03-30T03:04:53.590Z"
+generated_at: "2026-03-30T03:08:33.968Z"
 status: "active"
 ---
 

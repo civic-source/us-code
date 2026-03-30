@@ -3,9 +3,9 @@ title: "Section 2658 - Report on counterintelligence and security practices at n
 usc_title: 50
 usc_section: "2658"
 chapter: 42
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "50 U.S.C. § 2658"
-generated_at: "2026-03-30T03:06:37.682Z"
+generated_at: "2026-03-30T03:09:33.366Z"
 status: "active"
 ---
 

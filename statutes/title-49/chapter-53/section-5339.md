@@ -3,9 +3,9 @@ title: "Section 5339 - Bus and bus facilities formula grants"
 usc_title: 49
 usc_section: "5339"
 chapter: 53
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 5339"
-generated_at: "2026-03-30T03:06:29.282Z"
+generated_at: "2026-03-30T03:09:34.984Z"
 status: "active"
 ---
 

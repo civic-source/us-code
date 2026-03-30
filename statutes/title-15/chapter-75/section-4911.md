@@ -3,9 +3,9 @@ title: "Section 4911 - Collection of data"
 usc_title: 15
 usc_section: "4911"
 chapter: 75
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 4911"
-generated_at: "2026-03-30T03:04:31.230Z"
+generated_at: "2026-03-30T03:08:17.087Z"
 status: "active"
 ---
 

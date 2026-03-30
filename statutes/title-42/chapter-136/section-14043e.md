@@ -3,9 +3,9 @@ title: "Section 14043e - Findings"
 usc_title: 42
 usc_section: "14043e"
 chapter: 136
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 14043e"
-generated_at: "2026-03-30T03:06:22.942Z"
+generated_at: "2026-03-30T03:09:29.129Z"
 status: "active"
 ---
 

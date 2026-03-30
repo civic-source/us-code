@@ -3,9 +3,9 @@ title: "Section 861 - Federal recognition of Wyandotte, Ottawa, and Peoria Tribe
 usc_title: 25
 usc_section: "861"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 861"
-generated_at: "2026-03-30T03:05:02.855Z"
+generated_at: "2026-03-30T03:08:47.342Z"
 status: "active"
 ---
 

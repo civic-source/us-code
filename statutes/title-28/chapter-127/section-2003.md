@@ -3,9 +3,9 @@ title: "Section 2003 - Marshal’s incapacity after levy on or sale of realty"
 usc_title: 28
 usc_section: "2003"
 chapter: 127
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "28 U.S.C. § 2003"
-generated_at: "2026-03-30T03:05:05.828Z"
+generated_at: "2026-03-30T03:08:50.375Z"
 status: "active"
 ---
 

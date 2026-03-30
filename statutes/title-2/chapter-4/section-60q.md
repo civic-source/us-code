@@ -3,9 +3,9 @@ title: "Section 60q - Voluntary separation incentive payments"
 usc_title: 2
 usc_section: "60q"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 60q"
-generated_at: "2026-03-30T03:04:04.395Z"
+generated_at: "2026-03-30T03:07:00.069Z"
 status: "active"
 ---
 

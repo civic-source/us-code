@@ -3,9 +3,9 @@ title: "Section 6381f - Applications"
 usc_title: 20
 usc_section: "6381f"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 6381f"
-generated_at: "2026-03-30T03:04:46.337Z"
+generated_at: "2026-03-30T03:08:22.896Z"
 status: "active"
 ---
 

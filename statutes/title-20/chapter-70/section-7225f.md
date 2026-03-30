@@ -3,9 +3,9 @@ title: "Section 7225f - Definitions"
 usc_title: 20
 usc_section: "7225f"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 7225f"
-generated_at: "2026-03-30T03:04:46.354Z"
+generated_at: "2026-03-30T03:08:22.912Z"
 status: "active"
 ---
 

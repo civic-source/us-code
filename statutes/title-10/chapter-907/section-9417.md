@@ -3,9 +3,9 @@ title: "Section 9417 - 1 1 So in original. No section 9416 has been enacted. Air
 usc_title: 10
 usc_section: "9417"
 chapter: 907
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 9417"
-generated_at: "2026-03-30T03:04:17.331Z"
+generated_at: "2026-03-30T03:07:27.171Z"
 status: "active"
 ---
 

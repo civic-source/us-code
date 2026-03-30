@@ -3,9 +3,9 @@ title: "Section 356 - Subpoena power"
 usc_title: 28
 usc_section: "356"
 chapter: 16
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "28 U.S.C. § 356"
-generated_at: "2026-03-30T03:05:05.812Z"
+generated_at: "2026-03-30T03:08:50.358Z"
 status: "active"
 ---
 

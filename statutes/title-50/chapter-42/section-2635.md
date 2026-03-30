@@ -3,9 +3,9 @@ title: "Section 2635 - Continuation of processing, treatment, and disposition of
 usc_title: 50
 usc_section: "2635"
 chapter: 42
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "50 U.S.C. § 2635"
-generated_at: "2026-03-30T03:06:37.681Z"
+generated_at: "2026-03-30T03:09:33.366Z"
 status: "active"
 ---
 

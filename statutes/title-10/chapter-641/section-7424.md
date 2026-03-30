@@ -3,9 +3,9 @@ title: "Section 7424 - Protection of oil reserves; contracts for conservation"
 usc_title: 10
 usc_section: "7424"
 chapter: 641
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 7424"
-generated_at: "2026-03-30T03:04:17.323Z"
+generated_at: "2026-03-30T03:07:27.163Z"
 status: "active"
 ---
 

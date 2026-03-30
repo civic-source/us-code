@@ -3,9 +3,9 @@ title: "Section 6b - Offices of the Secretaries of the Conference of the Majorit
 usc_title: 2
 usc_section: "6b"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 6b"
-generated_at: "2026-03-30T03:04:04.397Z"
+generated_at: "2026-03-30T03:07:00.071Z"
 status: "active"
 ---
 

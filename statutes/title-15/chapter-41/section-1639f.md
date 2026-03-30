@@ -3,9 +3,9 @@ title: "Section 1639f - Requirements for prompt crediting of home loan payments"
 usc_title: 15
 usc_section: "1639f"
 chapter: 41
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "15 U.S.C. § 1639f"
-generated_at: "2026-03-30T03:04:31.178Z"
+generated_at: "2026-03-30T03:08:17.039Z"
 status: "active"
 ---
 

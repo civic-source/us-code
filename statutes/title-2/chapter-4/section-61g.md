@@ -3,9 +3,9 @@ title: "Section 61g - Compensation of Secretaries for Senate Majority and Minori
 usc_title: 2
 usc_section: "61g"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 61g"
-generated_at: "2026-03-30T03:04:04.397Z"
+generated_at: "2026-03-30T03:07:00.071Z"
 status: "active"
 ---
 

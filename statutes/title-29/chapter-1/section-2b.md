@@ -3,9 +3,9 @@ title: "Section 2b - Studies of productivity and labor costs in industries"
 usc_title: 29
 usc_section: "2b"
 chapter: 1
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "29 U.S.C. § 2b"
-generated_at: "2026-03-30T03:05:09.667Z"
+generated_at: "2026-03-30T03:09:01.038Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3323 - Approval and funding of projects"
 usc_title: 16
 usc_section: "3323"
 chapter: 52
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3323"
-generated_at: "2026-03-30T03:04:48.602Z"
+generated_at: "2026-03-30T03:08:28.918Z"
 status: "active"
 ---
 

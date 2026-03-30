@@ -3,9 +3,9 @@ title: "Section 3608 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3608"
 chapter: 56
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3608"
-generated_at: "2026-03-30T03:04:48.605Z"
+generated_at: "2026-03-30T03:08:28.921Z"
 status: "active"
 ---
 

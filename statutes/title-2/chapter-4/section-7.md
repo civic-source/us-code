@@ -3,9 +3,9 @@ title: "Section 7 - Daniel Webster Senate Page Residence Revolving Fund"
 usc_title: 2
 usc_section: "7"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 7"
-generated_at: "2026-03-30T03:04:04.401Z"
+generated_at: "2026-03-30T03:07:00.074Z"
 status: "active"
 ---
 

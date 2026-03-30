@@ -3,9 +3,9 @@ title: "Section 1514 - Authorization of appropriations"
 usc_title: 43
 usc_section: "1514"
 chapter: 32
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "43 U.S.C. § 1514"
-generated_at: "2026-03-30T03:06:10.675Z"
+generated_at: "2026-03-30T03:09:17.251Z"
 status: "active"
 ---
 

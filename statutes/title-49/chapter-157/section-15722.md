@@ -3,9 +3,9 @@ title: "Section 15722 - Records: form; inspection; preservation"
 usc_title: 49
 usc_section: "15722"
 chapter: 157
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 15722"
-generated_at: "2026-03-30T03:06:29.292Z"
+generated_at: "2026-03-30T03:09:34.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2884 - Individuals eligible for the Job Corps"
 usc_title: 29
 usc_section: "2884"
 chapter: 30
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "29 U.S.C. § 2884"
-generated_at: "2026-03-30T03:05:09.743Z"
+generated_at: "2026-03-30T03:09:01.097Z"
 status: "active"
 ---
 

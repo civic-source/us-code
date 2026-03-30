@@ -3,9 +3,9 @@ title: "Section 3598 - 1 1 Another section 3598 is set out preceding this sectio
 usc_title: 5
 usc_section: "3598"
 chapter: 35
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "5 U.S.C. § 3598"
-generated_at: "2026-03-30T03:04:06.071Z"
+generated_at: "2026-03-30T03:07:18.686Z"
 status: "active"
 ---
 

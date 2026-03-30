@@ -3,9 +3,9 @@ title: "Section 6376 - Evaluation"
 usc_title: 20
 usc_section: "6376"
 chapter: 70
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "20 U.S.C. § 6376"
-generated_at: "2026-03-30T03:04:46.336Z"
+generated_at: "2026-03-30T03:08:22.895Z"
 status: "active"
 ---
 

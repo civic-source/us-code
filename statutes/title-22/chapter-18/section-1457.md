@@ -3,9 +3,9 @@ title: "Section 1457 - Rendition of technical and other services to foreign gove
 usc_title: 22
 usc_section: "1457"
 chapter: 18
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 1457"
-generated_at: "2026-03-30T03:04:53.609Z"
+generated_at: "2026-03-30T03:08:33.985Z"
 status: "active"
 ---
 

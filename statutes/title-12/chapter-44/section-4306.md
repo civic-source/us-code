@@ -3,9 +3,9 @@ title: "Section 4306 - Payment of interest"
 usc_title: 12
 usc_section: "4306"
 chapter: 44
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 4306"
-generated_at: "2026-03-30T03:04:29.318Z"
+generated_at: "2026-03-30T03:08:07.511Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 142 - State Department"
 usc_title: 14
 usc_section: "142"
 chapter: 7
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "14 U.S.C. § 142"
-generated_at: "2026-03-30T03:04:26.484Z"
+generated_at: "2026-03-30T03:07:58.815Z"
 status: "active"
 ---
 

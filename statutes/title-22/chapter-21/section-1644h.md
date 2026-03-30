@@ -3,9 +3,9 @@ title: "Section 1644h - Certification of amounts; priority of payments"
 usc_title: 22
 usc_section: "1644h"
 chapter: 21
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "22 U.S.C. § 1644h"
-generated_at: "2026-03-30T03:04:53.615Z"
+generated_at: "2026-03-30T03:08:33.991Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12213 - Severability"
 usc_title: 42
 usc_section: "12213"
 chapter: 126
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 12213"
-generated_at: "2026-03-30T03:06:22.899Z"
+generated_at: "2026-03-30T03:09:29.088Z"
 status: "active"
 ---
 

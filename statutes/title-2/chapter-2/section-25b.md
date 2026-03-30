@@ -3,9 +3,9 @@ title: "Section 25b - Repealed. Pub. L. 104–186, title II, § 202(1) , Aug. 20
 usc_title: 2
 usc_section: "25b"
 chapter: 2
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 25b"
-generated_at: "2026-03-30T03:04:04.387Z"
+generated_at: "2026-03-30T03:07:00.064Z"
 status: "repealed"
 ---
 

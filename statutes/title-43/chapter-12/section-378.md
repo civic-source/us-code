@@ -3,9 +3,9 @@ title: "Section 378 - Omitted"
 usc_title: 43
 usc_section: "378"
 chapter: 12
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "43 U.S.C. § 378"
-generated_at: "2026-03-30T03:06:10.646Z"
+generated_at: "2026-03-30T03:09:17.223Z"
 status: "omitted"
 ---
 

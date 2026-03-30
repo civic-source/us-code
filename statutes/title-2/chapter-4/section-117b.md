@@ -3,9 +3,9 @@ title: "Section 117b - Disposal of used or surplus furniture and equipment by Se
 usc_title: 2
 usc_section: "117b"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 117b"
-generated_at: "2026-03-30T03:04:04.403Z"
+generated_at: "2026-03-30T03:07:00.075Z"
 status: "active"
 ---
 

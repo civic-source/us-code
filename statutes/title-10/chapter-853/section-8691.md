@@ -3,9 +3,9 @@ title: "Section 8691 - Flying officer rating: qualifications"
 usc_title: 10
 usc_section: "8691"
 chapter: 853
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 8691"
-generated_at: "2026-03-30T03:04:17.327Z"
+generated_at: "2026-03-30T03:07:27.168Z"
 status: "active"
 ---
 

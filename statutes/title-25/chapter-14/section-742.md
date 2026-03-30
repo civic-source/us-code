@@ -3,9 +3,9 @@ title: "Section 742 - Definitions"
 usc_title: 25
 usc_section: "742"
 chapter: 14
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 742"
-generated_at: "2026-03-30T03:05:02.853Z"
+generated_at: "2026-03-30T03:08:47.340Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ For the purposes of this subchapter—
 - **(b)** “Secretary” means the Secretary of the Interior.
 - **(c)** “Lands” means real property, interests therein, or improvements thereon, and includes water rights.
 - **(d)** “Individual Indian” means any individual Indian whose name appears on the final roll prepared pursuant to section 743 of this title .
-- **(e)** “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States,
+- **(e)** “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.

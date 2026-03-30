@@ -3,9 +3,9 @@ title: "Section 971d - Administration"
 usc_title: 16
 usc_section: "971d"
 chapter: 16
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 971d"
-generated_at: "2026-03-30T03:04:48.548Z"
+generated_at: "2026-03-30T03:08:28.868Z"
 status: "active"
 ---
 

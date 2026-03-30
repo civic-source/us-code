@@ -3,9 +3,9 @@ title: "Section 2442 - Illegal narcotics traffic on Tohono O’odham and St. Reg
 usc_title: 25
 usc_section: "2442"
 chapter: 26
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "25 U.S.C. § 2442"
-generated_at: "2026-03-30T03:05:02.899Z"
+generated_at: "2026-03-30T03:08:47.384Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(3)** There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2011 through 2015.
 - **(b)**
   - **(1)** The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in section 1152 of title 18 . The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.).
-  - **(2)** For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.. 1 1 So in original.
+  - **(2)** For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.

@@ -3,9 +3,9 @@ title: "Section 3712 - Time limitations for presenting certain claims of the Gov
 usc_title: 31
 usc_section: "3712"
 chapter: 37
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "31 U.S.C. § 3712"
-generated_at: "2026-03-30T03:05:28.360Z"
+generated_at: "2026-03-30T03:09:10.958Z"
 status: "active"
 ---
 

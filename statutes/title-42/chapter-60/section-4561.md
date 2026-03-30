@@ -3,9 +3,9 @@ title: "Section 4561 - Transferred"
 usc_title: 42
 usc_section: "4561"
 chapter: 60
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 4561"
-generated_at: "2026-03-30T03:06:22.715Z"
+generated_at: "2026-03-30T03:09:28.911Z"
 status: "transferred"
 ---
 

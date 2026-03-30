@@ -3,9 +3,9 @@ title: "Section 2514 - Sunset and reporting provisions; reports to Congress"
 usc_title: 16
 usc_section: "2514"
 chapter: 45
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 2514"
-generated_at: "2026-03-30T03:04:48.594Z"
+generated_at: "2026-03-30T03:08:28.911Z"
 status: "active"
 ---
 

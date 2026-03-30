@@ -3,9 +3,9 @@ title: "Section 1926b - Repealed. Pub. L. 104–127, title VII, § 743 , Apr. 4,
 usc_title: 7
 usc_section: "1926b"
 chapter: 50
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 1926b"
-generated_at: "2026-03-30T03:04:20.943Z"
+generated_at: "2026-03-30T03:07:51.818Z"
 status: "repealed"
 ---
 

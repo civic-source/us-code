@@ -3,9 +3,9 @@ title: "Section 7327 - Centers for research, education, and clinical activities 
 usc_title: 38
 usc_section: "7327"
 chapter: 73
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "38 U.S.C. § 7327"
-generated_at: "2026-03-30T03:05:59.229Z"
+generated_at: "2026-03-30T03:09:15.044Z"
 status: "active"
 ---
 

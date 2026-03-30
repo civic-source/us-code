@@ -3,9 +3,9 @@ title: "Section 3838o - Duties of owners and operators"
 usc_title: 16
 usc_section: "3838o"
 chapter: 58
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 3838o"
-generated_at: "2026-03-30T03:04:48.613Z"
+generated_at: "2026-03-30T03:08:28.927Z"
 status: "active"
 ---
 

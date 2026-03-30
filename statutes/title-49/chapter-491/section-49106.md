@@ -3,9 +3,9 @@ title: "Section 49106 - Metropolitan Washington Airports Authority"
 usc_title: 49
 usc_section: "49106"
 chapter: 491
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "49 U.S.C. § 49106"
-generated_at: "2026-03-30T03:06:29.340Z"
+generated_at: "2026-03-30T03:09:35.048Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
   - **(6)**
     - **(A)** Not more than 2 of the members of the board appointed by the President may be of the same political party.
     - **(B)** In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
-    - **(C)** A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction 1 1 So in original. Probably should be preceded by “the”. from which the member is appointed.
+    - **(C)** A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction 2 2 So in original. Probably should be preceded by “the”. from which the member is appointed.
   - **(7)** Ten votes are required to approve bond issues and the annual budget.
 - **(d)** Members of the board and their immediate families may not be employed by or otherwise hold a substantial financial interest in any enterprise that has or is seeking a contract or agreement with the Airports Authority or is an aeronautical, aviation services, or airport services enterprise that otherwise has interests that can be directly affected by the Airports Authority. The official appointing a member may make an exception if the financial interest is completely disclosed when the member is appointed and the member does not participate in board decisions that directly affect the interest.
 - **(e)** An action of the Airports Authority changing, or having the effect of changing, the hours of operation of, or the type of aircraft serving, either of the Metropolitan Washington Airports may be taken only by regulation of the Airports Authority.

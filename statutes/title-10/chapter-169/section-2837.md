@@ -3,9 +3,9 @@ title: "Section 2837 - Limited partnerships with private developers of housing"
 usc_title: 10
 usc_section: "2837"
 chapter: 169
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "10 U.S.C. § 2837"
-generated_at: "2026-03-30T03:04:17.302Z"
+generated_at: "2026-03-30T03:07:27.140Z"
 status: "active"
 ---
 

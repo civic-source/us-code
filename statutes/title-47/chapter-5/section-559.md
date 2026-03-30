@@ -3,9 +3,9 @@ title: "Section 559 - Obscene programming"
 usc_title: 47
 usc_section: "559"
 chapter: 5
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "47 U.S.C. § 559"
-generated_at: "2026-03-30T03:06:26.232Z"
+generated_at: "2026-03-30T03:09:32.081Z"
 status: "active"
 ---
 

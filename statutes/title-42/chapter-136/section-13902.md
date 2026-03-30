@@ -3,9 +3,9 @@ title: "Section 13902 - Requirements"
 usc_title: 42
 usc_section: "13902"
 chapter: 136
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 13902"
-generated_at: "2026-03-30T03:06:22.937Z"
+generated_at: "2026-03-30T03:09:29.125Z"
 status: "active"
 ---
 

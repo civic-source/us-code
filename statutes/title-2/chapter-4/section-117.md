@@ -3,9 +3,9 @@ title: "Section 117 - Sale of waste paper and condemned furniture"
 usc_title: 2
 usc_section: "117"
 chapter: 4
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "2 U.S.C. § 117"
-generated_at: "2026-03-30T03:04:04.403Z"
+generated_at: "2026-03-30T03:07:00.075Z"
 status: "active"
 ---
 

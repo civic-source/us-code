@@ -3,9 +3,9 @@ title: "Section 635 - Powers and functions of Bank"
 usc_title: 12
 usc_section: "635"
 chapter: 6
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "12 U.S.C. § 635"
-generated_at: "2026-03-30T03:04:29.204Z"
+generated_at: "2026-03-30T03:08:07.408Z"
 status: "active"
 ---
 
@@ -78,10 +78,10 @@ status: "active"
     - **(D)**
       - **(i)** Subparagraph (A) shall not apply to guarantees, insurance, or extensions of credit by the Bank to a country, agency, or national described in clause (i) or (ii) of subparagraph (A) (in connection with transactions described in such clauses) if the President determines that such guarantees, insurance, or extensions of credit are in the national interest.
       - **(ii)** The President shall make a separate determination under clause (i) for each transaction described in clause (i) or (ii) of subparagraph (A) for which the Bank would extend a loan in an amount equal to or greater than $50,000,000.
-      - **(iii)**
-      - **(iv)**
+      - **(iii)** Any determination by the President under clause (i) shall be reported to the Congress not later than the earlier of—
         - **(I)** the end of the 30-day period beginning on the date of such determination; or
         - **(II)** the date the Bank takes final action with respect to the first transaction involving the country, agency, or national for which such determination is made after January 4, 1975 , unless a report of a determination with respect to such country, agency, or national was made and reported before January 4, 1975 .
+      - **(iv)** Any determination by the President under clause (ii) shall be reported to the Congress not later than the earlier of—
         - **(I)** the end of the 30-day period beginning on the date of such determination; or
         - **(II)** the date the Bank takes final action with respect to the transaction for which such determination is made.
   - **(3)** Except as provided by the fourth sentence of this paragraph, no loan or financial guarantee or general guarantee or insurance facility or combination thereof (i) in an amount which equals or exceeds $100,000,000, or (ii) for the export of technology, fuel, equipment, materials, or goods or services to be used in the construction, alteration, operation, or maintenance of nuclear power, enrichment, reprocessing, research, or heavy water production facilities, shall be finally approved by the Board of Directors of the Bank, unless in each case the Bank has submitted to the Congress with respect to such loan, financial guarantee, or combination thereof, a detailed statement describing and explaining the transaction, at least 25 days of continuous session of the Congress prior to the date of final approval. For the purpose of the preceding sentence, continuity of a session of the Congress shall be considered as broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in the computation of the 25 day period referred to in such sentence. Such statement shall contain—

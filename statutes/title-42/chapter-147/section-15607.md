@@ -3,9 +3,9 @@ title: "Section 15607 - Adoption and effect of national standards"
 usc_title: 42
 usc_section: "15607"
 chapter: 147
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 15607"
-generated_at: "2026-03-30T03:06:22.963Z"
+generated_at: "2026-03-30T03:09:29.150Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2506 - Local commitments to system recovery and maintenance"
 usc_title: 16
 usc_section: "2506"
 chapter: 45
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "16 U.S.C. § 2506"
-generated_at: "2026-03-30T03:04:48.593Z"
+generated_at: "2026-03-30T03:08:28.911Z"
 status: "active"
 ---
 

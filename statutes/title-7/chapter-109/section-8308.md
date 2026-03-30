@@ -3,9 +3,9 @@ title: "Section 8308 - Detection, control, and eradication of diseases and pests
 usc_title: 7
 usc_section: "8308"
 chapter: 109
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "7 U.S.C. § 8308"
-generated_at: "2026-03-30T03:04:21.033Z"
+generated_at: "2026-03-30T03:07:51.906Z"
 status: "active"
 ---
 

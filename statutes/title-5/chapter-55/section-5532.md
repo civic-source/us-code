@@ -3,9 +3,9 @@ title: "Section 5532 - Repealed. Pub. L. 106–65, div. A, title VI, § 651(a)(1
 usc_title: 5
 usc_section: "5532"
 chapter: 55
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "5 U.S.C. § 5532"
-generated_at: "2026-03-30T03:04:06.078Z"
+generated_at: "2026-03-30T03:07:18.694Z"
 status: "repealed"
 ---
 

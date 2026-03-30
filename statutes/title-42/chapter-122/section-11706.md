@@ -3,9 +3,9 @@ title: "Section 11706 - Administrative grant for Papa Ola Lokahi"
 usc_title: 42
 usc_section: "11706"
 chapter: 122
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 11706"
-generated_at: "2026-03-30T03:06:22.893Z"
+generated_at: "2026-03-30T03:09:29.082Z"
 status: "active"
 ---
 

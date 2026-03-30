@@ -3,9 +3,9 @@ title: "Section 12402 - Report to Congress"
 usc_title: 42
 usc_section: "12402"
 chapter: 128
-current_through: "PL 113-21"
+current_through: "PL 113-31"
 classification: "42 U.S.C. § 12402"
-generated_at: "2026-03-30T03:06:22.900Z"
+generated_at: "2026-03-30T03:09:29.089Z"
 status: "active"
 ---
 
