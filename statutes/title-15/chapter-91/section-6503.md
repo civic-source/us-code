@@ -3,9 +3,9 @@ title: "Section 6503 - Safe harbors"
 usc_title: 15
 usc_section: "6503"
 chapter: 91
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "15 U.S.C. § 6503"
-generated_at: "2026-03-30T08:44:52.726Z"
+generated_at: "2026-03-30T08:47:05.040Z"
 status: "active"
 ---
 

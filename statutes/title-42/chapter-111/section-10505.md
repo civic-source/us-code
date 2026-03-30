@@ -3,9 +3,9 @@ title: "Section 10505 - Transferred"
 usc_title: 42
 usc_section: "10505"
 chapter: 111
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 10505"
-generated_at: "2026-03-30T08:45:54.918Z"
+generated_at: "2026-03-30T08:48:05.528Z"
 status: "transferred"
 ---
 

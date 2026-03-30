@@ -3,9 +3,9 @@ title: "Section 71 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(11), 6
 usc_title: 22
 usc_section: "71"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 71"
-generated_at: "2026-03-30T08:45:10.987Z"
+generated_at: "2026-03-30T08:47:25.254Z"
 status: "repealed"
 ---
 

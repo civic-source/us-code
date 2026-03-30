@@ -3,9 +3,9 @@ title: "Section 2501 - Congressional declaration of purpose"
 usc_title: 22
 usc_section: "2501"
 chapter: 34
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 2501"
-generated_at: "2026-03-30T08:45:11.048Z"
+generated_at: "2026-03-30T08:47:25.312Z"
 status: "active"
 ---
 

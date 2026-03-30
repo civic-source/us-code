@@ -3,9 +3,9 @@ title: "Section 4071f - Government contributions"
 usc_title: 22
 usc_section: "4071f"
 chapter: 52
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 4071f"
-generated_at: "2026-03-30T08:45:11.079Z"
+generated_at: "2026-03-30T08:47:25.342Z"
 status: "active"
 ---
 

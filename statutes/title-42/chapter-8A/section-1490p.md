@@ -3,9 +3,9 @@ title: "Section 1490p - Accountability"
 usc_title: 42
 usc_section: "1490p"
 chapter: 8
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1490p"
-generated_at: "2026-03-30T08:45:54.516Z"
+generated_at: "2026-03-30T08:48:05.286Z"
 status: "active"
 ---
 

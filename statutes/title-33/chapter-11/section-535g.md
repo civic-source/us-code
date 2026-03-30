@@ -3,9 +3,9 @@ title: "Section 535g - Federal navigable waters and commerce jurisdiction unaffe
 usc_title: 33
 usc_section: "535g"
 chapter: 11
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 535g"
-generated_at: "2026-03-30T08:45:27.676Z"
+generated_at: "2026-03-30T08:47:44.329Z"
 status: "active"
 ---
 

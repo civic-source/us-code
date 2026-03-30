@@ -3,9 +3,9 @@ title: "Section 6 - Litigation, judicial review, and savings provision"
 usc_title: 42
 usc_section: "6"
 chapter: 55
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T08:45:54.664Z"
+generated_at: "2026-03-30T08:48:05.372Z"
 status: "active"
 ---
 

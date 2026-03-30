@@ -3,9 +3,9 @@ title: "Section 151310 - Immunity of United States Government"
 usc_title: 36
 usc_section: "151310"
 chapter: 1513
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "36 U.S.C. § 151310"
-generated_at: "2026-03-30T08:45:30.365Z"
+generated_at: "2026-03-30T08:47:46.658Z"
 status: "active"
 ---
 

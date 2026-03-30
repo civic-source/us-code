@@ -3,9 +3,9 @@ title: "Section 6835 - Federal compliance"
 usc_title: 42
 usc_section: "6835"
 chapter: 81
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 6835"
-generated_at: "2026-03-30T08:45:54.750Z"
+generated_at: "2026-03-30T08:48:05.425Z"
 status: "active"
 ---
 

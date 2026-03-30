@@ -3,9 +3,9 @@ title: "Section 7906a - Prohibition against Federal mandates, direction, or cont
 usc_title: 20
 usc_section: "7906a"
 chapter: 70
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 7906a"
-generated_at: "2026-03-30T08:45:05.707Z"
+generated_at: "2026-03-30T08:47:18.184Z"
 status: "active"
 ---
 

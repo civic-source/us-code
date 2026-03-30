@@ -3,9 +3,9 @@ title: "Section 12644 - Members physically not qualified for active duty: discha
 usc_title: 10
 usc_section: "12644"
 chapter: 1219
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 12644"
-generated_at: "2026-03-30T08:44:42.136Z"
+generated_at: "2026-03-30T08:46:53.723Z"
 status: "active"
 ---
 

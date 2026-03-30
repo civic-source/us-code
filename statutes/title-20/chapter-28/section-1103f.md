@@ -3,9 +3,9 @@ title: "Section 1103f - Penalties"
 usc_title: 20
 usc_section: "1103f"
 chapter: 28
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 1103f"
-generated_at: "2026-03-30T08:45:05.637Z"
+generated_at: "2026-03-30T08:47:18.115Z"
 status: "active"
 ---
 

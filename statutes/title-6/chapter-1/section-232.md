@@ -3,9 +3,9 @@ title: "Section 232 - Functions of Administrator of General Services"
 usc_title: 6
 usc_section: "232"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "6 U.S.C. § 232"
-generated_at: "2026-03-30T08:44:33.603Z"
+generated_at: "2026-03-30T08:46:46.671Z"
 status: "active"
 ---
 

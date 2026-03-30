@@ -3,9 +3,9 @@ title: "Section 13492 - Program, goals, and plan"
 usc_title: 42
 usc_section: "13492"
 chapter: 134
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 13492"
-generated_at: "2026-03-30T08:45:54.995Z"
+generated_at: "2026-03-30T08:48:05.575Z"
 status: "active"
 ---
 

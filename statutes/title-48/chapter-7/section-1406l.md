@@ -3,9 +3,9 @@ title: "Section 1406l - Effective date"
 usc_title: 48
 usc_section: "1406l"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "48 U.S.C. § 1406l"
-generated_at: "2026-03-30T08:45:59.093Z"
+generated_at: "2026-03-30T08:48:08.834Z"
 status: "active"
 ---
 

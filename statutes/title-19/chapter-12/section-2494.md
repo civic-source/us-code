@@ -3,9 +3,9 @@ title: "Section 2494 - Progress reports"
 usc_title: 19
 usc_section: "2494"
 chapter: 12
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "19 U.S.C. § 2494"
-generated_at: "2026-03-30T08:45:03.875Z"
+generated_at: "2026-03-30T08:47:08.789Z"
 status: "active"
 ---
 

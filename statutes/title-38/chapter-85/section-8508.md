@@ -3,9 +3,9 @@ title: "Section 8508 - Relinquishment of Federal jurisdiction"
 usc_title: 38
 usc_section: "8508"
 chapter: 85
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 8508"
-generated_at: "2026-03-30T08:45:31.733Z"
+generated_at: "2026-03-30T08:47:48.386Z"
 status: "active"
 ---
 

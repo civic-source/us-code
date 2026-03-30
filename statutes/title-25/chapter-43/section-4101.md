@@ -3,9 +3,9 @@ title: "Section 4101 - Congressional findings"
 usc_title: 25
 usc_section: "4101"
 chapter: 43
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 4101"
-generated_at: "2026-03-30T08:45:12.558Z"
+generated_at: "2026-03-30T08:47:21.846Z"
 status: "active"
 ---
 

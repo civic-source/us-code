@@ -3,9 +3,9 @@ title: "Section 1356b - Transboundary hydrocarbon agreements"
 usc_title: 43
 usc_section: "1356b"
 chapter: 29
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 1356b"
-generated_at: "2026-03-30T08:45:34.951Z"
+generated_at: "2026-03-30T08:47:51.462Z"
 status: "active"
 ---
 

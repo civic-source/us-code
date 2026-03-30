@@ -3,9 +3,9 @@ title: "Section 152304 - Governing body"
 usc_title: 36
 usc_section: "152304"
 chapter: 1523
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "36 U.S.C. § 152304"
-generated_at: "2026-03-30T08:45:30.366Z"
+generated_at: "2026-03-30T08:47:46.658Z"
 status: "active"
 ---
 

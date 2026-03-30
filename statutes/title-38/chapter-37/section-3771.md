@@ -3,9 +3,9 @@ title: "Section 3771 - Repealed. Pub. L. 107–95, § 5(d)(3) , Dec. 21, 2001 , 
 usc_title: 38
 usc_section: "3771"
 chapter: 37
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 3771"
-generated_at: "2026-03-30T08:45:31.702Z"
+generated_at: "2026-03-30T08:47:48.362Z"
 status: "repealed"
 ---
 

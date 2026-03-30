@@ -3,9 +3,9 @@ title: "Section 476 - Repealed. Pub. L. 94–588, § 13 , Oct. 22, 1976 , 90 Sta
 usc_title: 16
 usc_section: "476"
 chapter: 2
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 476"
-generated_at: "2026-03-30T08:45:01.778Z"
+generated_at: "2026-03-30T08:47:11.931Z"
 status: "repealed"
 ---
 

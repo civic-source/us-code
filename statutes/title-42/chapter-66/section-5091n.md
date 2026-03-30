@@ -3,9 +3,9 @@ title: "Section 5091n - Repealed. Pub. L. 103–82, title III, § 385 , Sept. 21
 usc_title: 42
 usc_section: "5091n"
 chapter: 66
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 5091n"
-generated_at: "2026-03-30T08:45:54.679Z"
+generated_at: "2026-03-30T08:48:05.381Z"
 status: "repealed"
 ---
 

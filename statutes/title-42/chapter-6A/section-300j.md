@@ -3,9 +3,9 @@ title: "Section 300j - Assurances of availability of adequate supplies of chemic
 usc_title: 42
 usc_section: "300j"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 300j"
-generated_at: "2026-03-30T08:45:54.128Z"
+generated_at: "2026-03-30T08:48:05.052Z"
 status: "active"
 ---
 

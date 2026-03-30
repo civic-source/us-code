@@ -3,9 +3,9 @@ title: "Section 539p - Southeast Arizona land exchange and conservation"
 usc_title: 16
 usc_section: "539p"
 chapter: 2
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 539p"
-generated_at: "2026-03-30T08:45:01.784Z"
+generated_at: "2026-03-30T08:47:11.936Z"
 status: "active"
 ---
 

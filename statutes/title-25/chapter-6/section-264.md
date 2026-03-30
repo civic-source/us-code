@@ -3,9 +3,9 @@ title: "Section 264 - Trading without license; white persons as clerks"
 usc_title: 25
 usc_section: "264"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 264"
-generated_at: "2026-03-30T08:45:12.507Z"
+generated_at: "2026-03-30T08:47:21.796Z"
 status: "active"
 ---
 

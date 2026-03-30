@@ -3,9 +3,9 @@ title: "Section 813 - Treatment of controlled substance analogues"
 usc_title: 21
 usc_section: "813"
 chapter: 13
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "21 U.S.C. § 813"
-generated_at: "2026-03-30T08:45:13.435Z"
+generated_at: "2026-03-30T08:47:22.851Z"
 status: "active"
 ---
 

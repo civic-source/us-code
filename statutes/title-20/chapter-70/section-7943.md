@@ -3,9 +3,9 @@ title: "Section 7943 - Definitions"
 usc_title: 20
 usc_section: "7943"
 chapter: 70
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 7943"
-generated_at: "2026-03-30T08:45:05.708Z"
+generated_at: "2026-03-30T08:47:18.184Z"
 status: "active"
 ---
 

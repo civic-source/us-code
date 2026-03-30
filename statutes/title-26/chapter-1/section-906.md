@@ -3,9 +3,9 @@ title: "Section 906 - Nonresident alien individuals and foreign corporations"
 usc_title: 26
 usc_section: "906"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 906"
-generated_at: "2026-03-30T08:45:23.449Z"
+generated_at: "2026-03-30T08:47:40.287Z"
 status: "active"
 ---
 

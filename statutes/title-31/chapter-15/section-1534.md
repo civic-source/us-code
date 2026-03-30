@@ -3,9 +3,9 @@ title: "Section 1534 - Adjustments between appropriations"
 usc_title: 31
 usc_section: "1534"
 chapter: 15
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "31 U.S.C. § 1534"
-generated_at: "2026-03-30T08:45:26.207Z"
+generated_at: "2026-03-30T08:47:42.933Z"
 status: "active"
 ---
 

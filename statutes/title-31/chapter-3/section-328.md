@@ -3,9 +3,9 @@ title: "Section 328 - Accounts and payments of former disbursing officials"
 usc_title: 31
 usc_section: "328"
 chapter: 3
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "31 U.S.C. § 328"
-generated_at: "2026-03-30T08:45:26.199Z"
+generated_at: "2026-03-30T08:47:42.926Z"
 status: "active"
 ---
 

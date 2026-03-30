@@ -3,9 +3,9 @@ title: "Section 31306a - National clearinghouse for controlled substance and alc
 usc_title: 49
 usc_section: "31306a"
 chapter: 313
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 31306a"
-generated_at: "2026-03-30T08:46:03.471Z"
+generated_at: "2026-03-30T08:48:12.906Z"
 status: "active"
 ---
 

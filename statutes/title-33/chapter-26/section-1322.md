@@ -3,9 +3,9 @@ title: "Section 1322 - Marine sanitation devices; discharges incidental to the n
 usc_title: 33
 usc_section: "1322"
 chapter: 26
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 1322"
-generated_at: "2026-03-30T08:45:27.705Z"
+generated_at: "2026-03-30T08:47:44.357Z"
 status: "active"
 ---
 
@@ -234,7 +234,7 @@ status: "active"
       - **(i)** best practicable control technology currently available (within the meaning of section 1311(b)(1)(A) of this title );
       - **(ii)** best practicable control technology currently available (within the meaning of section 1314(b)(1) of this title ); and
       - **(iii)** best practicable control technology currently available, as determined in accordance with section 125.3(d)(1) of title 40, Code of Federal Regulations (or successor regulations).
-    - **(J)** The term “Captain of the Port Zone” means a Captain of the Port Zone established by the Secretary pursuant to sections 92, 93, and 633 1 1 See References to Redesignated Sections of Title 14 note below. of title 14.
+    - **(J)** The term “Captain of the Port Zone” means a Captain of the Port Zone established by the Secretary pursuant to sections 92, 93, and 633 1 1 See References in Text note below. of title 14.
     - **(K)** The term “empty ballast tank” means a tank that—
       - **(i)** has previously held ballast water that has been drained to the limit of the functional or operational capabilities of the tank (such as loss of suction);
       - **(ii)** is recorded as empty on a vessel log; and

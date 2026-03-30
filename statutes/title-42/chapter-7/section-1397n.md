@@ -3,9 +3,9 @@ title: "Section 1397n - Purposes"
 usc_title: 42
 usc_section: "1397n"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1397n"
-generated_at: "2026-03-30T08:45:54.474Z"
+generated_at: "2026-03-30T08:48:05.261Z"
 status: "active"
 ---
 

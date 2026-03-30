@@ -3,9 +3,9 @@ title: "Section 664 - Collection of past-due support from Federal tax refunds"
 usc_title: 42
 usc_section: "664"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 664"
-generated_at: "2026-03-30T08:45:54.240Z"
+generated_at: "2026-03-30T08:48:05.120Z"
 status: "active"
 ---
 

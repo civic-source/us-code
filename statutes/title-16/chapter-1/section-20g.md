@@ -3,9 +3,9 @@ title: "Section 20g - Repealed. Pub. L. 105–391, title IV, § 415(a) , Nov. 13
 usc_title: 16
 usc_section: "20g"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 20g"
-generated_at: "2026-03-30T08:45:01.693Z"
+generated_at: "2026-03-30T08:47:11.846Z"
 status: "repealed"
 ---
 

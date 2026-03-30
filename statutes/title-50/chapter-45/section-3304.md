@@ -3,9 +3,9 @@ title: "Section 3304 - Limitation on construction of facilities to be used prima
 usc_title: 50
 usc_section: "3304"
 chapter: 45
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "50 U.S.C. § 3304"
-generated_at: "2026-03-30T08:46:17.066Z"
+generated_at: "2026-03-30T08:48:10.853Z"
 status: "active"
 ---
 

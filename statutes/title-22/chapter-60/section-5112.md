@@ -3,9 +3,9 @@ title: "Section 5112 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5112"
 chapter: 60
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 5112"
-generated_at: "2026-03-30T08:45:11.089Z"
+generated_at: "2026-03-30T08:47:25.351Z"
 status: "repealed"
 ---
 

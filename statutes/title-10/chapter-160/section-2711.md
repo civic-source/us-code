@@ -3,9 +3,9 @@ title: "Section 2711 - Annual report on defense environmental programs"
 usc_title: 10
 usc_section: "2711"
 chapter: 160
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 2711"
-generated_at: "2026-03-30T08:44:42.098Z"
+generated_at: "2026-03-30T08:46:53.686Z"
 status: "active"
 ---
 

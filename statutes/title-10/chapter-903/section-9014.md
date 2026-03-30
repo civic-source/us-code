@@ -3,9 +3,9 @@ title: "Section 9014 - Office of the Secretary of the Air Force"
 usc_title: 10
 usc_section: "9014"
 chapter: 903
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 9014"
-generated_at: "2026-03-30T08:44:42.123Z"
+generated_at: "2026-03-30T08:46:53.711Z"
 status: "active"
 ---
 

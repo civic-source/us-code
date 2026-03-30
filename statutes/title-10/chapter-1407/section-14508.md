@@ -3,9 +3,9 @@ title: "Section 14508 - Removal from the reserve active-status list for years of
 usc_title: 10
 usc_section: "14508"
 chapter: 1407
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 14508"
-generated_at: "2026-03-30T08:44:42.138Z"
+generated_at: "2026-03-30T08:46:53.727Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1202a - Repealed. Pub. L. 87–543, title I, § 136(b) , July 25
 usc_title: 42
 usc_section: "1202a"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1202a"
-generated_at: "2026-03-30T08:45:54.259Z"
+generated_at: "2026-03-30T08:48:05.133Z"
 status: "repealed"
 ---
 

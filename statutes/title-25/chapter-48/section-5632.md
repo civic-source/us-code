@@ -3,9 +3,9 @@ title: "Section 5632 - Definitions"
 usc_title: 25
 usc_section: "5632"
 chapter: 48
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 5632"
-generated_at: "2026-03-30T08:45:12.571Z"
+generated_at: "2026-03-30T08:47:21.858Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6567 - Funds for Secretary of Senate to assist in proper dischar
 usc_title: 2
 usc_section: "6567"
 chapter: 65
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "2 U.S.C. § 6567"
-generated_at: "2026-03-30T08:44:31.504Z"
+generated_at: "2026-03-30T08:46:42.301Z"
 status: "active"
 ---
 

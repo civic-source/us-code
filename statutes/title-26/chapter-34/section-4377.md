@@ -3,9 +3,9 @@ title: "Section 4377 - Definitions and special rules"
 usc_title: 26
 usc_section: "4377"
 chapter: 34
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 4377"
-generated_at: "2026-03-30T08:45:23.495Z"
+generated_at: "2026-03-30T08:47:40.334Z"
 status: "active"
 ---
 

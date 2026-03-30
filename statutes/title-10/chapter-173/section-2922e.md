@@ -3,9 +3,9 @@ title: "Section 2922e - Acquisition of certain fuel sources: authority to waive 
 usc_title: 10
 usc_section: "2922e"
 chapter: 173
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 2922e"
-generated_at: "2026-03-30T08:44:42.105Z"
+generated_at: "2026-03-30T08:46:53.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4701 - [Reserved]"
 usc_title: 10
 usc_section: "4701"
 chapter: 365
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 4701"
-generated_at: "2026-03-30T08:44:42.105Z"
+generated_at: "2026-03-30T08:46:53.692Z"
 status: "reserved"
 ---
 

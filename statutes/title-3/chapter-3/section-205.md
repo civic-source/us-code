@@ -3,9 +3,9 @@ title: "Section 205 - Repealed. Pub. L. 91–217, § 1(7) , Mar. 19, 1970 , 84 S
 usc_title: 3
 usc_section: "205"
 chapter: 3
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "3 U.S.C. § 205"
-generated_at: "2026-03-30T08:44:22.392Z"
+generated_at: "2026-03-30T08:46:41.017Z"
 status: "repealed"
 ---
 

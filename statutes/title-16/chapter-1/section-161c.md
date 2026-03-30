@@ -3,9 +3,9 @@ title: "Section 161c - Addition of land; establishment of fish hatchery"
 usc_title: 16
 usc_section: "161c"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 161c"
-generated_at: "2026-03-30T08:45:01.700Z"
+generated_at: "2026-03-30T08:47:11.854Z"
 status: "active"
 ---
 

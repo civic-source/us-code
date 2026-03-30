@@ -3,9 +3,9 @@ title: "Section 2198 - Definitions"
 usc_title: 22
 usc_section: "2198"
 chapter: 32
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 2198"
-generated_at: "2026-03-30T08:45:11.031Z"
+generated_at: "2026-03-30T08:47:25.296Z"
 status: "active"
 ---
 

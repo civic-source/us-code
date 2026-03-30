@@ -3,9 +3,9 @@ title: "Section 2770 - Special instruction at universities"
 usc_title: 14
 usc_section: "2770"
 chapter: 27
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "14 U.S.C. § 2770"
-generated_at: "2026-03-30T08:44:52.992Z"
+generated_at: "2026-03-30T08:47:00.435Z"
 status: "active"
 ---
 

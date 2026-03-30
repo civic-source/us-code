@@ -3,9 +3,9 @@ title: "Section 55604 - Research on short sea transportation"
 usc_title: 46
 usc_section: "55604"
 chapter: 556
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "46 U.S.C. § 55604"
-generated_at: "2026-03-30T08:46:10.890Z"
+generated_at: "2026-03-30T08:48:09.598Z"
 status: "active"
 ---
 

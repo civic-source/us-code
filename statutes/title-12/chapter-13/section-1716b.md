@@ -3,9 +3,9 @@ title: "Section 1716b - Partition of Federal National Mortgage Association into 
 usc_title: 12
 usc_section: "1716b"
 chapter: 13
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 1716b"
-generated_at: "2026-03-30T08:44:50.641Z"
+generated_at: "2026-03-30T08:47:02.923Z"
 status: "active"
 ---
 

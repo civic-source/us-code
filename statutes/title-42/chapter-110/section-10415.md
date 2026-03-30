@@ -3,9 +3,9 @@ title: "Section 10415 - Repealed. Pub. L. 108–36, title IV, § 410 , June 25, 
 usc_title: 42
 usc_section: "10415"
 chapter: 110
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 10415"
-generated_at: "2026-03-30T08:45:54.918Z"
+generated_at: "2026-03-30T08:48:05.528Z"
 status: "repealed"
 ---
 

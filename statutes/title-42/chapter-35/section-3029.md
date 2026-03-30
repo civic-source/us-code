@@ -3,9 +3,9 @@ title: "Section 3029 - Payments of grants or contracts"
 usc_title: 42
 usc_section: "3029"
 chapter: 35
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 3029"
-generated_at: "2026-03-30T08:45:54.620Z"
+generated_at: "2026-03-30T08:48:05.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1764 - Authority to establish different minimum requirements"
 usc_title: 10
 usc_section: "1764"
 chapter: 87
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 1764"
-generated_at: "2026-03-30T08:44:42.058Z"
+generated_at: "2026-03-30T08:46:53.645Z"
 status: "active"
 ---
 

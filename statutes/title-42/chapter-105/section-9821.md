@@ -3,9 +3,9 @@ title: "Section 9821 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "9821"
 chapter: 105
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 9821"
-generated_at: "2026-03-30T08:45:54.883Z"
+generated_at: "2026-03-30T08:48:05.506Z"
 status: "active"
 ---
 

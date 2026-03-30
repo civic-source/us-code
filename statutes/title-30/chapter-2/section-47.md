@@ -3,9 +3,9 @@ title: "Section 47 - Impairment of rights or interests in certain mining propert
 usc_title: 30
 usc_section: "47"
 chapter: 2
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "30 U.S.C. § 47"
-generated_at: "2026-03-30T08:45:16.192Z"
+generated_at: "2026-03-30T08:47:27.636Z"
 status: "active"
 ---
 

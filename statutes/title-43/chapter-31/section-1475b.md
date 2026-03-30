@@ -3,9 +3,9 @@ title: "Section 1475b - Volunteer authority"
 usc_title: 43
 usc_section: "1475b"
 chapter: 31
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 1475b"
-generated_at: "2026-03-30T08:45:34.952Z"
+generated_at: "2026-03-30T08:47:51.464Z"
 status: "active"
 ---
 

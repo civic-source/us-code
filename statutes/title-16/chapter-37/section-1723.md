@@ -3,9 +3,9 @@ title: "Section 1723 - Public Lands Corps program"
 usc_title: 16
 usc_section: "1723"
 chapter: 37
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 1723"
-generated_at: "2026-03-30T08:45:01.859Z"
+generated_at: "2026-03-30T08:47:12.014Z"
 status: "active"
 ---
 

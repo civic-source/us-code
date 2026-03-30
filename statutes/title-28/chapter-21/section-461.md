@@ -3,9 +3,9 @@ title: "Section 461 - Adjustments in certain salaries"
 usc_title: 28
 usc_section: "461"
 chapter: 21
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "28 U.S.C. § 461"
-generated_at: "2026-03-30T08:45:19.146Z"
+generated_at: "2026-03-30T08:47:28.684Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 874 - Repealed. Pub. L. 107–372, title II, § 271(5) , Dec. 19
 usc_title: 33
 usc_section: "874"
 chapter: 17
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 874"
-generated_at: "2026-03-30T08:45:27.687Z"
+generated_at: "2026-03-30T08:47:44.340Z"
 status: "repealed"
 ---
 

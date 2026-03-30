@@ -3,9 +3,9 @@ title: "Section 8a - Discontinuance of preliminary examination reports"
 usc_title: 33
 usc_section: "8a"
 chapter: 15
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 8a"
-generated_at: "2026-03-30T08:45:27.681Z"
+generated_at: "2026-03-30T08:47:44.335Z"
 status: "active"
 ---
 

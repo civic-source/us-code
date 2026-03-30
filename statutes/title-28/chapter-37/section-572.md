@@ -3,9 +3,9 @@ title: "Section 572 - Renumbered § 567]"
 usc_title: 28
 usc_section: "572"
 chapter: 37
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "28 U.S.C. § 572"
-generated_at: "2026-03-30T08:45:19.149Z"
+generated_at: "2026-03-30T08:47:28.688Z"
 status: "renumbered"
 ---
 

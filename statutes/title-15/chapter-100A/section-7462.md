@@ -3,9 +3,9 @@ title: "Section 7462 - International cybersecurity technical standards"
 usc_title: 15
 usc_section: "7462"
 chapter: 100
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "15 U.S.C. § 7462"
-generated_at: "2026-03-30T08:44:52.738Z"
+generated_at: "2026-03-30T08:47:05.052Z"
 status: "active"
 ---
 

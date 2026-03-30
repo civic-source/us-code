@@ -3,9 +3,9 @@ title: "Section 3057a - Sense of Congress"
 usc_title: 42
 usc_section: "3057a"
 chapter: 35
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 3057a"
-generated_at: "2026-03-30T08:45:54.628Z"
+generated_at: "2026-03-30T08:48:05.352Z"
 status: "active"
 ---
 

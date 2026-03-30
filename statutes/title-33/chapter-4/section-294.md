@@ -3,9 +3,9 @@ title: "Section 294 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "294"
 chapter: 4
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 294"
-generated_at: "2026-03-30T08:45:27.668Z"
+generated_at: "2026-03-30T08:47:44.322Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 360h - Notification and other remedies"
 usc_title: 21
 usc_section: "360h"
 chapter: 9
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "21 U.S.C. § 360h"
-generated_at: "2026-03-30T08:45:13.399Z"
+generated_at: "2026-03-30T08:47:22.816Z"
 status: "active"
 ---
 

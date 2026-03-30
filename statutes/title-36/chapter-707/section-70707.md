@@ -3,9 +3,9 @@ title: "Section 70707 - Misnomer not to affect transfer of property"
 usc_title: 36
 usc_section: "70707"
 chapter: 707
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "36 U.S.C. § 70707"
-generated_at: "2026-03-30T08:45:30.360Z"
+generated_at: "2026-03-30T08:47:46.653Z"
 status: "active"
 ---
 

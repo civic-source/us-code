@@ -3,9 +3,9 @@ title: "Section 3056f - Report"
 usc_title: 42
 usc_section: "3056f"
 chapter: 35
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 3056f"
-generated_at: "2026-03-30T08:45:54.626Z"
+generated_at: "2026-03-30T08:48:05.351Z"
 status: "active"
 ---
 

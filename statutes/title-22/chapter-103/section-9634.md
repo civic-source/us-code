@@ -3,9 +3,9 @@ title: "Section 9634 - Corporate funds"
 usc_title: 22
 usc_section: "9634"
 chapter: 103
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 9634"
-generated_at: "2026-03-30T08:45:11.138Z"
+generated_at: "2026-03-30T08:47:25.398Z"
 status: "active"
 ---
 

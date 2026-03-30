@@ -3,9 +3,9 @@ title: "Section 284b - Repealed. Pub. L. 109–482, title I, § 104(b)(1)(C) , J
 usc_title: 42
 usc_section: "284b"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 284b"
-generated_at: "2026-03-30T08:45:54.050Z"
+generated_at: "2026-03-30T08:48:05.004Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1437a - Training and education programs of employing offices"
 usc_title: 2
 usc_section: "1437a"
 chapter: 24
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "2 U.S.C. § 1437a"
-generated_at: "2026-03-30T08:44:31.483Z"
+generated_at: "2026-03-30T08:46:42.280Z"
 status: "active"
 ---
 

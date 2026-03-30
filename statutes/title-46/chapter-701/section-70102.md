@@ -3,9 +3,9 @@ title: "Section 70102 - United States facility and vessel vulnerability assessme
 usc_title: 46
 usc_section: "70102"
 chapter: 701
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "46 U.S.C. § 70102"
-generated_at: "2026-03-30T08:46:10.894Z"
+generated_at: "2026-03-30T08:48:09.602Z"
 status: "active"
 ---
 

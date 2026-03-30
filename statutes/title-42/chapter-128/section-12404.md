@@ -3,9 +3,9 @@ title: "Section 12404 - Demonstrations"
 usc_title: 42
 usc_section: "12404"
 chapter: 128
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 12404"
-generated_at: "2026-03-30T08:45:54.950Z"
+generated_at: "2026-03-30T08:48:05.547Z"
 status: "active"
 ---
 

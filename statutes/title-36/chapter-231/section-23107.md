@@ -3,9 +3,9 @@ title: "Section 23107 - Principal office"
 usc_title: 36
 usc_section: "23107"
 chapter: 231
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "36 U.S.C. § 23107"
-generated_at: "2026-03-30T08:45:30.357Z"
+generated_at: "2026-03-30T08:47:46.650Z"
 status: "active"
 ---
 

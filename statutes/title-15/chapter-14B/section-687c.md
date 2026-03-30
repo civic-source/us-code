@@ -3,9 +3,9 @@ title: "Section 687c - Injunctions and other orders"
 usc_title: 15
 usc_section: "687c"
 chapter: 14
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "15 U.S.C. § 687c"
-generated_at: "2026-03-30T08:44:52.630Z"
+generated_at: "2026-03-30T08:47:04.947Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3172 - Presidential Innovation Fellows Program advisory board"
 usc_title: 5
 usc_section: "3172"
 chapter: 31
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "5 U.S.C. § 3172"
-generated_at: "2026-03-30T08:44:22.267Z"
+generated_at: "2026-03-30T08:46:44.222Z"
 status: "active"
 ---
 

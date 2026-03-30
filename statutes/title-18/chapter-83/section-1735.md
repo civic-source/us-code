@@ -3,9 +3,9 @@ title: "Section 1735 - Sexually oriented advertisements"
 usc_title: 18
 usc_section: "1735"
 chapter: 83
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 1735"
-generated_at: "2026-03-30T08:44:56.918Z"
+generated_at: "2026-03-30T08:47:14.468Z"
 status: "active"
 ---
 

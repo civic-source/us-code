@@ -3,9 +3,9 @@ title: "Section 4370m - Definitions"
 usc_title: 42
 usc_section: "4370m"
 chapter: 55
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 4370m"
-generated_at: "2026-03-30T08:45:54.662Z"
+generated_at: "2026-03-30T08:48:05.371Z"
 status: "active"
 ---
 

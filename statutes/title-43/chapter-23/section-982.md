@@ -3,9 +3,9 @@ title: "Section 982 - Grant to States to aid in construction of levees and drain
 usc_title: 43
 usc_section: "982"
 chapter: 23
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 982"
-generated_at: "2026-03-30T08:45:34.945Z"
+generated_at: "2026-03-30T08:47:51.456Z"
 status: "active"
 ---
 

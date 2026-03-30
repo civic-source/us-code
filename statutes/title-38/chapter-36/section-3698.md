@@ -3,9 +3,9 @@ title: "Section 3698 - Comprehensive policy on providing education information t
 usc_title: 38
 usc_section: "3698"
 chapter: 36
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 3698"
-generated_at: "2026-03-30T08:45:31.698Z"
+generated_at: "2026-03-30T08:47:48.358Z"
 status: "active"
 ---
 

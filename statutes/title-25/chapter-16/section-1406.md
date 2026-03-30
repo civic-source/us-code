@@ -3,9 +3,9 @@ title: "Section 1406 - Rules and regulations"
 usc_title: 25
 usc_section: "1406"
 chapter: 16
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 1406"
-generated_at: "2026-03-30T08:45:12.520Z"
+generated_at: "2026-03-30T08:47:21.808Z"
 status: "active"
 ---
 

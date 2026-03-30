@@ -3,9 +3,9 @@ title: "Section 7651c - Phase I sulfur dioxide requirements"
 usc_title: 42
 usc_section: "7651c"
 chapter: 85
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 7651c"
-generated_at: "2026-03-30T08:45:54.824Z"
+generated_at: "2026-03-30T08:48:05.470Z"
 status: "active"
 ---
 

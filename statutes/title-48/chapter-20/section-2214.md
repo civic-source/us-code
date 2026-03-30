@@ -3,9 +3,9 @@ title: "Section 2214 - Miscellaneous provisions"
 usc_title: 48
 usc_section: "2214"
 chapter: 20
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "48 U.S.C. § 2214"
-generated_at: "2026-03-30T08:45:59.121Z"
+generated_at: "2026-03-30T08:48:08.853Z"
 status: "active"
 ---
 

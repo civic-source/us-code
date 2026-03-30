@@ -3,9 +3,9 @@ title: "Section 8957 - Coverage of restored survivor or disability annuitants"
 usc_title: 5
 usc_section: "8957"
 chapter: 89
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "5 U.S.C. § 8957"
-generated_at: "2026-03-30T08:44:22.318Z"
+generated_at: "2026-03-30T08:46:44.267Z"
 status: "active"
 ---
 

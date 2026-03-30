@@ -3,9 +3,9 @@ title: "Section 263 - International Prison Commission"
 usc_title: 22
 usc_section: "263"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 263"
-generated_at: "2026-03-30T08:45:10.992Z"
+generated_at: "2026-03-30T08:47:25.260Z"
 status: "active"
 ---
 

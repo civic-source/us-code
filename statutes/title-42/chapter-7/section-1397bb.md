@@ -3,9 +3,9 @@ title: "Section 1397bb - General contents of State child health plan; eligibilit
 usc_title: 42
 usc_section: "1397bb"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1397bb"
-generated_at: "2026-03-30T08:45:54.476Z"
+generated_at: "2026-03-30T08:48:05.261Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(6)** outreach activities consistent with subsection (c); and
   - **(7)** methods (including monitoring) used—
     - **(A)** to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
-    - **(B)** to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title ; and
+    - **(B)** to assure access to covered services, including emergency services and services described in paragraphs (5) and (6) of section 1397cc(c) of this title ; and
     - **(C)** to ensure that the State agency involved is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title .
 - **(b)**
   - **(1)**

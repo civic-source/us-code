@@ -3,9 +3,9 @@ title: "Section 2437 - Civil penalties"
 usc_title: 16
 usc_section: "2437"
 chapter: 44
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 2437"
-generated_at: "2026-03-30T08:45:01.873Z"
+generated_at: "2026-03-30T08:47:12.027Z"
 status: "active"
 ---
 

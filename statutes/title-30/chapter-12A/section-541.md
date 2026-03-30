@@ -3,9 +3,9 @@ title: "Section 541 - Entry and location; filing of copy of notice of mining loc
 usc_title: 30
 usc_section: "541"
 chapter: 12
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "30 U.S.C. § 541"
-generated_at: "2026-03-30T08:45:16.201Z"
+generated_at: "2026-03-30T08:47:27.644Z"
 status: "active"
 ---
 

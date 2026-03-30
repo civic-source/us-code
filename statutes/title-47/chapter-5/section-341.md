@@ -3,9 +3,9 @@ title: "Section 341 - Carriage of television signals to certain subscribers"
 usc_title: 47
 usc_section: "341"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "47 U.S.C. § 341"
-generated_at: "2026-03-30T08:45:59.732Z"
+generated_at: "2026-03-30T08:48:08.382Z"
 status: "active"
 ---
 

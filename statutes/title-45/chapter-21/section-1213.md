@@ -3,9 +3,9 @@ title: "Section 1213 - Conflict with other laws"
 usc_title: 45
 usc_section: "1213"
 chapter: 21
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "45 U.S.C. § 1213"
-generated_at: "2026-03-30T08:45:35.519Z"
+generated_at: "2026-03-30T08:47:51.983Z"
 status: "active"
 ---
 

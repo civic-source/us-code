@@ -3,9 +3,9 @@ title: "Section 268 - Authority of Secretary to acquire lands for trailheads"
 usc_title: 16
 usc_section: "268"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 268"
-generated_at: "2026-03-30T08:45:01.706Z"
+generated_at: "2026-03-30T08:47:11.860Z"
 status: "active"
 ---
 

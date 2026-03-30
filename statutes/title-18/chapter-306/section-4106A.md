@@ -3,9 +3,9 @@ title: "Section 4106A - Transfer of offenders on parole; parole of offenders tra
 usc_title: 18
 usc_section: "4106A"
 chapter: 306
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 4106A"
-generated_at: "2026-03-30T08:44:56.949Z"
+generated_at: "2026-03-30T08:47:14.499Z"
 status: "active"
 ---
 

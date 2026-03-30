@@ -3,9 +3,9 @@ title: "Section 80 - Restoration of value of certain securities"
 usc_title: 26
 usc_section: "80"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 80"
-generated_at: "2026-03-30T08:45:23.351Z"
+generated_at: "2026-03-30T08:47:40.189Z"
 status: "active"
 ---
 

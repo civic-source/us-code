@@ -3,9 +3,9 @@ title: "Section 7205 - Fraudulent withholding exemption certificate or failure t
 usc_title: 26
 usc_section: "7205"
 chapter: 75
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 7205"
-generated_at: "2026-03-30T08:45:23.548Z"
+generated_at: "2026-03-30T08:47:40.387Z"
 status: "active"
 ---
 

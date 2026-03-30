@@ -3,9 +3,9 @@ title: "Section 2 - Minimum capital level"
 usc_title: 12
 usc_section: "2"
 chapter: 23
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T08:44:50.693Z"
+generated_at: "2026-03-30T08:47:02.976Z"
 status: "active"
 ---
 

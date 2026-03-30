@@ -3,9 +3,9 @@ title: "Section 1866 - Historic, archeologic, or prehistoric items and antiquiti
 usc_title: 18
 usc_section: "1866"
 chapter: 91
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 1866"
-generated_at: "2026-03-30T08:44:56.920Z"
+generated_at: "2026-03-30T08:47:14.470Z"
 status: "active"
 ---
 

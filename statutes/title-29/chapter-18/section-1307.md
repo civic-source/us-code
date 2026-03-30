@@ -3,9 +3,9 @@ title: "Section 1307 - Payment of premiums"
 usc_title: 29
 usc_section: "1307"
 chapter: 18
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "29 U.S.C. § 1307"
-generated_at: "2026-03-30T08:45:17.066Z"
+generated_at: "2026-03-30T08:47:29.607Z"
 status: "active"
 ---
 

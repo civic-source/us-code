@@ -3,9 +3,9 @@ title: "Section 266 - Repealed. Aug. 15, 1953, ch. 506, § 1 , 67 Stat. 590"
 usc_title: 25
 usc_section: "266"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 266"
-generated_at: "2026-03-30T08:45:12.507Z"
+generated_at: "2026-03-30T08:47:21.796Z"
 status: "repealed"
 ---
 

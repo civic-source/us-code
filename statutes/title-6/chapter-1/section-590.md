@@ -3,9 +3,9 @@ title: "Section 590 - Definitions"
 usc_title: 6
 usc_section: "590"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "6 U.S.C. § 590"
-generated_at: "2026-03-30T08:44:33.619Z"
+generated_at: "2026-03-30T08:46:46.687Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 283b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "283b"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 283b"
-generated_at: "2026-03-30T08:45:10.997Z"
+generated_at: "2026-03-30T08:47:25.264Z"
 status: "active"
 ---
 

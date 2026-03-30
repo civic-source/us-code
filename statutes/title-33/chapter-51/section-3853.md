@@ -3,9 +3,9 @@ title: "Section 3853 - Liability in rem"
 usc_title: 33
 usc_section: "3853"
 chapter: 51
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 3853"
-generated_at: "2026-03-30T08:45:27.745Z"
+generated_at: "2026-03-30T08:47:44.396Z"
 status: "active"
 ---
 

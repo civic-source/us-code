@@ -3,9 +3,9 @@ title: "Section 1905 - Definitions"
 usc_title: 29
 usc_section: "1905"
 chapter: 21
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "29 U.S.C. § 1905"
-generated_at: "2026-03-30T08:45:17.075Z"
+generated_at: "2026-03-30T08:47:29.616Z"
 status: "active"
 ---
 

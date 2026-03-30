@@ -3,9 +3,9 @@ title: "Section 1881e - Use of information acquired under this subchapter"
 usc_title: 50
 usc_section: "1881e"
 chapter: 36
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "50 U.S.C. § 1881e"
-generated_at: "2026-03-30T08:46:17.040Z"
+generated_at: "2026-03-30T08:48:10.825Z"
 status: "active"
 ---
 

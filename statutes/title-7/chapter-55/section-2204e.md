@@ -3,9 +3,9 @@ title: "Section 2204e - Office of Risk Assessment and Cost-Benefit Analysis"
 usc_title: 7
 usc_section: "2204e"
 chapter: 55
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 2204e"
-generated_at: "2026-03-30T08:44:38.722Z"
+generated_at: "2026-03-30T08:46:50.141Z"
 status: "active"
 ---
 

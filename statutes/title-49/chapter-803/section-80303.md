@@ -3,9 +3,9 @@ title: "Section 80303 - Seizure and forfeiture"
 usc_title: 49
 usc_section: "80303"
 chapter: 803
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 80303"
-generated_at: "2026-03-30T08:46:03.531Z"
+generated_at: "2026-03-30T08:48:12.949Z"
 status: "active"
 ---
 

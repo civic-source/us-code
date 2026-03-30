@@ -3,9 +3,9 @@ title: "Section 5 - Proliferation interdiction assistance"
 usc_title: 22
 usc_section: "5"
 chapter: 32
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 5"
-generated_at: "2026-03-30T08:45:11.039Z"
+generated_at: "2026-03-30T08:47:25.304Z"
 status: "active"
 ---
 

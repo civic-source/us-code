@@ -3,9 +3,9 @@ title: "Section 1465 - Appeals to the Secretary"
 usc_title: 16
 usc_section: "1465"
 chapter: 33
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 1465"
-generated_at: "2026-03-30T08:45:01.854Z"
+generated_at: "2026-03-30T08:47:12.008Z"
 status: "active"
 ---
 

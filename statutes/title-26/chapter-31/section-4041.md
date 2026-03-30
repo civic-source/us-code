@@ -3,9 +3,9 @@ title: "Section 4041 - Imposition of tax"
 usc_title: 26
 usc_section: "4041"
 chapter: 31
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 4041"
-generated_at: "2026-03-30T08:45:23.491Z"
+generated_at: "2026-03-30T08:47:40.329Z"
 status: "active"
 ---
 

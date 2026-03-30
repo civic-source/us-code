@@ -3,9 +3,9 @@ title: "Section 2501 - “Suspended entries of public lands” and “suspended 
 usc_title: 43
 usc_section: "2501"
 chapter: 43
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 2501"
-generated_at: "2026-03-30T08:45:34.975Z"
+generated_at: "2026-03-30T08:47:51.485Z"
 status: "active"
 ---
 

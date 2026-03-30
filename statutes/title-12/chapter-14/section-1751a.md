@@ -3,9 +3,9 @@ title: "Section 1751a - Omitted"
 usc_title: 12
 usc_section: "1751a"
 chapter: 14
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 1751a"
-generated_at: "2026-03-30T08:44:50.649Z"
+generated_at: "2026-03-30T08:47:02.931Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 49 - Construction with other laws"
 usc_title: 15
 usc_section: "49"
 chapter: 2
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "15 U.S.C. § 49"
-generated_at: "2026-03-30T08:44:52.594Z"
+generated_at: "2026-03-30T08:47:04.913Z"
 status: "active"
 ---
 

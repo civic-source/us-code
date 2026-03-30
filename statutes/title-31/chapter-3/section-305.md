@@ -3,9 +3,9 @@ title: "Section 305 - Federal Financing Bank"
 usc_title: 31
 usc_section: "305"
 chapter: 3
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "31 U.S.C. § 305"
-generated_at: "2026-03-30T08:45:26.198Z"
+generated_at: "2026-03-30T08:47:42.925Z"
 status: "active"
 ---
 

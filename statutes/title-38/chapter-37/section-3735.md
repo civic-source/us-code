@@ -3,9 +3,9 @@ title: "Section 3735 - Renumbered § 2041]"
 usc_title: 38
 usc_section: "3735"
 chapter: 37
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 3735"
-generated_at: "2026-03-30T08:45:31.701Z"
+generated_at: "2026-03-30T08:47:48.361Z"
 status: "renumbered"
 ---
 

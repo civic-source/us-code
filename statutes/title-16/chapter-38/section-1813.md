@@ -3,9 +3,9 @@ title: "Section 1813 - Omitted"
 usc_title: 16
 usc_section: "1813"
 chapter: 38
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 1813"
-generated_at: "2026-03-30T08:45:01.860Z"
+generated_at: "2026-03-30T08:47:12.015Z"
 status: "omitted"
 ---
 

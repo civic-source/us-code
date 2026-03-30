@@ -3,9 +3,9 @@ title: "Section 12101 - Findings and purpose"
 usc_title: 42
 usc_section: "12101"
 chapter: 126
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 12101"
-generated_at: "2026-03-30T08:45:54.942Z"
+generated_at: "2026-03-30T08:48:05.542Z"
 status: "active"
 ---
 

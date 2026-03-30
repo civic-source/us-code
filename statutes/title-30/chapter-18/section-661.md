@@ -3,9 +3,9 @@ title: "Section 661 - Short title; definitions"
 usc_title: 30
 usc_section: "661"
 chapter: 18
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "30 U.S.C. § 661"
-generated_at: "2026-03-30T08:45:16.203Z"
+generated_at: "2026-03-30T08:47:27.647Z"
 status: "active"
 ---
 

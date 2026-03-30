@@ -3,9 +3,9 @@ title: "Section 44803 - Unmanned aircraft test ranges"
 usc_title: 49
 usc_section: "44803"
 chapter: 448
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 44803"
-generated_at: "2026-03-30T08:46:03.500Z"
+generated_at: "2026-03-30T08:48:12.928Z"
 status: "active"
 ---
 

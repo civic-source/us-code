@@ -3,9 +3,9 @@ title: "Section 4136 - Foreign Service Grievance Board procedures"
 usc_title: 22
 usc_section: "4136"
 chapter: 52
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 4136"
-generated_at: "2026-03-30T08:45:11.081Z"
+generated_at: "2026-03-30T08:47:25.343Z"
 status: "active"
 ---
 

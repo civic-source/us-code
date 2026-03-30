@@ -3,9 +3,9 @@ title: "Section 5 - Water resources development projects involving navigation, f
 usc_title: 42
 usc_section: "5"
 chapter: 19
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T08:45:54.560Z"
+generated_at: "2026-03-30T08:48:05.312Z"
 status: "active"
 ---
 

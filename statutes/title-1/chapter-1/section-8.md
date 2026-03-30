@@ -3,9 +3,9 @@ title: "Section 8 - “Person”, “human being”, “child”, and “individ
 usc_title: 1
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "1 U.S.C. § 8"
-generated_at: "2026-03-30T08:44:19.934Z"
+generated_at: "2026-03-30T08:46:40.962Z"
 status: "active"
 ---
 

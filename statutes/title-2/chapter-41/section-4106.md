@@ -3,9 +3,9 @@ title: "Section 4106 - Stationery rooms of House and Senate; specification of cl
 usc_title: 2
 usc_section: "4106"
 chapter: 41
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "2 U.S.C. § 4106"
-generated_at: "2026-03-30T08:44:31.494Z"
+generated_at: "2026-03-30T08:46:42.292Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 476c - Travel and transportation allowances: members assigned to
 usc_title: 37
 usc_section: "476c"
 chapter: 8
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "37 U.S.C. § 476c"
-generated_at: "2026-03-30T08:45:29.737Z"
+generated_at: "2026-03-30T08:47:47.195Z"
 status: "active"
 ---
 

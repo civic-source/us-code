@@ -3,9 +3,9 @@ title: "Section 1589b - Establishment of income limitations for occupancy of hou
 usc_title: 42
 usc_section: "1589b"
 chapter: 9
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1589b"
-generated_at: "2026-03-30T08:45:54.521Z"
+generated_at: "2026-03-30T08:48:05.290Z"
 status: "active"
 ---
 

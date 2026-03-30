@@ -3,9 +3,9 @@ title: "Section 496 - Disposition of funds"
 usc_title: 16
 usc_section: "496"
 chapter: 2
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 496"
-generated_at: "2026-03-30T08:45:01.779Z"
+generated_at: "2026-03-30T08:47:11.932Z"
 status: "active"
 ---
 

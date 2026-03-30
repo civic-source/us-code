@@ -3,9 +3,9 @@ title: "Section 3193 - Establishment"
 usc_title: 29
 usc_section: "3193"
 chapter: 32
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "29 U.S.C. § 3193"
-generated_at: "2026-03-30T08:45:17.088Z"
+generated_at: "2026-03-30T08:47:29.627Z"
 status: "active"
 ---
 

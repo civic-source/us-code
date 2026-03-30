@@ -3,9 +3,9 @@ title: "Section 31101 - Definitions"
 usc_title: 49
 usc_section: "31101"
 chapter: 311
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 31101"
-generated_at: "2026-03-30T08:46:03.465Z"
+generated_at: "2026-03-30T08:48:12.902Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8621 - Home energy grants"
 usc_title: 42
 usc_section: "8621"
 chapter: 94
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 8621"
-generated_at: "2026-03-30T08:45:54.854Z"
+generated_at: "2026-03-30T08:48:05.489Z"
 status: "active"
 ---
 

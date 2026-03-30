@@ -3,9 +3,9 @@ title: "Section 3918 - Waiver of rights pursuant to written agreement"
 usc_title: 50
 usc_section: "3918"
 chapter: 50
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "50 U.S.C. § 3918"
-generated_at: "2026-03-30T08:46:17.075Z"
+generated_at: "2026-03-30T08:48:10.863Z"
 status: "active"
 ---
 

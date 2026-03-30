@@ -3,9 +3,9 @@ title: "Section 2212 - Appointment and supervision of Chief Executive Officer fo
 usc_title: 2
 usc_section: "2212"
 chapter: 31
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "2 U.S.C. § 2212"
-generated_at: "2026-03-30T08:44:31.494Z"
+generated_at: "2026-03-30T08:46:42.291Z"
 status: "active"
 ---
 

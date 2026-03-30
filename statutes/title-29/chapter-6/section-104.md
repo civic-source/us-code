@@ -3,9 +3,9 @@ title: "Section 104 - Enumeration of specific acts not subject to restraining or
 usc_title: 29
 usc_section: "104"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "29 U.S.C. § 104"
-generated_at: "2026-03-30T08:45:17.021Z"
+generated_at: "2026-03-30T08:47:29.564Z"
 status: "active"
 ---
 

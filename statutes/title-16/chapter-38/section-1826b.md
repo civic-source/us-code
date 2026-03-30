@@ -3,9 +3,9 @@ title: "Section 1826b - Duration of denial of port privileges and sanctions"
 usc_title: 16
 usc_section: "1826b"
 chapter: 38
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 1826b"
-generated_at: "2026-03-30T08:45:01.862Z"
+generated_at: "2026-03-30T08:47:12.017Z"
 status: "active"
 ---
 

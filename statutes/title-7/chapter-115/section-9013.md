@@ -3,9 +3,9 @@ title: "Section 9013 - Payment yields"
 usc_title: 7
 usc_section: "9013"
 chapter: 115
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 9013"
-generated_at: "2026-03-30T08:44:38.798Z"
+generated_at: "2026-03-30T08:46:50.224Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 301 - Fee agreements for certain services at ports of entry"
 usc_title: 6
 usc_section: "301"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "6 U.S.C. § 301"
-generated_at: "2026-03-30T08:44:33.607Z"
+generated_at: "2026-03-30T08:46:46.674Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1752 - Appeals from Federal district court transfer or transport
 usc_title: 20
 usc_section: "1752"
 chapter: 39
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 1752"
-generated_at: "2026-03-30T08:45:05.661Z"
+generated_at: "2026-03-30T08:47:18.139Z"
 status: "active"
 ---
 

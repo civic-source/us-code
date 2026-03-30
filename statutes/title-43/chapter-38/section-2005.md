@@ -3,9 +3,9 @@ title: "Section 2005 - Review schedule"
 usc_title: 43
 usc_section: "2005"
 chapter: 38
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 2005"
-generated_at: "2026-03-30T08:45:34.971Z"
+generated_at: "2026-03-30T08:47:51.482Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3509 - Omitted"
 usc_title: 12
 usc_section: "3509"
 chapter: 36
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 3509"
-generated_at: "2026-03-30T08:44:50.703Z"
+generated_at: "2026-03-30T08:47:02.987Z"
 status: "omitted"
 ---
 

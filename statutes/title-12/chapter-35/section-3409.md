@@ -3,9 +3,9 @@ title: "Section 3409 - Delayed notice"
 usc_title: 12
 usc_section: "3409"
 chapter: 35
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 3409"
-generated_at: "2026-03-30T08:44:50.702Z"
+generated_at: "2026-03-30T08:47:02.985Z"
 status: "active"
 ---
 

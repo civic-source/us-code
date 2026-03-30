@@ -3,9 +3,9 @@ title: "Section 7708 - Territorial participation"
 usc_title: 16
 usc_section: "7708"
 chapter: 96
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 7708"
-generated_at: "2026-03-30T08:45:01.916Z"
+generated_at: "2026-03-30T08:47:12.072Z"
 status: "active"
 ---
 

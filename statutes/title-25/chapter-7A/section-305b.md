@@ -3,9 +3,9 @@ title: "Section 305b - Rules and regulations; submission to Secretary of the Int
 usc_title: 25
 usc_section: "305b"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 305b"
-generated_at: "2026-03-30T08:45:12.508Z"
+generated_at: "2026-03-30T08:47:21.797Z"
 status: "active"
 ---
 

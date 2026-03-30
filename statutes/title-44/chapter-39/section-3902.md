@@ -3,9 +3,9 @@ title: "Section 3902 - Appointment of Inspector General; supervision; removal"
 usc_title: 44
 usc_section: "3902"
 chapter: 39
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "44 U.S.C. § 3902"
-generated_at: "2026-03-30T08:45:34.302Z"
+generated_at: "2026-03-30T08:47:50.653Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1366 - Annual report on criminal aliens"
 usc_title: 8
 usc_section: "1366"
 chapter: 12
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "8 U.S.C. § 1366"
-generated_at: "2026-03-30T08:44:45.030Z"
+generated_at: "2026-03-30T08:46:58.356Z"
 status: "active"
 ---
 

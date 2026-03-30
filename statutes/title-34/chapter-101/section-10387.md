@@ -3,9 +3,9 @@ title: "Section 10387 - Access to documents"
 usc_title: 34
 usc_section: "10387"
 chapter: 101
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "34 U.S.C. § 10387"
-generated_at: "2026-03-30T08:45:26.803Z"
+generated_at: "2026-03-30T08:47:43.549Z"
 status: "active"
 ---
 

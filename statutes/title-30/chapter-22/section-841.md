@@ -3,9 +3,9 @@ title: "Section 841 - Mandatory health standards for underground mines; enforcem
 usc_title: 30
 usc_section: "841"
 chapter: 22
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "30 U.S.C. § 841"
-generated_at: "2026-03-30T08:45:16.206Z"
+generated_at: "2026-03-30T08:47:27.649Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3321 - Competitive service; probationary period"
 usc_title: 5
 usc_section: "3321"
 chapter: 33
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "5 U.S.C. § 3321"
-generated_at: "2026-03-30T08:44:22.267Z"
+generated_at: "2026-03-30T08:46:44.222Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300jj - Definitions"
 usc_title: 42
 usc_section: "300jj"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 300jj"
-generated_at: "2026-03-30T08:45:54.183Z"
+generated_at: "2026-03-30T08:48:05.085Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ In this subchapter:
     - **(C)** does not constitute information blocking as defined in section 300jj–52(a) of this title .
   - **(10)** The term “laboratory” has the meaning given such term in section 263a(a) of this title .
   - **(11)** The term “National Coordinator” means the head of the Office of the National Coordinator for Health Information Technology established under section 300jj–11(a) of this title .
-  - **(12)** The term “pharmacist” has the meaning given such term in section 384(2) of title 21 .
+  - **(12)** The term “pharmacist” has the meaning given such term in section 384(2) 3 3 So in original. Probably should be “(a)(2)”. of title 21.
   - **(13)** The term “qualified electronic health record” means an electronic record of health-related information on an individual that—
     - **(A)** includes patient demographic and clinical health information, such as medical history and problem lists; and
     - **(B)** has the capacity—

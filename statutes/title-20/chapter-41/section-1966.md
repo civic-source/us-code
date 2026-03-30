@@ -3,9 +3,9 @@ title: "Section 1966 - Repealed. Pub. L. 95–561, title XV, § 1529 , Nov. 1, 1
 usc_title: 20
 usc_section: "1966"
 chapter: 41
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 1966"
-generated_at: "2026-03-30T08:45:05.661Z"
+generated_at: "2026-03-30T08:47:18.139Z"
 status: "repealed"
 ---
 

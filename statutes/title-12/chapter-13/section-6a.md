@@ -3,9 +3,9 @@ title: "Section 6a - Omitted"
 usc_title: 12
 usc_section: "6a"
 chapter: 13
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 6a"
-generated_at: "2026-03-30T08:44:50.648Z"
+generated_at: "2026-03-30T08:47:02.930Z"
 status: "omitted"
 ---
 

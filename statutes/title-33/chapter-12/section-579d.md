@@ -1,15 +1,15 @@
 ---
-title: "Section 579d - Deauthorization of inactive projects"
+title: "Section 579d - Deauthorization of inactive projects as of Public Law 114–322"
 usc_title: 33
 usc_section: "579d"
 chapter: 12
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 579d"
-generated_at: "2026-03-30T08:45:27.678Z"
+generated_at: "2026-03-30T08:47:44.331Z"
 status: "active"
 ---
 
-# § 579d. Deauthorization of inactive projects
+# § 579d. Deauthorization of inactive projects as of Public Law 114–322
 
 - **(a)** The purposes of this section are—
   - **(1)** to identify $10,000,000,000 in water resources development projects authorized by Congress that are no longer viable for construction due to—

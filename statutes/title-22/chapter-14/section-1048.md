@@ -3,9 +3,9 @@ title: "Section 1048 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1048"
 chapter: 14
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 1048"
-generated_at: "2026-03-30T08:45:11.012Z"
+generated_at: "2026-03-30T08:47:25.277Z"
 status: "repealed"
 ---
 

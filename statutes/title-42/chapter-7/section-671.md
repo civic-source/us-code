@@ -3,9 +3,9 @@ title: "Section 671 - State plan for foster care and adoption assistance"
 usc_title: 42
 usc_section: "671"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 671"
-generated_at: "2026-03-30T08:45:54.242Z"
+generated_at: "2026-03-30T08:48:05.122Z"
 status: "active"
 ---
 
@@ -122,7 +122,8 @@ status: "active"
     - **(A)** whether the State licensing standards are in accord with model standards identified by the Secretary, and if not, the reason for the specific deviation and a description as to why having a standard that is reasonably in accord with the corresponding national model standards is not appropriate for the State;
     - **(B)** whether the State has elected to waive standards established in 671(a)(10)(A) 3 3 So in original. Probably should be preceded by “section”. of this title for relative foster family homes (pursuant to waiver authority provided by 671(a)(10)(D) 3 of this title), a description of which standards the State most commonly waives, and if the State has not elected to waive the standards, the reason for not waiving these standards;
     - **(C)** if the State has elected to waive standards specified in subparagraph (B), how caseworkers are trained to use the waiver authority and whether the State has developed a process or provided tools to assist caseworkers in waiving nonsafety standards per the authority provided in 671(a)(10)(D) 3 of this title to quickly place children with relatives; and
-    - **(D)** a description of the steps the State is taking to improve caseworker training or the process, if any; and 4 4 Par. (37) added by Pub. L. 115–123 , see Amendment of Section note below.
+    - **(D)** a description of the steps the State is taking to improve caseworker training or the process, if any; and
+  - **(37)** includes a certification that, in response to the limitation imposed under section 672(k) of this title with respect to foster care maintenance payments made on behalf of any child who is placed in a setting that is not a foster family home, the State will not enact or advance policies or practices that would result in a significant increase in the population of youth in the State’s juvenile justice system.
 - **(b)** The Secretary shall approve any plan which complies with the provisions of subsection (a) of this section.
 - **(c)** Subsection (a)(8) shall not be construed to limit the flexibility of a State in determining State policies relating to public access to court proceedings to determine child abuse and neglect or other court hearings held pursuant to part B or this part, except that such policies shall, at a minimum, ensure the safety and well-being of the child, parents, and family.
 - **(d)** Not later than 4 years after September 29, 2014 , and annually thereafter, the Secretary shall report to the Congress and make available to the public on the Internet website of the Department of Health and Human Services the number of children and youth reported in accordance with subsection (a)(34)(B) of this section to be sex trafficking victims (as defined in section 675(9)(A) of this title ).

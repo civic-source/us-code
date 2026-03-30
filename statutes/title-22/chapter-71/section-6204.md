@@ -3,9 +3,9 @@ title: "Section 6204 - Authorities of Chief Executive Officer"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-30T08:45:11.098Z"
+generated_at: "2026-03-30T08:47:25.359Z"
 status: "active"
 ---
 

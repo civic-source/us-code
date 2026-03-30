@@ -3,9 +3,9 @@ title: "Section 6936 - Natural Resources Conservation Service"
 usc_title: 7
 usc_section: "6936"
 chapter: 98
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 6936"
-generated_at: "2026-03-30T08:44:38.766Z"
+generated_at: "2026-03-30T08:46:50.189Z"
 status: "active"
 ---
 

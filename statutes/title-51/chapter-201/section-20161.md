@@ -3,9 +3,9 @@ title: "Section 20161 - Congressional declaration of purpose and policy"
 usc_title: 51
 usc_section: "20161"
 chapter: 201
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "51 U.S.C. § 20161"
-generated_at: "2026-03-30T08:46:30.447Z"
+generated_at: "2026-03-30T08:48:16.525Z"
 status: "active"
 ---
 

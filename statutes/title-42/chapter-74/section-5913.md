@@ -3,9 +3,9 @@ title: "Section 5913 - Evaluation by National Institute of Standards and Technol
 usc_title: 42
 usc_section: "5913"
 chapter: 74
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 5913"
-generated_at: "2026-03-30T08:45:54.714Z"
+generated_at: "2026-03-30T08:48:05.404Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 649e - Promotions"
 usc_title: 10
 usc_section: "649e"
 chapter: 36
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 649e"
-generated_at: "2026-03-30T08:44:42.013Z"
+generated_at: "2026-03-30T08:46:53.601Z"
 status: "active"
 ---
 

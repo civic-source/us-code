@@ -3,9 +3,9 @@ title: "Section 257 - Arrest of seamen; procedure generally"
 usc_title: 22
 usc_section: "257"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 257"
-generated_at: "2026-03-30T08:45:10.987Z"
+generated_at: "2026-03-30T08:47:25.255Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14 - Structural integrity evaluations"
 usc_title: 33
 usc_section: "14"
 chapter: 15
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 14"
-generated_at: "2026-03-30T08:45:27.682Z"
+generated_at: "2026-03-30T08:47:44.336Z"
 status: "active"
 ---
 

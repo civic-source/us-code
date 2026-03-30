@@ -3,9 +3,9 @@ title: "Section 1572 - Definitions"
 usc_title: 8
 usc_section: "1572"
 chapter: 13
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "8 U.S.C. § 1572"
-generated_at: "2026-03-30T08:44:45.037Z"
+generated_at: "2026-03-30T08:46:58.363Z"
 status: "active"
 ---
 

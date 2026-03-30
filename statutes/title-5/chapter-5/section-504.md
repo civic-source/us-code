@@ -3,9 +3,9 @@ title: "Section 504 - Costs and fees of parties"
 usc_title: 5
 usc_section: "504"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "5 U.S.C. § 504"
-generated_at: "2026-03-30T08:44:22.254Z"
+generated_at: "2026-03-30T08:46:44.212Z"
 status: "active"
 ---
 

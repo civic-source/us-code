@@ -3,9 +3,9 @@ title: "Section 401 - Definitions"
 usc_title: 24
 usc_section: "401"
 chapter: 10
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "24 U.S.C. § 401"
-generated_at: "2026-03-30T08:45:07.609Z"
+generated_at: "2026-03-30T08:47:20.148Z"
 status: "active"
 ---
 

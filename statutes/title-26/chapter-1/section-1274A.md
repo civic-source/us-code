@@ -3,9 +3,9 @@ title: "Section 1274A - Special rules for certain transactions where stated prin
 usc_title: 26
 usc_section: "1274A"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 1274A"
-generated_at: "2026-03-30T08:45:23.464Z"
+generated_at: "2026-03-30T08:47:40.303Z"
 status: "active"
 ---
 

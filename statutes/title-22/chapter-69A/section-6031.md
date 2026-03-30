@@ -3,9 +3,9 @@ title: "Section 6031 - Statement of policy"
 usc_title: 22
 usc_section: "6031"
 chapter: 69
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 6031"
-generated_at: "2026-03-30T08:45:11.095Z"
+generated_at: "2026-03-30T08:47:25.357Z"
 status: "active"
 ---
 

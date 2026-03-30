@@ -3,9 +3,9 @@ title: "Section 1631 - Declaration of national emergency by Executive order; aut
 usc_title: 50
 usc_section: "1631"
 chapter: 34
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "50 U.S.C. § 1631"
-generated_at: "2026-03-30T08:46:17.033Z"
+generated_at: "2026-03-30T08:48:10.818Z"
 status: "active"
 ---
 

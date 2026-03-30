@@ -3,9 +3,9 @@ title: "Section 16062 - Domestic manufacturing conversion grant program"
 usc_title: 42
 usc_section: "16062"
 chapter: 149
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 16062"
-generated_at: "2026-03-30T08:45:55.023Z"
+generated_at: "2026-03-30T08:48:05.591Z"
 status: "active"
 ---
 

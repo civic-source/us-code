@@ -3,9 +3,9 @@ title: "Section 31106 - Restrictions"
 usc_title: 36
 usc_section: "31106"
 chapter: 311
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "36 U.S.C. § 31106"
-generated_at: "2026-03-30T08:45:30.358Z"
+generated_at: "2026-03-30T08:47:46.651Z"
 status: "active"
 ---
 

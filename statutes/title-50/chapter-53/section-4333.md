@@ -3,9 +3,9 @@ title: "Section 4333 - Taxes"
 usc_title: 50
 usc_section: "4333"
 chapter: 53
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "50 U.S.C. § 4333"
-generated_at: "2026-03-30T08:46:17.084Z"
+generated_at: "2026-03-30T08:48:10.872Z"
 status: "active"
 ---
 

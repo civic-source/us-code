@@ -3,9 +3,9 @@ title: "Section 6305 - Outstationing of counseling and outreach personnel"
 usc_title: 38
 usc_section: "6305"
 chapter: 63
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 6305"
-generated_at: "2026-03-30T08:45:31.712Z"
+generated_at: "2026-03-30T08:47:48.370Z"
 status: "active"
 ---
 

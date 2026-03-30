@@ -3,9 +3,9 @@ title: "Section 7104 - Contractor’s right of appeal from decision by contracti
 usc_title: 41
 usc_section: "7104"
 chapter: 71
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "41 U.S.C. § 7104"
-generated_at: "2026-03-30T08:45:33.988Z"
+generated_at: "2026-03-30T08:47:50.910Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3509 - Coordination of programs for handicapped"
 usc_title: 20
 usc_section: "3509"
 chapter: 48
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 3509"
-generated_at: "2026-03-30T08:45:05.670Z"
+generated_at: "2026-03-30T08:47:18.147Z"
 status: "active"
 ---
 

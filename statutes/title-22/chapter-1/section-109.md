@@ -3,9 +3,9 @@ title: "Section 109 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 22
 usc_section: "109"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 109"
-generated_at: "2026-03-30T08:45:10.987Z"
+generated_at: "2026-03-30T08:47:25.255Z"
 status: "repealed"
 ---
 

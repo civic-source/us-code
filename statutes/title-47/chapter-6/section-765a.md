@@ -3,9 +3,9 @@ title: "Section 765a - Signatory role"
 usc_title: 47
 usc_section: "765a"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "47 U.S.C. § 765a"
-generated_at: "2026-03-30T08:45:59.750Z"
+generated_at: "2026-03-30T08:48:08.395Z"
 status: "active"
 ---
 

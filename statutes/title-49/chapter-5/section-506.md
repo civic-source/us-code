@@ -3,9 +3,9 @@ title: "Section 506 - Authority to investigate"
 usc_title: 49
 usc_section: "506"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 506"
-generated_at: "2026-03-30T08:46:03.406Z"
+generated_at: "2026-03-30T08:48:12.861Z"
 status: "active"
 ---
 

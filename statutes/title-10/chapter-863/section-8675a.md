@@ -3,9 +3,9 @@ title: "Section 8675a - Vessels stricken from Naval Vessel Register: contracts f
 usc_title: 10
 usc_section: "8675a"
 chapter: 863
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 8675a"
-generated_at: "2026-03-30T08:44:42.119Z"
+generated_at: "2026-03-30T08:46:53.706Z"
 status: "active"
 ---
 

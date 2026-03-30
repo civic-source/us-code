@@ -3,9 +3,9 @@ title: "Section 2189 - Federally financed research"
 usc_title: 42
 usc_section: "2189"
 chapter: 23
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 2189"
-generated_at: "2026-03-30T08:45:54.591Z"
+generated_at: "2026-03-30T08:48:05.330Z"
 status: "active"
 ---
 

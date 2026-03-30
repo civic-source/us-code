@@ -3,9 +3,9 @@ title: "Section 16 - Transportation of Indians in Bureau vehicles"
 usc_title: 25
 usc_section: "16"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 16"
-generated_at: "2026-03-30T08:45:12.502Z"
+generated_at: "2026-03-30T08:47:21.792Z"
 status: "active"
 ---
 

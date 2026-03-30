@@ -3,9 +3,9 @@ title: "Section 3295 - Arson offenses"
 usc_title: 18
 usc_section: "3295"
 chapter: 213
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 3295"
-generated_at: "2026-03-30T08:44:56.939Z"
+generated_at: "2026-03-30T08:47:14.489Z"
 status: "active"
 ---
 

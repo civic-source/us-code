@@ -3,15 +3,15 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T08:45:54.476Z"
+generated_at: "2026-03-30T08:48:05.262Z"
 status: "active"
 ---
 
 # § 1397cc. Coverage requirements for children’s health insurance
 
-- **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
+- **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), (7), and (8) of subsection (c), of any of the following:
   - **(1)** Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
   - **(2)** Health benefits coverage that meets the following requirements:
     - **(A)** The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1).
@@ -31,6 +31,7 @@ status: "active"
     - **(B)** Physicians’ surgical and medical services.
     - **(C)** Laboratory and x-ray services.
     - **(D)** Well-baby and well-child care, including age-appropriate immunizations.
+    - **(E)** Mental health and substance use disorder services (as defined in paragraph (5)).
   - **(2)** For purposes of this section, the categories of additional services described in this paragraph are as follows:
     - **(A)** Coverage of prescription drugs.
     - **(B)** Vision services.
@@ -44,18 +45,21 @@ status: "active"
     - **(E)** applying the same principles and factors in comparing the value of different coverage (or categories of services);
     - **(F)** without taking into account any differences in coverage based on the method of delivery or means of cost control or utilization used; and
     - **(G)** taking into account the ability of a State to reduce benefits by taking into account the increase in actuarial value of benefits coverage offered under the State child health plan that results from the limitations on cost sharing under such coverage.
-  - **(5)**
+  - **(5)** Regardless of the type of coverage elected by a State under subsection (a), child health assistance provided under such coverage for targeted low-income children and, in the case that the State elects to provide pregnancy-related assistance under such coverage pursuant to section 1397 ll of this title, such pregnancy-related assistance for targeted low-income pregnant women (as defined in section 1397 ll (d) of this title) shall—
+    - **(A)** include coverage of mental health services (including behavioral health treatment) necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and
+    - **(B)** be delivered in a culturally and linguistically appropriate manner.
+  - **(6)**
     - **(A)** The child health assistance provided to a targeted low-income child shall include coverage of dental services necessary to prevent disease and promote oral health, restore oral structures to health and function, and treat emergency conditions.
     - **(B)** A State may elect to meet the requirement of subparagraph (A) through dental coverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
     - **(C)** The benchmark dental benefit packages are as follows:
       - **(i)** A dental benefits plan under chapter 89A of title 5 that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
       - **(ii)** A dental benefits plan that is offered and generally available to State employees in the State involved and that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
       - **(iii)** A dental benefits plan that has the largest insured commercial, non-medicaid enrollment of dependent covered lives of such plans that is offered in the State involved.
-  - **(6)**
-    - **(A)** In the case of a State child health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 2705(a) of the Public Health Service Act 1 1 See References in Text note below. in the same manner as such requirements apply to a group health plan.
+  - **(7)**
+    - **(A)** A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section.
     - **(B)** To the extent that a State child health plan includes coverage with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title ) and provided in accordance with section 1396a(a)(43) of this title , such plan shall be deemed to satisfy the requirements of subparagraph (A).
-  - **(7)** Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
-  - **(8)** Nothing in this subchapter shall be construed as limiting a State’s ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title ).
+  - **(8)** Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+  - **(9)** Nothing in this subchapter shall be construed as limiting a State’s ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title ).
 - **(d)**
   - **(1)** A program described in this paragraph is a child health coverage program that—
     - **(A)** includes coverage of a range of benefits;

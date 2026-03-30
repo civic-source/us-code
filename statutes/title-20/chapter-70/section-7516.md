@@ -3,9 +3,9 @@ title: "Section 7516 - Administrative provisions"
 usc_title: 20
 usc_section: "7516"
 chapter: 70
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 7516"
-generated_at: "2026-03-30T08:45:05.701Z"
+generated_at: "2026-03-30T08:47:18.178Z"
 status: "active"
 ---
 

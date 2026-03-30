@@ -3,9 +3,9 @@ title: "Section 505 - Use of national forests established on land reserved for p
 usc_title: 16
 usc_section: "505"
 chapter: 2
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 505"
-generated_at: "2026-03-30T08:45:01.780Z"
+generated_at: "2026-03-30T08:47:11.933Z"
 status: "active"
 ---
 

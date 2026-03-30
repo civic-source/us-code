@@ -3,9 +3,9 @@ title: "Section 1171 - International railroad security program"
 usc_title: 6
 usc_section: "1171"
 chapter: 4
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "6 U.S.C. § 1171"
-generated_at: "2026-03-30T08:44:33.636Z"
+generated_at: "2026-03-30T08:46:46.704Z"
 status: "active"
 ---
 

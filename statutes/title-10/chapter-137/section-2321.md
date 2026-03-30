@@ -3,9 +3,9 @@ title: "Section 2321 - Validation of proprietary data restrictions"
 usc_title: 10
 usc_section: "2321"
 chapter: 137
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 2321"
-generated_at: "2026-03-30T08:44:42.074Z"
+generated_at: "2026-03-30T08:46:53.660Z"
 status: "active"
 ---
 

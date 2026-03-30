@@ -3,9 +3,9 @@ title: "Section 1907 - Disclosure of information by farm credit examiner"
 usc_title: 18
 usc_section: "1907"
 chapter: 93
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 1907"
-generated_at: "2026-03-30T08:44:56.920Z"
+generated_at: "2026-03-30T08:47:14.470Z"
 status: "active"
 ---
 

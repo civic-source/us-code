@@ -3,9 +3,9 @@ title: "Section 1395k - Scope of benefits; definitions"
 usc_title: 42
 usc_section: "1395k"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1395k"
-generated_at: "2026-03-30T08:45:54.307Z"
+generated_at: "2026-03-30T08:48:05.163Z"
 status: "active"
 ---
 

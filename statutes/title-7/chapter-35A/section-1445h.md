@@ -3,9 +3,9 @@ title: "Section 1445h - Repealed. Pub. L. 104–127, title I, § 171(b)(2)(F) , 
 usc_title: 7
 usc_section: "1445h"
 chapter: 35
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 1445h"
-generated_at: "2026-03-30T08:44:38.674Z"
+generated_at: "2026-03-30T08:46:50.090Z"
 status: "repealed"
 ---
 

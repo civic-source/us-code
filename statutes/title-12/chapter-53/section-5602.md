@@ -3,9 +3,9 @@ title: "Section 5602 - Reverse mortgage study and regulations"
 usc_title: 12
 usc_section: "5602"
 chapter: 53
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 5602"
-generated_at: "2026-03-30T08:44:50.747Z"
+generated_at: "2026-03-30T08:47:03.033Z"
 status: "active"
 ---
 

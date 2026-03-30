@@ -3,9 +3,9 @@ title: "Section 8161 - Reservation of parking spaces for Members of Congress"
 usc_title: 40
 usc_section: "8161"
 chapter: 81
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "40 U.S.C. § 8161"
-generated_at: "2026-03-30T08:45:32.293Z"
+generated_at: "2026-03-30T08:47:48.775Z"
 status: "active"
 ---
 

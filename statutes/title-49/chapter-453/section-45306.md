@@ -3,9 +3,9 @@ title: "Section 45306 - Manual surcharge"
 usc_title: 49
 usc_section: "45306"
 chapter: 453
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 45306"
-generated_at: "2026-03-30T08:46:03.509Z"
+generated_at: "2026-03-30T08:48:12.934Z"
 status: "active"
 ---
 

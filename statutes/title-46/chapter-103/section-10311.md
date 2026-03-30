@@ -3,9 +3,9 @@ title: "Section 10311 - Certificates of discharge"
 usc_title: 46
 usc_section: "10311"
 chapter: 103
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "46 U.S.C. § 10311"
-generated_at: "2026-03-30T08:46:10.870Z"
+generated_at: "2026-03-30T08:48:09.579Z"
 status: "active"
 ---
 

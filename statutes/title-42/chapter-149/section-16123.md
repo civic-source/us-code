@@ -3,9 +3,9 @@ title: "Section 16123 - Federal procurement of stationary, portable, and micro f
 usc_title: 42
 usc_section: "16123"
 chapter: 149
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 16123"
-generated_at: "2026-03-30T08:45:55.027Z"
+generated_at: "2026-03-30T08:48:05.593Z"
 status: "active"
 ---
 

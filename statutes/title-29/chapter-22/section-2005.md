@@ -3,9 +3,9 @@ title: "Section 2005 - Enforcement provisions"
 usc_title: 29
 usc_section: "2005"
 chapter: 22
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "29 U.S.C. § 2005"
-generated_at: "2026-03-30T08:45:17.075Z"
+generated_at: "2026-03-30T08:47:29.617Z"
 status: "active"
 ---
 

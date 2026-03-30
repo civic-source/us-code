@@ -3,9 +3,9 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T08:45:54.487Z"
+generated_at: "2026-03-30T08:48:05.268Z"
 status: "active"
 ---
 
@@ -143,4 +143,4 @@ status: "active"
   - **(2)** A family described in this paragraph is a family that resides in a dwelling unit—
     - **(A)** that is a public housing dwelling unit;
     - **(B)** for which tenant-based assistance is provided under section 1437f of this title , 7 7 So in original. The comma probably should be a semicolon. or
-    - **(C)** for which project-based assistance is provided under section 1437f of this title , section 1437bb 8 8 See References in Text notes below. of this title, or section 811. 8
+    - **(C)** for which project-based assistance is provided under section 1437f of this title , section 1437bb 1 of this title, or section 811. 1

@@ -3,9 +3,9 @@ title: "Section 566 - Conduct of committee activity"
 usc_title: 5
 usc_section: "566"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "5 U.S.C. § 566"
-generated_at: "2026-03-30T08:44:22.258Z"
+generated_at: "2026-03-30T08:46:44.215Z"
 status: "active"
 ---
 

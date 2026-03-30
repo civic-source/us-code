@@ -3,9 +3,9 @@ title: "Section 16 - Address information reviewed by States and local government
 usc_title: 13
 usc_section: "16"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "13 U.S.C. § 16"
-generated_at: "2026-03-30T08:44:47.554Z"
+generated_at: "2026-03-30T08:46:59.986Z"
 status: "active"
 ---
 

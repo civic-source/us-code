@@ -3,9 +3,9 @@ title: "Section 1816 - Repealed. Pub. L. 89–321, title VI, § 601 , Nov. 3, 19
 usc_title: 7
 usc_section: "1816"
 chapter: 45
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 1816"
-generated_at: "2026-03-30T08:44:38.695Z"
+generated_at: "2026-03-30T08:46:50.112Z"
 status: "repealed"
 ---
 

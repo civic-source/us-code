@@ -3,9 +3,9 @@ title: "Section 306 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028"
 usc_title: 7
 usc_section: "306"
 chapter: 13
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 306"
-generated_at: "2026-03-30T08:44:38.647Z"
+generated_at: "2026-03-30T08:46:50.060Z"
 status: "repealed"
 ---
 

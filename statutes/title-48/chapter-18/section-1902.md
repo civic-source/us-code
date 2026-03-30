@@ -3,9 +3,9 @@ title: "Section 1902 - Agreements with Federated States of Micronesia"
 usc_title: 48
 usc_section: "1902"
 chapter: 18
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "48 U.S.C. § 1902"
-generated_at: "2026-03-30T08:45:59.107Z"
+generated_at: "2026-03-30T08:48:08.843Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3006 - Review committee"
 usc_title: 25
 usc_section: "3006"
 chapter: 32
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 3006"
-generated_at: "2026-03-30T08:45:12.549Z"
+generated_at: "2026-03-30T08:47:21.837Z"
 status: "active"
 ---
 

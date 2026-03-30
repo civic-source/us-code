@@ -3,9 +3,9 @@ title: "Section 5110 - Effective dates of awards"
 usc_title: 38
 usc_section: "5110"
 chapter: 51
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 5110"
-generated_at: "2026-03-30T08:45:31.708Z"
+generated_at: "2026-03-30T08:47:48.366Z"
 status: "active"
 ---
 

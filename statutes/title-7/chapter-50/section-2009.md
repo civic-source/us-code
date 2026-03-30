@@ -3,9 +3,9 @@ title: "Section 2009 - Definitions"
 usc_title: 7
 usc_section: "2009"
 chapter: 50
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 2009"
-generated_at: "2026-03-30T08:44:38.705Z"
+generated_at: "2026-03-30T08:46:50.123Z"
 status: "active"
 ---
 

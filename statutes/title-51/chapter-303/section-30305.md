@@ -3,9 +3,9 @@ title: "Section 30305 - Outreach program"
 usc_title: 51
 usc_section: "30305"
 chapter: 303
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "51 U.S.C. § 30305"
-generated_at: "2026-03-30T08:46:30.447Z"
+generated_at: "2026-03-30T08:48:16.526Z"
 status: "active"
 ---
 

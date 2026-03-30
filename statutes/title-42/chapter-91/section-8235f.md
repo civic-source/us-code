@@ -3,9 +3,9 @@ title: "Section 8235f - Application of other laws"
 usc_title: 42
 usc_section: "8235f"
 chapter: 91
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 8235f"
-generated_at: "2026-03-30T08:45:54.842Z"
+generated_at: "2026-03-30T08:48:05.482Z"
 status: "active"
 ---
 

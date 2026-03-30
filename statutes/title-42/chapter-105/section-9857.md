@@ -3,9 +3,9 @@ title: "Section 9857 - Short title and purposes"
 usc_title: 42
 usc_section: "9857"
 chapter: 105
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 9857"
-generated_at: "2026-03-30T08:45:54.894Z"
+generated_at: "2026-03-30T08:48:05.513Z"
 status: "active"
 ---
 

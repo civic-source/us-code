@@ -3,9 +3,9 @@ title: "Section 9535 - Repealed. Pub. L. 103–160, div. A, title VIII, § 823(4
 usc_title: 10
 usc_section: "9535"
 chapter: 963
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 9535"
-generated_at: "2026-03-30T08:44:42.128Z"
+generated_at: "2026-03-30T08:46:53.715Z"
 status: "repealed"
 ---
 

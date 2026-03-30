@@ -3,9 +3,9 @@ title: "Section 8342 - Repealed. Pub. L. 100–42, § 1(a)(2) , May 21, 1987 , 1
 usc_title: 42
 usc_section: "8342"
 chapter: 92
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 8342"
-generated_at: "2026-03-30T08:45:54.849Z"
+generated_at: "2026-03-30T08:48:05.485Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6901 - Purpose"
 usc_title: 7
 usc_section: "6901"
 chapter: 98
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 6901"
-generated_at: "2026-03-30T08:44:38.764Z"
+generated_at: "2026-03-30T08:46:50.186Z"
 status: "active"
 ---
 

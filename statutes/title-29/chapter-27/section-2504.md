@@ -3,9 +3,9 @@ title: "Section 2504 - Competitive grants"
 usc_title: 29
 usc_section: "2504"
 chapter: 27
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "29 U.S.C. § 2504"
-generated_at: "2026-03-30T08:45:17.076Z"
+generated_at: "2026-03-30T08:47:29.617Z"
 status: "active"
 ---
 

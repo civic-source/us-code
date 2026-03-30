@@ -3,9 +3,9 @@ title: "Section 1697 - Transportation of persons acting as private express"
 usc_title: 18
 usc_section: "1697"
 chapter: 83
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 1697"
-generated_at: "2026-03-30T08:44:56.917Z"
+generated_at: "2026-03-30T08:47:14.467Z"
 status: "active"
 ---
 

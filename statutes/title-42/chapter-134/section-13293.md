@@ -3,9 +3,9 @@ title: "Section 13293 - Protection of proprietary information"
 usc_title: 42
 usc_section: "13293"
 chapter: 134
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 13293"
-generated_at: "2026-03-30T08:45:54.988Z"
+generated_at: "2026-03-30T08:48:05.570Z"
 status: "active"
 ---
 

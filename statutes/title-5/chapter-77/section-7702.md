@@ -3,9 +3,9 @@ title: "Section 7702 - Actions involving discrimination"
 usc_title: 5
 usc_section: "7702"
 chapter: 77
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "5 U.S.C. § 7702"
-generated_at: "2026-03-30T08:44:22.294Z"
+generated_at: "2026-03-30T08:46:44.247Z"
 status: "active"
 ---
 

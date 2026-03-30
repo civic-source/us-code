@@ -3,9 +3,9 @@ title: "Section 1556 - Authorization of appropriations"
 usc_title: 2
 usc_section: "1556"
 chapter: 25
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "2 U.S.C. § 1556"
-generated_at: "2026-03-30T08:44:31.484Z"
+generated_at: "2026-03-30T08:46:42.281Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 83 - Transcripts of records as evidence"
 usc_title: 43
 usc_section: "83"
 chapter: 4
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 83"
-generated_at: "2026-03-30T08:45:34.917Z"
+generated_at: "2026-03-30T08:47:51.431Z"
 status: "active"
 ---
 

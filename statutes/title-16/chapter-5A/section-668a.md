@@ -3,9 +3,9 @@ title: "Section 668a - Taking and using of the bald and golden eagle for scienti
 usc_title: 16
 usc_section: "668a"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "16 U.S.C. § 668a"
-generated_at: "2026-03-30T08:45:01.799Z"
+generated_at: "2026-03-30T08:47:11.951Z"
 status: "active"
 ---
 

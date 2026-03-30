@@ -3,9 +3,9 @@ title: "Section 6948 - Federal assistance"
 usc_title: 42
 usc_section: "6948"
 chapter: 82
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 6948"
-generated_at: "2026-03-30T08:45:54.762Z"
+generated_at: "2026-03-30T08:48:05.433Z"
 status: "active"
 ---
 
@@ -21,9 +21,9 @@ status: "active"
       - **(i)** to be made available $15,000,000 out of funds appropriated for fiscal year 1985, and
       - **(ii)** to be appropriated for each of the fiscal years 1986 though 2 2 So in original. Probably should be “through”. 1988, $20,000,000 3 3 So in original. Probably should be followed by a comma.
   - **(3)**
-    - **(A)** There is authorized to be appropriated for the fiscal year beginning October 1, 1981 , and for each fiscal year thereafter before October 1, 1986 , $4,000,000 for purposes of making grants to States to carry out section 6943(b) 4 4 See References in Text note below. of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986 , or for any fiscal year thereafter.
-    - **(B)** Assistance provided by the Administrator under this paragraph shall be used only for the purposes specified in section 6943(b) 4 of this title. Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
-    - **(C)** Where appropriate, any State receiving assistance under this paragraph may make all or any part of such assistance available to municipalities within the State to carry out the activities specified in section 6943(b)(1)(A) and (B) 4 of this title.
+    - **(A)** There is authorized to be appropriated for the fiscal year beginning October 1, 1981 , and for each fiscal year thereafter before October 1, 1986 , $4,000,000 for purposes of making grants to States to carry out section 6943(b) 1 of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986 , or for any fiscal year thereafter.
+    - **(B)** Assistance provided by the Administrator under this paragraph shall be used only for the purposes specified in section 6943(b) 1 of this title. Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
+    - **(C)** Where appropriate, any State receiving assistance under this paragraph may make all or any part of such assistance available to municipalities within the State to carry out the activities specified in section 6943(b)(1)(A) and (B) 1 of this title.
 - **(b)** The sums appropriated in any fiscal year under subsection (a)(1) shall be allotted by the Administrator among all States, in the ratio that the population in each State bears to the population in all of the States, except that no State shall receive less than one-half of 1 per centum of the sums so allotted in any fiscal year. No State shall receive any grant under this section during any fiscal year when its expenditures of non-Federal funds for other than non-recurrent expenditures for solid waste management control programs will be less than its expenditures were for such programs during fiscal year 1975, except that such funds may be reduced by an amount equal to their proportionate share of any general reduction of State spending ordered by the Governor or legislature of such State. No State shall receive any grant for solid waste management programs unless the Administrator is satisfied that such grant will be so used as to supplement and, to the extent practicable, increase the level of State, local, regional, or other non-Federal funds that would in the absence of such grant be made available for the maintenance of such programs.
 - **(c)** The Federal assistance allotted to the States under subsection (b) shall be allocated by the State receiving such funds to State, local, regional, and interstate authorities carrying out planning and implementation of the State plan. Such allocation shall be based upon the responsibilities of the respective parties as determined pursuant to section 6946(b) of this title .
 - **(d)**
@@ -42,6 +42,6 @@ status: "active"
   - **(3)** No grant may be made under this subsection unless an application therefor is submitted to, and approved by, the Administrator. The application shall be in such form, be submitted in such manner, and contain such information as the Administrator may require.
   - **(4)** For purposes of making grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1982, $5,000,000 for fiscal year 1983, and $5,000,000 for each of the fiscal years 1985 through 1988.
 - **(g)**
-  - **(1)** The Administrator is authorized to make grants to municipalities, regional authorities, and intermunicipal agencies to carry out activities described in subparagraphs (A) and (B) of section 6943(b)(1) 5 5 See References in Text note below. of this title. Such grants may be made only pursuant to an application submitted to the Administrator by the municipality which application has been approved by the State and determined by the State to be consistent with any State plan approved or submitted under this subchapter or any other appropriate planning carried out by the State.
+  - **(1)** The Administrator is authorized to make grants to municipalities, regional authorities, and intermunicipal agencies to carry out activities described in subparagraphs (A) and (B) of section 6943(b)(1) 1 of this title. Such grants may be made only pursuant to an application submitted to the Administrator by the municipality which application has been approved by the State and determined by the State to be consistent with any State plan approved or submitted under this subchapter or any other appropriate planning carried out by the State.
   - **(2)** There is authorized to be appropriated for the fiscal year beginning October 1, 1981 , and for each fiscal year thereafter before October 1, 1986 , $8,000,000 for purposes of making grants to municipalities under this subsection. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986 , or for any fiscal year thereafter.
   - **(3)** Assistance provided by the Administrator under this subsection shall be used only for the purposes specified in paragraph (1). Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.

@@ -3,9 +3,9 @@ title: "Section 337 - Allocation and assignment of new public safety services li
 usc_title: 47
 usc_section: "337"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "47 U.S.C. § 337"
-generated_at: "2026-03-30T08:45:59.728Z"
+generated_at: "2026-03-30T08:48:08.381Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2505 - Research and development"
 usc_title: 15
 usc_section: "2505"
 chapter: 52
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "15 U.S.C. § 2505"
-generated_at: "2026-03-30T08:44:52.692Z"
+generated_at: "2026-03-30T08:47:05.007Z"
 status: "active"
 ---
 

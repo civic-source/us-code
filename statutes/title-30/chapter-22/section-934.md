@@ -3,9 +3,9 @@ title: "Section 934 - “Fund” defined; liability of operators to United State
 usc_title: 30
 usc_section: "934"
 chapter: 22
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "30 U.S.C. § 934"
-generated_at: "2026-03-30T08:45:16.209Z"
+generated_at: "2026-03-30T08:47:27.652Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1081 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 2
 usc_title: 43
 usc_section: "1081"
 chapter: 26
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "43 U.S.C. § 1081"
-generated_at: "2026-03-30T08:45:34.946Z"
+generated_at: "2026-03-30T08:47:51.457Z"
 status: "repealed"
 ---
 

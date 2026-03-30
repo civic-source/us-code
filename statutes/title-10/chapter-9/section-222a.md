@@ -3,9 +3,9 @@ title: "Section 222a - Unfunded priorities of the armed forces and combatant com
 usc_title: 10
 usc_section: "222a"
 chapter: 9
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 222a"
-generated_at: "2026-03-30T08:44:42.000Z"
+generated_at: "2026-03-30T08:46:53.587Z"
 status: "active"
 ---
 

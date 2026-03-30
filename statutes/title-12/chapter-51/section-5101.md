@@ -3,9 +3,9 @@ title: "Section 5101 - Purposes and methods for establishing a mortgage licensin
 usc_title: 12
 usc_section: "5101"
 chapter: 51
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 5101"
-generated_at: "2026-03-30T08:44:50.725Z"
+generated_at: "2026-03-30T08:47:03.010Z"
 status: "active"
 ---
 

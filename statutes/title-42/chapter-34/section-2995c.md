@@ -3,9 +3,9 @@ title: "Section 2995c - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13
 usc_title: 42
 usc_section: "2995c"
 chapter: 34
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 2995c"
-generated_at: "2026-03-30T08:45:54.612Z"
+generated_at: "2026-03-30T08:48:05.342Z"
 status: "repealed"
 ---
 

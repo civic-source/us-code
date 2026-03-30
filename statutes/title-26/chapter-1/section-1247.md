@@ -3,9 +3,9 @@ title: "Section 1247 - Repealed. Pub. L. 108–357, title IV, § 413(a)(2) , (3)
 usc_title: 26
 usc_section: "1247"
 chapter: 1
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 1247"
-generated_at: "2026-03-30T08:45:23.462Z"
+generated_at: "2026-03-30T08:47:40.300Z"
 status: "repealed"
 ---
 

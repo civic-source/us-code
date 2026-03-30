@@ -3,9 +3,9 @@ title: "Section 1231f - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oc
 usc_title: 20
 usc_section: "1231f"
 chapter: 31
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 1231f"
-generated_at: "2026-03-30T08:45:05.648Z"
+generated_at: "2026-03-30T08:47:18.126Z"
 status: "repealed"
 ---
 

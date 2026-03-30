@@ -3,9 +3,9 @@ title: "Section 763c - Repealed. Pub. L. 93–222, § 7(b) , Dec. 29, 1973 , 87 
 usc_title: 33
 usc_section: "763c"
 chapter: 16
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "33 U.S.C. § 763c"
-generated_at: "2026-03-30T08:45:27.686Z"
+generated_at: "2026-03-30T08:47:44.339Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3635 - Definitions"
 usc_title: 18
 usc_section: "3635"
 chapter: 229
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 3635"
-generated_at: "2026-03-30T08:44:56.947Z"
+generated_at: "2026-03-30T08:47:14.496Z"
 status: "active"
 ---
 

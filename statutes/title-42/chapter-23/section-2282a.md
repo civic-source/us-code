@@ -3,9 +3,9 @@ title: "Section 2282a - Civil monetary penalties for violation of Department of 
 usc_title: 42
 usc_section: "2282a"
 chapter: 23
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 2282a"
-generated_at: "2026-03-30T08:45:54.599Z"
+generated_at: "2026-03-30T08:48:05.334Z"
 status: "active"
 ---
 

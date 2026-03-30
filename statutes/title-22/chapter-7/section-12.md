@@ -3,9 +3,9 @@ title: "Section 12 - Additional authorization for payment of United States contr
 usc_title: 22
 usc_section: "12"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 12"
-generated_at: "2026-03-30T08:45:11.006Z"
+generated_at: "2026-03-30T08:47:25.272Z"
 status: "active"
 ---
 

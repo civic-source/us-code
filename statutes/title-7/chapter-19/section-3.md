@@ -3,9 +3,9 @@ title: "Section 3 - Liability of principal for act of agent"
 usc_title: 7
 usc_section: "3"
 chapter: 19
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T08:44:38.650Z"
+generated_at: "2026-03-30T08:46:50.065Z"
 status: "active"
 ---
 

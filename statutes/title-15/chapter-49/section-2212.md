@@ -3,9 +3,9 @@ title: "Section 2212 - Fire safety effectiveness statements"
 usc_title: 15
 usc_section: "2212"
 chapter: 49
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "15 U.S.C. § 2212"
-generated_at: "2026-03-30T08:44:52.687Z"
+generated_at: "2026-03-30T08:47:05.003Z"
 status: "active"
 ---
 

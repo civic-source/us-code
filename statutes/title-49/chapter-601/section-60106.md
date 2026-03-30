@@ -3,9 +3,9 @@ title: "Section 60106 - State pipeline safety agreements"
 usc_title: 49
 usc_section: "60106"
 chapter: 601
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 60106"
-generated_at: "2026-03-30T08:46:03.525Z"
+generated_at: "2026-03-30T08:48:12.945Z"
 status: "active"
 ---
 

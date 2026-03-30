@@ -3,9 +3,9 @@ title: "Section 136w - Authority of Administrator"
 usc_title: 7
 usc_section: "136w"
 chapter: 6
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 136w"
-generated_at: "2026-03-30T08:44:38.634Z"
+generated_at: "2026-03-30T08:46:50.046Z"
 status: "active"
 ---
 

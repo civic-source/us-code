@@ -3,9 +3,9 @@ title: "Section 205 - Activities of officers and employees in claims against and
 usc_title: 18
 usc_section: "205"
 chapter: 11
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "18 U.S.C. § 205"
-generated_at: "2026-03-30T08:44:56.894Z"
+generated_at: "2026-03-30T08:47:14.443Z"
 status: "active"
 ---
 

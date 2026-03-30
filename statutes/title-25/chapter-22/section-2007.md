@@ -3,9 +3,9 @@ title: "Section 2007 - Allotment formula"
 usc_title: 25
 usc_section: "2007"
 chapter: 22
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "25 U.S.C. § 2007"
-generated_at: "2026-03-30T08:45:12.536Z"
+generated_at: "2026-03-30T08:47:21.825Z"
 status: "active"
 ---
 

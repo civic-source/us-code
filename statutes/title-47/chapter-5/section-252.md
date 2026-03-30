@@ -3,9 +3,9 @@ title: "Section 252 - Procedures for negotiation, arbitration, and approval of a
 usc_title: 47
 usc_section: "252"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "47 U.S.C. § 252"
-generated_at: "2026-03-30T08:45:59.716Z"
+generated_at: "2026-03-30T08:48:08.373Z"
 status: "active"
 ---
 

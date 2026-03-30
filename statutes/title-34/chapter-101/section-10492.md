@@ -3,9 +3,9 @@ title: "Section 10492 - General authorization"
 usc_title: 34
 usc_section: "10492"
 chapter: 101
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "34 U.S.C. § 10492"
-generated_at: "2026-03-30T08:45:26.806Z"
+generated_at: "2026-03-30T08:47:43.552Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 170109 - Service of process"
 usc_title: 36
 usc_section: "170109"
 chapter: 1701
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "36 U.S.C. § 170109"
-generated_at: "2026-03-30T08:45:30.368Z"
+generated_at: "2026-03-30T08:47:46.661Z"
 status: "active"
 ---
 

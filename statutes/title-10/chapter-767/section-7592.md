@@ -3,9 +3,9 @@ title: "Section 7592 - Radiograms and telegrams: forwarding charges due connecti
 usc_title: 10
 usc_section: "7592"
 chapter: 767
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 7592"
-generated_at: "2026-03-30T08:44:42.111Z"
+generated_at: "2026-03-30T08:46:53.698Z"
 status: "active"
 ---
 

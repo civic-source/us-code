@@ -3,9 +3,9 @@ title: "Section 148 - Repealed. Oct. 31, 1951, ch. 654, § 1(l) , 65 Stat. 701"
 usc_title: 2
 usc_section: "148"
 chapter: 5
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "2 U.S.C. § 148"
-generated_at: "2026-03-30T08:44:31.460Z"
+generated_at: "2026-03-30T08:46:42.259Z"
 status: "repealed"
 ---
 

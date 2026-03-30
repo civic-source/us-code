@@ -3,9 +3,9 @@ title: "Section 1395j - Establishment of supplementary medical insurance program
 usc_title: 42
 usc_section: "1395j"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1395j"
-generated_at: "2026-03-30T08:45:54.307Z"
+generated_at: "2026-03-30T08:48:05.163Z"
 status: "active"
 ---
 

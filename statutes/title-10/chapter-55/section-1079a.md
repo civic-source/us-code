@@ -3,9 +3,9 @@ title: "Section 1079a - TRICARE program: treatment of refunds and other amounts 
 usc_title: 10
 usc_section: "1079a"
 chapter: 55
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 1079a"
-generated_at: "2026-03-30T08:44:42.035Z"
+generated_at: "2026-03-30T08:46:53.623Z"
 status: "active"
 ---
 

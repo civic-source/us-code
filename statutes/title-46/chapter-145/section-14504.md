@@ -3,9 +3,9 @@ title: "Section 14504 - Remeasurement"
 usc_title: 46
 usc_section: "14504"
 chapter: 145
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "46 U.S.C. § 14504"
-generated_at: "2026-03-30T08:46:10.875Z"
+generated_at: "2026-03-30T08:48:09.583Z"
 status: "active"
 ---
 

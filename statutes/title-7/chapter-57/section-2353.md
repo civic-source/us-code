@@ -3,9 +3,9 @@ title: "Section 2353 - Testimony in Plant Variety Protection Office cases"
 usc_title: 7
 usc_section: "2353"
 chapter: 57
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "7 U.S.C. § 2353"
-generated_at: "2026-03-30T08:44:38.727Z"
+generated_at: "2026-03-30T08:46:50.146Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6303 - Prohibition on assisting nuclear proliferation through pr
 usc_title: 22
 usc_section: "6303"
 chapter: 72
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 6303"
-generated_at: "2026-03-30T08:45:11.099Z"
+generated_at: "2026-03-30T08:47:25.361Z"
 status: "active"
 ---
 

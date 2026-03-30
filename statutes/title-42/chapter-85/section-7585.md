@@ -3,9 +3,9 @@ title: "Section 7585 - Standards for heavy-duty clean-fuel vehicles (GVWR above 
 usc_title: 42
 usc_section: "7585"
 chapter: 85
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 7585"
-generated_at: "2026-03-30T08:45:54.817Z"
+generated_at: "2026-03-30T08:48:05.466Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1511 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(k) 
 usc_title: 50
 usc_section: "1511"
 chapter: 32
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "50 U.S.C. § 1511"
-generated_at: "2026-03-30T08:46:17.031Z"
+generated_at: "2026-03-30T08:48:10.817Z"
 status: "repealed"
 ---
 

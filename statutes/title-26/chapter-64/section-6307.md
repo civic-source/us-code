@@ -3,9 +3,9 @@ title: "Section 6307 - Special compliance personnel program account"
 usc_title: 26
 usc_section: "6307"
 chapter: 64
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "26 U.S.C. § 6307"
-generated_at: "2026-03-30T08:45:23.533Z"
+generated_at: "2026-03-30T08:47:40.372Z"
 status: "active"
 ---
 

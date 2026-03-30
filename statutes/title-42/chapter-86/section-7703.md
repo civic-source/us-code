@@ -3,9 +3,9 @@ title: "Section 7703 - Definitions"
 usc_title: 42
 usc_section: "7703"
 chapter: 86
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 7703"
-generated_at: "2026-03-30T08:45:54.832Z"
+generated_at: "2026-03-30T08:48:05.476Z"
 status: "active"
 ---
 

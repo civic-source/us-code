@@ -3,9 +3,9 @@ title: "Section 1c - Regulation of rents in insured projects"
 usc_title: 12
 usc_section: "1c"
 chapter: 13
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "12 U.S.C. § 1c"
-generated_at: "2026-03-30T08:44:50.637Z"
+generated_at: "2026-03-30T08:47:02.919Z"
 status: "active"
 ---
 

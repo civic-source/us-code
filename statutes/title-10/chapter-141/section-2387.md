@@ -3,9 +3,9 @@ title: "Section 2387 - Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b
 usc_title: 10
 usc_section: "2387"
 chapter: 141
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 2387"
-generated_at: "2026-03-30T08:44:42.081Z"
+generated_at: "2026-03-30T08:46:53.668Z"
 status: "repealed"
 ---
 

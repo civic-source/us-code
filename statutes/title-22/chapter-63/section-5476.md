@@ -3,9 +3,9 @@ title: "Section 5476 - Notifications to Congress regarding assistance"
 usc_title: 22
 usc_section: "5476"
 chapter: 63
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "22 U.S.C. § 5476"
-generated_at: "2026-03-30T08:45:11.091Z"
+generated_at: "2026-03-30T08:47:25.353Z"
 status: "active"
 ---
 

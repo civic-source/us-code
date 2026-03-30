@@ -3,9 +3,9 @@ title: "Section 6400 - Limitation on loan guarantees"
 usc_title: 42
 usc_section: "6400"
 chapter: 77
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 6400"
-generated_at: "2026-03-30T08:45:54.743Z"
+generated_at: "2026-03-30T08:48:05.420Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7430 - Emission factors"
 usc_title: 42
 usc_section: "7430"
 chapter: 85
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 7430"
-generated_at: "2026-03-30T08:45:54.798Z"
+generated_at: "2026-03-30T08:48:05.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7371 - Army War College and United States Army Command and Gener
 usc_title: 10
 usc_section: "7371"
 chapter: 747
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 7371"
-generated_at: "2026-03-30T08:44:42.108Z"
+generated_at: "2026-03-30T08:46:53.695Z"
 status: "active"
 ---
 

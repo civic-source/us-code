@@ -3,9 +3,9 @@ title: "Section 3674A - Evaluations of agency performance; qualifications and pe
 usc_title: 38
 usc_section: "3674A"
 chapter: 36
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 3674A"
-generated_at: "2026-03-30T08:45:31.695Z"
+generated_at: "2026-03-30T08:47:48.356Z"
 status: "active"
 ---
 

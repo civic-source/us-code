@@ -3,9 +3,9 @@ title: "Section 5303 - Certain bars to benefits"
 usc_title: 38
 usc_section: "5303"
 chapter: 53
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "38 U.S.C. § 5303"
-generated_at: "2026-03-30T08:45:31.709Z"
+generated_at: "2026-03-30T08:47:48.367Z"
 status: "active"
 ---
 

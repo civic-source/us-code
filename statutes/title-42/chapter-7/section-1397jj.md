@@ -3,9 +3,9 @@ title: "Section 1397jj - Definitions"
 usc_title: 42
 usc_section: "1397jj"
 chapter: 7
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "42 U.S.C. § 1397jj"
-generated_at: "2026-03-30T08:45:54.482Z"
+generated_at: "2026-03-30T08:48:05.266Z"
 status: "active"
 ---
 
@@ -29,8 +29,8 @@ status: "active"
   - **(15)** Nursing care services (such as nurse practitioner services, nurse midwife services, advanced practice nurse services, private duty nursing care, pediatric nurse services, and respiratory care services) in a home, school, or other setting.
   - **(16)** Abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest.
   - **(17)** Dental services.
-  - **(18)** Inpatient substance abuse treatment services and residential substance abuse treatment services.
-  - **(19)** Outpatient substance abuse treatment services.
+  - **(18)** Inpatient substance use treatment services and residential substance use treatment services.
+  - **(19)** Outpatient substance use treatment services.
   - **(20)** Case management services.
   - **(21)** Care coordination services.
   - **(22)** Physical therapy, occupational therapy, and services for individuals with speech, hearing, and language disorders.
@@ -60,7 +60,7 @@ status: "active"
   - **(4)** The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title ), as of March 31, 1997 , for the child to be eligible for medical assistance under section 1396a( l )(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
   - **(5)**
     - **(A)** Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in a group health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
-      - **(i)** dental coverage consistent with the requirements of subsection (c)(5) of section 1397cc of this title ; or
+      - **(i)** dental coverage consistent with the requirements of subsection (c)(6) of section 1397cc of this title ; or
       - **(ii)** cost-sharing protection for dental coverage consistent with such requirements and the requirements of subsection (e)(3)(B) of such section.
     - **(B)** A State may limit the application of a waiver of paragraph (1)(C) to children whose family income does not exceed a level specified by the State, so long as the level so specified does not exceed the maximum income level otherwise established for other children under the State child health plan.
     - **(C)** A State may not offer dental-only supplemental coverage under this paragraph unless the State satisfies the following conditions:

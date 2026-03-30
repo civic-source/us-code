@@ -3,9 +3,9 @@ title: "Section 2422 - Bakery and dairy products: procurement outside the United
 usc_title: 10
 usc_section: "2422"
 chapter: 143
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "10 U.S.C. § 2422"
-generated_at: "2026-03-30T08:44:42.083Z"
+generated_at: "2026-03-30T08:46:53.671Z"
 status: "active"
 ---
 

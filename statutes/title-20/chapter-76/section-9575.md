@@ -3,9 +3,9 @@ title: "Section 9575 - Performance management"
 usc_title: 20
 usc_section: "9575"
 chapter: 76
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "20 U.S.C. § 9575"
-generated_at: "2026-03-30T08:45:05.714Z"
+generated_at: "2026-03-30T08:47:18.191Z"
 status: "active"
 ---
 

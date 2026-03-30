@@ -3,9 +3,9 @@ title: "Section 40103 - Sovereignty and use of airspace"
 usc_title: 49
 usc_section: "40103"
 chapter: 401
-current_through: "PL 116-65"
+current_through: "PL 116-68"
 classification: "49 U.S.C. § 40103"
-generated_at: "2026-03-30T08:46:03.481Z"
+generated_at: "2026-03-30T08:48:12.913Z"
 status: "active"
 ---
 
