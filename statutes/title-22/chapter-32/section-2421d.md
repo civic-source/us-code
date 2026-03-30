@@ -3,9 +3,9 @@ title: "Section 2421d - Funding for capital projects"
 usc_title: 22
 usc_section: "2421d"
 chapter: 32
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 2421d"
-generated_at: "2026-03-30T00:57:39.020Z"
+generated_at: "2026-03-30T01:04:13.289Z"
 ---
 
 # § 2421d. Funding for capital projects

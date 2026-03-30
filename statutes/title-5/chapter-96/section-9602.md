@@ -3,9 +3,9 @@ title: "Section 9602 - Competitive service; time-limited appointments"
 usc_title: 5
 usc_section: "9602"
 chapter: 96
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 9602"
-generated_at: "2026-03-30T00:55:37.211Z"
+generated_at: "2026-03-30T01:01:03.976Z"
 ---
 
 # § 9602. Competitive service; time-limited appointments

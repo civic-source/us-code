@@ -3,9 +3,9 @@ title: "Section 2687 - Use of appropriated funds for unusual expenses of United 
 usc_title: 22
 usc_section: "2687"
 chapter: 38
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 2687"
-generated_at: "2026-03-30T00:57:39.038Z"
+generated_at: "2026-03-30T01:04:13.305Z"
 ---
 
 # § 2687. Use of appropriated funds for unusual expenses of United States Representative to Organization of American States

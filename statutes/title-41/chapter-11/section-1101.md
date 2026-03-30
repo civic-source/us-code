@@ -3,9 +3,9 @@ title: "Section 1101 - Office of Federal Procurement Policy"
 usc_title: 41
 usc_section: "1101"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "41 U.S.C. § 1101"
-generated_at: "2026-03-30T00:58:51.580Z"
+generated_at: "2026-03-30T01:05:55.472Z"
 ---
 
 # § 1101. Office of Federal Procurement Policy

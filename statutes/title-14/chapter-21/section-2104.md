@@ -3,9 +3,9 @@ title: "Section 2104 - Appointment of temporary officers"
 usc_title: 14
 usc_section: "2104"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "14 U.S.C. § 2104"
-generated_at: "2026-03-30T00:56:49.007Z"
+generated_at: "2026-03-30T01:02:26.325Z"
 ---
 
 # § 2104. Appointment of temporary officers

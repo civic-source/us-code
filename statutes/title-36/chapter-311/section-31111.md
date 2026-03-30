@@ -3,9 +3,9 @@ title: "Section 31111 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "31111"
 chapter: 311
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "36 U.S.C. § 31111"
-generated_at: "2026-03-30T00:58:46.696Z"
+generated_at: "2026-03-30T01:05:07.452Z"
 ---
 
 # § 31111. Distribution of assets on dissolution or final liquidation

@@ -3,9 +3,9 @@ title: "Section 11b - Dalecarlia Reservoir; delivery of water to metropolitan Ma
 usc_title: 42
 usc_section: "11b"
 chapter: 19
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 11b"
-generated_at: "2026-03-30T00:59:31.181Z"
+generated_at: "2026-03-30T01:05:41.109Z"
 ---
 
 # § 1962d–11b. Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local authorities in Maryland or Virginia

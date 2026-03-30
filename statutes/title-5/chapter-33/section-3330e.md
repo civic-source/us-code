@@ -3,9 +3,9 @@ title: "Section 3330e - Review of official personnel file of former Federal empl
 usc_title: 5
 usc_section: "3330e"
 chapter: 33
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 3330e"
-generated_at: "2026-03-30T00:55:37.155Z"
+generated_at: "2026-03-30T01:01:03.902Z"
 ---
 
 # § 3330e. Review of official personnel file of former Federal employees before rehiring

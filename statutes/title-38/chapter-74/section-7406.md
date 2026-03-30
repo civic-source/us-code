@@ -3,9 +3,9 @@ title: "Section 7406 - Residencies and internships"
 usc_title: 38
 usc_section: "7406"
 chapter: 74
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 7406"
-generated_at: "2026-03-30T00:58:40.913Z"
+generated_at: "2026-03-30T01:05:11.450Z"
 ---
 
 # § 7406. Residencies and internships

@@ -3,9 +3,9 @@ title: "Section 6027 - Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 3
 usc_title: 42
 usc_section: "6027"
 chapter: 75
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 6027"
-generated_at: "2026-03-30T00:59:31.321Z"
+generated_at: "2026-03-30T01:05:41.243Z"
 ---
 
 # §§ 6024 to 6027. Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 30, 2000 , 114 Stat. 1737

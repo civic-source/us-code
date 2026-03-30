@@ -3,9 +3,9 @@ title: "Section 3223 - Director: review of cost estimates, cost analyses, and re
 usc_title: 10
 usc_section: "3223"
 chapter: 222
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 3223"
-generated_at: "2026-03-30T00:56:33.208Z"
+generated_at: "2026-03-30T01:02:06.154Z"
 ---
 
 # § 3223. Director: review of cost estimates, cost analyses, and records of the military departments and Defense Agencies

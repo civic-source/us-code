@@ -3,9 +3,9 @@ title: "Section 1070g - Definitions"
 usc_title: 20
 usc_section: "1070g"
 chapter: 28
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 1070g"
-generated_at: "2026-03-30T00:57:26.316Z"
+generated_at: "2026-03-30T01:02:54.502Z"
 ---
 
 # § 1070g. Definitions

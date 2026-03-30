@@ -3,9 +3,9 @@ title: "Section 2590 - Estimation of costs of meeting defense environmental clea
 usc_title: 50
 usc_section: "2590"
 chapter: 42
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 2590"
-generated_at: "2026-03-30T01:00:05.122Z"
+generated_at: "2026-03-30T01:06:06.771Z"
 ---
 
 # § 2590. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders

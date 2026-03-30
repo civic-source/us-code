@@ -3,9 +3,9 @@ title: "Section 1312 - Oaths and acknowledgments"
 usc_title: 17
 usc_section: "1312"
 chapter: 13
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "17 U.S.C. § 1312"
-generated_at: "2026-03-30T00:56:51.267Z"
+generated_at: "2026-03-30T01:02:42.532Z"
 ---
 
 # § 1312. Oaths and acknowledgments

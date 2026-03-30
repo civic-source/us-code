@@ -3,9 +3,9 @@ title: "Section 4705 - Protection of contractor employees from reprisal for disc
 usc_title: 41
 usc_section: "4705"
 chapter: 47
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "41 U.S.C. § 4705"
-generated_at: "2026-03-30T00:58:51.594Z"
+generated_at: "2026-03-30T01:05:55.485Z"
 ---
 
 # § 4705. Protection of contractor employees from reprisal for disclosure of certain information

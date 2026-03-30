@@ -3,9 +3,9 @@ title: "Section 251 - Medical examination and treatment of Federal employees; me
 usc_title: 42
 usc_section: "251"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 251"
-generated_at: "2026-03-30T00:59:30.647Z"
+generated_at: "2026-03-30T01:05:40.583Z"
 ---
 
 # § 251. Medical examination and treatment of Federal employees; medical care at remote stations

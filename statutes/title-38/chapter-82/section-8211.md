@@ -3,9 +3,9 @@ title: "Section 8211 - Declaration of purpose"
 usc_title: 38
 usc_section: "8211"
 chapter: 82
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 8211"
-generated_at: "2026-03-30T00:58:40.926Z"
+generated_at: "2026-03-30T01:05:11.464Z"
 ---
 
 # § 8211. Declaration of purpose

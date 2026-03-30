@@ -3,9 +3,9 @@ title: "Section 324 - Cost of War Toxic Exposures Fund"
 usc_title: 38
 usc_section: "324"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 324"
-generated_at: "2026-03-30T00:58:40.825Z"
+generated_at: "2026-03-30T01:05:11.356Z"
 ---
 
 # § 324. Cost of War Toxic Exposures Fund

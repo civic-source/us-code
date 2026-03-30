@@ -3,9 +3,9 @@ title: "Section 3598 - Federal Bureau of Investigation Reserve Service"
 usc_title: 5
 usc_section: "3598"
 chapter: 35
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 3598"
-generated_at: "2026-03-30T00:55:37.158Z"
+generated_at: "2026-03-30T01:01:03.907Z"
 ---
 
 # § 3598. 1 1 Another section 3598 is set out preceding this section. Federal Bureau of Investigation Reserve Service

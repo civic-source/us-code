@@ -3,9 +3,9 @@ title: "Section 2826 - Repealed. Pub. L. 92–424, § 27(b)(1) , Sept. 19, 1972 
 usc_title: 42
 usc_section: "2826"
 chapter: 34
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 2826"
-generated_at: "2026-03-30T00:59:31.225Z"
+generated_at: "2026-03-30T01:05:41.150Z"
 ---
 
 # § 2826. Repealed. Pub. L. 92–424, § 27(b)(1) , Sept. 19, 1972 , 86 Stat. 705

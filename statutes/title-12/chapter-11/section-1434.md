@@ -3,9 +3,9 @@ title: "Section 1434 - Depositaries of public money; financial agents"
 usc_title: 12
 usc_section: "1434"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 1434"
-generated_at: "2026-03-30T00:56:40.275Z"
+generated_at: "2026-03-30T01:02:17.040Z"
 ---
 
 # § 1434. Depositaries of public money; financial agents

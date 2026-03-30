@@ -3,9 +3,9 @@ title: "Section 6033 - Prohibition against indirect financing of Cuba"
 usc_title: 22
 usc_section: "6033"
 chapter: 69
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 6033"
-generated_at: "2026-03-30T00:57:39.104Z"
+generated_at: "2026-03-30T01:04:13.367Z"
 ---
 
 # § 6033. Prohibition against indirect financing of Cuba

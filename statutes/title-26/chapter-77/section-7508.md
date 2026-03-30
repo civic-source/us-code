@@ -3,9 +3,9 @@ title: "Section 7508 - Time for performing certain acts postponed by reason of s
 usc_title: 26
 usc_section: "7508"
 chapter: 77
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "26 U.S.C. § 7508"
-generated_at: "2026-03-30T00:58:24.464Z"
+generated_at: "2026-03-30T01:04:51.671Z"
 ---
 
 # § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation

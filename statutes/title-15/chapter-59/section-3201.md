@@ -3,9 +3,9 @@ title: "Section 3201 - Purposes; coverage"
 usc_title: 15
 usc_section: "3201"
 chapter: 59
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 3201"
-generated_at: "2026-03-30T00:56:45.821Z"
+generated_at: "2026-03-30T01:02:38.463Z"
 ---
 
 # § 3201. Purposes; coverage

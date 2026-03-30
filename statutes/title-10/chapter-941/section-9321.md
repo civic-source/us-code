@@ -3,9 +3,9 @@ title: "Section 9321 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "9321"
 chapter: 941
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 9321"
-generated_at: "2026-03-30T00:56:33.249Z"
+generated_at: "2026-03-30T01:02:06.212Z"
 ---
 
 # § 9321. Mandatory retirement: Superintendent of the United States Air Force Academy; waiver authority

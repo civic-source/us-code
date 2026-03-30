@@ -3,9 +3,9 @@ title: "Section 441 - Surety company reports; contents; waiver or modification o
 usc_title: 29
 usc_section: "441"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "29 U.S.C. § 441"
-generated_at: "2026-03-30T00:57:53.268Z"
+generated_at: "2026-03-30T01:04:23.706Z"
 ---
 
 # § 441. Surety company reports; contents; waiver or modification of requirements respecting contents of reports

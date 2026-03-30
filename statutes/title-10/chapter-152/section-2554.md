@@ -3,9 +3,9 @@ title: "Section 2554 - Equipment and other services: Boy Scout Jamborees"
 usc_title: 10
 usc_section: "2554"
 chapter: 152
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 2554"
-generated_at: "2026-03-30T00:56:33.188Z"
+generated_at: "2026-03-30T01:02:06.126Z"
 ---
 
 # § 2554. Equipment and other services: Boy Scout Jamborees

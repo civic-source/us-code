@@ -3,9 +3,9 @@ title: "Section 2782a - Assessments of emergency preparedness of defense nuclear
 usc_title: 50
 usc_section: "2782a"
 chapter: 42
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 2782a"
-generated_at: "2026-03-30T01:00:05.126Z"
+generated_at: "2026-03-30T01:06:06.776Z"
 ---
 
 # § 2782a. Assessments of emergency preparedness of defense nuclear facilities

@@ -3,9 +3,9 @@ title: "Section 3238 - Annual reports on influence operations and campaigns in t
 usc_title: 50
 usc_section: "3238"
 chapter: 44
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 3238"
-generated_at: "2026-03-30T01:00:05.147Z"
+generated_at: "2026-03-30T01:06:06.798Z"
 ---
 
 # § 3238. Annual reports on influence operations and campaigns in the United States by the Russian Federation

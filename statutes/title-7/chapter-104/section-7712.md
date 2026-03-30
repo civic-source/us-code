@@ -3,9 +3,9 @@ title: "Section 7712 - Regulation of movement of plants, plant products, biologi
 usc_title: 7
 usc_section: "7712"
 chapter: 104
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 7712"
-generated_at: "2026-03-30T00:56:14.539Z"
+generated_at: "2026-03-30T01:01:59.349Z"
 ---
 
 # § 7712. Regulation of movement of plants, plant products, biological control organisms, noxious weeds, articles, and means of conveyance

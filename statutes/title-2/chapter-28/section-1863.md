@@ -3,9 +3,9 @@ title: "Section 1863 - Funds out of Contingent Expenses, Architect of the Capito
 usc_title: 2
 usc_section: "1863"
 chapter: 28
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "2 U.S.C. § 1863"
-generated_at: "2026-03-30T00:55:40.979Z"
+generated_at: "2026-03-30T01:00:36.166Z"
 ---
 
 # § 1863. Funds out of Contingent Expenses, Architect of the Capitol Appropriation

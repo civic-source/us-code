@@ -3,9 +3,9 @@ title: "Section 4254 - Computation of tax"
 usc_title: 26
 usc_section: "4254"
 chapter: 33
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "26 U.S.C. § 4254"
-generated_at: "2026-03-30T00:58:24.366Z"
+generated_at: "2026-03-30T01:04:51.576Z"
 ---
 
 # § 4254. Computation of tax

@@ -3,9 +3,9 @@ title: "Section 3319j - Borlaug International Agricultural Science and Technolog
 usc_title: 7
 usc_section: "3319j"
 chapter: 64
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 3319j"
-generated_at: "2026-03-30T00:56:14.491Z"
+generated_at: "2026-03-30T01:01:59.282Z"
 ---
 
 # § 3319j. Borlaug International Agricultural Science and Technology Fellowship Program

@@ -3,9 +3,9 @@ title: "Section 6396 - State laws or programs"
 usc_title: 42
 usc_section: "6396"
 chapter: 77
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 6396"
-generated_at: "2026-03-30T00:59:31.347Z"
+generated_at: "2026-03-30T01:05:41.267Z"
 ---
 
 # § 6396. State laws or programs

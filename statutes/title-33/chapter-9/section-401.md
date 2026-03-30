@@ -3,9 +3,9 @@ title: "Section 401 - Construction of bridges, causeways, dams or dikes generall
 usc_title: 33
 usc_section: "401"
 chapter: 9
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "33 U.S.C. § 401"
-generated_at: "2026-03-30T00:58:29.736Z"
+generated_at: "2026-03-30T01:04:57.270Z"
 ---
 
 # § 401. Construction of bridges, causeways, dams or dikes generally; exemptions

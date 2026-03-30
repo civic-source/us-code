@@ -3,9 +3,9 @@ title: "Section 10381 - Authority to make public safety and community policing g
 usc_title: 34
 usc_section: "10381"
 chapter: 101
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "34 U.S.C. § 10381"
-generated_at: "2026-03-30T00:58:28.234Z"
+generated_at: "2026-03-30T01:05:00.070Z"
 ---
 
 # § 10381. Authority to make public safety and community policing grants

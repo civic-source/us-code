@@ -3,9 +3,9 @@ title: "Section 7688 - Armor-piercing ammunition and components: condition on di
 usc_title: 10
 usc_section: "7688"
 chapter: 773
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 7688"
-generated_at: "2026-03-30T00:56:33.233Z"
+generated_at: "2026-03-30T01:02:06.190Z"
 ---
 
 # § 7688. Armor-piercing ammunition and components: condition on disposal

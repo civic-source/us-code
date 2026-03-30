@@ -3,9 +3,9 @@ title: "Section 6544 - Substitute reporters of debates and expert transcribers; 
 usc_title: 2
 usc_section: "6544"
 chapter: 65
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "2 U.S.C. § 6544"
-generated_at: "2026-03-30T00:55:41.000Z"
+generated_at: "2026-03-30T01:00:36.191Z"
 ---
 
 # § 6544. Substitute reporters of debates and expert transcribers; temporary reporters of debates and expert transcribers; payments from Senate contingent fund

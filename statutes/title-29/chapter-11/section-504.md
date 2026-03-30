@@ -3,9 +3,9 @@ title: "Section 504 - Prohibition against certain persons holding office"
 usc_title: 29
 usc_section: "504"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "29 U.S.C. § 504"
-generated_at: "2026-03-30T00:57:53.270Z"
+generated_at: "2026-03-30T01:04:23.708Z"
 ---
 
 # § 504. Prohibition against certain persons holding office

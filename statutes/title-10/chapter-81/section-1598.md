@@ -3,9 +3,9 @@ title: "Section 1598 - Assistance to terminated employees to obtain certificatio
 usc_title: 10
 usc_section: "1598"
 chapter: 81
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 1598"
-generated_at: "2026-03-30T00:56:33.165Z"
+generated_at: "2026-03-30T01:02:06.096Z"
 ---
 
 # § 1598. Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides

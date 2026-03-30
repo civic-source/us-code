@@ -3,9 +3,9 @@ title: "Section 2123 - Promotions; acceptance; oath of office"
 usc_title: 14
 usc_section: "2123"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "14 U.S.C. § 2123"
-generated_at: "2026-03-30T00:56:49.008Z"
+generated_at: "2026-03-30T01:02:26.326Z"
 ---
 
 # § 2123. Promotions; acceptance; oath of office

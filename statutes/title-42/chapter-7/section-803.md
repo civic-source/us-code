@@ -3,9 +3,9 @@ title: "Section 803 - Coronavirus local fiscal recovery fund"
 usc_title: 42
 usc_section: "803"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 803"
-generated_at: "2026-03-30T00:59:30.889Z"
+generated_at: "2026-03-30T01:05:40.824Z"
 ---
 
 # § 803. Coronavirus local fiscal recovery fund

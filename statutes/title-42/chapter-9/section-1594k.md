@@ -3,9 +3,9 @@ title: "Section 1594k - Repealed. Pub. L. 97–214, § 7(6) , (13), July 12, 198
 usc_title: 42
 usc_section: "1594k"
 chapter: 9
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 1594k"
-generated_at: "2026-03-30T00:59:31.146Z"
+generated_at: "2026-03-30T01:05:41.075Z"
 ---
 
 # §§ 1594j–1, 1594k. Repealed. Pub. L. 97–214, § 7(6) , (13), July 12, 1982 , 96 Stat. 173 , 174

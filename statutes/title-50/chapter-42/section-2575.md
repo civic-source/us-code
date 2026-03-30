@@ -3,9 +3,9 @@ title: "Section 2575 - Defense nuclear nonproliferation management plan"
 usc_title: 50
 usc_section: "2575"
 chapter: 42
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 2575"
-generated_at: "2026-03-30T01:00:05.121Z"
+generated_at: "2026-03-30T01:06:06.770Z"
 ---
 
 # § 2575. Defense nuclear nonproliferation management plan

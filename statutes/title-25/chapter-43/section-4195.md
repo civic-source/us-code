@@ -3,9 +3,9 @@ title: "Section 4195 - Limitations on amount of guarantees"
 usc_title: 25
 usc_section: "4195"
 chapter: 43
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "25 U.S.C. § 4195"
-generated_at: "2026-03-30T00:57:33.330Z"
+generated_at: "2026-03-30T01:03:48.762Z"
 ---
 
 # § 4195. Limitations on amount of guarantees

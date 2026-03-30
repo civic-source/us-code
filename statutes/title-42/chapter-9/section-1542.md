@@ -3,9 +3,9 @@ title: "Section 1542 - Transfer of funds from other Federal agencies to Secretar
 usc_title: 42
 usc_section: "1542"
 chapter: 9
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 1542"
-generated_at: "2026-03-30T00:59:31.141Z"
+generated_at: "2026-03-30T01:05:41.070Z"
 ---
 
 # § 1542. Transfer of funds from other Federal agencies to Secretary of Housing and Urban Development

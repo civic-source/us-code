@@ -3,9 +3,9 @@ title: "Section 200303 - Membership"
 usc_title: 36
 usc_section: "200303"
 chapter: 2003
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "36 U.S.C. § 200303"
-generated_at: "2026-03-30T00:58:46.712Z"
+generated_at: "2026-03-30T01:05:07.468Z"
 ---
 
 # § 200303. Membership

@@ -3,9 +3,9 @@ title: "Section 19064 - Biological research collections"
 usc_title: 42
 usc_section: "19064"
 chapter: 163
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 19064"
-generated_at: "2026-03-30T00:59:31.706Z"
+generated_at: "2026-03-30T01:05:41.618Z"
 ---
 
 # § 19064. Biological research collections

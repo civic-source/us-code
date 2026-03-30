@@ -3,9 +3,9 @@ title: "Section 1383f - Annual report on program"
 usc_title: 42
 usc_section: "1383f"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 1383f"
-generated_at: "2026-03-30T00:59:30.932Z"
+generated_at: "2026-03-30T01:05:40.867Z"
 ---
 
 # § 1383f. Annual report on program

@@ -3,9 +3,9 @@ title: "Section 1366 - Termination of payments for noncompliance with law or div
 usc_title: 15
 usc_section: "1366"
 chapter: 37
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 1366"
-generated_at: "2026-03-30T00:56:45.764Z"
+generated_at: "2026-03-30T01:02:38.392Z"
 ---
 
 # § 1366. Termination of payments for noncompliance with law or diversion of funds

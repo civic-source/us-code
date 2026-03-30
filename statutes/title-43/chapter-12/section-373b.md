@@ -3,9 +3,9 @@ title: "Section 373b - Law enforcement authority at Bureau of Reclamation facili
 usc_title: 43
 usc_section: "373b"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 373b"
-generated_at: "2026-03-30T00:58:53.063Z"
+generated_at: "2026-03-30T01:05:15.993Z"
 ---
 
 # § 373b. Law enforcement authority at Bureau of Reclamation facilities

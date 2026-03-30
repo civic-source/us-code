@@ -3,9 +3,9 @@ title: "Section 1c - Repealed. Pub. L. 95–26, title I, § 106(f) , May 4, 1977
 usc_title: 2
 usc_section: "1c"
 chapter: 4
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "2 U.S.C. § 1c"
-generated_at: "2026-03-30T00:55:40.944Z"
+generated_at: "2026-03-30T01:00:36.126Z"
 ---
 
 # § 72a–1c. Repealed. Pub. L. 95–26, title I, § 106(f) , May 4, 1977 , 91 Stat. 84

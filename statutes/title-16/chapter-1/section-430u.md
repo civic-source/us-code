@@ -3,9 +3,9 @@ title: "Section 430u - Donations of land; purchase and condemnation"
 usc_title: 16
 usc_section: "430u"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 430u"
-generated_at: "2026-03-30T00:57:08.574Z"
+generated_at: "2026-03-30T01:03:37.309Z"
 ---
 
 # § 430u. Donations of land; purchase and condemnation

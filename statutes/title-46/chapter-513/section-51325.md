@@ -3,9 +3,9 @@ title: "Section 51325 - Sexual assault and sexual harassment prevention informat
 usc_title: 46
 usc_section: "51325"
 chapter: 513
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "46 U.S.C. § 51325"
-generated_at: "2026-03-30T00:59:41.521Z"
+generated_at: "2026-03-30T01:06:18.972Z"
 ---
 
 # § 51325. Sexual assault and sexual harassment prevention information management system

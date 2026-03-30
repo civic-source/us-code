@@ -3,9 +3,9 @@ title: "Section 10505 - Designation of embassy anti-corruption points of contact
 usc_title: 22
 usc_section: "10505"
 chapter: 112
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 10505"
-generated_at: "2026-03-30T00:57:39.183Z"
+generated_at: "2026-03-30T01:04:13.439Z"
 ---
 
 # § 10505. Designation of embassy anti-corruption points of contact

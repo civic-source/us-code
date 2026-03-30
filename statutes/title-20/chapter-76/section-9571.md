@@ -3,9 +3,9 @@ title: "Section 9571 - Interagency data sources and formats"
 usc_title: 20
 usc_section: "9571"
 chapter: 76
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 9571"
-generated_at: "2026-03-30T00:57:26.487Z"
+generated_at: "2026-03-30T01:02:54.651Z"
 ---
 
 # § 9571. Interagency data sources and formats

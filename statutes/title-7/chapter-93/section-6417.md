@@ -3,9 +3,9 @@ title: "Section 6417 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6417"
 chapter: 93
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 6417"
-generated_at: "2026-03-30T00:56:14.515Z"
+generated_at: "2026-03-30T01:01:59.316Z"
 ---
 
 # § 6417. Authorization of appropriations

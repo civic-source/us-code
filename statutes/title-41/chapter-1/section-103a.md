@@ -3,9 +3,9 @@ title: "Section 103a - Commercial service"
 usc_title: 41
 usc_section: "103a"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "41 U.S.C. § 103a"
-generated_at: "2026-03-30T00:58:51.579Z"
+generated_at: "2026-03-30T01:05:55.472Z"
 ---
 
 # § 103a. Commercial service

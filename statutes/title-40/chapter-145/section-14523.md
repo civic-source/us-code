@@ -3,9 +3,9 @@ title: "Section 14523 - Program implementation"
 usc_title: 40
 usc_section: "14523"
 chapter: 145
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "40 U.S.C. § 14523"
-generated_at: "2026-03-30T00:58:35.416Z"
+generated_at: "2026-03-30T01:05:08.162Z"
 ---
 
 # § 14523. Program implementation

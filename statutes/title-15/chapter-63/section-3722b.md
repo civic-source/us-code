@@ -3,9 +3,9 @@ title: "Section 3722b - Distressed area Recompete Pilot Program"
 usc_title: 15
 usc_section: "3722b"
 chapter: 63
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 3722b"
-generated_at: "2026-03-30T00:56:45.830Z"
+generated_at: "2026-03-30T01:02:38.474Z"
 ---
 
 # § 3722b. Distressed area Recompete Pilot Program

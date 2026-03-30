@@ -3,9 +3,9 @@ title: "Section 6572 - Eligibility and enrollment of lands in program"
 usc_title: 16
 usc_section: "6572"
 chapter: 84
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 6572"
-generated_at: "2026-03-30T00:57:08.781Z"
+generated_at: "2026-03-30T01:03:37.602Z"
 ---
 
 # § 6572. Eligibility and enrollment of lands in program

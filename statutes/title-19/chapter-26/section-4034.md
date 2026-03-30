@@ -3,9 +3,9 @@ title: "Section 4034 - Retroactive application for certain liquidations and reli
 usc_title: 19
 usc_section: "4034"
 chapter: 26
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "19 U.S.C. § 4034"
-generated_at: "2026-03-30T00:57:05.688Z"
+generated_at: "2026-03-30T01:02:51.897Z"
 ---
 
 # § 4034. Retroactive application for certain liquidations and reliquidations of textile or apparel goods

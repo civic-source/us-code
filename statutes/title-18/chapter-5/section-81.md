@@ -3,9 +3,9 @@ title: "Section 81 - Arson within special maritime and territorial jurisdiction"
 usc_title: 18
 usc_section: "81"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 81"
-generated_at: "2026-03-30T00:56:53.013Z"
+generated_at: "2026-03-30T01:02:48.968Z"
 ---
 
 # § 81. Arson within special maritime and territorial jurisdiction

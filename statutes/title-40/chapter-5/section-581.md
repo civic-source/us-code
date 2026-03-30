@@ -3,9 +3,9 @@ title: "Section 581 - General authority of Administrator of General Services"
 usc_title: 40
 usc_section: "581"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "40 U.S.C. § 581"
-generated_at: "2026-03-30T00:58:35.395Z"
+generated_at: "2026-03-30T01:05:08.134Z"
 ---
 
 # § 581. General authority of Administrator of General Services

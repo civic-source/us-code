@@ -3,9 +3,9 @@ title: "Section 7141 - Office of Minority Economic Impact"
 usc_title: 42
 usc_section: "7141"
 chapter: 84
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 7141"
-generated_at: "2026-03-30T00:59:31.375Z"
+generated_at: "2026-03-30T01:05:41.295Z"
 ---
 
 # § 7141. Office of Minority Economic Impact

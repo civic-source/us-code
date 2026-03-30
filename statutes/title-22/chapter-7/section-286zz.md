@@ -3,9 +3,9 @@ title: "Section 286zz - Capital stock increases"
 usc_title: 22
 usc_section: "286zz"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 286zz"
-generated_at: "2026-03-30T00:57:38.960Z"
+generated_at: "2026-03-30T01:04:13.230Z"
 ---
 
 # § 286zz. Capital stock increases

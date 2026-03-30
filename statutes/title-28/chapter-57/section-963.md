@@ -3,9 +3,9 @@ title: "Section 963 - Courts defined"
 usc_title: 28
 usc_section: "963"
 chapter: 57
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "28 U.S.C. § 963"
-generated_at: "2026-03-30T00:57:57.954Z"
+generated_at: "2026-03-30T01:04:18.400Z"
 ---
 
 # § 963. Courts defined

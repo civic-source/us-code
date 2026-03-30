@@ -3,9 +3,9 @@ title: "Section 20116 - Reports to Congress"
 usc_title: 51
 usc_section: "20116"
 chapter: 201
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "51 U.S.C. § 20116"
-generated_at: "2026-03-30T01:00:18.970Z"
+generated_at: "2026-03-30T01:06:43.496Z"
 ---
 
 # § 20116. Reports to Congress

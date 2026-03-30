@@ -3,9 +3,9 @@ title: "Section 10446 - State grants"
 usc_title: 34
 usc_section: "10446"
 chapter: 101
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "34 U.S.C. § 10446"
-generated_at: "2026-03-30T00:58:28.239Z"
+generated_at: "2026-03-30T01:05:00.073Z"
 ---
 
 # § 10446. State grants

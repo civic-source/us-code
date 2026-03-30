@@ -3,9 +3,9 @@ title: "Section 7267 - Annual report"
 usc_title: 42
 usc_section: "7267"
 chapter: 84
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 7267"
-generated_at: "2026-03-30T00:59:31.380Z"
+generated_at: "2026-03-30T01:05:41.300Z"
 ---
 
 # § 7267. Annual report

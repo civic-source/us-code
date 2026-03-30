@@ -3,9 +3,9 @@ title: "Section 10532 - Applications"
 usc_title: 34
 usc_section: "10532"
 chapter: 101
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "34 U.S.C. § 10532"
-generated_at: "2026-03-30T00:58:28.243Z"
+generated_at: "2026-03-30T01:05:00.079Z"
 ---
 
 # § 10532. Applications

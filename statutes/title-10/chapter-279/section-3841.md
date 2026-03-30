@@ -3,9 +3,9 @@ title: "Section 3841 - Examination of records of contractor"
 usc_title: 10
 usc_section: "3841"
 chapter: 279
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 3841"
-generated_at: "2026-03-30T00:56:33.213Z"
+generated_at: "2026-03-30T01:02:06.163Z"
 ---
 
 # § 3841. Examination of records of contractor

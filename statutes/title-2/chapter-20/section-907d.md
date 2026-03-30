@@ -3,9 +3,9 @@ title: "Section 907d - Special reconciliation process"
 usc_title: 2
 usc_section: "907d"
 chapter: 20
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "2 U.S.C. § 907d"
-generated_at: "2026-03-30T00:55:40.967Z"
+generated_at: "2026-03-30T01:00:36.151Z"
 ---
 
 # § 907d. Special reconciliation process

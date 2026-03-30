@@ -3,9 +3,9 @@ title: "Section 1929a - Rural Development Insurance Fund"
 usc_title: 7
 usc_section: "1929a"
 chapter: 50
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 1929a"
-generated_at: "2026-03-30T00:56:14.445Z"
+generated_at: "2026-03-30T01:01:59.221Z"
 ---
 
 # § 1929a. Rural Development Insurance Fund

@@ -3,9 +3,9 @@ title: "Section 137 - Adoption assistance programs"
 usc_title: 26
 usc_section: "137"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "26 U.S.C. § 137"
-generated_at: "2026-03-30T00:58:24.137Z"
+generated_at: "2026-03-30T01:04:51.368Z"
 ---
 
 # § 137. Adoption assistance programs

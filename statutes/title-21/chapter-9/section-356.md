@@ -3,9 +3,9 @@ title: "Section 356 - Expedited approval of drugs for serious or life-threatenin
 usc_title: 21
 usc_section: "356"
 chapter: 9
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "21 U.S.C. § 356"
-generated_at: "2026-03-30T00:57:31.953Z"
+generated_at: "2026-03-30T01:04:09.509Z"
 ---
 
 # § 356. Expedited approval of drugs for serious or life-threatening diseases or conditions

@@ -3,9 +3,9 @@ title: "Section 40116 - State taxation"
 usc_title: 49
 usc_section: "40116"
 chapter: 401
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "49 U.S.C. § 40116"
-generated_at: "2026-03-30T00:59:54.731Z"
+generated_at: "2026-03-30T01:06:35.212Z"
 ---
 
 # § 40116. State taxation

@@ -3,9 +3,9 @@ title: "Section 421 - Rights and protections under the Americans with Disabiliti
 usc_title: 3
 usc_section: "421"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "3 U.S.C. § 421"
-generated_at: "2026-03-30T00:55:29.305Z"
+generated_at: "2026-03-30T01:00:38.476Z"
 ---
 
 # § 421. Rights and protections under the Americans with Disabilities Act of 1990

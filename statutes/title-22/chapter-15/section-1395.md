@@ -3,9 +3,9 @@ title: "Section 1395 - Definitions"
 usc_title: 22
 usc_section: "1395"
 chapter: 15
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 1395"
-generated_at: "2026-03-30T00:57:38.974Z"
+generated_at: "2026-03-30T01:04:13.244Z"
 ---
 
 # § 1395. Definitions

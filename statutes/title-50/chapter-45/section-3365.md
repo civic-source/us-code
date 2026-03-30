@@ -3,9 +3,9 @@ title: "Section 3365 - Foreign intelligence information"
 usc_title: 50
 usc_section: "3365"
 chapter: 45
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 3365"
-generated_at: "2026-03-30T01:00:05.157Z"
+generated_at: "2026-03-30T01:06:06.810Z"
 ---
 
 # § 3365. Foreign intelligence information

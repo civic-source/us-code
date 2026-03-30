@@ -3,9 +3,9 @@ title: "Section 4129 - Federal Insurance Administrator; establishment of positio
 usc_title: 42
 usc_section: "4129"
 chapter: 50
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 4129"
-generated_at: "2026-03-30T00:59:31.268Z"
+generated_at: "2026-03-30T01:05:41.191Z"
 ---
 
 # § 4129. Federal Insurance Administrator; establishment of position

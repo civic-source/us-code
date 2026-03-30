@@ -3,9 +3,9 @@ title: "Section 216a - Definitions"
 usc_title: 12
 usc_section: "216a"
 chapter: 2
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 216a"
-generated_at: "2026-03-30T00:56:40.258Z"
+generated_at: "2026-03-30T01:02:17.015Z"
 ---
 
 # § 216a. Definitions

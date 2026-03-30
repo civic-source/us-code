@@ -3,9 +3,9 @@ title: "Section 20104 - Orders to active duty: with consent of member"
 usc_title: 10
 usc_section: "20104"
 chapter: 2003
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 20104"
-generated_at: "2026-03-30T00:56:33.267Z"
+generated_at: "2026-03-30T01:02:06.238Z"
 ---
 
 # § 20104. Orders to active duty: with consent of member

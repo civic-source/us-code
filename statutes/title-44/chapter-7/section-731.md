@@ -3,9 +3,9 @@ title: "Section 731 - Allotments of public documents printed after expiration of
 usc_title: 44
 usc_section: "731"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "44 U.S.C. § 731"
-generated_at: "2026-03-30T00:58:57.581Z"
+generated_at: "2026-03-30T01:05:20.421Z"
 ---
 
 # § 731. Allotments of public documents printed after expiration of terms of Members of Congress; rights of retiring Members to documents

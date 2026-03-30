@@ -3,9 +3,9 @@ title: "Section 494 - Obstruction of navigation; alterations and removals; light
 usc_title: 33
 usc_section: "494"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "33 U.S.C. § 494"
-generated_at: "2026-03-30T00:58:29.742Z"
+generated_at: "2026-03-30T01:04:57.276Z"
 ---
 
 # § 494. Obstruction of navigation; alterations and removals; lights and signals; draws

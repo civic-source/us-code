@@ -3,9 +3,9 @@ title: "Section 230512 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "230512"
 chapter: 2305
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "36 U.S.C. § 230512"
-generated_at: "2026-03-30T00:58:46.718Z"
+generated_at: "2026-03-30T01:05:07.475Z"
 ---
 
 # § 230512. Liability for acts of officers and agents

@@ -3,9 +3,9 @@ title: "Section 3171 - Presidential Innovation Fellows Program"
 usc_title: 5
 usc_section: "3171"
 chapter: 31
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 3171"
-generated_at: "2026-03-30T00:55:37.152Z"
+generated_at: "2026-03-30T01:01:03.900Z"
 ---
 
 # § 3171. Presidential Innovation Fellows Program

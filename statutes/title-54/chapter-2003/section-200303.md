@@ -3,9 +3,9 @@ title: "Section 200303 - Availability of funds"
 usc_title: 54
 usc_section: "200303"
 chapter: 2003
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "54 U.S.C. § 200303"
-generated_at: "2026-03-30T01:00:14.502Z"
+generated_at: "2026-03-30T01:06:42.557Z"
 ---
 
 # § 200303. Availability of funds

@@ -3,9 +3,9 @@ title: "Section 939 - Alteration, amendment, or repeal"
 usc_title: 43
 usc_section: "939"
 chapter: 22
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 939"
-generated_at: "2026-03-30T00:58:53.092Z"
+generated_at: "2026-03-30T01:05:16.025Z"
 ---
 
 # § 939. Alteration, amendment, or repeal

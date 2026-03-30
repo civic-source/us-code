@@ -3,9 +3,9 @@ title: "Section 724 - Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 Sta
 usc_title: 48
 usc_section: "724"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "48 U.S.C. § 724"
-generated_at: "2026-03-30T00:59:42.669Z"
+generated_at: "2026-03-30T01:06:15.395Z"
 ---
 
 # § 724. Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 Stat. 622

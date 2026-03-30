@@ -3,9 +3,9 @@ title: "Section 2715 - Procedures regarding major disasters and incidents abroad
 usc_title: 22
 usc_section: "2715"
 chapter: 38
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 2715"
-generated_at: "2026-03-30T00:57:39.040Z"
+generated_at: "2026-03-30T01:04:13.308Z"
 ---
 
 # § 2715. Procedures regarding major disasters and incidents abroad affecting United States citizens

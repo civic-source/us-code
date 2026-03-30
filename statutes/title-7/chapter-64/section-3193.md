@@ -3,9 +3,9 @@ title: "Section 3193 - Authorization to Secretary of Agriculture"
 usc_title: 7
 usc_section: "3193"
 chapter: 64
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 3193"
-generated_at: "2026-03-30T00:56:14.488Z"
+generated_at: "2026-03-30T01:01:59.278Z"
 ---
 
 # § 3193. Authorization to Secretary of Agriculture

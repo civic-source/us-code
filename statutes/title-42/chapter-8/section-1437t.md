@@ -3,9 +3,9 @@ title: "Section 1437t - Authority to convert public housing to vouchers"
 usc_title: 42
 usc_section: "1437t"
 chapter: 8
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 1437t"
-generated_at: "2026-03-30T00:59:31.123Z"
+generated_at: "2026-03-30T01:05:41.053Z"
 ---
 
 # § 1437t. Authority to convert public housing to vouchers

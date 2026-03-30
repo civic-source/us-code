@@ -3,9 +3,9 @@ title: "Section 3474 - Conservation incentives landowner education program"
 usc_title: 16
 usc_section: "3474"
 chapter: 54
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 3474"
-generated_at: "2026-03-30T00:57:08.750Z"
+generated_at: "2026-03-30T01:03:37.558Z"
 ---
 
 # § 3474. Conservation incentives landowner education program

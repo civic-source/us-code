@@ -3,9 +3,9 @@ title: "Section 1170 - Regular enlisted members: minority discharge"
 usc_title: 10
 usc_section: "1170"
 chapter: 59
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 1170"
-generated_at: "2026-03-30T00:56:33.150Z"
+generated_at: "2026-03-30T01:02:06.076Z"
 ---
 
 # § 1170. Regular enlisted members: minority discharge

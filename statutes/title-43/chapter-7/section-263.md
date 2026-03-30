@@ -3,9 +3,9 @@ title: "Section 263 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1
 usc_title: 43
 usc_section: "263"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 263"
-generated_at: "2026-03-30T00:58:53.058Z"
+generated_at: "2026-03-30T01:05:15.987Z"
 ---
 
 # § 263. Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1976 , 90 Stat. 2787

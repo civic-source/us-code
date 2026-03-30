@@ -3,9 +3,9 @@ title: "Section 3762 - Independent research and development costs: allowable cos
 usc_title: 10
 usc_section: "3762"
 chapter: 273
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 3762"
-generated_at: "2026-03-30T00:56:33.212Z"
+generated_at: "2026-03-30T01:02:06.161Z"
 ---
 
 # § 3762. Independent research and development costs: allowable costs

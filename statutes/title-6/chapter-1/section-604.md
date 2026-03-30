@@ -3,9 +3,9 @@ title: "Section 604 - Urban Area Security Initiative"
 usc_title: 6
 usc_section: "604"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "6 U.S.C. § 604"
-generated_at: "2026-03-30T00:55:52.699Z"
+generated_at: "2026-03-30T01:01:07.255Z"
 ---
 
 # § 604. Urban Area Security Initiative

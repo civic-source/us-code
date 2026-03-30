@@ -3,9 +3,9 @@ title: "Section 8531 - National Oceanic and Atmospheric Administration satellite
 usc_title: 15
 usc_section: "8531"
 chapter: 111
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 8531"
-generated_at: "2026-03-30T00:56:45.867Z"
+generated_at: "2026-03-30T01:02:38.523Z"
 ---
 
 # § 8531. National Oceanic and Atmospheric Administration satellite and data management

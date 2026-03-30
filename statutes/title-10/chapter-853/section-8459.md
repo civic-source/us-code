@@ -3,9 +3,9 @@ title: "Section 8459 - Midshipmen: agreement for length of service"
 usc_title: 10
 usc_section: "8459"
 chapter: 853
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 8459"
-generated_at: "2026-03-30T00:56:33.239Z"
+generated_at: "2026-03-30T01:02:06.198Z"
 ---
 
 # § 8459. Midshipmen: agreement for length of service

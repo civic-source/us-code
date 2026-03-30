@@ -3,9 +3,9 @@ title: "Section 1646 - Derivative eligibility for benefits"
 usc_title: 8
 usc_section: "1646"
 chapter: 14
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "8 U.S.C. § 1646"
-generated_at: "2026-03-30T00:55:53.354Z"
+generated_at: "2026-03-30T01:01:08.219Z"
 ---
 
 # § 1646. Derivative eligibility for benefits

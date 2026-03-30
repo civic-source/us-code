@@ -3,9 +3,9 @@ title: "Section 3635 - Definitions"
 usc_title: 18
 usc_section: "3635"
 chapter: 229
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 3635"
-generated_at: "2026-03-30T00:56:53.076Z"
+generated_at: "2026-03-30T01:02:49.053Z"
 ---
 
 # § 3635. Definitions

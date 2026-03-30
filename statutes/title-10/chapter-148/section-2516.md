@@ -3,9 +3,9 @@ title: "Section 2516 - Repealed. Pub. L. 104–106, div. A, title X, § 1081(g) 
 usc_title: 10
 usc_section: "2516"
 chapter: 148
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 2516"
-generated_at: "2026-03-30T00:56:33.187Z"
+generated_at: "2026-03-30T01:02:06.126Z"
 ---
 
 # [§ 2516. Repealed. Pub. L. 104–106, div. A, title X, § 1081(g) , Feb. 10, 1996 , 110 Stat. 455 ]

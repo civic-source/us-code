@@ -3,9 +3,9 @@ title: "Section 1203 - Transfer authorization"
 usc_title: 45
 usc_section: "1203"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "45 U.S.C. § 1203"
-generated_at: "2026-03-30T00:59:04.199Z"
+generated_at: "2026-03-30T01:05:14.733Z"
 ---
 
 # § 1203. Transfer authorization

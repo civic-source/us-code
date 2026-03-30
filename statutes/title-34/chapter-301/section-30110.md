@@ -3,9 +3,9 @@ title: "Section 30110 - Improved investigative and forensic resources for enforc
 usc_title: 34
 usc_section: "30110"
 chapter: 301
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "34 U.S.C. § 30110"
-generated_at: "2026-03-30T00:58:28.295Z"
+generated_at: "2026-03-30T01:05:00.130Z"
 ---
 
 # § 30110. Improved investigative and forensic resources for enforcement of laws related to cybercrimes against individuals

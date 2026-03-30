@@ -3,9 +3,9 @@ title: "Section 3613 - Blue Economy valuation"
 usc_title: 33
 usc_section: "3613"
 chapter: 49
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "33 U.S.C. § 3613"
-generated_at: "2026-03-30T00:58:29.851Z"
+generated_at: "2026-03-30T01:04:57.386Z"
 ---
 
 # § 3613. Blue Economy valuation

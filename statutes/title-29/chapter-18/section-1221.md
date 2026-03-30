@@ -3,9 +3,9 @@ title: "Section 1221 - Establishment"
 usc_title: 29
 usc_section: "1221"
 chapter: 18
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "29 U.S.C. § 1221"
-generated_at: "2026-03-30T00:57:53.328Z"
+generated_at: "2026-03-30T01:04:23.758Z"
 ---
 
 # § 1221. Establishment

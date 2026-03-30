@@ -3,9 +3,9 @@ title: "Section 3373 - Establishment of All-domain Anomaly Resolution Office"
 usc_title: 50
 usc_section: "3373"
 chapter: 45
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 3373"
-generated_at: "2026-03-30T01:00:05.159Z"
+generated_at: "2026-03-30T01:06:06.813Z"
 ---
 
 # § 3373. Establishment of All-domain Anomaly Resolution Office

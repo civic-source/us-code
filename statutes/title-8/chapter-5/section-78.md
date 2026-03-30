@@ -3,9 +3,9 @@ title: "Section 78 - Transferred"
 usc_title: 8
 usc_section: "78"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "8 U.S.C. § 78"
-generated_at: "2026-03-30T00:55:53.314Z"
+generated_at: "2026-03-30T01:01:08.160Z"
 ---
 
 # §§ 71 to 78. Transferred

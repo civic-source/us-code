@@ -3,9 +3,9 @@ title: "Section 11710 - Report"
 usc_title: 42
 usc_section: "11710"
 chapter: 122
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 11710"
-generated_at: "2026-03-30T00:59:31.532Z"
+generated_at: "2026-03-30T01:05:41.451Z"
 ---
 
 # § 11710. Report

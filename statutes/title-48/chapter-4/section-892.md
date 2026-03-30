@@ -3,9 +3,9 @@ title: "Section 892 - Qualifications of Commissioner; appointment to fill vacanc
 usc_title: 48
 usc_section: "892"
 chapter: 4
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "48 U.S.C. § 892"
-generated_at: "2026-03-30T00:59:42.670Z"
+generated_at: "2026-03-30T01:06:15.397Z"
 ---
 
 # § 892. Qualifications of Commissioner; appointment to fill vacancy

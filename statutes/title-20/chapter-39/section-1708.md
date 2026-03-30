@@ -3,9 +3,9 @@ title: "Section 1708 - Jurisdiction of district courts"
 usc_title: 20
 usc_section: "1708"
 chapter: 39
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 1708"
-generated_at: "2026-03-30T00:57:26.403Z"
+generated_at: "2026-03-30T01:02:54.577Z"
 ---
 
 # § 1708. Jurisdiction of district courts

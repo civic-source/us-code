@@ -3,9 +3,9 @@ title: "Section 7712 - Forgiveness of overpayments"
 usc_title: 20
 usc_section: "7712"
 chapter: 70
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 7712"
-generated_at: "2026-03-30T00:57:26.471Z"
+generated_at: "2026-03-30T01:02:54.638Z"
 ---
 
 # § 7712. Forgiveness of overpayments

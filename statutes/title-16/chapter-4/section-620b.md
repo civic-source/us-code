@@ -3,9 +3,9 @@ title: "Section 620b - Limitations on substitution of unprocessed Federal timber
 usc_title: 16
 usc_section: "620b"
 chapter: 4
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 620b"
-generated_at: "2026-03-30T00:57:08.638Z"
+generated_at: "2026-03-30T01:03:37.402Z"
 ---
 
 # § 620b. Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands

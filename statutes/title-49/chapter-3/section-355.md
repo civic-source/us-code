@@ -3,9 +3,9 @@ title: "Section 355 - Motorcyclist Advisory Council"
 usc_title: 49
 usc_section: "355"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "49 U.S.C. § 355"
-generated_at: "2026-03-30T00:59:54.640Z"
+generated_at: "2026-03-30T01:06:35.126Z"
 ---
 
 # § 355. Motorcyclist Advisory Council

@@ -3,9 +3,9 @@ title: "Section 1031 - Repeal and effective date"
 usc_title: 29
 usc_section: "1031"
 chapter: 18
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "29 U.S.C. § 1031"
-generated_at: "2026-03-30T00:57:53.297Z"
+generated_at: "2026-03-30T01:04:23.732Z"
 ---
 
 # § 1031. Repeal and effective date

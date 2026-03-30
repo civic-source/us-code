@@ -3,9 +3,9 @@ title: "Section 529 - Annual executive agency reports on excess personal propert
 usc_title: 40
 usc_section: "529"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "40 U.S.C. § 529"
-generated_at: "2026-03-30T00:58:35.393Z"
+generated_at: "2026-03-30T01:05:08.131Z"
 ---
 
 # § 529. Annual executive agency reports on excess personal property

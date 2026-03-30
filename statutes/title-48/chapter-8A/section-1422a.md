@@ -3,9 +3,9 @@ title: "Section 1422a - Removal of Governor, Lieutenant Governor, or member of l
 usc_title: 48
 usc_section: "1422a"
 chapter: 8
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "48 U.S.C. § 1422a"
-generated_at: "2026-03-30T00:59:42.676Z"
+generated_at: "2026-03-30T01:06:15.400Z"
 ---
 
 # § 1422a. Removal of Governor, Lieutenant Governor, or member of legislature; referendum election

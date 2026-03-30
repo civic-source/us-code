@@ -3,9 +3,9 @@ title: "Section 82 - Audits"
 usc_title: 42
 usc_section: "82"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 82"
-generated_at: "2026-03-30T00:59:30.802Z"
+generated_at: "2026-03-30T01:05:40.738Z"
 ---
 
 # § 300ff–82. Audits

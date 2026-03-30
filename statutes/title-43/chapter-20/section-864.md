@@ -3,9 +3,9 @@ title: "Section 864 - Survey of land grants to Florida"
 usc_title: 43
 usc_section: "864"
 chapter: 20
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 864"
-generated_at: "2026-03-30T00:58:53.089Z"
+generated_at: "2026-03-30T01:05:16.021Z"
 ---
 
 # § 864. Survey of land grants to Florida

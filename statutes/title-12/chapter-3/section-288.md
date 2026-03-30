@@ -3,9 +3,9 @@ title: "Section 288 - Cancellation of stock held by member bank on insolvency or
 usc_title: 12
 usc_section: "288"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 288"
-generated_at: "2026-03-30T00:56:40.259Z"
+generated_at: "2026-03-30T01:02:17.020Z"
 ---
 
 # § 288. Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions

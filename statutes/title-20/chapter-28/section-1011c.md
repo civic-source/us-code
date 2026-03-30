@@ -3,9 +3,9 @@ title: "Section 1011c - National Advisory Committee on Institutional Quality and
 usc_title: 20
 usc_section: "1011c"
 chapter: 28
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 1011c"
-generated_at: "2026-03-30T00:57:26.291Z"
+generated_at: "2026-03-30T01:02:54.481Z"
 ---
 
 # § 1011c. National Advisory Committee on Institutional Quality and Integrity
@@ -57,4 +57,4 @@ generated_at: "2026-03-30T00:57:26.291Z"
     - **(B)** a list of the date and location of each meeting during the fiscal year preceding the fiscal year in which the report is made;
     - **(C)** a list of the members of the Committee; and
     - **(D)** a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
-- **(f)** The Committee shall terminate on September 30, 2021 .
+- **(f)** The Committee shall terminate on September 30, 2021 . 1 1 See Termination of Committee note below.

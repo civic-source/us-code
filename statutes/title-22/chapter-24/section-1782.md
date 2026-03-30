@@ -3,9 +3,9 @@ title: "Section 1782 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1782"
 chapter: 24
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 1782"
-generated_at: "2026-03-30T00:57:38.985Z"
+generated_at: "2026-03-30T01:04:13.254Z"
 ---
 
 # §§ 1781, 1782. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460

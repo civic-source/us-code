@@ -3,9 +3,9 @@ title: "Section 1921h - Authorization and continuing appropriation"
 usc_title: 48
 usc_section: "1921h"
 chapter: 18
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "48 U.S.C. § 1921h"
-generated_at: "2026-03-30T00:59:42.693Z"
+generated_at: "2026-03-30T01:06:15.418Z"
 ---
 
 # § 1921h. Authorization and continuing appropriation

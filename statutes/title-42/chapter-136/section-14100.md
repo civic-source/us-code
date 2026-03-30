@@ -3,9 +3,9 @@ title: "Section 14100 - Repealed. Pub. L. 107–273, div. C, title I, § 11006(4
 usc_title: 42
 usc_section: "14100"
 chapter: 136
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 14100"
-generated_at: "2026-03-30T00:59:31.592Z"
+generated_at: "2026-03-30T01:05:41.509Z"
 ---
 
 # § 14100. Repealed. Pub. L. 107–273, div. C, title I, § 11006(4) , Nov. 2, 2002 , 116 Stat. 1817

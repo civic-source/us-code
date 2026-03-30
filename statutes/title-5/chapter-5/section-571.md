@@ -3,9 +3,9 @@ title: "Section 571 - Definitions"
 usc_title: 5
 usc_section: "571"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 571"
-generated_at: "2026-03-30T00:55:37.142Z"
+generated_at: "2026-03-30T01:01:03.886Z"
 ---
 
 # § 571. Definitions

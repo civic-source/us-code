@@ -3,9 +3,9 @@ title: "Section 2685 - Lead abatement and measurement"
 usc_title: 15
 usc_section: "2685"
 chapter: 53
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 2685"
-generated_at: "2026-03-30T00:56:45.814Z"
+generated_at: "2026-03-30T01:02:38.455Z"
 ---
 
 # § 2685. Lead abatement and measurement

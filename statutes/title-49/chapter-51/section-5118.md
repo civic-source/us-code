@@ -3,9 +3,9 @@ title: "Section 5118 - Hazardous material technical assessment, research and dev
 usc_title: 49
 usc_section: "5118"
 chapter: 51
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "49 U.S.C. § 5118"
-generated_at: "2026-03-30T00:59:54.647Z"
+generated_at: "2026-03-30T01:06:35.135Z"
 ---
 
 # § 5118. Hazardous material technical assessment, research and development, and analysis program

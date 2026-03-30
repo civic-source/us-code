@@ -3,9 +3,9 @@ title: "Section 3009 - Savings provision"
 usc_title: 25
 usc_section: "3009"
 chapter: 32
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "25 U.S.C. § 3009"
-generated_at: "2026-03-30T00:57:33.312Z"
+generated_at: "2026-03-30T01:03:48.745Z"
 ---
 
 # § 3009. Savings provision

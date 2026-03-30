@@ -3,9 +3,9 @@ title: "Section 388 - Withdrawn or abandoned international design application"
 usc_title: 35
 usc_section: "388"
 chapter: 38
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "35 U.S.C. § 388"
-generated_at: "2026-03-30T00:58:26.714Z"
+generated_at: "2026-03-30T01:04:55.930Z"
 ---
 
 # § 388. Withdrawn or abandoned international design application

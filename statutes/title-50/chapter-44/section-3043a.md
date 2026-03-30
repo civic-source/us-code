@@ -3,9 +3,9 @@ title: "Section 3043a - National intelligence strategy"
 usc_title: 50
 usc_section: "3043a"
 chapter: 44
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 3043a"
-generated_at: "2026-03-30T01:00:05.135Z"
+generated_at: "2026-03-30T01:06:06.785Z"
 ---
 
 # § 3043a. National intelligence strategy

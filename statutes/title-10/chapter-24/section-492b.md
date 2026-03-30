@@ -3,9 +3,9 @@ title: "Section 492b - Biannual briefing on nuclear weapons and related activiti
 usc_title: 10
 usc_section: "492b"
 chapter: 24
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 492b"
-generated_at: "2026-03-30T00:56:33.111Z"
+generated_at: "2026-03-30T01:02:06.023Z"
 ---
 
 # § 492b. Biannual briefing on nuclear weapons and related activities

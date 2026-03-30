@@ -3,9 +3,9 @@ title: "Section 279 - United States membership in the United Nations Food and Ag
 usc_title: 22
 usc_section: "279"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 279"
-generated_at: "2026-03-30T00:57:38.952Z"
+generated_at: "2026-03-30T01:04:13.222Z"
 ---
 
 # § 279. United States membership in the United Nations Food and Agriculture Organization

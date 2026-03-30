@@ -3,9 +3,9 @@ title: "Section 23112 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "23112"
 chapter: 231
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "36 U.S.C. § 23112"
-generated_at: "2026-03-30T00:58:46.694Z"
+generated_at: "2026-03-30T01:05:07.450Z"
 ---
 
 # § 23112. Distribution of assets on dissolution or final liquidation

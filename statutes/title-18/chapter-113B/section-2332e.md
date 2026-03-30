@@ -3,9 +3,9 @@ title: "Section 2332e - Requests for military assistance to enforce prohibition 
 usc_title: 18
 usc_section: "2332e"
 chapter: 113
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 2332e"
-generated_at: "2026-03-30T00:56:53.057Z"
+generated_at: "2026-03-30T01:02:49.026Z"
 ---
 
 # § 2332e. Requests for military assistance to enforce prohibition in certain emergencies

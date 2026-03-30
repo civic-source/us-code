@@ -3,9 +3,9 @@ title: "Section 2007 - Stipends"
 usc_title: 20
 usc_section: "2007"
 chapter: 42
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 2007"
-generated_at: "2026-03-30T00:57:26.404Z"
+generated_at: "2026-03-30T01:02:54.578Z"
 ---
 
 # § 2007. Stipends

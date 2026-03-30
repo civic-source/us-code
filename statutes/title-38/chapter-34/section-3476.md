@@ -3,9 +3,9 @@ title: "Section 3476 - Education outside the United States"
 usc_title: 38
 usc_section: "3476"
 chapter: 34
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 3476"
-generated_at: "2026-03-30T00:58:40.871Z"
+generated_at: "2026-03-30T01:05:11.408Z"
 ---
 
 # § 3476. Education outside the United States

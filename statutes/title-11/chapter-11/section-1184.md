@@ -3,9 +3,9 @@ title: "Section 1184 - Rights and powers of a debtor in possession"
 usc_title: 11
 usc_section: "1184"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "11 U.S.C. § 1184"
-generated_at: "2026-03-30T00:56:40.772Z"
+generated_at: "2026-03-30T01:02:24.337Z"
 ---
 
 # § 1184. Rights and powers of a debtor in possession

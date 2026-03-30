@@ -3,9 +3,9 @@ title: "Section 7f - Coordination of medicare and medicaid surety bond provision
 usc_title: 42
 usc_section: "7f"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T00:59:30.906Z"
+generated_at: "2026-03-30T01:05:40.841Z"
 ---
 
 # § 1320a–7f. Coordination of medicare and medicaid surety bond provisions

@@ -3,9 +3,9 @@ title: "Section 152 - Regulation of length of towlines"
 usc_title: 33
 usc_section: "152"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "33 U.S.C. § 152"
-generated_at: "2026-03-30T00:58:29.735Z"
+generated_at: "2026-03-30T01:04:57.269Z"
 ---
 
 # § 152. Regulation of length of towlines

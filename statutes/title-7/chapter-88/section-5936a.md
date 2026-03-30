@@ -3,9 +3,9 @@ title: "Section 5936a - Support for farm stress programs"
 usc_title: 7
 usc_section: "5936a"
 chapter: 88
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 5936a"
-generated_at: "2026-03-30T00:56:14.508Z"
+generated_at: "2026-03-30T01:01:59.306Z"
 ---
 
 # § 5936a. Support for farm stress programs

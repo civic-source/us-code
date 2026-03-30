@@ -3,9 +3,9 @@ title: "Section 7554 - Urban bus standards"
 usc_title: 42
 usc_section: "7554"
 chapter: 85
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 7554"
-generated_at: "2026-03-30T00:59:31.418Z"
+generated_at: "2026-03-30T01:05:41.338Z"
 ---
 
 # § 7554. Urban bus standards

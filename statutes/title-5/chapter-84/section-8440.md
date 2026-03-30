@@ -3,9 +3,9 @@ title: "Section 8440 - Tax treatment of the Thrift Savings Fund"
 usc_title: 5
 usc_section: "8440"
 chapter: 84
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 8440"
-generated_at: "2026-03-30T00:55:37.201Z"
+generated_at: "2026-03-30T01:01:03.962Z"
 ---
 
 # § 8440. Tax treatment of the Thrift Savings Fund

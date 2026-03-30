@@ -3,9 +3,9 @@ title: "Section 6037 - Television broadcasting to Cuba"
 usc_title: 22
 usc_section: "6037"
 chapter: 69
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 6037"
-generated_at: "2026-03-30T00:57:39.104Z"
+generated_at: "2026-03-30T01:04:13.368Z"
 ---
 
 # § 6037. Television broadcasting to Cuba

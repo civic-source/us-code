@@ -3,9 +3,9 @@ title: "Section 1702 - Administrative provisions"
 usc_title: 12
 usc_section: "1702"
 chapter: 13
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 1702"
-generated_at: "2026-03-30T00:56:40.293Z"
+generated_at: "2026-03-30T01:02:17.063Z"
 ---
 
 # § 1702. Administrative provisions

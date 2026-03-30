@@ -3,9 +3,9 @@ title: "Section 460jj - Establishment"
 usc_title: 16
 usc_section: "460jj"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 460jj"
-generated_at: "2026-03-30T00:57:08.596Z"
+generated_at: "2026-03-30T01:03:37.341Z"
 ---
 
 # § 460jj. Establishment

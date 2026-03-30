@@ -3,9 +3,9 @@ title: "Section 103 - United States"
 usc_title: 31
 usc_section: "103"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "31 U.S.C. § 103"
-generated_at: "2026-03-30T00:58:30.871Z"
+generated_at: "2026-03-30T01:04:55.641Z"
 ---
 
 # § 103. United States

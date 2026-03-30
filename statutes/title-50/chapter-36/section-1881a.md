@@ -3,9 +3,9 @@ title: "Section 1881a - Procedures for targeting certain persons outside the Uni
 usc_title: 50
 usc_section: "1881a"
 chapter: 36
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 1881a"
-generated_at: "2026-03-30T01:00:05.099Z"
+generated_at: "2026-03-30T01:06:06.749Z"
 ---
 
 # § 1881a. Procedures for targeting certain persons outside the United States other than United States persons
@@ -16,7 +16,7 @@ generated_at: "2026-03-30T01:00:05.099Z"
   - **(2)** may not intentionally target a person reasonably believed to be located outside the United States if the purpose of such acquisition is to target a particular, known person reasonably believed to be in the United States;
   - **(3)** may not intentionally target a United States person reasonably believed to be located outside the United States;
   - **(4)** may not intentionally acquire any communication as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States;
-  - **(5)** may not intentionally acquire communications that contain a reference to, but are not to or from, a target of an acquisition authorized under subsection (a), except as provided under section 103(b) of the FISA Amendments Reauthorization Act of 2017; and
+  - **(5)** may not intentionally acquire communications that contain a reference to, but are not to or from, a target of an acquisition authorized under subsection (a); and
   - **(6)** shall be conducted in a manner consistent with the fourth amendment to the Constitution of the United States.
 - **(c)**
   - **(1)** An acquisition authorized under subsection (a) shall be conducted only in accordance with—
@@ -44,25 +44,58 @@ generated_at: "2026-03-30T01:00:05.099Z"
     - **(B)** The Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures adopted under subparagraph (A) include a technical procedure whereby a record is kept of each United States person query term used for a query.
     - **(C)** The procedures adopted in accordance with subparagraph (A) shall be subject to judicial review pursuant to subsection (j).
   - **(2)**
-    - **(A)** Except as provided by subparagraph (E), in connection with a predicated criminal investigation opened by the Federal Bureau of Investigation that does not relate to the national security of the United States, the Federal Bureau of Investigation may not access the contents of communications acquired under subsection (a) that were retrieved pursuant to a query made using a United States person query term that was not designed to find and extract foreign intelligence information unless—
-      - **(i)** the Federal Bureau of Investigation applies for an order of the Court under subparagraph (C); and
-      - **(ii)** the Court enters an order under subparagraph (D) approving such application.
-    - **(B)** The Court shall have jurisdiction to review an application and to enter an order approving the access described in subparagraph (A).
-    - **(C)** Each application for an order under this paragraph shall be made by a Federal officer in writing upon oath or affirmation to a judge having jurisdiction under subparagraph (B). Each application shall require the approval of the Attorney General based upon the finding of the Attorney General that the application satisfies the criteria and requirements of such application, as set forth in this paragraph, and shall include—
-      - **(i)** the identity of the Federal officer making the application; and
-      - **(ii)** an affidavit or other information containing a statement of the facts and circumstances relied upon by the applicant to justify the belief of the applicant that the contents of communications described in subparagraph (A) covered by the application would provide evidence of—
-        - **(I)** criminal activity;
-        - **(II)** contraband, fruits of a crime, or other items illegally possessed by a third party; or
-        - **(III)** property designed for use, intended for use, or used in committing a crime.
-    - **(D)** Upon an application made pursuant to subparagraph (C), the Court shall enter an order approving the accessing of the contents of communications described in subparagraph (A) covered by the application if the Court finds probable cause to believe that such contents would provide any of the evidence described in subparagraph (C)(ii).
-    - **(E)** The requirement for an order of the Court under subparagraph (A) to access the contents of communications described in such subparagraph shall not apply with respect to a query if the Federal Bureau of Investigation determines there is a reasonable belief that such contents could assist in mitigating or eliminating a threat to life or serious bodily harm.
-    - **(F)** Nothing in this paragraph may be construed as—
-      - **(i)** limiting the authority of the Federal Bureau of Investigation to conduct lawful queries of information acquired under subsection (a);
-      - **(ii)** limiting the authority of the Federal Bureau of Investigation to review, without a court order, the results of any query of information acquired under subsection (a) that was reasonably designed to find and extract foreign intelligence information, regardless of whether such foreign intelligence information could also be considered evidence of a crime; or
-      - **(iii)** prohibiting or otherwise limiting the ability of the Federal Bureau of Investigation to access the results of queries conducted when evaluating whether to open an assessment or predicated investigation relating to the national security of the United States.
-  - **(3)** In this subsection:
+    - **(A)** The querying procedures adopted pursuant to paragraph (1) for the Federal Bureau of Investigation shall prohibit queries of information acquired under subsection (a) that are solely designed to find and extract evidence of criminal activity.
+    - **(B)** The restriction under subparagraph (A) shall not apply with respect to a query if—
+      - **(i)** there is a reasonable belief that such query may retrieve information that could assist in mitigating or eliminating a threat to life or serious bodily harm; or
+      - **(ii)** such query is necessary to identify information that must be produced or preserved in connection with a litigation matter or to fulfill discovery obligations in criminal matters under the laws of the United States or any State thereof.
+  - **(3)**
+    - **(A)**
+      - **(i)** Federal Bureau of Investigation personnel must obtain prior approval from a Federal Bureau of Investigation supervisor (or employee of equivalent or greater rank) or attorney who is authorized to access unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) for any query of such unminimized contents or noncontents made using a United States person query term.
+      - **(ii)** A United States person query to be conducted by the Federal Bureau of Investigation of unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) using a United States person query term may be conducted without obtaining prior approval as specified in clause (i) only if the person conducting the United States person query has a reasonable belief that conducting the query could assist in mitigating or eliminating a threat to life or serious bodily harm.
+    - **(B)**
+      - **(i)** The Director of the Federal Bureau of Investigation shall promptly notify appropriate congressional leadership of any query conducted by the Federal Bureau of Investigation using a query term that is reasonably believed to be the name or other personally identifying information of a member of Congress, and shall also notify the member who is the subject of such query.
+      - **(ii)** In this subparagraph, the term “appropriate congressional leadership” means the following:
+        - **(I)** The chairs and ranking minority members of the congressional intelligence committees.
+        - **(II)** The Speaker and minority leader of the House of Representatives.
+        - **(III)** The majority and minority leaders of the Senate.
+      - **(iii)** In submitting a notification under clause (i), the Director shall give due regard to the protection of classified information, sources and methods, and national security.
+      - **(iv)**
+        - **(I)** The Director may waive a notification required under clause (i) if the Director determines such notification would impede an ongoing national security or law enforcement investigation.
+        - **(II)** A waiver under subclause (I) shall terminate on the date the Director determines the relevant notification would not impede the relevant national security or law enforcement investigation or on the date that such investigation ends, whichever is earlier.
+    - **(C)**
+      - **(i)** The Federal Bureau of Investigation may not, for the exclusive purpose of supplementing the contents of a briefing on the defense against a counterintelligence threat to a member of Congress, conduct a query using a query term that is the name or restricted personal information (as such term is defined in section 119 of title 18 ) of that member unless—
+        - **(I)** the member provides consent to the use of the query term; or
+        - **(II)** the Deputy Director of the Federal Bureau of Investigation determines that exigent circumstances exist sufficient to justify the conduct of such query.
+      - **(ii)**
+        - **(I)** Not later than three business days after submitting a request for consent from a member of Congress under clause (i), the Director of the Federal Bureau of Investigation shall notify the appropriate congressional leadership, regardless of whether the member provided such consent.
+        - **(II)** Not later than three business days after the conduct of a query under clause (i) without consent on the basis of the existence of exigent circumstances determined under subclause (II) of such clause, the Director of the Federal Bureau of Investigation shall notify the appropriate congressional leadership.
+      - **(iii)** Nothing in this subparagraph may be construed as—
+        - **(I)** applying to matters outside of the scope of the briefing on the defense against a counterintelligence threat to be provided or supplemented under clause (i); or
+        - **(II)** limiting the lawful investigative activities of the Federal Bureau of Investigation other than supplementing the contents of a briefing on the defense against a counterintelligence threat to a member of Congress.
+      - **(iv)** In this subparagraph, the term “appropriate congressional leadership” means the following:
+        - **(I)** The chairs and ranking minority members of the congressional intelligence committees.
+        - **(II)** The Speaker and minority leader of the House of Representatives.
+        - **(III)** The majority and minority leaders of the Senate.
+    - **(D)** For any procedures adopted under paragraph (1) applicable to the Federal Bureau of Investigation, the Attorney General, in consultation with the Director of National Intelligence, shall include the following requirements:
+      - **(i)** A requirement that, prior to conducting any query, personnel of the Federal Bureau of Investigation successfully complete training on the querying procedures on an annual basis.
+      - **(ii)** A requirement that, absent exigent circumstances, prior to conducting certain queries, personnel of the Federal Bureau of Investigation receive approval, at minimum, as follows:
+        - **(I)** Approval from the Deputy Director of the Federal Bureau of Investigation if the query uses a query term reasonably believed to identify a United States elected official, an appointee of the President or a State governor, a United States political candidate, a United States political organization or a United States person prominent in such organization, or a United States media organization or a United States person who is a member of such organization.
+        - **(II)** Approval from an attorney of the Federal Bureau of Investigation if the query uses a query term reasonably believed to identify a United States religious organization or a United States person who is prominent in such organization.
+        - **(III)** Approval from an attorney of the Federal Bureau of Investigation if such conduct involves batch job technology (or successor tool).
+      - **(iii)** A requirement that, prior to conducting a query using a United States person query term, personnel of the Federal Bureau of Investigation provide a written statement of the specific factual basis to support the reasonable belief that such query meets the standards required by the procedures adopted under paragraph (1). For each United States person query, the Federal Bureau of Investigation shall keep a record of the query term, the date of the conduct of the query, the identifier of the personnel conducting the query, and such written statement.
+      - **(iv)** Any system of the Federal Bureau of Investigation that stores unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) together with contents or noncontents obtained through other lawful means shall be configured in a manner that—
+        - **(I)** requires personnel of the Federal Bureau of Investigation to affirmatively elect to include such unminimized contents or noncontents obtained through acquisitions authorized under subsection (a) when running a query; or
+        - **(II)** includes other controls reasonably expected to prevent inadvertent queries of such unminimized contents or noncontents.
+      - **(v)** If the Foreign Intelligence Surveillance Court finds that the procedures adopted under paragraph (1) include measures that are reasonably expected to result in similar compliance outcomes as the measures specified in clauses (i) through (iv) of this subparagraph, the Foreign Intelligence Surveillance Court may waive one or more of the requirements specified in such clauses.
+      - **(vi)** The procedures shall prohibit any political personnel, such as those classified by the Office of Personnel Management as Presidential Appointment with Senate Confirmation, Presidential Appointment (without Senate Confirmation), Noncareer Senior Executive Service Appointment, or Schedule C Excepted Appointment, from inclusion in the Federal Bureau of Investigation’s prior approval process under clause (ii).
+  - **(4)** The Director of the Federal Bureau of Investigation shall issue minimum accountability standards that set forth escalating consequences for noncompliant querying of United States person terms within the contents of communications that were acquired under this section. Such standards shall include, at minimum, the following:
+    - **(A)** Zero tolerance for willful misconduct.
+    - **(B)** Escalating consequences for unintentional noncompliance, including the threshold for mandatory revocation of access to query information acquired under this section.
+    - **(C)** Consequences for supervisors who oversee users that engage in noncompliant queries.
+  - **(5)** In this subsection:
     - **(A)** The term “contents” has the meaning given that term in section 2510(8) of title 18 .
     - **(B)** The term “query” means the use of one or more terms to retrieve the unminimized contents or noncontents located in electronic and data storage systems of communications of or concerning United States persons obtained through acquisitions authorized under subsection (a).
+  - **(6)** For any procedures for one or more agencies adopted under paragraph (1)(A), the Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures enable the vetting of all non-United States persons who are being processed for travel to the United States using terms that do not qualify as United States person query terms under this chapter.
 - **(g)**
   - **(1)** The Attorney General, in consultation with the Director of National Intelligence, shall adopt guidelines to ensure—
     - **(A)** compliance with the limitations in subsection (b); and
@@ -191,8 +224,7 @@ generated_at: "2026-03-30T01:00:05.099Z"
       - **(iv)** consistent with the Rules of the House of Representatives, the Standing Rules of the Senate, and Senate Resolution 400 of the 94th Congress or any successor Senate resolution—
         - **(I)** the congressional intelligence committees; and
         - **(II)** the Committees on the Judiciary of the House of Representatives and the Senate.
-  - **(4)**
-    - **(A)** The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representatives and the Senate and the congressional intelligence committees of a material breach.
-    - **(B)** In this paragraph:
-      - **(i)** The term “abouts communication” means a communication that contains a reference to, but is not to or from, a target of an acquisition authorized under subsection (a).
-      - **(ii)** The term “material breach” means significant noncompliance with applicable law or an order of the Foreign Intelligence Surveillance Court concerning any acquisition of abouts communications.
+- **(n)**
+  - **(1)** The Federal Bureau of Investigation may not ingest unminimized information acquired under this section into its analytic repositories unless the targeted person is relevant to an existing, open, predicated full national security investigation by the Federal Bureau of Investigation.
+  - **(2)** Paragraph (1) does not apply if the Director of the Federal Bureau of Investigation decides it is necessary due to exigent circumstances and provides notification within three business days to the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, and the majority and minority leaders of the Senate.
+  - **(3)** Paragraph (1) does not apply where the Federal Bureau of Investigation has agreed to provide technical, analytical, or linguistic assistance at the request of another Federal agency.

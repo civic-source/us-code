@@ -3,9 +3,9 @@ title: "Section 6 - Duties of Archivist"
 usc_title: 3
 usc_section: "6"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "3 U.S.C. § 6"
-generated_at: "2026-03-30T00:55:29.303Z"
+generated_at: "2026-03-30T01:00:38.472Z"
 ---
 
 # § 6. Duties of Archivist

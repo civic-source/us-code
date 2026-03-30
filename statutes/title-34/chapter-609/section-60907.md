@@ -3,9 +3,9 @@ title: "Section 60907 - Procedures to promote compliance"
 usc_title: 34
 usc_section: "60907"
 chapter: 609
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "34 U.S.C. § 60907"
-generated_at: "2026-03-30T00:58:28.314Z"
+generated_at: "2026-03-30T01:05:00.149Z"
 ---
 
 # § 60907. Procedures to promote compliance

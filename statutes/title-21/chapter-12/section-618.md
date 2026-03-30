@@ -3,9 +3,9 @@ title: "Section 618 - Delivery of inspectors’ certificates, and of copies"
 usc_title: 21
 usc_section: "618"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "21 U.S.C. § 618"
-generated_at: "2026-03-30T00:57:32.019Z"
+generated_at: "2026-03-30T01:04:09.572Z"
 ---
 
 # § 618. Delivery of inspectors’ certificates, and of copies

@@ -3,9 +3,9 @@ title: "Section 4419 - Nonprofit and nonpolitical nature of Institute"
 usc_title: 20
 usc_section: "4419"
 chapter: 56
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 4419"
-generated_at: "2026-03-30T00:57:26.425Z"
+generated_at: "2026-03-30T01:02:54.596Z"
 ---
 
 # § 4419. Nonprofit and nonpolitical nature of Institute

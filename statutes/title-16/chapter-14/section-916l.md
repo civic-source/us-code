@@ -3,9 +3,9 @@ title: "Section 916l - Authorization of appropriations"
 usc_title: 16
 usc_section: "916l"
 chapter: 14
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 916l"
-generated_at: "2026-03-30T00:57:08.679Z"
+generated_at: "2026-03-30T01:03:37.464Z"
 ---
 
 # § 916l. Authorization of appropriations

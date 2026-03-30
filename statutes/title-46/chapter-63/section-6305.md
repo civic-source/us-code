@@ -3,9 +3,9 @@ title: "Section 6305 - Reports of investigations"
 usc_title: 46
 usc_section: "6305"
 chapter: 63
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "46 U.S.C. § 6305"
-generated_at: "2026-03-30T00:59:41.492Z"
+generated_at: "2026-03-30T01:06:18.946Z"
 ---
 
 # § 6305. Reports of investigations

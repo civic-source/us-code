@@ -3,9 +3,9 @@ title: "Section 9023a - Legislative Liaison of the Space Force"
 usc_title: 10
 usc_section: "9023a"
 chapter: 903
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 9023a"
-generated_at: "2026-03-30T00:56:33.248Z"
+generated_at: "2026-03-30T01:02:06.210Z"
 ---
 
 # § 9023a. Legislative Liaison of the Space Force

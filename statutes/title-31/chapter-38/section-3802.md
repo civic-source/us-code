@@ -3,9 +3,9 @@ title: "Section 3802 - False claims and statements; liability"
 usc_title: 31
 usc_section: "3802"
 chapter: 38
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "31 U.S.C. § 3802"
-generated_at: "2026-03-30T00:58:30.900Z"
+generated_at: "2026-03-30T01:04:55.669Z"
 ---
 
 # § 3802. False claims and statements; liability

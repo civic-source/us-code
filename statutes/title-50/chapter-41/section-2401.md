@@ -3,9 +3,9 @@ title: "Section 2401 - Establishment and mission"
 usc_title: 50
 usc_section: "2401"
 chapter: 41
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 2401"
-generated_at: "2026-03-30T01:00:05.113Z"
+generated_at: "2026-03-30T01:06:06.764Z"
 ---
 
 # § 2401. Establishment and mission

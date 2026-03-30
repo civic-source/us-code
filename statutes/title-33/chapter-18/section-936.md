@@ -3,9 +3,9 @@ title: "Section 936 - Insurance policies"
 usc_title: 33
 usc_section: "936"
 chapter: 18
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "33 U.S.C. § 936"
-generated_at: "2026-03-30T00:58:29.766Z"
+generated_at: "2026-03-30T01:04:57.302Z"
 ---
 
 # § 936. Insurance policies

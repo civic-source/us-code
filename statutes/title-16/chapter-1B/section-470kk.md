@@ -3,9 +3,9 @@ title: "Section 470kk - Savings provisions"
 usc_title: 16
 usc_section: "470kk"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 470kk"
-generated_at: "2026-03-30T00:57:08.616Z"
+generated_at: "2026-03-30T01:03:37.369Z"
 ---
 
 # § 470kk. Savings provisions

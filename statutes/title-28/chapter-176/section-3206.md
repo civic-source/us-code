@@ -3,9 +3,9 @@ title: "Section 3206 - Discharge"
 usc_title: 28
 usc_section: "3206"
 chapter: 176
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "28 U.S.C. § 3206"
-generated_at: "2026-03-30T00:57:57.976Z"
+generated_at: "2026-03-30T01:04:18.421Z"
 ---
 
 # § 3206. Discharge

@@ -3,9 +3,9 @@ title: "Section 369 - Annual report"
 usc_title: 45
 usc_section: "369"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "45 U.S.C. § 369"
-generated_at: "2026-03-30T00:59:04.186Z"
+generated_at: "2026-03-30T01:05:14.720Z"
 ---
 
 # § 369. Annual report

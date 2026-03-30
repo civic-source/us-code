@@ -3,9 +3,9 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-03-30T00:57:26.354Z"
+generated_at: "2026-03-30T01:02:54.533Z"
 ---
 
 # § 1092. Institutional and financial assistance information for students

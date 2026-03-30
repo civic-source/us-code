@@ -3,9 +3,9 @@ title: "Section 8768 - Omitted"
 usc_title: 42
 usc_section: "8768"
 chapter: 95
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 8768"
-generated_at: "2026-03-30T00:59:31.457Z"
+generated_at: "2026-03-30T01:05:41.376Z"
 ---
 
 # §§ 8761 to 8768. Omitted

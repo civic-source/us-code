@@ -3,9 +3,9 @@ title: "Section 136g - Inspection of establishments, etc."
 usc_title: 7
 usc_section: "136g"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 136g"
-generated_at: "2026-03-30T00:56:14.373Z"
+generated_at: "2026-03-30T01:01:59.122Z"
 ---
 
 # § 136g. Inspection of establishments, etc.

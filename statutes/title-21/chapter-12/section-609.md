@@ -3,9 +3,9 @@ title: "Section 609 - Examination of animals and food products thereof, slaughte
 usc_title: 21
 usc_section: "609"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "21 U.S.C. § 609"
-generated_at: "2026-03-30T00:57:32.019Z"
+generated_at: "2026-03-30T01:04:09.571Z"
 ---
 
 # § 609. Examination of animals and food products thereof, slaughtered and prepared during nighttime

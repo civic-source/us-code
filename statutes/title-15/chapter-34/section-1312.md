@@ -3,9 +3,9 @@ title: "Section 1312 - Civil investigative demands"
 usc_title: 15
 usc_section: "1312"
 chapter: 34
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 1312"
-generated_at: "2026-03-30T00:56:45.762Z"
+generated_at: "2026-03-30T01:02:38.390Z"
 ---
 
 # § 1312. Civil investigative demands

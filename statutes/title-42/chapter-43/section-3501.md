@@ -3,9 +3,9 @@ title: "Section 3501 - Establishment of Department; effective date"
 usc_title: 42
 usc_section: "3501"
 chapter: 43
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 3501"
-generated_at: "2026-03-30T00:59:31.250Z"
+generated_at: "2026-03-30T01:05:41.174Z"
 ---
 
 # § 3501. Establishment of Department; effective date

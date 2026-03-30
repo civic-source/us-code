@@ -3,9 +3,9 @@ title: "Section 1074b - Medical and dental care: Academy cadets and midshipmen; 
 usc_title: 10
 usc_section: "1074b"
 chapter: 55
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 1074b"
-generated_at: "2026-03-30T00:56:33.140Z"
+generated_at: "2026-03-30T01:02:06.061Z"
 ---
 
 # § 1074b. Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC

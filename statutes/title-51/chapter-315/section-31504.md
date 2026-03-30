@@ -3,9 +3,9 @@ title: "Section 31504 - Cooperative unmanned aerial vehicle activities"
 usc_title: 51
 usc_section: "31504"
 chapter: 315
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "51 U.S.C. § 31504"
-generated_at: "2026-03-30T01:00:18.976Z"
+generated_at: "2026-03-30T01:06:43.500Z"
 ---
 
 # § 31504. Cooperative unmanned aerial vehicle activities

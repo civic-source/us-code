@@ -3,9 +3,9 @@ title: "Section 14 - Payment of compensation and benefits from compensation fund
 usc_title: 42
 usc_section: "14"
 chapter: 84
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T00:59:31.388Z"
+generated_at: "2026-03-30T01:05:41.308Z"
 ---
 
 # § 7385s–14. Payment of compensation and benefits from compensation fund

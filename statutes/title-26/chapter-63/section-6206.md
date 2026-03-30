@@ -3,9 +3,9 @@ title: "Section 6206 - Special rules applicable to excessive claims under certai
 usc_title: 26
 usc_section: "6206"
 chapter: 63
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "26 U.S.C. § 6206"
-generated_at: "2026-03-30T00:58:24.424Z"
+generated_at: "2026-03-30T01:04:51.632Z"
 ---
 
 # § 6206. Special rules applicable to excessive claims under certain sections

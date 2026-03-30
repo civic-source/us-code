@@ -3,9 +3,9 @@ title: "Section 36d - Treatment Referral Routing Service"
 usc_title: 42
 usc_section: "36d"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 36d"
-generated_at: "2026-03-30T00:59:30.717Z"
+generated_at: "2026-03-30T01:05:40.655Z"
 ---
 
 # § 290bb–36d. Treatment Referral Routing Service

@@ -3,9 +3,9 @@ title: "Section 4404 - Repealed or Transferred"
 usc_title: 50
 usc_section: "4404"
 chapter: 54
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 4404"
-generated_at: "2026-03-30T01:00:05.186Z"
+generated_at: "2026-03-30T01:06:06.842Z"
 ---
 
 # § 4404. Repealed or Transferred

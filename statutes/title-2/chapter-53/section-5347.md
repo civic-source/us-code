@@ -3,9 +3,9 @@ title: "Section 5347 - Delivery of bills and resolutions"
 usc_title: 2
 usc_section: "5347"
 chapter: 53
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "2 U.S.C. § 5347"
-generated_at: "2026-03-30T00:55:40.995Z"
+generated_at: "2026-03-30T01:00:36.186Z"
 ---
 
 # § 5347. Delivery of bills and resolutions

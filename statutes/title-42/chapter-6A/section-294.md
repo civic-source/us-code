@@ -3,9 +3,9 @@ title: "Section 294 - General provisions"
 usc_title: 42
 usc_section: "294"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 294"
-generated_at: "2026-03-30T00:59:30.733Z"
+generated_at: "2026-03-30T01:05:40.671Z"
 ---
 
 # § 294. General provisions

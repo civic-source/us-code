@@ -3,9 +3,9 @@ title: "Section 509 - Space-available travel on Coast Guard aircraft"
 usc_title: 14
 usc_section: "509"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "14 U.S.C. § 509"
-generated_at: "2026-03-30T00:56:49.002Z"
+generated_at: "2026-03-30T01:02:26.317Z"
 ---
 
 # § 509. Space-available travel on Coast Guard aircraft

@@ -3,9 +3,9 @@ title: "Section 4806 - Regulatory appeals process, ombudsman, and alternative di
 usc_title: 12
 usc_section: "4806"
 chapter: 48
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 4806"
-generated_at: "2026-03-30T00:56:40.397Z"
+generated_at: "2026-03-30T01:02:17.217Z"
 ---
 
 # § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution

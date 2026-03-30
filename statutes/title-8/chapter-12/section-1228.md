@@ -3,9 +3,9 @@ title: "Section 1228 - Expedited removal of aliens convicted of committing aggra
 usc_title: 8
 usc_section: "1228"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "8 U.S.C. § 1228"
-generated_at: "2026-03-30T00:55:53.333Z"
+generated_at: "2026-03-30T01:01:08.190Z"
 ---
 
 # § 1228. Expedited removal of aliens convicted of committing aggravated felonies

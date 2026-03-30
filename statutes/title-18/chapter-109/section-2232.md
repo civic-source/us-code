@@ -3,9 +3,9 @@ title: "Section 2232 - Destruction or removal of property to prevent seizure"
 usc_title: 18
 usc_section: "2232"
 chapter: 109
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 2232"
-generated_at: "2026-03-30T00:56:53.050Z"
+generated_at: "2026-03-30T01:02:49.017Z"
 ---
 
 # § 2232. Destruction or removal of property to prevent seizure

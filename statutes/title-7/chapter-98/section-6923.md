@@ -3,9 +3,9 @@ title: "Section 6923 - Office of Urban Agriculture and Innovative Production"
 usc_title: 7
 usc_section: "6923"
 chapter: 98
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 6923"
-generated_at: "2026-03-30T00:56:14.521Z"
+generated_at: "2026-03-30T01:01:59.325Z"
 ---
 
 # § 6923. Office of Urban Agriculture and Innovative Production

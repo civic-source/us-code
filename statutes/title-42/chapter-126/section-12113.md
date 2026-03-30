@@ -3,9 +3,9 @@ title: "Section 12113 - Defenses"
 usc_title: 42
 usc_section: "12113"
 chapter: 126
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 12113"
-generated_at: "2026-03-30T00:59:31.537Z"
+generated_at: "2026-03-30T01:05:41.456Z"
 ---
 
 # § 12113. Defenses

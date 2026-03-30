@@ -3,9 +3,9 @@ title: "Section 3405 - Wheat Industry Council"
 usc_title: 7
 usc_section: "3405"
 chapter: 65
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 3405"
-generated_at: "2026-03-30T00:56:14.492Z"
+generated_at: "2026-03-30T01:01:59.285Z"
 ---
 
 # § 3405. Wheat Industry Council

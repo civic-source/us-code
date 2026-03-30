@@ -3,9 +3,9 @@ title: "Section 5714 - Definitions"
 usc_title: 15
 usc_section: "5714"
 chapter: 83
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 5714"
-generated_at: "2026-03-30T00:56:45.842Z"
+generated_at: "2026-03-30T01:02:38.491Z"
 ---
 
 # § 5714. Definitions

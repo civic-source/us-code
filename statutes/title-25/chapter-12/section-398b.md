@@ -3,9 +3,9 @@ title: "Section 398b - Proceeds from rentals, royalties, and bonuses; dispositio
 usc_title: 25
 usc_section: "398b"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "25 U.S.C. § 398b"
-generated_at: "2026-03-30T00:57:33.260Z"
+generated_at: "2026-03-30T01:03:48.692Z"
 ---
 
 # § 398b. Proceeds from rentals, royalties, and bonuses; disposition

@@ -3,9 +3,9 @@ title: "Section 10706 - Limitations on grants and contracts"
 usc_title: 42
 usc_section: "10706"
 chapter: 113
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 10706"
-generated_at: "2026-03-30T00:59:31.515Z"
+generated_at: "2026-03-30T01:05:41.434Z"
 ---
 
 # § 10706. Limitations on grants and contracts

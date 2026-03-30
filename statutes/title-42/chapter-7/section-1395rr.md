@@ -3,9 +3,9 @@ title: "Section 1395rr - End stage renal disease program"
 usc_title: 42
 usc_section: "1395rr"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 1395rr"
-generated_at: "2026-03-30T00:59:31.026Z"
+generated_at: "2026-03-30T01:05:40.961Z"
 ---
 
 # § 1395rr. End stage renal disease program

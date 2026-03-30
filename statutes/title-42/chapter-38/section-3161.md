@@ -3,9 +3,9 @@ title: "Section 3161 - Eligibility of areas"
 usc_title: 42
 usc_section: "3161"
 chapter: 38
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 3161"
-generated_at: "2026-03-30T00:59:31.247Z"
+generated_at: "2026-03-30T01:05:41.172Z"
 ---
 
 # § 3161. Eligibility of areas

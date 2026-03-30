@@ -3,9 +3,9 @@ title: "Section 698u - Tallgrass Prairie National Preserve: findings and purpose
 usc_title: 16
 usc_section: "698u"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 698u"
-generated_at: "2026-03-30T00:57:08.649Z"
+generated_at: "2026-03-30T01:03:37.419Z"
 ---
 
 # § 698u. Tallgrass Prairie National Preserve: findings and purposes

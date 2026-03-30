@@ -3,9 +3,9 @@ title: "Section 9119 - Prevention of interference with other uses of high seas"
 usc_title: 42
 usc_section: "9119"
 chapter: 99
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 9119"
-generated_at: "2026-03-30T00:59:31.461Z"
+generated_at: "2026-03-30T01:05:41.381Z"
 ---
 
 # § 9119. Prevention of interference with other uses of high seas

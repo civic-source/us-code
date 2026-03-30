@@ -3,9 +3,9 @@ title: "Section 19119 - Reports and roadmaps"
 usc_title: 42
 usc_section: "19119"
 chapter: 163
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 19119"
-generated_at: "2026-03-30T00:59:31.708Z"
+generated_at: "2026-03-30T01:05:41.621Z"
 ---
 
 # § 19119. Reports and roadmaps

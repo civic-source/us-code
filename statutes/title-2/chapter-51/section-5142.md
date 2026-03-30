@@ -3,9 +3,9 @@ title: "Section 5142 - Additional amounts for personnel and equipment for House 
 usc_title: 2
 usc_section: "5142"
 chapter: 51
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "2 U.S.C. § 5142"
-generated_at: "2026-03-30T00:55:40.993Z"
+generated_at: "2026-03-30T01:00:36.185Z"
 ---
 
 # § 5142. Additional amounts for personnel and equipment for House Majority and Minority Leaders and Majority and Minority Whips

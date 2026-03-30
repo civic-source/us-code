@@ -3,9 +3,9 @@ title: "Section 9307 - Program advisory committees"
 usc_title: 42
 usc_section: "9307"
 chapter: 101
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 9307"
-generated_at: "2026-03-30T00:59:31.465Z"
+generated_at: "2026-03-30T01:05:41.383Z"
 ---
 
 # § 9307. Program advisory committees

@@ -3,9 +3,9 @@ title: "Section 2056 - Eligibility for annuity"
 usc_title: 50
 usc_section: "2056"
 chapter: 38
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 2056"
-generated_at: "2026-03-30T01:00:05.108Z"
+generated_at: "2026-03-30T01:06:06.758Z"
 ---
 
 # § 2056. Eligibility for annuity

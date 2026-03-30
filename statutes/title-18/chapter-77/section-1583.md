@@ -3,9 +3,9 @@ title: "Section 1583 - Enticement into slavery"
 usc_title: 18
 usc_section: "1583"
 chapter: 77
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 1583"
-generated_at: "2026-03-30T00:56:53.042Z"
+generated_at: "2026-03-30T01:02:49.006Z"
 ---
 
 # § 1583. Enticement into slavery

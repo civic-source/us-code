@@ -3,9 +3,9 @@ title: "Section 2054 - Losses"
 usc_title: 26
 usc_section: "2054"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "26 U.S.C. § 2054"
-generated_at: "2026-03-30T00:58:24.340Z"
+generated_at: "2026-03-30T01:04:51.551Z"
 ---
 
 # § 2054. Losses

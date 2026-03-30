@@ -3,9 +3,9 @@ title: "Section 2562 - Presumption of validity; defenses"
 usc_title: 7
 usc_section: "2562"
 chapter: 57
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 2562"
-generated_at: "2026-03-30T00:56:14.480Z"
+generated_at: "2026-03-30T01:01:59.267Z"
 ---
 
 # § 2562. Presumption of validity; defenses

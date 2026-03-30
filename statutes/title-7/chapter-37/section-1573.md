@@ -3,9 +3,9 @@ title: "Section 1573 - Exemptions"
 usc_title: 7
 usc_section: "1573"
 chapter: 37
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 1573"
-generated_at: "2026-03-30T00:56:14.429Z"
+generated_at: "2026-03-30T01:01:59.198Z"
 ---
 
 # § 1573. Exemptions

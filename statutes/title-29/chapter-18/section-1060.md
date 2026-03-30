@@ -3,9 +3,9 @@ title: "Section 1060 - Multiple employer plans and other special rules"
 usc_title: 29
 usc_section: "1060"
 chapter: 18
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "29 U.S.C. § 1060"
-generated_at: "2026-03-30T00:57:53.302Z"
+generated_at: "2026-03-30T01:04:23.735Z"
 ---
 
 # § 1060. Multiple employer plans and other special rules

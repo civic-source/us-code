@@ -3,9 +3,9 @@ title: "Section 1202 - Definitions"
 usc_title: 45
 usc_section: "1202"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "45 U.S.C. § 1202"
-generated_at: "2026-03-30T00:59:04.198Z"
+generated_at: "2026-03-30T01:05:14.732Z"
 ---
 
 # § 1202. Definitions

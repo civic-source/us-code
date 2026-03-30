@@ -3,9 +3,9 @@ title: "Section 2602 - Transportation of international mail by air carriers of t
 usc_title: 39
 usc_section: "2602"
 chapter: 26
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "39 U.S.C. § 2602"
-generated_at: "2026-03-30T00:58:35.997Z"
+generated_at: "2026-03-30T01:05:03.656Z"
 ---
 
 # § 2602. Transportation of international mail by air carriers of the United States

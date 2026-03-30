@@ -3,9 +3,9 @@ title: "Section 5949 - Hostile fire pay"
 usc_title: 5
 usc_section: "5949"
 chapter: 59
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 5949"
-generated_at: "2026-03-30T00:55:37.176Z"
+generated_at: "2026-03-30T01:01:03.929Z"
 ---
 
 # § 5949. Hostile fire pay

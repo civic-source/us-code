@@ -3,9 +3,9 @@ title: "Section 4211 - Repealed. Pub. L. 105–362, title X, § 1001(e) , Nov. 1
 usc_title: 12
 usc_section: "4211"
 chapter: 43
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 4211"
-generated_at: "2026-03-30T00:56:40.382Z"
+generated_at: "2026-03-30T01:02:17.195Z"
 ---
 
 # § 4211. Repealed. Pub. L. 105–362, title X, § 1001(e) , Nov. 10, 1998 , 112 Stat. 3291

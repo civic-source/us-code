@@ -3,9 +3,9 @@ title: "Section 1036 - Entry by false pretenses to any real property, vessel, or
 usc_title: 18
 usc_section: "1036"
 chapter: 47
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 1036"
-generated_at: "2026-03-30T00:56:53.037Z"
+generated_at: "2026-03-30T01:02:48.998Z"
 ---
 
 # § 1036. Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport

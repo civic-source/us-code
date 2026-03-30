@@ -3,9 +3,9 @@ title: "Section 60142 - Pipeline safety enhancement programs"
 usc_title: 49
 usc_section: "60142"
 chapter: 601
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "49 U.S.C. § 60142"
-generated_at: "2026-03-30T00:59:54.794Z"
+generated_at: "2026-03-30T01:06:35.263Z"
 ---
 
 # § 60142. Pipeline safety enhancement programs

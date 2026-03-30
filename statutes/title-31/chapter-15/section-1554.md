@@ -3,9 +3,9 @@ title: "Section 1554 - Audit, control, and reporting"
 usc_title: 31
 usc_section: "1554"
 chapter: 15
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "31 U.S.C. § 1554"
-generated_at: "2026-03-30T00:58:30.887Z"
+generated_at: "2026-03-30T01:04:55.656Z"
 ---
 
 # § 1554. Audit, control, and reporting

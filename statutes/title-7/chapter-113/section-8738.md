@@ -3,9 +3,9 @@ title: "Section 8738 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "8738"
 chapter: 113
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 8738"
-generated_at: "2026-03-30T00:56:14.555Z"
+generated_at: "2026-03-30T01:01:59.371Z"
 ---
 
 # § 8738. Special competitive provisions for extra long staple cotton

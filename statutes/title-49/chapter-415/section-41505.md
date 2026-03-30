@@ -3,9 +3,9 @@ title: "Section 41505 - Uniform methods for establishing joint prices, and divis
 usc_title: 49
 usc_section: "41505"
 chapter: 415
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "49 U.S.C. § 41505"
-generated_at: "2026-03-30T00:59:54.738Z"
+generated_at: "2026-03-30T01:06:35.218Z"
 ---
 
 # § 41505. Uniform methods for establishing joint prices, and divisions of joint prices, applicable to commuter air carriers

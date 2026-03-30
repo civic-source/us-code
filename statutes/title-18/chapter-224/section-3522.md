@@ -3,9 +3,9 @@ title: "Section 3522 - Probationers and parolees"
 usc_title: 18
 usc_section: "3522"
 chapter: 224
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 3522"
-generated_at: "2026-03-30T00:56:53.070Z"
+generated_at: "2026-03-30T01:02:49.045Z"
 ---
 
 # § 3522. Probationers and parolees

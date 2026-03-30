@@ -3,9 +3,9 @@ title: "Section 5323 - General provisions"
 usc_title: 49
 usc_section: "5323"
 chapter: 53
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "49 U.S.C. § 5323"
-generated_at: "2026-03-30T00:59:54.657Z"
+generated_at: "2026-03-30T01:06:35.145Z"
 ---
 
 # § 5323. General provisions

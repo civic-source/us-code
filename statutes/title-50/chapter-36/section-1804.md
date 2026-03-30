@@ -3,9 +3,9 @@ title: "Section 1804 - Applications for court orders"
 usc_title: 50
 usc_section: "1804"
 chapter: 36
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 1804"
-generated_at: "2026-03-30T01:00:05.092Z"
+generated_at: "2026-03-30T01:06:06.743Z"
 ---
 
 # § 1804. Applications for court orders
@@ -13,8 +13,8 @@ generated_at: "2026-03-30T01:00:05.092Z"
 - **(a)** Each application for an order approving electronic surveillance under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge having jurisdiction under section 1803 of this title . Each application shall require the approval of the Attorney General based upon his finding that it satisfies the criteria and requirements of such application as set forth in this subchapter. It shall include—
   - **(1)** the identity of the Federal officer making the application;
   - **(2)** the identity, if known, or a description of the specific target of the electronic surveillance;
-  - **(3)** a statement of the facts and circumstances relied upon by the applicant to justify his belief that—
-    - **(A)** the target of the electronic surveillance is a foreign power or an agent of a foreign power; and
+  - **(3)** a sworn statement of the facts and circumstances relied upon by the applicant to justify his belief that—
+    - **(A)** the target of the electronic surveillance is a foreign power or an agent of a foreign power, and, in the case of a target that is a United States person alleged to be acting as an agent of a foreign power (as described in section 1801(b)(2)(B) of this title ), that a violation of the criminal statutes of the United States as referred to in section 1801(b)(2)(B) of this title has occurred or is about to occur; and
     - **(B)** each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power;
   - **(4)** a statement of the proposed minimization procedures;
   - **(5)** a description of the nature of the information sought and the type of communications or activities to be subjected to the surveillance;
@@ -22,13 +22,24 @@ generated_at: "2026-03-30T01:00:05.092Z"
     - **(A)** that the certifying official deems the information sought to be foreign intelligence information;
     - **(B)** that a significant purpose of the surveillance is to obtain foreign intelligence information;
     - **(C)** that such information cannot reasonably be obtained by normal investigative techniques;
-    - **(D)** that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title ; and
+    - **(D)** that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title ;
     - **(E)** including a statement of the basis for the certification that—
       - **(i)** the information sought is the type of foreign intelligence information designated; and
-      - **(ii)** such information cannot reasonably be obtained by normal investigative techniques;
+      - **(ii)** such information cannot reasonably be obtained by normal investigative techniques; and 1 1 So in original. The word “and” probably should not appear.
+    - **(F)** that none of the information included in the statement described in paragraph (3) was solely produced by, derived from information produced by, or obtained using the funds of, a political organization (as such term is defined in section 527 of title 26 ), unless—
+      - **(i)** the political organization is clearly identified in the body of the statement described in paragraph (3);
+      - **(ii)** the information has been corroborated; and
+      - **(iii)** the investigative techniques used to corroborate the information are clearly identified in the body of the statement described in paragraph (3); and
+    - **(G)** that none of the information included in the statement described in paragraph (3) is attributable to or derived from the content of a media source unless the statement includes a clear identification of each author of that content, and where applicable, the publisher of that content, information to corroborate that which was derived from the media source, and an explanation of the investigative techniques used to corroborate the information;
   - **(7)** a summary statement of the means by which the surveillance will be effected and a statement whether physical entry is required to effect the surveillance;
-  - **(8)** a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, facilities, or places specified in the application, and the action taken on each previous application; and
-  - **(9)** a statement of the period of time for which the electronic surveillance is required to be maintained, and if the nature of the intelligence gathering is such that the approval of the use of electronic surveillance under this subchapter should not automatically terminate when the described type of information has first been obtained, a description of facts supporting the belief that additional information of the same type will be obtained thereafter.
+  - **(8)** a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, facilities, or places specified in the application, and the action taken on each previous application;
+  - **(9)** a statement of the period of time for which the electronic surveillance is required to be maintained, and if the nature of the intelligence gathering is such that the approval of the use of electronic surveillance under this subchapter should not automatically terminate when the described type of information has first been obtained, a description of facts supporting the belief that additional information of the same type will be obtained thereafter; and 1
+  - **(10)** with respect to a target who is a United States person, a statement summarizing the investigative techniques carried out before making the application;
+  - **(11)** in the case of an application for an extension of an order under this subchapter for a surveillance targeted against a United States person, a summary statement of the foreign intelligence information obtained pursuant to the original order (and any preceding extension thereof) as of the date of the application for the extension, or a reasonable explanation of the failure to obtain such information; and 1
+  - **(12)** a certification by the applicant or declarant that, to the best knowledge of the applicant or declarant, the Attorney General or a designated attorney for the Government has been apprised of all information that might reasonably—
+    - **(A)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
+    - **(B)** otherwise raise doubts with respect to the findings required under section 1805(a) of this title . 2 2 So in original. The period probably should be “; and”.
+  - **(13)** non-cumulative information known to the applicant or declarant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
 - **(b)** The Attorney General may require any other affidavit or certification from any other officer in connection with the application.
 - **(c)** The judge may require the applicant to furnish such other information as may be necessary to make the determinations required by section 1805 of this title .
 - **(d)**

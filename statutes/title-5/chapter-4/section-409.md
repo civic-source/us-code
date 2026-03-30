@@ -3,9 +3,9 @@ title: "Section 409 - Special provisions concerning the Agency for International
 usc_title: 5
 usc_section: "409"
 chapter: 4
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 409"
-generated_at: "2026-03-30T00:55:37.135Z"
+generated_at: "2026-03-30T01:01:03.875Z"
 ---
 
 # § 409. Special provisions concerning the Agency for International Development

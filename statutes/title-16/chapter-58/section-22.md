@@ -3,9 +3,9 @@ title: "Section 22 - Conservation stewardship program"
 usc_title: 16
 usc_section: "22"
 chapter: 58
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 22"
-generated_at: "2026-03-30T00:57:08.758Z"
+generated_at: "2026-03-30T01:03:37.570Z"
 ---
 
 # § 3839aa–22. Conservation stewardship program

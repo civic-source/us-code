@@ -3,9 +3,9 @@ title: "Section 10251 - Authorization to provide technical assistance for effort
 usc_title: 22
 usc_section: "10251"
 chapter: 109
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 10251"
-generated_at: "2026-03-30T00:57:39.180Z"
+generated_at: "2026-03-30T01:04:13.436Z"
 ---
 
 # § 10251. Authorization to provide technical assistance for efforts against human rights abuses

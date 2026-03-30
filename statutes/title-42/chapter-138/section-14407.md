@@ -3,9 +3,9 @@ title: "Section 14407 - Application to District of Columbia"
 usc_title: 42
 usc_section: "14407"
 chapter: 138
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 14407"
-generated_at: "2026-03-30T00:59:31.593Z"
+generated_at: "2026-03-30T01:05:41.510Z"
 ---
 
 # § 14407. Application to District of Columbia

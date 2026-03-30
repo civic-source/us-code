@@ -3,9 +3,9 @@ title: "Section 122a - Redeemed notes of unidentifiable issue; funds charged aga
 usc_title: 12
 usc_section: "122a"
 chapter: 2
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "12 U.S.C. § 122a"
-generated_at: "2026-03-30T00:56:40.256Z"
+generated_at: "2026-03-30T01:02:17.013Z"
 ---
 
 # § 122a. Redeemed notes of unidentifiable issue; funds charged against

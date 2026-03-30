@@ -3,9 +3,9 @@ title: "Section 1163 - Appointment of trustee"
 usc_title: 11
 usc_section: "1163"
 chapter: 11
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "11 U.S.C. § 1163"
-generated_at: "2026-03-30T00:56:40.771Z"
+generated_at: "2026-03-30T01:02:24.336Z"
 ---
 
 # § 1163. Appointment of trustee

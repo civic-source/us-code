@@ -3,9 +3,9 @@ title: "Section 1644b - Receipt and determination of claims; notice by publicati
 usc_title: 22
 usc_section: "1644b"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 1644b"
-generated_at: "2026-03-30T00:57:38.982Z"
+generated_at: "2026-03-30T01:04:13.252Z"
 ---
 
 # § 1644b. Receipt and determination of claims; notice by publication in Federal Register

@@ -3,9 +3,9 @@ title: "Section 1393 - Allotment of appropriations"
 usc_title: 7
 usc_section: "1393"
 chapter: 35
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 1393"
-generated_at: "2026-03-30T00:56:14.415Z"
+generated_at: "2026-03-30T01:01:59.181Z"
 ---
 
 # § 1393. Allotment of appropriations

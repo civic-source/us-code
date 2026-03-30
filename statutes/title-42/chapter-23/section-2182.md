@@ -3,9 +3,9 @@ title: "Section 2182 - Inventions conceived during Commission contracts; ownersh
 usc_title: 42
 usc_section: "2182"
 chapter: 23
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 2182"
-generated_at: "2026-03-30T00:59:31.208Z"
+generated_at: "2026-03-30T01:05:41.133Z"
 ---
 
 # § 2182. Inventions conceived during Commission contracts; ownership; waiver; hearings

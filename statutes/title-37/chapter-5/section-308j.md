@@ -3,9 +3,9 @@ title: "Section 308j - Special pay: affiliation bonus for officers in the Select
 usc_title: 37
 usc_section: "308j"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "37 U.S.C. § 308j"
-generated_at: "2026-03-30T00:58:37.522Z"
+generated_at: "2026-03-30T01:05:06.489Z"
 ---
 
 # § 308j. Special pay: affiliation bonus for officers in the Selected Reserve

@@ -3,9 +3,9 @@ title: "Section 127a - Operations for which funds are not provided in advance: f
 usc_title: 10
 usc_section: "127a"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 127a"
-generated_at: "2026-03-30T00:56:33.087Z"
+generated_at: "2026-03-30T01:02:05.994Z"
 ---
 
 # § 127a. Operations for which funds are not provided in advance: funding mechanisms

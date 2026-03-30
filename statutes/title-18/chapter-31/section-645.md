@@ -3,9 +3,9 @@ title: "Section 645 - Court officers generally"
 usc_title: 18
 usc_section: "645"
 chapter: 31
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 645"
-generated_at: "2026-03-30T00:56:53.024Z"
+generated_at: "2026-03-30T01:02:48.980Z"
 ---
 
 # § 645. Court officers generally

@@ -1,0 +1,14 @@
+---
+title: "Section 1810a - Reporting requirements for civil actions"
+usc_title: 50
+usc_section: "1810a"
+chapter: 36
+current_through: "PL 118-49"
+classification: "50 U.S.C. § 1810a"
+generated_at: "2026-03-30T01:06:06.745Z"
+---
+
+# § 1810a. Reporting requirements for civil actions
+
+- **(a)** If a court finds that a person has violated this chapter in a civil action under section 1810 of this title , the head of the agency that employs that person shall report to Congress on the administrative action taken against that person pursuant to section 1803(m) of this title or any other provision of law.
+- **(b)** If a court finds that a person has violated this chapter in a civil action under section 1810 of this title , the head of the agency that employs that person shall report the name of such person to the Foreign Intelligence Surveillance Court. The Foreign Intelligence Surveillance Court shall maintain a list of each person about whom it received a report under this subsection.

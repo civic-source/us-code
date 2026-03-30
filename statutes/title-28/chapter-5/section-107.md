@@ -3,9 +3,9 @@ title: "Section 107 - Nebraska"
 usc_title: 28
 usc_section: "107"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "28 U.S.C. § 107"
-generated_at: "2026-03-30T00:57:57.934Z"
+generated_at: "2026-03-30T01:04:18.379Z"
 ---
 
 # § 107. Nebraska

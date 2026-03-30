@@ -3,9 +3,9 @@ title: "Section 1761a - Streamlining the Forest Service process for consideratio
 usc_title: 43
 usc_section: "1761a"
 chapter: 35
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 1761a"
-generated_at: "2026-03-30T00:58:53.127Z"
+generated_at: "2026-03-30T01:05:16.061Z"
 ---
 
 # § 1761a. Streamlining the Forest Service process for consideration of communications facility location applications

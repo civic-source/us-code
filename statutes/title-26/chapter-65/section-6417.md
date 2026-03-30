@@ -3,9 +3,9 @@ title: "Section 6417 - Elective payment of applicable credits"
 usc_title: 26
 usc_section: "6417"
 chapter: 65
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "26 U.S.C. § 6417"
-generated_at: "2026-03-30T00:58:24.434Z"
+generated_at: "2026-03-30T01:04:51.642Z"
 ---
 
 # § 6417. Elective payment of applicable credits

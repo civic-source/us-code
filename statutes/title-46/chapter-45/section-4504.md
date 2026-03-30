@@ -3,9 +3,9 @@ title: "Section 4504 - Prohibited acts"
 usc_title: 46
 usc_section: "4504"
 chapter: 45
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "46 U.S.C. § 4504"
-generated_at: "2026-03-30T00:59:41.491Z"
+generated_at: "2026-03-30T01:06:18.945Z"
 ---
 
 # § 4504. Prohibited acts

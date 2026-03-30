@@ -3,9 +3,9 @@ title: "Section 6123 - Authority of Metropolitan Police of the District of Colum
 usc_title: 40
 usc_section: "6123"
 chapter: 61
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "40 U.S.C. § 6123"
-generated_at: "2026-03-30T00:58:35.405Z"
+generated_at: "2026-03-30T01:05:08.149Z"
 ---
 
 # § 6123. Authority of Metropolitan Police of the District of Columbia

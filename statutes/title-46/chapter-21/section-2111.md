@@ -3,9 +3,9 @@ title: "Section 2111 - Pay for overtime services"
 usc_title: 46
 usc_section: "2111"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "46 U.S.C. § 2111"
-generated_at: "2026-03-30T00:59:41.485Z"
+generated_at: "2026-03-30T01:06:18.936Z"
 ---
 
 # § 2111. Pay for overtime services

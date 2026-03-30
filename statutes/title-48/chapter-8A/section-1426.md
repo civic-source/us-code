@@ -3,9 +3,9 @@ title: "Section 1426 - Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 St
 usc_title: 48
 usc_section: "1426"
 chapter: 8
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "48 U.S.C. § 1426"
-generated_at: "2026-03-30T00:59:42.678Z"
+generated_at: "2026-03-30T01:06:15.403Z"
 ---
 
 # § 1426. Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 Stat. 622

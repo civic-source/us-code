@@ -3,9 +3,9 @@ title: "Section 826a - Art. 26a. Military magistrates"
 usc_title: 10
 usc_section: "826a"
 chapter: 47
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 826a"
-generated_at: "2026-03-30T00:56:33.125Z"
+generated_at: "2026-03-30T01:02:06.040Z"
 ---
 
 # § 826a. Art. 26a. Military magistrates

@@ -3,9 +3,9 @@ title: "Section 7351 - Submission of comprehensive review"
 usc_title: 42
 usc_section: "7351"
 chapter: 84
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 7351"
-generated_at: "2026-03-30T00:59:31.383Z"
+generated_at: "2026-03-30T01:05:41.303Z"
 ---
 
 # § 7351. Submission of comprehensive review

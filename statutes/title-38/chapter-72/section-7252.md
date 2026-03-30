@@ -3,9 +3,9 @@ title: "Section 7252 - Jurisdiction; finality of decisions"
 usc_title: 38
 usc_section: "7252"
 chapter: 72
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 7252"
-generated_at: "2026-03-30T00:58:40.904Z"
+generated_at: "2026-03-30T01:05:11.440Z"
 ---
 
 # § 7252. Jurisdiction; finality of decisions

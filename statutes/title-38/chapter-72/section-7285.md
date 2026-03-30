@@ -3,9 +3,9 @@ title: "Section 7285 - Practice and registration fees"
 usc_title: 38
 usc_section: "7285"
 chapter: 72
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 7285"
-generated_at: "2026-03-30T00:58:40.905Z"
+generated_at: "2026-03-30T01:05:11.440Z"
 ---
 
 # § 7285. Practice and registration fees

@@ -3,9 +3,9 @@ title: "Section 1856 - Transfer of bartered materials to supplemental stockpile;
 usc_title: 7
 usc_section: "1856"
 chapter: 46
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 1856"
-generated_at: "2026-03-30T00:56:14.443Z"
+generated_at: "2026-03-30T01:01:59.218Z"
 ---
 
 # § 1856. Transfer of bartered materials to supplemental stockpile; limitation of acquisition to certain programs; authorization of appropriations

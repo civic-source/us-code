@@ -3,9 +3,9 @@ title: "Section 1182 - Inadmissible aliens"
 usc_title: 8
 usc_section: "1182"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "8 U.S.C. § 1182"
-generated_at: "2026-03-30T00:55:53.321Z"
+generated_at: "2026-03-30T01:01:08.173Z"
 ---
 
 # § 1182. Inadmissible aliens

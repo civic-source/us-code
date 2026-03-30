@@ -3,9 +3,9 @@ title: "Section 3056l - Competitive requirements relating to grant awards"
 usc_title: 42
 usc_section: "3056l"
 chapter: 35
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 3056l"
-generated_at: "2026-03-30T00:59:31.241Z"
+generated_at: "2026-03-30T01:05:41.166Z"
 ---
 
 # § 3056l. Competitive requirements relating to grant awards

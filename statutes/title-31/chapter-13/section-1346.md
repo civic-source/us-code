@@ -3,9 +3,9 @@ title: "Section 1346 - Commissions, councils, boards, and inter­agency and simi
 usc_title: 31
 usc_section: "1346"
 chapter: 13
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "31 U.S.C. § 1346"
-generated_at: "2026-03-30T00:58:30.883Z"
+generated_at: "2026-03-30T01:04:55.654Z"
 ---
 
 # § 1346. Commissions, councils, boards, and inter­agency and similar groups

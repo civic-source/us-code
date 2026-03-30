@@ -3,9 +3,9 @@ title: "Section 1234 - Repealed. Pub. L. 91–646, title II, § 220(a)(1) , Jan.
 usc_title: 43
 usc_section: "1234"
 chapter: 28
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 1234"
-generated_at: "2026-03-30T00:58:53.096Z"
+generated_at: "2026-03-30T01:05:16.028Z"
 ---
 
 # §§ 1231 to 1234. Repealed. Pub. L. 91–646, title II, § 220(a)(1) , Jan. 2, 1971 , 84 Stat. 1903

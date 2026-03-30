@@ -3,9 +3,9 @@ title: "Section 6372c - State plans"
 usc_title: 42
 usc_section: "6372c"
 chapter: 77
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 6372c"
-generated_at: "2026-03-30T00:59:31.345Z"
+generated_at: "2026-03-30T01:05:41.266Z"
 ---
 
 # § 6372c. State plans

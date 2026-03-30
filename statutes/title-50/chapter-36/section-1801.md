@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 50
 usc_section: "1801"
 chapter: 36
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 1801"
-generated_at: "2026-03-30T01:00:05.089Z"
+generated_at: "2026-03-30T01:06:06.742Z"
 ---
 
 # § 1801. Definitions
@@ -44,8 +44,9 @@ As used in this subchapter:
 - **(e)** “Foreign intelligence information” means—
   - **(1)** information that relates to, and if concerning a United States person is necessary to, the ability of the United States to protect against—
     - **(A)** actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
-    - **(B)** sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power; or
+    - **(B)** sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power;
     - **(C)** clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power; or
+    - **(D)** international production, distribution, or financing of illicit synthetic drugs, opioids, cocaine, or other drugs driving overdose deaths, or precursors of any aforementioned; or
   - **(2)** information with respect to a foreign power or foreign territory that relates to, and if concerning a United States person is necessary to—
     - **(A)** the national defense or the security of the United States; or
     - **(B)** the conduct of the foreign affairs of the United States.

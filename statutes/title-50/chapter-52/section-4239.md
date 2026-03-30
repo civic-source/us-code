@@ -3,9 +3,9 @@ title: "Section 4239 - Severability"
 usc_title: 50
 usc_section: "4239"
 chapter: 52
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 4239"
-generated_at: "2026-03-30T01:00:05.181Z"
+generated_at: "2026-03-30T01:06:06.835Z"
 ---
 
 # § 4239. Severability

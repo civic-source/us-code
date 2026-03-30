@@ -3,9 +3,9 @@ title: "Section 678 - Omitted"
 usc_title: 48
 usc_section: "678"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "48 U.S.C. § 678"
-generated_at: "2026-03-30T00:59:42.669Z"
+generated_at: "2026-03-30T01:06:15.395Z"
 ---
 
 # §§ 661 to 678. Omitted

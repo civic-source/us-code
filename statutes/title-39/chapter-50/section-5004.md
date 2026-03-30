@@ -3,9 +3,9 @@ title: "Section 5004 - Discontinuance of service on post roads"
 usc_title: 39
 usc_section: "5004"
 chapter: 50
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "39 U.S.C. § 5004"
-generated_at: "2026-03-30T00:58:36.005Z"
+generated_at: "2026-03-30T01:05:03.662Z"
 ---
 
 # § 5004. Discontinuance of service on post roads

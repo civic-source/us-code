@@ -3,9 +3,9 @@ title: "Section 12271 - Prevention, diagnosis, and treatment of tuberculosis in 
 usc_title: 34
 usc_section: "12271"
 chapter: 121
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "34 U.S.C. § 12271"
-generated_at: "2026-03-30T00:58:28.263Z"
+generated_at: "2026-03-30T01:05:00.098Z"
 ---
 
 # § 12271. Prevention, diagnosis, and treatment of tuberculosis in correctional institutions

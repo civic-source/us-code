@@ -3,9 +3,9 @@ title: "Section 1303 - Postmaster or employee as lottery agent 1 1 Section catch
 usc_title: 18
 usc_section: "1303"
 chapter: 61
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "18 U.S.C. § 1303"
-generated_at: "2026-03-30T00:56:53.040Z"
+generated_at: "2026-03-30T01:02:49.002Z"
 ---
 
 # § 1303. Postmaster or employee as lottery agent 1 1 Section catchline was not amended to conform to change made in the text by Pub. L. 91–375 .

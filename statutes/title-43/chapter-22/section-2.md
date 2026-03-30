@@ -3,9 +3,9 @@ title: "Section 2 - Rights of several roads through canyons"
 usc_title: 43
 usc_section: "2"
 chapter: 22
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T00:58:53.093Z"
+generated_at: "2026-03-30T01:05:16.025Z"
 ---
 
 # § 942–2. Rights of several roads through canyons

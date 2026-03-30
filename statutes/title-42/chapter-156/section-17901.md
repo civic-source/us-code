@@ -3,9 +3,9 @@ title: "Section 17901 - Coordination of Federal activities with adopted standard
 usc_title: 42
 usc_section: "17901"
 chapter: 156
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 17901"
-generated_at: "2026-03-30T00:59:31.667Z"
+generated_at: "2026-03-30T01:05:41.582Z"
 ---
 
 # § 17901. Coordination of Federal activities with adopted standards and implementation specifications

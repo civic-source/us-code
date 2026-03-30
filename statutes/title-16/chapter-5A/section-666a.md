@@ -3,9 +3,9 @@ title: "Section 666a - Penalties"
 usc_title: 16
 usc_section: "666a"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 666a"
-generated_at: "2026-03-30T00:57:08.641Z"
+generated_at: "2026-03-30T01:03:37.404Z"
 ---
 
 # § 666a. Penalties

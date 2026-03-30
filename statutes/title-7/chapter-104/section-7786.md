@@ -3,9 +3,9 @@ title: "Section 7786 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7786"
 chapter: 104
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 7786"
-generated_at: "2026-03-30T00:56:14.541Z"
+generated_at: "2026-03-30T01:01:59.352Z"
 ---
 
 # § 7786. Authorization of appropriations

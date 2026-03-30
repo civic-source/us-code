@@ -3,9 +3,9 @@ title: "Section 3003 - Congressional approval of United States accession to the 
 usc_title: 19
 usc_section: "3003"
 chapter: 18
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "19 U.S.C. § 3003"
-generated_at: "2026-03-30T00:57:05.678Z"
+generated_at: "2026-03-30T01:02:51.882Z"
 ---
 
 # § 3003. Congressional approval of United States accession to the Convention

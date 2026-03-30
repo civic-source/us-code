@@ -3,9 +3,9 @@ title: "Section 718d - Expenditure of funds"
 usc_title: 16
 usc_section: "718d"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 718d"
-generated_at: "2026-03-30T00:57:08.652Z"
+generated_at: "2026-03-30T01:03:37.424Z"
 ---
 
 # § 718d. Expenditure of funds

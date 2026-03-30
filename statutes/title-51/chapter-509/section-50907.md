@@ -3,9 +3,9 @@ title: "Section 50907 - Monitoring activities"
 usc_title: 51
 usc_section: "50907"
 chapter: 509
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "51 U.S.C. § 50907"
-generated_at: "2026-03-30T01:00:18.980Z"
+generated_at: "2026-03-30T01:06:43.505Z"
 ---
 
 # § 50907. Monitoring activities

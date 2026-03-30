@@ -3,9 +3,9 @@ title: "Section 2431d - Reduction of debt owed to United States as result of con
 usc_title: 22
 usc_section: "2431d"
 chapter: 32
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 2431d"
-generated_at: "2026-03-30T00:57:39.023Z"
+generated_at: "2026-03-30T01:04:13.291Z"
 ---
 
 # § 2431d. Reduction of debt owed to United States as result of concessional loans under this chapter

@@ -3,9 +3,9 @@ title: "Section 265 - Suspension of entries and imports from designated places t
 usc_title: 42
 usc_section: "265"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 265"
-generated_at: "2026-03-30T00:59:30.666Z"
+generated_at: "2026-03-30T01:05:40.603Z"
 ---
 
 # § 265. Suspension of entries and imports from designated places to prevent spread of communicable diseases

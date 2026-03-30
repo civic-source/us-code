@@ -3,9 +3,9 @@ title: "Section 1172 - Repealed. Pub. L. 98–24, § 2(c)(2) , Apr. 26, 1983 , 9
 usc_title: 21
 usc_section: "1172"
 chapter: 16
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "21 U.S.C. § 1172"
-generated_at: "2026-03-30T00:57:32.039Z"
+generated_at: "2026-03-30T01:04:09.590Z"
 ---
 
 # § 1172. Repealed. Pub. L. 98–24, § 2(c)(2) , Apr. 26, 1983 , 97 Stat. 182

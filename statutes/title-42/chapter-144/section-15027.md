@@ -3,9 +3,9 @@ title: "Section 15027 - Withholding of payments for planning, administration, an
 usc_title: 42
 usc_section: "15027"
 chapter: 144
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 15027"
-generated_at: "2026-03-30T00:59:31.600Z"
+generated_at: "2026-03-30T01:05:41.517Z"
 ---
 
 # § 15027. Withholding of payments for planning, administration, and services

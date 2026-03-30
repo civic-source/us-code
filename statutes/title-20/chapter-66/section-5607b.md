@@ -3,9 +3,9 @@ title: "Section 5607b - Use of the National Center by Federal agency or other en
 usc_title: 20
 usc_section: "5607b"
 chapter: 66
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 5607b"
-generated_at: "2026-03-30T00:57:26.431Z"
+generated_at: "2026-03-30T01:02:54.601Z"
 ---
 
 # § 5607b. Use of the National Center by Federal agency or other entity

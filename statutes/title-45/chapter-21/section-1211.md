@@ -3,9 +3,9 @@ title: "Section 1211 - Denali National Park and Preserve lands"
 usc_title: 45
 usc_section: "1211"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "45 U.S.C. § 1211"
-generated_at: "2026-03-30T00:59:04.200Z"
+generated_at: "2026-03-30T01:05:14.736Z"
 ---
 
 # § 1211. Denali National Park and Preserve lands

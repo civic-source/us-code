@@ -3,9 +3,9 @@ title: "Section 936e - Administrative prohibitions applicable to certain electri
 usc_title: 7
 usc_section: "936e"
 chapter: 31
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 936e"
-generated_at: "2026-03-30T00:56:14.404Z"
+generated_at: "2026-03-30T01:01:59.164Z"
 ---
 
 # § 936e. Administrative prohibitions applicable to certain electric borrowers

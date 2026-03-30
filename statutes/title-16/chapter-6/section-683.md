@@ -3,9 +3,9 @@ title: "Section 683 - Areas set aside for protection of game and fish; unlawfull
 usc_title: 16
 usc_section: "683"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 683"
-generated_at: "2026-03-30T00:57:08.646Z"
+generated_at: "2026-03-30T01:03:37.415Z"
 ---
 
 # § 683. Areas set aside for protection of game and fish; unlawfully taking game or fish

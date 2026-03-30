@@ -3,9 +3,9 @@ title: "Section 321 - Office of Survivors Assistance"
 usc_title: 38
 usc_section: "321"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 321"
-generated_at: "2026-03-30T00:58:40.824Z"
+generated_at: "2026-03-30T01:05:11.356Z"
 ---
 
 # § 321. Office of Survivors Assistance

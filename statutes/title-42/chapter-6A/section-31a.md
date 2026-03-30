@@ -3,9 +3,9 @@ title: "Section 31a - Timeframe for obligation and expenditure of grant funds"
 usc_title: 42
 usc_section: "31a"
 chapter: 6
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 31a"
-generated_at: "2026-03-30T00:59:30.800Z"
+generated_at: "2026-03-30T01:05:40.736Z"
 ---
 
 # § 300ff–31a. Timeframe for obligation and expenditure of grant funds

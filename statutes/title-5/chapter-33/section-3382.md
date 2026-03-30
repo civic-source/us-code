@@ -3,9 +3,9 @@ title: "Section 3382 - Involuntary separation for retirement"
 usc_title: 5
 usc_section: "3382"
 chapter: 33
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "5 U.S.C. § 3382"
-generated_at: "2026-03-30T00:55:37.157Z"
+generated_at: "2026-03-30T01:01:03.904Z"
 ---
 
 # § 3382. Involuntary separation for retirement

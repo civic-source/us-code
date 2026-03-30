@@ -3,9 +3,9 @@ title: "Section 1077 - Eligibility of student borrowers and terms of federally i
 usc_title: 20
 usc_section: "1077"
 chapter: 28
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 1077"
-generated_at: "2026-03-30T00:57:26.320Z"
+generated_at: "2026-03-30T01:02:54.504Z"
 ---
 
 # § 1077. Eligibility of student borrowers and terms of federally insured student loans

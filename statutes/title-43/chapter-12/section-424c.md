@@ -3,9 +3,9 @@ title: "Section 424c - Issuance of patents; recitals in patents; reservations"
 usc_title: 43
 usc_section: "424c"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "43 U.S.C. § 424c"
-generated_at: "2026-03-30T00:58:53.073Z"
+generated_at: "2026-03-30T01:05:16.002Z"
 ---
 
 # § 424c. Issuance of patents; recitals in patents; reservations

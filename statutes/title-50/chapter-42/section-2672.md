@@ -3,9 +3,9 @@ title: "Section 2672 - Protection against inadvertent release of Restricted Data
 usc_title: 50
 usc_section: "2672"
 chapter: 42
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 2672"
-generated_at: "2026-03-30T01:00:05.123Z"
+generated_at: "2026-03-30T01:06:06.773Z"
 ---
 
 # § 2672. Protection against inadvertent release of Restricted Data and Formerly Restricted Data

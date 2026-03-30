@@ -3,9 +3,9 @@ title: "Section 8303 - Declaration of policy of coordinated development and mana
 usc_title: 40
 usc_section: "8303"
 chapter: 83
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "40 U.S.C. § 8303"
-generated_at: "2026-03-30T00:58:35.408Z"
+generated_at: "2026-03-30T01:05:08.152Z"
 ---
 
 # § 8303. Declaration of policy of coordinated development and management

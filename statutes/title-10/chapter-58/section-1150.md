@@ -3,9 +3,9 @@ title: "Section 1150 - Affiliation with Guard and Reserve units: waiver of certa
 usc_title: 10
 usc_section: "1150"
 chapter: 58
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 1150"
-generated_at: "2026-03-30T00:56:33.149Z"
+generated_at: "2026-03-30T01:02:06.075Z"
 ---
 
 # § 1150. Affiliation with Guard and Reserve units: waiver of certain limitations

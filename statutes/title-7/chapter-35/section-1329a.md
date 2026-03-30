@@ -3,9 +3,9 @@ title: "Section 1329a - Discontinuance of acreage allotments on corn"
 usc_title: 7
 usc_section: "1329a"
 chapter: 35
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 1329a"
-generated_at: "2026-03-30T00:56:14.410Z"
+generated_at: "2026-03-30T01:01:59.172Z"
 ---
 
 # § 1329a. Discontinuance of acreage allotments on corn

@@ -3,9 +3,9 @@ title: "Section 335b - Civil penalties"
 usc_title: 21
 usc_section: "335b"
 chapter: 9
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "21 U.S.C. § 335b"
-generated_at: "2026-03-30T00:57:31.924Z"
+generated_at: "2026-03-30T01:04:09.483Z"
 ---
 
 # § 335b. Civil penalties

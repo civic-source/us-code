@@ -3,9 +3,9 @@ title: "Section 1713 - Fraud; penalties"
 usc_title: 42
 usc_section: "1713"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 1713"
-generated_at: "2026-03-30T00:59:31.147Z"
+generated_at: "2026-03-30T01:05:41.076Z"
 ---
 
 # § 1713. Fraud; penalties

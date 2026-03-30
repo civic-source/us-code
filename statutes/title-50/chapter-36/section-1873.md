@@ -3,9 +3,9 @@ title: "Section 1873 - Annual reports"
 usc_title: 50
 usc_section: "1873"
 chapter: 36
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "50 U.S.C. § 1873"
-generated_at: "2026-03-30T01:00:05.098Z"
+generated_at: "2026-03-30T01:06:06.748Z"
 ---
 
 # § 1873. Annual reports
@@ -16,8 +16,9 @@ generated_at: "2026-03-30T01:00:05.098Z"
     - **(B)** the number of such orders granted under each of those sections;
     - **(C)** the number of orders modified under each of those sections;
     - **(D)** the number of applications or certifications denied under each of those sections;
-    - **(E)** the number of appointments of an individual to serve as amicus curiae under section 1803 of this title , including the name of each individual appointed to serve as amicus curiae; and
-    - **(F)** the number of findings issued under section 1803(i) of this title that such appointment is not appropriate and the text of any such findings.
+    - **(E)** the number of appointments of an individual to serve as amicus curiae under section 1803 of this title , including the name of each individual appointed to serve as amicus curiae;
+    - **(F)** the number of findings issued under section 1803(i) of this title that such appointment is not appropriate and the text of any such findings; and
+    - **(G)** the number of times the Foreign Intelligence Surveillance Court and the Foreign Intelligence Surveillance Court of Review exercised authority under chapter 21 of title 18 and a description of each use of such authority.
   - **(2)** The Director shall make the report required under paragraph (1) publicly available on an Internet Web site, except that the Director shall not make publicly available on an Internet Web site the findings described in subparagraph (F) of paragraph (1).
 - **(b)** Except as provided in subsection (d), the Director of National Intelligence shall annually make publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
   - **(1)** the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of—
@@ -57,7 +58,8 @@ generated_at: "2026-03-30T01:00:05.098Z"
       - **(iv)** make such certification publicly available on an Internet Web site.
     - **(B)** A certification described in subparagraph (A) shall be prepared in unclassified form, but may contain a classified annex.
     - **(C)** If the Director of National Intelligence continues to conclude that the good faith estimates described in this paragraph cannot be determined accurately, the Director shall annually submit a certification in accordance with this paragraph.
-- **(e)** In this section:
+- **(e)** The Director of the Federal Bureau of Investigation shall annually submit to the Permanent Select Committee on Intelligence and the Committee on Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, a report describing the accountability actions taken by the Federal Bureau of Investigation in the preceding 12-month period for noncompliant querying of information acquired under section 1881a of this title and any such actions taken pursuant to section 1803(m) of this title , to include the number of ongoing personnel investigations, the outcome of any completed personnel investigations and any related adverse personnel actions taken.
+- **(g)** In this section:
   - **(1)** The term “contents” has the meaning given that term under section 2510 of title 18 .
   - **(2)** The term “electronic communication” has the meaning given that term under section 2510 of title 18 .
   - **(3)** The term “national security letter” means a request for a report, records, or other information under—

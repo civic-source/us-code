@@ -3,9 +3,9 @@ title: "Section 4246 - Multinational Species Conservation Fund"
 usc_title: 16
 usc_section: "4246"
 chapter: 62
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "16 U.S.C. § 4246"
-generated_at: "2026-03-30T00:57:08.766Z"
+generated_at: "2026-03-30T01:03:37.583Z"
 ---
 
 # § 4246. Multinational Species Conservation Fund

@@ -3,9 +3,9 @@ title: "Section 13b - Manipulations or other violations; cease and desist orders
 usc_title: 7
 usc_section: "13b"
 chapter: 1
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 13b"
-generated_at: "2026-03-30T00:56:14.359Z"
+generated_at: "2026-03-30T01:01:59.106Z"
 ---
 
 # § 13b. Manipulations or other violations; cease and desist orders against persons other than registered entities; punishment

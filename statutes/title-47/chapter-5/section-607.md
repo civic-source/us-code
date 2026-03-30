@@ -3,9 +3,9 @@ title: "Section 607 - Effective date of chapter"
 usc_title: 47
 usc_section: "607"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "47 U.S.C. § 607"
-generated_at: "2026-03-30T01:00:05.949Z"
+generated_at: "2026-03-30T01:06:01.511Z"
 ---
 
 # § 607. Effective date of chapter

@@ -3,9 +3,9 @@ title: "Section 2410A - Arlington National Cemetery: other administrative matter
 usc_title: 38
 usc_section: "2410A"
 chapter: 24
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "38 U.S.C. § 2410A"
-generated_at: "2026-03-30T00:58:40.861Z"
+generated_at: "2026-03-30T01:05:11.397Z"
 ---
 
 # § 2410A. Arlington National Cemetery: other administrative matters

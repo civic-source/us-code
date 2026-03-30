@@ -3,9 +3,9 @@ title: "Section 5414 - Debt-for-equity swaps and other special techniques"
 usc_title: 22
 usc_section: "5414"
 chapter: 63
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 5414"
-generated_at: "2026-03-30T00:57:39.096Z"
+generated_at: "2026-03-30T01:04:13.360Z"
 ---
 
 # § 5414. Debt-for-equity swaps and other special techniques

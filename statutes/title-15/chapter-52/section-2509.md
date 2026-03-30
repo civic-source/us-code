@@ -3,9 +3,9 @@ title: "Section 2509 - Loan guarantees"
 usc_title: 15
 usc_section: "2509"
 chapter: 52
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 2509"
-generated_at: "2026-03-30T00:56:45.804Z"
+generated_at: "2026-03-30T01:02:38.442Z"
 ---
 
 # § 2509. Loan guarantees

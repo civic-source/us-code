@@ -3,9 +3,9 @@ title: "Section 1594 - Seizure of conveyances"
 usc_title: 19
 usc_section: "1594"
 chapter: 4
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "19 U.S.C. § 1594"
-generated_at: "2026-03-30T00:57:05.644Z"
+generated_at: "2026-03-30T01:02:51.834Z"
 ---
 
 # § 1594. Seizure of conveyances

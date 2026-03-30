@@ -3,9 +3,9 @@ title: "Section 6308 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6308"
 chapter: 92
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 6308"
-generated_at: "2026-03-30T00:56:14.514Z"
+generated_at: "2026-03-30T01:01:59.314Z"
 ---
 
 # § 6308. Investigations and power to subpoena

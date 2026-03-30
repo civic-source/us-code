@@ -3,9 +3,9 @@ title: "Section 651 - Authorization of appropriations"
 usc_title: 42
 usc_section: "651"
 chapter: 7
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 651"
-generated_at: "2026-03-30T00:59:30.867Z"
+generated_at: "2026-03-30T01:05:40.802Z"
 ---
 
 # § 651. Authorization of appropriations

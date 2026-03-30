@@ -3,9 +3,9 @@ title: "Section 1226 - Apprehension and detention of aliens"
 usc_title: 8
 usc_section: "1226"
 chapter: 12
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "8 U.S.C. § 1226"
-generated_at: "2026-03-30T00:55:53.332Z"
+generated_at: "2026-03-30T01:01:08.189Z"
 ---
 
 # § 1226. Apprehension and detention of aliens

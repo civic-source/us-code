@@ -3,9 +3,9 @@ title: "Section 6 - Civil actions by aggrieved persons"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T00:59:31.191Z"
+generated_at: "2026-03-30T01:05:41.117Z"
 ---
 
 # § 2000aa–6. Civil actions by aggrieved persons

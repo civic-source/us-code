@@ -3,9 +3,9 @@ title: "Section 171 - Repealed. Pub. L. 90–620, § 3 , Oct. 22, 1968 , 82 Stat
 usc_title: 15
 usc_section: "171"
 chapter: 5
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "15 U.S.C. § 171"
-generated_at: "2026-03-30T00:56:45.699Z"
+generated_at: "2026-03-30T01:02:38.314Z"
 ---
 
 # § 171. Repealed. Pub. L. 90–620, § 3 , Oct. 22, 1968 , 82 Stat. 1308

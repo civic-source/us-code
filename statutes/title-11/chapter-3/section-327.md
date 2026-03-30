@@ -3,9 +3,9 @@ title: "Section 327 - Employment of professional persons"
 usc_title: 11
 usc_section: "327"
 chapter: 3
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "11 U.S.C. § 327"
-generated_at: "2026-03-30T00:56:40.758Z"
+generated_at: "2026-03-30T01:02:24.318Z"
 ---
 
 # § 327. Employment of professional persons

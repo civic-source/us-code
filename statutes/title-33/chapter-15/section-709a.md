@@ -3,9 +3,9 @@ title: "Section 709a - Information on floods and flood damage"
 usc_title: 33
 usc_section: "709a"
 chapter: 15
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "33 U.S.C. § 709a"
-generated_at: "2026-03-30T00:58:29.758Z"
+generated_at: "2026-03-30T01:04:57.293Z"
 ---
 
 # § 709a. Information on floods and flood damage

@@ -3,9 +3,9 @@ title: "Section 18301 - Findings and purposes"
 usc_title: 40
 usc_section: "18301"
 chapter: 183
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "40 U.S.C. § 18301"
-generated_at: "2026-03-30T00:58:35.419Z"
+generated_at: "2026-03-30T01:05:08.165Z"
 ---
 
 # § 18301. Findings and purposes

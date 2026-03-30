@@ -3,9 +3,9 @@ title: "Section 4854 - Qualifications of persons hired for diplomatic constructi
 usc_title: 22
 usc_section: "4854"
 chapter: 58
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "22 U.S.C. § 4854"
-generated_at: "2026-03-30T00:57:39.092Z"
+generated_at: "2026-03-30T01:04:13.357Z"
 ---
 
 # § 4854. Qualifications of persons hired for diplomatic construction program

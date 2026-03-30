@@ -3,9 +3,9 @@ title: "Section 1482 - Administrative provisions"
 usc_title: 20
 usc_section: "1482"
 chapter: 33
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "20 U.S.C. § 1482"
-generated_at: "2026-03-30T00:57:26.402Z"
+generated_at: "2026-03-30T01:02:54.576Z"
 ---
 
 # § 1482. Administrative provisions

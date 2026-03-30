@@ -3,9 +3,9 @@ title: "Section 1052 - State or local regulation"
 usc_title: 21
 usc_section: "1052"
 chapter: 15
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "21 U.S.C. § 1052"
-generated_at: "2026-03-30T00:57:32.039Z"
+generated_at: "2026-03-30T01:04:09.589Z"
 ---
 
 # § 1052. State or local regulation

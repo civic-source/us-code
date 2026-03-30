@@ -3,9 +3,9 @@ title: "Section 518f - Limitation on total expenditures"
 usc_title: 7
 usc_section: "518f"
 chapter: 21
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "7 U.S.C. § 518f"
-generated_at: "2026-03-30T00:56:14.398Z"
+generated_at: "2026-03-30T01:01:59.156Z"
 ---
 
 # § 518f. Limitation on total expenditures

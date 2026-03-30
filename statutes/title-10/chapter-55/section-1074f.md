@@ -3,9 +3,9 @@ title: "Section 1074f - Medical tracking system for members deployed overseas"
 usc_title: 10
 usc_section: "1074f"
 chapter: 55
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "10 U.S.C. § 1074f"
-generated_at: "2026-03-30T00:56:33.141Z"
+generated_at: "2026-03-30T01:02:06.062Z"
 ---
 
 # § 1074f. Medical tracking system for members deployed overseas

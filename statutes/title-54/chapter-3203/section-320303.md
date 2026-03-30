@@ -3,9 +3,9 @@ title: "Section 320303 - Regulations"
 usc_title: 54
 usc_section: "320303"
 chapter: 3203
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "54 U.S.C. § 320303"
-generated_at: "2026-03-30T01:00:14.504Z"
+generated_at: "2026-03-30T01:06:42.559Z"
 ---
 
 # § 320303. Regulations

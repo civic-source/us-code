@@ -3,9 +3,9 @@ title: "Section 18011 - Preservation of right to maintain existing coverage"
 usc_title: 42
 usc_section: "18011"
 chapter: 157
-current_through: "PL 118-47"
+current_through: "PL 118-49"
 classification: "42 U.S.C. § 18011"
-generated_at: "2026-03-30T00:59:31.670Z"
+generated_at: "2026-03-30T01:05:41.584Z"
 ---
 
 # § 18011. Preservation of right to maintain existing coverage
