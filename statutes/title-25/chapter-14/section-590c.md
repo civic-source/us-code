@@ -3,9 +3,9 @@ title: "Section 590c - Tax exemption; trusts for minors and persons under legal 
 usc_title: 25
 usc_section: "590c"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 590c"
-generated_at: "2026-03-30T03:27:53.735Z"
+generated_at: "2026-03-30T03:30:06.891Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 54 - False advertisements; penalties"
 usc_title: 15
 usc_section: "54"
 chapter: 2
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 54"
-generated_at: "2026-03-30T03:27:26.819Z"
+generated_at: "2026-03-30T03:29:35.771Z"
 status: "active"
 ---
 

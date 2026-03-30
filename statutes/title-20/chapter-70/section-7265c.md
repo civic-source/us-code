@@ -3,9 +3,9 @@ title: "Section 7265c - Administrative provisions"
 usc_title: 20
 usc_section: "7265c"
 chapter: 70
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 7265c"
-generated_at: "2026-03-30T03:27:33.389Z"
+generated_at: "2026-03-30T03:29:44.048Z"
 status: "active"
 ---
 

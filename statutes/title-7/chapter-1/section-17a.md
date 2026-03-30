@@ -3,9 +3,9 @@ title: "Section 17a - Separability of 1936 amendment"
 usc_title: 7
 usc_section: "17a"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 17a"
-generated_at: "2026-03-30T03:27:20.075Z"
+generated_at: "2026-03-30T03:29:22.851Z"
 status: "active"
 ---
 

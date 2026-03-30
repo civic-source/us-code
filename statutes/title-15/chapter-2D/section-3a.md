@@ -3,9 +3,9 @@ title: "Section 3a - State and Federal responsibilities"
 usc_title: 15
 usc_section: "3a"
 chapter: 2
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 3a"
-generated_at: "2026-03-30T03:27:26.859Z"
+generated_at: "2026-03-30T03:29:35.813Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 251 - Transfer of functions to Under Secretary for Border and Tr
 usc_title: 6
 usc_section: "251"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "6 U.S.C. § 251"
-generated_at: "2026-03-30T03:27:07.727Z"
+generated_at: "2026-03-30T03:29:19.130Z"
 status: "active"
 ---
 

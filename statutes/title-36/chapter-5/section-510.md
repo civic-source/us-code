@@ -3,9 +3,9 @@ title: "Section 510 - Disclosure of and prohibition on certain donations"
 usc_title: 36
 usc_section: "510"
 chapter: 5
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "36 U.S.C. § 510"
-generated_at: "2026-03-30T03:28:39.586Z"
+generated_at: "2026-03-30T03:30:37.014Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1838 - Conversion of cropland into vegetative cover, water stora
 usc_title: 7
 usc_section: "1838"
 chapter: 45
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 1838"
-generated_at: "2026-03-30T03:27:20.143Z"
+generated_at: "2026-03-30T03:29:22.918Z"
 status: "active"
 ---
 

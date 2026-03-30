@@ -3,9 +3,9 @@ title: "Section 65d - Funds advanced by Secretary of Senate to Sergeant at Arms 
 usc_title: 2
 usc_section: "65d"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 65d"
-generated_at: "2026-03-30T03:26:44.272Z"
+generated_at: "2026-03-30T03:29:15.686Z"
 status: "active"
 ---
 

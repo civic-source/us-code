@@ -3,9 +3,9 @@ title: "Section 13011 - Findings"
 usc_title: 42
 usc_section: "13011"
 chapter: 132
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 13011"
-generated_at: "2026-03-30T03:28:57.047Z"
+generated_at: "2026-03-30T03:32:06.845Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3503 - Fire-retardant materials"
 usc_title: 46
 usc_section: "3503"
 chapter: 35
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "46 U.S.C. § 3503"
-generated_at: "2026-03-30T03:29:00.919Z"
+generated_at: "2026-03-30T03:32:19.103Z"
 status: "active"
 ---
 

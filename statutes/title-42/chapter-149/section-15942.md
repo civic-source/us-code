@@ -3,9 +3,9 @@ title: "Section 15942 - NEPA review"
 usc_title: 42
 usc_section: "15942"
 chapter: 149
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 15942"
-generated_at: "2026-03-30T03:28:57.090Z"
+generated_at: "2026-03-30T03:32:06.889Z"
 status: "active"
 ---
 

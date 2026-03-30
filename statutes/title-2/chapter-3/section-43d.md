@@ -3,9 +3,9 @@ title: "Section 43d - Organizational expenses of Senator-elect"
 usc_title: 2
 usc_section: "43d"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 43d"
-generated_at: "2026-03-30T03:26:44.267Z"
+generated_at: "2026-03-30T03:29:15.680Z"
 status: "active"
 ---
 

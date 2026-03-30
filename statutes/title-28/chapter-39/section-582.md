@@ -3,9 +3,9 @@ title: "Section 582 - Assistant United States trustees"
 usc_title: 28
 usc_section: "582"
 chapter: 39
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "28 U.S.C. § 582"
-generated_at: "2026-03-30T03:28:02.679Z"
+generated_at: "2026-03-30T03:30:13.239Z"
 status: "active"
 ---
 

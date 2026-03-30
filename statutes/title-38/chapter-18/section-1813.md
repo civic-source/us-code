@@ -3,9 +3,9 @@ title: "Section 1813 - Health care"
 usc_title: 38
 usc_section: "1813"
 chapter: 18
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 1813"
-generated_at: "2026-03-30T03:28:40.587Z"
+generated_at: "2026-03-30T03:30:58.205Z"
 status: "active"
 ---
 

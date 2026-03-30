@@ -3,9 +3,9 @@ title: "Section 9405 - Coordination of Federal programs"
 usc_title: 20
 usc_section: "9405"
 chapter: 75
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 9405"
-generated_at: "2026-03-30T03:27:33.405Z"
+generated_at: "2026-03-30T03:29:44.064Z"
 status: "active"
 ---
 

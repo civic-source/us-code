@@ -3,9 +3,9 @@ title: "Section 7213 - State uses of funds"
 usc_title: 20
 usc_section: "7213"
 chapter: 70
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 7213"
-generated_at: "2026-03-30T03:27:33.385Z"
+generated_at: "2026-03-30T03:29:44.044Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 936 - Puerto Rico and possession tax credit"
 usc_title: 26
 usc_section: "936"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "26 U.S.C. § 936"
-generated_at: "2026-03-30T03:28:25.624Z"
+generated_at: "2026-03-30T03:30:21.658Z"
 status: "active"
 ---
 

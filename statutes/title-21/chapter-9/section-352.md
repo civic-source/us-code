@@ -3,9 +3,9 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-30T03:27:52.903Z"
+generated_at: "2026-03-30T03:30:00.615Z"
 status: "active"
 ---
 
@@ -53,3 +53,5 @@ A drug or device shall be deemed to be misbranded—
 - **(y)** If it is a drug subject to an approved risk evaluation and mitigation strategy pursuant to section 355(p) of this title and the responsible person (as such term is used in section 355–1 of this title ) fails to comply with a requirement of such strategy provided for under subsection (d), (e), or (f) of section 355–1 of this title .
 - **(z)** If it is a drug, and the responsible person (as such term is used in section 355( o ) of this title) is in violation of a requirement established under paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355( o ) of this title with respect to such drug.
 - **(aa)** If it is a drug, or an active pharmaceutical ingredient, and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–42(a)(4) of this title or for which identifying information required by section 379j–42(f) of this title has not been submitted, or it contains an active pharmaceutical ingredient that was manufactured, prepared, propagated, compounded, or processed in such a facility.
+- **(bb)** If the advertising or promotion of a compounded drug is false or misleading in any particular.
+- **(cc)** If it is a drug and it fails to bear the product identifier as required by section 360eee–1 of this title .

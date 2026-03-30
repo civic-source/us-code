@@ -3,9 +3,9 @@ title: "Section 11 - Authority to make grants"
 usc_title: 42
 usc_section: "11"
 chapter: 72
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T03:28:56.877Z"
+generated_at: "2026-03-30T03:32:06.673Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395gg - Overpayment on behalf of individuals and settlement of 
 usc_title: 42
 usc_section: "1395gg"
 chapter: 7
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 1395gg"
-generated_at: "2026-03-30T03:28:56.670Z"
+generated_at: "2026-03-30T03:32:06.477Z"
 status: "active"
 ---
 

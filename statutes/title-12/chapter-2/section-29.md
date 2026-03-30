@@ -3,9 +3,9 @@ title: "Section 29 - Power to hold real property"
 usc_title: 12
 usc_section: "29"
 chapter: 2
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "12 U.S.C. § 29"
-generated_at: "2026-03-30T03:27:24.398Z"
+generated_at: "2026-03-30T03:29:34.032Z"
 status: "active"
 ---
 

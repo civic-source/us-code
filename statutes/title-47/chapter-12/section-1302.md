@@ -3,9 +3,9 @@ title: "Section 1302 - Advanced telecommunications incentives"
 usc_title: 47
 usc_section: "1302"
 chapter: 12
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "47 U.S.C. § 1302"
-generated_at: "2026-03-30T03:28:59.931Z"
+generated_at: "2026-03-30T03:32:37.386Z"
 status: "active"
 ---
 

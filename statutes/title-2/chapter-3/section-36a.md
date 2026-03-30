@@ -3,9 +3,9 @@ title: "Section 36a - Payment of sums due deceased Senators and Senate personnel
 usc_title: 2
 usc_section: "36a"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 36a"
-generated_at: "2026-03-30T03:26:44.267Z"
+generated_at: "2026-03-30T03:29:15.680Z"
 status: "active"
 ---
 

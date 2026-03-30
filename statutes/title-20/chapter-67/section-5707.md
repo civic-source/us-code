@@ -3,9 +3,9 @@ title: "Section 5707 - Executive Secretary of Foundation"
 usc_title: 20
 usc_section: "5707"
 chapter: 67
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 5707"
-generated_at: "2026-03-30T03:27:33.360Z"
+generated_at: "2026-03-30T03:29:44.020Z"
 status: "active"
 ---
 

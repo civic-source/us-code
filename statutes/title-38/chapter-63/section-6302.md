@@ -3,9 +3,9 @@ title: "Section 6302 - Biennial plan"
 usc_title: 38
 usc_section: "6302"
 chapter: 63
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 6302"
-generated_at: "2026-03-30T03:28:40.612Z"
+generated_at: "2026-03-30T03:30:58.239Z"
 status: "active"
 ---
 

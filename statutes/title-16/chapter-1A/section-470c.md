@@ -3,9 +3,9 @@ title: "Section 470c - Apportionment of grant funds"
 usc_title: 16
 usc_section: "470c"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 470c"
-generated_at: "2026-03-30T03:27:38.099Z"
+generated_at: "2026-03-30T03:29:46.265Z"
 status: "active"
 ---
 

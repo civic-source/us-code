@@ -3,9 +3,9 @@ title: "Section 2231 - Change of name"
 usc_title: 19
 usc_section: "2231"
 chapter: 12
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "19 U.S.C. § 2231"
-generated_at: "2026-03-30T03:27:43.934Z"
+generated_at: "2026-03-30T03:29:40.741Z"
 status: "active"
 ---
 

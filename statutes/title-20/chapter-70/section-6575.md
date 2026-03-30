@@ -3,9 +3,9 @@ title: "Section 6575 - Prohibition against Federal mandates, direction, or contr
 usc_title: 20
 usc_section: "6575"
 chapter: 70
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 6575"
-generated_at: "2026-03-30T03:27:33.374Z"
+generated_at: "2026-03-30T03:29:44.033Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5903 - Regulations"
 usc_title: 5
 usc_section: "5903"
 chapter: 59
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "5 U.S.C. § 5903"
-generated_at: "2026-03-30T03:27:05.227Z"
+generated_at: "2026-03-30T03:29:17.181Z"
 status: "active"
 ---
 

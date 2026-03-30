@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-30T03:27:33.304Z"
+generated_at: "2026-03-30T03:29:43.962Z"
 status: "active"
 ---
 

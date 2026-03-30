@@ -3,9 +3,9 @@ title: "Section 556 - Printing reports generally"
 usc_title: 33
 usc_section: "556"
 chapter: 12
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "33 U.S.C. § 556"
-generated_at: "2026-03-30T03:28:36.890Z"
+generated_at: "2026-03-30T03:30:27.981Z"
 status: "active"
 ---
 

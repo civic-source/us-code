@@ -3,9 +3,9 @@ title: "Section 11045 - Enforcement"
 usc_title: 42
 usc_section: "11045"
 chapter: 116
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 11045"
-generated_at: "2026-03-30T03:28:57.010Z"
+generated_at: "2026-03-30T03:32:06.807Z"
 status: "active"
 ---
 

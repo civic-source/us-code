@@ -3,9 +3,9 @@ title: "Section 2131a - Eligibility for placement of statues in National Statuar
 usc_title: 2
 usc_section: "2131a"
 chapter: 30
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 2131a"
-generated_at: "2026-03-30T03:26:44.313Z"
+generated_at: "2026-03-30T03:29:15.725Z"
 status: "active"
 ---
 

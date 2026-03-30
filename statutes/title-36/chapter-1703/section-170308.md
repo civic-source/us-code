@@ -3,9 +3,9 @@ title: "Section 170308 - Restrictions"
 usc_title: 36
 usc_section: "170308"
 chapter: 1703
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "36 U.S.C. § 170308"
-generated_at: "2026-03-30T03:28:39.601Z"
+generated_at: "2026-03-30T03:30:37.031Z"
 status: "active"
 ---
 

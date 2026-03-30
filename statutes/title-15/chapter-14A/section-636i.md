@@ -3,9 +3,9 @@ title: "Section 636i - Small business bonding threshold"
 usc_title: 15
 usc_section: "636i"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 636i"
-generated_at: "2026-03-30T03:27:26.874Z"
+generated_at: "2026-03-30T03:29:35.830Z"
 status: "active"
 ---
 

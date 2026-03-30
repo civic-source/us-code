@@ -3,9 +3,9 @@ title: "Section 390ii - Disposition of excess lands"
 usc_title: 43
 usc_section: "390ii"
 chapter: 12
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "43 U.S.C. § 390ii"
-generated_at: "2026-03-30T03:28:43.470Z"
+generated_at: "2026-03-30T03:31:00.900Z"
 status: "active"
 ---
 

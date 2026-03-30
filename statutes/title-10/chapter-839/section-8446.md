@@ -3,9 +3,9 @@ title: "Section 8446 - Retention on active duty"
 usc_title: 10
 usc_section: "8446"
 chapter: 839
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 8446"
-generated_at: "2026-03-30T03:27:18.329Z"
+generated_at: "2026-03-30T03:29:26.560Z"
 status: "active"
 ---
 

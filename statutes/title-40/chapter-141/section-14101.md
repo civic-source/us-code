@@ -3,9 +3,9 @@ title: "Section 14101 - Findings and purposes"
 usc_title: 40
 usc_section: "14101"
 chapter: 141
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "40 U.S.C. § 14101"
-generated_at: "2026-03-30T03:28:41.129Z"
+generated_at: "2026-03-30T03:30:48.557Z"
 status: "active"
 ---
 

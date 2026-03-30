@@ -3,9 +3,9 @@ title: "Section 15 - Utility facilities used in administration of Bureau; contra
 usc_title: 25
 usc_section: "15"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 15"
-generated_at: "2026-03-30T03:27:53.715Z"
+generated_at: "2026-03-30T03:30:06.870Z"
 status: "active"
 ---
 

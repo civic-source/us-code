@@ -3,9 +3,9 @@ title: "Section 6964 - Hazing: definition; prohibition"
 usc_title: 10
 usc_section: "6964"
 chapter: 603
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 6964"
-generated_at: "2026-03-30T03:27:18.321Z"
+generated_at: "2026-03-30T03:29:26.553Z"
 status: "active"
 ---
 

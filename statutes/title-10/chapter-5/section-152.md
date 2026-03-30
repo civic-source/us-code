@@ -3,9 +3,9 @@ title: "Section 152 - Chairman: appointment; grade and rank"
 usc_title: 10
 usc_section: "152"
 chapter: 5
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 152"
-generated_at: "2026-03-30T03:27:18.218Z"
+generated_at: "2026-03-30T03:29:26.450Z"
 status: "active"
 ---
 

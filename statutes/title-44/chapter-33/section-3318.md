@@ -3,9 +3,9 @@ title: "Section 3318 - Membership"
 usc_title: 44
 usc_section: "3318"
 chapter: 33
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "44 U.S.C. § 3318"
-generated_at: "2026-03-30T03:28:42.813Z"
+generated_at: "2026-03-30T03:31:08.345Z"
 status: "active"
 ---
 

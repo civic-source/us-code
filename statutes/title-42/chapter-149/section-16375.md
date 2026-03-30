@@ -3,9 +3,9 @@ title: "Section 16375 - Limits on participation"
 usc_title: 42
 usc_section: "16375"
 chapter: 149
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 16375"
-generated_at: "2026-03-30T03:28:57.252Z"
+generated_at: "2026-03-30T03:32:06.899Z"
 status: "active"
 ---
 

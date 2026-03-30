@@ -3,9 +3,9 @@ title: "Section 17h - Hire, rental, and purchase of property of employees; when 
 usc_title: 16
 usc_section: "17h"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 17h"
-generated_at: "2026-03-30T03:27:38.015Z"
+generated_at: "2026-03-30T03:29:46.183Z"
 status: "active"
 ---
 

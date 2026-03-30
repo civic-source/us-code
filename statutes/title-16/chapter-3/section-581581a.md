@@ -3,9 +3,9 @@ title: "Section 581581a - Repealed. Pub. L. 95–307, § 8(a) , June 30, 1978 , 
 usc_title: 16
 usc_section: "581581a"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 581581a"
-generated_at: "2026-03-30T03:27:38.116Z"
+generated_at: "2026-03-30T03:29:46.283Z"
 status: "repealed"
 ---
 

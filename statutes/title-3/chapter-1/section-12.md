@@ -3,9 +3,9 @@ title: "Section 12 - Failure of certificates of electors to reach President of t
 usc_title: 3
 usc_section: "12"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "3 U.S.C. § 12"
-generated_at: "2026-03-30T03:26:41.770Z"
+generated_at: "2026-03-30T03:29:14.671Z"
 status: "active"
 ---
 

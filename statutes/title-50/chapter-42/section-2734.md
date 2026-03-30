@@ -3,9 +3,9 @@ title: "Section 2734 - Programs for persons who may have been exposed to radiati
 usc_title: 50
 usc_section: "2734"
 chapter: 42
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "50 U.S.C. § 2734"
-generated_at: "2026-03-30T03:29:01.563Z"
+generated_at: "2026-03-30T03:32:35.917Z"
 status: "active"
 ---
 

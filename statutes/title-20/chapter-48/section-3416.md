@@ -3,9 +3,9 @@ title: "Section 3416 - Office of Vocational and Adult Education"
 usc_title: 20
 usc_section: "3416"
 chapter: 48
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 3416"
-generated_at: "2026-03-30T03:27:33.350Z"
+generated_at: "2026-03-30T03:29:44.009Z"
 status: "active"
 ---
 

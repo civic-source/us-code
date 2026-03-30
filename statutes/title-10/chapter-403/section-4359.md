@@ -3,9 +3,9 @@ title: "Section 4359 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "4359"
 chapter: 403
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 4359"
-generated_at: "2026-03-30T03:27:18.312Z"
+generated_at: "2026-03-30T03:29:26.544Z"
 status: "active"
 ---
 

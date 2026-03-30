@@ -3,9 +3,9 @@ title: "Section 2014 - Annuitants"
 usc_title: 50
 usc_section: "2014"
 chapter: 38
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "50 U.S.C. § 2014"
-generated_at: "2026-03-30T03:29:01.550Z"
+generated_at: "2026-03-30T03:32:35.902Z"
 status: "active"
 ---
 

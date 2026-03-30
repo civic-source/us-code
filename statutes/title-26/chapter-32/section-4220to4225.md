@@ -3,9 +3,9 @@ title: "Section 4220to4225 - Repealed. Pub. L. 85–859, title I, § 119(a) , Se
 usc_title: 26
 usc_section: "4220to4225"
 chapter: 32
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "26 U.S.C. § 4220to4225"
-generated_at: "2026-03-30T03:28:25.670Z"
+generated_at: "2026-03-30T03:30:21.708Z"
 status: "repealed"
 ---
 

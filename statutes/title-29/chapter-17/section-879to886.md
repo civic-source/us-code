@@ -3,9 +3,9 @@ title: "Section 879to886 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "879to886"
 chapter: 17
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "29 U.S.C. § 879to886"
-generated_at: "2026-03-30T03:28:04.180Z"
+generated_at: "2026-03-30T03:30:09.746Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2641to2643 - Repealed. Pub. L. 103–382, title III, § 367 , Oc
 usc_title: 25
 usc_section: "2641to2643"
 chapter: 28
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 2641to2643"
-generated_at: "2026-03-30T03:27:53.787Z"
+generated_at: "2026-03-30T03:30:06.944Z"
 status: "repealed"
 ---
 

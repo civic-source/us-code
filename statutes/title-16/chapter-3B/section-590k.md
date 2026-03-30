@@ -3,9 +3,9 @@ title: "Section 590k - Availability of funds"
 usc_title: 16
 usc_section: "590k"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 590k"
-generated_at: "2026-03-30T03:27:38.118Z"
+generated_at: "2026-03-30T03:29:46.284Z"
 status: "active"
 ---
 

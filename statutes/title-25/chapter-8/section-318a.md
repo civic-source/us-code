@@ -3,9 +3,9 @@ title: "Section 318a - Roads on Indian reservations; appropriation"
 usc_title: 25
 usc_section: "318a"
 chapter: 8
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 318a"
-generated_at: "2026-03-30T03:27:53.720Z"
+generated_at: "2026-03-30T03:30:06.876Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1514 - “United States” defined"
 usc_title: 50
 usc_section: "1514"
 chapter: 32
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "50 U.S.C. § 1514"
-generated_at: "2026-03-30T03:29:01.541Z"
+generated_at: "2026-03-30T03:32:35.892Z"
 status: "active"
 ---
 

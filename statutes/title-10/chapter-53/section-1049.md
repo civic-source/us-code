@@ -3,9 +3,9 @@ title: "Section 1049 - Subsistence: miscellaneous persons"
 usc_title: 10
 usc_section: "1049"
 chapter: 53
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 1049"
-generated_at: "2026-03-30T03:27:18.243Z"
+generated_at: "2026-03-30T03:29:26.475Z"
 status: "active"
 ---
 

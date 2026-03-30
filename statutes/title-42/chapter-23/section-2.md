@@ -3,9 +3,9 @@ title: "Section 2 - Method of sale"
 usc_title: 42
 usc_section: "2"
 chapter: 23
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T03:28:56.797Z"
+generated_at: "2026-03-30T03:32:06.599Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1471to1479 - Repealed. Pub. L. 98–213, § 16(w) –(ee), Dec. 
 usc_title: 48
 usc_section: "1471to1479"
 chapter: 10
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "48 U.S.C. § 1471to1479"
-generated_at: "2026-03-30T03:29:00.294Z"
+generated_at: "2026-03-30T03:32:29.307Z"
 status: "repealed"
 ---
 

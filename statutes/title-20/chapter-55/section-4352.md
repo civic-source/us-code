@@ -3,9 +3,9 @@ title: "Section 4352 - Gifts"
 usc_title: 20
 usc_section: "4352"
 chapter: 55
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 4352"
-generated_at: "2026-03-30T03:27:33.355Z"
+generated_at: "2026-03-30T03:29:44.015Z"
 status: "active"
 ---
 

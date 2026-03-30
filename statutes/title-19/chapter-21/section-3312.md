@@ -3,9 +3,9 @@ title: "Section 3312 - Relationship of Agreement to United States and State law"
 usc_title: 19
 usc_section: "3312"
 chapter: 21
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "19 U.S.C. § 3312"
-generated_at: "2026-03-30T03:27:43.952Z"
+generated_at: "2026-03-30T03:29:40.762Z"
 status: "active"
 ---
 

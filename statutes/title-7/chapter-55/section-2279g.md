@@ -3,9 +3,9 @@ title: "Section 2279g - Marketing services; cooperative agreements"
 usc_title: 7
 usc_section: "2279g"
 chapter: 55
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 2279g"
-generated_at: "2026-03-30T03:27:20.171Z"
+generated_at: "2026-03-30T03:29:22.946Z"
 status: "active"
 ---
 

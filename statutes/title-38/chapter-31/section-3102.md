@@ -3,9 +3,9 @@ title: "Section 3102 - Basic entitlement"
 usc_title: 38
 usc_section: "3102"
 chapter: 31
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 3102"
-generated_at: "2026-03-30T03:28:40.595Z"
+generated_at: "2026-03-30T03:30:58.217Z"
 status: "active"
 ---
 

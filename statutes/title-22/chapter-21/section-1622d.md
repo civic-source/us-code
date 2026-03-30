@@ -3,9 +3,9 @@ title: "Section 1622d - Appointment and compensation of officers and employees o
 usc_title: 22
 usc_section: "1622d"
 chapter: 21
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 1622d"
-generated_at: "2026-03-30T03:27:52.153Z"
+generated_at: "2026-03-30T03:29:52.652Z"
 status: "active"
 ---
 

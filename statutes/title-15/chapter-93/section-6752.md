@@ -3,9 +3,9 @@ title: "Section 6752 - National Association of Registered Agents and Brokers"
 usc_title: 15
 usc_section: "6752"
 chapter: 93
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 6752"
-generated_at: "2026-03-30T03:27:26.974Z"
+generated_at: "2026-03-30T03:29:35.937Z"
 status: "active"
 ---
 

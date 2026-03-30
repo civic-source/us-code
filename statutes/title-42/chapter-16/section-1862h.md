@@ -3,9 +3,9 @@ title: "Section 1862h - Congressional statement of findings and declaration of p
 usc_title: 42
 usc_section: "1862h"
 chapter: 16
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 1862h"
-generated_at: "2026-03-30T03:28:56.762Z"
+generated_at: "2026-03-30T03:32:06.565Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1006cto1006e - Repealed. Pub. L. 87–128, title III, § 341(a) 
 usc_title: 7
 usc_section: "1006cto1006e"
 chapter: 33
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 1006cto1006e"
-generated_at: "2026-03-30T03:27:20.114Z"
+generated_at: "2026-03-30T03:29:22.889Z"
 status: "repealed"
 ---
 

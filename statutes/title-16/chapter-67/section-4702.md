@@ -3,9 +3,9 @@ title: "Section 4702 - Definitions"
 usc_title: 16
 usc_section: "4702"
 chapter: 67
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 4702"
-generated_at: "2026-03-30T03:27:38.223Z"
+generated_at: "2026-03-30T03:29:46.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4138 - Access to records"
 usc_title: 22
 usc_section: "4138"
 chapter: 52
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 4138"
-generated_at: "2026-03-30T03:27:52.213Z"
+generated_at: "2026-03-30T03:29:52.713Z"
 status: "active"
 ---
 

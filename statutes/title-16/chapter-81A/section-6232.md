@@ -3,9 +3,9 @@ title: "Section 6232 - Fees for occupancy and use of National Forest System land
 usc_title: 16
 usc_section: "6232"
 chapter: 81
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 6232"
-generated_at: "2026-03-30T03:27:38.233Z"
+generated_at: "2026-03-30T03:29:46.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3005 - Farmers’ Market Promotion Program"
 usc_title: 7
 usc_section: "3005"
 chapter: 63
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 3005"
-generated_at: "2026-03-30T03:27:20.177Z"
+generated_at: "2026-03-30T03:29:22.951Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 100 - Disqualification"
 usc_title: 43
 usc_section: "100"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "43 U.S.C. § 100"
-generated_at: "2026-03-30T03:28:43.463Z"
+generated_at: "2026-03-30T03:31:00.893Z"
 status: "active"
 ---
 

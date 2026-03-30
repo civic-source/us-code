@@ -3,9 +3,9 @@ title: "Section 1942 - Purposes of loans"
 usc_title: 7
 usc_section: "1942"
 chapter: 50
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 1942"
-generated_at: "2026-03-30T03:27:20.147Z"
+generated_at: "2026-03-30T03:29:22.921Z"
 status: "active"
 ---
 

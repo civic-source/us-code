@@ -3,9 +3,9 @@ title: "Section 4314 - Extraordinary protective services"
 usc_title: 22
 usc_section: "4314"
 chapter: 53
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 4314"
-generated_at: "2026-03-30T03:27:52.215Z"
+generated_at: "2026-03-30T03:29:52.716Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1072 - Advances for reserve funds of State and nonprofit private
 usc_title: 20
 usc_section: "1072"
 chapter: 28
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 1072"
-generated_at: "2026-03-30T03:27:33.292Z"
+generated_at: "2026-03-30T03:29:43.950Z"
 status: "active"
 ---
 

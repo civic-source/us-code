@@ -3,9 +3,9 @@ title: "Section 271to276 - Repealed. Pub. L. 93–43, § 7(a)(1) –(3), (61), J
 usc_title: 24
 usc_section: "271to276"
 chapter: 7
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "24 U.S.C. § 271to276"
-generated_at: "2026-03-30T03:27:47.842Z"
+generated_at: "2026-03-30T03:29:53.510Z"
 status: "repealed"
 ---
 

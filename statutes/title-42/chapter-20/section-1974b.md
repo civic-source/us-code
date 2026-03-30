@@ -3,9 +3,9 @@ title: "Section 1974b - Demand for records or papers by Attorney General or repr
 usc_title: 42
 usc_section: "1974b"
 chapter: 20
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 1974b"
-generated_at: "2026-03-30T03:28:56.774Z"
+generated_at: "2026-03-30T03:32:06.578Z"
 status: "active"
 ---
 

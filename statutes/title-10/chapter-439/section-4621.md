@@ -3,9 +3,9 @@ title: "Section 4621 - Quartermaster supplies: members of armed forces; veterans
 usc_title: 10
 usc_section: "4621"
 chapter: 439
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 4621"
-generated_at: "2026-03-30T03:27:18.314Z"
+generated_at: "2026-03-30T03:29:26.545Z"
 status: "active"
 ---
 

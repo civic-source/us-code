@@ -3,9 +3,9 @@ title: "Section 5511 - Overseas Security Electronic Bulletin Board"
 usc_title: 22
 usc_section: "5511"
 chapter: 64
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 5511"
-generated_at: "2026-03-30T03:27:52.222Z"
+generated_at: "2026-03-30T03:29:52.723Z"
 status: "active"
 ---
 

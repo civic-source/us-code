@@ -3,9 +3,9 @@ title: "Section 450hh - Saint Croix Island International Historic Site; establis
 usc_title: 16
 usc_section: "450hh"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 450hh"
-generated_at: "2026-03-30T03:27:38.063Z"
+generated_at: "2026-03-30T03:29:46.229Z"
 status: "active"
 ---
 

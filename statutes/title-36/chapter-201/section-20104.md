@@ -3,9 +3,9 @@ title: "Section 20104 - Governing body"
 usc_title: 36
 usc_section: "20104"
 chapter: 201
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "36 U.S.C. § 20104"
-generated_at: "2026-03-30T03:28:39.587Z"
+generated_at: "2026-03-30T03:30:37.015Z"
 status: "active"
 ---
 

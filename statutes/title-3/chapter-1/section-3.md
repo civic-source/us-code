@@ -3,9 +3,9 @@ title: "Section 3 - Number of electors"
 usc_title: 3
 usc_section: "3"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "3 U.S.C. § 3"
-generated_at: "2026-03-30T03:26:41.770Z"
+generated_at: "2026-03-30T03:29:14.671Z"
 status: "active"
 ---
 

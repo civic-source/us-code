@@ -3,9 +3,9 @@ title: "Section 1 - Mission of United States Information Agency"
 usc_title: 22
 usc_section: "1"
 chapter: 18
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T03:27:52.151Z"
+generated_at: "2026-03-30T03:29:52.650Z"
 status: "active"
 ---
 

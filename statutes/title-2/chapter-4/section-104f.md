@@ -3,9 +3,9 @@ title: "Section 104f - Notification of post-employment restrictions for Senators
 usc_title: 2
 usc_section: "104f"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 104f"
-generated_at: "2026-03-30T03:26:44.276Z"
+generated_at: "2026-03-30T03:29:15.689Z"
 status: "active"
 ---
 

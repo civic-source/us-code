@@ -3,9 +3,9 @@ title: "Section 557 - Initial decisions; conclusiveness; review by agency; submi
 usc_title: 5
 usc_section: "557"
 chapter: 5
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "5 U.S.C. § 557"
-generated_at: "2026-03-30T03:27:05.201Z"
+generated_at: "2026-03-30T03:29:17.156Z"
 status: "active"
 ---
 

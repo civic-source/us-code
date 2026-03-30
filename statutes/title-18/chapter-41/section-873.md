@@ -3,9 +3,9 @@ title: "Section 873 - Blackmail"
 usc_title: 18
 usc_section: "873"
 chapter: 41
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "18 U.S.C. § 873"
-generated_at: "2026-03-30T03:27:34.279Z"
+generated_at: "2026-03-30T03:29:39.009Z"
 status: "active"
 ---
 

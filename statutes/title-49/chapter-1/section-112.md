@@ -3,9 +3,9 @@ title: "Section 112 - Research and Innovative Technology Administration"
 usc_title: 49
 usc_section: "112"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "49 U.S.C. § 112"
-generated_at: "2026-03-30T03:29:03.191Z"
+generated_at: "2026-03-30T03:32:48.346Z"
 status: "active"
 ---
 

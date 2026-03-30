@@ -3,9 +3,9 @@ title: "Section 774 - Reports and recommendations"
 usc_title: 15
 usc_section: "774"
 chapter: 16
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 774"
-generated_at: "2026-03-30T03:27:26.897Z"
+generated_at: "2026-03-30T03:29:35.856Z"
 status: "active"
 ---
 

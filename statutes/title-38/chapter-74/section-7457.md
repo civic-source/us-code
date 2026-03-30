@@ -3,9 +3,9 @@ title: "Section 7457 - On-call pay"
 usc_title: 38
 usc_section: "7457"
 chapter: 74
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 7457"
-generated_at: "2026-03-30T03:28:40.619Z"
+generated_at: "2026-03-30T03:30:58.248Z"
 status: "active"
 ---
 

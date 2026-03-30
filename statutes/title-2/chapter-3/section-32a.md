@@ -3,9 +3,9 @@ title: "Section 32a - Compensation of Deputy President pro tempore of Senate"
 usc_title: 2
 usc_section: "32a"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 32a"
-generated_at: "2026-03-30T03:26:44.267Z"
+generated_at: "2026-03-30T03:29:15.680Z"
 status: "active"
 ---
 

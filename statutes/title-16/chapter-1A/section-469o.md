@@ -3,9 +3,9 @@ title: "Section 469o - Save America’s Treasures Program"
 usc_title: 16
 usc_section: "469o"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 469o"
-generated_at: "2026-03-30T03:27:38.098Z"
+generated_at: "2026-03-30T03:29:46.264Z"
 status: "active"
 ---
 

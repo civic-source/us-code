@@ -3,9 +3,9 @@ title: "Section 7801 - Findings"
 usc_title: 22
 usc_section: "7801"
 chapter: 85
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 7801"
-generated_at: "2026-03-30T03:27:52.245Z"
+generated_at: "2026-03-30T03:29:52.748Z"
 status: "active"
 ---
 

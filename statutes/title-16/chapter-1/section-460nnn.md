@@ -3,9 +3,9 @@ title: "Section 460nnn - Definitions"
 usc_title: 16
 usc_section: "460nnn"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 460nnn"
-generated_at: "2026-03-30T03:27:38.092Z"
+generated_at: "2026-03-30T03:29:46.258Z"
 status: "active"
 ---
 

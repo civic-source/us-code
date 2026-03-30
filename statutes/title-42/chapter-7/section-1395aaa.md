@@ -3,9 +3,9 @@ title: "Section 1395aaa - Contract with a consensus-based entity regarding perfo
 usc_title: 42
 usc_section: "1395aaa"
 chapter: 7
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 1395aaa"
-generated_at: "2026-03-30T03:28:56.686Z"
+generated_at: "2026-03-30T03:32:06.491Z"
 status: "active"
 ---
 

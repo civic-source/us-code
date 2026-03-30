@@ -3,9 +3,9 @@ title: "Section 5050a - Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(
 usc_title: 48
 usc_section: "5050a"
 chapter: 2
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "48 U.S.C. § 5050a"
-generated_at: "2026-03-30T03:29:00.287Z"
+generated_at: "2026-03-30T03:32:29.300Z"
 status: "repealed"
 ---
 

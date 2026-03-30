@@ -3,9 +3,9 @@ title: "Section 1158 - Disappearance"
 usc_title: 38
 usc_section: "1158"
 chapter: 11
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 1158"
-generated_at: "2026-03-30T03:28:40.581Z"
+generated_at: "2026-03-30T03:30:58.198Z"
 status: "active"
 ---
 

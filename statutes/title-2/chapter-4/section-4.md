@@ -3,9 +3,9 @@ title: "Section 4 - Definitions"
 usc_title: 2
 usc_section: "4"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 4"
-generated_at: "2026-03-30T03:26:44.276Z"
+generated_at: "2026-03-30T03:29:15.688Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 61k - Appointment and compensation of employees by President pro
 usc_title: 2
 usc_section: "61k"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 61k"
-generated_at: "2026-03-30T03:26:44.272Z"
+generated_at: "2026-03-30T03:29:15.686Z"
 status: "active"
 ---
 

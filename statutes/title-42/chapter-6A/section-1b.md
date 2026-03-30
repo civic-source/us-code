@@ -3,9 +3,9 @@ title: "Section 1b - Use of allotments for rape prevention education"
 usc_title: 42
 usc_section: "1b"
 chapter: 6
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T03:28:56.470Z"
+generated_at: "2026-03-30T03:32:06.278Z"
 status: "active"
 ---
 

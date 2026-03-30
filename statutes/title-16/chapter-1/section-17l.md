@@ -3,9 +3,9 @@ title: "Section 17l - Coordination; planning by States with aid of National Park
 usc_title: 16
 usc_section: "17l"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 17l"
-generated_at: "2026-03-30T03:27:38.016Z"
+generated_at: "2026-03-30T03:29:46.183Z"
 status: "active"
 ---
 

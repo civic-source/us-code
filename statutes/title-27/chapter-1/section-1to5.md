@@ -3,9 +3,9 @@ title: "Section 1to5 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat
 usc_title: 27
 usc_section: "1to5"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "27 U.S.C. § 1to5"
-generated_at: "2026-03-30T03:27:57.546Z"
+generated_at: "2026-03-30T03:30:08.520Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 983b - Restoration of rights"
 usc_title: 25
 usc_section: "983b"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 983b"
-generated_at: "2026-03-30T03:27:53.749Z"
+generated_at: "2026-03-30T03:30:06.905Z"
 status: "active"
 ---
 

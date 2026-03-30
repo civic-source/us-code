@@ -3,9 +3,9 @@ title: "Section 5584 - Federal assistance application procedures; selection of a
 usc_title: 42
 usc_section: "5584"
 chapter: 71
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 5584"
-generated_at: "2026-03-30T03:28:56.874Z"
+generated_at: "2026-03-30T03:32:06.670Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 377 - Penalties"
 usc_title: 15
 usc_section: "377"
 chapter: 10
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 377"
-generated_at: "2026-03-30T03:27:26.867Z"
+generated_at: "2026-03-30T03:29:35.822Z"
 status: "active"
 ---
 

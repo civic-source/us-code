@@ -3,9 +3,9 @@ title: "Section 92 - Employees of Members of House of Representatives"
 usc_title: 2
 usc_section: "92"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 92"
-generated_at: "2026-03-30T03:26:44.276Z"
+generated_at: "2026-03-30T03:29:15.688Z"
 status: "active"
 ---
 

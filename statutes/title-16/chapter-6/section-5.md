@@ -3,9 +3,9 @@ title: "Section 5 - Board of Trustees"
 usc_title: 16
 usc_section: "5"
 chapter: 6
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T03:27:38.129Z"
+generated_at: "2026-03-30T03:29:46.296Z"
 status: "active"
 ---
 

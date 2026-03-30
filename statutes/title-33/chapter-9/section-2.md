@@ -3,9 +3,9 @@ title: "Section 2 - Great Lakes navigation and protection"
 usc_title: 33
 usc_section: "2"
 chapter: 9
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T03:28:36.886Z"
+generated_at: "2026-03-30T03:30:27.978Z"
 status: "active"
 ---
 

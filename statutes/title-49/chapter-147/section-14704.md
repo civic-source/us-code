@@ -3,9 +3,9 @@ title: "Section 14704 - Rights and remedies of persons injured by carriers or br
 usc_title: 49
 usc_section: "14704"
 chapter: 147
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "49 U.S.C. § 14704"
-generated_at: "2026-03-30T03:29:03.215Z"
+generated_at: "2026-03-30T03:32:48.383Z"
 status: "active"
 ---
 

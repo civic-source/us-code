@@ -3,9 +3,9 @@ title: "Section 142 - Omitted"
 usc_title: 2
 usc_section: "142"
 chapter: 5
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 142"
-generated_at: "2026-03-30T03:26:44.279Z"
+generated_at: "2026-03-30T03:29:15.693Z"
 status: "omitted"
 ---
 

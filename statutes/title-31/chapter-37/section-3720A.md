@@ -3,9 +3,9 @@ title: "Section 3720A - Reduction of tax refund by amount of debt"
 usc_title: 31
 usc_section: "3720A"
 chapter: 37
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "31 U.S.C. § 3720A"
-generated_at: "2026-03-30T03:28:28.442Z"
+generated_at: "2026-03-30T03:30:24.804Z"
 status: "active"
 ---
 

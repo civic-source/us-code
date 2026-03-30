@@ -3,9 +3,9 @@ title: "Section 761to769 - Omitted"
 usc_title: 16
 usc_section: "761to769"
 chapter: 10
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 761to769"
-generated_at: "2026-03-30T03:27:38.134Z"
+generated_at: "2026-03-30T03:29:46.301Z"
 status: "omitted"
 ---
 

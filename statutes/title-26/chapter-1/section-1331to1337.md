@@ -3,9 +3,9 @@ title: "Section 1331to1337 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(1
 usc_title: 26
 usc_section: "1331to1337"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "26 U.S.C. § 1331to1337"
-generated_at: "2026-03-30T03:28:25.641Z"
+generated_at: "2026-03-30T03:30:21.678Z"
 status: "repealed"
 ---
 

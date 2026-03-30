@@ -3,9 +3,9 @@ title: "Section 61to63 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "61to63"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "43 U.S.C. § 61to63"
-generated_at: "2026-03-30T03:28:43.462Z"
+generated_at: "2026-03-30T03:31:00.893Z"
 status: "repealed"
 ---
 

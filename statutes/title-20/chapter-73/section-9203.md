@@ -3,9 +3,9 @@ title: "Section 9203 - Home schools"
 usc_title: 20
 usc_section: "9203"
 chapter: 73
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 9203"
-generated_at: "2026-03-30T03:27:33.403Z"
+generated_at: "2026-03-30T03:29:44.062Z"
 status: "active"
 ---
 

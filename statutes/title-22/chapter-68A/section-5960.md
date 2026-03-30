@@ -3,9 +3,9 @@ title: "Section 5960 - Limitation on use of funds until certain permits obtained
 usc_title: 22
 usc_section: "5960"
 chapter: 68
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "22 U.S.C. § 5960"
-generated_at: "2026-03-30T03:27:52.225Z"
+generated_at: "2026-03-30T03:29:52.726Z"
 status: "active"
 ---
 

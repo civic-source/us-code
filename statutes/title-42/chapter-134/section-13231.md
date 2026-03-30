@@ -3,9 +3,9 @@ title: "Section 13231 - Public information program"
 usc_title: 42
 usc_section: "13231"
 chapter: 134
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 13231"
-generated_at: "2026-03-30T03:28:57.049Z"
+generated_at: "2026-03-30T03:32:06.847Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450f - Delegation of functions under other laws as unaffected"
 usc_title: 7
 usc_section: "450f"
 chapter: 17
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 450f"
-generated_at: "2026-03-30T03:27:20.102Z"
+generated_at: "2026-03-30T03:29:22.876Z"
 status: "active"
 ---
 

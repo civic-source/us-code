@@ -3,9 +3,9 @@ title: "Section 700 - Protection of minors, persons non compos mentis and other 
 usc_title: 25
 usc_section: "700"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 700"
-generated_at: "2026-03-30T03:27:53.742Z"
+generated_at: "2026-03-30T03:30:06.898Z"
 status: "active"
 ---
 

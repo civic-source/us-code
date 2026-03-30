@@ -3,9 +3,9 @@ title: "Section 117e - Disposal of used or surplus furniture and equipment by Ch
 usc_title: 2
 usc_section: "117e"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 117e"
-generated_at: "2026-03-30T03:26:44.277Z"
+generated_at: "2026-03-30T03:29:15.690Z"
 status: "active"
 ---
 

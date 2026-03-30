@@ -3,9 +3,9 @@ title: "Section 936 - Art. 136. Authority to administer oaths and to act as nota
 usc_title: 10
 usc_section: "936"
 chapter: 47
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 936"
-generated_at: "2026-03-30T03:27:18.238Z"
+generated_at: "2026-03-30T03:29:26.469Z"
 status: "active"
 ---
 

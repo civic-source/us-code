@@ -3,9 +3,9 @@ title: "Section 2481 - Defense commissary and exchange systems: existence and pu
 usc_title: 10
 usc_section: "2481"
 chapter: 147
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 2481"
-generated_at: "2026-03-30T03:27:18.291Z"
+generated_at: "2026-03-30T03:29:26.523Z"
 status: "active"
 ---
 

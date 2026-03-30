@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 197
 usc_title: 43
 usc_section: "4"
 chapter: 7
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T03:28:43.464Z"
+generated_at: "2026-03-30T03:31:00.894Z"
 status: "repealed"
 ---
 

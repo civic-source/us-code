@@ -3,9 +3,9 @@ title: "Section 105 - State, and so forth, taxation affecting Federal areas; sal
 usc_title: 4
 usc_section: "105"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "4 U.S.C. § 105"
-generated_at: "2026-03-30T03:26:41.648Z"
+generated_at: "2026-03-30T03:29:14.572Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7131 - Federal activities"
 usc_title: 20
 usc_section: "7131"
 chapter: 70
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 7131"
-generated_at: "2026-03-30T03:27:33.382Z"
+generated_at: "2026-03-30T03:29:44.042Z"
 status: "active"
 ---
 

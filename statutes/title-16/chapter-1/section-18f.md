@@ -3,9 +3,9 @@ title: "Section 18f - Management of museum properties"
 usc_title: 16
 usc_section: "18f"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 18f"
-generated_at: "2026-03-30T03:27:38.016Z"
+generated_at: "2026-03-30T03:29:46.183Z"
 status: "active"
 ---
 

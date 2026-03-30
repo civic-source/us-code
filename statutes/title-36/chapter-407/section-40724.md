@@ -3,9 +3,9 @@ title: "Section 40724 - Priority of youth participation"
 usc_title: 36
 usc_section: "40724"
 chapter: 407
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "36 U.S.C. § 40724"
-generated_at: "2026-03-30T03:28:39.592Z"
+generated_at: "2026-03-30T03:30:37.022Z"
 status: "active"
 ---
 

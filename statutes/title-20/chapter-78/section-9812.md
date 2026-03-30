@@ -3,9 +3,9 @@ title: "Section 9812 - Definitions"
 usc_title: 20
 usc_section: "9812"
 chapter: 78
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 9812"
-generated_at: "2026-03-30T03:27:33.410Z"
+generated_at: "2026-03-30T03:29:44.069Z"
 status: "active"
 ---
 

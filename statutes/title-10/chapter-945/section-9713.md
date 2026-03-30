@@ -3,9 +3,9 @@ title: "Section 9713 - Repealed. Pub. L. 101–510, div. A, title XV, § 1533(a)
 usc_title: 10
 usc_section: "9713"
 chapter: 945
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 9713"
-generated_at: "2026-03-30T03:27:18.333Z"
+generated_at: "2026-03-30T03:29:26.566Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9603 - Evaluations"
 usc_title: 20
 usc_section: "9603"
 chapter: 76
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 9603"
-generated_at: "2026-03-30T03:27:33.408Z"
+generated_at: "2026-03-30T03:29:44.068Z"
 status: "active"
 ---
 

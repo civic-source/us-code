@@ -3,9 +3,9 @@ title: "Section 10711 - Audits"
 usc_title: 42
 usc_section: "10711"
 chapter: 113
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 10711"
-generated_at: "2026-03-30T03:28:57.007Z"
+generated_at: "2026-03-30T03:32:06.804Z"
 status: "active"
 ---
 

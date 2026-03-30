@@ -3,9 +3,9 @@ title: "Section 15322 - Duties"
 usc_title: 42
 usc_section: "15322"
 chapter: 146
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 15322"
-generated_at: "2026-03-30T03:28:57.081Z"
+generated_at: "2026-03-30T03:32:06.881Z"
 status: "active"
 ---
 

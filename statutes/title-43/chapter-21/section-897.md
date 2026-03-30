@@ -3,9 +3,9 @@ title: "Section 897 - Patents to purchasers from railroads; purchase money"
 usc_title: 43
 usc_section: "897"
 chapter: 21
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "43 U.S.C. § 897"
-generated_at: "2026-03-30T03:28:43.483Z"
+generated_at: "2026-03-30T03:31:00.918Z"
 status: "active"
 ---
 

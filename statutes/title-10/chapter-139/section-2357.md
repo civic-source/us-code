@@ -3,9 +3,9 @@ title: "Section 2357 - Repealed. Pub. L. 101–510, div. A, title XIII, § 1301(
 usc_title: 10
 usc_section: "2357"
 chapter: 139
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 2357"
-generated_at: "2026-03-30T03:27:18.284Z"
+generated_at: "2026-03-30T03:29:26.516Z"
 status: "repealed"
 ---
 

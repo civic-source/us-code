@@ -3,9 +3,9 @@ title: "Section 14701 - General authority"
 usc_title: 49
 usc_section: "14701"
 chapter: 147
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "49 U.S.C. § 14701"
-generated_at: "2026-03-30T03:29:03.215Z"
+generated_at: "2026-03-30T03:32:48.383Z"
 status: "active"
 ---
 

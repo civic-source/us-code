@@ -3,9 +3,9 @@ title: "Section 3548 - Authorization of appropriations"
 usc_title: 44
 usc_section: "3548"
 chapter: 35
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "44 U.S.C. § 3548"
-generated_at: "2026-03-30T03:28:42.817Z"
+generated_at: "2026-03-30T03:31:08.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2505 - Trial before judges"
 usc_title: 28
 usc_section: "2505"
 chapter: 165
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "28 U.S.C. § 2505"
-generated_at: "2026-03-30T03:28:02.693Z"
+generated_at: "2026-03-30T03:30:13.254Z"
 status: "active"
 ---
 

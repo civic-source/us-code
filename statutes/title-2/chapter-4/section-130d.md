@@ -3,9 +3,9 @@ title: "Section 130d - Waiver by Speaker of House of claims of United States ari
 usc_title: 2
 usc_section: "130d"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 130d"
-generated_at: "2026-03-30T03:26:44.278Z"
+generated_at: "2026-03-30T03:29:15.691Z"
 status: "active"
 ---
 

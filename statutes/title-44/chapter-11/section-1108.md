@@ -3,9 +3,9 @@ title: "Section 1108 - Presidential approval required for printing of periodical
 usc_title: 44
 usc_section: "1108"
 chapter: 11
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "44 U.S.C. § 1108"
-generated_at: "2026-03-30T03:28:42.809Z"
+generated_at: "2026-03-30T03:31:08.339Z"
 status: "active"
 ---
 

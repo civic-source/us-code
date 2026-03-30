@@ -3,9 +3,9 @@ title: "Section 5149 - Performance of services"
 usc_title: 42
 usc_section: "5149"
 chapter: 68
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 5149"
-generated_at: "2026-03-30T03:28:56.862Z"
+generated_at: "2026-03-30T03:32:06.658Z"
 status: "active"
 ---
 

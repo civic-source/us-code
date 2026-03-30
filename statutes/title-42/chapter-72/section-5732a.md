@@ -3,9 +3,9 @@ title: "Section 5732a - Definitions"
 usc_title: 42
 usc_section: "5732a"
 chapter: 72
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 5732a"
-generated_at: "2026-03-30T03:28:56.878Z"
+generated_at: "2026-03-30T03:32:06.673Z"
 status: "active"
 ---
 

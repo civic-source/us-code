@@ -3,9 +3,9 @@ title: "Section 1 - Modification of certain limits for House candidates in respo
 usc_title: 2
 usc_section: "1"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T03:26:44.289Z"
+generated_at: "2026-03-30T03:29:15.702Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2404 - Permits"
 usc_title: 16
 usc_section: "2404"
 chapter: 44
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 2404"
-generated_at: "2026-03-30T03:27:38.197Z"
+generated_at: "2026-03-30T03:29:46.363Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 364 - Obtaining credit"
 usc_title: 11
 usc_section: "364"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "11 U.S.C. § 364"
-generated_at: "2026-03-30T03:27:22.621Z"
+generated_at: "2026-03-30T03:29:28.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 73 - Agreements involving restrictions in favor of imported good
 usc_title: 15
 usc_section: "73"
 chapter: 2
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 73"
-generated_at: "2026-03-30T03:27:26.822Z"
+generated_at: "2026-03-30T03:29:35.776Z"
 status: "active"
 ---
 

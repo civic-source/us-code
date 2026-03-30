@@ -3,9 +3,9 @@ title: "Section 1701x - Assistance with respect to housing for low- and moderate
 usc_title: 12
 usc_section: "1701x"
 chapter: 13
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "12 U.S.C. § 1701x"
-generated_at: "2026-03-30T03:27:24.427Z"
+generated_at: "2026-03-30T03:29:34.064Z"
 status: "active"
 ---
 

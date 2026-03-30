@@ -3,9 +3,9 @@ title: "Section 1167 - Rules and regulations"
 usc_title: 25
 usc_section: "1167"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 1167"
-generated_at: "2026-03-30T03:27:53.751Z"
+generated_at: "2026-03-30T03:30:06.907Z"
 status: "active"
 ---
 

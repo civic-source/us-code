@@ -3,9 +3,9 @@ title: "Section 11162 - Rail carrier cost accounting system"
 usc_title: 49
 usc_section: "11162"
 chapter: 111
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "49 U.S.C. § 11162"
-generated_at: "2026-03-30T03:29:03.210Z"
+generated_at: "2026-03-30T03:32:48.375Z"
 status: "active"
 ---
 

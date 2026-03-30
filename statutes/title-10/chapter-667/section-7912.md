@@ -3,9 +3,9 @@ title: "Section 7912 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "7912"
 chapter: 667
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 7912"
-generated_at: "2026-03-30T03:27:18.327Z"
+generated_at: "2026-03-30T03:29:26.559Z"
 status: "active"
 ---
 

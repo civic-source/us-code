@@ -3,9 +3,9 @@ title: "Section 68b - Per diem and subsistence expenses from Senate contingent f
 usc_title: 2
 usc_section: "68b"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 68b"
-generated_at: "2026-03-30T03:26:44.273Z"
+generated_at: "2026-03-30T03:29:15.686Z"
 status: "active"
 ---
 

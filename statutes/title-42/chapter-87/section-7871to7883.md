@@ -3,9 +3,9 @@ title: "Section 7871to7883 - Repealed. Pub. L. 98–242, title I, § 110(a) , Ma
 usc_title: 42
 usc_section: "7871to7883"
 chapter: 87
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 7871to7883"
-generated_at: "2026-03-30T03:28:56.953Z"
+generated_at: "2026-03-30T03:32:06.752Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 301 - Public Printer: appointment"
 usc_title: 44
 usc_section: "301"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "44 U.S.C. § 301"
-generated_at: "2026-03-30T03:28:42.807Z"
+generated_at: "2026-03-30T03:31:08.337Z"
 status: "active"
 ---
 

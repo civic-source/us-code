@@ -3,9 +3,9 @@ title: "Section 220509 - Resolution of disputes"
 usc_title: 36
 usc_section: "220509"
 chapter: 2205
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "36 U.S.C. § 220509"
-generated_at: "2026-03-30T03:28:39.602Z"
+generated_at: "2026-03-30T03:30:37.034Z"
 status: "active"
 ---
 

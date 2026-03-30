@@ -3,9 +3,9 @@ title: "Section 4514 - Dairy reports"
 usc_title: 7
 usc_section: "4514"
 chapter: 76
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 4514"
-generated_at: "2026-03-30T03:27:20.186Z"
+generated_at: "2026-03-30T03:29:22.961Z"
 status: "active"
 ---
 

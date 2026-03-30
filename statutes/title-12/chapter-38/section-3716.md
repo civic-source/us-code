@@ -3,9 +3,9 @@ title: "Section 3716 - Separability"
 usc_title: 12
 usc_section: "3716"
 chapter: 38
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "12 U.S.C. § 3716"
-generated_at: "2026-03-30T03:27:24.503Z"
+generated_at: "2026-03-30T03:29:34.145Z"
 status: "active"
 ---
 

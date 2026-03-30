@@ -3,9 +3,9 @@ title: "Section 450a - Cooperative research projects; agreements with and receip
 usc_title: 7
 usc_section: "450a"
 chapter: 17
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 450a"
-generated_at: "2026-03-30T03:27:20.102Z"
+generated_at: "2026-03-30T03:29:22.876Z"
 status: "active"
 ---
 

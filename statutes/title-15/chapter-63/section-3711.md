@@ -3,9 +3,9 @@ title: "Section 3711 - National Technology and Innovation Medal"
 usc_title: 15
 usc_section: "3711"
 chapter: 63
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 3711"
-generated_at: "2026-03-30T03:27:26.957Z"
+generated_at: "2026-03-30T03:29:35.919Z"
 status: "active"
 ---
 

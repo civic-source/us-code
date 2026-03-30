@@ -3,9 +3,9 @@ title: "Section 13710 - Payments to eligible States for incarceration of crimina
 usc_title: 42
 usc_section: "13710"
 chapter: 136
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 13710"
-generated_at: "2026-03-30T03:28:57.059Z"
+generated_at: "2026-03-30T03:32:06.857Z"
 status: "active"
 ---
 

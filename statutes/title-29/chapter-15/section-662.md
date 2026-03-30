@@ -3,9 +3,9 @@ title: "Section 662 - Injunction proceedings"
 usc_title: 29
 usc_section: "662"
 chapter: 15
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "29 U.S.C. § 662"
-generated_at: "2026-03-30T03:28:04.170Z"
+generated_at: "2026-03-30T03:30:09.736Z"
 status: "active"
 ---
 

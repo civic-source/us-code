@@ -3,9 +3,9 @@ title: "Section 1403 - National Land Border Security Plan"
 usc_title: 6
 usc_section: "1403"
 chapter: 5
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "6 U.S.C. § 1403"
-generated_at: "2026-03-30T03:27:07.747Z"
+generated_at: "2026-03-30T03:29:19.151Z"
 status: "active"
 ---
 

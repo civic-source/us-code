@@ -3,9 +3,9 @@ title: "Section 2155 - Destruction of national-defense materials, national-defen
 usc_title: 18
 usc_section: "2155"
 chapter: 105
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "18 U.S.C. § 2155"
-generated_at: "2026-03-30T03:27:34.298Z"
+generated_at: "2026-03-30T03:29:39.027Z"
 status: "active"
 ---
 

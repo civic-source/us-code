@@ -3,9 +3,9 @@ title: "Section 1931 - Repealed. Pub. L. 104–127, title VII, § 746 , Apr. 4, 
 usc_title: 7
 usc_section: "1931"
 chapter: 50
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "7 U.S.C. § 1931"
-generated_at: "2026-03-30T03:27:20.146Z"
+generated_at: "2026-03-30T03:29:22.920Z"
 status: "repealed"
 ---
 

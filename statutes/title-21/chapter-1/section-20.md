@@ -3,9 +3,9 @@ title: "Section 20 - Apples in interstate commerce; standard grades"
 usc_title: 21
 usc_section: "20"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "21 U.S.C. § 20"
-generated_at: "2026-03-30T03:27:52.891Z"
+generated_at: "2026-03-30T03:30:00.604Z"
 status: "active"
 ---
 

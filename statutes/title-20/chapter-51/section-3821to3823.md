@@ -3,9 +3,9 @@ title: "Section 3821to3823 - Repealed. Pub. L. 100–297, title I, § 1003(a) , 
 usc_title: 20
 usc_section: "3821to3823"
 chapter: 51
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 3821to3823"
-generated_at: "2026-03-30T03:27:33.353Z"
+generated_at: "2026-03-30T03:29:44.012Z"
 status: "repealed"
 ---
 

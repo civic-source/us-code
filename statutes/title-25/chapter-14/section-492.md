@@ -3,9 +3,9 @@ title: "Section 492 - Interest rates and taxes"
 usc_title: 25
 usc_section: "492"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 492"
-generated_at: "2026-03-30T03:27:53.732Z"
+generated_at: "2026-03-30T03:30:06.887Z"
 status: "active"
 ---
 

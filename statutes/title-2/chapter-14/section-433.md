@@ -3,9 +3,9 @@ title: "Section 433 - Registration of political committees"
 usc_title: 2
 usc_section: "433"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 433"
-generated_at: "2026-03-30T03:26:44.286Z"
+generated_at: "2026-03-30T03:29:15.699Z"
 status: "active"
 ---
 

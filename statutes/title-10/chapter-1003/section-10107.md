@@ -3,9 +3,9 @@ title: "Section 10107 - Army National Guard of the United States: status when no
 usc_title: 10
 usc_section: "10107"
 chapter: 1003
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 10107"
-generated_at: "2026-03-30T03:27:18.334Z"
+generated_at: "2026-03-30T03:29:26.566Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2002 - National criteria for home-living situations"
 usc_title: 25
 usc_section: "2002"
 chapter: 22
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 2002"
-generated_at: "2026-03-30T03:27:53.778Z"
+generated_at: "2026-03-30T03:30:06.935Z"
 status: "active"
 ---
 

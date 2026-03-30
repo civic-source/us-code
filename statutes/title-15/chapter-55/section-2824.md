@@ -3,9 +3,9 @@ title: "Section 2824 - Relationship of statutory provisions to State and local l
 usc_title: 15
 usc_section: "2824"
 chapter: 55
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 2824"
-generated_at: "2026-03-30T03:27:26.951Z"
+generated_at: "2026-03-30T03:29:35.912Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1723 - Furnishing of clothing"
 usc_title: 38
 usc_section: "1723"
 chapter: 17
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 1723"
-generated_at: "2026-03-30T03:28:40.585Z"
+generated_at: "2026-03-30T03:30:58.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3766 - Evaluation"
 usc_title: 42
 usc_section: "3766"
 chapter: 46
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 3766"
-generated_at: "2026-03-30T03:28:56.827Z"
+generated_at: "2026-03-30T03:32:06.628Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 794f - Establishment of standards for accessible medical diagnos
 usc_title: 29
 usc_section: "794f"
 chapter: 16
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "29 U.S.C. § 794f"
-generated_at: "2026-03-30T03:28:04.178Z"
+generated_at: "2026-03-30T03:30:09.744Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 68e - Advance payments by Secretary of Senate"
 usc_title: 2
 usc_section: "68e"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 68e"
-generated_at: "2026-03-30T03:26:44.273Z"
+generated_at: "2026-03-30T03:29:15.687Z"
 status: "active"
 ---
 

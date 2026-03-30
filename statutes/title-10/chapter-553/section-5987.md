@@ -3,9 +3,9 @@ title: "Section 5987 - Repealed. Pub. L. 90–235, § 4(a)(2) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "5987"
 chapter: 553
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 5987"
-generated_at: "2026-03-30T03:27:18.318Z"
+generated_at: "2026-03-30T03:29:26.550Z"
 status: "repealed"
 ---
 

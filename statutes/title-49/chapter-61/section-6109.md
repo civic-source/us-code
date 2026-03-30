@@ -3,9 +3,9 @@ title: "Section 6109 - Public education and awareness"
 usc_title: 49
 usc_section: "6109"
 chapter: 61
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "49 U.S.C. § 6109"
-generated_at: "2026-03-30T03:29:03.207Z"
+generated_at: "2026-03-30T03:32:48.371Z"
 status: "active"
 ---
 

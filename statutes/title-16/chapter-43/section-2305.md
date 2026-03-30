@@ -3,9 +3,9 @@ title: "Section 2305 - Report to Congress; contents"
 usc_title: 16
 usc_section: "2305"
 chapter: 43
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 2305"
-generated_at: "2026-03-30T03:27:38.196Z"
+generated_at: "2026-03-30T03:29:46.363Z"
 status: "active"
 ---
 

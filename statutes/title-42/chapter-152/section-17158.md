@@ -3,9 +3,9 @@ title: "Section 17158 - Funding"
 usc_title: 42
 usc_section: "17158"
 chapter: 152
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 17158"
-generated_at: "2026-03-30T03:28:57.265Z"
+generated_at: "2026-03-30T03:32:06.912Z"
 status: "active"
 ---
 

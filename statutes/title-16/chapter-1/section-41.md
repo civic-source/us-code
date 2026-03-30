@@ -3,9 +3,9 @@ title: "Section 41 - Cooperative management agreements"
 usc_title: 16
 usc_section: "41"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 41"
-generated_at: "2026-03-30T03:27:38.092Z"
+generated_at: "2026-03-30T03:29:46.259Z"
 status: "active"
 ---
 

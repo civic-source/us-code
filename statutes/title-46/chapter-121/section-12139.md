@@ -3,9 +3,9 @@ title: "Section 12139 - Reports"
 usc_title: 46
 usc_section: "12139"
 chapter: 121
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "46 U.S.C. § 12139"
-generated_at: "2026-03-30T03:29:00.929Z"
+generated_at: "2026-03-30T03:32:19.114Z"
 status: "active"
 ---
 

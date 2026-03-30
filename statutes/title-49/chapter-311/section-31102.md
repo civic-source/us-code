@@ -3,9 +3,9 @@ title: "Section 31102 - Grants to States"
 usc_title: 49
 usc_section: "31102"
 chapter: 311
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "49 U.S.C. § 31102"
-generated_at: "2026-03-30T03:29:03.230Z"
+generated_at: "2026-03-30T03:32:48.405Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3420 - Office of English Language Acquisition, Language Enhancem
 usc_title: 20
 usc_section: "3420"
 chapter: 48
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 3420"
-generated_at: "2026-03-30T03:27:33.350Z"
+generated_at: "2026-03-30T03:29:44.009Z"
 status: "active"
 ---
 

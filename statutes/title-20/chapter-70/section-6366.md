@@ -3,9 +3,9 @@ title: "Section 6366 - National activities"
 usc_title: 20
 usc_section: "6366"
 chapter: 70
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 6366"
-generated_at: "2026-03-30T03:27:33.369Z"
+generated_at: "2026-03-30T03:29:44.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 71nto71q - Transferred"
 usc_title: 42
 usc_section: "71nto71q"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 71nto71q"
-generated_at: "2026-03-30T03:28:56.436Z"
+generated_at: "2026-03-30T03:32:06.243Z"
 status: "transferred"
 ---
 

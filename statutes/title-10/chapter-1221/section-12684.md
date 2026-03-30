@@ -3,9 +3,9 @@ title: "Section 12684 - Reserves: separation for absence without authority or se
 usc_title: 10
 usc_section: "12684"
 chapter: 1221
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 12684"
-generated_at: "2026-03-30T03:27:18.340Z"
+generated_at: "2026-03-30T03:29:26.572Z"
 status: "active"
 ---
 

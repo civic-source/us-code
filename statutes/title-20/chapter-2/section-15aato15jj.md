@@ -3,9 +3,9 @@ title: "Section 15aato15jj - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 
 usc_title: 20
 usc_section: "15aato15jj"
 chapter: 2
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 15aato15jj"
-generated_at: "2026-03-30T03:27:33.265Z"
+generated_at: "2026-03-30T03:29:43.922Z"
 status: "repealed"
 ---
 

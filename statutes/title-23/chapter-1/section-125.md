@@ -3,9 +3,9 @@ title: "Section 125 - Emergency relief"
 usc_title: 23
 usc_section: "125"
 chapter: 1
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "23 U.S.C. § 125"
-generated_at: "2026-03-30T03:27:49.991Z"
+generated_at: "2026-03-30T03:30:01.766Z"
 status: "active"
 ---
 

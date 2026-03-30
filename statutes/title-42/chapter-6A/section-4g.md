@@ -1,20 +1,13 @@
 ---
-title: "Section 4g - Interagency Coordinating Council on Prematurity and Low Birthweight"
+title: "Section 4g - Repealed. Pub. L. 113–55, title I, § 104(a) , Nov. 27, 2013 , 127 Stat. 643"
 usc_title: 42
 usc_section: "4g"
 chapter: 6
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 4g"
-generated_at: "2026-03-30T03:28:56.445Z"
-status: "active"
+generated_at: "2026-03-30T03:32:06.253Z"
+status: "repealed"
 ---
 
-# § 247b–4g. Interagency Coordinating Council on Prematurity and Low Birthweight
+# § 247b–4g. Repealed. Pub. L. 113–55, title I, § 104(a) , Nov. 27, 2013 , 127 Stat. 643
 
-- **(a)** It is the purpose of this section to stimulate multidisciplinary research, scientific exchange, and collaboration among the agencies of the Department of Health and Human Services and to assist the Department in targeting efforts to achieve the greatest advances toward the goal of reducing prematurity and low birthweight.
-- **(b)** The Secretary of Health and Human Services shall establish an Interagency Coordinating Council on Prematurity and Low Birthweight (referred to in this section as the Council) to carry out the purpose of this section.
-- **(c)** The Council shall be composed of members to be appointed by the Secretary, including representatives of the agencies of the Department of Health and Human Services.
-- **(d)** The Council shall—
-  - **(1)** annually report to the Secretary of Health and Human Services and Congress on current Departmental activities relating to prematurity and low birthweight;
-  - **(2)** carry out other activities determined appropriate by the Secretary of Health and Human Services; and
-  - **(3)** oversee the coordination of the implementation of this Act.

@@ -3,9 +3,9 @@ title: "Section 8201 - Repealed. Pub. L. 96–513, title II, § 202 , Dec. 12, 1
 usc_title: 10
 usc_section: "8201"
 chapter: 831
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 8201"
-generated_at: "2026-03-30T03:27:18.328Z"
+generated_at: "2026-03-30T03:29:26.560Z"
 status: "repealed"
 ---
 

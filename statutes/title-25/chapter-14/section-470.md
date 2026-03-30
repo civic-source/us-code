@@ -3,9 +3,9 @@ title: "Section 470 - Revolving fund; appropriation for loans"
 usc_title: 25
 usc_section: "470"
 chapter: 14
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "25 U.S.C. § 470"
-generated_at: "2026-03-30T03:27:53.731Z"
+generated_at: "2026-03-30T03:30:06.886Z"
 status: "active"
 ---
 

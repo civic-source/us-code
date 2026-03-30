@@ -3,9 +3,9 @@ title: "Section 1973p - Separability"
 usc_title: 42
 usc_section: "1973p"
 chapter: 20
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 1973p"
-generated_at: "2026-03-30T03:28:56.772Z"
+generated_at: "2026-03-30T03:32:06.575Z"
 status: "active"
 ---
 

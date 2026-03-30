@@ -3,9 +3,9 @@ title: "Section 3789e - Report to President and Congress"
 usc_title: 42
 usc_section: "3789e"
 chapter: 46
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "42 U.S.C. § 3789e"
-generated_at: "2026-03-30T03:28:56.828Z"
+generated_at: "2026-03-30T03:32:06.629Z"
 status: "active"
 ---
 

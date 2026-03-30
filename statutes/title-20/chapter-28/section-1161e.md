@@ -3,9 +3,9 @@ title: "Section 1161e - American history for freedom"
 usc_title: 20
 usc_section: "1161e"
 chapter: 28
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 1161e"
-generated_at: "2026-03-30T03:27:33.326Z"
+generated_at: "2026-03-30T03:29:43.985Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 530 - Annual report on program and expenditures for domestic res
 usc_title: 38
 usc_section: "530"
 chapter: 5
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "38 U.S.C. § 530"
-generated_at: "2026-03-30T03:28:40.579Z"
+generated_at: "2026-03-30T03:30:58.195Z"
 status: "active"
 ---
 

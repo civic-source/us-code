@@ -3,9 +3,9 @@ title: "Section 112 - Purchases of stationery and materials for folding"
 usc_title: 2
 usc_section: "112"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "2 U.S.C. § 112"
-generated_at: "2026-03-30T03:26:44.276Z"
+generated_at: "2026-03-30T03:29:15.689Z"
 status: "active"
 ---
 

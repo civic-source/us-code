@@ -3,9 +3,9 @@ title: "Section 6202 - Insane members of the naval service"
 usc_title: 10
 usc_section: "6202"
 chapter: 563
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 6202"
-generated_at: "2026-03-30T03:27:18.318Z"
+generated_at: "2026-03-30T03:29:26.550Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 771 - Comptroller General, powers and duties"
 usc_title: 15
 usc_section: "771"
 chapter: 16
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "15 U.S.C. § 771"
-generated_at: "2026-03-30T03:27:26.897Z"
+generated_at: "2026-03-30T03:29:35.855Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3321to3325 - Omitted"
 usc_title: 20
 usc_section: "3321to3325"
 chapter: 47
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "20 U.S.C. § 3321to3325"
-generated_at: "2026-03-30T03:27:33.350Z"
+generated_at: "2026-03-30T03:29:44.009Z"
 status: "omitted"
 ---
 

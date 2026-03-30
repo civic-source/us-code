@@ -3,9 +3,9 @@ title: "Section 3839bb - Conservation of private grazing land"
 usc_title: 16
 usc_section: "3839bb"
 chapter: 58
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 3839bb"
-generated_at: "2026-03-30T03:27:38.216Z"
+generated_at: "2026-03-30T03:29:46.383Z"
 status: "active"
 ---
 

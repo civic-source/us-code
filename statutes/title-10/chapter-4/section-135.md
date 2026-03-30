@@ -3,9 +3,9 @@ title: "Section 135 - Under Secretary of Defense (Comptroller)"
 usc_title: 10
 usc_section: "135"
 chapter: 4
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 135"
-generated_at: "2026-03-30T03:27:18.217Z"
+generated_at: "2026-03-30T03:29:26.449Z"
 status: "active"
 ---
 

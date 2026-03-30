@@ -3,9 +3,9 @@ title: "Section 576d - Expenditure of Supplemental National Forest Reforestation
 usc_title: 16
 usc_section: "576d"
 chapter: 3
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 576d"
-generated_at: "2026-03-30T03:27:38.115Z"
+generated_at: "2026-03-30T03:29:46.282Z"
 status: "active"
 ---
 

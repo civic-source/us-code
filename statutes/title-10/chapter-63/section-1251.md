@@ -3,9 +3,9 @@ title: "Section 1251 - Age 62: regular commissioned officers in grades below gen
 usc_title: 10
 usc_section: "1251"
 chapter: 63
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 1251"
-generated_at: "2026-03-30T03:27:18.255Z"
+generated_at: "2026-03-30T03:29:26.486Z"
 status: "active"
 ---
 

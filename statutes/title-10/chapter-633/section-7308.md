@@ -3,9 +3,9 @@ title: "Section 7308 - Chief of Naval Operations: certification required for dis
 usc_title: 10
 usc_section: "7308"
 chapter: 633
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 7308"
-generated_at: "2026-03-30T03:27:18.324Z"
+generated_at: "2026-03-30T03:29:26.556Z"
 status: "active"
 ---
 

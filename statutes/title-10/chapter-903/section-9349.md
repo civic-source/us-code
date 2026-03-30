@@ -3,9 +3,9 @@ title: "Section 9349 - Cadets: organization; service; instruction"
 usc_title: 10
 usc_section: "9349"
 chapter: 903
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "10 U.S.C. § 9349"
-generated_at: "2026-03-30T03:27:18.331Z"
+generated_at: "2026-03-30T03:29:26.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3831b - Pilot program for enrollment of wetland and buffer acrea
 usc_title: 16
 usc_section: "3831b"
 chapter: 58
-current_through: "PL 113-52"
+current_through: "PL 113-56"
 classification: "16 U.S.C. § 3831b"
-generated_at: "2026-03-30T03:27:38.212Z"
+generated_at: "2026-03-30T03:29:46.379Z"
 status: "active"
 ---
 
