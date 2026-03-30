@@ -3,9 +3,9 @@ title: "Section 1327 - Omitted"
 usc_title: 33
 usc_section: "1327"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 1327"
-generated_at: "2026-03-30T08:59:20.792Z"
+generated_at: "2026-03-30T09:02:53.387Z"
 status: "omitted"
 ---
 

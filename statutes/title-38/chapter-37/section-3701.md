@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 38
 usc_section: "3701"
 chapter: 37
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "38 U.S.C. § 3701"
-generated_at: "2026-03-30T08:59:28.808Z"
+generated_at: "2026-03-30T09:02:58.787Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
     - **(A)** the disability was continuously rated totally disabling for a period of 10 or more years immediately preceding death;
     - **(B)** the disability was continuously rated totally disabling for a period of not less than five years from the date of such veteran’s discharge or other release from active duty; or
     - **(C)** the veteran was a former prisoner of war who died after September 30, 1999 , and the disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
-- **(c)** Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen’s Readjustment Act of 1944.
+- **(c)** Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen’s Readjustment Act of 1944.

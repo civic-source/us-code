@@ -3,9 +3,9 @@ title: "Section 8541 - Function"
 usc_title: 10
 usc_section: "8541"
 chapter: 855
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 8541"
-generated_at: "2026-03-30T08:58:17.513Z"
+generated_at: "2026-03-30T09:01:22.020Z"
 status: "active"
 ---
 

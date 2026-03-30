@@ -3,9 +3,9 @@ title: "Section 3210 - Prior and pending proceedings"
 usc_title: 15
 usc_section: "3210"
 chapter: 59
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 3210"
-generated_at: "2026-03-30T08:58:33.101Z"
+generated_at: "2026-03-30T09:02:01.021Z"
 status: "active"
 ---
 

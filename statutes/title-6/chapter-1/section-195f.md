@@ -3,9 +3,9 @@ title: "Section 195f - EMP and GMD mitigation research and development and threa
 usc_title: 6
 usc_section: "195f"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "6 U.S.C. § 195f"
-generated_at: "2026-03-30T08:58:12.294Z"
+generated_at: "2026-03-30T09:01:10.342Z"
 status: "active"
 ---
 
@@ -68,4 +68,4 @@ status: "active"
     - **(C)** The term “Sector-Specific Agency” has the meaning given that term in section 651 of this title .
 - **(e)** Nothing in this section may be construe— 1 1 So in original. Probably should be “construed—”.
   - **(1)** to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019 , and entitled “Coordinating National Resilience to Electromagnetic Pulses”, or any other authority existing on the day before December 20, 2019 , of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note), including the authority under section 824 o of title 16, and including the authority of independent agencies to be independent; or
-  - **(2)** as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to the date of the enactment of this subsection.
+  - **(2)** as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019 .

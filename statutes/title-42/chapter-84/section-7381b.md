@@ -3,9 +3,9 @@ title: "Section 7381b - Laboratory cooperative science centers and other authori
 usc_title: 42
 usc_section: "7381b"
 chapter: 84
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 7381b"
-generated_at: "2026-03-30T08:59:47.065Z"
+generated_at: "2026-03-30T09:03:18.829Z"
 status: "active"
 ---
 

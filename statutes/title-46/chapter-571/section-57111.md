@@ -1,15 +1,15 @@
 ---
-title: "Section 57111 - Salvage recoveries for subrogated ownership of vessels and cargoes 1 1 No section 57110 has been enacted."
+title: "Section 57111 - Salvage recoveries for subrogated ownership of vessels and cargoes"
 usc_title: 46
 usc_section: "57111"
 chapter: 571
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "46 U.S.C. § 57111"
-generated_at: "2026-03-30T08:59:50.957Z"
+generated_at: "2026-03-30T09:03:28.717Z"
 status: "active"
 ---
 
-# § 57111. Salvage recoveries for subrogated ownership of vessels and cargoes 1 1 No section 57110 has been enacted.
+# § 57111. 1 1 No section 57110 has been enacted. Salvage recoveries for subrogated ownership of vessels and cargoes
 
 - **(a)** The Secretary of Transportation is authorized to enter into marine salvage agreements for the recoveries, sale, and disposal of sunken or damaged vessels, cargoes, or properties owned or insured by or on behalf of the Maritime Administration, the United States Shipping Board, the U.S. Shipping Bureau, the United States Maritime Commission, or the War Shipping Administration.
 - **(b)** The Secretary of Transportation shall consult with the Secretary of the military department concerned prior to engaging in or authorizing any activity under subsection (a) that will disturb sunken military craft, as such term is defined in section 1408(3) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( Public Law 108–375 ; 10 U.S.C. 113 note).

@@ -3,9 +3,9 @@ title: "Section 225 - Findings and purposes"
 usc_title: 24
 usc_section: "225"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "24 U.S.C. § 225"
-generated_at: "2026-03-30T08:59:03.986Z"
+generated_at: "2026-03-30T09:02:21.622Z"
 status: "active"
 ---
 

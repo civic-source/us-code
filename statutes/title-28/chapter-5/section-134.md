@@ -3,9 +3,9 @@ title: "Section 134 - Tenure and residence of district judges"
 usc_title: 28
 usc_section: "134"
 chapter: 5
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 134"
-generated_at: "2026-03-30T08:59:09.356Z"
+generated_at: "2026-03-30T09:02:38.926Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 360ll - Notification of defects in and repair or replacement of 
 usc_title: 21
 usc_section: "360ll"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 360ll"
-generated_at: "2026-03-30T08:59:06.261Z"
+generated_at: "2026-03-30T09:02:29.303Z"
 status: "active"
 ---
 

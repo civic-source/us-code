@@ -3,9 +3,9 @@ title: "Section 8444 - Rights of a named individual with an insurable interest"
 usc_title: 5
 usc_section: "8444"
 chapter: 84
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "5 U.S.C. § 8444"
-generated_at: "2026-03-30T08:58:09.239Z"
+generated_at: "2026-03-30T09:01:05.504Z"
 status: "active"
 ---
 

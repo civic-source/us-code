@@ -3,9 +3,9 @@ title: "Section 2051 - Retirement for disability or incapacity; medical examinat
 usc_title: 50
 usc_section: "2051"
 chapter: 38
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "50 U.S.C. § 2051"
-generated_at: "2026-03-30T08:59:52.822Z"
+generated_at: "2026-03-30T09:03:23.638Z"
 status: "active"
 ---
 

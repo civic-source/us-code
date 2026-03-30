@@ -3,9 +3,9 @@ title: "Section 2 - Oversight of NSF major multi-user research facility projects
 usc_title: 42
 usc_section: "2"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T08:59:46.924Z"
+generated_at: "2026-03-30T09:03:18.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1234 - Office of Administrative Law Judges"
 usc_title: 20
 usc_section: "1234"
 chapter: 31
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 1234"
-generated_at: "2026-03-30T08:58:44.663Z"
+generated_at: "2026-03-30T09:02:17.931Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2411 - Inter-departmental Memorandum of Agreement"
 usc_title: 25
 usc_section: "2411"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "25 U.S.C. § 2411"
-generated_at: "2026-03-30T08:59:00.924Z"
+generated_at: "2026-03-30T09:02:21.531Z"
 status: "active"
 ---
 

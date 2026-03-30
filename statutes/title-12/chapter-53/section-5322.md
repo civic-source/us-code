@@ -3,9 +3,9 @@ title: "Section 5322 - Council authority"
 usc_title: 12
 usc_section: "5322"
 chapter: 53
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 5322"
-generated_at: "2026-03-30T08:58:34.914Z"
+generated_at: "2026-03-30T09:02:08.250Z"
 status: "active"
 ---
 

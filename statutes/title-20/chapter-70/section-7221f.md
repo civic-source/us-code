@@ -3,9 +3,9 @@ title: "Section 7221f - Solicitation of input from charter school operators"
 usc_title: 20
 usc_section: "7221f"
 chapter: 70
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 7221f"
-generated_at: "2026-03-30T08:58:44.711Z"
+generated_at: "2026-03-30T09:02:17.978Z"
 status: "active"
 ---
 

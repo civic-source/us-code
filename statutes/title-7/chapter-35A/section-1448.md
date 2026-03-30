@@ -3,9 +3,9 @@ title: "Section 1448 - Price support levels for storable nonbasic agricultural c
 usc_title: 7
 usc_section: "1448"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 1448"
-generated_at: "2026-03-30T08:58:19.801Z"
+generated_at: "2026-03-30T09:01:37.497Z"
 status: "active"
 ---
 

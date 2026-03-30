@@ -3,9 +3,9 @@ title: "Section 8471 - Midshipmen’s store, trade shops, dairy, and laundry: no
 usc_title: 10
 usc_section: "8471"
 chapter: 853
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 8471"
-generated_at: "2026-03-30T08:58:17.512Z"
+generated_at: "2026-03-30T09:01:22.020Z"
 status: "active"
 ---
 

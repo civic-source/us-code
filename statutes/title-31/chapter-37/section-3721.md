@@ -3,9 +3,9 @@ title: "Section 3721 - Claims of personnel of agencies and the District of Colum
 usc_title: 31
 usc_section: "3721"
 chapter: 37
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "31 U.S.C. § 3721"
-generated_at: "2026-03-30T08:59:22.401Z"
+generated_at: "2026-03-30T09:02:48.777Z"
 status: "active"
 ---
 

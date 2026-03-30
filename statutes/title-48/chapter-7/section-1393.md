@@ -3,9 +3,9 @@ title: "Section 1393 - Repealed. Pub. L. 97–357, title III, § 308(a) , Oct. 1
 usc_title: 48
 usc_section: "1393"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "48 U.S.C. § 1393"
-generated_at: "2026-03-30T08:59:51.283Z"
+generated_at: "2026-03-30T09:03:27.914Z"
 status: "repealed"
 ---
 

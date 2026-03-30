@@ -3,9 +3,9 @@ title: "Section 340 - Repealed. Apr. 19, 1946, ch. 142 , 60 Stat. 96"
 usc_title: 50
 usc_section: "340"
 chapter: 14
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "50 U.S.C. § 340"
-generated_at: "2026-03-30T08:59:52.808Z"
+generated_at: "2026-03-30T09:03:23.623Z"
 status: "repealed"
 ---
 

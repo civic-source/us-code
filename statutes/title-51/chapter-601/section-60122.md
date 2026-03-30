@@ -3,9 +3,9 @@ title: "Section 60122 - Conditions for operation"
 usc_title: 51
 usc_section: "60122"
 chapter: 601
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "51 U.S.C. § 60122"
-generated_at: "2026-03-30T09:00:04.261Z"
+generated_at: "2026-03-30T09:03:33.396Z"
 status: "active"
 ---
 

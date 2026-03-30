@@ -3,9 +3,9 @@ title: "Section 565 - Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 2
 usc_title: 29
 usc_section: "565"
 chapter: 12
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "29 U.S.C. § 565"
-generated_at: "2026-03-30T08:59:17.610Z"
+generated_at: "2026-03-30T09:02:40.332Z"
 status: "repealed"
 ---
 

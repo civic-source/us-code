@@ -3,9 +3,9 @@ title: "Section 3058g - State Long-Term Care Ombudsman program"
 usc_title: 42
 usc_section: "3058g"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 3058g"
-generated_at: "2026-03-30T08:59:46.971Z"
+generated_at: "2026-03-30T09:03:18.739Z"
 status: "active"
 ---
 
@@ -65,6 +65,7 @@ status: "active"
       - **(i)** The State agency shall establish, in accordance with the Office, policies and procedures for monitoring local Ombudsman entities designated to carry out the duties of the Office.
       - **(ii)** In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
       - **(iii)** The State agency shall develop the policies and procedures in accordance with all provisions of this part regarding confidentiality and conflict of interest.
+    - **(E)** Nothing in this paragraph shall be construed as prohibiting the program from providing and financially supporting recognition for an individual designated under subparagraph (A) as a volunteer to represent the Ombudsman program, or from reimbursing or otherwise providing financial support to such an individual for any costs, such as transportation costs, incurred by the individual in serving as such volunteer.
 - **(b)**
   - **(1)** The State shall ensure that representatives of the Office shall have—
     - **(A)** private and unimpeded access to long-term care facilities and residents;

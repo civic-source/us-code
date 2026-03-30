@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-30T08:59:46.747Z"
+generated_at: "2026-03-30T09:03:18.509Z"
 status: "active"
 ---
 
@@ -55,17 +55,21 @@ status: "active"
       - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000; and
       - **(ii)** for each of fiscal years 2020 through 2021, the amount specified in paragraph (6) for each such fiscal year;
     - **(B)** the Virgin Islands shall not exceed—
-      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
-      - **(ii)** for each of fiscal years 2020 through 2021, $126,000,000;
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
+      - **(ii)** for fiscal year 2020, $128,712,500; and
+      - **(iii)** for fiscal year 2021, $127,937,500;
     - **(C)** Guam shall not exceed—
-      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
-      - **(ii)** for each of fiscal years 2020 through 2021, $127,000,000;
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
+      - **(ii)** for fiscal year 2020, $130,875,000; and
+      - **(iii)** for fiscal year 2021, $129,712,500;
     - **(D)** the Northern Mariana Islands shall not exceed—
-      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
-      - **(ii)** for each of fiscal years 2020 through 2021, $60,000,000; and
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
+      - **(ii)** for fiscal year 2020, $63,100,000; and
+      - **(iii)** for fiscal year 2021, $62,325,000; and
     - **(E)** American Samoa shall not exceed—
-      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
-      - **(ii)** for each of fiscal years 2020 through 2021, $84,000,000.
+      - **(i)** except as provided in clause (ii), the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
+      - **(ii)** for fiscal year 2020, $86,325,000; and
+      - **(iii)** for fiscal year 2021, $85,550,000.
   - **(3)** The amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa for fiscal year 2006 and fiscal year 2007 shall be increased by the following amounts:
     - **(A)** For Puerto Rico, $12,000,000 for fiscal year 2006 and $12,000,000 for fiscal year 2007.
     - **(B)** For the Virgin Islands, $2,500,000 for fiscal year 2006 and $5,000,000 for fiscal year 2007.
@@ -91,8 +95,8 @@ status: "active"
     - **(G)** Not later than September 30, 2019 , Guam and American Samoa shall each submit a plan to the Secretary outlining the steps each such territory shall take to collect and report reliable data to the Transformed Medicaid Statistical Information System (T–MSIS) (or a successor system).
   - **(6)**
     - **(A)** Subject to subparagraph (B), the amount specified in this paragraph is—
-      - **(i)** for fiscal year 2020, $2,623,188,000; and
-      - **(ii)** for fiscal year 2021, $2,719,072,000.
+      - **(i)** for fiscal year 2020, $2,716,188,000; and
+      - **(ii)** for fiscal year 2021, $2,809,063,000.
     - **(B)**
       - **(i)** For each of fiscal years 2020 through 2021, the amount specified in this paragraph for the fiscal year shall be equal to the amount specified for such fiscal year under subparagraph (A) increased by $200,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico’s State plan under subchapter XIX (or a waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 70 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
       - **(ii)** In certifying whether Puerto Rico has established a reimbursement floor under a directed payment arrangement plan that satisfies the requirements of clause (i)—

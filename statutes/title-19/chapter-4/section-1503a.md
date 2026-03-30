@@ -3,9 +3,9 @@ title: "Section 1503a - Repealed. Aug. 8, 1953, ch. 397, § 18(e) , 67 Stat. 518
 usc_title: 19
 usc_section: "1503a"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "19 U.S.C. § 1503a"
-generated_at: "2026-03-30T08:58:57.575Z"
+generated_at: "2026-03-30T09:02:13.743Z"
 status: "repealed"
 ---
 

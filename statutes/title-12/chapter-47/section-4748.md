@@ -3,9 +3,9 @@ title: "Section 4748 - Reimbursement to Fund"
 usc_title: 12
 usc_section: "4748"
 chapter: 47
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 4748"
-generated_at: "2026-03-30T08:58:34.907Z"
+generated_at: "2026-03-30T09:02:08.242Z"
 status: "active"
 ---
 

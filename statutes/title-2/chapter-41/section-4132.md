@@ -3,9 +3,9 @@ title: "Section 4132 - Senate Recording Studio and Senate Photographic Studio as
 usc_title: 2
 usc_section: "4132"
 chapter: 41
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "2 U.S.C. § 4132"
-generated_at: "2026-03-30T08:58:09.945Z"
+generated_at: "2026-03-30T09:00:22.879Z"
 status: "active"
 ---
 

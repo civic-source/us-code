@@ -3,9 +3,9 @@ title: "Section 757 - Prisoners of war or enemy aliens"
 usc_title: 18
 usc_section: "757"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "18 U.S.C. § 757"
-generated_at: "2026-03-30T08:58:42.670Z"
+generated_at: "2026-03-30T09:02:11.805Z"
 status: "active"
 ---
 

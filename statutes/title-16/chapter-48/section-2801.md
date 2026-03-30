@@ -3,9 +3,9 @@ title: "Section 2801 - Congressional findings, purpose, and policy"
 usc_title: 16
 usc_section: "2801"
 chapter: 48
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 2801"
-generated_at: "2026-03-30T08:58:41.739Z"
+generated_at: "2026-03-30T09:02:16.271Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17200 - Reports"
 usc_title: 42
 usc_section: "17200"
 chapter: 152
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 17200"
-generated_at: "2026-03-30T08:59:47.235Z"
+generated_at: "2026-03-30T09:03:18.997Z"
 status: "active"
 ---
 

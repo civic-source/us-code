@@ -3,9 +3,9 @@ title: "Section 963 - Repealed. Pub. L. 94–12, title VI, § 602(a)(1) , Mar. 2
 usc_title: 26
 usc_section: "963"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 963"
-generated_at: "2026-03-30T08:59:14.410Z"
+generated_at: "2026-03-30T09:02:45.360Z"
 status: "repealed"
 ---
 

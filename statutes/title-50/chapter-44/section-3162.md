@@ -3,9 +3,9 @@ title: "Section 3162 - Requests by authorized investigative agencies"
 usc_title: 50
 usc_section: "3162"
 chapter: 44
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "50 U.S.C. § 3162"
-generated_at: "2026-03-30T08:59:52.843Z"
+generated_at: "2026-03-30T09:03:23.660Z"
 status: "active"
 ---
 

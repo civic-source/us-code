@@ -3,9 +3,9 @@ title: "Section 1395rr - End stage renal disease program"
 usc_title: 42
 usc_section: "1395rr"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 1395rr"
-generated_at: "2026-03-30T08:59:46.828Z"
+generated_at: "2026-03-30T09:03:18.591Z"
 status: "active"
 ---
 
@@ -24,10 +24,11 @@ status: "active"
       - **(i)** on a reasonable charge basis (but may, in such case, make payment on the basis of the prevailing charges of other physicians for comparable services or, for services furnished on or after January 1, 1992 , on the basis described in section 1395w–4 of this title ) except that payment may not be made under this subparagraph for routine services furnished during a maintenance dialysis episode, or
       - **(ii)** subject to subparagraph (B), on a comprehensive monthly fee or other basis (which effectively encourages the efficient delivery of dialysis services and provides incentives for the increased use of home dialysis) for an aggregate of services provided over a period of time (as defined in regulations).
     - **(B)**
-      - **(i)** For purposes of subparagraph (A)(ii), subject to clause (ii), an individual determined to have end stage renal disease receiving home dialysis may choose to receive monthly end stage renal disease-related clinical assessments furnished on or after January 1, 2019 , via telehealth.
-      - **(ii)** Clause (i) shall apply to an individual only if the individual receives a face-to-face clinical assessment, without the use of telehealth—
+      - **(i)** For purposes of subparagraph (A)(ii), subject to clauses (ii) and (iii), an individual determined to have end stage renal disease receiving home dialysis may choose to receive monthly end stage renal disease-related clinical assessments furnished on or after January 1, 2019 , via telehealth.
+      - **(ii)** Except as provided in clause (iii), clause (i) shall apply to an individual only if the individual receives a face-to-face clinical assessment, without the use of telehealth—
         - **(I)** in the case of the initial 3 months of home dialysis of such individual, at least monthly; and
         - **(II)** after such initial 3 months, at least once every 3 consecutive months.
+      - **(iii)** The Secretary may waive the provisions of clause (ii) during the emergency period described in section 1320b–5(g)(1)(B) of this title .
   - **(4)**
     - **(A)** Pursuant to agreements with approved providers of services and renal dialysis facilities, the Secretary may make payments to such providers and facilities for the cost of home dialysis supplies and equipment and self-care home dialysis support services furnished to patients whose self-care home dialysis is under the direct supervision of such provider or facility, on the basis of a target reimbursement rate (as defined in paragraph (6)) or on the basis of a method established under paragraph (7).
     - **(B)** The Secretary shall make payments to a supplier of home dialysis supplies and equipment furnished to a patient whose self-care home dialysis is not under the direct supervision of an approved provider of services or renal dialysis facility only in accordance with a written agreement under which—

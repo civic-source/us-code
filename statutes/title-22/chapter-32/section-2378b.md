@@ -3,9 +3,9 @@ title: "Section 2378b - Limitation on assistance to the Palestinian Authority"
 usc_title: 22
 usc_section: "2378b"
 chapter: 32
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 2378b"
-generated_at: "2026-03-30T08:59:03.830Z"
+generated_at: "2026-03-30T09:02:24.338Z"
 status: "active"
 ---
 

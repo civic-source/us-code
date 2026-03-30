@@ -3,9 +3,9 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T08:59:46.876Z"
+generated_at: "2026-03-30T09:03:18.640Z"
 status: "active"
 ---
 
@@ -60,6 +60,7 @@ status: "active"
     - **(B)** To the extent that a State child health plan includes coverage with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title ) and provided in accordance with section 1396a(a)(43) of this title , such plan shall be deemed to satisfy the requirements of subparagraph (A).
   - **(8)** Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
   - **(9)** Nothing in this subchapter shall be construed as limiting a State’s ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title ).
+  - **(10)** The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 1 1 See References in Text note below. (and the administration of such product).
 - **(d)**
   - **(1)** A program described in this paragraph is a child health coverage program that—
     - **(A)** includes coverage of a range of benefits;
@@ -73,7 +74,7 @@ status: "active"
   - **(1)**
     - **(A)** A State child health plan shall include a description, consistent with this subsection, of the amount (if any) of premiums, deductibles, coinsurance, and other cost sharing imposed. Any such charges shall be imposed pursuant to a public schedule.
     - **(B)** The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
-  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
+  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396 o (a)(2)(G) of this title, or for pregnancy-related assistance.
   - **(3)**
     - **(A)** In the case of a targeted low-income child whose family income is at or below 150 percent of the poverty line, the State child health plan may not impose—
       - **(i)** an enrollment fee, premium, or similar charge that exceeds the maximum monthly charge permitted consistent with standards established to carry out section 1396 o (b)(1) of this title (with respect to individuals described in such section); and

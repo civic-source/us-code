@@ -3,22 +3,30 @@ title: "Section 172 - Net operating loss deduction"
 usc_title: 26
 usc_section: "172"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 172"
-generated_at: "2026-03-30T08:59:14.327Z"
+generated_at: "2026-03-30T09:02:45.278Z"
 status: "active"
 ---
 
 # § 172. Net operating loss deduction
 
-- **(a)** There shall be allowed as a deduction for the taxable year an amount equal to the lesser of—
-  - **(1)** the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, or
-  - **(2)** 80 percent of taxable income computed without regard to the deduction allowable under this section.
+- **(a)** There shall be allowed as a deduction for the taxable year an amount equal to—
+  - **(1)** in the case of a taxable year beginning before January 1, 2021 , the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, and
+  - **(2)** in the case of a taxable year beginning after December 31, 2020 , the sum of—
+    - **(A)** the aggregate amount of net operating losses arising in taxable years beginning before January 1, 2018 , carried to such taxable year, plus
+    - **(B)** the lesser of—
+      - **(i)** the aggregate amount of net operating losses arising in taxable years beginning after December 31, 2017 , carried to such taxable year, or
+      - **(ii)** 80 percent of the excess (if any) of—
+        - **(I)** taxable income computed without regard to the deductions under this section and sections 199A and 250, over
+        - **(II)** the amount determined under subparagraph (A).
 - **(b)**
   - **(1)**
-    - **(A)** Except as otherwise provided in this paragraph, a net operating loss for any taxable year—
-      - **(i)** except as otherwise provided in this paragraph, shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss, and
-      - **(ii)** shall be a net operating loss carryover to each taxable year following the taxable year of the loss.
+    - **(A)** A net operating loss for any taxable year—
+      - **(i)** shall be a net operating loss carryback to the extent provided in subparagraphs (B), (C)(i), and (D), and
+      - **(ii)** except as provided in subparagraph (C)(ii), shall be a net operating loss carryover—
+        - **(I)** in the case of a net operating loss arising in a taxable year beginning before January 1, 2018 , to each of the 20 taxable years following the taxable year of the loss, and
+        - **(II)** in the case of a net operating loss arising in a taxable year beginning after December 31, 2017 , to each taxable year following the taxable year of the loss.
     - **(B)**
       - **(i)** In the case of any portion of a net operating loss for the taxable year which is a farming loss with respect to the taxpayer, such loss shall be a net operating loss carryback to each of the 2 taxable years preceding the taxable year of such loss.
       - **(ii)** For purposes of this section, the term “farming loss” means the lesser of—
@@ -29,10 +37,23 @@ status: "active"
     - **(C)** In the case of an insurance company (as defined in section 816(a)) other than a life insurance company, the net operating loss for any taxable year—
       - **(i)** shall be a net operating loss carryback to each of the 2 taxable years preceding the taxable year of such loss, and
       - **(ii)** shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
+    - **(D)**
+      - **(i)** In the case of any net operating loss arising in a taxable year beginning after December 31, 2017 , and before January 1, 2021 —
+        - **(I)** such loss shall be a net operating loss carryback to each of the 5 taxable years preceding the taxable year of such loss, and
+        - **(II)** subparagraphs (B) and (C)(i) shall not apply.
+      - **(ii)** For purposes of this subparagraph—
+        - **(I)** A net operating loss for a REIT year shall not be a net operating loss carryback to any taxable year preceding the taxable year of such loss.
+        - **(II)** In the case of any net operating loss for a taxable year which is not a REIT year, such loss shall not be carried to any preceding taxable year which is a REIT year.
+        - **(III)** For purposes of this subparagraph, the term “REIT year” means any taxable year for which the provisions of part II of subchapter M (relating to real estate investment trusts) apply to the taxpayer.
+      - **(iii)** In the case of a life insurance company, if a net operating loss is carried pursuant to clause (i)(I) to a life insurance company taxable year beginning before January 1, 2018 , such net operating loss carryback shall be treated in the same manner as an operations loss carryback (within the meaning of section 810 as in effect before its repeal) of such company to such taxable year.
+      - **(iv)** If a net operating loss of a taxpayer is carried pursuant to clause (i)(I) to any taxable year in which an amount is includible in gross income by reason of section 965(a), the taxpayer shall be treated as having made the election under section 965(n) with respect to each such taxable year.
+      - **(v)**
+        - **(I)** If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available under paragraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
+        - **(II)** An election under paragraph (3) (including an election described in subclause (I)) with respect to a net operating loss arising in a taxable year beginning in 2018 or 2019 shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the first taxable year ending after the date of the enactment of this subparagraph.
   - **(2)** The entire amount of the net operating loss for any taxable year (hereinafter in this section referred to as the “loss year”) shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried. For purposes of the preceding sentence, the taxable income for any such prior taxable year shall—
     - **(A)** be computed with the modifications specified in subsection (d) other than paragraphs (1), (4), and (5) thereof, and by determining the amount of the net operating loss deduction without regard to the net operating loss for the loss year or for any taxable year thereafter,
     - **(B)** not be considered to be less than zero, and
-    - **(C)** not exceed the amount determined under subsection (a)(2) for such prior taxable year.
+    - **(C)** for taxable years beginning after December 31, 2020 , be reduced by 20 percent of the excess (if any) described in subsection (a)(2)(B)(ii) for such taxable year.
   - **(3)** Any taxpayer entitled to a carryback period under paragraph (1) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year. Such election shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
 - **(c)** For purposes of this section, the term “net operating loss” means the excess of the deductions allowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).
 - **(d)** The modifications referred to in this section are as follows:
@@ -52,7 +73,7 @@ status: "active"
   - **(6)** In the case of any taxable year for which part II of subchapter M (relating to real estate investment trusts) applies to the taxpayer—
     - **(A)** the net operating loss for such taxable year shall be computed by taking into account the adjustments described in section 857(b)(2) (other than the deduction for dividends paid described in section 857(b)(2)(B));
     - **(B)** where such taxable year is a “prior taxable year” referred to in paragraph (2) of subsection (b), the term “taxable income” in such paragraph shall mean “real estate investment trust taxable income” (as defined in section 857(b)(2)); and
-    - **(C)** subsection (a)(2) shall be applied by substituting “real estate investment trust taxable income (as defined in section 857(b)(2) but without regard to the deduction for dividends paid (as defined in section 561))” for “taxable income”.
+    - **(C)** subsection (a)(2)(B)(ii)(I) shall be applied by substituting “real estate investment trust taxable income (as defined in section 857(b)(2) but without regard to the deduction for dividends paid (as defined in section 561))” for “taxable income”.
   - **[(7)**
   - **(8)** Any deduction under section 199A shall not be allowed.
   - **(9)** The deduction under section 250 shall not be allowed.

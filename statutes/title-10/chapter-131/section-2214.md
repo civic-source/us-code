@@ -3,9 +3,9 @@ title: "Section 2214 - Transfer of funds: procedure and limitations"
 usc_title: 10
 usc_section: "2214"
 chapter: 131
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2214"
-generated_at: "2026-03-30T08:58:17.459Z"
+generated_at: "2026-03-30T09:01:21.965Z"
 status: "active"
 ---
 

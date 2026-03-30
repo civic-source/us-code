@@ -3,9 +3,9 @@ title: "Section 20132 - Security requirements"
 usc_title: 51
 usc_section: "20132"
 chapter: 201
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "51 U.S.C. § 20132"
-generated_at: "2026-03-30T09:00:04.253Z"
+generated_at: "2026-03-30T09:03:33.389Z"
 status: "active"
 ---
 

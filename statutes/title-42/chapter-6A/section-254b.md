@@ -3,9 +3,9 @@ title: "Section 254b - Health centers"
 usc_title: 42
 usc_section: "254b"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 254b"
-generated_at: "2026-03-30T08:59:46.583Z"
+generated_at: "2026-03-30T09:03:18.349Z"
 status: "active"
 ---
 
@@ -269,3 +269,4 @@ status: "active"
       - **(i)** nondiscrimination based on the ability of a patient to pay; and
       - **(ii)** the establishment of a sliding fee scale for low-income patients.
   - **(5)** In addition to any amounts made available pursuant to paragraph (1) of this subsection, section 282a of this title , or section 254b–2 of this title , there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, to the Secretary $25,000,000 for fiscal year 2018 to support the participation of health centers in the All of Us Research Program under the Precision Medicine Initiative under section 289g–5 of this title .
+  - **(6)** In addition to any amounts made available pursuant to this subsection, section 282a of this title , or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.

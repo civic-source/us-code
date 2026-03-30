@@ -3,9 +3,9 @@ title: "Section 1026 - Reports made public information"
 usc_title: 29
 usc_section: "1026"
 chapter: 18
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "29 U.S.C. § 1026"
-generated_at: "2026-03-30T08:59:17.629Z"
+generated_at: "2026-03-30T09:02:40.349Z"
 status: "active"
 ---
 

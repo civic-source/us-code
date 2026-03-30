@@ -3,9 +3,9 @@ title: "Section 60534 - Bureau of Prisons policy on chapel library materials"
 usc_title: 34
 usc_section: "60534"
 chapter: 605
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "34 U.S.C. § 60534"
-generated_at: "2026-03-30T08:59:24.395Z"
+generated_at: "2026-03-30T09:02:48.146Z"
 status: "active"
 ---
 

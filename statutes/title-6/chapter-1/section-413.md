@@ -3,9 +3,9 @@ title: "Section 413 - Use of counternarcotics enforcement activities in certain 
 usc_title: 6
 usc_section: "413"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "6 U.S.C. § 413"
-generated_at: "2026-03-30T08:58:12.304Z"
+generated_at: "2026-03-30T09:01:10.353Z"
 status: "active"
 ---
 

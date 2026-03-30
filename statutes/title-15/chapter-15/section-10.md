@@ -3,9 +3,9 @@ title: "Section 10 - Omitted"
 usc_title: 15
 usc_section: "10"
 chapter: 15
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-30T08:58:33.036Z"
+generated_at: "2026-03-30T09:02:00.960Z"
 status: "omitted"
 ---
 

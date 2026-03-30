@@ -3,9 +3,9 @@ title: "Section 2082 - Prior service credit"
 usc_title: 50
 usc_section: "2082"
 chapter: 38
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "50 U.S.C. § 2082"
-generated_at: "2026-03-30T08:59:52.823Z"
+generated_at: "2026-03-30T09:03:23.638Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** A participant may, subject to the provisions of this section, include in the participant’s period of service—
   - **(1)** civilian service in the Government before becoming a participant that would be creditable toward retirement under subchapter III of chapter 83 of title 5 (as determined under section 8332(b) of such title); and
-  - **(2)** honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps of the Public Health Service after June 30, 1960 , or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961 .
+  - **(2)** honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service after June 30, 1960 , or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961 .
 - **(b)**
   - **(1)** Except as provided in paragraphs (2) and (3), the total service of any participant shall exclude—
     - **(A)** any period of civilian service on or after October 1, 1982 , for which retirement deductions or deposits have not been made,
@@ -43,7 +43,7 @@ status: "active"
     - **(A)** on account of a service-connected disability—
       - **(i)** incurred in combat with an enemy of the United States; or
       - **(ii)** caused by an instrumentality of war and incurred in the line of duty during a period of war (as defined in section 1101 of title 38 ); or
-    - **(B)** under chapter 67 1 1 See References in Text note below. of title 10.
+    - **(B)** under chapter 67 2 2 See References in Text note below. of title 10.
   - **(4)** Notwithstanding paragraph (3), the survivor annuity of a survivor of a participant—
     - **(A)** who was awarded retired pay based on any period of military service, and
     - **(B)** whose death occurs before separation from the Agency,

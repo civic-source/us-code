@@ -3,9 +3,9 @@ title: "Section 3201 - Congressional declaration of policy"
 usc_title: 22
 usc_section: "3201"
 chapter: 47
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 3201"
-generated_at: "2026-03-30T08:59:03.854Z"
+generated_at: "2026-03-30T09:02:24.362Z"
 status: "active"
 ---
 

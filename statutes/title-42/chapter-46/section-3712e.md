@@ -3,9 +3,9 @@ title: "Section 3712e - Transferred"
 usc_title: 42
 usc_section: "3712e"
 chapter: 46
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 3712e"
-generated_at: "2026-03-30T08:59:46.982Z"
+generated_at: "2026-03-30T09:03:18.748Z"
 status: "transferred"
 ---
 

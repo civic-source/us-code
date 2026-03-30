@@ -3,9 +3,9 @@ title: "Section 12212 - Prohibition"
 usc_title: 34
 usc_section: "12212"
 chapter: 121
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "34 U.S.C. § 12212"
-generated_at: "2026-03-30T08:59:24.366Z"
+generated_at: "2026-03-30T09:02:48.118Z"
 status: "active"
 ---
 

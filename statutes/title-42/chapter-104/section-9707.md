@@ -3,9 +3,9 @@ title: "Section 9707 - Comprehensive program management plan"
 usc_title: 42
 usc_section: "9707"
 chapter: 104
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 9707"
-generated_at: "2026-03-30T08:59:47.129Z"
+generated_at: "2026-03-30T09:03:18.893Z"
 status: "active"
 ---
 

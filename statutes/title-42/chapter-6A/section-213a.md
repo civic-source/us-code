@@ -3,9 +3,9 @@ title: "Section 213a - Rights, benefits, privileges, and immunities for commissi
 usc_title: 42
 usc_section: "213a"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 213a"
-generated_at: "2026-03-30T08:59:46.563Z"
+generated_at: "2026-03-30T09:03:18.331Z"
 status: "active"
 ---
 
@@ -30,4 +30,10 @@ status: "active"
   - **(16)** Section 1052, Reimbursement for adoption expenses.
   - **(17)** Section 1059, Transitional compensation and commissary and exchange benefits for dependents of members separated for dependent abuse.
   - **(18)** Section 1034, Protected Communications; Prohibition of Retaliatory Personnel Actions.
-- **(b)** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+  - **(19)** Chapter 1223, Retired Pay for Non-Regular Service.
+  - **(20)** Section 12601, Compensation: Reserve on active duty accepting from any person.
+  - **(21)** Section 12684, Reserves: separation for absence without authority or sentence to imprisonment.
+- **(b)**
+  - **(1)** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or the designee of such Secretary.
+  - **(2)** For purposes of paragraph (18) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+  - **(3)** For purposes of paragraph (19) of subsection (a), the terms “Military department”, “Secretary concerned”, and “Armed forces” in such title 10 shall be deemed to include, respectively, the Department of Health and Human Services, the Secretary of Health and Human Services, and the Commissioned Corps.

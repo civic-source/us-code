@@ -3,9 +3,9 @@ title: "Section 1881c - Other acquisitions targeting United States persons outsi
 usc_title: 50
 usc_section: "1881c"
 chapter: 36
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "50 U.S.C. § 1881c"
-generated_at: "2026-03-30T08:59:52.819Z"
+generated_at: "2026-03-30T09:03:23.633Z"
 status: "active"
 ---
 

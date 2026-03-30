@@ -3,9 +3,9 @@ title: "Section 837a - Limitation of sale, delivery, and exchange of electric en
 usc_title: 16
 usc_section: "837a"
 chapter: 12
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 837a"
-generated_at: "2026-03-30T08:58:41.686Z"
+generated_at: "2026-03-30T09:02:16.217Z"
 status: "active"
 ---
 

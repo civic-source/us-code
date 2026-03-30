@@ -1,0 +1,29 @@
+---
+title: "Section 9051 - Temporary relief from troubled debt restructurings"
+usc_title: 15
+usc_section: "9051"
+chapter: 116
+current_through: "PL 116-139"
+classification: "15 U.S.C. § 9051"
+generated_at: "2026-03-30T09:02:01.061Z"
+status: "active"
+---
+
+# § 9051. Temporary relief from troubled debt restructurings
+
+- **(a)** In this section:
+  - **(1)** The term “applicable period” means the period beginning on March 1, 2020 and ending on the earlier of December 31, 2020 , or the date that is 60 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) terminates.
+  - **(2)** The term “appropriate Federal banking agency”—
+    - **(A)** has the meaning given the term in section 1813 of title 12 ; and
+    - **(B)** includes the National Credit Union Administration.
+- **(b)**
+  - **(1)** During the applicable period, a financial institution may elect to—
+    - **(A)** suspend the requirements under United States generally accepted accounting principles for loan modifications related to the coronavirus disease 2019 (COVID–19) pandemic that would otherwise be categorized as a troubled debt restructuring; and
+    - **(B)** suspend any determination of a loan modified as a result of the effects of the coronavirus disease 2019 (COVID–19) pandemic as being a troubled debt restructuring, including impairment for accounting purposes.
+  - **(2)** Any suspension under paragraph (1)—
+    - **(A)** shall be applicable for the term of the loan modification, but solely with respect to any modification, including a forbearance arrangement, an interest rate modification, a repayment plan, and any other similar arrangement that defers or delays the payment of principal or interest, that occurs during the applicable period for a loan that was not more than 30 days past due as of December 31, 2019 ; and
+    - **(B)** shall not apply to any adverse impact on the credit of a borrower that is not related to the coronavirus disease 2019 (COVID–19) pandemic.
+- **(c)** The appropriate Federal banking agency of the financial institution shall defer to the determination of the financial institution to make a suspension under this section.
+- **(d)** For modified loans for which suspensions under subsection (a) apply—
+  - **(1)** financial institutions should continue to maintain records of the volume of loans involved; and
+  - **(2)** the appropriate Federal banking agencies may collect data about such loans for supervisory purposes.

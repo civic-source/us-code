@@ -3,9 +3,9 @@ title: "Section 393 - Amendments of complaint and adjournments"
 usc_title: 33
 usc_section: "393"
 chapter: 8
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 393"
-generated_at: "2026-03-30T08:59:20.753Z"
+generated_at: "2026-03-30T09:02:53.348Z"
 status: "active"
 ---
 

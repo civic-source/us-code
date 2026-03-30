@@ -3,9 +3,9 @@ title: "Section 1489 - Application of treaties; exceptions"
 usc_title: 8
 usc_section: "1489"
 chapter: 12
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "8 U.S.C. § 1489"
-generated_at: "2026-03-30T08:58:27.368Z"
+generated_at: "2026-03-30T09:01:09.272Z"
 status: "active"
 ---
 

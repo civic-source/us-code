@@ -3,9 +3,9 @@ title: "Section 1408 - Resources exemption"
 usc_title: 25
 usc_section: "1408"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "25 U.S.C. § 1408"
-generated_at: "2026-03-30T08:59:00.902Z"
+generated_at: "2026-03-30T09:02:21.509Z"
 status: "active"
 ---
 

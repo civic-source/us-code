@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 37
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "37 U.S.C. § 101"
-generated_at: "2026-03-30T08:59:26.788Z"
+generated_at: "2026-03-30T09:02:55.576Z"
 status: "active"
 ---
 
@@ -62,6 +62,6 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
     - **(E)** the Air National Guard of the United States;
     - **(F)** the Air Force Reserve;
     - **(G)** the Coast Guard Reserve; or
-    - **(H)** the Reserve Corps of the Public Health Service.
+    - **(H)** the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
   - **(25)** The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
   - **(26)** The term “contingency operation” has the meaning given that term in section 101 of title 10 .

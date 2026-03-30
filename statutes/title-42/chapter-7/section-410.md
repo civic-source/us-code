@@ -3,9 +3,9 @@ title: "Section 410 - Definitions relating to employment"
 usc_title: 42
 usc_section: "410"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 410"
-generated_at: "2026-03-30T08:59:46.712Z"
+generated_at: "2026-03-30T09:03:18.474Z"
 status: "active"
 ---
 
@@ -156,7 +156,7 @@ For the purposes of this subchapter—
   - **(4)**
     - **(A)** Paragraph (1) of this subsection shall not apply in the case of any service, performed by an individual as a member of a uniformed service, which is creditable under section 231b(i) of title 45 . The Railroad Retirement Board shall notify the Commissioner of Social Security, 3 3 So in original. The comma probably should not appear. with respect to all such service which is so creditable.
     - **(B)** In any case where benefits under this subchapter are already payable on the basis of such individual’s wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual’s wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) of this paragraph. No payment of a benefit to any person on the basis of such individual’s wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
-- **(m)** The term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38 ), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
+- **(m)** The term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38 ), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps 4 4 See Change of Name note below. of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
   - **(1)** a retired member of any of those services;
   - **(2)** a member of the Fleet Reserve or Fleet Marine Corps Reserve;
   - **(3)** a cadet at the United States Military Academy, a midshipman at the United States Naval Academy, and a cadet at the United States Coast Guard Academy or United States Air Force Academy;

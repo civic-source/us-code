@@ -3,9 +3,9 @@ title: "Section 2537 - Improved national defense control of technology diversion
 usc_title: 10
 usc_section: "2537"
 chapter: 148
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2537"
-generated_at: "2026-03-30T08:58:17.483Z"
+generated_at: "2026-03-30T09:01:21.990Z"
 status: "active"
 ---
 

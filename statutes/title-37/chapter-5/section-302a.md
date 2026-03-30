@@ -3,9 +3,9 @@ title: "Section 302a - Special pay: optometrists"
 usc_title: 37
 usc_section: "302a"
 chapter: 5
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "37 U.S.C. § 302a"
-generated_at: "2026-03-30T08:59:26.790Z"
+generated_at: "2026-03-30T09:02:55.578Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** who is an optometry officer of the Regular Corps of the Public Health Service.
   - **(2)** A commissioned officer—
     - **(A)** of a Reserve component of the Army, Navy, or Air Force who is designated as an optometry officer; or
-    - **(B)** who is an optometry officer of the Reserve Corps of the Public Health Service,
+    - **(B)** who is an optometry officer of the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service,
   - **(3)** A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
 - **(b)**
   - **(1)** Under regulations prescribed under section 303a(a) of this title , the Secretary concerned may pay an officer described in paragraph (2) a retention special pay of not more than $15,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.

@@ -3,9 +3,9 @@ title: "Section 1395g - Payments to providers of services"
 usc_title: 42
 usc_section: "1395g"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 1395g"
-generated_at: "2026-03-30T08:59:46.772Z"
+generated_at: "2026-03-30T09:03:18.534Z"
 status: "active"
 ---
 
@@ -31,7 +31,25 @@ status: "active"
     - **(C)** extended care services;
     - **(D)** hospice care; and
     - **(E)** inpatient critical access hospital services;
-  - **(3)** In the case of a subsection (d) hospital or a subsection (d) Puerto Rico hospital (as defined for purposes of section 1395ww of this title ) which has significant cash flow problems resulting from operations of its intermediary or from unusual circumstances of the hospital’s operation, the Secretary may make available appropriate accelerated payments.
+  - **(3)** Subject to subsection (f), in the case of a subsection (d) hospital or a subsection (d) Puerto Rico hospital (as defined for purposes of section 1395ww of this title ) which has significant cash flow problems resulting from operations of its intermediary or from unusual circumstances of the hospital’s operation, the Secretary may make available appropriate accelerated payments.
   - **(4)** A hospital created by the merger or consolidation of 2 or more hospitals or hospital campuses shall be eligible to receive periodic interim payment on the basis described in paragraph (1)(B) if—
     - **(A)** at least one of the hospitals or campuses received periodic interim payment on such basis prior to the merger or consolidation; and
     - **(B)** the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
+- **(f)**
+  - **(1)** During the emergency period described in section 1320b–5(g)(1)(B) of this title , the Secretary shall expand the program under subsection (e)(3) pursuant to paragraph (2).
+  - **(2)** In expanding the program under subsection (e)(3), the following shall apply:
+    - **(A)**
+      - **(i)** In addition to the hospitals described in subsection (e)(3), the following hospitals shall be eligible to participate in the program:
+        - **(I)** Hospitals described in clause (iii) of section 1395ww(d)(1)(B) of this title .
+        - **(II)** Hospitals described in clause (v) of such section.
+        - **(III)** Critical access hospitals (as defined in section 1395x(mm)(1) of this title ).
+      - **(ii)** Subject to appropriate safeguards against fraud, waste, and abuse, upon a request of a hospital described in clause (i), the Secretary shall provide accelerated payments under the program to such hospital.
+    - **(B)** Upon the request of the hospital, the Secretary may do any of the following:
+      - **(i)** Make accelerated payments on a periodic or lump sum basis.
+      - **(ii)** Increase the amount of payment that would otherwise be made to hospitals under the program up to 100 percent (or, in the case of critical access hospitals, up to 125 percent).
+      - **(iii)** Extend the period that accelerated payments cover so that it covers up to a 6-month period.
+    - **(C)** Upon the request of the hospital, the Secretary shall do the following:
+      - **(i)** Provide up to 120 days before claims are offset to recoup the accelerated payment.
+      - **(ii)** Allow not less than 12 months from the date of the first accelerated payment before requiring that the outstanding balance be paid in full.
+  - **(3)** Nothing in this subsection shall preclude the Secretary from carrying out the provisions described in clauses (i), (ii), and (iii) of paragraph (2)(B) and clauses (i) and (ii) of paragraph (2)(C) under the program under subsection (e)(3) after the period for which this subsection applies.
+  - **(4)** Notwithstanding any other provision of law, the Secretary may implement the provisions of this subsection by program instruction or otherwise.

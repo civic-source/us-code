@@ -3,9 +3,9 @@ title: "Section 2137 - Purchase of dogs or cats by research facilities prohibite
 usc_title: 7
 usc_section: "2137"
 chapter: 54
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 2137"
-generated_at: "2026-03-30T08:58:19.847Z"
+generated_at: "2026-03-30T09:01:37.543Z"
 status: "active"
 ---
 

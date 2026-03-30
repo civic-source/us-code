@@ -3,9 +3,9 @@ title: "Section 20981 - Pilot program for monitoring sexual offenders"
 usc_title: 34
 usc_section: "20981"
 chapter: 209
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "34 U.S.C. § 20981"
-generated_at: "2026-03-30T08:59:24.381Z"
+generated_at: "2026-03-30T09:02:48.133Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 992 - Financial literacy training: financial services"
 usc_title: 10
 usc_section: "992"
 chapter: 50
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 992"
-generated_at: "2026-03-30T08:58:17.423Z"
+generated_at: "2026-03-30T09:01:21.926Z"
 status: "active"
 ---
 

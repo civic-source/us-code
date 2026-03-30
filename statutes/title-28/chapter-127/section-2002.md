@@ -3,9 +3,9 @@ title: "Section 2002 - Notice of sale of realty"
 usc_title: 28
 usc_section: "2002"
 chapter: 127
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 2002"
-generated_at: "2026-03-30T08:59:09.375Z"
+generated_at: "2026-03-30T09:02:38.947Z"
 status: "active"
 ---
 

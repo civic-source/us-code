@@ -3,9 +3,9 @@ title: "Section 8317 - Effect on regulations"
 usc_title: 7
 usc_section: "8317"
 chapter: 109
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 8317"
-generated_at: "2026-03-30T08:58:19.922Z"
+generated_at: "2026-03-30T09:01:37.614Z"
 status: "active"
 ---
 

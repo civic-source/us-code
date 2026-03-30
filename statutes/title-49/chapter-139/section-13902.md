@@ -3,9 +3,9 @@ title: "Section 13902 - Registration of motor carriers"
 usc_title: 49
 usc_section: "13902"
 chapter: 139
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "49 U.S.C. § 13902"
-generated_at: "2026-03-30T08:59:54.778Z"
+generated_at: "2026-03-30T09:03:31.179Z"
 status: "active"
 ---
 
@@ -96,3 +96,4 @@ status: "active"
       - **(i)** physically transports the cargo at some point; and
       - **(ii)** retains liability for the cargo and for payment of interchanged carriers; and
   - **(2)** may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
+- **(j)** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.

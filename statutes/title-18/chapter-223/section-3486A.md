@@ -3,9 +3,9 @@ title: "Section 3486A - Repealed. Pub. L. 106–544, § 5(b)(3) , Dec. 19, 2000 
 usc_title: 18
 usc_section: "3486A"
 chapter: 223
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "18 U.S.C. § 3486A"
-generated_at: "2026-03-30T08:58:42.708Z"
+generated_at: "2026-03-30T09:02:11.842Z"
 status: "repealed"
 ---
 

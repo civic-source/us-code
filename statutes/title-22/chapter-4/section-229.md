@@ -3,9 +3,9 @@ title: "Section 229 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(15)
 usc_title: 22
 usc_section: "229"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 229"
-generated_at: "2026-03-30T08:59:03.691Z"
+generated_at: "2026-03-30T09:02:24.287Z"
 status: "repealed"
 ---
 

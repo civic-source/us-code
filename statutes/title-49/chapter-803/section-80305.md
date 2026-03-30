@@ -3,9 +3,9 @@ title: "Section 80305 - Availability of certain appropriations"
 usc_title: 49
 usc_section: "80305"
 chapter: 803
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "49 U.S.C. § 80305"
-generated_at: "2026-03-30T08:59:54.840Z"
+generated_at: "2026-03-30T09:03:31.252Z"
 status: "active"
 ---
 

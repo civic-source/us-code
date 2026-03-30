@@ -3,9 +3,9 @@ title: "Section 1712 - Contrary stipulations void"
 usc_title: 15
 usc_section: "1712"
 chapter: 42
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 1712"
-generated_at: "2026-03-30T08:58:33.076Z"
+generated_at: "2026-03-30T09:02:00.998Z"
 status: "active"
 ---
 

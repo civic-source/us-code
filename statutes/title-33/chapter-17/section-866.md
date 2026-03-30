@@ -3,9 +3,9 @@ title: "Section 866 - Repealed. Aug. 6, 1947, ch. 504, § 10(1) , 61 Stat. 788"
 usc_title: 33
 usc_section: "866"
 chapter: 17
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 866"
-generated_at: "2026-03-30T08:59:20.771Z"
+generated_at: "2026-03-30T09:02:53.365Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 492a - Annual report on the plan for the nuclear weapons stockpi
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-30T08:58:17.402Z"
+generated_at: "2026-03-30T09:01:21.905Z"
 status: "active"
 ---
 

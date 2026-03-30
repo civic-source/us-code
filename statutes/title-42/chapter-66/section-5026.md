@@ -3,9 +3,9 @@ title: "Section 5026 - Adjustments to Federal financial assistance"
 usc_title: 42
 usc_section: "5026"
 chapter: 66
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 5026"
-generated_at: "2026-03-30T08:59:47.000Z"
+generated_at: "2026-03-30T09:03:18.767Z"
 status: "active"
 ---
 

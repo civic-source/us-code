@@ -3,9 +3,9 @@ title: "Section 461 - General rule for taxable year of deduction"
 usc_title: 26
 usc_section: "461"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 461"
-generated_at: "2026-03-30T08:59:14.372Z"
+generated_at: "2026-03-30T09:02:45.322Z"
 status: "active"
 ---
 
@@ -121,17 +121,22 @@ status: "active"
     - **(A)** has an interest in an enterprise other than as a limited partner, and
     - **(B)** does not actively participate in the management of such enterprise.
 - **(l)**
-  - **(1)** In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017 , and before January 1, 2026 —
-    - **(A)** subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
-    - **(B)** any excess business loss of the taxpayer for the taxable year shall not be allowed.
-  - **(2)** Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss carryover to the following taxable year under section 172.
+  - **(1)** In the case of a taxpayer other than a corporation—
+    - **(A)** for any taxable year beginning after December 31, 2017 , and before January 1, 2026 , subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+    - **(B)** for any taxable year beginning after December 31, 2020 , and before January 1, 2026 , any excess business loss of the taxpayer for the taxable year shall not be allowed.
+  - **(2)** Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “excess business loss” means the excess (if any) of—
-      - **(i)** the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
+      - **(i)** the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1) and without regard to any deduction allowable under section 172 or 199A), over
       - **(ii)** the sum of—
         - **(I)** the aggregate gross income or gain of such taxpayer for the taxable year which is attributable to such trades or businesses, plus
         - **(II)** $250,000 (200 percent of such amount in the case of a joint return).
-    - **(B)** In the case of any taxable year beginning after December 31, 2018 , the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
+    - **(B)**
+      - **(i)** Deductions for losses from sales or exchanges of capital assets shall not be taken into account under subparagraph (A)(i).
+      - **(ii)** The amount of gains from sales or exchanges of capital assets taken into account under subparagraph (A)(ii) shall not exceed the lesser of—
+        - **(I)** the capital gain net income determined by taking into account only gains and losses attributable to a trade or business, or
+        - **(II)** the capital gain net income.
+    - **(C)** In the case of any taxable year beginning after December 31, 2018 , the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
   - **(4)** In the case of a partnership or S corporation—

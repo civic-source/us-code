@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-30T08:59:14.319Z"
+generated_at: "2026-03-30T09:02:45.271Z"
 status: "active"
 ---
 
@@ -245,6 +245,16 @@ status: "active"
       - **(ii)** A boat.
       - **(iii)** Farm machinery or equipment.
   - **(10)**
+    - **(A)**
+      - **(i)** Except as provided in clause (ii) or (iii), in the case of any taxable year beginning in 2019 or 2020, paragraph (1)(B) shall be applied by substituting “50 percent” for “30 percent”.
+      - **(ii)** In the case of a partnership—
+        - **(I)** clause (i) shall not apply to any taxable year beginning in 2019, but
+        - **(II)** unless a partner elects not to have this subclause apply, in the case of any excess business interest of the partnership for any taxable year beginning in 2019 which is allocated to the partner under paragraph (4)(B)(i)(II)—
+      - **(iii)** A taxpayer may elect, at such time and in such manner as the Secretary may prescribe, not to have clause (i) apply to any taxable year. Such an election, once made, may be revoked only with the consent of the Secretary. In the case of a partnership, any such election shall be made by the partnership and may be made only for taxable years beginning in 2020.
+    - **(B)**
+      - **(i)** Subject to clause (ii), in the case of any taxable year beginning in 2020, the taxpayer may elect to apply this subsection by substituting the adjusted taxable income of the taxpayer for the last taxable year beginning in 2019 for the adjusted taxable income for such taxable year. In the case of a partnership, any such election shall be made by the partnership.
+      - **(ii)** If an election is made under clause (i) for a taxable year which is a short taxable year, the adjusted taxable income for the taxpayer’s last taxable year beginning in 2019 which is substituted under clause (i) shall be equal to the amount which bears the same ratio to such adjusted taxable income determined without regard to this clause as the number of months in the short taxable year bears to 12 2 2 So in original. Probably should be followed by a period.
+  - **(11)**
     - **(A)** For requirement that an electing real property trade or business use the alternative depreciation system, see section 168(g)(1)(F).
     - **(B)** For requirement that an electing farming business use the alternative depreciation system, see section 168(g)(1)(G).
 - **(k)** No deduction shall be allowed under this section for any interest payable under section 6601 on any unpaid portion of the tax imposed by section 2001 for the period during which an extension of time for payment of such tax is in effect under section 6166.

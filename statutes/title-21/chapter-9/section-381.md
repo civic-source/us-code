@@ -3,9 +3,9 @@ title: "Section 381 - Imports and exports"
 usc_title: 21
 usc_section: "381"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 381"
-generated_at: "2026-03-30T08:59:06.279Z"
+generated_at: "2026-03-30T09:02:29.321Z"
 status: "active"
 ---
 
@@ -62,8 +62,8 @@ status: "active"
         - **(II)** Notwithstanding any previous review conducted pursuant to subclause (I), a person who has been denied a certification as described in clause (i)(I) may at any time request a review in order to present new information relating to actions taken by such person to address the reasons identified by the Secretary for the denial of certification, including evidence that corrective actions are being or have been implemented to address grounds for noncompliance identified by the Secretary.
         - **(III)** Not later than 1 year after August 18, 2017 , the Secretary shall issue guidance providing for a process to carry out this subparagraph. Not later than 1 year after the close of the comment period for such guidance, the Secretary shall issue final guidance.
       - **(iii)**
-        - **(I)** Subject to subclause (II), this subparagraph applies to requests for certification on behalf of any device establishment registered under section 360 of this title , whether the establishment is located inside or outside of the United States, and regardless of whether such devices are to be exported from the United States.
-        - **(II)** If an establishment described in subclause (I) is not located within the United States and does not demonstrate that the devices manufactured, prepared, propagated, compounded, or processed at such establishment are to be exported from the United States, this subparagraph shall apply only if—
+        - **(I)** Subject to subclause (II), this paragraph applies to requests for certification on behalf of any device establishment registered under section 360 of this title , whether the establishment is located inside or outside of the United States, and regardless of whether such devices are to be exported from the United States.
+        - **(II)** If an establishment described in subclause (I) is not located within the United States and does not demonstrate that the devices manufactured, prepared, propagated, compounded, or processed at such establishment are to be exported from the United States, this paragraph shall apply only if—
 - **(f)**
   - **(1)** If a drug (other than insulin, an antibiotic drug, an animal drug, or a drug exported under section 382 of this title ) being exported in accordance with subsection (e) is being exported to a country that has different or additional labeling requirements or conditions for use and such country requires the drug to be labeled in accordance with those requirements or uses, such drug may be labeled in accordance with such requirements and conditions for use in the country to which such drug is being exported if it also is labeled in accordance with the requirements of this chapter.
   - **(2)** If, pursuant to paragraph (1), the labeling of an exported drug includes conditions for use that have not been approved under this chapter, the labeling must state that such conditions for use have not been approved under this chapter. A drug exported under section 382 of this title is exempt from this section.

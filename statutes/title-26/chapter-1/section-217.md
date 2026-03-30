@@ -3,9 +3,9 @@ title: "Section 217 - Moving expenses"
 usc_title: 26
 usc_section: "217"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 217"
-generated_at: "2026-03-30T08:59:14.331Z"
+generated_at: "2026-03-30T09:02:45.282Z"
 status: "active"
 ---
 

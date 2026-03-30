@@ -3,9 +3,9 @@ title: "Section 542 - Entry of goods by means of false statements"
 usc_title: 18
 usc_section: "542"
 chapter: 27
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "18 U.S.C. § 542"
-generated_at: "2026-03-30T08:58:42.667Z"
+generated_at: "2026-03-30T09:02:11.802Z"
 status: "active"
 ---
 

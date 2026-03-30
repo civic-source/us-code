@@ -3,9 +3,9 @@ title: "Section 1521 - Ineligibility for catastrophic risk and noninsured assist
 usc_title: 7
 usc_section: "1521"
 chapter: 36
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 1521"
-generated_at: "2026-03-30T08:58:19.806Z"
+generated_at: "2026-03-30T09:01:37.502Z"
 status: "active"
 ---
 

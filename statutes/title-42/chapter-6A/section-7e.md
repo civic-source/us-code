@@ -3,9 +3,9 @@ title: "Section 7e - Biomedical Advanced Research and Development Authority"
 usc_title: 42
 usc_section: "7e"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T08:59:46.581Z"
+generated_at: "2026-03-30T09:03:18.346Z"
 status: "active"
 ---
 
@@ -98,7 +98,10 @@ status: "active"
       - **(ii)**
         - **(I)** To the maximum extent practicable, competitive procedures shall be used when entering into transactions to carry out projects under this subsection.
         - **(II)** The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
-      - **(iii)** The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
+      - **(iii)**
+        - **(I)** Notwithstanding clause (ii), the Secretary, shall, to the maximum extent practicable, use competitive procedures when entering into transactions to carry out projects under this subsection for purposes of a public health emergency declared by the Secretary under section 247d of this title . Any such transactions entered into during such public health emergency shall not be terminated solely due to the expiration of such public health emergency, if such public health emergency ends before the completion of the terms of such agreement.
+        - **(II)** After the expiration of the public health emergency declared by the Secretary under section 247d of this title , the Secretary shall provide a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the use of any funds pursuant to the authority under subclause (I), including any outcomes, benefits, and risks associated with the use of such funds, and a description of the reasons for the use of such authority for the project or projects.
+      - **(iv)** The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
     - **(B)**
       - **(i)** In awarding contracts, grants, and cooperative agreements, and in entering into other transactions under subparagraph (B) or (D) of paragraph (4), the Secretary shall have the expedited procurement authorities, the authority to expedite peer review, and the authority for personal services contracts, supplied by subsections (b), (c), and (d) of section 247d–6a of this title .
       - **(ii)** Provisions in such section 247d–6a of this title that apply to such authorities and that require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall apply to the authorities as exercised pursuant to this paragraph.

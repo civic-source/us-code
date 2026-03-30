@@ -3,9 +3,9 @@ title: "Section 4502 - Appropriation of funds for compensation of Members of Con
 usc_title: 2
 usc_section: "4502"
 chapter: 45
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "2 U.S.C. § 4502"
-generated_at: "2026-03-30T08:58:09.946Z"
+generated_at: "2026-03-30T09:00:22.880Z"
 status: "active"
 ---
 

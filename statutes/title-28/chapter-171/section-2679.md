@@ -3,9 +3,9 @@ title: "Section 2679 - Exclusiveness of remedy"
 usc_title: 28
 usc_section: "2679"
 chapter: 171
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 2679"
-generated_at: "2026-03-30T08:59:09.380Z"
+generated_at: "2026-03-30T09:02:38.951Z"
 status: "active"
 ---
 

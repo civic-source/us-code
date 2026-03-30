@@ -3,9 +3,9 @@ title: "Section 5922 - Repealed. Pub. L. 107–171, title X, § 10705(b) , May 1
 usc_title: 7
 usc_section: "5922"
 chapter: 88
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 5922"
-generated_at: "2026-03-30T08:58:19.880Z"
+generated_at: "2026-03-30T09:01:37.573Z"
 status: "repealed"
 ---
 

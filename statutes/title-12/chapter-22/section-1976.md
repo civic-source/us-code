@@ -3,9 +3,9 @@ title: "Section 1976 - Injunctive relief for persons against threatened loss or 
 usc_title: 12
 usc_section: "1976"
 chapter: 22
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 1976"
-generated_at: "2026-03-30T08:58:34.864Z"
+generated_at: "2026-03-30T09:02:08.200Z"
 status: "active"
 ---
 

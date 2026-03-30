@@ -1,15 +1,15 @@
 ---
-title: "Section 656 - Women’s business center program"
+title: "Section 656 - Women’s Business Center program"
 usc_title: 15
 usc_section: "656"
 chapter: 14
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 656"
-generated_at: "2026-03-30T08:58:33.027Z"
+generated_at: "2026-03-30T09:02:00.952Z"
 status: "active"
 ---
 
-# § 656. Women’s business center program
+# § 656. Women’s Business Center program
 
 - **(a)** In this section—
   - **(1)** the term “Assistant Administrator” means the Assistant Administrator of the Office of Women’s Business Ownership established under subsection (g);

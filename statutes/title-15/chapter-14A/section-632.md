@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T08:58:33.012Z"
+generated_at: "2026-03-30T09:02:00.937Z"
 status: "active"
 ---
 
@@ -140,11 +140,11 @@ status: "active"
       - **(i)** During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—
         - **(I)** the surviving spouse of the deceased veteran acquires such veteran’s ownership interest in such concern;
         - **(II)** such veteran had a service-connected disability (as defined in section 101(16) of title 38 ); and
-        - **(III)** the date that—
+        - **(III)** immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38 .
       - **(ii)** The time period described in this clause is the time period beginning on the date of the veteran’s death and ending on the earlier of—
         - **(I)** the date on which the surviving spouse remarries;
         - **(II)** the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
-        - **(III)** the date that is 10 years after the date of the death of the veteran.
+        - **(III)** the date that—
   - **(3)** The term “small business concern owned and controlled by veterans” means a small business concern—
     - **(A)** not less than 51 percent of which is owned by one or more veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
     - **(B)** the management and daily business operations of which are controlled by one or more veterans.

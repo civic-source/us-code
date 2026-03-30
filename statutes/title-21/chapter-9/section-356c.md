@@ -3,9 +3,9 @@ title: "Section 356c - Discontinuance or interruption in the production of life-
 usc_title: 21
 usc_section: "356c"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 356c"
-generated_at: "2026-03-30T08:59:06.251Z"
+generated_at: "2026-03-30T09:02:29.293Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** that is—
     - **(A)** life-supporting;
     - **(B)** life-sustaining; or
-    - **(C)** intended for use in the prevention or treatment of a debilitating disease or condition, including any such drug used in emergency medical care or during surgery; and
+    - **(C)** intended for use in the prevention or treatment of a debilitating disease or condition, including any such drug used in emergency medical care or during surgery or any such drug that is critical to the public health during a public health emergency declared by the Secretary under section 247d of title 42 ; and
   - **(2)** that is not a radio pharmaceutical drug product or any other product as designated by the Secretary,
 - **(b)** A notice required under subsection (a) shall be submitted to the Secretary—
   - **(1)** at least 6 months prior to the date of the discontinuance or interruption; or
@@ -32,9 +32,9 @@ status: "active"
   - **(1)** the Secretary shall issue a letter to such person informing such person of such failure;
   - **(2)** not later than 30 calendar days after the issuance of a letter under paragraph (1), the person who receives such letter shall submit to the Secretary a written response to such letter setting forth the basis for noncompliance and providing information required under subsection (a); and
   - **(3)** not later than 45 calendar days after the issuance of a letter under paragraph (1), the Secretary shall make such letter and any response to such letter under paragraph (2) available to the public on the Internet Web site of the Food and Drug Administration, with appropriate redactions made to protect information described in subsection (d), except that, if the Secretary determines that the letter under paragraph (1) was issued in error or, after review of such response, the person had a reasonable basis for not notifying as required under subsection (a), the requirements of this paragraph shall not apply.
-- **(g)** If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary may—
-  - **(1)** expedite the review of a supplement to a new drug application submitted under section 355(b) of this title , an abbreviated new drug application submitted under section 355(j) of this title , or a supplement to such an application submitted under section 355(j) of this title , that could help mitigate or prevent such shortage; or
-  - **(2)** expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
+- **(g)** If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary shall, as appropriate—
+  - **(1)** prioritize and expedite the review of a supplement to a new drug application submitted under section 355(b) of this title , an abbreviated new drug application submitted under section 355(j) of this title , or a supplement to such an application submitted under section 355(j) of this title , that could help mitigate or prevent such shortage; or
+  - **(2)** prioritize and expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
 - **(h)** For purposes of this section—
   - **(1)** the term “drug”—
     - **(A)** means a drug (as defined in section 321(g) of this title ) that is intended for human use and that is subject to section 353(b)(1) of this title ; and
@@ -56,3 +56,4 @@ status: "active"
     - **(B)** provide a period of not less than 60 days for comments on the proposed regulation; and
     - **(C)** publish the final regulation not less than 30 days before the regulation’s effective date.
   - **(5)** Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
+- **(j)** Each manufacturer of a drug described in subsection (a) or of any active pharmaceutical ingredient or any associated medical device used for preparation or administration included in the drug, shall develop, maintain, and implement, as appropriate, a redundancy risk management plan that identifies and evaluates risks to the supply of the drug, as applicable, for each establishment in which such drug or active pharmaceutical ingredient of such drug is manufactured. A risk management plan under this section shall be subject to inspection and copying by the Secretary pursuant to an inspection or a request under section 374(a)(4) of this title .

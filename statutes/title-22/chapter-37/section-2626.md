@@ -3,9 +3,9 @@ title: "Section 2626 - Repealed. Pub. L. 90–83, § 10(b) , Sept. 11, 1967 , 81
 usc_title: 22
 usc_section: "2626"
 chapter: 37
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 2626"
-generated_at: "2026-03-30T08:59:03.841Z"
+generated_at: "2026-03-30T09:02:24.349Z"
 status: "repealed"
 ---
 

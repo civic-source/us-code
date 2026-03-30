@@ -3,9 +3,9 @@ title: "Section 1502 - Repealed. Oct. 10, 1951, ch. 479 , title V, § 503(b)(1),
 usc_title: 22
 usc_section: "1502"
 chapter: 19
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 1502"
-generated_at: "2026-03-30T08:59:03.805Z"
+generated_at: "2026-03-30T09:02:24.314Z"
 status: "repealed"
 ---
 

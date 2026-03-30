@@ -3,9 +3,9 @@ title: "Section 1667 - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 19
 usc_title: 48
 usc_section: "1667"
 chapter: 13
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "48 U.S.C. § 1667"
-generated_at: "2026-03-30T08:59:51.289Z"
+generated_at: "2026-03-30T09:03:27.919Z"
 status: "repealed"
 ---
 

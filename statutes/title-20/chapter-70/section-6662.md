@@ -3,9 +3,9 @@ title: "Section 6662 - Presidential and Congressional Academies for American His
 usc_title: 20
 usc_section: "6662"
 chapter: 70
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 6662"
-generated_at: "2026-03-30T08:58:44.706Z"
+generated_at: "2026-03-30T09:02:17.973Z"
 status: "active"
 ---
 

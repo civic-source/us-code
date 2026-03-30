@@ -3,9 +3,9 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-30T08:59:06.241Z"
+generated_at: "2026-03-30T09:02:29.283Z"
 status: "active"
 ---
 
@@ -61,3 +61,5 @@ A drug or device shall be deemed to be misbranded—
 - **(bb)** If the advertising or promotion of a compounded drug is false or misleading in any particular.
 - **(cc)** If it is a drug and it fails to bear the product identifier as required by section 360eee–1 of this title .
 - **(dd)** If it is an antimicrobial drug, as defined in section 360a–2(f) of this title , and its labeling fails to conform with the requirements under section 360a–2(d) of this title .
+- **(ee)** If it is a nonprescription drug that is subject to section 355h of this title , is not the subject of an application approved under section 355 of this title , and does not comply with the requirements under section 355h of this title .
+- **(ff)** If it is a drug and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–72 of this title .

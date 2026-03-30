@@ -3,15 +3,16 @@ title: "Section 3057b - Findings"
 usc_title: 42
 usc_section: "3057b"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 3057b"
-generated_at: "2026-03-30T08:59:46.971Z"
+generated_at: "2026-03-30T09:03:18.737Z"
 status: "active"
 ---
 
 # § 3057b. Findings
 
-- **(a)** 1 1 So in original. No subsec. (b) has been enacted. The Congress finds that the older individuals who are Indians of the United States—
+The Congress finds that the older individuals who are Indians of the United States—
+
   - **(1)** are a rapidly increasing population;
   - **(2)** suffer from high unemployment;
   - **(3)** live in poverty at a rate estimated to be as high as 61 percent;

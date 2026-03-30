@@ -3,9 +3,9 @@ title: "Section 6041A - Returns regarding payments of remuneration for services 
 usc_title: 26
 usc_section: "6041A"
 chapter: 61
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 6041A"
-generated_at: "2026-03-30T08:59:14.479Z"
+generated_at: "2026-03-30T09:02:45.428Z"
 status: "active"
 ---
 

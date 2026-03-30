@@ -3,9 +3,9 @@ title: "Section 79g - Contract authorization within prescribed cost limits; inst
 usc_title: 16
 usc_section: "79g"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 79g"
-generated_at: "2026-03-30T08:58:41.548Z"
+generated_at: "2026-03-30T09:02:16.081Z"
 status: "active"
 ---
 

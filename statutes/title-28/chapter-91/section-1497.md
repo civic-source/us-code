@@ -3,9 +3,9 @@ title: "Section 1497 - Oyster growers’ damages from dredging operations"
 usc_title: 28
 usc_section: "1497"
 chapter: 91
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 1497"
-generated_at: "2026-03-30T08:59:09.371Z"
+generated_at: "2026-03-30T09:02:38.942Z"
 status: "active"
 ---
 

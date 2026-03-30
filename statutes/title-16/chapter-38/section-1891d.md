@@ -3,9 +3,9 @@ title: "Section 1891d - Secretarial representative for international fisheries"
 usc_title: 16
 usc_section: "1891d"
 chapter: 38
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 1891d"
-generated_at: "2026-03-30T08:58:41.731Z"
+generated_at: "2026-03-30T09:02:16.263Z"
 status: "active"
 ---
 

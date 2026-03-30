@@ -3,9 +3,9 @@ title: "Section 7279 - Distinguished flying cross: award; limitations"
 usc_title: 10
 usc_section: "7279"
 chapter: 737
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 7279"
-generated_at: "2026-03-30T08:58:17.501Z"
+generated_at: "2026-03-30T09:01:22.010Z"
 status: "active"
 ---
 

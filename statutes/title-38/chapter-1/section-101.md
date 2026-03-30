@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 38
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "38 U.S.C. § 101"
-generated_at: "2026-03-30T08:59:28.775Z"
+generated_at: "2026-03-30T09:02:58.753Z"
 status: "active"
 ---
 
@@ -48,18 +48,18 @@ For the purposes of this title—
   - **(20)** The term “State” means each of the several States, Territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico. For the purpose of section 2303 and chapters 34 and 35 of this title, such term also includes the Canal Zone.
   - **(21)** The term “active duty” means—
     - **(A)** full-time duty in the Armed Forces, other than active duty for training;
-    - **(B)** full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps of the Public Health Service (i) on or after July 29, 1945 , or (ii) before that date under circumstances affording entitlement to “full military benefits” or (iii) at any time, for the purposes of chapter 13 of this title;
+    - **(B)** full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service (i) on or after July 29, 1945 , or (ii) before that date under circumstances affording entitlement to “full military benefits” or (iii) at any time, for the purposes of chapter 13 of this title;
     - **(C)** full-time duty as a commissioned officer of the National Oceanic and Atmospheric Administration or its predecessor organization the Coast and Geodetic Survey (i) on or after July 29, 1945 , or (ii) before that date (I) while on transfer to one of the Armed Forces, or (II) while, in time of war or national emergency declared by the President, assigned to duty on a project for one of the Armed Forces in an area determined by the Secretary of Defense to be of immediate military hazard, or (III) in the Philippine Islands on December 7, 1941 , and continuously in such islands thereafter, or (iii) at any time, for the purposes of chapter 13 of this title;
     - **(D)** service as a cadet at the United States Military, Air Force, or Coast Guard Academy, or as a midshipman at the United States Naval Academy; and
     - **(E)** authorized travel to or from such duty or service.
   - **(22)** The term “active duty for training” means—
     - **(A)** full-time duty in the Armed Forces performed by Reserves for training purposes;
-    - **(B)** full-time duty for training purposes performed as a commissioned officer of the Reserve Corps of the Public Health Service (i) on or after July 29, 1945 , or (ii) before that date under circumstances affording entitlement to “full military benefits”, or (iii) at any time, for the purposes of chapter 13 of this title;
+    - **(B)** full-time duty for training purposes performed as a commissioned officer of the Reserve Corps 1 of the Public Health Service (i) on or after July 29, 1945 , or (ii) before that date under circumstances affording entitlement to “full military benefits”, or (iii) at any time, for the purposes of chapter 13 of this title;
     - **(C)** in the case of members of the Army National Guard or Air National Guard of any State, full-time duty under section 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law;
     - **(D)** duty performed by a member of a Senior Reserve Officers’ Training Corps program when ordered to such duty for the purpose of training or a practice cruise under chapter 103 of title 10 for a period of not less than four weeks and which must be completed by the member before the member is commissioned; and
     - **(E)** authorized travel to or from such duty.
   - **(23)** The term “inactive duty training” means—
-    - **(A)** duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
+    - **(A)** duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) by the Secretary concerned under section 206 of title 37 or any other provision of law;
     - **(B)** special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
     - **(C)** training (other than active duty for training) by a member of, or applicant for membership (as defined in section 8140(g) of title 5 ) in, the Senior Reserve Officers’ Training Corps prescribed under chapter 103 of title 10.
   - **(24)** The term “active military, naval, or air service” includes—

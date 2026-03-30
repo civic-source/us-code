@@ -3,15 +3,15 @@ title: "Section 1616j - Retention bonus"
 usc_title: 25
 usc_section: "1616j"
 chapter: 18
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "25 U.S.C. § 1616j"
-generated_at: "2026-03-30T08:59:00.904Z"
+generated_at: "2026-03-30T09:02:21.511Z"
 status: "active"
 ---
 
 # § 1616j. Retention bonus
 
-- **(a)** The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps of the Public Health Service who—
+- **(a)** The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service who—
   - **(1)** is assigned to, and serving in, a position included in the list established under section 1616i(b)(1) of this title for which recruitment or retention of personnel is difficult,
   - **(2)** the Secretary determines is needed by the Service,
   - **(3)** has—

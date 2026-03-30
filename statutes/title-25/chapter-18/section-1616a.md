@@ -3,9 +3,9 @@ title: "Section 1616a - Indian Health Service Loan Repayment Program"
 usc_title: 25
 usc_section: "1616a"
 chapter: 18
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "25 U.S.C. § 1616a"
-generated_at: "2026-03-30T08:59:00.903Z"
+generated_at: "2026-03-30T09:02:21.510Z"
 status: "active"
 ---
 
@@ -30,13 +30,13 @@ status: "active"
       - **(i)** a degree in a health profession; and
       - **(ii)** a license to practice a health profession in a State;
   - **(2)**
-    - **(A)** be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Public Health Service;
-    - **(B)** be eligible for selection for civilian service in the Regular or Reserve Corps of the Public Health Service;
+    - **(A)** be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 2 2 See Change of Name note below. of the Public Health Service;
+    - **(B)** be eligible for selection for civilian service in the Regular or Reserve Corps 2 of the Public Health Service;
     - **(C)** meet the professional standards for civil service employment in the Indian Health Service; or
     - **(D)** be employed in an Indian health program without a service obligation; and
   - **(3)** submit to the Secretary an application for a contract described in subsection (f).
 - **(c)**
-  - **(1)** In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection ( l ) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+  - **(1)** In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection ( l ) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps 2 of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
   - **(2)** The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
   - **(3)** The Secretary shall make such application forms, contract forms, and other information available to individuals desiring to participate in the Loan Repayment Program on a date sufficiently early to ensure that such individuals have adequate time to carefully review and evaluate such forms and information.
 - **(d)**

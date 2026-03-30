@@ -3,9 +3,9 @@ title: "Section 1414a - Research"
 usc_title: 16
 usc_section: "1414a"
 chapter: 31
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 1414a"
-generated_at: "2026-03-30T08:58:41.711Z"
+generated_at: "2026-03-30T09:02:16.243Z"
 status: "active"
 ---
 

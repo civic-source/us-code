@@ -3,9 +3,9 @@ title: "Section 5304 - Salaries of Representatives, Delegates, and Resident Comm
 usc_title: 2
 usc_section: "5304"
 chapter: 53
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "2 U.S.C. § 5304"
-generated_at: "2026-03-30T08:58:09.950Z"
+generated_at: "2026-03-30T09:00:22.884Z"
 status: "active"
 ---
 

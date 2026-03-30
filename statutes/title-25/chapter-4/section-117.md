@@ -3,9 +3,9 @@ title: "Section 117 - Repealed. Pub. L. 98–64, § 4(a) , Aug. 2, 1983 , 97 Sta
 usc_title: 25
 usc_section: "117"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "25 U.S.C. § 117"
-generated_at: "2026-03-30T08:59:00.887Z"
+generated_at: "2026-03-30T09:02:21.494Z"
 status: "repealed"
 ---
 

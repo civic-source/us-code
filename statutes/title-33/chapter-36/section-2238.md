@@ -3,9 +3,9 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-30T08:59:20.805Z"
+generated_at: "2026-03-30T09:02:53.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2838 - Leasing of military family housing to Secretary of Defens
 usc_title: 10
 usc_section: "2838"
 chapter: 169
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2838"
-generated_at: "2026-03-30T08:58:17.495Z"
+generated_at: "2026-03-30T09:01:22.003Z"
 status: "active"
 ---
 

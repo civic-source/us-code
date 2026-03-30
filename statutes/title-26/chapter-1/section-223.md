@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T08:59:14.332Z"
+generated_at: "2026-03-30T09:02:45.283Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
         - **(II)** which provides coverage for any benefit which is covered under the high deductible health plan.
     - **(B)** Subparagraph (A)(ii) shall be applied without regard to—
       - **(i)** coverage for any benefit provided by permitted insurance,
-      - **(ii)** coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, or long-term care, and
+      - **(ii)** coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021 ) telehealth and other remote care, and
       - **(iii)** for taxable years beginning after December 31, 2006 , coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
         - **(I)** the balance in such arrangement at the end of such plan year is zero, or
         - **(II)** the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
@@ -68,6 +68,7 @@ status: "active"
     - **(D)** In the case of a plan using a network of providers—
       - **(i)** Such plan shall not fail to be treated as a high deductible health plan by reason of having an out-of-pocket limitation for services provided outside of such network which exceeds the applicable limitation under subparagraph (A)(ii).
       - **(ii)** Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
+    - **(E)** In the case of plan years beginning on or before December 31, 2021 , a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
   - **(3)** The term “permitted insurance” means—
     - **(A)** insurance if substantially all of the coverage provided under such insurance relates to—
       - **(i)** liabilities incurred under workers’ compensation laws,
@@ -90,13 +91,14 @@ status: "active"
     - **(D)** The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
     - **(E)** The interest of an individual in the balance in his account is nonforfeitable.
   - **(2)**
-    - **(A)** The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+    - **(A)** The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.
     - **(B)** Subparagraph (A) shall not apply to any payment for insurance.
     - **(C)** Subparagraph (B) shall not apply to any expense for coverage under—
       - **(i)** a health plan during any period of continuation coverage required under any Federal law,
       - **(ii)** a qualified long-term care insurance contract (as defined in section 7702B(b)),
       - **(iii)** a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
       - **(iv)** in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
+    - **(D)** For purposes of this paragraph, the term “menstrual care product” means a tampon, pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation or other genital-tract secretions.
   - **(3)** The term “account beneficiary” means the individual on whose behalf the health savings account was established.
   - **(4)** Rules similar to the following rules shall apply for purposes of this section:
     - **(A)** Section 219(d)(2) (relating to no deduction for rollovers).

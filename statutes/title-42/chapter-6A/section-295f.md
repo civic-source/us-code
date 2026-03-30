@@ -3,9 +3,9 @@ title: "Section 295f - Investment in tomorrow’s pediatric health care workforc
 usc_title: 42
 usc_section: "295f"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 295f"
-generated_at: "2026-03-30T08:59:46.645Z"
+generated_at: "2026-03-30T09:03:18.408Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
   - **(1)** are or will be working in a school or other pre-kindergarten, elementary, or secondary education setting;
   - **(2)** have familiarity with evidence-based methods and cultural and linguistic competence health care services; and
   - **(3)** demonstrate financial need.
-- **(e)** There is authorized to be appropriated $30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B).
+- **(e)** There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2021 through 2025.

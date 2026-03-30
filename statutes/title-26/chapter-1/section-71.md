@@ -3,9 +3,9 @@ title: "Section 71 - Repealed. Pub. L. 115–97, title I, § 11051(b)(1)(B) , De
 usc_title: 26
 usc_section: "71"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 71"
-generated_at: "2026-03-30T08:59:14.304Z"
+generated_at: "2026-03-30T09:02:45.255Z"
 status: "repealed"
 ---
 

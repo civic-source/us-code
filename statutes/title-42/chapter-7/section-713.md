@@ -3,9 +3,9 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-30T08:59:46.742Z"
+generated_at: "2026-03-30T09:03:18.504Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2019 and for the period beginning October 1, 2019 , and ending May 22, 2020 , the Secretary shall allot to each State an amount equal to the product of—
+    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2020 and for the period beginning October 1, 2020 , and ending November 30, 2020 , the Secretary shall allot to each State an amount equal to the product of—
       - **(i)** the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
       - **(ii)** the State youth population percentage determined under paragraph (2).
     - **(B)**
-      - **(i)** Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2019 , and ending May 22, 2020 .
+      - **(i)** Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2020 , and ending November 30, 2020 .
       - **(ii)** The Secretary shall adjust on a pro rata basis the amount of the State allotments determined under this paragraph for a fiscal year to the extent necessary to comply with clause (i).
     - **(C)**
       - **(i)** A State shall not be paid from its allotment for a fiscal year or the period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
@@ -32,7 +32,7 @@ status: "active"
     - **(B)** The number of individuals described in clauses (i) and (ii) of subparagraph (A) in a State shall be determined on the basis of the most recent Bureau of the Census data.
   - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or the period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second succeeding fiscal year the end of the second fiscal year following such fiscal year or period.
   - **(4)**
-    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2019 and for the period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2019 and for the period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or the period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2020 and for the period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2020 and for the period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or the period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
     - **(B)**
       - **(i)** The Secretary shall continue through the period described in paragraph (1)(A) grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
       - **(ii)** The Secretary may solicit and award grants under this paragraph to faith-based organizations or consortia.
@@ -86,4 +86,4 @@ status: "active"
     - **(B)** comprising information that leading professional organizations and agencies with relevant expertise in the field recognize as accurate, objective, and complete.
   - **(3)** The terms “Indian tribe” and “Tribal organization” have the meanings given such terms in section 1603 of title 25 .
   - **(4)** The term “youth” means an individual who has attained age 10 but has not attained age 20.
-- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2019 and $48,287,671 for the period beginning October 1, 2019 , and ending May 22, 2020 . Amounts appropriated under this subsection shall remain available until expended.
+- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2020, and for the period beginning on October 1, 2020 , and ending on November 30, 2020 , the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020. Amounts appropriated under this subsection shall remain available until expended.

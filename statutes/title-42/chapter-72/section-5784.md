@@ -3,9 +3,9 @@ title: "Section 5784 - Repealed. Pub. L. 115–385, title IV, § 402(c)(2) , Dec
 usc_title: 42
 usc_section: "5784"
 chapter: 72
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 5784"
-generated_at: "2026-03-30T08:59:47.021Z"
+generated_at: "2026-03-30T09:03:18.788Z"
 status: "repealed"
 ---
 

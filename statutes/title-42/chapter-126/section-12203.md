@@ -3,9 +3,9 @@ title: "Section 12203 - Prohibition against retaliation and coercion"
 usc_title: 42
 usc_section: "12203"
 chapter: 126
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 12203"
-generated_at: "2026-03-30T08:59:47.170Z"
+generated_at: "2026-03-30T09:03:18.932Z"
 status: "active"
 ---
 

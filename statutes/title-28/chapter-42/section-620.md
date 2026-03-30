@@ -3,9 +3,9 @@ title: "Section 620 - Federal Judicial Center"
 usc_title: 28
 usc_section: "620"
 chapter: 42
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 620"
-generated_at: "2026-03-30T08:59:09.365Z"
+generated_at: "2026-03-30T09:02:38.937Z"
 status: "active"
 ---
 

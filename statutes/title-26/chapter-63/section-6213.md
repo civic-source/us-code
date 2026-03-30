@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-30T08:59:14.491Z"
+generated_at: "2026-03-30T09:02:45.439Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(I)** an omission of a correct TIN required under section 24(e) (relating to child tax credit) to be included on a return,
     - **(J)** an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
     - **(K)** an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
-    - **(L)** the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if—
+    - **(L)** the inclusion on a return of a TIN required to be included on the return under section 21, 24, 32, or 6428 if—
       - **(i)** such TIN is of an individual whose age affects the amount of the credit under such section, and
       - **(ii)** the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual’s age based on such TIN,
     - **(M)** the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,

@@ -3,9 +3,9 @@ title: "Section 5111 - Commencement of period of payment"
 usc_title: 38
 usc_section: "5111"
 chapter: 51
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "38 U.S.C. § 5111"
-generated_at: "2026-03-30T08:59:28.816Z"
+generated_at: "2026-03-30T09:02:58.795Z"
 status: "active"
 ---
 

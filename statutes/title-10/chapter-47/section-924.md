@@ -3,9 +3,9 @@ title: "Section 924 - Art. 124. Frauds against the United States"
 usc_title: 10
 usc_section: "924"
 chapter: 47
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 924"
-generated_at: "2026-03-30T08:58:17.418Z"
+generated_at: "2026-03-30T09:01:21.920Z"
 status: "active"
 ---
 

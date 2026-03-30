@@ -3,9 +3,9 @@ title: "Section 1539 - Financial assistance"
 usc_title: 15
 usc_section: "1539"
 chapter: 40
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 1539"
-generated_at: "2026-03-30T08:58:33.056Z"
+generated_at: "2026-03-30T09:02:00.980Z"
 status: "active"
 ---
 

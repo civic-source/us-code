@@ -3,9 +3,9 @@ title: "Section 602 - Maintenance of channel of South Pass of Mississippi River"
 usc_title: 33
 usc_section: "602"
 chapter: 12
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 602"
-generated_at: "2026-03-30T08:59:20.763Z"
+generated_at: "2026-03-30T09:02:53.358Z"
 status: "active"
 ---
 

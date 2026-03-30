@@ -3,9 +3,9 @@ title: "Section 1975 - Civil actions by persons injured; jurisdiction and venue;
 usc_title: 12
 usc_section: "1975"
 chapter: 22
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 1975"
-generated_at: "2026-03-30T08:58:34.864Z"
+generated_at: "2026-03-30T09:02:08.200Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1772c - Trust fund"
 usc_title: 12
 usc_section: "1772c"
 chapter: 14
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 1772c"
-generated_at: "2026-03-30T08:58:34.833Z"
+generated_at: "2026-03-30T09:02:08.168Z"
 status: "active"
 ---
 

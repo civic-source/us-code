@@ -3,13 +3,13 @@ title: "Section 295e - Authorization of appropriations"
 usc_title: 42
 usc_section: "295e"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 295e"
-generated_at: "2026-03-30T08:59:46.645Z"
+generated_at: "2026-03-30T09:03:18.408Z"
 status: "active"
 ---
 
 # § 295e. Authorization of appropriations
 
-- **(a)** For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
+- **(a)** For the purpose of carrying out this subpart, there is authorized to be appropriated $17,000,000 for each of fiscal years 2021 through 2025.
 - **(b)** In obligating amounts appropriated under subsection (a), the Secretary may not obligate more than 30 percent for carrying out section 295b of this title .

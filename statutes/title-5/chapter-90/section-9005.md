@@ -3,9 +3,9 @@ title: "Section 9005 - Preemption"
 usc_title: 5
 usc_section: "9005"
 chapter: 90
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "5 U.S.C. § 9005"
-generated_at: "2026-03-30T08:58:09.245Z"
+generated_at: "2026-03-30T09:01:05.516Z"
 status: "active"
 ---
 

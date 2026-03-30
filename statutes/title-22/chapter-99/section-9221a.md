@@ -3,9 +3,9 @@ title: "Section 9221a - Prohibition on indirect correspondent accounts"
 usc_title: 22
 usc_section: "9221a"
 chapter: 99
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 9221a"
-generated_at: "2026-03-30T08:59:03.920Z"
+generated_at: "2026-03-30T09:02:24.429Z"
 status: "active"
 ---
 

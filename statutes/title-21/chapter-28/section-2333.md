@@ -3,9 +3,9 @@ title: "Section 2333 - Regulatory authority"
 usc_title: 21
 usc_section: "2333"
 chapter: 28
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 2333"
-generated_at: "2026-03-30T08:59:06.311Z"
+generated_at: "2026-03-30T09:02:29.353Z"
 status: "active"
 ---
 

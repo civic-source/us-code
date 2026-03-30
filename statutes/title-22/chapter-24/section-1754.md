@@ -3,9 +3,9 @@ title: "Section 1754 - Foreign currencies"
 usc_title: 22
 usc_section: "1754"
 chapter: 24
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 1754"
-generated_at: "2026-03-30T08:59:03.809Z"
+generated_at: "2026-03-30T09:02:24.318Z"
 status: "active"
 ---
 

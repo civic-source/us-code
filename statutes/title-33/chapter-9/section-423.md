@@ -3,9 +3,9 @@ title: "Section 423 - Establishment of pierhead and bulkhead lines in Wilmington
 usc_title: 33
 usc_section: "423"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 423"
-generated_at: "2026-03-30T08:59:20.754Z"
+generated_at: "2026-03-30T09:02:53.350Z"
 status: "active"
 ---
 

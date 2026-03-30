@@ -3,9 +3,9 @@ title: "Section 1220 - State applications for obsolete ships for use as offshore
 usc_title: 16
 usc_section: "1220"
 chapter: 25
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 1220"
-generated_at: "2026-03-30T08:58:41.697Z"
+generated_at: "2026-03-30T09:02:16.227Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17241 - Lightweight materials research and development"
 usc_title: 42
 usc_section: "17241"
 chapter: 152
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 17241"
-generated_at: "2026-03-30T08:59:47.236Z"
+generated_at: "2026-03-30T09:03:18.997Z"
 status: "active"
 ---
 

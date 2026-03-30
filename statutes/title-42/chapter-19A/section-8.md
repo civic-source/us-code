@@ -3,9 +3,9 @@ title: "Section 8 - Repealed. Pub. L. 95–467, title IV, § 410(a) , Oct. 17, 1
 usc_title: 42
 usc_section: "8"
 chapter: 19
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T08:59:46.926Z"
+generated_at: "2026-03-30T09:03:18.694Z"
 status: "repealed"
 ---
 

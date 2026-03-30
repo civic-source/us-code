@@ -3,9 +3,9 @@ title: "Section 6904 - Rulemaking authority of the Secretary of Commerce"
 usc_title: 16
 usc_section: "6904"
 chapter: 88
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 6904"
-generated_at: "2026-03-30T08:58:41.777Z"
+generated_at: "2026-03-30T09:02:16.310Z"
 status: "active"
 ---
 

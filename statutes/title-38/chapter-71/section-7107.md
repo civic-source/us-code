@@ -3,9 +3,9 @@ title: "Section 7107 - Appeals: dockets; hearings"
 usc_title: 38
 usc_section: "7107"
 chapter: 71
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "38 U.S.C. § 7107"
-generated_at: "2026-03-30T08:59:28.820Z"
+generated_at: "2026-03-30T09:02:58.800Z"
 status: "active"
 ---
 
@@ -32,8 +32,13 @@ status: "active"
     - **(A)** at its principal location; or
     - **(B)** by picture and voice transmission at a facility of the Department where the Secretary has provided suitable facilities and equipment to conduct such hearings.
   - **(2)**
-    - **(A)** Upon notification of a Board hearing at the Board’s principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph. If so requested, the Board shall grant such request.
-    - **(B)** Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph. If so requested, the Board shall grant such request.
+    - **(A)** Upon notification of a Board hearing at the Board’s principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
+    - **(B)** Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
+    - **(C)**
+      - **(i)** Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1), the appellant may alternatively request a hearing by picture and voice transmission—
+        - **(I)** at a location selected by the appellant; and
+        - **(II)** via a secure internet platform established and maintained by the Secretary that protects sensitive personal information from a data breach.
+      - **(ii)** If an appellant makes a request under clause (i), the Board shall grant such request.
 - **(d)** Nothing in this section shall be construed to preclude the screening of cases for purposes of—
   - **(1)** determining the adequacy of the record for decisional purposes; or
   - **(2)** the development, or attempted development, of a record found to be inadequate for decisional purposes.

@@ -3,9 +3,9 @@ title: "Section 6211 - Definition of a deficiency"
 usc_title: 26
 usc_section: "6211"
 chapter: 63
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 6211"
-generated_at: "2026-03-30T08:59:14.490Z"
+generated_at: "2026-03-30T09:02:45.439Z"
 status: "active"
 ---
 
@@ -21,6 +21,6 @@ status: "active"
   - **(2)** The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
   - **(3)** The computation by the Secretary, pursuant to section 6014, of the tax imposed by chapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
   - **(4)** For purposes of subsection (a)—
-    - **(A)** any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, and 1 1 So in original. 36B, 168(k)(4) 2 2 See References in Text note below. over the tax imposed by subtitle A (determined without regard to such credits), and
+    - **(A)** any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, and 6428 over the tax imposed by subtitle A (determined without regard to such credits), and
     - **(B)** any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 - **(c)** In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership-related items shall be made only as provided in subchapter C.

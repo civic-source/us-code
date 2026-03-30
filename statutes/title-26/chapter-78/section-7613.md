@@ -3,9 +3,9 @@ title: "Section 7613 - Cross references"
 usc_title: 26
 usc_section: "7613"
 chapter: 78
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 7613"
-generated_at: "2026-03-30T08:59:14.517Z"
+generated_at: "2026-03-30T09:02:45.466Z"
 status: "active"
 ---
 

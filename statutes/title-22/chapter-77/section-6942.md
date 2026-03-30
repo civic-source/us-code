@@ -3,9 +3,9 @@ title: "Section 6942 - Purpose"
 usc_title: 22
 usc_section: "6942"
 chapter: 77
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 6942"
-generated_at: "2026-03-30T08:59:03.894Z"
+generated_at: "2026-03-30T09:02:24.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2533c - Prohibition on acquisition of sensitive materials from n
 usc_title: 10
 usc_section: "2533c"
 chapter: 148
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2533c"
-generated_at: "2026-03-30T08:58:17.483Z"
+generated_at: "2026-03-30T09:01:21.990Z"
 status: "active"
 ---
 

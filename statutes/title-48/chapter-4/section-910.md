@@ -3,9 +3,9 @@ title: "Section 910 - Slum clearance and urban redevelopment and renewal project
 usc_title: 48
 usc_section: "910"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "48 U.S.C. § 910"
-generated_at: "2026-03-30T08:59:51.282Z"
+generated_at: "2026-03-30T09:03:27.912Z"
 status: "active"
 ---
 

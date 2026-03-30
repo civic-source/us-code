@@ -3,9 +3,9 @@ title: "Section 6d - Targeted liability protections for pandemic and epidemic pr
 usc_title: 42
 usc_section: "6d"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 6d"
-generated_at: "2026-03-30T08:59:46.580Z"
+generated_at: "2026-03-30T09:03:18.345Z"
 status: "active"
 ---
 
@@ -126,8 +126,9 @@ status: "active"
 - **(i)** In this section:
   - **(1)** The term “covered countermeasure” means—
     - **(A)** a qualified pandemic or epidemic product (as defined in paragraph (7));
-    - **(B)** a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title ); or
-    - **(C)** a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321(g)(1) ), biological product (as such term is defined by section 262(i) of this title ), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act ( 21 U.S.C. 321(h) ) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 360bbb–3 , 360bbb–3a, 360bbb–3b].
+    - **(B)** a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title );
+    - **(C)** a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321(g)(1) ), biological product (as such term is defined by section 262(i) of this title ), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act ( 21 U.S.C. 321(h) ) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 360bbb–3 , 360bbb–3a, 360bbb–3b]; or
+    - **(D)** a respiratory protective device that is approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or any successor regulations), and that the Secretary determines to be a priority for use during a public health emergency declared under section 247d of this title .
   - **(2)** The term “covered person”, when used with respect to the administration or use of a covered countermeasure, means—
     - **(A)** the United States; or
     - **(B)** a person or entity that is—

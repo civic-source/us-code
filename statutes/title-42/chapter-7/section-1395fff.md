@@ -3,9 +3,9 @@ title: "Section 1395fff - Prospective payment for home health services"
 usc_title: 42
 usc_section: "1395fff"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 1395fff"
-generated_at: "2026-03-30T08:59:46.842Z"
+generated_at: "2026-03-30T09:03:18.606Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
     - **(B)** The estimated total amount of additional payments or payment adjustments made under subparagraph (A) with respect to a home health agency for a year (beginning with 2011) may not exceed an amount equal to 10 percent of the estimated total amount of payments made under this section (without regard to this paragraph) with respect to the home health agency for the year.
   - **(6)** If a beneficiary elects to transfer to, or receive services from, another home health agency within the period covered by the prospective payment amount, the payment shall be prorated between the home health agencies involved.
 - **(c)** With respect to home health services furnished on or after October 1, 1998 , no claim for such a service may be paid under this subchapter unless—
-  - **(1)** the claim has the unique identifier (provided under section 1395u(r) of this title ) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
+  - **(1)** the claim has the unique identifier for the physician 2 the nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title ), or the physician assistant (as defined in section 1395x(aa)(5) of this title ) who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
   - **(2)** in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title , the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments; and
   - **(3)** in the case of home health services furnished on or after January 1, 2019 , the claim contains the code for the county (or equivalent area) in which the home health service was furnished.
 - **(d)** There shall be no administrative or judicial review under section 1395ff of this title , 1395 oo of this title, or otherwise of—
@@ -77,6 +77,6 @@ status: "active"
   - **(6)** the establishment of any adjustments for outliers under subsection (b)(5).
 - **(e)**
   - **(1)** Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
-    - **(A)** do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+    - **(A)** do not substitute for in-person home health services ordered as part of a plan of care certified by a physician 2 a nurse practitioner or clinical nurse specialist, or a physician assistant pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
     - **(B)** are not considered a home health visit for purposes of eligibility or payment under this subchapter.
-  - **(2)** Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+  - **(2)** Nothing in this section shall be construed as waiving the requirement for a certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.

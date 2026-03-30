@@ -3,9 +3,9 @@ title: "Section 426b - Applicability of existing laws; projects referred to Boar
 usc_title: 33
 usc_section: "426b"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 426b"
-generated_at: "2026-03-30T08:59:20.754Z"
+generated_at: "2026-03-30T09:02:53.350Z"
 status: "active"
 ---
 

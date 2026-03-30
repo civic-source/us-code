@@ -3,9 +3,9 @@ title: "Section 81 - Statistics on apparel and textile industries"
 usc_title: 13
 usc_section: "81"
 chapter: 3
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "13 U.S.C. § 81"
-generated_at: "2026-03-30T08:58:29.072Z"
+generated_at: "2026-03-30T09:01:40.572Z"
 status: "active"
 ---
 

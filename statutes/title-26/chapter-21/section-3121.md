@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-30T08:59:14.442Z"
+generated_at: "2026-03-30T09:02:45.391Z"
 status: "active"
 ---
 
@@ -228,7 +228,7 @@ status: "active"
     - **(B)** service performed by an individual as a member of a uniformed service on inactive duty training.
   - **(2)** The term “active duty” means “active duty” as described in paragraph (21) of section 101 of title 38 , United States Code, except that it shall also include “active duty for training” as described in paragraph (22) of such section.
   - **(3)** The term “inactive duty training” means “inactive duty training” as described in paragraph (23) of such section 101.
-- **(n)** For purposes of this chapter, the term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38 , United States Code), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
+- **(n)** For purposes of this chapter, the term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38 , United States Code), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps 2 2 See Change of Name note below. of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
   - **(1)** a retired member of any of those services;
   - **(2)** a member of the Fleet Reserve or Fleet Marine Corps Reserve;
   - **(3)** a cadet at the United States Military Academy, a midshipman at the United States Naval Academy, and a cadet at the United States Coast Guard Academy or United States Air Force Academy;

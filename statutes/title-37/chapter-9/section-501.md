@@ -3,9 +3,9 @@ title: "Section 501 - Payments for unused accrued leave"
 usc_title: 37
 usc_section: "501"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "37 U.S.C. § 501"
-generated_at: "2026-03-30T08:59:26.801Z"
+generated_at: "2026-03-30T09:02:55.590Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(1)** A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.
   - **(2)** The Secretary concerned may require that a member of a uniformed service who is discharged before completing six months of active duty because of a failure to serve satisfactorily (as determined by the Secretary concerned) forfeit all accrued leave to his credit at the time of his discharge.
 - **(f)** The number of days upon which payment under subsection (b) or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976 . For the purposes of this subsection, the number of days upon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
-- **(g)** An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
+- **(g)** An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
   - **(1)** whose appointment expires or is terminated and who, without a break in active service, accepts a new appointment;
   - **(2)** who is retired for age in time of war and is continued on, or recalled to, active duty without a break in active service; or
   - **(3)** who is transferred to another department or agency of the United States under circumstances in which, by any other law, his leave may be transferred.

@@ -3,9 +3,9 @@ title: "Section 612c - Appropriation to encourage exportation and domestic consu
 usc_title: 7
 usc_section: "612c"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 612c"
-generated_at: "2026-03-30T08:58:19.782Z"
+generated_at: "2026-03-30T09:01:37.479Z"
 status: "active"
 ---
 

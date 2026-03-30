@@ -3,13 +3,13 @@ title: "Section 298d - Authorization of appropriations"
 usc_title: 42
 usc_section: "298d"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 298d"
-generated_at: "2026-03-30T08:59:46.648Z"
+generated_at: "2026-03-30T09:03:18.412Z"
 status: "active"
 ---
 
 # § 298d. Authorization of appropriations
 
-For the purpose of carrying out parts B, C, and D (subject to section 297t(g) of this title ), there are authorized to be appropriated $338,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2016.
-
+- **(a)** For the purpose of carrying out parts B, C, and D (subject to section 297t(g) of this title ), there are authorized to be appropriated $137,837,000 for each of fiscal years 2021 through 2025.
+- **(b)** For the purpose of carrying out part E, there are authorized to be appropriated $117,135,000 for each of the fiscal years 2021 through 2025.

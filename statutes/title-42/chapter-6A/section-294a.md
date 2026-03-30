@@ -3,9 +3,9 @@ title: "Section 294a - Area health education centers"
 usc_title: 42
 usc_section: "294a"
 chapter: 6
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 294a"
-generated_at: "2026-03-30T08:59:46.641Z"
+generated_at: "2026-03-30T09:03:18.405Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
   - **(2)** The periods described in paragraph (1) shall not apply to programs receiving point of service maintenance and enhancement awards under subsection (a)(2) to maintain existing centers and activities.
 - **(i)** Notwithstanding any other provision of this subchapter, section 295j(a) of this title shall not apply to an area health education center funded under this section.
 - **(j)**
-  - **(1)** There is authorized to be appropriated to carry out this section $125,000,000 for each of the fiscal years 2010 through 2014.
+  - **(1)** There is authorized to be appropriated to carry out this section $41,250,000 for each of fiscal years 2021 through 2025.
   - **(2)** Of the amounts appropriated for a fiscal year under paragraph (1)—
     - **(A)** not more than 35 percent shall be used for awards under subsection (a)(1);
     - **(B)** not less than 60 percent shall be used for awards under subsection (a)(2);

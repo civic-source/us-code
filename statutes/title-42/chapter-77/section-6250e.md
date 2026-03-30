@@ -3,9 +3,9 @@ title: "Section 6250e - Repealed. Pub. L. 109–58, title III, § 301(a)(2) , Au
 usc_title: 42
 usc_section: "6250e"
 chapter: 77
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 6250e"
-generated_at: "2026-03-30T08:59:47.027Z"
+generated_at: "2026-03-30T09:03:18.793Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5756 - Home marketing incentive payment"
 usc_title: 5
 usc_section: "5756"
 chapter: 57
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "5 U.S.C. § 5756"
-generated_at: "2026-03-30T08:58:09.217Z"
+generated_at: "2026-03-30T09:01:05.465Z"
 status: "active"
 ---
 

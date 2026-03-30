@@ -3,9 +3,9 @@ title: "Section 321n - Acceptance of gifts"
 usc_title: 6
 usc_section: "321n"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "6 U.S.C. § 321n"
-generated_at: "2026-03-30T08:58:12.300Z"
+generated_at: "2026-03-30T09:01:10.350Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
     - **(A)** any gifts that were accepted under this section during the year covered by the report;
     - **(B)** how the gifts contribute to the mission of the Center for Domestic Preparedness; and
     - **(C)** the amount of Federal savings that were generated from the acceptance of the gifts.
-  - **(2)** Each report required under paragraph (1) shall be made publically 1 1 So in original. Probably should be “publicly”. available.
+  - **(2)** Each report required under paragraph (1) shall be made publically available.

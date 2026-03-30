@@ -3,9 +3,9 @@ title: "Section 1732 - Management of use, occupancy, and development of public l
 usc_title: 43
 usc_section: "1732"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "43 U.S.C. § 1732"
-generated_at: "2026-03-30T08:59:31.477Z"
+generated_at: "2026-03-30T09:03:01.794Z"
 status: "active"
 ---
 

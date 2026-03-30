@@ -3,9 +3,9 @@ title: "Section 1422 - Safety of life and property at sea"
 usc_title: 30
 usc_section: "1422"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "30 U.S.C. § 1422"
-generated_at: "2026-03-30T08:59:08.739Z"
+generated_at: "2026-03-30T09:02:33.848Z"
 status: "active"
 ---
 

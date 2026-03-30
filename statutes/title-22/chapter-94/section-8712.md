@@ -3,9 +3,9 @@ title: "Section 8712 - Diplomatic efforts to expand multilateral sanctions regim
 usc_title: 22
 usc_section: "8712"
 chapter: 94
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 8712"
-generated_at: "2026-03-30T08:59:03.913Z"
+generated_at: "2026-03-30T09:02:24.421Z"
 status: "active"
 ---
 

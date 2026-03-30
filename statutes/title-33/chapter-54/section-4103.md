@@ -3,9 +3,9 @@ title: "Section 4103 - Regular assessment of unmanned maritime systems to suppor
 usc_title: 33
 usc_section: "4103"
 chapter: 54
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 4103"
-generated_at: "2026-03-30T08:59:20.829Z"
+generated_at: "2026-03-30T09:02:53.423Z"
 status: "active"
 ---
 

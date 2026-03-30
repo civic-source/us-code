@@ -3,9 +3,9 @@ title: "Section 3006 - Affidavit requirements"
 usc_title: 28
 usc_section: "3006"
 chapter: 176
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 3006"
-generated_at: "2026-03-30T08:59:09.380Z"
+generated_at: "2026-03-30T09:02:38.952Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7654 - Pilot program of assistance for children and families aff
 usc_title: 22
 usc_section: "7654"
 chapter: 83
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "22 U.S.C. § 7654"
-generated_at: "2026-03-30T08:59:03.903Z"
+generated_at: "2026-03-30T09:02:24.412Z"
 status: "active"
 ---
 

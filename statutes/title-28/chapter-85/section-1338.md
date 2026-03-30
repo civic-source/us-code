@@ -3,9 +3,9 @@ title: "Section 1338 - Patents, plant variety protection, copyrights, mask works
 usc_title: 28
 usc_section: "1338"
 chapter: 85
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 1338"
-generated_at: "2026-03-30T08:59:09.368Z"
+generated_at: "2026-03-30T09:02:38.940Z"
 status: "active"
 ---
 

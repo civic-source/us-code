@@ -3,9 +3,9 @@ title: "Section 8990 - Studies, reports, and audits"
 usc_title: 5
 usc_section: "8990"
 chapter: 89
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "5 U.S.C. § 8990"
-generated_at: "2026-03-30T08:58:09.245Z"
+generated_at: "2026-03-30T09:01:05.515Z"
 status: "active"
 ---
 

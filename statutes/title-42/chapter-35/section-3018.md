@@ -3,9 +3,9 @@ title: "Section 3018 - Reports to Congress"
 usc_title: 42
 usc_section: "3018"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 3018"
-generated_at: "2026-03-30T08:59:46.964Z"
+generated_at: "2026-03-30T09:03:18.731Z"
 status: "active"
 ---
 
@@ -24,10 +24,10 @@ status: "active"
     - **(D)** making recommendations regarding legislation and administrative actions to resolve such problems.
   - **(2)** The Assistant Secretary shall submit the report required by paragraph (1) to—
     - **(A)** the Special Committee on Aging of the Senate;
-    - **(B)** the Committee on Education and the Workforce of the House of Representatives; and
+    - **(B)** the Committee on Education and Labor of the House of Representatives; and
     - **(C)** the Committee on Health, Education, Labor, and Pensions of the Senate.
   - **(3)** The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI in accordance with section 3058g(h)(1) of this title available, to—
-    - **(A)** the Administrator of the Health Care Finance Administration;
+    - **(A)** the Administrator of the Centers for Medicare & Medicaid Services;
     - **(B)** the Office of the Inspector General of the Department of Health and Human Services;
     - **(C)** the Office of Civil Rights of the Department of Health and Human Services;
     - **(D)** the Secretary of Veterans Affairs; and
@@ -38,3 +38,9 @@ status: "active"
   - **(3)** the cost of such activities in terms of the number of individuals reached and the dollar amount described in paragraph (2);
   - **(4)** the effect of such activities on supportive services and nutrition services furnished under subchapter III of this chapter; and
   - **(5)** the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas) to receive services under this chapter.
+- **(d)** The Assistant Secretary shall provide the evaluation required under section 3017(b) of this title to—
+  - **(1)** the Committee on Health, Education, Labor, and Pensions of the Senate;
+  - **(2)** the Committee on Appropriations of the Senate;
+  - **(3)** the Special Committee on Aging of the Senate;
+  - **(4)** the Committee on Education and Labor of the House of Representatives; and
+  - **(5)** the Committee on Appropriations of the House of Representatives.

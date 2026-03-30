@@ -3,9 +3,9 @@ title: "Section 10211 - Policies and regulations: participation of Reserve offic
 usc_title: 10
 usc_section: "10211"
 chapter: 1007
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 10211"
-generated_at: "2026-03-30T08:58:17.526Z"
+generated_at: "2026-03-30T09:01:22.034Z"
 status: "active"
 ---
 

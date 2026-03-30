@@ -3,9 +3,9 @@ title: "Section 421 - Rights and protections under the Americans with Disabiliti
 usc_title: 3
 usc_section: "421"
 chapter: 5
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "3 U.S.C. § 421"
-generated_at: "2026-03-30T08:58:06.990Z"
+generated_at: "2026-03-30T09:00:14.692Z"
 status: "active"
 ---
 

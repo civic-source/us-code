@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T08:59:14.345Z"
+generated_at: "2026-03-30T09:02:45.296Z"
 status: "active"
 ---
 
@@ -88,6 +88,17 @@ status: "active"
         - **(II)** all of the beneficiaries of which are treated as designated beneficiaries for purposes of determining the distribution period pursuant to this paragraph, and
         - **(III)** at least one of the beneficiaries of which is an eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii).
       - **(vi)** For purposes of applying the provisions of this subparagraph in determining amounts required to be distributed pursuant to this paragraph, all eligible retirement plans (as defined in section 402(c)(8)(B), other than a defined benefit plan described in clause (iv) or (v) thereof or a qualified trust which is a part of a defined benefit plan) shall be treated as a defined contribution plan.
+    - **(I)**
+      - **(i)** The requirements of this paragraph shall not apply for calendar year 2020 to—
+        - **(I)** a defined contribution plan which is described in this subsection or in section 403(a) or 403(b),
+        - **(II)** a defined contribution plan which is an eligible deferred compensation plan described in section 457(b) but only if such plan is maintained by an employer described in section 457(e)(1)(A), or
+        - **(III)** an individual retirement plan.
+      - **(ii)** Clause (i) shall apply to any distribution which is required to be made in calendar year 2020 by reason of—
+        - **(I)** a required beginning date occurring in such calendar year, and
+        - **(II)** such distribution not having been made before January 1, 2020 .
+      - **(iii)** For purposes of this paragraph—
+        - **(I)** the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2020, and
+        - **(II)** if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2020.
   - **(10)**
     - **(A)** In the case of any plan which provides contributions or benefits for employees some or all of whom are owner-employees (as defined in subsection (c)(3)), a trust forming part of such plan shall constitute a qualified trust under this section only if the requirements of subsection (d) are also met.
     - **(B)**

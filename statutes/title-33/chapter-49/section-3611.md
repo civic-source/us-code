@@ -3,9 +3,9 @@ title: "Section 3611 - Assessing and modeling named storms over coastal States"
 usc_title: 33
 usc_section: "3611"
 chapter: 49
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 3611"
-generated_at: "2026-03-30T08:59:20.825Z"
+generated_at: "2026-03-30T09:02:53.420Z"
 status: "active"
 ---
 

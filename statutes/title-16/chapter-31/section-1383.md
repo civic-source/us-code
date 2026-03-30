@@ -3,9 +3,9 @@ title: "Section 1383 - Application to other treaties and conventions"
 usc_title: 16
 usc_section: "1383"
 chapter: 31
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 1383"
-generated_at: "2026-03-30T08:58:41.709Z"
+generated_at: "2026-03-30T09:02:16.240Z"
 status: "active"
 ---
 

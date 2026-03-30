@@ -3,9 +3,9 @@ title: "Section 70k - Application of other laws"
 usc_title: 15
 usc_section: "70k"
 chapter: 2
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 70k"
-generated_at: "2026-03-30T08:58:32.963Z"
+generated_at: "2026-03-30T09:02:00.890Z"
 status: "active"
 ---
 

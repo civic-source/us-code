@@ -3,9 +3,9 @@ title: "Section 6013 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6013"
 chapter: 89
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 6013"
-generated_at: "2026-03-30T08:58:19.883Z"
+generated_at: "2026-03-30T09:01:37.577Z"
 status: "active"
 ---
 

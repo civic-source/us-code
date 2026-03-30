@@ -3,9 +3,9 @@ title: "Section 7257d - Expanded research by Secretary of Energy"
 usc_title: 42
 usc_section: "7257d"
 chapter: 84
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 7257d"
-generated_at: "2026-03-30T08:59:47.062Z"
+generated_at: "2026-03-30T09:03:18.827Z"
 status: "active"
 ---
 

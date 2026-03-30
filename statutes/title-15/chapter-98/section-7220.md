@@ -3,9 +3,9 @@ title: "Section 7220 - Definitions"
 usc_title: 15
 usc_section: "7220"
 chapter: 98
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 7220"
-generated_at: "2026-03-30T08:58:33.128Z"
+generated_at: "2026-03-30T09:02:01.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10003 - Uses of funds by local educational agencies"
 usc_title: 20
 usc_section: "10003"
 chapter: 80
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 10003"
-generated_at: "2026-03-30T08:58:44.733Z"
+generated_at: "2026-03-30T09:02:18.000Z"
 status: "active"
 ---
 

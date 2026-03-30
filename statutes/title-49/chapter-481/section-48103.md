@@ -3,9 +3,9 @@ title: "Section 48103 - Airport planning and development and noise compatibility
 usc_title: 49
 usc_section: "48103"
 chapter: 481
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "49 U.S.C. § 48103"
-generated_at: "2026-03-30T08:59:54.834Z"
+generated_at: "2026-03-30T09:03:31.243Z"
 status: "active"
 ---
 

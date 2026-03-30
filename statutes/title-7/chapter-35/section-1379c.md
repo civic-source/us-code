@@ -3,9 +3,9 @@ title: "Section 1379c - Marketing certificates"
 usc_title: 7
 usc_section: "1379c"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "7 U.S.C. § 1379c"
-generated_at: "2026-03-30T08:58:19.796Z"
+generated_at: "2026-03-30T09:01:37.492Z"
 status: "active"
 ---
 

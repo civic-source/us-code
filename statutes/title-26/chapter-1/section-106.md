@@ -3,9 +3,9 @@ title: "Section 106 - Contributions by employer to accident and health plans"
 usc_title: 26
 usc_section: "106"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 106"
-generated_at: "2026-03-30T08:59:14.308Z"
+generated_at: "2026-03-30T09:02:45.259Z"
 status: "active"
 ---
 
@@ -48,5 +48,5 @@ status: "active"
     - **(B)**
       - **(i)** Except as provided in clause (ii), section 4980G shall not apply to qualified HSA distributions.
       - **(ii)** In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
-- **(f)** For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+- **(f)** For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
 - **(g)** For purposes of this section and section 105, payments or reimbursements from a qualified small employer health reimbursement arrangement (as defined in section 9831(d)) of an individual for medical care (as defined in section 213(d)) shall not be treated as paid or reimbursed under employer-provided coverage for medical expenses under an accident or health plan if for the month in which such medical care is provided the individual does not have minimum essential coverage (within the meaning of section 5000A(f)).

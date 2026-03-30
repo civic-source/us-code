@@ -3,9 +3,9 @@ title: "Section 790e - Coordination by Director of energy information gathering 
 usc_title: 15
 usc_section: "790e"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 790e"
-generated_at: "2026-03-30T08:58:33.043Z"
+generated_at: "2026-03-30T09:02:00.967Z"
 status: "active"
 ---
 

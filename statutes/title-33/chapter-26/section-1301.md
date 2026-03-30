@@ -3,9 +3,9 @@ title: "Section 1301 - Sewer overflow and stormwater reuse municipal grants"
 usc_title: 33
 usc_section: "1301"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 1301"
-generated_at: "2026-03-30T08:59:20.783Z"
+generated_at: "2026-03-30T09:02:53.379Z"
 status: "active"
 ---
 

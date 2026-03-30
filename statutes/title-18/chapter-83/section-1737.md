@@ -3,9 +3,9 @@ title: "Section 1737 - Manufacturer of sexually related mail matter"
 usc_title: 18
 usc_section: "1737"
 chapter: 83
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "18 U.S.C. § 1737"
-generated_at: "2026-03-30T08:58:42.687Z"
+generated_at: "2026-03-30T09:02:11.821Z"
 status: "active"
 ---
 

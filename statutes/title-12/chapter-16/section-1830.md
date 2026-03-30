@@ -3,9 +3,9 @@ title: "Section 1830 - Nondiscrimination"
 usc_title: 12
 usc_section: "1830"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 1830"
-generated_at: "2026-03-30T08:58:34.852Z"
+generated_at: "2026-03-30T09:02:08.188Z"
 status: "active"
 ---
 

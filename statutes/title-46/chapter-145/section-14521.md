@@ -3,9 +3,9 @@ title: "Section 14521 - Application"
 usc_title: 46
 usc_section: "14521"
 chapter: 145
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "46 U.S.C. § 14521"
-generated_at: "2026-03-30T08:59:50.942Z"
+generated_at: "2026-03-30T09:03:28.700Z"
 status: "active"
 ---
 

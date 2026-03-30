@@ -3,9 +3,9 @@ title: "Section 10744 - Continuous carriage of freight"
 usc_title: 49
 usc_section: "10744"
 chapter: 107
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "49 U.S.C. § 10744"
-generated_at: "2026-03-30T08:59:54.773Z"
+generated_at: "2026-03-30T09:03:31.175Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 103 - Applicability of chapters"
 usc_title: 11
 usc_section: "103"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-30T08:58:29.761Z"
+generated_at: "2026-03-30T09:01:50.839Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
 - **(f)** Except as provided in section 901 of this title , only chapters 1 and 9 of this title apply in a case under such chapter 9.
 - **(g)** Except as provided in section 901 of this title , subchapters I, II, and III of chapter 11 of this title apply only in a case under such chapter.
 - **(h)** Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
-- **(i)** Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a small business debtor elects that subchapter V of chapter 11 shall apply.
+- **(i)** Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a debtor (as defined in section 1182) elects that subchapter V of chapter 11 shall apply.
 - **(j)** Chapter 13 of this title applies only in a case under such chapter.
 - **(k)** Chapter 12 of this title applies only in a case under such chapter.
 - **(l)** Chapter 15 applies only in a case under such chapter, except that—

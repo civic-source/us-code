@@ -3,9 +3,9 @@ title: "Section 56504 - Changes in adjustments and arrangements"
 usc_title: 46
 usc_section: "56504"
 chapter: 565
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "46 U.S.C. § 56504"
-generated_at: "2026-03-30T08:59:50.957Z"
+generated_at: "2026-03-30T09:03:28.717Z"
 status: "active"
 ---
 

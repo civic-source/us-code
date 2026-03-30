@@ -3,9 +3,9 @@ title: "Section 5603 - Establishment of Morris K. Udall and Stewart L. Udall Fou
 usc_title: 20
 usc_section: "5603"
 chapter: 66
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 5603"
-generated_at: "2026-03-30T08:58:44.692Z"
+generated_at: "2026-03-30T09:02:17.960Z"
 status: "active"
 ---
 

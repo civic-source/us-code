@@ -3,9 +3,9 @@ title: "Section 8258b - Survey of energy saving potential"
 usc_title: 42
 usc_section: "8258b"
 chapter: 91
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 8258b"
-generated_at: "2026-03-30T08:59:47.105Z"
+generated_at: "2026-03-30T09:03:18.870Z"
 status: "active"
 ---
 

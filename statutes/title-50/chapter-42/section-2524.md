@@ -3,9 +3,9 @@ title: "Section 2524 - Stockpile management program"
 usc_title: 50
 usc_section: "2524"
 chapter: 42
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "50 U.S.C. § 2524"
-generated_at: "2026-03-30T08:59:52.828Z"
+generated_at: "2026-03-30T09:03:23.644Z"
 status: "active"
 ---
 

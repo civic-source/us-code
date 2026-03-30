@@ -3,9 +3,9 @@ title: "Section 8222 - Authorization of appropriations"
 usc_title: 38
 usc_section: "8222"
 chapter: 82
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "38 U.S.C. § 8222"
-generated_at: "2026-03-30T08:59:28.834Z"
+generated_at: "2026-03-30T09:02:58.814Z"
 status: "active"
 ---
 

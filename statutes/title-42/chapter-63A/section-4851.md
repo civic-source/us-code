@@ -3,9 +3,9 @@ title: "Section 4851 - Findings"
 usc_title: 42
 usc_section: "4851"
 chapter: 63
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 4851"
-generated_at: "2026-03-30T08:59:46.997Z"
+generated_at: "2026-03-30T09:03:18.764Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5514 - Regulations"
 usc_title: 42
 usc_section: "5514"
 chapter: 71
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 5514"
-generated_at: "2026-03-30T08:59:47.019Z"
+generated_at: "2026-03-30T09:03:18.785Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 354 - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [t
 usc_title: 20
 usc_section: "354"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 354"
-generated_at: "2026-03-30T08:58:44.600Z"
+generated_at: "2026-03-30T09:02:17.869Z"
 status: "repealed"
 ---
 

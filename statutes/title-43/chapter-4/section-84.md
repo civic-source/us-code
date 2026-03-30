@@ -3,9 +3,9 @@ title: "Section 84 - Repealed. Pub. L. 86–649, title II, § 202(b) , July 14, 
 usc_title: 43
 usc_section: "84"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "43 U.S.C. § 84"
-generated_at: "2026-03-30T08:59:31.433Z"
+generated_at: "2026-03-30T09:03:01.750Z"
 status: "repealed"
 ---
 

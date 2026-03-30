@@ -3,9 +3,9 @@ title: "Section 1287 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1287"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 1287"
-generated_at: "2026-03-30T08:59:20.782Z"
+generated_at: "2026-03-30T09:02:53.378Z"
 status: "active"
 ---
 

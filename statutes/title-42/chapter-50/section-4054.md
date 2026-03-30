@@ -3,9 +3,9 @@ title: "Section 4054 - Premium equalization payments; basis; aggregate amount; e
 usc_title: 42
 usc_section: "4054"
 chapter: 50
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 4054"
-generated_at: "2026-03-30T08:59:46.987Z"
+generated_at: "2026-03-30T09:03:18.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 75e - Omitted"
 usc_title: 2
 usc_section: "75e"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "2 U.S.C. § 75e"
-generated_at: "2026-03-30T08:58:09.907Z"
+generated_at: "2026-03-30T09:00:22.837Z"
 status: "omitted"
 ---
 

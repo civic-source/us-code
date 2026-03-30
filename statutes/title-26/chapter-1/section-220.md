@@ -3,9 +3,9 @@ title: "Section 220 - Archer MSAs"
 usc_title: 26
 usc_section: "220"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 220"
-generated_at: "2026-03-30T08:59:14.332Z"
+generated_at: "2026-03-30T09:02:45.282Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
     - **(D)** The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
     - **(E)** The interest of an individual in the balance in his account is nonforfeitable.
   - **(2)**
-    - **(A)** The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+    - **(A)** The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as paid for medical care.
     - **(B)**
       - **(i)** Subparagraph (A) shall not apply to any payment for insurance.
       - **(ii)** Clause (i) shall not apply to any expense for coverage under—

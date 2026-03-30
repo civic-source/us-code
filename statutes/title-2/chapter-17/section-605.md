@@ -3,9 +3,9 @@ title: "Section 605 - Sale or lease of property, supplies, or services"
 usc_title: 2
 usc_section: "605"
 chapter: 17
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "2 U.S.C. § 605"
-generated_at: "2026-03-30T08:58:09.918Z"
+generated_at: "2026-03-30T09:00:22.852Z"
 status: "active"
 ---
 

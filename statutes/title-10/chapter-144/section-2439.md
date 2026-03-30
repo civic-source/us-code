@@ -3,9 +3,9 @@ title: "Section 2439 - Negotiation of price for technical data before developmen
 usc_title: 10
 usc_section: "2439"
 chapter: 144
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2439"
-generated_at: "2026-03-30T08:58:17.478Z"
+generated_at: "2026-03-30T09:01:21.984Z"
 status: "active"
 ---
 

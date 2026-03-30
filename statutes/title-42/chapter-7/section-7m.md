@@ -3,9 +3,9 @@ title: "Section 7m - Use of predictive modeling and other analytics technologies
 usc_title: 42
 usc_section: "7m"
 chapter: 7
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 7m"
-generated_at: "2026-03-30T08:59:46.754Z"
+generated_at: "2026-03-30T09:03:18.516Z"
 status: "active"
 ---
 

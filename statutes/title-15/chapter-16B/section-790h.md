@@ -3,9 +3,9 @@ title: "Section 790h - Congressional access to energy information; disclosure by
 usc_title: 15
 usc_section: "790h"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 790h"
-generated_at: "2026-03-30T08:58:33.044Z"
+generated_at: "2026-03-30T09:02:00.967Z"
 status: "active"
 ---
 

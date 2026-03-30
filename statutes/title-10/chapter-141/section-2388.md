@@ -3,9 +3,9 @@ title: "Section 2388 - Renumbered § 2922]"
 usc_title: 10
 usc_section: "2388"
 chapter: 141
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2388"
-generated_at: "2026-03-30T08:58:17.474Z"
+generated_at: "2026-03-30T09:01:21.981Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2607 - Acceptance of gifts for the Defense Intelligence College"
 usc_title: 10
 usc_section: "2607"
 chapter: 155
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2607"
-generated_at: "2026-03-30T08:58:17.486Z"
+generated_at: "2026-03-30T09:01:21.993Z"
 status: "active"
 ---
 

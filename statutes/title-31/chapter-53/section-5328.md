@@ -3,9 +3,9 @@ title: "Section 5328 - Whistleblower protections"
 usc_title: 31
 usc_section: "5328"
 chapter: 53
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "31 U.S.C. § 5328"
-generated_at: "2026-03-30T08:59:22.409Z"
+generated_at: "2026-03-30T09:02:48.785Z"
 status: "active"
 ---
 

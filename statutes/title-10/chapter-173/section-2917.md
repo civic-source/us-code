@@ -3,9 +3,9 @@ title: "Section 2917 - Development of geothermal energy on military lands"
 usc_title: 10
 usc_section: "2917"
 chapter: 173
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "10 U.S.C. § 2917"
-generated_at: "2026-03-30T08:58:17.499Z"
+generated_at: "2026-03-30T09:01:22.007Z"
 status: "active"
 ---
 

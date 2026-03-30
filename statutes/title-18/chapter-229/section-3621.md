@@ -3,9 +3,9 @@ title: "Section 3621 - Imprisonment of a convicted person"
 usc_title: 18
 usc_section: "3621"
 chapter: 229
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "18 U.S.C. § 3621"
-generated_at: "2026-03-30T08:58:42.713Z"
+generated_at: "2026-03-30T09:02:11.847Z"
 status: "active"
 ---
 
@@ -49,8 +49,15 @@ status: "active"
   - **(2)** At least 1 sex offender management program under paragraph (1)(A), and at least one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
   - **(3)** There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 - **(g)**
-  - **(1)** In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
-  - **(2)** In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+  - **(1)** The term “demonstrated to reduce recidivism” means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
+  - **(2)** A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
+  - **(3)** The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
+  - **(4)** The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
+    - **(A)** details, for each prison and community-based facility for the fiscal year just ended—
+      - **(i)** the number of recidivism reduction partnerships under this section that were in effect;
+      - **(ii)** the number of volunteers that provided recidivism reduction programming; and
+      - **(iii)** the number of recidivism reduction programming hours provided; and
+    - **(B)** explains any disparities between facilities in the numbers reported under subparagraph (A).
 - **(h)**
   - **(1)** Not later than 180 days after the Attorney General completes and releases the risk and needs assessment system (referred to in this subsection as the “System”) developed under subchapter D, the Director of the Bureau of Prisons shall, in accordance with that subchapter—
     - **(A)** implement and complete the initial intake risk and needs assessment for each prisoner (including for each prisoner who was a prisoner prior to the effective date of this subsection), regardless of the prisoner’s length of imposed term of imprisonment, and begin to assign prisoners to appropriate evidence-based recidivism reduction programs based on that determination;
@@ -72,3 +79,6 @@ status: "active"
     - **(D)** Industry-sponsored organizations that will deliver workforce development and training, on a paid or volunteer basis.
   - **(6)** The Director of the Bureau of Prisons shall provide all prisoners with the opportunity to actively participate in evidence-based recidivism reduction programs or productive activities, according to their specific criminogenic needs, throughout their entire term of incarceration. Priority for participation in recidivism reduction programs shall be given to medium-risk and high-risk prisoners, with access to productive activities given to minimum-risk and low-risk prisoners.
   - **(7)** The terms in this subsection have the meaning given those terms in section 3635.
+- **(i)**
+  - **(1)** In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+  - **(2)** In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.

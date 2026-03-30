@@ -3,9 +3,9 @@ title: "Section 16676 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16676"
 chapter: 150
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 16676"
-generated_at: "2026-03-30T08:59:47.230Z"
+generated_at: "2026-03-30T09:03:18.991Z"
 status: "repealed"
 ---
 

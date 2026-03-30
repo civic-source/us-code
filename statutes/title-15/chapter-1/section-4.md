@@ -3,9 +3,9 @@ title: "Section 4 - Direct payment procedure"
 usc_title: 15
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T08:58:32.993Z"
+generated_at: "2026-03-30T09:02:00.919Z"
 status: "active"
 ---
 

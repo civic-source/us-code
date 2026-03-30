@@ -3,9 +3,9 @@ title: "Section 1070h - Scholarships for veteran’s dependents"
 usc_title: 20
 usc_section: "1070h"
 chapter: 28
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 1070h"
-generated_at: "2026-03-30T08:58:44.621Z"
+generated_at: "2026-03-30T09:02:17.890Z"
 status: "active"
 ---
 

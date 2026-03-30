@@ -3,9 +3,9 @@ title: "Section 5d - Authorization of Secretary of the Army to contract with Sta
 usc_title: 42
 usc_section: "5d"
 chapter: 19
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 5d"
-generated_at: "2026-03-30T08:59:46.928Z"
+generated_at: "2026-03-30T09:03:18.695Z"
 status: "active"
 ---
 

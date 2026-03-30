@@ -3,9 +3,9 @@ title: "Section 958 - Cooperation with other agencies"
 usc_title: 16
 usc_section: "958"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 958"
-generated_at: "2026-03-30T08:58:41.692Z"
+generated_at: "2026-03-30T09:02:16.222Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 483 - Application of other laws; existing rights and remedies; e
 usc_title: 29
 usc_section: "483"
 chapter: 11
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "29 U.S.C. § 483"
-generated_at: "2026-03-30T08:59:17.610Z"
+generated_at: "2026-03-30T09:02:40.332Z"
 status: "active"
 ---
 

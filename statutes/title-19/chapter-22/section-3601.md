@@ -3,9 +3,9 @@ title: "Section 3601 - Administration of tariff-rate quotas"
 usc_title: 19
 usc_section: "3601"
 chapter: 22
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "19 U.S.C. § 3601"
-generated_at: "2026-03-30T08:58:57.628Z"
+generated_at: "2026-03-30T09:02:13.794Z"
 status: "active"
 ---
 

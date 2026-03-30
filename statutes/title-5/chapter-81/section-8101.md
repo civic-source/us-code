@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T08:58:09.225Z"
+generated_at: "2026-03-30T09:01:05.482Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ For the purpose of this subchapter—
     - **(F)** an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
     - **(G)** an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act;
       - **(i)** a commissioned officer of the Regular Corps of the Public Health Service;
-      - **(ii)** a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
+      - **(ii)** a commissioned officer of the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service on active duty;
       - **(iii)** a commissioned officer of the Environmental Science Services Administration; or
       - **(iv)** a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521–535 of title 4, District of Columbia Code; and
   - **(2)** “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;

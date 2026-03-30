@@ -3,9 +3,9 @@ title: "Section 8331 - Definitions"
 usc_title: 5
 usc_section: "8331"
 chapter: 83
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "5 U.S.C. § 8331"
-generated_at: "2026-03-30T08:58:09.228Z"
+generated_at: "2026-03-30T09:01:05.487Z"
 status: "active"
 ---
 
@@ -69,7 +69,7 @@ For the purpose of this subchapter—
   - **(12)** “service” means employment creditable under section 8332 of this title ;
   - **(13)** “military service” means honorable active service—
     - **(A)** in the armed forces;
-    - **(B)** in the Regular or Reserve Corps of the Public Health Service after June 30, 1960 ; or
+    - **(B)** in the Regular or Reserve Corps 2 2 See Change of Name note below. of the Public Health Service after June 30, 1960 ; or
     - **(C)** as a commissioned officer of the Environmental Science Services Administration after June 30, 1961 ;
   - **(14)** “Member service” means service as a Member and includes the period from the date of the beginning of the term for which elected or appointed to the date on which he takes office as a Member;
   - **(15)** “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics;
@@ -110,5 +110,6 @@ For the purpose of this subchapter—
   - **(30)** the term “air traffic controller” or “controller” means—
     - **(A)** a controller within the meaning of section 2109(1); and
     - **(B)** a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
-  - **(31)** “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007 ) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
-  - **(32)** “Director” means the Director of the Office of Personnel Management.
+  - **(31)** “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007 ) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
+  - **(32)** “Director” means the Director of the Office of Personnel Management; and
+  - **(33)** “representative payee” means a person (including an organization) designated under section 8345(e)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.

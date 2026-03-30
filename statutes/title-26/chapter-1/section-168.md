@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T08:59:14.322Z"
+generated_at: "2026-03-30T09:02:45.273Z"
 status: "active"
 ---
 
@@ -98,15 +98,16 @@ status: "active"
       - **(ii)** any telephone distribution plant and comparable equipment used for 2-way exchange of voice and data communications,
       - **(iii)** any section 1250 property which is a retail motor fuels outlet (whether or not food or other convenience items are sold at the outlet),
       - **(iv)** initial clearing and grading land improvements with respect to gas utility property,
-      - **(v)** any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005 , and
-      - **(vi)** any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005 , and which is placed in service before January 1, 2011 .
+      - **(v)** any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005 ,
+      - **(vi)** any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005 , and which is placed in service before January 1, 2011 , and
+      - **(vii)** any qualified improvement property.
     - **(F)** The term “20-year property” means initial clearing and grading land improvements with respect to any electric utility transmission and distribution plant.
   - **(4)** The term “railroad grading or tunnel bore” means all improvements resulting from excavations (including tunneling), construction of embankments, clearings, diversions of roads and streams, sodding of slopes, and from similar work necessary to provide, construct, reconstruct, alter, protect, improve, replace, or restore a roadbed or right-of-way for railroad track.
   - **(5)** The term “water utility property” means property—
     - **(A)** which is an integral part of the gathering, treatment, or commercial distribution of water, and which, without regard to this paragraph, would be 20-year property, and
     - **(B)** any municipal sewer.
   - **(6)**
-    - **(A)** The term “qualified improvement property” means any improvement to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
+    - **(A)** The term “qualified improvement property” means any improvement made by the taxpayer to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
     - **(B)** Such term shall not include any improvement for which the expenditure is attributable to—
       - **(i)** the enlargement of the building,
       - **(ii)** any elevator or escalator, or
@@ -144,7 +145,7 @@ status: "active"
     - **(C)** a recovery period determined under the following table: In the case of: The recovery period shall be: (i) Property not described in clause (ii) or (iii) The class life. (ii) Personal property with no class life 12 years. (iii) Residential rental property 30 years (iv) Nonresidential real property 40 years (v) Any railroad grading or tunnel bore or water utility property 50 years
   - **(3)**
     - **(A)** In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
-    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (D)(v) 2 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 20 (E)(v) 30 (E)(vi) 35 (F) 25
+    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 20 (E)(v) 30 (E)(vi) 35 (E)(vii) 20 (F) 25
     - **(C)** In the case of any qualified technological equipment, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(D)** In the case of any automobile or light general purpose truck, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(E)** In the case of any section 1245 property which is real property with no class life, the recovery period used for purposes of paragraph (2) shall be 40 years.

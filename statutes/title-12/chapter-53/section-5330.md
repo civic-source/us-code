@@ -3,9 +3,9 @@ title: "Section 5330 - Additional standards applicable to activities or practice
 usc_title: 12
 usc_section: "5330"
 chapter: 53
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 5330"
-generated_at: "2026-03-30T08:58:34.915Z"
+generated_at: "2026-03-30T09:02:08.251Z"
 status: "active"
 ---
 

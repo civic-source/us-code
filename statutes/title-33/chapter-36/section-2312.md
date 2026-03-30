@@ -3,9 +3,9 @@ title: "Section 2312 - Comments on certain changes in operations of reservoirs"
 usc_title: 33
 usc_section: "2312"
 chapter: 36
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 2312"
-generated_at: "2026-03-30T08:59:20.809Z"
+generated_at: "2026-03-30T09:02:53.405Z"
 status: "active"
 ---
 

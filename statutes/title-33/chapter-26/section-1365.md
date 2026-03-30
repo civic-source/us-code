@@ -3,9 +3,9 @@ title: "Section 1365 - Citizen suits"
 usc_title: 33
 usc_section: "1365"
 chapter: 26
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 1365"
-generated_at: "2026-03-30T08:59:20.795Z"
+generated_at: "2026-03-30T09:02:53.389Z"
 status: "active"
 ---
 

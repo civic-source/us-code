@@ -3,9 +3,9 @@ title: "Section 3426 - Liaison for Proprietary Institutions of Higher Education"
 usc_title: 20
 usc_section: "3426"
 chapter: 48
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 3426"
-generated_at: "2026-03-30T08:58:44.683Z"
+generated_at: "2026-03-30T09:02:17.950Z"
 status: "active"
 ---
 

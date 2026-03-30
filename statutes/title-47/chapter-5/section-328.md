@@ -3,9 +3,9 @@ title: "Section 328 - Repealed. Pub. L. 103–414, title III, § 304(a)(10) , Oc
 usc_title: 47
 usc_section: "328"
 chapter: 5
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "47 U.S.C. § 328"
-generated_at: "2026-03-30T08:59:50.196Z"
+generated_at: "2026-03-30T09:03:25.144Z"
 status: "repealed"
 ---
 

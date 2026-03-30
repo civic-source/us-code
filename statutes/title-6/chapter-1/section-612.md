@@ -3,9 +3,9 @@ title: "Section 612 - Accountability"
 usc_title: 6
 usc_section: "612"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "6 U.S.C. § 612"
-generated_at: "2026-03-30T08:58:12.312Z"
+generated_at: "2026-03-30T09:01:10.363Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)**
     - **(A)** Each recipient of a grant administered by the Department that expends not less than $500,000 in Federal funds during its fiscal year shall submit to the Administrator a copy of the organization-wide financial and compliance audit report required under chapter 75 of title 31.
     - **(B)** The Department and each recipient of a grant administered by the Department shall provide the Comptroller General and any officer or employee of the Government Accountability Office with full access to information regarding the activities carried out related to any grant administered by the Department.
-    - **(C)** Consistent with the Improper Payments Information Act of 2002 ( 31 U.S.C. 3321 note), for each of the grant programs under sections 604 and 605 of this title and section 762 of this title , the Administrator shall specify policies and procedures for—
+    - **(C)** Consistent with subchapter IV of chapter 33 of title 31, for each of the grant programs under sections 604 and 605 of this title and section 762 of this title , the Administrator shall specify policies and procedures for—
       - **(i)** identifying activities funded under any such grant program that are susceptible to significant improper payments; and
       - **(ii)** reporting any improper payments to the Department.
   - **(2)**
@@ -32,7 +32,7 @@ status: "active"
     - **(C)** use the remedial action management program under section 750 of this title ; and
     - **(D)** ensure that each State receiving a grant administered by the Department submits a report to the Administrator on its level of preparedness, as required by section 752(c) of this title .
   - **(4)** In conducting program reviews and performance audits under paragraph (2), the Administrator and the Inspector General of the Department shall take into account the performance assessment elements required under paragraph (3).
-  - **(5)** The Administrator shall conduct a recovery audit under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 ( 31 U.S.C. 3321 note) for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
+  - **(5)** The Administrator shall conduct a recovery audit under section 3352(i) of title 31 for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
     - **(A)** a financial audit has identified improper payments that can be recouped; and
     - **(B)** it is cost effective to conduct a recovery audit to recapture the targeted funds.
   - **(6)**

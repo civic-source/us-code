@@ -3,9 +3,9 @@ title: "Section 272c - Livestock trails, watering rights; driveway designation a
 usc_title: 16
 usc_section: "272c"
 chapter: 1
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "16 U.S.C. § 272c"
-generated_at: "2026-03-30T08:58:41.560Z"
+generated_at: "2026-03-30T09:02:16.092Z"
 status: "active"
 ---
 

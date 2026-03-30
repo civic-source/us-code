@@ -3,9 +3,9 @@ title: "Section 7311 - Additional applicability"
 usc_title: 15
 usc_section: "7311"
 chapter: 99
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "15 U.S.C. § 7311"
-generated_at: "2026-03-30T08:58:33.129Z"
+generated_at: "2026-03-30T09:02:01.047Z"
 status: "active"
 ---
 

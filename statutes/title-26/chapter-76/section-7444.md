@@ -3,9 +3,9 @@ title: "Section 7444 - Organization"
 usc_title: 26
 usc_section: "7444"
 chapter: 76
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "26 U.S.C. § 7444"
-generated_at: "2026-03-30T08:59:14.512Z"
+generated_at: "2026-03-30T09:02:45.460Z"
 status: "active"
 ---
 

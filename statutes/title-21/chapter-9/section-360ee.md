@@ -3,9 +3,9 @@ title: "Section 360ee - Grants and contracts for development of drugs for rare d
 usc_title: 21
 usc_section: "360ee"
 chapter: 9
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 360ee"
-generated_at: "2026-03-30T08:59:06.259Z"
+generated_at: "2026-03-30T09:02:29.302Z"
 status: "active"
 ---
 

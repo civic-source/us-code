@@ -3,9 +3,9 @@ title: "Section 50911 - Space advertising"
 usc_title: 51
 usc_section: "50911"
 chapter: 509
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "51 U.S.C. § 50911"
-generated_at: "2026-03-30T09:00:04.259Z"
+generated_at: "2026-03-30T09:03:33.395Z"
 status: "active"
 ---
 

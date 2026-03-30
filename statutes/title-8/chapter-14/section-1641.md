@@ -3,9 +3,9 @@ title: "Section 1641 - Definitions"
 usc_title: 8
 usc_section: "1641"
 chapter: 14
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "8 U.S.C. § 1641"
-generated_at: "2026-03-30T08:58:27.371Z"
+generated_at: "2026-03-30T09:01:09.276Z"
 status: "active"
 ---
 

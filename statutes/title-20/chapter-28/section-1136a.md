@@ -3,9 +3,9 @@ title: "Section 1136a - Masters degree programs at historically Black colleges a
 usc_title: 20
 usc_section: "1136a"
 chapter: 28
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 1136a"
-generated_at: "2026-03-30T08:58:44.653Z"
+generated_at: "2026-03-30T09:02:17.921Z"
 status: "active"
 ---
 

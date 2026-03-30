@@ -3,9 +3,9 @@ title: "Section 47141 - Compatible land use planning and projects by State and l
 usc_title: 49
 usc_section: "47141"
 chapter: 471
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "49 U.S.C. § 47141"
-generated_at: "2026-03-30T08:59:54.832Z"
+generated_at: "2026-03-30T09:03:31.241Z"
 status: "active"
 ---
 

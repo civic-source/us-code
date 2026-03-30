@@ -3,9 +3,9 @@ title: "Section 3905 - Attorney’s fees and interest"
 usc_title: 28
 usc_section: "3905"
 chapter: 179
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "28 U.S.C. § 3905"
-generated_at: "2026-03-30T08:59:09.382Z"
+generated_at: "2026-03-30T09:02:38.954Z"
 status: "active"
 ---
 

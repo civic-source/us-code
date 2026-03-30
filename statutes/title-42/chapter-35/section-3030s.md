@@ -3,18 +3,19 @@ title: "Section 3030s - Definitions"
 usc_title: 42
 usc_section: "3030s"
 chapter: 35
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 3030s"
-generated_at: "2026-03-30T08:59:46.967Z"
+generated_at: "2026-03-30T09:03:18.734Z"
 status: "active"
 ---
 
 # § 3030s. Definitions
 
 - **(a)** In this part:
-  - **(1)** The term “child” means an individual who is not more than 18 years of age.
-  - **(2)** The term “individual with a disability” means an individual with a disability, as defined in section 12102 of this title , who is not less than age 18 and not more than age 59.
-  - **(3)** The term “older relative caregiver” means a caregiver who—
+  - **(1)** The term “caregiver assessment” means a defined process of gathering information to identify the specific needs, barriers to carrying out caregiving responsibilities, and existing supports of a family caregiver or older relative caregiver, as identified by the caregiver involved, to appropriately target recommendations for support services described in section 3030s–1(b) of this title . Such assessment shall be administered through direct contact with the caregiver, which may include contact through a home visit, the Internet, telephone or teleconference, or in-person interaction.
+  - **(2)** The term “child” means an individual who is not more than 18 years of age.
+  - **(3)** The term “individual with a disability” means an individual with a disability, as defined in section 12102 of this title , who is not less than age 18 and not more than age 59.
+  - **(4)** The term “older relative caregiver” means a caregiver who—
     - **(A)**
       - **(i)** is age 55 or older; and
       - **(ii)** lives with, is the informal provider of in-home and community care to, and is the primary caregiver for, a child or an individual with a disability;

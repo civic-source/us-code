@@ -3,9 +3,9 @@ title: "Section 2608 - Civil penalty procedures"
 usc_title: 33
 usc_section: "2608"
 chapter: 39
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "33 U.S.C. § 2608"
-generated_at: "2026-03-30T08:59:20.815Z"
+generated_at: "2026-03-30T09:02:53.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1833e - Equal opportunity"
 usc_title: 12
 usc_section: "1833e"
 chapter: 16
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "12 U.S.C. § 1833e"
-generated_at: "2026-03-30T08:58:34.858Z"
+generated_at: "2026-03-30T09:02:08.194Z"
 status: "active"
 ---
 

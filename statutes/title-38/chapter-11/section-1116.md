@@ -3,9 +3,9 @@ title: "Section 1116 - Presumptions of service connection for diseases associate
 usc_title: 38
 usc_section: "1116"
 chapter: 11
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "38 U.S.C. § 1116"
-generated_at: "2026-03-30T08:59:28.781Z"
+generated_at: "2026-03-30T09:02:58.758Z"
 status: "active"
 ---
 

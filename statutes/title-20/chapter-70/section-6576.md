@@ -3,9 +3,9 @@ title: "Section 6576 - Rule of construction on equalized spending"
 usc_title: 20
 usc_section: "6576"
 chapter: 70
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 6576"
-generated_at: "2026-03-30T08:58:44.704Z"
+generated_at: "2026-03-30T09:02:17.971Z"
 status: "active"
 ---
 

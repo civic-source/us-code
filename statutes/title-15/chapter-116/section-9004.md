@@ -1,0 +1,15 @@
+---
+title: "Section 9004 - Waiver of matching funds requirement under the Women’s Business Center program"
+usc_title: 15
+usc_section: "9004"
+chapter: 116
+current_through: "PL 116-139"
+classification: "15 U.S.C. § 9004"
+generated_at: "2026-03-30T09:02:01.058Z"
+status: "active"
+---
+
+# § 9004. Waiver of matching funds requirement under the Women’s Business Center program
+
+During the 3-month period beginning on March 27, 2020 , the requirement relating to obtaining cash contributions from non-Federal sources under section 656(c)(1) of this title is waived for any recipient of assistance under such section 656 of this title .
+

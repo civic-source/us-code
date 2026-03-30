@@ -3,9 +3,9 @@ title: "Section 12852 - Assistance for first-time homebuyers"
 usc_title: 42
 usc_section: "12852"
 chapter: 130
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "42 U.S.C. § 12852"
-generated_at: "2026-03-30T08:59:47.188Z"
+generated_at: "2026-03-30T09:03:18.951Z"
 status: "active"
 ---
 

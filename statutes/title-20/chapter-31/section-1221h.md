@@ -3,9 +3,9 @@ title: "Section 1221h - Repealed. Pub. L. 100–297, title V, § 5352(4) , Apr. 
 usc_title: 20
 usc_section: "1221h"
 chapter: 31
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "20 U.S.C. § 1221h"
-generated_at: "2026-03-30T08:58:44.661Z"
+generated_at: "2026-03-30T09:02:17.929Z"
 status: "repealed"
 ---
 

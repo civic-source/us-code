@@ -3,9 +3,9 @@ title: "Section 829a - Delivery of a controlled substance by a pharmacy to an ad
 usc_title: 21
 usc_section: "829a"
 chapter: 13
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "21 U.S.C. § 829a"
-generated_at: "2026-03-30T08:59:06.295Z"
+generated_at: "2026-03-30T09:02:29.337Z"
 status: "active"
 ---
 

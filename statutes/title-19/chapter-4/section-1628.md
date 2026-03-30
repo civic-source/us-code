@@ -3,9 +3,9 @@ title: "Section 1628 - Exchange of information"
 usc_title: 19
 usc_section: "1628"
 chapter: 4
-current_through: "PL 116-108"
+current_through: "PL 116-139"
 classification: "19 U.S.C. § 1628"
-generated_at: "2026-03-30T08:58:57.584Z"
+generated_at: "2026-03-30T09:02:13.750Z"
 status: "active"
 ---
 
