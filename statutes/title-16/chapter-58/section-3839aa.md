@@ -3,9 +3,9 @@ title: "Section 3839aa - Purposes"
 usc_title: 16
 usc_section: "3839aa"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3839aa"
-generated_at: "2026-03-30T03:48:42.152Z"
+generated_at: "2026-03-30T03:51:46.078Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ The purposes of the environmental quality incentives program established by this
     - **(C)** surface and ground water conservation;
   - **(2)** avoiding, to the maximum extent practicable, the need for resource and regulatory programs by assisting producers in protecting soil, water, air, and related natural resources and meeting environmental quality criteria established by Federal, State, tribal, and local agencies;
   - **(3)** providing flexible assistance to producers to install and maintain conservation practices that sustain food and fiber production while—
-    - **(A)** enhancing soil, water, and related natural resources, including grazing land, forestland, wetland, and wildlife; and
-    - **(B)** conserving energy;
-  - **(4)** assisting producers to make beneficial, cost effective changes to production systems (including conservation practices related to organic production), grazing management, fuels management, forest management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural and forested land; and
-  - **(5)** consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.
+    - **(A)** enhancing soil, water, and related natural resources, including grazing land, forestland, wetland, and wildlife;
+    - **(B)** developing and improving wildlife habitat; and
+    - **(C)** conserving energy; and
+  - **(4)** assisting producers to make beneficial, cost effective changes to production systems (including conservation practices related to organic production), grazing management, fuels management, forest management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural and forested land.

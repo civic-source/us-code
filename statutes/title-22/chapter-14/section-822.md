@@ -3,9 +3,9 @@ title: "Section 822 - Repealed. May 26, 1949, ch. 143, § 5 , 63 Stat. 111"
 usc_title: 22
 usc_section: "822"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 822"
-generated_at: "2026-03-30T03:49:04.248Z"
+generated_at: "2026-03-30T03:51:54.981Z"
 status: "repealed"
 ---
 

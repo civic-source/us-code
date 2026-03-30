@@ -3,9 +3,9 @@ title: "Section 1 - Prerequisites for construction of project"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T03:48:42.000Z"
+generated_at: "2026-03-30T03:51:45.930Z"
 status: "active"
 ---
 

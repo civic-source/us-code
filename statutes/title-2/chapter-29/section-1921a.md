@@ -3,9 +3,9 @@ title: "Section 1921a - Sole and exclusive authority of Board and Chief to deter
 usc_title: 2
 usc_section: "1921a"
 chapter: 29
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 1921a"
-generated_at: "2026-03-30T03:47:48.871Z"
+generated_at: "2026-03-30T03:50:54.408Z"
 status: "active"
 ---
 

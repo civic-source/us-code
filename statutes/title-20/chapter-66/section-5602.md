@@ -3,9 +3,9 @@ title: "Section 5602 - Definitions"
 usc_title: 20
 usc_section: "5602"
 chapter: 66
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 5602"
-generated_at: "2026-03-30T03:48:56.244Z"
+generated_at: "2026-03-30T03:51:32.478Z"
 status: "active"
 ---
 

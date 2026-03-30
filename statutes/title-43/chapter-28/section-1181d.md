@@ -3,9 +3,9 @@ title: "Section 1181d - Leasing of lands for grazing; disposition of moneys; rul
 usc_title: 43
 usc_section: "1181d"
 chapter: 28
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 1181d"
-generated_at: "2026-03-30T03:49:59.899Z"
+generated_at: "2026-03-30T03:52:22.019Z"
 status: "active"
 ---
 

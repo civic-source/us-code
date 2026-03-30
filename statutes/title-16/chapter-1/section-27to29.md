@@ -3,9 +3,9 @@ title: "Section 27to29 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 
 usc_title: 16
 usc_section: "27to29"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 27to29"
-generated_at: "2026-03-30T03:48:41.839Z"
+generated_at: "2026-03-30T03:51:45.767Z"
 status: "repealed"
 ---
 

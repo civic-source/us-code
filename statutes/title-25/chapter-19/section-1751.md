@@ -3,9 +3,9 @@ title: "Section 1751 - Congressional findings"
 usc_title: 25
 usc_section: "1751"
 chapter: 19
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1751"
-generated_at: "2026-03-30T03:49:08.471Z"
+generated_at: "2026-03-30T03:51:52.409Z"
 status: "active"
 ---
 

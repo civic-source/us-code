@@ -3,9 +3,9 @@ title: "Section 13726c - Enforcement"
 usc_title: 42
 usc_section: "13726c"
 chapter: 136
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 13726c"
-generated_at: "2026-03-30T03:50:16.770Z"
+generated_at: "2026-03-30T03:52:37.557Z"
 status: "active"
 ---
 

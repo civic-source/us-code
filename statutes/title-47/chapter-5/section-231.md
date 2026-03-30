@@ -3,9 +3,9 @@ title: "Section 231 - Restriction of access by minors to materials commercially 
 usc_title: 47
 usc_section: "231"
 chapter: 5
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "47 U.S.C. § 231"
-generated_at: "2026-03-30T03:50:20.327Z"
+generated_at: "2026-03-30T03:52:43.032Z"
 status: "active"
 ---
 

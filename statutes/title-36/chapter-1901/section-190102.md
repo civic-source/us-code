@@ -3,9 +3,9 @@ title: "Section 190102 - Purposes"
 usc_title: 36
 usc_section: "190102"
 chapter: 1901
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 190102"
-generated_at: "2026-03-30T03:49:54.899Z"
+generated_at: "2026-03-30T03:52:18.787Z"
 status: "active"
 ---
 

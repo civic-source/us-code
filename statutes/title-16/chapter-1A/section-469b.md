@@ -3,9 +3,9 @@ title: "Section 469b - Administration; contracts or agreements; services of expe
 usc_title: 16
 usc_section: "469b"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 469b"
-generated_at: "2026-03-30T03:48:41.965Z"
+generated_at: "2026-03-30T03:51:45.895Z"
 status: "active"
 ---
 

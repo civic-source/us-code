@@ -3,9 +3,9 @@ title: "Section 3838b - Duties of producers"
 usc_title: 16
 usc_section: "3838b"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3838b"
-generated_at: "2026-03-30T03:48:42.148Z"
+generated_at: "2026-03-30T03:51:46.077Z"
 status: "active"
 ---
 

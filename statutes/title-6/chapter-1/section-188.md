@@ -3,9 +3,9 @@ title: "Section 188 - Conduct of research, development, demonstration, testing a
 usc_title: 6
 usc_section: "188"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "6 U.S.C. § 188"
-generated_at: "2026-03-30T03:48:10.883Z"
+generated_at: "2026-03-30T03:50:56.961Z"
 status: "active"
 ---
 

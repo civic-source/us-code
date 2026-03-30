@@ -3,9 +3,9 @@ title: "Section 1737 - Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 
 usc_title: 12
 usc_section: "1737"
 chapter: 13
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "12 U.S.C. § 1737"
-generated_at: "2026-03-30T03:48:29.207Z"
+generated_at: "2026-03-30T03:51:18.052Z"
 status: "repealed"
 ---
 

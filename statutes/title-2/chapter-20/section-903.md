@@ -3,9 +3,9 @@ title: "Section 903 - Enforcing deficit targets"
 usc_title: 2
 usc_section: "903"
 chapter: 20
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 903"
-generated_at: "2026-03-30T03:47:48.852Z"
+generated_at: "2026-03-30T03:50:54.381Z"
 status: "active"
 ---
 

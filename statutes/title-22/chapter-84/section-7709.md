@@ -3,9 +3,9 @@ title: "Section 7709 - Congressional and public notification of Compact"
 usc_title: 22
 usc_section: "7709"
 chapter: 84
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 7709"
-generated_at: "2026-03-30T03:49:04.397Z"
+generated_at: "2026-03-30T03:51:55.125Z"
 status: "active"
 ---
 

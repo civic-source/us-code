@@ -3,9 +3,9 @@ title: "Section 0b - Duties and functions of Director of Violence Against Women 
 usc_title: 42
 usc_section: "0b"
 chapter: 46
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-03-30T03:50:16.376Z"
+generated_at: "2026-03-30T03:52:37.222Z"
 status: "active"
 ---
 

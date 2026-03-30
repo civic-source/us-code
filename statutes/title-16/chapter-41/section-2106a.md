@@ -3,9 +3,9 @@ title: "Section 2106a - Emergency reforestation assistance"
 usc_title: 16
 usc_section: "2106a"
 chapter: 41
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 2106a"
-generated_at: "2026-03-30T03:48:42.119Z"
+generated_at: "2026-03-30T03:51:46.047Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(1)** No person may receive an amount in excess of $25,000 in any fiscal year, or an equivalent value in tree seedlings, under this section.
   - **(2)** A person who has qualifying gross revenues in excess of $2,000,000 annually, as determined by the Secretary, shall not be eligible to receive any disaster payment or other benefits under this section.
   - **(3)** In implementing this section, the Secretary shall issue regulations—
-    - **(A)** defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of title 7 (before the amendment made by section 1703(a) 1 1 See References in Text note below. of the Food, Conservation, and Energy Act of 2008);
+    - **(A)** defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of title 7 (before the amendment made by section 1603(a) 1 1 See References in Text note below. of the Food, Conservation, and Energy Act of 2008);
     - **(B)** prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
     - **(C)** ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 ( 16 U.S.C. 2101 et seq.), and the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3839aa et seq.], or other Federal program.
 - **(d)** As used in this section—

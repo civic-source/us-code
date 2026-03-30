@@ -3,9 +3,9 @@ title: "Section 3302 - Implementation of United States policy with regard to Tai
 usc_title: 22
 usc_section: "3302"
 chapter: 48
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 3302"
-generated_at: "2026-03-30T03:49:04.325Z"
+generated_at: "2026-03-30T03:51:55.056Z"
 status: "active"
 ---
 

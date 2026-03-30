@@ -3,9 +3,9 @@ title: "Section 8751to8755 - Omitted"
 usc_title: 42
 usc_section: "8751to8755"
 chapter: 95
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 8751to8755"
-generated_at: "2026-03-30T03:50:16.605Z"
+generated_at: "2026-03-30T03:52:37.420Z"
 status: "omitted"
 ---
 

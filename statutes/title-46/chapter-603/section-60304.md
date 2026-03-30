@@ -3,9 +3,9 @@ title: "Section 60304 - Presidential suspension of tonnage taxes and light money
 usc_title: 46
 usc_section: "60304"
 chapter: 603
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "46 U.S.C. § 60304"
-generated_at: "2026-03-30T03:50:22.708Z"
+generated_at: "2026-03-30T03:53:04.169Z"
 status: "active"
 ---
 

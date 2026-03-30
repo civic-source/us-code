@@ -3,9 +3,9 @@ title: "Section 7279d - Capital expenses defined"
 usc_title: 20
 usc_section: "7279d"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 7279d"
-generated_at: "2026-03-30T03:48:56.296Z"
+generated_at: "2026-03-30T03:51:32.525Z"
 status: "active"
 ---
 

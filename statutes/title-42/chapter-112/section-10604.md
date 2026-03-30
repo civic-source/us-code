@@ -3,9 +3,9 @@ title: "Section 10604 - Administrative provisions"
 usc_title: 42
 usc_section: "10604"
 chapter: 112
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 10604"
-generated_at: "2026-03-30T03:50:16.673Z"
+generated_at: "2026-03-30T03:52:37.476Z"
 status: "active"
 ---
 

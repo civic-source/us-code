@@ -3,9 +3,9 @@ title: "Section 5526 - Role of Department of Education"
 usc_title: 15
 usc_section: "5526"
 chapter: 81
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 5526"
-generated_at: "2026-03-30T03:48:24.821Z"
+generated_at: "2026-03-30T03:51:23.126Z"
 status: "active"
 ---
 

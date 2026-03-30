@@ -3,9 +3,9 @@ title: "Section 715h - Land and interests of Coquille Indian Tribe, Oregon"
 usc_title: 25
 usc_section: "715h"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 715h"
-generated_at: "2026-03-30T03:49:08.431Z"
+generated_at: "2026-03-30T03:51:52.367Z"
 status: "active"
 ---
 

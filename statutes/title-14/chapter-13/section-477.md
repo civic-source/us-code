@@ -3,9 +3,9 @@ title: "Section 477 - Equipment to prevent accidents"
 usc_title: 14
 usc_section: "477"
 chapter: 13
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "14 U.S.C. § 477"
-generated_at: "2026-03-30T03:48:29.623Z"
+generated_at: "2026-03-30T03:51:14.600Z"
 status: "active"
 ---
 

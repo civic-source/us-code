@@ -3,9 +3,9 @@ title: "Section 1802 - Spina bifida conditions covered"
 usc_title: 38
 usc_section: "1802"
 chapter: 18
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "38 U.S.C. § 1802"
-generated_at: "2026-03-30T03:49:52.893Z"
+generated_at: "2026-03-30T03:52:17.899Z"
 status: "active"
 ---
 

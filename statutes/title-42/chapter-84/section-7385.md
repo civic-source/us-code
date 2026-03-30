@@ -3,9 +3,9 @@ title: "Section 7385 - Offset for certain payments"
 usc_title: 42
 usc_section: "7385"
 chapter: 84
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 7385"
-generated_at: "2026-03-30T03:50:16.528Z"
+generated_at: "2026-03-30T03:52:37.353Z"
 status: "active"
 ---
 

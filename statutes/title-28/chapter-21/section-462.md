@@ -3,9 +3,9 @@ title: "Section 462 - Court accommodations"
 usc_title: 28
 usc_section: "462"
 chapter: 21
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "28 U.S.C. § 462"
-generated_at: "2026-03-30T03:49:26.529Z"
+generated_at: "2026-03-30T03:52:00.469Z"
 status: "active"
 ---
 

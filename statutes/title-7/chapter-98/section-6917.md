@@ -3,9 +3,9 @@ title: "Section 6917 - Reports by Secretary"
 usc_title: 7
 usc_section: "6917"
 chapter: 98
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 6917"
-generated_at: "2026-03-30T03:48:09.949Z"
+generated_at: "2026-03-30T03:51:08.823Z"
 status: "active"
 ---
 

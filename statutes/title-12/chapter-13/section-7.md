@@ -3,9 +3,9 @@ title: "Section 7 - Exemption from State usury laws; applicability"
 usc_title: 12
 usc_section: "7"
 chapter: 13
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-30T03:48:29.205Z"
+generated_at: "2026-03-30T03:51:18.050Z"
 status: "active"
 ---
 

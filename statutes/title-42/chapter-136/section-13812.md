@@ -3,9 +3,9 @@ title: "Section 13812 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13812"
 chapter: 136
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 13812"
-generated_at: "2026-03-30T03:50:16.771Z"
+generated_at: "2026-03-30T03:52:37.558Z"
 status: "active"
 ---
 

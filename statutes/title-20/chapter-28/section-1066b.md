@@ -3,9 +3,9 @@ title: "Section 1066b - Federal insurance for bonds"
 usc_title: 20
 usc_section: "1066b"
 chapter: 28
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 1066b"
-generated_at: "2026-03-30T03:48:56.119Z"
+generated_at: "2026-03-30T03:51:32.366Z"
 status: "active"
 ---
 

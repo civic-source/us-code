@@ -3,9 +3,9 @@ title: "Section 1773h - Miscellaneous provisions"
 usc_title: 25
 usc_section: "1773h"
 chapter: 19
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1773h"
-generated_at: "2026-03-30T03:49:08.473Z"
+generated_at: "2026-03-30T03:51:52.412Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1319 - Federal participation in payments for repairs to home own
 usc_title: 42
 usc_section: "1319"
 chapter: 7
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 1319"
-generated_at: "2026-03-30T03:50:16.003Z"
+generated_at: "2026-03-30T03:52:36.885Z"
 status: "active"
 ---
 

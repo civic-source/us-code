@@ -3,9 +3,9 @@ title: "Section 9 - Prohibition regarding manipulation and false information"
 usc_title: 7
 usc_section: "9"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 9"
-generated_at: "2026-03-30T03:48:09.735Z"
+generated_at: "2026-03-30T03:51:08.604Z"
 status: "active"
 ---
 

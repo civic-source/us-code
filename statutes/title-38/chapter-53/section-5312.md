@@ -3,9 +3,9 @@ title: "Section 5312 - Annual adjustment of certain benefit rates"
 usc_title: 38
 usc_section: "5312"
 chapter: 53
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "38 U.S.C. § 5312"
-generated_at: "2026-03-30T03:49:52.921Z"
+generated_at: "2026-03-30T03:52:17.940Z"
 status: "active"
 ---
 

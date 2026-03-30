@@ -3,9 +3,9 @@ title: "Section 6212 - Domestic use of energy supplies and related materials and
 usc_title: 42
 usc_section: "6212"
 chapter: 77
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 6212"
-generated_at: "2026-03-30T03:50:16.457Z"
+generated_at: "2026-03-30T03:52:37.294Z"
 status: "active"
 ---
 

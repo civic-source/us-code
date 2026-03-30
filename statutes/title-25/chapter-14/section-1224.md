@@ -3,9 +3,9 @@ title: "Section 1224 - Subsequent judgment funds; distribution; preparation of c
 usc_title: 25
 usc_section: "1224"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1224"
-generated_at: "2026-03-30T03:49:08.442Z"
+generated_at: "2026-03-30T03:51:52.379Z"
 status: "active"
 ---
 

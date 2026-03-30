@@ -3,9 +3,9 @@ title: "Section 3832 - Duties of owners and operators"
 usc_title: 16
 usc_section: "3832"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3832"
-generated_at: "2026-03-30T03:48:42.146Z"
+generated_at: "2026-03-30T03:51:46.074Z"
 status: "active"
 ---
 
@@ -28,32 +28,15 @@ status: "active"
   - **(7)** on the transfer of the right and interest of the owner or operator in land subject to the contract—
     - **(A)** to forfeit all rights to rental payments and cost sharing payments under the contract; and
     - **(B)** to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
-  - **(8)** not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—
-    - **(A)** managed harvesting (including the managed harvesting of biomass), except that in permitting managed harvesting, the Secretary, in coordination with the State technical committee—
-      - **(i)** shall develop appropriate vegetation management requirements; and
-      - **(ii)** shall identify periods during which managed harvesting may be conducted;
-    - **(B)** harvesting and grazing or other commercial use of the forage on the land that is subject to the contract in response to a drought or other emergency;
-    - **(C)** routine grazing or prescribed grazing for the control of invasive species, except that in permitting such routine grazing or prescribed grazing, the Secretary, in coordination with the State technical committee—
-      - **(i)** shall develop appropriate vegetation management requirements and stocking rates for the land that are suitable for continued routine grazing; and
-      - **(ii)** shall establish the frequency during which routine grazing may be conducted, taking into consideration regional differences such as—
-        - **(I)** climate, soil type, and natural resources;
-        - **(II)** the number of years that should be required between routine grazing activities; and
-        - **(III)** how often during a year in which routine grazing is permitted that routine grazing should be allowed to occur; and
-    - **(D)** the installation of wind turbines, except that in permitting the installation of wind turbines, the Secretary shall determine the number and location of wind turbines that may be installed, taking into account—
-      - **(i)** the location, size, and other physical characteristics of the land;
-      - **(ii)** the extent to which the land contains wildlife and wildlife habitat; and
-      - **(iii)** the purposes of the conservation reserve program under this subpart;
+  - **(8)** not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except as provided in subsection (b) or (c) of section 3833 of this title ;
   - **(9)** not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
   - **(10)** not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
   - **(11)** to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
-- **(b)** The plan referred to in subsection (a)(1) of this section—
-  - **(1)** shall set forth—
-    - **(A)** the conservation measures and practices to be carried out by the owner or operator during the term of the contract; and
-    - **(B)** the commercial use, if any, to be permitted on the land during the term; and
-  - **(2)** may provide for the permanent retirement of any existing cropland base and allotment history for the land.
+- **(b)** The plan referred to in subsection (a)(1) shall set forth—
+  - **(1)** the conservation measures and practices to be carried out by the owner or operator during the term of the contract; and
+  - **(2)** the commercial use, if any, to be permitted on the land during the term.
 - **(c)**
   - **(1)** Notwithstanding any other provision of law, an owner or operator who is a party to a contract entered into under this subpart may not be required to make repayments to the Secretary of amounts received under the contract if the land that is subject to the contract has been foreclosed on and the Secretary determines that forgiving the repayments is appropriate in order to provide fair and equitable treatment.
   - **(2)**
     - **(A)** This subsection shall not void the responsibilities of an owner or operator under the contract if the owner or operator resumes control over the land that is subject to the contract within the period specified in the contract.
     - **(B)** On the resumption of the control over the land by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
-- **(d)** In the case of an authorized activity under subsection (a)(8) on land that is subject to a contract under this subpart, the Secretary shall reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the authorized activity.

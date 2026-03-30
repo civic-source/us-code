@@ -3,9 +3,9 @@ title: "Section 418B - Minimum contribution requirement"
 usc_title: 26
 usc_section: "418B"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 418B"
-generated_at: "2026-03-30T03:49:33.515Z"
+generated_at: "2026-03-30T03:52:08.554Z"
 status: "active"
 ---
 

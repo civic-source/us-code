@@ -3,9 +3,9 @@ title: "Section 1359 - Parties collusively joined or made"
 usc_title: 28
 usc_section: "1359"
 chapter: 85
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "28 U.S.C. § 1359"
-generated_at: "2026-03-30T03:49:26.544Z"
+generated_at: "2026-03-30T03:52:00.483Z"
 status: "active"
 ---
 

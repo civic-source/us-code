@@ -3,9 +3,9 @@ title: "Section 674a - Sullys Hill National Park; transfer of control; change of
 usc_title: 16
 usc_section: "674a"
 chapter: 6
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 674a"
-generated_at: "2026-03-30T03:48:42.011Z"
+generated_at: "2026-03-30T03:51:45.939Z"
 status: "active"
 ---
 

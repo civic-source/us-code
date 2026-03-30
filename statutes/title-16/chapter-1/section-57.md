@@ -3,9 +3,9 @@ title: "Section 57 - Acquired lands to be made part of Mojave National Preserve"
 usc_title: 16
 usc_section: "57"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 57"
-generated_at: "2026-03-30T03:48:41.889Z"
+generated_at: "2026-03-30T03:51:45.817Z"
 status: "active"
 ---
 

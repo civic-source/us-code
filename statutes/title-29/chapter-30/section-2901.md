@@ -3,9 +3,9 @@ title: "Section 2901 - Authorization of appropriations"
 usc_title: 29
 usc_section: "2901"
 chapter: 30
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "29 U.S.C. § 2901"
-generated_at: "2026-03-30T03:49:28.163Z"
+generated_at: "2026-03-30T03:52:01.775Z"
 status: "active"
 ---
 

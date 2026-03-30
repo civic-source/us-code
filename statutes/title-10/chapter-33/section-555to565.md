@@ -3,9 +3,9 @@ title: "Section 555to565 - Repealed. Pub. L. 102–190, div. A, title XI, § 111
 usc_title: 10
 usc_section: "555to565"
 chapter: 33
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 555to565"
-generated_at: "2026-03-30T03:48:16.912Z"
+generated_at: "2026-03-30T03:51:04.291Z"
 status: "repealed"
 ---
 

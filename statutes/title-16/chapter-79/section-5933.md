@@ -3,9 +3,9 @@ title: "Section 5933 - Cooperative agreements"
 usc_title: 16
 usc_section: "5933"
 chapter: 79
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 5933"
-generated_at: "2026-03-30T03:48:42.175Z"
+generated_at: "2026-03-30T03:51:46.102Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 201 - Doing business without a license unlawful; employment of C
 usc_title: 21
 usc_section: "201"
 chapter: 7
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "21 U.S.C. § 201"
-generated_at: "2026-03-30T03:49:01.618Z"
+generated_at: "2026-03-30T03:51:50.803Z"
 status: "active"
 ---
 

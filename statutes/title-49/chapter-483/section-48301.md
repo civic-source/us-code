@@ -3,9 +3,9 @@ title: "Section 48301 - Aviation security funding"
 usc_title: 49
 usc_section: "48301"
 chapter: 483
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "49 U.S.C. § 48301"
-generated_at: "2026-03-30T03:50:26.116Z"
+generated_at: "2026-03-30T03:52:51.248Z"
 status: "active"
 ---
 

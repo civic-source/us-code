@@ -3,9 +3,9 @@ title: "Section 2008s - Rural microentrepreneur assistance program"
 usc_title: 7
 usc_section: "2008s"
 chapter: 50
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 2008s"
-generated_at: "2026-03-30T03:48:09.860Z"
+generated_at: "2026-03-30T03:51:08.732Z"
 status: "active"
 ---
 

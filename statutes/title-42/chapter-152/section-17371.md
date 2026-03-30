@@ -3,9 +3,9 @@ title: "Section 17371 - Energy diplomacy and security within the Department of S
 usc_title: 42
 usc_section: "17371"
 chapter: 152
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 17371"
-generated_at: "2026-03-30T03:50:16.863Z"
+generated_at: "2026-03-30T03:52:37.645Z"
 status: "active"
 ---
 

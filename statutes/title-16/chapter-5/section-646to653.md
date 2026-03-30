@@ -3,9 +3,9 @@ title: "Section 646to653 - Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104
 usc_title: 16
 usc_section: "646to653"
 chapter: 5
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 646to653"
-generated_at: "2026-03-30T03:48:42.005Z"
+generated_at: "2026-03-30T03:51:45.934Z"
 status: "repealed"
 ---
 

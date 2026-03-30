@@ -3,9 +3,9 @@ title: "Section 130109 - Records and inspection"
 usc_title: 36
 usc_section: "130109"
 chapter: 1301
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 130109"
-generated_at: "2026-03-30T03:49:54.889Z"
+generated_at: "2026-03-30T03:52:18.777Z"
 status: "active"
 ---
 

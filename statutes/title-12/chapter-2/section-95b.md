@@ -3,9 +3,9 @@ title: "Section 95b - Ratification of acts of President and Secretary of the Tre
 usc_title: 12
 usc_section: "95b"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "12 U.S.C. § 95b"
-generated_at: "2026-03-30T03:48:29.130Z"
+generated_at: "2026-03-30T03:51:17.974Z"
 status: "active"
 ---
 

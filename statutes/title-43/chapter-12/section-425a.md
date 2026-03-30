@@ -3,9 +3,9 @@ title: "Section 425a - Eligibility of transferred lands owned by States, etc., f
 usc_title: 43
 usc_section: "425a"
 chapter: 12
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 425a"
-generated_at: "2026-03-30T03:49:59.875Z"
+generated_at: "2026-03-30T03:52:21.996Z"
 status: "active"
 ---
 

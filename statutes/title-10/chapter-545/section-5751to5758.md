@@ -3,9 +3,9 @@ title: "Section 5751to5758 - Repealed. Pub. L. 96–513, title III, § 333 , Dec
 usc_title: 10
 usc_section: "5751to5758"
 chapter: 545
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 5751to5758"
-generated_at: "2026-03-30T03:48:17.056Z"
+generated_at: "2026-03-30T03:51:04.438Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9023 - Repealed. Pub. L. 87–651, title I, § 128(1) , Sept. 7,
 usc_title: 10
 usc_section: "9023"
 chapter: 873
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 9023"
-generated_at: "2026-03-30T03:48:17.076Z"
+generated_at: "2026-03-30T03:51:04.459Z"
 status: "repealed"
 ---
 

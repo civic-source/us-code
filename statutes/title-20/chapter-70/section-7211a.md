@@ -3,9 +3,9 @@ title: "Section 7211a - Allocation to local educational agencies"
 usc_title: 20
 usc_section: "7211a"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 7211a"
-generated_at: "2026-03-30T03:48:56.285Z"
+generated_at: "2026-03-30T03:51:32.516Z"
 status: "active"
 ---
 

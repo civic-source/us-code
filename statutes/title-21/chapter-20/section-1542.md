@@ -3,9 +3,9 @@ title: "Section 1542 - Duties"
 usc_title: 21
 usc_section: "1542"
 chapter: 20
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "21 U.S.C. § 1542"
-generated_at: "2026-03-30T03:49:01.713Z"
+generated_at: "2026-03-30T03:51:50.899Z"
 status: "active"
 ---
 

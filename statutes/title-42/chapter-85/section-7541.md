@@ -3,9 +3,9 @@ title: "Section 7541 - Compliance by vehicles and engines in actual use"
 usc_title: 42
 usc_section: "7541"
 chapter: 85
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 7541"
-generated_at: "2026-03-30T03:50:16.556Z"
+generated_at: "2026-03-30T03:52:37.376Z"
 status: "active"
 ---
 
@@ -50,9 +50,8 @@ status: "active"
 - **(f)** Any inspection of a motor vehicle or a motor vehicle engine for purposes of subsection (c)(1) of this section, after its sale to the ultimate purchaser, shall be made only if the owner of such vehicle or engine voluntarily permits such inspection to be made, except as may be provided by any State or local inspection program.
 - **(g)** For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3) of this section)), 3 3 So in original. The second closing parenthesis probably should not appear. unless such part, item, or device is covered by any warranty not mandated by this chapter.
 - **(h)**
-  - **(1)** Upon the sale of each new light-duty motor vehicle by a dealer, the dealer shall furnish to the purchaser a certificate that such motor vehicle conforms to the applicable regulations under section 7521 of this title , including notice of the purchaser’s rights under paragraph (2).
-  - **(2)** If at any time during the period for which the warranty applies under subsection (b) of this section, a motor vehicle fails to conform to the applicable regulations under section 7521 of this title as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2) of this section (without regard to subparagraph (C) thereof).
-  - **(3)** Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
+  - **(1)** If at any time during the period for which the warranty applies under subsection (b) of this section, a motor vehicle fails to conform to the applicable regulations under section 7521 of this title as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2) of this section (without regard to subparagraph (C) thereof).
+  - **(2)** Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
 - **(i)**
   - **(1)** For purposes of subsection (a)(1) of this section and subsection (b) of this section, the warranty period, effective with respect to new light-duty trucks and new light-duty vehicles and engines, manufactured in the model year 1995 and thereafter, shall be the first 2 years or 24,000 miles of use (whichever first occurs), except as provided in paragraph (2). For purposes of subsection (a)(1) of this section and subsection (b) of this section, for other vehicles and engines the warranty period shall be the period established by the Administrator by regulation (promulgated prior to November 15, 1990 ) for such purposes unless the Administrator subsequently modifies such regulation.
   - **(2)** In the case of a specified major emission control component, the warranty period for new light-duty trucks and new light-duty vehicles and engines manufactured in the model year 1995 and thereafter for purposes of subsection (a)(1) of this section and subsection (b) of this section shall be 8 years or 80,000 miles of use (whichever first occurs). As used in this paragraph, the term “specified major emission control component” means only a catalytic converter, an electronic emissions control unit, and an onboard emissions diagnostic device, except that the Administrator may designate any other pollution control device or component as a specified major emission control component if—

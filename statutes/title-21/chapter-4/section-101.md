@@ -3,9 +3,9 @@ title: "Section 101 - Suspension of importation of all animals"
 usc_title: 21
 usc_section: "101"
 chapter: 4
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "21 U.S.C. § 101"
-generated_at: "2026-03-30T03:49:01.615Z"
+generated_at: "2026-03-30T03:51:50.802Z"
 status: "active"
 ---
 

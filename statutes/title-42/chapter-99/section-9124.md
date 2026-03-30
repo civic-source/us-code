@@ -3,9 +3,9 @@ title: "Section 9124 - Civil actions"
 usc_title: 42
 usc_section: "9124"
 chapter: 99
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 9124"
-generated_at: "2026-03-30T03:50:16.612Z"
+generated_at: "2026-03-30T03:52:37.425Z"
 status: "active"
 ---
 

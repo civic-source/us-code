@@ -3,9 +3,9 @@ title: "Section 2200e - Definitions"
 usc_title: 10
 usc_section: "2200e"
 chapter: 112
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 2200e"
-generated_at: "2026-03-30T03:48:16.986Z"
+generated_at: "2026-03-30T03:51:04.365Z"
 status: "active"
 ---
 

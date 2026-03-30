@@ -3,9 +3,9 @@ title: "Section 499 - Disposal of money received by or on account of Forest Serv
 usc_title: 16
 usc_section: "499"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 499"
-generated_at: "2026-03-30T03:48:41.979Z"
+generated_at: "2026-03-30T03:51:45.908Z"
 status: "active"
 ---
 

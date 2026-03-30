@@ -3,9 +3,9 @@ title: "Section 7441 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7441"
 chapter: 101
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 7441"
-generated_at: "2026-03-30T03:48:09.964Z"
+generated_at: "2026-03-30T03:51:08.838Z"
 status: "active"
 ---
 

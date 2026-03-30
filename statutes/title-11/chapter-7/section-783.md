@@ -3,9 +3,9 @@ title: "Section 783 - Additional powers of trustee"
 usc_title: 11
 usc_section: "783"
 chapter: 7
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "11 U.S.C. § 783"
-generated_at: "2026-03-30T03:48:19.863Z"
+generated_at: "2026-03-30T03:51:12.213Z"
 status: "active"
 ---
 

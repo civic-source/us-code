@@ -3,9 +3,9 @@ title: "Section 47 - Disqualification of trial judge to hear appeal"
 usc_title: 28
 usc_section: "47"
 chapter: 3
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "28 U.S.C. § 47"
-generated_at: "2026-03-30T03:49:26.520Z"
+generated_at: "2026-03-30T03:52:00.457Z"
 status: "active"
 ---
 

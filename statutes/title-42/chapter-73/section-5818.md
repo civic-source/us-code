@@ -3,9 +3,9 @@ title: "Section 5818 - Repealed. Pub. L. 95–91, title VII, § 709(b) , Aug. 4,
 usc_title: 42
 usc_section: "5818"
 chapter: 73
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 5818"
-generated_at: "2026-03-30T03:50:16.452Z"
+generated_at: "2026-03-30T03:52:37.289Z"
 status: "repealed"
 ---
 

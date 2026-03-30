@@ -3,9 +3,9 @@ title: "Section 1253 - Payments to minors"
 usc_title: 25
 usc_section: "1253"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1253"
-generated_at: "2026-03-30T03:49:08.443Z"
+generated_at: "2026-03-30T03:51:52.380Z"
 status: "active"
 ---
 

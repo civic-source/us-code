@@ -3,9 +3,9 @@ title: "Section 470g - White House, United States Supreme Court building, and Un
 usc_title: 16
 usc_section: "470g"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 470g"
-generated_at: "2026-03-30T03:48:41.968Z"
+generated_at: "2026-03-30T03:51:45.898Z"
 status: "active"
 ---
 

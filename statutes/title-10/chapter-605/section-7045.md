@@ -3,9 +3,9 @@ title: "Section 7045 - Officers of the other armed forces; enlisted members: adm
 usc_title: 10
 usc_section: "7045"
 chapter: 605
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 7045"
-generated_at: "2026-03-30T03:48:17.064Z"
+generated_at: "2026-03-30T03:51:04.446Z"
 status: "active"
 ---
 

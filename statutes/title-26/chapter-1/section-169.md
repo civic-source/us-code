@@ -3,9 +3,9 @@ title: "Section 169 - Amortization of pollution control facilities"
 usc_title: 26
 usc_section: "169"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 169"
-generated_at: "2026-03-30T03:49:33.473Z"
+generated_at: "2026-03-30T03:52:08.500Z"
 status: "active"
 ---
 

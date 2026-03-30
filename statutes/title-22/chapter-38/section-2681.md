@@ -3,9 +3,9 @@ title: "Section 2681 - International broadcasting facilities; transfer to Depart
 usc_title: 22
 usc_section: "2681"
 chapter: 38
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 2681"
-generated_at: "2026-03-30T03:49:04.309Z"
+generated_at: "2026-03-30T03:51:55.040Z"
 status: "active"
 ---
 

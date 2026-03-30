@@ -3,9 +3,9 @@ title: "Section 2809 - Reports to tribes"
 usc_title: 25
 usc_section: "2809"
 chapter: 30
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 2809"
-generated_at: "2026-03-30T03:49:08.500Z"
+generated_at: "2026-03-30T03:51:52.439Z"
 status: "active"
 ---
 

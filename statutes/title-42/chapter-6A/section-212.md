@@ -3,9 +3,9 @@ title: "Section 212 - Retirement of commissioned officers"
 usc_title: 42
 usc_section: "212"
 chapter: 6
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 212"
-generated_at: "2026-03-30T03:50:15.745Z"
+generated_at: "2026-03-30T03:52:36.634Z"
 status: "active"
 ---
 

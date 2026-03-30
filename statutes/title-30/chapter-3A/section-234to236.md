@@ -3,9 +3,9 @@ title: "Section 234to236 - Repealed. June 22, 1948, ch. 605, § 3 , 62 Stat. 576
 usc_title: 30
 usc_section: "234to236"
 chapter: 3
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "30 U.S.C. § 234to236"
-generated_at: "2026-03-30T03:49:20.777Z"
+generated_at: "2026-03-30T03:51:59.108Z"
 status: "repealed"
 ---
 

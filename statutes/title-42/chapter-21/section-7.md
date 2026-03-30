@@ -3,9 +3,9 @@ title: "Section 7 - Effect on State laws"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T03:50:16.286Z"
+generated_at: "2026-03-30T03:52:37.148Z"
 status: "active"
 ---
 

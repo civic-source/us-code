@@ -3,9 +3,9 @@ title: "Section 6202 - Purposes"
 usc_title: 16
 usc_section: "6202"
 chapter: 81
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 6202"
-generated_at: "2026-03-30T03:48:42.177Z"
+generated_at: "2026-03-30T03:51:46.104Z"
 status: "active"
 ---
 

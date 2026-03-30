@@ -3,9 +3,9 @@ title: "Section 1771d - Purchase and transfer of settlement lands"
 usc_title: 25
 usc_section: "1771d"
 chapter: 19
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1771d"
-generated_at: "2026-03-30T03:49:08.472Z"
+generated_at: "2026-03-30T03:51:52.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5772 - Definitions"
 usc_title: 42
 usc_section: "5772"
 chapter: 72
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 5772"
-generated_at: "2026-03-30T03:50:16.448Z"
+generated_at: "2026-03-30T03:52:37.287Z"
 status: "active"
 ---
 

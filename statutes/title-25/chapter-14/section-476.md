@@ -3,9 +3,9 @@ title: "Section 476 - Organization of Indian tribes; constitution and bylaws and
 usc_title: 25
 usc_section: "476"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 476"
-generated_at: "2026-03-30T03:49:08.412Z"
+generated_at: "2026-03-30T03:51:52.348Z"
 status: "active"
 ---
 

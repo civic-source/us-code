@@ -3,9 +3,9 @@ title: "Section 1171 - Regular enlisted members: early discharge"
 usc_title: 10
 usc_section: "1171"
 chapter: 59
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 1171"
-generated_at: "2026-03-30T03:48:16.953Z"
+generated_at: "2026-03-30T03:51:04.331Z"
 status: "active"
 ---
 

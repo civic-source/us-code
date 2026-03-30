@@ -3,9 +3,9 @@ title: "Section 1303 - Coordination of regulatory and inspection activities"
 usc_title: 30
 usc_section: "1303"
 chapter: 25
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "30 U.S.C. § 1303"
-generated_at: "2026-03-30T03:49:20.808Z"
+generated_at: "2026-03-30T03:51:59.149Z"
 status: "active"
 ---
 

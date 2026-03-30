@@ -3,9 +3,9 @@ title: "Section 452 - Supervision of division of cooperative marketing"
 usc_title: 7
 usc_section: "452"
 chapter: 18
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 452"
-generated_at: "2026-03-30T03:48:09.778Z"
+generated_at: "2026-03-30T03:51:08.651Z"
 status: "active"
 ---
 

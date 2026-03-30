@@ -3,9 +3,9 @@ title: "Section 1402a - Recomputation of retired or retainer pay to reflect late
 usc_title: 10
 usc_section: "1402a"
 chapter: 71
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 1402a"
-generated_at: "2026-03-30T03:48:16.957Z"
+generated_at: "2026-03-30T03:51:04.336Z"
 status: "active"
 ---
 

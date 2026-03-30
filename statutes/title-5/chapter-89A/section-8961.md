@@ -3,9 +3,9 @@ title: "Section 8961 - Jurisdiction of courts"
 usc_title: 5
 usc_section: "8961"
 chapter: 89
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "5 U.S.C. § 8961"
-generated_at: "2026-03-30T03:48:03.713Z"
+generated_at: "2026-03-30T03:50:45.852Z"
 status: "active"
 ---
 

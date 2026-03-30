@@ -3,9 +3,9 @@ title: "Section 4020 - Dissemination of flood insurance information"
 usc_title: 42
 usc_section: "4020"
 chapter: 50
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 4020"
-generated_at: "2026-03-30T03:50:16.389Z"
+generated_at: "2026-03-30T03:52:37.234Z"
 status: "active"
 ---
 

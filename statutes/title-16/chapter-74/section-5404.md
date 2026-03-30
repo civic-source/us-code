@@ -3,9 +3,9 @@ title: "Section 5404 - National Maritime Heritage Grants Advisory Committee"
 usc_title: 16
 usc_section: "5404"
 chapter: 74
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 5404"
-generated_at: "2026-03-30T03:48:42.170Z"
+generated_at: "2026-03-30T03:51:46.098Z"
 status: "active"
 ---
 

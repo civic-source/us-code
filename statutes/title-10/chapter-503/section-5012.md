@@ -3,9 +3,9 @@ title: "Section 5012 - Department of the Navy: seal"
 usc_title: 10
 usc_section: "5012"
 chapter: 503
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 5012"
-generated_at: "2026-03-30T03:48:17.053Z"
+generated_at: "2026-03-30T03:51:04.435Z"
 status: "active"
 ---
 

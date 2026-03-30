@@ -3,9 +3,9 @@ title: "Section 2009eeto2009ee3 - Repealed. Pub. L. 110–234, title VI, § 6002
 usc_title: 7
 usc_section: "2009eeto2009ee3"
 chapter: 50
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 2009eeto2009ee3"
-generated_at: "2026-03-30T03:48:09.866Z"
+generated_at: "2026-03-30T03:51:08.740Z"
 status: "repealed"
 ---
 

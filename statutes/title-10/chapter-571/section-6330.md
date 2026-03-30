@@ -3,9 +3,9 @@ title: "Section 6330 - Enlisted members: transfer to Fleet Reserve and Fleet Mar
 usc_title: 10
 usc_section: "6330"
 chapter: 571
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 6330"
-generated_at: "2026-03-30T03:48:17.060Z"
+generated_at: "2026-03-30T03:51:04.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3839bb - Conservation of private grazing land"
 usc_title: 16
 usc_section: "3839bb"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3839bb"
-generated_at: "2026-03-30T03:48:42.153Z"
+generated_at: "2026-03-30T03:51:46.078Z"
 status: "active"
 ---
 
@@ -58,4 +58,4 @@ status: "active"
     - **(D)** The area proposed to be included in a grazing management district shall be determined by the Secretary on the basis of an application by farmers or ranchers.
     - **(E)** The Secretary may use authority under the Agricultural Adjustment Act ( 7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to operate, on a demonstration basis, a grazing management district.
     - **(F)** The activities of a grazing management district shall be scientifically sound activities, as determined by the Secretary in consultation with a technical advisory committee composed of ranchers, farmers, and technical experts.
-- **(e)** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2012.
+- **(e)** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.

@@ -3,9 +3,9 @@ title: "Section 917to922 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "917to922"
 chapter: 17
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "29 U.S.C. § 917to922"
-generated_at: "2026-03-30T03:49:28.105Z"
+generated_at: "2026-03-30T03:52:01.717Z"
 status: "repealed"
 ---
 

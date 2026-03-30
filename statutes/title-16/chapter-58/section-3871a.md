@@ -1,0 +1,57 @@
+---
+title: "Section 3871a - Definitions"
+usc_title: 16
+usc_section: "3871a"
+chapter: 58
+current_through: "PL 113-120"
+classification: "16 U.S.C. § 3871a"
+generated_at: "2026-03-30T03:51:46.082Z"
+status: "active"
+---
+
+# § 3871a. Definitions
+
+In this subchapter:
+
+  - **(1)** The term “covered program” means the following:
+    - **(A)** The agricultural conservation easement program.
+    - **(B)** The environmental quality incentives program.
+    - **(C)** The conservation stewardship program.
+    - **(D)** The healthy forests reserve program established under section 6571 of this title .
+  - **(2)** The term “eligible activity” means a conservation activity for any of the following:
+    - **(A)** Water quality restoration or enhancement projects, including nutrient management and sediment reduction.
+    - **(B)** Water quantity conservation, restoration, or enhancement projects relating to surface water and groundwater resources, including—
+      - **(i)** the conversion of irrigated cropland to the production of less water-intensive agricultural commodities or dryland farming; or
+      - **(ii)** irrigation system improvement and irrigation efficiency enhancement.
+    - **(C)** Drought mitigation.
+    - **(D)** Flood prevention.
+    - **(E)** Water retention.
+    - **(F)** Air quality improvement.
+    - **(G)** Habitat conservation, restoration, and enhancement.
+    - **(H)** Erosion control and sediment reduction.
+    - **(I)** Forest restoration.
+    - **(J)** Other related activities that the Secretary determines will help achieve conservation benefits.
+  - **(3)**
+    - **(A)** The term “eligible land” means—
+      - **(i)** land on which agricultural commodities, livestock, or forest-related products are produced; and
+      - **(ii)** lands associated with the lands described in clause (i).
+    - **(B)** The term “eligible land” includes—
+      - **(i)** cropland;
+      - **(ii)** grassland;
+      - **(iii)** rangeland;
+      - **(iv)** pastureland;
+      - **(v)** nonindustrial private forest land; and
+      - **(vi)** other land incidental to agricultural production (including wetlands and riparian buffers) on which significant natural resource issues could be addressed under the program.
+  - **(4)** The term “eligible partner” means any of the following:
+    - **(A)** An agricultural or silvicultural producer association or other group of producers.
+    - **(B)** A State or unit of local government.
+    - **(C)** An Indian tribe.
+    - **(D)** A farmer cooperative.
+    - **(E)** A water district, irrigation district, rural water district or association, or other organization with specific water delivery authority to producers on agricultural land.
+    - **(F)** A municipal water or wastewater treatment entity.
+    - **(G)** An institution of higher education.
+    - **(H)** An organization or entity with an established history of working cooperatively with producers on agricultural land, as determined by the Secretary, to address—
+      - **(i)** local conservation priorities related to agricultural production, wildlife habitat development, or nonindustrial private forest land management; or
+      - **(ii)** critical watershed-scale soil erosion, water quality, sediment reduction, or other natural resource issues.
+  - **(5)** The term “partnership agreement” means an agreement entered into under section 3871b of this title between the Secretary and an eligible partner.
+  - **(6)** The term “program” means the regional conservation partnership program established by this subchapter.

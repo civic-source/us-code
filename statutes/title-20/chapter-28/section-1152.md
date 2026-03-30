@@ -3,9 +3,9 @@ title: "Section 1152 - Repealed. Pub. L. 109–162, title III, § 304(f) , Jan. 
 usc_title: 20
 usc_section: "1152"
 chapter: 28
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 1152"
-generated_at: "2026-03-30T03:48:56.186Z"
+generated_at: "2026-03-30T03:51:32.425Z"
 status: "repealed"
 ---
 

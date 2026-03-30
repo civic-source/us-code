@@ -3,9 +3,9 @@ title: "Section 783 - Hydroelectric generating facilities; lists, transmittal to
 usc_title: 15
 usc_section: "783"
 chapter: 16
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 783"
-generated_at: "2026-03-30T03:48:24.611Z"
+generated_at: "2026-03-30T03:51:23.023Z"
 status: "active"
 ---
 

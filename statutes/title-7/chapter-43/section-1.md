@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 107–228, div. A, title II, § 213 , Sept
 usc_title: 7
 usc_section: "1"
 chapter: 43
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T03:48:09.843Z"
+generated_at: "2026-03-30T03:51:08.717Z"
 status: "repealed"
 ---
 

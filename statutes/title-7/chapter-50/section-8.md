@@ -3,9 +3,9 @@ title: "Section 8 - Rural business investment companies"
 usc_title: 7
 usc_section: "8"
 chapter: 50
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T03:48:09.865Z"
+generated_at: "2026-03-30T03:51:08.738Z"
 status: "active"
 ---
 

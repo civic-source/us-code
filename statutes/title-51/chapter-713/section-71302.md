@@ -3,9 +3,9 @@ title: "Section 71302 - Information sharing to avoid physical or radio-frequency
 usc_title: 51
 usc_section: "71302"
 chapter: 713
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "51 U.S.C. § 71302"
-generated_at: "2026-03-30T03:50:28.053Z"
+generated_at: "2026-03-30T03:53:06.091Z"
 status: "active"
 ---
 

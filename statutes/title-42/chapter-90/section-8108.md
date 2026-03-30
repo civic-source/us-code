@@ -3,9 +3,9 @@ title: "Section 8108 - Warnings to homeowners of foreclosure rescue scams"
 usc_title: 42
 usc_section: "8108"
 chapter: 90
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 8108"
-generated_at: "2026-03-30T03:50:16.590Z"
+generated_at: "2026-03-30T03:52:37.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1704 - Option agreements to purchase private settlement lands"
 usc_title: 25
 usc_section: "1704"
 chapter: 19
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1704"
-generated_at: "2026-03-30T03:49:08.469Z"
+generated_at: "2026-03-30T03:51:52.406Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-30T03:48:16.961Z"
+generated_at: "2026-03-30T03:51:04.340Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1174 - Liquidation"
 usc_title: 11
 usc_section: "1174"
 chapter: 11
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "11 U.S.C. § 1174"
-generated_at: "2026-03-30T03:48:19.867Z"
+generated_at: "2026-03-30T03:51:12.217Z"
 status: "active"
 ---
 

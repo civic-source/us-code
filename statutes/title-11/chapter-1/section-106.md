@@ -3,9 +3,9 @@ title: "Section 106 - Waiver of sovereign immunity"
 usc_title: 11
 usc_section: "106"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "11 U.S.C. § 106"
-generated_at: "2026-03-30T03:48:19.847Z"
+generated_at: "2026-03-30T03:51:12.194Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13975 - Transitional housing assistance grants for victims of do
 usc_title: 42
 usc_section: "13975"
 chapter: 136
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 13975"
-generated_at: "2026-03-30T03:50:16.775Z"
+generated_at: "2026-03-30T03:52:37.563Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
     - **(C)**
       - **(i)**
         - **(I)** Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title .
-        - **(II)** 2 2 So in original. Probably should be “section”. The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
+        - **(II)** 3 3 So in original. Probably should be “section.—”. The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
       - **(ii)** Priority shall be given to projects developed under subsection (b) of this section that primarily serve underserved populations.
     - **(D)** In this paragraph, the term “qualified application” means an application that—
       - **(i)** has been submitted by an eligible applicant;

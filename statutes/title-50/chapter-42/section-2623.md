@@ -3,9 +3,9 @@ title: "Section 2623 - River Protection Project"
 usc_title: 50
 usc_section: "2623"
 chapter: 42
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "50 U.S.C. § 2623"
-generated_at: "2026-03-30T03:50:23.749Z"
+generated_at: "2026-03-30T03:52:44.244Z"
 status: "active"
 ---
 

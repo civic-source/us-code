@@ -3,9 +3,9 @@ title: "Section 152606 - Principal office"
 usc_title: 36
 usc_section: "152606"
 chapter: 1526
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 152606"
-generated_at: "2026-03-30T03:49:54.895Z"
+generated_at: "2026-03-30T03:52:18.784Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13925 - Definitions and grant provisions"
 usc_title: 42
 usc_section: "13925"
 chapter: 136
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 13925"
-generated_at: "2026-03-30T03:50:16.773Z"
+generated_at: "2026-03-30T03:52:37.562Z"
 status: "active"
 ---
 
@@ -140,7 +140,7 @@ status: "active"
   - **(13)**
     - **(A)** No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322 ; 108 Stat. 1902 ), the Violence Against Women Act of 2000 (division B of Public Law 106–386 ; 114 Stat. 1491 ), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162 ; 119 Stat. 3080 ), 1 1 See References in Text note below. the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
     - **(B)** If sex segregation or sex-specific programming is necessary to the essential operation of a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual’s sex. In such circumstances, grantees may meet the requirements of this paragraph by providing comparable services to individuals who cannot be provided with the sex-segregated or sex-specific programming.
-    - **(C)** The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under section 3789d of this title .
+    - **(C)** The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under section 3789d of this title . 1
     - **(D)** Nothing contained in this paragraph shall be construed, interpreted, or applied to supplant, displace, preempt, or otherwise diminish the responsibilities and liabilities under other State or Federal civil rights law, whether statutory or common.
   - **(14)** Victim services and legal assistance under this subchapter also include services and assistance to victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 7102 of title 22 .
   - **(15)**

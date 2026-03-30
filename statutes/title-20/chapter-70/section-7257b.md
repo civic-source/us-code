@@ -3,9 +3,9 @@ title: "Section 7257b - Reports and evaluation"
 usc_title: 20
 usc_section: "7257b"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 7257b"
-generated_at: "2026-03-30T03:48:56.293Z"
+generated_at: "2026-03-30T03:51:32.522Z"
 status: "active"
 ---
 

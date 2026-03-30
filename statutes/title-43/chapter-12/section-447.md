@@ -3,9 +3,9 @@ title: "Section 447 - Relinquishment of homestead entry and making new entry"
 usc_title: 43
 usc_section: "447"
 chapter: 12
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 447"
-generated_at: "2026-03-30T03:49:59.876Z"
+generated_at: "2026-03-30T03:52:21.996Z"
 status: "active"
 ---
 

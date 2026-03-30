@@ -3,9 +3,9 @@ title: "Section 2689m - Transferred"
 usc_title: 42
 usc_section: "2689m"
 chapter: 33
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 2689m"
-generated_at: "2026-03-30T03:50:16.323Z"
+generated_at: "2026-03-30T03:52:37.180Z"
 status: "transferred"
 ---
 

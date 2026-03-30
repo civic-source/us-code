@@ -3,9 +3,9 @@ title: "Section 6623 - Local use of funds"
 usc_title: 20
 usc_section: "6623"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 6623"
-generated_at: "2026-03-30T03:48:56.270Z"
+generated_at: "2026-03-30T03:51:32.502Z"
 status: "active"
 ---
 

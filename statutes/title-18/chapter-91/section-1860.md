@@ -3,9 +3,9 @@ title: "Section 1860 - Bids at land sales"
 usc_title: 18
 usc_section: "1860"
 chapter: 91
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "18 U.S.C. § 1860"
-generated_at: "2026-03-30T03:48:37.349Z"
+generated_at: "2026-03-30T03:51:29.533Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2010 - Assignment of rooms; control of by House"
 usc_title: 2
 usc_section: "2010"
 chapter: 30
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 2010"
-generated_at: "2026-03-30T03:47:48.874Z"
+generated_at: "2026-03-30T03:50:54.414Z"
 status: "active"
 ---
 

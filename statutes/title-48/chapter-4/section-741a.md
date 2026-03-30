@@ -3,9 +3,9 @@ title: "Section 741a - Internal-revenue taxes; levy and collection; discriminati
 usc_title: 48
 usc_section: "741a"
 chapter: 4
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "48 U.S.C. § 741a"
-generated_at: "2026-03-30T03:50:21.076Z"
+generated_at: "2026-03-30T03:52:41.004Z"
 status: "active"
 ---
 

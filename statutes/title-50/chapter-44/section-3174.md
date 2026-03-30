@@ -3,9 +3,9 @@ title: "Section 3174 - Laws subject to stay"
 usc_title: 50
 usc_section: "3174"
 chapter: 44
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "50 U.S.C. § 3174"
-generated_at: "2026-03-30T03:50:23.767Z"
+generated_at: "2026-03-30T03:52:44.265Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8341 - Authority to further define terms"
 usc_title: 15
 usc_section: "8341"
 chapter: 109
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 8341"
-generated_at: "2026-03-30T03:48:24.852Z"
+generated_at: "2026-03-30T03:51:23.155Z"
 status: "active"
 ---
 

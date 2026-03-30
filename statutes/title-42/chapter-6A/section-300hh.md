@@ -3,9 +3,9 @@ title: "Section 300hh - Public health and medical preparedness and response func
 usc_title: 42
 usc_section: "300hh"
 chapter: 6
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 300hh"
-generated_at: "2026-03-30T03:50:15.926Z"
+generated_at: "2026-03-30T03:52:36.813Z"
 status: "active"
 ---
 

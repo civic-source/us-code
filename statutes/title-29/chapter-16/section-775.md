@@ -3,9 +3,9 @@ title: "Section 775 - Recreational programs"
 usc_title: 29
 usc_section: "775"
 chapter: 16
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "29 U.S.C. § 775"
-generated_at: "2026-03-30T03:49:28.098Z"
+generated_at: "2026-03-30T03:52:01.711Z"
 status: "active"
 ---
 

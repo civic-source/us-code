@@ -3,9 +3,9 @@ title: "Section 5859 - International nonproliferation initiative"
 usc_title: 22
 usc_section: "5859"
 chapter: 67
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 5859"
-generated_at: "2026-03-30T03:49:04.364Z"
+generated_at: "2026-03-30T03:51:55.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321 - Repealed. Oct. 25, 1951, ch. 562, § 1(15) , 65 Stat. 638"
 usc_title: 15
 usc_section: "321"
 chapter: 9
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 321"
-generated_at: "2026-03-30T03:48:24.562Z"
+generated_at: "2026-03-30T03:51:22.976Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4431to4436 - Repealed. Pub. L. 93–288, title VII, § 703 , for
 usc_title: 42
 usc_section: "4431to4436"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 4431to4436"
-generated_at: "2026-03-30T03:50:16.399Z"
+generated_at: "2026-03-30T03:52:37.243Z"
 status: "repealed"
 ---
 

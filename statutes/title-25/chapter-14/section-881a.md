@@ -3,9 +3,9 @@ title: "Section 881a - Trusts and other procedures for protection of minors and 
 usc_title: 25
 usc_section: "881a"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 881a"
-generated_at: "2026-03-30T03:49:08.434Z"
+generated_at: "2026-03-30T03:51:52.370Z"
 status: "active"
 ---
 

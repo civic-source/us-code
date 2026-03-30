@@ -3,9 +3,9 @@ title: "Section 2386 - Transfer of installations without charge"
 usc_title: 42
 usc_section: "2386"
 chapter: 24
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 2386"
-generated_at: "2026-03-30T03:50:16.321Z"
+generated_at: "2026-03-30T03:52:37.177Z"
 status: "active"
 ---
 

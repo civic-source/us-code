@@ -3,9 +3,9 @@ title: "Section 7341to7345 - Repealed. Pub. L. 103–160, div. A, title VIII, §
 usc_title: 10
 usc_section: "7341to7345"
 chapter: 635
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 7341to7345"
-generated_at: "2026-03-30T03:48:17.067Z"
+generated_at: "2026-03-30T03:51:04.449Z"
 status: "repealed"
 ---
 

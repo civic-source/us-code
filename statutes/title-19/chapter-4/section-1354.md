@@ -3,9 +3,9 @@ title: "Section 1354 - Notice of intention to negotiate agreement; opportunity t
 usc_title: 19
 usc_section: "1354"
 chapter: 4
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "19 U.S.C. § 1354"
-generated_at: "2026-03-30T03:48:52.181Z"
+generated_at: "2026-03-30T03:51:27.288Z"
 status: "active"
 ---
 

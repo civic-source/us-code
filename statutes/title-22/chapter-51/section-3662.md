@@ -3,9 +3,9 @@ title: "Section 3662 - Appeals to Board; procedures"
 usc_title: 22
 usc_section: "3662"
 chapter: 51
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 3662"
-generated_at: "2026-03-30T03:49:04.329Z"
+generated_at: "2026-03-30T03:51:55.059Z"
 status: "active"
 ---
 

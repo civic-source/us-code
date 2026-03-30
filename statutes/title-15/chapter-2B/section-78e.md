@@ -3,9 +3,9 @@ title: "Section 78e - Transactions on unregistered exchanges"
 usc_title: 15
 usc_section: "78e"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 78e"
-generated_at: "2026-03-30T03:48:24.509Z"
+generated_at: "2026-03-30T03:51:22.922Z"
 status: "active"
 ---
 

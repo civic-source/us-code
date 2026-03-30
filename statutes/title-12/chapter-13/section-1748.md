@@ -3,9 +3,9 @@ title: "Section 1748 - Definitions"
 usc_title: 12
 usc_section: "1748"
 chapter: 13
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "12 U.S.C. § 1748"
-generated_at: "2026-03-30T03:48:29.210Z"
+generated_at: "2026-03-30T03:51:18.055Z"
 status: "active"
 ---
 

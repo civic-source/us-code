@@ -3,9 +3,9 @@ title: "Section 1801 - Appointment"
 usc_title: 2
 usc_section: "1801"
 chapter: 28
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 1801"
-generated_at: "2026-03-30T03:47:48.868Z"
+generated_at: "2026-03-30T03:50:54.400Z"
 status: "active"
 ---
 

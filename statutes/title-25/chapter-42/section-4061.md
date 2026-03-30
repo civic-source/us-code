@@ -3,9 +3,9 @@ title: "Section 4061 - Authorization of appropriations"
 usc_title: 25
 usc_section: "4061"
 chapter: 42
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 4061"
-generated_at: "2026-03-30T03:49:08.512Z"
+generated_at: "2026-03-30T03:51:52.452Z"
 status: "active"
 ---
 

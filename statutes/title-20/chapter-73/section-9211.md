@@ -3,9 +3,9 @@ title: "Section 9211 - Reservation of funds; grants to eligible agencies; allotm
 usc_title: 20
 usc_section: "9211"
 chapter: 73
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 9211"
-generated_at: "2026-03-30T03:48:56.315Z"
+generated_at: "2026-03-30T03:51:32.544Z"
 status: "active"
 ---
 

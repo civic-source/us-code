@@ -3,9 +3,9 @@ title: "Section 9519 - Biennial report"
 usc_title: 20
 usc_section: "9519"
 chapter: 76
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 9519"
-generated_at: "2026-03-30T03:48:56.320Z"
+generated_at: "2026-03-30T03:51:32.549Z"
 status: "active"
 ---
 

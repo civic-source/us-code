@@ -3,9 +3,9 @@ title: "Section 4532 - Rates of compensation disbursed by Chief Administrative O
 usc_title: 2
 usc_section: "4532"
 chapter: 45
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 4532"
-generated_at: "2026-03-30T03:47:48.884Z"
+generated_at: "2026-03-30T03:50:54.430Z"
 status: "active"
 ---
 

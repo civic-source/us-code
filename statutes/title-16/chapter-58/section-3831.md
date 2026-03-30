@@ -3,23 +3,26 @@ title: "Section 3831 - Conservation reserve"
 usc_title: 16
 usc_section: "3831"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3831"
-generated_at: "2026-03-30T03:48:42.145Z"
+generated_at: "2026-03-30T03:51:46.073Z"
 status: "active"
 ---
 
 # § 3831. Conservation reserve
 
-- **(a)** Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
+- **(a)** Through the 2018 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 - **(b)** The Secretary may include in the program established under this subpart—
   - **(1)** highly erodible cropland that—
     - **(A)**
       - **(i)** if permitted to remain untreated could substantially reduce the agricultural production capability for future generations; or
       - **(ii)** cannot be farmed in accordance with a plan that complies with the requirements of subchapter II of this chapter; and
-    - **(B)** the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding the date of enactment of the Food, Conservation, and Energy Act of 2008 (except for land enrolled in the conservation reserve program as of that date);
-  - **(2)** marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990 ;
-  - **(3)** marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
+    - **(B)** the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding February 7, 2014 (except for land enrolled in the conservation reserve program as of that date);
+  - **(2)** marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
+  - **(3)** grasslands that—
+    - **(A)** contain forbs or shrubland (including improved rangeland and pastureland) for which grazing is the predominant use;
+    - **(B)** are located in an area historically dominated by grasslands; and
+    - **(C)** could provide habitat for animal and plant populations of significant ecological value if the land is retained in its current use or restored to a natural condition;
   - **(4)** cropland that is otherwise ineligible if the Secretary determines that—
     - **(A)** if permitted to remain in agricultural production, the land would—
       - **(i)** contribute to the degradation of soil, water, or air quality; or
@@ -27,32 +30,33 @@ status: "active"
     - **(B)** the land is a—
       - **(i)** newly-created, permanent grass sod waterway; or
       - **(ii)** a contour grass sod strip established and maintained as part of an approved conservation plan;
-    - **(C)** the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs;
+    - **(C)** the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips or riparian buffers devoted to trees, shrubs, or grasses;
     - **(D)** the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; or
     - **(E)** enrollment of the land would facilitate a net savings in groundwater or surface water resources of the agricultural operation of the producer; or
-  - **(5)** the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
-    - **(A)** the land is enrolled as part of the buffer; and
+  - **(5)** the portion of land in a field not enrolled in the conservation reserve in a case in which—
+    - **(A)** more than 50 percent of the land in the field is enrolled as a buffer or filterstrip, or more than 75 percent of the land in the field is enrolled as a conservation practice other than as a buffer or filterstrip; and
     - **(B)** the remainder of the field is—
       - **(i)** infeasible to farm; and
       - **(ii)** enrolled at regular rental rates.
-- **(c)** For purposes of determining the eligibility of land to be placed in the conservation reserve established under this subpart, land shall be considered to be planted to an agricultural commodity during a crop year if—
-  - **(1)** during the crop year, the land was devoted to a conserving use; or
+- **(c)** For purposes of determining the eligibility of land to be placed in the conservation reserve established under this subpart, land shall be considered to be planted to an agricultural commodity during a crop year if, during the crop year, the land was devoted to a conserving use.
+- **(d)**
+  - **(1)** The Secretary may maintain in the conservation reserve at any one time during—
+    - **(A)** fiscal year 2014, no more than 27,500,000 acres;
+    - **(B)** fiscal year 2015, no more than 26,000,000 acres;
+    - **(C)** fiscal year 2016, no more than 25,000,000 acres;
+    - **(D)** fiscal year 2017, no more than 24,000,000 acres; and
+    - **(E)** fiscal year 2018, no more than 24,000,000 acres.
   - **(2)**
-    - **(A)** during the crop year or during any of the 2 years preceding the crop year, the land was enrolled in the water bank program; and
-    - **(B)** the contract of the owner or operator of the cropland expired or will expire in calendar year 2000, 2001, or 2002.
-- **(d)** The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 ( 16 U.S.C. 3831 note; Public Law 101–624 )). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.
+    - **(A)** For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres of the land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.
+    - **(B)** In enrolling acres under subparagraph (A), the Secretary may give priority to land with expiring conservation reserve program contracts.
+    - **(C)** In enrolling acres under subparagraph (A), the Secretary shall make the program available to owners or operators of eligible land on a continuous enrollment basis with one or more ranking periods.
 - **(e)**
   - **(1)** For the purpose of carrying out this subpart, the Secretary shall enter into contracts of not less than 10, nor more than 15, years.
-  - **(2)**
-    - **(A)** In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors under a contract entered into under this subpart after October 1, 1990 , and land devoted to such uses under contracts modified under section 3835a of this title , the owner or operator of the land may, within the limitations prescribed under this section, specify the duration of the contract.
-    - **(B)** In the case of land that is devoted to hardwood trees under a contract entered into under this subpart prior to October 1, 1990 , the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
-  - **(3)** In the case of a contract described in paragraph (1) the term of which expires during calendar year 2002, an owner or operator of land enrolled under the contract may extend the contract for 1 additional year.
+  - **(2)** In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors under a contract entered into under this subpart, the owner or operator of the land may, within the limitations prescribed under paragraph (1), specify the duration of the contract.
 - **(f)**
-  - **(1)** On application by the appropriate State agency, the Secretary shall designate watershed areas of the Chesapeake Bay Region, the Great Lakes Region, the Long Island Sound Region, and other areas of special environmental sensitivity as conservation priority areas.
-  - **(2)** Watersheds eligible for designation under this subsection shall include areas with actual and significant adverse water quality or habitat impacts related to agricultural production activities.
-  - **(3)** Conservation priority area designation under this subsection shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw a watershed’s designation—
-    - **(A)** on application by the appropriate State agency; or
-    - **(B)** in the case of an area covered by this subsection, if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.
+  - **(1)** On application by the appropriate State agency, the Secretary shall designate areas of special environmental sensitivity as conservation priority areas.
+  - **(2)** Areas eligible for designation under this subsection shall include areas with actual and significant adverse water quality or habitat impacts related to agricultural production activities.
+  - **(3)** Conservation priority area designation under this subsection shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw an area’s designation if the Secretary finds that the area no longer contains actual and significant adverse water quality or habitat impacts related to agricultural production activities.
   - **(4)** In carrying out this subsection, the Secretary shall attempt to maximize water quality and habitat benefits in the watersheds described in paragraph (1) by promoting a significant level of enrollment of land within the watersheds in the program under this subpart by whatever means the Secretary determines are appropriate and consistent with the purposes of this subpart.
 - **(g)**
   - **(1)** For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.

@@ -3,9 +3,9 @@ title: "Section 564m - Water and fishing rights"
 usc_title: 25
 usc_section: "564m"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 564m"
-generated_at: "2026-03-30T03:49:08.416Z"
+generated_at: "2026-03-30T03:51:52.351Z"
 status: "active"
 ---
 

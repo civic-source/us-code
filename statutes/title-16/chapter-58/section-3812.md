@@ -3,9 +3,9 @@ title: "Section 3812 - Exemptions"
 usc_title: 16
 usc_section: "3812"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3812"
-generated_at: "2026-03-30T03:48:42.144Z"
+generated_at: "2026-03-30T03:51:46.072Z"
 status: "active"
 ---
 
@@ -15,7 +15,15 @@ status: "active"
   - **(1)** During the period beginning on December 23, 1985 , and ending on the later of January 1, 1990 , or the date that is 2 years after the date land on which a crop of an agricultural commodity is produced was mapped by the Soil Conservation Service for purposes of classifying such land under the land capability classification system in effect on December 23, 1985 , except as provided in paragraph (2), no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity on any land that was—
     - **(A)** cultivated to produce any of the 1981 through 1985 crops of an agricultural commodity; or
     - **(B)** set aside, diverted or otherwise not cultivated under a program administered by the Secretary for any such crops to reduce production of an agricultural commodity.
-  - **(2)** If, as of January 1, 1990 , or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995 , to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+  - **(2)**
+    - **(A)**
+    - **(B)**
+    - **(C)**
+      - **(i)**
+      - **(ii)**
+      - **(iii)**
+        - **(I)** only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+        - **(II)** not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
   - **(3)** Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title .
   - **(4)** On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 - **(b)** No person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity—

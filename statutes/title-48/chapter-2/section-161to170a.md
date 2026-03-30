@@ -3,9 +3,9 @@ title: "Section 161to170a - Omitted"
 usc_title: 48
 usc_section: "161to170a"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "48 U.S.C. § 161to170a"
-generated_at: "2026-03-30T03:50:21.072Z"
+generated_at: "2026-03-30T03:52:41.003Z"
 status: "omitted"
 ---
 

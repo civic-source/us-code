@@ -3,9 +3,9 @@ title: "Section 17532 - Responsible reintegration of offenders"
 usc_title: 42
 usc_section: "17532"
 chapter: 153
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 17532"
-generated_at: "2026-03-30T03:50:16.866Z"
+generated_at: "2026-03-30T03:52:37.648Z"
 status: "active"
 ---
 

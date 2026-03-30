@@ -3,9 +3,9 @@ title: "Section 569a - Major acquisitions"
 usc_title: 14
 usc_section: "569a"
 chapter: 15
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "14 U.S.C. § 569a"
-generated_at: "2026-03-30T03:48:29.626Z"
+generated_at: "2026-03-30T03:51:14.602Z"
 status: "active"
 ---
 

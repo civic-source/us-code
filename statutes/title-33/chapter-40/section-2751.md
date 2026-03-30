@@ -3,9 +3,9 @@ title: "Section 2751 - Savings provision"
 usc_title: 33
 usc_section: "2751"
 chapter: 40
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "33 U.S.C. § 2751"
-generated_at: "2026-03-30T03:49:49.388Z"
+generated_at: "2026-03-30T03:52:13.181Z"
 status: "active"
 ---
 

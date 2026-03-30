@@ -3,9 +3,9 @@ title: "Section 7002 - United States representation on joint management committe
 usc_title: 16
 usc_section: "7002"
 chapter: 89
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 7002"
-generated_at: "2026-03-30T03:48:42.187Z"
+generated_at: "2026-03-30T03:51:46.115Z"
 status: "active"
 ---
 

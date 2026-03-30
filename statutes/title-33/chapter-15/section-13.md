@@ -3,9 +3,9 @@ title: "Section 13 - Construction of flood control projects by non-Federal inter
 usc_title: 33
 usc_section: "13"
 chapter: 15
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "33 U.S.C. § 13"
-generated_at: "2026-03-30T03:49:49.340Z"
+generated_at: "2026-03-30T03:52:13.112Z"
 status: "active"
 ---
 

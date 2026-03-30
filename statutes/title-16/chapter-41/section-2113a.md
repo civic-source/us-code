@@ -1,0 +1,47 @@
+---
+title: "Section 2113a - Good neighbor authority"
+usc_title: 16
+usc_section: "2113a"
+chapter: 41
+current_through: "PL 113-120"
+classification: "16 U.S.C. § 2113a"
+generated_at: "2026-03-30T03:51:46.048Z"
+status: "active"
+---
+
+# § 2113a. Good neighbor authority
+
+- **(a)** In this section:
+  - **(1)** The term “authorized restoration services” means similar and complementary forest, rangeland, and watershed restoration services carried out—
+    - **(A)** on Federal land and non-Federal land; and
+    - **(B)** by either the Secretary or a Governor pursuant to a good neighbor agreement.
+  - **(2)**
+    - **(A)** The term “Federal land” means land that is—
+      - **(i)** National Forest System land; or
+      - **(ii)** public land (as defined in section 1702 of title 43 ).
+    - **(B)** The term “Federal land” does not include—
+      - **(i)** a component of the National Wilderness Preservation System;
+      - **(ii)** Federal land on which the removal of vegetation is prohibited or restricted by Act of Congress or Presidential proclamation (including the applicable implementation plan); or
+      - **(iii)** a wilderness study area.
+  - **(3)**
+    - **(A)** The term “forest, rangeland, and watershed restoration services” means—
+      - **(i)** activities to treat insect- and disease-infected trees;
+      - **(ii)** activities to reduce hazardous fuels; and
+      - **(iii)** any other activities to restore or improve forest, rangeland, and watershed health, including fish and wildlife habitat.
+    - **(B)** The term “forest, rangeland, and watershed restoration services” does not include—
+      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas; or
+      - **(ii)** construction, alteration, repair or replacement of public buildings or works.
+  - **(4)** The term “good neighbor agreement” means a cooperative agreement or contract (including a sole source contract) entered into between the Secretary and a Governor to carry out authorized restoration services under this section.
+  - **(5)** The term “Governor” means the Governor or any other appropriate executive official of an affected State or the Commonwealth of Puerto Rico.
+  - **(6)** The term “road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on February 7, 2014 ).
+  - **(7)** The term “Secretary” means—
+    - **(A)** the Secretary of Agriculture, with respect to National Forest System land; and
+    - **(B)** the Secretary of the Interior, with respect to Bureau of Land Management land.
+- **(b)**
+  - **(1)**
+    - **(A)** The Secretary may enter into a good neighbor agreement with a Governor to carry out authorized restoration services in accordance with this section.
+    - **(B)** The Secretary shall make each good neighbor agreement available to the public.
+  - **(2)**
+    - **(A)** Subsections (d) and (g) of section 472a of this title shall not apply to services performed under a cooperative agreement or contract entered into under subsection (a).
+    - **(B)** The Secretary shall provide or approve all silviculture prescriptions and marking guides to be applied on Federal land in all timber sale projects conducted under this section.
+  - **(3)** Any decision required to be made under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor.

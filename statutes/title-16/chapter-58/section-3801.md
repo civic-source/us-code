@@ -3,15 +3,15 @@ title: "Section 3801 - Definitions"
 usc_title: 16
 usc_section: "3801"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3801"
-generated_at: "2026-03-30T03:48:42.143Z"
+generated_at: "2026-03-30T03:51:46.071Z"
 status: "active"
 ---
 
 # § 3801. Definitions
 
-- **(a)** For purposes of subchapters I through V of this chapter:
+- **(a)** For purposes of subchapters I through VIII of this chapter:
   - **(1)** The term “agricultural commodity” means—
     - **(A)** any agricultural commodity planted and produced in a State by annual tilling of the soil, including tilling by one-trip planters; or
     - **(B)** sugarcane planted and produced in a State.

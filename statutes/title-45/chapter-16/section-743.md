@@ -3,9 +3,9 @@ title: "Section 743 - Valuation and conveyance of rail properties"
 usc_title: 45
 usc_section: "743"
 chapter: 16
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "45 U.S.C. § 743"
-generated_at: "2026-03-30T03:49:56.998Z"
+generated_at: "2026-03-30T03:52:20.965Z"
 status: "active"
 ---
 

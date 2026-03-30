@@ -3,9 +3,9 @@ title: "Section 1665f - Indian women treatment programs"
 usc_title: 25
 usc_section: "1665f"
 chapter: 18
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1665f"
-generated_at: "2026-03-30T03:49:08.463Z"
+generated_at: "2026-03-30T03:51:52.402Z"
 status: "active"
 ---
 

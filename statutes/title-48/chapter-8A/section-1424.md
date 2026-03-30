@@ -3,9 +3,9 @@ title: "Section 1424 - District Court of Guam; local courts; jurisdiction"
 usc_title: 48
 usc_section: "1424"
 chapter: 8
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "48 U.S.C. § 1424"
-generated_at: "2026-03-30T03:50:21.083Z"
+generated_at: "2026-03-30T03:52:41.012Z"
 status: "active"
 ---
 

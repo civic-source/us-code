@@ -3,9 +3,9 @@ title: "Section 333 - Responsibility for rail transportation unification and coo
 usc_title: 49
 usc_section: "333"
 chapter: 3
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "49 U.S.C. § 333"
-generated_at: "2026-03-30T03:50:26.008Z"
+generated_at: "2026-03-30T03:52:51.134Z"
 status: "active"
 ---
 

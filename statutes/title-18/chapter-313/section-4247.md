@@ -3,9 +3,9 @@ title: "Section 4247 - General provisions for chapter"
 usc_title: 18
 usc_section: "4247"
 chapter: 313
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "18 U.S.C. § 4247"
-generated_at: "2026-03-30T03:48:37.388Z"
+generated_at: "2026-03-30T03:51:29.581Z"
 status: "active"
 ---
 

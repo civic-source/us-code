@@ -3,9 +3,9 @@ title: "Section 90 - Repealed. Pub. L. 112–213, title II, § 216(c) , Dec. 20,
 usc_title: 14
 usc_section: "90"
 chapter: 5
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "14 U.S.C. § 90"
-generated_at: "2026-03-30T03:48:29.621Z"
+generated_at: "2026-03-30T03:51:14.597Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2211 - Reimbursement for equipment, material, or services furnis
 usc_title: 10
 usc_section: "2211"
 chapter: 131
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 2211"
-generated_at: "2026-03-30T03:48:16.986Z"
+generated_at: "2026-03-30T03:51:04.366Z"
 status: "active"
 ---
 

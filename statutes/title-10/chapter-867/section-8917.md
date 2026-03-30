@@ -3,9 +3,9 @@ title: "Section 8917 - Thirty years or more: regular enlisted members"
 usc_title: 10
 usc_section: "8917"
 chapter: 867
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 8917"
-generated_at: "2026-03-30T03:48:17.076Z"
+generated_at: "2026-03-30T03:51:04.458Z"
 status: "active"
 ---
 

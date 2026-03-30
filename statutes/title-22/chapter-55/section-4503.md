@@ -3,9 +3,9 @@ title: "Section 4503 - Establishment of Advisory Committee"
 usc_title: 22
 usc_section: "4503"
 chapter: 55
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 4503"
-generated_at: "2026-03-30T03:49:04.352Z"
+generated_at: "2026-03-30T03:51:55.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6555 - National activities"
 usc_title: 20
 usc_section: "6555"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 6555"
-generated_at: "2026-03-30T03:48:56.268Z"
+generated_at: "2026-03-30T03:51:32.499Z"
 status: "active"
 ---
 

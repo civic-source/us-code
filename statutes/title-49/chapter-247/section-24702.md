@@ -3,9 +3,9 @@ title: "Section 24702 - Transportation requested by States, authorities, and oth
 usc_title: 49
 usc_section: "24702"
 chapter: 247
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "49 U.S.C. § 24702"
-generated_at: "2026-03-30T03:50:26.055Z"
+generated_at: "2026-03-30T03:52:51.183Z"
 status: "active"
 ---
 

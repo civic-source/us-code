@@ -3,9 +3,9 @@ title: "Section 1300m - Definitions"
 usc_title: 25
 usc_section: "1300m"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1300m"
-generated_at: "2026-03-30T03:49:08.449Z"
+generated_at: "2026-03-30T03:51:52.386Z"
 status: "active"
 ---
 

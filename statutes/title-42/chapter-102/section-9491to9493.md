@@ -3,9 +3,9 @@ title: "Section 9491to9493 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) ,
 usc_title: 42
 usc_section: "9491to9493"
 chapter: 102
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 9491to9493"
-generated_at: "2026-03-30T03:50:16.615Z"
+generated_at: "2026-03-30T03:52:37.427Z"
 status: "repealed"
 ---
 

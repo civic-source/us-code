@@ -3,9 +3,9 @@ title: "Section 40 - Limits of superintendencies, agencies, and sub­agencies"
 usc_title: 25
 usc_section: "40"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 40"
-generated_at: "2026-03-30T03:49:08.389Z"
+generated_at: "2026-03-30T03:51:52.323Z"
 status: "active"
 ---
 

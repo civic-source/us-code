@@ -3,9 +3,9 @@ title: "Section 166 - Congressional Research Service"
 usc_title: 2
 usc_section: "166"
 chapter: 5
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 166"
-generated_at: "2026-03-30T03:47:48.826Z"
+generated_at: "2026-03-30T03:50:54.349Z"
 status: "active"
 ---
 

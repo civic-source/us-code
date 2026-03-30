@@ -3,9 +3,9 @@ title: "Section 2508 - Matching requirements; non-Federal share of project costs
 usc_title: 16
 usc_section: "2508"
 chapter: 45
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 2508"
-generated_at: "2026-03-30T03:48:42.124Z"
+generated_at: "2026-03-30T03:51:46.053Z"
 status: "active"
 ---
 

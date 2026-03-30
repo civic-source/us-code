@@ -3,9 +3,9 @@ title: "Section 2562 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(d
 usc_title: 50
 usc_section: "2562"
 chapter: 42
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "50 U.S.C. § 2562"
-generated_at: "2026-03-30T03:50:23.747Z"
+generated_at: "2026-03-30T03:52:44.242Z"
 status: "repealed"
 ---
 

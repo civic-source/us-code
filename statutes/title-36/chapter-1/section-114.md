@@ -3,9 +3,9 @@ title: "Section 114 - Leif Erikson Day"
 usc_title: 36
 usc_section: "114"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 114"
-generated_at: "2026-03-30T03:49:54.876Z"
+generated_at: "2026-03-30T03:52:18.762Z"
 status: "active"
 ---
 

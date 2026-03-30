@@ -3,9 +3,9 @@ title: "Section 1580 - Definitions"
 usc_title: 43
 usc_section: "1580"
 chapter: 32
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 1580"
-generated_at: "2026-03-30T03:49:59.912Z"
+generated_at: "2026-03-30T03:52:22.032Z"
 status: "active"
 ---
 

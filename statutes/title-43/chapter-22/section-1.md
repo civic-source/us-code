@@ -3,9 +3,9 @@ title: "Section 1 - Rights-of-way through public lands, Indian, and other reserv
 usc_title: 43
 usc_section: "1"
 chapter: 22
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T03:49:59.897Z"
+generated_at: "2026-03-30T03:52:22.017Z"
 status: "active"
 ---
 

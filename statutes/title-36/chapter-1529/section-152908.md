@@ -3,9 +3,9 @@ title: "Section 152908 - Restrictions"
 usc_title: 36
 usc_section: "152908"
 chapter: 1529
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 152908"
-generated_at: "2026-03-30T03:49:54.895Z"
+generated_at: "2026-03-30T03:52:18.785Z"
 status: "active"
 ---
 

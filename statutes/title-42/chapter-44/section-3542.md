@@ -3,9 +3,9 @@ title: "Section 3542 - Public notice and comment regarding demonstration program
 usc_title: 42
 usc_section: "3542"
 chapter: 44
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 3542"
-generated_at: "2026-03-30T03:50:16.359Z"
+generated_at: "2026-03-30T03:52:37.208Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6716 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6716"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 6716"
-generated_at: "2026-03-30T03:48:56.273Z"
+generated_at: "2026-03-30T03:51:32.504Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "30111"
 chapter: 301
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 30111"
-generated_at: "2026-03-30T03:49:54.882Z"
+generated_at: "2026-03-30T03:52:18.769Z"
 status: "active"
 ---
 

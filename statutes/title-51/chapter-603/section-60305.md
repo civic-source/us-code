@@ -3,9 +3,9 @@ title: "Section 60305 - Data availability"
 usc_title: 51
 usc_section: "60305"
 chapter: 603
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "51 U.S.C. § 60305"
-generated_at: "2026-03-30T03:50:28.052Z"
+generated_at: "2026-03-30T03:53:06.089Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1777a - Definitions"
 usc_title: 25
 usc_section: "1777a"
 chapter: 19
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1777a"
-generated_at: "2026-03-30T03:49:08.476Z"
+generated_at: "2026-03-30T03:51:52.414Z"
 status: "active"
 ---
 

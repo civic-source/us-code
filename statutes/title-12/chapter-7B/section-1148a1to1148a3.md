@@ -3,9 +3,9 @@ title: "Section 1148a1to1148a3 - Repealed. Pub. L. 87–128, title III, § 341(a
 usc_title: 12
 usc_section: "1148a1to1148a3"
 chapter: 7
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "12 U.S.C. § 1148a1to1148a3"
-generated_at: "2026-03-30T03:48:29.153Z"
+generated_at: "2026-03-30T03:51:17.997Z"
 status: "repealed"
 ---
 

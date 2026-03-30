@@ -3,9 +3,9 @@ title: "Section 293b - Loan repayments and fellowships regarding faculty positio
 usc_title: 42
 usc_section: "293b"
 chapter: 6
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 293b"
-generated_at: "2026-03-30T03:50:15.846Z"
+generated_at: "2026-03-30T03:52:36.737Z"
 status: "active"
 ---
 

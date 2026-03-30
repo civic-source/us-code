@@ -3,9 +3,9 @@ title: "Section 589 - Definitions"
 usc_title: 7
 usc_section: "589"
 chapter: 25
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 589"
-generated_at: "2026-03-30T03:48:09.785Z"
+generated_at: "2026-03-30T03:51:08.657Z"
 status: "active"
 ---
 

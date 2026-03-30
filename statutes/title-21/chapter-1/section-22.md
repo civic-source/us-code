@@ -3,9 +3,9 @@ title: "Section 22 - Barrels misbranded"
 usc_title: 21
 usc_section: "22"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "21 U.S.C. § 22"
-generated_at: "2026-03-30T03:49:01.615Z"
+generated_at: "2026-03-30T03:51:50.802Z"
 status: "active"
 ---
 

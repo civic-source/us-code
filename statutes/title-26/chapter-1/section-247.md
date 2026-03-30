@@ -3,9 +3,9 @@ title: "Section 247 - Dividends paid on certain preferred stock of public utilit
 usc_title: 26
 usc_section: "247"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 247"
-generated_at: "2026-03-30T03:49:33.485Z"
+generated_at: "2026-03-30T03:52:08.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3411 - General rulemaking authority"
 usc_title: 15
 usc_section: "3411"
 chapter: 60
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 3411"
-generated_at: "2026-03-30T03:48:24.801Z"
+generated_at: "2026-03-30T03:51:23.107Z"
 status: "active"
 ---
 

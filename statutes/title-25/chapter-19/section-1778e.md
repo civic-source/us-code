@@ -3,9 +3,9 @@ title: "Section 1778e - Permanent flowage easements"
 usc_title: 25
 usc_section: "1778e"
 chapter: 19
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1778e"
-generated_at: "2026-03-30T03:49:08.477Z"
+generated_at: "2026-03-30T03:51:52.415Z"
 status: "active"
 ---
 

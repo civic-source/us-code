@@ -1,0 +1,29 @@
+---
+title: "Section 3871f - Critical conservation areas"
+usc_title: 16
+usc_section: "3871f"
+chapter: 58
+current_through: "PL 113-120"
+classification: "16 U.S.C. § 3871f"
+generated_at: "2026-03-30T03:51:46.083Z"
+status: "active"
+---
+
+# § 3871f. Critical conservation areas
+
+- **(a)** In administering funds under section 3871d(d)(3) of this title , the Secretary shall select applications for partnership agreements and producer contracts within critical conservation areas designated under this section.
+- **(b)**
+  - **(1)** In designating critical conservation areas under this section, the Secretary shall give priority to geographical areas based on the degree to which the geographical area—
+    - **(A)** includes multiple States with significant agricultural production;
+    - **(B)** is covered by an existing regional, State, binational, or multistate agreement or plan that has established objectives, goals, and work plans and is adopted by a Federal, State, or regional authority;
+    - **(C)** would benefit from water quality improvement, including through reducing erosion, promoting sediment control, and addressing nutrient management activities affecting large bodies of water of regional, national, or international significance;
+    - **(D)** would benefit from water quantity improvement, including improvement relating to—
+      - **(i)** groundwater, surface water, aquifer, or other water sources; or
+      - **(ii)** a need to promote water retention and flood prevention; or
+    - **(E)** contains producers that need assistance in meeting or avoiding the need for a natural resource regulatory requirement that could have a negative impact on the economic scope of the agricultural operations within the area.
+  - **(2)** Critical conservation area designations under this section shall expire after 5 years, subject to redesignation, except that the Secretary may withdraw designation from an area if the Secretary finds the area no longer meets the conditions described in paragraph (1).
+  - **(3)** The Secretary may not designate more than 8 geographical areas as critical conservation areas under this section.
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), the Secretary shall administer any partnership agreement or producer contract under this section in a manner that is consistent with the terms of the program.
+  - **(2)** The Secretary shall, to the maximum extent practicable, ensure that eligible activities carried out in critical conservation areas designated under this section complement and are consistent with other Federal and State programs and water quality and quantity strategies.
+  - **(3)** For a critical conservation area described in subsection (b)(1)(D), the Secretary may use authorities under the Watershed Protection and Flood Prevention Act ( 16 U.S.C. 1001 et seq.), other than section 14 of such Act ( 16 U.S.C. 1012 ), to carry out projects for the purposes of this section.

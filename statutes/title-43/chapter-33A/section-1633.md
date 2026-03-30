@@ -3,9 +3,9 @@ title: "Section 1633 - Administrative provisions"
 usc_title: 43
 usc_section: "1633"
 chapter: 33
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 1633"
-generated_at: "2026-03-30T03:49:59.922Z"
+generated_at: "2026-03-30T03:52:22.042Z"
 status: "active"
 ---
 

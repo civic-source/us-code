@@ -3,9 +3,9 @@ title: "Section 615 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(88) , Oc
 usc_title: 26
 usc_section: "615"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 615"
-generated_at: "2026-03-30T03:49:33.544Z"
+generated_at: "2026-03-30T03:52:08.592Z"
 status: "repealed"
 ---
 

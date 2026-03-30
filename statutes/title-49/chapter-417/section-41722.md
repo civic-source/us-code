@@ -3,9 +3,9 @@ title: "Section 41722 - Delay reduction actions"
 usc_title: 49
 usc_section: "41722"
 chapter: 417
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "49 U.S.C. § 41722"
-generated_at: "2026-03-30T03:50:26.087Z"
+generated_at: "2026-03-30T03:52:51.217Z"
 status: "active"
 ---
 

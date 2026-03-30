@@ -3,9 +3,9 @@ title: "Section 112 - Office of the Assistant Secretary for Research and Technol
 usc_title: 49
 usc_section: "112"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "49 U.S.C. § 112"
-generated_at: "2026-03-30T03:50:26.005Z"
+generated_at: "2026-03-30T03:52:51.128Z"
 status: "active"
 ---
 

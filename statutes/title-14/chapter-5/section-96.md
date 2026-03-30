@@ -3,9 +3,9 @@ title: "Section 96 - Prohibition on overhaul, repair, and maintenance of Coast G
 usc_title: 14
 usc_section: "96"
 chapter: 5
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "14 U.S.C. § 96"
-generated_at: "2026-03-30T03:48:29.621Z"
+generated_at: "2026-03-30T03:51:14.597Z"
 status: "active"
 ---
 

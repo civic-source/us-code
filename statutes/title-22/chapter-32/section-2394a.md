@@ -3,9 +3,9 @@ title: "Section 2394a - Extortion and illegal payments to officials of foreign c
 usc_title: 22
 usc_section: "2394a"
 chapter: 32
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 2394a"
-generated_at: "2026-03-30T03:49:04.292Z"
+generated_at: "2026-03-30T03:51:55.025Z"
 status: "active"
 ---
 

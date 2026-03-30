@@ -3,9 +3,9 @@ title: "Section 4690 - Recyclable munitions materials: sale; use of proceeds"
 usc_title: 10
 usc_section: "4690"
 chapter: 443
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 4690"
-generated_at: "2026-03-30T03:48:17.051Z"
+generated_at: "2026-03-30T03:51:04.432Z"
 status: "active"
 ---
 

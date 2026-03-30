@@ -3,9 +3,9 @@ title: "Section 9858f - Repealed. Pub. L. 104–193, title VI, § 608 , Aug. 22,
 usc_title: 42
 usc_section: "9858f"
 chapter: 105
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 9858f"
-generated_at: "2026-03-30T03:50:16.646Z"
+generated_at: "2026-03-30T03:52:37.454Z"
 status: "repealed"
 ---
 

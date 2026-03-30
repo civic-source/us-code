@@ -3,9 +3,9 @@ title: "Section 3317 - Competitive service; certification from registers"
 usc_title: 5
 usc_section: "3317"
 chapter: 33
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "5 U.S.C. § 3317"
-generated_at: "2026-03-30T03:48:03.636Z"
+generated_at: "2026-03-30T03:50:45.781Z"
 status: "active"
 ---
 

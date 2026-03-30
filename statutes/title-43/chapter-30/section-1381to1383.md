@@ -3,9 +3,9 @@ title: "Section 1381to1383 - Repealed. Pub. L. 94–579, title VII, § 705(a) , 
 usc_title: 43
 usc_section: "1381to1383"
 chapter: 30
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 1381to1383"
-generated_at: "2026-03-30T03:49:59.907Z"
+generated_at: "2026-03-30T03:52:22.027Z"
 status: "repealed"
 ---
 

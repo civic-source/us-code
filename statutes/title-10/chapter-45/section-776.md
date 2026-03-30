@@ -3,9 +3,9 @@ title: "Section 776 - Applicability of chapter"
 usc_title: 10
 usc_section: "776"
 chapter: 45
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 776"
-generated_at: "2026-03-30T03:48:16.921Z"
+generated_at: "2026-03-30T03:51:04.300Z"
 status: "active"
 ---
 

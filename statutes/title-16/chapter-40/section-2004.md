@@ -3,9 +3,9 @@ title: "Section 2004 - Continuing appraisal of soil, water, and related resource
 usc_title: 16
 usc_section: "2004"
 chapter: 40
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 2004"
-generated_at: "2026-03-30T03:48:42.115Z"
+generated_at: "2026-03-30T03:51:46.044Z"
 status: "active"
 ---
 
@@ -15,11 +15,11 @@ status: "active"
   - **(1)** data on the quality and quantity of soil, water, and related resources, including fish and wildlife habitats;
   - **(2)** data on the capability and limitations of those resources for meeting current and projected demands on the resource base;
   - **(3)** data on the changes that have occurred in the status and condition of those resources resulting from various past uses, including the impact of farming technologies, techniques, and practices;
-  - **(4)** data on current Federal and State laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
+  - **(4)** data on current Federal, State, and tribal laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
   - **(5)** data on the costs and benefits of alternative soil and water conservation practices;
   - **(6)** data on alternative irrigation techniques regarding their costs, benefits, and impact on soil and water conservation, crop production, and environmental factors; and
   - **(7)** data on conservation plans, conservation practices planned or implemented, environmental outcomes, economic costs, and related matters under conservation programs administered by the Secretary.
-- **(b)** The appraisal shall utilize data collected under this chapter and pertinent data and information collected by the Department of Agriculture and other Federal, State, and local agencies and organizations. The Secretary shall establish an integrated system capable of using combinations of resource data to determine the quality and capabilities for alternative uses of the resource base and to identify areas of local, State, and National concerns and related roles pertaining to soil and water conservation, resource use and development, and environmental improvement.
-- **(c)** The appraisal shall be made in cooperation with conservation districts, State soil and water conservation agencies, and other appropriate citizen groups, and local and State agencies under such procedures as the Secretary may prescribe to insure public participation.
+- **(b)** The appraisal shall utilize data collected under this chapter and pertinent data and information collected by the Department of Agriculture and other Federal, State, tribal, and local agencies and organizations. The Secretary shall establish an integrated system capable of using combinations of resource data to determine the quality and capabilities for alternative uses of the resource base and to identify areas of local, State, tribal, and National concerns and related roles pertaining to soil and water conservation, resource use and development, and environmental improvement.
+- **(c)** The appraisal shall be made in cooperation with conservation districts, State and tribal soil and water conservation agencies, and other appropriate citizen groups, and local, tribal, and State agencies under such procedures as the Secretary may prescribe to insure public participation.
 - **(d)** In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
 - **(e)** The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010 , and December 31, 2015 . The Secretary may make such additional interim appraisals as the Secretary considers appropriate.

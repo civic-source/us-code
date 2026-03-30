@@ -3,9 +3,9 @@ title: "Section 1973ff - Federal responsibilities"
 usc_title: 42
 usc_section: "1973ff"
 chapter: 20
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 1973ff"
-generated_at: "2026-03-30T03:50:16.276Z"
+generated_at: "2026-03-30T03:52:37.139Z"
 status: "active"
 ---
 

@@ -1,62 +1,13 @@
 ---
-title: "Section 3843 - Cooperative conservation partnership initiative"
+title: "Section 3843 - Repealed. Pub. L. 113–79, title II, § 2710(a) , Feb. 7, 2014 , 128 Stat. 770"
 usc_title: 16
 usc_section: "3843"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3843"
-generated_at: "2026-03-30T03:48:42.154Z"
-status: "active"
+generated_at: "2026-03-30T03:51:46.080Z"
+status: "repealed"
 ---
 
-# § 3843. Cooperative conservation partnership initiative
+# § 3843. Repealed. Pub. L. 113–79, title II, § 2710(a) , Feb. 7, 2014 , 128 Stat. 770
 
-- **(a)** The Secretary shall establish a cooperative conservation partnership initiative (in this section referred to as the “Initiative”) to work with eligible partners to provide assistance to producers enrolled in a program described in subsection (c)(1) that will enhance conservation outcomes on agricultural and nonindustrial private forest land.
-- **(b)** The purposes of a partnership entered into under the Initiative shall be—
-  - **(1)** to address conservation priorities involving agriculture and nonindustrial private forest land on a local, State, multi-State, or regional level;
-  - **(2)** to encourage producers to cooperate in meeting applicable Federal, State, and local regulatory requirements related to production involving agriculture and nonindustrial private forest land;
-  - **(3)** to encourage producers to cooperate in the installation and maintenance of conservation practices that affect multiple agricultural or nonindustrial private forest operations; or
-  - **(4)** to promote the development and demonstration of innovative conservation practices and delivery methods, including those for specialty crop and organic production and precision agriculture producers.
-- **(c)**
-  - **(1)** Except as provided in paragraph (2), the Initiative applies to all conservation programs under subchapter IV.
-  - **(2)** The Initiative shall not include the following programs:
-    - **(A)** Conservation reserve program.
-    - **(B)** Wetlands reserve program.
-    - **(C)** Farmland protection program 1 1 So in original. Probably should be followed by a period.
-    - **(D)** Grassland reserve program.
-- **(d)** The Secretary may enter into a partnership under the Initiative with one or more of the following:
-  - **(1)** States and local governments.
-  - **(2)** Indian tribes.
-  - **(3)** Producer associations.
-  - **(4)** Farmer cooperatives.
-  - **(5)** Institutions of higher education.
-  - **(6)** Nongovernmental organizations with a history of working cooperatively with producers to effectively address conservation priorities related to agricultural production and nonindustrial private forest land.
-- **(e)** The Secretary shall carry out the Initiative—
-  - **(1)** by selecting, through a competitive process, eligible partners from among applications submitted under subsection (f); and
-  - **(2)** by entering into multi-year agreements with eligible partners so selected for a period not to exceed 5 years.
-- **(f)**
-  - **(1)** An application to enter into a partnership agreement under the Initiative shall include the following:
-    - **(A)** A description of the area covered by the agreement, conservation priorities in the area, conservation objectives to be achieved, and the expected level of participation by agricultural producers and nonindustrial private forest landowners.
-    - **(B)** A description of the partner, or partners, collaborating to achieve the objectives of the agreement, and the roles, responsibilities, and capabilities of the partner.
-    - **(C)** A description of the resources that are requested from the Secretary, and the non-Federal resources that will be leveraged by the Federal contribution.
-    - **(D)** A description of the plan for monitoring, evaluating, and reporting on progress made towards achieving the objectives of the agreement.
-    - **(E)** Such other information that may be required by the Secretary.
-  - **(2)** The Secretary shall give priority to applications for agreements that—
-    - **(A)** have a high percentage of producers involved and working agricultural or nonindustrial private forest land included in the area covered by the agreement;
-    - **(B)** significantly leverage non-Federal financial and technical resources and coordinate with other local, State, or Federal efforts;
-    - **(C)** deliver high percentages of applied conservation to address water quality, water conservation, or State, regional, or national conservation initiatives;
-    - **(D)** provide innovation in conservation methods and delivery, including outcome-based performance measures and methods; or
-    - **(E)** meet other factors, as determined by the Secretary.
-- **(g)**
-  - **(1)** Except as provided in paragraph (2), the Secretary shall ensure that resources made available under the Initiative are delivered in accordance with the applicable rules of programs specified in subsection (c)(1) through normal program mechanisms relating to program functions, including rules governing appeals, payment limitations, and conservation compliance.
-  - **(2)** The Secretary may adjust the elements of any program specified in subsection (c)(1)—
-    - **(A)** to better reflect unique local circumstances and purposes if the Secretary determines such adjustments are necessary to achieve the purposes of the Initiative; and
-    - **(B)** to provide preferential enrollment to producers who are eligible for the applicable program and to participate in the Initiative.
-- **(h)** The Secretary shall provide appropriate technical and financial assistance to producers participating in the Initiative in an amount determined to be necessary to achieve the purposes of the Initiative.
-- **(i)**
-  - **(1)** Of the funds and acres made available for each of fiscal years 2009 through 2012 to implement the programs described in subsection (c)(1), the Secretary shall reserve 6 percent of the funds and acres to ensure an adequate source of funds and acres for the Initiative.
-  - **(2)** Of the funds and acres reserved for the Initiative for a fiscal year, the Secretary shall allocate—
-    - **(A)** 90 percent of the funds and acres to projects based on the direction of State conservationists, with the advice of State technical committees; and
-    - **(B)** 10 percent of the funds and acres to projects based on a national competitive process established by the Secretary.
-  - **(3)** Any funds and acres reserved for a fiscal year under paragraph (1) that are not obligated by April 1 of that fiscal year may be used to carry out other activities under the program that is the source of the funds or acres during the remainder of that fiscal year.
-  - **(4)** Overhead or administrative costs of partners may not be covered by funds provided through the Initiative.

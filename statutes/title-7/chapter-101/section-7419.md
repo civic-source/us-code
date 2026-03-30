@@ -3,9 +3,9 @@ title: "Section 7419 - Enforcement"
 usc_title: 7
 usc_section: "7419"
 chapter: 101
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 7419"
-generated_at: "2026-03-30T03:48:09.963Z"
+generated_at: "2026-03-30T03:51:08.837Z"
 status: "active"
 ---
 

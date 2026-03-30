@@ -3,9 +3,9 @@ title: "Section 7315b - Performance review and penalties"
 usc_title: 20
 usc_section: "7315b"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 7315b"
-generated_at: "2026-03-30T03:48:56.297Z"
+generated_at: "2026-03-30T03:51:32.527Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 771to780 - Repealed. Pub. L. 97–35, title XI, § 1144(a)(1) , 
 usc_title: 45
 usc_section: "771to780"
 chapter: 16
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "45 U.S.C. § 771to780"
-generated_at: "2026-03-30T03:49:56.999Z"
+generated_at: "2026-03-30T03:52:20.967Z"
 status: "repealed"
 ---
 

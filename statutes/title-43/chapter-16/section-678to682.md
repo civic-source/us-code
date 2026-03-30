@@ -3,9 +3,9 @@ title: "Section 678to682 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oc
 usc_title: 43
 usc_section: "678to682"
 chapter: 16
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 678to682"
-generated_at: "2026-03-30T03:49:59.889Z"
+generated_at: "2026-03-30T03:52:22.009Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20132 - Visible markers for rear cars"
 usc_title: 49
 usc_section: "20132"
 chapter: 201
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "49 U.S.C. § 20132"
-generated_at: "2026-03-30T03:50:26.046Z"
+generated_at: "2026-03-30T03:52:51.173Z"
 status: "active"
 ---
 

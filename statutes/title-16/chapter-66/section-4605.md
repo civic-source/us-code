@@ -3,9 +3,9 @@ title: "Section 4605 - Authority to execute contracts"
 usc_title: 16
 usc_section: "4605"
 chapter: 66
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 4605"
-generated_at: "2026-03-30T03:48:42.163Z"
+generated_at: "2026-03-30T03:51:46.091Z"
 status: "active"
 ---
 

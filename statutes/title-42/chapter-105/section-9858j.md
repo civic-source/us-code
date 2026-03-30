@@ -3,9 +3,9 @@ title: "Section 9858j - Report by Secretary"
 usc_title: 42
 usc_section: "9858j"
 chapter: 105
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 9858j"
-generated_at: "2026-03-30T03:50:16.646Z"
+generated_at: "2026-03-30T03:52:37.455Z"
 status: "active"
 ---
 

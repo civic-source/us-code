@@ -3,9 +3,9 @@ title: "Section 4314 - Degree granting authority for United States Army Command 
 usc_title: 10
 usc_section: "4314"
 chapter: 401
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 4314"
-generated_at: "2026-03-30T03:48:17.047Z"
+generated_at: "2026-03-30T03:51:04.427Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3789f - Other administrative provisions"
 usc_title: 42
 usc_section: "3789f"
 chapter: 46
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 3789f"
-generated_at: "2026-03-30T03:50:16.370Z"
+generated_at: "2026-03-30T03:52:37.217Z"
 status: "active"
 ---
 

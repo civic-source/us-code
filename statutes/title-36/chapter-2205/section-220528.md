@@ -3,9 +3,9 @@ title: "Section 220528 - Applications to replace an incumbent national governing
 usc_title: 36
 usc_section: "220528"
 chapter: 2205
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 220528"
-generated_at: "2026-03-30T03:49:54.901Z"
+generated_at: "2026-03-30T03:52:18.791Z"
 status: "active"
 ---
 

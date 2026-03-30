@@ -3,9 +3,9 @@ title: "Section 1397h - Program for early detection of certain medical condition
 usc_title: 42
 usc_section: "1397h"
 chapter: 7
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 1397h"
-generated_at: "2026-03-30T03:50:16.185Z"
+generated_at: "2026-03-30T03:52:37.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1291 - Disposition of funds"
 usc_title: 25
 usc_section: "1291"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1291"
-generated_at: "2026-03-30T03:49:08.443Z"
+generated_at: "2026-03-30T03:51:52.380Z"
 status: "active"
 ---
 

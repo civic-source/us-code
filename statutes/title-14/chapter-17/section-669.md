@@ -3,9 +3,9 @@ title: "Section 669 - Telephone installation and charges"
 usc_title: 14
 usc_section: "669"
 chapter: 17
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "14 U.S.C. § 669"
-generated_at: "2026-03-30T03:48:29.629Z"
+generated_at: "2026-03-30T03:51:14.604Z"
 status: "active"
 ---
 

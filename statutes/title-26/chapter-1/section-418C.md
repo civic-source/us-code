@@ -3,9 +3,9 @@ title: "Section 418C - Overburden credit against minimum contribution requiremen
 usc_title: 26
 usc_section: "418C"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 418C"
-generated_at: "2026-03-30T03:49:33.516Z"
+generated_at: "2026-03-30T03:52:08.555Z"
 status: "active"
 ---
 

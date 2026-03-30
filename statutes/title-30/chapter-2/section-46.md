@@ -3,9 +3,9 @@ title: "Section 46 - Additional land districts and officers"
 usc_title: 30
 usc_section: "46"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "30 U.S.C. § 46"
-generated_at: "2026-03-30T03:49:20.770Z"
+generated_at: "2026-03-30T03:51:59.096Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 603 - Secured loans"
 usc_title: 23
 usc_section: "603"
 chapter: 6
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "23 U.S.C. § 603"
-generated_at: "2026-03-30T03:49:06.372Z"
+generated_at: "2026-03-30T03:51:49.514Z"
 status: "active"
 ---
 

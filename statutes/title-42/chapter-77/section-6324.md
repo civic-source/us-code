@@ -3,9 +3,9 @@ title: "Section 6324 - State energy efficiency goals"
 usc_title: 42
 usc_section: "6324"
 chapter: 77
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 6324"
-generated_at: "2026-03-30T03:50:16.476Z"
+generated_at: "2026-03-30T03:52:37.312Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 110a - Headquarters site; acquisition of lands"
 usc_title: 16
 usc_section: "110a"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 110a"
-generated_at: "2026-03-30T03:48:41.848Z"
+generated_at: "2026-03-30T03:51:45.774Z"
 status: "active"
 ---
 

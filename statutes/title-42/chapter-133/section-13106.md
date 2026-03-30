@@ -3,9 +3,9 @@ title: "Section 13106 - Source reduction and recycling data collection"
 usc_title: 42
 usc_section: "13106"
 chapter: 133
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 13106"
-generated_at: "2026-03-30T03:50:16.750Z"
+generated_at: "2026-03-30T03:52:37.539Z"
 status: "active"
 ---
 

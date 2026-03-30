@@ -3,9 +3,9 @@ title: "Section 7831to7835 - Repealed. Pub. L. 98–242, title I, § 110(a) , Ma
 usc_title: 42
 usc_section: "7831to7835"
 chapter: 87
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 7831to7835"
-generated_at: "2026-03-30T03:50:16.583Z"
+generated_at: "2026-03-30T03:52:37.399Z"
 status: "repealed"
 ---
 

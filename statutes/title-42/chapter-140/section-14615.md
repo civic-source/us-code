@@ -3,9 +3,9 @@ title: "Section 14615 - Enforcement and implementation"
 usc_title: 42
 usc_section: "14615"
 chapter: 140
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 14615"
-generated_at: "2026-03-30T03:50:16.795Z"
+generated_at: "2026-03-30T03:52:37.580Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6210 - Right of appeal and judicial review"
 usc_title: 16
 usc_section: "6210"
 chapter: 81
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 6210"
-generated_at: "2026-03-30T03:48:42.178Z"
+generated_at: "2026-03-30T03:51:46.105Z"
 status: "active"
 ---
 

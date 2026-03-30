@@ -3,9 +3,9 @@ title: "Section 701g - Removal of obstructions; clearing channels"
 usc_title: 33
 usc_section: "701g"
 chapter: 15
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "33 U.S.C. § 701g"
-generated_at: "2026-03-30T03:49:49.341Z"
+generated_at: "2026-03-30T03:52:13.113Z"
 status: "active"
 ---
 

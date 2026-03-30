@@ -3,9 +3,9 @@ title: "Section 609 - Action to determine title to judgment fund; claim of Confe
 usc_title: 25
 usc_section: "609"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 609"
-generated_at: "2026-03-30T03:49:08.419Z"
+generated_at: "2026-03-30T03:51:52.354Z"
 status: "active"
 ---
 

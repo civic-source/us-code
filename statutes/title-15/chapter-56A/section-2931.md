@@ -3,9 +3,9 @@ title: "Section 2931 - Findings and purpose"
 usc_title: 15
 usc_section: "2931"
 chapter: 56
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 2931"
-generated_at: "2026-03-30T03:48:24.796Z"
+generated_at: "2026-03-30T03:51:23.102Z"
 status: "active"
 ---
 

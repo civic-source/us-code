@@ -3,9 +3,9 @@ title: "Section 2944 - Continuation of State activities and policies"
 usc_title: 29
 usc_section: "2944"
 chapter: 30
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "29 U.S.C. § 2944"
-generated_at: "2026-03-30T03:49:28.169Z"
+generated_at: "2026-03-30T03:52:01.782Z"
 status: "active"
 ---
 

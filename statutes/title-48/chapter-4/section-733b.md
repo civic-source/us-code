@@ -3,9 +3,9 @@ title: "Section 733b - Omitted"
 usc_title: 48
 usc_section: "733b"
 chapter: 4
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "48 U.S.C. § 733b"
-generated_at: "2026-03-30T03:50:21.074Z"
+generated_at: "2026-03-30T03:52:41.004Z"
 status: "omitted"
 ---
 

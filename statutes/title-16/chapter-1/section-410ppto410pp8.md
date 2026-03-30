@@ -3,9 +3,9 @@ title: "Section 410ppto410pp8 - Omitted"
 usc_title: 16
 usc_section: "410ppto410pp8"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 410ppto410pp8"
-generated_at: "2026-03-30T03:48:41.884Z"
+generated_at: "2026-03-30T03:51:45.812Z"
 status: "omitted"
 ---
 

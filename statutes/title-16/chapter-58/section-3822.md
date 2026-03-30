@@ -3,9 +3,9 @@ title: "Section 3822 - Delineation of wetlands; exemptions"
 usc_title: 16
 usc_section: "3822"
 chapter: 58
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 3822"
-generated_at: "2026-03-30T03:48:42.144Z"
+generated_at: "2026-03-30T03:51:46.073Z"
 status: "active"
 ---
 
@@ -80,4 +80,9 @@ status: "active"
   - **(3)** The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively restoring the subject wetland.
 - **(i)** Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
 - **(j)** Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National 2 2 So in original. Probably should be “Natural”. Resources Conservation Service.
-- **(k)** Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.
+- **(k)**
+  - **(1)**
+    - **(A)** Using authorities available to the Secretary, the Secretary shall operate a program or work with third parties to establish mitigation banks to assist persons in complying with the provisions of this section while mitigating any loss of wetland values and functions.
+    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph.
+  - **(2)** Subsection (f)(2)(C) shall not apply to this subsection.
+  - **(3)** The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.

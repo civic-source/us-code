@@ -3,9 +3,9 @@ title: "Section 1490 - Transportation of remains: certain retired members and de
 usc_title: 10
 usc_section: "1490"
 chapter: 75
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 1490"
-generated_at: "2026-03-30T03:48:16.966Z"
+generated_at: "2026-03-30T03:51:04.345Z"
 status: "active"
 ---
 

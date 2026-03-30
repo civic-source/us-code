@@ -3,9 +3,9 @@ title: "Section 6372a - Guidelines"
 usc_title: 42
 usc_section: "6372a"
 chapter: 77
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 6372a"
-generated_at: "2026-03-30T03:50:16.482Z"
+generated_at: "2026-03-30T03:52:37.315Z"
 status: "active"
 ---
 

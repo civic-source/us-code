@@ -3,9 +3,9 @@ title: "Section 2685 - Reimbursement for detailed State Department personnel"
 usc_title: 22
 usc_section: "2685"
 chapter: 38
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 2685"
-generated_at: "2026-03-30T03:49:04.309Z"
+generated_at: "2026-03-30T03:51:55.040Z"
 status: "active"
 ---
 

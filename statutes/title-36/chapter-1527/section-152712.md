@@ -3,9 +3,9 @@ title: "Section 152712 - Annual report"
 usc_title: 36
 usc_section: "152712"
 chapter: 1527
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "36 U.S.C. § 152712"
-generated_at: "2026-03-30T03:49:54.895Z"
+generated_at: "2026-03-30T03:52:18.784Z"
 status: "active"
 ---
 

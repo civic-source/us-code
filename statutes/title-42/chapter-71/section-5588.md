@@ -3,9 +3,9 @@ title: "Section 5588 - Solar Photovoltaic Energy Advisory Com­mittee"
 usc_title: 42
 usc_section: "5588"
 chapter: 71
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 5588"
-generated_at: "2026-03-30T03:50:16.442Z"
+generated_at: "2026-03-30T03:52:37.280Z"
 status: "active"
 ---
 

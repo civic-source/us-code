@@ -3,9 +3,9 @@ title: "Section 6081 - Extension of time for filing returns"
 usc_title: 26
 usc_section: "6081"
 chapter: 61
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 6081"
-generated_at: "2026-03-30T03:49:33.667Z"
+generated_at: "2026-03-30T03:52:08.758Z"
 status: "active"
 ---
 

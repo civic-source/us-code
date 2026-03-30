@@ -3,9 +3,9 @@ title: "Section 422b - Definitions"
 usc_title: 43
 usc_section: "422b"
 chapter: 12
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 422b"
-generated_at: "2026-03-30T03:49:59.873Z"
+generated_at: "2026-03-30T03:52:21.994Z"
 status: "active"
 ---
 

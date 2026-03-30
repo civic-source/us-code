@@ -3,9 +3,9 @@ title: "Section 7311b - General provision"
 usc_title: 20
 usc_section: "7311b"
 chapter: 70
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "20 U.S.C. § 7311b"
-generated_at: "2026-03-30T03:48:56.297Z"
+generated_at: "2026-03-30T03:51:32.526Z"
 status: "active"
 ---
 

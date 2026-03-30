@@ -1,33 +1,13 @@
 ---
-title: "Section 2112 - Cooperative national forest products marketing program"
+title: "Section 2112 - Repealed. Pub. L. 113–79, title VIII, § 8003 , Feb. 7, 2014 , 128 Stat. 913"
 usc_title: 16
 usc_section: "2112"
 chapter: 41
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "16 U.S.C. § 2112"
-generated_at: "2026-03-30T03:48:42.120Z"
-status: "active"
+generated_at: "2026-03-30T03:51:46.048Z"
+status: "repealed"
 ---
 
-# § 2112. Cooperative national forest products marketing program
+# § 2112. Repealed. Pub. L. 113–79, title VIII, § 8003 , Feb. 7, 2014 , 128 Stat. 913
 
-- **(a)**
-  - **(1)** Congress finds that—
-    - **(A)** the health and vitality of the domestic forest products industry is important to the well-being of the economy of the United States;
-    - **(B)** the domestic forest products industry has a significant potential for expansion in both domestic and foreign markets;
-    - **(C)** many small-sized to medium-sized forest products firms lack the tools that would enable them to meet the increasing challenge of foreign competition in domestic and foreign markets; and
-    - **(D)** a new cooperative forest products marketing program will improve the competitiveness of the United States forest products industry.
-  - **(2)** The purposes of this section are to—
-    - **(A)** provide direct technical assistance to the United States forest products industry to improve marketing activities;
-    - **(B)** provide cost-share grants to States to support State and regional forest products marketing programs; and
-    - **(C)** target assistance to small-sized and medium-sized producers of solid wood and processed wood products, including pulp.
-- **(b)**
-  - **(1)** The Secretary shall establish a cooperative national forest products marketing program under this chapter that provides—
-    - **(A)** technical assistance to States, landowners, and small-sized to medium-sized forest products firms on ways to improve domestic and foreign markets for forest products; and
-    - **(B)** grants of financial assistance with matching requirements to the States to assist in State and regional forest products marketing efforts targeted to aid small-sized to medium-sized forest products firms and private, nonindustrial forest landowners.
-  - **(2)** Grant agreements shall encourage the establishment of interstate cooperative agreements by the States for the purpose of promoting the development of domestic and foreign markets for forest products.
-- **(c)**
-  - **(1)** In carrying out this section, the Secretary shall cooperate with Federal departments and agencies to avoid the duplication of efforts and to increase program efficiency.
-  - **(2)** The program authorized under this section shall be carried out within the United States and not be extended to Department of Agriculture activities in foreign countries.
-- **(d)** There are authorized to be appropriated $5,000,000 for each of the fiscal years 1988 through 1991, to carry out this section.
-- **(e)** The Secretary shall report to Congress annually on the activities taken under the marketing program established under this section. A final report including recommendations for program changes and the need and desirability of the reauthorization of this authority, and required levels of funding, shall be submitted to Congress not later than September 30, 1990 .

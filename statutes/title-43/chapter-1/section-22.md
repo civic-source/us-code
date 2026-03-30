@@ -3,9 +3,9 @@ title: "Section 22 - Repealed. July 30, 1947, ch. 354, § 2 , 61 Stat. 522"
 usc_title: 43
 usc_section: "22"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 22"
-generated_at: "2026-03-30T03:49:59.856Z"
+generated_at: "2026-03-30T03:52:21.977Z"
 status: "repealed"
 ---
 

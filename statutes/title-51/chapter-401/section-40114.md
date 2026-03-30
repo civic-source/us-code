@@ -3,9 +3,9 @@ title: "Section 40114 - Aviation safety and security research"
 usc_title: 51
 usc_section: "40114"
 chapter: 401
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "51 U.S.C. § 40114"
-generated_at: "2026-03-30T03:50:28.045Z"
+generated_at: "2026-03-30T03:53:06.083Z"
 status: "active"
 ---
 

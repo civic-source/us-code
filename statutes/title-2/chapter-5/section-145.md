@@ -3,9 +3,9 @@ title: "Section 145 - Copies of journals and documents"
 usc_title: 2
 usc_section: "145"
 chapter: 5
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "2 U.S.C. § 145"
-generated_at: "2026-03-30T03:47:48.823Z"
+generated_at: "2026-03-30T03:50:54.348Z"
 status: "active"
 ---
 

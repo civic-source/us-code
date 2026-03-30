@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-30T03:49:33.619Z"
+generated_at: "2026-03-30T03:52:08.697Z"
 status: "active"
 ---
 

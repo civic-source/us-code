@@ -3,9 +3,9 @@ title: "Section 3273 - Contributions of State or other public agencies toward co
 usc_title: 42
 usc_section: "3273"
 chapter: 40
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 3273"
-generated_at: "2026-03-30T03:50:16.353Z"
+generated_at: "2026-03-30T03:52:37.205Z"
 status: "active"
 ---
 

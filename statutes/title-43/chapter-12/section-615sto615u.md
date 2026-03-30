@@ -3,9 +3,9 @@ title: "Section 615sto615u - Omitted"
 usc_title: 43
 usc_section: "615sto615u"
 chapter: 12
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "43 U.S.C. § 615sto615u"
-generated_at: "2026-03-30T03:49:59.883Z"
+generated_at: "2026-03-30T03:52:22.004Z"
 status: "omitted"
 ---
 

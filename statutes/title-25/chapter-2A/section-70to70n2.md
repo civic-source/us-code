@@ -3,9 +3,9 @@ title: "Section 70to70n2 - Omitted"
 usc_title: 25
 usc_section: "70to70n2"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 70to70n2"
-generated_at: "2026-03-30T03:49:08.389Z"
+generated_at: "2026-03-30T03:51:52.323Z"
 status: "omitted"
 ---
 

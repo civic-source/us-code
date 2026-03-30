@@ -3,9 +3,9 @@ title: "Section 7107 - Actions against governments failing to meet minimum stand
 usc_title: 22
 usc_section: "7107"
 chapter: 78
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "22 U.S.C. § 7107"
-generated_at: "2026-03-30T03:49:04.386Z"
+generated_at: "2026-03-30T03:51:55.114Z"
 status: "active"
 ---
 

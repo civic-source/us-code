@@ -3,9 +3,9 @@ title: "Section 9627 - Supplies: educational institutions"
 usc_title: 10
 usc_section: "9627"
 chapter: 939
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 9627"
-generated_at: "2026-03-30T03:48:17.081Z"
+generated_at: "2026-03-30T03:51:04.464Z"
 status: "active"
 ---
 

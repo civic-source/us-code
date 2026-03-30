@@ -3,9 +3,9 @@ title: "Section 404 - Deduction for contributions of an employer to an employees
 usc_title: 26
 usc_section: "404"
 chapter: 1
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "26 U.S.C. § 404"
-generated_at: "2026-03-30T03:49:33.503Z"
+generated_at: "2026-03-30T03:52:08.538Z"
 status: "active"
 ---
 

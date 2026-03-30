@@ -3,9 +3,9 @@ title: "Section 677b - Method of determining Ute Indian blood"
 usc_title: 25
 usc_section: "677b"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 677b"
-generated_at: "2026-03-30T03:49:08.425Z"
+generated_at: "2026-03-30T03:51:52.360Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Private securities litigation"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T03:48:24.530Z"
+generated_at: "2026-03-30T03:51:22.943Z"
 status: "active"
 ---
 

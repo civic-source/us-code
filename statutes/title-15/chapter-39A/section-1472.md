@@ -3,9 +3,9 @@ title: "Section 1472 - Special packaging standards"
 usc_title: 15
 usc_section: "1472"
 chapter: 39
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "15 U.S.C. § 1472"
-generated_at: "2026-03-30T03:48:24.730Z"
+generated_at: "2026-03-30T03:51:23.040Z"
 status: "active"
 ---
 

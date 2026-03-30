@@ -3,9 +3,9 @@ title: "Section 9360 - Cadets: charges and fees for attendance; limitation"
 usc_title: 10
 usc_section: "9360"
 chapter: 903
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "10 U.S.C. § 9360"
-generated_at: "2026-03-30T03:48:17.078Z"
+generated_at: "2026-03-30T03:51:04.462Z"
 status: "active"
 ---
 

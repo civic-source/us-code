@@ -3,9 +3,9 @@ title: "Section 1462 - Forfeiture"
 usc_title: 19
 usc_section: "1462"
 chapter: 4
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "19 U.S.C. § 1462"
-generated_at: "2026-03-30T03:48:52.185Z"
+generated_at: "2026-03-30T03:51:27.293Z"
 status: "active"
 ---
 

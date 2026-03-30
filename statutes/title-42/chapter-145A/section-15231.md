@@ -3,9 +3,9 @@ title: "Section 15231 - Definitions"
 usc_title: 42
 usc_section: "15231"
 chapter: 145
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 15231"
-generated_at: "2026-03-30T03:50:16.807Z"
+generated_at: "2026-03-30T03:52:37.590Z"
 status: "active"
 ---
 

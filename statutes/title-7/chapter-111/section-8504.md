@@ -3,9 +3,9 @@ title: "Section 8504 - Establishment of quarantine protocols to control the intr
 usc_title: 7
 usc_section: "8504"
 chapter: 111
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "7 U.S.C. § 8504"
-generated_at: "2026-03-30T03:48:09.994Z"
+generated_at: "2026-03-30T03:51:08.866Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1293 - Applications for enrollment; filing date and place; notic
 usc_title: 25
 usc_section: "1293"
 chapter: 14
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 1293"
-generated_at: "2026-03-30T03:49:08.443Z"
+generated_at: "2026-03-30T03:51:52.380Z"
 status: "active"
 ---
 

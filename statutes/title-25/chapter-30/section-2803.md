@@ -3,9 +3,9 @@ title: "Section 2803 - Law enforcement authority"
 usc_title: 25
 usc_section: "2803"
 chapter: 30
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "25 U.S.C. § 2803"
-generated_at: "2026-03-30T03:49:08.499Z"
+generated_at: "2026-03-30T03:51:52.439Z"
 status: "active"
 ---
 

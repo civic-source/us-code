@@ -3,9 +3,9 @@ title: "Section 16317 - Systems biology program"
 usc_title: 42
 usc_section: "16317"
 chapter: 149
-current_through: "PL 113-108"
+current_through: "PL 113-120"
 classification: "42 U.S.C. § 16317"
-generated_at: "2026-03-30T03:50:16.837Z"
+generated_at: "2026-03-30T03:52:37.619Z"
 status: "active"
 ---
 
