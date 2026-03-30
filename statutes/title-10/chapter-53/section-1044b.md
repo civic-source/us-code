@@ -3,9 +3,9 @@ title: "Section 1044b - Military powers of attorney: requirement for recognition
 usc_title: 10
 usc_section: "1044b"
 chapter: 53
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 1044b"
-generated_at: "2026-03-30T09:44:06.754Z"
+generated_at: "2026-03-30T09:46:12.445Z"
 status: "active"
 ---
 

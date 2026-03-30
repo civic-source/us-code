@@ -3,9 +3,9 @@ title: "Section 10461 - Grants"
 usc_title: 34
 usc_section: "10461"
 chapter: 101
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "34 U.S.C. § 10461"
-generated_at: "2026-03-30T09:45:01.102Z"
+generated_at: "2026-03-30T09:47:12.140Z"
 status: "active"
 ---
 
@@ -38,6 +38,8 @@ status: "active"
     - **(A)** using evidence-based indicators to assess the risk of homicide and link high-risk victims to immediate crisis intervention services;
     - **(B)** identifying and managing high-risk offenders; and
     - **(C)** providing ongoing victim advocacy and referrals to comprehensive services including legal, housing, health care, and economic assistance.
+  - **(23)** To develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in section 5704 of title 25 .
+  - **(24)** To compile and annually report data to the Attorney General related to missing or murdered Indians, as described in section 5705 of title 25 .
 - **(c)** Eligible grantees are—
   - **(1)** States, Indian tribal governments 1 State and local courts (including juvenile courts), or units of local government that—
     - **(A)** except for a court, certify that their laws or official policies—

@@ -3,9 +3,9 @@ title: "Section 2612 - Leave requirement"
 usc_title: 29
 usc_section: "2612"
 chapter: 28
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "29 U.S.C. § 2612"
-generated_at: "2026-03-30T09:44:48.654Z"
+generated_at: "2026-03-30T09:47:07.791Z"
 status: "active"
 ---
 

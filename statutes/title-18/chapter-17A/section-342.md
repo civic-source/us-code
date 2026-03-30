@@ -3,9 +3,9 @@ title: "Section 342 - Operation of a common carrier under the influence of alcoh
 usc_title: 18
 usc_section: "342"
 chapter: 17
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "18 U.S.C. § 342"
-generated_at: "2026-03-30T09:44:28.168Z"
+generated_at: "2026-03-30T09:46:28.398Z"
 status: "active"
 ---
 

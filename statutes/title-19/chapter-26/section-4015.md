@@ -3,9 +3,9 @@ title: "Section 4015 - Administration of dispute settlement proceedings"
 usc_title: 19
 usc_section: "4015"
 chapter: 26
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "19 U.S.C. § 4015"
-generated_at: "2026-03-30T09:44:29.900Z"
+generated_at: "2026-03-30T09:46:26.927Z"
 status: "active"
 ---
 

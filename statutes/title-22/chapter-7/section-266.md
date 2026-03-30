@@ -3,9 +3,9 @@ title: "Section 266 - International commission of congresses of navigation; auth
 usc_title: 22
 usc_section: "266"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 266"
-generated_at: "2026-03-30T09:44:42.734Z"
+generated_at: "2026-03-30T09:46:45.708Z"
 status: "active"
 ---
 

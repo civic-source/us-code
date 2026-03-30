@@ -3,9 +3,9 @@ title: "Section 4841 - Statement of policy"
 usc_title: 50
 usc_section: "4841"
 chapter: 58
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "50 U.S.C. § 4841"
-generated_at: "2026-03-30T09:45:34.906Z"
+generated_at: "2026-03-30T09:48:29.975Z"
 status: "active"
 ---
 

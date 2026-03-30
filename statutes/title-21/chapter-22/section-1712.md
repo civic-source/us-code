@@ -3,9 +3,9 @@ title: "Section 1712 - Repealed. Pub. L. 115–271, title VIII, § 8202(b)(2) , 
 usc_title: 21
 usc_section: "1712"
 chapter: 22
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "21 U.S.C. § 1712"
-generated_at: "2026-03-30T09:44:44.166Z"
+generated_at: "2026-03-30T09:46:39.141Z"
 status: "repealed"
 ---
 

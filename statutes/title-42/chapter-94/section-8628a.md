@@ -3,9 +3,9 @@ title: "Section 8628a - Technical assistance, training, and compliance reviews"
 usc_title: 42
 usc_section: "8628a"
 chapter: 94
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 8628a"
-generated_at: "2026-03-30T09:45:30.033Z"
+generated_at: "2026-03-30T09:48:12.356Z"
 status: "active"
 ---
 

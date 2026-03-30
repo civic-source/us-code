@@ -3,9 +3,9 @@ title: "Section 12341 - Rural domestic violence, dating violence, sexual assault
 usc_title: 34
 usc_section: "12341"
 chapter: 121
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "34 U.S.C. § 12341"
-generated_at: "2026-03-30T09:45:01.118Z"
+generated_at: "2026-03-30T09:47:12.156Z"
 status: "active"
 ---
 

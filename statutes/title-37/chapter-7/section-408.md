@@ -3,9 +3,9 @@ title: "Section 408 - Renumbered § 478]"
 usc_title: 37
 usc_section: "408"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "37 U.S.C. § 408"
-generated_at: "2026-03-30T09:45:06.959Z"
+generated_at: "2026-03-30T09:47:19.307Z"
 status: "renumbered"
 ---
 

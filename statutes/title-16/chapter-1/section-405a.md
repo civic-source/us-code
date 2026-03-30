@@ -3,9 +3,9 @@ title: "Section 405a - Rules and regulations; fees"
 usc_title: 16
 usc_section: "405a"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 405a"
-generated_at: "2026-03-30T09:44:35.078Z"
+generated_at: "2026-03-30T09:46:30.614Z"
 status: "active"
 ---
 

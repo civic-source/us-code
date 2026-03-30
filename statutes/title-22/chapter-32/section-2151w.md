@@ -3,9 +3,9 @@ title: "Section 2151w - Project and program evaluations"
 usc_title: 22
 usc_section: "2151w"
 chapter: 32
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 2151w"
-generated_at: "2026-03-30T09:44:42.768Z"
+generated_at: "2026-03-30T09:46:45.740Z"
 status: "active"
 ---
 

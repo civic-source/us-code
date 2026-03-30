@@ -3,9 +3,9 @@ title: "Section 1551 - Short title"
 usc_title: 7
 usc_section: "1551"
 chapter: 37
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 1551"
-generated_at: "2026-03-30T09:44:10.188Z"
+generated_at: "2026-03-30T09:46:07.099Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40b - Advisory Council; coordinating committees"
 usc_title: 42
 usc_section: "40b"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 40b"
-generated_at: "2026-03-30T09:45:29.620Z"
+generated_at: "2026-03-30T09:48:11.923Z"
 status: "active"
 ---
 

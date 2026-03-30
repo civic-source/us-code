@@ -3,9 +3,9 @@ title: "Section 1869 - Restoration study"
 usc_title: 16
 usc_section: "1869"
 chapter: 38
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 1869"
-generated_at: "2026-03-30T09:44:35.236Z"
+generated_at: "2026-03-30T09:46:30.780Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1993 - Transition to private commercial or other sources of cred
 usc_title: 7
 usc_section: "1993"
 chapter: 50
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 1993"
-generated_at: "2026-03-30T09:44:10.207Z"
+generated_at: "2026-03-30T09:46:07.124Z"
 status: "active"
 ---
 

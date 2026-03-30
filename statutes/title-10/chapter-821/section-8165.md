@@ -3,9 +3,9 @@ title: "Section 8165 - Staff corps officers: limitation on power to command"
 usc_title: 10
 usc_section: "8165"
 chapter: 821
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 8165"
-generated_at: "2026-03-30T09:44:06.837Z"
+generated_at: "2026-03-30T09:46:12.553Z"
 status: "active"
 ---
 

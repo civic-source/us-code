@@ -3,9 +3,9 @@ title: "Section 9 - Financial institution investments"
 usc_title: 7
 usc_section: "9"
 chapter: 50
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 9"
-generated_at: "2026-03-30T09:44:10.213Z"
+generated_at: "2026-03-30T09:46:07.133Z"
 status: "active"
 ---
 

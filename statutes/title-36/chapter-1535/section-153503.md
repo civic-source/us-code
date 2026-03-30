@@ -3,9 +3,9 @@ title: "Section 153503 - Membership"
 usc_title: 36
 usc_section: "153503"
 chapter: 1535
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "36 U.S.C. § 153503"
-generated_at: "2026-03-30T09:45:05.913Z"
+generated_at: "2026-03-30T09:47:18.304Z"
 status: "active"
 ---
 

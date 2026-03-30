@@ -3,9 +3,9 @@ title: "Section 9511 - Definitions"
 usc_title: 10
 usc_section: "9511"
 chapter: 961
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 9511"
-generated_at: "2026-03-30T09:44:06.850Z"
+generated_at: "2026-03-30T09:46:12.571Z"
 status: "active"
 ---
 

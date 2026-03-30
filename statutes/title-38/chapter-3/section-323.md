@@ -3,9 +3,9 @@ title: "Section 323 - Office of Accountability and Whistleblower Protection"
 usc_title: 38
 usc_section: "323"
 chapter: 3
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "38 U.S.C. § 323"
-generated_at: "2026-03-30T09:45:09.421Z"
+generated_at: "2026-03-30T09:47:16.394Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3103 - Definitions"
 usc_title: 25
 usc_section: "3103"
 chapter: 33
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "25 U.S.C. § 3103"
-generated_at: "2026-03-30T09:44:38.312Z"
+generated_at: "2026-03-30T09:46:37.632Z"
 status: "active"
 ---
 

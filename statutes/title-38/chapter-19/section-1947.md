@@ -3,9 +3,9 @@ title: "Section 1947 - Incontestability"
 usc_title: 38
 usc_section: "1947"
 chapter: 19
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "38 U.S.C. § 1947"
-generated_at: "2026-03-30T09:45:09.435Z"
+generated_at: "2026-03-30T09:47:16.409Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4246 - Awards of costs and fees to prevailing plaintiff"
 usc_title: 12
 usc_section: "4246"
 chapter: 43
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 4246"
-generated_at: "2026-03-30T09:44:23.796Z"
+generated_at: "2026-03-30T09:46:22.071Z"
 status: "active"
 ---
 

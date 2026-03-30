@@ -3,9 +3,9 @@ title: "Section 7032 - Accessing information and filing over the Internet"
 usc_title: 7
 usc_section: "7032"
 chapter: 98
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 7032"
-generated_at: "2026-03-30T09:44:10.274Z"
+generated_at: "2026-03-30T09:46:07.210Z"
 status: "active"
 ---
 

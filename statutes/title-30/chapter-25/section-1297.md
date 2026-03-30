@@ -3,9 +3,9 @@ title: "Section 1297 - Separability"
 usc_title: 30
 usc_section: "1297"
 chapter: 25
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "30 U.S.C. § 1297"
-generated_at: "2026-03-30T09:44:47.742Z"
+generated_at: "2026-03-30T09:46:48.211Z"
 status: "active"
 ---
 

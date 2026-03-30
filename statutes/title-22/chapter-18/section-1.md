@@ -3,9 +3,9 @@ title: "Section 1 - Mission of United States Information Agency"
 usc_title: 22
 usc_section: "1"
 chapter: 18
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T09:44:42.755Z"
+generated_at: "2026-03-30T09:46:45.727Z"
 status: "active"
 ---
 

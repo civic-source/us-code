@@ -3,9 +3,9 @@ title: "Section 3704 - Grades and ratings; military authority"
 usc_title: 14
 usc_section: "3704"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "14 U.S.C. § 3704"
-generated_at: "2026-03-30T09:44:18.605Z"
+generated_at: "2026-03-30T09:46:15.723Z"
 status: "active"
 ---
 

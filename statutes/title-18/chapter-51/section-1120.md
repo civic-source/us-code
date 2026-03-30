@@ -3,9 +3,9 @@ title: "Section 1120 - Murder by escaped prisoners"
 usc_title: 18
 usc_section: "1120"
 chapter: 51
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "18 U.S.C. § 1120"
-generated_at: "2026-03-30T09:44:28.184Z"
+generated_at: "2026-03-30T09:46:28.413Z"
 status: "active"
 ---
 

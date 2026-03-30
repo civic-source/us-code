@@ -3,9 +3,9 @@ title: "Section 8 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 22
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 8"
-generated_at: "2026-03-30T09:44:42.729Z"
+generated_at: "2026-03-30T09:46:45.702Z"
 status: "repealed"
 ---
 

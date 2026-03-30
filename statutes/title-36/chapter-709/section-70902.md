@@ -3,9 +3,9 @@ title: "Section 70902 - Purposes"
 usc_title: 36
 usc_section: "70902"
 chapter: 709
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "36 U.S.C. § 70902"
-generated_at: "2026-03-30T09:45:05.907Z"
+generated_at: "2026-03-30T09:47:18.298Z"
 status: "active"
 ---
 

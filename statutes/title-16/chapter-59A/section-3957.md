@@ -3,9 +3,9 @@ title: "Section 3957 - Environmental banks"
 usc_title: 16
 usc_section: "3957"
 chapter: 59
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 3957"
-generated_at: "2026-03-30T09:44:35.263Z"
+generated_at: "2026-03-30T09:46:30.809Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 678 - Modification and revocation of permit to mine"
 usc_title: 33
 usc_section: "678"
 chapter: 14
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "33 U.S.C. § 678"
-generated_at: "2026-03-30T09:44:58.181Z"
+generated_at: "2026-03-30T09:47:11.503Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1753 - Federal credit union organization"
 usc_title: 12
 usc_section: "1753"
 chapter: 14
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 1753"
-generated_at: "2026-03-30T09:44:23.736Z"
+generated_at: "2026-03-30T09:46:21.992Z"
 status: "active"
 ---
 

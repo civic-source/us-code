@@ -3,9 +3,9 @@ title: "Section 374 - Renumbered § 274]"
 usc_title: 10
 usc_section: "374"
 chapter: 16
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 374"
-generated_at: "2026-03-30T09:44:06.729Z"
+generated_at: "2026-03-30T09:46:12.413Z"
 status: "renumbered"
 ---
 

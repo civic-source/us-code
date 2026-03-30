@@ -3,9 +3,9 @@ title: "Section 1191b - Definitions"
 usc_title: 29
 usc_section: "1191b"
 chapter: 18
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "29 U.S.C. § 1191b"
-generated_at: "2026-03-30T09:44:48.641Z"
+generated_at: "2026-03-30T09:47:07.778Z"
 status: "active"
 ---
 

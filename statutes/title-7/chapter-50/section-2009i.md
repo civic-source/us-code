@@ -3,9 +3,9 @@ title: "Section 2009i - Interstate collaboration"
 usc_title: 7
 usc_section: "2009i"
 chapter: 50
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 2009i"
-generated_at: "2026-03-30T09:44:10.211Z"
+generated_at: "2026-03-30T09:46:07.129Z"
 status: "active"
 ---
 

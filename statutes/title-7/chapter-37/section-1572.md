@@ -3,9 +3,9 @@ title: "Section 1572 - Records"
 usc_title: 7
 usc_section: "1572"
 chapter: 37
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 1572"
-generated_at: "2026-03-30T09:44:10.188Z"
+generated_at: "2026-03-30T09:46:07.100Z"
 status: "active"
 ---
 

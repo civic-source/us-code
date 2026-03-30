@@ -3,9 +3,9 @@ title: "Section 14509 - Separation at age 62: reserve officers in grades below b
 usc_title: 10
 usc_section: "14509"
 chapter: 1407
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 14509"
-generated_at: "2026-03-30T09:44:06.862Z"
+generated_at: "2026-03-30T09:46:12.586Z"
 status: "active"
 ---
 

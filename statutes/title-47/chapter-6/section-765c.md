@@ -3,9 +3,9 @@ title: "Section 765c - ITU functions"
 usc_title: 47
 usc_section: "765c"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "47 U.S.C. § 765c"
-generated_at: "2026-03-30T09:45:35.319Z"
+generated_at: "2026-03-30T09:48:15.687Z"
 status: "active"
 ---
 

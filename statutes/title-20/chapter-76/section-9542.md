@@ -3,9 +3,9 @@ title: "Section 9542 - Commissioner for Education Statistics"
 usc_title: 20
 usc_section: "9542"
 chapter: 76
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "20 U.S.C. § 9542"
-generated_at: "2026-03-30T09:44:31.922Z"
+generated_at: "2026-03-30T09:46:32.780Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 428f - Control of battlefield; regulations"
 usc_title: 16
 usc_section: "428f"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 428f"
-generated_at: "2026-03-30T09:44:35.101Z"
+generated_at: "2026-03-30T09:46:30.637Z"
 status: "active"
 ---
 

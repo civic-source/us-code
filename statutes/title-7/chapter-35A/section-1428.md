@@ -3,9 +3,9 @@ title: "Section 1428 - Definitions"
 usc_title: 7
 usc_section: "1428"
 chapter: 35
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 1428"
-generated_at: "2026-03-30T09:44:10.177Z"
+generated_at: "2026-03-30T09:46:07.084Z"
 status: "active"
 ---
 

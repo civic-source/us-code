@@ -3,9 +3,9 @@ title: "Section 71r - Omitted"
 usc_title: 42
 usc_section: "71r"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 71r"
-generated_at: "2026-03-30T09:45:29.510Z"
+generated_at: "2026-03-30T09:48:11.806Z"
 status: "omitted"
 ---
 

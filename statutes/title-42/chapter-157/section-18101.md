@@ -3,9 +3,9 @@ title: "Section 18101 - Repealed. Pub. L. 112–10, div. B, title VIII, § 1858(
 usc_title: 42
 usc_section: "18101"
 chapter: 157
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 18101"
-generated_at: "2026-03-30T09:45:30.166Z"
+generated_at: "2026-03-30T09:48:12.494Z"
 status: "repealed"
 ---
 

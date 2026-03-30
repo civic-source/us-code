@@ -3,9 +3,9 @@ title: "Section 724 - Non-Federal share for establishment of program or construc
 usc_title: 29
 usc_section: "724"
 chapter: 16
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "29 U.S.C. § 724"
-generated_at: "2026-03-30T09:44:48.614Z"
+generated_at: "2026-03-30T09:47:07.750Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6869 - Judicial review of final action by Secretary on applicati
 usc_title: 42
 usc_section: "6869"
 chapter: 81
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 6869"
-generated_at: "2026-03-30T09:45:29.970Z"
+generated_at: "2026-03-30T09:48:12.292Z"
 status: "active"
 ---
 

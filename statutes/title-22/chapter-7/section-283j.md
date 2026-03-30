@@ -3,9 +3,9 @@ title: "Section 283j - Increased United States participation in Bank activities"
 usc_title: 22
 usc_section: "283j"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 283j"
-generated_at: "2026-03-30T09:44:42.739Z"
+generated_at: "2026-03-30T09:46:45.712Z"
 status: "active"
 ---
 

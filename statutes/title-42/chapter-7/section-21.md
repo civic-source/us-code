@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T09:45:29.731Z"
+generated_at: "2026-03-30T09:48:12.041Z"
 status: "active"
 ---
 

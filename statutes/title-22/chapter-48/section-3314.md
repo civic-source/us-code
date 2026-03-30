@@ -3,9 +3,9 @@ title: "Section 3314 - Definitions"
 usc_title: 22
 usc_section: "3314"
 chapter: 48
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 3314"
-generated_at: "2026-03-30T09:44:42.806Z"
+generated_at: "2026-03-30T09:46:45.777Z"
 status: "active"
 ---
 

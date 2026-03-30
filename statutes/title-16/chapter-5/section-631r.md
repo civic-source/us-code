@@ -3,9 +3,9 @@ title: "Section 631r - Repealed. July 25, 1947, ch. 327, § 1 , 61 Stat. 449"
 usc_title: 16
 usc_section: "631r"
 chapter: 5
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 631r"
-generated_at: "2026-03-30T09:44:35.166Z"
+generated_at: "2026-03-30T09:46:30.705Z"
 status: "repealed"
 ---
 

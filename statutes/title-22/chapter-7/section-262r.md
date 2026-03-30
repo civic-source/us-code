@@ -3,9 +3,9 @@ title: "Section 262r - Annual report by Chairman of National Advisory Council on
 usc_title: 22
 usc_section: "262r"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 262r"
-generated_at: "2026-03-30T09:44:42.734Z"
+generated_at: "2026-03-30T09:46:45.707Z"
 status: "active"
 ---
 

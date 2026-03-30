@@ -3,9 +3,9 @@ title: "Section 6374e - Federal fleet conservation requirements"
 usc_title: 42
 usc_section: "6374e"
 chapter: 77
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 6374e"
-generated_at: "2026-03-30T09:45:29.964Z"
+generated_at: "2026-03-30T09:48:12.286Z"
 status: "active"
 ---
 

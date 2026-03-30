@@ -3,9 +3,9 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T09:45:29.808Z"
+generated_at: "2026-03-30T09:48:12.124Z"
 status: "active"
 ---
 

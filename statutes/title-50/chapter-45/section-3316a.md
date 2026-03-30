@@ -3,9 +3,9 @@ title: "Section 3316a - Reports on intelligence community participation in vulne
 usc_title: 50
 usc_section: "3316a"
 chapter: 45
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "50 U.S.C. § 3316a"
-generated_at: "2026-03-30T09:45:34.873Z"
+generated_at: "2026-03-30T09:48:29.948Z"
 status: "active"
 ---
 

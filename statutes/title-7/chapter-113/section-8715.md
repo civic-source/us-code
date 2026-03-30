@@ -3,9 +3,9 @@ title: "Section 8715 - Repealed. Pub. L. 113–79, title I, § 1103(a) , Feb. 7,
 usc_title: 7
 usc_section: "8715"
 chapter: 113
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 8715"
-generated_at: "2026-03-30T09:44:10.303Z"
+generated_at: "2026-03-30T09:46:07.244Z"
 status: "repealed"
 ---
 

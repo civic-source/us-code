@@ -3,9 +3,9 @@ title: "Section 1437s - Public housing homeownership and management opportunitie
 usc_title: 42
 usc_section: "1437s"
 chapter: 8
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 1437s"
-generated_at: "2026-03-30T09:45:29.820Z"
+generated_at: "2026-03-30T09:48:12.139Z"
 status: "active"
 ---
 

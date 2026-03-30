@@ -3,9 +3,9 @@ title: "Section 3504 - Surveys of public works planning"
 usc_title: 40
 usc_section: "3504"
 chapter: 35
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "40 U.S.C. § 3504"
-generated_at: "2026-03-30T09:45:07.330Z"
+generated_at: "2026-03-30T09:47:15.201Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4050 - Discontinued service retirement"
 usc_title: 22
 usc_section: "4050"
 chapter: 52
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 4050"
-generated_at: "2026-03-30T09:44:42.816Z"
+generated_at: "2026-03-30T09:46:45.786Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1010a - Optional Federal administration of State recognition pay
 usc_title: 42
 usc_section: "1010a"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 1010a"
-generated_at: "2026-03-30T09:45:29.680Z"
+generated_at: "2026-03-30T09:48:11.988Z"
 status: "active"
 ---
 

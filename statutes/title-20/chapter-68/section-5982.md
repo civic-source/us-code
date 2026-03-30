@@ -3,9 +3,9 @@ title: "Section 5982 - Purposes"
 usc_title: 20
 usc_section: "5982"
 chapter: 68
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "20 U.S.C. § 5982"
-generated_at: "2026-03-30T09:44:31.888Z"
+generated_at: "2026-03-30T09:46:32.742Z"
 status: "active"
 ---
 

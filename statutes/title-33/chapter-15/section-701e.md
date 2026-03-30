@@ -3,9 +3,9 @@ title: "Section 701e - Effect of act June 22, 1936 , on provisions for Mississip
 usc_title: 33
 usc_section: "701e"
 chapter: 15
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "33 U.S.C. § 701e"
-generated_at: "2026-03-30T09:44:58.182Z"
+generated_at: "2026-03-30T09:47:11.505Z"
 status: "active"
 ---
 

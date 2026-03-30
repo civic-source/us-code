@@ -3,9 +3,9 @@ title: "Section 2996f - Grants and contracts"
 usc_title: 42
 usc_section: "2996f"
 chapter: 34
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 2996f"
-generated_at: "2026-03-30T09:45:29.888Z"
+generated_at: "2026-03-30T09:48:12.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11022 - Emergency and hazardous chemical inven­tory forms"
 usc_title: 42
 usc_section: "11022"
 chapter: 116
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 11022"
-generated_at: "2026-03-30T09:45:30.073Z"
+generated_at: "2026-03-30T09:48:12.399Z"
 status: "active"
 ---
 

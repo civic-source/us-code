@@ -3,9 +3,9 @@ title: "Section 2703 - Eligible articles"
 usc_title: 19
 usc_section: "2703"
 chapter: 15
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-30T09:44:29.887Z"
+generated_at: "2026-03-30T09:46:26.913Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
         - **(V)** It is the sense of the Congress that the Congress should determine, based on the record of expansion of exports from the United States as a result of the preferential treatment of articles under this clause, the percentage by which the amount provided in subclauses (II) and (IV) should be compounded for the 1-year periods occurring after the 1-year period ending on September 30, 2004 .
       - **(iv)**
         - **(I)** Subject to subclause (II), any apparel article classifiable under subheading 6212.10 of the HTS, except for articles entered under clause (i), (ii), (iii), (v), or (vi), if the article is both cut and sewn or otherwise assembled in the United States, or one or more CBTPA beneficiary countries, or both.
-        - **(II)** During the 1-year period beginning on October 1, 2001 , and during each of the 18 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+        - **(II)** During the 1-year period beginning on October 1, 2001 , and during each of the 28 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
         - **(III)** The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under subparagraph (B) during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
       - **(v)**
         - **(I)** Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 401 of the NAFTA.
@@ -128,7 +128,7 @@ status: "active"
         - **(III)** any reference to a party shall be deemed to refer to a CBTPA beneficiary country or the United States; and
         - **(IV)** any reference to parties shall be deemed to refer to any combination of CBTPA beneficiary countries or to the United States and one or more CBTPA beneficiary countries (or any combination thereof).
     - **(D)** The term “transition period” means, with respect to a CBTPA beneficiary country, the period that begins on October 1, 2000 , and ends on the earlier of—
-      - **(i)** September 30, 2020 ; or
+      - **(i)** September 30, 2030 ; or
       - **(ii)** the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 ( 19 U.S.C. 3317(b)(5) ) 1 1 See References in Text note below. enters into force with respect to the United States and the CBTPA beneficiary country.
     - **(E)** The term “CBTPA” means the United States-Caribbean Basin Trade Partnership Act.
     - **(F)** The term “FTAA” means the Free Trade Area of the Americas.

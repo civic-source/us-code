@@ -3,9 +3,9 @@ title: "Section 33113 - Theft reports"
 usc_title: 49
 usc_section: "33113"
 chapter: 331
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 33113"
-generated_at: "2026-03-30T09:45:37.248Z"
+generated_at: "2026-03-30T09:48:42.027Z"
 status: "active"
 ---
 

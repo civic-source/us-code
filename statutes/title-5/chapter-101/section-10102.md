@@ -3,9 +3,9 @@ title: "Section 10102 - Strategic human capital plan"
 usc_title: 5
 usc_section: "10102"
 chapter: 101
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "5 U.S.C. § 10102"
-generated_at: "2026-03-30T09:43:57.755Z"
+generated_at: "2026-03-30T09:45:57.779Z"
 status: "active"
 ---
 

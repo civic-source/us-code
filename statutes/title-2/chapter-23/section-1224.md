@@ -3,9 +3,9 @@ title: "Section 1224 - Repealed. Pub. L. 104–1, title V, § 504(a)(2) , Jan. 2
 usc_title: 2
 usc_section: "1224"
 chapter: 23
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "2 U.S.C. § 1224"
-generated_at: "2026-03-30T09:43:49.509Z"
+generated_at: "2026-03-30T09:45:59.012Z"
 status: "repealed"
 ---
 

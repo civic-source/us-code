@@ -3,9 +3,9 @@ title: "Section 7711 - Regulation of movement of plant pests"
 usc_title: 7
 usc_section: "7711"
 chapter: 104
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 7711"
-generated_at: "2026-03-30T09:44:10.288Z"
+generated_at: "2026-03-30T09:46:07.227Z"
 status: "active"
 ---
 

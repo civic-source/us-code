@@ -3,9 +3,9 @@ title: "Section 2283b - Clarification of mitigation authority"
 usc_title: 33
 usc_section: "2283b"
 chapter: 36
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "33 U.S.C. § 2283b"
-generated_at: "2026-03-30T09:44:58.224Z"
+generated_at: "2026-03-30T09:47:11.545Z"
 status: "active"
 ---
 

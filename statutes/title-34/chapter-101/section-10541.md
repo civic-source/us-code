@@ -3,9 +3,9 @@ title: "Section 10541 - Continuation of rules, authorities, and proceedings"
 usc_title: 34
 usc_section: "10541"
 chapter: 101
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "34 U.S.C. § 10541"
-generated_at: "2026-03-30T09:45:01.104Z"
+generated_at: "2026-03-30T09:47:12.142Z"
 status: "active"
 ---
 

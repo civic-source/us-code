@@ -3,9 +3,9 @@ title: "Section 424a - Acceptance of donations of lands"
 usc_title: 16
 usc_section: "424a"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 424a"
-generated_at: "2026-03-30T09:44:35.099Z"
+generated_at: "2026-03-30T09:46:30.636Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6307c - Sanctioning organizations"
 usc_title: 15
 usc_section: "6307c"
 chapter: 89
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "15 U.S.C. § 6307c"
-generated_at: "2026-03-30T09:44:20.585Z"
+generated_at: "2026-03-30T09:46:18.686Z"
 status: "active"
 ---
 

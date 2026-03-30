@@ -3,9 +3,9 @@ title: "Section 3020a - Application of other laws; costs of projects under this 
 usc_title: 42
 usc_section: "3020a"
 chapter: 35
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 3020a"
-generated_at: "2026-03-30T09:45:29.891Z"
+generated_at: "2026-03-30T09:48:12.209Z"
 status: "active"
 ---
 

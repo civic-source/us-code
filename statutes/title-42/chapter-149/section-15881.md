@@ -3,9 +3,9 @@ title: "Section 15881 - Hydroelectric production incentives"
 usc_title: 42
 usc_section: "15881"
 chapter: 149
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 15881"
-generated_at: "2026-03-30T09:45:30.131Z"
+generated_at: "2026-03-30T09:48:12.458Z"
 status: "active"
 ---
 

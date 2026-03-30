@@ -3,9 +3,9 @@ title: "Section 150513 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "150513"
 chapter: 1505
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "36 U.S.C. § 150513"
-generated_at: "2026-03-30T09:45:05.910Z"
+generated_at: "2026-03-30T09:47:18.301Z"
 status: "active"
 ---
 

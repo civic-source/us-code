@@ -3,9 +3,9 @@ title: "Section 7269c - Funding for Department of Energy activities not included
 usc_title: 42
 usc_section: "7269c"
 chapter: 84
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 7269c"
-generated_at: "2026-03-30T09:45:29.985Z"
+generated_at: "2026-03-30T09:48:12.307Z"
 status: "active"
 ---
 

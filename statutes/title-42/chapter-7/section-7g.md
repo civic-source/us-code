@@ -3,9 +3,9 @@ title: "Section 7g - Funds to reduce medicaid fraud and abuse"
 usc_title: 42
 usc_section: "7g"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 7g"
-generated_at: "2026-03-30T09:45:29.688Z"
+generated_at: "2026-03-30T09:48:11.996Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 655 - Payments to States"
 usc_title: 42
 usc_section: "655"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 655"
-generated_at: "2026-03-30T09:45:29.667Z"
+generated_at: "2026-03-30T09:48:11.974Z"
 status: "active"
 ---
 

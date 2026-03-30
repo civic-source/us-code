@@ -3,9 +3,9 @@ title: "Section 7552 - Sense of Congress regarding protecting Afghanistan’s Pr
 usc_title: 22
 usc_section: "7552"
 chapter: 82
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 7552"
-generated_at: "2026-03-30T09:44:42.852Z"
+generated_at: "2026-03-30T09:46:45.820Z"
 status: "active"
 ---
 

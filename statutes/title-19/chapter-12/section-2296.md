@@ -3,9 +3,9 @@ title: "Section 2296 - Training"
 usc_title: 19
 usc_section: "2296"
 chapter: 12
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "19 U.S.C. § 2296"
-generated_at: "2026-03-30T09:44:29.876Z"
+generated_at: "2026-03-30T09:46:26.903Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
     - **(D)** any program of remedial education,
     - **(E)** any program of prerequisite education or coursework required to enroll in training that may be approved under this section,
     - **(F)** any training program (other than a training program described in paragraph (7)) for which all, or any portion, of the costs of training the worker are paid—
-      - **(i)** under any Federal or State program other than this chapter, or
+      - **(i)** under any Federal or State program other than this part, or
       - **(ii)** from any source other than this section,
     - **(G)** any other training program approved by the Secretary, and
     - **(H)** any training program or coursework at an accredited institution of higher education (described in section 1002 of title 20 ), including a training program or coursework for the purpose of—

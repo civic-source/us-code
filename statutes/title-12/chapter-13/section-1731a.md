@@ -3,9 +3,9 @@ title: "Section 1731a - Penalties"
 usc_title: 12
 usc_section: "1731a"
 chapter: 13
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 1731a"
-generated_at: "2026-03-30T09:44:23.731Z"
+generated_at: "2026-03-30T09:46:21.986Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1307 - Minutes"
 usc_title: 5
 usc_section: "1307"
 chapter: 13
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "5 U.S.C. § 1307"
-generated_at: "2026-03-30T09:43:57.705Z"
+generated_at: "2026-03-30T09:45:57.667Z"
 status: "active"
 ---
 

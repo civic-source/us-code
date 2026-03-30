@@ -3,9 +3,9 @@ title: "Section 13703 - Certain collective activities; exemption from antitrust 
 usc_title: 49
 usc_section: "13703"
 chapter: 137
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 13703"
-generated_at: "2026-03-30T09:45:37.213Z"
+generated_at: "2026-03-30T09:48:42.000Z"
 status: "active"
 ---
 

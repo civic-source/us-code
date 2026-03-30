@@ -3,9 +3,9 @@ title: "Section 130b - Personnel in overseas, sensitive, or routinely deployable
 usc_title: 10
 usc_section: "130b"
 chapter: 3
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 130b"
-generated_at: "2026-03-30T09:44:06.719Z"
+generated_at: "2026-03-30T09:46:12.400Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3926 - Regulations; delegation of functions"
 usc_title: 22
 usc_section: "3926"
 chapter: 52
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 3926"
-generated_at: "2026-03-30T09:44:42.812Z"
+generated_at: "2026-03-30T09:46:45.781Z"
 status: "active"
 ---
 

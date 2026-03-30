@@ -3,9 +3,9 @@ title: "Section 616a - Transferred"
 usc_title: 15
 usc_section: "616a"
 chapter: 14
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "15 U.S.C. § 616a"
-generated_at: "2026-03-30T09:44:20.477Z"
+generated_at: "2026-03-30T09:46:18.526Z"
 status: "transferred"
 ---
 

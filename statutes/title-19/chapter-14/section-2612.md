@@ -3,9 +3,9 @@ title: "Section 2612 - Regulations"
 usc_title: 19
 usc_section: "2612"
 chapter: 14
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "19 U.S.C. § 2612"
-generated_at: "2026-03-30T09:44:29.887Z"
+generated_at: "2026-03-30T09:46:26.913Z"
 status: "active"
 ---
 

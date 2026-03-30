@@ -3,9 +3,9 @@ title: "Section 5707 - Remedies for State program termination or failures"
 usc_title: 12
 usc_section: "5707"
 chapter: 54
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 5707"
-generated_at: "2026-03-30T09:44:23.834Z"
+generated_at: "2026-03-30T09:46:22.122Z"
 status: "active"
 ---
 

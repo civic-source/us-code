@@ -3,9 +3,9 @@ title: "Section 13a - Screening and treatment for maternal depression"
 usc_title: 42
 usc_section: "13a"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 13a"
-generated_at: "2026-03-30T09:45:29.520Z"
+generated_at: "2026-03-30T09:48:11.819Z"
 status: "active"
 ---
 

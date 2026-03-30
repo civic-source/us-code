@@ -3,9 +3,9 @@ title: "Section 17o - Repealed or Omitted"
 usc_title: 16
 usc_section: "17o"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 17o"
-generated_at: "2026-03-30T09:44:35.056Z"
+generated_at: "2026-03-30T09:46:30.591Z"
 status: "repealed"
 ---
 

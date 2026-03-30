@@ -3,9 +3,9 @@ title: "Section 1006 - Cooperative programs"
 usc_title: 16
 usc_section: "1006"
 chapter: 18
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 1006"
-generated_at: "2026-03-30T09:44:35.201Z"
+generated_at: "2026-03-30T09:46:30.742Z"
 status: "active"
 ---
 

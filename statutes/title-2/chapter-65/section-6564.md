@@ -3,9 +3,9 @@ title: "Section 6564 - Travel expenses of Secretary of Senate; advancement of tr
 usc_title: 2
 usc_section: "6564"
 chapter: 65
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "2 U.S.C. § 6564"
-generated_at: "2026-03-30T09:43:49.535Z"
+generated_at: "2026-03-30T09:45:59.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 556h - Recognition of private contributors to Forest Service pro
 usc_title: 16
 usc_section: "556h"
 chapter: 3
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 556h"
-generated_at: "2026-03-30T09:44:35.158Z"
+generated_at: "2026-03-30T09:46:30.696Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2393a - Requests by Government Accountability Office and Congres
 usc_title: 22
 usc_section: "2393a"
 chapter: 32
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 2393a"
-generated_at: "2026-03-30T09:44:42.782Z"
+generated_at: "2026-03-30T09:46:45.754Z"
 status: "active"
 ---
 

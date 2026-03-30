@@ -3,9 +3,9 @@ title: "Section 118 - Annual report on major weapons systems sustainment"
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T09:44:06.717Z"
+generated_at: "2026-03-30T09:46:12.398Z"
 status: "active"
 ---
 

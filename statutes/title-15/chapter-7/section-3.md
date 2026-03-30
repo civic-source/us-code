@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T09:44:20.472Z"
+generated_at: "2026-03-30T09:46:18.520Z"
 status: "active"
 ---
 

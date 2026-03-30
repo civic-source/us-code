@@ -3,9 +3,9 @@ title: "Section 9204 - Adverse action"
 usc_title: 5
 usc_section: "9204"
 chapter: 92
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "5 U.S.C. § 9204"
-generated_at: "2026-03-30T09:43:57.753Z"
+generated_at: "2026-03-30T09:45:57.775Z"
 status: "active"
 ---
 

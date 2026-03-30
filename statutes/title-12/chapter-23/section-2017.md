@@ -3,9 +3,9 @@ title: "Section 2017 - Eligibility"
 usc_title: 12
 usc_section: "2017"
 chapter: 23
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 2017"
-generated_at: "2026-03-30T09:44:23.768Z"
+generated_at: "2026-03-30T09:46:22.034Z"
 status: "active"
 ---
 

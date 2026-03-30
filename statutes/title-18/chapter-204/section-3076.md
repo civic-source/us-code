@@ -3,9 +3,9 @@ title: "Section 3076 - Eligibility for witness security program"
 usc_title: 18
 usc_section: "3076"
 chapter: 204
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "18 U.S.C. § 3076"
-generated_at: "2026-03-30T09:44:28.207Z"
+generated_at: "2026-03-30T09:46:28.437Z"
 status: "active"
 ---
 

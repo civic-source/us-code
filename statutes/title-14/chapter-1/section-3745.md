@@ -3,9 +3,9 @@ title: "Section 3745 - Qualifications for promotion"
 usc_title: 14
 usc_section: "3745"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "14 U.S.C. § 3745"
-generated_at: "2026-03-30T09:44:18.606Z"
+generated_at: "2026-03-30T09:46:15.726Z"
 status: "active"
 ---
 

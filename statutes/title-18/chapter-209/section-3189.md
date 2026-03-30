@@ -3,9 +3,9 @@ title: "Section 3189 - Place and character of hearing"
 usc_title: 18
 usc_section: "3189"
 chapter: 209
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "18 U.S.C. § 3189"
-generated_at: "2026-03-30T09:44:28.209Z"
+generated_at: "2026-03-30T09:46:28.440Z"
 status: "active"
 ---
 

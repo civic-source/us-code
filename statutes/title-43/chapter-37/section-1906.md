@@ -3,9 +3,9 @@ title: "Section 1906 - Authority for cooperative agreements and payments effecti
 usc_title: 43
 usc_section: "1906"
 chapter: 37
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "43 U.S.C. § 1906"
-generated_at: "2026-03-30T09:45:12.069Z"
+generated_at: "2026-03-30T09:47:36.384Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "10a"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 10a"
-generated_at: "2026-03-30T09:44:35.114Z"
+generated_at: "2026-03-30T09:46:30.651Z"
 status: "repealed"
 ---
 

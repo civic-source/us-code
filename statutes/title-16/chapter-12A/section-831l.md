@@ -3,9 +3,9 @@ title: "Section 831l - Financial assistance to States and local governments in l
 usc_title: 16
 usc_section: "831l"
 chapter: 12
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 831l"
-generated_at: "2026-03-30T09:44:35.190Z"
+generated_at: "2026-03-30T09:46:30.731Z"
 status: "active"
 ---
 

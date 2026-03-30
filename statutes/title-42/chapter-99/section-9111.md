@@ -3,9 +3,9 @@ title: "Section 9111 - License for ownership, construction, and operation of oce
 usc_title: 42
 usc_section: "9111"
 chapter: 99
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 9111"
-generated_at: "2026-03-30T09:45:30.036Z"
+generated_at: "2026-03-30T09:48:12.360Z"
 status: "active"
 ---
 

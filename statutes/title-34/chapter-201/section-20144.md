@@ -3,9 +3,9 @@ title: "Section 20144 - Justice for United States victims of state sponsored ter
 usc_title: 34
 usc_section: "20144"
 chapter: 201
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "34 U.S.C. § 20144"
-generated_at: "2026-03-30T09:45:01.126Z"
+generated_at: "2026-03-30T09:47:12.164Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6326 - Absence in connection with funerals of immediate relative
 usc_title: 5
 usc_section: "6326"
 chapter: 63
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "5 U.S.C. § 6326"
-generated_at: "2026-03-30T09:43:57.729Z"
+generated_at: "2026-03-30T09:45:57.712Z"
 status: "active"
 ---
 

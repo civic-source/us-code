@@ -3,9 +3,9 @@ title: "Section 157 - Right of employees as to organization, collective bargaini
 usc_title: 29
 usc_section: "157"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "29 U.S.C. § 157"
-generated_at: "2026-03-30T09:44:48.601Z"
+generated_at: "2026-03-30T09:47:07.733Z"
 status: "active"
 ---
 

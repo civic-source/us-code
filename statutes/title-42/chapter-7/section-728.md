@@ -3,9 +3,9 @@ title: "Section 728 - Repealed. Pub. L. 90–248, title II, § 240(e)(1) , Jan. 
 usc_title: 42
 usc_section: "728"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 728"
-generated_at: "2026-03-30T09:45:29.679Z"
+generated_at: "2026-03-30T09:48:11.986Z"
 status: "repealed"
 ---
 

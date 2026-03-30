@@ -3,9 +3,9 @@ title: "Section 434 - Demonstration project authority"
 usc_title: 42
 usc_section: "434"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 434"
-generated_at: "2026-03-30T09:45:29.656Z"
+generated_at: "2026-03-30T09:48:11.962Z"
 status: "active"
 ---
 

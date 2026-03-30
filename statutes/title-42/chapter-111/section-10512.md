@@ -3,9 +3,9 @@ title: "Section 10512 - Transferred"
 usc_title: 42
 usc_section: "10512"
 chapter: 111
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 10512"
-generated_at: "2026-03-30T09:45:30.070Z"
+generated_at: "2026-03-30T09:48:12.396Z"
 status: "transferred"
 ---
 

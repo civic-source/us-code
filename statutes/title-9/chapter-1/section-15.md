@@ -3,9 +3,9 @@ title: "Section 15 - Inapplicability of the Act of State doctrine"
 usc_title: 9
 usc_section: "15"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "9 U.S.C. § 15"
-generated_at: "2026-03-30T09:43:59.095Z"
+generated_at: "2026-03-30T09:46:00.697Z"
 status: "active"
 ---
 

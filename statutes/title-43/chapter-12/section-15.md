@@ -3,9 +3,9 @@ title: "Section 15 - Authorization of appropriations"
 usc_title: 43
 usc_section: "15"
 chapter: 12
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "43 U.S.C. § 15"
-generated_at: "2026-03-30T09:45:12.027Z"
+generated_at: "2026-03-30T09:47:36.342Z"
 status: "active"
 ---
 

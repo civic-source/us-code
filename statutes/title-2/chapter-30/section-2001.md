@@ -3,9 +3,9 @@ title: "Section 2001 - House Office Building; control, supervision, and care"
 usc_title: 2
 usc_section: "2001"
 chapter: 30
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "2 U.S.C. § 2001"
-generated_at: "2026-03-30T09:43:49.521Z"
+generated_at: "2026-03-30T09:45:59.033Z"
 status: "active"
 ---
 

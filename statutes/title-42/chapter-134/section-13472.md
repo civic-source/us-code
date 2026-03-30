@@ -3,9 +3,9 @@ title: "Section 13472 - High efficiency heat engines"
 usc_title: 42
 usc_section: "13472"
 chapter: 134
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 13472"
-generated_at: "2026-03-30T09:45:30.118Z"
+generated_at: "2026-03-30T09:48:12.444Z"
 status: "active"
 ---
 

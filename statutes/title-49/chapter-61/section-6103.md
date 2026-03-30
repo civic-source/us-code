@@ -3,9 +3,9 @@ title: "Section 6103 - Minimum standards for State one-call notification program
 usc_title: 49
 usc_section: "6103"
 chapter: 61
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 6103"
-generated_at: "2026-03-30T09:45:37.205Z"
+generated_at: "2026-03-30T09:48:41.994Z"
 status: "active"
 ---
 

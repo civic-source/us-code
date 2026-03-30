@@ -3,9 +3,9 @@ title: "Section 7326 - Education and training programs on medical response to co
 usc_title: 38
 usc_section: "7326"
 chapter: 73
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "38 U.S.C. § 7326"
-generated_at: "2026-03-30T09:45:09.467Z"
+generated_at: "2026-03-30T09:47:16.443Z"
 status: "active"
 ---
 

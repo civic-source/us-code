@@ -3,9 +3,9 @@ title: "Section 10725 - Eligibility"
 usc_title: 34
 usc_section: "10725"
 chapter: 101
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "34 U.S.C. § 10725"
-generated_at: "2026-03-30T09:45:01.108Z"
+generated_at: "2026-03-30T09:47:12.146Z"
 status: "active"
 ---
 

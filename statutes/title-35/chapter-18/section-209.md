@@ -3,9 +3,9 @@ title: "Section 209 - Licensing federally owned inventions"
 usc_title: 35
 usc_section: "209"
 chapter: 18
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "35 U.S.C. § 209"
-generated_at: "2026-03-30T09:44:56.134Z"
+generated_at: "2026-03-30T09:47:09.655Z"
 status: "active"
 ---
 

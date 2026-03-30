@@ -3,9 +3,9 @@ title: "Section 5701 - Food transportation safety inspections"
 usc_title: 49
 usc_section: "5701"
 chapter: 57
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 5701"
-generated_at: "2026-03-30T09:45:37.205Z"
+generated_at: "2026-03-30T09:48:41.994Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 609 - Processing tax; methods of computation; rate; what constit
 usc_title: 7
 usc_section: "609"
 chapter: 26
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 609"
-generated_at: "2026-03-30T09:44:10.163Z"
+generated_at: "2026-03-30T09:46:07.063Z"
 status: "active"
 ---
 

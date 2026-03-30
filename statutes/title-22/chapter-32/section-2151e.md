@@ -3,9 +3,9 @@ title: "Section 2151e - Appropriate technology"
 usc_title: 22
 usc_section: "2151e"
 chapter: 32
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 2151e"
-generated_at: "2026-03-30T09:44:42.767Z"
+generated_at: "2026-03-30T09:46:45.739Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8016 - Technology programs"
 usc_title: 16
 usc_section: "8016"
 chapter: 99
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 8016"
-generated_at: "2026-03-30T09:44:35.286Z"
+generated_at: "2026-03-30T09:46:30.834Z"
 status: "active"
 ---
 

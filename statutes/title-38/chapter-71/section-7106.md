@@ -3,9 +3,9 @@ title: "Section 7106 - Repealed. Pub. L. 115–55, § 2(s)(1) , Aug. 23, 2017 , 
 usc_title: 38
 usc_section: "7106"
 chapter: 71
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "38 U.S.C. § 7106"
-generated_at: "2026-03-30T09:45:09.464Z"
+generated_at: "2026-03-30T09:47:16.439Z"
 status: "repealed"
 ---
 

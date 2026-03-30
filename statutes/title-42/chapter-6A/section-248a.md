@@ -3,9 +3,9 @@ title: "Section 248a - Closing or transfer of hospitals; reduction of services; 
 usc_title: 42
 usc_section: "248a"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 248a"
-generated_at: "2026-03-30T09:45:29.528Z"
+generated_at: "2026-03-30T09:48:11.828Z"
 status: "active"
 ---
 

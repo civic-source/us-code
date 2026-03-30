@@ -3,9 +3,9 @@ title: "Section 1367 - Interference with the operation of a satellite"
 usc_title: 18
 usc_section: "1367"
 chapter: 65
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "18 U.S.C. § 1367"
-generated_at: "2026-03-30T09:44:28.185Z"
+generated_at: "2026-03-30T09:46:28.415Z"
 status: "active"
 ---
 

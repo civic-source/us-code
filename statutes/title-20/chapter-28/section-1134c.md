@@ -3,9 +3,9 @@ title: "Section 1134c - Fellowship conditions"
 usc_title: 20
 usc_section: "1134c"
 chapter: 28
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "20 U.S.C. § 1134c"
-generated_at: "2026-03-30T09:44:31.845Z"
+generated_at: "2026-03-30T09:46:32.697Z"
 status: "active"
 ---
 

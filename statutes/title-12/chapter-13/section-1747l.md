@@ -3,9 +3,9 @@ title: "Section 1747l - Definitions"
 usc_title: 12
 usc_section: "1747l"
 chapter: 13
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 1747l"
-generated_at: "2026-03-30T09:44:23.734Z"
+generated_at: "2026-03-30T09:46:21.990Z"
 status: "active"
 ---
 

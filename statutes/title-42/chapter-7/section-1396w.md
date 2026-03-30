@@ -3,9 +3,9 @@ title: "Section 1396w - Asset verification through access to information held by
 usc_title: 42
 usc_section: "1396w"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 1396w"
-generated_at: "2026-03-30T09:45:29.802Z"
+generated_at: "2026-03-30T09:48:12.119Z"
 status: "active"
 ---
 

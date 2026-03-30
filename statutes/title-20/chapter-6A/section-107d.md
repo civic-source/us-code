@@ -3,9 +3,9 @@ title: "Section 107d - Expenditures"
 usc_title: 20
 usc_section: "107d"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "20 U.S.C. § 107d"
-generated_at: "2026-03-30T09:44:31.794Z"
+generated_at: "2026-03-30T09:46:32.641Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 121a - Homeland Security Intelligence Program"
 usc_title: 6
 usc_section: "121a"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "6 U.S.C. § 121a"
-generated_at: "2026-03-30T09:44:13.912Z"
+generated_at: "2026-03-30T09:46:02.412Z"
 status: "active"
 ---
 

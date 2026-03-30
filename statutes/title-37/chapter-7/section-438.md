@@ -3,9 +3,9 @@ title: "Section 438 - Preventive health services allowance"
 usc_title: 37
 usc_section: "438"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "37 U.S.C. § 438"
-generated_at: "2026-03-30T09:45:06.960Z"
+generated_at: "2026-03-30T09:47:19.307Z"
 status: "active"
 ---
 

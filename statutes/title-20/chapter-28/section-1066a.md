@@ -3,9 +3,9 @@ title: "Section 1066a - Definitions"
 usc_title: 20
 usc_section: "1066a"
 chapter: 28
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "20 U.S.C. § 1066a"
-generated_at: "2026-03-30T09:44:31.808Z"
+generated_at: "2026-03-30T09:46:32.657Z"
 status: "active"
 ---
 

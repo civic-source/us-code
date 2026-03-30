@@ -3,9 +3,9 @@ title: "Section 70101 - National multimodal freight policy"
 usc_title: 49
 usc_section: "70101"
 chapter: 701
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 70101"
-generated_at: "2026-03-30T09:45:37.288Z"
+generated_at: "2026-03-30T09:48:42.059Z"
 status: "active"
 ---
 

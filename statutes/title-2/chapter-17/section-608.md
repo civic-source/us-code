@@ -3,9 +3,9 @@ title: "Section 608 - Lump-sum payments to enhance staff recruitment and to rewa
 usc_title: 2
 usc_section: "608"
 chapter: 17
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "2 U.S.C. § 608"
-generated_at: "2026-03-30T09:43:49.500Z"
+generated_at: "2026-03-30T09:45:58.992Z"
 status: "active"
 ---
 

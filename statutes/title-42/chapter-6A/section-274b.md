@@ -3,9 +3,9 @@ title: "Section 274b - General provisions respecting grants and contracts"
 usc_title: 42
 usc_section: "274b"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 274b"
-generated_at: "2026-03-30T09:45:29.542Z"
+generated_at: "2026-03-30T09:48:11.843Z"
 status: "active"
 ---
 

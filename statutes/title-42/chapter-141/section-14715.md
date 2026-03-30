@@ -3,9 +3,9 @@ title: "Section 14715 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "14715"
 chapter: 141
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 14715"
-generated_at: "2026-03-30T09:45:30.124Z"
+generated_at: "2026-03-30T09:48:12.450Z"
 status: "repealed"
 ---
 

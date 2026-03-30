@@ -3,9 +3,9 @@ title: "Section 5585 - Contracts, grants and arrangements"
 usc_title: 42
 usc_section: "5585"
 chapter: 71
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 5585"
-generated_at: "2026-03-30T09:45:29.943Z"
+generated_at: "2026-03-30T09:48:12.265Z"
 status: "active"
 ---
 

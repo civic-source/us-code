@@ -3,9 +3,9 @@ title: "Section 6914a - Labeling of lubricating oil"
 usc_title: 42
 usc_section: "6914a"
 chapter: 82
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 6914a"
-generated_at: "2026-03-30T09:45:29.972Z"
+generated_at: "2026-03-30T09:48:12.293Z"
 status: "active"
 ---
 

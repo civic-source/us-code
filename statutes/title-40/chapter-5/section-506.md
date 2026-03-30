@@ -3,9 +3,9 @@ title: "Section 506 - Inventory controls and systems"
 usc_title: 40
 usc_section: "506"
 chapter: 5
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "40 U.S.C. § 506"
-generated_at: "2026-03-30T09:45:07.324Z"
+generated_at: "2026-03-30T09:47:15.195Z"
 status: "active"
 ---
 

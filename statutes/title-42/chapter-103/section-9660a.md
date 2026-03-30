@@ -3,9 +3,9 @@ title: "Section 9660a - Grant program"
 usc_title: 42
 usc_section: "9660a"
 chapter: 103
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 9660a"
-generated_at: "2026-03-30T09:45:30.048Z"
+generated_at: "2026-03-30T09:48:12.373Z"
 status: "active"
 ---
 

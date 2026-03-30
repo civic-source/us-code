@@ -3,9 +3,9 @@ title: "Section 2011 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "2011"
 chapter: 51
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 2011"
-generated_at: "2026-03-30T09:44:10.214Z"
+generated_at: "2026-03-30T09:46:07.133Z"
 status: "active"
 ---
 

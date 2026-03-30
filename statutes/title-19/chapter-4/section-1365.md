@@ -3,9 +3,9 @@ title: "Section 1365 - Repealed. Pub. L. 87–794, title II, § 257(e)(1) , Oct.
 usc_title: 19
 usc_section: "1365"
 chapter: 4
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "19 U.S.C. § 1365"
-generated_at: "2026-03-30T09:44:29.846Z"
+generated_at: "2026-03-30T09:46:26.873Z"
 status: "repealed"
 ---
 

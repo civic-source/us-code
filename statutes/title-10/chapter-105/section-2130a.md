@@ -3,9 +3,9 @@ title: "Section 2130a - Financial assistance: nurse officer candidates"
 usc_title: 10
 usc_section: "2130a"
 chapter: 105
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 2130a"
-generated_at: "2026-03-30T09:44:06.785Z"
+generated_at: "2026-03-30T09:46:12.486Z"
 status: "active"
 ---
 

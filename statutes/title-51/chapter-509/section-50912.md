@@ -3,9 +3,9 @@ title: "Section 50912 - Administrative hearings and judicial review"
 usc_title: 51
 usc_section: "50912"
 chapter: 509
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "51 U.S.C. § 50912"
-generated_at: "2026-03-30T09:45:39.584Z"
+generated_at: "2026-03-30T09:48:43.998Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3703 - State and regional plans"
 usc_title: 7
 usc_section: "3703"
 chapter: 68
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "7 U.S.C. § 3703"
-generated_at: "2026-03-30T09:44:10.246Z"
+generated_at: "2026-03-30T09:46:07.174Z"
 status: "active"
 ---
 

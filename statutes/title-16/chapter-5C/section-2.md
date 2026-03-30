@@ -3,9 +3,9 @@ title: "Section 2 - Natural resources management services"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T09:44:35.169Z"
+generated_at: "2026-03-30T09:46:30.709Z"
 status: "active"
 ---
 

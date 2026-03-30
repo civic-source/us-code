@@ -3,9 +3,9 @@ title: "Section 439 - Special compensation: members of the uniformed services wi
 usc_title: 37
 usc_section: "439"
 chapter: 7
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "37 U.S.C. § 439"
-generated_at: "2026-03-30T09:45:06.960Z"
+generated_at: "2026-03-30T09:47:19.307Z"
 status: "active"
 ---
 

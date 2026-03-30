@@ -3,9 +3,9 @@ title: "Section 521 - Saving life and property"
 usc_title: 14
 usc_section: "521"
 chapter: 5
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "14 U.S.C. § 521"
-generated_at: "2026-03-30T09:44:18.597Z"
+generated_at: "2026-03-30T09:46:15.715Z"
 status: "active"
 ---
 

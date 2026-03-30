@@ -3,9 +3,9 @@ title: "Section 239b - Certain intelligence-related programs: budget justificati
 usc_title: 10
 usc_section: "239b"
 chapter: 9
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 239b"
-generated_at: "2026-03-30T09:44:06.726Z"
+generated_at: "2026-03-30T09:46:12.409Z"
 status: "active"
 ---
 

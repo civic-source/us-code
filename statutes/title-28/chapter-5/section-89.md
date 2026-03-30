@@ -3,9 +3,9 @@ title: "Section 89 - Florida"
 usc_title: 28
 usc_section: "89"
 chapter: 5
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "28 U.S.C. § 89"
-generated_at: "2026-03-30T09:44:47.087Z"
+generated_at: "2026-03-30T09:46:49.539Z"
 status: "active"
 ---
 

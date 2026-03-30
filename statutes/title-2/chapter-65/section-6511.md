@@ -3,9 +3,9 @@ title: "Section 6511 - Liquidation from appropriations of any unpaid obligations
 usc_title: 2
 usc_section: "6511"
 chapter: 65
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "2 U.S.C. § 6511"
-generated_at: "2026-03-30T09:43:49.534Z"
+generated_at: "2026-03-30T09:45:59.061Z"
 status: "active"
 ---
 

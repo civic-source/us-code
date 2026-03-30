@@ -3,9 +3,9 @@ title: "Section 2005 - Facilities construction"
 usc_title: 25
 usc_section: "2005"
 chapter: 22
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "25 U.S.C. § 2005"
-generated_at: "2026-03-30T09:44:38.300Z"
+generated_at: "2026-03-30T09:46:37.620Z"
 status: "active"
 ---
 

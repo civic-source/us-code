@@ -3,9 +3,9 @@ title: "Section 1907 - Libraries of executive departments, service academies, an
 usc_title: 44
 usc_section: "1907"
 chapter: 19
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "44 U.S.C. § 1907"
-generated_at: "2026-03-30T09:45:13.838Z"
+generated_at: "2026-03-30T09:47:21.063Z"
 status: "active"
 ---
 

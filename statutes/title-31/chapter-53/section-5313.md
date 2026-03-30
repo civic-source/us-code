@@ -3,9 +3,9 @@ title: "Section 5313 - Reports on domestic coins and currency transactions"
 usc_title: 31
 usc_section: "5313"
 chapter: 53
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "31 U.S.C. § 5313"
-generated_at: "2026-03-30T09:45:01.787Z"
+generated_at: "2026-03-30T09:47:10.637Z"
 status: "active"
 ---
 

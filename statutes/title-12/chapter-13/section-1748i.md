@@ -3,9 +3,9 @@ title: "Section 1748i - Omitted"
 usc_title: 12
 usc_section: "1748i"
 chapter: 13
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 1748i"
-generated_at: "2026-03-30T09:44:23.735Z"
+generated_at: "2026-03-30T09:46:21.991Z"
 status: "omitted"
 ---
 

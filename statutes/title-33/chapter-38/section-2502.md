@@ -3,9 +3,9 @@ title: "Section 2502 - Definitions"
 usc_title: 33
 usc_section: "2502"
 chapter: 38
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "33 U.S.C. § 2502"
-generated_at: "2026-03-30T09:44:58.231Z"
+generated_at: "2026-03-30T09:47:11.552Z"
 status: "active"
 ---
 

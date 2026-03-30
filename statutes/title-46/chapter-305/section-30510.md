@@ -3,9 +3,9 @@ title: "Section 30510 - Vicarious liability for medical malpractice with regard 
 usc_title: 46
 usc_section: "30510"
 chapter: 305
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "46 U.S.C. § 30510"
-generated_at: "2026-03-30T09:45:33.374Z"
+generated_at: "2026-03-30T09:48:28.495Z"
 status: "active"
 ---
 

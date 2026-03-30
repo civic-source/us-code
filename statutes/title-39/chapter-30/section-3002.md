@@ -3,9 +3,9 @@ title: "Section 3002 - Nonmailable motor vehicle master keys"
 usc_title: 39
 usc_section: "3002"
 chapter: 30
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "39 U.S.C. § 3002"
-generated_at: "2026-03-30T09:45:04.965Z"
+generated_at: "2026-03-30T09:47:14.444Z"
 status: "active"
 ---
 

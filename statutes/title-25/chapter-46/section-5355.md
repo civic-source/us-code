@@ -3,9 +3,9 @@ title: "Section 5355 - Eligibility for funds of tribe or tribal organization con
 usc_title: 25
 usc_section: "5355"
 chapter: 46
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "25 U.S.C. § 5355"
-generated_at: "2026-03-30T09:44:38.331Z"
+generated_at: "2026-03-30T09:46:37.649Z"
 status: "active"
 ---
 

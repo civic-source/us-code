@@ -3,9 +3,9 @@ title: "Section 421d - Effect on existing laws"
 usc_title: 43
 usc_section: "421d"
 chapter: 12
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "43 U.S.C. § 421d"
-generated_at: "2026-03-30T09:45:12.029Z"
+generated_at: "2026-03-30T09:47:36.344Z"
 status: "active"
 ---
 

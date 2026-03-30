@@ -3,9 +3,9 @@ title: "Section 3015 - Amount of basic educational assistance"
 usc_title: 38
 usc_section: "3015"
 chapter: 30
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "38 U.S.C. § 3015"
-generated_at: "2026-03-30T09:45:09.441Z"
+generated_at: "2026-03-30T09:47:16.416Z"
 status: "active"
 ---
 

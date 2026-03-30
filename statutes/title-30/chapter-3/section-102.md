@@ -3,9 +3,9 @@ title: "Section 102 - Assessment work on contiguous oil lands, located as claims
 usc_title: 30
 usc_section: "102"
 chapter: 3
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "30 U.S.C. § 102"
-generated_at: "2026-03-30T09:44:47.717Z"
+generated_at: "2026-03-30T09:46:48.185Z"
 status: "active"
 ---
 

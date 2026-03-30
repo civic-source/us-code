@@ -3,9 +3,9 @@ title: "Section 937 - Residence and source rules involving possessions"
 usc_title: 26
 usc_section: "937"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "26 U.S.C. § 937"
-generated_at: "2026-03-30T09:44:54.240Z"
+generated_at: "2026-03-30T09:46:56.286Z"
 status: "active"
 ---
 

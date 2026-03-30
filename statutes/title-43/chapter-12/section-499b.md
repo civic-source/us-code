@@ -3,9 +3,9 @@ title: "Section 499b - Transfer to municipal corporations or other organizations
 usc_title: 43
 usc_section: "499b"
 chapter: 12
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "43 U.S.C. § 499b"
-generated_at: "2026-03-30T09:45:12.033Z"
+generated_at: "2026-03-30T09:47:36.348Z"
 status: "active"
 ---
 

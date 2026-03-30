@@ -3,9 +3,9 @@ title: "Section 7102 - Citizenship"
 usc_title: 46
 usc_section: "7102"
 chapter: 71
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "46 U.S.C. § 7102"
-generated_at: "2026-03-30T09:45:33.365Z"
+generated_at: "2026-03-30T09:48:28.486Z"
 status: "active"
 ---
 

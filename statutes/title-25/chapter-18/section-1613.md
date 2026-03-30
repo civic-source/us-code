@@ -3,9 +3,9 @@ title: "Section 1613 - Health professions preparatory scholarship program for In
 usc_title: 25
 usc_section: "1613"
 chapter: 18
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "25 U.S.C. § 1613"
-generated_at: "2026-03-30T09:44:38.285Z"
+generated_at: "2026-03-30T09:46:37.606Z"
 status: "active"
 ---
 

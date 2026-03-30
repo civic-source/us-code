@@ -3,9 +3,9 @@ title: "Section 300y - Data infrastructure development"
 usc_title: 42
 usc_section: "300y"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 300y"
-generated_at: "2026-03-30T09:45:29.616Z"
+generated_at: "2026-03-30T09:48:11.918Z"
 status: "active"
 ---
 

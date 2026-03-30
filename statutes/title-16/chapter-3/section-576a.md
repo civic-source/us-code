@@ -3,9 +3,9 @@ title: "Section 576a - Authorization of appropriation for reforestation"
 usc_title: 16
 usc_section: "576a"
 chapter: 3
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 576a"
-generated_at: "2026-03-30T09:44:35.159Z"
+generated_at: "2026-03-30T09:46:30.697Z"
 status: "active"
 ---
 

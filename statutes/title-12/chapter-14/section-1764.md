@@ -3,9 +3,9 @@ title: "Section 1764 - Expulsion and withdrawal"
 usc_title: 12
 usc_section: "1764"
 chapter: 14
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 1764"
-generated_at: "2026-03-30T09:44:23.737Z"
+generated_at: "2026-03-30T09:46:21.993Z"
 status: "active"
 ---
 

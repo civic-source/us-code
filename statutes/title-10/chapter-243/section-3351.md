@@ -3,9 +3,9 @@ title: "Section 3351 - [Reserved]"
 usc_title: 10
 usc_section: "3351"
 chapter: 243
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "10 U.S.C. § 3351"
-generated_at: "2026-03-30T09:44:06.828Z"
+generated_at: "2026-03-30T09:46:12.542Z"
 status: "reserved"
 ---
 

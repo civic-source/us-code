@@ -3,9 +3,9 @@ title: "Section 5562 - Summary in annual report"
 usc_title: 42
 usc_section: "5562"
 chapter: 71
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 5562"
-generated_at: "2026-03-30T09:45:29.943Z"
+generated_at: "2026-03-30T09:48:12.264Z"
 status: "active"
 ---
 

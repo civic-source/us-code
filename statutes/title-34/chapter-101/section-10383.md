@@ -3,9 +3,9 @@ title: "Section 10383 - Renewal of grants"
 usc_title: 34
 usc_section: "10383"
 chapter: 101
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "34 U.S.C. § 10383"
-generated_at: "2026-03-30T09:45:01.100Z"
+generated_at: "2026-03-30T09:47:12.138Z"
 status: "active"
 ---
 

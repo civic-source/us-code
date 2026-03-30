@@ -3,9 +3,9 @@ title: "Section 428e - Lands acquired declared national battlefield; name"
 usc_title: 16
 usc_section: "428e"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 428e"
-generated_at: "2026-03-30T09:44:35.101Z"
+generated_at: "2026-03-30T09:46:30.637Z"
 status: "active"
 ---
 

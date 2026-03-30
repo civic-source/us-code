@@ -3,9 +3,9 @@ title: "Section 771 - Declaration of purpose and competitive basis of grants and
 usc_title: 29
 usc_section: "771"
 chapter: 16
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "29 U.S.C. § 771"
-generated_at: "2026-03-30T09:44:48.617Z"
+generated_at: "2026-03-30T09:47:07.753Z"
 status: "active"
 ---
 

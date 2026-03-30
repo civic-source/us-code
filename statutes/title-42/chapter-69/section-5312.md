@@ -3,9 +3,9 @@ title: "Section 5312 - Use of grants for settlement of outstanding urban renewal
 usc_title: 42
 usc_section: "5312"
 chapter: 69
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 5312"
-generated_at: "2026-03-30T09:45:29.939Z"
+generated_at: "2026-03-30T09:48:12.260Z"
 status: "active"
 ---
 

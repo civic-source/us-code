@@ -3,9 +3,9 @@ title: "Section 635g - Report to Congress; time for submission; contents"
 usc_title: 12
 usc_section: "635g"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "12 U.S.C. § 635g"
-generated_at: "2026-03-30T09:44:23.695Z"
+generated_at: "2026-03-30T09:46:21.940Z"
 status: "active"
 ---
 

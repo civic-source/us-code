@@ -3,9 +3,9 @@ title: "Section 44703 - Airman certificates"
 usc_title: 49
 usc_section: "44703"
 chapter: 447
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 44703"
-generated_at: "2026-03-30T09:45:37.260Z"
+generated_at: "2026-03-30T09:48:42.038Z"
 status: "active"
 ---
 

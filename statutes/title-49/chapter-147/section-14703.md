@@ -3,9 +3,9 @@ title: "Section 14703 - Enforcement by the Attorney General"
 usc_title: 49
 usc_section: "14703"
 chapter: 147
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 14703"
-generated_at: "2026-03-30T09:45:37.216Z"
+generated_at: "2026-03-30T09:48:42.003Z"
 status: "active"
 ---
 

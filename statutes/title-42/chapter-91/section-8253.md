@@ -3,9 +3,9 @@ title: "Section 8253 - Energy management requirements"
 usc_title: 42
 usc_section: "8253"
 chapter: 91
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 8253"
-generated_at: "2026-03-30T09:45:30.026Z"
+generated_at: "2026-03-30T09:48:12.348Z"
 status: "active"
 ---
 

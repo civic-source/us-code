@@ -3,9 +3,9 @@ title: "Section 3745 - Interest on loans"
 usc_title: 38
 usc_section: "3745"
 chapter: 37
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "38 U.S.C. § 3745"
-generated_at: "2026-03-30T09:45:09.455Z"
+generated_at: "2026-03-30T09:47:16.430Z"
 status: "active"
 ---
 

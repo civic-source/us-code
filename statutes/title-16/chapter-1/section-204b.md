@@ -3,9 +3,9 @@ title: "Section 204b - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , 
 usc_title: 16
 usc_section: "204b"
 chapter: 1
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "16 U.S.C. § 204b"
-generated_at: "2026-03-30T09:44:35.068Z"
+generated_at: "2026-03-30T09:46:30.602Z"
 status: "repealed"
 ---
 

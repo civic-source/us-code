@@ -3,9 +3,9 @@ title: "Section 238k - Contract authority"
 usc_title: 42
 usc_section: "238k"
 chapter: 6
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 238k"
-generated_at: "2026-03-30T09:45:29.515Z"
+generated_at: "2026-03-30T09:48:11.813Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Transfer of contracts"
 usc_title: 42
 usc_section: "6"
 chapter: 23
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T09:45:29.882Z"
+generated_at: "2026-03-30T09:48:12.200Z"
 status: "active"
 ---
 

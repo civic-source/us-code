@@ -3,9 +3,9 @@ title: "Section 2027 - Annual review by Secretary of State of programs and proje
 usc_title: 22
 usc_section: "2027"
 chapter: 28
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 2027"
-generated_at: "2026-03-30T09:44:42.763Z"
+generated_at: "2026-03-30T09:46:45.735Z"
 status: "active"
 ---
 

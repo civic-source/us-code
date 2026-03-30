@@ -3,9 +3,9 @@ title: "Section 3525 - Regulations"
 usc_title: 5
 usc_section: "3525"
 chapter: 35
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "5 U.S.C. § 3525"
-generated_at: "2026-03-30T09:43:57.713Z"
+generated_at: "2026-03-30T09:45:57.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3142 - Operational files of the National Geospatial-Intelligence
 usc_title: 50
 usc_section: "3142"
 chapter: 44
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "50 U.S.C. § 3142"
-generated_at: "2026-03-30T09:45:34.870Z"
+generated_at: "2026-03-30T09:48:29.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 793a - Repealed. June 30, 1954, ch. 428, § 1 , 68 Stat. 336"
 usc_title: 48
 usc_section: "793a"
 chapter: 4
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "48 U.S.C. § 793a"
-generated_at: "2026-03-30T09:45:33.723Z"
+generated_at: "2026-03-30T09:48:19.565Z"
 status: "repealed"
 ---
 

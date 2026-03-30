@@ -3,9 +3,9 @@ title: "Section 37 - Rules, regulations, and orders"
 usc_title: 15
 usc_section: "37"
 chapter: 2
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "15 U.S.C. § 37"
-generated_at: "2026-03-30T09:44:20.464Z"
+generated_at: "2026-03-30T09:46:18.509Z"
 status: "active"
 ---
 

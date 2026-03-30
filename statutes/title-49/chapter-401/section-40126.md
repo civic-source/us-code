@@ -3,9 +3,9 @@ title: "Section 40126 - Severable services contracts for periods crossing fiscal
 usc_title: 49
 usc_section: "40126"
 chapter: 401
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "49 U.S.C. § 40126"
-generated_at: "2026-03-30T09:45:37.251Z"
+generated_at: "2026-03-30T09:48:42.030Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2186 - Loan guarantees to Israel program"
 usc_title: 22
 usc_section: "2186"
 chapter: 32
-current_through: "PL 116-163"
+current_through: "PL 116-169"
 classification: "22 U.S.C. § 2186"
-generated_at: "2026-03-30T09:44:42.771Z"
+generated_at: "2026-03-30T09:46:45.742Z"
 status: "active"
 ---
 
