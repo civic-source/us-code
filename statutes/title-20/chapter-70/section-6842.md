@@ -3,9 +3,9 @@ title: "Section 6842 - Repealed. Pub. L. 114–95, title III , § 3001(2)(A), De
 usc_title: 20
 usc_section: "6842"
 chapter: 70
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "20 U.S.C. § 6842"
-generated_at: "2026-03-30T07:40:35.337Z"
+generated_at: "2026-03-30T07:43:51.852Z"
 status: "repealed"
 ---
 

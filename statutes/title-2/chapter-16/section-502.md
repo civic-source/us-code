@@ -3,9 +3,9 @@ title: "Section 502 - Select Committee on Standards and Conduct of the Senate"
 usc_title: 2
 usc_section: "502"
 chapter: 16
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 502"
-generated_at: "2026-03-30T07:39:32.298Z"
+generated_at: "2026-03-30T07:43:01.571Z"
 status: "active"
 ---
 

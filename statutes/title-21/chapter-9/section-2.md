@@ -3,9 +3,9 @@ title: "Section 2 - Activities of the Food and Drug Administration"
 usc_title: 21
 usc_section: "2"
 chapter: 9
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "21 U.S.C. § 2"
-generated_at: "2026-03-30T07:41:08.718Z"
+generated_at: "2026-03-30T07:44:23.317Z"
 status: "active"
 ---
 

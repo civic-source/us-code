@@ -3,9 +3,9 @@ title: "Section 4624 - Reviews of enterprise assets and liabilities"
 usc_title: 12
 usc_section: "4624"
 chapter: 46
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "12 U.S.C. § 4624"
-generated_at: "2026-03-30T07:40:04.803Z"
+generated_at: "2026-03-30T07:43:34.074Z"
 status: "active"
 ---
 

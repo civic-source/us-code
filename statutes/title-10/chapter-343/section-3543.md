@@ -3,9 +3,9 @@ title: "Section 3543 - Repealed. Pub. L. 114–328, div. A, title V , § 502(s)(
 usc_title: 10
 usc_section: "3543"
 chapter: 343
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 3543"
-generated_at: "2026-03-30T07:39:56.786Z"
+generated_at: "2026-03-30T07:43:26.986Z"
 status: "repealed"
 ---
 

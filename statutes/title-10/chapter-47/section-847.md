@@ -3,9 +3,9 @@ title: "Section 847 - Art. 47. Refusal to appear or testify"
 usc_title: 10
 usc_section: "847"
 chapter: 47
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 847"
-generated_at: "2026-03-30T07:39:56.702Z"
+generated_at: "2026-03-30T07:43:26.907Z"
 status: "active"
 ---
 

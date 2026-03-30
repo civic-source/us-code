@@ -3,9 +3,9 @@ title: "Section 3882 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21
 usc_title: 10
 usc_section: "3882"
 chapter: 365
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 3882"
-generated_at: "2026-03-30T07:39:56.788Z"
+generated_at: "2026-03-30T07:43:26.987Z"
 status: "repealed"
 ---
 

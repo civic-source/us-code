@@ -3,9 +3,9 @@ title: "Section 9410 - State requirements"
 usc_title: 20
 usc_section: "9410"
 chapter: 75
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "20 U.S.C. § 9410"
-generated_at: "2026-03-30T07:40:35.354Z"
+generated_at: "2026-03-30T07:43:51.872Z"
 status: "active"
 ---
 

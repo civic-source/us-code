@@ -3,9 +3,9 @@ title: "Section 8908 - Coverage of restored employees and survivor or disability
 usc_title: 5
 usc_section: "8908"
 chapter: 89
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "5 U.S.C. § 8908"
-generated_at: "2026-03-30T07:39:15.339Z"
+generated_at: "2026-03-30T07:43:04.458Z"
 status: "active"
 ---
 

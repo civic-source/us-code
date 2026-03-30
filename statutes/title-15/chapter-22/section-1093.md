@@ -3,9 +3,9 @@ title: "Section 1093 - Registration certificates for marks on principal and supp
 usc_title: 15
 usc_section: "1093"
 chapter: 22
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1093"
-generated_at: "2026-03-30T07:40:30.029Z"
+generated_at: "2026-03-30T07:43:45.410Z"
 status: "active"
 ---
 

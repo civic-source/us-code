@@ -3,9 +3,9 @@ title: "Section 3174 - Judicial emergency and implementation"
 usc_title: 18
 usc_section: "3174"
 chapter: 208
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "18 U.S.C. § 3174"
-generated_at: "2026-03-30T07:40:33.386Z"
+generated_at: "2026-03-30T07:43:53.601Z"
 status: "active"
 ---
 

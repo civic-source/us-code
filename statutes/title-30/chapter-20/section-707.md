@@ -3,9 +3,9 @@ title: "Section 707 - Reservation of mineral rights"
 usc_title: 30
 usc_section: "707"
 chapter: 20
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "30 U.S.C. § 707"
-generated_at: "2026-03-30T07:41:20.563Z"
+generated_at: "2026-03-30T07:44:27.787Z"
 status: "active"
 ---
 

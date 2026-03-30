@@ -3,9 +3,9 @@ title: "Section 2812 - Engineering and manufacturing research, development, and 
 usc_title: 50
 usc_section: "2812"
 chapter: 42
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "50 U.S.C. § 2812"
-generated_at: "2026-03-30T07:42:20.574Z"
+generated_at: "2026-03-30T07:45:22.094Z"
 status: "active"
 ---
 

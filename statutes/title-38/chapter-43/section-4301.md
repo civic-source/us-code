@@ -3,9 +3,9 @@ title: "Section 4301 - Purposes; sense of Congress"
 usc_title: 38
 usc_section: "4301"
 chapter: 43
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 4301"
-generated_at: "2026-03-30T07:41:41.609Z"
+generated_at: "2026-03-30T07:44:46.292Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 168 - Repealed. Pub. L. 114–328, div. A, title XII , § 1253(a
 usc_title: 10
 usc_section: "168"
 chapter: 6
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 168"
-generated_at: "2026-03-30T07:39:56.682Z"
+generated_at: "2026-03-30T07:43:26.888Z"
 status: "repealed"
 ---
 

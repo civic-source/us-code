@@ -3,9 +3,9 @@ title: "Section 12892 - Planning grants"
 usc_title: 42
 usc_section: "12892"
 chapter: 130
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 12892"
-generated_at: "2026-03-30T07:42:00.479Z"
+generated_at: "2026-03-30T07:45:06.817Z"
 status: "active"
 ---
 

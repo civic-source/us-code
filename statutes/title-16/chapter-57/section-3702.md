@@ -3,9 +3,9 @@ title: "Section 3702 - Board of Directors of Foundation"
 usc_title: 16
 usc_section: "3702"
 chapter: 57
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 3702"
-generated_at: "2026-03-30T07:41:02.179Z"
+generated_at: "2026-03-30T07:43:56.579Z"
 status: "active"
 ---
 

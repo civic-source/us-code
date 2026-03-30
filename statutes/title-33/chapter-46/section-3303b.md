@@ -3,9 +3,9 @@ title: "Section 3303b - Reports"
 usc_title: 33
 usc_section: "3303b"
 chapter: 46
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 3303b"
-generated_at: "2026-03-30T07:41:36.514Z"
+generated_at: "2026-03-30T07:44:42.343Z"
 status: "active"
 ---
 

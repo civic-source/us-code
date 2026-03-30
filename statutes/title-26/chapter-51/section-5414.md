@@ -3,9 +3,9 @@ title: "Section 5414 - Removals from one brewery to another belonging to the sam
 usc_title: 26
 usc_section: "5414"
 chapter: 51
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 5414"
-generated_at: "2026-03-30T07:41:26.815Z"
+generated_at: "2026-03-30T07:44:36.281Z"
 status: "active"
 ---
 

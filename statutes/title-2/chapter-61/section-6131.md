@@ -3,9 +3,9 @@ title: "Section 6131 - Appointment of employees by Senate Majority and Minority 
 usc_title: 2
 usc_section: "6131"
 chapter: 61
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 6131"
-generated_at: "2026-03-30T07:39:32.329Z"
+generated_at: "2026-03-30T07:43:01.604Z"
 status: "active"
 ---
 

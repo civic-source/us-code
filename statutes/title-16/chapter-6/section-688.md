@@ -3,9 +3,9 @@ title: "Section 688 - Repealed. Pub. L. 95–625, title III , § 314(g), Nov. 10
 usc_title: 16
 usc_section: "688"
 chapter: 6
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 688"
-generated_at: "2026-03-30T07:41:02.096Z"
+generated_at: "2026-03-30T07:43:56.494Z"
 status: "repealed"
 ---
 

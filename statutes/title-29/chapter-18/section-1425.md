@@ -3,9 +3,9 @@ title: "Section 1425 - Repealed. Pub. L. 113–235, div. O, title I , § 108(a)(
 usc_title: 29
 usc_section: "1425"
 chapter: 18
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "29 U.S.C. § 1425"
-generated_at: "2026-03-30T07:41:18.181Z"
+generated_at: "2026-03-30T07:44:38.103Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12 - San Gabriel basin demonstration project"
 usc_title: 43
 usc_section: "12"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "43 U.S.C. § 12"
-generated_at: "2026-03-30T07:41:48.785Z"
+generated_at: "2026-03-30T07:44:49.214Z"
 status: "active"
 ---
 

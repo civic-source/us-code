@@ -3,9 +3,9 @@ title: "Section 401 - Congressional declaration of findings, purposes, and polic
 usc_title: 29
 usc_section: "401"
 chapter: 11
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "29 U.S.C. § 401"
-generated_at: "2026-03-30T07:41:18.138Z"
+generated_at: "2026-03-30T07:44:38.058Z"
 status: "active"
 ---
 

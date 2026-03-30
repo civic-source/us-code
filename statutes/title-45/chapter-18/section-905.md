@@ -3,9 +3,9 @@ title: "Section 905 - Employee or employee-shipper ownership plan"
 usc_title: 45
 usc_section: "905"
 chapter: 18
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "45 U.S.C. § 905"
-generated_at: "2026-03-30T07:42:02.695Z"
+generated_at: "2026-03-30T07:44:49.962Z"
 status: "active"
 ---
 

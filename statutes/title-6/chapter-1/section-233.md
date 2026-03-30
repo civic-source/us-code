@@ -3,9 +3,9 @@ title: "Section 233 - Functions of Transportation Security Administration"
 usc_title: 6
 usc_section: "233"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "6 U.S.C. § 233"
-generated_at: "2026-03-30T07:39:36.400Z"
+generated_at: "2026-03-30T07:43:18.576Z"
 status: "active"
 ---
 

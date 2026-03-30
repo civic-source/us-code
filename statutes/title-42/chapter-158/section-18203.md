@@ -3,9 +3,9 @@ title: "Section 18203 - Permissible uses of Fund"
 usc_title: 42
 usc_section: "18203"
 chapter: 158
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 18203"
-generated_at: "2026-03-30T07:42:00.535Z"
+generated_at: "2026-03-30T07:45:06.874Z"
 status: "active"
 ---
 

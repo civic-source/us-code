@@ -3,9 +3,9 @@ title: "Section 20105 - Compensation and assistance to victims of terrorism or m
 usc_title: 34
 usc_section: "20105"
 chapter: 201
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 20105"
-generated_at: "2026-03-30T07:41:29.481Z"
+generated_at: "2026-03-30T07:44:40.658Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 165 - Conflict of laws"
 usc_title: 29
 usc_section: "165"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "29 U.S.C. § 165"
-generated_at: "2026-03-30T07:41:18.133Z"
+generated_at: "2026-03-30T07:44:38.054Z"
 status: "active"
 ---
 

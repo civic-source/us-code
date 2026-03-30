@@ -3,9 +3,9 @@ title: "Section 1428 - Reciprocating states"
 usc_title: 30
 usc_section: "1428"
 chapter: 26
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "30 U.S.C. § 1428"
-generated_at: "2026-03-30T07:41:20.582Z"
+generated_at: "2026-03-30T07:44:27.804Z"
 status: "active"
 ---
 

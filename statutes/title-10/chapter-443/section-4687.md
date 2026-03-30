@@ -3,9 +3,9 @@ title: "Section 4687 - Sale of excess, obsolete, or unserviceable ammunition and
 usc_title: 10
 usc_section: "4687"
 chapter: 443
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 4687"
-generated_at: "2026-03-30T07:39:56.791Z"
+generated_at: "2026-03-30T07:43:26.990Z"
 status: "active"
 ---
 

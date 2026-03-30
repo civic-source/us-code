@@ -3,9 +3,9 @@ title: "Section 6103 - Regulations"
 usc_title: 42
 usc_section: "6103"
 chapter: 76
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 6103"
-generated_at: "2026-03-30T07:42:00.321Z"
+generated_at: "2026-03-30T07:45:06.653Z"
 status: "active"
 ---
 

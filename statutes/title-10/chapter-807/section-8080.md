@@ -3,9 +3,9 @@ title: "Section 8080 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1661(
 usc_title: 10
 usc_section: "8080"
 chapter: 807
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 8080"
-generated_at: "2026-03-30T07:39:56.806Z"
+generated_at: "2026-03-30T07:43:27.004Z"
 status: "repealed"
 ---
 

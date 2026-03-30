@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-30T07:41:26.658Z"
+generated_at: "2026-03-30T07:44:36.127Z"
 status: "active"
 ---
 

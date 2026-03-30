@@ -3,9 +3,9 @@ title: "Section 32905 - Manufacturing incentives for alternative fuel automobile
 usc_title: 49
 usc_section: "32905"
 chapter: 329
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "49 U.S.C. § 32905"
-generated_at: "2026-03-30T07:42:29.462Z"
+generated_at: "2026-03-30T07:45:20.855Z"
 status: "active"
 ---
 

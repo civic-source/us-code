@@ -3,9 +3,9 @@ title: "Section 440 - Mail contracts"
 usc_title: 18
 usc_section: "440"
 chapter: 23
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "18 U.S.C. § 440"
-generated_at: "2026-03-30T07:40:33.346Z"
+generated_at: "2026-03-30T07:43:53.563Z"
 status: "active"
 ---
 

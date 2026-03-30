@@ -3,9 +3,9 @@ title: "Section 121 - Repealed. Pub. L. 103–325, title VI , § 602(f)(4)(B), S
 usc_title: 12
 usc_section: "121"
 chapter: 2
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "12 U.S.C. § 121"
-generated_at: "2026-03-30T07:40:04.679Z"
+generated_at: "2026-03-30T07:43:33.939Z"
 status: "repealed"
 ---
 

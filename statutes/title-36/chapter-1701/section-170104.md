@@ -3,9 +3,9 @@ title: "Section 170104 - Powers"
 usc_title: 36
 usc_section: "170104"
 chapter: 1701
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "36 U.S.C. § 170104"
-generated_at: "2026-03-30T07:41:39.625Z"
+generated_at: "2026-03-30T07:44:44.723Z"
 status: "active"
 ---
 

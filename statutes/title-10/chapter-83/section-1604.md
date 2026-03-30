@@ -3,9 +3,9 @@ title: "Section 1604 - Repealed. Pub. L. 104–201, div. A, title XVI , § 1632(
 usc_title: 10
 usc_section: "1604"
 chapter: 83
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 1604"
-generated_at: "2026-03-30T07:39:56.736Z"
+generated_at: "2026-03-30T07:43:26.939Z"
 status: "repealed"
 ---
 

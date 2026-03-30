@@ -3,9 +3,9 @@ title: "Section 838d - Transmission of non-Federal power"
 usc_title: 16
 usc_section: "838d"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 838d"
-generated_at: "2026-03-30T07:41:02.119Z"
+generated_at: "2026-03-30T07:43:56.517Z"
 status: "active"
 ---
 

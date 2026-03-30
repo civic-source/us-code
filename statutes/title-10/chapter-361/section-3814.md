@@ -3,9 +3,9 @@ title: "Section 3814 - Repealed. Pub. L. 96–513, title II , § 214, Dec. 12, 1
 usc_title: 10
 usc_section: "3814"
 chapter: 361
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 3814"
-generated_at: "2026-03-30T07:39:56.788Z"
+generated_at: "2026-03-30T07:43:26.986Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10471 - Grant authority"
 usc_title: 34
 usc_section: "10471"
 chapter: 101
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 10471"
-generated_at: "2026-03-30T07:41:29.461Z"
+generated_at: "2026-03-30T07:44:40.637Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9862 - Repealed. Pub. L. 103–382, title III , § 391(w), Oct. 
 usc_title: 42
 usc_section: "9862"
 chapter: 105
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 9862"
-generated_at: "2026-03-30T07:42:00.431Z"
+generated_at: "2026-03-30T07:45:06.766Z"
 status: "repealed"
 ---
 

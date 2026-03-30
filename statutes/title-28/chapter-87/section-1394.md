@@ -3,9 +3,9 @@ title: "Section 1394 - Banking association’s action against Comptroller of Cur
 usc_title: 28
 usc_section: "1394"
 chapter: 87
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "28 U.S.C. § 1394"
-generated_at: "2026-03-30T07:41:21.605Z"
+generated_at: "2026-03-30T07:44:29.143Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Privacy and data protection policies and procedures"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T07:42:00.241Z"
+generated_at: "2026-03-30T07:45:06.571Z"
 status: "active"
 ---
 

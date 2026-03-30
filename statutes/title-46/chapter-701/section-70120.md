@@ -3,9 +3,9 @@ title: "Section 70120 - In rem liability for civil penalties and certain costs"
 usc_title: 46
 usc_section: "70120"
 chapter: 701
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "46 U.S.C. § 70120"
-generated_at: "2026-03-30T07:42:06.106Z"
+generated_at: "2026-03-30T07:45:11.161Z"
 status: "active"
 ---
 

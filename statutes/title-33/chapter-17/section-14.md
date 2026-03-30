@@ -3,9 +3,9 @@ title: "Section 14 - Membership"
 usc_title: 33
 usc_section: "14"
 chapter: 17
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 14"
-generated_at: "2026-03-30T07:41:36.461Z"
+generated_at: "2026-03-30T07:44:42.290Z"
 status: "active"
 ---
 

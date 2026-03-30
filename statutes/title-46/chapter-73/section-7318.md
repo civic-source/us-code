@@ -3,9 +3,9 @@ title: "Section 7318 - Radiotelegraph operators on Great Lakes"
 usc_title: 46
 usc_section: "7318"
 chapter: 73
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "46 U.S.C. § 7318"
-generated_at: "2026-03-30T07:42:06.074Z"
+generated_at: "2026-03-30T07:45:11.135Z"
 status: "active"
 ---
 

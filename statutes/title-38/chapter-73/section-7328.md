@@ -3,9 +3,9 @@ title: "Section 7328 - Medical preparedness centers"
 usc_title: 38
 usc_section: "7328"
 chapter: 73
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 7328"
-generated_at: "2026-03-30T07:41:41.620Z"
+generated_at: "2026-03-30T07:44:46.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2603 - Relationship to antitrust laws"
 usc_title: 16
 usc_section: "2603"
 chapter: 46
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 2603"
-generated_at: "2026-03-30T07:41:02.168Z"
+generated_at: "2026-03-30T07:43:56.568Z"
 status: "active"
 ---
 

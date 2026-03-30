@@ -3,9 +3,9 @@ title: "Section 6115 - Expense allowance of President pro tempore of Senate; met
 usc_title: 2
 usc_section: "6115"
 chapter: 61
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 6115"
-generated_at: "2026-03-30T07:39:32.329Z"
+generated_at: "2026-03-30T07:43:01.604Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7271 - Penalties for offenses relating to stamps"
 usc_title: 26
 usc_section: "7271"
 chapter: 75
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 7271"
-generated_at: "2026-03-30T07:41:26.850Z"
+generated_at: "2026-03-30T07:44:36.315Z"
 status: "active"
 ---
 

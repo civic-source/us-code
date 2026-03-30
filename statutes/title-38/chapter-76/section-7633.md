@@ -3,9 +3,9 @@ title: "Section 7633 - Regulations"
 usc_title: 38
 usc_section: "7633"
 chapter: 76
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 7633"
-generated_at: "2026-03-30T07:41:41.625Z"
+generated_at: "2026-03-30T07:44:46.308Z"
 status: "active"
 ---
 

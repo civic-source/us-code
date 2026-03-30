@@ -3,9 +3,9 @@ title: "Section 1553 - Upper Colorado River Basin; rights to consumptive uses no
 usc_title: 43
 usc_section: "1553"
 chapter: 32
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "43 U.S.C. § 1553"
-generated_at: "2026-03-30T07:41:48.812Z"
+generated_at: "2026-03-30T07:44:49.242Z"
 status: "active"
 ---
 

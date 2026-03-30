@@ -3,9 +3,9 @@ title: "Section 8445 - Repealed. Pub. L. 96–513, title II , § 207, Dec. 12, 1
 usc_title: 10
 usc_section: "8445"
 chapter: 839
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 8445"
-generated_at: "2026-03-30T07:39:56.807Z"
+generated_at: "2026-03-30T07:43:27.004Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 72 - Omitted"
 usc_title: 2
 usc_section: "72"
 chapter: 4
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 72"
-generated_at: "2026-03-30T07:39:32.285Z"
+generated_at: "2026-03-30T07:43:01.556Z"
 status: "omitted"
 ---
 

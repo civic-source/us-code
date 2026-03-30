@@ -3,9 +3,9 @@ title: "Section 214 - Omitted"
 usc_title: 45
 usc_section: "214"
 chapter: 9
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "45 U.S.C. § 214"
-generated_at: "2026-03-30T07:42:02.680Z"
+generated_at: "2026-03-30T07:44:49.947Z"
 status: "omitted"
 ---
 

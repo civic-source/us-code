@@ -3,9 +3,9 @@ title: "Section 8040 - Oversight of nuclear deterrence mission"
 usc_title: 10
 usc_section: "8040"
 chapter: 805
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 8040"
-generated_at: "2026-03-30T07:39:56.806Z"
+generated_at: "2026-03-30T07:43:27.004Z"
 status: "active"
 ---
 

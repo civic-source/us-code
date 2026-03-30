@@ -3,9 +3,9 @@ title: "Section 4761 - Declaration of purpose"
 usc_title: 42
 usc_section: "4761"
 chapter: 62
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 4761"
-generated_at: "2026-03-30T07:42:00.295Z"
+generated_at: "2026-03-30T07:45:06.627Z"
 status: "active"
 ---
 

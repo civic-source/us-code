@@ -3,9 +3,9 @@ title: "Section 301 - Definitions"
 usc_title: 10
 usc_section: "301"
 chapter: 16
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 301"
-generated_at: "2026-03-30T07:39:56.686Z"
+generated_at: "2026-03-30T07:43:26.893Z"
 status: "active"
 ---
 

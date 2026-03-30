@@ -3,9 +3,9 @@ title: "Section 4501 - Authority of executive agency"
 usc_title: 41
 usc_section: "4501"
 chapter: 45
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "41 U.S.C. § 4501"
-generated_at: "2026-03-30T07:41:47.929Z"
+generated_at: "2026-03-30T07:44:48.490Z"
 status: "active"
 ---
 

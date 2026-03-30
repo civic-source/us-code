@@ -3,9 +3,9 @@ title: "Section 1205 - Savings clause"
 usc_title: 17
 usc_section: "1205"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "17 U.S.C. § 1205"
-generated_at: "2026-03-30T07:40:35.512Z"
+generated_at: "2026-03-30T07:43:59.929Z"
 status: "active"
 ---
 

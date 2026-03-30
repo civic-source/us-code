@@ -3,9 +3,9 @@ title: "Section 6405 - Repealed. Pub. L. 90–235 , § 4(a)(12), Jan. 2, 1968 , 
 usc_title: 10
 usc_section: "6405"
 chapter: 573
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 6405"
-generated_at: "2026-03-30T07:39:56.798Z"
+generated_at: "2026-03-30T07:43:26.996Z"
 status: "repealed"
 ---
 

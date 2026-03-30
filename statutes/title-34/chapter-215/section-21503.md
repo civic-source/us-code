@@ -3,9 +3,9 @@ title: "Section 21503 - Angel Watch Center"
 usc_title: 34
 usc_section: "21503"
 chapter: 215
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 21503"
-generated_at: "2026-03-30T07:41:29.490Z"
+generated_at: "2026-03-30T07:44:40.667Z"
 status: "active"
 ---
 

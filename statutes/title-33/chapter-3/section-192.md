@@ -3,9 +3,9 @@ title: "Section 192 - Repealed. Pub. L. 96–591 , § 8(a), Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "192"
 chapter: 3
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 192"
-generated_at: "2026-03-30T07:41:36.443Z"
+generated_at: "2026-03-30T07:44:42.273Z"
 status: "repealed"
 ---
 

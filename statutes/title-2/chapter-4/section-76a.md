@@ -3,9 +3,9 @@ title: "Section 76a - Repealed. Pub. L. 104–186, title II , § 204(21), (22)(A
 usc_title: 2
 usc_section: "76a"
 chapter: 4
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 76a"
-generated_at: "2026-03-30T07:39:32.286Z"
+generated_at: "2026-03-30T07:43:01.557Z"
 status: "repealed"
 ---
 

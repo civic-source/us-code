@@ -3,9 +3,9 @@ title: "Section 11213 - Approval of applications"
 usc_title: 34
 usc_section: "11213"
 chapter: 111
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 11213"
-generated_at: "2026-03-30T07:41:29.470Z"
+generated_at: "2026-03-30T07:44:40.646Z"
 status: "active"
 ---
 

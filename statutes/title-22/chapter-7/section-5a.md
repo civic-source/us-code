@@ -3,9 +3,9 @@ title: "Section 5a - Additional amendments to Articles of Agreement"
 usc_title: 22
 usc_section: "5a"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 5a"
-generated_at: "2026-03-30T07:41:07.069Z"
+generated_at: "2026-03-30T07:44:13.602Z"
 status: "active"
 ---
 

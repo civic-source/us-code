@@ -3,9 +3,9 @@ title: "Section 9121 - Response to international child abductions"
 usc_title: 22
 usc_section: "9121"
 chapter: 98
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 9121"
-generated_at: "2026-03-30T07:41:07.199Z"
+generated_at: "2026-03-30T07:44:13.729Z"
 status: "active"
 ---
 

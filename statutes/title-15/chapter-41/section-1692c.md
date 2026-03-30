@@ -3,9 +3,9 @@ title: "Section 1692c - Communication in connection with debt collection"
 usc_title: 15
 usc_section: "1692c"
 chapter: 41
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1692c"
-generated_at: "2026-03-30T07:40:30.055Z"
+generated_at: "2026-03-30T07:43:45.506Z"
 status: "active"
 ---
 

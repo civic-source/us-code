@@ -3,9 +3,9 @@ title: "Section 4115 - Longitudinal study of job counseling, training, and place
 usc_title: 38
 usc_section: "4115"
 chapter: 41
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 4115"
-generated_at: "2026-03-30T07:41:41.609Z"
+generated_at: "2026-03-30T07:44:46.291Z"
 status: "active"
 ---
 

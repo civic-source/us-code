@@ -3,9 +3,9 @@ title: "Section 24506 - Repealed. Pub. L. 105–134, title I , § 106(a), Dec. 2
 usc_title: 49
 usc_section: "24506"
 chapter: 245
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "49 U.S.C. § 24506"
-generated_at: "2026-03-30T07:42:29.449Z"
+generated_at: "2026-03-30T07:45:20.839Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 123b - Transferred"
 usc_title: 2
 usc_section: "123b"
 chapter: 4
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 123b"
-generated_at: "2026-03-30T07:39:32.287Z"
+generated_at: "2026-03-30T07:43:01.559Z"
 status: "transferred"
 ---
 

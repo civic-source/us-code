@@ -3,9 +3,9 @@ title: "Section 16162 - Educational assistance program"
 usc_title: 10
 usc_section: "16162"
 chapter: 1607
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 16162"
-generated_at: "2026-03-30T07:39:56.824Z"
+generated_at: "2026-03-30T07:43:27.020Z"
 status: "active"
 ---
 

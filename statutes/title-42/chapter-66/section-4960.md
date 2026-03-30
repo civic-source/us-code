@@ -3,9 +3,9 @@ title: "Section 4960 - Applications for assistance"
 usc_title: 42
 usc_section: "4960"
 chapter: 66
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 4960"
-generated_at: "2026-03-30T07:42:00.298Z"
+generated_at: "2026-03-30T07:45:06.631Z"
 status: "active"
 ---
 

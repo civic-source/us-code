@@ -3,9 +3,9 @@ title: "Section 40915 - Relief from disabilities program required as condition f
 usc_title: 34
 usc_section: "40915"
 chapter: 409
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 40915"
-generated_at: "2026-03-30T07:41:29.497Z"
+generated_at: "2026-03-30T07:44:40.674Z"
 status: "active"
 ---
 

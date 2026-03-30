@@ -3,9 +3,9 @@ title: "Section 2794 - Omitted"
 usc_title: 42
 usc_section: "2794"
 chapter: 34
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 2794"
-generated_at: "2026-03-30T07:42:00.261Z"
+generated_at: "2026-03-30T07:45:06.592Z"
 status: "omitted"
 ---
 

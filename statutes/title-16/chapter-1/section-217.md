@@ -3,9 +3,9 @@ title: "Section 217 - Change in name of Abraham Lincoln National Park"
 usc_title: 16
 usc_section: "217"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 217"
-generated_at: "2026-03-30T07:41:01.996Z"
+generated_at: "2026-03-30T07:43:56.389Z"
 status: "active"
 ---
 

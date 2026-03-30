@@ -3,9 +3,9 @@ title: "Section 1 - Regulation of plastic ring carriers"
 usc_title: 42
 usc_section: "1"
 chapter: 82
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T07:42:00.343Z"
+generated_at: "2026-03-30T07:45:06.677Z"
 status: "active"
 ---
 

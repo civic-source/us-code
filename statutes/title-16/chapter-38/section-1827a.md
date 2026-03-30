@@ -3,9 +3,9 @@ title: "Section 1827a - Prohibition on sale of billfish"
 usc_title: 16
 usc_section: "1827a"
 chapter: 38
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 1827a"
-generated_at: "2026-03-30T07:41:02.157Z"
+generated_at: "2026-03-30T07:43:56.557Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** No person shall offer for sale, sell, or have custody, control, or possession of for purposes of offering for sale or selling billfish or products containing billfish.
 - **(b)** For purposes of section 1858(a) of this title , a violation of this section shall be treated as an act prohibited by section 1857 of this title .
 - **(c)**
-  - **(1)** Subsection (a) does not apply to billfish caught by US fishing vessels and landed in the State of Hawaii or Pacific Insular Areas as defined in section 1802(35) of this title .
+  - **(1)** Subsection (a) does not apply to billfish caught by US fishing vessels and landed and retained in the State of Hawaii or Pacific Insular Areas as defined in section 1802(35) of this title .
   - **(2)** Subsection (a) does not apply to billfish landed by foreign fishing vessels in the Pacific Insular Areas when the foreign caught billfish is exported to non-US markets or retained within Hawaii and the Pacific Insular Areas for local consumption.
 - **(d)** In this section the term “billfish”—
   - **(1)** means any fish of the species—

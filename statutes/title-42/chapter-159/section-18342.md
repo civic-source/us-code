@@ -3,9 +3,9 @@ title: "Section 18342 - Requirements applicable to development of commercial cre
 usc_title: 42
 usc_section: "18342"
 chapter: 159
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 18342"
-generated_at: "2026-03-30T07:42:00.536Z"
+generated_at: "2026-03-30T07:45:06.875Z"
 status: "active"
 ---
 

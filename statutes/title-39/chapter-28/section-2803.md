@@ -3,9 +3,9 @@ title: "Section 2803 - Performance plans"
 usc_title: 39
 usc_section: "2803"
 chapter: 28
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "39 U.S.C. § 2803"
-generated_at: "2026-03-30T07:41:42.668Z"
+generated_at: "2026-03-30T07:44:43.937Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 176b - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862"
 usc_title: 15
 usc_section: "176b"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 176b"
-generated_at: "2026-03-30T07:40:29.987Z"
+generated_at: "2026-03-30T07:43:45.366Z"
 status: "repealed"
 ---
 

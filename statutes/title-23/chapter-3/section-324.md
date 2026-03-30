@@ -3,9 +3,9 @@ title: "Section 324 - Prohibition of discrimination on the basis of sex"
 usc_title: 23
 usc_section: "324"
 chapter: 3
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "23 U.S.C. § 324"
-generated_at: "2026-03-30T07:41:11.524Z"
+generated_at: "2026-03-30T07:44:24.549Z"
 status: "active"
 ---
 

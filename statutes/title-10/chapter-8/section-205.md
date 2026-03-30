@@ -3,9 +3,9 @@ title: "Section 205 - Missile Defense Agency"
 usc_title: 10
 usc_section: "205"
 chapter: 8
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 205"
-generated_at: "2026-03-30T07:39:56.684Z"
+generated_at: "2026-03-30T07:43:26.890Z"
 status: "active"
 ---
 

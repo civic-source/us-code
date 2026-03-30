@@ -3,9 +3,9 @@ title: "Section 3303 - Construction of intelligence community facilities; Presid
 usc_title: 50
 usc_section: "3303"
 chapter: 45
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "50 U.S.C. § 3303"
-generated_at: "2026-03-30T07:42:20.585Z"
+generated_at: "2026-03-30T07:45:22.105Z"
 status: "active"
 ---
 

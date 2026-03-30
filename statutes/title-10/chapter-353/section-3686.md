@@ -3,9 +3,9 @@ title: "Section 3686 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "3686"
 chapter: 353
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 3686"
-generated_at: "2026-03-30T07:39:56.787Z"
+generated_at: "2026-03-30T07:43:26.986Z"
 status: "repealed"
 ---
 

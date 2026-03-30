@@ -3,9 +3,9 @@ title: "Section 6 - Restriction on authority"
 usc_title: 16
 usc_section: "6"
 chapter: 6
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T07:41:02.099Z"
+generated_at: "2026-03-30T07:43:56.497Z"
 status: "active"
 ---
 

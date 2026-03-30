@@ -3,9 +3,9 @@ title: "Section 13 - Additional authorization for payment of United States contr
 usc_title: 22
 usc_section: "13"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 13"
-generated_at: "2026-03-30T07:41:07.074Z"
+generated_at: "2026-03-30T07:44:13.606Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 485f - Negotiation of equitable contracts by Secretary"
 usc_title: 43
 usc_section: "485f"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "43 U.S.C. § 485f"
-generated_at: "2026-03-30T07:41:48.791Z"
+generated_at: "2026-03-30T07:44:49.221Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6635 - Staff and consultant support"
 usc_title: 42
 usc_section: "6635"
 chapter: 79
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 6635"
-generated_at: "2026-03-30T07:42:00.339Z"
+generated_at: "2026-03-30T07:45:06.673Z"
 status: "active"
 ---
 

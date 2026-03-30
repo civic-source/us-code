@@ -3,9 +3,9 @@ title: "Section 1095 - Health care services incurred on behalf of covered benefi
 usc_title: 10
 usc_section: "1095"
 chapter: 55
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 1095"
-generated_at: "2026-03-30T07:39:56.718Z"
+generated_at: "2026-03-30T07:43:26.922Z"
 status: "active"
 ---
 

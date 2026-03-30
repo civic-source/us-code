@@ -3,9 +3,9 @@ title: "Section 176 - Seizure, forfeiture, and destruction"
 usc_title: 18
 usc_section: "176"
 chapter: 10
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "18 U.S.C. § 176"
-generated_at: "2026-03-30T07:40:33.343Z"
+generated_at: "2026-03-30T07:43:53.558Z"
 status: "active"
 ---
 

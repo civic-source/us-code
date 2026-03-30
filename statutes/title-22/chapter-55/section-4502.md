@@ -3,9 +3,9 @@ title: "Section 4502 - “Institution of higher education” and “Advisory Com
 usc_title: 22
 usc_section: "4502"
 chapter: 55
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 4502"
-generated_at: "2026-03-30T07:41:07.154Z"
+generated_at: "2026-03-30T07:44:13.684Z"
 status: "active"
 ---
 

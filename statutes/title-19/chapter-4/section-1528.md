@@ -3,9 +3,9 @@ title: "Section 1528 - Taxes not to be construed as duties"
 usc_title: 19
 usc_section: "1528"
 chapter: 4
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "19 U.S.C. § 1528"
-generated_at: "2026-03-30T07:40:54.498Z"
+generated_at: "2026-03-30T07:44:07.661Z"
 status: "active"
 ---
 

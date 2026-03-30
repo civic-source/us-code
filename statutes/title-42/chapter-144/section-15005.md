@@ -3,9 +3,9 @@ title: "Section 15005 - Reports of the Secretary"
 usc_title: 42
 usc_section: "15005"
 chapter: 144
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 15005"
-generated_at: "2026-03-30T07:42:00.496Z"
+generated_at: "2026-03-30T07:45:06.833Z"
 status: "active"
 ---
 

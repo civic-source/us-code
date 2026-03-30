@@ -3,9 +3,9 @@ title: "Section 410xx - Establishment"
 usc_title: 16
 usc_section: "410xx"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 410xx"
-generated_at: "2026-03-30T07:41:02.016Z"
+generated_at: "2026-03-30T07:43:56.411Z"
 status: "active"
 ---
 

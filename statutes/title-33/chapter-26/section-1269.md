@@ -3,9 +3,9 @@ title: "Section 1269 - Long Island Sound"
 usc_title: 33
 usc_section: "1269"
 chapter: 26
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 1269"
-generated_at: "2026-03-30T07:41:36.472Z"
+generated_at: "2026-03-30T07:44:42.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 695f - Construction, etc., authorized by section 695e as not rei
 usc_title: 16
 usc_section: "695f"
 chapter: 6
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 695f"
-generated_at: "2026-03-30T07:41:02.097Z"
+generated_at: "2026-03-30T07:43:56.494Z"
 status: "active"
 ---
 

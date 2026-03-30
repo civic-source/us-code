@@ -3,9 +3,9 @@ title: "Section 3705 - Pre-award debriefings"
 usc_title: 41
 usc_section: "3705"
 chapter: 37
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "41 U.S.C. § 3705"
-generated_at: "2026-03-30T07:41:47.928Z"
+generated_at: "2026-03-30T07:44:48.488Z"
 status: "active"
 ---
 

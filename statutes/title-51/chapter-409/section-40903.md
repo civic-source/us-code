@@ -3,9 +3,9 @@ title: "Section 40903 - Experimental Program to Stimulate Competitive Researchâ€
 usc_title: 51
 usc_section: "40903"
 chapter: 409
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "51 U.S.C. Â§ 40903"
-generated_at: "2026-03-30T07:42:37.950Z"
+generated_at: "2026-03-30T07:45:25.547Z"
 status: "active"
 ---
 

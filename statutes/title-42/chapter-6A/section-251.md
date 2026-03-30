@@ -3,9 +3,9 @@ title: "Section 251 - Medical examination and treatment of Federal employees; me
 usc_title: 42
 usc_section: "251"
 chapter: 6
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 251"
-generated_at: "2026-03-30T07:41:59.882Z"
+generated_at: "2026-03-30T07:45:06.235Z"
 status: "active"
 ---
 

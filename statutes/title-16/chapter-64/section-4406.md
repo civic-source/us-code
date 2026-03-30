@@ -3,9 +3,9 @@ title: "Section 4406 - Amounts available to carry out this chapter"
 usc_title: 16
 usc_section: "4406"
 chapter: 64
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 4406"
-generated_at: "2026-03-30T07:41:02.192Z"
+generated_at: "2026-03-30T07:43:56.593Z"
 status: "active"
 ---
 

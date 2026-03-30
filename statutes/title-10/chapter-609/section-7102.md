@@ -3,9 +3,9 @@ title: "Section 7102 - Degree granting authority for Marine Corps University"
 usc_title: 10
 usc_section: "7102"
 chapter: 609
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 7102"
-generated_at: "2026-03-30T07:39:56.800Z"
+generated_at: "2026-03-30T07:43:26.998Z"
 status: "active"
 ---
 

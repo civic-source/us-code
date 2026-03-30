@@ -3,9 +3,9 @@ title: "Section 354 - Technical requirements of equipment on radiotelegraph equi
 usc_title: 47
 usc_section: "354"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "47 U.S.C. § 354"
-generated_at: "2026-03-30T07:42:05.345Z"
+generated_at: "2026-03-30T07:45:12.051Z"
 status: "active"
 ---
 

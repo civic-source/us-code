@@ -3,9 +3,9 @@ title: "Section 3535 - Approval of courses"
 usc_title: 38
 usc_section: "3535"
 chapter: 35
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 3535"
-generated_at: "2026-03-30T07:41:41.601Z"
+generated_at: "2026-03-30T07:44:46.283Z"
 status: "active"
 ---
 

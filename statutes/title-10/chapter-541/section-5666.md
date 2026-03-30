@@ -3,9 +3,9 @@ title: "Section 5666 - Repealed. Pub. L. 96–513, title III , § 332, Dec. 12, 
 usc_title: 10
 usc_section: "5666"
 chapter: 541
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 5666"
-generated_at: "2026-03-30T07:39:56.795Z"
+generated_at: "2026-03-30T07:43:26.994Z"
 status: "repealed"
 ---
 

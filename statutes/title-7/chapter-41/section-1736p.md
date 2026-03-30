@@ -3,9 +3,9 @@ title: "Section 1736p - Trade policy declaration"
 usc_title: 7
 usc_section: "1736p"
 chapter: 41
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "7 U.S.C. § 1736p"
-generated_at: "2026-03-30T07:39:51.043Z"
+generated_at: "2026-03-30T07:43:10.018Z"
 status: "active"
 ---
 

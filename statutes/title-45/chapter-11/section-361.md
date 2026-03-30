@@ -3,9 +3,9 @@ title: "Section 361 - Railroad unemployment insurance administration fund"
 usc_title: 45
 usc_section: "361"
 chapter: 11
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "45 U.S.C. § 361"
-generated_at: "2026-03-30T07:42:02.687Z"
+generated_at: "2026-03-30T07:44:49.955Z"
 status: "active"
 ---
 

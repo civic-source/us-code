@@ -3,9 +3,9 @@ title: "Section 460e - Authorization for sale of public lands; rights of lessee"
 usc_title: 16
 usc_section: "460e"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 460e"
-generated_at: "2026-03-30T07:41:02.040Z"
+generated_at: "2026-03-30T07:43:56.436Z"
 status: "active"
 ---
 

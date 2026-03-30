@@ -3,9 +3,9 @@ title: "Section 2268a - Acquisition of land; options"
 usc_title: 7
 usc_section: "2268a"
 chapter: 55
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "7 U.S.C. § 2268a"
-generated_at: "2026-03-30T07:39:51.075Z"
+generated_at: "2026-03-30T07:43:10.050Z"
 status: "active"
 ---
 

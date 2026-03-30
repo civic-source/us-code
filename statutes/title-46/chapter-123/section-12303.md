@@ -3,9 +3,9 @@ title: "Section 12303 - Exemption from numbering requirements"
 usc_title: 46
 usc_section: "12303"
 chapter: 123
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "46 U.S.C. § 12303"
-generated_at: "2026-03-30T07:42:06.082Z"
+generated_at: "2026-03-30T07:45:11.140Z"
 status: "active"
 ---
 

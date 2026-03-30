@@ -3,9 +3,9 @@ title: "Section 1417 - Criminal jurisdiction"
 usc_title: 48
 usc_section: "1417"
 chapter: 8
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "48 U.S.C. § 1417"
-generated_at: "2026-03-30T07:42:11.032Z"
+generated_at: "2026-03-30T07:45:22.794Z"
 status: "active"
 ---
 

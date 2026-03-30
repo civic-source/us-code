@@ -3,9 +3,9 @@ title: "Section 563 - Omitted"
 usc_title: 33
 usc_section: "563"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 563"
-generated_at: "2026-03-30T07:41:36.451Z"
+generated_at: "2026-03-30T07:44:42.281Z"
 status: "omitted"
 ---
 

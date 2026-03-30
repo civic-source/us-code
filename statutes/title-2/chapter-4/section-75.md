@@ -3,9 +3,9 @@ title: "Section 75 - Repealed. Pub. L. 92–310, title II , § 220(b), (c), June
 usc_title: 2
 usc_section: "75"
 chapter: 4
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 75"
-generated_at: "2026-03-30T07:39:32.286Z"
+generated_at: "2026-03-30T07:43:01.557Z"
 status: "repealed"
 ---
 

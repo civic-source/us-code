@@ -3,9 +3,9 @@ title: "Section 7523 - Graphic presentation of major categories of Federal outla
 usc_title: 26
 usc_section: "7523"
 chapter: 77
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 7523"
-generated_at: "2026-03-30T07:41:26.857Z"
+generated_at: "2026-03-30T07:44:36.321Z"
 status: "active"
 ---
 

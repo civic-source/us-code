@@ -3,9 +3,9 @@ title: "Section 4051 - Voluntary retirement"
 usc_title: 22
 usc_section: "4051"
 chapter: 52
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 4051"
-generated_at: "2026-03-30T07:41:07.145Z"
+generated_at: "2026-03-30T07:44:13.675Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 100701 - Protection, interpretation, and research in System"
 usc_title: 54
 usc_section: "100701"
 chapter: 1007
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "54 U.S.C. § 100701"
-generated_at: "2026-03-30T07:42:35.711Z"
+generated_at: "2026-03-30T07:45:24.859Z"
 status: "active"
 ---
 

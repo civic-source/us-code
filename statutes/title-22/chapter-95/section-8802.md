@@ -3,9 +3,9 @@ title: "Section 8802 - Sense of Congress relating to violations of human rights 
 usc_title: 22
 usc_section: "8802"
 chapter: 95
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 8802"
-generated_at: "2026-03-30T07:41:07.196Z"
+generated_at: "2026-03-30T07:44:13.725Z"
 status: "active"
 ---
 

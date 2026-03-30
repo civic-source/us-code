@@ -3,9 +3,9 @@ title: "Section 4102 - Purpose"
 usc_title: 38
 usc_section: "4102"
 chapter: 41
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 4102"
-generated_at: "2026-03-30T07:41:41.608Z"
+generated_at: "2026-03-30T07:44:46.290Z"
 status: "active"
 ---
 

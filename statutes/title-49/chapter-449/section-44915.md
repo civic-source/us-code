@@ -3,9 +3,9 @@ title: "Section 44915 - Exemptions"
 usc_title: 49
 usc_section: "44915"
 chapter: 449
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "49 U.S.C. § 44915"
-generated_at: "2026-03-30T07:42:29.477Z"
+generated_at: "2026-03-30T07:45:20.873Z"
 status: "active"
 ---
 

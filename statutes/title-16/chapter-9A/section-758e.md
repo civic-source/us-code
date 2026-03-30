@@ -3,9 +3,9 @@ title: "Section 758e - Central, Western, and South Pacific Ocean fisheries devel
 usc_title: 16
 usc_section: "758e"
 chapter: 9
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 758e"
-generated_at: "2026-03-30T07:41:02.103Z"
+generated_at: "2026-03-30T07:43:56.502Z"
 status: "active"
 ---
 

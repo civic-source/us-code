@@ -3,9 +3,9 @@ title: "Section 7546 - Loan or gift of articles to ships’ sponsors and donors"
 usc_title: 10
 usc_section: "7546"
 chapter: 647
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 7546"
-generated_at: "2026-03-30T07:39:56.804Z"
+generated_at: "2026-03-30T07:43:27.001Z"
 status: "active"
 ---
 

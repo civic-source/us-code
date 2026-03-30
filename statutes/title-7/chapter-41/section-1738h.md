@@ -3,9 +3,9 @@ title: "Section 1738h - Disbursement of environmental funds"
 usc_title: 7
 usc_section: "1738h"
 chapter: 41
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "7 U.S.C. § 1738h"
-generated_at: "2026-03-30T07:39:51.044Z"
+generated_at: "2026-03-30T07:43:10.019Z"
 status: "active"
 ---
 

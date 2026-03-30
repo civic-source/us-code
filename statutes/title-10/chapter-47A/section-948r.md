@@ -3,9 +3,9 @@ title: "Section 948r - Exclusion of statements obtained by torture or cruel, inh
 usc_title: 10
 usc_section: "948r"
 chapter: 47
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 948r"
-generated_at: "2026-03-30T07:39:56.707Z"
+generated_at: "2026-03-30T07:43:26.911Z"
 status: "active"
 ---
 

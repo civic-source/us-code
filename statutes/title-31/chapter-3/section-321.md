@@ -3,9 +3,9 @@ title: "Section 321 - General authority of the Secretary"
 usc_title: 31
 usc_section: "321"
 chapter: 3
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "31 U.S.C. § 321"
-generated_at: "2026-03-30T07:41:31.250Z"
+generated_at: "2026-03-30T07:44:41.289Z"
 status: "active"
 ---
 

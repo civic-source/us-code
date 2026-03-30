@@ -3,9 +3,9 @@ title: "Section 1303 - Repealed. Pub. L. 89–563, title I , § 117(a), Sept. 9,
 usc_title: 15
 usc_section: "1303"
 chapter: 33
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1303"
-generated_at: "2026-03-30T07:40:30.036Z"
+generated_at: "2026-03-30T07:43:45.486Z"
 status: "repealed"
 ---
 

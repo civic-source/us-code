@@ -3,9 +3,9 @@ title: "Section 78ee - Transaction fees"
 usc_title: 15
 usc_section: "78ee"
 chapter: 2
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 78ee"
-generated_at: "2026-03-30T07:40:29.974Z"
+generated_at: "2026-03-30T07:43:45.353Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1515 - Exercise of rulemaking powers"
 usc_title: 2
 usc_section: "1515"
 chapter: 25
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 1515"
-generated_at: "2026-03-30T07:39:32.312Z"
+generated_at: "2026-03-30T07:43:01.585Z"
 status: "active"
 ---
 

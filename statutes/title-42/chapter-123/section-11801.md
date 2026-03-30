@@ -3,9 +3,9 @@ title: "Section 11801 - Establishment of drug abuse education and prevention pro
 usc_title: 42
 usc_section: "11801"
 chapter: 123
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 11801"
-generated_at: "2026-03-30T07:42:00.455Z"
+generated_at: "2026-03-30T07:45:06.792Z"
 status: "active"
 ---
 

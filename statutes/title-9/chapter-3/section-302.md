@@ -3,9 +3,9 @@ title: "Section 302 - Incorporation by reference"
 usc_title: 9
 usc_section: "302"
 chapter: 3
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "9 U.S.C. § 302"
-generated_at: "2026-03-30T07:39:38.881Z"
+generated_at: "2026-03-30T07:43:05.778Z"
 status: "active"
 ---
 

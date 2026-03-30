@@ -3,9 +3,9 @@ title: "Section 4361c - Staff management"
 usc_title: 42
 usc_section: "4361c"
 chapter: 55
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 4361c"
-generated_at: "2026-03-30T07:42:00.289Z"
+generated_at: "2026-03-30T07:45:06.622Z"
 status: "active"
 ---
 

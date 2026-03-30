@@ -3,9 +3,9 @@ title: "Section 285g - Availability of applicable accounts of House"
 usc_title: 2
 usc_section: "285g"
 chapter: 9
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 285g"
-generated_at: "2026-03-30T07:39:32.295Z"
+generated_at: "2026-03-30T07:43:01.566Z"
 status: "active"
 ---
 

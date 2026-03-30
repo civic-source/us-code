@@ -3,9 +3,9 @@ title: "Section 3030 - Temporary appointment or advancement of commissioned offi
 usc_title: 33
 usc_section: "3030"
 chapter: 43
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 3030"
-generated_at: "2026-03-30T07:41:36.512Z"
+generated_at: "2026-03-30T07:44:42.340Z"
 status: "active"
 ---
 

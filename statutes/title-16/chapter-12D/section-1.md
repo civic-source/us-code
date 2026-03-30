@@ -3,9 +3,9 @@ title: "Section 1 - Taxation and assessments; applicability of State laws"
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T07:41:02.118Z"
+generated_at: "2026-03-30T07:43:56.516Z"
 status: "active"
 ---
 

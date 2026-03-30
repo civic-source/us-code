@@ -3,9 +3,9 @@ title: "Section 4915 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4915"
 chapter: 69
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 4915"
-generated_at: "2026-03-30T07:41:02.195Z"
+generated_at: "2026-03-30T07:43:56.596Z"
 status: "active"
 ---
 

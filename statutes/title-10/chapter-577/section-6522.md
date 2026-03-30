@@ -3,9 +3,9 @@ title: "Section 6522 - Disposition of effects"
 usc_title: 10
 usc_section: "6522"
 chapter: 577
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 6522"
-generated_at: "2026-03-30T07:39:56.798Z"
+generated_at: "2026-03-30T07:43:26.996Z"
 status: "active"
 ---
 

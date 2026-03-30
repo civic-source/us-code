@@ -3,9 +3,9 @@ title: "Section 1060 - Military service of retired members with newly democratic
 usc_title: 10
 usc_section: "1060"
 chapter: 53
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 1060"
-generated_at: "2026-03-30T07:39:56.713Z"
+generated_at: "2026-03-30T07:43:26.917Z"
 status: "active"
 ---
 

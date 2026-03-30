@@ -3,9 +3,9 @@ title: "Section 20168 - Installation of audio and image recording devices"
 usc_title: 49
 usc_section: "20168"
 chapter: 201
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "49 U.S.C. § 20168"
-generated_at: "2026-03-30T07:42:29.445Z"
+generated_at: "2026-03-30T07:45:20.834Z"
 status: "active"
 ---
 

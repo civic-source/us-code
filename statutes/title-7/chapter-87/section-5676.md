@@ -3,9 +3,9 @@ title: "Section 5676 - Limitation on use of certain export promotion programs"
 usc_title: 7
 usc_section: "5676"
 chapter: 87
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "7 U.S.C. § 5676"
-generated_at: "2026-03-30T07:39:51.099Z"
+generated_at: "2026-03-30T07:43:10.075Z"
 status: "active"
 ---
 

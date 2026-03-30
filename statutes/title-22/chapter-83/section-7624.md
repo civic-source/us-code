@@ -3,9 +3,9 @@ title: "Section 7624 - Facilitating vaccine development"
 usc_title: 22
 usc_section: "7624"
 chapter: 83
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 7624"
-generated_at: "2026-03-30T07:41:07.183Z"
+generated_at: "2026-03-30T07:44:13.713Z"
 status: "active"
 ---
 

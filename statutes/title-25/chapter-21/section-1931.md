@@ -3,9 +3,9 @@ title: "Section 1931 - Grants for on or near reservation programs and child welf
 usc_title: 25
 usc_section: "1931"
 chapter: 21
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "25 U.S.C. § 1931"
-generated_at: "2026-03-30T07:41:15.063Z"
+generated_at: "2026-03-30T07:44:25.294Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Authorizations for appropriations"
 usc_title: 15
 usc_section: "3"
 chapter: 15
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T07:40:30.020Z"
+generated_at: "2026-03-30T07:43:45.400Z"
 status: "active"
 ---
 

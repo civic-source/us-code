@@ -3,9 +3,9 @@ title: "Section 2582a - Future-years defense environmental cleanup plan"
 usc_title: 50
 usc_section: "2582a"
 chapter: 42
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "50 U.S.C. § 2582a"
-generated_at: "2026-03-30T07:42:20.570Z"
+generated_at: "2026-03-30T07:45:22.090Z"
 status: "active"
 ---
 

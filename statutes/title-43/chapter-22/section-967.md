@@ -3,9 +3,9 @@ title: "Section 967 - Applications for Arkansas pipeline right of way"
 usc_title: 43
 usc_section: "967"
 chapter: 22
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "43 U.S.C. § 967"
-generated_at: "2026-03-30T07:41:48.803Z"
+generated_at: "2026-03-30T07:44:49.233Z"
 status: "active"
 ---
 

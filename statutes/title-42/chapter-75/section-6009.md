@@ -3,9 +3,9 @@ title: "Section 6009 - Repealed. Pub. L. 106–402, title IV , § 401(a), Oct. 3
 usc_title: 42
 usc_section: "6009"
 chapter: 75
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 6009"
-generated_at: "2026-03-30T07:42:00.321Z"
+generated_at: "2026-03-30T07:45:06.653Z"
 status: "repealed"
 ---
 

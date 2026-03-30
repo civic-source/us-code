@@ -3,9 +3,9 @@ title: "Section 2753 - Transferred"
 usc_title: 42
 usc_section: "2753"
 chapter: 34
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 2753"
-generated_at: "2026-03-30T07:42:00.261Z"
+generated_at: "2026-03-30T07:45:06.592Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 558c - Rights-of-way over United States land"
 usc_title: 33
 usc_section: "558c"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 558c"
-generated_at: "2026-03-30T07:41:36.451Z"
+generated_at: "2026-03-30T07:44:42.280Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3653 - Annual determination of compliance"
 usc_title: 39
 usc_section: "3653"
 chapter: 36
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "39 U.S.C. § 3653"
-generated_at: "2026-03-30T07:41:42.671Z"
+generated_at: "2026-03-30T07:44:43.940Z"
 status: "active"
 ---
 

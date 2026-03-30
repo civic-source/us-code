@@ -3,9 +3,9 @@ title: "Section 6327 - Officers and enlisted members of the Navy Reserve and Mar
 usc_title: 10
 usc_section: "6327"
 chapter: 571
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 6327"
-generated_at: "2026-03-30T07:39:56.797Z"
+generated_at: "2026-03-30T07:43:26.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 379c - Transferred"
 usc_title: 21
 usc_section: "379c"
 chapter: 9
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "21 U.S.C. § 379c"
-generated_at: "2026-03-30T07:41:08.710Z"
+generated_at: "2026-03-30T07:44:23.308Z"
 status: "transferred"
 ---
 

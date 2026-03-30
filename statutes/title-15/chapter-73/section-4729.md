@@ -3,9 +3,9 @@ title: "Section 4729 - Report on export policy"
 usc_title: 15
 usc_section: "4729"
 chapter: 73
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 4729"
-generated_at: "2026-03-30T07:40:30.096Z"
+generated_at: "2026-03-30T07:43:45.548Z"
 status: "active"
 ---
 

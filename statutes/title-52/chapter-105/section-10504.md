@@ -3,9 +3,9 @@ title: "Section 10504 - Judicial relief; civil actions by the Attorney General; 
 usc_title: 52
 usc_section: "10504"
 chapter: 105
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "52 U.S.C. § 10504"
-generated_at: "2026-03-30T07:42:31.420Z"
+generated_at: "2026-03-30T07:45:24.593Z"
 status: "active"
 ---
 

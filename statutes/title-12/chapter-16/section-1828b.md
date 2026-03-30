@@ -3,9 +3,9 @@ title: "Section 1828b - Interagency data sharing"
 usc_title: 12
 usc_section: "1828b"
 chapter: 16
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "12 U.S.C. § 1828b"
-generated_at: "2026-03-30T07:40:04.752Z"
+generated_at: "2026-03-30T07:43:34.018Z"
 status: "active"
 ---
 

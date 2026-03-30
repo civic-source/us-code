@@ -3,9 +3,9 @@ title: "Section 5228 - Funding"
 usc_title: 12
 usc_section: "5228"
 chapter: 52
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "12 U.S.C. § 5228"
-generated_at: "2026-03-30T07:40:04.813Z"
+generated_at: "2026-03-30T07:43:34.084Z"
 status: "active"
 ---
 

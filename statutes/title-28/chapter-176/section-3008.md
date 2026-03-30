@@ -3,9 +3,9 @@ title: "Section 3008 - Proceedings before United States magistrate judges"
 usc_title: 28
 usc_section: "3008"
 chapter: 176
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "28 U.S.C. § 3008"
-generated_at: "2026-03-30T07:41:21.616Z"
+generated_at: "2026-03-30T07:44:29.153Z"
 status: "active"
 ---
 

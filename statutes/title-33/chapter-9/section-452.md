@@ -3,9 +3,9 @@ title: "Section 452 - Taking shellfish or otherwise interfering with navigation 
 usc_title: 33
 usc_section: "452"
 chapter: 9
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 452"
-generated_at: "2026-03-30T07:41:36.447Z"
+generated_at: "2026-03-30T07:44:42.276Z"
 status: "active"
 ---
 

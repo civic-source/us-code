@@ -3,9 +3,9 @@ title: "Section 1823 - Horse shows and exhibitions"
 usc_title: 15
 usc_section: "1823"
 chapter: 44
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1823"
-generated_at: "2026-03-30T07:40:30.060Z"
+generated_at: "2026-03-30T07:43:45.510Z"
 status: "active"
 ---
 

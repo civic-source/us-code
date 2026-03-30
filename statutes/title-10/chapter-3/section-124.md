@@ -3,9 +3,9 @@ title: "Section 124 - Detection and monitoring of aerial and maritime transit of
 usc_title: 10
 usc_section: "124"
 chapter: 3
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 124"
-generated_at: "2026-03-30T07:39:56.677Z"
+generated_at: "2026-03-30T07:43:26.883Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1396k - Assignment, enforcement, and collection of rights of pay
 usc_title: 42
 usc_section: "1396k"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 1396k"
-generated_at: "2026-03-30T07:42:00.149Z"
+generated_at: "2026-03-30T07:45:06.493Z"
 status: "active"
 ---
 

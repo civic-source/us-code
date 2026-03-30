@@ -3,9 +3,9 @@ title: "Section 3048 - Detail of intelligence community personnel—Intelligence
 usc_title: 50
 usc_section: "3048"
 chapter: 44
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "50 U.S.C. § 3048"
-generated_at: "2026-03-30T07:42:20.579Z"
+generated_at: "2026-03-30T07:45:22.099Z"
 status: "active"
 ---
 

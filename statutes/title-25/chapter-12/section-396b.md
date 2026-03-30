@@ -3,9 +3,9 @@ title: "Section 396b - Public auction of oil and gas leases; requirements"
 usc_title: 25
 usc_section: "396b"
 chapter: 12
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "25 U.S.C. § 396b"
-generated_at: "2026-03-30T07:41:15.043Z"
+generated_at: "2026-03-30T07:44:25.272Z"
 status: "active"
 ---
 

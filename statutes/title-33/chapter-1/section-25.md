@@ -3,9 +3,9 @@ title: "Section 25 - Cache River, Arkansas"
 usc_title: 33
 usc_section: "25"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 25"
-generated_at: "2026-03-30T07:41:36.440Z"
+generated_at: "2026-03-30T07:44:42.270Z"
 status: "active"
 ---
 

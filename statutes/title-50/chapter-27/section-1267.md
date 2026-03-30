@@ -3,9 +3,9 @@ title: "Section 1267 - Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1267"
 chapter: 27
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "50 U.S.C. § 1267"
-generated_at: "2026-03-30T07:42:20.548Z"
+generated_at: "2026-03-30T07:45:22.066Z"
 status: "repealed"
 ---
 

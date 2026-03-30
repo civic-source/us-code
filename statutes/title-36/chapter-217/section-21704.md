@@ -3,9 +3,9 @@ title: "Section 21704 - Powers"
 usc_title: 36
 usc_section: "21704"
 chapter: 217
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "36 U.S.C. § 21704"
-generated_at: "2026-03-30T07:41:39.613Z"
+generated_at: "2026-03-30T07:44:44.709Z"
 status: "active"
 ---
 

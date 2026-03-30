@@ -3,9 +3,9 @@ title: "Section 2250 - Farm Credit Administration operating expenses fund"
 usc_title: 12
 usc_section: "2250"
 chapter: 23
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "12 U.S.C. § 2250"
-generated_at: "2026-03-30T07:40:04.770Z"
+generated_at: "2026-03-30T07:43:34.037Z"
 status: "active"
 ---
 

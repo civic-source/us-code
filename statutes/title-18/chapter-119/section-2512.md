@@ -3,9 +3,9 @@ title: "Section 2512 - Manufacture, distribution, possession, and advertising of
 usc_title: 18
 usc_section: "2512"
 chapter: 119
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "18 U.S.C. § 2512"
-generated_at: "2026-03-30T07:40:33.380Z"
+generated_at: "2026-03-30T07:43:53.595Z"
 status: "active"
 ---
 

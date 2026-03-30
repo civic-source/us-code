@@ -3,9 +3,9 @@ title: "Section 3606 - E-Government report"
 usc_title: 44
 usc_section: "3606"
 chapter: 36
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "44 U.S.C. § 3606"
-generated_at: "2026-03-30T07:42:01.567Z"
+generated_at: "2026-03-30T07:44:49.721Z"
 status: "active"
 ---
 

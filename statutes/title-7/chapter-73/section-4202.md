@@ -3,9 +3,9 @@ title: "Section 4202 - Identifying effects of Federal programs on conversion of 
 usc_title: 7
 usc_section: "4202"
 chapter: 73
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "7 U.S.C. § 4202"
-generated_at: "2026-03-30T07:39:51.091Z"
+generated_at: "2026-03-30T07:43:10.066Z"
 status: "active"
 ---
 

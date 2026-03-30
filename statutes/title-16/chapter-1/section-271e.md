@@ -3,9 +3,9 @@ title: "Section 271e - Report to President"
 usc_title: 16
 usc_section: "271e"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 271e"
-generated_at: "2026-03-30T07:41:01.999Z"
+generated_at: "2026-03-30T07:43:56.393Z"
 status: "active"
 ---
 

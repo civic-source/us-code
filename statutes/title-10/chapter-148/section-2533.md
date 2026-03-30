@@ -3,9 +3,9 @@ title: "Section 2533 - Determinations of public interest under chapter 83 of tit
 usc_title: 10
 usc_section: "2533"
 chapter: 148
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 2533"
-generated_at: "2026-03-30T07:39:56.769Z"
+generated_at: "2026-03-30T07:43:26.969Z"
 status: "active"
 ---
 

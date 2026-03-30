@@ -3,9 +3,9 @@ title: "Section 767 - Transitional and savings provisions"
 usc_title: 15
 usc_section: "767"
 chapter: 16
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 767"
-generated_at: "2026-03-30T07:40:30.025Z"
+generated_at: "2026-03-30T07:43:45.406Z"
 status: "active"
 ---
 

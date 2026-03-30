@@ -3,9 +3,9 @@ title: "Section 490a - Renumbered § 492]"
 usc_title: 10
 usc_section: "490a"
 chapter: 23
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 490a"
-generated_at: "2026-03-30T07:39:56.691Z"
+generated_at: "2026-03-30T07:43:26.897Z"
 status: "renumbered"
 ---
 

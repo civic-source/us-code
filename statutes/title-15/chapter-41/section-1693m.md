@@ -3,9 +3,9 @@ title: "Section 1693m - Civil liability"
 usc_title: 15
 usc_section: "1693m"
 chapter: 41
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1693m"
-generated_at: "2026-03-30T07:40:30.057Z"
+generated_at: "2026-03-30T07:43:45.508Z"
 status: "active"
 ---
 

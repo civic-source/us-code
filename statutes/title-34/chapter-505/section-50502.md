@@ -3,9 +3,9 @@ title: "Section 50502 - Blue Alert communications network"
 usc_title: 34
 usc_section: "50502"
 chapter: 505
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 50502"
-generated_at: "2026-03-30T07:41:29.501Z"
+generated_at: "2026-03-30T07:44:40.676Z"
 status: "active"
 ---
 

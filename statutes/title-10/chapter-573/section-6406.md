@@ -3,9 +3,9 @@ title: "Section 6406 - Repealed. Pub. L. 91–482 , § 1(a), Oct. 21, 1970 , 84 
 usc_title: 10
 usc_section: "6406"
 chapter: 573
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 6406"
-generated_at: "2026-03-30T07:39:56.798Z"
+generated_at: "2026-03-30T07:43:26.996Z"
 status: "repealed"
 ---
 

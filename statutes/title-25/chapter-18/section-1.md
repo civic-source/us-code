@@ -3,9 +3,9 @@ title: "Section 1 - Nursing school clinics"
 usc_title: 25
 usc_section: "1"
 chapter: 18
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T07:41:15.052Z"
+generated_at: "2026-03-30T07:44:25.281Z"
 status: "active"
 ---
 

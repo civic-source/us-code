@@ -3,9 +3,9 @@ title: "Section 82 - Arizona"
 usc_title: 28
 usc_section: "82"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "28 U.S.C. § 82"
-generated_at: "2026-03-30T07:41:21.588Z"
+generated_at: "2026-03-30T07:44:29.127Z"
 status: "active"
 ---
 

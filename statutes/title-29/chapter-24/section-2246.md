@@ -3,9 +3,9 @@ title: "Section 2246 - Repealed. Pub. L. 105–394, title IV , § 401, Nov. 13, 
 usc_title: 29
 usc_section: "2246"
 chapter: 24
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "29 U.S.C. § 2246"
-generated_at: "2026-03-30T07:41:18.184Z"
+generated_at: "2026-03-30T07:44:38.106Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4508 - Repealed. Pub. L. 103–160, div. A, title VIII , §§ 82
 usc_title: 10
 usc_section: "4508"
 chapter: 431
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 4508"
-generated_at: "2026-03-30T07:39:56.790Z"
+generated_at: "2026-03-30T07:43:26.989Z"
 status: "repealed"
 ---
 

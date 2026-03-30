@@ -3,9 +3,9 @@ title: "Section 6992c - Inspections"
 usc_title: 42
 usc_section: "6992c"
 chapter: 82
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 6992c"
-generated_at: "2026-03-30T07:42:00.353Z"
+generated_at: "2026-03-30T07:45:06.687Z"
 status: "active"
 ---
 

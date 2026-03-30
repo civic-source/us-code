@@ -3,9 +3,9 @@ title: "Section 3801 - Short title and findings"
 usc_title: 19
 usc_section: "3801"
 chapter: 24
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "19 U.S.C. § 3801"
-generated_at: "2026-03-30T07:40:54.543Z"
+generated_at: "2026-03-30T07:44:07.708Z"
 status: "active"
 ---
 

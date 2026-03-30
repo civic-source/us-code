@@ -3,9 +3,9 @@ title: "Section 7703c - Plan and authority to assist local educational agencies 
 usc_title: 20
 usc_section: "7703c"
 chapter: 70
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "20 U.S.C. § 7703c"
-generated_at: "2026-03-30T07:40:35.347Z"
+generated_at: "2026-03-30T07:43:51.863Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
       - **(vi)** Other appropriate services to improve the academic achievement of such students.
 - **(d)** In this section:
   - **(1)** The term “base closure law” has the meaning given that term in section 101 of title 10 .
-  - **(2)** The term “local educational agency” has the meaning given that term in section 7713(9) of title 20 .
+  - **(2)** The term “local educational agency” has the meaning given that term in section 7713(9) of this title .
   - **(3)** The term “military dependent students” refers to—
     - **(A)** elementary and secondary school students who are dependents of members of the Armed Forces;
     - **(B)** elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and

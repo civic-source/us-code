@@ -3,9 +3,9 @@ title: "Section 287e - Authorization of appropriations; payment of expenses"
 usc_title: 22
 usc_section: "287e"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 287e"
-generated_at: "2026-03-30T07:41:07.072Z"
+generated_at: "2026-03-30T07:44:13.604Z"
 status: "active"
 ---
 

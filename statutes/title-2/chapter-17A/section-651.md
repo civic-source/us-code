@@ -3,9 +3,9 @@ title: "Section 651 - Budget-related legislation not subject to appropriations"
 usc_title: 2
 usc_section: "651"
 chapter: 17
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "2 U.S.C. § 651"
-generated_at: "2026-03-30T07:39:32.301Z"
+generated_at: "2026-03-30T07:43:01.573Z"
 status: "active"
 ---
 

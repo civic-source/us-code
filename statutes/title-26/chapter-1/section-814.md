@@ -3,9 +3,9 @@ title: "Section 814 - Contiguous country branches of domestic life insurance com
 usc_title: 26
 usc_section: "814"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 814"
-generated_at: "2026-03-30T07:41:26.738Z"
+generated_at: "2026-03-30T07:44:36.207Z"
 status: "active"
 ---
 

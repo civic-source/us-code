@@ -3,9 +3,9 @@ title: "Section 7680 - Appeals and amendments in prize causes"
 usc_title: 10
 usc_section: "7680"
 chapter: 655
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 7680"
-generated_at: "2026-03-30T07:39:56.805Z"
+generated_at: "2026-03-30T07:43:27.002Z"
 status: "active"
 ---
 

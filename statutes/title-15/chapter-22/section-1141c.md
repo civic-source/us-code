@@ -3,9 +3,9 @@ title: "Section 1141c - Restriction, abandonment, cancellation, or expiration of
 usc_title: 15
 usc_section: "1141c"
 chapter: 22
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1141c"
-generated_at: "2026-03-30T07:40:30.031Z"
+generated_at: "2026-03-30T07:43:45.413Z"
 status: "active"
 ---
 

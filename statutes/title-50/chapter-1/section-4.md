@@ -3,9 +3,9 @@ title: "Section 4 - Rules and regulations; subordinate bodies and committees"
 usc_title: 50
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "50 U.S.C. § 4"
-generated_at: "2026-03-30T07:42:20.542Z"
+generated_at: "2026-03-30T07:45:22.061Z"
 status: "active"
 ---
 

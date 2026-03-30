@@ -3,9 +3,9 @@ title: "Section 2054 - Audit"
 usc_title: 38
 usc_section: "2054"
 chapter: 20
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "38 U.S.C. § 2054"
-generated_at: "2026-03-30T07:41:41.591Z"
+generated_at: "2026-03-30T07:44:46.273Z"
 status: "active"
 ---
 

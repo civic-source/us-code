@@ -3,9 +3,9 @@ title: "Section 44732 - Prohibition on personal use of electronic devices on fli
 usc_title: 49
 usc_section: "44732"
 chapter: 447
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "49 U.S.C. § 44732"
-generated_at: "2026-03-30T07:42:29.475Z"
+generated_at: "2026-03-30T07:45:20.871Z"
 status: "active"
 ---
 

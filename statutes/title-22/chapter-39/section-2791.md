@@ -3,9 +3,9 @@ title: "Section 2791 - General provisions"
 usc_title: 22
 usc_section: "2791"
 chapter: 39
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 2791"
-generated_at: "2026-03-30T07:41:07.131Z"
+generated_at: "2026-03-30T07:44:13.661Z"
 status: "active"
 ---
 

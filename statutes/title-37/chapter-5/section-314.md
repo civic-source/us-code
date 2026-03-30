@@ -3,9 +3,9 @@ title: "Section 314 - Special pay or bonus: qualified members extending duty at 
 usc_title: 37
 usc_section: "314"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "37 U.S.C. § 314"
-generated_at: "2026-03-30T07:41:39.012Z"
+generated_at: "2026-03-30T07:44:45.060Z"
 status: "active"
 ---
 

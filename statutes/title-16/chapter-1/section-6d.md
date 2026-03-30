@@ -3,9 +3,9 @@ title: "Section 6d - Commercial filming"
 usc_title: 16
 usc_section: "6d"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 6d"
-generated_at: "2026-03-30T07:41:02.041Z"
+generated_at: "2026-03-30T07:43:56.436Z"
 status: "active"
 ---
 

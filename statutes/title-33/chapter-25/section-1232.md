@@ -3,9 +3,9 @@ title: "Section 1232 - Enforcement provisions"
 usc_title: 33
 usc_section: "1232"
 chapter: 25
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 1232"
-generated_at: "2026-03-30T07:41:36.469Z"
+generated_at: "2026-03-30T07:44:42.298Z"
 status: "active"
 ---
 

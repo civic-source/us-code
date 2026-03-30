@@ -3,9 +3,9 @@ title: "Section 5234 - Repealed. Pub. L. 96–39, title VIII , § 807(a)(35), Ju
 usc_title: 26
 usc_section: "5234"
 chapter: 51
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 5234"
-generated_at: "2026-03-30T07:41:26.813Z"
+generated_at: "2026-03-30T07:44:36.280Z"
 status: "repealed"
 ---
 

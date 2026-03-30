@@ -3,9 +3,9 @@ title: "Section 76e - Housing or exhibiting objects of art possessed by Smithson
 usc_title: 20
 usc_section: "76e"
 chapter: 3
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "20 U.S.C. § 76e"
-generated_at: "2026-03-30T07:40:35.233Z"
+generated_at: "2026-03-30T07:43:51.744Z"
 status: "active"
 ---
 

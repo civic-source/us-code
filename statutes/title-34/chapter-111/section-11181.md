@@ -3,9 +3,9 @@ title: "Section 11181 - Authorization of appropriations"
 usc_title: 34
 usc_section: "11181"
 chapter: 111
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 11181"
-generated_at: "2026-03-30T07:41:29.469Z"
+generated_at: "2026-03-30T07:44:40.645Z"
 status: "active"
 ---
 

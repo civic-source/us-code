@@ -3,9 +3,9 @@ title: "Section 668c - Definitions"
 usc_title: 16
 usc_section: "668c"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 668c"
-generated_at: "2026-03-30T07:41:02.092Z"
+generated_at: "2026-03-30T07:43:56.490Z"
 status: "active"
 ---
 

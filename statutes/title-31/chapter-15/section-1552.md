@@ -3,9 +3,9 @@ title: "Section 1552 - Procedure for appropriation accounts available for defini
 usc_title: 31
 usc_section: "1552"
 chapter: 15
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "31 U.S.C. § 1552"
-generated_at: "2026-03-30T07:41:31.258Z"
+generated_at: "2026-03-30T07:44:41.297Z"
 status: "active"
 ---
 

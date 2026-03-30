@@ -3,9 +3,9 @@ title: "Section 2337a - Assessment, management, and control of operating and sup
 usc_title: 10
 usc_section: "2337a"
 chapter: 137
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 2337a"
-generated_at: "2026-03-30T07:39:56.756Z"
+generated_at: "2026-03-30T07:43:26.958Z"
 status: "active"
 ---
 

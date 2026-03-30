@@ -3,9 +3,9 @@ title: "Section 558 - Imposition of sanctions; determination of applications for
 usc_title: 5
 usc_section: "558"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "5 U.S.C. § 558"
-generated_at: "2026-03-30T07:39:15.281Z"
+generated_at: "2026-03-30T07:43:04.406Z"
 status: "active"
 ---
 

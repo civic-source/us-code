@@ -3,9 +3,9 @@ title: "Section 2023 - Omitted"
 usc_title: 19
 usc_section: "2023"
 chapter: 8
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "19 U.S.C. § 2023"
-generated_at: "2026-03-30T07:40:54.513Z"
+generated_at: "2026-03-30T07:44:07.676Z"
 status: "omitted"
 ---
 

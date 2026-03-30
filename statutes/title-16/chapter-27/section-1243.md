@@ -3,9 +3,9 @@ title: "Section 1243 - National recreation trails; establishment and designation
 usc_title: 16
 usc_section: "1243"
 chapter: 27
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 1243"
-generated_at: "2026-03-30T07:41:02.130Z"
+generated_at: "2026-03-30T07:43:56.529Z"
 status: "active"
 ---
 

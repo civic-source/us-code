@@ -3,9 +3,9 @@ title: "Section 290d - Sale of standard reference data; cost recovery; proceeds 
 usc_title: 15
 usc_section: "290d"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 290d"
-generated_at: "2026-03-30T07:40:29.992Z"
+generated_at: "2026-03-30T07:43:45.372Z"
 status: "active"
 ---
 

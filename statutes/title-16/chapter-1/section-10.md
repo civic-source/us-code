@@ -3,9 +3,9 @@ title: "Section 10 - Authorization of appropriations"
 usc_title: 16
 usc_section: "10"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T07:41:02.058Z"
+generated_at: "2026-03-30T07:43:56.455Z"
 status: "active"
 ---
 

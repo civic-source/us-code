@@ -3,9 +3,9 @@ title: "Section 452 - Counseling and mediation"
 usc_title: 3
 usc_section: "452"
 chapter: 5
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "3 U.S.C. § 452"
-generated_at: "2026-03-30T07:39:16.822Z"
+generated_at: "2026-03-30T07:42:48.387Z"
 status: "active"
 ---
 

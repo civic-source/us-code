@@ -3,9 +3,9 @@ title: "Section 31312 - Decertification authority"
 usc_title: 49
 usc_section: "31312"
 chapter: 313
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "49 U.S.C. § 31312"
-generated_at: "2026-03-30T07:42:29.459Z"
+generated_at: "2026-03-30T07:45:20.851Z"
 status: "active"
 ---
 

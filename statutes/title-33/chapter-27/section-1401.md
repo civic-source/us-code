@@ -3,9 +3,9 @@ title: "Section 1401 - Congressional finding, policy, and declaration of purpose
 usc_title: 33
 usc_section: "1401"
 chapter: 27
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "33 U.S.C. § 1401"
-generated_at: "2026-03-30T07:41:36.487Z"
+generated_at: "2026-03-30T07:44:42.316Z"
 status: "active"
 ---
 

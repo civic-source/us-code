@@ -3,9 +3,9 @@ title: "Section 7725 - Stay extended or shortened"
 usc_title: 10
 usc_section: "7725"
 chapter: 657
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 7725"
-generated_at: "2026-03-30T07:39:56.805Z"
+generated_at: "2026-03-30T07:43:27.003Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7 - Special maritime and territorial jurisdiction of the United 
 usc_title: 18
 usc_section: "7"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "18 U.S.C. § 7"
-generated_at: "2026-03-30T07:40:33.341Z"
+generated_at: "2026-03-30T07:43:53.555Z"
 status: "active"
 ---
 

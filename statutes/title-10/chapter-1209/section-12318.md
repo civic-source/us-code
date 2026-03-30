@@ -3,9 +3,9 @@ title: "Section 12318 - Reserves on active duty: duties; funding"
 usc_title: 10
 usc_section: "12318"
 chapter: 1209
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 12318"
-generated_at: "2026-03-30T07:39:56.818Z"
+generated_at: "2026-03-30T07:43:27.015Z"
 status: "active"
 ---
 

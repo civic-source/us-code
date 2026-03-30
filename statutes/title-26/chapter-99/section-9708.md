@@ -3,9 +3,9 @@ title: "Section 9708 - Effect on pending claims or obligations"
 usc_title: 26
 usc_section: "9708"
 chapter: 99
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "26 U.S.C. § 9708"
-generated_at: "2026-03-30T07:41:26.869Z"
+generated_at: "2026-03-30T07:44:36.333Z"
 status: "active"
 ---
 

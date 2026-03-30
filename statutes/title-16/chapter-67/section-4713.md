@@ -3,9 +3,9 @@ title: "Section 4713 - Armed services ballast water programs"
 usc_title: 16
 usc_section: "4713"
 chapter: 67
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "16 U.S.C. § 4713"
-generated_at: "2026-03-30T07:41:02.193Z"
+generated_at: "2026-03-30T07:43:56.594Z"
 status: "active"
 ---
 

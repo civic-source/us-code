@@ -3,9 +3,9 @@ title: "Section 2970 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2970"
 chapter: 34
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 2970"
-generated_at: "2026-03-30T07:42:00.261Z"
+generated_at: "2026-03-30T07:45:06.593Z"
 status: "repealed"
 ---
 

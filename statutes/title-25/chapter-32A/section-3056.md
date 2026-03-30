@@ -3,9 +3,9 @@ title: "Section 3056 - Prohibition on disclosure"
 usc_title: 25
 usc_section: "3056"
 chapter: 32
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "25 U.S.C. § 3056"
-generated_at: "2026-03-30T07:41:15.076Z"
+generated_at: "2026-03-30T07:44:25.307Z"
 status: "active"
 ---
 

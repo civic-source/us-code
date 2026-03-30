@@ -3,9 +3,9 @@ title: "Section 703 - Purchases of supplies by States from Army or Air Force"
 usc_title: 32
 usc_section: "703"
 chapter: 7
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "32 U.S.C. § 703"
-generated_at: "2026-03-30T07:41:28.406Z"
+generated_at: "2026-03-30T07:44:41.430Z"
 status: "active"
 ---
 

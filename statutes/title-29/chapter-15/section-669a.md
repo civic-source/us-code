@@ -3,9 +3,9 @@ title: "Section 669a - Expanded research on worker health and safety"
 usc_title: 29
 usc_section: "669a"
 chapter: 15
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "29 U.S.C. § 669a"
-generated_at: "2026-03-30T07:41:18.142Z"
+generated_at: "2026-03-30T07:44:38.063Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12632 - Extension of authorizations of appropriations for fiscal
 usc_title: 34
 usc_section: "12632"
 chapter: 121
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "34 U.S.C. § 12632"
-generated_at: "2026-03-30T07:41:29.480Z"
+generated_at: "2026-03-30T07:44:40.658Z"
 status: "active"
 ---
 

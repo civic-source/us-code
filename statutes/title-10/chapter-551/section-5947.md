@@ -3,9 +3,9 @@ title: "Section 5947 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "5947"
 chapter: 551
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 5947"
-generated_at: "2026-03-30T07:39:56.796Z"
+generated_at: "2026-03-30T07:43:26.994Z"
 status: "active"
 ---
 

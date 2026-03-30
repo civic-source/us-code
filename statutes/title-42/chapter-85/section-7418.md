@@ -3,9 +3,9 @@ title: "Section 7418 - Control of pollution from Federal facilities"
 usc_title: 42
 usc_section: "7418"
 chapter: 85
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 7418"
-generated_at: "2026-03-30T07:42:00.369Z"
+generated_at: "2026-03-30T07:45:06.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13 - Tribal colleges and universities program"
 usc_title: 42
 usc_section: "13"
 chapter: 16
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T07:42:00.226Z"
+generated_at: "2026-03-30T07:45:06.560Z"
 status: "active"
 ---
 

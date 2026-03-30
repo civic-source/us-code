@@ -3,9 +3,9 @@ title: "Section 6331 - Definitions"
 usc_title: 5
 usc_section: "6331"
 chapter: 63
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "5 U.S.C. § 6331"
-generated_at: "2026-03-30T07:39:15.314Z"
+generated_at: "2026-03-30T07:43:04.434Z"
 status: "active"
 ---
 

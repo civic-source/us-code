@@ -3,9 +3,9 @@ title: "Section 1879 - Repealed. Pub. L. 99–383 , § 11, Aug. 21, 1986 , 100 S
 usc_title: 42
 usc_section: "1879"
 chapter: 16
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 1879"
-generated_at: "2026-03-30T07:42:00.229Z"
+generated_at: "2026-03-30T07:45:06.562Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7081 - Civilian member: definition; exceptions"
 usc_title: 10
 usc_section: "7081"
 chapter: 607
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 7081"
-generated_at: "2026-03-30T07:39:56.800Z"
+generated_at: "2026-03-30T07:43:26.998Z"
 status: "active"
 ---
 

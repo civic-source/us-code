@@ -3,9 +3,9 @@ title: "Section 6931 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "6931"
 chapter: 602
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 6931"
-generated_at: "2026-03-30T07:39:56.798Z"
+generated_at: "2026-03-30T07:43:26.996Z"
 status: "active"
 ---
 

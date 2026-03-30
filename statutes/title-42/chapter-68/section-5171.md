@@ -3,9 +3,9 @@ title: "Section 5171 - Federal facilities"
 usc_title: 42
 usc_section: "5171"
 chapter: 68
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 5171"
-generated_at: "2026-03-30T07:42:00.306Z"
+generated_at: "2026-03-30T07:45:06.639Z"
 status: "active"
 ---
 

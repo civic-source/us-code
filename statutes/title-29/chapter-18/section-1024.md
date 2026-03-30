@@ -3,9 +3,9 @@ title: "Section 1024 - Filing with Secretary and furnishing information to parti
 usc_title: 29
 usc_section: "1024"
 chapter: 18
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "29 U.S.C. § 1024"
-generated_at: "2026-03-30T07:41:18.156Z"
+generated_at: "2026-03-30T07:44:38.077Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 195f - EMP and GMD mitigation research and development"
 usc_title: 6
 usc_section: "195f"
 chapter: 1
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "6 U.S.C. § 195f"
-generated_at: "2026-03-30T07:39:36.398Z"
+generated_at: "2026-03-30T07:43:18.574Z"
 status: "active"
 ---
 

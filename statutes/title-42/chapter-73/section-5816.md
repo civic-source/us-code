@@ -3,9 +3,9 @@ title: "Section 5816 - Personnel and services"
 usc_title: 42
 usc_section: "5816"
 chapter: 73
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "42 U.S.C. § 5816"
-generated_at: "2026-03-30T07:42:00.317Z"
+generated_at: "2026-03-30T07:45:06.651Z"
 status: "active"
 ---
 

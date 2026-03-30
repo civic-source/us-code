@@ -3,9 +3,9 @@ title: "Section 3784 - Transfer of property to Republic of Panama"
 usc_title: 22
 usc_section: "3784"
 chapter: 51
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "22 U.S.C. § 3784"
-generated_at: "2026-03-30T07:41:07.140Z"
+generated_at: "2026-03-30T07:44:13.670Z"
 status: "active"
 ---
 

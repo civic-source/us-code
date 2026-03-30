@@ -3,9 +3,9 @@ title: "Section 1121a - Transferred"
 usc_title: 15
 usc_section: "1121a"
 chapter: 22
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "15 U.S.C. § 1121a"
-generated_at: "2026-03-30T07:40:30.030Z"
+generated_at: "2026-03-30T07:43:45.411Z"
 status: "transferred"
 ---
 

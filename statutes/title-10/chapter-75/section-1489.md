@@ -3,9 +3,9 @@ title: "Section 1489 - Death gratuity: members and employees dying outside the U
 usc_title: 10
 usc_section: "1489"
 chapter: 75
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "10 U.S.C. § 1489"
-generated_at: "2026-03-30T07:39:56.731Z"
+generated_at: "2026-03-30T07:43:26.935Z"
 status: "active"
 ---
 

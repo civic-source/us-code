@@ -3,9 +3,9 @@ title: "Section 4357 - Federal endowment programs for Gallaudet University and t
 usc_title: 20
 usc_section: "4357"
 chapter: 55
-current_through: "PL 115-223"
+current_through: "PL 115-230"
 classification: "20 U.S.C. § 4357"
-generated_at: "2026-03-30T07:40:35.319Z"
+generated_at: "2026-03-30T07:43:51.834Z"
 status: "active"
 ---
 
