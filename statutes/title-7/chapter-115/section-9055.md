@@ -3,17 +3,24 @@ title: "Section 9055 - Production history of participating dairy operations"
 usc_title: 7
 usc_section: "9055"
 chapter: 115
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 9055"
-generated_at: "2026-03-30T00:26:57.262Z"
+generated_at: "2026-03-30T00:29:51.235Z"
 ---
 
 # § 9055. Production history of participating dairy operations
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b), when a dairy operation first registers to participate in dairy margin coverage, the production history of the dairy operation for dairy margin coverage is equal to the highest annual milk marketings of the participating dairy operation during any one of the 2011, 2012, or 2013 calendar years.
+  - **(1)** Except as provided in paragraph (4) and subsection (b), when a dairy operation first registers to participate in dairy margin coverage, the production history of the dairy operation for dairy margin coverage is equal to the highest annual milk marketings of the participating dairy operation during any one of the 2011, 2012, or 2013 calendar years.
   - **(2)** In the subsequent calendar years ending before January 1, 2019 , the Secretary shall adjust the production history of a participating dairy operation determined under paragraph (1) to reflect any increase in the national average milk production.
   - **(3)** A production history established for a dairy operation under paragraph (1) shall be the base production history for the dairy operation in subsequent years (as adjusted under paragraph (2), as applicable).
+  - **(4)**
+    - **(A)** If the amount determined under paragraph (1) is less than 5,000,000 pounds, the production history of the dairy operation for dairy margin coverage shall be equal to—
+      - **(i)** the amount determined under paragraph (1); plus
+      - **(ii)** 75 percent of the amount described in subparagraph (B).
+    - **(B)** The amount referred to in subparagraph (A)(ii) is, with respect to a dairy operation, the amount equal to—
+      - **(i)** the production volume of such dairy operation for the 2019 milk marketing year; minus
+      - **(ii)** the amount determined under paragraph (1).
 - **(b)**
   - **(1)** In the case of a participating dairy operation that has been in operation for less than a year, the participating dairy operation shall elect 1 of the following methods for the Secretary to determine the production history of the participating dairy operation:
     - **(A)** The volume of the actual milk marketings for the months the participating dairy operation has been in operation extrapolated to a yearly amount.

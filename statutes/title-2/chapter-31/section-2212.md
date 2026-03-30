@@ -3,9 +3,9 @@ title: "Section 2212 - Appointment and supervision of Chief Executive Officer fo
 usc_title: 2
 usc_section: "2212"
 chapter: 31
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 2212"
-generated_at: "2026-03-30T00:26:48.101Z"
+generated_at: "2026-03-30T00:29:30.014Z"
 ---
 
 # § 2212. Appointment and supervision of Chief Executive Officer for Visitor Services

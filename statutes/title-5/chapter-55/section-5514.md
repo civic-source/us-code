@@ -3,9 +3,9 @@ title: "Section 5514 - Installment deduction for indebtedness to the United Stat
 usc_title: 5
 usc_section: "5514"
 chapter: 55
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 5514"
-generated_at: "2026-03-30T00:26:31.403Z"
+generated_at: "2026-03-30T00:29:32.432Z"
 ---
 
 # § 5514. Installment deduction for indebtedness to the United States

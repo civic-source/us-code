@@ -3,9 +3,9 @@ title: "Section 4104 - Annual authorized return and preservation rents"
 usc_title: 12
 usc_section: "4104"
 chapter: 42
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 4104"
-generated_at: "2026-03-30T00:27:20.438Z"
+generated_at: "2026-03-30T00:30:00.827Z"
 ---
 
 # § 4104. Annual authorized return and preservation rents

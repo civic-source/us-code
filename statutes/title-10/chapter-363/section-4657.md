@@ -3,9 +3,9 @@ title: "Section 4657 - Prohibition on criminal history inquiries by contractors 
 usc_title: 10
 usc_section: "4657"
 chapter: 363
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 4657"
-generated_at: "2026-03-30T00:27:14.386Z"
+generated_at: "2026-03-30T00:29:43.958Z"
 ---
 
 # § 4657. Prohibition on criminal history inquiries by contractors prior to conditional offer

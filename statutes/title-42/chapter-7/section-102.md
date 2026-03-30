@@ -3,9 +3,9 @@ title: "Section 102 - Prescription drug benefits"
 usc_title: 42
 usc_section: "102"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-30T00:28:41.227Z"
+generated_at: "2026-03-30T00:32:13.405Z"
 ---
 
 # § 1395w–102. Prescription drug benefits
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T00:28:41.227Z"
   - **(2)**
     - **(A)** Subject to subparagraph (B), qualified prescription drug coverage may include supplemental prescription drug coverage consisting of either or both of the following:
       - **(i)**
-        - **(I)** A reduction in the annual deductible, a reduction in the coinsurance percentageor, for a year preceding 2025, an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
+        - **(I)** A reduction in the annual deductible, a reduction in the coinsurance percentage or, for a year preceding 2025, an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
         - **(II)** Nothing in this paragraph shall be construed as affecting the application of subsection (c)(3).
       - **(ii)** Coverage of any product that would be a covered part D drug but for the application of subsection (e)(2)(A).
     - **(B)** A PDP sponsor may not offer a prescription drug plan that provides supplemental prescription drug coverage pursuant to subparagraph (A) in an area unless the sponsor also offers a prescription drug plan in the area that only provides basic prescription drug coverage.

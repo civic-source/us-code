@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T00:28:41.273Z"
+generated_at: "2026-03-30T00:32:13.450Z"
 ---
 
 # § 1396a. State plans for medical assistance
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T00:28:41.273Z"
     - **(C)** that any laboratory services paid for under such plan must be provided by a laboratory which meets the applicable requirements of section 1395x(e)(9) of this title or paragraphs (16) and (17) of section 1395x(s) of this title , or, in the case of a laboratory which is in a rural health clinic, of section 1395x(aa)(2)(G) of this title , and
     - **(D)** that the State maintain a consumer-oriented website providing useful information to consumers regarding all skilled nursing facilities and all nursing facilities in the State, including for each facility, Form 2567 State inspection reports (or a successor form), complaint investigation reports, the facility’s plan of correction, and such other information that the State or the Secretary considers useful in assisting the public to assess the quality of long term care options and the quality of care provided by individual facilities;
   - **(10)** provide—
-    - **(A)** for making medical assistance available, including at least the care and services listed in paragraphs (1) through (5), (17), (21), (28), (29), and (30) of section 1396d(a) of this title , to—
+    - **(A)** for making medical assistance available, including at least the care and services listed in paragraphs (1) through (5), (13)(B), (17), (21), (28), (29), and (30) of section 1396d(a) of this title , to—
       - **(i)** all individuals—
         - **(I)** who are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A or part E of subchapter IV (including individuals eligible under this subchapter by reason of section 602(a)(37), 1 1 See References in Text note below. 606(h), 1 or 673(b) of this title, or considered by the State to be receiving such aid as authorized under section 682(e)(6) 1 of this title),
         - **(II)**
@@ -75,7 +75,7 @@ generated_at: "2026-03-30T00:28:41.273Z"
         - **(I)** to individuals under the age of 18 who (but for income and resources) would be eligible for medical assistance as an individual described in subparagraph (A)(i), and
         - **(II)** to pregnant women, during the course of their pregnancy, who (but for income and resources) would be eligible for medical assistance as an individual described in subparagraph (A);
       - **(iii)** such medical assistance must include (I) with respect to children under 18 and individuals entitled to institutional services, ambulatory services, and (II) with respect to pregnant women, prenatal care and delivery services; and
-      - **(iv)** if such medical assistance includes services in institutions for mental diseases or in an intermediate care facility for the mentally retarded (or both) for any such group, it also must include for all groups covered at least the care and services listed in paragraphs (1) through (5) and (17) of section 1396d(a) of this title or the care and services listed in any 7 of the paragraphs numbered (1) through (24) of such section;
+      - **(iv)** if such medical assistance includes services in institutions for mental diseases or in an intermediate care facility for the mentally retarded (or both) for any such group, it also must include for all groups covered at least the care and services listed in paragraphs (1) through (5), (13)(B), and (17) of section 1396d(a) of this title or the care and services listed in any 7 of the paragraphs numbered (1) through (24) of such section;
     - **(D)** for the inclusion of home health services for any individual who, under the State plan, is entitled to nursing facility services;
     - **(E)**
       - **(i)** for making medical assistance available for medicare cost-sharing (as defined in section 1396d(p)(3) of this title ) for qualified medicare beneficiaries described in section 1396d(p)(1) of this title ;

@@ -3,9 +3,9 @@ title: "Section 30523 - General limit of liability"
 usc_title: 46
 usc_section: "30523"
 chapter: 305
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "46 U.S.C. § 30523"
-generated_at: "2026-03-30T00:28:46.584Z"
+generated_at: "2026-03-30T00:32:21.167Z"
 ---
 
 # § 30523. General limit of liability

@@ -3,9 +3,9 @@ title: "Section 1309 - Supplies for certain vessels and aircraft"
 usc_title: 19
 usc_section: "1309"
 chapter: 4
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "19 U.S.C. § 1309"
-generated_at: "2026-03-30T00:27:30.939Z"
+generated_at: "2026-03-30T00:30:36.390Z"
 ---
 
 # § 1309. Supplies for certain vessels and aircraft

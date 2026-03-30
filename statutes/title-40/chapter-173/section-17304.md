@@ -3,9 +3,9 @@ title: "Section 17304 - Claim for replacement"
 usc_title: 40
 usc_section: "17304"
 chapter: 173
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "40 U.S.C. § 17304"
-generated_at: "2026-03-30T00:28:15.396Z"
+generated_at: "2026-03-30T00:31:38.631Z"
 ---
 
 # § 17304. Claim for replacement

@@ -3,9 +3,9 @@ title: "Section 1755 - Fees"
 usc_title: 12
 usc_section: "1755"
 chapter: 14
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 1755"
-generated_at: "2026-03-30T00:27:20.364Z"
+generated_at: "2026-03-30T00:30:00.755Z"
 ---
 
 # § 1755. Fees

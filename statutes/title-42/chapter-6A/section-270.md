@@ -3,9 +3,9 @@ title: "Section 270 - Quarantine regulations governing civil air navigation and 
 usc_title: 42
 usc_section: "270"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 270"
-generated_at: "2026-03-30T00:28:40.972Z"
+generated_at: "2026-03-30T00:32:13.170Z"
 ---
 
 # § 270. Quarantine regulations governing civil air navigation and civil aircraft

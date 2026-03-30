@@ -3,9 +3,9 @@ title: "Section 4b - Directives regarding government-owned enterprises in countr
 usc_title: 22
 usc_section: "4b"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 4b"
-generated_at: "2026-03-30T00:27:43.223Z"
+generated_at: "2026-03-30T00:30:43.523Z"
 ---
 
 # § 262p–4b. Directives regarding government-owned enterprises in countries receiving World Bank loans

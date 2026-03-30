@@ -3,9 +3,9 @@ title: "Section 166 - Combatant commands: budget proposals"
 usc_title: 10
 usc_section: "166"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 166"
-generated_at: "2026-03-30T00:27:14.249Z"
+generated_at: "2026-03-30T00:29:43.816Z"
 ---
 
 # § 166. Combatant commands: budget proposals

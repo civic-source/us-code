@@ -3,9 +3,9 @@ title: "Section 81k - Exchange of lands"
 usc_title: 16
 usc_section: "81k"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 81k"
-generated_at: "2026-03-30T00:27:34.955Z"
+generated_at: "2026-03-30T00:30:33.309Z"
 ---
 
 # § 81k. Exchange of lands

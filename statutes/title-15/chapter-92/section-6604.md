@@ -3,9 +3,9 @@ title: "Section 6604 - Punitive damages limitations"
 usc_title: 15
 usc_section: "6604"
 chapter: 92
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 6604"
-generated_at: "2026-03-30T00:27:23.632Z"
+generated_at: "2026-03-30T00:30:22.528Z"
 ---
 
 # § 6604. Punitive damages limitations

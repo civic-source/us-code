@@ -3,9 +3,9 @@ title: "Section 46 - Authorization of appropriations"
 usc_title: 22
 usc_section: "46"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 46"
-generated_at: "2026-03-30T00:27:43.231Z"
+generated_at: "2026-03-30T00:30:43.529Z"
 ---
 
 # § 277d–46. Authorization of appropriations

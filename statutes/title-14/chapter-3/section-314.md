@@ -3,9 +3,9 @@ title: "Section 314 - Marine industry training program"
 usc_title: 14
 usc_section: "314"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 314"
-generated_at: "2026-03-30T00:27:17.349Z"
+generated_at: "2026-03-30T00:29:57.723Z"
 ---
 
 # § 314. Marine industry training program

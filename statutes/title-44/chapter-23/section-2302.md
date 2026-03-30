@@ -3,9 +3,9 @@ title: "Section 2302 - Authority of the Board; seal; services; bylaws; rules; re
 usc_title: 44
 usc_section: "2302"
 chapter: 23
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "44 U.S.C. § 2302"
-generated_at: "2026-03-30T00:28:19.013Z"
+generated_at: "2026-03-30T00:31:52.167Z"
 ---
 
 # § 2302. Authority of the Board; seal; services; bylaws; rules; regulations; employees

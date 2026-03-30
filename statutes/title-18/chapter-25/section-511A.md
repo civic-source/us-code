@@ -3,9 +3,9 @@ title: "Section 511A - Repealed. Pub. L. 116–260, div. O, title X, § 1002(2) 
 usc_title: 18
 usc_section: "511A"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "18 U.S.C. § 511A"
-generated_at: "2026-03-30T00:27:27.512Z"
+generated_at: "2026-03-30T00:30:29.110Z"
 ---
 
 # [§ 511A. Repealed. Pub. L. 116–260, div. O, title X, § 1002(2) , Dec. 27, 2020 , 134 Stat. 2155 ]

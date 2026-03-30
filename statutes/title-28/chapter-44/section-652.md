@@ -3,9 +3,9 @@ title: "Section 652 - Jurisdiction"
 usc_title: 28
 usc_section: "652"
 chapter: 44
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "28 U.S.C. § 652"
-generated_at: "2026-03-30T00:27:47.112Z"
+generated_at: "2026-03-30T00:30:59.652Z"
 ---
 
 # § 652. Jurisdiction

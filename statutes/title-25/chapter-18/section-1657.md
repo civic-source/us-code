@@ -3,9 +3,9 @@ title: "Section 1657 - Reports and records"
 usc_title: 25
 usc_section: "1657"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "25 U.S.C. § 1657"
-generated_at: "2026-03-30T00:27:39.438Z"
+generated_at: "2026-03-30T00:30:56.383Z"
 ---
 
 # § 1657. Reports and records

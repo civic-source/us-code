@@ -3,9 +3,9 @@ title: "Section 7211 - Technical clarification relating to provision of material
 usc_title: 22
 usc_section: "7211"
 chapter: 79
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 7211"
-generated_at: "2026-03-30T00:27:43.374Z"
+generated_at: "2026-03-30T00:30:43.667Z"
 ---
 
 # § 7211. Technical clarification relating to provision of material support to terrorism

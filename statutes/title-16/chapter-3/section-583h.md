@@ -3,9 +3,9 @@ title: "Section 583h - Prior acts as affecting or affected by subchapter"
 usc_title: 16
 usc_section: "583h"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 583h"
-generated_at: "2026-03-30T00:27:35.073Z"
+generated_at: "2026-03-30T00:30:33.418Z"
 ---
 
 # § 583h. Prior acts as affecting or affected by subchapter

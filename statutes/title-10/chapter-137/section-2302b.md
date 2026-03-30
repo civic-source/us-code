@@ -3,9 +3,9 @@ title: "Section 2302b - Renumbered § 3572]"
 usc_title: 10
 usc_section: "2302b"
 chapter: 137
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2302b"
-generated_at: "2026-03-30T00:27:14.340Z"
+generated_at: "2026-03-30T00:29:43.908Z"
 ---
 
 # [§ 2302b. Renumbered § 3572]

@@ -3,9 +3,9 @@ title: "Section 9034 - Funding for fraud prevention, equitable access, and timel
 usc_title: 15
 usc_section: "9034"
 chapter: 116
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 9034"
-generated_at: "2026-03-30T00:27:23.661Z"
+generated_at: "2026-03-30T00:30:22.558Z"
 ---
 
 # § 9034. Funding for fraud prevention, equitable access, and timely payment to eligible workers

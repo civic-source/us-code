@@ -3,9 +3,9 @@ title: "Section 3995 - Local applications"
 usc_title: 20
 usc_section: "3995"
 chapter: 52
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 3995"
-generated_at: "2026-03-30T00:27:29.710Z"
+generated_at: "2026-03-30T00:30:28.004Z"
 ---
 
 # § 3995. Local applications

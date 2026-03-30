@@ -3,9 +3,9 @@ title: "Section 1822 - Benefits for children of certain Thailand service veteran
 usc_title: 38
 usc_section: "1822"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "38 U.S.C. § 1822"
-generated_at: "2026-03-30T00:28:16.820Z"
+generated_at: "2026-03-30T00:31:40.155Z"
 ---
 
 # § 1822. Benefits for children of certain Thailand service veterans born with spina bifida

@@ -3,9 +3,9 @@ title: "Section 2243 - Temperature control at Shasta Dam, Central Valley Project
 usc_title: 43
 usc_section: "2243"
 chapter: 40
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "43 U.S.C. § 2243"
-generated_at: "2026-03-30T00:28:20.690Z"
+generated_at: "2026-03-30T00:32:14.660Z"
 ---
 
 # § 2243. Temperature control at Shasta Dam, Central Valley Project

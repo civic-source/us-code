@@ -3,9 +3,9 @@ title: "Section 1013 - Farm loan bonds and credit bank debentures"
 usc_title: 18
 usc_section: "1013"
 chapter: 47
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "18 U.S.C. § 1013"
-generated_at: "2026-03-30T00:27:27.523Z"
+generated_at: "2026-03-30T00:30:29.122Z"
 ---
 
 # § 1013. Farm loan bonds and credit bank debentures

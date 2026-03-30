@@ -3,9 +3,9 @@ title: "Section 2648 - Persons and supplies: sea, land, and air transportation"
 usc_title: 10
 usc_section: "2648"
 chapter: 157
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2648"
-generated_at: "2026-03-30T00:27:14.350Z"
+generated_at: "2026-03-30T00:29:43.925Z"
 ---
 
 # § 2648. Persons and supplies: sea, land, and air transportation

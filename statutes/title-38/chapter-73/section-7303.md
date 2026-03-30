@@ -3,9 +3,9 @@ title: "Section 7303 - Functions of Veterans Health Administration: research pro
 usc_title: 38
 usc_section: "7303"
 chapter: 73
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "38 U.S.C. § 7303"
-generated_at: "2026-03-30T00:28:16.857Z"
+generated_at: "2026-03-30T00:31:40.195Z"
 ---
 
 # § 7303. Functions of Veterans Health Administration: research programs

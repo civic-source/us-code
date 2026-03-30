@@ -3,9 +3,9 @@ title: "Section 2 - Comptroller of the Currency; appointment; term"
 usc_title: 12
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T00:27:20.290Z"
+generated_at: "2026-03-30T00:30:00.683Z"
 ---
 
 # § 2. Comptroller of the Currency; appointment; term

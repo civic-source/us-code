@@ -3,9 +3,9 @@ title: "Section 1933 - Clarification of authorities regarding certain personnel 
 usc_title: 2
 usc_section: "1933"
 chapter: 29
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 1933"
-generated_at: "2026-03-30T00:26:48.094Z"
+generated_at: "2026-03-30T00:29:30.008Z"
 ---
 
 # § 1933. Clarification of authorities regarding certain personnel benefits

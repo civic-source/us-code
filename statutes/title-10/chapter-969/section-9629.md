@@ -3,9 +3,9 @@ title: "Section 9629 - Proceeds: disposition"
 usc_title: 10
 usc_section: "9629"
 chapter: 969
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 9629"
-generated_at: "2026-03-30T00:27:14.423Z"
+generated_at: "2026-03-30T00:29:43.991Z"
 ---
 
 # § 9629. Proceeds: disposition

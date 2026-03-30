@@ -3,9 +3,9 @@ title: "Section 4651 - Uniform policy on real property acquisition practices"
 usc_title: 42
 usc_section: "4651"
 chapter: 61
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 4651"
-generated_at: "2026-03-30T00:28:41.448Z"
+generated_at: "2026-03-30T00:32:13.611Z"
 ---
 
 # § 4651. Uniform policy on real property acquisition practices

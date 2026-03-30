@@ -3,9 +3,9 @@ title: "Section 3064 - Applicability of chapter 137 legacy provisions"
 usc_title: 10
 usc_section: "3064"
 chapter: 203
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 3064"
-generated_at: "2026-03-30T00:27:14.369Z"
+generated_at: "2026-03-30T00:29:43.940Z"
 ---
 
 # § 3064. Applicability of chapter 137 legacy provisions

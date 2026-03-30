@@ -3,9 +3,9 @@ title: "Section 415 - Summary removal of water craft obstructing navigation; lia
 usc_title: 33
 usc_section: "415"
 chapter: 9
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 415"
-generated_at: "2026-03-30T00:28:11.776Z"
+generated_at: "2026-03-30T00:31:18.326Z"
 ---
 
 # § 415. Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator

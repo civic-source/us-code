@@ -3,9 +3,9 @@ title: "Section 2126 - Retirement of stock"
 usc_title: 12
 usc_section: "2126"
 chapter: 23
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 2126"
-generated_at: "2026-03-30T00:27:20.408Z"
+generated_at: "2026-03-30T00:30:00.796Z"
 ---
 
 # § 2126. Retirement of stock

@@ -3,9 +3,9 @@ title: "Section 356k - Platform technologies"
 usc_title: 21
 usc_section: "356k"
 chapter: 9
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "21 U.S.C. § 356k"
-generated_at: "2026-03-30T00:27:40.605Z"
+generated_at: "2026-03-30T00:30:46.801Z"
 ---
 
 # § 356k. Platform technologies

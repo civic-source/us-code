@@ -3,9 +3,9 @@ title: "Section 240a - Audit of Department of Defense financial statements"
 usc_title: 10
 usc_section: "240a"
 chapter: 9
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 240a"
-generated_at: "2026-03-30T00:27:14.254Z"
+generated_at: "2026-03-30T00:29:43.821Z"
 ---
 
 # § 240a. Audit of Department of Defense financial statements

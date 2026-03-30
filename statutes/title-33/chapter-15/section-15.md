@@ -3,9 +3,9 @@ title: "Section 15 - Non-Federal plans to provide additional flood risk reductio
 usc_title: 33
 usc_section: "15"
 chapter: 15
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 15"
-generated_at: "2026-03-30T00:28:11.788Z"
+generated_at: "2026-03-30T00:31:18.338Z"
 ---
 
 # § 701b–15. Non-Federal plans to provide additional flood risk reduction

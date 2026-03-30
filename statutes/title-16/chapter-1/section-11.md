@@ -3,9 +3,9 @@ title: "Section 11 - Designation of Steens Mountain Cooperative Management and P
 usc_title: 16
 usc_section: "11"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T00:27:35.044Z"
+generated_at: "2026-03-30T00:30:33.391Z"
 ---
 
 # § 460nnn–11. Designation of Steens Mountain Cooperative Management and Protection Area

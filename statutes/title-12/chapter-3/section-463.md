@@ -3,9 +3,9 @@ title: "Section 463 - Limitation on amount of balance with any depository instit
 usc_title: 12
 usc_section: "463"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 463"
-generated_at: "2026-03-30T00:27:20.304Z"
+generated_at: "2026-03-30T00:30:00.699Z"
 ---
 
 # § 463. Limitation on amount of balance with any depository institution without access to Federal Reserve advances

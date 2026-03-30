@@ -3,9 +3,9 @@ title: "Section 6604 - Interagency working group on research regulation"
 usc_title: 42
 usc_section: "6604"
 chapter: 79
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 6604"
-generated_at: "2026-03-30T00:28:41.500Z"
+generated_at: "2026-03-30T00:32:13.662Z"
 ---
 
 # § 6604. Interagency working group on research regulation

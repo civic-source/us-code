@@ -3,9 +3,9 @@ title: "Section 13 - Court review of orders"
 usc_title: 15
 usc_section: "13"
 chapter: 2
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 13"
-generated_at: "2026-03-30T00:27:23.427Z"
+generated_at: "2026-03-30T00:30:22.382Z"
 ---
 
 # § 80b–13. Court review of orders

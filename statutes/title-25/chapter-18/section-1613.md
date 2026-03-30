@@ -3,9 +3,9 @@ title: "Section 1613 - Health professions preparatory scholarship program for In
 usc_title: 25
 usc_section: "1613"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "25 U.S.C. § 1613"
-generated_at: "2026-03-30T00:27:39.432Z"
+generated_at: "2026-03-30T00:30:56.375Z"
 ---
 
 # § 1613. Health professions preparatory scholarship program for Indians

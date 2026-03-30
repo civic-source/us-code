@@ -3,9 +3,9 @@ title: "Section 32101 - Definitions"
 usc_title: 49
 usc_section: "32101"
 chapter: 321
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 32101"
-generated_at: "2026-03-30T00:28:57.867Z"
+generated_at: "2026-03-30T00:32:23.628Z"
 ---
 
 # § 32101. Definitions

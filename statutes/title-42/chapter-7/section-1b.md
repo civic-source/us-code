@@ -3,9 +3,9 @@ title: "Section 1b - Presumptive eligibility for certain breast or cervical canc
 usc_title: 42
 usc_section: "1b"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T00:28:41.294Z"
+generated_at: "2026-03-30T00:32:13.468Z"
 ---
 
 # § 1396r–1b. Presumptive eligibility for certain breast or cervical cancer patients

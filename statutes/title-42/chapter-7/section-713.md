@@ -3,23 +3,23 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-30T00:28:41.147Z"
+generated_at: "2026-03-30T00:32:13.332Z"
 ---
 
 # § 713. Personal responsibility education
 
 - **(a)**
   - **(1)**
-    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023 and for the period beginning on October 1, 2023 , and ending on November 17, 2023 , the Secretary shall allot to each State an amount equal to the product of—
+    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023 , and ending on November 17, 2023 , and for the period beginning on November 18, 2023 , and ending on January 19, 2024 , the Secretary shall allot to each State an amount equal to the product of—
       - **(i)** the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
       - **(ii)** the State youth population percentage determined under paragraph (2).
     - **(B)**
-      - **(i)** Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning on October 1, 2023 , and ending on November 17, 2023 .
+      - **(i)** Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning on October 1, 2023 , and ending on November 17, 2023 , and for the period beginning on November 18, 2023 , and ending on January 19, 2024 .
       - **(ii)** The Secretary shall adjust on a pro rata basis the amount of the State allotments determined under this paragraph for a fiscal year to the extent necessary to comply with clause (i).
     - **(C)**
-      - **(i)** A State shall not be paid from its allotment for a fiscal year or the period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
+      - **(i)** A State shall not be paid from its allotment for a fiscal year or period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
       - **(ii)** The State application shall contain an assurance that the State has complied with the requirements of this section in preparing and submitting the application and shall include the following as well as such additional information as the Secretary may require:
         - **(I)** Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
         - **(II)** State-established goals for reducing the pregnancy rates and birth rates for such youth populations.
@@ -29,11 +29,11 @@ generated_at: "2026-03-30T00:28:41.147Z"
       - **(i)** the number of individuals who have attained age 10 but not attained age 20 in the State; to
       - **(ii)** the number of such individuals in all States.
     - **(B)** The number of individuals described in clauses (i) and (ii) of subparagraph (A) in a State shall be determined on the basis of the most recent Bureau of the Census data.
-  - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or the period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year or period.
+  - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year or period described in paragraph (1)(A) shall remain available for expenditure by the State through the end of the second fiscal year following such fiscal year or period.
   - **(4)**
-    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and for the period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023 and for the period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or the period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2023 and for each period described in paragraph (1)(A) and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2023 and for each period so described. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year or period so described that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
     - **(B)**
-      - **(i)** The Secretary shall continue through the period described in paragraph (1)(A) grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+      - **(i)** The Secretary shall continue through each period described in paragraph (1)(A) grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
       - **(ii)** The Secretary may solicit and award grants under this paragraph to faith-based organizations or consortia.
     - **(C)** An organization or entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation.
   - **(5)** No payment shall be made to a State from the allotment determined for the State under this subsection or to a local organization or entity awarded a grant under paragraph (4), if the expenditure of non-federal funds by the State, organization, or entity for activities, programs, or initiatives for which amounts from allotments and grants under this subsection may be expended is less than the amount expended by the State, organization, or entity for such programs or initiatives for fiscal year 2009.
@@ -66,7 +66,7 @@ generated_at: "2026-03-30T00:28:41.147Z"
       - **(i)** The Secretary shall reserve 10 percent of such remainder for expenditures by the Secretary for the activities described in clauses (ii) and (iii).
       - **(ii)** The Secretary shall provide, directly or through a competitive grant process, research, training and technical assistance, including dissemination of research and information regarding effective and promising practices, providing consultation and resources on a broad array of teen pregnancy prevention strategies, including abstinence and contraception, and developing resources and materials to support the activities of recipients of grants and other State, tribal, and community organizations working to reduce teen pregnancy. In carrying out such functions, the Secretary shall collaborate with a variety of entities that have expertise in the prevention of teen pregnancy, HIV and sexually transmitted infections, healthy relationships, financial literacy, and other topics addressed through the personal responsibility education programs.
       - **(iii)** The Secretary shall evaluate the programs and activities carried out with funds made available through allotments or grants under this section.
-  - **(3)** Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for the period described in subsection (a)(1)(A).
+  - **(3)** Paragraphs (1) and (2) shall not apply with respect to any amount appropriated under subsection (f) for a period described in subsection (a)(1)(A) for fiscal year 2024.
 - **(d)**
   - **(1)** The Secretary shall administer this section through the Assistant Secretary for the Administration for Children and Families within the Department of Health and Human Services.
   - **(2)**
@@ -85,4 +85,4 @@ generated_at: "2026-03-30T00:28:41.147Z"
     - **(B)** comprising information that leading professional organizations and agencies with relevant expertise in the field recognize as accurate, objective, and complete.
   - **(3)** The terms “Indian tribe” and “Tribal organization” have the meanings given such terms in section 1603 of title 25 .
   - **(4)** The term “youth” means an individual who has attained age 10 but has not attained age 20.
-- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023, and for the period beginning on October 1, 2023 , and ending on November 17, 2023 , an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023. Amounts appropriated under this subsection shall remain available until expended.
+- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023, for the period beginning on October 1, 2023 , and ending on November 17, 2023 , an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on November 18, 2023 , and ending on January 19, 2024 , an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023. Amounts appropriated under this subsection shall remain available until expended.

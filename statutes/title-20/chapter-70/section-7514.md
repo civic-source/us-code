@@ -3,9 +3,9 @@ title: "Section 7514 - Native Hawaiian Education Council"
 usc_title: 20
 usc_section: "7514"
 chapter: 70
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 7514"
-generated_at: "2026-03-30T00:27:29.745Z"
+generated_at: "2026-03-30T00:30:28.037Z"
 ---
 
 # § 7514. Native Hawaiian Education Council

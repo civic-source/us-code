@@ -3,9 +3,9 @@ title: "Section 1003 - Applicability"
 usc_title: 5
 usc_section: "1003"
 chapter: 10
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 1003"
-generated_at: "2026-03-30T00:26:31.385Z"
+generated_at: "2026-03-30T00:29:32.414Z"
 ---
 
 # § 1003. Applicability

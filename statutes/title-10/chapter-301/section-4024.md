@@ -3,9 +3,9 @@ title: "Section 4024 - Merit-based award of grants for research and development"
 usc_title: 10
 usc_section: "4024"
 chapter: 301
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 4024"
-generated_at: "2026-03-30T00:27:14.379Z"
+generated_at: "2026-03-30T00:29:43.950Z"
 ---
 
 # § 4024. Merit-based award of grants for research and development

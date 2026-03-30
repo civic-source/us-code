@@ -3,9 +3,9 @@ title: "Section 5925g - Urban, indoor, and other emerging agricultural productio
 usc_title: 7
 usc_section: "5925g"
 chapter: 88
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 5925g"
-generated_at: "2026-03-30T00:26:57.207Z"
+generated_at: "2026-03-30T00:29:51.182Z"
 ---
 
 # § 5925g. Urban, indoor, and other emerging agricultural production research, education, and extension initiative
@@ -24,5 +24,7 @@ generated_at: "2026-03-30T00:26:57.207Z"
   - **(1)** the cooperation of multiple entities; or
   - **(2)** States or regions with a high concentration of or significant interest in urban farms, rooftop farms, and indoor production facilities.
 - **(d)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $10,000,000 for fiscal year 2019, to remain available until expended.
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
+    - **(A)** $10,000,000 for fiscal year 2019, to remain available until expended; and
+    - **(B)** $2,000,000 for fiscal year 2024, to remain available until expended.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.

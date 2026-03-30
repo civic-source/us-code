@@ -3,9 +3,9 @@ title: "Section 1353 - Indebtedness of foreign countries, effect on"
 usc_title: 19
 usc_section: "1353"
 chapter: 4
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "19 U.S.C. § 1353"
-generated_at: "2026-03-30T00:27:30.945Z"
+generated_at: "2026-03-30T00:30:36.394Z"
 ---
 
 # § 1353. Indebtedness of foreign countries, effect on

@@ -3,9 +3,9 @@ title: "Section 2144 - Payments from CIARDS fund for portions of certain Civil S
 usc_title: 50
 usc_section: "2144"
 chapter: 38
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "50 U.S.C. § 2144"
-generated_at: "2026-03-30T00:28:48.565Z"
+generated_at: "2026-03-30T00:32:20.176Z"
 ---
 
 # § 2144. Payments from CIARDS fund for portions of certain Civil Service Retirement System annuities

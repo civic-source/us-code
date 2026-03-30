@@ -3,9 +3,9 @@ title: "Section 19051 - Broader impacts"
 usc_title: 42
 usc_section: "19051"
 chapter: 163
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 19051"
-generated_at: "2026-03-30T00:28:41.770Z"
+generated_at: "2026-03-30T00:32:13.923Z"
 ---
 
 # § 19051. Broader impacts

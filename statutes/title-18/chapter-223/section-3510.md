@@ -3,9 +3,9 @@ title: "Section 3510 - Rights of victims to attend and observe trial"
 usc_title: 18
 usc_section: "3510"
 chapter: 223
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "18 U.S.C. § 3510"
-generated_at: "2026-03-30T00:27:27.555Z"
+generated_at: "2026-03-30T00:30:29.158Z"
 ---
 
 # § 3510. Rights of victims to attend and observe trial

@@ -3,9 +3,9 @@ title: "Section 3610 - Definitions"
 usc_title: 20
 usc_section: "3610"
 chapter: 49
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 3610"
-generated_at: "2026-03-30T00:27:29.709Z"
+generated_at: "2026-03-30T00:30:28.003Z"
 ---
 
 # § 3610. Definitions

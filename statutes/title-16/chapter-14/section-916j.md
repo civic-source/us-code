@@ -3,9 +3,9 @@ title: "Section 916j - Allocation of responsibility for administration and enfor
 usc_title: 16
 usc_section: "916j"
 chapter: 14
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 916j"
-generated_at: "2026-03-30T00:27:35.116Z"
+generated_at: "2026-03-30T00:30:33.458Z"
 ---
 
 # § 916j. Allocation of responsibility for administration and enforcement

@@ -3,9 +3,9 @@ title: "Section 3805 - Payments for commercial products and commercial services"
 usc_title: 10
 usc_section: "3805"
 chapter: 277
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 3805"
-generated_at: "2026-03-30T00:27:14.377Z"
+generated_at: "2026-03-30T00:29:43.948Z"
 ---
 
 # § 3805. Payments for commercial products and commercial services

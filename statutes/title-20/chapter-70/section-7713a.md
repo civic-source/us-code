@@ -3,9 +3,9 @@ title: "Section 7713a - School facilities for children of Government employees a
 usc_title: 20
 usc_section: "7713a"
 chapter: 70
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 7713a"
-generated_at: "2026-03-30T00:27:29.749Z"
+generated_at: "2026-03-30T00:30:28.042Z"
 ---
 
 # § 7713a. School facilities for children of Government employees and other residents in Indian reservations, national parks, and national monuments

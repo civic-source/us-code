@@ -3,9 +3,9 @@ title: "Section 20504 - Inspection, testing, and investigation"
 usc_title: 49
 usc_section: "20504"
 chapter: 205
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 20504"
-generated_at: "2026-03-30T00:28:57.843Z"
+generated_at: "2026-03-30T00:32:23.606Z"
 ---
 
 # § 20504. Inspection, testing, and investigation

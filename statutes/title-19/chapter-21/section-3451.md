@@ -3,9 +3,9 @@ title: "Section 3451 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3451"
 chapter: 21
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "19 U.S.C. § 3451"
-generated_at: "2026-03-30T00:27:30.999Z"
+generated_at: "2026-03-30T00:30:36.447Z"
 ---
 
 # § 3451. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78

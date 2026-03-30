@@ -3,9 +3,9 @@ title: "Section 63 - General exceptions"
 usc_title: 42
 usc_section: "63"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 63"
-generated_at: "2026-03-30T00:28:41.087Z"
+generated_at: "2026-03-30T00:32:13.273Z"
 ---
 
 # § 300gg–63. General exceptions

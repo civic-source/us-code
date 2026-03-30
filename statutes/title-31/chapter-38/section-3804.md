@@ -3,9 +3,9 @@ title: "Section 3804 - Subpoena authority"
 usc_title: 31
 usc_section: "3804"
 chapter: 38
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "31 U.S.C. § 3804"
-generated_at: "2026-03-30T00:28:09.069Z"
+generated_at: "2026-03-30T00:31:19.453Z"
 ---
 
 # § 3804. Subpoena authority

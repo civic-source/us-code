@@ -3,9 +3,9 @@ title: "Section 2121 - Promotions; appointments"
 usc_title: 14
 usc_section: "2121"
 chapter: 21
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 2121"
-generated_at: "2026-03-30T00:27:17.358Z"
+generated_at: "2026-03-30T00:29:57.732Z"
 ---
 
 # § 2121. Promotions; appointments

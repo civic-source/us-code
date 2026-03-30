@@ -3,9 +3,9 @@ title: "Section 192 - Refusal of witness to testify or produce papers"
 usc_title: 2
 usc_section: "192"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 192"
-generated_at: "2026-03-30T00:26:48.064Z"
+generated_at: "2026-03-30T00:29:29.981Z"
 ---
 
 # § 192. Refusal of witness to testify or produce papers

@@ -3,9 +3,9 @@ title: "Section 450d - Transferred"
 usc_title: 7
 usc_section: "450d"
 chapter: 17
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 450d"
-generated_at: "2026-03-30T00:26:57.099Z"
+generated_at: "2026-03-30T00:29:51.067Z"
 ---
 
 # § 450d. Transferred

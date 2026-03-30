@@ -3,9 +3,9 @@ title: "Section 4121 - Monies received by Attending Physician from sale of presc
 usc_title: 2
 usc_section: "4121"
 chapter: 41
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 4121"
-generated_at: "2026-03-30T00:26:48.103Z"
+generated_at: "2026-03-30T00:29:30.015Z"
 ---
 
 # § 4121. Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts

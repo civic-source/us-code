@@ -3,9 +3,9 @@ title: "Section 12101 - Definitions"
 usc_title: 46
 usc_section: "12101"
 chapter: 121
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "46 U.S.C. § 12101"
-generated_at: "2026-03-30T00:28:46.581Z"
+generated_at: "2026-03-30T00:32:21.162Z"
 ---
 
 # § 12101. Definitions

@@ -3,9 +3,9 @@ title: "Section 150 - National goals and performance management measures"
 usc_title: 23
 usc_section: "150"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "23 U.S.C. § 150"
-generated_at: "2026-03-30T00:27:38.186Z"
+generated_at: "2026-03-30T00:30:47.404Z"
 ---
 
 # § 150. National goals and performance management measures

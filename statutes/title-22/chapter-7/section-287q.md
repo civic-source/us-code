@@ -3,9 +3,9 @@ title: "Section 287q - General and special conferences; expenses; acceptance of 
 usc_title: 22
 usc_section: "287q"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 287q"
-generated_at: "2026-03-30T00:27:43.240Z"
+generated_at: "2026-03-30T00:30:43.537Z"
 ---
 
 # § 287q. General and special conferences; expenses; acceptance of services and gifts or bequests of money or materials

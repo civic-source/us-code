@@ -3,9 +3,9 @@ title: "Section 2922f - Preference for energy efficient electric equipment"
 usc_title: 10
 usc_section: "2922f"
 chapter: 173
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2922f"
-generated_at: "2026-03-30T00:27:14.367Z"
+generated_at: "2026-03-30T00:29:43.939Z"
 ---
 
 # § 2922f. Preference for energy efficient electric equipment

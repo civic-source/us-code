@@ -3,9 +3,9 @@ title: "Section 6615 - National science and technology strategy"
 usc_title: 42
 usc_section: "6615"
 chapter: 79
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 6615"
-generated_at: "2026-03-30T00:28:41.501Z"
+generated_at: "2026-03-30T00:32:13.662Z"
 ---
 
 # § 6615. National science and technology strategy
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T00:28:41.501Z"
 - **(b)** In developing each national science and technology strategy described in subsection (a), the Director of the Office of Science and Technology Policy shall—
   - **(1)**
     - **(A)** the recommendations and priorities developed by the review under section 6615b of this title ;
-    - **(B)** the most recently published interim or final national security strategy report submitted pursuant to section 3043 of title 50 );
+    - **(B)** the most recently published interim or final national security strategy report submitted pursuant to section 3043 of title 50 ;
     - **(C)** other relevant national plans, reports, and strategies; and
     - **(D)** the strategic plans of relevant Federal departments and agencies; and
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 44810 - Airport safety and airspace hazard mitigation and enforc
 usc_title: 49
 usc_section: "44810"
 chapter: 448
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 44810"
-generated_at: "2026-03-30T00:28:57.892Z"
+generated_at: "2026-03-30T00:32:23.654Z"
 ---
 
 # § 44810. Airport safety and airspace hazard mitigation and enforcement

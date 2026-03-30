@@ -3,9 +3,9 @@ title: "Section 1153 - Prohibition on overhaul, repair, and maintenance of Coast
 usc_title: 14
 usc_section: "1153"
 chapter: 11
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 1153"
-generated_at: "2026-03-30T00:27:17.356Z"
+generated_at: "2026-03-30T00:29:57.730Z"
 ---
 
 # § 1153. Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards

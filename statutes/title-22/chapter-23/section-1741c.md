@@ -3,9 +3,9 @@ title: "Section 1741c - Hostage Response Group"
 usc_title: 22
 usc_section: "1741c"
 chapter: 23
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 1741c"
-generated_at: "2026-03-30T00:27:43.258Z"
+generated_at: "2026-03-30T00:30:43.555Z"
 ---
 
 # § 1741c. Hostage Response Group

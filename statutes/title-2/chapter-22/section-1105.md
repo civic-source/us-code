@@ -3,9 +3,9 @@ title: "Section 1105 - John C. Stennis Center for Public Service Development Tru
 usc_title: 2
 usc_section: "1105"
 chapter: 22
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 1105"
-generated_at: "2026-03-30T00:26:48.081Z"
+generated_at: "2026-03-30T00:29:29.996Z"
 ---
 
 # § 1105. John C. Stennis Center for Public Service Development Trust Fund

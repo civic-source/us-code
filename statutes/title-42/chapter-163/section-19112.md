@@ -3,9 +3,9 @@ title: "Section 19112 - Entrepreneurial fellowships"
 usc_title: 42
 usc_section: "19112"
 chapter: 163
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 19112"
-generated_at: "2026-03-30T00:28:41.772Z"
+generated_at: "2026-03-30T00:32:13.924Z"
 ---
 
 # § 19112. Entrepreneurial fellowships

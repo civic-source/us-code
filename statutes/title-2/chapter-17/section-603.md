@@ -3,9 +3,9 @@ title: "Section 603 - Public access to budget data"
 usc_title: 2
 usc_section: "603"
 chapter: 17
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 603"
-generated_at: "2026-03-30T00:26:48.071Z"
+generated_at: "2026-03-30T00:29:29.987Z"
 ---
 
 # § 603. Public access to budget data

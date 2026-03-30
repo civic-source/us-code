@@ -3,22 +3,22 @@ title: "Section 1862i - STEM education"
 usc_title: 42
 usc_section: "1862i"
 chapter: 16
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 1862i"
-generated_at: "2026-03-30T00:28:41.362Z"
+generated_at: "2026-03-30T00:32:13.533Z"
 ---
 
 # § 1862i. STEM education
 
 - **(a)** The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields and education to prepare the skilled technical workforce to meet workforce demands, and to improve the quality of their core education courses in STEM fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including veterans and individuals engaged in work in the home) and on building a pathway from secondary schools to associate-degree-granting institutions, to careers that require technical training, and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
   - **(1)** the development and study of model instructional programs in advanced-technology fields and in core STEM courses;
-  - **(2)** the professional development of faculty and instructors, both full- and part-time, who provide instruction in STEM and advanced- 1 1 So in original. technology fields;
+  - **(2)** the professional development of faculty and instructors, both full- and part-time, who provide instruction in STEM and advanced- technology 1 1 So in original. The space between “advanced-” and “technology” probably should not appear. fields;
   - **(3)** the establishment of innovative partnership arrangements that—
-    - **(A)** involve associate-degree-granting colleges and other appropriate public and private sector entities to support the advanced- 1 technology industries that drive the competitiveness of the United States in the global economy;
+    - **(A)** involve associate-degree-granting colleges and other appropriate public and private sector entities to support the advanced- technology 1 industries that drive the competitiveness of the United States in the global economy;
     - **(B)** provide for private sector donations, faculty opportunities to have short-term assignments with industry, sharing of program costs, equipment loans, and the cooperative use of laboratories, plants, and other facilities, and provision for state-of-the-art work experience opportunities for students enrolled in such programs; and
     - **(C)** encourage participation of individuals identified in section 1885a or 1885b of this title;
   - **(4)** the acquisition of state-of-the-art instrumentation essential to programs designed to prepare and upgrade students in STEM and advanced-technology fields; and
-  - **(5)** the development and dissemination of instructional materials in support of improving the advanced STEM and advanced- 1 technology and training capabilities of associate-degree-granting colleges, including programs for students who are not pursuing a science degree.
+  - **(5)** the development and dissemination of instructional materials in support of improving the advanced STEM and advanced- technology 1 and training capabilities of associate-degree-granting colleges, including programs for students who are not pursuing a science degree.
 - **(b)**
   - **(1)** The Director shall make awards for the establishment of centers of excellence, in advanced-technology fields, among associate-degree-granting colleges. Centers shall meet one or both of the following criteria:
     - **(A)** Exceptional instructional programs in advanced-technology fields.
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T00:28:41.362Z"
     - **(C)** promote collaboration between academic institutions, workforce development programs, labor organizations, and industry to communicate and meet workforce education and training needs.
 - **(c)**
   - **(1)**
-    - **(A)** The Director shall make grants to eligible partnerships to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor- 1 degree-granting institutions, through such means as—
+    - **(A)** The Director shall make grants to eligible partnerships to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor- degree-granting 2 2 So in original. The space between “bachelor-” and “degree-granting” probably should not appear. institutions, through such means as—
       - **(i)** examining curricula to develop articulation agreements that ensure that academic credit earned at the associate-degree-granting college is transferable to bachelor-degree-granting institutions;
       - **(ii)** informing teachers from the associate-degree-granting college on the specific requirements of the career and educational pathways supported by the articulation agreements; and
       - **(iii)** providing summer educational programs for students from the associate-degree-granting college to encourage such students’ subsequent matriculation at bachelor-degree-granting institutions.
@@ -44,7 +44,7 @@ generated_at: "2026-03-30T00:28:41.362Z"
 - **(d)**
   - **(1)** The Director shall award grants to junior or community colleges to develop or improve associate degree or certificate programs in STEM fields, with respect to the region in which the respective college is located, and an in-demand industry sector or occupation.
   - **(2)** In considering applications for grants under paragraph (1), the Director shall prioritize—
-    - **(A)** applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia, 1 or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
+    - **(A)** applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia, 3 3 So in original. or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
     - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the proposed associate degree or certificate program;
     - **(C)** applications that include commitments by the partnering employers or employer consortia, or industry or sector partnerships, to offer apprenticeships, internships, or other applied learning opportunities to students enrolled in the proposed associate degree or certificate program;
     - **(D)** applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields in the proposed associate degree or certificate program;
@@ -59,7 +59,7 @@ generated_at: "2026-03-30T00:28:41.362Z"
   - **(3)** In considering applications for grants under paragraph (1), the Director shall prioritize—
     - **(A)** applicants that consist of a partnership between—
       - **(i)** the applying institution of higher education; and
-      - **(ii)** individual employers or an employer consortia, 1 or industry or sector partnerships;
+      - **(ii)** individual employers or an employer consortia, 3 or industry or sector partnerships;
     - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the identified STEM fields;
     - **(C)** applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields;
     - **(D)** applications that describe how the institution of higher education will support the collection and information of data for purposes of the evaluation of identified STEM degree programs; and
@@ -85,7 +85,7 @@ generated_at: "2026-03-30T00:28:41.362Z"
   - **(3)** establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
   - **(4)** designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
 - **(j)** As used in this section—
-  - **(1)** the term advanced-technology 2 2 So in original. Probably should be “ ‘advanced-technology’ ”. includes technological fields such as advanced manufacturing, agricultural-, biological- and chemical-technologies, energy and environmental technologies, engineering technologies, information technologies, micro and nano-technologies, cybersecurity technologies, geospatial technologies, and new, emerging technology areas;
+  - **(1)** the term advanced-technology 4 4 So in original. The defined term probably should be within quotation marks. includes technological fields such as advanced manufacturing, agricultural-, biological- and chemical-technologies, energy and environmental technologies, engineering technologies, information technologies, micro and nano-technologies, cybersecurity technologies, geospatial technologies, and new, emerging technology areas;
   - **(2)** the term “associate-degree-granting college” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 [ 20 U.S.C. 1001 ]) that—
     - **(A)** is a nonprofit institution that offers a 2-year associate-degree program or a 2-year certificate program; or
     - **(B)** is a proprietary institution that offers a 2-year associate-degree program;
@@ -95,4 +95,4 @@ generated_at: "2026-03-30T00:28:41.362Z"
   - **(6)** the term “junior or community college” has the meaning given the term in section 312 of the Higher Education Act of 1965 ( 20 U.S.C. 1058 );
   - **(7)** the term “region” means a labor market area, as that term is defined in section 3102 of title 29 ;
   - **(8)** the terms “science, technology, engineering, or mathematics” or “STEM” mean science, technology, engineering, and mathematics, including computer science and cybersecurity; and
-  - **(9)** the term skilled technical workforce 3 3 So in original. Probably should be “ ‘skilled technical workforce’ ”. has the meaning given such term in section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act ( 42 U.S.C. 1862p ). 4 4 See References in Text note below.
+  - **(9)** the term skilled technical workforce 4 has the meaning given such term in section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act ( 42 U.S.C. 1862p ). 5 5 See References in Text note below.

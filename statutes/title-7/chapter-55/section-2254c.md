@@ -3,9 +3,9 @@ title: "Section 2254c - Research"
 usc_title: 7
 usc_section: "2254c"
 chapter: 55
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 2254c"
-generated_at: "2026-03-30T00:26:57.176Z"
+generated_at: "2026-03-30T00:29:51.151Z"
 ---
 
 # § 2254c. Research

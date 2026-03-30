@@ -3,9 +3,9 @@ title: "Section 2213 - Flood control and other purposes"
 usc_title: 33
 usc_section: "2213"
 chapter: 36
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 2213"
-generated_at: "2026-03-30T00:28:11.828Z"
+generated_at: "2026-03-30T00:31:18.380Z"
 ---
 
 # § 2213. Flood control and other purposes

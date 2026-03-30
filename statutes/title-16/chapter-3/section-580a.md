@@ -3,9 +3,9 @@ title: "Section 580a - Sale and distribution of supplies, equipment, and materia
 usc_title: 16
 usc_section: "580a"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 580a"
-generated_at: "2026-03-30T00:27:35.072Z"
+generated_at: "2026-03-30T00:30:33.417Z"
 ---
 
 # § 580a. Sale and distribution of supplies, equipment, and materials to other Government activities and to cooperating State and private agencies; reimbursement

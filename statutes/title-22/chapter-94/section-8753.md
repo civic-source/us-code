@@ -3,9 +3,9 @@ title: "Section 8753 - Expedited consideration of requests for authorization of 
 usc_title: 22
 usc_section: "8753"
 chapter: 94
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 8753"
-generated_at: "2026-03-30T00:27:43.393Z"
+generated_at: "2026-03-30T00:30:43.686Z"
 ---
 
 # § 8753. Expedited consideration of requests for authorization of certain human rights-, humanitarian-, and democracy-related activities with respect to Iran

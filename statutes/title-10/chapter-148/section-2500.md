@@ -3,9 +3,9 @@ title: "Section 2500 - Renumbered § 4801]"
 usc_title: 10
 usc_section: "2500"
 chapter: 148
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2500"
-generated_at: "2026-03-30T00:27:14.346Z"
+generated_at: "2026-03-30T00:29:43.918Z"
 ---
 
 # [§ 2500. Renumbered § 4801]

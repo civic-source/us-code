@@ -3,9 +3,9 @@ title: "Section 905 - Exclusive rights in mask works"
 usc_title: 17
 usc_section: "905"
 chapter: 9
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "17 U.S.C. § 905"
-generated_at: "2026-03-30T00:27:25.661Z"
+generated_at: "2026-03-30T00:30:24.562Z"
 ---
 
 # § 905. Exclusive rights in mask works

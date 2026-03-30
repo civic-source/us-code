@@ -3,9 +3,9 @@ title: "Section 124n - Protection of certain facilities and assets from unmanned
 usc_title: 6
 usc_section: "124n"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "6 U.S.C. § 124n"
-generated_at: "2026-03-30T00:26:51.952Z"
+generated_at: "2026-03-30T00:29:45.295Z"
 ---
 
 # § 124n. Protection of certain facilities and assets from unmanned aircraft
@@ -58,7 +58,7 @@ generated_at: "2026-03-30T00:26:51.952Z"
   - **(3)** vest in the Secretary of Homeland Security any authority of the Attorney General;
   - **(4)** vest in the Attorney General any authority of the Secretary of Homeland Security; or
   - **(5)** provide a new basis of liability for any State, local, territorial, or tribal law enforcement officers who participate in the protection of a mass gathering identified by the Secretary or Attorney General under subsection (k)(3)(C)(iii)(II), act within the scope of their authority, and do not exercise the authority granted to the Secretary and Attorney General by this section.
-- **(i)** The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on November 18, 2023 .
+- **(i)** The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on February 3, 2024 .
 - **(j)** Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
 - **(k)** In this section:
   - **(1)** The term “appropriate congressional committees” means—

@@ -3,9 +3,9 @@ title: "Section 603a - Removal of snags and debris, and straightening, clearing,
 usc_title: 33
 usc_section: "603a"
 chapter: 12
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 603a"
-generated_at: "2026-03-30T00:28:11.784Z"
+generated_at: "2026-03-30T00:31:18.335Z"
 ---
 
 # § 603a. Removal of snags and debris, and straightening, clearing, and protecting channels in navigable waters

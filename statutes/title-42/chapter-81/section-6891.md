@@ -3,9 +3,9 @@ title: "Section 6891 - Exchange of energy information among the States"
 usc_title: 42
 usc_section: "6891"
 chapter: 81
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 6891"
-generated_at: "2026-03-30T00:28:41.507Z"
+generated_at: "2026-03-30T00:32:13.667Z"
 ---
 
 # § 6891. Exchange of energy information among the States

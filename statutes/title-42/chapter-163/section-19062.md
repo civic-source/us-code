@@ -3,9 +3,9 @@ title: "Section 19062 - Accelerating unmanned maritime systems technologies"
 usc_title: 42
 usc_section: "19062"
 chapter: 163
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 19062"
-generated_at: "2026-03-30T00:28:41.771Z"
+generated_at: "2026-03-30T00:32:13.923Z"
 ---
 
 # § 19062. Accelerating unmanned maritime systems technologies

@@ -3,9 +3,9 @@ title: "Section 3681 - Reimbursement"
 usc_title: 39
 usc_section: "3681"
 chapter: 36
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "39 U.S.C. § 3681"
-generated_at: "2026-03-30T00:28:13.589Z"
+generated_at: "2026-03-30T00:31:45.753Z"
 ---
 
 # § 3681. Reimbursement

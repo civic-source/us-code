@@ -3,9 +3,9 @@ title: "Section 2510 - Sea service letters"
 usc_title: 14
 usc_section: "2510"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 2510"
-generated_at: "2026-03-30T00:27:17.360Z"
+generated_at: "2026-03-30T00:29:57.735Z"
 ---
 
 # § 2510. Sea service letters

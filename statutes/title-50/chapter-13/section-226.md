@@ -3,9 +3,9 @@ title: "Section 226 - Protection of liens on condemned vessels"
 usc_title: 50
 usc_section: "226"
 chapter: 13
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "50 U.S.C. § 226"
-generated_at: "2026-03-30T00:28:48.545Z"
+generated_at: "2026-03-30T00:32:20.158Z"
 ---
 
 # § 226. Protection of liens on condemned vessels

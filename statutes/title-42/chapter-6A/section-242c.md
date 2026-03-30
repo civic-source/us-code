@@ -3,9 +3,9 @@ title: "Section 242c - Appointment and authority of the Director of the Centers 
 usc_title: 42
 usc_section: "242c"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 242c"
-generated_at: "2026-03-30T00:28:40.937Z"
+generated_at: "2026-03-30T00:32:13.136Z"
 ---
 
 # § 242c. Appointment and authority of the Director of the Centers for Disease Control and Prevention
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T00:28:40.937Z"
   - **(3)** coordinate and oversee the operation of centers, institutes, and offices within the CDC;
   - **(4)** support, in consultation with the heads of such centers, institutes, and offices, program coordination across such centers, institutes, and offices, including through priority setting reviews and the development of strategic plans, to reduce unnecessary duplication and encourage collaboration between programs;
   - **(5)** oversee the development, implementation, and updating of the strategic plan established pursuant to subsection (c);
-  - **(6)** ensure that appropriate strategic planning, including the use of performance metrics, is conducted by such centers, institutes, and offices to facilitate and improve CDC programs and activities;
+  - **(6)** ensure that appropriate strategic planning, including the use of performance metrics, is conducted by such centers, institutes, and offices to facilitate and improve CDC programs and activities; 1 1 So in original. Probably should be followed by “and”.
   - **(7)** communicate, including through convening annual meetings, with public and private entities regarding relevant public health programs and activities, and, as applicable, the strategic plan established pursuant to subsection (c).
 - **(c)**
   - **(1)** Not later than 1 year after December 29, 2022 , and at least every 4 years thereafter, the Director shall develop and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, and post on the website of the CDC, a coordinated strategy to provide strategic direction and facilitate collaboration across the centers, institutes, and offices within the CDC. Such strategy shall be known as the “CDC Strategic Plan”.

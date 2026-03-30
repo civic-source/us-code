@@ -3,9 +3,9 @@ title: "Section 3710 - Foreclosure sale"
 usc_title: 12
 usc_section: "3710"
 chapter: 38
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 3710"
-generated_at: "2026-03-30T00:27:20.435Z"
+generated_at: "2026-03-30T00:30:00.823Z"
 ---
 
 # § 3710. Foreclosure sale

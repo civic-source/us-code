@@ -3,9 +3,9 @@ title: "Section 1362 - Notices"
 usc_title: 2
 usc_section: "1362"
 chapter: 24
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 1362"
-generated_at: "2026-03-30T00:26:48.084Z"
+generated_at: "2026-03-30T00:29:29.999Z"
 ---
 
 # § 1362. Notices

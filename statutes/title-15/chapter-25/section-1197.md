@@ -3,9 +3,9 @@ title: "Section 1197 - Guaranties"
 usc_title: 15
 usc_section: "1197"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 1197"
-generated_at: "2026-03-30T00:27:23.542Z"
+generated_at: "2026-03-30T00:30:22.442Z"
 ---
 
 # § 1197. Guaranties

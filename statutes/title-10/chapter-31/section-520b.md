@@ -3,9 +3,9 @@ title: "Section 520b - Applicants for enlistment: authority to use funds for the
 usc_title: 10
 usc_section: "520b"
 chapter: 31
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 520b"
-generated_at: "2026-03-30T00:27:14.266Z"
+generated_at: "2026-03-30T00:29:43.834Z"
 ---
 
 # § 520b. Applicants for enlistment: authority to use funds for the issue of authorized articles

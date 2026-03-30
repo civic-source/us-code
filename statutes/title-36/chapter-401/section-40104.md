@@ -3,9 +3,9 @@ title: "Section 40104 - Membership"
 usc_title: 36
 usc_section: "40104"
 chapter: 401
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "36 U.S.C. § 40104"
-generated_at: "2026-03-30T00:28:14.452Z"
+generated_at: "2026-03-30T00:31:40.866Z"
 ---
 
 # § 40104. Membership

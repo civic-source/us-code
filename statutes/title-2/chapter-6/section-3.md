@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. S. Res. 9, § 2, Nov. 5, 1975"
 usc_title: 2
 usc_section: "3"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 3"
-generated_at: "2026-03-30T00:26:48.064Z"
+generated_at: "2026-03-30T00:29:29.981Z"
 ---
 
 # § 190a–3. Repealed. S. Res. 9, § 2, Nov. 5, 1975

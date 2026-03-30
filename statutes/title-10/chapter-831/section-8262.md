@@ -3,9 +3,9 @@ title: "Section 8262 - Higher retired grade and pay for members who serve satisf
 usc_title: 10
 usc_section: "8262"
 chapter: 831
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 8262"
-generated_at: "2026-03-30T00:27:14.402Z"
+generated_at: "2026-03-30T00:29:43.973Z"
 ---
 
 # § 8262. Higher retired grade and pay for members who serve satisfactorily under temporary appointments

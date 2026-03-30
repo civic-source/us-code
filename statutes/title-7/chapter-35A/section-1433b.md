@@ -3,9 +3,9 @@ title: "Section 1433b - Processing of surplus agricultural commodities into liqu
 usc_title: 7
 usc_section: "1433b"
 chapter: 35
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 1433b"
-generated_at: "2026-03-30T00:26:57.121Z"
+generated_at: "2026-03-30T00:29:51.092Z"
 ---
 
 # § 1433b. Processing of surplus agricultural commodities into liquid fuels and agricultural commodity byproducts

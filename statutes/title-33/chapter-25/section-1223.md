@@ -3,9 +3,9 @@ title: "Section 1223 - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4
 usc_title: 33
 usc_section: "1223"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 1223"
-generated_at: "2026-03-30T00:28:11.800Z"
+generated_at: "2026-03-30T00:31:18.351Z"
 ---
 
 # §§ 1221 to 1223. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264

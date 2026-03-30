@@ -3,9 +3,9 @@ title: "Section 5014 - Regulations"
 usc_title: 12
 usc_section: "5014"
 chapter: 50
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 5014"
-generated_at: "2026-03-30T00:27:20.460Z"
+generated_at: "2026-03-30T00:30:00.850Z"
 ---
 
 # § 5014. Regulations

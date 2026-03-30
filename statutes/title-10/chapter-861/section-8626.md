@@ -3,9 +3,9 @@ title: "Section 8626 - Navy Reserve yacht pennant"
 usc_title: 10
 usc_section: "8626"
 chapter: 861
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 8626"
-generated_at: "2026-03-30T00:27:14.408Z"
+generated_at: "2026-03-30T00:29:43.978Z"
 ---
 
 # § 8626. Navy Reserve yacht pennant

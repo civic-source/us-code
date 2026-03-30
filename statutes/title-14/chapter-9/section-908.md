@@ -3,9 +3,9 @@ title: "Section 908 - Long-term lease authority for lighthouse property"
 usc_title: 14
 usc_section: "908"
 chapter: 9
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 908"
-generated_at: "2026-03-30T00:27:17.354Z"
+generated_at: "2026-03-30T00:29:57.727Z"
 ---
 
 # § 908. Long-term lease authority for lighthouse property

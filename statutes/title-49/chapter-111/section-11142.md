@@ -3,9 +3,9 @@ title: "Section 11142 - Uniform accounting system"
 usc_title: 49
 usc_section: "11142"
 chapter: 111
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 11142"
-generated_at: "2026-03-30T00:28:57.829Z"
+generated_at: "2026-03-30T00:32:23.592Z"
 ---
 
 # § 11142. Uniform accounting system

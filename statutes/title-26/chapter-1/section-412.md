@@ -3,9 +3,9 @@ title: "Section 412 - Minimum funding standards"
 usc_title: 26
 usc_section: "412"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 412"
-generated_at: "2026-03-30T00:27:56.036Z"
+generated_at: "2026-03-30T00:31:07.845Z"
 ---
 
 # § 412. Minimum funding standards

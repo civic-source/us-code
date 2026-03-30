@@ -3,9 +3,9 @@ title: "Section 1333 - Admiralty, maritime and prize cases"
 usc_title: 28
 usc_section: "1333"
 chapter: 85
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "28 U.S.C. § 1333"
-generated_at: "2026-03-30T00:27:47.115Z"
+generated_at: "2026-03-30T00:30:59.655Z"
 ---
 
 # § 1333. Admiralty, maritime and prize cases

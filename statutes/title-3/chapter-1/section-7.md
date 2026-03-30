@@ -3,9 +3,9 @@ title: "Section 7 - Meeting and vote of electors"
 usc_title: 3
 usc_section: "7"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "3 U.S.C. § 7"
-generated_at: "2026-03-30T00:26:33.320Z"
+generated_at: "2026-03-30T00:29:28.678Z"
 ---
 
 # § 7. Meeting and vote of electors

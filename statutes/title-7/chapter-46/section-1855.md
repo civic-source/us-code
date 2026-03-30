@@ -3,9 +3,9 @@ title: "Section 1855 - Supplemental appropriations to encourage exportation and 
 usc_title: 7
 usc_section: "1855"
 chapter: 46
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 1855"
-generated_at: "2026-03-30T00:26:57.146Z"
+generated_at: "2026-03-30T00:29:51.119Z"
 ---
 
 # § 1855. Supplemental appropriations to encourage exportation and domestic consumption of agricultural products

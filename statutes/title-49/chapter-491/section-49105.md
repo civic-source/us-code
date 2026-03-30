@@ -3,9 +3,9 @@ title: "Section 49105 - Capital improvements, construction, and rehabilitation"
 usc_title: 49
 usc_section: "49105"
 chapter: 491
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 49105"
-generated_at: "2026-03-30T00:28:57.911Z"
+generated_at: "2026-03-30T00:32:23.672Z"
 ---
 
 # § 49105. Capital improvements, construction, and rehabilitation

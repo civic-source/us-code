@@ -3,9 +3,9 @@ title: "Section 2802 - Definitions"
 usc_title: 19
 usc_section: "2802"
 chapter: 16
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "19 U.S.C. § 2802"
-generated_at: "2026-03-30T00:27:30.993Z"
+generated_at: "2026-03-30T00:30:36.443Z"
 ---
 
 # § 2802. Definitions

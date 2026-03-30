@@ -3,9 +3,9 @@ title: "Section 1 - Annual government-business forum on capital formation"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T00:27:23.428Z"
+generated_at: "2026-03-30T00:30:22.382Z"
 ---
 
 # § 80c–1. Annual government-business forum on capital formation

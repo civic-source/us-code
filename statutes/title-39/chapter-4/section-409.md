@@ -3,9 +3,9 @@ title: "Section 409 - Suits by and against the Postal Service"
 usc_title: 39
 usc_section: "409"
 chapter: 4
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "39 U.S.C. § 409"
-generated_at: "2026-03-30T00:28:13.581Z"
+generated_at: "2026-03-30T00:31:45.746Z"
 ---
 
 # § 409. Suits by and against the Postal Service

@@ -3,9 +3,9 @@ title: "Section 691 - Recipients of income in respect of decedents"
 usc_title: 26
 usc_section: "691"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 691"
-generated_at: "2026-03-30T00:27:56.077Z"
+generated_at: "2026-03-30T00:31:07.882Z"
 ---
 
 # § 691. Recipients of income in respect of decedents

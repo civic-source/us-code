@@ -3,9 +3,9 @@ title: "Section 8201 - Definitions"
 usc_title: 7
 usc_section: "8201"
 chapter: 108
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 8201"
-generated_at: "2026-03-30T00:26:57.250Z"
+generated_at: "2026-03-30T00:29:51.224Z"
 ---
 
 # § 8201. Definitions

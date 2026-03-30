@@ -3,9 +3,9 @@ title: "Section 12636 - Notice, hearing, and grievance procedures"
 usc_title: 42
 usc_section: "12636"
 chapter: 129
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 12636"
-generated_at: "2026-03-30T00:28:41.659Z"
+generated_at: "2026-03-30T00:32:13.813Z"
 ---
 
 # § 12636. Notice, hearing, and grievance procedures

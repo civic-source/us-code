@@ -3,9 +3,9 @@ title: "Section 1727d - Local currency accounts"
 usc_title: 7
 usc_section: "1727d"
 chapter: 41
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 1727d"
-generated_at: "2026-03-30T00:26:57.141Z"
+generated_at: "2026-03-30T00:29:51.114Z"
 ---
 
 # § 1727d. Local currency accounts

@@ -3,9 +3,9 @@ title: "Section 1708 - Temporary lodging"
 usc_title: 38
 usc_section: "1708"
 chapter: 17
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "38 U.S.C. § 1708"
-generated_at: "2026-03-30T00:28:16.814Z"
+generated_at: "2026-03-30T00:31:40.148Z"
 ---
 
 # § 1708. Temporary lodging

@@ -3,9 +3,9 @@ title: "Section 720b - Environmental reviews"
 usc_title: 15
 usc_section: "720b"
 chapter: 15
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 720b"
-generated_at: "2026-03-30T00:27:23.475Z"
+generated_at: "2026-03-30T00:30:22.431Z"
 ---
 
 # § 720b. Environmental reviews

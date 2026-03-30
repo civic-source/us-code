@@ -3,9 +3,9 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T00:28:41.312Z"
+generated_at: "2026-03-30T00:32:13.484Z"
 ---
 
 # § 1397cc. Coverage requirements for children’s health insurance
@@ -63,6 +63,7 @@ generated_at: "2026-03-30T00:28:41.312Z"
   - **(11)** Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397 ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 , and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title , of—
     - **(A)** a COVID–19 vaccine (and the administration of the vaccine); and
     - **(B)** testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State child health plan (or waiver of such plan).
+  - **(12)** Regardless of the type of coverage elected by a State under subsection (a), if the State child health plan or a waiver of such plan provides child health assistance or pregnancy-related assistance (as defined in section 1397 ll of this title) to an individual who is 19 years of age or older, such assistance shall include coverage of vaccines described in section 1396d(a)(13)(B) of this title and their administration.
 - **(d)**
   - **(1)** A program described in this paragraph is a child health coverage program that—
     - **(A)** includes coverage of a range of benefits;
@@ -76,7 +77,7 @@ generated_at: "2026-03-30T00:28:41.312Z"
   - **(1)**
     - **(A)** A State child health plan shall include a description, consistent with this subsection, of the amount (if any) of premiums, deductibles, coinsurance, and other cost sharing imposed. Any such charges shall be imposed pursuant to a public schedule.
     - **(B)** The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
-  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), services described in section 1396 o (a)(2)(G) of this title, vaccines described in section 1396 o (a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396 o (a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
+  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), vaccines described in subsection (c)(12) (and the administration of such vaccines), services described in section 1396 o (a)(2)(G) of this title, vaccines described in section 1396 o (a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396 o (a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
   - **(3)**
     - **(A)** In the case of a targeted low-income child whose family income is at or below 150 percent of the poverty line, the State child health plan may not impose—
       - **(i)** an enrollment fee, premium, or similar charge that exceeds the maximum monthly charge permitted consistent with standards established to carry out section 1396 o (b)(1) of this title (with respect to individuals described in such section); and

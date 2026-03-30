@@ -3,9 +3,9 @@ title: "Section 8739 - Certain oil shale reserves: transfer of jurisdiction and 
 usc_title: 10
 usc_section: "8739"
 chapter: 869
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 8739"
-generated_at: "2026-03-30T00:27:14.412Z"
+generated_at: "2026-03-30T00:29:43.982Z"
 ---
 
 # § 8739. Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production

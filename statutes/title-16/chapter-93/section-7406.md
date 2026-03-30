@@ -3,9 +3,9 @@ title: "Section 7406 - Prohibited acts"
 usc_title: 16
 usc_section: "7406"
 chapter: 93
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 7406"
-generated_at: "2026-03-30T00:27:35.225Z"
+generated_at: "2026-03-30T00:30:33.561Z"
 ---
 
 # § 7406. Prohibited acts

@@ -3,9 +3,9 @@ title: "Section 8 - Special debt relief for poorest, most heavily indebted count
 usc_title: 12
 usc_section: "8"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T00:27:20.311Z"
+generated_at: "2026-03-30T00:30:00.706Z"
 ---
 
 # § 635i–8. Special debt relief for poorest, most heavily indebted countries

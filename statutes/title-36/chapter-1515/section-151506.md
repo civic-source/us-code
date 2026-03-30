@@ -3,9 +3,9 @@ title: "Section 151506 - Powers"
 usc_title: 36
 usc_section: "151506"
 chapter: 1515
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "36 U.S.C. § 151506"
-generated_at: "2026-03-30T00:28:14.459Z"
+generated_at: "2026-03-30T00:31:40.874Z"
 ---
 
 # § 151506. Powers

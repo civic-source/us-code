@@ -3,9 +3,9 @@ title: "Section 300 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21
 usc_title: 43
 usc_section: "300"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "43 U.S.C. § 300"
-generated_at: "2026-03-30T00:28:20.629Z"
+generated_at: "2026-03-30T00:32:14.603Z"
 ---
 
 # § 300. Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 1976 , 90 Stat. 2792

@@ -3,9 +3,9 @@ title: "Section 1163 - Qualifying event"
 usc_title: 29
 usc_section: "1163"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "29 U.S.C. § 1163"
-generated_at: "2026-03-30T00:27:50.194Z"
+generated_at: "2026-03-30T00:31:13.915Z"
 ---
 
 # § 1163. Qualifying event

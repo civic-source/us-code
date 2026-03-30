@@ -3,9 +3,9 @@ title: "Section 8110 - Feedstock flexibility program for bioenergy producers"
 usc_title: 7
 usc_section: "8110"
 chapter: 107
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 8110"
-generated_at: "2026-03-30T00:26:57.248Z"
+generated_at: "2026-03-30T00:29:51.223Z"
 ---
 
 # § 8110. Feedstock flexibility program for bioenergy producers
@@ -17,11 +17,11 @@ generated_at: "2026-03-30T00:26:57.248Z"
   - **(4)** The term “eligible entity” means an entity located in the United States that markets an eligible commodity in the United States.
 - **(b)**
   - **(1)**
-    - **(A)** For each of the 2008 through 2023 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+    - **(A)** For each of the 2008 through 2024 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
     - **(B)** In carrying out the purchases and sales required under subparagraph (A), the Secretary shall, to the maximum extent practicable, use competitive procedures, including the receiving, offering, and accepting of bids, when entering into contracts with eligible entities and bioenergy producers, provided that such procedures are consistent with the purposes of subparagraph (A).
     - **(C)** The purchase and sale of eligible commodities under subparagraph (A) shall only be made in crop years in which such purchases and sales are necessary to ensure that the program authorized under section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
   - **(2)**
-    - **(A)** As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023 , the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+    - **(A)** As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2024 , the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
     - **(B)** Not later than the January 1, April 1, and July 1 of the calendar year following the date of a notice under subparagraph (A), the Secretary shall reestimate the quantity of eligible commodities determined under subparagraph (A), and provide notice and make purchases and sales based on such reestimates.
   - **(3)**
     - **(A)**

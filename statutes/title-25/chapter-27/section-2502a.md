@@ -3,9 +3,9 @@ title: "Section 2502a - Retrocession or re-assumption of Indian education funds"
 usc_title: 25
 usc_section: "2502a"
 chapter: 27
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "25 U.S.C. § 2502a"
-generated_at: "2026-03-30T00:27:39.457Z"
+generated_at: "2026-03-30T00:30:56.402Z"
 ---
 
 # § 2502a. Retrocession or re-assumption of Indian education funds

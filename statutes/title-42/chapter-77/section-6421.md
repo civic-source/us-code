@@ -3,9 +3,9 @@ title: "Section 6421 - Procedure for Congressional review of Presidential reques
 usc_title: 42
 usc_section: "6421"
 chapter: 77
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 6421"
-generated_at: "2026-03-30T00:28:41.499Z"
+generated_at: "2026-03-30T00:32:13.660Z"
 ---
 
 # § 6421. Procedure for Congressional review of Presidential requests to implement certain authorities

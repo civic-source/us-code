@@ -3,9 +3,9 @@ title: "Section 1173 - Regulations"
 usc_title: 16
 usc_section: "1173"
 chapter: 24
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 1173"
-generated_at: "2026-03-30T00:27:35.124Z"
+generated_at: "2026-03-30T00:30:33.465Z"
 ---
 
 # § 1173. Regulations

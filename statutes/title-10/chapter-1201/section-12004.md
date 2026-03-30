@@ -3,9 +3,9 @@ title: "Section 12004 - Strength in grade: reserve general and flag officers in 
 usc_title: 10
 usc_section: "12004"
 chapter: 1201
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 12004"
-generated_at: "2026-03-30T00:27:14.426Z"
+generated_at: "2026-03-30T00:29:43.995Z"
 ---
 
 # § 12004. Strength in grade: reserve general and flag officers in an active status

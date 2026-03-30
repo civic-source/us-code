@@ -3,9 +3,9 @@ title: "Section 2513 - Computation of length of service"
 usc_title: 14
 usc_section: "2513"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 2513"
-generated_at: "2026-03-30T00:27:17.360Z"
+generated_at: "2026-03-30T00:29:57.735Z"
 ---
 
 # § 2513. Computation of length of service

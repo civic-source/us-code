@@ -3,9 +3,9 @@ title: "Section 76j - Duties of Board"
 usc_title: 20
 usc_section: "76j"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 76j"
-generated_at: "2026-03-30T00:27:29.604Z"
+generated_at: "2026-03-30T00:30:27.902Z"
 ---
 
 # § 76j. Duties of Board

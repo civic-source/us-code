@@ -3,9 +3,9 @@ title: "Section 9522 - Codification of sanctions relating to the Russian Federat
 usc_title: 22
 usc_section: "9522"
 chapter: 102
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 9522"
-generated_at: "2026-03-30T00:27:43.404Z"
+generated_at: "2026-03-30T00:30:43.697Z"
 ---
 
 # § 9522. Codification of sanctions relating to the Russian Federation

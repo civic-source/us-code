@@ -3,9 +3,9 @@ title: "Section 723 - Support of Federal authorities in response to civil distur
 usc_title: 10
 usc_section: "723"
 chapter: 41
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 723"
-generated_at: "2026-03-30T00:27:14.277Z"
+generated_at: "2026-03-30T00:29:43.842Z"
 ---
 
 # § 723. Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel

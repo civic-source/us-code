@@ -3,9 +3,9 @@ title: "Section 167 - Unified combatant command for special operations forces"
 usc_title: 10
 usc_section: "167"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 167"
-generated_at: "2026-03-30T00:27:14.249Z"
+generated_at: "2026-03-30T00:29:43.816Z"
 ---
 
 # § 167. Unified combatant command for special operations forces

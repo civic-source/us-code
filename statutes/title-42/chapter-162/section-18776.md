@@ -3,9 +3,9 @@ title: "Section 18776 - Expansion of international energy data"
 usc_title: 42
 usc_section: "18776"
 chapter: 162
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 18776"
-generated_at: "2026-03-30T00:28:41.763Z"
+generated_at: "2026-03-30T00:32:13.915Z"
 ---
 
 # § 18776. Expansion of international energy data

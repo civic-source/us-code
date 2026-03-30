@@ -3,9 +3,9 @@ title: "Section 130 - Repealed. Pub. L. 95–391, title I, § 111 , Sept. 30, 19
 usc_title: 2
 usc_section: "130"
 chapter: 4
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 130"
-generated_at: "2026-03-30T00:26:48.059Z"
+generated_at: "2026-03-30T00:29:29.975Z"
 ---
 
 # § 130. Repealed. Pub. L. 95–391, title I, § 111 , Sept. 30, 1978 , 92 Stat. 777

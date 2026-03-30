@@ -3,9 +3,9 @@ title: "Section 2095 - Reports"
 usc_title: 42
 usc_section: "2095"
 chapter: 23
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 2095"
-generated_at: "2026-03-30T00:28:41.389Z"
+generated_at: "2026-03-30T00:32:13.557Z"
 ---
 
 # § 2095. Reports

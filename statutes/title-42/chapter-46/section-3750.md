@@ -3,9 +3,9 @@ title: "Section 3750 - Transferred"
 usc_title: 42
 usc_section: "3750"
 chapter: 46
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 3750"
-generated_at: "2026-03-30T00:28:41.433Z"
+generated_at: "2026-03-30T00:32:13.597Z"
 ---
 
 # § 3750. Transferred

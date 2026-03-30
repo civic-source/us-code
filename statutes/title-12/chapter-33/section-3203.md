@@ -3,9 +3,9 @@ title: "Section 3203 - Dual service of management official of $2,500,000,000 ins
 usc_title: 12
 usc_section: "3203"
 chapter: 33
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 3203"
-generated_at: "2026-03-30T00:27:20.430Z"
+generated_at: "2026-03-30T00:30:00.817Z"
 ---
 
 # § 3203. Dual service of management official of $2,500,000,000 institution or holding company as management official of unaffiliated $1,500,000,000 institution or holding company prohibited

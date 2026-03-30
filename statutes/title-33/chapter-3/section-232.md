@@ -3,9 +3,9 @@ title: "Section 232 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "232"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 232"
-generated_at: "2026-03-30T00:28:11.774Z"
+generated_at: "2026-03-30T00:31:18.325Z"
 ---
 
 # § 232. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

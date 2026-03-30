@@ -3,9 +3,9 @@ title: "Section 192a - Repealed. Pub. L. 91–412, § 3(a) , (b), Sept. 25, 1970
 usc_title: 15
 usc_section: "192a"
 chapter: 5
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 192a"
-generated_at: "2026-03-30T00:27:23.429Z"
+generated_at: "2026-03-30T00:30:22.383Z"
 ---
 
 # §§ 192, 192a. Repealed. Pub. L. 91–412, § 3(a) , (b), Sept. 25, 1970 , 84 Stat. 864

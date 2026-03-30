@@ -3,9 +3,9 @@ title: "Section 8102 - Compensation for disability or death of employee"
 usc_title: 5
 usc_section: "8102"
 chapter: 81
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 8102"
-generated_at: "2026-03-30T00:26:31.421Z"
+generated_at: "2026-03-30T00:29:32.449Z"
 ---
 
 # § 8102. Compensation for disability or death of employee

@@ -3,9 +3,9 @@ title: "Section 7364 - General powers"
 usc_title: 38
 usc_section: "7364"
 chapter: 73
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "38 U.S.C. § 7364"
-generated_at: "2026-03-30T00:28:16.862Z"
+generated_at: "2026-03-30T00:31:40.198Z"
 ---
 
 # § 7364. General powers

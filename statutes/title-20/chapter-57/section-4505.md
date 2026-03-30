@@ -3,9 +3,9 @@ title: "Section 4505 - Recipient’s choice of institution"
 usc_title: 20
 usc_section: "4505"
 chapter: 57
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 4505"
-generated_at: "2026-03-30T00:27:29.713Z"
+generated_at: "2026-03-30T00:30:28.008Z"
 ---
 
 # § 4505. Recipient’s choice of institution

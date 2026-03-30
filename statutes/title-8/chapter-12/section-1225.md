@@ -3,9 +3,9 @@ title: "Section 1225 - Inspection by immigration officers; expedited removal of 
 usc_title: 8
 usc_section: "1225"
 chapter: 12
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "8 U.S.C. § 1225"
-generated_at: "2026-03-30T00:27:02.293Z"
+generated_at: "2026-03-30T00:29:53.892Z"
 ---
 
 # § 1225. Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing

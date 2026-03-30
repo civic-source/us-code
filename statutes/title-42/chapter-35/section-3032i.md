@@ -3,9 +3,9 @@ title: "Section 3032i - Demonstration and support projects for legal assistance 
 usc_title: 42
 usc_section: "3032i"
 chapter: 35
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 3032i"
-generated_at: "2026-03-30T00:28:41.418Z"
+generated_at: "2026-03-30T00:32:13.583Z"
 ---
 
 # § 3032i. Demonstration and support projects for legal assistance for older individuals

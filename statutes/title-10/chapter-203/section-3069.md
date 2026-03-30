@@ -3,9 +3,9 @@ title: "Section 3069 - Buy-to-budget acquisition: end items"
 usc_title: 10
 usc_section: "3069"
 chapter: 203
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 3069"
-generated_at: "2026-03-30T00:27:14.369Z"
+generated_at: "2026-03-30T00:29:43.940Z"
 ---
 
 # § 3069. Buy-to-budget acquisition: end items

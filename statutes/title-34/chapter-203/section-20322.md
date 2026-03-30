@@ -3,9 +3,9 @@ title: "Section 20322 - Purpose"
 usc_title: 34
 usc_section: "20322"
 chapter: 203
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "34 U.S.C. § 20322"
-generated_at: "2026-03-30T00:27:59.947Z"
+generated_at: "2026-03-30T00:31:20.606Z"
 ---
 
 # § 20322. Purpose

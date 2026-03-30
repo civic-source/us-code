@@ -3,9 +3,9 @@ title: "Section 200401 - Definitions"
 usc_title: 54
 usc_section: "200401"
 chapter: 2004
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "54 U.S.C. § 200401"
-generated_at: "2026-03-30T00:29:16.282Z"
+generated_at: "2026-03-30T00:32:26.777Z"
 ---
 
 # § 200401. Definitions

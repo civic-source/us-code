@@ -3,9 +3,9 @@ title: "Section 4597 - Repealed. Pub. L. 94–455, title XIX, § 1904(a)(15) , O
 usc_title: 26
 usc_section: "4597"
 chapter: 38
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 4597"
-generated_at: "2026-03-30T00:27:56.154Z"
+generated_at: "2026-03-30T00:31:07.954Z"
 ---
 
 # [§§ 4591 to 4597. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(15) , Oct. 4, 1976 , 90 Stat. 1814 ]

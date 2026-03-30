@@ -3,9 +3,9 @@ title: "Section 953 - Private correspondence with foreign governments"
 usc_title: 18
 usc_section: "953"
 chapter: 45
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "18 U.S.C. § 953"
-generated_at: "2026-03-30T00:27:27.521Z"
+generated_at: "2026-03-30T00:30:29.120Z"
 ---
 
 # § 953. Private correspondence with foreign governments

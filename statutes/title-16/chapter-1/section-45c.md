@@ -3,9 +3,9 @@ title: "Section 45c - Prior claims, locations, and entries; permits for use of n
 usc_title: 16
 usc_section: "45c"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 45c"
-generated_at: "2026-03-30T00:27:34.952Z"
+generated_at: "2026-03-30T00:30:33.305Z"
 ---
 
 # § 45c. Prior claims, locations, and entries; permits for use of natural resources

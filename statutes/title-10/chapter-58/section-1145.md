@@ -3,9 +3,9 @@ title: "Section 1145 - Health benefits"
 usc_title: 10
 usc_section: "1145"
 chapter: 58
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 1145"
-generated_at: "2026-03-30T00:27:14.305Z"
+generated_at: "2026-03-30T00:29:43.869Z"
 ---
 
 # § 1145. Health benefits

@@ -3,9 +3,9 @@ title: "Section 1009 - Joint investigations and surveys by Secretary of the Army
 usc_title: 16
 usc_section: "1009"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 1009"
-generated_at: "2026-03-30T00:27:35.120Z"
+generated_at: "2026-03-30T00:30:33.462Z"
 ---
 
 # § 1009. Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress

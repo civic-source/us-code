@@ -3,9 +3,9 @@ title: "Section 7543 - Cause and procedure"
 usc_title: 5
 usc_section: "7543"
 chapter: 75
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 7543"
-generated_at: "2026-03-30T00:26:31.420Z"
+generated_at: "2026-03-30T00:29:32.448Z"
 ---
 
 # § 7543. Cause and procedure

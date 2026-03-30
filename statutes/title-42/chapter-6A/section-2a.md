@@ -3,9 +3,9 @@ title: "Section 2a - Peer support technical assistance center"
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T00:28:41.015Z"
+generated_at: "2026-03-30T00:32:13.208Z"
 ---
 
 # § 290ee–2a. Peer support technical assistance center

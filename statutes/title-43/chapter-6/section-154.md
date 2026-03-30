@@ -3,9 +3,9 @@ title: "Section 154 - Vacation of withdrawals under reclamation law; lands valua
 usc_title: 43
 usc_section: "154"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "43 U.S.C. § 154"
-generated_at: "2026-03-30T00:28:20.628Z"
+generated_at: "2026-03-30T00:32:14.602Z"
 ---
 
 # § 154. Vacation of withdrawals under reclamation law; lands valuable for minerals; reservation of rights, ways, and easements; rules and regulations

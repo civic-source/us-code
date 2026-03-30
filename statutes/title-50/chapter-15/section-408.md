@@ -3,9 +3,9 @@ title: "Section 408 - Transferred"
 usc_title: 50
 usc_section: "408"
 chapter: 15
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "50 U.S.C. § 408"
-generated_at: "2026-03-30T00:28:48.545Z"
+generated_at: "2026-03-30T00:32:20.159Z"
 ---
 
 # § 408. Transferred

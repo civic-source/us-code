@@ -3,9 +3,9 @@ title: "Section 698n - Timucuan Ecological and Historic Preserve"
 usc_title: 16
 usc_section: "698n"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 698n"
-generated_at: "2026-03-30T00:27:35.087Z"
+generated_at: "2026-03-30T00:30:33.431Z"
 ---
 
 # § 698n. Timucuan Ecological and Historic Preserve

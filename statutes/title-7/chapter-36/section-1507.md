@@ -3,9 +3,9 @@ title: "Section 1507 - Personnel of Corporation"
 usc_title: 7
 usc_section: "1507"
 chapter: 36
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 1507"
-generated_at: "2026-03-30T00:26:57.126Z"
+generated_at: "2026-03-30T00:29:51.098Z"
 ---
 
 # § 1507. Personnel of Corporation

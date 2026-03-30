@@ -3,9 +3,9 @@ title: "Section 1472 - Department of State and other Government agencies"
 usc_title: 22
 usc_section: "1472"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 1472"
-generated_at: "2026-03-30T00:27:43.252Z"
+generated_at: "2026-03-30T00:30:43.551Z"
 ---
 
 # § 1472. Department of State and other Government agencies

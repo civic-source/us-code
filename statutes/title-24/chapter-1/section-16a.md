@@ -3,9 +3,9 @@ title: "Section 16a - Additional personnel for patients of Department of Veteran
 usc_title: 24
 usc_section: "16a"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "24 U.S.C. § 16a"
-generated_at: "2026-03-30T00:27:37.200Z"
+generated_at: "2026-03-30T00:30:39.895Z"
 ---
 
 # § 16a. Additional personnel for patients of Department of Veterans Affairs in naval hospitals

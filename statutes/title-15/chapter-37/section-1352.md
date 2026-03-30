@@ -3,9 +3,9 @@ title: "Section 1352 - Definitions"
 usc_title: 15
 usc_section: "1352"
 chapter: 37
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 1352"
-generated_at: "2026-03-30T00:27:23.547Z"
+generated_at: "2026-03-30T00:30:22.447Z"
 ---
 
 # § 1352. Definitions

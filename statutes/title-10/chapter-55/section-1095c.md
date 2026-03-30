@@ -3,9 +3,9 @@ title: "Section 1095c - TRICARE program: facilitation of processing of claims"
 usc_title: 10
 usc_section: "1095c"
 chapter: 55
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 1095c"
-generated_at: "2026-03-30T00:27:14.301Z"
+generated_at: "2026-03-30T00:29:43.865Z"
 ---
 
 # § 1095c. TRICARE program: facilitation of processing of claims

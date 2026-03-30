@@ -3,9 +3,9 @@ title: "Section 2202 - Payments to agricultural producers for carrying out water
 usc_title: 16
 usc_section: "2202"
 chapter: 42
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 2202"
-generated_at: "2026-03-30T00:27:35.170Z"
+generated_at: "2026-03-30T00:30:33.508Z"
 ---
 
 # § 2202. Payments to agricultural producers for carrying out water conservation or water enhancing measures; criteria

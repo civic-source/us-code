@@ -3,9 +3,9 @@ title: "Section 2171 - Education loan repayment program: enlisted members on act
 usc_title: 10
 usc_section: "2171"
 chapter: 109
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2171"
-generated_at: "2026-03-30T00:27:14.332Z"
+generated_at: "2026-03-30T00:29:43.899Z"
 ---
 
 # § 2171. Education loan repayment program: enlisted members on active duty in specified military specialties

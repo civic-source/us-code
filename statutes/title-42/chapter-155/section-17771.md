@@ -3,9 +3,9 @@ title: "Section 17771 - Transferred"
 usc_title: 42
 usc_section: "17771"
 chapter: 155
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 17771"
-generated_at: "2026-03-30T00:28:41.744Z"
+generated_at: "2026-03-30T00:32:13.895Z"
 ---
 
 # § 17771. Transferred

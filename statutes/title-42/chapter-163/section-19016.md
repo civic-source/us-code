@@ -3,9 +3,9 @@ title: "Section 19016 - Chief Diversity Officer of the NSF"
 usc_title: 42
 usc_section: "19016"
 chapter: 163
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 19016"
-generated_at: "2026-03-30T00:28:41.770Z"
+generated_at: "2026-03-30T00:32:13.922Z"
 ---
 
 # § 19016. Chief Diversity Officer of the NSF
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T00:28:41.770Z"
     - **(A)** directly linked to key organizational priorities and goals;
     - **(B)** actionable; and
     - **(C)** actively used to implement the strategic plan under paragraph (1);
-  - **(3)** advising in the establishment of a strategic plan for diverse participation by individuals and institutions of higher education, including community colleges, historically Black colleges and universities, Tribal Colleges or Universities, minority serving institutions, institutions of higher education with an established STEM capacity building program focused on Native Hawaiians or Alaska Natives, and EPSCoR institutions);
+  - **(3)** advising in the establishment of a strategic plan for diverse participation by individuals and institutions of higher education, including community colleges, historically Black colleges and universities, Tribal Colleges or Universities, minority serving institutions, institutions of higher education with an established STEM capacity building program focused on Native Hawaiians or Alaska Natives, and EPSCoR institutions); 1 1 So in original. The closing parenthesis probably should not appear.
   - **(4)** advising in the establishment of a strategic plan for outreach to, and recruiting from, untapped locations and underrepresented populations;
   - **(5)** advising on a diversity and inclusion strategy for the Foundation’s portfolio of PreK–12 STEM education focused programs and activities, including goals for addressing barriers to participation;
   - **(6)** advising on the application of the Foundation’s broader impacts review criterion; and

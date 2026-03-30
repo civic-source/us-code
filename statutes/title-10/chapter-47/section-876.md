@@ -3,9 +3,9 @@ title: "Section 876 - Art. 76. Finality of proceedings, findings, and sentences"
 usc_title: 10
 usc_section: "876"
 chapter: 47
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 876"
-generated_at: "2026-03-30T00:27:14.282Z"
+generated_at: "2026-03-30T00:29:43.848Z"
 ---
 
 # § 876. Art. 76. Finality of proceedings, findings, and sentences

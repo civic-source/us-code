@@ -3,9 +3,9 @@ title: "Section 2249c - Renumbered § 345]"
 usc_title: 10
 usc_section: "2249c"
 chapter: 134
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2249c"
-generated_at: "2026-03-30T00:27:14.337Z"
+generated_at: "2026-03-30T00:29:43.904Z"
 ---
 
 # [§ 2249c. Renumbered § 345]

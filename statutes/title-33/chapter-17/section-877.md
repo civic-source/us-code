@@ -3,9 +3,9 @@ title: "Section 877 - Appropriations; advances from"
 usc_title: 33
 usc_section: "877"
 chapter: 17
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "33 U.S.C. § 877"
-generated_at: "2026-03-30T00:28:11.792Z"
+generated_at: "2026-03-30T00:31:18.344Z"
 ---
 
 # § 877. Appropriations; advances from

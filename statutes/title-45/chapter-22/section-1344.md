@@ -3,9 +3,9 @@ title: "Section 1344 - Status of Conrail after sale"
 usc_title: 45
 usc_section: "1344"
 chapter: 22
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "45 U.S.C. § 1344"
-generated_at: "2026-03-30T00:28:21.044Z"
+generated_at: "2026-03-30T00:31:48.630Z"
 ---
 
 # § 1344. Status of Conrail after sale

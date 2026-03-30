@@ -3,9 +3,9 @@ title: "Section 7300 - Report to Congress; effect on personnel"
 usc_title: 42
 usc_section: "7300"
 chapter: 84
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 7300"
-generated_at: "2026-03-30T00:28:41.525Z"
+generated_at: "2026-03-30T00:32:13.685Z"
 ---
 
 # § 7300. Report to Congress; effect on personnel

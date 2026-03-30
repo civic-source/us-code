@@ -3,9 +3,9 @@ title: "Section 2014a - Notice of change in State of residence of certified hous
 usc_title: 7
 usc_section: "2014a"
 chapter: 51
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 2014a"
-generated_at: "2026-03-30T00:26:57.161Z"
+generated_at: "2026-03-30T00:29:51.136Z"
 ---
 
 # § 2014a. Notice of change in State of residence of certified household

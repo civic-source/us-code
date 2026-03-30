@@ -3,9 +3,9 @@ title: "Section 1400 - Approval of amendments"
 usc_title: 29
 usc_section: "1400"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "29 U.S.C. § 1400"
-generated_at: "2026-03-30T00:27:50.210Z"
+generated_at: "2026-03-30T00:31:13.931Z"
 ---
 
 # § 1400. Approval of amendments

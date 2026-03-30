@@ -3,9 +3,9 @@ title: "Section 19281 - Foundation for Energy Security and Innovation"
 usc_title: 42
 usc_section: "19281"
 chapter: 163
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 19281"
-generated_at: "2026-03-30T00:28:41.777Z"
+generated_at: "2026-03-30T00:32:13.930Z"
 ---
 
 # § 19281. Foundation for Energy Security and Innovation

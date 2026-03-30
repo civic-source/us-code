@@ -3,9 +3,9 @@ title: "Section 5925c - Organic production and market data initiatives"
 usc_title: 7
 usc_section: "5925c"
 chapter: 88
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 5925c"
-generated_at: "2026-03-30T00:26:57.207Z"
+generated_at: "2026-03-30T00:29:51.182Z"
 ---
 
 # § 5925c. Organic production and market data initiatives
@@ -21,6 +21,7 @@ generated_at: "2026-03-30T00:26:57.207Z"
   - **(3)** identifies any additional production and marketing data needs.
 - **(d)**
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
-    - **(A)** $5,000,000 for each of the periods of fiscal years 2008 through 2012 and 2014 through 2018; and
-    - **(B)** $5,000,000 for the period of fiscal years 2019 through 2023.
+    - **(A)** $5,000,000 for each of the periods of fiscal years 2008 through 2012 and 2014 through 2018;
+    - **(B)** $5,000,000 for the period of fiscal years 2019 through 2023; and
+    - **(C)** $1,000,000 for fiscal year 2024.
   - **(2)** In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.

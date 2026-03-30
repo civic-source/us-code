@@ -3,9 +3,9 @@ title: "Section 112 - Requirements for and contracts with prescription drug plan
 usc_title: 42
 usc_section: "112"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T00:28:41.230Z"
+generated_at: "2026-03-30T00:32:13.409Z"
 ---
 
 # § 1395w–112. Requirements for and contracts with prescription drug plan (PDP) sponsors

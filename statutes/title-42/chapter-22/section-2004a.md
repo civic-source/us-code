@@ -3,9 +3,9 @@ title: "Section 2004a - Sanitation facilities"
 usc_title: 42
 usc_section: "2004a"
 chapter: 22
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 2004a"
-generated_at: "2026-03-30T00:28:41.384Z"
+generated_at: "2026-03-30T00:32:13.553Z"
 ---
 
 # § 2004a. Sanitation facilities

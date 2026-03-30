@@ -3,9 +3,9 @@ title: "Section 9565 - Colors, standards, and guidons of demobilized organizatio
 usc_title: 10
 usc_section: "9565"
 chapter: 965
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 9565"
-generated_at: "2026-03-30T00:27:14.422Z"
+generated_at: "2026-03-30T00:29:43.991Z"
 ---
 
 # § 9565. Colors, standards, and guidons of demobilized organizations: disposition

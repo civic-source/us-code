@@ -3,9 +3,9 @@ title: "Section 3323 - Eligibility for incentive awards"
 usc_title: 50
 usc_section: "3323"
 chapter: 45
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "50 U.S.C. § 3323"
-generated_at: "2026-03-30T00:28:48.596Z"
+generated_at: "2026-03-30T00:32:20.204Z"
 ---
 
 # § 3323. Eligibility for incentive awards

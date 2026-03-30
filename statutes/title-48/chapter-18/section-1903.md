@@ -3,9 +3,9 @@ title: "Section 1903 - Agreements with and other provisions related to Marshall 
 usc_title: 48
 usc_section: "1903"
 chapter: 18
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "48 U.S.C. § 1903"
-generated_at: "2026-03-30T00:28:44.885Z"
+generated_at: "2026-03-30T00:32:24.588Z"
 ---
 
 # § 1903. Agreements with and other provisions related to Marshall Islands

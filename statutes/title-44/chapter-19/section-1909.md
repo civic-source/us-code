@@ -3,9 +3,9 @@ title: "Section 1909 - Requirements of depository libraries; reports on conditio
 usc_title: 44
 usc_section: "1909"
 chapter: 19
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "44 U.S.C. § 1909"
-generated_at: "2026-03-30T00:28:19.011Z"
+generated_at: "2026-03-30T00:31:52.166Z"
 ---
 
 # § 1909. Requirements of depository libraries; reports on conditions; investigations; termination; replacement

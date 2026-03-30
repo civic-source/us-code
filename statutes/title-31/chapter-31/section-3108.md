@@ -3,9 +3,9 @@ title: "Section 3108 - Prohibition against circulation privilege"
 usc_title: 31
 usc_section: "3108"
 chapter: 31
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "31 U.S.C. § 3108"
-generated_at: "2026-03-30T00:28:09.059Z"
+generated_at: "2026-03-30T00:31:19.442Z"
 ---
 
 # § 3108. Prohibition against circulation privilege

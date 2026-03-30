@@ -3,9 +3,9 @@ title: "Section 2106 - Reporting information believed to constitute evidence of 
 usc_title: 41
 usc_section: "2106"
 chapter: 21
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "41 U.S.C. § 2106"
-generated_at: "2026-03-30T00:28:19.761Z"
+generated_at: "2026-03-30T00:31:47.913Z"
 ---
 
 # § 2106. Reporting information believed to constitute evidence of offense

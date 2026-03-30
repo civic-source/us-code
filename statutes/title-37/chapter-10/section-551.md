@@ -3,9 +3,9 @@ title: "Section 551 - Definitions"
 usc_title: 37
 usc_section: "551"
 chapter: 10
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "37 U.S.C. § 551"
-generated_at: "2026-03-30T00:28:17.204Z"
+generated_at: "2026-03-30T00:31:37.683Z"
 ---
 
 # § 551. Definitions

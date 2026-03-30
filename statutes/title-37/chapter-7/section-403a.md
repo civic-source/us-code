@@ -3,9 +3,9 @@ title: "Section 403a - Housing treatment for certain members of the armed forces
 usc_title: 37
 usc_section: "403a"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "37 U.S.C. § 403a"
-generated_at: "2026-03-30T00:28:17.201Z"
+generated_at: "2026-03-30T00:31:37.681Z"
 ---
 
 # § 403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States

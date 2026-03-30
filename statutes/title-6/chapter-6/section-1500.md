@@ -3,9 +3,9 @@ title: "Section 1500 - National Cyber Director"
 usc_title: 6
 usc_section: "1500"
 chapter: 6
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "6 U.S.C. § 1500"
-generated_at: "2026-03-30T00:26:51.994Z"
+generated_at: "2026-03-30T00:29:45.340Z"
 ---
 
 # § 1500. National Cyber Director

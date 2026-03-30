@@ -3,9 +3,9 @@ title: "Section 9461 - Department of Energy artificial intelligence research pro
 usc_title: 15
 usc_section: "9461"
 chapter: 119
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 9461"
-generated_at: "2026-03-30T00:27:23.669Z"
+generated_at: "2026-03-30T00:30:22.566Z"
 ---
 
 # § 9461. Department of Energy artificial intelligence research program

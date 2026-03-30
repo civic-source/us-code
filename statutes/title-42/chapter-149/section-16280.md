@@ -3,9 +3,9 @@ title: "Section 16280 - Advanced Nuclear Energy Licensing Cost-Share Grant Progr
 usc_title: 42
 usc_section: "16280"
 chapter: 149
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 16280"
-generated_at: "2026-03-30T00:28:41.714Z"
+generated_at: "2026-03-30T00:32:13.866Z"
 ---
 
 # § 16280. Advanced Nuclear Energy Licensing Cost-Share Grant Program

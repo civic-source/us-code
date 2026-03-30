@@ -3,9 +3,9 @@ title: "Section 742i - Effect on rights of States and international commissions"
 usc_title: 16
 usc_section: "742i"
 chapter: 9
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 742i"
-generated_at: "2026-03-30T00:27:35.092Z"
+generated_at: "2026-03-30T00:30:33.436Z"
 ---
 
 # § 742i. Effect on rights of States and international commissions

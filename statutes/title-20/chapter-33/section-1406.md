@@ -3,9 +3,9 @@ title: "Section 1406 - Requirements for prescribing regulations"
 usc_title: 20
 usc_section: "1406"
 chapter: 33
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 1406"
-generated_at: "2026-03-30T00:27:29.686Z"
+generated_at: "2026-03-30T00:30:27.981Z"
 ---
 
 # § 1406. Requirements for prescribing regulations

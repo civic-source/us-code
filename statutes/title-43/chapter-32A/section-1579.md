@@ -3,9 +3,9 @@ title: "Section 1579 - Fish and wildlife habitat; mitigation of losses"
 usc_title: 43
 usc_section: "1579"
 chapter: 32
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "43 U.S.C. § 1579"
-generated_at: "2026-03-30T00:28:20.670Z"
+generated_at: "2026-03-30T00:32:14.639Z"
 ---
 
 # § 1579. Fish and wildlife habitat; mitigation of losses

@@ -3,9 +3,9 @@ title: "Section 18911 - Basic energy sciences program"
 usc_title: 42
 usc_section: "18911"
 chapter: 163
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 18911"
-generated_at: "2026-03-30T00:28:41.766Z"
+generated_at: "2026-03-30T00:32:13.917Z"
 ---
 
 # § 18911. Basic energy sciences program

@@ -3,9 +3,9 @@ title: "Section 1421d - Unusual mortality event activity funding"
 usc_title: 16
 usc_section: "1421d"
 chapter: 31
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 1421d"
-generated_at: "2026-03-30T00:27:35.142Z"
+generated_at: "2026-03-30T00:30:33.482Z"
 ---
 
 # § 1421d. Unusual mortality event activity funding
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T00:27:35.142Z"
 - **(b)** Amounts in the Fund shall be available only for use by the Secretary, in consultation with the Secretary of the Interior, and dispersed among claimants based on budgets approved by the Secretary prior to expenditure—
   - **(1)** to make advance, partial, or progress payments under contracts or other funding mechanisms for property, supplies, salaries, services, and travel costs incurred in acting in accordance with the contingency plan issued under section 1421c(b) of this title or under the direction of an Onsite Coordinator for an unusual mortality event designated under section 1421c(a)(2)(B)(iii) of this title ;
   - **(2)** for reimbursing any stranding network participant for costs incurred in the collection, preparation, analysis, and transportation of marine mammal tissues and samples collected with respect to an unusual mortality event for the Tissue Bank; and
-  - **(3)** for the care and maintenance of a marine mammal seized under section 1374(c)(2)(D) of this title ; and
+  - **(3)** for the care and maintenance of a marine mammal seized under section 1374(c)(2)(D) of this title ; and 1 1 So in original.
 - **(c)** There shall be deposited into the Fund—
   - **(1)** amounts appropriated to the Fund;
   - **(2)** other amounts appropriated to the Secretary for use with respect to unusual mortality events; and

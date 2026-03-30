@@ -3,9 +3,9 @@ title: "Section 503 - Transferred"
 usc_title: 25
 usc_section: "503"
 chapter: 14
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "25 U.S.C. § 503"
-generated_at: "2026-03-30T00:27:39.425Z"
+generated_at: "2026-03-30T00:30:56.369Z"
 ---
 
 # § 503. Transferred

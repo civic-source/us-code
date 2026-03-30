@@ -3,9 +3,9 @@ title: "Section 4061 - Defense Research and Development Rapid Innovation Program
 usc_title: 10
 usc_section: "4061"
 chapter: 303
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 4061"
-generated_at: "2026-03-30T00:27:14.379Z"
+generated_at: "2026-03-30T00:29:43.950Z"
 ---
 
 # § 4061. Defense Research and Development Rapid Innovation Program

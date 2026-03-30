@@ -3,9 +3,9 @@ title: "Section 125 - Patents in North Platte Reclamation Project; mineral right
 usc_title: 30
 usc_section: "125"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "30 U.S.C. § 125"
-generated_at: "2026-03-30T00:27:45.673Z"
+generated_at: "2026-03-30T00:31:02.949Z"
 ---
 
 # § 125. Patents in North Platte Reclamation Project; mineral rights; subrogation

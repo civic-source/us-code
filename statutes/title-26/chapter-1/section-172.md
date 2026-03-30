@@ -3,9 +3,9 @@ title: "Section 172 - Net operating loss deduction"
 usc_title: 26
 usc_section: "172"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 172"
-generated_at: "2026-03-30T00:27:56.003Z"
+generated_at: "2026-03-30T00:31:07.814Z"
 ---
 
 # § 172. Net operating loss deduction

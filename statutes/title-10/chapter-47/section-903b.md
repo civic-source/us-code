@@ -3,9 +3,9 @@ title: "Section 903b - Art. 103b. Aiding the enemy"
 usc_title: 10
 usc_section: "903b"
 chapter: 47
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 903b"
-generated_at: "2026-03-30T00:27:14.283Z"
+generated_at: "2026-03-30T00:29:43.848Z"
 ---
 
 # § 903b. Art. 103b. Aiding the enemy

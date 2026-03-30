@@ -3,9 +3,9 @@ title: "Section 1m - Quota increase to 10,622,500,000 Special Drawing Rights"
 usc_title: 22
 usc_section: "1m"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 1m"
-generated_at: "2026-03-30T00:27:43.236Z"
+generated_at: "2026-03-30T00:30:43.534Z"
 ---
 
 # § 286e–1m. Quota increase to 10,622,500,000 Special Drawing Rights

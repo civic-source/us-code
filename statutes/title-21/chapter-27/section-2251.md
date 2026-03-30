@@ -3,9 +3,9 @@ title: "Section 2251 - Jurisdiction; authorities"
 usc_title: 21
 usc_section: "2251"
 chapter: 27
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "21 U.S.C. § 2251"
-generated_at: "2026-03-30T00:27:40.678Z"
+generated_at: "2026-03-30T00:30:46.871Z"
 ---
 
 # § 2251. Jurisdiction; authorities

@@ -3,9 +3,9 @@ title: "Section 5382 - Judicial review"
 usc_title: 12
 usc_section: "5382"
 chapter: 53
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 5382"
-generated_at: "2026-03-30T00:27:20.471Z"
+generated_at: "2026-03-30T00:30:00.861Z"
 ---
 
 # § 5382. Judicial review

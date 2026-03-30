@@ -3,9 +3,9 @@ title: "Section 4367 - Reporting requirements of financial interests of officers
 usc_title: 42
 usc_section: "4367"
 chapter: 55
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 4367"
-generated_at: "2026-03-30T00:28:41.444Z"
+generated_at: "2026-03-30T00:32:13.607Z"
 ---
 
 # § 4367. Reporting requirements of financial interests of officers and employees of Environmental Protection Agency

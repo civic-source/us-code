@@ -3,9 +3,9 @@ title: "Section 11214 - Grants to private entities; staffing"
 usc_title: 34
 usc_section: "11214"
 chapter: 111
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "34 U.S.C. § 11214"
-generated_at: "2026-03-30T00:27:59.929Z"
+generated_at: "2026-03-30T00:31:20.587Z"
 ---
 
 # § 11214. Grants to private entities; staffing

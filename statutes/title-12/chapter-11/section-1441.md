@@ -3,9 +3,9 @@ title: "Section 1441 - Financing Corporation"
 usc_title: 12
 usc_section: "1441"
 chapter: 11
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 1441"
-generated_at: "2026-03-30T00:27:20.315Z"
+generated_at: "2026-03-30T00:30:00.710Z"
 ---
 
 # § 1441. Financing Corporation

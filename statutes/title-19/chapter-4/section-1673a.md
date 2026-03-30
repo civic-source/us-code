@@ -3,9 +3,9 @@ title: "Section 1673a - Procedures for initiating an antidumping duty investigat
 usc_title: 19
 usc_section: "1673a"
 chapter: 4
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "19 U.S.C. § 1673a"
-generated_at: "2026-03-30T00:27:30.962Z"
+generated_at: "2026-03-30T00:30:36.410Z"
 ---
 
 # § 1673a. Procedures for initiating an antidumping duty investigation

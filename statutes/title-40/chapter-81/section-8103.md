@@ -3,9 +3,9 @@ title: "Section 8103 - Application of District of Columbia laws to public buildi
 usc_title: 40
 usc_section: "8103"
 chapter: 81
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "40 U.S.C. § 8103"
-generated_at: "2026-03-30T00:28:15.388Z"
+generated_at: "2026-03-30T00:31:38.624Z"
 ---
 
 # § 8103. Application of District of Columbia laws to public buildings and grounds

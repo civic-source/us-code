@@ -3,9 +3,9 @@ title: "Section 1906 - Enforcement"
 usc_title: 21
 usc_section: "1906"
 chapter: 24
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "21 U.S.C. § 1906"
-generated_at: "2026-03-30T00:27:40.674Z"
+generated_at: "2026-03-30T00:30:46.868Z"
 ---
 
 # § 1906. Enforcement

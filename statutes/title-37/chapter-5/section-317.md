@@ -3,9 +3,9 @@ title: "Section 317 - Special pay: officers in critical acquisition positions ex
 usc_title: 37
 usc_section: "317"
 chapter: 5
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "37 U.S.C. § 317"
-generated_at: "2026-03-30T00:28:17.197Z"
+generated_at: "2026-03-30T00:31:37.676Z"
 ---
 
 # § 317. Special pay: officers in critical acquisition positions extending period of active duty

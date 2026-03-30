@@ -3,9 +3,9 @@ title: "Section 957 - Right of way to electric power companies"
 usc_title: 43
 usc_section: "957"
 chapter: 22
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "43 U.S.C. § 957"
-generated_at: "2026-03-30T00:28:20.659Z"
+generated_at: "2026-03-30T00:32:14.628Z"
 ---
 
 # § 957. Right of way to electric power companies

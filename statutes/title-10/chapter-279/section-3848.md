@@ -3,9 +3,9 @@ title: "Section 3848 - Defense audit agencies: Small Business Ombudsmen"
 usc_title: 10
 usc_section: "3848"
 chapter: 279
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 3848"
-generated_at: "2026-03-30T00:27:14.378Z"
+generated_at: "2026-03-30T00:29:43.949Z"
 ---
 
 # § 3848. Defense audit agencies: Small Business Ombudsmen

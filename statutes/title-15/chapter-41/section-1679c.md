@@ -3,9 +3,9 @@ title: "Section 1679c - Disclosures"
 usc_title: 15
 usc_section: "1679c"
 chapter: 41
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 1679c"
-generated_at: "2026-03-30T00:27:23.563Z"
+generated_at: "2026-03-30T00:30:22.459Z"
 ---
 
 # § 1679c. Disclosures

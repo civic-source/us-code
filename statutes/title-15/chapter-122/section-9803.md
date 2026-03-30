@@ -3,9 +3,9 @@ title: "Section 9803 - Responsibilities of the Assistant Secretary of Commerce f
 usc_title: 15
 usc_section: "9803"
 chapter: 122
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "15 U.S.C. § 9803"
-generated_at: "2026-03-30T00:27:23.672Z"
+generated_at: "2026-03-30T00:30:22.569Z"
 ---
 
 # § 9803. Responsibilities of the Assistant Secretary of Commerce for travel and tourism

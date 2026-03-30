@@ -3,9 +3,9 @@ title: "Section 1711 - Authorization of appropriations for hiring and training G
 usc_title: 8
 usc_section: "1711"
 chapter: 15
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "8 U.S.C. § 1711"
-generated_at: "2026-03-30T00:27:02.316Z"
+generated_at: "2026-03-30T00:29:53.916Z"
 ---
 
 # § 1711. Authorization of appropriations for hiring and training Government personnel

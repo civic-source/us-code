@@ -3,9 +3,9 @@ title: "Section 3713 - Active duty for emergency augmentation of regular forces"
 usc_title: 14
 usc_section: "3713"
 chapter: 37
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 3713"
-generated_at: "2026-03-30T00:27:17.363Z"
+generated_at: "2026-03-30T00:29:57.737Z"
 ---
 
 # § 3713. Active duty for emergency augmentation of regular forces

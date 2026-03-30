@@ -3,9 +3,9 @@ title: "Section 7007 - Under Secretary of Agriculture for Trade and Foreign Agri
 usc_title: 7
 usc_section: "7007"
 chapter: 98
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 7007"
-generated_at: "2026-03-30T00:26:57.224Z"
+generated_at: "2026-03-30T00:29:51.199Z"
 ---
 
 # § 7007. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs

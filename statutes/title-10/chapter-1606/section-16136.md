@@ -3,9 +3,9 @@ title: "Section 16136 - Administration of program"
 usc_title: 10
 usc_section: "16136"
 chapter: 1606
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 16136"
-generated_at: "2026-03-30T00:27:14.436Z"
+generated_at: "2026-03-30T00:29:44.004Z"
 ---
 
 # § 16136. Administration of program

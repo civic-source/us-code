@@ -3,9 +3,9 @@ title: "Section 251 - Reissue of defective patents"
 usc_title: 35
 usc_section: "251"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "35 U.S.C. § 251"
-generated_at: "2026-03-30T00:27:58.916Z"
+generated_at: "2026-03-30T00:31:35.690Z"
 ---
 
 # § 251. Reissue of defective patents

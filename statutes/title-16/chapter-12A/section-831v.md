@@ -3,9 +3,9 @@ title: "Section 831v - Legislation to carry out purposes of chapter; recommendat
 usc_title: 16
 usc_section: "831v"
 chapter: 12
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 831v"
-generated_at: "2026-03-30T00:27:35.109Z"
+generated_at: "2026-03-30T00:30:33.452Z"
 ---
 
 # § 831v. Legislation to carry out purposes of chapter; recommendation by President

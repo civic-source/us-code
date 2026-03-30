@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-30T00:28:41.145Z"
+generated_at: "2026-03-30T00:32:13.329Z"
 ---
 
 # § 711. Maternal, infant, and early childhood home visiting programs
@@ -120,7 +120,14 @@ generated_at: "2026-03-30T00:28:41.145Z"
       - **(iv)** The program demonstrates strong organizational capacity to implement the activities involved.
       - **(v)** The program establishes appropriate linkages and referral networks to other community resources and supports for eligible families.
       - **(vi)** The program monitors the fidelity of program implementation to ensure that services are delivered pursuant to the specified model.
-  - **(4)** The eligible entity gives priority to providing services under the program to the following:
+      - **(vii)** If the application submitted by the eligible entity includes the assurance described in subsection (e)(10)(C) with respect to the program, the program provides in-person service consistent with the assurances.
+  - **(4)**
+    - **(A)** A virtual home visit conducted under the program shall be considered a home visit for purposes of this section if the application for funding of the program submitted pursuant to this section most recently after the effective date of this paragraph includes the material described in subsection (e)(10).
+    - **(B)** The standards for training requirements applicable to virtual service delivery under a home visiting model shall be equivalent to those that apply to in-person service delivery under the model.
+    - **(C)** A grant made under this section for the program may not be used for any virtual home visit during a year, unless the eligible entity to which the grant is made submits the report described in subsection (e)(8)(A) for the year.
+    - **(D)** In this section, the term “virtual home visit” means a visit conducted solely by use of electronic information and telecommunications technologies.
+    - **(E)** If the Secretary finds that an eligible entity has not complied with the assurance described in subsection (e)(10)(C), the Secretary shall, directly or through grants, contracts, or cooperative agreements, provide the eligible entity with such technical assistance as is necessary to assist the eligible entity in doing so.
+  - **(5)** The eligible entity gives priority to providing services under the program to the following:
     - **(A)** Eligible families who reside in communities in need of such services, as identified in the statewide needs assessment required under subsection (b)(1)(A), taking into account the staffing, community resource, and other requirements to operate at least one approved model of home visiting and demonstrate improvements for eligible families.
     - **(B)** Low-income eligible families.
     - **(C)** Eligible families who are pregnant women who have not attained age 21.
@@ -130,7 +137,7 @@ generated_at: "2026-03-30T00:28:41.145Z"
     - **(G)** Eligible families that are or have children with low student achievement.
     - **(H)** Eligible families with children with developmental delays or disabilities.
     - **(I)** Eligible families who, or that include individuals who, are serving or formerly served in the Armed Forces, including such families that have members of the Armed Forces who have had multiple deployments outside of the United States.
-  - **(5)**
+  - **(6)**
     - **(A)** Except as provided in subparagraph (B) of this paragraph, an eligible entity to which funds are provided under subsection (c) or (h)(2)(B) shall not use more than 10 percent of the funds to cover the costs of administration.
     - **(B)**
       - **(i)** The Secretary may authorize an eligible entity that meets a condition of clause (ii) of this subparagraph to exceed the percentage limitation in subparagraph (A) with respect to a program conducted under this subsection by not more than 5 percentage points, subject to such terms and conditions as the Secretary deems appropriate.
@@ -149,10 +156,18 @@ generated_at: "2026-03-30T00:28:41.145Z"
     - **(A)** the participation of each eligible family in the program is voluntary; and
     - **(B)** services are provided to an eligible family in accordance with the individual assessment for that family.
   - **(8)** Assurances that the entity will—
-    - **(A)** submit annual reports to the Secretary regarding the program and activities carried out under the program that include such information and data as the Secretary shall require; and
+    - **(A)** submit annual reports to the Secretary regarding the program and activities carried out under the program that include such information and data as the Secretary shall require, including the number of virtual home visits conducted under the program in the year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted; and
     - **(B)** participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
   - **(9)** A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title , programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act [ 42 U.S.C. 5116 et seq.] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
-  - **(10)** Other information as required by the Secretary.
+  - **(10)** At the option of the eligible entity—
+    - **(A)** a description of any limitations or constraints on virtual home visits under the program, including—
+      - **(i)** a description of the plan of the eligible entity to encourage in-person home visits; and
+      - **(ii)** a description of the considerations to be used in determining when a virtual home visit is appropriate, including client consent, client preference, geographic limitations, model fidelity, and hazardous conditions including public health emergencies, weather events, health concerns for home visitors and client families, and other local issues;
+    - **(B)** an assurance that—
+      - **(i)** the virtual home visit is implemented as a model enhancement; or
+      - **(ii)** the Secretary has identified the home visit as part of an effective model or model adaptation, based on an evidence of effectiveness review conducted using the criteria established under subsection (d)(3)(A)(iii); and
+    - **(C)** an assurance to the Secretary that at least 1 in-person home visit shall be conducted for each client family under the program during the 12-month period that begins with the entry of the client family into the program, and during each succeeding 12-month period, except that any such period in which a public health emergency declared under Federal law, or under the law of the State in which the program is conducted, is in effect shall be extended by the length of time in which the declaration is in effect.
+  - **(11)** Other information as required by the Secretary.
 - **(f)**
   - **(1)** Notwithstanding any other provision of this section, the Secretary may not make a grant to an eligible entity under this section for a fiscal year if the total amount of non-Federal funds obligated by the eligible entity in the State in the fiscal year for a program operated pursuant to this section is less than the total amount of non-Federal funds reported to have been expended by any eligible entity for such a program in the State in fiscal year 2019 or 2021, whichever is the lesser.
   - **(2)** Not later than June 30, 2023 , the Secretary shall cause to have published in the Federal Register the amount of non-Federal funds expended as described in this section that has been reported by each eligible entity not referred to in subsection (k)(2)(A) for each of fiscal years 2019 and 2021.

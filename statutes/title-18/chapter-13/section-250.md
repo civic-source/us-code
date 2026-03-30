@@ -3,9 +3,9 @@ title: "Section 250 - Penalties for civil rights offenses involving sexual misco
 usc_title: 18
 usc_section: "250"
 chapter: 13
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "18 U.S.C. § 250"
-generated_at: "2026-03-30T00:27:27.510Z"
+generated_at: "2026-03-30T00:30:29.108Z"
 ---
 
 # § 250. Penalties for civil rights offenses involving sexual misconduct

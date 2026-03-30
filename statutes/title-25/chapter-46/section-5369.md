@@ -3,9 +3,9 @@ title: "Section 5369 - Facilitation"
 usc_title: 25
 usc_section: "5369"
 chapter: 46
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "25 U.S.C. § 5369"
-generated_at: "2026-03-30T00:27:39.484Z"
+generated_at: "2026-03-30T00:30:56.432Z"
 ---
 
 # § 5369. Facilitation

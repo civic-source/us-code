@@ -3,9 +3,9 @@ title: "Section 92 - Release from wilderness study area status"
 usc_title: 16
 usc_section: "92"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 92"
-generated_at: "2026-03-30T00:27:35.045Z"
+generated_at: "2026-03-30T00:30:33.392Z"
 ---
 
 # § 460nnn–92. Release from wilderness study area status

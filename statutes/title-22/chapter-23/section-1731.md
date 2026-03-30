@@ -3,9 +3,9 @@ title: "Section 1731 - Protection to naturalized citizens abroad"
 usc_title: 22
 usc_section: "1731"
 chapter: 23
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "22 U.S.C. § 1731"
-generated_at: "2026-03-30T00:27:43.258Z"
+generated_at: "2026-03-30T00:30:43.555Z"
 ---
 
 # § 1731. Protection to naturalized citizens abroad

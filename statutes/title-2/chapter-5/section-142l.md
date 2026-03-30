@@ -3,9 +3,9 @@ title: "Section 142l - Disbursing Officer of Library of Congress; disbursements 
 usc_title: 2
 usc_section: "142l"
 chapter: 5
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 142l"
-generated_at: "2026-03-30T00:26:48.060Z"
+generated_at: "2026-03-30T00:29:29.977Z"
 ---
 
 # § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General

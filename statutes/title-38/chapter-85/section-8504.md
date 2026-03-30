@@ -3,9 +3,9 @@ title: "Section 8504 - Disposition of other unclaimed property"
 usc_title: 38
 usc_section: "8504"
 chapter: 85
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "38 U.S.C. § 8504"
-generated_at: "2026-03-30T00:28:16.873Z"
+generated_at: "2026-03-30T00:31:40.209Z"
 ---
 
 # § 8504. Disposition of other unclaimed property

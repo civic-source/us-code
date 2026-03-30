@@ -3,9 +3,9 @@ title: "Section 1602 - Renewable Resource Program; preparation by Secretary and 
 usc_title: 16
 usc_section: "1602"
 chapter: 36
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 1602"
-generated_at: "2026-03-30T00:27:35.152Z"
+generated_at: "2026-03-30T00:30:33.492Z"
 ---
 
 # § 1602. Renewable Resource Program; preparation by Secretary and transmittal to President; purpose and development of program; time of preparation, updating and contents

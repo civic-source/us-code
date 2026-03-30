@@ -3,9 +3,9 @@ title: "Section 35 - Agreements"
 usc_title: 20
 usc_section: "35"
 chapter: 28
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "20 U.S.C. § 35"
-generated_at: "2026-03-30T00:27:29.633Z"
+generated_at: "2026-03-30T00:30:27.932Z"
 ---
 
 # § 1070d–35. Agreements

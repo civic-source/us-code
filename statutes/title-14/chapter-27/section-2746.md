@@ -3,9 +3,9 @@ title: "Section 2746 - Award of other medals"
 usc_title: 14
 usc_section: "2746"
 chapter: 27
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "14 U.S.C. § 2746"
-generated_at: "2026-03-30T00:27:17.362Z"
+generated_at: "2026-03-30T00:29:57.736Z"
 ---
 
 # § 2746. Award of other medals

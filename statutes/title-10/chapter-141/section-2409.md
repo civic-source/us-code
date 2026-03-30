@@ -3,9 +3,9 @@ title: "Section 2409 - Renumbered § 4701]"
 usc_title: 10
 usc_section: "2409"
 chapter: 141
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2409"
-generated_at: "2026-03-30T00:27:14.343Z"
+generated_at: "2026-03-30T00:29:43.913Z"
 ---
 
 # [§ 2409. Renumbered § 4701]

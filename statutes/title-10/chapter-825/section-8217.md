@@ -3,9 +3,9 @@ title: "Section 8217 - Aviation training facilities"
 usc_title: 10
 usc_section: "8217"
 chapter: 825
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 8217"
-generated_at: "2026-03-30T00:27:14.402Z"
+generated_at: "2026-03-30T00:29:43.973Z"
 ---
 
 # § 8217. Aviation training facilities

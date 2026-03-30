@@ -3,9 +3,9 @@ title: "Section 47108 - Project grant agreements"
 usc_title: 49
 usc_section: "47108"
 chapter: 471
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 47108"
-generated_at: "2026-03-30T00:28:57.903Z"
+generated_at: "2026-03-30T00:32:23.664Z"
 ---
 
 # § 47108. Project grant agreements

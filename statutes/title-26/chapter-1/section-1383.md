@@ -3,9 +3,9 @@ title: "Section 1383 - Computation of tax where cooperative redeems nonqualified
 usc_title: 26
 usc_section: "1383"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 1383"
-generated_at: "2026-03-30T00:27:56.122Z"
+generated_at: "2026-03-30T00:31:07.924Z"
 ---
 
 # § 1383. Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates

@@ -3,9 +3,9 @@ title: "Section 17375 - Regional clean energy innovation program"
 usc_title: 42
 usc_section: "17375"
 chapter: 152
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 17375"
-generated_at: "2026-03-30T00:28:41.741Z"
+generated_at: "2026-03-30T00:32:13.893Z"
 ---
 
 # § 17375. Regional clean energy innovation program
@@ -37,7 +37,7 @@ generated_at: "2026-03-30T00:28:41.741Z"
   - **(8)** The term “community college” means—
     - **(A)** a public institution of higher education, including additional locations, at which the highest degree, or the predominantly awarded degree, is an associate degree; or
     - **(B)** any Tribal college or university (as defined in section 1059c of title 20 ).
-  - **(9)** The term “workforce development program” has the meaning given the term in section U.S.C. 3102 of title 29.
+  - **(9)** The term “workforce development program” has the meaning given the term in section 3102 of title 29 .
 - **(b)** The Secretary shall establish a Regional Clean Energy Innovation Program, a research, development, demonstration, and commercial application program designed to enhance the economic, environmental, and energy security of the United States and accelerate the pace of innovation of diverse clean energy technologies through the formation or support of regional clean energy innovation partnerships.
 - **(c)** The purposes of the Program established under subsection (b) are to—
   - **(1)** improve the competitiveness of United States’ clean energy technology research, development, demonstration, and commercial application; and

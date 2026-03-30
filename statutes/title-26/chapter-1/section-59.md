@@ -3,9 +3,9 @@ title: "Section 59 - Other definitions and special rules"
 usc_title: 26
 usc_section: "59"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 59"
-generated_at: "2026-03-30T00:27:55.974Z"
+generated_at: "2026-03-30T00:31:07.785Z"
 ---
 
 # § 59. Other definitions and special rules

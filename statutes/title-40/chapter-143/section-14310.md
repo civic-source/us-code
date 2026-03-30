@@ -3,9 +3,9 @@ title: "Section 14310 - Annual report"
 usc_title: 40
 usc_section: "14310"
 chapter: 143
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "40 U.S.C. § 14310"
-generated_at: "2026-03-30T00:28:15.393Z"
+generated_at: "2026-03-30T00:31:38.628Z"
 ---
 
 # § 14310. Annual report

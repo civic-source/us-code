@@ -3,21 +3,21 @@ title: "Section 710 - Sexual risk avoidance education"
 usc_title: 42
 usc_section: "710"
 chapter: 7
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 710"
-generated_at: "2026-03-30T00:28:41.145Z"
+generated_at: "2026-03-30T00:32:13.329Z"
 ---
 
 # § 710. Sexual risk avoidance education
 
 - **(a)**
-  - **(1)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 through 2023 and for the period beginning on October 1, 2023 , and ending on November 17, 2023 , allot to each State which has transmitted an application for the fiscal year (or, with respect to such period, for fiscal year 2024) under section 705(a) of this title an amount equal to the product of—
+  - **(1)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 through 2023, for the period beginning on October 1, 2023 , and ending on November 17, 2023 , and for the period beginning on November 18, 2023 , and ending on January 19, 2024 , allot to each State which has transmitted an application for the fiscal year (or, with respect to the applicable period, for fiscal year 2024) under section 705(a) of this title an amount equal to the product of—
     - **(A)** the amount appropriated pursuant to subsection (f)(1) for the fiscal year or period, minus the amount reserved under subsection (f)(2) for the fiscal year or period; and
     - **(B)** the proportion that the number of low-income children in the State bears to the total of such numbers of children for all the States.
   - **(2)**
-    - **(A)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 through 2023 and with respect to fiscal year 2024, for the period described in paragraph (1), for any State which has not transmitted an application for the fiscal year under section 705(a) of this title , allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
+    - **(A)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 through 2023 and with respect to fiscal year 2024, for the applicable period described in paragraph (1), for any State which has not transmitted an application for the fiscal year under section 705(a) of this title , allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
     - **(B)** The Secretary shall select the recipients of allotments under subparagraph (A) by means of a competitive grant process under which—
-      - **(i)** not later than 30 days after the deadline for the State involved to submit an application for the fiscal year (or, with respect to fiscal year 2024, for the period described in paragraph (1)) under section 705(a) of this title , the Secretary publishes a notice soliciting grant applications; and
+      - **(i)** not later than 30 days after the deadline for the State involved to submit an application for the fiscal year (or, with respect to fiscal year 2024, for the applicable period described in paragraph (1)) under section 705(a) of this title , the Secretary publishes a notice soliciting grant applications; and
       - **(ii)** not later than 120 days after such deadline, all such applications must be submitted.
 - **(b)**
   - **(1)** Except for research under paragraph (5) and information collection and reporting under paragraph (6), the purpose of an allotment under subsection (a) to a State (or to another entity in the State pursuant to subsection (a)(2)) is to enable the State or other entity to implement education exclusively on sexual risk avoidance (meaning voluntarily refraining from sexual activity).
@@ -64,5 +64,5 @@ generated_at: "2026-03-30T00:28:41.145Z"
     - **(B)** other evidence-based methodologies established by the Secretary for purposes of this section.
   - **(4)** The term “youth” refers to one or more individuals who have attained age 10 but not age 20.
 - **(f)**
-  - **(1)** To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 through 2023, and for the period beginning on October 1, 2023 , and ending on November 17, 2023 , an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023.
-  - **(2)** The Secretary shall reserve, for each of fiscal years 2018 through 2023, and for the period described in paragraph (1), not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.
+  - **(1)** To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 through 2023, for the period beginning on October 1, 2023 , and ending on November 17, 2023 , an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023, and for the period beginning on November 18, 2023 , and ending on January 19, 2024 , an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023.
+  - **(2)** The Secretary shall reserve, for each of fiscal years 2018 through 2023, and for the applicable period described in paragraph (1), not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.

@@ -3,9 +3,9 @@ title: "Section 936a - Prepayment of loans"
 usc_title: 7
 usc_section: "936a"
 chapter: 31
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 936a"
-generated_at: "2026-03-30T00:26:57.108Z"
+generated_at: "2026-03-30T00:29:51.078Z"
 ---
 
 # § 936a. Prepayment of loans

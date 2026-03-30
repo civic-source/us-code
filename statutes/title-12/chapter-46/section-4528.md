@@ -3,9 +3,9 @@ title: "Section 4528 - Open data publication"
 usc_title: 12
 usc_section: "4528"
 chapter: 46
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "12 U.S.C. § 4528"
-generated_at: "2026-03-30T00:27:20.445Z"
+generated_at: "2026-03-30T00:30:00.834Z"
 ---
 
 # § 4528. Open data publication

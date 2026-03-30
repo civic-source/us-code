@@ -3,9 +3,9 @@ title: "Section 2061 - Designation of play areas on Capitol grounds for children
 usc_title: 2
 usc_section: "2061"
 chapter: 30
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 2061"
-generated_at: "2026-03-30T00:26:48.099Z"
+generated_at: "2026-03-30T00:29:30.011Z"
 ---
 
 # § 2061. Designation of play areas on Capitol grounds for children attending day care center

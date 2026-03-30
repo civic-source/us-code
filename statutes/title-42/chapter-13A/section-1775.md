@@ -3,9 +3,9 @@ title: "Section 1775 - Certification to Secretary of the Treasury of amounts to 
 usc_title: 42
 usc_section: "1775"
 chapter: 13
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 1775"
-generated_at: "2026-03-30T00:28:41.356Z"
+generated_at: "2026-03-30T00:32:13.528Z"
 ---
 
 # § 1775. Certification to Secretary of the Treasury of amounts to be paid to States

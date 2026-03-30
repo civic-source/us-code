@@ -3,9 +3,9 @@ title: "Section 1514 - Enforcement in House of Representatives"
 usc_title: 2
 usc_section: "1514"
 chapter: 25
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 1514"
-generated_at: "2026-03-30T00:26:48.088Z"
+generated_at: "2026-03-30T00:29:30.002Z"
 ---
 
 # § 1514. Enforcement in House of Representatives

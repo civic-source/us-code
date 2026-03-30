@@ -3,9 +3,9 @@ title: "Section 2601a - Direct acceptance of gifts by members of the armed force
 usc_title: 10
 usc_section: "2601a"
 chapter: 155
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 2601a"
-generated_at: "2026-03-30T00:27:14.349Z"
+generated_at: "2026-03-30T00:29:43.922Z"
 ---
 
 # § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families

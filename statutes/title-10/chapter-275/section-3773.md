@@ -3,9 +3,9 @@ title: "Section 3773 - Domestic business concerns: programs for replenishment pa
 usc_title: 10
 usc_section: "3773"
 chapter: 275
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 3773"
-generated_at: "2026-03-30T00:27:14.377Z"
+generated_at: "2026-03-30T00:29:43.948Z"
 ---
 
 # § 3773. Domestic business concerns: programs for replenishment parts

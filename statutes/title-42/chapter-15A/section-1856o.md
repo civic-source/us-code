@@ -3,9 +3,9 @@ title: "Section 1856o - Funds"
 usc_title: 42
 usc_section: "1856o"
 chapter: 15
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 1856o"
-generated_at: "2026-03-30T00:28:41.361Z"
+generated_at: "2026-03-30T00:32:13.532Z"
 ---
 
 # § 1856o. Funds

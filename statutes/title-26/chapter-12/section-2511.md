@@ -3,9 +3,9 @@ title: "Section 2511 - Transfers in general"
 usc_title: 26
 usc_section: "2511"
 chapter: 12
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "26 U.S.C. § 2511"
-generated_at: "2026-03-30T00:27:56.134Z"
+generated_at: "2026-03-30T00:31:07.935Z"
 ---
 
 # § 2511. Transfers in general

@@ -3,9 +3,9 @@ title: "Section 7683 - Excess non-automatic service rifles: loan or donation for
 usc_title: 10
 usc_section: "7683"
 chapter: 773
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 7683"
-generated_at: "2026-03-30T00:27:14.398Z"
+generated_at: "2026-03-30T00:29:43.969Z"
 ---
 
 # § 7683. Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes

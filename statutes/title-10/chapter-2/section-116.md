@@ -3,9 +3,9 @@ title: "Section 116 - Annual operations and maintenance report"
 usc_title: 10
 usc_section: "116"
 chapter: 2
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 116"
-generated_at: "2026-03-30T00:27:14.243Z"
+generated_at: "2026-03-30T00:29:43.810Z"
 ---
 
 # § 116. Annual operations and maintenance report

@@ -3,9 +3,9 @@ title: "Section 16767 - Repealed or Omitted"
 usc_title: 42
 usc_section: "16767"
 chapter: 150
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 16767"
-generated_at: "2026-03-30T00:28:41.727Z"
+generated_at: "2026-03-30T00:32:13.879Z"
 ---
 
 # §§ 16766, 16767. Repealed or Omitted

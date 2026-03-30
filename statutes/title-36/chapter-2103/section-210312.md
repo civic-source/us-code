@@ -3,9 +3,9 @@ title: "Section 210312 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "210312"
 chapter: 2103
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "36 U.S.C. § 210312"
-generated_at: "2026-03-30T00:28:14.465Z"
+generated_at: "2026-03-30T00:31:40.879Z"
 ---
 
 # § 210312. Liability for acts of officers and agents

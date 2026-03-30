@@ -3,9 +3,9 @@ title: "Section 1351 - Reports on violations"
 usc_title: 31
 usc_section: "1351"
 chapter: 13
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "31 U.S.C. § 1351"
-generated_at: "2026-03-30T00:28:09.056Z"
+generated_at: "2026-03-30T00:31:19.441Z"
 ---
 
 # § 1351. Reports on violations

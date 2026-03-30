@@ -3,9 +3,9 @@ title: "Section 518d - Use of assessments as source of funds for payments"
 usc_title: 7
 usc_section: "518d"
 chapter: 21
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 518d"
-generated_at: "2026-03-30T00:26:57.102Z"
+generated_at: "2026-03-30T00:29:51.071Z"
 ---
 
 # § 518d. Use of assessments as source of funds for payments

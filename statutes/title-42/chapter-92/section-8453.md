@@ -3,9 +3,9 @@ title: "Section 8453 - Impact on employees"
 usc_title: 42
 usc_section: "8453"
 chapter: 92
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 8453"
-generated_at: "2026-03-30T00:28:41.581Z"
+generated_at: "2026-03-30T00:32:13.737Z"
 ---
 
 # § 8453. Impact on employees

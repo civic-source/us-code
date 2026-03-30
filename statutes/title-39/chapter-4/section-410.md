@@ -3,9 +3,9 @@ title: "Section 410 - Application of other laws"
 usc_title: 39
 usc_section: "410"
 chapter: 4
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "39 U.S.C. § 410"
-generated_at: "2026-03-30T00:28:13.581Z"
+generated_at: "2026-03-30T00:31:45.746Z"
 ---
 
 # § 410. Application of other laws

@@ -3,9 +3,9 @@ title: "Section 48111 - Funding proposals"
 usc_title: 49
 usc_section: "48111"
 chapter: 481
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "49 U.S.C. § 48111"
-generated_at: "2026-03-30T00:28:57.910Z"
+generated_at: "2026-03-30T00:32:23.671Z"
 ---
 
 # § 48111. Funding proposals

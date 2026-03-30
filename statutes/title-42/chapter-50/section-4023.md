@@ -3,9 +3,9 @@ title: "Section 4023 - Properties in violation of State and local law"
 usc_title: 42
 usc_section: "4023"
 chapter: 50
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "42 U.S.C. § 4023"
-generated_at: "2026-03-30T00:28:41.437Z"
+generated_at: "2026-03-30T00:32:13.601Z"
 ---
 
 # § 4023. Properties in violation of State and local law

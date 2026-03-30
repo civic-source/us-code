@@ -3,9 +3,9 @@ title: "Section 471e - Extension of boundaries of Sequoia National Forest"
 usc_title: 16
 usc_section: "471e"
 chapter: 2
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 471e"
-generated_at: "2026-03-30T00:27:35.053Z"
+generated_at: "2026-03-30T00:30:33.399Z"
 ---
 
 # § 471e. Extension of boundaries of Sequoia National Forest

@@ -3,9 +3,9 @@ title: "Section 3012 - Civil penalties"
 usc_title: 39
 usc_section: "3012"
 chapter: 30
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "39 U.S.C. § 3012"
-generated_at: "2026-03-30T00:28:13.586Z"
+generated_at: "2026-03-30T00:31:45.751Z"
 ---
 
 # § 3012. Civil penalties

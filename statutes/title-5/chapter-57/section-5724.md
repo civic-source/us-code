@@ -3,9 +3,9 @@ title: "Section 5724 - Travel and transportation expenses of employees transferr
 usc_title: 5
 usc_section: "5724"
 chapter: 57
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 5724"
-generated_at: "2026-03-30T00:26:31.410Z"
+generated_at: "2026-03-30T00:29:32.436Z"
 ---
 
 # § 5724. Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis

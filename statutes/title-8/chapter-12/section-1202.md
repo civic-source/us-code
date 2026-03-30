@@ -3,9 +3,9 @@ title: "Section 1202 - Application for visas"
 usc_title: 8
 usc_section: "1202"
 chapter: 12
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "8 U.S.C. § 1202"
-generated_at: "2026-03-30T00:27:02.292Z"
+generated_at: "2026-03-30T00:29:53.891Z"
 ---
 
 # § 1202. Application for visas

@@ -3,9 +3,9 @@ title: "Section 5723 - Repealed. Pub. L. 115–334, title III, § 3201(b)(2) , D
 usc_title: 7
 usc_section: "5723"
 chapter: 87
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 5723"
-generated_at: "2026-03-30T00:26:57.205Z"
+generated_at: "2026-03-30T00:29:51.180Z"
 ---
 
 # §§ 5721 to 5723. Repealed. Pub. L. 115–334, title III, § 3201(b)(2) , Dec. 20, 2018 , 132 Stat. 4616

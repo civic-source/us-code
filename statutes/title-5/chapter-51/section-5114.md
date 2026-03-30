@@ -3,9 +3,9 @@ title: "Section 5114 - Repealed. Pub. L. 99–386, title I, § 110(a) , Aug. 22,
 usc_title: 5
 usc_section: "5114"
 chapter: 51
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 5114"
-generated_at: "2026-03-30T00:26:31.399Z"
+generated_at: "2026-03-30T00:29:32.427Z"
 ---
 
 # [§ 5114. Repealed. Pub. L. 99–386, title I, § 110(a) , Aug. 22, 1986 , 100 Stat. 822 ]

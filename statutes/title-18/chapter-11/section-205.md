@@ -3,9 +3,9 @@ title: "Section 205 - Activities of officers and employees in claims against and
 usc_title: 18
 usc_section: "205"
 chapter: 11
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "18 U.S.C. § 205"
-generated_at: "2026-03-30T00:27:27.506Z"
+generated_at: "2026-03-30T00:30:29.104Z"
 ---
 
 # § 205. Activities of officers and employees in claims against and other matters affecting the Government

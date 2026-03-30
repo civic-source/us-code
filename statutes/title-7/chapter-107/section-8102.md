@@ -3,9 +3,9 @@ title: "Section 8102 - Biobased markets program"
 usc_title: 7
 usc_section: "8102"
 chapter: 107
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 8102"
-generated_at: "2026-03-30T00:26:57.246Z"
+generated_at: "2026-03-30T00:29:51.221Z"
 ---
 
 # § 8102. Biobased markets program
@@ -123,7 +123,7 @@ generated_at: "2026-03-30T00:26:57.246Z"
       - **(vi)** areas in which the use or manufacturing of biobased products could be more effectively used, including identifying any technical and economic obstacles and recommending how those obstacles can be overcome.
     - **(B)** Not later than 1 year after February 7, 2014 , the Secretary shall submit to Congress a report describing the results of the study conducted under subparagraph (A).
 - **(k)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2023.
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2024.
   - **(2)** There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2019 through 2023.
 - **(l)** In this section, the term “biobased product” (as defined in section 8101 of this title ) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
 - **(m)** In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.

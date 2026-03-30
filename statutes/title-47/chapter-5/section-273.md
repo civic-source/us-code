@@ -3,9 +3,9 @@ title: "Section 273 - Manufacturing by Bell operating companies"
 usc_title: 47
 usc_section: "273"
 chapter: 5
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "47 U.S.C. § 273"
-generated_at: "2026-03-30T00:28:45.551Z"
+generated_at: "2026-03-30T00:32:18.344Z"
 ---
 
 # § 273. Manufacturing by Bell operating companies

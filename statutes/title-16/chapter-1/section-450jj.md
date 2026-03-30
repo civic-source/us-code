@@ -3,9 +3,9 @@ title: "Section 450jj - Jefferson National Expansion Memorial; authorization"
 usc_title: 16
 usc_section: "450jj"
 chapter: 1
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 450jj"
-generated_at: "2026-03-30T00:27:35.012Z"
+generated_at: "2026-03-30T00:30:33.360Z"
 ---
 
 # § 450jj. Jefferson National Expansion Memorial; authorization

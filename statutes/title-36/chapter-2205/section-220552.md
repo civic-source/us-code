@@ -3,9 +3,9 @@ title: "Section 220552 - Dissolution of board of directors of corporation and te
 usc_title: 36
 usc_section: "220552"
 chapter: 2205
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "36 U.S.C. § 220552"
-generated_at: "2026-03-30T00:28:14.467Z"
+generated_at: "2026-03-30T00:31:40.882Z"
 ---
 
 # § 220552. Dissolution of board of directors of corporation and termination of recognition of national governing bodies

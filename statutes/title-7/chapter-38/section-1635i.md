@@ -3,9 +3,9 @@ title: "Section 1635i - Definitions"
 usc_title: 7
 usc_section: "1635i"
 chapter: 38
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 1635i"
-generated_at: "2026-03-30T00:26:57.137Z"
+generated_at: "2026-03-30T00:29:51.109Z"
 ---
 
 # § 1635i. Definitions

@@ -3,9 +3,9 @@ title: "Section 356 - Functions"
 usc_title: 2
 usc_section: "356"
 chapter: 11
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "2 U.S.C. § 356"
-generated_at: "2026-03-30T00:26:48.067Z"
+generated_at: "2026-03-30T00:29:29.983Z"
 ---
 
 # § 356. Functions

@@ -3,9 +3,9 @@ title: "Section 605 - Promotion to certain grades for officers with critical ski
 usc_title: 10
 usc_section: "605"
 chapter: 35
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 605"
-generated_at: "2026-03-30T00:27:14.270Z"
+generated_at: "2026-03-30T00:29:43.836Z"
 ---
 
 # § 605. Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant

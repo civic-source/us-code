@@ -3,9 +3,9 @@ title: "Section 1131 - Purple Heart: limitation to members of the armed forces"
 usc_title: 10
 usc_section: "1131"
 chapter: 57
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "10 U.S.C. § 1131"
-generated_at: "2026-03-30T00:27:14.305Z"
+generated_at: "2026-03-30T00:29:43.868Z"
 ---
 
 # § 1131. Purple Heart: limitation to members of the armed forces

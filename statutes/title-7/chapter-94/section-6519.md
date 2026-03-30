@@ -3,9 +3,9 @@ title: "Section 6519 - Recordkeeping, investigations, and enforcement"
 usc_title: 7
 usc_section: "6519"
 chapter: 94
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "7 U.S.C. § 6519"
-generated_at: "2026-03-30T00:26:57.216Z"
+generated_at: "2026-03-30T00:29:51.191Z"
 ---
 
 # § 6519. Recordkeeping, investigations, and enforcement

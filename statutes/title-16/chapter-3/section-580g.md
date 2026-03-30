@@ -3,9 +3,9 @@ title: "Section 580g - Seeding leased range land; conditions and limitations"
 usc_title: 16
 usc_section: "580g"
 chapter: 3
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "16 U.S.C. § 580g"
-generated_at: "2026-03-30T00:27:35.072Z"
+generated_at: "2026-03-30T00:30:33.417Z"
 ---
 
 # § 580g. Seeding leased range land; conditions and limitations

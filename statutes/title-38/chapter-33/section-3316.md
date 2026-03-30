@@ -3,9 +3,9 @@ title: "Section 3316 - Supplemental educational assistance: members with critica
 usc_title: 38
 usc_section: "3316"
 chapter: 33
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "38 U.S.C. § 3316"
-generated_at: "2026-03-30T00:28:16.835Z"
+generated_at: "2026-03-30T00:31:40.171Z"
 ---
 
 # § 3316. Supplemental educational assistance: members with critical skills or specialty; members serving additional service

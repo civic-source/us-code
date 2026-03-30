@@ -3,9 +3,9 @@ title: "Section 7352 - Excessive and habitual use of intoxicants"
 usc_title: 5
 usc_section: "7352"
 chapter: 73
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "5 U.S.C. § 7352"
-generated_at: "2026-03-30T00:26:31.419Z"
+generated_at: "2026-03-30T00:29:32.447Z"
 ---
 
 # § 7352. Excessive and habitual use of intoxicants

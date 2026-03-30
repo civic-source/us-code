@@ -3,9 +3,9 @@ title: "Section 904 - Payment of tort claims"
 usc_title: 21
 usc_section: "904"
 chapter: 13
-current_through: "PL 118-21"
+current_through: "PL 118-22"
 classification: "21 U.S.C. § 904"
-generated_at: "2026-03-30T00:27:40.664Z"
+generated_at: "2026-03-30T00:30:46.858Z"
 ---
 
 # § 904. Payment of tort claims
