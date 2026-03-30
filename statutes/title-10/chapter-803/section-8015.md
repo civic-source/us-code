@@ -3,9 +3,9 @@ title: "Section 8015 - Under Secretary of the Air Force"
 usc_title: 10
 usc_section: "8015"
 chapter: 803
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 8015"
-generated_at: "2026-03-30T03:39:59.635Z"
+generated_at: "2026-03-30T03:43:42.564Z"
 status: "active"
 ---
 

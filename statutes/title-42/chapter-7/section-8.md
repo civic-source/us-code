@@ -3,9 +3,9 @@ title: "Section 8 - Health opportunity accounts"
 usc_title: 42
 usc_section: "8"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T03:41:56.290Z"
+generated_at: "2026-03-30T03:46:13.186Z"
 status: "active"
 ---
 

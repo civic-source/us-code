@@ -3,9 +3,9 @@ title: "Section 261 - Reference to chapters 1003, 1005, and 1007"
 usc_title: 10
 usc_section: "261"
 chapter: 11
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 261"
-generated_at: "2026-03-30T03:39:59.468Z"
+generated_at: "2026-03-30T03:43:42.365Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2904 - Termination and reservation authority; reciprocal nondisc
 usc_title: 19
 usc_section: "2904"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "19 U.S.C. § 2904"
-generated_at: "2026-03-30T03:40:29.522Z"
+generated_at: "2026-03-30T03:44:12.715Z"
 status: "active"
 ---
 

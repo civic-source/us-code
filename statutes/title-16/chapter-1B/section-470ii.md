@@ -3,9 +3,9 @@ title: "Section 470ii - Rules and regulations; intergovernmental coordination"
 usc_title: 16
 usc_section: "470ii"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 470ii"
-generated_at: "2026-03-30T03:40:44.860Z"
+generated_at: "2026-03-30T03:44:18.634Z"
 status: "active"
 ---
 

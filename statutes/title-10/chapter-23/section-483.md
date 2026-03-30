@@ -1,54 +1,13 @@
 ---
-title: "Section 483 - Reports on transfers from high-priority readiness appropriations"
+title: "Section 483 - Repealed. Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A) , Dec. 26, 2013 , 127 Stat. 871 ]"
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-30T03:39:59.473Z"
-status: "active"
+generated_at: "2026-03-30T03:43:42.369Z"
+status: "repealed"
 ---
 
-# § 483. Reports on transfers from high-priority readiness appropriations
+# [§ 483. Repealed. Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A) , Dec. 26, 2013 , 127 Stat. 871 ]
 
-- **(a)** Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31 , the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on transfers during the preceding fiscal year from funds available for each covered budget activity.
-- **(b)** Not later than June 1 of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in subsection (a) a report on transfers, during the first six months of that fiscal year, from funds available for each covered budget activity.
-- **(c)** In each report under subsection (a) or (b), the Secretary of Defense shall include for each covered budget activity the following:
-  - **(1)** A statement, for the period covered by the report, of—
-    - **(A)** the total amount of transfers into funds available for that activity;
-    - **(B)** the total amount of transfers from funds available for that activity; and
-    - **(C)** the net amount of transfers into, or out of, funds available for that activity.
-  - **(2)** A detailed explanation of the transfers into, and out of, funds available for that activity during the period covered by the report, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity.
-- **(d)** In this section, the term “covered budget activity” means each of the following:
-  - **(1)** The budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Army, appropriation that are designated as follows:
-    - **(A)** All subactivities under the category of Land Forces.
-    - **(B)** Land Forces Depot Maintenance.
-    - **(C)** Base Support.
-    - **(D)** Maintenance of Real Property.
-  - **(2)** The Air Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
-    - **(A)** Mission and Other Flight Operations.
-    - **(B)** Fleet Air Training.
-    - **(C)** Aircraft Depot Maintenance.
-    - **(D)** Base Support.
-    - **(E)** Maintenance of Real Property.
-  - **(3)** The Ship Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
-    - **(A)** Mission and Other Ship Operations.
-    - **(B)** Ship Operational Support and Training.
-    - **(C)** Ship Depot Maintenance.
-    - **(D)** Base Support.
-    - **(E)** Maintenance of Real Property.
-  - **(4)** The Expeditionary Forces budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Marine Corps, appropriation that are designated as follows:
-    - **(A)** Operational Forces.
-    - **(B)** Depot Maintenance.
-    - **(C)** Base Support.
-    - **(D)** Maintenance of Real Property.
-  - **(5)** The Air Operations and Combat Related Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Air Force, appropriation that are designated as follows:
-    - **(A)** Primary Combat Forces.
-    - **(B)** Primary Combat Weapons.
-    - **(C)** Air Operations Training.
-    - **(D)** Depot Maintenance.
-    - **(E)** Base Support.
-    - **(F)** Maintenance of Real Property.
-    - **(G)** Combat Enhancement Forces.
-    - **(H)** Combat Communications.
-  - **(6)** The Mobility Operations budget activity group (known as a “subactivity”) within the Mobilization budget activity of the annual Operation and Maintenance, Air Force, appropriation that is designated as Airlift Operations.

@@ -3,9 +3,9 @@ title: "Section 2324 - National activities"
 usc_title: 20
 usc_section: "2324"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 2324"
-generated_at: "2026-03-30T03:40:47.865Z"
+generated_at: "2026-03-30T03:44:15.263Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The Secretary shall, to the extent feasible, ensure that the performance information system is compatible with other Federal information systems.
   - **(3)** As a regular part of its assessments, the National Center for Education Statistics shall collect and report information on career and technical education for a nationally representative sample of students. Such assessment may include international comparisons in the aggregate.
 - **(b)**
-  - **(1)** The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under section 2328 of this title (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
+  - **(1)** The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Career, Technical, and Adult Education, and an entity assisted under section 2328 of this title (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
   - **(2)** All eligible agencies receiving assistance under this chapter shall cooperate with the Secretary in implementing the information systems developed pursuant to this chapter.
 - **(c)**
   - **(1)** The Secretary may, directly or through grants, contracts, or cooperative agreements, carry out research, development, dissemination, evaluation and assessment, capacity building, and technical assistance with regard to the career and technical education programs under this chapter. The Secretary shall develop a single plan for such activities.

@@ -3,9 +3,9 @@ title: "Section 4457to4462 - Repealed. Pub. L. 93–288, title VII, § 703 , for
 usc_title: 42
 usc_section: "4457to4462"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 4457to4462"
-generated_at: "2026-03-30T03:41:56.526Z"
+generated_at: "2026-03-30T03:46:13.402Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3130 - Repealed. Pub. L. 104–127, title VIII, § 858 , Apr. 4,
 usc_title: 7
 usc_section: "3130"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 3130"
-generated_at: "2026-03-30T03:40:07.761Z"
+generated_at: "2026-03-30T03:43:46.118Z"
 status: "repealed"
 ---
 

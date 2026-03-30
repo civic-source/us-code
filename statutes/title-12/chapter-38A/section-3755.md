@@ -3,9 +3,9 @@ title: "Section 3755 - Prerequisites to foreclosure"
 usc_title: 12
 usc_section: "3755"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 3755"
-generated_at: "2026-03-30T03:40:23.332Z"
+generated_at: "2026-03-30T03:43:57.790Z"
 status: "active"
 ---
 

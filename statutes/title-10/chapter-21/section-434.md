@@ -3,9 +3,9 @@ title: "Section 434 - Reservation of defenses and immunities"
 usc_title: 10
 usc_section: "434"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 434"
-generated_at: "2026-03-30T03:39:59.470Z"
+generated_at: "2026-03-30T03:43:42.367Z"
 status: "active"
 ---
 

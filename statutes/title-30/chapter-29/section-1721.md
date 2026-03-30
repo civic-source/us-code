@@ -3,9 +3,9 @@ title: "Section 1721 - Royalty terms and conditions, interest, and penalties"
 usc_title: 30
 usc_section: "1721"
 chapter: 29
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "30 U.S.C. § 1721"
-generated_at: "2026-03-30T03:41:02.312Z"
+generated_at: "2026-03-30T03:44:47.382Z"
 status: "active"
 ---
 
@@ -19,7 +19,9 @@ status: "active"
 - **(f)** Interest shall be charged under this section only for the number of days a payment is late.
 - **(g)**
 - **(h)** Interest shall be allowed and paid or credited on any overpayment, with such interest to accrue from the date such overpayment was made, at the rate obtained by applying the provisions of subparagraphs (A) and (B) of section 6621(a)(1) of title 26 , but determined without regard to the sentence following subparagraph (B) of section 6621(a)(1). Interest which has accrued on any overpayment may be applied to reduce an underpayment. This subsection applies to overpayments made later than six months after August 13, 1996 , or September 1, 1996 , whichever is later. Such interest shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the Mineral Leasing Act [ 30 U.S.C. 181 et seq.], and the Outer Continental Shelf Lands Act [ 43 U.S.C. 1331 et seq.], which are not payable to a State or the Reclamation Fund. The portion of any such interest payment attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any other recipient designated by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
-- **(i)** Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment. For purposes of this chapter, an “excessive overpayment” shall be the amount that any overpayment a lessee or its designee pays for a given reporting month (excluding payments for demands for obligations determined to be due as a result of judicial or administrative proceedings or agreed to be paid pursuant to settlement agreements) for the aggregate of all of its Federal leases exceeds 10 percent of the total royalties paid that month for those leases.
+- **(i)**
+  - **(1)** Interest shall not be paid on any excessive overpayment.
+  - **(2)** For purposes of this chapter, an “excessive overpayment” shall be the amount that any overpayment a lessee or its designee pays for a given reporting month (excluding payments for demands for obligations determined to be due as a result of judicial or administrative proceedings or agreed to be paid pursuant to settlement agreements) for the aggregate of all of its Federal leases exceeds 10 percent of the total royalties paid that month for those leases.
 - **(j)** A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection “estimated payment”) that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
 - **(k)**
   - **(1)** Except as otherwise provided by this subsection—

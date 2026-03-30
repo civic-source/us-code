@@ -3,9 +3,9 @@ title: "Section 553 - Allotments; continuance, suspension, initiation, resumptio
 usc_title: 37
 usc_section: "553"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "37 U.S.C. § 553"
-generated_at: "2026-03-30T03:41:26.704Z"
+generated_at: "2026-03-30T03:45:06.406Z"
 status: "active"
 ---
 

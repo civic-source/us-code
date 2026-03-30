@@ -3,9 +3,9 @@ title: "Section 916j - Allocation of responsibility for administration and enfor
 usc_title: 16
 usc_section: "916j"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 916j"
-generated_at: "2026-03-30T03:40:44.937Z"
+generated_at: "2026-03-30T03:44:18.703Z"
 status: "active"
 ---
 

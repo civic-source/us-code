@@ -3,9 +3,9 @@ title: "Section 2422 - Project eligibility"
 usc_title: 43
 usc_section: "2422"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "43 U.S.C. § 2422"
-generated_at: "2026-03-30T03:41:33.117Z"
+generated_at: "2026-03-30T03:45:11.030Z"
 status: "active"
 ---
 

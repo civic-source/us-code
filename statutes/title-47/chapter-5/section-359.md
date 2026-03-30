@@ -3,9 +3,9 @@ title: "Section 359 - Certificates of compliance; issuance, modification, and ca
 usc_title: 47
 usc_section: "359"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "47 U.S.C. § 359"
-generated_at: "2026-03-30T03:42:06.682Z"
+generated_at: "2026-03-30T03:46:30.770Z"
 status: "active"
 ---
 

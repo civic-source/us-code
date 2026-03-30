@@ -3,9 +3,9 @@ title: "Section 228 - Authority of Secretary"
 usc_title: 7
 usc_section: "228"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 228"
-generated_at: "2026-03-30T03:40:07.631Z"
+generated_at: "2026-03-30T03:43:45.982Z"
 status: "active"
 ---
 

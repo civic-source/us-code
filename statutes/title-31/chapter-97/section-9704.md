@@ -3,9 +3,9 @@ title: "Section 9704 - ]"
 usc_title: 31
 usc_section: "9704"
 chapter: 97
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "31 U.S.C. § 9704"
-generated_at: "2026-03-30T03:41:20.634Z"
+generated_at: "2026-03-30T03:44:51.289Z"
 status: "active"
 ---
 

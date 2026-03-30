@@ -3,9 +3,9 @@ title: "Section 1004 - Penalties"
 usc_title: 15
 usc_section: "1004"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 1004"
-generated_at: "2026-03-30T03:40:16.122Z"
+generated_at: "2026-03-30T03:44:05.747Z"
 status: "active"
 ---
 

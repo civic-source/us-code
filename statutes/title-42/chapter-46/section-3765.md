@@ -3,9 +3,9 @@ title: "Section 3765 - Crime prevention campaign grant"
 usc_title: 42
 usc_section: "3765"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 3765"
-generated_at: "2026-03-30T03:41:56.493Z"
+generated_at: "2026-03-30T03:46:13.371Z"
 status: "active"
 ---
 

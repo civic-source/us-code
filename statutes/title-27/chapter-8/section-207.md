@@ -3,9 +3,9 @@ title: "Section 207 - Penalties; jurisdiction; compromise of liability"
 usc_title: 27
 usc_section: "207"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "27 U.S.C. § 207"
-generated_at: "2026-03-30T03:40:59.151Z"
+generated_at: "2026-03-30T03:44:30.903Z"
 status: "active"
 ---
 

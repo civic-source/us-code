@@ -3,9 +3,9 @@ title: "Section 914 - Art. 114. Dueling"
 usc_title: 10
 usc_section: "914"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 914"
-generated_at: "2026-03-30T03:39:59.492Z"
+generated_at: "2026-03-30T03:43:42.394Z"
 status: "active"
 ---
 

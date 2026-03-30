@@ -3,9 +3,9 @@ title: "Section 8147 - Employees’ Compensation Fund"
 usc_title: 5
 usc_section: "8147"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 8147"
-generated_at: "2026-03-30T03:39:45.421Z"
+generated_at: "2026-03-30T03:43:32.506Z"
 status: "active"
 ---
 

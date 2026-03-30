@@ -3,9 +3,9 @@ title: "Section 173174 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 S
 usc_title: 15
 usc_section: "173174"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 173174"
-generated_at: "2026-03-30T03:40:16.065Z"
+generated_at: "2026-03-30T03:44:05.689Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1110 - Prevention of interference to direct broadcast satellite 
 usc_title: 47
 usc_section: "1110"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "47 U.S.C. § 1110"
-generated_at: "2026-03-30T03:42:06.710Z"
+generated_at: "2026-03-30T03:46:30.794Z"
 status: "active"
 ---
 

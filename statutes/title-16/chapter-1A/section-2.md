@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of National Center"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T03:40:44.859Z"
+generated_at: "2026-03-30T03:44:18.634Z"
 status: "active"
 ---
 

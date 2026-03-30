@@ -3,9 +3,9 @@ title: "Section 1702 - Agreements regarding eligible countries and private entit
 usc_title: 7
 usc_section: "1702"
 chapter: 41
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 1702"
-generated_at: "2026-03-30T03:40:07.697Z"
+generated_at: "2026-03-30T03:43:46.050Z"
 status: "active"
 ---
 

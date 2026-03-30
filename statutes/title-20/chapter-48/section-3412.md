@@ -3,9 +3,9 @@ title: "Section 3412 - Principal officers"
 usc_title: 20
 usc_section: "3412"
 chapter: 48
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 3412"
-generated_at: "2026-03-30T03:40:47.871Z"
+generated_at: "2026-03-30T03:44:15.270Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(1)** There shall be in the Department—
     - **(A)** an Assistant Secretary for Elementary and Secondary Education;
     - **(B)** an Assistant Secretary for Postsecond­ary Education;
-    - **(C)** an Assistant Secretary for Vocational and Adult Education;
+    - **(C)** an Assistant Secretary for Career, Technical, and Adult Education;
     - **(D)** an Assistant Secretary for Special Education and Rehabilitative Services;
     - **(E)** an Assistant Secretary for Civil Rights; and
     - **(F)** a General Counsel.
@@ -38,7 +38,7 @@ status: "active"
   - **(6)** functions related to encouraging and promoting the study of foreign languages and the study of cultures of other countries at the elementary, secondary, and postsecondary levels.
 - **(f)** Whenever the President submits the name of an individual to the Senate for confirmation as an officer of the Department under this section, the President shall state the particular functions of the Department such individual will exercise upon taking office.
 - **(g)** Each officer of the Department established under this section shall report directly to the Secretary and shall, in addition to any functions vested in or required to be delegated to such officer, perform such additional functions as the Secretary may prescribe.
-- **(h)** The Assistant Secretary for Vocational and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Vocational and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
+- **(h)** The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
 - **(i)**
   - **(1)** There shall be in the Department a Liaison for Community and Junior Colleges, who shall be an officer of the Department appointed by the Secretary.
   - **(2)** The Secretary shall appoint, not later than 6 months after July 23, 1992 , as the Liaison for Community and Junior Colleges a person who—

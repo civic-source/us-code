@@ -3,9 +3,9 @@ title: "Section 256 - Coordination for interconnectivity"
 usc_title: 47
 usc_section: "256"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "47 U.S.C. § 256"
-generated_at: "2026-03-30T03:42:06.666Z"
+generated_at: "2026-03-30T03:46:30.757Z"
 status: "active"
 ---
 

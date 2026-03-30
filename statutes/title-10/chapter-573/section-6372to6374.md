@@ -3,9 +3,9 @@ title: "Section 6372to6374 - Repealed. Pub. L. 96–513, title III, § 335 , Dec
 usc_title: 10
 usc_section: "6372to6374"
 chapter: 573
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 6372to6374"
-generated_at: "2026-03-30T03:39:59.622Z"
+generated_at: "2026-03-30T03:43:42.549Z"
 status: "repealed"
 ---
 

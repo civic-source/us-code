@@ -3,16 +3,16 @@ title: "Section 4623 - Replacement housing for homeowner; mortgage insurance"
 usc_title: 42
 usc_section: "4623"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 4623"
-generated_at: "2026-03-30T03:41:56.528Z"
+generated_at: "2026-03-30T03:46:13.404Z"
 status: "active"
 ---
 
 # § 4623. Replacement housing for homeowner; mortgage insurance
 
 - **(a)**
-  - **(1)** In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $22,500 to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than one hundred and eighty days prior to the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
+  - **(1)** In addition to payments otherwise authorized by this subchapter, the head of the displacing agency shall make an additional payment not in excess of $31,000, as adjusted by regulation, in accordance with 4633(d) 1 1 So in original. Probably should be preceded by “section”. of this title, to any displaced person who is displaced from a dwelling actually owned and occupied by such displaced person for not less than 90 days before the initiation of negotiations for the acquisition of the property. Such additional payment shall include the following elements:
     - **(A)** The amount, if any, which when added to the acquisition cost of the dwelling acquired by the displacing agency, equals the reasonable cost of a comparable replacement dwelling.
     - **(B)** The amount, if any, which will compensate such displaced person for any increased interest costs and other debt service costs which such person is required to pay for financing the acquisition of any such comparable replacement dwelling. Such amount shall be paid only if the dwelling acquired by the displacing agency was encumbered by a bona fide mortgage which was a valid lien on such dwelling for not less than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling.
     - **(C)** Reasonable expenses incurred by such displaced person for evidence of title, recording fees, and other closing costs incident to the purchase of the replacement dwelling, but not including prepaid expenses.

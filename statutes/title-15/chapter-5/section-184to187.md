@@ -3,9 +3,9 @@ title: "Section 184to187 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76
 usc_title: 15
 usc_section: "184to187"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 184to187"
-generated_at: "2026-03-30T03:40:16.066Z"
+generated_at: "2026-03-30T03:44:05.689Z"
 status: "repealed"
 ---
 

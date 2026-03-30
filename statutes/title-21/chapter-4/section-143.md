@@ -3,9 +3,9 @@ title: "Section 143 - Inspection; certified statement in lieu thereof; waiver of
 usc_title: 21
 usc_section: "143"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "21 U.S.C. § 143"
-generated_at: "2026-03-30T03:40:52.871Z"
+generated_at: "2026-03-30T03:44:28.694Z"
 status: "active"
 ---
 

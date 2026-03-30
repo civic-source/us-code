@@ -3,9 +3,9 @@ title: "Section 8262j - Energy management requirements for United States Postal 
 usc_title: 42
 usc_section: "8262j"
 chapter: 91
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 8262j"
-generated_at: "2026-03-30T03:41:56.737Z"
+generated_at: "2026-03-30T03:46:13.595Z"
 status: "active"
 ---
 

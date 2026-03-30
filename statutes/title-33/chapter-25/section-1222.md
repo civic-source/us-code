@@ -3,9 +3,9 @@ title: "Section 1222 - Definitions"
 usc_title: 33
 usc_section: "1222"
 chapter: 25
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "33 U.S.C. § 1222"
-generated_at: "2026-03-30T03:41:21.916Z"
+generated_at: "2026-03-30T03:44:53.284Z"
 status: "active"
 ---
 

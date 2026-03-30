@@ -3,9 +3,9 @@ title: "Section 418D - Adjustments in accrued benefits"
 usc_title: 26
 usc_section: "418D"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 418D"
-generated_at: "2026-03-30T03:41:16.586Z"
+generated_at: "2026-03-30T03:44:41.844Z"
 status: "active"
 ---
 

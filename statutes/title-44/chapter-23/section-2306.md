@@ -3,9 +3,9 @@ title: "Section 2306 - Investment of funds"
 usc_title: 44
 usc_section: "2306"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "44 U.S.C. § 2306"
-generated_at: "2026-03-30T03:41:33.983Z"
+generated_at: "2026-03-30T03:45:08.435Z"
 status: "active"
 ---
 

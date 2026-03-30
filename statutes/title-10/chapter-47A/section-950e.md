@@ -3,9 +3,9 @@ title: "Section 950e - Rehearings"
 usc_title: 10
 usc_section: "950e"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 950e"
-generated_at: "2026-03-30T03:39:59.498Z"
+generated_at: "2026-03-30T03:43:42.400Z"
 status: "active"
 ---
 

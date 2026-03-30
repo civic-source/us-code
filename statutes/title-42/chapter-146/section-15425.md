@@ -3,9 +3,9 @@ title: "Section 15425 - Reports"
 usc_title: 42
 usc_section: "15425"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 15425"
-generated_at: "2026-03-30T03:41:56.989Z"
+generated_at: "2026-03-30T03:46:13.809Z"
 status: "active"
 ---
 

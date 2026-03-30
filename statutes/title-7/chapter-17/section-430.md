@@ -3,9 +3,9 @@ title: "Section 430 - Purchase and testing of serums or analogous products; diss
 usc_title: 7
 usc_section: "430"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 430"
-generated_at: "2026-03-30T03:40:07.639Z"
+generated_at: "2026-03-30T03:43:45.990Z"
 status: "active"
 ---
 

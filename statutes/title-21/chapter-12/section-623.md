@@ -3,9 +3,9 @@ title: "Section 623 - Exemptions from inspection requirements"
 usc_title: 21
 usc_section: "623"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "21 U.S.C. § 623"
-generated_at: "2026-03-30T03:40:52.945Z"
+generated_at: "2026-03-30T03:44:28.769Z"
 status: "active"
 ---
 

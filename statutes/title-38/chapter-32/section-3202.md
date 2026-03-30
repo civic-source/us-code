@@ -3,9 +3,9 @@ title: "Section 3202 - Definitions"
 usc_title: 38
 usc_section: "3202"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "38 U.S.C. § 3202"
-generated_at: "2026-03-30T03:41:28.424Z"
+generated_at: "2026-03-30T03:44:58.728Z"
 status: "active"
 ---
 

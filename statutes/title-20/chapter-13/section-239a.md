@@ -3,9 +3,9 @@ title: "Section 239a - Repealed. Pub. L. 97–35, title V, § 542(1) , Aug. 13, 
 usc_title: 20
 usc_section: "239a"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 239a"
-generated_at: "2026-03-30T03:40:47.750Z"
+generated_at: "2026-03-30T03:44:15.141Z"
 status: "repealed"
 ---
 

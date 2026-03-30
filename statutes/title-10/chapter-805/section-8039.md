@@ -3,9 +3,9 @@ title: "Section 8039 - Chief of Chaplains: appointment; duties"
 usc_title: 10
 usc_section: "8039"
 chapter: 805
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 8039"
-generated_at: "2026-03-30T03:39:59.636Z"
+generated_at: "2026-03-30T03:43:42.565Z"
 status: "active"
 ---
 

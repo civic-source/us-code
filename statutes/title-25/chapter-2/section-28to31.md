@@ -3,9 +3,9 @@ title: "Section 28to31 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 8
 usc_title: 25
 usc_section: "28to31"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 28to31"
-generated_at: "2026-03-30T03:40:54.104Z"
+generated_at: "2026-03-30T03:44:24.407Z"
 status: "repealed"
 ---
 

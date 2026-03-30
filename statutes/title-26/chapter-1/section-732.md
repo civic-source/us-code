@@ -3,9 +3,9 @@ title: "Section 732 - Basis of distributed property other than money"
 usc_title: 26
 usc_section: "732"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 732"
-generated_at: "2026-03-30T03:41:16.634Z"
+generated_at: "2026-03-30T03:44:41.892Z"
 status: "active"
 ---
 

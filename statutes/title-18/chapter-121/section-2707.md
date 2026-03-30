@@ -3,9 +3,9 @@ title: "Section 2707 - Civil action"
 usc_title: 18
 usc_section: "2707"
 chapter: 121
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "18 U.S.C. § 2707"
-generated_at: "2026-03-30T03:40:28.166Z"
+generated_at: "2026-03-30T03:44:11.197Z"
 status: "active"
 ---
 

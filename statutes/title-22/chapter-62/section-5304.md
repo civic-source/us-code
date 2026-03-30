@@ -3,9 +3,9 @@ title: "Section 5304 - International negotiations on exchange rate and economic 
 usc_title: 22
 usc_section: "5304"
 chapter: 62
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 5304"
-generated_at: "2026-03-30T03:40:57.224Z"
+generated_at: "2026-03-30T03:44:27.637Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1881to1888 - Repealed. Pub. L. 91–648, title IV, § 403 , Jan.
 usc_title: 7
 usc_section: "1881to1888"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 1881to1888"
-generated_at: "2026-03-30T03:40:07.707Z"
+generated_at: "2026-03-30T03:43:46.060Z"
 status: "repealed"
 ---
 

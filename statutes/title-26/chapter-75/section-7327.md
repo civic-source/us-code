@@ -3,9 +3,9 @@ title: "Section 7327 - Customs laws applicable"
 usc_title: 26
 usc_section: "7327"
 chapter: 75
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 7327"
-generated_at: "2026-03-30T03:41:16.858Z"
+generated_at: "2026-03-30T03:44:42.097Z"
 status: "active"
 ---
 

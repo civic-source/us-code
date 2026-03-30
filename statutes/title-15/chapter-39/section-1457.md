@@ -3,9 +3,9 @@ title: "Section 1457 - Omitted"
 usc_title: 15
 usc_section: "1457"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 1457"
-generated_at: "2026-03-30T03:40:16.138Z"
+generated_at: "2026-03-30T03:44:05.764Z"
 status: "omitted"
 ---
 

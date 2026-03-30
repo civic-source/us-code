@@ -3,9 +3,9 @@ title: "Section 178 - Amortization of cost of acquiring a lease"
 usc_title: 26
 usc_section: "178"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 178"
-generated_at: "2026-03-30T03:41:16.533Z"
+generated_at: "2026-03-30T03:44:41.792Z"
 status: "active"
 ---
 

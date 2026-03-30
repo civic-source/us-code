@@ -3,9 +3,9 @@ title: "Section 3 - Regional Rural Investment Boards"
 usc_title: 7
 usc_section: "3"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T03:40:07.726Z"
+generated_at: "2026-03-30T03:43:46.082Z"
 status: "active"
 ---
 

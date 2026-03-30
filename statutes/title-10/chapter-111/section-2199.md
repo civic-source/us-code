@@ -3,9 +3,9 @@ title: "Section 2199 - Definitions"
 usc_title: 10
 usc_section: "2199"
 chapter: 111
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 2199"
-generated_at: "2026-03-30T03:39:59.549Z"
+generated_at: "2026-03-30T03:43:42.460Z"
 status: "active"
 ---
 

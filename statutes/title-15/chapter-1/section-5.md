@@ -3,9 +3,9 @@ title: "Section 5 - Bringing in additional parties"
 usc_title: 15
 usc_section: "5"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T03:40:15.988Z"
+generated_at: "2026-03-30T03:44:05.613Z"
 status: "active"
 ---
 

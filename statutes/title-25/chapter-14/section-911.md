@@ -3,9 +3,9 @@ title: "Section 911 - Membership roll; preparation; eligibility for enrollment; 
 usc_title: 25
 usc_section: "911"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 911"
-generated_at: "2026-03-30T03:40:54.155Z"
+generated_at: "2026-03-30T03:44:24.458Z"
 status: "active"
 ---
 

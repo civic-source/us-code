@@ -3,9 +3,9 @@ title: "Section 2123 - Board of directors"
 usc_title: 12
 usc_section: "2123"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 2123"
-generated_at: "2026-03-30T03:40:23.300Z"
+generated_at: "2026-03-30T03:43:57.755Z"
 status: "active"
 ---
 

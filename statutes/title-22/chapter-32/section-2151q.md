@@ -3,9 +3,9 @@ title: "Section 2151q - Endangered species"
 usc_title: 22
 usc_section: "2151q"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 2151q"
-generated_at: "2026-03-30T03:40:57.130Z"
+generated_at: "2026-03-30T03:44:27.552Z"
 status: "active"
 ---
 

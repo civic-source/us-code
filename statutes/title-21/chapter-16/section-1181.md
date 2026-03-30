@@ -3,9 +3,9 @@ title: "Section 1181 - Contract authority"
 usc_title: 21
 usc_section: "1181"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "21 U.S.C. § 1181"
-generated_at: "2026-03-30T03:40:52.963Z"
+generated_at: "2026-03-30T03:44:28.787Z"
 status: "active"
 ---
 

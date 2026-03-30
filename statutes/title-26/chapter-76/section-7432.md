@@ -3,9 +3,9 @@ title: "Section 7432 - Civil damages for failure to release lien"
 usc_title: 26
 usc_section: "7432"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 7432"
-generated_at: "2026-03-30T03:41:16.862Z"
+generated_at: "2026-03-30T03:44:42.100Z"
 status: "active"
 ---
 

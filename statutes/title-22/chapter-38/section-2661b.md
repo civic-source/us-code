@@ -3,9 +3,9 @@ title: "Section 2661b - Services provided to the press"
 usc_title: 22
 usc_section: "2661b"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 2661b"
-generated_at: "2026-03-30T03:40:57.170Z"
+generated_at: "2026-03-30T03:44:27.589Z"
 status: "active"
 ---
 

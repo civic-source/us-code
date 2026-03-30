@@ -3,9 +3,9 @@ title: "Section 177 - American Registry of Pathology"
 usc_title: 10
 usc_section: "177"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 177"
-generated_at: "2026-03-30T03:39:59.464Z"
+generated_at: "2026-03-30T03:43:42.359Z"
 status: "active"
 ---
 

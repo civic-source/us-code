@@ -3,9 +3,9 @@ title: "Section 7547 - Equipment for instruction in seamanship: loan to military
 usc_title: 10
 usc_section: "7547"
 chapter: 647
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 7547"
-generated_at: "2026-03-30T03:39:59.631Z"
+generated_at: "2026-03-30T03:43:42.560Z"
 status: "active"
 ---
 

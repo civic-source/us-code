@@ -3,9 +3,9 @@ title: "Section 7261a - Purpose"
 usc_title: 20
 usc_section: "7261a"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 7261a"
-generated_at: "2026-03-30T03:40:47.933Z"
+generated_at: "2026-03-30T03:44:15.335Z"
 status: "active"
 ---
 

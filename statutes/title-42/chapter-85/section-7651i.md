@@ -3,9 +3,9 @@ title: "Section 7651i - Election for additional sources"
 usc_title: 42
 usc_section: "7651i"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 7651i"
-generated_at: "2026-03-30T03:41:56.715Z"
+generated_at: "2026-03-30T03:46:13.576Z"
 status: "active"
 ---
 

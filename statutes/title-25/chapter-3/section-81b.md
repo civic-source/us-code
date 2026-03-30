@@ -3,9 +3,9 @@ title: "Section 81b - Continuation of contracts with attorneys containing limita
 usc_title: 25
 usc_section: "81b"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 81b"
-generated_at: "2026-03-30T03:40:54.105Z"
+generated_at: "2026-03-30T03:44:24.408Z"
 status: "active"
 ---
 

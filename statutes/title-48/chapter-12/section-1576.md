@@ -3,9 +3,9 @@ title: "Section 1576 - General elections; time; transfer of Council functions, p
 usc_title: 48
 usc_section: "1576"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "48 U.S.C. § 1576"
-generated_at: "2026-03-30T03:42:09.283Z"
+generated_at: "2026-03-30T03:46:23.016Z"
 status: "active"
 ---
 

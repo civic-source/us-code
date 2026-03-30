@@ -3,9 +3,9 @@ title: "Section 1441c - Omitted"
 usc_title: 42
 usc_section: "1441c"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 1441c"
-generated_at: "2026-03-30T03:41:56.332Z"
+generated_at: "2026-03-30T03:46:13.221Z"
 status: "omitted"
 ---
 

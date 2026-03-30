@@ -3,9 +3,9 @@ title: "Section 20709 - Records and inspection"
 usc_title: 36
 usc_section: "20709"
 chapter: 207
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "36 U.S.C. § 20709"
-generated_at: "2026-03-30T03:41:24.995Z"
+generated_at: "2026-03-30T03:44:59.858Z"
 status: "active"
 ---
 

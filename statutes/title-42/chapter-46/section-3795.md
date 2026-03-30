@@ -3,9 +3,9 @@ title: "Section 3795 - Misuse of Federal assistance"
 usc_title: 42
 usc_section: "3795"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 3795"
-generated_at: "2026-03-30T03:41:56.496Z"
+generated_at: "2026-03-30T03:46:13.374Z"
 status: "active"
 ---
 

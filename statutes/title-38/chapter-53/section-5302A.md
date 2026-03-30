@@ -3,9 +3,9 @@ title: "Section 5302A - 1 1 So in original. Probably should be followed by a per
 usc_title: 38
 usc_section: "5302A"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "38 U.S.C. § 5302A"
-generated_at: "2026-03-30T03:41:28.450Z"
+generated_at: "2026-03-30T03:44:58.754Z"
 status: "active"
 ---
 

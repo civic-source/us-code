@@ -3,9 +3,9 @@ title: "Section 364 - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 675"
 usc_title: 7
 usc_section: "364"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 364"
-generated_at: "2026-03-30T03:40:07.637Z"
+generated_at: "2026-03-30T03:43:45.987Z"
 status: "repealed"
 ---
 

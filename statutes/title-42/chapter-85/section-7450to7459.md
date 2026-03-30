@@ -3,9 +3,9 @@ title: "Section 7450to7459 - Repealed. Pub. L. 101–549, title VI, § 601 , Nov
 usc_title: 42
 usc_section: "7450to7459"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 7450to7459"
-generated_at: "2026-03-30T03:41:56.683Z"
+generated_at: "2026-03-30T03:46:13.545Z"
 status: "repealed"
 ---
 

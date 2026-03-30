@@ -3,9 +3,9 @@ title: "Section 16273 - Advanced fuel cycle initiative"
 usc_title: 42
 usc_section: "16273"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 16273"
-generated_at: "2026-03-30T03:41:57.019Z"
+generated_at: "2026-03-30T03:46:13.835Z"
 status: "active"
 ---
 

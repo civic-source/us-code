@@ -3,15 +3,15 @@ title: "Section 6302 - Bureau of Transportation Statistics"
 usc_title: 49
 usc_section: "6302"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 6302"
-generated_at: "2026-03-30T03:42:13.926Z"
+generated_at: "2026-03-30T03:46:39.790Z"
 status: "active"
 ---
 
 # § 6302. Bureau of Transportation Statistics
 
-- **(a)** There is established in the Research and Innovative Technology Administration the Bureau of Transportation Statistics.
+- **(a)** There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation the Bureau of Transportation Statistics.
 - **(b)**
   - **(1)** The Bureau shall be headed by a Director, who shall be appointed in the competitive service by the Secretary.
   - **(2)** The Director shall be appointed from among individuals who are qualified to serve as the Director by virtue of their training and experience in the collection, analysis, and use of transportation statistics.

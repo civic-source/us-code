@@ -3,9 +3,9 @@ title: "Section 24405 - Grant conditions"
 usc_title: 49
 usc_section: "24405"
 chapter: 244
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 24405"
-generated_at: "2026-03-30T03:42:13.958Z"
+generated_at: "2026-03-30T03:46:39.821Z"
 status: "active"
 ---
 

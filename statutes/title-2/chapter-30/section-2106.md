@@ -3,9 +3,9 @@ title: "Section 2106 - Repealed. Pub. L. 108–83, title I, § 3(a)(3) , Sept. 3
 usc_title: 2
 usc_section: "2106"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "2 U.S.C. § 2106"
-generated_at: "2026-03-30T03:39:39.556Z"
+generated_at: "2026-03-30T03:43:29.216Z"
 status: "repealed"
 ---
 

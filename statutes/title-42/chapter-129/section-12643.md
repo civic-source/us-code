@@ -3,9 +3,9 @@ title: "Section 12643 - Rights of access, examination, and copying"
 usc_title: 42
 usc_section: "12643"
 chapter: 129
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 12643"
-generated_at: "2026-03-30T03:41:56.873Z"
+generated_at: "2026-03-30T03:46:13.723Z"
 status: "active"
 ---
 

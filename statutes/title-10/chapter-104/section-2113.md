@@ -3,9 +3,9 @@ title: "Section 2113 - Administration of University"
 usc_title: 10
 usc_section: "2113"
 chapter: 104
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 2113"
-generated_at: "2026-03-30T03:39:59.545Z"
+generated_at: "2026-03-30T03:43:42.454Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
 - **(g)**
   - **(1)** The Secretary also is authorized—
     - **(A)** to enter into contracts with, accept grants from, and make grants to the Henry M. Jackson Foundation for the Advancement of Military Medicine established under section 178 of this title , or any other nonprofit entity, for the purpose of carrying out cooperative enterprises in medical research, medical consultation, and medical education;
-    - **(B)** to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation and the University;
-    - **(C)** to enter into contracts with the Henry M. Jackson Foundation for the Advancement of Military Medicine under which the Secretary may furnish the services of such professional, technical, or clerical personnel as may be necessary to fulfill cooperative enterprises undertaken by such foundation and the University;
+    - **(B)** to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation, or nonprofit entity, and the University;
+    - **(C)** to enter into contracts with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, under which the Secretary may furnish the services of such professional, technical, or clerical personnel as may be necessary to fulfill cooperative enterprises undertaken by such foundation, or nonprofit entity, and the University;
     - **(D)** to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
     - **(E)** to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
     - **(F)** to accept the voluntary services of guest scholars and other persons.

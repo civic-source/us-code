@@ -3,9 +3,9 @@ title: "Section 963 - Minimum requirements"
 usc_title: 6
 usc_section: "963"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "6 U.S.C. § 963"
-generated_at: "2026-03-30T03:39:48.028Z"
+generated_at: "2026-03-30T03:43:37.884Z"
 status: "active"
 ---
 

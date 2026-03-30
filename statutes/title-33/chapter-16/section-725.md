@@ -3,9 +3,9 @@ title: "Section 725 - Prohibition against officers and employees being intereste
 usc_title: 33
 usc_section: "725"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "33 U.S.C. § 725"
-generated_at: "2026-03-30T03:41:21.901Z"
+generated_at: "2026-03-30T03:44:53.270Z"
 status: "active"
 ---
 

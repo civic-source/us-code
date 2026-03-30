@@ -3,9 +3,9 @@ title: "Section 1555 - Immigration Service expenses"
 usc_title: 8
 usc_section: "1555"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "8 U.S.C. § 1555"
-generated_at: "2026-03-30T03:39:48.882Z"
+generated_at: "2026-03-30T03:43:36.955Z"
 status: "active"
 ---
 

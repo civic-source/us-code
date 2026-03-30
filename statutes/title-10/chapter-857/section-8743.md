@@ -3,9 +3,9 @@ title: "Section 8743 - Distinguished-service medal: award"
 usc_title: 10
 usc_section: "8743"
 chapter: 857
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 8743"
-generated_at: "2026-03-30T03:39:59.638Z"
+generated_at: "2026-03-30T03:43:42.568Z"
 status: "active"
 ---
 

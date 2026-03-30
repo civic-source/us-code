@@ -3,9 +3,9 @@ title: "Section 3215 - Public land entries in Alaska"
 usc_title: 16
 usc_section: "3215"
 chapter: 51
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 3215"
-generated_at: "2026-03-30T03:40:45.016Z"
+generated_at: "2026-03-30T03:44:18.771Z"
 status: "active"
 ---
 

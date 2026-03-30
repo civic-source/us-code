@@ -3,18 +3,20 @@ title: "Section 6103 - Minimum standards for State one-call notification program
 usc_title: 49
 usc_section: "6103"
 chapter: 61
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 6103"
-generated_at: "2026-03-30T03:42:13.926Z"
+generated_at: "2026-03-30T03:46:39.790Z"
 status: "active"
 ---
 
 # § 6103. Minimum standards for State one-call notification programs
 
-- **(a)** In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
-  - **(1)** appropriate participation by all underground facility operators, including all government operators;
-  - **(2)** appropriate participation by all excavators, including all government and contract excavators; and
-  - **(3)** flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+- **(a)**
+  - **(1)** In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—
+    - **(A)** appropriate participation by all underground facility operators, including all government operators;
+    - **(B)** appropriate participation by all excavators, including all government and contract excavators; and
+    - **(C)** flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+  - **(2)** In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 - **(b)** In determining the appropriate extent of participation required for types of underground facilities or excavators under subsection (a), a State shall assess, rank, and take into consideration the risks to the public safety, the environment, excavators, and vital public services associated with—
   - **(1)** damage to types of underground facilities; and
   - **(2)** activities of types of excavators.

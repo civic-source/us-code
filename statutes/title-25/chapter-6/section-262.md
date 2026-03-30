@@ -3,9 +3,9 @@ title: "Section 262 - Persons permitted to trade with Indians"
 usc_title: 25
 usc_section: "262"
 chapter: 6
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 262"
-generated_at: "2026-03-30T03:40:54.109Z"
+generated_at: "2026-03-30T03:44:24.412Z"
 status: "active"
 ---
 

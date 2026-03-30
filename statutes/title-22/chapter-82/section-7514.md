@@ -3,9 +3,9 @@ title: "Section 7514 - Coordination of assistance"
 usc_title: 22
 usc_section: "7514"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 7514"
-generated_at: "2026-03-30T03:40:57.259Z"
+generated_at: "2026-03-30T03:44:27.669Z"
 status: "active"
 ---
 

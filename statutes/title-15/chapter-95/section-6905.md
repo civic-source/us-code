@@ -3,9 +3,9 @@ title: "Section 6905 - Allocation of assistance; subgrants"
 usc_title: 15
 usc_section: "6905"
 chapter: 95
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 6905"
-generated_at: "2026-03-30T03:40:16.239Z"
+generated_at: "2026-03-30T03:44:05.865Z"
 status: "active"
 ---
 

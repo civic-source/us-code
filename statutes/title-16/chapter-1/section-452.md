@@ -3,9 +3,9 @@ title: "Section 452 - Revenues of national parks covered into Treasury; estimate
 usc_title: 16
 usc_section: "452"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 452"
-generated_at: "2026-03-30T03:40:44.804Z"
+generated_at: "2026-03-30T03:44:18.585Z"
 status: "active"
 ---
 

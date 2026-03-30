@@ -3,9 +3,9 @@ title: "Section 14015 - Report on recordkeeping relating to domestic violence"
 usc_title: 42
 usc_section: "14015"
 chapter: 136
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 14015"
-generated_at: "2026-03-30T03:41:56.948Z"
+generated_at: "2026-03-30T03:46:13.776Z"
 status: "active"
 ---
 

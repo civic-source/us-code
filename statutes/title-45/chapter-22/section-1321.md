@@ -3,9 +3,9 @@ title: "Section 1321 - Rail service obligations"
 usc_title: 45
 usc_section: "1321"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "45 U.S.C. § 1321"
-generated_at: "2026-03-30T03:41:35.190Z"
+generated_at: "2026-03-30T03:45:09.205Z"
 status: "active"
 ---
 

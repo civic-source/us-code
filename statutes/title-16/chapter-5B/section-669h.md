@@ -3,9 +3,9 @@ title: "Section 669h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "669h"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 669h"
-generated_at: "2026-03-30T03:40:44.893Z"
+generated_at: "2026-03-30T03:44:18.664Z"
 status: "active"
 ---
 

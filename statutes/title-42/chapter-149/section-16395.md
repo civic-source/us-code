@@ -3,9 +3,9 @@ title: "Section 16395 - Relationship to other laws"
 usc_title: 42
 usc_section: "16395"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 16395"
-generated_at: "2026-03-30T03:41:57.024Z"
+generated_at: "2026-03-30T03:46:13.841Z"
 status: "active"
 ---
 

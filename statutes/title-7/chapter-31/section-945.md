@@ -3,9 +3,9 @@ title: "Section 945 - Board of directors"
 usc_title: 7
 usc_section: "945"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 945"
-generated_at: "2026-03-30T03:40:07.656Z"
+generated_at: "2026-03-30T03:43:46.008Z"
 status: "active"
 ---
 

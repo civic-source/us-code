@@ -3,9 +3,9 @@ title: "Section 4958 - Taxes on excess benefit transactions"
 usc_title: 26
 usc_section: "4958"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 4958"
-generated_at: "2026-03-30T03:41:16.769Z"
+generated_at: "2026-03-30T03:44:42.017Z"
 status: "active"
 ---
 

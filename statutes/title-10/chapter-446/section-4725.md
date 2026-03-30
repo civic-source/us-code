@@ -3,9 +3,9 @@ title: "Section 4725 - Superintendents"
 usc_title: 10
 usc_section: "4725"
 chapter: 446
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 4725"
-generated_at: "2026-03-30T03:39:59.615Z"
+generated_at: "2026-03-30T03:43:42.539Z"
 status: "active"
 ---
 

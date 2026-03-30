@@ -3,9 +3,9 @@ title: "Section 3211 - Public documents"
 usc_title: 39
 usc_section: "3211"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "39 U.S.C. § 3211"
-generated_at: "2026-03-30T03:41:23.905Z"
+generated_at: "2026-03-30T03:44:55.691Z"
 status: "active"
 ---
 

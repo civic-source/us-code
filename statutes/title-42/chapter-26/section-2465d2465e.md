@@ -3,9 +3,9 @@ title: "Section 2465d2465e - Repealed. Pub. L. 105–303, title II, § 203(3) , 
 usc_title: 42
 usc_section: "2465d2465e"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 2465d2465e"
-generated_at: "2026-03-30T03:41:56.446Z"
+generated_at: "2026-03-30T03:46:13.327Z"
 status: "repealed"
 ---
 

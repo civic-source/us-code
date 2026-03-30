@@ -3,9 +3,9 @@ title: "Section 4685 - Obsolete ordnance: loan to educational institutions and S
 usc_title: 10
 usc_section: "4685"
 chapter: 443
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 4685"
-generated_at: "2026-03-30T03:39:59.614Z"
+generated_at: "2026-03-30T03:43:42.538Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2684a - Agreements to limit encroachments and other constraints 
 usc_title: 10
 usc_section: "2684a"
 chapter: 159
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 2684a"
-generated_at: "2026-03-30T03:39:59.591Z"
+generated_at: "2026-03-30T03:43:42.509Z"
 status: "active"
 ---
 
@@ -59,10 +59,11 @@ status: "active"
     - **(C)** An evaluation of the methodology and criteria used to select, and to establish priorities, for projects undertaken under agreements under this section.
     - **(D)** A description of any sharing of costs by the United States and eligible entities under subsection (d) during the preceding year, including a description of each agreement under this section providing for the sharing of such costs and a statement of the eligible entity or entities with which the United States is sharing such costs.
     - **(E)** Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
-- **(h)**
+- **(h)** In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect both the environment and military readiness, the recipient of funds provided pursuant an agreement under this section or under the Sikes Act (16 U.S.C. et seq.) 1 1 So in original. Probably should be “( 16 U.S.C. 670 et seq.)”. may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation program of the Department of Agriculture or the Department of the Interior notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
+- **(i)**
   - **(1)** Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, or Defense-wide activities may be used to enter into agreements under this section.
   - **(2)** In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, and evaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
-- **(i)** In this section:
+- **(j)** In this section:
   - **(1)** The term “Secretary concerned” means the Secretary of Defense or the Secretary of a military department.
   - **(2)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
   - **(3)** The term “Clear Zone Area” means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.

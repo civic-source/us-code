@@ -3,9 +3,9 @@ title: "Section 3531 - Purposes"
 usc_title: 44
 usc_section: "3531"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "44 U.S.C. § 3531"
-generated_at: "2026-03-30T03:41:33.989Z"
+generated_at: "2026-03-30T03:45:08.439Z"
 status: "active"
 ---
 

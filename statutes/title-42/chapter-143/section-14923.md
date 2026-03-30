@@ -3,9 +3,9 @@ title: "Section 14923 - Standards and procedures for providing accreditation or 
 usc_title: 42
 usc_section: "14923"
 chapter: 143
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 14923"
-generated_at: "2026-03-30T03:41:56.971Z"
+generated_at: "2026-03-30T03:46:13.794Z"
 status: "active"
 ---
 

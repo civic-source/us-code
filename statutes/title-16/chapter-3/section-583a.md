@@ -3,9 +3,9 @@ title: "Section 583a - Cooperative agreements with private owners; privileges of
 usc_title: 16
 usc_section: "583a"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 583a"
-generated_at: "2026-03-30T03:40:44.884Z"
+generated_at: "2026-03-30T03:44:18.656Z"
 status: "active"
 ---
 

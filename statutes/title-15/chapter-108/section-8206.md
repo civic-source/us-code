@@ -3,9 +3,9 @@ title: "Section 8206 - Definitions"
 usc_title: 15
 usc_section: "8206"
 chapter: 108
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 8206"
-generated_at: "2026-03-30T03:40:16.252Z"
+generated_at: "2026-03-30T03:44:05.972Z"
 status: "active"
 ---
 

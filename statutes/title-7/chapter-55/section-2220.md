@@ -3,9 +3,9 @@ title: "Section 2220 - Certain officials and employees of Department and others 
 usc_title: 7
 usc_section: "2220"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 2220"
-generated_at: "2026-03-30T03:40:07.747Z"
+generated_at: "2026-03-30T03:43:46.103Z"
 status: "active"
 ---
 

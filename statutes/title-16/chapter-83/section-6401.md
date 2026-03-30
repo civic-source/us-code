@@ -3,9 +3,9 @@ title: "Section 6401 - Purposes"
 usc_title: 16
 usc_section: "6401"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 6401"
-generated_at: "2026-03-30T03:40:45.058Z"
+generated_at: "2026-03-30T03:44:18.807Z"
 status: "active"
 ---
 

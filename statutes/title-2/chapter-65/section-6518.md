@@ -3,9 +3,9 @@ title: "Section 6518 - Workers compensation payments"
 usc_title: 2
 usc_section: "6518"
 chapter: 65
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "2 U.S.C. § 6518"
-generated_at: "2026-03-30T03:39:39.573Z"
+generated_at: "2026-03-30T03:43:29.235Z"
 status: "active"
 ---
 

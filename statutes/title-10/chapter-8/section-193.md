@@ -3,16 +3,16 @@ title: "Section 193 - Combat support agencies: oversight"
 usc_title: 10
 usc_section: "193"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 193"
-generated_at: "2026-03-30T03:39:59.466Z"
+generated_at: "2026-03-30T03:43:42.361Z"
 status: "active"
 ---
 
 # § 193. Combat support agencies: oversight
 
 - **(a)**
-  - **(1)** Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense a report on the combat support agencies. Each such report shall include—
+  - **(1)** Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense and the congressional defense committees a report on the combat support agencies. Each such report shall include—
     - **(A)** a determination with respect to the responsiveness and readiness of each such agency to support operating forces in the event of a war or threat to national security; and
     - **(B)** any recommendations that the Chairman considers appropriate.
   - **(2)** In preparing each such report, the Chairman shall review the plans of each such agency with respect to its support of operating forces in the event of a war or threat to national security. After consultation with the Secretaries of the military departments and the commanders of the unified and specified combatant commands, as appropriate, the Chairman may, with the approval of the Secretary of Defense, take steps to provide for any revision of those plans that the Chairman considers appropriate.

@@ -3,9 +3,9 @@ title: "Section 451to460 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "451to460"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "8 U.S.C. § 451to460"
-generated_at: "2026-03-30T03:39:48.826Z"
+generated_at: "2026-03-30T03:43:36.908Z"
 status: "repealed"
 ---
 

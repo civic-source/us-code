@@ -3,9 +3,9 @@ title: "Section 374a - Inspections relating to food allergens"
 usc_title: 21
 usc_section: "374a"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "21 U.S.C. § 374a"
-generated_at: "2026-03-30T03:40:52.919Z"
+generated_at: "2026-03-30T03:44:28.742Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6620 - Release of scientific research results"
 usc_title: 42
 usc_section: "6620"
 chapter: 79
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 6620"
-generated_at: "2026-03-30T03:41:56.625Z"
+generated_at: "2026-03-30T03:46:13.490Z"
 status: "active"
 ---
 

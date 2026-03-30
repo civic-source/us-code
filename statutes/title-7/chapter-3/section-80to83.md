@@ -3,9 +3,9 @@ title: "Section 80to83 - Omitted"
 usc_title: 7
 usc_section: "80to83"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 80to83"
-generated_at: "2026-03-30T03:40:07.606Z"
+generated_at: "2026-03-30T03:43:45.957Z"
 status: "omitted"
 ---
 

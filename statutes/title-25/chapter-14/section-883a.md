@@ -3,9 +3,9 @@ title: "Section 883a - Payment of allotments"
 usc_title: 25
 usc_section: "883a"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 883a"
-generated_at: "2026-03-30T03:40:54.154Z"
+generated_at: "2026-03-30T03:44:24.457Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4306to4308 - Omitted]"
 usc_title: 5
 usc_section: "4306to4308"
 chapter: 43
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 4306to4308"
-generated_at: "2026-03-30T03:39:45.385Z"
+generated_at: "2026-03-30T03:43:32.474Z"
 status: "omitted"
 ---
 

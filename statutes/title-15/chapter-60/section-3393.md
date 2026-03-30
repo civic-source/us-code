@@ -3,9 +3,9 @@ title: "Section 3393 - Establishment and implementation of priorities"
 usc_title: 15
 usc_section: "3393"
 chapter: 60
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 3393"
-generated_at: "2026-03-30T03:40:16.206Z"
+generated_at: "2026-03-30T03:44:05.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9582 - Copyright"
 usc_title: 20
 usc_section: "9582"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 9582"
-generated_at: "2026-03-30T03:40:47.963Z"
+generated_at: "2026-03-30T03:44:15.368Z"
 status: "active"
 ---
 

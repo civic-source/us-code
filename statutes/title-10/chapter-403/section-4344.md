@@ -3,9 +3,9 @@ title: "Section 4344 - Selection of persons from foreign countries"
 usc_title: 10
 usc_section: "4344"
 chapter: 403
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 4344"
-generated_at: "2026-03-30T03:39:59.610Z"
+generated_at: "2026-03-30T03:43:42.534Z"
 status: "active"
 ---
 

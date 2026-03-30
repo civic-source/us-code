@@ -3,9 +3,9 @@ title: "Section 8441 - Definitions"
 usc_title: 5
 usc_section: "8441"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 8441"
-generated_at: "2026-03-30T03:39:45.438Z"
+generated_at: "2026-03-30T03:43:32.523Z"
 status: "active"
 ---
 

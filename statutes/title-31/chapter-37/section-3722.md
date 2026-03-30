@@ -3,9 +3,9 @@ title: "Section 3722 - Claims of officers and employees at Government penal and 
 usc_title: 31
 usc_section: "3722"
 chapter: 37
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "31 U.S.C. § 3722"
-generated_at: "2026-03-30T03:41:20.608Z"
+generated_at: "2026-03-30T03:44:51.264Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2344 - Penalties"
 usc_title: 18
 usc_section: "2344"
 chapter: 114
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "18 U.S.C. § 2344"
-generated_at: "2026-03-30T03:40:28.163Z"
+generated_at: "2026-03-30T03:44:11.193Z"
 status: "active"
 ---
 

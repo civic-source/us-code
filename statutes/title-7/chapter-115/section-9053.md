@@ -3,9 +3,9 @@ title: "Section 9053 - Establishment of margin protection program for dairy prod
 usc_title: 7
 usc_section: "9053"
 chapter: 115
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 9053"
-generated_at: "2026-03-30T03:40:07.859Z"
+generated_at: "2026-03-30T03:43:46.217Z"
 status: "active"
 ---
 

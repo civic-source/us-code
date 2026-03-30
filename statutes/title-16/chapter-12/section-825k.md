@@ -3,9 +3,9 @@ title: "Section 825k - Publication and sale of reports"
 usc_title: 16
 usc_section: "825k"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 825k"
-generated_at: "2026-03-30T03:40:44.923Z"
+generated_at: "2026-03-30T03:44:18.690Z"
 status: "active"
 ---
 

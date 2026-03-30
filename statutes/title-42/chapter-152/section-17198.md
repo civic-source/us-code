@@ -3,9 +3,9 @@ title: "Section 17198 - GeoPowering America"
 usc_title: 42
 usc_section: "17198"
 chapter: 152
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 17198"
-generated_at: "2026-03-30T03:41:57.049Z"
+generated_at: "2026-03-30T03:46:13.861Z"
 status: "active"
 ---
 

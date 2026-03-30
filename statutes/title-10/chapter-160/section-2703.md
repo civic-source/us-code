@@ -3,9 +3,9 @@ title: "Section 2703 - Environmental restoration accounts"
 usc_title: 10
 usc_section: "2703"
 chapter: 160
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 2703"
-generated_at: "2026-03-30T03:39:59.593Z"
+generated_at: "2026-03-30T03:43:42.512Z"
 status: "active"
 ---
 
@@ -29,4 +29,4 @@ status: "active"
 - **(g)**
   - **(1)** Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
   - **(2)** In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA ( 42 U.S.C. 9601 ).
-- **(h)** In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ( 42 U.S.C. 9620(h) ), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
+- **(h)** In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ( 42 U.S.C. 9620(h) ), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note). The limitation in this subsection shall expire upon the closure of such base closure account.

@@ -3,9 +3,9 @@ title: "Section 6982 - Notification"
 usc_title: 20
 usc_section: "6982"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 6982"
-generated_at: "2026-03-30T03:40:47.920Z"
+generated_at: "2026-03-30T03:44:15.322Z"
 status: "active"
 ---
 

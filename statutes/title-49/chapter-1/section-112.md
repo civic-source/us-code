@@ -1,17 +1,17 @@
 ---
-title: "Section 112 - Research and Innovative Technology Administration"
+title: "Section 112 - Office of the Assistant Secretary for Research and Technology of the Department of Transportation"
 usc_title: 49
 usc_section: "112"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 112"
-generated_at: "2026-03-30T03:42:13.895Z"
+generated_at: "2026-03-30T03:46:39.765Z"
 status: "active"
 ---
 
-# § 112. Research and Innovative Technology Administration
+# § 112. Office of the Assistant Secretary for Research and Technology of the Department of Transportation
 
-- **(a)** The Research and Innovative Technology Administration shall be an administration in the Department of Transportation.
+- **(a)** The Office of the Assistant Secretary for Research and Technology of the Department of Transportation shall be an administration in the Department of Transportation.
 - **(b)**
   - **(1)** The Administration shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** The Administrator shall report directly to the Secretary.

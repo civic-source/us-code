@@ -3,9 +3,9 @@ title: "Section 1981 - Replacement of surrendered and expired insurance"
 usc_title: 38
 usc_section: "1981"
 chapter: 19
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "38 U.S.C. § 1981"
-generated_at: "2026-03-30T03:41:28.411Z"
+generated_at: "2026-03-30T03:44:58.714Z"
 status: "active"
 ---
 

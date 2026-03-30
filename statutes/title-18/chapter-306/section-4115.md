@@ -3,9 +3,9 @@ title: "Section 4115 - Execution of sentences imposing an obligation to make res
 usc_title: 18
 usc_section: "4115"
 chapter: 306
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "18 U.S.C. § 4115"
-generated_at: "2026-03-30T03:40:28.186Z"
+generated_at: "2026-03-30T03:44:11.220Z"
 status: "active"
 ---
 

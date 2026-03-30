@@ -3,9 +3,9 @@ title: "Section 1508b - Stacked Income Protection Plan for producers of upland c
 usc_title: 7
 usc_section: "1508b"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 1508b"
-generated_at: "2026-03-30T03:40:07.684Z"
+generated_at: "2026-03-30T03:43:46.036Z"
 status: "active"
 ---
 

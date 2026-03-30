@@ -3,15 +3,15 @@ title: "Section 5503 - Office of Intermodalism"
 usc_title: 49
 usc_section: "5503"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 5503"
-generated_at: "2026-03-30T03:42:13.924Z"
+generated_at: "2026-03-30T03:46:39.788Z"
 status: "active"
 ---
 
 # § 5503. Office of Intermodalism
 
-- **(a)** There is established in the Research and Innovative Technology Administration an Office of Intermodalism.
+- **(a)** There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation an Office of Intermodalism.
 - **(b)** The head of the Office is a Director who shall be appointed by the Secretary.
 - **(c)** The Director shall carry out the duties of the Secretary described in section 301(3) of this title .
 - **(d)** The Director shall—

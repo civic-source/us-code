@@ -3,9 +3,9 @@ title: "Section 577c - Acquisition of additional lands in northern Minnesota"
 usc_title: 16
 usc_section: "577c"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 577c"
-generated_at: "2026-03-30T03:40:44.881Z"
+generated_at: "2026-03-30T03:44:18.654Z"
 status: "active"
 ---
 

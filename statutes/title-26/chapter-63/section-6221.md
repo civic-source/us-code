@@ -3,9 +3,9 @@ title: "Section 6221 - Tax treatment determined at partnership level"
 usc_title: 26
 usc_section: "6221"
 chapter: 63
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 6221"
-generated_at: "2026-03-30T03:41:16.822Z"
+generated_at: "2026-03-30T03:44:42.065Z"
 status: "active"
 ---
 

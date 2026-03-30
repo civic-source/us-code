@@ -3,9 +3,9 @@ title: "Section 1915A - Screening"
 usc_title: 28
 usc_section: "1915A"
 chapter: 123
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "28 U.S.C. § 1915A"
-generated_at: "2026-03-30T03:41:06.049Z"
+generated_at: "2026-03-30T03:44:32.287Z"
 status: "active"
 ---
 

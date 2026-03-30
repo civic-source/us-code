@@ -3,9 +3,9 @@ title: "Section 104A - Copyright in restored works"
 usc_title: 17
 usc_section: "104A"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "17 U.S.C. § 104A"
-generated_at: "2026-03-30T03:40:26.124Z"
+generated_at: "2026-03-30T03:44:09.351Z"
 status: "active"
 ---
 

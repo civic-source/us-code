@@ -3,9 +3,9 @@ title: "Section 824j - Wheeling authority"
 usc_title: 16
 usc_section: "824j"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 824j"
-generated_at: "2026-03-30T03:40:44.920Z"
+generated_at: "2026-03-30T03:44:18.688Z"
 status: "active"
 ---
 

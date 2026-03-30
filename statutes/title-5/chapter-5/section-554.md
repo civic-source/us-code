@@ -3,9 +3,9 @@ title: "Section 554 - Adjudications"
 usc_title: 5
 usc_section: "554"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 554"
-generated_at: "2026-03-30T03:39:45.366Z"
+generated_at: "2026-03-30T03:43:32.455Z"
 status: "active"
 ---
 

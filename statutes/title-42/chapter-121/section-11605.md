@@ -3,9 +3,9 @@ title: "Section 11605 - Admissibility of documents"
 usc_title: 42
 usc_section: "11605"
 chapter: 121
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 11605"
-generated_at: "2026-03-30T03:41:56.842Z"
+generated_at: "2026-03-30T03:46:13.694Z"
 status: "active"
 ---
 

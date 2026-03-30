@@ -3,9 +3,9 @@ title: "Section 9276 - Transition provisions"
 usc_title: 20
 usc_section: "9276"
 chapter: 73
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 9276"
-generated_at: "2026-03-30T03:40:47.958Z"
+generated_at: "2026-03-30T03:44:15.362Z"
 status: "active"
 ---
 

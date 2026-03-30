@@ -3,9 +3,9 @@ title: "Section 7178 - Federal Energy Regulatory Commission fees and annual char
 usc_title: 42
 usc_section: "7178"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 7178"
-generated_at: "2026-03-30T03:41:56.655Z"
+generated_at: "2026-03-30T03:46:13.519Z"
 status: "active"
 ---
 

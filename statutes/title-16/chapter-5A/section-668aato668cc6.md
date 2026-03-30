@@ -3,9 +3,9 @@ title: "Section 668aato668cc6 - Repealed. Pub. L. 93–205, § 14 , Dec. 28, 197
 usc_title: 16
 usc_section: "668aato668cc6"
 chapter: 5
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 668aato668cc6"
-generated_at: "2026-03-30T03:40:44.891Z"
+generated_at: "2026-03-30T03:44:18.663Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17n - “State” defined"
 usc_title: 16
 usc_section: "17n"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 17n"
-generated_at: "2026-03-30T03:40:44.734Z"
+generated_at: "2026-03-30T03:44:18.519Z"
 status: "active"
 ---
 

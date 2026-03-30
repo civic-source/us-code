@@ -3,9 +3,9 @@ title: "Section 2020 - Tribal departments or divisions of education"
 usc_title: 25
 usc_section: "2020"
 chapter: 22
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 2020"
-generated_at: "2026-03-30T03:40:54.212Z"
+generated_at: "2026-03-30T03:44:24.517Z"
 status: "active"
 ---
 

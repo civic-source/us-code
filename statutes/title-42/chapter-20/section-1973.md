@@ -3,9 +3,9 @@ title: "Section 1973 - Denial or abridgement of right to vote on account of race
 usc_title: 42
 usc_section: "1973"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 1973"
-generated_at: "2026-03-30T03:41:56.394Z"
+generated_at: "2026-03-30T03:46:13.277Z"
 status: "active"
 ---
 

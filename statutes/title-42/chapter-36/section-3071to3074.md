@@ -3,9 +3,9 @@ title: "Section 3071to3074 - Repealed. Pub. L. 91–646, title II, § 220(a)(8) 
 usc_title: 42
 usc_section: "3071to3074"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 3071to3074"
-generated_at: "2026-03-30T03:41:56.473Z"
+generated_at: "2026-03-30T03:46:13.353Z"
 status: "repealed"
 ---
 

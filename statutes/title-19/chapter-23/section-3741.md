@@ -3,9 +3,9 @@ title: "Section 3741 - Sense of the Congress regarding efforts to combat deserti
 usc_title: 19
 usc_section: "3741"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "19 U.S.C. § 3741"
-generated_at: "2026-03-30T03:40:29.538Z"
+generated_at: "2026-03-30T03:44:12.731Z"
 status: "active"
 ---
 

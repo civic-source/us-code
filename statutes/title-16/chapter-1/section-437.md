@@ -3,9 +3,9 @@ title: "Section 437 - Fort McHenry; restoration and preservation"
 usc_title: 16
 usc_section: "437"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 437"
-generated_at: "2026-03-30T03:40:44.799Z"
+generated_at: "2026-03-30T03:44:18.578Z"
 status: "active"
 ---
 

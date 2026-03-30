@@ -3,9 +3,9 @@ title: "Section 6234 - Relationship to other laws"
 usc_title: 16
 usc_section: "6234"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 6234"
-generated_at: "2026-03-30T03:40:45.057Z"
+generated_at: "2026-03-30T03:44:18.807Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3018 - Administrative Assistant"
 usc_title: 10
 usc_section: "3018"
 chapter: 303
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 3018"
-generated_at: "2026-03-30T03:39:59.604Z"
+generated_at: "2026-03-30T03:43:42.525Z"
 status: "active"
 ---
 

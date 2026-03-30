@@ -3,9 +3,9 @@ title: "Section 2991d - Research, demonstration, and pilot projects"
 usc_title: 42
 usc_section: "2991d"
 chapter: 34
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 2991d"
-generated_at: "2026-03-30T03:41:56.452Z"
+generated_at: "2026-03-30T03:46:13.332Z"
 status: "active"
 ---
 

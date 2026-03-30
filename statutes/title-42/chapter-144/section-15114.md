@@ -3,9 +3,9 @@ title: "Section 15114 - Staff development curriculum authorization"
 usc_title: 42
 usc_section: "15114"
 chapter: 144
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 15114"
-generated_at: "2026-03-30T03:41:56.982Z"
+generated_at: "2026-03-30T03:46:13.804Z"
 status: "active"
 ---
 

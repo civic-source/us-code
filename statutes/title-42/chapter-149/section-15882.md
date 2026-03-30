@@ -3,9 +3,9 @@ title: "Section 15882 - Hydroelectric efficiency improvement"
 usc_title: 42
 usc_section: "15882"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 15882"
-generated_at: "2026-03-30T03:41:56.999Z"
+generated_at: "2026-03-30T03:46:13.818Z"
 status: "active"
 ---
 

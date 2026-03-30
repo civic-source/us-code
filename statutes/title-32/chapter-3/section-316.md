@@ -3,9 +3,9 @@ title: "Section 316 - Detail of members of Army National Guard for rifle instruc
 usc_title: 32
 usc_section: "316"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "32 U.S.C. § 316"
-generated_at: "2026-03-30T03:41:19.016Z"
+generated_at: "2026-03-30T03:44:49.765Z"
 status: "active"
 ---
 

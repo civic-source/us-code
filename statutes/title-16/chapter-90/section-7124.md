@@ -3,9 +3,9 @@ title: "Section 7124 - Evaluation and approval of projects by Secretary concerne
 usc_title: 16
 usc_section: "7124"
 chapter: 90
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 7124"
-generated_at: "2026-03-30T03:40:45.068Z"
+generated_at: "2026-03-30T03:44:18.815Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7301 - National Construction Safety Teams"
 usc_title: 15
 usc_section: "7301"
 chapter: 99
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 7301"
-generated_at: "2026-03-30T03:40:16.245Z"
+generated_at: "2026-03-30T03:44:05.874Z"
 status: "active"
 ---
 

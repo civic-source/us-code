@@ -3,9 +3,9 @@ title: "Section 290g - African Development Fund; United States participation"
 usc_title: 22
 usc_section: "290g"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 290g"
-generated_at: "2026-03-30T03:40:57.097Z"
+generated_at: "2026-03-30T03:44:27.524Z"
 status: "active"
 ---
 

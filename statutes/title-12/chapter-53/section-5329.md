@@ -3,9 +3,9 @@ title: "Section 5329 - Resolution of supervisory jurisdictional disputes among m
 usc_title: 12
 usc_section: "5329"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 5329"
-generated_at: "2026-03-30T03:40:23.372Z"
+generated_at: "2026-03-30T03:43:57.836Z"
 status: "active"
 ---
 

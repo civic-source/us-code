@@ -3,9 +3,9 @@ title: "Section 4839 - Settlement of accounts: oaths"
 usc_title: 10
 usc_section: "4839"
 chapter: 453
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 4839"
-generated_at: "2026-03-30T03:39:59.615Z"
+generated_at: "2026-03-30T03:43:42.540Z"
 status: "active"
 ---
 

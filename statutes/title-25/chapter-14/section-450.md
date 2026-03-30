@@ -3,9 +3,9 @@ title: "Section 450 - Congressional statement of findings"
 usc_title: 25
 usc_section: "450"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 450"
-generated_at: "2026-03-30T03:40:54.121Z"
+generated_at: "2026-03-30T03:44:24.424Z"
 status: "active"
 ---
 

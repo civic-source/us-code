@@ -3,9 +3,9 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-30T03:42:14.018Z"
+generated_at: "2026-03-30T03:46:39.874Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
 - **(c)** Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
 - **(d)**
   - **(1)** Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5 , the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
-  - **(2)** A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+  - **(2)** A fee imposed under subsection (a)(1) through the procedures under subsection (d) 1 1 So in original. Probably should be “paragraph (1)”. shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
   - **(3)** After imposing a fee in accordance with paragraph (1), the Under Secretary may modify, from time to time through publication of notice in the Federal Register, the imposition or collection of such fee, or both.
   - **(4)** No fee may be collected under this section, other than subsection (i), except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act or in section 44923.
 - **(e)**

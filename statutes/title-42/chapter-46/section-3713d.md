@@ -3,9 +3,9 @@ title: "Section 3713d - Annual reports"
 usc_title: 42
 usc_section: "3713d"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 3713d"
-generated_at: "2026-03-30T03:41:56.489Z"
+generated_at: "2026-03-30T03:46:13.369Z"
 status: "active"
 ---
 

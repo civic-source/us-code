@@ -3,9 +3,9 @@ title: "Section 1749 - Attaché educational program"
 usc_title: 7
 usc_section: "1749"
 chapter: 42
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 1749"
-generated_at: "2026-03-30T03:40:07.705Z"
+generated_at: "2026-03-30T03:43:46.058Z"
 status: "active"
 ---
 

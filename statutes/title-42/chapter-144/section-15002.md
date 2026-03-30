@@ -3,9 +3,9 @@ title: "Section 15002 - Definitions"
 usc_title: 42
 usc_section: "15002"
 chapter: 144
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 15002"
-generated_at: "2026-03-30T03:41:56.973Z"
+generated_at: "2026-03-30T03:46:13.798Z"
 status: "active"
 ---
 

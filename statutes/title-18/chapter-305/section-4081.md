@@ -3,9 +3,9 @@ title: "Section 4081 - Classification and treatment of prisoners"
 usc_title: 18
 usc_section: "4081"
 chapter: 305
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "18 U.S.C. § 4081"
-generated_at: "2026-03-30T03:40:28.184Z"
+generated_at: "2026-03-30T03:44:11.218Z"
 status: "active"
 ---
 

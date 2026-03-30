@@ -3,9 +3,9 @@ title: "Section 1073 - Tax exemption; payments to minors and persons under legal
 usc_title: 25
 usc_section: "1073"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 1073"
-generated_at: "2026-03-30T03:40:54.161Z"
+generated_at: "2026-03-30T03:44:24.464Z"
 status: "active"
 ---
 

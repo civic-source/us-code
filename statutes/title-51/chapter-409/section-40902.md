@@ -3,9 +3,9 @@ title: "Section 40902 - National Aeronautics and Space Administration Endeavor T
 usc_title: 51
 usc_section: "40902"
 chapter: 409
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "51 U.S.C. § 40902"
-generated_at: "2026-03-30T03:42:16.634Z"
+generated_at: "2026-03-30T03:46:50.575Z"
 status: "active"
 ---
 

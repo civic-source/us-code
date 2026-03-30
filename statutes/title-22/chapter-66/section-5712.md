@@ -3,9 +3,9 @@ title: "Section 5712 - Participation in multilateral organizations, rights under
 usc_title: 22
 usc_section: "5712"
 chapter: 66
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 5712"
-generated_at: "2026-03-30T03:40:57.230Z"
+generated_at: "2026-03-30T03:44:27.642Z"
 status: "active"
 ---
 

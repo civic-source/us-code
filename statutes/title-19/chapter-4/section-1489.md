@@ -3,9 +3,9 @@ title: "Section 1489 - Repealed. Pub. L. 87–456, title III, § 301(a) , May 24
 usc_title: 19
 usc_section: "1489"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "19 U.S.C. § 1489"
-generated_at: "2026-03-30T03:40:29.463Z"
+generated_at: "2026-03-30T03:44:12.653Z"
 status: "repealed"
 ---
 

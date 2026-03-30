@@ -3,9 +3,9 @@ title: "Section 727 - Additional purchases of Series A preferred stock"
 usc_title: 45
 usc_section: "727"
 chapter: 16
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "45 U.S.C. § 727"
-generated_at: "2026-03-30T03:41:35.179Z"
+generated_at: "2026-03-30T03:45:09.193Z"
 status: "active"
 ---
 

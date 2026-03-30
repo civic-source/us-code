@@ -3,9 +3,9 @@ title: "Section 3740 - Study on improving African agricultural practices"
 usc_title: 19
 usc_section: "3740"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "19 U.S.C. § 3740"
-generated_at: "2026-03-30T03:40:29.538Z"
+generated_at: "2026-03-30T03:44:12.731Z"
 status: "active"
 ---
 

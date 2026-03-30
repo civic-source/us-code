@@ -3,9 +3,9 @@ title: "Section 16914 - Information required in registration"
 usc_title: 42
 usc_section: "16914"
 chapter: 151
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 16914"
-generated_at: "2026-03-30T03:41:57.035Z"
+generated_at: "2026-03-30T03:46:13.848Z"
 status: "active"
 ---
 

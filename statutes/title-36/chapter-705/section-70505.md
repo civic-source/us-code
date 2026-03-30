@@ -3,9 +3,9 @@ title: "Section 70505 - Powers"
 usc_title: 36
 usc_section: "70505"
 chapter: 705
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "36 U.S.C. § 70505"
-generated_at: "2026-03-30T03:41:25.004Z"
+generated_at: "2026-03-30T03:44:59.866Z"
 status: "active"
 ---
 

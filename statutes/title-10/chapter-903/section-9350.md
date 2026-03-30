@@ -3,9 +3,9 @@ title: "Section 9350 - Cadets: clothing and equipment"
 usc_title: 10
 usc_section: "9350"
 chapter: 903
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 9350"
-generated_at: "2026-03-30T03:39:59.641Z"
+generated_at: "2026-03-30T03:43:42.572Z"
 status: "active"
 ---
 

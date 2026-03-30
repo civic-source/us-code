@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional declaration of purposes"
 usc_title: 19
 usc_section: "2001"
 chapter: 8
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "19 U.S.C. § 2001"
-generated_at: "2026-03-30T03:40:29.490Z"
+generated_at: "2026-03-30T03:44:12.682Z"
 status: "active"
 ---
 

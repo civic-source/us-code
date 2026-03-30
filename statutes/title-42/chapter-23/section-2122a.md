@@ -3,9 +3,9 @@ title: "Section 2122a - Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294
 usc_title: 42
 usc_section: "2122a"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 2122a"
-generated_at: "2026-03-30T03:41:56.424Z"
+generated_at: "2026-03-30T03:46:13.304Z"
 status: "repealed"
 ---
 

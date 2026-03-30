@@ -3,9 +3,9 @@ title: "Section 11608a - Office of Children’s Issues"
 usc_title: 42
 usc_section: "11608a"
 chapter: 121
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 11608a"
-generated_at: "2026-03-30T03:41:56.842Z"
+generated_at: "2026-03-30T03:46:13.694Z"
 status: "active"
 ---
 

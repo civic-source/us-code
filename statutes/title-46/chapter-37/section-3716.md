@@ -3,9 +3,9 @@ title: "Section 3716 - Tank washings"
 usc_title: 46
 usc_section: "3716"
 chapter: 37
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "46 U.S.C. § 3716"
-generated_at: "2026-03-30T03:42:02.618Z"
+generated_at: "2026-03-30T03:46:41.978Z"
 status: "active"
 ---
 

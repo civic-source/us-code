@@ -3,9 +3,9 @@ title: "Section 5505 - University transportation centers program"
 usc_title: 49
 usc_section: "5505"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 5505"
-generated_at: "2026-03-30T03:42:13.924Z"
+generated_at: "2026-03-30T03:46:39.789Z"
 status: "active"
 ---
 
@@ -81,6 +81,6 @@ status: "active"
   - **(2)** Not less frequently than annually, and consistent with the plan developed under section 508 of title 23 , the Secretary shall—
     - **(A)** review and evaluate the programs carried out under this section by grant recipients; and
     - **(B)** submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing that review and evaluation.
-  - **(3)** For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1 ½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+  - **(3)** For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 - **(e)** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are appropriated.
 - **(f)** Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.

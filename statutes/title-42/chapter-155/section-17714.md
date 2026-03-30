@@ -3,9 +3,9 @@ title: "Section 17714 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17714"
 chapter: 155
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 17714"
-generated_at: "2026-03-30T03:41:57.064Z"
+generated_at: "2026-03-30T03:46:13.874Z"
 status: "repealed"
 ---
 

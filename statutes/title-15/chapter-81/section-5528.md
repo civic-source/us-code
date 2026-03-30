@@ -3,9 +3,9 @@ title: "Section 5528 - Fostering United States competitiveness in high-performan
 usc_title: 15
 usc_section: "5528"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 5528"
-generated_at: "2026-03-30T03:40:16.225Z"
+generated_at: "2026-03-30T03:44:05.851Z"
 status: "active"
 ---
 

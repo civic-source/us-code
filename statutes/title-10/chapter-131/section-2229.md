@@ -3,15 +3,24 @@ title: "Section 2229 - Strategic policy on prepositioning of materiel and equipm
 usc_title: 10
 usc_section: "2229"
 chapter: 131
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 2229"
-generated_at: "2026-03-30T03:39:59.552Z"
+generated_at: "2026-03-30T03:43:42.465Z"
 status: "active"
 ---
 
 # § 2229. Strategic policy on prepositioning of materiel and equipment
 
-- **(a)** The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands.
+- **(a)**
+  - **(1)** The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for prepositioned materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands, and shall address how the Department’s prepositioning programs, both ground and afloat, align with national defense strategies and departmental priorities.
+  - **(2)** The strategic policy required under paragraph (1) shall include the following elements:
+    - **(A)** Overarching strategic guidance concerning planning and resource priorities that link the Department of Defense’s current and future needs for prepositioned stocks, such as desired responsiveness, to evolving national defense objectives.
+    - **(B)** A description of the Department’s vision for prepositioning programs and the desired end state.
+    - **(C)** Specific interim goals demonstrating how the vision and end state will be achieved.
+    - **(D)** A description of the strategic environment, requirements for, and challenges associated with, prepositioning.
+    - **(E)** Metrics for how the Department will evaluate the extent to which prepositioned assets are achieving defense objectives.
+    - **(F)** A framework for joint departmental oversight that reviews and synchronizes the military services’ prepositioning strategies to minimize potentially duplicative efforts and maximize efficiencies in prepositioned materiel and equipment across the Department of Defense.
+  - **(3)** The Secretary of Defense shall establish joint oversight of the military services’ prepositioning efforts to maximize efficiencies across the Department of Defense.
 - **(b)** The Secretary of a military department may not divert materiel or equipment from prepositioned stocks except—
   - **(1)** in accordance with a change made by the Secretary of Defense to the policy maintained under subsection (a); or
   - **(2)** for the purpose of directly supporting a contingency operation or providing humanitarian assistance under chapter 20 of this title.

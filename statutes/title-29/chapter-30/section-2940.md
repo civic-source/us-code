@@ -3,9 +3,9 @@ title: "Section 2940 - References"
 usc_title: 29
 usc_section: "2940"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "29 U.S.C. § 2940"
-generated_at: "2026-03-30T03:41:01.024Z"
+generated_at: "2026-03-30T03:44:33.723Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7581 - Definitions"
 usc_title: 42
 usc_section: "7581"
 chapter: 85
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 7581"
-generated_at: "2026-03-30T03:41:56.704Z"
+generated_at: "2026-03-30T03:46:13.563Z"
 status: "active"
 ---
 

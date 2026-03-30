@@ -3,9 +3,9 @@ title: "Section 463d - Restoration of lands in Umatilla Indian Reservation to tr
 usc_title: 25
 usc_section: "463d"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 463d"
-generated_at: "2026-03-30T03:40:54.129Z"
+generated_at: "2026-03-30T03:44:24.432Z"
 status: "active"
 ---
 

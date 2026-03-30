@@ -3,9 +3,9 @@ title: "Section 390tt - Contract required"
 usc_title: 43
 usc_section: "390tt"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "43 U.S.C. § 390tt"
-generated_at: "2026-03-30T03:41:33.043Z"
+generated_at: "2026-03-30T03:45:10.944Z"
 status: "active"
 ---
 

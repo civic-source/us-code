@@ -3,9 +3,9 @@ title: "Section 16251 - Production incentives for cellulosic biofuels"
 usc_title: 42
 usc_section: "16251"
 chapter: 149
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 16251"
-generated_at: "2026-03-30T03:41:57.018Z"
+generated_at: "2026-03-30T03:46:13.834Z"
 status: "active"
 ---
 

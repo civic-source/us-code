@@ -3,9 +3,9 @@ title: "Section 5963 - Authority to use Cooperative Threat Reduction funds outsi
 usc_title: 22
 usc_section: "5963"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 5963"
-generated_at: "2026-03-30T03:40:57.233Z"
+generated_at: "2026-03-30T03:44:27.645Z"
 status: "active"
 ---
 

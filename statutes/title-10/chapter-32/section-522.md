@@ -3,9 +3,9 @@ title: "Section 522 - Repealed. Pub. L. 108–375, div. A, title V, § 501(b)(1)
 usc_title: 10
 usc_section: "522"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 522"
-generated_at: "2026-03-30T03:39:59.475Z"
+generated_at: "2026-03-30T03:43:42.371Z"
 status: "repealed"
 ---
 

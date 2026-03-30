@@ -3,9 +3,9 @@ title: "Section 3032d - Computer training"
 usc_title: 42
 usc_section: "3032d"
 chapter: 35
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 3032d"
-generated_at: "2026-03-30T03:41:56.465Z"
+generated_at: "2026-03-30T03:46:13.345Z"
 status: "active"
 ---
 

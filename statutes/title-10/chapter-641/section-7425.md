@@ -3,9 +3,9 @@ title: "Section 7425 - Acquisition by condemnation and purchase"
 usc_title: 10
 usc_section: "7425"
 chapter: 641
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 7425"
-generated_at: "2026-03-30T03:39:59.630Z"
+generated_at: "2026-03-30T03:43:42.558Z"
 status: "active"
 ---
 

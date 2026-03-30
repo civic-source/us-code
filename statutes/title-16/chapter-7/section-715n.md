@@ -3,9 +3,9 @@ title: "Section 715n - “Take” defined"
 usc_title: 16
 usc_section: "715n"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 715n"
-generated_at: "2026-03-30T03:40:44.904Z"
+generated_at: "2026-03-30T03:44:18.674Z"
 status: "active"
 ---
 

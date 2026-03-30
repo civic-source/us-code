@@ -3,9 +3,9 @@ title: "Section 377 - Repealed. Pub. L. 106–102, title I, § 101(a) , Nov. 12,
 usc_title: 12
 usc_section: "377"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 377"
-generated_at: "2026-03-30T03:40:23.181Z"
+generated_at: "2026-03-30T03:43:57.614Z"
 status: "repealed"
 ---
 

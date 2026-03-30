@@ -3,9 +3,9 @@ title: "Section 2904 - Functions of Commission"
 usc_title: 22
 usc_section: "2904"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 2904"
-generated_at: "2026-03-30T03:40:57.186Z"
+generated_at: "2026-03-30T03:44:27.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6394 - Prohibited acts"
 usc_title: 42
 usc_section: "6394"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 6394"
-generated_at: "2026-03-30T03:41:56.622Z"
+generated_at: "2026-03-30T03:46:13.485Z"
 status: "active"
 ---
 

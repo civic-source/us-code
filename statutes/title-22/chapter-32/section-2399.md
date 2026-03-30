@@ -3,9 +3,9 @@ title: "Section 2399 - Repealed. Pub. L. 94–161, title I, § 101(6) , Dec. 20,
 usc_title: 22
 usc_section: "2399"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 2399"
-generated_at: "2026-03-30T03:40:57.156Z"
+generated_at: "2026-03-30T03:44:27.576Z"
 status: "repealed"
 ---
 

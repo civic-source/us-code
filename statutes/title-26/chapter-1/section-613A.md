@@ -3,9 +3,9 @@ title: "Section 613A - Limitations on percentage depletion in case of oil and ga
 usc_title: 26
 usc_section: "613A"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 613A"
-generated_at: "2026-03-30T03:41:16.626Z"
+generated_at: "2026-03-30T03:44:41.882Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 431a - Limitation on further extension or establishment of natio
 usc_title: 16
 usc_section: "431a"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 431a"
-generated_at: "2026-03-30T03:40:44.798Z"
+generated_at: "2026-03-30T03:44:18.578Z"
 status: "active"
 ---
 

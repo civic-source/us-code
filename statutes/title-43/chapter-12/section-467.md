@@ -3,9 +3,9 @@ title: "Section 467 - Repealed. May 25, 1926, ch. 383, § 47 , 44 Stat. 650"
 usc_title: 43
 usc_section: "467"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "43 U.S.C. § 467"
-generated_at: "2026-03-30T03:41:33.050Z"
+generated_at: "2026-03-30T03:45:10.954Z"
 status: "repealed"
 ---
 

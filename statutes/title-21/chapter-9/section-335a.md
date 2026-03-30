@@ -3,9 +3,9 @@ title: "Section 335a - Debarment, temporary denial of approval, and suspension"
 usc_title: 21
 usc_section: "335a"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "21 U.S.C. § 335a"
-generated_at: "2026-03-30T03:40:52.875Z"
+generated_at: "2026-03-30T03:44:28.698Z"
 status: "active"
 ---
 

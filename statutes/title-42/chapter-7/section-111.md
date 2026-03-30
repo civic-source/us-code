@@ -3,9 +3,9 @@ title: "Section 111 - PDP regions; submission of bids; plan approval"
 usc_title: 42
 usc_section: "111"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T03:41:56.184Z"
+generated_at: "2026-03-30T03:46:13.086Z"
 status: "active"
 ---
 

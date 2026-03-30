@@ -3,9 +3,9 @@ title: "Section 1230 - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct
 usc_title: 20
 usc_section: "1230"
 chapter: 31
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 1230"
-generated_at: "2026-03-30T03:40:47.841Z"
+generated_at: "2026-03-30T03:44:15.238Z"
 status: "repealed"
 ---
 

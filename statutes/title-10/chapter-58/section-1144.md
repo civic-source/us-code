@@ -3,9 +3,9 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-30T03:39:59.515Z"
+generated_at: "2026-03-30T03:43:42.419Z"
 status: "active"
 ---
 
@@ -24,6 +24,7 @@ status: "active"
   - **(6)** Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
   - **(7)** Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
   - **(8)** Provide information regarding the public and community service jobs program carried out under section 1143a of this title .
+  - **(9)** Provide information about disability-related employment and education protections.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
   - **(2)** The Secretary of Defense and the Secretary of Homeland Security may, under regulations such Secretaries shall prescribe, waive the participation requirement of paragraph (1) with respect to—

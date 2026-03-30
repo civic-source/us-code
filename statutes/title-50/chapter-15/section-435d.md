@@ -3,9 +3,9 @@ title: "Section 435d - Transferred"
 usc_title: 50
 usc_section: "435d"
 chapter: 15
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "50 U.S.C. § 435d"
-generated_at: "2026-03-30T03:42:07.758Z"
+generated_at: "2026-03-30T03:46:20.969Z"
 status: "transferred"
 ---
 

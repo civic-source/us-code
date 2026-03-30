@@ -3,9 +3,9 @@ title: "Section 2553 - Equipment and services: Presidential inaugural ceremonies
 usc_title: 10
 usc_section: "2553"
 chapter: 152
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 2553"
-generated_at: "2026-03-30T03:39:59.583Z"
+generated_at: "2026-03-30T03:43:42.500Z"
 status: "active"
 ---
 

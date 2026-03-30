@@ -3,9 +3,9 @@ title: "Section 17356 - General personnel authorities"
 usc_title: 42
 usc_section: "17356"
 chapter: 152
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 17356"
-generated_at: "2026-03-30T03:41:57.055Z"
+generated_at: "2026-03-30T03:46:13.869Z"
 status: "active"
 ---
 

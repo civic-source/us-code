@@ -3,9 +3,9 @@ title: "Section 9162 - National leadership grants, contracts, or cooperative agr
 usc_title: 20
 usc_section: "9162"
 chapter: 72
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 9162"
-generated_at: "2026-03-30T03:40:47.953Z"
+generated_at: "2026-03-30T03:44:15.359Z"
 status: "active"
 ---
 

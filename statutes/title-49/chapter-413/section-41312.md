@@ -3,9 +3,9 @@ title: "Section 41312 - Ending or suspending foreign air transportation"
 usc_title: 49
 usc_section: "41312"
 chapter: 413
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 41312"
-generated_at: "2026-03-30T03:42:13.994Z"
+generated_at: "2026-03-30T03:46:39.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 470j - Functions of Council; annual report to President and Cong
 usc_title: 16
 usc_section: "470j"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 470j"
-generated_at: "2026-03-30T03:40:44.858Z"
+generated_at: "2026-03-30T03:44:18.632Z"
 status: "active"
 ---
 

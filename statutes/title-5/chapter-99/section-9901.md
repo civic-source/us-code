@@ -3,9 +3,9 @@ title: "Section 9901 - Definitions"
 usc_title: 5
 usc_section: "9901"
 chapter: 99
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 9901"
-generated_at: "2026-03-30T03:39:45.455Z"
+generated_at: "2026-03-30T03:43:32.537Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16 - Employment by Federal Government"
 usc_title: 42
 usc_section: "16"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T03:41:56.409Z"
+generated_at: "2026-03-30T03:46:13.290Z"
 status: "active"
 ---
 

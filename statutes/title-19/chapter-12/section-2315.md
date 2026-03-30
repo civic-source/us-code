@@ -3,9 +3,9 @@ title: "Section 2315 - Fraud and recovery of overpayments"
 usc_title: 19
 usc_section: "2315"
 chapter: 12
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "19 U.S.C. § 2315"
-generated_at: "2026-03-30T03:40:29.501Z"
+generated_at: "2026-03-30T03:44:12.693Z"
 status: "active"
 ---
 

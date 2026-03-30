@@ -3,9 +3,9 @@ title: "Section 6841 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6841"
 chapter: 76
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 6841"
-generated_at: "2026-03-30T03:40:57.249Z"
+generated_at: "2026-03-30T03:44:27.660Z"
 status: "active"
 ---
 

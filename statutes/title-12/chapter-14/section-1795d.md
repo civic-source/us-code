@@ -3,9 +3,9 @@ title: "Section 1795d - Capital stock"
 usc_title: 12
 usc_section: "1795d"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 1795d"
-generated_at: "2026-03-30T03:40:23.261Z"
+generated_at: "2026-03-30T03:43:57.708Z"
 status: "active"
 ---
 

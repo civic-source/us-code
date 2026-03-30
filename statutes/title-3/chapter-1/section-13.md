@@ -3,9 +3,9 @@ title: "Section 13 - Same; demand on district judge for certificate"
 usc_title: 3
 usc_section: "13"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "3 U.S.C. § 13"
-generated_at: "2026-03-30T03:39:45.553Z"
+generated_at: "2026-03-30T03:43:27.828Z"
 status: "active"
 ---
 

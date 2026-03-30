@@ -3,9 +3,9 @@ title: "Section 13b - Payment of care, tuition, assistance, and other expenses o
 usc_title: 25
 usc_section: "13b"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 13b"
-generated_at: "2026-03-30T03:40:54.103Z"
+generated_at: "2026-03-30T03:44:24.407Z"
 status: "active"
 ---
 

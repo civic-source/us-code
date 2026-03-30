@@ -3,9 +3,9 @@ title: "Section 3415 - Report on statutory obstacles to program integration"
 usc_title: 25
 usc_section: "3415"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 3415"
-generated_at: "2026-03-30T03:40:54.232Z"
+generated_at: "2026-03-30T03:44:24.537Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 59y - Declaration of nonnavigability for portions of Coney Islan
 usc_title: 33
 usc_section: "59y"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "33 U.S.C. § 59y"
-generated_at: "2026-03-30T03:41:21.871Z"
+generated_at: "2026-03-30T03:44:53.242Z"
 status: "active"
 ---
 

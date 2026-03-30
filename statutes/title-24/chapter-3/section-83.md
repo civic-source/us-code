@@ -3,9 +3,9 @@ title: "Section 83 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 24
 usc_section: "83"
 chapter: 3
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "24 U.S.C. § 83"
-generated_at: "2026-03-30T03:40:50.575Z"
+generated_at: "2026-03-30T03:44:21.690Z"
 status: "repealed"
 ---
 

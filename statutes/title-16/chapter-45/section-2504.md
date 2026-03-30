@@ -3,9 +3,9 @@ title: "Section 2504 - Federal assistance grants"
 usc_title: 16
 usc_section: "2504"
 chapter: 45
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 2504"
-generated_at: "2026-03-30T03:40:45.005Z"
+generated_at: "2026-03-30T03:44:18.761Z"
 status: "active"
 ---
 

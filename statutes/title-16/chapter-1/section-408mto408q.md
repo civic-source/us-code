@@ -3,9 +3,9 @@ title: "Section 408mto408q - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 
 usc_title: 16
 usc_section: "408mto408q"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 408mto408q"
-generated_at: "2026-03-30T03:40:44.767Z"
+generated_at: "2026-03-30T03:44:18.551Z"
 status: "repealed"
 ---
 

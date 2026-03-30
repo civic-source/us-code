@@ -3,9 +3,9 @@ title: "Section 5119 - Reporting child abuse crime information"
 usc_title: 42
 usc_section: "5119"
 chapter: 67
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 5119"
-generated_at: "2026-03-30T03:41:56.546Z"
+generated_at: "2026-03-30T03:46:13.423Z"
 status: "active"
 ---
 

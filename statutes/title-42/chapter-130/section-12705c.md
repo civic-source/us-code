@@ -3,9 +3,9 @@ title: "Section 12705c - Grants for regulatory barrier removal strategies and im
 usc_title: 42
 usc_section: "12705c"
 chapter: 130
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 12705c"
-generated_at: "2026-03-30T03:41:56.884Z"
+generated_at: "2026-03-30T03:46:13.733Z"
 status: "active"
 ---
 

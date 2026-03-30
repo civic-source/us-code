@@ -3,9 +3,9 @@ title: "Section 3330d - Appointment of certain military spouses"
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-30T03:39:45.380Z"
+generated_at: "2026-03-30T03:43:32.469Z"
 status: "active"
 ---
 

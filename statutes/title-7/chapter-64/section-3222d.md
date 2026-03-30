@@ -3,9 +3,9 @@ title: "Section 3222d - Matching funds requirement for research and extension ac
 usc_title: 7
 usc_section: "3222d"
 chapter: 64
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 3222d"
-generated_at: "2026-03-30T03:40:07.765Z"
+generated_at: "2026-03-30T03:43:46.121Z"
 status: "active"
 ---
 

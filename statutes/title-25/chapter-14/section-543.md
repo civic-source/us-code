@@ -3,9 +3,9 @@ title: "Section 543 - Liability of judgment funds for debts"
 usc_title: 25
 usc_section: "543"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 543"
-generated_at: "2026-03-30T03:40:54.133Z"
+generated_at: "2026-03-30T03:44:24.436Z"
 status: "active"
 ---
 

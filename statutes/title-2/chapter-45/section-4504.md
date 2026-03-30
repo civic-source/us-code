@@ -3,9 +3,9 @@ title: "Section 4504 - Nonpay status for Congressional employees studying under 
 usc_title: 2
 usc_section: "4504"
 chapter: 45
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "2 U.S.C. § 4504"
-generated_at: "2026-03-30T03:39:39.561Z"
+generated_at: "2026-03-30T03:43:29.222Z"
 status: "active"
 ---
 

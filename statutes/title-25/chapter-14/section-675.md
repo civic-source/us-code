@@ -3,9 +3,9 @@ title: "Section 675 - Restriction on payment of funds for agents’ or attorneys
 usc_title: 25
 usc_section: "675"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 675"
-generated_at: "2026-03-30T03:40:54.142Z"
+generated_at: "2026-03-30T03:44:24.446Z"
 status: "active"
 ---
 

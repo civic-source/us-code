@@ -3,9 +3,9 @@ title: "Section 5525 - Environmental Protection Agency activities"
 usc_title: 15
 usc_section: "5525"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 5525"
-generated_at: "2026-03-30T03:40:16.225Z"
+generated_at: "2026-03-30T03:44:05.851Z"
 status: "active"
 ---
 

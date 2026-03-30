@@ -3,9 +3,9 @@ title: "Section 375 - Definitions"
 usc_title: 15
 usc_section: "375"
 chapter: 10
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 375"
-generated_at: "2026-03-30T03:40:16.074Z"
+generated_at: "2026-03-30T03:44:05.697Z"
 status: "active"
 ---
 

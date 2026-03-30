@@ -3,9 +3,9 @@ title: "Section 1624 - Certification of awards; certification of claims"
 usc_title: 22
 usc_section: "1624"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 1624"
-generated_at: "2026-03-30T03:40:57.114Z"
+generated_at: "2026-03-30T03:44:27.538Z"
 status: "active"
 ---
 

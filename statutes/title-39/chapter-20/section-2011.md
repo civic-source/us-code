@@ -3,9 +3,9 @@ title: "Section 2011 - Provisions relating to competitive products"
 usc_title: 39
 usc_section: "2011"
 chapter: 20
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "39 U.S.C. § 2011"
-generated_at: "2026-03-30T03:41:23.901Z"
+generated_at: "2026-03-30T03:44:55.684Z"
 status: "active"
 ---
 

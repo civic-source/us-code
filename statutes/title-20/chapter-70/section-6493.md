@@ -3,9 +3,9 @@ title: "Section 6493 - Assessment evaluation"
 usc_title: 20
 usc_section: "6493"
 chapter: 70
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 6493"
-generated_at: "2026-03-30T03:40:47.907Z"
+generated_at: "2026-03-30T03:44:15.308Z"
 status: "active"
 ---
 

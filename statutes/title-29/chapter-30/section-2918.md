@@ -3,9 +3,9 @@ title: "Section 2918 - National emergency grants"
 usc_title: 29
 usc_section: "2918"
 chapter: 30
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "29 U.S.C. § 2918"
-generated_at: "2026-03-30T03:41:01.020Z"
+generated_at: "2026-03-30T03:44:33.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2378 - Prohibition on assistance to countries that provide milit
 usc_title: 22
 usc_section: "2378"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 2378"
-generated_at: "2026-03-30T03:40:57.152Z"
+generated_at: "2026-03-30T03:44:27.573Z"
 status: "active"
 ---
 

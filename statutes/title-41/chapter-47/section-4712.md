@@ -3,9 +3,9 @@ title: "Section 4712 - Pilot program for enhancement of contractor protection fr
 usc_title: 41
 usc_section: "4712"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "41 U.S.C. § 4712"
-generated_at: "2026-03-30T03:41:31.018Z"
+generated_at: "2026-03-30T03:45:08.785Z"
 status: "active"
 ---
 
@@ -56,4 +56,4 @@ status: "active"
   - **(1)** The term “abuse of authority” means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
   - **(2)** The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 - **(h)** Nothing in this section, or the amendments made by this section, 1 1 So in original. shall be construed to provide any rights to disclose classified information not otherwise provided by law.
-- **(i)** This section shall be in effect for the four-year period beginning on the date of the enactment of this section. 2 2 So in original. Compare to Effective Date of 2013 Amendment note below.
+- **(i)** This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section. 2 2 So in original. Probably should be “date that is 180 days after the date of the enactment of this section.”

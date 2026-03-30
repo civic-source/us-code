@@ -3,9 +3,9 @@ title: "Section 3256to3259 - Omitted"
 usc_title: 42
 usc_section: "3256to3259"
 chapter: 39
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 3256to3259"
-generated_at: "2026-03-30T03:41:56.477Z"
+generated_at: "2026-03-30T03:46:13.357Z"
 status: "omitted"
 ---
 

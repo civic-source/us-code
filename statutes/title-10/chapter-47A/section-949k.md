@@ -3,9 +3,9 @@ title: "Section 949k - Defense of lack of mental responsibility"
 usc_title: 10
 usc_section: "949k"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 949k"
-generated_at: "2026-03-30T03:39:59.496Z"
+generated_at: "2026-03-30T03:43:42.398Z"
 status: "active"
 ---
 

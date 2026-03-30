@@ -3,9 +3,9 @@ title: "Section 2642 - Definitions"
 usc_title: 15
 usc_section: "2642"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 2642"
-generated_at: "2026-03-30T03:40:16.193Z"
+generated_at: "2026-03-30T03:44:05.818Z"
 status: "active"
 ---
 

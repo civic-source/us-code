@@ -3,9 +3,9 @@ title: "Section 383 - Special limitations on certain excess credits, etc."
 usc_title: 26
 usc_section: "383"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 383"
-generated_at: "2026-03-30T03:41:16.561Z"
+generated_at: "2026-03-30T03:44:41.819Z"
 status: "active"
 ---
 

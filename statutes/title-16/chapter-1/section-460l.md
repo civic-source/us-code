@@ -3,9 +3,9 @@ title: "Section 460l - Congressional findings and declaration of policy"
 usc_title: 16
 usc_section: "460l"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 460l"
-generated_at: "2026-03-30T03:40:44.812Z"
+generated_at: "2026-03-30T03:44:18.591Z"
 status: "active"
 ---
 

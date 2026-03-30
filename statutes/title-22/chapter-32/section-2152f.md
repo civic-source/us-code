@@ -3,9 +3,9 @@ title: "Section 2152f - Assistance for orphans and other vulnerable children"
 usc_title: 22
 usc_section: "2152f"
 chapter: 32
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 2152f"
-generated_at: "2026-03-30T03:40:57.132Z"
+generated_at: "2026-03-30T03:44:27.554Z"
 status: "active"
 ---
 

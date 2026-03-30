@@ -3,9 +3,9 @@ title: "Section 494 - Nuclear force reductions"
 usc_title: 10
 usc_section: "494"
 chapter: 24
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 494"
-generated_at: "2026-03-30T03:39:59.474Z"
+generated_at: "2026-03-30T03:43:42.369Z"
 status: "active"
 ---
 
@@ -43,15 +43,15 @@ status: "active"
     - **(A)** An accounting of the weapons in the stockpile as of the end of the fiscal year preceding the submission of the report that includes all weapons in the active and inactive stockpiles, both deployed and non-deployed, and all categories and readiness states of such weapons.
     - **(B)** The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under section 221 of title 10 for the fiscal year following the fiscal year in which the report is submitted.
 - **(c)**
-  - **(1)** If, during any year beginning after the date of the enactment of this Act, 1 1 See References in Text note below. the President makes a proposal described in paragraph (2)—
+  - **(1)** If, during any year beginning after December 31, 2011 , the President makes a proposal described in paragraph (2)—
     - **(A)** the Commander of United States Strategic Command shall conduct a net assessment of the current and proposed nuclear forces of the United States and of other countries that possess nuclear weapons to determine whether the nuclear forces of the United States are anticipated to be capable of meeting the objectives of the United States with respect to nuclear deterrence, extended deterrence, assurance of allies, and defense;
     - **(B)** the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives the assessment described in subparagraph (A), unchanged, together with the explanatory views of the Secretary, as the Secretary deems appropriate; and
     - **(C)** the Administrator of the National Nuclear Security Administration shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the current capacities of the United States nuclear weapons infrastructure to respond to a strategic development or technical problem in the United States nuclear weapons stockpile.
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on the date of the enactment of this Act. 1
+    - **(A)** Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011 .
     - **(B)** A proposal described in this paragraph does not include—
       - **(i)** reductions that are a direct result of activities associated with routine stockpile stewardship, including stockpile surveillance, logistics, or maintenance; or
-      - **(ii)** nuclear weapons retired or awaiting dismantlement on the date of the enactment of this Act. 1
+      - **(ii)** nuclear weapons retired or awaiting dismantlement on December 31, 2011 .
   - **(3)** The requirement in paragraph (1) shall terminate on December 31, 2017 .
 - **(d)**
   - **(1)** During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) )) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.

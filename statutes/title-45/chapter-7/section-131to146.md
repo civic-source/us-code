@@ -3,9 +3,9 @@ title: "Section 131to146 - Repealed. May 20, 1926, ch. 347, § 14 , 44 Stat. 587
 usc_title: 45
 usc_section: "131to146"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "45 U.S.C. § 131to146"
-generated_at: "2026-03-30T03:41:35.155Z"
+generated_at: "2026-03-30T03:45:09.172Z"
 status: "repealed"
 ---
 

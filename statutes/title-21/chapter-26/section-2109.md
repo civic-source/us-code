@@ -3,9 +3,9 @@ title: "Section 2109 - Publication of annual reports"
 usc_title: 21
 usc_section: "2109"
 chapter: 26
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "21 U.S.C. § 2109"
-generated_at: "2026-03-30T03:40:52.972Z"
+generated_at: "2026-03-30T03:44:28.794Z"
 status: "active"
 ---
 

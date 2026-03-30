@@ -3,9 +3,9 @@ title: "Section 1001to1006 - Repealed. Pub. L. 87–128, title III, § 341(a) , 
 usc_title: 7
 usc_section: "1001to1006"
 chapter: 33
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 1001to1006"
-generated_at: "2026-03-30T03:40:07.660Z"
+generated_at: "2026-03-30T03:43:46.011Z"
 status: "repealed"
 ---
 

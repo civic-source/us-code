@@ -3,9 +3,9 @@ title: "Section 497a - Occupancy and use under permit of lands in Alaska for var
 usc_title: 16
 usc_section: "497a"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 497a"
-generated_at: "2026-03-30T03:40:44.865Z"
+generated_at: "2026-03-30T03:44:18.640Z"
 status: "active"
 ---
 

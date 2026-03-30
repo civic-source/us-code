@@ -3,9 +3,9 @@ title: "Section 5312 - Functions of Secretaries"
 usc_title: 7
 usc_section: "5312"
 chapter: 84
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 5312"
-generated_at: "2026-03-30T03:40:07.782Z"
+generated_at: "2026-03-30T03:43:46.139Z"
 status: "active"
 ---
 

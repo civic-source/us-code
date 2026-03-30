@@ -3,9 +3,9 @@ title: "Section 3145 - Construction of foreign direct investment and internation
 usc_title: 22
 usc_section: "3145"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 3145"
-generated_at: "2026-03-30T03:40:57.187Z"
+generated_at: "2026-03-30T03:44:27.605Z"
 status: "active"
 ---
 

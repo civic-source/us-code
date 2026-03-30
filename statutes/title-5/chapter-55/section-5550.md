@@ -3,9 +3,9 @@ title: "Section 5550 - Repealed. Pub. L. 102–378, § 2(44)(A) , Oct. 2, 1992 ,
 usc_title: 5
 usc_section: "5550"
 chapter: 55
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "5 U.S.C. § 5550"
-generated_at: "2026-03-30T03:39:45.398Z"
+generated_at: "2026-03-30T03:43:32.486Z"
 status: "repealed"
 ---
 

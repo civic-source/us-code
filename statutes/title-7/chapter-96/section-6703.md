@@ -3,9 +3,9 @@ title: "Section 6703 - Repealed. Pub. L. 104–127, title VIII, § 868 , Apr. 4,
 usc_title: 7
 usc_section: "6703"
 chapter: 96
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "7 U.S.C. § 6703"
-generated_at: "2026-03-30T03:40:07.803Z"
+generated_at: "2026-03-30T03:43:46.159Z"
 status: "repealed"
 ---
 

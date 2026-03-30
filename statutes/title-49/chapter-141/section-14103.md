@@ -3,9 +3,9 @@ title: "Section 14103 - Loading and unloading motor vehicles"
 usc_title: 49
 usc_section: "14103"
 chapter: 141
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "49 U.S.C. § 14103"
-generated_at: "2026-03-30T03:42:13.939Z"
+generated_at: "2026-03-30T03:46:39.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8741 - Medal of honor: award"
 usc_title: 10
 usc_section: "8741"
 chapter: 857
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 8741"
-generated_at: "2026-03-30T03:39:59.638Z"
+generated_at: "2026-03-30T03:43:42.568Z"
 status: "active"
 ---
 

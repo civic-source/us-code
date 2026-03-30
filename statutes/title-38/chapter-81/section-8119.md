@@ -3,9 +3,9 @@ title: "Section 8119 - Annual report on outpatient clinics"
 usc_title: 38
 usc_section: "8119"
 chapter: 81
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "38 U.S.C. § 8119"
-generated_at: "2026-03-30T03:41:28.479Z"
+generated_at: "2026-03-30T03:44:58.780Z"
 status: "active"
 ---
 

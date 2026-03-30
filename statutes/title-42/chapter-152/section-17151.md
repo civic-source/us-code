@@ -3,9 +3,9 @@ title: "Section 17151 - Definitions"
 usc_title: 42
 usc_section: "17151"
 chapter: 152
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 17151"
-generated_at: "2026-03-30T03:41:57.047Z"
+generated_at: "2026-03-30T03:46:13.859Z"
 status: "active"
 ---
 

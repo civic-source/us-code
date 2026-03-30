@@ -3,9 +3,9 @@ title: "Section 81 - Place of business"
 usc_title: 12
 usc_section: "81"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 81"
-generated_at: "2026-03-30T03:40:23.169Z"
+generated_at: "2026-03-30T03:43:57.599Z"
 status: "active"
 ---
 

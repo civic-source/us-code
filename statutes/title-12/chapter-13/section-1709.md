@@ -3,9 +3,9 @@ title: "Section 1709 - Insurance of mortgages"
 usc_title: 12
 usc_section: "1709"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 1709"
-generated_at: "2026-03-30T03:40:23.220Z"
+generated_at: "2026-03-30T03:43:57.661Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3057 - National Counter Proliferation Center"
 usc_title: 50
 usc_section: "3057"
 chapter: 44
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "50 U.S.C. § 3057"
-generated_at: "2026-03-30T03:42:07.814Z"
+generated_at: "2026-03-30T03:46:21.024Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1858 - Civil penalties and permit sanctions"
 usc_title: 16
 usc_section: "1858"
 chapter: 38
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 1858"
-generated_at: "2026-03-30T03:40:44.993Z"
+generated_at: "2026-03-30T03:44:18.751Z"
 status: "active"
 ---
 

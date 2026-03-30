@@ -3,9 +3,9 @@ title: "Section 458ccc - Definitions"
 usc_title: 25
 usc_section: "458ccc"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 458ccc"
-generated_at: "2026-03-30T03:40:54.127Z"
+generated_at: "2026-03-30T03:44:24.430Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2065 - Inspection and recordkeeping"
 usc_title: 15
 usc_section: "2065"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 2065"
-generated_at: "2026-03-30T03:40:16.177Z"
+generated_at: "2026-03-30T03:44:05.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5651to5658 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 ,
 usc_title: 15
 usc_section: "5651to5658"
 chapter: 82
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "15 U.S.C. § 5651to5658"
-generated_at: "2026-03-30T03:40:16.226Z"
+generated_at: "2026-03-30T03:44:05.852Z"
 status: "repealed"
 ---
 

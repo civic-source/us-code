@@ -3,9 +3,9 @@ title: "Section 3703 - Rights and obligations of Foundation"
 usc_title: 16
 usc_section: "3703"
 chapter: 57
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 3703"
-generated_at: "2026-03-30T03:40:45.022Z"
+generated_at: "2026-03-30T03:44:18.777Z"
 status: "active"
 ---
 

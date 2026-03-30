@@ -3,9 +3,9 @@ title: "Section 2156 - Repealed. Pub. L. 100–233, title II, § 204(b) , Jan. 6
 usc_title: 12
 usc_section: "2156"
 chapter: 23
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 2156"
-generated_at: "2026-03-30T03:40:23.302Z"
+generated_at: "2026-03-30T03:43:57.757Z"
 status: "repealed"
 ---
 

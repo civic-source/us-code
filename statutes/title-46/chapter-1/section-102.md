@@ -3,9 +3,9 @@ title: "Section 102 - Barge"
 usc_title: 46
 usc_section: "102"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "46 U.S.C. § 102"
-generated_at: "2026-03-30T03:42:02.606Z"
+generated_at: "2026-03-30T03:46:41.972Z"
 status: "active"
 ---
 

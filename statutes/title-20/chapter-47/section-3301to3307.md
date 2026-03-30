@@ -3,9 +3,9 @@ title: "Section 3301to3307 - Omitted"
 usc_title: 20
 usc_section: "3301to3307"
 chapter: 47
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "20 U.S.C. § 3301to3307"
-generated_at: "2026-03-30T03:40:47.870Z"
+generated_at: "2026-03-30T03:44:15.269Z"
 status: "omitted"
 ---
 

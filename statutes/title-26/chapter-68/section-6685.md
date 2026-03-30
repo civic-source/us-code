@@ -3,9 +3,9 @@ title: "Section 6685 - Assessable penalty with respect to public inspection requ
 usc_title: 26
 usc_section: "6685"
 chapter: 68
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "26 U.S.C. § 6685"
-generated_at: "2026-03-30T03:41:16.849Z"
+generated_at: "2026-03-30T03:44:42.088Z"
 status: "active"
 ---
 

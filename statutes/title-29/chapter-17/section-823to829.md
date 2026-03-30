@@ -3,9 +3,9 @@ title: "Section 823to829 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "823to829"
 chapter: 17
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "29 U.S.C. § 823to829"
-generated_at: "2026-03-30T03:41:00.961Z"
+generated_at: "2026-03-30T03:44:33.660Z"
 status: "repealed"
 ---
 

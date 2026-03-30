@@ -3,9 +3,9 @@ title: "Section 15442 - Report"
 usc_title: 42
 usc_section: "15442"
 chapter: 146
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "42 U.S.C. § 15442"
-generated_at: "2026-03-30T03:41:56.989Z"
+generated_at: "2026-03-30T03:46:13.810Z"
 status: "active"
 ---
 

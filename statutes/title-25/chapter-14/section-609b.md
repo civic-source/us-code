@@ -3,9 +3,9 @@ title: "Section 609b - Disposition of judgment fund; deductions; advances, expen
 usc_title: 25
 usc_section: "609b"
 chapter: 14
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "25 U.S.C. § 609b"
-generated_at: "2026-03-30T03:40:54.137Z"
+generated_at: "2026-03-30T03:44:24.440Z"
 status: "active"
 ---
 

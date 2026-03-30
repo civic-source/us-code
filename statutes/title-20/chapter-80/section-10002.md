@@ -1,0 +1,30 @@
+---
+title: "Section 10002 - State uses of funds"
+usc_title: 20
+usc_section: "10002"
+chapter: 80
+current_through: "PL 113-103"
+classification: "20 U.S.C. § 10002"
+generated_at: "2026-03-30T03:44:15.374Z"
+status: "active"
+---
+
+# § 10002. State uses of funds
+
+- **(a)**
+  - **(1)** For each fiscal year, the Governor shall use 81.8 percent of the State’s allocation under section 10001(d) of this title for the support of elementary, secondary, and postsecondary education and, as applicable, early childhood education programs and services.
+  - **(2)**
+    - **(A)** The Governor shall first use the funds described in paragraph (1)—
+      - **(i)** to provide the amount of funds, through the State’s primary elementary and secondary education funding formulae, that is needed—
+        - **(I)** to restore, in each of fiscal years 2009, 2010, and 2011, the level of State support provided through such formulae to the greater of the fiscal year 2008 or fiscal year 2009 level; and
+        - **(II)** where applicable, to allow existing State formulae increases to support elementary and secondary education for fiscal years 2010 and 2011 to be implemented and allow funding for phasing in State equity and adequacy adjustments, if such increases were enacted pursuant to State law prior to October 1, 2008 .
+      - **(ii)** to provide, in each of fiscal years 2009, 2010, and 2011, the amount of funds to public institutions of higher education in the State that is needed to restore State support for such institutions (excluding tuition and fees paid by students) to the greater of the fiscal year 2008 or fiscal year 2009 level.
+    - **(B)** If the Governor determines that the amount of funds available under paragraph (1) is insufficient to support, in each of fiscal years 2009, 2010, and 2011, public elementary, secondary, and higher education at the levels described in clauses (i) and (ii) of subparagraph (A), the Governor shall allocate those funds between those clauses in proportion to the relative shortfall in State support for the education sectors described in those clauses.
+    - **(C)** For purposes of this paragraph, the term “fiscal year” shall have the meaning given such term under State law.
+  - **(3)** After carrying out paragraph (2), the Governor shall use any funds remaining under paragraph (1) to provide local educational agencies in the State with subgrants based on their relative shares of funding under part A of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6311 et seq.) for the most recent year for which data are available.
+- **(b)**
+  - **(1)** The Governor shall use 18.2 percent of the State’s allocation under section 10001(d) of this title for public safety and other government services, which may include assistance for elementary and secondary education and public institutions of higher education, and for modernization, renovation, or repair of public school facilities and institutions of higher education facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
+  - **(2)** A Governor shall not consider the type or mission of an institution of higher education, and shall consider any institution for funding for modernization, renovation, and repairs within the State that—
+    - **(A)** qualifies as an institution of higher education, as defined in subsection 1 1 So in original. Probably should be “section”. 10013(3) of this title; and
+    - **(B)** continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965.
+- **(c)** Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.

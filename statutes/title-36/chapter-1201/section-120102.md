@@ -3,9 +3,9 @@ title: "Section 120102 - Purposes"
 usc_title: 36
 usc_section: "120102"
 chapter: 1201
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "36 U.S.C. § 120102"
-generated_at: "2026-03-30T03:41:25.007Z"
+generated_at: "2026-03-30T03:44:59.870Z"
 status: "active"
 ---
 

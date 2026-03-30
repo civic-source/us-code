@@ -3,9 +3,9 @@ title: "Section 5941to5945 - Repealed. Pub. L. 95–313, § 16(a)(3) , formerly 
 usc_title: 16
 usc_section: "5941to5945"
 chapter: 4
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "16 U.S.C. § 5941to5945"
-generated_at: "2026-03-30T03:40:44.887Z"
+generated_at: "2026-03-30T03:44:18.659Z"
 status: "repealed"
 ---
 

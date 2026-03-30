@@ -3,9 +3,9 @@ title: "Section 619a - Eligibility for consideration for promotion: designation 
 usc_title: 10
 usc_section: "619a"
 chapter: 36
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "10 U.S.C. § 619a"
-generated_at: "2026-03-30T03:39:59.479Z"
+generated_at: "2026-03-30T03:43:42.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16 - Annual audited financial statements"
 usc_title: 12
 usc_section: "16"
 chapter: 13
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "12 U.S.C. § 16"
-generated_at: "2026-03-30T03:40:23.244Z"
+generated_at: "2026-03-30T03:43:57.689Z"
 status: "active"
 ---
 

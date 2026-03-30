@@ -3,9 +3,9 @@ title: "Section 281a - Purpose and policy"
 usc_title: 2
 usc_section: "281a"
 chapter: 9
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "2 U.S.C. § 281a"
-generated_at: "2026-03-30T03:39:39.509Z"
+generated_at: "2026-03-30T03:43:29.167Z"
 status: "active"
 ---
 

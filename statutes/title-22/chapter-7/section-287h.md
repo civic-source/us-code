@@ -3,9 +3,9 @@ title: "Section 287h - Limitation on loan"
 usc_title: 22
 usc_section: "287h"
 chapter: 7
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "22 U.S.C. § 287h"
-generated_at: "2026-03-30T03:40:57.095Z"
+generated_at: "2026-03-30T03:44:27.522Z"
 status: "active"
 ---
 

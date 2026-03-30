@@ -3,9 +3,9 @@ title: "Section 5302 - Salaries payable monthly after taking oath"
 usc_title: 2
 usc_section: "5302"
 chapter: 53
-current_through: "PL 113-100"
+current_through: "PL 113-103"
 classification: "2 U.S.C. § 5302"
-generated_at: "2026-03-30T03:39:39.567Z"
+generated_at: "2026-03-30T03:43:29.229Z"
 status: "active"
 ---
 
