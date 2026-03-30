@@ -3,15 +3,15 @@ title: "Section 73 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "73"
 chapter: 9
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "21 U.S.C. § 73"
-generated_at: "2026-03-30T09:40:34.594Z"
+generated_at: "2026-03-30T09:44:44.137Z"
 status: "active"
 ---
 
 # § 379j–73. Reauthorization; reporting requirements
 
-- **(a)** Beginning with fiscal year 2021, and not later than 120 calendar days after the end of each fiscal year thereafter for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 3861(b) of the CARES Act during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals.
+- **(a)** Beginning with fiscal year 2021, and not later than 120 calendar days after the end of each fiscal year thereafter for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 3861(b) 1 1 See References in Text note below. of the CARES Act during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals.
 - **(b)** Not later than 120 calendar days after the end of fiscal year 2021 and each subsequent fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 - **(c)** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the internet website of the Food and Drug Administration.
 - **(d)**

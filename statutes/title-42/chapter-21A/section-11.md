@@ -3,9 +3,9 @@ title: "Section 11 - Guidelines for Federal officers and employees"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T09:41:59.699Z"
+generated_at: "2026-03-30T09:45:29.864Z"
 status: "active"
 ---
 

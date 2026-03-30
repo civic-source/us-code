@@ -3,9 +3,9 @@ title: "Section 4514 - Limitation on actions without congressional authorization
 usc_title: 50
 usc_section: "4514"
 chapter: 55
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "50 U.S.C. § 4514"
-generated_at: "2026-03-30T09:42:11.125Z"
+generated_at: "2026-03-30T09:45:34.899Z"
 status: "active"
 ---
 

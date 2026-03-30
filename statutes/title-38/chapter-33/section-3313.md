@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T09:41:11.793Z"
+generated_at: "2026-03-30T09:45:09.445Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary shall pay to each individual entitled to educational assistance under this chapter who is pursuing an approved program of education (other than a program covered by subsections (e) and (f)) the amounts specified in subsection (c) to meet the expenses of such individual’s subsistence, tuition, fees, and other educational costs for pursuit of such program of education.
 - **(b)** A program of education is an approved program of education for purposes of this chapter if the program of education is approved for purposes of chapter 30 (including approval by the State approving agency concerned).
 - **(c)** The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
-  - **(1)** In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (9), or (10) of section 3311(b), amounts as follows:
+  - **(1)** In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) of section 3311(b), amounts as follows:
     - **(A)** An amount equal to the following:
       - **(i)** In the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
@@ -37,11 +37,10 @@ status: "active"
   - **(3)** In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
   - **(4)** In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
   - **(5)** In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
-  - **(6)** In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7), amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
-  - **(7)** In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(8), amounts equal to 40 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+  - **(6)** In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7), 1 1 See References in Text note below. amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 - **(d)**
-  - **(1)** Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
-  - **(2)** Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (7) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
+  - **(1)** Payment of the amounts payable under subsection (c)(1)(A), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
+  - **(2)** Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
   - **(3)** The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 - **(e)**
   - **(1)** Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty.
@@ -57,7 +56,7 @@ status: "active"
     - **(B)** Subject to subparagraph (C), for the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
       - **(i)** $1,000, multiplied by
       - **(ii)** the fraction of a complete academic year under the program of education that such quarter, semester, or term constitutes.
-    - **(C)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+    - **(C)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable to the individual pursuant to subparagraphs (A)(i), (A)(ii), and (B) shall be the amounts otherwise determined pursuant to such subparagraphs multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
   - **(3)** Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
   - **(4)** For each month (as determined pursuant to the methods prescribed under subsection (d)(3)) for which amounts are paid an individual under this subsection, the entitlement of the individual to educational assistance under this chapter shall be charged at the rate of one month for each such month.
 - **(f)**
@@ -67,7 +66,7 @@ status: "active"
       - **(i)** the actual net cost for in-State tuition and fees assessed by the institution of higher learning for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
         - **(II)** any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ( 20 U.S.C. 1070a(b) )) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
-      - **(ii)** the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (7) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
+      - **(ii)** the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (6) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
     - **(B)** A stipend in an amount equal to the amount of the appropriately reduced amount of the lump sum amount for books, supplies, equipment, and other educational costs otherwise payable to the individual under subsection (c).
   - **(3)** Payment of the amounts payable to an individual under paragraph (2) for pursuit of a program of education on half-time basis or less shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
   - **(4)** For each month (as determined pursuant to the methods prescribed under subsection (d)(3)) for which amounts are paid an individual under this subsection, the entitlement of the individual to educational assistance under this chapter shall be charged at a percentage of a month equal to—
@@ -85,7 +84,7 @@ status: "active"
         - **(I)** of—
         - **(II)** the lesser of—
       - **(iii)** Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
-      - **(iv)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+      - **(iv)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
     - **(B)** In the case of an individual pursuing a full-time program of apprenticeship or other on-job training, amounts as follows:
       - **(i)** Subject to clauses (iii) and (iv), for each month the individual pursues the program of education, a monthly housing stipend equal to—
         - **(I)** during the first six-month period of the program, the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the employer at which the individual pursues such program;
@@ -94,22 +93,22 @@ status: "active"
         - **(IV)** during the fourth six-month period of such program, 40 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I); and
         - **(V)** during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
       - **(ii)** Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
-      - **(iii)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+      - **(iii)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of sections 2 2 So in original. Probably should be “section”. 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
       - **(iv)** In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
     - **(C)** In the case of an individual enrolled in a program of education consisting of flight training (regardless of the institution providing such program of education), an amount equal to—
       - **(i)** the lesser of—
         - **(I)** the actual net cost for in-State tuition and fees assessed by the institution concerned for the program of education after the application of—
         - **(II)** the amount equal to—
       - **(ii)** either—
-        - **(I)** in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
-        - **(II)** in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+        - **(I)** in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (8) of section 3311(b), 100 percent; or
+        - **(II)** in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
     - **(D)** In the case of an individual enrolled in a program of education that is pursued exclusively by correspondence (regardless of the institution providing such program of education), an amount equal to—
       - **(i)** the lesser of—
         - **(I)** the actual net cost for tuition and fees assessed by the institution concerned for the program of education after the application of—
         - **(II)** the amount equal to—
       - **(ii)** either—
-        - **(I)** in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (9) of section 3311(b), 100 percent; or
-        - **(II)** in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
+        - **(I)** in the case of an individual entitled to educational assistance by reason of paragraphs (1), (2), or (8) of section 3311(b), 100 percent; or
+        - **(II)** in the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the same percentage as would otherwise apply to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
   - **(4)**
     - **(A)** Payment of the amounts payable under paragraph (3)(A)(i) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
     - **(B)** Payment of the amounts payable under paragraphs (3)(A)(ii) and (3)(B)(i) for pursuit of a program of education shall be made on a monthly basis.
@@ -122,7 +121,7 @@ status: "active"
       - **(i)** the amount so paid, divided by
       - **(ii)** subject to subparagraph (B), the amount equal to one-twelfth of the amount applicable in the academic year in which the payment is made under paragraph (3)(A)(i)(II).
     - **(B)** If the amount otherwise payable with respect to an individual under paragraph (3)(A)(i) is subject to a percentage adjustment under paragraph (3)(A)(iv), the amount applicable with respect to the individual under subparagraph (A)(ii) shall be the amount otherwise determined pursuant to such subparagraph subject to a percentage adjustment equal to the percentage adjustment applicable with respect to the individual under paragraph (3)(A)(iv).
-- **(h)** Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
+- **(h)** Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (6) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 - **(i)** Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
 - **(j)** For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of such stipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
 - **(k)**

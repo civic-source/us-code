@@ -3,9 +3,9 @@ title: "Section 10113 - Air National Guard of the United States: status when not
 usc_title: 10
 usc_section: "10113"
 chapter: 1003
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 10113"
-generated_at: "2026-03-30T09:39:54.677Z"
+generated_at: "2026-03-30T09:44:06.853Z"
 status: "active"
 ---
 

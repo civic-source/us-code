@@ -3,9 +3,9 @@ title: "Section 4913 - Suspension or termination of plans"
 usc_title: 7
 usc_section: "4913"
 chapter: 80
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 4913"
-generated_at: "2026-03-30T09:39:57.943Z"
+generated_at: "2026-03-30T09:44:10.252Z"
 status: "active"
 ---
 

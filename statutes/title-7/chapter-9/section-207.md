@@ -3,9 +3,9 @@ title: "Section 207 - Schedule of rates"
 usc_title: 7
 usc_section: "207"
 chapter: 9
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 207"
-generated_at: "2026-03-30T09:39:57.836Z"
+generated_at: "2026-03-30T09:44:10.153Z"
 status: "active"
 ---
 

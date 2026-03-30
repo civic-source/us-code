@@ -3,9 +3,9 @@ title: "Section 204 - General Counsel; Judicial Officer; Chief Postal Inspector"
 usc_title: 39
 usc_section: "204"
 chapter: 2
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "39 U.S.C. § 204"
-generated_at: "2026-03-30T09:41:09.325Z"
+generated_at: "2026-03-30T09:45:04.961Z"
 status: "active"
 ---
 

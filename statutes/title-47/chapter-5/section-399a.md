@@ -3,9 +3,9 @@ title: "Section 399a - Use of business or institutional logograms"
 usc_title: 47
 usc_section: "399a"
 chapter: 5
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "47 U.S.C. § 399a"
-generated_at: "2026-03-30T09:42:03.027Z"
+generated_at: "2026-03-30T09:45:35.310Z"
 status: "active"
 ---
 

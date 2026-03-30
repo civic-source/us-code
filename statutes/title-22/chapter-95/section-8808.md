@@ -3,9 +3,9 @@ title: "Section 8808 - Report on use of certain Iranian seaports by foreign vess
 usc_title: 22
 usc_section: "8808"
 chapter: 95
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 8808"
-generated_at: "2026-03-30T09:40:36.598Z"
+generated_at: "2026-03-30T09:44:42.867Z"
 status: "active"
 ---
 

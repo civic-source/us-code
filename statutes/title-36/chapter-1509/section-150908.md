@@ -3,9 +3,9 @@ title: "Section 150908 - Records and inspection"
 usc_title: 36
 usc_section: "150908"
 chapter: 1509
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "36 U.S.C. § 150908"
-generated_at: "2026-03-30T09:41:10.315Z"
+generated_at: "2026-03-30T09:45:05.911Z"
 status: "active"
 ---
 

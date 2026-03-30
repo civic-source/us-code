@@ -3,9 +3,9 @@ title: "Section 100 - Omitted"
 usc_title: 19
 usc_section: "100"
 chapter: 2
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "19 U.S.C. § 100"
-generated_at: "2026-03-30T09:40:23.000Z"
+generated_at: "2026-03-30T09:44:29.841Z"
 status: "omitted"
 ---
 

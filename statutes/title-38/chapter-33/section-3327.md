@@ -3,9 +3,9 @@ title: "Section 3327 - Election to receive educational assistance"
 usc_title: 38
 usc_section: "3327"
 chapter: 33
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 3327"
-generated_at: "2026-03-30T09:41:11.794Z"
+generated_at: "2026-03-30T09:45:09.446Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(1)** In the event educational assistance to which an individual making an election under subsection (a) would be entitled under chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable, is not authorized to be available to the individual under the provisions of this chapter, the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
   - **(2)** The utilization by an individual of entitlement under paragraph (1) shall be chargeable against the entitlement of the individual to educational assistance under this chapter at the rate of 1 month of entitlement under this chapter for each month of entitlement utilized by the individual under paragraph (1) (as determined as if such entitlement were utilized under the provisions of chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable).
 - **(f)**
-  - **(1)** In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of this title , or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
+  - **(1)** In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of this title , or under paragraphs (2) through (7) 1 1 See References in Text note below. of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
     - **(A)** the total amount of contributions toward basic educational assistance made by the individual under section 3011(b) or 3012(c) of this title, as of the date of the election, multiplied by
     - **(B)** the fraction—
       - **(i)** the numerator of which is—
@@ -42,7 +42,7 @@ status: "active"
         - **(II)** the number of months, if any, of entitlement under chapter 30 of this title revoked by the individual under subsection (c)(1); and
       - **(ii)** the denominator of which is 36 months.
   - **(2)** In the case of an individual covered by paragraph (1) who is described by subsection (a)(1)(E), the number of months of entitlement to basic educational assistance remaining to the individual for purposes of paragraph (1)(B)(i)(II) shall be 36 months.
-  - **(3)** The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of this title , or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under this chapter.
+  - **(3)** The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of section 3313(c) of this title , or under paragraphs (2) through (7) 1 of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under this chapter.
 - **(g)** An individual making an election under subsection (a)(1) who, at the time of the election, is entitled to increased educational assistance under section 3015(d) of this title , or section 16131(i) of title 10 , or supplemental educational assistance under subchapter III of chapter 30 of this title, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under this chapter, in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
 - **(h)**
   - **(1)** In the case of an individual who, on or after January 1, 2017 , submits to the Secretary an election under this section that the Secretary determines is clearly against the interests of the individual, or who fails to make an election under this section, the Secretary may make an alternative election on behalf of the individual that the Secretary determines is in the best interests of the individual.

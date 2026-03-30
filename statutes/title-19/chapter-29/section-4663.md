@@ -3,9 +3,9 @@ title: "Section 4663 - Status"
 usc_title: 19
 usc_section: "4663"
 chapter: 29
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "19 U.S.C. § 4663"
-generated_at: "2026-03-30T09:40:23.069Z"
+generated_at: "2026-03-30T09:44:29.913Z"
 status: "active"
 ---
 

@@ -3,13 +3,13 @@ title: "Section 6553 - Sunset of United States Advisory Commission on Public Dip
 usc_title: 22
 usc_section: "6553"
 chapter: 74
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 6553"
-generated_at: "2026-03-30T09:40:36.573Z"
+generated_at: "2026-03-30T09:44:42.842Z"
 status: "active"
 ---
 
 # § 6553. Sunset of United States Advisory Commission on Public Diplomacy
 
-The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2020 .
+The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2021 .
 

@@ -3,9 +3,9 @@ title: "Section 451d - Disposal of improvements; water rights; revertibil­ity o
 usc_title: 43
 usc_section: "451d"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 451d"
-generated_at: "2026-03-30T09:41:20.978Z"
+generated_at: "2026-03-30T09:45:12.031Z"
 status: "active"
 ---
 

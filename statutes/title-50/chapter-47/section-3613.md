@@ -3,9 +3,9 @@ title: "Section 3613 - Misuse of Agency name, initials, or seal"
 usc_title: 50
 usc_section: "3613"
 chapter: 47
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "50 U.S.C. § 3613"
-generated_at: "2026-03-30T09:42:11.112Z"
+generated_at: "2026-03-30T09:45:34.883Z"
 status: "active"
 ---
 

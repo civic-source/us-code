@@ -3,9 +3,9 @@ title: "Section 848 - Art. 48. Contempt"
 usc_title: 10
 usc_section: "848"
 chapter: 47
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 848"
-generated_at: "2026-03-30T09:39:54.566Z"
+generated_at: "2026-03-30T09:44:06.744Z"
 status: "active"
 ---
 

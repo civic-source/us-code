@@ -3,9 +3,9 @@ title: "Section 4e - Omitted"
 usc_title: 30
 usc_section: "4e"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "30 U.S.C. § 4e"
-generated_at: "2026-03-30T09:40:44.655Z"
+generated_at: "2026-03-30T09:44:47.713Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7509 - Sanctions and consequences of failure to attain"
 usc_title: 42
 usc_section: "7509"
 chapter: 85
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 7509"
-generated_at: "2026-03-30T09:41:59.840Z"
+generated_at: "2026-03-30T09:45:30.001Z"
 status: "active"
 ---
 

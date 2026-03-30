@@ -3,9 +3,9 @@ title: "Section 325 - Incentive bonus: savings plan for education expenses and o
 usc_title: 37
 usc_section: "325"
 chapter: 5
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "37 U.S.C. § 325"
-generated_at: "2026-03-30T09:41:17.776Z"
+generated_at: "2026-03-30T09:45:06.956Z"
 status: "active"
 ---
 

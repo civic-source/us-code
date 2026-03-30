@@ -3,9 +3,9 @@ title: "Section 433 - Exemptions with respect to certain contracts"
 usc_title: 18
 usc_section: "433"
 chapter: 23
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 433"
-generated_at: "2026-03-30T09:40:16.616Z"
+generated_at: "2026-03-30T09:44:28.169Z"
 status: "active"
 ---
 

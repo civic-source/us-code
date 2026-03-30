@@ -3,9 +3,9 @@ title: "Section 8 - Southeastern Power Administration: rates of basic and premiu
 usc_title: 16
 usc_section: "8"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T09:40:28.749Z"
+generated_at: "2026-03-30T09:44:35.188Z"
 status: "active"
 ---
 

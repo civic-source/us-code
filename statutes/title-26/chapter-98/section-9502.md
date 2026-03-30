@@ -3,9 +3,9 @@ title: "Section 9502 - Airport and Airway Trust Fund"
 usc_title: 26
 usc_section: "9502"
 chapter: 98
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 9502"
-generated_at: "2026-03-30T09:41:03.262Z"
+generated_at: "2026-03-30T09:44:54.360Z"
 status: "active"
 ---
 
@@ -39,3 +39,4 @@ status: "active"
     - **(A)** any provision of law which is not contained or referenced in this title or in a revenue Act; and
     - **(B)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
   - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2023 , in accordance with the provisions of this section.
+- **(f)** Out of money in the Treasury not otherwise appropriated, there is hereby appropriated $14,000,000,000 to the Airport and Airway Trust Fund.

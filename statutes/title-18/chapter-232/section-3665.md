@@ -3,9 +3,9 @@ title: "Section 3665 - Firearms possessed by convicted felons"
 usc_title: 18
 usc_section: "3665"
 chapter: 232
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 3665"
-generated_at: "2026-03-30T09:40:16.662Z"
+generated_at: "2026-03-30T09:44:28.218Z"
 status: "active"
 ---
 

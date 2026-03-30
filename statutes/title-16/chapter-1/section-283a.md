@@ -3,9 +3,9 @@ title: "Section 283a - Acquisition of lands"
 usc_title: 16
 usc_section: "283a"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 283a"
-generated_at: "2026-03-30T09:40:28.628Z"
+generated_at: "2026-03-30T09:44:35.072Z"
 status: "active"
 ---
 

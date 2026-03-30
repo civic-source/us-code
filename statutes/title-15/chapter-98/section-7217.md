@@ -3,9 +3,9 @@ title: "Section 7217 - Commission oversight of the Board"
 usc_title: 15
 usc_section: "7217"
 chapter: 98
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "15 U.S.C. § 7217"
-generated_at: "2026-03-30T09:40:12.887Z"
+generated_at: "2026-03-30T09:44:20.593Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 911 - Citizen of the United States"
 usc_title: 18
 usc_section: "911"
 chapter: 43
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 911"
-generated_at: "2026-03-30T09:40:16.623Z"
+generated_at: "2026-03-30T09:44:28.176Z"
 status: "active"
 ---
 

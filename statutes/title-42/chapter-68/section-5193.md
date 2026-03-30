@@ -3,9 +3,9 @@ title: "Section 5193 - Amount of assistance"
 usc_title: 42
 usc_section: "5193"
 chapter: 68
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 5193"
-generated_at: "2026-03-30T09:41:59.773Z"
+generated_at: "2026-03-30T09:45:29.935Z"
 status: "active"
 ---
 

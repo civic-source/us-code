@@ -3,9 +3,9 @@ title: "Section 6661 - Repealed. Pub. L. 101–239, title VII, § 7721(c)(2) , D
 usc_title: 26
 usc_section: "6661"
 chapter: 68
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 6661"
-generated_at: "2026-03-30T09:41:03.238Z"
+generated_at: "2026-03-30T09:44:54.336Z"
 status: "repealed"
 ---
 

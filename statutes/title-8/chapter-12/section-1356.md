@@ -3,9 +3,9 @@ title: "Section 1356 - Disposition of moneys collected under the provisions of t
 usc_title: 8
 usc_section: "1356"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "8 U.S.C. § 1356"
-generated_at: "2026-03-30T09:39:48.484Z"
+generated_at: "2026-03-30T09:44:07.875Z"
 status: "active"
 ---
 
@@ -97,7 +97,26 @@ status: "active"
   - **(1)** There is hereby established the Genealogy Fee for providing genealogy research and information services. This fee shall be deposited as offsetting collections into the Examinations Fee Account. Fees for such research and information services may be set at a level that will ensure the recovery of the full costs of providing all such services.
   - **(2)** The Attorney General will prepare and submit annually to Congress statements of the financial condition of the Genealogy Fee.
   - **(3)** Any officer or employee of the Immigration and Naturalization Service shall collect fees prescribed under regulation before disseminating any requested genealogical information.
-- **(u)** The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index.
+- **(u)**
+  - **(1)** The Secretary of Homeland Security is authorized to establish and collect a premium fee for the immigration benefit types described in paragraph (2). Such fee shall be paid in addition to any other fees authorized by law, deposited as offsetting receipts in the Immigration Examinations Fee Account established under subsection (m), and used for the purposes described in paragraph (4).
+  - **(2)** Subject to reasonable conditions or limitations, the Secretary shall establish a premium fee under paragraph (1) in connection with—
+    - **(A)** employment-based nonimmigrant petitions and associated applications for dependents of the beneficiaries of such petitions;
+    - **(B)** employment-based immigrant petitions filed by or on behalf of aliens described in paragraph (1), (2), or (3) of section 1153(b) of this title ;
+    - **(C)** applications to change or extend nonimmigrant status;
+    - **(D)** applications for employment authorization; and
+    - **(E)** any other immigration benefit type that the Secretary deems appropriate for premium processing.
+  - **(3)**
+    - **(A)** Subject to subparagraph (C), with respect to an immigration benefit type designated for premium processing by the Secretary on or before August 1, 2020 , the premium fee shall be $2,500, except that the premium fee for a petition for classification of a nonimmigrant described in subparagraph (H)(ii)(b) or (R) of section 1101(a)(15) of this title shall be $1,500.
+    - **(B)** With respect to an immigration benefit type designated for premium processing but not described in subparagraph (A), the initial premium fee shall be established by regulation, which shall include a detailed methodology supporting the proposed premium fee amount.
+    - **(C)** The Secretary may adjust a premium fee under subparagraph (A) or (B) on a biennial basis by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of June preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the second preceding calendar year. The provisions of section 553 of title 5 shall not apply to an adjustment authorized under this subparagraph.
+  - **(4)** Fees collected under this subsection may only be used by U.S. Citizenship and Immigration Services to—
+    - **(A)** provide the services described in paragraph (5) to premium processing requestors;
+    - **(B)** make infrastructure improvements in adjudications processes and the provision of information and services to immigration and naturalization benefit requestors;
+    - **(C)** respond to adjudication demands, including by reducing the number of pending immigration and naturalization benefit requests; and
+    - **(D)** otherwise offset the cost of providing adjudication and naturalization services.
+  - **(5)** The Secretary—
+    - **(A)** may suspend the availability of premium processing for designated immigration benefit requests only if circumstances prevent the completion of processing of a significant number of such requests within the required period; and
+    - **(B)** shall ensure that premium processing requestors have direct and reliable access to current case status information as well as the ability to communicate with the premium processing units at each service center or office that provides premium processing services.
 - **(v)**
   - **(1)** There is established in the general fund of the Treasury a separate account, which shall be known as the “Fraud Prevention and Detection Account”. Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all fees collected under paragraph (12) or (13) of section 1184(c) of this title .
   - **(2)**

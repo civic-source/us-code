@@ -3,9 +3,9 @@ title: "Section 3206 - Global tsunami warning and mitigation network"
 usc_title: 33
 usc_section: "3206"
 chapter: 45
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "33 U.S.C. § 3206"
-generated_at: "2026-03-30T09:41:07.705Z"
+generated_at: "2026-03-30T09:44:58.238Z"
 status: "active"
 ---
 

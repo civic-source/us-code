@@ -3,9 +3,9 @@ title: "Section 1841 - Motor vehicle safety"
 usc_title: 29
 usc_section: "1841"
 chapter: 20
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "29 U.S.C. § 1841"
-generated_at: "2026-03-30T09:40:40.589Z"
+generated_at: "2026-03-30T09:44:48.652Z"
 status: "active"
 ---
 

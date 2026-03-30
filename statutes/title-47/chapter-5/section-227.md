@@ -3,9 +3,9 @@ title: "Section 227 - Restrictions on use of telephone equipment"
 usc_title: 47
 usc_section: "227"
 chapter: 5
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-30T09:42:03.012Z"
+generated_at: "2026-03-30T09:45:35.294Z"
 status: "active"
 ---
 
@@ -210,7 +210,7 @@ status: "active"
   - **(1)** Not later than 1 year after December 30, 2019 , the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019 )—
     - **(A)** are provided with transparency and effective redress options for both—
       - **(i)** consumers; and
-      - **(ii)** callers; and
+      - **(ii)** callers; and 2 2 So in original. The word “and” probably should not appear.
     - **(B)** are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls; and
     - **(C)** make all reasonable efforts to avoid blocking emergency public safety calls.
   - **(2)** In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).

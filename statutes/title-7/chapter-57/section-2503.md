@@ -3,9 +3,9 @@ title: "Section 2503 - Repealed. Pub. L. 103–349, § 8(a) , Oct. 6, 1994 , 108
 usc_title: 7
 usc_section: "2503"
 chapter: 57
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 2503"
-generated_at: "2026-03-30T09:39:57.923Z"
+generated_at: "2026-03-30T09:44:10.233Z"
 status: "repealed"
 ---
 

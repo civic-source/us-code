@@ -3,9 +3,9 @@ title: "Section 102301 - Volunteers in parks program"
 usc_title: 54
 usc_section: "102301"
 chapter: 1023
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "54 U.S.C. § 102301"
-generated_at: "2026-03-30T09:42:20.873Z"
+generated_at: "2026-03-30T09:45:39.346Z"
 status: "active"
 ---
 

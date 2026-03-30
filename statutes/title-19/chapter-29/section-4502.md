@@ -3,9 +3,9 @@ title: "Section 4502 - Definitions"
 usc_title: 19
 usc_section: "4502"
 chapter: 29
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "19 U.S.C. § 4502"
-generated_at: "2026-03-30T09:40:23.065Z"
+generated_at: "2026-03-30T09:44:29.909Z"
 status: "active"
 ---
 

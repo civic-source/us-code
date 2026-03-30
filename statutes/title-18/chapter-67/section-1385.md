@@ -3,9 +3,9 @@ title: "Section 1385 - Use of Army and Air Force as posse comitatus"
 usc_title: 18
 usc_section: "1385"
 chapter: 67
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 1385"
-generated_at: "2026-03-30T09:40:16.632Z"
+generated_at: "2026-03-30T09:44:28.186Z"
 status: "active"
 ---
 

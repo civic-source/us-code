@@ -3,9 +3,9 @@ title: "Section 2361 - Award of grants and contracts to colleges and universitie
 usc_title: 10
 usc_section: "2361"
 chapter: 139
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2361"
-generated_at: "2026-03-30T09:39:54.624Z"
+generated_at: "2026-03-30T09:44:06.801Z"
 status: "active"
 ---
 

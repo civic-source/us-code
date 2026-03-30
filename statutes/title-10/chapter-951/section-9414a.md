@@ -3,9 +3,9 @@ title: "Section 9414a - United States Air Force Institute of Technology: admissi
 usc_title: 10
 usc_section: "9414a"
 chapter: 951
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 9414a"
-generated_at: "2026-03-30T09:39:54.673Z"
+generated_at: "2026-03-30T09:44:06.849Z"
 status: "active"
 ---
 

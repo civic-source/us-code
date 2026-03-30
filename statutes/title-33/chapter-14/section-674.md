@@ -3,9 +3,9 @@ title: "Section 674 - Plans for and supervision of work required by order; permi
 usc_title: 33
 usc_section: "674"
 chapter: 14
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "33 U.S.C. § 674"
-generated_at: "2026-03-30T09:41:07.651Z"
+generated_at: "2026-03-30T09:44:58.180Z"
 status: "active"
 ---
 

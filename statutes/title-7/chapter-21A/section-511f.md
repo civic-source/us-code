@@ -3,9 +3,9 @@ title: "Section 511f - Reinspection and appeal inspection; certificate as eviden
 usc_title: 7
 usc_section: "511f"
 chapter: 21
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 511f"
-generated_at: "2026-03-30T09:39:57.843Z"
+generated_at: "2026-03-30T09:44:10.160Z"
 status: "active"
 ---
 

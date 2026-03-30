@@ -3,9 +3,9 @@ title: "Section 10210 - Dissemination of information"
 usc_title: 10
 usc_section: "10210"
 chapter: 1007
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 10210"
-generated_at: "2026-03-30T09:39:54.678Z"
+generated_at: "2026-03-30T09:44:06.853Z"
 status: "active"
 ---
 

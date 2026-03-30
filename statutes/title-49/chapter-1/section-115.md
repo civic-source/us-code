@@ -3,9 +3,9 @@ title: "Section 115 - Transportation Security Oversight Board"
 usc_title: 49
 usc_section: "115"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "49 U.S.C. § 115"
-generated_at: "2026-03-30T09:42:07.272Z"
+generated_at: "2026-03-30T09:45:37.185Z"
 status: "active"
 ---
 
@@ -30,4 +30,4 @@ status: "active"
   - **(5)** review plans for transportation security;
   - **(6)** make recommendations to the Administrator regarding matters reviewed under paragraph (5).
 - **(d)** The Board shall meet at least quarterly.
-- **(e)** A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, sensitive security information, or information protected in accordance with section 40119(b), 1 1 See References in Text note below. will be discussed.
+- **(e)** A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, 1 1 So in original. The word “information” probably should be inserted. sensitive security information, or information protected in accordance with section 40119(b), 2 2 See References in Text note below. will be discussed.

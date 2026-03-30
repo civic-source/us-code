@@ -3,9 +3,9 @@ title: "Section 2375 - Assistance to Pakistan"
 usc_title: 22
 usc_section: "2375"
 chapter: 32
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 2375"
-generated_at: "2026-03-30T09:40:36.512Z"
+generated_at: "2026-03-30T09:44:42.781Z"
 status: "active"
 ---
 

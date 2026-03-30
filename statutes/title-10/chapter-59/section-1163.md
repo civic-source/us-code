@@ -3,9 +3,9 @@ title: "Section 1163 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(i
 usc_title: 10
 usc_section: "1163"
 chapter: 59
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 1163"
-generated_at: "2026-03-30T09:39:54.587Z"
+generated_at: "2026-03-30T09:44:06.765Z"
 status: "repealed"
 ---
 

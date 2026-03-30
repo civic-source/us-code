@@ -3,9 +3,9 @@ title: "Section 1963 - Authority for payment of interest on settlements"
 usc_title: 38
 usc_section: "1963"
 chapter: 19
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 1963"
-generated_at: "2026-03-30T09:41:11.783Z"
+generated_at: "2026-03-30T09:45:09.435Z"
 status: "active"
 ---
 

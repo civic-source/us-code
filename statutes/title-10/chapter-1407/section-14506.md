@@ -3,9 +3,9 @@ title: "Section 14506 - Effect of failure of selection for promotion: reserve ma
 usc_title: 10
 usc_section: "14506"
 chapter: 1407
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 14506"
-generated_at: "2026-03-30T09:39:54.686Z"
+generated_at: "2026-03-30T09:44:06.862Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9508 - Leaking Underground Storage Tank Trust Fund"
 usc_title: 26
 usc_section: "9508"
 chapter: 98
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 9508"
-generated_at: "2026-03-30T09:41:03.263Z"
+generated_at: "2026-03-30T09:44:54.361Z"
 status: "active"
 ---
 
@@ -33,4 +33,4 @@ status: "active"
   - **(1)** Except as provided in paragraph (2), no amount may be appropriated to the Leaking Underground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
     - **(A)** any provision of law which is not contained or referenced in this title or in a revenue Act, and
     - **(B)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
-  - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020 , in accordance with the provisions of this section.
+  - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021 , in accordance with the provisions of this section.

@@ -3,9 +3,9 @@ title: "Section 40704 - Conditions of release generally"
 usc_title: 34
 usc_section: "40704"
 chapter: 407
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "34 U.S.C. § 40704"
-generated_at: "2026-03-30T09:41:06.145Z"
+generated_at: "2026-03-30T09:45:01.139Z"
 status: "active"
 ---
 

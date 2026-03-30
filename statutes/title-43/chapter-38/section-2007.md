@@ -3,9 +3,9 @@ title: "Section 2007 - Decision of President"
 usc_title: 43
 usc_section: "2007"
 chapter: 38
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 2007"
-generated_at: "2026-03-30T09:41:21.017Z"
+generated_at: "2026-03-30T09:45:12.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 392a - Payment into reclamation fund of receipts from irrigation
 usc_title: 43
 usc_section: "392a"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 392a"
-generated_at: "2026-03-30T09:41:20.976Z"
+generated_at: "2026-03-30T09:45:12.028Z"
 status: "active"
 ---
 

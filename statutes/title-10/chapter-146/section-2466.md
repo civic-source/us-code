@@ -3,9 +3,9 @@ title: "Section 2466 - Limitations on the performance of depot-level maintenance
 usc_title: 10
 usc_section: "2466"
 chapter: 146
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2466"
-generated_at: "2026-03-30T09:39:54.632Z"
+generated_at: "2026-03-30T09:44:06.808Z"
 status: "active"
 ---
 

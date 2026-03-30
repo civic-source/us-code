@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-30T09:41:59.506Z"
+generated_at: "2026-03-30T09:45:29.677Z"
 status: "active"
 ---
 
@@ -145,6 +145,23 @@ status: "active"
     - **(A)** information regarding the extent to which eligible entities receiving grants under this section demonstrated improvements in the areas specified in subsection (d)(1)(A);
     - **(B)** information regarding any technical assistance provided under subsection (d)(1)(B)(iii)(I), including the type of any such assistance provided; and
     - **(C)** recommendations for such legislative or administrative action as the Secretary determines appropriate.
+  - **(5)**
+    - **(A)**
+      - **(i)** The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
+      - **(ii)** The data exchange standards designated under clause (i) shall, to the extent practicable, be nonproprietary and interoperable.
+      - **(iii)** In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate—
+        - **(I)** interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget;
+        - **(II)** interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
+        - **(III)** interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance.
+    - **(B)**
+      - **(i)** The head of the department or agency responsible for administering a program referred to in this section shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern Federal reporting and exchange requirements under applicable Federal law.
+      - **(ii)** The data exchange reporting standards required by clause (i) shall, to the extent practicable—
+        - **(I)** incorporate a widely accepted, nonproprietary, searchable, computer-readable format;
+        - **(II)** be consistent with and implement applicable accounting principles;
+        - **(III)** be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+        - **(IV)** be capable of being continually upgraded as necessary.
+      - **(iii)** In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Mark up Language.
+      - **(iv)** Nothing in this paragraph shall be construed to require a change to existing data exchange standards for Federal reporting about a program referred to in this section, if the head of the department or agency responsible for administering the program finds the standards to be effective and efficient.
 - **(i)**
   - **(1)** Except as provided in paragraph (2), the other provisions of this subchapter shall not apply to a grant made under this section.
   - **(2)** The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title :

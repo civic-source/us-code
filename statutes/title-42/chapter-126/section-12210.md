@@ -3,9 +3,9 @@ title: "Section 12210 - Illegal use of drugs"
 usc_title: 42
 usc_section: "12210"
 chapter: 126
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 12210"
-generated_at: "2026-03-30T09:41:59.929Z"
+generated_at: "2026-03-30T09:45:30.089Z"
 status: "active"
 ---
 

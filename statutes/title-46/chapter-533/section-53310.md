@@ -3,9 +3,9 @@ title: "Section 53310 - Obligation of deposits and period for construction of ce
 usc_title: 46
 usc_section: "53310"
 chapter: 533
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "46 U.S.C. § 53310"
-generated_at: "2026-03-30T09:42:18.610Z"
+generated_at: "2026-03-30T09:45:33.383Z"
 status: "active"
 ---
 

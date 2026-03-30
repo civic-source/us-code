@@ -3,9 +3,9 @@ title: "Section 4016 - Enforcement"
 usc_title: 16
 usc_section: "4016"
 chapter: 60
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 4016"
-generated_at: "2026-03-30T09:40:28.830Z"
+generated_at: "2026-03-30T09:44:35.263Z"
 status: "active"
 ---
 

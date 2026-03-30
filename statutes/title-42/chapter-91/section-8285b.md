@@ -3,9 +3,9 @@ title: "Section 8285b - Grants"
 usc_title: 42
 usc_section: "8285b"
 chapter: 91
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 8285b"
-generated_at: "2026-03-30T09:41:59.868Z"
+generated_at: "2026-03-30T09:45:30.028Z"
 status: "active"
 ---
 

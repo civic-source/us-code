@@ -3,9 +3,9 @@ title: "Section 12225 - Award of grants"
 usc_title: 34
 usc_section: "12225"
 chapter: 121
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "34 U.S.C. § 12225"
-generated_at: "2026-03-30T09:41:06.122Z"
+generated_at: "2026-03-30T09:45:01.116Z"
 status: "active"
 ---
 

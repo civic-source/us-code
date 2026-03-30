@@ -3,9 +3,9 @@ title: "Section 218a - Repealed. Pub. L. 114–74, title VI, § 604 , Nov. 2, 20
 usc_title: 29
 usc_section: "218a"
 chapter: 8
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "29 U.S.C. § 218a"
-generated_at: "2026-03-30T09:40:40.543Z"
+generated_at: "2026-03-30T09:44:48.606Z"
 status: "repealed"
 ---
 

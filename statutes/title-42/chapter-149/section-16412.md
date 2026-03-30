@@ -3,9 +3,9 @@ title: "Section 16412 - Training guidelines for nonnuclear electric energy indus
 usc_title: 42
 usc_section: "16412"
 chapter: 149
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 16412"
-generated_at: "2026-03-30T09:41:59.985Z"
+generated_at: "2026-03-30T09:45:30.144Z"
 status: "active"
 ---
 

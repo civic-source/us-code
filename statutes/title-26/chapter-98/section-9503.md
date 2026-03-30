@@ -3,9 +3,9 @@ title: "Section 9503 - Highway Trust Fund"
 usc_title: 26
 usc_section: "9503"
 chapter: 98
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 9503"
-generated_at: "2026-03-30T09:41:03.262Z"
+generated_at: "2026-03-30T09:44:54.360Z"
 status: "active"
 ---
 
@@ -38,9 +38,9 @@ status: "active"
     - **(A)** Except as provided in subparagraph (B), no amount may be appropriated to the Highway Trust Fund on and after the date of any expenditure from the Highway Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
       - **(i)** any provision of law which is not contained or referenced in this title or in a revenue Act, and
       - **(ii)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
-    - **(B)** Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020 , in accordance with the provisions of this section.
+    - **(B)** Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021 , in accordance with the provisions of this section.
 - **(c)**
-  - **(1)** Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2020 , to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+  - **(1)** Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2021 , to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Continuing Appropriations Act, 2021 and Other Extensions Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
   - **(2)** The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2023 , under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
   - **(3)**
     - **(A)**
@@ -89,7 +89,7 @@ status: "active"
     - **(C)** 1.86 cents per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D)) in the case of liquefied natural gas,
     - **(D)** 2.13 cents per energy equivalent of a gallon of gasoline (as defined in section 4041(a)(2)(C)) in the case of liquefied petroleum gas, and
     - **(E)** 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
-  - **(3)** Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2020 , in accordance with the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+  - **(3)** Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2021 , in accordance with the Continuing Appropriations Act, 2021 and Other Extensions Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
   - **(4)** Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.
   - **(5)**
     - **(A)** Transfers under paragraphs (2) and (3) of subsection (c) shall be borne by the Highway Account and the Mass Transit Account in proportion to the respective revenues transferred under this section to the Highway Account (after the application of paragraph (2)) and the Mass Transit Account.
@@ -116,4 +116,7 @@ status: "active"
     - **(A)** $51,900,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
     - **(B)** $18,100,000,000 to the Mass Transit Account in the Highway Trust Fund.
   - **(9)** There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(4).
-  - **(10)** Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
+  - **(10)** Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+    - **(A)** $10,400,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+    - **(B)** $3,200,000,000 to the Mass Transit Account in the Highway Trust Fund.
+  - **(11)** Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.

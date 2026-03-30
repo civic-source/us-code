@@ -3,9 +3,9 @@ title: "Section 1165 - Fire and life safety improvements"
 usc_title: 6
 usc_section: "1165"
 chapter: 4
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "6 U.S.C. § 1165"
-generated_at: "2026-03-30T09:39:49.635Z"
+generated_at: "2026-03-30T09:44:13.945Z"
 status: "active"
 ---
 

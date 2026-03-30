@@ -3,9 +3,9 @@ title: "Section 1d - Repealed. Pub. L. 95–94, title I, § 111(e)(1) , Aug. 5, 
 usc_title: 2
 usc_section: "1d"
 chapter: 4
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "2 U.S.C. § 1d"
-generated_at: "2026-03-30T09:39:45.861Z"
+generated_at: "2026-03-30T09:43:49.489Z"
 status: "repealed"
 ---
 

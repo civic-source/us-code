@@ -1,42 +1,13 @@
 ---
-title: "Section 2214 - NRC user fees and annual charges"
+title: "Section 2214 - Repealed. Pub. L. 115–439, title I, § 101(b) , Jan. 14, 2019 , 132 Stat. 5568"
 usc_title: 42
 usc_section: "2214"
 chapter: 23
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 2214"
-generated_at: "2026-03-30T09:41:59.713Z"
-status: "active"
+generated_at: "2026-03-30T09:45:29.878Z"
+status: "repealed"
 ---
 
-# § 2214. NRC user fees and annual charges
+# § 2214. Repealed. Pub. L. 115–439, title I, § 101(b) , Jan. 14, 2019 , 132 Stat. 5568
 
-- **(a)**
-  - **(1)** The Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c).
-  - **(2)** The first assessment of fees under subsection (b) and annual charges under subsection (c) shall be made not later than September 30, 1991 .
-- **(b)** Pursuant to section 9701 of title 31 , any person who receives a service or thing of value from the Commission shall pay fees to cover the Commission’s costs in providing any such service or thing of value.
-- **(c)**
-  - **(1)** Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b), an annual charge.
-  - **(2)**
-    - **(A)** The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
-      - **(i)** amounts collected under subsection (b) during the fiscal year;
-      - **(ii)** amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
-      - **(iii)** amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005;
-      - **(iv)** amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by section 2169 of this title and the costs of conducting security inspections; and
-      - **(v)** amounts appropriated to the Commission for the fiscal year for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies, including activities required under section 103 1 1 See References in Text note below. of the Nuclear Energy Innovation and Modernization Act.
-    - **(B)** The percentages referred to in subparagraph (A) are—
-      - **(i)** 98 percent for fiscal year 2001;
-      - **(ii)** 96 percent for fiscal year 2002;
-      - **(iii)** 94 percent for fiscal year 2003;
-      - **(iv)** 92 percent for fiscal year 2004; and
-      - **(v)** 90 percent for fiscal year 2005 and each fiscal year thereafter.
-  - **(3)** The Commission shall establish, by rule, a schedule of charges fairly and equitably allocating the aggregate amount of charges described in paragraph (2) among licensees. To the maximum extent practicable, the charges shall have a reasonable relationship to the cost of providing regulatory services and may be based on the allocation of the Commission’s resources among licensees or classes of licensees.
-  - **(4)**
-    - **(A)** Paragraph (1) shall not apply to the holder of any license for a federally owned research reactor used primarily for educational training and academic research purposes.
-    - **(B)** For purposes of subparagraph (A), the term “research reactor” means a nuclear reactor that—
-      - **(i)** is licensed by the Nuclear Regulatory Commission under section 2134(c) of this title for operation at a thermal power level of 10 megawatts or less; and
-      - **(ii)** if so licensed for operation at a thermal power level of more than 1 megawatt, does not contain—
-        - **(I)** a circulating loop through the core in which the licensee conducts fuel experiments;
-        - **(II)** a liquid fuel loading; or
-        - **(III)** an experimental facility in the core in excess of 16 square inches in cross-section.
-- **(d)** As used in this section, the term “Nuclear Waste Fund” means the fund established pursuant to section 10222(c) of this title .

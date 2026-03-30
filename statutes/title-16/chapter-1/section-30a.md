@@ -3,9 +3,9 @@ title: "Section 30a - Existing laws as affected"
 usc_title: 16
 usc_section: "30a"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 30a"
-generated_at: "2026-03-30T09:40:28.613Z"
+generated_at: "2026-03-30T09:44:35.057Z"
 status: "active"
 ---
 

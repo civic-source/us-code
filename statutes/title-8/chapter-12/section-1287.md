@@ -3,9 +3,9 @@ title: "Section 1287 - Alien crewmen brought into the United States with intent 
 usc_title: 8
 usc_section: "1287"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "8 U.S.C. § 1287"
-generated_at: "2026-03-30T09:39:48.482Z"
+generated_at: "2026-03-30T09:44:07.872Z"
 status: "active"
 ---
 

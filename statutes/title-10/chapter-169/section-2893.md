@@ -3,9 +3,9 @@ title: "Section 2893 - Treatment of incentive fees for landlords of housing unit
 usc_title: 10
 usc_section: "2893"
 chapter: 169
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2893"
-generated_at: "2026-03-30T09:39:54.651Z"
+generated_at: "2026-03-30T09:44:06.826Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1504 - “Federal Register”; printing; contents; distribution;
 usc_title: 44
 usc_section: "1504"
 chapter: 15
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "44 U.S.C. § 1504"
-generated_at: "2026-03-30T09:41:19.674Z"
+generated_at: "2026-03-30T09:45:13.836Z"
 status: "active"
 ---
 

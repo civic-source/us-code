@@ -3,9 +3,9 @@ title: "Section 2892 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(b)(
 usc_title: 10
 usc_section: "2892"
 chapter: 171
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2892"
-generated_at: "2026-03-30T09:39:54.651Z"
+generated_at: "2026-03-30T09:44:06.826Z"
 status: "repealed"
 ---
 

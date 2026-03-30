@@ -3,9 +3,9 @@ title: "Section 5203 - Entry and examination of premises"
 usc_title: 26
 usc_section: "5203"
 chapter: 51
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 5203"
-generated_at: "2026-03-30T09:41:03.205Z"
+generated_at: "2026-03-30T09:44:54.302Z"
 status: "active"
 ---
 

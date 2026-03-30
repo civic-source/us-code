@@ -3,9 +3,9 @@ title: "Section 2716 - Personal notice"
 usc_title: 28
 usc_section: "2716"
 chapter: 173
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "28 U.S.C. § 2716"
-generated_at: "2026-03-30T09:40:41.381Z"
+generated_at: "2026-03-30T09:44:47.114Z"
 status: "active"
 ---
 

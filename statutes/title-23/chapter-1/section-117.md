@@ -3,9 +3,9 @@ title: "Section 117 - Nationally significant freight and highway projects"
 usc_title: 23
 usc_section: "117"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "23 U.S.C. § 117"
-generated_at: "2026-03-30T09:40:37.171Z"
+generated_at: "2026-03-30T09:44:39.952Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
         - **(I)** located in 1 State, 30 percent of the amount apportioned under this chapter to the State in the most recently completed fiscal year; or
         - **(II)** located in more than 1 State, 50 percent of the amount apportioned under this chapter to the participating State with the largest apportionment under this chapter in the most recently completed fiscal year.
   - **(2)**
-    - **(A)** Not more than $500,000,000 of the amounts made available for grants under this section for fiscal years 2016 through 2020, in the aggregate, may be used to make grants for projects described in paragraph (1)(A)(iii) and such a project may only receive a grant under this section if—
+    - **(A)** Not more than $600,000,000 of the amounts made available for grants under this section for fiscal years 2016 through 2021, in the aggregate, may be used to make grants for projects described in paragraph (1)(A)(iii) and such a project may only receive a grant under this section if—
       - **(i)** the project will make a significant improvement to freight movements on the National Highway Freight Network; and
       - **(ii)** the Federal share of the project funds only elements of the project that provide public benefits.
     - **(B)** The limitation under subparagraph (A)—

@@ -3,9 +3,9 @@ title: "Section 1704 - Service acquisition executives: authorities and responsib
 usc_title: 10
 usc_section: "1704"
 chapter: 87
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 1704"
-generated_at: "2026-03-30T09:39:54.602Z"
+generated_at: "2026-03-30T09:44:06.780Z"
 status: "active"
 ---
 

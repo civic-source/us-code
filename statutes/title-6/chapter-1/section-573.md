@@ -3,9 +3,9 @@ title: "Section 573 - Assessments and reports"
 usc_title: 6
 usc_section: "573"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "6 U.S.C. § 573"
-generated_at: "2026-03-30T09:39:49.620Z"
+generated_at: "2026-03-30T09:44:13.932Z"
 status: "active"
 ---
 
@@ -31,4 +31,4 @@ status: "active"
     - **(A)** natural disasters, acts of terrorism, or other man-made disasters, including Incidents of National Significance declared by the Secretary under the National Response Plan; and
     - **(B)** a catastrophic loss of local and regional communications services;
   - **(4)** a list of best practices relating to the ability to continue to communicate and to provide and maintain interoperable emergency communications in the event of natural disasters, acts of terrorism, or other man-made disasters; and
-    - **(A)** 1 1 So in original. Probably should be “(5)”. an evaluation of the feasibility and desirability of the Department developing, on its own or in conjunction with the Department of Defense, a mobile communications capability, modeled on the Army Signal Corps, that could be deployed to support emergency communications at the site of natural disasters, acts of terrorism, or other man-made disasters.
+  - **(A)** 1 1 So in original. Probably should be “(5)”. an evaluation of the feasibility and desirability of the Department developing, on its own or in conjunction with the Department of Defense, a mobile communications capability, modeled on the Army Signal Corps, that could be deployed to support emergency communications at the site of natural disasters, acts of terrorism, or other man-made disasters.

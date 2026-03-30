@@ -3,9 +3,9 @@ title: "Section 2001 - Definitions relating to the system"
 usc_title: 50
 usc_section: "2001"
 chapter: 38
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "50 U.S.C. § 2001"
-generated_at: "2026-03-30T09:42:11.074Z"
+generated_at: "2026-03-30T09:45:34.846Z"
 status: "active"
 ---
 

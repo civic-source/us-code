@@ -3,9 +3,9 @@ title: "Section 1111 - Notice of registration; display with mark; recovery of pr
 usc_title: 15
 usc_section: "1111"
 chapter: 22
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "15 U.S.C. § 1111"
-generated_at: "2026-03-30T09:40:12.805Z"
+generated_at: "2026-03-30T09:44:20.513Z"
 status: "active"
 ---
 

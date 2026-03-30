@@ -3,9 +3,9 @@ title: "Section 2303 - Repealed. Pub. L. 104–164, title I, § 104(b)(2)(A) , J
 usc_title: 22
 usc_section: "2303"
 chapter: 32
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 2303"
-generated_at: "2026-03-30T09:40:36.508Z"
+generated_at: "2026-03-30T09:44:42.776Z"
 status: "repealed"
 ---
 

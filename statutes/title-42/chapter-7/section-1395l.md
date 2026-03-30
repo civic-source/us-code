@@ -3,9 +3,9 @@ title: "Section 1395l - Payment of benefits"
 usc_title: 42
 usc_section: "1395l"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 1395l"
-generated_at: "2026-03-30T09:41:59.541Z"
+generated_at: "2026-03-30T09:45:29.710Z"
 status: "active"
 ---
 
@@ -226,7 +226,7 @@ status: "active"
     - **(A)** For purposes of paragraph (2)(D)(iv), the Secretary may provide, in the case of an ambulatory surgical center that does not submit, to the Secretary in accordance with this paragraph, data required to be submitted on measures selected under this paragraph with respect to a year, any annual increase provided under the system established under paragraph (2)(D) for such year shall be reduced by 2.0 percentage points. A reduction under this subparagraph shall apply only with respect to the year involved and the Secretary shall not take into account such reduction in computing any annual increase factor for a subsequent year.
     - **(B)** Except as the Secretary may otherwise provide, the provisions of subparagraphs (B), (C), (D), and (E) of paragraph (17) of subsection (t) shall apply with respect to services of ambulatory surgical centers under this paragraph in a similar manner to the manner in which they apply under such paragraph and, for purposes of this subparagraph, any reference to a hospital, outpatient setting, or outpatient hospital services is deemed a reference to an ambulatory surgical center, the setting of such a center, or services of such a center, respectively.
   - **(8)** The Secretary shall conduct a similar type of review as required under paragraph (22) of section 1395 l (t) of this title), 11 11 So in original. The closing parenthesis preceding the comma probably should not appear. including the second sentence of subparagraph (C) of such paragraph, to payment for services under this subsection, and make such revisions under this paragraph, in an appropriate manner (as determined by the Secretary).
-- **(j)** Whenever a final determination is made that the amount of payment made under this part either to a provider of services or to another person pursuant to an assignment under section 1395u(b)(3)(B)(ii) of this title was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
+- **(j)** Whenever a final determination is made that the amount of payment made under this part either to a provider of services or to another person pursuant to an assignment under section 1395u(b)(3)(B)(ii) of this title was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments (or, in the case of such a determination made with respect to a payment made on or after March 27, 2020 , and during the emergency period described in section 1320b–5(g)(1)(B) of this title under the program described in section 421.214 of title 42, Code of Federal Regulations (or any successor regulation), at a rate of 4 percent).
 - **(k)** With respect to services described in section 1395x(s)(10)(B) of this title , the Secretary may provide, instead of the amount of payment otherwise provided under this part, for payment of such an amount or amounts as reasonably reflects the general cost of efficiently providing such services.
 - **(l)**
   - **(1)**

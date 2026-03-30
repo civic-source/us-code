@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 21
 usc_section: "1701"
 chapter: 22
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "21 U.S.C. § 1701"
-generated_at: "2026-03-30T09:40:34.620Z"
+generated_at: "2026-03-30T09:44:44.163Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ In this chapter:
   - **(8)** The terms “illicit drug use”, “illicit drugs”, and “illegal drugs” include the illegal or illicit use of prescription drugs.
   - **(9)** The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or Tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
   - **(10)** The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal 1 1 So in original. Probably should be “Tribal”. affairs.
-  - **(11)** The term “National Drug Control Program agency” 2 2 See References in Text note below. means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+  - **(11)** The term “National Drug Control Program agency” means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
   - **(12)** The term “National Drug Control Strategy” or “Strategy” means the strategy developed and submitted to Congress under section 1705 of this title , including any report, plan, or strategy required to be incorporated into or issued concurrently with such strategy.
   - **(13)** The term “nonprofit organization” means an organization that is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title.
   - **(14)** The term “Office” means the Office of National Drug Control Policy established under section 1702(a) of this title .

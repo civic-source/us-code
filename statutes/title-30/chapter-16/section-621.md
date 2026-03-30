@@ -3,9 +3,9 @@ title: "Section 621 - Entry to lands reserved for power development"
 usc_title: 30
 usc_section: "621"
 chapter: 16
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "30 U.S.C. § 621"
-generated_at: "2026-03-30T09:40:44.667Z"
+generated_at: "2026-03-30T09:44:47.725Z"
 status: "active"
 ---
 

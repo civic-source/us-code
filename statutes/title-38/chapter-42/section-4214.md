@@ -3,9 +3,9 @@ title: "Section 4214 - Employment within the Federal Government"
 usc_title: 38
 usc_section: "4214"
 chapter: 42
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 4214"
-generated_at: "2026-03-30T09:41:11.805Z"
+generated_at: "2026-03-30T09:45:09.456Z"
 status: "active"
 ---
 

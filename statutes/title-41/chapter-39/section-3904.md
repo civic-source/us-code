@@ -3,9 +3,9 @@ title: "Section 3904 - Contract authority for severable services contracts and m
 usc_title: 41
 usc_section: "3904"
 chapter: 39
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "41 U.S.C. § 3904"
-generated_at: "2026-03-30T09:41:20.193Z"
+generated_at: "2026-03-30T09:45:11.308Z"
 status: "active"
 ---
 

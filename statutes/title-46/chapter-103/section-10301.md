@@ -3,9 +3,9 @@ title: "Section 10301 - Application"
 usc_title: 46
 usc_section: "10301"
 chapter: 103
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "46 U.S.C. § 10301"
-generated_at: "2026-03-30T09:42:18.594Z"
+generated_at: "2026-03-30T09:45:33.368Z"
 status: "active"
 ---
 

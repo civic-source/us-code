@@ -3,9 +3,9 @@ title: "Section 12903 - General authority"
 usc_title: 42
 usc_section: "12903"
 chapter: 131
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 12903"
-generated_at: "2026-03-30T09:41:59.950Z"
+generated_at: "2026-03-30T09:45:30.110Z"
 status: "active"
 ---
 
@@ -16,8 +16,13 @@ status: "active"
 - **(c)**
   - **(1)**
     - **(A)** The Secretary shall allocate 90 percent of the amount approved in appropriations Acts under section 12912 of this title among States and metropolitan statistical areas as follows:
-        - **(I)** 1 1 So in original. Probably should be “(i)”. 75 percent of such amounts among—
-- **(ii)** 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).
+      - **(I)** 1 1 So in original. Probably should be “(i)”. 75 percent of such amounts among—
+        - **(I)** cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
+        - **(II)** States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
+      - **(ii)** 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).
+    - **(B)** For purposes of allocating amounts under this paragraph for any fiscal year, the number of individuals living with HIV or AIDS shall be the number of such individuals as confirmed by the Director of the Centers for Disease Control and Prevention, as of December 31 of the most recent calendar year for which such data is available.
+    - **(C)** For purposes of allocating amounts under subparagraph (A)(ii), the Secretary shall develop a method that accounts for—
+        - **(I)** 1 differences in housing costs among States and metropolitan statistical areas based on the fair market rental established pursuant to section 1437f(c) of this title or another methodology established by the Secretary through regulation; and
 - **(ii)** differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation.
 - **(ii)** approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of this title ; 2 2 See References in Text note below. and
 - **(iii)** the requirements of subparagraph (C).

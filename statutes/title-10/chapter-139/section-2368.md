@@ -3,9 +3,9 @@ title: "Section 2368 - Centers for Science, Technology, and Engineering Partners
 usc_title: 10
 usc_section: "2368"
 chapter: 139
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2368"
-generated_at: "2026-03-30T09:39:54.625Z"
+generated_at: "2026-03-30T09:44:06.802Z"
 status: "active"
 ---
 

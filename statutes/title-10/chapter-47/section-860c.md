@@ -3,9 +3,9 @@ title: "Section 860c - Art. 60c. Entry of judgment"
 usc_title: 10
 usc_section: "860c"
 chapter: 47
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 860c"
-generated_at: "2026-03-30T09:39:54.567Z"
+generated_at: "2026-03-30T09:44:06.745Z"
 status: "active"
 ---
 

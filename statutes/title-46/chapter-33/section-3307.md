@@ -3,9 +3,9 @@ title: "Section 3307 - Frequency of inspection"
 usc_title: 46
 usc_section: "3307"
 chapter: 33
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "46 U.S.C. § 3307"
-generated_at: "2026-03-30T09:42:18.586Z"
+generated_at: "2026-03-30T09:45:33.360Z"
 status: "active"
 ---
 

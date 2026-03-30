@@ -3,9 +3,9 @@ title: "Section 1554b - Confidential review of characterization of terms of disc
 usc_title: 10
 usc_section: "1554b"
 chapter: 79
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 1554b"
-generated_at: "2026-03-30T09:39:54.598Z"
+generated_at: "2026-03-30T09:44:06.776Z"
 status: "active"
 ---
 

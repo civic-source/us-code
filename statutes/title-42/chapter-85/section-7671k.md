@@ -3,9 +3,9 @@ title: "Section 7671k - Safe alternatives policy"
 usc_title: 42
 usc_section: "7671k"
 chapter: 85
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 7671k"
-generated_at: "2026-03-30T09:41:59.859Z"
+generated_at: "2026-03-30T09:45:30.020Z"
 status: "active"
 ---
 

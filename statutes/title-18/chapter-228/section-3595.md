@@ -3,9 +3,9 @@ title: "Section 3595 - Review of a sentence of death"
 usc_title: 18
 usc_section: "3595"
 chapter: 228
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 3595"
-generated_at: "2026-03-30T09:40:16.659Z"
+generated_at: "2026-03-30T09:44:28.215Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1524 - Rules and regulations"
 usc_title: 25
 usc_section: "1524"
 chapter: 17
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "25 U.S.C. § 1524"
-generated_at: "2026-03-30T09:40:32.470Z"
+generated_at: "2026-03-30T09:44:38.285Z"
 status: "active"
 ---
 

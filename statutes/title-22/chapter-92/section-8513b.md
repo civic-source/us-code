@@ -3,9 +3,9 @@ title: "Section 8513b - Expansion of, and reports on, mandatory sanctions with r
 usc_title: 22
 usc_section: "8513b"
 chapter: 92
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 8513b"
-generated_at: "2026-03-30T09:40:36.594Z"
+generated_at: "2026-03-30T09:44:42.862Z"
 status: "active"
 ---
 

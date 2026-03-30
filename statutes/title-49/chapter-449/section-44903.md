@@ -3,9 +3,9 @@ title: "Section 44903 - Air transportation security"
 usc_title: 49
 usc_section: "44903"
 chapter: 449
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "49 U.S.C. § 44903"
-generated_at: "2026-03-30T09:42:07.342Z"
+generated_at: "2026-03-30T09:45:37.266Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
   - **(2)** In determining where to deploy such personnel, the Administrator shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
   - **(3)** The Secretary of Homeland Security may enter into a memorandum of understanding or other agreement with the Attorney General or the head of any other appropriate Federal law enforcement agency to deploy Federal law enforcement personnel at an airport in order to meet aviation safety and security concerns.
   - **(4)** The Administrator—
-    - **(A)** shall require screening or inspection of all individuals, goods, property, vehicles, and other equipment before entry into a secured area of an airport in the United States described in section 44903(c);
+    - **(A)** shall require screening or inspection of all individuals, goods, property, vehicles, and other equipment before entry into a secured area of an airport in the United States described in section 44903(c); 1 1 So in original. Probably should be “subsection (c)”.
     - **(B)** shall prescribe specific requirements for such screening and inspection that will assure at least the same level of protection as will result from screening of passengers and their baggage;
     - **(C)** shall establish procedures to ensure the safety and integrity of—
       - **(i)** all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in subsection (c);
@@ -132,7 +132,7 @@ status: "active"
       - **(ii)** being granted unescorted access to the secure area of an airport; or
       - **(iii)** being granted unescorted access to the air operations area (as defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section) of an airport.
     - **(E)**
-      - **(i)** The Administrator Administrator 1 1 So in original. shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
+      - **(i)** The Administrator Administrator 2 2 So in original. shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
         - **(I)** request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
         - **(II)** refuse to charter or lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to or transport aboard such aircraft any persons identified on such watch list.
       - **(ii)** The requirements of subparagraph (C)(iii) shall apply to this subparagraph.

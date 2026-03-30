@@ -3,9 +3,9 @@ title: "Section 515 - Reports to Congress"
 usc_title: 50
 usc_section: "515"
 chapter: 20
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "50 U.S.C. § 515"
-generated_at: "2026-03-30T09:42:11.063Z"
+generated_at: "2026-03-30T09:45:34.833Z"
 status: "active"
 ---
 

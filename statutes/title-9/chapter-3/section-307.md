@@ -3,9 +3,9 @@ title: "Section 307 - Chapter 1; residual application"
 usc_title: 9
 usc_section: "307"
 chapter: 3
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "9 U.S.C. § 307"
-generated_at: "2026-03-30T09:39:47.592Z"
+generated_at: "2026-03-30T09:43:59.096Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 278s - Manufacturing USA"
 usc_title: 15
 usc_section: "278s"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "15 U.S.C. § 278s"
-generated_at: "2026-03-30T09:40:12.766Z"
+generated_at: "2026-03-30T09:44:20.473Z"
 status: "active"
 ---
 
@@ -189,7 +189,7 @@ status: "active"
     - **(G)** at the National Aeronautics and Space Administration relating to procurement, workforce development, education, training, and retraining;
     - **(H)** at the Department of Energy relating to development of clean energy technologies and other authorities of the Department of Energy;
     - **(I)** at the Department of Agriculture relating to outreach to rural communities;
-    - **(J)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and 2 2 So in original.
+    - **(J)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and 2 2 So in original. Subpars. (J) and (K) are identical and the words “additional programs” do not follow from introductory provisions.
     - **(K)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes. 2
 - **(k)** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
 - **(l)** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.

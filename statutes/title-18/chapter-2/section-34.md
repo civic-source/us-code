@@ -3,9 +3,9 @@ title: "Section 34 - Penalty when death results"
 usc_title: 18
 usc_section: "34"
 chapter: 2
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 34"
-generated_at: "2026-03-30T09:40:16.611Z"
+generated_at: "2026-03-30T09:44:28.164Z"
 status: "active"
 ---
 

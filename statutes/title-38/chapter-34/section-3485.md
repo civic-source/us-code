@@ -3,9 +3,9 @@ title: "Section 3485 - Work-study allowance 1 1 See Payment of Work-Study Allowa
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-30T09:41:11.796Z"
+generated_at: "2026-03-30T09:45:09.447Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** the number of hours worked during the applicable period.
   - **(3)** An agreement described in this paragraph is an agreement of an individual to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with a qualifying work-study activity.
   - **(4)**
-    - **(A)** 2 2 See Application of 2020 Amendment note below. With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
+    - **(A)** 2 2 See Applicability of 2020 Amendment note below. With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
     - **(B)** With respect to a participating educational institution that participated in the work-study program under this section during the academic year beginning August 1, 2018 , the Secretary shall determine the annual amount to provide to the educational institution under subparagraph (A) as follows:
       - **(i)** For the academic year beginning August 1, 2020 , the amount shall be the total amount, determined in consultation with the educational institution, that the Secretary paid under this section for covered work-study activities to individuals enrolled at such educational institution during the academic year beginning August 1, 2018 .
       - **(ii)** Except as provided by clauses (ii) or (iii) of subparagraph (D), for each academic year beginning on or after August 1, 2021 , the amount shall be the total amount the educational institution paid under this section for work-study allowance for covered work-study activities to individuals enrolled at such educational institution during the previous academic year in which individuals participated in the work-study program.

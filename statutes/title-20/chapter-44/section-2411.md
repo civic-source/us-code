@@ -3,9 +3,9 @@ title: "Section 2411 - Joint funding"
 usc_title: 20
 usc_section: "2411"
 chapter: 44
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 2411"
-generated_at: "2026-03-30T09:40:21.641Z"
+generated_at: "2026-03-30T09:44:31.873Z"
 status: "active"
 ---
 

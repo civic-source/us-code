@@ -3,9 +3,9 @@ title: "Section 747b - Lighthouse keepers; traveling expenses incurred in obtain
 usc_title: 33
 usc_section: "747b"
 chapter: 16
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "33 U.S.C. § 747b"
-generated_at: "2026-03-30T09:41:07.656Z"
+generated_at: "2026-03-30T09:44:58.185Z"
 status: "active"
 ---
 

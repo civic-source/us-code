@@ -3,9 +3,9 @@ title: "Section 3405 - Administrative subpena and summons"
 usc_title: 12
 usc_section: "3405"
 chapter: 35
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "12 U.S.C. § 3405"
-generated_at: "2026-03-30T09:40:04.370Z"
+generated_at: "2026-03-30T09:44:23.787Z"
 status: "active"
 ---
 

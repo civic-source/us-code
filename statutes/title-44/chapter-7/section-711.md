@@ -3,9 +3,9 @@ title: "Section 711 - Printing Acts, joint resolutions, and treaties"
 usc_title: 44
 usc_section: "711"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "44 U.S.C. § 711"
-generated_at: "2026-03-30T09:41:19.672Z"
+generated_at: "2026-03-30T09:45:13.834Z"
 status: "active"
 ---
 

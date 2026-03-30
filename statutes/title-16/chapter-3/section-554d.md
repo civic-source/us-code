@@ -3,9 +3,9 @@ title: "Section 554d - Recreation facilities for employees of Forest Service and
 usc_title: 16
 usc_section: "554d"
 chapter: 3
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 554d"
-generated_at: "2026-03-30T09:40:28.716Z"
+generated_at: "2026-03-30T09:44:35.157Z"
 status: "active"
 ---
 

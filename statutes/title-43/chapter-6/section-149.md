@@ -3,9 +3,9 @@ title: "Section 149 - Exchange of private lands included in Indian reservation f
 usc_title: 43
 usc_section: "149"
 chapter: 6
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 149"
-generated_at: "2026-03-30T09:41:20.967Z"
+generated_at: "2026-03-30T09:45:12.020Z"
 status: "active"
 ---
 

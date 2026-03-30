@@ -3,9 +3,9 @@ title: "Section 15 - Leases for 1980 decennial census"
 usc_title: 13
 usc_section: "15"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "13 U.S.C. § 15"
-generated_at: "2026-03-30T09:40:00.077Z"
+generated_at: "2026-03-30T09:44:16.658Z"
 status: "active"
 ---
 

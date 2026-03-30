@@ -3,9 +3,9 @@ title: "Section 9325 - Computation of years of service: voluntary retirement; en
 usc_title: 10
 usc_section: "9325"
 chapter: 941
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 9325"
-generated_at: "2026-03-30T09:39:54.673Z"
+generated_at: "2026-03-30T09:44:06.848Z"
 status: "active"
 ---
 

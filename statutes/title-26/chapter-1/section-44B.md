@@ -3,9 +3,9 @@ title: "Section 44B - Repealed. Pub. L. 98–369, div. A, title IV, § 474(m)(1)
 usc_title: 26
 usc_section: "44B"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 44B"
-generated_at: "2026-03-30T09:41:03.029Z"
+generated_at: "2026-03-30T09:44:54.125Z"
 status: "repealed"
 ---
 

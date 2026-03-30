@@ -3,9 +3,9 @@ title: "Section 18043 - Funding for the territories"
 usc_title: 42
 usc_section: "18043"
 chapter: 157
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 18043"
-generated_at: "2026-03-30T09:42:00.004Z"
+generated_at: "2026-03-30T09:45:30.163Z"
 status: "active"
 ---
 

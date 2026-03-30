@@ -3,9 +3,9 @@ title: "Section 2429a - Repealed. Pub. L. 103–236, title VIII, § 826(b) , Apr
 usc_title: 22
 usc_section: "2429a"
 chapter: 32
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 2429a"
-generated_at: "2026-03-30T09:40:36.517Z"
+generated_at: "2026-03-30T09:44:42.785Z"
 status: "repealed"
 ---
 

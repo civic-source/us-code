@@ -3,9 +3,9 @@ title: "Section 402 - Leases of surplus lands"
 usc_title: 25
 usc_section: "402"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "25 U.S.C. § 402"
-generated_at: "2026-03-30T09:40:32.461Z"
+generated_at: "2026-03-30T09:44:38.277Z"
 status: "active"
 ---
 

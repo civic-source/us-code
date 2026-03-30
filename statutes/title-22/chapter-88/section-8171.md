@@ -3,9 +3,9 @@ title: "Section 8171 - Report on initial United States declaration"
 usc_title: 22
 usc_section: "8171"
 chapter: 88
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 8171"
-generated_at: "2026-03-30T09:40:36.590Z"
+generated_at: "2026-03-30T09:44:42.859Z"
 status: "active"
 ---
 

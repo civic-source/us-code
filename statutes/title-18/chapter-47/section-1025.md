@@ -3,9 +3,9 @@ title: "Section 1025 - False pretenses on high seas and other waters"
 usc_title: 18
 usc_section: "1025"
 chapter: 47
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 1025"
-generated_at: "2026-03-30T09:40:16.627Z"
+generated_at: "2026-03-30T09:44:28.182Z"
 status: "active"
 ---
 

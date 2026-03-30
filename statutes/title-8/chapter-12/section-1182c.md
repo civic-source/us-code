@@ -3,9 +3,9 @@ title: "Section 1182c - Repealed. Pub. L. 87–301, § 24(a)(1) , (3), Sept. 26,
 usc_title: 8
 usc_section: "1182c"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "8 U.S.C. § 1182c"
-generated_at: "2026-03-30T09:39:48.469Z"
+generated_at: "2026-03-30T09:44:07.860Z"
 status: "repealed"
 ---
 

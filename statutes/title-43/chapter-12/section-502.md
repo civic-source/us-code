@@ -3,9 +3,9 @@ title: "Section 502 - Emergency fund to assure continuous operation of projects 
 usc_title: 43
 usc_section: "502"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 502"
-generated_at: "2026-03-30T09:41:20.980Z"
+generated_at: "2026-03-30T09:45:12.033Z"
 status: "active"
 ---
 

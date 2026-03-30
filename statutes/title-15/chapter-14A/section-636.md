@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T09:40:12.772Z"
+generated_at: "2026-03-30T09:44:20.480Z"
 status: "active"
 ---
 
@@ -66,7 +66,7 @@ status: "active"
   - **(11)** The Administration may provide loans under this subsection to any small business concern, or to any qualified person seeking to establish such a concern when it determines that such loan will further the policies established in section 631(c) 2 2 See References in Text note below. of this title, with particular emphasis on the preservation or establishment of small business concerns located in urban or rural areas with high proportions of unemployed or low-income individuals or owned by low-income individuals.
   - **(12)**
     - **(A)** The Administration may provide loans under this subsection to assist any small business concern, including start up, to enable such concern to design architecturally or engineer, manufacture, distribute, market, install, or service energy measures: Provided, however , That such loan proceeds shall not be used primarily for research and development.
-- **(b)** 3 3 So in original. Probably should be “(B)”. The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 [ 15 U.S.C. 694–1 ]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
+    - **(b)** 3 3 So in original. Probably should be “(B)”. The Administration may provide deferred participation loans under this subsection to finance the planning, design, or installation of pollution control facilities for the purposes set forth in section 404 of the Small Business Investment Act of 1958 [ 15 U.S.C. 694–1 ]. Notwithstanding the limitation expressed in paragraph (3) of this subsection, a loan made under this paragraph may not result in a total amount outstanding and committed to a borrower from the business loan and investment fund of more than $1,000,000.
   - **(13)** The Administration may provide fi­nancings under this subsection to State and local development companies for the purposes of, and subject to the restrictions in, title V of the Small Business Investment Act of 1958 [ 15 U.S.C. 695 et seq.].
   - **(14)**
     - **(A)** The Administrator may provide extensions of credit, standby letters of credit, revolving lines of credit for export purposes, and other financing to enable small business concerns, including small business export trading companies and small business export management companies, to develop foreign markets. A bank or participating lending institution may establish the rate of interest on such financings as may be legal and reasonable.

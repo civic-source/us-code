@@ -3,9 +3,9 @@ title: "Section 3058k - Repealed. Pub. L. 106–501, title VII, § 706 , Nov. 13
 usc_title: 42
 usc_section: "3058k"
 chapter: 35
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 3058k"
-generated_at: "2026-03-30T09:41:59.735Z"
+generated_at: "2026-03-30T09:45:29.899Z"
 status: "repealed"
 ---
 

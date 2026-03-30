@@ -3,9 +3,9 @@ title: "Section 7142b - Authority"
 usc_title: 42
 usc_section: "7142b"
 chapter: 84
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 7142b"
-generated_at: "2026-03-30T09:41:59.821Z"
+generated_at: "2026-03-30T09:45:29.983Z"
 status: "active"
 ---
 

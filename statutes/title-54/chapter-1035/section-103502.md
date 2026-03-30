@@ -3,9 +3,9 @@ title: "Section 103502 - Signature projects and programs"
 usc_title: 54
 usc_section: "103502"
 chapter: 1035
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "54 U.S.C. § 103502"
-generated_at: "2026-03-30T09:42:20.873Z"
+generated_at: "2026-03-30T09:45:39.347Z"
 status: "active"
 ---
 

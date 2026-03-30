@@ -3,9 +3,9 @@ title: "Section 1656 - Prohibition against official or court orders to achieve r
 usc_title: 20
 usc_section: "1656"
 chapter: 37
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 1656"
-generated_at: "2026-03-30T09:40:21.635Z"
+generated_at: "2026-03-30T09:44:31.866Z"
 status: "active"
 ---
 

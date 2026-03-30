@@ -3,9 +3,9 @@ title: "Section 681 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21
 usc_title: 33
 usc_section: "681"
 chapter: 14
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "33 U.S.C. § 681"
-generated_at: "2026-03-30T09:41:07.651Z"
+generated_at: "2026-03-30T09:44:58.181Z"
 status: "repealed"
 ---
 

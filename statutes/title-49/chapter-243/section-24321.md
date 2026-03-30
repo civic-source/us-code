@@ -3,9 +3,9 @@ title: "Section 24321 - Food and beverage reform"
 usc_title: 49
 usc_section: "24321"
 chapter: 243
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "49 U.S.C. § 24321"
-generated_at: "2026-03-30T09:42:07.308Z"
+generated_at: "2026-03-30T09:45:37.229Z"
 status: "active"
 ---
 
@@ -22,5 +22,4 @@ status: "active"
 - **(c)** Amtrak shall ensure that no Amtrak employee holding a position as of the date of enactment of the Passenger Rail Reform and Investment Act of 2015 is involuntarily separated because of—
   - **(1)** the development and implementation of the plan required under subsection (a); or
   - **(2)** any other action taken by Amtrak to implement this section.
-- **(d)** Beginning on the date that is 5 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, no Federal funds may be used to cover any operating loss associated with providing food and beverage service on a route operated by Amtrak or a rail carrier that operates a route in lieu of Amtrak pursuant to section 24711.
-- **(e)** Not later than 120 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, and annually thereafter for 5 years, Amtrak shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the plan developed pursuant to subsection (a) and a description of progress in the implementation of the plan.
+- **(d)** Not later than 120 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, and annually thereafter for 5 years, Amtrak shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the plan developed pursuant to subsection (a) and a description of progress in the implementation of the plan.

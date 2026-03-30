@@ -3,9 +3,9 @@ title: "Section 1052 - State or local regulation"
 usc_title: 21
 usc_section: "1052"
 chapter: 15
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "21 U.S.C. § 1052"
-generated_at: "2026-03-30T09:40:34.618Z"
+generated_at: "2026-03-30T09:44:44.161Z"
 status: "active"
 ---
 

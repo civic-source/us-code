@@ -3,9 +3,9 @@ title: "Section 3320 - Edith Nourse Rogers STEM Scholarship"
 usc_title: 38
 usc_section: "3320"
 chapter: 33
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 3320"
-generated_at: "2026-03-30T09:41:11.794Z"
+generated_at: "2026-03-30T09:45:09.446Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(B)** is an individual who has earned a post-secondary degree in a field referred to in subparagraph (A)(i) and is enrolled in a program of education leading to a teaching certification.
 - **(c)** In selecting eligible individuals to receive additional benefits under this section, the Secretary shall give priority to the following individuals:
   - **(1)** Individuals who require the most credit hours described in subsection (b)(4).
-  - **(2)** Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) of section 3311(b) of this title .
+  - **(2)** Individuals who are entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) 1 1 See References in Text note below. of section 3311(b) of this title .
 - **(d)**
   - **(1)** The Secretary shall pay to each eligible individual who receives additional benefits under this section the monthly amount payable under section 3313 of this title for not more than 9 months of the program of education in which the individual is enrolled (adjusted with respect to the individual pursuant to section 3313(c), as appropriate), except that the aggregate amount paid to an individual under this section may not exceed $30,000.
   - **(2)** The Secretary may not pay to such an individual an amount in addition to the amount payable under paragraph (1) by reason of section 3317 of this title .

@@ -3,9 +3,9 @@ title: "Section 1395w - Appropriations to cover Government contributions and con
 usc_title: 42
 usc_section: "1395w"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 1395w"
-generated_at: "2026-03-30T09:41:59.554Z"
+generated_at: "2026-03-30T09:45:29.723Z"
 status: "active"
 ---
 
@@ -30,3 +30,15 @@ status: "active"
     - **(B)** enrollees under age 65.
   - **(2)** Premium increases affected under section 1395r(a)(6) of this title shall not be taken into account in applying subsection (a).
   - **(3)** There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the additional premiums payable as a result of the application of section 1395r(a)(6) of this title , excluding the aggregate payments attributable to the application of section 1395r(i)(3)(A)(ii)(II) of this title .
+- **(e)**
+  - **(1)** For 2021, there shall be transferred from the General Fund to the Trust Fund an amount, as estimated by the Chief Actuary of the Centers for Medicare & Medicaid Services, equal to the reduction in aggregate premiums payable under this part for a month in such year (excluding any changes in amounts collected under section 1395r(i) of this title ) that are attributable to the application of section 1395r(a)(7) of this title with respect to—
+    - **(A)** enrollees age 65 and over; and
+    - **(B)** enrollees under age 65.
+  - **(2)** Premium increases affected under section 1395r(a)(6) of this title shall not be taken into account in applying subsection (a).
+  - **(3)** There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the additional premiums payable as a result of the application of section 1395r(a)(6) of this title , excluding the aggregate payments attributable to the application of section 1395r(i)(3)(A)(ii)(II) of this title .
+- **(f)**
+  - **(1)** There shall be transferred from the General Fund of the Treasury to the Trust Fund an amount, as estimated by the Chief Actuary of the Centers for Medicare & Medicaid Services, equal to amounts paid in advance for items and services under this part during the period beginning on the first day of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on October 1, 2020 .
+  - **(2)** There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the sum of—
+    - **(A)** the amounts by which claims have offset (in whole or in part) the amount of such payments described in paragraph (1); and
+    - **(B)** the amount of such payments that have been repaid (in whole or in part).
+  - **(3)** Amounts described in paragraphs (1) and (2) shall be transferred from time to time as appropriate.

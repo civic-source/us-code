@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T09:41:59.617Z"
+generated_at: "2026-03-30T09:45:29.785Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ For purposes of this subchapter—
   - **(26)** services furnished under a PACE program under section 1396u–4 of this title to PACE program eligible individuals enrolled under the program under such section;
   - **(27)** subject to subsection (x), primary and secondary medical strategies and treatment and services for individuals who have Sickle Cell Disease;
   - **(28)** freestanding birth center services (as defined in subsection ( l )(3)(A)) and other ambulatory services that are offered by a freestanding birth center (as defined in subsection ( l )(3)(B)) and that are otherwise included in the plan;
-  - **(29)** subject to paragraph (2) of subsection (ee), for the period beginning October 1, 2020 , and ending September 30, 2025 , medication-assisted treatment (as defined in paragraph (1) of such subsection); and
+  - **(29)** subject to paragraphs (2) and (3) of subsection (ee), for the period beginning October 1, 2020 , and ending September 30, 2025 , medication-assisted treatment (as defined in paragraph (1) of such subsection); and
   - **(30)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
     - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution); or
     - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
@@ -311,6 +311,9 @@ For purposes of this subchapter—
     - **(A)** means all drugs approved under section 355 of title 21 , including methadone, and all biological products licensed under section 262 of this title to treat opioid use disorders; and
     - **(B)** includes, with respect to the provision of such drugs and biological products, counseling services and behavioral therapy.
   - **(2)** The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title .
+  - **(3)** The requirements of section 1396r–8 of this title shall apply to any drug or biological product described in paragraph (1)(A) that is—
+    - **(A)** furnished as medical assistance in accordance with subsection (a)(29) and section 1396a(a)(10)(A) of this title ; and
+    - **(B)** a covered outpatient drug (as defined in section 1396r–8(k) of this title , except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
 - **(ff)** Notwithstanding subsection (b) or (z)(2)—
   - **(1)** for the period beginning October 1, 2019 , and ending December 20, 2019 , the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
   - **(2)** subject to section 1308(g)(7)(C) of this title , for the period beginning December 21, 2019 , and ending September 30, 2021 , the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and

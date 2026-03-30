@@ -3,9 +3,9 @@ title: "Section 2203 - Definition of executor"
 usc_title: 26
 usc_section: "2203"
 chapter: 11
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 2203"
-generated_at: "2026-03-30T09:41:03.175Z"
+generated_at: "2026-03-30T09:44:54.271Z"
 status: "active"
 ---
 

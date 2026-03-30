@@ -3,9 +3,9 @@ title: "Section 484 - Quarterly cyber operations briefings"
 usc_title: 10
 usc_section: "484"
 chapter: 23
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 484"
-generated_at: "2026-03-30T09:39:54.553Z"
+generated_at: "2026-03-30T09:44:06.732Z"
 status: "active"
 ---
 
@@ -16,4 +16,9 @@ status: "active"
   - **(1)** An update, set forth separately for each geographic and functional command, that describes the operations carried out by the command and any hostile cyber activity directed at the command.
   - **(2)** An overview of authorities and legal issues applicable to the operations, including any relevant legal limitations.
   - **(3)** An outline of any interagency activities and initiatives relating to the operations.
-  - **(4)** Any other matters the Secretary determines to be appropriate.
+  - **(4)** An overview of the readiness of the Cyber Mission Forces to perform assigned missions that—
+    - **(A)** address all of the abilities of such Forces to conduct cyberspace operations based on capability and capacity of personnel, equipment, training, and equipment condition—
+      - **(i)** using both quantitative and qualitative metrics; and
+      - **(ii)** in a way that is common to all military departments; and
+    - **(B)** is consistent with readiness reporting pursuant to section 482 of this title .
+  - **(5)** Any other matters the Secretary determines to be appropriate.

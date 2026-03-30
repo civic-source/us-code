@@ -3,9 +3,9 @@ title: "Section 1585 - Repealed. Pub. L. 103–182, title VI, § 690(b)(10) , De
 usc_title: 19
 usc_section: "1585"
 chapter: 4
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "19 U.S.C. § 1585"
-generated_at: "2026-03-30T09:40:23.012Z"
+generated_at: "2026-03-30T09:44:29.855Z"
 status: "repealed"
 ---
 

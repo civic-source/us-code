@@ -3,9 +3,9 @@ title: "Section 30506 - Powers"
 usc_title: 36
 usc_section: "30506"
 chapter: 305
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "36 U.S.C. § 30506"
-generated_at: "2026-03-30T09:41:10.307Z"
+generated_at: "2026-03-30T09:45:05.903Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4805 - Findings and issuance of orders"
 usc_title: 7
 usc_section: "4805"
 chapter: 79
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 4805"
-generated_at: "2026-03-30T09:39:57.941Z"
+generated_at: "2026-03-30T09:44:10.251Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 35 - Recovery of damages, etc., for antitrust violations from an
 usc_title: 15
 usc_section: "35"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "15 U.S.C. § 35"
-generated_at: "2026-03-30T09:40:12.717Z"
+generated_at: "2026-03-30T09:44:20.422Z"
 status: "active"
 ---
 

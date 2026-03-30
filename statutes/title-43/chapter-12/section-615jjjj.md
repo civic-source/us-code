@@ -3,9 +3,9 @@ title: "Section 615jjjj - Omitted"
 usc_title: 43
 usc_section: "615jjjj"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 615jjjj"
-generated_at: "2026-03-30T09:41:20.983Z"
+generated_at: "2026-03-30T09:45:12.036Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2705 - Delayed notice"
 usc_title: 18
 usc_section: "2705"
 chapter: 121
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "18 U.S.C. § 2705"
-generated_at: "2026-03-30T09:40:16.649Z"
+generated_at: "2026-03-30T09:44:28.204Z"
 status: "active"
 ---
 

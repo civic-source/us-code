@@ -3,9 +3,9 @@ title: "Section 1419 - Right to abandon islands"
 usc_title: 48
 usc_section: "1419"
 chapter: 8
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "48 U.S.C. § 1419"
-generated_at: "2026-03-30T09:42:03.639Z"
+generated_at: "2026-03-30T09:45:33.726Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7655a - Food safety education initiatives"
 usc_title: 7
 usc_section: "7655a"
 chapter: 103
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 7655a"
-generated_at: "2026-03-30T09:39:57.979Z"
+generated_at: "2026-03-30T09:44:10.288Z"
 status: "active"
 ---
 

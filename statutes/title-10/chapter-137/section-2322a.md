@@ -3,9 +3,9 @@ title: "Section 2322a - Requirement for consideration of certain matters during 
 usc_title: 10
 usc_section: "2322a"
 chapter: 137
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2322a"
-generated_at: "2026-03-30T09:39:54.620Z"
+generated_at: "2026-03-30T09:44:06.796Z"
 status: "active"
 ---
 

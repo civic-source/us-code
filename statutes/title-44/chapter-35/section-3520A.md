@@ -3,9 +3,9 @@ title: "Section 3520A - Chief Data Officer Council"
 usc_title: 44
 usc_section: "3520A"
 chapter: 35
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "44 U.S.C. § 3520A"
-generated_at: "2026-03-30T09:41:19.681Z"
+generated_at: "2026-03-30T09:45:13.842Z"
 status: "active"
 ---
 

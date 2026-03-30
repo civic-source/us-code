@@ -3,9 +3,9 @@ title: "Section 7813 - Radio broadcasting to North Korea"
 usc_title: 22
 usc_section: "7813"
 chapter: 85
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 7813"
-generated_at: "2026-03-30T09:40:36.587Z"
+generated_at: "2026-03-30T09:44:42.857Z"
 status: "active"
 ---
 

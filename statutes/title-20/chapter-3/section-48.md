@@ -3,9 +3,9 @@ title: "Section 48 - Salary and removal of Secretary and assistants"
 usc_title: 20
 usc_section: "48"
 chapter: 3
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 48"
-generated_at: "2026-03-30T09:40:21.557Z"
+generated_at: "2026-03-30T09:44:31.788Z"
 status: "active"
 ---
 

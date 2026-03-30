@@ -3,9 +3,9 @@ title: "Section 4302 - Regulations"
 usc_title: 46
 usc_section: "4302"
 chapter: 43
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "46 U.S.C. § 4302"
-generated_at: "2026-03-30T09:42:18.590Z"
+generated_at: "2026-03-30T09:45:33.363Z"
 status: "active"
 ---
 

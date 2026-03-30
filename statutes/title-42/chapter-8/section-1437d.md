@@ -3,9 +3,9 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-30T09:41:59.648Z"
+generated_at: "2026-03-30T09:45:29.815Z"
 status: "active"
 ---
 
@@ -156,7 +156,7 @@ status: "active"
   - **(7)** 7 7 So in original. Probably should be “(8)”. provide that any occupancy in violation of section 13661(b) of this title (relating to ineligibility of illegal drug users and alcohol abusers) or the furnishing of any false or misleading information pursuant to section 13662 of this title (relating to termination of tenancy and assistance for illegal drug users and alcohol abusers) shall be cause for termination of tenancy; 8 8 So in original. Probably should be followed by “and”.
   - **(9)** provide that it shall be cause for immediate termination of the tenancy of a public housing tenant if such tenant—
     - **(A)** is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
-  - **(2)** 9 9 So in original. Probably should be “(B)”. is violating a condition of probation or parole imposed under Federal or State law.
+    - **(2)** 9 9 So in original. Probably should be “(B)”. is violating a condition of probation or parole imposed under Federal or State law.
 - **(m)** The Secretary shall not impose any unnecessarily duplicative or burdensome reporting requirements on tenants or public housing agencies assisted under this chapter.
 - **(n)** When a public housing agency evicts an individual or family from a dwelling unit for engaging in criminal activity, including drug-related criminal activity, the public housing agency shall notify the local post office serving that dwelling unit that such individual or family is no longer residing in the dwelling unit.
 - **(o)** In providing housing in low-income housing projects, each public housing agency may coordinate with any local public agencies involved in providing for the welfare of children to make available dwelling units to—

@@ -3,9 +3,9 @@ title: "Section 905 - Exclusiveness of liability"
 usc_title: 33
 usc_section: "905"
 chapter: 18
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "33 U.S.C. § 905"
-generated_at: "2026-03-30T09:41:07.659Z"
+generated_at: "2026-03-30T09:44:58.188Z"
 status: "active"
 ---
 

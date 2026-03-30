@@ -3,9 +3,9 @@ title: "Section 194 - Treatment of reforestation expenditures"
 usc_title: 26
 usc_section: "194"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 194"
-generated_at: "2026-03-30T09:41:03.067Z"
+generated_at: "2026-03-30T09:44:54.161Z"
 status: "active"
 ---
 

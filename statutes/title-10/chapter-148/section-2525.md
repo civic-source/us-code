@@ -3,9 +3,9 @@ title: "Section 2525 - Renumbered § 2521]"
 usc_title: 10
 usc_section: "2525"
 chapter: 148
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2525"
-generated_at: "2026-03-30T09:39:54.635Z"
+generated_at: "2026-03-30T09:44:06.811Z"
 status: "renumbered"
 ---
 

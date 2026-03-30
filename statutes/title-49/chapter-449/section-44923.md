@@ -3,9 +3,9 @@ title: "Section 44923 - Airport security improvement projects"
 usc_title: 49
 usc_section: "44923"
 chapter: 449
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "49 U.S.C. § 44923"
-generated_at: "2026-03-30T09:42:07.344Z"
+generated_at: "2026-03-30T09:45:37.268Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(1)** The Administrator of the Transportation Security Administration shall issue a letter of intent to a sponsor committing to obligate from future budget authority an amount, not more than the Federal Government’s share of the project’s cost, for an airport security improvement project (including interest costs and costs of formulating the project).
   - **(2)** A letter of intent under this subsection shall establish a schedule under which the Administrator of the Transportation Security Administration will reimburse the sponsor for the Government’s share of the project’s costs, as amounts become available, if the sponsor, after the Administrator of the Transportation Security Administration issues the letter, carries out the project without receiving amounts under this section.
   - **(3)** A sponsor that has been issued a letter of intent under this subsection shall notify the Administrator of the Transportation Security Administration of the sponsor’s intent to carry out a project before the project begins.
-  - **(4)** The Administrator of the Transportation Security Administration shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
+  - **(4)** The Administrator of the Transportation Security Administration shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science 1 1 So in original. Probably should be “Science,”. and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
   - **(5)** A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31 , and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
   - **(6)** Nothing in this subsection shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
 - **(e)** The Government’s share of the cost of a project under this section shall be 90 percent for a project at a medium or large hub airport and 95 percent for a project at any other airport.

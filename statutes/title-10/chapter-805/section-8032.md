@@ -3,9 +3,9 @@ title: "Section 8032 - Office of the Chief of Naval Operations: general duties"
 usc_title: 10
 usc_section: "8032"
 chapter: 805
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 8032"
-generated_at: "2026-03-30T09:39:54.660Z"
+generated_at: "2026-03-30T09:44:06.835Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 702n - Levee rights-of-way; payment or reimbursement for"
 usc_title: 33
 usc_section: "702n"
 chapter: 15
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "33 U.S.C. § 702n"
-generated_at: "2026-03-30T09:41:07.655Z"
+generated_at: "2026-03-30T09:44:58.184Z"
 status: "active"
 ---
 

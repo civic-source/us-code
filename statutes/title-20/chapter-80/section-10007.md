@@ -3,9 +3,9 @@ title: "Section 10007 - Innovation Fund"
 usc_title: 20
 usc_section: "10007"
 chapter: 80
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 10007"
-generated_at: "2026-03-30T09:40:21.691Z"
+generated_at: "2026-03-30T09:44:31.927Z"
 status: "active"
 ---
 

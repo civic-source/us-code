@@ -3,9 +3,9 @@ title: "Section 279 - Interest on indebtedness incurred by corporation to acquir
 usc_title: 26
 usc_section: "279"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "26 U.S.C. § 279"
-generated_at: "2026-03-30T09:41:03.076Z"
+generated_at: "2026-03-30T09:44:54.169Z"
 status: "active"
 ---
 

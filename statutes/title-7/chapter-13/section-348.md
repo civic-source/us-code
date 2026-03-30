@@ -3,9 +3,9 @@ title: "Section 348 - Rules and regulations"
 usc_title: 7
 usc_section: "348"
 chapter: 13
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 348"
-generated_at: "2026-03-30T09:39:57.839Z"
+generated_at: "2026-03-30T09:44:10.156Z"
 status: "active"
 ---
 

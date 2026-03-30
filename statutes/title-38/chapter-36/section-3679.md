@@ -3,9 +3,9 @@ title: "Section 3679 - Disapproval of courses"
 usc_title: 38
 usc_section: "3679"
 chapter: 36
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 3679"
-generated_at: "2026-03-30T09:41:11.798Z"
+generated_at: "2026-03-30T09:45:09.449Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)** For purposes of this subsection, a covered individual is any individual as follows:
     - **(A)** A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
     - **(B)** An individual who is entitled to assistance under—
-      - **(i)** section 3311(b)(9) of this title ; or
+      - **(i)** section 3311(b)(8) of this title ; or
       - **(ii)** section 3319 of this title by virtue of the individual’s relationship to—
         - **(I)** a veteran described in subparagraph (A); or
         - **(II)** a member of the uniformed services described in section 3319(b) of this title who is serving on active duty.

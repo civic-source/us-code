@@ -3,9 +3,9 @@ title: "Section 4565 - Authority to review certain mergers, acquisitions, and ta
 usc_title: 50
 usc_section: "4565"
 chapter: 55
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "50 U.S.C. § 4565"
-generated_at: "2026-03-30T09:42:11.128Z"
+generated_at: "2026-03-30T09:45:34.900Z"
 status: "active"
 ---
 
@@ -84,10 +84,17 @@ status: "active"
       - **(ii)** shall consider the factors specified in subsection (f) for such purpose, as appropriate.
     - **(B)** If the Committee determines that the covered transaction is a foreign government-controlled transaction, the Committee shall conduct an investigation of the transaction under paragraph (2).
     - **(C)**
-      - **(i)** Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+      - **(i)**
+        - **(I)** Any party or parties to any covered transaction may initiate a review of the transaction under this paragraph by submitting a written notice of the transaction to the Chairperson of the Committee.
+        - **(II)**
       - **(ii)** No covered transaction for which a notice was submitted under clause (i) may be withdrawn from review, unless a written request for such withdrawal is submitted to the Committee by any party to the transaction and approved by the Committee.
       - **(iii)** A request for withdrawal under clause (ii) shall not be construed to preclude any party to the covered transaction from continuing informal discussions with the Committee or any member thereof regarding possible resubmission for review pursuant to this paragraph.
       - **(iv)** The Committee may require a written notice submitted under clause (i) to include a copy of any partnership agreements, integration agreements, or other side agreements relating to the transaction, as specified in regulations prescribed by the Committee.
+      - **(v)**
+        - **(I)** A party to any covered transaction may submit to the Committee a declaration with basic information regarding the transaction instead of a written notice under clause (i).
+        - **(II)** The Committee shall prescribe regulations establishing requirements for declarations submitted under this clause. In prescribing such regulations, the Committee shall ensure that such declarations are submitted as abbreviated notifications that would not generally exceed 5 pages in length.
+        - **(III)**
+        - **(IV)**
       - **(vi)**
         - **(I)** In a written notice submitted under clause (i) or a declaration submitted under clause (v) with respect to a transaction, a party to the transaction may—
         - **(II)** A written notice submitted under clause (i) or a declaration submitted under clause (v) that includes a stipulation under subclause (I) shall include a description of the basis for the stipulation.
@@ -130,7 +137,7 @@ status: "active"
     - **(C)**
       - **(i)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be submitted to the members of Congress specified in clause (iii), and shall include—
         - **(I)** a description of the actions taken by the Committee with respect to the transaction; and
-        - **(II)** identification of the determinative factors considered under subsection (f).
+        - **(II)** a certification that all relevant national security factors have received full consideration.
       - **(ii)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, and shall state that, in the determination of the Committee, there are no unresolved national security concerns with the transaction that is the subject of the notice or report.
       - **(iii)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be transmitted—
         - **(I)** to the Majority Leader and the Minority Leader of the Senate;
@@ -140,7 +147,8 @@ status: "active"
         - **(V)** with respect to covered transactions involving critical infrastructure, to the members of the Senate from the State in which the principal place of business of the acquired United States person is located, and the member from the Congressional District in which such principal place of business is located.
       - **(iv)**
         - **(I)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, which signature requirement may only be delegated in accordance with subclause (II).
-        - **(II)** The chairperson and the head of the lead agency may delegate the signature requirement under subclause (I)—
+        - **(II)**
+      - **(v)** Instead of transmitting a separate certified notice or certified report under subparagraph (A) or (B) with respect to each covered transaction, the Committee may, on a monthly basis, transmit such notices and reports in a consolidated document to the Members of Congress specified in clause (iii).
   - **(4)**
     - **(A)**
       - **(i)** Except as provided in subparagraph (B), the Director of National Intelligence shall expeditiously carry out a thorough analysis of any threat to the national security of the United States posed by any covered transaction, which shall include the identification of any recognized gaps in the collection of intelligence relevant to the analysis.
@@ -200,9 +208,9 @@ status: "active"
   - **(3)** the control of domestic industries and commercial activity by foreign citizens as it affects the capability and capacity of the United States to meet the requirements of national security,
   - **(4)** the potential effects of the proposed or pending transaction on sales of military goods, equipment, or technology to any country—
     - **(A)** identified by the Secretary of State—
-      - **(i)** under section 4605(j) 4 4 See References in Text note below. of this title, as a country that supports terrorism;
-      - **(ii)** under section 4605( l ) 4 of this title, as a country of concern regarding missile proliferation; or
-      - **(iii)** under section 4605(m) 4 of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
+      - **(i)** under section 4605(j) 1 1 See References in Text note below. of this title, as a country that supports terrorism;
+      - **(ii)** under section 4605( l ) 1 of this title, as a country of concern regarding missile proliferation; or
+      - **(iii)** under section 4605(m) 1 of this title, as a country of concern regarding the proliferation of chemical and biological weapons;
     - **(B)** identified by the Secretary of Defense as posing a potential regional military threat to the interests of the United States; or
     - **(C)** listed under section 2139a(c) of title 42 on the “Nuclear Non-Proliferation-Special Country List” (15 C.F.R. Part 778, Supplement No. 4) or any successor list;
   - **(5)** the potential effects of the proposed or pending transaction on United States international technological leadership in areas affecting United States national security;
@@ -310,17 +318,28 @@ status: "active"
 - **(m)**
   - **(1)** The chairperson shall transmit a report to the chairman and ranking member of the committee of jurisdiction in the Senate and the House of Representatives, before July 31 of each year on all of the reviews and investigations of covered transactions completed under subsection (b) during the 12-month period covered by the report.
   - **(2)** The annual report under paragraph (1) shall contain the following information, with respect to each covered transaction, for the reporting period:
-    - **(A)** A list of all notices filed and all reviews or investigations completed during the period, with basic information on each party to the transaction, the nature of the business activities or products of all pertinent persons, along with information about any withdrawal from the process, and any decision or action by the President under this section.
+    - **(A)** A list of all notices filed and all reviews or investigations of covered transactions completed during the period, with—
+      - **(i)** a description of the outcome of each review or investigation, including whether an agreement was entered into or condition was imposed under subsection ( l )(3)(A) with respect to the transaction being reviewed or investigated, and whether the President took any action under this section with respect to that transaction;
+      - **(ii)** basic information on each party to each such transaction;
+      - **(iii)** the nature of the business activities or products of the United States business with which the transaction was entered into or intended to be entered into; and
+      - **(iv)** information about any withdrawal from the process.
     - **(B)** Specific, cumulative, and, as appropriate, trend information on the numbers of filings, investigations, withdrawals, and decisions or actions by the President under this section.
     - **(C)** Cumulative and, as appropriate, trend information on the business sectors involved in the filings which have been made, and the countries from which the investments have originated.
     - **(D)** Information on whether companies that withdrew notices to the Committee in accordance with subsection (b)(1)(C)(ii) have later refiled such notices, or, alternatively, abandoned the transaction.
     - **(E)** The types of security arrangements and conditions the Committee has used to mitigate national security concerns about a transaction, including a discussion of the methods that the Committee and any lead agency are using to determine compliance with such arrangements or conditions.
     - **(F)** A detailed discussion of all perceived adverse effects of covered transactions on the national security or critical infrastructure of the United States that the Committee will take into account in its deliberations during the period before delivery of the next report, to the extent possible.
-  - **(3)**
-    - **(A)** In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
-      - **(i)** an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer; and
-      - **(ii)** an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies.
-    - **(B)** All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
+    - **(G)** Statistics on compliance plans conducted and actions taken by the Committee under subsection ( l )(6), including subparagraph (D) of that subsection, during that period, a general assessment of the compliance of parties with agreements entered into and conditions imposed under subsection ( l )(3)(A) that are in effect during that period, including a description of any actions taken by the Committee to impose penalties or initiate a unilateral review pursuant to subsection (b)(1)(D)(iii), and any recommendations for improving the enforcement of such agreements and conditions.
+    - **(H)** Cumulative and, as appropriate, trend information on the number of declarations filed under subsection (b)(1)(C)(v), the actions taken by the Committee in response to those declarations, the business sectors involved in those declarations, and the countries involved in those declarations.
+    - **(I)** A description of—
+      - **(i)** the methods used by the Committee to identify non-notified and non-declared transactions under subsection (b)(1)(H);
+      - **(ii)** potential methods to improve such identification and the resources required to do so; and
+      - **(iii)** the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.
+    - **(J)** A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).
+    - **(K)** A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
+  - **(3)** In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
+    - **(A)** an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer;
+    - **(B)** an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies; and
+    - **(C)** a description of the technologies recommended by the chairperson under subsection (a)(6)(B) for identification under the interagency process set forth in section 4817(a) of this title .
   - **(4)**
     - **(A)** All appropriate portions of the annual report under paragraph (1) may be classified. An unclassified version of the report, as appropriate, consistent with safeguarding national security and privacy, shall be made available to the public.
     - **(B)** If the Committee recommends that the President suspend or prohibit a covered transaction because the transaction threatens to impair the national security of the United States, the Committee shall, in the classified version of the report required under paragraph (1), notify Congress of the recommendation and, upon request, provide a classified briefing on the recommendation.

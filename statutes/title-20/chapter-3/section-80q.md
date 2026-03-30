@@ -3,9 +3,9 @@ title: "Section 80q - Findings"
 usc_title: 20
 usc_section: "80q"
 chapter: 3
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 80q"
-generated_at: "2026-03-30T09:40:21.560Z"
+generated_at: "2026-03-30T09:44:31.791Z"
 status: "active"
 ---
 

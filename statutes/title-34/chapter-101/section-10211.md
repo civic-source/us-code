@@ -3,9 +3,9 @@ title: "Section 10211 - Training and manpower development"
 usc_title: 34
 usc_section: "10211"
 chapter: 101
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "34 U.S.C. § 10211"
-generated_at: "2026-03-30T09:41:06.103Z"
+generated_at: "2026-03-30T09:45:01.097Z"
 status: "active"
 ---
 

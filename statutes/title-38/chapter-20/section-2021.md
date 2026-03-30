@@ -3,9 +3,9 @@ title: "Section 2021 - Homeless veterans reintegration programs"
 usc_title: 38
 usc_section: "2021"
 chapter: 20
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 2021"
-generated_at: "2026-03-30T09:41:11.785Z"
+generated_at: "2026-03-30T09:45:09.438Z"
 status: "active"
 ---
 
@@ -29,5 +29,5 @@ status: "active"
     - **(C)** $50,000,000 for fiscal year 2004.
     - **(D)** $50,000,000 for fiscal year 2005.
     - **(E)** $50,000,000 for fiscal year 2006.
-    - **(F)** $50,000,000 for each of fiscal years 2007 through 2020.
+    - **(F)** $50,000,000 for each of fiscal years 2007 through 2022.
   - **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.

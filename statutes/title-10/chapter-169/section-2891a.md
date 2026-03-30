@@ -3,9 +3,9 @@ title: "Section 2891a - Requirements relating to management of housing units"
 usc_title: 10
 usc_section: "2891a"
 chapter: 169
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "10 U.S.C. § 2891a"
-generated_at: "2026-03-30T09:39:54.650Z"
+generated_at: "2026-03-30T09:44:06.826Z"
 status: "active"
 ---
 
@@ -51,10 +51,10 @@ status: "active"
     - **(A)** A common lease agreement.
     - **(B)** Any disclosure or nondisclosure forms that could be given to a tenant.
 - **(e)**
-  - **(1)** A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the any basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
+  - **(1)** A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the any 2 2 So in original. basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
   - **(2)** Nothing in paragraph (1) shall be construed—
     - **(A)** to prohibit a landlord from imposing an additional payment—
       - **(i)** for optional services provided to military tenants, such as access to a gym or a parking space;
       - **(ii)** for non-essential utility services, as determined in accordance with regulations promulgated by the Secretary concerned; or
       - **(iii)** to recover damages associated with tenant negligence, consistent with subsection (c)(2); or
-    - **(B)** to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title , so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of the any 2 2 So in original. basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
+    - **(B)** to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title , so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of the any 2 basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.

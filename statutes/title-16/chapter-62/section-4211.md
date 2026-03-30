@@ -3,9 +3,9 @@ title: "Section 4211 - Provision of assistance"
 usc_title: 16
 usc_section: "4211"
 chapter: 62
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 4211"
-generated_at: "2026-03-30T09:40:28.830Z"
+generated_at: "2026-03-30T09:44:35.264Z"
 status: "active"
 ---
 

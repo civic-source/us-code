@@ -3,9 +3,9 @@ title: "Section 6391 - Program purposes"
 usc_title: 20
 usc_section: "6391"
 chapter: 70
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 6391"
-generated_at: "2026-03-30T09:40:21.660Z"
+generated_at: "2026-03-30T09:44:31.895Z"
 status: "active"
 ---
 

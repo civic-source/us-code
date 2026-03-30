@@ -3,9 +3,9 @@ title: "Section 198j - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , 
 usc_title: 16
 usc_section: "198j"
 chapter: 1
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "16 U.S.C. § 198j"
-generated_at: "2026-03-30T09:40:28.623Z"
+generated_at: "2026-03-30T09:44:35.067Z"
 status: "repealed"
 ---
 

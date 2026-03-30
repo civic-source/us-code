@@ -3,9 +3,9 @@ title: "Section 282h - Loans to or from International Bank for Reconstruction an
 usc_title: 22
 usc_section: "282h"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 282h"
-generated_at: "2026-03-30T09:40:36.470Z"
+generated_at: "2026-03-30T09:44:42.739Z"
 status: "active"
 ---
 

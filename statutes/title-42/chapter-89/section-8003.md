@@ -3,9 +3,9 @@ title: "Section 8003 - Contracts to provide congregate services programs"
 usc_title: 42
 usc_section: "8003"
 chapter: 89
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 8003"
-generated_at: "2026-03-30T09:41:59.861Z"
+generated_at: "2026-03-30T09:45:30.022Z"
 status: "active"
 ---
 

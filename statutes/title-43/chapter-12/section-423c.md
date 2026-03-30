@@ -3,9 +3,9 @@ title: "Section 423c - Exchange of unpatented entries; entries, farms or private
 usc_title: 43
 usc_section: "423c"
 chapter: 12
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "43 U.S.C. § 423c"
-generated_at: "2026-03-30T09:41:20.977Z"
+generated_at: "2026-03-30T09:45:12.030Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 668 - Authorization of appropriations"
 usc_title: 30
 usc_section: "668"
 chapter: 18
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "30 U.S.C. § 668"
-generated_at: "2026-03-30T09:40:44.667Z"
+generated_at: "2026-03-30T09:44:47.726Z"
 status: "active"
 ---
 

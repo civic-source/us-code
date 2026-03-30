@@ -3,9 +3,9 @@ title: "Section 3604 - Discrimination in the sale or rental of housing and other
 usc_title: 42
 usc_section: "3604"
 chapter: 45
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 3604"
-generated_at: "2026-03-30T09:41:59.741Z"
+generated_at: "2026-03-30T09:45:29.905Z"
 status: "active"
 ---
 

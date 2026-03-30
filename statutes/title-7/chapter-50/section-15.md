@@ -3,9 +3,9 @@ title: "Section 15 - Removal or suspension of directors or officers"
 usc_title: 7
 usc_section: "15"
 chapter: 50
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "7 U.S.C. § 15"
-generated_at: "2026-03-30T09:39:57.902Z"
+generated_at: "2026-03-30T09:44:10.214Z"
 status: "active"
 ---
 

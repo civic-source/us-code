@@ -3,9 +3,9 @@ title: "Section 43a - Omitted"
 usc_title: 2
 usc_section: "43a"
 chapter: 3
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "2 U.S.C. § 43a"
-generated_at: "2026-03-30T09:39:45.860Z"
+generated_at: "2026-03-30T09:43:49.488Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9175 - 21st century museum professional program"
 usc_title: 20
 usc_section: "9175"
 chapter: 72
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "20 U.S.C. § 9175"
-generated_at: "2026-03-30T09:40:21.684Z"
+generated_at: "2026-03-30T09:44:31.920Z"
 status: "active"
 ---
 

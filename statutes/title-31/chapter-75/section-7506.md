@@ -3,9 +3,9 @@ title: "Section 7506 - Effective date"
 usc_title: 31
 usc_section: "7506"
 chapter: 75
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "31 U.S.C. § 7506"
-generated_at: "2026-03-30T09:41:06.774Z"
+generated_at: "2026-03-30T09:45:01.794Z"
 status: "active"
 ---
 

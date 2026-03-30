@@ -3,9 +3,9 @@ title: "Section 3733 - Property management"
 usc_title: 38
 usc_section: "3733"
 chapter: 37
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "38 U.S.C. § 3733"
-generated_at: "2026-03-30T09:41:11.802Z"
+generated_at: "2026-03-30T09:45:09.454Z"
 status: "active"
 ---
 
@@ -28,6 +28,10 @@ status: "active"
     - **(A)** the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
     - **(B)** the second sentence of paragraph (1) were repealed; and
     - **(C)** the reference in paragraph (2) to “ September 30, 1990 ,” were a reference to “ September 30, 2020 ,”.
+  - **(8)** During the period that begins on October 1, 2020 , and ends on September 30, 2025 , the Secretary shall carry out the provisions of this subsection as if—
+    - **(A)** the references in the first sentence of paragraph (1) to “65 percent” and “may be financed by a loan” were references to “85 percent” and “shall be of property marketed with financing to be”, respectively;
+    - **(B)** the second sentence of paragraph (1) were repealed; and
+    - **(C)** the reference in paragraph (2) to “ September 30, 1990 ,” were a reference to “ September 30, 2025 ,”.
 - **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title .
 - **(c)**
   - **(1)** The Secretary shall identify and compile information on common factors which the Secretary finds contribute to foreclosures on loans guaranteed under this chapter.

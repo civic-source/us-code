@@ -3,9 +3,9 @@ title: "Section 1809 - General authority of Council"
 usc_title: 30
 usc_section: "1809"
 chapter: 30
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "30 U.S.C. § 1809"
-generated_at: "2026-03-30T09:40:44.690Z"
+generated_at: "2026-03-30T09:44:47.748Z"
 status: "active"
 ---
 

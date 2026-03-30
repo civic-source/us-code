@@ -3,9 +3,9 @@ title: "Section 10d - National Advisory Committee on Individuals With Disabiliti
 usc_title: 42
 usc_section: "10d"
 chapter: 6
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 10d"
-generated_at: "2026-03-30T09:41:59.461Z"
+generated_at: "2026-03-30T09:45:29.634Z"
 status: "active"
 ---
 

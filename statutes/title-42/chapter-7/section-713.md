@@ -3,9 +3,9 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-30T09:41:59.507Z"
+generated_at: "2026-03-30T09:45:29.678Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2020 and for the period beginning October 1, 2020 , and ending November 30, 2020 , the Secretary shall allot to each State an amount equal to the product of—
+    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2020 and for the period beginning October 1, 2020 , and ending December 11, 2020 , the Secretary shall allot to each State an amount equal to the product of—
       - **(i)** the amount appropriated under subsection (f) for the fiscal year or period and available for allotments to States after the application of subsection (c); and
       - **(ii)** the State youth population percentage determined under paragraph (2).
     - **(B)**
-      - **(i)** Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2020 , and ending November 30, 2020 .
+      - **(i)** Each State allotment under this paragraph for a fiscal year shall be at least $250,000. The previous sentence shall not apply with respect to State allotments under this paragraph for the period beginning October 1, 2020 , and ending December 11, 2020 .
       - **(ii)** The Secretary shall adjust on a pro rata basis the amount of the State allotments determined under this paragraph for a fiscal year to the extent necessary to comply with clause (i).
     - **(C)**
       - **(i)** A State shall not be paid from its allotment for a fiscal year or the period described in subparagraph (A) unless the State submits an application to the Secretary for the fiscal year or period and the Secretary approves the application (or requires changes to the application that the State satisfies) and meets such additional requirements as the Secretary may specify.
@@ -86,4 +86,4 @@ status: "active"
     - **(B)** comprising information that leading professional organizations and agencies with relevant expertise in the field recognize as accurate, objective, and complete.
   - **(3)** The terms “Indian tribe” and “Tribal organization” have the meanings given such terms in section 1603 of title 25 .
   - **(4)** The term “youth” means an individual who has attained age 10 but has not attained age 20.
-- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2020, and for the period beginning on October 1, 2020 , and ending on November 30, 2020 , the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020. Amounts appropriated under this subsection shall remain available until expended.
+- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2020, and for the period beginning on October 1, 2020 , and ending on December 11, 2020 , the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020. Amounts appropriated under this subsection shall remain available until expended.

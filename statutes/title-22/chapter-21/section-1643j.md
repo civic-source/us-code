@@ -3,9 +3,9 @@ title: "Section 1643j - Authorization of appropriations"
 usc_title: 22
 usc_section: "1643j"
 chapter: 21
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 1643j"
-generated_at: "2026-03-30T09:40:36.491Z"
+generated_at: "2026-03-30T09:44:42.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7703 - Prohibition against predatory and abusive commercial e-ma
 usc_title: 15
 usc_section: "7703"
 chapter: 103
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "15 U.S.C. § 7703"
-generated_at: "2026-03-30T09:40:12.891Z"
+generated_at: "2026-03-30T09:44:20.598Z"
 status: "active"
 ---
 

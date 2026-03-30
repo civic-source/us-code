@@ -3,9 +3,9 @@ title: "Section 5603 - United States export controls"
 usc_title: 22
 usc_section: "5603"
 chapter: 65
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "22 U.S.C. § 5603"
-generated_at: "2026-03-30T09:40:36.562Z"
+generated_at: "2026-03-30T09:44:42.831Z"
 status: "active"
 ---
 

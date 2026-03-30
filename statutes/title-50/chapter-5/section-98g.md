@@ -3,9 +3,9 @@ title: "Section 98g - Materials development and research"
 usc_title: 50
 usc_section: "98g"
 chapter: 5
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "50 U.S.C. § 98g"
-generated_at: "2026-03-30T09:42:11.058Z"
+generated_at: "2026-03-30T09:45:34.830Z"
 status: "active"
 ---
 

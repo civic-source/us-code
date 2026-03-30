@@ -3,9 +3,9 @@ title: "Section 8531 - Study and report"
 usc_title: 42
 usc_section: "8531"
 chapter: 93
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "42 U.S.C. § 8531"
-generated_at: "2026-03-30T09:41:59.871Z"
+generated_at: "2026-03-30T09:45:30.032Z"
 status: "active"
 ---
 

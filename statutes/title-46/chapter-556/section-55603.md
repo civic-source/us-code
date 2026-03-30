@@ -3,9 +3,9 @@ title: "Section 55603 - Interagency coordination"
 usc_title: 46
 usc_section: "55603"
 chapter: 556
-current_through: "PL 116-155"
+current_through: "PL 116-163"
 classification: "46 U.S.C. § 55603"
-generated_at: "2026-03-30T09:42:18.616Z"
+generated_at: "2026-03-30T09:45:33.388Z"
 status: "active"
 ---
 
