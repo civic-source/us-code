@@ -3,9 +3,9 @@ title: "Section 31133 - General powers of the Secretary of Transportation"
 usc_title: 49
 usc_section: "31133"
 chapter: 311
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "49 U.S.C. § 31133"
-generated_at: "2026-03-30T09:51:25.138Z"
+generated_at: "2026-03-30T09:54:55.119Z"
 status: "active"
 ---
 

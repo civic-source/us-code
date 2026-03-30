@@ -3,9 +3,9 @@ title: "Section 50a - Publication of information; national advisory committees"
 usc_title: 29
 usc_section: "50a"
 chapter: 4
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "29 U.S.C. § 50a"
-generated_at: "2026-03-30T09:50:31.070Z"
+generated_at: "2026-03-30T09:52:57.134Z"
 status: "active"
 ---
 

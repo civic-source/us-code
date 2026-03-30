@@ -3,9 +3,9 @@ title: "Section 20341 - Child abuse reporting"
 usc_title: 34
 usc_section: "20341"
 chapter: 203
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "34 U.S.C. § 20341"
-generated_at: "2026-03-30T09:50:40.708Z"
+generated_at: "2026-03-30T09:53:29.995Z"
 status: "active"
 ---
 
@@ -37,7 +37,9 @@ status: "active"
   - **(6)** the term “exploitation” means child pornography or child prostitution;
   - **(7)** the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child;
   - **(8)** the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty;
-  - **(9)** the term “covered individual” means an adult who is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization;
+  - **(9)** the term “covered individual” means an adult who—
+    - **(A)** is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
+    - **(B)** is an employee or representative of the United States Center for SafeSport;
   - **(10)** the term “event” includes travel, lodging, practice, competition, and health or medical treatment;
   - **(11)** the terms “amateur athlete”, “amateur athletic competition”, “amateur sports organization”, “international amateur athletic competition”, and “national governing body” have the meanings given the terms in section 220501(b) of title 36 ; and
   - **(12)** the term “as soon as possible” means within a 24-hour period.

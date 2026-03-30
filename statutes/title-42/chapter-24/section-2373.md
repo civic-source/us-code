@@ -3,9 +3,9 @@ title: "Section 2373 - Transfer to governmental or other legal entity; determina
 usc_title: 42
 usc_section: "2373"
 chapter: 24
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 2373"
-generated_at: "2026-03-30T09:51:16.960Z"
+generated_at: "2026-03-30T09:54:48.398Z"
 status: "active"
 ---
 

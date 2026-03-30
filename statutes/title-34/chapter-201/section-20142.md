@@ -3,9 +3,9 @@ title: "Section 20142 - Closed circuit televised court proceedings for victims o
 usc_title: 34
 usc_section: "20142"
 chapter: 201
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "34 U.S.C. § 20142"
-generated_at: "2026-03-30T09:50:40.707Z"
+generated_at: "2026-03-30T09:53:29.993Z"
 status: "active"
 ---
 

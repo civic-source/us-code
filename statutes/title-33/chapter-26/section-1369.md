@@ -3,9 +3,9 @@ title: "Section 1369 - Administrative procedure and judicial review"
 usc_title: 33
 usc_section: "1369"
 chapter: 26
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "33 U.S.C. § 1369"
-generated_at: "2026-03-30T09:50:42.288Z"
+generated_at: "2026-03-30T09:53:13.067Z"
 status: "active"
 ---
 

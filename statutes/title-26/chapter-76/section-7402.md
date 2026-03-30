@@ -3,9 +3,9 @@ title: "Section 7402 - Jurisdiction of district courts"
 usc_title: 26
 usc_section: "7402"
 chapter: 76
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 7402"
-generated_at: "2026-03-30T09:50:37.844Z"
+generated_at: "2026-03-30T09:53:09.349Z"
 status: "active"
 ---
 

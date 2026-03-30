@@ -1,17 +1,23 @@
 ---
-title: "Section 220521 - Recognition of amateur sports organizations as national governing bodies"
+title: "Section 220521 - Certification of national governing bodies"
 usc_title: 36
 usc_section: "220521"
 chapter: 2205
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "36 U.S.C. § 220521"
-generated_at: "2026-03-30T09:50:45.221Z"
+generated_at: "2026-03-30T09:53:37.402Z"
 status: "active"
 ---
 
-# § 220521. Recognition of amateur sports organizations as national governing bodies
+# § 220521. Certification of national governing bodies
 
-- **(a)** For any sport which is included on the program of the Olympic Games, the Paralympic Games, or the Pan-American Games, the corporation is authorized to recognize as a national governing body (in the case of a sport on the program of the Olympic Games or Pan-American Games) or as a paralympic sports organization (in the case of a sport on the program of the Paralympic Games for which a national governing body has not been designated under section 220522(b)) an amateur sports organization which files an application and is eligible for such recognition in accordance with the provisions of subsection (a) or (b) of section 220522. The corporation may recognize only one national governing body for each sport for which an application is made and approved, except as provided in section 220522(b) with respect to a paralympic sports organization.
-- **(b)** Before recognizing an organization as a national governing body, the corporation shall hold at least 2 public hearings on the application. The corporation shall publish notice of the time, place, and nature of the hearings. Publication shall be made in a regular issue of the corporation’s principal publication at least 30 days, but not more than 60 days, before the date of the hearings. The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.
-- **(c)** Within 61 days after recognizing an organization as a national governing body, the corporation shall recommend and support in any appropriate manner the national governing body to the appropriate international sports federation as the representative of the United States for that sport.
-- **(d)** The corporation may review all matters related to the continued recognition of an organization as a national governing body and may take action it considers appropriate, including placing conditions on the continued recognition.
+- **(a)** With respect to each sport included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games, the corporation—
+  - **(1)** may certify as a national governing body an amateur sports organization, a high-performance management organization, or a paralympic sports organization that files an application and is eligible for such certification under section 220522; and
+  - **(2)** may not certify more than 1 national governing body.
+- **(b)** Before certifying an organization as a national governing body, the corporation shall hold at least 2 public hearings on the application. The corporation shall publish notice of the time, place, and nature of the hearings. Publication shall be made in a regular issue of the corporation’s principal publication at least 30 days, but not more than 60 days, before the date of the hearings. The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.
+- **(c)** Within 61 days after certifying an organization as a national governing body, the corporation shall recommend and support in any appropriate manner the national governing body to the appropriate international sports federation as the representative of the United States for that sport.
+- **(d)** Not later than 8 years after the date of the enactment of the Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020, and not less frequently than once every 4 years thereafter, the corporation—
+  - **(1)** shall review all matters related to the continued certification of an organization as a national governing body;
+  - **(2)** may take action the corporation considers appropriate, including placing conditions on the continued certification of an organization as a national governing body;
+  - **(3)** shall submit to Congress a summary report of each review under paragraph (1); and
+  - **(4)** shall make each such summary report available to the public.

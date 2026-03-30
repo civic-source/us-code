@@ -3,9 +3,9 @@ title: "Section 1438 - Former citizens losing citizenship by entering armed forc
 usc_title: 8
 usc_section: "1438"
 chapter: 12
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "8 U.S.C. § 1438"
-generated_at: "2026-03-30T09:49:43.518Z"
+generated_at: "2026-03-30T09:51:56.565Z"
 status: "active"
 ---
 

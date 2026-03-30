@@ -3,9 +3,9 @@ title: "Section 68b - Misbranded wool products"
 usc_title: 15
 usc_section: "68b"
 chapter: 2
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "15 U.S.C. § 68b"
-generated_at: "2026-03-30T09:49:57.181Z"
+generated_at: "2026-03-30T09:52:11.165Z"
 status: "active"
 ---
 

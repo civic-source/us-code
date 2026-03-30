@@ -3,9 +3,9 @@ title: "Section 1622 - Uniform allowance: civilian employees"
 usc_title: 10
 usc_section: "1622"
 chapter: 83
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 1622"
-generated_at: "2026-03-30T09:49:38.952Z"
+generated_at: "2026-03-30T09:52:03.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3552 - Protests by interested parties concerning procurement act
 usc_title: 31
 usc_section: "3552"
 chapter: 35
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "31 U.S.C. § 3552"
-generated_at: "2026-03-30T09:50:41.381Z"
+generated_at: "2026-03-30T09:53:15.844Z"
 status: "active"
 ---
 

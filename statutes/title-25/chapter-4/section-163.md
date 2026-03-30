@@ -3,9 +3,9 @@ title: "Section 163 - Roll of membership of Indian tribes"
 usc_title: 25
 usc_section: "163"
 chapter: 4
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "25 U.S.C. § 163"
-generated_at: "2026-03-30T09:50:23.108Z"
+generated_at: "2026-03-30T09:52:45.319Z"
 status: "active"
 ---
 

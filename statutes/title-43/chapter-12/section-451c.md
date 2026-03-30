@@ -3,9 +3,9 @@ title: "Section 451c - Cancellation of charges or liens; credits"
 usc_title: 43
 usc_section: "451c"
 chapter: 12
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "43 U.S.C. § 451c"
-generated_at: "2026-03-30T09:50:53.340Z"
+generated_at: "2026-03-30T09:54:07.488Z"
 status: "active"
 ---
 

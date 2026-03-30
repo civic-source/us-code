@@ -3,9 +3,9 @@ title: "Section 2291b - Prohibition on use of foreign assistance for reimburseme
 usc_title: 22
 usc_section: "2291b"
 chapter: 32
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 2291b"
-generated_at: "2026-03-30T09:50:26.776Z"
+generated_at: "2026-03-30T09:52:53.899Z"
 status: "active"
 ---
 

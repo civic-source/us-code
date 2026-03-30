@@ -3,9 +3,9 @@ title: "Section 2523 - Gift to spouse"
 usc_title: 26
 usc_section: "2523"
 chapter: 12
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 2523"
-generated_at: "2026-03-30T09:50:37.774Z"
+generated_at: "2026-03-30T09:53:09.284Z"
 status: "active"
 ---
 

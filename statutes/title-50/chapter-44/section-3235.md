@@ -3,9 +3,9 @@ title: "Section 3235 - Semiannual reports on investigations of unauthorized disc
 usc_title: 50
 usc_section: "3235"
 chapter: 44
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "50 U.S.C. § 3235"
-generated_at: "2026-03-30T09:51:27.806Z"
+generated_at: "2026-03-30T09:55:05.975Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Minerals"
 usc_title: 16
 usc_section: "3"
 chapter: 2
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T09:50:17.367Z"
+generated_at: "2026-03-30T09:52:28.488Z"
 status: "active"
 ---
 

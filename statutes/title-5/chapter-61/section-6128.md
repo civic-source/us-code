@@ -3,9 +3,9 @@ title: "Section 6128 - Compressed schedules; computation of premium pay"
 usc_title: 5
 usc_section: "6128"
 chapter: 61
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "5 U.S.C. § 6128"
-generated_at: "2026-03-30T09:49:19.890Z"
+generated_at: "2026-03-30T09:51:43.762Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5604 - Interagency cooperation"
 usc_title: 16
 usc_section: "5604"
 chapter: 76
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 5604"
-generated_at: "2026-03-30T09:50:17.483Z"
+generated_at: "2026-03-30T09:52:28.611Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8127 - Small business concerns owned and controlled by veterans:
 usc_title: 38
 usc_section: "8127"
 chapter: 81
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "38 U.S.C. § 8127"
-generated_at: "2026-03-30T09:50:50.865Z"
+generated_at: "2026-03-30T09:53:58.859Z"
 status: "active"
 ---
 
@@ -82,7 +82,24 @@ status: "active"
   - **(2)** The percentage of the total amount of all such contracts awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
   - **(3)** The percentage of the total amount of all contracts awarded by each Administration of the Department during that fiscal year that were awarded to small business concerns owned and controlled by veterans.
   - **(4)** The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
-- **(k)** In this section:
+- **(k)**
+  - **(1)**
+    - **(A)** The requirements applicable to a covered small business concern under section 46 of the Small Business Act ( 15 U.S.C. 657s ) shall apply with respect to a small business concern owned and controlled by veterans that is awarded a contract under this section.
+    - **(B)** For purposes of applying the requirements of section 46 of the Small Business Act ( 15 U.S.C. 657s ) pursuant to subparagraph (A), the term “similarly situated entity” used in such section 46 includes a subcontractor for a small business concern owned and controlled by veterans described in such subparagraph (A).
+  - **(2)** The Secretary may award a contract under this section only after the Secretary obtains from the offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—
+    - **(A)** specify the exact performance requirements applicable under such paragraph; and
+    - **(B)** explicitly acknowledge that the certification is subject to section 1001 of title 18 .
+  - **(3)**
+    - **(A)** The Director of Small and Disadvantaged Business Utilization for the Department, established pursuant to section 15(k) of the Small Business Act ( 15 U.S.C. 644(k) ), and the Chief Acquisition Officer of the Department, established pursuant to section 1702 of title 41 , shall jointly implement a process using the systems described in section 16(g)(2) of the Small Business Act ( 15 U.S.C. 645(g)(2) ), and any other relevant systems available, to monitor compliance with this subsection.
+    - **(B)** The Director of Small and Disadvantaged Business Utilization and the Chief Acquisition Officer shall jointly refer any violations or suspected violations of this subsection to the Inspector General of the Department.
+    - **(C)** If the Secretary determines, in consultation with the Inspector General of the Department, that a small business concern that is awarded a contract under this section did not act in good faith with respect to the requirements described in paragraph (1)(A), the small business concern shall be subject to any or all of the following consequences—
+      - **(i)** referral to the Debarment and Suspension Committee of the Department;
+      - **(ii)** a fine under section 16(g)(1) of the Small Business Act ( 15 U.S.C. 645(g)(1) ); and
+      - **(iii)** prosecution for violating section 1001 of title 18 .
+    - **(D)** Not later than November 30 for each of fiscal years 2021 through 2025, the Inspector General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—
+      - **(i)** the number of referred violations and suspected violations received under subparagraph (B); and
+      - **(ii)** the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.
+- **(l)** In this section:
   - **(1)** The term “small business concern” has the meaning given that term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
   - **(2)** The term “small business concern owned and controlled by veterans” has the meaning given that term under section 3(q)(3) of the Small Business Act ( 15 U.S.C. 632(q)(3) ).
   - **(3)** The term “small business concern owned and controlled by veterans with service-connected disabilities” has the meaning given the term “small business concern owned and controlled by service-disabled veterans” under section 3(q)(2) of the Small Business Act ( 15 U.S.C. 632(q)(2) ).

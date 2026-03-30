@@ -3,9 +3,9 @@ title: "Section 1161 - Transferred"
 usc_title: 43
 usc_section: "1161"
 chapter: 28
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "43 U.S.C. § 1161"
-generated_at: "2026-03-30T09:50:53.355Z"
+generated_at: "2026-03-30T09:54:07.503Z"
 status: "transferred"
 ---
 

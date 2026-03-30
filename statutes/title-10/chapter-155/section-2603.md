@@ -3,9 +3,9 @@ title: "Section 2603 - Acceptance of fellowships, scholarships, or grants"
 usc_title: 10
 usc_section: "2603"
 chapter: 155
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 2603"
-generated_at: "2026-03-30T09:49:38.989Z"
+generated_at: "2026-03-30T09:52:03.489Z"
 status: "active"
 ---
 

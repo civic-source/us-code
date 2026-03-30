@@ -3,9 +3,9 @@ title: "Section 915 - Repealed. Aug. 9, 1950, ch. 653, § 16 , 64 Stat. 425"
 usc_title: 16
 usc_section: "915"
 chapter: 14
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 915"
-generated_at: "2026-03-30T09:50:17.407Z"
+generated_at: "2026-03-30T09:52:28.530Z"
 status: "repealed"
 ---
 

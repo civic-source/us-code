@@ -3,9 +3,9 @@ title: "Section 1444 - Separability"
 usc_title: 42
 usc_section: "1444"
 chapter: 8
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 1444"
-generated_at: "2026-03-30T09:51:16.901Z"
+generated_at: "2026-03-30T09:54:48.341Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 209 - Members of precommissioning programs"
 usc_title: 37
 usc_section: "209"
 chapter: 3
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "37 U.S.C. § 209"
-generated_at: "2026-03-30T09:50:45.523Z"
+generated_at: "2026-03-30T09:53:31.925Z"
 status: "active"
 ---
 

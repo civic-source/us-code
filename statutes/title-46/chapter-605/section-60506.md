@@ -3,9 +3,9 @@ title: "Section 60506 - Retaliation against British dominions of North America"
 usc_title: 46
 usc_section: "60506"
 chapter: 605
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "46 U.S.C. § 60506"
-generated_at: "2026-03-30T09:51:25.902Z"
+generated_at: "2026-03-30T09:54:55.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1701f - Repealed. Pub. L. 91–609, title V, § 503(1) , Dec. 31
 usc_title: 12
 usc_section: "1701f"
 chapter: 13
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "12 U.S.C. § 1701f"
-generated_at: "2026-03-30T09:50:03.153Z"
+generated_at: "2026-03-30T09:52:12.988Z"
 status: "repealed"
 ---
 

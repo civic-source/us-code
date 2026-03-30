@@ -3,9 +3,9 @@ title: "Section 86 - Social security and tier 1 railroad retirement benefits"
 usc_title: 26
 usc_section: "86"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 86"
-generated_at: "2026-03-30T09:50:37.641Z"
+generated_at: "2026-03-30T09:53:09.160Z"
 status: "active"
 ---
 

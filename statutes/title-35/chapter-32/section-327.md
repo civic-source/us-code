@@ -3,9 +3,9 @@ title: "Section 327 - Settlement"
 usc_title: 35
 usc_section: "327"
 chapter: 32
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "35 U.S.C. § 327"
-generated_at: "2026-03-30T09:50:39.707Z"
+generated_at: "2026-03-30T09:53:25.738Z"
 status: "active"
 ---
 

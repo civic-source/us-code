@@ -3,9 +3,9 @@ title: "Section 5471 - Report on initial steps taken by United States and on Pol
 usc_title: 22
 usc_section: "5471"
 chapter: 63
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 5471"
-generated_at: "2026-03-30T09:50:26.828Z"
+generated_at: "2026-03-30T09:52:53.953Z"
 status: "active"
 ---
 

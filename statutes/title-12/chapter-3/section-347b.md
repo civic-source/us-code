@@ -3,9 +3,9 @@ title: "Section 347b - Advances to individual member banks on time or demand not
 usc_title: 12
 usc_section: "347b"
 chapter: 3
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "12 U.S.C. § 347b"
-generated_at: "2026-03-30T09:50:03.131Z"
+generated_at: "2026-03-30T09:52:12.966Z"
 status: "active"
 ---
 

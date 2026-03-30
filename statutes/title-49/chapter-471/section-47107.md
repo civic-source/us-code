@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T09:51:25.170Z"
+generated_at: "2026-03-30T09:54:55.151Z"
 status: "active"
 ---
 
@@ -225,13 +225,19 @@ status: "active"
     - **(H)** if the recreational purpose is consistent with Federal land use compatibility criteria under section 47502.
   - **(3)** Nothing in this subsection may be construed as permitting a diversion of airport revenue for the capital or operating costs associated with the community use of airport land.
 - **(w)**
-  - **(1)** In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
+  - **(1)** The Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
     - **(A)** a lactation area in the sterile area of each passenger terminal building of the airport; and
-    - **(B)** a baby changing table in one men’s and one women’s restroom in each passenger terminal building of the airport.
+    - **(B)** a baby changing table in at least one men’s and at least one women’s restroom in each passenger terminal building of the airport.
   - **(2)**
-    - **(A)** The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.
-    - **(B)** On application by an airport sponsor, the Secretary may determine that a lactation area in existence on the date of enactment of this Act complies with the requirement in paragraph (1), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term “lactation area” in this subsection.
-    - **(C)** The requirement in paragraph (1) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
+    - **(A)**
+      - **(i)** The requirements in paragraph (1) shall only apply to applications submitted by the airport sponsor of—
+        - **(I)** a medium or large hub airport in fiscal year 2021 and each fiscal year thereafter; and
+        - **(II)** an applicable small hub airport in fiscal year 2023 and each fiscal year thereafter.
+      - **(ii)** In clause (i)(II), the term “applicable small hub airport” means an airport designated as a small hub airport during—
+        - **(I)** the 3-year period consisting of 2020, 2021, and 2022; or
+        - **(II)** any consecutive 3-year period beginning after 2020.
+    - **(B)** On application by an airport sponsor, the Secretary may determine that a lactation area in existence on October 5, 2018 , complies with the requirement in paragraph (1)(A), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term “lactation area” in this subsection.
+    - **(C)** The requirement in paragraph (1)(A) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
   - **(3)** In this section, the term—
     - **(A)** “lactation area” means a room or similar accommodation that—
       - **(i)** provides a location for members of the public to express breast milk that is shielded from view and free from intrusion from the public;

@@ -3,9 +3,9 @@ title: "Section 311 - Definitions"
 usc_title: 6
 usc_section: "311"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "6 U.S.C. § 311"
-generated_at: "2026-03-30T09:49:33.490Z"
+generated_at: "2026-03-30T09:51:50.849Z"
 status: "active"
 ---
 

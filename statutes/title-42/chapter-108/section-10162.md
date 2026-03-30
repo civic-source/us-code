@@ -3,9 +3,9 @@ title: "Section 10162 - Authorization of monitored retrievable storage"
 usc_title: 42
 usc_section: "10162"
 chapter: 108
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 10162"
-generated_at: "2026-03-30T09:51:17.141Z"
+generated_at: "2026-03-30T09:54:48.573Z"
 status: "active"
 ---
 

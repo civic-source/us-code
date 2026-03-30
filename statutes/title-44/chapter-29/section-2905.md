@@ -3,9 +3,9 @@ title: "Section 2905 - Establishment of standards for selective retention of rec
 usc_title: 44
 usc_section: "2905"
 chapter: 29
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "44 U.S.C. § 2905"
-generated_at: "2026-03-30T09:50:52.619Z"
+generated_at: "2026-03-30T09:54:11.644Z"
 status: "active"
 ---
 

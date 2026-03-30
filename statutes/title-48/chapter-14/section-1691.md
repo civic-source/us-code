@@ -3,9 +3,9 @@ title: "Section 1691 - Fiscal control and accounting procedures for plan for use
 usc_title: 48
 usc_section: "1691"
 chapter: 14
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "48 U.S.C. § 1691"
-generated_at: "2026-03-30T09:51:26.410Z"
+generated_at: "2026-03-30T09:54:51.996Z"
 status: "active"
 ---
 

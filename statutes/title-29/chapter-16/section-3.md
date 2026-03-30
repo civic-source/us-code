@@ -3,9 +3,9 @@ title: "Section 3 - Centers operated by State agencies"
 usc_title: 29
 usc_section: "3"
 chapter: 16
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "29 U.S.C. § 3"
-generated_at: "2026-03-30T09:50:31.093Z"
+generated_at: "2026-03-30T09:52:57.156Z"
 status: "active"
 ---
 

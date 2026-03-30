@@ -3,9 +3,9 @@ title: "Section 2224 - Listings of places of public accommodation"
 usc_title: 15
 usc_section: "2224"
 chapter: 49
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "15 U.S.C. § 2224"
-generated_at: "2026-03-30T09:49:57.308Z"
+generated_at: "2026-03-30T09:52:11.296Z"
 status: "active"
 ---
 

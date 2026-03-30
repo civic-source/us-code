@@ -3,9 +3,9 @@ title: "Section 2164 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oc
 usc_title: 22
 usc_section: "2164"
 chapter: 32
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 2164"
-generated_at: "2026-03-30T09:50:26.772Z"
+generated_at: "2026-03-30T09:52:53.895Z"
 status: "repealed"
 ---
 

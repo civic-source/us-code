@@ -3,9 +3,9 @@ title: "Section 7433 - Civil damages for certain unauthorized collection actions
 usc_title: 26
 usc_section: "7433"
 chapter: 76
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 7433"
-generated_at: "2026-03-30T09:50:37.846Z"
+generated_at: "2026-03-30T09:53:09.351Z"
 status: "active"
 ---
 

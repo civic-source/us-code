@@ -3,9 +3,9 @@ title: "Section 11378 - Administrative costs"
 usc_title: 42
 usc_section: "11378"
 chapter: 119
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 11378"
-generated_at: "2026-03-30T09:51:17.156Z"
+generated_at: "2026-03-30T09:54:48.586Z"
 status: "active"
 ---
 

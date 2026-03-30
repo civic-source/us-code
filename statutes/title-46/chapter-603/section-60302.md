@@ -3,9 +3,9 @@ title: "Section 60302 - Special tonnage taxes"
 usc_title: 46
 usc_section: "60302"
 chapter: 603
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "46 U.S.C. § 60302"
-generated_at: "2026-03-30T09:51:25.902Z"
+generated_at: "2026-03-30T09:54:55.914Z"
 status: "active"
 ---
 

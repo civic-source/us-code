@@ -3,9 +3,9 @@ title: "Section 9006 - Direct appropriations"
 usc_title: 15
 usc_section: "9006"
 chapter: 116
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "15 U.S.C. § 9006"
-generated_at: "2026-03-30T09:49:57.365Z"
+generated_at: "2026-03-30T09:52:11.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8a - Administrative procedure for imposing penalties for false o
 usc_title: 42
 usc_section: "8a"
 chapter: 7
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 8a"
-generated_at: "2026-03-30T09:51:16.762Z"
+generated_at: "2026-03-30T09:54:48.210Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3342 - Buy-American requirements"
 usc_title: 29
 usc_section: "3342"
 chapter: 32
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "29 U.S.C. § 3342"
-generated_at: "2026-03-30T09:50:31.145Z"
+generated_at: "2026-03-30T09:52:57.205Z"
 status: "active"
 ---
 

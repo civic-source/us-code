@@ -3,9 +3,9 @@ title: "Section 6743 - Prohibition relating to unscheduled discrete organic chem
 usc_title: 22
 usc_section: "6743"
 chapter: 75
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 6743"
-generated_at: "2026-03-30T09:50:26.841Z"
+generated_at: "2026-03-30T09:52:54.020Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2055 - Duties of Secretary of State; establishment and operation
 usc_title: 22
 usc_section: "2055"
 chapter: 29
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 2055"
-generated_at: "2026-03-30T09:50:26.765Z"
+generated_at: "2026-03-30T09:52:53.888Z"
 status: "active"
 ---
 

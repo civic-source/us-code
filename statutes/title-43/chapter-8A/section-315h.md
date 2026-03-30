@@ -3,9 +3,9 @@ title: "Section 315h - Cooperation with associations, land officials, and agenci
 usc_title: 43
 usc_section: "315h"
 chapter: 8
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "43 U.S.C. § 315h"
-generated_at: "2026-03-30T09:50:53.330Z"
+generated_at: "2026-03-30T09:54:07.479Z"
 status: "active"
 ---
 

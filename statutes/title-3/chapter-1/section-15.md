@@ -3,9 +3,9 @@ title: "Section 15 - Counting electoral votes in Congress"
 usc_title: 3
 usc_section: "15"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "3 U.S.C. § 15"
-generated_at: "2026-03-30T09:49:07.223Z"
+generated_at: "2026-03-30T09:51:40.997Z"
 status: "active"
 ---
 

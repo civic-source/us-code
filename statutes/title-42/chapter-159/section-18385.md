@@ -3,9 +3,9 @@ title: "Section 18385 - On-going restoration of radioisotope thermoelectric gene
 usc_title: 42
 usc_section: "18385"
 chapter: 159
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 18385"
-generated_at: "2026-03-30T09:51:17.245Z"
+generated_at: "2026-03-30T09:54:48.676Z"
 status: "active"
 ---
 

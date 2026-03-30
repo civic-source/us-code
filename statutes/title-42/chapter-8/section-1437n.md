@@ -3,9 +3,9 @@ title: "Section 1437n - Eligibility for assisted housing"
 usc_title: 42
 usc_section: "1437n"
 chapter: 8
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 1437n"
-generated_at: "2026-03-30T09:51:16.895Z"
+generated_at: "2026-03-30T09:54:48.336Z"
 status: "active"
 ---
 

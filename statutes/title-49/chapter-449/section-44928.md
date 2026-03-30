@@ -3,9 +3,9 @@ title: "Section 44928 - Honor Flight program"
 usc_title: 49
 usc_section: "44928"
 chapter: 449
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "49 U.S.C. § 44928"
-generated_at: "2026-03-30T09:51:25.166Z"
+generated_at: "2026-03-30T09:54:55.146Z"
 status: "active"
 ---
 

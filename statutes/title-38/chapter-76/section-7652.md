@@ -3,9 +3,9 @@ title: "Section 7652 - Eligibility: individuals entitled to benefits under the G
 usc_title: 38
 usc_section: "7652"
 chapter: 76
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "38 U.S.C. § 7652"
-generated_at: "2026-03-30T09:50:50.861Z"
+generated_at: "2026-03-30T09:53:58.855Z"
 status: "active"
 ---
 

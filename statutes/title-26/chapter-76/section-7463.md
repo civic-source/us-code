@@ -3,9 +3,9 @@ title: "Section 7463 - Disputes involving $50,000 or less"
 usc_title: 26
 usc_section: "7463"
 chapter: 76
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 7463"
-generated_at: "2026-03-30T09:50:37.848Z"
+generated_at: "2026-03-30T09:53:09.353Z"
 status: "active"
 ---
 

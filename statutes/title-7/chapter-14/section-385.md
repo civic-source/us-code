@@ -3,9 +3,9 @@ title: "Section 385 - South Carolina Experiment Station; cooperation by Secretar
 usc_title: 7
 usc_section: "385"
 chapter: 14
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 385"
-generated_at: "2026-03-30T09:49:26.092Z"
+generated_at: "2026-03-30T09:51:48.820Z"
 status: "active"
 ---
 

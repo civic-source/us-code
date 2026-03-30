@@ -3,9 +3,9 @@ title: "Section 9 - Ownership limitations"
 usc_title: 42
 usc_section: "9"
 chapter: 23
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T09:51:16.958Z"
+generated_at: "2026-03-30T09:54:48.396Z"
 status: "active"
 ---
 

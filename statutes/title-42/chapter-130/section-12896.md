@@ -3,9 +3,9 @@ title: "Section 12896 - Definitions"
 usc_title: 42
 usc_section: "12896"
 chapter: 130
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 12896"
-generated_at: "2026-03-30T09:51:17.186Z"
+generated_at: "2026-03-30T09:54:48.616Z"
 status: "active"
 ---
 

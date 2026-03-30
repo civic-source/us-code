@@ -3,9 +3,9 @@ title: "Section 8324 - Terms and conditions; compliance plans"
 usc_title: 42
 usc_section: "8324"
 chapter: 92
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 8324"
-generated_at: "2026-03-30T09:51:17.105Z"
+generated_at: "2026-03-30T09:54:48.539Z"
 status: "active"
 ---
 

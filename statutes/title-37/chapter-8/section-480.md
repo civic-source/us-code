@@ -3,9 +3,9 @@ title: "Section 480 - Travel and transportation allowances: miscellaneous catego
 usc_title: 37
 usc_section: "480"
 chapter: 8
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "37 U.S.C. § 480"
-generated_at: "2026-03-30T09:50:45.535Z"
+generated_at: "2026-03-30T09:53:31.934Z"
 status: "active"
 ---
 

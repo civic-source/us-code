@@ -3,9 +3,9 @@ title: "Section 2107 - Coordination of administration of benefits"
 usc_title: 38
 usc_section: "2107"
 chapter: 21
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "38 U.S.C. § 2107"
-generated_at: "2026-03-30T09:50:50.824Z"
+generated_at: "2026-03-30T09:53:58.816Z"
 status: "active"
 ---
 

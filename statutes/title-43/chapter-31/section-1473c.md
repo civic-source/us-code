@@ -3,9 +3,9 @@ title: "Section 1473c - Payment of costs incidental to services contributed by v
 usc_title: 43
 usc_section: "1473c"
 chapter: 31
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "43 U.S.C. § 1473c"
-generated_at: "2026-03-30T09:50:53.360Z"
+generated_at: "2026-03-30T09:54:07.508Z"
 status: "active"
 ---
 

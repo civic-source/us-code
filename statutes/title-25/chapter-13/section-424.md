@@ -3,9 +3,9 @@ title: "Section 424 - Negotiations for cession of lands"
 usc_title: 25
 usc_section: "424"
 chapter: 13
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "25 U.S.C. § 424"
-generated_at: "2026-03-30T09:50:23.116Z"
+generated_at: "2026-03-30T09:52:45.328Z"
 status: "active"
 ---
 

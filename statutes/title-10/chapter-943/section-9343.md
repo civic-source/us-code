@@ -3,9 +3,9 @@ title: "Section 9343 - Highest grade held satisfactorily: Reserve enlisted membe
 usc_title: 10
 usc_section: "9343"
 chapter: 943
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 9343"
-generated_at: "2026-03-30T09:49:39.023Z"
+generated_at: "2026-03-30T09:52:03.520Z"
 status: "active"
 ---
 

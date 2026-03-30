@@ -3,9 +3,9 @@ title: "Section 1713 - Qualifications for Office of Delegate"
 usc_title: 48
 usc_section: "1713"
 chapter: 16
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "48 U.S.C. § 1713"
-generated_at: "2026-03-30T09:51:26.410Z"
+generated_at: "2026-03-30T09:54:51.996Z"
 status: "active"
 ---
 

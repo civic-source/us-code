@@ -3,9 +3,9 @@ title: "Section 959 - Study of coordination of Federal and State activities; rep
 usc_title: 30
 usc_section: "959"
 chapter: 22
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "30 U.S.C. § 959"
-generated_at: "2026-03-30T09:50:30.053Z"
+generated_at: "2026-03-30T09:52:58.800Z"
 status: "active"
 ---
 

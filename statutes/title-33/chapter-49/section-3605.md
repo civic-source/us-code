@@ -3,9 +3,9 @@ title: "Section 3605 - Application with other laws"
 usc_title: 33
 usc_section: "3605"
 chapter: 49
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "33 U.S.C. § 3605"
-generated_at: "2026-03-30T09:50:42.319Z"
+generated_at: "2026-03-30T09:53:13.096Z"
 status: "active"
 ---
 

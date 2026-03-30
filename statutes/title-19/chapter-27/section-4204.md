@@ -3,9 +3,9 @@ title: "Section 4204 - Notice, consultations, and reports"
 usc_title: 19
 usc_section: "4204"
 chapter: 27
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "19 U.S.C. § 4204"
-generated_at: "2026-03-30T09:50:18.601Z"
+generated_at: "2026-03-30T09:52:39.980Z"
 status: "active"
 ---
 

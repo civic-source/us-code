@@ -3,9 +3,9 @@ title: "Section 8601 - Findings"
 usc_title: 22
 usc_section: "8601"
 chapter: 93
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 8601"
-generated_at: "2026-03-30T09:50:26.860Z"
+generated_at: "2026-03-30T09:52:54.040Z"
 status: "active"
 ---
 

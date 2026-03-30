@@ -3,9 +3,9 @@ title: "Section 3520 - Chief Data Officers"
 usc_title: 44
 usc_section: "3520"
 chapter: 35
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "44 U.S.C. § 3520"
-generated_at: "2026-03-30T09:50:52.622Z"
+generated_at: "2026-03-30T09:54:11.646Z"
 status: "active"
 ---
 

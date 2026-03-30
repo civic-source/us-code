@@ -3,9 +3,9 @@ title: "Section 5 - Acquisition of lands"
 usc_title: 16
 usc_section: "5"
 chapter: 7
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T09:50:17.385Z"
+generated_at: "2026-03-30T09:52:28.507Z"
 status: "active"
 ---
 

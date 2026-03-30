@@ -3,9 +3,9 @@ title: "Section 1502 - Definitions"
 usc_title: 2
 usc_section: "1502"
 chapter: 25
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "2 U.S.C. § 1502"
-generated_at: "2026-03-30T09:49:04.253Z"
+generated_at: "2026-03-30T09:51:42.073Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1105 - John C. Stennis Center for Public Service Development Tru
 usc_title: 2
 usc_section: "1105"
 chapter: 22
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "2 U.S.C. § 1105"
-generated_at: "2026-03-30T09:49:04.248Z"
+generated_at: "2026-03-30T09:51:42.068Z"
 status: "active"
 ---
 

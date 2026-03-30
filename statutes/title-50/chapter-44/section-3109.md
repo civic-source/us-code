@@ -3,9 +3,9 @@ title: "Section 3109 - Significant interpretations of law concerning intelligenc
 usc_title: 50
 usc_section: "3109"
 chapter: 44
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "50 U.S.C. § 3109"
-generated_at: "2026-03-30T09:51:27.804Z"
+generated_at: "2026-03-30T09:55:05.972Z"
 status: "active"
 ---
 

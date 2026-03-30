@@ -3,9 +3,9 @@ title: "Section 4332 - Agreement for National Technical Institute for the Deaf"
 usc_title: 20
 usc_section: "4332"
 chapter: 55
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "20 U.S.C. § 4332"
-generated_at: "2026-03-30T09:50:09.880Z"
+generated_at: "2026-03-30T09:52:23.830Z"
 status: "active"
 ---
 

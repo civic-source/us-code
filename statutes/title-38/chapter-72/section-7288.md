@@ -3,9 +3,9 @@ title: "Section 7288 - Annual report"
 usc_title: 38
 usc_section: "7288"
 chapter: 72
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "38 U.S.C. § 7288"
-generated_at: "2026-03-30T09:50:50.853Z"
+generated_at: "2026-03-30T09:53:58.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6006 - Policy toward a transitional Cuban Government"
 usc_title: 22
 usc_section: "6006"
 chapter: 69
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 6006"
-generated_at: "2026-03-30T09:50:26.832Z"
+generated_at: "2026-03-30T09:52:54.009Z"
 status: "active"
 ---
 

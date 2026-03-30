@@ -3,9 +3,9 @@ title: "Section 2247 - Documentary evidence"
 usc_title: 28
 usc_section: "2247"
 chapter: 153
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "28 U.S.C. § 2247"
-generated_at: "2026-03-30T09:50:29.755Z"
+generated_at: "2026-03-30T09:52:59.592Z"
 status: "active"
 ---
 

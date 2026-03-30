@@ -3,9 +3,9 @@ title: "Section 1756 - Lack of effect on covenant"
 usc_title: 48
 usc_section: "1756"
 chapter: 16
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "48 U.S.C. § 1756"
-generated_at: "2026-03-30T09:51:26.410Z"
+generated_at: "2026-03-30T09:54:51.996Z"
 status: "active"
 ---
 

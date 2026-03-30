@@ -3,9 +3,9 @@ title: "Section 1018a - Procurement flexibility"
 usc_title: 20
 usc_section: "1018a"
 chapter: 28
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "20 U.S.C. § 1018a"
-generated_at: "2026-03-30T09:50:09.799Z"
+generated_at: "2026-03-30T09:52:23.754Z"
 status: "active"
 ---
 

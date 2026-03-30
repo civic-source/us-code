@@ -3,9 +3,9 @@ title: "Section 5311 - Detention of containers"
 usc_title: 26
 usc_section: "5311"
 chapter: 51
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 5311"
-generated_at: "2026-03-30T09:50:37.805Z"
+generated_at: "2026-03-30T09:53:09.313Z"
 status: "active"
 ---
 

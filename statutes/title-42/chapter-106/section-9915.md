@@ -3,9 +3,9 @@ title: "Section 9915 - Corrective action; termination and reduction of funding"
 usc_title: 42
 usc_section: "9915"
 chapter: 106
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 9915"
-generated_at: "2026-03-30T09:51:17.137Z"
+generated_at: "2026-03-30T09:54:48.569Z"
 status: "active"
 ---
 

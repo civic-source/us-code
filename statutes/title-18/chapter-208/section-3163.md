@@ -3,9 +3,9 @@ title: "Section 3163 - Effective dates"
 usc_title: 18
 usc_section: "3163"
 chapter: 208
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "18 U.S.C. § 3163"
-generated_at: "2026-03-30T09:50:08.003Z"
+generated_at: "2026-03-30T09:52:21.874Z"
 status: "active"
 ---
 

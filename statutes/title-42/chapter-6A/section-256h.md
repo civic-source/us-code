@@ -3,9 +3,9 @@ title: "Section 256h - Program of payments to teaching health centers that opera
 usc_title: 42
 usc_section: "256h"
 chapter: 6
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-30T09:51:16.610Z"
+generated_at: "2026-03-30T09:54:48.062Z"
 status: "active"
 ---
 

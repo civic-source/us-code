@@ -3,9 +3,9 @@ title: "Section 220507 - Restrictions"
 usc_title: 36
 usc_section: "220507"
 chapter: 2205
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "36 U.S.C. § 220507"
-generated_at: "2026-03-30T09:50:45.221Z"
+generated_at: "2026-03-30T09:53:37.401Z"
 status: "active"
 ---
 
@@ -13,3 +13,11 @@ status: "active"
 
 - **(a)** The corporation may not engage in business for profit or issue stock.
 - **(b)** The corporation shall be nonpolitical and may not promote the candidacy of an individual seeking public office.
+- **(c)** The corporation shall develop 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the corporation from assisting a member or former member in obtaining a new job (except the routine transmission of administrative and personnel files) if the individual knows that such member or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law.
+- **(d)** The corporation shall establish a policy—
+  - **(1)** not to disperse bonus or severance pay to any individual named as a subject of an ethics investigation by the ethics committee of the corporation, until such individual is cleared of wrongdoing by such investigation; and
+  - **(2)** that provides that—
+    - **(A)** if the ethics committee determines that an individual has violated the policies of the corporation—
+      - **(i)** the individual is no longer entitled to bonus or severance pay previously withheld; and
+      - **(ii)** the compensation committee of the corporation may reduce or cancel the withheld bonus or severance pay; and
+    - **(B)** in the case of an individual who is the subject of a criminal investigation, the ethics committee shall investigate the individual.

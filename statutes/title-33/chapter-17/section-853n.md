@@ -3,9 +3,9 @@ title: "Section 853n - Repealed. Oct. 12, 1949, ch. 681 , title V, § 531(b)(41)
 usc_title: 33
 usc_section: "853n"
 chapter: 17
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "33 U.S.C. § 853n"
-generated_at: "2026-03-30T09:50:42.261Z"
+generated_at: "2026-03-30T09:53:13.042Z"
 status: "repealed"
 ---
 

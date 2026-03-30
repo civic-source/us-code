@@ -3,9 +3,9 @@ title: "Section 2 - Revolving fund for qualified contract guarantees; investment
 usc_title: 15
 usc_section: "2"
 chapter: 14
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T09:49:57.257Z"
+generated_at: "2026-03-30T09:52:11.242Z"
 status: "active"
 ---
 

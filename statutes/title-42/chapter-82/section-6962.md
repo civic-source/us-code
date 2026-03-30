@@ -3,9 +3,9 @@ title: "Section 6962 - Federal procurement"
 usc_title: 42
 usc_section: "6962"
 chapter: 82
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 6962"
-generated_at: "2026-03-30T09:51:17.053Z"
+generated_at: "2026-03-30T09:54:48.488Z"
 status: "active"
 ---
 

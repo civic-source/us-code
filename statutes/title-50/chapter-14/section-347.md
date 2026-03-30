@@ -3,9 +3,9 @@ title: "Section 347 - Repealed. Apr. 19, 1946, ch. 142 , 60 Stat. 96"
 usc_title: 50
 usc_section: "347"
 chapter: 14
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "50 U.S.C. § 347"
-generated_at: "2026-03-30T09:51:27.767Z"
+generated_at: "2026-03-30T09:55:05.934Z"
 status: "repealed"
 ---
 

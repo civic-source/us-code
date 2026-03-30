@@ -3,9 +3,9 @@ title: "Section 347b - Contravention of State laws"
 usc_title: 21
 usc_section: "347b"
 chapter: 9
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "21 U.S.C. § 347b"
-generated_at: "2026-03-30T09:50:24.399Z"
+generated_at: "2026-03-30T09:52:43.801Z"
 status: "active"
 ---
 

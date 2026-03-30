@@ -3,9 +3,9 @@ title: "Section 1455b - Protecting coastal waters"
 usc_title: 16
 usc_section: "1455b"
 chapter: 33
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 1455b"
-generated_at: "2026-03-30T09:50:17.432Z"
+generated_at: "2026-03-30T09:52:28.556Z"
 status: "active"
 ---
 

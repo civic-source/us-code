@@ -3,9 +3,9 @@ title: "Section 5515 - Crediting amounts received for jury or witness service"
 usc_title: 5
 usc_section: "5515"
 chapter: 55
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "5 U.S.C. § 5515"
-generated_at: "2026-03-30T09:49:19.882Z"
+generated_at: "2026-03-30T09:51:43.754Z"
 status: "active"
 ---
 

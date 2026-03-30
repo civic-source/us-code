@@ -3,9 +3,9 @@ title: "Section 66 - Repealed. Pub. L. 93–344, title V, § 505(1) , July 12, 1
 usc_title: 2
 usc_section: "66"
 chapter: 4
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "2 U.S.C. § 66"
-generated_at: "2026-03-30T09:49:04.229Z"
+generated_at: "2026-03-30T09:51:42.047Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9802 - “Community development corporation” defined"
 usc_title: 42
 usc_section: "9802"
 chapter: 105
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 9802"
-generated_at: "2026-03-30T09:51:17.125Z"
+generated_at: "2026-03-30T09:54:48.558Z"
 status: "active"
 ---
 

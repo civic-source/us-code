@@ -3,9 +3,9 @@ title: "Section 481f - Travel and transportation allowances: transportation for 
 usc_title: 37
 usc_section: "481f"
 chapter: 8
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "37 U.S.C. § 481f"
-generated_at: "2026-03-30T09:50:45.536Z"
+generated_at: "2026-03-30T09:53:31.934Z"
 status: "active"
 ---
 

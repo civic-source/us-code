@@ -3,9 +3,9 @@ title: "Section 102901 - Conveyance of property and interests in property in Sys
 usc_title: 54
 usc_section: "102901"
 chapter: 1029
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "54 U.S.C. § 102901"
-generated_at: "2026-03-30T09:51:29.926Z"
+generated_at: "2026-03-30T09:55:08.201Z"
 status: "active"
 ---
 

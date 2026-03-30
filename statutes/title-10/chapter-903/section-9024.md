@@ -3,9 +3,9 @@ title: "Section 9024 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "9024"
 chapter: 903
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 9024"
-generated_at: "2026-03-30T09:49:39.022Z"
+generated_at: "2026-03-30T09:52:03.519Z"
 status: "active"
 ---
 

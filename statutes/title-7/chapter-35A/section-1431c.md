@@ -3,9 +3,9 @@ title: "Section 1431c - Enrichment and packaging of cornmeal, grits, rice, and w
 usc_title: 7
 usc_section: "1431c"
 chapter: 35
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 1431c"
-generated_at: "2026-03-30T09:49:26.115Z"
+generated_at: "2026-03-30T09:51:48.843Z"
 status: "active"
 ---
 

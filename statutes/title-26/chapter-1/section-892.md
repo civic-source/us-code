@@ -3,9 +3,9 @@ title: "Section 892 - Income of foreign governments and of international organiz
 usc_title: 26
 usc_section: "892"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 892"
-generated_at: "2026-03-30T09:50:37.737Z"
+generated_at: "2026-03-30T09:53:09.250Z"
 status: "active"
 ---
 

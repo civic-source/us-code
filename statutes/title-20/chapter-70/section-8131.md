@@ -3,9 +3,9 @@ title: "Section 8131 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8131"
 chapter: 70
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "20 U.S.C. § 8131"
-generated_at: "2026-03-30T09:50:09.918Z"
+generated_at: "2026-03-30T09:52:23.864Z"
 status: "repealed"
 ---
 

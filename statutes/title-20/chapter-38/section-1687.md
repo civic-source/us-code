@@ -3,9 +3,9 @@ title: "Section 1687 - Interpretation of “program or activity”"
 usc_title: 20
 usc_section: "1687"
 chapter: 38
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "20 U.S.C. § 1687"
-generated_at: "2026-03-30T09:50:09.867Z"
+generated_at: "2026-03-30T09:52:23.817Z"
 status: "active"
 ---
 

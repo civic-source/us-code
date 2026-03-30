@@ -3,9 +3,9 @@ title: "Section 777 - Public assistance pilot program"
 usc_title: 6
 usc_section: "777"
 chapter: 2
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "6 U.S.C. § 777"
-generated_at: "2026-03-30T09:49:33.508Z"
+generated_at: "2026-03-30T09:51:50.887Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1916 - Designation of libraries of accredited law schools as dep
 usc_title: 44
 usc_section: "1916"
 chapter: 19
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "44 U.S.C. § 1916"
-generated_at: "2026-03-30T09:50:52.616Z"
+generated_at: "2026-03-30T09:54:11.642Z"
 status: "active"
 ---
 

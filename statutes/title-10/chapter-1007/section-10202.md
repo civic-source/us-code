@@ -3,9 +3,9 @@ title: "Section 10202 - Regulations"
 usc_title: 10
 usc_section: "10202"
 chapter: 1007
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 10202"
-generated_at: "2026-03-30T09:49:39.028Z"
+generated_at: "2026-03-30T09:52:03.525Z"
 status: "active"
 ---
 

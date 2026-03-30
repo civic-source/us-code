@@ -3,9 +3,9 @@ title: "Section 3361 - Definition"
 usc_title: 7
 usc_section: "3361"
 chapter: 64
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 3361"
-generated_at: "2026-03-30T09:49:26.185Z"
+generated_at: "2026-03-30T09:51:48.912Z"
 status: "active"
 ---
 

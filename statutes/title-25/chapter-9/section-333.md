@@ -3,9 +3,9 @@ title: "Section 333 - Repealed. Pub. L. 106–462, title I, § 106(a)(1) , Nov. 
 usc_title: 25
 usc_section: "333"
 chapter: 9
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "25 U.S.C. § 333"
-generated_at: "2026-03-30T09:50:23.111Z"
+generated_at: "2026-03-30T09:52:45.323Z"
 status: "repealed"
 ---
 

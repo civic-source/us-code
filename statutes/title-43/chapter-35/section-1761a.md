@@ -3,9 +3,9 @@ title: "Section 1761a - Streamlining the Forest Service process for consideratio
 usc_title: 43
 usc_section: "1761a"
 chapter: 35
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "43 U.S.C. § 1761a"
-generated_at: "2026-03-30T09:50:53.375Z"
+generated_at: "2026-03-30T09:54:07.523Z"
 status: "active"
 ---
 

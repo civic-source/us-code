@@ -3,9 +3,9 @@ title: "Section 530D - Report on enforcement of laws"
 usc_title: 28
 usc_section: "530D"
 chapter: 31
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "28 U.S.C. § 530D"
-generated_at: "2026-03-30T09:50:29.740Z"
+generated_at: "2026-03-30T09:52:59.577Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1073 - Effects of adequate non-Federal programs"
 usc_title: 20
 usc_section: "1073"
 chapter: 28
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "20 U.S.C. § 1073"
-generated_at: "2026-03-30T09:50:09.814Z"
+generated_at: "2026-03-30T09:52:23.767Z"
 status: "active"
 ---
 

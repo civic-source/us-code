@@ -3,9 +3,9 @@ title: "Section 18353 - Maintenance of the United States segment and assurance o
 usc_title: 42
 usc_section: "18353"
 chapter: 159
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 18353"
-generated_at: "2026-03-30T09:51:17.244Z"
+generated_at: "2026-03-30T09:54:48.675Z"
 status: "active"
 ---
 

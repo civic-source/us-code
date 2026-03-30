@@ -3,9 +3,9 @@ title: "Section 4128 - Enforcement by Attorney General"
 usc_title: 18
 usc_section: "4128"
 chapter: 307
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "18 U.S.C. § 4128"
-generated_at: "2026-03-30T09:50:08.015Z"
+generated_at: "2026-03-30T09:52:21.887Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3008 - Commission staff"
 usc_title: 22
 usc_section: "3008"
 chapter: 45
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 3008"
-generated_at: "2026-03-30T09:50:26.804Z"
+generated_at: "2026-03-30T09:52:53.928Z"
 status: "active"
 ---
 

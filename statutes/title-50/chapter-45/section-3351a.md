@@ -3,9 +3,9 @@ title: "Section 3351a - Making certain policies and execution plans relating to 
 usc_title: 50
 usc_section: "3351a"
 chapter: 45
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "50 U.S.C. § 3351a"
-generated_at: "2026-03-30T09:51:27.811Z"
+generated_at: "2026-03-30T09:55:05.979Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1055 - Redeemable ground rents"
 usc_title: 26
 usc_section: "1055"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "26 U.S.C. § 1055"
-generated_at: "2026-03-30T09:50:37.750Z"
+generated_at: "2026-03-30T09:53:09.262Z"
 status: "active"
 ---
 

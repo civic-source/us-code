@@ -3,9 +3,9 @@ title: "Section 5331 - Mitigation of risks to financial stability"
 usc_title: 12
 usc_section: "5331"
 chapter: 53
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "12 U.S.C. § 5331"
-generated_at: "2026-03-30T09:50:03.264Z"
+generated_at: "2026-03-30T09:52:13.103Z"
 status: "active"
 ---
 

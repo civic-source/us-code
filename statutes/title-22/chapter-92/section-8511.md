@@ -3,9 +3,9 @@ title: "Section 8511 - Definitions"
 usc_title: 22
 usc_section: "8511"
 chapter: 92
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 8511"
-generated_at: "2026-03-30T09:50:26.858Z"
+generated_at: "2026-03-30T09:52:54.038Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 213 - Valuation of property of carrier"
 usc_title: 47
 usc_section: "213"
 chapter: 5
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "47 U.S.C. § 213"
-generated_at: "2026-03-30T09:51:23.073Z"
+generated_at: "2026-03-30T09:54:53.151Z"
 status: "active"
 ---
 

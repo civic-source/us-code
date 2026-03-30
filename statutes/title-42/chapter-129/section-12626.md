@@ -3,9 +3,9 @@ title: "Section 12626 - Definitions"
 usc_title: 42
 usc_section: "12626"
 chapter: 129
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 12626"
-generated_at: "2026-03-30T09:51:17.175Z"
+generated_at: "2026-03-30T09:54:48.605Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 407 - Renumbered § 477]"
 usc_title: 37
 usc_section: "407"
 chapter: 7
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "37 U.S.C. § 407"
-generated_at: "2026-03-30T09:50:45.532Z"
+generated_at: "2026-03-30T09:53:31.932Z"
 status: "renumbered"
 ---
 

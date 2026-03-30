@@ -3,9 +3,9 @@ title: "Section 16352 - Cost sharing"
 usc_title: 42
 usc_section: "16352"
 chapter: 149
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 16352"
-generated_at: "2026-03-30T09:51:17.220Z"
+generated_at: "2026-03-30T09:54:48.650Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60i - Repealed. Pub. L. 87–730, § 106(c) , Oct. 2, 1962 , 76 
 usc_title: 2
 usc_section: "60i"
 chapter: 4
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "2 U.S.C. § 60i"
-generated_at: "2026-03-30T09:49:04.229Z"
+generated_at: "2026-03-30T09:51:42.047Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 200501 - Definitions"
 usc_title: 54
 usc_section: "200501"
 chapter: 2005
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "54 U.S.C. § 200501"
-generated_at: "2026-03-30T09:51:29.928Z"
+generated_at: "2026-03-30T09:55:08.203Z"
 status: "active"
 ---
 

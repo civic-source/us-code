@@ -3,9 +3,9 @@ title: "Section 1431f - Assistance to foreign countries to mitigate effects of H
 usc_title: 7
 usc_section: "1431f"
 chapter: 35
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 1431f"
-generated_at: "2026-03-30T09:49:26.115Z"
+generated_at: "2026-03-30T09:51:48.843Z"
 status: "active"
 ---
 

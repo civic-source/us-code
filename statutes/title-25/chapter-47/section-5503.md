@@ -3,9 +3,9 @@ title: "Section 5503 - Submarginal lands of United States held in trust for Stoc
 usc_title: 25
 usc_section: "5503"
 chapter: 47
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "25 U.S.C. § 5503"
-generated_at: "2026-03-30T09:50:23.173Z"
+generated_at: "2026-03-30T09:52:45.384Z"
 status: "active"
 ---
 

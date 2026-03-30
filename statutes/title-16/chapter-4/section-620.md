@@ -3,9 +3,9 @@ title: "Section 620 - Findings and purposes"
 usc_title: 16
 usc_section: "620"
 chapter: 4
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 620"
-generated_at: "2026-03-30T09:50:17.374Z"
+generated_at: "2026-03-30T09:52:28.495Z"
 status: "active"
 ---
 

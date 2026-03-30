@@ -3,9 +3,9 @@ title: "Section 10005 - State applications"
 usc_title: 20
 usc_section: "10005"
 chapter: 80
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "20 U.S.C. § 10005"
-generated_at: "2026-03-30T09:50:09.927Z"
+generated_at: "2026-03-30T09:52:23.874Z"
 status: "active"
 ---
 

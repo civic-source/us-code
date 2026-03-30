@@ -3,9 +3,9 @@ title: "Section 10111 - Consolidation of financial management systems of Office 
 usc_title: 34
 usc_section: "10111"
 chapter: 101
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "34 U.S.C. § 10111"
-generated_at: "2026-03-30T09:50:40.676Z"
+generated_at: "2026-03-30T09:53:29.963Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2410e - Repealed. Pub. L. 103–355, title II, § 2301(b) , Oct.
 usc_title: 10
 usc_section: "2410e"
 chapter: 141
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 2410e"
-generated_at: "2026-03-30T09:49:38.979Z"
+generated_at: "2026-03-30T09:52:03.478Z"
 status: "repealed"
 ---
 

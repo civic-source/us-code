@@ -3,9 +3,9 @@ title: "Section 301 - Voluntary cases"
 usc_title: 11
 usc_section: "301"
 chapter: 3
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "11 U.S.C. § 301"
-generated_at: "2026-03-30T09:49:45.774Z"
+generated_at: "2026-03-30T09:52:17.429Z"
 status: "active"
 ---
 

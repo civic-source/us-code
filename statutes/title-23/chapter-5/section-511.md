@@ -3,9 +3,9 @@ title: "Section 511 - Multistate corridor operations and management"
 usc_title: 23
 usc_section: "511"
 chapter: 5
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "23 U.S.C. § 511"
-generated_at: "2026-03-30T09:50:23.629Z"
+generated_at: "2026-03-30T09:52:42.674Z"
 status: "active"
 ---
 

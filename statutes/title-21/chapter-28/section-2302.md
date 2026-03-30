@@ -3,9 +3,9 @@ title: "Section 2302 - Definitions"
 usc_title: 21
 usc_section: "2302"
 chapter: 28
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "21 U.S.C. § 2302"
-generated_at: "2026-03-30T09:50:24.471Z"
+generated_at: "2026-03-30T09:52:43.873Z"
 status: "active"
 ---
 

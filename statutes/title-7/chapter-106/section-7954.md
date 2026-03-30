@@ -3,9 +3,9 @@ title: "Section 7954 - Availability of counter-cyclical payments for peanuts"
 usc_title: 7
 usc_section: "7954"
 chapter: 106
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 7954"
-generated_at: "2026-03-30T09:49:26.234Z"
+generated_at: "2026-03-30T09:51:48.961Z"
 status: "active"
 ---
 

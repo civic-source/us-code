@@ -3,9 +3,9 @@ title: "Section 670 - Surrender to United States of right to regulate debris of 
 usc_title: 33
 usc_section: "670"
 chapter: 14
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "33 U.S.C. § 670"
-generated_at: "2026-03-30T09:50:42.255Z"
+generated_at: "2026-03-30T09:53:13.037Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 104 - Land exchange, Lowther (Clemens) Ranch"
 usc_title: 16
 usc_section: "104"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 104"
-generated_at: "2026-03-30T09:50:17.347Z"
+generated_at: "2026-03-30T09:52:28.468Z"
 status: "active"
 ---
 

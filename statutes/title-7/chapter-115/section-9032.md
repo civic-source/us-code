@@ -3,9 +3,9 @@ title: "Section 9032 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "9032"
 chapter: 115
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 9032"
-generated_at: "2026-03-30T09:49:26.248Z"
+generated_at: "2026-03-30T09:51:48.975Z"
 status: "active"
 ---
 

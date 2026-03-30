@@ -3,9 +3,9 @@ title: "Section 7 - Repealed. Pub. L. 115–334, title V, § 5411(51) , Dec. 20,
 usc_title: 12
 usc_section: "7"
 chapter: 23
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-30T09:50:03.226Z"
+generated_at: "2026-03-30T09:52:13.064Z"
 status: "repealed"
 ---
 

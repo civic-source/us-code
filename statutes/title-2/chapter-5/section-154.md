@@ -3,9 +3,9 @@ title: "Section 154 - Library of Congress Trust Fund Board; members; quorum; sea
 usc_title: 2
 usc_section: "154"
 chapter: 5
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "2 U.S.C. § 154"
-generated_at: "2026-03-30T09:49:04.231Z"
+generated_at: "2026-03-30T09:51:42.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1715q - Delivery of statement of appraisal or estimates to home 
 usc_title: 12
 usc_section: "1715q"
 chapter: 13
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "12 U.S.C. § 1715q"
-generated_at: "2026-03-30T09:50:03.165Z"
+generated_at: "2026-03-30T09:52:13.001Z"
 status: "active"
 ---
 

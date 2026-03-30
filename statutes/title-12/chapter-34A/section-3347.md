@@ -3,9 +3,9 @@ title: "Section 3347 - Monitoring of State appraiser certifying and licensing ag
 usc_title: 12
 usc_section: "3347"
 chapter: 34
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "12 U.S.C. § 3347"
-generated_at: "2026-03-30T09:50:03.233Z"
+generated_at: "2026-03-30T09:52:13.072Z"
 status: "active"
 ---
 

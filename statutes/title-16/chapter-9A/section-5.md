@@ -3,9 +3,9 @@ title: "Section 5 - Establishment of fish hatchery at Paint Bank, Virginia"
 usc_title: 16
 usc_section: "5"
 chapter: 9
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T09:50:17.389Z"
+generated_at: "2026-03-30T09:52:28.511Z"
 status: "active"
 ---
 

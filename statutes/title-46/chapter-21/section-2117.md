@@ -3,9 +3,9 @@ title: "Section 2117 - Termination for unsafe operation"
 usc_title: 46
 usc_section: "2117"
 chapter: 21
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "46 U.S.C. § 2117"
-generated_at: "2026-03-30T09:51:25.872Z"
+generated_at: "2026-03-30T09:54:55.881Z"
 status: "active"
 ---
 

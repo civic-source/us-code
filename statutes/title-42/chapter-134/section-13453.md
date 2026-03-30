@@ -3,9 +3,9 @@ title: "Section 13453 - Pulp and paper"
 usc_title: 42
 usc_section: "13453"
 chapter: 134
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 13453"
-generated_at: "2026-03-30T09:51:17.195Z"
+generated_at: "2026-03-30T09:54:48.624Z"
 status: "active"
 ---
 

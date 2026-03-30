@@ -3,9 +3,9 @@ title: "Section 286ee - International cooperation"
 usc_title: 22
 usc_section: "286ee"
 chapter: 7
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "22 U.S.C. § 286ee"
-generated_at: "2026-03-30T09:50:26.747Z"
+generated_at: "2026-03-30T09:52:53.869Z"
 status: "active"
 ---
 

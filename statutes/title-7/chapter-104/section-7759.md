@@ -3,9 +3,9 @@ title: "Section 7759 - Fees for inspection of plants for exporting or transiting
 usc_title: 7
 usc_section: "7759"
 chapter: 104
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 7759"
-generated_at: "2026-03-30T09:49:26.230Z"
+generated_at: "2026-03-30T09:51:48.957Z"
 status: "active"
 ---
 

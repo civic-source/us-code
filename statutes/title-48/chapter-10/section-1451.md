@@ -3,9 +3,9 @@ title: "Section 1451 - Rights of Indians not impaired; boundaries"
 usc_title: 48
 usc_section: "1451"
 chapter: 10
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "48 U.S.C. § 1451"
-generated_at: "2026-03-30T09:51:26.405Z"
+generated_at: "2026-03-30T09:54:51.991Z"
 status: "active"
 ---
 

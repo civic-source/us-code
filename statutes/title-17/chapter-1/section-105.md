@@ -3,9 +3,9 @@ title: "Section 105 - Subject matter of copyright: United States Government work
 usc_title: 17
 usc_section: "105"
 chapter: 1
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "17 U.S.C. § 105"
-generated_at: "2026-03-30T09:50:10.425Z"
+generated_at: "2026-03-30T09:52:26.127Z"
 status: "active"
 ---
 

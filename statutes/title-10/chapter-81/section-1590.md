@@ -3,9 +3,9 @@ title: "Section 1590 - Repealed. Pub. L. 104–201, div. A, title XVI, § 1633(a
 usc_title: 10
 usc_section: "1590"
 chapter: 81
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "10 U.S.C. § 1590"
-generated_at: "2026-03-30T09:49:38.950Z"
+generated_at: "2026-03-30T09:52:03.453Z"
 status: "repealed"
 ---
 

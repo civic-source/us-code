@@ -3,9 +3,9 @@ title: "Section 2036d - Pilot projects to encourage the use of public-private pa
 usc_title: 7
 usc_section: "2036d"
 chapter: 51
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "7 U.S.C. § 2036d"
-generated_at: "2026-03-30T09:49:26.164Z"
+generated_at: "2026-03-30T09:51:48.891Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 591 - Purposes"
 usc_title: 5
 usc_section: "591"
 chapter: 5
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "5 U.S.C. § 591"
-generated_at: "2026-03-30T09:49:19.862Z"
+generated_at: "2026-03-30T09:51:43.737Z"
 status: "active"
 ---
 

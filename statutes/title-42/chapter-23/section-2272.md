@@ -3,9 +3,9 @@ title: "Section 2272 - Violation of specific sections"
 usc_title: 42
 usc_section: "2272"
 chapter: 23
-current_through: "PL 116-182"
+current_through: "PL 116-193"
 classification: "42 U.S.C. § 2272"
-generated_at: "2026-03-30T09:51:16.955Z"
+generated_at: "2026-03-30T09:54:48.394Z"
 status: "active"
 ---
 
