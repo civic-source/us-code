@@ -3,9 +3,9 @@ title: "Section 9304 - Pilotage pools"
 usc_title: 46
 usc_section: "9304"
 chapter: 93
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "46 U.S.C. § 9304"
-generated_at: "2026-03-30T01:43:54.092Z"
+generated_at: "2026-03-30T01:46:29.554Z"
 ---
 
 # § 9304. Pilotage pools

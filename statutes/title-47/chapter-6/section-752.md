@@ -3,9 +3,9 @@ title: "Section 752 - Omitted"
 usc_title: 47
 usc_section: "752"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "47 U.S.C. § 752"
-generated_at: "2026-03-30T01:43:44.020Z"
+generated_at: "2026-03-30T01:46:28.658Z"
 ---
 
 # §§ 751, 752. Omitted

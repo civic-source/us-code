@@ -3,9 +3,9 @@ title: "Section 278k - Hollings Manufacturing Extension Partnership"
 usc_title: 15
 usc_section: "278k"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 278k"
-generated_at: "2026-03-30T01:42:01.151Z"
+generated_at: "2026-03-30T01:45:14.872Z"
 ---
 
 # § 278k. Hollings Manufacturing Extension Partnership

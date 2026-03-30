@@ -3,9 +3,9 @@ title: "Section 20202 - Original appointments: qualifications"
 usc_title: 10
 usc_section: "20202"
 chapter: 2005
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 20202"
-generated_at: "2026-03-30T01:41:48.683Z"
+generated_at: "2026-03-30T01:45:05.318Z"
 ---
 
 # § 20202. Original appointments: qualifications

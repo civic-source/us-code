@@ -3,9 +3,9 @@ title: "Section 9261 - Definitions"
 usc_title: 22
 usc_section: "9261"
 chapter: 99
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 9261"
-generated_at: "2026-03-30T01:42:44.639Z"
+generated_at: "2026-03-30T01:45:40.192Z"
 ---
 
 # § 9261. Definitions

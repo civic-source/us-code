@@ -3,9 +3,9 @@ title: "Section 2709 - Contribution"
 usc_title: 33
 usc_section: "2709"
 chapter: 40
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 2709"
-generated_at: "2026-03-30T01:43:03.965Z"
+generated_at: "2026-03-30T01:46:01.137Z"
 ---
 
 # § 2709. Contribution

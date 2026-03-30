@@ -3,9 +3,9 @@ title: "Section 395d - Forfeiture of property used for unlawful purposes"
 usc_title: 16
 usc_section: "395d"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 395d"
-generated_at: "2026-03-30T01:42:21.631Z"
+generated_at: "2026-03-30T01:45:26.200Z"
 ---
 
 # § 395d. Forfeiture of property used for unlawful purposes

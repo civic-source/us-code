@@ -3,9 +3,9 @@ title: "Section 7383 - Commission on Safeguards, Security, and Counterintelligen
 usc_title: 42
 usc_section: "7383"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 7383"
-generated_at: "2026-03-30T01:43:40.123Z"
+generated_at: "2026-03-30T01:46:24.830Z"
 ---
 
 # § 7383. Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities

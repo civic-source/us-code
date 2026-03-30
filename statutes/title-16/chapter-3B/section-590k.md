@@ -3,9 +3,9 @@ title: "Section 590k - Availability of funds"
 usc_title: 16
 usc_section: "590k"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 590k"
-generated_at: "2026-03-30T01:42:21.733Z"
+generated_at: "2026-03-30T01:45:26.293Z"
 ---
 
 # § 590k. Availability of funds

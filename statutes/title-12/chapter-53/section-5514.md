@@ -3,9 +3,9 @@ title: "Section 5514 - Supervision of nondepository covered persons"
 usc_title: 12
 usc_section: "5514"
 chapter: 53
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 5514"
-generated_at: "2026-03-30T01:41:56.367Z"
+generated_at: "2026-03-30T01:45:12.368Z"
 ---
 
 # § 5514. Supervision of nondepository covered persons

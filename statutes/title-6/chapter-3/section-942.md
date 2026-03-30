@@ -3,9 +3,9 @@ title: "Section 942 - Post-incident resumption of trade"
 usc_title: 6
 usc_section: "942"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "6 U.S.C. § 942"
-generated_at: "2026-03-30T01:41:35.364Z"
+generated_at: "2026-03-30T01:44:52.329Z"
 ---
 
 # § 942. Post-incident resumption of trade

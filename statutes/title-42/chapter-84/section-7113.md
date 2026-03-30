@@ -3,9 +3,9 @@ title: "Section 7113 - Relationship with States"
 usc_title: 42
 usc_section: "7113"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 7113"
-generated_at: "2026-03-30T01:43:40.115Z"
+generated_at: "2026-03-30T01:46:24.822Z"
 ---
 
 # § 7113. Relationship with States

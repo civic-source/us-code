@@ -3,9 +3,9 @@ title: "Section 629h - Entitlement funding for State courts to assess and improv
 usc_title: 42
 usc_section: "629h"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 629h"
-generated_at: "2026-03-30T01:43:39.729Z"
+generated_at: "2026-03-30T01:46:24.423Z"
 ---
 
 # § 629h. Entitlement funding for State courts to assess and improve handling of proceedings relating to foster care and adoption

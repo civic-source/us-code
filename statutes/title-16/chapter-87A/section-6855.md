@@ -3,9 +3,9 @@ title: "Section 6855 - Cooperation and coordination"
 usc_title: 16
 usc_section: "6855"
 chapter: 87
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 6855"
-generated_at: "2026-03-30T01:42:21.883Z"
+generated_at: "2026-03-30T01:45:26.427Z"
 ---
 
 # § 6855. Cooperation and coordination

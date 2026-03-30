@@ -3,9 +3,9 @@ title: "Section 220543 - Records, audits, and reports"
 usc_title: 36
 usc_section: "220543"
 chapter: 2205
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 220543"
-generated_at: "2026-03-30T01:43:06.789Z"
+generated_at: "2026-03-30T01:46:03.904Z"
 ---
 
 # § 220543. Records, audits, and reports

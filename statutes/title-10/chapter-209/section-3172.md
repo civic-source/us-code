@@ -3,9 +3,9 @@ title: "Section 3172 - [Reserved]"
 usc_title: 10
 usc_section: "3172"
 chapter: 209
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 3172"
-generated_at: "2026-03-30T01:41:48.600Z"
+generated_at: "2026-03-30T01:45:05.255Z"
 ---
 
 # § 3172. [Reserved]

@@ -3,9 +3,9 @@ title: "Section 7505 - Regulations"
 usc_title: 31
 usc_section: "7505"
 chapter: 75
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "31 U.S.C. § 7505"
-generated_at: "2026-03-30T01:43:02.886Z"
+generated_at: "2026-03-30T01:45:58.864Z"
 ---
 
 # § 7505. Regulations

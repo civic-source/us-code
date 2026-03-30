@@ -3,9 +3,9 @@ title: "Section 1903 - Administration and enforcement"
 usc_title: 33
 usc_section: "1903"
 chapter: 33
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 1903"
-generated_at: "2026-03-30T01:43:03.946Z"
+generated_at: "2026-03-30T01:46:01.118Z"
 ---
 
 # § 1903. Administration and enforcement

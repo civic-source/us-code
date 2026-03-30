@@ -3,9 +3,9 @@ title: "Section 7325 - Personal property valued at $100,000 or less"
 usc_title: 26
 usc_section: "7325"
 chapter: 75
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 7325"
-generated_at: "2026-03-30T01:42:58.887Z"
+generated_at: "2026-03-30T01:45:56.130Z"
 ---
 
 # § 7325. Personal property valued at $100,000 or less

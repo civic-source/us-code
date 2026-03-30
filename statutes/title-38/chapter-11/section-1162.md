@@ -3,9 +3,9 @@ title: "Section 1162 - Clothing allowance"
 usc_title: 38
 usc_section: "1162"
 chapter: 11
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 1162"
-generated_at: "2026-03-30T01:43:08.330Z"
+generated_at: "2026-03-30T01:46:05.832Z"
 ---
 
 # § 1162. Clothing allowance

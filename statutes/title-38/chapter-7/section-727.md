@@ -3,9 +3,9 @@ title: "Section 727 - Reassignment of senior executives"
 usc_title: 38
 usc_section: "727"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 727"
-generated_at: "2026-03-30T01:43:08.328Z"
+generated_at: "2026-03-30T01:46:05.830Z"
 ---
 
 # § 727. Reassignment of senior executives

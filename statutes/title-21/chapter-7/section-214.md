@@ -3,9 +3,9 @@ title: "Section 214 - Previous laws unaffected"
 usc_title: 21
 usc_section: "214"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "21 U.S.C. § 214"
-generated_at: "2026-03-30T01:42:26.440Z"
+generated_at: "2026-03-30T01:45:30.847Z"
 ---
 
 # § 214. Previous laws unaffected

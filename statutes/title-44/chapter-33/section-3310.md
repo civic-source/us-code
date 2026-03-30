@@ -3,9 +3,9 @@ title: "Section 3310 - Disposal of records constituting menace to health, life, 
 usc_title: 44
 usc_section: "3310"
 chapter: 33
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "44 U.S.C. § 3310"
-generated_at: "2026-03-30T01:43:19.825Z"
+generated_at: "2026-03-30T01:46:08.797Z"
 ---
 
 # § 3310. Disposal of records constituting menace to health, life, or property

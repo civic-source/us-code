@@ -3,9 +3,9 @@ title: "Section 3031 - Purposes"
 usc_title: 42
 usc_section: "3031"
 chapter: 35
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 3031"
-generated_at: "2026-03-30T01:43:40.014Z"
+generated_at: "2026-03-30T01:46:24.717Z"
 ---
 
 # § 3031. Purposes

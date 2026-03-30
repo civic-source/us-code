@@ -3,9 +3,9 @@ title: "Section 583d - Notice; registered mail and publication; costs; contents;
 usc_title: 16
 usc_section: "583d"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 583d"
-generated_at: "2026-03-30T01:42:21.732Z"
+generated_at: "2026-03-30T01:45:26.291Z"
 ---
 
 # § 583d. Notice; registered mail and publication; costs; contents; request for hearing; time; determination and record available for inspection

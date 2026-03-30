@@ -3,9 +3,9 @@ title: "Section 237 - Standard barrels for lime"
 usc_title: 15
 usc_section: "237"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 237"
-generated_at: "2026-03-30T01:42:01.146Z"
+generated_at: "2026-03-30T01:45:14.869Z"
 ---
 
 # § 237. Standard barrels for lime

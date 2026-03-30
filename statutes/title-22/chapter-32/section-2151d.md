@@ -3,9 +3,9 @@ title: "Section 2151d - Development of indigenous energy resources"
 usc_title: 22
 usc_section: "2151d"
 chapter: 32
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 2151d"
-generated_at: "2026-03-30T01:42:44.516Z"
+generated_at: "2026-03-30T01:45:40.072Z"
 ---
 
 # § 2151d. Development of indigenous energy resources

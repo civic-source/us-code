@@ -3,9 +3,9 @@ title: "Section 1723 - Rewards"
 usc_title: 30
 usc_section: "1723"
 chapter: 29
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "30 U.S.C. § 1723"
-generated_at: "2026-03-30T01:42:47.718Z"
+generated_at: "2026-03-30T01:45:44.628Z"
 ---
 
 # § 1723. Rewards

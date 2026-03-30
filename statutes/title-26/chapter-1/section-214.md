@@ -3,9 +3,9 @@ title: "Section 214 - Repealed. Pub. L. 94–455, title V, § 504(b)(1) , Oct. 4
 usc_title: 26
 usc_section: "214"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 214"
-generated_at: "2026-03-30T01:42:58.675Z"
+generated_at: "2026-03-30T01:45:55.934Z"
 ---
 
 # [§ 214. Repealed. Pub. L. 94–455, title V, § 504(b)(1) , Oct. 4, 1976 , 90 Stat. 1565 ]

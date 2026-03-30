@@ -3,9 +3,9 @@ title: "Section 1193a - Preemption of State anti-garnishment laws"
 usc_title: 29
 usc_section: "1193a"
 chapter: 18
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "29 U.S.C. § 1193a"
-generated_at: "2026-03-30T01:42:49.927Z"
+generated_at: "2026-03-30T01:45:44.243Z"
 ---
 
 # § 1193a. Preemption of State anti-garnishment laws

@@ -3,9 +3,9 @@ title: "Section 7302 - Establishment of the Diplomatic Telecommunications Servic
 usc_title: 22
 usc_section: "7302"
 chapter: 80
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 7302"
-generated_at: "2026-03-30T01:42:44.614Z"
+generated_at: "2026-03-30T01:45:40.167Z"
 ---
 
 # § 7302. Establishment of the Diplomatic Telecommunications Service Governance Board

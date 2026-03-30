@@ -3,9 +3,9 @@ title: "Section 2671 - Definitions"
 usc_title: 28
 usc_section: "2671"
 chapter: 171
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "28 U.S.C. § 2671"
-generated_at: "2026-03-30T01:42:48.693Z"
+generated_at: "2026-03-30T01:45:50.244Z"
 ---
 
 # § 2671. Definitions

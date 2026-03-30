@@ -3,9 +3,9 @@ title: "Section 5907a - Small grant program"
 usc_title: 42
 usc_section: "5907a"
 chapter: 74
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 5907a"
-generated_at: "2026-03-30T01:43:40.075Z"
+generated_at: "2026-03-30T01:46:24.779Z"
 ---
 
 # § 5907a. Small grant program

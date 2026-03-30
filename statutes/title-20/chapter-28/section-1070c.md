@@ -3,9 +3,9 @@ title: "Section 1070c - Purpose; appropriations authorized"
 usc_title: 20
 usc_section: "1070c"
 chapter: 28
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 1070c"
-generated_at: "2026-03-30T01:42:15.419Z"
+generated_at: "2026-03-30T01:45:22.428Z"
 ---
 
 # § 1070c. Purpose; appropriations authorized

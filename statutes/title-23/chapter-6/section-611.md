@@ -3,9 +3,9 @@ title: "Section 611 - Asset concessions and innovative finance assistance"
 usc_title: 23
 usc_section: "611"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "23 U.S.C. § 611"
-generated_at: "2026-03-30T01:42:25.098Z"
+generated_at: "2026-03-30T01:45:29.377Z"
 ---
 
 # § 611. Asset concessions and innovative finance assistance

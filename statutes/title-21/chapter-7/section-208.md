@@ -3,9 +3,9 @@ title: "Section 208 - Certain preparations and sales excepted"
 usc_title: 21
 usc_section: "208"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "21 U.S.C. § 208"
-generated_at: "2026-03-30T01:42:26.440Z"
+generated_at: "2026-03-30T01:45:30.846Z"
 ---
 
 # § 208. Certain preparations and sales excepted

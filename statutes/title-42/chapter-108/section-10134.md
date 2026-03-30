@@ -3,9 +3,9 @@ title: "Section 10134 - Site approval and construction authorization"
 usc_title: 42
 usc_section: "10134"
 chapter: 108
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 10134"
-generated_at: "2026-03-30T01:43:40.216Z"
+generated_at: "2026-03-30T01:46:24.919Z"
 ---
 
 # § 10134. Site approval and construction authorization

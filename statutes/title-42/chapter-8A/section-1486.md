@@ -3,9 +3,9 @@ title: "Section 1486 - Financial assistance to provide low-rent housing for dome
 usc_title: 42
 usc_section: "1486"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 1486"
-generated_at: "2026-03-30T01:43:39.939Z"
+generated_at: "2026-03-30T01:46:24.633Z"
 ---
 
 # § 1486. Financial assistance to provide low-rent housing for domestic farm labor

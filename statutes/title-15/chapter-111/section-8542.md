@@ -3,9 +3,9 @@ title: "Section 8542 - Interagency weather research and forecast innovation coor
 usc_title: 15
 usc_section: "8542"
 chapter: 111
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 8542"
-generated_at: "2026-03-30T01:42:01.351Z"
+generated_at: "2026-03-30T01:45:15.031Z"
 ---
 
 # § 8542. Interagency weather research and forecast innovation coordination

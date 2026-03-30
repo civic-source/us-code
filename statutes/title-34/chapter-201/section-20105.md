@@ -3,9 +3,9 @@ title: "Section 20105 - Compensation and assistance to victims of terrorism or m
 usc_title: 34
 usc_section: "20105"
 chapter: 201
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "34 U.S.C. § 20105"
-generated_at: "2026-03-30T01:43:01.930Z"
+generated_at: "2026-03-30T01:45:59.660Z"
 ---
 
 # § 20105. Compensation and assistance to victims of terrorism or mass violence

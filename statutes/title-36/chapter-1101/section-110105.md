@@ -3,9 +3,9 @@ title: "Section 110105 - Governing body"
 usc_title: 36
 usc_section: "110105"
 chapter: 1101
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 110105"
-generated_at: "2026-03-30T01:43:06.779Z"
+generated_at: "2026-03-30T01:46:03.893Z"
 ---
 
 # § 110105. Governing body

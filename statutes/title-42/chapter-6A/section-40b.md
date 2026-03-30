@@ -3,9 +3,9 @@ title: "Section 40b - Advisory Council; coordinating committees"
 usc_title: 42
 usc_section: "40b"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 40b"
-generated_at: "2026-03-30T01:43:39.673Z"
+generated_at: "2026-03-30T01:46:24.362Z"
 ---
 
 # § 300cc–40b. Advisory Council; coordinating committees

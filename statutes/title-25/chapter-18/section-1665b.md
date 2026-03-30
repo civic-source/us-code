@@ -3,9 +3,9 @@ title: "Section 1665b - Memoranda of agreement with the Department of the Interi
 usc_title: 25
 usc_section: "1665b"
 chapter: 18
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 1665b"
-generated_at: "2026-03-30T01:42:28.599Z"
+generated_at: "2026-03-30T01:45:36.886Z"
 ---
 
 # § 1665b. Memoranda of agreement with the Department of the Interior

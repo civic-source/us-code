@@ -3,9 +3,9 @@ title: "Section 801 - Congressional findings and purpose"
 usc_title: 20
 usc_section: "801"
 chapter: 23
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 801"
-generated_at: "2026-03-30T01:42:15.398Z"
+generated_at: "2026-03-30T01:45:22.410Z"
 ---
 
 # § 801. Congressional findings and purpose

@@ -3,9 +3,9 @@ title: "Section 306 - Assistants to Federal reserve agent"
 usc_title: 12
 usc_section: "306"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 306"
-generated_at: "2026-03-30T01:41:56.134Z"
+generated_at: "2026-03-30T01:45:12.208Z"
 ---
 
 # § 306. Assistants to Federal reserve agent

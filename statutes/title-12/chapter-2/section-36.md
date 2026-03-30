@@ -3,9 +3,9 @@ title: "Section 36 - Branch banks"
 usc_title: 12
 usc_section: "36"
 chapter: 2
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 36"
-generated_at: "2026-03-30T01:41:56.124Z"
+generated_at: "2026-03-30T01:45:12.200Z"
 ---
 
 # § 36. Branch banks

@@ -3,9 +3,9 @@ title: "Section 6963 - Composition of Task Force"
 usc_title: 22
 usc_section: "6963"
 chapter: 77
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 6963"
-generated_at: "2026-03-30T01:42:44.609Z"
+generated_at: "2026-03-30T01:45:40.163Z"
 ---
 
 # § 6963. Composition of Task Force

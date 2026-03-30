@@ -3,9 +3,9 @@ title: "Section 4 - Importation of strategic and critical ma­terials"
 usc_title: 50
 usc_section: "4"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 4"
-generated_at: "2026-03-30T01:44:03.773Z"
+generated_at: "2026-03-30T01:46:30.946Z"
 ---
 
 # § 98h–4. Importation of strategic and critical ma­terials

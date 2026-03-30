@@ -3,9 +3,9 @@ title: "Section 7113 - Formula grants to States"
 usc_title: 20
 usc_section: "7113"
 chapter: 70
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 7113"
-generated_at: "2026-03-30T01:42:15.511Z"
+generated_at: "2026-03-30T01:45:22.518Z"
 ---
 
 # § 7113. Formula grants to States

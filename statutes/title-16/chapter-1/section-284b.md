@@ -3,9 +3,9 @@ title: "Section 284b - Authorization of appropriations"
 usc_title: 16
 usc_section: "284b"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 284b"
-generated_at: "2026-03-30T01:42:21.629Z"
+generated_at: "2026-03-30T01:45:26.197Z"
 ---
 
 # § 284b. Authorization of appropriations

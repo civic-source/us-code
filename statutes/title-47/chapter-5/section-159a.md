@@ -3,9 +3,9 @@ title: "Section 159a - Provisions applicable to application and regulatory fees"
 usc_title: 47
 usc_section: "159a"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "47 U.S.C. § 159a"
-generated_at: "2026-03-30T01:43:43.986Z"
+generated_at: "2026-03-30T01:46:28.620Z"
 ---
 
 # § 159a. Provisions applicable to application and regulatory fees

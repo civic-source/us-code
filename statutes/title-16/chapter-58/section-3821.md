@@ -3,9 +3,9 @@ title: "Section 3821 - Program ineligibility"
 usc_title: 16
 usc_section: "3821"
 chapter: 58
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 3821"
-generated_at: "2026-03-30T01:42:21.851Z"
+generated_at: "2026-03-30T01:45:26.396Z"
 ---
 
 # § 3821. Program ineligibility

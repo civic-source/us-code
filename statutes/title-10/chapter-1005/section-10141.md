@@ -3,9 +3,9 @@ title: "Section 10141 - Ready Reserve; Standby Reserve; Retired Reserve: placeme
 usc_title: 10
 usc_section: "10141"
 chapter: 1005
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 10141"
-generated_at: "2026-03-30T01:41:48.664Z"
+generated_at: "2026-03-30T01:45:05.304Z"
 ---
 
 # § 10141. Ready Reserve; Standby Reserve; Retired Reserve: placement and status of members; training categories

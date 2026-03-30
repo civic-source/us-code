@@ -3,9 +3,9 @@ title: "Section 254a - Sharing of medical care facilities and resources"
 usc_title: 42
 usc_section: "254a"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 254a"
-generated_at: "2026-03-30T01:43:39.559Z"
+generated_at: "2026-03-30T01:46:24.243Z"
 ---
 
 # § 254a. Sharing of medical care facilities and resources

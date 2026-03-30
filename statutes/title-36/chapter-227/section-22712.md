@@ -3,9 +3,9 @@ title: "Section 22712 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "22712"
 chapter: 227
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 22712"
-generated_at: "2026-03-30T01:43:06.773Z"
+generated_at: "2026-03-30T01:46:03.887Z"
 ---
 
 # § 22712. Distribution of assets on dissolution or final liquidation

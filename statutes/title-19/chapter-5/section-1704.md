@@ -3,9 +3,9 @@ title: "Section 1704 - Refusal or revocation of registry, enrollment, license or
 usc_title: 19
 usc_section: "1704"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "19 U.S.C. § 1704"
-generated_at: "2026-03-30T01:42:12.506Z"
+generated_at: "2026-03-30T01:45:20.400Z"
 ---
 
 # § 1704. Refusal or revocation of registry, enrollment, license or number on evidence that vessel engaging in smuggling; appeal; immunity from liability

@@ -3,9 +3,9 @@ title: "Section 140510 - Service of process"
 usc_title: 36
 usc_section: "140510"
 chapter: 1405
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 140510"
-generated_at: "2026-03-30T01:43:06.780Z"
+generated_at: "2026-03-30T01:46:03.895Z"
 ---
 
 # § 140510. Service of process

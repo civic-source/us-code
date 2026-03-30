@@ -3,9 +3,9 @@ title: "Section 18 - Authorization of appropriations"
 usc_title: 7
 usc_section: "18"
 chapter: 50
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "7 U.S.C. § 18"
-generated_at: "2026-03-30T01:41:40.528Z"
+generated_at: "2026-03-30T01:44:55.361Z"
 ---
 
 # § 2009cc–18. Authorization of appropriations

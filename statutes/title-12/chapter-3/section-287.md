@@ -3,9 +3,9 @@ title: "Section 287 - Value of shares of stock; increase and decrease of stock; 
 usc_title: 12
 usc_section: "287"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 287"
-generated_at: "2026-03-30T01:41:56.134Z"
+generated_at: "2026-03-30T01:45:12.207Z"
 ---
 
 # § 287. Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares

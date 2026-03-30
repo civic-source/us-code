@@ -3,9 +3,9 @@ title: "Section 2182 - Multirater assessment of certain personnel"
 usc_title: 14
 usc_section: "2182"
 chapter: 21
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "14 U.S.C. § 2182"
-generated_at: "2026-03-30T01:41:51.500Z"
+generated_at: "2026-03-30T01:45:15.582Z"
 ---
 
 # § 2182. Multirater assessment of certain personnel

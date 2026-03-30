@@ -3,9 +3,9 @@ title: "Section 4225 - Exemption of articles manufactured or produced by Indians
 usc_title: 26
 usc_section: "4225"
 chapter: 32
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 4225"
-generated_at: "2026-03-30T01:42:58.818Z"
+generated_at: "2026-03-30T01:45:56.066Z"
 ---
 
 # § 4225. Exemption of articles manufactured or produced by Indians

@@ -3,9 +3,9 @@ title: "Section 4106 - Reports to Congress"
 usc_title: 16
 usc_section: "4106"
 chapter: 61
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 4106"
-generated_at: "2026-03-30T01:42:21.863Z"
+generated_at: "2026-03-30T01:45:26.408Z"
 ---
 
 # § 4106. Reports to Congress

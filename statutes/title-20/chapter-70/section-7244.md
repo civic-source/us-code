@@ -3,9 +3,9 @@ title: "Section 7244 - Uses of funds"
 usc_title: 20
 usc_section: "7244"
 chapter: 70
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 7244"
-generated_at: "2026-03-30T01:42:15.515Z"
+generated_at: "2026-03-30T01:45:22.522Z"
 ---
 
 # § 7244. Uses of funds

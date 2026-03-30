@@ -3,9 +3,9 @@ title: "Section 282l - Capital stock increase"
 usc_title: 22
 usc_section: "282l"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 282l"
-generated_at: "2026-03-30T01:42:44.485Z"
+generated_at: "2026-03-30T01:45:40.042Z"
 ---
 
 # § 282l. Capital stock increase

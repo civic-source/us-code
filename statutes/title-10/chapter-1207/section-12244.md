@@ -3,9 +3,9 @@ title: "Section 12244 - Warrant officers: discharge or retirement for years of s
 usc_title: 10
 usc_section: "12244"
 chapter: 1207
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 12244"
-generated_at: "2026-03-30T01:41:48.670Z"
+generated_at: "2026-03-30T01:45:05.309Z"
 ---
 
 # § 12244. Warrant officers: discharge or retirement for years of service or for age

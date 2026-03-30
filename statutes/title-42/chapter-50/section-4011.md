@@ -3,9 +3,9 @@ title: "Section 4011 - Authorization to establish and carry out program"
 usc_title: 42
 usc_section: "4011"
 chapter: 50
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 4011"
-generated_at: "2026-03-30T01:43:40.032Z"
+generated_at: "2026-03-30T01:46:24.735Z"
 ---
 
 # § 4011. Authorization to establish and carry out program

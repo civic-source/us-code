@@ -3,9 +3,9 @@ title: "Section 2777 - Clothing for destitute shipwrecked individuals"
 usc_title: 14
 usc_section: "2777"
 chapter: 27
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "14 U.S.C. § 2777"
-generated_at: "2026-03-30T01:41:51.503Z"
+generated_at: "2026-03-30T01:45:15.584Z"
 ---
 
 # § 2777. Clothing for destitute shipwrecked individuals

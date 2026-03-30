@@ -3,9 +3,9 @@ title: "Section 78 - Cooperation of Smithsonian Institution with State instituti
 usc_title: 20
 usc_section: "78"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 78"
-generated_at: "2026-03-30T01:42:15.390Z"
+generated_at: "2026-03-30T01:45:22.403Z"
 ---
 
 # § 78. Cooperation of Smithsonian Institution with State institutions for continuing paleontological investigations

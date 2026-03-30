@@ -3,9 +3,9 @@ title: "Section 1067a - Purpose; authority"
 usc_title: 20
 usc_section: "1067a"
 chapter: 28
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 1067a"
-generated_at: "2026-03-30T01:42:15.413Z"
+generated_at: "2026-03-30T01:45:22.423Z"
 ---
 
 # § 1067a. Purpose; authority

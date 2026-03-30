@@ -3,9 +3,9 @@ title: "Section 1474 - Availability of receipts from administrative fees for pro
 usc_title: 43
 usc_section: "1474"
 chapter: 31
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "43 U.S.C. § 1474"
-generated_at: "2026-03-30T01:43:22.605Z"
+generated_at: "2026-03-30T01:46:09.742Z"
 ---
 
 # § 1474. Availability of receipts from administrative fees for program operations in Mining Law Administration

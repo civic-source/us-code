@@ -3,9 +3,9 @@ title: "Section 960 - Limitation on issuance of temporary restraining order or p
 usc_title: 30
 usc_section: "960"
 chapter: 22
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "30 U.S.C. § 960"
-generated_at: "2026-03-30T01:42:47.699Z"
+generated_at: "2026-03-30T01:45:44.613Z"
 ---
 
 # § 960. Limitation on issuance of temporary restraining order or preliminary injunction

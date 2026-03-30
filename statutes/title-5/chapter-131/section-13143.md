@@ -3,9 +3,9 @@ title: "Section 13143 - Outside earned income limitation"
 usc_title: 5
 usc_section: "13143"
 chapter: 131
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 13143"
-generated_at: "2026-03-30T01:41:30.866Z"
+generated_at: "2026-03-30T01:44:49.000Z"
 ---
 
 # § 13143. Outside earned income limitation

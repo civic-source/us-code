@@ -3,9 +3,9 @@ title: "Section 1723 - State Digital Equity Capacity Grant Program"
 usc_title: 47
 usc_section: "1723"
 chapter: 16
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "47 U.S.C. § 1723"
-generated_at: "2026-03-30T01:43:44.037Z"
+generated_at: "2026-03-30T01:46:28.674Z"
 ---
 
 # § 1723. State Digital Equity Capacity Grant Program

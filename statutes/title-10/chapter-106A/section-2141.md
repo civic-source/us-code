@@ -3,9 +3,9 @@ title: "Section 2141 - Educational assistance program: establishment"
 usc_title: 10
 usc_section: "2141"
 chapter: 106
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 2141"
-generated_at: "2026-03-30T01:41:48.551Z"
+generated_at: "2026-03-30T01:45:05.223Z"
 ---
 
 # § 2141. Educational assistance program: establishment

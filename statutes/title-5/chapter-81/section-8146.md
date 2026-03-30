@@ -3,9 +3,9 @@ title: "Section 8146 - Administration for the Panama Canal Commission and The Al
 usc_title: 5
 usc_section: "8146"
 chapter: 81
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 8146"
-generated_at: "2026-03-30T01:41:30.839Z"
+generated_at: "2026-03-30T01:44:48.971Z"
 ---
 
 # § 8146. Administration for the Panama Canal Commission and The Alaska Railroad

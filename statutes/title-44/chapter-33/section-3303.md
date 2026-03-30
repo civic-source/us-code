@@ -3,9 +3,9 @@ title: "Section 3303 - Lists and schedules of records to be submitted to the Arc
 usc_title: 44
 usc_section: "3303"
 chapter: 33
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "44 U.S.C. § 3303"
-generated_at: "2026-03-30T01:43:19.825Z"
+generated_at: "2026-03-30T01:46:08.797Z"
 ---
 
 # § 3303. Lists and schedules of records to be submitted to the Archivist by head of each Government agency

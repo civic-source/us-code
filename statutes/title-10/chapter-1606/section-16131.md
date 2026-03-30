@@ -3,9 +3,9 @@ title: "Section 16131 - Educational assistance program: establishment; amount"
 usc_title: 10
 usc_section: "16131"
 chapter: 1606
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 16131"
-generated_at: "2026-03-30T01:41:48.678Z"
+generated_at: "2026-03-30T01:45:05.315Z"
 ---
 
 # § 16131. Educational assistance program: establishment; amount

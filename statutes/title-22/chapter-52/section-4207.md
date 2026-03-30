@@ -3,9 +3,9 @@ title: "Section 4207 - Profits from dealings with discharged seamen; prohibition
 usc_title: 22
 usc_section: "4207"
 chapter: 52
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 4207"
-generated_at: "2026-03-30T01:42:44.584Z"
+generated_at: "2026-03-30T01:45:40.138Z"
 ---
 
 # § 4207. Profits from dealings with discharged seamen; prohibition

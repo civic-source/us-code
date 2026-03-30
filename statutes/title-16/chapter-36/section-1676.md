@@ -3,9 +3,9 @@ title: "Section 1676 - Issuance of rules and regulations for implementation of p
 usc_title: 16
 usc_section: "1676"
 chapter: 36
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 1676"
-generated_at: "2026-03-30T01:42:21.816Z"
+generated_at: "2026-03-30T01:45:26.366Z"
 ---
 
 # § 1676. Issuance of rules and regulations for implementation of provisions and coordination with agricultural, research, extension, and teaching provisions

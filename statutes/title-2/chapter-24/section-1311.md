@@ -3,9 +3,9 @@ title: "Section 1311 - Rights and protections under title VII of Civil Rights Ac
 usc_title: 2
 usc_section: "1311"
 chapter: 24
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 1311"
-generated_at: "2026-03-30T01:41:28.816Z"
+generated_at: "2026-03-30T01:44:29.078Z"
 ---
 
 # § 1311. Rights and protections under title VII of Civil Rights Act of 1964, Age Discrimination in Employment Act of 1967, Rehabilitation Act of 1973, and title I of Americans with Disabilities Act of 1990

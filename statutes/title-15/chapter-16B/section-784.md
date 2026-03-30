@@ -3,9 +3,9 @@ title: "Section 784 - Exports of coal and refined petroleum products"
 usc_title: 15
 usc_section: "784"
 chapter: 16
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 784"
-generated_at: "2026-03-30T01:42:01.209Z"
+generated_at: "2026-03-30T01:45:14.919Z"
 ---
 
 # § 784. Exports of coal and refined petroleum products

@@ -3,9 +3,9 @@ title: "Section 7414 - Compliance with requirements for examining qualifications
 usc_title: 38
 usc_section: "7414"
 chapter: 74
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 7414"
-generated_at: "2026-03-30T01:43:08.386Z"
+generated_at: "2026-03-30T01:46:05.887Z"
 ---
 
 # § 7414. Compliance with requirements for examining qualifications and clinical abilities of health care professionals

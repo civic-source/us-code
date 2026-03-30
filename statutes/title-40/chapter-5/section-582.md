@@ -3,9 +3,9 @@ title: "Section 582 - Management of buildings by Administrator of General Servic
 usc_title: 40
 usc_section: "582"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "40 U.S.C. § 582"
-generated_at: "2026-03-30T01:43:06.046Z"
+generated_at: "2026-03-30T01:46:06.325Z"
 ---
 
 # § 582. Management of buildings by Administrator of General Services

@@ -3,9 +3,9 @@ title: "Section 901 - Disposal of certain material"
 usc_title: 14
 usc_section: "901"
 chapter: 9
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "14 U.S.C. § 901"
-generated_at: "2026-03-30T01:41:51.491Z"
+generated_at: "2026-03-30T01:45:15.576Z"
 ---
 
 # § 901. Disposal of certain material

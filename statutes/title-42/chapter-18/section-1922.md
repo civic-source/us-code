@@ -3,9 +3,9 @@ title: "Section 1922 - Establishment of medals for character and service; condit
 usc_title: 42
 usc_section: "1922"
 chapter: 18
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 1922"
-generated_at: "2026-03-30T01:43:39.971Z"
+generated_at: "2026-03-30T01:46:24.668Z"
 ---
 
 # § 1922. Establishment of medals for character and service; condition governing awards

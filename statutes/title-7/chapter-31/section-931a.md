@@ -3,9 +3,9 @@ title: "Section 931a - Level of loan programs under Rural Electrification and Te
 usc_title: 7
 usc_section: "931a"
 chapter: 31
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "7 U.S.C. § 931a"
-generated_at: "2026-03-30T01:41:40.470Z"
+generated_at: "2026-03-30T01:44:55.309Z"
 ---
 
 # § 931a. Level of loan programs under Rural Electrification and Telephone Revolving Fund

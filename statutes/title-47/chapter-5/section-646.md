@@ -3,9 +3,9 @@ title: "Section 646 - Other provisions"
 usc_title: 47
 usc_section: "646"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "47 U.S.C. § 646"
-generated_at: "2026-03-30T01:43:44.020Z"
+generated_at: "2026-03-30T01:46:28.658Z"
 ---
 
 # § 646. Other provisions

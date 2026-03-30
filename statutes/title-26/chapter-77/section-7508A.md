@@ -3,9 +3,9 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Fed
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-30T01:42:58.893Z"
+generated_at: "2026-03-30T01:45:56.136Z"
 ---
 
 # § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions

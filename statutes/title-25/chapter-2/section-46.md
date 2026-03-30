@@ -3,9 +3,9 @@ title: "Section 46 - Preference to Indians in employment of clerical, mechanical
 usc_title: 25
 usc_section: "46"
 chapter: 2
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 46"
-generated_at: "2026-03-30T01:42:28.572Z"
+generated_at: "2026-03-30T01:45:36.860Z"
 ---
 
 # § 46. Preference to Indians in employment of clerical, mechanical, and other help

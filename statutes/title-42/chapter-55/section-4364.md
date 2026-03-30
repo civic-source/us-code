@@ -3,9 +3,9 @@ title: "Section 4364 - Expenditure of funds for research and development related
 usc_title: 42
 usc_section: "4364"
 chapter: 55
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 4364"
-generated_at: "2026-03-30T01:43:40.040Z"
+generated_at: "2026-03-30T01:46:24.742Z"
 ---
 
 # § 4364. Expenditure of funds for research and development related to regulatory program activities

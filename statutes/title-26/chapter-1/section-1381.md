@@ -3,9 +3,9 @@ title: "Section 1381 - Organizations to which part applies"
 usc_title: 26
 usc_section: "1381"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 1381"
-generated_at: "2026-03-30T01:42:58.790Z"
+generated_at: "2026-03-30T01:45:56.039Z"
 ---
 
 # § 1381. Organizations to which part applies

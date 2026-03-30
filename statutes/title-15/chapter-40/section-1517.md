@@ -3,9 +3,9 @@ title: "Section 1517 - Transfer of statistical or scientific work"
 usc_title: 15
 usc_section: "1517"
 chapter: 40
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 1517"
-generated_at: "2026-03-30T01:42:01.227Z"
+generated_at: "2026-03-30T01:45:14.934Z"
 ---
 
 # § 1517. Transfer of statistical or scientific work

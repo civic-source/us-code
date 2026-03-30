@@ -3,9 +3,9 @@ title: "Section 1407 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1407"
 chapter: 31
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 1407"
-generated_at: "2026-03-30T01:42:21.802Z"
+generated_at: "2026-03-30T01:45:26.354Z"
 ---
 
 # § 1407. Authorization of appropriations

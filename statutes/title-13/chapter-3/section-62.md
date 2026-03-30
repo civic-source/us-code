@@ -3,9 +3,9 @@ title: "Section 62 - Additional statistics"
 usc_title: 13
 usc_section: "62"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "13 U.S.C. § 62"
-generated_at: "2026-03-30T01:41:50.959Z"
+generated_at: "2026-03-30T01:45:08.204Z"
 ---
 
 # § 62. Additional statistics

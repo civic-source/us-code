@@ -3,9 +3,9 @@ title: "Section 1112 - Authorization of Visible Intermodal Prevention and Respon
 usc_title: 6
 usc_section: "1112"
 chapter: 4
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "6 U.S.C. § 1112"
-generated_at: "2026-03-30T01:41:35.366Z"
+generated_at: "2026-03-30T01:44:52.331Z"
 ---
 
 # § 1112. Authorization of Visible Intermodal Prevention and Response teams

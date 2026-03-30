@@ -3,9 +3,9 @@ title: "Section 5354 - Grants for fighting money laundering and related financia
 usc_title: 31
 usc_section: "5354"
 chapter: 53
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "31 U.S.C. § 5354"
-generated_at: "2026-03-30T01:43:02.881Z"
+generated_at: "2026-03-30T01:45:58.859Z"
 ---
 
 # § 5354. Grants for fighting money laundering and related financial crimes

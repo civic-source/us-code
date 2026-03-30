@@ -3,9 +3,9 @@ title: "Section 2160c - Consultation with Department of Defense concerning certa
 usc_title: 42
 usc_section: "2160c"
 chapter: 23
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 2160c"
-generated_at: "2026-03-30T01:43:39.991Z"
+generated_at: "2026-03-30T01:46:24.690Z"
 ---
 
 # § 2160c. Consultation with Department of Defense concerning certain exports and subsequent arrangements

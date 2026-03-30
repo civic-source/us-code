@@ -3,9 +3,9 @@ title: "Section 467 - Certain payments for the use of property or services"
 usc_title: 26
 usc_section: "467"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 467"
-generated_at: "2026-03-30T01:42:58.726Z"
+generated_at: "2026-03-30T01:45:55.981Z"
 ---
 
 # § 467. Certain payments for the use of property or services

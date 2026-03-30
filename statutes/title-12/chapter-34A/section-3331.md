@@ -3,9 +3,9 @@ title: "Section 3331 - Purpose"
 usc_title: 12
 usc_section: "3331"
 chapter: 34
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 3331"
-generated_at: "2026-03-30T01:41:56.299Z"
+generated_at: "2026-03-30T01:45:12.320Z"
 ---
 
 # § 3331. Purpose

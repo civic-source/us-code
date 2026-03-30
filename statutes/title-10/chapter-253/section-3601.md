@@ -3,9 +3,9 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-30T01:41:48.604Z"
+generated_at: "2026-03-30T01:45:05.259Z"
 ---
 
 # § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest

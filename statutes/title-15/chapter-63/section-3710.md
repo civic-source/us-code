@@ -3,9 +3,9 @@ title: "Section 3710 - Utilization of Federal technology"
 usc_title: 15
 usc_section: "3710"
 chapter: 63
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 3710"
-generated_at: "2026-03-30T01:42:01.301Z"
+generated_at: "2026-03-30T01:45:14.991Z"
 ---
 
 # § 3710. Utilization of Federal technology

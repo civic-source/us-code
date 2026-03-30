@@ -3,9 +3,9 @@ title: "Section 408k - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "408k"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 408k"
-generated_at: "2026-03-30T01:42:21.635Z"
+generated_at: "2026-03-30T01:45:26.204Z"
 ---
 
 # § 408k. Hunting and fishing; general rules and regulations; protection of property; violation of statutes or rules; penalties

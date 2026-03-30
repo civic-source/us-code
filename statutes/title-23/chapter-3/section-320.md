@@ -3,9 +3,9 @@ title: "Section 320 - Bridges on Federal dams"
 usc_title: 23
 usc_section: "320"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "23 U.S.C. § 320"
-generated_at: "2026-03-30T01:42:25.090Z"
+generated_at: "2026-03-30T01:45:29.366Z"
 ---
 
 # § 320. Bridges on Federal dams

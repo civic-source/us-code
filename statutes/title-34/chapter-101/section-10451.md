@@ -3,9 +3,9 @@ title: "Section 10451 - Polygraph testing prohibition"
 usc_title: 34
 usc_section: "10451"
 chapter: 101
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "34 U.S.C. § 10451"
-generated_at: "2026-03-30T01:43:01.902Z"
+generated_at: "2026-03-30T01:45:59.635Z"
 ---
 
 # § 10451. Polygraph testing prohibition

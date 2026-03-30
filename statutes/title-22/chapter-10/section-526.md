@@ -3,9 +3,9 @@ title: "Section 526 - Protection of patent rights"
 usc_title: 22
 usc_section: "526"
 chapter: 10
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 526"
-generated_at: "2026-03-30T01:42:44.499Z"
+generated_at: "2026-03-30T01:45:40.055Z"
 ---
 
 # § 526. Protection of patent rights

@@ -3,9 +3,9 @@ title: "Section 1557 - Entry for warehouse"
 usc_title: 19
 usc_section: "1557"
 chapter: 4
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "19 U.S.C. § 1557"
-generated_at: "2026-03-30T01:42:12.493Z"
+generated_at: "2026-03-30T01:45:20.386Z"
 ---
 
 # § 1557. Entry for warehouse

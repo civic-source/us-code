@@ -3,9 +3,9 @@ title: "Section 1584 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(5),
 usc_title: 22
 usc_section: "1584"
 chapter: 20
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 1584"
-generated_at: "2026-03-30T01:42:44.504Z"
+generated_at: "2026-03-30T01:45:40.061Z"
 ---
 
 # §§ 1571 to 1584. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(5), (9)–(11), 68 Stat. 861

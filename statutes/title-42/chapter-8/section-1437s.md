@@ -3,9 +3,9 @@ title: "Section 1437s - Public housing homeownership and management opportunitie
 usc_title: 42
 usc_section: "1437s"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 1437s"
-generated_at: "2026-03-30T01:43:39.930Z"
+generated_at: "2026-03-30T01:46:24.623Z"
 ---
 
 # § 1437s. Public housing homeownership and management opportunities

@@ -3,9 +3,9 @@ title: "Section 1271 - Congressional declaration of policy"
 usc_title: 16
 usc_section: "1271"
 chapter: 28
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 1271"
-generated_at: "2026-03-30T01:42:21.788Z"
+generated_at: "2026-03-30T01:45:26.342Z"
 ---
 
 # § 1271. Congressional declaration of policy

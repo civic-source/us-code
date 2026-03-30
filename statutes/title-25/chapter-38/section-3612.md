@@ -3,9 +3,9 @@ title: "Section 3612 - Survey of tribal judicial systems"
 usc_title: 25
 usc_section: "3612"
 chapter: 38
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 3612"
-generated_at: "2026-03-30T01:42:28.630Z"
+generated_at: "2026-03-30T01:45:36.912Z"
 ---
 
 # § 3612. Survey of tribal judicial systems

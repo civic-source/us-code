@@ -3,9 +3,9 @@ title: "Section 1881a - Information collection"
 usc_title: 16
 usc_section: "1881a"
 chapter: 38
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 1881a"
-generated_at: "2026-03-30T01:42:21.828Z"
+generated_at: "2026-03-30T01:45:26.376Z"
 ---
 
 # § 1881a. Information collection

@@ -3,9 +3,9 @@ title: "Section 5114 - Expenses of performing and executing defense readiness mi
 usc_title: 14
 usc_section: "5114"
 chapter: 51
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "14 U.S.C. § 5114"
-generated_at: "2026-03-30T01:41:51.508Z"
+generated_at: "2026-03-30T01:45:15.587Z"
 ---
 
 # § 5114. Expenses of performing and executing defense readiness missions

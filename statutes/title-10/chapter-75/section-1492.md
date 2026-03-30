@@ -3,9 +3,9 @@ title: "Section 1492 - Authority to provide travel and transportation allowances
 usc_title: 10
 usc_section: "1492"
 chapter: 75
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 1492"
-generated_at: "2026-03-30T01:41:48.533Z"
+generated_at: "2026-03-30T01:45:05.211Z"
 ---
 
 # § 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas

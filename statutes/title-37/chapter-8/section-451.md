@@ -3,9 +3,9 @@ title: "Section 451 - Definitions"
 usc_title: 37
 usc_section: "451"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "37 U.S.C. § 451"
-generated_at: "2026-03-30T01:43:08.702Z"
+generated_at: "2026-03-30T01:46:06.637Z"
 ---
 
 # § 451. Definitions

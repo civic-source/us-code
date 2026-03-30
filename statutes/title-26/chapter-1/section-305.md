@@ -3,9 +3,9 @@ title: "Section 305 - Distributions of stock and stock rights"
 usc_title: 26
 usc_section: "305"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 305"
-generated_at: "2026-03-30T01:42:58.686Z"
+generated_at: "2026-03-30T01:45:55.944Z"
 ---
 
 # § 305. Distributions of stock and stock rights

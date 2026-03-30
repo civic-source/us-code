@@ -3,9 +3,9 @@ title: "Section 8436 - Administrative provisions"
 usc_title: 5
 usc_section: "8436"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 8436"
-generated_at: "2026-03-30T01:41:30.850Z"
+generated_at: "2026-03-30T01:44:48.983Z"
 ---
 
 # § 8436. Administrative provisions

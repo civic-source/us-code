@@ -3,9 +3,9 @@ title: "Section 9822 - Other patient protections"
 usc_title: 26
 usc_section: "9822"
 chapter: 100
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 9822"
-generated_at: "2026-03-30T01:42:58.914Z"
+generated_at: "2026-03-30T01:45:56.156Z"
 ---
 
 # § 9822. 1 1 So in original. No section 9821 has been enacted. Other patient protections

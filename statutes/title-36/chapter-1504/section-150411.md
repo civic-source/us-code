@@ -3,9 +3,9 @@ title: "Section 150411 - Records and inspection"
 usc_title: 36
 usc_section: "150411"
 chapter: 1504
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 150411"
-generated_at: "2026-03-30T01:43:06.781Z"
+generated_at: "2026-03-30T01:46:03.895Z"
 ---
 
 # § 150411. Records and inspection

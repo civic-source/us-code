@@ -3,9 +3,9 @@ title: "Section 1909 - Timing"
 usc_title: 48
 usc_section: "1909"
 chapter: 18
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "48 U.S.C. § 1909"
-generated_at: "2026-03-30T01:43:49.176Z"
+generated_at: "2026-03-30T01:46:28.091Z"
 ---
 
 # § 1909. Timing

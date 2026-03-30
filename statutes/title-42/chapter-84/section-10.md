@@ -3,9 +3,9 @@ title: "Section 10 - Administrative matters"
 usc_title: 42
 usc_section: "10"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T01:43:40.125Z"
+generated_at: "2026-03-30T01:46:24.833Z"
 ---
 
 # § 7385s–10. Administrative matters

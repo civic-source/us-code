@@ -3,9 +3,9 @@ title: "Section 51328 - Student support"
 usc_title: 46
 usc_section: "51328"
 chapter: 513
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "46 U.S.C. § 51328"
-generated_at: "2026-03-30T01:43:54.110Z"
+generated_at: "2026-03-30T01:46:29.572Z"
 ---
 
 # § 51328. Student support

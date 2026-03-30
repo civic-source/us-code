@@ -3,9 +3,9 @@ title: "Section 222 - Giving suggestions or information with intent to cause ina
 usc_title: 13
 usc_section: "222"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "13 U.S.C. § 222"
-generated_at: "2026-03-30T01:41:50.960Z"
+generated_at: "2026-03-30T01:45:08.205Z"
 ---
 
 # § 222. Giving suggestions or information with intent to cause inaccurate enumeration of population

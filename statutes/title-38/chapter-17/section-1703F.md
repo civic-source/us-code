@@ -3,9 +3,9 @@ title: "Section 1703F - Credentialing verification requirements for providers of
 usc_title: 38
 usc_section: "1703F"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 1703F"
-generated_at: "2026-03-30T01:43:08.335Z"
+generated_at: "2026-03-30T01:46:05.836Z"
 ---
 
 # § 1703F. Credentialing verification requirements for providers of non-Department health care services

@@ -3,9 +3,9 @@ title: "Section 10 - Employee to sign letters"
 usc_title: 25
 usc_section: "10"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 10"
-generated_at: "2026-03-30T01:42:28.571Z"
+generated_at: "2026-03-30T01:45:36.860Z"
 ---
 
 # § 10. Employee to sign letters

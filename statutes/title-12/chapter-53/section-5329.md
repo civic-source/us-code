@@ -3,9 +3,9 @@ title: "Section 5329 - Resolution of supervisory jurisdictional disputes among m
 usc_title: 12
 usc_section: "5329"
 chapter: 53
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 5329"
-generated_at: "2026-03-30T01:41:56.347Z"
+generated_at: "2026-03-30T01:45:12.354Z"
 ---
 
 # § 5329. Resolution of supervisory jurisdictional disputes among member agencies

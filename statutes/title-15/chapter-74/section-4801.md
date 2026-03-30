@@ -3,9 +3,9 @@ title: "Section 4801 - Findings and purpose"
 usc_title: 15
 usc_section: "4801"
 chapter: 74
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 4801"
-generated_at: "2026-03-30T01:42:01.317Z"
+generated_at: "2026-03-30T01:45:15.002Z"
 ---
 
 # § 4801. Findings and purpose

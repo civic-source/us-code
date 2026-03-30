@@ -3,9 +3,9 @@ title: "Section 151702 - Purposes"
 usc_title: 36
 usc_section: "151702"
 chapter: 1517
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 151702"
-generated_at: "2026-03-30T01:43:06.782Z"
+generated_at: "2026-03-30T01:46:03.897Z"
 ---
 
 # § 151702. Purposes

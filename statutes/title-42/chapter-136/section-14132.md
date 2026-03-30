@@ -3,9 +3,9 @@ title: "Section 14132 - Transferred"
 usc_title: 42
 usc_section: "14132"
 chapter: 136
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 14132"
-generated_at: "2026-03-30T01:43:40.290Z"
+generated_at: "2026-03-30T01:46:24.989Z"
 ---
 
 # § 14132. Transferred

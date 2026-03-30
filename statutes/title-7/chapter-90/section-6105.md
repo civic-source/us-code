@@ -3,9 +3,9 @@ title: "Section 6105 - Referenda"
 usc_title: 7
 usc_section: "6105"
 chapter: 90
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "7 U.S.C. § 6105"
-generated_at: "2026-03-30T01:41:40.584Z"
+generated_at: "2026-03-30T01:44:55.411Z"
 ---
 
 # § 6105. Referenda

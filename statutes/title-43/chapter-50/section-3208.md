@@ -3,9 +3,9 @@ title: "Section 3208 - Federal assistance for groundwater recharge, aquifer stor
 usc_title: 43
 usc_section: "3208"
 chapter: 50
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "43 U.S.C. § 3208"
-generated_at: "2026-03-30T01:43:22.631Z"
+generated_at: "2026-03-30T01:46:09.771Z"
 ---
 
 # § 3208. Federal assistance for groundwater recharge, aquifer storage, and water source substitution projects

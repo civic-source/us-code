@@ -3,9 +3,9 @@ title: "Section 3126 - Definitions"
 usc_title: 50
 usc_section: "3126"
 chapter: 44
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 3126"
-generated_at: "2026-03-30T01:44:03.820Z"
+generated_at: "2026-03-30T01:46:30.994Z"
 ---
 
 # § 3126. Definitions

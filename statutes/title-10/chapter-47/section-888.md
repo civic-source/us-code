@@ -3,9 +3,9 @@ title: "Section 888 - Art. 88. Contempt toward officials"
 usc_title: 10
 usc_section: "888"
 chapter: 47
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 888"
-generated_at: "2026-03-30T01:41:48.492Z"
+generated_at: "2026-03-30T01:45:05.180Z"
 ---
 
 # § 888. Art. 88. Contempt toward officials

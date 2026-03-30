@@ -3,9 +3,9 @@ title: "Section 209 - Attendance of witnesses"
 usc_title: 29
 usc_section: "209"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "29 U.S.C. § 209"
-generated_at: "2026-03-30T01:42:49.882Z"
+generated_at: "2026-03-30T01:45:44.200Z"
 ---
 
 # § 209. Attendance of witnesses

@@ -3,9 +3,9 @@ title: "Section 158 - Investment of proceeds of lands"
 usc_title: 25
 usc_section: "158"
 chapter: 4
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 158"
-generated_at: "2026-03-30T01:42:28.576Z"
+generated_at: "2026-03-30T01:45:36.862Z"
 ---
 
 # § 158. Investment of proceeds of lands

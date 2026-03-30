@@ -3,9 +3,9 @@ title: "Section 1845 - Repealed. Pub. L. 89–485, § 9 , July 1, 1966 , 80 Stat
 usc_title: 12
 usc_section: "1845"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 1845"
-generated_at: "2026-03-30T01:41:56.264Z"
+generated_at: "2026-03-30T01:45:12.296Z"
 ---
 
 # § 1845. Repealed. Pub. L. 89–485, § 9 , July 1, 1966 , 80 Stat. 240

@@ -3,9 +3,9 @@ title: "Section 13110 - Authority of Comptroller General"
 usc_title: 5
 usc_section: "13110"
 chapter: 131
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 13110"
-generated_at: "2026-03-30T01:41:30.865Z"
+generated_at: "2026-03-30T01:44:48.999Z"
 ---
 
 # § 13110. Authority of Comptroller General

@@ -3,9 +3,9 @@ title: "Section 10444 - Duties and functions of Director of Office on Violence A
 usc_title: 34
 usc_section: "10444"
 chapter: 101
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "34 U.S.C. § 10444"
-generated_at: "2026-03-30T01:43:01.902Z"
+generated_at: "2026-03-30T01:45:59.634Z"
 ---
 
 # § 10444. Duties and functions of Director of Office on Violence Against Women

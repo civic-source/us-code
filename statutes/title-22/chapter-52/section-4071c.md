@@ -3,9 +3,9 @@ title: "Section 4071c - Creditable service"
 usc_title: 22
 usc_section: "4071c"
 chapter: 52
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 4071c"
-generated_at: "2026-03-30T01:42:44.580Z"
+generated_at: "2026-03-30T01:45:40.133Z"
 ---
 
 # § 4071c. Creditable service

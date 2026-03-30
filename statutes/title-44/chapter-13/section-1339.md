@@ -3,9 +3,9 @@ title: "Section 1339 - Printing of the President’s Message"
 usc_title: 44
 usc_section: "1339"
 chapter: 13
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "44 U.S.C. § 1339"
-generated_at: "2026-03-30T01:43:19.821Z"
+generated_at: "2026-03-30T01:46:08.793Z"
 ---
 
 # § 1339. Printing of the President’s Message

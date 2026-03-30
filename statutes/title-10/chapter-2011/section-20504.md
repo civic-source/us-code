@@ -3,9 +3,9 @@ title: "Section 20504 - Rights and procedures"
 usc_title: 10
 usc_section: "20504"
 chapter: 2011
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 20504"
-generated_at: "2026-03-30T01:41:48.686Z"
+generated_at: "2026-03-30T01:45:05.319Z"
 ---
 
 # § 20504. Rights and procedures

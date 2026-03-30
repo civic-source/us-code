@@ -3,9 +3,9 @@ title: "Section 9704 - Liability of assigned operators"
 usc_title: 26
 usc_section: "9704"
 chapter: 99
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 9704"
-generated_at: "2026-03-30T01:42:58.909Z"
+generated_at: "2026-03-30T01:45:56.151Z"
 ---
 
 # § 9704. Liability of assigned operators

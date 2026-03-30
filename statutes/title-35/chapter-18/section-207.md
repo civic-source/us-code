@@ -3,9 +3,9 @@ title: "Section 207 - Domestic and foreign protection of federally owned inventi
 usc_title: 35
 usc_section: "207"
 chapter: 18
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "35 U.S.C. § 207"
-generated_at: "2026-03-30T01:43:00.754Z"
+generated_at: "2026-03-30T01:46:00.138Z"
 ---
 
 # § 207. Domestic and foreign protection of federally owned inventions

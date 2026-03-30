@@ -3,9 +3,9 @@ title: "Section 1520 - Repealed. Pub. L. 91–412, § 3(d) , Sept. 25, 1970 , 84
 usc_title: 15
 usc_section: "1520"
 chapter: 40
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 1520"
-generated_at: "2026-03-30T01:42:01.227Z"
+generated_at: "2026-03-30T01:45:14.934Z"
 ---
 
 # § 1520. Repealed. Pub. L. 91–412, § 3(d) , Sept. 25, 1970 , 84 Stat. 864

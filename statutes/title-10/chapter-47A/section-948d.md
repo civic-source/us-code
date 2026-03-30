@@ -3,9 +3,9 @@ title: "Section 948d - Jurisdiction of military commissions"
 usc_title: 10
 usc_section: "948d"
 chapter: 47
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 948d"
-generated_at: "2026-03-30T01:41:48.496Z"
+generated_at: "2026-03-30T01:45:05.183Z"
 ---
 
 # § 948d. Jurisdiction of military commissions

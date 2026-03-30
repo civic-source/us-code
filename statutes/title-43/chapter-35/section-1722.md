@@ -3,9 +3,9 @@ title: "Section 1722 - Sale of public lands subject to unintentional trespass"
 usc_title: 43
 usc_section: "1722"
 chapter: 35
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "43 U.S.C. § 1722"
-generated_at: "2026-03-30T01:43:22.617Z"
+generated_at: "2026-03-30T01:46:09.756Z"
 ---
 
 # § 1722. Sale of public lands subject to unintentional trespass

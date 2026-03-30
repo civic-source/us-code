@@ -3,9 +3,9 @@ title: "Section 894e - Annual report on sexual assaults in the National Oceanic 
 usc_title: 33
 usc_section: "894e"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 894e"
-generated_at: "2026-03-30T01:43:03.914Z"
+generated_at: "2026-03-30T01:46:01.086Z"
 ---
 
 # § 894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration

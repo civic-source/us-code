@@ -3,9 +3,9 @@ title: "Section 4808 - National Pork Board"
 usc_title: 7
 usc_section: "4808"
 chapter: 79
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "7 U.S.C. § 4808"
-generated_at: "2026-03-30T01:41:40.572Z"
+generated_at: "2026-03-30T01:44:55.400Z"
 ---
 
 # § 4808. National Pork Board

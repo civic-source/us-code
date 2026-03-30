@@ -3,9 +3,9 @@ title: "Section 43 - Memorandum of agreement"
 usc_title: 16
 usc_section: "43"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 43"
-generated_at: "2026-03-30T01:42:21.699Z"
+generated_at: "2026-03-30T01:45:26.264Z"
 ---
 
 # § 460lll–43. Memorandum of agreement

@@ -3,9 +3,9 @@ title: "Section 69i - Criminal penalty"
 usc_title: 15
 usc_section: "69i"
 chapter: 2
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 69i"
-generated_at: "2026-03-30T01:42:01.080Z"
+generated_at: "2026-03-30T01:45:14.822Z"
 ---
 
 # § 69i. Criminal penalty

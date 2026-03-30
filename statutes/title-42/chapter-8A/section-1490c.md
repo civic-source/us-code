@@ -3,9 +3,9 @@ title: "Section 1490c - Mutual and self-help housing"
 usc_title: 42
 usc_section: "1490c"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 1490c"
-generated_at: "2026-03-30T01:43:39.940Z"
+generated_at: "2026-03-30T01:46:24.635Z"
 ---
 
 # § 1490c. Mutual and self-help housing

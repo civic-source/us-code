@@ -3,9 +3,9 @@ title: "Section 5314 - Records and reports on foreign financial agency transacti
 usc_title: 31
 usc_section: "5314"
 chapter: 53
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "31 U.S.C. § 5314"
-generated_at: "2026-03-30T01:43:02.877Z"
+generated_at: "2026-03-30T01:45:58.854Z"
 ---
 
 # § 5314. Records and reports on foreign financial agency transactions

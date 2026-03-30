@@ -3,9 +3,9 @@ title: "Section 3978 - Regulations"
 usc_title: 50
 usc_section: "3978"
 chapter: 50
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 3978"
-generated_at: "2026-03-30T01:44:03.846Z"
+generated_at: "2026-03-30T01:46:31.021Z"
 ---
 
 # § 3978. Regulations

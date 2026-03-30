@@ -3,9 +3,9 @@ title: "Section 6599 - Use by Sergeant at Arms and Doorkeeper of Senate of indiv
 usc_title: 2
 usc_section: "6599"
 chapter: 65
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 6599"
-generated_at: "2026-03-30T01:41:28.844Z"
+generated_at: "2026-03-30T01:44:29.112Z"
 ---
 
 # § 6599. Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel

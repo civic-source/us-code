@@ -3,9 +3,9 @@ title: "Section 433 - International agreements"
 usc_title: 42
 usc_section: "433"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 433"
-generated_at: "2026-03-30T01:43:39.719Z"
+generated_at: "2026-03-30T01:46:24.412Z"
 ---
 
 # § 433. International agreements

@@ -3,9 +3,9 @@ title: "Section 150413 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "150413"
 chapter: 1504
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 150413"
-generated_at: "2026-03-30T01:43:06.781Z"
+generated_at: "2026-03-30T01:46:03.896Z"
 ---
 
 # § 150413. Liability for acts of officers and agents

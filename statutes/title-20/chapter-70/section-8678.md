@@ -3,9 +3,9 @@ title: "Section 8678 - Transferred"
 usc_title: 20
 usc_section: "8678"
 chapter: 70
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 8678"
-generated_at: "2026-03-30T01:42:15.529Z"
+generated_at: "2026-03-30T01:45:22.534Z"
 ---
 
 # §§ 8671 to 8678. Transferred

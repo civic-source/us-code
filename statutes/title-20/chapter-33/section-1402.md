@@ -3,9 +3,9 @@ title: "Section 1402 - Office of Special Education Programs"
 usc_title: 20
 usc_section: "1402"
 chapter: 33
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 1402"
-generated_at: "2026-03-30T01:42:15.466Z"
+generated_at: "2026-03-30T01:45:22.474Z"
 ---
 
 # § 1402. Office of Special Education Programs

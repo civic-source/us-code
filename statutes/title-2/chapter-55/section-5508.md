@@ -3,9 +3,9 @@ title: "Section 5508 - Account in House of Representatives for Employees’ Comp
 usc_title: 2
 usc_section: "5508"
 chapter: 55
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 5508"
-generated_at: "2026-03-30T01:41:28.840Z"
+generated_at: "2026-03-30T01:44:29.107Z"
 ---
 
 # § 5508. Account in House of Representatives for Employees’ Compensation Fund

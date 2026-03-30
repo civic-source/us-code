@@ -3,9 +3,9 @@ title: "Section 7261b - Technology transfer to small businesses"
 usc_title: 42
 usc_section: "7261b"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 7261b"
-generated_at: "2026-03-30T01:43:40.118Z"
+generated_at: "2026-03-30T01:46:24.826Z"
 ---
 
 # § 7261b. Technology transfer to small businesses

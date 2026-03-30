@@ -3,9 +3,9 @@ title: "Section 1 - Remittance transfers"
 usc_title: 15
 usc_section: "1"
 chapter: 41
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T01:42:01.254Z"
+generated_at: "2026-03-30T01:45:14.955Z"
 ---
 
 # § 1693o–1. Remittance transfers

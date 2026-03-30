@@ -3,9 +3,9 @@ title: "Section 19107 - Challenges and focus areas"
 usc_title: 42
 usc_section: "19107"
 chapter: 163
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 19107"
-generated_at: "2026-03-30T01:43:40.380Z"
+generated_at: "2026-03-30T01:46:25.079Z"
 ---
 
 # § 19107. Challenges and focus areas

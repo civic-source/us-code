@@ -3,9 +3,9 @@ title: "Section 2515 - Establishment of Center for Security Technology, Analysis
 usc_title: 50
 usc_section: "2515"
 chapter: 42
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 2515"
-generated_at: "2026-03-30T01:44:03.801Z"
+generated_at: "2026-03-30T01:46:30.975Z"
 ---
 
 # § 2515. Establishment of Center for Security Technology, Analysis, Response, and Testing

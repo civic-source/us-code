@@ -3,9 +3,9 @@ title: "Section 12323 - Active duty pending line of duty determination required 
 usc_title: 10
 usc_section: "12323"
 chapter: 1209
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 12323"
-generated_at: "2026-03-30T01:41:48.672Z"
+generated_at: "2026-03-30T01:45:05.309Z"
 ---
 
 # § 12323. Active duty pending line of duty determination required for response to sexual assault

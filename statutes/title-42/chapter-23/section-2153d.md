@@ -3,9 +3,9 @@ title: "Section 2153d - Authority to continue agreements for cooperation entered
 usc_title: 42
 usc_section: "2153d"
 chapter: 23
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 2153d"
-generated_at: "2026-03-30T01:43:39.990Z"
+generated_at: "2026-03-30T01:46:24.689Z"
 ---
 
 # § 2153d. Authority to continue agreements for cooperation entered into prior to March 10, 1978

@@ -3,9 +3,9 @@ title: "Section 19181 - Agency responsibilities"
 usc_title: 42
 usc_section: "19181"
 chapter: 163
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 19181"
-generated_at: "2026-03-30T01:43:40.383Z"
+generated_at: "2026-03-30T01:46:25.081Z"
 ---
 
 # § 19181. Agency responsibilities

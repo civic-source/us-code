@@ -3,9 +3,9 @@ title: "Section 3172 - Extension of state workers’ compensation laws to buildi
 usc_title: 40
 usc_section: "3172"
 chapter: 31
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "40 U.S.C. § 3172"
-generated_at: "2026-03-30T01:43:06.052Z"
+generated_at: "2026-03-30T01:46:06.330Z"
 ---
 
 # § 3172. Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government

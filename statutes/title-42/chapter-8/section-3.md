@@ -3,9 +3,9 @@ title: "Section 3 - Applicability of requirements under programs for covered hou
 usc_title: 42
 usc_section: "3"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T01:43:39.934Z"
+generated_at: "2026-03-30T01:46:24.628Z"
 ---
 
 # § 1437bbb–3. Applicability of requirements under programs for covered housing assistance

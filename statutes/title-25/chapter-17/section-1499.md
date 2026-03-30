@@ -3,9 +3,9 @@ title: "Section 1499 - Limitation on guarantee of debt issues; approval of bond 
 usc_title: 25
 usc_section: "1499"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 1499"
-generated_at: "2026-03-30T01:42:28.591Z"
+generated_at: "2026-03-30T01:45:36.878Z"
 ---
 
 # § 1499. Limitation on guarantee of debt issues; approval of bond issue sale

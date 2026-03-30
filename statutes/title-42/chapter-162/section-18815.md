@@ -3,9 +3,9 @@ title: "Section 18815 - Report"
 usc_title: 42
 usc_section: "18815"
 chapter: 162
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 18815"
-generated_at: "2026-03-30T01:43:40.372Z"
+generated_at: "2026-03-30T01:46:25.071Z"
 ---
 
 # § 18815. Report

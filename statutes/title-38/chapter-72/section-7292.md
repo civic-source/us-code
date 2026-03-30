@@ -3,9 +3,9 @@ title: "Section 7292 - Review by United States Court of Appeals for the Federal 
 usc_title: 38
 usc_section: "7292"
 chapter: 72
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 7292"
-generated_at: "2026-03-30T01:43:08.380Z"
+generated_at: "2026-03-30T01:46:05.882Z"
 ---
 
 # § 7292. Review by United States Court of Appeals for the Federal Circuit

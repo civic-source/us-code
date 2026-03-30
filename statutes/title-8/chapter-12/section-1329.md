@@ -3,9 +3,9 @@ title: "Section 1329 - Jurisdiction of district courts"
 usc_title: 8
 usc_section: "1329"
 chapter: 12
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "8 U.S.C. § 1329"
-generated_at: "2026-03-30T01:41:33.851Z"
+generated_at: "2026-03-30T01:45:06.363Z"
 ---
 
 # § 1329. Jurisdiction of district courts

@@ -3,9 +3,9 @@ title: "Section 159 - Award and judgment thereon; effect of chapter on individua
 usc_title: 45
 usc_section: "159"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "45 U.S.C. § 159"
-generated_at: "2026-03-30T01:43:12.463Z"
+generated_at: "2026-03-30T01:46:09.050Z"
 ---
 
 # § 159. Award and judgment thereon; effect of chapter on individual employee

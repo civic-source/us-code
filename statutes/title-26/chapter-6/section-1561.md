@@ -3,9 +3,9 @@ title: "Section 1561 - Limitation on accumulated earnings credit in the case of 
 usc_title: 26
 usc_section: "1561"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 1561"
-generated_at: "2026-03-30T01:42:58.796Z"
+generated_at: "2026-03-30T01:45:56.045Z"
 ---
 
 # § 1561. Limitation on accumulated earnings credit in the case of certain controlled corporations

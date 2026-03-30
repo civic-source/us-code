@@ -3,9 +3,9 @@ title: "Section 9408 - Report on coordination of sanctions between the United St
 usc_title: 22
 usc_section: "9408"
 chapter: 101
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 9408"
-generated_at: "2026-03-30T01:42:44.641Z"
+generated_at: "2026-03-30T01:45:40.194Z"
 ---
 
 # § 9408. Report on coordination of sanctions between the United States and the European Union

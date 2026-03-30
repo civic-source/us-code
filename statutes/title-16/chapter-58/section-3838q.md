@@ -3,9 +3,9 @@ title: "Section 3838q - Repealed. Pub. L. 113–79, title II, § 2705(a) , Feb. 
 usc_title: 16
 usc_section: "3838q"
 chapter: 58
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 3838q"
-generated_at: "2026-03-30T01:42:21.854Z"
+generated_at: "2026-03-30T01:45:26.399Z"
 ---
 
 # §§ 3838n to 3838q. Repealed. Pub. L. 113–79, title II, § 2705(a) , Feb. 7, 2014 , 128 Stat. 768

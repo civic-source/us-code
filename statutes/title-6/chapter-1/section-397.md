@@ -3,9 +3,9 @@ title: "Section 397 - Requirements to buy certain items related to national secu
 usc_title: 6
 usc_section: "397"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "6 U.S.C. § 397"
-generated_at: "2026-03-30T01:41:35.342Z"
+generated_at: "2026-03-30T01:44:52.305Z"
 ---
 
 # § 397. Requirements to buy certain items related to national security interests

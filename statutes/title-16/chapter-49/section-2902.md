@@ -3,9 +3,9 @@ title: "Section 2902 - Definitions"
 usc_title: 16
 usc_section: "2902"
 chapter: 49
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 2902"
-generated_at: "2026-03-30T01:42:21.839Z"
+generated_at: "2026-03-30T01:45:26.385Z"
 ---
 
 # § 2902. Definitions

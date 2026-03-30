@@ -3,9 +3,9 @@ title: "Section 2708 - Contracts for handling hazardous waste from defense facil
 usc_title: 10
 usc_section: "2708"
 chapter: 160
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 2708"
-generated_at: "2026-03-30T01:41:48.578Z"
+generated_at: "2026-03-30T01:45:05.244Z"
 ---
 
 # § 2708. Contracts for handling hazardous waste from defense facilities

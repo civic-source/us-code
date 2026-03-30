@@ -3,9 +3,9 @@ title: "Section 894 - Actions to address sexual harassment at National Oceanic a
 usc_title: 33
 usc_section: "894"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 894"
-generated_at: "2026-03-30T01:43:03.913Z"
+generated_at: "2026-03-30T01:46:01.086Z"
 ---
 
 # § 894. Actions to address sexual harassment at National Oceanic and Atmospheric Administration

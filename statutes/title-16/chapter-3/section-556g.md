@@ -3,9 +3,9 @@ title: "Section 556g - Reimbursement of employee license costs and certification
 usc_title: 16
 usc_section: "556g"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 556g"
-generated_at: "2026-03-30T01:42:21.727Z"
+generated_at: "2026-03-30T01:45:26.288Z"
 ---
 
 # § 556g. Reimbursement of employee license costs and certification fees

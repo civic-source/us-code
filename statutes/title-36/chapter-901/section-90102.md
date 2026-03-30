@@ -3,9 +3,9 @@ title: "Section 90102 - Purposes"
 usc_title: 36
 usc_section: "90102"
 chapter: 901
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 90102"
-generated_at: "2026-03-30T01:43:06.778Z"
+generated_at: "2026-03-30T01:46:03.893Z"
 ---
 
 # § 90102. Purposes

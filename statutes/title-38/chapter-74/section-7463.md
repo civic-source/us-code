@@ -3,9 +3,9 @@ title: "Section 7463 - Other adverse actions"
 usc_title: 38
 usc_section: "7463"
 chapter: 74
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 7463"
-generated_at: "2026-03-30T01:43:08.388Z"
+generated_at: "2026-03-30T01:46:05.890Z"
 ---
 
 # § 7463. Other adverse actions

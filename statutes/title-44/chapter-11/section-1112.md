@@ -3,9 +3,9 @@ title: "Section 1112 - Annual reports: type for reports of executive officers"
 usc_title: 44
 usc_section: "1112"
 chapter: 11
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "44 U.S.C. § 1112"
-generated_at: "2026-03-30T01:43:19.820Z"
+generated_at: "2026-03-30T01:46:08.792Z"
 ---
 
 # § 1112. Annual reports: type for reports of executive officers

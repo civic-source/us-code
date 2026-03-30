@@ -3,9 +3,9 @@ title: "Section 2932 - Committee on Earth and Environmental Sciences"
 usc_title: 15
 usc_section: "2932"
 chapter: 56
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 2932"
-generated_at: "2026-03-30T01:42:01.291Z"
+generated_at: "2026-03-30T01:45:14.983Z"
 ---
 
 # § 2932. Committee on Earth and Environmental Sciences

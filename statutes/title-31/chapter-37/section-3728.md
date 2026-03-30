@@ -3,9 +3,9 @@ title: "Section 3728 - Setoff against judgment"
 usc_title: 31
 usc_section: "3728"
 chapter: 37
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "31 U.S.C. § 3728"
-generated_at: "2026-03-30T01:43:02.870Z"
+generated_at: "2026-03-30T01:45:58.848Z"
 ---
 
 # § 3728. Setoff against judgment

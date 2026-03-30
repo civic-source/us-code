@@ -3,9 +3,9 @@ title: "Section 622 - State plans for child welfare services"
 usc_title: 42
 usc_section: "622"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 622"
-generated_at: "2026-03-30T01:43:39.727Z"
+generated_at: "2026-03-30T01:46:24.421Z"
 ---
 
 # § 622. State plans for child welfare services

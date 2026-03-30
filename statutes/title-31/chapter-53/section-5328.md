@@ -3,9 +3,9 @@ title: "Section 5328 - Repealed. Pub. L. 116–283, div. F, title LXIII, § 6314
 usc_title: 31
 usc_section: "5328"
 chapter: 53
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "31 U.S.C. § 5328"
-generated_at: "2026-03-30T01:43:02.879Z"
+generated_at: "2026-03-30T01:45:58.857Z"
 ---
 
 # [§ 5328. Repealed. Pub. L. 116–283, div. F, title LXIII, § 6314(b) , Jan. 1, 2021 , 134 Stat. 4603 ]

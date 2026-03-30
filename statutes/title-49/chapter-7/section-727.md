@@ -3,9 +3,9 @@ title: "Section 727 - Repealed. Pub. L. 114–110, § 3(a)(4) , Dec. 18, 2015 , 
 usc_title: 49
 usc_section: "727"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "49 U.S.C. § 727"
-generated_at: "2026-03-30T01:44:06.210Z"
+generated_at: "2026-03-30T01:46:33.518Z"
 ---
 
 # [§ 727. Repealed. Pub. L. 114–110, § 3(a)(4) , Dec. 18, 2015 , 129 Stat. 2228 ]

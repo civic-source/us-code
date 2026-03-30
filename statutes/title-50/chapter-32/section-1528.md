@@ -3,9 +3,9 @@ title: "Section 1528 - Congressional notification of biological select agent and
 usc_title: 50
 usc_section: "1528"
 chapter: 32
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 1528"
-generated_at: "2026-03-30T01:44:03.781Z"
+generated_at: "2026-03-30T01:46:30.954Z"
 ---
 
 # § 1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense

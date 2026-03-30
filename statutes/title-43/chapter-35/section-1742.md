@@ -3,9 +3,9 @@ title: "Section 1742 - Search, rescue, and protection forces; emergency situatio
 usc_title: 43
 usc_section: "1742"
 chapter: 35
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "43 U.S.C. § 1742"
-generated_at: "2026-03-30T01:43:22.618Z"
+generated_at: "2026-03-30T01:46:09.757Z"
 ---
 
 # § 1742. Search, rescue, and protection forces; emergency situations authorizing hiring

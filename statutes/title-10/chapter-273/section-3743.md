@@ -3,9 +3,9 @@ title: "Section 3743 - Effect of submission of unallowable costs"
 usc_title: 10
 usc_section: "3743"
 chapter: 273
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 3743"
-generated_at: "2026-03-30T01:41:48.606Z"
+generated_at: "2026-03-30T01:45:05.260Z"
 ---
 
 # § 3743. Effect of submission of unallowable costs

@@ -3,9 +3,9 @@ title: "Section 702 - Definition"
 usc_title: 36
 usc_section: "702"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 702"
-generated_at: "2026-03-30T01:43:06.770Z"
+generated_at: "2026-03-30T01:46:03.882Z"
 ---
 
 # § 702. Definition

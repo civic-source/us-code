@@ -3,9 +3,9 @@ title: "Section 7710 - Improving enforcement by providing rewards for informatio
 usc_title: 15
 usc_section: "7710"
 chapter: 103
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 7710"
-generated_at: "2026-03-30T01:42:01.344Z"
+generated_at: "2026-03-30T01:45:15.025Z"
 ---
 
 # § 7710. Improving enforcement by providing rewards for information about violations; labeling

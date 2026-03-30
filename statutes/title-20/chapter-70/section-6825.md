@@ -3,9 +3,9 @@ title: "Section 6825 - Subgrants to eligible entities"
 usc_title: 20
 usc_section: "6825"
 chapter: 70
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "20 U.S.C. § 6825"
-generated_at: "2026-03-30T01:42:15.510Z"
+generated_at: "2026-03-30T01:45:22.517Z"
 ---
 
 # § 6825. Subgrants to eligible entities

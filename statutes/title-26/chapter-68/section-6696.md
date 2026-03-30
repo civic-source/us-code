@@ -3,9 +3,9 @@ title: "Section 6696 - Rules applicable with respect to sections 6694, 6695, and
 usc_title: 26
 usc_section: "6696"
 chapter: 68
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 6696"
-generated_at: "2026-03-30T01:42:58.881Z"
+generated_at: "2026-03-30T01:45:56.125Z"
 ---
 
 # § 6696. Rules applicable with respect to sections 6694, 6695, and 6695A

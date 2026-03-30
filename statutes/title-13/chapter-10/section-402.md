@@ -3,9 +3,9 @@ title: "Section 402 - Providing business data to Designated Statistical Agencies
 usc_title: 13
 usc_section: "402"
 chapter: 10
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "13 U.S.C. § 402"
-generated_at: "2026-03-30T01:41:50.961Z"
+generated_at: "2026-03-30T01:45:08.205Z"
 ---
 
 # § 402. Providing business data to Designated Statistical Agencies

@@ -3,9 +3,9 @@ title: "Section 464 - Regulations"
 usc_title: 37
 usc_section: "464"
 chapter: 8
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "37 U.S.C. § 464"
-generated_at: "2026-03-30T01:43:08.703Z"
+generated_at: "2026-03-30T01:46:06.638Z"
 ---
 
 # § 464. Regulations

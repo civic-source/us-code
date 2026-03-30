@@ -3,9 +3,9 @@ title: "Section 621 - Congressional statement of findings and purpose"
 usc_title: 29
 usc_section: "621"
 chapter: 14
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "29 U.S.C. § 621"
-generated_at: "2026-03-30T01:42:49.887Z"
+generated_at: "2026-03-30T01:45:44.205Z"
 ---
 
 # § 621. Congressional statement of findings and purpose

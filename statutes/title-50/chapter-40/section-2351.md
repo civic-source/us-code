@@ -3,9 +3,9 @@ title: "Section 2351 - National coordinator on nonproliferation"
 usc_title: 50
 usc_section: "2351"
 chapter: 40
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 2351"
-generated_at: "2026-03-30T01:44:03.798Z"
+generated_at: "2026-03-30T01:46:30.970Z"
 ---
 
 # § 2351. National coordinator on nonproliferation

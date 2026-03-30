@@ -3,9 +3,9 @@ title: "Section 8480 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "8480"
 chapter: 853
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 8480"
-generated_at: "2026-03-30T01:41:48.641Z"
+generated_at: "2026-03-30T01:45:05.287Z"
 ---
 
 # § 8480. Policy on sexual harassment and sexual violence

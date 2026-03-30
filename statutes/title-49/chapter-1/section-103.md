@@ -3,9 +3,9 @@ title: "Section 103 - Federal Railroad Administration"
 usc_title: 49
 usc_section: "103"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "49 U.S.C. § 103"
-generated_at: "2026-03-30T01:44:06.191Z"
+generated_at: "2026-03-30T01:46:33.507Z"
 ---
 
 # § 103. Federal Railroad Administration

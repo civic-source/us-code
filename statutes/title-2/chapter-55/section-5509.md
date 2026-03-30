@@ -3,9 +3,9 @@ title: "Section 5509 - Incidental use of equipment and supplies"
 usc_title: 2
 usc_section: "5509"
 chapter: 55
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 5509"
-generated_at: "2026-03-30T01:41:28.840Z"
+generated_at: "2026-03-30T01:44:29.107Z"
 ---
 
 # § 5509. Incidental use of equipment and supplies

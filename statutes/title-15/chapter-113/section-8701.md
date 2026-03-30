@@ -3,9 +3,9 @@ title: "Section 8701 - Declaration of policy"
 usc_title: 15
 usc_section: "8701"
 chapter: 113
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 8701"
-generated_at: "2026-03-30T01:42:01.352Z"
+generated_at: "2026-03-30T01:45:15.032Z"
 ---
 
 # § 8701. Declaration of policy

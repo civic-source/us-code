@@ -3,9 +3,9 @@ title: "Section 5803 - Establishment of program"
 usc_title: 25
 usc_section: "5803"
 chapter: 50
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 5803"
-generated_at: "2026-03-30T01:42:28.649Z"
+generated_at: "2026-03-30T01:45:36.931Z"
 ---
 
 # § 5803. Establishment of program

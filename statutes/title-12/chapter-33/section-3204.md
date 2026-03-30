@@ -3,9 +3,9 @@ title: "Section 3204 - Exceptions"
 usc_title: 12
 usc_section: "3204"
 chapter: 33
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 3204"
-generated_at: "2026-03-30T01:41:56.298Z"
+generated_at: "2026-03-30T01:45:12.319Z"
 ---
 
 # § 3204. Exceptions

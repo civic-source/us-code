@@ -3,9 +3,9 @@ title: "Section 80503 - Purposes"
 usc_title: 36
 usc_section: "80503"
 chapter: 805
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 80503"
-generated_at: "2026-03-30T01:43:06.778Z"
+generated_at: "2026-03-30T01:46:03.893Z"
 ---
 
 # § 80503. Purposes

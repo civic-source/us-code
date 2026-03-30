@@ -3,9 +3,9 @@ title: "Section 20127 - Emergency and transitional pet shelter and housing assis
 usc_title: 34
 usc_section: "20127"
 chapter: 201
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "34 U.S.C. § 20127"
-generated_at: "2026-03-30T01:43:01.931Z"
+generated_at: "2026-03-30T01:45:59.662Z"
 ---
 
 # § 20127. Emergency and transitional pet shelter and housing assistance grant program

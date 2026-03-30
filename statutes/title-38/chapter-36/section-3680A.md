@@ -3,9 +3,9 @@ title: "Section 3680A - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3680A"
 chapter: 36
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 3680A"
-generated_at: "2026-03-30T01:43:08.363Z"
+generated_at: "2026-03-30T01:46:05.864Z"
 ---
 
 # § 3680A. Disapproval of enrollment in certain courses
@@ -53,10 +53,21 @@ generated_at: "2026-03-30T01:43:08.363Z"
     - **(B)** in a course offered pursuant to section 3019, 3034(a)(3), 3234, or 3241(a)(2) of this title;
     - **(C)** in a farm cooperative training course; or
     - **(D)** in a course described in subsection (g).
-- **(e)** The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
-  - **(1)** the educational institution has been operating for less than two years;
-  - **(2)** the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
-  - **(3)** following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+- **(e)**
+  - **(1)** 1 1 See Applicability of Amendment note below. The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
+    - **(A)** the educational institution has been operating for less than two years;
+    - **(B)** except as provided in paragraph (2),the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
+    - **(C)** following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+  - **(2)**
+    - **(A)** Subject to this paragraph, a commercial driver education program is exempt from paragraph (1)(B) for a branch of an educational institution if the commercial driver education program offered at the branch by the educational institution—
+      - **(i)** is appropriately licensed; and
+      - **(ii)** uses the same curriculum as a commercial driver education program offered by the educational institution at another location that is approved for purposes of this chapter by a State approving agency or the Secretary when acting in the role of a State approving agency.
+    - **(B)**
+      - **(i)** In order for a commercial driver education program of an educational institution offered at a branch described in paragraph (1)(B) to be exempt under subparagraph (A) of this paragraph, the educational institution shall submit to the Secretary each year that paragraph (1)(B) would otherwise apply a report that demonstrates that the curriculum at the new branch is the same as the curriculum at the primary location.
+      - **(ii)** Reporting under clause (i) shall be submitted in accordance with such requirements as the Secretary shall establish in consultation with the State approving agencies.
+    - **(C)**
+      - **(i)** The Secretary may withhold an exemption under subparagraph (A) for any educational institution or branch of an educational institution as the Secretary considers appropriate.
+      - **(ii)** In making any determination under clause (i), the Secretary may consult with the Secretary of Transportation on the performance of a provider of a commercial driver program, including the status of the provider within the Training Provider Registry of the Federal Motor Carrier Safety Administration when appropriate.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the Secretary may not approve the enrollment of an eligible veteran in a course as a part of a program of education offered by an educational institution if the course is provided under contract by another educational institution or entity and—
     - **(A)** the Secretary would be barred under subsection (e) from approving the enrollment of an eligible veteran in the course of the educational institution or entity providing the course under contract; or

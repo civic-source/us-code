@@ -3,9 +3,9 @@ title: "Section 7110 - Exhibiting licenses"
 usc_title: 46
 usc_section: "7110"
 chapter: 71
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "46 U.S.C. § 7110"
-generated_at: "2026-03-30T01:43:54.087Z"
+generated_at: "2026-03-30T01:46:29.549Z"
 ---
 
 # § 7110. Exhibiting licenses

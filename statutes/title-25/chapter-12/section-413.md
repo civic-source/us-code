@@ -3,9 +3,9 @@ title: "Section 413 - Fees to cover cost of work performed for Indians"
 usc_title: 25
 usc_section: "413"
 chapter: 12
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 413"
-generated_at: "2026-03-30T01:42:28.583Z"
+generated_at: "2026-03-30T01:45:36.870Z"
 ---
 
 # § 413. Fees to cover cost of work performed for Indians

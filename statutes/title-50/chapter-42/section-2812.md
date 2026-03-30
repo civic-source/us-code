@@ -3,9 +3,9 @@ title: "Section 2812 - Engineering and manufacturing research, development, and 
 usc_title: 50
 usc_section: "2812"
 chapter: 42
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 2812"
-generated_at: "2026-03-30T01:44:03.809Z"
+generated_at: "2026-03-30T01:46:30.984Z"
 ---
 
 # § 2812. Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities

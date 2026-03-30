@@ -3,9 +3,9 @@ title: "Section 2038 - Appointment of Army, Navy, or Air Force officer as Assist
 usc_title: 42
 usc_section: "2038"
 chapter: 23
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 2038"
-generated_at: "2026-03-30T01:43:39.986Z"
+generated_at: "2026-03-30T01:46:24.684Z"
 ---
 
 # § 2038. Appointment of Army, Navy, or Air Force officer as Assistant General Manager for Military Application; Chairman of Military Liaison Committee; compensation

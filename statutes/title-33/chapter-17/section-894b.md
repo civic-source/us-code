@@ -3,9 +3,9 @@ title: "Section 894b - Rights of the victim of a sexual assault"
 usc_title: 33
 usc_section: "894b"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 894b"
-generated_at: "2026-03-30T01:43:03.914Z"
+generated_at: "2026-03-30T01:46:01.086Z"
 ---
 
 # § 894b. Rights of the victim of a sexual assault

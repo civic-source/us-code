@@ -3,9 +3,9 @@ title: "Section 12831 - Equal opportunity"
 usc_title: 42
 usc_section: "12831"
 chapter: 130
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 12831"
-generated_at: "2026-03-30T01:43:40.271Z"
+generated_at: "2026-03-30T01:46:24.971Z"
 ---
 
 # § 12831. Equal opportunity

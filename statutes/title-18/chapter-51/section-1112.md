@@ -3,9 +3,9 @@ title: "Section 1112 - Manslaughter"
 usc_title: 18
 usc_section: "1112"
 chapter: 51
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "18 U.S.C. § 1112"
-generated_at: "2026-03-30T01:42:10.763Z"
+generated_at: "2026-03-30T01:45:19.071Z"
 ---
 
 # § 1112. Manslaughter

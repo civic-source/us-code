@@ -3,9 +3,9 @@ title: "Section 2710 - Disposition of effects of decedents"
 usc_title: 14
 usc_section: "2710"
 chapter: 27
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "14 U.S.C. § 2710"
-generated_at: "2026-03-30T01:41:51.502Z"
+generated_at: "2026-03-30T01:45:15.583Z"
 ---
 
 # § 2710. Disposition of effects of decedents

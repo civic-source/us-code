@@ -3,9 +3,9 @@ title: "Section 8787 - Hard white wheat development program"
 usc_title: 7
 usc_section: "8787"
 chapter: 113
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "7 U.S.C. § 8787"
-generated_at: "2026-03-30T01:41:40.634Z"
+generated_at: "2026-03-30T01:44:55.455Z"
 ---
 
 # § 8787. Hard white wheat development program

@@ -3,9 +3,9 @@ title: "Section 16275 - Department of Energy civilian nuclear infrastructure and
 usc_title: 42
 usc_section: "16275"
 chapter: 149
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 16275"
-generated_at: "2026-03-30T01:43:40.316Z"
+generated_at: "2026-03-30T01:46:25.014Z"
 ---
 
 # § 16275. Department of Energy civilian nuclear infrastructure and facilities

@@ -3,9 +3,9 @@ title: "Section 348 - Joint task forces"
 usc_title: 6
 usc_section: "348"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "6 U.S.C. § 348"
-generated_at: "2026-03-30T01:41:35.341Z"
+generated_at: "2026-03-30T01:44:52.303Z"
 ---
 
 # § 348. Joint task forces
@@ -63,12 +63,16 @@ generated_at: "2026-03-30T01:41:35.341Z"
   - **(9)** The Secretary shall—
     - **(A)** using leading practices in performance management and lessons learned by other law enforcement task forces and joint operations, establish—
       - **(i)** the mission, strategic goals, and objectives of each Joint Task Force;
-      - **(ii)** the criteria for terminating each Joint Task Force; and
+      - **(ii)** the criteria for terminating each Joint Task Force;
       - **(iii)** outcome-based and other appropriate performance metrics for evaluating the effectiveness of each Joint Task Force with respect to the mission, strategic goals, and objectives established pursuant to clause (i), including—
         - **(I)** targets for each Joint Task Force to achieve by not later than one and three years after such establishment; and
-        - **(II)** a description of the methodology used to establish such metrics;
+        - **(II)** a description of the methodology used to establish such metrics; and
+      - **(iv)** a staffing plan for each Joint Task Force;
     - **(B)** not later than 120 days after December 23, 2022 , and 120 days after the establishment of a new Joint Task Force, as appropriate, submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate the mission, strategic goals, objectives, and metrics established under subparagraph (A); and
-    - **(C)** not later than one year after December 23, 2022 , and annually thereafter, submit to the committees specified in subparagraph (B) a report that contains information on the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii).
+    - **(C)** not later than December 23, 2024 , and annually thereafter, submit to the committees specified in subparagraph (B) a report containing information regarding—
+      - **(i)** the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii);
+      - **(ii)** the staffing plan developed for each Joint Task Force pursuant to subparagraph (A)(iv); and
+      - **(iii)** any modification to the mission, strategic goals, and objectives of each Joint Task Force, and a description of, and rationale for, any such modifications.
   - **(10)**
     - **(A)** The Secretary shall—
       - **(i)** establish a joint duty training program in the Department for the purposes of—
@@ -108,5 +112,5 @@ generated_at: "2026-03-30T01:41:35.341Z"
     - **(B)** The review required under subparagraph (A) shall include—
       - **(i)** an assessment of methodology utilized to determine whether to establish or terminate each Joint Task Force; and
       - **(ii)** an assessment of the effectiveness of oversight over each Joint Task Force, with specificity regarding the Secretary’s utilization of outcome-based or other appropriate performance metrics (established pursuant to paragraph (9)(A)(iii)) to evaluate the effectiveness of each Joint Task Force in measuring progress with respect to the mission, strategic goals, and objectives (established pursuant to paragraph (9)(A)(i)) of such Joint Task Force.
-  - **(13)** This section expires on September 30, 2024 .
+  - **(13)** This section expires on September 30, 2026 .
 - **(c)** After establishing the joint duty training program under subsection (b)(10), the Secretary shall establish a joint duty assignment program within the Department for the purposes of enhancing coordination in the Department and promoting workforce professional development.

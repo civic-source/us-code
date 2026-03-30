@@ -3,9 +3,9 @@ title: "Section 178 - Retirement of judges of the Court of Federal Claims"
 usc_title: 28
 usc_section: "178"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "28 U.S.C. § 178"
-generated_at: "2026-03-30T01:42:48.667Z"
+generated_at: "2026-03-30T01:45:50.219Z"
 ---
 
 # § 178. Retirement of judges of the Court of Federal Claims

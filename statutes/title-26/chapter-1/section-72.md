@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T01:42:58.643Z"
+generated_at: "2026-03-30T01:45:55.904Z"
 ---
 
 # § 72. Annuities; certain proceeds of endowment and life insurance contracts

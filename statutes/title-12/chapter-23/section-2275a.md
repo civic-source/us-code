@@ -3,9 +3,9 @@ title: "Section 2275a - Transition rules relating to amendment of certain FCA ap
 usc_title: 12
 usc_section: "2275a"
 chapter: 23
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 2275a"
-generated_at: "2026-03-30T01:41:56.277Z"
+generated_at: "2026-03-30T01:45:12.305Z"
 ---
 
 # § 2275a. Transition rules relating to amendment of certain FCA approval authorities

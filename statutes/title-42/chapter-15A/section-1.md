@@ -3,9 +3,9 @@ title: "Section 1 - Reciprocal agreements with liability coverage"
 usc_title: 42
 usc_section: "1"
 chapter: 15
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:43:39.963Z"
+generated_at: "2026-03-30T01:46:24.658Z"
 ---
 
 # § 1856n–1. Reciprocal agreements with liability coverage

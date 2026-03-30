@@ -3,9 +3,9 @@ title: "Section 5739 - Authority for relocation expenses test programs"
 usc_title: 5
 usc_section: "5739"
 chapter: 57
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 5739"
-generated_at: "2026-03-30T01:41:30.827Z"
+generated_at: "2026-03-30T01:44:48.958Z"
 ---
 
 # § 5739. Authority for relocation expenses test programs

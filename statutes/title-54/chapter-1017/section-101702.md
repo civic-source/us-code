@@ -3,9 +3,9 @@ title: "Section 101702 - Cooperative agreements"
 usc_title: 54
 usc_section: "101702"
 chapter: 1017
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "54 U.S.C. § 101702"
-generated_at: "2026-03-30T01:44:12.778Z"
+generated_at: "2026-03-30T01:46:36.206Z"
 ---
 
 # § 101702. Cooperative agreements

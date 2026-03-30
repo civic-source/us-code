@@ -3,9 +3,9 @@ title: "Section 1741 - Definitions"
 usc_title: 2
 usc_section: "1741"
 chapter: 27
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 1741"
-generated_at: "2026-03-30T01:41:28.823Z"
+generated_at: "2026-03-30T01:44:29.087Z"
 ---
 
 # § 1741. Definitions

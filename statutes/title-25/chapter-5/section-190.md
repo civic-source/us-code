@@ -3,9 +3,9 @@ title: "Section 190 - Sale of plants or tracts not needed for administrative or 
 usc_title: 25
 usc_section: "190"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 190"
-generated_at: "2026-03-30T01:42:28.576Z"
+generated_at: "2026-03-30T01:45:36.864Z"
 ---
 
 # § 190. Sale of plants or tracts not needed for administrative or allotment purposes

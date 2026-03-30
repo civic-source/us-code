@@ -3,9 +3,9 @@ title: "Section 4052 - Definitions and special rules"
 usc_title: 26
 usc_section: "4052"
 chapter: 31
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 4052"
-generated_at: "2026-03-30T01:42:58.815Z"
+generated_at: "2026-03-30T01:45:56.064Z"
 ---
 
 # § 4052. Definitions and special rules

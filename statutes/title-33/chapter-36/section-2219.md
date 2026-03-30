@@ -3,9 +3,9 @@ title: "Section 2219 - Definitions"
 usc_title: 33
 usc_section: "2219"
 chapter: 36
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 2219"
-generated_at: "2026-03-30T01:43:03.949Z"
+generated_at: "2026-03-30T01:46:01.121Z"
 ---
 
 # § 2219. Definitions

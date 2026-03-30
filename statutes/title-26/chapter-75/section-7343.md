@@ -3,9 +3,9 @@ title: "Section 7343 - Definition of term “person”"
 usc_title: 26
 usc_section: "7343"
 chapter: 75
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 7343"
-generated_at: "2026-03-30T01:42:58.887Z"
+generated_at: "2026-03-30T01:45:56.130Z"
 ---
 
 # § 7343. Definition of term “person”

@@ -3,9 +3,9 @@ title: "Section 13 - National Advisory Committee on Oceans and Atmosphere"
 usc_title: 33
 usc_section: "13"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 13"
-generated_at: "2026-03-30T01:43:03.911Z"
+generated_at: "2026-03-30T01:46:01.083Z"
 ---
 
 # § 857–13. National Advisory Committee on Oceans and Atmosphere

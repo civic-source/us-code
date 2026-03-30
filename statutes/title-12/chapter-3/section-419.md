@@ -3,9 +3,9 @@ title: "Section 419 - Delivery of notes prior to delivery to banks"
 usc_title: 12
 usc_section: "419"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "12 U.S.C. § 419"
-generated_at: "2026-03-30T01:41:56.141Z"
+generated_at: "2026-03-30T01:45:12.211Z"
 ---
 
 # § 419. Delivery of notes prior to delivery to banks

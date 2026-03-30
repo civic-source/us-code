@@ -3,9 +3,9 @@ title: "Section 2602 - Definitions"
 usc_title: 16
 usc_section: "2602"
 chapter: 46
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 2602"
-generated_at: "2026-03-30T01:42:21.835Z"
+generated_at: "2026-03-30T01:45:26.383Z"
 ---
 
 # § 2602. Definitions

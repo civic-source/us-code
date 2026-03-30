@@ -3,9 +3,9 @@ title: "Section 40132 - National strategic plan for aviation workforce developme
 usc_title: 49
 usc_section: "40132"
 chapter: 401
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "49 U.S.C. § 40132"
-generated_at: "2026-03-30T01:44:06.289Z"
+generated_at: "2026-03-30T01:46:33.591Z"
 ---
 
 # § 40132. National strategic plan for aviation workforce development

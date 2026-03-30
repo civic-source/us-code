@@ -3,9 +3,9 @@ title: "Section 441 - Badlands National Park; establishment"
 usc_title: 16
 usc_section: "441"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 441"
-generated_at: "2026-03-30T01:42:21.666Z"
+generated_at: "2026-03-30T01:45:26.233Z"
 ---
 
 # § 441. Badlands National Park; establishment

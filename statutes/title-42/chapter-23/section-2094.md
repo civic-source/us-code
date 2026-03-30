@@ -3,9 +3,9 @@ title: "Section 2094 - Foreign distribution of source material"
 usc_title: 42
 usc_section: "2094"
 chapter: 23
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 2094"
-generated_at: "2026-03-30T01:43:39.987Z"
+generated_at: "2026-03-30T01:46:24.687Z"
 ---
 
 # § 2094. Foreign distribution of source material

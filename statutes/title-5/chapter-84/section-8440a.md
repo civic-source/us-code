@@ -3,9 +3,9 @@ title: "Section 8440a - Justices and judges"
 usc_title: 5
 usc_section: "8440a"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 8440a"
-generated_at: "2026-03-30T01:41:30.851Z"
+generated_at: "2026-03-30T01:44:48.984Z"
 ---
 
 # § 8440a. Justices and judges

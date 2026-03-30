@@ -3,9 +3,9 @@ title: "Section 319 - Office of Employment Discrimination Complaint Adjudication
 usc_title: 38
 usc_section: "319"
 chapter: 3
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 319"
-generated_at: "2026-03-30T01:43:08.324Z"
+generated_at: "2026-03-30T01:46:05.826Z"
 ---
 
 # § 319. Office of Employment Discrimination Complaint Adjudication

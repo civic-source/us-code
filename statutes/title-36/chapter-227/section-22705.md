@@ -3,9 +3,9 @@ title: "Section 22705 - Powers"
 usc_title: 36
 usc_section: "22705"
 chapter: 227
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 22705"
-generated_at: "2026-03-30T01:43:06.773Z"
+generated_at: "2026-03-30T01:46:03.887Z"
 ---
 
 # § 22705. Powers

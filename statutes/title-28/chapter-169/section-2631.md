@@ -3,9 +3,9 @@ title: "Section 2631 - Persons entitled to commence a civil action"
 usc_title: 28
 usc_section: "2631"
 chapter: 169
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "28 U.S.C. § 2631"
-generated_at: "2026-03-30T01:42:48.692Z"
+generated_at: "2026-03-30T01:45:50.243Z"
 ---
 
 # § 2631. Persons entitled to commence a civil action

@@ -3,9 +3,9 @@ title: "Section 139 - Provider requirements to protect patients and improve the 
 usc_title: 42
 usc_section: "139"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 139"
-generated_at: "2026-03-30T01:43:39.692Z"
+generated_at: "2026-03-30T01:46:24.383Z"
 ---
 
 # § 300gg–139. Provider requirements to protect patients and improve the accuracy of provider directory information

@@ -3,9 +3,9 @@ title: "Section 5043 - Collection of taxes on wines"
 usc_title: 26
 usc_section: "5043"
 chapter: 51
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 5043"
-generated_at: "2026-03-30T01:42:58.835Z"
+generated_at: "2026-03-30T01:45:56.083Z"
 ---
 
 # § 5043. Collection of taxes on wines

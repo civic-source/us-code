@@ -3,9 +3,9 @@ title: "Section 745a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV]
 usc_title: 33
 usc_section: "745a"
 chapter: 16
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 745a"
-generated_at: "2026-03-30T01:43:03.910Z"
+generated_at: "2026-03-30T01:46:01.083Z"
 ---
 
 # § 745a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(6), Jan. 1, 2021 , 134 Stat. 4759

@@ -3,9 +3,9 @@ title: "Section 8255 - Budget treatment for energy conservation measures"
 usc_title: 42
 usc_section: "8255"
 chapter: 91
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 8255"
-generated_at: "2026-03-30T01:43:40.173Z"
+generated_at: "2026-03-30T01:46:24.878Z"
 ---
 
 # § 8255. Budget treatment for energy conservation measures

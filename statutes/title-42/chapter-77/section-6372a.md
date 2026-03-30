@@ -3,9 +3,9 @@ title: "Section 6372a - Guidelines"
 usc_title: 42
 usc_section: "6372a"
 chapter: 77
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 6372a"
-generated_at: "2026-03-30T01:43:40.093Z"
+generated_at: "2026-03-30T01:46:24.798Z"
 ---
 
 # § 6372a. Guidelines

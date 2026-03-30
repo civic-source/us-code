@@ -3,9 +3,9 @@ title: "Section 430r - Rules and regulations"
 usc_title: 16
 usc_section: "430r"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 430r"
-generated_at: "2026-03-30T01:42:21.664Z"
+generated_at: "2026-03-30T01:45:26.231Z"
 ---
 
 # § 430r. Rules and regulations

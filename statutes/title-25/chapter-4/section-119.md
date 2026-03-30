@@ -3,9 +3,9 @@ title: "Section 119 - Allotment of tribal funds to individual Indians"
 usc_title: 25
 usc_section: "119"
 chapter: 4
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 119"
-generated_at: "2026-03-30T01:42:28.573Z"
+generated_at: "2026-03-30T01:45:36.862Z"
 ---
 
 # § 119. Allotment of tribal funds to individual Indians

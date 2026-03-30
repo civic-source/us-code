@@ -3,9 +3,9 @@ title: "Section 28d - Distribution of Precedents by Director of the Government P
 usc_title: 2
 usc_section: "28d"
 chapter: 2
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 28d"
-generated_at: "2026-03-30T01:41:28.792Z"
+generated_at: "2026-03-30T01:44:29.049Z"
 ---
 
 # § 28d. Distribution of Precedents by Director of the Government Publishing Office for official use; particular distribution; marking and ownership of sets

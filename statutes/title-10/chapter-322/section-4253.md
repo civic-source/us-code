@@ -3,9 +3,9 @@ title: "Section 4253 - Major defense acquisition programs: submissions to Congre
 usc_title: 10
 usc_section: "4253"
 chapter: 322
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 4253"
-generated_at: "2026-03-30T01:41:48.614Z"
+generated_at: "2026-03-30T01:45:05.267Z"
 ---
 
 # § 4253. Major defense acquisition programs: submissions to Congress on Milestone C

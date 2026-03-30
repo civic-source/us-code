@@ -3,9 +3,9 @@ title: "Section 544e - Administration of scenic area"
 usc_title: 16
 usc_section: "544e"
 chapter: 2
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 544e"
-generated_at: "2026-03-30T01:42:21.723Z"
+generated_at: "2026-03-30T01:45:26.284Z"
 ---
 
 # § 544e. Administration of scenic area

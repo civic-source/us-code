@@ -3,9 +3,9 @@ title: "Section 4652 - Semiconductor incentives"
 usc_title: 15
 usc_section: "4652"
 chapter: 72
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 4652"
-generated_at: "2026-03-30T01:42:01.312Z"
+generated_at: "2026-03-30T01:45:14.999Z"
 ---
 
 # § 4652. Semiconductor incentives
@@ -189,11 +189,17 @@ generated_at: "2026-03-30T01:42:01.312Z"
     - **(B)** adequate provision is made for servicing the loan on reasonable terms and protecting the financial interest of the United States.
   - **(7)** New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations of budget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with section 661c(b) of title 2 .
   - **(8)** The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of 3 3 So in original. Probably should be “or”. waived without the consent of the Secretary.
-- **(h)** Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
+- **(h)**
+  - **(1)** Notwithstanding any other provision of law, the provision by the Secretary of Federal financial assistance for a project described in this section that satisfies the requirements under subsection (a)(2)(C)(i) of this section shall not be considered to be a major Federal action under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) (referred to in this subsection as “NEPA”) or an undertaking for the purposes of division A of subtitle III of title 54 if—
+    - **(A)** the activity described in the application for that project has commenced not later than December 31, 2024 ;
+    - **(B)** the Federal financial assistance provided is in the form of a loan or loan guarantee; or
+    - **(C)** the Federal financial assistance provided, excluding any loan or loan guarantee, comprises not more than 10 percent of the total estimated cost of the project.
+  - **(2)** Nothing in this subsection may be construed as altering whether an activity described in subparagraph (A), (B), or (C) of paragraph (1) is considered to be a major Federal action under NEPA, or an undertaking under division A of subtitle III of title 54, for a reason other than that the activity is eligible for Federal financial assistance provided under this section.
+- **(i)** Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
   - **(1)** whether the eligibility requirements for covered entities receiving financial assistance under the program are met;
   - **(2)** whether eligible entities use the financial assistance received under the program in accordance with the requirements of this section;
   - **(3)** whether the covered entities receiving financial assistance under this program have carried out the commitments made to worker and community investment under subsection (a)(2)(B)(ii)(II) by the target date for completion set by the Secretary under subsection (a)(5)(A);
   - **(4)** whether the required agreement entered into by covered entities and the Secretary under subsection (a)(6)(C)(i), including the notification process, has been carried out to provide covered entities sufficient guidance about a violation of the required agreement;
   - **(5)** whether the Secretary has provided timely Congressional notification about violations of the required agreement under subsection (a)(6)(C)(i), including the required information on how the Secretary reached a determination of whether a covered entity was in violation under subsection (a)(6)(E); and
   - **(6)** whether the Secretary has sufficiently reviewed any covered entity engaging in a listed exception under subsection (a)(6)(C)(ii).
-- **(i)** No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.
+- **(j)** No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.

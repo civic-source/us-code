@@ -3,9 +3,9 @@ title: "Section 1306 - Reporting official action"
 usc_title: 49
 usc_section: "1306"
 chapter: 13
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "49 U.S.C. § 1306"
-generated_at: "2026-03-30T01:44:06.217Z"
+generated_at: "2026-03-30T01:46:33.522Z"
 ---
 
 # § 1306. Reporting official action

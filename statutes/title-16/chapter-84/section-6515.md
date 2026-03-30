@@ -3,9 +3,9 @@ title: "Section 6515 - Special administrative review process"
 usc_title: 16
 usc_section: "6515"
 chapter: 84
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "16 U.S.C. § 6515"
-generated_at: "2026-03-30T01:42:21.877Z"
+generated_at: "2026-03-30T01:45:26.421Z"
 ---
 
 # § 6515. Special administrative review process

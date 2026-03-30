@@ -3,9 +3,9 @@ title: "Section 1826 - Authorization of appropriations"
 usc_title: 48
 usc_section: "1826"
 chapter: 17
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "48 U.S.C. § 1826"
-generated_at: "2026-03-30T01:43:49.174Z"
+generated_at: "2026-03-30T01:46:28.089Z"
 ---
 
 # § 1826. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2291b - Prohibition on use of foreign assistance for reimburseme
 usc_title: 22
 usc_section: "2291b"
 chapter: 32
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 2291b"
-generated_at: "2026-03-30T01:42:44.524Z"
+generated_at: "2026-03-30T01:45:40.080Z"
 ---
 
 # § 2291b. Prohibition on use of foreign assistance for reimbursements for drug crop eradications

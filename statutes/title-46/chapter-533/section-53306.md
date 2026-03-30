@@ -3,9 +3,9 @@ title: "Section 53306 - Recognition of gain for tax purposes"
 usc_title: 46
 usc_section: "53306"
 chapter: 533
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "46 U.S.C. § 53306"
-generated_at: "2026-03-30T01:43:54.112Z"
+generated_at: "2026-03-30T01:46:29.574Z"
 ---
 
 # § 53306. Recognition of gain for tax purposes

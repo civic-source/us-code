@@ -3,9 +3,9 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T01:43:39.757Z"
+generated_at: "2026-03-30T01:46:24.452Z"
 ---
 
 # § 1320a–7a. Civil monetary penalties

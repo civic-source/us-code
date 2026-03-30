@@ -3,9 +3,9 @@ title: "Section 286i - Stabilization loans by Bank; amendment to Articles of Agr
 usc_title: 22
 usc_section: "286i"
 chapter: 7
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 286i"
-generated_at: "2026-03-30T01:42:44.489Z"
+generated_at: "2026-03-30T01:45:40.046Z"
 ---
 
 # § 286i. Stabilization loans by Bank; amendment to Articles of Agreement

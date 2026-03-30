@@ -3,9 +3,9 @@ title: "Section 5001 - Grants and contracts for volunteer service projects"
 usc_title: 42
 usc_section: "5001"
 chapter: 66
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 5001"
-generated_at: "2026-03-30T01:43:40.050Z"
+generated_at: "2026-03-30T01:46:24.754Z"
 ---
 
 # § 5001. Grants and contracts for volunteer service projects

@@ -3,9 +3,9 @@ title: "Section 381 - Definitions"
 usc_title: 2
 usc_section: "381"
 chapter: 12
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 381"
-generated_at: "2026-03-30T01:41:28.802Z"
+generated_at: "2026-03-30T01:44:29.062Z"
 ---
 
 # § 381. Definitions

@@ -3,9 +3,9 @@ title: "Section 346 - Proceedings in actions for allotments"
 usc_title: 25
 usc_section: "346"
 chapter: 9
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "25 U.S.C. § 346"
-generated_at: "2026-03-30T01:42:28.580Z"
+generated_at: "2026-03-30T01:45:36.867Z"
 ---
 
 # § 346. Proceedings in actions for allotments

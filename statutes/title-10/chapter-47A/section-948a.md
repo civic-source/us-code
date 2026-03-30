@@ -3,9 +3,9 @@ title: "Section 948a - Definitions"
 usc_title: 10
 usc_section: "948a"
 chapter: 47
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 948a"
-generated_at: "2026-03-30T01:41:48.496Z"
+generated_at: "2026-03-30T01:45:05.183Z"
 ---
 
 # § 948a. Definitions

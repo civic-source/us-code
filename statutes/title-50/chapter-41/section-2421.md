@@ -3,9 +3,9 @@ title: "Section 2421 - Protection of national security information"
 usc_title: 50
 usc_section: "2421"
 chapter: 41
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 2421"
-generated_at: "2026-03-30T01:44:03.799Z"
+generated_at: "2026-03-30T01:46:30.973Z"
 ---
 
 # § 2421. Protection of national security information

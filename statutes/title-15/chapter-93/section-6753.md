@@ -3,9 +3,9 @@ title: "Section 6753 - Membership"
 usc_title: 15
 usc_section: "6753"
 chapter: 93
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "15 U.S.C. § 6753"
-generated_at: "2026-03-30T01:42:01.329Z"
+generated_at: "2026-03-30T01:45:15.013Z"
 ---
 
 # § 6753. Membership

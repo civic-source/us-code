@@ -3,9 +3,9 @@ title: "Section 1310 - Deaths entitling survivors to dependency and indemnity co
 usc_title: 38
 usc_section: "1310"
 chapter: 13
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 1310"
-generated_at: "2026-03-30T01:43:08.331Z"
+generated_at: "2026-03-30T01:46:05.834Z"
 ---
 
 # § 1310. Deaths entitling survivors to dependency and indemnity compensation

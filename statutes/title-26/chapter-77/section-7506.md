@@ -3,9 +3,9 @@ title: "Section 7506 - Administration of real estate acquired by the United Stat
 usc_title: 26
 usc_section: "7506"
 chapter: 77
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 7506"
-generated_at: "2026-03-30T01:42:58.892Z"
+generated_at: "2026-03-30T01:45:56.136Z"
 ---
 
 # § 7506. Administration of real estate acquired by the United States

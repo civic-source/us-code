@@ -3,9 +3,9 @@ title: "Section 1819 - Computer backup facilities for legislative offices"
 usc_title: 2
 usc_section: "1819"
 chapter: 28
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "2 U.S.C. § 1819"
-generated_at: "2026-03-30T01:41:28.824Z"
+generated_at: "2026-03-30T01:44:29.088Z"
 ---
 
 # § 1819. Computer backup facilities for legislative offices

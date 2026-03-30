@@ -3,9 +3,9 @@ title: "Section 3532 - Reporting and investigation of allegations of sexual assa
 usc_title: 50
 usc_section: "3532"
 chapter: 46
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "50 U.S.C. § 3532"
-generated_at: "2026-03-30T01:44:03.839Z"
+generated_at: "2026-03-30T01:46:31.013Z"
 ---
 
 # § 3532. Reporting and investigation of allegations of sexual assault and sexual harassment

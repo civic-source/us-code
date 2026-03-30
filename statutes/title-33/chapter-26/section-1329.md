@@ -3,9 +3,9 @@ title: "Section 1329 - Nonpoint source management programs"
 usc_title: 33
 usc_section: "1329"
 chapter: 26
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "33 U.S.C. § 1329"
-generated_at: "2026-03-30T01:43:03.936Z"
+generated_at: "2026-03-30T01:46:01.108Z"
 ---
 
 # § 1329. Nonpoint source management programs

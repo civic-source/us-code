@@ -3,9 +3,9 @@ title: "Section 220706 - Powers"
 usc_title: 36
 usc_section: "220706"
 chapter: 2207
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "36 U.S.C. § 220706"
-generated_at: "2026-03-30T01:43:06.789Z"
+generated_at: "2026-03-30T01:46:03.905Z"
 ---
 
 # § 220706. Powers

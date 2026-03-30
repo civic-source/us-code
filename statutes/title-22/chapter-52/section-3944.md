@@ -3,9 +3,9 @@ title: "Section 3944 - Chiefs of Mission"
 usc_title: 22
 usc_section: "3944"
 chapter: 52
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "22 U.S.C. § 3944"
-generated_at: "2026-03-30T01:42:44.572Z"
+generated_at: "2026-03-30T01:45:40.127Z"
 ---
 
 # § 3944. Chiefs of Mission

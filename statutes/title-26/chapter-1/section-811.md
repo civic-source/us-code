@@ -3,9 +3,9 @@ title: "Section 811 - Accounting provisions"
 usc_title: 26
 usc_section: "811"
 chapter: 1
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "26 U.S.C. § 811"
-generated_at: "2026-03-30T01:42:58.748Z"
+generated_at: "2026-03-30T01:45:56.001Z"
 ---
 
 # § 811. Accounting provisions

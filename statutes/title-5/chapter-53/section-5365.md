@@ -3,9 +3,9 @@ title: "Section 5365 - Regulations"
 usc_title: 5
 usc_section: "5365"
 chapter: 53
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "5 U.S.C. § 5365"
-generated_at: "2026-03-30T01:41:30.819Z"
+generated_at: "2026-03-30T01:44:48.949Z"
 ---
 
 # § 5365. Regulations

@@ -3,9 +3,9 @@ title: "Section 1602 - Separability"
 usc_title: 7
 usc_section: "1602"
 chapter: 37
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "7 U.S.C. § 1602"
-generated_at: "2026-03-30T01:41:40.498Z"
+generated_at: "2026-03-30T01:44:55.334Z"
 ---
 
 # § 1602. Separability

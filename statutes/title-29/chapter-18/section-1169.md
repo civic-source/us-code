@@ -3,9 +3,9 @@ title: "Section 1169 - Additional standards for group health plans"
 usc_title: 29
 usc_section: "1169"
 chapter: 18
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "29 U.S.C. § 1169"
-generated_at: "2026-03-30T01:42:49.922Z"
+generated_at: "2026-03-30T01:45:44.237Z"
 ---
 
 # § 1169. Additional standards for group health plans

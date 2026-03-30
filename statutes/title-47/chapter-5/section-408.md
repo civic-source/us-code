@@ -3,9 +3,9 @@ title: "Section 408 - Order not for payment of money; when effective"
 usc_title: 47
 usc_section: "408"
 chapter: 5
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "47 U.S.C. § 408"
-generated_at: "2026-03-30T01:43:44.008Z"
+generated_at: "2026-03-30T01:46:28.648Z"
 ---
 
 # § 408. Order not for payment of money; when effective

@@ -3,9 +3,9 @@ title: "Section 3324 - Allocation of administration and costs"
 usc_title: 38
 usc_section: "3324"
 chapter: 33
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "38 U.S.C. § 3324"
-generated_at: "2026-03-30T01:43:08.359Z"
+generated_at: "2026-03-30T01:46:05.860Z"
 ---
 
 # § 3324. Allocation of administration and costs

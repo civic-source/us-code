@@ -3,9 +3,9 @@ title: "Section 7c - Tuberculosis"
 usc_title: 42
 usc_section: "7c"
 chapter: 6
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-30T01:43:39.597Z"
+generated_at: "2026-03-30T01:46:24.282Z"
 ---
 
 # § 285b–7c. Tuberculosis

@@ -3,9 +3,9 @@ title: "Section 2345 - Effect on State and local law"
 usc_title: 18
 usc_section: "2345"
 chapter: 114
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "18 U.S.C. § 2345"
-generated_at: "2026-03-30T01:42:10.784Z"
+generated_at: "2026-03-30T01:45:19.091Z"
 ---
 
 # § 2345. Effect on State and local law

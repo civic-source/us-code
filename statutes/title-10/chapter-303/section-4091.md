@@ -3,9 +3,9 @@ title: "Section 4091 - Authorities for certain positions at science and technolo
 usc_title: 10
 usc_section: "4091"
 chapter: 303
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "10 U.S.C. § 4091"
-generated_at: "2026-03-30T01:41:48.610Z"
+generated_at: "2026-03-30T01:45:05.264Z"
 ---
 
 # § 4091. Authorities for certain positions at science and technology reinvention laboratories

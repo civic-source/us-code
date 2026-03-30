@@ -3,9 +3,9 @@ title: "Section 1516 - Exemptions"
 usc_title: 31
 usc_section: "1516"
 chapter: 15
-current_through: "PL 118-90"
+current_through: "PL 118-105"
 classification: "31 U.S.C. § 1516"
-generated_at: "2026-03-30T01:43:02.862Z"
+generated_at: "2026-03-30T01:45:58.839Z"
 ---
 
 # § 1516. Exemptions
